@@ -21,6 +21,8 @@
 
 [🧒 Empezar con 1° básico](docs/1-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
+[📋 Plan maestro por nivel, asignatura e ítem](docs/PLAN_DESARROLLO.md)
+
 </div>
 
 ---
@@ -252,6 +254,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 - [Formatos Markdown y HTML](docs/FORMATOS.md)
 - [Licencias y reutilización](docs/LICENCIAS.md)
 - [Roadmap nivel por nivel](ROADMAP.md)
+- [Plan maestro de desarrollo y control profesional](docs/PLAN_DESARROLLO.md)
 - [Contribución y flujo de cambios](CONTRIBUTING.md)
 
 ## 🗺️ Cobertura total

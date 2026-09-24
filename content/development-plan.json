@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-24",
+  "active_level": "1° básico",
+  "active_subject": "Matemática",
+  "delivery_unit": "asignatura completa",
+  "subject_order": [
+    "Matemática",
+    "Lenguaje y Comunicación",
+    "Ciencias Naturales",
+    "Historia, Geografía y Ciencias Sociales",
+    "Artes Visuales",
+    "Música",
+    "Educación Física y Salud",
+    "Orientación",
+    "Tecnología",
+    "Inglés (Propuesta)",
+    "Lengua y Cultura de los Pueblos Originarios Ancestrales"
+  ],
+  "objective_status": {
+    "AR01 OA 01": "desarrollado",
+    "LE01 OA 03": "desarrollado",
+    "MA01 OA 01": "desarrollado",
+    "MA01 OA 02": "en_desarrollo",
+    "MA01 OA 03": "en_desarrollo",
+    "MA01 OA 04": "en_desarrollo",
+    "MA01 OA 05": "en_desarrollo"
+  },
+  "professional_controls": {
+    "disciplinary": {"status": "pendiente", "evidence": null},
+    "pedagogical": {"status": "pendiente", "evidence": null},
+    "accessibility_and_inclusion": {"status": "pendiente", "evidence": null},
+    "cultural_and_contextual": {"status": "pendiente", "evidence": null},
+    "documentary_and_sources": {"status": "interno_en_curso", "evidence": "URL oficial e indicadores registrados por secuencia desarrollada"},
+    "rights_and_privacy": {"status": "interno_en_curso", "evidence": "validación automática de licencias y prohibición de datos personales"}
+  },
+  "completion_gates": [
+    "Todos los OA disciplinares tienen secuencias específicas y completas.",
+    "Habilidades y actitudes están mapeadas dentro de las clases y no se contabilizan como clases independientes.",
+    "Cada clase contiene ejemplo disciplinar, práctica, evidencia, criterios, tarea y acciones ante dificultades.",
+    "Markdown y HTML se generan desde la misma fuente y conservan enlaces de su propio formato.",
+    "Generación, validadores, pruebas, compilación y reproducibilidad quedan en verde.",
+    "La revisión profesional solo se declara cuando existe nombre o rol, fecha, alcance y evidencia registrada."
+  ]
+}

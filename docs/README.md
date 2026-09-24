@@ -39,6 +39,7 @@ Aquí puedes responder:
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
 | Evaluar | [Rúbrica](RUBRICA_EVALUACION.md) | niveles de evidencia, criterios disciplinares y decisiones |
 | Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
+| Seguir el desarrollo ítem por ítem | [Plan maestro](PLAN_DESARROLLO.md) | orden por nivel y asignatura, estados, gates y controles profesionales |
 | Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia y validación de 12.997 clases |
 | Reutilizar contenido o código | [Licencias](LICENCIAS.md) | reglas por tipo de obra y atribución |
 | Resolver dudas | [FAQ](FAQ.md) | alcance, tiempos, estados, adaptaciones y fuentes |
@@ -102,6 +103,7 @@ README.md
 ├── docs/QUE_ES_UN_OA.md           ← explicación sin jerga
 ├── docs/GLOSARIO.md               ← términos, siglas y estados
 ├── docs/COBERTURA.md              ← 12 niveles navegables
+├── docs/PLAN_DESARROLLO.md       ← seguimiento por asignatura e ítem
 ├── docs/ROLES_DOCENTES.md         ← equipo profesional de aula
 ├── docs/DIFICULTADES_EN_EL_AULA.md ← acciones observables
 ├── docs/FORMATOS.md               ← Markdown + HTML

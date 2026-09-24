@@ -146,6 +146,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
         "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
         "docs/COBERTURA.md": ("Cobertura completa y navegable", "12.997"),
+        "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "Plan por asignatura e ítem", "Controles profesionales", "MA01 OA 20", "Gates para cerrar una asignatura"),
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),

@@ -19,6 +19,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: "3.12"
+      - run: python scripts/generate_development_plan.py
       - run: python scripts/generate_school_program.py
       - run: python scripts/validate_school_program.py
       - run: python scripts/validate_licensing.py
