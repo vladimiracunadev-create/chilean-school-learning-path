@@ -33,7 +33,7 @@ def transversal_links(oa_number: int, lesson_index: int, lesson_goal: str) -> li
     skill_code, skill = MATH_SKILLS[(oa_number * 3 + lesson_index) % len(MATH_SKILLS)]
     attitude_code, attitude = MATH_ATTITUDES[(oa_number + lesson_index * 2) % len(MATH_ATTITUDES)]
     return [
-        {"code": skill_code, "type": "Habilidad", "application": f"Se observa al {skill} mientras el estudiante {lesson_goal}."},
+        {"code": skill_code, "type": "Habilidad", "application": f"Se observa al {skill}. La evidencia se recoge durante la meta estudiantil «{lesson_goal}»."},
         {"code": attitude_code, "type": "Actitud", "application": f"Se promueve {attitude}: se retroalimenta la decisión y la revisión, no rapidez ni obediencia."},
     ]
 
