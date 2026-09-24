@@ -1,16 +1,8 @@
-name: Verify and publish Pages
+name: Manual curriculum audit
 on:
-  push:
-    branches: [main]
-  pull_request:
   workflow_dispatch:
 permissions:
   contents: read
-  pages: write
-  id-token: write
-concurrency:
-  group: pages
-  cancel-in-progress: true
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -19,20 +11,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/generate_school_program.py
       - run: python scripts/validate_school_program.py
-      - run: git diff --exit-code
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-  deploy:
-    if: github.event_name != 'pull_request'
-    environment:
-      name: github-pages
-    needs: verify
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy
-        uses: actions/deploy-pages@v4
 
