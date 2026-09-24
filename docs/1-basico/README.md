@@ -1,6 +1,6 @@
 # 📚 Programa completo de 1° básico
 
-> [⬅️ Volver al programa](../../README.md) · [🌐 Abrir vista visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)
+> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)
 
 **1.034 clases · 237 OA · 11 asignaturas · desarrollo editorial completo · revisión humana pendiente**
 

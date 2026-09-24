@@ -2,7 +2,7 @@
 
 Esta guía ayuda a transformar una ficha del portal en una experiencia enseñable. La secuencia es un punto de partida: el docente conserva el OA y ajusta ritmo, acceso, contexto y profundidad según la evidencia del curso.
 
-[Abrir 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Programa por asignaturas](docs/1-basico/README.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
+[Abrir 1° básico](docs/1-basico/README.md) · [Índice curricular](CURRICULUM.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
 
 ## Antes de la clase
 

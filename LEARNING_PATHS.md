@@ -24,7 +24,7 @@ No todas las personas necesitan recorrer el repositorio del mismo modo. Estas ru
 
 ## Familia o persona cuidadora · comprender el aprendizaje
 
-1. Busca nivel, asignatura o tema en el [portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/).
+1. Busca nivel, asignatura o tema en el [índice Markdown](CURRICULUM.md).
 2. Lee “Qué se espera aprender” y la meta para estudiantes.
 3. Revisa materiales y ejemplos para comprender la experiencia propuesta.
 4. Usa la ficha como orientación; coordina apoyos con el establecimiento.

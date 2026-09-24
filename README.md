@@ -16,12 +16,12 @@
 [![Idioma](https://img.shields.io/badge/idioma-español-blue?style=flat-square)](README.md)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](.github/workflows/pages.yml)
 [![Markdown](https://img.shields.io/badge/Markdown-2.823%20fichas-000000?style=flat-square&logo=markdown&logoColor=white)](CURRICULUM.md)
-[![HTML](https://img.shields.io/badge/HTML-2.823%20páginas-E34F26?style=flat-square&logo=html5&logoColor=white)](https://vladimiracunadev-create.github.io/chilean-school-learning-path/)
+![HTML](https://img.shields.io/badge/HTML-2.823%20páginas-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-sitio%20vivo-222?style=flat-square&logo=githubpages&logoColor=white)](https://vladimiracunadev-create.github.io/chilean-school-learning-path/)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-sitio%20vivo-222?style=flat-square&logo=githubpages&logoColor=white)
 
-[🌐 Abrir el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [📚 Documentación visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html) · [🧒 1° básico completo](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [🗂️ Índice completo](CURRICULUM.md) · [📖 Glosario](docs/GLOSARIO.md) · [🧭 Rutas de uso](LEARNING_PATHS.md) · [📘 Syllabus](docs/SYLLABUS.md) · [🗺️ Roadmap](ROADMAP.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🗂️ Índice completo](CURRICULUM.md) · [🧒 1° básico](docs/1-basico/README.md) · [📚 Centro documental](docs/README.md) · [📖 Glosario](docs/GLOSARIO.md) · [🧭 Rutas de uso](LEARNING_PATHS.md) · [📘 Syllabus](docs/SYLLABUS.md) · [🗺️ Roadmap](ROADMAP.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 </div>
 
@@ -83,7 +83,7 @@ El snapshot fue comprobado el **2026-09-24**. Conserva **595 enlaces de lectura*
 
 ## 🌐 Portal, navegación y formatos
 
-El [portal web](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) convierte el catálogo en una experiencia navegable:
+El sitio HTML de GitHub Pages convierte el catálogo en una experiencia navegable. La documentación Markdown mantiene, por separado, enlaces únicamente hacia otros archivos del repositorio:
 
 - búsqueda por palabra, OA o código de clase;
 - filtros por nivel, asignatura y tipo de cobertura;
@@ -219,7 +219,7 @@ No todas las personas deben leerlo en el mismo orden. Las [rutas de uso completa
 
 ## 🧭 Cómo usarlo en seis pasos
 
-1. Elige nivel, asignatura y OA en el [portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/).
+1. Elige nivel, asignatura y OA en el [índice Markdown](CURRICULUM.md).
 2. Lee la guía de asignatura para entender la progresión.
 3. Revisa todas las clases del OA antes de preparar una.
 4. Define evidencia y criterios antes de elegir materiales.
@@ -289,18 +289,18 @@ En lengua y cultura de pueblos originarios, la propuesta debe ajustarse al terri
 
 | Nivel | OA | Clases | Estado de desarrollo |
 |---|---:|---:|---|
-| [1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0%20b%C3%A1sico#explorar) | 237 | 1.034 | completo |
-| [2° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=2%C2%B0%20b%C3%A1sico#explorar) | 247 | 1.072 | secuenciado |
-| [3° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=3%C2%B0%20b%C3%A1sico#explorar) | 257 | 1.136 | 11 clases piloto |
-| [4° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=4%C2%B0%20b%C3%A1sico#explorar) | 268 | 1.195 | 4 clases piloto |
-| [5° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=5%C2%B0%20b%C3%A1sico#explorar) | 295 | 1.340 | secuenciado |
-| [6° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=6%C2%B0%20b%C3%A1sico#explorar) | 301 | 1.374 | secuenciado |
-| [7° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=7%C2%B0%20b%C3%A1sico#explorar) | 275 | 1.275 | secuenciado |
-| [8° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=8%C2%B0%20b%C3%A1sico#explorar) | 253 | 1.201 | 7 clases piloto |
-| [1° medio](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0%20medio#explorar) | 253 | 1.209 | secuenciado |
-| [2° medio](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=2%C2%B0%20medio#explorar) | 248 | 1.200 | secuenciado |
-| [3° medio · Formación General](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=3%C2%B0%20medio%20%C2%B7%20Formaci%C3%B3n%20General#explorar) | 98 | 495 | secuenciado |
-| [4° medio · Formación General](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=4%C2%B0%20medio%20%C2%B7%20Formaci%C3%B3n%20General#explorar) | 91 | 466 | secuenciado |
+| 1° básico | 237 | 1.034 | completo |
+| 2° básico | 247 | 1.072 | secuenciado |
+| 3° básico | 257 | 1.136 | 11 clases piloto |
+| 4° básico | 268 | 1.195 | 4 clases piloto |
+| 5° básico | 295 | 1.340 | secuenciado |
+| 6° básico | 301 | 1.374 | secuenciado |
+| 7° básico | 275 | 1.275 | secuenciado |
+| 8° básico | 253 | 1.201 | 7 clases piloto |
+| 1° medio | 253 | 1.209 | secuenciado |
+| 2° medio | 248 | 1.200 | secuenciado |
+| 3° medio · Formación General | 98 | 495 | secuenciado |
+| 4° medio · Formación General | 91 | 466 | secuenciado |
 | **Total** | **2.823** | **12.997** | **1.056 desarrolladas** |
 
 ## 🔎 Fuente, generación y controles

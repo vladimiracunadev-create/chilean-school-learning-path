@@ -1,0 +1,35 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Metodología · documentación pedagógica de Trayectoria Escolar Chile."><link rel="stylesheet" href="../styles.css"><title>Metodología | Trayectoria Escolar Chile</title></head><body class="doc-page"><a class="skip-link" href="#contenido">Saltar al contenido</a><header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Documentación HTML</small></span></a><a class="back-link" href="../documentacion.html">← Centro documental</a></header><main id="contenido" class="doc-shell"><div class="doc-format"><span>GitHub Pages</span><strong>Versión HTML</strong></div><article class="doc-article"><h1 id="metodologia">Metodología</h1>
+<p>El proyecto separa tres problemas que suelen mezclarse: <strong>qué pide el currículum</strong>, <strong>cómo se dosifica</strong> y <strong>cuánto desarrollo editorial tiene cada clase</strong>.</p>
+<p><a href="index.html">Volver al centro de documentación</a> · <a href="quality-standard.html">Consultar el estándar de calidad</a></p>
+<h2 id="flujo-de-construccion">Flujo de construcción</h2>
+<pre class="doc-code mermaid"><code>flowchart TD
+    A[Fuente oficial] --&gt; B[Snapshot local verificable]
+    B --&gt; C[Normalización de nivel, asignatura, eje y OA]
+    C --&gt; D[Dosificación inicial]
+    D --&gt; E[Desarrollo pedagógico y disciplinar]
+    E --&gt; F[Generación de Markdown, catálogo y HTML]
+    F --&gt; G[Validadores y tests]
+    G --&gt; H[Revisión humana registrada]</code></pre>
+<h2 id="1-fuente-curricular">1. Fuente curricular</h2>
+<p>El snapshot de Currículum Nacional conserva nivel, asignatura, código y texto del OA, eje, URL de origen y fecha de verificación. Los enlaces de lectura se registran como recursos asociados; no se interpretan como obligatoriedad nacional.</p>
+<p>La fuente estructurada es <code>sources/mineduc-curriculum-snapshot.json</code>. El catálogo público derivado es <code>curriculum/catalog.json</code>.</p>
+<h2 id="2-dosificacion">2. Dosificación</h2>
+<p>Cada OA comienza con cuatro clases y puede aumentar hasta siete cuando:</p>
+<ul><li>contiene varias acciones o un texto extenso;</li><li>exige investigar, crear, producir, diseñar, evaluar, analizar, argumentar o interpretar;</li><li>incorpora lecturas asociadas;</li><li>requiere contraste, transferencia o integración antes de reunir evidencia final.</li></ul>
+<p>La progresión base combina diagnóstico, comprensión, práctica, autonomía y demostración. Es una heurística editorial, no una prescripción horaria.</p>
+<h2 id="3-desarrollo-de-una-clase">3. Desarrollo de una clase</h2>
+<p>Una clase desarrollada debe especificar propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios observables, decisión posterior y adaptación a 45 minutos.</p>
+<p>Para 1° básico, la redacción prioriza experiencias concretas, consignas claras, participación amplia y transición gradual hacia representaciones gráficas o simbólicas.</p>
+<h2 id="4-estados-editoriales">4. Estados editoriales</h2>
+<div class="table-scroll"><table><thead><tr><th>Estado</th><th>Significado</th></tr></thead><tbody><tr><td>Inventariada</td><td>Existe OA, nivel, asignatura, eje y fuente.</td></tr><tr><td>Secuenciada</td><td>Tiene posición, duración y fases propuestas.</td></tr><tr><td>Desarrollada</td><td>Cumple el contrato de contenido específico verificable.</td></tr><tr><td>Revisada</td><td>Registra control humano disciplinar, pedagógico, documental, accesible y de derechos.</td></tr><tr><td>Publicada</td><td>Cuenta con salida Markdown y HTML navegable.</td></tr></tbody></table></div>
+<p>Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana.</p>
+<h2 id="5-generacion-reproducible">5. Generación reproducible</h2>
+<p><code>scripts/generate_school_program.py</code> produce:</p>
+<ul><li>el catálogo JSON;</li><li>las fichas Markdown por OA;</li><li>las páginas HTML por OA;</li><li>la vista de 1° básico;</li><li>la documentación generada de 1° básico;</li><li>la malla y el sitemap.</li></ul>
+<p>La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.</p>
+<h2 id="6-validacion-y-limites">6. Validación y límites</h2>
+<p>Los validadores comprueban conteos, identificadores, campos, anclas, páginas, estados editoriales y licencias. Los tests no certifican exactitud disciplinar, pertinencia local ni accesibilidad real con estudiantes.</p>
+<p>La revisión humana debe:</p>
+<ol><li>contrastar la clase con el OA y la disciplina;</li><li>revisar claridad, progresión y carga cognitiva;</li><li>comprobar acceso, seguridad y pertinencia cultural;</li><li>verificar fuentes, atribuciones y derechos;</li><li>registrar responsable, fecha y hallazgos.</li></ol>
+<h2 id="que-no-afirma-el-proyecto">Qué no afirma el proyecto</h2>
+<ul><li>No representa al Ministerio de Educación.</li><li>No reemplaza programas de estudio, planificación institucional ni adecuaciones pertinentes.</li><li>No afirma que todos los estudiantes cursen simultáneamente todas las asignaturas u opciones listadas.</li><li>No declara revisión humana donde no existe evidencia registrada.</li><li>No convierte enlaces de lectura en listas obligatorias ni aloja obras protegidas.</li></ul></article></main><footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documento HTML para GitHub Pages</span></div><div><a href="../documentacion.html">Documentación</a><a href="licensing.html">Licencias</a></div></footer></body></html>

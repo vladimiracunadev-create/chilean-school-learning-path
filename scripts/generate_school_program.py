@@ -1,6 +1,8 @@
 """Build the curriculum source, public catalog, and static lesson pages."""
 import html
 import json
+import posixpath
+import re
 import shutil
 from pathlib import Path
 from urllib.parse import quote
@@ -233,11 +235,11 @@ def grade_one_page(objs,classes):
 <section class="level-metrics" aria-label="Resumen de 1° básico"><div><strong>{f'{len(grade_classes):,}'.replace(',','.')}</strong><span>clases</span></div><div><strong>{len(grade_objs)}</strong><span>objetivos</span></div><div><strong>{len(subjects)}</strong><span>asignaturas</span></div><div><strong>{sum(len(x['readings']) for x in grade_objs)}</strong><span>lecturas vinculadas</span></div></section>
 <section class="level-intro"><div><p class="eyebrow">Qué encontrará</p><h2>Contenidos organizados por área</h2></div><p>Cada tarjeta muestra la cobertura real del nivel. Al abrir una asignatura puede recorrer sus clases, OA y ejes, con fuente oficial, materiales, apoyos, criterios de éxito y una decisión posterior basada en evidencia.</p></section><section class="level-grid">{cards}</section>
 <section class="level-contract"><div><p class="eyebrow">Contrato pedagógico</p><h2>Una clase desarrollada no es una frase genérica.</h2></div><ol><li><strong>Propósito y meta</strong><span>Lo que hará el docente y lo que comprenderá el estudiante.</span></li><li><strong>Experiencia concreta</strong><span>Inicio, demostración, práctica guiada y desempeño individual.</span></li><li><strong>Más contenido útil</strong><span>Tarea flexible, actividades complementarias, recuperación y profundización.</span></li><li><strong>Dificultades y roles</strong><span>Acciones inmediatas, comprobación y coordinación profesional.</span></li><li><strong>Evidencia y decisión</strong><span>Ticket, criterios observables y qué hacer después.</span></li></ol></section></main>
-<footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>1° básico · desarrollo editorial completo · Markdown + HTML</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../index.html">Explorador</a><a href="../documentacion.html">Documentación</a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/LICENSING.md">Licencias</a></div></footer></body></html>'''
+<footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>1° básico · desarrollo editorial completo · Markdown + HTML</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../index.html">Explorador</a><a href="../documentacion.html">Documentación</a><a href="../docs/licensing.html">Licencias</a></div></footer></body></html>'''
 
 def grade_one_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_one_summary(objs,classes)
- lines=["# 1° básico — mapa de contenidos","","> **Nivel completamente desarrollado:** 1.034 clases · 237 OA · 11 asignaturas. Estado de revisión humana: pendiente.","","[Programa narrativo completo](1-basico/README.md) · [Ver el nivel en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Explorar todas las clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0+b%C3%A1sico#explorar) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)","","Este mapa resume cifras y ejes. Para propósito, resultados, prerrequisitos, método, recorrido OA por OA y decisiones específicas, utiliza el [programa completo de 1° básico](1-basico/README.md) y sus 11 guías de asignatura.","","## Cómo usar este mapa","","1. Elige una asignatura y revisa sus ejes, OA y número de clases.","2. Abre el OA en el portal y ubica la clase dentro de la secuencia completa.","3. Define la evidencia individual y los criterios que observarás.","4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.","5. Después del ticket, decide si avanzar, reagrupar o reenseñar.","","## Progresión sugerida","","~~~mermaid","flowchart LR","    A[Experiencia concreta] --> B[Lenguaje y representación]","    B --> C[Práctica con apoyo]","    C --> D[Desempeño individual]","    D --> E[Evidencia y decisión]","~~~","","Esta progresión orienta la enseñanza, pero no obliga a avanzar por calendario. La evidencia del curso puede justificar volver a una representación concreta, ofrecer otra vía de acceso o profundizar.","","## Cobertura","","| Asignatura | OA | Clases | Ejes curriculares |","|---|---:|---:|---|"]
+ lines=["# 1° básico — mapa de contenidos","","> **Nivel completamente desarrollado:** 1.034 clases · 237 OA · 11 asignaturas. Estado de revisión humana: pendiente.","","[Programa narrativo completo](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)","","Este mapa resume cifras y ejes. Para propósito, resultados, prerrequisitos, método, recorrido OA por OA y decisiones específicas, utiliza el [programa completo de 1° básico](1-basico/README.md) y sus 11 guías de asignatura.","","## Cómo usar este mapa","","1. Elige una asignatura y revisa sus ejes, OA y número de clases.","2. Abre el OA en el índice Markdown y ubica la clase dentro de la secuencia completa.","3. Define la evidencia individual y los criterios que observarás.","4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.","5. Después del ticket, decide si avanzar, reagrupar o reenseñar.","","## Progresión sugerida","","~~~mermaid","flowchart LR","    A[Experiencia concreta] --> B[Lenguaje y representación]","    B --> C[Práctica con apoyo]","    C --> D[Desempeño individual]","    D --> E[Evidencia y decisión]","~~~","","Esta progresión orienta la enseñanza, pero no obliga a avanzar por calendario. La evidencia del curso puede justificar volver a una representación concreta, ofrecer otra vía de acceso o profundizar.","","## Cobertura","","| Asignatura | OA | Clases | Ejes curriculares |","|---|---:|---:|---|"]
  for item in subjects:lines.append(f"| {item['name']} | {item['oa']} | {item['classes']} | {'; '.join(item['axes'])} |")
  lines += ["","## Cómo se ve una clase desarrollada","","Cada clase del nivel contiene:","","1. **Propósito docente** y **meta en lenguaje estudiantil**.","2. **Inicio, modelado, práctica guiada, desempeño individual y ticket de salida** con acciones concretas.","3. **Materiales y preparación** realizables sin depender de conectividad.","4. **Apoyo en el mismo OA** y **profundización** que no rebajan ni repiten mecánicamente la tarea.","5. **Evidencia, criterios observables y decisión posterior** para avanzar, reagrupar o reenseñar.","6. **Versión de 45 minutos** que conserva el núcleo del aprendizaje.","","## Criterios de diseño para 1° básico","","- Experiencias breves, concretas y con transición gradual hacia dibujo, lenguaje o símbolo.","- Respuestas simultáneas y evidencia individual para evitar que participen siempre los mismos.","- Juego con propósito pedagógico explícito, normas seguras y cierre que recupera lo aprendido.","- Lectura, oralidad, manipulación, movimiento y creación como medios de acceso, no como actividades de relleno.","- Casos ficticios y derecho a pasar en Orientación; cuidado territorial y validación comunitaria en lengua y cultura de pueblos originarios.","- Materiales disponibles, alternativas sin conexión y adaptación de 90 a 45 minutos.","","## Decisiones con evidencia","","- **Logrado con autonomía:** avanzar o proponer transferencia.","- **En desarrollo:** mantener el OA y entregar apoyo puntual.","- **Requiere otra vía de acceso:** cambiar representación, ejemplo o forma de respuesta.","- **Sin evidencia suficiente:** ofrecer otra oportunidad antes de concluir.","","Consulta la [guía de evaluación formativa](EVALUACION_FORMATIVA.md) para criterios y registro.","","## Fuente de verdad y límites","",f"Los conteos se generan desde `curriculum/catalog.json`. La fuente oficial contiene {len(grade_objs)} OA; el generador los dosifica en {len(grade_classes):,} clases.".replace(",",".")+" “Desarrollada” significa que cumple el contrato editorial automatizado; **no significa revisión humana experta**. Ninguna clase se declara revisada hasta registrar esa evidencia.","","## Verificación","","La CI regenera las fichas, valida las 1.034 clases del nivel, comprueba campos editoriales y páginas HTML, ejecuta tests y bloquea la publicación si existe deriva. La fecha de la fuente curricular se conserva en cada OA.","","## Documentos relacionados","","- [Centro de documentación](README.md)","- [Guía pedagógica](../TEACHING_GUIDE.md)","- [Metodología](../METHODOLOGY.md)","- [Estado editorial](../EDITORIAL_STATUS.md)","- [Roadmap](../ROADMAP.md)",""]
  return "\n".join(lines)
@@ -285,7 +287,7 @@ def grade_one_subject_documentation(subject,objectives,previous_subject=None,nex
   "| OA | Tema de la secuencia | Eje | Clases | Planificación |","|---|---|---|---:|---|"
  ]
  for item in objectives:
-  lines.append(f"| {item['oa_code']} | {item['topic']} | {item['axis']} | {len(item['phases'])} | [Abrir Markdown](../../{item['path']}) · [Ver en portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/{page_path(item)}) |")
+  lines.append(f"| {item['oa_code']} | {item['topic']} | {item['axis']} | {len(item['phases'])} | [Abrir ficha Markdown](../../{item['path']}) |")
  lines += ["","## 🔎 Qué observar","",
   f"**Evidencia central:** {profile['evidence']}.","",
   "No uses velocidad, presentación, volumen de voz o conducta general como sustitutos del aprendizaje. Si una barrera de lectura, escritura, movilidad, percepción o comunicación es ajena al OA, cambia la vía de acceso y vuelve a observar.","",
@@ -305,7 +307,7 @@ def grade_one_subject_documentation(subject,objectives,previous_subject=None,nex
 def grade_one_index_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_one_summary(objs,classes)
  lines=["# 📚 Programa completo de 1° básico","",
-  "> [⬅️ Volver al programa](../../README.md) · [🌐 Abrir vista visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)","",
+  "> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)","",
   "**1.034 clases · 237 OA · 11 asignaturas · desarrollo editorial completo · revisión humana pendiente**","",
   "## 🎯 De qué trata este nivel","",
   "1° básico construye los lenguajes con los que niñas y niños seguirán aprendiendo: oralidad, lectura y escritura inicial, número y representación, observación del entorno, orientación temporal y espacial, expresión artística y musical, movimiento, convivencia, identidad y diseño de soluciones. El programa no trata estas áreas como compartimentos cerrados: mantiene la especificidad de cada disciplina y favorece conexiones cuando ayudan a comprender.","",
@@ -338,9 +340,100 @@ def grade_one_index_documentation(objs,classes):
  ]
  return "\n".join(lines)
 
+def documentation_output_path(source):
+ relative=source.relative_to(ROOT)
+ if relative.parent == Path("."):
+  return Path("docs")/(relative.stem.lower().replace("_","-")+".html")
+ if relative.name.lower() == "readme.md":
+  return relative.parent/"index.html"
+ return relative.with_suffix(".html").with_name(relative.stem.lower().replace("_","-")+".html")
+
+def documentation_sources():
+ root_docs=[path for path in ROOT.glob("*.md") if path.name not in {"README.md","CURRICULUM.md"}]
+ return sorted(root_docs+list((ROOT/"docs").rglob("*.md")))
+
+def inline_markdown(value,source,output,mapping):
+ def plain(fragment):
+  escaped=html.escape(fragment)
+  escaped=re.sub(r"`([^`]+)`",r"<code>\1</code>",escaped)
+  escaped=re.sub(r"\*\*([^*]+)\*\*",r"<strong>\1</strong>",escaped)
+  return escaped
+ def link(match):
+  label,destination=match.group(1),match.group(2)
+  if destination.startswith(("http://","https://","mailto:","#")):
+   href=destination
+  else:
+   path_part,separator,fragment=destination.partition("#")
+   target=(source.parent/path_part).resolve() if path_part else source.resolve()
+   if target in mapping:
+    href=posixpath.relpath(mapping[target].as_posix(),output.parent.as_posix())
+   elif target == (ROOT/"README.md").resolve() or target == (ROOT/"CURRICULUM.md").resolve():
+    href=posixpath.relpath("index.html",output.parent.as_posix())
+   elif target.suffix.lower()==".md" and ROOT/"curriculum" in target.parents:
+    curriculum_relative=target.relative_to(ROOT/"curriculum").with_suffix(".html")
+    href=posixpath.relpath((Path("classes")/curriculum_relative).as_posix(),output.parent.as_posix())
+   else:
+    href=destination
+   if separator:href += "#"+fragment
+  return f'<a href="{html.escape(href,quote=True)}">{plain(label)}</a>'
+ parts=[];cursor=0
+ for match in re.finditer(r"\[([^\]]+)\]\(([^)]+)\)",value):
+  parts.append(plain(value[cursor:match.start()]));parts.append(link(match));cursor=match.end()
+ parts.append(plain(value[cursor:]))
+ return "".join(parts)
+
+def markdown_body(source,output,mapping):
+ lines=source.read_text(encoding="utf-8").splitlines();result=[];index=0
+ while index<len(lines):
+  line=lines[index].rstrip()
+  if not line:index+=1;continue
+  if line.startswith(("```","~~~")):
+   marker=line[:3];language=line[3:].strip();block=[];index+=1
+   while index<len(lines) and not lines[index].startswith(marker):block.append(lines[index]);index+=1
+   result.append(f'<pre class="doc-code {html.escape(language)}"><code>{html.escape(chr(10).join(block))}</code></pre>');index+=1;continue
+  heading=re.match(r"^(#{1,6})\s+(.+)$",line)
+  if heading:
+   level=len(heading.group(1));title=heading.group(2).strip();anchor=slugify(re.sub(r"[^\w\s-]","",title))
+   result.append(f'<h{level} id="{anchor}">{inline_markdown(title,source,output,mapping)}</h{level}>');index+=1;continue
+  if line.startswith("|") and index+1<len(lines) and re.match(r"^\|?[\s:|-]+\|?$",lines[index+1].strip()):
+   rows=[]
+   while index<len(lines) and lines[index].strip().startswith("|"):
+    rows.append([cell.strip() for cell in lines[index].strip().strip("|").split("|")]);index+=1
+   header=rows[0];body=rows[2:]
+   result.append('<div class="table-scroll"><table><thead><tr>'+"".join(f"<th>{inline_markdown(cell,source,output,mapping)}</th>" for cell in header)+"</tr></thead><tbody>"+"".join("<tr>"+"".join(f"<td>{inline_markdown(cell,source,output,mapping)}</td>" for cell in row)+"</tr>" for row in body)+"</tbody></table></div>");continue
+  if line.startswith(">"):
+   result.append(f'<blockquote>{inline_markdown(line.lstrip("> "),source,output,mapping)}</blockquote>');index+=1;continue
+  if re.match(r"^[-*]\s+",line):
+   items=[]
+   while index<len(lines) and re.match(r"^[-*]\s+",lines[index].strip()):items.append(re.sub(r"^[-*]\s+","",lines[index].strip()));index+=1
+   result.append("<ul>"+"".join(f"<li>{inline_markdown(item,source,output,mapping)}</li>" for item in items)+"</ul>");continue
+  if re.match(r"^\d+\.\s+",line):
+   items=[]
+   while index<len(lines) and re.match(r"^\d+\.\s+",lines[index].strip()):items.append(re.sub(r"^\d+\.\s+","",lines[index].strip()));index+=1
+   result.append("<ol>"+"".join(f"<li>{inline_markdown(item,source,output,mapping)}</li>" for item in items)+"</ol>");continue
+  if re.match(r"^---+$",line):result.append("<hr>");index+=1;continue
+  result.append(f"<p>{inline_markdown(line,source,output,mapping)}</p>");index+=1
+ return "\n".join(result)
+
+def documentation_html_page(source,output,mapping):
+ text=source.read_text(encoding="utf-8")
+ title_match=re.search(r"^#\s+(.+)$",text,re.MULTILINE);title=title_match.group(1) if title_match else source.stem.replace("_"," ").title()
+ stylesheet=posixpath.relpath("styles.css",output.parent.as_posix());home=posixpath.relpath("documentacion.html",output.parent.as_posix());portal=posixpath.relpath("index.html",output.parent.as_posix())
+ licensing=mapping.get((ROOT/"LICENSING.md").resolve(),Path("docs/licensing.html"));license_href=posixpath.relpath(licensing.as_posix(),output.parent.as_posix())
+ return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="{html.escape(title,quote=True)} · documentación pedagógica de Trayectoria Escolar Chile."><link rel="stylesheet" href="{stylesheet}"><title>{html.escape(title)} | Trayectoria Escolar Chile</title></head><body class="doc-page"><a class="skip-link" href="#contenido">Saltar al contenido</a><header class="detail-topbar"><a class="brand" href="{portal}"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Documentación HTML</small></span></a><a class="back-link" href="{home}">← Centro documental</a></header><main id="contenido" class="doc-shell"><div class="doc-format"><span>GitHub Pages</span><strong>Versión HTML</strong></div><article class="doc-article">{markdown_body(source,output,mapping)}</article></main><footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documento HTML para GitHub Pages</span></div><div><a href="{home}">Documentación</a><a href="{license_href}">Licencias</a></div></footer></body></html>'''
+
+def generate_documentation_pages():
+ sources=documentation_sources();mapping={source.resolve():documentation_output_path(source) for source in sources}
+ docs_root=ROOT/"site"/"docs"
+ if docs_root.exists():shutil.rmtree(docs_root)
+ for source in sources:
+  output=mapping[source.resolve()];target=ROOT/"site"/output;target.parent.mkdir(parents=True,exist_ok=True)
+  target.write_text(documentation_html_page(source,output,mapping),encoding="utf-8")
+ return list(mapping.values())
+
 def documentation_page(objs,classes):
  _,_,subjects=grade_one_summary(objs,classes)
- cards="".join(f'''<article class="level-card"><div><span>{item['oa']} OA</span><span>{item['classes']} clases</span></div><h2>{html.escape(item['name'])}</h2><p>{html.escape(GRADE_ONE_SUBJECT_PROFILES[item['slug']]['purpose'])}</p><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/1-basico/{item['slug']}.md">Leer guía completa →</a></article>''' for item in subjects)
+ cards="".join(f'''<article class="level-card"><div><span>{item['oa']} OA</span><span>{item['classes']} clases</span></div><h2>{html.escape(item['name'])}</h2><p>{html.escape(GRADE_ONE_SUBJECT_PROFILES[item['slug']]['purpose'])}</p><a href="docs/1-basico/{item['slug']}.html">Leer guía HTML completa →</a></article>''' for item in subjects)
  levels=[]
  for order in range(1,13):
   level_classes=[item for item in classes if item["course_order"]==order]
@@ -350,15 +443,15 @@ def documentation_page(objs,classes):
  coverage_cards="".join(f'''<a class="coverage-card" href="index.html?nivel={quote(item['name'])}#explorar"><span>{html.escape(item['name'])}</span><strong>{item['classes']:,}</strong><small>{item['oa']} OA · {item['developed']} desarrolladas</small></a>'''.replace(",",".") for item in levels)
  return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Documentación completa de Trayectoria Escolar Chile y del programa desarrollado de 1° básico."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><title>Documentación | Trayectoria Escolar Chile</title></head>
 <body class="level-page"><a class="skip-link" href="#documentacion">Saltar a documentación</a><header class="detail-topbar"><a class="brand" href="index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="index.html">← Volver al portal</a></header>
-<main id="documentacion" class="level-shell"><header class="level-hero docs-hero"><div><p class="eyebrow">Documentación pedagógica</p><h1>Del currículum a decisiones de aula.</h1><p>Una arquitectura completa para comprender qué enseñar, cómo recorrer 1° básico, qué evidencia observar y cómo revisar la calidad sin confundir publicación con validación humana.</p><div class="hero-actions"><a class="button primary" href="levels/1-basico.html">Ver 1° básico</a><a class="button dark-text" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/SYLLABUS.md">Abrir syllabus</a></div></div><aside><span>Documentos principales</span><strong>10 guías marco</strong><small>más 11 guías completas de asignatura</small></aside></header>
+<main id="documentacion" class="level-shell"><header class="level-hero docs-hero"><div><p class="eyebrow">Documentación pedagógica</p><h1>Del currículum a decisiones de aula.</h1><p>Una arquitectura completa para comprender qué enseñar, cómo recorrer 1° básico, qué evidencia observar y cómo revisar la calidad sin confundir publicación con validación humana.</p><div class="hero-actions"><a class="button primary" href="levels/1-basico.html">Ver 1° básico</a><a class="button dark-text" href="docs/syllabus.html">Abrir syllabus HTML</a></div></div><aside><span>Documentos principales</span><strong>10 guías marco</strong><small>más 11 guías completas de asignatura</small></aside></header>
 <section class="level-metrics"><div><strong>1.034</strong><span>clases desarrolladas</span></div><div><strong>237</strong><span>OA de 1° básico</span></div><div><strong>11</strong><span>guías de asignatura</span></div><div><strong>0</strong><span>revisiones humanas registradas</span></div></section>
 <section class="level-intro"><div><p class="eyebrow">Empieza según tu tarea</p><h2>Documentos que responden preguntas concretas</h2></div><p><strong>Syllabus:</strong> alcance y planificación. <strong>Guía docente:</strong> conducción de clases. <strong>Rúbrica:</strong> evidencia y decisiones. <strong>FAQ:</strong> límites y uso. <strong>Familias:</strong> acompañamiento. <strong>Revisión:</strong> cómo validar responsablemente.</p></section>
-<section class="doc-link-grid"><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/QUE_ES_UN_OA.md"><span>01</span><strong>¿Qué es un OA?</strong><small>Explicación simple con ejemplo</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/SYLLABUS.md"><span>02</span><strong>Syllabus</strong><small>Programa, ritmo y planificación</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/TEACHING_GUIDE.md"><span>03</span><strong>Guía docente</strong><small>Preparar, enseñar y adaptar</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/ROLES_DOCENTES.md"><span>04</span><strong>Roles en el aula</strong><small>Responsabilidades y coordinación</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/DIFICULTADES_EN_EL_AULA.md"><span>05</span><strong>Dificultades y acciones</strong><small>Observar, actuar y comprobar</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/RUBRICA_EVALUACION.md"><span>06</span><strong>Rúbrica</strong><small>Observar y decidir</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/COBERTURA.md"><span>07</span><strong>Cobertura total</strong><small>12 niveles con acceso directo</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/FORMATOS.md"><span>08</span><strong>Markdown + HTML</strong><small>Cómo se publica cada clase</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/LICENCIAS.md"><span>09</span><strong>Licencias</strong><small>Qué puede reutilizarse</small></a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/FAQ.md"><span>10</span><strong>Preguntas frecuentes</strong><small>Uso, alcance y límites</small></a></section>
+<section class="doc-link-grid"><a href="docs/que-es-un-oa.html"><span>01</span><strong>¿Qué es un OA?</strong><small>Explicación simple con ejemplo</small></a><a href="docs/syllabus.html"><span>02</span><strong>Syllabus</strong><small>Programa, ritmo y planificación</small></a><a href="docs/teaching-guide.html"><span>03</span><strong>Guía docente</strong><small>Preparar, enseñar y adaptar</small></a><a href="docs/roles-docentes.html"><span>04</span><strong>Roles en el aula</strong><small>Responsabilidades y coordinación</small></a><a href="docs/dificultades-en-el-aula.html"><span>05</span><strong>Dificultades y acciones</strong><small>Observar, actuar y comprobar</small></a><a href="docs/rubrica-evaluacion.html"><span>06</span><strong>Rúbrica</strong><small>Observar y decidir</small></a><a href="docs/cobertura.html"><span>07</span><strong>Cobertura total</strong><small>12 niveles con acceso directo</small></a><a href="docs/formatos.html"><span>08</span><strong>Markdown + HTML</strong><small>Cómo se publica cada clase</small></a><a href="docs/licencias.html"><span>09</span><strong>Licencias</strong><small>Qué puede reutilizarse</small></a><a href="docs/faq.html"><span>10</span><strong>Preguntas frecuentes</strong><small>Uso, alcance y límites</small></a></section>
 <section class="oa-explainer"><div><p class="eyebrow">Sin siglas misteriosas</p><h2>OA significa Objetivo de Aprendizaje.</h2></div><div><p>Describe lo que una o un estudiante debe llegar a comprender o hacer. <strong>No es una clase, una tarea ni una actividad.</strong></p><p><code>MA01 OA 01</code> se lee: Matemática · 1° básico · Objetivo de Aprendizaje número 1. El proyecto convierte cada OA en una secuencia de clases con evidencia.</p></div></section>
 <section class="level-intro"><div><p class="eyebrow">Cobertura navegable</p><h2>Los 12 niveles, sin callejones sin salida</h2></div><p>Cada tarjeta abre el explorador ya filtrado. Las cifras separan cobertura curricular, desarrollo editorial y revisión humana.</p></section><section class="coverage-grid">{coverage_cards}</section>
 <section class="level-intro"><div><p class="eyebrow">Programa desarrollado</p><h2>1° básico, asignatura por asignatura</h2></div><p>Cada guía explica propósito, resultados, prerrequisitos, método disciplinar, estructura por ejes, recorrido OA por OA, evidencia, barreras frecuentes, acceso y profundización.</p></section><section class="level-grid">{cards}</section>
 <section class="level-contract"><div><p class="eyebrow">Lectura honesta</p><h2>Profundidad documental sin inflar el estado.</h2></div><ol><li><strong>Desarrollada</strong><span>La clase contiene decisiones pedagógicas y disciplinares específicas.</span></li><li><strong>Publicada</strong><span>Está disponible y navegable en Markdown y HTML.</span></li><li><strong>Revisada</strong><span>Solo cuando una persona competente registra evidencia de revisión.</span></li><li><strong>Adaptable</strong><span>El docente conserva el OA y ajusta la vía de acceso según su curso.</span></li></ol></section></main>
-<footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documentación abierta y trazable · MIT + CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="index.html">Portal</a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/LICENSING.md">Licencias</a></div></footer></body></html>'''
+<footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documentación abierta y trazable · MIT + CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="index.html">Portal</a><a href="docs/licencias.html">Licencias</a></div></footer></body></html>'''
 
 def developed_lesson_html(item,index,code,lesson):
  def esc(value): return html.escape(str(value), quote=True)
@@ -415,9 +508,9 @@ def lesson_page(item, previous_item=None, next_item=None):
 <header class="lesson-hero"><div><p class="eyebrow">{esc(item['course'])} · {esc(item['subject'])}</p><h1>{esc(item['topic'])}</h1><p class="oa-code">{esc(item['oa_code'])} · {esc(item['axis'])}</p></div><div class="hero-status"><span>Estado editorial</span><strong>{editorial}</strong><small>{editorial_note}</small></div></header>
 <section class="oa-panel" aria-labelledby="oa-title"><p class="eyebrow">Objetivo oficial</p><h2 id="oa-title">Qué se espera aprender</h2><p class="oa-help"><strong>OA significa Objetivo de Aprendizaje:</strong> el resultado que debe alcanzar el estudiante. No es una actividad ni una clase; por eso este OA se desarrolla en una secuencia.</p><blockquote>{esc(item['oa_text'])}</blockquote><div class="oa-meta"><span>{len(item['phases'])} clases</span><span>Bloques adaptables a 45 o 90 min</span><span>{esc(item['coverage'])}</span></div></section>
 <section class="content-section"><div class="section-heading"><div><p class="eyebrow">Secuencia propuesta</p><h2>De la activación a la evidencia</h2></div><p>La dosificación responde a la amplitud y demanda cognitiva del OA. El docente ajusta el ritmo según la evidencia.</p></div>{''.join(sessions)}</section>
-<section class="sources-panel"><div><p class="eyebrow">Trazabilidad y formatos</p><h2>Fuente, Markdown y HTML</h2><p>Cada clase de esta secuencia existe en esta página HTML y como ancla estable dentro de su archivo Markdown.</p></div><ul><li><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/{esc(item['path'])}">Abrir fuente Markdown</a><span>Mismo OA y mismas clases en formato editable</span></li>{reading_items}<li><a href="{esc(item['source_url'])}" rel="noopener">Ficha oficial del OA</a><span>Currículum Nacional · consulta {esc(item['verified_at'])}</span></li></ul></section>
+<section class="sources-panel"><div><p class="eyebrow">Trazabilidad HTML</p><h2>Fuente oficial y navegación web</h2><p>Esta página conserva el OA oficial, la fecha de consulta y la secuencia completa sin abandonar el árbol de GitHub Pages.</p></div><ul><li><a href="../../../docs/formatos.html">Cómo se publican los formatos</a><span>Separación entre navegación HTML y navegación Markdown</span></li>{reading_items}<li><a href="{esc(item['source_url'])}" rel="noopener">Ficha oficial del OA</a><span>Currículum Nacional · consulta {esc(item['verified_at'])}</span></li></ul></section>
 <nav class="sequence-nav" aria-label="Objetivos anterior y siguiente">{nav_link(previous_item,'Objetivo anterior')}{nav_link(next_item,'Objetivo siguiente')}</nav></main>
-<footer class="site-footer"><div><strong>Proyecto educativo independiente</strong><span>Clase disponible en Markdown y HTML · contenido original CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/LICENSING.md">Licencias</a></div></footer></body></html>'''
+<footer class="site-footer"><div><strong>Proyecto educativo independiente</strong><span>Clase disponible en Markdown y HTML · contenido original CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../../../docs/licensing.html">Licencias</a></div></footer></body></html>'''
 def main():
  snap=json.loads(SNAPSHOT.read_text(encoding="utf-8"));developed=json.loads(DEVELOPED.read_text(encoding="utf-8"))["objectives"];objs=[];classes=[];num=1
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
@@ -455,6 +548,7 @@ def main():
   previous_subject=grade_subjects[subject_index-1] if subject_index else None
   next_subject=grade_subjects[subject_index+1] if subject_index+1<len(grade_subjects) else None
   (grade_docs_root/f"{subject['slug']}.md").write_text(grade_one_subject_documentation(subject,subject_objectives,previous_subject,next_subject),encoding="utf-8")
+ documentation_pages=generate_documentation_pages()
  (ROOT/"site"/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False)+"\n",encoding="utf-8")
  lines=["# Planificación curricular chilena","",f"## {cat['class_count']:,} clases · {cat['objective_count']:,} OA · 12 niveles".replace(",","."),"","Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación de 4 a 7 clases se ajusta con evidencia.","","> Formación común, propuestas, asignaturas según contexto y electivos se distinguen; no representan una carga simultánea.",""]
  for order in range(1,13):
@@ -464,7 +558,7 @@ def main():
   for (sub,oa,path,topic,c),n in seen.items():lines.append(f"| {sub} | [{oa} · {topic}]({path}) | {n} | {c} |")
   lines.append("")
  (ROOT/"CURRICULUM.md").write_text("\n".join(lines),encoding="utf-8")
- urls=["https://vladimiracunadev-create.github.io/chilean-school-learning-path/","https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html"]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{page_path(item)}" for item in objs]
+ urls=["https://vladimiracunadev-create.github.io/chilean-school-learning-path/","https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html"]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{page_path(item)}" for item in objs]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{path.as_posix()}" for path in documentation_pages]
  sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+"\n".join(f"  <url><loc>{url}</loc></url>" for url in urls)+"\n</urlset>\n"
  (ROOT/"site"/"sitemap.xml").write_text(sitemap,encoding="utf-8")
  print(json.dumps({k:cat[k] for k in ("class_count","objective_count","course_count","subject_count","reading_link_count")}))

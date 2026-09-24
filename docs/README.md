@@ -6,7 +6,7 @@
 
 **1.034 clases · 237 OA · 11 asignaturas · guías para enseñar, evaluar, acompañar y revisar**
 
-[🌐 Abrir documentación visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html) · [📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 

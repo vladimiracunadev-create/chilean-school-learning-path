@@ -98,10 +98,13 @@ def validate(root: Path = ROOT) -> list[str]:
     for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
+    documentation_pages = list((root / "site/docs").rglob("*.html"))
+    if len(documentation_pages) < 25:
+        errors.append(f"Documentación HTML incompleta: {len(documentation_pages)} páginas, esperadas al menos 25")
     sitemap_path = root / "site/sitemap.xml"
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
-    if sitemap.count("<url>") != objective_count + 3:
-        errors.append("El sitemap no enumera portada, documentación, vista de 1° básico y todas las páginas de OA")
+    if sitemap.count("<url>") != objective_count + len(documentation_pages) + 3:
+        errors.append("El sitemap no enumera portada, documentación, vista de 1° básico, documentos HTML y páginas de OA")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "100% desarrollado", "Contrato pedagógico"):
@@ -164,11 +167,25 @@ def validate(root: Path = ROOT) -> list[str]:
     for document_path in documentation_files:
         document = document_path.read_text(encoding="utf-8")
         for destination in re.findall(r"\[[^\]]+\]\(([^)]+)\)", document):
+            if "vladimiracunadev-create.github.io/chilean-school-learning-path" in destination or re.search(r"(?:^|/)site/.*\.html(?:#.*)?$", destination):
+                errors.append(f"Cruce Markdown→HTML en {document_path.relative_to(root)}: {destination}")
             if destination.startswith(("http://", "https://", "#", "mailto:")):
                 continue
             relative_target = destination.split("#", 1)[0]
+            if relative_target.endswith(".html"):
+                errors.append(f"Cruce Markdown→HTML en {document_path.relative_to(root)}: {destination}")
             if relative_target and relative_target.endswith(".md") and not (document_path.parent / relative_target).is_file():
                 errors.append(f"Enlace Markdown roto en {document_path.relative_to(root)}: {destination}")
+    for html_path in (root / "site").rglob("*.html"):
+        document = html_path.read_text(encoding="utf-8")
+        for destination in re.findall(r'href="([^"]+)"', document):
+            clean = destination.split("#", 1)[0].split("?", 1)[0]
+            if clean.lower().endswith(".md"):
+                errors.append(f"Cruce HTML→Markdown en {html_path.relative_to(root)}: {destination}")
+            if not clean or clean.startswith(("http://", "https://", "mailto:", "tel:", "/")):
+                continue
+            if clean.lower().endswith(".html") and not (html_path.parent / clean).resolve().is_file():
+                errors.append(f"Enlace HTML roto en {html_path.relative_to(root)}: {destination}")
     index_path = root / "site/index.html"
     index = index_path.read_text(encoding="utf-8") if index_path.is_file() else ""
     for token in ('lang="es"', '<main>', 'id="explorar"', 'id="q"', 'id="level"', 'id="subject"', 'id="coverage"'):

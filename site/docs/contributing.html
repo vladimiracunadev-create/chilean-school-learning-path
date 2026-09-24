@@ -1,0 +1,26 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Contribuir · documentación pedagógica de Trayectoria Escolar Chile."><link rel="stylesheet" href="../styles.css"><title>Contribuir | Trayectoria Escolar Chile</title></head><body class="doc-page"><a class="skip-link" href="#contenido">Saltar al contenido</a><header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Documentación HTML</small></span></a><a class="back-link" href="../documentacion.html">← Centro documental</a></header><main id="contenido" class="doc-shell"><div class="doc-format"><span>GitHub Pages</span><strong>Versión HTML</strong></div><article class="doc-article"><h1 id="contribuir">Contribuir</h1>
+<p>Las contribuciones deben mejorar claridad, trazabilidad, accesibilidad o aplicación pedagógica. El proyecto acepta correcciones pequeñas, contenido desarrollado y revisiones documentadas.</p>
+<p><a href="methodology.html">Metodología</a> · <a href="quality-standard.html">Estándar de calidad</a> · <a href="roadmap.html">Roadmap</a></p>
+<h2 id="antes-de-comenzar">Antes de comenzar</h2>
+<ul><li>Describe el problema y quién se beneficia.</li><li>Identifica nivel, asignatura, OA y clase afectada.</li><li>Usa fuentes primarias para afirmaciones curriculares o normativas.</li><li>No incluyas datos de estudiantes ni material de terceros sin permiso verificable.</li><li>Conserva los identificadores existentes salvo que exista un error demostrado.</li></ul>
+<h2 id="contrato-de-una-clase-desarrollada">Contrato de una clase desarrollada</h2>
+<p>Toda clase debe incluir:</p>
+<ol><li>identificador, posición, nivel, asignatura y OA;</li><li>propósito docente y meta en lenguaje estudiantil;</li><li>conocimientos previos, vocabulario y error previsible;</li><li>inicio, modelado, práctica guiada y desempeño individual;</li><li>materiales y preparación viables;</li><li>apoyo que conserva el OA y profundización no mecánica;</li><li>ticket, evidencia y al menos tres criterios observables;</li><li>decisión posterior y adaptación a 45 minutos;</li><li>accesibilidad, seguridad y fuentes pertinentes.</li></ol>
+<p>Evita frases intercambiables entre asignaturas. Una clase debe nombrar el contenido, el producto o desempeño, el razonamiento que se modela y la evidencia que se observará.</p>
+<h2 id="reglas-editoriales">Reglas editoriales</h2>
+<ul><li>Usa <strong>clase</strong>, no “sesión”, para las unidades de enseñanza del proyecto.</li><li>Distingue texto oficial, interpretación editorial y sugerencia docente.</li><li>No declares “revisada” una clase sin registrar evidencia humana.</li><li>No presentes lecturas asociadas como obligatorias.</li><li>Ofrece alternativas sin conectividad cuando la actividad dependa de tecnología.</li><li>Mantén el OA al proponer apoyos; modifica el acceso, no la expectativa central.</li><li>Profundiza mediante explicación, comparación o transferencia, no con más repetición.</li></ul>
+<h2 id="fuente-y-artefactos-generados">Fuente y artefactos generados</h2>
+<p>Modifica la fuente estructurada correspondiente. No edites manualmente miles de fichas derivadas: <code>scripts/generate_school_program.py</code> vuelve a producir catálogo, Markdown, HTML, malla, sitemap, portada documental, índice de 1° básico y sus 11 guías de asignatura.</p>
+<p>Después del cambio ejecuta:</p>
+<pre class="doc-code bash"><code>python scripts/generate_school_program.py
+python scripts/validate_school_program.py
+python scripts/validate_licensing.py
+python -m unittest discover -s tests -p &quot;test_*.py&quot; -v</code></pre>
+<p>El diff después de una segunda generación debe quedar vacío.</p>
+<h2 id="revision-propuesta">Revisión propuesta</h2>
+<p>Una revisión humana debe indicar:</p>
+<ul><li>persona o rol revisor;</li><li>fecha;</li><li>alcance: disciplina, pedagogía, accesibilidad, documentación o derechos;</li><li>OA y clases revisadas;</li><li>hallazgos y cambios realizados;</li><li>aspectos que siguen pendientes.</li></ul>
+<p>El equipo mantenedor decide cuándo la evidencia permite cambiar el estado editorial.</p>
+<h2 id="derechos-y-procedencia">Derechos y procedencia</h2>
+<p>Registra contenido externo y atribuciones según <a href="licensing.html">LICENSING.md</a>. Enlaza recursos cuando la licencia no permite redistribución y no copies fragmentos extensos de obras.</p>
+<p>Al contribuir confirmas que puedes enviar tu aporte. El código se recibe bajo MIT y el contenido educativo original bajo CC BY-NC-SA 4.0.</p></article></main><footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documento HTML para GitHub Pages</span></div><div><a href="../documentacion.html">Documentación</a><a href="licensing.html">Licencias</a></div></footer></body></html>

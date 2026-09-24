@@ -31,7 +31,7 @@ Fecha de corte: **2026-09-24**. Los conteos provienen de `curriculum/catalog.jso
 
 Cada clase contiene propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo sin rebajar el OA, profundización, ticket de salida, evidencia, al menos tres criterios observables, decisión posterior y adaptación a 45 minutos. La arquitectura especializada de 1° básico vive en [scripts/grade_one_lessons.py](scripts/grade_one_lessons.py); los desarrollos manuales se conservan en [content/developed-lessons.json](content/developed-lessons.json).
 
-[Ver 1° básico en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Documentación del nivel](docs/PRIMERO_BASICO.md)
+[Ver documentación de 1° básico](docs/PRIMERO_BASICO.md) · [Abrir programa por asignaturas](docs/1-basico/README.md)
 
 ## Pilotos conservados en otros niveles
 

@@ -2,7 +2,7 @@
 
 ## Programa anual de 1° básico
 
-> [⬅️ Centro de documentación](README.md) · [📚 Índice completo del nivel](1-basico/README.md) · [🌐 Vista visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 Índice completo del nivel](1-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
 **1.034 clases desarrolladas · 237 OA · 11 asignaturas · bloques adaptables a 45 o 90 minutos**
 

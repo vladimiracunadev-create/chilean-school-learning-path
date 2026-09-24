@@ -2,14 +2,14 @@
 
 > **Nivel completamente desarrollado:** 1.034 clases · 237 OA · 11 asignaturas. Estado de revisión humana: pendiente.
 
-[Programa narrativo completo](1-basico/README.md) · [Ver el nivel en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Explorar todas las clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0+b%C3%A1sico#explorar) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
+[Programa narrativo completo](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
 
 Este mapa resume cifras y ejes. Para propósito, resultados, prerrequisitos, método, recorrido OA por OA y decisiones específicas, utiliza el [programa completo de 1° básico](1-basico/README.md) y sus 11 guías de asignatura.
 
 ## Cómo usar este mapa
 
 1. Elige una asignatura y revisa sus ejes, OA y número de clases.
-2. Abre el OA en el portal y ubica la clase dentro de la secuencia completa.
+2. Abre el OA en el índice Markdown y ubica la clase dentro de la secuencia completa.
 3. Define la evidencia individual y los criterios que observarás.
 4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.
 5. Después del ticket, decide si avanzar, reagrupar o reenseñar.

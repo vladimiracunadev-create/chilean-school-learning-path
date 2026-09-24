@@ -2,7 +2,7 @@
 
 ## Acompañar sin reemplazar
 
-> [⬅️ Centro de documentación](README.md) · [🌐 Explorar 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [❓ Preguntas frecuentes](FAQ.md)
+> [⬅️ Centro de documentación](README.md) · [🧒 Explorar 1° básico](1-basico/README.md) · [❓ Preguntas frecuentes](FAQ.md)
 
 El portal puede ayudar a comprender qué se espera aprender y cómo se ve una experiencia de aula. No pretende convertir el hogar en otra sala de clases ni reemplazar las decisiones del establecimiento.
 

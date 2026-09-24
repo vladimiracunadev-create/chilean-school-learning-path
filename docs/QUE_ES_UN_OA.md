@@ -41,4 +41,4 @@ Completar una actividad no demuestra por sí solo el OA. La ficha pide una evide
 
 En `MA01 OA 01`, la fuente espera que el estudiante cuente en distintos intervalos, direcciones y puntos de partida. Una sola hoja de ejercicios no cubre todo eso. Por eso la secuencia propone cuatro clases: diagnóstico, modelado, aplicación autónoma y demostración con revisión.
 
-[Explorar 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Volver al centro documental](README.md)
+[Explorar 1° básico](1-basico/README.md) · [Volver al centro documental](README.md)

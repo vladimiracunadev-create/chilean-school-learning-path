@@ -16,10 +16,10 @@ Una clase puede tener el código `CL-00746`:
 - Markdown: `curriculum/1-basico/matematica/ma01-oa-01.md#cl-00746`
 - HTML: `classes/1-basico/matematica/ma01-oa-01.html#cl-00746`
 
-La página HTML incluye un enlace visible a su fuente Markdown. El validador recorre las 12.997 entradas del catálogo y falla si falta cualquiera de los dos archivos o cualquiera de sus anclas.
+Los dos formatos conservan el mismo OA y las mismas anclas, pero su navegación está separada: un documento Markdown enlaza otros `.md`; una página de GitHub Pages enlaza otros `.html`. El validador recorre las 12.997 entradas del catálogo y falla si falta un archivo, un ancla o aparece un cruce entre formatos.
 
 ## Qué incluye una clase desarrollada de 1° básico
 
 Propósito, meta estudiantil, cinco momentos con tiempos, materiales, apoyo, profundización, evidencia, criterios, ticket, decisión posterior, versión de 45 minutos, tarea flexible, actividades complementarias, control de dificultades y coordinación de roles profesionales.
 
-[Abrir el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [Metodología](../METHODOLOGY.md) · [Volver al centro documental](README.md)
+[Metodología](../METHODOLOGY.md) · [Índice curricular Markdown](../CURRICULUM.md) · [Volver al centro documental](README.md)
