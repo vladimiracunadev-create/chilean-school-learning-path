@@ -1,6 +1,8 @@
 # 🇨🇱 Trayectoria Escolar Chile
 
-**12.997 clases planificadas · 2.823 Objetivos de Aprendizaje · 1° básico a 4° medio**
+**2.823 OA inventariados · 12.997 sesiones propuestas · 1° básico a 4° medio**
+
+> **Estado editorial:** existe cobertura estructural y trazabilidad oficial, pero las sesiones generadas aún no equivalen a clases disciplinares completamente desarrolladas y revisadas. Consulta el [estándar de calidad](QUALITY_STANDARD.md) y usa el [prompt maestro](MASTER_PROMPT.md) para completar el programa por lotes verificables.
 
 Repositorio educativo abierto para planificar lo que niñas, niños y jóvenes aprenden durante su trayectoria escolar en Chile. Cada propuesta identifica nivel, asignatura, tema, OA oficial, cobertura y evidencia, y desarrolla el aprendizaje en 4 a 7 clases según su amplitud.
 
