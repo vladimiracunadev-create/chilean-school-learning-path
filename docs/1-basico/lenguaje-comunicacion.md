@@ -4,7 +4,7 @@
 
 **33 OA · 160 clases · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** todas las clases de esta asignatura están desarrolladas y publicadas. La revisión humana disciplinar y pedagógica sigue pendiente.
+> **Estado editorial:** 4 clases desarrolladas y 156 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -75,7 +75,7 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 |---|---|---|---:|---|
 | LE01 OA 01 | Reconocer que los textos escritos transmiten mensajes y que son escritos por alguien para cumplir un… | Lectura - Comprensión | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-01.md) |
 | LE01 OA 02 | Reconocer que las palabras son unidades de significado separadas por espacios en el texto escrito | Lectura - Comprensión | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-02.md) |
-| LE01 OA 03 | Identificar los sonidos que componen las palabras (conciencia fonológica), reconociendo, separando y… | Lectura - Comprensión | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-03.md) |
+| LE01 OA 03 | Conciencia fonológica: reconocer, separar y combinar rimas, sílabas y fonemas | Lectura - Comprensión | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-03.md) |
 | LE01 OA 04 | Leer palabras aisladas y en contexto, aplicando su conocimiento de la correspondencia letra-sonido en… | Lectura - Comprensión | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-04.md) |
 | LE01 OA 05 | Leer textos breves en voz alta para adquirir fluidez | Lectura - Comprensión | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-05.md) |
 | LE01 OA 06 | Comprender textos aplicando estrategias de comprensión lectora | Lectura - Comprensión | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/lenguaje-comunicacion/le01-oa-06.md) |

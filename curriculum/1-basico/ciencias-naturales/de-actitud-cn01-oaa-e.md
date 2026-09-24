@@ -17,6 +17,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: manifestar compromiso con un estilo de vida… {#cl-00134}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el autocuidado».
 
 **Meta para estudiantes:** Hoy aprenderé a manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el… y mostraré cómo lo hice.
@@ -63,6 +65,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: manifestar compromiso con un estilo de vida… {#cl-00135}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el autocuidado».
 
 **Meta para estudiantes:** Hoy aprenderé a manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el… y mostraré cómo lo hice.
@@ -109,6 +113,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: manifestar compromiso con un estilo de vida… {#cl-00136}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el autocuidado».
 
 **Meta para estudiantes:** Hoy aprenderé a manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el… y mostraré cómo lo hice.
@@ -155,6 +161,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: manifestar compromiso con un estilo de vida… {#cl-00137}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el autocuidado».
 
 **Meta para estudiantes:** Hoy aprenderé a manifestar compromiso con un estilo de vida saludable a través del desarrollo físico y el… y mostraré cómo lo hice.

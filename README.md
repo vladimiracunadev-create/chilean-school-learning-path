@@ -2,15 +2,15 @@
 
 # 🇨🇱 Trayectoria Escolar Chile
 
-## **1° básico completo · 1.034 clases · 237 OA · 11 asignaturas**
+## **1° básico en reconstrucción · 14 clases desarrolladas · 1.020 borradores**
 
-**Un programa de aprendizaje abierto, claro y adaptable para enseñar 1° básico con propósito, actividades, evidencia y decisiones pedagógicas.**
+**Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
 [![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 
-[![Programa](https://img.shields.io/badge/programa-1%C2%B0%20b%C3%A1sico%20completo-e9533f?style=for-the-badge)](docs/1-basico/README.md)
-[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-1.034-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
-[![OA desarrollados](https://img.shields.io/badge/OA%20desarrollados-237-23875a?style=for-the-badge)](docs/1-basico/README.md)
+[![Programa](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-en%20reconstrucci%C3%B3n-e9533f?style=for-the-badge)](docs/1-basico/README.md)
+[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-14-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
+[![Borradores](https://img.shields.io/badge/borradores%20pendientes-1.020-b45309?style=for-the-badge)](docs/1-basico/README.md)
 [![Asignaturas](https://img.shields.io/badge/asignaturas-11-7c5cff?style=for-the-badge)](docs/1-basico/README.md#-las-11-asignaturas)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
@@ -26,7 +26,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** 1° básico es el único nivel desarrollado de principio a fin. Los otros once niveles conservan un mapa curricular y una secuencia inicial para trabajo futuro; **no son todavía programas completos**. Existen 22 clases piloto fuera de 1° básico, pero no convierten esos niveles en cursos terminados.
+> **Estado real del proyecto:** el mapa de 1° básico contiene 237 OA y 1.034 propuestas, pero solo **14 clases están desarrolladas con contenido específico**. Las otras 1.020 son borradores estructurados que deben investigarse y reescribirse OA por OA. Existen además 22 clases piloto en otros niveles. Ningún nivel se declara completo ni revisado por especialistas.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -35,21 +35,21 @@
 
 Este repositorio sirve hoy para tres cosas distintas, expresadas sin mezclar sus estados:
 
-- **Enseñar 1° básico:** ofrece 1.034 clases desarrolladas para 237 OA en 11 asignaturas.
+- **Usar la primera base desarrollada:** ofrece 14 clases específicas en Artes Visuales, Matemática y Lenguaje, todavía pendientes de revisión humana.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
 - **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
 
-Si vienes a preparar clases, abre el **[programa completo de 1° básico](docs/1-basico/README.md)**. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**. Si buscas un código curricular específico, usa el **[índice de OA](CURRICULUM.md)**.
+Si vienes a preparar clases, abre el **[mapa de 1° básico](docs/1-basico/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**. Si buscas un código curricular específico, usa el **[índice de OA](CURRICULUM.md)**.
 
 ## 🧭 OA, en palabras simples
 
 **OA significa Objetivo de Aprendizaje:** expresa qué debe llegar a comprender o hacer el estudiante. No es una clase, una actividad ni una página del repositorio.
 
-Por ejemplo, `MA01 OA 01` significa Matemática · 1° básico · Objetivo de Aprendizaje 1. En este proyecto, cada OA de 1° básico se convierte en una secuencia de 4 a 7 clases con modelado, práctica, tareas, actividades complementarias y evidencia. La guía **[¿Qué es un OA?](docs/QUE_ES_UN_OA.md)** explica el código y muestra un ejemplo completo.
+Por ejemplo, `MA01 OA 01` significa Matemática · 1° básico · Objetivo de Aprendizaje 1. Cuando una secuencia alcanza el estado **desarrollada**, despliega el OA en clases con modelado, práctica, tareas, actividades complementarias y evidencia. Las fichas marcadas como **borrador** todavía no cumplen esa promesa. La guía **[¿Qué es un OA?](docs/QUE_ES_UN_OA.md)** explica el código.
 
 ## 🎯 Qué es este proyecto
 
-Trayectoria Escolar Chile convierte el currículo oficial en decisiones concretas de enseñanza. Cada clase desarrollada de 1° básico incluye:
+Trayectoria Escolar Chile convierte el currículo oficial en decisiones concretas de enseñanza. Cada clase que el proyecto marca como desarrollada incluye:
 
 - propósito docente y meta comprensible para estudiantes;
 - conocimientos previos, vocabulario y errores previsibles;
@@ -81,7 +81,7 @@ La respuesta del proyecto es una estructura común, contenido disciplinar, traza
 El punto de partida es el [Currículum Nacional de Chile](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El repositorio registra nivel, asignatura, eje, OA, URL oficial y fecha de comprobación.
 
 - **[Fuentes oficiales](OFFICIAL_REFERENCES.md):** procedencia de OA, programas, lecturas y referencias legales.
-- **[Programa completo de 1° básico](docs/1-basico/README.md):** progresión, asignaturas, clases y evidencias.
+- **[Reconstrucción de 1° básico](docs/1-basico/README.md):** cobertura, estado por asignatura y acceso a cada OA.
 - **[Metodología](METHODOLOGY.md):** paso del OA a la secuencia y controles de consistencia.
 - **[Cobertura](docs/COBERTURA.md):** alcance de los doce niveles y estado editorial real.
 - **[Licencias](docs/LICENCIAS.md):** derechos, atribución y condiciones de reutilización.
@@ -90,21 +90,21 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 ## 📍 Estado actual
 
-### Listo para explorar y adaptar
+### Desarrollado hasta ahora
 
-**1° básico:** 237 OA, 1.034 clases desarrolladas y 11 asignaturas. Todo el nivel tiene estructura pedagógica completa en Markdown y HTML. Aun así, mantiene **revisión humana pendiente**: “desarrollada” no significa “validada por una persona especialista”.
+**1° básico:** 14 clases desarrolladas en tres secuencias: `AR01 OA 01` (6), `MA01 OA 01` (4) y `LE01 OA 03` (4). Están disponibles en Markdown y HTML y mantienen **revisión humana pendiente**. Las otras 1.020 propuestas del nivel son borradores, no planificaciones listas para el aula.
 
 ### Preparado para desarrollo futuro
 
-**2° básico a 4° medio:** mapa de 2.586 OA distribuido en 11 niveles, con secuencias iniciales y 11.963 espacios de clase. Los 22 pilotos de 3°, 4° y 8° básico sirven para probar el modelo; no deben presentarse como programas terminados.
+**Resto de 1° básico y niveles superiores:** mapa curricular navegable con propuestas automáticas o secuenciadas. Los 22 pilotos de 3°, 4° y 8° básico sirven para probar el modelo; no convierten esos niveles en programas terminados.
 
 ### Lo que significa “12.997”
 
-Es la suma de todos los **espacios de clase planificados** del mapa curricular. Incluye las 1.034 clases completas de 1° básico y 11.963 propuestas pendientes de desarrollo sistemático. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una tabla promocional del README.
+Es la suma de todos los **espacios de clase inventariados** del mapa curricular. No significa que existan 12.997 planificaciones pedagógicas terminadas. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
 
-## 🧒 1° básico · nivel desarrollado
+## 🧒 1° básico · reconstrucción OA por OA
 
-El programa se organiza en once recorridos narrativos. Cada guía explica propósito, prerrequisitos, método disciplinar, progresión por ejes, recorrido OA por OA, dificultades frecuentes y evidencia esperada.
+El mapa se organiza en once recorridos por asignatura. Las guías permiten localizar los OA y ver cuántas propuestas están desarrolladas o continúan como borrador. La existencia de una guía no significa que toda la asignatura esté terminada.
 
 - 🎨 **[Artes Visuales](docs/1-basico/artes-visuales.md):** 12 OA y 52 clases.
 - 🌱 **[Ciencias Naturales](docs/1-basico/ciencias-naturales.md):** 22 OA y 89 clases.
@@ -258,8 +258,8 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Programa utilizable:** 1° básico, completo en sus 237 OA y 1.034 clases.
-- **Mapa de expansión:** 2° básico a 4° medio, con 2.586 OA y 11.963 propuestas de clase pendientes de desarrollo integral.
+- **Contenido desarrollado:** 14 clases de 1° básico y 22 pilotos de otros niveles.
+- **Contenido pendiente:** 1.020 borradores de 1° básico y las secuencias aún no desarrolladas de los niveles superiores.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -297,7 +297,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un programa completo de 1° básico con 1.034 clases desarrolladas;
+- una reconstrucción transparente de 1° básico, con 14 clases desarrolladas y 1.020 borradores identificados;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -314,7 +314,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ## 💡 Idea fuerza
 
-> La cifra importante hoy no es cuántos archivos existen, sino qué contenido puede comprenderse, adaptarse y mejorar con honestidad: **1° básico es el programa completo; los demás niveles son el camino de expansión**.
+> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. El trabajo continuará OA por OA, sin llamar “completo” a lo que sigue siendo borrador.
 
 ## 📖 Fuentes y derechos
 

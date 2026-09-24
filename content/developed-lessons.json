@@ -108,6 +108,247 @@
         }
       ]
     },
+    "MA01 OA 01": {
+      "topic": "Conteo de 0 a 100 con saltos de 1, 2, 5 y 10, hacia adelante y hacia atrás",
+      "pedagogical_explanation": "Este OA construye la idea de conteo como una relación entre una secuencia estable, una cantidad o posición y un salto constante. La progresión parte de la correspondencia uno a uno y la cardinalidad, continúa con agrupaciones visibles de 2, 5 y 10, y culmina eligiendo inicio, dirección y tamaño del salto. Recitar una lista memorizada no basta: cada estudiante debe poder representar, continuar, retroceder y comprobar la regularidad.",
+      "prerequisites": "Reconocer cantidades pequeñas, coordinar señalamiento con lenguaje oral y comparar colecciones cercanas. No se presupone dominio de la lectura ni escritura convencional de todos los numerales.",
+      "vocabulary": "contar, cantidad, total, grupo, pareja, salto, avanzar, retroceder, antes, después y comprobar",
+      "official_alignment": {
+        "units": [
+          "Unidad 1: Números, patrones repetitivos y unidades no estandarizadas en el tiempo",
+          "Unidad 2: Números, patrones numéricos y geométricos; figuras 2D y 3D"
+        ],
+        "indicators": [
+          "Contar de 1 en 1 hasta 15 y continuar secuencias desde números dados.",
+          "Contar de 2 en 2 hasta 20 y de 5 en 5 hasta 50.",
+          "Contar por tramos de 2 en 2 y de 5 en 5, hacia adelante y hacia atrás.",
+          "Contar de 5 en 5 y de 10 en 10 hasta 100.",
+          "Iniciar un conteo desde un número distinto de cero y reconocer la regularidad utilizada."
+        ],
+        "source": "https://www.curriculumnacional.cl/614/w3-article-17473.html"
+      },
+      "lessons": [
+        {
+          "title": "Contar de uno en uno: cada objeto, una palabra número",
+          "purpose": "Construir un conteo estable hasta 15 coordinando objeto, palabra número y último número como total.",
+          "goal": "Hoy contaré una colección hasta 15 sin saltar ni repetir objetos y explicaré cómo comprobé el total.",
+          "opening": "Muestra 12 tapas desordenadas. Dos personajes ficticios obtienen 11 y 13 porque uno salta una tapa y otro cuenta una dos veces. El curso identifica qué ocurrió sin corregir todavía la colección.",
+          "model": "Alinea 12 tapas y desplaza una por vez mientras dices la secuencia 1, 2, 3… Detente y explica que cada objeto recibe una sola palabra número y que el último número dicho indica cuántos hay. Desordena las mismas tapas y comprueba que la cantidad no cambia.",
+          "guided": "En parejas reciben colecciones de 6 a 15 objetos. Una persona cuenta desplazando; la otra observa con dos criterios: una palabra por objeto y ningún objeto repetido. Intercambian roles y comparan dos maneras de organizar.",
+          "independent": "Cada estudiante cuenta una colección nueva, registra el total con número o tarjeta y realiza una segunda comprobación cambiando la disposición de los objetos.",
+          "ticket": "Cuenta 9 puntos distribuidos irregularmente, marca cada punto al contarlo y completa: «Hay __ porque el último número que dije fue __». ",
+          "materials": "Tapas o fichas, tarjetas del 0 al 15, bandejas y tickets con puntos. Prepara colecciones exactas y una zona donde mover cada objeto contado.",
+          "support": "Reduce temporalmente la colección, usa una bandeja con zona «por contar/contado» y acompaña la secuencia oral; vuelve luego a la cantidad objetivo sin contar por el estudiante.",
+          "extension": "Cuenta la misma colección comenzando por otro objeto y explica por qué el total se conserva.",
+          "evidence": "Conteo individual de una colección hasta 15, numeral elegido y comprobación mediante una segunda organización.",
+          "criteria": ["asigna una palabra número a cada objeto", "mantiene la secuencia numérica", "usa el último número como total y lo comprueba"],
+          "next_step": "Si omite o repite objetos, mantener colecciones hasta 10 y reforzar el desplazamiento; si coordina conteo y total, avanzar a saltos de dos.",
+          "short_version": "Trabaja una demostración, dos colecciones en pareja y un conteo individual; conserva la comprobación final.",
+          "home_task": "Cuenta una colección doméstica segura de hasta 15 objetos —por ejemplo, cucharas o pinzas— y muestra con un dibujo cómo evitaste repetirlos. No requiere comprar ni imprimir.",
+          "complementary": ["Recuperación: contar una hilera de 5 a 8 objetos y luego la misma colección desordenada.", "Juego «detective del conteo»: descubrir si un personaje saltó o repitió un objeto.", "Profundización: crear una colección para que otra persona la cuente de dos maneras."],
+          "difficulty_actions": [
+            {"signal": "Repite u omite objetos", "action": "Separa físicamente «por contar» y «contados» y mueve uno por cada palabra número.", "check": "Cuenta una colección de 8 objetos sin repetir ni omitir."},
+            {"signal": "Recita números, pero no determina el total", "action": "Pregunta «¿cuántos hay en total?» y vuelve a señalar el último número dicho sin reiniciar el conteo.", "check": "Declara el total usando el último número del conteo."},
+            {"signal": "Pierde la secuencia oral", "action": "Cuenta coralmente hasta el punto de quiebre y deja una banda numérica como apoyo temporal.", "check": "Retoma y completa una secuencia individual hasta 15."}
+          ],
+          "specialist_coordination": "El docente observa correspondencia uno a uno y cardinalidad; educación diferencial puede organizar el campo visual o aportar fichas de mayor tamaño sin reducir permanentemente la cantidad."
+        },
+        {
+          "title": "Saltar de dos en dos: formar parejas y anticipar el número siguiente",
+          "purpose": "Relacionar el conteo de dos en dos con grupos de dos y reconocer su regularidad hasta 20.",
+          "goal": "Hoy contaré de dos en dos hasta 20 usando parejas y explicaré por qué cada número aumenta en dos.",
+          "opening": "Presenta diez calcetines o tarjetas formando cinco parejas. Pregunta cómo contarlos sin nombrar cada elemento por separado y registra estrategias.",
+          "model": "Forma parejas visibles y señala una pareja cada vez mientras dices 2, 4, 6, 8, 10. En una recta numérica realiza saltos de dos y verbaliza: «sumo dos porque avanzo una pareja». Contrasta con una secuencia errónea 2, 4, 7, 9.",
+          "guided": "Construyen cantidades pares hasta 20 con fichas agrupadas de dos. Antes de contar, predicen el número siguiente; después comprueban recorriendo saltos de dos en la recta.",
+          "independent": "Completa tres secuencias con inicio 0, 4 y 10; representa una de ellas con parejas y encierra el salto que permite pasar de un número al siguiente.",
+          "ticket": "Completa 6, 8, __, __ y dibuja las dos fichas que se agregan entre 8 y 10.",
+          "materials": "Veinte fichas, tarjetas de pares, recta numérica de 0 a 20 y cordel o aros para formar grupos de dos.",
+          "support": "Mantén los grupos de dos visibles y ofrece una recta con números pares destacados; retira el color cuando el patrón sea reconocido.",
+          "extension": "Comienza en 3 y cuenta de dos en dos hasta 19; compara esa secuencia con la que comienza en 0.",
+          "evidence": "Secuencias de dos en dos, representación con parejas y explicación del salto de dos.",
+          "criteria": ["forma o reconoce grupos de dos", "mantiene saltos constantes de dos", "explica la relación entre pareja y número siguiente"],
+          "next_step": "Si memoriza sin relacionar grupos, volver a parejas concretas; si explica el salto, iniciar desde números distintos de cero.",
+          "short_version": "Modela con cinco parejas, resuelve una secuencia guiada y conserva una secuencia individual con representación.",
+          "home_task": "Busca hasta diez objetos que naturalmente formen parejas, cuenta de dos en dos y registra la secuencia con dibujo o audio.",
+          "complementary": ["Recuperación: emparejar fichas antes de decir la secuencia.", "Movimiento: avanzar dos casillas por turno en una recta de piso.", "Profundización: comparar secuencias iniciadas en 0 y en 1."],
+          "difficulty_actions": [
+            {"signal": "Dice la secuencia, pero los grupos no coinciden", "action": "Toca una pareja completa por cada número pronunciado y detén el conteo si queda una ficha fuera.", "check": "Coordina cinco parejas con 2, 4, 6, 8, 10."},
+            {"signal": "Vuelve a contar de uno en uno", "action": "Cubre cada pareja con un aro y cuenta cada aro como un salto de dos.", "check": "Cuenta al menos cuatro parejas sin enumerar cada ficha."},
+            {"signal": "No continúa desde 4 o 10", "action": "Ubica el inicio en la recta y realiza físicamente el primer salto.", "check": "Completa tres números posteriores desde un inicio dado."}
+          ],
+          "specialist_coordination": "El docente conserva el foco en regularidad y agrupación; los apoyos facilitan manipulación, señalamiento o recta accesible sin convertir la actividad en recitación asistida."
+        },
+        {
+          "title": "Contar de cinco y diez en diez hasta 100",
+          "purpose": "Construir las secuencias de cinco y diez mediante agrupaciones visibles y conectarlas con la tabla numérica.",
+          "goal": "Hoy contaré grupos de cinco y de diez hasta 100 y usaré el patrón para encontrar números que faltan.",
+          "opening": "Muestra cuatro paquetes de cinco palitos y tres paquetes de diez. Pregunta qué información debe conocerse antes de contar los paquetes y cuál agrupación permite llegar más rápido a 20 o 30.",
+          "model": "Cuenta paquetes de cinco: 5, 10, 15, 20; luego paquetes de diez: 10, 20, 30, 40. Marca ambas secuencias en una tabla del 100 y piensa en voz alta sobre las terminaciones 0 y 5. Aclara que el patrón ayuda a comprobar, no reemplaza entender el tamaño del grupo.",
+          "guided": "Equipos construyen una línea con diez paquetes de cinco y otra con diez paquetes de diez. Retiran una tarjeta numérica y usan los grupos vecinos para reconstruirla.",
+          "independent": "Completa secuencias de cinco y diez hasta 100, representa un tramo con grupos y explica cómo supo uno de los números ausentes.",
+          "ticket": "Escribe los dos números que siguen en 35, 40, 45, __, __ y explica qué cambia y qué se repite.",
+          "materials": "Palitos o fichas en paquetes de cinco y diez, bandas numéricas, tabla del 100 y tarjetas múltiplos de 5 y 10.",
+          "support": "Usa paquetes ya formados y una tabla con filas de diez; permite señalar antes de verbalizar y reduce el tramo, manteniendo el tamaño del salto.",
+          "extension": "Encuentra números que aparecen tanto al contar de cinco en cinco como de diez en diez y explica por qué.",
+          "evidence": "Dos secuencias completas, una representación agrupada y explicación de un número ausente.",
+          "criteria": ["mantiene grupos constantes de cinco o diez", "continúa la secuencia hasta 100", "usa agrupación o patrón para justificar"],
+          "next_step": "Si confunde el tamaño del salto, volver a paquetes concretos; si domina ambas secuencias, trabajar tramos desde números intermedios y conteo descendente.",
+          "short_version": "Trabaja una secuencia de cinco y otra de diez, un número ausente guiado y un ticket individual.",
+          "home_task": "Elige una secuencia —de cinco o diez—, represéntala hasta 50 con marcas agrupadas y explica oralmente el patrón.",
+          "complementary": ["Recuperación: asociar cada tarjeta numérica con la cantidad de paquetes correspondiente.", "Bingo de saltos: cubrir números escuchados en una tabla del 100.", "Profundización: localizar intersecciones de las secuencias de cinco y diez."],
+          "difficulty_actions": [
+            {"signal": "Continúa de uno en uno", "action": "Oculta las fichas individuales dentro de paquetes cerrados de cinco o diez y cuenta paquetes.", "check": "Pronuncia un número por paquete manteniendo el salto."},
+            {"signal": "Memoriza, pero no reconstruye un número faltante", "action": "Vuelve al paquete anterior y agrega exactamente un grupo.", "check": "Encuentra el número siguiente y explica cuánto agregó."},
+            {"signal": "Confunde las secuencias de cinco y diez", "action": "Usa dos colores en la tabla del 100 y compara las marcas comunes.", "check": "Clasifica seis números según aparecen en una o ambas secuencias."}
+          ],
+          "specialist_coordination": "El docente conecta agrupación, secuencia y patrón; los apoyos preparan paquetes manipulables o tablas ampliadas y registran qué representación permite autonomía."
+        },
+        {
+          "title": "Elegir el salto y contar hacia adelante o hacia atrás",
+          "purpose": "Integrar conteos de 1, 2, 5 y 10 desde distintos números, justificando dirección y tamaño del salto.",
+          "goal": "Hoy elegiré si avanzar o retroceder de 1, 2, 5 o 10 y comprobaré cada salto.",
+          "opening": "Plantea cuatro recorridos: 37 a 42, 12 a 20, 25 a 50 y 80 a 30. El curso propone qué salto puede servir y explica por qué algunas elecciones no llegan exactamente.",
+          "model": "Resuelve de 65 a 40 retrocediendo de cinco: ubica 65, marca -5 y dice 60, 55, 50, 45, 40. Contrasta con restar diez, que no alcanza 40 desde 65 sin cambiar de salto, y explicita que primero se eligen inicio, dirección y tamaño del salto.",
+          "guided": "En estaciones resuelven recorridos breves con tarjetas de inicio, meta, dirección y salto. Una persona mueve, otra registra y una tercera comprueba la diferencia entre números consecutivos.",
+          "independent": "Resuelve cuatro secuencias —una por salto—, incluyendo dos descendentes. Escoge una y escribe o dicta por qué el salto llega a la meta.",
+          "ticket": "Desde 74, cuenta hacia atrás de dos en dos cuatro pasos y encierra la diferencia entre cada par de números.",
+          "materials": "Recta numérica hasta 100, tabla del 100, fichas, tarjetas de inicio/meta y flechas +1, -1, +2, -2, +5, -5, +10 y -10.",
+          "support": "Separa la decisión en tres tarjetas —inicio, dirección, salto— y permite mover una ficha antes de registrar; reduce la cantidad de pasos, no el razonamiento.",
+          "extension": "Busca dos formas de llegar desde 20 a 50 combinando saltos permitidos y compara cuál usa menos pasos.",
+          "evidence": "Cuatro secuencias correctas y explicación de dirección, salto y comprobación en una de ellas.",
+          "criteria": ["parte del número indicado", "mantiene dirección y tamaño del salto", "comprueba la diferencia entre términos consecutivos"],
+          "next_step": "Si cambia de salto sin advertirlo, usar flechas visibles y tramos cortos; si mantiene la regularidad, combinar saltos y justificar eficiencia.",
+          "short_version": "Modela un recorrido descendente, realiza dos estaciones guiadas y conserva dos secuencias individuales con explicación.",
+          "home_task": "Inventa una secuencia de seis números con salto 2, 5 o 10, deja dos espacios vacíos y pide a alguien completarla; luego comprueba.",
+          "complementary": ["Recuperación: recorrer una recta de piso con un único salto y dirección.", "Parejas de comprobación: detectar dónde una secuencia cambia accidentalmente de salto.", "Profundización: combinar dos tamaños de salto para llegar a una meta exacta."],
+          "difficulty_actions": [
+            {"signal": "No parte del número indicado", "action": "Marca físicamente el inicio y pide nombrarlo antes del primer movimiento.", "check": "Inicia tres secuencias desde números distintos de cero."},
+            {"signal": "Confunde avanzar con retroceder", "action": "Asocia flecha, gesto corporal y signo antes de mover la ficha.", "check": "Realiza dos recorridos en direcciones opuestas."},
+            {"signal": "Cambia el salto durante la secuencia", "action": "Compara cada par consecutivo con una tarjeta del salto elegido.", "check": "Mantiene el mismo salto durante cinco términos."}
+          ],
+          "specialist_coordination": "El docente evalúa elección y regularidad, no velocidad; educación diferencial facilita rectas táctiles, alto contraste o respuesta oral conservando inicio, dirección y salto."
+        }
+      ]
+    },
+    "LE01 OA 03": {
+      "topic": "Conciencia fonológica: reconocer, separar y combinar rimas, sílabas y fonemas",
+      "pedagogical_explanation": "Este OA desarrolla la capacidad de atender deliberadamente a la estructura sonora del habla. La secuencia avanza de unidades más perceptibles —rima y sílaba— hacia sonidos iniciales, finales y fonemas. Las actividades son principalmente orales: una dificultad de pronunciación, vocabulario o acceso auditivo no debe confundirse automáticamente con falta de conciencia fonológica.",
+      "prerequisites": "Comprender consignas orales breves, reconocer nombres de objetos o imágenes familiares y participar en juegos de escucha. No se exige leer ni nombrar letras para demostrar el aprendizaje.",
+      "vocabulary": "sonido, palabra, rima, sílaba, inicio, final, separar, combinar y fonema",
+      "official_alignment": {
+        "units": ["Unidad 1: Comenzando a leer y escribir"],
+        "indicators": [
+          "Identificar sonidos o patrones de sonido en oraciones escuchadas.",
+          "Reconocer palabras que riman.",
+          "Identificar sonidos iniciales y finales.",
+          "Descomponer palabras en sílabas y formar palabras a partir de sílabas.",
+          "Segmentar palabras en fonemas y reconocer una palabra al combinar sus fonemas."
+        ],
+        "source": "https://www.curriculumnacional.cl/614/w3-article-17116.html"
+      },
+      "lessons": [
+        {
+          "title": "Escuchar palabras que suenan parecido: ritmo y rima",
+          "purpose": "Dirigir la atención hacia patrones sonoros y rimas en textos orales breves, sin depender de la escritura.",
+          "goal": "Hoy escucharé palabras que terminan parecido y explicaré qué sonido comparten.",
+          "opening": "Recita una estrofa breve creada para la clase: «Pato salta sobre el plato; gato mira desde un rato». Repítela y pide levantar una tarjeta cuando dos palabras suenen parecido al final.",
+          "model": "Contrasta gato-pato y gato-mesa. Alarga solo el final audible —/ato/— y piensa en voz alta: «No miro las letras; escucho desde la vocal acentuada hasta el final». Acepta aproximaciones orales antes de introducir la palabra rima.",
+          "guided": "Clasifican imágenes en familias orales: gato/pato/zapato, mesa/fresa, canción/camión. El docente nombra cada imagen y el grupo repite antes de decidir; incluyen un intruso por familia.",
+          "independent": "Cada estudiante escucha cuatro tríos de palabras, señala las dos que riman y justifica repitiendo el segmento final compartido.",
+          "ticket": "Escucha sol, caracol y pan. Marca las dos que riman y di qué parte suena parecida.",
+          "materials": "Estrofas breves de redacción propia, tarjetas de imágenes claras y fichas para clasificar. No se exige leer las palabras.",
+          "support": "Reduce a dos opciones, repite con ritmo más lento y permite responder señalando; no muestres primero la palabra escrita porque el foco es auditivo.",
+          "extension": "Propón una palabra y crea una palabra inventada que rime; explica que puede no existir, pero debe conservar el patrón sonoro.",
+          "evidence": "Selección individual de pares que riman y reproducción del segmento final común.",
+          "criteria": ["atiende al sonido y no solo al significado", "identifica pares que riman", "repite o señala el segmento compartido"],
+          "next_step": "Si elige por significado, volver a contrastes muy distintos semánticamente; si reconoce rimas, avanzar a separar sílabas.",
+          "short_version": "Usa una estrofa, dos familias guiadas y un ticket individual de tres palabras.",
+          "home_task": "Busca con una persona dos palabras que rimen con gato o canción; pueden ser palabras inventadas. Regístralas con dibujo o audio.",
+          "complementary": ["Recuperación: decidir si dos palabras riman usando solo pares contrastados.", "Memorama oral de imágenes que riman.", "Profundización: completar oralmente un verso con una palabra que conserve sentido y rima."],
+          "difficulty_actions": [
+            {"signal": "Agrupa por significado y no por sonido", "action": "Usa un par semánticamente lejano que rime y repite solo sus terminaciones.", "check": "Escoge correctamente dos pares nuevos por su sonido final."},
+            {"signal": "No retiene las tres palabras", "action": "Presenta dos imágenes a la vez y repite cada nombre antes de comparar.", "check": "Decide entre un par que rima y uno que no."},
+            {"signal": "La producción oral dificulta demostrar reconocimiento", "action": "Permite señalar el par y escuchar nuevamente; separa reconocimiento de pronunciación.", "check": "Señala tres pares correctos de manera consistente."}
+          ],
+          "specialist_coordination": "El docente conduce el juego oral; fonoaudiólogo o educación diferencial, cuando corresponda, asesora acceso auditivo o comunicación alternativa sin convertir la clase en diagnóstico clínico."
+        },
+        {
+          "title": "Partir y unir palabras con sílabas",
+          "purpose": "Segmentar palabras familiares en sílabas y volver a combinarlas conservando su significado.",
+          "goal": "Hoy separaré palabras en golpes de voz y volveré a unir sus sílabas.",
+          "opening": "Nombra objetos del aula —mesa, lápiz, mochila— y acompaña cada palabra con pasos o palmas. Pregunta por qué algunas necesitan dos movimientos y otras tres.",
+          "model": "Pronuncia pelota lentamente, sin insertar sonidos: pe-lo-ta. Coloca una ficha por sílaba y vuelve a deslizar las tres fichas juntas mientras dices pelota. Contrasta con separar por letras, que todavía no es la tarea.",
+          "guided": "En parejas segmentan nombres de imágenes de dos y tres sílabas, colocan una ficha por cada parte y luego intercambian fichas para que la pareja combine la palabra.",
+          "independent": "Segmenta oralmente cuatro palabras representadas por imágenes, registra su cantidad con puntos y combina dos secuencias de sílabas dichas por el docente.",
+          "ticket": "Separa mariposa con fichas y luego responde qué palabra forman las sílabas ca-sa.",
+          "materials": "Imágenes de palabras conocidas, fichas, aros o bloques y una superficie para desplazarlos. Selecciona vocabulario sin ambigüedad regional.",
+          "support": "Exagera levemente el ritmo sin deformar la palabra, usa movimiento corporal y comienza con palabras bisílabas; vuelve luego a tres o cuatro sílabas.",
+          "extension": "Cambia una sílaba de una palabra para formar otra real o inventada y explica qué parte cambió.",
+          "evidence": "Segmentación de cuatro palabras, registro de cantidad silábica y combinación de sílabas escuchadas.",
+          "criteria": ["marca una unidad por sílaba", "mantiene el orden de las sílabas", "combina sílabas para recuperar la palabra"],
+          "next_step": "Si separa por letras o agrega vocales, volver a palabras bisílabas con apoyo corporal; si segmenta y combina, avanzar a sonidos iniciales y finales.",
+          "short_version": "Modela una palabra, practica cuatro en parejas y conserva dos segmentaciones y una combinación individual.",
+          "home_task": "Elige tres nombres de objetos cercanos, sepáralos en sílabas con palmas y registra cuántas tiene cada uno mediante puntos.",
+          "complementary": ["Recuperación: caminar dentro de aros, uno por sílaba.", "Clasificar imágenes por cantidad de sílabas.", "Profundización: sustituir la sílaba inicial y comparar el resultado."],
+          "difficulty_actions": [
+            {"signal": "Da una palmada por letra", "action": "Oculta la escritura, alarga la palabra oralmente y acompaña cada sílaba con un paso.", "check": "Segmenta tres palabras bisílabas sin mirar letras."},
+            {"signal": "Pierde el orden al combinar", "action": "Alinea fichas de izquierda a derecha y deslízalas sin cambiarlas de lugar.", "check": "Combina dos palabras de tres sílabas en orden."},
+            {"signal": "Agrega o elimina sonidos", "action": "Repite la palabra natural y luego segmentada, evitando una pausa excesiva.", "check": "Reconstruye la palabra original de manera reconocible."}
+          ],
+          "specialist_coordination": "El docente mantiene el foco lingüístico; los apoyos aportan movimiento, fichas accesibles o respuesta por selección sin sustituir la escucha y combinación individual."
+        },
+        {
+          "title": "El primer y el último sonido",
+          "purpose": "Aislar sonidos iniciales y finales en palabras familiares antes de asociarlos sistemáticamente con letras.",
+          "goal": "Hoy identificaré con qué sonido comienza y termina una palabra.",
+          "opening": "Presenta imágenes de mesa, mano, sol y sapo. Pronuncia cada nombre y pregunta qué parejas podrían entrar a la misma «casa de sonido».",
+          "model": "Di mesa prolongando /m/ sin añadir «eme» ni una vocal: /mmm/esa. Compara mesa con sopa. Para el final, contrasta sol y pan, repitiendo el último sonido sin nombrar la letra.",
+          "guided": "Clasifican imágenes por sonido inicial /m/, /s/ y /p/. Después juegan «llega al final»: escuchan palabras simples y levantan la tarjeta del sonido final entre dos opciones.",
+          "independent": "Resuelve seis ítems auditivos: tres de sonido inicial y tres de sonido final. En dos casos explica repitiendo el sonido aislado y luego la palabra completa.",
+          "ticket": "¿Cuál comienza igual que mesa: mano o sol? ¿Cuál termina como pan: tren o sol? Responde y repite el sonido compartido.",
+          "materials": "Tarjetas de imágenes de pronunciación inequívoca, objetos reales opcionales y tarjetas de sonidos representadas por boca o gesto; las letras se incorporan solo como apoyo posterior.",
+          "support": "Reduce el contraste a dos palabras, permite observar la boca y repetir en eco; separa dificultad articulatoria de capacidad para reconocer.",
+          "extension": "Encuentra una palabra que comparta sonido inicial y otra que comparta sonido final con una palabra dada.",
+          "evidence": "Clasificación auditiva de sonidos iniciales y finales más dos justificaciones orales o por selección consistente.",
+          "criteria": ["atiende al primer o último sonido solicitado", "clasifica palabras por sonido compartido", "aísla o reconoce el sonido sin usar solo el nombre de la letra"],
+          "next_step": "Si compara sílabas completas, volver a prolongar un fonema contrastante; si aísla sonidos, avanzar a segmentación y combinación fonémica.",
+          "short_version": "Trabaja dos sonidos iniciales, un contraste final y conserva cuatro ítems individuales.",
+          "home_task": "Busca dos palabras que comiencen con el mismo sonido de tu nombre u otra palabra elegida. Puedes dibujarlas o decirlas en la clase siguiente.",
+          "complementary": ["Recuperación: clasificar objetos reales por dos sonidos iniciales muy contrastantes.", "Veo-veo centrado en sonido inicial.", "Profundización: construir cadenas donde el final de una palabra sea el inicio de otra."],
+          "difficulty_actions": [
+            {"signal": "Dice el nombre de la letra, pero no reconoce el sonido", "action": "Vuelve a la palabra oral, prolonga el fonema y evita mostrar la grafía durante el contraste.", "check": "Clasifica tres imágenes nuevas por sonido inicial."},
+            {"signal": "Confunde inicio y final", "action": "Usa una flecha corporal de boca a cola y toca explícitamente cada extremo de la palabra oral.", "check": "Responde correctamente dos ítems iniciales y dos finales."},
+            {"signal": "No puede producir el sonido aislado", "action": "Permite elegir entre imágenes después de escuchar; evalúa reconocimiento antes que articulación.", "check": "Selecciona de forma consistente la palabra con sonido compartido."}
+          ],
+          "specialist_coordination": "El docente enseña conciencia fonológica; fonoaudiólogo, cuando forma parte del plan de apoyo, orienta accesos y diferencias entre reconocimiento y articulación sin etiquetar durante la actividad."
+        },
+        {
+          "title": "Robot de sonidos: separar y combinar fonemas",
+          "purpose": "Segmentar palabras simples en fonemas y combinarlos para reconocer palabras, vinculando el análisis oral con la lectura inicial.",
+          "goal": "Hoy separaré una palabra en sonidos y uniré sonidos para descubrir otra palabra.",
+          "opening": "Habla como robot: /s/ - /o/ - /l/. El curso adivina sol. Repite con pan y mar; pregunta qué tuvieron que hacer para comprender al robot.",
+          "model": "Usa tres fichas para sol. Pronuncia /s/ /o/ /l/ colocando una ficha por sonido, sin decir los nombres de las letras. Luego desliza las fichas juntas y combina lentamente hasta decir sol. Contrasta con separar en sílabas: sol tiene una sílaba, pero tres fonemas.",
+          "guided": "Con fichas segmentan y combinan palabras simples de dos a cuatro fonemas —pan, sol, mesa—. Alternan roles: una persona produce los sonidos y otra combina la palabra; luego comprueban con la imagen.",
+          "independent": "Segmenta dos palabras en fichas y reconoce dos palabras dictadas por fonemas. Registra con puntos la cantidad de sonidos de una palabra.",
+          "ticket": "Coloca una ficha por cada sonido de pan y descubre la palabra /m/ - /a/ - /r/.",
+          "materials": "Fichas iguales, cajas de sonido, imágenes de palabras simples y una lista docente con pronunciación prevista. Evita grupos consonánticos en la primera práctica.",
+          "support": "Trabaja primero con dos o tres fonemas continuos, permite observar la boca y repetir en eco; usa una ficha por sonido y aumenta gradualmente la longitud.",
+          "extension": "Cambia un solo fonema de sol para formar sal y explica qué sonido cambió y dónde.",
+          "evidence": "Dos segmentaciones, dos combinaciones y registro de cantidad fonémica realizados individualmente.",
+          "criteria": ["representa un fonema por ficha", "mantiene el orden de los sonidos", "combina fonemas para reconocer una palabra"],
+          "next_step": "Si segmenta sílabas en vez de fonemas, contrastar una palabra monosílaba; si segmenta y combina, conectar los sonidos dominados con sus grafemas en OA 04.",
+          "short_version": "Modela sol, practica dos palabras guiadas y conserva una segmentación y dos combinaciones individuales.",
+          "home_task": "Juega una vez al robot con dos palabras simples: una persona dice los sonidos y otra descubre la palabra. No se requiere escribir ni usar internet.",
+          "complementary": ["Recuperación: combinar dos o tres sonidos continuos con apoyo de imagen.", "Cajas de sonido con una ficha por fonema.", "Profundización: sustituir el sonido inicial o medial para formar otra palabra."],
+          "difficulty_actions": [
+            {"signal": "Coloca una ficha por sílaba", "action": "Usa una palabra monosílaba como sol y muestra que una sílaba contiene tres sonidos.", "check": "Representa tres fonemas con tres fichas."},
+            {"signal": "Añade el nombre de la letra o una vocal", "action": "Modela el sonido puro y combina de inmediato para conservar la palabra reconocible.", "check": "Produce o selecciona tres fonemas sin vocales añadidas."},
+            {"signal": "Reconoce con imagen, pero no solo al escuchar", "action": "Retira la imagen después de un ensayo y prolonga la combinación sin pausas excesivas.", "check": "Reconoce dos palabras nuevas a partir de sus fonemas."}
+          ],
+          "specialist_coordination": "El docente conecta conciencia fonémica y lectura inicial; apoyos profesionales registran qué operación —segmentar o combinar— requiere otra vía, sin sustituir la respuesta individual."
+        }
+      ]
+    },
     "MA03 OA 11": {
       "lessons": [
         {

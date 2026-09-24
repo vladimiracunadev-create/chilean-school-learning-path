@@ -6,7 +6,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
-| 1° básico | 237 | 1.034 | ✅ Desarrollo completo · revisión humana pendiente |
+| 1° básico | 237 | 1.034 | En reconstrucción · 14 desarrolladas · 1.020 borradores |
 | 2° básico | 247 | 1.072 | Próximo nivel de desarrollo |
 | 3° básico | 257 | 1.136 | Secuenciado · 11 clases piloto desarrolladas |
 | 4° básico | 268 | 1.195 | Secuenciado · 4 clases piloto desarrolladas |
@@ -19,19 +19,19 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 clases**, **2.823 OA**, **1.056 clases desarrolladas** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **36 clases desarrolladas**, **1.020 borradores identificados** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
 ### Fase 1 · 1° básico
 
-- [x] Desarrollar 1.034 clases en 11 asignaturas.
+- [ ] Desarrollar 1.034 clases en 11 asignaturas (14 desarrolladas; 1.020 borradores pendientes).
 - [x] Publicar una vista específica del nivel.
-- [x] Incorporar materiales, apoyos, profundización, evidencia y decisión posterior.
+- [ ] Incorporar contenido específico, materiales, apoyos, profundización, evidencia y decisión posterior OA por OA.
 - [x] Publicar syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión.
 - [x] Publicar índice narrativo y 11 guías de asignatura con recorrido OA por OA.
 - [x] Publicar una portada documental visual y adaptable dentro de Pages.
-- [x] Validar automáticamente que no falte ningún documento ni guía de asignatura.
+- [x] Separar automáticamente clases desarrolladas y borradores para impedir conteos inflados.
 - [ ] Registrar revisión humana disciplinar y pedagógica por asignatura.
 
 ### Fase 2 · 2° básico

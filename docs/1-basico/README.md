@@ -1,8 +1,8 @@
-# 📚 Programa completo de 1° básico
+# 📚 1° básico en reconstrucción pedagógica
 
 > [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)
 
-**1.034 clases · 237 OA · 11 asignaturas · desarrollo editorial completo · revisión humana pendiente**
+**1.034 propuestas · 237 OA · 11 asignaturas · 14 clases desarrolladas · 1.020 borradores · revisión humana pendiente**
 
 ## 🎯 De qué trata este nivel
 

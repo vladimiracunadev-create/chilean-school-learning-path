@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-24 — Corrección del estado pedagógico
+
+- Reclasificación de 1.020 textos automáticos de 1° básico como borradores, no clases desarrolladas.
+- Primera reconstrucción disciplinar de Matemática `MA01 OA 01` y Lenguaje `LE01 OA 03`, con alineación a indicadores oficiales, ejemplos, dificultades y evidencia.
+- Estado verificable corregido a 14 clases desarrolladas y 1.020 borradores en 1° básico; 36 desarrolladas en todo el repositorio.
+- Documentación y portal actualizados para distinguir inventario, borrador, desarrollo, revisión y publicación.
+
+> Corrección: una versión anterior declaró 1.034 clases desarrolladas en 1° básico. Esa afirmación se retiró al comprobar que 1.020 provenían de plantillas generales sin desarrollo específico por OA.
+
 ## 2026-09-24 — Arquitectura documental pedagógica
 
 - Portada documental visual dentro de GitHub Pages, conectada con el portal y la vista del nivel.

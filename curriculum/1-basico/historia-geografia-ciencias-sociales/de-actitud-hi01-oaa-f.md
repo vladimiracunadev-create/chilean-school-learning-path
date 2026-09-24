@@ -17,6 +17,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: establecer lazos de pertenencia con su… {#cl-00338}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento, la valoración y la reflexión sobre su historia personal, su comunidad y el país».
 
 **Meta para estudiantes:** Hoy aprenderé a establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento,… y mostraré cómo lo hice.
@@ -63,6 +65,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: establecer lazos de pertenencia con su… {#cl-00339}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento, la valoración y la reflexión sobre su historia personal, su comunidad y el país».
 
 **Meta para estudiantes:** Hoy aprenderé a establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento,… y mostraré cómo lo hice.
@@ -109,6 +113,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: establecer lazos de pertenencia con su… {#cl-00340}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento, la valoración y la reflexión sobre su historia personal, su comunidad y el país».
 
 **Meta para estudiantes:** Hoy aprenderé a establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento,… y mostraré cómo lo hice.
@@ -155,6 +161,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: establecer lazos de pertenencia con su… {#cl-00341}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento, la valoración y la reflexión sobre su historia personal, su comunidad y el país».
 
 **Meta para estudiantes:** Hoy aprenderé a establecer lazos de pertenencia con su entorno social y natural a partir del conocimiento,… y mostraré cómo lo hice.

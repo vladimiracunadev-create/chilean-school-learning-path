@@ -17,6 +17,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: valorar el significado y la importancia… {#cl-00459}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Valorar el significado y la importancia cultural de diferentes símbolos de la escritura ancestral, según el pueblo indígena que corresponda».
 
 **Meta para estudiantes:** Hoy aprenderé a valorar el significado y la importancia cultural de diferentes símbolos de la escritura… y mostraré cómo lo hice.
@@ -63,6 +65,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: valorar el significado y la importancia… {#cl-00460}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Valorar el significado y la importancia cultural de diferentes símbolos de la escritura ancestral, según el pueblo indígena que corresponda».
 
 **Meta para estudiantes:** Hoy aprenderé a valorar el significado y la importancia cultural de diferentes símbolos de la escritura… y mostraré cómo lo hice.
@@ -109,6 +113,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: valorar el significado y la importancia… {#cl-00461}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Valorar el significado y la importancia cultural de diferentes símbolos de la escritura ancestral, según el pueblo indígena que corresponda».
 
 **Meta para estudiantes:** Hoy aprenderé a valorar el significado y la importancia cultural de diferentes símbolos de la escritura… y mostraré cómo lo hice.
@@ -155,6 +161,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: valorar el significado y la importancia… {#cl-00462}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Valorar el significado y la importancia cultural de diferentes símbolos de la escritura ancestral, según el pueblo indígena que corresponda».
 
 **Meta para estudiantes:** Hoy aprenderé a valorar el significado y la importancia cultural de diferentes símbolos de la escritura… y mostraré cómo lo hice.

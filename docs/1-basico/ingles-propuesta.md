@@ -4,7 +4,7 @@
 
 **18 OA · 85 clases · 5 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** todas las clases de esta asignatura están desarrolladas y publicadas. La revisión humana disciplinar y pedagógica sigue pendiente.
+> **Estado editorial:** 0 clases desarrolladas y 85 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

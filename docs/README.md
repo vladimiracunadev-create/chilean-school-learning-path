@@ -2,9 +2,9 @@
 
 # 📚 Centro de documentación
 
-## **1° básico desarrollado de principio a fin**
+## **1° básico en reconstrucción pedagógica**
 
-**1.034 clases · 237 OA · 11 asignaturas · guías para enseñar, evaluar, acompañar y revisar**
+**14 clases desarrolladas · 1.020 borradores · 237 OA · 11 asignaturas**
 
 [📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
@@ -86,11 +86,12 @@ flowchart TD
 |---|---:|---|
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
-| Desarrolladas | 1.056 | contienen contrato pedagógico completo |
+| Borradores | 1.020 | arquitectura automática pendiente de contenido específico |
+| Desarrolladas | 36 | contienen decisiones disciplinares y contrato pedagógico completo |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 1.034 de las clases desarrolladas. Las 22 restantes son pilotos de otros niveles.
+1° básico reúne 14 clases desarrolladas y 1.020 borradores. Las otras 22 clases desarrolladas son pilotos de otros niveles.
 
 ## 🧱 Arquitectura documental
 

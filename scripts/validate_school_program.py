@@ -32,7 +32,7 @@ def validate(root: Path = ROOT) -> list[str]:
 
     classes = catalog.get("classes", [])
     objective_count = sum(len(record.get("objectives", [])) for record in snapshot.get("records", []))
-    expected = {"schema_version": 5, "class_count": len(classes), "objective_count": objective_count, "course_count": 12}
+    expected = {"schema_version": 6, "class_count": len(classes), "objective_count": objective_count, "course_count": 12}
     for key, value in expected.items():
         if catalog.get(key) != value:
             errors.append(f"{key}: catálogo={catalog.get(key)!r}, esperado={value!r}")
@@ -42,10 +42,18 @@ def validate(root: Path = ROOT) -> list[str]:
     if len(codes) != len(set(codes)):
         errors.append("Hay códigos de clase duplicados")
     developed_codes = set(developed.get("objectives", {}))
-    developed_count = sum(item.get("course_order") == 1 or item.get("oa_code") in developed_codes for item in classes)
-    if catalog.get("editorial_counts") != {"inventariada": len(classes), "secuenciada": len(classes), "desarrollada": developed_count, "revisada": 0, "publicada": len(classes)}:
+    developed_count = sum(item.get("oa_code") in developed_codes for item in classes)
+    draft_count = sum(item.get("editorial_status") == "borrador" for item in classes)
+    if catalog.get("editorial_counts") != {"inventariada": len(classes), "secuenciada": len(classes), "borrador": draft_count, "desarrollada": developed_count, "revisada": 0, "publicada": len(classes)}:
         errors.append("Los estados editoriales no coinciden con la cobertura declarada")
     for oa_code, objective in developed.get("objectives", {}).items():
+        if oa_code in {"MA01 OA 01", "LE01 OA 03"}:
+            for field in ("topic", "pedagogical_explanation", "prerequisites", "vocabulary", "official_alignment"):
+                if not objective.get(field):
+                    errors.append(f"{oa_code}: falta fundamento específico {field}")
+            alignment = objective.get("official_alignment", {})
+            if len(alignment.get("indicators", [])) < 3 or not alignment.get("source", "").startswith("https://www.curriculumnacional.cl/"):
+                errors.append(f"{oa_code}: alineación oficial insuficiente")
         for index, lesson in enumerate(objective.get("lessons", []), 1):
             missing = REQUIRED_DEVELOPED_FIELDS - lesson.keys()
             if missing:
@@ -55,9 +63,17 @@ def validate(root: Path = ROOT) -> list[str]:
             for field in REQUIRED_DEVELOPED_FIELDS - {"criteria"}:
                 if len(str(lesson.get(field, "")).strip()) < 20:
                     errors.append(f"{oa_code}, clase {index}: {field} no tiene desarrollo suficiente")
+            if oa_code in {"MA01 OA 01", "LE01 OA 03"}:
+                for field in ("home_task", "complementary", "difficulty_actions", "specialist_coordination"):
+                    if not lesson.get(field):
+                        errors.append(f"{oa_code}, clase {index}: falta extensión pedagógica {field}")
+                if "…" in lesson.get("goal", ""):
+                    errors.append(f"{oa_code}, clase {index}: la meta estudiantil está truncada")
     first_grade = [item for item in classes if item.get("course_order") == 1]
-    if len(first_grade) != 1034 or any(item.get("editorial_status") != "desarrollada" for item in first_grade):
-        errors.append("1° básico no está completamente desarrollado (esperadas: 1.034 clases)")
+    first_grade_developed = sum(item.get("editorial_status") == "desarrollada" for item in first_grade)
+    first_grade_drafts = sum(item.get("editorial_status") == "borrador" for item in first_grade)
+    if len(first_grade) != 1034 or first_grade_developed != 14 or first_grade_drafts != 1020:
+        errors.append("Estado de 1° básico incoherente (esperadas: 14 desarrolladas y 1.020 borradores)")
 
     markdown_cache: dict[str, str] = {}
     html_cache: dict[str, str] = {}
@@ -107,7 +123,7 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("El sitemap no enumera portada, documentación, vista de 1° básico, documentos HTML y páginas de OA")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
-    for token in ("1.034", "237", "11", "100% desarrollado", "Contrato pedagógico"):
+    for token in ("1.034", "237", "11", "14", "1.020", "Contrato pedagógico"):
         if token not in level_html:
             errors.append(f"Vista de 1° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
@@ -120,7 +136,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/1-basico/README.md": ("Las 11 asignaturas", "Progresión pedagógica común"),
-        "docs/SYLLABUS.md": ("Programa anual de 1° básico", "Planificación de principio a fin"),
+        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° básico", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
@@ -136,7 +152,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
         "LEARNING_PATHS.md": ("Docente de 1° básico", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("1.056 clases desarrolladas", "Próximo nivel de desarrollo"),
+        "ROADMAP.md": ("36 clases desarrolladas", "1.020 borradores", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),

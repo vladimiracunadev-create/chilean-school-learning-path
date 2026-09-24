@@ -17,6 +17,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: respetar y valorar el trabajo riguroso y el… {#cl-00045}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros».
 
 **Meta para estudiantes:** Hoy aprenderé a respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros y mostraré cómo lo hice.
@@ -63,6 +65,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente de Artes, si participa, aporta técnica y apreciación; educación diferencial acuerda una vía de acceso sin intervenir la obra del estudiante.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: respetar y valorar el trabajo riguroso y el… {#cl-00046}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros».
 
 **Meta para estudiantes:** Hoy aprenderé a respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros y mostraré cómo lo hice.
@@ -109,6 +113,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente de Artes, si participa, aporta técnica y apreciación; educación diferencial acuerda una vía de acceso sin intervenir la obra del estudiante.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: respetar y valorar el trabajo riguroso y el… {#cl-00047}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros».
 
 **Meta para estudiantes:** Hoy aprenderé a respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros y mostraré cómo lo hice.
@@ -155,6 +161,8 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente de Artes, si participa, aporta técnica y apreciación; educación diferencial acuerda una vía de acceso sin intervenir la obra del estudiante.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: respetar y valorar el trabajo riguroso y el… {#cl-00048}
+**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros».
 
 **Meta para estudiantes:** Hoy aprenderé a respetar y valorar el trabajo riguroso y el esfuerzo propio y de otros y mostraré cómo lo hice.

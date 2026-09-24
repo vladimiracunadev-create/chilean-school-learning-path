@@ -7,7 +7,7 @@ Fecha: 2026-09-24
 - 12.997 clases con código único y ancla web estable.
 - 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
-- 1.034 clases de 1° básico desarrolladas en 237 OA y 11 asignaturas, más 22 clases piloto de otros niveles: 1.056 desarrolladas en total.
+- 14 clases de 1° básico desarrolladas en tres secuencias específicas, 1.020 borradores identificados y 22 clases piloto de otros niveles: 36 desarrolladas en total.
 - 0 clases declaradas como revisadas sin evidencia humana.
 - Contrato editorial estructurado con propósito, meta, cinco momentos, materiales, apoyos, profundización, evidencia, criterios, decisión y versión de 45 minutos.
 - Búsqueda, filtros, URL compartible, carga progresiva, tema y estados vacío/error.

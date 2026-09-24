@@ -4,7 +4,7 @@
 
 **36 OA · 151 clases · 10 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** todas las clases de esta asignatura están desarrolladas y publicadas. La revisión humana disciplinar y pedagógica sigue pendiente.
+> **Estado editorial:** 4 clases desarrolladas y 147 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -79,7 +79,7 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| MA01 OA 01 | Contar números del 0 al 100 de 1 en 1, de 2 en 2, de 5 en 5 y de 10 en 10, hacia adelante y hacia… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-01.md) |
+| MA01 OA 01 | Conteo de 0 a 100 con saltos de 1, 2, 5 y 10, hacia adelante y hacia atrás | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-01.md) |
 | MA01 OA 02 | Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-02.md) |
 | MA01 OA 03 | Leer números del 0 al 20 y representarlos en forma concreta, pictórica y simbólica | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-03.md) |
 | MA01 OA 04 | Comparar y ordenar números del 0 al 20 de menor a mayor y/o viceversa, utilizando material concreto… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-04.md) |
