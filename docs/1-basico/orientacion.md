@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Música](musica.md) · [Tecnología →](tecnologia.md)
 
-**8 OA · 35 clases · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**8 OA · 35 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 35 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 35 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

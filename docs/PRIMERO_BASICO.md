@@ -1,10 +1,10 @@
 # 1° básico — mapa de contenidos
 
-> **Reconstrucción pedagógica en curso:** 14 clases desarrolladas · 1.020 borradores estructurados · 237 OA · 11 asignaturas.
+> **Reconstrucción pedagógica en curso:** 93 clases desarrolladas · 68 experiencias transversales integradas · 873 borradores estructurados · 237 OA · 11 asignaturas.
 
 [Programa narrativo de 1° básico](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
 
-El mapa curricular del nivel está inventariado. Solo las clases identificadas como **desarrolladas** contienen por ahora una secuencia específica investigada; las marcadas como **borrador estructurado** no deben confundirse con una planificación lista para usar.
+El mapa curricular del nivel está inventariado. Solo las clases identificadas como **desarrolladas** contienen por ahora una secuencia específica investigada; las **integradas** corresponden a habilidades o actitudes transversales y no se cuentan como clases independientes; las marcadas como **borrador estructurado** no deben confundirse con una planificación lista para usar.
 
 ## Cómo usar este mapa
 
@@ -28,19 +28,19 @@ Esta progresión orienta la enseñanza, pero no sustituye el análisis específi
 
 ## Cobertura
 
-| Asignatura | OA | Propuestas | Desarrolladas | Borradores |
-|---|---:|---:|---:|---:|
-| Artes Visuales | 12 | 52 | 6 | 46 |
-| Ciencias Naturales | 22 | 89 | 0 | 89 |
-| Educación Física y Salud | 19 | 80 | 0 | 80 |
-| Historia, Geografía y Ciencias Sociales | 31 | 132 | 0 | 132 |
-| Inglés (Propuesta) | 18 | 85 | 0 | 85 |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | 33 | 147 | 0 | 147 |
-| Lenguaje y Comunicación | 33 | 160 | 4 | 156 |
-| Matemática | 36 | 151 | 4 | 147 |
-| Música | 14 | 57 | 0 | 57 |
-| Orientación | 8 | 35 | 0 | 35 |
-| Tecnología | 11 | 46 | 0 | 46 |
+| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Borradores |
+|---|---:|---:|---:|---:|---:|
+| Artes Visuales | 12 | 52 | 6 | 0 | 46 |
+| Ciencias Naturales | 22 | 89 | 0 | 0 | 89 |
+| Educación Física y Salud | 19 | 80 | 0 | 0 | 80 |
+| Historia, Geografía y Ciencias Sociales | 31 | 132 | 0 | 0 | 132 |
+| Inglés (Propuesta) | 18 | 85 | 0 | 0 | 85 |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 33 | 147 | 0 | 0 | 147 |
+| Lenguaje y Comunicación | 33 | 160 | 4 | 0 | 156 |
+| Matemática | 36 | 151 | 83 | 68 | 0 |
+| Música | 14 | 57 | 0 | 0 | 57 |
+| Orientación | 8 | 35 | 0 | 0 | 35 |
+| Tecnología | 11 | 46 | 0 | 0 | 46 |
 
 ## Cómo se ve una clase desarrollada
 
@@ -63,7 +63,7 @@ Una clase desarrollada contiene alineación curricular específica, propósito, 
 
 ## Fuente de verdad y límites
 
-El catálogo registra 237 OA y 1.034 propuestas de clase; hoy 14 están desarrolladas y 1.020 siguen como borrador. Ninguna se declara revisada hasta registrar evidencia humana competente.
+El catálogo registra 237 OA y 1.034 propuestas de clase; hoy 93 están desarrolladas y 873 siguen como borrador. Ninguna se declara revisada hasta registrar evidencia humana competente.
 
 ## Verificación
 

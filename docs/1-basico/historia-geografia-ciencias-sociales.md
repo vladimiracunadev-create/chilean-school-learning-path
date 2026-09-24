@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Educación Física y Salud](educacion-fisica-salud.md) · [Inglés (Propuesta) →](ingles-propuesta.md)
 
-**31 OA · 132 clases · 8 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**31 OA · 132 propuestas · 8 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 132 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 132 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

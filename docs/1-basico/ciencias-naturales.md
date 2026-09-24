@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Artes Visuales](artes-visuales.md) · [Educación Física y Salud →](educacion-fisica-salud.md)
 
-**22 OA · 89 clases · 7 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**22 OA · 89 propuestas · 7 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 89 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 89 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

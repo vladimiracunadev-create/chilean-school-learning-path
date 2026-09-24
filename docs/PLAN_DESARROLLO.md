@@ -23,7 +23,7 @@ flowchart LR
 
 | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |
 |---:|---|---:|---:|---:|---|
-| 1 | Matemática | 20 | 83 | 16 | Activa |
+| 1 | Matemática | 20 | 83 | 16 | Desarrollo interno completo · revisión humana pendiente |
 | 2 | Lenguaje y Comunicación | 26 | 131 | 7 | 1/26 OA desarrollados |
 | 3 | Ciencias Naturales | 12 | 49 | 10 | 0/12 OA desarrollados |
 | 4 | Historia, Geografía y Ciencias Sociales | 15 | 68 | 16 | 0/15 OA desarrollados |
@@ -44,27 +44,27 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
 | `MA01 OA 01` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-01) |
-| `MA01 OA 02` | Números y operaciones | 4 | En desarrollo | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-02) |
-| `MA01 OA 03` | Números y operaciones | 4 | En desarrollo | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-03) |
-| `MA01 OA 04` | Números y operaciones | 4 | En desarrollo | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-04) |
-| `MA01 OA 05` | Números y operaciones | 4 | En desarrollo | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-05) |
-| `MA01 OA 06` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-06) |
-| `MA01 OA 07` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-07) |
-| `MA01 OA 08` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-08) |
-| `MA01 OA 09` | Números y operaciones | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-09) |
-| `MA01 OA 10` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-10) |
-| `MA01 OA 11` | Patrones y álgebra | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-11) |
-| `MA01 OA 12` | Patrones y álgebra | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-12) |
-| `MA01 OA 13` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-13) |
-| `MA01 OA 14` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-14) |
-| `MA01 OA 15` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-15) |
-| `MA01 OA 16` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-16) |
-| `MA01 OA 17` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-17) |
-| `MA01 OA 18` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-18) |
-| `MA01 OA 19` | Datos y probabilidades | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-19) |
-| `MA01 OA 20` | Datos y probabilidades | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-20) |
+| `MA01 OA 02` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-02) |
+| `MA01 OA 03` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-03) |
+| `MA01 OA 04` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-04) |
+| `MA01 OA 05` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-05) |
+| `MA01 OA 06` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-06) |
+| `MA01 OA 07` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-07) |
+| `MA01 OA 08` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-08) |
+| `MA01 OA 09` | Números y operaciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-09) |
+| `MA01 OA 10` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-10) |
+| `MA01 OA 11` | Patrones y álgebra | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-11) |
+| `MA01 OA 12` | Patrones y álgebra | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-12) |
+| `MA01 OA 13` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-13) |
+| `MA01 OA 14` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-14) |
+| `MA01 OA 15` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-15) |
+| `MA01 OA 16` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-16) |
+| `MA01 OA 17` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-17) |
+| `MA01 OA 18` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-18) |
+| `MA01 OA 19` | Datos y probabilidades | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-19) |
+| `MA01 OA 20` | Datos y probabilidades | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/1-basico/ma01-oa-20) |
 
-**Integración transversal pendiente:** 16 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 16 ítems de habilidades o actitudes se incorporan en 68 experiencias dentro de las 83 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Lenguaje y Comunicación
 
@@ -277,7 +277,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | interno en curso | URL oficial e indicadores registrados por secuencia desarrollada |
+| Documental y fuentes | control interno completo matematica | Los 20 OA de contenido de Matemática registran URL oficial, unidades e indicadores; las 83 clases se verifican en catálogo, Markdown y HTML |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

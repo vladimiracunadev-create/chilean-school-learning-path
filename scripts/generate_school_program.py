@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.parse import quote
 from build_school_curriculum import ROOT,SNAPSHOT,CURRICULUM,slugify,topic_from
 from grade_one_lessons import build_grade_one_lessons
+from grade_one_math_lessons import build_math_sequence, transversal_links
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
 def dose(text,slug,reads):
@@ -40,6 +41,8 @@ def cov(slug,order):
 def developed_block(lesson):
  complementary="\n".join(f"- {activity}" for activity in lesson.get("complementary", []))
  difficulties="\n".join(f"| {row['signal']} | {row['action']} | {row['check']} |" for row in lesson.get("difficulty_actions", []))
+ transversal="\n".join(f"- **{row['type']} · `{row['code']}`:** {row['application']}" for row in lesson.get("transversal", []))
+ transversal_section=f"\n\n**Integración de habilidades y actitudes matemáticas:**\n{transversal}" if transversal else ""
  return f"""**Propósito docente:** {lesson['purpose']}
 
 **Meta para estudiantes:** {lesson['goal']}
@@ -77,7 +80,7 @@ def developed_block(lesson):
 |---|---|---|
 {difficulties or '| No inicia o se desconecta | Reduce la consigna a un paso, modela un ejemplo distinto y ofrece una vía de respuesta accesible. | Inicia y produce una evidencia propia. |'}
 
-**Coordinación de roles profesionales:** {lesson.get('specialist_coordination', 'El docente responsable conserva la conducción del OA y acuerda con los profesionales de apoyo una barrera, una acción y una evidencia, sin delegar ni diagnosticar durante la clase.')}
+**Coordinación de roles profesionales:** {lesson.get('specialist_coordination', 'El docente responsable conserva la conducción del OA y acuerda con los profesionales de apoyo una barrera, una acción y una evidencia, sin delegar ni diagnosticar durante la clase.')}{transversal_section}
 """
 
 def official_alignment_markdown(item):
@@ -106,14 +109,14 @@ def official_alignment_html(item):
 
 def plan(item):
  vocab,product,errors=discipline(item["subject_slug"]);parts=[]
- content=item.get("developed") or item.get("draft")
+ content=item.get("developed") or item.get("integration") or item.get("draft")
  developed_content=item.get("developed") or {}
  if developed_content.get("pedagogical_explanation"):
   pedagogical_intro=f"**Explicación pedagógica.** {developed_content['pedagogical_explanation']}\n\n**Antes de comenzar.** {developed_content['prerequisites']}\n\n**Vocabulario explícito:** {developed_content['vocabulary']}."
  else:
   pedagogical_intro=f"**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** {vocab}. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta."
  alignment=official_alignment_markdown(item)
- content_status="Desarrollada con contenido específico" if item.get("developed") else "Borrador estructurado pendiente de desarrollo específico"
+ content_status="Desarrollada con contenido específico" if item.get("developed") else "Integración transversal en las clases de los OA de contenido" if item.get("integration") else "Borrador estructurado pendiente de desarrollo específico"
  for i,(code,(title,focus)) in enumerate(zip(item["codes"],item["phases"]),1):
   if content:
    lesson=content["lessons"][i-1]
@@ -175,7 +178,7 @@ def grade_one_summary(objs,classes):
  grade_objs=[x for x in objs if x["course_order"]==1];grade_classes=[x for x in classes if x["course_order"]==1];subjects=[]
  for subject in sorted({x["subject"] for x in grade_objs}):
   os=[x for x in grade_objs if x["subject"]==subject];cs=[x for x in grade_classes if x["subject"]==subject]
-  subjects.append({"name":subject,"slug":os[0]["subject_slug"],"oa":len(os),"classes":len(cs),"developed":sum(x["editorial_status"]=="desarrollada" for x in cs),"drafts":sum(x["editorial_status"]=="borrador" for x in cs),"axes":sorted({x["axis"] for x in os}),"first":page_path(os[0])})
+  subjects.append({"name":subject,"slug":os[0]["subject_slug"],"oa":len(os),"classes":len(cs),"developed":sum(x["editorial_status"]=="desarrollada" for x in cs),"integrated":sum(x["editorial_status"]=="integrada" for x in cs),"drafts":sum(x["editorial_status"]=="borrador" for x in cs),"axes":sorted({x["axis"] for x in os}),"first":page_path(os[0])})
  return grade_objs,grade_classes,subjects
 
 GRADE_ONE_SUBJECT_PROFILES={
@@ -260,26 +263,28 @@ GRADE_ONE_SUBJECT_PROFILES={
 
 def grade_one_page(objs,classes):
  grade_objs,grade_classes,subjects=grade_one_summary(objs,classes)
- developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);drafts=sum(x["editorial_status"]=="borrador" for x in grade_classes)
- cards="".join(f'''<article class="level-card"><div><span>{item['oa']} OA</span><span>{item['developed']} desarrolladas · {item['drafts']} borradores</span></div><h2>{html.escape(item['name'])}</h2><p>{html.escape(' · '.join(item['axes']))}</p><a href="../index.html?nivel={quote('1° básico')}&asignatura={quote(item['name'])}#explorar">Explorar asignatura →</a></article>''' for item in subjects)
- return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Reconstrucción pedagógica de 1° básico: 14 clases desarrolladas y 1.020 borradores en 237 OA."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html"><link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css"><title>1° básico en reconstrucción | Trayectoria Escolar Chile</title></head>
+ developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes);drafts=sum(x["editorial_status"]=="borrador" for x in grade_classes)
+ cards="".join(f'''<article class="level-card"><div><span>{item['oa']} OA</span><span>{item['developed']} desarrolladas · {item['integrated']} integradas · {item['drafts']} borradores</span></div><h2>{html.escape(item['name'])}</h2><p>{html.escape(' · '.join(item['axes']))}</p><a href="../index.html?nivel={quote('1° básico')}&asignatura={quote(item['name'])}#explorar">Explorar asignatura →</a></article>''' for item in subjects)
+ return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Reconstrucción pedagógica de 1° básico: {developed} clases desarrolladas, {integrated} experiencias integradas y {drafts} borradores en 237 OA."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html"><link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css"><title>1° básico en reconstrucción | Trayectoria Escolar Chile</title></head>
 <body class="level-page"><a class="skip-link" href="#contenidos">Saltar a contenidos</a><header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="../index.html">← Volver al explorador</a></header>
 <main id="contenidos" class="level-shell"><header class="level-hero"><div><p class="eyebrow">Reconstrucción pedagógica · Chile</p><h1>1° básico</h1><p>El mapa curricular está completo; las clases se están reemplazando por secuencias específicas basadas en unidades e indicadores oficiales.</p><div class="hero-actions"><a class="button primary" href="../index.html?nivel={quote('1° básico')}#explorar">Ver las 1.034 propuestas</a><a class="button dark-text" href="../documentacion.html">Leer documentación</a></div></div><aside><span>Estado editorial real</span><strong>{developed} desarrolladas</strong><small>{drafts:,} borradores pendientes</small></aside></header>'''.replace(f"{drafts:,}",f"{drafts:,}".replace(",","."))+f'''
-<section class="level-metrics" aria-label="Resumen de 1° básico"><div><strong>{developed}</strong><span>clases desarrolladas</span></div><div><strong>{f'{drafts:,}'.replace(',','.')}</strong><span>borradores</span></div><div><strong>{len(grade_objs)}</strong><span>objetivos inventariados</span></div><div><strong>{len(subjects)}</strong><span>asignaturas</span></div></section>
+<section class="level-metrics" aria-label="Resumen de 1° básico"><div><strong>{developed}</strong><span>clases desarrolladas</span></div><div><strong>{integrated}</strong><span>experiencias transversales</span></div><div><strong>{f'{drafts:,}'.replace(',','.')}</strong><span>borradores</span></div><div><strong>{len(grade_objs)}</strong><span>objetivos inventariados</span></div></section>
 <section class="level-intro"><div><p class="eyebrow">Qué encontrará</p><h2>Contenidos organizados por área</h2></div><p>Cada tarjeta muestra la cobertura real del nivel. Al abrir una asignatura puede recorrer sus clases, OA y ejes, con fuente oficial, materiales, apoyos, criterios de éxito y una decisión posterior basada en evidencia.</p></section><section class="level-grid">{cards}</section>
 <section class="level-contract"><div><p class="eyebrow">Contrato pedagógico</p><h2>Una clase desarrollada no es una frase genérica.</h2></div><ol><li><strong>Propósito y meta</strong><span>Lo que hará el docente y lo que comprenderá el estudiante.</span></li><li><strong>Experiencia concreta</strong><span>Inicio, demostración, práctica guiada y desempeño individual.</span></li><li><strong>Más contenido útil</strong><span>Tarea flexible, actividades complementarias, recuperación y profundización.</span></li><li><strong>Dificultades y roles</strong><span>Acciones inmediatas, comprobación y coordinación profesional.</span></li><li><strong>Evidencia y decisión</strong><span>Ticket, criterios observables y qué hacer después.</span></li></ol></section></main>
 <footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>1° básico · reconstrucción pedagógica verificable · Markdown + HTML</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../index.html">Explorador</a><a href="../documentacion.html">Documentación</a><a href="../docs/licensing.html">Licencias</a></div></footer></body></html>'''
 
 def grade_one_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_one_summary(objs,classes)
- developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);drafts=sum(x["editorial_status"]=="borrador" for x in grade_classes)
- lines=["# 1° básico — mapa de contenidos","",f"> **Reconstrucción pedagógica en curso:** {developed} clases desarrolladas · {drafts:,} borradores estructurados · 237 OA · 11 asignaturas.".replace(",","."),"","[Programa narrativo de 1° básico](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)","","El mapa curricular del nivel está inventariado. Solo las clases identificadas como **desarrolladas** contienen por ahora una secuencia específica investigada; las marcadas como **borrador estructurado** no deben confundirse con una planificación lista para usar.","","## Cómo usar este mapa","","1. Elige una asignatura y revisa sus ejes, OA y número de clases.","2. Comprueba el estado editorial antes de usar una clase.","3. En una clase desarrollada, revisa la alineación oficial, la evidencia y las acciones ante dificultades.","4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.","5. No presentes un borrador como planificación terminada.","","## Progresión sugerida","","~~~mermaid","flowchart LR","    A[Experiencia concreta] --> B[Lenguaje y representación]","    B --> C[Práctica con apoyo]","    C --> D[Desempeño individual]","    D --> E[Evidencia y decisión]","~~~","","Esta progresión orienta la enseñanza, pero no sustituye el análisis específico de cada OA.","","## Cobertura","","| Asignatura | OA | Propuestas | Desarrolladas | Borradores |","|---|---:|---:|---:|---:|"]
- for item in subjects:lines.append(f"| {item['name']} | {item['oa']} | {item['classes']} | {item['developed']} | {item['drafts']} |")
+ developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes);drafts=sum(x["editorial_status"]=="borrador" for x in grade_classes)
+ lines=["# 1° básico — mapa de contenidos","",f"> **Reconstrucción pedagógica en curso:** {developed} clases desarrolladas · {integrated} experiencias transversales integradas · {drafts:,} borradores estructurados · 237 OA · 11 asignaturas.".replace(",","."),"","[Programa narrativo de 1° básico](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)","","El mapa curricular del nivel está inventariado. Solo las clases identificadas como **desarrolladas** contienen por ahora una secuencia específica investigada; las **integradas** corresponden a habilidades o actitudes transversales y no se cuentan como clases independientes; las marcadas como **borrador estructurado** no deben confundirse con una planificación lista para usar.","","## Cómo usar este mapa","","1. Elige una asignatura y revisa sus ejes, OA y número de clases.","2. Comprueba el estado editorial antes de usar una clase.","3. En una clase desarrollada, revisa la alineación oficial, la evidencia y las acciones ante dificultades.","4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.","5. No presentes un borrador como planificación terminada.","","## Progresión sugerida","","~~~mermaid","flowchart LR","    A[Experiencia concreta] --> B[Lenguaje y representación]","    B --> C[Práctica con apoyo]","    C --> D[Desempeño individual]","    D --> E[Evidencia y decisión]","~~~","","Esta progresión orienta la enseñanza, pero no sustituye el análisis específico de cada OA.","","## Cobertura","","| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Borradores |","|---|---:|---:|---:|---:|---:|"]
+ for item in subjects:lines.append(f"| {item['name']} | {item['oa']} | {item['classes']} | {item['developed']} | {item['integrated']} | {item['drafts']} |")
  lines += ["","## Cómo se ve una clase desarrollada","","Una clase desarrollada contiene alineación curricular específica, propósito, meta estudiantil, ejemplos concretos, modelado disciplinar, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios y decisiones ante dificultades. Un borrador solo conserva la arquitectura y debe reemplazarse.","","## Criterios de diseño para 1° básico","","- Experiencias breves, concretas y con transición gradual hacia dibujo, lenguaje o símbolo.","- Contenido y ejemplos propios del OA, no de una plantilla general de asignatura.","- Indicadores oficiales usados para construir una progresión observable.","- Respuestas simultáneas y evidencia individual.","- Materiales disponibles y alternativas de acceso sin rebajar el aprendizaje.","","## Decisiones con evidencia","","- **Logrado con autonomía:** avanzar o proponer transferencia.","- **En desarrollo:** mantener el OA y entregar apoyo puntual.","- **Requiere otra vía de acceso:** cambiar representación, ejemplo o forma de respuesta.","- **Sin evidencia suficiente:** ofrecer otra oportunidad antes de concluir.","","## Fuente de verdad y límites","",f"El catálogo registra {len(grade_objs)} OA y {len(grade_classes):,} propuestas de clase; hoy {developed} están desarrolladas y {drafts:,} siguen como borrador.".replace(",",".")+" Ninguna se declara revisada hasta registrar evidencia humana competente.","","## Verificación","","La CI comprueba estados, campos, páginas y reproducibilidad. No sustituye la revisión disciplinar o pedagógica.","","## Documentos relacionados","","- [Centro de documentación](README.md)","- [Guía pedagógica](../TEACHING_GUIDE.md)","- [Metodología](../METHODOLOGY.md)","- [Estado editorial](../EDITORIAL_STATUS.md)","- [Roadmap](../ROADMAP.md)",""]
  return "\n".join(lines)
 
 def grade_one_subject_documentation(subject,objectives,previous_subject=None,next_subject=None):
  profile=GRADE_ONE_SUBJECT_PROFILES[subject["slug"]]
+ scope=f"{subject['oa']} OA · {subject['classes']} propuestas"
+ if subject["slug"]=="matematica":scope="20 OA de contenido · 83 clases desarrolladas · 16 OA transversales · 68 experiencias integradas"
  axis_rows=[]
  for axis in subject["axes"]:
   axis_objectives=[item for item in objectives if item["axis"]==axis]
@@ -290,8 +295,8 @@ def grade_one_subject_documentation(subject,objectives,previous_subject=None,nex
  lines=[
   f"# {subject['name']} · 1° básico","",
   " · ".join(nav),"",
-  f"**{subject['oa']} OA · {subject['classes']} clases · {len(subject['axes'])} ejes curriculares · bloques adaptables a 45 o 90 minutos**","",
-  f"> **Estado editorial:** {subject['developed']} clases desarrolladas y {subject['drafts']} borradores estructurados. Ninguna revisión humana registrada.","",
+  f"**{scope} · {len(subject['axes'])} ejes curriculares · bloques adaptables a 45 o 90 minutos**","",
+  f"> **Estado editorial:** {subject['developed']} clases desarrolladas, {subject['integrated']} experiencias transversales integradas y {subject['drafts']} borradores estructurados. Ninguna revisión humana registrada.","",
   "## 🎯 De qué trata esta asignatura","",profile["purpose"],"",
   "## 🧩 Qué problema pedagógico resuelve","",
   f"La secuencia evita convertir el OA en una actividad aislada. Cada objetivo avanza desde activación y modelado hacia práctica, desempeño individual y evidencia. **Alerta principal:** {profile['barrier']}","",
@@ -340,10 +345,10 @@ def grade_one_subject_documentation(subject,objectives,previous_subject=None,nex
 
 def grade_one_index_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_one_summary(objs,classes)
- developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);drafts=sum(x["editorial_status"]=="borrador" for x in grade_classes)
+ developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes);drafts=sum(x["editorial_status"]=="borrador" for x in grade_classes)
  lines=["# 📚 1° básico en reconstrucción pedagógica","",
   "> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)","",
-  f"**1.034 propuestas · 237 OA · 11 asignaturas · {developed} clases desarrolladas · {drafts:,} borradores · revisión humana pendiente**".replace(",","."),"",
+  f"**1.034 propuestas · 237 OA · 11 asignaturas · {developed} clases desarrolladas · {integrated} experiencias integradas · {drafts:,} borradores · revisión humana pendiente**".replace(",","."),"",
   "## 🎯 De qué trata este nivel","",
   "1° básico construye los lenguajes con los que niñas y niños seguirán aprendiendo: oralidad, lectura y escritura inicial, número y representación, observación del entorno, orientación temporal y espacial, expresión artística y musical, movimiento, convivencia, identidad y diseño de soluciones. El programa no trata estas áreas como compartimentos cerrados: mantiene la especificidad de cada disciplina y favorece conexiones cuando ayudan a comprender.","",
   "## 🧩 Problemas que busca resolver","",
@@ -468,7 +473,7 @@ def generate_documentation_pages():
 
 def documentation_page(objs,classes):
  _,_,subjects=grade_one_summary(objs,classes)
- first_grade=[item for item in classes if item["course_order"]==1];first_developed=sum(item["editorial_status"]=="desarrollada" for item in first_grade);first_drafts=sum(item["editorial_status"]=="borrador" for item in first_grade)
+ first_grade=[item for item in classes if item["course_order"]==1];first_developed=sum(item["editorial_status"]=="desarrollada" for item in first_grade);first_integrated=sum(item["editorial_status"]=="integrada" for item in first_grade);first_drafts=sum(item["editorial_status"]=="borrador" for item in first_grade)
  cards="".join(f'''<article class="level-card"><div><span>{item['oa']} OA</span><span>{item['classes']} clases</span></div><h2>{html.escape(item['name'])}</h2><p>{html.escape(GRADE_ONE_SUBJECT_PROFILES[item['slug']]['purpose'])}</p><a href="docs/1-basico/{item['slug']}.html">Leer guía HTML completa →</a></article>''' for item in subjects)
  levels=[]
  for order in range(1,13):
@@ -480,7 +485,7 @@ def documentation_page(objs,classes):
  return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Documentación completa de Trayectoria Escolar Chile y reconstrucción pedagógica de 1° básico."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><title>Documentación | Trayectoria Escolar Chile</title></head>
 <body class="level-page"><a class="skip-link" href="#documentacion">Saltar a documentación</a><header class="detail-topbar"><a class="brand" href="index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="index.html">← Volver al portal</a></header>
 <main id="documentacion" class="level-shell"><header class="level-hero docs-hero"><div><p class="eyebrow">Documentación pedagógica</p><h1>Del currículum a decisiones de aula.</h1><p>Una arquitectura completa para comprender qué enseñar, cómo recorrer 1° básico, qué evidencia observar y cómo revisar la calidad sin confundir publicación con validación humana.</p><div class="hero-actions"><a class="button primary" href="levels/1-basico.html">Ver 1° básico</a><a class="button dark-text" href="docs/syllabus.html">Abrir syllabus HTML</a></div></div><aside><span>Documentos principales</span><strong>10 guías marco</strong><small>más 11 guías completas de asignatura</small></aside></header>
-<section class="level-metrics"><div><strong>{first_developed}</strong><span>clases desarrolladas</span></div><div><strong>{f'{first_drafts:,}'.replace(',','.')}</strong><span>borradores de 1° básico</span></div><div><strong>237</strong><span>OA inventariados</span></div><div><strong>0</strong><span>revisiones humanas registradas</span></div></section>
+<section class="level-metrics"><div><strong>{first_developed}</strong><span>clases desarrolladas</span></div><div><strong>{first_integrated}</strong><span>experiencias integradas</span></div><div><strong>{f'{first_drafts:,}'.replace(',','.')}</strong><span>borradores de 1° básico</span></div><div><strong>0</strong><span>revisiones humanas registradas</span></div></section>
 <section class="level-intro"><div><p class="eyebrow">Empieza según tu tarea</p><h2>Documentos que responden preguntas concretas</h2></div><p><strong>Syllabus:</strong> alcance y planificación. <strong>Guía docente:</strong> conducción de clases. <strong>Rúbrica:</strong> evidencia y decisiones. <strong>FAQ:</strong> límites y uso. <strong>Familias:</strong> acompañamiento. <strong>Revisión:</strong> cómo validar responsablemente.</p></section>
 <section class="doc-link-grid"><a href="docs/que-es-un-oa.html"><span>01</span><strong>¿Qué es un OA?</strong><small>Explicación simple con ejemplo</small></a><a href="docs/syllabus.html"><span>02</span><strong>Syllabus</strong><small>Programa, ritmo y planificación</small></a><a href="docs/teaching-guide.html"><span>03</span><strong>Guía docente</strong><small>Preparar, enseñar y adaptar</small></a><a href="docs/roles-docentes.html"><span>04</span><strong>Roles en el aula</strong><small>Responsabilidades y coordinación</small></a><a href="docs/dificultades-en-el-aula.html"><span>05</span><strong>Dificultades y acciones</strong><small>Observar, actuar y comprobar</small></a><a href="docs/rubrica-evaluacion.html"><span>06</span><strong>Rúbrica</strong><small>Observar y decidir</small></a><a href="docs/cobertura.html"><span>07</span><strong>Cobertura total</strong><small>12 niveles con acceso directo</small></a><a href="docs/formatos.html"><span>08</span><strong>Markdown + HTML</strong><small>Cómo se publica cada clase</small></a><a href="docs/licencias.html"><span>09</span><strong>Licencias</strong><small>Qué puede reutilizarse</small></a><a href="docs/faq.html"><span>10</span><strong>Preguntas frecuentes</strong><small>Uso, alcance y límites</small></a></section>
 <section class="oa-explainer"><div><p class="eyebrow">Sin siglas misteriosas</p><h2>OA significa Objetivo de Aprendizaje.</h2></div><div><p>Describe lo que una o un estudiante debe llegar a comprender o hacer. <strong>No es una clase, una tarea ni una actividad.</strong></p><p><code>MA01 OA 01</code> se lee: Matemática · 1° básico · Objetivo de Aprendizaje número 1. El proyecto convierte cada OA en una secuencia de clases con evidencia.</p></div></section>
@@ -489,13 +494,16 @@ def documentation_page(objs,classes):
 <section class="level-contract"><div><p class="eyebrow">Lectura honesta</p><h2>Profundidad documental sin inflar el estado.</h2></div><ol><li><strong>Desarrollada</strong><span>La clase contiene decisiones pedagógicas y disciplinares específicas.</span></li><li><strong>Publicada</strong><span>Está disponible y navegable en Markdown y HTML.</span></li><li><strong>Revisada</strong><span>Solo cuando una persona competente registra evidencia de revisión.</span></li><li><strong>Adaptable</strong><span>El docente conserva el OA y ajusta la vía de acceso según su curso.</span></li></ol></section></main>
 <footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documentación abierta y trazable · MIT + CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="index.html">Portal</a><a href="docs/licencias.html">Licencias</a></div></footer></body></html>'''
 
-def developed_lesson_html(item,index,code,lesson,is_developed):
+def developed_lesson_html(item,index,code,lesson,status):
  def esc(value): return html.escape(str(value), quote=True)
- status_label="Desarrollada" if is_developed else "Borrador estructurado"
- status_class="developed" if is_developed else ""
+ is_developed=status=="desarrollada"
+ status_label="Desarrollada" if is_developed else "Integración transversal" if status=="integrada" else "Borrador estructurado"
+ status_class="developed" if is_developed else "integrated" if status=="integrada" else ""
  criteria="".join(f"<li>{esc(value)}</li>" for value in lesson["criteria"])
  complementary="".join(f"<li>{esc(value)}</li>" for value in lesson.get("complementary", []))
  difficulties="".join(f"<tr><td>{esc(row['signal'])}</td><td>{esc(row['action'])}</td><td>{esc(row['check'])}</td></tr>" for row in lesson.get("difficulty_actions", []))
+ transversal="".join(f"<li><strong>{esc(row['type'])} · {esc(row['code'])}:</strong> {esc(row['application'])}</li>" for row in lesson.get("transversal", []))
+ transversal_panel=f'<section class="transversal-panel"><p class="eyebrow">Integración curricular</p><h3>Habilidad y actitud en esta clase</h3><ul>{transversal}</ul></section>' if transversal else ""
  return f'''<article class="lesson {'lesson-developed' if is_developed else 'lesson-draft'}" id="{esc(code.lower())}">
 <header><span class="lesson-number">{index:02d}</span><div><p>Clase {index} de {len(item['phases'])}</p><h2>{esc(lesson['title'])}</h2></div><span class="status-badge {status_class}">{status_label}</span></header>
 <p class="lesson-focus"><strong>Propósito docente:</strong> {esc(lesson['purpose'])}</p><p class="student-goal"><strong>Meta para estudiantes:</strong> {esc(lesson['goal'])}</p>
@@ -506,7 +514,7 @@ def developed_lesson_html(item,index,code,lesson,is_developed):
 <p class="next-step"><strong>Decisión posterior:</strong> {esc(lesson['next_step'])}</p><p class="short-version"><strong>Si dispone de 45 minutos:</strong> {esc(lesson['short_version'])}</p>
 <div class="extension-grid"><section><p class="eyebrow">Consolidación</p><h3>Tarea breve y flexible</h3><p>{esc(lesson.get('home_task','Consolida el aprendizaje con una evidencia breve sin internet ni materiales comprados.'))}</p></section><section><p class="eyebrow">Banco opcional</p><h3>Actividades complementarias</h3><ul>{complementary}</ul></section></div>
 <section class="difficulty-panel"><p class="eyebrow">Respuesta durante la clase</p><h3>Control de dificultades con acciones</h3><div class="table-scroll"><table><thead><tr><th>Dificultad observable</th><th>Acción inmediata</th><th>Comprobación</th></tr></thead><tbody>{difficulties}</tbody></table></div><p class="role-note"><strong>Coordinación profesional:</strong> {esc(lesson.get('specialist_coordination','El docente responsable conserva la conducción del OA y acuerda barrera, acción y evidencia con los profesionales de apoyo.'))}</p></section>
-</article>'''
+{transversal_panel}</article>'''
 
 def lesson_page(item, previous_item=None, next_item=None):
  def esc(value): return html.escape(str(value), quote=True)
@@ -518,11 +526,12 @@ def lesson_page(item, previous_item=None, next_item=None):
   for r in item["readings"]
  ) or '<li><span>Sin lectura específica registrada en la ficha oficial.</span><span>El establecimiento selecciona un recurso pertinente.</span></li>'
  vocab,product,errors=discipline(item["subject_slug"])
- content=item.get("developed") or item.get("draft")
+ content=item.get("developed") or item.get("integration") or item.get("draft")
+ content_status="desarrollada" if item.get("developed") else "integrada" if item.get("integration") else "borrador"
  sessions=[]
  for index,(code,(title,focus)) in enumerate(zip(item["codes"],item["phases"]),1):
   if content:
-   sessions.append(developed_lesson_html(item,index,code,content["lessons"][index-1],bool(item.get("developed"))))
+   sessions.append(developed_lesson_html(item,index,code,content["lessons"][index-1],content_status))
    continue
   sessions.append(f'''<article class="lesson" id="{esc(code.lower())}">
 <header><span class="lesson-number">{index:02d}</span><div><p>Clase {index} de {len(item['phases'])}</p><h2>{esc(title)}</h2></div><span class="status-badge">Secuenciada</span></header>
@@ -531,8 +540,8 @@ def lesson_page(item, previous_item=None, next_item=None):
 <div class="support-grid"><p><strong>Apoyo:</strong> anticipa {esc(vocab)}, muestra un ejemplo resuelto y admite distintas formas de respuesta sin reducir el OA.</p><p><strong>Profundización:</strong> compara otra estrategia, examina un caso límite y transfiere el aprendizaje a una situación nueva.</p></div>
 <p class="success-criteria"><strong>Criterios de éxito:</strong> responde al OA, usa evidencia pertinente, explica una decisión y revisa el resultado.</p>
 </article>''')
- editorial="Desarrollada" if item.get("developed") else "Borrador estructurado" if item.get("draft") else "Secuenciada"
- editorial_note="Contenido disciplinar específico; pendiente de revisión humana." if item.get("developed") else "Plantilla navegable pendiente de desarrollo disciplinar específico." if item.get("draft") else "No equivale aún a una clase disciplinar revisada."
+ editorial="Desarrollada" if item.get("developed") else "Integración transversal" if item.get("integration") else "Borrador estructurado" if item.get("draft") else "Secuenciada"
+ editorial_note="Contenido disciplinar específico; pendiente de revisión humana." if item.get("developed") else "Habilidad o actitud incorporada dentro de las 83 clases de contenido; no se cuenta como clase independiente." if item.get("integration") else "Plantilla navegable pendiente de desarrollo disciplinar específico." if item.get("draft") else "No equivale aún a una clase disciplinar revisada."
  alignment_html=official_alignment_html(item)
  if alignment_html:alignment_html+="\n"
  canonical=f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{page_path(item)}"
@@ -557,20 +566,28 @@ def main():
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
   for oa in r["objectives"]:
    reads=oa.get("readings",[]);phases=dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
-   developed_content=developed.get(oa["code"])
+   developed_content=developed.get(oa["code"]) or build_math_sequence(oa["code"])
    item={"topic":(developed_content or {}).get("topic",topic_from(oa["description"])),"course":r["course"],"course_slug":r["course_slug"],"course_order":r["course_order"],"subject":r["subject"],"subject_slug":r["subject_slug"],"axis":oa["axis"],"oa_code":oa["code"],"oa_text":oa["description"],"coverage":cov(r["subject_slug"],r["course_order"]),"source_url":oa["url"],"subject_url":r["subject_url"],"verified_at":snap["verified_at"],"readings":reads,"path":path,"codes":codes,"phases":phases,"developed":developed_content}
+   math_integration=r["course_order"]==1 and r["subject_slug"]=="matematica" and oa["code"].startswith(("de Habilidad", "de Actitud"))
    if r["course_order"]==1:
     generated=build_grade_one_lessons(item)
-    if not item["developed"]:item["draft"]=generated
+    if math_integration:item["integration"]=generated
+    elif not item["developed"]:item["draft"]=generated
     else:item["developed"]["lessons"]=[base | current for base,current in zip(generated["lessons"],item["developed"]["lessons"])]
+   if item["developed"] and r["course_order"]==1 and r["subject_slug"]=="matematica" and oa["code"].startswith("MA01 OA "):
+    oa_number=int(oa["code"].rsplit(" ",1)[-1])
+    for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
+     lesson["transversal"]=transversal_links(oa_number,lesson_index,lesson["goal"].removeprefix("Hoy ").rstrip("."))
    if item["developed"] and len(item["developed"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el contenido desarrollado debe tener {len(phases)} clases")
    if item.get("draft") and len(item["draft"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el borrador debe tener {len(phases)} clases")
+   if item.get("integration") and len(item["integration"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: la integración debe tener {len(phases)} experiencias")
    objs.append(item)
    for lesson,(code,phase) in enumerate(zip(codes,phases),1):
-    classes.append({"id":num,"class_code":code,"lesson":lesson,"lesson_count":len(phases),"phase":phase[0],"topic":item["topic"],"course":item["course"],"course_slug":item["course_slug"],"course_order":item["course_order"],"subject":item["subject"],"subject_slug":item["subject_slug"],"axis":item["axis"],"oa_code":item["oa_code"],"oa_text":item["oa_text"],"coverage":item["coverage"],"source_url":item["source_url"],"reading_count":len(reads),"editorial_status":"desarrollada" if item["developed"] else "borrador" if item.get("draft") else "secuenciada","publication_status":"publicada","path":path+"#"+code.lower(),"web_path":page_path(item)+"#"+code.lower()});num+=1
+    classes.append({"id":num,"class_code":code,"lesson":lesson,"lesson_count":len(phases),"phase":phase[0],"topic":item["topic"],"course":item["course"],"course_slug":item["course_slug"],"course_order":item["course_order"],"subject":item["subject"],"subject_slug":item["subject_slug"],"axis":item["axis"],"oa_code":item["oa_code"],"oa_text":item["oa_text"],"coverage":item["coverage"],"source_url":item["source_url"],"reading_count":len(reads),"editorial_status":"desarrollada" if item["developed"] else "integrada" if item.get("integration") else "borrador" if item.get("draft") else "secuenciada","publication_status":"publicada","path":path+"#"+code.lower(),"web_path":page_path(item)+"#"+code.lower()});num+=1
    developed_count=sum(x["editorial_status"]=="desarrollada" for x in classes)
  draft_count=sum(x["editorial_status"]=="borrador" for x in classes)
- cat={"schema_version":6,"verified_at":snap["verified_at"],"source_url":snap["source_url"],"class_count":len(classes),"objective_count":len(objs),"course_count":12,"subject_count":len({x["subject"] for x in classes}),"reading_link_count":sum(len(x["readings"]) for x in objs),"editorial_counts":{"inventariada":len(classes),"secuenciada":len(classes),"borrador":draft_count,"desarrollada":developed_count,"revisada":0,"publicada":len(classes)},"classes":classes}
+ integrated_count=sum(x["editorial_status"]=="integrada" for x in classes)
+ cat={"schema_version":7,"verified_at":snap["verified_at"],"source_url":snap["source_url"],"class_count":len(classes),"objective_count":len(objs),"course_count":12,"subject_count":len({x["subject"] for x in classes}),"reading_link_count":sum(len(x["readings"]) for x in objs),"editorial_counts":{"inventariada":len(classes),"secuenciada":len(classes),"borrador":draft_count,"desarrollada":developed_count,"integrada":integrated_count,"revisada":0,"publicada":len(classes)},"classes":classes}
  (CURRICULUM/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  pages_root=ROOT/"site"/"classes"
  if pages_root.exists():

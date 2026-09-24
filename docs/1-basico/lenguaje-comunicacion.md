@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Lengua y Cultura de los Pueblos Originarios Ancestrales](lengua-cultura-pueblos-originarios-ancestrales.md) · [Matemática →](matematica.md)
 
-**33 OA · 160 clases · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**33 OA · 160 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 4 clases desarrolladas y 156 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 4 clases desarrolladas, 0 experiencias transversales integradas y 156 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

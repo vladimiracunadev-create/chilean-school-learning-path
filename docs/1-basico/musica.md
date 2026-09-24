@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Matemática](matematica.md) · [Orientación →](orientacion.md)
 
-**14 OA · 57 clases · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**14 OA · 57 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 57 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 57 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

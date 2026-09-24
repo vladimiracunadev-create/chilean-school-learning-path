@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Inglés (Propuesta)](ingles-propuesta.md) · [Lenguaje y Comunicación →](lenguaje-comunicacion.md)
 
-**33 OA · 147 clases · 7 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**33 OA · 147 propuestas · 7 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 147 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 147 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

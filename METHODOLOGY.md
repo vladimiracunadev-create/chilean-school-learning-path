@@ -47,10 +47,11 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 | Inventariada | Existe OA, nivel, asignatura, eje y fuente. |
 | Secuenciada | Tiene posición, duración y fases propuestas. |
 | Desarrollada | Cumple el contrato de contenido específico verificable. |
+| Integrada | Una habilidad o actitud se planifica dentro de las clases de contenido y no se contabiliza como clase independiente. |
 | Revisada | Registra control humano disciplinar, pedagógico, documental, accesible y de derechos. |
 | Publicada | Cuenta con salida Markdown y HTML navegable. |
 
-Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana.
+Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En Matemática de 1° básico, los 20 OA de contenido producen 83 clases; los 16 OA de habilidades y actitudes se documentan como 68 experiencias integradas para evitar inflar el total de clases.
 
 ## 5. Generación reproducible
 

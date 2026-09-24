@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Ciencias Naturales](ciencias-naturales.md) · [Historia, Geografía y Ciencias Sociales →](historia-geografia-ciencias-sociales.md)
 
-**19 OA · 80 clases · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**19 OA · 80 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 80 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 80 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

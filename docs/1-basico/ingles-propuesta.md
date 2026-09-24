@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Historia, Geografía y Ciencias Sociales](historia-geografia-ciencias-sociales.md) · [Lengua y Cultura de los Pueblos Originarios Ancestrales →](lengua-cultura-pueblos-originarios-ancestrales.md)
 
-**18 OA · 85 clases · 5 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**18 OA · 85 propuestas · 5 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas y 85 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 85 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

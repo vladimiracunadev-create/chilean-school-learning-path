@@ -38,7 +38,10 @@ def main() -> None:
         class_count = sum(len(dose(item["description"], record["subject_slug"], item.get("readings", []))) for item in core)
         developed = sum(statuses.get(item["code"]) == "desarrollado" for item in core)
         in_progress = sum(statuses.get(item["code"]) == "en_desarrollo" for item in core)
-        state = "Activa" if record["subject"] == plan["active_subject"] else f"{developed}/{len(core)} OA desarrollados"
+        if developed == len(core) and record["subject"] == "Matemática":
+            state = "Desarrollo interno completo · revisión humana pendiente"
+        else:
+            state = "Activa" if record["subject"] == plan["active_subject"] else f"{developed}/{len(core)} OA desarrollados"
         if in_progress and record["subject"] != plan["active_subject"]:
             state += f" · {in_progress} en desarrollo"
         lines.append(f"| {order} | {record['subject']} | {len(core)} | {class_count} | {len(integrated)} | {state} |")
@@ -50,7 +53,11 @@ def main() -> None:
             count = len(dose(item["description"], record["subject_slug"], item.get("readings", [])))
             state = labels.get(statuses.get(item["code"], "pendiente"), "Pendiente")
             lines.append(f"| `{item['code']}` | {item['axis']} | {count} | {state} | [Currículum Nacional]({item['url']}) |")
-        lines += ["", f"**Integración transversal pendiente:** {len(integrated)} ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.", ""]
+        if record["subject"] == "Matemática":
+            integration_note = f"**Integración transversal documentada:** {len(integrated)} ítems de habilidades o actitudes se incorporan en 68 experiencias dentro de las 83 clases de contenido; no se contabilizan como clases autónomas."
+        else:
+            integration_note = f"**Integración transversal pendiente:** {len(integrated)} ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas."
+        lines += ["", integration_note, ""]
     lines += ["## Controles profesionales", "", "| Control | Estado | Evidencia exigida |", "|---|---|---|"]
     control_names = {"disciplinary": "Disciplinar", "pedagogical": "Pedagógico", "accessibility_and_inclusion": "Accesibilidad e inclusión", "cultural_and_contextual": "Cultural y contextual", "documentary_and_sources": "Documental y fuentes", "rights_and_privacy": "Derechos y privacidad"}
     for key, value in plan["professional_controls"].items():

@@ -179,25 +179,25 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Lenguaje y Comunicación | [de Actitud LE01 OAA F · Demostrar empatía hacia los demás, comprendiendo el contexto en el que se sitúan](curriculum/1-basico/lenguaje-comunicacion/de-actitud-le01-oaa-f.md) | 5 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE01 OAA G · Demostrar respeto por las diversas opiniones y puntos de vista, reconociendo el diálogo como una…](curriculum/1-basico/lenguaje-comunicacion/de-actitud-le01-oaa-g.md) | 4 | formacion-general-comun |
 | Matemática | [MA01 OA 01 · Conteo de 0 a 100 con saltos de 1, 2, 5 y 10, hacia adelante y hacia atrás](curriculum/1-basico/matematica/ma01-oa-01.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 02 · Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al…](curriculum/1-basico/matematica/ma01-oa-02.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 03 · Leer números del 0 al 20 y representarlos en forma concreta, pictórica y simbólica](curriculum/1-basico/matematica/ma01-oa-03.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 04 · Comparar y ordenar números del 0 al 20 de menor a mayor y/o viceversa, utilizando material concreto…](curriculum/1-basico/matematica/ma01-oa-04.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 05 · Estimar cantidades hasta 20 en situaciones concretas, usando un referente](curriculum/1-basico/matematica/ma01-oa-05.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 06 · Componer y descomponer números del 0 a 20 de manera aditiva, en forma concreta, pictórica y simbólica](curriculum/1-basico/matematica/ma01-oa-06.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 07 · Describir y aplicar estrategias de cálculo mental para las adiciones y sustracciones hasta 20](curriculum/1-basico/matematica/ma01-oa-07.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 08 · Determinar las unidades y decenas en números del 0 al 20, agrupando de a 10, de manera concreta,…](curriculum/1-basico/matematica/ma01-oa-08.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 09 · Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a…](curriculum/1-basico/matematica/ma01-oa-09.md) | 5 | formacion-general-comun |
-| Matemática | [MA01 OA 10 · Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y…](curriculum/1-basico/matematica/ma01-oa-10.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 11 · Reconocer, describir, crear y continuar patrones repetitivos (sonidos, figuras, ritmos?) y patrones…](curriculum/1-basico/matematica/ma01-oa-11.md) | 5 | formacion-general-comun |
-| Matemática | [MA01 OA 12 · Describir y registrar la igualdad y la desigualdad como equilibrio y desequilibrio, usando una…](curriculum/1-basico/matematica/ma01-oa-12.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 13 · Describir la posición de objetos y personas en relación a sí mismos y a otros objetos y personas,…](curriculum/1-basico/matematica/ma01-oa-13.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 14 · Identificar en el entorno figuras 3D y figuras 2D y relacionarlas, usando material concreto](curriculum/1-basico/matematica/ma01-oa-14.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 15 · Identificar y dibujar líneas rectas y curvas](curriculum/1-basico/matematica/ma01-oa-15.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 16 · Usar unidades no estandarizadas de tiempo para comparar la duración de eventos cotidianos](curriculum/1-basico/matematica/ma01-oa-16.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 17 · Usar un lenguaje cotidiano para secuenciar eventos en el tiempo](curriculum/1-basico/matematica/ma01-oa-17.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 18 · Identificar y comparar la longitud de objetos, usando palabras como largo y corto](curriculum/1-basico/matematica/ma01-oa-18.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 19 · Recolectar y registrar datos para responder preguntas estadísticas sobre sí mismo y el entorno,…](curriculum/1-basico/matematica/ma01-oa-19.md) | 4 | formacion-general-comun |
-| Matemática | [MA01 OA 20 · Construir, leer e interpretar pictogramas](curriculum/1-basico/matematica/ma01-oa-20.md) | 5 | formacion-general-comun |
+| Matemática | [MA01 OA 02 · Números ordinales del primero al décimo en series y situaciones cotidianas](curriculum/1-basico/matematica/ma01-oa-02.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 03 · Lectura y representación concreta, pictórica y simbólica de números del 0 al 20](curriculum/1-basico/matematica/ma01-oa-03.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 04 · Comparación y orden de cantidades y números del 0 al 20](curriculum/1-basico/matematica/ma01-oa-04.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 05 · Estimación de cantidades hasta 20 usando referentes](curriculum/1-basico/matematica/ma01-oa-05.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 06 · Composición y descomposición aditiva de números del 0 al 20](curriculum/1-basico/matematica/ma01-oa-06.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 07 · Estrategias de cálculo mental para adiciones y sustracciones hasta 20](curriculum/1-basico/matematica/ma01-oa-07.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 08 · Decenas y unidades en números del 0 al 20](curriculum/1-basico/matematica/ma01-oa-08.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 09 · Comprensión de la adición y sustracción hasta 20 mediante problemas](curriculum/1-basico/matematica/ma01-oa-09.md) | 5 | formacion-general-comun |
+| Matemática | [MA01 OA 10 · Adición y sustracción como operaciones inversas](curriculum/1-basico/matematica/ma01-oa-10.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 11 · Patrones repetitivos y patrones numéricos crecientes y decrecientes hasta 20](curriculum/1-basico/matematica/ma01-oa-11.md) | 5 | formacion-general-comun |
+| Matemática | [MA01 OA 12 · Igualdad y desigualdad como equilibrio y desequilibrio hasta 20](curriculum/1-basico/matematica/ma01-oa-12.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 13 · Posición de objetos y personas usando lenguaje espacial](curriculum/1-basico/matematica/ma01-oa-13.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 14 · Figuras 2D y cuerpos 3D en el entorno y sus relaciones](curriculum/1-basico/matematica/ma01-oa-14.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 15 · Identificación y dibujo de líneas rectas y curvas](curriculum/1-basico/matematica/ma01-oa-15.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 16 · Comparación de duraciones con unidades de tiempo no estandarizadas](curriculum/1-basico/matematica/ma01-oa-16.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 17 · Secuenciación temporal de rutinas, días, meses y fechas significativas](curriculum/1-basico/matematica/ma01-oa-17.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 18 · Identificación y comparación de longitudes con lenguaje cotidiano](curriculum/1-basico/matematica/ma01-oa-18.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 19 · Recolección y registro de datos para responder preguntas estadísticas](curriculum/1-basico/matematica/ma01-oa-19.md) | 4 | formacion-general-comun |
+| Matemática | [MA01 OA 20 · Construcción, lectura e interpretación de pictogramas](curriculum/1-basico/matematica/ma01-oa-20.md) | 5 | formacion-general-comun |
 | Matemática | [de Habilidad MA01 OAH a · Resolver problemas](curriculum/1-basico/matematica/de-habilidad-ma01-oah-a.md) | 4 | formacion-general-comun |
 | Matemática | [de Habilidad MA01 OAH b · Resolver problemas](curriculum/1-basico/matematica/de-habilidad-ma01-oah-b.md) | 4 | formacion-general-comun |
 | Matemática | [de Habilidad MA01 OAH c · Resolver problemas](curriculum/1-basico/matematica/de-habilidad-ma01-oah-c.md) | 4 | formacion-general-comun |

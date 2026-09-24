@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [Ciencias Naturales →](ciencias-naturales.md)
 
-**12 OA · 52 clases · 3 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**12 OA · 52 propuestas · 3 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 6 clases desarrolladas y 46 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 6 clases desarrolladas, 0 experiencias transversales integradas y 46 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 

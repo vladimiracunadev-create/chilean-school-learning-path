@@ -33,6 +33,7 @@ Términos y siglas usados en Trayectoria Escolar Chile. Las definiciones explica
 | **Inventariada** | La clase tiene OA, nivel, asignatura, eje y fuente identificados. |
 | **Secuenciada** | La clase tiene posición y dosificación propuestas. |
 | **Desarrollada** | Cumple el contrato pedagógico definido por el proyecto. No implica revisión humana. |
+| **Integrada** | Habilidad o actitud trabajada dentro de clases de contenido; no se cuenta como clase independiente terminada. |
 | **Revisada** | Una persona competente dejó evidencia de una revisión según el protocolo. |
 | **Publicada** | Existe y es navegable en Markdown y HTML. No equivale a desarrollada ni revisada. |
 

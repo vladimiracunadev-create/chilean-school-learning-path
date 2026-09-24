@@ -20,9 +20,10 @@ function normalize(value) {
 
 function card(item) {
   const developed = item.editorial_status === "desarrollada";
+  const integrated = item.editorial_status === "integrada";
   const draft = item.editorial_status === "borrador";
-  const statusLabel = developed ? "Desarrollada" : draft ? "Borrador" : "Secuenciada";
-  const statusClass = developed ? "developed" : draft ? "draft" : "";
+  const statusLabel = developed ? "Desarrollada" : integrated ? "Integrada" : draft ? "Borrador" : "Secuenciada";
+  const statusClass = developed ? "developed" : integrated ? "integrated" : draft ? "draft" : "";
   return `<article class="card">
     <div class="card-top"><span class="tag">${escapeHtml(item.course)}</span><span class="card-status ${statusClass}">${statusLabel}</span><span class="card-index">${escapeHtml(item.class_code)}</span></div>
     <p class="meta">${escapeHtml(item.subject)} · ${escapeHtml(item.oa_code)}</p>
@@ -49,7 +50,7 @@ function render(reset = true) {
     return (!term || haystack.includes(term)) && (!controls.level.value || item.course === controls.level.value) && (!controls.subject.value || item.subject === controls.subject.value) && (!controls.coverage.value || item.coverage === controls.coverage.value);
   });
   const visible = state.filtered.slice(0, state.shown);
-  $("#result").textContent = `${state.filtered.length.toLocaleString("es-CL")} ${state.filtered.length === 1 ? "clase encontrada" : "clases encontradas"}`;
+  $("#result").textContent = `${state.filtered.length.toLocaleString("es-CL")} ${state.filtered.length === 1 ? "propuesta encontrada" : "propuestas encontradas"}`;
   $("#cards").innerHTML = visible.length ? visible.map(card).join("") : '<div class="empty-state"><h3>Sin coincidencias</h3><p>Prueba una palabra más amplia o limpia los filtros.</p></div>';
   $("#load-more").hidden = visible.length >= state.filtered.length;
   updateUrl();
@@ -80,7 +81,7 @@ fetch("catalog.json")
   .then((catalog) => {
     state.all = catalog.classes;
     $("#stats").innerHTML = [
-      [catalog.course_count, "niveles"], [catalog.objective_count, "OA inventariados"], [catalog.class_count, "propuestas"], [catalog.editorial_counts.desarrollada, "clases desarrolladas"], [catalog.editorial_counts.borrador, "borradores identificados"]
+      [catalog.course_count, "niveles"], [catalog.objective_count, "OA inventariados"], [catalog.class_count, "propuestas"], [catalog.editorial_counts.desarrollada, "clases desarrolladas"], [catalog.editorial_counts.integrada, "experiencias integradas"]
     ].map(([value, label]) => `<div class="stat"><strong>${value.toLocaleString("es-CL")}</strong><span>${label}</span></div>`).join("");
     appendOptions(controls.level, unique("course"));
     appendOptions(controls.subject, unique("subject"));

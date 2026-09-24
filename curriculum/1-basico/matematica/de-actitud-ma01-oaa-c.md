@@ -17,7 +17,7 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: manifestar curiosidad e interés por el… {#cl-00881}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Manifestar curiosidad e interés por el aprendizaje de las matemáticas».
 
@@ -65,7 +65,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente hace visible el razonamiento; educación diferencial propone representaciones accesibles y el asistente formula preguntas, sin entregar el procedimiento.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: manifestar curiosidad e interés por el… {#cl-00882}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Manifestar curiosidad e interés por el aprendizaje de las matemáticas».
 
@@ -113,7 +113,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente hace visible el razonamiento; educación diferencial propone representaciones accesibles y el asistente formula preguntas, sin entregar el procedimiento.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: manifestar curiosidad e interés por el… {#cl-00883}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Manifestar curiosidad e interés por el aprendizaje de las matemáticas».
 
@@ -161,7 +161,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente hace visible el razonamiento; educación diferencial propone representaciones accesibles y el asistente formula preguntas, sin entregar el procedimiento.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: manifestar curiosidad e interés por el… {#cl-00884}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Manifestar curiosidad e interés por el aprendizaje de las matemáticas».
 

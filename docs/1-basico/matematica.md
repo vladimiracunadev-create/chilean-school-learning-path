@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Lenguaje y Comunicación](lenguaje-comunicacion.md) · [Música →](musica.md)
 
-**36 OA · 151 clases · 10 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**20 OA de contenido · 83 clases desarrolladas · 16 OA transversales · 68 experiencias integradas · 10 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 4 clases desarrolladas y 147 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 83 clases desarrolladas, 68 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -80,25 +80,25 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
 | MA01 OA 01 | Conteo de 0 a 100 con saltos de 1, 2, 5 y 10, hacia adelante y hacia atrás | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-01.md) |
-| MA01 OA 02 | Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-02.md) |
-| MA01 OA 03 | Leer números del 0 al 20 y representarlos en forma concreta, pictórica y simbólica | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-03.md) |
-| MA01 OA 04 | Comparar y ordenar números del 0 al 20 de menor a mayor y/o viceversa, utilizando material concreto… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-04.md) |
-| MA01 OA 05 | Estimar cantidades hasta 20 en situaciones concretas, usando un referente | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-05.md) |
-| MA01 OA 06 | Componer y descomponer números del 0 a 20 de manera aditiva, en forma concreta, pictórica y simbólica | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-06.md) |
-| MA01 OA 07 | Describir y aplicar estrategias de cálculo mental para las adiciones y sustracciones hasta 20 | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-07.md) |
-| MA01 OA 08 | Determinar las unidades y decenas en números del 0 al 20, agrupando de a 10, de manera concreta,… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-08.md) |
-| MA01 OA 09 | Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a… | Números y operaciones | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-09.md) |
-| MA01 OA 10 | Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y… | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-10.md) |
-| MA01 OA 11 | Reconocer, describir, crear y continuar patrones repetitivos (sonidos, figuras, ritmos?) y patrones… | Patrones y álgebra | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-11.md) |
-| MA01 OA 12 | Describir y registrar la igualdad y la desigualdad como equilibrio y desequilibrio, usando una… | Patrones y álgebra | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-12.md) |
-| MA01 OA 13 | Describir la posición de objetos y personas en relación a sí mismos y a otros objetos y personas,… | Geometría | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-13.md) |
-| MA01 OA 14 | Identificar en el entorno figuras 3D y figuras 2D y relacionarlas, usando material concreto | Geometría | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-14.md) |
-| MA01 OA 15 | Identificar y dibujar líneas rectas y curvas | Geometría | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-15.md) |
-| MA01 OA 16 | Usar unidades no estandarizadas de tiempo para comparar la duración de eventos cotidianos | Medición | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-16.md) |
-| MA01 OA 17 | Usar un lenguaje cotidiano para secuenciar eventos en el tiempo | Medición | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-17.md) |
-| MA01 OA 18 | Identificar y comparar la longitud de objetos, usando palabras como largo y corto | Medición | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-18.md) |
-| MA01 OA 19 | Recolectar y registrar datos para responder preguntas estadísticas sobre sí mismo y el entorno,… | Datos y probabilidades | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-19.md) |
-| MA01 OA 20 | Construir, leer e interpretar pictogramas | Datos y probabilidades | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-20.md) |
+| MA01 OA 02 | Números ordinales del primero al décimo en series y situaciones cotidianas | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-02.md) |
+| MA01 OA 03 | Lectura y representación concreta, pictórica y simbólica de números del 0 al 20 | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-03.md) |
+| MA01 OA 04 | Comparación y orden de cantidades y números del 0 al 20 | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-04.md) |
+| MA01 OA 05 | Estimación de cantidades hasta 20 usando referentes | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-05.md) |
+| MA01 OA 06 | Composición y descomposición aditiva de números del 0 al 20 | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-06.md) |
+| MA01 OA 07 | Estrategias de cálculo mental para adiciones y sustracciones hasta 20 | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-07.md) |
+| MA01 OA 08 | Decenas y unidades en números del 0 al 20 | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-08.md) |
+| MA01 OA 09 | Comprensión de la adición y sustracción hasta 20 mediante problemas | Números y operaciones | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-09.md) |
+| MA01 OA 10 | Adición y sustracción como operaciones inversas | Números y operaciones | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-10.md) |
+| MA01 OA 11 | Patrones repetitivos y patrones numéricos crecientes y decrecientes hasta 20 | Patrones y álgebra | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-11.md) |
+| MA01 OA 12 | Igualdad y desigualdad como equilibrio y desequilibrio hasta 20 | Patrones y álgebra | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-12.md) |
+| MA01 OA 13 | Posición de objetos y personas usando lenguaje espacial | Geometría | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-13.md) |
+| MA01 OA 14 | Figuras 2D y cuerpos 3D en el entorno y sus relaciones | Geometría | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-14.md) |
+| MA01 OA 15 | Identificación y dibujo de líneas rectas y curvas | Geometría | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-15.md) |
+| MA01 OA 16 | Comparación de duraciones con unidades de tiempo no estandarizadas | Medición | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-16.md) |
+| MA01 OA 17 | Secuenciación temporal de rutinas, días, meses y fechas significativas | Medición | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-17.md) |
+| MA01 OA 18 | Identificación y comparación de longitudes con lenguaje cotidiano | Medición | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-18.md) |
+| MA01 OA 19 | Recolección y registro de datos para responder preguntas estadísticas | Datos y probabilidades | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-19.md) |
+| MA01 OA 20 | Construcción, lectura e interpretación de pictogramas | Datos y probabilidades | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/ma01-oa-20.md) |
 | de Habilidad MA01 OAH a | Resolver problemas | Resolver problemas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/de-habilidad-ma01-oah-a.md) |
 | de Habilidad MA01 OAH b | Resolver problemas | Resolver problemas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/de-habilidad-ma01-oah-b.md) |
 | de Habilidad MA01 OAH c | Resolver problemas | Resolver problemas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/matematica/de-habilidad-ma01-oah-c.md) |

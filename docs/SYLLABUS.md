@@ -4,7 +4,7 @@
 
 > [⬅️ Centro de documentación](README.md) · [📚 Índice completo del nivel](1-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**14 clases desarrolladas · 1.020 borradores · 237 OA · 11 asignaturas**
+**93 clases desarrolladas · 68 experiencias integradas · 873 borradores · 237 OA · 11 asignaturas**
 
 > Las 1.034 entradas constituyen un **mapa de trabajo**, no una biblioteca de planificaciones terminadas ni un horario anual. Solo las fichas marcadas como desarrolladas contienen por ahora contenido específico; los borradores no deben usarse sin investigación y reescritura docente.
 
@@ -12,7 +12,7 @@
 
 ## 1. Presentación
 
-Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currículum Nacional en secuencias utilizables. Ese desarrollo se realiza OA por OA: hoy existen tres secuencias desarrolladas en 1° básico y el resto permanece explícitamente como borrador.
+Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currículum Nacional en secuencias utilizables. Ese desarrollo se realiza OA por OA: hoy Matemática de 1° básico está desarrollada en sus 20 OA de contenido y 83 clases; habilidades y actitudes se integran transversalmente. El resto mantiene su estado editorial explícito.
 
 El programa busca que la planificación sea:
 

@@ -6,23 +6,24 @@ Fecha de corte: **2026-09-24**. Los conteos provienen de `curriculum/catalog.jso
 |---|---:|---|
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
-| Borrador | 1.020 | arquitectura automática de 1° básico pendiente de investigación y reescritura específica |
-| Desarrollada | 36 | contenido disciplinar específico validado contra el contrato estructural |
+| Borrador | 873 | arquitectura automática de 1° básico pendiente de investigación y reescritura específica |
+| Desarrollada | 115 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 68 | habilidades y actitudes matemáticas incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° básico está en reconstrucción pedagógica**: 14 clases desarrolladas y 1.020 borradores. Se conservan además 22 clases piloto de otros niveles. Ningún nivel está completo.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° básico está en reconstrucción pedagógica**: 93 clases desarrolladas, 68 experiencias integradas y 873 borradores. Matemática está completa en sus 83 clases de contenido, aunque su revisión humana sigue pendiente. Se conservan además 22 clases piloto de otros niveles.
 
 ## Reconstrucción de 1° básico
 
 | Secuencia | Clases desarrolladas | Fundamento |
 |---|---:|---|
 | `AR01 OA 01` | 6 | observación, expresión visual y producción artística |
-| `MA01 OA 01` | 4 | progresión de conteo alineada con indicadores y unidades oficiales |
+| Matemática · `MA01 OA 01` a `MA01 OA 20` | 83 | 20 secuencias de contenido alineadas con unidades e indicadores oficiales |
 | `LE01 OA 03` | 4 | progresión de conciencia fonológica alineada con indicadores oficiales |
-| **Total desarrollado en 1° básico** | **14** | revisión humana pendiente |
+| **Total desarrollado en 1° básico** | **93** | revisión humana pendiente |
 
-Las 14 clases desarrolladas contienen propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios, decisión posterior y adaptación a 45 minutos. Los desarrollos específicos se conservan en [content/developed-lessons.json](content/developed-lessons.json). La arquitectura de [scripts/grade_one_lessons.py](scripts/grade_one_lessons.py) produce borradores y no se contabiliza como desarrollo terminado.
+Las 93 clases desarrolladas contienen propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios, decisión posterior y adaptación a 45 minutos. Los desarrollos específicos se conservan en [content/developed-lessons.json](content/developed-lessons.json) y [scripts/grade_one_math_lessons.py](scripts/grade_one_math_lessons.py). La arquitectura de [scripts/grade_one_lessons.py](scripts/grade_one_lessons.py) produce borradores y no se contabiliza como desarrollo terminado.
 
 [Ver documentación de 1° básico](docs/PRIMERO_BASICO.md) · [Abrir programa por asignaturas](docs/1-basico/README.md)
 
