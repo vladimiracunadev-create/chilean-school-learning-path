@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "example-mineduc",
+      "title": "Recurso oficial de ejemplo",
+      "author_or_owner": "MINEDUC",
+      "source_url": "https://www.curriculumnacional.cl/",
+      "resource_type": "official_resource",
+      "license": "UNKNOWN",
+      "license_url": null,
+      "redistributed": false,
+      "modified": false,
+      "commercial_allowed": "unknown",
+      "status": "rights_pending",
+      "accessed_at": "2026-09-14",
+      "notes": "Verificar licencia específica antes de ingerir contenido."
+    },
+    {
+      "id": "example-book",
+      "title": "Libro comercial de ejemplo",
+      "author_or_owner": "Autor / Editorial",
+      "source_url": "https://example.org/book",
+      "resource_type": "book",
+      "license": "COPYRIGHT",
+      "license_url": null,
+      "redistributed": false,
+      "modified": false,
+      "commercial_allowed": "no",
+      "status": "verified",
+      "accessed_at": "2026-09-14",
+      "notes": "Metadatos; no redistribuir obra completa."
+    }
+  ]
+}

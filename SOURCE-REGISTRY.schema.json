@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SourceRegistryRecord",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "author_or_owner",
+    "source_url",
+    "resource_type",
+    "license",
+    "redistributed",
+    "modified",
+    "commercial_allowed",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "author_or_owner": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string",
+      "pattern": "^https://"
+    },
+    "resource_type": {
+      "type": "string"
+    },
+    "license": {
+      "type": "string"
+    },
+    "license_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "redistributed": {
+      "type": "boolean"
+    },
+    "modified": {
+      "type": "boolean"
+    },
+    "commercial_allowed": {
+      "enum": [
+        "yes",
+        "no",
+        "unknown",
+        "conditional"
+      ]
+    },
+    "status": {
+      "enum": [
+        "verified",
+        "rights_pending",
+        "quarantined",
+        "rejected",
+        "deprecated"
+      ]
+    },
+    "accessed_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

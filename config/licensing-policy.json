@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "owner": "Vladimir Acuña",
+  "software": "MIT",
+  "educational_content": "CC-BY-NC-SA-4.0",
+  "unknown_external_content": "QUARANTINE",
+  "software_paths": [
+    "src/**",
+    "app/**",
+    "api/**",
+    "scripts/**",
+    "tests/**",
+    "tools/**",
+    "school_knowledge/**",
+    "cli/**",
+    "frontend/**",
+    "backend/**"
+  ],
+  "content_paths": [
+    "curriculum/**",
+    "classes/**",
+    "lessons/**",
+    "actividades/**",
+    "activities/**",
+    "rubrics/**",
+    "cases/**",
+    "guides/**",
+    "training/**"
+  ],
+  "external_states": [
+    "PUBLIC_DOMAIN",
+    "CC_BY",
+    "CC_BY_SA",
+    "CC_BY_NC",
+    "CC_BY_NC_SA",
+    "CC_BY_ND",
+    "CC_BY_NC_ND",
+    "COPYRIGHT",
+    "TEXTBOOK_COPYRIGHT",
+    "UNKNOWN"
+  ],
+  "forbidden_public_patterns": [
+    ".env",
+    "*.pem",
+    "*.key",
+    "credentials*",
+    "secrets*"
+  ]
+}
