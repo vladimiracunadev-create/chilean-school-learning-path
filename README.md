@@ -2,146 +2,134 @@
 
 # 🇨🇱 Trayectoria Escolar Chile
 
-## **12.997 clases · 2.823 OA · 12 niveles · de 1° básico a 4° medio**
+## **1° básico completo · 1.034 clases · 237 OA · 11 asignaturas**
 
-**Un currículo abierto y navegable que convierte los Objetivos de Aprendizaje de Chile en secuencias claras, adaptables y trazables.**
+**Un programa de aprendizaje abierto, claro y adaptable para enseñar 1° básico con propósito, actividades, evidencia y decisiones pedagógicas.**
 
 [![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 
-[![Clases](https://img.shields.io/badge/clases-12.997-e9533f?style=for-the-badge)](CURRICULUM.md)
-[![OA](https://img.shields.io/badge/OA-2.823-0c5963?style=for-the-badge)](CURRICULUM.md)
-[![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-1.034%20desarrolladas-23875a?style=for-the-badge)](docs/1-basico/README.md)
-[![Revisión humana](https://img.shields.io/badge/revisi%C3%B3n%20humana-0%20registradas-6b7280?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![Programa](https://img.shields.io/badge/programa-1%C2%B0%20b%C3%A1sico%20completo-e9533f?style=for-the-badge)](docs/1-basico/README.md)
+[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-1.034-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
+[![OA desarrollados](https://img.shields.io/badge/OA%20desarrollados-237-23875a?style=for-the-badge)](docs/1-basico/README.md)
+[![Asignaturas](https://img.shields.io/badge/asignaturas-11-7c5cff?style=for-the-badge)](docs/1-basico/README.md#-las-11-asignaturas)
 
-[![Idioma](https://img.shields.io/badge/idioma-español-blue?style=flat-square)](README.md)
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](.github/workflows/pages.yml)
-[![Markdown](https://img.shields.io/badge/Markdown-2.823%20fichas-000000?style=flat-square&logo=markdown&logoColor=white)](CURRICULUM.md)
-![HTML](https://img.shields.io/badge/HTML-2.823%20páginas-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
+[![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
+![HTML](https://img.shields.io/badge/formato-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-sitio%20vivo-222?style=flat-square&logo=githubpages&logoColor=white)
 
-[🗂️ Índice completo](CURRICULUM.md) · [🧒 1° básico](docs/1-basico/README.md) · [📚 Centro documental](docs/README.md) · [📖 Glosario](docs/GLOSARIO.md) · [🧭 Rutas de uso](LEARNING_PATHS.md) · [📘 Syllabus](docs/SYLLABUS.md) · [🗺️ Roadmap](ROADMAP.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🧒 Empezar con 1° básico](docs/1-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 </div>
 
 ---
 
-> **Transparencia editorial.** Las 12.997 clases están inventariadas, secuenciadas y publicadas. Hay **1.056 desarrolladas**: las 1.034 de 1° básico y 22 pilotos de otros niveles. Existen **0 clases declaradas como revisadas** porque todavía no se ha registrado revisión humana completa. Publicar no equivale a revisar.
+> [!IMPORTANT]
+> **Estado real del proyecto:** 1° básico es el único nivel desarrollado de principio a fin. Los otros once niveles conservan un mapa curricular y una secuencia inicial para trabajo futuro; **no son todavía programas completos**. Existen 22 clases piloto fuera de 1° básico, pero no convierten esos niveles en cursos terminados.
 
-> ⚠️ **Uso responsable.** Este es un proyecto educativo independiente. No sustituye las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes ni el juicio profesional. Nunca se deben publicar aquí datos identificables de estudiantes.
+> [!CAUTION]
+> Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
+
+## 👋 Empieza aquí
+
+Este repositorio sirve hoy para tres cosas distintas, expresadas sin mezclar sus estados:
+
+- **Enseñar 1° básico:** ofrece 1.034 clases desarrolladas para 237 OA en 11 asignaturas.
+- **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
+- **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
+
+Si vienes a preparar clases, abre el **[programa completo de 1° básico](docs/1-basico/README.md)**. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**. Si buscas un código curricular específico, usa el **[índice de OA](CURRICULUM.md)**.
 
 ## 🧭 OA, en palabras simples
 
-**OA significa Objetivo de Aprendizaje:** indica qué debe llegar a comprender o hacer el estudiante. No es una clase ni una actividad. Por eso un OA se transforma aquí en una secuencia de 4 a 7 clases con práctica, tareas, actividades complementarias y evidencia.
+**OA significa Objetivo de Aprendizaje:** expresa qué debe llegar a comprender o hacer el estudiante. No es una clase, una actividad ni una página del repositorio.
 
-`MA01 OA 01` significa Matemática · 1° básico · Objetivo de Aprendizaje 1. La [guía “¿Qué es un OA?”](docs/QUE_ES_UN_OA.md) explica cada parte con un ejemplo completo.
+Por ejemplo, `MA01 OA 01` significa Matemática · 1° básico · Objetivo de Aprendizaje 1. En este proyecto, cada OA de 1° básico se convierte en una secuencia de 4 a 7 clases con modelado, práctica, tareas, actividades complementarias y evidencia. La guía **[¿Qué es un OA?](docs/QUE_ES_UN_OA.md)** explica el código y muestra un ejemplo completo.
 
 ## 🎯 Qué es este proyecto
 
-Trayectoria Escolar Chile transforma el currículo oficial en un sistema práctico para docentes, equipos pedagógicos, familias y revisores. Cada OA conserva su fuente y se despliega en 4 a 7 clases identificadas de manera estable.
+Trayectoria Escolar Chile convierte el currículo oficial en decisiones concretas de enseñanza. Cada clase desarrollada de 1° básico incluye:
 
-No entrega una frase genérica por clase. Una clase desarrollada contiene:
-
-- propósito docente y meta en lenguaje estudiantil;
-- conocimientos previos, vocabulario y error previsible;
+- propósito docente y meta comprensible para estudiantes;
+- conocimientos previos, vocabulario y errores previsibles;
 - inicio, modelado, práctica guiada y desempeño individual;
 - materiales y alternativa viable sin conectividad;
-- apoyo que conserva el OA y profundización no mecánica;
-- ticket, evidencia, criterios observables y decisión posterior;
+- apoyo que mantiene el OA y profundización que evita la repetición mecánica;
+- ticket de salida, evidencia, criterios observables y decisión posterior;
 - adaptación de 90 a 45 minutos;
-- tarea breve, flexible y sin dependencia de internet o compras;
-- actividades complementarias de recuperación y profundización;
-- control de dificultades con acción inmediata y comprobación;
-- coordinación de roles profesionales dentro del aula;
-- fuente curricular y estado editorial.
+- tarea breve, flexible y sin compras obligatorias;
+- actividades complementarias para recuperar, practicar o profundizar;
+- dificultades del aula con acción inmediata y comprobación;
+- coordinación entre docente, especialistas y equipos de apoyo;
+- fuente curricular y estado editorial explícitos.
+
+No es una colección de frases intercambiables. Las secuencias se ajustan a la asignatura, al OA, a la edad y a la evidencia esperada.
 
 ## 🧩 Qué problemas busca resolver
 
-- Un OA oficial indica qué aprender, pero no siempre cómo convertirlo en una secuencia.
+- Un OA oficial indica qué aprender, pero no siempre cómo llevarlo a una secuencia enseñable.
 - Una actividad puede ser entretenida sin producir evidencia del aprendizaje.
-- Las planificaciones extensas suelen ocultar qué observar y qué hacer después.
-- Apoyar puede terminar reduciendo el OA; profundizar puede degenerar en más repetición.
-- Un repositorio puede parecer completo solo porque tiene muchos archivos.
-- La documentación puede quedar desincronizada de los datos y del portal.
+- Apoyar puede terminar reduciendo el OA y profundizar puede convertirse en más ejercicios iguales.
+- Una planificación extensa puede ocultar qué observar y qué hacer después.
+- Un repositorio puede parecer completo por su cantidad de archivos aunque el contenido todavía sea preliminar.
 
-El proyecto responde con trazabilidad, estructura estable, contenido disciplinar, validación automática y estados editoriales explícitos.
+La respuesta del proyecto es una estructura común, contenido disciplinar, trazabilidad, validación automática y estados editoriales que no confunden publicación con revisión humana.
 
 ## 📖 De dónde sale el contenido
 
-El punto de partida no es una colección informal de temas: es el [Currículum Nacional de Chile](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El repositorio registra los niveles, asignaturas, ejes y OA junto con la URL oficial de cada objetivo y la fecha en que fue comprobado.
+El punto de partida es el [Currículum Nacional de Chile](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El repositorio registra nivel, asignatura, eje, OA, URL oficial y fecha de comprobación.
 
-| Para comprender | Documento legible | Qué responde |
-|---|---|---|
-| Procedencia curricular | [Fuentes oficiales](OFFICIAL_REFERENCES.md) | de dónde provienen los OA, programas, lecturas y referencias legales |
-| Cobertura del proyecto | [Cobertura completa](docs/COBERTURA.md) | cuántos niveles, OA y clases existen y cuál es su estado editorial |
-| Desarrollo pedagógico | [Programa completo de 1° básico](docs/1-basico/README.md) | cómo se organizan las 1.034 clases, qué se enseña y qué evidencia se observa |
-| Método de construcción | [Metodología](METHODOLOGY.md) | cómo se pasa del OA a una secuencia y cómo se comprueba su consistencia |
-| Derechos y reutilización | [Guía de licencias](docs/LICENCIAS.md) | qué puede reutilizarse, con qué atribución y bajo qué condiciones |
+- **[Fuentes oficiales](OFFICIAL_REFERENCES.md):** procedencia de OA, programas, lecturas y referencias legales.
+- **[Programa completo de 1° básico](docs/1-basico/README.md):** progresión, asignaturas, clases y evidencias.
+- **[Metodología](METHODOLOGY.md):** paso del OA a la secuencia y controles de consistencia.
+- **[Cobertura](docs/COBERTURA.md):** alcance de los doce niveles y estado editorial real.
+- **[Licencias](docs/LICENCIAS.md):** derechos, atribución y condiciones de reutilización.
 
-El registro curricular fue comprobado el **2026-09-24**. Conserva **595 enlaces de lectura** asociados desde fichas oficiales. Esos enlaces no convierten las obras en contenido propio ni en lecturas obligatorias; el repositorio no reproduce sus textos.
-
-## 🌐 Portal, navegación y formatos
-
-El sitio HTML de GitHub Pages convierte el catálogo en una experiencia navegable. La documentación Markdown mantiene, por separado, enlaces únicamente hacia otros archivos del repositorio:
-
-- búsqueda por palabra, OA o código de clase;
-- filtros por nivel, asignatura y tipo de cobertura;
-- enlace directo a cada clase mediante una ancla estable;
-- navegación entre objetivos anterior y siguiente;
-- vista dedicada de 1° básico y centro documental visual;
-- tema claro/oscuro y diseño adaptable;
-- funcionamiento sin cuentas, telemetría ni envío de datos del usuario.
-
-| Salida | Cantidad | Para qué sirve |
-|---|---:|---|
-| Markdown por OA | 2.823 | edición, revisión, historial y reutilización |
-| HTML por OA | 2.823 | lectura visual y navegación web |
-| Anclas de clase en ambos formatos | 12.997 | enlaces estables a cada propuesta |
-| Explorador del sitio | 12.997 clases | búsqueda y filtros sin exponer archivos técnicos |
-| Documentación de 1° básico | 11 guías de asignatura | comprender progresión, método y evidencia |
-
-No existe todavía una aplicación móvil ni un manual PDF oficial de este proyecto. Para trabajar sin conexión se puede descargar o clonar el repositorio: las fichas Markdown son legibles directamente y el sitio estático usa sus propios HTML, CSS, JavaScript y datos, sin depender de una cuenta.
-
-### 📥 Accesos directos y descargas
-
-- [Índice completo del currículo](CURRICULUM.md) — los 2.823 OA organizados por nivel y asignatura.
-- [Descargar el repositorio como ZIP](https://github.com/vladimiracunadev-create/chilean-school-learning-path/archive/refs/heads/main.zip) — contenido y sitio para consulta local.
-- [Cómo se corresponden Markdown y HTML](docs/FORMATOS.md) — rutas, anclas y controles.
+El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces de lectura asociados desde fichas oficiales. Esos enlaces son referencias: el repositorio no reproduce las obras ni las declara obligatorias.
 
 ## 📍 Estado actual
 
-| Estado | Clases | Qué significa |
-|---|---:|---|
-| Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente identificados |
-| Secuenciada | 12.997 | posición, fase y duración inicial propuestas |
-| Desarrollada | 1.056 | contrato pedagógico y disciplinar completo |
-| Revisada | 0 | control humano documentado |
-| Publicada | 12.997 | Markdown y HTML navegables |
+### Listo para explorar y adaptar
 
-Consulta el [estado editorial completo](EDITORIAL_STATUS.md) y el [estándar de calidad](QUALITY_STANDARD.md).
+**1° básico:** 237 OA, 1.034 clases desarrolladas y 11 asignaturas. Todo el nivel tiene estructura pedagógica completa en Markdown y HTML. Aun así, mantiene **revisión humana pendiente**: “desarrollada” no significa “validada por una persona especialista”.
+
+### Preparado para desarrollo futuro
+
+**2° básico a 4° medio:** mapa de 2.586 OA distribuido en 11 niveles, con secuencias iniciales y 11.963 espacios de clase. Los 22 pilotos de 3°, 4° y 8° básico sirven para probar el modelo; no deben presentarse como programas terminados.
+
+### Lo que significa “12.997”
+
+Es la suma de todos los **espacios de clase planificados** del mapa curricular. Incluye las 1.034 clases completas de 1° básico y 11.963 propuestas pendientes de desarrollo sistemático. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una tabla promocional del README.
 
 ## 🧒 1° básico · nivel desarrollado
 
-1° básico es el primer nivel trabajado de principio a fin: **237 OA, 1.034 clases y 11 asignaturas**.
+El programa se organiza en once recorridos narrativos. Cada guía explica propósito, prerrequisitos, método disciplinar, progresión por ejes, recorrido OA por OA, dificultades frecuentes y evidencia esperada.
 
-| Asignatura | OA | Clases | Guía narrativa |
-|---|---:|---:|---|
-| Artes Visuales | 12 | 52 | [Leer](docs/1-basico/artes-visuales.md) |
-| Ciencias Naturales | 22 | 89 | [Leer](docs/1-basico/ciencias-naturales.md) |
-| Educación Física y Salud | 19 | 80 | [Leer](docs/1-basico/educacion-fisica-salud.md) |
-| Historia, Geografía y Ciencias Sociales | 31 | 132 | [Leer](docs/1-basico/historia-geografia-ciencias-sociales.md) |
-| Inglés (Propuesta) | 18 | 85 | [Leer](docs/1-basico/ingles-propuesta.md) |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | 33 | 147 | [Leer](docs/1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
-| Lenguaje y Comunicación | 33 | 160 | [Leer](docs/1-basico/lenguaje-comunicacion.md) |
-| Matemática | 36 | 151 | [Leer](docs/1-basico/matematica.md) |
-| Música | 14 | 57 | [Leer](docs/1-basico/musica.md) |
-| Orientación | 8 | 35 | [Leer](docs/1-basico/orientacion.md) |
-| Tecnología | 11 | 46 | [Leer](docs/1-basico/tecnologia.md) |
+- 🎨 **[Artes Visuales](docs/1-basico/artes-visuales.md):** 12 OA y 52 clases.
+- 🌱 **[Ciencias Naturales](docs/1-basico/ciencias-naturales.md):** 22 OA y 89 clases.
+- 🏃 **[Educación Física y Salud](docs/1-basico/educacion-fisica-salud.md):** 19 OA y 80 clases.
+- 🗺️ **[Historia, Geografía y Ciencias Sociales](docs/1-basico/historia-geografia-ciencias-sociales.md):** 31 OA y 132 clases.
+- 🌍 **[Inglés — propuesta](docs/1-basico/ingles-propuesta.md):** 18 OA y 85 clases.
+- 🪶 **[Lengua y Cultura de los Pueblos Originarios Ancestrales](docs/1-basico/lengua-cultura-pueblos-originarios-ancestrales.md):** 33 OA y 147 clases.
+- 📚 **[Lenguaje y Comunicación](docs/1-basico/lenguaje-comunicacion.md):** 33 OA y 160 clases.
+- 🔢 **[Matemática](docs/1-basico/matematica.md):** 36 OA y 151 clases.
+- 🎵 **[Música](docs/1-basico/musica.md):** 14 OA y 57 clases.
+- 💬 **[Orientación](docs/1-basico/orientacion.md):** 8 OA y 35 clases.
+- 🛠️ **[Tecnología](docs/1-basico/tecnologia.md):** 11 OA y 46 clases.
 
-➡️ **[Abrir el programa completo de 1° básico](docs/1-basico/README.md)**
+### Qué ocurre si solicitas mejorar sus contenidos o clases
 
-Cada guía de asignatura explica de qué trata, qué problemas pedagógicos resuelve, resultados, prerrequisitos, método disciplinar, estructura por ejes, recorrido OA por OA, evidencia, barreras frecuentes, acceso y profundización.
+Una mejora de 1° básico se aplica al contenido pedagógico canónico, no solo a la portada o a una página aislada. El flujo correcto es:
+
+1. delimitar la asignatura, el OA, la clase o el aspecto transversal que debe mejorar;
+2. corregir propósito, explicación, actividades, tareas, evidencia, dificultades y apoyos donde corresponda;
+3. regenerar sus versiones Markdown y HTML desde la misma fuente;
+4. conservar códigos y anclas estables para no romper enlaces;
+5. ejecutar validadores, pruebas y comprobación de reproducibilidad;
+6. mantener el estado “pendiente de revisión humana” hasta que una revisión competente quede registrada.
+
+Si la solicitud es general —por ejemplo, “mejora todas las clases de Matemática”— se trabaja sistemáticamente OA por OA dentro de 1° básico. No se simula avance en otros niveles ni se aumentan conteos por cambiar documentación.
 
 ## 🧠 Cómo progresa una secuencia
 
@@ -158,149 +146,122 @@ flowchart LR
     G -->|Otra explicación| B
 ```
 
-El orden hace visible el aprendizaje. No obliga a avanzar por calendario: la evidencia real puede justificar mantener, acortar o ampliar una secuencia.
+La secuencia no obliga a avanzar por calendario. La evidencia puede justificar mantener, acortar, ampliar o volver a explicar.
 
 ## 🧱 Anatomía de una clase desarrollada
 
-| Sección | Pregunta que responde | Resultado |
-|---|---|---|
-| Propósito docente | ¿Qué debe conseguir la enseñanza? | intención profesional clara |
-| Meta estudiantil | ¿Qué comprenderé o podré hacer? | lenguaje accesible |
-| Inicio | ¿Qué saben y qué barrera aparece? | diagnóstico breve |
-| Modelado | ¿Qué decisión experta debo hacer visible? | ejemplo y contraejemplo |
-| Práctica guiada | ¿Cómo ensayamos con apoyo? | retroalimentación inmediata |
-| Desempeño individual | ¿Qué puede hacer cada estudiante? | evidencia atribuible |
-| Apoyo | ¿Cómo cambio el acceso sin bajar el OA? | andamiaje gradual |
-| Profundización | ¿Cómo amplío sin mecanizar? | comparación o transferencia |
-| Ticket | ¿Qué observo al cerrar? | respuesta breve |
-| Criterios | ¿Qué cuenta como logro? | señales observables |
-| Decisión posterior | ¿Qué hago mañana? | avanzar, reagrupar o reenseñar |
-| Tarea flexible | ¿Cómo consolida sin sobrecarga? | experiencia breve y accesible |
-| Actividades complementarias | ¿Qué opción uso según la evidencia? | recuperación, práctica o profundidad |
-| Dificultades y acciones | ¿Qué hago si aparece una barrera? | acción inmediata y comprobación |
-| Roles profesionales | ¿Quién conduce y quién aporta? | coordinación explícita sin delegar el OA |
+**Antes de enseñar:** propósito, meta estudiantil, conocimientos previos, vocabulario, materiales y preparación.
+
+**Durante la clase:** inicio diagnóstico, modelado explícito, práctica guiada, desempeño individual, apoyo y profundización.
+
+**Para cerrar:** ticket de salida, evidencia atribuible, criterios observables y decisión para la clase siguiente.
+
+**Para sostener el aprendizaje:** tarea flexible, actividades complementarias, acciones frente a dificultades y coordinación de roles profesionales.
 
 ## 🧰 Caja de herramientas pedagógicas
 
-El valor práctico no está solo en contar clases. El repositorio conecta cada planificación con recursos para tomar decisiones reales:
-
-- 📖 **[Glosario educativo](docs/GLOSARIO.md):** OA, eje, cobertura, evidencia, criterio, apoyo, profundización y siglas frecuentes.
-- 🧩 **[Actividades y tareas](TEACHING_GUIDE.md#tareas-y-actividades-complementarias):** cada clase desarrollada de 1° básico incluye una tarea flexible y tres actividades complementarias diferenciadas.
+- 📖 **[Glosario educativo](docs/GLOSARIO.md):** OA, eje, cobertura, evidencia, criterio, apoyo y profundización.
+- 🧩 **[Actividades y tareas](TEACHING_GUIDE.md#tareas-y-actividades-complementarias):** alternativas diferenciadas en cada clase desarrollada.
 - ⚠️ **[Dificultades con acciones](docs/DIFICULTADES_EN_EL_AULA.md):** señal observable → acción inmediata → comprobación → decisión.
-- 👥 **[Roles profesionales](docs/ROLES_DOCENTES.md):** responsabilidades del docente, especialistas, educación diferencial, asistentes, CRA, convivencia y otros apoyos.
-- 📊 **[Rúbrica transversal](docs/RUBRICA_EVALUACION.md):** cuatro lecturas de evidencia y la acción pedagógica asociada.
-- 🏠 **[Guía para familias](docs/GUIA_FAMILIAS.md):** acompañar el aprendizaje sin reemplazar al estudiante ni convertir el hogar en otra jornada escolar.
-- ♿ **[Evaluación formativa](docs/EVALUACION_FORMATIVA.md):** cambiar acceso, reagrupar y volver a comprobar sin reducir el OA.
-- 🔎 **[Revisión humana](docs/REVISION_HUMANA.md):** cómo una persona competente registra una revisión real.
+- 👥 **[Roles profesionales](docs/ROLES_DOCENTES.md):** docente, especialistas, educación diferencial, asistentes, CRA y convivencia.
+- 📊 **[Rúbrica transversal](docs/RUBRICA_EVALUACION.md):** lectura de evidencia y acción pedagógica asociada.
+- ♿ **[Evaluación formativa](docs/EVALUACION_FORMATIVA.md):** cambiar el acceso sin reducir el OA.
+- 🏠 **[Guía para familias](docs/GUIA_FAMILIAS.md):** acompañar sin reemplazar al estudiante.
+- 🔎 **[Revisión humana](docs/REVISION_HUMANA.md):** registrar una revisión real y trazable.
 
 ## 🧭 Rutas según quién usa el repositorio
 
-No todas las personas deben leerlo en el mismo orden. Las [rutas de uso completas](LEARNING_PATHS.md) organizan el recorrido por tarea:
-
-| Persona o equipo | Empieza aquí | Resultado esperado |
-|---|---|---|
-| Docente de 1° básico | [Programa del nivel](docs/1-basico/README.md) | preparar una clase contextualizada y recoger evidencia útil |
-| Docente especialista | [Guías por asignatura](docs/1-basico/README.md#-las-11-asignaturas) | comprender progresión disciplinar, errores y criterios |
-| Educación diferencial o equipo de apoyo | [Roles](docs/ROLES_DOCENTES.md) y [dificultades](docs/DIFICULTADES_EN_EL_AULA.md) | acordar barrera, acción, vía de acceso y comprobación |
-| Coordinación pedagógica o UTP | [Cobertura](docs/COBERTURA.md) y [estado editorial](EDITORIAL_STATUS.md) | revisar cobertura y calidad sin confundir publicación con revisión |
-| Familia o persona cuidadora | [Guía para familias](docs/GUIA_FAMILIAS.md) | entender el propósito y acompañar sin hacer la tarea |
-| Revisor o colaborador | [Metodología](METHODOLOGY.md) y [contribución](CONTRIBUTING.md) | proponer una mejora trazable que no rompa el catálogo |
-| Mantenedor | [Estándar de calidad](QUALITY_STANDARD.md) | regenerar, validar y publicar sin deriva |
+- **Docente de 1° básico:** empieza en el [programa del nivel](docs/1-basico/README.md) y continúa con la guía de su asignatura.
+- **Docente especialista:** revisa la progresión disciplinar y luego abre el OA en el [índice curricular](CURRICULUM.md).
+- **Educación diferencial o equipo de apoyo:** acuerda responsabilidades en [Roles profesionales](docs/ROLES_DOCENTES.md) y selecciona acciones en [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md).
+- **Coordinación pedagógica o UTP:** contrasta [Cobertura](docs/COBERTURA.md), [Estado editorial](EDITORIAL_STATUS.md) y [Estándar de calidad](QUALITY_STANDARD.md).
+- **Familias y personas cuidadoras:** utiliza la [Guía para familias](docs/GUIA_FAMILIAS.md).
+- **Revisión o contribución:** lee [Metodología](METHODOLOGY.md), [Revisión humana](docs/REVISION_HUMANA.md) y [Cómo contribuir](CONTRIBUTING.md).
 
 ## 👩‍🏫 Para docentes y equipos pedagógicos
 
-- 📅 **[Syllabus](docs/SYLLABUS.md):** alcance, resultados, ritmo y planificación anual de 1° básico.
-- 🗂️ **[Programa completo de 1° básico](docs/1-basico/README.md):** 237 OA, 1.034 clases y 11 asignaturas.
-- 🧭 **[Guía pedagógica](TEACHING_GUIDE.md):** qué hacer antes, durante y después de una clase.
-- 📊 **[Rúbrica de evaluación](docs/RUBRICA_EVALUACION.md):** criterios observables y decisiones posteriores.
-- ❓ **[Preguntas frecuentes](docs/FAQ.md):** tiempos, cobertura, adaptación, fuentes y límites.
-- 🧪 **[Protocolo de revisión humana](docs/REVISION_HUMANA.md):** muestreo, severidad, registro y evidencia.
+### Cómo usarlo en seis pasos
 
-## 🧭 Cómo usarlo en seis pasos
+1. Elige una asignatura y un OA dentro del [programa de 1° básico](docs/1-basico/README.md).
+2. Lee la secuencia completa del OA antes de preparar una clase.
+3. Define la evidencia y los criterios que observarás.
+4. Ajusta contexto, materiales, acceso y duración al curso real.
+5. Enseña y recoge evidencia individual, no solo participación grupal.
+6. Decide si avanzar, reagrupar, ofrecer otra vía o reenseñar.
 
-1. Elige nivel, asignatura y OA en el [índice Markdown](CURRICULUM.md).
-2. Lee la guía de asignatura para entender la progresión.
-3. Revisa todas las clases del OA antes de preparar una.
-4. Define evidencia y criterios antes de elegir materiales.
-5. Adapta acceso, contexto y duración a tu curso.
-6. Enseña, recoge evidencia y decide el paso siguiente.
-
-El [syllabus](docs/SYLLABUS.md) desarrolla el proceso completo y la [guía docente](TEACHING_GUIDE.md) acompaña la conducción de aula.
+El [syllabus](docs/SYLLABUS.md) ayuda a organizar el año y la [guía docente](TEACHING_GUIDE.md) acompaña la preparación, conducción y adaptación.
 
 ## 📊 Evaluación que conduce a una decisión
 
-La [rúbrica transversal](docs/RUBRICA_EVALUACION.md) usa cuatro niveles descriptivos:
+- **Logrado con autonomía:** avanzar o transferir.
+- **En desarrollo:** practicar con apoyo puntual y retirarlo gradualmente.
+- **Requiere otra vía de acceso:** cambiar representación, ejemplo o forma de respuesta.
+- **Sin evidencia suficiente:** ofrecer otra oportunidad antes de concluir.
 
-| Nivel | Lectura | Próxima acción |
-|---|---|---|
-| Logrado con autonomía | aplica y explica sin copiar | avanzar o transferir |
-| En desarrollo | necesita apoyo puntual | practicar y retirar ayuda |
-| Requiere otra vía de acceso | la barrera impide observar | cambiar representación o respuesta |
-| Sin evidencia suficiente | no es posible concluir | ofrecer otra oportunidad |
-
-No son notas automáticas. Sirven para organizar la intervención y volver a comprobar.
+Estas categorías no asignan notas automáticas. Organizan la intervención y la comprobación posterior.
 
 ## ♿ Acceso sin reducción
 
-Mantener el OA no significa pedir a todos lo mismo del mismo modo. Se puede:
-
-- anticipar vocabulario;
-- demostrar y fragmentar consignas;
-- usar objetos, imágenes, gestos o tecnología de apoyo;
-- permitir ensayo oral antes de escribir;
-- variar agrupamientos y tiempos;
-- aceptar vías de respuesta pertinentes al OA;
-- retirar los apoyos gradualmente.
-
-Cuando ya existe dominio, se profundiza comparando, justificando, creando, mejorando o transfiriendo.
+Mantener el OA no significa pedir a todos lo mismo del mismo modo. Se puede anticipar vocabulario, fragmentar consignas, usar objetos o imágenes, permitir ensayo oral, variar agrupamientos y tiempos, y aceptar distintas vías de respuesta pertinentes. Cuando existe dominio, se profundiza comparando, justificando, creando, mejorando o transfiriendo.
 
 ## 🏠 Familias y comunidad
 
-La [guía para familias](docs/GUIA_FAMILIAS.md) explica cómo leer una ficha, conversar sobre lo aprendido y acompañar sin convertir el hogar en una segunda jornada escolar.
+La [guía para familias](docs/GUIA_FAMILIAS.md) explica cómo leer una clase, conversar sobre lo aprendido y acompañar sin convertir el hogar en una segunda jornada escolar.
 
-En lengua y cultura de pueblos originarios, la propuesta debe ajustarse al territorio y al contexto lingüístico, evitando generalizaciones y promoviendo validación comunitaria.
+En lengua y cultura de pueblos originarios, toda propuesta debe ajustarse al territorio y al contexto lingüístico, evitar generalizaciones y promover validación comunitaria.
+
+## 🌐 Portal, navegación y formatos
+
+El portal de GitHub Pages —disponible desde el enlace **Website** del About— ofrece búsqueda por palabra, OA o código; filtros por nivel y asignatura; enlaces estables; navegación entre objetivos; tema claro u oscuro; y diseño adaptable. Funciona sin cuentas, telemetría ni envío de datos personales.
+
+El repositorio conserva una separación deliberada:
+
+- los documentos Markdown enlazan a otros documentos Markdown para edición e historial;
+- el sitio de GitHub Pages enlaza a páginas HTML para lectura web;
+- ambos formatos se generan desde la misma fuente y comparten identificadores.
+
+Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descarga el repositorio](https://github.com/vladimiracunadev-create/chilean-school-learning-path/archive/refs/heads/main.zip) para usarlo sin conexión.
 
 ## 📚 Documentación de principio a fin
 
-| Documento | Contenido |
-|---|---|
-| [Centro documental](docs/README.md) | mapa completo y rutas |
-| [Syllabus](docs/SYLLABUS.md) | público, resultados, estructura, ritmo y planificación |
-| [¿Qué es un OA?](docs/QUE_ES_UN_OA.md) | explicación simple de códigos, clases, actividades y evidencia |
-| [Glosario educativo](docs/GLOSARIO.md) | términos, siglas, estados y códigos del proyecto |
-| [Programa de 1° básico](docs/1-basico/README.md) | narrativa, asignaturas y progresión |
-| [11 guías de asignatura](docs/1-basico/README.md) | recorrido OA por OA |
-| [Guía pedagógica](TEACHING_GUIDE.md) | preparación, conducción y adaptación |
-| [Roles profesionales](docs/ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
-| [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md) | señales, acciones y comprobación |
-| [Rúbrica](docs/RUBRICA_EVALUACION.md) | evidencia y decisiones |
-| [Cobertura navegable](docs/COBERTURA.md) | 12 niveles con acceso directo |
-| [Formatos](docs/FORMATOS.md) | 12.997 clases en Markdown y HTML |
-| [Licencias](docs/LICENCIAS.md) | reutilización de código, contenido, datos y activos |
-| [FAQ](docs/FAQ.md) | dudas, límites y uso |
-| [Guía para familias](docs/GUIA_FAMILIAS.md) | acompañamiento |
-| [Revisión humana](docs/REVISION_HUMANA.md) | protocolo, listas y registro |
-| [Metodología](METHODOLOGY.md) | fuente, generación y validación |
-| [Roadmap](ROADMAP.md) | avance nivel por nivel |
-| [Contribución](CONTRIBUTING.md) | contrato editorial y flujo |
+### Comprender el programa
+
+- [Centro documental](docs/README.md)
+- [Syllabus de 1° básico](docs/SYLLABUS.md)
+- [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
+- [Glosario educativo](docs/GLOSARIO.md)
+- [Preguntas frecuentes](docs/FAQ.md)
+
+### Enseñar, adaptar y evaluar
+
+- [Programa de 1° básico](docs/1-basico/README.md)
+- [Guía pedagógica](TEACHING_GUIDE.md)
+- [Roles profesionales](docs/ROLES_DOCENTES.md)
+- [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md)
+- [Evaluación formativa](docs/EVALUACION_FORMATIVA.md)
+- [Rúbrica de evaluación](docs/RUBRICA_EVALUACION.md)
+- [Guía para familias](docs/GUIA_FAMILIAS.md)
+
+### Verificar alcance, calidad y derechos
+
+- [Cobertura de los doce niveles](docs/COBERTURA.md)
+- [Estado editorial](EDITORIAL_STATUS.md)
+- [Metodología](METHODOLOGY.md)
+- [Estándar de calidad](QUALITY_STANDARD.md)
+- [Revisión humana](docs/REVISION_HUMANA.md)
+- [Formatos Markdown y HTML](docs/FORMATOS.md)
+- [Licencias y reutilización](docs/LICENCIAS.md)
+- [Roadmap nivel por nivel](ROADMAP.md)
+- [Contribución y flujo de cambios](CONTRIBUTING.md)
 
 ## 🗺️ Cobertura total
 
-| Nivel | OA | Clases | Estado de desarrollo |
-|---|---:|---:|---|
-| 1° básico | 237 | 1.034 | completo |
-| 2° básico | 247 | 1.072 | secuenciado |
-| 3° básico | 257 | 1.136 | 11 clases piloto |
-| 4° básico | 268 | 1.195 | 4 clases piloto |
-| 5° básico | 295 | 1.340 | secuenciado |
-| 6° básico | 301 | 1.374 | secuenciado |
-| 7° básico | 275 | 1.275 | secuenciado |
-| 8° básico | 253 | 1.201 | 7 clases piloto |
-| 1° medio | 253 | 1.209 | secuenciado |
-| 2° medio | 248 | 1.200 | secuenciado |
-| 3° medio · Formación General | 98 | 495 | secuenciado |
-| 4° medio · Formación General | 91 | 466 | secuenciado |
-| **Total** | **2.823** | **12.997** | **1.056 desarrolladas** |
+La cobertura se entiende en dos capas:
+
+- **Programa utilizable:** 1° básico, completo en sus 237 OA y 1.034 clases.
+- **Mapa de expansión:** 2° básico a 4° medio, con 2.586 OA y 11.963 propuestas de clase pendientes de desarrollo integral.
+
+Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
 ## 🔎 Fuente, generación y controles
 
@@ -309,17 +270,15 @@ flowchart TD
     A[Currículum Nacional] --> B[Registro curricular verificable]
     B --> C[Mapa de cobertura]
     C --> D[Dosificación]
-    D --> E[Contenido desarrollado]
-    E --> F[Markdown por OA]
-    E --> G[Portal HTML]
-    E --> H[Documentación por nivel y asignatura]
-    F --> I[Validadores y tests]
-    G --> I
-    H --> I
-    I --> J[GitHub Pages]
+    D --> E[Desarrollo pedagógico de 1° básico]
+    E --> F[Markdown]
+    E --> G[HTML]
+    F --> H[Validadores y pruebas]
+    G --> H
+    H --> I[GitHub Pages]
 ```
 
-Requiere Python 3.12:
+Los controles locales requieren Python 3.12:
 
 ```bash
 python scripts/generate_school_program.py
@@ -327,90 +286,49 @@ python scripts/validate_school_program.py
 python scripts/validate_licensing.py
 python -m unittest discover -s tests -p "test_*.py" -v
 ```
-
-El workflow regenera todo, exige diff vacío, compila scripts, ejecuta validadores y tests y solo entonces despliega Pages.
 
 ## ✅ Calidad y CI
 
-El repositorio no publica a ciegas. Cada `push` a `main` y cada pull request pasan por el workflow **Quality and Pages**.
+Cada cambio propuesto y cada actualización de `main` pasan por **Quality and Pages**. El flujo regenera los contenidos, comprueba que no haya diferencias sin registrar, valida conteos y campos, verifica licencias y enlaces, ejecuta pruebas, compila los scripts y publica GitHub Pages solo si todo queda en verde.
 
-| Etapa | Qué comprueba |
-|---|---|
-| Generación | reconstruye catálogo, 2.823 Markdown, 2.823 HTML, documentación y sitemap desde las fuentes |
-| Programa | conteos, campos, identificadores, 12.997 anclas Markdown/HTML, navegación y artefactos requeridos |
-| Licencias | presencia y coherencia de MIT, CC BY-NC-SA, datos, activos, terceros y política de fuentes |
-| Tests | verdad del catálogo, 1° básico completo, unicidad de códigos, páginas públicas y registro seguro |
-| Compilación | sintaxis de scripts y tests con Python 3.12 |
-| Reproducibilidad | `git diff --exit-code` después de regenerar; bloquea artefactos desactualizados |
-| Despliegue | empaqueta `site/` y publica GitHub Pages solo si toda la verificación anterior pasa |
-
-| ⚙️ Workflow | Jobs | Estado visible |
-|---|---|---|
-| [`.github/workflows/pages.yml`](.github/workflows/pages.yml) | `Generate and verify` → `Deploy GitHub Pages` | [badge y ejecuciones](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml) |
-
-Los mismos controles se ejecutan localmente:
-
-```bash
-python scripts/generate_school_program.py
-python scripts/validate_school_program.py
-python scripts/validate_licensing.py
-python -m unittest discover -s tests -p "test_*.py" -v
-python -m compileall -q scripts tests
-git diff --exit-code
-```
+El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflows/pages.yml). Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
 
 ## 🎯 Qué es y qué no es este programa
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### ✅ Sí es
 
-### ✅ Lo que sí es
+- un programa completo de 1° básico con 1.034 clases desarrolladas;
+- un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
+- una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
+- contenido editable en Markdown y navegable en HTML;
+- un proyecto transparente sobre fuentes, estado, revisión y licencias.
 
-- 📚 un mapa trazable de **12.997 clases** asociado a **2.823 OA** y 12 niveles;
-- 🧒 un programa de **1° básico desarrollado** con 1.034 clases, tareas, actividades y respuesta a dificultades;
-- 🧭 un portal para buscar, filtrar y abrir cada clase en HTML;
-- ✍️ contenido editable y revisable en Markdown, con identificadores estables;
-- 👩‍🏫 una caja de herramientas para docentes, equipos de apoyo, UTP, familias y revisores;
-- 🔎 un proyecto transparente sobre fuente, estado editorial, revisión humana y licencias.
+### ❌ No es
 
-</td>
-<td valign="top" width="50%">
-
-### ❌ Lo que no es
-
-- 🚫 una plataforma oficial del Ministerio de Educación ni una nueva base curricular;
-- 🚫 un horario que obligue a impartir las 12.997 clases o toda la oferta simultáneamente;
-- 🚫 un sustituto del conocimiento docente, del contexto territorial o de las adecuaciones pertinentes;
-- 🚫 una afirmación de revisión experta: actualmente hay **0 revisiones humanas registradas**;
-- 🚫 una aplicación móvil, un manual PDF ni un sistema de notas o seguimiento estudiantil;
-- 🚫 autorización para reproducir textos, imágenes o recursos enlazados de terceros.
-
-</td>
-</tr>
-</table>
+- doce programas escolares terminados;
+- 12.997 clases con desarrollo pedagógico completo;
+- una plataforma oficial del Ministerio de Educación;
+- un horario que obligue a enseñar toda la oferta simultáneamente;
+- una afirmación de revisión experta: hoy existen 0 revisiones humanas registradas;
+- una aplicación móvil, un sistema de notas o un registro de estudiantes.
 
 ## 💡 Idea fuerza
 
-> El valor de este proyecto no está en presumir 12.997 registros, sino en **convertir el currículum en decisiones de aprendizaje comprensibles**: qué se espera, cómo enseñarlo, qué puede hacer el estudiante, qué dificultad apareció y cuál es el siguiente paso.
+> La cifra importante hoy no es cuántos archivos existen, sino qué contenido puede comprenderse, adaptarse y mejorar con honestidad: **1° básico es el programa completo; los demás niveles son el camino de expansión**.
 
 ## 📖 Fuentes y derechos
 
-El registro curricular fue verificado el **2026-09-24** desde [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El proyecto conserva **595 enlaces de lectura** asociados por MINEDUC. Se enlazan recursos; no se reproducen obras protegidas ni se inventa obligatoriedad.
+El registro curricular fue verificado el **2026-09-24** desde [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). Se enlazan 595 recursos asociados por MINEDUC; no se reproducen obras protegidas ni se inventa obligatoriedad.
 
-El software original usa [MIT](LICENSE); las clases, tareas, actividades y guías originales usan [CC BY-NC-SA 4.0](LICENSE-CONTENT.md). Datos, activos y terceros tienen reglas propias en [DATA-LICENSE.md](DATA-LICENSE.md), [ASSET_LICENSES.md](ASSET_LICENSES.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Consulta la [guía simple](docs/LICENCIAS.md) o la [política completa](LICENSING.md).
-
-Proyecto independiente, sin representación del Ministerio de Educación de Chile.
+El software original usa [MIT](LICENSE). Las clases, tareas, actividades y guías originales usan [CC BY-NC-SA 4.0](LICENSE-CONTENT.md). Datos, activos y terceros tienen reglas específicas en [DATA-LICENSE.md](DATA-LICENSE.md), [ASSET_LICENSES.md](ASSET_LICENSES.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). La explicación en lenguaje simple está en [Licencias](docs/LICENCIAS.md).
 
 ---
 
 <div align="center">
 
-**Hecho para transformar el currículum en aprendizaje claro, humano y aplicable.**
+**Hecho para convertir el currículo en aprendizaje claro, humano y aplicable.**
 
-[⬆️ Volver al inicio](#-trayectoria-escolar-chile)
-
-<br>
+[🧒 Explorar 1° básico](docs/1-basico/README.md) · [📚 Ver la documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
 
 **¿Te resulta útil? ⭐ Dale una estrella al repositorio.**
 
