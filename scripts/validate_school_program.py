@@ -113,7 +113,7 @@ def validate(root: Path = ROOT) -> list[str]:
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     required_docs = {
-        "README.md": ("12.997", "2.823", "Documentación de principio a fin"),
+        "README.md": ("12.997", "2.823", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/1-basico/README.md": ("Las 11 asignaturas", "Progresión pedagógica común"),
@@ -123,6 +123,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
         "docs/REVISION_HUMANA.md": ("Protocolo de revisión humana", "Registro de evidencia"),
         "docs/QUE_ES_UN_OA.md": ("OA significa Objetivo de Aprendizaje", "OA, clase, actividad y evidencia"),
+        "docs/GLOSARIO.md": ("Glosario educativo", "Códigos rápidos"),
         "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
         "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
         "docs/COBERTURA.md": ("Cobertura completa y navegable", "12.997"),

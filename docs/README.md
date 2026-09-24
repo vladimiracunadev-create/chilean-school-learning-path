@@ -32,6 +32,7 @@ Aquí puedes responder:
 |---|---|---|
 | Entender el programa completo | [Syllabus](SYLLABUS.md) | público, resultados, estructura, ritmo, método, evaluación, inclusión y límites |
 | Entender qué significa OA | [Guía simple de OA](QUE_ES_UN_OA.md) | diferencia entre objetivo, clase, actividad, tarea y evidencia |
+| Consultar términos y siglas | [Glosario educativo](GLOSARIO.md) | OA, OAH, OAA, evidencia, apoyos, estados y códigos |
 | Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
@@ -98,6 +99,7 @@ README.md
 ├── docs/README.md                 ← este centro
 ├── docs/SYLLABUS.md               ← visión completa de uso
 ├── docs/QUE_ES_UN_OA.md           ← explicación sin jerga
+├── docs/GLOSARIO.md               ← términos, siglas y estados
 ├── docs/COBERTURA.md              ← 12 niveles navegables
 ├── docs/ROLES_DOCENTES.md         ← equipo profesional de aula
 ├── docs/DIFICULTADES_EN_EL_AULA.md ← acciones observables

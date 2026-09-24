@@ -13,13 +13,23 @@
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-1.034%20desarrolladas-23875a?style=for-the-badge)](docs/1-basico/README.md)
 [![Revisión humana](https://img.shields.io/badge/revisi%C3%B3n%20humana-0%20registradas-6b7280?style=for-the-badge)](EDITORIAL_STATUS.md)
 
-[🌐 Abrir el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [📚 Documentación visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html) · [🧒 1° básico completo](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [📘 Syllabus](docs/SYLLABUS.md) · [🗺️ Roadmap](ROADMAP.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[![Idioma](https://img.shields.io/badge/idioma-español-blue?style=flat-square)](README.md)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](.github/workflows/pages.yml)
+[![Markdown](https://img.shields.io/badge/Markdown-2.823%20fichas-000000?style=flat-square&logo=markdown&logoColor=white)](CURRICULUM.md)
+[![HTML](https://img.shields.io/badge/HTML-2.823%20páginas-E34F26?style=flat-square&logo=html5&logoColor=white)](https://vladimiracunadev-create.github.io/chilean-school-learning-path/)
+[![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
+[![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-sitio%20vivo-222?style=flat-square&logo=githubpages&logoColor=white)](https://vladimiracunadev-create.github.io/chilean-school-learning-path/)
+
+[🌐 Abrir el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [📚 Documentación visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html) · [🧒 1° básico completo](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [🗂️ Índice completo](CURRICULUM.md) · [📖 Glosario](docs/GLOSARIO.md) · [🧭 Rutas de uso](LEARNING_PATHS.md) · [📘 Syllabus](docs/SYLLABUS.md) · [🗺️ Roadmap](ROADMAP.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 </div>
 
 ---
 
 > **Transparencia editorial.** Las 12.997 clases están inventariadas, secuenciadas y publicadas. Hay **1.056 desarrolladas**: las 1.034 de 1° básico y 22 pilotos de otros niveles. Existen **0 clases declaradas como revisadas** porque todavía no se ha registrado revisión humana completa. Publicar no equivale a revisar.
+
+> ⚠️ **Uso responsable.** Este es un proyecto educativo independiente. No sustituye las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes ni el juicio profesional. Nunca se deben publicar aquí datos identificables de estudiantes.
 
 ## 🧭 OA, en palabras simples
 
@@ -56,6 +66,49 @@ No entrega una frase genérica por clase. Una clase desarrollada contiene:
 - La documentación puede quedar desincronizada de los datos y del portal.
 
 El proyecto responde con trazabilidad, estructura estable, contenido disciplinar, validación automática y estados editoriales explícitos.
+
+## 📖 De dónde sale el contenido
+
+El punto de partida no es una colección informal de temas: es el [Currículum Nacional de Chile](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El repositorio conserva un snapshot estructurado, la URL oficial de cada objetivo y la fecha de verificación.
+
+| Capa | Fuente de verdad | Qué permite comprobar |
+|---|---|---|
+| Oferta curricular | [`sources/mineduc-curriculum-snapshot.json`](sources/mineduc-curriculum-snapshot.json) | niveles, asignaturas, ejes, códigos y textos de OA |
+| Catálogo de clases | [`curriculum/catalog.json`](curriculum/catalog.json) | 12.997 identificadores, estados, rutas Markdown y rutas HTML |
+| Desarrollo pedagógico | [`content/developed-lessons.json`](content/developed-lessons.json) y generador de 1° básico | contenido editorial específico y campos obligatorios |
+| Referencias oficiales | [OFFICIAL_REFERENCES.md](OFFICIAL_REFERENCES.md) | Bases Curriculares, Programas de Estudio, lecturas y marco legal |
+| Derechos y procedencia | [DATA-LICENSE.md](DATA-LICENSE.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) | qué se enlaza, qué se redistribuye y bajo qué condiciones |
+
+El snapshot fue comprobado el **2026-09-24**. Conserva **595 enlaces de lectura** asociados desde fichas oficiales. Esos enlaces no convierten las obras en contenido propio ni en lecturas obligatorias; el repositorio no reproduce sus textos.
+
+## 🌐 Portal, navegación y formatos
+
+El [portal web](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) convierte el catálogo en una experiencia navegable:
+
+- búsqueda por palabra, OA o código de clase;
+- filtros por nivel, asignatura y tipo de cobertura;
+- enlace directo a cada clase mediante una ancla estable;
+- navegación entre objetivos anterior y siguiente;
+- vista dedicada de 1° básico y centro documental visual;
+- tema claro/oscuro y diseño adaptable;
+- funcionamiento sin cuentas, telemetría ni envío de datos del usuario.
+
+| Salida | Cantidad | Para qué sirve |
+|---|---:|---|
+| Markdown por OA | 2.823 | edición, revisión, historial y reutilización |
+| HTML por OA | 2.823 | lectura visual y navegación web |
+| Anclas de clase en ambos formatos | 12.997 | enlaces estables a cada propuesta |
+| Catálogo JSON | 12.997 registros | búsquedas, filtros y validación automática |
+| Documentación de 1° básico | 11 guías de asignatura | comprender progresión, método y evidencia |
+
+No existe todavía una aplicación móvil ni un manual PDF oficial de este proyecto. Para trabajar sin conexión se puede descargar o clonar el repositorio: las fichas Markdown son legibles directamente y el sitio estático usa sus propios HTML, CSS, JavaScript y datos, sin depender de una cuenta.
+
+### 📥 Accesos directos y descargas
+
+- [Índice completo del currículo](CURRICULUM.md) — los 2.823 OA organizados por nivel y asignatura.
+- [Catálogo estructurado](curriculum/catalog.json) — las 12.997 clases en JSON.
+- [Descargar el repositorio como ZIP](https://github.com/vladimiracunadev-create/chilean-school-learning-path/archive/refs/heads/main.zip) — contenido y sitio para consulta local.
+- [Cómo se corresponden Markdown y HTML](docs/FORMATOS.md) — rutas, anclas y controles.
 
 ## 📍 Estado actual
 
@@ -128,6 +181,42 @@ El orden hace visible el aprendizaje. No obliga a avanzar por calendario: la evi
 | Dificultades y acciones | ¿Qué hago si aparece una barrera? | acción inmediata y comprobación |
 | Roles profesionales | ¿Quién conduce y quién aporta? | coordinación explícita sin delegar el OA |
 
+## 🧰 Caja de herramientas pedagógicas
+
+El valor práctico no está solo en contar clases. El repositorio conecta cada planificación con recursos para tomar decisiones reales:
+
+- 📖 **[Glosario educativo](docs/GLOSARIO.md):** OA, eje, cobertura, evidencia, criterio, apoyo, profundización y siglas frecuentes.
+- 🧩 **[Actividades y tareas](TEACHING_GUIDE.md#tareas-y-actividades-complementarias):** cada clase desarrollada de 1° básico incluye una tarea flexible y tres actividades complementarias diferenciadas.
+- ⚠️ **[Dificultades con acciones](docs/DIFICULTADES_EN_EL_AULA.md):** señal observable → acción inmediata → comprobación → decisión.
+- 👥 **[Roles profesionales](docs/ROLES_DOCENTES.md):** responsabilidades del docente, especialistas, educación diferencial, asistentes, CRA, convivencia y otros apoyos.
+- 📊 **[Rúbrica transversal](docs/RUBRICA_EVALUACION.md):** cuatro lecturas de evidencia y la acción pedagógica asociada.
+- 🏠 **[Guía para familias](docs/GUIA_FAMILIAS.md):** acompañar el aprendizaje sin reemplazar al estudiante ni convertir el hogar en otra jornada escolar.
+- ♿ **[Evaluación formativa](docs/EVALUACION_FORMATIVA.md):** cambiar acceso, reagrupar y volver a comprobar sin reducir el OA.
+- 🔎 **[Revisión humana](docs/REVISION_HUMANA.md):** cómo una persona competente registra una revisión real.
+
+## 🧭 Rutas según quién usa el repositorio
+
+No todas las personas deben leerlo en el mismo orden. Las [rutas de uso completas](LEARNING_PATHS.md) organizan el recorrido por tarea:
+
+| Persona o equipo | Empieza aquí | Resultado esperado |
+|---|---|---|
+| Docente de 1° básico | [Programa del nivel](docs/1-basico/README.md) | preparar una clase contextualizada y recoger evidencia útil |
+| Docente especialista | [Guías por asignatura](docs/1-basico/README.md#-las-11-asignaturas) | comprender progresión disciplinar, errores y criterios |
+| Educación diferencial o equipo de apoyo | [Roles](docs/ROLES_DOCENTES.md) y [dificultades](docs/DIFICULTADES_EN_EL_AULA.md) | acordar barrera, acción, vía de acceso y comprobación |
+| Coordinación pedagógica o UTP | [Cobertura](docs/COBERTURA.md) y [estado editorial](EDITORIAL_STATUS.md) | revisar cobertura y calidad sin confundir publicación con revisión |
+| Familia o persona cuidadora | [Guía para familias](docs/GUIA_FAMILIAS.md) | entender el propósito y acompañar sin hacer la tarea |
+| Revisor o colaborador | [Metodología](METHODOLOGY.md) y [contribución](CONTRIBUTING.md) | proponer una mejora trazable que no rompa el catálogo |
+| Mantenedor | [Estándar de calidad](QUALITY_STANDARD.md) | regenerar, validar y publicar sin deriva |
+
+## 👩‍🏫 Para docentes y equipos pedagógicos
+
+- 📅 **[Syllabus](docs/SYLLABUS.md):** alcance, resultados, ritmo y planificación anual de 1° básico.
+- 🗂️ **[Programa completo de 1° básico](docs/1-basico/README.md):** 237 OA, 1.034 clases y 11 asignaturas.
+- 🧭 **[Guía pedagógica](TEACHING_GUIDE.md):** qué hacer antes, durante y después de una clase.
+- 📊 **[Rúbrica de evaluación](docs/RUBRICA_EVALUACION.md):** criterios observables y decisiones posteriores.
+- ❓ **[Preguntas frecuentes](docs/FAQ.md):** tiempos, cobertura, adaptación, fuentes y límites.
+- 🧪 **[Protocolo de revisión humana](docs/REVISION_HUMANA.md):** muestreo, severidad, registro y evidencia.
+
 ## 🧭 Cómo usarlo en seis pasos
 
 1. Elige nivel, asignatura y OA en el [portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/).
@@ -179,6 +268,7 @@ En lengua y cultura de pueblos originarios, la propuesta debe ajustarse al terri
 | [Centro documental](docs/README.md) | mapa completo y rutas |
 | [Syllabus](docs/SYLLABUS.md) | público, resultados, estructura, ritmo y planificación |
 | [¿Qué es un OA?](docs/QUE_ES_UN_OA.md) | explicación simple de códigos, clases, actividades y evidencia |
+| [Glosario educativo](docs/GLOSARIO.md) | términos, siglas, estados y códigos del proyecto |
 | [Programa de 1° básico](docs/1-basico/README.md) | narrativa, asignaturas y progresión |
 | [11 guías de asignatura](docs/1-basico/README.md) | recorrido OA por OA |
 | [Guía pedagógica](TEACHING_GUIDE.md) | preparación, conducción y adaptación |
@@ -240,6 +330,70 @@ python -m unittest discover -s tests -p "test_*.py" -v
 ```
 
 El workflow regenera todo, exige diff vacío, compila scripts, ejecuta validadores y tests y solo entonces despliega Pages.
+
+## ✅ Calidad y CI
+
+El repositorio no publica a ciegas. Cada `push` a `main` y cada pull request pasan por el workflow **Quality and Pages**.
+
+| Etapa | Qué comprueba |
+|---|---|
+| Generación | reconstruye catálogo, 2.823 Markdown, 2.823 HTML, documentación y sitemap desde las fuentes |
+| Programa | conteos, campos, identificadores, 12.997 anclas Markdown/HTML, navegación y artefactos requeridos |
+| Licencias | presencia y coherencia de MIT, CC BY-NC-SA, datos, activos, terceros y política de fuentes |
+| Tests | verdad del catálogo, 1° básico completo, unicidad de códigos, páginas públicas y registro seguro |
+| Compilación | sintaxis de scripts y tests con Python 3.12 |
+| Reproducibilidad | `git diff --exit-code` después de regenerar; bloquea artefactos desactualizados |
+| Despliegue | empaqueta `site/` y publica GitHub Pages solo si toda la verificación anterior pasa |
+
+| ⚙️ Workflow | Jobs | Estado visible |
+|---|---|---|
+| [`.github/workflows/pages.yml`](.github/workflows/pages.yml) | `Generate and verify` → `Deploy GitHub Pages` | [badge y ejecuciones](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml) |
+
+Los mismos controles se ejecutan localmente:
+
+```bash
+python scripts/generate_school_program.py
+python scripts/validate_school_program.py
+python scripts/validate_licensing.py
+python -m unittest discover -s tests -p "test_*.py" -v
+python -m compileall -q scripts tests
+git diff --exit-code
+```
+
+## 🎯 Qué es y qué no es este programa
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ✅ Lo que sí es
+
+- 📚 un mapa trazable de **12.997 clases** asociado a **2.823 OA** y 12 niveles;
+- 🧒 un programa de **1° básico desarrollado** con 1.034 clases, tareas, actividades y respuesta a dificultades;
+- 🧭 un portal para buscar, filtrar y abrir cada clase en HTML;
+- ✍️ contenido editable y revisable en Markdown, con identificadores estables;
+- 👩‍🏫 una caja de herramientas para docentes, equipos de apoyo, UTP, familias y revisores;
+- 🔎 un proyecto transparente sobre fuente, estado editorial, revisión humana y licencias.
+
+</td>
+<td valign="top" width="50%">
+
+### ❌ Lo que no es
+
+- 🚫 una plataforma oficial del Ministerio de Educación ni una nueva base curricular;
+- 🚫 un horario que obligue a impartir las 12.997 clases o toda la oferta simultáneamente;
+- 🚫 un sustituto del conocimiento docente, del contexto territorial o de las adecuaciones pertinentes;
+- 🚫 una afirmación de revisión experta: actualmente hay **0 revisiones humanas registradas**;
+- 🚫 una aplicación móvil, un manual PDF ni un sistema de notas o seguimiento estudiantil;
+- 🚫 autorización para reproducir textos, imágenes o recursos enlazados de terceros.
+
+</td>
+</tr>
+</table>
+
+## 💡 Idea fuerza
+
+> El valor de este proyecto no está en presumir 12.997 registros, sino en **convertir el currículum en decisiones de aprendizaje comprensibles**: qué se espera, cómo enseñarlo, qué puede hacer el estudiante, qué dificultad apareció y cuál es el siguiente paso.
 
 ## 📖 Fuentes y derechos
 
