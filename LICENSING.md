@@ -12,11 +12,19 @@
 | Marca y logos | fuera del alcance automático de MIT/CC |
 | Datos personales/secretos | no publicar |
 
+## Respuesta rápida
+
+- Si es **código original**, aplica MIT y se conserva el aviso de licencia.
+- Si es una **clase, tarea, actividad, guía o rúbrica original**, aplica CC BY-NC-SA 4.0.
+- Si es un **dato o metadato**, se revisa `DATA-LICENSE.md` y su procedencia.
+- Si es una **obra o recurso externo**, conserva la licencia de su titular; un enlace no concede permiso para copiar.
+- Si no puede determinarse la licencia, no se redistribuye.
+
 ## Software
 
 `LICENSE` aplica al **software original del proyecto**, salvo declaración específica distinta.
-Esto incluye normalmente `src/`, `app/`, `api/`, `scripts/`, `tests/`, `tools/`,
-`school_knowledge/`, `cli/`, `frontend/` y `backend/`.
+En este repositorio incluye `scripts/`, `tests/`, `site/app.js` y el código funcional original,
+salvo aviso específico distinto.
 
 SPDX recomendado: `SPDX-License-Identifier: MIT`.
 
@@ -25,9 +33,14 @@ software.
 
 ## Contenido educativo
 
-`LICENSE-CONTENT.md` aplica al contenido original de `curriculum/`, `classes/`, `lessons/`,
-`actividades/`, `activities/`, `rubrics/`, `cases/`, `guides/`, `training/` y equivalentes,
-salvo aviso específico.
+`LICENSE-CONTENT.md` aplica al contenido educativo original de `curriculum/`, `content/`,
+`docs/`, guías raíz y páginas educativas generadas bajo `site/classes/`, salvo aviso específico.
+
+Ejemplo de atribución:
+
+> “Trayectoria Escolar Chile”, por Vladimir Acuña (`vladimiracunadev-create`),
+> CC BY-NC-SA 4.0, https://github.com/vladimiracunadev-create/chilean-school-learning-path.
+> Adaptado por [nombre], [fecha].
 
 ## Datos
 
@@ -38,6 +51,9 @@ procedencia, licencia, restricciones, fecha y permisos de redistribución/deriva
 
 Libros, papers, textos escolares, imágenes, videos, recursos MINEDUC/BCN, datasets, modelos,
 pesos de IA y software externo conservan sus derechos y licencias originales.
+
+El proyecto enlaza 595 recursos de lectura asociados por MINEDUC, pero no los republica ni los
+declara obligatorios. Las descripciones curriculares mantienen enlace y fecha de consulta.
 
 ## IA
 
@@ -55,6 +71,11 @@ Antes de publicar contenido asistido por IA:
 4. datos → `DATA-LICENSE.md`;
 5. terceros → licencia original;
 6. origen/licencia desconocidos → no redistribuir.
+
+## Activos visuales y marca
+
+`ASSET_LICENSES.md` identifica los activos incluidos. `TRADEMARKS.md` regula nombre, identidad y
+marcas: una licencia de código o contenido no concede automáticamente derechos de marca.
 
 ## Licenciamiento dual
 

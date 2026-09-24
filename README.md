@@ -21,6 +21,12 @@
 
 > **Transparencia editorial.** Las 12.997 clases están inventariadas, secuenciadas y publicadas. Hay **1.056 desarrolladas**: las 1.034 de 1° básico y 22 pilotos de otros niveles. Existen **0 clases declaradas como revisadas** porque todavía no se ha registrado revisión humana completa. Publicar no equivale a revisar.
 
+## 🧭 OA, en palabras simples
+
+**OA significa Objetivo de Aprendizaje:** indica qué debe llegar a comprender o hacer el estudiante. No es una clase ni una actividad. Por eso un OA se transforma aquí en una secuencia de 4 a 7 clases con práctica, tareas, actividades complementarias y evidencia.
+
+`MA01 OA 01` significa Matemática · 1° básico · Objetivo de Aprendizaje 1. La [guía “¿Qué es un OA?”](docs/QUE_ES_UN_OA.md) explica cada parte con un ejemplo completo.
+
 ## 🎯 Qué es este proyecto
 
 Trayectoria Escolar Chile transforma el currículo oficial en un sistema práctico para docentes, equipos pedagógicos, familias y revisores. Cada OA conserva su fuente y se despliega en 4 a 7 clases identificadas de manera estable.
@@ -34,6 +40,10 @@ No entrega una frase genérica por clase. Una clase desarrollada contiene:
 - apoyo que conserva el OA y profundización no mecánica;
 - ticket, evidencia, criterios observables y decisión posterior;
 - adaptación de 90 a 45 minutos;
+- tarea breve, flexible y sin dependencia de internet o compras;
+- actividades complementarias de recuperación y profundización;
+- control de dificultades con acción inmediata y comprobación;
+- coordinación de roles profesionales dentro del aula;
 - fuente curricular y estado editorial.
 
 ## 🧩 Qué problemas busca resolver
@@ -113,6 +123,10 @@ El orden hace visible el aprendizaje. No obliga a avanzar por calendario: la evi
 | Ticket | ¿Qué observo al cerrar? | respuesta breve |
 | Criterios | ¿Qué cuenta como logro? | señales observables |
 | Decisión posterior | ¿Qué hago mañana? | avanzar, reagrupar o reenseñar |
+| Tarea flexible | ¿Cómo consolida sin sobrecarga? | experiencia breve y accesible |
+| Actividades complementarias | ¿Qué opción uso según la evidencia? | recuperación, práctica o profundidad |
+| Dificultades y acciones | ¿Qué hago si aparece una barrera? | acción inmediata y comprobación |
+| Roles profesionales | ¿Quién conduce y quién aporta? | coordinación explícita sin delegar el OA |
 
 ## 🧭 Cómo usarlo en seis pasos
 
@@ -164,10 +178,16 @@ En lengua y cultura de pueblos originarios, la propuesta debe ajustarse al terri
 |---|---|
 | [Centro documental](docs/README.md) | mapa completo y rutas |
 | [Syllabus](docs/SYLLABUS.md) | público, resultados, estructura, ritmo y planificación |
+| [¿Qué es un OA?](docs/QUE_ES_UN_OA.md) | explicación simple de códigos, clases, actividades y evidencia |
 | [Programa de 1° básico](docs/1-basico/README.md) | narrativa, asignaturas y progresión |
 | [11 guías de asignatura](docs/1-basico/README.md) | recorrido OA por OA |
 | [Guía pedagógica](TEACHING_GUIDE.md) | preparación, conducción y adaptación |
+| [Roles profesionales](docs/ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
+| [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md) | señales, acciones y comprobación |
 | [Rúbrica](docs/RUBRICA_EVALUACION.md) | evidencia y decisiones |
+| [Cobertura navegable](docs/COBERTURA.md) | 12 niveles con acceso directo |
+| [Formatos](docs/FORMATOS.md) | 12.997 clases en Markdown y HTML |
+| [Licencias](docs/LICENCIAS.md) | reutilización de código, contenido, datos y activos |
 | [FAQ](docs/FAQ.md) | dudas, límites y uso |
 | [Guía para familias](docs/GUIA_FAMILIAS.md) | acompañamiento |
 | [Revisión humana](docs/REVISION_HUMANA.md) | protocolo, listas y registro |
@@ -179,18 +199,18 @@ En lengua y cultura de pueblos originarios, la propuesta debe ajustarse al terri
 
 | Nivel | OA | Clases | Estado de desarrollo |
 |---|---:|---:|---|
-| 1° básico | 237 | 1.034 | completo |
-| 2° básico | 247 | 1.072 | secuenciado |
-| 3° básico | 257 | 1.136 | 11 clases piloto |
-| 4° básico | 268 | 1.195 | 4 clases piloto |
-| 5° básico | 295 | 1.340 | secuenciado |
-| 6° básico | 301 | 1.374 | secuenciado |
-| 7° básico | 275 | 1.275 | secuenciado |
-| 8° básico | 253 | 1.201 | 7 clases piloto |
-| 1° medio | 253 | 1.209 | secuenciado |
-| 2° medio | 248 | 1.200 | secuenciado |
-| 3° medio FG | 98 | 495 | secuenciado |
-| 4° medio FG | 91 | 466 | secuenciado |
+| [1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0%20b%C3%A1sico#explorar) | 237 | 1.034 | completo |
+| [2° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=2%C2%B0%20b%C3%A1sico#explorar) | 247 | 1.072 | secuenciado |
+| [3° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=3%C2%B0%20b%C3%A1sico#explorar) | 257 | 1.136 | 11 clases piloto |
+| [4° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=4%C2%B0%20b%C3%A1sico#explorar) | 268 | 1.195 | 4 clases piloto |
+| [5° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=5%C2%B0%20b%C3%A1sico#explorar) | 295 | 1.340 | secuenciado |
+| [6° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=6%C2%B0%20b%C3%A1sico#explorar) | 301 | 1.374 | secuenciado |
+| [7° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=7%C2%B0%20b%C3%A1sico#explorar) | 275 | 1.275 | secuenciado |
+| [8° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=8%C2%B0%20b%C3%A1sico#explorar) | 253 | 1.201 | 7 clases piloto |
+| [1° medio](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0%20medio#explorar) | 253 | 1.209 | secuenciado |
+| [2° medio](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=2%C2%B0%20medio#explorar) | 248 | 1.200 | secuenciado |
+| [3° medio · Formación General](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=3%C2%B0%20medio%20%C2%B7%20Formaci%C3%B3n%20General#explorar) | 98 | 495 | secuenciado |
+| [4° medio · Formación General](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=4%C2%B0%20medio%20%C2%B7%20Formaci%C3%B3n%20General#explorar) | 91 | 466 | secuenciado |
 | **Total** | **2.823** | **12.997** | **1.056 desarrolladas** |
 
 ## 🔎 Fuente, generación y controles
@@ -225,6 +245,26 @@ El workflow regenera todo, exige diff vacío, compila scripts, ejecuta validador
 
 El snapshot fue verificado el **2026-09-24** desde [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El catálogo conserva **595 enlaces de lectura** asociados por MINEDUC. Se enlazan recursos; no se reproducen obras protegidas ni se inventa obligatoriedad.
 
-El software usa licencia MIT y el contenido educativo original CC BY-NC-SA 4.0. Consulta [LICENSING.md](LICENSING.md).
+El software original usa [MIT](LICENSE); las clases, tareas, actividades y guías originales usan [CC BY-NC-SA 4.0](LICENSE-CONTENT.md). Datos, activos y terceros tienen reglas propias en [DATA-LICENSE.md](DATA-LICENSE.md), [ASSET_LICENSES.md](ASSET_LICENSES.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Consulta la [guía simple](docs/LICENCIAS.md) o la [política completa](LICENSING.md).
 
 Proyecto independiente, sin representación del Ministerio de Educación de Chile.
+
+---
+
+<div align="center">
+
+**Hecho para transformar el currículum en aprendizaje claro, humano y aplicable.**
+
+[⬆️ Volver al inicio](#-trayectoria-escolar-chile)
+
+<br>
+
+**¿Te resulta útil? ⭐ Dale una estrella al repositorio.**
+
+[![GitHub stars](https://img.shields.io/github/stars/vladimiracunadev-create/chilean-school-learning-path?style=social)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/vladimiracunadev-create/chilean-school-learning-path?style=social)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/network/members)
+[![Follow](https://img.shields.io/github/followers/vladimiracunadev-create?style=social&label=Follow)](https://github.com/vladimiracunadev-create)
+
+Hecho con cuidado pedagógico por [Vladimir Acuña](https://github.com/vladimiracunadev-create)
+
+</div>

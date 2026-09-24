@@ -17,8 +17,9 @@ Compartir y adaptar el contenido, siempre que se cumplan:
 
 ## Atribución sugerida
 
-> "[NOMBRE DEL PROGRAMA]", por Vladimir Acuña. CC BY-NC-SA 4.0. [URL].
-> Modificado por [NOMBRE], [FECHA], si corresponde.
+> “Trayectoria Escolar Chile”, por Vladimir Acuña (`vladimiracunadev-create`).
+> CC BY-NC-SA 4.0. https://github.com/vladimiracunadev-create/chilean-school-learning-path.
+> Adaptado por [NOMBRE], [FECHA], si corresponde.
 
 ## Cubre normalmente
 
@@ -31,7 +32,7 @@ Código fuente, software, obras de terceros, textos escolares, papers, imágenes
 datasets externos, normas/documentos oficiales, marcas, logotipos ni datos personales.
 
 Las obras de terceros conservan su licencia original. Consulta `LICENSING.md`,
-`DATA-LICENSE.md` y `THIRD_PARTY_NOTICES.md`.
+`DATA-LICENSE.md`, `ASSET_LICENSES.md` y `THIRD_PARTY_NOTICES.md`.
 
 ## Uso comercial
 

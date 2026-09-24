@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_FILES = [
     "LICENSE", "LICENSE-CONTENT.md", "LICENSING.md", "DATA-LICENSE.md",
-    "THIRD_PARTY_NOTICES.md", "TRADEMARKS.md", "CURRICULUM.md",
+    "THIRD_PARTY_NOTICES.md", "ASSET_LICENSES.md", "TRADEMARKS.md", "CURRICULUM.md",
     "LEARNING_PATHS.md", "OFFICIAL_REFERENCES.md", "curriculum/catalog.json",
     "site/index.html", "site/styles.css", "site/app.js",
 ]
@@ -43,6 +43,16 @@ def validate(root: Path = ROOT) -> list[str]:
     for token in ("MIT License", "Permission is hereby granted, free of charge", 'THE SOFTWARE IS PROVIDED "AS IS"'):
         if token not in license_text:
             errors.append(f"LICENSE incompleto: {token}")
+
+    content_license = (root / "LICENSE-CONTENT.md").read_text(encoding="utf-8")
+    for token in ("Trayectoria Escolar Chile", "CC BY-NC-SA 4.0", "chilean-school-learning-path"):
+        if token not in content_license:
+            errors.append(f"LICENSE-CONTENT.md incompleto: {token}")
+
+    data_license = (root / "DATA-LICENSE.md").read_text(encoding="utf-8")
+    for token in ("mineduc-curriculum-snapshot.json", "curriculum/catalog.json", "developed-lessons.json"):
+        if token not in data_license:
+            errors.append(f"DATA-LICENSE.md no documenta {token}")
 
     for path in (root / "examples").glob("*.json"):
         document = load_json(path, errors, root)

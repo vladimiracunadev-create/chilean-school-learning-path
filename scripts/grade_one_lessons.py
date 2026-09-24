@@ -177,6 +177,58 @@ NEXT_STEPS = {
     "tecnologia": "Si construyen sin propósito, vuelve a usuario y necesidad; si el objeto responde al criterio, agrega una restricción y realiza una nueva prueba.",
 }
 
+HOME_TASKS = {
+    "artes-visuales": "Busca en casa dos objetos con texturas distintas, dibuja un detalle de cada uno y cuenta qué sensación visual quisiste conservar",
+    "ciencias-naturales": "Observa durante cinco minutos un objeto, ser vivo o fenómeno seguro, registra tres detalles y separa lo que viste de lo que supones",
+    "educacion-fisica-salud": "Practica en un espacio seguro una versión suave del movimiento y registra con una palabra o dibujo qué ayudó a mantener el control",
+    "historia-geografia-ciencias-sociales": "Conversa con una persona adulta sobre una rutina, lugar u objeto cercano y registra un dato sin incluir información privada",
+    "ingles-propuesta": "Usa la expresión trabajada en un intercambio de dos turnos con una persona o un juguete y dibuja la pista que ayudó a comprender",
+    "lengua-cultura-pueblos-originarios-ancestrales": "Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal",
+    "lenguaje-comunicacion": "Lee, escucha o cuenta un texto breve a alguien y registra una idea importante y la pista que permitió comprenderla",
+    "matematica": "Encuentra una situación cotidiana que pueda representarse con objetos o dibujo, resuélvela y muestra una forma de comprobar",
+    "musica": "Escucha sonidos seguros del entorno, elige dos, represéntalos con trazos y explica en qué se parecen o diferencian",
+    "orientacion": "Elige una rutina de autocuidado o convivencia, practícala con apoyo familiar y registra qué paso resultó más útil sin contar asuntos privados",
+    "tecnologia": "Observa un objeto cotidiano, identifica a quién ayuda, qué necesidad resuelve y dibuja una mejora posible sin construirla todavía",
+}
+
+COMPLEMENTARY_ACTIVITIES = {
+    "artes-visuales": "Galería silenciosa: observar tres producciones y dejar una pregunta sobre una decisión visual, nunca sobre si quedó bonita.",
+    "ciencias-naturales": "Mesa de evidencias: clasificar nuevos casos en «observo», «pienso» y «necesito comprobar».",
+    "educacion-fisica-salud": "Estación de control: repetir el movimiento a tres ritmos y comparar seguridad, precisión y esfuerzo percibido.",
+    "historia-geografia-ciencias-sociales": "Fuente sorpresa: incorporar una imagen, objeto o plano nuevo y decidir qué permite saber y qué no.",
+    "ingles-propuesta": "Information gap breve: cada pareja posee una pista diferente y debe intercambiar significado, no repetir de memoria.",
+    "lengua-cultura-pueblos-originarios-ancestrales": "Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.",
+    "lenguaje-comunicacion": "Taller de revisión: comparar dos versiones breves y justificar qué cambio ayuda más al destinatario.",
+    "matematica": "Desafío de representaciones: mostrar el mismo caso con objetos, dibujo y símbolo y localizar dónde aparece la misma relación.",
+    "musica": "Laboratorio sonoro: transformar una sola cualidad del patrón y describir el efecto audible.",
+    "orientacion": "Teatro de decisiones: ensayar dos respuestas seguras ante un caso ficticio y comparar consecuencias.",
+    "tecnologia": "Prueba de usuario: otra pareja usa el prototipo o boceto y entrega evidencia ligada a un criterio acordado.",
+}
+
+SPECIALIST_COORDINATION = {
+    "artes-visuales": "El docente de Artes, si participa, aporta técnica y apreciación; educación diferencial acuerda una vía de acceso sin intervenir la obra del estudiante.",
+    "ciencias-naturales": "El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.",
+    "educacion-fisica-salud": "El docente especialista define progresión y seguridad; otros adultos supervisan zonas acordadas y reportan evidencia con el mismo criterio.",
+    "historia-geografia-ciencias-sociales": "El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.",
+    "ingles-propuesta": "El especialista de Inglés modela significado y pronunciación; los apoyos mantienen gesto, imagen y ensayo sin exigir traducción palabra por palabra.",
+    "lengua-cultura-pueblos-originarios-ancestrales": "El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.",
+    "lenguaje-comunicacion": "El docente conduce comprensión y producción; educador diferencial o fonoaudiólogo, cuando corresponda al plan del estudiante, asesora acceso sin reemplazar la enseñanza ni diagnosticar en clase.",
+    "matematica": "El docente hace visible el razonamiento; educación diferencial propone representaciones accesibles y el asistente formula preguntas, sin entregar el procedimiento.",
+    "musica": "El especialista modela escucha e interpretación; otros adultos apoyan regulación del ambiente y participación sin convertir el apoyo en ejecución por el estudiante.",
+    "orientacion": "El profesor jefe conduce casos pedagógicos; convivencia u orientación escolar interviene según protocolo cuando aparece una situación real, sin exponerla ante el curso.",
+    "tecnologia": "El docente guía diseño y prueba; asistente o encargado de recursos apoya seguridad y distribución de herramientas sin decidir la solución.",
+}
+
+HOME_PHASES = {
+    "Conectar y diagnosticar": "Antes de la próxima clase, reúne un ejemplo inicial sin corregirlo todavía.",
+    "Comprender y modelar": "Explica a otra persona o a un personaje imaginario el paso que te resultó más importante.",
+    "Practicar con apoyo": "Repite un caso breve usando la pista aprendida y marca cuándo pudiste retirarla.",
+    "Aplicar con autonomía": "Crea o resuelve un caso distinto al trabajado y conserva una huella de tu decisión.",
+    "Contrastar y profundizar": "Compara dos posibilidades y registra una semejanza, una diferencia y tu elección.",
+    "Transferir al contexto": "Busca una situación cercana donde sirva el mismo aprendizaje y explica la conexión.",
+    "Demostrar y retroalimentar": "Revisa una producción anterior, mejora una decisión y señala qué cambió.",
+}
+
 
 def _short(text: str, limit: int = 120) -> str:
     clean = re.sub(r"\s+", " ", text).strip().rstrip(".")
@@ -211,5 +263,19 @@ def build_grade_one_lessons(item: dict) -> dict:
             "criteria": profile["criteria"],
             "next_step": NEXT_STEPS[item["subject_slug"]],
             "short_version": "Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.",
+            "home_task": f"Tarea breve y flexible (10 minutos): {HOME_PHASES[phase]} {HOME_TASKS[item['subject_slug']]}. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.",
+            "complementary": [
+                COMPLEMENTARY_ACTIVITIES[item["subject_slug"]],
+                f"Recuperación opcional: vuelve a un ejemplo concreto de «{title_topic}», ofrece una sola pista y retírala cuando el estudiante explique la decisión.",
+                f"Profundización opcional: cambia una condición del desafío sobre «{title_topic}» y pide predecir, comprobar y revisar.",
+            ],
+            "difficulty_actions": [
+                {"signal": "No inicia o no comprende la consigna", "action": "Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero.", "check": "Inicia el primer paso sin copiar el ejemplo."},
+                {"signal": "Participa, pero no demuestra el aprendizaje", "action": f"Vuelve al criterio «{profile['criteria'][0]}» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente.", "check": "La producción individual permite atribuir una decisión al estudiante."},
+                {"signal": "Se frustra, evita o abandona", "action": "Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente.", "check": "Retoma la tarea y completa un intento observable."},
+                {"signal": "El grupo pierde foco o aparecen conflictos", "action": "Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible.", "check": "El grupo sostiene un ciclo completo respetando la regla."},
+                {"signal": "Termina rápido sin explicar", "action": f"No agregues repetición. {profile['extension'].capitalize()}.", "check": "Compara, justifica o transfiere en vez de acumular respuestas."},
+            ],
+            "specialist_coordination": SPECIALIST_COORDINATION[item["subject_slug"]],
         })
     return {"generated_for": "1-basico", "lessons": lessons}

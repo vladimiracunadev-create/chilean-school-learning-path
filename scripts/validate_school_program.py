@@ -88,7 +88,7 @@ def validate(root: Path = ROOT) -> list[str]:
         if f'id="{web_anchor}"' not in html_cache[web_path]:
             errors.append(f"Falta ancla web {web_anchor} en {web_path}")
         if item["editorial_status"] == "desarrollada":
-            for token in ("Propósito docente", "Meta para estudiantes", "Materiales y preparación", "Criterios observables", "Decisión posterior"):
+            for token in ("Propósito docente", "Meta para estudiantes", "Materiales y preparación", "Criterios observables", "Decisión posterior", "Tarea breve y flexible", "Actividades complementarias", "Control de dificultades con acciones", "Coordinación profesional"):
                 if token not in html_cache[web_path]:
                     errors.append(f"{web_path} no materializa el contrato desarrollado: falta {token}")
 
@@ -109,7 +109,7 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"Vista de 1° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "7 guías marco", "11 guías completas", "Rúbrica", "Revisión humana"):
+    for token in ("Documentación pedagógica", "10 guías marco", "11 guías completas", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     required_docs = {
@@ -122,12 +122,20 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
         "docs/REVISION_HUMANA.md": ("Protocolo de revisión humana", "Registro de evidencia"),
+        "docs/QUE_ES_UN_OA.md": ("OA significa Objetivo de Aprendizaje", "OA, clase, actividad y evidencia"),
+        "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
+        "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
+        "docs/COBERTURA.md": ("Cobertura completa y navegable", "12.997"),
+        "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
+        "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
         "LEARNING_PATHS.md": ("Docente de 1° básico", "Coordinación pedagógica o UTP"),
         "ROADMAP.md": ("1.056 clases desarrolladas", "Próximo nivel de desarrollo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
+        "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
+        "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),
     }
     for relative_path, tokens in required_docs.items():
         document_path = root / relative_path

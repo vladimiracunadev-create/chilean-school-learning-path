@@ -17,6 +17,17 @@ No existe una licencia única para todos los datos.
 | TEXTBOOK_COPYRIGHT | no por defecto | no por defecto | protección reforzada |
 | UNKNOWN | no | no | cuarentena |
 
+## Datos publicados por este repositorio
+
+| Artefacto | Procedencia | Redistribución en este repo | Regla práctica |
+|---|---|---|---|
+| `sources/mineduc-curriculum-snapshot.json` | páginas públicas de Currículum Nacional | metadatos, descripciones y enlaces con trazabilidad | conservar fuente y fecha; no presentar como dataset oficial emitido por MINEDUC |
+| `curriculum/catalog.json` | transformación estructurada del snapshot y contenido propio | sí, como parte del proyecto | la estructura y campos originales siguen la licencia de contenido; cada componente conserva sus derechos |
+| `site/catalog.json` | copia compacta generada del catálogo | sí, como artefacto técnico | mismas condiciones que `curriculum/catalog.json` |
+| `content/developed-lessons.json` | redacción educativa original | sí, bajo CC BY-NC-SA 4.0 | atribuir, uso no comercial y compartir adaptaciones igual |
+
+Los hechos y códigos curriculares pueden no estar protegidos del mismo modo que una redacción creativa. Esta política no afirma dominio sobre materiales oficiales: documenta procedencia y evita mezclar licencias.
+
 ## Dataset propio
 
 Un dataset íntegramente propio puede usar una licencia específica. Opciones a evaluar:
@@ -24,7 +35,7 @@ Un dataset íntegramente propio puede usar una licencia específica. Opciones a 
 - **CC BY-NC-SA 4.0** para una selección/estructura creativa no comercial, siempre que sus
   componentes sean compatibles.
 
-Cada dataset debe tener su propio `DATASET-LICENSE.md`.
+Un nuevo dataset externo debe añadir su licencia o una ficha equivalente antes de incorporarse.
 
 ## Datos personales
 

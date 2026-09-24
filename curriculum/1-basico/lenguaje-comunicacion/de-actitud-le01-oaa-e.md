@@ -43,6 +43,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Antes de la próxima clase, reúne un ejemplo inicial sin corregirlo todavía. Lee, escucha o cuenta un texto breve a alguien y registra una idea importante y la pista que permitió comprenderla. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Taller de revisión: comparar dos versiones breves y justificar qué cambio ayuda más al destinatario.
+- Recuperación opcional: vuelve a un ejemplo concreto de «reflexionar sobre sí mismo, sus ideas y sus…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «reflexionar sobre sí mismo, sus ideas y sus…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «comprende o comunica una idea» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Cambia destinatario, orden, palabra o final y explica cómo se modifica el significado. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente conduce comprensión y producción; educador diferencial o fonoaudiólogo, cuando corresponda al plan del estudiante, asesora acceso sin reemplazar la enseñanza ni diagnosticar en clase.
+
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: reflexionar sobre sí mismo, sus ideas y sus… {#cl-00734}
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Reflexionar sobre sí mismo, sus ideas y sus intereses para comprenderse y valorarse».
 
@@ -69,6 +88,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Decisión posterior:** Si la dificultad está en sonido, letra, vocabulario o comprensión, forma un grupo breve para ese nudo; si comunican con claridad, cambia destinatario o propósito.
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Explica a otra persona o a un personaje imaginario el paso que te resultó más importante. Lee, escucha o cuenta un texto breve a alguien y registra una idea importante y la pista que permitió comprenderla. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Taller de revisión: comparar dos versiones breves y justificar qué cambio ayuda más al destinatario.
+- Recuperación opcional: vuelve a un ejemplo concreto de «reflexionar sobre sí mismo, sus ideas y sus…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «reflexionar sobre sí mismo, sus ideas y sus…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «comprende o comunica una idea» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Cambia destinatario, orden, palabra o final y explica cómo se modifica el significado. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente conduce comprensión y producción; educador diferencial o fonoaudiólogo, cuando corresponda al plan del estudiante, asesora acceso sin reemplazar la enseñanza ni diagnosticar en clase.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: reflexionar sobre sí mismo, sus ideas y sus… {#cl-00735}
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Reflexionar sobre sí mismo, sus ideas y sus intereses para comprenderse y valorarse».
@@ -97,6 +135,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Crea o resuelve un caso distinto al trabajado y conserva una huella de tu decisión. Lee, escucha o cuenta un texto breve a alguien y registra una idea importante y la pista que permitió comprenderla. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Taller de revisión: comparar dos versiones breves y justificar qué cambio ayuda más al destinatario.
+- Recuperación opcional: vuelve a un ejemplo concreto de «reflexionar sobre sí mismo, sus ideas y sus…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «reflexionar sobre sí mismo, sus ideas y sus…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «comprende o comunica una idea» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Cambia destinatario, orden, palabra o final y explica cómo se modifica el significado. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente conduce comprensión y producción; educador diferencial o fonoaudiólogo, cuando corresponda al plan del estudiante, asesora acceso sin reemplazar la enseñanza ni diagnosticar en clase.
+
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: reflexionar sobre sí mismo, sus ideas y sus… {#cl-00736}
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Reflexionar sobre sí mismo, sus ideas y sus intereses para comprenderse y valorarse».
 
@@ -123,6 +180,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Decisión posterior:** Si la dificultad está en sonido, letra, vocabulario o comprensión, forma un grupo breve para ese nudo; si comunican con claridad, cambia destinatario o propósito.
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Revisa una producción anterior, mejora una decisión y señala qué cambió. Lee, escucha o cuenta un texto breve a alguien y registra una idea importante y la pista que permitió comprenderla. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Taller de revisión: comparar dos versiones breves y justificar qué cambio ayuda más al destinatario.
+- Recuperación opcional: vuelve a un ejemplo concreto de «reflexionar sobre sí mismo, sus ideas y sus…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «reflexionar sobre sí mismo, sus ideas y sus…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «comprende o comunica una idea» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Cambia destinatario, orden, palabra o final y explica cómo se modifica el significado. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente conduce comprensión y producción; educador diferencial o fonoaudiólogo, cuando corresponda al plan del estudiante, asesora acceso sin reemplazar la enseñanza ni diagnosticar en clase.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

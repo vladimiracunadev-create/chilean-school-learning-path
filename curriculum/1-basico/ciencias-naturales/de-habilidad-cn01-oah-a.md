@@ -43,6 +43,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Antes de la próxima clase, reúne un ejemplo inicial sin corregirlo todavía. Observa durante cinco minutos un objeto, ser vivo o fenómeno seguro, registra tres detalles y separa lo que viste de lo que supones. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mesa de evidencias: clasificar nuevos casos en «observo», «pienso» y «necesito comprobar».
+- Recuperación opcional: vuelve a un ejemplo concreto de «explorar y observar la naturaleza, usando los…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «explorar y observar la naturaleza, usando los…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «registra evidencia observable» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Predice qué cambiaría en otro caso y señala qué observación permitiría comprobarlo. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
+
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: explorar y observar la naturaleza, usando los… {#cl-00103}
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Explorar y observar la naturaleza, usando los sentidos apropiadamente durante investigaciones experimentales guiadas».
 
@@ -69,6 +88,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Decisión posterior:** Si confunden observación e inferencia, clasifica nuevos ejemplos; si usan evidencia, pídeles predecir otro caso y definir qué tendrían que observar para comprobarlo.
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Explica a otra persona o a un personaje imaginario el paso que te resultó más importante. Observa durante cinco minutos un objeto, ser vivo o fenómeno seguro, registra tres detalles y separa lo que viste de lo que supones. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mesa de evidencias: clasificar nuevos casos en «observo», «pienso» y «necesito comprobar».
+- Recuperación opcional: vuelve a un ejemplo concreto de «explorar y observar la naturaleza, usando los…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «explorar y observar la naturaleza, usando los…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «registra evidencia observable» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Predice qué cambiaría en otro caso y señala qué observación permitiría comprobarlo. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: explorar y observar la naturaleza, usando los… {#cl-00104}
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Explorar y observar la naturaleza, usando los sentidos apropiadamente durante investigaciones experimentales guiadas».
@@ -97,6 +135,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Crea o resuelve un caso distinto al trabajado y conserva una huella de tu decisión. Observa durante cinco minutos un objeto, ser vivo o fenómeno seguro, registra tres detalles y separa lo que viste de lo que supones. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mesa de evidencias: clasificar nuevos casos en «observo», «pienso» y «necesito comprobar».
+- Recuperación opcional: vuelve a un ejemplo concreto de «explorar y observar la naturaleza, usando los…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «explorar y observar la naturaleza, usando los…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «registra evidencia observable» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Predice qué cambiaría en otro caso y señala qué observación permitiría comprobarlo. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
+
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: explorar y observar la naturaleza, usando los… {#cl-00105}
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Explorar y observar la naturaleza, usando los sentidos apropiadamente durante investigaciones experimentales guiadas».
 
@@ -123,6 +180,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Decisión posterior:** Si confunden observación e inferencia, clasifica nuevos ejemplos; si usan evidencia, pídeles predecir otro caso y definir qué tendrían que observar para comprobarlo.
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Revisa una producción anterior, mejora una decisión y señala qué cambió. Observa durante cinco minutos un objeto, ser vivo o fenómeno seguro, registra tres detalles y separa lo que viste de lo que supones. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mesa de evidencias: clasificar nuevos casos en «observo», «pienso» y «necesito comprobar».
+- Recuperación opcional: vuelve a un ejemplo concreto de «explorar y observar la naturaleza, usando los…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «explorar y observar la naturaleza, usando los…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «registra evidencia observable» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Predice qué cambiaría en otro caso y señala qué observación permitiría comprobarlo. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El docente generalista conduce la indagación; educación diferencial anticipa barreras de registro y el asistente apoya materiales y seguridad sin dar la respuesta.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

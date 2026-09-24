@@ -31,9 +31,15 @@ Aquí puedes responder:
 | Necesidad | Documento | Qué encontrarás |
 |---|---|---|
 | Entender el programa completo | [Syllabus](SYLLABUS.md) | público, resultados, estructura, ritmo, método, evaluación, inclusión y límites |
+| Entender qué significa OA | [Guía simple de OA](QUE_ES_UN_OA.md) | diferencia entre objetivo, clase, actividad, tarea y evidencia |
 | Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
+| Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
+| Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
 | Evaluar | [Rúbrica](RUBRICA_EVALUACION.md) | niveles de evidencia, criterios disciplinares y decisiones |
+| Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
+| Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia y validación de 12.997 clases |
+| Reutilizar contenido o código | [Licencias](LICENCIAS.md) | reglas por tipo de obra y atribución |
 | Resolver dudas | [FAQ](FAQ.md) | alcance, tiempos, estados, adaptaciones y fuentes |
 | Acompañar desde el hogar | [Guía para familias](GUIA_FAMILIAS.md) | conversaciones y apoyos sin reemplazar al docente |
 | Revisar contenido | [Protocolo de revisión](REVISION_HUMANA.md) | roles, listas de control, severidad y registro |
@@ -91,6 +97,12 @@ flowchart TD
 README.md
 ├── docs/README.md                 ← este centro
 ├── docs/SYLLABUS.md               ← visión completa de uso
+├── docs/QUE_ES_UN_OA.md           ← explicación sin jerga
+├── docs/COBERTURA.md              ← 12 niveles navegables
+├── docs/ROLES_DOCENTES.md         ← equipo profesional de aula
+├── docs/DIFICULTADES_EN_EL_AULA.md ← acciones observables
+├── docs/FORMATOS.md               ← Markdown + HTML
+├── docs/LICENCIAS.md              ← guía simple de reutilización
 ├── docs/1-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica

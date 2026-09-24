@@ -43,6 +43,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Antes de la próxima clase, reúne un ejemplo inicial sin corregirlo todavía. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
+- Recuperación opcional: vuelve a un ejemplo concreto de «valorar la interculturalidad como una…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «valorar la interculturalidad como una…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
+
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: valorar la interculturalidad como una… {#cl-00573}
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas».
 
@@ -69,6 +88,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Explica a otra persona o a un personaje imaginario el paso que te resultó más importante. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
+- Recuperación opcional: vuelve a un ejemplo concreto de «valorar la interculturalidad como una…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «valorar la interculturalidad como una…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: valorar la interculturalidad como una… {#cl-00574}
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas».
@@ -97,6 +135,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Crea o resuelve un caso distinto al trabajado y conserva una huella de tu decisión. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
+- Recuperación opcional: vuelve a un ejemplo concreto de «valorar la interculturalidad como una…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «valorar la interculturalidad como una…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
+
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: valorar la interculturalidad como una… {#cl-00575}
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas».
 
@@ -123,6 +180,25 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
 
 **Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Revisa una producción anterior, mejora una decisión y señala qué cambió. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+
+**Actividades complementarias (opcionales):**
+- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
+- Recuperación opcional: vuelve a un ejemplo concreto de «valorar la interculturalidad como una…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
+- Profundización opcional: cambia una condición del desafío sobre «valorar la interculturalidad como una…» y pide predecir, comprobar y revisar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
+| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
+| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
+| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
+| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+
+**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

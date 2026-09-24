@@ -2,7 +2,7 @@
 
 Esta guía ayuda a transformar una ficha del portal en una experiencia enseñable. La secuencia es un punto de partida: el docente conserva el OA y ajusta ritmo, acceso, contexto y profundidad según la evidencia del curso.
 
-[Abrir 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Programa por asignaturas](docs/1-basico/README.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Consultar el estándar](QUALITY_STANDARD.md)
+[Abrir 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Programa por asignaturas](docs/1-basico/README.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
 
 ## Antes de la clase
 
@@ -25,6 +25,24 @@ No intentes cubrir todas las sugerencias a la vez. Protege el propósito, la pr�
 | Ticket · 10 min | ¿Avanzamos, reagrupamos o reenseñamos? | Respuesta breve contrastada con criterios. |
 
 Los minutos son orientativos. En una jornada de 45 minutos usa la adaptación incluida en la ficha y conserva el núcleo cognitivo.
+
+Cada clase desarrollada agrega una tarea breve y flexible, tres actividades complementarias y una matriz de dificultades. Son opciones gobernadas por evidencia, no una lista que deba ejecutarse completa.
+
+## Tareas y actividades complementarias
+
+La tarea consolida durante unos 10 minutos y ofrece respuesta oral, gráfica, manipulativa o escrita. No exige internet, impresión, compra de materiales ni ayuda adulta experta. Si el hogar no puede realizarla, se ofrece una oportunidad equivalente en la escuela y no se sanciona una condición de acceso.
+
+Las actividades complementarias se eligen con intención:
+
+- **recuperación:** otra representación y una pista que luego se retira;
+- **práctica adicional:** un nuevo caso breve con el mismo criterio;
+- **profundización:** cambiar una condición, predecir, justificar o transferir.
+
+## Control de dificultades y coordinación
+
+Describe primero la conducta observable, aplica una acción breve y comprueba su efecto con evidencia. No conviertas “no entiende” o “es distraído” en explicación. La [matriz operativa](docs/DIFICULTADES_EN_EL_AULA.md) cubre consignas, participación, frustración, convivencia, ausentismo, acceso y falta de recursos.
+
+Antes de una clase con varios adultos acuerda OA, barrera, función, señal de intervención y evidencia. La [guía de roles profesionales](docs/ROLES_DOCENTES.md) diferencia docente responsable, especialista, educación diferencial, educador tradicional, asistente, CRA, convivencia y otros apoyos sin asumir que todos están disponibles.
 
 ## Explicar con claridad
 
