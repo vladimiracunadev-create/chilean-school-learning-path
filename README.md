@@ -69,17 +69,17 @@ El proyecto responde con trazabilidad, estructura estable, contenido disciplinar
 
 ## 📖 De dónde sale el contenido
 
-El punto de partida no es una colección informal de temas: es el [Currículum Nacional de Chile](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El repositorio conserva un snapshot estructurado, la URL oficial de cada objetivo y la fecha de verificación.
+El punto de partida no es una colección informal de temas: es el [Currículum Nacional de Chile](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El repositorio registra los niveles, asignaturas, ejes y OA junto con la URL oficial de cada objetivo y la fecha en que fue comprobado.
 
-| Capa | Fuente de verdad | Qué permite comprobar |
+| Para comprender | Documento legible | Qué responde |
 |---|---|---|
-| Oferta curricular | [`sources/mineduc-curriculum-snapshot.json`](sources/mineduc-curriculum-snapshot.json) | niveles, asignaturas, ejes, códigos y textos de OA |
-| Catálogo de clases | [`curriculum/catalog.json`](curriculum/catalog.json) | 12.997 identificadores, estados, rutas Markdown y rutas HTML |
-| Desarrollo pedagógico | [`content/developed-lessons.json`](content/developed-lessons.json) y generador de 1° básico | contenido editorial específico y campos obligatorios |
-| Referencias oficiales | [OFFICIAL_REFERENCES.md](OFFICIAL_REFERENCES.md) | Bases Curriculares, Programas de Estudio, lecturas y marco legal |
-| Derechos y procedencia | [DATA-LICENSE.md](DATA-LICENSE.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) | qué se enlaza, qué se redistribuye y bajo qué condiciones |
+| Procedencia curricular | [Fuentes oficiales](OFFICIAL_REFERENCES.md) | de dónde provienen los OA, programas, lecturas y referencias legales |
+| Cobertura del proyecto | [Cobertura completa](docs/COBERTURA.md) | cuántos niveles, OA y clases existen y cuál es su estado editorial |
+| Desarrollo pedagógico | [Programa completo de 1° básico](docs/1-basico/README.md) | cómo se organizan las 1.034 clases, qué se enseña y qué evidencia se observa |
+| Método de construcción | [Metodología](METHODOLOGY.md) | cómo se pasa del OA a una secuencia y cómo se comprueba su consistencia |
+| Derechos y reutilización | [Guía de licencias](docs/LICENCIAS.md) | qué puede reutilizarse, con qué atribución y bajo qué condiciones |
 
-El snapshot fue comprobado el **2026-09-24**. Conserva **595 enlaces de lectura** asociados desde fichas oficiales. Esos enlaces no convierten las obras en contenido propio ni en lecturas obligatorias; el repositorio no reproduce sus textos.
+El registro curricular fue comprobado el **2026-09-24**. Conserva **595 enlaces de lectura** asociados desde fichas oficiales. Esos enlaces no convierten las obras en contenido propio ni en lecturas obligatorias; el repositorio no reproduce sus textos.
 
 ## 🌐 Portal, navegación y formatos
 
@@ -98,7 +98,7 @@ El sitio HTML de GitHub Pages convierte el catálogo en una experiencia navegabl
 | Markdown por OA | 2.823 | edición, revisión, historial y reutilización |
 | HTML por OA | 2.823 | lectura visual y navegación web |
 | Anclas de clase en ambos formatos | 12.997 | enlaces estables a cada propuesta |
-| Catálogo JSON | 12.997 registros | búsquedas, filtros y validación automática |
+| Explorador del sitio | 12.997 clases | búsqueda y filtros sin exponer archivos técnicos |
 | Documentación de 1° básico | 11 guías de asignatura | comprender progresión, método y evidencia |
 
 No existe todavía una aplicación móvil ni un manual PDF oficial de este proyecto. Para trabajar sin conexión se puede descargar o clonar el repositorio: las fichas Markdown son legibles directamente y el sitio estático usa sus propios HTML, CSS, JavaScript y datos, sin depender de una cuenta.
@@ -106,7 +106,6 @@ No existe todavía una aplicación móvil ni un manual PDF oficial de este proye
 ### 📥 Accesos directos y descargas
 
 - [Índice completo del currículo](CURRICULUM.md) — los 2.823 OA organizados por nivel y asignatura.
-- [Catálogo estructurado](curriculum/catalog.json) — las 12.997 clases en JSON.
 - [Descargar el repositorio como ZIP](https://github.com/vladimiracunadev-create/chilean-school-learning-path/archive/refs/heads/main.zip) — contenido y sitio para consulta local.
 - [Cómo se corresponden Markdown y HTML](docs/FORMATOS.md) — rutas, anclas y controles.
 
@@ -307,8 +306,8 @@ En lengua y cultura de pueblos originarios, la propuesta debe ajustarse al terri
 
 ```mermaid
 flowchart TD
-    A[Currículum Nacional] --> B[Snapshot verificable]
-    B --> C[Catálogo estructurado]
+    A[Currículum Nacional] --> B[Registro curricular verificable]
+    B --> C[Mapa de cobertura]
     C --> D[Dosificación]
     D --> E[Contenido desarrollado]
     E --> F[Markdown por OA]
@@ -397,7 +396,7 @@ git diff --exit-code
 
 ## 📖 Fuentes y derechos
 
-El snapshot fue verificado el **2026-09-24** desde [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El catálogo conserva **595 enlaces de lectura** asociados por MINEDUC. Se enlazan recursos; no se reproducen obras protegidas ni se inventa obligatoriedad.
+El registro curricular fue verificado el **2026-09-24** desde [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). El proyecto conserva **595 enlaces de lectura** asociados por MINEDUC. Se enlazan recursos; no se reproducen obras protegidas ni se inventa obligatoriedad.
 
 El software original usa [MIT](LICENSE); las clases, tareas, actividades y guías originales usan [CC BY-NC-SA 4.0](LICENSE-CONTENT.md). Datos, activos y terceros tienen reglas propias en [DATA-LICENSE.md](DATA-LICENSE.md), [ASSET_LICENSES.md](ASSET_LICENSES.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Consulta la [guía simple](docs/LICENCIAS.md) o la [política completa](LICENSING.md).
 
