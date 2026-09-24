@@ -17,89 +17,89 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 5: Conectar y diagnosticar {#cl-10224}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** comprender el foco y demostrarlo con evidencia.
+**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…» y demostrarlo mediante desempeño comunicativo comprensible.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta un caso cercano, comunica la meta y obtiene una respuesta de todas y todos. |
-| Explicación | 20 min | Explica la idea central con ejemplo y contraejemplo; piensa en voz alta y comprueba comprensión. |
-| Práctica guiada | 25 min | Resuelven o producen con apoyo. Pregunta por evidencia y retroalimenta el procedimiento. |
-| Desempeño individual | 25 min | Cada estudiante aplica, explica una decisión y entrega una producción propia. |
-| Cierre | 10 min | Ticket con respuesta, evidencia y duda: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
+| Explicación | 20 min | Modela cómo abordar «Demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y simples, novelas adaptadas, mitos o leyendas breves y simples) al identificar: El tema como idea general del texto, personajes, caracterización, entorno (tiempo, lugar), trama (inicio, desarrollo, final), problema-solución. Palabras y frases clave, expresiones idiomáticas y de uso frecuente, vocabulario temático». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
+| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
+| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**, explica una decisión y revisa su trabajo con los criterios. |
+| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
 **Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
 
 **Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
 
 ### Clase 2 de 5: Comprender y modelar {#cl-10225}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** comprender el foco y demostrarlo con evidencia.
+**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…» y demostrarlo mediante desempeño comunicativo comprensible.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta un caso cercano, comunica la meta y obtiene una respuesta de todas y todos. |
-| Explicación | 20 min | Explica la idea central con ejemplo y contraejemplo; piensa en voz alta y comprueba comprensión. |
-| Práctica guiada | 25 min | Resuelven o producen con apoyo. Pregunta por evidencia y retroalimenta el procedimiento. |
-| Desempeño individual | 25 min | Cada estudiante aplica, explica una decisión y entrega una producción propia. |
-| Cierre | 10 min | Ticket con respuesta, evidencia y duda: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
+| Explicación | 20 min | Modela cómo abordar «Demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y simples, novelas adaptadas, mitos o leyendas breves y simples) al identificar: El tema como idea general del texto, personajes, caracterización, entorno (tiempo, lugar), trama (inicio, desarrollo, final), problema-solución. Palabras y frases clave, expresiones idiomáticas y de uso frecuente, vocabulario temático». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
+| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
+| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**, explica una decisión y revisa su trabajo con los criterios. |
+| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
 **Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
 
 **Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
 
 ### Clase 3 de 5: Practicar con apoyo {#cl-10226}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** comprender el foco y demostrarlo con evidencia.
+**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…» y demostrarlo mediante desempeño comunicativo comprensible.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta un caso cercano, comunica la meta y obtiene una respuesta de todas y todos. |
-| Explicación | 20 min | Explica la idea central con ejemplo y contraejemplo; piensa en voz alta y comprueba comprensión. |
-| Práctica guiada | 25 min | Resuelven o producen con apoyo. Pregunta por evidencia y retroalimenta el procedimiento. |
-| Desempeño individual | 25 min | Cada estudiante aplica, explica una decisión y entrega una producción propia. |
-| Cierre | 10 min | Ticket con respuesta, evidencia y duda: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
+| Explicación | 20 min | Modela cómo abordar «Demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y simples, novelas adaptadas, mitos o leyendas breves y simples) al identificar: El tema como idea general del texto, personajes, caracterización, entorno (tiempo, lugar), trama (inicio, desarrollo, final), problema-solución. Palabras y frases clave, expresiones idiomáticas y de uso frecuente, vocabulario temático». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
+| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
+| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**, explica una decisión y revisa su trabajo con los criterios. |
+| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
 **Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
 
 **Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
 
 ### Clase 4 de 5: Aplicar con autonomía {#cl-10227}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** comprender el foco y demostrarlo con evidencia.
+**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…» y demostrarlo mediante desempeño comunicativo comprensible.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta un caso cercano, comunica la meta y obtiene una respuesta de todas y todos. |
-| Explicación | 20 min | Explica la idea central con ejemplo y contraejemplo; piensa en voz alta y comprueba comprensión. |
-| Práctica guiada | 25 min | Resuelven o producen con apoyo. Pregunta por evidencia y retroalimenta el procedimiento. |
-| Desempeño individual | 25 min | Cada estudiante aplica, explica una decisión y entrega una producción propia. |
-| Cierre | 10 min | Ticket con respuesta, evidencia y duda: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
+| Explicación | 20 min | Modela cómo abordar «Demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y simples, novelas adaptadas, mitos o leyendas breves y simples) al identificar: El tema como idea general del texto, personajes, caracterización, entorno (tiempo, lugar), trama (inicio, desarrollo, final), problema-solución. Palabras y frases clave, expresiones idiomáticas y de uso frecuente, vocabulario temático». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
+| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
+| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**, explica una decisión y revisa su trabajo con los criterios. |
+| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
 **Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
 
 **Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
 
 ### Clase 5 de 5: Demostrar y retroalimentar {#cl-10228}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** comprender el foco y demostrarlo con evidencia.
+**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…» y demostrarlo mediante desempeño comunicativo comprensible.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta un caso cercano, comunica la meta y obtiene una respuesta de todas y todos. |
-| Explicación | 20 min | Explica la idea central con ejemplo y contraejemplo; piensa en voz alta y comprueba comprensión. |
-| Práctica guiada | 25 min | Resuelven o producen con apoyo. Pregunta por evidencia y retroalimenta el procedimiento. |
-| Desempeño individual | 25 min | Cada estudiante aplica, explica una decisión y entrega una producción propia. |
-| Cierre | 10 min | Ticket con respuesta, evidencia y duda: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
+| Explicación | 20 min | Modela cómo abordar «Demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y simples, novelas adaptadas, mitos o leyendas breves y simples) al identificar: El tema como idea general del texto, personajes, caracterización, entorno (tiempo, lugar), trama (inicio, desarrollo, final), problema-solución. Palabras y frases clave, expresiones idiomáticas y de uso frecuente, vocabulario temático». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
+| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
+| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…**, explica una decisión y revisa su trabajo con los criterios. |
+| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
 **Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
 
 **Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

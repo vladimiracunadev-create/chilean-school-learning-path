@@ -1,1 +1,90 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Secuencias propuestas para desarrollar los aprendizajes escolares chilenos."><title>Trayectoria Escolar Chile</title><link rel="stylesheet" href="styles.css"></head><body><header><nav><a class="brand" href="#">🇨🇱 Trayectoria Escolar Chile</a><a href="../README.md">Documentación</a><a href="../BOOKS_AND_READINGS.md">Textos y lecturas</a></nav><div class="hero"><p class="eyebrow">1° básico → 4° medio</p><h1>Todo aprendizaje merece tiempo, claridad y profundidad.</h1><p>Explora una sesión propuesta por nivel, asignatura, tema u objetivo. Cada secuencia incluye explicación, práctica, apoyo, profundización y evidencia.</p><div id="stats" class="stats"></div></div></header><main><section class="finder"><div><label for="q">Tema, OA o palabra clave</label><input id="q" placeholder="Ej.: fracciones, ecosistemas"></div><div><label for="level">Nivel</label><select id="level"><option value="">Todos</option></select></div><div><label for="subject">Asignatura</label><select id="subject"><option value="">Todas</option></select></div><div><label for="coverage">Cobertura</label><select id="coverage"><option value="">Todas</option></select></div></section><p id="result"></p><section id="cards" class="cards" aria-live="polite"></section></main><footer>Proyecto educativo independiente · Fuentes oficiales enlazadas · Contenido abierto</footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#071c2c">
+  <meta name="description" content="Explora la trayectoria escolar chilena desde 1° básico hasta 4° medio, con objetivos oficiales y secuencias de aprendizaje trazables.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Trayectoria Escolar Chile">
+  <meta property="og:description" content="12 niveles, 2.823 objetivos de aprendizaje y 12.997 clases, con trazabilidad oficial.">
+  <meta property="og:url" content="https://vladimiracunadev-create.github.io/chilean-school-learning-path/">
+  <meta name="twitter:card" content="summary">
+  <link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+  <title>Trayectoria Escolar Chile</title>
+</head>
+<body>
+  <a class="skip-link" href="#explorar">Saltar al explorador</a>
+  <header class="site-header">
+    <nav class="topbar" aria-label="Navegación principal">
+      <a class="brand" href="index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a>
+      <div class="nav-links">
+        <a href="#explorar">Explorar</a>
+        <a href="#metodologia">Metodología</a>
+        <a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path">GitHub</a>
+      </div>
+      <button class="icon-button" id="theme-toggle" type="button" aria-label="Activar tema oscuro" title="Cambiar tema">◐</button>
+    </nav>
+
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">1° básico → 4° medio · Chile</p>
+        <h1>Una ruta clara para <span>cada aprendizaje.</span></h1>
+        <p class="hero-lead">Explora 12.997 clases organizadas por Objetivo de Aprendizaje oficial. Filtra por nivel o asignatura, abre una planificación y adapta el ritmo con evidencia de tu curso.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#explorar">Explorar el currículum <span aria-hidden="true">↓</span></a>
+          <a class="button secondary" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/TEACHING_GUIDE.md">Guía docente</a>
+        </div>
+      </div>
+      <aside class="hero-note" aria-label="Estado editorial">
+        <span class="note-index">ESTADO / 01</span>
+        <p class="eyebrow">Transparencia editorial</p>
+        <h2>Mapa completo.<br>Desarrollo en curso.</h2>
+        <p>Las 12.997 clases están inventariadas, secuenciadas y publicadas. Su revisión disciplinar humana avanza por lotes y se declara por separado.</p>
+        <a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/EDITORIAL_STATUS.md">Ver estado detallado →</a>
+      </aside>
+    </div>
+
+    <div class="metric-band" id="stats" aria-label="Resumen del programa">
+      <div class="metric-skeleton">Cargando catálogo…</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="explorer-section" id="explorar" aria-labelledby="explorer-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">Explorador curricular</p><h2 id="explorer-title">Encuentra el próximo aprendizaje</h2></div>
+        <p>Busca por concepto, código OA o eje. Los filtros se pueden combinar y compartir mediante la URL.</p>
+      </div>
+
+      <form class="filter-panel" id="filters" role="search">
+        <div class="search-field"><label for="q">Buscar tema, OA o palabra</label><div class="input-wrap"><span aria-hidden="true">⌕</span><input id="q" name="q" type="search" autocomplete="off" placeholder="Ej.: fracciones, ecosistemas, argumentar"></div></div>
+        <div><label for="level">Nivel</label><select id="level" name="nivel"><option value="">Todos los niveles</option></select></div>
+        <div><label for="subject">Asignatura</label><select id="subject" name="asignatura"><option value="">Todas las asignaturas</option></select></div>
+        <div><label for="coverage">Cobertura</label><select id="coverage" name="cobertura"><option value="">Toda cobertura</option></select></div>
+        <button class="clear-button" id="clear-filters" type="button">Limpiar filtros</button>
+      </form>
+
+      <div class="results-toolbar"><p id="result" role="status" aria-live="polite">Preparando resultados…</p><p class="results-hint">Selecciona una tarjeta para ver la secuencia completa.</p></div>
+      <section id="cards" class="cards" aria-label="Resultados"></section>
+      <div class="load-row"><button class="button secondary dark-text" id="load-more" type="button" hidden>Mostrar más resultados</button></div>
+    </section>
+
+    <section class="method-section" id="metodologia" aria-labelledby="method-title">
+      <div class="section-heading"><div><p class="eyebrow">Cómo leer el programa</p><h2 id="method-title">Del objetivo a una decisión docente</h2></div><p>La estructura hace visible qué está listo y qué todavía necesita desarrollo disciplinar y revisión humana.</p></div>
+      <ol class="method-grid">
+        <li><span>01</span><h3>Ubica</h3><p>Selecciona nivel, asignatura, eje y OA desde la fuente oficial.</p></li>
+        <li><span>02</span><h3>Secuencia</h3><p>Revisa las fases sugeridas y ajusta la duración a la evidencia real.</p></li>
+        <li><span>03</span><h3>Adapta</h3><p>Conserva el objetivo y modifica acceso, andamiaje o profundidad.</p></li>
+        <li><span>04</span><h3>Comprueba</h3><p>Recoge evidencia y decide si avanzar, reagrupar o reenseñar.</p></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Proyecto independiente · sin rastreo · datos en tu navegador</span></div><div><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/METHODOLOGY.md">Metodología</a><a href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/LICENSING.md">Licencias</a><a href="https://www.curriculumnacional.cl/">Fuente oficial</a></div></footer>
+  <script src="app.js"></script>
+</body>
+</html>

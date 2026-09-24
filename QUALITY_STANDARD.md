@@ -10,4 +10,8 @@ Una entrada generada no equivale a una clase terminada.
 | Revisada | control disciplinar, pedagógico, documental, accesible y de derechos |
 | Publicada | Markdown y HTML válidos, navegables y comprobados en Pages |
 
-Los conteos públicos deben mostrar estos estados por separado. Una clase solo puede llamarse completa cuando satisface el contrato definido en [el prompt maestro](MASTER_PROMPT.md).
+Los conteos públicos muestran estos estados por separado. Una clase puede estar publicada sin estar revisada; “completa” exige cumplir todo este contrato y dejar evidencia de revisión humana.
+
+## Contrato mínimo por clase
+
+Cada clase debe tener identificador, nivel, asignatura, OA, posición, propósito, meta para estudiantes, explicación disciplinar, vocabulario, conocimientos previos, error previsible, materiales, inicio, modelado, práctica guiada e individual, apoyo, profundización, cierre, evidencia, criterio de éxito, decisión posterior, adaptación de 45/90 minutos, accesibilidad y fuentes.

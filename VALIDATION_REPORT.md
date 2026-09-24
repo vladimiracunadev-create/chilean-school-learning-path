@@ -2,30 +2,24 @@
 
 Fecha: 2026-09-24
 
-## Alcance verificado
+## Alcance verificable
 
-- 192 clases con página propia y catálogo JSON.
-- 16 asignaturas, cada una con 12 clases.
-- 4 niveles, cada uno con 48 clases.
-- Tema, asignatura, nivel, resultado, práctica y evidencia en cada registro.
-- Política MIT + CC BY-NC-SA 4.0 y cuarentena de fuentes desconocidas.
-- Manifiesto, enlaces Markdown locales y archivos esenciales del portal.
-- Regeneración determinista del currículo sin diferencias.
+- 12.997 clases con código único y ancla web estable.
+- 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
+- 12 niveles, 35 asignaturas y 595 vínculos de lectura.
+- Búsqueda, filtros, URL compartible, carga progresiva, tema y estados vacío/error.
+- Sitemap, manifest, 404, metadatos, navegación de teclado, foco visible, diseño adaptable e impresión.
+- Licencias separadas para software, contenido, datos y terceros.
 
-## Comandos
+## Comandos de reproducción
 
 ```bash
-python scripts/generate_curriculum.py
+python scripts/generate_school_program.py
+python scripts/validate_school_program.py
 python scripts/validate_licensing.py
 python -m unittest discover -s tests -p "test_*.py" -v
+python -m compileall -q scripts tests
+git diff --exit-code
 ```
 
-## Resultado
-
-```text
-OK: 192 clases, 16 asignaturas, 4 niveles y política de licenciamiento validados.
-Ran 12 tests — OK
-```
-
-La automatización verifica estructura y hechos observables. No determina titularidad, compatibilidad
-jurídica ni licitud de un caso concreto sin la evidencia humana correspondiente.
+La CI ejecuta los mismos gates antes de publicar Pages. Estas comprobaciones verifican estructura y comportamiento observable; la revisión pedagógica y disciplinar humana se registra por separado en [EDITORIAL_STATUS.md](EDITORIAL_STATUS.md).

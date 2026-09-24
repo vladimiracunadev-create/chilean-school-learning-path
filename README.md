@@ -1,16 +1,16 @@
 # 🇨🇱 Trayectoria Escolar Chile
 
-**2.823 OA inventariados · 12.997 sesiones propuestas · 1° básico a 4° medio**
+**2.823 OA inventariados · 12.997 clases · 1° básico a 4° medio**
 
-> **Estado editorial:** existe cobertura estructural y trazabilidad oficial, pero las sesiones generadas aún no equivalen a clases disciplinares completamente desarrolladas y revisadas. Consulta el [estándar de calidad](QUALITY_STANDARD.md) y usa el [prompt maestro](MASTER_PROMPT.md) para completar el programa por lotes verificables.
+> **Estado editorial:** las 12.997 clases están inventariadas, secuenciadas y publicadas como Markdown y HTML. La revisión disciplinar humana sigue en curso y se informa sin inflar cifras en [EDITORIAL_STATUS.md](EDITORIAL_STATUS.md).
 
 Repositorio educativo abierto para planificar lo que niñas, niños y jóvenes aprenden durante su trayectoria escolar en Chile. Cada propuesta identifica nivel, asignatura, tema, OA oficial, cobertura y evidencia, y desarrolla el aprendizaje en 4 a 7 clases según su amplitud.
 
-[Explorar clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [Malla completa](CURRICULUM.md) · [Textos y lecturas](BOOKS_AND_READINGS.md) · [Guía pedagógica](TEACHING_GUIDE.md)
+[Explorar las 12.997 clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [Malla completa](CURRICULUM.md) · [Estado editorial](EDITORIAL_STATUS.md) · [Guía pedagógica](TEACHING_GUIDE.md)
 
 ## De OA a clases enseñables
 
-Una lista curricular no es todavía una clase. Cada secuencia explica el contenido, anticipa vocabulario y errores, modela el razonamiento, propone práctica guiada e individual y termina con evidencia para decidir si avanzar, reenseñar o profundizar.
+Cada OA se desarrolla en 4 a 7 clases identificadas de manera estable. Cada clase declara foco, tiempos, modelado, práctica guiada e individual, apoyo, profundización y evidencia para decidir si avanzar, reagrupar o reenseñar.
 
 - **Dificultades:** ejemplos resueltos, pasos visibles, vocabulario anticipado, varias formas de respuesta y retiro gradual de apoyos, sin rebajar el OA.
 - **Dominio temprano o aburrimiento:** comparación de estrategias, objeciones, casos límite y transferencia; profundizar no es entregar más ejercicios repetidos.
@@ -26,10 +26,23 @@ Los Textos Escolares 2026 son recursos alineados. Las obras se denominan lectura
 ## Uso
 
 1. Elige nivel y asignatura.
-2. Busca tema, eje, OA o palabra.
-3. Revisa explicación y conocimientos previos.
-4. Enseña la secuencia clase a clase.
-5. Usa el ticket para mantener, acortar o ampliar la dosificación.
+2. Busca tema, eje, OA o palabra, con o sin tildes.
+3. Abre una de las 12.997 clases desde el portal.
+4. Revisa la secuencia completa, las fuentes y el estado editorial.
+5. Usa la evidencia para mantener, acortar o ampliar la dosificación.
+
+## Desarrollo y validación
+
+Requiere Python 3.12. El sitio no usa dependencias JavaScript ni servicios externos.
+
+```bash
+python scripts/generate_school_program.py
+python scripts/validate_school_program.py
+python scripts/validate_licensing.py
+python -m unittest discover -s tests -p "test_*.py" -v
+```
+
+El workflow regenera todos los artefactos, comprueba que no haya diferencias, ejecuta validadores y tests, y solo entonces publica GitHub Pages.
 
 ## Ecosistema
 
