@@ -2,7 +2,7 @@
 
 La evaluación de estas clases no busca acumular puntajes. Busca responder una pregunta práctica: **¿qué evidencia produjo cada estudiante y qué decisión pedagógica corresponde ahora?**
 
-[Volver al centro de documentación](README.md) · [Abrir la guía pedagógica](../TEACHING_GUIDE.md)
+[Volver al centro de documentación](README.md) · [Abrir la rúbrica completa](RUBRICA_EVALUACION.md) · [Abrir la guía pedagógica](../TEACHING_GUIDE.md)
 
 ## Ciclo breve
 

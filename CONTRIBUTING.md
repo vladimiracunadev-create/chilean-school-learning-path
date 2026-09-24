@@ -40,7 +40,7 @@ Evita frases intercambiables entre asignaturas. Una clase debe nombrar el conten
 
 ## Fuente y artefactos generados
 
-Modifica la fuente estructurada correspondiente. No edites manualmente miles de fichas derivadas: `scripts/generate_school_program.py` vuelve a producir catálogo, Markdown, HTML, malla, sitemap y documentación de 1° básico.
+Modifica la fuente estructurada correspondiente. No edites manualmente miles de fichas derivadas: `scripts/generate_school_program.py` vuelve a producir catálogo, Markdown, HTML, malla, sitemap, portada documental, índice de 1° básico y sus 11 guías de asignatura.
 
 Después del cambio ejecuta:
 

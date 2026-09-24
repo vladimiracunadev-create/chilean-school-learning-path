@@ -2,7 +2,9 @@
 
 > **Nivel completamente desarrollado:** 1.034 clases · 237 OA · 11 asignaturas. Estado de revisión humana: pendiente.
 
-[Ver el nivel en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Explorar todas las clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0+b%C3%A1sico#explorar) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
+[Programa narrativo completo](1-basico/README.md) · [Ver el nivel en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Explorar todas las clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0+b%C3%A1sico#explorar) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
+
+Este mapa resume cifras y ejes. Para propósito, resultados, prerrequisitos, método, recorrido OA por OA y decisiones específicas, utiliza el [programa completo de 1° básico](1-basico/README.md) y sus 11 guías de asignatura.
 
 ## Cómo usar este mapa
 

@@ -2,7 +2,7 @@
 
 Esta guía ayuda a transformar una ficha del portal en una experiencia enseñable. La secuencia es un punto de partida: el docente conserva el OA y ajusta ritmo, acceso, contexto y profundidad según la evidencia del curso.
 
-[Abrir 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Ver evaluación formativa](docs/EVALUACION_FORMATIVA.md) · [Consultar el estándar](QUALITY_STANDARD.md)
+[Abrir 1° básico](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Programa por asignaturas](docs/1-basico/README.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Consultar el estándar](QUALITY_STANDARD.md)
 
 ## Antes de la clase
 

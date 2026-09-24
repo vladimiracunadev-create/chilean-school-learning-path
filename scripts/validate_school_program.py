@@ -95,22 +95,33 @@ def validate(root: Path = ROOT) -> list[str]:
     pages = list((root / "site/classes").rglob("*.html"))
     if len(pages) != objective_count:
         errors.append(f"Páginas de OA: {len(pages)}, esperadas: {objective_count}")
-    for required in ("index.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html"):
+    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
     sitemap_path = root / "site/sitemap.xml"
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
-    if sitemap.count("<url>") != objective_count + 2:
-        errors.append("El sitemap no enumera portada, vista de 1° básico y todas las páginas de OA")
+    if sitemap.count("<url>") != objective_count + 3:
+        errors.append("El sitemap no enumera portada, documentación, vista de 1° básico y todas las páginas de OA")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "100% desarrollado", "Contrato pedagógico"):
         if token not in level_html:
             errors.append(f"Vista de 1° básico incompleta: falta {token}")
+    documentation_page = root / "site/documentacion.html"
+    documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
+    for token in ("Documentación pedagógica", "7 guías marco", "11 guías completas", "Rúbrica", "Revisión humana"):
+        if token not in documentation_html:
+            errors.append(f"Portada documental incompleta: falta {token}")
     required_docs = {
-        "README.md": ("12.997", "2.823", "Centro de documentación"),
-        "docs/README.md": ("Qué está listo hoy", "Cómo leer los estados"),
+        "README.md": ("12.997", "2.823", "Documentación de principio a fin"),
+        "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
+        "docs/1-basico/README.md": ("Las 11 asignaturas", "Progresión pedagógica común"),
+        "docs/SYLLABUS.md": ("Programa anual de 1° básico", "Planificación de principio a fin"),
+        "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
+        "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
+        "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
+        "docs/REVISION_HUMANA.md": ("Protocolo de revisión humana", "Registro de evidencia"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
@@ -131,6 +142,24 @@ def validate(root: Path = ROOT) -> list[str]:
     for legacy_term in ("Licencias de software", "SPDX/SBOM/REUSE", "data scientists"):
         if legacy_term in learning_paths:
             errors.append(f"LEARNING_PATHS.md conserva contenido heredado: {legacy_term}")
+    expected_subject_guides = {item["subject_slug"] for item in classes if item.get("course_order") == 1}
+    subject_guides = {path.stem for path in (root / "docs/1-basico").glob("*.md") if path.name != "README.md"}
+    if subject_guides != expected_subject_guides:
+        errors.append(f"Guías de asignatura de 1° básico incompletas: actuales={len(subject_guides)}, esperadas={len(expected_subject_guides)}")
+    for subject_slug in sorted(expected_subject_guides):
+        guide = (root / "docs/1-basico" / f"{subject_slug}.md").read_text(encoding="utf-8")
+        for token in ("Resultados de aprendizaje", "Prerrequisitos", "Cómo recorrer", "Estructura por ejes", "Recorrido OA por OA", "Error frecuente", "Acceso y profundización"):
+            if token not in guide:
+                errors.append(f"Guía {subject_slug} incompleta: falta {token}")
+    documentation_files = list(root.glob("*.md")) + list((root / "docs").rglob("*.md"))
+    for document_path in documentation_files:
+        document = document_path.read_text(encoding="utf-8")
+        for destination in re.findall(r"\[[^\]]+\]\(([^)]+)\)", document):
+            if destination.startswith(("http://", "https://", "#", "mailto:")):
+                continue
+            relative_target = destination.split("#", 1)[0]
+            if relative_target and relative_target.endswith(".md") and not (document_path.parent / relative_target).is_file():
+                errors.append(f"Enlace Markdown roto en {document_path.relative_to(root)}: {destination}")
     index_path = root / "site/index.html"
     index = index_path.read_text(encoding="utf-8") if index_path.is_file() else ""
     for token in ('lang="es"', '<main>', 'id="explorar"', 'id="q"', 'id="level"', 'id="subject"', 'id="coverage"'):

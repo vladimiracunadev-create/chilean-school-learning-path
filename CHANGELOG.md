@@ -2,12 +2,13 @@
 
 ## 2026-09-24 — Arquitectura documental pedagógica
 
-- Centro de documentación con rutas claras para docentes, UTP, familias, revisores y mantenedores.
-- README ampliado con navegación rápida, cobertura por nivel, anatomía de clase y flujo visual desde la fuente hasta la decisión docente.
-- Guías completas de enseñanza y evaluación formativa para aplicar y adaptar las clases de 1° básico.
-- Metodología, roadmap y contribución alineados con los estados editoriales verificables.
+- Portada documental visual dentro de GitHub Pages, conectada con el portal y la vista del nivel.
+- README profesional con badges, navegación, cobertura, anatomía, evaluación, inclusión, fuentes y arquitectura.
+- Syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión humana.
+- Índice narrativo de 1° básico y 11 guías de asignatura con propósito, resultados, prerrequisitos, método, ejes, recorrido OA por OA, evidencia y recuperación.
+- Guía docente, metodología, roadmap y contribución alineados con los estados editoriales verificables.
 - Reemplazo de rutas heredadas del antiguo programa de licenciamiento por rutas propias del currículo escolar.
-- Validación automática de documentos esenciales y de la ausencia de términos heredados.
+- Validación automática de documentos esenciales, las 11 guías completas y la ausencia de términos heredados.
 
 ## 2026-09-24 — Portal curricular profesional y CI reproducible
 

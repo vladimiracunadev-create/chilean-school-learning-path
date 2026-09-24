@@ -1,43 +1,112 @@
-# Centro de documentación
+<div align="center">
 
-Una puerta de entrada para comprender, usar y mejorar Trayectoria Escolar Chile sin confundir cobertura técnica con validación pedagógica.
+# 📚 Centro de documentación
 
-[Abrir el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [Ver 1° básico](PRIMERO_BASICO.md) · [Consultar el estado editorial](../EDITORIAL_STATUS.md)
+## **1° básico desarrollado de principio a fin**
 
-## Elige según lo que necesitas
+**1.034 clases · 237 OA · 11 asignaturas · guías para enseñar, evaluar, acompañar y revisar**
 
-| Si quieres… | Empieza aquí |
+[🌐 Abrir documentación visual](https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html) · [📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+
+</div>
+
+---
+
+## 🎯 Qué resuelve esta documentación
+
+El catálogo contiene miles de clases, pero un número no explica cómo usarlo. Este centro conecta la fuente curricular, el mapa de contenidos, la planificación, la conducción de aula, la evaluación y la revisión editorial.
+
+Aquí puedes responder:
+
+- qué está disponible y con qué estado;
+- cómo elegir y recorrer una secuencia;
+- qué hace diferente a cada asignatura;
+- cómo adaptar sin cambiar el OA;
+- qué observar y cómo decidir después;
+- cómo acompañar desde el hogar;
+- cómo registrar una revisión humana real.
+
+## 🧭 Empieza por tu necesidad
+
+| Necesidad | Documento | Qué encontrarás |
+|---|---|---|
+| Entender el programa completo | [Syllabus](SYLLABUS.md) | público, resultados, estructura, ritmo, método, evaluación, inclusión y límites |
+| Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
+| Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
+| Evaluar | [Rúbrica](RUBRICA_EVALUACION.md) | niveles de evidencia, criterios disciplinares y decisiones |
+| Resolver dudas | [FAQ](FAQ.md) | alcance, tiempos, estados, adaptaciones y fuentes |
+| Acompañar desde el hogar | [Guía para familias](GUIA_FAMILIAS.md) | conversaciones y apoyos sin reemplazar al docente |
+| Revisar contenido | [Protocolo de revisión](REVISION_HUMANA.md) | roles, listas de control, severidad y registro |
+| Comprender la generación | [Metodología](../METHODOLOGY.md) | snapshot, dosificación, estados, artefactos y validación |
+| Contribuir | [Guía de contribución](../CONTRIBUTING.md) | contrato editorial, fuente de verdad y comandos |
+
+## 🗂️ Guías de asignatura de 1° básico
+
+Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
+
+| Asignatura | Guía |
 |---|---|
-| Preparar una clase de 1° básico | [Mapa de contenidos de 1° básico](PRIMERO_BASICO.md) y [guía pedagógica](../TEACHING_GUIDE.md) |
-| Saber qué observar y qué hacer después | [Evaluación formativa](EVALUACION_FORMATIVA.md) |
-| Entender cómo se construyen las secuencias | [Metodología](../METHODOLOGY.md) |
-| Revisar qué está completo y qué sigue pendiente | [Estado editorial](../EDITORIAL_STATUS.md) y [roadmap](../ROADMAP.md) |
-| Encontrar una ruta para tu rol | [Rutas de uso](../LEARNING_PATHS.md) |
-| Auditar la calidad de una clase | [Estándar de calidad](../QUALITY_STANDARD.md) |
-| Ver la procedencia curricular | [Fuentes oficiales](../OFFICIAL_REFERENCES.md) y [textos y lecturas](../BOOKS_AND_READINGS.md) |
-| Proponer una mejora | [Guía de contribución](../CONTRIBUTING.md) |
+| Artes Visuales | [Leer](1-basico/artes-visuales.md) |
+| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) |
+| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) |
+| Matemática | [Leer](1-basico/matematica.md) |
+| Música | [Leer](1-basico/musica.md) |
+| Orientación | [Leer](1-basico/orientacion.md) |
+| Tecnología | [Leer](1-basico/tecnologia.md) |
 
-## Qué está listo hoy
+## 🧠 Flujo de uso
 
-- **Inventario y navegación:** 12.997 clases asociadas a 2.823 OA de 12 niveles.
-- **Desarrollo pedagógico:** 1.034 clases de 1° básico y 22 clases piloto de otros niveles.
-- **Revisión humana registrada:** 0 clases. El proyecto no usa “publicada” como sinónimo de “revisada”.
-- **Portal:** búsqueda, filtros, fichas por OA, enlaces oficiales y páginas navegables.
+~~~mermaid
+flowchart TD
+    A[Elegir nivel, asignatura y OA] --> B[Leer la guía de asignatura]
+    B --> C[Revisar la secuencia completa]
+    C --> D[Definir evidencia y criterios]
+    D --> E[Preparar materiales y acceso]
+    E --> F[Enseñar y observar]
+    F --> G{Decisión}
+    G -->|Avanzar| H[Transferir o profundizar]
+    G -->|Apoyar| I[Grupo breve y nueva evidencia]
+    G -->|Reenseñar| J[Otra representación o explicación]
+~~~
 
-## Cómo leer los estados
+## 📍 Estado verificable
 
-```mermaid
-flowchart LR
-    I[Inventariada] --> S[Secuenciada]
-    S --> D[Desarrollada]
-    D --> R[Revisada]
-    R --> P[Publicada con revisión]
-```
+| Estado | Clases | Lectura correcta |
+|---|---:|---|
+| Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
+| Secuenciadas | 12.997 | tienen posición y dosificación |
+| Desarrolladas | 1.056 | contienen contrato pedagógico completo |
+| Revisadas | 0 | todavía no existe evidencia humana registrada |
+| Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-En el portal actual una clase puede estar publicada para consulta y seguir pendiente de revisión humana. El [estándar de calidad](../QUALITY_STANDARD.md) define la evidencia exigida en cada etapa.
+1° básico reúne 1.034 de las clases desarrolladas. Las 22 restantes son pilotos de otros niveles.
 
-## Alcance responsable
+## 🧱 Arquitectura documental
 
-El repositorio reúne formación general, propuestas MINEDUC, asignaturas dependientes del contexto y opciones de 3°–4° medio. No representa una carga simultánea para un estudiante ni reemplaza los programas del establecimiento, las adecuaciones pertinentes o el criterio docente.
+~~~text
+README.md
+├── docs/README.md                 ← este centro
+├── docs/SYLLABUS.md               ← visión completa de uso
+├── docs/1-basico/README.md        ← índice maestro del nivel
+│   └── 11 guías de asignatura
+├── TEACHING_GUIDE.md              ← conducción pedagógica
+├── docs/RUBRICA_EVALUACION.md     ← evidencia y decisión
+├── docs/FAQ.md                    ← dudas y límites
+├── docs/GUIA_FAMILIAS.md          ← acompañamiento
+├── docs/REVISION_HUMANA.md        ← control experto
+├── METHODOLOGY.md                 ← construcción técnica
+├── QUALITY_STANDARD.md            ← estados editoriales
+└── ROADMAP.md                     ← desarrollo por niveles
+~~~
 
-Los tiempos de 45 y 90 minutos son marcos adaptables. La evidencia real del curso manda sobre la dosificación inicial.
+## 🔎 Cómo leer los estados
+
+“Publicada” describe disponibilidad técnica. “Desarrollada” describe el contrato de contenido. “Revisada” exige control humano documentado. Ninguna de estas palabras sustituye a las otras.
+
+## Fuentes y responsabilidad
+
+El proyecto conserva la URL oficial de cada OA y la fecha del snapshot. No representa al Ministerio de Educación y no reemplaza Programas de Estudio, planificación institucional, adecuaciones pertinentes ni juicio profesional.

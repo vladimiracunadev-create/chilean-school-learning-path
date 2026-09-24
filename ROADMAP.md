@@ -28,7 +28,10 @@ Total actual: **12.997 clases**, **2.823 OA**, **1.056 clases desarrolladas** y 
 - [x] Desarrollar 1.034 clases en 11 asignaturas.
 - [x] Publicar una vista específica del nivel.
 - [x] Incorporar materiales, apoyos, profundización, evidencia y decisión posterior.
-- [x] Documentar el uso docente y la evaluación formativa.
+- [x] Publicar syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión.
+- [x] Publicar índice narrativo y 11 guías de asignatura con recorrido OA por OA.
+- [x] Publicar una portada documental visual y adaptable dentro de Pages.
+- [x] Validar automáticamente que no falte ningún documento ni guía de asignatura.
 - [ ] Registrar revisión humana disciplinar y pedagógica por asignatura.
 
 ### Fase 2 · 2° básico
