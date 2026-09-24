@@ -350,7 +350,7 @@ def documentation_output_path(source):
 
 def documentation_sources():
  root_docs=[path for path in ROOT.glob("*.md") if path.name not in {"README.md","CURRICULUM.md"}]
- return sorted(root_docs+list((ROOT/"docs").rglob("*.md")))
+ return sorted(root_docs+list((ROOT/"docs").rglob("*.md")),key=lambda path:path.relative_to(ROOT).as_posix().lower())
 
 def inline_markdown(value,source,output,mapping):
  def plain(fragment):
