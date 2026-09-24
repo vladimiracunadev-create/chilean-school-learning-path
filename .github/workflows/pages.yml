@@ -26,9 +26,15 @@ jobs:
       - run: python -m compileall -q scripts tests
       - run: git diff --exit-code
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
-      - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+      - name: Package Pages artifact
+        run: tar --dereference --hard-dereference --directory site -cf "$RUNNER_TEMP/artifact.tar" .
+      - uses: actions/upload-artifact@330a01c490aca151604b8cf639adc76d48f6c5d4 # v5
         with:
-          path: site
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          if-no-files-found: error
+          retention-days: 1
+          compression-level: 0
   deploy:
     name: Deploy GitHub Pages
     if: github.event_name != 'pull_request'
