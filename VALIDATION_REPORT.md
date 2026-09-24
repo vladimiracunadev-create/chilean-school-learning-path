@@ -7,6 +7,9 @@ Fecha: 2026-09-24
 - 12.997 clases con código único y ancla web estable.
 - 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
+- 1.034 clases de 1° básico desarrolladas en 237 OA y 11 asignaturas, más 22 clases piloto de otros niveles: 1.056 desarrolladas en total.
+- 0 clases declaradas como revisadas sin evidencia humana.
+- Contrato editorial estructurado con propósito, meta, cinco momentos, materiales, apoyos, profundización, evidencia, criterios, decisión y versión de 45 minutos.
 - Búsqueda, filtros, URL compartible, carga progresiva, tema y estados vacío/error.
 - Sitemap, manifest, 404, metadatos, navegación de teclado, foco visible, diseño adaptable e impresión.
 - Licencias separadas para software, contenido, datos y terceros.
@@ -22,4 +25,4 @@ python -m compileall -q scripts tests
 git diff --exit-code
 ```
 
-La CI ejecuta los mismos gates antes de publicar Pages. Estas comprobaciones verifican estructura y comportamiento observable; la revisión pedagógica y disciplinar humana se registra por separado en [EDITORIAL_STATUS.md](EDITORIAL_STATUS.md).
+La CI ejecuta los mismos gates antes de publicar Pages. El validador comprueba que cada clase marcada como desarrollada materialice su contrato en la fuente y en HTML. Estas comprobaciones verifican estructura y comportamiento observable; la revisión pedagógica y disciplinar humana se registra por separado en [EDITORIAL_STATUS.md](EDITORIAL_STATUS.md).

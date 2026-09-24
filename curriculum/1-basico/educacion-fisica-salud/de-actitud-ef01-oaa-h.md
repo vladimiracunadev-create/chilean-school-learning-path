@@ -16,73 +16,113 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-00218}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…» y demostrarlo mediante desempeño motriz seguro observado con una pauta.
+### Clase 1 de 4: Explorar lo que ya sabemos: demostrar disposición al esfuerzo personal,… {#cl-00218}
+**Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000».
+
+**Meta para estudiantes:** Hoy aprenderé a demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de… y mostraré cómo lo hice.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000». Hace visible el uso de habilidad motriz, control, coordinación, intensidad, seguridad, estrategia y autocuidado y contrasta un ejemplo logrado con el error: priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. |
-| Práctica guiada | 25 min | Construyen juntos desempeño motriz seguro observado con una pauta. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño motriz seguro observado con una pauta sobre **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Sitúa un recorrido corto y seguro con zonas claramente delimitadas. Presenta dos ejemplos contrastados y pide que cada estudiante elija, muestre o explique qué nota. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000», demuestra el movimiento a velocidad lenta, señala postura, control y espacio seguro, y luego muestra un error frecuente. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican en parejas con turnos breves: una persona ejecuta y otra observa un único criterio antes de cambiar. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante completa el recorrido o juego regulando su movimiento y explica una decisión de seguridad o autocuidado. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una respuesta inicial registrada antes y después de conversar vinculada a «recuperar ideas previas y detectar barreras». |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 
-**Errores previsibles:** priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. **Evidencia:** desempeño motriz seguro observado con una pauta que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Combina la habilidad con un cambio de dirección, ritmo o regla manteniendo control y seguridad
 
-### Clase 2 de 4: Comprender y modelar {#cl-00219}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…» y demostrarlo mediante desempeño motriz seguro observado con una pauta.
+**Evidencia:** Una respuesta inicial registrada antes y después de conversar que responda al OA y permita reconocer una decisión del estudiante.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000». Hace visible el uso de habilidad motriz, control, coordinación, intensidad, seguridad, estrategia y autocuidado y contrasta un ejemplo logrado con el error: priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. |
-| Práctica guiada | 25 min | Construyen juntos desempeño motriz seguro observado con una pauta. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño motriz seguro observado con una pauta sobre **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** ejecuta con control progresivo; respeta espacio, reglas y seguridad; reconoce cómo mejorar el movimiento.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Si falta control o seguridad, reduce velocidad, distancia o estímulos y practica el componente crítico; si hay dominio, combina la habilidad con una regla nueva.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
-**Errores previsibles:** priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. **Evidencia:** desempeño motriz seguro observado con una pauta que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Mirar cómo se hace y explicar por qué: demostrar disposición al esfuerzo personal,… {#cl-00219}
+**Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000».
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-00220}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…» y demostrarlo mediante desempeño motriz seguro observado con una pauta.
+**Meta para estudiantes:** Hoy aprenderé a demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de… y mostraré cómo lo hice.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000». Hace visible el uso de habilidad motriz, control, coordinación, intensidad, seguridad, estrategia y autocuidado y contrasta un ejemplo logrado con el error: priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. |
-| Práctica guiada | 25 min | Construyen juntos desempeño motriz seguro observado con una pauta. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño motriz seguro observado con una pauta sobre **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Sitúa un recorrido corto y seguro con zonas claramente delimitadas. Resuelve un ejemplo paso a paso, nombra cada decisión y contrasta un caso que no cumple el criterio. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000», demuestra el movimiento a velocidad lenta, señala postura, control y espacio seguro, y luego muestra un error frecuente. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican en parejas con turnos breves: una persona ejecuta y otra observa un único criterio antes de cambiar. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante completa el recorrido o juego regulando su movimiento y explica una decisión de seguridad o autocuidado. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 
-**Errores previsibles:** priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. **Evidencia:** desempeño motriz seguro observado con una pauta que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Combina la habilidad con un cambio de dirección, ritmo o regla manteniendo control y seguridad
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-00221}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…» y demostrarlo mediante desempeño motriz seguro observado con una pauta.
+**Evidencia:** Una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo que responda al OA y permita reconocer una decisión del estudiante.
+
+**Criterios de éxito:** ejecuta con control progresivo; respeta espacio, reglas y seguridad; reconoce cómo mejorar el movimiento.
+
+**Decisión posterior:** Si falta control o seguridad, reduce velocidad, distancia o estímulos y practica el componente crítico; si hay dominio, combina la habilidad con una regla nueva.
+
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+### Clase 3 de 4: Resolver un desafío con mis propias decisiones: demostrar disposición al esfuerzo personal,… {#cl-00220}
+**Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000».
+
+**Meta para estudiantes:** Hoy aprenderé a demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de… y mostraré cómo lo hice.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000». Hace visible el uso de habilidad motriz, control, coordinación, intensidad, seguridad, estrategia y autocuidado y contrasta un ejemplo logrado con el error: priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. |
-| Práctica guiada | 25 min | Construyen juntos desempeño motriz seguro observado con una pauta. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño motriz seguro observado con una pauta sobre **demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de currículum y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Sitúa un recorrido corto y seguro con zonas claramente delimitadas. Plantea una situación distinta a la ensayada, recuerda los criterios y observa antes de intervenir. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000», demuestra el movimiento a velocidad lenta, señala postura, control y espacio seguro, y luego muestra un error frecuente. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican en parejas con turnos breves: una persona ejecuta y otra observa un único criterio antes de cambiar. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante completa el recorrido o juego regulando su movimiento y explica una decisión de seguridad o autocuidado. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un producto individual que permita ver el razonamiento vinculada a «resolver una situación nueva y justificar decisiones». |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 
-**Errores previsibles:** priorizar velocidad sobre control; omitir calentamiento, hidratación o reglas de seguridad. **Evidencia:** desempeño motriz seguro observado con una pauta que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Combina la habilidad con un cambio de dirección, ritmo o regla manteniendo control y seguridad
+
+**Evidencia:** Un producto individual que permita ver el razonamiento que responda al OA y permita reconocer una decisión del estudiante.
+
+**Criterios de éxito:** ejecuta con control progresivo; respeta espacio, reglas y seguridad; reconoce cómo mejorar el movimiento.
+
+**Decisión posterior:** Si falta control o seguridad, reduce velocidad, distancia o estímulos y practica el componente crítico; si hay dominio, combina la habilidad con una regla nueva.
+
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: demostrar disposición al esfuerzo personal,… {#cl-00221}
+**Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000».
+
+**Meta para estudiantes:** Hoy aprenderé a demostrar disposición al esfuerzo personal, superación y perseverancia. unidad de… y mostraré cómo lo hice.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Sitúa un recorrido corto y seguro con zonas claramente delimitadas. Analiza una respuesta ficticia, localiza una fortaleza y un error, y muestra cómo se mejora sin reemplazar el trabajo del estudiante. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Demostrar disposición al esfuerzo personal, superación y perseverancia. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000», demuestra el movimiento a velocidad lenta, señala postura, control y espacio seguro, y luego muestra un error frecuente. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican en parejas con turnos breves: una persona ejecuta y otra observa un único criterio antes de cambiar. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante completa el recorrido o juego regulando su movimiento y explica una decisión de seguridad o autocuidado. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
+
+**Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
+
+**Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
+
+**Profundización:** Combina la habilidad con un cambio de dirección, ritmo o regla manteniendo control y seguridad
+
+**Evidencia:** Un desempeño final, una revisión visible y una breve autoevaluación que responda al OA y permita reconocer una decisión del estudiante.
+
+**Criterios de éxito:** ejecuta con control progresivo; respeta espacio, reglas y seguridad; reconoce cómo mejorar el movimiento.
+
+**Decisión posterior:** Si falta control o seguridad, reduce velocidad, distancia o estímulos y practica el componente crítico; si hay dominio, combina la habilidad con una regla nueva.
+
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

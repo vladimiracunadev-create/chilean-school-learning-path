@@ -19,8 +19,9 @@ function normalize(value) {
 }
 
 function card(item) {
+  const developed = item.editorial_status === "desarrollada";
   return `<article class="card">
-    <div class="card-top"><span class="tag">${escapeHtml(item.course)}</span><span class="card-index">${escapeHtml(item.class_code)}</span></div>
+    <div class="card-top"><span class="tag">${escapeHtml(item.course)}</span><span class="card-status ${developed ? "developed" : ""}">${developed ? "Desarrollada" : "Secuenciada"}</span><span class="card-index">${escapeHtml(item.class_code)}</span></div>
     <p class="meta">${escapeHtml(item.subject)} · ${escapeHtml(item.oa_code)}</p>
     <h3>${escapeHtml(item.topic)}</h3>
     <p class="axis">${escapeHtml(item.axis)}</p>
@@ -76,7 +77,7 @@ fetch("catalog.json")
   .then((catalog) => {
     state.all = catalog.classes;
     $("#stats").innerHTML = [
-      [catalog.course_count, "niveles"], [catalog.objective_count, "OA inventariados"], [catalog.class_count, "clases"], [catalog.subject_count, "asignaturas"], [catalog.reading_link_count, "lecturas vinculadas"]
+      [catalog.course_count, "niveles"], [catalog.objective_count, "OA inventariados"], [catalog.class_count, "clases"], [catalog.editorial_counts.desarrollada, "clases desarrolladas"], [catalog.reading_link_count, "lecturas vinculadas"]
     ].map(([value, label]) => `<div class="stat"><strong>${value.toLocaleString("es-CL")}</strong><span>${label}</span></div>`).join("");
     appendOptions(controls.level, unique("course"));
     appendOptions(controls.subject, unique("subject"));

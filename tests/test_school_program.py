@@ -22,6 +22,18 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(self.catalog["course_count"], 12)
         self.assertEqual(self.catalog["subject_count"], 35)
         self.assertEqual(len(self.catalog["classes"]), 12997)
+        self.assertEqual(self.catalog["schema_version"], 5)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 1056)
+        self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
+
+    def test_first_grade_is_fully_developed(self):
+        developed = [item for item in self.catalog["classes"] if item["editorial_status"] == "desarrollada"]
+        first_grade = [item for item in self.catalog["classes"] if item["course_order"] == 1]
+        self.assertEqual(len(first_grade), 1034)
+        self.assertTrue(all(item["editorial_status"] == "desarrollada" for item in first_grade))
+        self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
+        self.assertEqual(len({item["subject"] for item in first_grade}), 11)
+        self.assertEqual(len(developed), 1056)
 
     def test_class_ids_and_codes_are_unique(self):
         classes = self.catalog["classes"]

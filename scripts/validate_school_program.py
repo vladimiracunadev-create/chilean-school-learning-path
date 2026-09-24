@@ -14,6 +14,11 @@ REQUIRED_CLASS_FIELDS = {
     "oa_text", "coverage", "source_url", "editorial_status", "publication_status",
     "path", "web_path",
 }
+REQUIRED_DEVELOPED_FIELDS = {
+    "title", "purpose", "goal", "opening", "model", "guided", "independent",
+    "ticket", "materials", "support", "extension", "evidence", "criteria",
+    "next_step", "short_version",
+}
 
 
 def validate(root: Path = ROOT) -> list[str]:
@@ -21,12 +26,13 @@ def validate(root: Path = ROOT) -> list[str]:
     try:
         catalog = json.loads((root / "curriculum/catalog.json").read_text(encoding="utf-8"))
         snapshot = json.loads((root / "sources/mineduc-curriculum-snapshot.json").read_text(encoding="utf-8"))
+        developed = json.loads((root / "content/developed-lessons.json").read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as exc:
         return [f"No se pudo cargar la fuente de verdad: {exc}"]
 
     classes = catalog.get("classes", [])
     objective_count = sum(len(record.get("objectives", [])) for record in snapshot.get("records", []))
-    expected = {"schema_version": 4, "class_count": len(classes), "objective_count": objective_count, "course_count": 12}
+    expected = {"schema_version": 5, "class_count": len(classes), "objective_count": objective_count, "course_count": 12}
     for key, value in expected.items():
         if catalog.get(key) != value:
             errors.append(f"{key}: catálogo={catalog.get(key)!r}, esperado={value!r}")
@@ -35,8 +41,23 @@ def validate(root: Path = ROOT) -> list[str]:
     codes = [item.get("class_code") for item in classes]
     if len(codes) != len(set(codes)):
         errors.append("Hay códigos de clase duplicados")
-    if catalog.get("editorial_counts") != {"inventariada": len(classes), "secuenciada": len(classes), "desarrollada": 0, "revisada": 0, "publicada": len(classes)}:
+    developed_codes = set(developed.get("objectives", {}))
+    developed_count = sum(item.get("course_order") == 1 or item.get("oa_code") in developed_codes for item in classes)
+    if catalog.get("editorial_counts") != {"inventariada": len(classes), "secuenciada": len(classes), "desarrollada": developed_count, "revisada": 0, "publicada": len(classes)}:
         errors.append("Los estados editoriales no coinciden con la cobertura declarada")
+    for oa_code, objective in developed.get("objectives", {}).items():
+        for index, lesson in enumerate(objective.get("lessons", []), 1):
+            missing = REQUIRED_DEVELOPED_FIELDS - lesson.keys()
+            if missing:
+                errors.append(f"{oa_code}, clase {index}: faltan campos editoriales {', '.join(sorted(missing))}")
+            if len(lesson.get("criteria", [])) < 3:
+                errors.append(f"{oa_code}, clase {index}: requiere al menos tres criterios observables")
+            for field in REQUIRED_DEVELOPED_FIELDS - {"criteria"}:
+                if len(str(lesson.get(field, "")).strip()) < 20:
+                    errors.append(f"{oa_code}, clase {index}: {field} no tiene desarrollo suficiente")
+    first_grade = [item for item in classes if item.get("course_order") == 1]
+    if len(first_grade) != 1034 or any(item.get("editorial_status") != "desarrollada" for item in first_grade):
+        errors.append("1° básico no está completamente desarrollado (esperadas: 1.034 clases)")
 
     markdown_cache: dict[str, str] = {}
     html_cache: dict[str, str] = {}
@@ -66,17 +87,28 @@ def validate(root: Path = ROOT) -> list[str]:
                     errors.append(f"{web_path} no contiene {token}")
         if f'id="{web_anchor}"' not in html_cache[web_path]:
             errors.append(f"Falta ancla web {web_anchor} en {web_path}")
+        if item["editorial_status"] == "desarrollada":
+            for token in ("Propósito docente", "Meta para estudiantes", "Materiales y preparación", "Criterios observables", "Decisión posterior"):
+                if token not in html_cache[web_path]:
+                    errors.append(f"{web_path} no materializa el contrato desarrollado: falta {token}")
 
     pages = list((root / "site/classes").rglob("*.html"))
     if len(pages) != objective_count:
         errors.append(f"Páginas de OA: {len(pages)}, esperadas: {objective_count}")
-    for required in ("index.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml"):
+    for required in ("index.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
     sitemap_path = root / "site/sitemap.xml"
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
-    if sitemap.count("<url>") != objective_count + 1:
-        errors.append("El sitemap no enumera portada y todas las páginas de OA")
+    if sitemap.count("<url>") != objective_count + 2:
+        errors.append("El sitemap no enumera portada, vista de 1° básico y todas las páginas de OA")
+    level_page = root / "site/levels/1-basico.html"
+    level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
+    for token in ("1.034", "237", "11", "100% desarrollado", "Contrato pedagógico"):
+        if token not in level_html:
+            errors.append(f"Vista de 1° básico incompleta: falta {token}")
+    if not (root / "docs/PRIMERO_BASICO.md").is_file():
+        errors.append("Falta documentación específica de 1° básico")
     index_path = root / "site/index.html"
     index = index_path.read_text(encoding="utf-8") if index_path.is_file() else ""
     for token in ('lang="es"', '<main>', 'id="explorar"', 'id="q"', 'id="level"', 'id="subject"', 'id="coverage"'):

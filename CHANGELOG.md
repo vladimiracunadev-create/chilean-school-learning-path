@@ -2,6 +2,10 @@
 
 ## 2026-09-24 — Portal curricular profesional y CI reproducible
 
+- 1° básico desarrollado por completo: 1.034 clases, 237 OA y 11 asignaturas, más 22 clases piloto conservadas en otros niveles.
+- Nueva vista profesional del nivel con mapa de contenidos, métricas, ejes y acceso por asignatura, acompañada de documentación específica.
+- Fuente estructurada persistente y contrato automático para impedir que contenido genérico se contabilice como desarrollado.
+- Nuevas fichas de clase con meta estudiantil, materiales, criterios observables, ticket, decisión posterior y adaptación a 45 minutos.
 - Portal rediseñado con búsqueda tolerante a tildes, filtros combinables, URL compartible, carga progresiva, tema claro/oscuro y diseño adaptable.
 - 12.997 clases con identificador estable enlazadas a 2.823 páginas HTML de OA, además de sus fuentes Markdown.
 - Sitemap, manifest, icono, 404 útil, metadatos Open Graph, canonical, impresión y navegación anterior/siguiente.

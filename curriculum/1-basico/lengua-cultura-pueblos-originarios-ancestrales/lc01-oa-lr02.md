@@ -16,90 +16,140 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-00474}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 1 de 5: Explorar lo que ya sabemos: reconocer y distinguir en el contexto,… {#cl-00474}
+**Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…».
+
+**Meta para estudiantes:** Hoy aprenderé a reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando… y mostraré cómo lo hice.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación, colores, números, elementos de la naturaleza, entre otros». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Presenta dos ejemplos contrastados y pide que cada estudiante elija, muestre o explique qué nota. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una respuesta inicial registrada antes y después de conversar vinculada a «recuperar ideas previas y detectar barreras». |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
 
-### Clase 2 de 5: Comprender y modelar {#cl-00475}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Una respuesta inicial registrada antes y después de conversar que responda al OA y permita reconocer una decisión del estudiante.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación, colores, números, elementos de la naturaleza, entre otros». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 5: Mirar cómo se hace y explicar por qué: reconocer y distinguir en el contexto,… {#cl-00475}
+**Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…».
 
-### Clase 3 de 5: Practicar con apoyo {#cl-00476}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Meta para estudiantes:** Hoy aprenderé a reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando… y mostraré cómo lo hice.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación, colores, números, elementos de la naturaleza, entre otros». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Resuelve un ejemplo paso a paso, nombra cada decisión y contrasta un caso que no cumple el criterio. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-00477}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo que responda al OA y permita reconocer una decisión del estudiante.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación, colores, números, elementos de la naturaleza, entre otros». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 3 de 5: Practicar juntos y aprender del intento: reconocer y distinguir en el contexto,… {#cl-00476}
+**Propósito docente:** Acompañar el primer desempeño completo con preguntas y retroalimentación inmediata, centrado en «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…».
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-00478}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Meta para estudiantes:** Hoy aprenderé a reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando… y mostraré cómo lo hice.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación, colores, números, elementos de la naturaleza, entre otros». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Entrega una tarea breve por turno, detiene al grupo en el punto difícil y pregunta qué pista permite continuar. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño guiado y una corrección explicada vinculada a «ensayar con andamiaje y retroalimentación inmediata». |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+
+**Evidencia:** Un desempeño guiado y una corrección explicada que responda al OA y permita reconocer una decisión del estudiante.
+
+**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+
+**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+### Clase 4 de 5: Resolver un desafío con mis propias decisiones: reconocer y distinguir en el contexto,… {#cl-00477}
+**Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…».
+
+**Meta para estudiantes:** Hoy aprenderé a reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando… y mostraré cómo lo hice.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Plantea una situación distinta a la ensayada, recuerda los criterios y observa antes de intervenir. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un producto individual que permita ver el razonamiento vinculada a «resolver una situación nueva y justificar decisiones». |
+
+**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
+
+**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
+
+**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+
+**Evidencia:** Un producto individual que permita ver el razonamiento que responda al OA y permita reconocer una decisión del estudiante.
+
+**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+
+**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+
+### Clase 5 de 5: Mostrar lo aprendido, revisar y mejorar: reconocer y distinguir en el contexto,… {#cl-00478}
+**Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…».
+
+**Meta para estudiantes:** Hoy aprenderé a reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando… y mostraré cómo lo hice.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Analiza una respuesta ficticia, localiza una fortaleza y un error, y muestra cómo se mejora sin reemplazar el trabajo del estudiante. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
+| Modelado | 20 min | Para trabajar «Reconocer y distinguir en el contexto, sonidos propios de la lengua indígena, considerando ámbitos del repertorio lingüístico, como por ejemplo: toponimia, partes del cuerpo, alimentación,…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
+| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
+| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
+| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
+
+**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
+
+**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
+
+**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+
+**Evidencia:** Un desempeño final, una revisión visible y una breve autoevaluación que responda al OA y permita reconocer una decisión del estudiante.
+
+**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+
+**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+
+**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
