@@ -107,8 +107,30 @@ def validate(root: Path = ROOT) -> list[str]:
     for token in ("1.034", "237", "11", "100% desarrollado", "Contrato pedagógico"):
         if token not in level_html:
             errors.append(f"Vista de 1° básico incompleta: falta {token}")
-    if not (root / "docs/PRIMERO_BASICO.md").is_file():
-        errors.append("Falta documentación específica de 1° básico")
+    required_docs = {
+        "README.md": ("12.997", "2.823", "Centro de documentación"),
+        "docs/README.md": ("Qué está listo hoy", "Cómo leer los estados"),
+        "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
+        "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
+        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
+        "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
+        "LEARNING_PATHS.md": ("Docente de 1° básico", "Coordinación pedagógica o UTP"),
+        "ROADMAP.md": ("1.056 clases desarrolladas", "Próximo nivel de desarrollo"),
+        "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
+    }
+    for relative_path, tokens in required_docs.items():
+        document_path = root / relative_path
+        document = document_path.read_text(encoding="utf-8") if document_path.is_file() else ""
+        if not document:
+            errors.append(f"Falta documentación: {relative_path}")
+            continue
+        for token in tokens:
+            if token not in document:
+                errors.append(f"{relative_path} incompleto: falta {token}")
+    learning_paths = (root / "LEARNING_PATHS.md").read_text(encoding="utf-8")
+    for legacy_term in ("Licencias de software", "SPDX/SBOM/REUSE", "data scientists"):
+        if legacy_term in learning_paths:
+            errors.append(f"LEARNING_PATHS.md conserva contenido heredado: {legacy_term}")
     index_path = root / "site/index.html"
     index = index_path.read_text(encoding="utf-8") if index_path.is_file() else ""
     for token in ('lang="es"', '<main>', 'id="explorar"', 'id="q"', 'id="level"', 'id="subject"', 'id="coverage"'):

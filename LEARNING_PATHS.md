@@ -1,39 +1,52 @@
-# Rutas de aprendizaje
+# Rutas de uso
 
-## Ruta esencial — 8 horas
+No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-Para mantenedores que necesitan dejar un repositorio publicable: nivel 1 completo y clases del
-nivel 2 en Licencias de software, Compatibilidad, Dependencias y Distribución; laboratorios 1, 3,
-7, 11 y 17.
+## Docente de 1° básico · preparar y enseñar
 
-**Salida:** repositorio con alcance de licencias, registro de terceros y gate técnico básico.
+1. Abre el [mapa de 1° básico](docs/PRIMERO_BASICO.md).
+2. Elige asignatura y OA desde el portal.
+3. Revisa la clase anterior y siguiente para entender la progresión.
+4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.
+5. Registra la decisión con la [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md).
 
-## Ruta responsable de programa — 20 horas
+**Resultado:** una clase contextualizada que conserva el OA y termina con evidencia útil.
 
-Para tech leads, platform engineers y responsables de open source: los cuatro niveles de
-Licencias, Compatibilidad, Dependencias, SPDX/SBOM/REUSE, Automatización, Distribución y
-Gobernanza; laboratorios 1–3, 6–8, 10–12 y 17–24.
+## Coordinación pedagógica o UTP · revisar cobertura
 
-**Salida:** programa operativo con RACI, excepción con caducidad y expediente de release.
+1. Consulta la [malla completa](CURRICULUM.md) y el [estado editorial](EDITORIAL_STATUS.md).
+2. Distingue formación común, propuestas y opciones según contexto.
+3. Revisa el [estándar de calidad](QUALITY_STANDARD.md).
+4. Muestrea clases por asignatura, eje y momento de la secuencia.
+5. Registra revisión humana solo cuando exista evidencia.
 
-## Ruta educación y contenidos — 14 horas
+**Resultado:** una lectura transparente de cobertura, calidad y vacíos, sin equiparar publicación con validación.
 
-Para docentes, autores y diseñadores instruccionales: los cuatro niveles de Derecho de autor,
-Contenido y Creative Commons, Datos y Marcas; laboratorios 1, 4, 5, 9, 12, 13 y 18. Continúa en
-[Pedagogía y Ciencias del Aprendizaje](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program).
+## Familia o persona cuidadora · comprender el aprendizaje
 
-**Salida:** paquete educativo con atribuciones, alcance y recursos externos trazados.
+1. Busca nivel, asignatura o tema en el [portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/).
+2. Lee “Qué se espera aprender” y la meta para estudiantes.
+3. Revisa materiales y ejemplos para comprender la experiencia propuesta.
+4. Usa la ficha como orientación; coordina apoyos con el establecimiento.
 
-## Ruta datos e IA — 16 horas
+**Resultado:** mayor claridad sobre el propósito de una secuencia, sin convertir el repositorio en tarea paralela ni reemplazar al docente.
 
-Para data scientists y ML engineers: los cuatro niveles de Datos, IA, Dependencias,
-SPDX/SBOM/REUSE y Automatización; laboratorios 1, 3, 5, 6, 8, 9, 11, 14 y 19. Continúa en
-[Python Data Science](https://github.com/vladimiracunadev-create/python-data-science-program) y
-[Evolución de la IA](https://github.com/vladimiracunadev-create/artificial-intelligence-evolution-program).
+## Revisor o colaborador · mejorar contenido
 
-**Salida:** ficha de dataset/modelo, registro de procedencia y reglas de aceptación del corpus.
+1. Lee la [metodología](METHODOLOGY.md) y el [estándar de calidad](QUALITY_STANDARD.md).
+2. Identifica el OA, la clase y el problema observable.
+3. Contrasta con la fuente primaria y documenta el cambio.
+4. Sigue la [guía de contribución](CONTRIBUTING.md).
+5. Ejecuta generación, validadores y tests antes de proponer el aporte.
 
-## Evaluación común
+**Resultado:** una mejora trazable que no rompe identificadores, fuentes ni artefactos derivados.
 
-Cada ruta se evalúa con cuatro preguntas: ¿identifica el activo?, ¿distingue hechos de supuestos?,
-¿permite reconstruir la decisión?, ¿declara lo que necesita revisión especializada?
+## Mantenedor · publicar con seguridad
+
+1. Actualiza primero la fuente estructurada, no los artefactos generados.
+2. Regenera el programa completo.
+3. Revisa el diff y los conteos actuales.
+4. Ejecuta validación, licencias y tests.
+5. Comprueba visualmente el portal y espera el workflow verde.
+
+**Resultado:** documentación, catálogo y portal sincronizados.

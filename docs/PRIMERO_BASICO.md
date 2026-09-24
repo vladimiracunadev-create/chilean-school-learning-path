@@ -2,7 +2,27 @@
 
 > **Nivel completamente desarrollado:** 1.034 clases · 237 OA · 11 asignaturas. Estado de revisión humana: pendiente.
 
-[Ver el nivel en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Explorar todas las clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0+b%C3%A1sico#explorar)
+[Ver el nivel en el portal](https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html) · [Explorar todas las clases](https://vladimiracunadev-create.github.io/chilean-school-learning-path/?nivel=1%C2%B0+b%C3%A1sico#explorar) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
+
+## Cómo usar este mapa
+
+1. Elige una asignatura y revisa sus ejes, OA y número de clases.
+2. Abre el OA en el portal y ubica la clase dentro de la secuencia completa.
+3. Define la evidencia individual y los criterios que observarás.
+4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.
+5. Después del ticket, decide si avanzar, reagrupar o reenseñar.
+
+## Progresión sugerida
+
+~~~mermaid
+flowchart LR
+    A[Experiencia concreta] --> B[Lenguaje y representación]
+    B --> C[Práctica con apoyo]
+    C --> D[Desempeño individual]
+    D --> E[Evidencia y decisión]
+~~~
+
+Esta progresión orienta la enseñanza, pero no obliga a avanzar por calendario. La evidencia del curso puede justificar volver a una representación concreta, ofrecer otra vía de acceso o profundizar.
 
 ## Cobertura
 
@@ -40,10 +60,27 @@ Cada clase del nivel contiene:
 - Casos ficticios y derecho a pasar en Orientación; cuidado territorial y validación comunitaria en lengua y cultura de pueblos originarios.
 - Materiales disponibles, alternativas sin conexión y adaptación de 90 a 45 minutos.
 
+## Decisiones con evidencia
+
+- **Logrado con autonomía:** avanzar o proponer transferencia.
+- **En desarrollo:** mantener el OA y entregar apoyo puntual.
+- **Requiere otra vía de acceso:** cambiar representación, ejemplo o forma de respuesta.
+- **Sin evidencia suficiente:** ofrecer otra oportunidad antes de concluir.
+
+Consulta la [guía de evaluación formativa](EVALUACION_FORMATIVA.md) para criterios y registro.
+
 ## Fuente de verdad y límites
 
-Los conteos se generan desde `curriculum/catalog.json`. La fuente oficial contiene 237 OA; el generador los dosifica en 1034 clases. “Desarrollada” significa que cumple el contrato editorial automatizado; **no significa revisión humana experta**. Ninguna clase se declara revisada hasta registrar esa evidencia.
+Los conteos se generan desde `curriculum/catalog.json`. La fuente oficial contiene 237 OA; el generador los dosifica en 1.034 clases. “Desarrollada” significa que cumple el contrato editorial automatizado; **no significa revisión humana experta**. Ninguna clase se declara revisada hasta registrar esa evidencia.
 
 ## Verificación
 
 La CI regenera las fichas, valida las 1.034 clases del nivel, comprueba campos editoriales y páginas HTML, ejecuta tests y bloquea la publicación si existe deriva. La fecha de la fuente curricular se conserva en cada OA.
+
+## Documentos relacionados
+
+- [Centro de documentación](README.md)
+- [Guía pedagógica](../TEACHING_GUIDE.md)
+- [Metodología](../METHODOLOGY.md)
+- [Estado editorial](../EDITORIAL_STATUS.md)
+- [Roadmap](../ROADMAP.md)

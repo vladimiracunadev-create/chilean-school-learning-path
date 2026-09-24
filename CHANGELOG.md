@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-24 — Arquitectura documental pedagógica
+
+- Centro de documentación con rutas claras para docentes, UTP, familias, revisores y mantenedores.
+- README ampliado con navegación rápida, cobertura por nivel, anatomía de clase y flujo visual desde la fuente hasta la decisión docente.
+- Guías completas de enseñanza y evaluación formativa para aplicar y adaptar las clases de 1° básico.
+- Metodología, roadmap y contribución alineados con los estados editoriales verificables.
+- Reemplazo de rutas heredadas del antiguo programa de licenciamiento por rutas propias del currículo escolar.
+- Validación automática de documentos esenciales y de la ausencia de términos heredados.
+
 ## 2026-09-24 — Portal curricular profesional y CI reproducible
 
 - 1° básico desarrollado por completo: 1.034 clases, 237 OA y 11 asignaturas, más 22 clases piloto conservadas en otros niveles.
