@@ -11,3 +11,5 @@ Casos típicos: capacitación pagada, SaaS/LMS comercial, publicación comercial
 empaquete el material, sublicenciamiento institucional y uso de marca.
 
 **Este archivo no concede por sí mismo una licencia comercial.**
+
+La guía pública de alcance y límites está en [docs/COMMERCIAL_USE.md](docs/COMMERCIAL_USE.md). Ninguna autorización del titular del contenido original alcanza automáticamente texto oficial MINEDUC, obras de terceros, activos con licencia propia o marcas.

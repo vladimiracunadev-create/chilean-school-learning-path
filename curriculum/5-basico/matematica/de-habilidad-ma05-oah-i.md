@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Modelar: Aplicar, seleccionar, modificar y evaluar modelos que involucren las cuatro operaciones con decimales y fracciones, la ubicación en la recta numérica y el plano, el análisis de datos y predicciones de probabilidades en base a experimentos aleatorios.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** datos, representación, estrategia, estimación y verificación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

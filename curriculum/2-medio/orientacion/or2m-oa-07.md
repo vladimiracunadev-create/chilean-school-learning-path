@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Evaluar en su entorno social e institucional cercano, como curso, establecimiento, barrio u otro, instancias en las que puedan participar o contribuir a la resolución de problemáticas a partir del reconocimiento de sí mismos y de los demás como sujetos de derecho, considerando aspectos como el respeto por la dignidad, la diversidad, la equidad de género, la inclusión, la participación democrática, la justicia y el bienestar.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** bienestar, emoción, decisión, vínculo, límite, responsabilidad y red de apoyo. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

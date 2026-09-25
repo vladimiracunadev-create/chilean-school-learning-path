@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Participar en interacciones y exposiciones, recurriendo a las siguientes estrategias para expresarse con claridad y fluidez: Antes de hablar: practicar presentación, organizar la información clave en diagramas, hacer conexiones o establecer relaciones. Al hablar: parafrasear, usar sinónimos y expresiones de uso frecuente ( chunks ), usar rellenos temporales (por ejemplo: I mean...; I see... ), activar uso de conectores, autocorregirse con ayuda. Después de hablar: identificar debilidades, establecer metas, registrar errores y corregirlos con ayuda de recursos.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

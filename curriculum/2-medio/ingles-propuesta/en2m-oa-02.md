@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Comprender textos orales en diversos formatos e interacciones de la clase acerca de temas variados (experiencias personales, temas de otras asignaturas, del contexto inmediato, de actualidad e interés global o de otras culturas), que contienen las funciones del año, identificando: propósito o finalidad del texto, tema e ideas relevantes ideas generales en textos sobre temas menos conocidos información específica y detalles clave asociados a personas, sus acciones y opiniones, lugares, tiempo, hablantes y situaciones relaciones de importancia y problema-solución entre ideas palabras, frases y expresiones clave, expresiones idiomáticas, combinaciones frecuentes de palabras (collocations), vocabulario temático, conectores (neither…nor; either…or; though, unless, as soon as, as a result, y los del año anterior) sonidos iniciales /t/ (to), /d/ (do), sonido /ʒ/ (usually), combinaciones iniciales /sp/ (special), /st/ (student) y cualidades de la voz (acentuación en palabras de dos o más silabas y en palabras compuestas).
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

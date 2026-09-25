@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

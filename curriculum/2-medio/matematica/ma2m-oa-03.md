@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Mostrar que comprenden la función cuadrática f(x)= ax 2 + bx + c (a ≠ 0): Reconociendo la función cuadrática f(x) = ax 2 en situaciones de la vida diaria y otras asignaturas. Representándola en tablas y gráficos de manera manual y/o con software educativo. Determinando puntos especiales de su gráfica. Seleccionándola como modelo de situaciones de cambio cuadrático de otras asignaturas, en particular de la oferta y demanda.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** datos, representación, estrategia, estimación y verificación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

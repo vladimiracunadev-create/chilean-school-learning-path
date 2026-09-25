@@ -40,7 +40,7 @@ def validate(root: Path = ROOT) -> list[str]:
     classes = catalog.get("classes", [])
     official_urls = {objective["code"]: objective["url"] for record in snapshot.get("records", []) for objective in record.get("objectives", [])}
     objective_count = sum(len(record.get("objectives", [])) for record in snapshot.get("records", []))
-    expected = {"schema_version": 7, "class_count": len(classes), "objective_count": objective_count, "course_count": 12}
+    expected = {"schema_version": 8, "class_count": len(classes), "objective_count": objective_count, "course_count": 12}
     for key, value in expected.items():
         if catalog.get(key) != value:
             errors.append(f"{key}: catálogo={catalog.get(key)!r}, esperado={value!r}")

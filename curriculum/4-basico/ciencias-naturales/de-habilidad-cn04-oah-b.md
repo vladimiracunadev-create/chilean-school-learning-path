@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Planificar y llevar a cabo investigaciones guiadas experimentales y no experimentales: obteniendo información para responder a preguntas dadas partir de diversas fuentes sobre la base de una pregunta formulada por ellos u otros estableciendo un procedimiento previo simple para responderla trabajando de forma individual o colaborativa.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

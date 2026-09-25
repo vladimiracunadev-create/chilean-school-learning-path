@@ -1,7 +1,8 @@
 {
-  "schema_version": 7,
+  "schema_version": 8,
   "verified_at": "2026-09-24",
   "source_url": "https://www.curriculumnacional.cl/curriculum/cursos-y-niveles",
+  "rights_notice": "Los códigos, metadatos y textos oficiales conservan los derechos de sus titulares; la licencia de contenido del proyecto solo cubre la elaboración pedagógica original.",
   "class_count": 12997,
   "objective_count": 2823,
   "course_count": 12,

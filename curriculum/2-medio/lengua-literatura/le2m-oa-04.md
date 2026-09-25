@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Analizar los poemas leídos para enriquecer su comprensión, considerando, cuando sea pertinente: Los símbolos presentes en el texto y su relación con la totalidad del poema. La actitud del hablante hacia el tema que aborda. El significado o el efecto que produce el uso de lenguaje figurado en el poema. El efecto que tiene el uso de repeticiones (de estructuras, sonidos, palabras o ideas) en el poema. La relación que hay entre un fragmento y el total del poema. Relaciones intertextuales con otras obras. Las características del soneto.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

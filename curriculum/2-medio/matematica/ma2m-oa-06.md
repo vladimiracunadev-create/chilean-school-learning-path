@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Explicar el cambio porcentual constante en intervalos de tiempo: Por medio de situaciones de la vida real y de otras asignaturas. Identificándolo con el interés compuesto. Representándolo de manera concreta, pictórica y simbólica, de manera manual y/o con software educativo. Expresándolo en forma recursiva f(t+1) - f(t) = a · f(t). Resolviendo problemas de la vida diaria y de otras asignaturas.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** datos, representación, estrategia, estimación y verificación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

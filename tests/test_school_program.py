@@ -24,7 +24,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(self.catalog["course_count"], 12)
         self.assertEqual(self.catalog["subject_count"], 35)
         self.assertEqual(len(self.catalog["classes"]), 12997)
-        self.assertEqual(self.catalog["schema_version"], 7)
+        self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 717)
         self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 242)
         self.assertEqual(self.catalog["editorial_counts"]["integrada"], 97)

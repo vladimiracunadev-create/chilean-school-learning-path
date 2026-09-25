@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Leer y demostrar comprensión de textos literarios (poemas, tiras cómicas, cuentos y novelas adaptadas, mitos o leyendas breves y simples) y textos no literarios (descripciones, artículos de revista, procedimientos, avisos publicitarios, catálogos, emails, diálogos, páginas web, biografías, gráficos, reseñas, noticias) adaptados y auténticos simples, identificando: propósito del texto idea principal, información específica y detalles relaciones de contraste y problema-solución entre ideas. tema como idea general del texto, personajes, caracterización, entorno (tiempo, lugar), trama (inicio, desarrollo, final), conflicto palabras y frases clave, expresiones idiomáticas y de uso frecuente y vocabulario temático combinaciones frecuentes de palabras (collocations), conectores (later, last, so that, although, both y los del año anterior) y palabras derivadas de otras por medio del prefijo ir-, dis-; sufijos: - er, -ist, -ess en nombres de ocupaciones, y -ful.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

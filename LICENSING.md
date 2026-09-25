@@ -42,6 +42,18 @@ Ejemplo de atribución:
 > CC BY-NC-SA 4.0, https://github.com/vladimiracunadev-create/chilean-school-learning-path.
 > Adaptado por [nombre], [fecha].
 
+## Currículo oficial y material MINEDUC
+
+El repositorio separa tres capas que pueden coexistir en una misma ficha:
+
+| Capa | Ejemplos | Regla |
+|---|---|---|
+| Hechos y metadatos | código de OA, nivel, asignatura, eje, URL, fechas e identificadores | se publican con procedencia; no se presume una licencia exclusiva del proyecto |
+| Redacción oficial | texto exacto del OA, descripciones, programas y documentos ministeriales | pertenece a su titular o queda sujeta al régimen aplicable; **no** se incluye en la licencia CC del proyecto |
+| Elaboración original | secuencias, explicaciones, clases, actividades, ejercicios, tareas, rúbricas y apoyos | CC BY-NC-SA 4.0 cuando fue creada por el proyecto |
+
+El snapshot conserva redacciones oficiales para trazabilidad curricular. Su presencia no implica autoría, patrocinio, licencia abierta ni autorización comercial de MINEDUC. Cuando no sea necesario reproducir texto oficial, se prefiere publicar metadatos, referencia, enlace y fecha de consulta.
+
 ## Datos
 
 Los datasets no heredan automáticamente MIT o CC por vivir en el repositorio. Deben declarar
@@ -83,3 +95,9 @@ La versión comunitaria puede permanecer bajo CC BY-NC-SA 4.0 y el titular conce
 comercial independiente a empresas o instituciones.
 
 > Política operativa; no sustituye asesoría jurídica individual.
+
+## Salidas generadas
+
+Markdown, HTML, catálogos JSON, sitemap, GitHub Pages, copias offline y PDF no adquieren una licencia nueva por ser generados. Cada componente conserva la regla de su fuente: código original bajo MIT, elaboración pedagógica original bajo CC BY-NC-SA 4.0, datos según `DATA-LICENSE.md`, activos según `ASSET_LICENSES.md` y material oficial o de terceros bajo los derechos de su titular.
+
+Consulta también [uso comercial](docs/COMMERCIAL_USE.md), [historial](docs/LICENSING_HISTORY.md) y [auditoría](LICENSING_AUDIT.md).

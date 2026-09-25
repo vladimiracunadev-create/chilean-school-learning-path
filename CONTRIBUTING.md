@@ -70,4 +70,16 @@ El equipo mantenedor decide cuándo la evidencia permite cambiar el estado edito
 
 Registra contenido externo y atribuciones según [LICENSING.md](LICENSING.md). Enlaza recursos cuando la licencia no permite redistribución y no copies fragmentos extensos de obras.
 
-Al contribuir confirmas que puedes enviar tu aporte. El código se recibe bajo MIT y el contenido educativo original bajo CC BY-NC-SA 4.0.
+Al contribuir confirmas que puedes enviar el aporte y concederlo bajo la licencia que corresponde:
+
+- código original → MIT;
+- contenido educativo original → CC BY-NC-SA 4.0;
+- material de terceros → solo con licencia, atribución y permiso de redistribución comprobables.
+
+No se exige un CLA. El proyecto adopta el [Developer Certificate of Origin 1.1](https://developercertificate.org/) como declaración ligera de procedencia para contribuciones futuras. Firma cada commit con:
+
+```text
+Signed-off-by: Nombre Apellido <correo@example.com>
+```
+
+La firma confirma que tienes derecho a enviar el aporte, que conoces su carácter público y que su registro puede conservarse. No transfiere la titularidad ni permite relicenciar obras ajenas. Los commits anteriores a la adopción documentada en [el historial de licenciamiento](docs/LICENSING_HISTORY.md) no se consideran firmados retroactivamente.

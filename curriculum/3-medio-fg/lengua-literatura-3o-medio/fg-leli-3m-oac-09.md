@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Investigar sobre diversos temas para enriquecer sus lecturas y análisis, o para responder interrogantes propias de la asignatura: Seleccionando fuentes e información según criterios de validez y confiabilidad. Procesando la información mediante herramientas digitales o impresas. Comunicando sus hallazgos por medio de géneros (escritos, orales o audiovisuales) del ámbito educativo. Haciendo uso ético de la información investigada por medio de recursos de citación y referencia.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

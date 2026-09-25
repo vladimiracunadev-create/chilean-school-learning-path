@@ -325,7 +325,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 El registro curricular fue verificado el **2026-09-24** desde [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/cursos-y-niveles). Se enlazan 595 recursos asociados por MINEDUC; no se reproducen obras protegidas ni se inventa obligatoriedad.
 
-El software original usa [MIT](LICENSE). Las clases, tareas, actividades y guías originales usan [CC BY-NC-SA 4.0](LICENSE-CONTENT.md). Datos, activos y terceros tienen reglas específicas en [DATA-LICENSE.md](DATA-LICENSE.md), [ASSET_LICENSES.md](ASSET_LICENSES.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). La explicación en lenguaje simple está en [Licencias](docs/LICENCIAS.md).
+El software original usa [MIT](LICENSE). Las clases, tareas, actividades y guías originales usan [CC BY-NC-SA 4.0](LICENSE-CONTENT.md); los códigos y textos oficiales MINEDUC conservan los derechos de su titular y no quedan incluidos en esa licencia. Datos, activos y terceros tienen reglas específicas en [DATA-LICENSE.md](DATA-LICENSE.md), [ASSET_LICENSES.md](ASSET_LICENSES.md) y [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Consulta la [política maestra](LICENSING.md), la guía de [uso comercial](docs/COMMERCIAL_USE.md), el [historial](docs/LICENSING_HISTORY.md) y la [auditoría técnica](LICENSING_AUDIT.md).
 
 ---
 

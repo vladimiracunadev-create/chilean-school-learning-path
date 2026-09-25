@@ -1,8 +1,9 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "source": "Currículum Nacional · Ministerio de Educación de Chile",
   "source_url": "https://www.curriculumnacional.cl/curriculum/cursos-y-niveles",
   "verified_at": "2026-09-24",
+  "rights_notice": "Los códigos, metadatos y textos oficiales conservan los derechos de sus titulares; la licencia de contenido del proyecto solo cubre la elaboración pedagógica original.",
   "scope": "1° básico a 4° medio, formación general; coberturas optativas identificadas",
   "records": [
     {

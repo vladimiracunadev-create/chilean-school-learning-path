@@ -159,6 +159,12 @@ def plan(item):
 ## Qué se debe aprender
 > {item['oa_text']}
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 {pedagogical_intro}
 
 {alignment}## Lecturas y textos
@@ -568,11 +574,11 @@ def lesson_page(item, previous_item=None, next_item=None):
 <header class="detail-topbar"><a class="brand" href="../../../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="../../../index.html">← Volver al explorador</a></header>
 <main id="contenido" class="detail-shell"><nav class="breadcrumbs" aria-label="Migas de pan"><a href="../../../index.html">Inicio</a><span>›</span><span>{esc(item['course'])}</span><span>›</span><span>{esc(item['subject'])}</span></nav>
 <header class="lesson-hero"><div><p class="eyebrow">{esc(item['course'])} · {esc(item['subject'])}</p><h1>{esc(item['topic'])}</h1><p class="oa-code">{esc(item['oa_code'])} · {esc(item['axis'])}</p></div><div class="hero-status"><span>Estado editorial</span><strong>{editorial}</strong><small>{editorial_note}</small></div></header>
-<section class="oa-panel" aria-labelledby="oa-title"><p class="eyebrow">Objetivo oficial</p><h2 id="oa-title">Qué se espera aprender</h2><p class="oa-help"><strong>OA significa Objetivo de Aprendizaje:</strong> el resultado que debe alcanzar el estudiante. No es una actividad ni una clase; por eso este OA se desarrolla en una secuencia.</p><blockquote>{esc(item['oa_text'])}</blockquote><div class="oa-meta"><span>{len(item['phases'])} clases</span><span>Bloques adaptables a 45 o 90 min</span><span>{esc(item['coverage'])}</span></div></section>
+<section class="oa-panel" aria-labelledby="oa-title"><p class="eyebrow">Objetivo oficial</p><h2 id="oa-title">Qué se espera aprender</h2><p class="oa-help"><strong>OA significa Objetivo de Aprendizaje:</strong> el resultado que debe alcanzar el estudiante. No es una actividad ni una clase; por eso este OA se desarrolla en una secuencia.</p><blockquote>{esc(item['oa_text'])}</blockquote><p class="rights-note"><strong>Derechos y procedencia:</strong> el código y la redacción del OA proceden de Currículum Nacional (MINEDUC), se muestran con enlace y fecha de consulta y no se declaran obra del proyecto ni se relicencian bajo CC BY-NC-SA 4.0.</p><div class="oa-meta"><span>{len(item['phases'])} clases</span><span>Bloques adaptables a 45 o 90 min</span><span>{esc(item['coverage'])}</span></div></section>
 {alignment_html}<section class="content-section"><div class="section-heading"><div><p class="eyebrow">Secuencia propuesta</p><h2>De la activación a la evidencia</h2></div><p>La dosificación responde a la amplitud y demanda cognitiva del OA. El docente ajusta el ritmo según la evidencia.</p></div>{''.join(sessions)}</section>
 <section class="sources-panel"><div><p class="eyebrow">Trazabilidad HTML</p><h2>Fuente oficial y navegación web</h2><p>Esta página conserva el OA oficial, la fecha de consulta y la secuencia completa sin abandonar el árbol de GitHub Pages.</p></div><ul><li><a href="../../../docs/formatos.html">Cómo se publican los formatos</a><span>Separación entre navegación HTML y navegación Markdown</span></li>{reading_items}<li><a href="{esc(item['source_url'])}" rel="noopener">Ficha oficial del OA</a><span>Currículum Nacional · consulta {esc(item['verified_at'])}</span></li></ul></section>
 <nav class="sequence-nav" aria-label="Objetivos anterior y siguiente">{nav_link(previous_item,'Objetivo anterior')}{nav_link(next_item,'Objetivo siguiente')}</nav></main>
-<footer class="site-footer"><div><strong>Proyecto educativo independiente</strong><span>Clase disponible en Markdown y HTML · contenido original CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../../../docs/licensing.html">Licencias</a></div></footer></body></html>'''
+<footer class="site-footer"><div><strong>Proyecto educativo independiente</strong><span>Elaboración pedagógica original: CC BY-NC-SA 4.0 · texto oficial MINEDUC: derechos de su titular</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../../../docs/licensing.html">Licencias</a></div></footer></body></html>'''
 def main():
  snap=json.loads(SNAPSHOT.read_text(encoding="utf-8"));developed=json.loads(DEVELOPED.read_text(encoding="utf-8"))["objectives"];objs=[];classes=[];num=1
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
@@ -603,7 +609,7 @@ def main():
    developed_count=sum(x["editorial_status"]=="desarrollada" for x in classes)
  draft_count=sum(x["editorial_status"]=="borrador" for x in classes)
  integrated_count=sum(x["editorial_status"]=="integrada" for x in classes)
- cat={"schema_version":7,"verified_at":snap["verified_at"],"source_url":snap["source_url"],"class_count":len(classes),"objective_count":len(objs),"course_count":12,"subject_count":len({x["subject"] for x in classes}),"reading_link_count":sum(len(x["readings"]) for x in objs),"editorial_counts":{"inventariada":len(classes),"secuenciada":len(classes),"borrador":draft_count,"desarrollada":developed_count,"integrada":integrated_count,"revisada":0,"publicada":len(classes)},"classes":classes}
+ cat={"schema_version":8,"verified_at":snap["verified_at"],"source_url":snap["source_url"],"rights_notice":snap["rights_notice"],"class_count":len(classes),"objective_count":len(objs),"course_count":12,"subject_count":len({x["subject"] for x in classes}),"reading_link_count":sum(len(x["readings"]) for x in objs),"editorial_counts":{"inventariada":len(classes),"secuenciada":len(classes),"borrador":draft_count,"desarrollada":developed_count,"integrada":integrated_count,"revisada":0,"publicada":len(classes)},"classes":classes}
  (CURRICULUM/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  pages_root=ROOT/"site"/"classes"
  if pages_root.exists():

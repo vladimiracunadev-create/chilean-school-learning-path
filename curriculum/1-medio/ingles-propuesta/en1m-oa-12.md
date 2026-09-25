@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Demostrar conocimiento y uso del lenguaje en sus textos escritos por medio de las siguiente funciones: expresar cantidades, contar y enumerar; por ejemplo: there are a few/few girls; there is little sugar left. describir personas y situaciones; por ejemplo: he is polite/impolite; it was complete/incomplete/le gal/ illegal. identificar y describir lugares, ocupaciones y personas (cualidades); por ejemplo: it's very busy/crowded/ colorful/ cheerful; he is interested in…/it is interesting; he is a teacher/pianist/waitress; she is good at…; he is responsible/irresponsibl e/ respectful/disrespectful. expresar opiniones y hacer referencia a las opiniones de otros; por ejemplo: In my opinion…; according to… conectar ideas; por ejemplo: although it's cheap, I'm not sure; come early so that we can talk; both Luis and Tomas are my neighbors; and last... describir acciones que comenzaron en el pasado y que aun continúan o acaban de finalizar; por ejemplo: we have been training for 3 months; she has been working all day. describir situaciones hipotéticas o imaginarias y dar consejos; por ejemplo: if I were you, I would tell her the truth; he would meet more people if he spoke English.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Explicar el problema económico de la escasez y las necesidades ilimitadas con ejemplos de la vida cotidiana, y de las relaciones económicas (por ejemplo, compra y venta de bienes y servicios, pago de remuneraciones y de impuestos, importaciones-exportaciones) que se dan entre los distintos agentes (personas, familias, empresas, Estado y resto del mundo).
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

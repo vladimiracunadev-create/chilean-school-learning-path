@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Investigar sobre temas del nivel, considerando los siguientes elementos: Definición de un problema y/o pregunta de investigación. Planificación de la investigación sobre la base de la selección y el análisis de la información obtenida de fuentes. Aplicación de distintas estrategias para registrar, citar y organizar la información obtenida. Elaboración de conclusiones relacionadas con las preguntas iniciales. Comunicación de los resultados de la investigación. Utilización de TIC y de otras herramientas.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

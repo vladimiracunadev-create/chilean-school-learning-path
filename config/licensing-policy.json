@@ -4,6 +4,8 @@
   "software": "MIT",
   "educational_content": "CC-BY-NC-SA-4.0",
   "unknown_external_content": "QUARANTINE",
+  "official_text": "RIGHTS_RETAINED_BY_SOURCE",
+  "generated_outputs": "INHERIT_BY_COMPONENT",
   "software_paths": [
     "src/**",
     "app/**",

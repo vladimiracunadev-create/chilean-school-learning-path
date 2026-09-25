@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Participar, liderar y promover una variedad de actividades físicas y/o deportivas de su interés y que se desarrollen en su comunidad escolar y/o en su entorno; por ejemplo: Sugerir estrategias grupales para organizar actividades físicas y/o deportivas. Demostrar distintos estilos de liderazgo en la promoción de una vida activa. Proponer y crear una variedad de actividades físicas y deportivas para desarrollar los planes para promover una vida activa en su comunidad. Fomentar y crear estrategias para adherir a la práctica de actividad física permanente.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** habilidad motriz, control, coordinación, intensidad, seguridad, estrategia y autocuidado. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

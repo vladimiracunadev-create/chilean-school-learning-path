@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Demostrar disposición hacia la prevención de riesgos y el autocuidado, entendidos como la capacidad progresiva de valorar la vida, del cuerpo, el bienestar y la salud; así como el desarrollo de prácticas y hábitos para mejorar la propia seguridad y la de los demás y, con ello, prevenir riesgos. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono: +56 2 24066000
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** necesidad, usuario, criterio, restricción, diseño, prototipo, prueba e impacto. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

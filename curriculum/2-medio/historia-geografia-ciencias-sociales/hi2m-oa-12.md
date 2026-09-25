@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Caracterizar la extendida pobreza y precariedad de la sociedad chilena de mediados del siglo XX (magros indicadores sociodemográficos, bajo poder adquisitivo y de acceso al crédito, desnutrición y marginalidad) y evaluar el impacto que generó en esta sociedad la migración del campo a la ciudad (por ejemplo, el progresivo crecimiento de la población urbana, la segregación urbana y la escasez de viviendas.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

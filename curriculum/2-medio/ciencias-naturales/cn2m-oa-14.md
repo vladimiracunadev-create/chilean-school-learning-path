@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Explicar cualitativamente por medio de las leyes de Kepler y la de gravitación universal de Newton: El origen de las mareas. La formación y dinámica de estructuras cósmicas naturales, como el sistema solar y sus componentes, las estrellas y las galaxias. El movimiento de estructuras artificiales como sondas, satélites y naves espaciales.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

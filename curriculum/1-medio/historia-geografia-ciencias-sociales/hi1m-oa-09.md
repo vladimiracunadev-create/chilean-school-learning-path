@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Caracterizar la consolidación de la República en Chile, considerando la defensa del territorio nacional, el voto censitario, la institucionalización del debate político (por ejemplo, la estructuración del sistema de partidos, la discusión parlamentaria, la prensa política, etc.) y la persistencia de conflictos como la crítica al centralismo y el debate sobre las atribuciones del Ejecutivo y del Legislativo.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Dialogar constructivamente para debatir o explorar ideas: Manteniendo el foco. Demostrando comprensión de lo dicho por el interlocutor. Fundamentando su postura de manera pertinente y usando información que permita cumplir los propósitos establecidos. Distinguiendo afirmaciones basadas en evidencias de aquellas que no lo están. Retomando lo dicho por otros a través del parafraseo antes de contribuir con una idea nueva o refutar un argumento. Negociando acuerdos con los interlocutores. Reformulando sus comentarios para desarrollarlos mejor. Considerando al interlocutor para la toma de turnos.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

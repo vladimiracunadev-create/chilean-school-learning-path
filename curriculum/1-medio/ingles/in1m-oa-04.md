@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Seleccionar y usar estrategias para apoyar la comprensión de los textos escuchados: Hacer predicciones. Escuchar con un propósito. Usar conocimientos previos. Hacer inferencias con el apoyo de claves contextuales (tema, participantes, apoyo visual) y pistas fonológicas (entonación, acentuación). Focalizar la atención en expresiones o frases clave. Utilizar apoyos como gestos del hablante y entonación. Pedir repetición o clarificación en interacciones. Confirmar predicciones. Resumir algunas ideas relevantes con apoyo. Preguntar para confirmar comprensión.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

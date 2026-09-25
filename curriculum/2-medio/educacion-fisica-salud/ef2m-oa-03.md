@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Diseñar, evaluar y aplicar un plan de entrenamiento personal para alcanzar una condición física saludable, desarrollando la resistencia cardiovascular, la fuerza muscular, la velocidad y la flexibilidad, considerando: Tiempo asignado para el plan de entrenamiento (por ejemplo: 4 a 6 semanas). Frecuencia, intensidad, tiempo de duración y recuperación, progresión y tipo de ejercicio. Niveles de condición física al iniciar el plan de entrenamiento. Actividades físicas que sean de interés personal y contribuyan a mejorar la condición física. Ingesta y gasto calórico.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** habilidad motriz, control, coordinación, intensidad, seguridad, estrategia y autocuidado. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

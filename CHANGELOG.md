@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-25 — Auditoría y endurecimiento de licencias
+
+- Separación expresa entre hechos/metadatos, redacción oficial MINEDUC y elaboración pedagógica original.
+- Avisos de derechos regenerados en las 2.823 fichas Markdown y HTML, sin relicenciar texto oficial.
+- `DATA-LICENSE.md` consolidado como nombre canónico y protegido contra aliases obsoletos.
+- Inventario de datasets y activos, procedencia del snapshot, enlaces legales y avisos generados cubiertos por el validador.
+- Guías de uso comercial e historial de licenciamiento, auditoría técnica y DCO 1.1 para contribuciones futuras.
+- Catálogo schema 8 con `rights_notice` heredado por las salidas JSON.
+
 ## 2026-09-24 — Corrección del estado pedagógico
 
 - Reclasificación de 1.020 textos automáticos de 1° básico como borradores, no clases desarrolladas.

@@ -21,12 +21,15 @@ No existe una licencia única para todos los datos.
 
 | Artefacto | Procedencia | Redistribución en este repo | Regla práctica |
 |---|---|---|---|
-| `sources/mineduc-curriculum-snapshot.json` | páginas públicas de Currículum Nacional | metadatos, descripciones y enlaces con trazabilidad | conservar fuente y fecha; no presentar como dataset oficial emitido por MINEDUC |
-| `curriculum/catalog.json` | transformación estructurada del snapshot y contenido propio | sí, como parte del proyecto | la estructura y campos originales siguen la licencia de contenido; cada componente conserva sus derechos |
-| `site/catalog.json` | copia compacta generada del catálogo | sí, como artefacto técnico | mismas condiciones que `curriculum/catalog.json` |
+| `sources/mineduc-curriculum-snapshot.json` | páginas públicas de Currículum Nacional | metadatos, redacciones oficiales y enlaces con trazabilidad; no se ofrece una licencia autónoma sobre la redacción oficial | conservar fuente y fecha; no presentar como dataset oficial emitido por MINEDUC ni como contenido CC del proyecto |
+| `curriculum/catalog.json` | transformación estructurada del snapshot y contenido propio | sí, como salida mixta del proyecto | hechos/metadatos, redacción oficial y elaboración original conservan reglas separadas; no existe una licencia única para todos los campos |
+| `site/catalog.json` | copia compacta generada del catálogo | sí, como artefacto técnico mixto | mismas condiciones por componente que `curriculum/catalog.json`; la minificación no cambia derechos |
 | `content/developed-lessons.json` | redacción educativa original | sí, bajo CC BY-NC-SA 4.0 | atribuir, uso no comercial y compartir adaptaciones igual |
+| `content/development-plan.json` | planificación editorial original generada por el proyecto | sí, bajo CC BY-NC-SA 4.0 | atribuir, uso no comercial y compartir adaptaciones igual |
 
 Los hechos y códigos curriculares pueden no estar protegidos del mismo modo que una redacción creativa. Esta política no afirma dominio sobre materiales oficiales: documenta procedencia y evita mezclar licencias.
+
+Los catálogos JSON, Markdown, HTML, sitemap, GitHub Pages, copias offline y PDF heredan las reglas de sus fuentes. La transformación técnica o el cambio de formato no relicencian una redacción oficial ni una obra de tercero.
 
 ## Dataset propio
 

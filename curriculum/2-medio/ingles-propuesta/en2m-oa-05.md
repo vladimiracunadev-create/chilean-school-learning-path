@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Leer y demostrar comprensión de textos relacionados con temas conocidos, del contexto inmediato, de otras asignaturas, de actualidad e interés global, de variadas culturas o acerca de experiencias personales, en formato impreso o digital que contengan las siguientes funciones: solicitar información sobre frecuencia de actividades describir frecuencia, tiempo, grado de acciones describir acciones que ocurrieron antes que otra acción en el pasado identificar y describir lugares, ocupaciones y personas (cualidades) confirmar información expresar sugerencias, ofrecimientos expresar acuerdo o desacuerdo conectar ideas expresar énfasis en quien realiza la acción informar lo que otros dicen.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

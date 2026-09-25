@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Reaccionar a textos leídos o escuchados por medio de exposiciones orales, discusiones, conversaciones grupales, dramatizaciones, composiciones, resúmenes breves o esquemas en los que: hacen conexiones con otras asignaturas, la lengua materna y su cultura, la vida cotidiana, experiencias personales y otras culturas, con frecuencia; por ejemplo: I used to…; I have been/seen/learned/read… explican relación entre ideas o información; por ejemplo: although…; first…, then…, finally…; if…; for example…; …but… expresan sentimientos, interpretaciones o puntos de vista; por ejemplo: In my opinion…; according to… resumen y sintetizan información generan preguntas o hipótesis; por ejemplo: How long has he…? Have they…? I think they are…
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Analizar el ambiente de crisis a inicios de la década del 70, considerando aspectos como la polarización social y política, la retórica de la violencia, la desvalorización de la institucionalidad democrática, los conflictos en torno a la reforma agraria, las estatizaciones y expropiaciones, la crisis económica y la hiperinflación, la movilización social, la intervención extranjera y el rol de las Fuerzas Armadas.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

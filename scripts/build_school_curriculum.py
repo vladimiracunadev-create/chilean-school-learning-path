@@ -162,10 +162,11 @@ def refresh_snapshot() -> dict[str, object]:
             })
             print(f"{course_name}: {subject['name']} — {len(objectives)} OA", flush=True)
     snapshot = {
-        "schema_version": 1,
+        "schema_version": 2,
         "source": "Currículum Nacional · Ministerio de Educación de Chile",
         "source_url": f"{BASE_URL}/curriculum/cursos-y-niveles",
         "verified_at": date.today().isoformat(),
+        "rights_notice": "Los códigos, metadatos y textos oficiales conservan los derechos de sus titulares; la licencia de contenido del proyecto solo cubre la elaboración pedagógica original.",
         "scope": "1° básico a 4° medio, formación general; coberturas optativas identificadas",
         "records": records,
     }
@@ -289,6 +290,7 @@ def build(snapshot: dict[str, object]) -> dict[str, object]:
         "schema_version": 2,
         "verified_at": snapshot["verified_at"],
         "source_url": snapshot["source_url"],
+        "rights_notice": snapshot["rights_notice"],
         "class_count": len(classes),
         "course_count": len({item["course"] for item in classes}),
         "subject_count": len({item["subject"] for item in classes}),

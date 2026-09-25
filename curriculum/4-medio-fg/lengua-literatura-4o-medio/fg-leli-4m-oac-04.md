@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Evaluar los recursos lingüísticos y no lingüísticos (visuales, sonoros y gestuales) al comprender textos, considerando su incidencia en el posicionamiento frente al tema, en los roles y actitudes asumidos ante la audiencia*, y la forma en que dichos recursos se combinan para construir el sentido del discurso. *Por ejemplo: léxico valorativo, uso de deícticos, uso de verbos, construcciones oracionales, puntuación, etc.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

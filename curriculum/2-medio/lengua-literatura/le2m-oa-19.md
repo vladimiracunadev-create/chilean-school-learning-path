@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Comprender, comparar y evaluar textos orales y audiovisuales, tales como exposiciones, discursos, documentales, noticias, reportajes, etc., considerando: Su postura personal frente a lo escuchado y argumentos que la sustenten. Una ordenación de la información en términos de su relevancia. El contexto en el que se enmarcan los textos. El uso de estereotipos, clichés y generalizaciones. Los argumentos y elementos de persuasión que usa el hablante para sostener una postura. Diferentes puntos de vista expresados en los textos. La contribución de imágenes y sonido al significado del texto. Las relaciones que se establecen entre imágenes, texto y sonido. Relaciones entre lo escuchado y los temas y obras estudiados durante el curso.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

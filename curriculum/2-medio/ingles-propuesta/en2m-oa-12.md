@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Demostrar conocimiento y uso del lenguaje en sus textos escritos por medio de las siguientes funciones: solicitar información sobre frecuencia de actividades; por ejemplo: How often do you practice sports? expresar acuerdo o desacuerdo, opinión, posesión, tiempo; por ejemplo: I agree/disagree with…; I was left without…; he has been working during the summer; I believe that/in… conectar ideas; por ejemplo: neither John nor Susan are in the office; he looks tough, he is shy, though; It is raining today, as a result the air will be cleaner in the city; he told us to go as soon as we could. expresar énfasis en quien realiza la acción; por ejemplo: he cut himself. informar lo que otros dicen; por ejemplo: Mr. Brown said he had finished the report; she told me to go home. describir frecuencia, tiempo, grado de acciones; por ejemplo: I usually /often call her in the morning; he is rather shy; Susan will be here soon. describir acciones que ocurrieron antes de otra acción en el pasado; por ejemplo: He didn't have money because he had lost his wallet.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos

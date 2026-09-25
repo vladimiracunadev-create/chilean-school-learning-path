@@ -6,6 +6,12 @@
 ## Qué se debe aprender
 > Evaluar cómo la participación de nuevos actores sociales y la expansión de la cultura de masas, a mediados de siglo XX, contribuyeron a la democratización de la sociedad chilena, considerando la incorporación de las mujeres a la ciudadanía política, el empoderamiento de la clase media y de la clase obrera, y el creciente acceso a la radio, el cine, el deporte, entre otros.
 
+> **Derechos y procedencia:** el código y la redacción del OA anterior proceden de
+> Currículum Nacional (MINEDUC) y se reproducen con enlace y fecha de consulta para
+> trazabilidad. No se declaran obra del proyecto ni quedan cubiertos por la licencia
+> CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
+> [LICENSING.md](../../../LICENSING.md).
+
 **Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
 
 ## Lecturas y textos
