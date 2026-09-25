@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 1° básico · **Asignatura activa:** Matemática · **Unidad de entrega:** asignatura completa
+**Nivel activo:** 1° básico · **Asignatura activa:** Lenguaje y Comunicación · **Unidad de entrega:** asignatura completa
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -24,7 +24,7 @@ flowchart LR
 | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |
 |---:|---|---:|---:|---:|---|
 | 1 | Matemática | 20 | 83 | 16 | Desarrollo interno completo · revisión humana pendiente |
-| 2 | Lenguaje y Comunicación | 26 | 131 | 7 | 1/26 OA desarrollados |
+| 2 | Lenguaje y Comunicación | 26 | 131 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 3 | Ciencias Naturales | 12 | 49 | 10 | 0/12 OA desarrollados |
 | 4 | Historia, Geografía y Ciencias Sociales | 15 | 68 | 16 | 0/15 OA desarrollados |
 | 5 | Artes Visuales | 5 | 24 | 7 | 1/5 OA desarrollados |
@@ -70,34 +70,34 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `LE01 OA 01` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-01) |
-| `LE01 OA 02` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-02) |
+| `LE01 OA 01` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-01) |
+| `LE01 OA 02` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-02) |
 | `LE01 OA 03` | Lectura - Comprensión | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-03) |
-| `LE01 OA 04` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-04) |
-| `LE01 OA 05` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-05) |
-| `LE01 OA 06` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-06) |
-| `LE01 OA 07` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-07) |
-| `LE01 OA 08` | Lectura - Comprensión | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-08) |
-| `LE01 OA 09` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-09) |
-| `LE01 OA 10` | Lectura - Comprensión | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-10) |
-| `LE01 OA 11` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-11) |
-| `LE01 OA 12` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-12) |
-| `LE01 OA 13` | Escritura - Producción | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-13) |
-| `LE01 OA 14` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-14) |
-| `LE01 OA 15` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-15) |
-| `LE01 OA 16` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-16) |
-| `LE01 OA 17` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-17) |
-| `LE01 OA 18` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-18) |
-| `LE01 OA 19` | Comunicación oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-19) |
-| `LE01 OA 20` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-20) |
-| `LE01 OA 21` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-21) |
-| `LE01 OA 22` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-22) |
-| `LE01 OA 23` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-23) |
-| `LE01 OA 24` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-24) |
-| `LE01 OA 25` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-25) |
-| `LE01 OA 26` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-26) |
+| `LE01 OA 04` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-04) |
+| `LE01 OA 05` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-05) |
+| `LE01 OA 06` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-06) |
+| `LE01 OA 07` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-07) |
+| `LE01 OA 08` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-08) |
+| `LE01 OA 09` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-09) |
+| `LE01 OA 10` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-10) |
+| `LE01 OA 11` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-11) |
+| `LE01 OA 12` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-12) |
+| `LE01 OA 13` | Escritura - Producción | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-13) |
+| `LE01 OA 14` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-14) |
+| `LE01 OA 15` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-15) |
+| `LE01 OA 16` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-16) |
+| `LE01 OA 17` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-17) |
+| `LE01 OA 18` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-18) |
+| `LE01 OA 19` | Comunicación oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-19) |
+| `LE01 OA 20` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-20) |
+| `LE01 OA 21` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-21) |
+| `LE01 OA 22` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-22) |
+| `LE01 OA 23` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-23) |
+| `LE01 OA 24` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-24) |
+| `LE01 OA 25` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-25) |
+| `LE01 OA 26` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/1-basico/le01-oa-26) |
 
-**Integración transversal pendiente:** 7 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 29 experiencias dentro de las 131 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Ciencias Naturales
 
@@ -277,7 +277,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo matematica | Los 20 OA de contenido de Matemática registran URL oficial, unidades e indicadores; las 83 clases se verifican en catálogo, Markdown y HTML |
+| Documental y fuentes | control interno completo matematica y lenguaje | Matemática y Lenguaje registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

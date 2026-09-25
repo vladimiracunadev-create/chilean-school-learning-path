@@ -6,7 +6,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
-| 1° básico | 237 | 1.034 | En reconstrucción · 93 desarrolladas · 68 integradas · 873 borradores |
+| 1° básico | 237 | 1.034 | En reconstrucción · 220 desarrolladas · 97 integradas · 717 borradores |
 | 2° básico | 247 | 1.072 | Próximo nivel de desarrollo |
 | 3° básico | 257 | 1.136 | Secuenciado · 11 clases piloto desarrolladas |
 | 4° básico | 268 | 1.195 | Secuenciado · 4 clases piloto desarrolladas |
@@ -19,14 +19,15 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **115 clases desarrolladas**, **68 experiencias integradas**, **873 borradores identificados** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **242 clases desarrolladas**, **97 experiencias integradas**, **717 borradores identificados** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
 ### Fase 1 · 1° básico
 
-- [ ] Desarrollar 1.034 propuestas en 11 asignaturas (93 clases desarrolladas; 68 experiencias integradas; 873 borradores pendientes).
+- [ ] Desarrollar 1.034 propuestas en 11 asignaturas (220 clases desarrolladas; 97 experiencias integradas; 717 borradores pendientes).
 - [x] Completar Matemática: 83 clases en 20 OA de contenido y 16 OA transversales integrados.
+- [x] Completar Lenguaje y Comunicación: 131 clases en 26 OA de contenido y 7 OA de actitudes integrados.
 - [x] Publicar una vista específica del nivel.
 - [ ] Incorporar contenido específico, materiales, apoyos, profundización, evidencia y decisión posterior OA por OA.
 - [x] Publicar syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión.

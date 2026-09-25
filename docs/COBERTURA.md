@@ -4,7 +4,7 @@ El catálogo cubre 12 niveles, 2.823 Objetivos de Aprendizaje (OA) y 12.997 clas
 
 | Nivel | OA | Propuestas | Desarrolladas | Integradas | Borradores |
 |---|---:|---:|---:|---:|---:|
-| 1° básico | 237 | 1.034 | 93 | 68 | 873 |
+| 1° básico | 237 | 1.034 | 220 | 97 | 717 |
 | 2° básico | 247 | 1.072 | 0 | 0 | 0 |
 | 3° básico | 257 | 1.136 | 11 | 0 | 0 |
 | 4° básico | 268 | 1.195 | 4 | 0 | 0 |
@@ -16,7 +16,7 @@ El catálogo cubre 12 niveles, 2.823 Objetivos de Aprendizaje (OA) y 12.997 clas
 | 2° medio | 248 | 1.200 | 0 | 0 | 0 |
 | 3° medio · Formación General | 98 | 495 | 0 | 0 | 0 |
 | 4° medio · Formación General | 91 | 466 | 0 | 0 | 0 |
-| **Total** | **2.823** | **12.997** | **115** | **68** | **873** |
+| **Total** | **2.823** | **12.997** | **242** | **97** | **717** |
 
 “Secuenciada” significa que la clase tiene posición y dosificación. “Desarrollada” exige contenido pedagógico completo. “Revisada” exige evidencia humana registrada; actualmente hay 0 clases revisadas. Estas categorías no son equivalentes.
 

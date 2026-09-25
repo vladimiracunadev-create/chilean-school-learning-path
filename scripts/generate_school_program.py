@@ -9,6 +9,7 @@ from urllib.parse import quote
 from build_school_curriculum import ROOT,SNAPSHOT,CURRICULUM,slugify,topic_from
 from grade_one_lessons import build_grade_one_lessons
 from grade_one_math_lessons import build_math_sequence, transversal_links
+from grade_one_language_lessons import attitude_link, build_language_sequence
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
 def dose(text,slug,reads):
@@ -42,7 +43,9 @@ def developed_block(lesson):
  complementary="\n".join(f"- {activity}" for activity in lesson.get("complementary", []))
  difficulties="\n".join(f"| {row['signal']} | {row['action']} | {row['check']} |" for row in lesson.get("difficulty_actions", []))
  transversal="\n".join(f"- **{row['type']} · `{row['code']}`:** {row['application']}" for row in lesson.get("transversal", []))
- transversal_section=f"\n\n**Integración de habilidades y actitudes matemáticas:**\n{transversal}" if transversal else ""
+ transversal_types={row["type"] for row in lesson.get("transversal", [])}
+ transversal_heading="Integración de habilidad y actitud" if len(transversal_types)>1 else "Integración de actitud transversal"
+ transversal_section=f"\n\n**{transversal_heading}:**\n{transversal}" if transversal else ""
  return f"""**Propósito docente:** {lesson['purpose']}
 
 **Meta para estudiantes:** {lesson['goal']}
@@ -88,14 +91,18 @@ def official_alignment_markdown(item):
  if not data:return ""
  units="\n".join(f"- {value}" for value in data.get("units",[]))
  indicators="\n".join(f"- {value}" for value in data.get("indicators",[]))
+ derived=bool(data.get("indicator_origin"))
+ indicator_heading="Criterios de progresión derivados del OA" if derived else "Indicadores considerados para diseñar la secuencia"
+ indicator_note=f"\n> **Origen:** {data['indicator_origin']}.\n" if derived else ""
+ source_label="Fuente oficial del OA" if derived else "Fuente oficial de unidades e indicadores"
  return f"""## Alineación con el programa oficial
 **Unidades relacionadas**
 {units}
 
-**Indicadores considerados para diseñar la secuencia**
+**{indicator_heading}**
 {indicators}
-
-- [Fuente oficial de unidades e indicadores]({data['source']})
+{indicator_note}
+- [{source_label}]({data['source']})
 
 """
 
@@ -105,7 +112,9 @@ def official_alignment_html(item):
  units="".join(f"<li>{html.escape(value)}</li>" for value in data.get("units",[]))
  indicators="".join(f"<li>{html.escape(value)}</li>" for value in data.get("indicators",[]))
  source=html.escape(data["source"],quote=True)
- return f'''<section class="sources-panel official-alignment"><div><p class="eyebrow">Programa oficial</p><h2>Unidades e indicadores usados</h2><p>Esta secuencia específica se diseñó a partir de la progresión publicada por Currículum Nacional.</p></div><div><h3>Unidades relacionadas</h3><ul>{units}</ul><h3>Indicadores considerados</h3><ul>{indicators}</ul><p><a href="{source}" rel="noopener">Consultar fuente oficial</a></p></div></section>'''
+ indicator_heading="Criterios de progresión derivados del OA" if data.get("indicator_origin") else "Indicadores considerados"
+ indicator_note=f'<p><strong>Origen:</strong> {html.escape(data["indicator_origin"])}</p>' if data.get("indicator_origin") else ""
+ return f'''<section class="sources-panel official-alignment"><div><p class="eyebrow">Alineación curricular</p><h2>Fuente y progresión utilizada</h2><p>Esta secuencia conserva la ficha oficial y explicita el origen de sus criterios de diseño.</p></div><div><h3>Unidades relacionadas</h3><ul>{units}</ul><h3>{indicator_heading}</h3><ul>{indicators}</ul>{indicator_note}<p><a href="{source}" rel="noopener">Consultar fuente oficial</a></p></div></section>'''
 
 def plan(item):
  vocab,product,errors=discipline(item["subject_slug"]);parts=[]
@@ -285,6 +294,7 @@ def grade_one_subject_documentation(subject,objectives,previous_subject=None,nex
  profile=GRADE_ONE_SUBJECT_PROFILES[subject["slug"]]
  scope=f"{subject['oa']} OA · {subject['classes']} propuestas"
  if subject["slug"]=="matematica":scope="20 OA de contenido · 83 clases desarrolladas · 16 OA transversales · 68 experiencias integradas"
+ if subject["slug"]=="lenguaje-comunicacion":scope="26 OA de contenido · 131 clases desarrolladas · 7 OA transversales · 29 experiencias integradas"
  axis_rows=[]
  for axis in subject["axes"]:
   axis_objectives=[item for item in objectives if item["axis"]==axis]
@@ -503,7 +513,9 @@ def developed_lesson_html(item,index,code,lesson,status):
  complementary="".join(f"<li>{esc(value)}</li>" for value in lesson.get("complementary", []))
  difficulties="".join(f"<tr><td>{esc(row['signal'])}</td><td>{esc(row['action'])}</td><td>{esc(row['check'])}</td></tr>" for row in lesson.get("difficulty_actions", []))
  transversal="".join(f"<li><strong>{esc(row['type'])} · {esc(row['code'])}:</strong> {esc(row['application'])}</li>" for row in lesson.get("transversal", []))
- transversal_panel=f'<section class="transversal-panel"><p class="eyebrow">Integración curricular</p><h3>Habilidad y actitud en esta clase</h3><ul>{transversal}</ul></section>' if transversal else ""
+ transversal_types={row["type"] for row in lesson.get("transversal", [])}
+ transversal_heading="Habilidad y actitud en esta clase" if len(transversal_types)>1 else "Actitud transversal en esta clase"
+ transversal_panel=f'<section class="transversal-panel"><p class="eyebrow">Integración curricular</p><h3>{transversal_heading}</h3><ul>{transversal}</ul></section>' if transversal else ""
  return f'''<article class="lesson {'lesson-developed' if is_developed else 'lesson-draft'}" id="{esc(code.lower())}">
 <header><span class="lesson-number">{index:02d}</span><div><p>Clase {index} de {len(item['phases'])}</p><h2>{esc(lesson['title'])}</h2></div><span class="status-badge {status_class}">{status_label}</span></header>
 <p class="lesson-focus"><strong>Propósito docente:</strong> {esc(lesson['purpose'])}</p><p class="student-goal"><strong>Meta para estudiantes:</strong> {esc(lesson['goal'])}</p>
@@ -566,18 +578,22 @@ def main():
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
   for oa in r["objectives"]:
    reads=oa.get("readings",[]);phases=dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
-   developed_content=developed.get(oa["code"]) or build_math_sequence(oa["code"])
+   developed_content=developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
    item={"topic":(developed_content or {}).get("topic",topic_from(oa["description"])),"course":r["course"],"course_slug":r["course_slug"],"course_order":r["course_order"],"subject":r["subject"],"subject_slug":r["subject_slug"],"axis":oa["axis"],"oa_code":oa["code"],"oa_text":oa["description"],"coverage":cov(r["subject_slug"],r["course_order"]),"source_url":oa["url"],"subject_url":r["subject_url"],"verified_at":snap["verified_at"],"readings":reads,"path":path,"codes":codes,"phases":phases,"developed":developed_content}
-   math_integration=r["course_order"]==1 and r["subject_slug"]=="matematica" and oa["code"].startswith(("de Habilidad", "de Actitud"))
+   transversal_integration=r["course_order"]==1 and ((r["subject_slug"]=="matematica" and oa["code"].startswith(("de Habilidad", "de Actitud"))) or (r["subject_slug"]=="lenguaje-comunicacion" and oa["code"].startswith("de Actitud")))
    if r["course_order"]==1:
     generated=build_grade_one_lessons(item)
-    if math_integration:item["integration"]=generated
+    if transversal_integration:item["integration"]=generated
     elif not item["developed"]:item["draft"]=generated
     else:item["developed"]["lessons"]=[base | current for base,current in zip(generated["lessons"],item["developed"]["lessons"])]
    if item["developed"] and r["course_order"]==1 and r["subject_slug"]=="matematica" and oa["code"].startswith("MA01 OA "):
     oa_number=int(oa["code"].rsplit(" ",1)[-1])
     for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
      lesson["transversal"]=transversal_links(oa_number,lesson_index,lesson["goal"].removeprefix("Hoy ").rstrip("."))
+   if item["developed"] and r["course_order"]==1 and r["subject_slug"]=="lenguaje-comunicacion" and oa["code"].startswith("LE01 OA "):
+    oa_number=int(oa["code"].rsplit(" ",1)[-1])
+    for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
+     lesson["transversal"]=[attitude_link(oa_number,lesson_index,lesson["goal"].removeprefix("Hoy ").rstrip("."))]
    if item["developed"] and len(item["developed"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el contenido desarrollado debe tener {len(phases)} clases")
    if item.get("draft") and len(item["draft"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el borrador debe tener {len(phases)} clases")
    if item.get("integration") and len(item["integration"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: la integración debe tener {len(phases)} experiencias")
