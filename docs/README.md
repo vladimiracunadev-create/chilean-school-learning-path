@@ -4,7 +4,7 @@
 
 ## **1° básico en reconstrucción pedagógica**
 
-**220 clases desarrolladas · 97 experiencias integradas · 717 borradores · 237 OA · 11 asignaturas**
+**355 clases desarrolladas · 229 experiencias integradas · 450 borradores · 237 OA · 11 asignaturas**
 
 [📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
@@ -93,7 +93,7 @@ flowchart TD
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 220 clases desarrolladas, 97 experiencias integradas y 717 borradores. Matemática aporta 83 clases y Lenguaje 131; las otras 22 clases desarrolladas del catálogo son pilotos de otros niveles.
+1° básico reúne 355 clases desarrolladas, 229 experiencias integradas y 450 borradores. Matemática aporta 83 clases, Lenguaje 131, Ciencias 49, Historia 68 y Artes Visuales 24; las otras 22 clases desarrolladas del catálogo son pilotos de otros niveles.
 
 ## 🧱 Arquitectura documental
 

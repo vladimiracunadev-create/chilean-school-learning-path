@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [Ciencias Naturales →](ciencias-naturales.md)
 
-**12 OA · 52 propuestas · 3 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**5 OA de contenido · 24 clases desarrolladas · 7 OA transversales · 28 experiencias integradas · 3 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 6 clases desarrolladas, 0 experiencias transversales integradas y 46 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 24 clases desarrolladas, 28 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -72,11 +72,11 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| AR01 OA 01 | Expresar y crear trabajos de arte a partir de la observación del | Expresar y crear visualmente | 6 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-01.md) |
-| AR01 OA 02 | Experimentar y aplicar elementos del lenguaje visual en sus trabajos de arte | Expresar y crear visualmente | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-02.md) |
-| AR01 OA 03 | Expresar emociones e ideas en sus trabajos de arte a partir de la experimentación con | Expresar y crear visualmente | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-03.md) |
-| AR01 OA 04 | Observar y comunicar oralmente sus primeras impresiones de lo que sienten y piensan de obras de arte… | Apreciar y responder frente al arte | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-04.md) |
-| AR01 OA 05 | Explicar sus preferencias frente al trabajo de arte personal y de sus pares, usando elementos del… | Apreciar y responder frente al arte | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-05.md) |
+| AR01 OA 01 | Creación artística desde la observación del entorno | Expresar y crear visualmente | 6 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-01.md) |
+| AR01 OA 02 | Línea, color y textura en la creación visual | Expresar y crear visualmente | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-02.md) |
+| AR01 OA 03 | Materiales, herramientas y procedimientos artísticos | Expresar y crear visualmente | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-03.md) |
+| AR01 OA 04 | Primeras impresiones y apreciación de obras | Apreciar y responder frente al arte | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-04.md) |
+| AR01 OA 05 | Preferencias y retroalimentación sobre trabajos de arte | Apreciar y responder frente al arte | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/ar01-oa-05.md) |
 | de Actitud AR01 OAA A | Disfrutar de múltiples expresiones artísticas | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/de-actitud-ar01-oaa-a.md) |
 | de Actitud AR01 OAA B | Demostrar disposición a expresar artísticamente las propias ideas y sentimientos | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/de-actitud-ar01-oaa-b.md) |
 | de Actitud AR01 OAA C | Valorar y cuidar el patrimonio artístico de su comunidad, región, país y de la humanidad | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/artes-visuales/de-actitud-ar01-oaa-c.md) |

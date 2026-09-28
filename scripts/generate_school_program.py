@@ -10,6 +10,7 @@ from build_school_curriculum import ROOT,SNAPSHOT,CURRICULUM,slugify,topic_from
 from grade_one_lessons import build_grade_one_lessons
 from grade_one_math_lessons import build_math_sequence, transversal_links
 from grade_one_language_lessons import attitude_link, build_language_sequence
+from grade_one_science_history_arts_lessons import build_sequence as build_sha_sequence, transversal_links as sha_transversal_links
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
 def dose(text,slug,reads):
@@ -299,8 +300,14 @@ def grade_one_documentation(objs,classes):
 def grade_one_subject_documentation(subject,objectives,previous_subject=None,next_subject=None):
  profile=GRADE_ONE_SUBJECT_PROFILES[subject["slug"]]
  scope=f"{subject['oa']} OA · {subject['classes']} propuestas"
- if subject["slug"]=="matematica":scope="20 OA de contenido · 83 clases desarrolladas · 16 OA transversales · 68 experiencias integradas"
- if subject["slug"]=="lenguaje-comunicacion":scope="26 OA de contenido · 131 clases desarrolladas · 7 OA transversales · 29 experiencias integradas"
+ scopes={
+  "matematica":"20 OA de contenido · 83 clases desarrolladas · 16 OA transversales · 68 experiencias integradas",
+  "lenguaje-comunicacion":"26 OA de contenido · 131 clases desarrolladas · 7 OA transversales · 29 experiencias integradas",
+  "ciencias-naturales":"12 OA de contenido · 49 clases desarrolladas · 10 OA transversales · 40 experiencias integradas",
+  "historia-geografia-ciencias-sociales":"15 OA de contenido · 68 clases desarrolladas · 16 OA transversales · 64 experiencias integradas",
+  "artes-visuales":"5 OA de contenido · 24 clases desarrolladas · 7 OA transversales · 28 experiencias integradas",
+ }
+ scope=scopes.get(subject["slug"],scope)
  axis_rows=[]
  for axis in subject["axes"]:
   axis_objectives=[item for item in objectives if item["axis"]==axis]
@@ -584,9 +591,9 @@ def main():
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
   for oa in r["objectives"]:
    reads=oa.get("readings",[]);phases=dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
-   developed_content=developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
+   developed_content=build_sha_sequence(oa["code"]) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
    item={"topic":(developed_content or {}).get("topic",topic_from(oa["description"])),"course":r["course"],"course_slug":r["course_slug"],"course_order":r["course_order"],"subject":r["subject"],"subject_slug":r["subject_slug"],"axis":oa["axis"],"oa_code":oa["code"],"oa_text":oa["description"],"coverage":cov(r["subject_slug"],r["course_order"]),"source_url":oa["url"],"subject_url":r["subject_url"],"verified_at":snap["verified_at"],"readings":reads,"path":path,"codes":codes,"phases":phases,"developed":developed_content}
-   transversal_integration=r["course_order"]==1 and ((r["subject_slug"]=="matematica" and oa["code"].startswith(("de Habilidad", "de Actitud"))) or (r["subject_slug"]=="lenguaje-comunicacion" and oa["code"].startswith("de Actitud")))
+   transversal_integration=r["course_order"]==1 and ((r["subject_slug"] in {"matematica","ciencias-naturales","historia-geografia-ciencias-sociales"} and oa["code"].startswith(("de Habilidad", "de Actitud"))) or (r["subject_slug"] in {"lenguaje-comunicacion","artes-visuales"} and oa["code"].startswith("de Actitud")))
    if r["course_order"]==1:
     generated=build_grade_one_lessons(item)
     if transversal_integration:item["integration"]=generated
@@ -600,6 +607,9 @@ def main():
     oa_number=int(oa["code"].rsplit(" ",1)[-1])
     for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
      lesson["transversal"]=[attitude_link(oa_number,lesson_index,lesson["goal"].removeprefix("Hoy ").rstrip("."))]
+   if item["developed"] and r["course_order"]==1 and r["subject_slug"] in {"ciencias-naturales","historia-geografia-ciencias-sociales","artes-visuales"} and oa["code"].startswith(("CN01 OA ","HI01 OA ","AR01 OA ")):
+    for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
+     lesson["transversal"]=sha_transversal_links(oa["code"],lesson_index,lesson["goal"].removeprefix("Hoy ").rstrip("."))
    if item["developed"] and len(item["developed"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el contenido desarrollado debe tener {len(phases)} clases")
    if item.get("draft") and len(item["draft"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el borrador debe tener {len(phases)} clases")
    if item.get("integration") and len(item["integration"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: la integración debe tener {len(phases)} experiencias")

@@ -9,9 +9,11 @@ from pathlib import Path
 try:
     from grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
+    from grade_one_science_history_arts_lessons import ART_ATTITUDES, HISTORY_ATTITUDES, HISTORY_SKILLS, SCIENCE_ATTITUDES, SCIENCE_SKILLS, SEQUENCES as SHA_SEQUENCES, build_sequence as build_sha_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
+    from scripts.grade_one_science_history_arts_lessons import ART_ATTITUDES, HISTORY_ATTITUDES, HISTORY_SKILLS, SCIENCE_ATTITUDES, SCIENCE_SKILLS, SEQUENCES as SHA_SEQUENCES, build_sequence as build_sha_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -52,6 +54,7 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed = dict(developed.get("objectives", {}))
     all_developed.update({code: build_math_sequence(code) for code in MATH_SEQUENCES})
     all_developed.update({code: build_language_sequence(code) for code in LANGUAGE_SEQUENCES})
+    all_developed.update({code: build_sha_sequence(code) for code in SHA_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -64,15 +67,16 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("Los estados editoriales no coinciden con la cobertura declarada")
     transversal_codes: set[str] = set()
     language_attitude_codes: set[str] = set()
+    sha_transversal_codes: dict[str, set[str]] = {"CN": set(), "HI": set(), "AR": set()}
     for oa_code, objective in all_developed.items():
-        if oa_code.startswith("MA01 OA ") or oa_code == "LE01 OA 03":
+        if oa_code.startswith(("MA01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ")) or oa_code == "LE01 OA 03":
             for field in ("topic", "pedagogical_explanation", "prerequisites", "vocabulary", "official_alignment"):
                 if not objective.get(field):
                     errors.append(f"{oa_code}: falta fundamento específico {field}")
             alignment = objective.get("official_alignment", {})
             if len(alignment.get("indicators", [])) < 3 or not alignment.get("source", "").startswith("https://www.curriculumnacional.cl/"):
                 errors.append(f"{oa_code}: alineación oficial insuficiente")
-            if oa_code.startswith(("MA01 OA ", "LE01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
+            if oa_code.startswith(("MA01 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
                 errors.append(f"{oa_code}: la fuente de alineación no coincide con la ficha oficial del snapshot")
         for index, lesson in enumerate(objective.get("lessons", []), 1):
             missing = REQUIRED_DEVELOPED_FIELDS - lesson.keys()
@@ -85,7 +89,7 @@ def validate(root: Path = ROOT) -> list[str]:
             for field in REQUIRED_DEVELOPED_FIELDS - {"criteria", "title"}:
                 if len(str(lesson.get(field, "")).strip()) < 20:
                     errors.append(f"{oa_code}, clase {index}: {field} no tiene desarrollo suficiente")
-            if oa_code.startswith("MA01 OA ") or oa_code == "LE01 OA 03":
+            if oa_code.startswith(("MA01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ")) or oa_code == "LE01 OA 03":
                 for field in ("home_task", "complementary", "difficulty_actions", "specialist_coordination"):
                     if not lesson.get(field):
                         errors.append(f"{oa_code}, clase {index}: falta extensión pedagógica {field}")
@@ -101,17 +105,27 @@ def validate(root: Path = ROOT) -> list[str]:
                 if len(links) != 1 or links[0].get("type") != "Actitud":
                     errors.append(f"{oa_code}, clase {index}: falta integración observable de actitud")
                 language_attitude_codes.update(link.get("code", "") for link in links)
+            if oa_code.startswith(("CN01 OA ", "HI01 OA ", "AR01 OA ")):
+                links = lesson.get("transversal", [])
+                expected_types = {"Actitud"} if oa_code.startswith("AR") else {"Habilidad", "Actitud"}
+                if {link.get("type") for link in links} != expected_types:
+                    errors.append(f"{oa_code}, clase {index}: integración transversal incompleta")
+                sha_transversal_codes[oa_code[:2]].update(link.get("code", "") for link in links)
     expected_transversal_codes = {code for code, _ in MATH_SKILLS + MATH_ATTITUDES}
     if transversal_codes != expected_transversal_codes:
         errors.append("Las 83 clases de Matemática no cubren los 16 OA transversales de habilidad y actitud")
     if language_attitude_codes != {code for code, _ in LANGUAGE_ATTITUDES}:
         errors.append("Las 131 clases de Lenguaje no cubren los 7 OA transversales de actitud")
+    expected_sha = {"CN": {code for code, _ in SCIENCE_SKILLS + SCIENCE_ATTITUDES}, "HI": {code for code, _ in HISTORY_SKILLS + HISTORY_ATTITUDES}, "AR": {code for code, _ in ART_ATTITUDES}}
+    for prefix, expected_codes in expected_sha.items():
+        if sha_transversal_codes[prefix] != expected_codes:
+            errors.append(f"Las clases de {prefix} no cubren todos sus OA transversales")
     first_grade = [item for item in classes if item.get("course_order") == 1]
     first_grade_developed = sum(item.get("editorial_status") == "desarrollada" for item in first_grade)
     first_grade_integrated = sum(item.get("editorial_status") == "integrada" for item in first_grade)
     first_grade_drafts = sum(item.get("editorial_status") == "borrador" for item in first_grade)
-    if len(first_grade) != 1034 or first_grade_developed != 220 or first_grade_integrated != 97 or first_grade_drafts != 717:
-        errors.append("Estado de 1° básico incoherente (esperadas: 220 desarrolladas, 97 integradas y 717 borradores)")
+    if len(first_grade) != 1034 or first_grade_developed != 355 or first_grade_integrated != 229 or first_grade_drafts != 450:
+        errors.append("Estado de 1° básico incoherente (esperadas: 355 desarrolladas, 229 integradas y 450 borradores)")
     math_core = [item for item in first_grade if item.get("subject_slug") == "matematica" and item.get("editorial_status") == "desarrollada"]
     if len(math_core) != 83 or len({item.get("oa_code") for item in math_core}) != 20:
         errors.append("Matemática de 1° básico debe contener exactamente 83 clases desarrolladas en 20 OA de contenido")
@@ -124,6 +138,12 @@ def validate(root: Path = ROOT) -> list[str]:
     language_integrated = [item for item in first_grade if item.get("subject_slug") == "lenguaje-comunicacion" and item.get("editorial_status") == "integrada"]
     if len(language_integrated) != 29 or len({item.get("oa_code") for item in language_integrated}) != 7:
         errors.append("Lenguaje de 1° básico debe integrar 29 experiencias de 7 OA de actitud")
+    expected_subjects = {"ciencias-naturales": (49, 12, 40, 10), "historia-geografia-ciencias-sociales": (68, 15, 64, 16), "artes-visuales": (24, 5, 28, 7)}
+    for slug, (core_count, core_oa, integrated_count_expected, integrated_oa) in expected_subjects.items():
+        core = [item for item in first_grade if item.get("subject_slug") == slug and item.get("editorial_status") == "desarrollada"]
+        integrated = [item for item in first_grade if item.get("subject_slug") == slug and item.get("editorial_status") == "integrada"]
+        if (len(core), len({item.get("oa_code") for item in core}), len(integrated), len({item.get("oa_code") for item in integrated})) != (core_count, core_oa, integrated_count_expected, integrated_oa):
+            errors.append(f"Cobertura desarrollada o transversal incompleta en {slug}")
 
     markdown_cache: dict[str, str] = {}
     html_cache: dict[str, str] = {}
@@ -159,6 +179,10 @@ def validate(root: Path = ROOT) -> list[str]:
                 tokens.append("Habilidad y actitud en esta clase")
             if item.get("subject_slug") == "lenguaje-comunicacion" and item.get("course_order") == 1:
                 tokens.append("Actitud transversal en esta clase")
+            if item.get("subject_slug") in {"ciencias-naturales", "historia-geografia-ciencias-sociales"} and item.get("course_order") == 1:
+                tokens.append("Habilidad y actitud en esta clase")
+            if item.get("subject_slug") == "artes-visuales" and item.get("course_order") == 1:
+                tokens.append("Actitud transversal en esta clase")
             for token in tokens:
                 if token not in html_cache[web_path]:
                     errors.append(f"{web_path} no materializa el contrato desarrollado: falta {token}")
@@ -178,7 +202,7 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("El sitemap no enumera portada, documentación, vista de 1° básico, documentos HTML y páginas de OA")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
-    for token in ("1.034", "237", "11", "220", "97", "717", "Contrato pedagógico"):
+    for token in ("1.034", "237", "11", "355", "229", "450", "Contrato pedagógico"):
         if token not in level_html:
             errors.append(f"Vista de 1° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
@@ -208,7 +232,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
         "LEARNING_PATHS.md": ("Docente de 1° básico", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("242 clases desarrolladas", "717 borradores", "Criterio para declarar un nivel completo"),
+        "ROADMAP.md": ("377 clases desarrolladas", "450 borradores", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),

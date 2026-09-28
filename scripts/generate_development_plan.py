@@ -38,7 +38,7 @@ def main() -> None:
         class_count = sum(len(dose(item["description"], record["subject_slug"], item.get("readings", []))) for item in core)
         developed = sum(statuses.get(item["code"]) == "desarrollado" for item in core)
         in_progress = sum(statuses.get(item["code"]) == "en_desarrollo" for item in core)
-        if developed == len(core) and record["subject"] in {"Matemática", "Lenguaje y Comunicación"}:
+        if developed == len(core):
             state = "Desarrollo interno completo · revisión humana pendiente"
         else:
             state = "Activa" if record["subject"] == plan["active_subject"] else f"{developed}/{len(core)} OA desarrollados"
@@ -54,7 +54,7 @@ def main() -> None:
             count = len(dose(item["description"], record["subject_slug"], item.get("readings", [])))
             state = labels.get(statuses.get(item["code"], "pendiente"), "Pendiente")
             lines.append(f"| `{item['code']}` | {item['axis']} | {count} | {state} | [Currículum Nacional]({item['url']}) |")
-        integrated_experiences = {"Matemática": 68, "Lenguaje y Comunicación": 29}.get(record["subject"])
+        integrated_experiences = {"Matemática": 68, "Lenguaje y Comunicación": 29, "Ciencias Naturales": 40, "Historia, Geografía y Ciencias Sociales": 64, "Artes Visuales": 28}.get(record["subject"])
         if integrated_experiences is not None:
             integration_note = f"**Integración transversal documentada:** {len(integrated)} ítems de habilidades o actitudes se incorporan en {integrated_experiences} experiencias dentro de las {subject_class_count} clases de contenido; no se contabilizan como clases autónomas."
         else:

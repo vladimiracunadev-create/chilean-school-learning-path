@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Artes Visuales](artes-visuales.md) · [Educación Física y Salud →](educacion-fisica-salud.md)
 
-**22 OA · 89 propuestas · 7 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**12 OA de contenido · 49 clases desarrolladas · 10 OA transversales · 40 experiencias integradas · 7 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 89 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 49 clases desarrolladas, 40 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -76,18 +76,18 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| CN01 OA 01 | Reconocer y observar, por medio de la exploración, que los seres vivos crecen, responden a estímulos… | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-01.md) |
-| CN01 OA 02 | Observar y comparar animales de acuerdo a características como tamaño, cubierta corporal, estructuras… | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-02.md) |
-| CN01 OA 03 | Observar e identificar, por medio de la exploración, las estructuras principales de las plantas | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-03.md) |
-| CN01 OA 04 | Observar y clasificar semillas, frutos, flores y tallos a partir de criterios como tamaño, forma,… | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-04.md) |
-| CN01 OA 05 | Reconocer y comparar diversas plantas y animales de nuestro país, considerando las características… | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-05.md) |
-| CN01 OA 06 | Identificar y describir la ubicación y la función de los sentidos proponiendo medidas para… | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-06.md) |
-| CN01 OA 07 | Describir, dar ejemplos y practicar hábitos de vida saludable para mantener el cuerpo sano y prevenir… | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-07.md) |
-| CN01 OA 08 | Explorar y describir los diferentes tipos de materiales en diversos objetos, clasificándolos según… | Ciencias Físicas y Químicas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-08.md) |
-| CN01 OA 09 | Observar y describir los cambios que se producen en los materiales al aplicarles fuerza, luz, calor y… | Ciencias Físicas y Químicas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-09.md) |
-| CN01 OA 10 | Diseñar instrumentos tecnológicos simples considerando diversos materiales y sus propiedades para… | Ciencias Físicas y Químicas | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-10.md) |
-| CN01 OA 11 | Describir y registrar el ciclo diario y las diferencias entre el día y la noche, a partir de la… | Ciencias de la Tierra y el Universo | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-11.md) |
-| CN01 OA 12 | Describir y comunicar los cambios del ciclo de las estaciones y sus efectos en los seres vivos y el… | Ciencias de la Tierra y el Universo | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-12.md) |
+| CN01 OA 01 | Seres vivos y cosas no vivas | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-01.md) |
+| CN01 OA 02 | Características y hábitats de los animales | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-02.md) |
+| CN01 OA 03 | Estructuras principales de las plantas | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-03.md) |
+| CN01 OA 04 | Clasificación de estructuras vegetales | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-04.md) |
+| CN01 OA 05 | Plantas y animales de Chile y su cuidado | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-05.md) |
+| CN01 OA 06 | Sentidos, órganos y prevención de riesgos | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-06.md) |
+| CN01 OA 07 | Hábitos de vida saludable | Ciencias de la Vida | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-07.md) |
+| CN01 OA 08 | Materiales, propiedades y usos | Ciencias Físicas y Químicas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-08.md) |
+| CN01 OA 09 | Cambios en materiales por fuerza, luz, calor y agua | Ciencias Físicas y Químicas | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-09.md) |
+| CN01 OA 10 | Diseño de instrumentos tecnológicos simples | Ciencias Físicas y Químicas | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-10.md) |
+| CN01 OA 11 | Ciclo diario, día y noche | Ciencias de la Tierra y el Universo | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-11.md) |
+| CN01 OA 12 | Estaciones y efectos en seres vivos y ambiente | Ciencias de la Tierra y el Universo | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/cn01-oa-12.md) |
 | de Habilidad CN01 OAH a | Explorar y observar la naturaleza, usando los sentidos apropiadamente durante investigaciones… | Observar y preguntar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/de-habilidad-cn01-oah-a.md) |
 | de Habilidad CN01 OAH b | Explorar y experimentar, en forma guiada, con elementos del entorno, utilizando la observación, la… | Experimentar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/de-habilidad-cn01-oah-b.md) |
 | de Habilidad CN01 OAH c | Seguir las instrucciones para utilizar los materiales e instrumentos en forma segura | Experimentar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ciencias-naturales/de-habilidad-cn01-oah-c.md) |

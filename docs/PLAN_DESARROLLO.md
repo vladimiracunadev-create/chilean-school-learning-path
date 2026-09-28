@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 1° básico · **Asignatura activa:** Lenguaje y Comunicación · **Unidad de entrega:** asignatura completa
+**Nivel activo:** 1° básico · **Asignatura activa:** Música · **Unidad de entrega:** asignatura completa
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -25,10 +25,10 @@ flowchart LR
 |---:|---|---:|---:|---:|---|
 | 1 | Matemática | 20 | 83 | 16 | Desarrollo interno completo · revisión humana pendiente |
 | 2 | Lenguaje y Comunicación | 26 | 131 | 7 | Desarrollo interno completo · revisión humana pendiente |
-| 3 | Ciencias Naturales | 12 | 49 | 10 | 0/12 OA desarrollados |
-| 4 | Historia, Geografía y Ciencias Sociales | 15 | 68 | 16 | 0/15 OA desarrollados |
-| 5 | Artes Visuales | 5 | 24 | 7 | 1/5 OA desarrollados |
-| 6 | Música | 7 | 29 | 7 | 0/7 OA desarrollados |
+| 3 | Ciencias Naturales | 12 | 49 | 10 | Desarrollo interno completo · revisión humana pendiente |
+| 4 | Historia, Geografía y Ciencias Sociales | 15 | 68 | 16 | Desarrollo interno completo · revisión humana pendiente |
+| 5 | Artes Visuales | 5 | 24 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 6 | Música | 7 | 29 | 7 | Activa |
 | 7 | Educación Física y Salud | 11 | 48 | 8 | 0/11 OA desarrollados |
 | 8 | Orientación | 8 | 35 | 0 | 0/8 OA desarrollados |
 | 9 | Tecnología | 6 | 26 | 5 | 0/6 OA desarrollados |
@@ -103,54 +103,54 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `CN01 OA 01` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-01) |
-| `CN01 OA 02` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-02) |
-| `CN01 OA 03` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-03) |
-| `CN01 OA 04` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-04) |
-| `CN01 OA 05` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-05) |
-| `CN01 OA 06` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-06) |
-| `CN01 OA 07` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-07) |
-| `CN01 OA 08` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-08) |
-| `CN01 OA 09` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-09) |
-| `CN01 OA 10` | Ciencias Físicas y Químicas | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-10) |
-| `CN01 OA 11` | Ciencias de la Tierra y el Universo | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-11) |
-| `CN01 OA 12` | Ciencias de la Tierra y el Universo | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-12) |
+| `CN01 OA 01` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-01) |
+| `CN01 OA 02` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-02) |
+| `CN01 OA 03` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-03) |
+| `CN01 OA 04` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-04) |
+| `CN01 OA 05` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-05) |
+| `CN01 OA 06` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-06) |
+| `CN01 OA 07` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-07) |
+| `CN01 OA 08` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-08) |
+| `CN01 OA 09` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-09) |
+| `CN01 OA 10` | Ciencias Físicas y Químicas | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-10) |
+| `CN01 OA 11` | Ciencias de la Tierra y el Universo | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-11) |
+| `CN01 OA 12` | Ciencias de la Tierra y el Universo | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/1-basico/cn01-oa-12) |
 
-**Integración transversal pendiente:** 10 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 10 ítems de habilidades o actitudes se incorporan en 40 experiencias dentro de las 49 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Historia, Geografía y Ciencias Sociales
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `HI01 OA 01` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-01) |
-| `HI01 OA 02` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-02) |
-| `HI01 OA 03` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-03) |
-| `HI01 OA 04` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-04) |
-| `HI01 OA 05` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-05) |
-| `HI01 OA 06` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-06) |
-| `HI01 OA 07` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-07) |
-| `HI01 OA 08` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-08) |
-| `HI01 OA 09` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-09) |
-| `HI01 OA 10` | Geografía | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-10) |
-| `HI01 OA 11` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-11) |
-| `HI01 OA 12` | Geografía | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-12) |
-| `HI01 OA 13` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-13) |
-| `HI01 OA 14` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-14) |
-| `HI01 OA 15` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-15) |
+| `HI01 OA 01` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-01) |
+| `HI01 OA 02` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-02) |
+| `HI01 OA 03` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-03) |
+| `HI01 OA 04` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-04) |
+| `HI01 OA 05` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-05) |
+| `HI01 OA 06` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-06) |
+| `HI01 OA 07` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-07) |
+| `HI01 OA 08` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-08) |
+| `HI01 OA 09` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-09) |
+| `HI01 OA 10` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-10) |
+| `HI01 OA 11` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-11) |
+| `HI01 OA 12` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-12) |
+| `HI01 OA 13` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-13) |
+| `HI01 OA 14` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-14) |
+| `HI01 OA 15` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/1-basico/hi01-oa-15) |
 
-**Integración transversal pendiente:** 16 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 16 ítems de habilidades o actitudes se incorporan en 64 experiencias dentro de las 68 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Artes Visuales
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
 | `AR01 OA 01` | Expresar y crear visualmente | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-01) |
-| `AR01 OA 02` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-02) |
-| `AR01 OA 03` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-03) |
-| `AR01 OA 04` | Apreciar y responder frente al arte | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-04) |
-| `AR01 OA 05` | Apreciar y responder frente al arte | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-05) |
+| `AR01 OA 02` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-02) |
+| `AR01 OA 03` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-03) |
+| `AR01 OA 04` | Apreciar y responder frente al arte | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-04) |
+| `AR01 OA 05` | Apreciar y responder frente al arte | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/1-basico/ar01-oa-05) |
 
-**Integración transversal pendiente:** 7 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 24 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Música
 
@@ -277,7 +277,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo matematica y lenguaje | Matemática y Lenguaje registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
+| Documental y fuentes | control interno completo cinco asignaturas | Matemática, Lenguaje, Ciencias Naturales, Historia y Artes Visuales registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

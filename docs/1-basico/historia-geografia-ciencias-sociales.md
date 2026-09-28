@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Educación Física y Salud](educacion-fisica-salud.md) · [Inglés (Propuesta) →](ingles-propuesta.md)
 
-**31 OA · 132 propuestas · 8 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**15 OA de contenido · 68 clases desarrolladas · 16 OA transversales · 64 experiencias integradas · 8 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 132 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 68 clases desarrolladas, 64 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -77,21 +77,21 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| HI01 OA 01 | Nombrar y secuenciar días de la semana y meses del año, utilizando calendarios, e identificar el año… | Historia | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-01.md) |
-| HI01 OA 02 | Secuenciar acontecimientos y actividades de la vida cotidiana, personal y familiar, utilizando… | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-02.md) |
-| HI01 OA 03 | Registrar y comunicar información sobre elementos que forman parte de su identidad personal (nombre,… | Historia | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-03.md) |
-| HI01 OA 04 | Obtener y comunicar aspectos de la historia de su familia y sus características, como costumbres,… | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-04.md) |
-| HI01 OA 05 | Reconocer los símbolos representativos de Chile (como la bandera, el escudo y el himno nacional),… | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-05.md) |
-| HI01 OA 06 | Conocer expresiones culturales locales y nacionales (como comidas, flores y animales típicos, música… | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-06.md) |
-| HI01 OA 07 | Conocer sobre la vida de hombres y mujeres que han contribuido a la sociedad chilena en diversos ámbitos | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-07.md) |
-| HI01 OA 08 | Reconocer que los mapas y planos son formas de representar lugares | Geografía | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-08.md) |
-| HI01 OA 09 | Identificar a Chile en mapas, incluyendo la cordillera de los Andes, el océano Pacífico, su región,… | Geografía | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-09.md) |
-| HI01 OA 10 | Observar y describir paisajes de su entorno local, utilizando vocabulario geográfico adecuado (país,… | Geografía | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-10.md) |
-| HI01 OA 11 | Identificar trabajos y productos de su familia y su localidad y cómo estos aportan a su vida diaria,… | Geografía | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-11.md) |
-| HI01 OA 12 | Conocer cómo viven otros niños en diferentes partes del mundo por medio de imágenes y relatos,… | Geografía | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-12.md) |
-| HI01 OA 13 | Mostrar actitudes y realizar acciones concretas en su entorno cercano (familia, escuela y comunidad)… | Formación ciudadana | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-13.md) |
-| HI01 OA 14 | Explicar y aplicar algunas normas para la buena convivencia y para la seguridad y el autocuidado en… | Formación ciudadana | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-14.md) |
-| HI01 OA 15 | Identificar la labor que cumplen, en beneficio de la comunidad, instituciones como la escuela, la… | Formación ciudadana | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-15.md) |
+| HI01 OA 01 | Días, meses y uso del calendario | Historia | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-01.md) |
+| HI01 OA 02 | Secuencias y categorías de tiempo cotidiano | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-02.md) |
+| HI01 OA 03 | Identidad personal y diversidad | Historia | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-03.md) |
+| HI01 OA 04 | Historia y características de las familias | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-04.md) |
+| HI01 OA 05 | Símbolos y conmemoraciones de Chile | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-05.md) |
+| HI01 OA 06 | Expresiones culturales locales y nacionales | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-06.md) |
+| HI01 OA 07 | Personas que contribuyen a la sociedad chilena | Historia | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-07.md) |
+| HI01 OA 08 | Mapas y planos como representaciones | Geografía | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-08.md) |
+| HI01 OA 09 | Chile en mapas y referencias territoriales | Geografía | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-09.md) |
+| HI01 OA 10 | Paisajes y ubicación relativa | Geografía | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-10.md) |
+| HI01 OA 11 | Trabajos, productos y vida cotidiana | Geografía | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-11.md) |
+| HI01 OA 12 | Vida cotidiana de niños en distintas partes del mundo | Geografía | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-12.md) |
+| HI01 OA 13 | Respeto, empatía y responsabilidad en comunidad | Formación ciudadana | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-13.md) |
+| HI01 OA 14 | Normas de convivencia, seguridad y autocuidado | Formación ciudadana | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-14.md) |
+| HI01 OA 15 | Instituciones y servicios de la comunidad | Formación ciudadana | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/hi01-oa-15.md) |
 | de Habilidad HI01 OAH a | Secuenciar cronológicamente eventos de su familia | Pensamiento temporal y espacial | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/de-habilidad-hi01-oah-a.md) |
 | de Habilidad HI01 OAH b | Aplicar conceptos relacionados con el tiempo (días, semanas, meses, años, antes, después) | Pensamiento temporal y espacial | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/de-habilidad-hi01-oah-b.md) |
 | de Habilidad HI01 OAH c | Localizar a Chile en mapamundis o globos terráqueos y distinguir diferentes representaciones de la Tierra | Pensamiento temporal y espacial | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/historia-geografia-ciencias-sociales/de-habilidad-hi01-oah-c.md) |

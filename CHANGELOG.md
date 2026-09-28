@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-28 — Ciencias, Historia y Artes Visuales de 1° básico
+
+- Desarrollo completo de 12 OA y 49 clases de Ciencias Naturales, con indagación, diseño, seguridad y evidencia observable.
+- Desarrollo completo de 15 OA y 68 clases de Historia, Geografía y Ciencias Sociales, con temporalidad, fuentes, territorio y ciudadanía.
+- Desarrollo completo de 5 OA y 24 clases de Artes Visuales, con observación, experimentación, creación y apreciación fundamentada.
+- Integración no duplicada de 33 OA transversales mediante 132 experiencias de habilidades y actitudes.
+- Estado de 1° básico actualizado a 355 clases desarrolladas, 229 experiencias integradas y 450 borradores; Música queda como siguiente asignatura.
+- Validadores, pruebas, documentación Markdown/HTML y portal actualizados desde la misma fuente.
+
 ## 2026-09-25 — Auditoría y endurecimiento de licencias
 
 - Separación expresa entre hechos/metadatos, redacción oficial MINEDUC y elaboración pedagógica original.

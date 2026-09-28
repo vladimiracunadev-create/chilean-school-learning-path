@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)
 
-**1.034 propuestas · 237 OA · 11 asignaturas · 220 clases desarrolladas · 97 experiencias integradas · 717 borradores · revisión humana pendiente**
+**1.034 propuestas · 237 OA · 11 asignaturas · 355 clases desarrolladas · 229 experiencias integradas · 450 borradores · revisión humana pendiente**
 
 ## 🎯 De qué trata este nivel
 

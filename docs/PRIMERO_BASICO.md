@@ -1,6 +1,6 @@
 # 1° básico — mapa de contenidos
 
-> **Reconstrucción pedagógica en curso:** 220 clases desarrolladas · 97 experiencias transversales integradas · 717 borradores estructurados · 237 OA · 11 asignaturas.
+> **Reconstrucción pedagógica en curso:** 355 clases desarrolladas · 229 experiencias transversales integradas · 450 borradores estructurados · 237 OA · 11 asignaturas.
 
 [Programa narrativo de 1° básico](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
 
@@ -30,10 +30,10 @@ Esta progresión orienta la enseñanza, pero no sustituye el análisis específi
 
 | Asignatura | OA | Propuestas | Desarrolladas | Integradas | Borradores |
 |---|---:|---:|---:|---:|---:|
-| Artes Visuales | 12 | 52 | 6 | 0 | 46 |
-| Ciencias Naturales | 22 | 89 | 0 | 0 | 89 |
+| Artes Visuales | 12 | 52 | 24 | 28 | 0 |
+| Ciencias Naturales | 22 | 89 | 49 | 40 | 0 |
 | Educación Física y Salud | 19 | 80 | 0 | 0 | 80 |
-| Historia, Geografía y Ciencias Sociales | 31 | 132 | 0 | 0 | 132 |
+| Historia, Geografía y Ciencias Sociales | 31 | 132 | 68 | 64 | 0 |
 | Inglés (Propuesta) | 18 | 85 | 0 | 0 | 85 |
 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 33 | 147 | 0 | 0 | 147 |
 | Lenguaje y Comunicación | 33 | 160 | 131 | 29 | 0 |
@@ -63,7 +63,7 @@ Una clase desarrollada contiene alineación curricular específica, propósito, 
 
 ## Fuente de verdad y límites
 
-El catálogo registra 237 OA y 1.034 propuestas de clase; hoy 220 están desarrolladas y 717 siguen como borrador. Ninguna se declara revisada hasta registrar evidencia humana competente.
+El catálogo registra 237 OA y 1.034 propuestas de clase; hoy 355 están desarrolladas y 450 siguen como borrador. Ninguna se declara revisada hasta registrar evidencia humana competente.
 
 ## Verificación
 

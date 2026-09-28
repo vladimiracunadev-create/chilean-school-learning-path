@@ -2,14 +2,14 @@
 
 # 🇨🇱 Trayectoria Escolar Chile
 
-## **Matemática y Lenguaje de 1° básico completos · 214 clases**
+## **Cinco asignaturas de 1° básico completas · 355 clases**
 
 **Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
 [![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 
 [![Programa](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-en%20reconstrucci%C3%B3n-e9533f?style=for-the-badge)](docs/1-basico/README.md)
-[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-220-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
+[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-355-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
 [![Matemática](https://img.shields.io/badge/matem%C3%A1tica-83%20clases-17643a?style=for-the-badge)](docs/1-basico/matematica.md)
 [![Lenguaje](https://img.shields.io/badge/lenguaje-131%20clases-7c5cff?style=for-the-badge)](docs/1-basico/lenguaje-comunicacion.md)
 [![Asignaturas](https://img.shields.io/badge/asignaturas-11-7c5cff?style=for-the-badge)](docs/1-basico/README.md#-las-11-asignaturas)
@@ -29,7 +29,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** Matemática tiene **83 clases en 20 OA de contenido** y Lenguaje y Comunicación **131 clases en 26 OA de contenido**. Sus objetivos transversales se incorporan mediante 97 experiencias y no se cuentan como clases independientes. En todo 1° básico hay 220 clases desarrolladas y 717 borradores. Existen además 22 clases piloto en otros niveles. La verificación interna está completa; la revisión humana especializada sigue pendiente.
+> **Estado real del proyecto:** Matemática, Lenguaje y Comunicación, Ciencias Naturales, Historia, Geografía y Ciencias Sociales y Artes Visuales están completas en contenido para 1° básico: **355 clases en 78 OA disciplinares**. Sus 56 OA transversales se incorporan mediante 229 experiencias y no se cuentan como clases independientes. Quedan 450 borradores del nivel y existen 22 clases piloto en otros niveles. La verificación interna está completa; la revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -38,7 +38,7 @@
 
 Este repositorio sirve hoy para tres cosas distintas, expresadas sin mezclar sus estados:
 
-- **Usar Matemática y Lenguaje de 1° básico:** ofrece 214 clases específicas organizadas en 46 secuencias de contenido, todavía pendientes de revisión humana.
+- **Usar cinco asignaturas completas de 1° básico:** ofrece 355 clases específicas organizadas en 78 secuencias de contenido, todavía pendientes de revisión humana.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
 - **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
 
@@ -95,7 +95,7 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 ### Desarrollado hasta ahora
 
-**1° básico:** 220 clases desarrolladas: Matemática completa (83), Lenguaje y Comunicación completo (131) y `AR01 OA 01` (6). Se documentan además 97 experiencias transversales dentro de esas clases, sin duplicar el conteo. Todo está disponible en Markdown y HTML y mantiene **revisión humana pendiente**. Las otras 717 propuestas del nivel son borradores.
+**1° básico:** 355 clases desarrolladas: Matemática (83), Lenguaje y Comunicación (131), Ciencias Naturales (49), Historia, Geografía y Ciencias Sociales (68) y Artes Visuales (24). Se documentan además 229 experiencias transversales dentro de esas asignaturas, sin duplicar el conteo. Todo está disponible en Markdown y HTML y mantiene **revisión humana pendiente**. Las otras 450 propuestas del nivel son borradores.
 
 ### Preparado para desarrollo futuro
 
@@ -109,10 +109,10 @@ Es la suma de todos los **espacios de clase inventariados** del mapa curricular.
 
 El mapa se organiza en once recorridos por asignatura. Las guías permiten localizar los OA y ver cuántas propuestas están desarrolladas o continúan como borrador. La existencia de una guía no significa que toda la asignatura esté terminada.
 
-- 🎨 **[Artes Visuales](docs/1-basico/artes-visuales.md):** 12 OA y 52 clases.
-- 🌱 **[Ciencias Naturales](docs/1-basico/ciencias-naturales.md):** 22 OA y 89 clases.
+- 🎨 **[Artes Visuales](docs/1-basico/artes-visuales.md):** 5 OA de contenido y 24 clases desarrolladas; 7 OA de actitudes se integran mediante 28 experiencias.
+- 🌱 **[Ciencias Naturales](docs/1-basico/ciencias-naturales.md):** 12 OA de contenido y 49 clases desarrolladas; 10 OA de habilidades/actitudes se integran mediante 40 experiencias.
 - 🏃 **[Educación Física y Salud](docs/1-basico/educacion-fisica-salud.md):** 19 OA y 80 clases.
-- 🗺️ **[Historia, Geografía y Ciencias Sociales](docs/1-basico/historia-geografia-ciencias-sociales.md):** 31 OA y 132 clases.
+- 🗺️ **[Historia, Geografía y Ciencias Sociales](docs/1-basico/historia-geografia-ciencias-sociales.md):** 15 OA de contenido y 68 clases desarrolladas; 16 OA de habilidades/actitudes se integran mediante 64 experiencias.
 - 🌍 **[Inglés — propuesta](docs/1-basico/ingles-propuesta.md):** 18 OA y 85 clases.
 - 🪶 **[Lengua y Cultura de los Pueblos Originarios Ancestrales](docs/1-basico/lengua-cultura-pueblos-originarios-ancestrales.md):** 33 OA y 147 clases.
 - 📚 **[Lenguaje y Comunicación](docs/1-basico/lenguaje-comunicacion.md):** 26 OA de contenido y 131 clases desarrolladas; 7 OA de actitudes se integran mediante 29 experiencias transversales.
@@ -262,9 +262,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 220 clases de 1° básico y 22 pilotos de otros niveles.
-- **Contenido integrado:** 97 experiencias transversales de Matemática y Lenguaje que no constituyen clases independientes.
-- **Contenido pendiente:** 717 borradores de 1° básico y las secuencias aún no desarrolladas de los niveles superiores.
+- **Contenido desarrollado:** 355 clases de 1° básico y 22 pilotos de otros niveles.
+- **Contenido integrado:** 229 experiencias transversales de las cinco asignaturas completas que no constituyen clases independientes.
+- **Contenido pendiente:** 450 borradores de 1° básico y las secuencias aún no desarrolladas de los niveles superiores.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -302,7 +302,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- una reconstrucción transparente de 1° básico, con 220 clases desarrolladas, 97 experiencias integradas y 717 borradores identificados;
+- una reconstrucción transparente de 1° básico, con 355 clases desarrolladas, 229 experiencias integradas y 450 borradores identificados;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;

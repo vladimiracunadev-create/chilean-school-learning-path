@@ -23,7 +23,7 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: obtener información explícita sobre su… {#cl-00306}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Obtener información explícita sobre su entorno a partir de fuentes orales y gráficas dadas (narraciones, fotografías, medios audiovisuales), mediante preguntas dirigidas».
 
@@ -71,7 +71,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: obtener información explícita sobre su… {#cl-00307}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Obtener información explícita sobre su entorno a partir de fuentes orales y gráficas dadas (narraciones, fotografías, medios audiovisuales), mediante preguntas dirigidas».
 
@@ -119,7 +119,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: obtener información explícita sobre su… {#cl-00308}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Obtener información explícita sobre su entorno a partir de fuentes orales y gráficas dadas (narraciones, fotografías, medios audiovisuales), mediante preguntas dirigidas».
 
@@ -167,7 +167,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente conduce el análisis de fuentes; CRA puede apoyar su selección y educación diferencial facilitar acceso sin sustituir la interpretación.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: obtener información explícita sobre su… {#cl-00309}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Obtener información explícita sobre su entorno a partir de fuentes orales y gráficas dadas (narraciones, fotografías, medios audiovisuales), mediante preguntas dirigidas».
 

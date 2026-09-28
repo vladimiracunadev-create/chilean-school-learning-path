@@ -51,7 +51,7 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 | Revisada | Registra control humano disciplinar, pedagógico, documental, accesible y de derechos. |
 | Publicada | Cuenta con salida Markdown y HTML navegable. |
 
-Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En Matemática de 1° básico, los 20 OA de contenido producen 83 clases; los 16 OA de habilidades y actitudes se documentan como 68 experiencias integradas para evitar inflar el total de clases.
+Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En las cinco asignaturas desarrolladas de 1° básico, 78 OA de contenido producen 355 clases; 56 OA de habilidades y actitudes se documentan como 229 experiencias integradas para evitar inflar el total de clases.
 
 ## 5. Generación reproducible
 
