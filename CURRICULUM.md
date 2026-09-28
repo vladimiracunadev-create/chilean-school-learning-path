@@ -428,43 +428,43 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Lenguaje y Comunicación | [de Actitud LE02 OAA E · Reflexionar sobre sí mismo, sus ideas y sus intereses para comprenderse y valorarse](curriculum/2-basico/lenguaje-comunicacion/de-actitud-le02-oaa-e.md) | 4 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE02 OAA F · Demostrar empatía hacia los demás, comprendiendo el contexto en el que se sitúan](curriculum/2-basico/lenguaje-comunicacion/de-actitud-le02-oaa-f.md) | 5 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE02 OAA G · Demostrar respeto por las diversas opiniones y puntos de vista, reconociendo el diálogo como una…](curriculum/2-basico/lenguaje-comunicacion/de-actitud-le02-oaa-g.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 01 · Contar números del 0 al 1 000 de 2 en 2, de 5 en 5, de 10 en 10 y de 100 en 100, hacia adelante y…](curriculum/2-basico/matematica/ma02-oa-01.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 02 · Leer números del 0 al 100 y representarlos en forma concreta, pictórica y simbólica](curriculum/2-basico/matematica/ma02-oa-02.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 03 · Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y…](curriculum/2-basico/matematica/ma02-oa-03.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 04 · Estimar cantidades hasta 100 en situaciones concretas, usando un referente](curriculum/2-basico/matematica/ma02-oa-04.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 05 · Componer y descomponer números del 0 a 100 de manera aditiva, en forma concreta, pictórica y simbólica](curriculum/2-basico/matematica/ma02-oa-05.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 06 · Describir y aplicar estrategias de cálculo mental para adiciones y sustracciones hasta 20](curriculum/2-basico/matematica/ma02-oa-06.md) | 5 | formacion-general-comun |
-| Matemática | [MA02 OA 07 · Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a…](curriculum/2-basico/matematica/ma02-oa-07.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 08 · Demostrar y explicar de manera concreta, pictórica y simbólica el efecto de sumar y restar 0 a un número](curriculum/2-basico/matematica/ma02-oa-08.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 09 · Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100](curriculum/2-basico/matematica/ma02-oa-09.md) | 5 | formacion-general-comun |
-| Matemática | [MA02 OA 10 · Demostrar que comprende la relación entre la adición y la sustracción al usar la "familia de…](curriculum/2-basico/matematica/ma02-oa-10.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 11 · Demostrar que comprende la multiplicación](curriculum/2-basico/matematica/ma02-oa-11.md) | 5 | formacion-general-comun |
-| Matemática | [MA02 OA 12 · Crear, representar y continuar una variedad de patrones numéricos y completar los elementos…](curriculum/2-basico/matematica/ma02-oa-12.md) | 5 | formacion-general-comun |
-| Matemática | [MA02 OA 13 · Demostrar, explicar y registrar la igualdad y la desigualdad en forma concreta y pictórica del 0 al…](curriculum/2-basico/matematica/ma02-oa-13.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 14 · Representar y describir la posición de objetos y personas en relación a sí mismos y a otros objetos y…](curriculum/2-basico/matematica/ma02-oa-14.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 15 · Describir, comparar y construir figuras 2D (triángulos, cuadrados, rectángulos y círculos) con…](curriculum/2-basico/matematica/ma02-oa-15.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 16 · Describir, comparar y construir figuras 3D (cubos, paralelepípedos, esferas y conos) con diversos…](curriculum/2-basico/matematica/ma02-oa-16.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 17 · Identificar días, semanas, meses y fechas en el calendario](curriculum/2-basico/matematica/ma02-oa-17.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 18 · Leer horas y medias horas en relojes digitales, en el contexto de la resolución de problemas](curriculum/2-basico/matematica/ma02-oa-18.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 19 · Determinar la longitud de objetos, usando unidades de medidas no estandarizadas y unidades…](curriculum/2-basico/matematica/ma02-oa-19.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 20 · Recolectar y registrar datos para responder preguntas estadísticas sobre juegos con monedas y dados,…](curriculum/2-basico/matematica/ma02-oa-20.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 21 · Registrar en tablas y gráficos de barra simple, resultados de juegos aleatorios con dados y monedas](curriculum/2-basico/matematica/ma02-oa-21.md) | 4 | formacion-general-comun |
-| Matemática | [MA02 OA 22 · Construir, leer e interpretar pictogramas con escala y gráficos de barra simple](curriculum/2-basico/matematica/ma02-oa-22.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH a · Resolver problemas](curriculum/2-basico/matematica/de-habilidad-ma02-oah-a.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH b · Resolver problemas](curriculum/2-basico/matematica/de-habilidad-ma02-oah-b.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH c · Argumentar y comunicar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-c.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH d · Argumentar y comunicar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-d.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH e · Argumentar y comunicar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-e.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH f · Modelar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-f.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH g · Modelar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-g.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH h · Representar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-h.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA02 OAH i · Representar](curriculum/2-basico/matematica/de-habilidad-ma02-oah-i.md) | 5 | formacion-general-comun |
+| Matemática | [MA02 OA 01 · Conteo hasta 1.000 por agrupaciones regulares y desde distintos puntos de inicio](curriculum/2-basico/matematica/ma02-oa-01.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 02 · Lectura y representación concreta, pictórica y simbólica de números del 0 al 100](curriculum/2-basico/matematica/ma02-oa-02.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 03 · Comparación y orden de números hasta 100 con representaciones y monedas nacionales](curriculum/2-basico/matematica/ma02-oa-03.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 04 · Estimación de cantidades hasta 100 mediante referentes](curriculum/2-basico/matematica/ma02-oa-04.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 05 · Composición y descomposición aditiva de números hasta 100](curriculum/2-basico/matematica/ma02-oa-05.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 06 · Estrategias de cálculo mental para adiciones y sustracciones hasta 20](curriculum/2-basico/matematica/ma02-oa-06.md) | 5 | formacion-general-comun |
+| Matemática | [MA02 OA 07 · Valor posicional de unidades y decenas en números hasta 100](curriculum/2-basico/matematica/ma02-oa-07.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 08 · Efecto de sumar y restar cero](curriculum/2-basico/matematica/ma02-oa-08.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 09 · Adición y sustracción hasta 100 mediante problemas, representaciones y algoritmo sin reserva](curriculum/2-basico/matematica/ma02-oa-09.md) | 5 | formacion-general-comun |
+| Matemática | [MA02 OA 10 · Relación entre adición y sustracción mediante familias de operaciones](curriculum/2-basico/matematica/ma02-oa-10.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 11 · Multiplicación como grupos iguales y construcción de las tablas del 2, 5 y 10](curriculum/2-basico/matematica/ma02-oa-11.md) | 5 | formacion-general-comun |
+| Matemática | [MA02 OA 12 · Creación, representación y continuación de patrones numéricos](curriculum/2-basico/matematica/ma02-oa-12.md) | 5 | formacion-general-comun |
+| Matemática | [MA02 OA 13 · Igualdad y desigualdad hasta 20 con símbolos =, > y <](curriculum/2-basico/matematica/ma02-oa-13.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 14 · Posición relativa con derecha e izquierda desde distintos referentes](curriculum/2-basico/matematica/ma02-oa-14.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 15 · Descripción, comparación y construcción de figuras 2D](curriculum/2-basico/matematica/ma02-oa-15.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 16 · Descripción, comparación y construcción de figuras 3D](curriculum/2-basico/matematica/ma02-oa-16.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 17 · Lectura de días, semanas, meses y fechas en el calendario](curriculum/2-basico/matematica/ma02-oa-17.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 18 · Lectura de horas y medias horas en relojes digitales](curriculum/2-basico/matematica/ma02-oa-18.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 19 · Medición de longitudes con unidades no estandarizadas, centímetros y metros](curriculum/2-basico/matematica/ma02-oa-19.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 20 · Recolección y registro de datos en juegos con monedas y dados](curriculum/2-basico/matematica/ma02-oa-20.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 21 · Registro de resultados aleatorios en tablas y gráficos de barra simple](curriculum/2-basico/matematica/ma02-oa-21.md) | 4 | formacion-general-comun |
+| Matemática | [MA02 OA 22 · Construcción e interpretación de pictogramas con escala y gráficos de barra simple](curriculum/2-basico/matematica/ma02-oa-22.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH a · Resolver problemas: Emplear diversas estrategias para resolver problemas: a través de ensayo y error; aplicando conocimientos adquiridos](curriculum/2-basico/matematica/de-habilidad-ma02-oah-a.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH b · Resolver problemas: Comprobar enunciados, usando material concreto y gráfico](curriculum/2-basico/matematica/de-habilidad-ma02-oah-b.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH c · Argumentar y comunicar: Describir situaciones de la realidad con lenguaje matemático](curriculum/2-basico/matematica/de-habilidad-ma02-oah-c.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH d · Argumentar y comunicar: Comunicar el resultado de descubrimientos de relaciones, patrones y reglas, entre otros, empleando expresiones matemáticas](curriculum/2-basico/matematica/de-habilidad-ma02-oah-d.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH e · Argumentar y comunicar: Explicar las soluciones propias y los procedimientos utilizados](curriculum/2-basico/matematica/de-habilidad-ma02-oah-e.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH f · Modelar: Aplicar y seleccionar modelos que involucren sumas, restas y orden de cantidades](curriculum/2-basico/matematica/de-habilidad-ma02-oah-f.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH g · Modelar: Expresar, a partir de representaciones pictóricas y explicaciones dadas, acciones y situaciones cotidianas en lenguaje matemático](curriculum/2-basico/matematica/de-habilidad-ma02-oah-g.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH h · Representar: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para representar enunciados](curriculum/2-basico/matematica/de-habilidad-ma02-oah-h.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA02 OAH i · Representar: Crear un relato basado en una expresión matemática simple. Actitud](curriculum/2-basico/matematica/de-habilidad-ma02-oah-i.md) | 5 | formacion-general-comun |
 | Matemática | [de Actitud MA02 OAA A · Manifestar un estilo de trabajo ordenado y metódico](curriculum/2-basico/matematica/de-actitud-ma02-oaa-a.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA02 OAA B · Abordar de manera flexible y creativa la búsqueda de soluciones a problemas](curriculum/2-basico/matematica/de-actitud-ma02-oaa-b.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA02 OAA C · Manifestar curiosidad e interés por el aprendizaje de las matemáticas](curriculum/2-basico/matematica/de-actitud-ma02-oaa-c.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA02 OAA D · Manifestar una actitud positiva frente a sí mismo y sus capacidades](curriculum/2-basico/matematica/de-actitud-ma02-oaa-d.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA02 OAA E · Demostrar una actitud de esfuerzo y perseverancia](curriculum/2-basico/matematica/de-actitud-ma02-oaa-e.md) | 4 | formacion-general-comun |
-| Matemática | [de Actitud MA02 OAA F · Expresar y escuchar ideas de forma respetuosa. Unidad de Currículum y Evaluación Ministerio de…](curriculum/2-basico/matematica/de-actitud-ma02-oaa-f.md) | 4 | formacion-general-comun |
+| Matemática | [de Actitud MA02 OAA F · Expresar y escuchar ideas de forma respetuosa](curriculum/2-basico/matematica/de-actitud-ma02-oaa-f.md) | 4 | formacion-general-comun |
 | Música | [MU02 OA 01 · Escuchar cualidades del sonido (altura, timbre, intensidad, duración) y elementos del lenguaje…](curriculum/2-basico/musica/mu02-oa-01.md) | 4 | formacion-general-comun |
 | Música | [MU02 OA 02 · Expresar sensaciones, emociones e ideas que les sugiere el sonido y la música escuchada, usando…](curriculum/2-basico/musica/mu02-oa-02.md) | 4 | formacion-general-comun |
 | Música | [MU02 OA 03 · Escuchar música en forma abundante de diversos contextos y culturas poniendo énfasis en](curriculum/2-basico/musica/mu02-oa-03.md) | 5 | formacion-general-comun |

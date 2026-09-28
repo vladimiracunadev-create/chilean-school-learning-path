@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-28**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores en 1° básico |
-| Desarrollada | 713 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 343 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 806 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 407 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° básico tiene desarrollo interno completo**: 691 clases desarrolladas, 343 experiencias integradas y 0 borradores. Las once asignaturas están completas en contenido, aunque su revisión humana sigue pendiente. Se conservan además 22 clases piloto de otros niveles.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° básico tiene desarrollo interno completo**: 691 clases desarrolladas y 343 experiencias integradas. **2° básico está definido y Matemática completa su desarrollo interno** con 93 clases y 64 experiencias integradas; sus otras diez asignaturas conservan 915 propuestas secuenciadas. Se mantienen además 22 clases piloto de 3°, 4° y 8° básico.
 
 ## Reconstrucción de 1° básico
 
@@ -32,6 +32,16 @@ Fecha de corte: **2026-09-28**. Los conteos provienen de `curriculum/catalog.jso
 | **Total desarrollado en 1° básico** | **691** | revisión humana pendiente |
 
 Las 691 clases desarrolladas contienen propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios, decisión posterior y adaptación a 45 minutos. Los desarrollos específicos se conservan en [content/developed-lessons.json](content/developed-lessons.json) y en los módulos disciplinares de `scripts/grade_one_*_lessons.py`. La arquitectura de [scripts/grade_one_lessons.py](scripts/grade_one_lessons.py) queda disponible para niveles aún no desarrollados y no se contabiliza como desarrollo terminado.
+
+## Matemática de 2° básico
+
+| Secuencia | Clases desarrolladas | Integración |
+|---|---:|---:|
+| `MA02 OA 01` a `MA02 OA 22` | 93 | 15 OA de habilidades y actitudes distribuidos en 64 experiencias |
+
+Las secuencias canónicas viven en `scripts/grade_two_math_lessons.py`. Los criterios de progresión derivados se rotulan como internos y cada ficha conserva el enlace al OA oficial. Las otras diez asignaturas del nivel no se contabilizan como desarrolladas.
+
+[Ver mapa de 2° básico](docs/2-basico/README.md) · [Abrir Matemática](docs/2-basico/matematica.md)
 
 [Ver documentación de 1° básico](docs/PRIMERO_BASICO.md) · [Abrir programa por asignaturas](docs/1-basico/README.md)
 

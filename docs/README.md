@@ -4,7 +4,7 @@
 
 ## **1° básico con desarrollo interno completo**
 
-**691 clases desarrolladas · 343 experiencias integradas · 0 borradores · 237 OA · 11 asignaturas**
+**1° básico completo · 2° básico definido · Matemática 2°: 93 clases + 64 experiencias integradas**
 
 [📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
@@ -93,7 +93,7 @@ flowchart TD
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas, 343 experiencias integradas y 0 borradores. Las once asignaturas tienen desarrollo interno completo; las otras 22 clases desarrolladas del catálogo son pilotos de otros niveles. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas. 2° básico está definido en sus once asignaturas; sólo Matemática está desarrollada, con 93 clases y 64 experiencias integradas, mientras 915 propuestas permanecen secuenciadas. Las otras 22 clases desarrolladas del catálogo son pilotos de 3°, 4° y 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 

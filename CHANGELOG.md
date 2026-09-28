@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-28 — 2° básico definido y Matemática desarrollada
+
+- Se delimitaron las once asignaturas, 247 OA y 1.072 propuestas de 2° básico.
+- Matemática quedó desarrollada en 22 OA disciplinares, 93 clases y 64 experiencias que integran 15 OA de habilidades y actitudes.
+- Las otras diez asignaturas conservan 915 propuestas en estado secuenciada, sin plantillas presentadas como contenido terminado.
+- Se añadieron mapa web, documentación del nivel, guía de Matemática, validaciones estructurales y pruebas de especificidad.
+- La revisión profesional humana continúa pendiente y no se confunde con CI verde.
+
 ## 2026-09-28 — Desarrollo interno completo de 1° básico
 
 - Desarrollo de Música, Educación Física y Salud, Orientación, Tecnología, Inglés (Propuesta) y Lengua y Cultura de los Pueblos Originarios Ancestrales: 336 clases disciplinares y 114 experiencias transversales nuevas.

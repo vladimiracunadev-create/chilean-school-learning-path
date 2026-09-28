@@ -7,7 +7,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
 | 1° básico | 237 | 1.034 | Desarrollo interno completo · 691 desarrolladas · 343 integradas · 0 borradores · revisión humana pendiente |
-| 2° básico | 247 | 1.072 | Próximo nivel de desarrollo |
+| 2° básico | 247 | 1.072 | Nivel definido · Matemática: 93 desarrolladas + 64 integradas · otras asignaturas: 915 secuenciadas |
 | 3° básico | 257 | 1.136 | Secuenciado · 11 clases piloto desarrolladas |
 | 4° básico | 268 | 1.195 | Secuenciado · 4 clases piloto desarrolladas |
 | 5° básico | 295 | 1.340 | Secuenciado |
@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **713 clases desarrolladas**, **343 experiencias integradas**, **0 borradores en 1° básico** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **806 clases desarrolladas**, **407 experiencias integradas**, **915 propuestas pendientes dentro de 2° básico** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -47,9 +47,11 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **713 clases desarrolladas**,
 
 ### Fase 2 · 2° básico
 
-- [ ] Desarrollar las 1.072 clases.
-- [ ] Revisar continuidad con los aprendizajes de 1° básico.
-- [ ] Publicar mapa de contenidos y guía específica del nivel.
+- [x] Definir las once asignaturas, 247 OA y 1.072 propuestas del nivel.
+- [x] Desarrollar sólo Matemática: 93 clases en 22 OA de contenido y 64 experiencias integradas de 15 OA transversales.
+- [x] Documentar continuidad de Matemática con los aprendizajes de 1° básico.
+- [x] Publicar mapa de contenidos del nivel y guía específica de Matemática.
+- [ ] Desarrollar las 915 propuestas de las otras diez asignaturas.
 - [ ] Ejecutar revisión humana y registrar evidencia.
 
 ### Fases siguientes

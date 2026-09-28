@@ -83,7 +83,7 @@ Una clase no cumple el estándar si:
 
 Los validadores revisan estructura, campos, conteos, estados, archivos, anclas y documentos esenciales. También exigen:
 
-- separación verificable entre 691 clases desarrolladas, 343 experiencias integradas y 0 borradores de 1° básico;
+- separación verificable entre 806 clases desarrolladas, 407 experiencias integradas y las propuestas que permanecen sólo secuenciadas;
 - índice completo del nivel;
 - 11 guías de asignatura;
 - syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión;

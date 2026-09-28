@@ -17,8 +17,8 @@ def is_integrated(code: str) -> bool:
 def main() -> None:
     snapshot = json.loads((ROOT / "sources/mineduc-curriculum-snapshot.json").read_text(encoding="utf-8"))
     plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
-    records = [record for record in snapshot["records"] if record["course_order"] == 1]
-    records.sort(key=lambda record: plan["subject_order"].index(record["subject"]))
+    records = [record for record in snapshot["records"] if record["course_order"] in {1, 2}]
+    records.sort(key=lambda record: (record["course_order"], plan["subject_order"].index(record["subject"])))
     statuses = plan["objective_status"]
     labels = {"desarrollado": "Desarrollado", "en_desarrollo": "En desarrollo", "pendiente": "Pendiente"}
     lines = [
@@ -28,8 +28,8 @@ def main() -> None:
         "Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.", "",
         "## Flujo sostenido", "",
         "~~~mermaid", "flowchart LR", "    A[Investigar OA e indicadores] --> B[Diseñar progresión]", "    B --> C[Escribir clases]", "    C --> D[Control interno]", "    D --> E[Markdown + HTML]", "    E --> F[CI verde]", "    F --> G[Revisión profesional]", "    G --> H[Cerrar asignatura]", "~~~", "",
-        "## Orden de resolución de 1° básico", "",
-        "| Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |", "|---:|---|---:|---:|---:|---|",
+        "## Definición y orden editorial de 1° y 2° básico", "",
+        "| Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |", "|---|---:|---|---:|---:|---:|---|",
     ]
     subject_details = []
     for order, record in enumerate(records, 1):
@@ -44,17 +44,18 @@ def main() -> None:
             state = "Activa" if record["subject"] == plan["active_subject"] else f"{developed}/{len(core)} OA desarrollados"
         if in_progress and record["subject"] != plan["active_subject"]:
             state += f" · {in_progress} en desarrollo"
-        lines.append(f"| {order} | {record['subject']} | {len(core)} | {class_count} | {len(integrated)} | {state} |")
+        subject_order = plan["subject_order"].index(record["subject"]) + 1
+        lines.append(f"| {record['course']} | {subject_order} | {record['subject']} | {len(core)} | {class_count} | {len(integrated)} | {state} |")
         subject_details.append((record, core, integrated))
     lines += ["", "## Plan por asignatura e ítem", "", "Cada fila corresponde a un ítem curricular real. Las clases indicadas son la dosificación actual; pueden ajustarse con evidencia, pero no desaparecer para inflar el avance.", ""]
     for record, core, integrated in subject_details:
         subject_class_count = sum(len(dose(item["description"], record["subject_slug"], item.get("readings", []))) for item in core)
-        lines += [f"### {record['subject']}", "", "| Ítem | Eje | Clases | Estado | Fuente |", "|---|---|---:|---|---|"]
+        lines += [f"### {record['subject']} · {record['course']}", "", "| Ítem | Eje | Clases | Estado | Fuente |", "|---|---|---:|---|---|"]
         for item in core:
             count = len(dose(item["description"], record["subject_slug"], item.get("readings", [])))
             state = labels.get(statuses.get(item["code"], "pendiente"), "Pendiente")
             lines.append(f"| `{item['code']}` | {item['axis']} | {count} | {state} | [Currículum Nacional]({item['url']}) |")
-        integrated_experiences = {"Matemática": 68, "Lenguaje y Comunicación": 29, "Ciencias Naturales": 40, "Historia, Geografía y Ciencias Sociales": 64, "Artes Visuales": 28, "Música": 28, "Educación Física y Salud": 32, "Tecnología": 20, "Inglés (Propuesta)": 16, "Lengua y Cultura de los Pueblos Originarios Ancestrales": 18}.get(record["subject"])
+        integrated_experiences = {(1, "Matemática"): 68, (1, "Lenguaje y Comunicación"): 29, (1, "Ciencias Naturales"): 40, (1, "Historia, Geografía y Ciencias Sociales"): 64, (1, "Artes Visuales"): 28, (1, "Música"): 28, (1, "Educación Física y Salud"): 32, (1, "Tecnología"): 20, (1, "Inglés (Propuesta)"): 16, (1, "Lengua y Cultura de los Pueblos Originarios Ancestrales"): 18, (2, "Matemática"): 64}.get((record["course_order"], record["subject"]))
         if integrated_experiences is not None:
             integration_note = f"**Integración transversal documentada:** {len(integrated)} ítems de habilidades o actitudes se incorporan en {integrated_experiences} experiencias dentro de las {subject_class_count} clases de contenido; no se contabilizan como clases autónomas."
         else:
@@ -69,7 +70,7 @@ def main() -> None:
     lines += [f"- [ ] {gate}" for gate in plan["completion_gates"]]
     lines += ["", "## Regla de comunicación", "", "El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **completa** cuando todos sus OA disciplinares y todos los gates están cerrados.", ""]
     (ROOT / "docs/PLAN_DESARROLLO.md").write_text("\n".join(lines), encoding="utf-8")
-    print(f"Plan generado: {sum(len(core) for _, core, _ in subject_details)} OA disciplinares de 1° básico")
+    print(f"Plan generado: {sum(len(core) for _, core, _ in subject_details)} OA disciplinares de 1° y 2° básico")
 
 
 if __name__ == "__main__":

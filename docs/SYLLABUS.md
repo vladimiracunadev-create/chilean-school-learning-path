@@ -4,7 +4,7 @@
 
 > [⬅️ Centro de documentación](README.md) · [📚 Índice completo del nivel](1-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**691 clases desarrolladas · 343 experiencias integradas · 0 borradores · 237 OA · 11 asignaturas**
+**1° básico: 691 desarrolladas + 343 integradas · Matemática 2°: 93 desarrolladas + 64 integradas**
 
 > Las 1.034 entradas constituyen un **mapa de trabajo**, no una biblioteca de planificaciones terminadas ni un horario anual. Solo las fichas marcadas como desarrolladas contienen por ahora contenido específico; los borradores no deben usarse sin investigación y reescritura docente.
 
@@ -13,6 +13,8 @@
 ## 1. Presentación
 
 Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currículum Nacional en secuencias utilizables. Ese desarrollo se realiza OA por OA: las once asignaturas de 1° básico están desarrolladas en sus 153 OA de contenido y 691 clases; 84 OA de habilidades y actitudes se integran mediante 343 experiencias. El nivel conserva revisión humana pendiente.
+
+2° básico está definido en 247 OA, 1.072 propuestas y once asignaturas. En esta fase sólo Matemática alcanza desarrollo interno: 22 OA de contenido se despliegan en 93 clases y 15 OA transversales en 64 experiencias integradas. Las otras 915 propuestas permanecen secuenciadas y no se presentan como clases terminadas.
 
 El programa busca que la planificación sea:
 
