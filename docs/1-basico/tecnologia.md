@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Orientación](orientacion.md)
 
-**11 OA · 46 propuestas · 3 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**6 OA de contenido · 26 clases desarrolladas · 5 OA transversales · 20 experiencias integradas · 3 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 46 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 26 clases desarrolladas, 20 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -72,12 +72,12 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| TE01 OA 01 | Crear diseños de objetos tecnológicos, representando sus ideas a través de dibujos a mano alzada o… | Diseñar, hacer y probar | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-01.md) |
-| TE01 OA 02 | Distinguir las tareas para elaborar un objeto tecnológico, identificando los materiales y las… | Diseñar, hacer y probar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-02.md) |
-| TE01 OA 03 | Elaborar un objeto tecnológico según las indicaciones del profesor, seleccionando y experimentando con | Diseñar, hacer y probar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-03.md) |
-| TE01 OA 04 | Probar y explicar los resultados de los trabajos propios y de otros, de forma individual o en… | Diseñar, hacer y probar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-04.md) |
-| TE01 OA 05 | Usar software de dibujo para crear y representar ideas por medio de imágenes, guiados por el docente | Tecnologías de la información y la comunicación | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-05.md) |
-| TE01 OA 06 | Explorar y usar una variedad de software educativos (simuladores, libros digitales, interactivos y… | Tecnologías de la información y la comunicación | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-06.md) |
+| TE01 OA 01 | Representación de diseños tecnológicos | Diseñar, hacer y probar | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-01.md) |
+| TE01 OA 02 | Tareas, materiales y herramientas de elaboración | Diseñar, hacer y probar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-02.md) |
+| TE01 OA 03 | Elaboración segura de un objeto tecnológico | Diseñar, hacer y probar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-03.md) |
+| TE01 OA 04 | Prueba y explicación de resultados tecnológicos | Diseñar, hacer y probar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-04.md) |
+| TE01 OA 05 | Dibujo digital para representar ideas | Tecnologías de la información y la comunicación | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-05.md) |
+| TE01 OA 06 | Uso de software educativo y creativo | Tecnologías de la información y la comunicación | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/te01-oa-06.md) |
 | de Actitud TE01 OAA A | Demostrar curiosidad por el entorno tecnológico, y disposición a informarse y explorar sus diversos… | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/de-actitud-te01-oaa-a.md) |
 | de Actitud TE01 OAA B | Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/de-actitud-te01-oaa-b.md) |
 | de Actitud TE01 OAA C | Demostrar iniciativa personal y emprendimiento en la creación y diseño de tecnologías innovadoras | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/tecnologia/de-actitud-te01-oaa-c.md) |

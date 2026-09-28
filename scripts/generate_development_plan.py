@@ -54,7 +54,7 @@ def main() -> None:
             count = len(dose(item["description"], record["subject_slug"], item.get("readings", [])))
             state = labels.get(statuses.get(item["code"], "pendiente"), "Pendiente")
             lines.append(f"| `{item['code']}` | {item['axis']} | {count} | {state} | [Currículum Nacional]({item['url']}) |")
-        integrated_experiences = {"Matemática": 68, "Lenguaje y Comunicación": 29, "Ciencias Naturales": 40, "Historia, Geografía y Ciencias Sociales": 64, "Artes Visuales": 28}.get(record["subject"])
+        integrated_experiences = {"Matemática": 68, "Lenguaje y Comunicación": 29, "Ciencias Naturales": 40, "Historia, Geografía y Ciencias Sociales": 64, "Artes Visuales": 28, "Música": 28, "Educación Física y Salud": 32, "Tecnología": 20, "Inglés (Propuesta)": 16, "Lengua y Cultura de los Pueblos Originarios Ancestrales": 18}.get(record["subject"])
         if integrated_experiences is not None:
             integration_note = f"**Integración transversal documentada:** {len(integrated)} ítems de habilidades o actitudes se incorporan en {integrated_experiences} experiencias dentro de las {subject_class_count} clases de contenido; no se contabilizan como clases autónomas."
         else:

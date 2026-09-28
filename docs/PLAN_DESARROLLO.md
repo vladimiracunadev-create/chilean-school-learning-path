@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 1° básico · **Asignatura activa:** Música · **Unidad de entrega:** asignatura completa
+**Nivel activo:** 1° básico · **Asignatura activa:** Ninguna — 1° básico completo · **Unidad de entrega:** asignatura completa
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -28,12 +28,12 @@ flowchart LR
 | 3 | Ciencias Naturales | 12 | 49 | 10 | Desarrollo interno completo · revisión humana pendiente |
 | 4 | Historia, Geografía y Ciencias Sociales | 15 | 68 | 16 | Desarrollo interno completo · revisión humana pendiente |
 | 5 | Artes Visuales | 5 | 24 | 7 | Desarrollo interno completo · revisión humana pendiente |
-| 6 | Música | 7 | 29 | 7 | Activa |
-| 7 | Educación Física y Salud | 11 | 48 | 8 | 0/11 OA desarrollados |
-| 8 | Orientación | 8 | 35 | 0 | 0/8 OA desarrollados |
-| 9 | Tecnología | 6 | 26 | 5 | 0/6 OA desarrollados |
-| 10 | Inglés (Propuesta) | 14 | 69 | 4 | 0/14 OA desarrollados |
-| 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 129 | 4 | 0/29 OA desarrollados |
+| 6 | Música | 7 | 29 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 7 | Educación Física y Salud | 11 | 48 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 9 | Tecnología | 6 | 26 | 5 | Desarrollo interno completo · revisión humana pendiente |
+| 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 129 | 4 | Desarrollo interno completo · revisión humana pendiente |
 
 ## Plan por asignatura e ítem
 
@@ -156,46 +156,46 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `MU01 OA 01` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-01) |
-| `MU01 OA 02` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-02) |
-| `MU01 OA 03` | Escuchar y apreciar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-03) |
-| `MU01 OA 04` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-04) |
-| `MU01 OA 05` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-05) |
-| `MU01 OA 06` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-06) |
-| `MU01 OA 07` | Reflexionar y contextualizar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-07) |
+| `MU01 OA 01` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-01) |
+| `MU01 OA 02` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-02) |
+| `MU01 OA 03` | Escuchar y apreciar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-03) |
+| `MU01 OA 04` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-04) |
+| `MU01 OA 05` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-05) |
+| `MU01 OA 06` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-06) |
+| `MU01 OA 07` | Reflexionar y contextualizar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/1-basico/mu01-oa-07) |
 
-**Integración transversal pendiente:** 7 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 29 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Educación Física y Salud
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EF01 OA 01` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-01) |
-| `EF01 OA 02` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-02) |
-| `EF01 OA 03` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-03) |
-| `EF01 OA 04` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-04) |
-| `EF01 OA 05` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-05) |
-| `EF01 OA 06` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-06) |
-| `EF01 OA 07` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-07) |
-| `EF01 OA 08` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-08) |
-| `EF01 OA 09` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-09) |
-| `EF01 OA 10` | Seguridad, juego limpio y liderazgo | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-10) |
-| `EF01 OA 11` | Seguridad, juego limpio y liderazgo | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-11) |
+| `EF01 OA 01` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-01) |
+| `EF01 OA 02` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-02) |
+| `EF01 OA 03` | Habilidades motrices | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-03) |
+| `EF01 OA 04` | Habilidades motrices | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-04) |
+| `EF01 OA 05` | Habilidades motrices | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-05) |
+| `EF01 OA 06` | Vida activa y saludable | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-06) |
+| `EF01 OA 07` | Vida activa y saludable | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-07) |
+| `EF01 OA 08` | Vida activa y saludable | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-08) |
+| `EF01 OA 09` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-09) |
+| `EF01 OA 10` | Seguridad, juego limpio y liderazgo | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-10) |
+| `EF01 OA 11` | Seguridad, juego limpio y liderazgo | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/1-basico/ef01-oa-11) |
 
-**Integración transversal pendiente:** 8 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 32 experiencias dentro de las 48 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Orientación
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `OR01 OA 01` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-01) |
-| `OR01 OA 02` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-02) |
-| `OR01 OA 03` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-03) |
-| `OR01 OA 04` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-04) |
-| `OR01 OA 05` | Relaciones interpersonales | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-05) |
-| `OR01 OA 06` | Relaciones interpersonales | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-06) |
-| `OR01 OA 07` | Participación y pertenencia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-07) |
-| `OR01 OA 08` | Trabajo escolar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-08) |
+| `OR01 OA 01` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-01) |
+| `OR01 OA 02` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-02) |
+| `OR01 OA 03` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-03) |
+| `OR01 OA 04` | Crecimiento personal | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-04) |
+| `OR01 OA 05` | Relaciones interpersonales | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-05) |
+| `OR01 OA 06` | Relaciones interpersonales | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-06) |
+| `OR01 OA 07` | Participación y pertenencia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-07) |
+| `OR01 OA 08` | Trabajo escolar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/1-basico/or01-oa-08) |
 
 **Integración transversal pendiente:** 0 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
 
@@ -203,71 +203,71 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `TE01 OA 01` | Diseñar, hacer y probar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-01) |
-| `TE01 OA 02` | Diseñar, hacer y probar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-02) |
-| `TE01 OA 03` | Diseñar, hacer y probar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-03) |
-| `TE01 OA 04` | Diseñar, hacer y probar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-04) |
-| `TE01 OA 05` | Tecnologías de la información y la comunicación | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-05) |
-| `TE01 OA 06` | Tecnologías de la información y la comunicación | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-06) |
+| `TE01 OA 01` | Diseñar, hacer y probar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-01) |
+| `TE01 OA 02` | Diseñar, hacer y probar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-02) |
+| `TE01 OA 03` | Diseñar, hacer y probar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-03) |
+| `TE01 OA 04` | Diseñar, hacer y probar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-04) |
+| `TE01 OA 05` | Tecnologías de la información y la comunicación | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-05) |
+| `TE01 OA 06` | Tecnologías de la información y la comunicación | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/1-basico/te01-oa-06) |
 
-**Integración transversal pendiente:** 5 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 20 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Inglés (Propuesta)
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EN01 OA 01` | Comprensión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-01) |
-| `EN01 OA 02` | Comprensión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-02) |
-| `EN01 OA 03` | Comprensión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-03) |
-| `EN01 OA 04` | Comprensión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-04) |
-| `EN01 OA 05` | Comprensión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-05) |
-| `EN01 OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-06) |
-| `EN01 OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-07) |
-| `EN01 OA 08` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-08) |
-| `EN01 OA 09` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-09) |
-| `EN01 OA 10` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-10) |
-| `EN01 OA 11` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-11) |
-| `EN01 OA 12` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-12) |
-| `EN01 OA 13` | Expresión escrita | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-13) |
-| `EN01 OA 14` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-14) |
+| `EN01 OA 01` | Comprensión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-01) |
+| `EN01 OA 02` | Comprensión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-02) |
+| `EN01 OA 03` | Comprensión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-03) |
+| `EN01 OA 04` | Comprensión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-04) |
+| `EN01 OA 05` | Comprensión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-05) |
+| `EN01 OA 06` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-06) |
+| `EN01 OA 07` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-07) |
+| `EN01 OA 08` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-08) |
+| `EN01 OA 09` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-09) |
+| `EN01 OA 10` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-10) |
+| `EN01 OA 11` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-11) |
+| `EN01 OA 12` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-12) |
+| `EN01 OA 13` | Expresión escrita | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-13) |
+| `EN01 OA 14` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/1-basico/en01-oa-14) |
 
-**Integración transversal pendiente:** 4 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 16 experiencias dentro de las 69 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Lengua y Cultura de los Pueblos Originarios Ancestrales
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `LC01 OA LF01` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf01) |
-| `LC01 OA LF02` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf02) |
-| `LC01 OA LF03` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf03) |
-| `LC01 OA LF04` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf04) |
-| `LC01 OA LF05` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf05) |
-| `LC01 OA LF06` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf06) |
-| `LC01 OA LR01` | Contexto de rescate y revitalización de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr01) |
-| `LC01 OA LR02` | Contexto de rescate y revitalización de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr02) |
-| `LC01 OA LR03` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr03) |
-| `LC01 OA LR04` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr04) |
-| `LC01 OA LR05` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr05) |
-| `LC01 OA LR06` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr06) |
-| `LC01 OA LS01` | Contexto de Sensibilización sobre la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls01) |
-| `LC01 OA LS02` | Contexto de Sensibilización sobre la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls02) |
-| `LC01 OA LS03` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls03) |
-| `LC01 OA LS04` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls04) |
-| `LC01 OA LS05` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls05) |
-| `LC01 OA LS06` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls06) |
-| `LC01 OA 10` | Cosmovisión de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-10) |
-| `LC01 OA 11` | Cosmovisión de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-11) |
-| `LC01 OA 12` | Cosmovisión de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-12) |
-| `LC01 OA 13` | Cosmovisión de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-13) |
-| `LC01 OA 14` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-14) |
-| `LC01 OA 15` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-15) |
-| `LC01 OA 16` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-16) |
-| `LC01 OA 17` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-17) |
-| `LC01 OA 07` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-07) |
-| `LC01 OA 08` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-08) |
-| `LC01 OA 09` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-09) |
+| `LC01 OA LF01` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf01) |
+| `LC01 OA LF02` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf02) |
+| `LC01 OA LF03` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf03) |
+| `LC01 OA LF04` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf04) |
+| `LC01 OA LF05` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf05) |
+| `LC01 OA LF06` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lf06) |
+| `LC01 OA LR01` | Contexto de rescate y revitalización de la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr01) |
+| `LC01 OA LR02` | Contexto de rescate y revitalización de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr02) |
+| `LC01 OA LR03` | Contexto de rescate y revitalización de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr03) |
+| `LC01 OA LR04` | Contexto de rescate y revitalización de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr04) |
+| `LC01 OA LR05` | Contexto de rescate y revitalización de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr05) |
+| `LC01 OA LR06` | Contexto de rescate y revitalización de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr06) |
+| `LC01 OA LS01` | Contexto de Sensibilización sobre la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls01) |
+| `LC01 OA LS02` | Contexto de Sensibilización sobre la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls02) |
+| `LC01 OA LS03` | Contexto de Sensibilización sobre la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls03) |
+| `LC01 OA LS04` | Contexto de Sensibilización sobre la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls04) |
+| `LC01 OA LS05` | Contexto de Sensibilización sobre la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls05) |
+| `LC01 OA LS06` | Contexto de Sensibilización sobre la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-ls06) |
+| `LC01 OA 10` | Cosmovisión de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-10) |
+| `LC01 OA 11` | Cosmovisión de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-11) |
+| `LC01 OA 12` | Cosmovisión de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-12) |
+| `LC01 OA 13` | Cosmovisión de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-13) |
+| `LC01 OA 14` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-14) |
+| `LC01 OA 15` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-15) |
+| `LC01 OA 16` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-16) |
+| `LC01 OA 17` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-17) |
+| `LC01 OA 07` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-07) |
+| `LC01 OA 08` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-08) |
+| `LC01 OA 09` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-09) |
 
-**Integración transversal pendiente:** 4 ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas.
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 18 experiencias dentro de las 129 clases de contenido; no se contabilizan como clases autónomas.
 
 ## Controles profesionales
 
@@ -277,7 +277,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo cinco asignaturas | Matemática, Lenguaje, Ciencias Naturales, Historia y Artes Visuales registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
+| Documental y fuentes | control interno completo primero basico | Las 11 asignaturas de 1° básico registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

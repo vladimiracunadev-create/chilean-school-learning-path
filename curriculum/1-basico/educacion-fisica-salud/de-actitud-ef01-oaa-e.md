@@ -23,7 +23,7 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: promover la participación equitativa de… {#cl-00206}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Promover la participación equitativa de hombres y mujeres en toda actividad física y deporte».
 
@@ -71,7 +71,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente especialista define progresión y seguridad; otros adultos supervisan zonas acordadas y reportan evidencia con el mismo criterio.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: promover la participación equitativa de… {#cl-00207}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Promover la participación equitativa de hombres y mujeres en toda actividad física y deporte».
 
@@ -119,7 +119,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente especialista define progresión y seguridad; otros adultos supervisan zonas acordadas y reportan evidencia con el mismo criterio.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: promover la participación equitativa de… {#cl-00208}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Promover la participación equitativa de hombres y mujeres en toda actividad física y deporte».
 
@@ -167,7 +167,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El docente especialista define progresión y seguridad; otros adultos supervisan zonas acordadas y reportan evidencia con el mismo criterio.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: promover la participación equitativa de… {#cl-00209}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Promover la participación equitativa de hombres y mujeres en toda actividad física y deporte».
 

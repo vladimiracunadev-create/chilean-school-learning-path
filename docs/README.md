@@ -2,9 +2,9 @@
 
 # 📚 Centro de documentación
 
-## **1° básico en reconstrucción pedagógica**
+## **1° básico con desarrollo interno completo**
 
-**355 clases desarrolladas · 229 experiencias integradas · 450 borradores · 237 OA · 11 asignaturas**
+**691 clases desarrolladas · 343 experiencias integradas · 0 borradores · 237 OA · 11 asignaturas**
 
 [📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
@@ -93,7 +93,7 @@ flowchart TD
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 355 clases desarrolladas, 229 experiencias integradas y 450 borradores. Matemática aporta 83 clases, Lenguaje 131, Ciencias 49, Historia 68 y Artes Visuales 24; las otras 22 clases desarrolladas del catálogo son pilotos de otros niveles.
+1° básico reúne 691 clases desarrolladas, 343 experiencias integradas y 0 borradores. Las once asignaturas tienen desarrollo interno completo; las otras 22 clases desarrolladas del catálogo son pilotos de otros niveles. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 

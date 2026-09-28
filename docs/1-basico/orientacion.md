@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Música](musica.md) · [Tecnología →](tecnologia.md)
 
-**8 OA · 35 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**8 OA de contenido · 35 clases desarrolladas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 35 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 35 clases desarrolladas, 0 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -73,14 +73,14 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| OR01 OA 01 | Observar, describir y valorar sus características personales, sus habilidades e intereses | Crecimiento personal | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-01.md) |
-| OR01 OA 02 | Identificar emociones experimentadas por ellos y por los demás (por ejemplo, pena, rabia, miedo,… | Crecimiento personal | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-02.md) |
-| OR01 OA 03 | Observar, describir y valorar las expresiones de afecto y cariño, que dan y reciben, en los ámbitos… | Crecimiento personal | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-03.md) |
-| OR01 OA 04 | Identificar y practicar, en forma guiada, conductas protectoras y de autocuidado en relación a | Crecimiento personal | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-04.md) |
-| OR01 OA 05 | Manifestar actitudes de solidaridad y respeto, que favorezcan la convivencia, como | Relaciones interpersonales | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-05.md) |
-| OR01 OA 06 | Identificar conflictos que surgen entre pares y practicar formas de solucionarlos como escuchar al… | Relaciones interpersonales | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-06.md) |
-| OR01 OA 07 | Reconocer, describir y valorar sus grupos de pertenencia (familia, curso, pares), las personas que… | Participación y pertenencia | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-07.md) |
-| OR01 OA 08 | Practicar hábitos y actitudes que favorezcan el proceso de aprendizaje, como | Trabajo escolar | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-08.md) |
+| OR01 OA 01 | Características, habilidades e intereses personales | Crecimiento personal | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-01.md) |
+| OR01 OA 02 | Identificación y expresión de emociones | Crecimiento personal | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-02.md) |
+| OR01 OA 03 | Expresiones de afecto, cariño y cuidado | Crecimiento personal | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-03.md) |
+| OR01 OA 04 | Autocuidado, intimidad e información personal | Crecimiento personal | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-04.md) |
+| OR01 OA 05 | Buen trato, respeto y solidaridad | Relaciones interpersonales | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-05.md) |
+| OR01 OA 06 | Resolución de conflictos entre pares | Relaciones interpersonales | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-06.md) |
+| OR01 OA 07 | Pertenencia y participación en grupos | Participación y pertenencia | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-07.md) |
+| OR01 OA 08 | Hábitos y actitudes para aprender | Trabajo escolar | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/orientacion/or01-oa-08.md) |
 
 ## 🔎 Qué observar
 

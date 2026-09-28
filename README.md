@@ -2,14 +2,14 @@
 
 # 🇨🇱 Trayectoria Escolar Chile
 
-## **Cinco asignaturas de 1° básico completas · 355 clases**
+## **1° básico desarrollado en sus 11 asignaturas · 691 clases**
 
 **Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
 [![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 
-[![Programa](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-en%20reconstrucci%C3%B3n-e9533f?style=for-the-badge)](docs/1-basico/README.md)
-[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-355-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
+[![Programa](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-desarrollo%20interno%20completo-17643a?style=for-the-badge)](docs/1-basico/README.md)
+[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-691-0c5963?style=for-the-badge)](docs/PRIMERO_BASICO.md)
 [![Matemática](https://img.shields.io/badge/matem%C3%A1tica-83%20clases-17643a?style=for-the-badge)](docs/1-basico/matematica.md)
 [![Lenguaje](https://img.shields.io/badge/lenguaje-131%20clases-7c5cff?style=for-the-badge)](docs/1-basico/lenguaje-comunicacion.md)
 [![Asignaturas](https://img.shields.io/badge/asignaturas-11-7c5cff?style=for-the-badge)](docs/1-basico/README.md#-las-11-asignaturas)
@@ -29,7 +29,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** Matemática, Lenguaje y Comunicación, Ciencias Naturales, Historia, Geografía y Ciencias Sociales y Artes Visuales están completas en contenido para 1° básico: **355 clases en 78 OA disciplinares**. Sus 56 OA transversales se incorporan mediante 229 experiencias y no se cuentan como clases independientes. Quedan 450 borradores del nivel y existen 22 clases piloto en otros niveles. La verificación interna está completa; la revisión humana especializada sigue pendiente.
+> **Estado real del proyecto:** las 11 asignaturas de 1° básico cuentan con desarrollo pedagógico interno completo: **691 clases en 153 OA disciplinares**. Sus 84 OA transversales se incorporan mediante 343 experiencias y no se cuentan como clases independientes. No quedan borradores en el nivel y existen además 22 clases piloto en otros cursos. La verificación interna está completa; la revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -38,7 +38,7 @@
 
 Este repositorio sirve hoy para tres cosas distintas, expresadas sin mezclar sus estados:
 
-- **Usar cinco asignaturas completas de 1° básico:** ofrece 355 clases específicas organizadas en 78 secuencias de contenido, todavía pendientes de revisión humana.
+- **Usar el desarrollo completo de 1° básico:** ofrece 691 clases específicas organizadas en 153 secuencias disciplinares, todavía pendientes de revisión humana.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
 - **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
 
@@ -95,7 +95,7 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 ### Desarrollado hasta ahora
 
-**1° básico:** 355 clases desarrolladas: Matemática (83), Lenguaje y Comunicación (131), Ciencias Naturales (49), Historia, Geografía y Ciencias Sociales (68) y Artes Visuales (24). Se documentan además 229 experiencias transversales dentro de esas asignaturas, sin duplicar el conteo. Todo está disponible en Markdown y HTML y mantiene **revisión humana pendiente**. Las otras 450 propuestas del nivel son borradores.
+**1° básico:** 691 clases desarrolladas en las 11 asignaturas y 343 experiencias transversales integradas, sin duplicar el conteo. Las 1.034 entradas del nivel están resueltas como contenido disciplinar o integración; quedan **0 borradores**. Todo está disponible en Markdown y HTML y mantiene **revisión humana pendiente**.
 
 ### Preparado para desarrollo futuro
 
@@ -105,21 +105,21 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 Es la suma de todos los **espacios de clase inventariados** del mapa curricular. No significa que existan 12.997 planificaciones pedagógicas terminadas. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
 
-## 🧒 1° básico · reconstrucción OA por OA
+## 🧒 1° básico · desarrollo OA por OA
 
-El mapa se organiza en once recorridos por asignatura. Las guías permiten localizar los OA y ver cuántas propuestas están desarrolladas o continúan como borrador. La existencia de una guía no significa que toda la asignatura esté terminada.
+El nivel se organiza en once recorridos por asignatura. Todas las guías cuentan con secuencias específicas; su publicación y control automático no sustituyen la revisión humana disciplinar, pedagógica, cultural y de accesibilidad.
 
 - 🎨 **[Artes Visuales](docs/1-basico/artes-visuales.md):** 5 OA de contenido y 24 clases desarrolladas; 7 OA de actitudes se integran mediante 28 experiencias.
 - 🌱 **[Ciencias Naturales](docs/1-basico/ciencias-naturales.md):** 12 OA de contenido y 49 clases desarrolladas; 10 OA de habilidades/actitudes se integran mediante 40 experiencias.
-- 🏃 **[Educación Física y Salud](docs/1-basico/educacion-fisica-salud.md):** 19 OA y 80 clases.
+- 🏃 **[Educación Física y Salud](docs/1-basico/educacion-fisica-salud.md):** 11 OA de contenido y 48 clases desarrolladas; 8 OA de actitudes se integran mediante 32 experiencias.
 - 🗺️ **[Historia, Geografía y Ciencias Sociales](docs/1-basico/historia-geografia-ciencias-sociales.md):** 15 OA de contenido y 68 clases desarrolladas; 16 OA de habilidades/actitudes se integran mediante 64 experiencias.
-- 🌍 **[Inglés — propuesta](docs/1-basico/ingles-propuesta.md):** 18 OA y 85 clases.
-- 🪶 **[Lengua y Cultura de los Pueblos Originarios Ancestrales](docs/1-basico/lengua-cultura-pueblos-originarios-ancestrales.md):** 33 OA y 147 clases.
+- 🌍 **[Inglés — propuesta](docs/1-basico/ingles-propuesta.md):** 14 OA de contenido y 69 clases desarrolladas; 4 OA de actitudes se integran mediante 16 experiencias.
+- 🪶 **[Lengua y Cultura de los Pueblos Originarios Ancestrales](docs/1-basico/lengua-cultura-pueblos-originarios-ancestrales.md):** 29 OA de contenido y 129 clases desarrolladas; 4 OA de actitudes se integran mediante 18 experiencias, con resguardos de fuente, comunidad y no apropiación.
 - 📚 **[Lenguaje y Comunicación](docs/1-basico/lenguaje-comunicacion.md):** 26 OA de contenido y 131 clases desarrolladas; 7 OA de actitudes se integran mediante 29 experiencias transversales.
 - 🔢 **[Matemática](docs/1-basico/matematica.md):** 20 OA de contenido y 83 clases desarrolladas; 16 OA de habilidades/actitudes se integran mediante 68 experiencias transversales.
-- 🎵 **[Música](docs/1-basico/musica.md):** 14 OA y 57 clases.
-- 💬 **[Orientación](docs/1-basico/orientacion.md):** 8 OA y 35 clases.
-- 🛠️ **[Tecnología](docs/1-basico/tecnologia.md):** 11 OA y 46 clases.
+- 🎵 **[Música](docs/1-basico/musica.md):** 7 OA de contenido y 29 clases desarrolladas; 7 OA de actitudes se integran mediante 28 experiencias.
+- 💬 **[Orientación](docs/1-basico/orientacion.md):** 8 OA de contenido y 35 clases desarrolladas, con casos ficticios y resguardo de privacidad.
+- 🛠️ **[Tecnología](docs/1-basico/tecnologia.md):** 6 OA de contenido y 26 clases desarrolladas; 5 OA de actitudes se integran mediante 20 experiencias.
 
 ### Qué ocurre si solicitas mejorar sus contenidos o clases
 
@@ -262,9 +262,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 355 clases de 1° básico y 22 pilotos de otros niveles.
-- **Contenido integrado:** 229 experiencias transversales de las cinco asignaturas completas que no constituyen clases independientes.
-- **Contenido pendiente:** 450 borradores de 1° básico y las secuencias aún no desarrolladas de los niveles superiores.
+- **Contenido desarrollado:** 691 clases de 1° básico y 22 pilotos de otros niveles.
+- **Contenido integrado:** 343 experiencias transversales de las once asignaturas que no constituyen clases independientes.
+- **Contenido pendiente:** 0 borradores de 1° básico; los niveles superiores permanecen secuenciados y pendientes de desarrollo sistemático.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -302,7 +302,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- una reconstrucción transparente de 1° básico, con 355 clases desarrolladas, 229 experiencias integradas y 450 borradores identificados;
+- un desarrollo transparente de 1° básico, con 691 clases desarrolladas, 343 experiencias integradas y 0 borradores;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -319,7 +319,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ## 💡 Idea fuerza
 
-> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. El trabajo continuará OA por OA, sin llamar “completo” a lo que sigue siendo borrador.
+> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. En 1° básico el desarrollo interno está completo; el siguiente gate es registrar revisión humana competente sin confundirla con publicación o CI.
 
 ## 📖 Fuentes y derechos
 

@@ -1,8 +1,8 @@
-# 📚 1° básico en reconstrucción pedagógica
+# 📚 1° básico con desarrollo interno completo
 
 > [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)
 
-**1.034 propuestas · 237 OA · 11 asignaturas · 355 clases desarrolladas · 229 experiencias integradas · 450 borradores · revisión humana pendiente**
+**1.034 propuestas · 237 OA · 11 asignaturas · 691 clases desarrolladas · 343 experiencias integradas · 0 borradores · revisión humana pendiente**
 
 ## 🎯 De qué trata este nivel
 

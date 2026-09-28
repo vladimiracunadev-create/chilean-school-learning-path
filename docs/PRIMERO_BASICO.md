@@ -1,18 +1,18 @@
 # 1° básico — mapa de contenidos
 
-> **Reconstrucción pedagógica en curso:** 355 clases desarrolladas · 229 experiencias transversales integradas · 450 borradores estructurados · 237 OA · 11 asignaturas.
+> **Desarrollo pedagógico interno completo:** 691 clases desarrolladas · 343 experiencias transversales integradas · 0 borradores estructurados · 237 OA · 11 asignaturas · revisión humana pendiente.
 
 [Programa narrativo de 1° básico](1-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
 
-El mapa curricular del nivel está inventariado. Solo las clases identificadas como **desarrolladas** contienen por ahora una secuencia específica investigada; las **integradas** corresponden a habilidades o actitudes transversales y no se cuentan como clases independientes; las marcadas como **borrador estructurado** no deben confundirse con una planificación lista para usar.
+Todos los OA disciplinares del nivel cuentan con secuencias específicas. Las entradas **integradas** corresponden a habilidades o actitudes transversales incorporadas dentro de esas clases y no se cuentan como clases independientes. El estado **revisada** permanece en cero hasta registrar revisión profesional humana competente.
 
 ## Cómo usar este mapa
 
 1. Elige una asignatura y revisa sus ejes, OA y número de clases.
-2. Comprueba el estado editorial antes de usar una clase.
-3. En una clase desarrollada, revisa la alineación oficial, la evidencia y las acciones ante dificultades.
+2. Comprueba el estado editorial y la fuente antes de usar una clase.
+3. Revisa la alineación, el ejemplo disciplinar, la evidencia y las acciones ante dificultades.
 4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.
-5. No presentes un borrador como planificación terminada.
+5. Documenta observaciones y revisión profesional antes de declarar la secuencia revisada.
 
 ## Progresión sugerida
 
@@ -32,15 +32,15 @@ Esta progresión orienta la enseñanza, pero no sustituye el análisis específi
 |---|---:|---:|---:|---:|---:|
 | Artes Visuales | 12 | 52 | 24 | 28 | 0 |
 | Ciencias Naturales | 22 | 89 | 49 | 40 | 0 |
-| Educación Física y Salud | 19 | 80 | 0 | 0 | 80 |
+| Educación Física y Salud | 19 | 80 | 48 | 32 | 0 |
 | Historia, Geografía y Ciencias Sociales | 31 | 132 | 68 | 64 | 0 |
-| Inglés (Propuesta) | 18 | 85 | 0 | 0 | 85 |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | 33 | 147 | 0 | 0 | 147 |
+| Inglés (Propuesta) | 18 | 85 | 69 | 16 | 0 |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 33 | 147 | 129 | 18 | 0 |
 | Lenguaje y Comunicación | 33 | 160 | 131 | 29 | 0 |
 | Matemática | 36 | 151 | 83 | 68 | 0 |
-| Música | 14 | 57 | 0 | 0 | 57 |
-| Orientación | 8 | 35 | 0 | 0 | 35 |
-| Tecnología | 11 | 46 | 0 | 0 | 46 |
+| Música | 14 | 57 | 29 | 28 | 0 |
+| Orientación | 8 | 35 | 35 | 0 | 0 |
+| Tecnología | 11 | 46 | 26 | 20 | 0 |
 
 ## Cómo se ve una clase desarrollada
 
@@ -63,7 +63,7 @@ Una clase desarrollada contiene alineación curricular específica, propósito, 
 
 ## Fuente de verdad y límites
 
-El catálogo registra 237 OA y 1.034 propuestas de clase; hoy 355 están desarrolladas y 450 siguen como borrador. Ninguna se declara revisada hasta registrar evidencia humana competente.
+El catálogo registra 237 OA y 1.034 propuestas de clase; hoy 691 están desarrolladas y 0 siguen como borrador. Ninguna se declara revisada hasta registrar evidencia humana competente.
 
 ## Verificación
 

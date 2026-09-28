@@ -1,4 +1,4 @@
-# LC01 OA LR06 — Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua…
+# LC01 OA LR06 — Tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 1° básico | Lengua y Cultura de los Pueblos Originarios Ancestrales | Contexto de rescate y revitalización de la lengua | segun-contexto-y-normativa | 4 clases de 90 min |
@@ -12,7 +12,24 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** La secuencia desarrolla tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua mediante experiencias disciplinares, práctica con retroalimentación y evidencia individual. Controla explícitamente el riesgo de que el estudiante usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento.
+
+**Antes de comenzar.** Participar en una experiencia breve, atender una demostración y comunicar una primera respuesta por una vía accesible; no se exige dominio previo ni exposición de información privada.
+
+**Vocabulario explícito:** tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua, evidencia, decisión, práctica, seguridad, comunicar y revisar.
+
+## Alineación con el programa oficial
+**Unidades relacionadas**
+- Progresión anual de Lengua y Cultura de los Pueblos Originarios Ancestrales de 1° básico
+
+**Criterios de progresión derivados del OA**
+- Criterio interno derivado del OA: comprobaré quién publica y para qué.
+- Criterio interno derivado del OA: reconoceré un sonido o expresión verificada.
+- Criterio interno derivado del OA: observaré sin copiar fuera de contexto.
+
+> **Origen:** criterios internos derivados del OA; requieren contraste con el Programa de Estudio y contextualización profesional.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/1-basico/lc01-oa-lr06)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,197 +39,201 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Explorar lo que ya sabemos: utilizar recursos tecnológicos disponibles… {#cl-00491}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+### Clase 1 de 4: Recuperar la lengua · Fuente y permiso {#cl-00491}
+**Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…».
+**Propósito docente:** Desarrollar tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · fuente y permiso», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
-**Meta para estudiantes:** Hoy aprenderé a utilizar recursos tecnológicos disponibles (tic) para conocer y valorar sonidos propios de… y mostraré cómo lo hice.
+**Meta para estudiantes:** Hoy comprobaré quién publica y para qué.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Presenta dos ejemplos contrastados y pide que cada estudiante elija, muestre o explique qué nota. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
-| Modelado | 20 min | Para trabajar «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
-| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
-| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
-| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una respuesta inicial registrada antes y después de conversar vinculada a «recuperar ideas previas y detectar barreras». |
+| Inicio | 10 min | Presenta una fuente identificada —voz autorizada, relato, imagen, objeto o registro— vinculada con «recuperar la lengua · fuente y permiso». Antes de interpretar, el curso reconoce pueblo, contexto y permiso de uso; contrasta el riesgo «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento». |
+| Modelado | 20 min | Modela una lectura culturalmente situada para «recuperar la lengua · fuente y permiso»: La clase requiere una mediación que recupera expresiones disponibles y no fuerza fluidez inexistente en la comunidad. Comparar un archivo de institución o comunidad identificada con un recurso sin procedencia y decidir cuál puede usarse. Distingue dato de inferencia, cita la mediación o fuente y verbaliza qué no se sabe o no corresponde reproducir. |
+| Práctica guiada | 25 min | Con guía de educador tradicional, hablante competente o fuente comunitaria pertinente, grupos pequeños trabajan «recuperar la lengua · fuente y permiso». Comparan una respuesta respetuosa con otra que generaliza, inventa o extrae de contexto y justifican la corrección. |
+| Desempeño individual | 25 min | Cada estudiante produce una respuesta de «recuperar la lengua · fuente y permiso» para «comprobaré quién publica y para qué» usando la fuente acordada y registrando procedencia. Puede expresarse oral, corporal, visualmente o por escrito sin declarar pertenencia ni compartir memoria familiar. |
+| Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · fuente y permiso», responde a «comprobaré quién publica y para qué», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
-**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
+**Materiales y preparación:** recurso digital autorizado, audífonos compartidos, proyector y alternativa sin conexión
 
-**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
+**Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
-**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+**Profundización:** Introduce un cambio pertinente de audiencia, regla, entorno, fuente, material o función en «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua»; pide anticipar el efecto, probarlo y explicar qué decisión se mantiene o cambia.
 
-**Evidencia:** Una respuesta inicial registrada antes y después de conversar que responda al OA y permita reconocer una decisión del estudiante.
+**Evidencia:** Respuesta oral, corporal, visual o explicativa vinculada a una fuente cultural identificada para la meta «comprobaré quién publica y para qué», acompañada por la pista, criterio, prueba o fuente que permite verificarla.
 
-**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+**Criterios de éxito:** responde a la meta y conserva la demanda del OA; usa una pista, técnica, fuente o criterio propio de la asignatura; explica una decisión, respeta seguridad y revisa con evidencia.
 
-**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+**Decisión posterior:** Avanza solo si la evidencia es individual y pertinente. Si el error se repite, vuelve al contraste específico de esta clase, cambia una vía de acceso y recoge una segunda evidencia sin reducir el OA.
 
-**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+**Adaptación a 45 minutos:** Conserva experiencia inicial, demostración disciplinar, un ensayo guiado, desempeño individual y ticket. Reduce turnos, extensión o materiales; no elimina seguridad, fuente, comunicación ni revisión.
 
-**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Antes de la próxima clase, reúne un ejemplo inicial sin corregirlo todavía. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+**Tarea breve y flexible:** Realiza una observación o práctica breve y opcional relacionada con la meta usando recursos disponibles; registra una decisión o pregunta. No requiere compra, internet, grabar personas ni revelar datos o identidad.
 
 **Actividades complementarias (opcionales):**
-- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
-- Recuperación opcional: vuelve a un ejemplo concreto de «utilizar recursos tecnológicos disponibles…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
-- Profundización opcional: cambia una condición del desafío sobre «utilizar recursos tecnológicos disponibles…» y pide predecir, comprobar y revisar.
+- Recuperación: vuelve al ejemplo concreto de «recuperar la lengua · fuente y permiso», ofrece una representación distinta y recoge un nuevo intento.
+- Taller de errores: contrasta la respuesta con «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento» y mejora una decisión usando evidencia.
+- Profundización: modifica una condición de «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua», prueba el efecto y justifica el ajuste.
 
 **Control de dificultades en el aula**
 
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
-| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
-| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
-| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
-| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
-| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+| No inicia o imita sin comprender | Reduce información accesoria, ofrece dos formas legítimas de entrada y modela un ejemplo diferente. | Inicia una respuesta propia y señala qué debe observar, hacer o comunicar. |
+| Usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento | Detén la tarea sin exponer al estudiante, vuelve al contraste específico y solicita una pista antes de elegir. | Resuelve un caso nuevo manteniendo el criterio y explica qué cambió. |
+| Completa la acción, pero no aporta evidencia | Pide una huella verificable —sonido, movimiento, fuente, palabra, prueba o decisión— y ofrece una frase de apoyo temporal. | Vincula su desempeño con una evidencia propia sin repetir literalmente el modelo. |
 
-**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
+**Coordinación de roles profesionales:** El docente conduce el OA. Los apoyos profesionales o comunitarios pertinentes asesoran acceso, seguridad, lengua y contexto sin reemplazar la enseñanza, diagnosticar en clase, exponer información personal ni atribuirse saber cultural que no poseen.
 
-### Clase 2 de 4: Mirar cómo se hace y explicar por qué: utilizar recursos tecnológicos disponibles… {#cl-00492}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC01 OAA C`:** Se promueve respeto, reciprocidad y cuidado del entorno durante «comprobaré quién publica y para qué» y se registra una acción o producción observable, sin calificar personalidad, identidad, cuerpo ni origen.
 
-**Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…».
+### Clase 2 de 4: Recuperar la lengua · Escucha focalizada {#cl-00492}
+**Estado editorial:** Desarrollada con contenido específico.
 
-**Meta para estudiantes:** Hoy aprenderé a utilizar recursos tecnológicos disponibles (tic) para conocer y valorar sonidos propios de… y mostraré cómo lo hice.
+**Propósito docente:** Desarrollar tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · escucha focalizada», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+
+**Meta para estudiantes:** Hoy reconoceré un sonido o expresión verificada.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Resuelve un ejemplo paso a paso, nombra cada decisión y contrasta un caso que no cumple el criterio. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
-| Modelado | 20 min | Para trabajar «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
-| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
-| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
-| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
+| Inicio | 10 min | Presenta una fuente identificada —voz autorizada, relato, imagen, objeto o registro— vinculada con «recuperar la lengua · escucha focalizada». Antes de interpretar, el curso reconoce pueblo, contexto y permiso de uso; contrasta el riesgo «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento». |
+| Modelado | 20 min | Modela una lectura culturalmente situada para «recuperar la lengua · escucha focalizada»: La clase requiere una mediación que recupera expresiones disponibles y no fuerza fluidez inexistente en la comunidad. Comparar un archivo de institución o comunidad identificada con un recurso sin procedencia y decidir cuál puede usarse. Distingue dato de inferencia, cita la mediación o fuente y verbaliza qué no se sabe o no corresponde reproducir. |
+| Práctica guiada | 25 min | Con guía de educador tradicional, hablante competente o fuente comunitaria pertinente, grupos pequeños trabajan «recuperar la lengua · escucha focalizada». Comparan una respuesta respetuosa con otra que generaliza, inventa o extrae de contexto y justifican la corrección. |
+| Desempeño individual | 25 min | Cada estudiante produce una respuesta de «recuperar la lengua · escucha focalizada» para «reconoceré un sonido o expresión verificada» usando la fuente acordada y registrando procedencia. Puede expresarse oral, corporal, visualmente o por escrito sin declarar pertenencia ni compartir memoria familiar. |
+| Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · escucha focalizada», responde a «reconoceré un sonido o expresión verificada», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
-**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
+**Materiales y preparación:** recurso digital autorizado, audífonos compartidos, proyector y alternativa sin conexión
 
-**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
+**Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
-**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+**Profundización:** Introduce un cambio pertinente de audiencia, regla, entorno, fuente, material o función en «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua»; pide anticipar el efecto, probarlo y explicar qué decisión se mantiene o cambia.
 
-**Evidencia:** Una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo que responda al OA y permita reconocer una decisión del estudiante.
+**Evidencia:** Respuesta oral, corporal, visual o explicativa vinculada a una fuente cultural identificada para la meta «reconoceré un sonido o expresión verificada», acompañada por la pista, criterio, prueba o fuente que permite verificarla.
 
-**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+**Criterios de éxito:** responde a la meta y conserva la demanda del OA; usa una pista, técnica, fuente o criterio propio de la asignatura; explica una decisión, respeta seguridad y revisa con evidencia.
 
-**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+**Decisión posterior:** Avanza solo si la evidencia es individual y pertinente. Si el error se repite, vuelve al contraste específico de esta clase, cambia una vía de acceso y recoge una segunda evidencia sin reducir el OA.
 
-**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+**Adaptación a 45 minutos:** Conserva experiencia inicial, demostración disciplinar, un ensayo guiado, desempeño individual y ticket. Reduce turnos, extensión o materiales; no elimina seguridad, fuente, comunicación ni revisión.
 
-**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Explica a otra persona o a un personaje imaginario el paso que te resultó más importante. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+**Tarea breve y flexible:** Realiza una observación o práctica breve y opcional relacionada con la meta usando recursos disponibles; registra una decisión o pregunta. No requiere compra, internet, grabar personas ni revelar datos o identidad.
 
 **Actividades complementarias (opcionales):**
-- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
-- Recuperación opcional: vuelve a un ejemplo concreto de «utilizar recursos tecnológicos disponibles…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
-- Profundización opcional: cambia una condición del desafío sobre «utilizar recursos tecnológicos disponibles…» y pide predecir, comprobar y revisar.
+- Recuperación: vuelve al ejemplo concreto de «recuperar la lengua · escucha focalizada», ofrece una representación distinta y recoge un nuevo intento.
+- Taller de errores: contrasta la respuesta con «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento» y mejora una decisión usando evidencia.
+- Profundización: modifica una condición de «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua», prueba el efecto y justifica el ajuste.
 
 **Control de dificultades en el aula**
 
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
-| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
-| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
-| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
-| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
-| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+| No inicia o imita sin comprender | Reduce información accesoria, ofrece dos formas legítimas de entrada y modela un ejemplo diferente. | Inicia una respuesta propia y señala qué debe observar, hacer o comunicar. |
+| Usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento | Detén la tarea sin exponer al estudiante, vuelve al contraste específico y solicita una pista antes de elegir. | Resuelve un caso nuevo manteniendo el criterio y explica qué cambió. |
+| Completa la acción, pero no aporta evidencia | Pide una huella verificable —sonido, movimiento, fuente, palabra, prueba o decisión— y ofrece una frase de apoyo temporal. | Vincula su desempeño con una evidencia propia sin repetir literalmente el modelo. |
 
-**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
+**Coordinación de roles profesionales:** El docente conduce el OA. Los apoyos profesionales o comunitarios pertinentes asesoran acceso, seguridad, lengua y contexto sin reemplazar la enseñanza, diagnosticar en clase, exponer información personal ni atribuirse saber cultural que no poseen.
 
-### Clase 3 de 4: Resolver un desafío con mis propias decisiones: utilizar recursos tecnológicos disponibles… {#cl-00493}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC01 OAA D`:** Se promueve rigurosidad, oralidad y vínculo con la enseñanza ancestral durante «reconoceré un sonido o expresión verificada» y se registra una acción o producción observable, sin calificar personalidad, identidad, cuerpo ni origen.
 
-**Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…».
+### Clase 3 de 4: Recuperar la lengua · Símbolo y soporte digital {#cl-00493}
+**Estado editorial:** Desarrollada con contenido específico.
 
-**Meta para estudiantes:** Hoy aprenderé a utilizar recursos tecnológicos disponibles (tic) para conocer y valorar sonidos propios de… y mostraré cómo lo hice.
+**Propósito docente:** Desarrollar tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · símbolo y soporte digital», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+
+**Meta para estudiantes:** Hoy observaré sin copiar fuera de contexto.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Plantea una situación distinta a la ensayada, recuerda los criterios y observa antes de intervenir. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
-| Modelado | 20 min | Para trabajar «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
-| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
-| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
-| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un producto individual que permita ver el razonamiento vinculada a «resolver una situación nueva y justificar decisiones». |
+| Inicio | 10 min | Presenta una fuente identificada —voz autorizada, relato, imagen, objeto o registro— vinculada con «recuperar la lengua · símbolo y soporte digital». Antes de interpretar, el curso reconoce pueblo, contexto y permiso de uso; contrasta el riesgo «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento». |
+| Modelado | 20 min | Modela una lectura culturalmente situada para «recuperar la lengua · símbolo y soporte digital»: La clase requiere una mediación que recupera expresiones disponibles y no fuerza fluidez inexistente en la comunidad. Comparar un archivo de institución o comunidad identificada con un recurso sin procedencia y decidir cuál puede usarse. Distingue dato de inferencia, cita la mediación o fuente y verbaliza qué no se sabe o no corresponde reproducir. |
+| Práctica guiada | 25 min | Con guía de educador tradicional, hablante competente o fuente comunitaria pertinente, grupos pequeños trabajan «recuperar la lengua · símbolo y soporte digital». Comparan una respuesta respetuosa con otra que generaliza, inventa o extrae de contexto y justifican la corrección. |
+| Desempeño individual | 25 min | Cada estudiante produce una respuesta de «recuperar la lengua · símbolo y soporte digital» para «observaré sin copiar fuera de contexto» usando la fuente acordada y registrando procedencia. Puede expresarse oral, corporal, visualmente o por escrito sin declarar pertenencia ni compartir memoria familiar. |
+| Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · símbolo y soporte digital», responde a «observaré sin copiar fuera de contexto», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
-**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
+**Materiales y preparación:** recurso digital autorizado, audífonos compartidos, proyector y alternativa sin conexión
 
-**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
+**Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
-**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+**Profundización:** Introduce un cambio pertinente de audiencia, regla, entorno, fuente, material o función en «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua»; pide anticipar el efecto, probarlo y explicar qué decisión se mantiene o cambia.
 
-**Evidencia:** Un producto individual que permita ver el razonamiento que responda al OA y permita reconocer una decisión del estudiante.
+**Evidencia:** Respuesta oral, corporal, visual o explicativa vinculada a una fuente cultural identificada para la meta «observaré sin copiar fuera de contexto», acompañada por la pista, criterio, prueba o fuente que permite verificarla.
 
-**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+**Criterios de éxito:** responde a la meta y conserva la demanda del OA; usa una pista, técnica, fuente o criterio propio de la asignatura; explica una decisión, respeta seguridad y revisa con evidencia.
 
-**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+**Decisión posterior:** Avanza solo si la evidencia es individual y pertinente. Si el error se repite, vuelve al contraste específico de esta clase, cambia una vía de acceso y recoge una segunda evidencia sin reducir el OA.
 
-**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+**Adaptación a 45 minutos:** Conserva experiencia inicial, demostración disciplinar, un ensayo guiado, desempeño individual y ticket. Reduce turnos, extensión o materiales; no elimina seguridad, fuente, comunicación ni revisión.
 
-**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Crea o resuelve un caso distinto al trabajado y conserva una huella de tu decisión. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+**Tarea breve y flexible:** Realiza una observación o práctica breve y opcional relacionada con la meta usando recursos disponibles; registra una decisión o pregunta. No requiere compra, internet, grabar personas ni revelar datos o identidad.
 
 **Actividades complementarias (opcionales):**
-- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
-- Recuperación opcional: vuelve a un ejemplo concreto de «utilizar recursos tecnológicos disponibles…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
-- Profundización opcional: cambia una condición del desafío sobre «utilizar recursos tecnológicos disponibles…» y pide predecir, comprobar y revisar.
+- Recuperación: vuelve al ejemplo concreto de «recuperar la lengua · símbolo y soporte digital», ofrece una representación distinta y recoge un nuevo intento.
+- Taller de errores: contrasta la respuesta con «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento» y mejora una decisión usando evidencia.
+- Profundización: modifica una condición de «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua», prueba el efecto y justifica el ajuste.
 
 **Control de dificultades en el aula**
 
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
-| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
-| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
-| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
-| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
-| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+| No inicia o imita sin comprender | Reduce información accesoria, ofrece dos formas legítimas de entrada y modela un ejemplo diferente. | Inicia una respuesta propia y señala qué debe observar, hacer o comunicar. |
+| Usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento | Detén la tarea sin exponer al estudiante, vuelve al contraste específico y solicita una pista antes de elegir. | Resuelve un caso nuevo manteniendo el criterio y explica qué cambió. |
+| Completa la acción, pero no aporta evidencia | Pide una huella verificable —sonido, movimiento, fuente, palabra, prueba o decisión— y ofrece una frase de apoyo temporal. | Vincula su desempeño con una evidencia propia sin repetir literalmente el modelo. |
 
-**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
+**Coordinación de roles profesionales:** El docente conduce el OA. Los apoyos profesionales o comunitarios pertinentes asesoran acceso, seguridad, lengua y contexto sin reemplazar la enseñanza, diagnosticar en clase, exponer información personal ni atribuirse saber cultural que no poseen.
 
-### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: utilizar recursos tecnológicos disponibles… {#cl-00494}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC01 OAA A`:** Se promueve pertenencia a la red de la vida desde lengua y cultura durante «observaré sin copiar fuera de contexto» y se registra una acción o producción observable, sin calificar personalidad, identidad, cuerpo ni origen.
 
-**Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…».
+### Clase 4 de 4: Recuperar la lengua · Reproducir con consentimiento {#cl-00494}
+**Estado editorial:** Desarrollada con contenido específico.
 
-**Meta para estudiantes:** Hoy aprenderé a utilizar recursos tecnológicos disponibles (tic) para conocer y valorar sonidos propios de… y mostraré cómo lo hice.
+**Propósito docente:** Desarrollar tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · reproducir con consentimiento», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+
+**Meta para estudiantes:** Hoy usaré audio o voz sin registrar personas.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Sitúa un relato, palabra, práctica o expresión pertinente al pueblo y territorio del establecimiento. Analiza una respuesta ficticia, localiza una fortaleza y un error, y muestra cómo se mejora sin reemplazar el trabajo del estudiante. Recoge una respuesta de todo el curso y conserva dos ejemplos para compararlos al cierre. |
-| Modelado | 20 min | Para trabajar «Utilizar recursos tecnológicos disponibles (TIC) para conocer y valorar sonidos propios de la lengua y símbolos de la escritura ancestral, según el pueblo indígena que corresponda o de…», presenta la fuente y su procedencia, escucha o lee la expresión con respeto y explica su sentido cultural sin tratar a los pueblos como una realidad única. Formula una pregunta auténtica y deja cinco segundos de espera antes de aceptar respuestas. |
-| Práctica guiada | 25 min | Practican la expresión, secuencia o significado con apoyo de una persona o fuente culturalmente autorizada cuando esté disponible. Usa la pregunta «¿qué viste, escuchaste, hiciste o pensaste que te permite decirlo?» y retroalimenta el criterio, no la rapidez. |
-| Desempeño individual | 25 min | Cada estudiante crea un registro oral, gráfico o escrito que conserve el sentido y reconozca de qué comunidad o fuente proviene. La evidencia debe ser individual aunque materiales y conversación puedan compartirse. |
-| Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
+| Inicio | 10 min | Presenta una fuente identificada —voz autorizada, relato, imagen, objeto o registro— vinculada con «recuperar la lengua · reproducir con consentimiento». Antes de interpretar, el curso reconoce pueblo, contexto y permiso de uso; contrasta el riesgo «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento». |
+| Modelado | 20 min | Modela una lectura culturalmente situada para «recuperar la lengua · reproducir con consentimiento»: La clase requiere una mediación que recupera expresiones disponibles y no fuerza fluidez inexistente en la comunidad. Comparar un archivo de institución o comunidad identificada con un recurso sin procedencia y decidir cuál puede usarse. Distingue dato de inferencia, cita la mediación o fuente y verbaliza qué no se sabe o no corresponde reproducir. |
+| Práctica guiada | 25 min | Con guía de educador tradicional, hablante competente o fuente comunitaria pertinente, grupos pequeños trabajan «recuperar la lengua · reproducir con consentimiento». Comparan una respuesta respetuosa con otra que generaliza, inventa o extrae de contexto y justifican la corrección. |
+| Desempeño individual | 25 min | Cada estudiante produce una respuesta de «recuperar la lengua · reproducir con consentimiento» para «usaré audio o voz sin registrar personas» usando la fuente acordada y registrando procedencia. Puede expresarse oral, corporal, visualmente o por escrito sin declarar pertenencia ni compartir memoria familiar. |
+| Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · reproducir con consentimiento», responde a «usaré audio o voz sin registrar personas», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
-**Materiales y preparación:** Fuentes locales autorizadas, imágenes contextualizadas, tarjetas y grabación opcional; valida pronunciación y protocolos con la comunidad
+**Materiales y preparación:** recurso digital autorizado, audífonos compartidos, proyector y alternativa sin conexión
 
-**Apoyo en el mismo OA:** Permite escuchar varias veces, responder en castellano cuando el contexto curricular lo admita y usar gestos o imágenes sin ridiculizar la lengua
+**Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
-**Profundización:** Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra
+**Profundización:** Introduce un cambio pertinente de audiencia, regla, entorno, fuente, material o función en «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua»; pide anticipar el efecto, probarlo y explicar qué decisión se mantiene o cambia.
 
-**Evidencia:** Un desempeño final, una revisión visible y una breve autoevaluación que responda al OA y permita reconocer una decisión del estudiante.
+**Evidencia:** Respuesta oral, corporal, visual o explicativa vinculada a una fuente cultural identificada para la meta «usaré audio o voz sin registrar personas», acompañada por la pista, criterio, prueba o fuente que permite verificarla.
 
-**Criterios de éxito:** participa con respeto cultural; comprende o usa el elemento trabajado según el contexto; reconoce procedencia y significado.
+**Criterios de éxito:** responde a la meta y conserva la demanda del OA; usa una pista, técnica, fuente o criterio propio de la asignatura; explica una decisión, respeta seguridad y revisa con evidencia.
 
-**Decisión posterior:** Si se pierde el sentido o la procedencia, vuelve a la fuente cultural validada; si lo comprenden, úsalo en otro contexto respetando variantes y protocolos.
+**Decisión posterior:** Avanza solo si la evidencia es individual y pertinente. Si el error se repite, vuelve al contraste específico de esta clase, cambia una vía de acceso y recoge una segunda evidencia sin reducir el OA.
 
-**Adaptación a 45 minutos:** Conserva apertura, demostración, un único desempeño individual y ticket; reduce cantidad de casos o turnos, no el objetivo ni la explicación.
+**Adaptación a 45 minutos:** Conserva experiencia inicial, demostración disciplinar, un ensayo guiado, desempeño individual y ticket. Reduce turnos, extensión o materiales; no elimina seguridad, fuente, comunicación ni revisión.
 
-**Tarea breve y flexible:** Tarea breve y flexible (10 minutos): Revisa una producción anterior, mejora una decisión y señala qué cambió. Recupera una palabra, relato o práctica solo si la familia desea compartirla; registra su procedencia y evita presentarla como universal. Puede resolverse oralmente, con dibujo u objetos; no requiere internet, impresión ni compra de materiales.
+**Tarea breve y flexible:** Realiza una observación o práctica breve y opcional relacionada con la meta usando recursos disponibles; registra una decisión o pregunta. No requiere compra, internet, grabar personas ni revelar datos o identidad.
 
 **Actividades complementarias (opcionales):**
-- Mapa de procedencia: ubicar la fuente o comunidad de cada expresión y reconocer variantes sin jerarquizarlas.
-- Recuperación opcional: vuelve a un ejemplo concreto de «utilizar recursos tecnológicos disponibles…», ofrece una sola pista y retírala cuando el estudiante explique la decisión.
-- Profundización opcional: cambia una condición del desafío sobre «utilizar recursos tecnológicos disponibles…» y pide predecir, comprobar y revisar.
+- Recuperación: vuelve al ejemplo concreto de «recuperar la lengua · reproducir con consentimiento», ofrece una representación distinta y recoge un nuevo intento.
+- Taller de errores: contrasta la respuesta con «usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento» y mejora una decisión usando evidencia.
+- Profundización: modifica una condición de «tecnologías para escuchar lengua y conocer escritura ancestral · contexto de rescate y revitalización de la lengua», prueba el efecto y justifica el ajuste.
 
 **Control de dificultades en el aula**
 
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
-| No inicia o no comprende la consigna | Di la consigna en un paso, muéstrala con un ejemplo distinto y pide al estudiante señalar o explicar qué hará primero. | Inicia el primer paso sin copiar el ejemplo. |
-| Participa, pero no demuestra el aprendizaje | Vuelve al criterio «participa con respeto cultural» y solicita una respuesta individual breve con objetos, gesto, oralidad, dibujo o escritura pertinente. | La producción individual permite atribuir una decisión al estudiante. |
-| Se frustra, evita o abandona | Reduce cantidad de casos, ofrece una elección entre dos vías y acuerda un intento breve; mantén el mismo aprendizaje y evita exponer públicamente. | Retoma la tarea y completa un intento observable. |
-| El grupo pierde foco o aparecen conflictos | Pausa, restablece la regla con una demostración de 30 segundos, asigna turnos o roles concretos y reinicia con tiempo visible. | El grupo sostiene un ciclo completo respetando la regla. |
-| Termina rápido sin explicar | No agregues repetición. Compara respetuosamente usos o sentidos entre contextos, explicitando que una variante no invalida otra. | Compara, justifica o transfiere en vez de acumular respuestas. |
+| No inicia o imita sin comprender | Reduce información accesoria, ofrece dos formas legítimas de entrada y modela un ejemplo diferente. | Inicia una respuesta propia y señala qué debe observar, hacer o comunicar. |
+| Usa cualquier resultado de internet como autoridad o graba a personas sin consentimiento | Detén la tarea sin exponer al estudiante, vuelve al contraste específico y solicita una pista antes de elegir. | Resuelve un caso nuevo manteniendo el criterio y explica qué cambió. |
+| Completa la acción, pero no aporta evidencia | Pide una huella verificable —sonido, movimiento, fuente, palabra, prueba o decisión— y ofrece una frase de apoyo temporal. | Vincula su desempeño con una evidencia propia sin repetir literalmente el modelo. |
 
-**Coordinación de roles profesionales:** El educador tradicional o referente autorizado valida lengua, procedencia y protocolos; el docente articula el OA y evita generalizaciones.
+**Coordinación de roles profesionales:** El docente conduce el OA. Los apoyos profesionales o comunitarios pertinentes asesoran acceso, seguridad, lengua y contexto sin reemplazar la enseñanza, diagnosticar en clase, exponer información personal ni atribuirse saber cultural que no poseen.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC01 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutua durante «usaré audio o voz sin registrar personas» y se registra una acción o producción observable, sin calificar personalidad, identidad, cuerpo ni origen.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

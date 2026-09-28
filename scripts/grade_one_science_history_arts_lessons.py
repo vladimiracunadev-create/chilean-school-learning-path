@@ -113,6 +113,33 @@ def transversal_links(code: str, lesson_index: int, goal: str) -> list[dict[str,
     return links
 
 
+def _actions(prefix: str, data: dict, title: str, goal: str) -> tuple[str, str, str, str, str]:
+    misconception = data["misconception"]
+    if prefix == "CN":
+        return (
+            f"Dispone {data['materials']} en una estación breve de «{title.lower()}». Cada estudiante observa antes de hablar y registra un dato inicial; luego contrasta una afirmación que contiene el error «{misconception}».",
+            f"Modela una comparación o prueba de «{title.lower()}»: separa lo observado de lo inferido, cambia una sola condición cuando corresponda y anota antes/después. Explica por qué esa evidencia permite sostener «{goal}».",
+            f"En equipos con roles de manipulación, seguridad, registro y comunicación realizan otro caso de «{title.lower()}». Comparan resultados, buscan una diferencia real y repiten la observación si los registros no coinciden.",
+            f"Cada estudiante resuelve una situación nueva para «{goal}» mediante dibujo rotulado, tabla, objeto o explicación. Debe incluir qué observó y cómo esa observación apoya su conclusión.",
+            f"Observa un caso no usado durante la clase, responde a «{goal}» y completa: «Mi evidencia es…; por eso…». Si el dato no alcanza, formula qué tendría que observar después.",
+        )
+    if prefix == "HI":
+        return (
+            f"Presenta una fotografía, relato, calendario, mapa o caso ciudadano pertinente a «{title.lower()}». Antes de interpretar, el curso identifica qué muestra, quién lo produce y qué no permite concluir; confronta «{misconception}».",
+            f"Interroga la fuente en voz alta para «{title.lower()}»: localiza una pista temporal, espacial o social, distingue descripción de opinión y construye una respuesta para «{goal}» sin agregar información ausente.",
+            f"Parejas reciben fuentes o situaciones complementarias sobre «{title.lower()}». Una persona propone una secuencia, localización u opinión y la otra exige la pista; cambian roles y revisan una generalización.",
+            f"Cada estudiante elabora una secuencia, croquis, comparación o decisión ciudadana de «{title.lower()}» para «{goal}» con un caso nuevo. Cita la imagen, palabra, posición o norma que fundamenta su respuesta.",
+            f"Ante una fuente breve inédita sobre «{title.lower()}», responde a «{goal}», señala una evidencia explícita y nombra un límite: algo que todavía no puede saberse con esa fuente.",
+        )
+    return (
+        f"Organiza una mesa de observación con {data['materials']} para «{title.lower()}». El curso mira y explora sin producir todavía una obra final; detecta por qué «{misconception}» limita la expresión o apreciación.",
+        f"Demuestra una posibilidad de «{title.lower()}» tomando decisiones visibles de encuadre, línea, color, textura, herramienta o montaje. Detente antes de cerrar la obra y explica cómo cada decisión aporta a «{goal}», sin entregar un modelo para copiar.",
+        f"En taller, cada estudiante prueba dos alternativas para «{title.lower()}» y conversa con una pareja usando vocabulario visual. Conserva una, descarta otra y registra la razón antes de avanzar.",
+        f"Cada estudiante crea o comunica una respuesta propia para «{goal}». La evidencia incluye proceso —prueba, cambio o elección— y una explicación centrada en elementos visuales, no en prolijidad ni talento.",
+        f"En una mini-galería silenciosa, selecciona una decisión propia o ajena vinculada a «{goal}», nombra el elemento visual observable y formula una posibilidad de continuación respetuosa.",
+    )
+
+
 def build_sequence(code: str) -> dict | None:
     data = SEQUENCES.get(code)
     if not data:
@@ -122,15 +149,16 @@ def build_sequence(code: str) -> dict | None:
     lessons = []
     for index, step in enumerate(data["steps"]):
         title, goal = step.split("|", 1)
+        opening, model, guided, independent, ticket = _actions(code[:2], data, title, goal)
         lessons.append({
             "title": title,
             "purpose": f"Desarrollar la comprensión de {data['topic'].lower()} mediante «{title.lower()}», conservando la demanda del OA y una evidencia observable.",
             "goal": f"Hoy {goal}.",
-            "opening": f"Presenta un {profile['stimulus']} vinculado con «{title.lower()}» y una respuesta que contiene el problema «{data['misconception']}». Cada estudiante registra una primera idea antes de discutirla.",
-            "model": f"Piensa en voz alta cómo abordar «{title.lower()}»: observa o consulta la fuente, nombra una evidencia específica, prueba una decisión y contrástala con la meta «{goal}».",
-            "guided": f"En parejas resuelven un caso nuevo de «{data['topic'].lower()}». Una persona actúa o propone y otra solicita la evidencia; cambian roles y mejoran una decisión con retroalimentación inmediata.",
-            "independent": f"Cada estudiante produce una {profile['evidence']} vinculada a la meta «{goal}», usando un caso distinto del modelado y explicando al menos una decisión propia.",
-            "ticket": f"Ante una situación breve inédita, presenta una respuesta para la meta «{goal}»; identifica la evidencia usada y corrige una decisión si la comparación no la sostiene.",
+            "opening": opening,
+            "model": model,
+            "guided": guided,
+            "independent": independent,
+            "ticket": ticket,
             "materials": data["materials"],
             "support": profile["support"],
             "extension": f"Cambia una condición, fuente, material o contexto de «{data['topic'].lower()}» y explica qué decisión debe modificarse y cuál se conserva.",

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-28 — Desarrollo interno completo de 1° básico
+
+- Desarrollo de Música, Educación Física y Salud, Orientación, Tecnología, Inglés (Propuesta) y Lengua y Cultura de los Pueblos Originarios Ancestrales: 336 clases disciplinares y 114 experiencias transversales nuevas.
+- Cierre de las once asignaturas de 1° básico con 691 clases disciplinares, 343 experiencias integradas y 0 borradores.
+- Auditoría de variedad pedagógica sobre Ciencias, Historia y Artes Visuales: aperturas, modelados, prácticas, desempeños y tickets reescritos con movimientos propios de cada disciplina.
+- Resguardos explícitos de privacidad en Orientación, seguridad y acceso en Educación Física, comunicación comprensible sin exigir acento nativo en Inglés y fuentes comunitarias, no invención lingüística y no apropiación en Lengua y Cultura.
+- Pruebas nuevas para impedir clases intercambiables por repetición textual y para verificar cobertura completa de OA y actitudes por asignatura.
+
 ## 2026-09-28 — Ciencias, Historia y Artes Visuales de 1° básico
 
 - Desarrollo completo de 12 OA y 49 clases de Ciencias Naturales, con indagación, diseño, seguridad y evidencia observable.

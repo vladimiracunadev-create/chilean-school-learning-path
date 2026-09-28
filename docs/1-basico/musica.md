@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Matemática](matematica.md) · [Orientación →](orientacion.md)
 
-**14 OA · 57 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**7 OA de contenido · 29 clases desarrolladas · 7 OA transversales · 28 experiencias integradas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 57 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 29 clases desarrolladas, 28 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -73,13 +73,13 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| MU01 OA 01 | Escuchar cualidades del sonido (altura, timbre, intensidad, duración) y elementos del lenguaje… | Escuchar y apreciar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-01.md) |
-| MU01 OA 02 | Expresar sensaciones, emociones e ideas que les sugiere el sonido y la música escuchada, usando… | Escuchar y apreciar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-02.md) |
-| MU01 OA 03 | Escuchar música en forma abundante de diversos contextos y culturas poniendo énfasis en | Escuchar y apreciar | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-03.md) |
-| MU01 OA 04 | Cantar al unísono y tocar instrumentos de percusión convencionales y no convencionales | Interpretar y crear | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-04.md) |
-| MU01 OA 05 | Explorar e improvisar ideas musicales con diversos medios sonoros (la voz, instrumentos… | Interpretar y crear | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-05.md) |
-| MU01 OA 06 | Presentar su trabajo musical, en forma individual y grupal, compartiendo con el curso y la comunidad | Interpretar y crear | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-06.md) |
-| MU01 OA 07 | Identificar y describir experiencias musicales y sonoras en su propia vida | Reflexionar y contextualizar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-07.md) |
+| MU01 OA 01 | Cualidades del sonido y elementos musicales | Escuchar y apreciar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-01.md) |
+| MU01 OA 02 | Sensaciones, emociones e ideas sugeridas por la música | Escuchar y apreciar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-02.md) |
+| MU01 OA 03 | Escucha abundante de músicas de diversos contextos | Escuchar y apreciar | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-03.md) |
+| MU01 OA 04 | Canto al unísono y percusión | Interpretar y crear | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-04.md) |
+| MU01 OA 05 | Exploración e improvisación de ideas musicales | Interpretar y crear | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-05.md) |
+| MU01 OA 06 | Presentación de trabajos musicales | Interpretar y crear | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-06.md) |
+| MU01 OA 07 | Experiencias musicales y sonoras de la vida cotidiana | Reflexionar y contextualizar | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/mu01-oa-07.md) |
 | de Actitud MU01 OAA A | Demostrar disposición a desarrollar su curiosidad y disfrutar de los sonidos y la música | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/de-actitud-mu01-oaa-a.md) |
 | de Actitud MU01 OAA B | Demostrar confianza en sí mismos al presentar a otros o compartir su música | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/de-actitud-mu01-oaa-b.md) |
 | de Actitud MU01 OAA C | Demostrar disposición a comunicar sus percepciones, ideas y sentimientos, mediante diversas formas de… | Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/musica/de-actitud-mu01-oaa-c.md) |

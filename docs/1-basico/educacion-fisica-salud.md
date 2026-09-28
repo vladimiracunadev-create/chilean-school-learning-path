@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Ciencias Naturales](ciencias-naturales.md) · [Historia, Geografía y Ciencias Sociales →](historia-geografia-ciencias-sociales.md)
 
-**19 OA · 80 propuestas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**11 OA de contenido · 48 clases desarrolladas · 8 OA transversales · 32 experiencias integradas · 4 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 80 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 48 clases desarrolladas, 32 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -73,17 +73,17 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| EF01 OA 01 | Demostrar habilidades motrices básicas de locomoción, manipulación y estabilidad en una variedad de… | Habilidades motrices | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-01.md) |
-| EF01 OA 02 | Ejecutar acciones motrices con relación a sí mismo, a un objeto o un compañero, usando diferentes… | Habilidades motrices | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-02.md) |
-| EF01 OA 03 | Practicar una amplia gama de juegos con y sin oposición, con y sin colaboración, de persecución,… | Habilidades motrices | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-03.md) |
-| EF01 OA 04 | Ejecutar habilidades motrices básicas en diferentes entornos, como las plazas activas, el patio del… | Habilidades motrices | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-04.md) |
-| EF01 OA 05 | Ejecutar movimientos corporales, expresando sensaciones, ideas, estados de ánimo y emociones en… | Habilidades motrices | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-05.md) |
-| EF01 OA 06 | Ejecutar actividades físicas de intensidad moderada a vigorosa que incrementen la condición física,… | Vida activa y saludable | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-06.md) |
-| EF01 OA 07 | Practicar en su vida cotidiana actividades físicas de intensidad moderada a vigorosa de forma guiada,… | Vida activa y saludable | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-07.md) |
-| EF01 OA 08 | Reconocer las sensaciones y respuestas corporales provocadas por la práctica de actividad física,… | Vida activa y saludable | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-08.md) |
-| EF01 OA 09 | Practicar actividades físicas en forma segura, demostrando la adquisición de hábitos de higiene,… | Vida activa y saludable | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-09.md) |
-| EF01 OA 10 | Practicar juegos o actividades motrices para aprender a trabajar en equipo, asumiendo diferentes… | Seguridad, juego limpio y liderazgo | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-10.md) |
-| EF01 OA 11 | Practicar actividades físicas, demostrando comportamientos seguros como | Seguridad, juego limpio y liderazgo | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-11.md) |
+| EF01 OA 01 | Locomoción, manipulación y estabilidad | Habilidades motrices | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-01.md) |
+| EF01 OA 02 | Relaciones espaciales y temporales en el movimiento | Habilidades motrices | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-02.md) |
+| EF01 OA 03 | Juegos con oposición y colaboración | Habilidades motrices | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-03.md) |
+| EF01 OA 04 | Habilidades motrices en entornos diversos | Habilidades motrices | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-04.md) |
+| EF01 OA 05 | Expresión corporal de sensaciones, ideas y emociones | Habilidades motrices | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-05.md) |
+| EF01 OA 06 | Actividad moderada a vigorosa mediante juegos y circuitos | Vida activa y saludable | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-06.md) |
+| EF01 OA 07 | Actividad física cotidiana y juegos tradicionales | Vida activa y saludable | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-07.md) |
+| EF01 OA 08 | Sensaciones y respuestas corporales al ejercicio | Vida activa y saludable | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-08.md) |
+| EF01 OA 09 | Higiene, postura, alimentación y vida saludable | Vida activa y saludable | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-09.md) |
+| EF01 OA 10 | Trabajo en equipo y roles motrices | Seguridad, juego limpio y liderazgo | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-10.md) |
+| EF01 OA 11 | Comportamientos seguros en actividad física | Seguridad, juego limpio y liderazgo | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/ef01-oa-11.md) |
 | de Actitud EF01 OAA A | Valorar los efectos positivos de la práctica regular de actividad física en la salud | Educación Física y Salud Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/de-actitud-ef01-oaa-a.md) |
 | de Actitud EF01 OAA B | Demostrar disposición a mejorar su condición física e interés por practicar actividad física de forma… | Educación Física y Salud Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/de-actitud-ef01-oaa-b.md) |
 | de Actitud EF01 OAA C | Demostrar confianza en sí mismos al practicar actividad física | Educación Física y Salud Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/educacion-fisica-salud/de-actitud-ef01-oaa-c.md) |

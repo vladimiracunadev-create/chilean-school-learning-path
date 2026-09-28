@@ -23,7 +23,7 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
 ### Clase 1 de 4: Explorar lo que ya sabemos: reconocer la dimensión espiritual y… {#cl-00942}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Abrir el aprendizaje desde una experiencia comprensible y recoger evidencia inicial sin calificarla, centrado en «Reconocer la dimensión espiritual y trascendente del arte y la música para el ser humano».
 
@@ -71,7 +71,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El especialista modela escucha e interpretación; otros adultos apoyan regulación del ambiente y participación sin convertir el apoyo en ejecución por el estudiante.
 
 ### Clase 2 de 4: Mirar cómo se hace y explicar por qué: reconocer la dimensión espiritual y… {#cl-00943}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Hacer visible el procedimiento o criterio disciplinar mediante una demostración breve y pensada en voz alta, centrado en «Reconocer la dimensión espiritual y trascendente del arte y la música para el ser humano».
 
@@ -119,7 +119,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El especialista modela escucha e interpretación; otros adultos apoyan regulación del ambiente y participación sin convertir el apoyo en ejecución por el estudiante.
 
 ### Clase 3 de 4: Resolver un desafío con mis propias decisiones: reconocer la dimensión espiritual y… {#cl-00944}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Comprobar que cada estudiante puede usar el aprendizaje en una situación nueva sin copiar el ejemplo, centrado en «Reconocer la dimensión espiritual y trascendente del arte y la música para el ser humano».
 
@@ -167,7 +167,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Coordinación de roles profesionales:** El especialista modela escucha e interpretación; otros adultos apoyan regulación del ambiente y participación sin convertir el apoyo en ejecución por el estudiante.
 
 ### Clase 4 de 4: Mostrar lo aprendido, revisar y mejorar: reconocer la dimensión espiritual y… {#cl-00945}
-**Estado editorial:** Borrador estructurado pendiente de desarrollo específico.
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
 **Propósito docente:** Integrar el aprendizaje, ofrecer retroalimentación útil y decidir el paso siguiente con evidencia individual, centrado en «Reconocer la dimensión espiritual y trascendente del arte y la música para el ser humano».
 

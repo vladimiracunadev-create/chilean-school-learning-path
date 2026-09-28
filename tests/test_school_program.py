@@ -6,6 +6,7 @@ from scripts.validate_school_program import validate as validate_program
 from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES, build_math_sequence, transversal_links
 from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
 from scripts.grade_one_science_history_arts_lessons import ART_ATTITUDES, HISTORY_ATTITUDES, HISTORY_SKILLS, SCIENCE_ATTITUDES, SCIENCE_SKILLS, SEQUENCES as SHA_SEQUENCES, build_sequence as build_sha_sequence
+from scripts.grade_one_remaining_lessons import ATTITUDES as REMAINING_ATTITUDES, SEQUENCES as REMAINING_SEQUENCES, build_sequence as build_remaining_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -26,21 +27,21 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(self.catalog["subject_count"], 35)
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
-        self.assertEqual(self.catalog["editorial_counts"]["borrador"], 450)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 377)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 229)
+        self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 713)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 343)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
         developed = [item for item in self.catalog["classes"] if item["editorial_status"] == "desarrollada"]
         first_grade = [item for item in self.catalog["classes"] if item["course_order"] == 1]
         self.assertEqual(len(first_grade), 1034)
-        self.assertEqual(sum(item["editorial_status"] == "desarrollada" for item in first_grade), 355)
-        self.assertEqual(sum(item["editorial_status"] == "integrada" for item in first_grade), 229)
-        self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 450)
+        self.assertEqual(sum(item["editorial_status"] == "desarrollada" for item in first_grade), 691)
+        self.assertEqual(sum(item["editorial_status"] == "integrada" for item in first_grade), 343)
+        self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 377)
+        self.assertEqual(len(developed), 713)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -110,9 +111,25 @@ class SchoolProgramTests(unittest.TestCase):
             sequences = [build_sha_sequence(code) for code in sorted(SHA_SEQUENCES) if code.startswith(prefix)]
             lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
             self.assertEqual(len(lessons), lesson_count, prefix)
-            self.assertEqual(len({lesson["title"] for lesson in lessons}), lesson_count, prefix)
+            for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+                self.assertEqual(len({lesson[field] for lesson in lessons}), lesson_count, f"{prefix}:{field}")
             self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
             self.assertEqual({link["code"] for lesson in lessons for link in lesson["transversal"]}, {code for code, _ in transversal_items})
+
+    def test_remaining_subjects_are_complete_specific_and_culturally_safe(self):
+        expected = {"MU": 29, "EF": 48, "OR": 35, "TE": 26, "EN": 69, "LC": 129}
+        for prefix, lesson_count in expected.items():
+            sequences = [build_remaining_sequence(code) for code in sorted(REMAINING_SEQUENCES) if code.startswith(prefix)]
+            lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+            self.assertEqual(len(lessons), lesson_count, prefix)
+            for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+                self.assertEqual(len({lesson[field] for lesson in lessons}), lesson_count, f"{prefix}:{field}")
+            self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+            expected_codes = {code for code, _ in REMAINING_ATTITUDES.get(prefix, ())}
+            self.assertEqual({link["code"] for lesson in lessons for link in lesson["transversal"]}, expected_codes)
+        cultural_text = " ".join(str(build_remaining_sequence(code)) for code in REMAINING_SEQUENCES if code.startswith("LC"))
+        for safeguard in ("sin inventar lengua", "fuente comunitaria", "educador tradicional", "sin apropiarse"):
+            self.assertIn(safeguard, cultural_text.lower())
 
     def test_portal_names_first_grade_drafts_honestly(self):
         app = (ROOT / "site/app.js").read_text(encoding="utf-8")

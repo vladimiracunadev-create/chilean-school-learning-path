@@ -6,7 +6,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
-| 1° básico | 237 | 1.034 | En reconstrucción · 355 desarrolladas · 229 integradas · 450 borradores |
+| 1° básico | 237 | 1.034 | Desarrollo interno completo · 691 desarrolladas · 343 integradas · 0 borradores · revisión humana pendiente |
 | 2° básico | 247 | 1.072 | Próximo nivel de desarrollo |
 | 3° básico | 257 | 1.136 | Secuenciado · 11 clases piloto desarrolladas |
 | 4° básico | 268 | 1.195 | Secuenciado · 4 clases piloto desarrolladas |
@@ -19,21 +19,26 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **377 clases desarrolladas**, **229 experiencias integradas**, **450 borradores identificados** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **713 clases desarrolladas**, **343 experiencias integradas**, **0 borradores en 1° básico** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
 ### Fase 1 · 1° básico
 
-- [ ] Desarrollar 1.034 propuestas en 11 asignaturas (355 clases desarrolladas; 229 experiencias integradas; 450 borradores pendientes).
+- [x] Desarrollar las 1.034 entradas de 1° básico: 691 clases disciplinares y 343 experiencias integradas, sin borradores.
 - [x] Completar Matemática: 83 clases en 20 OA de contenido y 16 OA transversales integrados.
 - [x] Completar Lenguaje y Comunicación: 131 clases en 26 OA de contenido y 7 OA de actitudes integrados.
 - [x] Completar Ciencias Naturales: 49 clases en 12 OA de contenido y 10 OA transversales integrados.
 - [x] Completar Historia, Geografía y Ciencias Sociales: 68 clases en 15 OA de contenido y 16 OA transversales integrados.
 - [x] Completar Artes Visuales: 24 clases en 5 OA de contenido y 7 OA de actitudes integrados.
-- [ ] Completar Música, siguiente asignatura del orden editorial.
+- [x] Completar Música: 29 clases en 7 OA de contenido y 7 OA de actitudes integrados.
+- [x] Completar Educación Física y Salud: 48 clases en 11 OA de contenido y 8 OA de actitudes integrados.
+- [x] Completar Orientación: 35 clases en 8 OA de contenido.
+- [x] Completar Tecnología: 26 clases en 6 OA de contenido y 5 OA de actitudes integrados.
+- [x] Completar Inglés (Propuesta): 69 clases en 14 OA de contenido y 4 OA de actitudes integrados.
+- [x] Completar Lengua y Cultura de los Pueblos Originarios Ancestrales: 129 clases en 29 OA de contenido y 4 OA de actitudes integrados.
 - [x] Publicar una vista específica del nivel.
-- [ ] Incorporar contenido específico, materiales, apoyos, profundización, evidencia y decisión posterior OA por OA.
+- [x] Incorporar contenido específico, materiales, apoyos, profundización, evidencia y decisión posterior OA por OA.
 - [x] Publicar syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión.
 - [x] Publicar índice narrativo y 11 guías de asignatura con recorrido OA por OA.
 - [x] Publicar una portada documental visual y adaptable dentro de Pages.

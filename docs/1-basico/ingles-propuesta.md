@@ -2,9 +2,9 @@
 
 [⬅️ Índice de 1° básico](README.md) · [← Historia, Geografía y Ciencias Sociales](historia-geografia-ciencias-sociales.md) · [Lengua y Cultura de los Pueblos Originarios Ancestrales →](lengua-cultura-pueblos-originarios-ancestrales.md)
 
-**18 OA · 85 propuestas · 5 ejes curriculares · bloques adaptables a 45 o 90 minutos**
+**14 OA de contenido · 69 clases desarrolladas · 4 OA transversales · 16 experiencias integradas · 5 ejes curriculares · bloques adaptables a 45 o 90 minutos**
 
-> **Estado editorial:** 0 clases desarrolladas, 0 experiencias transversales integradas y 85 borradores estructurados. Ninguna revisión humana registrada.
+> **Estado editorial:** 69 clases desarrolladas, 16 experiencias transversales integradas y 0 borradores estructurados. Ninguna revisión humana registrada.
 
 ## 🎯 De qué trata esta asignatura
 
@@ -74,20 +74,20 @@ La tabla funciona como índice completo de la asignatura. El número de clases e
 
 | OA | Tema de la secuencia | Eje | Clases | Planificación |
 |---|---|---|---:|---|
-| EN01 OA 01 | Comprender textos leídos por un adulto o en formato audiovisual, breves y simples, como | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-01.md) |
-| EN01 OA 02 | Comprender textos orales relacionados con temas conocidos o de otras asignaturas -la escuela,… | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-02.md) |
-| EN01 OA 03 | Demostrar comprensión de textos orales | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-03.md) |
-| EN01 OA 04 | Escuchar textos orales y aplicar estrategias para apoyar la comprensión | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-04.md) |
-| EN01 OA 05 | Reaccionar a lo escuchado, estableciendo relaciones con experiencias personales y/o expresando… | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-05.md) |
-| EN01 OA 06 | Leer y demostrar comprensión de textos como cuentos, rimas, chants, tarjetas de saludo, instrucciones… | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-06.md) |
-| EN01 OA 07 | Leer y demostrar comprensión de textos relacionados con temas conocidos o de otras asignaturas -la… | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-07.md) |
-| EN01 OA 08 | Leer y aplicar estrategias para apoyar la comprensión | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-08.md) |
-| EN01 OA 09 | Reaccionar a lo leído, estableciendo relaciones con experiencias personales y/o expresando… | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-09.md) |
-| EN01 OA 10 | Reproducir chants, rimas y diálogos muy breves y simples para familiarizarse con los sonidos propios… | Expresión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-10.md) |
-| EN01 OA 11 | Participar en diálogos, interacciones de la clase y exposiciones muy breves y simples, acerca de… | Expresión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-11.md) |
-| EN01 OA 12 | Expresarse oralmente con el apoyo del docente para | Expresión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-12.md) |
-| EN01 OA 13 | Escribir (por ejemplo | Expresión escrita | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-13.md) |
-| EN01 OA 14 | Escribir, sobre la base de imágenes, para | Expresión escrita | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-14.md) |
+| EN01 OA 01 | Listening to rhymes, chants, songs, stories and dialogues | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-01.md) |
+| EN01 OA 02 | Listening to familiar topics and communicative functions | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-02.md) |
+| EN01 OA 03 | Evidence of listening comprehension | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-03.md) |
+| EN01 OA 04 | Listening strategies | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-04.md) |
+| EN01 OA 05 | Personal and creative response to listening | Comprensión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-05.md) |
+| EN01 OA 06 | Reading stories, rhymes, cards, instructions and information | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-06.md) |
+| EN01 OA 07 | Reading familiar topics and functions | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-07.md) |
+| EN01 OA 08 | Reading strategies | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-08.md) |
+| EN01 OA 09 | Response to reading | Comprensión de lectura | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-09.md) |
+| EN01 OA 10 | English sounds through chants, rhymes and dialogues | Expresión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-10.md) |
+| EN01 OA 11 | Brief classroom interaction and presentation | Expresión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-11.md) |
+| EN01 OA 12 | Supported oral communication for familiar functions | Expresión oral | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-12.md) |
+| EN01 OA 13 | Model-supported writing | Expresión escrita | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-13.md) |
+| EN01 OA 14 | Image-based writing for familiar meanings | Expresión escrita | 5 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/en01-oa-14.md) |
 | de Actitud EN01 OAA A | Demostrar valoración e interés por conocer su propio contexto y realidad, ampliando el conocimiento… | Inglés (Propuesta) Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/de-actitud-en01-oaa-a.md) |
 | de Actitud EN01 OAA B | Manifestar una actitud positiva frente a sí mismo y sus capacidades para aprender un nuevo idioma | Inglés (Propuesta) Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/de-actitud-en01-oaa-b.md) |
 | de Actitud EN01 OAA C | Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y… | Inglés (Propuesta) Actitudes | 4 | [Abrir ficha Markdown](../../curriculum/1-basico/ingles-propuesta/de-actitud-en01-oaa-c.md) |
