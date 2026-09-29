@@ -8,12 +8,9 @@
 
 [![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 
-[![Programa](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-desarrollo%20interno%20completo-17643a?style=for-the-badge)](docs/1-basico/README.md)
-[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-1.434-0c5963?style=for-the-badge)](EDITORIAL_STATUS.md)
-[![Matemática](https://img.shields.io/badge/matem%C3%A1tica-83%20clases-17643a?style=for-the-badge)](docs/1-basico/matematica.md)
-[![Lenguaje](https://img.shields.io/badge/lenguaje-131%20clases-7c5cff?style=for-the-badge)](docs/1-basico/lenguaje-comunicacion.md)
-[![Asignaturas](https://img.shields.io/badge/asignaturas-11-7c5cff?style=for-the-badge)](docs/1-basico/README.md#-las-11-asignaturas)
-[![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases-0c5963?style=for-the-badge)](docs/2-basico/README.md)
+[![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
+[![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-1.434%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -21,7 +18,7 @@
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
 
-[🧒 Empezar con 1° básico](docs/1-basico/README.md) · [📐 Ver 2° básico](docs/2-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 [📋 Plan maestro por nivel, asignatura e ítem](docs/PLAN_DESARROLLO.md)
 
@@ -37,7 +34,7 @@
 
 ## 👋 Empieza aquí
 
-Este repositorio sirve hoy para tres cosas distintas, expresadas sin mezclar sus estados:
+Este repositorio sirve hoy para cuatro cosas distintas, expresadas sin mezclar sus estados:
 
 - **Usar el desarrollo completo de 1° básico:** ofrece 691 clases específicas organizadas en 153 secuencias disciplinares, todavía pendientes de revisión humana.
 - **Usar 2° básico completo:** ofrece 721 clases específicas en 161 secuencias disciplinares y 351 experiencias que integran 86 OA transversales.
@@ -111,7 +108,7 @@ Es la suma de todos los **espacios de clase inventariados** del mapa curricular.
 
 ## 🧒 1° básico · desarrollo OA por OA
 
-El nivel se organiza en once recorridos por asignatura. Todas las guías cuentan con secuencias específicas; su publicación y control automático no sustituyen la revisión humana disciplinar, pedagógica, cultural y de accesibilidad.
+**691 clases disciplinares · 343 experiencias integradas · 237 OA · 11 asignaturas · 0 borradores.** El nivel construye oralidad, lectura y escritura inicial, número, observación del entorno, orientación temporal y espacial, expresión, movimiento, convivencia, identidad y diseño. Todas sus guías cuentan con secuencias específicas; la revisión humana especializada sigue pendiente.
 
 - 🎨 **[Artes Visuales](docs/1-basico/artes-visuales.md):** 5 OA de contenido y 24 clases desarrolladas; 7 OA de actitudes se integran mediante 28 experiencias.
 - 🌱 **[Ciencias Naturales](docs/1-basico/ciencias-naturales.md):** 12 OA de contenido y 49 clases desarrolladas; 10 OA de habilidades/actitudes se integran mediante 40 experiencias.
@@ -125,22 +122,34 @@ El nivel se organiza en once recorridos por asignatura. Todas las guías cuentan
 - 💬 **[Orientación](docs/1-basico/orientacion.md):** 8 OA de contenido y 35 clases desarrolladas, con casos ficticios y resguardo de privacidad.
 - 🛠️ **[Tecnología](docs/1-basico/tecnologia.md):** 6 OA de contenido y 26 clases desarrolladas; 5 OA de actitudes se integran mediante 20 experiencias.
 
-### Qué ocurre si solicitas mejorar sus contenidos o clases
+## 📐 2° básico · desarrollo OA por OA
 
-Una mejora de 1° básico se aplica al contenido pedagógico canónico, no solo a la portada o a una página aislada. El flujo correcto es:
+**721 clases disciplinares · 351 experiencias integradas · 247 OA · 11 asignaturas · 0 propuestas pendientes.** El nivel consolida los aprendizajes iniciados en 1° y aumenta rango, precisión y autonomía sin suponer bases automatizadas. Sus 161 OA de contenido cuentan con secuencias propias; 86 OA de habilidades y actitudes se integran sin duplicar clases. La revisión humana especializada sigue pendiente.
 
-1. delimitar la asignatura, el OA, la clase o el aspecto transversal que debe mejorar;
+- 🎨 **[Artes Visuales](docs/2-basico/artes-visuales.md):** 5 OA de contenido y 24 clases desarrolladas; 7 OA de actitudes se integran mediante 28 experiencias.
+- 🌱 **[Ciencias Naturales](docs/2-basico/ciencias-naturales.md):** 14 OA de contenido y 57 clases desarrolladas; 11 OA de habilidades/actitudes se integran mediante 44 experiencias.
+- 🏃 **[Educación Física y Salud](docs/2-basico/educacion-fisica-salud.md):** 11 OA de contenido y 47 clases desarrolladas; 8 OA de actitudes se integran mediante 32 experiencias.
+- 🗺️ **[Historia, Geografía y Ciencias Sociales](docs/2-basico/historia-geografia-ciencias-sociales.md):** 16 OA de contenido y 72 clases desarrolladas; 18 OA de habilidades/actitudes se integran mediante 72 experiencias.
+- 🌍 **[Inglés — propuesta](docs/2-basico/ingles-propuesta.md):** 14 OA de contenido y 68 clases desarrolladas; 4 OA de actitudes se integran mediante 16 experiencias.
+- 🪶 **[Lengua y Cultura de los Pueblos Originarios Ancestrales](docs/2-basico/lengua-cultura-pueblos-originarios-ancestrales.md):** 27 OA de contenido y 116 clases desarrolladas; 4 OA de actitudes se integran mediante 18 experiencias, con resguardos de fuente, comunidad y no apropiación.
+- 📚 **[Lenguaje y Comunicación](docs/2-basico/lenguaje-comunicacion.md):** 30 OA de contenido y 149 clases desarrolladas; 7 OA de actitudes se integran mediante 29 experiencias transversales.
+- 🔢 **[Matemática](docs/2-basico/matematica.md):** 22 OA de contenido y 93 clases desarrolladas; 15 OA de habilidades/actitudes se integran mediante 64 experiencias transversales.
+- 🎵 **[Música](docs/2-basico/musica.md):** 7 OA de contenido y 29 clases desarrolladas; 7 OA de actitudes se integran mediante 28 experiencias.
+- 💬 **[Orientación](docs/2-basico/orientacion.md):** 8 OA de contenido y 35 clases desarrolladas, con casos ficticios y resguardo de privacidad.
+- 🛠️ **[Tecnología](docs/2-basico/tecnologia.md):** 7 OA de contenido y 31 clases desarrolladas; 5 OA de actitudes se integran mediante 20 experiencias.
+
+## 🔧 Cómo se mejora cualquiera de los dos niveles
+
+Una mejora de 1° o 2° básico se aplica al contenido pedagógico canónico, no solo a la portada o a una página aislada. El flujo correcto es:
+
+1. delimitar el nivel, la asignatura, el OA, la clase o el aspecto transversal que debe mejorar;
 2. corregir propósito, explicación, actividades, tareas, evidencia, dificultades y apoyos donde corresponda;
 3. regenerar sus versiones Markdown y HTML desde la misma fuente;
 4. conservar códigos y anclas estables para no romper enlaces;
 5. ejecutar validadores, pruebas y comprobación de reproducibilidad;
 6. mantener el estado “pendiente de revisión humana” hasta que una revisión competente quede registrada.
 
-Si la solicitud es general —por ejemplo, “mejora todas las clases de Matemática”— se trabaja sistemáticamente OA por OA dentro de 1° básico. No se simula avance en otros niveles ni se aumentan conteos por cambiar documentación.
-
-## 📐 2° básico · desarrollo OA por OA
-
-El [mapa de 2° básico](docs/2-basico/README.md) reúne 247 OA y 1.072 propuestas resueltas en sus once asignaturas: 721 clases disciplinares y 351 experiencias integradas. Sus 161 OA de contenido cuentan con secuencias propias; los 86 OA de habilidades y actitudes se observan dentro de esas clases y no duplican el conteo. Cada asignatura tiene una guía específica y el nivel mantiene revisión humana pendiente.
+Si la solicitud es general —por ejemplo, “mejora todas las clases de Matemática de 2°”— se trabaja sistemáticamente OA por OA dentro del nivel indicado. No se simula avance en otros niveles ni se aumentan conteos por cambiar documentación.
 
 ## 🧠 Cómo progresa una secuencia
 
@@ -342,7 +351,7 @@ El software original usa [MIT](LICENSE). Las clases, tareas, actividades y guía
 
 **Hecho para convertir el currículo en aprendizaje claro, humano y aplicable.**
 
-[🧒 Explorar 1° básico](docs/1-basico/README.md) · [📚 Ver la documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
+[🧒 Explorar 1° básico](docs/1-basico/README.md) · [📐 Explorar 2° básico](docs/2-basico/README.md) · [📚 Ver la documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
 
 **¿Te resulta útil? ⭐ Dale una estrella al repositorio.**
 

@@ -328,7 +328,7 @@ def validate(root: Path = ROOT) -> list[str]:
     if documentation_html.count("Leer guía de 1° completa") != 11 or documentation_html.count("Leer guía de 2° completa") != 11:
         errors.append("La portada documental no presenta las 11 guías de ambos niveles con igual visibilidad")
     required_docs = {
-        "README.md": ("12.997", "2.823", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "README.md": ("12.997", "2.823", "691 clases disciplinares", "721 clases disciplinares", "Cómo se mejora cualquiera de los dos niveles", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),

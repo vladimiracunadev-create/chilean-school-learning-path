@@ -6,6 +6,7 @@
 - Las once guías de 2° incorporan continuidad con 1°, resultados, punto de entrada, método disciplinar, anatomía, ejes, recorrido completo de OA, observación, materiales, recuperación, acceso y fuentes.
 - Se añade `docs/SEGUNDO_BASICO.md` como equivalente técnico de `docs/PRIMERO_BASICO.md` y el centro documental enlaza ambas guías por asignatura.
 - La portada pública de documentación muestra las once tarjetas completas de 1° y las once de 2° con la misma jerarquía visual, enlaces directos y descripción pedagógica.
+- El README principal presenta ambos niveles con insignias, métricas, once accesos por asignatura y reglas de mejora equivalentes, sin privilegiar visualmente a 1° básico.
 - El validador y las pruebas rechazan futuras regresiones donde 2° tenga menor profundidad documental que 1°.
 
 ## 2026-09-29 — Desarrollo interno completo de 2° básico

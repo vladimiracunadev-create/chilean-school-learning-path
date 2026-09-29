@@ -141,11 +141,21 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertNotIn("Unidad de Currículum", integration["lessons"][0]["model"])
 
     def test_second_grade_documentation_matches_first_grade_depth(self):
+        main_readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        first_main = main_readme.split("## 🧒 1° básico · desarrollo OA por OA", 1)[1].split("## 📐 2° básico · desarrollo OA por OA", 1)[0]
+        second_main = main_readme.split("## 📐 2° básico · desarrollo OA por OA", 1)[1].split("## 🔧 Cómo se mejora cualquiera de los dos niveles", 1)[0]
+        subject_slugs = {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 1}
+        for slug in subject_slugs:
+            self.assertIn(f"docs/1-basico/{slug}.md", first_main, slug)
+            self.assertIn(f"docs/2-basico/{slug}.md", second_main, slug)
+        self.assertEqual(first_main.count("docs/1-basico/"), 11)
+        self.assertEqual(second_main.count("docs/2-basico/"), 11)
+        self.assertIn("691 clases disciplinares", first_main)
+        self.assertIn("721 clases disciplinares", second_main)
         first_index = (ROOT / "docs/1-basico/README.md").read_text(encoding="utf-8")
         second_index = (ROOT / "docs/2-basico/README.md").read_text(encoding="utf-8")
         self.assertGreaterEqual(second_index.count("\n## "), first_index.count("\n## "))
         self.assertTrue((ROOT / "docs/SEGUNDO_BASICO.md").is_file())
-        subject_slugs = {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 1}
         for slug in subject_slugs:
             first = (ROOT / "docs/1-basico" / f"{slug}.md").read_text(encoding="utf-8")
             second = (ROOT / "docs/2-basico" / f"{slug}.md").read_text(encoding="utf-8")
