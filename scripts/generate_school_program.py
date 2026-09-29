@@ -19,6 +19,7 @@ from grade_two_arts_music_pe_lessons import build_sequence as build_grade_two_am
 from grade_two_remaining_lessons import build_sequence as build_grade_two_remaining_sequence, build_transversal_integration as build_grade_two_remaining_integration
 from grade_three_math_language_lessons import build_sequence as build_grade_three_ml_sequence, build_transversal_integration as build_grade_three_ml_integration, complete_pilot_sequence
 from grade_three_science_history_lessons import build_sequence as build_grade_three_sh_sequence, build_transversal_integration as build_grade_three_sh_integration, complete_history_pilot
+from grade_three_arts_pe_english_indigenous_lessons import build_sequence as build_grade_three_apei_sequence, build_transversal_integration as build_grade_three_apei_integration
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
 def dose(text,slug,reads):
@@ -761,7 +762,7 @@ def main():
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
   for oa in r["objectives"]:
    reads=oa.get("readings",[]);phases=dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
-   developed_content=build_remaining_sequence(oa["code"]) or build_sha_sequence(oa["code"]) or build_grade_two_math_sequence(oa["code"]) or build_grade_two_lsh_sequence(oa["code"]) or build_grade_two_amp_sequence(oa["code"]) or build_grade_two_remaining_sequence(oa["code"]) or build_grade_three_ml_sequence(oa["code"]) or build_grade_three_sh_sequence(oa["code"]) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
+   developed_content=build_remaining_sequence(oa["code"]) or build_sha_sequence(oa["code"]) or build_grade_two_math_sequence(oa["code"]) or build_grade_two_lsh_sequence(oa["code"]) or build_grade_two_amp_sequence(oa["code"]) or build_grade_two_remaining_sequence(oa["code"]) or build_grade_three_ml_sequence(oa["code"]) or build_grade_three_sh_sequence(oa["code"]) or build_grade_three_apei_sequence(oa["code"]) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
    if oa["code"]=="MA03 OA 11":developed_content=complete_pilot_sequence(developed_content)
    if oa["code"]=="HI03 OA 05":developed_content=complete_history_pilot(developed_content)
    item={"topic":(developed_content or {}).get("topic",topic_from(oa["description"])),"course":r["course"],"course_slug":r["course_slug"],"course_order":r["course_order"],"subject":r["subject"],"subject_slug":r["subject_slug"],"axis":oa["axis"],"oa_code":oa["code"],"oa_text":oa["description"],"coverage":cov(r["subject_slug"],r["course_order"]),"source_url":oa["url"],"subject_url":r["subject_url"],"verified_at":snap["verified_at"],"readings":reads,"path":path,"codes":codes,"phases":phases,"developed":developed_content}
@@ -790,6 +791,9 @@ def main():
    if r["course_order"]==3 and r["subject_slug"] in {"ciencias-naturales","historia-geografia-ciencias-sociales"} and oa["code"].startswith(("de Habilidad ","de Actitud ")):
     item["topic"]=oa["description"].split("Unidad de Currículum",1)[0].strip().rstrip(".")
     item["integration"]=build_grade_three_sh_integration(item)
+   if r["course_order"]==3 and r["subject_slug"] in {"artes-visuales","educacion-fisica-salud","ingles-propuesta","lengua-cultura-pueblos-originarios-ancestrales"} and oa["code"].startswith("de Actitud "):
+    item["topic"]=oa["description"].split("Unidad de Currículum",1)[0].strip().rstrip(".")
+    item["integration"]=build_grade_three_apei_integration(item)
    if item["developed"] and r["course_order"]==1 and r["subject_slug"]=="matematica" and oa["code"].startswith("MA01 OA "):
     oa_number=int(oa["code"].rsplit(" ",1)[-1])
     for lesson_index,lesson in enumerate(item["developed"]["lessons"]):

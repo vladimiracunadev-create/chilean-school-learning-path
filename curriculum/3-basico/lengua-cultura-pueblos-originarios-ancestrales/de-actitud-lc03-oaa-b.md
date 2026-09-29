@@ -1,4 +1,4 @@
-# de Actitud LC03 OAA B — Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…
+# de Actitud LC03 OAA B — Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 3° básico | Lengua y Cultura de los Pueblos Originarios Ancestrales | Actitudes | segun-contexto-y-normativa | 4 clases de 90 min |
@@ -22,73 +22,189 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-02693}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 1 de 4: Conectar y diagnosticar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 1 {#cl-02693}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» dentro de un aprendizaje situado de lengua o cultura, sin convertir la actitud en charla aislada ni rasgo personal.
+
+**Meta para estudiantes:** Hoy haré visible una decisión respetuosa sobre fuente, uso y comunicación y explicaré cómo aportó al aprendizaje.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias a un aprendizaje situado de lengua o cultura: una sólo nombra la actitud y otra la muestra mediante una acción. Localizan evidencia específica para «conectar y diagnosticar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 1». |
+| Modelado | 20 min | Modela una decisión respetuosa sobre fuente, uso y comunicación que manifiesta «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» y señala su efecto concreto en el trabajo, la seguridad, la comunicación o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve de «conectar y diagnosticar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 1», marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre cuerpo, talento, acento, personalidad, identidad u origen. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de un aprendizaje situado de lengua o cultura, identifica su decisión y explica cómo «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» influyó en el resultado. |
+| Cierre | 10 min | En «conectar y diagnosticar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 1», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
 
-### Clase 2 de 4: Comprender y modelar {#cl-02694}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Producción o desempeño disciplinar de «conectar y diagnosticar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 1» con acción y explicación atribuibles al estudiante.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin etiquetas personales.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no integración.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud en una actividad de la asignatura; no requiere compras, internet ni exposición personal o cultural.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-02695}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia, talento o identidad.
+- Transferir la acción a otro eje.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa rasgos personales o identitarios | Reformula como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales o educadores pertinentes acuerdan una barrera, variante y evidencia sin sustituir la decisión del estudiante.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Comprender y modelar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 2 {#cl-02694}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-02696}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Propósito docente:** Integrar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» dentro de un aprendizaje situado de lengua o cultura, sin convertir la actitud en charla aislada ni rasgo personal.
+
+**Meta para estudiantes:** Hoy haré visible una decisión respetuosa sobre fuente, uso y comunicación y explicaré cómo aportó al aprendizaje.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias a un aprendizaje situado de lengua o cultura: una sólo nombra la actitud y otra la muestra mediante una acción. Localizan evidencia específica para «comprender y modelar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 2». |
+| Modelado | 20 min | Modela una decisión respetuosa sobre fuente, uso y comunicación que manifiesta «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» y señala su efecto concreto en el trabajo, la seguridad, la comunicación o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve de «comprender y modelar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 2», marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre cuerpo, talento, acento, personalidad, identidad u origen. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de un aprendizaje situado de lengua o cultura, identifica su decisión y explica cómo «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» influyó en el resultado. |
+| Cierre | 10 min | En «comprender y modelar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 2», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción o desempeño disciplinar de «comprender y modelar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 2» con acción y explicación atribuibles al estudiante.
+
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin etiquetas personales.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud en una actividad de la asignatura; no requiere compras, internet ni exposición personal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia, talento o identidad.
+- Transferir la acción a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa rasgos personales o identitarios | Reformula como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales o educadores pertinentes acuerdan una barrera, variante y evidencia sin sustituir la decisión del estudiante.
+
+### Clase 3 de 4: Aplicar con autonomía: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 3 {#cl-02695}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» dentro de un aprendizaje situado de lengua o cultura, sin convertir la actitud en charla aislada ni rasgo personal.
+
+**Meta para estudiantes:** Hoy haré visible una decisión respetuosa sobre fuente, uso y comunicación y explicaré cómo aportó al aprendizaje.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias a un aprendizaje situado de lengua o cultura: una sólo nombra la actitud y otra la muestra mediante una acción. Localizan evidencia específica para «aplicar con autonomía: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 3». |
+| Modelado | 20 min | Modela una decisión respetuosa sobre fuente, uso y comunicación que manifiesta «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» y señala su efecto concreto en el trabajo, la seguridad, la comunicación o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve de «aplicar con autonomía: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 3», marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre cuerpo, talento, acento, personalidad, identidad u origen. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de un aprendizaje situado de lengua o cultura, identifica su decisión y explica cómo «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» influyó en el resultado. |
+| Cierre | 10 min | En «aplicar con autonomía: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 3», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
+
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
+
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
+
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción o desempeño disciplinar de «aplicar con autonomía: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 3» con acción y explicación atribuibles al estudiante.
+
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin etiquetas personales.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud en una actividad de la asignatura; no requiere compras, internet ni exposición personal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia, talento o identidad.
+- Transferir la acción a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa rasgos personales o identitarios | Reformula como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales o educadores pertinentes acuerdan una barrera, variante y evidencia sin sustituir la decisión del estudiante.
+
+### Clase 4 de 4: Demostrar y retroalimentar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 4 {#cl-02696}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» dentro de un aprendizaje situado de lengua o cultura, sin convertir la actitud en charla aislada ni rasgo personal.
+
+**Meta para estudiantes:** Hoy haré visible una decisión respetuosa sobre fuente, uso y comunicación y explicaré cómo aportó al aprendizaje.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias a un aprendizaje situado de lengua o cultura: una sólo nombra la actitud y otra la muestra mediante una acción. Localizan evidencia específica para «demostrar y retroalimentar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 4». |
+| Modelado | 20 min | Modela una decisión respetuosa sobre fuente, uso y comunicación que manifiesta «Valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» y señala su efecto concreto en el trabajo, la seguridad, la comunicación o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve de «demostrar y retroalimentar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 4», marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre cuerpo, talento, acento, personalidad, identidad u origen. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de un aprendizaje situado de lengua o cultura, identifica su decisión y explica cómo «valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas» influyó en el resultado. |
+| Cierre | 10 min | En «demostrar y retroalimentar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 4», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
+
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
+
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
+
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción o desempeño disciplinar de «demostrar y retroalimentar: valorar la interculturalidad como una interacción mutua en que necesitamos apreciarnos y comprendernos como personas de culturas diversas en acción 4» con acción y explicación atribuibles al estudiante.
+
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin etiquetas personales.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud en una actividad de la asignatura; no requiere compras, internet ni exposición personal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia, talento o identidad.
+- Transferir la acción a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa rasgos personales o identitarios | Reformula como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales o educadores pertinentes acuerdan una barrera, variante y evidencia sin sustituir la decisión del estudiante.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

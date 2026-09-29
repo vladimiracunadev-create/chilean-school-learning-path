@@ -17,6 +17,7 @@ try:
     from grade_two_remaining_lessons import ATTITUDES as GRADE_TWO_REMAINING_ATTITUDES, OR as GRADE_TWO_ORIENTATION_SEQUENCES, TE as GRADE_TWO_TECHNOLOGY_SEQUENCES, EN as GRADE_TWO_ENGLISH_SEQUENCES, LC_META as GRADE_TWO_INDIGENOUS_SEQUENCES, build_sequence as build_grade_two_remaining_sequence
     from grade_three_math_language_lessons import LANGUAGE as GRADE_THREE_LANGUAGE_SEQUENCES, LANGUAGE_ATTITUDES as GRADE_THREE_LANGUAGE_ATTITUDES, MATH as GRADE_THREE_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_THREE_MATH_ATTITUDES, MATH_SKILLS as GRADE_THREE_MATH_SKILLS, build_sequence as build_grade_three_ml_sequence, complete_pilot_sequence
     from grade_three_science_history_lessons import HISTORY as GRADE_THREE_HISTORY_SEQUENCES, HISTORY_ATTITUDES as GRADE_THREE_HISTORY_ATTITUDES, HISTORY_SKILLS as GRADE_THREE_HISTORY_SKILLS, SCIENCE as GRADE_THREE_SCIENCE_SEQUENCES, SCIENCE_ATTITUDES as GRADE_THREE_SCIENCE_ATTITUDES, SCIENCE_SKILLS as GRADE_THREE_SCIENCE_SKILLS, build_sequence as build_grade_three_sh_sequence, complete_history_pilot
+    from grade_three_arts_pe_english_indigenous_lessons import AR as GRADE_THREE_ART_SEQUENCES, ATTITUDES as GRADE_THREE_APEI_ATTITUDES, EF as GRADE_THREE_PE_SEQUENCES, EN as GRADE_THREE_ENGLISH_SEQUENCES, LC as GRADE_THREE_INDIGENOUS_SEQUENCES, build_sequence as build_grade_three_apei_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
@@ -28,6 +29,7 @@ except ImportError:
     from scripts.grade_two_remaining_lessons import ATTITUDES as GRADE_TWO_REMAINING_ATTITUDES, OR as GRADE_TWO_ORIENTATION_SEQUENCES, TE as GRADE_TWO_TECHNOLOGY_SEQUENCES, EN as GRADE_TWO_ENGLISH_SEQUENCES, LC_META as GRADE_TWO_INDIGENOUS_SEQUENCES, build_sequence as build_grade_two_remaining_sequence
     from scripts.grade_three_math_language_lessons import LANGUAGE as GRADE_THREE_LANGUAGE_SEQUENCES, LANGUAGE_ATTITUDES as GRADE_THREE_LANGUAGE_ATTITUDES, MATH as GRADE_THREE_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_THREE_MATH_ATTITUDES, MATH_SKILLS as GRADE_THREE_MATH_SKILLS, build_sequence as build_grade_three_ml_sequence, complete_pilot_sequence
     from scripts.grade_three_science_history_lessons import HISTORY as GRADE_THREE_HISTORY_SEQUENCES, HISTORY_ATTITUDES as GRADE_THREE_HISTORY_ATTITUDES, HISTORY_SKILLS as GRADE_THREE_HISTORY_SKILLS, SCIENCE as GRADE_THREE_SCIENCE_SEQUENCES, SCIENCE_ATTITUDES as GRADE_THREE_SCIENCE_ATTITUDES, SCIENCE_SKILLS as GRADE_THREE_SCIENCE_SKILLS, build_sequence as build_grade_three_sh_sequence, complete_history_pilot
+    from scripts.grade_three_arts_pe_english_indigenous_lessons import AR as GRADE_THREE_ART_SEQUENCES, ATTITUDES as GRADE_THREE_APEI_ATTITUDES, EF as GRADE_THREE_PE_SEQUENCES, EN as GRADE_THREE_ENGLISH_SEQUENCES, LC as GRADE_THREE_INDIGENOUS_SEQUENCES, build_sequence as build_grade_three_apei_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -78,6 +80,7 @@ def validate(root: Path = ROOT) -> list[str]:
     complete_pilot_sequence(all_developed["MA03 OA 11"])
     all_developed.update({code: build_grade_three_sh_sequence(code) for code in GRADE_THREE_SCIENCE_SEQUENCES | GRADE_THREE_HISTORY_SEQUENCES})
     complete_history_pilot(all_developed["HI03 OA 05"])
+    all_developed.update({code: build_grade_three_apei_sequence(code) for code in GRADE_THREE_ART_SEQUENCES | GRADE_THREE_PE_SEQUENCES | GRADE_THREE_ENGLISH_SEQUENCES | GRADE_THREE_INDIGENOUS_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -97,18 +100,19 @@ def validate(root: Path = ROOT) -> list[str]:
     grade_three_language_transversal_codes: set[str] = set()
     grade_three_science_transversal_codes: set[str] = set()
     grade_three_history_transversal_codes: set[str] = set()
+    grade_three_apei_transversal_codes: dict[str, set[str]] = {prefix: set() for prefix in GRADE_THREE_APEI_ATTITUDES}
     language_attitude_codes: set[str] = set()
     sha_transversal_codes: dict[str, set[str]] = {"CN": set(), "HI": set(), "AR": set()}
     remaining_transversal_codes: dict[str, set[str]] = {prefix: set() for prefix in REMAINING_ATTITUDES}
     for oa_code, objective in all_developed.items():
-        if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
+        if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
             for field in ("topic", "pedagogical_explanation", "prerequisites", "vocabulary", "official_alignment"):
                 if not objective.get(field):
                     errors.append(f"{oa_code}: falta fundamento específico {field}")
             alignment = objective.get("official_alignment", {})
             if len(alignment.get("indicators", [])) < 3 or not alignment.get("source", "").startswith("https://www.curriculumnacional.cl/"):
                 errors.append(f"{oa_code}: alineación oficial insuficiente")
-            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
+            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
                 errors.append(f"{oa_code}: la fuente de alineación no coincide con la ficha oficial del snapshot")
         for index, lesson in enumerate(objective.get("lessons", []), 1):
             missing = REQUIRED_DEVELOPED_FIELDS - lesson.keys()
@@ -121,7 +125,7 @@ def validate(root: Path = ROOT) -> list[str]:
             for field in REQUIRED_DEVELOPED_FIELDS - {"criteria", "title"}:
                 if len(str(lesson.get(field, "")).strip()) < 20:
                     errors.append(f"{oa_code}, clase {index}: {field} no tiene desarrollo suficiente")
-            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
+            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
                 for field in ("home_task", "complementary", "difficulty_actions", "specialist_coordination"):
                     if not lesson.get(field):
                         errors.append(f"{oa_code}, clase {index}: falta extensión pedagógica {field}")
@@ -157,6 +161,11 @@ def validate(root: Path = ROOT) -> list[str]:
                 if len(links) != 2 or {link.get("type") for link in links} != {"Habilidad", "Actitud"}:
                     errors.append(f"{oa_code}, clase {index}: integración histórica transversal incompleta")
                 grade_three_history_transversal_codes.update(link.get("code", "") for link in links)
+            if oa_code.startswith(("AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ")):
+                links = lesson.get("transversal", [])
+                if len(links) != 1 or links[0].get("type") != "Actitud":
+                    errors.append(f"{oa_code}, clase {index}: integración observable de actitud incompleta")
+                grade_three_apei_transversal_codes[oa_code[:2]].update(link.get("code", "") for link in links)
             if oa_code.startswith(("LE02 OA ", "CN02 OA ", "HI02 OA ")):
                 links = lesson.get("transversal", [])
                 expected_types = {"Actitud"} if oa_code.startswith("LE02") else {"Habilidad", "Actitud"}
@@ -206,6 +215,9 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("Las 55 clases de Ciencias de 3° básico no cubren sus 12 OA transversales")
     if grade_three_history_transversal_codes != {code for code, _ in GRADE_THREE_HISTORY_SKILLS + GRADE_THREE_HISTORY_ATTITUDES}:
         errors.append("Las 72 clases de Historia de 3° básico no cubren sus 18 OA transversales")
+    for prefix, pool in GRADE_THREE_APEI_ATTITUDES.items():
+        if grade_three_apei_transversal_codes[prefix] != {code for code, _ in pool}:
+            errors.append(f"Las clases de {prefix}03 no cubren todas sus actitudes transversales")
     expected_grade_two_lsh = {
         "LE": {code for code, _ in GRADE_TWO_LANGUAGE_ATTITUDES},
         "CN": {code for code, _ in GRADE_TWO_SCIENCE_SKILLS + GRADE_TWO_SCIENCE_ATTITUDES},

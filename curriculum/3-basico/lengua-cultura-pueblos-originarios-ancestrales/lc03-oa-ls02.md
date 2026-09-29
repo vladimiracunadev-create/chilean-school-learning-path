@@ -1,4 +1,4 @@
-# LC03 OA LS02 — Comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…
+# LC03 OA LS02 — Comunicación oral inicial en sensibilización
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 3° básico | Lengua y Cultura de los Pueblos Originarios Ancestrales | Contexto de Sensibilización sobre la lengua | segun-contexto-y-normativa | 5 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Comunicación oral inicial en sensibilización se desarrolla mediante experiencias propias de la disciplina. La secuencia parte de usar castellano respetuoso y escuchar palabras validadas y enfrenta la confusión «forzar repetición o evaluar identidad mediante pronunciación».
+
+**Antes de comenzar.** usar castellano respetuoso y escuchar palabras validadas
+
+**Vocabulario explícito:** idea, sentimiento, palabra, diálogo, situación, consentimiento, contexto.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · organización interna en 5 clases
+
+> **Origen:** Organización interna derivada del eje y del OA; no se presenta como unidad oficial del programa de estudio..
+
+**Criterios de progresión derivados del OA**
+- Elegir una situación segura.
+- Escuchar palabras y significado.
+- Preparar una idea o sentimiento ficticio.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del OA oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/3-basico/lc03-oa-ls02)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,90 +41,250 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-02624}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 1 de 5: Elegir una situación segura {#cl-02624}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «elegir una situación segura», con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy desarrollaré «elegir una situación segura» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o comunitaria, en diálogos, dramatizaciones, conversaciones o exposiciones, utilizando algunas palabras en lengua indígena o en castellano, culturalmente significativas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «elegir una situación segura», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela elegir una situación segura sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «elegir una situación segura», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «elegir una situación segura» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «elegir una situación segura», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
-### Clase 2 de 5: Comprender y modelar {#cl-02625}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Comprensión o producción situada sobre «elegir una situación segura» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o comunitaria, en diálogos, dramatizaciones, conversaciones o exposiciones, utilizando algunas palabras en lengua indígena o en castellano, culturalmente significativas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-02626}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: forzar repetición o evaluar identidad mediante pronunciación.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o comunitaria, en diálogos, dramatizaciones, conversaciones o exposiciones, utilizando algunas palabras en lengua indígena o en castellano, culturalmente significativas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Forzar repetición o evaluar identidad mediante pronunciación | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC03 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «desarrollaré «elegir una situación segura» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-02627}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 2 de 5: Escuchar palabras y significado {#cl-02625}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «escuchar palabras y significado», con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy desarrollaré «escuchar palabras y significado» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o comunitaria, en diálogos, dramatizaciones, conversaciones o exposiciones, utilizando algunas palabras en lengua indígena o en castellano, culturalmente significativas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «escuchar palabras y significado», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela escuchar palabras y significado sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «escuchar palabras y significado», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar palabras y significado» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «escuchar palabras y significado», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-02628}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Comprensión o producción situada sobre «escuchar palabras y significado» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: forzar repetición o evaluar identidad mediante pronunciación.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Forzar repetición o evaluar identidad mediante pronunciación | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC03 OAA D`:** Se promueve trabajo riguroso acorde con oralidad, territorio y enseñanza ancestral pertinente durante «desarrollaré «escuchar palabras y significado» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
+
+### Clase 3 de 5: Preparar una idea o sentimiento ficticio {#cl-02626}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «preparar una idea o sentimiento ficticio», con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy desarrollaré «preparar una idea o sentimiento ficticio» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o comunitaria, en diálogos, dramatizaciones, conversaciones o exposiciones, utilizando algunas palabras en lengua indígena o en castellano, culturalmente significativas». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **comunicar oralmente algunas ideas y/o sentimientos en situaciones de la vida personal, familiar o…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «preparar una idea o sentimiento ficticio», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela preparar una idea o sentimiento ficticio sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «preparar una idea o sentimiento ficticio», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «preparar una idea o sentimiento ficticio» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «preparar una idea o sentimiento ficticio», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «preparar una idea o sentimiento ficticio» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: forzar repetición o evaluar identidad mediante pronunciación.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Forzar repetición o evaluar identidad mediante pronunciación | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC03 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «desarrollaré «preparar una idea o sentimiento ficticio» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
+
+### Clase 4 de 5: Dialogar con apoyo {#cl-02627}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «dialogar con apoyo», con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy desarrollaré «dialogar con apoyo» y mostraré una decisión propia con evidencia.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Para «dialogar con apoyo», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela dialogar con apoyo sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «dialogar con apoyo», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «dialogar con apoyo» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «dialogar con apoyo», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
+
+**Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
+
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «dialogar con apoyo» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: forzar repetición o evaluar identidad mediante pronunciación.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Forzar repetición o evaluar identidad mediante pronunciación | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC03 OAA D`:** Se promueve trabajo riguroso acorde con oralidad, territorio y enseñanza ancestral pertinente durante «desarrollaré «dialogar con apoyo» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
+
+### Clase 5 de 5: Revisar respeto y contexto {#cl-02628}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «revisar respeto y contexto», con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy desarrollaré «revisar respeto y contexto» y mostraré una decisión propia con evidencia.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Para «revisar respeto y contexto», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela revisar respeto y contexto sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «revisar respeto y contexto», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «revisar respeto y contexto» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «revisar respeto y contexto», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
+
+**Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
+
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «revisar respeto y contexto» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: forzar repetición o evaluar identidad mediante pronunciación.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Forzar repetición o evaluar identidad mediante pronunciación | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC03 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «desarrollaré «revisar respeto y contexto» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
