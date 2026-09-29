@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-29 — Matemática de 4° básico completa
+
+- Desarrollo de los 27 OA disciplinares en 118 clases específicas y diferenciadas.
+- Integración de 14 OA de habilidades y 6 OA de actitudes mediante 87 experiencias, sin contarlas como clases independientes.
+- Progresión desde números hasta 10.000, cuatro operaciones, fracciones y decimales hacia patrones, ecuaciones, geometría, medición, área, volumen, datos y azar.
+- Nueva guía de asignatura con continuidad desde 3°, recorrido OA por OA, evidencia, dificultades, acceso y profundización.
+- Estado global actualizado a 2.298 clases desarrolladas y 1.160 experiencias integradas; 4° básico permanece en desarrollo en sus otras asignaturas.
+
 ## 2026-09-29 — Desarrollo interno completo de 3° básico
 
 - Cierre de las once asignaturas de 3° básico con 757 clases disciplinares, 379 experiencias integradas y 0 propuestas pendientes.

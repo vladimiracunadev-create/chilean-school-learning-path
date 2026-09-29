@@ -11,7 +11,7 @@
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
 [![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
 [![3° básico](https://img.shields.io/badge/3%C2%B0%20b%C3%A1sico-757%20clases%20%C2%B7%2011%20asignaturas-b45309?style=for-the-badge)](docs/3-basico/README.md)
-[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-2.180%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-2.298%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -28,7 +28,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** las 11 asignaturas de 1°, 2° y 3° básico cuentan con desarrollo pedagógico interno completo. Reúnen, respectivamente, **691**, **721** y **757 clases**, más 343, 351 y 379 experiencias integradas. Se conservan además 11 clases piloto de niveles posteriores. La revisión humana especializada sigue pendiente.
+> **Estado real del proyecto:** las 11 asignaturas de 1°, 2° y 3° básico cuentan con desarrollo pedagógico interno completo. Reúnen, respectivamente, **691**, **721** y **757 clases**, más 343, 351 y 379 experiencias integradas. Matemática de 4° básico también está completa con **118 clases** y 87 experiencias integradas. Se conservan además 11 clases piloto en otras asignaturas y niveles. La revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -40,6 +40,7 @@ Este repositorio sirve hoy para cuatro cosas distintas, expresadas sin mezclar s
 - **Usar el desarrollo completo de 1° básico:** ofrece 691 clases específicas organizadas en 153 secuencias disciplinares, todavía pendientes de revisión humana.
 - **Usar 2° básico completo:** ofrece 721 clases específicas en 161 secuencias disciplinares y 351 experiencias que integran 86 OA transversales.
 - **Usar 3° básico completo:** ofrece 757 clases específicas en 165 secuencias disciplinares y 379 experiencias que integran 92 OA transversales.
+- **Usar Matemática de 4° básico:** ofrece 118 clases específicas en 27 OA de contenido y 87 experiencias que integran 20 OA transversales.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
 - **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
 
@@ -103,9 +104,11 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **3° básico:** 757 clases desarrolladas en las 11 asignaturas y 379 experiencias transversales integradas, sin duplicar el conteo. Las 1.136 entradas del nivel están resueltas y quedan **0 propuestas pendientes**, con revisión humana aún pendiente.
 
+**Matemática de 4° básico:** 118 clases desarrolladas y 87 experiencias transversales integradas. Sus 205 entradas están resueltas, desde números hasta 10.000 y operaciones hasta área, volumen, datos y azar; quedan **0 propuestas pendientes en la asignatura**.
+
 ### Preparado para desarrollo futuro
 
-**Niveles desde 4° básico hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. Los 11 pilotos de 4° y 8° básico sirven para probar el modelo; no convierten esos niveles en programas terminados.
+**Niveles desde 4° básico hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. Matemática de 4° está completa; las demás asignaturas de ese nivel siguen en desarrollo. Los 11 pilotos de Ciencias de 4° y Lengua y Literatura de 8° no convierten esos niveles en programas terminados.
 
 ### Lo que significa “12.997”
 
@@ -159,9 +162,15 @@ Es la suma de todos los **espacios de clase inventariados** del mapa curricular.
 - 💬 **[Orientación](docs/3-basico/orientacion.md):** 35 clases desarrolladas, con casos ficticios, privacidad y protocolos de resguardo.
 - 🛠️ **[Tecnología](docs/3-basico/tecnologia.md):** 33 clases desarrolladas y 20 experiencias integradas.
 
-## 🔧 Cómo se mejora cualquiera de los tres niveles
+## 🔢 Matemática de 4° básico · asignatura completa
 
-Una mejora de 1°, 2° o 3° básico se aplica al contenido pedagógico canónico, no solo a la portada o a una página aislada. El flujo correcto es:
+**118 clases disciplinares · 87 experiencias integradas · 47 OA · 0 propuestas pendientes en Matemática.** El recorrido amplía el sistema decimal hasta 10.000, consolida operaciones, introduce decimales y profundiza fracciones, patrones, ecuaciones, geometría, medición, área, volumen, datos y azar. Las clases usan representaciones, explicación y comprobación; no confunden rapidez con aprendizaje.
+
+[Abrir la guía completa de Matemática de 4°](docs/4-basico/matematica.md) · [Explorar sus OA](CURRICULUM.md)
+
+## 🔧 Cómo se mejora el contenido desarrollado
+
+Una mejora de 1°, 2°, 3° o Matemática de 4° básico se aplica al contenido pedagógico canónico, no solo a la portada o a una página aislada. El flujo correcto es:
 
 1. delimitar el nivel, la asignatura, el OA, la clase o el aspecto transversal que debe mejorar;
 2. corregir propósito, explicación, actividades, tareas, evidencia, dificultades y apoyos donde corresponda;
@@ -301,9 +310,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3° y 11 pilotos posteriores: 2.180 en total.
-- **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2° y 379 de 3°: 1.073 en total; no constituyen clases independientes.
-- **Contenido pendiente:** los niveles desde 4° básico hasta 4° medio permanecen secuenciados, salvo 11 pilotos desarrollados.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 118 de Matemática de 4° y 11 pilotos: 2.298 en total.
+- **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3° y 87 de Matemática de 4°: 1.160 en total; no constituyen clases independientes.
+- **Contenido pendiente:** las otras asignaturas desde 4° básico hasta 4° medio permanecen secuenciadas, salvo 11 pilotos desarrollados.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -341,7 +350,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un desarrollo transparente de 1°, 2° y 3° básico, con 2.180 clases desarrolladas y 1.073 experiencias integradas en el catálogo;
+- un desarrollo transparente de 1°, 2° y 3° básico y Matemática de 4°, con 2.298 clases desarrolladas y 1.160 experiencias integradas en el catálogo;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;

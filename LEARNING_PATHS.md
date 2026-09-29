@@ -12,6 +12,16 @@ No todas las personas necesitan recorrer el repositorio del mismo modo. Estas ru
 
 **Resultado:** una clase contextualizada que conserva el OA y termina con evidencia útil.
 
+## Docente de Matemática de 4° básico · preparar y enseñar
+
+1. Abre la [guía completa de Matemática de 4°](docs/4-basico/matematica.md).
+2. Revisa continuidad con 3°, eje, OA y secuencia completa.
+3. Prepara la representación concreta, pictórica o simbólica y una vía de comprobación.
+4. Integra habilidades y actitudes durante la resolución, sin tratarlas como clases separadas.
+5. Usa evidencia individual para avanzar, apoyar o reenseñar con otro caso.
+
+**Resultado:** una clase matemática específica que conserva la demanda, hace visible el razonamiento y no confunde rapidez con dominio.
+
 ## Coordinación pedagógica o UTP · revisar cobertura
 
 1. Consulta la [malla completa](CURRICULUM.md) y el [estado editorial](EDITORIAL_STATUS.md).

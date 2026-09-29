@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-29**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores en 1°, 2° ni 3° básico |
-| Desarrollada | 2.180 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 1.073 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 2.298 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 1.160 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2° y 3° básico tienen desarrollo interno completo**: 691, 721 y 757 clases desarrolladas, junto con 343, 351 y 379 experiencias integradas. Cada nivel cubre sus once asignaturas sin propuestas pendientes. Se mantienen además 11 clases piloto de 4° y 8° básico.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2° y 3° básico tienen desarrollo interno completo**: 691, 721 y 757 clases desarrolladas, junto con 343, 351 y 379 experiencias integradas. Cada nivel cubre sus once asignaturas sin propuestas pendientes. **Matemática de 4° básico también está completa** con 118 clases y 87 experiencias integradas. Se mantienen además 11 clases piloto en Ciencias de 4° y Lengua y Literatura de 8°.
 
 ## Reconstrucción de 1° básico
 
@@ -76,6 +76,19 @@ Las secuencias canónicas viven en los módulos `scripts/grade_two_*_lessons.py`
 Las 1.136 entradas del nivel están resueltas. Las guías explicitan continuidad con 2°, método disciplinar, evidencia observable y resguardos particulares de seguridad, privacidad y pertinencia cultural.
 
 [Ver mapa de 3° básico](docs/3-basico/README.md) · [Abrir sus once guías](docs/3-basico/README.md#las-11-asignaturas)
+
+## Matemática de 4° básico
+
+| Cobertura | Cantidad | Estado |
+|---|---:|---|
+| OA de contenido | 27 | 118 clases desarrolladas |
+| OA de habilidades y actitudes | 20 | 87 experiencias integradas |
+| Propuestas pendientes de Matemática | 0 | asignatura completa |
+| Revisión humana | 0 | pendiente |
+
+El recorrido diferencia número y operaciones, patrones y álgebra, geometría, medición, datos y probabilidades. Cada clase incluye representación, razonamiento, comprobación, error previsible, apoyo y profundización específicos.
+
+[Abrir guía de Matemática de 4° básico](docs/4-basico/matematica.md)
 
 ## Pilotos conservados en otros niveles
 

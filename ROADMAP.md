@@ -9,7 +9,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 1° básico | 237 | 1.034 | Desarrollo interno completo · 691 desarrolladas · 343 integradas · 0 borradores · revisión humana pendiente |
 | 2° básico | 247 | 1.072 | Desarrollo interno completo · 721 desarrolladas · 351 integradas · 0 pendientes · revisión humana pendiente |
 | 3° básico | 257 | 1.136 | Desarrollo interno completo · 757 desarrolladas · 379 integradas · 0 pendientes · revisión humana pendiente |
-| 4° básico | 268 | 1.195 | Secuenciado · 4 clases piloto desarrolladas |
+| 4° básico | 268 | 1.195 | En desarrollo · Matemática completa: 118 desarrolladas + 87 integradas · 4 clases piloto de Ciencias |
 | 5° básico | 295 | 1.340 | Secuenciado |
 | 6° básico | 301 | 1.374 | Secuenciado |
 | 7° básico | 275 | 1.275 | Secuenciado |
@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **2.180 clases desarrolladas**, **1.073 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2° y 3° básico** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **2.298 clases desarrolladas**, **1.160 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2° y 3° básico ni en Matemática de 4°** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -68,9 +68,12 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **2.180 clases desarrolladas*
 - [x] Verificar especificidad, variedad, privacidad, seguridad, trazabilidad y cobertura transversal.
 - [ ] Ejecutar revisión humana y registrar evidencia.
 
-### Fases siguientes
+### Fase 4 · 4° básico
 
-- [ ] Completar 4° básico.
+- [x] Completar Matemática: 118 clases en 27 OA de contenido y 87 experiencias integradas de 20 OA transversales.
+- [ ] Completar las otras diez asignaturas del nivel.
+
+### Fases siguientes
 - [ ] Completar 5° y 6° básico.
 - [ ] Completar 7° y 8° básico.
 - [ ] Completar 1° y 2° medio.

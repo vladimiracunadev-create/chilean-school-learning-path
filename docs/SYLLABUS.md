@@ -18,6 +18,8 @@ Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currí
 
 3° básico está desarrollado en sus 257 OA, 1.136 propuestas y once asignaturas: 165 OA de contenido se despliegan en 757 clases y 92 OA transversales en 379 experiencias integradas. La progresión exige más autonomía y justificación, pero mantiene andamiajes según evidencia.
 
+Matemática de 4° básico está desarrollada en sus 47 OA: 27 OA de contenido se despliegan en 118 clases y 20 OA transversales en 87 experiencias integradas. Las otras asignaturas de 4° continúan secuenciadas, por lo que el nivel no se declara completo.
+
 El programa busca que la planificación sea:
 
 - **trazable**, porque conserva OA, eje, fuente y fecha;

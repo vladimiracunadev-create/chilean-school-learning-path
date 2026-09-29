@@ -951,53 +951,53 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Lenguaje y Comunicación | [de Actitud LE04 OAA E · Reflexionar sobre sí mismo, sus ideas y sus intereses para comprenderse y valorarse](curriculum/4-basico/lenguaje-comunicacion/de-actitud-le04-oaa-e.md) | 4 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE04 OAA F · Demostrar empatía hacia los demás, comprendiendo el contexto en el que se sitúan](curriculum/4-basico/lenguaje-comunicacion/de-actitud-le04-oaa-f.md) | 5 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE04 OAA G · Demostrar respeto por las diversas opiniones y puntos de vista, reconociendo el diálogo como una…](curriculum/4-basico/lenguaje-comunicacion/de-actitud-le04-oaa-g.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 01 · Representar y describir números del 0 al 10 000](curriculum/4-basico/matematica/ma04-oa-01.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 02 · Describir y aplicar estrategias de cálculo mental](curriculum/4-basico/matematica/ma04-oa-02.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 03 · Demostrar que comprenden la adición y la sustracción de números hasta 1 000](curriculum/4-basico/matematica/ma04-oa-03.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 04 · Fundamentar y aplicar las propiedades del 0 y del 1 para la multiplicación y la propiedad del 1 para…](curriculum/4-basico/matematica/ma04-oa-04.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 05 · Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito](curriculum/4-basico/matematica/ma04-oa-05.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 06 · Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito](curriculum/4-basico/matematica/ma04-oa-06.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 07 · Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero,…](curriculum/4-basico/matematica/ma04-oa-07.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 08 · Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2](curriculum/4-basico/matematica/ma04-oa-08.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 09 · Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8,…](curriculum/4-basico/matematica/ma04-oa-09.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 10 · Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera…](curriculum/4-basico/matematica/ma04-oa-10.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 11 · Describir y representar decimales (décimos y centésimos)](curriculum/4-basico/matematica/ma04-oa-11.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 12 · Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en…](curriculum/4-basico/matematica/ma04-oa-12.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 13 · Identificar y describir patrones numéricos en tablas que involucren una operación, de manera manual…](curriculum/4-basico/matematica/ma04-oa-13.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 14 · Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando…](curriculum/4-basico/matematica/ma04-oa-14.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 15 · Describir la localización absoluta de un objeto en un mapa simple con coordenadas informales (por…](curriculum/4-basico/matematica/ma04-oa-15.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 16 · Determinar las vistas de figuras 3D, desde el frente, desde el lado y desde arriba](curriculum/4-basico/matematica/ma04-oa-16.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 17 · Demostrar que comprenden una línea de simetría](curriculum/4-basico/matematica/ma04-oa-17.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 18 · Trasladar, rotar y reflejar figuras 2D](curriculum/4-basico/matematica/ma04-oa-18.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 19 · Construir ángulos con el transportador y compararlos](curriculum/4-basico/matematica/ma04-oa-19.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 20 · Leer y registrar diversas mediciones del tiempo en relojes análogos y digitales, usando los conceptos…](curriculum/4-basico/matematica/ma04-oa-20.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 21 · Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas](curriculum/4-basico/matematica/ma04-oa-21.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 22 · Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades…](curriculum/4-basico/matematica/ma04-oa-22.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 23 · Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado](curriculum/4-basico/matematica/ma04-oa-23.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 24 · Demostrar que comprenden el concepto de volumen de un cuerpo](curriculum/4-basico/matematica/ma04-oa-24.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 25 · Realizar encuestas, analizar los datos, comparar con los resultados de muestras aleatorias, usando…](curriculum/4-basico/matematica/ma04-oa-25.md) | 5 | formacion-general-comun |
-| Matemática | [MA04 OA 26 · Realizar experimentos aleatorios lúdicos y cotidianos, y tabular y representar mediante gráficos de…](curriculum/4-basico/matematica/ma04-oa-26.md) | 4 | formacion-general-comun |
-| Matemática | [MA04 OA 27 · Leer e interpretar pictogramas y gráficos de barra simple con escala, y comunicar sus conclusiones](curriculum/4-basico/matematica/ma04-oa-27.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH a · Resolver problemas](curriculum/4-basico/matematica/de-habilidad-ma04-oah-a.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH b · Resolver problemas](curriculum/4-basico/matematica/de-habilidad-ma04-oah-b.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH c · Resolver problemas](curriculum/4-basico/matematica/de-habilidad-ma04-oah-c.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH d · Argumentar y comunicar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-d.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH e · Argumentar y comunicar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-e.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH f · Argumentar y comunicar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-f.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH g · Argumentar y comunicar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-g.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH h · Argumentar y comunicar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-h.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH i · Modelar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-i.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH j · Modelar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-j.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH k · Modelar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-k.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH l · Representar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-l.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH m · Representar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-m.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA04 OAH n · Representar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-n.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 01 · Números hasta 10.000 y valor posicional](curriculum/4-basico/matematica/ma04-oa-01.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 02 · Estrategias de cálculo mental](curriculum/4-basico/matematica/ma04-oa-02.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 03 · Adición y sustracción hasta 1.000](curriculum/4-basico/matematica/ma04-oa-03.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 04 · Propiedades del 0 y del 1](curriculum/4-basico/matematica/ma04-oa-04.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 05 · Multiplicación de tres dígitos por uno](curriculum/4-basico/matematica/ma04-oa-05.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 06 · División de dos dígitos por uno](curriculum/4-basico/matematica/ma04-oa-06.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 07 · Problemas de dinero y elección de operaciones](curriculum/4-basico/matematica/ma04-oa-07.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 08 · Fracciones en todos, conjuntos y rectas](curriculum/4-basico/matematica/ma04-oa-08.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 09 · Adición y sustracción de fracciones homogéneas](curriculum/4-basico/matematica/ma04-oa-09.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 10 · Fracciones propias y números mixtos](curriculum/4-basico/matematica/ma04-oa-10.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 11 · Décimos y centésimos](curriculum/4-basico/matematica/ma04-oa-11.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 12 · Adición y sustracción de decimales](curriculum/4-basico/matematica/ma04-oa-12.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 13 · Patrones numéricos con una operación](curriculum/4-basico/matematica/ma04-oa-13.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 14 · Ecuaciones e inecuaciones de un paso](curriculum/4-basico/matematica/ma04-oa-14.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 15 · Localización absoluta y relativa](curriculum/4-basico/matematica/ma04-oa-15.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 16 · Vistas de cuerpos 3D](curriculum/4-basico/matematica/ma04-oa-16.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 17 · Simetría en figuras 2D](curriculum/4-basico/matematica/ma04-oa-17.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 18 · Transformaciones isométricas](curriculum/4-basico/matematica/ma04-oa-18.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 19 · Construcción y comparación de ángulos](curriculum/4-basico/matematica/ma04-oa-19.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 20 · Hora en formatos A.M., P.M. y 24 horas](curriculum/4-basico/matematica/ma04-oa-20.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 21 · Conversiones de unidades de tiempo](curriculum/4-basico/matematica/ma04-oa-21.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 22 · Longitud en metros y centímetros](curriculum/4-basico/matematica/ma04-oa-22.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 23 · Área de cuadrados y rectángulos](curriculum/4-basico/matematica/ma04-oa-23.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 24 · Volumen con unidades cúbicas](curriculum/4-basico/matematica/ma04-oa-24.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 25 · Encuestas y muestras aleatorias](curriculum/4-basico/matematica/ma04-oa-25.md) | 5 | formacion-general-comun |
+| Matemática | [MA04 OA 26 · Experimentos aleatorios y representación](curriculum/4-basico/matematica/ma04-oa-26.md) | 4 | formacion-general-comun |
+| Matemática | [MA04 OA 27 · Lectura crítica de pictogramas y barras](curriculum/4-basico/matematica/ma04-oa-27.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH a · Resolver problemas: Resolver problemas dados o creados](curriculum/4-basico/matematica/de-habilidad-ma04-oah-a.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH b · Resolver problemas: Emplear diversas estrategias para resolver problemas y alcanzar respuestas adecuadas, como la estrategia de los 4 pasos: entender, planificar, hacer y comprobar](curriculum/4-basico/matematica/de-habilidad-ma04-oah-b.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH c · Resolver problemas: Transferir los procedimientos utilizados en situaciones ya resueltas a problemas similares](curriculum/4-basico/matematica/de-habilidad-ma04-oah-c.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH d · Argumentar y comunicar: Formular preguntas para profundizar el conocimiento y la comprensión](curriculum/4-basico/matematica/de-habilidad-ma04-oah-d.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH e · Argumentar y comunicar: Descubrir regularidades matemáticas -la estructura de las operaciones inversas, el valor posicional en el sistema decimal, patrones como los múltiplos- y comunicarlas a otros](curriculum/4-basico/matematica/de-habilidad-ma04-oah-e.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH f · Argumentar y comunicar: Hacer deducciones matemáticas](curriculum/4-basico/matematica/de-habilidad-ma04-oah-f.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH g · Argumentar y comunicar: Comprobar una solución y fundamentar su razonamiento](curriculum/4-basico/matematica/de-habilidad-ma04-oah-g.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH h · Argumentar y comunicar: Escuchar el razonamiento de otros para enriquecerse y para corregir errores](curriculum/4-basico/matematica/de-habilidad-ma04-oah-h.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH i · Modelar: Aplicar, seleccionar, modificar y evaluar modelos que involucren las cuatro operaciones con números naturales y fracciones, la ubicación en la recta numérica y el plano y el análisis de datos](curriculum/4-basico/matematica/de-habilidad-ma04-oah-i.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH j · Modelar: Expresar, a partir de representaciones pictóricas y explicaciones dadas, acciones y situaciones cotidianas en lenguaje matemático](curriculum/4-basico/matematica/de-habilidad-ma04-oah-j.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH k · Modelar: Identificar regularidades en expresiones numéricas y geométricas](curriculum/4-basico/matematica/de-habilidad-ma04-oah-k.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH l · Representar: Utilizar formas de representación adecuadas, como esquemas y tablas, con un lenguaje técnico específico y con los símbolos matemáticos correctos](curriculum/4-basico/matematica/de-habilidad-ma04-oah-l.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH m · Representar: Crear un problema real a partir de una expresión matemática, una ecuación o una representación](curriculum/4-basico/matematica/de-habilidad-ma04-oah-m.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA04 OAH n · Representar: Transferir una situación de un nivel de representación a otro (por ejemplo: de lo concreto a lo pictórico y de lo pictórico a lo simbólico, y viceversa). Actitud](curriculum/4-basico/matematica/de-habilidad-ma04-oah-n.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA04 OAA A · Manifestar un estilo de trabajo ordenado y metódico](curriculum/4-basico/matematica/de-actitud-ma04-oaa-a.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA04 OAA B · Abordar de manera flexible y creativa la búsqueda de soluciones a problemas](curriculum/4-basico/matematica/de-actitud-ma04-oaa-b.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA04 OAA C · Manifestar curiosidad e interés por el aprendizaje de las matemáticas](curriculum/4-basico/matematica/de-actitud-ma04-oaa-c.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA04 OAA D · Manifestar una actitud positiva frente a sí mismo y sus capacidades](curriculum/4-basico/matematica/de-actitud-ma04-oaa-d.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA04 OAA E · Demostrar una actitud de esfuerzo y perseverancia](curriculum/4-basico/matematica/de-actitud-ma04-oaa-e.md) | 4 | formacion-general-comun |
-| Matemática | [de Actitud MA04 OAA F · Expresar y escuchar ideas de forma respetuosa. Unidad de Currículum y Evaluación Ministerio de…](curriculum/4-basico/matematica/de-actitud-ma04-oaa-f.md) | 4 | formacion-general-comun |
+| Matemática | [de Actitud MA04 OAA F · Expresar y escuchar ideas de forma respetuosa](curriculum/4-basico/matematica/de-actitud-ma04-oaa-f.md) | 4 | formacion-general-comun |
 | Música | [MU04 OA 01 · Escuchar cualidades del sonido (altura, timbre, intensidad, duración) y elementos del lenguaje…](curriculum/4-basico/musica/mu04-oa-01.md) | 5 | formacion-general-comun |
 | Música | [MU04 OA 02 · Expresar, mostrando grados crecientes de elaboración, sensaciones, emociones e ideas que les sugiere…](curriculum/4-basico/musica/mu04-oa-02.md) | 4 | formacion-general-comun |
 | Música | [MU04 OA 03 · Escuchar música en forma abundante de diversos contextos y culturas poniendo énfasis en](curriculum/4-basico/musica/mu04-oa-03.md) | 5 | formacion-general-comun |

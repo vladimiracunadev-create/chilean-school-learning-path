@@ -15,6 +15,7 @@ from scripts.grade_three_math_language_lessons import LANGUAGE as GRADE_THREE_LA
 from scripts.grade_three_science_history_lessons import HISTORY as GRADE_THREE_HISTORY_SEQUENCES, HISTORY_ATTITUDES as GRADE_THREE_HISTORY_ATTITUDES, HISTORY_SKILLS as GRADE_THREE_HISTORY_SKILLS, SCIENCE as GRADE_THREE_SCIENCE_SEQUENCES, SCIENCE_ATTITUDES as GRADE_THREE_SCIENCE_ATTITUDES, SCIENCE_SKILLS as GRADE_THREE_SCIENCE_SKILLS, build_sequence as build_grade_three_sh_sequence, complete_history_pilot
 from scripts.grade_three_arts_pe_english_indigenous_lessons import AR as GRADE_THREE_ART_SEQUENCES, ATTITUDES as GRADE_THREE_APEI_ATTITUDES, EF as GRADE_THREE_PE_SEQUENCES, EN as GRADE_THREE_ENGLISH_SEQUENCES, LC as GRADE_THREE_INDIGENOUS_SEQUENCES, build_sequence as build_grade_three_apei_sequence
 from scripts.grade_three_music_orientation_technology_lessons import ATTITUDES as GRADE_THREE_MOT_ATTITUDES, MU as GRADE_THREE_MUSIC_SEQUENCES, OR as GRADE_THREE_ORIENTATION_SEQUENCES, TE as GRADE_THREE_TECHNOLOGY_SEQUENCES, build_sequence as build_grade_three_mot_sequence
+from scripts.grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -36,8 +37,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 2180)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1073)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 2298)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1160)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -49,7 +50,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 2180)
+        self.assertEqual(len(developed), 2298)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -148,7 +149,7 @@ class SchoolProgramTests(unittest.TestCase):
         main_readme = (ROOT / "README.md").read_text(encoding="utf-8")
         first_main = main_readme.split("## 🧒 1° básico · desarrollo OA por OA", 1)[1].split("## 📐 2° básico · desarrollo OA por OA", 1)[0]
         second_main = main_readme.split("## 📐 2° básico · desarrollo OA por OA", 1)[1].split("## 🧭 3° básico · desarrollo OA por OA", 1)[0]
-        third_main = main_readme.split("## 🧭 3° básico · desarrollo OA por OA", 1)[1].split("## 🔧 Cómo se mejora cualquiera de los tres niveles", 1)[0]
+        third_main = main_readme.split("## 🧭 3° básico · desarrollo OA por OA", 1)[1].split("## 🔢 Matemática de 4° básico · asignatura completa", 1)[0]
         subject_slugs = {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 1}
         for slug in subject_slugs:
             self.assertIn(f"docs/1-basico/{slug}.md", first_main, slug)
@@ -356,6 +357,27 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "desarrollada" for item in grade_three), 757)
         self.assertEqual(sum(item["editorial_status"] == "integrada" for item in grade_three), 379)
         self.assertFalse([item for item in grade_three if item["editorial_status"] in {"secuenciada", "borrador"}])
+
+    def test_fourth_grade_mathematics_is_complete_and_specific(self):
+        sequences = [build_grade_four_math_sequence(code) for code in sorted(GRADE_FOUR_MATH_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual(len(sequences), 27)
+        self.assertEqual(len(lessons), 118)
+        for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+            self.assertEqual(len({lesson[field] for lesson in lessons}), 118, field)
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertEqual(
+            {link["code"] for lesson in lessons for link in lesson["transversal"]},
+            {code for code, _ in GRADE_FOUR_MATH_SKILLS + GRADE_FOUR_MATH_ATTITUDES},
+        )
+        mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 4 and item["subject_slug"] == "matematica"]
+        self.assertEqual(sum(item["editorial_status"] == "desarrollada" for item in mathematics), 118)
+        self.assertEqual(sum(item["editorial_status"] == "integrada" for item in mathematics), 87)
+        self.assertFalse([item for item in mathematics if item["editorial_status"] in {"secuenciada", "borrador"}])
+        guide = (ROOT / "docs/4-basico/matematica.md").read_text(encoding="utf-8")
+        for token in ("118 clases desarrolladas", "87 experiencias integradas", "Continuidad con 3° básico", "Anatomía estable", "Recorrido OA por OA", "Preparación y materiales", "Acceso y profundización"):
+            self.assertIn(token, guide)
+        self.assertTrue((ROOT / "site/docs/4-basico/matematica.html").is_file())
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]

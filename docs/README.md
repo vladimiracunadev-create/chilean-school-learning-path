@@ -36,6 +36,7 @@ Aquí puedes responder:
 | Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
 | Recorrer 2° básico | [Índice maestro](2-basico/README.md) | 247 OA, 11 asignaturas completas y acceso a cada guía |
 | Recorrer 3° básico | [Índice maestro](3-basico/README.md) | 257 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
+| Preparar Matemática de 4° | [Guía completa](4-basico/matematica.md) | 27 OA de contenido, progresión, 118 clases y 87 integraciones |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -92,12 +93,12 @@ flowchart TD
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
 | Borradores | 0 en 1°, 2° y 3° | los niveles completos no conservan plantillas pendientes |
-| Desarrolladas | 2.180 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 1.073 | habilidades o actitudes incorporadas en clases de contenido |
+| Desarrolladas | 2.298 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 1.160 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379. Los tres niveles tienen once asignaturas completas y cero propuestas pendientes. Las otras 11 clases desarrolladas son pilotos de 4° y 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379. Los tres niveles tienen once asignaturas completas y cero propuestas pendientes. Matemática de 4° suma 118 clases y 87 integraciones, también sin pendientes en la asignatura. Las otras 11 clases desarrolladas son pilotos de Ciencias de 4° y Lengua y Literatura de 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -121,6 +122,7 @@ README.md
 ├── docs/TERCERO_BASICO.md         ← mapa técnico de 3° básico
 ├── docs/3-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
+├── docs/4-basico/matematica.md    ← Matemática de 4° completa
 ├── TEACHING_GUIDE.md              ← conducción pedagógica
 ├── docs/RUBRICA_EVALUACION.md     ← evidencia y decisión
 ├── docs/FAQ.md                    ← dudas y límites

@@ -53,6 +53,8 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 
 Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. En 3° básico, 165 OA de contenido producen 757 clases y 92 OA transversales se materializan en 379 experiencias. Los tres niveles tienen desarrollo interno completo y revisión humana pendiente.
 
+En Matemática de 4° básico, 27 OA de contenido producen 118 clases y 20 OA de habilidades y actitudes se materializan en 87 experiencias integradas. La asignatura está completa, pero el nivel todavía no lo está.
+
 ## 5. Generación reproducible
 
 `scripts/generate_school_program.py` produce:
