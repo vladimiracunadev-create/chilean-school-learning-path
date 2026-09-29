@@ -140,6 +140,20 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertNotIn("Unidad de Currículum", integration["lessons"][0]["goal"])
         self.assertNotIn("Unidad de Currículum", integration["lessons"][0]["model"])
 
+    def test_second_grade_documentation_matches_first_grade_depth(self):
+        first_index = (ROOT / "docs/1-basico/README.md").read_text(encoding="utf-8")
+        second_index = (ROOT / "docs/2-basico/README.md").read_text(encoding="utf-8")
+        self.assertGreaterEqual(second_index.count("\n## "), first_index.count("\n## "))
+        self.assertTrue((ROOT / "docs/SEGUNDO_BASICO.md").is_file())
+        subject_slugs = {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 1}
+        for slug in subject_slugs:
+            first = (ROOT / "docs/1-basico" / f"{slug}.md").read_text(encoding="utf-8")
+            second = (ROOT / "docs/2-basico" / f"{slug}.md").read_text(encoding="utf-8")
+            self.assertGreaterEqual(second.count("\n## "), first.count("\n## "), slug)
+            self.assertIn("Continuidad con 1° básico", second, slug)
+            self.assertIn("Anatomía estable de cada clase", second, slug)
+            self.assertIn("Preparación y materiales", second, slug)
+
     def test_second_grade_language_science_and_history_are_specific(self):
         expected = {
             "LE": (GRADE_TWO_LANGUAGE_SEQUENCES, 149, GRADE_TWO_LANGUAGE_ATTITUDES),

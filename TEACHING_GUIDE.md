@@ -2,7 +2,7 @@
 
 Esta guía ayuda a transformar una ficha del portal en una experiencia enseñable. La secuencia es un punto de partida: el docente conserva el OA y ajusta ritmo, acceso, contexto y profundidad según la evidencia del curso.
 
-[Abrir 1° básico](docs/1-basico/README.md) · [Índice curricular](CURRICULUM.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
+[Abrir 1° básico](docs/1-basico/README.md) · [Abrir 2° básico](docs/2-basico/README.md) · [Índice curricular](CURRICULUM.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
 
 ## Antes de la clase
 
@@ -77,7 +77,7 @@ La profundización debe seguir vinculada al OA y no convertir siempre al estudia
 
 La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla estos niveles y propone un registro mínimo.
 
-## Consideraciones para 1° básico
+## Consideraciones para 1° y 2° básico
 
 - Alterna oralidad, manipulación, movimiento, dibujo y símbolo.
 - Mantén consignas breves, visibles y demostradas.
@@ -86,6 +86,8 @@ La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla est
 - Evita exigir escritura extensa cuando el OA evalúa otro aprendizaje.
 - En Orientación, permite trabajar con casos ficticios y ofrece derecho a pasar.
 - En lengua y cultura de pueblos originarios, evita generalizaciones y promueve validación local o comunitaria.
+- En 2° básico, recupera explícitamente el aprendizaje de 1° antes de ampliar rango, vocabulario, precisión o autonomía.
+- No conviertas el cambio de nivel en retiro automático de apoyos: retíralos según evidencia observable.
 
 ## Errores frecuentes al usar el repositorio
 

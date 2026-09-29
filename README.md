@@ -182,7 +182,7 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 
 ## 🧭 Rutas según quién usa el repositorio
 
-- **Docente de 1° básico:** empieza en el [programa del nivel](docs/1-basico/README.md) y continúa con la guía de su asignatura.
+- **Docente de 1° o 2° básico:** empieza en el [programa de 1°](docs/1-basico/README.md) o el [programa de 2°](docs/2-basico/README.md) y continúa con la guía de su asignatura.
 - **Docente especialista:** revisa la progresión disciplinar y luego abre el OA en el [índice curricular](CURRICULUM.md).
 - **Educación diferencial o equipo de apoyo:** acuerda responsabilidades en [Roles profesionales](docs/ROLES_DOCENTES.md) y selecciona acciones en [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md).
 - **Coordinación pedagógica o UTP:** contrasta [Cobertura](docs/COBERTURA.md), [Estado editorial](EDITORIAL_STATUS.md) y [Estándar de calidad](QUALITY_STANDARD.md).
@@ -193,7 +193,7 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 
 ### Cómo usarlo en seis pasos
 
-1. Elige una asignatura y un OA dentro del [programa de 1° básico](docs/1-basico/README.md).
+1. Elige una asignatura y un OA dentro del [programa de 1° básico](docs/1-basico/README.md) o del [programa de 2° básico](docs/2-basico/README.md).
 2. Lee la secuencia completa del OA antes de preparar una clase.
 3. Define la evidencia y los criterios que observarás.
 4. Ajusta contexto, materiales, acceso y duración al curso real.
@@ -238,7 +238,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 ### Comprender el programa
 
 - [Centro documental](docs/README.md)
-- [Syllabus de 1° básico](docs/SYLLABUS.md)
+- [Syllabus de 1° y 2° básico](docs/SYLLABUS.md)
 - [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
 - [Glosario educativo](docs/GLOSARIO.md)
 - [Preguntas frecuentes](docs/FAQ.md)
@@ -246,6 +246,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 ### Enseñar, adaptar y evaluar
 
 - [Programa de 1° básico](docs/1-basico/README.md)
+- [Programa de 2° básico](docs/2-basico/README.md)
 - [Guía pedagógica](TEACHING_GUIDE.md)
 - [Roles profesionales](docs/ROLES_DOCENTES.md)
 - [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md)

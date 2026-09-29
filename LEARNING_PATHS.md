@@ -2,9 +2,9 @@
 
 No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-## Docente de 1° básico · preparar y enseñar
+## Docente de 1° o 2° básico · preparar y enseñar
 
-1. Abre el [mapa de 1° básico](docs/PRIMERO_BASICO.md).
+1. Abre el [mapa de 1° básico](docs/PRIMERO_BASICO.md) o el [mapa de 2° básico](docs/SEGUNDO_BASICO.md).
 2. Elige asignatura y OA desde el portal.
 3. Revisa la clase anterior y siguiente para entender la progresión.
 4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.

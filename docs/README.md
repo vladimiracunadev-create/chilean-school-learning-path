@@ -55,19 +55,19 @@ Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisit
 
 Las once guías de [1° básico](1-basico/README.md) y las once de [2° básico](2-basico/README.md) se generan desde la misma fuente que el catálogo y el portal.
 
-| Asignatura | Guía |
-|---|---|
-| Artes Visuales | [Leer](1-basico/artes-visuales.md) |
-| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) |
-| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) |
-| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) |
-| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
-| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) |
-| Matemática | [Leer](1-basico/matematica.md) |
-| Música | [Leer](1-basico/musica.md) |
-| Orientación | [Leer](1-basico/orientacion.md) |
-| Tecnología | [Leer](1-basico/tecnologia.md) |
+| Asignatura | 1° básico | 2° básico |
+|---|---|---|
+| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) |
+| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) |
+| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) |
+| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) |
+| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) |
+| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) |
+| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) |
 
 ## 🧠 Flujo de uso
 
@@ -114,6 +114,7 @@ README.md
 ├── docs/LICENCIAS.md              ← guía simple de reutilización
 ├── docs/1-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
+├── docs/SEGUNDO_BASICO.md         ← mapa técnico de 2° básico
 ├── docs/2-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica

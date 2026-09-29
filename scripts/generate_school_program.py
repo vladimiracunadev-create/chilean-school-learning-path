@@ -443,12 +443,23 @@ def grade_two_page(objs,classes):
 
 def grade_two_index_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_two_summary(objs,classes)
- lines=["# 📚 2° básico · desarrollo pedagógico interno completo","","> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice curricular](../../CURRICULUM.md) · [📊 Cobertura](../COBERTURA.md)","",f"**{len(grade_classes):,} propuestas · {len(grade_objs)} OA · 11 asignaturas · 721 clases desarrolladas · 351 experiencias integradas · 0 propuestas secuenciadas · revisión humana pendiente**".replace(",","."),"","## Alcance","","Las once asignaturas del nivel cuentan con secuencias específicas. Los OA transversales se integran dentro de las clases de contenido y no se cuentan como clases independientes. Completo describe el desarrollo interno; la revisión profesional humana sigue pendiente.","","## Las 11 asignaturas","","| Asignatura | OA totales | Propuestas | Desarrolladas | Integradas | Secuenciadas | Estado |","|---|---:|---:|---:|---:|---:|---|"]
+ developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes)
+ lines=["# 📚 2° básico con desarrollo interno completo","","> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)","",f"**{len(grade_classes):,} propuestas · {len(grade_objs)} OA · 11 asignaturas · {developed} clases desarrolladas · {integrated} experiencias integradas · 0 propuestas pendientes · revisión humana pendiente**".replace(",","."),"",
+  "## 🎯 De qué trata este nivel","","2° básico consolida los lenguajes iniciados en 1° y aumenta gradualmente rango, precisión y autonomía: lectura y escritura con propósito, número hasta 1.000, indagación y explicación, uso de fuentes y mapas, creación artística y musical, combinación motriz, convivencia, identidad y diseño tecnológico. Cada disciplina conserva su método y explicita la continuidad con el nivel anterior.","",
+  "## 🧩 Problemas que busca resolver","","- Convertir 247 OA en secuencias enseñables sin tratarlos como actividades aisladas.","- Hacer explícita la continuidad con 1° sin suponer aprendizajes automatizados.","- Evitar clases intercambiables entre asignaturas o repetidas dentro de un OA.","- Recoger evidencia individual y usarla para avanzar, apoyar o reenseñar.","- Integrar habilidades y actitudes sin inflar el número de clases.","- Mantener resguardos de privacidad, seguridad, contexto cultural y autoría.","",
+  "## 🎓 Resultados transversales","","Al terminar el nivel, y según los OA oficiales de cada asignatura, se espera que el estudiante amplíe su capacidad para:","","- comprender, producir y revisar mensajes mediante oralidad, escritura, cuerpo, imagen, sonido y símbolo;","- representar cantidades, relaciones, tiempo, espacio, datos y fenómenos con mayor precisión;","- observar, preguntar, contrastar fuentes y explicar usando evidencia;","- crear, probar, revisar y justificar decisiones;","- participar de forma segura, respetuosa y progresivamente autónoma;","- relacionar identidad, territorio, comunidad y diversidad sin estereotipos.","",
+  "## 🧱 Prerrequisitos y continuidad","","El punto de entrada es la evidencia, no la etiqueta del curso. Cada secuencia recupera conocimientos de 1° mediante una tarea breve; cuando una base no está disponible, la reincorpora con modelado y apoyo antes de ampliar el desafío. Las guías de asignatura indican qué continuidad se espera y cómo comprobarla.","",
+  "## 🧭 Cómo recorrer el programa","","1. Elige asignatura y eje.","2. Lee la continuidad con 1° y la progresión completa de la guía.","3. Abre el OA y revisa todas sus clases antes de enseñar la primera.","4. Define evidencia y criterios; luego prepara materiales, seguridad y accesos.","5. Enseña, observa y adapta. El calendario no reemplaza la evidencia.","",
+  "## 🗂️ Las 11 asignaturas","","| Asignatura | OA | Propuestas | Qué aporta | Guía |","|---|---:|---:|---|---|"]
  for subject in subjects:
-  pending=subject["classes"]-subject["developed"]-subject["integrated"]
-  state=f"[Desarrollo interno completo]({subject['slug']}.md)"
-  lines.append(f"| {subject['name']} | {subject['oa']} | {subject['classes']} | {subject['developed']} | {subject['integrated']} | {pending} | {state} |")
- lines += ["","## Cómo usar el nivel","","1. Elige la asignatura y revisa su propósito y ejes.","2. Abre el OA y lee la secuencia completa antes de seleccionar una clase.","3. Conserva la meta y la evidencia al adaptar materiales, tiempos o vías de respuesta.","4. Registra qué requiere reenseñanza y no confundas validación automática con revisión humana.","","## Estados y límites","","- **Desarrollada:** contenido disciplinar específico con modelado, práctica, evidencia, apoyo y decisión posterior.","- **Integrada:** habilidad o actitud observada dentro de una clase de contenido; no se cuenta como clase autónoma.","- **Secuenciada:** OA ubicado y dosificado, todavía sin desarrollo; quedan 0 en este nivel.","- **Revisada:** requiere evidencia humana competente; actualmente hay 0.",""]
+  profile=GRADE_TWO_SUBJECT_PROFILES[subject["slug"]]
+  lines.append(f"| {subject['name']} | {subject['oa']} | {subject['classes']} | {profile['purpose']} | [📘 Leer](./{subject['slug']}.md) |")
+ lines += ["","## 🧠 Progresión pedagógica común","","~~~mermaid","flowchart TD","    A[Recuperar y diagnosticar 1°] --> B[Lenguaje disciplinar]","    B --> C[Modelado con ejemplo y error]","    C --> D[Práctica guiada]","    D --> E[Desempeño individual]","    E --> F[Evidencia y criterios]","    F --> G{¿Qué necesita el curso?}","    G -->|Dominio| H[Profundizar y transferir]","    G -->|Apoyo puntual| D","    G -->|Otra explicación| B","~~~","",
+  "## ⏱️ Ritmo y planificación","","Las 1.072 propuestas representan una biblioteca asociada a toda la oferta curricular registrada, no un horario para cursarlas simultáneamente. La selección depende del plan aplicable, las horas disponibles, el contexto lingüístico y cultural y la evidencia del curso.","","| Escala | Uso recomendado |","|---|---|","| Año | Seleccionar OA aplicables, hitos, evaluaciones y conexiones con 1° |","| Unidad | Ordenar OA, prerrequisitos, productos y evidencia acumulativa |","| Semana | Elegir clases, anticipar materiales, grupos, seguridad y apoyos |","| Clase | Ajustar tiempos y recoger evidencia para la decisión siguiente |","",
+  "## 🧱 Anatomía de una clase","","| Sección | Para qué sirve |","|---|---|","| Propósito docente y meta estudiantil | Alinear enseñanza y comprensión esperada |","| Inicio | Recuperar 1° y diagnosticar |","| Modelado | Hacer visible contenido, decisión y error |","| Práctica guiada | Ensayar con apoyo |","| Desempeño individual | Comprobar aprendizaje atribuible |","| Apoyo y profundización | Ajustar acceso y desafío |","| Ticket y criterios | Reunir evidencia breve y observable |","| Decisión posterior | Avanzar, reagrupar o reenseñar |","",
+  "## 📊 Cómo se evalúa","","La evaluación es formativa y descriptiva. La [rúbrica](../RUBRICA_EVALUACION.md) distingue logro autónomo, aprendizaje en desarrollo, necesidad de otra vía de acceso y ausencia de evidencia suficiente. Las integraciones transversales se observan en desempeños concretos y no como rasgos de personalidad.","",
+  "## 🔎 Estados y límites","","- **Desarrollada:** contenido disciplinar específico con modelado, práctica, evidencia, apoyo y decisión posterior.","- **Integrada:** habilidad o actitud observada dentro de una clase de contenido; no se cuenta como clase autónoma.","- **Secuenciada:** OA ubicado y dosificado, todavía sin desarrollo; quedan 0 en este nivel.","- **Revisada:** requiere evidencia humana competente; actualmente hay 0.","",
+  "## 🔗 Documentos relacionados","","- [Mapa técnico del nivel](../SEGUNDO_BASICO.md)","- [Syllabus completo](../SYLLABUS.md)","- [Guía docente](../../TEACHING_GUIDE.md)","- [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)","- [Preguntas frecuentes](../FAQ.md)","- [Guía para familias](../GUIA_FAMILIAS.md)","- [Protocolo de revisión humana](../REVISION_HUMANA.md)","- [Fuentes oficiales](../../OFFICIAL_REFERENCES.md)",""]
  return "\n".join(lines)
 
 def grade_two_math_documentation(objs,classes):
@@ -474,27 +485,84 @@ GRADE_TWO_PURPOSES={
  "ingles-propuesta":"Comprender y producir mensajes breves en inglés mediante escucha, lectura, interacción y escritura apoyadas, sin exigir acento nativo.",
  "lengua-cultura-pueblos-originarios-ancestrales":"Aprender desde lengua, territorio, memoria y saberes de cada pueblo con fuentes comunitarias pertinentes, sin inventar ni apropiarse.",
  "lenguaje-comunicacion":"Integrar lectura, escritura y oralidad para comprender textos, producir con propósito, conversar y ampliar vocabulario.",
+ "matematica":"Consolidar sentido numérico hasta 1.000, operaciones y estrategias hasta 100, multiplicación inicial, patrones, igualdad, geometría, tiempo, longitud y datos mediante representación, explicación y comprobación.",
  "musica":"Escuchar, representar, interpretar, improvisar y compartir música mediante cualidades sonoras, pulso, patrones y contextos diversos.",
  "orientacion":"Fortalecer identidad, emociones, autocuidado, convivencia, pertenencia y hábitos de aprendizaje mediante casos seguros y decisiones aplicables.",
  "tecnologia":"Diseñar, elaborar, probar y mejorar soluciones; usar dibujo digital, textos e internet con propósito, seguridad y respeto de autoría.",
 }
 
+GRADE_TWO_CONTINUITY={
+ "artes-visuales":"Retoma la exploración libre de 1° y exige observar referentes con más detalle, combinar materialidades y explicar cómo una decisión visual comunica una idea.",
+ "ciencias-naturales":"Parte de observar y comparar el entorno en 1° para avanzar hacia preguntas investigables, registros más sistemáticos y explicaciones apoyadas en evidencia.",
+ "educacion-fisica-salud":"Recupera habilidades motrices básicas y amplía control, combinación de movimientos, cooperación, autocuidado y lectura de las señales del propio cuerpo.",
+ "historia-geografia-ciencias-sociales":"Profundiza las nociones de identidad, tiempo y espacio de 1° mediante fuentes, mapas, patrimonio, diversidad cultural y decisiones de convivencia.",
+ "ingles-propuesta":"Amplía las rutinas orales y el vocabulario de 1° hacia comprensión de textos breves, interacciones con seguimiento y producciones apoyadas con propósito.",
+ "lengua-cultura-pueblos-originarios-ancestrales":"Continúa el vínculo entre lengua, memoria y territorio con mayor producción situada, siempre según el contexto lingüístico real y la validación comunitaria pertinente.",
+ "lenguaje-comunicacion":"Consolida decodificación, comprensión, escritura emergente y conversación de 1° para leer textos más variados, revisar producciones y justificar interpretaciones.",
+ "matematica":"Amplía el sentido numérico hasta 1.000, las estrategias aditivas, la multiplicación inicial, la geometría, la medición y los datos sin abandonar representaciones ni comprobación.",
+ "musica":"Retoma escucha, pulso e interpretación de 1° y amplía la capacidad de representar, variar, improvisar y comentar decisiones musicales.",
+ "orientacion":"Da continuidad al reconocimiento emocional, el autocuidado y la convivencia de 1° mediante decisiones más autónomas, hábitos y estrategias para resolver situaciones ficticias.",
+ "tecnologia":"Profundiza el ciclo de diseño de 1° incorporando criterios de prueba, mejora documentada y uso inicial seguro de herramientas digitales.",
+}
+
+GRADE_TWO_SUBJECT_PROFILES={
+ slug: GRADE_ONE_SUBJECT_PROFILES[slug] | {"purpose":purpose,"continuity":GRADE_TWO_CONTINUITY[slug]}
+ for slug,purpose in GRADE_TWO_PURPOSES.items()
+}
+
+def grade_two_documentation(objs,classes):
+ grade_objs,grade_classes,subjects=grade_two_summary(objs,classes)
+ developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes);pending=sum(x["editorial_status"]=="secuenciada" for x in grade_classes)
+ lines=["# 2° básico — mapa de contenidos","",f"> **Desarrollo pedagógico interno completo:** {developed} clases desarrolladas · {integrated} experiencias transversales integradas · {pending} propuestas pendientes · 247 OA · 11 asignaturas · revisión humana pendiente.","","[Programa narrativo de 2° básico](2-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)","","Todos los OA disciplinares del nivel cuentan con secuencias específicas. Las entradas **integradas** corresponden a habilidades o actitudes observadas dentro de esas clases y no se cuentan como clases independientes. El estado **revisada** permanece en cero hasta registrar revisión profesional competente.","",
+  "## Cómo usar este mapa","","1. Elige una asignatura y revisa continuidad, ejes, OA y propuestas.","2. Comprueba el estado editorial y la fuente antes de usar una clase.","3. Revisa ejemplo disciplinar, evidencia, seguridad y acciones ante dificultades.","4. Adapta materiales, apoyos y duración sin cambiar el aprendizaje central.","5. Documenta observaciones y revisión profesional antes de declarar la secuencia revisada.","",
+  "## Continuidad con 1° básico","","Cada secuencia comienza recuperando una representación, estrategia, práctica o vocabulario trabajado en 1°. Esa recuperación es diagnóstica: no presume automatización y determina el apoyo necesario antes de ampliar rango, precisión o autonomía.","",
+  "## Progresión sugerida","","~~~mermaid","flowchart LR","    A[Recuperar 1°] --> B[Lenguaje y representación]","    B --> C[Práctica con apoyo]","    C --> D[Desempeño individual]","    D --> E[Evidencia y decisión]","~~~","","Esta progresión orienta la enseñanza, pero no sustituye el análisis específico de cada OA.","",
+  "## Cobertura","","| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Pendientes |","|---|---:|---:|---:|---:|---:|"]
+ for item in subjects:
+  subject_pending=item["classes"]-item["developed"]-item["integrated"]
+  lines.append(f"| {item['name']} | {item['oa']} | {item['classes']} | {item['developed']} | {item['integrated']} | {subject_pending} |")
+ lines += ["","## Cómo se ve una clase desarrollada","","Una clase desarrollada contiene alineación curricular específica, propósito, meta estudiantil, continuidad con aprendizajes previos, ejemplo concreto, modelado disciplinar, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios y decisión posterior.","",
+  "## Criterios de diseño para 2° básico","","- Recuperación explícita de aprendizajes de 1° sin asumir automatización.","- Aumento gradual de rango, vocabulario, precisión y autonomía.","- Contenido y ejemplos propios del OA y de la disciplina.","- Respuestas simultáneas y evidencia individual.","- Integración observable de habilidades y actitudes sin duplicar clases.","- Materiales viables, seguridad, privacidad, contexto cultural y alternativa sin conectividad.","",
+  "## Decisiones con evidencia","","- **Logrado con autonomía:** avanzar o proponer transferencia.","- **En desarrollo:** mantener el OA y entregar apoyo puntual.","- **Requiere otra vía de acceso:** cambiar representación, ejemplo o forma de respuesta.","- **Sin evidencia suficiente:** ofrecer otra oportunidad antes de concluir.","",
+  "## Fuente de verdad y límites","",f"El catálogo registra {len(grade_objs)} OA y {len(grade_classes):,} propuestas; {developed} están desarrolladas, {integrated} integradas y {pending} permanecen pendientes.".replace(",",".")+" Ninguna se declara revisada hasta registrar evidencia humana competente.","",
+  "## Verificación","","La CI comprueba estados, campos, páginas, paridad documental y reproducibilidad. No sustituye la revisión disciplinar o pedagógica.","",
+  "## Documentos relacionados","","- [Centro de documentación](README.md)","- [Guía pedagógica](../TEACHING_GUIDE.md)","- [Metodología](../METHODOLOGY.md)","- [Estado editorial](../EDITORIAL_STATUS.md)","- [Roadmap](../ROADMAP.md)",""]
+ return "\n".join(lines)
+
 def grade_two_subject_documentation(subject,objectives,previous_subject=None,next_subject=None):
+ profile=GRADE_TWO_SUBJECT_PROFILES[subject["slug"]]
  core=[item for item in objectives if item.get("developed")]
  transverse=[item for item in objectives if item.get("integration")]
  class_count=sum(len(item["phases"]) for item in core)
  integrated_count=sum(len(item["phases"]) for item in transverse)
  axes=sorted({item["axis"] for item in objectives})
- previous_link=f"[← {previous_subject['name']}]({previous_subject['slug']}.md)" if previous_subject else "[← Mapa de 2° básico](README.md)"
- next_link=f"[{next_subject['name']} →]({next_subject['slug']}.md)" if next_subject else "[Mapa de 2° básico →](README.md)"
- lines=[f"# {subject['name']} · 2° básico","",f"> {previous_link} · [Mapa del nivel](README.md) · {next_link}","",f"**{len(core)} OA de contenido · {class_count} clases desarrolladas · {len(transverse)} OA transversales · {integrated_count} experiencias integradas · {len(axes)} ejes · revisión humana pendiente**","",f"> **Estado editorial:** desarrollo pedagógico interno completo. Esto no declara revisión disciplinar humana.","","## Propósito del recorrido","",GRADE_TWO_PURPOSES[subject["slug"]],"","## Estructura por ejes","","| Eje | OA de contenido | Clases |","|---|---:|---:|"]
+ nav=["[⬅️ Índice de 2° básico](README.md)"]
+ if previous_subject:nav.append(f"[← {previous_subject['name']}]({previous_subject['slug']}.md)")
+ if next_subject:nav.append(f"[{next_subject['name']} →]({next_subject['slug']}.md)")
+ lines=[f"# {subject['name']} · 2° básico",""," · ".join(nav),"",f"**{len(core)} OA de contenido · {class_count} clases desarrolladas · {len(transverse)} OA transversales · {integrated_count} experiencias integradas · {len(axes)} ejes curriculares · bloques adaptables a 45 o 90 minutos**","",f"> **Estado editorial:** {class_count} clases desarrolladas y {integrated_count} experiencias transversales integradas. Ninguna revisión humana registrada.","",
+  "## 🎯 De qué trata esta asignatura","",profile["purpose"],"",
+  "## 🔁 Continuidad con 1° básico","",profile["continuity"],"",
+  "## 🧩 Qué problema pedagógico resuelve","",f"La secuencia evita convertir el OA en una actividad aislada. Cada objetivo avanza desde activación y modelado hacia práctica, desempeño individual y evidencia. **Alerta principal:** {profile['barrier']}","",
+  "## 🎓 Resultados de aprendizaje del recorrido","","Al trabajar los OA del nivel, se busca que cada estudiante pueda:"
+ ]
+ lines += ["",*[f"- {value.capitalize()}." for value in profile["outcomes"]],"",
+  "## 🧱 Prerrequisitos y punto de entrada","","Cada OA recupera lo aprendido en 1° mediante una tarea breve y observable. No se presupone automatización: si falta una base, se reincorpora con objetos, imágenes, oralidad o demostración antes de ampliar el rango, el vocabulario o la autonomía.","",
+  "## 🧭 Cómo recorrer la asignatura","","1. Revisa el OA completo y su eje antes de elegir una clase.","2. Mantén el orden de la secuencia mientras la evidencia confirme que el curso puede avanzar.","3. Usa la adaptación de 45 minutos sin eliminar el desempeño individual.","4. Registra el patrón observado y decide si avanzar, reagrupar o reenseñar.","",f"**Método disciplinar:** {profile['method']}","",
+  "## 🧱 Anatomía estable de cada clase","","| Momento | Función pedagógica | Evidencia |","|---|---|---|","| Inicio | Recuperar 1° y diagnosticar sin calificar | Respuesta inicial de todo el curso |","| Modelado | Hacer visible contenido, decisión y error | Reconstrucción del ejemplo o contraste |","| Práctica guiada | Ensayar con apoyo y retroalimentación | Producción compartida y ajustes observables |","| Desempeño individual | Comprobar qué puede hacer cada estudiante | Producto, acción o explicación individual |",f"| Cierre | Contrastar criterios y decidir | {profile['evidence'].capitalize()} |","",
+  "## 🗺️ Estructura por ejes","","| Eje | OA | Clases o experiencias |","|---|---:|---:|"]
  for axis in axes:
-  pool=[item for item in core if item["axis"]==axis]
+  pool=[item for item in objectives if item["axis"]==axis]
   if pool:lines.append(f"| {axis} | {len(pool)} | {sum(len(item['phases']) for item in pool)} |")
- lines += ["","## Recorrido OA por OA","","| OA | Tema | Eje | Clases | Planificación |","|---|---|---|---:|---|"]
- for item in core:
-  lines.append(f"| `{item['oa_code']}` | {item['topic']} | {item['axis']} | {len(item['phases'])} | [Abrir Markdown](../../{item['path']}) |")
- lines += ["","## Integración transversal","",f"Los {len(transverse)} OA transversales se distribuyen en {integrated_count} experiencias dentro de las {class_count} clases de contenido. No constituyen clases independientes ni se evalúan como personalidad, obediencia, identidad, talento o rapidez.","","## Contrato de calidad","","- Cada clase contiene un ejemplo o desempeño propio del OA y de la disciplina.","- El modelado hace visible una decisión; la práctica y el ticket usan un caso distinto.","- Los apoyos cambian la vía de acceso sin reducir la meta.","- La evidencia individual permite decidir avance, apoyo o reenseñanza.","- La revisión humana competente permanece pendiente y no se reemplaza con CI.","","## Fuentes y límites","",f"- [Currículum Nacional · {subject['name']} · 2° básico]({objectives[0]['subject_url']})","- [Protocolo de revisión humana](../REVISION_HUMANA.md)","- [Metodología](../../METHODOLOGY.md)",""]
+ lines += ["","~~~mermaid","flowchart LR","    A[Recuperar 1°] --> B[Modelado disciplinar]","    B --> C[Práctica guiada]","    C --> D[Desempeño individual]","    D --> E[Evidencia]","    E --> F{Decisión docente}","    F -->|Avanzar| G[Transferir o profundizar]","    F -->|Apoyar| C","    F -->|Reenseñar| B","~~~","",
+  "## 📖 Recorrido OA por OA","","La tabla funciona como índice completo de la asignatura. Distingue clases disciplinares de experiencias transversales integradas y no prescribe un calendario rígido.","","| OA | Tema de la secuencia | Eje | Propuestas | Estado | Planificación |","|---|---|---|---:|---|---|"]
+ for item in objectives:
+  state="Desarrollada" if item.get("developed") else "Integrada"
+  lines.append(f"| `{item['oa_code']}` | {item['topic']} | {item['axis']} | {len(item['phases'])} | {state} | [Abrir ficha Markdown](../../{item['path']}) |")
+ lines += ["","## 🔎 Qué observar","",f"**Evidencia central:** {profile['evidence']}.","","Los {len(transverse)} OA transversales se distribuyen en {integrated_count} experiencias dentro de las {class_count} clases de contenido. No evalúes personalidad, obediencia, identidad, talento, rapidez, volumen de voz ni presentación como sustitutos del OA.","",
+  "## 🧰 Preparación y materiales","","Cada ficha declara materiales concretos. Comprueba disponibilidad, seguridad, tiempo de distribución, alternativa sin conectividad y qué producciones deben conservarse para comparar progreso. Prepara también el apoyo que permite acceder al mismo OA.","",
+  "## ⚠️ Error frecuente y recuperación","",f"**Señal de alerta:** {profile['barrier']}","","Recupera el propósito, muestra otro ejemplo o representación, ofrece práctica breve con retroalimentación y solicita una nueva evidencia. Repetir la misma explicación más fuerte o más rápido no constituye reenseñanza.","",
+  "## ♿ Acceso y profundización","","- **Acceso:** anticipar vocabulario, fragmentar instrucciones, permitir ensayo oral, usar apoyos concretos o visuales y ofrecer formas pertinentes de respuesta.","- **Profundización:** comparar estrategias, justificar decisiones, crear un caso, mejorar el producto o transferir a una situación nueva.","",
+  "## 🔗 Fuente y límites","",f"- [Currículum Nacional · {subject['name']} · 2° básico]({objectives[0]['subject_url']})","- [Guía pedagógica](../../TEACHING_GUIDE.md)","- [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)","- [Protocolo de revisión humana](../REVISION_HUMANA.md)","","El contenido cumple el contrato automatizado del proyecto, pero no se declara revisado por especialistas hasta que exista evidencia registrada.",""]
  if subject["slug"]=="lengua-cultura-pueblos-originarios-ancestrales":
   lines += ["## Resguardos culturales","","- No se inventan palabras, pronunciaciones, grafías, relatos ni significados espirituales.","- La enseñanza se coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente cuando corresponda.","- Fortalecimiento, rescate y sensibilización se mantienen como contextos diferentes.","- No se reproducen ceremonias, símbolos o prácticas restringidas sin autorización.",""]
  return "\n".join(lines)
@@ -762,14 +830,13 @@ def main():
  grade_two_docs_root=docs_root/"2-basico";grade_two_docs_root.mkdir(parents=True,exist_ok=True)
  if not defer_generic_docs:
   (grade_two_docs_root/"README.md").write_text(grade_two_index_documentation(objs,classes),encoding="utf-8")
+  (docs_root/"SEGUNDO_BASICO.md").write_text(grade_two_documentation(objs,classes),encoding="utf-8")
   grade_two_objs,_,grade_two_subjects=grade_two_summary(objs,classes)
   for subject_index,subject in enumerate(grade_two_subjects):
-   if subject["slug"]=="matematica":content=grade_two_math_documentation(objs,classes)
-   else:
-    subject_objectives=[item for item in grade_two_objs if item["subject_slug"]==subject["slug"]]
-    previous_subject=grade_two_subjects[subject_index-1] if subject_index else None
-    next_subject=grade_two_subjects[subject_index+1] if subject_index+1<len(grade_two_subjects) else None
-    content=grade_two_subject_documentation(subject,subject_objectives,previous_subject,next_subject)
+   subject_objectives=[item for item in grade_two_objs if item["subject_slug"]==subject["slug"]]
+   previous_subject=grade_two_subjects[subject_index-1] if subject_index else None
+   next_subject=grade_two_subjects[subject_index+1] if subject_index+1<len(grade_two_subjects) else None
+   content=grade_two_subject_documentation(subject,subject_objectives,previous_subject,next_subject)
    (grade_two_docs_root/f"{subject['slug']}.md").write_text(content,encoding="utf-8")
   documentation_pages=generate_documentation_pages()
  else:documentation_pages=[]

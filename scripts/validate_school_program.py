@@ -329,8 +329,9 @@ def validate(root: Path = ROOT) -> list[str]:
         "README.md": ("12.997", "2.823", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
+        "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
         "docs/1-basico/README.md": ("Las 11 asignaturas", "Progresión pedagógica común"),
-        "docs/2-basico/README.md": ("Las 11 asignaturas", "721 clases desarrolladas", "351 experiencias integradas", "0 propuestas secuenciadas"),
+        "docs/2-basico/README.md": ("Las 11 asignaturas", "721 clases desarrolladas", "351 experiencias integradas", "Progresión pedagógica común", "Anatomía de una clase"),
         "docs/2-basico/matematica.md": ("93 clases desarrolladas", "64 experiencias integradas", "Continuidad con 1° básico"),
         "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° y 2° básico", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
@@ -346,9 +347,9 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
-        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
+        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° y 2° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
-        "LEARNING_PATHS.md": ("Docente de 1° básico", "Coordinación pedagógica o UTP"),
+        "LEARNING_PATHS.md": ("Docente de 1° o 2° básico", "Coordinación pedagógica o UTP"),
         "ROADMAP.md": ("1.434 clases desarrolladas", "2° básico", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
@@ -376,6 +377,21 @@ def validate(root: Path = ROOT) -> list[str]:
         for token in ("Resultados de aprendizaje", "Prerrequisitos", "Cómo recorrer", "Estructura por ejes", "Recorrido OA por OA", "Error frecuente", "Acceso y profundización"):
             if token not in guide:
                 errors.append(f"Guía {subject_slug} incompleta: falta {token}")
+    second_subject_guides = {path.stem for path in (root / "docs/2-basico").glob("*.md") if path.name != "README.md"}
+    if second_subject_guides != expected_subject_guides:
+        errors.append(f"Guías de asignatura de 2° básico incompletas: actuales={len(second_subject_guides)}, esperadas={len(expected_subject_guides)}")
+    first_index = (root / "docs/1-basico/README.md").read_text(encoding="utf-8")
+    second_index = (root / "docs/2-basico/README.md").read_text(encoding="utf-8")
+    if second_index.count("\n## ") < first_index.count("\n## "):
+        errors.append("El índice de 2° básico tiene menor profundidad documental que el de 1° básico")
+    for subject_slug in sorted(expected_subject_guides):
+        first_guide = (root / "docs/1-basico" / f"{subject_slug}.md").read_text(encoding="utf-8")
+        second_guide = (root / "docs/2-basico" / f"{subject_slug}.md").read_text(encoding="utf-8")
+        for token in ("Continuidad con 1° básico", "Resultados de aprendizaje", "Prerrequisitos", "Cómo recorrer", "Anatomía estable", "Estructura por ejes", "Recorrido OA por OA", "Qué observar", "Preparación y materiales", "Error frecuente", "Acceso y profundización"):
+            if token not in second_guide:
+                errors.append(f"Guía de 2° {subject_slug} incompleta: falta {token}")
+        if second_guide.count("\n## ") < first_guide.count("\n## "):
+            errors.append(f"Guía de 2° {subject_slug} tiene menor profundidad documental que su equivalente de 1°")
     documentation_files = list(root.glob("*.md")) + list((root / "docs").rglob("*.md"))
     for document_path in documentation_files:
         document = document_path.read_text(encoding="utf-8")
