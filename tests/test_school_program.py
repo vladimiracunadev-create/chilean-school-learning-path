@@ -153,6 +153,10 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertIn("Continuidad con 1° básico", second, slug)
             self.assertIn("Anatomía estable de cada clase", second, slug)
             self.assertIn("Preparación y materiales", second, slug)
+        landing = (ROOT / "site/documentacion.html").read_text(encoding="utf-8")
+        self.assertEqual(landing.count("Leer guía de 1° completa"), 11)
+        self.assertEqual(landing.count("Leer guía de 2° completa"), 11)
+        self.assertIn("El mismo contrato documental de 1°", landing)
 
     def test_second_grade_language_science_and_history_are_specific(self):
         expected = {

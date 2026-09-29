@@ -322,9 +322,11 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"Vista de 2° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "10 guías marco", "11 guías de 1°", "11 guías de 2°", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
+    for token in ("Documentación pedagógica", "10 guías marco", "11 guías de 1°", "11 guías de 2°", "Primer nivel completo", "Segundo nivel completo", "El mismo contrato documental de 1°", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
+    if documentation_html.count("Leer guía de 1° completa") != 11 or documentation_html.count("Leer guía de 2° completa") != 11:
+        errors.append("La portada documental no presenta las 11 guías de ambos niveles con igual visibilidad")
     required_docs = {
         "README.md": ("12.997", "2.823", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
