@@ -1,4 +1,4 @@
-# de Habilidad CN03 OAH f — Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…
+# de Habilidad CN03 OAH f — Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 3° básico | Ciencias Naturales | Analizar la evidencia y comunicar | formacion-general-comun | 4 clases de 90 min |
@@ -22,73 +22,189 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-02236}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…» y demostrarlo mediante explicación o indagación con evidencia.
+### Clase 1 de 4: Conectar y diagnosticar: Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud {#cl-02236}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud» dentro de una investigación del OA en curso, sin convertirla en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud mientras desarrollo una tarea disciplinar.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Compara dos respuestas ficticias ante una investigación del OA en curso: una evidencia el foco y otra solo lo nombra. Identifican conductas observables. |
+| Modelado | 20 min | Modela recuperar ideas previas y detectar barreras y verbaliza cuándo aparece «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud», qué decisión exige y qué evidencia permite observarla sin etiquetar personas. |
+| Práctica guiada | 25 min | Durante una investigación del OA en curso, parejas aplican una pauta breve, ofrecen retroalimentación descriptiva y realizan un segundo intento. |
+| Desempeño individual | 25 min | Cada estudiante completa el desempeño y explica qué acción demuestra «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud». |
+| Cierre | 10 min | Describe una acción observable, la evidencia producida y el ajuste para el siguiente intento. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
 
-### Clase 2 de 4: Comprender y modelar {#cl-02237}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…» y demostrarlo mediante explicación o indagación con evidencia.
+**Evidencia:** Desempeño disciplinar y registro individual de una acción observable vinculada con el foco.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** mantiene el OA disciplinar; hace observable la habilidad o actitud; revisa su actuación con evidencia.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra, transfiérela.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva modelado, desempeño disciplinar, observación individual y ticket.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería el foco. No requiere revelar experiencias familiares.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-02238}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…» y demostrarlo mediante explicación o indagación con evidencia.
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir qué acción evidencia el foco.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otro contexto.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza el contenido | Vuelve a la meta del OA y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta a la persona | Reformula en conductas situadas y modificables. | La retroalimentación describe acciones. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan accesos y observación sin sustituir respuestas.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Comprender y modelar: Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud {#cl-02237}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-02239}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…» y demostrarlo mediante explicación o indagación con evidencia.
+**Propósito docente:** Integrar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud» dentro de una investigación del OA en curso, sin convertirla en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud mientras desarrollo una tarea disciplinar.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Compara dos respuestas ficticias ante una investigación del OA en curso: una evidencia el foco y otra solo lo nombra. Identifican conductas observables. |
+| Modelado | 20 min | Modela explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto y verbaliza cuándo aparece «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud», qué decisión exige y qué evidencia permite observarla sin etiquetar personas. |
+| Práctica guiada | 25 min | Durante una investigación del OA en curso, parejas aplican una pauta breve, ofrecen retroalimentación descriptiva y realizan un segundo intento. |
+| Desempeño individual | 25 min | Cada estudiante completa el desempeño y explica qué acción demuestra «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud». |
+| Cierre | 10 min | Describe una acción observable, la evidencia producida y el ajuste para el siguiente intento. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
+
+**Evidencia:** Desempeño disciplinar y registro individual de una acción observable vinculada con el foco.
+
+**Criterios de éxito:** mantiene el OA disciplinar; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra, transfiérela.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño disciplinar, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería el foco. No requiere revelar experiencias familiares.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir qué acción evidencia el foco.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otro contexto.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza el contenido | Vuelve a la meta del OA y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta a la persona | Reformula en conductas situadas y modificables. | La retroalimentación describe acciones. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan accesos y observación sin sustituir respuestas.
+
+### Clase 3 de 4: Aplicar con autonomía: Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud {#cl-02238}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud» dentro de una investigación del OA en curso, sin convertirla en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud mientras desarrollo una tarea disciplinar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Compara dos respuestas ficticias ante una investigación del OA en curso: una evidencia el foco y otra solo lo nombra. Identifican conductas observables. |
+| Modelado | 20 min | Modela resolver una situación nueva y justificar decisiones y verbaliza cuándo aparece «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud», qué decisión exige y qué evidencia permite observarla sin etiquetar personas. |
+| Práctica guiada | 25 min | Durante una investigación del OA en curso, parejas aplican una pauta breve, ofrecen retroalimentación descriptiva y realizan un segundo intento. |
+| Desempeño individual | 25 min | Cada estudiante completa el desempeño y explica qué acción demuestra «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud». |
+| Cierre | 10 min | Describe una acción observable, la evidencia producida y el ajuste para el siguiente intento. |
+
+**Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
+
+**Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
+
+**Evidencia:** Desempeño disciplinar y registro individual de una acción observable vinculada con el foco.
+
+**Criterios de éxito:** mantiene el OA disciplinar; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra, transfiérela.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño disciplinar, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería el foco. No requiere revelar experiencias familiares.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir qué acción evidencia el foco.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otro contexto.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza el contenido | Vuelve a la meta del OA y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta a la persona | Reformula en conductas situadas y modificables. | La retroalimentación describe acciones. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan accesos y observación sin sustituir respuestas.
+
+### Clase 4 de 4: Demostrar y retroalimentar: Comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, TIC, entre otros. Actitud {#cl-02239}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud» dentro de una investigación del OA en curso, sin convertirla en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud mientras desarrollo una tarea disciplinar.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Compara dos respuestas ficticias ante una investigación del OA en curso: una evidencia el foco y otra solo lo nombra. Identifican conductas observables. |
+| Modelado | 20 min | Modela producir evidencia final y decidir el paso siguiente y verbaliza cuándo aparece «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud», qué decisión exige y qué evidencia permite observarla sin etiquetar personas. |
+| Práctica guiada | 25 min | Durante una investigación del OA en curso, parejas aplican una pauta breve, ofrecen retroalimentación descriptiva y realizan un segundo intento. |
+| Desempeño individual | 25 min | Cada estudiante completa el desempeño y explica qué acción demuestra «comunicar y comparar con otros sus ideas, observaciones, mediciones y experiencias utilizando diagramas, material concreto, modelos, informes sencillos, presentaciones, tic, entre otros. actitud». |
+| Cierre | 10 min | Describe una acción observable, la evidencia producida y el ajuste para el siguiente intento. |
+
+**Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
+
+**Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
+
+**Evidencia:** Desempeño disciplinar y registro individual de una acción observable vinculada con el foco.
+
+**Criterios de éxito:** mantiene el OA disciplinar; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra, transfiérela.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño disciplinar, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería el foco. No requiere revelar experiencias familiares.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir qué acción evidencia el foco.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otro contexto.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza el contenido | Vuelve a la meta del OA y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta a la persona | Reformula en conductas situadas y modificables. | La retroalimentación describe acciones. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan accesos y observación sin sustituir respuestas.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
