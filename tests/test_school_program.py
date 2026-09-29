@@ -11,6 +11,7 @@ from scripts.grade_two_math_lessons import MATH_ATTITUDES as GRADE_TWO_MATH_ATTI
 from scripts.grade_two_language_science_history_lessons import LANGUAGE_ATTITUDES as GRADE_TWO_LANGUAGE_ATTITUDES, SCIENCE_SKILLS as GRADE_TWO_SCIENCE_SKILLS, SCIENCE_ATTITUDES as GRADE_TWO_SCIENCE_ATTITUDES, HISTORY_SKILLS as GRADE_TWO_HISTORY_SKILLS, HISTORY_ATTITUDES as GRADE_TWO_HISTORY_ATTITUDES, L as GRADE_TWO_LANGUAGE_SEQUENCES, S as GRADE_TWO_SCIENCE_SEQUENCES, H as GRADE_TWO_HISTORY_SEQUENCES, build_sequence as build_grade_two_lsh_sequence
 from scripts.grade_two_arts_music_pe_lessons import ART_ATTITUDES as GRADE_TWO_ART_ATTITUDES, MUSIC_ATTITUDES as GRADE_TWO_MUSIC_ATTITUDES, PE_ATTITUDES as GRADE_TWO_PE_ATTITUDES, AR as GRADE_TWO_ART_SEQUENCES, MU as GRADE_TWO_MUSIC_SEQUENCES, EF as GRADE_TWO_PE_SEQUENCES, build_sequence as build_grade_two_amp_sequence
 from scripts.grade_two_remaining_lessons import ATTITUDES as GRADE_TWO_REMAINING_ATTITUDES, OR as GRADE_TWO_ORIENTATION_SEQUENCES, TE as GRADE_TWO_TECHNOLOGY_SEQUENCES, EN as GRADE_TWO_ENGLISH_SEQUENCES, LC_META as GRADE_TWO_INDIGENOUS_SEQUENCES, build_sequence as build_grade_two_remaining_sequence
+from scripts.grade_three_math_language_lessons import LANGUAGE as GRADE_THREE_LANGUAGE_SEQUENCES, LANGUAGE_ATTITUDES as GRADE_THREE_LANGUAGE_ATTITUDES, MATH as GRADE_THREE_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_THREE_MATH_ATTITUDES, MATH_SKILLS as GRADE_THREE_MATH_SKILLS, build_sequence as build_grade_three_ml_sequence, complete_pilot_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -32,8 +33,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 1434)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 694)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 1698)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 810)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -45,7 +46,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 1434)
+        self.assertEqual(len(developed), 1698)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -216,6 +217,35 @@ class SchoolProgramTests(unittest.TestCase):
         cultural_text = " ".join(str(build_grade_two_remaining_sequence(code)) for code in GRADE_TWO_INDIGENOUS_SEQUENCES)
         for safeguard in ("no inventa lengua", "fuente comunitaria", "educador tradicional", "sin apropiarse"):
             self.assertIn(safeguard, cultural_text.lower())
+
+    def test_third_grade_mathematics_and_language_are_complete_and_specific(self):
+        source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]
+        math_sequences = [build_grade_three_ml_sequence(code) for code in sorted(GRADE_THREE_MATH_SEQUENCES)]
+        pilot = source["MA03 OA 11"]
+        complete_pilot_sequence(pilot)
+        math_lessons = [lesson for sequence in math_sequences + [pilot] for lesson in sequence["lessons"]]
+        language_sequences = [build_grade_three_ml_sequence(code) for code in sorted(GRADE_THREE_LANGUAGE_SEQUENCES)]
+        language_lessons = [lesson for sequence in language_sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(math_sequences) + 1, len(math_lessons)), (26, 112))
+        self.assertEqual((len(language_sequences), len(language_lessons)), (31, 157))
+        for label, lessons in (("MA03", math_lessons), ("LE03", language_lessons)):
+            for field in ("title", "opening", "model", "independent", "ticket"):
+                self.assertEqual(len({lesson[field] for lesson in lessons}), len(lessons), f"{label}:{field}")
+            self.assertTrue(all(len(lesson.get("difficulty_actions", [])) >= 3 for lesson in lessons), label)
+        self.assertEqual(
+            {link["code"] for lesson in math_lessons for link in lesson.get("transversal", [])},
+            {code for code, _ in GRADE_THREE_MATH_SKILLS + GRADE_THREE_MATH_ATTITUDES},
+        )
+        self.assertEqual(
+            {link["code"] for lesson in language_lessons for link in lesson.get("transversal", [])},
+            {code for code, _ in GRADE_THREE_LANGUAGE_ATTITUDES},
+        )
+        grade_three = [item for item in self.catalog["classes"] if item["course_order"] == 3]
+        expected = {"matematica": (112, 87), "lenguaje-comunicacion": (157, 29)}
+        for slug, counts in expected.items():
+            rows = [item for item in grade_three if item["subject_slug"] == slug]
+            self.assertEqual((sum(item["editorial_status"] == "desarrollada" for item in rows), sum(item["editorial_status"] == "integrada" for item in rows)), counts)
+            self.assertFalse([item for item in rows if item["editorial_status"] == "secuenciada"])
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]
