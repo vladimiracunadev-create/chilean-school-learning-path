@@ -1,13 +1,14 @@
 # Reporte de validación
 
-Fecha: 2026-09-24
+Fecha: 2026-09-29
 
 ## Alcance verificable
 
 - 12.997 clases con código único y ancla web estable.
 - 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
-- 691 clases de 1° básico, 93 clases de Matemática de 2° básico y 22 pilotos: 806 desarrolladas en total; 407 experiencias transversales integradas y 0 revisiones humanas registradas.
+- 691 clases de 1° básico, 721 clases de 2° básico y 22 pilotos: 1.434 desarrolladas en total; 694 experiencias transversales integradas y 0 revisiones humanas registradas.
+- 1° y 2° básico completos en sus once asignaturas, con 0 borradores o propuestas sólo secuenciadas dentro de ambos niveles.
 - 0 clases declaradas como revisadas sin evidencia humana.
 - Contrato editorial estructurado con propósito, meta, cinco momentos, materiales, apoyos, profundización, evidencia, criterios, decisión y versión de 45 minutos.
 - Búsqueda, filtros, URL compartible, carga progresiva, tema y estados vacío/error.

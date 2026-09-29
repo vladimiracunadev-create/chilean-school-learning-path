@@ -1,4 +1,4 @@
-# LC02 OA LR05 — Utilizar recursos tecnológicos disponibles (TIC) para escuchar, ver y transcribir palabras y/o frases…
+# LC02 OA LR05 — TIC y transcripción en contexto de revitalización
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 2° básico | Lengua y Cultura de los Pueblos Originarios Ancestrales | Contexto de rescate y revitalización de la lengua | segun-contexto-y-normativa | 4 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** TIC y transcripción en contexto de revitalización exige situar cada aprendizaje en el pueblo, territorio, contexto lingüístico y fuente correspondiente. No se inventa lengua ni se sustituye la voz comunitaria; la secuencia trabaja para escuchar y transcribir sin reemplazar a hablantes ni fuentes.
+
+**Antes de comenzar.** Acceder a una fuente pertinente con mediación respetuosa, sin exigir conocimiento lingüístico previo ni pertenencia cultural.
+
+**Vocabulario explícito:** audio, video, palabra, frase, transcripción, fuente y autorización.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Contexto curricular y eje oficial · organización interna en 4 clases
+
+> **Origen:** Organización interna derivada del contexto, eje y OA; no se presenta como unidad oficial adicional..
+
+**Criterios de progresión derivados del OA**
+- Reconoceré palabras o expresiones disponibles sin evaluar identidad.
+- Atenderé significado, pronunciación y contexto desde una fuente validada.
+- Usaré una expresión en una situación pertinente y segura.
+
+> **Origen:** Criterios internos que requieren fuente comunitaria, pertinencia territorial y no apropiación.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/2-basico/lc02-oa-lr05)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,73 +41,201 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-01535}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 1 de 4: Activar memoria lingüística · TIC y transcripción en contexto de revitalización {#cl-01535}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar tic y transcripción en contexto de revitalización mediante «activar memoria lingüística · tic y transcripción en contexto de revitalización», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy reconoceré palabras o expresiones disponibles sin evaluar identidad.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Utilizar recursos tecnológicos disponibles (TIC) para escuchar, ver y transcribir palabras y/o frases en lengua indígena, referidas a aspectos propios de la cultura». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «activar memoria lingüística · tic y transcripción en contexto de revitalización», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: escuchar y transcribir sin reemplazar a hablantes ni fuentes Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «activar memoria lingüística · tic y transcripción en contexto de revitalización» sólo con una fuente comunitaria pertinente o material oficial validado: escuchar y transcribir sin reemplazar a hablantes ni fuentes No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «activar memoria lingüística · tic y transcripción en contexto de revitalización», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «activar memoria lingüística · tic y transcripción en contexto de revitalización» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «activar memoria lingüística · tic y transcripción en contexto de revitalización»: escuchar y transcribir sin reemplazar a hablantes ni fuentes Señala la evidencia o decisión que sostiene tu respuesta. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
 
-### Clase 2 de 4: Comprender y modelar {#cl-01536}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Comprensión o producción situada sobre «activar memoria lingüística · tic y transcripción en contexto de revitalización» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Utilizar recursos tecnológicos disponibles (TIC) para escuchar, ver y transcribir palabras y/o frases en lengua indígena, referidas a aspectos propios de la cultura». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-01537}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Utilizar recursos tecnológicos disponibles (TIC) para escuchar, ver y transcribir palabras y/o frases en lengua indígena, referidas a aspectos propios de la cultura». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA D`:** Se promueve trabajo riguroso acorde con oralidad, territorio y enseñanza ancestral pertinente durante «reconoceré palabras o expresiones disponibles sin evaluar identidad» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-01538}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 2 de 4: Escuchar la fuente comunitaria · TIC y transcripción en contexto de revitalización {#cl-01536}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar tic y transcripción en contexto de revitalización mediante «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy atenderé significado, pronunciación y contexto desde una fuente validada.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Utilizar recursos tecnológicos disponibles (TIC) para escuchar, ver y transcribir palabras y/o frases en lengua indígena, referidas a aspectos propios de la cultura». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **utilizar recursos tecnológicos disponibles (tic) para escuchar, ver y transcribir palabras y/o frases…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: escuchar y transcribir sin reemplazar a hablantes ni fuentes Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización» sólo con una fuente comunitaria pertinente o material oficial validado: escuchar y transcribir sin reemplazar a hablantes ni fuentes No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización»: escuchar y transcribir sin reemplazar a hablantes ni fuentes Señala la evidencia o decisión que sostiene tu respuesta. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «escuchar la fuente comunitaria · tic y transcripción en contexto de revitalización» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA A`:** Se promueve pertenencia responsable a la red de la vida desde lengua y cultura durante «atenderé significado, pronunciación y contexto desde una fuente validada» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
+
+### Clase 3 de 4: Relacionar lengua y experiencia · TIC y transcripción en contexto de revitalización {#cl-01537}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar tic y transcripción en contexto de revitalización mediante «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy usaré una expresión en una situación pertinente y segura.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Para «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: escuchar y transcribir sin reemplazar a hablantes ni fuentes Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización» sólo con una fuente comunitaria pertinente o material oficial validado: escuchar y transcribir sin reemplazar a hablantes ni fuentes No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización»: escuchar y transcribir sin reemplazar a hablantes ni fuentes Señala la evidencia o decisión que sostiene tu respuesta. |
+
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
+
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
+
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «relacionar lengua y experiencia · tic y transcripción en contexto de revitalización» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «usaré una expresión en una situación pertinente y segura» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
+
+### Clase 4 de 4: Registrar sin fijar una única variante · TIC y transcripción en contexto de revitalización {#cl-01538}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar tic y transcripción en contexto de revitalización mediante «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy escribiré o representaré reconociendo variantes comunitarias.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Para «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: escuchar y transcribir sin reemplazar a hablantes ni fuentes Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización» sólo con una fuente comunitaria pertinente o material oficial validado: escuchar y transcribir sin reemplazar a hablantes ni fuentes No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización»: escuchar y transcribir sin reemplazar a hablantes ni fuentes Señala la evidencia o decisión que sostiene tu respuesta. |
+
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
+
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
+
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «registrar sin fijar una única variante · tic y transcripción en contexto de revitalización» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA C`:** Se promueve relación integral y respetuosa con entornos naturales, sociales, culturales y espirituales durante «escribiré o representaré reconociendo variantes comunitarias» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

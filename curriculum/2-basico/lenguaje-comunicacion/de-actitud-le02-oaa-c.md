@@ -1,4 +1,4 @@
-# de Actitud LE02 OAA C — Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…
+# de Actitud LE02 OAA C — Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 2° básico | Lenguaje y Comunicación | Actitudes | formacion-general-comun | 4 clases de 90 min |
@@ -22,73 +22,189 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-01786}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 1 de 4: Conectar y diagnosticar: integración observable {#cl-01786}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar el OA transversal «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita» dentro de un texto leído, escuchado o producido, sin tratarlo como contenido aislado ni como juicio sobre la personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión comunicativa y explicaré cómo me ayudó a aprender.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un caso breve de un texto leído, escuchado o producido y dos respuestas: una nombra el OA transversal, la otra muestra una acción observable. El curso identifica cuál constituye evidencia. |
+| Modelado | 20 min | Modela decisión comunicativa dentro de una tarea real y señala el instante exacto donde se manifiesta: Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita. Evita una charla moral separada del contenido. |
+| Práctica guiada | 25 min | Resuelven una tarea breve en parejas, marcan dónde aplicaron la habilidad o actitud y comparan evidencias sin calificar rapidez, docilidad ni rasgos personales. |
+| Desempeño individual | 25 min | Cada estudiante completa una tarea nueva de un texto leído, escuchado o producido, encierra la evidencia del OA transversal y explica una decisión propia. |
+| Cierre | 10 min | Muestra una parte de tu producción que evidencie el OA transversal y completa: esto ayudó a mi aprendizaje porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
 
-### Clase 2 de 4: Comprender y modelar {#cl-01787}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Producción disciplinar con una marca y explicación atribuible al estudiante sobre la aplicación de esta actitud.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** resuelve contenido disciplinar pertinente; hace observable la actitud; explica cómo influyó en una decisión o revisión.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Integra nuevamente en otro contexto si la evidencia depende del apoyo; diversifica la tarea cuando aparece con autonomía.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva tarea disciplinar, acción observable, evidencia individual y ticket; elimina repetición, no la integración.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Explica con un ejemplo seguro cómo esta habilidad o actitud ayudó a comprender, revisar o cuidar una tarea. Puede responderse oralmente o con dibujo.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-01788}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Actividades complementarias (opcionales):**
+- Clasificar ejemplos y no ejemplos observables.
+- Revisar una producción donde la acción está nombrada pero no aplicada.
+- Transferir a otro eje de la asignatura.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el nombre del OA, pero no lo usa | Pide señalar una acción concreta dentro de la tarea. | La evidencia puede localizarse en la producción. |
+| Se transforma en evaluación conductual | Vuelve a la decisión disciplinar y elimina etiquetas personales. | La retroalimentación describe una acción modificable. |
+| La integración desplaza el contenido | Recupera la pregunta del OA anfitrión y usa lo transversal como medio. | El ticket demuestra contenido e integración. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una acción y una evidencia accesible sin diagnosticar ni reducir la tarea.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Comprender y modelar: integración observable {#cl-01787}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-01789}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Propósito docente:** Integrar el OA transversal «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita» dentro de un texto leído, escuchado o producido, sin tratarlo como contenido aislado ni como juicio sobre la personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión comunicativa y explicaré cómo me ayudó a aprender.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un caso breve de un texto leído, escuchado o producido y dos respuestas: una nombra el OA transversal, la otra muestra una acción observable. El curso identifica cuál constituye evidencia. |
+| Modelado | 20 min | Modela decisión comunicativa dentro de una tarea real y señala el instante exacto donde se manifiesta: Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita. Evita una charla moral separada del contenido. |
+| Práctica guiada | 25 min | Resuelven una tarea breve en parejas, marcan dónde aplicaron la habilidad o actitud y comparan evidencias sin calificar rapidez, docilidad ni rasgos personales. |
+| Desempeño individual | 25 min | Cada estudiante completa una tarea nueva de un texto leído, escuchado o producido, encierra la evidencia del OA transversal y explica una decisión propia. |
+| Cierre | 10 min | Muestra una parte de tu producción que evidencie el OA transversal y completa: esto ayudó a mi aprendizaje porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
+
+**Evidencia:** Producción disciplinar con una marca y explicación atribuible al estudiante sobre la aplicación de esta actitud.
+
+**Criterios de éxito:** resuelve contenido disciplinar pertinente; hace observable la actitud; explica cómo influyó en una decisión o revisión.
+
+**Decisión posterior:** Integra nuevamente en otro contexto si la evidencia depende del apoyo; diversifica la tarea cuando aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea disciplinar, acción observable, evidencia individual y ticket; elimina repetición, no la integración.
+
+**Tarea breve y flexible:** Explica con un ejemplo seguro cómo esta habilidad o actitud ayudó a comprender, revisar o cuidar una tarea. Puede responderse oralmente o con dibujo.
+
+**Actividades complementarias (opcionales):**
+- Clasificar ejemplos y no ejemplos observables.
+- Revisar una producción donde la acción está nombrada pero no aplicada.
+- Transferir a otro eje de la asignatura.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el nombre del OA, pero no lo usa | Pide señalar una acción concreta dentro de la tarea. | La evidencia puede localizarse en la producción. |
+| Se transforma en evaluación conductual | Vuelve a la decisión disciplinar y elimina etiquetas personales. | La retroalimentación describe una acción modificable. |
+| La integración desplaza el contenido | Recupera la pregunta del OA anfitrión y usa lo transversal como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una acción y una evidencia accesible sin diagnosticar ni reducir la tarea.
+
+### Clase 3 de 4: Aplicar con autonomía: integración observable {#cl-01788}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar el OA transversal «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita» dentro de un texto leído, escuchado o producido, sin tratarlo como contenido aislado ni como juicio sobre la personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión comunicativa y explicaré cómo me ayudó a aprender.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un caso breve de un texto leído, escuchado o producido y dos respuestas: una nombra el OA transversal, la otra muestra una acción observable. El curso identifica cuál constituye evidencia. |
+| Modelado | 20 min | Modela decisión comunicativa dentro de una tarea real y señala el instante exacto donde se manifiesta: Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita. Evita una charla moral separada del contenido. |
+| Práctica guiada | 25 min | Resuelven una tarea breve en parejas, marcan dónde aplicaron la habilidad o actitud y comparan evidencias sin calificar rapidez, docilidad ni rasgos personales. |
+| Desempeño individual | 25 min | Cada estudiante completa una tarea nueva de un texto leído, escuchado o producido, encierra la evidencia del OA transversal y explica una decisión propia. |
+| Cierre | 10 min | Muestra una parte de tu producción que evidencie el OA transversal y completa: esto ayudó a mi aprendizaje porque… |
+
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
+
+**Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
+
+**Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
+
+**Evidencia:** Producción disciplinar con una marca y explicación atribuible al estudiante sobre la aplicación de esta actitud.
+
+**Criterios de éxito:** resuelve contenido disciplinar pertinente; hace observable la actitud; explica cómo influyó en una decisión o revisión.
+
+**Decisión posterior:** Integra nuevamente en otro contexto si la evidencia depende del apoyo; diversifica la tarea cuando aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea disciplinar, acción observable, evidencia individual y ticket; elimina repetición, no la integración.
+
+**Tarea breve y flexible:** Explica con un ejemplo seguro cómo esta habilidad o actitud ayudó a comprender, revisar o cuidar una tarea. Puede responderse oralmente o con dibujo.
+
+**Actividades complementarias (opcionales):**
+- Clasificar ejemplos y no ejemplos observables.
+- Revisar una producción donde la acción está nombrada pero no aplicada.
+- Transferir a otro eje de la asignatura.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el nombre del OA, pero no lo usa | Pide señalar una acción concreta dentro de la tarea. | La evidencia puede localizarse en la producción. |
+| Se transforma en evaluación conductual | Vuelve a la decisión disciplinar y elimina etiquetas personales. | La retroalimentación describe una acción modificable. |
+| La integración desplaza el contenido | Recupera la pregunta del OA anfitrión y usa lo transversal como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una acción y una evidencia accesible sin diagnosticar ni reducir la tarea.
+
+### Clase 4 de 4: Demostrar y retroalimentar: integración observable {#cl-01789}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar el OA transversal «Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita» dentro de un texto leído, escuchado o producido, sin tratarlo como contenido aislado ni como juicio sobre la personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión comunicativa y explicaré cómo me ayudó a aprender.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un caso breve de un texto leído, escuchado o producido y dos respuestas: una nombra el OA transversal, la otra muestra una acción observable. El curso identifica cuál constituye evidencia. |
+| Modelado | 20 min | Modela decisión comunicativa dentro de una tarea real y señala el instante exacto donde se manifiesta: Demostrar disposición e interés por expresarse de manera creativa por medio de la comunicación oral y escrita. Evita una charla moral separada del contenido. |
+| Práctica guiada | 25 min | Resuelven una tarea breve en parejas, marcan dónde aplicaron la habilidad o actitud y comparan evidencias sin calificar rapidez, docilidad ni rasgos personales. |
+| Desempeño individual | 25 min | Cada estudiante completa una tarea nueva de un texto leído, escuchado o producido, encierra la evidencia del OA transversal y explica una decisión propia. |
+| Cierre | 10 min | Muestra una parte de tu producción que evidencie el OA transversal y completa: esto ayudó a mi aprendizaje porque… |
+
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
+
+**Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
+
+**Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
+
+**Evidencia:** Producción disciplinar con una marca y explicación atribuible al estudiante sobre la aplicación de esta actitud.
+
+**Criterios de éxito:** resuelve contenido disciplinar pertinente; hace observable la actitud; explica cómo influyó en una decisión o revisión.
+
+**Decisión posterior:** Integra nuevamente en otro contexto si la evidencia depende del apoyo; diversifica la tarea cuando aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea disciplinar, acción observable, evidencia individual y ticket; elimina repetición, no la integración.
+
+**Tarea breve y flexible:** Explica con un ejemplo seguro cómo esta habilidad o actitud ayudó a comprender, revisar o cuidar una tarea. Puede responderse oralmente o con dibujo.
+
+**Actividades complementarias (opcionales):**
+- Clasificar ejemplos y no ejemplos observables.
+- Revisar una producción donde la acción está nombrada pero no aplicada.
+- Transferir a otro eje de la asignatura.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el nombre del OA, pero no lo usa | Pide señalar una acción concreta dentro de la tarea. | La evidencia puede localizarse en la producción. |
+| Se transforma en evaluación conductual | Vuelve a la decisión disciplinar y elimina etiquetas personales. | La retroalimentación describe una acción modificable. |
+| La integración desplaza el contenido | Recupera la pregunta del OA anfitrión y usa lo transversal como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una acción y una evidencia accesible sin diagnosticar ni reducir la tarea.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

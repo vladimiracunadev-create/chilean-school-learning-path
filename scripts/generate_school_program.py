@@ -1,6 +1,7 @@
 """Build the curriculum source, public catalog, and static lesson pages."""
 import html
 import json
+import os
 import posixpath
 import re
 import shutil
@@ -13,6 +14,9 @@ from grade_one_language_lessons import attitude_link, build_language_sequence
 from grade_one_science_history_arts_lessons import build_sequence as build_sha_sequence, transversal_links as sha_transversal_links
 from grade_one_remaining_lessons import build_sequence as build_remaining_sequence, transversal_link as remaining_transversal_link
 from grade_two_math_lessons import build_math_sequence as build_grade_two_math_sequence, build_transversal_integration as build_grade_two_math_integration, transversal_links as grade_two_transversal_links
+from grade_two_language_science_history_lessons import build_sequence as build_grade_two_lsh_sequence, build_transversal_integration as build_grade_two_lsh_integration
+from grade_two_arts_music_pe_lessons import build_sequence as build_grade_two_amp_sequence, build_transversal_integration as build_grade_two_amp_integration
+from grade_two_remaining_lessons import build_sequence as build_grade_two_remaining_sequence, build_transversal_integration as build_grade_two_remaining_integration
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
 def dose(text,slug,reads):
@@ -426,25 +430,25 @@ def grade_two_page(objs,classes):
  developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes);sequenced=sum(x["editorial_status"]=="secuenciada" for x in grade_classes)
  cards=[]
  for item in subjects:
-  state="Matemática desarrollada" if item["slug"]=="matematica" else "Pendiente de desarrollo"
-  target="../docs/2-basico/matematica.html" if item["slug"]=="matematica" else f"../index.html?nivel={quote('2° básico')}&asignatura={quote(item['name'])}#explorar"
+  state="Desarrollo interno completo"
+  target=f"../docs/2-basico/{item['slug']}.html"
   cards.append(f'''<article class="level-card"><div><span>{item['oa']} OA</span><span>{item['developed']} desarrolladas · {item['integrated']} integradas · {item['classes']-item['developed']-item['integrated']} secuenciadas</span></div><h2>{html.escape(item['name'])}</h2><p><strong>{state}.</strong> {html.escape(' · '.join(item['axes']))}</p><a href="{target}">Explorar asignatura →</a></article>''')
- return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="2° básico definido en 11 asignaturas; Matemática desarrollada con {developed} clases y {integrated} experiencias integradas."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/2-basico.html"><link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css"><title>2° básico definido · Matemática desarrollada | Trayectoria Escolar Chile</title></head>
+ return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="2° básico completo: 721 clases desarrolladas y 351 experiencias integradas en 11 asignaturas."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/2-basico.html"><link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css"><title>2° básico completo | Trayectoria Escolar Chile</title></head>
 <body class="level-page"><a class="skip-link" href="#contenidos">Saltar a contenidos</a><header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="../index.html">← Volver al explorador</a></header>
-<main id="contenidos" class="level-shell"><header class="level-hero"><div><p class="eyebrow">Nivel definido · desarrollo parcial · Chile</p><h1>2° básico</h1><p>Las 1.072 propuestas, once asignaturas y sus OA están delimitados. Sólo Matemática cuenta con desarrollo pedagógico interno; las otras diez permanecen secuenciadas y no se presentan como clases terminadas.</p><div class="hero-actions"><a class="button primary" href="../docs/2-basico/matematica.html">Abrir Matemática</a><a class="button dark-text" href="../docs/2-basico/index.html">Ver mapa del nivel</a></div></div><aside><span>Estado editorial real</span><strong>{developed} desarrolladas</strong><small>{integrated} integradas · {sequenced} secuenciadas · revisión humana pendiente</small></aside></header>
-<section class="level-metrics" aria-label="Resumen de 2° básico"><div><strong>{len(grade_objs)}</strong><span>OA inventariados</span></div><div><strong>11</strong><span>asignaturas definidas</span></div><div><strong>{developed}</strong><span>clases de Matemática</span></div><div><strong>{sequenced}</strong><span>propuestas aún pendientes</span></div></section>
-<section class="level-intro"><div><p class="eyebrow">Alcance solicitado</p><h2>Definir todo el nivel; desarrollar una asignatura.</h2></div><p>Matemática incluye secuencias específicas, ejemplos, práctica, evaluación, apoyos y decisiones posteriores. En las demás asignaturas se conserva sólo inventario, dosificación y trazabilidad oficial.</p></section><section class="level-grid">{''.join(cards)}</section>
-<section class="level-contract"><div><p class="eyebrow">Lectura honesta</p><h2>Secuenciada no significa desarrollada.</h2></div><ol><li><strong>93 clases disciplinares</strong><span>Los 22 OA de contenido de Matemática tienen secuencias completas.</span></li><li><strong>64 experiencias integradas</strong><span>Los 15 OA de habilidad y actitud se observan dentro del contenido.</span></li><li><strong>915 propuestas pendientes</strong><span>Las otras diez asignaturas están definidas, pero no resueltas pedagógicamente.</span></li><li><strong>0 revisiones humanas</strong><span>La verificación automática no sustituye revisión profesional.</span></li></ol></section></main>
-<footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>2° básico definido · Matemática desarrollada · revisión humana pendiente</span></div><div><a href="../levels/1-basico.html">1° básico</a><a href="../documentacion.html">Documentación</a></div></footer></body></html>'''
+<main id="contenidos" class="level-shell"><header class="level-hero"><div><p class="eyebrow">Desarrollo pedagógico interno completo · Chile</p><h1>2° básico</h1><p>Las 1.072 propuestas de las once asignaturas están resueltas como 721 clases disciplinares y 351 experiencias transversales integradas. Ninguna se declara revisada sin evidencia humana competente.</p><div class="hero-actions"><a class="button primary" href="../docs/2-basico/index.html">Abrir mapa del nivel</a><a class="button dark-text" href="../index.html?nivel={quote('2° básico')}#explorar">Explorar clases</a></div></div><aside><span>Estado editorial real</span><strong>{developed} desarrolladas</strong><small>{integrated} integradas · {sequenced} secuenciadas · revisión humana pendiente</small></aside></header>
+<section class="level-metrics" aria-label="Resumen de 2° básico"><div><strong>{len(grade_objs)}</strong><span>OA inventariados</span></div><div><strong>11</strong><span>asignaturas completas</span></div><div><strong>{developed}</strong><span>clases disciplinares</span></div><div><strong>{integrated}</strong><span>experiencias integradas</span></div></section>
+<section class="level-intro"><div><p class="eyebrow">Nivel completo</p><h2>Once recorridos disciplinares, sin plantillas genéricas.</h2></div><p>Cada asignatura incluye ejemplos propios, modelado, práctica guiada, desempeño individual, apoyo, profundización, evidencia, criterios y decisiones posteriores.</p></section><section class="level-grid">{''.join(cards)}</section>
+<section class="level-contract"><div><p class="eyebrow">Lectura honesta</p><h2>Completo no significa revisado.</h2></div><ol><li><strong>721 clases disciplinares</strong><span>Los 161 OA de contenido tienen secuencias específicas.</span></li><li><strong>351 experiencias integradas</strong><span>Los 86 OA transversales se observan dentro del contenido y no duplican clases.</span></li><li><strong>0 propuestas pendientes</strong><span>No quedan fichas sólo secuenciadas ni borradores en 2° básico.</span></li><li><strong>0 revisiones humanas</strong><span>La verificación automática no sustituye revisión profesional.</span></li></ol></section></main>
+<footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>2° básico completo · revisión humana pendiente</span></div><div><a href="../levels/1-basico.html">1° básico</a><a href="../documentacion.html">Documentación</a></div></footer></body></html>'''
 
 def grade_two_index_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_two_summary(objs,classes)
- lines=["# 📚 2° básico definido · Matemática desarrollada","","> [⬅️ Volver al programa](../../README.md) · [🔢 Matemática](matematica.md) · [🗂️ Índice curricular](../../CURRICULUM.md) · [📊 Cobertura](../COBERTURA.md)","",f"**{len(grade_classes):,} propuestas · {len(grade_objs)} OA · 11 asignaturas · 93 clases desarrolladas · 64 experiencias integradas · 915 propuestas secuenciadas · revisión humana pendiente**".replace(",","."),"","## Alcance","","Este nivel está completamente delimitado en asignaturas, ejes, OA, fuentes y dosificación. Por decisión editorial, sólo Matemática se desarrolló en esta entrega. Las demás asignaturas no contienen una plantilla presentada como clase terminada: permanecen en estado **secuenciada**.","","## Las 11 asignaturas","","| Asignatura | OA totales | Propuestas | Desarrolladas | Integradas | Secuenciadas | Estado |","|---|---:|---:|---:|---:|---:|---|"]
+ lines=["# 📚 2° básico · desarrollo pedagógico interno completo","","> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice curricular](../../CURRICULUM.md) · [📊 Cobertura](../COBERTURA.md)","",f"**{len(grade_classes):,} propuestas · {len(grade_objs)} OA · 11 asignaturas · 721 clases desarrolladas · 351 experiencias integradas · 0 propuestas secuenciadas · revisión humana pendiente**".replace(",","."),"","## Alcance","","Las once asignaturas del nivel cuentan con secuencias específicas. Los OA transversales se integran dentro de las clases de contenido y no se cuentan como clases independientes. Completo describe el desarrollo interno; la revisión profesional humana sigue pendiente.","","## Las 11 asignaturas","","| Asignatura | OA totales | Propuestas | Desarrolladas | Integradas | Secuenciadas | Estado |","|---|---:|---:|---:|---:|---:|---|"]
  for subject in subjects:
   pending=subject["classes"]-subject["developed"]-subject["integrated"]
-  state="[Desarrollo interno completo](matematica.md)" if subject["slug"]=="matematica" else "Pendiente de desarrollo"
+  state=f"[Desarrollo interno completo]({subject['slug']}.md)"
   lines.append(f"| {subject['name']} | {subject['oa']} | {subject['classes']} | {subject['developed']} | {subject['integrated']} | {pending} | {state} |")
- lines += ["","## Orden editorial sugerido para lo pendiente","","1. Lenguaje y Comunicación","2. Ciencias Naturales","3. Historia, Geografía y Ciencias Sociales","4. Artes Visuales","5. Música","6. Educación Física y Salud","7. Orientación","8. Tecnología","9. Inglés (Propuesta)","10. Lengua y Cultura de los Pueblos Originarios Ancestrales","","Este orden es de producción del repositorio, no una jerarquía curricular ni un horario escolar.","","## Estados y límites","","- **Desarrollada:** contenido matemático específico con modelado, práctica, evidencia, apoyo y decisión posterior.","- **Integrada:** habilidad o actitud observada dentro de una clase de contenido; no se cuenta como clase autónoma.","- **Secuenciada:** OA ubicado y dosificado, todavía sin contenido pedagógico específico.","- **Revisada:** requiere evidencia humana competente; actualmente hay 0.",""]
+ lines += ["","## Cómo usar el nivel","","1. Elige la asignatura y revisa su propósito y ejes.","2. Abre el OA y lee la secuencia completa antes de seleccionar una clase.","3. Conserva la meta y la evidencia al adaptar materiales, tiempos o vías de respuesta.","4. Registra qué requiere reenseñanza y no confundas validación automática con revisión humana.","","## Estados y límites","","- **Desarrollada:** contenido disciplinar específico con modelado, práctica, evidencia, apoyo y decisión posterior.","- **Integrada:** habilidad o actitud observada dentro de una clase de contenido; no se cuenta como clase autónoma.","- **Secuenciada:** OA ubicado y dosificado, todavía sin desarrollo; quedan 0 en este nivel.","- **Revisada:** requiere evidencia humana competente; actualmente hay 0.",""]
  return "\n".join(lines)
 
 def grade_two_math_documentation(objs,classes):
@@ -460,6 +464,39 @@ def grade_two_math_documentation(objs,classes):
  for item in core:
   lines.append(f"| `{item['oa_code']}` | {item['topic']} | {item['axis']} | {len(item['phases'])} | [Abrir Markdown](../../{item['path']}) |")
  lines += ["","## Integración transversal","",f"Los {len(transverse)} OA de habilidades y actitudes se distribuyen en 64 experiencias dentro de las 93 clases de contenido. Cada clase identifica una habilidad y una actitud observables; no se evalúan como personalidad, rapidez u obediencia.","","## Contrato de calidad","","- Cada clase usa un ejemplo numérico, geométrico, de medición o de datos propio del OA.","- La práctica guiada y el ticket no repiten el modelo con los mismos datos.","- El apoyo mantiene la relación matemática y cambia la vía de acceso.","- La profundización modifica condiciones, compara estrategias o exige generalizar.","- Toda respuesta se acompaña de representación o comprobación pertinente.","","## Fuentes y límites","",f"- [Currículum Nacional · Matemática 2° básico]({math[0]['subject_url']})","- [Protocolo de revisión humana](../REVISION_HUMANA.md)","- [Metodología](../../METHODOLOGY.md)","","La alineación de cada OA conserva la ficha oficial. Los criterios de progresión se rotulan como internos cuando fueron derivados del OA y no se presentan como indicadores oficiales del programa.",""]
+ return "\n".join(lines)
+
+GRADE_TWO_PURPOSES={
+ "artes-visuales":"Observar, experimentar y crear con línea, color, forma, materialidad y referentes artísticos diversos, explicando decisiones sin copiar un modelo único.",
+ "ciencias-naturales":"Investigar seres vivos, cuerpo humano, agua y tiempo atmosférico mediante preguntas, observaciones, registros y explicaciones prudentes.",
+ "educacion-fisica-salud":"Ampliar habilidades motrices, actividad física, autocuidado, seguridad y colaboración con progresiones accesibles y sin comparar cuerpos.",
+ "historia-geografia-ciencias-sociales":"Comprender diversidad cultural, territorio, patrimonio y convivencia usando fuentes, mapas, tiempo histórico y decisiones ciudadanas.",
+ "ingles-propuesta":"Comprender y producir mensajes breves en inglés mediante escucha, lectura, interacción y escritura apoyadas, sin exigir acento nativo.",
+ "lengua-cultura-pueblos-originarios-ancestrales":"Aprender desde lengua, territorio, memoria y saberes de cada pueblo con fuentes comunitarias pertinentes, sin inventar ni apropiarse.",
+ "lenguaje-comunicacion":"Integrar lectura, escritura y oralidad para comprender textos, producir con propósito, conversar y ampliar vocabulario.",
+ "musica":"Escuchar, representar, interpretar, improvisar y compartir música mediante cualidades sonoras, pulso, patrones y contextos diversos.",
+ "orientacion":"Fortalecer identidad, emociones, autocuidado, convivencia, pertenencia y hábitos de aprendizaje mediante casos seguros y decisiones aplicables.",
+ "tecnologia":"Diseñar, elaborar, probar y mejorar soluciones; usar dibujo digital, textos e internet con propósito, seguridad y respeto de autoría.",
+}
+
+def grade_two_subject_documentation(subject,objectives,previous_subject=None,next_subject=None):
+ core=[item for item in objectives if item.get("developed")]
+ transverse=[item for item in objectives if item.get("integration")]
+ class_count=sum(len(item["phases"]) for item in core)
+ integrated_count=sum(len(item["phases"]) for item in transverse)
+ axes=sorted({item["axis"] for item in objectives})
+ previous_link=f"[← {previous_subject['name']}]({previous_subject['slug']}.md)" if previous_subject else "[← Mapa de 2° básico](README.md)"
+ next_link=f"[{next_subject['name']} →]({next_subject['slug']}.md)" if next_subject else "[Mapa de 2° básico →](README.md)"
+ lines=[f"# {subject['name']} · 2° básico","",f"> {previous_link} · [Mapa del nivel](README.md) · {next_link}","",f"**{len(core)} OA de contenido · {class_count} clases desarrolladas · {len(transverse)} OA transversales · {integrated_count} experiencias integradas · {len(axes)} ejes · revisión humana pendiente**","",f"> **Estado editorial:** desarrollo pedagógico interno completo. Esto no declara revisión disciplinar humana.","","## Propósito del recorrido","",GRADE_TWO_PURPOSES[subject["slug"]],"","## Estructura por ejes","","| Eje | OA de contenido | Clases |","|---|---:|---:|"]
+ for axis in axes:
+  pool=[item for item in core if item["axis"]==axis]
+  if pool:lines.append(f"| {axis} | {len(pool)} | {sum(len(item['phases']) for item in pool)} |")
+ lines += ["","## Recorrido OA por OA","","| OA | Tema | Eje | Clases | Planificación |","|---|---|---|---:|---|"]
+ for item in core:
+  lines.append(f"| `{item['oa_code']}` | {item['topic']} | {item['axis']} | {len(item['phases'])} | [Abrir Markdown](../../{item['path']}) |")
+ lines += ["","## Integración transversal","",f"Los {len(transverse)} OA transversales se distribuyen en {integrated_count} experiencias dentro de las {class_count} clases de contenido. No constituyen clases independientes ni se evalúan como personalidad, obediencia, identidad, talento o rapidez.","","## Contrato de calidad","","- Cada clase contiene un ejemplo o desempeño propio del OA y de la disciplina.","- El modelado hace visible una decisión; la práctica y el ticket usan un caso distinto.","- Los apoyos cambian la vía de acceso sin reducir la meta.","- La evidencia individual permite decidir avance, apoyo o reenseñanza.","- La revisión humana competente permanece pendiente y no se reemplaza con CI.","","## Fuentes y límites","",f"- [Currículum Nacional · {subject['name']} · 2° básico]({objectives[0]['subject_url']})","- [Protocolo de revisión humana](../REVISION_HUMANA.md)","- [Metodología](../../METHODOLOGY.md)",""]
+ if subject["slug"]=="lengua-cultura-pueblos-originarios-ancestrales":
+  lines += ["## Resguardos culturales","","- No se inventan palabras, pronunciaciones, grafías, relatos ni significados espirituales.","- La enseñanza se coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente cuando corresponda.","- Fortalecimiento, rescate y sensibilización se mantienen como contextos diferentes.","- No se reproducen ceremonias, símbolos o prácticas restringidas sin autorización.",""]
  return "\n".join(lines)
 
 def documentation_output_path(source):
@@ -565,16 +602,16 @@ def documentation_page(objs,classes):
   developed=sum(item["editorial_status"]=="desarrollada" for item in level_classes)
   levels.append({"name":level_classes[0]["course"],"oa":len(level_oas),"classes":len(level_classes),"developed":developed})
  coverage_cards="".join(f'''<a class="coverage-card" href="index.html?nivel={quote(item['name'])}#explorar"><span>{html.escape(item['name'])}</span><strong>{item['classes']:,}</strong><small>{item['oa']} OA · {item['developed']} desarrolladas</small></a>'''.replace(",",".") for item in levels)
- return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Documentación de 1° básico completo y 2° básico definido con Matemática desarrollada."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><title>Documentación | Trayectoria Escolar Chile</title></head>
+ return f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Documentación de 1° y 2° básico con desarrollo pedagógico interno completo."><link rel="canonical" href="https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><title>Documentación | Trayectoria Escolar Chile</title></head>
 <body class="level-page"><a class="skip-link" href="#documentacion">Saltar a documentación</a><header class="detail-topbar"><a class="brand" href="index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="index.html">← Volver al portal</a></header>
-<main id="documentacion" class="level-shell"><header class="level-hero docs-hero"><div><p class="eyebrow">Documentación pedagógica</p><h1>Del currículum a decisiones de aula.</h1><p>Una arquitectura para recorrer 1° básico completo y 2° básico definido, con Matemática desarrollada y los límites editoriales visibles.</p><div class="hero-actions"><a class="button primary" href="levels/1-basico.html">Ver 1° básico</a><a class="button dark-text" href="levels/2-basico.html">Ver 2° básico</a></div></div><aside><span>Documentos principales</span><strong>10 guías marco</strong><small>11 guías de 1° + guía de Matemática 2°</small></aside></header>
+<main id="documentacion" class="level-shell"><header class="level-hero docs-hero"><div><p class="eyebrow">Documentación pedagógica</p><h1>Del currículum a decisiones de aula.</h1><p>Una arquitectura para recorrer 1° y 2° básico completos, con estados editoriales y límites de revisión visibles.</p><div class="hero-actions"><a class="button primary" href="levels/1-basico.html">Ver 1° básico</a><a class="button dark-text" href="levels/2-basico.html">Ver 2° básico</a></div></div><aside><span>Documentos principales</span><strong>10 guías marco</strong><small>11 guías de 1° · 11 guías de 2°</small></aside></header>
 <section class="level-metrics"><div><strong>{first_developed+second_developed}</strong><span>clases desarrolladas en 1° y 2°</span></div><div><strong>{first_integrated+second_integrated}</strong><span>experiencias integradas</span></div><div><strong>{second_sequenced}</strong><span>propuestas de 2° pendientes</span></div><div><strong>0</strong><span>revisiones humanas registradas</span></div></section>
 <section class="level-intro"><div><p class="eyebrow">Empieza según tu tarea</p><h2>Documentos que responden preguntas concretas</h2></div><p><strong>Syllabus:</strong> alcance y planificación. <strong>Guía docente:</strong> conducción de clases. <strong>Rúbrica:</strong> evidencia y decisiones. <strong>FAQ:</strong> límites y uso. <strong>Familias:</strong> acompañamiento. <strong>Revisión:</strong> cómo validar responsablemente.</p></section>
 <section class="doc-link-grid"><a href="docs/que-es-un-oa.html"><span>01</span><strong>¿Qué es un OA?</strong><small>Explicación simple con ejemplo</small></a><a href="docs/syllabus.html"><span>02</span><strong>Syllabus</strong><small>Programa, ritmo y planificación</small></a><a href="docs/teaching-guide.html"><span>03</span><strong>Guía docente</strong><small>Preparar, enseñar y adaptar</small></a><a href="docs/roles-docentes.html"><span>04</span><strong>Roles en el aula</strong><small>Responsabilidades y coordinación</small></a><a href="docs/dificultades-en-el-aula.html"><span>05</span><strong>Dificultades y acciones</strong><small>Observar, actuar y comprobar</small></a><a href="docs/rubrica-evaluacion.html"><span>06</span><strong>Rúbrica</strong><small>Observar y decidir</small></a><a href="docs/cobertura.html"><span>07</span><strong>Cobertura total</strong><small>12 niveles con acceso directo</small></a><a href="docs/formatos.html"><span>08</span><strong>Markdown + HTML</strong><small>Cómo se publica cada clase</small></a><a href="docs/licencias.html"><span>09</span><strong>Licencias</strong><small>Qué puede reutilizarse</small></a><a href="docs/faq.html"><span>10</span><strong>Preguntas frecuentes</strong><small>Uso, alcance y límites</small></a></section>
 <section class="oa-explainer"><div><p class="eyebrow">Sin siglas misteriosas</p><h2>OA significa Objetivo de Aprendizaje.</h2></div><div><p>Describe lo que una o un estudiante debe llegar a comprender o hacer. <strong>No es una clase, una tarea ni una actividad.</strong></p><p><code>MA01 OA 01</code> se lee: Matemática · 1° básico · Objetivo de Aprendizaje número 1. El proyecto convierte cada OA en una secuencia de clases con evidencia.</p></div></section>
 <section class="level-intro"><div><p class="eyebrow">Cobertura navegable</p><h2>Los 12 niveles, sin callejones sin salida</h2></div><p>Cada tarjeta abre el explorador ya filtrado. Las cifras separan cobertura curricular, desarrollo editorial y revisión humana.</p></section><section class="coverage-grid">{coverage_cards}</section>
 <section class="level-intro"><div><p class="eyebrow">Desarrollo interno completo</p><h2>1° básico, asignatura por asignatura</h2></div><p>Cada guía reúne secuencias específicas y trazables; el siguiente gate es la revisión profesional humana por asignatura.</p></section><section class="level-grid">{cards}</section>
-<section class="level-intro"><div><p class="eyebrow">Siguiente nivel</p><h2>2° básico definido; Matemática desarrollada.</h2></div><p>El mapa del nivel separa las 93 clases y 64 experiencias integradas de Matemática de las 915 propuestas que siguen sólo secuenciadas.</p></section><div class="hero-actions"><a class="button primary" href="docs/2-basico/matematica.html">Abrir guía de Matemática 2°</a><a class="button dark-text" href="docs/2-basico/index.html">Ver las 11 asignaturas</a></div>
+<section class="level-intro"><div><p class="eyebrow">Segundo nivel completo</p><h2>2° básico, asignatura por asignatura.</h2></div><p>El nivel reúne {second_developed} clases disciplinares y {second_integrated} experiencias transversales integradas, sin propuestas pendientes y con revisión humana aún pendiente.</p></section><div class="hero-actions"><a class="button primary" href="levels/2-basico.html">Abrir 2° básico</a><a class="button dark-text" href="docs/2-basico/index.html">Ver las 11 guías</a></div>
 <section class="level-contract"><div><p class="eyebrow">Lectura honesta</p><h2>Profundidad documental sin inflar el estado.</h2></div><ol><li><strong>Desarrollada</strong><span>La clase contiene decisiones pedagógicas y disciplinares específicas.</span></li><li><strong>Publicada</strong><span>Está disponible y navegable en Markdown y HTML.</span></li><li><strong>Revisada</strong><span>Solo cuando una persona competente registra evidencia de revisión.</span></li><li><strong>Adaptable</strong><span>El docente conserva el OA y ajusta la vía de acceso según su curso.</span></li></ol></section></main>
 <footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documentación abierta y trazable · MIT + CC BY-NC-SA 4.0</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="index.html">Portal</a><a href="docs/licencias.html">Licencias</a></div></footer></body></html>'''
 
@@ -648,11 +685,12 @@ def lesson_page(item, previous_item=None, next_item=None):
 <nav class="sequence-nav" aria-label="Objetivos anterior y siguiente">{nav_link(previous_item,'Objetivo anterior')}{nav_link(next_item,'Objetivo siguiente')}</nav></main>
 <footer class="site-footer"><div><strong>Proyecto educativo independiente</strong><span>Elaboración pedagógica original: CC BY-NC-SA 4.0 · texto oficial MINEDUC: derechos de su titular</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../../../docs/licensing.html">Licencias</a></div></footer></body></html>'''
 def main():
+ defer_generic_docs=os.environ.get("DEFER_GENERIC_DOCS")=="1"
  snap=json.loads(SNAPSHOT.read_text(encoding="utf-8"));developed=json.loads(DEVELOPED.read_text(encoding="utf-8"))["objectives"];objs=[];classes=[];num=1
  for r in sorted(snap["records"],key=lambda x:(x["course_order"],x["subject"],x["subject_slug"])):
   for oa in r["objectives"]:
    reads=oa.get("readings",[]);phases=dose(oa["description"],r["subject_slug"],reads);codes=[f"CL-{num+i:05d}" for i in range(len(phases))];path=f"curriculum/{r['course_slug']}/{r['subject_slug']}/{slugify(oa['code'])}.md"
-   developed_content=build_remaining_sequence(oa["code"]) or build_sha_sequence(oa["code"]) or build_grade_two_math_sequence(oa["code"]) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
+   developed_content=build_remaining_sequence(oa["code"]) or build_sha_sequence(oa["code"]) or build_grade_two_math_sequence(oa["code"]) or build_grade_two_lsh_sequence(oa["code"]) or build_grade_two_amp_sequence(oa["code"]) or build_grade_two_remaining_sequence(oa["code"]) or developed.get(oa["code"]) or build_math_sequence(oa["code"]) or build_language_sequence(oa["code"])
    item={"topic":(developed_content or {}).get("topic",topic_from(oa["description"])),"course":r["course"],"course_slug":r["course_slug"],"course_order":r["course_order"],"subject":r["subject"],"subject_slug":r["subject_slug"],"axis":oa["axis"],"oa_code":oa["code"],"oa_text":oa["description"],"coverage":cov(r["subject_slug"],r["course_order"]),"source_url":oa["url"],"subject_url":r["subject_url"],"verified_at":snap["verified_at"],"readings":reads,"path":path,"codes":codes,"phases":phases,"developed":developed_content}
    integrated_attitude_subjects={"matematica","lenguaje-comunicacion","ciencias-naturales","historia-geografia-ciencias-sociales","artes-visuales","musica","educacion-fisica-salud","tecnologia","ingles-propuesta","lengua-cultura-pueblos-originarios-ancestrales"}
    transversal_integration=r["course_order"]==1 and ((r["subject_slug"] in {"matematica","ciencias-naturales","historia-geografia-ciencias-sociales"} and oa["code"].startswith("de Habilidad")) or (r["subject_slug"] in integrated_attitude_subjects and oa["code"].startswith("de Actitud")))
@@ -664,6 +702,15 @@ def main():
    if r["course_order"]==2 and r["subject_slug"]=="matematica" and oa["code"].startswith(("de Habilidad MA02 ","de Actitud MA02 ")):
     item["topic"]=oa["description"].split("Unidad de Currículum",1)[0].strip().rstrip(".")
     item["integration"]=build_grade_two_math_integration(item)
+   if r["course_order"]==2 and r["subject_slug"] in {"lenguaje-comunicacion","ciencias-naturales","historia-geografia-ciencias-sociales"} and oa["code"].startswith(("de Habilidad ","de Actitud ")):
+    item["topic"]=oa["description"].split("Unidad de Currículum",1)[0].strip().rstrip(".")
+    item["integration"]=build_grade_two_lsh_integration(item)
+   if r["course_order"]==2 and r["subject_slug"] in {"artes-visuales","musica","educacion-fisica-salud"} and oa["code"].startswith("de Actitud "):
+    item["topic"]=oa["description"].split("Unidad de Currículum",1)[0].strip().rstrip(".")
+    item["integration"]=build_grade_two_amp_integration(item)
+   if r["course_order"]==2 and r["subject_slug"] in {"tecnologia","ingles-propuesta","lengua-cultura-pueblos-originarios-ancestrales"} and oa["code"].startswith("de Actitud "):
+    item["topic"]=oa["description"].split("Unidad de Currículum",1)[0].strip().rstrip(".")
+    item["integration"]=build_grade_two_remaining_integration(item)
    if item["developed"] and r["course_order"]==1 and r["subject_slug"]=="matematica" and oa["code"].startswith("MA01 OA "):
     oa_number=int(oa["code"].rsplit(" ",1)[-1])
     for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
@@ -697,23 +744,35 @@ def main():
   web_target=ROOT/"site"/page_path(item);web_target.parent.mkdir(parents=True,exist_ok=True)
   web_target.write_text(lesson_page(item,objs[index-1] if index else None,objs[index+1] if index+1<len(objs) else None),encoding="utf-8")
  levels_root=ROOT/"site"/"levels";levels_root.mkdir(parents=True,exist_ok=True)
- (levels_root/"1-basico.html").write_text(grade_one_page(objs,classes),encoding="utf-8")
- (levels_root/"2-basico.html").write_text(grade_two_page(objs,classes),encoding="utf-8")
- (ROOT/"site"/"documentacion.html").write_text(documentation_page(objs,classes),encoding="utf-8")
+ if not defer_generic_docs:
+  (levels_root/"1-basico.html").write_text(grade_one_page(objs,classes),encoding="utf-8")
+  (levels_root/"2-basico.html").write_text(grade_two_page(objs,classes),encoding="utf-8")
+  (ROOT/"site"/"documentacion.html").write_text(documentation_page(objs,classes),encoding="utf-8")
  docs_root=ROOT/"docs";docs_root.mkdir(parents=True,exist_ok=True)
- (docs_root/"PRIMERO_BASICO.md").write_text(grade_one_documentation(objs,classes),encoding="utf-8")
+ if not defer_generic_docs:(docs_root/"PRIMERO_BASICO.md").write_text(grade_one_documentation(objs,classes),encoding="utf-8")
  grade_docs_root=docs_root/"1-basico";grade_docs_root.mkdir(parents=True,exist_ok=True)
  grade_objs,_,grade_subjects=grade_one_summary(objs,classes)
- (grade_docs_root/"README.md").write_text(grade_one_index_documentation(objs,classes),encoding="utf-8")
- for subject_index,subject in enumerate(grade_subjects):
-  subject_objectives=[item for item in grade_objs if item["subject_slug"]==subject["slug"]]
-  previous_subject=grade_subjects[subject_index-1] if subject_index else None
-  next_subject=grade_subjects[subject_index+1] if subject_index+1<len(grade_subjects) else None
-  (grade_docs_root/f"{subject['slug']}.md").write_text(grade_one_subject_documentation(subject,subject_objectives,previous_subject,next_subject),encoding="utf-8")
+ if not defer_generic_docs:
+  (grade_docs_root/"README.md").write_text(grade_one_index_documentation(objs,classes),encoding="utf-8")
+  for subject_index,subject in enumerate(grade_subjects):
+   subject_objectives=[item for item in grade_objs if item["subject_slug"]==subject["slug"]]
+   previous_subject=grade_subjects[subject_index-1] if subject_index else None
+   next_subject=grade_subjects[subject_index+1] if subject_index+1<len(grade_subjects) else None
+   (grade_docs_root/f"{subject['slug']}.md").write_text(grade_one_subject_documentation(subject,subject_objectives,previous_subject,next_subject),encoding="utf-8")
  grade_two_docs_root=docs_root/"2-basico";grade_two_docs_root.mkdir(parents=True,exist_ok=True)
- (grade_two_docs_root/"README.md").write_text(grade_two_index_documentation(objs,classes),encoding="utf-8")
- (grade_two_docs_root/"matematica.md").write_text(grade_two_math_documentation(objs,classes),encoding="utf-8")
- documentation_pages=generate_documentation_pages()
+ if not defer_generic_docs:
+  (grade_two_docs_root/"README.md").write_text(grade_two_index_documentation(objs,classes),encoding="utf-8")
+  grade_two_objs,_,grade_two_subjects=grade_two_summary(objs,classes)
+  for subject_index,subject in enumerate(grade_two_subjects):
+   if subject["slug"]=="matematica":content=grade_two_math_documentation(objs,classes)
+   else:
+    subject_objectives=[item for item in grade_two_objs if item["subject_slug"]==subject["slug"]]
+    previous_subject=grade_two_subjects[subject_index-1] if subject_index else None
+    next_subject=grade_two_subjects[subject_index+1] if subject_index+1<len(grade_two_subjects) else None
+    content=grade_two_subject_documentation(subject,subject_objectives,previous_subject,next_subject)
+   (grade_two_docs_root/f"{subject['slug']}.md").write_text(content,encoding="utf-8")
+  documentation_pages=generate_documentation_pages()
+ else:documentation_pages=[]
  (ROOT/"site"/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False)+"\n",encoding="utf-8")
  lines=["# Planificación curricular chilena","",f"## {cat['class_count']:,} clases · {cat['objective_count']:,} OA · 12 niveles".replace(",","."),"","Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación de 4 a 7 clases se ajusta con evidencia.","","> Formación común, propuestas, asignaturas según contexto y electivos se distinguen; no representan una carga simultánea.",""]
  for order in range(1,13):
@@ -722,10 +781,10 @@ def main():
   lines += [f"## {cur[0]['course']}","","| Asignatura | OA y tema | Clases | Cobertura |","|---|---|---:|---|"]
   for (sub,oa,path,topic,c),n in seen.items():lines.append(f"| {sub} | [{oa} · {topic}]({path}) | {n} | {c} |")
   lines.append("")
- (ROOT/"CURRICULUM.md").write_text("\n".join(lines),encoding="utf-8")
+ if not defer_generic_docs:(ROOT/"CURRICULUM.md").write_text("\n".join(lines),encoding="utf-8")
  urls=["https://vladimiracunadev-create.github.io/chilean-school-learning-path/","https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/2-basico.html"]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{page_path(item)}" for item in objs]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{path.as_posix()}" for path in documentation_pages]
  sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+"\n".join(f"  <url><loc>{url}</loc></url>" for url in urls)+"\n</urlset>\n"
- (ROOT/"site"/"sitemap.xml").write_text(sitemap,encoding="utf-8")
+ if not defer_generic_docs:(ROOT/"site"/"sitemap.xml").write_text(sitemap,encoding="utf-8")
  print(json.dumps({k:cat[k] for k in ("class_count","objective_count","course_count","subject_count","reading_link_count")}))
 if __name__=="__main__":main()
 

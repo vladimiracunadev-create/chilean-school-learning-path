@@ -22,73 +22,189 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-01071}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+### Clase 1 de 4: Conectar y diagnosticar: actitud en acción disciplinar {#cl-01071}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» dentro de una experiencia de creación o apreciación visual, sin convertir la actitud en charla aislada ni calificación de personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión visual o de proceso y explicaré cómo aportó a mi aprendizaje.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas a una experiencia de creación o apreciación visual: una sólo nombra la actitud y otra la muestra mediante una acción. El curso localiza la evidencia. |
+| Modelado | 20 min | Modela una decisión visual o de proceso que manifieste «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y señala su efecto en el trabajo, la escucha, la seguridad o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve en parejas o grupos, marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre el cuerpo o la personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de una experiencia de creación o apreciación visual, identifica su decisión y explica cómo la actitud influyó en ella. |
+| Cierre | 10 min | Señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
 
-### Clase 2 de 4: Comprender y modelar {#cl-01072}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Evidencia:** Producción o desempeño disciplinar con una marca y explicación atribuible al estudiante.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin usar etiquetas personales.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no la integración.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud dentro de una actividad artística, musical o motriz; no requiere materiales comprados.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-01073}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia o talento.
+- Transferir la acción a otro eje.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa talento, cuerpo o personalidad | Reformula la observación como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una variante y una evidencia sin diagnosticar ni reducir la tarea.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Comprender y modelar: actitud en acción disciplinar {#cl-01072}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-01074}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Propósito docente:** Integrar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» dentro de una experiencia de creación o apreciación visual, sin convertir la actitud en charla aislada ni calificación de personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión visual o de proceso y explicaré cómo aportó a mi aprendizaje.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas a una experiencia de creación o apreciación visual: una sólo nombra la actitud y otra la muestra mediante una acción. El curso localiza la evidencia. |
+| Modelado | 20 min | Modela una decisión visual o de proceso que manifieste «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y señala su efecto en el trabajo, la escucha, la seguridad o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve en parejas o grupos, marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre el cuerpo o la personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de una experiencia de creación o apreciación visual, identifica su decisión y explica cómo la actitud influyó en ella. |
+| Cierre | 10 min | Señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción o desempeño disciplinar con una marca y explicación atribuible al estudiante.
+
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin usar etiquetas personales.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no la integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud dentro de una actividad artística, musical o motriz; no requiere materiales comprados.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia o talento.
+- Transferir la acción a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa talento, cuerpo o personalidad | Reformula la observación como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una variante y una evidencia sin diagnosticar ni reducir la tarea.
+
+### Clase 3 de 4: Aplicar con autonomía: actitud en acción disciplinar {#cl-01073}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» dentro de una experiencia de creación o apreciación visual, sin convertir la actitud en charla aislada ni calificación de personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión visual o de proceso y explicaré cómo aportó a mi aprendizaje.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas a una experiencia de creación o apreciación visual: una sólo nombra la actitud y otra la muestra mediante una acción. El curso localiza la evidencia. |
+| Modelado | 20 min | Modela una decisión visual o de proceso que manifieste «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y señala su efecto en el trabajo, la escucha, la seguridad o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve en parejas o grupos, marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre el cuerpo o la personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de una experiencia de creación o apreciación visual, identifica su decisión y explica cómo la actitud influyó en ella. |
+| Cierre | 10 min | Señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
+
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
+
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
+
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción o desempeño disciplinar con una marca y explicación atribuible al estudiante.
+
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin usar etiquetas personales.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no la integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud dentro de una actividad artística, musical o motriz; no requiere materiales comprados.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia o talento.
+- Transferir la acción a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa talento, cuerpo o personalidad | Reformula la observación como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una variante y una evidencia sin diagnosticar ni reducir la tarea.
+
+### Clase 4 de 4: Demostrar y retroalimentar: actitud en acción disciplinar {#cl-01074}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» dentro de una experiencia de creación o apreciación visual, sin convertir la actitud en charla aislada ni calificación de personalidad.
+
+**Meta para estudiantes:** Hoy haré visible una decisión visual o de proceso y explicaré cómo aportó a mi aprendizaje.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas a una experiencia de creación o apreciación visual: una sólo nombra la actitud y otra la muestra mediante una acción. El curso localiza la evidencia. |
+| Modelado | 20 min | Modela una decisión visual o de proceso que manifieste «Demostrar disposición a desarrollar su creatividad, experimentando, imaginando y pensando divergentemente» y señala su efecto en el trabajo, la escucha, la seguridad o la revisión. |
+| Práctica guiada | 25 min | Realizan una tarea breve en parejas o grupos, marcan una acción observable y reciben retroalimentación sobre esa acción, nunca sobre el cuerpo o la personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una nueva versión de una experiencia de creación o apreciación visual, identifica su decisión y explica cómo la actitud influyó en ella. |
+| Cierre | 10 min | Señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
+
+**Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
+
+**Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
+
+**Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción o desempeño disciplinar con una marca y explicación atribuible al estudiante.
+
+**Criterios de éxito:** resuelve una tarea disciplinar pertinente; hace visible la actitud mediante una acción; explica su efecto sin usar etiquetas personales.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; cambia el contexto cuando la acción aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, acción observable, evidencia individual y cierre; reduce repetición, no la integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud dentro de una actividad artística, musical o motriz; no requiere materiales comprados.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia de la actitud.
+- Revisar un caso que confunde actitud con obediencia o talento.
+- Transferir la acción a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta dentro de la tarea. | La evidencia queda localizada. |
+| Evalúa talento, cuerpo o personalidad | Reformula la observación como acción modificable y vinculada al OA. | La retroalimentación describe qué hizo y qué puede probar. |
+| La actitud desplaza el contenido | Recupera el criterio disciplinar y usa la actitud como medio. | El ticket demuestra contenido e integración. |
+
+**Coordinación de roles profesionales:** El docente mantiene el OA disciplinar como foco; profesionales de apoyo acuerdan una barrera, una variante y una evidencia sin diagnosticar ni reducir la tarea.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

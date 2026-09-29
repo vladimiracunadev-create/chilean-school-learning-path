@@ -1,4 +1,4 @@
-# LC02 OA LF01 — Disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…
+# LC02 OA LF01 — Relatos orales en lengua indígena en contexto de fortalecimiento
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 2° básico | Lengua y Cultura de los Pueblos Originarios Ancestrales | Contexto de fortalecimiento y desarrollo de la lengua | segun-contexto-y-normativa | 4 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** propósito, evidencia, inferencia, estructura, audiencia y revisión. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Relatos orales en lengua indígena en contexto de fortalecimiento exige situar cada aprendizaje en el pueblo, territorio, contexto lingüístico y fuente correspondiente. No se inventa lengua ni se sustituye la voz comunitaria; la secuencia trabaja para comprender un relato desde una fuente comunitaria validada.
+
+**Antes de comenzar.** Acceder a una fuente pertinente con mediación respetuosa, sin exigir conocimiento lingüístico previo ni pertenencia cultural.
+
+**Vocabulario explícito:** escucha, relato, lengua, secuencia, memoria, fuente y comunidad.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Contexto curricular y eje oficial · organización interna en 4 clases
+
+> **Origen:** Organización interna derivada del contexto, eje y OA; no se presenta como unidad oficial adicional..
+
+**Criterios de progresión derivados del OA**
+- Reconoceré voces, propósito y contexto de una fuente validada.
+- Identificaré información, secuencia o significado sin traducir mecánicamente.
+- Emplearé el aprendizaje respetando pronunciación, grafía y contexto.
+
+> **Origen:** Criterios internos que requieren fuente comunitaria, pertinencia territorial y no apropiación.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/2-basico/lc02-oa-lf01)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,73 +41,201 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-01495}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 1 de 4: Escuchar o observar la fuente · Relatos orales en lengua indígena en contexto de fortalecimiento {#cl-01495}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar relatos orales en lengua indígena en contexto de fortalecimiento mediante «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy reconoceré voces, propósito y contexto de una fuente validada.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los pueblos, valorando la importancia que tienen estos para los pueblos a los que pertenecen». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: comprender un relato desde una fuente comunitaria validada Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento» sólo con una fuente comunitaria pertinente o material oficial validado: comprender un relato desde una fuente comunitaria validada No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento»: comprender un relato desde una fuente comunitaria validada Señala la evidencia o decisión que sostiene tu respuesta. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
 
-### Clase 2 de 4: Comprender y modelar {#cl-01496}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Evidencia:** Comprensión o producción situada sobre «escuchar o observar la fuente · relatos orales en lengua indígena en contexto de fortalecimiento» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los pueblos, valorando la importancia que tienen estos para los pueblos a los que pertenecen». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-01497}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los pueblos, valorando la importancia que tienen estos para los pueblos a los que pertenecen». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA D`:** Se promueve trabajo riguroso acorde con oralidad, territorio y enseñanza ancestral pertinente durante «reconoceré voces, propósito y contexto de una fuente validada» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-01498}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…» y demostrarlo mediante interpretación o producción comunicativa fundamentada.
+### Clase 2 de 4: Comprender con apoyo · Relatos orales en lengua indígena en contexto de fortalecimiento {#cl-01496}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar relatos orales en lengua indígena en contexto de fortalecimiento mediante «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy identificaré información, secuencia o significado sin traducir mecánicamente.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los pueblos, valorando la importancia que tienen estos para los pueblos a los que pertenecen». Hace visible el uso de propósito, evidencia, inferencia, estructura, audiencia y revisión y contrasta un ejemplo logrado con el error: resumir en vez de interpretar; opinar sin evidencia. |
-| Práctica guiada | 25 min | Construyen juntos interpretación o producción comunicativa fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce interpretación o producción comunicativa fundamentada sobre **disfrutar y comprender relatos orales breves, en lengua indígena, propios de la tradición de los…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Para «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: comprender un relato desde una fuente comunitaria validada Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento» sólo con una fuente comunitaria pertinente o material oficial validado: comprender un relato desde una fuente comunitaria validada No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento»: comprender un relato desde una fuente comunitaria validada Señala la evidencia o decisión que sostiene tu respuesta. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
-**Errores previsibles:** resumir en vez de interpretar; opinar sin evidencia. **Evidencia:** interpretación o producción comunicativa fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «comprender con apoyo · relatos orales en lengua indígena en contexto de fortalecimiento» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA A`:** Se promueve pertenencia responsable a la red de la vida desde lengua y cultura durante «identificaré información, secuencia o significado sin traducir mecánicamente» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
+
+### Clase 3 de 4: Usar con pertinencia · Relatos orales en lengua indígena en contexto de fortalecimiento {#cl-01497}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar relatos orales en lengua indígena en contexto de fortalecimiento mediante «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy emplearé el aprendizaje respetando pronunciación, grafía y contexto.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Para «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: comprender un relato desde una fuente comunitaria validada Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento» sólo con una fuente comunitaria pertinente o material oficial validado: comprender un relato desde una fuente comunitaria validada No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento»: comprender un relato desde una fuente comunitaria validada Señala la evidencia o decisión que sostiene tu respuesta. |
+
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
+
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
+
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «usar con pertinencia · relatos orales en lengua indígena en contexto de fortalecimiento» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «emplearé el aprendizaje respetando pronunciación, grafía y contexto» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
+
+### Clase 4 de 4: Comunicar y devolver · Relatos orales en lengua indígena en contexto de fortalecimiento {#cl-01498}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Desarrollar relatos orales en lengua indígena en contexto de fortalecimiento mediante «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento», con una experiencia específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy compartiré una comprensión citando la fuente y sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Para «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento», ubica pueblo, territorio, fuente y autorización antes de presentar el recurso: comprender un relato desde una fuente comunitaria validada Declara qué se puede compartir y qué requiere resguardo. |
+| Modelado | 20 min | Modela «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento» sólo con una fuente comunitaria pertinente o material oficial validado: comprender un relato desde una fuente comunitaria validada No inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponda, analizan «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento», reconocen variantes y distinguen aprender de reproducir o apropiarse. |
+| Desempeño individual | 25 min | Resuelve una versión nueva de «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento» sin copiar el modelo; toma una decisión, produce evidencia propia y revisa con el criterio trabajado. |
+| Cierre | 10 min | En «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento»: comprender un relato desde una fuente comunitaria validada Señala la evidencia o decisión que sostiene tu respuesta. |
+
+**Materiales y preparación:** Fuente comunitaria u oficial validada, recurso oral o visual autorizado y materiales definidos con educador tradicional cuando corresponda.
+
+**Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
+
+**Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué contexto hace pertinente cada una.
+
+**Evidencia:** Comprensión o producción situada sobre «comunicar y devolver · relatos orales en lengua indígena en contexto de fortalecimiento» que identifica fuente, pueblo o territorio y respeta límites de uso, autoría y acceso.
+
+**Criterios de éxito:** responde al foco específico de la clase; toma una decisión pertinente y segura; explica o localiza evidencia y reconoce límites.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad, no propósito ni resguardos.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce elementos y conserva la misma decisión central.
+- Análisis de error: revisa un caso ficticio con esta confusión: generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización.
+- Transferencia: cambia contexto o condición y revisa qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite una respuesta sin comprenderla | Pide elegir, señalar o aplicar en un caso nuevo antes de explicar. | La evidencia cambia coherentemente con el nuevo caso. |
+| Generalizar entre pueblos, inventar lengua o reproducir prácticas y símbolos sin autorización | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| La tarea exige exposición o recurso no disponible | Activa caso ficticio, alternativa desconectada o vía de respuesta equivalente. | Participa sin revelar información ni reducir el OA. |
+
+**Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios; coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud LC02 OAA C`:** Se promueve relación integral y respetuosa con entornos naturales, sociales, culturales y espirituales durante «compartiré una comprensión citando la fuente y sus límites» mediante una acción observable; no se evalúa personalidad, origen, identidad ni obediencia.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

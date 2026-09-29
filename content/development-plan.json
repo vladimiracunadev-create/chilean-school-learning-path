@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28",
-  "active_level": "2° básico",
-  "active_subject": "Ninguna — Matemática completa; diez asignaturas pendientes",
-  "delivery_unit": "asignatura completa",
+  "updated_at": "2026-09-29",
+  "active_level": "Ninguno — 1° y 2° básico completos",
+  "active_subject": "Ninguna — 2° básico completo",
+  "delivery_unit": "nivel completo",
   "subject_order": [
     "Matemática",
     "Lenguaje y Comunicación",
@@ -199,7 +199,7 @@
     "pedagogical": {"status": "pendiente", "evidence": null},
     "accessibility_and_inclusion": {"status": "pendiente", "evidence": null},
     "cultural_and_contextual": {"status": "pendiente", "evidence": null},
-    "documentary_and_sources": {"status": "control_interno_completo_primero_y_matematica_segundo", "evidence": "Las 11 asignaturas de 1° básico y Matemática de 2° básico registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML"},
+    "documentary_and_sources": {"status": "control_interno_completo_primero_y_segundo", "evidence": "Las 11 asignaturas de 1° y 2° básico registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML"},
     "rights_and_privacy": {"status": "interno_en_curso", "evidence": "validación automática de licencias y prohibición de datos personales"}
   },
   "completion_gates": [

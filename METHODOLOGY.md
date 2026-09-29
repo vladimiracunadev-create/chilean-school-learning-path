@@ -51,7 +51,7 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 | Revisada | Registra control humano disciplinar, pedagógico, documental, accesible y de derechos. |
 | Publicada | Cuenta con salida Markdown y HTML navegable. |
 
-Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En Matemática de 2° básico, 22 OA de contenido producen 93 clases y 15 OA transversales se materializan en 64 experiencias. Las otras diez asignaturas de 2° básico siguen sólo secuenciadas.
+Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. Ambos niveles tienen desarrollo interno completo y revisión humana pendiente.
 
 ## 5. Generación reproducible
 

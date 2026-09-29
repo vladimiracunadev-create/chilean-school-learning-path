@@ -1,12 +1,12 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1° básico
+## Marco de reconstrucción de 1° y 2° básico
 
-> [⬅️ Centro de documentación](README.md) · [📚 Índice completo del nivel](1-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1° básico: 691 desarrolladas + 343 integradas · Matemática 2°: 93 desarrolladas + 64 integradas**
+**1° básico: 691 desarrolladas + 343 integradas · 2° básico: 721 desarrolladas + 351 integradas**
 
-> Las 1.034 entradas constituyen un **mapa de trabajo**, no una biblioteca de planificaciones terminadas ni un horario anual. Solo las fichas marcadas como desarrolladas contienen por ahora contenido específico; los borradores no deben usarse sin investigación y reescritura docente.
+> Las 2.106 entradas de 1° y 2° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
 ---
 
@@ -14,7 +14,7 @@
 
 Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currículum Nacional en secuencias utilizables. Ese desarrollo se realiza OA por OA: las once asignaturas de 1° básico están desarrolladas en sus 153 OA de contenido y 691 clases; 84 OA de habilidades y actitudes se integran mediante 343 experiencias. El nivel conserva revisión humana pendiente.
 
-2° básico está definido en 247 OA, 1.072 propuestas y once asignaturas. En esta fase sólo Matemática alcanza desarrollo interno: 22 OA de contenido se despliegan en 93 clases y 15 OA transversales en 64 experiencias integradas. Las otras 915 propuestas permanecen secuenciadas y no se presentan como clases terminadas.
+2° básico está desarrollado en sus 247 OA, 1.072 propuestas y once asignaturas: 161 OA de contenido se despliegan en 721 clases y 86 OA transversales en 351 experiencias integradas. No quedan propuestas sólo secuenciadas dentro del nivel.
 
 El programa busca que la planificación sea:
 
@@ -26,7 +26,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1° básico que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° y 2° básico que necesitan preparar, adaptar o contrastar una secuencia.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.
@@ -46,7 +46,9 @@ Al utilizar el programa, el equipo docente podrá:
 8. decidir con evidencia si avanzar, reagrupar o reenseñar;
 9. documentar revisión sin inflar el estado editorial.
 
-## 4. Estructura del nivel
+## 4. Estructura de los niveles
+
+### 1° básico
 
 | Asignatura | OA | Clases | Guía completa |
 |---|---:|---:|---|
@@ -61,6 +63,22 @@ Al utilizar el programa, el equipo docente podrá:
 | Música | 14 | 57 | [Leer](1-basico/musica.md) |
 | Orientación | 8 | 35 | [Leer](1-basico/orientacion.md) |
 | Tecnología | 11 | 46 | [Leer](1-basico/tecnologia.md) |
+
+### 2° básico
+
+| Asignatura | OA | Clases y experiencias | Guía completa |
+|---|---:|---:|---|
+| Artes Visuales | 12 | 52 | [Leer](2-basico/artes-visuales.md) |
+| Ciencias Naturales | 25 | 101 | [Leer](2-basico/ciencias-naturales.md) |
+| Educación Física y Salud | 19 | 79 | [Leer](2-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | 34 | 144 | [Leer](2-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés (Propuesta) | 18 | 84 | [Leer](2-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 31 | 134 | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | 37 | 178 | [Leer](2-basico/lenguaje-comunicacion.md) |
+| Matemática | 37 | 157 | [Leer](2-basico/matematica.md) |
+| Música | 14 | 57 | [Leer](2-basico/musica.md) |
+| Orientación | 8 | 35 | [Leer](2-basico/orientacion.md) |
+| Tecnología | 12 | 51 | [Leer](2-basico/tecnologia.md) |
 
 ## 5. Planificación de principio a fin
 

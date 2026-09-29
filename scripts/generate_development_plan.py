@@ -17,9 +17,11 @@ def is_integrated(code: str) -> bool:
 def main() -> None:
     snapshot = json.loads((ROOT / "sources/mineduc-curriculum-snapshot.json").read_text(encoding="utf-8"))
     plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
+    catalog = json.loads((ROOT / "curriculum/catalog.json").read_text(encoding="utf-8"))
     records = [record for record in snapshot["records"] if record["course_order"] in {1, 2}]
     records.sort(key=lambda record: (record["course_order"], plan["subject_order"].index(record["subject"])))
-    statuses = plan["objective_status"]
+    developed_codes = {item["oa_code"] for item in catalog["classes"] if item["editorial_status"] == "desarrollada"}
+    statuses = plan["objective_status"] | {code: "desarrollado" for code in developed_codes}
     labels = {"desarrollado": "Desarrollado", "en_desarrollo": "En desarrollo", "pendiente": "Pendiente"}
     lines = [
         "# Plan maestro de desarrollo y control profesional", "",
@@ -55,8 +57,11 @@ def main() -> None:
             count = len(dose(item["description"], record["subject_slug"], item.get("readings", [])))
             state = labels.get(statuses.get(item["code"], "pendiente"), "Pendiente")
             lines.append(f"| `{item['code']}` | {item['axis']} | {count} | {state} | [Currículum Nacional]({item['url']}) |")
-        integrated_experiences = {(1, "Matemática"): 68, (1, "Lenguaje y Comunicación"): 29, (1, "Ciencias Naturales"): 40, (1, "Historia, Geografía y Ciencias Sociales"): 64, (1, "Artes Visuales"): 28, (1, "Música"): 28, (1, "Educación Física y Salud"): 32, (1, "Tecnología"): 20, (1, "Inglés (Propuesta)"): 16, (1, "Lengua y Cultura de los Pueblos Originarios Ancestrales"): 18, (2, "Matemática"): 64}.get((record["course_order"], record["subject"]))
-        if integrated_experiences is not None:
+        integrated_rows = [item for item in catalog["classes"] if item["course_order"] == record["course_order"] and item["subject_slug"] == record["subject_slug"] and item["editorial_status"] == "integrada"]
+        integrated_experiences = len(integrated_rows) if integrated or integrated_rows else None
+        if not integrated:
+            integration_note = "**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido."
+        elif integrated_experiences is not None:
             integration_note = f"**Integración transversal documentada:** {len(integrated)} ítems de habilidades o actitudes se incorporan en {integrated_experiences} experiencias dentro de las {subject_class_count} clases de contenido; no se contabilizan como clases autónomas."
         else:
             integration_note = f"**Integración transversal pendiente:** {len(integrated)} ítems de habilidades o actitudes. Se mapearán dentro de los OA disciplinares; no se cerrarán como clases autónomas."

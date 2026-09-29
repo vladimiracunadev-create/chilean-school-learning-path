@@ -12,12 +12,18 @@ try:
     from grade_one_science_history_arts_lessons import ART_ATTITUDES, HISTORY_ATTITUDES, HISTORY_SKILLS, SCIENCE_ATTITUDES, SCIENCE_SKILLS, SEQUENCES as SHA_SEQUENCES, build_sequence as build_sha_sequence
     from grade_one_remaining_lessons import ATTITUDES as REMAINING_ATTITUDES, SEQUENCES as REMAINING_SEQUENCES, build_sequence as build_remaining_sequence
     from grade_two_math_lessons import MATH_ATTITUDES as GRADE_TWO_MATH_ATTITUDES, MATH_SKILLS as GRADE_TWO_MATH_SKILLS, SEQUENCES as GRADE_TWO_MATH_SEQUENCES, build_math_sequence as build_grade_two_math_sequence
+    from grade_two_language_science_history_lessons import LANGUAGE_ATTITUDES as GRADE_TWO_LANGUAGE_ATTITUDES, SCIENCE_SKILLS as GRADE_TWO_SCIENCE_SKILLS, SCIENCE_ATTITUDES as GRADE_TWO_SCIENCE_ATTITUDES, HISTORY_SKILLS as GRADE_TWO_HISTORY_SKILLS, HISTORY_ATTITUDES as GRADE_TWO_HISTORY_ATTITUDES, L as GRADE_TWO_LANGUAGE_SEQUENCES, S as GRADE_TWO_SCIENCE_SEQUENCES, H as GRADE_TWO_HISTORY_SEQUENCES, build_sequence as build_grade_two_lsh_sequence
+    from grade_two_arts_music_pe_lessons import ART_ATTITUDES as GRADE_TWO_ART_ATTITUDES, MUSIC_ATTITUDES as GRADE_TWO_MUSIC_ATTITUDES, PE_ATTITUDES as GRADE_TWO_PE_ATTITUDES, AR as GRADE_TWO_ART_SEQUENCES, MU as GRADE_TWO_MUSIC_SEQUENCES, EF as GRADE_TWO_PE_SEQUENCES, build_sequence as build_grade_two_amp_sequence
+    from grade_two_remaining_lessons import ATTITUDES as GRADE_TWO_REMAINING_ATTITUDES, OR as GRADE_TWO_ORIENTATION_SEQUENCES, TE as GRADE_TWO_TECHNOLOGY_SEQUENCES, EN as GRADE_TWO_ENGLISH_SEQUENCES, LC_META as GRADE_TWO_INDIGENOUS_SEQUENCES, build_sequence as build_grade_two_remaining_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
     from scripts.grade_one_science_history_arts_lessons import ART_ATTITUDES, HISTORY_ATTITUDES, HISTORY_SKILLS, SCIENCE_ATTITUDES, SCIENCE_SKILLS, SEQUENCES as SHA_SEQUENCES, build_sequence as build_sha_sequence
     from scripts.grade_one_remaining_lessons import ATTITUDES as REMAINING_ATTITUDES, SEQUENCES as REMAINING_SEQUENCES, build_sequence as build_remaining_sequence
     from scripts.grade_two_math_lessons import MATH_ATTITUDES as GRADE_TWO_MATH_ATTITUDES, MATH_SKILLS as GRADE_TWO_MATH_SKILLS, SEQUENCES as GRADE_TWO_MATH_SEQUENCES, build_math_sequence as build_grade_two_math_sequence
+    from scripts.grade_two_language_science_history_lessons import LANGUAGE_ATTITUDES as GRADE_TWO_LANGUAGE_ATTITUDES, SCIENCE_SKILLS as GRADE_TWO_SCIENCE_SKILLS, SCIENCE_ATTITUDES as GRADE_TWO_SCIENCE_ATTITUDES, HISTORY_SKILLS as GRADE_TWO_HISTORY_SKILLS, HISTORY_ATTITUDES as GRADE_TWO_HISTORY_ATTITUDES, L as GRADE_TWO_LANGUAGE_SEQUENCES, S as GRADE_TWO_SCIENCE_SEQUENCES, H as GRADE_TWO_HISTORY_SEQUENCES, build_sequence as build_grade_two_lsh_sequence
+    from scripts.grade_two_arts_music_pe_lessons import ART_ATTITUDES as GRADE_TWO_ART_ATTITUDES, MUSIC_ATTITUDES as GRADE_TWO_MUSIC_ATTITUDES, PE_ATTITUDES as GRADE_TWO_PE_ATTITUDES, AR as GRADE_TWO_ART_SEQUENCES, MU as GRADE_TWO_MUSIC_SEQUENCES, EF as GRADE_TWO_PE_SEQUENCES, build_sequence as build_grade_two_amp_sequence
+    from scripts.grade_two_remaining_lessons import ATTITUDES as GRADE_TWO_REMAINING_ATTITUDES, OR as GRADE_TWO_ORIENTATION_SEQUENCES, TE as GRADE_TWO_TECHNOLOGY_SEQUENCES, EN as GRADE_TWO_ENGLISH_SEQUENCES, LC_META as GRADE_TWO_INDIGENOUS_SEQUENCES, build_sequence as build_grade_two_remaining_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -61,6 +67,9 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed.update({code: build_sha_sequence(code) for code in SHA_SEQUENCES})
     all_developed.update({code: build_remaining_sequence(code) for code in REMAINING_SEQUENCES})
     all_developed.update({code: build_grade_two_math_sequence(code) for code in GRADE_TWO_MATH_SEQUENCES})
+    all_developed.update({code: build_grade_two_lsh_sequence(code) for code in GRADE_TWO_LANGUAGE_SEQUENCES | GRADE_TWO_SCIENCE_SEQUENCES | GRADE_TWO_HISTORY_SEQUENCES})
+    all_developed.update({code: build_grade_two_amp_sequence(code) for code in GRADE_TWO_ART_SEQUENCES | GRADE_TWO_MUSIC_SEQUENCES | GRADE_TWO_PE_SEQUENCES})
+    all_developed.update({code: build_grade_two_remaining_sequence(code) for code in GRADE_TWO_ORIENTATION_SEQUENCES | GRADE_TWO_TECHNOLOGY_SEQUENCES | GRADE_TWO_ENGLISH_SEQUENCES | GRADE_TWO_INDIGENOUS_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -73,18 +82,21 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("Los estados editoriales no coinciden con la cobertura declarada")
     transversal_codes: set[str] = set()
     grade_two_transversal_codes: set[str] = set()
+    grade_two_lsh_transversal_codes: dict[str, set[str]] = {"LE": set(), "CN": set(), "HI": set()}
+    grade_two_amp_transversal_codes: dict[str, set[str]] = {"AR": set(), "MU": set(), "EF": set()}
+    grade_two_remaining_transversal_codes: dict[str, set[str]] = {"TE": set(), "EN": set(), "LC": set()}
     language_attitude_codes: set[str] = set()
     sha_transversal_codes: dict[str, set[str]] = {"CN": set(), "HI": set(), "AR": set()}
     remaining_transversal_codes: dict[str, set[str]] = {prefix: set() for prefix in REMAINING_ATTITUDES}
     for oa_code, objective in all_developed.items():
-        if oa_code.startswith(("MA01 OA ", "MA02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
+        if oa_code.startswith(("MA01 OA ", "MA02 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
             for field in ("topic", "pedagogical_explanation", "prerequisites", "vocabulary", "official_alignment"):
                 if not objective.get(field):
                     errors.append(f"{oa_code}: falta fundamento específico {field}")
             alignment = objective.get("official_alignment", {})
             if len(alignment.get("indicators", [])) < 3 or not alignment.get("source", "").startswith("https://www.curriculumnacional.cl/"):
                 errors.append(f"{oa_code}: alineación oficial insuficiente")
-            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
+            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
                 errors.append(f"{oa_code}: la fuente de alineación no coincide con la ficha oficial del snapshot")
         for index, lesson in enumerate(objective.get("lessons", []), 1):
             missing = REQUIRED_DEVELOPED_FIELDS - lesson.keys()
@@ -97,7 +109,7 @@ def validate(root: Path = ROOT) -> list[str]:
             for field in REQUIRED_DEVELOPED_FIELDS - {"criteria", "title"}:
                 if len(str(lesson.get(field, "")).strip()) < 20:
                     errors.append(f"{oa_code}, clase {index}: {field} no tiene desarrollo suficiente")
-            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
+            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
                 for field in ("home_task", "complementary", "difficulty_actions", "specialist_coordination"):
                     if not lesson.get(field):
                         errors.append(f"{oa_code}, clase {index}: falta extensión pedagógica {field}")
@@ -113,6 +125,22 @@ def validate(root: Path = ROOT) -> list[str]:
                 if len(links) != 2 or {link.get("type") for link in links} != {"Habilidad", "Actitud"}:
                     errors.append(f"{oa_code}, clase {index}: falta integración observable de habilidad y actitud")
                 grade_two_transversal_codes.update(link.get("code", "") for link in links)
+            if oa_code.startswith(("LE02 OA ", "CN02 OA ", "HI02 OA ")):
+                links = lesson.get("transversal", [])
+                expected_types = {"Actitud"} if oa_code.startswith("LE02") else {"Habilidad", "Actitud"}
+                if {link.get("type") for link in links} != expected_types:
+                    errors.append(f"{oa_code}, clase {index}: integración transversal incompleta")
+                grade_two_lsh_transversal_codes[oa_code[:2]].update(link.get("code", "") for link in links)
+            if oa_code.startswith(("AR02 OA ", "MU02 OA ", "EF02 OA ")):
+                links = lesson.get("transversal", [])
+                if len(links) != 1 or links[0].get("type") != "Actitud":
+                    errors.append(f"{oa_code}, clase {index}: integración observable de actitud incompleta")
+                grade_two_amp_transversal_codes[oa_code[:2]].update(link.get("code", "") for link in links)
+            if oa_code.startswith(("TE02 OA ", "EN02 OA ", "LC02 OA ")):
+                links = lesson.get("transversal", [])
+                if len(links) != 1 or links[0].get("type") != "Actitud":
+                    errors.append(f"{oa_code}, clase {index}: integración observable de actitud incompleta")
+                grade_two_remaining_transversal_codes[oa_code[:2]].update(link.get("code", "") for link in links)
             if oa_code.startswith("LE01 OA "):
                 links = lesson.get("transversal", [])
                 if len(links) != 1 or links[0].get("type") != "Actitud":
@@ -138,6 +166,25 @@ def validate(root: Path = ROOT) -> list[str]:
     expected_grade_two_transversal_codes = {code for code, _ in GRADE_TWO_MATH_SKILLS + GRADE_TWO_MATH_ATTITUDES}
     if grade_two_transversal_codes != expected_grade_two_transversal_codes:
         errors.append("Las 93 clases de Matemática de 2° básico no cubren los 15 OA transversales")
+    expected_grade_two_lsh = {
+        "LE": {code for code, _ in GRADE_TWO_LANGUAGE_ATTITUDES},
+        "CN": {code for code, _ in GRADE_TWO_SCIENCE_SKILLS + GRADE_TWO_SCIENCE_ATTITUDES},
+        "HI": {code for code, _ in GRADE_TWO_HISTORY_SKILLS + GRADE_TWO_HISTORY_ATTITUDES},
+    }
+    for prefix, expected_codes in expected_grade_two_lsh.items():
+        if grade_two_lsh_transversal_codes[prefix] != expected_codes:
+            errors.append(f"Las clases de {prefix}02 no cubren todos sus OA transversales")
+    expected_grade_two_amp = {
+        "AR": {code for code, _ in GRADE_TWO_ART_ATTITUDES},
+        "MU": {code for code, _ in GRADE_TWO_MUSIC_ATTITUDES},
+        "EF": {code for code, _ in GRADE_TWO_PE_ATTITUDES},
+    }
+    for prefix, expected_codes in expected_grade_two_amp.items():
+        if grade_two_amp_transversal_codes[prefix] != expected_codes:
+            errors.append(f"Las clases de {prefix}02 no cubren todas sus actitudes transversales")
+    for prefix, pool in GRADE_TWO_REMAINING_ATTITUDES.items():
+        if grade_two_remaining_transversal_codes[prefix] != {code for code, _ in pool}:
+            errors.append(f"Las clases de {prefix}02 no cubren todas sus actitudes transversales")
     if language_attitude_codes != {code for code, _ in LANGUAGE_ATTITUDES}:
         errors.append("Las 131 clases de Lenguaje no cubren los 7 OA transversales de actitud")
     expected_sha = {"CN": {code for code, _ in SCIENCE_SKILLS + SCIENCE_ATTITUDES}, "HI": {code for code, _ in HISTORY_SKILLS + HISTORY_ATTITUDES}, "AR": {code for code, _ in ART_ATTITUDES}}
@@ -175,8 +222,8 @@ def validate(root: Path = ROOT) -> list[str]:
     second_developed = sum(item.get("editorial_status") == "desarrollada" for item in second_grade)
     second_integrated = sum(item.get("editorial_status") == "integrada" for item in second_grade)
     second_sequenced = sum(item.get("editorial_status") == "secuenciada" for item in second_grade)
-    if len(second_grade) != 1072 or (second_developed, second_integrated, second_sequenced) != (93, 64, 915):
-        errors.append("Estado de 2° básico incoherente (esperadas: 93 desarrolladas, 64 integradas y 915 secuenciadas)")
+    if len(second_grade) != 1072 or (second_developed, second_integrated, second_sequenced) != (721, 351, 0):
+        errors.append("Estado de 2° básico incoherente (esperadas: 721 desarrolladas, 351 integradas y 0 secuenciadas)")
     second_math = [item for item in second_grade if item.get("subject_slug") == "matematica"]
     second_math_core = [item for item in second_math if item.get("editorial_status") == "desarrollada"]
     second_math_integrated = [item for item in second_math if item.get("editorial_status") == "integrada"]
@@ -184,9 +231,27 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("Matemática de 2° básico debe contener 93 clases desarrolladas en 22 OA de contenido")
     if (len(second_math_integrated), len({item.get("oa_code") for item in second_math_integrated})) != (64, 15):
         errors.append("Matemática de 2° básico debe contener 64 experiencias integradas en 15 OA transversales")
-    other_second = [item for item in second_grade if item.get("subject_slug") != "matematica"]
-    if any(item.get("editorial_status") != "secuenciada" for item in other_second):
-        errors.append("Las diez asignaturas no matemáticas de 2° básico deben permanecer sólo secuenciadas")
+    expected_second_subjects = {
+        "lenguaje-comunicacion": (149, 30, 29, 7),
+        "ciencias-naturales": (57, 14, 44, 11),
+        "historia-geografia-ciencias-sociales": (72, 16, 72, 18),
+        "artes-visuales": (24, 5, 28, 7),
+        "musica": (29, 7, 28, 7),
+        "educacion-fisica-salud": (47, 11, 32, 8),
+        "orientacion": (35, 8, 0, 0),
+        "tecnologia": (31, 7, 20, 5),
+        "ingles-propuesta": (68, 14, 16, 4),
+        "lengua-cultura-pueblos-originarios-ancestrales": (116, 27, 18, 4),
+    }
+    for slug, expected_counts in expected_second_subjects.items():
+        subject_rows = [item for item in second_grade if item.get("subject_slug") == slug]
+        core = [item for item in subject_rows if item.get("editorial_status") == "desarrollada"]
+        integrated = [item for item in subject_rows if item.get("editorial_status") == "integrada"]
+        actual = (len(core), len({item.get("oa_code") for item in core}), len(integrated), len({item.get("oa_code") for item in integrated}))
+        if actual != expected_counts:
+            errors.append(f"Cobertura desarrollada o transversal incompleta en 2° básico: {slug}")
+    if any(item.get("editorial_status") == "secuenciada" for item in second_grade):
+        errors.append("2° básico no debe conservar propuestas sólo secuenciadas")
 
     markdown_cache: dict[str, str] = {}
     html_cache: dict[str, str] = {}
@@ -252,12 +317,12 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"Vista de 1° básico incompleta: falta {token}")
     second_level_page = root / "site/levels/2-basico.html"
     second_level_html = second_level_page.read_text(encoding="utf-8") if second_level_page.is_file() else ""
-    for token in ("1.072", "247", "11", "93", "64", "915", "Secuenciada no significa desarrollada"):
+    for token in ("1.072", "247", "11", "721", "351", "0 propuestas pendientes", "Completo no significa revisado"):
         if token not in second_level_html:
             errors.append(f"Vista de 2° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "10 guías marco", "11 guías de 1°", "Matemática 2°", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
+    for token in ("Documentación pedagógica", "10 guías marco", "11 guías de 1°", "11 guías de 2°", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     required_docs = {
@@ -265,9 +330,9 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/1-basico/README.md": ("Las 11 asignaturas", "Progresión pedagógica común"),
-        "docs/2-basico/README.md": ("Las 11 asignaturas", "93 clases desarrolladas", "915 propuestas secuenciadas"),
+        "docs/2-basico/README.md": ("Las 11 asignaturas", "721 clases desarrolladas", "351 experiencias integradas", "0 propuestas secuenciadas"),
         "docs/2-basico/matematica.md": ("93 clases desarrolladas", "64 experiencias integradas", "Continuidad con 1° básico"),
-        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° básico", "Planificación de principio a fin"),
+        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° y 2° básico", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
@@ -284,7 +349,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
         "LEARNING_PATHS.md": ("Docente de 1° básico", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("806 clases desarrolladas", "2° básico", "Criterio para declarar un nivel completo"),
+        "ROADMAP.md": ("1.434 clases desarrolladas", "2° básico", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),

@@ -2,11 +2,11 @@
 
 # 📚 Centro de documentación
 
-## **1° básico con desarrollo interno completo**
+## **1° y 2° básico con desarrollo interno completo**
 
-**1° básico completo · 2° básico definido · Matemática 2°: 93 clases + 64 experiencias integradas**
+**1° básico: 691 clases + 343 experiencias integradas · 2° básico: 721 clases + 351 experiencias integradas**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ Programa de 1° básico](1-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -34,6 +34,7 @@ Aquí puedes responder:
 | Entender qué significa OA | [Guía simple de OA](QUE_ES_UN_OA.md) | diferencia entre objetivo, clase, actividad, tarea y evidencia |
 | Consultar términos y siglas | [Glosario educativo](GLOSARIO.md) | OA, OAH, OAA, evidencia, apoyos, estados y códigos |
 | Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
+| Recorrer 2° básico | [Índice maestro](2-basico/README.md) | 247 OA, 11 asignaturas completas y acceso a cada guía |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -48,9 +49,11 @@ Aquí puedes responder:
 | Comprender la generación | [Metodología](../METHODOLOGY.md) | snapshot, dosificación, estados, artefactos y validación |
 | Contribuir | [Guía de contribución](../CONTRIBUTING.md) | contrato editorial, fuente de verdad y comandos |
 
-## 🗂️ Guías de asignatura de 1° básico
+## 🗂️ Guías de asignatura
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
+
+Las once guías de [1° básico](1-basico/README.md) y las once de [2° básico](2-basico/README.md) se generan desde la misma fuente que el catálogo y el portal.
 
 | Asignatura | Guía |
 |---|---|
@@ -87,13 +90,13 @@ flowchart TD
 |---|---:|---|
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
-| Borradores | 717 | arquitectura automática pendiente de contenido específico |
-| Desarrolladas | 242 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 97 | habilidades o actitudes incorporadas en clases de contenido |
+| Borradores | 0 en 1° y 2° | los niveles completos no conservan plantillas pendientes |
+| Desarrolladas | 1.434 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 694 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas. 2° básico está definido en sus once asignaturas; sólo Matemática está desarrollada, con 93 clases y 64 experiencias integradas, mientras 915 propuestas permanecen secuenciadas. Las otras 22 clases desarrolladas del catálogo son pilotos de 3°, 4° y 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas. 2° básico reúne 721 clases desarrolladas y 351 experiencias integradas en sus once asignaturas, sin propuestas pendientes. Las otras 22 clases desarrolladas del catálogo son pilotos de 3°, 4° y 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -110,6 +113,8 @@ README.md
 ├── docs/FORMATOS.md               ← Markdown + HTML
 ├── docs/LICENCIAS.md              ← guía simple de reutilización
 ├── docs/1-basico/README.md        ← índice maestro del nivel
+│   └── 11 guías de asignatura
+├── docs/2-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica
 ├── docs/RUBRICA_EVALUACION.md     ← evidencia y decisión

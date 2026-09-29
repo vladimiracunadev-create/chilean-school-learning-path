@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-29 — Desarrollo interno completo de 2° básico
+
+- Cierre de las once asignaturas de 2° básico con 721 clases disciplinares, 351 experiencias integradas y 0 propuestas pendientes.
+- Desarrollo de Lenguaje, Ciencias e Historia; Artes Visuales, Música y Educación Física; y finalmente Orientación, Tecnología, Inglés y Lengua y Cultura de los Pueblos Originarios Ancestrales.
+- Clases diferenciadas por disciplina y OA, con modelado, práctica guiada, desempeño individual, evidencia, apoyo y profundización específicos.
+- Resguardos explícitos de privacidad en Orientación, seguridad en Tecnología y Educación Física, comunicación comprensible sin exigir acento nativo en Inglés y fuentes comunitarias, no invención lingüística y no apropiación en Lengua y Cultura.
+- Publicación de once guías de asignatura, mapa completo del nivel, catálogo, documentación general y portal de GitHub Pages sincronizados.
+- Estado global actualizado a 1.434 clases desarrolladas y 694 experiencias integradas; la revisión profesional humana continúa pendiente y no se confunde con CI verde.
+
 ## 2026-09-28 — 2° básico definido y Matemática desarrollada
 
 - Se delimitaron las once asignaturas, 247 OA y 1.072 propuestas de 2° básico.

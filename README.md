@@ -2,18 +2,18 @@
 
 # 🇨🇱 Trayectoria Escolar Chile
 
-## **1° básico completo · 2° básico definido con Matemática desarrollada**
+## **1° y 2° básico con desarrollo pedagógico interno completo**
 
 **Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
 [![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 
 [![Programa](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-desarrollo%20interno%20completo-17643a?style=for-the-badge)](docs/1-basico/README.md)
-[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-806-0c5963?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![Clases desarrolladas](https://img.shields.io/badge/clases%20desarrolladas-1.434-0c5963?style=for-the-badge)](EDITORIAL_STATUS.md)
 [![Matemática](https://img.shields.io/badge/matem%C3%A1tica-83%20clases-17643a?style=for-the-badge)](docs/1-basico/matematica.md)
 [![Lenguaje](https://img.shields.io/badge/lenguaje-131%20clases-7c5cff?style=for-the-badge)](docs/1-basico/lenguaje-comunicacion.md)
 [![Asignaturas](https://img.shields.io/badge/asignaturas-11-7c5cff?style=for-the-badge)](docs/1-basico/README.md#-las-11-asignaturas)
-[![Matemática 2°](https://img.shields.io/badge/matem%C3%A1tica%202%C2%B0-93%20clases-0c5963?style=for-the-badge)](docs/2-basico/matematica.md)
+[![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases-0c5963?style=for-the-badge)](docs/2-basico/README.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -30,7 +30,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** las 11 asignaturas de 1° básico cuentan con desarrollo pedagógico interno completo: **691 clases** y 343 experiencias integradas. **2° básico está definido en sus 11 asignaturas**, pero sólo Matemática está desarrollada: **93 clases en 22 OA disciplinares** y 64 experiencias que integran 15 OA transversales; las otras 915 propuestas siguen secuenciadas. Se conservan además 22 clases piloto. La revisión humana especializada sigue pendiente.
+> **Estado real del proyecto:** las 11 asignaturas de 1° básico y las 11 de 2° básico cuentan con desarrollo pedagógico interno completo. El primer nivel reúne **691 clases** y 343 experiencias integradas; el segundo, **721 clases** y 351 experiencias integradas. Se conservan además 22 clases piloto de niveles posteriores. La revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -40,11 +40,11 @@
 Este repositorio sirve hoy para tres cosas distintas, expresadas sin mezclar sus estados:
 
 - **Usar el desarrollo completo de 1° básico:** ofrece 691 clases específicas organizadas en 153 secuencias disciplinares, todavía pendientes de revisión humana.
-- **Usar Matemática de 2° básico:** ofrece 93 clases específicas en 22 secuencias y 64 experiencias transversales integradas.
+- **Usar 2° básico completo:** ofrece 721 clases específicas en 161 secuencias disciplinares y 351 experiencias que integran 86 OA transversales.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
 - **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
 
-Si vienes a preparar clases, abre el **[mapa de 1° básico](docs/1-basico/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**. Si buscas un código curricular específico, usa el **[índice de OA](CURRICULUM.md)**.
+Si vienes a preparar clases, abre el **[mapa de 1° básico](docs/1-basico/README.md)** o el **[mapa de 2° básico](docs/2-basico/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**. Si buscas un código curricular específico, usa el **[índice de OA](CURRICULUM.md)**.
 
 ## 🧭 OA, en palabras simples
 
@@ -99,9 +99,11 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **1° básico:** 691 clases desarrolladas en las 11 asignaturas y 343 experiencias transversales integradas, sin duplicar el conteo. Las 1.034 entradas del nivel están resueltas como contenido disciplinar o integración; quedan **0 borradores**. Todo está disponible en Markdown y HTML y mantiene **revisión humana pendiente**.
 
+**2° básico:** 721 clases desarrolladas en las 11 asignaturas y 351 experiencias transversales integradas, sin duplicar el conteo. Las 1.072 entradas del nivel están resueltas y quedan **0 propuestas pendientes**, con revisión humana aún pendiente.
+
 ### Preparado para desarrollo futuro
 
-**Diez asignaturas restantes de 2° básico y niveles superiores:** mapa curricular navegable con propuestas secuenciadas. Los 22 pilotos de 3°, 4° y 8° básico sirven para probar el modelo; no convierten esos niveles en programas terminados.
+**Niveles desde 3° básico hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. Los 22 pilotos de 3°, 4° y 8° básico sirven para probar el modelo; no convierten esos niveles en programas terminados.
 
 ### Lo que significa “12.997”
 
@@ -136,9 +138,9 @@ Una mejora de 1° básico se aplica al contenido pedagógico canónico, no solo 
 
 Si la solicitud es general —por ejemplo, “mejora todas las clases de Matemática”— se trabaja sistemáticamente OA por OA dentro de 1° básico. No se simula avance en otros niveles ni se aumentan conteos por cambiar documentación.
 
-## 📐 2° básico · nivel definido, sólo Matemática desarrollada
+## 📐 2° básico · desarrollo OA por OA
 
-El [mapa de 2° básico](docs/2-basico/README.md) delimita 247 OA, 1.072 propuestas y las once asignaturas. La [guía de Matemática](docs/2-basico/matematica.md) reúne los 22 OA disciplinares en 93 clases específicas y distribuye 15 OA de habilidades y actitudes en 64 experiencias integradas. Artes Visuales, Ciencias Naturales, Educación Física y Salud, Historia, Inglés, Lengua y Cultura de los Pueblos Originarios Ancestrales, Lenguaje y Comunicación, Música, Orientación y Tecnología permanecen explícitamente secuenciadas y pendientes de desarrollo.
+El [mapa de 2° básico](docs/2-basico/README.md) reúne 247 OA y 1.072 propuestas resueltas en sus once asignaturas: 721 clases disciplinares y 351 experiencias integradas. Sus 161 OA de contenido cuentan con secuencias propias; los 86 OA de habilidades y actitudes se observan dentro de esas clases y no duplican el conteo. Cada asignatura tiene una guía específica y el nivel mantiene revisión humana pendiente.
 
 ## 🧠 Cómo progresa una secuencia
 
@@ -268,9 +270,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 93 de Matemática de 2° básico y 22 pilotos: 806 en total.
-- **Contenido integrado:** 343 experiencias de 1° básico y 64 de Matemática de 2° básico: 407 en total; no constituyen clases independientes.
-- **Contenido pendiente:** 915 propuestas de las otras diez asignaturas de 2° básico; los niveles posteriores permanecen secuenciados salvo 22 pilotos.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2° básico y 22 pilotos: 1.434 en total.
+- **Contenido integrado:** 343 experiencias de 1° básico y 351 de 2° básico: 694 en total; no constituyen clases independientes.
+- **Contenido pendiente:** los niveles desde 3° básico hasta 4° medio permanecen secuenciados, salvo 22 pilotos desarrollados.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -281,7 +283,7 @@ flowchart TD
     A[Currículum Nacional] --> B[Registro curricular verificable]
     B --> C[Mapa de cobertura]
     C --> D[Dosificación]
-    D --> E[Desarrollo pedagógico de 1° básico]
+    D --> E[Desarrollo pedagógico de 1° y 2° básico]
     E --> F[Markdown]
     E --> G[HTML]
     F --> H[Validadores y pruebas]
@@ -308,7 +310,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un desarrollo transparente de 1° básico y Matemática de 2° básico, con 806 clases desarrolladas y 407 experiencias integradas en el catálogo;
+- un desarrollo transparente de 1° y 2° básico, con 1.434 clases desarrolladas y 694 experiencias integradas en el catálogo;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -325,7 +327,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ## 💡 Idea fuerza
 
-> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. En 1° básico el desarrollo interno está completo; el siguiente gate es registrar revisión humana competente sin confundirla con publicación o CI.
+> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. En 1° y 2° básico el desarrollo interno está completo; el siguiente gate es registrar revisión humana competente sin confundirla con publicación o CI.
 
 ## 📖 Fuentes y derechos
 

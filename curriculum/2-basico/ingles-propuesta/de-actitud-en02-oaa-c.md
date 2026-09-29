@@ -1,4 +1,4 @@
-# de Actitud EN02 OAA C — Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…
+# de Actitud EN02 OAA C — Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 2° básico | Inglés (Propuesta) | Inglés (Propuesta) Actitudes | propuesta-mineduc | 4 clases de 90 min |
@@ -22,73 +22,189 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-01483}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…» y demostrarlo mediante desempeño comunicativo comprensible.
+### Clase 1 de 4: Conectar y diagnosticar: actitud en acción {#cl-01483}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida» dentro de una interacción comunicativa breve y comprensible en inglés, sin aislarla ni convertirla en etiqueta personal o cultural.
+
+**Meta para estudiantes:** Hoy mostraré una decisión concreta y explicaré cómo ayudó a aprender con otros.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta una respuesta que sólo nombra la actitud con otra que muestra una acción disciplinar observable; el curso localiza la diferencia. |
+| Modelado | 20 min | Modela una decisión dentro de una interacción comunicativa breve y comprensible en inglés, explica su efecto y nombra los límites de seguridad, autoría, privacidad o pertinencia cultural. |
+| Práctica guiada | 25 min | Realizan una tarea breve, marcan la acción observable y reciben retroalimentación sobre la decisión, nunca sobre capacidad, identidad, acento, origen o personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una versión nueva de una interacción comunicativa breve y comprensible en inglés, identifica su decisión y explica cómo la actitud influyó. |
+| Cierre | 10 min | Muestra una evidencia propia y completa: esta acción ayudó porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
 
-### Clase 2 de 4: Comprender y modelar {#cl-01484}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Evidencia:** Producción disciplinar con una acción localizada y explicación atribuible al estudiante.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** resuelve contenido pertinente; hace visible la actitud mediante una acción; explica su efecto respetando seguridad, autoría y contexto.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Integra nuevamente si depende del apoyo; diversifica el contexto cuando aparece con autonomía.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva tarea, decisión observable, evidencia individual y cierre; elimina repetición, no la integración.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud; no requiere internet, compras, datos personales ni exposición cultural.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-01485}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia.
+- Corregir un caso que confunde actitud con obediencia o identidad.
+- Transferir a otro eje.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta. | La acción queda localizada en la producción. |
+| Se evalúa personalidad, identidad o acento | Reformula como acción modificable y disciplinar. | La retroalimentación no contiene etiquetas personales. |
+| La actitud desplaza el OA | Recupera la tarea anfitriona y usa la actitud como medio. | El ticket demuestra ambos componentes. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente conserva el OA; profesionales de apoyo y, en Lengua y Cultura, educador tradicional o fuente comunitaria pertinente, acuerdan acceso, resguardo y evidencia.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Comprender y modelar: actitud en acción {#cl-01484}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-01486}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Propósito docente:** Integrar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida» dentro de una interacción comunicativa breve y comprensible en inglés, sin aislarla ni convertirla en etiqueta personal o cultural.
+
+**Meta para estudiantes:** Hoy mostraré una decisión concreta y explicaré cómo ayudó a aprender con otros.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta una respuesta que sólo nombra la actitud con otra que muestra una acción disciplinar observable; el curso localiza la diferencia. |
+| Modelado | 20 min | Modela una decisión dentro de una interacción comunicativa breve y comprensible en inglés, explica su efecto y nombra los límites de seguridad, autoría, privacidad o pertinencia cultural. |
+| Práctica guiada | 25 min | Realizan una tarea breve, marcan la acción observable y reciben retroalimentación sobre la decisión, nunca sobre capacidad, identidad, acento, origen o personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una versión nueva de una interacción comunicativa breve y comprensible en inglés, identifica su decisión y explica cómo la actitud influyó. |
+| Cierre | 10 min | Muestra una evidencia propia y completa: esta acción ayudó porque… |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción disciplinar con una acción localizada y explicación atribuible al estudiante.
+
+**Criterios de éxito:** resuelve contenido pertinente; hace visible la actitud mediante una acción; explica su efecto respetando seguridad, autoría y contexto.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; diversifica el contexto cuando aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, decisión observable, evidencia individual y cierre; elimina repetición, no la integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud; no requiere internet, compras, datos personales ni exposición cultural.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia.
+- Corregir un caso que confunde actitud con obediencia o identidad.
+- Transferir a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta. | La acción queda localizada en la producción. |
+| Se evalúa personalidad, identidad o acento | Reformula como acción modificable y disciplinar. | La retroalimentación no contiene etiquetas personales. |
+| La actitud desplaza el OA | Recupera la tarea anfitriona y usa la actitud como medio. | El ticket demuestra ambos componentes. |
+
+**Coordinación de roles profesionales:** El docente conserva el OA; profesionales de apoyo y, en Lengua y Cultura, educador tradicional o fuente comunitaria pertinente, acuerdan acceso, resguardo y evidencia.
+
+### Clase 3 de 4: Aplicar con autonomía: actitud en acción {#cl-01485}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida» dentro de una interacción comunicativa breve y comprensible en inglés, sin aislarla ni convertirla en etiqueta personal o cultural.
+
+**Meta para estudiantes:** Hoy mostraré una decisión concreta y explicaré cómo ayudó a aprender con otros.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta una respuesta que sólo nombra la actitud con otra que muestra una acción disciplinar observable; el curso localiza la diferencia. |
+| Modelado | 20 min | Modela una decisión dentro de una interacción comunicativa breve y comprensible en inglés, explica su efecto y nombra los límites de seguridad, autoría, privacidad o pertinencia cultural. |
+| Práctica guiada | 25 min | Realizan una tarea breve, marcan la acción observable y reciben retroalimentación sobre la decisión, nunca sobre capacidad, identidad, acento, origen o personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una versión nueva de una interacción comunicativa breve y comprensible en inglés, identifica su decisión y explica cómo la actitud influyó. |
+| Cierre | 10 min | Muestra una evidencia propia y completa: esta acción ayudó porque… |
+
+**Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
+
+**Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
+
+**Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción disciplinar con una acción localizada y explicación atribuible al estudiante.
+
+**Criterios de éxito:** resuelve contenido pertinente; hace visible la actitud mediante una acción; explica su efecto respetando seguridad, autoría y contexto.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; diversifica el contexto cuando aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, decisión observable, evidencia individual y cierre; elimina repetición, no la integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud; no requiere internet, compras, datos personales ni exposición cultural.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia.
+- Corregir un caso que confunde actitud con obediencia o identidad.
+- Transferir a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta. | La acción queda localizada en la producción. |
+| Se evalúa personalidad, identidad o acento | Reformula como acción modificable y disciplinar. | La retroalimentación no contiene etiquetas personales. |
+| La actitud desplaza el OA | Recupera la tarea anfitriona y usa la actitud como medio. | El ticket demuestra ambos componentes. |
+
+**Coordinación de roles profesionales:** El docente conserva el OA; profesionales de apoyo y, en Lengua y Cultura, educador tradicional o fuente comunitaria pertinente, acuerdan acceso, resguardo y evidencia.
+
+### Clase 4 de 4: Demostrar y retroalimentar: actitud en acción {#cl-01486}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Demostrar curiosidad, interés y respeto ante otras realidades y culturas, reconociendo sus aportes y valorando la diversidad de modos de vida» dentro de una interacción comunicativa breve y comprensible en inglés, sin aislarla ni convertirla en etiqueta personal o cultural.
+
+**Meta para estudiantes:** Hoy mostraré una decisión concreta y explicaré cómo ayudó a aprender con otros.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta una respuesta que sólo nombra la actitud con otra que muestra una acción disciplinar observable; el curso localiza la diferencia. |
+| Modelado | 20 min | Modela una decisión dentro de una interacción comunicativa breve y comprensible en inglés, explica su efecto y nombra los límites de seguridad, autoría, privacidad o pertinencia cultural. |
+| Práctica guiada | 25 min | Realizan una tarea breve, marcan la acción observable y reciben retroalimentación sobre la decisión, nunca sobre capacidad, identidad, acento, origen o personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una versión nueva de una interacción comunicativa breve y comprensible en inglés, identifica su decisión y explica cómo la actitud influyó. |
+| Cierre | 10 min | Muestra una evidencia propia y completa: esta acción ayudó porque… |
+
+**Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
+
+**Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
+
+**Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
+
+**Evidencia:** Producción disciplinar con una acción localizada y explicación atribuible al estudiante.
+
+**Criterios de éxito:** resuelve contenido pertinente; hace visible la actitud mediante una acción; explica su efecto respetando seguridad, autoría y contexto.
+
+**Decisión posterior:** Integra nuevamente si depende del apoyo; diversifica el contexto cuando aparece con autonomía.
+
+**Adaptación a 45 minutos:** Conserva tarea, decisión observable, evidencia individual y cierre; elimina repetición, no la integración.
+
+**Tarea breve y flexible:** Explica o dibuja un ejemplo seguro de la actitud; no requiere internet, compras, datos personales ni exposición cultural.
+
+**Actividades complementarias (opcionales):**
+- Clasificar evidencia y no evidencia.
+- Corregir un caso que confunde actitud con obediencia o identidad.
+- Transferir a otro eje.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Nombra la actitud, pero no la aplica | Pide señalar una decisión concreta. | La acción queda localizada en la producción. |
+| Se evalúa personalidad, identidad o acento | Reformula como acción modificable y disciplinar. | La retroalimentación no contiene etiquetas personales. |
+| La actitud desplaza el OA | Recupera la tarea anfitriona y usa la actitud como medio. | El ticket demuestra ambos componentes. |
+
+**Coordinación de roles profesionales:** El docente conserva el OA; profesionales de apoyo y, en Lengua y Cultura, educador tradicional o fuente comunitaria pertinente, acuerdan acceso, resguardo y evidencia.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

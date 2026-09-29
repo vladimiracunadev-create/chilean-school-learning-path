@@ -8,6 +8,9 @@ from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, 
 from scripts.grade_one_science_history_arts_lessons import ART_ATTITUDES, HISTORY_ATTITUDES, HISTORY_SKILLS, SCIENCE_ATTITUDES, SCIENCE_SKILLS, SEQUENCES as SHA_SEQUENCES, build_sequence as build_sha_sequence
 from scripts.grade_one_remaining_lessons import ATTITUDES as REMAINING_ATTITUDES, SEQUENCES as REMAINING_SEQUENCES, build_sequence as build_remaining_sequence
 from scripts.grade_two_math_lessons import MATH_ATTITUDES as GRADE_TWO_MATH_ATTITUDES, MATH_SKILLS as GRADE_TWO_MATH_SKILLS, SEQUENCES as GRADE_TWO_MATH_SEQUENCES, build_math_sequence as build_grade_two_math_sequence, build_transversal_integration as build_grade_two_math_integration
+from scripts.grade_two_language_science_history_lessons import LANGUAGE_ATTITUDES as GRADE_TWO_LANGUAGE_ATTITUDES, SCIENCE_SKILLS as GRADE_TWO_SCIENCE_SKILLS, SCIENCE_ATTITUDES as GRADE_TWO_SCIENCE_ATTITUDES, HISTORY_SKILLS as GRADE_TWO_HISTORY_SKILLS, HISTORY_ATTITUDES as GRADE_TWO_HISTORY_ATTITUDES, L as GRADE_TWO_LANGUAGE_SEQUENCES, S as GRADE_TWO_SCIENCE_SEQUENCES, H as GRADE_TWO_HISTORY_SEQUENCES, build_sequence as build_grade_two_lsh_sequence
+from scripts.grade_two_arts_music_pe_lessons import ART_ATTITUDES as GRADE_TWO_ART_ATTITUDES, MUSIC_ATTITUDES as GRADE_TWO_MUSIC_ATTITUDES, PE_ATTITUDES as GRADE_TWO_PE_ATTITUDES, AR as GRADE_TWO_ART_SEQUENCES, MU as GRADE_TWO_MUSIC_SEQUENCES, EF as GRADE_TWO_PE_SEQUENCES, build_sequence as build_grade_two_amp_sequence
+from scripts.grade_two_remaining_lessons import ATTITUDES as GRADE_TWO_REMAINING_ATTITUDES, OR as GRADE_TWO_ORIENTATION_SEQUENCES, TE as GRADE_TWO_TECHNOLOGY_SEQUENCES, EN as GRADE_TWO_ENGLISH_SEQUENCES, LC_META as GRADE_TWO_INDIGENOUS_SEQUENCES, build_sequence as build_grade_two_remaining_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -29,8 +32,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 806)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 407)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 1434)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 694)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -42,7 +45,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 806)
+        self.assertEqual(len(developed), 1434)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -90,7 +93,7 @@ class SchoolProgramTests(unittest.TestCase):
         links = [link for pair in manual_links for link in pair] + [link for sequence in sequences[1:] for lesson in sequence["lessons"] for link in lesson["transversal"]]
         self.assertEqual({link["code"] for link in links}, {code for code, _ in MATH_SKILLS + MATH_ATTITUDES})
 
-    def test_second_grade_defines_all_subjects_and_only_develops_mathematics(self):
+    def test_second_grade_is_complete_without_double_counting_transversals(self):
         second_grade = [item for item in self.catalog["classes"] if item["course_order"] == 2]
         self.assertEqual(len(second_grade), 1072)
         self.assertEqual(len({item["oa_code"] for item in second_grade}), 247)
@@ -100,7 +103,24 @@ class SchoolProgramTests(unittest.TestCase):
         transversal = [item for item in mathematics if item["editorial_status"] == "integrada"]
         self.assertEqual((len(core), len({item["oa_code"] for item in core})), (93, 22))
         self.assertEqual((len(transversal), len({item["oa_code"] for item in transversal})), (64, 15))
-        self.assertTrue(all(item["editorial_status"] == "secuenciada" for item in second_grade if item["subject_slug"] != "matematica"))
+        expected = {
+            "lenguaje-comunicacion": (149, 30, 29, 7),
+            "ciencias-naturales": (57, 14, 44, 11),
+            "historia-geografia-ciencias-sociales": (72, 16, 72, 18),
+            "artes-visuales": (24, 5, 28, 7),
+            "musica": (29, 7, 28, 7),
+            "educacion-fisica-salud": (47, 11, 32, 8),
+            "orientacion": (35, 8, 0, 0),
+            "tecnologia": (31, 7, 20, 5),
+            "ingles-propuesta": (68, 14, 16, 4),
+            "lengua-cultura-pueblos-originarios-ancestrales": (116, 27, 18, 4),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in second_grade if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            integrated = [item for item in rows if item["editorial_status"] == "integrada"]
+            self.assertEqual((len(developed), len({item["oa_code"] for item in developed}), len(integrated), len({item["oa_code"] for item in integrated})), counts)
+        self.assertFalse([item for item in second_grade if item["editorial_status"] == "secuenciada"])
 
         sequences = [build_grade_two_math_sequence(code) for code in sorted(GRADE_TWO_MATH_SEQUENCES)]
         lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
@@ -119,6 +139,55 @@ class SchoolProgramTests(unittest.TestCase):
         })
         self.assertNotIn("Unidad de Currículum", integration["lessons"][0]["goal"])
         self.assertNotIn("Unidad de Currículum", integration["lessons"][0]["model"])
+
+    def test_second_grade_language_science_and_history_are_specific(self):
+        expected = {
+            "LE": (GRADE_TWO_LANGUAGE_SEQUENCES, 149, GRADE_TWO_LANGUAGE_ATTITUDES),
+            "CN": (GRADE_TWO_SCIENCE_SEQUENCES, 57, GRADE_TWO_SCIENCE_SKILLS + GRADE_TWO_SCIENCE_ATTITUDES),
+            "HI": (GRADE_TWO_HISTORY_SEQUENCES, 72, GRADE_TWO_HISTORY_SKILLS + GRADE_TWO_HISTORY_ATTITUDES),
+        }
+        for prefix, (profiles, lesson_count, transversal_items) in expected.items():
+            sequences = [build_grade_two_lsh_sequence(code) for code in sorted(profiles)]
+            lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+            self.assertEqual(len(lessons), lesson_count, prefix)
+            for field in ("title", "opening", "model", "independent", "ticket"):
+                self.assertEqual(len({lesson[field] for lesson in lessons}), lesson_count, f"{prefix}:{field}")
+            self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+            self.assertEqual({link["code"] for lesson in lessons for link in lesson["transversal"]}, {code for code, _ in transversal_items})
+
+    def test_second_grade_arts_music_and_physical_education_are_specific(self):
+        expected = {
+            "AR": (GRADE_TWO_ART_SEQUENCES, 24, GRADE_TWO_ART_ATTITUDES),
+            "MU": (GRADE_TWO_MUSIC_SEQUENCES, 29, GRADE_TWO_MUSIC_ATTITUDES),
+            "EF": (GRADE_TWO_PE_SEQUENCES, 47, GRADE_TWO_PE_ATTITUDES),
+        }
+        for prefix, (profiles, lesson_count, attitudes) in expected.items():
+            sequences = [build_grade_two_amp_sequence(code) for code in sorted(profiles)]
+            lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+            self.assertEqual(len(lessons), lesson_count, prefix)
+            for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+                self.assertEqual(len({lesson[field] for lesson in lessons}), lesson_count, f"{prefix}:{field}")
+            self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+            self.assertEqual({link["code"] for lesson in lessons for link in lesson["transversal"]}, {code for code, _ in attitudes})
+
+    def test_second_grade_remaining_subjects_are_specific_safe_and_complete(self):
+        expected = {
+            "OR": (GRADE_TWO_ORIENTATION_SEQUENCES, 35, ()),
+            "TE": (GRADE_TWO_TECHNOLOGY_SEQUENCES, 31, GRADE_TWO_REMAINING_ATTITUDES["TE"]),
+            "EN": (GRADE_TWO_ENGLISH_SEQUENCES, 68, GRADE_TWO_REMAINING_ATTITUDES["EN"]),
+            "LC": (GRADE_TWO_INDIGENOUS_SEQUENCES, 116, GRADE_TWO_REMAINING_ATTITUDES["LC"]),
+        }
+        for prefix, (profiles, lesson_count, attitudes) in expected.items():
+            sequences = [build_grade_two_remaining_sequence(code) for code in sorted(profiles)]
+            lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+            self.assertEqual(len(lessons), lesson_count, prefix)
+            for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+                self.assertEqual(len({lesson[field] for lesson in lessons}), lesson_count, f"{prefix}:{field}")
+            self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+            self.assertEqual({link["code"] for lesson in lessons for link in lesson["transversal"]}, {code for code, _ in attitudes})
+        cultural_text = " ".join(str(build_grade_two_remaining_sequence(code)) for code in GRADE_TWO_INDIGENOUS_SEQUENCES)
+        for safeguard in ("no inventa lengua", "fuente comunitaria", "educador tradicional", "sin apropiarse"):
+            self.assertIn(safeguard, cultural_text.lower())
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]
