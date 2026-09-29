@@ -8,7 +8,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 |---|---:|---:|---|
 | 1° básico | 237 | 1.034 | Desarrollo interno completo · 691 desarrolladas · 343 integradas · 0 borradores · revisión humana pendiente |
 | 2° básico | 247 | 1.072 | Desarrollo interno completo · 721 desarrolladas · 351 integradas · 0 pendientes · revisión humana pendiente |
-| 3° básico | 257 | 1.136 | Secuenciado · 11 clases piloto desarrolladas |
+| 3° básico | 257 | 1.136 | Desarrollo interno completo · 757 desarrolladas · 379 integradas · 0 pendientes · revisión humana pendiente |
 | 4° básico | 268 | 1.195 | Secuenciado · 4 clases piloto desarrolladas |
 | 5° básico | 295 | 1.340 | Secuenciado |
 | 6° básico | 301 | 1.374 | Secuenciado |
@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **1.434 clases desarrolladas**, **694 experiencias integradas**, **0 propuestas pendientes dentro de 1° y 2° básico** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **2.180 clases desarrolladas**, **1.073 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2° y 3° básico** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -57,9 +57,20 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **1.434 clases desarrolladas*
 - [x] Verificar especificidad disciplinar, variedad pedagógica, privacidad, seguridad y resguardos culturales automáticos.
 - [ ] Ejecutar revisión humana y registrar evidencia.
 
+### Fase 3 · 3° básico
+
+- [x] Definir las once asignaturas, 257 OA y 1.136 propuestas del nivel.
+- [x] Desarrollar las 1.136 entradas: 757 clases disciplinares y 379 experiencias integradas.
+- [x] Completar Matemática, Lenguaje, Ciencias e Historia con progresión disciplinar propia.
+- [x] Completar Artes Visuales, Educación Física, Inglés y Lengua y Cultura con resguardos específicos.
+- [x] Completar Música, Orientación y Tecnología con secuencias diferenciadas, seguras y observables.
+- [x] Publicar mapa de contenidos, vista Pages y once guías de asignatura con paridad documental.
+- [x] Verificar especificidad, variedad, privacidad, seguridad, trazabilidad y cobertura transversal.
+- [ ] Ejecutar revisión humana y registrar evidencia.
+
 ### Fases siguientes
 
-- [ ] Completar 3° y 4° básico.
+- [ ] Completar 4° básico.
 - [ ] Completar 5° y 6° básico.
 - [ ] Completar 7° y 8° básico.
 - [ ] Completar 1° y 2° medio.

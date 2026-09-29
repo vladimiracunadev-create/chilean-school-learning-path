@@ -2,11 +2,11 @@
 
 # 📚 Centro de documentación
 
-## **1° y 2° básico con desarrollo interno completo**
+## **1°, 2° y 3° básico con desarrollo interno completo**
 
-**1° básico: 691 clases + 343 experiencias integradas · 2° básico: 721 clases + 351 experiencias integradas**
+**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -35,6 +35,7 @@ Aquí puedes responder:
 | Consultar términos y siglas | [Glosario educativo](GLOSARIO.md) | OA, OAH, OAA, evidencia, apoyos, estados y códigos |
 | Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
 | Recorrer 2° básico | [Índice maestro](2-basico/README.md) | 247 OA, 11 asignaturas completas y acceso a cada guía |
+| Recorrer 3° básico | [Índice maestro](3-basico/README.md) | 257 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -53,21 +54,21 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las once guías de [1° básico](1-basico/README.md) y las once de [2° básico](2-basico/README.md) se generan desde la misma fuente que el catálogo y el portal.
+Las 33 guías —once por cada nivel completo— se generan desde la misma fuente que el catálogo y el portal.
 
-| Asignatura | 1° básico | 2° básico |
-|---|---|---|
-| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) |
-| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) |
-| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) |
-| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) |
-| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
-| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) |
-| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) |
-| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) |
-| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) |
-| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) |
+| Asignatura | 1° básico | 2° básico | 3° básico |
+|---|---|---|---|
+| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) | [Leer](3-basico/artes-visuales.md) |
+| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) | [Leer](3-basico/ciencias-naturales.md) |
+| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) | [Leer](3-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) | [Leer](3-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) | [Leer](3-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](3-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) | [Leer](3-basico/lenguaje-comunicacion.md) |
+| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) | [Leer](3-basico/matematica.md) |
+| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) | [Leer](3-basico/musica.md) |
+| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) | [Leer](3-basico/orientacion.md) |
+| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) | [Leer](3-basico/tecnologia.md) |
 
 ## 🧠 Flujo de uso
 
@@ -90,13 +91,13 @@ flowchart TD
 |---|---:|---|
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
-| Borradores | 0 en 1° y 2° | los niveles completos no conservan plantillas pendientes |
-| Desarrolladas | 1.434 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 694 | habilidades o actitudes incorporadas en clases de contenido |
+| Borradores | 0 en 1°, 2° y 3° | los niveles completos no conservan plantillas pendientes |
+| Desarrolladas | 2.180 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 1.073 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas. 2° básico reúne 721 clases desarrolladas y 351 experiencias integradas en sus once asignaturas, sin propuestas pendientes. Las otras 22 clases desarrolladas del catálogo son pilotos de 3°, 4° y 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379. Los tres niveles tienen once asignaturas completas y cero propuestas pendientes. Las otras 11 clases desarrolladas son pilotos de 4° y 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -116,6 +117,9 @@ README.md
 │   └── 11 guías de asignatura
 ├── docs/SEGUNDO_BASICO.md         ← mapa técnico de 2° básico
 ├── docs/2-basico/README.md        ← índice maestro del nivel
+│   └── 11 guías de asignatura
+├── docs/TERCERO_BASICO.md         ← mapa técnico de 3° básico
+├── docs/3-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica
 ├── docs/RUBRICA_EVALUACION.md     ← evidencia y decisión

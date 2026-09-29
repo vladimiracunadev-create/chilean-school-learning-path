@@ -18,7 +18,7 @@ def main() -> None:
     snapshot = json.loads((ROOT / "sources/mineduc-curriculum-snapshot.json").read_text(encoding="utf-8"))
     plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
     catalog = json.loads((ROOT / "curriculum/catalog.json").read_text(encoding="utf-8"))
-    records = [record for record in snapshot["records"] if record["course_order"] in {1, 2}]
+    records = [record for record in snapshot["records"] if record["course_order"] in {1, 2, 3}]
     records.sort(key=lambda record: (record["course_order"], plan["subject_order"].index(record["subject"])))
     developed_codes = {item["oa_code"] for item in catalog["classes"] if item["editorial_status"] == "desarrollada"}
     statuses = plan["objective_status"] | {code: "desarrollado" for code in developed_codes}
@@ -30,7 +30,7 @@ def main() -> None:
         "Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.", "",
         "## Flujo sostenido", "",
         "~~~mermaid", "flowchart LR", "    A[Investigar OA e indicadores] --> B[Diseñar progresión]", "    B --> C[Escribir clases]", "    C --> D[Control interno]", "    D --> E[Markdown + HTML]", "    E --> F[CI verde]", "    F --> G[Revisión profesional]", "    G --> H[Cerrar asignatura]", "~~~", "",
-        "## Definición y orden editorial de 1° y 2° básico", "",
+        "## Definición y orden editorial de 1°, 2° y 3° básico", "",
         "| Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |", "|---|---:|---|---:|---:|---:|---|",
     ]
     subject_details = []
@@ -75,7 +75,7 @@ def main() -> None:
     lines += [f"- [ ] {gate}" for gate in plan["completion_gates"]]
     lines += ["", "## Regla de comunicación", "", "El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **completa** cuando todos sus OA disciplinares y todos los gates están cerrados.", ""]
     (ROOT / "docs/PLAN_DESARROLLO.md").write_text("\n".join(lines), encoding="utf-8")
-    print(f"Plan generado: {sum(len(core) for _, core, _ in subject_details)} OA disciplinares de 1° y 2° básico")
+    print(f"Plan generado: {sum(len(core) for _, core, _ in subject_details)} OA disciplinares de 1°, 2° y 3° básico")
 
 
 if __name__ == "__main__":

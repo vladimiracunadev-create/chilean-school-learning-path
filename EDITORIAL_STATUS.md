@@ -6,13 +6,13 @@ Fecha de corte: **2026-09-29**. Los conteos provienen de `curriculum/catalog.jso
 |---|---:|---|
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
-| Borrador | 0 | no quedan borradores en 1° ni 2° básico |
-| Desarrollada | 1.434 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 694 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Borrador | 0 | no quedan borradores en 1°, 2° ni 3° básico |
+| Desarrollada | 2.180 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 1.073 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° básico tiene desarrollo interno completo**: 691 clases desarrolladas y 343 experiencias integradas. **2° básico también completa su desarrollo interno**: 721 clases desarrolladas y 351 experiencias integradas en sus once asignaturas, sin propuestas pendientes. Se mantienen además 22 clases piloto de 3°, 4° y 8° básico.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2° y 3° básico tienen desarrollo interno completo**: 691, 721 y 757 clases desarrolladas, junto con 343, 351 y 379 experiencias integradas. Cada nivel cubre sus once asignaturas sin propuestas pendientes. Se mantienen además 11 clases piloto de 4° y 8° básico.
 
 ## Reconstrucción de 1° básico
 
@@ -56,10 +56,29 @@ Las secuencias canónicas viven en los módulos `scripts/grade_two_*_lessons.py`
 
 [Ver documentación de 1° básico](docs/PRIMERO_BASICO.md) · [Abrir programa por asignaturas](docs/1-basico/README.md)
 
+## Reconstrucción de 3° básico
+
+| Asignatura | Clases desarrolladas | Experiencias integradas |
+|---|---:|---:|
+| Artes Visuales | 25 | 28 |
+| Ciencias Naturales | 55 | 49 |
+| Educación Física y Salud | 48 | 32 |
+| Historia, Geografía y Ciencias Sociales | 72 | 72 |
+| Inglés (Propuesta) | 69 | 16 |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 116 | 18 |
+| Lenguaje y Comunicación | 157 | 29 |
+| Matemática | 112 | 87 |
+| Música | 35 | 28 |
+| Orientación | 35 | 0 |
+| Tecnología | 33 | 20 |
+| **Total desarrollado en 3° básico** | **757** | **379** |
+
+Las 1.136 entradas del nivel están resueltas. Las guías explicitan continuidad con 2°, método disciplinar, evidencia observable y resguardos particulares de seguridad, privacidad y pertinencia cultural.
+
+[Ver mapa de 3° básico](docs/3-basico/README.md) · [Abrir sus once guías](docs/3-basico/README.md#las-11-asignaturas)
+
 ## Pilotos conservados en otros niveles
 
-- Matemática 3° básico · MA03 OA 11 · 5 clases.
-- Historia 3° básico · HI03 OA 05 · 6 clases.
 - Ciencias Naturales 4° básico · CN04 OA 01 · 4 clases.
 - Lengua y Literatura 8° básico · LE08 OA 09 · 7 clases.
 

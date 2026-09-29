@@ -77,7 +77,7 @@ La profundización debe seguir vinculada al OA y no convertir siempre al estudia
 
 La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla estos niveles y propone un registro mínimo.
 
-## Consideraciones para 1° y 2° básico
+## Consideraciones para 1°, 2° y 3° básico
 
 - Alterna oralidad, manipulación, movimiento, dibujo y símbolo.
 - Mantén consignas breves, visibles y demostradas.
@@ -87,6 +87,7 @@ La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla est
 - En Orientación, permite trabajar con casos ficticios y ofrece derecho a pasar.
 - En lengua y cultura de pueblos originarios, evita generalizaciones y promueve validación local o comunitaria.
 - En 2° básico, recupera explícitamente el aprendizaje de 1° antes de ampliar rango, vocabulario, precisión o autonomía.
+- En 3° básico, aumenta la justificación y autonomía de manera gradual, sin convertir el cambio de nivel en retiro automático de apoyos.
 - No conviertas el cambio de nivel en retiro automático de apoyos: retíralos según evidencia observable.
 
 ## Errores frecuentes al usar el repositorio

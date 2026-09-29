@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-29 — Desarrollo interno completo de 3° básico
+
+- Cierre de las once asignaturas de 3° básico con 757 clases disciplinares, 379 experiencias integradas y 0 propuestas pendientes.
+- Matemática, Lenguaje, Ciencias, Historia, Artes, Educación Física, Inglés, Lengua y Cultura, Música, Orientación y Tecnología cuentan con secuencias diferenciadas, evidencia observable y continuidad con 2°.
+- Resguardos explícitos de privacidad y actuación institucional en Orientación; seguridad física, digital y de herramientas en Tecnología; escucha segura en Música; y pertinencia cultural en Lengua y Cultura.
+- Publicación del mapa completo, once guías de asignatura, vista específica en GitHub Pages y paridad documental con 1° y 2° básico.
+- Estado global actualizado a 2.180 clases desarrolladas y 1.073 experiencias integradas; la revisión profesional humana continúa pendiente y no se confunde con CI verde.
+
 ## 2026-09-29 — Paridad documental entre 1° y 2° básico
 
 - El índice narrativo de 2° básico alcanza el mismo contrato documental que 1°: propósito, problemas, resultados, prerrequisitos, recorrido, progresión, ritmo, anatomía, evaluación, estados y documentos relacionados.

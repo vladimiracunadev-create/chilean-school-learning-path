@@ -51,7 +51,7 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 | Revisada | Registra control humano disciplinar, pedagógico, documental, accesible y de derechos. |
 | Publicada | Cuenta con salida Markdown y HTML navegable. |
 
-Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. Ambos niveles tienen desarrollo interno completo y revisión humana pendiente.
+Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. En 3° básico, 165 OA de contenido producen 757 clases y 92 OA transversales se materializan en 379 experiencias. Los tres niveles tienen desarrollo interno completo y revisión humana pendiente.
 
 ## 5. Generación reproducible
 
@@ -60,8 +60,8 @@ Estos estados no son equivalentes. En particular, una página publicada puede se
 - el catálogo JSON;
 - las fichas Markdown por OA;
 - las páginas HTML por OA;
-- la vista de 1° básico;
-- la documentación generada de 1° básico;
+- las vistas de 1°, 2° y 3° básico;
+- la documentación generada de los tres niveles completos;
 - la malla y el sitemap.
 
 La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.
