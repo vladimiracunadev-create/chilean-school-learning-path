@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-29 — Matemática, Lenguaje y Ciencias de 5° básico
+
+- Desarrollo de 71 OA disciplinares en 345 clases específicas: 115 de Matemática, 166 de Lenguaje y Comunicación y 64 de Ciencias Naturales.
+- Integración de 40 OA de habilidades y actitudes mediante 173 experiencias dentro del contenido, sin duplicarlas como clases independientes.
+- Progresiones diferenciadas por OA, con anclas concretas, errores frecuentes, evidencia individual, apoyo, profundización y transferencia.
+- Publicación de tres guías equivalentes, índice parcial de 5° y vista específica en GitHub Pages; las otras nueve denominaciones curriculares permanecen explícitamente pendientes.
+- Estado global actualizado a 3.332 clases desarrolladas y 1.630 experiencias integradas, con revisión humana pendiente.
+
 ## 2026-09-29 — 4° básico completo
 
 - Desarrollo pedagógico de las diez asignaturas restantes de 4° básico, conservando Matemática: el nivel suma 811 clases disciplinares en 175 OA de contenido.

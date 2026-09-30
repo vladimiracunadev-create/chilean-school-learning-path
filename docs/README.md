@@ -4,9 +4,9 @@
 
 ## **1°, 2°, 3° y 4° básico con desarrollo interno completo**
 
-**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384**
+**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5° parcial: 345 + 173**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🚧 5° parcial](5-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -37,6 +37,7 @@ Aquí puedes responder:
 | Recorrer 2° básico | [Índice maestro](2-basico/README.md) | 247 OA, 11 asignaturas completas y acceso a cada guía |
 | Recorrer 3° básico | [Índice maestro](3-basico/README.md) | 257 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
 | Recorrer 4° básico | [Índice maestro](4-basico/README.md) | 268 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
+| Recorrer el avance de 5° básico | [Índice parcial](5-basico/README.md) | Matemática, Lenguaje y Ciencias completas; nueve denominaciones pendientes |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -55,7 +56,9 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las 44 guías —once por cada uno de los cuatro niveles completos— se generan desde la misma fuente que el catálogo y el portal.
+Las 47 guías disponibles —44 de los cuatro niveles completos y tres del primer lote de 5°— se generan desde la misma fuente que el catálogo y el portal.
+
+**5° básico parcial:** [Matemática](5-basico/matematica.md) · [Lenguaje y Comunicación](5-basico/lenguaje-comunicacion.md) · [Ciencias Naturales](5-basico/ciencias-naturales.md). Las otras nueve guías se publicarán cuando esas denominaciones tengan desarrollo específico.
 
 | Asignatura | 1° básico | 2° básico | 3° básico | 4° básico |
 |---|---|---|---|---|
@@ -93,12 +96,12 @@ flowchart TD
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
 | Borradores | 0 en 1°, 2°, 3° y 4° | los niveles completos no conservan plantillas pendientes |
-| Desarrolladas | 2.987 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 1.457 | habilidades o actitudes incorporadas en clases de contenido |
+| Desarrolladas | 3.332 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 1.630 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384. Los cuatro niveles tienen once asignaturas completas y cero propuestas pendientes. Las otras 7 clases desarrolladas corresponden al piloto de Lengua y Literatura de 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384. En 5° están completas tres asignaturas con 345 clases y 173 integraciones; el nivel conserva 822 propuestas pendientes. Las otras 7 clases desarrolladas corresponden al piloto de 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -123,6 +126,8 @@ README.md
 ├── docs/3-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── docs/CUARTO_BASICO.md          ← mapa técnico de 4° básico
+├── docs/5-basico/README.md        ← avance parcial de 5° básico
+│   └── 3 guías de asignatura
 ├── docs/4-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica

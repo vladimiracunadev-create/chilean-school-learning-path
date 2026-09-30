@@ -1,10 +1,10 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1°, 2°, 3° y 4° básico
+## Marco de reconstrucción de 1°, 2°, 3° y 4° básico · primer lote de 5°
 
-> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [🚧 5° parcial](5-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5° parcial: 345 + 173**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -20,6 +20,8 @@ Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currí
 
 4° básico está desarrollado en sus 268 OA, 1.195 propuestas y once asignaturas: 175 OA de contenido se despliegan en 811 clases y 93 OA transversales en 384 experiencias integradas. Las clases aumentan precisión y autonomía sin abandonar diagnóstico, modelado, acceso ni resguardos disciplinares.
 
+En 5° básico están desarrolladas Matemática, Lenguaje y Comunicación y Ciencias Naturales: 71 OA de contenido se despliegan en 345 clases y 40 OA transversales en 173 experiencias integradas. Las otras nueve denominaciones curriculares conservan 822 propuestas pendientes, por lo que el nivel no se declara completo.
+
 El programa busca que la planificación sea:
 
 - **trazable**, porque conserva OA, eje, fuente y fecha;
@@ -30,7 +32,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1°, 2°, 3° y 4° básico que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° a 4° básico y de las tres asignaturas desarrolladas de 5° que necesitan preparar, adaptar o contrastar una secuencia.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.
@@ -115,6 +117,16 @@ Al utilizar el programa, el equipo docente podrá:
 | Música | 15 | 63 | [Leer](4-basico/musica.md) |
 | Orientación | 9 | 40 | [Leer](4-basico/orientacion.md) |
 | Tecnología | 12 | 55 | [Leer](4-basico/tecnologia.md) |
+
+### 5° básico · lote desarrollado
+
+| Asignatura | OA | Clases y experiencias | Guía |
+|---|---:|---:|---|
+| Matemática | 47 | 201 | [Leer](5-basico/matematica.md) |
+| Lenguaje y Comunicación | 37 | 195 | [Leer](5-basico/lenguaje-comunicacion.md) |
+| Ciencias Naturales | 28 | 122 | [Leer](5-basico/ciencias-naturales.md) |
+
+Las restantes nueve denominaciones curriculares siguen inventariadas y secuenciadas, pero no se presentan como contenido desarrollado.
 
 ## 5. Planificación de principio a fin
 

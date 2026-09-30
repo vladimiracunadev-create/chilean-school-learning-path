@@ -40,7 +40,7 @@ Cada OA comienza con una evidencia breve de 3°. Si la base no está disponible,
 
 | Momento | Función pedagógica | Evidencia |
 |---|---|---|
-| Inicio | Recuperar 2° y diagnosticar sin calificar | Respuesta inicial de todo el curso |
+| Inicio | Recuperar 3° y diagnosticar sin calificar | Respuesta inicial de todo el curso |
 | Modelado | Hacer visible contenido, decisión y error | Reconstrucción del ejemplo o contraste |
 | Práctica guiada | Ensayar con apoyo y retroalimentación | Producción compartida y ajustes observables |
 | Desempeño individual | Comprobar qué puede hacer cada estudiante | Producto, acción o explicación individual |

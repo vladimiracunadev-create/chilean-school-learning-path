@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 4° básico completo — siguiente nivel: 5° básico · **Asignatura activa:** Matemática · **Unidad de entrega:** nivel completo
+**Nivel activo:** 5° básico en desarrollo — Matemática, Lenguaje y Ciencias completas · **Asignatura activa:** Historia, Geografía y Ciencias Sociales · **Unidad de entrega:** nivel completo
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -19,7 +19,7 @@ flowchart LR
     G --> H[Cerrar asignatura]
 ~~~
 
-## Definición y orden editorial de 1°, 2°, 3° y 4° básico
+## Definición y orden editorial de 1° a 5° básico
 
 | Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |
 |---|---:|---|---:|---:|---:|---|
@@ -32,8 +32,8 @@ flowchart LR
 | 1° básico | 7 | Educación Física y Salud | 11 | 48 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 1° básico | 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 1° básico | 9 | Tecnología | 6 | 26 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 1° básico | 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 1° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 129 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 1° básico | 11 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 1° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 129 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 1 | Matemática | 22 | 93 | 15 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 2 | Lenguaje y Comunicación | 30 | 149 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 3 | Ciencias Naturales | 14 | 57 | 11 | Desarrollo interno completo · revisión humana pendiente |
@@ -43,8 +43,8 @@ flowchart LR
 | 2° básico | 7 | Educación Física y Salud | 11 | 47 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 9 | Tecnología | 7 | 31 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 2° básico | 10 | Inglés (Propuesta) | 14 | 68 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 2° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 27 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 2° básico | 11 | Inglés (Propuesta) | 14 | 68 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 2° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 27 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 1 | Matemática | 26 | 112 | 20 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 2 | Lenguaje y Comunicación | 31 | 157 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 3 | Ciencias Naturales | 13 | 55 | 12 | Desarrollo interno completo · revisión humana pendiente |
@@ -54,8 +54,8 @@ flowchart LR
 | 3° básico | 7 | Educación Física y Salud | 11 | 48 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 9 | Tecnología | 7 | 33 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 3° básico | 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 3° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 26 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 3° básico | 11 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 3° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 26 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 1 | Matemática | 27 | 118 | 20 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 2 | Lenguaje y Comunicación | 30 | 161 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 3 | Ciencias Naturales | 17 | 71 | 12 | Desarrollo interno completo · revisión humana pendiente |
@@ -65,8 +65,20 @@ flowchart LR
 | 4° básico | 7 | Educación Física y Salud | 11 | 49 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 8 | Orientación | 9 | 40 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 9 | Tecnología | 7 | 35 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 4° básico | 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 4° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 126 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 4° básico | 11 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 4° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 126 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 5° básico | 1 | Matemática | 27 | 115 | 20 | Desarrollo interno completo · revisión humana pendiente |
+| 5° básico | 2 | Lenguaje y Comunicación | 30 | 166 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 5° básico | 3 | Ciencias Naturales | 14 | 64 | 14 | Desarrollo interno completo · revisión humana pendiente |
+| 5° básico | 4 | Historia, Geografía y Ciencias Sociales | 22 | 106 | 22 | Activa |
+| 5° básico | 5 | Artes Visuales | 5 | 27 | 7 | 0/5 OA desarrollados |
+| 5° básico | 6 | Música | 8 | 35 | 7 | 0/8 OA desarrollados |
+| 5° básico | 7 | Educación Física y Salud | 11 | 49 | 8 | 0/11 OA desarrollados |
+| 5° básico | 8 | Orientación | 9 | 41 | 0 | 0/9 OA desarrollados |
+| 5° básico | 9 | Tecnología | 7 | 35 | 5 | 0/7 OA desarrollados |
+| 5° básico | 10 | Inglés | 16 | 76 | 4 | 0/16 OA desarrollados |
+| 5° básico | 11 | Inglés (Propuesta) | 15 | 71 | 8 | 0/15 OA desarrollados |
+| 5° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | 0 | 0/29 OA desarrollados |
 
 ## Plan por asignatura e ítem
 
@@ -1034,6 +1046,283 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 **Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 18 experiencias dentro de las 126 clases de contenido; no se contabilizan como clases autónomas.
 
+### Matemática · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `MA05 OA 01` | Números y operaciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-01) |
+| `MA05 OA 02` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-02) |
+| `MA05 OA 03` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-03) |
+| `MA05 OA 04` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-04) |
+| `MA05 OA 05` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-05) |
+| `MA05 OA 06` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-06) |
+| `MA05 OA 07` | Números y operaciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-07) |
+| `MA05 OA 08` | Números y operaciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-08) |
+| `MA05 OA 09` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-09) |
+| `MA05 OA 10` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-10) |
+| `MA05 OA 11` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-11) |
+| `MA05 OA 12` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-12) |
+| `MA05 OA 13` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-13) |
+| `MA05 OA 14` | Patrones y álgebra | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-14) |
+| `MA05 OA 15` | Patrones y álgebra | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-15) |
+| `MA05 OA 16` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-16) |
+| `MA05 OA 17` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-17) |
+| `MA05 OA 18` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-18) |
+| `MA05 OA 19` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-19) |
+| `MA05 OA 20` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-20) |
+| `MA05 OA 21` | Medición | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-21) |
+| `MA05 OA 22` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-22) |
+| `MA05 OA 23` | Datos y probabilidades | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-23) |
+| `MA05 OA 24` | Datos y probabilidades | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-24) |
+| `MA05 OA 25` | Datos y probabilidades | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-25) |
+| `MA05 OA 26` | Datos y probabilidades | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-26) |
+| `MA05 OA 27` | Datos y probabilidades | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-27) |
+
+**Integración transversal documentada:** 20 ítems de habilidades o actitudes se incorporan en 86 experiencias dentro de las 115 clases de contenido; no se contabilizan como clases autónomas.
+
+### Lenguaje y Comunicación · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `LE05 OA 01` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-01) |
+| `LE05 OA 02` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-02) |
+| `LE05 OA 03` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-03) |
+| `LE05 OA 04` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-04) |
+| `LE05 OA 05` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-05) |
+| `LE05 OA 06` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-06) |
+| `LE05 OA 07` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-07) |
+| `LE05 OA 08` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-08) |
+| `LE05 OA 09` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-09) |
+| `LE05 OA 10` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-10) |
+| `LE05 OA 11` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-11) |
+| `LE05 OA 12` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-12) |
+| `LE05 OA 13` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-13) |
+| `LE05 OA 14` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-14) |
+| `LE05 OA 15` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-15) |
+| `LE05 OA 16` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-16) |
+| `LE05 OA 17` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-17) |
+| `LE05 OA 18` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-18) |
+| `LE05 OA 19` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-19) |
+| `LE05 OA 20` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-20) |
+| `LE05 OA 21` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-21) |
+| `LE05 OA 22` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-22) |
+| `LE05 OA 23` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-23) |
+| `LE05 OA 24` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-24) |
+| `LE05 OA 25` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-25) |
+| `LE05 OA 26` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-26) |
+| `LE05 OA 27` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-27) |
+| `LE05 OA 28` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-28) |
+| `LE05 OA 29` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-29) |
+| `LE05 OA 30` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/5-basico/le05-oa-30) |
+
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 29 experiencias dentro de las 166 clases de contenido; no se contabilizan como clases autónomas.
+
+### Ciencias Naturales · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `CN05 OA 01` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-01) |
+| `CN05 OA 02` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-02) |
+| `CN05 OA 03` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-03) |
+| `CN05 OA 04` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-04) |
+| `CN05 OA 05` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-05) |
+| `CN05 OA 06` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-06) |
+| `CN05 OA 07` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-07) |
+| `CN05 OA 08` | Ciencias Físicas y Químicas | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-08) |
+| `CN05 OA 09` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-09) |
+| `CN05 OA 10` | Ciencias Físicas y Químicas | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-10) |
+| `CN05 OA 11` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-11) |
+| `CN05 OA 12` | Ciencias de la Tierra y el Universo | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-12) |
+| `CN05 OA 13` | Ciencias de la Tierra y el Universo | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-13) |
+| `CN05 OA 14` | Ciencias de la Tierra y el Universo | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/5-basico/cn05-oa-14) |
+
+**Integración transversal documentada:** 14 ítems de habilidades o actitudes se incorporan en 58 experiencias dentro de las 64 clases de contenido; no se contabilizan como clases autónomas.
+
+### Historia, Geografía y Ciencias Sociales · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `HI05 OA 01` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-01) |
+| `HI05 OA 02` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-02) |
+| `HI05 OA 03` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-03) |
+| `HI05 OA 04` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-04) |
+| `HI05 OA 05` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-05) |
+| `HI05 OA 06` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-06) |
+| `HI05 OA 07` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-07) |
+| `HI05 OA 08` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-08) |
+| `HI05 OA 09` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-09) |
+| `HI05 OA 10` | Geografía | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-10) |
+| `HI05 OA 11` | Geografía | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-11) |
+| `HI05 OA 12` | Geografía | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-12) |
+| `HI05 OA 13` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-13) |
+| `HI05 OA 14` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-14) |
+| `HI05 OA 15` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-15) |
+| `HI05 OA 16` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-16) |
+| `HI05 OA 17` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-17) |
+| `HI05 OA 18` | Formación ciudadana | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-18) |
+| `HI05 OA 19` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-19) |
+| `HI05 OA 20` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-20) |
+| `HI05 OA 21` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-21) |
+| `HI05 OA 22` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/5-basico/hi05-oa-22) |
+
+**Integración transversal documentada:** 22 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 106 clases de contenido; no se contabilizan como clases autónomas.
+
+### Artes Visuales · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `AR05 OA 01` | Expresar y crear visualmente | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/5-basico/ar05-oa-01) |
+| `AR05 OA 02` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/5-basico/ar05-oa-02) |
+| `AR05 OA 03` | Expresar y crear visualmente | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/5-basico/ar05-oa-03) |
+| `AR05 OA 04` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/5-basico/ar05-oa-04) |
+| `AR05 OA 05` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/5-basico/ar05-oa-05) |
+
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 27 clases de contenido; no se contabilizan como clases autónomas.
+
+### Música · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `MU05 OA 01` | Escuchar y apreciar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-01) |
+| `MU05 OA 02` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-02) |
+| `MU05 OA 03` | Escuchar y apreciar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-03) |
+| `MU05 OA 04` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-04) |
+| `MU05 OA 05` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-05) |
+| `MU05 OA 06` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-06) |
+| `MU05 OA 07` | Reflexionar y contextualizar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-07) |
+| `MU05 OA 08` | Reflexionar y contextualizar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/5-basico/mu05-oa-08) |
+
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 35 clases de contenido; no se contabilizan como clases autónomas.
+
+### Educación Física y Salud · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `EF05 OA 01` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-01) |
+| `EF05 OA 02` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-02) |
+| `EF05 OA 03` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-03) |
+| `EF05 OA 04` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-04) |
+| `EF05 OA 05` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-05) |
+| `EF05 OA 06` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-06) |
+| `EF05 OA 07` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-07) |
+| `EF05 OA 08` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-08) |
+| `EF05 OA 09` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-09) |
+| `EF05 OA 10` | Seguridad, juego limpio y liderazgo | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-10) |
+| `EF05 OA 11` | Seguridad, juego limpio y liderazgo | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/5-basico/ef05-oa-11) |
+
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 49 clases de contenido; no se contabilizan como clases autónomas.
+
+### Orientación · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `OR05 OA 01` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-01) |
+| `OR05 OA 02` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-02) |
+| `OR05 OA 03` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-03) |
+| `OR05 OA 04` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-04) |
+| `OR05 OA 05` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-05) |
+| `OR05 OA 06` | Relaciones interpersonales | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-06) |
+| `OR05 OA 07` | Relaciones interpersonales | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-07) |
+| `OR05 OA 08` | Participación y pertenencia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-08) |
+| `OR05 OA 09` | Trabajo escolar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/5-basico/or05-oa-09) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Tecnología · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `TE05 OA 01` | Diseñar, hacer y probar | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-01) |
+| `TE05 OA 02` | Diseñar, hacer y probar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-02) |
+| `TE05 OA 03` | Diseñar, hacer y probar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-03) |
+| `TE05 OA 04` | Diseñar, hacer y probar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-04) |
+| `TE05 OA 05` | Tecnologías de la información y la comunicación | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-05) |
+| `TE05 OA 06` | Tecnologías de la información y la comunicación | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-06) |
+| `TE05 OA 07` | Tecnologías de la información y la comunicación | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/5-basico/te05-oa-07) |
+
+**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 35 clases de contenido; no se contabilizan como clases autónomas.
+
+### Inglés · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `IN05 OA 01` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-01) |
+| `IN05 OA 02` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-02) |
+| `IN05 OA 03` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-03) |
+| `IN05 OA 04` | Comprensión auditiva | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-04) |
+| `IN05 OA 05` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-05) |
+| `IN05 OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-06) |
+| `IN05 OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-07) |
+| `IN05 OA 08` | Comprensión de lectura | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-08) |
+| `IN05 OA 09` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-09) |
+| `IN05 OA 10` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-10) |
+| `IN05 OA 11` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-11) |
+| `IN05 OA 12` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-12) |
+| `IN05 OA 13` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-13) |
+| `IN05 OA 14` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-14) |
+| `IN05 OA 15` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-15) |
+| `IN05 OA 16` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/5-basico/in05-oa-16) |
+
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 76 clases de contenido; no se contabilizan como clases autónomas.
+
+### Inglés (Propuesta) · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `EN05 OA 01` | Comprensión auditiva | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-01) |
+| `EN05 OA 02` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-02) |
+| `EN05 OA 03` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-03) |
+| `EN05 OA 04` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-04) |
+| `EN05 OA 05` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-05) |
+| `EN05 OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-06) |
+| `EN05 OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-07) |
+| `EN05 OA 08` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-08) |
+| `EN05 OA 09` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-09) |
+| `EN05 OA 10` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-10) |
+| `EN05 OA 11` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-11) |
+| `EN05 OA 12` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-12) |
+| `EN05 OA 13` | Expresión escrita | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-13) |
+| `EN05 OA 14` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-14) |
+| `EN05 OA 15` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/5-basico/en05-oa-15) |
+
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 71 clases de contenido; no se contabilizan como clases autónomas.
+
+### Lengua y Cultura de los Pueblos Originarios Ancestrales · 5° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `LC05 OA LF01` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lf01) |
+| `LC05 OA LF02` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lf02) |
+| `LC05 OA LF03` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lf03) |
+| `LC05 OA LF04` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lf04) |
+| `LC05 OA LF05` | Contexto de fortalecimiento y desarrollo de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lf05) |
+| `LC05 OA LF06` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lf06) |
+| `LC05 OA LR01` | Contexto de rescate y revitalización de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lr01) |
+| `LC05 OA LR02` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lr02) |
+| `LC05 OA LR03` | Contexto de rescate y revitalización de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lr03) |
+| `LC05 OA LR04` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lr04) |
+| `LC05 OA LR05` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lr05) |
+| `LC05 OA LR06` | Contexto de rescate y revitalización de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-lr06) |
+| `LC05 OA LS01` | Contexto de Sensibilización sobre la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-ls01) |
+| `LC05 OA LS02` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-ls02) |
+| `LC05 OA LS03` | Contexto de Sensibilización sobre la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-ls03) |
+| `LC05 OA LS04` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-ls04) |
+| `LC05 OA LS05` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-ls05) |
+| `LC05 OA LS06` | Contexto de Sensibilización sobre la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-ls06) |
+| `LC05 OA 10` | Cosmovisión de los pueblos originarios | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-10) |
+| `LC05 OA 11` | Cosmovisión de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-11) |
+| `LC05 OA 12` | Cosmovisión de los pueblos originarios | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-12) |
+| `LC05 OA 13` | Cosmovisión de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-13) |
+| `LC05 OA 14` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-14) |
+| `LC05 OA 15` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-15) |
+| `LC05 OA 16` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-16) |
+| `LC05 OA 17` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-17) |
+| `LC05 OA 07` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-07) |
+| `LC05 OA 08` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-08) |
+| `LC05 OA 09` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/5-basico/lc05-oa-09) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
 ## Controles profesionales
 
 | Control | Estado | Evidencia exigida |
@@ -1042,7 +1331,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 4 | Las 11 asignaturas de 1°, 2°, 3° y 4° básico registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
+| Documental y fuentes | control interno completo niveles 1 a 4 y lote 5 | Las 11 asignaturas de 1° a 4° y Matemática, Lenguaje y Ciencias de 5° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

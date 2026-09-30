@@ -10,7 +10,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 2° básico | 247 | 1.072 | Desarrollo interno completo · 721 desarrolladas · 351 integradas · 0 pendientes · revisión humana pendiente |
 | 3° básico | 257 | 1.136 | Desarrollo interno completo · 757 desarrolladas · 379 integradas · 0 pendientes · revisión humana pendiente |
 | 4° básico | 268 | 1.195 | Desarrollo interno completo · 811 desarrolladas · 384 integradas · 0 pendientes · revisión humana pendiente |
-| 5° básico | 295 | 1.340 | Secuenciado |
+| 5° básico | 295 | 1.340 | En desarrollo · Matemática, Lenguaje y Ciencias completas · 345 desarrolladas · 173 integradas · 822 pendientes |
 | 6° básico | 301 | 1.374 | Secuenciado |
 | 7° básico | 275 | 1.275 | Secuenciado |
 | 8° básico | 253 | 1.201 | Secuenciado · 7 clases piloto desarrolladas |
@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **2.987 clases desarrolladas**, **1.457 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2°, 3° y 4° básico** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **3.332 clases desarrolladas**, **1.630 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2°, 3° y 4° básico**, **822 pendientes en 5° básico** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -77,7 +77,18 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **2.987 clases desarrolladas*
 - [ ] Ejecutar revisión humana y registrar evidencia.
 
 ### Fases siguientes
-- [ ] Completar 5° y 6° básico.
+
+### Fase 5 · 5° básico
+
+- [x] Completar Matemática: 115 clases en 27 OA de contenido y 86 experiencias integradas.
+- [x] Completar Lenguaje y Comunicación: 166 clases en 30 OA de contenido y 29 experiencias integradas.
+- [x] Completar Ciencias Naturales: 64 clases en 14 OA de contenido y 58 experiencias integradas.
+- [x] Publicar vista parcial, índice y tres guías con continuidad explícita desde 4° básico.
+- [ ] Completar las nueve denominaciones restantes: Historia, Artes, Música, Educación Física, Orientación, Tecnología, Inglés, Inglés (Propuesta) y Lengua y Cultura de los Pueblos Originarios.
+- [ ] Ejecutar revisión humana y registrar evidencia.
+
+### Fases siguientes
+- [ ] Completar 6° básico.
 - [ ] Completar 7° y 8° básico.
 - [ ] Completar 1° y 2° medio.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
