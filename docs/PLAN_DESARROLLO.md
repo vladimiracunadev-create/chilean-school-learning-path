@@ -2,9 +2,9 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 7° básico — siguiente nivel por desarrollar · **Asignatura activa:** Matemática · **Unidad de entrega:** nivel completo
+**Nivel activo:** 8° básico — siguiente nivel por desarrollar · **Asignatura activa:** Lengua y Literatura · **Unidad de entrega:** nivel completo
 
-Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
+Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.
 
 ## Flujo sostenido
 
@@ -15,11 +15,12 @@ flowchart LR
     C --> D[Control interno]
     D --> E[Markdown + HTML]
     E --> F[CI verde]
-    F --> G[Revisión profesional]
-    G --> H[Cerrar asignatura]
+    F --> G[Cerrar desarrollo interno]
+    G --> H[Revisión profesional]
+    H --> I[Declarar revisada]
 ~~~
 
-## Definición y orden editorial de 1° a 6° básico
+## Definición y orden editorial de 1° a 7° básico
 
 | Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |
 |---|---:|---|---:|---:|---:|---|
@@ -32,8 +33,8 @@ flowchart LR
 | 1° básico | 7 | Educación Física y Salud | 11 | 48 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 1° básico | 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 1° básico | 9 | Tecnología | 6 | 26 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 1° básico | 11 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 1° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 129 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 1° básico | 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 1° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 129 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 1 | Matemática | 22 | 93 | 15 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 2 | Lenguaje y Comunicación | 30 | 149 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 3 | Ciencias Naturales | 14 | 57 | 11 | Desarrollo interno completo · revisión humana pendiente |
@@ -43,8 +44,8 @@ flowchart LR
 | 2° básico | 7 | Educación Física y Salud | 11 | 47 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 2° básico | 9 | Tecnología | 7 | 31 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 2° básico | 11 | Inglés (Propuesta) | 14 | 68 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 2° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 27 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 2° básico | 10 | Inglés (Propuesta) | 14 | 68 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 2° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 27 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 1 | Matemática | 26 | 112 | 20 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 2 | Lenguaje y Comunicación | 31 | 157 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 3 | Ciencias Naturales | 13 | 55 | 12 | Desarrollo interno completo · revisión humana pendiente |
@@ -54,8 +55,8 @@ flowchart LR
 | 3° básico | 7 | Educación Física y Salud | 11 | 48 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 8 | Orientación | 8 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 3° básico | 9 | Tecnología | 7 | 33 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 3° básico | 11 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 3° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 26 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 3° básico | 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 3° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 26 | 116 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 1 | Matemática | 27 | 118 | 20 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 2 | Lenguaje y Comunicación | 30 | 161 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 3 | Ciencias Naturales | 17 | 71 | 12 | Desarrollo interno completo · revisión humana pendiente |
@@ -65,8 +66,8 @@ flowchart LR
 | 4° básico | 7 | Educación Física y Salud | 11 | 49 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 8 | Orientación | 9 | 40 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 4° básico | 9 | Tecnología | 7 | 35 | 5 | Desarrollo interno completo · revisión humana pendiente |
-| 4° básico | 11 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
-| 4° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 126 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 4° básico | 10 | Inglés (Propuesta) | 14 | 69 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 4° básico | 11 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 126 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 5° básico | 1 | Matemática | 27 | 115 | 20 | Desarrollo interno completo · revisión humana pendiente |
 | 5° básico | 2 | Lenguaje y Comunicación | 30 | 166 | 7 | Desarrollo interno completo · revisión humana pendiente |
 | 5° básico | 3 | Ciencias Naturales | 14 | 64 | 14 | Desarrollo interno completo · revisión humana pendiente |
@@ -91,6 +92,18 @@ flowchart LR
 | 6° básico | 10 | Inglés | 16 | 76 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 6° básico | 11 | Inglés (Propuesta) | 15 | 74 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 6° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 144 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 1 | Matemática | 19 | 83 | 19 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 2 | Lengua y Literatura | 25 | 147 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 3 | Ciencias Naturales | 15 | 72 | 21 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 4 | Historia, Geografía y Ciencias Sociales | 23 | 113 | 20 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 5 | Artes Visuales | 6 | 29 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 6 | Música | 7 | 30 | 9 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 7 | Educación Física y Salud | 5 | 25 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 8 | Orientación | 10 | 49 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 9 | Tecnología | 6 | 26 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 10 | Inglés | 16 | 80 | 5 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 11 | Inglés (Propuesta) | 13 | 65 | 21 | Desarrollo interno completo · revisión humana pendiente |
+| 7° básico | 12 | Lengua Indígena | 8 | 41 | 0 | Desarrollo interno completo · revisión humana pendiente |
 
 ## Plan por asignatura e ítem
 
@@ -1618,6 +1631,243 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
+### Matemática · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `MA07 OA 01` | Números | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-01) |
+| `MA07 OA 02` | Números | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-02) |
+| `MA07 OA 03` | Números | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-03) |
+| `MA07 OA 04` | Números | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-04) |
+| `MA07 OA 05` | Números | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-05) |
+| `MA07 OA 06` | Álgebra y funciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-06) |
+| `MA07 OA 07` | Álgebra y funciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-07) |
+| `MA07 OA 08` | Álgebra y funciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-08) |
+| `MA07 OA 09` | Álgebra y funciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-09) |
+| `MA07 OA 10` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-10) |
+| `MA07 OA 11` | Geometría | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-11) |
+| `MA07 OA 12` | Geometría | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-12) |
+| `MA07 OA 13` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-13) |
+| `MA07 OA 14` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-14) |
+| `MA07 OA 15` | Probabilidad y estadística | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-15) |
+| `MA07 OA 16` | Probabilidad y estadística | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-16) |
+| `MA07 OA 17` | Probabilidad y estadística | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-17) |
+| `MA07 OA 18` | Probabilidad y estadística | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-18) |
+| `MA07 OA 19` | Probabilidad y estadística | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-19) |
+
+**Integración transversal documentada:** 19 ítems de habilidades o actitudes se incorporan en 82 experiencias dentro de las 83 clases de contenido; no se contabilizan como clases autónomas.
+
+### Lengua y Literatura · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `LE07 OA 01` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-01) |
+| `LE07 OA 02` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-02) |
+| `LE07 OA 03` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-03) |
+| `LE07 OA 04` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-04) |
+| `LE07 OA 05` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-05) |
+| `LE07 OA 06` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-06) |
+| `LE07 OA 07` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-07) |
+| `LE07 OA 08` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-08) |
+| `LE07 OA 09` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-09) |
+| `LE07 OA 10` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-10) |
+| `LE07 OA 11` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-11) |
+| `LE07 OA 12` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-12) |
+| `LE07 OA 13` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-13) |
+| `LE07 OA 14` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-14) |
+| `LE07 OA 15` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-15) |
+| `LE07 OA 16` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-16) |
+| `LE07 OA 17` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-17) |
+| `LE07 OA 18` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-18) |
+| `LE07 OA 19` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-19) |
+| `LE07 OA 20` | Comunicación oral | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-20) |
+| `LE07 OA 21` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-21) |
+| `LE07 OA 22` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-22) |
+| `LE07 OA 23` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-23) |
+| `LE07 OA 24` | Investigación | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-24) |
+| `LE07 OA 25` | Investigación | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/7-basico/le07-oa-25) |
+
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 33 experiencias dentro de las 147 clases de contenido; no se contabilizan como clases autónomas.
+
+### Ciencias Naturales · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `CN07 OA 01` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-01) |
+| `CN07 OA 02` | Biología | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-02) |
+| `CN07 OA 03` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-03) |
+| `CN07 OA 04` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-04) |
+| `CN07 OA 05` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-05) |
+| `CN07 OA 06` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-06) |
+| `CN07 OA 07` | Física | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-07) |
+| `CN07 OA 08` | Física | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-08) |
+| `CN07 OA 09` | Física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-09) |
+| `CN07 OA 10` | Física | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-10) |
+| `CN07 OA 11` | Física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-11) |
+| `CN07 OA 12` | Física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-12) |
+| `CN07 OA 13` | Química | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-13) |
+| `CN07 OA 14` | Química | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-14) |
+| `CN07 OA 15` | Química | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/7-basico/cn07-oa-15) |
+
+**Integración transversal documentada:** 21 ítems de habilidades o actitudes se incorporan en 89 experiencias dentro de las 72 clases de contenido; no se contabilizan como clases autónomas.
+
+### Historia, Geografía y Ciencias Sociales · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `HI07 OA 01` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-01) |
+| `HI07 OA 02` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-02) |
+| `HI07 OA 03` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-03) |
+| `HI07 OA 04` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-04) |
+| `HI07 OA 05` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-05) |
+| `HI07 OA 06` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-06) |
+| `HI07 OA 07` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-07) |
+| `HI07 OA 08` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-08) |
+| `HI07 OA 09` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-09) |
+| `HI07 OA 10` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-10) |
+| `HI07 OA 11` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-11) |
+| `HI07 OA 12` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-12) |
+| `HI07 OA 13` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-13) |
+| `HI07 OA 14` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-14) |
+| `HI07 OA 15` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-15) |
+| `HI07 OA 16` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-16) |
+| `HI07 OA 21` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-21) |
+| `HI07 OA 22` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-22) |
+| `HI07 OA 23` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-23) |
+| `HI07 OA 17` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-17) |
+| `HI07 OA 18` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-18) |
+| `HI07 OA 19` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-19) |
+| `HI07 OA 20` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/7-basico/hi07-oa-20) |
+
+**Integración transversal documentada:** 20 ítems de habilidades o actitudes se incorporan en 91 experiencias dentro de las 113 clases de contenido; no se contabilizan como clases autónomas.
+
+### Artes Visuales · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `AR07 OA 01` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/7-basico/ar07-oa-01) |
+| `AR07 OA 02` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/7-basico/ar07-oa-02) |
+| `AR07 OA 03` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/7-basico/ar07-oa-03) |
+| `AR07 OA 04` | Apreciar y responder frente al arte | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/7-basico/ar07-oa-04) |
+| `AR07 OA 05` | Apreciar y responder frente al arte | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/7-basico/ar07-oa-05) |
+| `AR07 OA 06` | Difundir y comunicar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/7-basico/ar07-oa-06) |
+
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 33 experiencias dentro de las 29 clases de contenido; no se contabilizan como clases autónomas.
+
+### Música · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `MU07 OA 01` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-01) |
+| `MU07 OA 02` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-02) |
+| `MU07 OA 03` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-03) |
+| `MU07 OA 04` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-04) |
+| `MU07 OA 05` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-05) |
+| `MU07 OA 06` | Reflexionar y relacionar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-06) |
+| `MU07 OA 07` | Reflexionar y relacionar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/7-basico/mu07-oa-07) |
+
+**Integración transversal documentada:** 9 ítems de habilidades o actitudes se incorporan en 37 experiencias dentro de las 30 clases de contenido; no se contabilizan como clases autónomas.
+
+### Educación Física y Salud · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `EF07 OA 01` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/7-basico/ef07-oa-01) |
+| `EF07 OA 02` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/7-basico/ef07-oa-02) |
+| `EF07 OA 03` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/7-basico/ef07-oa-03) |
+| `EF07 OA 04` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/7-basico/ef07-oa-04) |
+| `EF07 OA 05` | Responsabilidad personal y social en el deporte y la actividad física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/7-basico/ef07-oa-05) |
+
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 25 clases de contenido; no se contabilizan como clases autónomas.
+
+### Orientación · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `OR07 OA 01` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-01) |
+| `OR07 OA 02` | Crecimiento personal | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-02) |
+| `OR07 OA 03` | Bienestar y autocuidado | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-03) |
+| `OR07 OA 04` | Bienestar y autocuidado | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-04) |
+| `OR07 OA 05` | Relaciones interpersonales | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-05) |
+| `OR07 OA 06` | Relaciones interpersonales | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-06) |
+| `OR07 OA 07` | Pertenencia y participación democrática | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-07) |
+| `OR07 OA 08` | Pertenencia y participación democrática | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-08) |
+| `OR07 OA 09` | Gestión y proyección del aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-09) |
+| `OR07 OA 10` | Gestión y proyección del aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/7-basico/or07-oa-10) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Tecnología · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `TE07 OA 01` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/7-basico/te07-oa-01) |
+| `TE07 OA 02` | Resolución de problemas tecnológicos | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/7-basico/te07-oa-02) |
+| `TE07 OA 03` | Resolución de problemas tecnológicos | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/7-basico/te07-oa-03) |
+| `TE07 OA 04` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/7-basico/te07-oa-04) |
+| `TE07 OA 05` | Tecnología, ambiente y sociedad | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/7-basico/te07-oa-05) |
+| `TE07 OA 06` | Tecnología, ambiente y sociedad | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/7-basico/te07-oa-06) |
+
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 16 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
+
+### Inglés · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `IN07 OA 01` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-01) |
+| `IN07 OA 02` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-02) |
+| `IN07 OA 03` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-03) |
+| `IN07 OA 04` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-04) |
+| `IN07 OA 05` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-05) |
+| `IN07 OA 06` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-06) |
+| `IN07 OA 07` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-07) |
+| `IN07 OA 08` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-08) |
+| `IN07 OA 09` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-09) |
+| `IN07 OA 10` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-10) |
+| `IN07 OA 11` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-11) |
+| `IN07 OA 12` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-12) |
+| `IN07 OA 13` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-13) |
+| `IN07 OA 14` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-14) |
+| `IN07 OA 15` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-15) |
+| `IN07 OA 16` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/7-basico/in07-oa-16) |
+
+**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 21 experiencias dentro de las 80 clases de contenido; no se contabilizan como clases autónomas.
+
+### Inglés (Propuesta) · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `EN07 OA 01` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-01) |
+| `EN07 OA 02` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-02) |
+| `EN07 OA 03` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-03) |
+| `EN07 OA 04` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-04) |
+| `EN07 OA 05` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-05) |
+| `EN07 OA 06` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-06) |
+| `EN07 OA 07` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-07) |
+| `EN07 OA 08` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-08) |
+| `EN07 OA 09` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-09) |
+| `EN07 OA 10` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-10) |
+| `EN07 OA 11` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-11) |
+| `EN07 OA 12` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-12) |
+| `EN07 OA 13` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/7-basico/en07-oa-13) |
+
+**Integración transversal documentada:** 21 ítems de habilidades o actitudes se incorporan en 85 experiencias dentro de las 65 clases de contenido; no se contabilizan como clases autónomas.
+
+### Lengua Indígena · 7° básico
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `LI07 OF A` | Tradición oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07) |
+| `LI07 OF B` | Tradición oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07-b) |
+| `LI07 OF C` | Comunicación oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07-c) |
+| `LI07 OF D` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07-d) |
+| `LI07 OF E` | Comunicación oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07) |
+| `LI07 OF F` | Comunicación escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07-f) |
+| `LI07 OF G` | Comunicación escrita | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07-g) |
+| `LI07 OF H` | Comunicación escrita | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/7-basico/li07-h) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
 ## Controles profesionales
 
 | Control | Estado | Evidencia exigida |
@@ -1626,18 +1876,20 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 6 | Las asignaturas de 1° a 6° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5° y 6° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
+| Documental y fuentes | control interno completo niveles 1 a 7 | Las asignaturas de 1° a 7° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
-## Gates para cerrar una asignatura
+## Gates del desarrollo interno de 1° a 7° básico
 
-- [ ] Todos los OA disciplinares tienen secuencias específicas y completas.
-- [ ] Habilidades y actitudes están mapeadas dentro de las clases y no se contabilizan como clases independientes.
-- [ ] Cada clase contiene ejemplo disciplinar, práctica, evidencia, criterios, tarea y acciones ante dificultades.
-- [ ] Markdown y HTML se generan desde la misma fuente y conservan enlaces de su propio formato.
-- [ ] Generación, validadores, pruebas, compilación y reproducibilidad quedan en verde.
-- [ ] La revisión profesional solo se declara cuando existe nombre o rol, fecha, alcance y evidencia registrada.
+Estos controles están cerrados para el alcance desarrollado. La revisión profesional continúa como un estado posterior e independiente.
+
+- [x] Todos los OA disciplinares tienen secuencias específicas y completas.
+- [x] Habilidades y actitudes están mapeadas dentro de las clases y no se contabilizan como clases independientes.
+- [x] Cada clase contiene ejemplo disciplinar, práctica, evidencia, criterios, tarea y acciones ante dificultades.
+- [x] Markdown y HTML se generan desde la misma fuente y conservan enlaces de su propio formato.
+- [x] Generación, validadores, pruebas, compilación y reproducibilidad quedan en verde.
+- [x] La revisión profesional solo se declara cuando existe nombre o rol, fecha, alcance y evidencia registrada.
 
 ## Regla de comunicación
 
-El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **completa** cuando todos sus OA disciplinares y todos los gates están cerrados.
+El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **desarrollo interno completo** cuando todos sus OA disciplinares y sus gates internos están cerrados; solo aparece como **revisada** cuando existe evidencia profesional humana registrada.

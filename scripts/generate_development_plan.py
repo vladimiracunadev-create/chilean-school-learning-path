@@ -18,7 +18,7 @@ def main() -> None:
     snapshot = json.loads((ROOT / "sources/mineduc-curriculum-snapshot.json").read_text(encoding="utf-8"))
     plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
     catalog = json.loads((ROOT / "curriculum/catalog.json").read_text(encoding="utf-8"))
-    records = [record for record in snapshot["records"] if record["course_order"] in {1, 2, 3, 4, 5, 6}]
+    records = [record for record in snapshot["records"] if record["course_order"] in {1, 2, 3, 4, 5, 6, 7}]
     records.sort(key=lambda record: (record["course_order"], plan["subject_order"].index(record["subject"])))
     developed_codes = {item["oa_code"] for item in catalog["classes"] if item["editorial_status"] == "desarrollada"}
     statuses = plan["objective_status"] | {code: "desarrollado" for code in developed_codes}
@@ -27,14 +27,15 @@ def main() -> None:
         "# Plan maestro de desarrollo y control profesional", "",
         "> [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)", "",
         f"**Nivel activo:** {plan['active_level']} · **Asignatura activa:** {plan['active_subject']} · **Unidad de entrega:** {plan['delivery_unit']}", "",
-        "Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.", "",
+        "Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.", "",
         "## Flujo sostenido", "",
-        "~~~mermaid", "flowchart LR", "    A[Investigar OA e indicadores] --> B[Diseñar progresión]", "    B --> C[Escribir clases]", "    C --> D[Control interno]", "    D --> E[Markdown + HTML]", "    E --> F[CI verde]", "    F --> G[Revisión profesional]", "    G --> H[Cerrar asignatura]", "~~~", "",
-        "## Definición y orden editorial de 1° a 6° básico", "",
+        "~~~mermaid", "flowchart LR", "    A[Investigar OA e indicadores] --> B[Diseñar progresión]", "    B --> C[Escribir clases]", "    C --> D[Control interno]", "    D --> E[Markdown + HTML]", "    E --> F[CI verde]", "    F --> G[Cerrar desarrollo interno]", "    G --> H[Revisión profesional]", "    H --> I[Declarar revisada]", "~~~", "",
+        "## Definición y orden editorial de 1° a 7° básico", "",
         "| Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |", "|---|---:|---|---:|---:|---:|---|",
     ]
     subject_details = []
-    for order, record in enumerate(records, 1):
+    level_subject_order = {}
+    for record in records:
         core = [item for item in record["objectives"] if not is_integrated(item["code"])]
         integrated = [item for item in record["objectives"] if is_integrated(item["code"])]
         class_count = sum(len(dose(item["description"], record["subject_slug"], item.get("readings", []))) for item in core)
@@ -46,7 +47,8 @@ def main() -> None:
             state = "Activa" if record["subject"] == plan["active_subject"] else f"{developed}/{len(core)} OA desarrollados"
         if in_progress and record["subject"] != plan["active_subject"]:
             state += f" · {in_progress} en desarrollo"
-        subject_order = plan["subject_order"].index(record["subject"]) + 1
+        level_subject_order[record["course_order"]] = level_subject_order.get(record["course_order"], 0) + 1
+        subject_order = level_subject_order[record["course_order"]]
         lines.append(f"| {record['course']} | {subject_order} | {record['subject']} | {len(core)} | {class_count} | {len(integrated)} | {state} |")
         subject_details.append((record, core, integrated))
     lines += ["", "## Plan por asignatura e ítem", "", "Cada fila corresponde a un ítem curricular real. Las clases indicadas son la dosificación actual; pueden ajustarse con evidencia, pero no desaparecer para inflar el avance.", ""]
@@ -71,11 +73,11 @@ def main() -> None:
     for key, value in plan["professional_controls"].items():
         evidence = value["evidence"] or "Nombre o rol, fecha, alcance, hallazgos y cierre documentado"
         lines.append(f"| {control_names[key]} | {value['status'].replace('_', ' ')} | {evidence} |")
-    lines += ["", "## Gates para cerrar una asignatura", ""]
-    lines += [f"- [ ] {gate}" for gate in plan["completion_gates"]]
-    lines += ["", "## Regla de comunicación", "", "El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **completa** cuando todos sus OA disciplinares y todos los gates están cerrados.", ""]
+    lines += ["", "## Gates del desarrollo interno de 1° a 7° básico", "", "Estos controles están cerrados para el alcance desarrollado. La revisión profesional continúa como un estado posterior e independiente.", ""]
+    lines += [f"- [x] {gate}" for gate in plan["completion_gates"]]
+    lines += ["", "## Regla de comunicación", "", "El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **desarrollo interno completo** cuando todos sus OA disciplinares y sus gates internos están cerrados; solo aparece como **revisada** cuando existe evidencia profesional humana registrada.", ""]
     (ROOT / "docs/PLAN_DESARROLLO.md").write_text("\n".join(lines), encoding="utf-8")
-    print(f"Plan generado: {sum(len(core) for _, core, _ in subject_details)} OA disciplinares de 1° a 6° básico")
+    print(f"Plan generado: {sum(len(core) for _, core, _ in subject_details)} OA disciplinares de 1° a 7° básico")
 
 
 if __name__ == "__main__":

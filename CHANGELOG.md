@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30 — 7° básico completo
+
+- Cierre de las doce denominaciones curriculares en 760 clases disciplinares, 515 experiencias transversales integradas, 275 OA y 0 propuestas pendientes.
+- Publicación del mapa técnico, índice completo, doce guías de asignatura y vista específica en GitHub Pages, con continuidad explícita desde 6° básico.
+- Estado global actualizado a 5.619 clases desarrolladas y 2.814 experiencias integradas; la revisión humana especializada continúa pendiente.
+- Sincronización de la portada, el plan maestro y la documentación para retirar referencias vigentes que aún presentaban 7° como parcial o futuro.
+
 ## 2026-09-30 — Paquete de calidad para 4.859 clases desarrolladas
 
 - Incorporación por clase de un recurso concreto, una consigna exacta, una referencia de respuesta, una lista de preparación y una pauta analítica de cuatro niveles.

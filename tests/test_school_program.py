@@ -49,6 +49,31 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(self.catalog["editorial_counts"]["integrada"], 2814)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
+    def test_current_surfaces_agree_that_first_through_seventh_are_complete(self):
+        plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
+        self.assertEqual(plan["active_level"], "8° básico — siguiente nivel por desarrollar")
+        self.assertEqual(plan["active_subject"], "Lengua y Literatura")
+        self.assertEqual(
+            plan["professional_controls"]["documentary_and_sources"]["status"],
+            "control_interno_completo_niveles_1_a_7",
+        )
+        current_surfaces = {
+            "README.md": ("1° a 7° básico", "7° básico completo", "Desde 8° básico hasta 4° medio"),
+            "docs/PLAN_DESARROLLO.md": ("8° básico — siguiente nivel por desarrollar", "Definición y orden editorial de 1° a 7° básico", "MA07 OA 19", "Gates del desarrollo interno de 1° a 7° básico", "- [x] Todos los OA disciplinares"),
+            "site/index.html": ("Siete niveles completos", "5.619 clases desarrolladas", "2.814 experiencias integradas"),
+        }
+        stale_tokens = (
+            "Siete asignaturas de 7°",
+            "Cinco denominaciones pendientes de 7° básico",
+            "7° básico — siguiente nivel por desarrollar",
+        )
+        for relative_path, expected_tokens in current_surfaces.items():
+            text = (ROOT / relative_path).read_text(encoding="utf-8")
+            for token in expected_tokens:
+                self.assertIn(token, text, relative_path)
+            for token in stale_tokens:
+                self.assertNotIn(token, text, relative_path)
+
     def test_first_grade_separates_developed_content_from_drafts(self):
         developed = [item for item in self.catalog["classes"] if item["editorial_status"] == "desarrollada"]
         first_grade = [item for item in self.catalog["classes"] if item["course_order"] == 1]

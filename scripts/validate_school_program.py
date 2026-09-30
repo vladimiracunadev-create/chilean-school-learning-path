@@ -614,7 +614,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
         "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
         "docs/COBERTURA.md": ("Cobertura completa y navegable", "12.997"),
-        "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "Plan por asignatura e ítem", "Controles profesionales", "MA01 OA 20", "Gates para cerrar una asignatura"),
+        "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "8° básico — siguiente nivel por desarrollar", "Definición y orden editorial de 1° a 7° básico", "MA07 OA 19", "control interno completo niveles 1 a 7", "Gates del desarrollo interno de 1° a 7° básico", "- [x] Todos los OA disciplinares"),
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
@@ -625,6 +625,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),
+        "site/index.html": ("1° a 7° básico con desarrollo pedagógico interno completo", "Siete niveles completos", "5.619 clases desarrolladas", "2.814 experiencias integradas", "levels/7-basico.html"),
     }
     for relative_path, tokens in required_docs.items():
         document_path = root / relative_path
@@ -635,6 +636,18 @@ def validate(root: Path = ROOT) -> list[str]:
         for token in tokens:
             if token not in document:
                 errors.append(f"{relative_path} incompleto: falta {token}")
+    stale_current_claims = {
+        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico"),
+        "docs/README.md": ("Siete asignaturas de 7°",),
+        "docs/SYLLABUS.md": ("Siete asignaturas de 7°",),
+        "docs/PLAN_DESARROLLO.md": ("7° básico — siguiente nivel por desarrollar", "Definición y orden editorial de 1° a 6° básico", "control interno completo niveles 1 a 6"),
+        "site/index.html": ("1° a 6° básico con desarrollo pedagógico interno completo", "4.859 clases desarrolladas", "2.299 experiencias integradas", "Seis niveles completos"),
+    }
+    for relative_path, stale_tokens in stale_current_claims.items():
+        document = (root / relative_path).read_text(encoding="utf-8")
+        for token in stale_tokens:
+            if token in document:
+                errors.append(f"{relative_path} conserva una afirmación vigente obsoleta: {token}")
     for schema_path in ("reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
         try:
             schema = json.loads((root / schema_path).read_text(encoding="utf-8"))

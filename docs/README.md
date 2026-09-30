@@ -6,7 +6,7 @@
 
 **1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 Siete asignaturas de 7°](7-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 

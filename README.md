@@ -22,7 +22,7 @@
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
 
-[🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Siete asignaturas de 7°](docs/7-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 [📋 Plan maestro por nivel, asignatura e ítem](docs/PLAN_DESARROLLO.md)
 
@@ -118,11 +118,13 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **5° básico:** 920 clases desarrolladas y 420 experiencias transversales integradas en doce denominaciones curriculares. Las 1.340 entradas del nivel están resueltas y quedan **0 propuestas pendientes**, con revisión humana aún pendiente.
 
+**6° básico:** nivel completo con 952 clases desarrolladas, 422 experiencias integradas y doce denominaciones curriculares. Las 1.374 entradas del nivel están resueltas y quedan **0 propuestas pendientes**, con revisión humana aún pendiente.
+
 **7° básico completo:** 760 clases disciplinares desarrolladas y 515 experiencias transversales integradas. Los 153 objetivos de contenido y 122 objetivos transversales del nivel están resueltos en sus doce denominaciones, con revisión humana aún pendiente.
 
 ### Preparado para desarrollo futuro
 
-**6° básico:** nivel completo con 952 clases desarrolladas, 422 experiencias integradas y doce denominaciones curriculares. **Cinco denominaciones pendientes de 7° básico y desde 8° básico hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. El piloto de 7 clases de Lengua y Literatura de 8° no convierte ese nivel en programa terminado.
+**Desde 8° básico hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. El piloto de 7 clases de Lengua y Literatura de 8° no convierte ese nivel en programa terminado.
 
 ### Lo que significa “12.997”
 
