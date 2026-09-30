@@ -18,6 +18,7 @@ from scripts.grade_three_music_orientation_technology_lessons import ATTITUDES a
 from scripts.grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
 from scripts.grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
 from scripts.grade_five_core_lessons import COUNTS as GRADE_FIVE_COUNTS, SEQUENCES as GRADE_FIVE_CORE_SEQUENCES, build_sequence as build_grade_five_core_sequence
+from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -39,8 +40,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 3332)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1630)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 3907)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1877)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -52,7 +53,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 3332)
+        self.assertEqual(len(developed), 3907)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -451,9 +452,47 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertEqual(len({lesson[field] for lesson in all_lessons}), len(all_lessons), field)
         self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in all_lessons))
         fifth_index = (ROOT / "docs/5-basico/README.md").read_text(encoding="utf-8")
-        for token in ("3 asignaturas desarrolladas", "345 clases desarrolladas", "173 experiencias integradas", "5° básico todavía no se declara completo"):
+        for token in ("12 denominaciones curriculares", "920 clases desarrolladas", "420 experiencias integradas", "0 propuestas pendientes"):
             self.assertIn(token, fifth_index)
         self.assertTrue((ROOT / "site/levels/5-basico.html").is_file())
+
+    def test_fifth_grade_remaining_subjects_complete_the_level(self):
+        expected = {
+            "AR": (5, 27, 28, "artes-visuales"),
+            "EF": (11, 49, 32, "educacion-fisica-salud"),
+            "HI": (22, 106, 91, "historia-geografia-ciencias-sociales"),
+            "IN": (16, 76, 16, "ingles"),
+            "EN": (15, 71, 32, "ingles-propuesta"),
+            "LC": (29, 135, 0, "lengua-cultura-pueblos-originarios-ancestrales"),
+            "MU": (8, 35, 28, "musica"),
+            "OR": (9, 41, 0, "orientacion"),
+            "TE": (7, 35, 20, "tecnologia"),
+        }
+        fifth = [item for item in self.catalog["classes"] if item["course_order"] == 5]
+        all_lessons = []
+        for prefix, (oa_count, developed_count, integrated_count, slug) in expected.items():
+            codes = sorted(code for code in GRADE_FIVE_REMAINING_SEQUENCES if code.startswith(prefix))
+            lessons = [lesson for code in codes for lesson in build_grade_five_remaining_sequence(code)["lessons"]]
+            all_lessons.extend(lessons)
+            self.assertEqual((len(codes), len(lessons)), (oa_count, developed_count), prefix)
+            rows = [item for item in fifth if item["subject_slug"] == slug]
+            self.assertEqual(
+                (sum(item["editorial_status"] == "desarrollada" for item in rows), sum(item["editorial_status"] == "integrada" for item in rows)),
+                (developed_count, integrated_count),
+            )
+            guide = (ROOT / "docs/5-basico" / f"{slug}.md").read_text(encoding="utf-8")
+            for token in ("Continuidad con 4° básico", "Anatomía estable de cada clase", "Recorrido OA por OA", "Preparación y materiales", "Acceso y profundización"):
+                self.assertIn(token, guide, f"{slug}:{token}")
+            self.assertTrue((ROOT / "site/docs/5-basico" / f"{slug}.html").is_file(), slug)
+        self.assertEqual(len(all_lessons), 575)
+        for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+            self.assertEqual(len({lesson[field] for lesson in all_lessons}), len(all_lessons), field)
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in all_lessons))
+        cultural = " ".join(str(build_grade_five_remaining_sequence(code)) for code in GRADE_FIVE_REMAINING_SEQUENCES if code.startswith("LC05")).lower()
+        for safeguard in ("no inventa lengua", "fuente comunitaria", "educador tradicional", "no suplanta saberes comunitarios", "sin apropiarse"):
+            self.assertIn(safeguard, cultural)
+        self.assertEqual((len(fifth), sum(item["editorial_status"] == "desarrollada" for item in fifth), sum(item["editorial_status"] == "integrada" for item in fifth)), (1340, 920, 420))
+        self.assertFalse([item for item in fifth if item["editorial_status"] in {"secuenciada", "borrador"}])
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]

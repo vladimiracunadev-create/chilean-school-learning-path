@@ -6,13 +6,13 @@ Fecha de corte: **2026-09-29**. Los conteos provienen de `curriculum/catalog.jso
 |---|---:|---|
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
-| Borrador | 0 | no quedan borradores en 1°, 2°, 3° ni 4° básico |
-| Desarrollada | 3.332 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 1.630 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Borrador | 0 | no quedan borradores en 1°, 2°, 3°, 4° ni 5° básico |
+| Desarrollada | 3.907 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 1.877 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2°, 3° y 4° básico tienen desarrollo interno completo**. En 5° están completas Matemática, Lenguaje y Comunicación y Ciencias Naturales: 345 clases desarrolladas y 173 experiencias integradas; las demás asignaturas siguen pendientes. Se mantienen además 7 clases piloto en Lengua y Literatura de 8°.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2°, 3°, 4° y 5° básico tienen desarrollo interno completo**. En 5° son 920 clases desarrolladas y 420 experiencias integradas en doce denominaciones curriculares. Se mantienen además 7 clases piloto en Lengua y Literatura de 8°.
 
 ## Reconstrucción de 1° básico
 
@@ -98,16 +98,25 @@ Las 1.195 entradas del nivel están resueltas. Las guías explicitan continuidad
 
 [Ver mapa de 4° básico](docs/4-basico/README.md) · [Abrir sus once guías](docs/4-basico/README.md#las-11-asignaturas)
 
-## Desarrollo parcial de 5° básico
+## Reconstrucción de 5° básico
 
 | Asignatura | Clases desarrolladas | Experiencias integradas | Pendientes en la asignatura |
 |---|---:|---:|---:|
 | Matemática | 115 | 86 | 0 |
 | Lenguaje y Comunicación | 166 | 29 | 0 |
 | Ciencias Naturales | 64 | 58 | 0 |
-| **Total del lote** | **345** | **173** | **0** |
+| Historia, Geografía y Ciencias Sociales | 106 | 91 | 0 |
+| Artes Visuales | 27 | 28 | 0 |
+| Música | 35 | 28 | 0 |
+| Educación Física y Salud | 49 | 32 | 0 |
+| Orientación | 41 | 0 | 0 |
+| Tecnología | 35 | 20 | 0 |
+| Inglés | 76 | 16 | 0 |
+| Inglés (Propuesta) | 71 | 32 | 0 |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 135 | 0 | 0 |
+| **Total de 5° básico** | **920** | **420** | **0** |
 
-El nivel completo conserva 822 propuestas pendientes en sus otras nueve denominaciones curriculares. [Ver avance de 5° básico](docs/5-basico/README.md).
+Las 1.340 entradas del nivel están resueltas. [Ver programa completo de 5° básico](docs/5-basico/README.md).
 
 ## Piloto conservado en otro nivel
 

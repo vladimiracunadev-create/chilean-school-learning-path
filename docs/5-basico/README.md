@@ -1,41 +1,87 @@
-# 5° básico — desarrollo en curso
+# 📚 5° básico con desarrollo interno completo
 
-[⬅️ Centro de documentación](../README.md) · [Mapa curricular](../../CURRICULUM.md)
+> [⬅️ Volver al programa](../../README.md) · [🗂️ Índice Markdown](../../CURRICULUM.md) · [📘 Syllabus](../SYLLABUS.md) · [📊 Rúbrica](../RUBRICA_EVALUACION.md)
 
-**3 asignaturas desarrolladas · 345 clases desarrolladas · 173 experiencias integradas · 822 propuestas pendientes en el nivel · revisión humana pendiente**
+**1.340 propuestas · 295 OA · 12 denominaciones curriculares · 920 clases desarrolladas · 420 experiencias integradas · 0 propuestas pendientes · revisión humana pendiente**
 
-5° básico todavía no se declara completo. Este lote resuelve Matemática, Lenguaje y Comunicación y Ciencias Naturales con progresiones específicas; las demás asignaturas conservan su estado pendiente.
+## 🎯 De qué trata este nivel
 
-## Asignaturas
+5° básico amplía lectura, argumentación, razonamiento matemático, indagación científica, historia colonial, geografía de Chile, ciudadanía, creación artística y musical, desempeño motriz, comunicación en inglés, aprendizaje situado de lengua y cultura, desarrollo afectivo y diseño tecnológico.
 
-| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Pendientes | Guía |
-|---|---:|---:|---:|---:|---:|---|
-| Artes Visuales | 12 | 55 | 0 | 0 | 55 | Pendiente |
-| Ciencias Naturales | 28 | 122 | 64 | 58 | 0 | [📘 Leer](./ciencias-naturales.md) |
-| Educación Física y Salud | 19 | 81 | 0 | 0 | 81 | Pendiente |
-| Historia, Geografía y Ciencias Sociales | 44 | 197 | 0 | 0 | 197 | Pendiente |
-| Inglés | 20 | 92 | 0 | 0 | 92 | Pendiente |
-| Inglés (Propuesta) | 23 | 103 | 0 | 0 | 103 | Pendiente |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | 0 | 0 | 135 | Pendiente |
-| Lenguaje y Comunicación | 37 | 195 | 166 | 29 | 0 | [📘 Leer](./lenguaje-comunicacion.md) |
-| Matemática | 47 | 201 | 115 | 86 | 0 | [📘 Leer](./matematica.md) |
-| Música | 15 | 63 | 0 | 0 | 63 | Pendiente |
-| Orientación | 9 | 41 | 0 | 0 | 41 | Pendiente |
-| Tecnología | 12 | 55 | 0 | 0 | 55 | Pendiente |
+## 🧩 Problemas que busca resolver
 
-## Progresión del lote
+- Convertir 295 OA en secuencias enseñables, claras y diferenciadas.
+- Elevar la demanda sin suponer dominio automático de 4°.
+- Evitar clases robóticas mediante anclas, errores, evidencias y decisiones propias de cada OA.
+- Integrar habilidades y actitudes sin contarlas como clases adicionales.
+- Mantener seguridad física, emocional, digital, cultural y de autoría.
+
+## 🧭 Cómo recorrer el programa
+
+1. Elige asignatura y eje.
+2. Lee continuidad, prerrequisitos y progresión completa.
+3. Abre el OA y revisa todas sus clases antes de enseñar.
+4. Define evidencia, materiales, seguridad y accesos.
+5. Enseña, observa y adapta según resultados.
+
+## 🗂️ Las 12 denominaciones curriculares
+
+| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Guía |
+|---|---:|---:|---:|---:|---|
+| Artes Visuales | 12 | 55 | 27 | 28 | [📘 Leer](./artes-visuales.md) |
+| Ciencias Naturales | 28 | 122 | 64 | 58 | [📘 Leer](./ciencias-naturales.md) |
+| Educación Física y Salud | 19 | 81 | 49 | 32 | [📘 Leer](./educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | 44 | 197 | 106 | 91 | [📘 Leer](./historia-geografia-ciencias-sociales.md) |
+| Inglés | 20 | 92 | 76 | 16 | [📘 Leer](./ingles.md) |
+| Inglés (Propuesta) | 23 | 103 | 71 | 32 | [📘 Leer](./ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | 135 | 0 | [📘 Leer](./lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | 37 | 195 | 166 | 29 | [📘 Leer](./lenguaje-comunicacion.md) |
+| Matemática | 47 | 201 | 115 | 86 | [📘 Leer](./matematica.md) |
+| Música | 15 | 63 | 35 | 28 | [📘 Leer](./musica.md) |
+| Orientación | 9 | 41 | 41 | 0 | [📘 Leer](./orientacion.md) |
+| Tecnología | 12 | 55 | 35 | 20 | [📘 Leer](./tecnologia.md) |
+
+## 🧠 Progresión pedagógica común
 
 ~~~mermaid
-flowchart LR
-    A[Base de 4°] --> B[Modelado específico]
-    B --> C[Práctica con contraste]
-    C --> D[Evidencia individual]
-    D --> E[Comprobación y revisión]
-    E --> F[Transferencia]
+flowchart TD
+    A[Recuperar evidencia de 4°] --> B[Modelado disciplinar]
+    B --> C[Práctica guiada]
+    C --> D[Desempeño individual]
+    D --> E[Evidencia y criterios]
+    E --> F{¿Qué necesita el curso?}
+    F -->|Dominio| G[Transferir y profundizar]
+    F -->|Apoyo puntual| C
+    F -->|Otra explicación| B
 ~~~
 
-## Límites
+## 🎓 Resultados transversales
 
-- Las habilidades y actitudes integradas no se cuentan como clases adicionales.
-- La estructura y la unicidad se verifican automáticamente; no equivalen a revisión humana.
-- Las otras nueve denominaciones curriculares siguen pendientes, por lo que 5° básico no está completo.
+Al completar los recorridos, se espera explicar decisiones con evidencia, comunicar mediante lenguajes disciplinares, revisar productos o desempeños con criterios y transferir lo aprendido a situaciones nuevas.
+
+## 🧱 Prerrequisitos
+
+5° recupera evidencia de 4° y no supone automatización. Cuando una base falta, reincorpora vocabulario, representación, demostración o práctica focalizada antes de ampliar el desafío.
+
+## 🧱 Anatomía y diferenciación
+
+Cada clase explicita propósito, meta, ancla disciplinar, modelado, práctica guiada, desempeño individual, evidencia, criterios, apoyo, profundización, dificultades observables, decisión posterior y alternativa sin conectividad. La estructura es estable; el contenido, las decisiones y las evidencias cambian OA por OA.
+
+## 📊 Cómo se evalúa
+
+La evidencia sirve para avanzar, apoyar, reenseñar o recoger otra muestra. No se confunden velocidad, conducta, volumen de voz, presentación, identidad o cumplimiento con dominio del OA.
+
+## 🔎 Estados y límites
+
+- **Desarrollada:** secuencia disciplinar con decisiones, evidencia y apoyos específicos.
+- **Integrada:** habilidad o actitud observada dentro del contenido; no es una clase adicional.
+- **Pendiente:** quedan 0 propuestas secuenciadas o borradores en este nivel.
+- **Revisada:** requiere evidencia humana competente; actualmente hay 0.
+
+## 🔗 Documentos relacionados
+
+- [Mapa técnico de 5° básico](../QUINTO_BASICO.md)
+- [Syllabus completo](../SYLLABUS.md)
+- [Guía docente](../../TEACHING_GUIDE.md)
+- [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)
+- [Protocolo de revisión humana](../REVISION_HUMANA.md)

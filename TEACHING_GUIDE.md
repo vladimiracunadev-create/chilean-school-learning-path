@@ -77,7 +77,7 @@ La profundización debe seguir vinculada al OA y no convertir siempre al estudia
 
 La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla estos niveles y propone un registro mínimo.
 
-## Consideraciones para 1°, 2°, 3°, 4° y el lote desarrollado de 5° básico
+## Consideraciones para 1°, 2°, 3°, 4° y 5° básico
 
 - Alterna oralidad, manipulación, movimiento, dibujo y símbolo.
 - Mantén consignas breves, visibles y demostradas.

@@ -1,6 +1,6 @@
 # Ciencias Naturales · 5° básico
 
-[⬅️ Índice de 5° básico](README.md) · [Lenguaje y Comunicación →](lenguaje-comunicacion.md)
+[⬅️ Índice de 5° básico](README.md) · [← Artes Visuales](artes-visuales.md) · [Educación Física y Salud →](educacion-fisica-salud.md)
 
 **14 OA de contenido · 64 clases desarrolladas · 14 OA transversales · 58 experiencias integradas · 7 ejes curriculares · revisión humana pendiente**
 
@@ -10,7 +10,7 @@ Construir curiosidad disciplinada: observar con atención, formular preguntas, c
 
 ## 🔁 Continuidad con 4° básico
 
-Desde 4° básico, avanza desde observación y clasificación hacia investigaciones guiadas con variables, mediciones, modelos, evidencia y comunicación científica segura. En 5° aumenta el rango, la autonomía, el contraste de evidencia y la argumentación disciplinar.
+Desde 4° básico, avanza desde observación y clasificación hacia investigaciones guiadas con variables, mediciones, modelos, evidencia y comunicación científica segura. En 5° aumenta la autonomía, el contraste de evidencia y la transferencia sin retirar apoyos por calendario.
 
 ## 🧩 Qué problema pedagógico resuelve
 

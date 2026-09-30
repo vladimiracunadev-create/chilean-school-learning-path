@@ -1,6 +1,6 @@
 # Matemática · 5° básico
 
-[⬅️ Índice de 5° básico](README.md) · [← Lenguaje y Comunicación](lenguaje-comunicacion.md)
+[⬅️ Índice de 5° básico](README.md) · [← Lenguaje y Comunicación](lenguaje-comunicacion.md) · [Música →](musica.md)
 
 **27 OA de contenido · 115 clases desarrolladas · 20 OA transversales · 86 experiencias integradas · 10 ejes curriculares · revisión humana pendiente**
 
@@ -10,7 +10,7 @@ Construir sentido numérico y espacial mediante problemas, representaciones y co
 
 ## 🔁 Continuidad con 4° básico
 
-Desde 4° básico, amplía rango numérico, estrategias de cálculo, multiplicación y división, fracciones, geometría, medición y datos conectando representaciones y comprobación. En 5° aumenta el rango, la autonomía, el contraste de evidencia y la argumentación disciplinar.
+Desde 4° básico, amplía rango numérico, estrategias de cálculo, multiplicación y división, fracciones, geometría, medición y datos conectando representaciones y comprobación. En 5° aumenta la autonomía, el contraste de evidencia y la transferencia sin retirar apoyos por calendario.
 
 ## 🧩 Qué problema pedagógico resuelve
 

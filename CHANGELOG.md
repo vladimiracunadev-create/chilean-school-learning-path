@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-29 — 5° básico completo
+
+- Desarrollo de las nueve denominaciones pendientes: 575 clases disciplinares y 247 experiencias transversales integradas.
+- Cierre del nivel en 920 clases desarrolladas, 420 experiencias integradas, 295 OA y 0 propuestas pendientes.
+- Publicación de doce guías de asignatura con continuidad desde 4°, mapa técnico, índice completo y vista específica en GitHub Pages.
+- Inclusión diferenciada de Inglés e Inglés (Propuesta), tal como aparecen en el inventario curricular oficial del nivel.
+- Verificación automática de unicidad pedagógica, seguridad, privacidad, resguardos culturales, fuentes, licencias y reproducibilidad; revisión humana pendiente.
+- Estado global actualizado a 3.907 clases desarrolladas y 1.877 experiencias integradas.
+
 ## 2026-09-29 — Matemática, Lenguaje y Ciencias de 5° básico
 
 - Desarrollo de 71 OA disciplinares en 345 clases específicas: 115 de Matemática, 166 de Lenguaje y Comunicación y 64 de Ciencias Naturales.

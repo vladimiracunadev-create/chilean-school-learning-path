@@ -22,6 +22,7 @@ try:
     from grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
     from grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
     from grade_five_core_lessons import SEQUENCES as GRADE_FIVE_CORE_SEQUENCES, build_sequence as build_grade_five_core_sequence
+    from grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
@@ -38,6 +39,7 @@ except ImportError:
     from scripts.grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
     from scripts.grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
     from scripts.grade_five_core_lessons import SEQUENCES as GRADE_FIVE_CORE_SEQUENCES, build_sequence as build_grade_five_core_sequence
+    from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -93,6 +95,7 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed.update({code: build_grade_four_math_sequence(code) for code in GRADE_FOUR_MATH_SEQUENCES})
     all_developed.update({code: build_grade_four_remaining_sequence(code) for code in GRADE_FOUR_REMAINING_SEQUENCES})
     all_developed.update({code: build_grade_five_core_sequence(code) for code in GRADE_FIVE_CORE_SEQUENCES})
+    all_developed.update({code: build_grade_five_remaining_sequence(code) for code in GRADE_FIVE_REMAINING_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -119,14 +122,15 @@ def validate(root: Path = ROOT) -> list[str]:
     sha_transversal_codes: dict[str, set[str]] = {"CN": set(), "HI": set(), "AR": set()}
     remaining_transversal_codes: dict[str, set[str]] = {prefix: set() for prefix in REMAINING_ATTITUDES}
     for oa_code, objective in all_developed.items():
-        if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "MA04 OA ", "MA05 OA ", "LE05 OA ", "CN05 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "MU03 OA ", "OR03 OA ", "TE03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
+        is_fifth_remaining = oa_code.startswith(("AR05 OA ", "EF05 OA ", "HI05 OA ", "IN05 OA ", "EN05 OA ", "LC05 OA ", "MU05 OA ", "OR05 OA ", "TE05 OA "))
+        if is_fifth_remaining or oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "MA04 OA ", "MA05 OA ", "LE05 OA ", "CN05 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "MU03 OA ", "OR03 OA ", "TE03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
             for field in ("topic", "pedagogical_explanation", "prerequisites", "vocabulary", "official_alignment"):
                 if not objective.get(field):
                     errors.append(f"{oa_code}: falta fundamento específico {field}")
             alignment = objective.get("official_alignment", {})
             if len(alignment.get("indicators", [])) < 3 or not alignment.get("source", "").startswith("https://www.curriculumnacional.cl/"):
                 errors.append(f"{oa_code}: alineación oficial insuficiente")
-            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "MA04 OA ", "MA05 OA ", "LE05 OA ", "CN05 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "MU03 OA ", "OR03 OA ", "TE03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) and alignment.get("source") != official_urls.get(oa_code):
+            if (is_fifth_remaining or oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "MA04 OA ", "MA05 OA ", "LE05 OA ", "CN05 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "MU03 OA ", "OR03 OA ", "TE03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "LE01 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA "))) and alignment.get("source") != official_urls.get(oa_code):
                 errors.append(f"{oa_code}: la fuente de alineación no coincide con la ficha oficial del snapshot")
         for index, lesson in enumerate(objective.get("lessons", []), 1):
             missing = REQUIRED_DEVELOPED_FIELDS - lesson.keys()
@@ -139,7 +143,7 @@ def validate(root: Path = ROOT) -> list[str]:
             for field in REQUIRED_DEVELOPED_FIELDS - {"criteria", "title"}:
                 if len(str(lesson.get(field, "")).strip()) < 20:
                     errors.append(f"{oa_code}, clase {index}: {field} no tiene desarrollo suficiente")
-            if oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "MA04 OA ", "MA05 OA ", "LE05 OA ", "CN05 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "MU03 OA ", "OR03 OA ", "TE03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
+            if is_fifth_remaining or oa_code.startswith(("MA01 OA ", "MA02 OA ", "MA03 OA ", "MA04 OA ", "MA05 OA ", "LE05 OA ", "CN05 OA ", "LE03 OA ", "CN03 OA ", "HI03 OA ", "AR03 OA ", "EF03 OA ", "EN03 OA ", "LC03 OA ", "MU03 OA ", "OR03 OA ", "TE03 OA ", "LE02 OA ", "CN02 OA ", "HI02 OA ", "AR02 OA ", "MU02 OA ", "EF02 OA ", "OR02 OA ", "TE02 OA ", "EN02 OA ", "LC02 OA ", "CN01 OA ", "HI01 OA ", "AR01 OA ", "MU01 OA ", "EF01 OA ", "OR01 OA ", "TE01 OA ", "EN01 OA ", "LC01 OA ")) or oa_code == "LE01 OA 03":
                 for field in ("home_task", "complementary", "difficulty_actions", "specialist_coordination"):
                     if not lesson.get(field):
                         errors.append(f"{oa_code}, clase {index}: falta extensión pedagógica {field}")
@@ -469,18 +473,20 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"Vista de 4° básico incompleta: falta {token}")
     fifth_level_page = root / "site/levels/5-basico.html"
     fifth_level_html = fifth_level_page.read_text(encoding="utf-8") if fifth_level_page.is_file() else ""
-    for token in ("345 clases desarrolladas", "173 experiencias integradas", "<strong>3</strong>", "asignaturas desarrolladas", "822", "no se declara terminado"):
+    for token in ("1.340", "295", "12", "920 desarrolladas", "420 integradas", "0 propuestas pendientes", "Completo no significa revisado"):
         if token not in fifth_level_html:
-            errors.append(f"Vista de 5° básico parcial incompleta: falta {token}")
+            errors.append(f"Vista de 5° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "47 guías de asignatura", "44 de niveles completos · 3 del lote de 5°", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
+    for token in ("Documentación pedagógica", "56 guías de asignatura", "cinco niveles completos · 12 guías de 5°", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     if any(documentation_html.count(f"Leer guía de {level} completa") != 11 for level in ("1°", "2°", "3°", "4°")):
         errors.append("La portada documental no presenta las 11 guías de los cuatro niveles con igual visibilidad")
+    if documentation_html.count("Leer guía de 5° completa") != 12:
+        errors.append("La portada documental no presenta las 12 guías de 5° básico")
     required_docs = {
-        "README.md": ("12.997", "2.823", "691 clases disciplinares", "721 clases disciplinares", "757 clases disciplinares", "811 clases disciplinares", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "README.md": ("12.997", "2.823", "3.907", "1.877", "691 clases disciplinares", "721 clases disciplinares", "757 clases disciplinares", "811 clases disciplinares", "920 clases disciplinares", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
@@ -493,11 +499,16 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/3-basico/matematica.md": ("112 clases desarrolladas", "87 experiencias integradas", "Continuidad con 2° básico"),
         "docs/4-basico/README.md": ("Las 11 asignaturas", "811 clases desarrolladas", "384 experiencias integradas", "Progresión pedagógica común", "Anatomía y diferenciación"),
         "docs/4-basico/matematica.md": ("118 clases desarrolladas", "87 experiencias integradas", "Continuidad con 3° básico", "Recorrido OA por OA"),
-        "docs/5-basico/README.md": ("3 asignaturas desarrolladas", "345 clases desarrolladas", "173 experiencias integradas", "5° básico todavía no se declara completo"),
+        "docs/5-basico/README.md": ("12 denominaciones curriculares", "920 clases desarrolladas", "420 experiencias integradas", "0 propuestas pendientes", "Anatomía y diferenciación"),
         "docs/5-basico/matematica.md": ("115 clases desarrolladas", "86 experiencias integradas", "Continuidad con 4° básico", "Recorrido OA por OA"),
         "docs/5-basico/lenguaje-comunicacion.md": ("166 clases desarrolladas", "29 experiencias integradas", "Continuidad con 4° básico", "Recorrido OA por OA"),
         "docs/5-basico/ciencias-naturales.md": ("64 clases desarrolladas", "58 experiencias integradas", "Continuidad con 4° básico", "Recorrido OA por OA"),
-        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1°, 2°, 3° y 4° básico · primer lote de 5°", "Planificación de principio a fin"),
+        "docs/5-basico/historia-geografia-ciencias-sociales.md": ("106 clases desarrolladas", "91 experiencias integradas", "Continuidad con 4° básico", "Recorrido OA por OA"),
+        "docs/5-basico/artes-visuales.md": ("27 clases desarrolladas", "28 experiencias integradas", "Continuidad con 4° básico", "Recorrido OA por OA"),
+        "docs/5-basico/ingles.md": ("76 clases desarrolladas", "16 experiencias integradas", "Continuidad con 4° básico", "Recorrido OA por OA"),
+        "docs/5-basico/lengua-cultura-pueblos-originarios-ancestrales.md": ("135 clases desarrolladas", "Continuidad con 4° básico", "Resguardos culturales"),
+        "docs/QUINTO_BASICO.md": ("920 clases desarrolladas", "420 experiencias transversales integradas", "12 denominaciones curriculares", "Continuidad con 4° básico"),
+        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1°, 2°, 3°, 4° y 5° básico", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
@@ -511,10 +522,10 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
-        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1°, 2°, 3°, 4° y el lote desarrollado de 5° básico"),
+        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1°, 2°, 3°, 4° y 5° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
-        "LEARNING_PATHS.md": ("Docente de 1° a 4° o del lote desarrollado de 5° básico", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("3.332 clases desarrolladas", "5° básico", "Criterio para declarar un nivel completo"),
+        "LEARNING_PATHS.md": ("Docente de 1° a 5° básico", "Coordinación pedagógica o UTP"),
+        "ROADMAP.md": ("3.907 clases desarrolladas", "5° básico", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),
@@ -584,6 +595,22 @@ def validate(root: Path = ROOT) -> list[str]:
                 errors.append(f"Guía de 4° {subject_slug} incompleta: falta {token}")
         if fourth_guide.count("\n## ") < first_guide.count("\n## "):
             errors.append(f"Guía de 4° {subject_slug} tiene menor profundidad documental que su equivalente de 1°")
+    expected_fifth_guides = {item["subject_slug"] for item in classes if item.get("course_order") == 5}
+    fifth_subject_guides = {path.stem for path in (root / "docs/5-basico").glob("*.md") if path.name != "README.md"}
+    if fifth_subject_guides != expected_fifth_guides:
+        errors.append(f"Guías de asignatura de 5° básico incompletas: actuales={len(fifth_subject_guides)}, esperadas={len(expected_fifth_guides)}")
+    fifth_index = (root / "docs/5-basico/README.md").read_text(encoding="utf-8")
+    if fifth_index.count("\n## ") < first_index.count("\n## "):
+        errors.append("El índice de 5° básico tiene menor profundidad documental que el de 1° básico")
+    for subject_slug in sorted(expected_fifth_guides):
+        fifth_guide = (root / "docs/5-basico" / f"{subject_slug}.md").read_text(encoding="utf-8")
+        for token in ("Continuidad con 4° básico", "Resultados de aprendizaje", "Prerrequisitos", "Cómo recorrer", "Anatomía estable", "Estructura por ejes", "Recorrido OA por OA", "Qué observar", "Preparación y materiales", "Error frecuente", "Acceso y profundización"):
+            if token not in fifth_guide:
+                errors.append(f"Guía de 5° {subject_slug} incompleta: falta {token}")
+        baseline_slug = "ingles-propuesta" if subject_slug == "ingles" else subject_slug
+        first_guide = (root / "docs/1-basico" / f"{baseline_slug}.md").read_text(encoding="utf-8")
+        if fifth_guide.count("\n## ") < first_guide.count("\n## "):
+            errors.append(f"Guía de 5° {subject_slug} tiene menor profundidad documental que su equivalente de 1°")
     documentation_files = list(root.glob("*.md")) + list((root / "docs").rglob("*.md"))
     for document_path in documentation_files:
         document = document_path.read_text(encoding="utf-8")

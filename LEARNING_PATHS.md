@@ -2,7 +2,7 @@
 
 No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-## Docente de 1° a 4° o del lote desarrollado de 5° básico · preparar y enseñar
+## Docente de 1° a 5° básico · preparar y enseñar
 
 1. Abre el mapa de [1°](docs/PRIMERO_BASICO.md), [2°](docs/SEGUNDO_BASICO.md), [3°](docs/TERCERO_BASICO.md) o [4° básico](docs/CUARTO_BASICO.md).
 2. Elige asignatura y OA desde el portal.

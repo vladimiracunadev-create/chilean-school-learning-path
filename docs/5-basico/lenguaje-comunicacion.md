@@ -1,6 +1,6 @@
 # Lenguaje y Comunicación · 5° básico
 
-[⬅️ Índice de 5° básico](README.md) · [← Ciencias Naturales](ciencias-naturales.md) · [Matemática →](matematica.md)
+[⬅️ Índice de 5° básico](README.md) · [← Lengua y Cultura de los Pueblos Originarios Ancestrales](lengua-cultura-pueblos-originarios-ancestrales.md) · [Matemática →](matematica.md)
 
 **30 OA de contenido · 166 clases desarrolladas · 7 OA transversales · 29 experiencias integradas · 4 ejes curriculares · revisión humana pendiente**
 
@@ -10,7 +10,7 @@ Integrar oralidad, lectura y escritura para comprender, imaginar, conversar y pr
 
 ## 🔁 Continuidad con 4° básico
 
-Desde 4° básico, aumenta autonomía para comprender, inferir, investigar, conversar, planificar, escribir y revisar textos literarios y no literarios con evidencia. En 5° aumenta el rango, la autonomía, el contraste de evidencia y la argumentación disciplinar.
+Desde 4° básico, aumenta autonomía para comprender, inferir, investigar, conversar, planificar, escribir y revisar textos literarios y no literarios con evidencia. En 5° aumenta la autonomía, el contraste de evidencia y la transferencia sin retirar apoyos por calendario.
 
 ## 🧩 Qué problema pedagógico resuelve
 

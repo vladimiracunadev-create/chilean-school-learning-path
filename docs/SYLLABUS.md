@@ -1,6 +1,6 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1°, 2°, 3° y 4° básico · primer lote de 5°
+## Marco de reconstrucción de 1°, 2°, 3°, 4° y 5° básico
 
 > [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [🚧 5° parcial](5-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
@@ -20,7 +20,7 @@ Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currí
 
 4° básico está desarrollado en sus 268 OA, 1.195 propuestas y once asignaturas: 175 OA de contenido se despliegan en 811 clases y 93 OA transversales en 384 experiencias integradas. Las clases aumentan precisión y autonomía sin abandonar diagnóstico, modelado, acceso ni resguardos disciplinares.
 
-En 5° básico están desarrolladas Matemática, Lenguaje y Comunicación y Ciencias Naturales: 71 OA de contenido se despliegan en 345 clases y 40 OA transversales en 173 experiencias integradas. Las otras nueve denominaciones curriculares conservan 822 propuestas pendientes, por lo que el nivel no se declara completo.
+En 5° básico, 193 OA de contenido se despliegan en 920 clases y 102 OA transversales en 420 experiencias integradas. Las doce denominaciones curriculares del inventario están completas y quedan 0 propuestas pendientes.
 
 El programa busca que la planificación sea:
 
@@ -32,7 +32,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1° a 4° básico y de las tres asignaturas desarrolladas de 5° que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° a 5° básico que necesitan preparar, adaptar o contrastar una secuencia.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.
@@ -118,15 +118,24 @@ Al utilizar el programa, el equipo docente podrá:
 | Orientación | 9 | 40 | [Leer](4-basico/orientacion.md) |
 | Tecnología | 12 | 55 | [Leer](4-basico/tecnologia.md) |
 
-### 5° básico · lote desarrollado
+### 5° básico · nivel completo
 
 | Asignatura | OA | Clases y experiencias | Guía |
 |---|---:|---:|---|
 | Matemática | 47 | 201 | [Leer](5-basico/matematica.md) |
 | Lenguaje y Comunicación | 37 | 195 | [Leer](5-basico/lenguaje-comunicacion.md) |
 | Ciencias Naturales | 28 | 122 | [Leer](5-basico/ciencias-naturales.md) |
+| Historia, Geografía y Ciencias Sociales | 44 | 197 | [Leer](5-basico/historia-geografia-ciencias-sociales.md) |
+| Artes Visuales | 12 | 55 | [Leer](5-basico/artes-visuales.md) |
+| Música | 15 | 63 | [Leer](5-basico/musica.md) |
+| Educación Física y Salud | 19 | 81 | [Leer](5-basico/educacion-fisica-salud.md) |
+| Orientación | 9 | 41 | [Leer](5-basico/orientacion.md) |
+| Tecnología | 12 | 55 | [Leer](5-basico/tecnologia.md) |
+| Inglés | 20 | 92 | [Leer](5-basico/ingles.md) |
+| Inglés (Propuesta) | 23 | 103 | [Leer](5-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | [Leer](5-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
 
-Las restantes nueve denominaciones curriculares siguen inventariadas y secuenciadas, pero no se presentan como contenido desarrollado.
+Las doce denominaciones curriculares tienen desarrollo interno completo; habilidades y actitudes se integran dentro del contenido y no se cuentan como clases adicionales.
 
 ## 5. Planificación de principio a fin
 

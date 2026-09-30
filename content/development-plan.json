@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-29",
-  "active_level": "5° básico en desarrollo — Matemática, Lenguaje y Ciencias completas",
-  "active_subject": "Historia, Geografía y Ciencias Sociales",
+  "active_level": "6° básico — siguiente nivel por desarrollar",
+  "active_subject": "Matemática",
   "delivery_unit": "nivel completo",
   "subject_order": [
     "Matemática",
@@ -200,7 +200,7 @@
     "pedagogical": {"status": "pendiente", "evidence": null},
     "accessibility_and_inclusion": {"status": "pendiente", "evidence": null},
     "cultural_and_contextual": {"status": "pendiente", "evidence": null},
-    "documentary_and_sources": {"status": "control_interno_completo_niveles_1_a_4_y_lote_5", "evidence": "Las 11 asignaturas de 1° a 4° y Matemática, Lenguaje y Ciencias de 5° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML"},
+    "documentary_and_sources": {"status": "control_interno_completo_niveles_1_a_5", "evidence": "Las asignaturas de 1° a 5° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5° conserva separadas las dos denominaciones oficiales de Inglés presentes en el inventario"},
     "rights_and_privacy": {"status": "interno_en_curso", "evidence": "validación automática de licencias y prohibición de datos personales"}
   },
   "completion_gates": [
