@@ -2,11 +2,11 @@
 
 # 📚 Centro de documentación
 
-## **1° a 6° básico con desarrollo interno completo**
+## **1° a 7° básico con desarrollo interno completo**
 
 **1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 Siete asignaturas de 7°](7-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -39,6 +39,7 @@ Aquí puedes responder:
 | Recorrer 4° básico | [Índice maestro](4-basico/README.md) | 268 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
 | Recorrer 5° básico completo | [Índice del nivel](5-basico/README.md) | Doce denominaciones curriculares con continuidad desde 4° |
 | Enseñar 6° básico | [Índice completo](6-basico/README.md) | 301 OA, 952 clases y 422 experiencias integradas |
+| Enseñar en 7° básico | [Índice completo del nivel](7-basico/README.md) | 760 clases disciplinares, 515 experiencias integradas y límites del desarrollo |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -58,11 +59,13 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las 68 guías disponibles —44 de 1° a 4°, doce de 5° y doce de 6°— se generan desde la misma fuente que el catálogo y el portal.
+Las 80 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6° y doce de 7°— se generan desde la misma fuente que el catálogo y el portal.
 
 **5° básico completo:** [índice y doce guías de asignatura](5-basico/README.md), con mapa técnico en [QUINTO_BASICO.md](QUINTO_BASICO.md).
 
 **6° básico completo:** [índice documental](6-basico/README.md) y [mapa técnico](SEXTO_BASICO.md), con doce guías de asignatura.
+
+**7° básico completo:** [índice de doce denominaciones](7-basico/README.md), con continuidad, recorrido OA por OA, evaluación, apoyos, profundización y resguardos disciplinares.
 
 | Asignatura | 1° | 2° | 3° | 4° | 5° | 6° |
 |---|---|---|---|---|---|---|
@@ -100,13 +103,13 @@ flowchart TD
 |---|---:|---|
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
-| Borradores | 0 en 1° a 6° | los niveles completos no conservan plantillas pendientes |
-| Desarrolladas | 4.859 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 2.299 | habilidades o actitudes incorporadas en clases de contenido |
+| Borradores | 0 | las propuestas pendientes permanecen secuenciadas, no como plantillas que aparenten desarrollo |
+| Desarrolladas | 5.619 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 2.814 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422. Las otras 7 clases desarrolladas corresponden al piloto de 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515. Las otras 7 clases desarrolladas corresponden al piloto de 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 

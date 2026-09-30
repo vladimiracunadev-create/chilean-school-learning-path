@@ -2,7 +2,7 @@
 
 El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen el estado actual; el [changelog](CHANGELOG.md) conserva la historia.
 
-## Estado actual · 29 de septiembre de 2026
+## Estado actual · 30 de septiembre de 2026
 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
@@ -12,14 +12,14 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 4° básico | 268 | 1.195 | Desarrollo interno completo · 811 desarrolladas · 384 integradas · 0 pendientes · revisión humana pendiente |
 | 5° básico | 295 | 1.340 | Desarrollo interno completo · 920 desarrolladas · 420 integradas · 0 pendientes · revisión humana pendiente |
 | 6° básico | 301 | 1.374 | Completo: 952 desarrolladas + 422 integradas |
-| 7° básico | 275 | 1.275 | Secuenciado |
+| 7° básico | 275 | 1.275 | Completo: 760 desarrolladas + 515 integradas · 0 pendientes |
 | 8° básico | 253 | 1.201 | Secuenciado · 7 clases piloto desarrolladas |
 | 1° medio | 253 | 1.209 | Secuenciado |
 | 2° medio | 248 | 1.200 | Secuenciado |
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **4.859 clases desarrolladas**, **2.299 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 6° básico** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **5.619 clases desarrolladas**, **2.814 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 7° básico**, y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -89,7 +89,11 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **4.859 clases desarrolladas*
 
 ### Fases siguientes
 - [x] Completar 6° básico: 952 clases + 422 experiencias integradas en doce denominaciones curriculares.
-- [ ] Completar 7° y 8° básico.
+- [x] Completar Matemática de 7° básico: 83 clases en 19 OA de contenido y 82 experiencias integradas de 19 OA transversales.
+- [x] Completar Lengua y Literatura de 7° básico: 147 clases en 25 OA de contenido y 33 experiencias integradas de 8 OA de actitudes.
+- [x] Completar Ciencias Naturales, Historia, Inglés, Educación Física y Salud, y Artes Visuales de 7° básico: 319 clases en 65 OA de contenido y 262 experiencias integradas de 61 OA transversales.
+- [x] Completar Inglés (Propuesta), Lengua indígena, Música, Orientación y Tecnología de 7° básico: 211 clases en 44 objetivos de contenido y 138 experiencias integradas de 34 objetivos transversales.
+- [ ] Completar 8° básico.
 - [ ] Completar 1° y 2° medio.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
 

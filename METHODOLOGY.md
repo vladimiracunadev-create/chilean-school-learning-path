@@ -53,7 +53,7 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 | Revisada | Registra control humano disciplinar, pedagógico, documental, accesible y de derechos. |
 | Publicada | Cuenta con salida Markdown y HTML navegable. |
 
-Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. En 3° básico, 165 OA de contenido producen 757 clases y 92 OA transversales se materializan en 379 experiencias. En 4° básico, 175 OA de contenido producen 811 clases y 93 OA transversales se materializan en 384 experiencias. En 5° básico, 193 OA de contenido producen 920 clases y 102 OA transversales se materializan en 420 experiencias. En 6° básico, 209 OA de contenido producen 952 clases y 92 OA transversales se materializan en 422 experiencias. Los seis niveles tienen desarrollo interno completo.
+Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. En 3° básico, 165 OA de contenido producen 757 clases y 92 OA transversales se materializan en 379 experiencias. En 4° básico, 175 OA de contenido producen 811 clases y 93 OA transversales se materializan en 384 experiencias. En 5° básico, 193 OA de contenido producen 920 clases y 102 OA transversales se materializan en 420 experiencias. En 6° básico, 209 OA de contenido producen 952 clases y 92 OA transversales se materializan en 422 experiencias. En 7° básico, 153 objetivos de contenido producen 760 clases y 122 objetivos transversales se materializan en 515 experiencias. Los siete niveles tienen desarrollo interno completo.
 
 En 4° básico, cada asignatura conserva un protocolo disciplinar propio: representación y comprobación matemática; lectura, escritura y oralidad con evidencia; indagación científica; análisis de fuentes históricas; creación artística y musical; desempeño motriz seguro; casos protegidos en Orientación; diseño tecnológico; comunicación en inglés y pertinencia comunitaria en lengua y cultura originaria.
 
@@ -64,8 +64,8 @@ En 4° básico, cada asignatura conserva un protocolo disciplinar propio: repres
 - el catálogo JSON;
 - las fichas Markdown por OA;
 - las páginas HTML por OA;
-- las vistas completas de 1° a 6° básico;
-- la documentación generada de los seis niveles completos, con 68 guías de asignatura;
+- las vistas completas y guías de asignatura de 1° a 7° básico;
+- la documentación generada de los siete niveles completos, con 80 guías de asignatura;
 - la malla y el sitemap.
 
 La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.

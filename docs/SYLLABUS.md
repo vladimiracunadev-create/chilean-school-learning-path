@@ -1,10 +1,10 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1° a 6° básico
+## Marco de reconstrucción de 1° a 7° básico
 
-> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 Siete asignaturas de 7°](7-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -24,6 +24,8 @@ En 5° básico, 193 OA de contenido se despliegan en 920 clases y 102 OA transve
 
 En 6° básico, 209 OA de contenido se despliegan en 952 clases y 92 OA transversales en 422 experiencias integradas. Las doce denominaciones curriculares del inventario están completas y quedan 0 propuestas pendientes.
 
+En 7° básico están desarrolladas las doce denominaciones: 153 objetivos de contenido se despliegan en 760 clases y 122 objetivos transversales en 515 experiencias integradas. No quedan propuestas secuenciadas ni borradores en el nivel.
+
 El programa busca que la planificación sea:
 
 - **trazable**, porque conserva OA, eje, fuente y fecha;
@@ -34,7 +36,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1° a 6° básico que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° a 7° básico que necesitan preparar, adaptar o contrastar una secuencia.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.

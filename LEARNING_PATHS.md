@@ -2,9 +2,9 @@
 
 No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-## Docente de 1° a 6° básico · preparar y enseñar
+## Docente de contenido desarrollado de 1° a 7° básico · preparar y enseñar
 
-1. Abre el mapa de [1°](docs/PRIMERO_BASICO.md), [2°](docs/SEGUNDO_BASICO.md), [3°](docs/TERCERO_BASICO.md) o [4° básico](docs/CUARTO_BASICO.md).
+1. Abre el mapa del nivel; para 7° usa el [índice completo del nivel](docs/7-basico/README.md) y comprueba el estado de la asignatura.
 2. Elige asignatura y OA desde el portal.
 3. Revisa la clase anterior y siguiente para entender la progresión.
 4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.

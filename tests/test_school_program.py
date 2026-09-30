@@ -21,6 +21,9 @@ from scripts.grade_five_core_lessons import COUNTS as GRADE_FIVE_COUNTS, SEQUENC
 from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
 from scripts.grade_six_math_lessons import COUNTS as GRADE_SIX_MATH_COUNTS, SEQUENCES as GRADE_SIX_MATH_SEQUENCES, build_sequence as build_grade_six_math_sequence
 from scripts.grade_six_remaining_lessons import SEQUENCES as GRADE_SIX_REMAINING_SEQUENCES, build_sequence as build_grade_six_remaining_sequence
+from scripts.grade_seven_core_lessons import SEQUENCES as GRADE_SEVEN_CORE_SEQUENCES, build_sequence as build_grade_seven_core_sequence
+from scripts.grade_seven_next_five_lessons import SEQUENCES as GRADE_SEVEN_NEXT_FIVE_SEQUENCES, build_sequence as build_grade_seven_next_five_sequence
+from scripts.grade_seven_remaining_lessons import SEQUENCES as GRADE_SEVEN_REMAINING_SEQUENCES, build_sequence as build_grade_seven_remaining_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -42,8 +45,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 4859)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 2299)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 5619)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 2814)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -55,7 +58,126 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 4859)
+        self.assertEqual(len(developed), 5619)
+
+    def test_seventh_grade_mathematics_and_language_are_complete_and_specific(self):
+        seventh = [item for item in self.catalog["classes"] if item["course_order"] == 7]
+        expected = {
+            "matematica": (83, 19, 82, 19),
+            "lengua-literatura": (147, 25, 33, 8),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in seventh if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            integrated = [item for item in rows if item["editorial_status"] == "integrada"]
+            self.assertEqual(
+                (len(developed), len({item["oa_code"] for item in developed}), len(integrated), len({item["oa_code"] for item in integrated})),
+                counts,
+            )
+            self.assertFalse([item for item in rows if item["editorial_status"] in {"secuenciada", "borrador"}])
+        sequences = [build_grade_seven_core_sequence(code) for code in sorted(GRADE_SEVEN_CORE_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual(len(lessons), 230)
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) == 3 for lesson in lessons))
+        for path in (
+            ROOT / "curriculum/7-basico/matematica/ma07-oa-01.md",
+            ROOT / "curriculum/7-basico/matematica/ma07-oa-11.md",
+            ROOT / "curriculum/7-basico/lengua-literatura/le07-oa-03.md",
+            ROOT / "curriculum/7-basico/lengua-literatura/le07-oa-24.md",
+        ):
+            text = path.read_text(encoding="utf-8")
+            self.assertNotIn("Tarjetas numéricas", text)
+            self.assertNotIn("Microtexto original del proyecto: «Camila encontró", text)
+            self.assertNotIn("comprenderé o produciré", text)
+            self.assertNotIn("Modela cómo diagnosticar", text)
+            self.assertNotIn("Piensa en voz alta para diagnosticar", text)
+        self.assertNotIn(
+            "arcos auxiliares",
+            (ROOT / "curriculum/7-basico/matematica/ma07-oa-19.md").read_text(encoding="utf-8"),
+        )
+        self.assertNotIn(
+            "adapta el mensaje",
+            (ROOT / "curriculum/7-basico/lengua-literatura/le07-oa-03.md").read_text(encoding="utf-8"),
+        )
+
+    def test_seventh_grade_next_five_subjects_are_complete_specific_and_safe(self):
+        seventh = [item for item in self.catalog["classes"] if item["course_order"] == 7]
+        expected = {
+            "ciencias-naturales": (72, 15, 89, 21),
+            "historia-geografia-ciencias-sociales": (113, 23, 91, 20),
+            "ingles": (80, 16, 21, 5),
+            "educacion-fisica-salud": (25, 5, 28, 7),
+            "artes-visuales": (29, 6, 33, 8),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in seventh if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            integrated = [item for item in rows if item["editorial_status"] == "integrada"]
+            self.assertEqual(
+                (len(developed), len({item["oa_code"] for item in developed}), len(integrated), len({item["oa_code"] for item in integrated})),
+                counts,
+            )
+            self.assertFalse([item for item in rows if item["editorial_status"] in {"secuenciada", "borrador"}])
+        sequences = [build_grade_seven_next_five_sequence(code) for code in sorted(GRADE_SEVEN_NEXT_FIVE_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual(len(sequences), 65)
+        self.assertEqual(len(lessons), 319)
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) == 3 for lesson in lessons))
+        samples = {
+            "curriculum/7-basico/ciencias-naturales/cn07-oa-03.md": ("evitan perfiles personales", "estigmatizar"),
+            "curriculum/7-basico/historia-geografia-ciencias-sociales/hi07-oa-14.md": ("Tawantinsuyu", "crónica colonial"),
+            "curriculum/7-basico/ingles/in07-oa-06.md": ("information-gap", "accent"),
+            "curriculum/7-basico/educacion-fisica-salud/ef07-oa-03.md": ("sin comparaciones corporales", "variante segura"),
+            "curriculum/7-basico/artes-visuales/ar07-oa-03.md": ("privacidad", "autoría"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8")
+            for token in tokens:
+                self.assertIn(token, text)
+            self.assertNotIn("Recursos reutilizables para", text)
+
+    def test_seventh_grade_remaining_subjects_complete_the_level(self):
+        expected = {
+            "ingles-propuesta": (65, 13, 85, 21),
+            "lengua-indigena": (41, 8, 0, 0),
+            "musica": (30, 7, 37, 9),
+            "orientacion": (49, 10, 0, 0),
+            "tecnologia": (26, 6, 16, 4),
+        }
+        seventh = [item for item in self.catalog["classes"] if item["course_order"] == 7]
+        for slug, counts in expected.items():
+            rows = [item for item in seventh if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            integrated = [item for item in rows if item["editorial_status"] == "integrada"]
+            self.assertEqual(
+                (len(developed), len({item["oa_code"] for item in developed}), len(integrated), len({item["oa_code"] for item in integrated})),
+                counts,
+            )
+        sequences = [build_grade_seven_remaining_sequence(code) for code in sorted(GRADE_SEVEN_REMAINING_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(sequences), len(lessons)), (44, 211))
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertEqual((len(seventh), sum(item["editorial_status"] == "desarrollada" for item in seventh), sum(item["editorial_status"] == "integrada" for item in seventh)), (1275, 760, 515))
+        self.assertFalse([item for item in seventh if item["editorial_status"] in {"secuenciada", "borrador"}])
+        samples = {
+            "curriculum/7-basico/ingles-propuesta/en07-oa-09.md": ("information-gap", "accent imitation"),
+            "curriculum/7-basico/lengua-indigena/li07-of-d.md": ("no suplanta saberes comunitarios", "no inventa lengua"),
+            "curriculum/7-basico/musica/mu07-oa-05.md": ("evidencia audible", "volumen seguro"),
+            "curriculum/7-basico/orientacion/or07-oa-03.md": ("caso ficticio", "no solicita experiencias personales"),
+            "curriculum/7-basico/tecnologia/te07-oa-04.md": ("privacidad", "criterio"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8")
+            for token in tokens:
+                self.assertIn(token, text)
+        for slug in expected:
+            self.assertTrue((ROOT / "docs/7-basico" / f"{slug}.md").is_file(), slug)
+            self.assertTrue((ROOT / "site/docs/7-basico" / f"{slug}.html").is_file(), slug)
+        self.assertTrue((ROOT / "site/levels/7-basico.html").is_file())
+        self.assertTrue((ROOT / "docs/SEPTIMO_BASICO.md").is_file())
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]

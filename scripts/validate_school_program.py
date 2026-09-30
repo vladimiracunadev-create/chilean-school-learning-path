@@ -25,6 +25,9 @@ try:
     from grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
     from grade_six_math_lessons import SEQUENCES as GRADE_SIX_MATH_SEQUENCES, build_sequence as build_grade_six_math_sequence
     from grade_six_remaining_lessons import SEQUENCES as GRADE_SIX_REMAINING_SEQUENCES, build_sequence as build_grade_six_remaining_sequence
+    from grade_seven_core_lessons import SEQUENCES as GRADE_SEVEN_CORE_SEQUENCES, build_sequence as build_grade_seven_core_sequence
+    from grade_seven_next_five_lessons import SEQUENCES as GRADE_SEVEN_NEXT_FIVE_SEQUENCES, build_sequence as build_grade_seven_next_five_sequence
+    from grade_seven_remaining_lessons import SEQUENCES as GRADE_SEVEN_REMAINING_SEQUENCES, build_sequence as build_grade_seven_remaining_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
@@ -44,6 +47,9 @@ except ImportError:
     from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
     from scripts.grade_six_math_lessons import SEQUENCES as GRADE_SIX_MATH_SEQUENCES, build_sequence as build_grade_six_math_sequence
     from scripts.grade_six_remaining_lessons import SEQUENCES as GRADE_SIX_REMAINING_SEQUENCES, build_sequence as build_grade_six_remaining_sequence
+    from scripts.grade_seven_core_lessons import SEQUENCES as GRADE_SEVEN_CORE_SEQUENCES, build_sequence as build_grade_seven_core_sequence
+    from scripts.grade_seven_next_five_lessons import SEQUENCES as GRADE_SEVEN_NEXT_FIVE_SEQUENCES, build_sequence as build_grade_seven_next_five_sequence
+    from scripts.grade_seven_remaining_lessons import SEQUENCES as GRADE_SEVEN_REMAINING_SEQUENCES, build_sequence as build_grade_seven_remaining_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -102,6 +108,9 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed.update({code: build_grade_five_remaining_sequence(code) for code in GRADE_FIVE_REMAINING_SEQUENCES})
     all_developed.update({code: build_grade_six_math_sequence(code) for code in GRADE_SIX_MATH_SEQUENCES})
     all_developed.update({code: build_grade_six_remaining_sequence(code) for code in GRADE_SIX_REMAINING_SEQUENCES})
+    all_developed.update({code: build_grade_seven_core_sequence(code) for code in GRADE_SEVEN_CORE_SEQUENCES})
+    all_developed.update({code: build_grade_seven_next_five_sequence(code) for code in GRADE_SEVEN_NEXT_FIVE_SEQUENCES})
+    all_developed.update({code: build_grade_seven_remaining_sequence(code) for code in GRADE_SEVEN_REMAINING_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -401,6 +410,33 @@ def validate(root: Path = ROOT) -> list[str]:
     if any(item.get("editorial_status") in {"secuenciada", "borrador"} for item in fourth_grade):
         errors.append("4° básico no debe conservar propuestas pendientes")
 
+    seventh_grade = [item for item in classes if item.get("course_order") == 7]
+    expected_seventh_core = {
+        "matematica": (83, 19, 82, 19),
+        "lengua-literatura": (147, 25, 33, 8),
+        "ciencias-naturales": (72, 15, 89, 21),
+        "historia-geografia-ciencias-sociales": (113, 23, 91, 20),
+        "ingles": (80, 16, 21, 5),
+        "educacion-fisica-salud": (25, 5, 28, 7),
+        "artes-visuales": (29, 6, 33, 8),
+        "ingles-propuesta": (65, 13, 85, 21),
+        "lengua-indigena": (41, 8, 0, 0),
+        "musica": (30, 7, 37, 9),
+        "orientacion": (49, 10, 0, 0),
+        "tecnologia": (26, 6, 16, 4),
+    }
+    for slug, expected_counts in expected_seventh_core.items():
+        rows = [item for item in seventh_grade if item.get("subject_slug") == slug]
+        core = [item for item in rows if item.get("editorial_status") == "desarrollada"]
+        integrated = [item for item in rows if item.get("editorial_status") == "integrada"]
+        actual = (len(core), len({item.get("oa_code") for item in core}), len(integrated), len({item.get("oa_code") for item in integrated}))
+        if actual != expected_counts:
+            errors.append(f"Cobertura desarrollada o transversal incompleta en 7° básico: {slug}")
+        if any(item.get("editorial_status") in {"secuenciada", "borrador"} for item in rows):
+            errors.append(f"7° básico no debe conservar propuestas pendientes en {slug}")
+    if any(item.get("editorial_status") in {"secuenciada", "borrador"} for item in seventh_grade):
+        errors.append("7° básico no debe conservar propuestas pendientes")
+
     markdown_cache: dict[str, str] = {}
     html_cache: dict[str, str] = {}
     for item in classes:
@@ -432,15 +468,17 @@ def validate(root: Path = ROOT) -> list[str]:
         if item["editorial_status"] == "desarrollada":
             quality_tokens = ["Insumo concreto y consigna", "Recurso listo para usar", "Consigna exacta", "Referencia para modelar y corregir", "Pauta de evaluación de cuatro niveles", "Distribución de 45 minutos"]
             tokens = ["Propósito docente", "Meta para estudiantes", "Materiales y preparación", "Criterios observables", "Decisión posterior", "Tarea breve y flexible", "Actividades complementarias", "Control de dificultades con acciones", "Coordinación profesional", *quality_tokens]
-            if item.get("subject_slug") == "matematica" and item.get("course_order") in {1, 2, 3, 4, 5, 6}:
+            if item.get("subject_slug") == "matematica" and item.get("course_order") in {1, 2, 3, 4, 5, 6, 7}:
                 tokens.append("Habilidad y actitud en esta clase")
             if item.get("subject_slug") == "lenguaje-comunicacion" and item.get("course_order") in {1, 3, 5, 6}:
                 tokens.append("Actitud transversal en esta clase")
-            if item.get("subject_slug") in {"ciencias-naturales", "historia-geografia-ciencias-sociales"} and item.get("course_order") in {1, 3, 5, 6}:
-                tokens.append("Habilidad y actitud en esta clase")
-            if item.get("subject_slug") == "artes-visuales" and item.get("course_order") in {1, 3, 5, 6}:
+            if item.get("subject_slug") == "lengua-literatura" and item.get("course_order") == 7:
                 tokens.append("Actitud transversal en esta clase")
-            if item.get("subject_slug") in {"musica", "educacion-fisica-salud", "tecnologia", "ingles", "ingles-propuesta"} and item.get("course_order") in {1, 3, 5, 6}:
+            if item.get("subject_slug") in {"ciencias-naturales", "historia-geografia-ciencias-sociales"} and item.get("course_order") in {1, 3, 5, 6, 7}:
+                tokens.append("Habilidad y actitud en esta clase")
+            if item.get("subject_slug") == "artes-visuales" and item.get("course_order") in {1, 3, 5, 6, 7}:
+                tokens.append("Actitud transversal en esta clase")
+            if item.get("subject_slug") in {"musica", "educacion-fisica-salud", "tecnologia", "ingles", "ingles-propuesta"} and item.get("course_order") in {1, 3, 5, 6, 7}:
                 tokens.append("Actitud transversal en esta clase")
             if item.get("subject_slug") == "lengua-cultura-pueblos-originarios-ancestrales" and item.get("course_order") in {1, 3, 5}:
                 tokens.append("Actitud transversal en esta clase")
@@ -463,7 +501,7 @@ def validate(root: Path = ROOT) -> list[str]:
     pages = list((root / "site/classes").rglob("*.html"))
     if len(pages) != objective_count:
         errors.append(f"Páginas de OA: {len(pages)}, esperadas: {objective_count}")
-    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html", "levels/5-basico.html", "levels/6-basico.html", "reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
+    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html", "levels/5-basico.html", "levels/6-basico.html", "levels/7-basico.html", "reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
     documentation_pages = list((root / "site/docs").rglob("*.html"))
@@ -471,8 +509,8 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append(f"Documentación HTML incompleta: {len(documentation_pages)} páginas, esperadas al menos 38")
     sitemap_path = root / "site/sitemap.xml"
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
-    if sitemap.count("<url>") != objective_count + len(documentation_pages) + 8:
-        errors.append("El sitemap no enumera portada, documentación, vistas de 1° a 6° básico, documentos HTML y páginas de OA")
+    if sitemap.count("<url>") != objective_count + len(documentation_pages) + 9:
+        errors.append("El sitemap no enumera portada, documentación, vistas de 1° a 7° básico, documentos HTML y páginas de OA")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "691", "343", "Contrato pedagógico"):
@@ -503,9 +541,14 @@ def validate(root: Path = ROOT) -> list[str]:
     for token in ("1.374", "301", "12", "952 desarrolladas", "422 integradas", "0 propuestas pendientes", "Completo no significa revisado"):
         if token not in sixth_level_html:
             errors.append(f"Vista de 6° básico incompleta: falta {token}")
+    seventh_level_page = root / "site/levels/7-basico.html"
+    seventh_level_html = seventh_level_page.read_text(encoding="utf-8") if seventh_level_page.is_file() else ""
+    for token in ("1.275", "275", "12", "760 desarrolladas", "515 integradas", "0 propuestas pendientes", "Completo no significa revisado"):
+        if token not in seventh_level_html:
+            errors.append(f"Vista de 7° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "68 guías de asignatura", "seis niveles completos · 12 guías de 6°", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "Sexto nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML", "Pilotaje de aula"):
+    for token in ("Documentación pedagógica", "80 guías de asignatura", "siete niveles completos · 12 guías de 7°", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "Sexto nivel completo", "Séptimo nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML", "Pilotaje de aula"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     if any(documentation_html.count(f"Leer guía de {level} completa") != 11 for level in ("1°", "2°", "3°", "4°")):
@@ -514,9 +557,11 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("La portada documental no presenta las 12 guías de 5° básico")
     if documentation_html.count("Leer guía de 6° completa") != 12:
         errors.append("La portada documental no presenta las 12 guías de 6° básico")
+    if documentation_html.count("Leer guía de 7° completa") != 12:
+        errors.append("La portada documental no presenta las 12 guías de 7° básico")
     required_docs = {
-        "README.md": ("12.997", "2.823", "4.859", "2.299", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
-        "docs/README.md": ("1° a 6° básico con desarrollo interno completo", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
+        "README.md": ("12.997", "2.823", "5.619", "2.814", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "docs/README.md": ("1° a 7° básico con desarrollo interno completo", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
         "docs/TERCERO_BASICO.md": ("1.136", "Decisiones con evidencia", "Continuidad"),
@@ -544,7 +589,21 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/6-basico/historia-geografia-ciencias-sociales.md": ("116 clases desarrolladas", "96 experiencias integradas", "Continuidad con 5° básico", "Recorrido OA por OA"),
         "docs/6-basico/lengua-cultura-pueblos-originarios-ancestrales.md": ("144 clases desarrolladas", "Continuidad con 5° básico", "Resguardos culturales"),
         "docs/SEXTO_BASICO.md": ("952 clases desarrolladas", "422 experiencias transversales integradas", "12 denominaciones curriculares", "Continuidad con 5° básico"),
-        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° a 6° básico", "Planificación de principio a fin"),
+        "docs/7-basico/README.md": ("desarrollo interno completo", "760 clases disciplinares", "515 experiencias transversales integradas", "12 denominaciones curriculares"),
+        "docs/7-basico/matematica.md": ("83 clases desarrolladas", "82 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/lengua-literatura.md": ("147 clases desarrolladas", "33 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/ciencias-naturales.md": ("72 clases desarrolladas", "89 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/historia-geografia-ciencias-sociales.md": ("113 clases desarrolladas", "91 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/ingles.md": ("80 clases desarrolladas", "21 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/educacion-fisica-salud.md": ("25 clases desarrolladas", "28 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/artes-visuales.md": ("29 clases desarrolladas", "33 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/ingles-propuesta.md": ("65 clases desarrolladas", "85 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/lengua-indigena.md": ("41 clases desarrolladas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/musica.md": ("30 clases desarrolladas", "37 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/orientacion.md": ("49 clases desarrolladas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/7-basico/tecnologia.md": ("26 clases desarrolladas", "16 experiencias integradas", "Continuidad con 6° básico", "Recorrido OA por OA"),
+        "docs/SEPTIMO_BASICO.md": ("760 clases desarrolladas", "515 experiencias transversales integradas", "12 denominaciones curriculares", "Continuidad con 6° básico"),
+        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° a 7° básico", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
@@ -559,10 +618,10 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
-        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° a 6° básico"),
+        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1° a 7° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
-        "LEARNING_PATHS.md": ("Docente de 1° a 6° básico", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("4.859 clases desarrolladas", "Completo: 952 desarrolladas + 422 integradas", "Criterio para declarar un nivel completo"),
+        "LEARNING_PATHS.md": ("Docente de contenido desarrollado de 1° a 7° básico", "Coordinación pedagógica o UTP"),
+        "ROADMAP.md": ("5.619 clases desarrolladas", "Completo: 952 desarrolladas + 422 integradas", "Completo: 760 desarrolladas + 515 integradas", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),

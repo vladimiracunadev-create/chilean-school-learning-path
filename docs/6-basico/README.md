@@ -77,6 +77,6 @@ El apoyo cambia representación, vocabulario, agrupamiento o cantidad de pasos s
 ## 🔗 Documentos relacionados
 
 - [Mapa técnico de 6° básico](../SEXTO_BASICO.md)
-- [Syllabus de 1° a 6° básico](../SYLLABUS.md)
+- [Syllabus de 1° a 7° básico](../SYLLABUS.md)
 - [Rúbrica transversal](../RUBRICA_EVALUACION.md)
 - [Protocolo de revisión humana](../REVISION_HUMANA.md)
