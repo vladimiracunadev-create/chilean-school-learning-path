@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-29 — 4° básico completo
+
+- Desarrollo pedagógico de las diez asignaturas restantes de 4° básico, conservando Matemática: el nivel suma 811 clases disciplinares en 175 OA de contenido.
+- Integración de 93 OA de habilidades y actitudes mediante 384 experiencias situadas dentro del contenido, sin duplicarlas como clases independientes.
+- Guías equivalentes para las once asignaturas, mapa técnico, índice del nivel, vista de GitHub Pages y documentación general actualizados.
+- Estado global actualizado a 2.987 clases desarrolladas y 1.457 experiencias integradas; 1°, 2°, 3° y 4° básico quedan completos con revisión humana pendiente.
+- Pruebas de cobertura, unicidad pedagógica, resguardos culturales, generación y coherencia documental ampliadas para todo el nivel.
+
 ## 2026-09-29 — Matemática de 4° básico completa
 
 - Desarrollo de los 27 OA disciplinares en 118 clases específicas y diferenciadas.

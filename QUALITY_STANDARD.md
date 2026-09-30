@@ -83,9 +83,9 @@ Una clase no cumple el estándar si:
 
 Los validadores revisan estructura, campos, conteos, estados, archivos, anclas y documentos esenciales. También exigen:
 
-- separación verificable entre 2.298 clases desarrolladas, 1.160 experiencias integradas y las propuestas que permanecen sólo secuenciadas;
-- índices completos de 1°, 2° y 3° básico;
-- 33 guías de asignatura, once por cada nivel completo;
+- separación verificable entre 2.987 clases desarrolladas, 1.457 experiencias integradas y las propuestas que permanecen sólo secuenciadas;
+- índices completos de 1°, 2°, 3° y 4° básico;
+- 44 guías de asignatura, once por cada uno de los cuatro niveles completos;
 - paridad documental: ningún índice o guía de un nivel completo puede tener menor profundidad estructural que su equivalente;
 - syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión;
 - portada documental HTML;

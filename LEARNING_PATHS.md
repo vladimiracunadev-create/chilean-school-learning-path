@@ -2,9 +2,9 @@
 
 No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-## Docente de 1°, 2° o 3° básico · preparar y enseñar
+## Docente de 1°, 2°, 3° o 4° básico · preparar y enseñar
 
-1. Abre el mapa de [1°](docs/PRIMERO_BASICO.md), [2°](docs/SEGUNDO_BASICO.md) o [3° básico](docs/TERCERO_BASICO.md).
+1. Abre el mapa de [1°](docs/PRIMERO_BASICO.md), [2°](docs/SEGUNDO_BASICO.md), [3°](docs/TERCERO_BASICO.md) o [4° básico](docs/CUARTO_BASICO.md).
 2. Elige asignatura y OA desde el portal.
 3. Revisa la clase anterior y siguiente para entender la progresión.
 4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.
@@ -12,15 +12,15 @@ No todas las personas necesitan recorrer el repositorio del mismo modo. Estas ru
 
 **Resultado:** una clase contextualizada que conserva el OA y termina con evidencia útil.
 
-## Docente de Matemática de 4° básico · preparar y enseñar
+## Docente de 4° básico · profundizar por asignatura
 
-1. Abre la [guía completa de Matemática de 4°](docs/4-basico/matematica.md).
+1. Abre el [índice completo de 4°](docs/4-basico/README.md) y elige una de sus once guías.
 2. Revisa continuidad con 3°, eje, OA y secuencia completa.
-3. Prepara la representación concreta, pictórica o simbólica y una vía de comprobación.
-4. Integra habilidades y actitudes durante la resolución, sin tratarlas como clases separadas.
-5. Usa evidencia individual para avanzar, apoyar o reenseñar con otro caso.
+3. Prepara el ancla, los materiales, la evidencia y los resguardos propios de la disciplina.
+4. Integra habilidades y actitudes durante el desempeño, sin tratarlas como clases separadas.
+5. Usa evidencia individual para avanzar, apoyar o reenseñar con otro caso, texto, fuente, modelo, material o situación.
 
-**Resultado:** una clase matemática específica que conserva la demanda, hace visible el razonamiento y no confunde rapidez con dominio.
+**Resultado:** una clase específica que conserva la demanda del OA y aplica el método propio de su asignatura.
 
 ## Coordinación pedagógica o UTP · revisar cobertura
 

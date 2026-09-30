@@ -1,4 +1,4 @@
-# de Habilidad CN04 OAH e — Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…
+# de Habilidad CN04 OAH e — Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 4° básico | Ciencias Naturales | Analizar la evidencia y comunicar | formacion-general-comun | 4 clases de 90 min |
@@ -22,73 +22,189 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-03384}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…» y demostrarlo mediante explicación o indagación con evidencia.
+### Clase 1 de 4: Conectar y diagnosticar: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 1 {#cl-03384}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas» dentro de una indagación, modelo o explicación científica, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas mientras resuelvo una tarea auténtica de Ciencias Naturales.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante una indagación, modelo o explicación científica: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «conectar y diagnosticar: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 1». |
+| Modelado | 20 min | Modela recuperar ideas previas y detectar barreras y verbaliza qué decisión hace observable «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante una indagación, modelo o explicación científica, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de una indagación, modelo o explicación científica y explica qué acción propia demuestra «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». |
+| Cierre | 10 min | En la situación 1, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
 
-### Clase 2 de 4: Comprender y modelar {#cl-03385}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…» y demostrarlo mediante explicación o indagación con evidencia.
+**Evidencia:** Desempeño individual en una indagación, modelo o explicación científica con acción y explicación vinculadas a «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas».
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-03386}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…» y demostrarlo mediante explicación o indagación con evidencia.
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 4: Comprender y modelar: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 2 {#cl-03385}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-03387}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…» y demostrarlo mediante explicación o indagación con evidencia.
+**Propósito docente:** Integrar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas» dentro de una indagación, modelo o explicación científica, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas mientras resuelvo una tarea auténtica de Ciencias Naturales.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante una indagación, modelo o explicación científica: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «comprender y modelar: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 2». |
+| Modelado | 20 min | Modela explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto y verbaliza qué decisión hace observable «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante una indagación, modelo o explicación científica, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de una indagación, modelo o explicación científica y explica qué acción propia demuestra «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». |
+| Cierre | 10 min | En la situación 2, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en una indagación, modelo o explicación científica con acción y explicación vinculadas a «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
+
+### Clase 3 de 4: Aplicar con autonomía: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 3 {#cl-03386}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas» dentro de una indagación, modelo o explicación científica, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas mientras resuelvo una tarea auténtica de Ciencias Naturales.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante una indagación, modelo o explicación científica: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «aplicar con autonomía: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 3». |
+| Modelado | 20 min | Modela resolver una situación nueva y justificar decisiones y verbaliza qué decisión hace observable «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante una indagación, modelo o explicación científica, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de una indagación, modelo o explicación científica y explica qué acción propia demuestra «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». |
+| Cierre | 10 min | En la situación 3, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
+
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
+
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en una indagación, modelo o explicación científica con acción y explicación vinculadas a «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
+
+### Clase 4 de 4: Demostrar y retroalimentar: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 4 {#cl-03387}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas» dentro de una indagación, modelo o explicación científica, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas mientras resuelvo una tarea auténtica de Ciencias Naturales.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante una indagación, modelo o explicación científica: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «demostrar y retroalimentar: comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas · situación 4». |
+| Modelado | 20 min | Modela producir evidencia final y decidir el paso siguiente y verbaliza qué decisión hace observable «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante una indagación, modelo o explicación científica, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de una indagación, modelo o explicación científica y explica qué acción propia demuestra «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas». |
+| Cierre | 10 min | En la situación 4, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
+
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
+
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en una indagación, modelo o explicación científica con acción y explicación vinculadas a «comparar sus predicciones con la pregunta inicial utilizando sus observaciones como evidencia para apoyar ideas».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

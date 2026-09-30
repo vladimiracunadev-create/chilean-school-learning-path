@@ -2,11 +2,11 @@
 
 # 📚 Centro de documentación
 
-## **1°, 2° y 3° básico con desarrollo interno completo**
+## **1°, 2°, 3° y 4° básico con desarrollo interno completo**
 
-**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379**
+**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -36,7 +36,7 @@ Aquí puedes responder:
 | Recorrer 1° básico | [Índice maestro](1-basico/README.md) | narrativa del nivel, 11 asignaturas, progresión y uso |
 | Recorrer 2° básico | [Índice maestro](2-basico/README.md) | 247 OA, 11 asignaturas completas y acceso a cada guía |
 | Recorrer 3° básico | [Índice maestro](3-basico/README.md) | 257 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
-| Preparar Matemática de 4° | [Guía completa](4-basico/matematica.md) | 27 OA de contenido, progresión, 118 clases y 87 integraciones |
+| Recorrer 4° básico | [Índice maestro](4-basico/README.md) | 268 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -55,21 +55,21 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las 33 guías —once por cada nivel completo— se generan desde la misma fuente que el catálogo y el portal.
+Las 44 guías —once por cada uno de los cuatro niveles completos— se generan desde la misma fuente que el catálogo y el portal.
 
-| Asignatura | 1° básico | 2° básico | 3° básico |
-|---|---|---|---|
-| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) | [Leer](3-basico/artes-visuales.md) |
-| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) | [Leer](3-basico/ciencias-naturales.md) |
-| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) | [Leer](3-basico/educacion-fisica-salud.md) |
-| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) | [Leer](3-basico/historia-geografia-ciencias-sociales.md) |
-| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) | [Leer](3-basico/ingles-propuesta.md) |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](3-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
-| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) | [Leer](3-basico/lenguaje-comunicacion.md) |
-| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) | [Leer](3-basico/matematica.md) |
-| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) | [Leer](3-basico/musica.md) |
-| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) | [Leer](3-basico/orientacion.md) |
-| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) | [Leer](3-basico/tecnologia.md) |
+| Asignatura | 1° básico | 2° básico | 3° básico | 4° básico |
+|---|---|---|---|---|
+| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) | [Leer](3-basico/artes-visuales.md) | [Leer](4-basico/artes-visuales.md) |
+| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) | [Leer](3-basico/ciencias-naturales.md) | [Leer](4-basico/ciencias-naturales.md) |
+| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) | [Leer](3-basico/educacion-fisica-salud.md) | [Leer](4-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) | [Leer](3-basico/historia-geografia-ciencias-sociales.md) | [Leer](4-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) | [Leer](3-basico/ingles-propuesta.md) | [Leer](4-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](3-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](4-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) | [Leer](3-basico/lenguaje-comunicacion.md) | [Leer](4-basico/lenguaje-comunicacion.md) |
+| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) | [Leer](3-basico/matematica.md) | [Leer](4-basico/matematica.md) |
+| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) | [Leer](3-basico/musica.md) | [Leer](4-basico/musica.md) |
+| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) | [Leer](3-basico/orientacion.md) | [Leer](4-basico/orientacion.md) |
+| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) | [Leer](3-basico/tecnologia.md) | [Leer](4-basico/tecnologia.md) |
 
 ## 🧠 Flujo de uso
 
@@ -92,13 +92,13 @@ flowchart TD
 |---|---:|---|
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
-| Borradores | 0 en 1°, 2° y 3° | los niveles completos no conservan plantillas pendientes |
-| Desarrolladas | 2.298 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 1.160 | habilidades o actitudes incorporadas en clases de contenido |
+| Borradores | 0 en 1°, 2°, 3° y 4° | los niveles completos no conservan plantillas pendientes |
+| Desarrolladas | 2.987 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 1.457 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379. Los tres niveles tienen once asignaturas completas y cero propuestas pendientes. Matemática de 4° suma 118 clases y 87 integraciones, también sin pendientes en la asignatura. Las otras 11 clases desarrolladas son pilotos de Ciencias de 4° y Lengua y Literatura de 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384. Los cuatro niveles tienen once asignaturas completas y cero propuestas pendientes. Las otras 7 clases desarrolladas corresponden al piloto de Lengua y Literatura de 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -122,7 +122,9 @@ README.md
 ├── docs/TERCERO_BASICO.md         ← mapa técnico de 3° básico
 ├── docs/3-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
-├── docs/4-basico/matematica.md    ← Matemática de 4° completa
+├── docs/CUARTO_BASICO.md          ← mapa técnico de 4° básico
+├── docs/4-basico/README.md        ← índice maestro del nivel
+│   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica
 ├── docs/RUBRICA_EVALUACION.md     ← evidencia y decisión
 ├── docs/FAQ.md                    ← dudas y límites

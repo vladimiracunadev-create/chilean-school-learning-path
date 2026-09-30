@@ -9,7 +9,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 1° básico | 237 | 1.034 | Desarrollo interno completo · 691 desarrolladas · 343 integradas · 0 borradores · revisión humana pendiente |
 | 2° básico | 247 | 1.072 | Desarrollo interno completo · 721 desarrolladas · 351 integradas · 0 pendientes · revisión humana pendiente |
 | 3° básico | 257 | 1.136 | Desarrollo interno completo · 757 desarrolladas · 379 integradas · 0 pendientes · revisión humana pendiente |
-| 4° básico | 268 | 1.195 | En desarrollo · Matemática completa: 118 desarrolladas + 87 integradas · 4 clases piloto de Ciencias |
+| 4° básico | 268 | 1.195 | Desarrollo interno completo · 811 desarrolladas · 384 integradas · 0 pendientes · revisión humana pendiente |
 | 5° básico | 295 | 1.340 | Secuenciado |
 | 6° básico | 301 | 1.374 | Secuenciado |
 | 7° básico | 275 | 1.275 | Secuenciado |
@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **2.298 clases desarrolladas**, **1.160 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2° y 3° básico ni en Matemática de 4°** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **2.987 clases desarrolladas**, **1.457 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2°, 3° y 4° básico** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -71,7 +71,10 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **2.298 clases desarrolladas*
 ### Fase 4 · 4° básico
 
 - [x] Completar Matemática: 118 clases en 27 OA de contenido y 87 experiencias integradas de 20 OA transversales.
-- [ ] Completar las otras diez asignaturas del nivel.
+- [x] Completar las otras diez asignaturas: 693 clases disciplinares y 297 experiencias integradas.
+- [x] Publicar mapa, vista Pages, índice y once guías con paridad documental respecto de los niveles anteriores.
+- [x] Verificar cobertura, unicidad pedagógica, seguridad, privacidad, pertinencia cultural y trazabilidad.
+- [ ] Ejecutar revisión humana y registrar evidencia.
 
 ### Fases siguientes
 - [ ] Completar 5° y 6° básico.

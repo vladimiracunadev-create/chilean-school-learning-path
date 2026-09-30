@@ -7,9 +7,9 @@ Fecha: 2026-09-29
 - 12.997 clases con código único y ancla web estable.
 - 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
-- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 118 de Matemática de 4° y 11 pilotos: 2.298 desarrolladas en total; 1.160 experiencias transversales integradas y 0 revisiones humanas registradas.
-- 1°, 2° y 3° básico completos en sus once asignaturas, con 0 borradores o propuestas sólo secuenciadas dentro de esos niveles.
-- Matemática de 4° básico completa: 27 OA disciplinares, 118 clases y 20 OA transversales integrados mediante 87 experiencias.
+- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4° y 7 del piloto de 8°: 2.987 desarrolladas en total; 1.457 experiencias transversales integradas y 0 revisiones humanas registradas.
+- 1°, 2°, 3° y 4° básico completos en sus once asignaturas, con 0 borradores o propuestas sólo secuenciadas dentro de esos niveles.
+- 4° básico completo: 175 OA disciplinares, 811 clases y 93 OA transversales integrados mediante 384 experiencias.
 - 0 clases declaradas como revisadas sin evidencia humana.
 - Contrato editorial estructurado con propósito, meta, cinco momentos, materiales, apoyos, profundización, evidencia, criterios, decisión y versión de 45 minutos.
 - Búsqueda, filtros, URL compartible, carga progresiva, tema y estados vacío/error.

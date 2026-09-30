@@ -51,9 +51,9 @@ Para 1° básico, la redacción prioriza experiencias concretas, consignas clara
 | Revisada | Registra control humano disciplinar, pedagógico, documental, accesible y de derechos. |
 | Publicada | Cuenta con salida Markdown y HTML navegable. |
 
-Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. En 3° básico, 165 OA de contenido producen 757 clases y 92 OA transversales se materializan en 379 experiencias. Los tres niveles tienen desarrollo interno completo y revisión humana pendiente.
+Estos estados no son equivalentes. En particular, una página publicada puede seguir pendiente de revisión humana. En 1° básico, 153 OA de contenido producen 691 clases y 84 OA transversales se documentan como 343 experiencias integradas. En 2° básico, 161 OA de contenido producen 721 clases y 86 OA transversales se materializan en 351 experiencias. En 3° básico, 165 OA de contenido producen 757 clases y 92 OA transversales se materializan en 379 experiencias. En 4° básico, 175 OA de contenido producen 811 clases y 93 OA transversales se materializan en 384 experiencias. Los cuatro niveles tienen desarrollo interno completo y revisión humana pendiente.
 
-En Matemática de 4° básico, 27 OA de contenido producen 118 clases y 20 OA de habilidades y actitudes se materializan en 87 experiencias integradas. La asignatura está completa, pero el nivel todavía no lo está.
+En 4° básico, cada asignatura conserva un protocolo disciplinar propio: representación y comprobación matemática; lectura, escritura y oralidad con evidencia; indagación científica; análisis de fuentes históricas; creación artística y musical; desempeño motriz seguro; casos protegidos en Orientación; diseño tecnológico; comunicación en inglés y pertinencia comunitaria en lengua y cultura originaria.
 
 ## 5. Generación reproducible
 
@@ -62,8 +62,8 @@ En Matemática de 4° básico, 27 OA de contenido producen 118 clases y 20 OA de
 - el catálogo JSON;
 - las fichas Markdown por OA;
 - las páginas HTML por OA;
-- las vistas de 1°, 2° y 3° básico;
-- la documentación generada de los tres niveles completos;
+- las vistas de 1°, 2°, 3° y 4° básico;
+- la documentación generada de los cuatro niveles completos;
 - la malla y el sitemap.
 
 La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.

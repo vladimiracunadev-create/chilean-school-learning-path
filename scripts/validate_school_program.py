@@ -20,6 +20,7 @@ try:
     from grade_three_arts_pe_english_indigenous_lessons import AR as GRADE_THREE_ART_SEQUENCES, ATTITUDES as GRADE_THREE_APEI_ATTITUDES, EF as GRADE_THREE_PE_SEQUENCES, EN as GRADE_THREE_ENGLISH_SEQUENCES, LC as GRADE_THREE_INDIGENOUS_SEQUENCES, build_sequence as build_grade_three_apei_sequence
     from grade_three_music_orientation_technology_lessons import ATTITUDES as GRADE_THREE_MOT_ATTITUDES, MU as GRADE_THREE_MUSIC_SEQUENCES, OR as GRADE_THREE_ORIENTATION_SEQUENCES, TE as GRADE_THREE_TECHNOLOGY_SEQUENCES, build_sequence as build_grade_three_mot_sequence
     from grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
+    from grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
@@ -34,6 +35,7 @@ except ImportError:
     from scripts.grade_three_arts_pe_english_indigenous_lessons import AR as GRADE_THREE_ART_SEQUENCES, ATTITUDES as GRADE_THREE_APEI_ATTITUDES, EF as GRADE_THREE_PE_SEQUENCES, EN as GRADE_THREE_ENGLISH_SEQUENCES, LC as GRADE_THREE_INDIGENOUS_SEQUENCES, build_sequence as build_grade_three_apei_sequence
     from scripts.grade_three_music_orientation_technology_lessons import ATTITUDES as GRADE_THREE_MOT_ATTITUDES, MU as GRADE_THREE_MUSIC_SEQUENCES, OR as GRADE_THREE_ORIENTATION_SEQUENCES, TE as GRADE_THREE_TECHNOLOGY_SEQUENCES, build_sequence as build_grade_three_mot_sequence
     from scripts.grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
+    from scripts.grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -87,6 +89,7 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed.update({code: build_grade_three_apei_sequence(code) for code in GRADE_THREE_ART_SEQUENCES | GRADE_THREE_PE_SEQUENCES | GRADE_THREE_ENGLISH_SEQUENCES | GRADE_THREE_INDIGENOUS_SEQUENCES})
     all_developed.update({code: build_grade_three_mot_sequence(code) for code in GRADE_THREE_MUSIC_SEQUENCES | GRADE_THREE_ORIENTATION_SEQUENCES | GRADE_THREE_TECHNOLOGY_SEQUENCES})
     all_developed.update({code: build_grade_four_math_sequence(code) for code in GRADE_FOUR_MATH_SEQUENCES})
+    all_developed.update({code: build_grade_four_remaining_sequence(code) for code in GRADE_FOUR_REMAINING_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -366,6 +369,23 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("Matemática de 4° básico debe integrar 87 experiencias de 20 OA transversales")
     if any(item.get("editorial_status") == "secuenciada" for item in fourth_math):
         errors.append("Matemática de 4° básico no debe conservar propuestas sólo secuenciadas")
+    fourth_grade = [item for item in classes if item.get("course_order") == 4]
+    expected_fourth_subjects = {
+        "artes-visuales": (25, 5, 28, 7), "ciencias-naturales": (71, 17, 49, 12),
+        "educacion-fisica-salud": (49, 11, 32, 8), "historia-geografia-ciencias-sociales": (82, 18, 77, 19),
+        "ingles-propuesta": (69, 14, 16, 4), "lengua-cultura-pueblos-originarios-ancestrales": (126, 29, 18, 4),
+        "lenguaje-comunicacion": (161, 30, 29, 7), "matematica": (118, 27, 87, 20),
+        "musica": (35, 8, 28, 7), "orientacion": (40, 9, 0, 0), "tecnologia": (35, 7, 20, 5),
+    }
+    for slug, expected_counts in expected_fourth_subjects.items():
+        rows = [item for item in fourth_grade if item.get("subject_slug") == slug]
+        core = [item for item in rows if item.get("editorial_status") == "desarrollada"]
+        integrated = [item for item in rows if item.get("editorial_status") == "integrada"]
+        actual = (len(core), len({item.get("oa_code") for item in core}), len(integrated), len({item.get("oa_code") for item in integrated}))
+        if actual != expected_counts:
+            errors.append(f"Cobertura desarrollada o transversal incompleta en 4° básico: {slug}")
+    if any(item.get("editorial_status") in {"secuenciada", "borrador"} for item in fourth_grade):
+        errors.append("4° básico no debe conservar propuestas pendientes")
 
     markdown_cache: dict[str, str] = {}
     html_cache: dict[str, str] = {}
@@ -414,7 +434,7 @@ def validate(root: Path = ROOT) -> list[str]:
     pages = list((root / "site/classes").rglob("*.html"))
     if len(pages) != objective_count:
         errors.append(f"Páginas de OA: {len(pages)}, esperadas: {objective_count}")
-    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html"):
+    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
     documentation_pages = list((root / "site/docs").rglob("*.html"))
@@ -422,8 +442,8 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append(f"Documentación HTML incompleta: {len(documentation_pages)} páginas, esperadas al menos 38")
     sitemap_path = root / "site/sitemap.xml"
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
-    if sitemap.count("<url>") != objective_count + len(documentation_pages) + 5:
-        errors.append("El sitemap no enumera portada, documentación, vistas de 1°, 2° y 3° básico, documentos HTML y páginas de OA")
+    if sitemap.count("<url>") != objective_count + len(documentation_pages) + 6:
+        errors.append("El sitemap no enumera portada, documentación, vistas de 1° a 4° básico, documentos HTML y páginas de OA")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "691", "343", "Contrato pedagógico"):
@@ -439,26 +459,33 @@ def validate(root: Path = ROOT) -> list[str]:
     for token in ("1.136", "257", "11", "757", "379", "0 propuestas pendientes", "Completo no significa revisado"):
         if token not in third_level_html:
             errors.append(f"Vista de 3° básico incompleta: falta {token}")
+    fourth_level_page = root / "site/levels/4-basico.html"
+    fourth_level_html = fourth_level_page.read_text(encoding="utf-8") if fourth_level_page.is_file() else ""
+    for token in ("1.195", "268", "11", "811", "384", "0 propuestas pendientes", "Completo no significa revisado"):
+        if token not in fourth_level_html:
+            errors.append(f"Vista de 4° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "33 guías de asignatura", "11 guías por cada nivel completo", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
+    for token in ("Documentación pedagógica", "44 guías de asignatura", "11 guías por cada uno de los cuatro niveles completos", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
-    if documentation_html.count("Leer guía de 1° completa") != 11 or documentation_html.count("Leer guía de 2° completa") != 11 or documentation_html.count("Leer guía de 3° completa") != 11:
-        errors.append("La portada documental no presenta las 11 guías de los tres niveles con igual visibilidad")
+    if any(documentation_html.count(f"Leer guía de {level} completa") != 11 for level in ("1°", "2°", "3°", "4°")):
+        errors.append("La portada documental no presenta las 11 guías de los cuatro niveles con igual visibilidad")
     required_docs = {
-        "README.md": ("12.997", "2.823", "691 clases disciplinares", "721 clases disciplinares", "757 clases disciplinares", "118 clases disciplinares", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "README.md": ("12.997", "2.823", "691 clases disciplinares", "721 clases disciplinares", "757 clases disciplinares", "811 clases disciplinares", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
         "docs/TERCERO_BASICO.md": ("1.136", "Decisiones con evidencia", "Continuidad"),
+        "docs/CUARTO_BASICO.md": ("1.195", "Contrato de calidad", "Continuidad"),
         "docs/1-basico/README.md": ("Las 11 asignaturas", "Progresión pedagógica común"),
         "docs/2-basico/README.md": ("Las 11 asignaturas", "721 clases desarrolladas", "351 experiencias integradas", "Progresión pedagógica común", "Anatomía de una clase"),
         "docs/2-basico/matematica.md": ("93 clases desarrolladas", "64 experiencias integradas", "Continuidad con 1° básico"),
         "docs/3-basico/README.md": ("Las 11 asignaturas", "757 clases desarrolladas", "379 experiencias integradas", "Progresión pedagógica común", "Anatomía de una clase"),
         "docs/3-basico/matematica.md": ("112 clases desarrolladas", "87 experiencias integradas", "Continuidad con 2° básico"),
+        "docs/4-basico/README.md": ("Las 11 asignaturas", "811 clases desarrolladas", "384 experiencias integradas", "Progresión pedagógica común", "Anatomía y diferenciación"),
         "docs/4-basico/matematica.md": ("118 clases desarrolladas", "87 experiencias integradas", "Continuidad con 3° básico", "Recorrido OA por OA"),
-        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1°, 2° y 3° básico", "Planificación de principio a fin"),
+        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1°, 2°, 3° y 4° básico", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
@@ -472,10 +499,10 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
-        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1°, 2° y 3° básico"),
+        "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para 1°, 2°, 3° y 4° básico"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
-        "LEARNING_PATHS.md": ("Docente de 1°, 2° o 3° básico", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("2.298 clases desarrolladas", "Matemática", "Criterio para declarar un nivel completo"),
+        "LEARNING_PATHS.md": ("Docente de 1°, 2°, 3° o 4° básico", "Coordinación pedagógica o UTP"),
+        "ROADMAP.md": ("2.987 clases desarrolladas", "4° básico", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),
@@ -531,6 +558,20 @@ def validate(root: Path = ROOT) -> list[str]:
                 errors.append(f"Guía de 3° {subject_slug} incompleta: falta {token}")
         if third_guide.count("\n## ") < first_guide.count("\n## "):
             errors.append(f"Guía de 3° {subject_slug} tiene menor profundidad documental que su equivalente de 1°")
+    fourth_subject_guides = {path.stem for path in (root / "docs/4-basico").glob("*.md") if path.name != "README.md"}
+    if fourth_subject_guides != expected_subject_guides:
+        errors.append(f"Guías de asignatura de 4° básico incompletas: actuales={len(fourth_subject_guides)}, esperadas={len(expected_subject_guides)}")
+    fourth_index = (root / "docs/4-basico/README.md").read_text(encoding="utf-8")
+    if fourth_index.count("\n## ") < first_index.count("\n## "):
+        errors.append("El índice de 4° básico tiene menor profundidad documental que el de 1° básico")
+    for subject_slug in sorted(expected_subject_guides):
+        first_guide = (root / "docs/1-basico" / f"{subject_slug}.md").read_text(encoding="utf-8")
+        fourth_guide = (root / "docs/4-basico" / f"{subject_slug}.md").read_text(encoding="utf-8")
+        for token in ("Continuidad con 3° básico", "Resultados de aprendizaje", "Prerrequisitos", "Cómo recorrer", "Anatomía estable", "Estructura por ejes", "Recorrido OA por OA", "Qué observar", "Preparación y materiales", "Error frecuente", "Acceso y profundización"):
+            if token not in fourth_guide:
+                errors.append(f"Guía de 4° {subject_slug} incompleta: falta {token}")
+        if fourth_guide.count("\n## ") < first_guide.count("\n## "):
+            errors.append(f"Guía de 4° {subject_slug} tiene menor profundidad documental que su equivalente de 1°")
     documentation_files = list(root.glob("*.md")) + list((root / "docs").rglob("*.md"))
     for document_path in documentation_files:
         document = document_path.read_text(encoding="utf-8")

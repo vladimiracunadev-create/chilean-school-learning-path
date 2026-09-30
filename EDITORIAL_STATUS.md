@@ -6,13 +6,13 @@ Fecha de corte: **2026-09-29**. Los conteos provienen de `curriculum/catalog.jso
 |---|---:|---|
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
-| Borrador | 0 | no quedan borradores en 1°, 2° ni 3° básico |
-| Desarrollada | 2.298 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 1.160 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Borrador | 0 | no quedan borradores en 1°, 2°, 3° ni 4° básico |
+| Desarrollada | 2.987 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 1.457 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2° y 3° básico tienen desarrollo interno completo**: 691, 721 y 757 clases desarrolladas, junto con 343, 351 y 379 experiencias integradas. Cada nivel cubre sus once asignaturas sin propuestas pendientes. **Matemática de 4° básico también está completa** con 118 clases y 87 experiencias integradas. Se mantienen además 11 clases piloto en Ciencias de 4° y Lengua y Literatura de 8°.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2°, 3° y 4° básico tienen desarrollo interno completo**: 691, 721, 757 y 811 clases desarrolladas, junto con 343, 351, 379 y 384 experiencias integradas. Cada nivel cubre sus once asignaturas sin propuestas pendientes. Se mantienen además 7 clases piloto en Lengua y Literatura de 8°.
 
 ## Reconstrucción de 1° básico
 
@@ -77,22 +77,29 @@ Las 1.136 entradas del nivel están resueltas. Las guías explicitan continuidad
 
 [Ver mapa de 3° básico](docs/3-basico/README.md) · [Abrir sus once guías](docs/3-basico/README.md#las-11-asignaturas)
 
-## Matemática de 4° básico
+## Reconstrucción de 4° básico
 
-| Cobertura | Cantidad | Estado |
-|---|---:|---|
-| OA de contenido | 27 | 118 clases desarrolladas |
-| OA de habilidades y actitudes | 20 | 87 experiencias integradas |
-| Propuestas pendientes de Matemática | 0 | asignatura completa |
-| Revisión humana | 0 | pendiente |
+| Asignatura | Clases desarrolladas | Experiencias integradas |
+|---|---:|---:|
+| Artes Visuales | 25 | 28 |
+| Ciencias Naturales | 71 | 49 |
+| Educación Física y Salud | 49 | 32 |
+| Historia, Geografía y Ciencias Sociales | 82 | 77 |
+| Inglés (Propuesta) | 69 | 16 |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | 126 | 18 |
+| Lenguaje y Comunicación | 161 | 29 |
+| Matemática | 118 | 87 |
+| Música | 35 | 28 |
+| Orientación | 40 | 0 |
+| Tecnología | 35 | 20 |
+| **Total desarrollado en 4° básico** | **811** | **384** |
 
-El recorrido diferencia número y operaciones, patrones y álgebra, geometría, medición, datos y probabilidades. Cada clase incluye representación, razonamiento, comprobación, error previsible, apoyo y profundización específicos.
+Las 1.195 entradas del nivel están resueltas. Las guías explicitan continuidad con 3°, método disciplinar, evidencia observable y resguardos de seguridad, privacidad, cultura y autoría.
 
-[Abrir guía de Matemática de 4° básico](docs/4-basico/matematica.md)
+[Ver mapa de 4° básico](docs/4-basico/README.md) · [Abrir sus once guías](docs/4-basico/README.md#las-11-asignaturas)
 
-## Pilotos conservados en otros niveles
+## Piloto conservado en otro nivel
 
-- Ciencias Naturales 4° básico · CN04 OA 01 · 4 clases.
 - Lengua y Literatura 8° básico · LE08 OA 09 · 7 clases.
 
 ## Cobertura publicada
