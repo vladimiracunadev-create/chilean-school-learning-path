@@ -4,9 +4,9 @@
 
 ## **1° a 7° básico con desarrollo interno completo**
 
-**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 232 + 115 en dos asignaturas**
+**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 482 + 365 en seis asignaturas**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🧠 Matemática y Lengua de 8°](8-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🧠 Seis asignaturas de 8°](8-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -40,7 +40,7 @@ Aquí puedes responder:
 | Recorrer 5° básico completo | [Índice del nivel](5-basico/README.md) | Doce denominaciones curriculares con continuidad desde 4° |
 | Enseñar 6° básico | [Índice completo](6-basico/README.md) | 301 OA, 952 clases y 422 experiencias integradas |
 | Enseñar en 7° básico | [Índice completo del nivel](7-basico/README.md) | 760 clases disciplinares, 515 experiencias integradas y límites del desarrollo |
-| Enseñar Matemática o Lengua en 8° | [Índice del nivel en desarrollo](8-basico/README.md) | 232 clases, 115 experiencias integradas y separación explícita de las asignaturas pendientes |
+| Enseñar en las seis asignaturas desarrolladas de 8° | [Índice del nivel en desarrollo](8-basico/README.md) | 482 clases, 365 experiencias integradas y separación explícita de las asignaturas pendientes |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -60,7 +60,7 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las 82 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6°, doce de 7° y dos de 8°— se generan desde la misma fuente que el catálogo y el portal.
+Las 86 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6°, doce de 7° y seis de 8°— se generan desde la misma fuente que el catálogo y el portal.
 
 **5° básico completo:** [índice y doce guías de asignatura](5-basico/README.md), con mapa técnico en [QUINTO_BASICO.md](QUINTO_BASICO.md).
 
@@ -68,7 +68,7 @@ Las 82 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6°, doce de 
 
 **7° básico completo:** [índice de doce denominaciones](7-basico/README.md), con continuidad, recorrido OA por OA, evaluación, apoyos, profundización y resguardos disciplinares.
 
-**8° básico en desarrollo:** [índice de Matemática y Lengua y Literatura](8-basico/README.md), con 232 clases desarrolladas, 115 experiencias integradas y 854 propuestas pendientes en las demás asignaturas.
+**8° básico en desarrollo:** [índice de seis asignaturas desarrolladas](8-basico/README.md), con 482 clases desarrolladas, 365 experiencias integradas y 354 propuestas pendientes en las demás asignaturas.
 
 | Asignatura | 1° | 2° | 3° | 4° | 5° | 6° |
 |---|---|---|---|---|---|---|
@@ -107,12 +107,12 @@ flowchart TD
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
 | Borradores | 0 | las propuestas pendientes permanecen secuenciadas, no como plantillas que aparenten desarrollo |
-| Desarrolladas | 5.844 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 2.929 | habilidades o actitudes incorporadas en clases de contenido |
+| Desarrolladas | 6.094 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 3.179 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515. Matemática y Lengua y Literatura de 8° suman 232 desarrolladas y 115 integradas. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515. Las seis asignaturas desarrolladas de 8° suman 482 desarrolladas y 365 integradas. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 

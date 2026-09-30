@@ -4,7 +4,7 @@
 
 > [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🧠 8° básico en desarrollo](8-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 232 + 115 en dos asignaturas**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 482 + 365 en seis asignaturas**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -26,7 +26,7 @@ En 6° básico, 209 OA de contenido se despliegan en 952 clases y 92 OA transver
 
 En 7° básico están desarrolladas las doce denominaciones: 153 objetivos de contenido se despliegan en 760 clases y 122 objetivos transversales en 515 experiencias integradas. No quedan propuestas secuenciadas ni borradores en el nivel.
 
-En 8° básico están desarrolladas Matemática y Lengua y Literatura: 43 objetivos de contenido se despliegan en 232 clases y 27 objetivos transversales en 115 experiencias integradas. Las otras asignaturas conservan 854 propuestas pendientes, por lo que el nivel no se declara completo.
+En 8° básico están desarrolladas Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Artes Visuales y Música: 93 objetivos de contenido se despliegan en 482 clases y 85 objetivos transversales en 365 experiencias integradas. Las otras asignaturas conservan 354 propuestas pendientes, por lo que el nivel no se declara completo.
 
 El programa busca que la planificación sea:
 
@@ -38,7 +38,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1° a 7° básico y de Matemática o Lengua y Literatura de 8° que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° a 7° básico y de las seis asignaturas desarrolladas de 8° que necesitan preparar, adaptar o contrastar una secuencia.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.

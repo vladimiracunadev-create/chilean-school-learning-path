@@ -13,13 +13,13 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 5° básico | 295 | 1.340 | Desarrollo interno completo · 920 desarrolladas · 420 integradas · 0 pendientes · revisión humana pendiente |
 | 6° básico | 301 | 1.374 | Completo: 952 desarrolladas + 422 integradas |
 | 7° básico | 275 | 1.275 | Completo: 760 desarrolladas + 515 integradas · 0 pendientes |
-| 8° básico | 253 | 1.201 | En desarrollo: 232 desarrolladas + 115 integradas · 854 pendientes |
+| 8° básico | 253 | 1.201 | En desarrollo: 482 desarrolladas + 365 integradas · 354 pendientes |
 | 1° medio | 253 | 1.209 | Secuenciado |
 | 2° medio | 248 | 1.200 | Secuenciado |
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **5.844 clases desarrolladas**, **2.929 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 7° básico**, **854 pendientes en 8° básico**, y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **6.094 clases desarrolladas**, **3.179 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 7° básico**, **354 pendientes en 8° básico**, y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -95,6 +95,10 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **5.844 clases desarrolladas*
 - [x] Completar Inglés (Propuesta), Lengua indígena, Música, Orientación y Tecnología de 7° básico: 211 clases en 44 objetivos de contenido y 138 experiencias integradas de 34 objetivos transversales.
 - [x] Completar Matemática de 8° básico: 77 clases en 17 OA de contenido y 82 experiencias integradas de 19 OA transversales.
 - [x] Completar Lengua y Literatura de 8° básico: 155 clases en 26 OA de contenido y 33 experiencias integradas de 8 OA transversales.
+- [x] Completar Ciencias Naturales de 8° básico: 74 clases en 15 OA de contenido y 89 experiencias integradas de 21 OA transversales.
+- [x] Completar Historia, Geografía y Ciencias Sociales de 8° básico: 117 clases en 22 OA de contenido y 91 experiencias integradas de 20 OA transversales.
+- [x] Completar Artes Visuales de 8° básico: 29 clases en 6 OA de contenido y 33 experiencias integradas de 8 OA transversales.
+- [x] Completar Música de 8° básico: 30 clases en 7 OA de contenido y 37 experiencias integradas de 9 OA transversales.
 - [ ] Completar 8° básico.
 - [ ] Completar 1° y 2° medio.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.

@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 8° básico — nivel en desarrollo · **Asignatura activa:** Ciencias Naturales · **Unidad de entrega:** nivel completo
+**Nivel activo:** 8° básico — nivel en desarrollo · **Asignatura activa:** Educación Física y Salud · **Unidad de entrega:** nivel completo
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -106,11 +106,11 @@ flowchart LR
 | 7° básico | 12 | Lengua Indígena | 8 | 41 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 8° básico | 1 | Matemática | 17 | 77 | 19 | Desarrollo interno completo · revisión humana pendiente |
 | 8° básico | 2 | Lengua y Literatura | 26 | 155 | 8 | Desarrollo interno completo · revisión humana pendiente |
-| 8° básico | 3 | Ciencias Naturales | 15 | 74 | 21 | Activa |
-| 8° básico | 4 | Historia, Geografía y Ciencias Sociales | 22 | 117 | 20 | 0/22 OA desarrollados |
-| 8° básico | 5 | Artes Visuales | 6 | 29 | 8 | 0/6 OA desarrollados |
-| 8° básico | 6 | Música | 7 | 30 | 9 | 0/7 OA desarrollados |
-| 8° básico | 7 | Educación Física y Salud | 5 | 26 | 7 | 0/5 OA desarrollados |
+| 8° básico | 3 | Ciencias Naturales | 15 | 74 | 21 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 4 | Historia, Geografía y Ciencias Sociales | 22 | 117 | 20 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 5 | Artes Visuales | 6 | 29 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 6 | Música | 7 | 30 | 9 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 7 | Educación Física y Salud | 5 | 26 | 7 | Activa |
 | 8° básico | 8 | Orientación | 10 | 49 | 0 | 0/10 OA desarrollados |
 | 8° básico | 9 | Tecnología | 6 | 26 | 4 | 0/6 OA desarrollados |
 | 8° básico | 10 | Inglés | 16 | 80 | 5 | 0/16 OA desarrollados |
@@ -1941,79 +1941,79 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `CN08 OA 01` | Biología | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-01) |
-| `CN08 OA 02` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-02) |
-| `CN08 OA 03` | Biología | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-03) |
-| `CN08 OA 04` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-04) |
-| `CN08 OA 05` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-05) |
-| `CN08 OA 06` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-06) |
-| `CN08 OA 07` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-07) |
-| `CN08 OA 08` | Física | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-08) |
-| `CN08 OA 09` | Física | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-09) |
-| `CN08 OA 10` | Física | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-10) |
-| `CN08 OA 11` | Física | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-11) |
-| `CN08 OA 12` | Química | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-12) |
-| `CN08 OA 13` | Química | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-13) |
-| `CN08 OA 14` | Química | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-14) |
-| `CN08 OA 15` | Química | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-15) |
+| `CN08 OA 01` | Biología | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-01) |
+| `CN08 OA 02` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-02) |
+| `CN08 OA 03` | Biología | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-03) |
+| `CN08 OA 04` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-04) |
+| `CN08 OA 05` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-05) |
+| `CN08 OA 06` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-06) |
+| `CN08 OA 07` | Biología | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-07) |
+| `CN08 OA 08` | Física | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-08) |
+| `CN08 OA 09` | Física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-09) |
+| `CN08 OA 10` | Física | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-10) |
+| `CN08 OA 11` | Física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-11) |
+| `CN08 OA 12` | Química | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-12) |
+| `CN08 OA 13` | Química | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-13) |
+| `CN08 OA 14` | Química | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-14) |
+| `CN08 OA 15` | Química | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/8-basico/cn08-oa-15) |
 
-**Integración transversal documentada:** 21 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 74 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 21 ítems de habilidades o actitudes se incorporan en 89 experiencias dentro de las 74 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Historia, Geografía y Ciencias Sociales · 8° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `HI08 OA 01` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-01) |
-| `HI08 OA 02` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-02) |
-| `HI08 OA 03` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-03) |
-| `HI08 OA 04` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-04) |
-| `HI08 OA 05` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-05) |
-| `HI08 OA 06` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-06) |
-| `HI08 OA 07` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-07) |
-| `HI08 OA 08` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-08) |
-| `HI08 OA 09` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-09) |
-| `HI08 OA 10` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-10) |
-| `HI08 OA 11` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-11) |
-| `HI08 OA 12` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-12) |
-| `HI08 OA 13` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-13) |
-| `HI08 OA 14` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-14) |
-| `HI08 OA 15` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-15) |
-| `HI08 OA 16` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-16) |
-| `HI08 OA 20` | Geografía | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-20) |
-| `HI08 OA 21` | Geografía | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-21) |
-| `HI08 OA 22` | Geografía | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-22) |
-| `HI08 OA 17` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-17) |
-| `HI08 OA 18` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-18) |
-| `HI08 OA 19` | Formación ciudadana | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-19) |
+| `HI08 OA 01` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-01) |
+| `HI08 OA 02` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-02) |
+| `HI08 OA 03` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-03) |
+| `HI08 OA 04` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-04) |
+| `HI08 OA 05` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-05) |
+| `HI08 OA 06` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-06) |
+| `HI08 OA 07` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-07) |
+| `HI08 OA 08` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-08) |
+| `HI08 OA 09` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-09) |
+| `HI08 OA 10` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-10) |
+| `HI08 OA 11` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-11) |
+| `HI08 OA 12` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-12) |
+| `HI08 OA 13` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-13) |
+| `HI08 OA 14` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-14) |
+| `HI08 OA 15` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-15) |
+| `HI08 OA 16` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-16) |
+| `HI08 OA 20` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-20) |
+| `HI08 OA 21` | Geografía | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-21) |
+| `HI08 OA 22` | Geografía | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-22) |
+| `HI08 OA 17` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-17) |
+| `HI08 OA 18` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-18) |
+| `HI08 OA 19` | Formación ciudadana | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/8-basico/hi08-oa-19) |
 
-**Integración transversal documentada:** 20 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 117 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 20 ítems de habilidades o actitudes se incorporan en 91 experiencias dentro de las 117 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Artes Visuales · 8° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `AR08 OA 01` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-01) |
-| `AR08 OA 02` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-02) |
-| `AR08 OA 03` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-03) |
-| `AR08 OA 04` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-04) |
-| `AR08 OA 05` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-05) |
-| `AR08 OA 06` | Difundir y comunicar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-06) |
+| `AR08 OA 01` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-01) |
+| `AR08 OA 02` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-02) |
+| `AR08 OA 03` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-03) |
+| `AR08 OA 04` | Apreciar y responder frente al arte | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-04) |
+| `AR08 OA 05` | Apreciar y responder frente al arte | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-05) |
+| `AR08 OA 06` | Difundir y comunicar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/8-basico/ar08-oa-06) |
 
-**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 29 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 33 experiencias dentro de las 29 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Música · 8° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `MU08 OA 01` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-01) |
-| `MU08 OA 02` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-02) |
-| `MU08 OA 03` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-03) |
-| `MU08 OA 04` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-04) |
-| `MU08 OA 05` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-05) |
-| `MU08 OA 06` | Reflexionar y relacionar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-06) |
-| `MU08 OA 07` | Reflexionar y relacionar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-07) |
+| `MU08 OA 01` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-01) |
+| `MU08 OA 02` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-02) |
+| `MU08 OA 03` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-03) |
+| `MU08 OA 04` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-04) |
+| `MU08 OA 05` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-05) |
+| `MU08 OA 06` | Reflexionar y relacionar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-06) |
+| `MU08 OA 07` | Reflexionar y relacionar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/8-basico/mu08-oa-07) |
 
-**Integración transversal documentada:** 9 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 30 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 9 ítems de habilidades o actitudes se incorporan en 37 experiencias dentro de las 30 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Educación Física y Salud · 8° básico
 
@@ -2124,7 +2124,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 7 y nucleo 8 | Las asignaturas de 1° a 7° y Matemática y Lengua y Literatura de 8° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
+| Documental y fuentes | control interno completo niveles 1 a 7 y seis asignaturas 8 | Las asignaturas de 1° a 7° y Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Artes Visuales y Música de 8° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates del desarrollo interno de 1° a 7° básico

@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-30**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores; las propuestas pendientes permanecen secuenciadas |
-| Desarrollada | 5.844 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 2.929 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 6.094 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 3.179 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 7° básico tienen desarrollo interno completo**. En 8°, Matemática y Lengua y Literatura reúnen 232 clases disciplinares y 115 experiencias integradas; las demás asignaturas conservan 854 propuestas secuenciadas.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 7° básico tienen desarrollo interno completo**. En 8°, seis asignaturas reúnen 482 clases disciplinares y 365 experiencias integradas; las demás asignaturas conservan 354 propuestas secuenciadas.
 
 ## Reconstrucción de 1° básico
 
@@ -144,10 +144,14 @@ Las doce denominaciones cumplen el contrato automatizado y cuentan con [índice 
 |---|---:|---:|---:|---:|---:|
 | Matemática | 17 | 77 | 19 | 82 | 0 |
 | Lengua y Literatura | 26 | 155 | 8 | 33 | 0 |
-| Otras asignaturas del nivel | — | 0 | — | 0 | 854 |
-| **Total de 8° básico** | **43** | **232** | **27** | **115** | **854** |
+| Ciencias Naturales | 15 | 74 | 21 | 89 | 0 |
+| Historia, Geografía y Ciencias Sociales | 22 | 117 | 20 | 91 | 0 |
+| Artes Visuales | 6 | 29 | 8 | 33 | 0 |
+| Música | 7 | 30 | 9 | 37 | 0 |
+| Otras asignaturas del nivel | — | 0 | — | 0 | 354 |
+| **Total de 8° básico** | **93** | **482** | **85** | **365** | **354** |
 
-Las dos asignaturas desarrolladas mantienen continuidad explícita con 7°, secuencias OA por OA y el contrato de aula completo. El nivel continúa en desarrollo y no se declara completo.
+Las seis asignaturas desarrolladas mantienen continuidad explícita con 7°, secuencias OA por OA y el contrato de aula completo. El nivel continúa en desarrollo y no se declara completo.
 
 ## Cobertura publicada
 

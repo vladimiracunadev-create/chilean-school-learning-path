@@ -419,6 +419,51 @@ def _history_grade_seven(topic: str, focus: str, seed: int) -> dict:
     return {"resource": resource, "prompt": prompt, "reference": reference}
 
 
+def _science_grade_eight(topic: str, focus: str, seed: int) -> dict:
+    """Return safe, concrete evidence sets for eighth-grade science."""
+    lowered = topic.lower()
+    if any(word in lowered for word in ("difusión", "osmosis", "plantas", "sistemas", "nutrientes", "saludable")):
+        resource = "Caso o experiencia segura con tabla antes/después, diagramas de transporte y sistemas, etiquetas simuladas y fuentes sanitarias sin datos personales."
+        prompt = f"Investiga «{focus.lower()}»: identifica una relación o variable, registra evidencia, explica el mecanismo y formula una recomendación prudente sin diagnosticar."
+        reference = "Separa dato, mecanismo y decisión, conecta partes del sistema, reconoce variación y contexto y evita clasificar cuerpos, alimentos o personas."
+    elif "celular" in lowered or "célula" in lowered:
+        resource = "Modelos de célula procarionte, animal y vegetal; micrografías atribuidas; tarjetas de estructura, función, evidencia histórica y escala."
+        prompt = f"Para «{focus.lower()}», compara dos modelos, relaciona estructura y función, cita una evidencia y declara qué simplifica la representación."
+        reference = "Distingue tipos celulares y escalas, conecta al menos dos estructuras con funciones y presenta el modelo como explicación revisable, no como copia literal."
+    elif any(word in lowered for word in ("eléctric", "circuit", "generación")):
+        resource = "Pilas de bajo voltaje, LED protegidos, cables e interruptores o diagramas de generación; estaciones de electricidad estática sin conexión a la red domiciliaria."
+        prompt = f"Para «{focus.lower()}», representa el sistema, mide o compara dos configuraciones, explica la transformación o interacción y evalúa un riesgo y una medida de control."
+        reference = "Distingue carga, corriente, voltaje y energía según corresponda, usa evidencia de bajo voltaje y nunca transfiere el procedimiento a enchufes o instalaciones domiciliarias."
+    elif "calor" in lowered or "temperatura" in lowered:
+        resource = "Vasos aislados, agua templada y fría, termómetros, materiales conductores y aislantes, tabla tiempo-temperatura y modelo de partículas."
+        prompt = f"Para «{focus.lower()}», mide temperaturas, representa transferencia, compara dos materiales y explica el proceso sin tratar calor y temperatura como sinónimos."
+        reference = "Describe energía transferida por diferencia de temperatura, distingue conducción, convección o radiación y conecta medición con modelo de partículas."
+    else:
+        resource = "Modelos históricos de Dalton, Thomson, Rutherford y Bohr; tarjetas de átomos y sustancias; tabla periódica y datos CHON de abundancia con fuente."
+        prompt = f"Para «{focus.lower()}», usa el modelo pertinente, relaciona una evidencia o patrón con una predicción y señala una limitación antes de comunicar la explicación."
+        reference = "Distingue número y masa atómica, estructura y sustancia, conecta cambios de modelo con evidencia y no presenta representaciones como observación directa."
+    return {"resource": resource, "prompt": prompt, "reference": reference}
+
+
+def _history_grade_eight(topic: str, focus: str, seed: int) -> dict:
+    """Return contextualized primary-source sets for eighth-grade social studies."""
+    lowered = topic.lower()
+    if any(word in lowered for word in ("región", "regional", "conectividad", "desarrollo")):
+        source_set = "mapas temáticos a distintas escalas, datos demográficos y productivos, indicadores de desarrollo y dos casos regionales chilenos con fuente y fecha"
+    elif any(word in lowered for word in ("derecho", "legitimidad", "ciudadan")):
+        source_set = "dos textos normativos o argumentativos contextualizados, una matriz de inclusión y exclusión y un caso ciudadano ficticio actual"
+    elif any(word in lowered for word in ("conquista", "colonial", "arauco", "hacienda", "atlántico", "barroco")):
+        source_set = "mapa y cronología, fuente indígena o local y fuente europea traducidas, registro material y estudio historiográfico actual que declara sus límites"
+    elif any(word in lowered for word in ("ilustración", "revolu", "independencia")):
+        source_set = "declaraciones y debates traducidos, cronologías paralelas, mapa atlántico o continental y fuentes que muestran actores y exclusiones"
+    else:
+        source_set = "obra, mapa, texto traducido y registro institucional de los siglos XV al XVII, cada uno con autoría, fecha, lugar, propósito y contexto"
+    resource = f"Dossier para «{topic}»: {source_set}. Matriz de contexto, afirmación, evidencia, perspectiva y límite."
+    prompt = f"Para «{focus.lower()}», contextualiza dos piezas, construye una relación temporal, territorial o causal, contrasta perspectivas y limita la conclusión."
+    reference = "Ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder y evita anacronismos, explicaciones monocausales y jerarquías culturales."
+    return {"resource": resource, "prompt": prompt, "reference": reference}
+
+
 def _english_grade_seven(topic: str, focus: str, seed: int) -> dict:
     lowered = topic.lower()
     if "listening" in lowered:
@@ -596,21 +641,25 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
     if subject_slug == "ciencias-naturales":
         if grade == 7:
             return _science_grade_seven(topic, focus, seed)
+        if grade == 8:
+            return _science_grade_eight(topic, focus, seed)
         return _science(topic, focus, seed)
     if subject_slug == "historia-geografia-ciencias-sociales":
         if grade == 7:
             return _history_grade_seven(topic, focus, seed)
+        if grade == 8:
+            return _history_grade_eight(topic, focus, seed)
         return _history(topic, focus, seed)
     if subject_slug in {"ingles", "ingles-propuesta"}:
         if grade == 7:
             return _english_grade_seven(topic, focus, seed)
         return _english(topic, focus, seed)
     if subject_slug == "artes-visuales":
-        if grade == 7:
+        if grade in {7, 8}:
             return _arts_grade_seven(topic, focus, seed)
         return _arts(topic, focus, seed)
     if subject_slug == "musica":
-        if grade == 7:
+        if grade in {7, 8}:
             return _music_grade_seven(topic, focus, seed)
         return _music(topic, focus, seed)
     if subject_slug == "educacion-fisica-salud":

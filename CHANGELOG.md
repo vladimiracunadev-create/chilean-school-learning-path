@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-30 — Ciencias, Historia, Artes y Música de 8° básico
+
+- Desarrollo completo de Ciencias Naturales en 74 clases disciplinares y 89 experiencias integradas, con experimentación, modelos, evidencia y resguardos de seguridad.
+- Desarrollo completo de Historia, Geografía y Ciencias Sociales en 117 clases disciplinares y 91 experiencias integradas, con fuentes, contextualización, contraste y argumentación histórica.
+- Desarrollo completo de Artes Visuales en 29 clases disciplinares y 33 experiencias integradas, y de Música en 30 clases disciplinares y 37 experiencias integradas, con creación, interpretación, apreciación y reflexión específicas.
+- Publicación de cuatro guías nuevas y actualización del índice, mapa técnico y GitHub Pages: 8° queda con seis asignaturas desarrolladas, 482 clases, 365 integraciones y 354 propuestas pendientes.
+- Estado global actualizado a 6.094 clases desarrolladas y 3.179 experiencias integradas; la revisión humana especializada continúa pendiente.
+
 ## 2026-09-30 — Matemática y Lengua y Literatura de 8° básico
 
 - Desarrollo completo de los 17 OA disciplinares de Matemática en 77 clases y 19 OA transversales en 82 experiencias integradas.

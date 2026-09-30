@@ -1,6 +1,6 @@
 # Lengua y Literatura · 8° básico
 
-[⬅️ Índice de 8° básico](README.md) · [Matemática →](matematica.md)
+[⬅️ Índice de 8° básico](README.md) · [← Historia, Geografía y Ciencias Sociales](historia-geografia-ciencias-sociales.md) · [Matemática →](matematica.md)
 
 **26 OA de contenido · 155 clases desarrolladas · 8 OA transversales · 33 experiencias integradas · 5 ejes curriculares · revisión humana pendiente**
 

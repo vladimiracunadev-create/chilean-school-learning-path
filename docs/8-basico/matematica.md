@@ -1,6 +1,6 @@
 # Matemática · 8° básico
 
-[⬅️ Índice de 8° básico](README.md) · [← Lengua y Literatura](lengua-literatura.md)
+[⬅️ Índice de 8° básico](README.md) · [← Lengua y Literatura](lengua-literatura.md) · [Música →](musica.md)
 
 **17 OA de contenido · 77 clases desarrolladas · 19 OA transversales · 82 experiencias integradas · 9 ejes curriculares · revisión humana pendiente**
 

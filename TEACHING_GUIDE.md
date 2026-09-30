@@ -91,7 +91,7 @@ La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla est
 - En 2° básico, recupera explícitamente el aprendizaje de 1° antes de ampliar rango, vocabulario, precisión o autonomía.
 - En 3° básico, aumenta la justificación y autonomía de manera gradual, sin convertir el cambio de nivel en retiro automático de apoyos.
 - En 7° básico, exige argumentación, contraste y revisión más autónomos, pero conserva modelado explícito, textos o problemas acotados y vías de acceso al mismo OA.
-- En Matemática y Lengua y Literatura de 8°, aumenta la autonomía para modelar, argumentar, investigar y revisar, manteniendo ejemplos concretos, criterios visibles y comprobación individual.
+- En las seis asignaturas desarrolladas de 8°, aumenta la autonomía para modelar, argumentar, investigar, crear y revisar, manteniendo ejemplos concretos, fuentes situadas, criterios visibles y comprobación individual.
 - No conviertas el cambio de nivel en retiro automático de apoyos: retíralos según evidencia observable.
 
 ## Errores frecuentes al usar el repositorio
