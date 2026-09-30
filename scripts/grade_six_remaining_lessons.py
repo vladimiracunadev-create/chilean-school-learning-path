@@ -192,9 +192,12 @@ def build_sequence(code: str) -> dict | None:
         lesson = _fix_links(lesson, prefix)
         lesson["title"] = f"{lesson['title']} · {SUBJECTS[prefix][1]} · {code}"
         focus_lower = focus.lower()
-        lesson["guided"] += f" La retroalimentación vuelve al criterio propio de «{focus_lower}» antes del segundo intento."
-        lesson["independent"] += f" La evidencia se juzga por el logro de «{focus_lower}», no por imitar el ejemplo."
-        lesson["ticket"] += f" La respuesta final debe permitir comprobar «{focus_lower}»."
+        route = f"{SUBJECTS[prefix][1]} · {code} · clase {index + 1}"
+        lesson["opening"] += f" El registro inicial queda asociado a la ruta {route} para compararlo con la evidencia final."
+        lesson["model"] += f" El docente nombra el criterio de la ruta {route} y muestra por qué no se transfiere mecánicamente a otro OA."
+        lesson["guided"] += f" En {route}, la retroalimentación vuelve al criterio propio de «{focus_lower}» antes del segundo intento."
+        lesson["independent"] += f" En {route}, la evidencia se juzga por el logro de «{focus_lower}», no por imitar el ejemplo."
+        lesson["ticket"] += f" La respuesta final de {route} debe permitir comprobar «{focus_lower}»."
         lessons.append(lesson)
     record = RECORDS[code]
     return {
