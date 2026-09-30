@@ -607,7 +607,7 @@ def validate(root: Path = ROOT) -> list[str]:
     if documentation_html.count("Leer guía de 8°") != 12:
         errors.append("La portada documental no presenta las 12 guías de 8° básico")
     required_docs = {
-        "README.md": ("12.997", "2.823", "6.383", "3.244", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "771 de 8°", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "README.md": ("12.997", "2.823", "6.383", "3.244", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "771 de 8°", "3.370 propuestas secuenciadas desde 1° medio", "6° básico · desarrollo OA por OA", "7° básico · desarrollo OA por OA", "8° básico · desarrollo OA por OA", "portal público de GitHub Pages", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
         "docs/README.md": ("1° a 8° básico con desarrollo interno completo", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
@@ -698,7 +698,7 @@ def validate(root: Path = ROOT) -> list[str]:
             if token not in document:
                 errors.append(f"{relative_path} incompleto: falta {token}")
     stale_current_claims = {
-        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico", "7 clases piloto en 8° básico", "Desde 8° básico hasta 4° medio", "8° básico en desarrollo", "seis asignaturas de 8°", "6.094 clases desarrolladas", "3.179 experiencias integradas"),
+        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico", "7 clases piloto en 8° básico", "Desde 8° básico hasta 4° medio", "Desde 1° hasta 4° medio", "8° básico en desarrollo", "seis asignaturas de 8°", "Seis asignaturas desarrolladas de 8° básico", "Una mejora de 1°, 2°, 3°, 4° o 5° básico", "Docente de 1°, 2° o 3° básico", "6.094 clases desarrolladas", "3.179 experiencias integradas"),
         "docs/README.md": ("Siete asignaturas de 7°", "Las 86 guías disponibles", "seis asignaturas desarrolladas de 8°", "8° básico en desarrollo"),
         "docs/SYLLABUS.md": ("Siete asignaturas de 7°", "núcleo de 8°", "seis asignaturas desarrolladas de 8°", "354 propuestas pendientes"),
         "docs/PLAN_DESARROLLO.md": ("7° básico — siguiente nivel por desarrollar", "Definición y orden editorial de 1° a 6° básico", "control interno completo niveles 1 a 6", "control interno completo niveles 1 a 7 y seis asignaturas 8"),
@@ -712,6 +712,20 @@ def validate(root: Path = ROOT) -> list[str]:
         for token in stale_tokens:
             if token in document:
                 errors.append(f"{relative_path} conserva una afirmación vigente obsoleta: {token}")
+    main_readme = (root / "README.md").read_text(encoding="utf-8")
+    for course_order in range(1, 9):
+        level_link = f"docs/{course_order}-basico/README.md"
+        if level_link not in main_readme:
+            errors.append(f"README.md no enlaza el índice completo de {course_order}° básico")
+        subject_slugs = {
+            item["subject_slug"]
+            for item in classes
+            if item.get("course_order") == course_order
+        }
+        for subject_slug in subject_slugs:
+            guide_link = f"docs/{course_order}-basico/{subject_slug}.md"
+            if guide_link not in main_readme:
+                errors.append(f"README.md no informa o enlaza la guía resuelta: {guide_link}")
     for schema_path in ("reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
         try:
             schema = json.loads((root / schema_path).read_text(encoding="utf-8"))
@@ -812,10 +826,14 @@ def validate(root: Path = ROOT) -> list[str]:
         if sixth_guide.count("\n## ") < first_guide.count("\n## "):
             errors.append(f"Guía de 6° {subject_slug} tiene menor profundidad documental que su equivalente de 1°")
     documentation_files = list(root.glob("*.md")) + list((root / "docs").rglob("*.md"))
+    public_portal = "https://vladimiracunadev-create.github.io/chilean-school-learning-path/"
     for document_path in documentation_files:
         document = document_path.read_text(encoding="utf-8")
         for destination in re.findall(r"\[[^\]]+\]\(([^)]+)\)", document):
-            if "vladimiracunadev-create.github.io/chilean-school-learning-path" in destination or re.search(r"(?:^|/)site/.*\.html(?:#.*)?$", destination):
+            if (
+                "vladimiracunadev-create.github.io/chilean-school-learning-path" in destination
+                and destination.rstrip("/") != public_portal.rstrip("/")
+            ) or re.search(r"(?:^|/)site/.*\.html(?:#.*)?$", destination):
                 errors.append(f"Cruce Markdown→HTML en {document_path.relative_to(root)}: {destination}")
             if destination.startswith(("http://", "https://", "#", "mailto:")):
                 continue

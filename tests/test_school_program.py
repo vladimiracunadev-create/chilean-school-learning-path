@@ -1,5 +1,7 @@
 import json
+import re
 import unittest
+from urllib.parse import unquote
 
 from scripts.validate_licensing import ROOT, SOURCE_REQUIRED, validate as validate_licensing
 from scripts.validate_school_program import validate as validate_program
@@ -76,6 +78,35 @@ class SchoolProgramTests(unittest.TestCase):
                 self.assertIn(token, text, relative_path)
             for token in stale_tokens:
                 self.assertNotIn(token, text, relative_path)
+
+    def test_main_readme_links_every_completed_level_and_subject(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertIn("https://vladimiracunadev-create.github.io/chilean-school-learning-path/", readme)
+        for course_order in range(1, 9):
+            level_path = f"docs/{course_order}-basico/README.md"
+            self.assertIn(level_path, readme, f"README no enlaza el índice de {course_order}° básico")
+            subject_slugs = {
+                item["subject_slug"]
+                for item in self.catalog["classes"]
+                if item["course_order"] == course_order
+            }
+            for subject_slug in subject_slugs:
+                guide_path = f"docs/{course_order}-basico/{subject_slug}.md"
+                self.assertIn(guide_path, readme, f"README no enlaza {guide_path}")
+        stale_claims = (
+            "Desde 1° hasta 4° medio",
+            "Seis asignaturas desarrolladas de 8° básico",
+            "Una mejora de 1°, 2°, 3°, 4° o 5° básico",
+            "Docente de 1°, 2° o 3° básico",
+        )
+        for stale_claim in stale_claims:
+            self.assertNotIn(stale_claim, readme)
+        for target in re.findall(r"(?<!!)\[[^\]]+\]\(([^)]+)\)", readme):
+            if target.startswith(("http://", "https://", "mailto:", "#")):
+                continue
+            local_target = unquote(target.split("#", 1)[0].split("?", 1)[0])
+            if local_target:
+                self.assertTrue((ROOT / local_target).exists(), f"Enlace local roto en README: {target}")
 
     def test_first_grade_separates_developed_content_from_drafts(self):
         developed = [item for item in self.catalog["classes"] if item["editorial_status"] == "desarrollada"]

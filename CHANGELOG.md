@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30 — Navegación completa y coherencia del README principal
+
+- Incorporación de badges, secciones disciplinares y enlaces directos para 7° y 8° básico; el README principal ahora informa y enlaza las 92 guías resueltas de 1° a 8°.
+- Corrección de rutas incompletas que sólo orientaban a docentes de 1° a 3°, del flujo de mejora limitado hasta 5° y de la referencia obsoleta a seis asignaturas desarrolladas de 8°.
+- Separación explícita entre los ocho niveles completos y las 3.370 propuestas futuras de 1° a 4° medio.
+- Nuevo control automático que exige en el README el índice y cada guía de asignatura de los ocho niveles completos, además de comprobar sus enlaces locales.
+
 ## 2026-09-30 — 8° básico completo
 
 - Desarrollo de las seis asignaturas restantes: Educación Física y Salud (26 clases), Orientación (49), Tecnología (26), Inglés (80), Inglés (Propuesta) (65) y Lengua Indígena (43).
