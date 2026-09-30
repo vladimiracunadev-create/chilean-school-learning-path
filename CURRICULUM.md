@@ -1560,50 +1560,50 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Lenguaje y Comunicación | [de Actitud LE06 OAA E · Reflexionar sobre sí mismo, sus ideas y sus intereses para comprenderse y valorarse](curriculum/6-basico/lenguaje-comunicacion/de-actitud-le06-oaa-e.md) | 4 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE06 OAA F · Demostrar empatía hacia los demás, comprendiendo el contexto en el que se sitúan](curriculum/6-basico/lenguaje-comunicacion/de-actitud-le06-oaa-f.md) | 5 | formacion-general-comun |
 | Lenguaje y Comunicación | [de Actitud LE06 OAA G · Demostrar respeto por las diversas opiniones y puntos de vista, reconociendo el diálogo como una…](curriculum/6-basico/lenguaje-comunicacion/de-actitud-le06-oaa-g.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 01 · Demostrar que comprenden los factores y múltiplos](curriculum/6-basico/matematica/ma06-oa-01.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 02 · Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas,…](curriculum/6-basico/matematica/ma06-oa-02.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 03 · Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma…](curriculum/6-basico/matematica/ma06-oa-03.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 04 · Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de…](curriculum/6-basico/matematica/ma06-oa-04.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 05 · Demostrar que comprenden las fracciones y números mixtos](curriculum/6-basico/matematica/ma06-oa-05.md) | 5 | formacion-general-comun |
-| Matemática | [MA06 OA 06 · Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores…](curriculum/6-basico/matematica/ma06-oa-06.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 07 · Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un…](curriculum/6-basico/matematica/ma06-oa-07.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 08 · Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones…](curriculum/6-basico/matematica/ma06-oa-08.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 09 · Demostrar que comprenden la relación entre los valores de una tabla y aplicarla en la resolución de…](curriculum/6-basico/matematica/ma06-oa-09.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 10 · Representar generalizaciones de relaciones entre números naturales, usando expresiones con letras y…](curriculum/6-basico/matematica/ma06-oa-10.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 11 · Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como](curriculum/6-basico/matematica/ma06-oa-11.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 12 · Construir y comparar triángulos de acuerdo a la medida de sus lados y /o sus ángulos con instrumentos…](curriculum/6-basico/matematica/ma06-oa-12.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 13 · Demostrar que comprenden el concepto de área de una superficie en cubos y paralelepípedos, calculando…](curriculum/6-basico/matematica/ma06-oa-13.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 14 · Realizar teselados de figuras 2D usando traslaciones, reflexiones y rotaciones](curriculum/6-basico/matematica/ma06-oa-14.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 15 · Construir ángulos agudos, obtusos, rectos, extendidos y completos con instrumentos geométricos o…](curriculum/6-basico/matematica/ma06-oa-15.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 16 · Identificar los ángulos que se forman entre dos rectas que se cortan (pares de ángulos opuestos por…](curriculum/6-basico/matematica/ma06-oa-16.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 17 · Demostrar de manera concreta, pictórica y simbólica que la suma de los ángulos interiores de un…](curriculum/6-basico/matematica/ma06-oa-17.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 18 · Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm 2 y m 2 ](curriculum/6-basico/matematica/ma06-oa-18.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 19 · Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm 3 , m 3 y mm 3 ](curriculum/6-basico/matematica/ma06-oa-19.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 20 · Estimar y medir ángulos usando el transportador, expresando las mediciones en grados](curriculum/6-basico/matematica/ma06-oa-20.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 21 · Calcular ángulos en rectas paralelas cortadas por una transversal y en triángulos](curriculum/6-basico/matematica/ma06-oa-21.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 22 · Comparar distribuciones de dos grupos, provenientes de muestras aleatorias, usando diagramas de…](curriculum/6-basico/matematica/ma06-oa-22.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 23 · Conjeturar acerca de la tendencia de resultados obtenidos en repeticiones de un mismo experimento con…](curriculum/6-basico/matematica/ma06-oa-23.md) | 4 | formacion-general-comun |
-| Matemática | [MA06 OA 24 · Leer e interpretar gráficos de barra doble y circulares y comunicar sus conclusiones](curriculum/6-basico/matematica/ma06-oa-24.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH a · Resolver problemas](curriculum/6-basico/matematica/de-habilidad-ma06-oah-a.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH b · Resolver problemas aplicando una variedad de estrategias, como](curriculum/6-basico/matematica/de-habilidad-ma06-oah-b.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH c · Argumentar y comunicar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-c.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH d · Argumentar y comunicar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-d.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH e · Comunicar de manera escrita y verbal razonamientos matemáticos](curriculum/6-basico/matematica/de-habilidad-ma06-oah-e.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH f · Argumentar y comunicar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-f.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH g · Argumentar y comunicar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-g.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH h · Argumentar y comunicar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-h.md) | 5 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH i · Modelar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-i.md) | 6 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH j · Modelar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-j.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH k · Modelar matemáticamente situaciones cotidianas](curriculum/6-basico/matematica/de-habilidad-ma06-oah-k.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH l · Representar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-l.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH m · Representar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-m.md) | 4 | formacion-general-comun |
-| Matemática | [de Habilidad MA06 OAH n · Representar](curriculum/6-basico/matematica/de-habilidad-ma06-oah-n.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 01 · Factores, múltiplos y números primos](curriculum/6-basico/matematica/ma06-oa-01.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 02 · Operaciones combinadas con números naturales](curriculum/6-basico/matematica/ma06-oa-02.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 03 · Razones entre cantidades](curriculum/6-basico/matematica/ma06-oa-03.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 04 · Porcentajes como razón de cien](curriculum/6-basico/matematica/ma06-oa-04.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 05 · Fracciones impropias y números mixtos](curriculum/6-basico/matematica/ma06-oa-05.md) | 5 | formacion-general-comun |
+| Matemática | [MA06 OA 06 · Adición y sustracción de fracciones y números mixtos](curriculum/6-basico/matematica/ma06-oa-06.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 07 · Multiplicación y división de decimales](curriculum/6-basico/matematica/ma06-oa-07.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 08 · Problemas con fracciones y decimales](curriculum/6-basico/matematica/ma06-oa-08.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 09 · Relaciones en tablas](curriculum/6-basico/matematica/ma06-oa-09.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 10 · Generalizaciones con expresiones algebraicas](curriculum/6-basico/matematica/ma06-oa-10.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 11 · Ecuaciones de primer grado](curriculum/6-basico/matematica/ma06-oa-11.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 12 · Construcción y clasificación de triángulos](curriculum/6-basico/matematica/ma06-oa-12.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 13 · Área en cubos y paralelepípedos](curriculum/6-basico/matematica/ma06-oa-13.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 14 · Teselaciones mediante transformaciones](curriculum/6-basico/matematica/ma06-oa-14.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 15 · Construcción y clasificación de ángulos](curriculum/6-basico/matematica/ma06-oa-15.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 16 · Ángulos entre rectas que se cortan](curriculum/6-basico/matematica/ma06-oa-16.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 17 · Suma de ángulos interiores](curriculum/6-basico/matematica/ma06-oa-17.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 18 · Superficie de cubos y paralelepípedos](curriculum/6-basico/matematica/ma06-oa-18.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 19 · Volumen de cubos y paralelepípedos](curriculum/6-basico/matematica/ma06-oa-19.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 20 · Estimación y medición de ángulos](curriculum/6-basico/matematica/ma06-oa-20.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 21 · Ángulos en paralelas y triángulos](curriculum/6-basico/matematica/ma06-oa-21.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 22 · Comparación de distribuciones muestrales](curriculum/6-basico/matematica/ma06-oa-22.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 23 · Tendencia en experimentos aleatorios](curriculum/6-basico/matematica/ma06-oa-23.md) | 4 | formacion-general-comun |
+| Matemática | [MA06 OA 24 · Gráficos de barra doble y circulares](curriculum/6-basico/matematica/ma06-oa-24.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH a · Resolver problemas: Reconocer e identificar los datos esenciales de un problema matemático](curriculum/6-basico/matematica/de-habilidad-ma06-oah-a.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH b · Resolver problemas aplicando una variedad de estrategias, como: la estrategia de los 4 pasos: entender, planificar, hacer y comprobar comprender y evaluar estrategias de resolución de problemas de otros](curriculum/6-basico/matematica/de-habilidad-ma06-oah-b.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH c · Argumentar y comunicar: Formular preguntas y posibles respuestas frente a suposiciones y reglas matemáticas](curriculum/6-basico/matematica/de-habilidad-ma06-oah-c.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH d · Argumentar y comunicar: Comprobar reglas y propiedades](curriculum/6-basico/matematica/de-habilidad-ma06-oah-d.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH e · Comunicar de manera escrita y verbal razonamientos matemáticos: describiendo los procedimientos utilizados usando los términos matemáticos pertinentes](curriculum/6-basico/matematica/de-habilidad-ma06-oah-e.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH f · Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros](curriculum/6-basico/matematica/de-habilidad-ma06-oah-f.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH g · Argumentar y comunicar: Identificar un error, explicar su causa y corregirlo](curriculum/6-basico/matematica/de-habilidad-ma06-oah-g.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH h · Argumentar y comunicar: Documentar el proceso de aprendizaje, registrándolo en forma estructurada y comprensible](curriculum/6-basico/matematica/de-habilidad-ma06-oah-h.md) | 5 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH i · Modelar: Aplicar, seleccionar, modificar y evaluar modelos que involucren las cuatro operaciones, la ubicación en la recta numérica y el plano, el análisis de datos, predicciones acerca de la probabilidad de ocurrencia de eventos, y reglas con lenguaje algebraico](curriculum/6-basico/matematica/de-habilidad-ma06-oah-i.md) | 6 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH j · Modelar: Traducir expresiones en lenguaje natural a lenguaje matemático y viceversa](curriculum/6-basico/matematica/de-habilidad-ma06-oah-j.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH k · Modelar matemáticamente situaciones cotidianas: organizando datos identificando patrones o regularidades usando simbología matemática para expresarlas](curriculum/6-basico/matematica/de-habilidad-ma06-oah-k.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH l · Representar: Extraer información del entorno y representarla matemáticamente en diagramas, tablas y gráficos, interpretando los datos extraídos](curriculum/6-basico/matematica/de-habilidad-ma06-oah-l.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH m · Representar: Usar representaciones y estrategias para comprender mejor problemas e información matemática](curriculum/6-basico/matematica/de-habilidad-ma06-oah-m.md) | 4 | formacion-general-comun |
+| Matemática | [de Habilidad MA06 OAH n · Representar: Imaginar una situación y expresarla por medio de modelos matemáticos. Actitud](curriculum/6-basico/matematica/de-habilidad-ma06-oah-n.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA06 OAA A · Manifestar un estilo de trabajo ordenado y metódico](curriculum/6-basico/matematica/de-actitud-ma06-oaa-a.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA06 OAA B · Abordar de manera flexible y creativa la búsqueda de soluciones a problemas](curriculum/6-basico/matematica/de-actitud-ma06-oaa-b.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA06 OAA C · Manifestar curiosidad e interés por el aprendizaje de las matemáticas](curriculum/6-basico/matematica/de-actitud-ma06-oaa-c.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA06 OAA D · Manifestar una actitud positiva frente a sí mismo y sus capacidades](curriculum/6-basico/matematica/de-actitud-ma06-oaa-d.md) | 4 | formacion-general-comun |
 | Matemática | [de Actitud MA06 OAA E · Demostrar una actitud de esfuerzo y perseverancia](curriculum/6-basico/matematica/de-actitud-ma06-oaa-e.md) | 4 | formacion-general-comun |
-| Matemática | [de Actitud MA06 OAA F · Expresar y escuchar ideas de forma respetuosa. Unidad de Currículum y Evaluación Ministerio de…](curriculum/6-basico/matematica/de-actitud-ma06-oaa-f.md) | 4 | formacion-general-comun |
+| Matemática | [de Actitud MA06 OAA F · Expresar y escuchar ideas de forma respetuosa](curriculum/6-basico/matematica/de-actitud-ma06-oaa-f.md) | 4 | formacion-general-comun |
 | Música | [MU06 OA 01 · Describir la música escuchada e interpretada, basándose en los elementos del lenguaje musical…](curriculum/6-basico/musica/mu06-oa-01.md) | 5 | formacion-general-comun |
 | Música | [MU06 OA 02 · Expresar, mostrando grados crecientes de elaboración y detalle, las sensaciones, emociones e ideas…](curriculum/6-basico/musica/mu06-oa-02.md) | 4 | formacion-general-comun |
 | Música | [MU06 OA 03 · Escuchar música en forma abundante de diversos contextos y culturas poniendo énfasis en](curriculum/6-basico/musica/mu06-oa-03.md) | 5 | formacion-general-comun |

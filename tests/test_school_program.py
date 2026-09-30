@@ -19,6 +19,7 @@ from scripts.grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, M
 from scripts.grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
 from scripts.grade_five_core_lessons import COUNTS as GRADE_FIVE_COUNTS, SEQUENCES as GRADE_FIVE_CORE_SEQUENCES, build_sequence as build_grade_five_core_sequence
 from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
+from scripts.grade_six_math_lessons import COUNTS as GRADE_SIX_MATH_COUNTS, SEQUENCES as GRADE_SIX_MATH_SEQUENCES, build_sequence as build_grade_six_math_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -40,8 +41,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 3907)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1877)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 4005)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1965)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -53,7 +54,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 3907)
+        self.assertEqual(len(developed), 4005)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -493,6 +494,26 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertIn(safeguard, cultural)
         self.assertEqual((len(fifth), sum(item["editorial_status"] == "desarrollada" for item in fifth), sum(item["editorial_status"] == "integrada" for item in fifth)), (1340, 920, 420))
         self.assertFalse([item for item in fifth if item["editorial_status"] in {"secuenciada", "borrador"}])
+
+    def test_sixth_grade_mathematics_is_complete_and_specific(self):
+        codes = sorted(GRADE_SIX_MATH_SEQUENCES)
+        sequences = [build_grade_six_math_sequence(code) for code in codes]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(codes), len(lessons), sum(GRADE_SIX_MATH_COUNTS)), (24, 98, 98))
+        for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+            self.assertEqual(len({lesson[field] for lesson in lessons}), 98, field)
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        sixth_math = [item for item in self.catalog["classes"] if item["course_order"] == 6 and item["subject_slug"] == "matematica"]
+        self.assertEqual(
+            (sum(item["editorial_status"] == "desarrollada" for item in sixth_math), sum(item["editorial_status"] == "integrada" for item in sixth_math)),
+            (98, 88),
+        )
+        self.assertFalse([item for item in sixth_math if item["editorial_status"] in {"secuenciada", "borrador"}])
+        guide = (ROOT / "docs/6-basico/matematica.md").read_text(encoding="utf-8")
+        for token in ("Continuidad con 5° básico", "Anatomía estable de cada clase", "Recorrido OA por OA", "Preparación y materiales", "Acceso y profundización"):
+            self.assertIn(token, guide)
+        self.assertTrue((ROOT / "site/docs/6-basico/matematica.html").is_file())
+        self.assertTrue((ROOT / "site/levels/6-basico.html").is_file())
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]

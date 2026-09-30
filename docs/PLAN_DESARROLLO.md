@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 6° básico — siguiente nivel por desarrollar · **Asignatura activa:** Matemática · **Unidad de entrega:** nivel completo
+**Nivel activo:** 6° básico — desarrollo en curso · **Asignatura activa:** Lenguaje y Comunicación · **Unidad de entrega:** nivel completo
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -79,8 +79,8 @@ flowchart LR
 | 5° básico | 10 | Inglés | 16 | 76 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 5° básico | 11 | Inglés (Propuesta) | 15 | 71 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 5° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | 0 | Desarrollo interno completo · revisión humana pendiente |
-| 6° básico | 1 | Matemática | 24 | 98 | 20 | Activa |
-| 6° básico | 2 | Lenguaje y Comunicación | 31 | 176 | 7 | 0/31 OA desarrollados |
+| 6° básico | 1 | Matemática | 24 | 98 | 20 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 2 | Lenguaje y Comunicación | 31 | 176 | 7 | Activa |
 | 6° básico | 3 | Ciencias Naturales | 18 | 78 | 13 | 0/18 OA desarrollados |
 | 6° básico | 4 | Historia, Geografía y Ciencias Sociales | 26 | 116 | 23 | 0/26 OA desarrollados |
 | 6° básico | 5 | Artes Visuales | 5 | 27 | 7 | 0/5 OA desarrollados |
@@ -1339,32 +1339,32 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `MA06 OA 01` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-01) |
-| `MA06 OA 02` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-02) |
-| `MA06 OA 03` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-03) |
-| `MA06 OA 04` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-04) |
-| `MA06 OA 05` | Números y operaciones | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-05) |
-| `MA06 OA 06` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-06) |
-| `MA06 OA 07` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-07) |
-| `MA06 OA 08` | Números y operaciones | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-08) |
-| `MA06 OA 09` | Patrones y álgebra | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-09) |
-| `MA06 OA 10` | Patrones y álgebra | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-10) |
-| `MA06 OA 11` | Patrones y álgebra | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-11) |
-| `MA06 OA 12` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-12) |
-| `MA06 OA 13` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-13) |
-| `MA06 OA 14` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-14) |
-| `MA06 OA 15` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-15) |
-| `MA06 OA 16` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-16) |
-| `MA06 OA 17` | Geometría | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-17) |
-| `MA06 OA 18` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-18) |
-| `MA06 OA 19` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-19) |
-| `MA06 OA 20` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-20) |
-| `MA06 OA 21` | Medición | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-21) |
-| `MA06 OA 22` | Datos y probabilidades | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-22) |
-| `MA06 OA 23` | Datos y probabilidades | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-23) |
-| `MA06 OA 24` | Datos y probabilidades | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-24) |
+| `MA06 OA 01` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-01) |
+| `MA06 OA 02` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-02) |
+| `MA06 OA 03` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-03) |
+| `MA06 OA 04` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-04) |
+| `MA06 OA 05` | Números y operaciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-05) |
+| `MA06 OA 06` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-06) |
+| `MA06 OA 07` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-07) |
+| `MA06 OA 08` | Números y operaciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-08) |
+| `MA06 OA 09` | Patrones y álgebra | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-09) |
+| `MA06 OA 10` | Patrones y álgebra | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-10) |
+| `MA06 OA 11` | Patrones y álgebra | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-11) |
+| `MA06 OA 12` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-12) |
+| `MA06 OA 13` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-13) |
+| `MA06 OA 14` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-14) |
+| `MA06 OA 15` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-15) |
+| `MA06 OA 16` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-16) |
+| `MA06 OA 17` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-17) |
+| `MA06 OA 18` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-18) |
+| `MA06 OA 19` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-19) |
+| `MA06 OA 20` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-20) |
+| `MA06 OA 21` | Medición | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-21) |
+| `MA06 OA 22` | Datos y probabilidades | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-22) |
+| `MA06 OA 23` | Datos y probabilidades | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-23) |
+| `MA06 OA 24` | Datos y probabilidades | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico/ma06-oa-24) |
 
-**Integración transversal documentada:** 20 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 98 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 20 ítems de habilidades o actitudes se incorporan en 88 experiencias dentro de las 98 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Lenguaje y Comunicación · 6° básico
 
@@ -1626,7 +1626,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 5 | Las asignaturas de 1° a 5° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5° conserva separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
+| Documental y fuentes | control interno completo niveles 1 a 5 y matematica 6 | Las asignaturas de 1° a 5° y Matemática de 6° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5° conserva separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

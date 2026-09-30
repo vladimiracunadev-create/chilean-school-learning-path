@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-29 — Matemática de 6° básico completa
+
+- Desarrollo de los 24 OA disciplinares en 98 clases específicas y diferenciadas.
+- Integración de 14 habilidades y 6 actitudes mediante 88 experiencias observables dentro del contenido, sin contarlas como clases adicionales.
+- Progresión desde factores, razones, porcentajes, fracciones y decimales hacia álgebra, geometría, medición, distribuciones y azar.
+- Publicación de guía de asignatura, índice parcial del nivel y vista específica de 6° básico; las demás asignaturas permanecen explícitamente pendientes.
+- Estado global actualizado a 4.005 clases desarrolladas y 1.965 experiencias integradas, con revisión humana pendiente.
+
 ## 2026-09-29 — 5° básico completo
 
 - Desarrollo de las nueve denominaciones pendientes: 575 clases disciplinares y 247 experiencias transversales integradas.

@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-29**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores en 1°, 2°, 3°, 4° ni 5° básico |
-| Desarrollada | 3.907 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 1.877 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 4.005 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 1.965 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2°, 3°, 4° y 5° básico tienen desarrollo interno completo**. En 5° son 920 clases desarrolladas y 420 experiencias integradas en doce denominaciones curriculares. Se mantienen además 7 clases piloto en Lengua y Literatura de 8°.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1°, 2°, 3°, 4° y 5° básico tienen desarrollo interno completo**. Matemática de 6° está completa con 98 clases desarrolladas y 88 experiencias integradas, aunque el resto del nivel sigue pendiente. Se mantienen además 7 clases piloto en Lengua y Literatura de 8°.
 
 ## Reconstrucción de 1° básico
 

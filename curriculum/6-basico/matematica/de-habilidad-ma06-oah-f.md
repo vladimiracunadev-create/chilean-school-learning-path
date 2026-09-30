@@ -1,4 +1,4 @@
-# de Habilidad MA06 OAH f — Argumentar y comunicar
+# de Habilidad MA06 OAH f — Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 6° básico | Matemática | Argumentar y comunicar | formacion-general-comun | 5 clases de 90 min |
@@ -22,90 +22,235 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-06926}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «argumentar y comunicar» y demostrarlo mediante solución representada, explicada y comprobada.
+### Clase 1 de 5: Conectar y diagnosticar: Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros {#cl-06926}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar de manera observable «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros» dentro del OA matemático en curso, sin convertirlo en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros mientras resuelvo un desafío matemático.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **argumentar y comunicar**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros». Hace visible el uso de datos, representación, estrategia, estimación y verificación y contrasta un ejemplo logrado con el error: aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. |
-| Práctica guiada | 25 min | Construyen juntos solución representada, explicada y comprobada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución representada, explicada y comprobada sobre **argumentar y comunicar**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias: una evidencia la habilidad o actitud mediante acciones matemáticas y otra solo la nombra. |
+| Modelado | 20 min | Modela cómo recuperar ideas previas y detectar barreras y verbaliza cuándo aparece «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros», qué decisión exige y qué evidencia permite observarla sin juzgar rasgos personales. |
+| Práctica guiada | 25 min | Parejas resuelven un problema del OA en curso, usan una pauta de una conducta observable y mejoran su solución tras retroalimentación descriptiva. |
+| Desempeño individual | 25 min | Cada estudiante resuelve un caso nuevo y explica qué hizo para demostrar «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros». |
+| Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
-**Errores previsibles:** aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. **Evidencia:** solución representada, explicada y comprobada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
 
-### Clase 2 de 5: Comprender y modelar {#cl-06927}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «argumentar y comunicar» y demostrarlo mediante solución representada, explicada y comprobada.
+**Evidencia:** Solución matemática y registro individual de una acción observable vinculada con la habilidad o actitud.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **argumentar y comunicar**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros». Hace visible el uso de datos, representación, estrategia, estimación y verificación y contrasta un ejemplo logrado con el error: aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. |
-| Práctica guiada | 25 min | Construyen juntos solución representada, explicada y comprobada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución representada, explicada y comprobada sobre **argumentar y comunicar**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Criterios de éxito:** mantiene el OA matemático; hace observable la habilidad o actitud; revisa su actuación con evidencia.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra con autonomía, transfiérela a otro contexto.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Adaptación a 45 minutos:** Conserva modelado, desempeño matemático, observación individual y ticket.
 
-**Errores previsibles:** aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. **Evidencia:** solución representada, explicada y comprobada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería esta habilidad o actitud; no requiere información familiar.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-06928}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «argumentar y comunicar» y demostrarlo mediante solución representada, explicada y comprobada.
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir cuál acción evidencia el foco y justificar.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otra representación.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **argumentar y comunicar**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros». Hace visible el uso de datos, representación, estrategia, estimación y verificación y contrasta un ejemplo logrado con el error: aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. |
-| Práctica guiada | 25 min | Construyen juntos solución representada, explicada y comprobada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución representada, explicada y comprobada sobre **argumentar y comunicar**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Control de dificultades en el aula**
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza la matemática | Vuelve a la meta del OA y observa el foco durante la resolución. | La evidencia demuestra contenido y transversalidad. |
+| La pauta etiqueta al estudiante | Reformula en acciones situadas y modificables. | La retroalimentación describe acciones, no identidades. |
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad matemática; los apoyos acuerdan acceso y observación sin sustituir respuestas ni convertir la pauta en diagnóstico.
 
-**Errores previsibles:** aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. **Evidencia:** solución representada, explicada y comprobada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 5: Comprender y modelar: Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros {#cl-06927}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-06929}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «argumentar y comunicar» y demostrarlo mediante solución representada, explicada y comprobada.
+**Propósito docente:** Integrar de manera observable «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros» dentro del OA matemático en curso, sin convertirlo en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros mientras resuelvo un desafío matemático.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **argumentar y comunicar**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros». Hace visible el uso de datos, representación, estrategia, estimación y verificación y contrasta un ejemplo logrado con el error: aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. |
-| Práctica guiada | 25 min | Construyen juntos solución representada, explicada y comprobada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución representada, explicada y comprobada sobre **argumentar y comunicar**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias: una evidencia la habilidad o actitud mediante acciones matemáticas y otra solo la nombra. |
+| Modelado | 20 min | Modela cómo explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto y verbaliza cuándo aparece «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros», qué decisión exige y qué evidencia permite observarla sin juzgar rasgos personales. |
+| Práctica guiada | 25 min | Parejas resuelven un problema del OA en curso, usan una pauta de una conducta observable y mejoran su solución tras retroalimentación descriptiva. |
+| Desempeño individual | 25 min | Cada estudiante resuelve un caso nuevo y explica qué hizo para demostrar «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros». |
+| Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
-**Errores previsibles:** aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. **Evidencia:** solución representada, explicada y comprobada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-06930}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «argumentar y comunicar» y demostrarlo mediante solución representada, explicada y comprobada.
+**Evidencia:** Solución matemática y registro individual de una acción observable vinculada con la habilidad o actitud.
+
+**Criterios de éxito:** mantiene el OA matemático; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra con autonomía, transfiérela a otro contexto.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño matemático, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería esta habilidad o actitud; no requiere información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir cuál acción evidencia el foco y justificar.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otra representación.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza la matemática | Vuelve a la meta del OA y observa el foco durante la resolución. | La evidencia demuestra contenido y transversalidad. |
+| La pauta etiqueta al estudiante | Reformula en acciones situadas y modificables. | La retroalimentación describe acciones, no identidades. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad matemática; los apoyos acuerdan acceso y observación sin sustituir respuestas ni convertir la pauta en diagnóstico.
+
+### Clase 3 de 5: Practicar con apoyo: Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros {#cl-06928}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar de manera observable «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros» dentro del OA matemático en curso, sin convertirlo en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros mientras resuelvo un desafío matemático.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **argumentar y comunicar**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros». Hace visible el uso de datos, representación, estrategia, estimación y verificación y contrasta un ejemplo logrado con el error: aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. |
-| Práctica guiada | 25 min | Construyen juntos solución representada, explicada y comprobada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución representada, explicada y comprobada sobre **argumentar y comunicar**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias: una evidencia la habilidad o actitud mediante acciones matemáticas y otra solo la nombra. |
+| Modelado | 20 min | Modela cómo ensayar con andamiaje y retroalimentación inmediata y verbaliza cuándo aparece «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros», qué decisión exige y qué evidencia permite observarla sin juzgar rasgos personales. |
+| Práctica guiada | 25 min | Parejas resuelven un problema del OA en curso, usan una pauta de una conducta observable y mejoran su solución tras retroalimentación descriptiva. |
+| Desempeño individual | 25 min | Cada estudiante resuelve un caso nuevo y explica qué hizo para demostrar «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros». |
+| Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
-**Errores previsibles:** aplicar reglas sin reconocer cuándo sirven; aceptar resultados sin estimarlos. **Evidencia:** solución representada, explicada y comprobada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
+
+**Evidencia:** Solución matemática y registro individual de una acción observable vinculada con la habilidad o actitud.
+
+**Criterios de éxito:** mantiene el OA matemático; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra con autonomía, transfiérela a otro contexto.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño matemático, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería esta habilidad o actitud; no requiere información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir cuál acción evidencia el foco y justificar.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otra representación.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza la matemática | Vuelve a la meta del OA y observa el foco durante la resolución. | La evidencia demuestra contenido y transversalidad. |
+| La pauta etiqueta al estudiante | Reformula en acciones situadas y modificables. | La retroalimentación describe acciones, no identidades. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad matemática; los apoyos acuerdan acceso y observación sin sustituir respuestas ni convertir la pauta en diagnóstico.
+
+### Clase 4 de 5: Aplicar con autonomía: Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros {#cl-06929}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar de manera observable «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros» dentro del OA matemático en curso, sin convertirlo en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros mientras resuelvo un desafío matemático.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias: una evidencia la habilidad o actitud mediante acciones matemáticas y otra solo la nombra. |
+| Modelado | 20 min | Modela cómo resolver una situación nueva y justificar decisiones y verbaliza cuándo aparece «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros», qué decisión exige y qué evidencia permite observarla sin juzgar rasgos personales. |
+| Práctica guiada | 25 min | Parejas resuelven un problema del OA en curso, usan una pauta de una conducta observable y mejoran su solución tras retroalimentación descriptiva. |
+| Desempeño individual | 25 min | Cada estudiante resuelve un caso nuevo y explica qué hizo para demostrar «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros». |
+| Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
+
+**Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
+
+**Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
+
+**Evidencia:** Solución matemática y registro individual de una acción observable vinculada con la habilidad o actitud.
+
+**Criterios de éxito:** mantiene el OA matemático; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra con autonomía, transfiérela a otro contexto.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño matemático, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería esta habilidad o actitud; no requiere información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir cuál acción evidencia el foco y justificar.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otra representación.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza la matemática | Vuelve a la meta del OA y observa el foco durante la resolución. | La evidencia demuestra contenido y transversalidad. |
+| La pauta etiqueta al estudiante | Reformula en acciones situadas y modificables. | La retroalimentación describe acciones, no identidades. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad matemática; los apoyos acuerdan acceso y observación sin sustituir respuestas ni convertir la pauta en diagnóstico.
+
+### Clase 5 de 5: Demostrar y retroalimentar: Argumentar y comunicar: Comprender y evaluar estrategias de resolución de problemas de otros {#cl-06930}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar de manera observable «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros» dentro del OA matemático en curso, sin convertirlo en una clase aislada.
+
+**Meta para estudiantes:** Hoy demostraré argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros mientras resuelvo un desafío matemático.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias: una evidencia la habilidad o actitud mediante acciones matemáticas y otra solo la nombra. |
+| Modelado | 20 min | Modela cómo producir evidencia final y decidir el paso siguiente y verbaliza cuándo aparece «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros», qué decisión exige y qué evidencia permite observarla sin juzgar rasgos personales. |
+| Práctica guiada | 25 min | Parejas resuelven un problema del OA en curso, usan una pauta de una conducta observable y mejoran su solución tras retroalimentación descriptiva. |
+| Desempeño individual | 25 min | Cada estudiante resuelve un caso nuevo y explica qué hizo para demostrar «argumentar y comunicar: comprender y evaluar estrategias de resolución de problemas de otros». |
+| Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
+
+**Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
+
+**Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
+
+**Evidencia:** Solución matemática y registro individual de una acción observable vinculada con la habilidad o actitud.
+
+**Criterios de éxito:** mantiene el OA matemático; hace observable la habilidad o actitud; revisa su actuación con evidencia.
+
+**Decisión posterior:** Si solo repite la formulación, vuelve a una acción concreta; si la demuestra con autonomía, transfiérela a otro contexto.
+
+**Adaptación a 45 minutos:** Conserva modelado, desempeño matemático, observación individual y ticket.
+
+**Tarea breve y flexible:** Explica con un ejemplo ficticio cómo se vería esta habilidad o actitud; no requiere información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: elegir cuál acción evidencia el foco y justificar.
+- Práctica: aplicar la pauta en un segundo intento.
+- Profundización: adaptar la conducta a otra representación.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite el foco sin mostrarlo | Pide nombrar acción, momento y evidencia. | Ejecuta una conducta observable. |
+| La integración desplaza la matemática | Vuelve a la meta del OA y observa el foco durante la resolución. | La evidencia demuestra contenido y transversalidad. |
+| La pauta etiqueta al estudiante | Reformula en acciones situadas y modificables. | La retroalimentación describe acciones, no identidades. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad matemática; los apoyos acuerdan acceso y observación sin sustituir respuestas ni convertir la pauta en diagnóstico.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

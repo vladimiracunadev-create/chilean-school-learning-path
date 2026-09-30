@@ -11,7 +11,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° básico | 257 | 1.136 | Desarrollo interno completo · 757 desarrolladas · 379 integradas · 0 pendientes · revisión humana pendiente |
 | 4° básico | 268 | 1.195 | Desarrollo interno completo · 811 desarrolladas · 384 integradas · 0 pendientes · revisión humana pendiente |
 | 5° básico | 295 | 1.340 | Desarrollo interno completo · 920 desarrolladas · 420 integradas · 0 pendientes · revisión humana pendiente |
-| 6° básico | 301 | 1.374 | Secuenciado |
+| 6° básico | 301 | 1.374 | Matemática completa: 98 desarrolladas + 88 integradas |
 | 7° básico | 275 | 1.275 | Secuenciado |
 | 8° básico | 253 | 1.201 | Secuenciado · 7 clases piloto desarrolladas |
 | 1° medio | 253 | 1.209 | Secuenciado |
@@ -19,7 +19,7 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **3.907 clases desarrolladas**, **1.877 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2°, 3°, 4° y 5° básico** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **4.005 clases desarrolladas**, **1.965 experiencias integradas**, **0 propuestas pendientes dentro de 1°, 2°, 3°, 4° y 5° básico**, Matemática de 6° completa y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -88,7 +88,7 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **3.907 clases desarrolladas*
 - [ ] Ejecutar revisión humana y registrar evidencia.
 
 ### Fases siguientes
-- [ ] Completar 6° básico.
+- [ ] Completar 6° básico; Matemática ya está resuelta (98 clases + 88 experiencias integradas).
 - [ ] Completar 7° y 8° básico.
 - [ ] Completar 1° y 2° medio.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.

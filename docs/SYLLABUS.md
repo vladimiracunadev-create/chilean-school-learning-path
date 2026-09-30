@@ -1,10 +1,10 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1°, 2°, 3°, 4° y 5° básico
+## Marco de reconstrucción de 1° a 5° básico y Matemática de 6°
 
-> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [🚧 5° parcial](5-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [🚧 6° parcial](6-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5° parcial: 345 + 173**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · Matemática de 6°: 98 + 88**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -22,6 +22,8 @@ Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currí
 
 En 5° básico, 193 OA de contenido se despliegan en 920 clases y 102 OA transversales en 420 experiencias integradas. Las doce denominaciones curriculares del inventario están completas y quedan 0 propuestas pendientes.
 
+En Matemática de 6° básico, 24 OA de contenido se despliegan en 98 clases y 20 OA transversales en 88 experiencias integradas. La asignatura está completa; el nivel continúa en desarrollo.
+
 El programa busca que la planificación sea:
 
 - **trazable**, porque conserva OA, eje, fuente y fecha;
@@ -32,7 +34,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1° a 5° básico que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° a 5° básico y de Matemática de 6° que necesitan preparar, adaptar o contrastar una secuencia.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.
@@ -134,6 +136,12 @@ Al utilizar el programa, el equipo docente podrá:
 | Inglés | 20 | 92 | [Leer](5-basico/ingles.md) |
 | Inglés (Propuesta) | 23 | 103 | [Leer](5-basico/ingles-propuesta.md) |
 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | [Leer](5-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+
+### 6° básico · Matemática completa; nivel en desarrollo
+
+| Asignatura | OA | Propuestas | Guía |
+|---|---:|---:|---|
+| Matemática | 44 | 186 | [Leer](6-basico/matematica.md) |
 
 Las doce denominaciones curriculares tienen desarrollo interno completo; habilidades y actitudes se integran dentro del contenido y no se cuentan como clases adicionales.
 
