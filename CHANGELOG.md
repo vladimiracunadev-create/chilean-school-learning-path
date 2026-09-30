@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-30 — 6° básico completo
+
+- Desarrollo de las once denominaciones pendientes: 854 clases disciplinares y 334 experiencias transversales integradas.
+- Cierre del nivel en 952 clases desarrolladas, 422 experiencias integradas, 301 OA, doce denominaciones curriculares y 0 propuestas pendientes.
+- Publicación de doce guías de asignatura con continuidad desde 5°, mapa técnico, índice completo y vista específica en GitHub Pages.
+- Secuencias diferenciadas por disciplina y OA, con evidencia individual, dificultades observables, apoyo, profundización y resguardos culturales, físicos, emocionales y digitales.
+- Estado global actualizado a 4.859 clases desarrolladas y 2.299 experiencias integradas; la revisión humana especializada continúa pendiente.
+
 ## 2026-09-29 — Matemática de 6° básico completa
 
 - Desarrollo de los 24 OA disciplinares en 98 clases específicas y diferenciadas.

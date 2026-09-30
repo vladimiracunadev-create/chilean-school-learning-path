@@ -20,6 +20,7 @@ from scripts.grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINI
 from scripts.grade_five_core_lessons import COUNTS as GRADE_FIVE_COUNTS, SEQUENCES as GRADE_FIVE_CORE_SEQUENCES, build_sequence as build_grade_five_core_sequence
 from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
 from scripts.grade_six_math_lessons import COUNTS as GRADE_SIX_MATH_COUNTS, SEQUENCES as GRADE_SIX_MATH_SEQUENCES, build_sequence as build_grade_six_math_sequence
+from scripts.grade_six_remaining_lessons import SEQUENCES as GRADE_SIX_REMAINING_SEQUENCES, build_sequence as build_grade_six_remaining_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -41,8 +42,8 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 4005)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 1965)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 4859)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 2299)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_first_grade_separates_developed_content_from_drafts(self):
@@ -54,7 +55,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 4005)
+        self.assertEqual(len(developed), 4859)
 
     def test_first_grade_mathematics_is_complete_without_double_counting_transversals(self):
         mathematics = [item for item in self.catalog["classes"] if item["course_order"] == 1 and item["subject_slug"] == "matematica"]
@@ -514,6 +515,47 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertIn(token, guide)
         self.assertTrue((ROOT / "site/docs/6-basico/matematica.html").is_file())
         self.assertTrue((ROOT / "site/levels/6-basico.html").is_file())
+
+    def test_sixth_grade_remaining_subjects_complete_the_level(self):
+        expected = {
+            "AR": (5, 27, 28, "artes-visuales"),
+            "CN": (18, 78, 53, "ciencias-naturales"),
+            "EF": (11, 50, 32, "educacion-fisica-salud"),
+            "HI": (26, 116, 96, "historia-geografia-ciencias-sociales"),
+            "IN": (16, 76, 16, "ingles"),
+            "EN": (15, 74, 32, "ingles-propuesta"),
+            "LC": (29, 144, 0, "lengua-cultura-pueblos-originarios-ancestrales"),
+            "LE": (31, 176, 29, "lenguaje-comunicacion"),
+            "MU": (8, 35, 28, "musica"),
+            "OR": (9, 41, 0, "orientacion"),
+            "TE": (7, 37, 20, "tecnologia"),
+        }
+        sixth = [item for item in self.catalog["classes"] if item["course_order"] == 6]
+        all_lessons = []
+        for prefix, (oa_count, developed_count, integrated_count, slug) in expected.items():
+            codes = sorted(code for code in GRADE_SIX_REMAINING_SEQUENCES if code.startswith(prefix))
+            lessons = [lesson for code in codes for lesson in build_grade_six_remaining_sequence(code)["lessons"]]
+            all_lessons.extend(lessons)
+            self.assertEqual((len(codes), len(lessons)), (oa_count, developed_count), prefix)
+            rows = [item for item in sixth if item["subject_slug"] == slug]
+            self.assertEqual(
+                (sum(item["editorial_status"] == "desarrollada" for item in rows), sum(item["editorial_status"] == "integrada" for item in rows)),
+                (developed_count, integrated_count),
+            )
+            guide = (ROOT / "docs/6-basico" / f"{slug}.md").read_text(encoding="utf-8")
+            for token in ("Continuidad con 5° básico", "Anatomía estable de cada clase", "Recorrido OA por OA", "Preparación y materiales", "Acceso y profundización"):
+                self.assertIn(token, guide, f"{slug}:{token}")
+            self.assertTrue((ROOT / "site/docs/6-basico" / f"{slug}.html").is_file(), slug)
+        self.assertEqual(len(all_lessons), 854)
+        for field in ("title", "opening", "model", "guided", "independent", "ticket"):
+            self.assertEqual(len({lesson[field] for lesson in all_lessons}), len(all_lessons), field)
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in all_lessons))
+        cultural = " ".join(str(build_grade_six_remaining_sequence(code)) for code in GRADE_SIX_REMAINING_SEQUENCES if code.startswith("LC06")).lower()
+        for safeguard in ("no inventa lengua", "fuente comunitaria", "educador tradicional", "no suplanta saberes comunitarios", "sin apropiarse"):
+            self.assertIn(safeguard, cultural)
+        self.assertEqual((len(sixth), sum(item["editorial_status"] == "desarrollada" for item in sixth), sum(item["editorial_status"] == "integrada" for item in sixth)), (1374, 952, 422))
+        self.assertFalse([item for item in sixth if item["editorial_status"] in {"secuenciada", "borrador"}])
+        self.assertTrue((ROOT / "docs/SEXTO_BASICO.md").is_file())
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]

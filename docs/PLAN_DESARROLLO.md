@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 6° básico — desarrollo en curso · **Asignatura activa:** Lenguaje y Comunicación · **Unidad de entrega:** nivel completo
+**Nivel activo:** 7° básico — siguiente nivel por desarrollar · **Asignatura activa:** Matemática · **Unidad de entrega:** nivel completo
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra una asignatura: deben cumplirse todos los gates y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -80,17 +80,17 @@ flowchart LR
 | 5° básico | 11 | Inglés (Propuesta) | 15 | 71 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 5° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 135 | 0 | Desarrollo interno completo · revisión humana pendiente |
 | 6° básico | 1 | Matemática | 24 | 98 | 20 | Desarrollo interno completo · revisión humana pendiente |
-| 6° básico | 2 | Lenguaje y Comunicación | 31 | 176 | 7 | Activa |
-| 6° básico | 3 | Ciencias Naturales | 18 | 78 | 13 | 0/18 OA desarrollados |
-| 6° básico | 4 | Historia, Geografía y Ciencias Sociales | 26 | 116 | 23 | 0/26 OA desarrollados |
-| 6° básico | 5 | Artes Visuales | 5 | 27 | 7 | 0/5 OA desarrollados |
-| 6° básico | 6 | Música | 8 | 35 | 7 | 0/8 OA desarrollados |
-| 6° básico | 7 | Educación Física y Salud | 11 | 50 | 8 | 0/11 OA desarrollados |
-| 6° básico | 8 | Orientación | 9 | 41 | 0 | 0/9 OA desarrollados |
-| 6° básico | 9 | Tecnología | 7 | 37 | 5 | 0/7 OA desarrollados |
-| 6° básico | 10 | Inglés | 16 | 76 | 4 | 0/16 OA desarrollados |
-| 6° básico | 11 | Inglés (Propuesta) | 15 | 74 | 8 | 0/15 OA desarrollados |
-| 6° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 144 | 0 | 0/29 OA desarrollados |
+| 6° básico | 2 | Lenguaje y Comunicación | 31 | 176 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 3 | Ciencias Naturales | 18 | 78 | 13 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 4 | Historia, Geografía y Ciencias Sociales | 26 | 116 | 23 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 5 | Artes Visuales | 5 | 27 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 6 | Música | 8 | 35 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 7 | Educación Física y Salud | 11 | 50 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 8 | Orientación | 9 | 41 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 9 | Tecnología | 7 | 37 | 5 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 10 | Inglés | 16 | 76 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 11 | Inglés (Propuesta) | 15 | 74 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 6° básico | 12 | Lengua y Cultura de los Pueblos Originarios Ancestrales | 29 | 144 | 0 | Desarrollo interno completo · revisión humana pendiente |
 
 ## Plan por asignatura e ítem
 
@@ -1370,156 +1370,156 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `LE06 OA 01` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-01) |
-| `LE06 OA 02` | Lectura - Comprensión | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-02) |
-| `LE06 OA 03` | Lectura - Comprensión | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-03) |
-| `LE06 OA 04` | Lectura - Comprensión | 7 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-04) |
-| `LE06 OA 05` | Lectura - Comprensión | 7 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-05) |
-| `LE06 OA 06` | Lectura - Comprensión | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-06) |
-| `LE06 OA 07` | Lectura - Comprensión | 7 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-07) |
-| `LE06 OA 08` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-08) |
-| `LE06 OA 09` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-09) |
-| `LE06 OA 10` | Lectura - Comprensión | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-10) |
-| `LE06 OA 11` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-11) |
-| `LE06 OA 12` | Lectura - Comprensión | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-12) |
-| `LE06 OA 13` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-13) |
-| `LE06 OA 14` | Escritura - Producción | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-14) |
-| `LE06 OA 15` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-15) |
-| `LE06 OA 16` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-16) |
-| `LE06 OA 17` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-17) |
-| `LE06 OA 18` | Escritura - Producción | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-18) |
-| `LE06 OA 19` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-19) |
-| `LE06 OA 20` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-20) |
-| `LE06 OA 21` | Escritura - Producción | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-21) |
-| `LE06 OA 22` | Escritura - Producción | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-22) |
-| `LE06 OA 23` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-23) |
-| `LE06 OA 24` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-24) |
-| `LE06 OA 25` | Comunicación oral | 7 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-25) |
-| `LE06 OA 26` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-26) |
-| `LE06 OA 27` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-27) |
-| `LE06 OA 28` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-28) |
-| `LE06 OA 29` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-29) |
-| `LE06 OA 30` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-30) |
-| `LE06 OA 31` | Comunicación oral | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-31) |
+| `LE06 OA 01` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-01) |
+| `LE06 OA 02` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-02) |
+| `LE06 OA 03` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-03) |
+| `LE06 OA 04` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-04) |
+| `LE06 OA 05` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-05) |
+| `LE06 OA 06` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-06) |
+| `LE06 OA 07` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-07) |
+| `LE06 OA 08` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-08) |
+| `LE06 OA 09` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-09) |
+| `LE06 OA 10` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-10) |
+| `LE06 OA 11` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-11) |
+| `LE06 OA 12` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-12) |
+| `LE06 OA 13` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-13) |
+| `LE06 OA 14` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-14) |
+| `LE06 OA 15` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-15) |
+| `LE06 OA 16` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-16) |
+| `LE06 OA 17` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-17) |
+| `LE06 OA 18` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-18) |
+| `LE06 OA 19` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-19) |
+| `LE06 OA 20` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-20) |
+| `LE06 OA 21` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-21) |
+| `LE06 OA 22` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-22) |
+| `LE06 OA 23` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-23) |
+| `LE06 OA 24` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-24) |
+| `LE06 OA 25` | Comunicación oral | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-25) |
+| `LE06 OA 26` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-26) |
+| `LE06 OA 27` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-27) |
+| `LE06 OA 28` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-28) |
+| `LE06 OA 29` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-29) |
+| `LE06 OA 30` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-30) |
+| `LE06 OA 31` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lenguaje-comunicacion/6-basico/le06-oa-31) |
 
-**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 176 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 29 experiencias dentro de las 176 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Ciencias Naturales · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `CN06 OA 01` | Ciencias de la Vida | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-01) |
-| `CN06 OA 02` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-02) |
-| `CN06 OA 03` | Ciencias de la Vida | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-03) |
-| `CN06 OA 04` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-04) |
-| `CN06 OA 05` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-05) |
-| `CN06 OA 06` | Ciencias de la Vida | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-06) |
-| `CN06 OA 07` | Ciencias de la Vida | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-07) |
-| `CN06 OA 08` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-08) |
-| `CN06 OA 09` | Ciencias Físicas y Químicas | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-09) |
-| `CN06 OA 10` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-10) |
-| `CN06 OA 11` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-11) |
-| `CN06 OA 12` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-12) |
-| `CN06 OA 13` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-13) |
-| `CN06 OA 14` | Ciencias Físicas y Químicas | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-14) |
-| `CN06 OA 15` | Ciencias Físicas y Químicas | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-15) |
-| `CN06 OA 16` | Ciencias de la Tierra y el Universo | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-16) |
-| `CN06 OA 17` | Ciencias de la Tierra y el Universo | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-17) |
-| `CN06 OA 18` | Ciencias de la Tierra y el Universo | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-18) |
+| `CN06 OA 01` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-01) |
+| `CN06 OA 02` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-02) |
+| `CN06 OA 03` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-03) |
+| `CN06 OA 04` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-04) |
+| `CN06 OA 05` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-05) |
+| `CN06 OA 06` | Ciencias de la Vida | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-06) |
+| `CN06 OA 07` | Ciencias de la Vida | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-07) |
+| `CN06 OA 08` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-08) |
+| `CN06 OA 09` | Ciencias Físicas y Químicas | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-09) |
+| `CN06 OA 10` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-10) |
+| `CN06 OA 11` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-11) |
+| `CN06 OA 12` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-12) |
+| `CN06 OA 13` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-13) |
+| `CN06 OA 14` | Ciencias Físicas y Químicas | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-14) |
+| `CN06 OA 15` | Ciencias Físicas y Químicas | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-15) |
+| `CN06 OA 16` | Ciencias de la Tierra y el Universo | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-16) |
+| `CN06 OA 17` | Ciencias de la Tierra y el Universo | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-17) |
+| `CN06 OA 18` | Ciencias de la Tierra y el Universo | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ciencias-naturales/6-basico/cn06-oa-18) |
 
-**Integración transversal documentada:** 13 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 78 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 13 ítems de habilidades o actitudes se incorporan en 53 experiencias dentro de las 78 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Historia, Geografía y Ciencias Sociales · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `HI06 OA 01` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-01) |
-| `HI06 OA 02` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-02) |
-| `HI06 OA 03` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-03) |
-| `HI06 OA 04` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-04) |
-| `HI06 OA 05` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-05) |
-| `HI06 OA 06` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-06) |
-| `HI06 OA 07` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-07) |
-| `HI06 OA 08` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-08) |
-| `HI06 OA 09` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-09) |
-| `HI06 OA 10` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-10) |
-| `HI06 OA 11` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-11) |
-| `HI06 OA 12` | Geografía | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-12) |
-| `HI06 OA 13` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-13) |
-| `HI06 OA 14` | Geografía | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-14) |
-| `HI06 OA 15` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-15) |
-| `HI06 OA 16` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-16) |
-| `HI06 OA 17` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-17) |
-| `HI06 OA 18` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-18) |
-| `HI06 OA 19` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-19) |
-| `HI06 OA 20` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-20) |
-| `HI06 OA 21` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-21) |
-| `HI06 OA 22` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-22) |
-| `HI06 OA 23` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-23) |
-| `HI06 OA 24` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-24) |
-| `HI06 OA 25` | Formación ciudadana | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-25) |
-| `HI06 OA 26` | Formación ciudadana | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-26) |
+| `HI06 OA 01` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-01) |
+| `HI06 OA 02` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-02) |
+| `HI06 OA 03` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-03) |
+| `HI06 OA 04` | Historia | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-04) |
+| `HI06 OA 05` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-05) |
+| `HI06 OA 06` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-06) |
+| `HI06 OA 07` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-07) |
+| `HI06 OA 08` | Historia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-08) |
+| `HI06 OA 09` | Historia | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-09) |
+| `HI06 OA 10` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-10) |
+| `HI06 OA 11` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-11) |
+| `HI06 OA 12` | Geografía | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-12) |
+| `HI06 OA 13` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-13) |
+| `HI06 OA 14` | Geografía | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-14) |
+| `HI06 OA 15` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-15) |
+| `HI06 OA 16` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-16) |
+| `HI06 OA 17` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-17) |
+| `HI06 OA 18` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-18) |
+| `HI06 OA 19` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-19) |
+| `HI06 OA 20` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-20) |
+| `HI06 OA 21` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-21) |
+| `HI06 OA 22` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-22) |
+| `HI06 OA 23` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-23) |
+| `HI06 OA 24` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-24) |
+| `HI06 OA 25` | Formación ciudadana | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-25) |
+| `HI06 OA 26` | Formación ciudadana | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/historia-geografia-ciencias-sociales/6-basico/hi06-oa-26) |
 
-**Integración transversal documentada:** 23 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 116 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 23 ítems de habilidades o actitudes se incorporan en 96 experiencias dentro de las 116 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Artes Visuales · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `AR06 OA 01` | Expresar y crear visualmente | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-01) |
-| `AR06 OA 02` | Expresar y crear visualmente | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-02) |
-| `AR06 OA 03` | Expresar y crear visualmente | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-03) |
-| `AR06 OA 04` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-04) |
-| `AR06 OA 05` | Apreciar y responder frente al arte | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-05) |
+| `AR06 OA 01` | Expresar y crear visualmente | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-01) |
+| `AR06 OA 02` | Expresar y crear visualmente | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-02) |
+| `AR06 OA 03` | Expresar y crear visualmente | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-03) |
+| `AR06 OA 04` | Apreciar y responder frente al arte | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-04) |
+| `AR06 OA 05` | Apreciar y responder frente al arte | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/artes-visuales/6-basico/ar06-oa-05) |
 
-**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 27 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 27 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Música · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `MU06 OA 01` | Escuchar y apreciar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-01) |
-| `MU06 OA 02` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-02) |
-| `MU06 OA 03` | Escuchar y apreciar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-03) |
-| `MU06 OA 04` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-04) |
-| `MU06 OA 05` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-05) |
-| `MU06 OA 06` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-06) |
-| `MU06 OA 07` | Reflexionar y contextualizar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-07) |
-| `MU06 OA 08` | Reflexionar y contextualizar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-08) |
+| `MU06 OA 01` | Escuchar y apreciar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-01) |
+| `MU06 OA 02` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-02) |
+| `MU06 OA 03` | Escuchar y apreciar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-03) |
+| `MU06 OA 04` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-04) |
+| `MU06 OA 05` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-05) |
+| `MU06 OA 06` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-06) |
+| `MU06 OA 07` | Reflexionar y contextualizar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-07) |
+| `MU06 OA 08` | Reflexionar y contextualizar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/musica/6-basico/mu06-oa-08) |
 
-**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 35 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 35 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Educación Física y Salud · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EF06 OA 01` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-01) |
-| `EF06 OA 02` | Habilidades motrices | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-02) |
-| `EF06 OA 03` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-03) |
-| `EF06 OA 04` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-04) |
-| `EF06 OA 05` | Habilidades motrices | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-05) |
-| `EF06 OA 06` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-06) |
-| `EF06 OA 07` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-07) |
-| `EF06 OA 08` | Vida activa y saludable | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-08) |
-| `EF06 OA 09` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-09) |
-| `EF06 OA 10` | Seguridad, juego limpio y liderazgo | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-10) |
-| `EF06 OA 11` | Seguridad, juego limpio y liderazgo | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-11) |
+| `EF06 OA 01` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-01) |
+| `EF06 OA 02` | Habilidades motrices | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-02) |
+| `EF06 OA 03` | Habilidades motrices | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-03) |
+| `EF06 OA 04` | Habilidades motrices | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-04) |
+| `EF06 OA 05` | Habilidades motrices | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-05) |
+| `EF06 OA 06` | Vida activa y saludable | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-06) |
+| `EF06 OA 07` | Vida activa y saludable | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-07) |
+| `EF06 OA 08` | Vida activa y saludable | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-08) |
+| `EF06 OA 09` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-09) |
+| `EF06 OA 10` | Seguridad, juego limpio y liderazgo | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-10) |
+| `EF06 OA 11` | Seguridad, juego limpio y liderazgo | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/educacion-fisica-salud/6-basico/ef06-oa-11) |
 
-**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 50 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 32 experiencias dentro de las 50 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Orientación · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `OR06 OA 01` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-01) |
-| `OR06 OA 02` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-02) |
-| `OR06 OA 03` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-03) |
-| `OR06 OA 04` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-04) |
-| `OR06 OA 05` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-05) |
-| `OR06 OA 06` | Relaciones interpersonales | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-06) |
-| `OR06 OA 07` | Relaciones interpersonales | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-07) |
-| `OR06 OA 08` | Participación y pertenencia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-08) |
-| `OR06 OA 09` | Trabajo escolar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-09) |
+| `OR06 OA 01` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-01) |
+| `OR06 OA 02` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-02) |
+| `OR06 OA 03` | Crecimiento personal | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-03) |
+| `OR06 OA 04` | Crecimiento personal | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-04) |
+| `OR06 OA 05` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-05) |
+| `OR06 OA 06` | Relaciones interpersonales | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-06) |
+| `OR06 OA 07` | Relaciones interpersonales | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-07) |
+| `OR06 OA 08` | Participación y pertenencia | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-08) |
+| `OR06 OA 09` | Trabajo escolar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/orientacion/6-basico/or06-oa-09) |
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
@@ -1527,94 +1527,94 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `TE06 OA 01` | Diseñar, hacer y probar | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-01) |
-| `TE06 OA 02` | Diseñar, hacer y probar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-02) |
-| `TE06 OA 03` | Diseñar, hacer y probar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-03) |
-| `TE06 OA 04` | Diseñar, hacer y probar | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-04) |
-| `TE06 OA 05` | Tecnologías de la información y la comunicación | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-05) |
-| `TE06 OA 06` | Tecnologías de la información y la comunicación | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-06) |
-| `TE06 OA 07` | Tecnologías de la información y la comunicación | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-07) |
+| `TE06 OA 01` | Diseñar, hacer y probar | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-01) |
+| `TE06 OA 02` | Diseñar, hacer y probar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-02) |
+| `TE06 OA 03` | Diseñar, hacer y probar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-03) |
+| `TE06 OA 04` | Diseñar, hacer y probar | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-04) |
+| `TE06 OA 05` | Tecnologías de la información y la comunicación | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-05) |
+| `TE06 OA 06` | Tecnologías de la información y la comunicación | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-06) |
+| `TE06 OA 07` | Tecnologías de la información y la comunicación | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/tecnologia/6-basico/te06-oa-07) |
 
-**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 37 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 20 experiencias dentro de las 37 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Inglés · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `IN06 OA 01` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-01) |
-| `IN06 OA 02` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-02) |
-| `IN06 OA 03` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-03) |
-| `IN06 OA 04` | Comprensión auditiva | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-04) |
-| `IN06 OA 05` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-05) |
-| `IN06 OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-06) |
-| `IN06 OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-07) |
-| `IN06 OA 08` | Comprensión de lectura | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-08) |
-| `IN06 OA 09` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-09) |
-| `IN06 OA 10` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-10) |
-| `IN06 OA 11` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-11) |
-| `IN06 OA 12` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-12) |
-| `IN06 OA 13` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-13) |
-| `IN06 OA 14` | Expresión escrita | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-14) |
-| `IN06 OA 15` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-15) |
-| `IN06 OA 16` | Expresión escrita | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-16) |
+| `IN06 OA 01` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-01) |
+| `IN06 OA 02` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-02) |
+| `IN06 OA 03` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-03) |
+| `IN06 OA 04` | Comprensión auditiva | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-04) |
+| `IN06 OA 05` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-05) |
+| `IN06 OA 06` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-06) |
+| `IN06 OA 07` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-07) |
+| `IN06 OA 08` | Comprensión de lectura | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-08) |
+| `IN06 OA 09` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-09) |
+| `IN06 OA 10` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-10) |
+| `IN06 OA 11` | Expresión oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-11) |
+| `IN06 OA 12` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-12) |
+| `IN06 OA 13` | Expresión oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-13) |
+| `IN06 OA 14` | Expresión escrita | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-14) |
+| `IN06 OA 15` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-15) |
+| `IN06 OA 16` | Expresión escrita | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles/6-basico/in06-oa-16) |
 
-**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 76 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 16 experiencias dentro de las 76 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Inglés (Propuesta) · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EN06 OA 01` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-01) |
-| `EN06 OA 02` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-02) |
-| `EN06 OA 03` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-03) |
-| `EN06 OA 04` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-04) |
-| `EN06 OA 05` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-05) |
-| `EN06 OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-06) |
-| `EN06 OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-07) |
-| `EN06 OA 08` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-08) |
-| `EN06 OA 09` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-09) |
-| `EN06 OA 10` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-10) |
-| `EN06 OA 11` | Expresión oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-11) |
-| `EN06 OA 12` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-12) |
-| `EN06 OA 13` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-13) |
-| `EN06 OA 14` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-14) |
-| `EN06 OA 15` | Expresión escrita | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-15) |
+| `EN06 OA 01` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-01) |
+| `EN06 OA 02` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-02) |
+| `EN06 OA 03` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-03) |
+| `EN06 OA 04` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-04) |
+| `EN06 OA 05` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-05) |
+| `EN06 OA 06` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-06) |
+| `EN06 OA 07` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-07) |
+| `EN06 OA 08` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-08) |
+| `EN06 OA 09` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-09) |
+| `EN06 OA 10` | Expresión oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-10) |
+| `EN06 OA 11` | Expresión oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-11) |
+| `EN06 OA 12` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-12) |
+| `EN06 OA 13` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-13) |
+| `EN06 OA 14` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-14) |
+| `EN06 OA 15` | Expresión escrita | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/ingles-propuesta/6-basico/en06-oa-15) |
 
-**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 74 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 32 experiencias dentro de las 74 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Lengua y Cultura de los Pueblos Originarios Ancestrales · 6° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `LC06 OA LF01` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf01) |
-| `LC06 OA LF02` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf02) |
-| `LC06 OA LF03` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf03) |
-| `LC06 OA LF04` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf04) |
-| `LC06 OA LF05` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf05) |
-| `LC06 OA LF06` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf06) |
-| `LC06 OA LR01` | Contexto de rescate y revitalización de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr01) |
-| `LC06 OA LR02` | Contexto de rescate y revitalización de la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr02) |
-| `LC06 OA LR03` | Contexto de rescate y revitalización de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr03) |
-| `LC06 OA LR04` | Contexto de rescate y revitalización de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr04) |
-| `LC06 OA LR05` | Contexto de rescate y revitalización de la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr05) |
-| `LC06 OA LR06` | Contexto de rescate y revitalización de la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr06) |
-| `LC06 OA LS01` | Contexto de Sensibilización sobre la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls01) |
-| `LC06 OA LS02` | Contexto de Sensibilización sobre la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls02) |
-| `LC06 OA LS03` | Contexto de Sensibilización sobre la lengua | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls03) |
-| `LC06 OA LS04` | Contexto de Sensibilización sobre la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls04) |
-| `LC06 OA LS05` | Contexto de Sensibilización sobre la lengua | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls05) |
-| `LC06 OA LS06` | Contexto de Sensibilización sobre la lengua | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls06) |
-| `LC06 OA 10` | Cosmovisión de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-10) |
-| `LC06 OA 11` | Cosmovisión de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-11) |
-| `LC06 OA 12` | Cosmovisión de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-12) |
-| `LC06 OA 13` | Cosmovisión de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-13) |
-| `LC06 OA 14` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-14) |
-| `LC06 OA 15` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-15) |
-| `LC06 OA 16` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-16) |
-| `LC06 OA 17` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-17) |
-| `LC06 OA 07` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-07) |
-| `LC06 OA 08` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-08) |
-| `LC06 OA 09` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-09) |
+| `LC06 OA LF01` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf01) |
+| `LC06 OA LF02` | Contexto de fortalecimiento y desarrollo de la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf02) |
+| `LC06 OA LF03` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf03) |
+| `LC06 OA LF04` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf04) |
+| `LC06 OA LF05` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf05) |
+| `LC06 OA LF06` | Contexto de fortalecimiento y desarrollo de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lf06) |
+| `LC06 OA LR01` | Contexto de rescate y revitalización de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr01) |
+| `LC06 OA LR02` | Contexto de rescate y revitalización de la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr02) |
+| `LC06 OA LR03` | Contexto de rescate y revitalización de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr03) |
+| `LC06 OA LR04` | Contexto de rescate y revitalización de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr04) |
+| `LC06 OA LR05` | Contexto de rescate y revitalización de la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr05) |
+| `LC06 OA LR06` | Contexto de rescate y revitalización de la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-lr06) |
+| `LC06 OA LS01` | Contexto de Sensibilización sobre la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls01) |
+| `LC06 OA LS02` | Contexto de Sensibilización sobre la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls02) |
+| `LC06 OA LS03` | Contexto de Sensibilización sobre la lengua | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls03) |
+| `LC06 OA LS04` | Contexto de Sensibilización sobre la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls04) |
+| `LC06 OA LS05` | Contexto de Sensibilización sobre la lengua | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls05) |
+| `LC06 OA LS06` | Contexto de Sensibilización sobre la lengua | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-ls06) |
+| `LC06 OA 10` | Cosmovisión de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-10) |
+| `LC06 OA 11` | Cosmovisión de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-11) |
+| `LC06 OA 12` | Cosmovisión de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-12) |
+| `LC06 OA 13` | Cosmovisión de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-13) |
+| `LC06 OA 14` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-14) |
+| `LC06 OA 15` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-15) |
+| `LC06 OA 16` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-16) |
+| `LC06 OA 17` | Patrimonio, tecnologías, técnicas, ciencias y artes ancestrales de los pueblos originarios | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-17) |
+| `LC06 OA 07` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-07) |
+| `LC06 OA 08` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-08) |
+| `LC06 OA 09` | Territorio, territorialidad, identidad y memoria histórica de los pueblos originarios | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/1o-6o-basico/lengua-cultura-pueblos-originarios-ancestrales/6-basico/lc06-oa-09) |
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
@@ -1626,7 +1626,7 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 5 y matematica 6 | Las asignaturas de 1° a 5° y Matemática de 6° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5° conserva separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
+| Documental y fuentes | control interno completo niveles 1 a 6 | Las asignaturas de 1° a 6° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5° y 6° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates para cerrar una asignatura

@@ -1,6 +1,6 @@
 # Matemática · 6° básico
 
-[⬅️ Índice de 6° básico](README.md)
+[⬅️ Índice de 6° básico](README.md) · [← Lenguaje y Comunicación](lenguaje-comunicacion.md) · [Música →](musica.md)
 
 **24 OA de contenido · 98 clases desarrolladas · 20 OA transversales · 88 experiencias integradas · 10 ejes curriculares · revisión humana pendiente**
 
