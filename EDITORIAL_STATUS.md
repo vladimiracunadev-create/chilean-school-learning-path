@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-30**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores; las propuestas pendientes permanecen secuenciadas |
-| Desarrollada | 6.094 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 3.179 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 6.383 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 3.244 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 7° básico tienen desarrollo interno completo**. En 8°, seis asignaturas reúnen 482 clases disciplinares y 365 experiencias integradas; las demás asignaturas conservan 354 propuestas secuenciadas.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 8° básico tienen desarrollo interno completo**. En esos niveles no quedan propuestas secuenciadas ni borradores; la revisión humana permanece separada y pendiente.
 
 ## Reconstrucción de 1° básico
 
@@ -138,7 +138,7 @@ Las 1.340 entradas del nivel están resueltas. [Ver programa completo de 5° bá
 
 Las doce denominaciones cumplen el contrato automatizado y cuentan con [índice y guías propias](docs/7-basico/README.md). No quedan fichas secuenciadas ni borradores en 7° básico.
 
-## Desarrollo parcial de 8° básico
+## Desarrollo completo de 8° básico
 
 | Asignatura | OA de contenido | Clases desarrolladas | OA transversales | Experiencias integradas | Pendientes en la asignatura |
 |---|---:|---:|---:|---:|---:|
@@ -148,10 +148,15 @@ Las doce denominaciones cumplen el contrato automatizado y cuentan con [índice 
 | Historia, Geografía y Ciencias Sociales | 22 | 117 | 20 | 91 | 0 |
 | Artes Visuales | 6 | 29 | 8 | 33 | 0 |
 | Música | 7 | 30 | 9 | 37 | 0 |
-| Otras asignaturas del nivel | — | 0 | — | 0 | 354 |
-| **Total de 8° básico** | **93** | **482** | **85** | **365** | **354** |
+| Educación Física y Salud | 5 | 26 | 7 | 28 | 0 |
+| Orientación | 10 | 49 | 0 | 0 | 0 |
+| Tecnología | 6 | 26 | 4 | 16 | 0 |
+| Inglés | 16 | 80 | 5 | 21 | 0 |
+| Inglés (Propuesta) | 13 | 65 | 0 | 0 | 0 |
+| Lengua Indígena | 9 | 43 | 0 | 0 | 0 |
+| **Total de 8° básico** | **152** | **771** | **101** | **430** | **0** |
 
-Las seis asignaturas desarrolladas mantienen continuidad explícita con 7°, secuencias OA por OA y el contrato de aula completo. El nivel continúa en desarrollo y no se declara completo.
+Las doce denominaciones mantienen continuidad explícita con 7°, secuencias OA por OA y el contrato de aula completo. El nivel se declara con desarrollo interno completo, pero no revisado: siguen pendientes la revisión profesional y el pilotaje documentado.
 
 ## Cobertura publicada
 

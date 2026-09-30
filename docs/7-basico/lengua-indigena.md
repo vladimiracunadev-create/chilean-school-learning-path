@@ -97,3 +97,9 @@ Cada clase propone tres dificultades observables con acción inmediata y comprob
 - [Protocolo de revisión humana](../REVISION_HUMANA.md)
 
 El contenido cumple el contrato automatizado, pero no se declara revisado por especialistas hasta registrar evidencia competente.
+
+## Resguardos culturales
+
+- No se inventan palabras, pronunciaciones, grafías, relatos ni significados espirituales.
+- Se coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente.
+- No se reproducen ceremonias, símbolos o prácticas restringidas sin autorización.

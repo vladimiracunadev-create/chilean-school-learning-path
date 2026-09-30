@@ -1975,18 +1975,18 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Ciencias Naturales | [de Actitud CN08 OAA F · Demostrar valoración y cuidado por la salud y la integridad de las personas, evitando conductas de…](curriculum/8-basico/ciencias-naturales/de-actitud-cn08-oaa-f.md) | 4 | formacion-general-comun |
 | Ciencias Naturales | [de Actitud CN08 OAA G · Reconocer la importancia del entorno natural y sus recursos, y manifestar conductas de cuidado y uso…](curriculum/8-basico/ciencias-naturales/de-actitud-cn08-oaa-g.md) | 4 | formacion-general-comun |
 | Ciencias Naturales | [de Actitud CN08 OAA H · Demostrar valoración e interés por los aportes de hombres y mujeres al conocimiento científico y…](curriculum/8-basico/ciencias-naturales/de-actitud-cn08-oaa-h.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [EF08 OA 01 · Seleccionar, combinar y aplicar con mayor dominio las habilidades motrices específicas de locomoción,…](curriculum/8-basico/educacion-fisica-salud/ef08-oa-01.md) | 5 | formacion-general-comun |
-| Educación Física y Salud | [EF08 OA 02 · Seleccionar, evaluar y aplicar estrategias y tácticas específicas para la resolución de problemas…](curriculum/8-basico/educacion-fisica-salud/ef08-oa-02.md) | 6 | formacion-general-comun |
-| Educación Física y Salud | [EF08 OA 03 · Desarrollar la resistencia cardiovascular, la fuerza muscular, la velocidad y la flexibilidad para…](curriculum/8-basico/educacion-fisica-salud/ef08-oa-03.md) | 5 | formacion-general-comun |
-| Educación Física y Salud | [EF08 OA 04 · Practicar regularmente una variedad de actividades físicas alternativas y/o deportivas en diferentes…](curriculum/8-basico/educacion-fisica-salud/ef08-oa-04.md) | 5 | formacion-general-comun |
-| Educación Física y Salud | [EF08 OA 05 · Participar y promover una variedad de actividades físicas y/o deportivas de su interés y que se…](curriculum/8-basico/educacion-fisica-salud/ef08-oa-05.md) | 5 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA A · Demostrar respeto por los demás al participar en actividades físicas y/o deportivas](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-a.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA B · Promover la participación de todos en las actividades físicas, valorando la diversidad de las…](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-b.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA C · Trabajar en equipo, asumiendo responsablemente roles y tareas, colaborando con otros y aceptando…](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-c.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA D · Apreciar la práctica regular de actividades físicas y deportivas como fuente de bienestar, recreación…](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-d.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA E · Demostrar valoración de la práctica regular de actividades físicas y/o deportivas como medios de…](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-e.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA F · Demostrar iniciativa en la promoción de una vida activa y los deportes, con sus compañeros y en la…](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-f.md) | 4 | formacion-general-comun |
-| Educación Física y Salud | [de Actitud EF08 OAA G · Cuidar el medio ambiente, la infraestructura y los materiales utilizados durante la práctica de…](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-g.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [EF08 OA 01 · Habilidades motrices específicas en deportes y danza](curriculum/8-basico/educacion-fisica-salud/ef08-oa-01.md) | 5 | formacion-general-comun |
+| Educación Física y Salud | [EF08 OA 02 · Estrategias y tácticas para resolver problemas de juego](curriculum/8-basico/educacion-fisica-salud/ef08-oa-02.md) | 6 | formacion-general-comun |
+| Educación Física y Salud | [EF08 OA 03 · Condición física saludable y principios de entrenamiento](curriculum/8-basico/educacion-fisica-salud/ef08-oa-03.md) | 5 | formacion-general-comun |
+| Educación Física y Salud | [EF08 OA 04 · Actividad física regular, autocuidado y seguridad](curriculum/8-basico/educacion-fisica-salud/ef08-oa-04.md) | 5 | formacion-general-comun |
+| Educación Física y Salud | [EF08 OA 05 · Promoción y organización de actividad física comunitaria](curriculum/8-basico/educacion-fisica-salud/ef08-oa-05.md) | 5 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA A · Demostrar respeto por los demás al participar en actividades físicas y/o deportivas; por ejemplo: aplicar el principio de juego limpio, llegar a acuerdos, jugar en forma cooperativa, aceptar el resultado y manejar el triunfo, entre otros](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-a.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA B · Promover la participación de todos en las actividades físicas, valorando la diversidad de las personas, sin discriminar por características como altura, peso, color de piel, origen, condición física, discapacidades, etc](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-b.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA C · Trabajar en equipo, asumiendo responsablemente roles y tareas, colaborando con otros y aceptando consejos y críticas](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-c.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA D · Apreciar la práctica regular de actividades físicas y deportivas como fuente de bienestar, recreación y crecimiento en lo personal y social](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-d.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA E · Demostrar valoración de la práctica regular de actividades físicas y/o deportivas como medios de crecimiento, bienestar y recreación personal y social](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-e.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA F · Demostrar iniciativa en la promoción de una vida activa y los deportes, con sus compañeros y en la comunidad escolar](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-f.md) | 4 | formacion-general-comun |
+| Educación Física y Salud | [de Actitud EF08 OAA G · Cuidar el medio ambiente, la infraestructura y los materiales utilizados durante la práctica de actividad física y/o deportiva](curriculum/8-basico/educacion-fisica-salud/de-actitud-ef08-oaa-g.md) | 4 | formacion-general-comun |
 | Historia, Geografía y Ciencias Sociales | [HI08 OA 01 · Humanismo y Renacimiento](curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-01.md) | 5 | formacion-general-comun |
 | Historia, Geografía y Ciencias Sociales | [HI08 OA 02 · De la sociedad medieval a la moderna](curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-02.md) | 5 | formacion-general-comun |
 | Historia, Geografía y Ciencias Sociales | [HI08 OA 03 · Formación y rasgos del Estado moderno](curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-03.md) | 5 | formacion-general-comun |
@@ -2029,49 +2029,49 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Historia, Geografía y Ciencias Sociales | [de Actitud HI08 OAA H · Desarrollar actitudes favorables a la protección del medio ambiente, demostrando conciencia de su…](curriculum/8-basico/historia-geografia-ciencias-sociales/de-actitud-hi08-oaa-h.md) | 4 | formacion-general-comun |
 | Historia, Geografía y Ciencias Sociales | [de Actitud HI08 OAA I · Demostrar una actitud propositiva para contribuir al desarrollo de la sociedad, mediante iniciativas…](curriculum/8-basico/historia-geografia-ciencias-sociales/de-actitud-hi08-oaa-i.md) | 4 | formacion-general-comun |
 | Historia, Geografía y Ciencias Sociales | [de Actitud HI08 OAA J · Usar de manera responsable y efectiva las tecnologías de la comunicación para la obtención de…](curriculum/8-basico/historia-geografia-ciencias-sociales/de-actitud-hi08-oaa-j.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 01 · Demostrar comprensión de ideas generales e información explícita en textos orales adaptados y…](curriculum/8-basico/ingles/in08-oa-01.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 02 · Identificar palabras y frases clave, expresiones de uso frecuente, vocabulario temático, conectores…](curriculum/8-basico/ingles/in08-oa-02.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 03 · Identificar en los textos escuchados](curriculum/8-basico/ingles/in08-oa-03.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 04 · Identificar y usar estrategias para apoyar la comprensión de los textos escuchados](curriculum/8-basico/ingles/in08-oa-04.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 05 · Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…](curriculum/8-basico/ingles/in08-oa-05.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 06 · Participar en interacciones y exposiciones recurriendo a las siguientes estrategias para expresarse…](curriculum/8-basico/ingles/in08-oa-06.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 07 · Reaccionar a textos leídos o escuchados por medio de exposiciones orales o en discusiones y…](curriculum/8-basico/ingles/in08-oa-07.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 08 · Demostrar conocimiento y uso del lenguaje en conversaciones, discusiones y exposiciones por medio de…](curriculum/8-basico/ingles/in08-oa-08.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 09 · Demostrar comprensión de ideas generales e información explícita en textos adaptados y auténticos…](curriculum/8-basico/ingles/in08-oa-09.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 10 · Demostrar comprensión de textos no literarios (como descripciones, artículos de revista,…](curriculum/8-basico/ingles/in08-oa-10.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 11 · Demostrar comprensión de textos literarios (como canciones o poemas, tiras cómicas, cuentos breves y…](curriculum/8-basico/ingles/in08-oa-11.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 12 · Identificar y usar estrategias para apoyar la comprensión de los textos leídos](curriculum/8-basico/ingles/in08-oa-12.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 13 · Escribir historias e información relevante, usando diversos recursos multimodales que refuercen el…](curriculum/8-basico/ingles/in08-oa-13.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 14 · Escribir una variedad de textos breves, como cuentos, correos electrónicos, folletos, rimas,…](curriculum/8-basico/ingles/in08-oa-14.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 15 · Escribir para informar, expresar opiniones y narrar, usando](curriculum/8-basico/ingles/in08-oa-15.md) | 5 | formacion-general-comun |
-| Inglés | [IN08 OA 16 · Demostrar conocimiento y uso del lenguaje en sus textos escritos por medio de las siguientes funciones](curriculum/8-basico/ingles/in08-oa-16.md) | 5 | formacion-general-comun |
-| Inglés | [de Actitud IN08 OAA A · Manifestar una actitud positiva frente a sí mismo y sus capacidades para aprender y usar el idioma,…](curriculum/8-basico/ingles/de-actitud-in08-oaa-a.md) | 4 | formacion-general-comun |
-| Inglés | [de Actitud IN08 OAA B · Desarrollar una conciencia cultural o comprensión intercultural, demostrando interés, respeto y…](curriculum/8-basico/ingles/de-actitud-in08-oaa-b.md) | 4 | formacion-general-comun |
-| Inglés | [de Actitud IN08 OAA C · Demostrar interés por el aprendizaje continuo e independiente como parte de un proyecto personal y…](curriculum/8-basico/ingles/de-actitud-in08-oaa-c.md) | 4 | formacion-general-comun |
-| Inglés | [de Actitud IN08 OAA D · Trabajar responsablemente en forma proactiva y colaborativa con una meta en común, y demostrando…](curriculum/8-basico/ingles/de-actitud-in08-oaa-d.md) | 4 | formacion-general-comun |
-| Inglés | [de Actitud IN08 OAA E · Usar de manera responsable y efectiva las tecnologías de la comunicación en la obtención de…](curriculum/8-basico/ingles/de-actitud-in08-oaa-e.md) | 5 | formacion-general-comun |
-| Inglés (Propuesta) | [EN08 OA 01 · Demostrar comprensión detextos orales adaptados yauténticos simples,literarios y no literarios,…](curriculum/8-basico/ingles-propuesta/en08-oa-01.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 02 · Comprender textos orales en diversos formatos e interacciones de la clase acerca de temas variados…](curriculum/8-basico/ingles-propuesta/en08-oa-02.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 03 · Escuchar textos orales y usar estrategias para apoyar la comprensión de los textos, como](curriculum/8-basico/ingles-propuesta/en08-oa-03.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 04 · Leer y demostrar comprensión de textos literarios (poemas, tiras cómicas, cuentos y novelas…](curriculum/8-basico/ingles-propuesta/en08-oa-04.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 05 · Leer y demostrar comprensión de textos relacionados con temas conocidos, del contexto inmediato, de…](curriculum/8-basico/ingles-propuesta/en08-oa-05.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 06 · Usar estrategias para apoyar la comprensión de los textos leídos](curriculum/8-basico/ingles-propuesta/en08-oa-06.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 07 · Reaccionar a textos leídos o escuchados por medio de exposiciones orales, discusiones, conversaciones…](curriculum/8-basico/ingles-propuesta/en08-oa-07.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 08 · Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…](curriculum/8-basico/ingles-propuesta/en08-oa-08.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 09 · Participar en interacciones y exposiciones recurriendo a las siguientes estrategias para expresarse…](curriculum/8-basico/ingles-propuesta/en08-oa-09.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 10 · Demostrar conocimiento y uso del lenguaje en conversaciones, discusiones y exposiciones por medio de…](curriculum/8-basico/ingles-propuesta/en08-oa-10.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 11 · Escribir de acuerdo a un modelo y a un criterio de evaluación, una variedad de textos breves como…](curriculum/8-basico/ingles-propuesta/en08-oa-11.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 12 · Demostrar conocimiento y uso del lenguaje en sus textos escritos por medio de las siguientes funciones](curriculum/8-basico/ingles-propuesta/en08-oa-12.md) | 5 | propuesta-mineduc |
-| Inglés (Propuesta) | [EN08 OA 13 · Escribir utilizando los pasos del proceso de escritura (organizar ideas, redactar, revisar, editar,…](curriculum/8-basico/ingles-propuesta/en08-oa-13.md) | 5 | propuesta-mineduc |
-| Lengua Indígena | [LI08 OF A · Crear y recrear diversos tipos de relatos expresivos de la cultura y tradición oral de los pueblos…](curriculum/8-basico/lengua-indigena/li08-of-a.md) | 5 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF B · Participar en situaciones de comunicación e interacción formal e informal respetando normas sociales,…](curriculum/8-basico/lengua-indigena/li08-of-b.md) | 4 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF C · Expresarse oralmente en variadas situaciones comunicativas](curriculum/8-basico/lengua-indigena/li08-of-c.md) | 4 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF D · Comprender la riqueza de las distintas lenguas como expresión de las culturas que simbolizan](curriculum/8-basico/lengua-indigena/li08-of-d.md) | 4 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF E · Valorar la existencia de la diversidad lingüística y cultural, que favorece la práctica de la…](curriculum/8-basico/lengua-indigena/li08-of-e.md) | 4 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF F · Leer comprensivamente textos pertinentes al contexto social indígena actual](curriculum/8-basico/lengua-indigena/li08-of-f.md) | 5 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF G · Leer comprensivamente textos de autores indígenas contemporáneos](curriculum/8-basico/lengua-indigena/li08-of-g.md) | 5 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF H · Producir textos escritos con énfasis en el valor de la cultura y la lengua indígena en un contexto…](curriculum/8-basico/lengua-indigena/li08-of-h.md) | 6 | segun-contexto-y-normativa |
-| Lengua Indígena | [LI08 OF I · Investigar contenidos de la tradición oral en diferentes tipos de textos](curriculum/8-basico/lengua-indigena/li08-of-i.md) | 6 | segun-contexto-y-normativa |
+| Inglés | [IN08 OA 01 · Global and explicit meaning in varied oral texts](curriculum/8-basico/ingles/in08-oa-01.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 02 · Key language and intelligible sounds in listening](curriculum/8-basico/ingles/in08-oa-02.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 03 · Purpose, detail, sequence, fact and opinion in listening](curriculum/8-basico/ingles/in08-oa-03.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 04 · Before, during and after listening strategies](curriculum/8-basico/ingles/in08-oa-04.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 05 · Coherent multimodal oral presentation](curriculum/8-basico/ingles/in08-oa-05.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 06 · Planning, repairing and reviewing spoken English](curriculum/8-basico/ingles/in08-oa-06.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 07 · Personal and critical response to texts](curriculum/8-basico/ingles/in08-oa-07.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 08 · Communicative functions for interaction](curriculum/8-basico/ingles/in08-oa-08.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 09 · Global and explicit meaning in print and digital texts](curriculum/8-basico/ingles/in08-oa-09.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 10 · Critical reading of functional non-literary texts](curriculum/8-basico/ingles/in08-oa-10.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 11 · Literary reading: theme, character, setting and plot](curriculum/8-basico/ingles/in08-oa-11.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 12 · Purposeful reading strategies](curriculum/8-basico/ingles/in08-oa-12.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 13 · Creative multimodal stories and information](curriculum/8-basico/ingles/in08-oa-13.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 14 · Writing process across short genres](curriculum/8-basico/ingles/in08-oa-14.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 15 · Writing to inform, narrate and express opinions](curriculum/8-basico/ingles/in08-oa-15.md) | 5 | formacion-general-comun |
+| Inglés | [IN08 OA 16 · Communicative functions in written English](curriculum/8-basico/ingles/in08-oa-16.md) | 5 | formacion-general-comun |
+| Inglés | [de Actitud IN08 OAA A · Manifestar una actitud positiva frente a sí mismo y sus capacidades para aprender y usar el idioma, valorando a la vez los logros de los demás](curriculum/8-basico/ingles/de-actitud-in08-oaa-a.md) | 4 | formacion-general-comun |
+| Inglés | [de Actitud IN08 OAA B · Desarrollar una conciencia cultural o comprensión intercultural, demostrando interés, respeto y tolerancia por otras culturas y por la propia, y valorando su aporte al conocimiento](curriculum/8-basico/ingles/de-actitud-in08-oaa-b.md) | 4 | formacion-general-comun |
+| Inglés | [de Actitud IN08 OAA C · Demostrar interés por el aprendizaje continuo e independiente como parte de un proyecto personal y para contribuir a la sociedad](curriculum/8-basico/ingles/de-actitud-in08-oaa-c.md) | 4 | formacion-general-comun |
+| Inglés | [de Actitud IN08 OAA D · Trabajar responsablemente en forma proactiva y colaborativa con una meta en común, y demostrando respeto por los intereses e ideas de los demás](curriculum/8-basico/ingles/de-actitud-in08-oaa-d.md) | 4 | formacion-general-comun |
+| Inglés | [de Actitud IN08 OAA E · Usar de manera responsable y efectiva las tecnologías de la comunicación en la obtención de información y la creación de textos, dando crédito al trabajo de otros y respetando la propiedad y la privacidad de las personas](curriculum/8-basico/ingles/de-actitud-in08-oaa-e.md) | 5 | formacion-general-comun |
+| Inglés (Propuesta) | [EN08 OA 01 · Understanding varied literary and functional oral texts](curriculum/8-basico/ingles-propuesta/en08-oa-01.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 02 · Purpose, detail and language evidence in listening](curriculum/8-basico/ingles-propuesta/en08-oa-02.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 03 · Strategic listening and clarification](curriculum/8-basico/ingles-propuesta/en08-oa-03.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 04 · Integrated literary and non-literary reading](curriculum/8-basico/ingles-propuesta/en08-oa-04.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 05 · Reading language functions in meaningful contexts](curriculum/8-basico/ingles-propuesta/en08-oa-05.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 06 · Strategic reading before, during and after the text](curriculum/8-basico/ingles-propuesta/en08-oa-06.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 07 · Supported response and connection across texts](curriculum/8-basico/ingles-propuesta/en08-oa-07.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 08 · Audience-aware multimodal oral presentation](curriculum/8-basico/ingles-propuesta/en08-oa-08.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 09 · Strategies for clear and fluent interaction](curriculum/8-basico/ingles-propuesta/en08-oa-09.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 10 · Language functions in conversation and presentation](curriculum/8-basico/ingles-propuesta/en08-oa-10.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 11 · Short multimodal texts for real audiences](curriculum/8-basico/ingles-propuesta/en08-oa-11.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 12 · Language functions in written texts](curriculum/8-basico/ingles-propuesta/en08-oa-12.md) | 5 | propuesta-mineduc |
+| Inglés (Propuesta) | [EN08 OA 13 · Independent writing process and publication](curriculum/8-basico/ingles-propuesta/en08-oa-13.md) | 5 | propuesta-mineduc |
+| Lengua Indígena | [LI08 OF A · Creación y recreación de relatos de tradición oral](curriculum/8-basico/lengua-indigena/li08-of-a.md) | 5 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF B · Interacción respetuosa en espacios formales, informales y rituales](curriculum/8-basico/lengua-indigena/li08-of-b.md) | 4 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF C · Expresión oral situada en diversas situaciones](curriculum/8-basico/lengua-indigena/li08-of-c.md) | 4 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF D · Lenguas como expresión viva de culturas](curriculum/8-basico/lengua-indigena/li08-of-d.md) | 4 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF E · Diversidad lingüística, cultural e interculturalidad](curriculum/8-basico/lengua-indigena/li08-of-e.md) | 4 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF F · Lectura del contexto social indígena actual](curriculum/8-basico/lengua-indigena/li08-of-f.md) | 5 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF G · Lectura de autorías indígenas contemporáneas](curriculum/8-basico/lengua-indigena/li08-of-g.md) | 5 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF H · Escritura sobre cultura y lengua en contexto intercultural](curriculum/8-basico/lengua-indigena/li08-of-h.md) | 6 | segun-contexto-y-normativa |
+| Lengua Indígena | [LI08 OF I · Investigación responsable de la tradición oral](curriculum/8-basico/lengua-indigena/li08-of-i.md) | 6 | segun-contexto-y-normativa |
 | Lengua y Literatura | [LE08 OA 01 · Trayectoria lectora autónoma](curriculum/8-basico/lengua-literatura/le08-oa-01.md) | 6 | formacion-general-comun |
 | Lengua y Literatura | [LE08 OA 02 · Literatura y experiencia humana](curriculum/8-basico/lengua-literatura/le08-oa-02.md) | 6 | formacion-general-comun |
 | Lengua y Literatura | [LE08 OA 03 · Análisis de narraciones y evolución de personajes](curriculum/8-basico/lengua-literatura/le08-oa-03.md) | 7 | formacion-general-comun |
@@ -2158,26 +2158,26 @@ Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación d
 | Música | [de Actitud MU08 OAA G · Reconocer el valor del trabajo responsable y a conciencia, tanto en los procesos como en los…](curriculum/8-basico/musica/de-actitud-mu08-oaa-g.md) | 4 | formacion-general-comun |
 | Música | [de Actitud MU08 OAA H · Demostrar la capacidad para trabajar en grupo de una manera inclusiva, con honestidad y compromiso,…](curriculum/8-basico/musica/de-actitud-mu08-oaa-h.md) | 4 | formacion-general-comun |
 | Música | [de Actitud MU08 OAA I · Reconocer y valorar la música existente y las experiencias adquiridas, así como la experimentación e…](curriculum/8-basico/musica/de-actitud-mu08-oaa-i.md) | 5 | formacion-general-comun |
-| Orientación | [OR08 OA 01 · Construir, en forma individual y colectiva, representaciones positivas de sí mismos, incorporando sus…](curriculum/8-basico/orientacion/or08-oa-01.md) | 4 | formacion-general-comun |
-| Orientación | [OR08 OA 02 · Analizar, considerando sus experiencias e inquietudes, la importancia que tiene para el desarrollo…](curriculum/8-basico/orientacion/or08-oa-02.md) | 6 | formacion-general-comun |
-| Orientación | [OR08 OA 03 · Identificar situaciones que puedan exponer a las y los adolescentes al consumo de sustancias nocivas…](curriculum/8-basico/orientacion/or08-oa-03.md) | 5 | formacion-general-comun |
-| Orientación | [OR08 OA 04 · Integrar a su vida cotidiana acciones que favorezcan el bienestar y la vida saludable en el plano…](curriculum/8-basico/orientacion/or08-oa-04.md) | 5 | formacion-general-comun |
-| Orientación | [OR08 OA 05 · Analizar sus relaciones, presenciales o virtuales a través de las redes sociales, y las de su entorno…](curriculum/8-basico/orientacion/or08-oa-05.md) | 6 | formacion-general-comun |
-| Orientación | [OR08 OA 06 · Resolver conflictos y desacuerdos a través del diálogo, la escucha empática y la búsqueda de…](curriculum/8-basico/orientacion/or08-oa-06.md) | 4 | formacion-general-comun |
-| Orientación | [OR08 OA 07 · Reconocer intereses, inquietudes, problemas o necesidades compartidas con su grupo de pertenencia, ya…](curriculum/8-basico/orientacion/or08-oa-07.md) | 5 | formacion-general-comun |
-| Orientación | [OR08 OA 08 · Elaborar acuerdos orientados al logro de fines compartidos por el curso, utilizando para esto los…](curriculum/8-basico/orientacion/or08-oa-08.md) | 5 | formacion-general-comun |
-| Orientación | [OR08 OA 09 · Reconocer sus intereses, motivaciones, necesidades y capacidades, comprendiendo la relevancia del…](curriculum/8-basico/orientacion/or08-oa-09.md) | 4 | formacion-general-comun |
-| Orientación | [OR08 OA 10 · Gestionar de manera autónoma su propio proceso de aprendizaje escolar, a través del establecimiento…](curriculum/8-basico/orientacion/or08-oa-10.md) | 5 | formacion-general-comun |
-| Tecnología | [TE08 OA 01 · Identificar oportunidades o necesidades personales, grupales o locales que impliquen la creación de…](curriculum/8-basico/tecnologia/te08-oa-01.md) | 4 | formacion-general-comun |
-| Tecnología | [TE08 OA 02 · Diseñar y crear un producto tecnológico que atienda a la oportunidad o necesidad establecida,…](curriculum/8-basico/tecnologia/te08-oa-02.md) | 5 | formacion-general-comun |
-| Tecnología | [TE08 OA 03 · Evaluar el producto tecnológico creado, aplicando criterios propios y técnicos, y proponer mejoras…](curriculum/8-basico/tecnologia/te08-oa-03.md) | 5 | formacion-general-comun |
-| Tecnología | [TE08 OA 04 · Comunicar el diseño, la planificación u otros procesos de la creación de productos tecnológicos,…](curriculum/8-basico/tecnologia/te08-oa-04.md) | 4 | formacion-general-comun |
-| Tecnología | [TE08 OA 05 · Examinar soluciones tecnológicas existentes que respondan a las oportunidades o necesidades…](curriculum/8-basico/tecnologia/te08-oa-05.md) | 4 | formacion-general-comun |
-| Tecnología | [TE08 OA 06 · Establecer impactos positivos y/o negativos de las soluciones tecnológicas analizadas considerando…](curriculum/8-basico/tecnologia/te08-oa-06.md) | 4 | formacion-general-comun |
+| Orientación | [OR08 OA 01 · Autoconcepto positivo en pubertad y adolescencia](curriculum/8-basico/orientacion/or08-oa-01.md) | 4 | formacion-general-comun |
+| Orientación | [OR08 OA 02 · Sexualidad integral, intimidad, respeto y fuentes confiables](curriculum/8-basico/orientacion/or08-oa-02.md) | 6 | formacion-general-comun |
+| Orientación | [OR08 OA 03 · Prevención de riesgos y búsqueda de ayuda](curriculum/8-basico/orientacion/or08-oa-03.md) | 5 | formacion-general-comun |
+| Orientación | [OR08 OA 04 · Bienestar cotidiano, vida saludable y seguridad digital](curriculum/8-basico/orientacion/or08-oa-04.md) | 5 | formacion-general-comun |
+| Orientación | [OR08 OA 05 · Derechos y bienestar en relaciones presenciales y virtuales](curriculum/8-basico/orientacion/or08-oa-05.md) | 6 | formacion-general-comun |
+| Orientación | [OR08 OA 06 · Resolución dialogada, empática y no violenta de conflictos](curriculum/8-basico/orientacion/or08-oa-06.md) | 4 | formacion-general-comun |
+| Orientación | [OR08 OA 07 · Intereses compartidos, colaboración y metas comunes](curriculum/8-basico/orientacion/or08-oa-07.md) | 5 | formacion-general-comun |
+| Orientación | [OR08 OA 08 · Acuerdos y participación democrática del curso](curriculum/8-basico/orientacion/or08-oa-08.md) | 5 | formacion-general-comun |
+| Orientación | [OR08 OA 09 · Intereses, aprendizaje y proyectos personales](curriculum/8-basico/orientacion/or08-oa-09.md) | 4 | formacion-general-comun |
+| Orientación | [OR08 OA 10 · Metas progresivas y gestión autónoma del aprendizaje](curriculum/8-basico/orientacion/or08-oa-10.md) | 5 | formacion-general-comun |
+| Tecnología | [TE08 OA 01 · Oportunidades locales para crear productos tecnológicos](curriculum/8-basico/tecnologia/te08-oa-01.md) | 4 | formacion-general-comun |
+| Tecnología | [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](curriculum/8-basico/tecnologia/te08-oa-02.md) | 5 | formacion-general-comun |
+| Tecnología | [TE08 OA 03 · Evaluación técnica y mejora de productos](curriculum/8-basico/tecnologia/te08-oa-03.md) | 5 | formacion-general-comun |
+| Tecnología | [TE08 OA 04 · Comunicación ética del proceso tecnológico](curriculum/8-basico/tecnologia/te08-oa-04.md) | 4 | formacion-general-comun |
+| Tecnología | [TE08 OA 05 · Análisis de soluciones, destinatarios y funcionamiento](curriculum/8-basico/tecnologia/te08-oa-05.md) | 4 | formacion-general-comun |
+| Tecnología | [TE08 OA 06 · Impactos éticos, ambientales y sociales de la tecnología](curriculum/8-basico/tecnologia/te08-oa-06.md) | 4 | formacion-general-comun |
 | Tecnología | [de Actitud TE08 OAA A · Respetar al otro y al medioambiente](curriculum/8-basico/tecnologia/de-actitud-te08-oaa-a.md) | 4 | formacion-general-comun |
 | Tecnología | [de Actitud TE08 OAA B · Demostrar disposición hacia la prevención de riesgos y el autocuidado](curriculum/8-basico/tecnologia/de-actitud-te08-oaa-b.md) | 4 | formacion-general-comun |
 | Tecnología | [de Actitud TE08 OAA C · Valorar las potencialidades propias y del otro](curriculum/8-basico/tecnologia/de-actitud-te08-oaa-c.md) | 4 | formacion-general-comun |
-| Tecnología | [de Actitud TE08 OAA D · Trabajar colaborativamente. Unidad de Currículum y Evaluación Ministerio de Educación Teléfono](curriculum/8-basico/tecnologia/de-actitud-te08-oaa-d.md) | 4 | formacion-general-comun |
+| Tecnología | [de Actitud TE08 OAA D · Trabajar colaborativamente](curriculum/8-basico/tecnologia/de-actitud-te08-oaa-d.md) | 4 | formacion-general-comun |
 
 ## 1° medio
 

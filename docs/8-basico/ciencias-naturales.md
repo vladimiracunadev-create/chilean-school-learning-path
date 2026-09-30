@@ -1,6 +1,6 @@
 # Ciencias Naturales · 8° básico
 
-[⬅️ Índice de 8° básico](README.md) · [← Artes Visuales](artes-visuales.md) · [Historia, Geografía y Ciencias Sociales →](historia-geografia-ciencias-sociales.md)
+[⬅️ Índice de 8° básico](README.md) · [← Artes Visuales](artes-visuales.md) · [Educación Física y Salud →](educacion-fisica-salud.md)
 
 **15 OA de contenido · 74 clases desarrolladas · 21 OA transversales · 89 experiencias integradas · 9 ejes curriculares · revisión humana pendiente**
 

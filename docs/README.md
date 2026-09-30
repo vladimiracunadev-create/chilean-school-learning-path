@@ -2,11 +2,11 @@
 
 # 📚 Centro de documentación
 
-## **1° a 7° básico con desarrollo interno completo**
+## **1° a 8° básico con desarrollo interno completo**
 
-**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 482 + 365 en seis asignaturas**
+**1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430**
 
-[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🧠 Seis asignaturas de 8°](8-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
+[📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
 </div>
 
@@ -40,7 +40,7 @@ Aquí puedes responder:
 | Recorrer 5° básico completo | [Índice del nivel](5-basico/README.md) | Doce denominaciones curriculares con continuidad desde 4° |
 | Enseñar 6° básico | [Índice completo](6-basico/README.md) | 301 OA, 952 clases y 422 experiencias integradas |
 | Enseñar en 7° básico | [Índice completo del nivel](7-basico/README.md) | 760 clases disciplinares, 515 experiencias integradas y límites del desarrollo |
-| Enseñar en las seis asignaturas desarrolladas de 8° | [Índice del nivel en desarrollo](8-basico/README.md) | 482 clases, 365 experiencias integradas y separación explícita de las asignaturas pendientes |
+| Enseñar en 8° básico | [Índice completo del nivel](8-basico/README.md) | 771 clases, 430 experiencias integradas y doce denominaciones curriculares |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -60,7 +60,7 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las 86 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6°, doce de 7° y seis de 8°— se generan desde la misma fuente que el catálogo y el portal.
+Las 92 guías disponibles —44 de 1° a 4° y doce para cada nivel desde 5° hasta 8°— se generan desde la misma fuente que el catálogo y el portal.
 
 **5° básico completo:** [índice y doce guías de asignatura](5-basico/README.md), con mapa técnico en [QUINTO_BASICO.md](QUINTO_BASICO.md).
 
@@ -68,7 +68,7 @@ Las 86 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6°, doce de 
 
 **7° básico completo:** [índice de doce denominaciones](7-basico/README.md), con continuidad, recorrido OA por OA, evaluación, apoyos, profundización y resguardos disciplinares.
 
-**8° básico en desarrollo:** [índice de seis asignaturas desarrolladas](8-basico/README.md), con 482 clases desarrolladas, 365 experiencias integradas y 354 propuestas pendientes en las demás asignaturas.
+**8° básico completo:** [índice de doce denominaciones](8-basico/README.md), con 771 clases desarrolladas, 430 experiencias integradas y 0 propuestas pendientes.
 
 | Asignatura | 1° | 2° | 3° | 4° | 5° | 6° |
 |---|---|---|---|---|---|---|
@@ -84,6 +84,23 @@ Las 86 guías disponibles —44 de 1° a 4°, doce de 5°, doce de 6°, doce de 
 | Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) | [Leer](3-basico/musica.md) | [Leer](4-basico/musica.md) | [Leer](5-basico/musica.md) | [Leer](6-basico/musica.md) |
 | Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) | [Leer](3-basico/orientacion.md) | [Leer](4-basico/orientacion.md) | [Leer](5-basico/orientacion.md) | [Leer](6-basico/orientacion.md) |
 | Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) | [Leer](3-basico/tecnologia.md) | [Leer](4-basico/tecnologia.md) | [Leer](5-basico/tecnologia.md) | [Leer](6-basico/tecnologia.md) |
+
+### Guías de 7° y 8° básico
+
+| Asignatura | 7° | 8° |
+|---|---|---|
+| Artes Visuales | [Leer](7-basico/artes-visuales.md) | [Leer](8-basico/artes-visuales.md) |
+| Ciencias Naturales | [Leer](7-basico/ciencias-naturales.md) | [Leer](8-basico/ciencias-naturales.md) |
+| Educación Física y Salud | [Leer](7-basico/educacion-fisica-salud.md) | [Leer](8-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | [Leer](7-basico/historia-geografia-ciencias-sociales.md) | [Leer](8-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés | [Leer](7-basico/ingles.md) | [Leer](8-basico/ingles.md) |
+| Inglés (Propuesta) | [Leer](7-basico/ingles-propuesta.md) | [Leer](8-basico/ingles-propuesta.md) |
+| Lengua Indígena | [Leer](7-basico/lengua-indigena.md) | [Leer](8-basico/lengua-indigena.md) |
+| Lengua y Literatura | [Leer](7-basico/lengua-literatura.md) | [Leer](8-basico/lengua-literatura.md) |
+| Matemática | [Leer](7-basico/matematica.md) | [Leer](8-basico/matematica.md) |
+| Música | [Leer](7-basico/musica.md) | [Leer](8-basico/musica.md) |
+| Orientación | [Leer](7-basico/orientacion.md) | [Leer](8-basico/orientacion.md) |
+| Tecnología | [Leer](7-basico/tecnologia.md) | [Leer](8-basico/tecnologia.md) |
 
 ## 🧠 Flujo de uso
 
@@ -107,12 +124,12 @@ flowchart TD
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
 | Borradores | 0 | las propuestas pendientes permanecen secuenciadas, no como plantillas que aparenten desarrollo |
-| Desarrolladas | 6.094 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 3.179 | habilidades o actitudes incorporadas en clases de contenido |
+| Desarrolladas | 6.383 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 3.244 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515. Las seis asignaturas desarrolladas de 8° suman 482 desarrolladas y 365 integradas. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515; y 8°, 771 y 430. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -139,7 +156,11 @@ README.md
 ├── docs/CUARTO_BASICO.md          ← mapa técnico de 4° básico
 ├── docs/5-basico/README.md        ← nivel completo de 5° básico
 ├── docs/6-basico/README.md        ← 6° completo y sus doce guías
-│   └── 3 guías de asignatura
+│   └── 12 guías de asignatura
+├── docs/7-basico/README.md        ← 7° completo y sus doce guías
+│   └── 12 guías de asignatura
+├── docs/8-basico/README.md        ← 8° completo y sus doce guías
+│   └── 12 guías de asignatura
 ├── docs/4-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica

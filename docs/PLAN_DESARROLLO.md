@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 8° básico — nivel en desarrollo · **Asignatura activa:** Educación Física y Salud · **Unidad de entrega:** nivel completo
+**Nivel activo:** 1° medio — próxima etapa · **Asignatura activa:** Matemática · **Unidad de entrega:** nivel completo
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -110,12 +110,12 @@ flowchart LR
 | 8° básico | 4 | Historia, Geografía y Ciencias Sociales | 22 | 117 | 20 | Desarrollo interno completo · revisión humana pendiente |
 | 8° básico | 5 | Artes Visuales | 6 | 29 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 8° básico | 6 | Música | 7 | 30 | 9 | Desarrollo interno completo · revisión humana pendiente |
-| 8° básico | 7 | Educación Física y Salud | 5 | 26 | 7 | Activa |
-| 8° básico | 8 | Orientación | 10 | 49 | 0 | 0/10 OA desarrollados |
-| 8° básico | 9 | Tecnología | 6 | 26 | 4 | 0/6 OA desarrollados |
-| 8° básico | 10 | Inglés | 16 | 80 | 5 | 0/16 OA desarrollados |
-| 8° básico | 11 | Inglés (Propuesta) | 13 | 65 | 0 | 0/13 OA desarrollados |
-| 8° básico | 12 | Lengua Indígena | 9 | 43 | 0 | 0/9 OA desarrollados |
+| 8° básico | 7 | Educación Física y Salud | 5 | 26 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 8 | Orientación | 10 | 49 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 9 | Tecnología | 6 | 26 | 4 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 10 | Inglés | 16 | 80 | 5 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 11 | Inglés (Propuesta) | 13 | 65 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 8° básico | 12 | Lengua Indígena | 9 | 43 | 0 | Desarrollo interno completo · revisión humana pendiente |
 
 ## Plan por asignatura e ítem
 
@@ -2019,28 +2019,28 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EF08 OA 01` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-01) |
-| `EF08 OA 02` | Habilidades motrices | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-02) |
-| `EF08 OA 03` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-03) |
-| `EF08 OA 04` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-04) |
-| `EF08 OA 05` | Responsabilidad personal y social en el deporte y la actividad física | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-05) |
+| `EF08 OA 01` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-01) |
+| `EF08 OA 02` | Habilidades motrices | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-02) |
+| `EF08 OA 03` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-03) |
+| `EF08 OA 04` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-04) |
+| `EF08 OA 05` | Responsabilidad personal y social en el deporte y la actividad física | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/8-basico/ef08-oa-05) |
 
-**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Orientación · 8° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `OR08 OA 01` | Crecimiento personal | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-01) |
-| `OR08 OA 02` | Crecimiento personal | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-02) |
-| `OR08 OA 03` | Bienestar y autocuidado | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-03) |
-| `OR08 OA 04` | Bienestar y autocuidado | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-04) |
-| `OR08 OA 05` | Relaciones interpersonales | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-05) |
-| `OR08 OA 06` | Relaciones interpersonales | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-06) |
-| `OR08 OA 07` | Pertenencia y participación democrática | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-07) |
-| `OR08 OA 08` | Pertenencia y participación democrática | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-08) |
-| `OR08 OA 09` | Gestión y proyección del aprendizaje | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-09) |
-| `OR08 OA 10` | Gestión y proyección del aprendizaje | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-10) |
+| `OR08 OA 01` | Crecimiento personal | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-01) |
+| `OR08 OA 02` | Crecimiento personal | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-02) |
+| `OR08 OA 03` | Bienestar y autocuidado | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-03) |
+| `OR08 OA 04` | Bienestar y autocuidado | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-04) |
+| `OR08 OA 05` | Relaciones interpersonales | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-05) |
+| `OR08 OA 06` | Relaciones interpersonales | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-06) |
+| `OR08 OA 07` | Pertenencia y participación democrática | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-07) |
+| `OR08 OA 08` | Pertenencia y participación democrática | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-08) |
+| `OR08 OA 09` | Gestión y proyección del aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-09) |
+| `OR08 OA 10` | Gestión y proyección del aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/8-basico/or08-oa-10) |
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
@@ -2048,55 +2048,55 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `TE08 OA 01` | Resolución de problemas tecnológicos | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-01) |
-| `TE08 OA 02` | Resolución de problemas tecnológicos | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-02) |
-| `TE08 OA 03` | Resolución de problemas tecnológicos | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-03) |
-| `TE08 OA 04` | Resolución de problemas tecnológicos | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-04) |
-| `TE08 OA 05` | Tecnología, ambiente y sociedad | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-05) |
-| `TE08 OA 06` | Tecnología, ambiente y sociedad | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-06) |
+| `TE08 OA 01` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-01) |
+| `TE08 OA 02` | Resolución de problemas tecnológicos | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-02) |
+| `TE08 OA 03` | Resolución de problemas tecnológicos | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-03) |
+| `TE08 OA 04` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-04) |
+| `TE08 OA 05` | Tecnología, ambiente y sociedad | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-05) |
+| `TE08 OA 06` | Tecnología, ambiente y sociedad | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/8-basico/te08-oa-06) |
 
-**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 16 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Inglés · 8° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `IN08 OA 01` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-01) |
-| `IN08 OA 02` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-02) |
-| `IN08 OA 03` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-03) |
-| `IN08 OA 04` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-04) |
-| `IN08 OA 05` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-05) |
-| `IN08 OA 06` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-06) |
-| `IN08 OA 07` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-07) |
-| `IN08 OA 08` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-08) |
-| `IN08 OA 09` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-09) |
-| `IN08 OA 10` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-10) |
-| `IN08 OA 11` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-11) |
-| `IN08 OA 12` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-12) |
-| `IN08 OA 13` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-13) |
-| `IN08 OA 14` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-14) |
-| `IN08 OA 15` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-15) |
-| `IN08 OA 16` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-16) |
+| `IN08 OA 01` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-01) |
+| `IN08 OA 02` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-02) |
+| `IN08 OA 03` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-03) |
+| `IN08 OA 04` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-04) |
+| `IN08 OA 05` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-05) |
+| `IN08 OA 06` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-06) |
+| `IN08 OA 07` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-07) |
+| `IN08 OA 08` | Comunicación oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-08) |
+| `IN08 OA 09` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-09) |
+| `IN08 OA 10` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-10) |
+| `IN08 OA 11` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-11) |
+| `IN08 OA 12` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-12) |
+| `IN08 OA 13` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-13) |
+| `IN08 OA 14` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-14) |
+| `IN08 OA 15` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-15) |
+| `IN08 OA 16` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/8-basico/in08-oa-16) |
 
-**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 80 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 21 experiencias dentro de las 80 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Inglés (Propuesta) · 8° básico
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EN08 OA 01` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-01) |
-| `EN08 OA 02` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-02) |
-| `EN08 OA 03` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-03) |
-| `EN08 OA 04` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-04) |
-| `EN08 OA 05` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-05) |
-| `EN08 OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-06) |
-| `EN08 OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-07) |
-| `EN08 OA 08` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-08) |
-| `EN08 OA 09` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-09) |
-| `EN08 OA 10` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-10) |
-| `EN08 OA 11` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-11) |
-| `EN08 OA 12` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-12) |
-| `EN08 OA 13` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-13) |
+| `EN08 OA 01` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-01) |
+| `EN08 OA 02` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-02) |
+| `EN08 OA 03` | Comprensión auditiva | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-03) |
+| `EN08 OA 04` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-04) |
+| `EN08 OA 05` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-05) |
+| `EN08 OA 06` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-06) |
+| `EN08 OA 07` | Comprensión de lectura | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-07) |
+| `EN08 OA 08` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-08) |
+| `EN08 OA 09` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-09) |
+| `EN08 OA 10` | Expresión oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-10) |
+| `EN08 OA 11` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-11) |
+| `EN08 OA 12` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-12) |
+| `EN08 OA 13` | Expresión escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/8-basico/en08-oa-13) |
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
@@ -2104,15 +2104,15 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `LI08 OF A` | Tradición oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08) |
-| `LI08 OF B` | Tradición oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-b) |
-| `LI08 OF C` | Comunicación oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-c) |
-| `LI08 OF D` | Comunicación oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-d) |
-| `LI08 OF E` | Comunicación oral | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08) |
-| `LI08 OF F` | Comunicación escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-f) |
-| `LI08 OF G` | Comunicación escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-g) |
-| `LI08 OF H` | Comunicación escrita | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-h) |
-| `LI08 OF I` | Comunicación escrita | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-i) |
+| `LI08 OF A` | Tradición oral | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08) |
+| `LI08 OF B` | Tradición oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-b) |
+| `LI08 OF C` | Comunicación oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-c) |
+| `LI08 OF D` | Comunicación oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-d) |
+| `LI08 OF E` | Comunicación oral | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08) |
+| `LI08 OF F` | Comunicación escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-f) |
+| `LI08 OF G` | Comunicación escrita | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-g) |
+| `LI08 OF H` | Comunicación escrita | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-h) |
+| `LI08 OF I` | Comunicación escrita | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-indigena/8-basico/li08-i) |
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
@@ -2124,10 +2124,10 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 7 y seis asignaturas 8 | Las asignaturas de 1° a 7° y Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Artes Visuales y Música de 8° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
+| Documental y fuentes | control interno completo niveles 1 a 8 | Las asignaturas inventariadas de 1° a 8° básico registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6°, 7° y 8° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
-## Gates del desarrollo interno de 1° a 7° básico
+## Gates del desarrollo interno de 1° a 8° básico
 
 Estos controles están cerrados para el alcance desarrollado. La revisión profesional continúa como un estado posterior e independiente.
 

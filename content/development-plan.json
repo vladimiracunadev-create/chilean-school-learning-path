@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-30",
-  "active_level": "8° básico — nivel en desarrollo",
-  "active_subject": "Educación Física y Salud",
+  "active_level": "1° medio — próxima etapa",
+  "active_subject": "Matemática",
   "delivery_unit": "nivel completo",
   "subject_order": [
     "Matemática",
@@ -202,7 +202,7 @@
     "pedagogical": {"status": "pendiente", "evidence": null},
     "accessibility_and_inclusion": {"status": "pendiente", "evidence": null},
     "cultural_and_contextual": {"status": "pendiente", "evidence": null},
-    "documentary_and_sources": {"status": "control_interno_completo_niveles_1_a_7_y_seis_asignaturas_8", "evidence": "Las asignaturas de 1° a 7° y Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Artes Visuales y Música de 8° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario"},
+    "documentary_and_sources": {"status": "control_interno_completo_niveles_1_a_8", "evidence": "Las asignaturas inventariadas de 1° a 8° básico registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6°, 7° y 8° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario"},
     "rights_and_privacy": {"status": "interno_en_curso", "evidence": "validación automática de licencias y prohibición de datos personales"}
   },
   "completion_gates": [

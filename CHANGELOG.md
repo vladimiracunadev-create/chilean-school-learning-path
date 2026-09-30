@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-30 — 8° básico completo
+
+- Desarrollo de las seis asignaturas restantes: Educación Física y Salud (26 clases), Orientación (49), Tecnología (26), Inglés (80), Inglés (Propuesta) (65) y Lengua Indígena (43).
+- Integración de 65 experiencias transversales nuevas en Educación Física y Salud, Inglés y Tecnología, observables dentro del contenido y sin contarlas como clases adicionales.
+- Cierre del nivel en 771 clases desarrolladas, 430 experiencias integradas, 253 OA, doce denominaciones curriculares y 0 propuestas pendientes.
+- Publicación de seis guías nuevas y consolidación del índice, mapa técnico, syllabus, plan maestro, cobertura y GitHub Pages para declarar completos los niveles de 1° a 8° básico.
+- Estado global actualizado a 6.383 clases desarrolladas y 3.244 experiencias integradas; la revisión humana especializada continúa pendiente.
+
 ## 2026-09-30 — Ciencias, Historia, Artes y Música de 8° básico
 
 - Desarrollo completo de Ciencias Naturales en 74 clases disciplinares y 89 experiencias integradas, con experimentación, modelos, evidencia y resguardos de seguridad.

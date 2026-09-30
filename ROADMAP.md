@@ -13,13 +13,13 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 5° básico | 295 | 1.340 | Desarrollo interno completo · 920 desarrolladas · 420 integradas · 0 pendientes · revisión humana pendiente |
 | 6° básico | 301 | 1.374 | Completo: 952 desarrolladas + 422 integradas |
 | 7° básico | 275 | 1.275 | Completo: 760 desarrolladas + 515 integradas · 0 pendientes |
-| 8° básico | 253 | 1.201 | En desarrollo: 482 desarrolladas + 365 integradas · 354 pendientes |
+| 8° básico | 253 | 1.201 | Completo: 771 desarrolladas + 430 integradas · 0 pendientes |
 | 1° medio | 253 | 1.209 | Secuenciado |
 | 2° medio | 248 | 1.200 | Secuenciado |
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **6.094 clases desarrolladas**, **3.179 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 7° básico**, **354 pendientes en 8° básico**, y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **6.383 clases desarrolladas**, **3.244 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 8° básico** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -99,7 +99,8 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **6.094 clases desarrolladas*
 - [x] Completar Historia, Geografía y Ciencias Sociales de 8° básico: 117 clases en 22 OA de contenido y 91 experiencias integradas de 20 OA transversales.
 - [x] Completar Artes Visuales de 8° básico: 29 clases en 6 OA de contenido y 33 experiencias integradas de 8 OA transversales.
 - [x] Completar Música de 8° básico: 30 clases en 7 OA de contenido y 37 experiencias integradas de 9 OA transversales.
-- [ ] Completar 8° básico.
+- [x] Completar Educación Física, Orientación, Tecnología, Inglés, Inglés (Propuesta) y Lengua Indígena de 8° básico: 289 clases en 59 objetivos de contenido y 65 experiencias integradas de 16 objetivos transversales.
+- [x] Completar 8° básico: 771 clases disciplinares y 430 experiencias integradas en doce denominaciones curriculares, sin propuestas pendientes.
 - [ ] Completar 1° y 2° medio.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
 

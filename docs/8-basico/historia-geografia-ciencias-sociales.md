@@ -1,6 +1,6 @@
 # Historia, Geografía y Ciencias Sociales · 8° básico
 
-[⬅️ Índice de 8° básico](README.md) · [← Ciencias Naturales](ciencias-naturales.md) · [Lengua y Literatura →](lengua-literatura.md)
+[⬅️ Índice de 8° básico](README.md) · [← Educación Física y Salud](educacion-fisica-salud.md) · [Inglés →](ingles.md)
 
 **22 OA de contenido · 117 clases desarrolladas · 20 OA transversales · 91 experiencias integradas · 8 ejes curriculares · revisión humana pendiente**
 

@@ -1,6 +1,6 @@
 # Música · 8° básico
 
-[⬅️ Índice de 8° básico](README.md) · [← Matemática](matematica.md)
+[⬅️ Índice de 8° básico](README.md) · [← Matemática](matematica.md) · [Orientación →](orientacion.md)
 
 **7 OA de contenido · 30 clases desarrolladas · 9 OA transversales · 37 experiencias integradas · 4 ejes curriculares · revisión humana pendiente**
 
