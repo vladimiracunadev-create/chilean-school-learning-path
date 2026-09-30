@@ -42,7 +42,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 6: Primer acercamiento · Entrar por la escucha completa {#cl-00495}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar textos orales de tradición indígena · contexto de sensibilización sobre la lengua mediante «primer acercamiento · entrar por la escucha completa», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar textos orales de tradición indígena · contexto de sensibilización sobre la lengua a través de «primer acercamiento · entrar por la escucha completa», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy disfrutaré ritmo, voz y situación.
 
@@ -55,6 +55,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · entrar por la escucha completa», responde a «disfrutaré ritmo, voz y situación», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** audio o interpretación autorizada, objetos culturales contextualizados y registro corporal
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Textos orales de tradición indígena · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · entrar por la escucha completa» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -91,7 +123,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 6: Primer acercamiento · Reconocer una repetición {#cl-00496}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar textos orales de tradición indígena · contexto de sensibilización sobre la lengua mediante «primer acercamiento · reconocer una repetición», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar textos orales de tradición indígena · contexto de sensibilización sobre la lengua a través de «primer acercamiento · reconocer una repetición», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy participaré en un tramo verificado.
 
@@ -104,6 +136,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · reconocer una repetición», responde a «participaré en un tramo verificado», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** audio o interpretación autorizada, objetos culturales contextualizados y registro corporal
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Textos orales de tradición indígena · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · reconocer una repetición» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -140,7 +204,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 6: Primer acercamiento · Comprender con cuerpo y gesto {#cl-00497}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar textos orales de tradición indígena · contexto de sensibilización sobre la lengua mediante «primer acercamiento · comprender con cuerpo y gesto», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar textos orales de tradición indígena · contexto de sensibilización sobre la lengua a través de «primer acercamiento · comprender con cuerpo y gesto», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy mostraré una idea del texto.
 
@@ -153,6 +217,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · comprender con cuerpo y gesto», responde a «mostraré una idea del texto», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** audio o interpretación autorizada, objetos culturales contextualizados y registro corporal
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Textos orales de tradición indígena · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · comprender con cuerpo y gesto» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -189,7 +285,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 6: Primer acercamiento · Relacionar sin apropiarse {#cl-00498}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar textos orales de tradición indígena · contexto de sensibilización sobre la lengua mediante «primer acercamiento · relacionar sin apropiarse», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar textos orales de tradición indígena · contexto de sensibilización sobre la lengua a través de «primer acercamiento · relacionar sin apropiarse», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy conectaré una experiencia y volveré al texto.
 
@@ -202,6 +298,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · relacionar sin apropiarse», responde a «conectaré una experiencia y volveré al texto», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** audio o interpretación autorizada, objetos culturales contextualizados y registro corporal
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Textos orales de tradición indígena · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · relacionar sin apropiarse» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -238,7 +366,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 5 de 6: Primer acercamiento · Reescuchar con un propósito {#cl-00499}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar textos orales de tradición indígena · contexto de sensibilización sobre la lengua mediante «primer acercamiento · reescuchar con un propósito», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar textos orales de tradición indígena · contexto de sensibilización sobre la lengua a través de «primer acercamiento · reescuchar con un propósito», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy notaré una palabra, sonido o imagen.
 
@@ -251,6 +379,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · reescuchar con un propósito», responde a «notaré una palabra, sonido o imagen», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** audio o interpretación autorizada, objetos culturales contextualizados y registro corporal
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Textos orales de tradición indígena · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · reescuchar con un propósito» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -287,7 +447,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 6 de 6: Primer acercamiento · Compartir comprensión {#cl-00500}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar textos orales de tradición indígena · contexto de sensibilización sobre la lengua mediante «primer acercamiento · compartir comprensión», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar textos orales de tradición indígena · contexto de sensibilización sobre la lengua a través de «primer acercamiento · compartir comprensión», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy responderé oral, corporal o visualmente.
 
@@ -300,6 +460,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · compartir comprensión», responde a «responderé oral, corporal o visualmente», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** audio o interpretación autorizada, objetos culturales contextualizados y registro corporal
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Textos orales de tradición indígena · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · compartir comprensión» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 

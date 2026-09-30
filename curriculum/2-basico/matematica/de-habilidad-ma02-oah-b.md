@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Problema breve de contenido, material concreto pertinente, hoja de registro y tarjeta con la habilidad o actitud en lenguaje accesible.
 
+
 **Apoyo en el mismo OA:** Ofrece una representación y una frase inicial para explicar; mantiene la decisión matemática y evita evaluar rapidez, obediencia o personalidad.
 
 **Profundización:** Compara dos estrategias o cambia una condición del problema y explica cómo la habilidad o actitud mejora la nueva solución.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Muestra una evidencia matemática individual de «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto» y explica qué decisión permitió producirla. |
 
 **Materiales y preparación:** Problema breve de contenido, material concreto pertinente, hoja de registro y tarjeta con la habilidad o actitud en lenguaje accesible.
+
 
 **Apoyo en el mismo OA:** Ofrece una representación y una frase inicial para explicar; mantiene la decisión matemática y evita evaluar rapidez, obediencia o personalidad.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Problema breve de contenido, material concreto pertinente, hoja de registro y tarjeta con la habilidad o actitud en lenguaje accesible.
 
+
 **Apoyo en el mismo OA:** Ofrece una representación y una frase inicial para explicar; mantiene la decisión matemática y evita evaluar rapidez, obediencia o personalidad.
 
 **Profundización:** Compara dos estrategias o cambia una condición del problema y explica cómo la habilidad o actitud mejora la nueva solución.
@@ -176,6 +179,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Muestra una evidencia matemática individual de «producir evidencia final y decidir el paso siguiente» y explica qué decisión permitió producirla. |
 
 **Materiales y preparación:** Problema breve de contenido, material concreto pertinente, hoja de registro y tarjeta con la habilidad o actitud en lenguaje accesible.
+
 
 **Apoyo en el mismo OA:** Ofrece una representación y una frase inicial para explicar; mantiene la decisión matemática y evita evaluar rapidez, obediencia o personalidad.
 

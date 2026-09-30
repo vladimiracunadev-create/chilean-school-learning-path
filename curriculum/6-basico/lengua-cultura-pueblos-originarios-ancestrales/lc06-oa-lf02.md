@@ -41,22 +41,54 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 6: Situar pueblo, territorio y fuente · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 {#cl-06462}
+### Clase 1 de 6: Situar pueblo, territorio y fuente · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas {#cl-06462}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas mediante «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas a través de «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 1 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 1 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 1, la retroalimentación vuelve al criterio propio de «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 1, la evidencia se juzga por el logro de «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 1 debe permitir comprobar «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas». |
+| Inicio | 10 min | Para «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -64,7 +96,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -90,22 +122,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA A`:** Se promueve pertenencia responsable a la red de la vida desde lengua y cultura durante «desarrollaré «situar pueblo, territorio y fuente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 2 de 6: Escuchar o leer con límites declarados · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 {#cl-06463}
+### Clase 2 de 6: Escuchar o leer con límites declarados · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas {#cl-06463}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas mediante «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas a través de «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 2 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 2 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 2, la retroalimentación vuelve al criterio propio de «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 2, la evidencia se juzga por el logro de «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 2 debe permitir comprobar «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas». |
+| Inicio | 10 min | Para «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -113,7 +177,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -139,22 +203,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA C`:** Se promueve relación integral y respetuosa con los entornos y sus recursos durante «desarrollaré «escuchar o leer con límites declarados · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 3 de 6: Reconocer relaciones culturales · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 {#cl-06464}
+### Clase 3 de 6: Reconocer relaciones culturales · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas {#cl-06464}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas mediante «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas a través de «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 3 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 3 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 3, la retroalimentación vuelve al criterio propio de «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 3, la evidencia se juzga por el logro de «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 3 debe permitir comprobar «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas». |
+| Inicio | 10 min | Para «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -162,7 +258,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -188,22 +284,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA A`:** Se promueve pertenencia responsable a la red de la vida desde lengua y cultura durante «desarrollaré «reconocer relaciones culturales · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 4 de 6: Construir una respuesta atribuida · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 {#cl-06465}
+### Clase 4 de 6: Construir una respuesta atribuida · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas {#cl-06465}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas mediante «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas a través de «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 4 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 4 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 4, la retroalimentación vuelve al criterio propio de «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 4, la evidencia se juzga por el logro de «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 4 debe permitir comprobar «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas». |
+| Inicio | 10 min | Para «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -211,7 +339,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -237,22 +365,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA C`:** Se promueve relación integral y respetuosa con los entornos y sus recursos durante «desarrollaré «construir una respuesta atribuida · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 5 de 6: Contrastar sin jerarquizar · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 {#cl-06466}
+### Clase 5 de 6: Contrastar sin jerarquizar · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas {#cl-06466}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas mediante «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas a través de «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 5 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 5 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 5, la retroalimentación vuelve al criterio propio de «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 5, la evidencia se juzga por el logro de «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 5 debe permitir comprobar «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas». |
+| Inicio | 10 min | Para «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -260,7 +420,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -286,22 +446,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA A`:** Se promueve pertenencia responsable a la red de la vida desde lengua y cultura durante «desarrollaré «contrastar sin jerarquizar · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 6 de 6: Comunicar con validación pertinente · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 {#cl-06467}
+### Clase 6 de 6: Comunicar con validación pertinente · Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas {#cl-06467}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas mediante «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas a través de «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 6 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 6 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 6, la retroalimentación vuelve al criterio propio de «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 6, la evidencia se juzga por el logro de «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LF02 · clase 6 debe permitir comprobar «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas». |
+| Inicio | 10 min | Para «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas, generalizar una fuente a todos los pueblos». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -309,7 +501,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «comunicar con validación pertinente · expresar oralmente en lengua indígena el análisis de diferentes aspectos socioculturales y espirituales de los distintos pueblos indígenas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 

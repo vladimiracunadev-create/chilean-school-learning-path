@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | En «comprender y modelar: realizar actividades y trabajos de forma rigurosa y perseverante de acuerdo con la enseñanza ancestral, los espacios físicos reales (familiares), ambientales, materiales y simbólicos, dando énfasis a la oralidad, con el fin de desarrollarlos de manera adecuada a la forma de vida de cada pueblo con el propósito de educar personas más respetuosas, en su vinculación permanente con los otros y con el desarrollo de una ciudadanía más intercultural en acción 2», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -177,6 +180,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -222,6 +226,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | En «demostrar y retroalimentar: realizar actividades y trabajos de forma rigurosa y perseverante de acuerdo con la enseñanza ancestral, los espacios físicos reales (familiares), ambientales, materiales y simbólicos, dando énfasis a la oralidad, con el fin de desarrollarlos de manera adecuada a la forma de vida de cada pueblo con el propósito de educar personas más respetuosas, en su vinculación permanente con los otros y con el desarrollo de una ciudadanía más intercultural en acción 5», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 

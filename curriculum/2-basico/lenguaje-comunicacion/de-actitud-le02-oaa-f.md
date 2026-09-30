@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 
 **Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Muestra una parte de tu producción que evidencie el OA transversal y completa: esto ayudó a mi aprendizaje porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 
 **Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
@@ -177,6 +180,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 
 **Profundización:** Transfiere la misma habilidad o actitud a otro OA de contenido y compara cómo cambia su manifestación observable.
@@ -222,6 +226,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Muestra una parte de tu producción que evidencie el OA transversal y completa: esto ayudó a mi aprendizaje porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión, una tarjeta con el OA transversal en lenguaje accesible y un marcador para localizar evidencia.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos contrastados y una frase inicial; admite señalar, dibujar o explicar oralmente, manteniendo la acción disciplinar.
 

@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-30 — Paquete de calidad para 4.859 clases desarrolladas
+
+- Incorporación por clase de un recurso concreto, una consigna exacta, una referencia de respuesta, una lista de preparación y una pauta analítica de cuatro niveles.
+- Sustitución de la mención genérica a 45 minutos por una distribución explícita de activación, modelado, práctica guiada, desempeño individual y ticket.
+- Eliminación de códigos de OA usados como relleno de unicidad y de frases genéricas detectadas en el barrido de 1° a 6° básico.
+- Nuevos controles automáticos de paridad por clase en Markdown y HTML, junto con rechazo de regresiones de redacción conocidas.
+- Protocolo y esquemas trazables para revisión humana y pilotaje de aula; ambos estados permanecen pendientes hasta contar con evidencia real.
+
 ## 2026-09-30 — 6° básico completo
 
 - Desarrollo de las once denominaciones pendientes: 854 clases disciplinares y 334 experiencias transversales integradas.

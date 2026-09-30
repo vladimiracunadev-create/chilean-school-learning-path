@@ -42,7 +42,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 5: Recuperar la lengua · Escuchar antes de repetir {#cl-00474}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · escuchar antes de repetir», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · escuchar antes de repetir», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy distinguiré un sonido en contexto.
 
@@ -55,6 +55,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · escuchar antes de repetir», responde a «distinguiré un sonido en contexto», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** grabación o modelo competente, espejo, tarjetas de significado y mapa toponímico
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · escuchar antes de repetir» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -91,7 +123,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 5: Recuperar la lengua · Observar cómo se produce {#cl-00475}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · observar cómo se produce», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · observar cómo se produce», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy notaré articulación sin caricaturizar.
 
@@ -104,6 +136,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · observar cómo se produce», responde a «notaré articulación sin caricaturizar», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** grabación o modelo competente, espejo, tarjetas de significado y mapa toponímico
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · observar cómo se produce» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -140,7 +204,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 5: Recuperar la lengua · Relacionar sonido y significado {#cl-00476}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · relacionar sonido y significado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · relacionar sonido y significado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy reconoceré una palabra verificada.
 
@@ -153,6 +217,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · relacionar sonido y significado», responde a «reconoceré una palabra verificada», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** grabación o modelo competente, espejo, tarjetas de significado y mapa toponímico
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · relacionar sonido y significado» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -189,7 +285,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 5: Recuperar la lengua · Contrastar con cuidado {#cl-00477}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · contrastar con cuidado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · contrastar con cuidado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy evitaré traducir el sonido a letras castellanas.
 
@@ -202,6 +298,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · contrastar con cuidado», responde a «evitaré traducir el sonido a letras castellanas», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** grabación o modelo competente, espejo, tarjetas de significado y mapa toponímico
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · contrastar con cuidado» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -238,7 +366,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 5 de 5: Recuperar la lengua · Reproducir con apoyo {#cl-00478}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · reproducir con apoyo», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · reproducir con apoyo», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy ensayaré respetando mi etapa de aprendizaje.
 
@@ -251,6 +379,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · reproducir con apoyo», responde a «ensayaré respetando mi etapa de aprendizaje», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** grabación o modelo competente, espejo, tarjetas de significado y mapa toponímico
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Sonidos propios de la lengua indígena · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · reproducir con apoyo» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 

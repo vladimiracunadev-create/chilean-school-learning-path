@@ -44,7 +44,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 4: Elegir una situación segura · Comunicación oral inicial en sensibilización {#cl-03798}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «elegir una situación segura · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral inicial en sensibilización a través de «elegir una situación segura · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «elegir una situación segura · comunicación oral inicial en sensibilización» y mostraré una decisión propia con evidencia.
 
@@ -53,10 +53,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «elegir una situación segura · comunicación oral inicial en sensibilización», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela elegir una situación segura · comunicación oral inicial en sensibilización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «elegir una situación segura · comunicación oral inicial en sensibilización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «elegir una situación segura · comunicación oral inicial en sensibilización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «elegir una situación segura · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «elegir una situación segura · comunicación oral inicial en sensibilización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «elegir una situación segura · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «elegir una situación segura · comunicación oral inicial en sensibilización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «elegir una situación segura · comunicación oral inicial en sensibilización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «elegir una situación segura · comunicación oral inicial en sensibilización». |
 
 **Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral inicial en sensibilización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «elegir una situación segura · comunicación oral inicial en sensibilización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -64,7 +96,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «elegir una situación segura · comunicación oral inicial en sensibilización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «elegir una situación segura · comunicación oral inicial en sensibilización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -93,7 +125,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 4: Escuchar palabras y significado · Comunicación oral inicial en sensibilización {#cl-03799}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «escuchar palabras y significado · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral inicial en sensibilización a través de «escuchar palabras y significado · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «escuchar palabras y significado · comunicación oral inicial en sensibilización» y mostraré una decisión propia con evidencia.
 
@@ -102,10 +134,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «escuchar palabras y significado · comunicación oral inicial en sensibilización», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela escuchar palabras y significado · comunicación oral inicial en sensibilización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «escuchar palabras y significado · comunicación oral inicial en sensibilización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «escuchar palabras y significado · comunicación oral inicial en sensibilización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar palabras y significado · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «escuchar palabras y significado · comunicación oral inicial en sensibilización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar palabras y significado · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «escuchar palabras y significado · comunicación oral inicial en sensibilización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «escuchar palabras y significado · comunicación oral inicial en sensibilización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «escuchar palabras y significado · comunicación oral inicial en sensibilización». |
 
 **Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral inicial en sensibilización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «escuchar palabras y significado · comunicación oral inicial en sensibilización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -113,7 +177,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «escuchar palabras y significado · comunicación oral inicial en sensibilización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «escuchar palabras y significado · comunicación oral inicial en sensibilización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -142,7 +206,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 4: Preparar una idea o sentimiento ficticio · Comunicación oral inicial en sensibilización {#cl-03800}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral inicial en sensibilización a través de «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» y mostraré una decisión propia con evidencia.
 
@@ -151,10 +215,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización». |
 
 **Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral inicial en sensibilización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -162,7 +258,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «preparar una idea o sentimiento ficticio · comunicación oral inicial en sensibilización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -191,7 +287,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 4: Dialogar con apoyo · Comunicación oral inicial en sensibilización {#cl-03801}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral inicial en sensibilización mediante «dialogar con apoyo · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral inicial en sensibilización a través de «dialogar con apoyo · comunicación oral inicial en sensibilización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «dialogar con apoyo · comunicación oral inicial en sensibilización» y mostraré una decisión propia con evidencia.
 
@@ -200,10 +296,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «dialogar con apoyo · comunicación oral inicial en sensibilización», ubica pueblo, territorio, situaciones ficticias y modelos aportados por una fuente pertinente y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela dialogar con apoyo · comunicación oral inicial en sensibilización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «forzar repetición o evaluar identidad mediante pronunciación». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «dialogar con apoyo · comunicación oral inicial en sensibilización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «dialogar con apoyo · comunicación oral inicial en sensibilización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «dialogar con apoyo · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «dialogar con apoyo · comunicación oral inicial en sensibilización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «dialogar con apoyo · comunicación oral inicial en sensibilización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «dialogar con apoyo · comunicación oral inicial en sensibilización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «dialogar con apoyo · comunicación oral inicial en sensibilización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «dialogar con apoyo · comunicación oral inicial en sensibilización». |
 
 **Materiales y preparación:** situaciones ficticias y modelos aportados por una fuente pertinente; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral inicial en sensibilización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «dialogar con apoyo · comunicación oral inicial en sensibilización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -211,7 +339,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «dialogar con apoyo · comunicación oral inicial en sensibilización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «dialogar con apoyo · comunicación oral inicial en sensibilización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 

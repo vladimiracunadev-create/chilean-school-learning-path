@@ -12,6 +12,8 @@ Esta guía ayuda a transformar una ficha del portal en una experiencia enseñabl
 4. Anticipa vocabulario, conocimientos previos y el error señalado.
 5. Decide qué apoyo ofrecerás primero y cuándo lo retirarás.
 
+En la ficha encontrarás un **paquete de uso de aula**: recurso concreto, consigna literal, referencia para anticipar una respuesta lograda, pauta de cuatro niveles y cronograma de 45 minutos. Revisa ese paquete antes de enseñar; la referencia orienta la retroalimentación, pero no debe convertirse en una respuesta para copiar.
+
 No intentes cubrir todas las sugerencias a la vez. Protege el propósito, la práctica y la evidencia final.
 
 ## Anatomía de una clase
@@ -24,7 +26,7 @@ No intentes cubrir todas las sugerencias a la vez. Protege el propósito, la pr�
 | Desempeño individual · 25 min | ¿Qué puede hacer cada estudiante sin copiar? | Evidencia individual en una vía pertinente. |
 | Ticket · 10 min | ¿Avanzamos, reagrupamos o reenseñamos? | Respuesta breve contrastada con criterios. |
 
-Los minutos son orientativos. En una jornada de 45 minutos usa la adaptación incluida en la ficha y conserva el núcleo cognitivo.
+Los minutos del bloque de 90 son orientativos. En una jornada de 45 minutos sigue la tabla de cinco tramos incluida en cada ficha: 5 minutos de activación, 8 de modelado, 12 de primer intento guiado, 15 de desempeño individual y 5 de ticket y decisión. Ajusta la transición, no elimines la evidencia individual.
 
 Cada clase desarrollada agrega una tarea breve y flexible, tres actividades complementarias y una matriz de dificultades. Son opciones gobernadas por evidencia, no una lista que deba ejecutarse completa.
 

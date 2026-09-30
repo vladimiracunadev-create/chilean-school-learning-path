@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Voz, cuerpo, objetos sonoros seguros e instrumento disponible; prepara silencio, señal de inicio y volumen protegido
 
+
 **Apoyo en el mismo OA:** Usa pulso visible, eco de un motivo corto, participación corporal y opción de escuchar sin exposición solista
 
 **Profundización:** Transforma el patrón cambiando una cualidad sonora y explica cómo cambia su carácter
@@ -86,6 +87,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
 **Materiales y preparación:** Voz, cuerpo, objetos sonoros seguros e instrumento disponible; prepara silencio, señal de inicio y volumen protegido
+
 
 **Apoyo en el mismo OA:** Usa pulso visible, eco de un motivo corto, participación corporal y opción de escuchar sin exposición solista
 
@@ -135,6 +137,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Voz, cuerpo, objetos sonoros seguros e instrumento disponible; prepara silencio, señal de inicio y volumen protegido
 
+
 **Apoyo en el mismo OA:** Usa pulso visible, eco de un motivo corto, participación corporal y opción de escuchar sin exposición solista
 
 **Profundización:** Transforma el patrón cambiando una cualidad sonora y explica cómo cambia su carácter
@@ -182,6 +185,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
 
 **Materiales y preparación:** Voz, cuerpo, objetos sonoros seguros e instrumento disponible; prepara silencio, señal de inicio y volumen protegido
+
 
 **Apoyo en el mismo OA:** Usa pulso visible, eco de un motivo corto, participación corporal y opción de escuchar sin exposición solista
 

@@ -27,6 +27,7 @@ from grade_five_core_lessons import build_sequence as build_grade_five_core_sequ
 from grade_five_remaining_lessons import build_sequence as build_grade_five_remaining_sequence, build_transversal_integration as build_grade_five_remaining_integration
 from grade_six_math_lessons import build_sequence as build_grade_six_math_sequence, build_transversal_integration as build_grade_six_math_integration
 from grade_six_remaining_lessons import build_sequence as build_grade_six_remaining_sequence, build_transversal_integration as build_grade_six_remaining_integration
+from lesson_quality_enrichment import enrich_item
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
 def dose(text,slug,reads):
@@ -63,6 +64,31 @@ def developed_block(lesson):
  transversal_types={row["type"] for row in lesson.get("transversal", [])}
  transversal_heading="Integración de habilidad y actitud" if len(transversal_types)>1 else "Integración de actitud transversal"
  transversal_section=f"\n\n**{transversal_heading}:**\n{transversal}" if transversal else ""
+ assessment="\n".join(f"| {row['level']} | {row['descriptor']} |" for row in lesson.get("assessment_levels", []))
+ timing_45="\n".join(f"| {row['minutes']} min | {row['action']} |" for row in lesson.get("timing_45", []))
+ teacher_checks="\n".join(f"- [ ] {value}" for value in lesson.get("teacher_checklist", []))
+ quality_section=f"""### Insumo concreto y consigna
+
+**Recurso listo para usar:** {lesson['concrete_resource']}
+
+**Consigna exacta:** {lesson['exact_prompt']}
+
+**Referencia para modelar y corregir:** {lesson['response_reference']}
+
+**Lista de preparación docente:**
+{teacher_checks}
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+{assessment}
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+{timing_45}
+
+""" if lesson.get("assessment_levels") else ""
  return f"""**Propósito docente:** {lesson['purpose']}
 
 **Meta para estudiantes:** {lesson['goal']}
@@ -77,6 +103,7 @@ def developed_block(lesson):
 
 **Materiales y preparación:** {lesson['materials']}
 
+{quality_section}
 **Apoyo en el mismo OA:** {lesson['support']}
 
 **Profundización:** {lesson['extension']}
@@ -108,11 +135,11 @@ def official_alignment_markdown(item):
  if not data:return ""
  units="\n".join(f"- {value}" for value in data.get("units",[]))
  unit_heading="Organización interna de la secuencia" if data.get("unit_origin") else "Unidades relacionadas"
- unit_note=f"\n\n> **Origen:** {data['unit_origin']}." if data.get("unit_origin") else ""
+ unit_note=f"\n\n> **Origen:** {data['unit_origin'].rstrip('.')}." if data.get("unit_origin") else ""
  indicators="\n".join(f"- {value}" for value in data.get("indicators",[]))
  derived=bool(data.get("indicator_origin"))
  indicator_heading="Criterios de progresión derivados del OA" if derived else "Indicadores considerados para diseñar la secuencia"
- indicator_note=f"\n> **Origen:** {data['indicator_origin']}.\n" if derived else ""
+ indicator_note=f"\n> **Origen:** {data['indicator_origin'].rstrip('.')}.\n" if derived else ""
  source_label="Fuente oficial del OA" if derived else "Fuente oficial de unidades e indicadores"
  return f"""## Alineación con el programa oficial
 **{unit_heading}**
@@ -952,7 +979,7 @@ def documentation_page(objs,classes):
 <main id="documentacion" class="level-shell"><header class="level-hero docs-hero"><div><p class="eyebrow">Documentación pedagógica</p><h1>Del currículum a decisiones de aula.</h1><p>Una arquitectura para recorrer 1° a 6° básico completos, con estados, decisiones y límites visibles.</p><div class="hero-actions"><a class="button primary" href="levels/6-basico.html">Abrir 6° completo</a><a class="button dark-text" href="docs/6-basico/index.html">Abrir documentación de 6°</a></div></div><aside><span>Documentación por nivel</span><strong>68 guías de asignatura</strong><small>seis niveles completos · 12 guías de 6°</small></aside></header>
 <section class="level-metrics"><div><strong>{total_developed}</strong><span>clases desarrolladas en el catálogo</span></div><div><strong>{total_integrated}</strong><span>experiencias integradas</span></div><div><strong>{second_sequenced+third_pending+fourth_pending}</strong><span>pendientes de 1° a 6° básico</span></div><div><strong>0</strong><span>revisiones humanas registradas</span></div></section>
 <section class="level-intro"><div><p class="eyebrow">Empieza según tu tarea</p><h2>Documentos que responden preguntas concretas</h2></div><p><strong>Syllabus:</strong> alcance y planificación. <strong>Guía docente:</strong> conducción de clases. <strong>Rúbrica:</strong> evidencia y decisiones. <strong>FAQ:</strong> límites y uso. <strong>Familias:</strong> acompañamiento. <strong>Revisión:</strong> cómo validar responsablemente.</p></section>
-<section class="doc-link-grid"><a href="docs/que-es-un-oa.html"><span>01</span><strong>¿Qué es un OA?</strong><small>Explicación simple con ejemplo</small></a><a href="docs/syllabus.html"><span>02</span><strong>Syllabus</strong><small>Programa, ritmo y planificación</small></a><a href="docs/teaching-guide.html"><span>03</span><strong>Guía docente</strong><small>Preparar, enseñar y adaptar</small></a><a href="docs/roles-docentes.html"><span>04</span><strong>Roles en el aula</strong><small>Responsabilidades y coordinación</small></a><a href="docs/dificultades-en-el-aula.html"><span>05</span><strong>Dificultades y acciones</strong><small>Observar, actuar y comprobar</small></a><a href="docs/rubrica-evaluacion.html"><span>06</span><strong>Rúbrica</strong><small>Observar y decidir</small></a><a href="docs/cobertura.html"><span>07</span><strong>Cobertura total</strong><small>12 niveles con acceso directo</small></a><a href="docs/formatos.html"><span>08</span><strong>Markdown + HTML</strong><small>Cómo se publica cada clase</small></a><a href="docs/licencias.html"><span>09</span><strong>Licencias</strong><small>Qué puede reutilizarse</small></a><a href="docs/faq.html"><span>10</span><strong>Preguntas frecuentes</strong><small>Uso, alcance y límites</small></a></section>
+<section class="doc-link-grid"><a href="docs/que-es-un-oa.html"><span>01</span><strong>¿Qué es un OA?</strong><small>Explicación simple con ejemplo</small></a><a href="docs/syllabus.html"><span>02</span><strong>Syllabus</strong><small>Programa, ritmo y planificación</small></a><a href="docs/teaching-guide.html"><span>03</span><strong>Guía docente</strong><small>Preparar, enseñar y adaptar</small></a><a href="docs/roles-docentes.html"><span>04</span><strong>Roles en el aula</strong><small>Responsabilidades y coordinación</small></a><a href="docs/dificultades-en-el-aula.html"><span>05</span><strong>Dificultades y acciones</strong><small>Observar, actuar y comprobar</small></a><a href="docs/rubrica-evaluacion.html"><span>06</span><strong>Rúbrica</strong><small>Observar y decidir</small></a><a href="docs/cobertura.html"><span>07</span><strong>Cobertura total</strong><small>12 niveles con acceso directo</small></a><a href="docs/formatos.html"><span>08</span><strong>Markdown + HTML</strong><small>Cómo se publica cada clase</small></a><a href="docs/licencias.html"><span>09</span><strong>Licencias</strong><small>Qué puede reutilizarse</small></a><a href="docs/faq.html"><span>10</span><strong>Preguntas frecuentes</strong><small>Uso, alcance y límites</small></a><a href="docs/pilotaje-aula.html"><span>11</span><strong>Pilotaje de aula</strong><small>Aplicar, observar y registrar sin datos personales</small></a></section>
 <section class="oa-explainer"><div><p class="eyebrow">Sin siglas misteriosas</p><h2>OA significa Objetivo de Aprendizaje.</h2></div><div><p>Describe lo que una o un estudiante debe llegar a comprender o hacer. <strong>No es una clase, una tarea ni una actividad.</strong></p><p><code>MA01 OA 01</code> se lee: Matemática · 1° básico · Objetivo de Aprendizaje número 1. El proyecto convierte cada OA en una secuencia de clases con evidencia.</p></div></section>
 <section class="level-intro"><div><p class="eyebrow">Cobertura navegable</p><h2>Los 12 niveles, sin callejones sin salida</h2></div><p>Cada tarjeta abre el explorador ya filtrado. Las cifras separan cobertura curricular, desarrollo editorial y revisión humana.</p></section><section class="coverage-grid">{coverage_cards}</section>
 <section class="level-intro"><div><p class="eyebrow">Primer nivel completo</p><h2>1° básico, asignatura por asignatura</h2></div><p>Once guías con propósito, resultados, prerrequisitos, método, anatomía, recorrido OA por OA, evaluación, recuperación y acceso.</p></section><div class="hero-actions"><a class="button primary" href="levels/1-basico.html">Abrir mapa de 1°</a><a class="button dark-text" href="docs/1-basico/index.html">Ver índice documental</a></div><section class="level-grid">{first_cards}</section>
@@ -976,13 +1003,20 @@ def developed_lesson_html(item,index,code,lesson,status):
  transversal_types={row["type"] for row in lesson.get("transversal", [])}
  transversal_heading="Habilidad y actitud en esta clase" if len(transversal_types)>1 else "Actitud transversal en esta clase"
  transversal_panel=f'<section class="transversal-panel"><p class="eyebrow">Integración curricular</p><h3>{transversal_heading}</h3><ul>{transversal}</ul></section>' if transversal else ""
+ teacher_checks="".join(f"<li>{esc(value)}</li>" for value in lesson.get("teacher_checklist", []))
+ assessment_rows="".join(f"<tr><td><strong>{esc(row['level'])}</strong></td><td>{esc(row['descriptor'])}</td></tr>" for row in lesson.get("assessment_levels", []))
+ timing_rows="".join(f"<tr><td>{esc(row['minutes'])} min</td><td>{esc(row['action'])}</td></tr>" for row in lesson.get("timing_45", []))
+ quality_pack=(f'<section class="quality-pack"><p class="eyebrow">Insumo concreto y consigna</p><h3>Recurso listo para usar</h3><p>{esc(lesson["concrete_resource"])}</p><h3>Consigna exacta</h3><p>{esc(lesson["exact_prompt"])}</p><h3>Referencia para modelar y corregir</h3><p>{esc(lesson["response_reference"])}</p><h3>Preparación docente</h3><ul>{teacher_checks}</ul></section>' if is_developed else "")
+ quality_tables=(f'<section class="quality-tables"><h3>Pauta de evaluación de cuatro niveles</h3><div class="table-scroll"><table><thead><tr><th>Nivel</th><th>Descriptor observable</th></tr></thead><tbody>{assessment_rows}</tbody></table></div><h3>Distribución de 45 minutos</h3><div class="table-scroll"><table><thead><tr><th>Tiempo</th><th>Acción preservada</th></tr></thead><tbody>{timing_rows}</tbody></table></div></section>' if is_developed else "")
  return f'''<article class="lesson {'lesson-developed' if is_developed else 'lesson-draft'}" id="{esc(code.lower())}">
 <header><span class="lesson-number">{index:02d}</span><div><p>Clase {index} de {len(item['phases'])}</p><h2>{esc(lesson['title'])}</h2></div><span class="status-badge {status_class}">{status_label}</span></header>
 <p class="lesson-focus"><strong>Propósito docente:</strong> {esc(lesson['purpose'])}</p><p class="student-goal"><strong>Meta para estudiantes:</strong> {esc(lesson['goal'])}</p>
 <div class="lesson-grid"><section><h3>Inicio · 10 min</h3><p>{esc(lesson['opening'])}</p></section><section><h3>Modelado · 20 min</h3><p>{esc(lesson['model'])}</p></section><section><h3>Práctica guiada · 25 min</h3><p>{esc(lesson['guided'])}</p></section><section><h3>Desempeño individual · 25 min</h3><p>{esc(lesson['independent'])}</p></section></div>
 <div class="material-callout"><h3>Materiales y preparación</h3><p>{esc(lesson['materials'])}</p></div>
+{quality_pack}
 <div class="support-grid"><p><strong>Apoyo:</strong> {esc(lesson['support'])}</p><p><strong>Profundización:</strong> {esc(lesson['extension'])}</p></div>
 <div class="assessment-grid"><section><h3>Ticket de salida · 10 min</h3><p>{esc(lesson['ticket'])}</p><p><strong>Evidencia:</strong> {esc(lesson['evidence'])}</p></section><section><h3>Criterios observables</h3><ul>{criteria}</ul></section></div>
+{quality_tables}
 <p class="next-step"><strong>Decisión posterior:</strong> {esc(lesson['next_step'])}</p><p class="short-version"><strong>Si dispone de 45 minutos:</strong> {esc(lesson['short_version'])}</p>
 <div class="extension-grid"><section><p class="eyebrow">Consolidación</p><h3>Tarea breve y flexible</h3><p>{esc(lesson.get('home_task','Consolida el aprendizaje con una evidencia breve sin internet ni materiales comprados.'))}</p></section><section><p class="eyebrow">Banco opcional</p><h3>Actividades complementarias</h3><ul>{complementary}</ul></section></div>
 <section class="difficulty-panel"><p class="eyebrow">Respuesta durante la clase</p><h3>Control de dificultades con acciones</h3><div class="table-scroll"><table><thead><tr><th>Dificultad observable</th><th>Acción inmediata</th><th>Comprobación</th></tr></thead><tbody>{difficulties}</tbody></table></div><p class="role-note"><strong>Coordinación profesional:</strong> {esc(lesson.get('specialist_coordination','El docente responsable conserva la conducción del OA y acuerda barrera, acción y evidencia con los profesionales de apoyo.'))}</p></section>
@@ -1106,6 +1140,7 @@ def main():
    if item["developed"] and r["course_order"]==1 and oa["code"].startswith(("MU01 OA ","EF01 OA ","OR01 OA ","TE01 OA ","EN01 OA ","LC01 OA ")):
     for lesson_index,lesson in enumerate(item["developed"]["lessons"]):
      lesson["transversal"]=remaining_transversal_link(oa["code"],lesson_index,lesson["goal"].removeprefix("Hoy ").rstrip("."))
+   if item["developed"]:enrich_item(item)
    if item["developed"] and len(item["developed"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el contenido desarrollado debe tener {len(phases)} clases")
    if item.get("draft") and len(item["draft"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: el borrador debe tener {len(phases)} clases")
    if item.get("integration") and len(item["integration"]["lessons"]) != len(phases):raise ValueError(f"{oa['code']}: la integración debe tener {len(phases)} experiencias")
@@ -1199,6 +1234,12 @@ def main():
   documentation_pages=generate_documentation_pages()
  else:documentation_pages=[]
  (ROOT/"site"/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False)+"\n",encoding="utf-8")
+ reviews_site=ROOT/"site"/"reviews";reviews_site.mkdir(parents=True,exist_ok=True)
+ for schema_name in ("review-record.schema.json","pilot-record.schema.json"):
+  shutil.copyfile(ROOT/"reviews"/schema_name,reviews_site/schema_name)
+ reviews_site=ROOT/"site"/"reviews";reviews_site.mkdir(parents=True,exist_ok=True)
+ for schema_name in ("review-record.schema.json","pilot-record.schema.json"):
+  shutil.copyfile(ROOT/"reviews"/schema_name,reviews_site/schema_name)
  lines=["# Planificación curricular chilena","",f"## {cat['class_count']:,} clases · {cat['objective_count']:,} OA · 12 niveles".replace(",","."),"","Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación de 4 a 7 clases se ajusta con evidencia.","","> Formación común, propuestas, asignaturas según contexto y electivos se distinguen; no representan una carga simultánea.",""]
  for order in range(1,13):
   cur=[x for x in classes if x["course_order"]==order];seen={}

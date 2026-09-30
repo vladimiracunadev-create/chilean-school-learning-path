@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 
 **Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Describe una acción observable, la evidencia producida y el ajuste para el siguiente intento. |
 
 **Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 
 **Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
@@ -177,6 +180,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 
 **Profundización:** Transfiere el foco a otra fuente, investigación, escala o rol y compara qué cambia.
@@ -222,6 +226,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Describe una acción observable, la evidencia producida y el ajuste para el siguiente intento. |
 
 **Materiales y preparación:** Tarea disciplinar, pauta breve y medio accesible; sin materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable y ofrece pauta visual o ensayo; mantiene íntegra la demanda disciplinar.
 

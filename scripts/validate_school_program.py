@@ -430,7 +430,8 @@ def validate(root: Path = ROOT) -> list[str]:
         if f'id="{web_anchor}"' not in html_cache[web_path]:
             errors.append(f"Falta ancla web {web_anchor} en {web_path}")
         if item["editorial_status"] == "desarrollada":
-            tokens = ["Propósito docente", "Meta para estudiantes", "Materiales y preparación", "Criterios observables", "Decisión posterior", "Tarea breve y flexible", "Actividades complementarias", "Control de dificultades con acciones", "Coordinación profesional"]
+            quality_tokens = ["Insumo concreto y consigna", "Recurso listo para usar", "Consigna exacta", "Referencia para modelar y corregir", "Pauta de evaluación de cuatro niveles", "Distribución de 45 minutos"]
+            tokens = ["Propósito docente", "Meta para estudiantes", "Materiales y preparación", "Criterios observables", "Decisión posterior", "Tarea breve y flexible", "Actividades complementarias", "Control de dificultades con acciones", "Coordinación profesional", *quality_tokens]
             if item.get("subject_slug") == "matematica" and item.get("course_order") in {1, 2, 3, 4, 5, 6}:
                 tokens.append("Habilidad y actitud en esta clase")
             if item.get("subject_slug") == "lenguaje-comunicacion" and item.get("course_order") in {1, 3, 5, 6}:
@@ -446,11 +447,23 @@ def validate(root: Path = ROOT) -> list[str]:
             for token in tokens:
                 if token not in html_cache[web_path]:
                     errors.append(f"{web_path} no materializa el contrato desarrollado: falta {token}")
+            if item["lesson"] == 1:
+                for token in quality_tokens:
+                    if html_cache[web_path].count(token) != item["lesson_count"]:
+                        errors.append(f"{web_path} debe incluir {item['lesson_count']} bloques de «{token}»")
+                markdown_quality_tokens = ["### Insumo concreto y consigna", "**Recurso listo para usar:**", "**Consigna exacta:**", "**Referencia para modelar y corregir:**", "**Pauta de evaluación de cuatro niveles:**", "| Distribución de 45 minutos |"]
+                for token in markdown_quality_tokens:
+                    if markdown_cache[markdown_path].count(token) != item["lesson_count"]:
+                        errors.append(f"{markdown_path} debe incluir {item['lesson_count']} bloques de «{token}»")
+                forbidden_phrases = ["responde al foco específico de la clase", "Recursos reutilizables para", "Modela cómo modelar", "no por imitar el ejemplo", "no se transfiere mecánicamente a otro OA", ",,", "oficial.."]
+                for phrase in forbidden_phrases:
+                    if phrase in markdown_cache[markdown_path]:
+                        errors.append(f"{markdown_path} conserva redacción genérica o defectuosa: {phrase}")
 
     pages = list((root / "site/classes").rglob("*.html"))
     if len(pages) != objective_count:
         errors.append(f"Páginas de OA: {len(pages)}, esperadas: {objective_count}")
-    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html", "levels/5-basico.html", "levels/6-basico.html"):
+    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html", "levels/5-basico.html", "levels/6-basico.html", "reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
     documentation_pages = list((root / "site/docs").rglob("*.html"))
@@ -492,7 +505,7 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"Vista de 6° básico incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "68 guías de asignatura", "seis niveles completos · 12 guías de 6°", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "Sexto nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML"):
+    for token in ("Documentación pedagógica", "68 guías de asignatura", "seis niveles completos · 12 guías de 6°", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "Sexto nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML", "Pilotaje de aula"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     if any(documentation_html.count(f"Leer guía de {level} completa") != 11 for level in ("1°", "2°", "3°", "4°")):
@@ -503,7 +516,7 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("La portada documental no presenta las 12 guías de 6° básico")
     required_docs = {
         "README.md": ("12.997", "2.823", "4.859", "2.299", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
-        "docs/README.md": ("Estado verificable", "Cómo leer los estados"),
+        "docs/README.md": ("1° a 6° básico con desarrollo interno completo", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
         "docs/TERCERO_BASICO.md": ("1.136", "Decisiones con evidencia", "Continuidad"),
@@ -536,6 +549,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
         "docs/REVISION_HUMANA.md": ("Protocolo de revisión humana", "Registro de evidencia"),
+        "docs/PILOTAJE_AULA.md": ("Protocolo de pilotaje de aula", "0 pilotajes de aula registrados", "pilot-record.schema.json"),
         "docs/QUE_ES_UN_OA.md": ("OA significa Objetivo de Aprendizaje", "OA, clase, actividad y evidencia"),
         "docs/GLOSARIO.md": ("Glosario educativo", "Códigos rápidos"),
         "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
@@ -562,6 +576,17 @@ def validate(root: Path = ROOT) -> list[str]:
         for token in tokens:
             if token not in document:
                 errors.append(f"{relative_path} incompleto: falta {token}")
+    for schema_path in ("reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
+        try:
+            schema = json.loads((root / schema_path).read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            errors.append(f"Esquema de evidencia inválido {schema_path}: {exc}")
+            continue
+        if schema.get("type") != "object" or not schema.get("required"):
+            errors.append(f"Esquema de evidencia incompleto: {schema_path}")
+    review_records = [path for path in (root / "reviews").glob("*.json") if not path.name.endswith(".schema.json")]
+    if review_records and catalog.get("editorial_counts", {}).get("revisada") == 0:
+        errors.append("Existen registros de revisión sin sincronizar el estado editorial")
     learning_paths = (root / "LEARNING_PATHS.md").read_text(encoding="utf-8")
     for legacy_term in ("Licencias de software", "SPDX/SBOM/REUSE", "data scientists"):
         if legacy_term in learning_paths:

@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | En «comprender y modelar: demostrar disposición a trabajar en equipo, colaborar con otros y aceptar consejos y críticas en acción 2», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -176,6 +179,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | En «demostrar y retroalimentar: demostrar disposición a trabajar en equipo, colaborar con otros y aceptar consejos y críticas en acción 4», señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta que expresa la actitud como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, frase inicial y vía equivalente de participación; conserva la decisión disciplinar y los resguardos culturales, físicos o comunicativos.
 

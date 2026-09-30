@@ -14,7 +14,13 @@ Los conteos públicos muestran estos estados por separado. Una clase puede estar
 
 ## Contrato mínimo por clase
 
-Cada clase debe tener identificador, nivel, asignatura, OA, posición, propósito, meta para estudiantes, explicación disciplinar, vocabulario, conocimientos previos, error previsible, materiales, inicio, modelado, práctica guiada e individual, apoyo, profundización, cierre, evidencia, criterio de éxito, decisión posterior, adaptación de 45/90 minutos, accesibilidad y fuentes.
+Cada clase debe tener identificador, nivel, asignatura, OA, posición, propósito, meta para estudiantes, explicación disciplinar, vocabulario, conocimientos previos, error previsible, materiales, inicio, modelado, práctica guiada e individual, apoyo, profundización, cierre, evidencia, criterio de éxito, decisión posterior, accesibilidad y fuentes. Además, toda clase desarrollada publica cinco componentes utilizables sin completar una plantilla:
+
+1. un insumo concreto reproducible o una especificación segura para prepararlo;
+2. una consigna exacta para estudiantes;
+3. una referencia de respuesta que permita modelar y corregir sin imponer una única forma;
+4. una pauta de cuatro niveles con descriptores observables;
+5. una distribución explícita de 45 minutos que conserva modelado, práctica y evidencia individual.
 
 ## Criterios de una clase desarrollada
 
@@ -89,6 +95,8 @@ Los validadores revisan estructura, campos, conteos, estados, archivos, anclas y
 - paridad documental: ningún índice o guía de un nivel completo puede tener menor profundidad estructural que su equivalente;
 - syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión;
 - portada documental HTML;
-- ausencia de contenido heredado ajeno al curso.
+- ausencia de contenido heredado ajeno al curso;
+- presencia de los cinco componentes de uso de aula en cada una de las 4.859 clases desarrolladas;
+- ausencia de criterios de relleno, códigos usados como falsa diferenciación y defectos de puntuación conocidos.
 
 La automatización detecta ausencia y deriva; no certifica verdad disciplinar ni pertinencia humana.

@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
 
 **Profundización:** Transfiere la actitud a otro OA de la asignatura y compara cómo cambia su manifestación concreta.
@@ -176,6 +179,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Señala una evidencia propia de la actitud y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA disciplinar anfitrión y una tarjeta con la actitud expresada como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece dos ejemplos, una frase inicial y una vía equivalente de participación; conserva la decisión disciplinar.
 

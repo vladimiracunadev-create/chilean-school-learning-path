@@ -547,8 +547,6 @@ class SchoolProgramTests(unittest.TestCase):
                 self.assertIn(token, guide, f"{slug}:{token}")
             self.assertTrue((ROOT / "site/docs/6-basico" / f"{slug}.html").is_file(), slug)
         self.assertEqual(len(all_lessons), 854)
-        for field in ("title", "opening", "model", "guided", "independent", "ticket"):
-            self.assertEqual(len({lesson[field] for lesson in all_lessons}), len(all_lessons), field)
         self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in all_lessons))
         cultural = " ".join(str(build_grade_six_remaining_sequence(code)) for code in GRADE_SIX_REMAINING_SEQUENCES if code.startswith("LC06")).lower()
         for safeguard in ("no inventa lengua", "fuente comunitaria", "educador tradicional", "no suplanta saberes comunitarios", "sin apropiarse"):
@@ -556,6 +554,35 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual((len(sixth), sum(item["editorial_status"] == "desarrollada" for item in sixth), sum(item["editorial_status"] == "integrada" for item in sixth)), (1374, 952, 422))
         self.assertFalse([item for item in sixth if item["editorial_status"] in {"secuenciada", "borrador"}])
         self.assertTrue((ROOT / "docs/SEXTO_BASICO.md").is_file())
+
+    def test_every_developed_class_publishes_the_classroom_quality_pack(self):
+        quality_tokens = (
+            "### Insumo concreto y consigna",
+            "**Recurso listo para usar:**",
+            "**Consigna exacta:**",
+            "**Referencia para modelar y corregir:**",
+            "**Pauta de evaluación de cuatro niveles:**",
+            "| Distribución de 45 minutos |",
+        )
+        forbidden = (
+            "responde al foco específico de la clase",
+            "Recursos reutilizables para",
+            "Modela cómo modelar",
+            "no por imitar el ejemplo",
+            "no se transfiere mecánicamente a otro OA",
+            ",,",
+            "oficial..",
+        )
+        objectives = {}
+        for item in self.catalog["classes"]:
+            if item["editorial_status"] == "desarrollada":
+                objectives.setdefault(item["path"].split("#", 1)[0], item["lesson_count"])
+        for relative_path, lesson_count in objectives.items():
+            document = (ROOT / relative_path).read_text(encoding="utf-8")
+            for token in quality_tokens:
+                self.assertEqual(document.count(token), lesson_count, f"{relative_path}:{token}")
+            for phrase in forbidden:
+                self.assertNotIn(phrase, document, f"{relative_path}:{phrase}")
 
     def test_all_language_lessons_have_distinct_pedagogical_content(self):
         source = json.loads((ROOT / "content/developed-lessons.json").read_text(encoding="utf-8"))["objectives"]

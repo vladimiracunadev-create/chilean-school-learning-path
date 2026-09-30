@@ -42,7 +42,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 4: Primer acercamiento · Palabra y situación {#cl-00506}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua mediante «primer acercamiento · palabra y situación», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua a través de «primer acercamiento · palabra y situación», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy conoceré significado y ocasión de uso.
 
@@ -55,6 +55,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · palabra y situación», responde a «conoceré significado y ocasión de uso», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** fuente lingüística local, mapa, imágenes contextualizadas y fichas de uso
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · palabra y situación» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -91,7 +123,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 4: Primer acercamiento · Toponimia con territorio {#cl-00507}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua mediante «primer acercamiento · toponimia con territorio», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua a través de «primer acercamiento · toponimia con territorio», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy relacionaré un nombre con un lugar.
 
@@ -104,6 +136,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · toponimia con territorio», responde a «relacionaré un nombre con un lugar», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** fuente lingüística local, mapa, imágenes contextualizadas y fichas de uso
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · toponimia con territorio» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -140,7 +204,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 4: Primer acercamiento · Nombre y memoria {#cl-00508}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua mediante «primer acercamiento · nombre y memoria», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua a través de «primer acercamiento · nombre y memoria», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy comprenderé que la antroponimia porta historia.
 
@@ -153,6 +217,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · nombre y memoria», responde a «comprenderé que la antroponimia porta historia», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** fuente lingüística local, mapa, imágenes contextualizadas y fichas de uso
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · nombre y memoria» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -189,7 +285,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 4: Primer acercamiento · Interacción breve cuidada {#cl-00509}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua mediante «primer acercamiento · interacción breve cuidada», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua a través de «primer acercamiento · interacción breve cuidada», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy usaré una expresión solo en contexto verificado.
 
@@ -202,6 +298,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «primer acercamiento · interacción breve cuidada», responde a «usaré una expresión solo en contexto verificado», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** fuente lingüística local, mapa, imágenes contextualizadas y fichas de uso
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Palabras, frases, toponimia y antroponimia culturalmente significativas · contexto de sensibilización sobre la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «primer acercamiento · interacción breve cuidada» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 

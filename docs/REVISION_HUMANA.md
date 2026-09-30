@@ -1,6 +1,6 @@
 # ✅ Protocolo de revisión humana
 
-> [⬅️ Centro de documentación](README.md) · [📏 Estándar de calidad](../QUALITY_STANDARD.md) · [🤝 Contribuir](../CONTRIBUTING.md)
+> [⬅️ Centro de documentación](README.md) · [📏 Estándar de calidad](../QUALITY_STANDARD.md) · [🧪 Pilotaje de aula](PILOTAJE_AULA.md) · [🤝 Contribuir](../CONTRIBUTING.md)
 
 Una clase no cambia a estado **revisada** por haber pasado tests. La revisión exige una persona competente, alcance explícito y evidencia reproducible.
 
@@ -92,6 +92,8 @@ Cada revisión debe guardar:
 | Hallazgos | Lista trazable con severidad |
 | Cambios | Commit o PR que los resuelve |
 | Pendientes | Dimensiones aún no revisadas |
+
+El registro se guarda en `reviews/` y debe validar contra [`review-record.schema.json`](../reviews/review-record.schema.json). El esquema exige alcance, commit, dimensiones, resultado y hallazgos; no se acepta una marca informal en documentación. Actualmente no existe ningún registro aprobado, por lo que el contador verificable permanece en cero.
 
 ## Regla de publicación
 

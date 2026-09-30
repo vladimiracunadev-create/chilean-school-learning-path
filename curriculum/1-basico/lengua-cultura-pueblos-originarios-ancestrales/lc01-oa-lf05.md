@@ -42,7 +42,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 4: Lengua en uso · Mirar con procedencia {#cl-00459}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua mediante «lengua en uso · mirar con procedencia», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua a través de «lengua en uso · mirar con procedencia», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy identificaré pueblo, soporte y fuente.
 
@@ -55,6 +55,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «lengua en uso · mirar con procedencia», responde a «identificaré pueblo, soporte y fuente», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** reproducciones autorizadas, ficha de procedencia, soportes y registro de observación
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «lengua en uso · mirar con procedencia» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -91,7 +123,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 4: Lengua en uso · Forma y significado {#cl-00460}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua mediante «lengua en uso · forma y significado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua a través de «lengua en uso · forma y significado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy describiré sin inventar interpretación.
 
@@ -104,6 +136,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «lengua en uso · forma y significado», responde a «describiré sin inventar interpretación», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** reproducciones autorizadas, ficha de procedencia, soportes y registro de observación
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «lengua en uso · forma y significado» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -140,7 +204,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 4: Lengua en uso · Uso y resguardo {#cl-00461}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua mediante «lengua en uso · uso y resguardo», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua a través de «lengua en uso · uso y resguardo», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy preguntaré cuándo corresponde reproducir.
 
@@ -153,6 +217,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «lengua en uso · uso y resguardo», responde a «preguntaré cuándo corresponde reproducir», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** reproducciones autorizadas, ficha de procedencia, soportes y registro de observación
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «lengua en uso · uso y resguardo» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -189,7 +285,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 4: Lengua en uso · Respuesta respetuosa {#cl-00462}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua mediante «lengua en uso · respuesta respetuosa», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua a través de «lengua en uso · respuesta respetuosa», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy valoraré el símbolo sin apropiarlo.
 
@@ -202,6 +298,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «lengua en uso · respuesta respetuosa», responde a «valoraré el símbolo sin apropiarlo», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** reproducciones autorizadas, ficha de procedencia, soportes y registro de observación
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Símbolos de escritura ancestral · contexto de fortalecimiento y desarrollo de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «lengua en uso · respuesta respetuosa» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 

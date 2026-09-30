@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar en curso, pauta breve y medio de respuesta accesible; no requiere materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece una pauta visual y permite ensayo; no reduzcas el OA disciplinar ni atribuyas la dificultad a la personalidad.
 
 **Profundización:** Transfiere la misma habilidad o disposición a otra representación, texto, problema o rol y compara qué cambia.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Describe una acción observable que realizaste, la evidencia que produjo y qué ajustarías en el siguiente intento. |
 
 **Materiales y preparación:** Tarea disciplinar en curso, pauta breve y medio de respuesta accesible; no requiere materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece una pauta visual y permite ensayo; no reduzcas el OA disciplinar ni atribuyas la dificultad a la personalidad.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar en curso, pauta breve y medio de respuesta accesible; no requiere materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece una pauta visual y permite ensayo; no reduzcas el OA disciplinar ni atribuyas la dificultad a la personalidad.
 
 **Profundización:** Transfiere la misma habilidad o disposición a otra representación, texto, problema o rol y compara qué cambia.
@@ -177,6 +180,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar en curso, pauta breve y medio de respuesta accesible; no requiere materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece una pauta visual y permite ensayo; no reduzcas el OA disciplinar ni atribuyas la dificultad a la personalidad.
 
 **Profundización:** Transfiere la misma habilidad o disposición a otra representación, texto, problema o rol y compara qué cambia.
@@ -222,6 +226,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Describe una acción observable que realizaste, la evidencia que produjo y qué ajustarías en el siguiente intento. |
 
 **Materiales y preparación:** Tarea disciplinar en curso, pauta breve y medio de respuesta accesible; no requiere materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece una pauta visual y permite ensayo; no reduzcas el OA disciplinar ni atribuyas la dificultad a la personalidad.
 

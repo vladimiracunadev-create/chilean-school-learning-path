@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Material contable, cubos, tarjetas, cuerda, regla o figuras según el oa, más una hoja de registro; incluye material improvisado sin costo
 
+
 **Apoyo en el mismo OA:** Reduce cantidad de elementos, organiza el espacio y ofrece una representación inicial; no reemplaces el razonamiento por una regla memorizada
 
 **Profundización:** Encuentra otra estrategia, crea un caso que no funciona o cambia un dato y predice el efecto
@@ -86,6 +87,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
 **Materiales y preparación:** Material contable, cubos, tarjetas, cuerda, regla o figuras según el oa, más una hoja de registro; incluye material improvisado sin costo
+
 
 **Apoyo en el mismo OA:** Reduce cantidad de elementos, organiza el espacio y ofrece una representación inicial; no reemplaces el razonamiento por una regla memorizada
 
@@ -135,6 +137,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Material contable, cubos, tarjetas, cuerda, regla o figuras según el oa, más una hoja de registro; incluye material improvisado sin costo
 
+
 **Apoyo en el mismo OA:** Reduce cantidad de elementos, organiza el espacio y ofrece una representación inicial; no reemplaces el razonamiento por una regla memorizada
 
 **Profundización:** Encuentra otra estrategia, crea un caso que no funciona o cambia un dato y predice el efecto
@@ -182,6 +185,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
 
 **Materiales y preparación:** Material contable, cubos, tarjetas, cuerda, regla o figuras según el oa, más una hoja de registro; incluye material improvisado sin costo
+
 
 **Apoyo en el mismo OA:** Reduce cantidad de elementos, organiza el espacio y ofrece una representación inicial; no reemplaces el razonamiento por una regla memorizada
 

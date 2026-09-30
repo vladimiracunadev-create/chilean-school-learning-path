@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
 
+
 **Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 
 **Profundización:** Combina la habilidad con un cambio de dirección, ritmo o regla manteniendo control y seguridad
@@ -86,6 +87,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
 **Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
+
 
 **Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 
@@ -135,6 +137,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
 
+
 **Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 
 **Profundización:** Combina la habilidad con un cambio de dirección, ritmo o regla manteniendo control y seguridad
@@ -182,6 +185,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
 
 **Materiales y preparación:** Conos, cuerdas, pelotas blandas o marcas de piso; revisa superficie, distancias, hidratación y alternativas de participación
+
 
 **Apoyo en el mismo OA:** Reduce velocidad o distancia, amplía blancos y permite apoyo estable sin reemplazar la habilidad motriz
 

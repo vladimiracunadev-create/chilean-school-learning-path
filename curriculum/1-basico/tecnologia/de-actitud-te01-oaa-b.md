@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Cartón, papel, cinta, lana, tapas y herramientas escolares seguras; organiza piezas y normas antes de repartir
 
+
 **Apoyo en el mismo OA:** Entrega piezas precortadas, plantilla de diseño y opciones de unión; conserva elección, prueba y mejora del estudiante
 
 **Profundización:** Añade una restricción de material o usuario y rediseña justificando el cambio
@@ -86,6 +87,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
 **Materiales y preparación:** Cartón, papel, cinta, lana, tapas y herramientas escolares seguras; organiza piezas y normas antes de repartir
+
 
 **Apoyo en el mismo OA:** Entrega piezas precortadas, plantilla de diseño y opciones de unión; conserva elección, prueba y mejora del estudiante
 
@@ -135,6 +137,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Cartón, papel, cinta, lana, tapas y herramientas escolares seguras; organiza piezas y normas antes de repartir
 
+
 **Apoyo en el mismo OA:** Entrega piezas precortadas, plantilla de diseño y opciones de unión; conserva elección, prueba y mejora del estudiante
 
 **Profundización:** Añade una restricción de material o usuario y rediseña justificando el cambio
@@ -182,6 +185,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
 
 **Materiales y preparación:** Cartón, papel, cinta, lana, tapas y herramientas escolares seguras; organiza piezas y normas antes de repartir
+
 
 **Apoyo en el mismo OA:** Entrega piezas precortadas, plantilla de diseño y opciones de unión; conserva elección, prueba y mejora del estudiante
 

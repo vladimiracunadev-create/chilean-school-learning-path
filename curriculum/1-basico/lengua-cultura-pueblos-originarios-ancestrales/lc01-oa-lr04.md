@@ -42,7 +42,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 4: Recuperar la lengua · Escuchar el relato completo {#cl-00483}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · escuchar el relato completo», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · escuchar el relato completo», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy seguiré personajes, lugar y acontecimiento.
 
@@ -55,6 +55,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · escuchar el relato completo», responde a «seguiré personajes, lugar y acontecimiento», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** relato autorizado, imágenes pertinentes, organizador relato-experiencia y fuente registrada
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · escuchar el relato completo» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -91,7 +123,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 4: Recuperar la lengua · Recuperar información cultural {#cl-00484}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · recuperar información cultural», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · recuperar información cultural», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy identificaré un detalle explícito.
 
@@ -104,6 +136,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · recuperar información cultural», responde a «identificaré un detalle explícito», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** relato autorizado, imágenes pertinentes, organizador relato-experiencia y fuente registrada
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · recuperar información cultural» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -140,7 +204,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 4: Recuperar la lengua · Conectar con cuidado {#cl-00485}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · conectar con cuidado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · conectar con cuidado», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy relacionaré una experiencia sin reemplazar el relato.
 
@@ -153,6 +217,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · conectar con cuidado», responde a «relacionaré una experiencia sin reemplazar el relato», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** relato autorizado, imágenes pertinentes, organizador relato-experiencia y fuente registrada
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · conectar con cuidado» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 
@@ -189,7 +285,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 4: Recuperar la lengua · Comunicar y reconocer límites {#cl-00486}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua mediante «recuperar la lengua · comunicar y reconocer límites», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
+**Propósito docente:** Enseñar relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua a través de «recuperar la lengua · comunicar y reconocer límites», con una experiencia propia de Lengua y Cultura de los Pueblos Originarios Ancestrales y evidencia verificable.
 
 **Meta para estudiantes:** Hoy explicaré qué aprendí y qué debo preguntar.
 
@@ -202,6 +298,38 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Ante otra fuente breve y trazable de «recuperar la lengua · comunicar y reconocer límites», responde a «explicaré qué aprendí y qué debo preguntar», nombra pueblo y contexto, y formula una pregunta honesta cuando la evidencia no permite concluir. |
 
 **Materiales y preparación:** relato autorizado, imágenes pertinentes, organizador relato-experiencia y fuente registrada
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Relatos, experiencia y conocimiento cultural · contexto de rescate y revitalización de la lengua»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «recuperar la lengua · comunicar y reconocer límites» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Trabaja con educador tradicional, hablante o fuente comunitaria competente; ofrece oralidad, observación y participación gradual sin inventar lengua, homogeneizar pueblos ni forzar exposición identitaria.
 

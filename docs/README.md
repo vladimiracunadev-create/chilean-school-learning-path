@@ -2,7 +2,7 @@
 
 # 📚 Centro de documentación
 
-## **1°, 2°, 3° y 4° básico con desarrollo interno completo**
+## **1° a 6° básico con desarrollo interno completo**
 
 **1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422**
 
@@ -50,6 +50,7 @@ Aquí puedes responder:
 | Resolver dudas | [FAQ](FAQ.md) | alcance, tiempos, estados, adaptaciones y fuentes |
 | Acompañar desde el hogar | [Guía para familias](GUIA_FAMILIAS.md) | conversaciones y apoyos sin reemplazar al docente |
 | Revisar contenido | [Protocolo de revisión](REVISION_HUMANA.md) | roles, listas de control, severidad y registro |
+| Probar en aula | [Protocolo de pilotaje](PILOTAJE_AULA.md) | preparación, observación, privacidad, incidentes y criterio de cierre |
 | Comprender la generación | [Metodología](../METHODOLOGY.md) | snapshot, dosificación, estados, artefactos y validación |
 | Contribuir | [Guía de contribución](../CONTRIBUTING.md) | contrato editorial, fuente de verdad y comandos |
 
@@ -63,20 +64,20 @@ Las 68 guías disponibles —44 de 1° a 4°, doce de 5° y doce de 6°— se ge
 
 **6° básico completo:** [índice documental](6-basico/README.md) y [mapa técnico](SEXTO_BASICO.md), con doce guías de asignatura.
 
-| Asignatura | 1° básico | 2° básico | 3° básico | 4° básico | 5° básico |
-|---|---|---|---|---|---|
-| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) | [Leer](3-basico/artes-visuales.md) | [Leer](4-basico/artes-visuales.md) | [Leer](5-basico/artes-visuales.md) |
-| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) | [Leer](3-basico/ciencias-naturales.md) | [Leer](4-basico/ciencias-naturales.md) | [Leer](5-basico/ciencias-naturales.md) |
-| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) | [Leer](3-basico/educacion-fisica-salud.md) | [Leer](4-basico/educacion-fisica-salud.md) | [Leer](5-basico/educacion-fisica-salud.md) |
-| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) | [Leer](3-basico/historia-geografia-ciencias-sociales.md) | [Leer](4-basico/historia-geografia-ciencias-sociales.md) | [Leer](5-basico/historia-geografia-ciencias-sociales.md) |
-| Inglés | — | — | — | — | [Leer](5-basico/ingles.md) |
-| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) | [Leer](3-basico/ingles-propuesta.md) | [Leer](4-basico/ingles-propuesta.md) | [Leer](5-basico/ingles-propuesta.md) |
-| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](3-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](4-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](5-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
-| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) | [Leer](3-basico/lenguaje-comunicacion.md) | [Leer](4-basico/lenguaje-comunicacion.md) | [Leer](5-basico/lenguaje-comunicacion.md) |
-| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) | [Leer](3-basico/matematica.md) | [Leer](4-basico/matematica.md) | [Leer](5-basico/matematica.md) |
-| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) | [Leer](3-basico/musica.md) | [Leer](4-basico/musica.md) | [Leer](5-basico/musica.md) |
-| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) | [Leer](3-basico/orientacion.md) | [Leer](4-basico/orientacion.md) | [Leer](5-basico/orientacion.md) |
-| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) | [Leer](3-basico/tecnologia.md) | [Leer](4-basico/tecnologia.md) | [Leer](5-basico/tecnologia.md) |
+| Asignatura | 1° | 2° | 3° | 4° | 5° | 6° |
+|---|---|---|---|---|---|---|
+| Artes Visuales | [Leer](1-basico/artes-visuales.md) | [Leer](2-basico/artes-visuales.md) | [Leer](3-basico/artes-visuales.md) | [Leer](4-basico/artes-visuales.md) | [Leer](5-basico/artes-visuales.md) | [Leer](6-basico/artes-visuales.md) |
+| Ciencias Naturales | [Leer](1-basico/ciencias-naturales.md) | [Leer](2-basico/ciencias-naturales.md) | [Leer](3-basico/ciencias-naturales.md) | [Leer](4-basico/ciencias-naturales.md) | [Leer](5-basico/ciencias-naturales.md) | [Leer](6-basico/ciencias-naturales.md) |
+| Educación Física y Salud | [Leer](1-basico/educacion-fisica-salud.md) | [Leer](2-basico/educacion-fisica-salud.md) | [Leer](3-basico/educacion-fisica-salud.md) | [Leer](4-basico/educacion-fisica-salud.md) | [Leer](5-basico/educacion-fisica-salud.md) | [Leer](6-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | [Leer](1-basico/historia-geografia-ciencias-sociales.md) | [Leer](2-basico/historia-geografia-ciencias-sociales.md) | [Leer](3-basico/historia-geografia-ciencias-sociales.md) | [Leer](4-basico/historia-geografia-ciencias-sociales.md) | [Leer](5-basico/historia-geografia-ciencias-sociales.md) | [Leer](6-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés | — | — | — | — | [Leer](5-basico/ingles.md) | [Leer](6-basico/ingles.md) |
+| Inglés (Propuesta) | [Leer](1-basico/ingles-propuesta.md) | [Leer](2-basico/ingles-propuesta.md) | [Leer](3-basico/ingles-propuesta.md) | [Leer](4-basico/ingles-propuesta.md) | [Leer](5-basico/ingles-propuesta.md) | [Leer](6-basico/ingles-propuesta.md) |
+| Lengua y Cultura de los Pueblos Originarios Ancestrales | [Leer](1-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](2-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](3-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](4-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](5-basico/lengua-cultura-pueblos-originarios-ancestrales.md) | [Leer](6-basico/lengua-cultura-pueblos-originarios-ancestrales.md) |
+| Lenguaje y Comunicación | [Leer](1-basico/lenguaje-comunicacion.md) | [Leer](2-basico/lenguaje-comunicacion.md) | [Leer](3-basico/lenguaje-comunicacion.md) | [Leer](4-basico/lenguaje-comunicacion.md) | [Leer](5-basico/lenguaje-comunicacion.md) | [Leer](6-basico/lenguaje-comunicacion.md) |
+| Matemática | [Leer](1-basico/matematica.md) | [Leer](2-basico/matematica.md) | [Leer](3-basico/matematica.md) | [Leer](4-basico/matematica.md) | [Leer](5-basico/matematica.md) | [Leer](6-basico/matematica.md) |
+| Música | [Leer](1-basico/musica.md) | [Leer](2-basico/musica.md) | [Leer](3-basico/musica.md) | [Leer](4-basico/musica.md) | [Leer](5-basico/musica.md) | [Leer](6-basico/musica.md) |
+| Orientación | [Leer](1-basico/orientacion.md) | [Leer](2-basico/orientacion.md) | [Leer](3-basico/orientacion.md) | [Leer](4-basico/orientacion.md) | [Leer](5-basico/orientacion.md) | [Leer](6-basico/orientacion.md) |
+| Tecnología | [Leer](1-basico/tecnologia.md) | [Leer](2-basico/tecnologia.md) | [Leer](3-basico/tecnologia.md) | [Leer](4-basico/tecnologia.md) | [Leer](5-basico/tecnologia.md) | [Leer](6-basico/tecnologia.md) |
 
 ## 🧠 Flujo de uso
 
@@ -99,13 +100,13 @@ flowchart TD
 |---|---:|---|
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
-| Borradores | 0 en 1°, 2°, 3° y 4° | los niveles completos no conservan plantillas pendientes |
+| Borradores | 0 en 1° a 6° | los niveles completos no conservan plantillas pendientes |
 | Desarrolladas | 4.859 | contienen decisiones disciplinares y contrato pedagógico completo |
 | Integradas | 2.299 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420. Las otras 7 clases desarrolladas corresponden al piloto de 8°. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422. Las otras 7 clases desarrolladas corresponden al piloto de 8°. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -140,6 +141,7 @@ README.md
 ├── docs/FAQ.md                    ← dudas y límites
 ├── docs/GUIA_FAMILIAS.md          ← acompañamiento
 ├── docs/REVISION_HUMANA.md        ← control experto
+├── docs/PILOTAJE_AULA.md           ← prueba situada con evidencia no identificable
 ├── METHODOLOGY.md                 ← construcción técnica
 ├── QUALITY_STANDARD.md            ← estados editoriales
 └── ROADMAP.md                     ← desarrollo por niveles

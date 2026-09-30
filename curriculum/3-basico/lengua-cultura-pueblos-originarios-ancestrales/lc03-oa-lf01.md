@@ -22,7 +22,7 @@
 **Organización interna de la secuencia**
 - Eje oficial · organización interna en 5 clases
 
-> **Origen:** Organización interna derivada del eje y del OA; no se presenta como unidad oficial del programa de estudio..
+> **Origen:** Organización interna derivada del eje y del OA; no se presenta como unidad oficial del programa de estudio.
 
 **Criterios de progresión derivados del OA**
 - Situar voz, pueblo y contexto.
@@ -44,7 +44,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 5: Situar voz, pueblo y contexto {#cl-02573}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comprensión de textos orales en lengua indígena mediante «situar voz, pueblo y contexto», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comprensión de textos orales en lengua indígena a través de «situar voz, pueblo y contexto», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «situar voz, pueblo y contexto» y mostraré una decisión propia con evidencia.
 
@@ -58,13 +58,45 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** registro autorizado o participación de una persona portadora de saberes; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comprensión de textos orales en lengua indígena»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «situar voz, pueblo y contexto» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
 **Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
 **Evidencia:** Comprensión o producción situada sobre «situar voz, pueblo y contexto» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «situar voz, pueblo y contexto»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -93,7 +125,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 5: Escuchar una primera vez para disfrutar {#cl-02574}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comprensión de textos orales en lengua indígena mediante «escuchar una primera vez para disfrutar», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comprensión de textos orales en lengua indígena a través de «escuchar una primera vez para disfrutar», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «escuchar una primera vez para disfrutar» y mostraré una decisión propia con evidencia.
 
@@ -107,13 +139,45 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** registro autorizado o participación de una persona portadora de saberes; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comprensión de textos orales en lengua indígena»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «escuchar una primera vez para disfrutar» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
 **Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
 **Evidencia:** Comprensión o producción situada sobre «escuchar una primera vez para disfrutar» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «escuchar una primera vez para disfrutar»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -142,7 +206,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 5: Reconstruir secuencia y relaciones {#cl-02575}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comprensión de textos orales en lengua indígena mediante «reconstruir secuencia y relaciones», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comprensión de textos orales en lengua indígena a través de «reconstruir secuencia y relaciones», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «reconstruir secuencia y relaciones» y mostraré una decisión propia con evidencia.
 
@@ -156,13 +220,45 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** registro autorizado o participación de una persona portadora de saberes; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comprensión de textos orales en lengua indígena»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «reconstruir secuencia y relaciones» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
 **Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
 **Evidencia:** Comprensión o producción situada sobre «reconstruir secuencia y relaciones» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «reconstruir secuencia y relaciones»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -191,7 +287,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 5: Conectar sin forzar experiencia personal {#cl-02576}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comprensión de textos orales en lengua indígena mediante «conectar sin forzar experiencia personal», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comprensión de textos orales en lengua indígena a través de «conectar sin forzar experiencia personal», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «conectar sin forzar experiencia personal» y mostraré una decisión propia con evidencia.
 
@@ -205,13 +301,45 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** registro autorizado o participación de una persona portadora de saberes; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comprensión de textos orales en lengua indígena»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «conectar sin forzar experiencia personal» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
 **Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
 **Evidencia:** Comprensión o producción situada sobre «conectar sin forzar experiencia personal» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «conectar sin forzar experiencia personal»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -240,7 +368,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 5 de 5: Devolver una comprensión a la fuente {#cl-02577}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comprensión de textos orales en lengua indígena mediante «devolver una comprensión a la fuente», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comprensión de textos orales en lengua indígena a través de «devolver una comprensión a la fuente», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «devolver una comprensión a la fuente» y mostraré una decisión propia con evidencia.
 
@@ -254,13 +382,45 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** registro autorizado o participación de una persona portadora de saberes; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
 
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comprensión de textos orales en lengua indígena»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «devolver una comprensión a la fuente» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
 **Profundización:** Compara dos fuentes autorizadas o variantes sin jerarquizarlas y explica qué territorio, situación o autoridad hace pertinente cada una.
 
 **Evidencia:** Comprensión o producción situada sobre «devolver una comprensión a la fuente» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «devolver una comprensión a la fuente»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 

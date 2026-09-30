@@ -65,9 +65,11 @@ Trayectoria Escolar Chile convierte el currículo oficial en decisiones concreta
 - conocimientos previos, vocabulario y errores previsibles;
 - inicio, modelado, práctica guiada y desempeño individual;
 - materiales y alternativa viable sin conectividad;
+- recurso concreto listo para copiar, proyectar, representar o preparar;
+- consigna exacta y referencia de respuesta para modelar y retroalimentar;
 - apoyo que mantiene el OA y profundización que evita la repetición mecánica;
-- ticket de salida, evidencia, criterios observables y decisión posterior;
-- adaptación de 90 a 45 minutos;
+- ticket de salida, evidencia, criterios observables, pauta de cuatro niveles y decisión posterior;
+- adaptación operativa de 90 a 45 minutos, distribuida en cinco tramos;
 - tarea breve, flexible y sin compras obligatorias;
 - actividades complementarias para recuperar, practicar o profundizar;
 - dificultades del aula con acción inmediata y comprobación;

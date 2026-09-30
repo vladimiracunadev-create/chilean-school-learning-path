@@ -36,7 +36,9 @@ La progresión base combina diagnóstico, comprensión, práctica, autonomía y 
 
 ## 3. Desarrollo de una clase
 
-Una clase desarrollada debe especificar propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios observables, decisión posterior y adaptación a 45 minutos.
+Una clase desarrollada debe especificar propósito docente, meta estudiantil, inicio, modelado, práctica guiada, desempeño individual, materiales, apoyo, profundización, ticket, evidencia, criterios observables y decisión posterior. La capa de calidad agrega a cada clase un recurso concreto disciplinar, una consigna exacta, una referencia de respuesta, una pauta analítica de cuatro niveles, una lista de preparación y una distribución operativa de 45 minutos.
+
+La diferenciación no se acredita insertando el código del OA en frases repetidas. Se acredita cuando cambian el insumo, la acción solicitada, la evidencia y el criterio disciplinar. Los validadores rechazan los marcadores genéricos conocidos y comprueban que el paquete completo aparezca una vez por clase en Markdown y HTML.
 
 Para 1° básico, la redacción prioriza experiencias concretas, consignas claras, participación amplia y transición gradual hacia representaciones gráficas o simbólicas.
 

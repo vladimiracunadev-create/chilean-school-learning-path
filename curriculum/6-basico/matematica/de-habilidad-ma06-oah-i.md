@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
 **Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
 
 **Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
 **Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
@@ -176,6 +179,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
 
 **Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
@@ -223,6 +227,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 
 **Profundización:** Transfiere la habilidad o disposición a otra representación o problema y compara qué cambia.
@@ -268,6 +273,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Nombra una acción matemática observable, la evidencia que produjo y un ajuste para el siguiente intento. |
 
 **Materiales y preparación:** Problema matemático en curso, pauta breve y medio de respuesta accesible; sin materiales adicionales ni datos personales.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece pauta visual y permite ensayo; conserva el OA y evita atribuir la dificultad a la personalidad.
 

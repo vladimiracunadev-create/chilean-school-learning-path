@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
 **Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | En la situación 2, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
 **Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
 **Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
@@ -177,6 +180,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
+
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
 **Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
@@ -222,6 +226,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | En la situación 5, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
 **Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
+
 
 **Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 

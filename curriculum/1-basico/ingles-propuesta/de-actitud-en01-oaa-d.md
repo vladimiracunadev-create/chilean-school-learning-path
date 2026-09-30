@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Picture cards, real classroom objects, mini-whiteboards or paper, and an optional audio spoken clearly at natural speed
 
+
 **Apoyo en el mismo OA:** Mantén imagen, gesto, repetición y tiempo de ensayo; acepta respuesta no verbal cuando el oa evalúa comprensión
 
 **Profundización:** Cambia personaje, objeto o lugar y usa la expresión en un intercambio nuevo de dos turnos
@@ -86,6 +87,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge una reconstrucción del ejemplo con palabras, gestos, objetos o dibujo vinculada a «explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto». |
 
 **Materiales y preparación:** Picture cards, real classroom objects, mini-whiteboards or paper, and an optional audio spoken clearly at natural speed
+
 
 **Apoyo en el mismo OA:** Mantén imagen, gesto, repetición y tiempo de ensayo; acepta respuesta no verbal cuando el oa evalúa comprensión
 
@@ -135,6 +137,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Picture cards, real classroom objects, mini-whiteboards or paper, and an optional audio spoken clearly at natural speed
 
+
 **Apoyo en el mismo OA:** Mantén imagen, gesto, repetición y tiempo de ensayo; acepta respuesta no verbal cuando el oa evalúa comprensión
 
 **Profundización:** Cambia personaje, objeto o lugar y usa la expresión en un intercambio nuevo de dos turnos
@@ -182,6 +185,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Vuelve a la respuesta inicial: cada estudiante muestra qué mantendría y qué cambiaría. Recoge un desempeño final, una revisión visible y una breve autoevaluación vinculada a «producir evidencia final y decidir el paso siguiente». |
 
 **Materiales y preparación:** Picture cards, real classroom objects, mini-whiteboards or paper, and an optional audio spoken clearly at natural speed
+
 
 **Apoyo en el mismo OA:** Mantén imagen, gesto, repetición y tiempo de ensayo; acepta respuesta no verbal cuando el oa evalúa comprensión
 

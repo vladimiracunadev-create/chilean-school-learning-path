@@ -39,6 +39,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 
 **Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
@@ -84,6 +85,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Muestra una evidencia propia y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 
@@ -131,6 +133,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 
 **Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
@@ -177,6 +180,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
 
+
 **Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 
 **Profundización:** Transfiere la actitud a otro OA y compara cómo cambia su manifestación concreta.
@@ -222,6 +226,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Cierre | 10 min | Muestra una evidencia propia y completa: esta acción ayudó porque… |
 
 **Materiales y preparación:** Materiales del OA anfitrión y una tarjeta con la actitud expresada como acción observable.
+
 
 **Apoyo en el mismo OA:** Ofrece ejemplos contrastados y vías oral, gráfica, corporal o digital equivalentes; conserva la intención disciplinar y los resguardos.
 

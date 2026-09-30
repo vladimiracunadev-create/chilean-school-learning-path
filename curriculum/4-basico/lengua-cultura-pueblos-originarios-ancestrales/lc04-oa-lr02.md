@@ -44,7 +44,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 1 de 4: Elegir una situación comunicativa · Comunicación oral con expresiones en revitalización {#cl-03772}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral con expresiones en revitalización mediante «elegir una situación comunicativa · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral con expresiones en revitalización a través de «elegir una situación comunicativa · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» y mostraré una decisión propia con evidencia.
 
@@ -53,10 +53,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «elegir una situación comunicativa · comunicación oral con expresiones en revitalización», ubica pueblo, territorio, guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela elegir una situación comunicativa · comunicación oral con expresiones en revitalización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «obligar a revelar emociones o improvisar traducciones». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «elegir una situación comunicativa · comunicación oral con expresiones en revitalización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «elegir una situación comunicativa · comunicación oral con expresiones en revitalización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «elegir una situación comunicativa · comunicación oral con expresiones en revitalización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «elegir una situación comunicativa · comunicación oral con expresiones en revitalización». |
 
 **Materiales y preparación:** guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral con expresiones en revitalización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -64,7 +96,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «elegir una situación comunicativa · comunicación oral con expresiones en revitalización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «elegir una situación comunicativa · comunicación oral con expresiones en revitalización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -93,7 +125,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 2 de 4: Aprender expresiones desde la fuente · Comunicación oral con expresiones en revitalización {#cl-03773}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral con expresiones en revitalización mediante «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral con expresiones en revitalización a través de «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» y mostraré una decisión propia con evidencia.
 
@@ -102,10 +134,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización», ubica pueblo, territorio, guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «obligar a revelar emociones o improvisar traducciones». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización». |
 
 **Materiales y preparación:** guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral con expresiones en revitalización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -113,7 +177,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «aprender expresiones desde la fuente · comunicación oral con expresiones en revitalización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -142,7 +206,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 3 de 4: Construir una intervención breve · Comunicación oral con expresiones en revitalización {#cl-03774}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral con expresiones en revitalización mediante «construir una intervención breve · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral con expresiones en revitalización a través de «construir una intervención breve · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «construir una intervención breve · comunicación oral con expresiones en revitalización» y mostraré una decisión propia con evidencia.
 
@@ -151,10 +215,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «construir una intervención breve · comunicación oral con expresiones en revitalización», ubica pueblo, territorio, guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela construir una intervención breve · comunicación oral con expresiones en revitalización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «obligar a revelar emociones o improvisar traducciones». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «construir una intervención breve · comunicación oral con expresiones en revitalización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «construir una intervención breve · comunicación oral con expresiones en revitalización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «construir una intervención breve · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «construir una intervención breve · comunicación oral con expresiones en revitalización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «construir una intervención breve · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «construir una intervención breve · comunicación oral con expresiones en revitalización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «construir una intervención breve · comunicación oral con expresiones en revitalización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «construir una intervención breve · comunicación oral con expresiones en revitalización». |
 
 **Materiales y preparación:** guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral con expresiones en revitalización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «construir una intervención breve · comunicación oral con expresiones en revitalización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -162,7 +258,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «construir una intervención breve · comunicación oral con expresiones en revitalización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «construir una intervención breve · comunicación oral con expresiones en revitalización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -191,7 +287,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 ### Clase 4 de 4: Interactuar escuchando al otro · Comunicación oral con expresiones en revitalización {#cl-03775}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar comunicación oral con expresiones en revitalización mediante «interactuar escuchando al otro · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar comunicación oral con expresiones en revitalización a través de «interactuar escuchando al otro · comunicación oral con expresiones en revitalización», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» y mostraré una decisión propia con evidencia.
 
@@ -200,10 +296,42 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Inicio | 10 min | Para «interactuar escuchando al otro · comunicación oral con expresiones en revitalización», ubica pueblo, territorio, guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
 | Modelado | 20 min | Modela interactuar escuchando al otro · comunicación oral con expresiones en revitalización sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «obligar a revelar emociones o improvisar traducciones». |
 | Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «interactuar escuchando al otro · comunicación oral con expresiones en revitalización», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. La retroalimentación vuelve al criterio propio de «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «interactuar escuchando al otro · comunicación oral con expresiones en revitalización», no por imitar el ejemplo. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. La evidencia se juzga por el logro de «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» y con evidencia propia. |
 | Cierre | 10 min | Sobre «interactuar escuchando al otro · comunicación oral con expresiones en revitalización», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final debe permitir comprobar «interactuar escuchando al otro · comunicación oral con expresiones en revitalización». |
 
 **Materiales y preparación:** guiones flexibles validados para situaciones personales, familiares o comunitarias ficticias; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Comunicación oral con expresiones en revitalización»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -211,7 +339,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «interactuar escuchando al otro · comunicación oral con expresiones en revitalización» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «interactuar escuchando al otro · comunicación oral con expresiones en revitalización»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 

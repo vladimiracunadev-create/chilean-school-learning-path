@@ -12,7 +12,7 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, avanza desde aprender desde territorio, oralidad y fuentes comunitarias pertinentes, sin inventar lengua mediante decisiones situadas. Cada clase cambia la evidencia y forma de participación, y enfrenta la confusión «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales».
+**Explicación pedagógica.** Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, avanza desde aprender desde territorio, oralidad y fuentes comunitarias pertinentes, sin inventar lengua mediante decisiones situadas. Cada clase cambia la evidencia y forma de participación, y enfrenta la confusión «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales».
 
 **Antes de comenzar.** aprender desde territorio, oralidad y fuentes comunitarias pertinentes, sin inventar lengua
 
@@ -41,22 +41,54 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Situar pueblo, territorio y fuente · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 {#cl-06536}
+### Clase 1 de 5: Situar pueblo, territorio y fuente · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, {#cl-06536}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, mediante «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, a través de «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 1 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 1 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 1, la retroalimentación vuelve al criterio propio de «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 1, la evidencia se juzga por el logro de «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 1 debe permitir comprobar «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,». |
+| Inicio | 10 min | Para «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -64,7 +96,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -74,7 +106,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Actividades complementarias (opcionales):**
 - Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
-- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales.
 - Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
 
 **Control de dificultades en el aula**
@@ -82,7 +114,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
 | Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
-| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
 | Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
 
 **Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
@@ -90,22 +122,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA D`:** Se promueve trabajo riguroso acorde con oralidad, territorio y enseñanza ancestral pertinente durante «desarrollaré «situar pueblo, territorio y fuente · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 2 de 5: Escuchar o leer con límites declarados · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 {#cl-06537}
+### Clase 2 de 5: Escuchar o leer con límites declarados · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, {#cl-06537}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, mediante «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, a través de «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 2 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 2 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 2, la retroalimentación vuelve al criterio propio de «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 2, la evidencia se juzga por el logro de «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 2 debe permitir comprobar «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,». |
+| Inicio | 10 min | Para «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -113,7 +177,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -123,7 +187,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Actividades complementarias (opcionales):**
 - Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
-- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales.
 - Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
 
 **Control de dificultades en el aula**
@@ -131,7 +195,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
 | Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
-| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
 | Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
 
 **Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
@@ -139,22 +203,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «desarrollaré «escuchar o leer con límites declarados · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 3 de 5: Reconocer relaciones culturales · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 {#cl-06538}
+### Clase 3 de 5: Reconocer relaciones culturales · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, {#cl-06538}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, mediante «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, a través de «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 3 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 3 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 3, la retroalimentación vuelve al criterio propio de «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 3, la evidencia se juzga por el logro de «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 3 debe permitir comprobar «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,». |
+| Inicio | 10 min | Para «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -162,7 +258,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -172,7 +268,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Actividades complementarias (opcionales):**
 - Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
-- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales.
 - Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
 
 **Control de dificultades en el aula**
@@ -180,7 +276,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
 | Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
-| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
 | Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
 
 **Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
@@ -188,22 +284,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA D`:** Se promueve trabajo riguroso acorde con oralidad, territorio y enseñanza ancestral pertinente durante «desarrollaré «reconocer relaciones culturales · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 4 de 5: Construir una respuesta atribuida · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 {#cl-06539}
+### Clase 4 de 5: Construir una respuesta atribuida · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, {#cl-06539}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, mediante «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, a través de «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 4 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 4 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 4, la retroalimentación vuelve al criterio propio de «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 4, la evidencia se juzga por el logro de «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 4 debe permitir comprobar «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,». |
+| Inicio | 10 min | Para «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -211,7 +339,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -221,7 +349,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Actividades complementarias (opcionales):**
 - Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
-- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales.
 - Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
 
 **Control de dificultades en el aula**
@@ -229,7 +357,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
 | Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
-| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
 | Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
 
 **Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
@@ -237,22 +365,54 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 **Integración de actitud transversal:**
 - **Actitud · `de Actitud LC06 OAA B`:** Se promueve interculturalidad basada en aprecio y comprensión mutuos durante «desarrollaré «construir una respuesta atribuida · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia» mediante una acción observable y revisable; no se califica personalidad, cuerpo, acento, identidad ni origen.
 
-### Clase 5 de 5: Contrastar sin jerarquizar · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, · Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 {#cl-06540}
+### Clase 5 de 5: Contrastar sin jerarquizar · Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, {#cl-06540}
 **Estado editorial:** Desarrollada con contenido específico.
 
-**Propósito docente:** Desarrollar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, mediante «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
+**Propósito docente:** Enseñar escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, a través de «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», con una experiencia disciplinar específica, segura y revisable.
 
 **Meta para estudiantes:** Hoy desarrollaré «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» y mostraré una decisión propia con evidencia.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Para «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. El registro inicial queda asociado a la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 5 para compararlo con la evidencia final. |
-| Modelado | 20 min | Modela contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales». El docente nombra el criterio de la ruta Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 5 y muestra por qué no se transfiere mecánicamente a otro OA. |
-| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 5, la retroalimentación vuelve al criterio propio de «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» antes del segundo intento. |
-| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. En Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 5, la evidencia se juzga por el logro de «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», no por imitar el ejemplo. |
-| Cierre | 10 min | Sobre «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. La respuesta final de Lengua y Cultura de los Pueblos Originarios Ancestrales · LC06 OA LS04 · clase 5 debe permitir comprobar «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,». |
+| Inicio | 10 min | Para «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», ubica pueblo, territorio, fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, y autorización antes de presentar el recurso. Declara qué puede compartirse y qué requiere resguardo. |
+| Modelado | 20 min | Modela contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, sólo con educador tradicional o fuente comunitaria pertinente: no inventa lengua, pronunciación, grafías, símbolos ni explicaciones espirituales. Contrasta «en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales». |
+| Práctica guiada | 25 min | Con educador tradicional o fuente comunitaria cuando corresponde, analizan «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», reconocen variantes y distinguen aprender, recrear, reproducir y apropiarse. |
+| Desempeño individual | 25 min | Elabora una comprensión o respuesta propia para «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» sin apropiarse de voces ni prácticas; identifica pueblo, territorio, fuente, permiso y límites de lo afirmado. |
+| Cierre | 10 min | Sobre «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,», comunica una relación aprendida, atribuye la fuente comunitaria y nombra algo que no corresponde inventar, divulgar o generalizar. |
 
 **Materiales y preparación:** fuentes autorizadas y situadas por pueblo y territorio para escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,; registro autorizado, ficha de procedencia y alternativa oral, visual o escrita. No se usan recursos comunitarios sin permiso.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Ficha situada para «Escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»: pueblo y territorio, nombre de la fuente comunitaria, persona o institución responsable, fecha, autorización, variante lingüística cuando corresponda y límites de circulación. Si esos datos faltan, la actividad se detiene.
+
+**Consigna exacta:** Trabaja «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» únicamente con una fuente autorizada: registra procedencia, distingue lo que la fuente dice de tu interpretación y prepara una devolución respetuosa.
+
+**Referencia para modelar y corregir:** La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta atribuye pueblo, territorio y fuente, no inventa lengua ni generaliza a otros pueblos y declara qué requiere validación de educador tradicional o comunidad. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
 
 **Apoyo en el mismo OA:** Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia.
 
@@ -260,7 +420,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Evidencia:** Comprensión o producción situada sobre «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,» que atribuye fuente y respeta límites de uso, autoría, acceso e identidad.
 
-**Criterios de éxito:** responde al foco específico de la clase; toma una decisión disciplinar pertinente y segura; explica o localiza evidencia y reconoce límites.
+**Criterios de éxito:** resuelve la consigna exacta de «contrastar sin jerarquizar · escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
 **Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
 
@@ -270,7 +430,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Actividades complementarias (opcionales):**
 - Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
-- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: en escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales.
 - Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
 
 **Control de dificultades en el aula**
@@ -278,7 +438,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
 |---|---|---|
 | Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
-| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas,, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
+| En escribir oraciones y textos breves en castellano, incorporando conceptos en lengua indígena, en diversas situaciones comunicativas (ceremonias, rogativas, inventar lengua o explicaciones culturales | Permite escuchar sin repetir, responder en castellano o mediante imagen y usar modelos validados; nunca usa desconocimiento lingüístico para evaluar identidad o pertenencia. | Resuelve un caso nuevo sin repetir la confusión. |
 | Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
 
 **Coordinación de roles profesionales:** El docente no suplanta saberes comunitarios: coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente y detiene la actividad si falta validación.
