@@ -2,9 +2,9 @@
 
 No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-## Docente de contenido desarrollado de 1° a 7° básico · preparar y enseñar
+## Docente de contenido desarrollado · 1° a 7° y Matemática o Lengua de 8°
 
-1. Abre el mapa del nivel; para 7° usa el [índice completo del nivel](docs/7-basico/README.md) y comprueba el estado de la asignatura.
+1. Abre el mapa del nivel; para 7° usa el [índice completo](docs/7-basico/README.md) y para 8° el [índice de las dos asignaturas desarrolladas](docs/8-basico/README.md). Comprueba siempre el estado de la asignatura.
 2. Elige asignatura y OA desde el portal.
 3. Revisa la clase anterior y siguiente para entender la progresión.
 4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.

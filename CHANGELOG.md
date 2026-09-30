@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30 — Matemática y Lengua y Literatura de 8° básico
+
+- Desarrollo completo de los 17 OA disciplinares de Matemática en 77 clases y 19 OA transversales en 82 experiencias integradas.
+- Desarrollo completo de los 26 OA disciplinares de Lengua y Literatura en 155 clases y 8 OA transversales en 33 experiencias integradas, incorporando el piloto previo dentro del recorrido completo.
+- Publicación del índice de 8°, dos guías de asignatura, mapa técnico y vista específica en GitHub Pages, con continuidad explícita desde 7° básico.
+- Estado global actualizado a 5.844 clases desarrolladas y 2.929 experiencias integradas; 8° conserva 854 propuestas pendientes en las demás asignaturas.
+
 ## 2026-09-30 — 7° básico completo
 
 - Cierre de las doce denominaciones curriculares en 760 clases disciplinares, 515 experiencias transversales integradas, 275 OA y 0 propuestas pendientes.

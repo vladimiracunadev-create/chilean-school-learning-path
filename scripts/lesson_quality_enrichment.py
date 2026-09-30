@@ -526,6 +526,51 @@ def _cultural_grade_seven(topic: str, focus: str, seed: int) -> dict:
     return {"resource": resource, "prompt": prompt, "reference": reference}
 
 
+def _math_grade_eight(topic: str, focus: str, seed: int) -> dict:
+    """Return concrete artefacts for concepts introduced or deepened in eighth grade."""
+    lowered = f"{topic} {focus}".lower()
+    if "raíz" in lowered or "pitágoras" in lowered:
+        resource = "Cuadrados de áreas 9, 16, 20 y 25 unidades, triángulo 3-4-5 recortable, cuadrícula y recta numérica de 0 a 8."
+        prompt = f"Para «{focus.lower()}», relaciona área y longitud, estima √20 entre dos enteros y usa o limita la relación pitagórica con una comprobación visible."
+        reference = "√20 está entre 4 y 5 porque 16<20<25; en un triángulo rectángulo 3²+4²=5², y la hipotenusa es el lado opuesto al ángulo recto."
+    elif "función" in lowered or "cambio lineal" in lowered or "afín" in lowered:
+        resource = "Dos planes ficticios: A(x)=3x y B(x)=3x+5; tabla para x=0,1,2,4 y plano cartesiano con origen visible."
+        prompt = f"Para «{focus.lower()}», completa tablas, grafica, interpreta cambio constante y valor inicial, y explica cuál relación es lineal y cuál afín."
+        reference = "Ambas cambian 3 por unidad; A pasa por el origen y B tiene intercepto 5. La explicación conecta situación, tabla, regla y gráfica."
+    elif any(word in lowered for word in ("prisma", "cilindro", "volumen", "superficie")):
+        resource = "Red de prisma rectangular 4×3×6 cm, cilindro de radio 3 cm y altura 6 cm, papel cuadriculado y calculadora opcional."
+        prompt = f"Para «{focus.lower()}», deriva superficie o volumen desde la red o las capas, calcula y rotula cm² o cm³; compara con una estimación."
+        reference = "El prisma tiene volumen 72 cm³; distingue área de superficie y volumen. Para el cilindro usa πr²h y declara la aproximación de π."
+    elif any(word in lowered for word in ("percentil", "cuartil", "caja", "gráfico", "manipul")):
+        resource = "Datos ordenados 4,5,6,7,8,9,10,12,18 y dos gráficos equivalentes, uno con eje vertical truncado."
+        prompt = f"Para «{focus.lower()}», determina mediana y cuartiles, construye o interpreta una caja y explica cómo la escala cambia la impresión sin cambiar los datos."
+        reference = "La mediana es 8; identifica posiciones de Q1 y Q3 según la convención declarada y advierte que truncar el eje exagera diferencias."
+    elif any(word in lowered for word in ("combinatorio", "combinación", "evento compuesto")):
+        resource = "Tarjetas con 3 rutas, 2 horarios y 4 materiales; tabla de doble entrada y árbol regular incompletos."
+        prompt = f"Para «{focus.lower()}», enumera sin repetir, completa dos representaciones y justifica por qué el total se obtiene multiplicando 3×2×4."
+        reference = "Hay 24 combinaciones; cada elección de ruta abre 2 horarios y cada par abre 4 materiales. El árbol y la tabla conservan ese producto."
+    else:
+        return _math_grade_seven(topic, focus, seed)
+    return {"resource": resource, "prompt": prompt, "reference": reference}
+
+
+def _language_grade_eight(topic: str, focus: str, seed: int) -> dict:
+    """Return a small original corpus for eighth-grade language work."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("dramát", "teatral", "comedia", "epopeya")):
+        resource = ("Dossier original: escena con diálogo y acotaciones; dos decisiones de puesta en escena; fragmento épico de dominio público "
+                    "con procedencia y ficha contextual. No incluye imitaciones culturales sin fuente.")
+        prompt = f"Para «{focus.lower()}», distingue texto y representación, analiza una acción o recurso con cita y relaciona su efecto con conflicto, género y contexto."
+        reference = "La respuesta cita diálogo o acotación, explica una decisión escénica o rasgo épico y limita su interpretación a la evidencia y contexto disponibles."
+    elif any(word in lowered for word in ("modo verbal", "correferencia", "elipsis", "oración compleja")):
+        resource = "Párrafo original con referentes competidores, elipsis ambigua y tres versiones verbales: «ocurre», «ocurriría» y «que ocurra»."
+        prompt = f"Para «{focus.lower()}», localiza la ambigüedad, prueba dos revisiones y explica cómo referente, sintaxis o modo verbal cambia el efecto."
+        reference = "La revisión conserva un referente inequívoco y coherencia temporal; distingue certeza, posibilidad o exhortación sin asignar un significado mecánico."
+    else:
+        return _language_grade_seven(topic, focus, seed)
+    return {"resource": resource, "prompt": prompt, "reference": reference}
+
+
 def _generic(topic: str, focus: str, seed: int) -> dict:
     options = ("A", "B", "C")
     return {
@@ -539,8 +584,12 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
     if subject_slug == "matematica":
         if grade == 7:
             return _math_grade_seven(topic, focus, seed)
+        if grade == 8:
+            return _math_grade_eight(topic, focus, seed)
         return _math(topic, focus, seed, grade)
-    if subject_slug == "lengua-literatura" and grade == 7:
+    if subject_slug == "lengua-literatura":
+        if grade == 8:
+            return _language_grade_eight(topic, focus, seed)
         return _language_grade_seven(topic, focus, seed)
     if subject_slug == "lenguaje-comunicacion":
         return _language(topic, focus, seed)

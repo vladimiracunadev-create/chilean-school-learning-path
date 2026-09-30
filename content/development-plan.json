@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-30",
-  "active_level": "8° básico — siguiente nivel por desarrollar",
-  "active_subject": "Lengua y Literatura",
+  "active_level": "8° básico — nivel en desarrollo",
+  "active_subject": "Ciencias Naturales",
   "delivery_unit": "nivel completo",
   "subject_order": [
     "Matemática",
@@ -202,7 +202,7 @@
     "pedagogical": {"status": "pendiente", "evidence": null},
     "accessibility_and_inclusion": {"status": "pendiente", "evidence": null},
     "cultural_and_contextual": {"status": "pendiente", "evidence": null},
-    "documentary_and_sources": {"status": "control_interno_completo_niveles_1_a_7", "evidence": "Las asignaturas de 1° a 7° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario"},
+    "documentary_and_sources": {"status": "control_interno_completo_niveles_1_a_7_y_nucleo_8", "evidence": "Las asignaturas de 1° a 7° y Matemática y Lengua y Literatura de 8° registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; 5°, 6° y 7° conservan separadas las dos denominaciones oficiales de Inglés presentes en el inventario"},
     "rights_and_privacy": {"status": "interno_en_curso", "evidence": "validación automática de licencias y prohibición de datos personales"}
   },
   "completion_gates": [

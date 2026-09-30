@@ -14,7 +14,7 @@
 [![4° básico](https://img.shields.io/badge/4%C2%B0%20b%C3%A1sico-811%20clases%20%C2%B7%2011%20asignaturas-7c3aed?style=for-the-badge)](docs/4-basico/README.md)
 [![5° básico](https://img.shields.io/badge/5%C2%B0%20b%C3%A1sico-920%20clases%20%C2%B7%2012%20denominaciones-2563eb?style=for-the-badge)](docs/5-basico/README.md)
 [![6° básico](https://img.shields.io/badge/6%C2%B0%20b%C3%A1sico-952%20clases%20%C2%B7%2012%20denominaciones-0f766e?style=for-the-badge)](docs/6-basico/README.md)
-[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-5.619%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-5.844%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -22,7 +22,7 @@
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
 
-[🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🧠 Abrir Matemática y Lengua de 8°](docs/8-basico/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 [📋 Plan maestro por nivel, asignatura e ítem](docs/PLAN_DESARROLLO.md)
 
@@ -31,7 +31,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** 1° a 7° básico cuentan con desarrollo pedagógico interno completo. En 7° las doce denominaciones reúnen 760 clases disciplinares y 515 experiencias integradas, sin propuestas pendientes. Se conservan además 7 clases piloto en 8° básico. La revisión humana especializada sigue pendiente.
+> **Estado real del proyecto:** 1° a 7° básico cuentan con desarrollo pedagógico interno completo. Matemática y Lengua y Literatura de 8° también están desarrolladas: reúnen 232 clases disciplinares y 115 experiencias integradas. Las otras asignaturas de 8° mantienen 854 propuestas pendientes. La revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -47,10 +47,11 @@ Este repositorio sirve hoy para cuatro cosas distintas, expresadas sin mezclar s
 - **Usar 5° básico completo:** ofrece 920 clases específicas y 420 experiencias transversales integradas en doce denominaciones curriculares.
 - **Usar 6° básico completo:** ofrece 952 clases específicas y 422 experiencias transversales integradas en doce denominaciones curriculares.
 - **Usar 7° básico completo:** ofrece 760 clases disciplinares y 515 experiencias transversales integradas en doce denominaciones, sin propuestas pendientes en el nivel.
+- **Usar Matemática y Lengua y Literatura de 8°:** ofrece 232 clases disciplinares y 115 experiencias transversales integradas; el resto del nivel continúa en desarrollo.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
 - **Construir los niveles siguientes:** conserva 12.997 espacios de clase secuenciados como plan de expansión, no como clases terminadas.
 
-Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)** o **[7° básico completo](docs/7-basico/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
+Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7° básico completo](docs/7-basico/README.md)** o las **[dos asignaturas desarrolladas de 8°](docs/8-basico/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
 
 ## 🧭 OA, en palabras simples
 
@@ -122,9 +123,11 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **7° básico completo:** 760 clases disciplinares desarrolladas y 515 experiencias transversales integradas. Los 153 objetivos de contenido y 122 objetivos transversales del nivel están resueltos en sus doce denominaciones, con revisión humana aún pendiente.
 
+**8° básico en desarrollo:** Matemática aporta 77 clases desarrolladas y 82 experiencias integradas; Lengua y Literatura, 155 clases desarrolladas y 33 experiencias integradas. En conjunto son 232 clases y 115 integraciones, mientras 854 propuestas de las demás asignaturas siguen pendientes.
+
 ### Preparado para desarrollo futuro
 
-**Desde 8° básico hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. El piloto de 7 clases de Lengua y Literatura de 8° no convierte ese nivel en programa terminado.
+**Resto de 8° básico y desde 1° hasta 4° medio:** mapa curricular navegable con propuestas secuenciadas. Las dos asignaturas desarrolladas de 8° no convierten el nivel completo en programa terminado.
 
 ### Lo que significa “12.997”
 
@@ -329,6 +332,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 - [Programa de 1° básico](docs/1-basico/README.md)
 - [Programa de 2° básico](docs/2-basico/README.md)
+- [Matemática y Lengua y Literatura de 8° básico](docs/8-basico/README.md)
 - [Guía pedagógica](TEACHING_GUIDE.md)
 - [Roles profesionales](docs/ROLES_DOCENTES.md)
 - [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md)
@@ -353,9 +357,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7° y 7 del piloto de 8°: 5.619 en total.
-- **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6° y 515 de 7°: 2.814 en total; no constituyen clases independientes.
-- **Contenido pendiente:** desde 8° básico hasta 4° medio permanece secuenciado, salvo el piloto de 7 clases de 8°.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7° y 232 de 8°: 5.844 en total.
+- **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6°, 515 de 7° y 115 de 8°: 2.929 en total; no constituyen clases independientes.
+- **Contenido pendiente:** 854 propuestas de 8° básico y todas las propuestas desde 1° a 4° medio permanecen secuenciadas.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -366,7 +370,7 @@ flowchart TD
     A[Currículum Nacional] --> B[Registro curricular verificable]
     B --> C[Mapa de cobertura]
     C --> D[Dosificación]
-    D --> E[Desarrollo completo de 1° a 7° básico]
+    D --> E[1° a 7° completos + núcleo de 8°]
     E --> F[Markdown]
     E --> G[HTML]
     F --> H[Validadores y pruebas]
@@ -393,7 +397,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un desarrollo transparente de 1° a 7° básico, con 5.619 clases desarrolladas y 2.814 experiencias integradas en el catálogo;
+- un desarrollo transparente de 1° a 7° básico y de Matemática y Lengua y Literatura de 8°, con 5.844 clases desarrolladas y 2.929 experiencias integradas en el catálogo;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -410,7 +414,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ## 💡 Idea fuerza
 
-> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. En 1° a 7° básico el desarrollo interno está completo; la revisión profesional humana todavía debe registrarse por separado.
+> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. En 1° a 7° básico el desarrollo interno está completo; en 8° lo están Matemática y Lengua y Literatura. La revisión profesional humana todavía debe registrarse por separado.
 
 ## 📖 Fuentes y derechos
 
