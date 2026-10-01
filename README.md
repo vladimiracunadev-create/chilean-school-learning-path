@@ -117,6 +117,8 @@ El punto de partida es el [Currículum Nacional de Chile](https://www.curriculum
 - **[Reconstrucción de 8° básico](docs/8-basico/README.md):** cobertura completa de sus doce denominaciones y continuidad desde 7°.
 - **[1° medio completo](docs/1-medio/README.md):** once denominaciones con secuencias disciplinares, integraciones transversales, continuidad desde 8° y guías propias.
 - **[2° medio completo](docs/2-medio/README.md):** once denominaciones con secuencias disciplinares, integraciones transversales cuando corresponden, continuidad desde 1° medio y guías propias.
+- **[3° medio · Formación General completa](docs/3-medio/README.md):** dieciocho denominaciones, 98 OA y 495 clases; cada guía separa la redacción y fuente oficial del OA de la explicación pedagógica interna.
+- **[4° medio · Formación General completa](docs/4-medio/README.md):** diecisiete denominaciones, 91 OA y 466 clases; cada guía conserva la fuente oficial y explicita punto de entrada, conceptos, progresión y evidencia esperada.
 - **[Metodología](METHODOLOGY.md):** paso del OA a la secuencia y controles de consistencia.
 - **[Cobertura](docs/COBERTURA.md):** alcance de los doce niveles y estado editorial real.
 - **[Licencias](docs/LICENCIAS.md):** derechos, atribución y condiciones de reutilización.

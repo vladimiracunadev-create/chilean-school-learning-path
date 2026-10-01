@@ -132,6 +132,19 @@ class SchoolProgramTests(unittest.TestCase):
             for token in ("2.823", "12.997", "8.841", "4.156"):
                 self.assertIn(token, surface, f"{relative_path} omite la cifra canónica {token}")
 
+        complete_readme_sections = {
+            "portada": readme.split("## 👋 Empieza aquí", 1)[0],
+            "Empieza aquí": readme.split("## 👋 Empieza aquí", 1)[1].split("## 🧭 OA, en palabras simples", 1)[0],
+            "De dónde sale el contenido": readme.split("## 📖 De dónde sale el contenido", 1)[1].split("## 📍 Estado actual", 1)[0],
+            "Rutas según quién usa el repositorio": readme.split("## 🧭 Rutas según quién usa el repositorio", 1)[1].split("## 👩‍🏫 Para docentes y equipos pedagógicos", 1)[0],
+            "Para docentes y equipos pedagógicos": readme.split("## 👩‍🏫 Para docentes y equipos pedagógicos", 1)[1].split("## 📊 Evaluación que conduce a una decisión", 1)[0],
+            "Documentación de principio a fin": readme.split("## 📚 Documentación de principio a fin", 1)[1].split("## 🗺️ Cobertura total", 1)[0],
+            "pie": readme.split("<div align=\"center\">", 2)[-1],
+        }
+        for section_name, section in complete_readme_sections.items():
+            for folder in level_folders:
+                self.assertIn(f"docs/{folder}/README.md", section, f"README omite {folder} en {section_name}")
+
     def test_main_readme_links_every_completed_level_and_subject(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("https://vladimiracunadev-create.github.io/chilean-school-learning-path/", readme)

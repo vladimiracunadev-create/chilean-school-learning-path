@@ -911,6 +911,23 @@ def validate(root: Path = ROOT) -> list[str]:
         for token in ("2.823", "12.997", "8.841", "4.156"):
             if token not in surface:
                 errors.append(f"{relative_path} omite la cifra canónica vigente: {token}")
+    try:
+        complete_readme_sections = {
+            "portada": main_readme.split("## 👋 Empieza aquí", 1)[0],
+            "Empieza aquí": main_readme.split("## 👋 Empieza aquí", 1)[1].split("## 🧭 OA, en palabras simples", 1)[0],
+            "De dónde sale el contenido": main_readme.split("## 📖 De dónde sale el contenido", 1)[1].split("## 📍 Estado actual", 1)[0],
+            "Rutas según quién usa el repositorio": main_readme.split("## 🧭 Rutas según quién usa el repositorio", 1)[1].split("## 👩‍🏫 Para docentes y equipos pedagógicos", 1)[0],
+            "Para docentes y equipos pedagógicos": main_readme.split("## 👩‍🏫 Para docentes y equipos pedagógicos", 1)[1].split("## 📊 Evaluación que conduce a una decisión", 1)[0],
+            "Documentación de principio a fin": main_readme.split("## 📚 Documentación de principio a fin", 1)[1].split("## 🗺️ Cobertura total", 1)[0],
+            "pie": main_readme.split('<div align="center">', 2)[-1],
+        }
+    except IndexError:
+        errors.append("README.md no conserva la estructura esperada de secciones completas")
+    else:
+        for section_name, section in complete_readme_sections.items():
+            for folder in level_folders:
+                if f"docs/{folder}/README.md" not in section:
+                    errors.append(f"README.md omite {folder} en la sección completa: {section_name}")
     for course_order in range(1, 9):
         level_link = f"docs/{course_order}-basico/README.md"
         if level_link not in main_readme:

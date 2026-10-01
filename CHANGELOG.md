@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-01 · Enumeraciones completas en el README
+
+- La sección “De dónde sale el contenido” incorpora las reconstrucciones de 3° y 4° medio, sus cifras, fuentes oficiales y separación entre OA oficial y explicación pedagógica interna.
+- Una nueva validación estructural exige los doce índices de nivel en cada sección del README que presenta un recorrido completo; una enumeración truncada ya no puede pasar CI.
+- Se conserva el historial anterior sin reescribir afirmaciones fechadas.
+
 ## 2026-10-01 · Coherencia integral del README y el syllabus
 
 - Se corrige la contradicción del README que ubicaba las 8.841 clases desarrolladas y las 4.156 experiencias integradas dentro de “No es”, pese a declararlas como estado actual en el resto de la documentación.
