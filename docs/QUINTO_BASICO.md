@@ -2,7 +2,7 @@
 
 > **Desarrollo pedagógico interno completo:** 920 clases desarrolladas · 420 experiencias transversales integradas · 0 propuestas pendientes · 295 OA · 12 denominaciones curriculares · revisión humana pendiente.
 
-[Programa narrativo de 5° básico](5-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)
+[Programa narrativo de 5° básico](5-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md) · [Apps de apoyo](APPS_APOYO_APRENDIZAJE.md)
 
 Todos los OA disciplinares cuentan con secuencias específicas. Las entradas integradas corresponden a habilidades o actitudes observadas dentro de esas clases; no duplican el horario. El estado revisada permanece en cero hasta registrar revisión profesional.
 

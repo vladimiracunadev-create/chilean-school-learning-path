@@ -30,6 +30,7 @@ main{width:min(1240px,calc(100% - 40px));margin:auto}.level-feature{display:grid
 .quality-pack h3{margin:.8rem 0 .25rem;font-size:.9rem}
 .quality-pack p,.quality-pack li{font-size:.84rem}
 .quality-pack ul{margin:.4rem 0 0;padding-left:1.2rem}
+.learning-app-panel{margin-top:1rem;padding:1.2rem;border-left:4px solid var(--gold);background:#fff7dc}.learning-app-panel>p{font-size:.84rem}.learning-app-panel>ul{display:grid;gap:1rem;margin:.7rem 0 0;padding:0;list-style:none}.learning-app-panel li{padding:1rem;border:1px solid #e6d49a;background:var(--surface)}.learning-app-panel h4{margin:0 0 .45rem;font-size:1rem}.learning-app-panel li p{margin:.4rem 0;font-size:.82rem}.learning-app-panel li>a:last-child{display:inline-block;margin-top:.35rem;font-size:.78rem;font-weight:700}
 .quality-tables{margin-top:1rem}
 .quality-tables h3{margin:1rem 0 .45rem}
 .quality-tables table{width:100%;border-collapse:collapse;min-width:620px}

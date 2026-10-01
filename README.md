@@ -423,6 +423,7 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 - 📊 **[Rúbrica transversal](docs/RUBRICA_EVALUACION.md):** lectura de evidencia y acción pedagógica asociada.
 - ♿ **[Evaluación formativa](docs/EVALUACION_FORMATIVA.md):** cambiar el acceso sin reducir el OA.
 - 🏠 **[Guía para familias](docs/GUIA_FAMILIAS.md):** acompañar sin reemplazar al estudiante.
+- 📱 **[Apps de apoyo del aprendizaje](docs/APPS_APOYO_APRENDIZAJE.md):** tres productos para alrededor de los 10 años integrados opcionalmente en siete clases de 5° básico, con correspondencia curricular, mediación docente y alternativa sin dispositivo.
 - 🔎 **[Revisión humana](docs/REVISION_HUMANA.md):** registrar una revisión real y trazable.
 
 ## 🧭 Rutas según quién usa el repositorio
@@ -499,6 +500,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 - [Programa de 3° básico](docs/3-basico/README.md)
 - [Programa de 4° básico](docs/4-basico/README.md)
 - [Programa de 5° básico](docs/5-basico/README.md)
+- [Apps de apoyo del aprendizaje en 5° básico](docs/APPS_APOYO_APRENDIZAJE.md)
 - [Programa de 6° básico](docs/6-basico/README.md)
 - [Programa de 7° básico](docs/7-basico/README.md)
 - [Programa completo de 8° básico](docs/8-basico/README.md)

@@ -20,7 +20,7 @@ from scripts.grade_three_music_orientation_technology_lessons import ATTITUDES a
 from scripts.grade_four_math_lessons import MATH as GRADE_FOUR_MATH_SEQUENCES, MATH_ATTITUDES as GRADE_FOUR_MATH_ATTITUDES, MATH_SKILLS as GRADE_FOUR_MATH_SKILLS, build_sequence as build_grade_four_math_sequence
 from scripts.grade_four_remaining_lessons import SEQUENCES as GRADE_FOUR_REMAINING_SEQUENCES, build_sequence as build_grade_four_remaining_sequence
 from scripts.grade_five_core_lessons import COUNTS as GRADE_FIVE_COUNTS, SEQUENCES as GRADE_FIVE_CORE_SEQUENCES, build_sequence as build_grade_five_core_sequence
-from scripts.grade_five_remaining_lessons import SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
+from scripts.grade_five_remaining_lessons import LEARNING_SUPPORT_APPS, SEQUENCES as GRADE_FIVE_REMAINING_SEQUENCES, build_sequence as build_grade_five_remaining_sequence
 from scripts.grade_six_math_lessons import COUNTS as GRADE_SIX_MATH_COUNTS, SEQUENCES as GRADE_SIX_MATH_SEQUENCES, build_sequence as build_grade_six_math_sequence
 from scripts.grade_six_remaining_lessons import SEQUENCES as GRADE_SIX_REMAINING_SEQUENCES, build_sequence as build_grade_six_remaining_sequence
 from scripts.grade_seven_core_lessons import SEQUENCES as GRADE_SEVEN_CORE_SEQUENCES, build_sequence as build_grade_seven_core_sequence
@@ -1256,6 +1256,41 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertIn(safeguard, cultural)
         self.assertEqual((len(fifth), sum(item["editorial_status"] == "desarrollada" for item in fifth), sum(item["editorial_status"] == "integrada" for item in fifth)), (1340, 920, 420))
         self.assertFalse([item for item in fifth if item["editorial_status"] in {"secuenciada", "borrador"}])
+
+    def test_learning_support_apps_are_pedagogically_scoped(self):
+        self.assertEqual(set(LEARNING_SUPPORT_APPS), {"cueca", "violin", "guitar"})
+        supported = []
+        for code in GRADE_FIVE_REMAINING_SEQUENCES:
+            sequence = build_grade_five_remaining_sequence(code)
+            for index, lesson in enumerate(sequence["lessons"], 1):
+                if lesson.get("learning_support_apps"):
+                    supported.append((code, index, lesson))
+        self.assertEqual([(code, index) for code, index, _ in supported], [
+            ("EF05 OA 05", 1), ("EF05 OA 05", 4), ("MU05 OA 01", 2),
+            ("MU05 OA 03", 2), ("MU05 OA 04", 1), ("MU05 OA 07", 1),
+            ("MU05 OA 08", 4),
+        ])
+        self.assertEqual(sum(len(lesson["learning_support_apps"]) for _, _, lesson in supported), 10)
+        for _, _, lesson in supported:
+            self.assertIn("Dispositivo compartido opcional", lesson["materials"])
+            for app in lesson["learning_support_apps"]:
+                self.assertTrue(app["url"].startswith("https://vladimiracunadev-create.github.io/"))
+                self.assertTrue(app["repository_url"].startswith("https://github.com/vladimiracunadev-create/"))
+                self.assertIn("opcional", app["conditions"].lower())
+                self.assertTrue(app["alternative"])
+        guide = (ROOT / "docs/APPS_APOYO_APRENDIZAJE.md").read_text(encoding="utf-8")
+        for token in ("App de apoyo del aprendizaje", "Pañuelo al Viento", "Mi Aventura con el Violín", "Mi Aventura con la Guitarra", "alternativa equivalente sin aplicación", "no demuestra por sí solo aprendizaje"):
+            self.assertIn(token, guide)
+        for relative in (
+            "curriculum/5-basico/educacion-fisica-salud/ef05-oa-05.md",
+            "curriculum/5-basico/musica/mu05-oa-01.md",
+            "site/classes/5-basico/educacion-fisica-salud/ef05-oa-05.html",
+            "site/classes/5-basico/musica/mu05-oa-01.html",
+        ):
+            rendered = (ROOT / relative).read_text(encoding="utf-8")
+            self.assertIn("App de apoyo del aprendizaje", rendered, relative)
+            self.assertIn("Alternativa sin app", rendered, relative)
+        self.assertTrue((ROOT / "site/docs/apps-apoyo-aprendizaje.html").is_file())
 
     def test_sixth_grade_mathematics_is_complete_and_specific(self):
         codes = sorted(GRADE_SIX_MATH_SEQUENCES)

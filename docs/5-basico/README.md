@@ -81,6 +81,7 @@ La evidencia sirve para avanzar, apoyar, reenseñar o recoger otra muestra. No s
 ## 🔗 Documentos relacionados
 
 - [Mapa técnico de 5° básico](../QUINTO_BASICO.md)
+- [Apps de apoyo del aprendizaje](../APPS_APOYO_APRENDIZAJE.md)
 - [Syllabus completo](../SYLLABUS.md)
 - [Guía docente](../../TEACHING_GUIDE.md)
 - [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)

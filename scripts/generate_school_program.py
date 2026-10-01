@@ -82,6 +82,15 @@ def developed_block(lesson):
  assessment="\n".join(f"| {row['level']} | {row['descriptor']} |" for row in lesson.get("assessment_levels", []))
  timing_45="\n".join(f"| {row['minutes']} min | {row['action']} |" for row in lesson.get("timing_45", []))
  teacher_checks="\n".join(f"- [ ] {value}" for value in lesson.get("teacher_checklist", []))
+ app_items=[]
+ for app in lesson.get("learning_support_apps", []):
+  app_items += [
+   f"- **[{app['name']}]({app['url']})** ({app['audience']}): {app['purpose']}",
+   f"  - **Condiciones de uso:** {app['conditions']}",
+   f"  - **Alternativa sin app:** {app['alternative']}",
+   f"  - [Repositorio y documentación técnica]({app['repository_url']})",
+  ]
+ app_section=("\n\n### App de apoyo del aprendizaje (opcional)\n\n"+"\n".join(app_items)) if app_items else ""
  quality_section=f"""### Insumo concreto y consigna
 
 **Recurso listo para usar:** {lesson['concrete_resource']}
@@ -116,7 +125,7 @@ def developed_block(lesson):
 | Desempeño individual | 25 min | {lesson['independent']} |
 | Cierre | 10 min | {lesson['ticket']} |
 
-**Materiales y preparación:** {lesson['materials']}
+**Materiales y preparación:** {lesson['materials']}{app_section}
 
 {quality_section}
 **Apoyo en el mismo OA:** {lesson['support']}
@@ -731,6 +740,11 @@ def grade_three_subject_documentation(subject,objectives,previous_subject=None,n
   "## 🔗 Fuente y límites","",f"- [Currículum Nacional · {subject['name']} · {level} básico]({objectives[0]['subject_url']})","- [Guía pedagógica](../../TEACHING_GUIDE.md)","- [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)","- [Protocolo de revisión humana](../REVISION_HUMANA.md)","","El contenido cumple el contrato automatizado, pero no se declara revisado por especialistas hasta registrar evidencia competente.",""]
  if subject["slug"]=="orientacion":lines += ["## Resguardos de intimidad y protección","","- Se trabaja con casos ficticios y derecho a pasar o responder en privado.","- No se solicitan revelaciones personales, familiares, corporales o emocionales.","- Las situaciones reales se derivan al protocolo institucional; no se investigan ni median en clase.",""]
  if subject["slug"] in {"lengua-cultura-pueblos-originarios-ancestrales", "lengua-indigena"}:lines += ["## Resguardos culturales","","- No se inventan palabras, pronunciaciones, grafías, relatos ni significados espirituales.","- Se coordina con educador tradicional, autoridad cultural o fuente comunitaria pertinente.","- No se reproducen ceremonias, símbolos o prácticas restringidas sin autorización.",""]
+ if level=="5°" and subject["slug"] in {"musica", "educacion-fisica-salud"}:
+  if subject["slug"]=="musica":
+   lines += ["## 📱 Apps de apoyo del aprendizaje","","Algunas clases de `MU05 OA 01`, `MU05 OA 03`, `MU05 OA 04`, `MU05 OA 07` y `MU05 OA 08` incorporan de manera opcional Pañuelo al Viento, Mi Aventura con el Violín o Mi Aventura con la Guitarra. Cada ficha indica propósito, mediación adulta o docente, límite de la evidencia y alternativa equivalente sin aplicación.","","[Consultar análisis, correspondencia curricular y resguardos](../APPS_APOYO_APRENDIZAJE.md)",""]
+  else:
+   lines += ["## 📱 App de apoyo del aprendizaje","","Dos clases de `EF05 OA 05` incorporan opcionalmente Pañuelo al Viento para observar, ensayar y ajustar pulso, trayectoria y coordinación. La ejecución segura y la explicación motriz constituyen la evidencia; la app no reemplaza demostración, consentimiento, contextualización cultural ni alternativa sin dispositivo.","","[Consultar análisis, correspondencia curricular y resguardos](../APPS_APOYO_APRENDIZAJE.md)",""]
  return "\n".join(lines)
 
 def grade_four_math_documentation(objs,classes):
@@ -844,13 +858,13 @@ def grade_five_index_documentation(objs,classes):
   "## 🧱 Anatomía y diferenciación","","Cada clase explicita propósito, meta, ancla disciplinar, modelado, práctica guiada, desempeño individual, evidencia, criterios, apoyo, profundización, dificultades observables, decisión posterior y alternativa sin conectividad. La estructura es estable; el contenido, las decisiones y las evidencias cambian OA por OA.","",
   "## 📊 Cómo se evalúa","","La evidencia sirve para avanzar, apoyar, reenseñar o recoger otra muestra. No se confunden velocidad, conducta, volumen de voz, presentación, identidad o cumplimiento con dominio del OA.","",
   "## 🔎 Estados y límites","","- **Desarrollada:** secuencia disciplinar con decisiones, evidencia y apoyos específicos.","- **Integrada:** habilidad o actitud observada dentro del contenido; no es una clase adicional.","- **Pendiente:** quedan 0 propuestas secuenciadas o borradores en este nivel.","- **Revisada:** requiere evidencia humana competente; actualmente hay 0.","",
-  "## 🔗 Documentos relacionados","","- [Mapa técnico de 5° básico](../QUINTO_BASICO.md)","- [Syllabus completo](../SYLLABUS.md)","- [Guía docente](../../TEACHING_GUIDE.md)","- [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)","- [Protocolo de revisión humana](../REVISION_HUMANA.md)",""]
+  "## 🔗 Documentos relacionados","","- [Mapa técnico de 5° básico](../QUINTO_BASICO.md)","- [Apps de apoyo del aprendizaje](../APPS_APOYO_APRENDIZAJE.md)","- [Syllabus completo](../SYLLABUS.md)","- [Guía docente](../../TEACHING_GUIDE.md)","- [Rúbrica de evaluación](../RUBRICA_EVALUACION.md)","- [Protocolo de revisión humana](../REVISION_HUMANA.md)",""]
  return "\n".join(lines)
 
 def grade_five_documentation(objs,classes):
  grade_objs,grade_classes,subjects=grade_five_summary(objs,classes)
  developed=sum(x["editorial_status"]=="desarrollada" for x in grade_classes);integrated=sum(x["editorial_status"]=="integrada" for x in grade_classes);pending=sum(x["editorial_status"] in {"secuenciada","borrador"} for x in grade_classes)
- lines=["# 5° básico — mapa de contenidos","",f"> **Desarrollo pedagógico interno completo:** {developed} clases desarrolladas · {integrated} experiencias transversales integradas · {pending} propuestas pendientes · {len(grade_objs)} OA · 12 denominaciones curriculares · revisión humana pendiente.","","[Programa narrativo de 5° básico](5-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md)","","Todos los OA disciplinares cuentan con secuencias específicas. Las entradas integradas corresponden a habilidades o actitudes observadas dentro de esas clases; no duplican el horario. El estado revisada permanece en cero hasta registrar revisión profesional.","","## Cobertura","","| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Pendientes |","|---|---:|---:|---:|---:|---:|"]
+ lines=["# 5° básico — mapa de contenidos","",f"> **Desarrollo pedagógico interno completo:** {developed} clases desarrolladas · {integrated} experiencias transversales integradas · {pending} propuestas pendientes · {len(grade_objs)} OA · 12 denominaciones curriculares · revisión humana pendiente.","","[Programa narrativo de 5° básico](5-basico/README.md) · [Índice Markdown de clases](../CURRICULUM.md) · [Guía pedagógica](../TEACHING_GUIDE.md) · [Evaluación formativa](EVALUACION_FORMATIVA.md) · [Apps de apoyo](APPS_APOYO_APRENDIZAJE.md)","","Todos los OA disciplinares cuentan con secuencias específicas. Las entradas integradas corresponden a habilidades o actitudes observadas dentro de esas clases; no duplican el horario. El estado revisada permanece en cero hasta registrar revisión profesional.","","## Cobertura","","| Asignatura | OA | Propuestas | Desarrolladas | Integradas | Pendientes |","|---|---:|---:|---:|---:|---:|"]
  for item in subjects:lines.append(f"| {item['name']} | {item['oa']} | {item['classes']} | {item['developed']} | {item['integrated']} | {item['classes']-item['developed']-item['integrated']} |")
  lines += ["","## Continuidad con 4° básico","","Cada secuencia diagnostica la base disponible y amplía precisión, vocabulario, autonomía, contraste y transferencia. Cuando falta un prerrequisito, reincorpora modelado y apoyo sin sustituir el OA de 5°.","","## Contrato de calidad","","- Anclas, ejemplos, materiales, decisiones y errores propios de cada disciplina y OA.","- Inicio, modelado, práctica guiada, desempeño individual y cierre.","- Apoyo que conserva el objetivo y profundización que cambia una condición.","- Integraciones transversales observables sin evaluar personalidad, identidad o cuerpo.","- Resguardos físicos, emocionales, digitales, culturales, de privacidad y autoría.","","## Verificación y límite","",f"El catálogo registra {len(grade_objs)} OA y {len(grade_classes):,} propuestas: {developed} desarrolladas, {integrated} integradas y {pending} pendientes.".replace(",","."),"La CI comprueba estructura, cobertura, unicidad, fuentes, licencias y reproducción del contenido. Esto no sustituye revisión disciplinar o pedagógica humana.",""]
  return "\n".join(lines)
@@ -1643,6 +1657,11 @@ def developed_lesson_html(item,index,code,lesson,status):
  teacher_checks="".join(f"<li>{esc(value)}</li>" for value in lesson.get("teacher_checklist", []))
  assessment_rows="".join(f"<tr><td><strong>{esc(row['level'])}</strong></td><td>{esc(row['descriptor'])}</td></tr>" for row in lesson.get("assessment_levels", []))
  timing_rows="".join(f"<tr><td>{esc(row['minutes'])} min</td><td>{esc(row['action'])}</td></tr>" for row in lesson.get("timing_45", []))
+ app_items="".join(
+  f'<li><h4><a href="{esc(app["url"])}" rel="noopener">{esc(app["name"])}</a></h4><p><strong>{esc(app["audience"].capitalize())}.</strong> {esc(app["purpose"])}</p><p><strong>Condiciones de uso:</strong> {esc(app["conditions"])}</p><p><strong>Alternativa sin app:</strong> {esc(app["alternative"])}</p><a href="{esc(app["repository_url"])}" rel="noopener">Repositorio y documentación técnica</a></li>'
+  for app in lesson.get("learning_support_apps", [])
+ )
+ app_panel=(f'<section class="learning-app-panel"><p class="eyebrow">Recurso opcional</p><h3>App de apoyo del aprendizaje</h3><p>La evidencia se obtiene en la actividad del OA, no en el avance dentro de la aplicación.</p><ul>{app_items}</ul></section>' if app_items else "")
  quality_pack=(f'<section class="quality-pack"><p class="eyebrow">Insumo concreto y consigna</p><h3>Recurso listo para usar</h3><p>{esc(lesson["concrete_resource"])}</p><h3>Consigna exacta</h3><p>{esc(lesson["exact_prompt"])}</p><h3>Referencia para modelar y corregir</h3><p>{esc(lesson["response_reference"])}</p><h3>Preparación docente</h3><ul>{teacher_checks}</ul></section>' if is_developed else "")
  quality_tables=(f'<section class="quality-tables"><h3>Pauta de evaluación de cuatro niveles</h3><div class="table-scroll"><table><thead><tr><th>Nivel</th><th>Descriptor observable</th></tr></thead><tbody>{assessment_rows}</tbody></table></div><h3>Distribución de 45 minutos</h3><div class="table-scroll"><table><thead><tr><th>Tiempo</th><th>Acción preservada</th></tr></thead><tbody>{timing_rows}</tbody></table></div></section>' if is_developed else "")
  return f'''<article class="lesson {'lesson-developed' if is_developed else 'lesson-draft'}" id="{esc(code.lower())}">
@@ -1650,7 +1669,7 @@ def developed_lesson_html(item,index,code,lesson,status):
 <p class="lesson-focus"><strong>Propósito docente:</strong> {esc(lesson['purpose'])}</p><p class="student-goal"><strong>Meta para estudiantes:</strong> {esc(lesson['goal'])}</p>
 <div class="lesson-grid"><section><h3>Inicio · 10 min</h3><p>{esc(lesson['opening'])}</p></section><section><h3>Modelado · 20 min</h3><p>{esc(lesson['model'])}</p></section><section><h3>Práctica guiada · 25 min</h3><p>{esc(lesson['guided'])}</p></section><section><h3>Desempeño individual · 25 min</h3><p>{esc(lesson['independent'])}</p></section></div>
 <div class="material-callout"><h3>Materiales y preparación</h3><p>{esc(lesson['materials'])}</p></div>
-{quality_pack}
+{app_panel}{quality_pack}
 <div class="support-grid"><p><strong>Apoyo:</strong> {esc(lesson['support'])}</p><p><strong>Profundización:</strong> {esc(lesson['extension'])}</p></div>
 <div class="assessment-grid"><section><h3>Ticket de salida · 10 min</h3><p>{esc(lesson['ticket'])}</p><p><strong>Evidencia:</strong> {esc(lesson['evidence'])}</p></section><section><h3>Criterios observables</h3><ul>{criteria}</ul></section></div>
 {quality_tables}

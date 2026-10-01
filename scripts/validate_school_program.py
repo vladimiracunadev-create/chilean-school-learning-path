@@ -1097,7 +1097,7 @@ def validate(root: Path = ROOT) -> list[str]:
         document = html_path.read_text(encoding="utf-8")
         for destination in re.findall(r'href="([^"]+)"', document):
             clean = destination.split("#", 1)[0].split("?", 1)[0]
-            if clean.lower().endswith(".md"):
+            if clean.lower().endswith(".md") and not clean.startswith(("http://", "https://")):
                 errors.append(f"Cruce HTML→Markdown en {html_path.relative_to(root)}: {destination}")
             if not clean or clean.startswith(("http://", "https://", "mailto:", "tel:", "/")):
                 continue

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-01 · Apps de apoyo del aprendizaje en 5° básico
+
+- Se analizan Pañuelo al Viento, Mi Aventura con el Violín y Mi Aventura con la Guitarra antes de integrarlas como recursos opcionales para niñas y niños alrededor de los 10 años.
+- Se modifican siete clases de 5° básico: dos de `EF05 OA 05` y cinco de Música (`MU05 OA 01`, `03`, `04`, `07` y `08`), sin alterar los conteos curriculares.
+- Cada integración declara propósito, mediación adulta o docente, evidencia válida, límites y una alternativa equivalente sin aplicación, dispositivo o instrumento propio.
+- Se publica una guía de correspondencia curricular y se incorpora la misma información en las fichas Markdown, las guías de asignatura y GitHub Pages.
+
 ## 2026-10-01 · Enumeraciones completas en el README
 
 - La sección “De dónde sale el contenido” incorpora las reconstrucciones de 3° y 4° medio, sus cifras, fuentes oficiales y separación entre OA oficial y explicación pedagógica interna.

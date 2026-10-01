@@ -49,6 +49,74 @@ SUBJECTS = {
     "TE": ("tecnologia", "Tecnología"),
 }
 
+LEARNING_SUPPORT_APPS = {
+    "cueca": {
+        "name": "Pañuelo al Viento",
+        "url": "https://vladimiracunadev-create.github.io/panuelo-al-viento-cueca-app/",
+        "repository_url": "https://github.com/vladimiracunadev-create/panuelo-al-viento-cueca-app",
+        "audience": "desde los 10 años",
+        "purpose": "Apoyar la exploración inicial del pulso, el desplazamiento, el uso del pañuelo y la diversidad contextual de la cueca mediante recorridos breves.",
+        "conditions": "Uso opcional, preferentemente compartido y mediado por docente o cultor pertinente. No reemplaza demostración corporal, consentimiento, espacio seguro ni contextualización cultural.",
+        "alternative": "Reproducir el mismo desafío con audio seleccionado por el docente, marcas de piso, pañuelo de tela o papel y demostración presencial.",
+    },
+    "violin": {
+        "name": "Mi Aventura con el Violín",
+        "url": "https://vladimiracunadev-create.github.io/violin-adventure/",
+        "repository_url": "https://github.com/vladimiracunadev-create/violin-adventure",
+        "audience": "aproximadamente desde los 10 años",
+        "purpose": "Apoyar una iniciación gradual al cuidado del instrumento, postura saludable, pulso, cuerdas al aire, pizzicato, arco y primeras lecturas.",
+        "conditions": "Uso opcional con instrumento de tamaño adecuado y supervisión adulta o docente. El progreso de la app no valida postura, ajuste del instrumento ni calidad sonora.",
+        "alternative": "Usar tarjetas de pulso y cuerdas, demostración humana, instrumento escolar disponible o simulación corporal sin exigir dispositivo ni instrumento propio.",
+    },
+    "guitar": {
+        "name": "Mi Aventura con la Guitarra",
+        "url": "https://vladimiracunadev-create.github.io/guitarra-adventure/",
+        "repository_url": "https://github.com/vladimiracunadev-create/guitarra-adventure",
+        "audience": "aproximadamente desde los 10 años",
+        "purpose": "Apoyar una iniciación gradual al cuidado del instrumento, postura saludable, pulso, cuerdas al aire, mano derecha y primeras lecturas en partitura o tablatura.",
+        "conditions": "Uso opcional con guitarra de tamaño adecuado y supervisión adulta o docente. El afinador o metrónomo orientan la práctica, pero no certifican el aprendizaje ni sustituyen observación humana.",
+        "alternative": "Usar tarjetas de pulso y cuerdas, demostración humana, instrumento escolar disponible o simulación corporal sin exigir dispositivo ni instrumento propio.",
+    },
+}
+
+APP_LESSON_INTEGRATIONS = {
+    ("EF05 OA 05", 0): {
+        "apps": ("cueca",),
+        "guided": "Como estación opcional, observa en Pañuelo al Viento una trayectoria breve y luego ensáyala con marcas de piso, regulando distancia, intensidad y derecho a pausar.",
+        "independent": "Demuestra una secuencia segura de desplazamiento y explica una decisión de espacio o coordinación; el registro de la app no forma parte de la evidencia.",
+    },
+    ("EF05 OA 05", 3): {
+        "apps": ("cueca",),
+        "guided": "Contrasta una secuencia propia con una práctica guiada de Pañuelo al Viento y ajusta sólo un aspecto observable: pulso, trayectoria o coordinación con el pañuelo.",
+        "independent": "Presenta la secuencia con una variante corporal elegida y contextualiza que la app ofrece una introducción, no una forma única ni total de la cueca.",
+    },
+    ("MU05 OA 01", 1): {
+        "apps": ("violin", "guitar"),
+        "guided": "En una estación opcional, usa uno de los recorridos instrumentales para reconocer pulso, altura o timbre y representa el rasgo escuchado con gesto, palabra o gráfico.",
+        "independent": "Reconoce y representa el rasgo audible en un ejemplo nuevo; completar una pantalla o acertar con el afinador no reemplaza esta evidencia.",
+    },
+    ("MU05 OA 03", 1): {
+        "apps": ("cueca",),
+        "guided": "Usa una muestra breve de Pañuelo al Viento para identificar un rasgo audible y contrástalo con otro registro de cueca cuya procedencia esté atribuida.",
+        "independent": "Describe semejanzas y diferencias audibles sin presentar la muestra de la app como representación total de la cueca ni de una comunidad.",
+    },
+    ("MU05 OA 04", 0): {
+        "apps": ("violin", "guitar"),
+        "guided": "Elige violín o guitarra sólo si está disponible: observa la demostración inicial, imita un patrón breve y recibe retroalimentación humana sobre postura, pulso y escucha del conjunto.",
+        "independent": "Interpreta el patrón acordado con instrumento, voz, percusión corporal u objeto sonoro equivalente; se evalúa control y escucha, no acceso a la app o a un instrumento propio.",
+    },
+    ("MU05 OA 07", 0): {
+        "apps": ("cueca",),
+        "guided": "Lee la explicación contextual de Pañuelo al Viento junto con una segunda fuente atribuida y separa dato verificable, interpretación y decisión pedagógica de la app.",
+        "independent": "Explica una relación entre música y contexto con dos evidencias atribuidas, evitando generalizar una práctica a todo Chile o a todas las cuecas.",
+    },
+    ("MU05 OA 08", 3): {
+        "apps": ("violin", "guitar"),
+        "guided": "Usa una práctica breve de violín o guitarra para comparar un primer intento y un segundo intento después de cambiar una sola variable observable.",
+        "independent": "Explica qué ajuste mejoró el desempeño con evidencia audible; insignias, huellas o avance de la app sólo registran participación y no acreditan el OA.",
+    },
+}
+
 TOPICS = {
     "AR": [
         "Creación visual desde Chile, sus paisajes y diseños",
@@ -241,6 +309,17 @@ def _fix_links(lesson: dict, prefix: str) -> dict:
     return lesson
 
 
+def _attach_learning_support(code: str, index: int, lesson: dict) -> dict:
+    integration = APP_LESSON_INTEGRATIONS.get((code, index))
+    if not integration:
+        return lesson
+    lesson["learning_support_apps"] = [dict(LEARNING_SUPPORT_APPS[app_id]) for app_id in integration["apps"]]
+    lesson["guided"] += f" {integration['guided']}"
+    lesson["independent"] += f" {integration['independent']}"
+    lesson["materials"] += " Dispositivo compartido opcional; prepara antes la alternativa sin aplicación indicada en la ficha."
+    return lesson
+
+
 def build_sequence(code: str) -> dict | None:
     prefix = code[:2]
     if prefix not in SUBJECTS or code[2:4] != "05" or " OA " not in code or code.startswith("de "):
@@ -260,6 +339,7 @@ def build_sequence(code: str) -> dict | None:
             maker_code = code if prefix != "IN" else code.replace("IN05", "EN05", 1)
             lesson = apei_lesson(maker_code, index, profile)
         lesson = _fix_links(lesson, prefix)
+        lesson = _attach_learning_support(code, index, lesson)
         focus_lower = focus.lower()
         lesson["guided"] += f" La retroalimentación vuelve al criterio propio de «{focus_lower}» antes del segundo intento."
         lesson["independent"] += f" La evidencia se juzga por el logro de «{focus_lower}», no por imitar el ejemplo."

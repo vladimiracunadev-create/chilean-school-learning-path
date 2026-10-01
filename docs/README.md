@@ -48,6 +48,7 @@ Aquí puedes responder:
 | Recorrer 3° básico | [Índice maestro](3-basico/README.md) | 257 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
 | Recorrer 4° básico | [Índice maestro](4-basico/README.md) | 268 OA, 11 asignaturas completas, continuidad y acceso a cada guía |
 | Recorrer 5° básico completo | [Índice del nivel](5-basico/README.md) | Doce denominaciones curriculares con continuidad desde 4° |
+| Integrar apps para alrededor de los 10 años | [Apps de apoyo del aprendizaje](APPS_APOYO_APRENDIZAJE.md) | Correspondencia con siete clases de 5°, resguardos y alternativas sin dispositivo |
 | Enseñar 6° básico | [Índice completo](6-basico/README.md) | 301 OA, 952 clases y 422 experiencias integradas |
 | Enseñar en 7° básico | [Índice completo del nivel](7-basico/README.md) | 760 clases disciplinares, 515 experiencias integradas y límites del desarrollo |
 | Enseñar en 8° básico | [Índice completo del nivel](8-basico/README.md) | 771 clases, 430 experiencias integradas y doce denominaciones curriculares |

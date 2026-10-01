@@ -109,3 +109,9 @@ Cada clase propone tres dificultades observables con acción inmediata y comprob
 - [Protocolo de revisión humana](../REVISION_HUMANA.md)
 
 El contenido cumple el contrato automatizado, pero no se declara revisado por especialistas hasta registrar evidencia competente.
+
+## 📱 App de apoyo del aprendizaje
+
+Dos clases de `EF05 OA 05` incorporan opcionalmente Pañuelo al Viento para observar, ensayar y ajustar pulso, trayectoria y coordinación. La ejecución segura y la explicación motriz constituyen la evidencia; la app no reemplaza demostración, consentimiento, contextualización cultural ni alternativa sin dispositivo.
+
+[Consultar análisis, correspondencia curricular y resguardos](../APPS_APOYO_APRENDIZAJE.md)

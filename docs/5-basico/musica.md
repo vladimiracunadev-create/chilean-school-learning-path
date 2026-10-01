@@ -105,3 +105,9 @@ Cada clase propone tres dificultades observables con acción inmediata y comprob
 - [Protocolo de revisión humana](../REVISION_HUMANA.md)
 
 El contenido cumple el contrato automatizado, pero no se declara revisado por especialistas hasta registrar evidencia competente.
+
+## 📱 Apps de apoyo del aprendizaje
+
+Algunas clases de `MU05 OA 01`, `MU05 OA 03`, `MU05 OA 04`, `MU05 OA 07` y `MU05 OA 08` incorporan de manera opcional Pañuelo al Viento, Mi Aventura con el Violín o Mi Aventura con la Guitarra. Cada ficha indica propósito, mediación adulta o docente, límite de la evidencia y alternativa equivalente sin aplicación.
+
+[Consultar análisis, correspondencia curricular y resguardos](../APPS_APOYO_APRENDIZAJE.md)
