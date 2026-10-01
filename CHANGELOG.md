@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30 — Matemática y Lengua y Literatura de 1° medio
+
+- Desarrollo completo de los 15 OA disciplinares de Matemática en 66 clases y 21 OA transversales mediante 89 experiencias integradas.
+- Desarrollo completo de los 24 OA disciplinares de Lengua y Literatura en 143 clases y 8 OA de actitudes mediante 33 experiencias integradas.
+- Publicación del índice parcial de 1° medio, mapa técnico, vista web y dos guías de asignatura con continuidad desde 8° básico.
+- Estado global actualizado a 6.592 clases desarrolladas y 3.366 experiencias integradas; las otras asignaturas de 1° medio conservan 878 propuestas secuenciadas y el nivel no se declara completo.
+
 ## 2026-09-30 — Navegación completa y coherencia del README principal
 
 - Incorporación de badges, secciones disciplinares y enlaces directos para 7° y 8° básico; el README principal ahora informa y enlaza las 92 guías resueltas de 1° a 8°.

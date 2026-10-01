@@ -1,10 +1,10 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1° a 8° básico
+## Marco de reconstrucción de 1° básico a 1° medio
 
-> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [🏫 1° medio en desarrollo](1-medio/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · núcleo de 1° medio: 209 + 122**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -28,6 +28,8 @@ En 7° básico están desarrolladas las doce denominaciones: 153 objetivos de co
 
 En 8° básico están desarrolladas las doce denominaciones curriculares: 152 objetivos de contenido se despliegan en 771 clases y 101 objetivos transversales en 430 experiencias integradas. No quedan propuestas secuenciadas ni borradores en el nivel.
 
+En 1° medio están desarrolladas Matemática y Lengua y Literatura: 39 OA de contenido se despliegan en 209 clases y 29 OA transversales mediante 122 experiencias integradas. Las otras asignaturas conservan 878 propuestas secuenciadas; por eso el nivel se presenta como desarrollo parcial y no como nivel completo.
+
 El programa busca que la planificación sea:
 
 - **trazable**, porque conserva OA, eje, fuente y fecha;
@@ -38,7 +40,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes de 1° a 8° básico que necesitan preparar, adaptar o contrastar una secuencia.
+- Docentes de 1° a 8° básico y de Matemática o Lengua y Literatura de 1° medio que necesitan preparar, adaptar o contrastar una secuencia desarrollada.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.

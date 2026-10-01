@@ -2,7 +2,7 @@
 
 Esta guía ayuda a transformar una ficha del portal en una experiencia enseñable. La secuencia es un punto de partida: el docente conserva el OA y ajusta ritmo, acceso, contexto y profundidad según la evidencia del curso.
 
-[Abrir 1° básico](docs/1-basico/README.md) · [Abrir 2° básico](docs/2-basico/README.md) · [Índice curricular](CURRICULUM.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
+[Abrir 1° básico](docs/1-basico/README.md) · [Abrir 2° básico](docs/2-basico/README.md) · [Abrir núcleo de 1° medio](docs/1-medio/README.md) · [Índice curricular](CURRICULUM.md) · [Syllabus](docs/SYLLABUS.md) · [Rúbrica](docs/RUBRICA_EVALUACION.md) · [Dificultades y acciones](docs/DIFICULTADES_EN_EL_AULA.md) · [Roles profesionales](docs/ROLES_DOCENTES.md)
 
 ## Antes de la clase
 
@@ -79,7 +79,7 @@ La profundización debe seguir vinculada al OA y no convertir siempre al estudia
 
 La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla estos niveles y propone un registro mínimo.
 
-## Consideraciones para el contenido desarrollado de 1° a 8° básico
+## Consideraciones para el contenido desarrollado de 1° básico a 1° medio
 
 - Alterna oralidad, manipulación, movimiento, dibujo y símbolo.
 - Mantén consignas breves, visibles y demostradas.

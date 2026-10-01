@@ -625,16 +625,60 @@ def _generic(topic: str, focus: str, seed: int) -> dict:
     }
 
 
+def _math_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return concrete artefacts for first-year secondary mathematics."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("potencia", "producto notable", "sistema", "lineal")):
+        resource = "Tarjetas algebraicas, baldosas o tablas de valores; dos representaciones equivalentes; un procedimiento plausible con un error localizado y datos ficticios verificables."
+    elif any(word in lowered for word in ("sector", "cono", "homotec", "tales", "semejanza", "escala", "vector")):
+        resource = "Construcción geométrica con medidas explícitas, papel cuadriculado, regla y compás; figura de contraste que no cumple una condición y registro de comprobación."
+    elif any(word in lowered for word in ("distribuci", "poblaci", "nube", "gráfico")):
+        resource = "Dos conjuntos de datos ficticios, tabla de doble entrada, nube de puntos en dos colores y tres afirmaciones para evaluar asociación, separación y límites."
+    elif any(word in lowered for word in ("probabilidad", "azar", "galton", "aleatorio")):
+        resource = "Árbol, tabla o simulación manual con espacio muestral explícito, registro acumulado por bloques y eventos que permiten contrastar reglas y variación."
+    else:
+        resource = "Recta numérica, representaciones racionales equivalentes, estimaciones previas y expresiones con signos y paréntesis para comparar procedimientos."
+    return {
+        "resource": resource,
+        "prompt": f"Para «{focus.lower()}», declara datos y condiciones, elige una representación, desarrolla una estrategia, interpreta el resultado y compruébalo por otra vía.",
+        "reference": "La respuesta lograda conserva equivalencias y unidades, hace visible la decisión central, respeta las condiciones del modelo y ofrece una comprobación independiente o un límite.",
+    }
+
+
+def _language_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return an original, source-aware corpus for first-year secondary language."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("traged", "romantic", "dramát", "poema", "narraci", "literar")):
+        resource = "Corpus breve de dominio público, autorizado u original con procedencia, dos pasajes numerados, ficha contextual y decisiones formales que admiten interpretaciones contrastables."
+    elif any(word in lowered for word in ("argument", "medios", "persu", "tesis")):
+        resource = "Columna, carta, discurso o pieza medial original con tesis, datos ficticios, recursos verbales y visuales y una fuente incompleta para evaluar pertinencia y suficiencia."
+    elif any(word in lowered for word in ("escrit", "estilo", "correfer", "ortograf", "edición")):
+        resource = "Borrador original, ficha de género, audiencia y propósito, miniarchivo de fuentes y marcas de revisión que separan contenido, organización, cohesión y edición."
+    elif any(word in lowered for word in ("oral", "discurso", "diálogo", "exposición", "paraling")):
+        resource = "Audio o guion original, transcripción numerada, ficha de audiencia y dos versiones que cambian organización, voz, gesto, ritmo o apoyo visual."
+    else:
+        resource = "Miniarchivo con catálogo, artículo, entrevista ficticia y sitio sin autor, acompañado de pregunta, criterios de confiabilidad y organizador de hallazgos."
+    return {
+        "resource": resource,
+        "prompt": f"Para «{focus.lower()}», identifica propósito y contexto, usa dos evidencias precisas, explica el efecto de una decisión y revisa la respuesta para una audiencia definida.",
+        "reference": "La respuesta lograda distingue evidencia e interpretación, atribuye fuentes, relaciona forma y propósito y revisa una decisión sin imponer una lectura única ni inventar contexto.",
+    }
+
+
 def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) -> dict:
     if subject_slug == "matematica":
         if grade == 7:
             return _math_grade_seven(topic, focus, seed)
         if grade == 8:
             return _math_grade_eight(topic, focus, seed)
+        if grade == 9:
+            return _math_grade_one_middle(topic, focus, seed)
         return _math(topic, focus, seed, grade)
     if subject_slug == "lengua-literatura":
         if grade == 8:
             return _language_grade_eight(topic, focus, seed)
+        if grade == 9:
+            return _language_grade_one_middle(topic, focus, seed)
         return _language_grade_seven(topic, focus, seed)
     if subject_slug == "lenguaje-comunicacion":
         return _language(topic, focus, seed)

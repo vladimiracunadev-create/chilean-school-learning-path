@@ -29,6 +29,7 @@ from scripts.grade_seven_remaining_lessons import SEQUENCES as GRADE_SEVEN_REMAI
 from scripts.grade_eight_core_lessons import SEQUENCES as GRADE_EIGHT_CORE_SEQUENCES, build_sequence as build_grade_eight_core_sequence
 from scripts.grade_eight_next_four_lessons import SEQUENCES as GRADE_EIGHT_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_eight_next_four_sequence
 from scripts.grade_eight_remaining_lessons import SEQUENCES as GRADE_EIGHT_REMAINING_SEQUENCES, build_sequence as build_grade_eight_remaining_sequence
+from scripts.grade_one_middle_core_lessons import SEQUENCES as GRADE_ONE_MIDDLE_CORE_SEQUENCES, build_sequence as build_grade_one_middle_core_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -50,22 +51,22 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 6383)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 3244)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 6592)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 3366)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
     def test_current_surfaces_agree_that_first_through_eighth_are_complete(self):
         plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
-        self.assertEqual(plan["active_level"], "1° medio — próxima etapa")
-        self.assertEqual(plan["active_subject"], "Matemática")
+        self.assertEqual(plan["active_level"], "1° medio — en desarrollo")
+        self.assertEqual(plan["active_subject"], "Matemática y Lengua y Literatura")
         self.assertEqual(
             plan["professional_controls"]["documentary_and_sources"]["status"],
-            "control_interno_completo_niveles_1_a_8",
+            "control_interno_completo_niveles_1_a_8_y_nucleo_1_medio",
         )
         current_surfaces = {
-            "README.md": ("1° a 8° básico", "8° básico completo", "6.383"),
-            "docs/PLAN_DESARROLLO.md": ("1° medio — próxima etapa", "Definición y orden editorial de 1° a 8° básico", "MA08 OA 17", "LE08 OA 26", "LI08 OF I", "Gates del desarrollo interno de 1° a 8° básico", "- [x] Todos los OA disciplinares"),
-            "site/index.html": ("Ocho niveles completos", "8° básico", "6.383 clases desarrolladas", "3.244 experiencias integradas"),
+            "README.md": ("1° a 8° básico", "8° básico completo", "1° medio en desarrollo", "6.592"),
+            "docs/PLAN_DESARROLLO.md": ("1° medio — en desarrollo", "Definición y orden editorial de 1° básico a 1° medio", "MA1M OA 15", "LE1M OA 24", "Gates del desarrollo interno de 1° básico a 1° medio", "- [x] Todos los OA disciplinares"),
+            "site/index.html": ("Ocho niveles completos", "1° medio", "6.592 clases", "3.366 experiencias integradas"),
         }
         stale_tokens = (
             "Siete asignaturas de 7°",
@@ -93,11 +94,17 @@ class SchoolProgramTests(unittest.TestCase):
             for subject_slug in subject_slugs:
                 guide_path = f"docs/{course_order}-basico/{subject_slug}.md"
                 self.assertIn(guide_path, readme, f"README no enlaza {guide_path}")
+        self.assertIn("docs/1-medio/README.md", readme)
+        self.assertIn("docs/1-medio/matematica.md", readme)
+        self.assertIn("docs/1-medio/lengua-literatura.md", readme)
         stale_claims = (
             "Desde 1° hasta 4° medio",
             "Seis asignaturas desarrolladas de 8° básico",
             "Una mejora de 1°, 2°, 3°, 4° o 5° básico",
             "Docente de 1°, 2° o 3° básico",
+            "6.383 clases desarrolladas",
+            "3.244 experiencias integradas",
+            "3.370 propuestas",
         )
         for stale_claim in stale_claims:
             self.assertNotIn(stale_claim, readme)
@@ -117,7 +124,50 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 6383)
+        self.assertEqual(len(developed), 6592)
+
+    def test_first_middle_mathematics_and_language_are_complete_and_specific(self):
+        first_middle = [item for item in self.catalog["classes"] if item["course_order"] == 9]
+        expected = {
+            "matematica": (66, 15, 89, 21),
+            "lengua-literatura": (143, 24, 33, 8),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in first_middle if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            integrated = [item for item in rows if item["editorial_status"] == "integrada"]
+            self.assertEqual(
+                (len(developed), len({item["oa_code"] for item in developed}), len(integrated), len({item["oa_code"] for item in integrated})),
+                counts,
+            )
+            self.assertFalse([item for item in rows if item["editorial_status"] in {"secuenciada", "borrador"}])
+        sequences = [build_grade_one_middle_core_sequence(code) for code in sorted(GRADE_ONE_MIDDLE_CORE_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(sequences), len(lessons)), (39, 209))
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertEqual(
+            (len(first_middle), sum(item["editorial_status"] == "desarrollada" for item in first_middle), sum(item["editorial_status"] == "integrada" for item in first_middle), sum(item["editorial_status"] == "secuenciada" for item in first_middle)),
+            (1209, 209, 122, 878),
+        )
+        samples = {
+            "curriculum/1-medio/matematica/ma1m-oa-04.md": ("Sistemas de ecuaciones lineales 2×2", "eliminación"),
+            "curriculum/1-medio/matematica/ma1m-oa-07.md": ("Área y volumen del cono", "altura inclinada"),
+            "curriculum/1-medio/lengua-literatura/le1m-oa-06.md": ("Tragedia, conflicto humano y contexto", "desenlace triste"),
+            "curriculum/1-medio/lengua-literatura/le1m-oa-09.md": ("Evaluación de textos argumentativos", "pertinencia"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8")
+            for token in tokens:
+                self.assertIn(token, text)
+        for relative in (
+            "docs/1-medio/README.md",
+            "docs/1-medio/matematica.md",
+            "docs/1-medio/lengua-literatura.md",
+            "docs/PRIMERO_MEDIO.md",
+            "site/levels/1-medio.html",
+        ):
+            self.assertTrue((ROOT / relative).is_file(), relative)
 
     def test_eighth_grade_mathematics_and_language_are_complete_and_specific(self):
         eighth = [item for item in self.catalog["classes"] if item["course_order"] == 8]
