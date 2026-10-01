@@ -870,6 +870,47 @@ def validate(root: Path = ROOT) -> list[str]:
         if any(token in document for token in ("{len(transverse)}", "{integrated_count}", "{class_count}")):
             errors.append(f"{document_path.relative_to(root)} conserva un marcador de plantilla sin resolver")
     main_readme = (root / "README.md").read_text(encoding="utf-8")
+    try:
+        positive_section = main_readme.split("### ✅ Sí es", 1)[1].split("### ❌ No es", 1)[0]
+        negative_section = main_readme.split("### ❌ No es", 1)[1].split("## 💡 Idea fuerza", 1)[0]
+    except IndexError:
+        errors.append("README.md no conserva la separación explícita entre alcance y límites")
+    else:
+        for token in ("8.841 clases disciplinares", "4.156 experiencias de integración transversal"):
+            if token not in positive_section:
+                errors.append(f"README.md omite un hecho actual en la sección Sí es: {token}")
+        for token in ("8.841 clases disciplinares", "4.156 experiencias"):
+            if token in negative_section:
+                errors.append(f"README.md contradice el estado actual dentro de No es: {token}")
+    if "sirve hoy para cuatro cosas" in main_readme:
+        errors.append("README.md anuncia cuatro recorridos, pero enumera más de cuatro")
+    for token in ("Docente de 3° medio", "Docente de 4° medio", "Syllabus general de 1° básico a 4° medio"):
+        if token not in main_readme:
+            errors.append(f"README.md omite el alcance vigente: {token}")
+
+    syllabus = (root / "docs/SYLLABUS.md").read_text(encoding="utf-8")
+    for token in ("2.823 OA", "12.997 registros pedagógicos", "8.841 clases disciplinares", "4.156 experiencias"):
+        if token not in syllabus:
+            errors.append(f"docs/SYLLABUS.md omite el hecho vigente: {token}")
+    level_folders = (
+        "1-basico", "2-basico", "3-basico", "4-basico", "5-basico", "6-basico",
+        "7-basico", "8-basico", "1-medio", "2-medio", "3-medio", "4-medio",
+    )
+    for course_order, folder in enumerate(level_folders, start=1):
+        if f"{folder}/README.md" not in syllabus:
+            errors.append(f"docs/SYLLABUS.md no enlaza el índice del nivel: {folder}")
+        subject_slugs = {item["subject_slug"] for item in classes if item.get("course_order") == course_order}
+        for subject_slug in subject_slugs:
+            if f"{folder}/{subject_slug}.md" not in syllabus:
+                errors.append(f"docs/SYLLABUS.md omite la guía vigente: {folder}/{subject_slug}.md")
+    for relative_path in (
+        "README.md", "docs/README.md", "docs/SYLLABUS.md", "docs/COBERTURA.md",
+        "EDITORIAL_STATUS.md", "VALIDATION_REPORT.md",
+    ):
+        surface = (root / relative_path).read_text(encoding="utf-8")
+        for token in ("2.823", "12.997", "8.841", "4.156"):
+            if token not in surface:
+                errors.append(f"{relative_path} omite la cifra canónica vigente: {token}")
     for course_order in range(1, 9):
         level_link = f"docs/{course_order}-basico/README.md"
         if level_link not in main_readme:

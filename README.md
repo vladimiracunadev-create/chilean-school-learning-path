@@ -46,7 +46,7 @@
 
 ## 👋 Empieza aquí
 
-Este repositorio sirve hoy para cuatro cosas distintas, expresadas sin mezclar sus estados:
+Este repositorio ofrece hoy los siguientes recorridos, expresados sin mezclar clases, integraciones ni revisión humana:
 
 - **Usar el desarrollo completo de 1° básico:** ofrece 691 clases específicas organizadas en 153 secuencias disciplinares, todavía pendientes de revisión humana.
 - **Usar 2° básico completo:** ofrece 721 clases específicas en 161 secuencias disciplinares y 351 experiencias que integran 86 OA transversales.
@@ -125,7 +125,7 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 ## 📍 Estado actual
 
-### Desarrollado hasta ahora
+### Estado actual por nivel
 
 **1° básico:** 691 clases desarrolladas en las 11 asignaturas y 343 experiencias transversales integradas, sin duplicar el conteo. Las 1.034 entradas del nivel están resueltas como contenido disciplinar o integración; quedan **0 borradores**. Todo está disponible en Markdown y HTML y mantiene **revisión humana pendiente**.
 
@@ -428,6 +428,8 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 - **Docente de Educación Básica:** empieza en el programa de [1°](docs/1-basico/README.md), [2°](docs/2-basico/README.md), [3°](docs/3-basico/README.md), [4°](docs/4-basico/README.md), [5°](docs/5-basico/README.md), [6°](docs/6-basico/README.md), [7°](docs/7-basico/README.md) u [8°](docs/8-basico/README.md) y continúa con la guía de su asignatura.
 - **Docente de 1° medio:** abre el [índice completo del nivel](docs/1-medio/README.md) y recorre cualquiera de sus once denominaciones desarrolladas.
 - **Docente de 2° medio:** abre el [índice completo del nivel](docs/2-medio/README.md) y recorre cualquiera de sus once denominaciones desarrolladas.
+- **Docente de 3° medio:** abre el [índice completo del nivel](docs/3-medio/README.md) y recorre sus dieciocho guías con explicación pedagógica OA por OA.
+- **Docente de 4° medio:** abre el [índice completo del nivel](docs/4-medio/README.md) y recorre sus diecisiete guías con explicación pedagógica OA por OA.
 - **Docente especialista:** revisa la progresión disciplinar y luego abre el OA en el [índice curricular](CURRICULUM.md).
 - **Educación diferencial o equipo de apoyo:** acuerda responsabilidades en [Roles profesionales](docs/ROLES_DOCENTES.md) y selecciona acciones en [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md).
 - **Coordinación pedagógica o UTP:** contrasta [Cobertura](docs/COBERTURA.md), [Estado editorial](EDITORIAL_STATUS.md) y [Estándar de calidad](QUALITY_STANDARD.md).
@@ -438,7 +440,7 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 
 ### Cómo usarlo en seis pasos
 
-1. Elige una asignatura y un OA desde el índice completo de [1°](docs/1-basico/README.md), [2°](docs/2-basico/README.md), [3°](docs/3-basico/README.md), [4°](docs/4-basico/README.md), [5°](docs/5-basico/README.md), [6°](docs/6-basico/README.md), [7°](docs/7-basico/README.md), [8° básico](docs/8-basico/README.md), [1° medio](docs/1-medio/README.md) o [2° medio](docs/2-medio/README.md).
+1. Elige una asignatura y un OA desde el índice completo de [1°](docs/1-basico/README.md), [2°](docs/2-basico/README.md), [3°](docs/3-basico/README.md), [4°](docs/4-basico/README.md), [5°](docs/5-basico/README.md), [6°](docs/6-basico/README.md), [7°](docs/7-basico/README.md), [8° básico](docs/8-basico/README.md), [1° medio](docs/1-medio/README.md), [2° medio](docs/2-medio/README.md), [3° medio](docs/3-medio/README.md) o [4° medio](docs/4-medio/README.md).
 2. Lee la secuencia completa del OA antes de preparar una clase.
 3. Define la evidencia y los criterios que observarás.
 4. Ajusta contexto, materiales, acceso y duración al curso real.
@@ -483,7 +485,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 ### Comprender el programa
 
 - [Centro documental](docs/README.md)
-- [Syllabus de 1° básico a 2° medio](docs/SYLLABUS.md)
+- [Syllabus general de 1° básico a 4° medio](docs/SYLLABUS.md)
 - [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
 - [Glosario educativo](docs/GLOSARIO.md)
 - [Preguntas frecuentes](docs/FAQ.md)
@@ -500,6 +502,8 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 - [Programa completo de 8° básico](docs/8-basico/README.md)
 - [Programa completo de 1° medio](docs/1-medio/README.md)
 - [2° medio completo](docs/2-medio/README.md)
+- [3° medio completo](docs/3-medio/README.md)
+- [4° medio completo](docs/4-medio/README.md)
 - [Guía pedagógica](TEACHING_GUIDE.md)
 - [Roles profesionales](docs/ROLES_DOCENTES.md)
 - [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md)
@@ -564,7 +568,8 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un desarrollo transparente desde 1° básico hasta 4° medio, con 8.841 clases desarrolladas y 4.156 experiencias integradas en el catálogo;
+- un desarrollo pedagógico interno transparente desde 1° básico hasta 4° medio, con 8.841 clases disciplinares;
+- 4.156 experiencias de integración transversal incorporadas en las secuencias; no son clases adicionales;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -572,9 +577,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ❌ No es
 
-- doce programas escolares terminados;
-- 8.841 clases disciplinares con desarrollo pedagógico interno completo;
-- 4.156 experiencias de integración transversal incorporadas dentro de esas clases, no clases adicionales;
+- una certificación de que los doce niveles estén revisados por especialistas o pilotados en aula;
 - una plataforma oficial del Ministerio de Educación;
 - un horario que obligue a enseñar toda la oferta simultáneamente;
 - una afirmación de revisión experta: hoy existen 0 revisiones humanas registradas;
@@ -596,7 +599,7 @@ El software original usa [MIT](LICENSE). Las clases, tareas, actividades y guía
 
 **Hecho para convertir el currículo en aprendizaje claro, humano y aplicable.**
 
-[🌐 Portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [1°](docs/1-basico/README.md) · [2°](docs/2-basico/README.md) · [3°](docs/3-basico/README.md) · [4°](docs/4-basico/README.md) · [5°](docs/5-basico/README.md) · [6°](docs/6-basico/README.md) · [7°](docs/7-basico/README.md) · [8°](docs/8-basico/README.md) · [1° medio](docs/1-medio/README.md) · [2° medio](docs/2-medio/README.md) · [📚 Documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
+[🌐 Portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [1°](docs/1-basico/README.md) · [2°](docs/2-basico/README.md) · [3°](docs/3-basico/README.md) · [4°](docs/4-basico/README.md) · [5°](docs/5-basico/README.md) · [6°](docs/6-basico/README.md) · [7°](docs/7-basico/README.md) · [8°](docs/8-basico/README.md) · [1° medio](docs/1-medio/README.md) · [2° medio](docs/2-medio/README.md) · [3° medio](docs/3-medio/README.md) · [4° medio](docs/4-medio/README.md) · [📚 Documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
 
 **¿Te resulta útil? ⭐ Dale una estrella al repositorio.**
 

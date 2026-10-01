@@ -6,7 +6,7 @@
 
 **1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456 · 3° medio: 495 desarrolladas · 4° medio: 466 desarrolladas**
 
-> Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
+> El catálogo reúne **2.823 OA y 12.997 registros pedagógicos**: 8.841 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
 
 ---
 
@@ -17,10 +17,6 @@ Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currí
 2° básico está desarrollado en sus 247 OA, 1.072 propuestas y once asignaturas: 161 OA de contenido se despliegan en 721 clases y 86 OA transversales en 351 experiencias integradas. No quedan propuestas sólo secuenciadas dentro del nivel.
 
 3° básico está desarrollado en sus 257 OA, 1.136 propuestas y once asignaturas: 165 OA de contenido se despliegan en 757 clases y 92 OA transversales en 379 experiencias integradas. La progresión exige más autonomía y justificación, pero mantiene andamiajes según evidencia.
-
-3° medio está completo internamente: sus dieciocho denominaciones reúnen 98 OA y 495 clases con fuentes oficiales, progresión pedagógica interna explícita y continuidad desde 2° medio.
-
-4° medio está completo internamente: sus diecisiete denominaciones reúnen 91 OA y 466 clases con fuentes oficiales, autonomía de egreso y continuidad desde 3° medio.
 
 4° básico está desarrollado en sus 268 OA, 1.195 propuestas y once asignaturas: 175 OA de contenido se despliegan en 811 clases y 93 OA transversales en 384 experiencias integradas. Las clases aumentan precisión y autonomía sin abandonar diagnóstico, modelado, acceso ni resguardos disciplinares.
 
@@ -35,6 +31,10 @@ En 8° básico están desarrolladas las doce denominaciones curriculares: 152 ob
 En 1° medio están desarrolladas las once denominaciones: 147 OA de contenido se despliegan en 753 clases y 106 OA transversales mediante 456 experiencias integradas. No quedan propuestas secuenciadas ni borradores; el nivel tiene desarrollo interno completo.
 
 En 2° medio están desarrolladas sus once denominaciones: 142 OA de contenido se despliegan en 744 clases y 106 OA transversales mediante 456 experiencias integradas. El nivel conserva 0 propuestas secuenciadas.
+
+3° medio está completo internamente: sus dieciocho denominaciones reúnen 98 OA y 495 clases con fuentes oficiales, progresión pedagógica interna explícita y continuidad desde 2° medio.
+
+4° medio está completo internamente: sus diecisiete denominaciones reúnen 91 OA y 466 clases con fuentes oficiales, autonomía de egreso y continuidad desde 3° medio.
 
 El programa busca que la planificación sea:
 
@@ -167,6 +167,117 @@ Al utilizar el programa, el equipo docente podrá:
 | Tecnología | 12 | 57 | [Leer](6-basico/tecnologia.md) |
 
 Las doce denominaciones curriculares tienen desarrollo interno completo; habilidades y actitudes se integran dentro del contenido y no se cuentan como clases adicionales.
+
+### 7° básico · nivel completo
+
+| Asignatura | OA | Desarrolladas | Integradas | Guía |
+|---|---:|---:|---:|---|
+| Artes Visuales | 14 | 29 | 33 | [Leer](7-basico/artes-visuales.md) |
+| Ciencias Naturales | 36 | 72 | 89 | [Leer](7-basico/ciencias-naturales.md) |
+| Educación Física y Salud | 12 | 25 | 28 | [Leer](7-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | 43 | 113 | 91 | [Leer](7-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés | 21 | 80 | 21 | [Leer](7-basico/ingles.md) |
+| Inglés (Propuesta) | 34 | 65 | 85 | [Leer](7-basico/ingles-propuesta.md) |
+| Lengua Indígena | 8 | 41 | 0 | [Leer](7-basico/lengua-indigena.md) |
+| Lengua y Literatura | 33 | 147 | 33 | [Leer](7-basico/lengua-literatura.md) |
+| Matemática | 38 | 83 | 82 | [Leer](7-basico/matematica.md) |
+| Música | 16 | 30 | 37 | [Leer](7-basico/musica.md) |
+| Orientación | 10 | 49 | 0 | [Leer](7-basico/orientacion.md) |
+| Tecnología | 10 | 26 | 16 | [Leer](7-basico/tecnologia.md) |
+
+### 8° básico · nivel completo
+
+| Asignatura | OA | Desarrolladas | Integradas | Guía |
+|---|---:|---:|---:|---|
+| Artes Visuales | 14 | 29 | 33 | [Leer](8-basico/artes-visuales.md) |
+| Ciencias Naturales | 36 | 74 | 89 | [Leer](8-basico/ciencias-naturales.md) |
+| Educación Física y Salud | 12 | 26 | 28 | [Leer](8-basico/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | 42 | 117 | 91 | [Leer](8-basico/historia-geografia-ciencias-sociales.md) |
+| Inglés | 21 | 80 | 21 | [Leer](8-basico/ingles.md) |
+| Inglés (Propuesta) | 13 | 65 | 0 | [Leer](8-basico/ingles-propuesta.md) |
+| Lengua Indígena | 9 | 43 | 0 | [Leer](8-basico/lengua-indigena.md) |
+| Lengua y Literatura | 34 | 155 | 33 | [Leer](8-basico/lengua-literatura.md) |
+| Matemática | 36 | 77 | 82 | [Leer](8-basico/matematica.md) |
+| Música | 16 | 30 | 37 | [Leer](8-basico/musica.md) |
+| Orientación | 10 | 49 | 0 | [Leer](8-basico/orientacion.md) |
+| Tecnología | 10 | 26 | 16 | [Leer](8-basico/tecnologia.md) |
+
+### 1° medio · nivel completo
+
+| Asignatura | OA | Desarrolladas | Integradas | Guía |
+|---|---:|---:|---:|---|
+| Artes Visuales | 14 | 29 | 33 | [Leer](1-medio/artes-visuales.md) |
+| Ciencias Naturales | 41 | 100 | 93 | [Leer](1-medio/ciencias-naturales.md) |
+| Educación Física y Salud | 12 | 28 | 28 | [Leer](1-medio/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | 48 | 132 | 103 | [Leer](1-medio/historia-geografia-ciencias-sociales.md) |
+| Inglés | 21 | 80 | 21 | [Leer](1-medio/ingles.md) |
+| Inglés (Propuesta) | 13 | 65 | 0 | [Leer](1-medio/ingles-propuesta.md) |
+| Lengua y Literatura | 32 | 143 | 33 | [Leer](1-medio/lengua-literatura.md) |
+| Matemática | 36 | 66 | 89 | [Leer](1-medio/matematica.md) |
+| Música | 16 | 32 | 37 | [Leer](1-medio/musica.md) |
+| Orientación | 10 | 52 | 0 | [Leer](1-medio/orientacion.md) |
+| Tecnología | 10 | 26 | 19 | [Leer](1-medio/tecnologia.md) |
+
+### 2° medio · nivel completo
+
+| Asignatura | OA | Desarrolladas | Integradas | Guía |
+|---|---:|---:|---:|---|
+| Artes Visuales | 14 | 30 | 33 | [Leer](2-medio/artes-visuales.md) |
+| Ciencias Naturales | 39 | 85 | 93 | [Leer](2-medio/ciencias-naturales.md) |
+| Educación Física y Salud | 12 | 28 | 28 | [Leer](2-medio/educacion-fisica-salud.md) |
+| Historia, Geografía y Ciencias Sociales | 48 | 142 | 103 | [Leer](2-medio/historia-geografia-ciencias-sociales.md) |
+| Inglés | 21 | 81 | 21 | [Leer](2-medio/ingles.md) |
+| Inglés (Propuesta) | 13 | 66 | 0 | [Leer](2-medio/ingles-propuesta.md) |
+| Lengua y Literatura | 32 | 146 | 33 | [Leer](2-medio/lengua-literatura.md) |
+| Matemática | 33 | 55 | 89 | [Leer](2-medio/matematica.md) |
+| Música | 16 | 31 | 37 | [Leer](2-medio/musica.md) |
+| Orientación | 10 | 52 | 0 | [Leer](2-medio/orientacion.md) |
+| Tecnología | 10 | 28 | 19 | [Leer](2-medio/tecnologia.md) |
+
+### 3° medio · Formación General completa
+
+| Denominación | OA | Desarrolladas | Guía |
+|---|---:|---:|---|
+| Ambiente y sostenibilidad | 3 | 16 | [Leer](3-medio/ambiente-sostenibilidad.md) |
+| Artes Visuales | 7 | 35 | [Leer](3-medio/artes-visuales.md) |
+| Bienestar y salud | 3 | 17 | [Leer](3-medio/bienestar-salud.md) |
+| Chile y la región latinoamericana | 7 | 36 | [Leer](3-medio/chile-region-latinoamericana.md) |
+| Danza | 6 | 28 | [Leer](3-medio/danza.md) |
+| Educación Ciudadana 3° medio | 8 | 37 | [Leer](3-medio/educacion-ciudadana-3-medio.md) |
+| Educación Física y Salud 1 | 5 | 24 | [Leer](3-medio/educacion-fisica-salud-1.md) |
+| Educación Física y Salud 2 | 5 | 25 | [Leer](3-medio/educacion-fisica-salud-2.md) |
+| Filosofía 3° medio | 6 | 25 | [Leer](3-medio/filosofia-3-medio.md) |
+| Filosofía 4° medio, oferta compartida | 5 | 24 | [Leer](3-medio/filosofia-4o-medio.md) |
+| Inglés 3° medio | 4 | 18 | [Leer](3-medio/ingles-3o-medio.md) |
+| Lengua y Literatura 3° medio | 9 | 59 | [Leer](3-medio/lengua-literatura-3o-medio.md) |
+| Matemática 3° medio | 4 | 17 | [Leer](3-medio/matematica-3o-medio.md) |
+| Mundo global | 7 | 36 | [Leer](3-medio/mundo-global.md) |
+| Música | 7 | 34 | [Leer](3-medio/musica.md) |
+| Seguridad, prevención y autocuidado | 3 | 18 | [Leer](3-medio/seguridad-prevencion-autocuidado.md) |
+| Teatro | 6 | 31 | [Leer](3-medio/teatro.md) |
+| Tecnología y sociedad | 3 | 15 | [Leer](3-medio/tecnologia-sociedad.md) |
+
+### 4° medio · Formación General completa
+
+| Denominación | OA | Desarrolladas | Guía |
+|---|---:|---:|---|
+| Ambiente y sostenibilidad | 3 | 16 | [Leer](4-medio/ambiente-sostenibilidad.md) |
+| Artes Visuales | 7 | 35 | [Leer](4-medio/artes-visuales.md) |
+| Bienestar y salud | 3 | 17 | [Leer](4-medio/bienestar-salud.md) |
+| Chile y la región latinoamericana | 7 | 36 | [Leer](4-medio/chile-region-latinoamericana.md) |
+| Danza | 6 | 28 | [Leer](4-medio/danza.md) |
+| Educación Ciudadana 4° medio | 8 | 39 | [Leer](4-medio/educacion-ciudadana-4-medio.md) |
+| Educación Física y Salud 1 | 5 | 24 | [Leer](4-medio/educacion-fisica-salud-1.md) |
+| Educación Física y Salud 2 | 5 | 25 | [Leer](4-medio/educacion-fisica-salud-2.md) |
+| Filosofía 4° medio | 5 | 24 | [Leer](4-medio/filosofia-4o-medio.md) |
+| Inglés 4° medio | 4 | 18 | [Leer](4-medio/ingles-4o-medio.md) |
+| Lengua y Literatura 4° medio | 8 | 53 | [Leer](4-medio/lengua-literatura-4o-medio.md) |
+| Matemática 4° medio | 4 | 17 | [Leer](4-medio/matematica-4o-medio.md) |
+| Mundo global | 7 | 36 | [Leer](4-medio/mundo-global.md) |
+| Música | 7 | 34 | [Leer](4-medio/musica.md) |
+| Seguridad, prevención y autocuidado | 3 | 18 | [Leer](4-medio/seguridad-prevencion-autocuidado.md) |
+| Teatro | 6 | 31 | [Leer](4-medio/teatro.md) |
+| Tecnología y sociedad | 3 | 15 | [Leer](4-medio/tecnologia-sociedad.md) |
 
 ## 5. Planificación de principio a fin
 

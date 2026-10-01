@@ -93,6 +93,45 @@ class SchoolProgramTests(unittest.TestCase):
             for token in stale_tokens:
                 self.assertNotIn(token, text, relative_path)
 
+    def test_readme_and_syllabus_do_not_contradict_the_current_state(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        positive_section = readme.split("### ✅ Sí es", 1)[1].split("### ❌ No es", 1)[0]
+        negative_section = readme.split("### ❌ No es", 1)[1].split("## 💡 Idea fuerza", 1)[0]
+        self.assertIn("8.841 clases disciplinares", positive_section)
+        self.assertIn("4.156 experiencias de integración transversal", positive_section)
+        self.assertNotIn("8.841 clases disciplinares", negative_section)
+        self.assertNotIn("4.156 experiencias", negative_section)
+        self.assertNotIn("sirve hoy para cuatro cosas", readme)
+        for token in (
+            "Docente de 3° medio",
+            "Docente de 4° medio",
+            "Syllabus general de 1° básico a 4° medio",
+            "[3° medio completo](docs/3-medio/README.md)",
+            "[4° medio completo](docs/4-medio/README.md)",
+        ):
+            self.assertIn(token, readme)
+
+        syllabus = (ROOT / "docs/SYLLABUS.md").read_text(encoding="utf-8")
+        for token in ("2.823 OA", "12.997 registros pedagógicos", "8.841 clases disciplinares", "4.156 experiencias"):
+            self.assertIn(token, syllabus)
+        level_folders = (
+            "1-basico", "2-basico", "3-basico", "4-basico", "5-basico", "6-basico",
+            "7-basico", "8-basico", "1-medio", "2-medio", "3-medio", "4-medio",
+        )
+        for course_order, folder in enumerate(level_folders, start=1):
+            self.assertIn(f"{folder}/README.md", syllabus, f"Syllabus no enlaza el nivel {course_order}")
+            subject_slugs = {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == course_order}
+            for subject_slug in subject_slugs:
+                self.assertIn(f"{folder}/{subject_slug}.md", syllabus, f"Syllabus omite {folder}/{subject_slug}.md")
+
+        for relative_path in (
+            "README.md", "docs/README.md", "docs/SYLLABUS.md", "docs/COBERTURA.md",
+            "EDITORIAL_STATUS.md", "VALIDATION_REPORT.md",
+        ):
+            surface = (ROOT / relative_path).read_text(encoding="utf-8")
+            for token in ("2.823", "12.997", "8.841", "4.156"):
+                self.assertIn(token, surface, f"{relative_path} omite la cifra canónica {token}")
+
     def test_main_readme_links_every_completed_level_and_subject(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("https://vladimiracunadev-create.github.io/chilean-school-learning-path/", readme)

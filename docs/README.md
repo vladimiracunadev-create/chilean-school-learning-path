@@ -4,6 +4,8 @@
 
 ## **1° básico a 4° medio completos internamente**
 
+**2.823 OA · 8.841 clases disciplinares · 4.156 experiencias integradas · 12.997 registros pedagógicos · 149 guías · 0 revisiones humanas registradas**
+
 **1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430**
 
 **1° medio completo: 11 denominaciones · 753 desarrolladas + 456 integradas · 0 propuestas pendientes**

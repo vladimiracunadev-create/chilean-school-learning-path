@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-01 · Coherencia integral del README y el syllabus
+
+- Se corrige la contradicción del README que ubicaba las 8.841 clases desarrolladas y las 4.156 experiencias integradas dentro de “No es”, pese a declararlas como estado actual en el resto de la documentación.
+- Las rutas docentes, el procedimiento de uso, la lista documental y el pie del README incluyen ahora 3° y 4° medio, sin terminar artificialmente en 2° medio.
+- El syllabus completa su estructura por nivel desde 7° básico hasta 4° medio con OA, clases, integraciones y enlaces a las 149 guías verificables.
+- Los validadores comprueban que el README no vuelva a contradecir sus cifras actuales y que las superficies principales mantengan alcance, terminología y enlaces coherentes.
+
 ## 2026-10-01 · Conteos inequívocos y explicación OA por OA en 3° y 4° medio
 
 - Se corrige la terminología vigente: 12.997 corresponde a registros pedagógicos, compuestos por 8.841 clases disciplinares y 4.156 experiencias de integración transversal; estas últimas no son clases independientes.
