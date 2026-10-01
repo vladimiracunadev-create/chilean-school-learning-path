@@ -1,10 +1,10 @@
 # 📘 Syllabus · Trayectoria Escolar Chile
 
-## Marco de reconstrucción de 1° básico a 2° medio
+## Marco de reconstrucción de 1° básico a 4° medio
 
-> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [🏫 1° medio completo](1-medio/README.md) · [📘 2° medio](2-medio/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
+> [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [🏫 1° medio completo](1-medio/README.md) · [📘 2° medio](2-medio/README.md) · [🎓 3° medio](3-medio/README.md) · [🚩 4° medio](4-medio/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456 · 3° medio: 495 desarrolladas · 4° medio: 466 desarrolladas**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -17,6 +17,10 @@ Trayectoria Escolar Chile busca convertir los Objetivos de Aprendizaje de Currí
 2° básico está desarrollado en sus 247 OA, 1.072 propuestas y once asignaturas: 161 OA de contenido se despliegan en 721 clases y 86 OA transversales en 351 experiencias integradas. No quedan propuestas sólo secuenciadas dentro del nivel.
 
 3° básico está desarrollado en sus 257 OA, 1.136 propuestas y once asignaturas: 165 OA de contenido se despliegan en 757 clases y 92 OA transversales en 379 experiencias integradas. La progresión exige más autonomía y justificación, pero mantiene andamiajes según evidencia.
+
+3° medio está completo internamente: sus dieciocho denominaciones reúnen 98 OA y 495 clases con fuentes oficiales, progresión pedagógica interna explícita y continuidad desde 2° medio.
+
+4° medio está completo internamente: sus diecisiete denominaciones reúnen 91 OA y 466 clases con fuentes oficiales, autonomía de egreso y continuidad desde 3° medio.
 
 4° básico está desarrollado en sus 268 OA, 1.195 propuestas y once asignaturas: 175 OA de contenido se despliegan en 811 clases y 93 OA transversales en 384 experiencias integradas. Las clases aumentan precisión y autonomía sin abandonar diagnóstico, modelado, acceso ni resguardos disciplinares.
 
@@ -42,7 +46,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes desde 1° básico hasta 2° medio que necesitan preparar, adaptar o contrastar una secuencia desarrollada, atendiendo su estado editorial y de revisión.
+- Docentes desde 1° básico hasta 4° medio que necesitan preparar, adaptar o contrastar una secuencia desarrollada, atendiendo su estado editorial y de revisión.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.

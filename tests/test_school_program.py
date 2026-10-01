@@ -35,6 +35,9 @@ from scripts.grade_one_middle_remaining_lessons import SEQUENCES as GRADE_ONE_MI
 from scripts.grade_two_middle_core_lessons import SEQUENCES as GRADE_TWO_MIDDLE_CORE_SEQUENCES, build_sequence as build_grade_two_middle_core_sequence
 from scripts.grade_two_middle_next_four_lessons import SEQUENCES as GRADE_TWO_MIDDLE_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_two_middle_next_four_sequence
 from scripts.grade_two_middle_remaining_lessons import SEQUENCES as GRADE_TWO_MIDDLE_REMAINING_SEQUENCES, build_sequence as build_grade_two_middle_remaining_sequence
+from scripts.grade_three_middle_core_lessons import SEQUENCES as GRADE_THREE_MIDDLE_CORE_SEQUENCES, build_sequence as build_grade_three_middle_core_sequence
+from scripts.grade_three_middle_remaining_lessons import SEQUENCES as GRADE_THREE_MIDDLE_REMAINING_SEQUENCES, build_sequence as build_grade_three_middle_remaining_sequence
+from scripts.grade_four_middle_lessons import SEQUENCES as GRADE_FOUR_MIDDLE_SEQUENCES, build_sequence as build_grade_four_middle_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -56,22 +59,22 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 7880)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 8841)
         self.assertEqual(self.catalog["editorial_counts"]["integrada"], 4156)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
-    def test_current_surfaces_agree_on_complete_levels_and_second_middle_core(self):
+    def test_current_surfaces_agree_on_complete_levels_through_fourth_middle(self):
         plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
-        self.assertEqual(plan["active_level"], "3° medio — siguiente nivel por desarrollar")
-        self.assertEqual(plan["active_subject"], "Por definir")
+        self.assertEqual(plan["active_level"], "4° medio — desarrollo interno completo")
+        self.assertEqual(plan["active_subject"], "Ninguna")
         self.assertEqual(
             plan["professional_controls"]["documentary_and_sources"]["status"],
-            "control_interno_completo_desde_1_basico_hasta_2_medio",
+            "control_interno_completo_hasta_4_medio",
         )
         current_surfaces = {
-            "README.md": ("1° básico a 2° medio", "8° básico completo", "1° medio completo", "2° medio completo", "7.880"),
-            "docs/PLAN_DESARROLLO.md": ("3° medio — siguiente nivel por desarrollar", "Definición y orden editorial de 1° básico a 2° medio", "MA2M OA 12", "LE2M OA 24", "CN2M OA 18", "TE2M OA 06", "Gates del desarrollo interno", "- [x] Todos los OA disciplinares"),
-            "site/index.html": ("Diez niveles completos", "2° medio", "7.880 clases", "4.156 experiencias integradas"),
+            "README.md": ("1° básico a 4° medio", "8° básico completo", "1° medio completo", "2° medio completo", "3° medio completo", "4° medio completo", "8.841"),
+            "docs/PLAN_DESARROLLO.md": ("4° medio — desarrollo interno completo", "Definición y orden editorial de 1° básico a 4° medio", "MA2M OA 12", "LE2M OA 24", "FG-MATE-4M-OAC-04", "FG-LELI-4M-OAC-08", "FG-CIAS-3y4-OAC-01", "Gates del desarrollo interno", "- [x] Todos los OA disciplinares"),
+            "site/index.html": ("Doce niveles completos", "4° medio", "8.841 clases", "4.156 experiencias integradas"),
         }
         stale_tokens = (
             "Siete asignaturas de 7°",
@@ -105,6 +108,12 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertIn("docs/2-medio/README.md", readme)
         for subject_slug in {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 10}:
             self.assertIn(f"docs/2-medio/{subject_slug}.md", readme)
+        self.assertIn("docs/3-medio/README.md", readme)
+        for subject_slug in {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 11}:
+            self.assertIn(f"docs/3-medio/{subject_slug}.md", readme)
+        self.assertIn("docs/4-medio/README.md", readme)
+        for subject_slug in {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 12}:
+            self.assertIn(f"docs/4-medio/{subject_slug}.md", readme)
         stale_claims = (
             "Desde 1° hasta 4° medio",
             "Seis asignaturas desarrolladas de 8° básico",
@@ -132,7 +141,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 7880)
+        self.assertEqual(len(developed), 8841)
 
     def test_first_middle_mathematics_and_language_are_complete_and_specific(self):
         first_middle = [item for item in self.catalog["classes"] if item["course_order"] == 9]
@@ -203,6 +212,11 @@ class SchoolProgramTests(unittest.TestCase):
             text = (ROOT / relative).read_text(encoding="utf-8").lower()
             for token in tokens:
                 self.assertIn(token.lower(), text, relative)
+        for path in (ROOT / "curriculum/3-medio-fg").glob("*/*.md"):
+            text = path.read_text(encoding="utf-8")
+            self.assertNotIn("Caso didáctico sobre", text, path)
+            self.assertNotIn("Present un conjunto", text, path)
+            self.assertNotIn("warm/cool", text, path)
         for relative in (
             "docs/2-medio/README.md",
             "docs/2-medio/matematica.md",
@@ -210,6 +224,139 @@ class SchoolProgramTests(unittest.TestCase):
             "docs/SEGUNDO_MEDIO.md",
             "site/levels/2-medio.html",
         ):
+            self.assertTrue((ROOT / relative).is_file(), relative)
+
+    def test_third_middle_mathematics_and_language_are_complete_specific_and_sourced(self):
+        third_middle = [item for item in self.catalog["classes"] if item["course_order"] == 11]
+        expected = {
+            "matematica-3o-medio": (17, 4),
+            "lengua-literatura-3o-medio": (59, 9),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in third_middle if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            self.assertEqual((len(developed), len({item["oa_code"] for item in developed})), counts)
+            self.assertFalse([item for item in rows if item["editorial_status"] in {"secuenciada", "borrador"}])
+            self.assertTrue(all(item["source_url"].startswith("https://www.curriculumnacional.cl/") for item in developed))
+        sequences = [build_grade_three_middle_core_sequence(code) for code in sorted(GRADE_THREE_MIDDLE_CORE_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(sequences), len(lessons)), (13, 76))
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertTrue(all(not lesson["transversal"] for lesson in lessons))
+        self.assertEqual(
+            (
+                len(third_middle),
+                sum(item["editorial_status"] == "desarrollada" for item in third_middle),
+                sum(item["editorial_status"] == "secuenciada" for item in third_middle),
+            ),
+            (495, 495, 0),
+        )
+        samples = {
+            "curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-01.md": ("Números complejos", "i²=-1", "Fuente oficial del OA"),
+            "curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md": ("Modelos exponenciales", "fuente y escala", "criterios observables internos"),
+            "curriculum/3-medio-fg/lengua-literatura-3o-medio/fg-leli-3m-oac-04.md": ("Comunidades digitales", "acoso", "Fuente oficial del OA"),
+            "curriculum/3-medio-fg/lengua-literatura-3o-medio/fg-leli-3m-oac-09.md": ("Investigación ética", "confiabilidad", "citar"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8").lower()
+            for token in tokens:
+                self.assertIn(token.lower(), text, relative)
+        for relative in (
+            "docs/3-medio/README.md",
+            "docs/3-medio/matematica-3o-medio.md",
+            "docs/3-medio/lengua-literatura-3o-medio.md",
+            "docs/TERCERO_MEDIO.md",
+            "site/levels/3-medio.html",
+        ):
+            self.assertTrue((ROOT / relative).is_file(), relative)
+
+    def test_third_middle_remaining_subjects_complete_the_level(self):
+        third_middle = [item for item in self.catalog["classes"] if item["course_order"] == 11]
+        expected = {
+            "ambiente-sostenibilidad": (16, 3), "artes-visuales": (35, 7),
+            "bienestar-salud": (17, 3), "chile-region-latinoamericana": (36, 7),
+            "danza": (28, 6), "educacion-ciudadana-3-medio": (37, 8),
+            "educacion-fisica-salud-1": (24, 5), "educacion-fisica-salud-2": (25, 5),
+            "filosofia-3-medio": (25, 6), "filosofia-4o-medio": (24, 5),
+            "ingles-3o-medio": (18, 4), "mundo-global": (36, 7), "musica": (34, 7),
+            "seguridad-prevencion-autocuidado": (18, 3), "teatro": (31, 6),
+            "tecnologia-sociedad": (15, 3),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in third_middle if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            self.assertEqual((len(developed), len({item["oa_code"] for item in developed})), counts, slug)
+            self.assertTrue(all(item["source_url"].startswith("https://www.curriculumnacional.cl/") for item in developed))
+            guide_path = ROOT / f"docs/3-medio/{slug}.md"
+            self.assertTrue(guide_path.is_file(), slug)
+            self.assertIn(rows[0]["subject"], guide_path.read_text(encoding="utf-8").splitlines()[0], slug)
+            self.assertTrue((ROOT / f"site/docs/3-medio/{slug}.html").is_file(), slug)
+        sequences = [build_grade_three_middle_remaining_sequence(code) for code in sorted(GRADE_THREE_MIDDLE_REMAINING_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(sequences), len(lessons)), (85, 419))
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertTrue(all(not lesson["transversal"] for lesson in lessons))
+        samples = {
+            "curriculum/3-medio-fg/ambiente-sostenibilidad/fg-cias-3y4-oac-03.md": ("cambio climático", "modelo", "Fuente oficial del OA"),
+            "curriculum/3-medio-fg/educacion-ciudadana-3-medio/fg-eciu-3m-oac-02.md": ("Acceso a la justicia", "caso público", "Currículum Nacional"),
+            "curriculum/3-medio-fg/filosofia-3-medio/fg-filo-3m-oac-06.md": ("Argumentación", "premisa", "objeción"),
+            "curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-01.md": ("Today I will", "original writing briefs", "accent imitation is not required"),
+            "curriculum/3-medio-fg/seguridad-prevencion-autocuidado/fg-cisa-3y4-oac-01.md": ("Sustancias químicas", "riesgo", "sin manipular"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8")
+            for token in tokens:
+                self.assertIn(token.lower(), text.lower(), relative)
+
+    def test_fourth_middle_complete_specific_sourced_and_documented(self):
+        fourth_middle = [item for item in self.catalog["classes"] if item["course_order"] == 12]
+        expected = {
+            "ambiente-sostenibilidad": (16, 3), "artes-visuales": (35, 7),
+            "bienestar-salud": (17, 3), "chile-region-latinoamericana": (36, 7),
+            "danza": (28, 6), "educacion-ciudadana-4-medio": (39, 8),
+            "educacion-fisica-salud-1": (24, 5), "educacion-fisica-salud-2": (25, 5),
+            "filosofia-4o-medio": (24, 5), "ingles-4o-medio": (18, 4),
+            "lengua-literatura-4o-medio": (53, 8), "matematica-4o-medio": (17, 4),
+            "mundo-global": (36, 7), "musica": (34, 7),
+            "seguridad-prevencion-autocuidado": (18, 3), "teatro": (31, 6),
+            "tecnologia-sociedad": (15, 3),
+        }
+        self.assertEqual((len(fourth_middle), len({item["oa_code"] for item in fourth_middle})), (466, 91))
+        self.assertEqual(len({item["subject_slug"] for item in fourth_middle}), 17)
+        self.assertTrue(all(item["editorial_status"] == "desarrollada" for item in fourth_middle))
+        for slug, counts in expected.items():
+            rows = [item for item in fourth_middle if item["subject_slug"] == slug]
+            self.assertEqual((len(rows), len({item["oa_code"] for item in rows})), counts, slug)
+            self.assertTrue(all(item["source_url"].startswith("https://www.curriculumnacional.cl/") for item in rows))
+            guide_path = ROOT / f"docs/4-medio/{slug}.md"
+            self.assertTrue(guide_path.is_file(), slug)
+            self.assertIn(rows[0]["subject"], guide_path.read_text(encoding="utf-8").splitlines()[0], slug)
+            self.assertTrue((ROOT / f"site/docs/4-medio/{slug}.html").is_file(), slug)
+        sequences = [build_grade_four_middle_sequence(code) for code in sorted(GRADE_FOUR_MIDDLE_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(sequences), len(lessons)), (91, 466))
+        self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertTrue(all(not lesson["transversal"] for lesson in lessons))
+        samples = {
+            "curriculum/4-medio-fg/matematica-4o-medio/fg-mate-4m-oac-01.md": ("Decisiones financieras", "porcentajes", "Fuente oficial del OA"),
+            "curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-01.md": ("Interpretación comparada", "efectos estéticos", "Fuente oficial del OA"),
+            "curriculum/4-medio-fg/educacion-ciudadana-4-medio/fg-eciu-4m-oac-01.md": ("democracia", "Fuente oficial del OA"),
+            "curriculum/4-medio-fg/ingles-4o-medio/fg-ingl-4m-oac-01.md": ("Today I will", "Fuente oficial del OA"),
+            "curriculum/4-medio-fg/seguridad-prevencion-autocuidado/fg-cisa-3y4-oac-01.md": ("Sustancias químicas", "riesgo", "sin manipular"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8").lower()
+            for token in tokens:
+                self.assertIn(token.lower(), text, relative)
+        for path in (ROOT / "curriculum/4-medio-fg").glob("*/*.md"):
+            text = path.read_text(encoding="utf-8")
+            self.assertNotIn("Caso didáctico sobre", text, path)
+            self.assertNotIn("Present un conjunto", text, path)
+            self.assertNotIn("warm/cool", text, path)
+        for relative in ("docs/4-medio/README.md", "docs/CUARTO_MEDIO.md", "site/levels/4-medio.html"):
             self.assertTrue((ROOT / relative).is_file(), relative)
 
     def test_second_middle_science_history_and_english_are_complete_and_specific(self):

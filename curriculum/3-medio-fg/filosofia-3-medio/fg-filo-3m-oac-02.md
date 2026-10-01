@@ -1,4 +1,4 @@
-# FG-FILO-3M-OAC-02 — Analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…
+# FG-FILO-3M-OAC-02 — Perspectivas filosóficas, vida cotidiana y visiones de mundo
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 3° medio · Formación General | Filosofía 3° medio | Objetivos de aprendizaje | formacion-general-comun | 5 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Perspectivas filosóficas, vida cotidiana y visiones de mundo recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir perspectiva con opinión sin razones».
+
+**Antes de comenzar.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Vocabulario explícito:** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Problematizar una situación: Perspectivas filosóficas, vida cotidiana y visiones de mundo.
+- Definir conceptos: Perspectivas filosóficas, vida cotidiana y visiones de mundo.
+- Reconstruir una perspectiva: Perspectivas filosóficas, vida cotidiana y visiones de mundo.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-02)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,90 +41,395 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-12259}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…» y demostrarlo mediante argumento o deliberación fundamentada.
+### Clase 1 de 5: Problematizar una situación: Perspectivas filosóficas, vida cotidiana y visiones de mundo {#cl-12259}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar perspectivas filosóficas, vida cotidiana y visiones de mundo a través de problematizar una situación: Perspectivas filosóficas, vida cotidiana y visiones de mundo, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a problematizar una situación: Perspectivas filosóficas, vida cotidiana y visiones de mundo; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la cotidianidad, así como normas, valores, creencias y visiones de mundo de los pensadores que las desarrollaron». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para problematizar una situación: Perspectivas filosóficas, vida cotidiana y visiones de mundo: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «confundir perspectiva con opinión sin razones». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla problematizar una situación: Perspectivas filosóficas, vida cotidiana y visiones de mundo en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Perspectivas filosóficas, vida cotidiana y visiones de mundo»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 2 de 5: Comprender y modelar {#cl-12260}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «problematizar una situación: perspectivas filosóficas, vida cotidiana y visiones de mundo»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «problematizar una situación: perspectivas filosóficas, vida cotidiana y visiones de mundo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «problematizar una situación: perspectivas filosóficas, vida cotidiana y visiones de mundo» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: confundir perspectiva con opinión sin razones.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Confundir perspectiva con opinión sin razones | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 2 de 5: Definir conceptos: Perspectivas filosóficas, vida cotidiana y visiones de mundo {#cl-12260}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar perspectivas filosóficas, vida cotidiana y visiones de mundo a través de definir conceptos: Perspectivas filosóficas, vida cotidiana y visiones de mundo, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a definir conceptos: Perspectivas filosóficas, vida cotidiana y visiones de mundo; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la cotidianidad, así como normas, valores, creencias y visiones de mundo de los pensadores que las desarrollaron». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para definir conceptos: Perspectivas filosóficas, vida cotidiana y visiones de mundo: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «confundir perspectiva con opinión sin razones». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla definir conceptos: Perspectivas filosóficas, vida cotidiana y visiones de mundo en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Perspectivas filosóficas, vida cotidiana y visiones de mundo»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-12261}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «definir conceptos: perspectivas filosóficas, vida cotidiana y visiones de mundo»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «definir conceptos: perspectivas filosóficas, vida cotidiana y visiones de mundo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «definir conceptos: perspectivas filosóficas, vida cotidiana y visiones de mundo» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: confundir perspectiva con opinión sin razones.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Confundir perspectiva con opinión sin razones | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 3 de 5: Reconstruir una perspectiva: Perspectivas filosóficas, vida cotidiana y visiones de mundo {#cl-12261}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar perspectivas filosóficas, vida cotidiana y visiones de mundo a través de reconstruir una perspectiva: Perspectivas filosóficas, vida cotidiana y visiones de mundo, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a reconstruir una perspectiva: Perspectivas filosóficas, vida cotidiana y visiones de mundo; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la cotidianidad, así como normas, valores, creencias y visiones de mundo de los pensadores que las desarrollaron». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para reconstruir una perspectiva: Perspectivas filosóficas, vida cotidiana y visiones de mundo: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «confundir perspectiva con opinión sin razones». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla reconstruir una perspectiva: Perspectivas filosóficas, vida cotidiana y visiones de mundo en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Perspectivas filosóficas, vida cotidiana y visiones de mundo»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-12262}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «reconstruir una perspectiva: perspectivas filosóficas, vida cotidiana y visiones de mundo»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «reconstruir una perspectiva: perspectivas filosóficas, vida cotidiana y visiones de mundo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «reconstruir una perspectiva: perspectivas filosóficas, vida cotidiana y visiones de mundo» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: confundir perspectiva con opinión sin razones.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Confundir perspectiva con opinión sin razones | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 4 de 5: Formular y evaluar argumentos: Perspectivas filosóficas, vida cotidiana y visiones de mundo {#cl-12262}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar perspectivas filosóficas, vida cotidiana y visiones de mundo a través de formular y evaluar argumentos: Perspectivas filosóficas, vida cotidiana y visiones de mundo, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a formular y evaluar argumentos: Perspectivas filosóficas, vida cotidiana y visiones de mundo; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la cotidianidad, así como normas, valores, creencias y visiones de mundo de los pensadores que las desarrollaron». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para formular y evaluar argumentos: Perspectivas filosóficas, vida cotidiana y visiones de mundo: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «confundir perspectiva con opinión sin razones». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla formular y evaluar argumentos: Perspectivas filosóficas, vida cotidiana y visiones de mundo en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Perspectivas filosóficas, vida cotidiana y visiones de mundo»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-12263}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «formular y evaluar argumentos: perspectivas filosóficas, vida cotidiana y visiones de mundo»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «formular y evaluar argumentos: perspectivas filosóficas, vida cotidiana y visiones de mundo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «formular y evaluar argumentos: perspectivas filosóficas, vida cotidiana y visiones de mundo» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: confundir perspectiva con opinión sin razones.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Confundir perspectiva con opinión sin razones | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 5 de 5: Responder objeciones: Perspectivas filosóficas, vida cotidiana y visiones de mundo {#cl-12263}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar perspectivas filosóficas, vida cotidiana y visiones de mundo a través de responder objeciones: Perspectivas filosóficas, vida cotidiana y visiones de mundo, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a responder objeciones: Perspectivas filosóficas, vida cotidiana y visiones de mundo; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la cotidianidad, así como normas, valores, creencias y visiones de mundo de los pensadores que las desarrollaron». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **analizar y fundamentar diversas perspectivas filosóficas, considerando posibles relaciones con la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para responder objeciones: Perspectivas filosóficas, vida cotidiana y visiones de mundo: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «confundir perspectiva con opinión sin razones». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla responder objeciones: Perspectivas filosóficas, vida cotidiana y visiones de mundo en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre perspectivas filosóficas, vida cotidiana y visiones de mundo; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Perspectivas filosóficas, vida cotidiana y visiones de mundo»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
+
+**Consigna exacta:** Desarrolla «responder objeciones: perspectivas filosóficas, vida cotidiana y visiones de mundo»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «responder objeciones: perspectivas filosóficas, vida cotidiana y visiones de mundo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «responder objeciones: perspectivas filosóficas, vida cotidiana y visiones de mundo» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: confundir perspectiva con opinión sin razones.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Confundir perspectiva con opinión sin razones | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

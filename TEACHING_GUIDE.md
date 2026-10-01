@@ -79,9 +79,9 @@ La profundización debe seguir vinculada al OA y no convertir siempre al estudia
 
 La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla estos niveles y propone un registro mínimo.
 
-## Consideraciones para el contenido desarrollado de 1° básico a 2° medio
+## Consideraciones para el contenido desarrollado de 1° básico a 4° medio
 
-Estas orientaciones cubren los diez niveles completos desde 1° básico hasta 2° medio y sus denominaciones desarrolladas. No presentan 3° ni 4° medio como terminados.
+Estas orientaciones cubren los doce niveles completos desde 1° básico hasta 4° medio. El desarrollo interno completo no sustituye revisión profesional ni pilotaje.
 
 - Alterna oralidad, manipulación, movimiento, dibujo y símbolo.
 - Mantén consignas breves, visibles y demostradas.
@@ -96,6 +96,8 @@ Estas orientaciones cubren los diez niveles completos desde 1° básico hasta 2�
 - En 8° básico, aumenta la autonomía para modelar, argumentar, investigar, crear, comunicar, participar y revisar en las doce denominaciones, manteniendo ejemplos concretos, fuentes situadas, criterios visibles y comprobación individual.
 - En 1° medio, eleva formalización, contraste de fuentes, producción e investigación sin asumir que la autonomía elimina el modelado o la retroalimentación.
 - En 2° medio, recupera evidencia de 1° medio y exige justificar modelos, interpretaciones y decisiones con representaciones, textos, datos, fuentes, producciones o desempeños comprobables según la asignatura.
+- En 3° medio, eleva autonomía y juicio crítico, verifica procedencia y calidad de fuentes y distingue siempre el OA oficial de los criterios pedagógicos internos derivados.
+- En 4° medio, consolida autonomía de egreso: exige selección razonada de fuentes y estrategias, comprobación, revisión y comunicación explícita de límites.
 - No conviertas el cambio de nivel en retiro automático de apoyos: retíralos según evidencia observable.
 
 ## Errores frecuentes al usar el repositorio

@@ -2,9 +2,9 @@
 
 # 🇨🇱 Trayectoria Escolar Chile
 
-## **1° básico a 2° medio con desarrollo pedagógico interno completo**
+## **1° básico a 4° medio con desarrollo pedagógico interno completo**
 
-### **Diez niveles consecutivos completos · 114 guías de asignatura**
+### **Doce niveles consecutivos completos · 149 guías de asignatura**
 
 **Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
@@ -20,7 +20,9 @@
 [![8° básico](https://img.shields.io/badge/8%C2%B0%20b%C3%A1sico-771%20clases%20%C2%B7%2012%20denominaciones-9f1239?style=for-the-badge)](docs/8-basico/README.md)
 [![1° medio](https://img.shields.io/badge/1%C2%B0%20medio-753%20clases%20%C2%B7%2011%20denominaciones-4338ca?style=for-the-badge)](docs/1-medio/README.md)
 [![2° medio](https://img.shields.io/badge/2%C2%B0%20medio-744%20clases%20%C2%B7%2011%20denominaciones-0369a1?style=for-the-badge)](docs/2-medio/README.md)
-[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-7.880%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![3° medio](https://img.shields.io/badge/3%C2%B0%20medio-495%20clases%20%C2%B7%2018%20denominaciones-7c3aed?style=for-the-badge)](docs/3-medio/README.md)
+[![4° medio](https://img.shields.io/badge/4%C2%B0%20medio-466%20clases%20%C2%B7%2017%20denominaciones-6d28d9?style=for-the-badge)](docs/4-medio/README.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-8.841%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -28,7 +30,7 @@
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
 
-[🌐 Abrir portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🎓 Abrir 8° básico completo](docs/8-basico/README.md) · [🏫 Abrir 1° medio](docs/1-medio/README.md) · [📘 Abrir 2° medio](docs/2-medio/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🌐 Abrir portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🎓 Abrir 8° básico completo](docs/8-basico/README.md) · [🏫 Abrir 1° medio](docs/1-medio/README.md) · [📘 Abrir 2° medio](docs/2-medio/README.md) · [🎓 Abrir 3° medio](docs/3-medio/README.md) · [🚩 Abrir 4° medio](docs/4-medio/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 [📋 Plan maestro por nivel, asignatura e ítem](docs/PLAN_DESARROLLO.md)
 
@@ -37,7 +39,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** desde 1° básico hasta 2° medio, los diez niveles cuentan con desarrollo pedagógico interno completo. 2° medio reúne 744 clases disciplinares y 456 experiencias integradas en once denominaciones, sin propuestas pendientes. La revisión humana especializada sigue pendiente.
+> **Estado real del proyecto:** desde 1° básico hasta 4° medio, los doce niveles cuentan con desarrollo pedagógico interno completo. 4° medio reúne 91 OA y 466 clases en diecisiete denominaciones. La revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -56,10 +58,12 @@ Este repositorio sirve hoy para cuatro cosas distintas, expresadas sin mezclar s
 - **Usar 8° básico completo:** ofrece 771 clases disciplinares y 430 experiencias transversales integradas en doce denominaciones, sin propuestas pendientes en el nivel.
 - **Usar 1° medio completo:** ofrece 753 clases disciplinares y 456 experiencias integradas en once denominaciones, con continuidad explícita desde 8° básico.
 - **Usar 2° medio completo:** ofrece 744 clases disciplinares y 456 experiencias integradas en once denominaciones, con continuidad explícita desde 1° medio.
+- **Usar 3° medio completo:** ofrece 495 clases en dieciocho denominaciones, con fuentes oficiales y continuidad explícita desde 2° medio.
+- **Usar 4° medio completo:** ofrece 466 clases en diecisiete denominaciones, con fuentes oficiales, continuidad desde 3° medio y autonomía de egreso.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
-- **Continuar Enseñanza Media:** conserva 961 propuestas pendientes, todas desde 3° hasta 4° medio.
+- **Recorrer la trayectoria completa:** los 12.997 registros están desarrollados o integrados; no quedan propuestas solo secuenciadas ni borradores.
 
-Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7°](docs/7-basico/README.md)**, **[8° básico completo](docs/8-basico/README.md)**, **[1° medio](docs/1-medio/README.md)** o **[2° medio](docs/2-medio/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
+Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7°](docs/7-basico/README.md)**, **[8° básico completo](docs/8-basico/README.md)**, **[1° medio](docs/1-medio/README.md)**, **[2° medio](docs/2-medio/README.md)**, **[3° medio](docs/3-medio/README.md)** o **[4° medio](docs/4-medio/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas revisar el alcance, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
 
 ## 🧭 OA, en palabras simples
 
@@ -143,13 +147,13 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **2° medio completo:** Matemática aporta 55 clases disciplinares y 89 experiencias integradas; Lengua y Literatura, 146 y 33; Ciencias Naturales, 85 y 93; Historia, 142 y 103; Inglés, 81 y 21; Inglés (Propuesta), 66 clases; Artes Visuales, 30 y 33; Música, 31 y 37; Educación Física y Salud, 28 y 28; Orientación, 52 clases; y Tecnología, 28 y 19. Las 1.200 entradas están resueltas y quedan **0 propuestas pendientes**.
 
-### Preparado para desarrollo futuro
+**3° medio completo:** las dieciocho denominaciones tienen sus 98 OA resueltos en 495 clases. Cada clase incluye fuente curricular oficial, progresión pedagógica interna explícita, recursos, evaluación, apoyos, profundización y continuidad desde 2° medio. Quedan **0 propuestas pendientes** en el nivel.
 
-**Desarrollo futuro:** quedan 961 propuestas desde 3° hasta 4° medio. Ninguno de esos niveles se presenta como desarrollo completo.
+**4° medio completo:** las diecisiete denominaciones tienen sus 91 OA resueltos en 466 clases. Cada clase incluye fuente curricular oficial, progresión pedagógica interna explícita, recursos, evaluación, apoyos, profundización y continuidad desde 3° medio. Quedan **0 propuestas pendientes** en toda la trayectoria.
 
 ### Lo que significa “12.997”
 
-Es la suma de todos los **espacios de clase inventariados** del mapa curricular. No significa que existan 12.997 planificaciones pedagógicas terminadas. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
+Es la suma de todos los **espacios de clase e integración inventariados** del mapa curricular. Están resueltos como 8.841 clases disciplinares y 4.156 experiencias transversales integradas; estas últimas no constituyen clases independientes. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
 
 ## 🧒 1° básico · desarrollo OA por OA
 
@@ -319,9 +323,58 @@ Es la suma de todos los **espacios de clase inventariados** del mapa curricular.
 
 [Abrir el índice completo de 2° medio](docs/2-medio/README.md) para recorrer las once denominaciones y sus guías OA por OA.
 
+## 🎓 3° medio completo · dieciocho denominaciones
+
+**495 clases disciplinares · 98 OA de contenido · 18 denominaciones desarrolladas · 0 propuestas pendientes.** Cada ficha conserva el enlace oficial de Currículum Nacional y distingue la redacción del OA de los criterios pedagógicos internos derivados.
+
+- 🌱 **[Ambiente y sostenibilidad](docs/3-medio/ambiente-sostenibilidad.md):** 3 OA y 16 clases.
+- 🎨 **[Artes Visuales](docs/3-medio/artes-visuales.md):** 7 OA y 35 clases.
+- 🧬 **[Bienestar y salud](docs/3-medio/bienestar-salud.md):** 3 OA y 17 clases.
+- 🌎 **[Chile y la región latinoamericana](docs/3-medio/chile-region-latinoamericana.md):** 7 OA y 36 clases.
+- 💃 **[Danza](docs/3-medio/danza.md):** 6 OA y 28 clases.
+- 🏛️ **[Educación Ciudadana](docs/3-medio/educacion-ciudadana-3-medio.md):** 8 OA y 37 clases.
+- 🏃 **[Educación Física y Salud 1](docs/3-medio/educacion-fisica-salud-1.md):** 5 OA y 24 clases.
+- 🏃 **[Educación Física y Salud 2](docs/3-medio/educacion-fisica-salud-2.md):** 5 OA y 25 clases.
+- 💭 **[Filosofía 3° medio](docs/3-medio/filosofia-3-medio.md):** 6 OA y 25 clases.
+- 💭 **[Filosofía 4° medio](docs/3-medio/filosofia-4o-medio.md):** 5 OA y 24 clases dentro de la oferta compartida de Formación General.
+- 🌐 **[Inglés 3° medio](docs/3-medio/ingles-3o-medio.md):** 4 OA y 18 clases.
+- 📚 **[Lengua y Literatura 3° medio](docs/3-medio/lengua-literatura-3o-medio.md):** 9 OA y 59 clases.
+- 🔢 **[Matemática 3° medio](docs/3-medio/matematica-3o-medio.md):** 4 OA y 17 clases.
+- 🌍 **[Mundo global](docs/3-medio/mundo-global.md):** 7 OA y 36 clases.
+- 🎵 **[Música](docs/3-medio/musica.md):** 7 OA y 34 clases.
+- 🛡️ **[Seguridad, prevención y autocuidado](docs/3-medio/seguridad-prevencion-autocuidado.md):** 3 OA y 18 clases.
+- 🎭 **[Teatro](docs/3-medio/teatro.md):** 6 OA y 31 clases.
+- 🛠️ **[Tecnología y sociedad](docs/3-medio/tecnologia-sociedad.md):** 3 OA y 15 clases.
+
+[Abrir el índice completo de 3° medio](docs/3-medio/README.md) para revisar cobertura, fuentes y recorrido OA por OA.
+
+## 🚩 4° medio completo · diecisiete denominaciones
+
+**466 clases disciplinares · 91 OA de contenido · 17 denominaciones desarrolladas · 0 propuestas pendientes.** El nivel consolida autonomía de egreso y conserva la distinción entre OA oficiales y elaboración pedagógica interna.
+
+- 🌱 **[Ambiente y sostenibilidad](docs/4-medio/ambiente-sostenibilidad.md):** 3 OA y 16 clases.
+- 🎨 **[Artes Visuales](docs/4-medio/artes-visuales.md):** 7 OA y 35 clases.
+- 🩺 **[Bienestar y salud](docs/4-medio/bienestar-salud.md):** 3 OA y 17 clases.
+- 🌎 **[Chile y la región latinoamericana](docs/4-medio/chile-region-latinoamericana.md):** 7 OA y 36 clases.
+- 💃 **[Danza](docs/4-medio/danza.md):** 6 OA y 28 clases.
+- 🏛️ **[Educación ciudadana 4° medio](docs/4-medio/educacion-ciudadana-4-medio.md):** 8 OA y 39 clases.
+- 🏃 **[Educación Física y Salud 1](docs/4-medio/educacion-fisica-salud-1.md):** 5 OA y 24 clases.
+- 🧭 **[Educación Física y Salud 2](docs/4-medio/educacion-fisica-salud-2.md):** 5 OA y 25 clases.
+- 💭 **[Filosofía 4° medio](docs/4-medio/filosofia-4o-medio.md):** 5 OA y 24 clases.
+- 🌐 **[Inglés 4° medio](docs/4-medio/ingles-4o-medio.md):** 4 OA y 18 clases.
+- 📚 **[Lengua y Literatura 4° medio](docs/4-medio/lengua-literatura-4o-medio.md):** 8 OA y 53 clases.
+- 🔢 **[Matemática 4° medio](docs/4-medio/matematica-4o-medio.md):** 4 OA y 17 clases.
+- 🌍 **[Mundo global](docs/4-medio/mundo-global.md):** 7 OA y 36 clases.
+- 🎵 **[Música](docs/4-medio/musica.md):** 7 OA y 34 clases.
+- 🛡️ **[Seguridad, prevención y autocuidado](docs/4-medio/seguridad-prevencion-autocuidado.md):** 3 OA y 18 clases.
+- 🎭 **[Teatro](docs/4-medio/teatro.md):** 6 OA y 31 clases.
+- 🛠️ **[Tecnología y sociedad](docs/4-medio/tecnologia-sociedad.md):** 3 OA y 15 clases.
+
+[Abrir el índice completo de 4° medio](docs/4-medio/README.md) para revisar cobertura, fuentes y recorrido OA por OA.
+
 ## 🔧 Cómo se mejora el contenido desarrollado
 
-Una mejora de cualquier nivel entre 1° básico y 2° medio se aplica al contenido pedagógico canónico, no sólo a la portada o a una página aislada. El flujo correcto es:
+Una mejora de cualquier nivel entre 1° básico y 4° medio se aplica al contenido pedagógico canónico, no sólo a la portada o a una página aislada. El flujo correcto es:
 
 1. delimitar el nivel, la asignatura, el OA, la clase o el aspecto transversal que debe mejorar;
 2. corregir propósito, explicación, actividades, tareas, evidencia, dificultades y apoyos donde corresponda;
@@ -471,9 +524,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio y 744 de 2° medio: 7.880 en total.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio: 8.841 en total.
 - **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6°, 515 de 7°, 430 de 8°, 456 de 1° medio y 456 de 2° medio: 4.156 en total; no constituyen clases independientes.
-- **Contenido pendiente:** 0 propuestas desde 1° básico hasta 2° medio y 961 desde 3° a 4° medio.
+- **Contenido pendiente:** 0 propuestas desde 1° básico hasta 4° medio.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -484,7 +537,7 @@ flowchart TD
     A[Currículum Nacional] --> B[Registro curricular verificable]
     B --> C[Mapa de cobertura]
     C --> D[Dosificación]
-    D --> E[1° básico a 2° medio completos]
+    D --> E[1° básico a 4° medio completos]
     E --> F[Markdown]
     E --> G[HTML]
     F --> H[Validadores y pruebas]
@@ -511,7 +564,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un desarrollo transparente desde 1° básico hasta 2° medio, con 7.880 clases desarrolladas y 4.156 experiencias integradas en el catálogo;
+- un desarrollo transparente desde 1° básico hasta 4° medio, con 8.841 clases desarrolladas y 4.156 experiencias integradas en el catálogo;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -528,7 +581,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ## 💡 Idea fuerza
 
-> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. Desde 1° básico hasta 2° medio el desarrollo interno está completo. La revisión profesional humana todavía debe registrarse por separado.
+> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. Desde 1° básico hasta 4° medio el desarrollo interno está completo. La revisión profesional humana todavía debe registrarse por separado.
 
 ## 📖 Fuentes y derechos
 

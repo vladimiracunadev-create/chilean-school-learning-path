@@ -2,7 +2,7 @@
 
 El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen el estado actual; el [changelog](CHANGELOG.md) conserva la historia.
 
-## Estado actual · 30 de septiembre de 2026
+## Estado actual · 1 de octubre de 2026
 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
@@ -16,10 +16,10 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 8° básico | 253 | 1.201 | Completo: 771 desarrolladas + 430 integradas · 0 pendientes |
 | 1° medio | 253 | 1.209 | Completo: 753 desarrolladas + 456 integradas · 11 denominaciones |
 | 2° medio | 248 | 1.200 | Completo: 744 desarrolladas + 456 integradas · 0 pendientes |
-| 3° medio FG | 98 | 495 | Secuenciado |
-| 4° medio FG | 91 | 466 | Secuenciado |
+| 3° medio FG | 98 | 495 | Completo: 495 desarrolladas · 18 denominaciones · 0 pendientes |
+| 4° medio FG | 91 | 466 | Completo: 466 desarrolladas · 17 denominaciones · 0 pendientes |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **7.880 clases desarrolladas**, **4.156 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 2° medio**, **961 pendientes desde 3° hasta 4° medio** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **8.841 clases desarrolladas**, **4.156 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 4° medio** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -114,7 +114,13 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **7.880 clases desarrolladas*
 - [x] Completar Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) de 2° medio: 374 clases en 72 OA de contenido y 217 experiencias integradas de 49 OA transversales.
 - [x] Completar Artes Visuales, Música, Educación Física y Salud, Orientación y Tecnología de 2° medio: 169 clases en 34 OA de contenido y 117 experiencias integradas de 28 OA transversales.
 - [x] Publicar las once guías y completar 2° medio con 744 clases disciplinares, 456 experiencias integradas y 0 propuestas pendientes.
-- [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
+- [x] Completar Matemática de 3° medio: 17 clases específicas en 4 OA de Formación General, con fuentes oficiales, modelación, comprobación y continuidad desde 2° medio.
+- [x] Completar Lengua y Literatura de 3° medio: 59 clases específicas en 9 OA de Formación General, con corpus atribuibles, análisis crítico, producción multimodal, diálogo e investigación ética con fuentes.
+- [x] Publicar índice, mapa técnico, vista web y dos guías de asignatura para el primer bloque de 3° medio.
+- [x] Completar las otras dieciséis denominaciones de 3° medio: 85 OA y 419 clases con fuentes oficiales, evaluación formativa y resguardos disciplinares.
+- [x] Publicar las dieciocho guías y completar 3° medio con 495 clases disciplinares y 0 propuestas pendientes.
+- [x] Completar 4° medio: 91 OA y 466 clases en diecisiete denominaciones, distinguiendo formación general y opciones curriculares compartidas.
+- [x] Publicar índice, mapa técnico, vista web y diecisiete guías de asignatura de 4° medio, con fuentes oficiales y continuidad desde 3° medio.
 
 Cada nivel debe pasar por el mismo contrato: desarrollo disciplinar, verificación automática, revisión humana documentada y comprobación visual del portal.
 

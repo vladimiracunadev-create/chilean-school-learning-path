@@ -1,4 +1,4 @@
-# FG-TEAT-3y4-OAC-03 — Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…
+# FG-TEAT-3y4-OAC-03 — Interpretación teatral para un público específico
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 4° medio · Formación General | Teatro | Objetivos de aprendizaje | electivo-de-artes | 6 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** elementos, técnica, materialidad, intención, contexto, proceso y apreciación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Interpretación teatral para un público específico recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar exposición y no decisión escénica».
+
+**Antes de comenzar.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Vocabulario explícito:** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 6 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Explorar cuerpo, gesto y voz: Interpretación teatral para un público específico.
+- Construir situación y personaje: Interpretación teatral para un público específico.
+- Ensayar decisiones escénicas: Interpretación teatral para un público específico.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-03)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,107 +41,473 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 6: Conectar y diagnosticar {#cl-12962}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+### Clase 1 de 6: Explorar cuerpo, gesto y voz: Interpretación teatral para un público específico {#cl-12962}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar interpretación teatral para un público específico a través de explorar cuerpo, gesto y voz: Interpretación teatral para un público específico, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a explorar cuerpo, gesto y voz: Interpretación teatral para un público específico; justificaré una decisión con evidencia y reconoceré sus límites; trabajaré con autonomía y explicitaré los límites de mi respuesta.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la construcción de personajes y situaciones dramáticas elementos del lenguaje teatral, habilidades actorales, recursos de la puesta en escena, medios y tecnologías actuales, y considerando un público específico». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico con autoría y contexto. Cada estudiante identifica un rasgo teatral y escénico, su posible efecto y una pregunta antes de probar. |
+| Modelado | 20 min | Realiza una prueba parcial para explorar cuerpo, gesto y voz: Interpretación teatral para un público específico; cambia una variable teatral y escénico, compara el efecto y aborda «evaluar exposición y no decisión escénica» sin imponer una solución estética. |
+| Práctica guiada | 25 min | En grupos pequeños producen dos versiones de interpretación teatral para un público específico; reciben retroalimentación descriptiva y cada autor o intérprete decide qué revisar. |
+| Desempeño individual | 25 min | Cada estudiante crea, interpreta o analiza una respuesta propia para explorar cuerpo, gesto y voz: Interpretación teatral para un público específico; registra decisión, prueba, efecto y revisión. |
+| Cierre | 10 min | Muestra o describe una decisión teatral y escénico, localiza su evidencia y explica qué conservaría o cambiaría. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño.
 
-### Clase 2 de 6: Comprender y modelar {#cl-12963}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Consigna exacta:** Para «explorar cuerpo, gesto y voz: interpretación teatral para un público específico», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la construcción de personajes y situaciones dramáticas elementos del lenguaje teatral, habilidades actorales, recursos de la puesta en escena, medios y tecnologías actuales, y considerando un público específico». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Referencia para modelar y corregir:** La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Pauta de evaluación de cuatro niveles:**
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
-### Clase 3 de 6: Practicar con apoyo {#cl-12964}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la construcción de personajes y situaciones dramáticas elementos del lenguaje teatral, habilidades actorales, recursos de la puesta en escena, medios y tecnologías actuales, y considerando un público específico». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Apoyo en el mismo OA:** Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Profundización:** Cambia material, energía, estilo, audiencia, espacio o medio y conserva el propósito mediante otra decisión. Realiza la transferencia con menor andamiaje y justifica qué apoyo ya no resulta necesario.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Evidencia:** Producción, interpretación o análisis individual de «explorar cuerpo, gesto y voz: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
 
-### Clase 4 de 6: Aplicar con autonomía {#cl-12965}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Criterios de éxito:** desarrolla «explorar cuerpo, gesto y voz: interpretación teatral para un público específico» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la construcción de personajes y situaciones dramáticas elementos del lenguaje teatral, habilidades actorales, recursos de la puesta en escena, medios y tecnologías actuales, y considerando un público específico». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: evaluar exposición y no decisión escénica.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
 
-### Clase 5 de 6: Contrastar y profundizar {#cl-12966}
-**Foco:** comparar alternativas y examinar casos límite. **Meta para estudiantes:** hoy voy a trabajar «interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Control de dificultades en el aula**
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la construcción de personajes y situaciones dramáticas elementos del lenguaje teatral, habilidades actorales, recursos de la puesta en escena, medios y tecnologías actuales, y considerando un público específico». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Evaluar exposición y no decisión escénica | Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Clase 2 de 6: Construir situación y personaje: Interpretación teatral para un público específico {#cl-12963}
+**Estado editorial:** Desarrollada con contenido específico.
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Propósito docente:** Enseñar interpretación teatral para un público específico a través de construir situación y personaje: Interpretación teatral para un público específico, con una experiencia disciplinar específica, segura y revisable.
 
-### Clase 6 de 6: Demostrar y retroalimentar {#cl-12967}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…» y demostrarlo mediante creación artística acompañada de decisiones explicadas.
+**Meta para estudiantes:** Hoy voy a construir situación y personaje: Interpretación teatral para un público específico; justificaré una decisión con evidencia y reconoceré sus límites; trabajaré con autonomía y explicitaré los límites de mi respuesta.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la construcción de personajes y situaciones dramáticas elementos del lenguaje teatral, habilidades actorales, recursos de la puesta en escena, medios y tecnologías actuales, y considerando un público específico». Hace visible el uso de elementos, técnica, materialidad, intención, contexto, proceso y apreciación y contrasta un ejemplo logrado con el error: copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. |
-| Práctica guiada | 25 min | Construyen juntos creación artística acompañada de decisiones explicadas. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce creación artística acompañada de decisiones explicadas sobre **interpretar obras teatrales, que expresen los temas de interés de los estudiantes, utilizando para la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico con autoría y contexto. Cada estudiante identifica un rasgo teatral y escénico, su posible efecto y una pregunta antes de probar. |
+| Modelado | 20 min | Realiza una prueba parcial para construir situación y personaje: Interpretación teatral para un público específico; cambia una variable teatral y escénico, compara el efecto y aborda «evaluar exposición y no decisión escénica» sin imponer una solución estética. |
+| Práctica guiada | 25 min | En grupos pequeños producen dos versiones de interpretación teatral para un público específico; reciben retroalimentación descriptiva y cada autor o intérprete decide qué revisar. |
+| Desempeño individual | 25 min | Cada estudiante crea, interpreta o analiza una respuesta propia para construir situación y personaje: Interpretación teatral para un público específico; registra decisión, prueba, efecto y revisión. |
+| Cierre | 10 min | Muestra o describe una decisión teatral y escénico, localiza su evidencia y explica qué conservaría o cambiaría. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** copiar un modelo sin tomar decisiones; confundir preferencia con apreciación fundamentada. **Evidencia:** creación artística acompañada de decisiones explicadas que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño.
+
+**Consigna exacta:** Para «construir situación y personaje: interpretación teatral para un público específico», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.
+
+**Referencia para modelar y corregir:** La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición.
+
+**Profundización:** Cambia material, energía, estilo, audiencia, espacio o medio y conserva el propósito mediante otra decisión. Realiza la transferencia con menor andamiaje y justifica qué apoyo ya no resulta necesario.
+
+**Evidencia:** Producción, interpretación o análisis individual de «construir situación y personaje: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
+
+**Criterios de éxito:** desarrolla «construir situación y personaje: interpretación teatral para un público específico» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: evaluar exposición y no decisión escénica.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Evaluar exposición y no decisión escénica | Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+### Clase 3 de 6: Ensayar decisiones escénicas: Interpretación teatral para un público específico {#cl-12964}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar interpretación teatral para un público específico a través de ensayar decisiones escénicas: Interpretación teatral para un público específico, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a ensayar decisiones escénicas: Interpretación teatral para un público específico; justificaré una decisión con evidencia y reconoceré sus límites; trabajaré con autonomía y explicitaré los límites de mi respuesta.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico con autoría y contexto. Cada estudiante identifica un rasgo teatral y escénico, su posible efecto y una pregunta antes de probar. |
+| Modelado | 20 min | Realiza una prueba parcial para ensayar decisiones escénicas: Interpretación teatral para un público específico; cambia una variable teatral y escénico, compara el efecto y aborda «evaluar exposición y no decisión escénica» sin imponer una solución estética. |
+| Práctica guiada | 25 min | En grupos pequeños producen dos versiones de interpretación teatral para un público específico; reciben retroalimentación descriptiva y cada autor o intérprete decide qué revisar. |
+| Desempeño individual | 25 min | Cada estudiante crea, interpreta o analiza una respuesta propia para ensayar decisiones escénicas: Interpretación teatral para un público específico; registra decisión, prueba, efecto y revisión. |
+| Cierre | 10 min | Muestra o describe una decisión teatral y escénico, localiza su evidencia y explica qué conservaría o cambiaría. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño.
+
+**Consigna exacta:** Para «ensayar decisiones escénicas: interpretación teatral para un público específico», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.
+
+**Referencia para modelar y corregir:** La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición.
+
+**Profundización:** Cambia material, energía, estilo, audiencia, espacio o medio y conserva el propósito mediante otra decisión. Realiza la transferencia con menor andamiaje y justifica qué apoyo ya no resulta necesario.
+
+**Evidencia:** Producción, interpretación o análisis individual de «ensayar decisiones escénicas: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
+
+**Criterios de éxito:** desarrolla «ensayar decisiones escénicas: interpretación teatral para un público específico» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: evaluar exposición y no decisión escénica.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Evaluar exposición y no decisión escénica | Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+### Clase 4 de 6: Interpretar propósito y contexto: Interpretación teatral para un público específico {#cl-12965}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar interpretación teatral para un público específico a través de interpretar propósito y contexto: Interpretación teatral para un público específico, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a interpretar propósito y contexto: Interpretación teatral para un público específico; justificaré una decisión con evidencia y reconoceré sus límites; trabajaré con autonomía y explicitaré los límites de mi respuesta.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico con autoría y contexto. Cada estudiante identifica un rasgo teatral y escénico, su posible efecto y una pregunta antes de probar. |
+| Modelado | 20 min | Realiza una prueba parcial para interpretar propósito y contexto: Interpretación teatral para un público específico; cambia una variable teatral y escénico, compara el efecto y aborda «evaluar exposición y no decisión escénica» sin imponer una solución estética. |
+| Práctica guiada | 25 min | En grupos pequeños producen dos versiones de interpretación teatral para un público específico; reciben retroalimentación descriptiva y cada autor o intérprete decide qué revisar. |
+| Desempeño individual | 25 min | Cada estudiante crea, interpreta o analiza una respuesta propia para interpretar propósito y contexto: Interpretación teatral para un público específico; registra decisión, prueba, efecto y revisión. |
+| Cierre | 10 min | Muestra o describe una decisión teatral y escénico, localiza su evidencia y explica qué conservaría o cambiaría. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño.
+
+**Consigna exacta:** Para «interpretar propósito y contexto: interpretación teatral para un público específico», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.
+
+**Referencia para modelar y corregir:** La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición.
+
+**Profundización:** Cambia material, energía, estilo, audiencia, espacio o medio y conserva el propósito mediante otra decisión. Realiza la transferencia con menor andamiaje y justifica qué apoyo ya no resulta necesario.
+
+**Evidencia:** Producción, interpretación o análisis individual de «interpretar propósito y contexto: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
+
+**Criterios de éxito:** desarrolla «interpretar propósito y contexto: interpretación teatral para un público específico» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: evaluar exposición y no decisión escénica.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Evaluar exposición y no decisión escénica | Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+### Clase 5 de 6: Evaluar y revisar: Interpretación teatral para un público específico {#cl-12966}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar interpretación teatral para un público específico a través de evaluar y revisar: Interpretación teatral para un público específico, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a evaluar y revisar: Interpretación teatral para un público específico; justificaré una decisión con evidencia y reconoceré sus límites; trabajaré con autonomía y explicitaré los límites de mi respuesta.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico con autoría y contexto. Cada estudiante identifica un rasgo teatral y escénico, su posible efecto y una pregunta antes de probar. |
+| Modelado | 20 min | Realiza una prueba parcial para evaluar y revisar: Interpretación teatral para un público específico; cambia una variable teatral y escénico, compara el efecto y aborda «evaluar exposición y no decisión escénica» sin imponer una solución estética. |
+| Práctica guiada | 25 min | En grupos pequeños producen dos versiones de interpretación teatral para un público específico; reciben retroalimentación descriptiva y cada autor o intérprete decide qué revisar. |
+| Desempeño individual | 25 min | Cada estudiante crea, interpreta o analiza una respuesta propia para evaluar y revisar: Interpretación teatral para un público específico; registra decisión, prueba, efecto y revisión. |
+| Cierre | 10 min | Muestra o describe una decisión teatral y escénico, localiza su evidencia y explica qué conservaría o cambiaría. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño.
+
+**Consigna exacta:** Para «evaluar y revisar: interpretación teatral para un público específico», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.
+
+**Referencia para modelar y corregir:** La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición.
+
+**Profundización:** Cambia material, energía, estilo, audiencia, espacio o medio y conserva el propósito mediante otra decisión. Realiza la transferencia con menor andamiaje y justifica qué apoyo ya no resulta necesario.
+
+**Evidencia:** Producción, interpretación o análisis individual de «evaluar y revisar: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
+
+**Criterios de éxito:** desarrolla «evaluar y revisar: interpretación teatral para un público específico» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: evaluar exposición y no decisión escénica.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Evaluar exposición y no decisión escénica | Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+### Clase 6 de 6: Presentar o difundir con consentimiento: Interpretación teatral para un público específico {#cl-12967}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar interpretación teatral para un público específico a través de presentar o difundir con consentimiento: Interpretación teatral para un público específico, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a presentar o difundir con consentimiento: Interpretación teatral para un público específico; justificaré una decisión con evidencia y reconoceré sus límites; trabajaré con autonomía y explicitaré los límites de mi respuesta.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico con autoría y contexto. Cada estudiante identifica un rasgo teatral y escénico, su posible efecto y una pregunta antes de probar. |
+| Modelado | 20 min | Realiza una prueba parcial para presentar o difundir con consentimiento: Interpretación teatral para un público específico; cambia una variable teatral y escénico, compara el efecto y aborda «evaluar exposición y no decisión escénica» sin imponer una solución estética. |
+| Práctica guiada | 25 min | En grupos pequeños producen dos versiones de interpretación teatral para un público específico; reciben retroalimentación descriptiva y cada autor o intérprete decide qué revisar. |
+| Desempeño individual | 25 min | Cada estudiante crea, interpreta o analiza una respuesta propia para presentar o difundir con consentimiento: Interpretación teatral para un público específico; registra decisión, prueba, efecto y revisión. |
+| Cierre | 10 min | Muestra o describe una decisión teatral y escénico, localiza su evidencia y explica qué conservaría o cambiaría. |
+
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre interpretación teatral para un público específico; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño.
+
+**Consigna exacta:** Para «presentar o difundir con consentimiento: interpretación teatral para un público específico», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.
+
+**Referencia para modelar y corregir:** La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición.
+
+**Profundización:** Cambia material, energía, estilo, audiencia, espacio o medio y conserva el propósito mediante otra decisión. Realiza la transferencia con menor andamiaje y justifica qué apoyo ya no resulta necesario.
+
+**Evidencia:** Producción, interpretación o análisis individual de «presentar o difundir con consentimiento: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
+
+**Criterios de éxito:** desarrolla «presentar o difundir con consentimiento: interpretación teatral para un público específico» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: evaluar exposición y no decisión escénica.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Evaluar exposición y no decisión escénica | Ofrece herramientas, roles, escalas y vías sensoriales o expresivas equivalentes; permite ensayo privado y nunca completa la obra ni fuerza exposición. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

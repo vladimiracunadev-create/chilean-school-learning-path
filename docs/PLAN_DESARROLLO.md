@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 3° medio — siguiente nivel por desarrollar · **Asignatura activa:** Por definir · **Unidad de entrega:** una asignatura completa
+**Nivel activo:** 4° medio — desarrollo interno completo · **Asignatura activa:** Ninguna · **Unidad de entrega:** una asignatura completa
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -20,7 +20,7 @@ flowchart LR
     H --> I[Declarar revisada]
 ~~~
 
-## Definición y orden editorial de 1° básico a 2° medio
+## Definición y orden editorial de 1° básico a 4° medio
 
 | Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |
 |---|---:|---|---:|---:|---:|---|
@@ -138,6 +138,41 @@ flowchart LR
 | 2° medio | 9 | Tecnología | 6 | 28 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 2° medio | 10 | Inglés | 16 | 81 | 5 | Desarrollo interno completo · revisión humana pendiente |
 | 2° medio | 11 | Inglés (Propuesta) | 13 | 66 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 1 | Música | 7 | 34 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 2 | Ambiente y sostenibilidad | 3 | 16 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 3 | Artes visuales | 7 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 4 | Bienestar y salud | 3 | 17 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 5 | Chile y la región latinoamericana | 7 | 36 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 6 | Danza | 6 | 28 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 7 | Educación ciudadana 3° medio | 8 | 37 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 8 | Educación física y salud 1 | 5 | 24 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 9 | Educación física y salud 2 | 5 | 25 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 10 | Filosofía 3° medio | 6 | 25 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 11 | Filosofía 4º medio | 5 | 24 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 12 | Inglés 3º medio | 4 | 18 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 13 | Lengua y literatura 3º medio | 9 | 59 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 14 | Matemática 3º medio | 4 | 17 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 15 | Mundo global | 7 | 36 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 16 | Seguridad, prevención y autocuidado | 3 | 18 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 17 | Teatro | 6 | 31 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 3° medio · Formación General | 18 | Tecnología y sociedad | 3 | 15 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 1 | Música | 7 | 34 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 2 | Ambiente y sostenibilidad | 3 | 16 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 3 | Artes visuales | 7 | 35 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 4 | Bienestar y salud | 3 | 17 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 5 | Chile y la región latinoamericana | 7 | 36 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 6 | Danza | 6 | 28 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 7 | Educación ciudadana 4° medio | 8 | 39 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 8 | Educación física y salud 1 | 5 | 24 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 9 | Educación física y salud 2 | 5 | 25 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 10 | Filosofía 4º medio | 5 | 24 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 11 | Inglés 4º medio | 4 | 18 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 12 | Lengua y literatura 4º medio | 8 | 53 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 13 | Matemática 4º medio | 4 | 17 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 14 | Mundo global | 7 | 36 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 15 | Seguridad, prevención y autocuidado | 3 | 18 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 16 | Teatro | 6 | 31 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 4° medio · Formación General | 17 | Tecnología y sociedad | 3 | 15 | 0 | Desarrollo interno completo · revisión humana pendiente |
 
 ## Plan por asignatura e ítem
 
@@ -2581,6 +2616,440 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
+### Música · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-MUSI-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-01) |
+| `FG-MUSI-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-02) |
+| `FG-MUSI-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-03) |
+| `FG-MUSI-3y4-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-04) |
+| `FG-MUSI-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-05) |
+| `FG-MUSI-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-06) |
+| `FG-MUSI-3y4-OAC-07` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/3-medio-fg/fg-musi-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Ambiente y sostenibilidad · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CIAS-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/3-medio-fg/fg-cias-3y4-oac-01) |
+| `FG-CIAS-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/3-medio-fg/fg-cias-3y4-oac-02) |
+| `FG-CIAS-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/3-medio-fg/fg-cias-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Artes visuales · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-ARTE-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-01) |
+| `FG-ARTE-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-02) |
+| `FG-ARTE-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-03) |
+| `FG-ARTE-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-04) |
+| `FG-ARTE-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-05) |
+| `FG-ARTE-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-06) |
+| `FG-ARTE-3y4-OAC-07` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Bienestar y salud · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CIBS-3y4-OAC-01` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/3-medio-fg/fg-cibs-3y4-oac-01) |
+| `FG-CIBS-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/3-medio-fg/fg-cibs-3y4-oac-02) |
+| `FG-CIBS-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/3-medio-fg/fg-cibs-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Chile y la región latinoamericana · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CHLA-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-01) |
+| `FG-CHLA-3y4-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-02) |
+| `FG-CHLA-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-03) |
+| `FG-CHLA-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-04) |
+| `FG-CHLA-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-05) |
+| `FG-CHLA-3y4-OAC-06` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-06) |
+| `FG-CHLA-3y4-OAC-07` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/3-medio-fg/fg-chla-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Danza · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-DANZ-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/3-medio-fg/fg-danz-3y4-oac-01) |
+| `FG-DANZ-3y4-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/3-medio-fg/fg-danz-3y4-oac-02) |
+| `FG-DANZ-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/3-medio-fg/fg-danz-3y4-oac-03) |
+| `FG-DANZ-3y4-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/3-medio-fg/fg-danz-3y4-oac-04) |
+| `FG-DANZ-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/3-medio-fg/fg-danz-3y4-oac-05) |
+| `FG-DANZ-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/3-medio-fg/fg-danz-3y4-oac-06) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Educación ciudadana 3° medio · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-ECIU-3M-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-01) |
+| `FG-ECIU-3M-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-02) |
+| `FG-ECIU-3M-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-03) |
+| `FG-ECIU-3M-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-04) |
+| `FG-ECIU-3M-OAC-05` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-05) |
+| `FG-ECIU-3M-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-06) |
+| `FG-ECIU-3M-OAC-07` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-07) |
+| `FG-ECIU-3M-OAC-08` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-08) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Educación física y salud 1 · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-EFS1-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/3-medio-fg/fg-efs1-3y4-oac-01) |
+| `FG-EFS1-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/3-medio-fg/fg-efs1-3y4-oac-02) |
+| `FG-EFS1-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/3-medio-fg/fg-efs1-3y4-oac-03) |
+| `FG-EFS1-3y4-OAC-04` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/3-medio-fg/fg-efs1-3y4-oac-04) |
+| `FG-EFS1-3y4-OAC-05` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/3-medio-fg/fg-efs1-3y4-oac-05) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Educación física y salud 2 · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-EFS2-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-01) |
+| `FG-EFS2-3y4-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-02) |
+| `FG-EFS2-3y4-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-03) |
+| `FG-EFS2-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-04) |
+| `FG-EFS2-3y4-OAC-05` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-05) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Filosofía 3° medio · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-FILO-3M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-01) |
+| `FG-FILO-3M-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-02) |
+| `FG-FILO-3M-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-03) |
+| `FG-FILO-3M-OAC-04` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-04) |
+| `FG-FILO-3M-OAC-05` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-05) |
+| `FG-FILO-3M-OAC-06` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-06) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Filosofía 4º medio · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-FILO-4M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-01) |
+| `FG-FILO-4M-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-02) |
+| `FG-FILO-4M-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-03) |
+| `FG-FILO-4M-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-04) |
+| `FG-FILO-4M-OAC-05` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-05) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Inglés 3º medio · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-INGL-3M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-01) |
+| `FG-INGL-3M-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-02) |
+| `FG-INGL-3M-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-03) |
+| `FG-INGL-3M-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-04) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Lengua y literatura 3º medio · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-LELI-3M-OAC-01` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-01) |
+| `FG-LELI-3M-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-02) |
+| `FG-LELI-3M-OAC-03` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-03) |
+| `FG-LELI-3M-OAC-04` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-04) |
+| `FG-LELI-3M-OAC-05` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-05) |
+| `FG-LELI-3M-OAC-06` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-06) |
+| `FG-LELI-3M-OAC-07` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-07) |
+| `FG-LELI-3M-OAC-08` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-08) |
+| `FG-LELI-3M-OAC-09` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-3o-medio/3-medio-fg/fg-leli-3m-oac-09) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Matemática 3º medio · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-MATE-3M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-01) |
+| `FG-MATE-3M-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-02) |
+| `FG-MATE-3M-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-03) |
+| `FG-MATE-3M-OAC-04` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-04) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Mundo global · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-MGLO-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-01) |
+| `FG-MGLO-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-02) |
+| `FG-MGLO-3y4-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-03) |
+| `FG-MGLO-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-04) |
+| `FG-MGLO-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-05) |
+| `FG-MGLO-3y4-OAC-06` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-06) |
+| `FG-MGLO-3y4-OAC-07` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/3-medio-fg/fg-mglo-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Seguridad, prevención y autocuidado · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CISA-3y4-OAC-01` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/seguridad-prevencion-autocuidado/3-medio-fg/fg-cisa-3y4-oac-01) |
+| `FG-CISA-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/seguridad-prevencion-autocuidado/3-medio-fg/fg-cisa-3y4-oac-02) |
+| `FG-CISA-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/seguridad-prevencion-autocuidado/3-medio-fg/fg-cisa-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Teatro · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-TEAT-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-01) |
+| `FG-TEAT-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-02) |
+| `FG-TEAT-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-03) |
+| `FG-TEAT-3y4-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-04) |
+| `FG-TEAT-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-05) |
+| `FG-TEAT-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-06) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Tecnología y sociedad · 3° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CITS-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/3-medio-fg/fg-cits-3y4-oac-01) |
+| `FG-CITS-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/3-medio-fg/fg-cits-3y4-oac-02) |
+| `FG-CITS-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/3-medio-fg/fg-cits-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Música · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-MUSI-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-01) |
+| `FG-MUSI-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-02) |
+| `FG-MUSI-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-03) |
+| `FG-MUSI-3y4-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-04) |
+| `FG-MUSI-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-05) |
+| `FG-MUSI-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-06) |
+| `FG-MUSI-3y4-OAC-07` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Ambiente y sostenibilidad · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CIAS-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/4-medio-fg/fg-cias-3y4-oac-01) |
+| `FG-CIAS-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/4-medio-fg/fg-cias-3y4-oac-02) |
+| `FG-CIAS-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/4-medio-fg/fg-cias-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Artes visuales · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-ARTE-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-01) |
+| `FG-ARTE-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-02) |
+| `FG-ARTE-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-03) |
+| `FG-ARTE-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-04) |
+| `FG-ARTE-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-05) |
+| `FG-ARTE-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-06) |
+| `FG-ARTE-3y4-OAC-07` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/4-medio-fg/fg-arte-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Bienestar y salud · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CIBS-3y4-OAC-01` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/4-medio-fg/fg-cibs-3y4-oac-01) |
+| `FG-CIBS-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/4-medio-fg/fg-cibs-3y4-oac-02) |
+| `FG-CIBS-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/4-medio-fg/fg-cibs-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Chile y la región latinoamericana · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CHLA-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-01) |
+| `FG-CHLA-3y4-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-02) |
+| `FG-CHLA-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-03) |
+| `FG-CHLA-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-04) |
+| `FG-CHLA-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-05) |
+| `FG-CHLA-3y4-OAC-06` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-06) |
+| `FG-CHLA-3y4-OAC-07` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Danza · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-DANZ-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-01) |
+| `FG-DANZ-3y4-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-02) |
+| `FG-DANZ-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-03) |
+| `FG-DANZ-3y4-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-04) |
+| `FG-DANZ-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-05) |
+| `FG-DANZ-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-06) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Educación ciudadana 4° medio · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-ECIU-4M-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-01) |
+| `FG-ECIU-4M-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-02) |
+| `FG-ECIU-4M-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-03) |
+| `FG-ECIU-4M-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-04) |
+| `FG-ECIU-4M-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-05) |
+| `FG-ECIU-4M-OAC-06` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-06) |
+| `FG-ECIU-4M-OAC-07` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-07) |
+| `FG-ECIU-4M-OAC-08` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-4-medio/4-medio-fg/fg-eciu-4m-oac-08) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Educación física y salud 1 · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-EFS1-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-01) |
+| `FG-EFS1-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-02) |
+| `FG-EFS1-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-03) |
+| `FG-EFS1-3y4-OAC-04` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-04) |
+| `FG-EFS1-3y4-OAC-05` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-05) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Educación física y salud 2 · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-EFS2-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/4-medio-fg/fg-efs2-3y4-oac-01) |
+| `FG-EFS2-3y4-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/4-medio-fg/fg-efs2-3y4-oac-02) |
+| `FG-EFS2-3y4-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/4-medio-fg/fg-efs2-3y4-oac-03) |
+| `FG-EFS2-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/4-medio-fg/fg-efs2-3y4-oac-04) |
+| `FG-EFS2-3y4-OAC-05` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/4-medio-fg/fg-efs2-3y4-oac-05) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Filosofía 4º medio · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-FILO-4M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/4-medio-fg/fg-filo-4m-oac-01) |
+| `FG-FILO-4M-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/4-medio-fg/fg-filo-4m-oac-02) |
+| `FG-FILO-4M-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/4-medio-fg/fg-filo-4m-oac-03) |
+| `FG-FILO-4M-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/4-medio-fg/fg-filo-4m-oac-04) |
+| `FG-FILO-4M-OAC-05` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/4-medio-fg/fg-filo-4m-oac-05) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Inglés 4º medio · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-INGL-4M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-4o-medio/4-medio-fg/fg-ingl-4m-oac-01) |
+| `FG-INGL-4M-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-4o-medio/4-medio-fg/fg-ingl-4m-oac-02) |
+| `FG-INGL-4M-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-4o-medio/4-medio-fg/fg-ingl-4m-oac-03) |
+| `FG-INGL-4M-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-4o-medio/4-medio-fg/fg-ingl-4m-oac-04) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Lengua y literatura 4º medio · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-LELI-4M-OAC-01` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-01) |
+| `FG-LELI-4M-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-02) |
+| `FG-LELI-4M-OAC-03` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-03) |
+| `FG-LELI-4M-OAC-04` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-04) |
+| `FG-LELI-4M-OAC-05` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-05) |
+| `FG-LELI-4M-OAC-06` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-06) |
+| `FG-LELI-4M-OAC-07` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-07) |
+| `FG-LELI-4M-OAC-08` | Objetivos de aprendizaje | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/lengua-literatura-4o-medio/4-medio-fg/fg-leli-4m-oac-08) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Matemática 4º medio · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-MATE-4M-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-01) |
+| `FG-MATE-4M-OAC-02` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-02) |
+| `FG-MATE-4M-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-03) |
+| `FG-MATE-4M-OAC-04` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-04) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Mundo global · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-MGLO-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-01) |
+| `FG-MGLO-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-02) |
+| `FG-MGLO-3y4-OAC-03` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-03) |
+| `FG-MGLO-3y4-OAC-04` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-04) |
+| `FG-MGLO-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-05) |
+| `FG-MGLO-3y4-OAC-06` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-06) |
+| `FG-MGLO-3y4-OAC-07` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-07) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Seguridad, prevención y autocuidado · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CISA-3y4-OAC-01` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/seguridad-prevencion-autocuidado/4-medio-fg/fg-cisa-3y4-oac-01) |
+| `FG-CISA-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/seguridad-prevencion-autocuidado/4-medio-fg/fg-cisa-3y4-oac-02) |
+| `FG-CISA-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/seguridad-prevencion-autocuidado/4-medio-fg/fg-cisa-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Teatro · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-TEAT-3y4-OAC-01` | Objetivos de aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-01) |
+| `FG-TEAT-3y4-OAC-02` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-02) |
+| `FG-TEAT-3y4-OAC-03` | Objetivos de aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-03) |
+| `FG-TEAT-3y4-OAC-04` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-04) |
+| `FG-TEAT-3y4-OAC-05` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-05) |
+| `FG-TEAT-3y4-OAC-06` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/4-medio-fg/fg-teat-3y4-oac-06) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Tecnología y sociedad · 4° medio · Formación General
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `FG-CITS-3y4-OAC-01` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/4-medio-fg/fg-cits-3y4-oac-01) |
+| `FG-CITS-3y4-OAC-02` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/4-medio-fg/fg-cits-3y4-oac-02) |
+| `FG-CITS-3y4-OAC-03` | Objetivos de aprendizaje | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/4-medio-fg/fg-cits-3y4-oac-03) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
 ## Controles profesionales
 
 | Control | Estado | Evidencia exigida |
@@ -2589,12 +3058,12 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo desde 1 basico hasta 2 medio | Todas las asignaturas inventariadas desde 1° básico hasta 2° medio registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; la revisión profesional permanece separada y pendiente |
+| Documental y fuentes | control interno completo hasta 4 medio | Todas las asignaturas inventariadas desde 1° básico hasta 4° medio registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; la revisión profesional permanece separada y pendiente |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates del desarrollo interno
 
-Estos controles están cerrados para todas las asignaturas inventariadas desde 1° básico hasta 2° medio. La revisión profesional permanece como un estado posterior e independiente; 3° medio es el siguiente nivel por desarrollar.
+Estos controles están cerrados para todas las asignaturas inventariadas desde 1° básico hasta 4° medio. La revisión profesional permanece como un estado posterior e independiente.
 
 - [x] Todos los OA disciplinares tienen secuencias específicas y completas.
 - [x] Habilidades y actitudes están mapeadas dentro de las clases y no se contabilizan como clases independientes.

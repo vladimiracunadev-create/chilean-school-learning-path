@@ -7,8 +7,10 @@ Fecha: 2026-09-30
 - 12.997 clases con código único y ancla web estable.
 - 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
-- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio y 744 de 2° medio: 7.880 desarrolladas en total; 4.156 experiencias transversales integradas y 0 revisiones humanas registradas.
-- Desde 1° básico hasta 2° medio completos, con 0 propuestas pendientes dentro de esos diez niveles.
+- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio: 8.841 desarrolladas en total; 4.156 experiencias transversales integradas y 0 revisiones humanas registradas.
+- Desde 1° básico hasta 4° medio completos internamente, con 0 propuestas pendientes dentro de los doce niveles.
+- 3° medio completo internamente: 98 OA y 495 clases en dieciocho denominaciones, con fuentes oficiales y criterios pedagógicos internos rotulados.
+- 4° medio completo internamente: 91 OA y 466 clases en diecisiete denominaciones, con fuentes oficiales y criterios pedagógicos internos rotulados.
 - 8° básico completo en doce denominaciones curriculares, con 771 clases y 430 experiencias integradas.
 - Las once denominaciones de 1° medio están completas, con 753 clases y 456 experiencias integradas; no quedan propuestas secuenciadas ni borradores en el nivel.
 - Las once denominaciones de 2° medio están completas, con 744 clases y 456 experiencias integradas; el nivel conserva 0 propuestas secuenciadas.

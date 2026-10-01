@@ -1,4 +1,4 @@
-# FG-INGL-4M-OAC-02 — Producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…
+# FG-INGL-4M-OAC-02 — Clear texts, critical stance and respect for other positions
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 4° medio · Formación General | Inglés 4º medio | Objetivos de aprendizaje | formacion-general-comun | 5 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Clear texts, critical stance and respect for other positions recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «memorize without adapting to purpose».
+
+**Antes de comenzar.** Consolida la comunicación de 3° medio mediante selección autónoma de evidencia, adaptación a audiencia y revisión estratégica del significado.
+
+**Vocabulario explícito:** purpose, audience, central information, evidence, viewpoint, stance, interaction, fluency, repair, identity.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Activate purpose and prior knowledge: Clear texts, critical stance and respect for other positions.
+- Notice central meaning and clues: Clear texts, critical stance and respect for other positions.
+- Rehearse useful language: Clear texts, critical stance and respect for other positions.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-4o-medio/4-medio-fg/fg-ingl-4m-oac-02)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,90 +41,395 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-12780}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…» y demostrarlo mediante desempeño comunicativo comprensible.
+### Clase 1 de 5: Activate purpose and prior knowledge: Clear texts, critical stance and respect for other positions {#cl-12780}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students activate purpose and prior knowledge: Clear texts, critical stance and respect for other positions through meaningful English, evidence from the input and purposeful revision.
+
+**Meta para estudiantes:** Today I will activate purpose and prior knowledge: Clear texts, critical stance and respect for other positions; I will use evidence, communicate for a purpose and revise meaning when needed; I will work independently and state the limits of my response.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes, con el fin de expresar una postura personal crítica que respeta otras posturas». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Present a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions once. Students identify purpose, central meaning and one clue before translating or preparing a full response. |
+| Modelado | 20 min | Think aloud in accessible English to activate purpose and prior knowledge: Clear texts, critical stance and respect for other positions. Use an exact clue, useful language and context; address the misconception: memorize without adapting to purpose. |
+| Práctica guiada | 25 min | Pairs complete an information-gap or comparison about clear texts, critical stance and respect for other positions, ask for clarification and revise one part for meaning and audience. |
+| Desempeño individual | 25 min | Each student completes a new task to activate purpose and prior knowledge: Clear texts, critical stance and respect for other positions; they select support, communicate a position and repair meaning after checking the input. |
+| Cierre | 10 min | Give a short response for today's purpose and identify the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions; visible language support, planning grid and an offline alternative. Check attribution, accessibility and privacy.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Two original 180-word texts on one relevant issue—one narrative or literary and one informational—with headings, paragraph numbers, image captions and an essential glossary.
 
-### Clase 2 de 5: Comprender y modelar {#cl-12781}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “activate purpose and prior knowledge: clear texts, critical stance and respect for other positions”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction.
+
+**Profundización:** Change speaker, worldview, audience or purpose and adapt language while preserving the central message. Complete the transfer with less scaffolding and justify which support is no longer necessary.
+
+**Evidencia:** Comprehensible individual response for «activate purpose and prior knowledge: clear texts, critical stance and respect for other positions» with input evidence, purposeful language and revision.
+
+**Criterios de éxito:** completes «activate purpose and prior knowledge: clear texts, critical stance and respect for other positions» for the stated purpose; uses precise evidence or language from the input; communicates comprehensibly and revises one decision.
+
+**Decisión posterior:** Move on when purpose, evidence and message align; otherwise change access, model another example and collect new evidence without labelling the learner.
+
+**Adaptación a 45 minutos:** Keep the specific input, brief modelling, guided rehearsal, individual evidence and exit response; reduce length or turns, not the communicative demand.
+
+**Tarea breve y flexible:** Observe or create a short, safe example using available resources. No purchase, account, internet access or disclosure of personal information is required.
+
+**Actividades complementarias (opcionales):**
+- Recovery: reduce input length or available choices, then return to the complete communicative task.
+- Error analysis: revise a fictional response that shows this misconception: memorize without adapting to purpose.
+- Transfer: change audience, viewpoint, mode or purpose and adapt the message.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responds before examining the input | Ask the learner to locate one exact clue before choosing or composing a response. | The new response cites a relevant clue. |
+| Memorize without adapting to purpose | Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction. | The learner completes a new task without repeating the misconception and explains the change. |
+| Completes the task but cannot justify a language choice | Ask for a comparison with one alternative and the clue that decided between them. | The explanation makes the communicative decision visible and revisable. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible y culturalmente situado; los apoyos facilitan acceso sin sustituir la intención comunicativa.
+
+### Clase 2 de 5: Notice central meaning and clues: Clear texts, critical stance and respect for other positions {#cl-12781}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students notice central meaning and clues: Clear texts, critical stance and respect for other positions through meaningful English, evidence from the input and purposeful revision.
+
+**Meta para estudiantes:** Today I will notice central meaning and clues: Clear texts, critical stance and respect for other positions; I will use evidence, communicate for a purpose and revise meaning when needed; I will work independently and state the limits of my response.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes, con el fin de expresar una postura personal crítica que respeta otras posturas». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Present a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions once. Students identify purpose, central meaning and one clue before translating or preparing a full response. |
+| Modelado | 20 min | Think aloud in accessible English to notice central meaning and clues: Clear texts, critical stance and respect for other positions. Use an exact clue, useful language and context; address the misconception: memorize without adapting to purpose. |
+| Práctica guiada | 25 min | Pairs complete an information-gap or comparison about clear texts, critical stance and respect for other positions, ask for clarification and revise one part for meaning and audience. |
+| Desempeño individual | 25 min | Each student completes a new task to notice central meaning and clues: Clear texts, critical stance and respect for other positions; they select support, communicate a position and repair meaning after checking the input. |
+| Cierre | 10 min | Give a short response for today's purpose and identify the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions; visible language support, planning grid and an offline alternative. Check attribution, accessibility and privacy.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Two original 180-word texts on one relevant issue—one narrative or literary and one informational—with headings, paragraph numbers, image captions and an essential glossary.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-12782}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “notice central meaning and clues: clear texts, critical stance and respect for other positions”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction.
+
+**Profundización:** Change speaker, worldview, audience or purpose and adapt language while preserving the central message. Complete the transfer with less scaffolding and justify which support is no longer necessary.
+
+**Evidencia:** Comprehensible individual response for «notice central meaning and clues: clear texts, critical stance and respect for other positions» with input evidence, purposeful language and revision.
+
+**Criterios de éxito:** completes «notice central meaning and clues: clear texts, critical stance and respect for other positions» for the stated purpose; uses precise evidence or language from the input; communicates comprehensibly and revises one decision.
+
+**Decisión posterior:** Move on when purpose, evidence and message align; otherwise change access, model another example and collect new evidence without labelling the learner.
+
+**Adaptación a 45 minutos:** Keep the specific input, brief modelling, guided rehearsal, individual evidence and exit response; reduce length or turns, not the communicative demand.
+
+**Tarea breve y flexible:** Observe or create a short, safe example using available resources. No purchase, account, internet access or disclosure of personal information is required.
+
+**Actividades complementarias (opcionales):**
+- Recovery: reduce input length or available choices, then return to the complete communicative task.
+- Error analysis: revise a fictional response that shows this misconception: memorize without adapting to purpose.
+- Transfer: change audience, viewpoint, mode or purpose and adapt the message.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responds before examining the input | Ask the learner to locate one exact clue before choosing or composing a response. | The new response cites a relevant clue. |
+| Memorize without adapting to purpose | Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction. | The learner completes a new task without repeating the misconception and explains the change. |
+| Completes the task but cannot justify a language choice | Ask for a comparison with one alternative and the clue that decided between them. | The explanation makes the communicative decision visible and revisable. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible y culturalmente situado; los apoyos facilitan acceso sin sustituir la intención comunicativa.
+
+### Clase 3 de 5: Rehearse useful language: Clear texts, critical stance and respect for other positions {#cl-12782}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students rehearse useful language: Clear texts, critical stance and respect for other positions through meaningful English, evidence from the input and purposeful revision.
+
+**Meta para estudiantes:** Today I will rehearse useful language: Clear texts, critical stance and respect for other positions; I will use evidence, communicate for a purpose and revise meaning when needed; I will work independently and state the limits of my response.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes, con el fin de expresar una postura personal crítica que respeta otras posturas». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Present a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions once. Students identify purpose, central meaning and one clue before translating or preparing a full response. |
+| Modelado | 20 min | Think aloud in accessible English to rehearse useful language: Clear texts, critical stance and respect for other positions. Use an exact clue, useful language and context; address the misconception: memorize without adapting to purpose. |
+| Práctica guiada | 25 min | Pairs complete an information-gap or comparison about clear texts, critical stance and respect for other positions, ask for clarification and revise one part for meaning and audience. |
+| Desempeño individual | 25 min | Each student completes a new task to rehearse useful language: Clear texts, critical stance and respect for other positions; they select support, communicate a position and repair meaning after checking the input. |
+| Cierre | 10 min | Give a short response for today's purpose and identify the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions; visible language support, planning grid and an offline alternative. Check attribution, accessibility and privacy.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Two original 180-word texts on one relevant issue—one narrative or literary and one informational—with headings, paragraph numbers, image captions and an essential glossary.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-12783}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “rehearse useful language: clear texts, critical stance and respect for other positions”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction.
+
+**Profundización:** Change speaker, worldview, audience or purpose and adapt language while preserving the central message. Complete the transfer with less scaffolding and justify which support is no longer necessary.
+
+**Evidencia:** Comprehensible individual response for «rehearse useful language: clear texts, critical stance and respect for other positions» with input evidence, purposeful language and revision.
+
+**Criterios de éxito:** completes «rehearse useful language: clear texts, critical stance and respect for other positions» for the stated purpose; uses precise evidence or language from the input; communicates comprehensibly and revises one decision.
+
+**Decisión posterior:** Move on when purpose, evidence and message align; otherwise change access, model another example and collect new evidence without labelling the learner.
+
+**Adaptación a 45 minutos:** Keep the specific input, brief modelling, guided rehearsal, individual evidence and exit response; reduce length or turns, not the communicative demand.
+
+**Tarea breve y flexible:** Observe or create a short, safe example using available resources. No purchase, account, internet access or disclosure of personal information is required.
+
+**Actividades complementarias (opcionales):**
+- Recovery: reduce input length or available choices, then return to the complete communicative task.
+- Error analysis: revise a fictional response that shows this misconception: memorize without adapting to purpose.
+- Transfer: change audience, viewpoint, mode or purpose and adapt the message.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responds before examining the input | Ask the learner to locate one exact clue before choosing or composing a response. | The new response cites a relevant clue. |
+| Memorize without adapting to purpose | Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction. | The learner completes a new task without repeating the misconception and explains the change. |
+| Completes the task but cannot justify a language choice | Ask for a comparison with one alternative and the clue that decided between them. | The explanation makes the communicative decision visible and revisable. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible y culturalmente situado; los apoyos facilitan acceso sin sustituir la intención comunicativa.
+
+### Clase 4 de 5: Communicate a critical position: Clear texts, critical stance and respect for other positions {#cl-12783}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students communicate a critical position: Clear texts, critical stance and respect for other positions through meaningful English, evidence from the input and purposeful revision.
+
+**Meta para estudiantes:** Today I will communicate a critical position: Clear texts, critical stance and respect for other positions; I will use evidence, communicate for a purpose and revise meaning when needed; I will work independently and state the limits of my response.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes, con el fin de expresar una postura personal crítica que respeta otras posturas». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Present a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions once. Students identify purpose, central meaning and one clue before translating or preparing a full response. |
+| Modelado | 20 min | Think aloud in accessible English to communicate a critical position: Clear texts, critical stance and respect for other positions. Use an exact clue, useful language and context; address the misconception: memorize without adapting to purpose. |
+| Práctica guiada | 25 min | Pairs complete an information-gap or comparison about clear texts, critical stance and respect for other positions, ask for clarification and revise one part for meaning and audience. |
+| Desempeño individual | 25 min | Each student completes a new task to communicate a critical position: Clear texts, critical stance and respect for other positions; they select support, communicate a position and repair meaning after checking the input. |
+| Cierre | 10 min | Give a short response for today's purpose and identify the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions; visible language support, planning grid and an offline alternative. Check attribution, accessibility and privacy.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Two original 180-word texts on one relevant issue—one narrative or literary and one informational—with headings, paragraph numbers, image captions and an essential glossary.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-12784}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “communicate a critical position: clear texts, critical stance and respect for other positions”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction.
+
+**Profundización:** Change speaker, worldview, audience or purpose and adapt language while preserving the central message. Complete the transfer with less scaffolding and justify which support is no longer necessary.
+
+**Evidencia:** Comprehensible individual response for «communicate a critical position: clear texts, critical stance and respect for other positions» with input evidence, purposeful language and revision.
+
+**Criterios de éxito:** completes «communicate a critical position: clear texts, critical stance and respect for other positions» for the stated purpose; uses precise evidence or language from the input; communicates comprehensibly and revises one decision.
+
+**Decisión posterior:** Move on when purpose, evidence and message align; otherwise change access, model another example and collect new evidence without labelling the learner.
+
+**Adaptación a 45 minutos:** Keep the specific input, brief modelling, guided rehearsal, individual evidence and exit response; reduce length or turns, not the communicative demand.
+
+**Tarea breve y flexible:** Observe or create a short, safe example using available resources. No purchase, account, internet access or disclosure of personal information is required.
+
+**Actividades complementarias (opcionales):**
+- Recovery: reduce input length or available choices, then return to the complete communicative task.
+- Error analysis: revise a fictional response that shows this misconception: memorize without adapting to purpose.
+- Transfer: change audience, viewpoint, mode or purpose and adapt the message.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responds before examining the input | Ask the learner to locate one exact clue before choosing or composing a response. | The new response cites a relevant clue. |
+| Memorize without adapting to purpose | Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction. | The learner completes a new task without repeating the misconception and explains the change. |
+| Completes the task but cannot justify a language choice | Ask for a comparison with one alternative and the clue that decided between them. | The explanation makes the communicative decision visible and revisable. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible y culturalmente situado; los apoyos facilitan acceso sin sustituir la intención comunicativa.
+
+### Clase 5 de 5: Repair and revise meaning: Clear texts, critical stance and respect for other positions {#cl-12784}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students repair and revise meaning: Clear texts, critical stance and respect for other positions through meaningful English, evidence from the input and purposeful revision.
+
+**Meta para estudiantes:** Today I will repair and revise meaning: Clear texts, critical stance and respect for other positions; I will use evidence, communicate for a purpose and revise meaning when needed; I will work independently and state the limits of my response.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes, con el fin de expresar una postura personal crítica que respeta otras posturas». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **producir textos orales y escritos claros en contextos relacionados con sus intereses e inquietudes,…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Present a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions once. Students identify purpose, central meaning and one clue before translating or preparing a full response. |
+| Modelado | 20 min | Think aloud in accessible English to repair and revise meaning: Clear texts, critical stance and respect for other positions. Use an exact clue, useful language and context; address the misconception: memorize without adapting to purpose. |
+| Práctica guiada | 25 min | Pairs complete an information-gap or comparison about clear texts, critical stance and respect for other positions, ask for clarification and revise one part for meaning and audience. |
+| Desempeño individual | 25 min | Each student completes a new task to repair and revise meaning: Clear texts, critical stance and respect for other positions; they select support, communicate a position and repair meaning after checking the input. |
+| Cierre | 10 min | Give a short response for today's purpose and identify the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** a short, original and attributed oral, written or multimodal text about clear texts, critical stance and respect for other positions; visible language support, planning grid and an offline alternative. Check attribution, accessibility and privacy.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Two original 180-word texts on one relevant issue—one narrative or literary and one informational—with headings, paragraph numbers, image captions and an essential glossary.
+
+**Consigna exacta:** Work on “repair and revise meaning: clear texts, critical stance and respect for other positions”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction.
+
+**Profundización:** Change speaker, worldview, audience or purpose and adapt language while preserving the central message. Complete the transfer with less scaffolding and justify which support is no longer necessary.
+
+**Evidencia:** Comprehensible individual response for «repair and revise meaning: clear texts, critical stance and respect for other positions» with input evidence, purposeful language and revision.
+
+**Criterios de éxito:** completes «repair and revise meaning: clear texts, critical stance and respect for other positions» for the stated purpose; uses precise evidence or language from the input; communicates comprehensibly and revises one decision.
+
+**Decisión posterior:** Move on when purpose, evidence and message align; otherwise change access, model another example and collect new evidence without labelling the learner.
+
+**Adaptación a 45 minutos:** Keep the specific input, brief modelling, guided rehearsal, individual evidence and exit response; reduce length or turns, not the communicative demand.
+
+**Tarea breve y flexible:** Observe or create a short, safe example using available resources. No purchase, account, internet access or disclosure of personal information is required.
+
+**Actividades complementarias (opcionales):**
+- Recovery: reduce input length or available choices, then return to the complete communicative task.
+- Error analysis: revise a fictional response that shows this misconception: memorize without adapting to purpose.
+- Transfer: change audience, viewpoint, mode or purpose and adapt the message.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responds before examining the input | Ask the learner to locate one exact clue before choosing or composing a response. | The new response cites a relevant clue. |
+| Memorize without adapting to purpose | Keep chunks and visual clues available, allow rehearsal and alternative response modes, and do not penalize accent, wait time or self-correction. | The learner completes a new task without repeating the misconception and explains the change. |
+| Completes the task but cannot justify a language choice | Ask for a comparison with one alternative and the clue that decided between them. | The explanation makes the communicative decision visible and revisable. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible y culturalmente situado; los apoyos facilitan acceso sin sustituir la intención comunicativa.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

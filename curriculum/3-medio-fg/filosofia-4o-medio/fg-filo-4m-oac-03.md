@@ -1,4 +1,4 @@
-# FG-FILO-4M-OAC-03 — Dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…
+# FG-FILO-4M-OAC-03 — Diálogo filosófico sobre ética y política contemporáneas
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 3° medio · Formación General | Filosofía 4º medio | Objetivos de aprendizaje | formacion-general-comun | 5 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Diálogo filosófico sobre ética y política contemporáneas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «atacar a la persona y no la tesis».
+
+**Antes de comenzar.** Proyecta ontología y epistemología hacia acción, ética, cultura, trabajo, tecnología, política y artes.
+
+**Vocabulario explícito:** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Problematizar una situación: Diálogo filosófico sobre ética y política contemporáneas.
+- Definir conceptos: Diálogo filosófico sobre ética y política contemporáneas.
+- Reconstruir una perspectiva: Diálogo filosófico sobre ética y política contemporáneas.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-03)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,90 +41,395 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-12288}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…» y demostrarlo mediante argumento o deliberación fundamentada.
+### Clase 1 de 5: Problematizar una situación: Diálogo filosófico sobre ética y política contemporáneas {#cl-12288}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar diálogo filosófico sobre ética y política contemporáneas a través de problematizar una situación: Diálogo filosófico sobre ética y política contemporáneas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a problematizar una situación: Diálogo filosófico sobre ética y política contemporáneas; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas perspectivas filosóficas y fundamentando visiones personales. (2) Se sugiere problemas relacionados con bioética, género, diversidad sexual, redes sociales y privacidad, inteligencia artificial, entre otros que se estime pertinentes». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para problematizar una situación: Diálogo filosófico sobre ética y política contemporáneas: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «atacar a la persona y no la tesis». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre diálogo filosófico sobre ética y política contemporáneas; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla problematizar una situación: Diálogo filosófico sobre ética y política contemporáneas en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Diálogo filosófico sobre ética y política contemporáneas»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 2 de 5: Comprender y modelar {#cl-12289}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «problematizar una situación: diálogo filosófico sobre ética y política contemporáneas»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «problematizar una situación: diálogo filosófico sobre ética y política contemporáneas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «problematizar una situación: diálogo filosófico sobre ética y política contemporáneas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: atacar a la persona y no la tesis.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Atacar a la persona y no la tesis | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 2 de 5: Definir conceptos: Diálogo filosófico sobre ética y política contemporáneas {#cl-12289}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar diálogo filosófico sobre ética y política contemporáneas a través de definir conceptos: Diálogo filosófico sobre ética y política contemporáneas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a definir conceptos: Diálogo filosófico sobre ética y política contemporáneas; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas perspectivas filosóficas y fundamentando visiones personales. (2) Se sugiere problemas relacionados con bioética, género, diversidad sexual, redes sociales y privacidad, inteligencia artificial, entre otros que se estime pertinentes». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para definir conceptos: Diálogo filosófico sobre ética y política contemporáneas: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «atacar a la persona y no la tesis». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre diálogo filosófico sobre ética y política contemporáneas; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla definir conceptos: Diálogo filosófico sobre ética y política contemporáneas en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Diálogo filosófico sobre ética y política contemporáneas»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-12290}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «definir conceptos: diálogo filosófico sobre ética y política contemporáneas»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «definir conceptos: diálogo filosófico sobre ética y política contemporáneas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «definir conceptos: diálogo filosófico sobre ética y política contemporáneas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: atacar a la persona y no la tesis.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Atacar a la persona y no la tesis | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 3 de 5: Reconstruir una perspectiva: Diálogo filosófico sobre ética y política contemporáneas {#cl-12290}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar diálogo filosófico sobre ética y política contemporáneas a través de reconstruir una perspectiva: Diálogo filosófico sobre ética y política contemporáneas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a reconstruir una perspectiva: Diálogo filosófico sobre ética y política contemporáneas; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas perspectivas filosóficas y fundamentando visiones personales. (2) Se sugiere problemas relacionados con bioética, género, diversidad sexual, redes sociales y privacidad, inteligencia artificial, entre otros que se estime pertinentes». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para reconstruir una perspectiva: Diálogo filosófico sobre ética y política contemporáneas: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «atacar a la persona y no la tesis». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre diálogo filosófico sobre ética y política contemporáneas; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla reconstruir una perspectiva: Diálogo filosófico sobre ética y política contemporáneas en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Diálogo filosófico sobre ética y política contemporáneas»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-12291}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «reconstruir una perspectiva: diálogo filosófico sobre ética y política contemporáneas»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «reconstruir una perspectiva: diálogo filosófico sobre ética y política contemporáneas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «reconstruir una perspectiva: diálogo filosófico sobre ética y política contemporáneas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: atacar a la persona y no la tesis.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Atacar a la persona y no la tesis | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 4 de 5: Formular y evaluar argumentos: Diálogo filosófico sobre ética y política contemporáneas {#cl-12291}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar diálogo filosófico sobre ética y política contemporáneas a través de formular y evaluar argumentos: Diálogo filosófico sobre ética y política contemporáneas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a formular y evaluar argumentos: Diálogo filosófico sobre ética y política contemporáneas; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas perspectivas filosóficas y fundamentando visiones personales. (2) Se sugiere problemas relacionados con bioética, género, diversidad sexual, redes sociales y privacidad, inteligencia artificial, entre otros que se estime pertinentes». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para formular y evaluar argumentos: Diálogo filosófico sobre ética y política contemporáneas: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «atacar a la persona y no la tesis». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre diálogo filosófico sobre ética y política contemporáneas; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla formular y evaluar argumentos: Diálogo filosófico sobre ética y política contemporáneas en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Diálogo filosófico sobre ética y política contemporáneas»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-12292}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Desarrolla «formular y evaluar argumentos: diálogo filosófico sobre ética y política contemporáneas»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «formular y evaluar argumentos: diálogo filosófico sobre ética y política contemporáneas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «formular y evaluar argumentos: diálogo filosófico sobre ética y política contemporáneas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: atacar a la persona y no la tesis.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Atacar a la persona y no la tesis | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 5 de 5: Responder objeciones: Diálogo filosófico sobre ética y política contemporáneas {#cl-12292}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar diálogo filosófico sobre ética y política contemporáneas a través de responder objeciones: Diálogo filosófico sobre ética y política contemporáneas, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a responder objeciones: Diálogo filosófico sobre ética y política contemporáneas; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas perspectivas filosóficas y fundamentando visiones personales. (2) Se sugiere problemas relacionados con bioética, género, diversidad sexual, redes sociales y privacidad, inteligencia artificial, entre otros que se estime pertinentes». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **dialogar sobre problemas contemporáneos(2) de la ética y la política, confrontando diversas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para responder objeciones: Diálogo filosófico sobre ética y política contemporáneas: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «atacar a la persona y no la tesis». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre diálogo filosófico sobre ética y política contemporáneas; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla responder objeciones: Diálogo filosófico sobre ética y política contemporáneas en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre diálogo filosófico sobre ética y política contemporáneas; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Laboratorio argumental original sobre «Diálogo filosófico sobre ética y política contemporáneas»: dos tesis incompatibles, cada una con dos premisas y una objeción; glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia.
+
+**Consigna exacta:** Desarrolla «responder objeciones: diálogo filosófico sobre ética y política contemporáneas»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.
+
+**Referencia para modelar y corregir:** La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «responder objeciones: diálogo filosófico sobre ética y política contemporáneas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «responder objeciones: diálogo filosófico sobre ética y política contemporáneas» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: atacar a la persona y no la tesis.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Atacar a la persona y no la tesis | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

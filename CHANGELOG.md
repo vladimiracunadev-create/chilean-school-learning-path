@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-10-01 · 4° medio completo y trayectoria escolar cerrada
+
+- Desarrollo de los 91 OA de Formación General de 4° medio en 466 clases pedagógicas distribuidas en diecisiete denominaciones curriculares.
+- Cada ficha conserva la fuente oficial del OA y distingue la prescripción curricular de la progresión, los criterios, los recursos y las decisiones pedagógicas internas.
+- El catálogo queda en 8.841 clases desarrolladas y 4.156 experiencias integradas: 12.997 propuestas, 2.823 OA y 0 pendientes desde 1° básico hasta 4° medio.
+- Publicación del índice de nivel, mapa técnico, vista web y diecisiete guías de asignatura de 4° medio, con continuidad explícita desde 3° medio y orientación de egreso.
+- Sincronización de documentación vigente, plan maestro, portal, cobertura, estado editorial, roadmap, metodología, pruebas y validadores. La revisión profesional y el pilotaje de aula continúan pendientes.
+
+## 2026-10-01 · 3° medio completo
+
+- Desarrollo de los 85 OA y 419 clases restantes en dieciséis denominaciones de Formación General, conservando los 13 OA y 76 clases ya desarrollados de Matemática y Lengua y Literatura.
+- 3° medio alcanza 98 OA, 495 clases desarrolladas, dieciocho guías de asignatura y 0 propuestas pendientes.
+- Cada ficha enlaza su OA oficial de Currículum Nacional y separa la fuente oficial de la progresión, los criterios y las decisiones pedagógicas internas.
+- Estado global actualizado a 8.375 clases desarrolladas y 4.156 experiencias integradas; las 466 propuestas pendientes corresponden a 4° medio.
+- Sincronización de catálogo, plan maestro, portal, cobertura, estado editorial, roadmap, metodología, pruebas y validadores. La revisión humana y el pilotaje continúan pendientes.
+
+## 2026-10-01 · Matemática y Lengua y Literatura de 3° medio
+
+- Desarrollo de los 4 OA de Matemática de Formación General en 17 clases sobre números complejos, incerteza y probabilidad condicional, modelos exponenciales y logarítmicos y relaciones métricas de la circunferencia.
+- Desarrollo de los 9 OA de Lengua y Literatura en 59 clases sobre interpretación y efecto estético, géneros discursivos y comunidades digitales, recursos multimodales, producción, diálogo e investigación ética.
+- Cada ficha conserva la fuente oficial del OA y distingue los criterios de progresión pedagógica interna; el nivel mantiene 419 propuestas pendientes y revisión humana pendiente.
+- Publicación del índice parcial, mapa técnico, vista web y dos guías de asignatura de 3° medio, con continuidad explícita desde 2° medio.
+- Estado global actualizado a 7.956 clases desarrolladas y 4.156 experiencias integradas; quedan 885 propuestas pendientes entre 3° y 4° medio.
+
 ## 2026-09-30 · 2° medio completo
 
 - Se completaron Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) con 374 clases disciplinares y 217 experiencias integradas nuevas.

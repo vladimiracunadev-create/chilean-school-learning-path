@@ -645,6 +645,50 @@ def _math_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
     }
 
 
+def _math_grade_three_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return concept-specific artefacts for 3° medio mathematics."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("complej", "plano", "imaginari")):
+        resource = "Plano complejo cuadriculado, tarjetas z=3+2i, w=-1+4i y sus conjugados, representación vectorial y dos procedimientos de operación, uno con error de signo en i²=-1."
+        reference = "La respuesta conecta forma algebraica y punto o vector, usa i²=-1 correctamente, conserva signos y comprueba el resultado mediante representación o sustitución."
+    elif any(word in lowered for word in ("incerteza", "dispersión", "condicional", "probabilidad")):
+        resource = "Dos muestras ficticias de igual media y distinta dispersión, tabla de contingencia 2×2 con frecuencias enteras y árbol equivalente; ficha de población, fuente simulada y condiciones de selección."
+        reference = "La respuesta compara centro y dispersión, identifica el universo condicionado, calcula con el denominador pertinente y limita la inferencia según muestra y contexto."
+    elif any(word in lowered for word in ("exponencial", "logarítm", "modelo")):
+        resource = "Tabla de seis periodos con crecimiento multiplicativo, escala lineal y semilogarítmica, tres modelos candidatos y ficha de fuente, unidad, dominio y supuesto de estabilidad."
+        reference = "La respuesta distingue cambio aditivo de multiplicativo, relaciona tabla, gráfica y expresión, interpreta parámetros y no extrapola fuera del dominio sin justificar."
+    else:
+        resource = "Diagrama a escala de una circunferencia con centro, arco, cuerda, tangente y secante; medidas parciales, caso de contraste que incumple una condición y espacio para construcción con regla y compás."
+        reference = "La respuesta identifica las condiciones de la relación métrica, justifica ángulos o productos de segmentos, conserva unidades y verifica con otra propiedad o construcción."
+    return {
+        "resource": resource,
+        "prompt": f"Para «{focus.lower()}», declara condiciones, representa el objeto matemático, desarrolla una estrategia, interpreta el resultado y compruébalo por una segunda vía.",
+        "reference": reference,
+    }
+
+
+def _math_grade_four_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return decision-oriented artefacts for 4° medio mathematics."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("financier", "tasa", "interés", "índice", "porcentaje")):
+        resource = "Tres alternativas financieras ficticias con capital, tasa, periodicidad, comisión e índice reajustable explícitos; tabla de flujo, calculadora y escenario de variación de tasas sin solicitar datos económicos personales."
+        reference = "La respuesta distingue tasa y periodo, representa el flujo, compara costo o beneficio total, analiza sensibilidad y fundamenta una decisión sin convertir el ejercicio en asesoría financiera."
+    elif any(word in lowered for word in ("binomial", "normal", "incerteza", "estadíst")):
+        resource = "Muestra ficticia documentada, histograma y resumen estadístico; situación binomial con n y p explícitos, curva normal con media y desviación estándar y cuatro afirmaciones para evaluar."
+        reference = "La respuesta verifica condiciones del modelo, calcula o estima con parámetros correctos, interpreta probabilidad en contexto y limita la decisión según calidad de datos y supuestos."
+    elif any(word in lowered for word in ("crecimiento", "decrecimiento", "periód", "trigonom", "potencia")):
+        resource = "Dos series temporales simuladas, tabla y gráfico; funciones potencia, seno y coseno candidatas con parámetros editables, herramienta digital sin cuenta y ficha de fuente, dominio, escala y error."
+        reference = "La respuesta selecciona la familia por patrón y condiciones, interpreta parámetros, contrasta predicciones con datos y explicita dominio, error y límites de extrapolación."
+    else:
+        resource = "Plano cartesiano con tres rectas y dos circunferencias dadas por datos geométricos y ecuaciones; puntos de intersección, caso degenerado y herramienta gráfica para comprobar sin sustituir el argumento analítico."
+        reference = "La respuesta traduce condiciones a ecuaciones, resuelve e interpreta intersecciones o distancias, controla casos especiales y comprueba algebraica y gráficamente."
+    return {
+        "resource": resource,
+        "prompt": f"Resuelve «{focus.lower()}»: declara datos y condiciones, construye dos representaciones, fundamenta una decisión o solución y verifica su alcance con otra vía.",
+        "reference": reference,
+    }
+
+
 def _language_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
     """Return an original, source-aware corpus for first-year secondary language."""
     lowered = f"{topic} {focus}".lower()
@@ -662,6 +706,31 @@ def _language_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
         "resource": resource,
         "prompt": f"Para «{focus.lower()}», identifica propósito y contexto, usa dos evidencias precisas, explica el efecto de una decisión y revisa la respuesta para una audiencia definida.",
         "reference": "La respuesta lograda distingue evidencia e interpretación, atribuye fuentes, relaciona forma y propósito y revisa una decisión sin imponer una lectura única ni inventar contexto.",
+    }
+
+
+def _language_grade_four_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return source-aware corpora for autonomous 4° medio language work."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("obra", "literar", "interpret", "estét")):
+        resource = "Corpus comparativo de dos obras o fragmentos de dominio público, autorizados u originales, con pasajes numerados y fichas de producción, recepción, valores, perspectiva y decisiones formales."
+        reference = "La respuesta declara un criterio, compara evidencia precisa de ambas obras, relaciona forma, contexto y efecto estético y reconoce al menos una interpretación alternativa plausible."
+    elif any(word in lowered for word in ("discurso", "ideolog", "posicion", "multimodal", "recurso")):
+        resource = "Dossier original y atribuido con columna, intervención oral y pieza audiovisual sobre un asunto público; transcripciones numeradas, datos verificables y mapa de recursos verbales, visuales, sonoros y gestuales."
+        reference = "La respuesta separa intención explícita de inferencia, verifica información, identifica posicionamiento y explica cómo recursos combinados construyen sentido y relación con la audiencia."
+    elif any(word in lowered for word in ("produc", "escrit", "coher", "cohes", "creación")):
+        resource = "Tres encargos auténticos de escritura o producción multimodal con género, propósito y audiencia; borrador original, archivo breve de fuentes y pauta que separa contenido, organización, cohesión, recursos y edición."
+        reference = "El producto se ajusta a género y audiencia, desarrolla una postura o interpretación con evidencia, combina recursos de manera intencional y muestra revisiones sustantivas antes de la edición superficial."
+    elif any(word in lowered for word in ("diálogo", "argument", "refutar")):
+        resource = "Transcripción original de una deliberación con tesis, premisas, evidencia, objeción, reformulación y una descalificación que debe repararse; protocolo de escucha y registro de acuerdos y desacuerdos."
+        reference = "La intervención explica su criterio, usa evidencia, representa la posición ajena con fidelidad, responde razones sin descalificar e incorpora o refuta aportes de manera explícita."
+    else:
+        resource = "Miniarchivo de seis fuentes sobre una pregunta literaria o discursiva: catálogo, artículo académico adaptado, entrevista, base institucional, pieza sin autor y publicación interesada, cada una con metadatos para evaluar."
+        reference = "La respuesta formula una pregunta acotada, justifica selección y descarte de fuentes, procesa hallazgos sin plagio, cita de forma consistente y comunica límites y nuevas preguntas."
+    return {
+        "resource": resource,
+        "prompt": f"Desarrolla «{focus.lower()}»: explicita criterio y contexto, usa dos evidencias precisas, contrasta una alternativa y revisa tu interpretación, evaluación o producto para una audiencia definida.",
+        "reference": reference,
     }
 
 
@@ -719,8 +788,97 @@ def _english_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
     }
 
 
+def _science_grade_three_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return safe, source-aware evidence packs for 3° medio science electives."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("salud", "medicina", "infecc", "patógeno", "transmisión")):
+        resource = (
+            "Dossier sanitario ficticio con curva epidémica, tabla agregada de exposición y prevención, dos resúmenes de evidencia con autoría, "
+            "fecha y metodología, y una ficha cultural que distingue uso tradicional de eficacia clínica; no contiene datos personales ni permite diagnosticar."
+        )
+        reference = "La respuesta distingue asociación de causalidad y prevención de tratamiento, compara calidad y alcance de las fuentes y no formula diagnósticos ni indicaciones clínicas."
+    elif any(word in lowered for word in ("quím", "sustancia", "seguridad", "riesgo", "amenaza", "desastre")):
+        resource = (
+            "Caso simulado con pictogramas SGA, extractos didácticos de fichas de seguridad, mapa de amenaza-exposición-vulnerabilidad, capacidades locales y tres medidas posibles; "
+            "no se manipulan sustancias ni se ejecutan emergencias reales."
+        )
+        reference = "La respuesta diferencia peligro, exposición, vulnerabilidad y riesgo, atribuye la fuente de cada medida y propone prevención verificable sin realizar prácticas peligrosas."
+    else:
+        resource = (
+            "Conjunto didáctico trazable con inventario de materiales y energía, emisiones por etapa, escenario climático de referencia, mapa de actores y matriz de impacto, "
+            "viabilidad, equidad y seguimiento; todos los datos simulados se rotulan como tales."
+        )
+        reference = "La respuesta delimita sistema y escala, usa al menos dos datos, declara supuestos e incertidumbre y compara una solución por impacto, viabilidad, equidad y forma de seguimiento."
+    return {
+        "resource": resource,
+        "prompt": f"Investiga «{focus.lower()}»: formula una pregunta, selecciona dos evidencias atribuidas, construye o interpreta un modelo, compara una alternativa y declara un límite.",
+        "reference": reference,
+    }
+
+
+def _social_grade_three_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return contextualized civic, regional and global source sets for 3° medio."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("democr", "ciudad", "derecho", "justicia", "particip", "estado")):
+        resource = (
+            "Caso público ficticio con norma aplicable, acta institucional, indicador territorial y cuatro tarjetas de actores —autoridad, organización social, persona afectada y órgano de control—; "
+            "matriz de derechos, responsabilidades, evidencia, contrapunto y rendición de cuentas."
+        )
+    elif any(word in lowered for word in ("mercado", "econom", "trabajo", "finanz", "desarrollo")):
+        resource = (
+            "Serie económica didáctica con fuente, fecha, unidad y metodología; presupuesto y decisiones ficticias de hogares, empresa, Estado y comunidad; "
+            "matriz de costos, beneficios, distribución, externalidades y límites del indicador."
+        )
+    else:
+        resource = (
+            "Dossier comparativo con dos mapas de escala declarada, cronología, serie de indicadores, documento institucional y dos voces públicas contextualizadas de territorios diferentes; "
+            "ficha de autoría, fecha, perspectiva y límite para cada fuente."
+        )
+    return {
+        "resource": resource,
+        "prompt": f"Para «{focus.lower()}», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.",
+        "reference": "La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.",
+    }
+
+
+def _philosophy_grade_three_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return original argument sets that do not require personal disclosure."""
+    resource = (
+        f"Laboratorio argumental original sobre «{topic}»: dos tesis incompatibles, cada una con dos premisas y una objeción; "
+        "glosario conceptual, tabla premisa-inferencia-conclusión y tarjeta para distinguir validez, verdad, alcance y consecuencia."
+    )
+    return {
+        "resource": resource,
+        "prompt": f"Desarrolla «{focus.lower()}»: define el concepto central, reconstruye ambos argumentos, prueba una objeción caritativa y defiende una conclusión provisional sin atribuirla a una persona del curso.",
+        "reference": "La respuesta formula una pregunta genuinamente abierta, distingue premisas y conclusión, representa la postura contraria con fidelidad y responde una objeción delimitando el alcance de su tesis.",
+    }
+
+
+def _performing_arts_grade_three_middle(topic: str, focus: str, seed: int, medium: str) -> dict:
+    """Return consent-aware dance or theatre rehearsal materials."""
+    if medium == "danza":
+        resource = (
+            "Tarjetas de movimiento con nivel, dirección, duración, energía y relación espacial; secuencia base de ocho tiempos, bitácora de decisiones y roles equivalentes de intérprete, observación y diseño."
+        )
+        reference = "La evidencia transforma al menos dos variables corporales o espaciales con propósito, documenta una revisión y evalúa decisiones de movimiento sin juzgar cuerpos ni exigir exposición pública."
+    else:
+        resource = (
+            "Escena original de una página con conflicto y acotaciones, tarjetas de objetivo, acción, espacio, voz y audiencia, y roles equivalentes de actuación, dirección, dramaturgia y diseño."
+        )
+        reference = "La evidencia relaciona una decisión de cuerpo, voz, espacio, texto o diseño con el efecto escénico, registra una revisión y respeta consentimiento, autoría y alternativas de participación."
+    return {
+        "resource": resource,
+        "prompt": f"Para «{focus.lower()}», realiza dos ensayos breves, cambia una variable, compara el efecto con un criterio y registra la decisión que conservarás o revisarás.",
+        "reference": reference,
+    }
+
+
 def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) -> dict:
-    if subject_slug == "matematica":
+    if subject_slug in {"matematica", "matematica-3o-medio", "matematica-4o-medio"}:
+        if grade == 12:
+            return _math_grade_four_middle(topic, focus, seed)
+        if grade == 11:
+            return _math_grade_three_middle(topic, focus, seed)
         if grade == 7:
             return _math_grade_seven(topic, focus, seed)
         if grade == 8:
@@ -728,7 +886,11 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
         if grade in {9, 10}:
             return _math_grade_one_middle(topic, focus, seed)
         return _math(topic, focus, seed, grade)
-    if subject_slug == "lengua-literatura":
+    if subject_slug in {"lengua-literatura", "lengua-literatura-3o-medio", "lengua-literatura-4o-medio"}:
+        if grade == 12:
+            return _language_grade_four_middle(topic, focus, seed)
+        if grade == 11:
+            return _language_grade_one_middle(topic, focus, seed)
         if grade == 8:
             return _language_grade_eight(topic, focus, seed)
         if grade in {9, 10}:
@@ -752,20 +914,34 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
         if grade in {9, 10}:
             return _history_grade_one_middle(topic, focus, seed)
         return _history(topic, focus, seed)
-    if subject_slug in {"ingles", "ingles-propuesta"}:
+    if subject_slug in {"ingles", "ingles-propuesta", "ingles-3o-medio", "ingles-4o-medio"}:
         if grade in {7, 8}:
             return _english_grade_seven(topic, focus, seed)
-        if grade in {9, 10}:
+        if grade in {9, 10, 11, 12}:
             return _english_grade_one_middle(topic, focus, seed)
         return _english(topic, focus, seed)
     if subject_slug == "artes-visuales":
-        if grade in {7, 8, 9, 10}:
+        if grade in {7, 8, 9, 10, 11, 12}:
             return _arts_grade_seven(topic, focus, seed)
         return _arts(topic, focus, seed)
     if subject_slug == "musica":
-        if grade in {7, 8, 9, 10}:
+        if grade in {7, 8, 9, 10, 11, 12}:
             return _music_grade_seven(topic, focus, seed)
         return _music(topic, focus, seed)
+    if subject_slug in {"ambiente-sostenibilidad", "bienestar-salud", "seguridad-prevencion-autocuidado"}:
+        return _science_grade_three_middle(topic, focus, seed)
+    if subject_slug in {"chile-region-latinoamericana", "mundo-global", "educacion-ciudadana-3-medio", "educacion-ciudadana-4-medio"}:
+        return _social_grade_three_middle(topic, focus, seed)
+    if subject_slug in {"filosofia-3-medio", "filosofia-4o-medio"}:
+        return _philosophy_grade_three_middle(topic, focus, seed)
+    if subject_slug == "danza":
+        return _performing_arts_grade_three_middle(topic, focus, seed, "danza")
+    if subject_slug == "teatro":
+        return _performing_arts_grade_three_middle(topic, focus, seed, "teatro")
+    if subject_slug in {"educacion-fisica-salud-1", "educacion-fisica-salud-2"}:
+        return _physical_grade_seven(topic, focus, seed)
+    if subject_slug == "tecnologia-sociedad":
+        return _technology_grade_seven(topic, focus, seed)
     if subject_slug == "educacion-fisica-salud":
         if grade in {7, 8, 9, 10}:
             return _physical_grade_seven(topic, focus, seed)

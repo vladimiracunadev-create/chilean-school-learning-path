@@ -1,4 +1,4 @@
-# FG-ECIU-3M-OAC-01 — Identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…
+# FG-ECIU-3M-OAC-01 — Fundamentos de democracia, ciudadanía y libertades
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 3° medio · Formación General | Educación ciudadana 3° medio | Objetivos de aprendizaje | formacion-general-comun | 5 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Fundamentos de democracia, ciudadanía y libertades recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «presentar derechos como premios».
+
+**Antes de comenzar.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Vocabulario explícito:** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión pedagógica interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Precisar conceptos y derechos: Fundamentos de democracia, ciudadanía y libertades.
+- Investigar un caso público: Fundamentos de democracia, ciudadanía y libertades.
+- Contrastar perspectivas y evidencia: Fundamentos de democracia, ciudadanía y libertades.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-01)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,90 +41,395 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-12169}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…» y demostrarlo mediante argumento o deliberación fundamentada.
+### Clase 1 de 5: Precisar conceptos y derechos: Fundamentos de democracia, ciudadanía y libertades {#cl-12169}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fundamentos de democracia, ciudadanía y libertades a través de precisar conceptos y derechos: Fundamentos de democracia, ciudadanía y libertades, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a precisar conceptos y derechos: Fundamentos de democracia, ciudadanía y libertades; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando las libertades fundamentales de las personas como un principio de estas y reconociendo sus implicancias en los deberes del Estado y en los derechos y responsabilidades ciudadanas». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para precisar conceptos y derechos: Fundamentos de democracia, ciudadanía y libertades: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «presentar derechos como premios». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre fundamentos de democracia, ciudadanía y libertades; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla precisar conceptos y derechos: Fundamentos de democracia, ciudadanía y libertades en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Caso público ficticio con norma aplicable, acta institucional, indicador territorial y cuatro tarjetas de actores —autoridad, organización social, persona afectada y órgano de control—; matriz de derechos, responsabilidades, evidencia, contrapunto y rendición de cuentas.
 
-### Clase 2 de 5: Comprender y modelar {#cl-12170}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Para «precisar conceptos y derechos: fundamentos de democracia, ciudadanía y libertades», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «precisar conceptos y derechos: fundamentos de democracia, ciudadanía y libertades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «precisar conceptos y derechos: fundamentos de democracia, ciudadanía y libertades» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: presentar derechos como premios.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Presentar derechos como premios | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 2 de 5: Investigar un caso público: Fundamentos de democracia, ciudadanía y libertades {#cl-12170}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fundamentos de democracia, ciudadanía y libertades a través de investigar un caso público: Fundamentos de democracia, ciudadanía y libertades, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a investigar un caso público: Fundamentos de democracia, ciudadanía y libertades; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando las libertades fundamentales de las personas como un principio de estas y reconociendo sus implicancias en los deberes del Estado y en los derechos y responsabilidades ciudadanas». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para investigar un caso público: Fundamentos de democracia, ciudadanía y libertades: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «presentar derechos como premios». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre fundamentos de democracia, ciudadanía y libertades; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla investigar un caso público: Fundamentos de democracia, ciudadanía y libertades en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Caso público ficticio con norma aplicable, acta institucional, indicador territorial y cuatro tarjetas de actores —autoridad, organización social, persona afectada y órgano de control—; matriz de derechos, responsabilidades, evidencia, contrapunto y rendición de cuentas.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-12171}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Para «investigar un caso público: fundamentos de democracia, ciudadanía y libertades», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «investigar un caso público: fundamentos de democracia, ciudadanía y libertades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «investigar un caso público: fundamentos de democracia, ciudadanía y libertades» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: presentar derechos como premios.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Presentar derechos como premios | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 3 de 5: Contrastar perspectivas y evidencia: Fundamentos de democracia, ciudadanía y libertades {#cl-12171}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fundamentos de democracia, ciudadanía y libertades a través de contrastar perspectivas y evidencia: Fundamentos de democracia, ciudadanía y libertades, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a contrastar perspectivas y evidencia: Fundamentos de democracia, ciudadanía y libertades; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando las libertades fundamentales de las personas como un principio de estas y reconociendo sus implicancias en los deberes del Estado y en los derechos y responsabilidades ciudadanas». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para contrastar perspectivas y evidencia: Fundamentos de democracia, ciudadanía y libertades: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «presentar derechos como premios». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre fundamentos de democracia, ciudadanía y libertades; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla contrastar perspectivas y evidencia: Fundamentos de democracia, ciudadanía y libertades en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Caso público ficticio con norma aplicable, acta institucional, indicador territorial y cuatro tarjetas de actores —autoridad, organización social, persona afectada y órgano de control—; matriz de derechos, responsabilidades, evidencia, contrapunto y rendición de cuentas.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-12172}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Para «contrastar perspectivas y evidencia: fundamentos de democracia, ciudadanía y libertades», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «contrastar perspectivas y evidencia: fundamentos de democracia, ciudadanía y libertades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «contrastar perspectivas y evidencia: fundamentos de democracia, ciudadanía y libertades» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: presentar derechos como premios.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Presentar derechos como premios | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 4 de 5: Deliberar con razones: Fundamentos de democracia, ciudadanía y libertades {#cl-12172}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fundamentos de democracia, ciudadanía y libertades a través de deliberar con razones: Fundamentos de democracia, ciudadanía y libertades, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a deliberar con razones: Fundamentos de democracia, ciudadanía y libertades; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando las libertades fundamentales de las personas como un principio de estas y reconociendo sus implicancias en los deberes del Estado y en los derechos y responsabilidades ciudadanas». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para deliberar con razones: Fundamentos de democracia, ciudadanía y libertades: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «presentar derechos como premios». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre fundamentos de democracia, ciudadanía y libertades; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla deliberar con razones: Fundamentos de democracia, ciudadanía y libertades en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Caso público ficticio con norma aplicable, acta institucional, indicador territorial y cuatro tarjetas de actores —autoridad, organización social, persona afectada y órgano de control—; matriz de derechos, responsabilidades, evidencia, contrapunto y rendición de cuentas.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-12173}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…» y demostrarlo mediante argumento o deliberación fundamentada.
+**Consigna exacta:** Para «deliberar con razones: fundamentos de democracia, ciudadanía y libertades», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «deliberar con razones: fundamentos de democracia, ciudadanía y libertades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «deliberar con razones: fundamentos de democracia, ciudadanía y libertades» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: presentar derechos como premios.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Presentar derechos como premios | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+### Clase 5 de 5: Diseñar una acción democrática: Fundamentos de democracia, ciudadanía y libertades {#cl-12173}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Enseñar fundamentos de democracia, ciudadanía y libertades a través de diseñar una acción democrática: Fundamentos de democracia, ciudadanía y libertades, con una experiencia disciplinar específica, segura y revisable.
+
+**Meta para estudiantes:** Hoy voy a diseñar una acción democrática: Fundamentos de democracia, ciudadanía y libertades; justificaré una decisión con evidencia y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando las libertades fundamentales de las personas como un principio de estas y reconociendo sus implicancias en los deberes del Estado y en los derechos y responsabilidades ciudadanas». Hace visible el uso de pregunta, concepto, argumento, evidencia, supuesto, perspectiva y consecuencia y contrasta un ejemplo logrado con el error: afirmar sin razones; atacar a la persona en vez de examinar el argumento. |
-| Práctica guiada | 25 min | Construyen juntos argumento o deliberación fundamentada. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce argumento o deliberación fundamentada sobre **identificar los fundamentos, atributos y dimensiones de la democracia y la ciudadanía, considerando…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades sin interpretación cerrada. Cada estudiante registra contexto, actor o tesis, evidencia disponible y una pregunta relevante. |
+| Modelado | 20 min | Piensa en voz alta para diseñar una acción democrática: Fundamentos de democracia, ciudadanía y libertades: define conceptos, reconstruye relaciones o premisas, considera otra perspectiva y corrige «presentar derechos como premios». |
+| Práctica guiada | 25 min | Parejas contrastan dos fuentes, argumentos o casos sobre fundamentos de democracia, ciudadanía y libertades; distinguen hechos, interpretación, razones, escala y aspecto todavía abierto. |
+| Desempeño individual | 25 min | Cada estudiante desarrolla diseñar una acción democrática: Fundamentos de democracia, ciudadanía y libertades en un caso nuevo mediante una explicación, mapa argumental o propuesta con evidencia, contrapunto y límites. |
+| Cierre | 10 min | Formula una conclusión o tesis, una razón respaldada y una objeción o límite que deba considerarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** un conjunto acotado y atribuido de casos, datos, modelos o producciones sobre fundamentos de democracia, ciudadanía y libertades; pizarra, cuaderno, pauta de trabajo y alternativa sin conectividad. Verifica procedencia, accesibilidad y seguridad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** afirmar sin razones; atacar a la persona en vez de examinar el argumento. **Evidencia:** argumento o deliberación fundamentada que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Caso público ficticio con norma aplicable, acta institucional, indicador territorial y cuatro tarjetas de actores —autoridad, organización social, persona afectada y órgano de control—; matriz de derechos, responsabilidades, evidencia, contrapunto y rendición de cuentas.
+
+**Consigna exacta:** Para «diseñar una acción democrática: fundamentos de democracia, ciudadanía y libertades», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
+
+**Profundización:** Agrega una fuente, perspectiva, objeción o escala y revisa la conclusión sin borrar el desacuerdo razonado.
+
+**Evidencia:** Análisis individual de «diseñar una acción democrática: fundamentos de democracia, ciudadanía y libertades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Criterios de éxito:** desarrolla «diseñar una acción democrática: fundamentos de democracia, ciudadanía y libertades» en el caso propuesto; usa una decisión y evidencia propias de la disciplina; explica el alcance, revisa un error o reconoce una limitación.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, localiza la barrera, modela otro caso y recoge una nueva evidencia sin etiquetar a la persona.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, práctica guiada, evidencia individual y ticket; reduce cantidad o turnos, no la demanda del OA.
+
+**Tarea breve y flexible:** Observa, representa o explica un caso seguro con recursos disponibles. No requiere compras, internet ni revelar datos personales, familiares, corporales o políticos.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: reduce variables o elementos y vuelve después al desafío completo.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: presentar derechos como premios.
+- Transferencia: cambia contexto, fuente, audiencia, escala o restricción y revisa la decisión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar el caso o la evidencia | Pide localizar primero el dato, rasgo, fuente, criterio o condición que utilizará. | La nueva respuesta cita una evidencia pertinente. |
+| Presentar derechos como premios | Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
+
+**Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -2,9 +2,9 @@
 
 No todas las personas necesitan recorrer el repositorio del mismo modo. Estas rutas organizan la documentación y el portal según una tarea real, no como un curso adicional para estudiantes.
 
-## Docente de contenido desarrollado · 1° básico a 2° medio
+## Docente de contenido desarrollado · 1° básico a 4° medio
 
-1. Abre el mapa del nivel; desde 1° básico hasta [2° medio](docs/2-medio/README.md) están completos. Elige la guía de asignatura y comprueba siempre el estado editorial y de revisión.
+1. Abre el mapa del nivel; desde 1° básico hasta [4° medio](docs/4-medio/README.md) están completos internamente. Elige la guía y comprueba siempre el estado editorial y de revisión.
 2. Elige asignatura y OA desde el portal.
 3. Revisa la clase anterior y siguiente para entender la progresión.
 4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.

@@ -1,18 +1,18 @@
 # Estado editorial
 
-Fecha de corte: **2026-09-30**. Los conteos provienen de `curriculum/catalog.json` y se verifican en CI.
+Fecha de corte: **2026-10-01**. Los conteos provienen de `curriculum/catalog.json` y se verifican en CI.
 
 | Estado | Clases | Significado |
 |---|---:|---|
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
-| Borrador | 0 | no quedan borradores; las propuestas pendientes permanecen secuenciadas |
-| Desarrollada | 7.880 | contenido disciplinar específico validado contra el contrato estructural |
+| Borrador | 0 | no quedan borradores |
+| Desarrollada | 8.841 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 2° medio, los diez niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
 ## Reconstrucción de 1° básico
 
@@ -195,6 +195,42 @@ Las once denominaciones cuentan con secuencias específicas, integraciones trans
 | **Estado del nivel** | **142** | **744** | **106** | **456** | **0** |
 
 Las once denominaciones cuentan con secuencias específicas, integraciones transversales cuando corresponden, [índice de 2° medio](docs/2-medio/README.md) y guías propias. El nivel no conserva propuestas secuenciadas ni borradores; la revisión humana sigue pendiente.
+
+## 3° medio · Formación General completo
+
+| Asignatura | OA de contenido | Clases desarrolladas | Pendientes en la asignatura |
+|---|---:|---:|---:|
+| Matemática 3° medio | 4 | 17 | 0 |
+| Lengua y Literatura 3° medio | 9 | 59 | 0 |
+| Otras asignaturas y opciones del nivel | 85 | 419 | 0 |
+| **Estado del nivel** | **98** | **495** | **0** |
+
+Las dieciocho denominaciones cuentan con [índice de nivel](docs/3-medio/README.md), guías propias, fichas oficiales por OA y criterios pedagógicos internos rotulados. El desarrollo interno está completo y la revisión humana sigue pendiente.
+
+## 4° medio · Formación General completo
+
+| Asignatura | OA de contenido | Clases desarrolladas | Pendientes en la asignatura |
+|---|---:|---:|---:|
+| Ambiente y sostenibilidad | 3 | 16 | 0 |
+| Artes visuales | 7 | 35 | 0 |
+| Bienestar y salud | 3 | 17 | 0 |
+| Chile y la región latinoamericana | 7 | 36 | 0 |
+| Danza | 6 | 28 | 0 |
+| Educación ciudadana 4° medio | 8 | 39 | 0 |
+| Educación física y salud 1 | 5 | 24 | 0 |
+| Educación física y salud 2 | 5 | 25 | 0 |
+| Filosofía 4° medio | 5 | 24 | 0 |
+| Inglés 4° medio | 4 | 18 | 0 |
+| Lengua y Literatura 4° medio | 8 | 53 | 0 |
+| Matemática 4° medio | 4 | 17 | 0 |
+| Mundo global | 7 | 36 | 0 |
+| Música | 7 | 34 | 0 |
+| Seguridad, prevención y autocuidado | 3 | 18 | 0 |
+| Teatro | 6 | 31 | 0 |
+| Tecnología y sociedad | 3 | 15 | 0 |
+| **Estado del nivel** | **91** | **466** | **0** |
+
+Las diecisiete denominaciones cuentan con [índice de nivel](docs/4-medio/README.md), guías propias, fichas oficiales por OA y criterios pedagógicos internos rotulados. El desarrollo interno de toda la trayectoria está completo y la revisión humana sigue pendiente.
 
 ## Cobertura publicada
 
