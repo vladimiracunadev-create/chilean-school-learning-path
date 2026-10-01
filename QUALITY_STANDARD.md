@@ -89,14 +89,14 @@ Una clase no cumple el estándar si:
 
 Los validadores revisan estructura, campos, conteos, estados, archivos, anclas y documentos esenciales. También exigen:
 
-- separación verificable entre 6.592 clases desarrolladas, 3.366 experiencias integradas y las propuestas que permanecen sólo secuenciadas en las otras asignaturas de 1° medio y desde 2° medio;
+- separación verificable entre 6.969 clases desarrolladas, 3.583 experiencias integradas y las propuestas que permanecen sólo secuenciadas en cinco asignaturas de 1° medio y desde 2° medio;
 - índices completos de 1° a 8° básico;
-- 94 guías de asignatura: 92 para los ocho niveles completos y dos para el núcleo desarrollado de 1° medio;
+- 98 guías de asignatura: 92 para los ocho niveles completos y seis para las denominaciones desarrolladas de 1° medio;
 - paridad documental: ningún índice o guía de un nivel completo puede tener menor profundidad estructural que su equivalente;
 - syllabus, rúbrica, FAQ, guía para familias y protocolo de revisión;
 - portada documental HTML;
 - ausencia de contenido heredado ajeno al curso;
-- presencia de los cinco componentes de uso de aula en cada una de las 6.592 clases desarrolladas;
+- presencia de los cinco componentes de uso de aula en cada una de las 6.969 clases desarrolladas;
 - ausencia de criterios de relleno, códigos usados como falsa diferenciación y defectos de puntuación conocidos.
 
 La automatización detecta ausencia y deriva; no certifica verdad disciplinar ni pertinencia humana.

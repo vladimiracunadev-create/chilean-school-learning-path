@@ -1,4 +1,4 @@
-# de Habilidad HI1M OAH j — Aplicar habilidades de pensamiento crítico tales como
+# de Habilidad HI1M OAH j — Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 1° medio | Historia, Geografía y Ciencias Sociales | Pensamiento crítico | formacion-general-comun | 6 clases de 90 min |
@@ -22,107 +22,287 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 6: Conectar y diagnosticar {#cl-10113}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «aplicar habilidades de pensamiento crítico tales como» y demostrarlo mediante explicación o indagación con evidencia.
+### Clase 1 de 6: Conectar y diagnosticar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 1 {#cl-10113}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos» dentro de un análisis de fuente, mapa o problema ciudadano, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos mientras resuelvo una tarea auténtica de Historia, Geografía y Ciencias Sociales.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **aplicar habilidades de pensamiento crítico tales como**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **aplicar habilidades de pensamiento crítico tales como**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante un análisis de fuente, mapa o problema ciudadano: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «conectar y diagnosticar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 1». |
+| Modelado | 20 min | Modela recuperar ideas previas y detectar barreras y verbaliza qué decisión hace observable «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante un análisis de fuente, mapa o problema ciudadano, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de un análisis de fuente, mapa o problema ciudadano y explica qué acción propia demuestra «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos». |
+| Cierre | 10 min | En la situación 1, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
-### Clase 2 de 6: Comprender y modelar {#cl-10114}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «aplicar habilidades de pensamiento crítico tales como» y demostrarlo mediante explicación o indagación con evidencia.
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **aplicar habilidades de pensamiento crítico tales como**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **aplicar habilidades de pensamiento crítico tales como**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Evidencia:** Desempeño individual en un análisis de fuente, mapa o problema ciudadano con acción y explicación vinculadas a «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos».
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
 
-### Clase 3 de 6: Practicar con apoyo {#cl-10115}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «aplicar habilidades de pensamiento crítico tales como» y demostrarlo mediante explicación o indagación con evidencia.
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **aplicar habilidades de pensamiento crítico tales como**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **aplicar habilidades de pensamiento crítico tales como**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Control de dificultades en el aula**
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
 
-### Clase 4 de 6: Aplicar con autonomía {#cl-10116}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «aplicar habilidades de pensamiento crítico tales como» y demostrarlo mediante explicación o indagación con evidencia.
+### Clase 2 de 6: Comprender y modelar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 2 {#cl-10114}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos» dentro de un análisis de fuente, mapa o problema ciudadano, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos mientras resuelvo una tarea auténtica de Historia, Geografía y Ciencias Sociales.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **aplicar habilidades de pensamiento crítico tales como**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **aplicar habilidades de pensamiento crítico tales como**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante un análisis de fuente, mapa o problema ciudadano: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «comprender y modelar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 2». |
+| Modelado | 20 min | Modela explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto y verbaliza qué decisión hace observable «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante un análisis de fuente, mapa o problema ciudadano, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de un análisis de fuente, mapa o problema ciudadano y explica qué acción propia demuestra «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos». |
+| Cierre | 10 min | En la situación 2, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
-### Clase 5 de 6: Contrastar y profundizar {#cl-10117}
-**Foco:** comparar alternativas y examinar casos límite. **Meta para estudiantes:** hoy voy a trabajar «aplicar habilidades de pensamiento crítico tales como» y demostrarlo mediante explicación o indagación con evidencia.
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en un análisis de fuente, mapa o problema ciudadano con acción y explicación vinculadas a «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
+
+### Clase 3 de 6: Practicar con apoyo: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 3 {#cl-10115}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos» dentro de un análisis de fuente, mapa o problema ciudadano, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos mientras resuelvo una tarea auténtica de Historia, Geografía y Ciencias Sociales.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **aplicar habilidades de pensamiento crítico tales como**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **aplicar habilidades de pensamiento crítico tales como**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante un análisis de fuente, mapa o problema ciudadano: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «practicar con apoyo: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 3». |
+| Modelado | 20 min | Modela ensayar con andamiaje y retroalimentación inmediata y verbaliza qué decisión hace observable «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante un análisis de fuente, mapa o problema ciudadano, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de un análisis de fuente, mapa o problema ciudadano y explica qué acción propia demuestra «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos». |
+| Cierre | 10 min | En la situación 3, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
 
-### Clase 6 de 6: Demostrar y retroalimentar {#cl-10118}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «aplicar habilidades de pensamiento crítico tales como» y demostrarlo mediante explicación o indagación con evidencia.
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en un análisis de fuente, mapa o problema ciudadano con acción y explicación vinculadas a «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
+
+### Clase 4 de 6: Aplicar con autonomía: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 4 {#cl-10116}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos» dentro de un análisis de fuente, mapa o problema ciudadano, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos mientras resuelvo una tarea auténtica de Historia, Geografía y Ciencias Sociales.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **aplicar habilidades de pensamiento crítico tales como**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **aplicar habilidades de pensamiento crítico tales como**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante un análisis de fuente, mapa o problema ciudadano: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «aplicar con autonomía: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 4». |
+| Modelado | 20 min | Modela resolver una situación nueva y justificar decisiones y verbaliza qué decisión hace observable «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante un análisis de fuente, mapa o problema ciudadano, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de un análisis de fuente, mapa o problema ciudadano y explica qué acción propia demuestra «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos». |
+| Cierre | 10 min | En la situación 4, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
+
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en un análisis de fuente, mapa o problema ciudadano con acción y explicación vinculadas a «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
+
+### Clase 5 de 6: Contrastar y profundizar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 5 {#cl-10117}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos» dentro de un análisis de fuente, mapa o problema ciudadano, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos mientras resuelvo una tarea auténtica de Historia, Geografía y Ciencias Sociales.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante un análisis de fuente, mapa o problema ciudadano: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «contrastar y profundizar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 5». |
+| Modelado | 20 min | Modela comparar alternativas y examinar casos límite y verbaliza qué decisión hace observable «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante un análisis de fuente, mapa o problema ciudadano, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de un análisis de fuente, mapa o problema ciudadano y explica qué acción propia demuestra «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos». |
+| Cierre | 10 min | En la situación 5, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
+
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
+
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
+
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en un análisis de fuente, mapa o problema ciudadano con acción y explicación vinculadas a «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
+
+### Clase 6 de 6: Demostrar y retroalimentar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 6 {#cl-10118}
+**Estado editorial:** Integración transversal en las clases de los OA de contenido.
+
+**Propósito docente:** Integrar «Aplicar habilidades de pensamiento crítico tales como: Formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. Inferir y elaborar conclusiones respecto a los temas del nivel. Cuestionar simplificaciones y prejuicios. Argumentar sus opiniones basándose en evidencia. Analizar puntos de vista e identificar sesgos. Comparar y contrastar procesos y fenómenos históricos y geográficos. Analizar la multicausalidad de los procesos históricos y geográficos» dentro de un análisis de fuente, mapa o problema ciudadano, no como charla aislada ni juicio de personalidad.
+
+**Meta para estudiantes:** Hoy demostraré aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos mientras resuelvo una tarea auténtica de Historia, Geografía y Ciencias Sociales.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Contrasta dos respuestas ficticias ante un análisis de fuente, mapa o problema ciudadano: una sólo nombra el foco y otra lo evidencia mediante una acción. El curso localiza la diferencia para «demostrar y retroalimentar: aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos · situación 6». |
+| Modelado | 20 min | Modela producir evidencia final y decidir el paso siguiente y verbaliza qué decisión hace observable «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos», qué efecto tiene y qué evidencia permite revisarla. |
+| Práctica guiada | 25 min | Durante un análisis de fuente, mapa o problema ciudadano, parejas aplican una pauta de una conducta observable, dan retroalimentación descriptiva y ensayan otra vez sin evaluar cuerpo, identidad, acento, talento, intimidad ni personalidad. |
+| Desempeño individual | 25 min | Cada estudiante completa una variante nueva de un análisis de fuente, mapa o problema ciudadano y explica qué acción propia demuestra «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos». |
+| Cierre | 10 min | En la situación 6, señala acción, evidencia y próximo ajuste; no basta con repetir el nombre de la habilidad o actitud. |
+
+**Materiales y preparación:** Tarea disciplinar anfitriona, pauta breve y vía accesible de respuesta; sin datos personales ni materiales adicionales obligatorios.
+
+
+**Apoyo en el mismo OA:** Anticipa la conducta observable, ofrece ejemplo y ensayo, y ajusta acceso sin reducir el OA ni sustituir la decisión del estudiante.
+
+**Profundización:** Transfiere el foco a otro eje, fuente, texto, problema, material o rol y compara cómo cambia su manifestación.
+
+**Evidencia:** Desempeño individual en un análisis de fuente, mapa o problema ciudadano con acción y explicación vinculadas a «aplicar habilidades de pensamiento crítico tales como: formular preguntas significativas para comprender y profundizar los temas estudiados en el nivel. inferir y elaborar conclusiones respecto a los temas del nivel. cuestionar simplificaciones y prejuicios. argumentar sus opiniones basándose en evidencia. analizar puntos de vista e identificar sesgos. comparar y contrastar procesos y fenómenos históricos y geográficos. analizar la multicausalidad de los procesos históricos y geográficos».
+
+**Criterios de éxito:** mantiene el contenido disciplinar; hace observable la habilidad o actitud; explica su efecto y revisa una decisión.
+
+**Decisión posterior:** Si sólo nombra el foco, vuelve a una acción concreta; si lo demuestra con apoyo, cambia el contexto; si actúa con autonomía, transfiere.
+
+**Adaptación a 45 minutos:** Conserva tarea auténtica, modelado, evidencia individual y ticket; reduce repeticiones, no la integración.
+
+**Tarea breve y flexible:** Representa un ejemplo seguro del foco dentro de la asignatura. No requiere compras, internet ni revelar experiencias familiares o personales.
+
+**Actividades complementarias (opcionales):**
+- Distinguir evidencia y no evidencia del foco.
+- Revisar un caso que confunde disposición con obediencia o talento.
+- Transferir la acción a otra tarea disciplinar.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite la formulación sin aplicarla | Pide nombrar acción, momento y evidencia dentro de la tarea. | Ejecuta y localiza una conducta observable. |
+| La integración desplaza el contenido | Recupera la meta disciplinar y observa el foco durante ese desempeño. | La evidencia demuestra ambos componentes. |
+| La pauta etiqueta o expone a una persona | Reformula en acciones situadas, modificables y protegidas. | La retroalimentación describe decisiones, no rasgos. |
+
+**Coordinación de roles profesionales:** El docente conserva la responsabilidad disciplinar; los apoyos acuerdan acceso y observación. En lengua y cultura, una fuente comunitaria o educador tradicional valida usos: el material no inventa lengua, no suplanta saberes comunitarios ni se apropia de ellos.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

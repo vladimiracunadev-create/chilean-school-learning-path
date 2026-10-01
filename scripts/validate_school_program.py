@@ -32,6 +32,7 @@ try:
     from grade_eight_next_four_lessons import SEQUENCES as GRADE_EIGHT_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_eight_next_four_sequence
     from grade_eight_remaining_lessons import SEQUENCES as GRADE_EIGHT_REMAINING_SEQUENCES, build_sequence as build_grade_eight_remaining_sequence
     from grade_one_middle_core_lessons import SEQUENCES as GRADE_ONE_MIDDLE_CORE_SEQUENCES, build_sequence as build_grade_one_middle_core_sequence
+    from grade_one_middle_next_four_lessons import SEQUENCES as GRADE_ONE_MIDDLE_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_one_middle_next_four_sequence
 except ImportError:
     from scripts.grade_one_math_lessons import MATH_ATTITUDES, MATH_SKILLS, SEQUENCES as MATH_SEQUENCES, build_math_sequence, transversal_links
     from scripts.grade_one_language_lessons import ATTITUDES as LANGUAGE_ATTITUDES, SEQUENCES as LANGUAGE_SEQUENCES, attitude_link, build_language_sequence
@@ -58,6 +59,7 @@ except ImportError:
     from scripts.grade_eight_next_four_lessons import SEQUENCES as GRADE_EIGHT_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_eight_next_four_sequence
     from scripts.grade_eight_remaining_lessons import SEQUENCES as GRADE_EIGHT_REMAINING_SEQUENCES, build_sequence as build_grade_eight_remaining_sequence
     from scripts.grade_one_middle_core_lessons import SEQUENCES as GRADE_ONE_MIDDLE_CORE_SEQUENCES, build_sequence as build_grade_one_middle_core_sequence
+    from scripts.grade_one_middle_next_four_lessons import SEQUENCES as GRADE_ONE_MIDDLE_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_one_middle_next_four_sequence
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "curriculum/catalog.json"
@@ -123,6 +125,7 @@ def validate(root: Path = ROOT) -> list[str]:
     all_developed.update({code: build_grade_eight_next_four_sequence(code) for code in GRADE_EIGHT_NEXT_FOUR_SEQUENCES})
     all_developed.update({code: build_grade_eight_remaining_sequence(code) for code in GRADE_EIGHT_REMAINING_SEQUENCES})
     all_developed.update({code: build_grade_one_middle_core_sequence(code) for code in GRADE_ONE_MIDDLE_CORE_SEQUENCES})
+    all_developed.update({code: build_grade_one_middle_next_four_sequence(code) for code in GRADE_ONE_MIDDLE_NEXT_FOUR_SEQUENCES})
     for index, lesson in enumerate(all_developed["MA01 OA 01"]["lessons"]):
         lesson["transversal"] = transversal_links(1, index, lesson["goal"].removeprefix("Hoy ").rstrip("."))
     for index, lesson in enumerate(all_developed["LE01 OA 03"]["lessons"]):
@@ -484,6 +487,10 @@ def validate(root: Path = ROOT) -> list[str]:
     expected_first_middle_core = {
         "matematica": (66, 15, 89, 21),
         "lengua-literatura": (143, 24, 33, 8),
+        "ciencias-naturales": (100, 20, 93, 21),
+        "historia-geografia-ciencias-sociales": (132, 25, 103, 23),
+        "ingles": (80, 16, 21, 5),
+        "ingles-propuesta": (65, 13, 0, 0),
     }
     for slug, expected_counts in expected_first_middle_core.items():
         rows = [item for item in first_middle if item.get("subject_slug") == slug]
@@ -498,7 +505,7 @@ def validate(root: Path = ROOT) -> list[str]:
         status: sum(item.get("editorial_status") == status for item in first_middle)
         for status in ("desarrollada", "integrada", "secuenciada")
     }
-    if first_middle_counts != {"desarrollada": 209, "integrada": 122, "secuenciada": 878}:
+    if first_middle_counts != {"desarrollada": 586, "integrada": 339, "secuenciada": 284}:
         errors.append(f"Estado editorial de 1° medio incoherente: {first_middle_counts}")
 
     markdown_cache: dict[str, str] = {}
@@ -538,11 +545,11 @@ def validate(root: Path = ROOT) -> list[str]:
                 tokens.append("Actitud transversal en esta clase")
             if item.get("subject_slug") == "lengua-literatura" and (item.get("course_order") in {7, 9} or (item.get("course_order") == 8 and item.get("oa_code") != "LE08 OA 09")):
                 tokens.append("Actitud transversal en esta clase")
-            if item.get("subject_slug") in {"ciencias-naturales", "historia-geografia-ciencias-sociales"} and item.get("course_order") in {1, 3, 5, 6, 7, 8}:
+            if item.get("subject_slug") in {"ciencias-naturales", "historia-geografia-ciencias-sociales"} and item.get("course_order") in {1, 3, 5, 6, 7, 8, 9}:
                 tokens.append("Habilidad y actitud en esta clase")
             if item.get("subject_slug") == "artes-visuales" and item.get("course_order") in {1, 3, 5, 6, 7, 8}:
                 tokens.append("Actitud transversal en esta clase")
-            if item.get("subject_slug") in {"musica", "educacion-fisica-salud", "tecnologia", "ingles", "ingles-propuesta"} and item.get("course_order") in {1, 3, 5, 6, 7, 8}:
+            if item.get("subject_slug") in {"musica", "educacion-fisica-salud", "tecnologia", "ingles", "ingles-propuesta"} and item.get("course_order") in {1, 3, 5, 6, 7, 8, 9}:
                 tokens.append("Actitud transversal en esta clase")
             if item.get("subject_slug") == "lengua-cultura-pueblos-originarios-ancestrales" and item.get("course_order") in {1, 3, 5}:
                 tokens.append("Actitud transversal en esta clase")
@@ -617,12 +624,12 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"Vista de 8° básico incompleta: falta {token}")
     first_middle_page = root / "site/levels/1-medio.html"
     first_middle_html = first_middle_page.read_text(encoding="utf-8") if first_middle_page.is_file() else ""
-    for token in ("1.209", "253", "209 desarrolladas", "122 integradas", "878 pendientes", "Matemática y Lengua y Literatura"):
+    for token in ("1.209", "253", "586 desarrolladas", "339 integradas", "284 pendientes", "seis denominaciones"):
         if token not in first_middle_html:
             errors.append(f"Vista de 1° medio incompleta: falta {token}")
     documentation_page = root / "site/documentacion.html"
     documentation_html = documentation_page.read_text(encoding="utf-8") if documentation_page.is_file() else ""
-    for token in ("Documentación pedagógica", "94 guías de asignatura", "ocho niveles completos · 2 guías de 1° medio", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "Sexto nivel completo", "Séptimo nivel completo", "Octavo nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML", "Pilotaje de aula"):
+    for token in ("Documentación pedagógica", "98 guías de asignatura", "ocho niveles completos · 6 guías de 1° medio", "Primer nivel completo", "Segundo nivel completo", "Tercer nivel completo", "Cuarto nivel completo", "Quinto nivel completo", "Sexto nivel completo", "Séptimo nivel completo", "Octavo nivel completo", "¿Qué es un OA?", "Roles en el aula", "Cobertura navegable", "Markdown + HTML", "Pilotaje de aula"):
         if token not in documentation_html:
             errors.append(f"Portada documental incompleta: falta {token}")
     if any(documentation_html.count(f"Leer guía de {level} completa") != 11 for level in ("1°", "2°", "3°", "4°")):
@@ -635,11 +642,11 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append("La portada documental no presenta las 12 guías de 7° básico")
     if documentation_html.count("Leer guía de 8°") != 12:
         errors.append("La portada documental no presenta las 12 guías de 8° básico")
-    if documentation_html.count("Leer guía de 1° medio") != 2:
-        errors.append("La portada documental no presenta las dos guías desarrolladas de 1° medio")
+    if documentation_html.count("Leer guía de 1° medio") != 6:
+        errors.append("La portada documental no presenta las 6 guías desarrolladas de 1° medio")
     required_docs = {
-        "README.md": ("12.997", "2.823", "6.592", "3.366", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "771 de 8°", "209 clases disciplinares", "39 OA de contenido + 29 OA transversales", "878 propuestas", "6° básico · desarrollo OA por OA", "7° básico · desarrollo OA por OA", "8° básico · desarrollo OA por OA", "1° medio · Matemática y Lengua y Literatura", "portal público de GitHub Pages", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
-        "docs/README.md": ("1° a 8° básico con desarrollo interno completo", "1° medio en desarrollo", "94 guías disponibles", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
+        "README.md": ("12.997", "2.823", "6.969", "3.583", "691 clases de 1° básico", "721 de 2°", "757 de 3°", "811 de 4°", "920 de 5°", "952 de 6°", "760 de 7°", "771 de 8°", "586 clases disciplinares", "113 OA de contenido + 78 OA transversales", "284 propuestas", "6° básico · desarrollo OA por OA", "7° básico · desarrollo OA por OA", "8° básico · desarrollo OA por OA", "1° medio · seis denominaciones desarrolladas", "portal público de GitHub Pages", "Cómo se mejora el contenido desarrollado", "De dónde sale el contenido", "Portal, navegación y formatos", "Caja de herramientas pedagógicas", "Rutas según quién usa el repositorio", "Para docentes y equipos pedagógicos", "Calidad y CI", "Qué es y qué no es este programa", "Idea fuerza", "Documentación de principio a fin"),
+        "docs/README.md": ("1° a 8° básico con desarrollo interno completo", "1° medio en desarrollo", "98 guías disponibles", "Estado verificable", "Cómo leer los estados", "Protocolo de pilotaje"),
         "docs/PRIMERO_BASICO.md": ("1.034", "Decisiones con evidencia"),
         "docs/SEGUNDO_BASICO.md": ("1.072", "Decisiones con evidencia", "Continuidad"),
         "docs/TERCERO_BASICO.md": ("1.136", "Decisiones con evidencia", "Continuidad"),
@@ -695,11 +702,11 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/8-basico/ingles-propuesta.md": ("65 clases desarrolladas", "Continuidad con 7° básico", "Recorrido OA por OA"),
         "docs/8-basico/lengua-indigena.md": ("43 clases desarrolladas", "Continuidad con 7° básico", "Resguardos culturales"),
         "docs/OCTAVO_BASICO.md": ("771 clases desarrolladas", "430 experiencias transversales integradas", "0 propuestas pendientes", "12 denominaciones curriculares", "Continuidad con 7° básico"),
-        "docs/1-medio/README.md": ("1° medio en desarrollo", "209 clases disciplinares desarrolladas", "122 experiencias transversales integradas", "878 propuestas pendientes"),
+        "docs/1-medio/README.md": ("1° medio en desarrollo", "586 clases disciplinares desarrolladas", "339 experiencias transversales integradas", "284 propuestas pendientes"),
         "docs/1-medio/matematica.md": ("66 clases desarrolladas", "89 experiencias integradas", "Continuidad con 8° básico", "Recorrido OA por OA"),
         "docs/1-medio/lengua-literatura.md": ("143 clases desarrolladas", "33 experiencias integradas", "Continuidad con 8° básico", "Recorrido OA por OA"),
-        "docs/PRIMERO_MEDIO.md": ("209 clases desarrolladas", "122 experiencias transversales integradas", "878 propuestas pendientes"),
-        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° básico a 1° medio", "núcleo de 1° medio: 209 + 122", "Planificación de principio a fin"),
+        "docs/PRIMERO_MEDIO.md": ("586 clases desarrolladas", "339 experiencias transversales integradas", "284 propuestas pendientes"),
+        "docs/SYLLABUS.md": ("Marco de reconstrucción de 1° básico a 1° medio", "1° medio: 586 + 339", "Planificación de principio a fin"),
         "docs/RUBRICA_EVALUACION.md": ("Rúbrica transversal", "Decisiones posteriores"),
         "docs/FAQ.md": ("Preguntas frecuentes", "¿Las 1.034 clases caben en un año?"),
         "docs/GUIA_FAMILIAS.md": ("Guía para familias", "Acompañar sin reemplazar"),
@@ -710,18 +717,18 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/ROLES_DOCENTES.md": ("Roles profesionales dentro del aula", "Antes, durante y después"),
         "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
         "docs/COBERTURA.md": ("Cobertura completa y navegable", "12.997"),
-        "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "1° medio — en desarrollo", "Matemática y Lengua y Literatura", "Definición y orden editorial de 1° básico a 1° medio", "MA1M OA 15", "LE1M OA 24", "control interno completo niveles 1 a 8 y nucleo 1 medio", "Gates del desarrollo interno de 1° básico a 1° medio", "- [x] Todos los OA disciplinares"),
+        "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "1° medio — en desarrollo", "Ciencias Naturales, Historia, Inglés e Inglés (Propuesta)", "Definición y orden editorial de 1° básico a 1° medio", "MA1M OA 15", "LE1M OA 24", "CN1M OA 20", "HI1M OA 25", "IN1M OA 16", "EN1M OA 13", "control interno completo niveles 1 a 8 y seis denominaciones 1 medio", "Gates del desarrollo interno de 1° básico a 1° medio", "- [x] Todos los OA disciplinares"),
         "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para el contenido desarrollado de 1° básico a 1° medio"),
         "METHODOLOGY.md": ("Flujo de construcción", "Estados editoriales"),
         "LEARNING_PATHS.md": ("Docente de contenido desarrollado · 1° básico a 1° medio", "Coordinación pedagógica o UTP"),
-        "ROADMAP.md": ("6.592 clases desarrolladas", "Completo: 952 desarrolladas + 422 integradas", "Completo: 760 desarrolladas + 515 integradas", "Completo: 771 desarrolladas + 430 integradas", "209 desarrolladas + 122 integradas", "Criterio para declarar un nivel completo"),
+        "ROADMAP.md": ("6.969 clases desarrolladas", "Completo: 952 desarrolladas + 422 integradas", "Completo: 760 desarrolladas + 515 integradas", "Completo: 771 desarrolladas + 430 integradas", "586 desarrolladas + 339 integradas", "Criterio para declarar un nivel completo"),
         "CONTRIBUTING.md": ("Contrato de una clase desarrollada", "Usa **clase**, no “sesión”"),
         "LICENSING.md": ("Modelo por capas", "Respuesta rápida"),
         "ASSET_LICENSES.md": ("Licencias de activos visuales", "site/icon.svg"),
-        "site/index.html": ("1° a 8° básico tienen desarrollo pedagógico interno completo", "Ocho niveles completos y un núcleo de 1° medio", "6.592 clases", "3.366 experiencias integradas", "levels/7-basico.html", "levels/8-basico.html", "levels/1-medio.html"),
+        "site/index.html": ("1° a 8° básico tienen desarrollo pedagógico interno completo", "Ocho niveles completos y seis denominaciones de 1° medio", "6.969 clases", "3.583 experiencias integradas", "levels/7-basico.html", "levels/8-basico.html", "levels/1-medio.html"),
     }
     for relative_path, tokens in required_docs.items():
         document_path = root / relative_path
@@ -733,8 +740,8 @@ def validate(root: Path = ROOT) -> list[str]:
             if token not in document:
                 errors.append(f"{relative_path} incompleto: falta {token}")
     stale_current_claims = {
-        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico", "7 clases piloto en 8° básico", "Desde 8° básico hasta 4° medio", "Desde 1° hasta 4° medio", "8° básico en desarrollo", "seis asignaturas de 8°", "Seis asignaturas desarrolladas de 8° básico", "Una mejora de 1°, 2°, 3°, 4° o 5° básico", "Docente de 1°, 2° o 3° básico", "6.094 clases desarrolladas", "3.179 experiencias integradas", "6.383 clases desarrolladas", "3.244 experiencias integradas", "3.370 propuestas secuenciadas"),
-        "docs/README.md": ("Siete asignaturas de 7°", "Las 86 guías disponibles", "Las 92 guías disponibles", "seis asignaturas desarrolladas de 8°", "8° básico en desarrollo", "6.383", "3.244"),
+        "README.md": ("Siete asignaturas de 7°", "Cinco denominaciones pendientes de 7° básico", "7 clases piloto en 8° básico", "Desde 8° básico hasta 4° medio", "Desde 1° hasta 4° medio", "8° básico en desarrollo", "seis asignaturas de 8°", "Seis asignaturas desarrolladas de 8° básico", "Una mejora de 1°, 2°, 3°, 4° o 5° básico", "Docente de 1°, 2° o 3° básico", "6.094 clases desarrolladas", "3.179 experiencias integradas", "6.383 clases desarrolladas", "3.244 experiencias integradas", "3.370 propuestas secuenciadas", "6.592 clases desarrolladas", "3.366 experiencias integradas", "878 propuestas"),
+        "docs/README.md": ("Siete asignaturas de 7°", "Las 86 guías disponibles", "Las 92 guías disponibles", "Las 94 guías disponibles", "seis asignaturas desarrolladas de 8°", "8° básico en desarrollo", "6.383", "3.244", "6.592", "3.366", "878 propuestas"),
         "docs/SYLLABUS.md": ("Siete asignaturas de 7°", "núcleo de 8°", "seis asignaturas desarrolladas de 8°", "354 propuestas pendientes"),
         "docs/PLAN_DESARROLLO.md": ("7° básico — siguiente nivel por desarrollar", "Definición y orden editorial de 1° a 6° básico", "control interno completo niveles 1 a 6", "control interno completo niveles 1 a 7 y seis asignaturas 8"),
         "EDITORIAL_STATUS.md": ("Desarrollo parcial de 8° básico", "Otras asignaturas del nivel", "354 propuestas secuenciadas"),

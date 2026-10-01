@@ -14,12 +14,12 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 6° básico | 301 | 1.374 | Completo: 952 desarrolladas + 422 integradas |
 | 7° básico | 275 | 1.275 | Completo: 760 desarrolladas + 515 integradas · 0 pendientes |
 | 8° básico | 253 | 1.201 | Completo: 771 desarrolladas + 430 integradas · 0 pendientes |
-| 1° medio | 253 | 1.209 | En desarrollo: Matemática y Lengua y Literatura completas · 209 desarrolladas + 122 integradas · 878 pendientes |
+| 1° medio | 253 | 1.209 | En desarrollo: seis denominaciones completas · 586 desarrolladas + 339 integradas · 284 pendientes |
 | 2° medio | 248 | 1.200 | Secuenciado |
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **6.592 clases desarrolladas**, **3.366 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 8° básico**, **878 pendientes en las otras asignaturas de 1° medio** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **6.969 clases desarrolladas**, **3.583 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 8° básico**, **284 pendientes en las otras cinco asignaturas de 1° medio** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -103,8 +103,10 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **6.592 clases desarrolladas*
 - [x] Completar 8° básico: 771 clases disciplinares y 430 experiencias integradas en doce denominaciones curriculares, sin propuestas pendientes.
 - [x] Completar Matemática de 1° medio: 66 clases en 15 OA de contenido y 89 experiencias integradas de 21 OA transversales.
 - [x] Completar Lengua y Literatura de 1° medio: 143 clases en 24 OA de contenido y 33 experiencias integradas de 8 OA de actitudes.
-- [x] Publicar índice, mapa técnico, vista web y dos guías de asignatura para el núcleo desarrollado de 1° medio.
-- [ ] Completar las otras nueve denominaciones de 1° medio y luego 2° medio.
+- [x] Publicar índice, mapa técnico, vista web y dos guías para Matemática y Lengua y Literatura de 1° medio.
+- [x] Completar Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) de 1° medio: 377 clases en 74 OA de contenido y 217 experiencias integradas de 49 OA transversales.
+- [x] Publicar las cuatro guías nuevas y sincronizar catálogo, portal y documentación central.
+- [ ] Completar las cinco asignaturas restantes de 1° medio y luego 2° medio.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
 
 Cada nivel debe pasar por el mismo contrato: desarrollo disciplinar, verificación automática, revisión humana documentada y comprobación visual del portal.

@@ -6,7 +6,7 @@
 
 **1°: 691 + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430**
 
-**1° medio en desarrollo: Matemática y Lengua y Literatura · 209 desarrolladas + 122 integradas · 878 propuestas pendientes en las otras asignaturas**
+**1° medio en desarrollo: seis denominaciones · 586 desarrolladas + 339 integradas · 284 propuestas pendientes en cinco asignaturas**
 
 [📘 Syllabus](SYLLABUS.md) · [🗂️ 1° básico](1-basico/README.md) · [🗂️ 2° básico](2-basico/README.md) · [🗂️ 3° básico](3-basico/README.md) · [🗂️ 4° básico](4-basico/README.md) · [🗂️ 5° básico](5-basico/README.md) · [🗂️ 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [🏫 1° medio en desarrollo](1-medio/README.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md) · [❓ FAQ](FAQ.md)
 
@@ -43,7 +43,7 @@ Aquí puedes responder:
 | Enseñar 6° básico | [Índice completo](6-basico/README.md) | 301 OA, 952 clases y 422 experiencias integradas |
 | Enseñar en 7° básico | [Índice completo del nivel](7-basico/README.md) | 760 clases disciplinares, 515 experiencias integradas y límites del desarrollo |
 | Enseñar en 8° básico | [Índice completo del nivel](8-basico/README.md) | 771 clases, 430 experiencias integradas y doce denominaciones curriculares |
-| Enseñar Matemática o Lengua y Literatura de 1° medio | [Índice del nivel en desarrollo](1-medio/README.md) | dos asignaturas completas, sus guías y el límite explícito de las 878 propuestas pendientes |
+| Enseñar una de las seis denominaciones desarrolladas de 1° medio | [Índice del nivel en desarrollo](1-medio/README.md) | seis guías completas y el límite explícito de las 284 propuestas pendientes |
 | Preparar una clase | [Guía pedagógica](../TEACHING_GUIDE.md) | antes, durante y después; apoyo, profundización y errores |
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
@@ -63,7 +63,7 @@ Aquí puedes responder:
 
 Cada guía contiene propósito, problemas que resuelve, resultados, prerrequisitos, método disciplinar, anatomía, ejes, recorrido OA por OA, evidencia, error frecuente, acceso, profundización y fuentes.
 
-Las 94 guías disponibles —92 para los ocho niveles básicos completos y dos para el núcleo desarrollado de 1° medio— se generan desde la misma fuente que el catálogo y el portal.
+Las 98 guías disponibles —92 para los ocho niveles básicos completos y seis para el desarrollo actual de 1° medio— se generan desde la misma fuente que el catálogo y el portal.
 
 **5° básico completo:** [índice y doce guías de asignatura](5-basico/README.md), con mapa técnico en [QUINTO_BASICO.md](QUINTO_BASICO.md).
 
@@ -73,7 +73,7 @@ Las 94 guías disponibles —92 para los ocho niveles básicos completos y dos p
 
 **8° básico completo:** [índice de doce denominaciones](8-basico/README.md), con 771 clases desarrolladas, 430 experiencias integradas y 0 propuestas pendientes.
 
-**1° medio en desarrollo:** [índice del nivel](1-medio/README.md), [Matemática](1-medio/matematica.md) y [Lengua y Literatura](1-medio/lengua-literatura.md). Estas dos asignaturas están completas; el nivel conserva 878 propuestas pendientes en las otras denominaciones.
+**1° medio en desarrollo:** [índice del nivel](1-medio/README.md), [Matemática](1-medio/matematica.md), [Lengua y Literatura](1-medio/lengua-literatura.md), [Ciencias Naturales](1-medio/ciencias-naturales.md), [Historia](1-medio/historia-geografia-ciencias-sociales.md), [Inglés](1-medio/ingles.md) e [Inglés (Propuesta)](1-medio/ingles-propuesta.md). Estas seis denominaciones están completas; el nivel conserva 284 propuestas pendientes en otras cinco asignaturas.
 
 | Asignatura | 1° | 2° | 3° | 4° | 5° | 6° |
 |---|---|---|---|---|---|---|
@@ -129,12 +129,12 @@ flowchart TD
 | Inventariadas | 12.997 | tienen OA, nivel, asignatura, eje y fuente |
 | Secuenciadas | 12.997 | tienen posición y dosificación |
 | Borradores | 0 | las propuestas pendientes permanecen secuenciadas, no como plantillas que aparenten desarrollo |
-| Desarrolladas | 6.592 | contienen decisiones disciplinares y contrato pedagógico completo |
-| Integradas | 3.366 | habilidades o actitudes incorporadas en clases de contenido |
+| Desarrolladas | 6.969 | contienen decisiones disciplinares y contrato pedagógico completo |
+| Integradas | 3.583 | habilidades o actitudes incorporadas en clases de contenido |
 | Revisadas | 0 | todavía no existe evidencia humana registrada |
 | Publicadas | 12.997 | tienen Markdown y HTML navegable |
 
-1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515; 8°, 771 y 430; y el núcleo de 1° medio, 209 y 122. La revisión profesional humana permanece pendiente.
+1° básico reúne 691 clases desarrolladas y 343 experiencias integradas; 2°, 721 y 351; 3°, 757 y 379; 4°, 811 y 384; 5°, 920 y 420; 6°, 952 y 422; 7°, 760 y 515; 8°, 771 y 430; y las seis denominaciones desarrolladas de 1° medio, 586 y 339. La revisión profesional humana permanece pendiente.
 
 ## 🧱 Arquitectura documental
 
@@ -167,7 +167,7 @@ README.md
 ├── docs/8-basico/README.md        ← 8° completo y sus doce guías
 │   └── 12 guías de asignatura
 ├── docs/1-medio/README.md         ← nivel en desarrollo
-│   └── 2 guías completas: Matemática y Lengua y Literatura
+│   └── 6 guías completas: Matemática, Lengua y Literatura, Ciencias, Historia y dos denominaciones de Inglés
 ├── docs/4-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura
 ├── TEACHING_GUIDE.md              ← conducción pedagógica

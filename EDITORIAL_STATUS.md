@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-30**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores; las propuestas pendientes permanecen secuenciadas |
-| Desarrollada | 6.592 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 3.366 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 6.969 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 3.583 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 8° básico tienen desarrollo interno completo**. En 1° medio están completas Matemática y Lengua y Literatura; las otras nueve denominaciones conservan 878 propuestas secuenciadas, por lo que el nivel no se declara completo. La revisión humana permanece separada y pendiente.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 8° básico tienen desarrollo interno completo**. En 1° medio están completas seis denominaciones; las otras cinco conservan 284 propuestas secuenciadas, por lo que el nivel no se declara completo. La revisión humana permanece separada y pendiente.
 
 ## Reconstrucción de 1° básico
 
@@ -158,16 +158,20 @@ Las doce denominaciones cumplen el contrato automatizado y cuentan con [índice 
 
 Las doce denominaciones mantienen continuidad explícita con 7°, secuencias OA por OA y el contrato de aula completo. El nivel se declara con desarrollo interno completo, pero no revisado: siguen pendientes la revisión profesional y el pilotaje documentado.
 
-## Núcleo desarrollado de 1° medio
+## Desarrollo actual de 1° medio
 
 | Asignatura | OA de contenido | Clases desarrolladas | OA transversales | Experiencias integradas | Pendientes en la asignatura |
 |---|---:|---:|---:|---:|---:|
 | Matemática | 15 | 66 | 21 | 89 | 0 |
 | Lengua y Literatura | 24 | 143 | 8 | 33 | 0 |
-| Otras nueve denominaciones | — | 0 | — | 0 | 878 |
-| **Estado del nivel** | **39** | **209** | **29** | **122** | **878** |
+| Ciencias Naturales | 20 | 100 | 21 | 93 | 0 |
+| Historia, Geografía y Ciencias Sociales | 25 | 132 | 23 | 103 | 0 |
+| Inglés | 16 | 80 | 5 | 21 | 0 |
+| Inglés (Propuesta) | 13 | 65 | 0 | 0 | 0 |
+| Otras cinco asignaturas | — | 0 | — | 0 | 284 |
+| **Estado del nivel** | **113** | **586** | **78** | **339** | **284** |
 
-Las dos asignaturas desarrolladas cuentan con secuencias específicas, integraciones transversales, [índice del nivel](docs/1-medio/README.md) y guías propias. Las 878 propuestas restantes se mantienen visibles como secuenciadas; publicar sus fichas no equivale a declararlas desarrolladas.
+Las seis denominaciones desarrolladas cuentan con secuencias específicas, integraciones transversales cuando corresponden, [índice del nivel](docs/1-medio/README.md) y guías propias. Las 284 propuestas restantes se mantienen visibles como secuenciadas; publicar sus fichas no equivale a declararlas desarrolladas.
 
 ## Cobertura publicada
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-30 · Cuatro nuevas asignaturas desarrolladas de 1° medio
+
+- Se completaron Ciencias Naturales, Historia, Geografía y Ciencias Sociales, Inglés e Inglés (Propuesta) de 1° medio con 377 clases disciplinares y 217 experiencias integradas nuevas.
+- El nivel alcanza 586 clases desarrolladas, 339 experiencias integradas y conserva 284 propuestas secuenciadas en cinco asignaturas.
+- El total del proyecto queda en 6.969 clases desarrolladas y 3.583 experiencias integradas; se añadieron cuatro guías y se sincronizaron portal, README, estado editorial, roadmap, cobertura y validadores.
+
 ## 2026-09-30 — Matemática y Lengua y Literatura de 1° medio
 
 - Desarrollo completo de los 15 OA disciplinares de Matemática en 66 clases y 21 OA transversales mediante 89 experiencias integradas.

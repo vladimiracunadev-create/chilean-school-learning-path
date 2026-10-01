@@ -1,4 +1,4 @@
-# IN1M OA 05 — Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…
+# IN1M OA 05 — Coherent multimodal oral presentation for an audience
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 1° medio | Inglés | Comunicación oral | formacion-general-comun | 5 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** purpose, audience, key words, meaning, interaction y revision. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Coherent multimodal oral presentation for an audience parte de understand and produce connected messages with evidence, interaction and revision in 8th grade y avanza mediante decisiones propias de la disciplina. Cada clase cambia fuentes, materiales, representaciones y evidencias, y enfrenta la confusión «recite language without listening or adapting to the audience».
+
+**Antes de comenzar.** understand and produce connected messages with evidence, interaction and revision in 8th grade
+
+**Vocabulario explícito:** purpose, audience, gist, detail, clue, collocation, inference, interaction, function, evidence, repair, revision.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión interna en 5 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del OA; no se presenta como una unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Recognize purpose and context: Coherent multimodal oral presentation for an audience.
+- Locate precise evidence: Coherent multimodal oral presentation for an audience.
+- Use a strategy or language function: Coherent multimodal oral presentation for an audience.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del OA oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/1-medio/in1m-oa-05)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,90 +41,410 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 5: Conectar y diagnosticar {#cl-10194}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…» y demostrarlo mediante desempeño comunicativo comprensible.
+### Clase 1 de 5: Recognize purpose and context: Coherent multimodal oral presentation for an audience {#cl-10194}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students recognize purpose and context: Coherent multimodal oral presentation for an audience through meaningful, accessible English and evidence from the message.
+
+**Meta para estudiantes:** Today I will recognize purpose and context: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma creativa acerca de temas variados (como experiencias personales, temas de otras asignaturas, otras culturas, problemas globales y textos leídos o escuchados), demostrando: Conocimiento del contenido y coherencia en la organización de ideas. Uso apropiado de las funciones del lenguaje y vocabulario del nivel. Uso apropiado de sonidos del idioma, como sonidos vocales largos y cortos ( feet/fit ), combinaciones iniciales /tr/ y /dr/ ( tree/dress ), sonido inicial /j/ ( year, yes ) y sonido final -tion /S / (como en vacation ). Tener conciencia de audiencia, contexto y propósito». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Present fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience once without translating it in full. Students first respond with a choice, gesture, note or short chunk and then point to the clue they used. |
+| Modelado | 20 min | Think aloud in clear, accessible English and show how to recognize purpose and context: Coherent multimodal oral presentation for an audience. Point to the exact clue, combine it with context and check the meaning instead of translating every word. |
+| Práctica guiada | 25 min | Pairs work with a second version of fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Each student contributes information, asks for clarification and improves one part of the message after focused feedback. |
+| Desempeño individual | 25 min | Each student completes a new task to recognize purpose and context: Coherent multimodal oral presentation for an audience. They may use a word bank or planning card, but must select language, communicate meaning and check the result independently. |
+| Cierre | 10 min | Give one short response for today's purpose and underline, point to or name the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience; visible word bank, picture cards and optional audio replay; no account or personal information required.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
 
-### Clase 2 de 5: Comprender y modelar {#cl-10195}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “recognize purpose and context: coherent multimodal oral presentation for an audience”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
+
+**Profundización:** Change speaker, audience, quantity, place or action and adapt the message to the new communicative purpose.
+
+**Evidencia:** Comprehensible oral, written, visual or embodied response for «recognize purpose and context: coherent multimodal oral presentation for an audience» linked to a word, chunk or clue in the input.
+
+**Criterios de éxito:** resuelve la consigna exacta de «recognize purpose and context: coherent multimodal oral presentation for an audience»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: recite language without listening or adapting to the audience.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Recite language without listening or adapting to the audience | Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible; educación diferencial facilita acceso auditivo, visual, motor o de respuesta sin sustituir la intención comunicativa.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud IN1M OAA B`:** Se promueve confianza progresiva para aprender un nuevo idioma durante «I will recognize purpose and context: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate» mediante una acción observable y revisable.
+
+### Clase 2 de 5: Locate precise evidence: Coherent multimodal oral presentation for an audience {#cl-10195}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students locate precise evidence: Coherent multimodal oral presentation for an audience through meaningful, accessible English and evidence from the message.
+
+**Meta para estudiantes:** Today I will locate precise evidence: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma creativa acerca de temas variados (como experiencias personales, temas de otras asignaturas, otras culturas, problemas globales y textos leídos o escuchados), demostrando: Conocimiento del contenido y coherencia en la organización de ideas. Uso apropiado de las funciones del lenguaje y vocabulario del nivel. Uso apropiado de sonidos del idioma, como sonidos vocales largos y cortos ( feet/fit ), combinaciones iniciales /tr/ y /dr/ ( tree/dress ), sonido inicial /j/ ( year, yes ) y sonido final -tion /S / (como en vacation ). Tener conciencia de audiencia, contexto y propósito». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Show the title, format or first image from fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Students make a tentative prediction and choose what they will listen or read for. |
+| Modelado | 20 min | Compare two comprehensible responses. Explain why both may communicate, then revise the one that does not yet fit the purpose or audience. |
+| Práctica guiada | 25 min | Pairs work with a second version of fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Each student contributes information, asks for clarification and improves one part of the message after focused feedback. |
+| Desempeño individual | 25 min | Each student completes a new task to locate precise evidence: Coherent multimodal oral presentation for an audience. They may use a word bank or planning card, but must select language, communicate meaning and check the result independently. |
+| Cierre | 10 min | Give one short response for today's purpose and underline, point to or name the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience; visible word bank, picture cards and optional audio replay; no account or personal information required.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
 
-### Clase 3 de 5: Practicar con apoyo {#cl-10196}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “locate precise evidence: coherent multimodal oral presentation for an audience”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
+
+**Profundización:** Change speaker, audience, quantity, place or action and adapt the message to the new communicative purpose.
+
+**Evidencia:** Comprehensible oral, written, visual or embodied response for «locate precise evidence: coherent multimodal oral presentation for an audience» linked to a word, chunk or clue in the input.
+
+**Criterios de éxito:** resuelve la consigna exacta de «locate precise evidence: coherent multimodal oral presentation for an audience»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: recite language without listening or adapting to the audience.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Recite language without listening or adapting to the audience | Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible; educación diferencial facilita acceso auditivo, visual, motor o de respuesta sin sustituir la intención comunicativa.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud IN1M OAA D`:** Se promueve cooperación para alcanzar propósitos comunicativos durante «I will locate precise evidence: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate» mediante una acción observable y revisable.
+
+### Clase 3 de 5: Use a strategy or language function: Coherent multimodal oral presentation for an audience {#cl-10196}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students use a strategy or language function: Coherent multimodal oral presentation for an audience through meaningful, accessible English and evidence from the message.
+
+**Meta para estudiantes:** Today I will use a strategy or language function: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma creativa acerca de temas variados (como experiencias personales, temas de otras asignaturas, otras culturas, problemas globales y textos leídos o escuchados), demostrando: Conocimiento del contenido y coherencia en la organización de ideas. Uso apropiado de las funciones del lenguaje y vocabulario del nivel. Uso apropiado de sonidos del idioma, como sonidos vocales largos y cortos ( feet/fit ), combinaciones iniciales /tr/ y /dr/ ( tree/dress ), sonido inicial /j/ ( year, yes ) y sonido final -tion /S / (como en vacation ). Tener conciencia de audiencia, contexto y propósito». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Offer two possible meanings for fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Students decide which one fits better and identify the word, sound, image or text feature that supports it. |
+| Modelado | 20 min | Model a first attempt that shows this problem: recite language without listening or adapting to the audience. Pause, ask for clarification or reread, and repair the message without hiding the mistake. |
+| Práctica guiada | 25 min | Pairs work with a second version of fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Each student contributes information, asks for clarification and improves one part of the message after focused feedback. |
+| Desempeño individual | 25 min | Each student completes a new task to use a strategy or language function: Coherent multimodal oral presentation for an audience. They may use a word bank or planning card, but must select language, communicate meaning and check the result independently. |
+| Cierre | 10 min | Give one short response for today's purpose and underline, point to or name the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience; visible word bank, picture cards and optional audio replay; no account or personal information required.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
 
-### Clase 4 de 5: Aplicar con autonomía {#cl-10197}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “use a strategy or language function: coherent multimodal oral presentation for an audience”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
+
+**Profundización:** Change speaker, audience, quantity, place or action and adapt the message to the new communicative purpose.
+
+**Evidencia:** Comprehensible oral, written, visual or embodied response for «use a strategy or language function: coherent multimodal oral presentation for an audience» linked to a word, chunk or clue in the input.
+
+**Criterios de éxito:** resuelve la consigna exacta de «use a strategy or language function: coherent multimodal oral presentation for an audience»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: recite language without listening or adapting to the audience.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Recite language without listening or adapting to the audience | Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible; educación diferencial facilita acceso auditivo, visual, motor o de respuesta sin sustituir la intención comunicativa.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud IN1M OAA B`:** Se promueve confianza progresiva para aprender un nuevo idioma durante «I will use a strategy or language function: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate» mediante una acción observable y revisable.
+
+### Clase 4 de 5: Communicate through an information gap: Coherent multimodal oral presentation for an audience {#cl-10197}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students communicate through an information gap: Coherent multimodal oral presentation for an audience through meaningful, accessible English and evidence from the message.
+
+**Meta para estudiantes:** Today I will communicate through an information gap: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma creativa acerca de temas variados (como experiencias personales, temas de otras asignaturas, otras culturas, problemas globales y textos leídos o escuchados), demostrando: Conocimiento del contenido y coherencia en la organización de ideas. Uso apropiado de las funciones del lenguaje y vocabulario del nivel. Uso apropiado de sonidos del idioma, como sonidos vocales largos y cortos ( feet/fit ), combinaciones iniciales /tr/ y /dr/ ( tree/dress ), sonido inicial /j/ ( year, yes ) y sonido final -tion /S / (como en vacation ). Tener conciencia de audiencia, contexto y propósito». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Begin with a short information gap built from fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Students need one another's message to complete a practical task. |
+| Modelado | 20 min | Build a response from useful chunks rather than a full script. Make one meaningful choice, test it with a partner and revise for clarity. |
+| Práctica guiada | 25 min | Pairs work with a second version of fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Each student contributes information, asks for clarification and improves one part of the message after focused feedback. |
+| Desempeño individual | 25 min | Each student completes a new task to communicate through an information gap: Coherent multimodal oral presentation for an audience. They may use a word bank or planning card, but must select language, communicate meaning and check the result independently. |
+| Cierre | 10 min | Give one short response for today's purpose and underline, point to or name the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience; visible word bank, picture cards and optional audio replay; no account or personal information required.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
 
-### Clase 5 de 5: Demostrar y retroalimentar {#cl-10198}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…» y demostrarlo mediante desempeño comunicativo comprensible.
+**Consigna exacta:** Work on “communicate through an information gap: coherent multimodal oral presentation for an audience”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
+
+**Profundización:** Change speaker, audience, quantity, place or action and adapt the message to the new communicative purpose.
+
+**Evidencia:** Comprehensible oral, written, visual or embodied response for «communicate through an information gap: coherent multimodal oral presentation for an audience» linked to a word, chunk or clue in the input.
+
+**Criterios de éxito:** resuelve la consigna exacta de «communicate through an information gap: coherent multimodal oral presentation for an audience»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: recite language without listening or adapting to the audience.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Recite language without listening or adapting to the audience | Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible; educación diferencial facilita acceso auditivo, visual, motor o de respuesta sin sustituir la intención comunicativa.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud IN1M OAA D`:** Se promueve cooperación para alcanzar propósitos comunicativos durante «I will communicate through an information gap: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate» mediante una acción observable y revisable.
+
+### Clase 5 de 5: Respond independently: Coherent multimodal oral presentation for an audience {#cl-10198}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Help students respond independently: Coherent multimodal oral presentation for an audience through meaningful, accessible English and evidence from the message.
+
+**Meta para estudiantes:** Today I will respond independently: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma creativa acerca de temas variados (como experiencias personales, temas de otras asignaturas, otras culturas, problemas globales y textos leídos o escuchados), demostrando: Conocimiento del contenido y coherencia en la organización de ideas. Uso apropiado de las funciones del lenguaje y vocabulario del nivel. Uso apropiado de sonidos del idioma, como sonidos vocales largos y cortos ( feet/fit ), combinaciones iniciales /tr/ y /dr/ ( tree/dress ), sonido inicial /j/ ( year, yes ) y sonido final -tion /S / (como en vacation ). Tener conciencia de audiencia, contexto y propósito». Hace visible el uso de purpose, audience, key words, meaning, interaction y revision y contrasta un ejemplo logrado con el error: traducir literalmente; esperar precisión total antes de comunicarse. |
-| Práctica guiada | 25 min | Construyen juntos desempeño comunicativo comprensible. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce desempeño comunicativo comprensible sobre **presentar información en forma oral, usando recursos multimodales que refuercen el mensaje en forma…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Change the speaker, audience or purpose in fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Students predict which language and delivery choices should change. |
+| Modelado | 20 min | Use fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience to model planning, communicating and checking. Highlight meaning, not speed, accent imitation or immediate accuracy. |
+| Práctica guiada | 25 min | Pairs work with a second version of fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience. Each student contributes information, asks for clarification and improves one part of the message after focused feedback. |
+| Desempeño individual | 25 min | Each student completes a new task to respond independently: Coherent multimodal oral presentation for an audience. They may use a word bank or planning card, but must select language, communicate meaning and check the result independently. |
+| Cierre | 10 min | Give one short response for today's purpose and underline, point to or name the clue or language choice that supports it. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** fictional information-gap cards, useful chunks, audience roles and a paper storyboard for coherent multimodal oral presentation for an audience; visible word bank, picture cards and optional audio replay; no account or personal information required.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** traducir literalmente; esperar precisión total antes de comunicarse. **Evidencia:** desempeño comunicativo comprensible que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
+
+**Consigna exacta:** Work on “respond independently: coherent multimodal oral presentation for an audience”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+
+**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
+
+**Profundización:** Change speaker, audience, quantity, place or action and adapt the message to the new communicative purpose.
+
+**Evidencia:** Comprehensible oral, written, visual or embodied response for «respond independently: coherent multimodal oral presentation for an audience» linked to a word, chunk or clue in the input.
+
+**Criterios de éxito:** resuelve la consigna exacta de «respond independently: coherent multimodal oral presentation for an audience»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia el acceso o modela otro caso y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, evidencia individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o cultural.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o pista y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: recite language without listening or adapting to the audience.
+- Transferencia: cambia contexto, material, interlocutor, espacio o fuente y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Repite o imita sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Recite language without listening or adapting to the audience | Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el objetivo. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente modela inglés comprensible; educación diferencial facilita acceso auditivo, visual, motor o de respuesta sin sustituir la intención comunicativa.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud IN1M OAA B`:** Se promueve confianza progresiva para aprender un nuevo idioma durante «I will respond independently: Coherent multimodal oral presentation for an audience; I will show the clue or language choice that helped me communicate» mediante una acción observable y revisable.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

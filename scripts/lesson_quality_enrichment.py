@@ -665,6 +665,60 @@ def _language_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
     }
 
 
+def _science_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return evidence-rich, safe artefacts for first-year secondary science."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("evolu", "biodivers", "fósil", "selección", "ecosistema")):
+        resource = "Archivo de evidencias con registro fósil, anatomía comparada, variación poblacional y datos de biodiversidad; cada pieza incluye escala, procedencia y límite interpretativo."
+    elif any(word in lowered for word in ("onda", "sonido", "luz", "sismo", "universo")):
+        resource = "Estación segura con cuerda, resorte, audio a volumen moderado, diagramas de rayos o registros sísmicos y astronómicos públicos; tabla de magnitudes, unidades y condiciones."
+    elif any(word in lowered for word in ("movimiento", "fuerza", "newton", "energía")):
+        resource = "Carros de baja masa, rampa, cinta métrica y cronómetro o datos equivalentes; diagramas de cuerpo libre y tabla que separa medición, cálculo, incertidumbre y modelo."
+    else:
+        resource = "Modelos moleculares, ecuaciones sin ajustar y ajustadas, tabla periódica y datos de masa o cantidad de sustancia; protocolo seguro sin manipular reactivos peligrosos."
+    return {
+        "resource": resource,
+        "prompt": f"Investiga «{focus.lower()}»: formula una pregunta o predicción, trabaja con evidencia, representa el mecanismo, contrasta el resultado y declara una limitación del modelo o del dato.",
+        "reference": "La respuesta distingue observación, medición e inferencia; usa magnitudes y unidades pertinentes, relaciona evidencia con mecanismo y evita convertir un modelo en una descripción literal.",
+    }
+
+
+def _history_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return contextualized evidence sets for first-year secondary history."""
+    lowered = f"{topic} {focus}".lower()
+    if any(word in lowered for word in ("liberal", "nación", "industrial", "imperial", "revolu")):
+        source_set = "mapa y cronología del siglo XIX, texto político o económico contextualizado, serie estadística y voz de un actor afectado"
+    elif any(word in lowered for word in ("américa", "chile", "república", "araucan", "territorio")):
+        source_set = "mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados"
+    elif any(word in lowered for word in ("mercado", "finanz", "trabajo", "consumo", "econom")):
+        source_set = "presupuesto familiar ficticio, indicadores con fuente y fecha, normas básicas y dos decisiones económicas con costos de oportunidad explícitos"
+    else:
+        source_set = "mapas a dos escalas, datos demográficos y ambientales, testimonio contextualizado y fuente institucional con fecha y metodología"
+    return {
+        "resource": f"Dossier para «{topic}»: {source_set}. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.",
+        "prompt": f"Para «{focus.lower()}», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.",
+        "reference": "La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.",
+    }
+
+
+def _english_grade_one_middle(topic: str, focus: str, seed: int) -> dict:
+    """Return original, accessible English-language artefacts for first-year secondary."""
+    lowered = f"{topic} {focus}".lower()
+    if "listening" in lowered:
+        resource = "Original 110-word audio script with two speakers, natural repetition, a clear purpose, four verifiable details and a listening grid for gist, evidence and inference."
+    elif any(word in lowered for word in ("oral", "speaking", "interaction", "speech")):
+        resource = "Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card."
+    elif any(word in lowered for word in ("reading", "written text", "texts", "visual")):
+        resource = "Two original 180-word texts on one relevant issue—one narrative or literary and one informational—with headings, paragraph numbers, image captions and an essential glossary."
+    else:
+        resource = "Three original writing briefs for a real-world purpose, each with audience, model chunks, planning grid, source notes and a revision checklist that separates meaning from accuracy."
+    return {
+        "resource": resource,
+        "prompt": f"Work on “{focus.lower()}”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.",
+        "reference": "A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.",
+    }
+
+
 def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) -> dict:
     if subject_slug == "matematica":
         if grade == 7:
@@ -687,16 +741,22 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
             return _science_grade_seven(topic, focus, seed)
         if grade == 8:
             return _science_grade_eight(topic, focus, seed)
+        if grade == 9:
+            return _science_grade_one_middle(topic, focus, seed)
         return _science(topic, focus, seed)
     if subject_slug == "historia-geografia-ciencias-sociales":
         if grade == 7:
             return _history_grade_seven(topic, focus, seed)
         if grade == 8:
             return _history_grade_eight(topic, focus, seed)
+        if grade == 9:
+            return _history_grade_one_middle(topic, focus, seed)
         return _history(topic, focus, seed)
     if subject_slug in {"ingles", "ingles-propuesta"}:
         if grade in {7, 8}:
             return _english_grade_seven(topic, focus, seed)
+        if grade == 9:
+            return _english_grade_one_middle(topic, focus, seed)
         return _english(topic, focus, seed)
     if subject_slug == "artes-visuales":
         if grade in {7, 8}:
