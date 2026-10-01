@@ -725,13 +725,13 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
             return _math_grade_seven(topic, focus, seed)
         if grade == 8:
             return _math_grade_eight(topic, focus, seed)
-        if grade == 9:
+        if grade in {9, 10}:
             return _math_grade_one_middle(topic, focus, seed)
         return _math(topic, focus, seed, grade)
     if subject_slug == "lengua-literatura":
         if grade == 8:
             return _language_grade_eight(topic, focus, seed)
-        if grade == 9:
+        if grade in {9, 10}:
             return _language_grade_one_middle(topic, focus, seed)
         return _language_grade_seven(topic, focus, seed)
     if subject_slug == "lenguaje-comunicacion":

@@ -4,7 +4,7 @@
 
 ## **1° básico a 1° medio con desarrollo pedagógico interno completo**
 
-### **Nueve niveles consecutivos completos · OA por OA**
+### **Nueve niveles consecutivos completos · Matemática y Lengua de 2° medio desarrolladas**
 
 **Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
@@ -19,7 +19,8 @@
 [![7° básico](https://img.shields.io/badge/7%C2%B0%20b%C3%A1sico-760%20clases%20%C2%B7%2012%20denominaciones-9a3412?style=for-the-badge)](docs/7-basico/README.md)
 [![8° básico](https://img.shields.io/badge/8%C2%B0%20b%C3%A1sico-771%20clases%20%C2%B7%2012%20denominaciones-9f1239?style=for-the-badge)](docs/8-basico/README.md)
 [![1° medio](https://img.shields.io/badge/1%C2%B0%20medio-753%20clases%20%C2%B7%2011%20denominaciones-4338ca?style=for-the-badge)](docs/1-medio/README.md)
-[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-7.136%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![2° medio](https://img.shields.io/badge/2%C2%B0%20medio-201%20clases%20%C2%B7%202%20asignaturas-0369a1?style=for-the-badge)](docs/2-medio/README.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-7.337%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -27,7 +28,7 @@
 [![Código](https://img.shields.io/badge/código-MIT-3fb950?style=flat-square)](LICENSE)
 [![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=flat-square)](LICENSE-CONTENT.md)
 
-[🌐 Abrir portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🎓 Abrir 8° básico completo](docs/8-basico/README.md) · [🏫 Abrir 1° medio](docs/1-medio/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
+[🌐 Abrir portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [🧒 Abrir 1° básico](docs/1-basico/README.md) · [📐 Abrir 2° básico](docs/2-basico/README.md) · [🧭 Abrir 3° básico](docs/3-basico/README.md) · [🌎 Abrir 4° básico](docs/4-basico/README.md) · [🚀 Abrir 5° básico](docs/5-basico/README.md) · [🧪 Abrir 6° básico](docs/6-basico/README.md) · [📚 Abrir 7° básico completo](docs/7-basico/README.md) · [🎓 Abrir 8° básico completo](docs/8-basico/README.md) · [🏫 Abrir 1° medio](docs/1-medio/README.md) · [📘 Abrir 2° medio](docs/2-medio/README.md) · [🗂️ Buscar un OA](CURRICULUM.md) · [📚 Centro documental](docs/README.md) · [🧭 Guía docente](TEACHING_GUIDE.md) · [📖 Glosario](docs/GLOSARIO.md) · [🤝 Contribuir](CONTRIBUTING.md)
 
 [📋 Plan maestro por nivel, asignatura e ítem](docs/PLAN_DESARROLLO.md)
 
@@ -36,7 +37,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado real del proyecto:** desde 1° básico hasta 1° medio, los nueve niveles cuentan con desarrollo pedagógico interno completo. 1° medio reúne 753 clases disciplinares y 456 experiencias integradas en once denominaciones, sin propuestas pendientes. La revisión humana especializada sigue pendiente en todos los niveles.
+> **Estado real del proyecto:** desde 1° básico hasta 1° medio, los nueve niveles cuentan con desarrollo pedagógico interno completo. En 2° medio, Matemática y Lengua y Literatura están completas con 201 clases disciplinares y 122 experiencias integradas; las otras denominaciones conservan 877 propuestas pendientes. La revisión humana especializada sigue pendiente.
 
 > [!CAUTION]
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
@@ -54,10 +55,11 @@ Este repositorio sirve hoy para cuatro cosas distintas, expresadas sin mezclar s
 - **Usar 7° básico completo:** ofrece 760 clases disciplinares y 515 experiencias transversales integradas en doce denominaciones, sin propuestas pendientes en el nivel.
 - **Usar 8° básico completo:** ofrece 771 clases disciplinares y 430 experiencias transversales integradas en doce denominaciones, sin propuestas pendientes en el nivel.
 - **Usar 1° medio completo:** ofrece 753 clases disciplinares y 456 experiencias integradas en once denominaciones, con continuidad explícita desde 8° básico.
+- **Usar Matemática y Lengua y Literatura de 2° medio:** ofrece 201 clases disciplinares y 122 experiencias integradas, con continuidad explícita desde 1° medio.
 - **Consultar el currículo:** organiza 2.823 OA oficiales desde 1° básico hasta 4° medio.
-- **Continuar Enseñanza Media:** conserva 2.161 propuestas pendientes desde 2° hasta 4° medio.
+- **Continuar Enseñanza Media:** conserva 1.838 propuestas pendientes: 877 en las otras asignaturas de 2° medio y 961 desde 3° hasta 4° medio.
 
-Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7°](docs/7-basico/README.md)**, **[8° básico completo](docs/8-basico/README.md)** o el núcleo de **[1° medio](docs/1-medio/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
+Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7°](docs/7-basico/README.md)**, **[8° básico completo](docs/8-basico/README.md)**, **[1° medio](docs/1-medio/README.md)** o **[2° medio](docs/2-medio/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas saber qué está terminado y qué falta, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
 
 ## 🧭 OA, en palabras simples
 
@@ -110,6 +112,7 @@ El punto de partida es el [Currículum Nacional de Chile](https://www.curriculum
 - **[Reconstrucción de 7° básico](docs/7-basico/README.md):** cobertura completa, cambio a Lengua y Literatura y continuidad desde 6°.
 - **[Reconstrucción de 8° básico](docs/8-basico/README.md):** cobertura completa de sus doce denominaciones y continuidad desde 7°.
 - **[1° medio completo](docs/1-medio/README.md):** once denominaciones con secuencias disciplinares, integraciones transversales, continuidad desde 8° y guías propias.
+- **[2° medio en desarrollo](docs/2-medio/README.md):** Matemática y Lengua y Literatura completas, con continuidad desde 1° medio y estado explícito de las asignaturas pendientes.
 - **[Metodología](METHODOLOGY.md):** paso del OA a la secuencia y controles de consistencia.
 - **[Cobertura](docs/COBERTURA.md):** alcance de los doce niveles y estado editorial real.
 - **[Licencias](docs/LICENCIAS.md):** derechos, atribución y condiciones de reutilización.
@@ -138,9 +141,11 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **1° medio completo:** Matemática aporta 66 clases disciplinares y 89 experiencias integradas; Lengua y Literatura, 143 y 33; Ciencias Naturales, 100 y 93; Historia, 132 y 103; Inglés, 80 y 21; Inglés (Propuesta), 65 clases; Artes Visuales, 29 y 33; Música, 32 y 37; Educación Física y Salud, 28 y 28; Orientación, 52 clases; y Tecnología, 26 y 19. Las 1.209 entradas están resueltas y quedan **0 propuestas pendientes**.
 
+**2° medio en desarrollo:** Matemática aporta 55 clases disciplinares y 89 experiencias integradas; Lengua y Literatura, 146 y 33. Ambas asignaturas están completas y documentadas. Las demás denominaciones conservan **877 propuestas secuenciadas**, por lo que el nivel no se declara completo.
+
 ### Preparado para desarrollo futuro
 
-**Desde 2° hasta 4° medio:** las 2.161 propuestas continúan secuenciadas. Ninguno de esos tres niveles se presenta como desarrollo completo.
+**Desarrollo futuro:** quedan 877 propuestas en las demás asignaturas de 2° medio y 961 desde 3° hasta 4° medio. Ninguno de esos niveles se presenta como desarrollo completo.
 
 ### Lo que significa “12.997”
 
@@ -296,9 +301,18 @@ Es la suma de todos los **espacios de clase inventariados** del mapa curricular.
 
 [Abrir el índice completo de 1° medio](docs/1-medio/README.md) para recorrer las once denominaciones y sus guías OA por OA.
 
+## 📘 2° medio · Matemática y Lengua y Literatura
+
+**201 clases disciplinares · 122 experiencias integradas · 36 OA de contenido + 29 OA transversales · 2 asignaturas completas · 877 propuestas pendientes en el nivel.** El núcleo desarrollado profundiza formalización, modelación, lectura crítica, producción, oralidad e investigación con continuidad explícita desde 1° medio.
+
+- 🔢 **[Matemática](docs/2-medio/matematica.md):** 12 OA de contenido y 55 clases desarrolladas; 21 OA de habilidades y actitudes se integran mediante 89 experiencias.
+- 📚 **[Lengua y Literatura](docs/2-medio/lengua-literatura.md):** 24 OA de contenido y 146 clases desarrolladas; 8 OA de actitudes se integran mediante 33 experiencias.
+
+[Abrir el índice de 2° medio](docs/2-medio/README.md) para distinguir las dos asignaturas desarrolladas de las nueve denominaciones que permanecen secuenciadas.
+
 ## 🔧 Cómo se mejora el contenido desarrollado
 
-Una mejora de cualquier nivel entre 1° y 8° básico, o de las asignaturas desarrolladas de 1° medio, se aplica al contenido pedagógico canónico, no sólo a la portada o a una página aislada. El flujo correcto es:
+Una mejora de cualquier nivel entre 1° y 8° básico, de 1° medio o de las asignaturas desarrolladas de 2° medio se aplica al contenido pedagógico canónico, no sólo a la portada o a una página aislada. El flujo correcto es:
 
 1. delimitar el nivel, la asignatura, el OA, la clase o el aspecto transversal que debe mejorar;
 2. corregir propósito, explicación, actividades, tareas, evidencia, dificultades y apoyos donde corresponda;
@@ -350,7 +364,8 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 ## 🧭 Rutas según quién usa el repositorio
 
 - **Docente de Educación Básica:** empieza en el programa de [1°](docs/1-basico/README.md), [2°](docs/2-basico/README.md), [3°](docs/3-basico/README.md), [4°](docs/4-basico/README.md), [5°](docs/5-basico/README.md), [6°](docs/6-basico/README.md), [7°](docs/7-basico/README.md) u [8°](docs/8-basico/README.md) y continúa con la guía de su asignatura.
-- **Docente de 1° medio:** abre el [índice del nivel](docs/1-medio/README.md) y entra a [Matemática](docs/1-medio/matematica.md) o [Lengua y Literatura](docs/1-medio/lengua-literatura.md); las otras asignaturas todavía figuran como pendientes.
+- **Docente de 1° medio:** abre el [índice completo del nivel](docs/1-medio/README.md) y recorre cualquiera de sus once denominaciones desarrolladas.
+- **Docente de 2° medio:** abre el [índice del nivel](docs/2-medio/README.md) y entra a [Matemática](docs/2-medio/matematica.md) o [Lengua y Literatura](docs/2-medio/lengua-literatura.md); las demás denominaciones figuran explícitamente como pendientes.
 - **Docente especialista:** revisa la progresión disciplinar y luego abre el OA en el [índice curricular](CURRICULUM.md).
 - **Educación diferencial o equipo de apoyo:** acuerda responsabilidades en [Roles profesionales](docs/ROLES_DOCENTES.md) y selecciona acciones en [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md).
 - **Coordinación pedagógica o UTP:** contrasta [Cobertura](docs/COBERTURA.md), [Estado editorial](EDITORIAL_STATUS.md) y [Estándar de calidad](QUALITY_STANDARD.md).
@@ -361,7 +376,7 @@ La secuencia no obliga a avanzar por calendario. La evidencia puede justificar m
 
 ### Cómo usarlo en seis pasos
 
-1. Elige una asignatura y un OA desde el índice completo de [1°](docs/1-basico/README.md), [2°](docs/2-basico/README.md), [3°](docs/3-basico/README.md), [4°](docs/4-basico/README.md), [5°](docs/5-basico/README.md), [6°](docs/6-basico/README.md), [7°](docs/7-basico/README.md), [8° básico](docs/8-basico/README.md) o [1° medio](docs/1-medio/README.md).
+1. Elige una asignatura y un OA desde el índice completo de [1°](docs/1-basico/README.md), [2°](docs/2-basico/README.md), [3°](docs/3-basico/README.md), [4°](docs/4-basico/README.md), [5°](docs/5-basico/README.md), [6°](docs/6-basico/README.md), [7°](docs/7-basico/README.md), [8° básico](docs/8-basico/README.md), [1° medio](docs/1-medio/README.md) o desde las dos asignaturas desarrolladas de [2° medio](docs/2-medio/README.md).
 2. Lee la secuencia completa del OA antes de preparar una clase.
 3. Define la evidencia y los criterios que observarás.
 4. Ajusta contexto, materiales, acceso y duración al curso real.
@@ -406,7 +421,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 ### Comprender el programa
 
 - [Centro documental](docs/README.md)
-- [Syllabus de 1° básico a 1° medio](docs/SYLLABUS.md)
+- [Syllabus de 1° básico a 2° medio](docs/SYLLABUS.md)
 - [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
 - [Glosario educativo](docs/GLOSARIO.md)
 - [Preguntas frecuentes](docs/FAQ.md)
@@ -422,6 +437,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 - [Programa de 7° básico](docs/7-basico/README.md)
 - [Programa completo de 8° básico](docs/8-basico/README.md)
 - [Programa completo de 1° medio](docs/1-medio/README.md)
+- [Matemática y Lengua y Literatura de 2° medio](docs/2-medio/README.md)
 - [Guía pedagógica](TEACHING_GUIDE.md)
 - [Roles profesionales](docs/ROLES_DOCENTES.md)
 - [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md)
@@ -446,9 +462,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descar
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8° y 753 de 1° medio: 7.136 en total.
-- **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6°, 515 de 7°, 430 de 8° y 456 de 1° medio: 3.700 en total; no constituyen clases independientes.
-- **Contenido pendiente:** 0 propuestas desde 1° básico hasta 1° medio y 2.161 desde 2° a 4° medio.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio y 201 de Matemática y Lengua y Literatura de 2° medio: 7.337 en total.
+- **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6°, 515 de 7°, 430 de 8°, 456 de 1° medio y 122 de 2° medio: 3.822 en total; no constituyen clases independientes.
+- **Contenido pendiente:** 0 propuestas desde 1° básico hasta 1° medio, 877 en las demás asignaturas de 2° medio y 961 desde 3° a 4° medio.
 
 Los conteos por nivel, asignatura y estado se mantienen en [Cobertura completa y navegable](docs/COBERTURA.md). El [Roadmap](ROADMAP.md) define el avance nivel por nivel para no volver a mezclar inventario con contenido terminado.
 
@@ -459,7 +475,7 @@ flowchart TD
     A[Currículum Nacional] --> B[Registro curricular verificable]
     B --> C[Mapa de cobertura]
     C --> D[Dosificación]
-    D --> E[1° básico a 1° medio completos]
+    D --> E[1° básico a 1° medio completos + núcleo de 2° medio]
     E --> F[Markdown]
     E --> G[HTML]
     F --> H[Validadores y pruebas]
@@ -486,7 +502,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ### ✅ Sí es
 
-- un desarrollo transparente desde 1° básico hasta 1° medio, con 7.136 clases desarrolladas y 3.700 experiencias integradas en el catálogo;
+- un desarrollo transparente desde 1° básico hasta 1° medio y en Matemática y Lengua de 2° medio, con 7.337 clases desarrolladas y 3.822 experiencias integradas en el catálogo;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;
 - contenido editable en Markdown y navegable en HTML;
@@ -503,7 +519,7 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 
 ## 💡 Idea fuerza
 
-> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. Desde 1° básico hasta 1° medio el desarrollo interno está completo. La revisión profesional humana todavía debe registrarse por separado.
+> La cifra importante no es cuántos archivos existen, sino cuántas clases tienen contenido disciplinar, una progresión justificable y evidencia observable. Desde 1° básico hasta 1° medio el desarrollo interno está completo; en 2° medio están completas Matemática y Lengua y Literatura. La revisión profesional humana todavía debe registrarse por separado.
 
 ## 📖 Fuentes y derechos
 
@@ -517,7 +533,7 @@ El software original usa [MIT](LICENSE). Las clases, tareas, actividades y guía
 
 **Hecho para convertir el currículo en aprendizaje claro, humano y aplicable.**
 
-[🌐 Portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [1°](docs/1-basico/README.md) · [2°](docs/2-basico/README.md) · [3°](docs/3-basico/README.md) · [4°](docs/4-basico/README.md) · [5°](docs/5-basico/README.md) · [6°](docs/6-basico/README.md) · [7°](docs/7-basico/README.md) · [8°](docs/8-basico/README.md) · [1° medio](docs/1-medio/README.md) · [📚 Documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
+[🌐 Portal público](https://vladimiracunadev-create.github.io/chilean-school-learning-path/) · [1°](docs/1-basico/README.md) · [2°](docs/2-basico/README.md) · [3°](docs/3-basico/README.md) · [4°](docs/4-basico/README.md) · [5°](docs/5-basico/README.md) · [6°](docs/6-basico/README.md) · [7°](docs/7-basico/README.md) · [8°](docs/8-basico/README.md) · [1° medio](docs/1-medio/README.md) · [2° medio](docs/2-medio/README.md) · [📚 Documentación](docs/README.md) · [⬆️ Volver al inicio](#-trayectoria-escolar-chile)
 
 **¿Te resulta útil? ⭐ Dale una estrella al repositorio.**
 

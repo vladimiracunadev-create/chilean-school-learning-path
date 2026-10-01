@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30 · Matemática y Lengua y Literatura de 2° medio
+
+- Se desarrollaron los 36 OA disciplinares de ambas asignaturas en 201 clases específicas: 55 de Matemática y 146 de Lengua y Literatura.
+- Se integraron 29 OA de habilidades y actitudes mediante 122 experiencias: 89 en Matemática y 33 en Lengua y Literatura.
+- Se publicaron el índice, el mapa técnico, la vista web y dos guías de asignatura de 2° medio, manteniendo explícitas las 877 propuestas pendientes del resto del nivel.
+- El proyecto suma 7.337 clases desarrolladas y 3.822 experiencias integradas; la revisión humana continúa pendiente.
+
 ## 2026-09-30 · 1° medio completo
 
 - Se completaron Artes Visuales, Música, Educación Física y Salud, Orientación y Tecnología con 167 clases disciplinares y 117 experiencias integradas nuevas.

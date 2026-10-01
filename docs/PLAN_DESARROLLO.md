@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 2° medio — siguiente nivel por desarrollar · **Asignatura activa:** Por definir · **Unidad de entrega:** una asignatura completa
+**Nivel activo:** 2° medio — desarrollo por asignaturas · **Asignatura activa:** Ciencias Naturales · **Unidad de entrega:** una asignatura completa
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -20,7 +20,7 @@ flowchart LR
     H --> I[Declarar revisada]
 ~~~
 
-## Definición y orden editorial de 1° básico a 1° medio
+## Definición y orden editorial de 1° básico a 2° medio
 
 | Nivel | Orden | Asignatura | OA disciplinares | Clases disciplinares | Habilidades/actitudes a integrar | Estado |
 |---|---:|---|---:|---:|---:|---|
@@ -127,6 +127,17 @@ flowchart LR
 | 1° medio | 9 | Tecnología | 6 | 26 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 1° medio | 10 | Inglés | 16 | 80 | 5 | Desarrollo interno completo · revisión humana pendiente |
 | 1° medio | 11 | Inglés (Propuesta) | 13 | 65 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 2° medio | 1 | Matemática | 12 | 55 | 21 | Desarrollo interno completo · revisión humana pendiente |
+| 2° medio | 2 | Lengua y Literatura | 24 | 146 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 2° medio | 3 | Ciencias Naturales | 18 | 85 | 21 | Activa |
+| 2° medio | 4 | Historia, Geografía y Ciencias Sociales | 25 | 142 | 23 | 0/25 OA desarrollados |
+| 2° medio | 5 | Artes Visuales | 6 | 30 | 8 | 0/6 OA desarrollados |
+| 2° medio | 6 | Música | 7 | 31 | 9 | 0/7 OA desarrollados |
+| 2° medio | 7 | Educación Física y Salud | 5 | 28 | 7 | 0/5 OA desarrollados |
+| 2° medio | 8 | Orientación | 10 | 52 | 0 | 0/10 OA desarrollados |
+| 2° medio | 9 | Tecnología | 6 | 28 | 4 | 0/6 OA desarrollados |
+| 2° medio | 10 | Inglés | 16 | 81 | 5 | 0/16 OA desarrollados |
+| 2° medio | 11 | Inglés (Propuesta) | 13 | 66 | 0 | 0/13 OA desarrollados |
 
 ## Plan por asignatura e ítem
 
@@ -2351,6 +2362,225 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
+### Matemática · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `MA2M OA 01` | Números | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-01) |
+| `MA2M OA 02` | Números | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-02) |
+| `MA2M OA 03` | Álgebra y funciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-03) |
+| `MA2M OA 04` | Álgebra y funciones | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-04) |
+| `MA2M OA 05` | Álgebra y funciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-05) |
+| `MA2M OA 06` | Álgebra y funciones | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-06) |
+| `MA2M OA 07` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-07) |
+| `MA2M OA 08` | Geometría | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-08) |
+| `MA2M OA 09` | Geometría | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-09) |
+| `MA2M OA 10` | Probabilidad y estadística | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-10) |
+| `MA2M OA 11` | Probabilidad y estadística | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-11) |
+| `MA2M OA 12` | Probabilidad y estadística | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/2-medio/ma2m-oa-12) |
+
+**Integración transversal documentada:** 21 ítems de habilidades o actitudes se incorporan en 89 experiencias dentro de las 55 clases de contenido; no se contabilizan como clases autónomas.
+
+### Lengua y Literatura · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `LE2M OA 01` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-01) |
+| `LE2M OA 02` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-02) |
+| `LE2M OA 03` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-03) |
+| `LE2M OA 04` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-04) |
+| `LE2M OA 05` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-05) |
+| `LE2M OA 06` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-06) |
+| `LE2M OA 07` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-07) |
+| `LE2M OA 08` | Lectura - Comprensión | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-08) |
+| `LE2M OA 09` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-09) |
+| `LE2M OA 10` | Lectura - Comprensión | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-10) |
+| `LE2M OA 11` | Lectura - Comprensión | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-11) |
+| `LE2M OA 12` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-12) |
+| `LE2M OA 13` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-13) |
+| `LE2M OA 14` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-14) |
+| `LE2M OA 15` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-15) |
+| `LE2M OA 16` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-16) |
+| `LE2M OA 17` | Escritura - Producción | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-17) |
+| `LE2M OA 18` | Escritura - Producción | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-18) |
+| `LE2M OA 19` | Comunicación oral | 7 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-19) |
+| `LE2M OA 20` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-20) |
+| `LE2M OA 21` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-21) |
+| `LE2M OA 22` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-22) |
+| `LE2M OA 23` | Comunicación oral | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-23) |
+| `LE2M OA 24` | Investigación | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/lengua-literatura/2-medio/le2m-oa-24) |
+
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 33 experiencias dentro de las 146 clases de contenido; no se contabilizan como clases autónomas.
+
+### Ciencias Naturales · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `CN2M OA 01` | Biología | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-01) |
+| `CN2M OA 02` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-02) |
+| `CN2M OA 03` | Biología | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-03) |
+| `CN2M OA 04` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-04) |
+| `CN2M OA 05` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-05) |
+| `CN2M OA 06` | Biología | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-06) |
+| `CN2M OA 07` | Biología | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-07) |
+| `CN2M OA 08` | Biología | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-08) |
+| `CN2M OA 09` | Física | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-09) |
+| `CN2M OA 10` | Física | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-10) |
+| `CN2M OA 11` | Física | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-11) |
+| `CN2M OA 12` | Física | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-12) |
+| `CN2M OA 13` | Física | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-13) |
+| `CN2M OA 14` | Física | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-14) |
+| `CN2M OA 15` | Química | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-15) |
+| `CN2M OA 16` | Química | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-16) |
+| `CN2M OA 17` | Química | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-17) |
+| `CN2M OA 18` | Química | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ciencias-naturales/2-medio/cn2m-oa-18) |
+
+**Integración transversal documentada:** 21 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 85 clases de contenido; no se contabilizan como clases autónomas.
+
+### Historia, Geografía y Ciencias Sociales · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `HI2M OA 01` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-01) |
+| `HI2M OA 02` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-02) |
+| `HI2M OA 03` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-03) |
+| `HI2M OA 04` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-04) |
+| `HI2M OA 05` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-05) |
+| `HI2M OA 06` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-06) |
+| `HI2M OA 07` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-07) |
+| `HI2M OA 08` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-08) |
+| `HI2M OA 09` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-09) |
+| `HI2M OA 10` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-10) |
+| `HI2M OA 11` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-11) |
+| `HI2M OA 12` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-12) |
+| `HI2M OA 13` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-13) |
+| `HI2M OA 14` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-14) |
+| `HI2M OA 15` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-15) |
+| `HI2M OA 16` | Historia | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-16) |
+| `HI2M OA 17` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-17) |
+| `HI2M OA 18` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-18) |
+| `HI2M OA 19` | Historia | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-19) |
+| `HI2M OA 20` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-20) |
+| `HI2M OA 21` | Historia | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-21) |
+| `HI2M OA 22` | Formación ciudadana | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-22) |
+| `HI2M OA 23` | Formación ciudadana | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-23) |
+| `HI2M OA 24` | Formación ciudadana | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-24) |
+| `HI2M OA 25` | Formación ciudadana | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-25) |
+
+**Integración transversal documentada:** 23 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 142 clases de contenido; no se contabilizan como clases autónomas.
+
+### Artes Visuales · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `AR2M OA 01` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/2-medio/ar2m-oa-01) |
+| `AR2M OA 02` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/2-medio/ar2m-oa-02) |
+| `AR2M OA 03` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/2-medio/ar2m-oa-03) |
+| `AR2M OA 04` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/2-medio/ar2m-oa-04) |
+| `AR2M OA 05` | Apreciar y responder frente al arte | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/2-medio/ar2m-oa-05) |
+| `AR2M OA 06` | Difundir y comunicar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/2-medio/ar2m-oa-06) |
+
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 30 clases de contenido; no se contabilizan como clases autónomas.
+
+### Música · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `MU2M OA 01` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-01) |
+| `MU2M OA 02` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-02) |
+| `MU2M OA 03` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-03) |
+| `MU2M OA 04` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-04) |
+| `MU2M OA 05` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-05) |
+| `MU2M OA 06` | Reflexionar y relacionar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-06) |
+| `MU2M OA 07` | Reflexionar y relacionar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/2-medio/mu2m-oa-07) |
+
+**Integración transversal documentada:** 9 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 31 clases de contenido; no se contabilizan como clases autónomas.
+
+### Educación Física y Salud · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `EF2M OA 01` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/2-medio/ef2m-oa-01) |
+| `EF2M OA 02` | Habilidades motrices | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/2-medio/ef2m-oa-02) |
+| `EF2M OA 03` | Vida activa y saludable | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/2-medio/ef2m-oa-03) |
+| `EF2M OA 04` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/2-medio/ef2m-oa-04) |
+| `EF2M OA 05` | Responsabilidad personal y social en el deporte y la actividad física | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/2-medio/ef2m-oa-05) |
+
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 28 clases de contenido; no se contabilizan como clases autónomas.
+
+### Orientación · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `OR2M OA 01` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-01) |
+| `OR2M OA 02` | Crecimiento personal | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-02) |
+| `OR2M OA 03` | Bienestar y autocuidado | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-03) |
+| `OR2M OA 04` | Bienestar y autocuidado | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-04) |
+| `OR2M OA 05` | Relaciones interpersonales | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-05) |
+| `OR2M OA 06` | Relaciones interpersonales | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-06) |
+| `OR2M OA 07` | Pertenencia y participación democrática | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-07) |
+| `OR2M OA 08` | Pertenencia y participación democrática | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-08) |
+| `OR2M OA 09` | Gestión y proyección del aprendizaje | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-09) |
+| `OR2M OA 10` | Gestión y proyección del aprendizaje | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/2-medio/or2m-oa-10) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
+### Tecnología · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `TE2M OA 01` | Resolución de problemas tecnológicos | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-01) |
+| `TE2M OA 02` | Resolución de problemas tecnológicos | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-02) |
+| `TE2M OA 03` | Resolución de problemas tecnológicos | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-03) |
+| `TE2M OA 04` | Resolución de problemas tecnológicos | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-04) |
+| `TE2M OA 05` | Tecnología, ambiente y sociedad | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-05) |
+| `TE2M OA 06` | Tecnología, ambiente y sociedad | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-06) |
+
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 28 clases de contenido; no se contabilizan como clases autónomas.
+
+### Inglés · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `IN2M OA 01` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-01) |
+| `IN2M OA 02` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-02) |
+| `IN2M OA 03` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-03) |
+| `IN2M OA 04` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-04) |
+| `IN2M OA 05` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-05) |
+| `IN2M OA 06` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-06) |
+| `IN2M OA 07` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-07) |
+| `IN2M OA 08` | Comunicación oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-08) |
+| `IN2M OA 09` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-09) |
+| `IN2M OA 10` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-10) |
+| `IN2M OA 11` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-11) |
+| `IN2M OA 12` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-12) |
+| `IN2M OA 13` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-13) |
+| `IN2M OA 14` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-14) |
+| `IN2M OA 15` | Expresión escrita | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-15) |
+| `IN2M OA 16` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles/2-medio/in2m-oa-16) |
+
+**Integración transversal documentada:** 5 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 81 clases de contenido; no se contabilizan como clases autónomas.
+
+### Inglés (Propuesta) · 2° medio
+
+| Ítem | Eje | Clases | Estado | Fuente |
+|---|---|---:|---|---|
+| `EN2M OA 01` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-01) |
+| `EN2M OA 02` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-02) |
+| `EN2M OA 03` | Comprensión auditiva | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-03) |
+| `EN2M OA 04` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-04) |
+| `EN2M OA 05` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-05) |
+| `EN2M OA 06` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-06) |
+| `EN2M OA 07` | Comprensión de lectura | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-07) |
+| `EN2M OA 08` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-08) |
+| `EN2M OA 09` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-09) |
+| `EN2M OA 10` | Expresión oral | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-10) |
+| `EN2M OA 11` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-11) |
+| `EN2M OA 12` | Expresión escrita | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-12) |
+| `EN2M OA 13` | Expresión escrita | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/ingles-propuesta/2-medio/en2m-oa-13) |
+
+**Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
+
 ## Controles profesionales
 
 | Control | Estado | Evidencia exigida |
@@ -2359,12 +2589,12 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo desde 1 basico hasta 1 medio | Todas las asignaturas inventariadas desde 1° básico hasta 1° medio registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; la revisión profesional permanece separada y pendiente |
+| Documental y fuentes | control interno completo hasta 1 medio y dos asignaturas de 2 medio | Todas las asignaturas inventariadas desde 1° básico hasta 1° medio, además de Matemática y Lengua y Literatura de 2° medio, registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; la revisión profesional permanece separada y pendiente |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
-## Gates del desarrollo interno de 1° básico a 1° medio
+## Gates del desarrollo interno
 
-Estos controles están cerrados para todas las asignaturas inventariadas desde 1° básico hasta 1° medio. La revisión profesional continúa como un estado posterior e independiente.
+Estos controles están cerrados para todas las asignaturas inventariadas desde 1° básico hasta 1° medio y para Matemática y Lengua y Literatura de 2° medio. Las demás asignaturas de 2° medio continúan en desarrollo; la revisión profesional permanece como un estado posterior e independiente.
 
 - [x] Todos los OA disciplinares tienen secuencias específicas y completas.
 - [x] Habilidades y actitudes están mapeadas dentro de las clases y no se contabilizan como clases independientes.

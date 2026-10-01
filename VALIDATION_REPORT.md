@@ -7,10 +7,11 @@ Fecha: 2026-09-30
 - 12.997 clases con código único y ancla web estable.
 - 2.823 OA con página HTML, Markdown y trazabilidad a Currículum Nacional.
 - 12 niveles, 35 asignaturas y 595 vínculos de lectura.
-- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8° y 753 de 1° medio: 7.136 desarrolladas en total; 3.700 experiencias transversales integradas y 0 revisiones humanas registradas.
+- 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio y 201 de Matemática y Lengua de 2° medio: 7.337 desarrolladas en total; 3.822 experiencias transversales integradas y 0 revisiones humanas registradas.
 - Desde 1° básico hasta 1° medio completos, con 0 propuestas pendientes dentro de esos nueve niveles.
 - 8° básico completo en doce denominaciones curriculares, con 771 clases y 430 experiencias integradas.
 - Las once denominaciones de 1° medio están completas, con 753 clases y 456 experiencias integradas; no quedan propuestas secuenciadas ni borradores en el nivel.
+- Matemática y Lengua y Literatura de 2° medio están completas, con 201 clases y 122 experiencias integradas; las demás denominaciones conservan 877 propuestas secuenciadas.
 - 4° básico completo: 175 OA disciplinares, 811 clases y 93 OA transversales integrados mediante 384 experiencias.
 - 0 clases declaradas como revisadas sin evidencia humana.
 - Contrato editorial estructurado con propósito, meta, cinco momentos, materiales, apoyos, profundización, evidencia, criterios, decisión y versión de 45 minutos.

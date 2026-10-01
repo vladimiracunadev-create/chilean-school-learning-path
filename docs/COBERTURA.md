@@ -12,11 +12,11 @@ El catálogo cubre 12 niveles, 2.823 Objetivos de Aprendizaje (OA) y 12.997 clas
 | 6° básico | 301 | 1.374 | 952 | 422 | 0 |
 | 7° básico | 275 | 1.275 | 760 | 515 | 0 |
 | 8° básico | 253 | 1.201 | 771 | 430 | 0 |
-| 1° medio | 253 | 1.209 | 209 | 122 | 0 |
-| 2° medio | 248 | 1.200 | 0 | 0 | 0 |
+| 1° medio | 253 | 1.209 | 753 | 456 | 0 |
+| 2° medio | 248 | 1.200 | 201 | 122 | 0 |
 | 3° medio · Formación General | 98 | 495 | 0 | 0 | 0 |
 | 4° medio · Formación General | 91 | 466 | 0 | 0 | 0 |
-| **Total** | **2.823** | **12.997** | **7.136** | **3.700** | **0** |
+| **Total** | **2.823** | **12.997** | **7.337** | **3.822** | **0** |
 
 “Secuenciada” significa que la clase tiene posición y dosificación. “Desarrollada” exige contenido pedagógico completo. “Revisada” exige evidencia humana registrada; actualmente hay 0 clases revisadas. Estas categorías no son equivalentes.
 
@@ -25,5 +25,7 @@ En 7° básico, las doce denominaciones curriculares reúnen 760 clases desarrol
 En 8° básico, las doce denominaciones curriculares reúnen 771 clases desarrolladas y 430 experiencias integradas. No quedan propuestas secuenciadas ni borradores en el nivel.
 
 En 1° medio, las once denominaciones reúnen 753 clases desarrolladas y 456 experiencias integradas. No quedan propuestas secuenciadas ni borradores; el nivel tiene desarrollo interno completo y revisión humana pendiente.
+
+En 2° medio, Matemática y Lengua y Literatura reúnen 201 clases desarrolladas y 122 experiencias integradas. Las otras denominaciones conservan 877 propuestas secuenciadas; el nivel permanece en desarrollo y con revisión humana pendiente.
 
 [Qué es un OA](QUE_ES_UN_OA.md) · [Formatos Markdown y HTML](FORMATOS.md) · [Volver al centro documental](README.md)
