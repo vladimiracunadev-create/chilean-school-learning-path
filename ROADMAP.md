@@ -14,12 +14,12 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 6° básico | 301 | 1.374 | Completo: 952 desarrolladas + 422 integradas |
 | 7° básico | 275 | 1.275 | Completo: 760 desarrolladas + 515 integradas · 0 pendientes |
 | 8° básico | 253 | 1.201 | Completo: 771 desarrolladas + 430 integradas · 0 pendientes |
-| 1° medio | 253 | 1.209 | En desarrollo: seis denominaciones completas · 586 desarrolladas + 339 integradas · 284 pendientes |
+| 1° medio | 253 | 1.209 | Completo: 753 desarrolladas + 456 integradas · 11 denominaciones |
 | 2° medio | 248 | 1.200 | Secuenciado |
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **6.969 clases desarrolladas**, **3.583 experiencias integradas**, **0 propuestas pendientes dentro de 1° a 8° básico**, **284 pendientes en las otras cinco asignaturas de 1° medio** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **7.136 clases desarrolladas**, **3.700 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 1° medio**, **2.161 pendientes desde 2° hasta 4° medio** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -106,7 +106,9 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **6.969 clases desarrolladas*
 - [x] Publicar índice, mapa técnico, vista web y dos guías para Matemática y Lengua y Literatura de 1° medio.
 - [x] Completar Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) de 1° medio: 377 clases en 74 OA de contenido y 217 experiencias integradas de 49 OA transversales.
 - [x] Publicar las cuatro guías nuevas y sincronizar catálogo, portal y documentación central.
-- [ ] Completar las cinco asignaturas restantes de 1° medio y luego 2° medio.
+- [x] Completar Artes Visuales, Música, Educación Física y Salud, Orientación y Tecnología de 1° medio: 167 clases en 34 OA de contenido y 117 experiencias integradas de 28 OA transversales.
+- [x] Completar 1° medio: 753 clases disciplinares y 456 experiencias integradas en once denominaciones curriculares, sin propuestas pendientes.
+- [ ] Iniciar 2° medio por asignatura completa.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
 
 Cada nivel debe pasar por el mismo contrato: desarrollo disciplinar, verificación automática, revisión humana documentada y comprobación visual del portal.

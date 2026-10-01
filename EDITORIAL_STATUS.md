@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-30**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores; las propuestas pendientes permanecen secuenciadas |
-| Desarrollada | 6.969 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 3.583 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 7.136 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 3.700 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **1° a 8° básico tienen desarrollo interno completo**. En 1° medio están completas seis denominaciones; las otras cinco conservan 284 propuestas secuenciadas, por lo que el nivel no se declara completo. La revisión humana permanece separada y pendiente.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 1° medio, los nueve niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
 ## Reconstrucción de 1° básico
 
@@ -158,7 +158,7 @@ Las doce denominaciones cumplen el contrato automatizado y cuentan con [índice 
 
 Las doce denominaciones mantienen continuidad explícita con 7°, secuencias OA por OA y el contrato de aula completo. El nivel se declara con desarrollo interno completo, pero no revisado: siguen pendientes la revisión profesional y el pilotaje documentado.
 
-## Desarrollo actual de 1° medio
+## 1° medio completo
 
 | Asignatura | OA de contenido | Clases desarrolladas | OA transversales | Experiencias integradas | Pendientes en la asignatura |
 |---|---:|---:|---:|---:|---:|
@@ -168,10 +168,14 @@ Las doce denominaciones mantienen continuidad explícita con 7°, secuencias OA 
 | Historia, Geografía y Ciencias Sociales | 25 | 132 | 23 | 103 | 0 |
 | Inglés | 16 | 80 | 5 | 21 | 0 |
 | Inglés (Propuesta) | 13 | 65 | 0 | 0 | 0 |
-| Otras cinco asignaturas | — | 0 | — | 0 | 284 |
-| **Estado del nivel** | **113** | **586** | **78** | **339** | **284** |
+| Artes Visuales | 6 | 29 | 8 | 33 | 0 |
+| Música | 7 | 32 | 9 | 37 | 0 |
+| Educación Física y Salud | 5 | 28 | 7 | 28 | 0 |
+| Orientación | 10 | 52 | 0 | 0 | 0 |
+| Tecnología | 6 | 26 | 4 | 19 | 0 |
+| **Estado del nivel** | **147** | **753** | **106** | **456** | **0** |
 
-Las seis denominaciones desarrolladas cuentan con secuencias específicas, integraciones transversales cuando corresponden, [índice del nivel](docs/1-medio/README.md) y guías propias. Las 284 propuestas restantes se mantienen visibles como secuenciadas; publicar sus fichas no equivale a declararlas desarrolladas.
+Las once denominaciones cuentan con secuencias específicas, integraciones transversales cuando corresponden, [índice del nivel](docs/1-medio/README.md) y guías propias. El nivel no conserva propuestas secuenciadas ni borradores; la revisión humana sigue pendiente.
 
 ## Cobertura publicada
 

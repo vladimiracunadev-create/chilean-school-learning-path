@@ -1,6 +1,6 @@
 # Matemática · 1° medio
 
-[⬅️ Índice de 1° medio](README.md) · [← Lengua y Literatura](lengua-literatura.md)
+[⬅️ Índice de 1° medio](README.md) · [← Lengua y Literatura](lengua-literatura.md) · [Música →](musica.md)
 
 **15 OA de contenido · 66 clases desarrolladas · 21 OA transversales · 89 experiencias integradas · 9 ejes curriculares · revisión humana pendiente**
 

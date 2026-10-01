@@ -759,23 +759,23 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
             return _english_grade_one_middle(topic, focus, seed)
         return _english(topic, focus, seed)
     if subject_slug == "artes-visuales":
-        if grade in {7, 8}:
+        if grade in {7, 8, 9}:
             return _arts_grade_seven(topic, focus, seed)
         return _arts(topic, focus, seed)
     if subject_slug == "musica":
-        if grade in {7, 8}:
+        if grade in {7, 8, 9}:
             return _music_grade_seven(topic, focus, seed)
         return _music(topic, focus, seed)
     if subject_slug == "educacion-fisica-salud":
-        if grade in {7, 8}:
+        if grade in {7, 8, 9}:
             return _physical_grade_seven(topic, focus, seed)
         return _physical(topic, focus, seed)
     if subject_slug == "orientacion":
-        if grade in {7, 8}:
+        if grade in {7, 8, 9}:
             return _orientation_grade_seven(topic, focus, seed)
         return _orientation(topic, focus, seed)
     if subject_slug == "tecnologia":
-        if grade in {7, 8}:
+        if grade in {7, 8, 9}:
             return _technology_grade_seven(topic, focus, seed)
         return _technology(topic, focus, seed)
     if subject_slug in {"lengua-cultura-pueblos-originarios-ancestrales", "lengua-indigena"}:

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30 · 1° medio completo
+
+- Se completaron Artes Visuales, Música, Educación Física y Salud, Orientación y Tecnología con 167 clases disciplinares y 117 experiencias integradas nuevas.
+- 1° medio alcanza 753 clases desarrolladas, 456 experiencias integradas y 0 propuestas pendientes en sus once denominaciones.
+- El proyecto suma 7.136 clases desarrolladas y 3.700 experiencias integradas; desde 1° básico hasta 1° medio hay nueve niveles consecutivos con desarrollo interno completo.
+- Se añadieron cinco guías y se reconciliaron README, portal, cobertura, estado editorial, roadmap, metodología, syllabus, validadores y plan maestro.
+
 ## 2026-09-30 · Cuatro nuevas asignaturas desarrolladas de 1° medio
 
 - Se completaron Ciencias Naturales, Historia, Geografía y Ciencias Sociales, Inglés e Inglés (Propuesta) de 1° medio con 377 clases disciplinares y 217 experiencias integradas nuevas.

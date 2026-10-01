@@ -73,7 +73,7 @@ def main() -> None:
     for key, value in plan["professional_controls"].items():
         evidence = value["evidence"] or "Nombre o rol, fecha, alcance, hallazgos y cierre documentado"
         lines.append(f"| {control_names[key]} | {value['status'].replace('_', ' ')} | {evidence} |")
-    lines += ["", "## Gates del desarrollo interno de 1° básico a 1° medio", "", "Estos controles están cerrados para las asignaturas desarrolladas. 1° a 8° básico están completos; en 1° medio el cierre aplica a Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Inglés e Inglés (Propuesta). La revisión profesional continúa como un estado posterior e independiente.", ""]
+    lines += ["", "## Gates del desarrollo interno de 1° básico a 1° medio", "", "Estos controles están cerrados para todas las asignaturas inventariadas desde 1° básico hasta 1° medio. La revisión profesional continúa como un estado posterior e independiente.", ""]
     lines += [f"- [x] {gate}" for gate in plan["completion_gates"]]
     lines += ["", "## Regla de comunicación", "", "El avance se informa con OA y clases efectivamente desarrollados. No se usan cantidad de archivos, publicación HTML ni plantillas como sustitutos de contenido terminado. Una asignatura solo aparece como **desarrollo interno completo** cuando todos sus OA disciplinares y sus gates internos están cerrados; solo aparece como **revisada** cuando existe evidencia profesional humana registrada.", ""]
     (ROOT / "docs/PLAN_DESARROLLO.md").write_text("\n".join(lines), encoding="utf-8")

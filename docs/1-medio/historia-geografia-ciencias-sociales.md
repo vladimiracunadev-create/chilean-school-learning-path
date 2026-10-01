@@ -1,6 +1,6 @@
 # Historia, Geografía y Ciencias Sociales · 1° medio
 
-[⬅️ Índice de 1° medio](README.md) · [← Ciencias Naturales](ciencias-naturales.md) · [Inglés →](ingles.md)
+[⬅️ Índice de 1° medio](README.md) · [← Educación Física y Salud](educacion-fisica-salud.md) · [Inglés →](ingles.md)
 
 **25 OA de contenido · 132 clases desarrolladas · 23 OA transversales · 103 experiencias integradas · 8 ejes curriculares · revisión humana pendiente**
 

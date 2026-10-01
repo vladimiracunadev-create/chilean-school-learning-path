@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al centro documental](README.md) · [Estado editorial](../EDITORIAL_STATUS.md) · [Metodología](../METHODOLOGY.md)
 
-**Nivel activo:** 1° medio — en desarrollo · **Asignatura activa:** Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) · **Unidad de entrega:** cuatro asignaturas completas
+**Nivel activo:** 2° medio — siguiente nivel por desarrollar · **Asignatura activa:** Por definir · **Unidad de entrega:** una asignatura completa
 
 Este documento es la fuente de seguimiento del desarrollo pedagógico. Publicar archivos no cierra el desarrollo interno de una asignatura: deben cumplirse sus gates automatizados y mantenerse separadas la producción interna y la revisión profesional humana.
 
@@ -120,11 +120,11 @@ flowchart LR
 | 1° medio | 2 | Lengua y Literatura | 24 | 143 | 8 | Desarrollo interno completo · revisión humana pendiente |
 | 1° medio | 3 | Ciencias Naturales | 20 | 100 | 21 | Desarrollo interno completo · revisión humana pendiente |
 | 1° medio | 4 | Historia, Geografía y Ciencias Sociales | 25 | 132 | 23 | Desarrollo interno completo · revisión humana pendiente |
-| 1° medio | 5 | Artes Visuales | 6 | 29 | 8 | 0/6 OA desarrollados |
-| 1° medio | 6 | Música | 7 | 32 | 9 | 0/7 OA desarrollados |
-| 1° medio | 7 | Educación Física y Salud | 5 | 28 | 7 | 0/5 OA desarrollados |
-| 1° medio | 8 | Orientación | 10 | 52 | 0 | 0/10 OA desarrollados |
-| 1° medio | 9 | Tecnología | 6 | 26 | 4 | 0/6 OA desarrollados |
+| 1° medio | 5 | Artes Visuales | 6 | 29 | 8 | Desarrollo interno completo · revisión humana pendiente |
+| 1° medio | 6 | Música | 7 | 32 | 9 | Desarrollo interno completo · revisión humana pendiente |
+| 1° medio | 7 | Educación Física y Salud | 5 | 28 | 7 | Desarrollo interno completo · revisión humana pendiente |
+| 1° medio | 8 | Orientación | 10 | 52 | 0 | Desarrollo interno completo · revisión humana pendiente |
+| 1° medio | 9 | Tecnología | 6 | 26 | 4 | Desarrollo interno completo · revisión humana pendiente |
 | 1° medio | 10 | Inglés | 16 | 80 | 5 | Desarrollo interno completo · revisión humana pendiente |
 | 1° medio | 11 | Inglés (Propuesta) | 13 | 65 | 0 | Desarrollo interno completo · revisión humana pendiente |
 
@@ -2243,55 +2243,55 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `AR1M OA 01` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-01) |
-| `AR1M OA 02` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-02) |
-| `AR1M OA 03` | Expresar y crear visualmente | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-03) |
-| `AR1M OA 04` | Apreciar y responder frente al arte | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-04) |
-| `AR1M OA 05` | Apreciar y responder frente al arte | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-05) |
-| `AR1M OA 06` | Difundir y comunicar | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-06) |
+| `AR1M OA 01` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-01) |
+| `AR1M OA 02` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-02) |
+| `AR1M OA 03` | Expresar y crear visualmente | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-03) |
+| `AR1M OA 04` | Apreciar y responder frente al arte | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-04) |
+| `AR1M OA 05` | Apreciar y responder frente al arte | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-05) |
+| `AR1M OA 06` | Difundir y comunicar | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/artes-visuales/1-medio/ar1m-oa-06) |
 
-**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 29 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 8 ítems de habilidades o actitudes se incorporan en 33 experiencias dentro de las 29 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Música · 1° medio
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `MU1M OA 01` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-01) |
-| `MU1M OA 02` | Escuchar y apreciar | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-02) |
-| `MU1M OA 03` | Interpretar y crear | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-03) |
-| `MU1M OA 04` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-04) |
-| `MU1M OA 05` | Interpretar y crear | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-05) |
-| `MU1M OA 06` | Reflexionar y relacionar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-06) |
-| `MU1M OA 07` | Reflexionar y relacionar | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-07) |
+| `MU1M OA 01` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-01) |
+| `MU1M OA 02` | Escuchar y apreciar | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-02) |
+| `MU1M OA 03` | Interpretar y crear | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-03) |
+| `MU1M OA 04` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-04) |
+| `MU1M OA 05` | Interpretar y crear | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-05) |
+| `MU1M OA 06` | Reflexionar y relacionar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-06) |
+| `MU1M OA 07` | Reflexionar y relacionar | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/musica/1-medio/mu1m-oa-07) |
 
-**Integración transversal documentada:** 9 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 32 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 9 ítems de habilidades o actitudes se incorporan en 37 experiencias dentro de las 32 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Educación Física y Salud · 1° medio
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `EF1M OA 01` | Habilidades motrices | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-01) |
-| `EF1M OA 02` | Habilidades motrices | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-02) |
-| `EF1M OA 03` | Vida activa y saludable | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-03) |
-| `EF1M OA 04` | Vida activa y saludable | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-04) |
-| `EF1M OA 05` | Responsabilidad personal y social en el deporte y la actividad física | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-05) |
+| `EF1M OA 01` | Habilidades motrices | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-01) |
+| `EF1M OA 02` | Habilidades motrices | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-02) |
+| `EF1M OA 03` | Vida activa y saludable | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-03) |
+| `EF1M OA 04` | Vida activa y saludable | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-04) |
+| `EF1M OA 05` | Responsabilidad personal y social en el deporte y la actividad física | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/educacion-fisica-salud/1-medio/ef1m-oa-05) |
 
-**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 28 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 7 ítems de habilidades o actitudes se incorporan en 28 experiencias dentro de las 28 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Orientación · 1° medio
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `OR1M OA 01` | Crecimiento personal | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-01) |
-| `OR1M OA 02` | Crecimiento personal | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-02) |
-| `OR1M OA 03` | Bienestar y autocuidado | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-03) |
-| `OR1M OA 04` | Bienestar y autocuidado | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-04) |
-| `OR1M OA 05` | Relaciones interpersonales | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-05) |
-| `OR1M OA 06` | Relaciones interpersonales | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-06) |
-| `OR1M OA 07` | Pertenencia y participación democrática | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-07) |
-| `OR1M OA 08` | Pertenencia y participación democrática | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-08) |
-| `OR1M OA 09` | Gestión y proyección del aprendizaje | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-09) |
-| `OR1M OA 10` | Gestión y proyección del aprendizaje | 6 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-10) |
+| `OR1M OA 01` | Crecimiento personal | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-01) |
+| `OR1M OA 02` | Crecimiento personal | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-02) |
+| `OR1M OA 03` | Bienestar y autocuidado | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-03) |
+| `OR1M OA 04` | Bienestar y autocuidado | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-04) |
+| `OR1M OA 05` | Relaciones interpersonales | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-05) |
+| `OR1M OA 06` | Relaciones interpersonales | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-06) |
+| `OR1M OA 07` | Pertenencia y participación democrática | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-07) |
+| `OR1M OA 08` | Pertenencia y participación democrática | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-08) |
+| `OR1M OA 09` | Gestión y proyección del aprendizaje | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-09) |
+| `OR1M OA 10` | Gestión y proyección del aprendizaje | 6 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/orientacion/1-medio/or1m-oa-10) |
 
 **Integración transversal:** la asignatura no registra OA separados de habilidades o actitudes en el snapshot; las habilidades propias se observan dentro de las clases de contenido.
 
@@ -2299,14 +2299,14 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 
 | Ítem | Eje | Clases | Estado | Fuente |
 |---|---|---:|---|---|
-| `TE1M OA 01` | Resolución de problemas tecnológicos | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-01) |
-| `TE1M OA 02` | Resolución de problemas tecnológicos | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-02) |
-| `TE1M OA 03` | Resolución de problemas tecnológicos | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-03) |
-| `TE1M OA 04` | Resolución de problemas tecnológicos | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-04) |
-| `TE1M OA 05` | Tecnología, ambiente y sociedad | 5 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-05) |
-| `TE1M OA 06` | Tecnología, ambiente y sociedad | 4 | Pendiente | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-06) |
+| `TE1M OA 01` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-01) |
+| `TE1M OA 02` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-02) |
+| `TE1M OA 03` | Resolución de problemas tecnológicos | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-03) |
+| `TE1M OA 04` | Resolución de problemas tecnológicos | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-04) |
+| `TE1M OA 05` | Tecnología, ambiente y sociedad | 5 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-05) |
+| `TE1M OA 06` | Tecnología, ambiente y sociedad | 4 | Desarrollado | [Currículum Nacional](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/1-medio/te1m-oa-06) |
 
-**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 0 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
+**Integración transversal documentada:** 4 ítems de habilidades o actitudes se incorporan en 19 experiencias dentro de las 26 clases de contenido; no se contabilizan como clases autónomas.
 
 ### Inglés · 1° medio
 
@@ -2359,12 +2359,12 @@ Cada fila corresponde a un ítem curricular real. Las clases indicadas son la do
 | Pedagógico | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Accesibilidad e inclusión | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
 | Cultural y contextual | pendiente | Nombre o rol, fecha, alcance, hallazgos y cierre documentado |
-| Documental y fuentes | control interno completo niveles 1 a 8 y seis denominaciones 1 medio | Las asignaturas inventariadas de 1° a 8° básico y seis denominaciones de 1° medio registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; el nivel medio conserva separadas las cinco asignaturas todavía secuenciadas |
+| Documental y fuentes | control interno completo desde 1 basico hasta 1 medio | Todas las asignaturas inventariadas desde 1° básico hasta 1° medio registran ficha oficial por OA, origen explícito de criterios y clases verificadas en catálogo, Markdown y HTML; la revisión profesional permanece separada y pendiente |
 | Derechos y privacidad | interno en curso | validación automática de licencias y prohibición de datos personales |
 
 ## Gates del desarrollo interno de 1° básico a 1° medio
 
-Estos controles están cerrados para las asignaturas desarrolladas. 1° a 8° básico están completos; en 1° medio el cierre aplica a Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Inglés e Inglés (Propuesta). La revisión profesional continúa como un estado posterior e independiente.
+Estos controles están cerrados para todas las asignaturas inventariadas desde 1° básico hasta 1° medio. La revisión profesional continúa como un estado posterior e independiente.
 
 - [x] Todos los OA disciplinares tienen secuencias específicas y completas.
 - [x] Habilidades y actitudes están mapeadas dentro de las clases y no se contabilizan como clases independientes.

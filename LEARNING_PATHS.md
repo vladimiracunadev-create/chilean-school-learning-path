@@ -4,7 +4,7 @@ No todas las personas necesitan recorrer el repositorio del mismo modo. Estas ru
 
 ## Docente de contenido desarrollado · 1° básico a 1° medio
 
-1. Abre el mapa del nivel; 1° a 8° básico están completos. En [1° medio](docs/1-medio/README.md), usa las seis guías completas —Matemática, Lengua y Literatura, Ciencias Naturales, Historia, Inglés e Inglés (Propuesta)— y comprueba siempre el estado editorial y de revisión.
+1. Abre el mapa del nivel; desde 1° básico hasta [1° medio](docs/1-medio/README.md) están completos. Elige la guía de asignatura y comprueba siempre el estado editorial y de revisión.
 2. Elige asignatura y OA desde el portal.
 3. Revisa la clase anterior y siguiente para entender la progresión.
 4. Usa la [guía pedagógica](TEACHING_GUIDE.md) para ajustar tiempos, apoyos y profundización.

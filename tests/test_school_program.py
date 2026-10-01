@@ -31,6 +31,7 @@ from scripts.grade_eight_next_four_lessons import SEQUENCES as GRADE_EIGHT_NEXT_
 from scripts.grade_eight_remaining_lessons import SEQUENCES as GRADE_EIGHT_REMAINING_SEQUENCES, build_sequence as build_grade_eight_remaining_sequence
 from scripts.grade_one_middle_core_lessons import SEQUENCES as GRADE_ONE_MIDDLE_CORE_SEQUENCES, build_sequence as build_grade_one_middle_core_sequence
 from scripts.grade_one_middle_next_four_lessons import SEQUENCES as GRADE_ONE_MIDDLE_NEXT_FOUR_SEQUENCES, build_sequence as build_grade_one_middle_next_four_sequence
+from scripts.grade_one_middle_remaining_lessons import SEQUENCES as GRADE_ONE_MIDDLE_REMAINING_SEQUENCES, build_sequence as build_grade_one_middle_remaining_sequence
 
 
 class SchoolProgramTests(unittest.TestCase):
@@ -52,22 +53,22 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(len(self.catalog["classes"]), 12997)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
-        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 6969)
-        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 3583)
+        self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 7136)
+        self.assertEqual(self.catalog["editorial_counts"]["integrada"], 3700)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
 
-    def test_current_surfaces_agree_that_first_through_eighth_are_complete(self):
+    def test_current_surfaces_agree_that_first_through_first_middle_are_complete(self):
         plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
-        self.assertEqual(plan["active_level"], "1° medio — en desarrollo")
-        self.assertEqual(plan["active_subject"], "Ciencias Naturales, Historia, Inglés e Inglés (Propuesta)")
+        self.assertEqual(plan["active_level"], "2° medio — siguiente nivel por desarrollar")
+        self.assertEqual(plan["active_subject"], "Por definir")
         self.assertEqual(
             plan["professional_controls"]["documentary_and_sources"]["status"],
-            "control_interno_completo_niveles_1_a_8_y_seis_denominaciones_1_medio",
+            "control_interno_completo_desde_1_basico_hasta_1_medio",
         )
         current_surfaces = {
-            "README.md": ("1° a 8° básico", "8° básico completo", "1° medio en desarrollo", "6.969"),
-            "docs/PLAN_DESARROLLO.md": ("1° medio — en desarrollo", "Definición y orden editorial de 1° básico a 1° medio", "MA1M OA 15", "LE1M OA 24", "CN1M OA 20", "HI1M OA 25", "IN1M OA 16", "EN1M OA 13", "Gates del desarrollo interno de 1° básico a 1° medio", "- [x] Todos los OA disciplinares"),
-            "site/index.html": ("Ocho niveles completos", "1° medio", "6.969 clases", "3.583 experiencias integradas"),
+            "README.md": ("1° básico a 1° medio", "8° básico completo", "1° medio completo", "7.136"),
+            "docs/PLAN_DESARROLLO.md": ("2° medio — siguiente nivel por desarrollar", "Definición y orden editorial de 1° básico a 1° medio", "MA1M OA 15", "LE1M OA 24", "CN1M OA 20", "HI1M OA 25", "IN1M OA 16", "EN1M OA 13", "AR1M OA 06", "MU1M OA 07", "EF1M OA 05", "OR1M OA 10", "TE1M OA 06", "Gates del desarrollo interno de 1° básico a 1° medio", "- [x] Todos los OA disciplinares"),
+            "site/index.html": ("Nueve niveles consecutivos", "1° medio", "7.136 clases", "3.700 experiencias integradas"),
         }
         stale_tokens = (
             "Siete asignaturas de 7°",
@@ -96,12 +97,8 @@ class SchoolProgramTests(unittest.TestCase):
                 guide_path = f"docs/{course_order}-basico/{subject_slug}.md"
                 self.assertIn(guide_path, readme, f"README no enlaza {guide_path}")
         self.assertIn("docs/1-medio/README.md", readme)
-        self.assertIn("docs/1-medio/matematica.md", readme)
-        self.assertIn("docs/1-medio/lengua-literatura.md", readme)
-        self.assertIn("docs/1-medio/ciencias-naturales.md", readme)
-        self.assertIn("docs/1-medio/historia-geografia-ciencias-sociales.md", readme)
-        self.assertIn("docs/1-medio/ingles.md", readme)
-        self.assertIn("docs/1-medio/ingles-propuesta.md", readme)
+        for subject_slug in {item["subject_slug"] for item in self.catalog["classes"] if item["course_order"] == 9}:
+            self.assertIn(f"docs/1-medio/{subject_slug}.md", readme)
         stale_claims = (
             "Desde 1° hasta 4° medio",
             "Seis asignaturas desarrolladas de 8° básico",
@@ -129,7 +126,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(sum(item["editorial_status"] == "borrador" for item in first_grade), 0)
         self.assertEqual(len({item["oa_code"] for item in first_grade}), 237)
         self.assertEqual(len({item["subject"] for item in first_grade}), 11)
-        self.assertEqual(len(developed), 6969)
+        self.assertEqual(len(developed), 7136)
 
     def test_first_middle_mathematics_and_language_are_complete_and_specific(self):
         first_middle = [item for item in self.catalog["classes"] if item["course_order"] == 9]
@@ -192,10 +189,6 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual((len(sequences), len(lessons)), (74, 377))
         self.assertEqual(len({lesson["title"] for lesson in lessons}), 377)
         self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
-        self.assertEqual(
-            (len(first_middle), sum(item["editorial_status"] == "desarrollada" for item in first_middle), sum(item["editorial_status"] == "integrada" for item in first_middle), sum(item["editorial_status"] == "secuenciada" for item in first_middle)),
-            (1209, 586, 339, 284),
-        )
         samples = {
             "curriculum/1-medio/ciencias-naturales/cn1m-oa-02.md": ("evolución", "evidencia"),
             "curriculum/1-medio/ciencias-naturales/cn1m-oa-13.md": ("sismos", "ondas"),
@@ -215,6 +208,47 @@ class SchoolProgramTests(unittest.TestCase):
             "docs/1-medio/ingles-propuesta.md",
         ):
             self.assertTrue((ROOT / relative).is_file(), relative)
+
+    def test_first_middle_remaining_subjects_complete_the_level(self):
+        first_middle = [item for item in self.catalog["classes"] if item["course_order"] == 9]
+        expected = {
+            "artes-visuales": (29, 6, 33, 8),
+            "musica": (32, 7, 37, 9),
+            "educacion-fisica-salud": (28, 5, 28, 7),
+            "orientacion": (52, 10, 0, 0),
+            "tecnologia": (26, 6, 19, 4),
+        }
+        for slug, counts in expected.items():
+            rows = [item for item in first_middle if item["subject_slug"] == slug]
+            developed = [item for item in rows if item["editorial_status"] == "desarrollada"]
+            integrated = [item for item in rows if item["editorial_status"] == "integrada"]
+            self.assertEqual(
+                (len(developed), len({item["oa_code"] for item in developed}), len(integrated), len({item["oa_code"] for item in integrated})),
+                counts,
+            )
+            self.assertFalse([item for item in rows if item["editorial_status"] in {"secuenciada", "borrador"}])
+        sequences = [build_grade_one_middle_remaining_sequence(code) for code in sorted(GRADE_ONE_MIDDLE_REMAINING_SEQUENCES)]
+        lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
+        self.assertEqual((len(sequences), len(lessons)), (34, 167))
+        self.assertEqual(len({lesson["title"] for lesson in lessons}), 167)
+        self.assertTrue(all(len(lesson["difficulty_actions"]) >= 3 for lesson in lessons))
+        self.assertEqual(
+            (len(first_middle), sum(item["editorial_status"] == "desarrollada" for item in first_middle), sum(item["editorial_status"] == "integrada" for item in first_middle), sum(item["editorial_status"] == "secuenciada" for item in first_middle)),
+            (1209, 753, 456, 0),
+        )
+        samples = {
+            "curriculum/1-medio/artes-visuales/ar1m-oa-01.md": ("arquitectura", "espacio público"),
+            "curriculum/1-medio/musica/mu1m-oa-05.md": ("improvisación", "arreglo"),
+            "curriculum/1-medio/educacion-fisica-salud/ef1m-oa-03.md": ("entrenamiento", "esfuerzo"),
+            "curriculum/1-medio/orientacion/or1m-oa-02.md": ("sexualidad", "caso ficticio"),
+            "curriculum/1-medio/tecnologia/te1m-oa-02.md": ("servicio", "ética"),
+        }
+        for relative, tokens in samples.items():
+            text = (ROOT / relative).read_text(encoding="utf-8").lower()
+            for token in tokens:
+                self.assertIn(token.lower(), text, relative)
+        for slug in expected:
+            self.assertTrue((ROOT / "docs/1-medio" / f"{slug}.md").is_file(), slug)
 
     def test_eighth_grade_mathematics_and_language_are_complete_and_specific(self):
         eighth = [item for item in self.catalog["classes"] if item["course_order"] == 8]
