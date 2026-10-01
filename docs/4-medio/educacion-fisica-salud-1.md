@@ -62,6 +62,80 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-EFS1-3y4-OAC-04` | Proyectos comunitarios de bienestar y vida activa | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/educacion-fisica-salud-1/fg-efs1-3y4-oac-04.md) |
 | `FG-EFS1-3y4-OAC-05` | Factores que favorecen estilos de vida activos | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/educacion-fisica-salud-1/fg-efs1-3y4-oac-05.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-EFS1-3y4-OAC-01` — Habilidades motrices especializadas, creatividad y seguridad
+
+**Qué significa para la enseñanza.** Habilidades motrices especializadas, creatividad y seguridad recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar cuerpos en vez de decisiones».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «registrar regulación y resultado: habilidades motrices especializadas, creatividad y seguridad» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS1-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-01)
+
+### `FG-EFS1-3y4-OAC-02` — Evaluación de estrategias y tácticas motrices
+
+**Qué significa para la enseñanza.** Evaluación de estrategias y tácticas motrices recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «equiparar aprendizaje con rendimiento».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado → Evaluar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «evaluar y ajustar: evaluación de estrategias y tácticas motrices» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS1-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-02)
+
+### `FG-EFS1-3y4-OAC-03` — Diseño y aplicación de un plan personal de entrenamiento
+
+**Qué significa para la enseñanza.** Diseño y aplicación de un plan personal de entrenamiento recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar la misma carga para todas las personas».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado → Evaluar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «evaluar y ajustar: diseño y aplicación de un plan personal de entrenamiento» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS1-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-03)
+
+### `FG-EFS1-3y4-OAC-04` — Proyectos comunitarios de bienestar y vida activa
+
+**Qué significa para la enseñanza.** Proyectos comunitarios de bienestar y vida activa recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar cuerpos en vez de decisiones».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «registrar regulación y resultado: proyectos comunitarios de bienestar y vida activa» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS1-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-04)
+
+### `FG-EFS1-3y4-OAC-05` — Factores que favorecen estilos de vida activos
+
+**Qué significa para la enseñanza.** Factores que favorecen estilos de vida activos recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «equiparar aprendizaje con rendimiento».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado → Evaluar y ajustar → Transferir con autonomía e inclusión.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «transferir con autonomía e inclusión: factores que favorecen estilos de vida activos» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS1-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-1/4-medio-fg/fg-efs1-3y4-oac-05)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** desempeño o plan individual con decisión motriz, regulación, seguridad, evaluación y ajuste.

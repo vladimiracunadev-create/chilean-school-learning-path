@@ -3,6 +3,7 @@
 <p><strong>Repositorio:</strong> <code>vladimiracunadev-create/chilean-school-learning-path</code></p>
 <p><strong>Alcance Git inspeccionado:</strong> historial completo disponible hasta <code>f0e09d2b</code></p>
 <p><strong>Naturaleza:</strong> auditoría técnica y documental; no es asesoría jurídica.</p>
+<blockquote><strong>Nota terminológica posterior:</strong> esta auditoría histórica usó “12.997 clases” para el total del catálogo. La terminología vigente distingue 8.841 clases disciplinares y 4.156 experiencias de integración transversal, es decir, 12.997 registros pedagógicos. Las cifras históricas de ejecución que siguen se conservan como evidencia de la fecha de corte.</blockquote>
 <h2 id="1-estado-encontrado">1. Estado encontrado</h2>
 <p>El repositorio ya aplicaba correctamente un modelo por capas: MIT para software original; CC BY-NC-SA 4.0 para contenido educativo original; políticas específicas para datos y activos; conservación de derechos de terceros; y exclusión de marcas. El árbol estaba limpio, <code>main</code> coincidía con <code>origin/main</code> y no existían ramas locales auxiliares ni otros worktrees.</p>
 <p>El riesgo material estaba en las salidas mixtas. Las 2.823 fichas curriculares reproducían código y redacción oficial de OA junto con elaboración pedagógica original, mientras el pie HTML resumía toda la página como “contenido original CC BY-NC-SA 4.0”. La política general excluía documentos oficiales, pero el aviso de la salida podía inducir a una interpretación más amplia.</p>

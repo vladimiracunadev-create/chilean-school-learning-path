@@ -64,6 +64,108 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-MUSI-3y4-OAC-06` | Evaluación crítica de procesos y resultados musicales | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/musica/fg-musi-3y4-oac-06.md) |
 | `FG-MUSI-3y4-OAC-07` | Gestión y difusión de obras e interpretaciones musicales | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/musica/fg-musi-3y4-oac-07.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-MUSI-3y4-OAC-01` — Experimentación con estilos y producción musical contemporánea
+
+**Qué significa para la enseñanza.** Experimentación con estilos y producción musical contemporánea recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «imitar sin decidir».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «interpretar, crear o analizar: experimentación con estilos y producción musical contemporánea» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-01)
+
+### `FG-MUSI-3y4-OAC-02` — Creación musical, emociones e ideas
+
+**Qué significa para la enseñanza.** Creación musical, emociones e ideas recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «opinar sin evidencia audible».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar → Registrar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «registrar y ajustar: creación musical, emociones e ideas» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-02)
+
+### `FG-MUSI-3y4-OAC-03` — Interpretación de repertorios y estilos musicales
+
+**Qué significa para la enseñanza.** Interpretación de repertorios y estilos musicales recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir calidad con volumen o velocidad».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar → Registrar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «registrar y ajustar: interpretación de repertorios y estilos musicales» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-03)
+
+### `FG-MUSI-3y4-OAC-04` — Análisis de propósitos expresivos en obras musicales
+
+**Qué significa para la enseñanza.** Análisis de propósitos expresivos en obras musicales recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «imitar sin decidir».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar → Registrar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «registrar y ajustar: análisis de propósitos expresivos en obras musicales» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-04)
+
+### `FG-MUSI-3y4-OAC-05` — Juicios estéticos musicales fundamentados
+
+**Qué significa para la enseñanza.** Juicios estéticos musicales fundamentados recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «opinar sin evidencia audible».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar → Registrar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «registrar y ajustar: juicios estéticos musicales fundamentados» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-05)
+
+### `FG-MUSI-3y4-OAC-06` — Evaluación crítica de procesos y resultados musicales
+
+**Qué significa para la enseñanza.** Evaluación crítica de procesos y resultados musicales recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir calidad con volumen o velocidad».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar → Registrar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «registrar y ajustar: evaluación crítica de procesos y resultados musicales» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-06)
+
+### `FG-MUSI-3y4-OAC-07` — Gestión y difusión de obras e interpretaciones musicales
+
+**Qué significa para la enseñanza.** Gestión y difusión de obras e interpretaciones musicales recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «imitar sin decidir».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible.
+
+**Cómo progresa.** Escuchar y reconocer rasgos → Explorar recursos de producción → Ensayar una decisión musical → Interpretar, crear o analizar → Registrar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «registrar y ajustar: gestión y difusión de obras e interpretaciones musicales» con decisión musical y audible, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MUSI-3y4-OAC-07](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/musica/4-medio-fg/fg-musi-3y4-oac-07)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** interpretación, creación o análisis individual que localiza evidencia audible y justifica una decisión musical.

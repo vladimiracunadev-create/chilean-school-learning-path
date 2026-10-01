@@ -238,7 +238,7 @@ Las diecisiete denominaciones cuentan con [índice de nivel](docs/4-medio/README
 - 35 asignaturas o denominaciones curriculares.
 - 2.823 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 2.823 páginas HTML de OA con anclas estables para las 12.997 clases.
+- 2.823 páginas HTML de OA con anclas estables para 12.997 registros pedagógicos: 8.841 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

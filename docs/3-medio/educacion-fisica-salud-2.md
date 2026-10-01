@@ -62,6 +62,80 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-EFS2-3y4-OAC-04` | Evaluación de programas comunitarios de bienestar | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/educacion-fisica-salud-2/fg-efs2-3y4-oac-04.md) |
 | `FG-EFS2-3y4-OAC-05` | Oportunidades sociales para una vida activa y saludable | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/educacion-fisica-salud-2/fg-efs2-3y4-oac-05.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-EFS2-3y4-OAC-01` — Evaluación de habilidades motrices especializadas
+
+**Qué significa para la enseñanza.** Evaluación de habilidades motrices especializadas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «equiparar aprendizaje con rendimiento».
+
+**Punto de entrada.** Profundiza autonomía y evaluación desde desempeño propio, roles rotativos y análisis crítico de oportunidades de actividad física.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado → Evaluar y ajustar.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «evaluar y ajustar: evaluación de habilidades motrices especializadas» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS2-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-01)
+
+### `FG-EFS2-3y4-OAC-02` — Organización de estrategias y tácticas para un juego inteligente
+
+**Qué significa para la enseñanza.** Organización de estrategias y tácticas para un juego inteligente recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar la misma carga para todas las personas».
+
+**Punto de entrada.** Profundiza autonomía y evaluación desde desempeño propio, roles rotativos y análisis crítico de oportunidades de actividad física.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «registrar regulación y resultado: organización de estrategias y tácticas para un juego inteligente» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS2-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-02)
+
+### `FG-EFS2-3y4-OAC-03` — Aplicación responsable de un plan de entrenamiento
+
+**Qué significa para la enseñanza.** Aplicación responsable de un plan de entrenamiento recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar cuerpos en vez de decisiones».
+
+**Punto de entrada.** Profundiza autonomía y evaluación desde desempeño propio, roles rotativos y análisis crítico de oportunidades de actividad física.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «registrar regulación y resultado: aplicación responsable de un plan de entrenamiento» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS2-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-03)
+
+### `FG-EFS2-3y4-OAC-04` — Evaluación de programas comunitarios de bienestar
+
+**Qué significa para la enseñanza.** Evaluación de programas comunitarios de bienestar recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «equiparar aprendizaje con rendimiento».
+
+**Punto de entrada.** Profundiza autonomía y evaluación desde desempeño propio, roles rotativos y análisis crítico de oportunidades de actividad física.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado → Evaluar y ajustar → Transferir con autonomía e inclusión.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «transferir con autonomía e inclusión: evaluación de programas comunitarios de bienestar» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS2-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-04)
+
+### `FG-EFS2-3y4-OAC-05` — Oportunidades sociales para una vida activa y saludable
+
+**Qué significa para la enseñanza.** Oportunidades sociales para una vida activa y saludable recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar la misma carga para todas las personas».
+
+**Punto de entrada.** Profundiza autonomía y evaluación desde desempeño propio, roles rotativos y análisis crítico de oportunidades de actividad física.
+
+**Conceptos que deben explicitarse.** habilidad motriz, estrategia, táctica, carga, esfuerzo, recuperación, regulación, seguridad, inclusión, evaluación.
+
+**Cómo progresa.** Diagnosticar de forma privada y segura → Elegir una respuesta motriz → Aplicar estrategia o plan → Registrar regulación y resultado → Evaluar y ajustar → Transferir con autonomía e inclusión.
+
+**Qué evidencia demuestra aprendizaje.** Desempeño o plan individual de «transferir con autonomía e inclusión: oportunidades sociales para una vida activa y saludable» con autorregulación, seguridad, evaluación y ajuste.
+
+**Fuente oficial.** [Currículum Nacional · FG-EFS2-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-fisica-salud-2/3-medio-fg/fg-efs2-3y4-oac-05)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** desempeño, registro o evaluación individual con criterios funcionales, ajuste seguro y reflexión contextual.

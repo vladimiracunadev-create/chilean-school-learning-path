@@ -64,6 +64,108 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-CHLA-3y4-OAC-06` | Integración y cooperación latinoamericana | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/chile-region-latinoamericana/fg-chla-3y4-oac-06.md) |
 | `FG-CHLA-3y4-OAC-07` | Propuestas locales para desafíos regionales | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/chile-region-latinoamericana/fg-chla-3y4-oac-07.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-CHLA-3y4-OAC-01` — Migraciones, urbanización, diversidad e interculturalidad
+
+**Qué significa para la enseñanza.** Migraciones, urbanización, diversidad e interculturalidad recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «tratar una fuente como neutral y completa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «evaluar alternativas: migraciones, urbanización, diversidad e interculturalidad» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-01)
+
+### `FG-CHLA-3y4-OAC-02` — Democracias, transiciones y derechos humanos en América Latina
+
+**Qué significa para la enseñanza.** Democracias, transiciones y derechos humanos en América Latina recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «explicar con una sola causa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «explicar relaciones y consecuencias: democracias, transiciones y derechos humanos en américa latina» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-02)
+
+### `FG-CHLA-3y4-OAC-03` — Desafíos económicos y sociales latinoamericanos
+
+**Qué significa para la enseñanza.** Desafíos económicos y sociales latinoamericanos recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «generalizar desde un caso».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas → Comunicar una conclusión situada.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una conclusión situada: desafíos económicos y sociales latinoamericanos» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-03)
+
+### `FG-CHLA-3y4-OAC-04` — Pueblos indígenas y relaciones con los Estados
+
+**Qué significa para la enseñanza.** Pueblos indígenas y relaciones con los Estados recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «tratar una fuente como neutral y completa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas → Comunicar una conclusión situada.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una conclusión situada: pueblos indígenas y relaciones con los estados» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-04)
+
+### `FG-CHLA-3y4-OAC-05` — Medioambiente y sustentabilidad en Chile y América Latina
+
+**Qué significa para la enseñanza.** Medioambiente y sustentabilidad en Chile y América Latina recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «explicar con una sola causa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «evaluar alternativas: medioambiente y sustentabilidad en chile y américa latina» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-05)
+
+### `FG-CHLA-3y4-OAC-06` — Integración y cooperación latinoamericana
+
+**Qué significa para la enseñanza.** Integración y cooperación latinoamericana recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «generalizar desde un caso».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas → Comunicar una conclusión situada.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una conclusión situada: integración y cooperación latinoamericana» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-06)
+
+### `FG-CHLA-3y4-OAC-07` — Propuestas locales para desafíos regionales
+
+**Qué significa para la enseñanza.** Propuestas locales para desafíos regionales recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «tratar una fuente como neutral y completa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «explicar relaciones y consecuencias: propuestas locales para desafíos regionales» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-CHLA-3y4-OAC-07](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/chile-region-latinoamericana/4-medio-fg/fg-chla-3y4-oac-07)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** explicación o propuesta individual con fuentes contextualizadas, comparación regional y límites explícitos.

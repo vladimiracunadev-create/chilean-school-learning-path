@@ -65,6 +65,122 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-ECIU-3M-OAC-07` | Territorio, justicia social y justicia ambiental | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/educacion-ciudadana-3-medio/fg-eciu-3m-oac-07.md) |
 | `FG-ECIU-3M-OAC-08` | Ejercicio democrático y convivencia escolar | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/educacion-ciudadana-3-medio/fg-eciu-3m-oac-08.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-ECIU-3M-OAC-01` — Fundamentos de democracia, ciudadanía y libertades
+
+**Qué significa para la enseñanza.** Fundamentos de democracia, ciudadanía y libertades recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «presentar derechos como premios».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones → Diseñar una acción democrática.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «diseñar una acción democrática: fundamentos de democracia, ciudadanía y libertades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-01)
+
+### `FG-ECIU-3M-OAC-02` — Acceso a la justicia y sistema judicial
+
+**Qué significa para la enseñanza.** Acceso a la justicia y sistema judicial recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «identificar participación solo con votar».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones → Diseñar una acción democrática → Evaluar efectos y límites.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «evaluar efectos y límites: acceso a la justicia y sistema judicial» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-02)
+
+### `FG-ECIU-3M-OAC-03` — Riesgos contemporáneos para la democracia
+
+**Qué significa para la enseñanza.** Riesgos contemporáneos para la democracia recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir opinión con argumento».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «deliberar con razones: riesgos contemporáneos para la democracia» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-03)
+
+### `FG-ECIU-3M-OAC-04` — Relaciones entre Estado, mercado y justicia económica
+
+**Qué significa para la enseñanza.** Relaciones entre Estado, mercado y justicia económica recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «presentar derechos como premios».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones → Diseñar una acción democrática.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «diseñar una acción democrática: relaciones entre estado, mercado y justicia económica» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-04)
+
+### `FG-ECIU-3M-OAC-05` — Defensa y exigibilidad de los derechos humanos
+
+**Qué significa para la enseñanza.** Defensa y exigibilidad de los derechos humanos recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «identificar participación solo con votar».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «deliberar con razones: defensa y exigibilidad de los derechos humanos» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-05)
+
+### `FG-ECIU-3M-OAC-06` — Participación, bien común y tradiciones políticas
+
+**Qué significa para la enseñanza.** Participación, bien común y tradiciones políticas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir opinión con argumento».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones → Diseñar una acción democrática.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «diseñar una acción democrática: participación, bien común y tradiciones políticas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-06)
+
+### `FG-ECIU-3M-OAC-07` — Territorio, justicia social y justicia ambiental
+
+**Qué significa para la enseñanza.** Territorio, justicia social y justicia ambiental recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «presentar derechos como premios».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «deliberar con razones: territorio, justicia social y justicia ambiental» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-07](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-07)
+
+### `FG-ECIU-3M-OAC-08` — Ejercicio democrático y convivencia escolar
+
+**Qué significa para la enseñanza.** Ejercicio democrático y convivencia escolar recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «identificar participación solo con votar».
+
+**Punto de entrada.** Profundiza ciudadanía de 2° medio mediante marcos conceptuales, casos públicos, deliberación plural y ejercicio democrático protegido.
+
+**Conceptos que deben explicitarse.** democracia, ciudadanía, libertad, derecho, Estado, justicia, participación, territorio, deliberación, bien común.
+
+**Cómo progresa.** Precisar conceptos y derechos → Investigar un caso público → Contrastar perspectivas y evidencia → Deliberar con razones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «deliberar con razones: ejercicio democrático y convivencia escolar» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-ECIU-3M-OAC-08](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/educacion-ciudadana-3-medio/3-medio-fg/fg-eciu-3m-oac-08)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** análisis, deliberación o propuesta individual con conceptos ciudadanos, evidencia, contrapunto y acción democrática segura.

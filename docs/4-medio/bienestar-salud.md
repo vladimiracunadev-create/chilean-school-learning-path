@@ -59,6 +59,52 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-CIBS-3y4-OAC-02` | Comparación informada de sistemas y prácticas de medicina | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/bienestar-salud/fg-cibs-3y4-oac-02.md) |
 | `FG-CIBS-3y4-OAC-03` | Transmisión de agentes infecciosos y prevención basada en evidencia | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/bienestar-salud/fg-cibs-3y4-oac-03.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-CIBS-3y4-OAC-01` — Factores biológicos, ambientales y sociales de la salud
+
+**Qué significa para la enseñanza.** Factores biológicos, ambientales y sociales de la salud recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «ocultar supuestos y límites del modelo».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** sistema, variable, evidencia, fuente, modelo, causalidad, incertidumbre, impacto, mitigación, limitación.
+
+**Cómo progresa.** Delimitar pregunta y sistema → Evaluar fuentes y variables → Construir o interpretar un modelo → Analizar evidencia → Comparar soluciones → Comunicar límites y decisión.
+
+**Qué evidencia demuestra aprendizaje.** Análisis científico individual de «comunicar límites y decisión: factores biológicos, ambientales y sociales de la salud» con evidencia, modelo o mecanismo, fuente y límite.
+
+**Fuente oficial.** [Currículum Nacional · FG-CIBS-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/4-medio-fg/fg-cibs-3y4-oac-01)
+
+### `FG-CIBS-3y4-OAC-02` — Comparación informada de sistemas y prácticas de medicina
+
+**Qué significa para la enseñanza.** Comparación informada de sistemas y prácticas de medicina recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir correlación con causalidad».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** sistema, variable, evidencia, fuente, modelo, causalidad, incertidumbre, impacto, mitigación, limitación.
+
+**Cómo progresa.** Delimitar pregunta y sistema → Evaluar fuentes y variables → Construir o interpretar un modelo → Analizar evidencia → Comparar soluciones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis científico individual de «comparar soluciones: comparación informada de sistemas y prácticas de medicina» con evidencia, modelo o mecanismo, fuente y límite.
+
+**Fuente oficial.** [Currículum Nacional · FG-CIBS-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/4-medio-fg/fg-cibs-3y4-oac-02)
+
+### `FG-CIBS-3y4-OAC-03` — Transmisión de agentes infecciosos y prevención basada en evidencia
+
+**Qué significa para la enseñanza.** Transmisión de agentes infecciosos y prevención basada en evidencia recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar una fuente aislada como certeza».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** sistema, variable, evidencia, fuente, modelo, causalidad, incertidumbre, impacto, mitigación, limitación.
+
+**Cómo progresa.** Delimitar pregunta y sistema → Evaluar fuentes y variables → Construir o interpretar un modelo → Analizar evidencia → Comparar soluciones → Comunicar límites y decisión.
+
+**Qué evidencia demuestra aprendizaje.** Análisis científico individual de «comunicar límites y decisión: transmisión de agentes infecciosos y prevención basada en evidencia» con evidencia, modelo o mecanismo, fuente y límite.
+
+**Fuente oficial.** [Currículum Nacional · FG-CIBS-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/bienestar-salud/4-medio-fg/fg-cibs-3y4-oac-03)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** análisis individual que evalúa evidencia, factores, mecanismos, alcances y límites sin diagnosticar personas.

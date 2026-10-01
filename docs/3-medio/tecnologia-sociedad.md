@@ -59,6 +59,52 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-CITS-3y4-OAC-02` | Avances tecnológicos y ampliación de capacidades humanas | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/tecnologia-sociedad/fg-cits-3y4-oac-02.md) |
 | `FG-CITS-3y4-OAC-03` | Riesgos, beneficios y límites de la tecnología | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/tecnologia-sociedad/fg-cits-3y4-oac-03.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-CITS-3y4-OAC-01` — Proyectos tecnológicos para problemas personales y locales
+
+**Qué significa para la enseñanza.** Proyectos tecnológicos para problemas personales y locales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «ignorar privacidad, acceso e impacto».
+
+**Punto de entrada.** Profundiza diseño y evaluación de 2° medio mediante investigación, modelación y análisis multidimensional de impactos.
+
+**Conceptos que deben explicitarse.** necesidad, usuario, criterio, restricción, modelo, prototipo, prueba, accesibilidad, riesgo, impacto.
+
+**Cómo progresa.** Definir necesidad, usuario y criterio → Investigar alternativas y restricciones → Representar y planificar → Probar o modelar con seguridad → Evaluar impactos y límites.
+
+**Qué evidencia demuestra aprendizaje.** Diseño, modelo o evaluación individual de «evaluar impactos y límites: proyectos tecnológicos para problemas personales y locales» con usuario, criterios, prueba, impactos y revisión.
+
+**Fuente oficial.** [Currículum Nacional · FG-CITS-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/3-medio-fg/fg-cits-3y4-oac-01)
+
+### `FG-CITS-3y4-OAC-02` — Avances tecnológicos y ampliación de capacidades humanas
+
+**Qué significa para la enseñanza.** Avances tecnológicos y ampliación de capacidades humanas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «construir antes de definir el problema».
+
+**Punto de entrada.** Profundiza diseño y evaluación de 2° medio mediante investigación, modelación y análisis multidimensional de impactos.
+
+**Conceptos que deben explicitarse.** necesidad, usuario, criterio, restricción, modelo, prototipo, prueba, accesibilidad, riesgo, impacto.
+
+**Cómo progresa.** Definir necesidad, usuario y criterio → Investigar alternativas y restricciones → Representar y planificar → Probar o modelar con seguridad → Evaluar impactos y límites.
+
+**Qué evidencia demuestra aprendizaje.** Diseño, modelo o evaluación individual de «evaluar impactos y límites: avances tecnológicos y ampliación de capacidades humanas» con usuario, criterios, prueba, impactos y revisión.
+
+**Fuente oficial.** [Currículum Nacional · FG-CITS-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/3-medio-fg/fg-cits-3y4-oac-02)
+
+### `FG-CITS-3y4-OAC-03` — Riesgos, beneficios y límites de la tecnología
+
+**Qué significa para la enseñanza.** Riesgos, beneficios y límites de la tecnología recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar solo apariencia o novedad».
+
+**Punto de entrada.** Profundiza diseño y evaluación de 2° medio mediante investigación, modelación y análisis multidimensional de impactos.
+
+**Conceptos que deben explicitarse.** necesidad, usuario, criterio, restricción, modelo, prototipo, prueba, accesibilidad, riesgo, impacto.
+
+**Cómo progresa.** Definir necesidad, usuario y criterio → Investigar alternativas y restricciones → Representar y planificar → Probar o modelar con seguridad → Evaluar impactos y límites.
+
+**Qué evidencia demuestra aprendizaje.** Diseño, modelo o evaluación individual de «evaluar impactos y límites: riesgos, beneficios y límites de la tecnología» con usuario, criterios, prueba, impactos y revisión.
+
+**Fuente oficial.** [Currículum Nacional · FG-CITS-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/tecnologia-sociedad/3-medio-fg/fg-cits-3y4-oac-03)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** diseño, modelo o evaluación individual con usuario, criterios, prueba, riesgos, beneficios y mejora.

@@ -825,7 +825,7 @@ def validate(root: Path = ROOT) -> list[str]:
         "docs/DIFICULTADES_EN_EL_AULA.md": ("Control de dificultades en el aula con acciones", "observar → actuar → comprobar → decidir"),
         "docs/COBERTURA.md": ("Cobertura completa y navegable", "12.997"),
         "docs/PLAN_DESARROLLO.md": ("Plan maestro de desarrollo y control profesional", "4° medio — desarrollo interno completo", "Ninguna", "Definición y orden editorial de 1° básico a 4° medio", "MA2M OA 12", "LE2M OA 24", "FG-MATE-4M-OAC-04", "FG-LELI-4M-OAC-08", "FG-CIAS-3y4-OAC-01", "Gates del desarrollo interno", "- [x] Todos los OA disciplinares"),
-        "docs/FORMATOS.md": ("Clases en Markdown y HTML", "12.997 clases en ambos formatos"),
+        "docs/FORMATOS.md": ("Registros pedagógicos en Markdown y HTML", "8.841 clases disciplinares", "4.156 experiencias de integración transversal", "12.997 registros pedagógicos"),
         "docs/LICENCIAS.md": ("Guía simple de licencias", "Atribución sugerida"),
         "docs/EVALUACION_FORMATIVA.md": ("Logrado con autonomía", "Sin evidencia suficiente"),
         "TEACHING_GUIDE.md": ("Anatomía de una clase", "Consideraciones para el contenido desarrollado de 1° básico a 4° medio", "doce niveles completos", "calidad de fuentes"),
@@ -861,6 +861,14 @@ def validate(root: Path = ROOT) -> list[str]:
         for token in stale_tokens:
             if token in document:
                 errors.append(f"{relative_path} conserva una afirmación vigente obsoleta: {token}")
+    for relative_path in ("README.md", "CURRICULUM.md", "EDITORIAL_STATUS.md", "VALIDATION_REPORT.md", "docs/COBERTURA.md", "docs/FORMATOS.md", "docs/README.md"):
+        document = (root / relative_path).read_text(encoding="utf-8")
+        if "12.997 clases" in document:
+            errors.append(f"{relative_path} confunde registros pedagógicos con clases independientes")
+    for document_path in (root / "docs").rglob("*.md"):
+        document = document_path.read_text(encoding="utf-8")
+        if any(token in document for token in ("{len(transverse)}", "{integrated_count}", "{class_count}")):
+            errors.append(f"{document_path.relative_to(root)} conserva un marcador de plantilla sin resolver")
     main_readme = (root / "README.md").read_text(encoding="utf-8")
     for course_order in range(1, 9):
         level_link = f"docs/{course_order}-basico/README.md"
@@ -893,12 +901,24 @@ def validate(root: Path = ROOT) -> list[str]:
         guide_link = f"docs/3-medio/{subject_slug}.md"
         if guide_link not in main_readme:
             errors.append(f"README.md no informa o enlaza la guía resuelta: {guide_link}")
+        guide_path = root / guide_link
+        if guide_path.is_file():
+            guide = guide_path.read_text(encoding="utf-8")
+            oa_count = len({item["oa_code"] for item in classes if item.get("course_order") == 11 and item.get("subject_slug") == subject_slug})
+            if "Explicación pedagógica OA por OA" not in guide or guide.count("**Qué significa para la enseñanza.**") != oa_count:
+                errors.append(f"Guía de 3° medio sin explicación pedagógica completa OA por OA: {subject_slug}")
     if "docs/4-medio/README.md" not in main_readme:
         errors.append("README.md no enlaza el índice completo de 4° medio")
     for subject_slug in sorted({item["subject_slug"] for item in classes if item.get("course_order") == 12}):
         guide_link = f"docs/4-medio/{subject_slug}.md"
         if guide_link not in main_readme:
             errors.append(f"README.md no informa o enlaza la guía resuelta: {guide_link}")
+        guide_path = root / guide_link
+        if guide_path.is_file():
+            guide = guide_path.read_text(encoding="utf-8")
+            oa_count = len({item["oa_code"] for item in classes if item.get("course_order") == 12 and item.get("subject_slug") == subject_slug})
+            if "Explicación pedagógica OA por OA" not in guide or guide.count("**Qué significa para la enseñanza.**") != oa_count:
+                errors.append(f"Guía de 4° medio sin explicación pedagógica completa OA por OA: {subject_slug}")
     for schema_path in ("reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
         try:
             schema = json.loads((root / schema_path).read_text(encoding="utf-8"))
@@ -1045,7 +1065,7 @@ def main() -> int:
             print(f" - … y {len(errors) - 100} errores más")
         return 1
     catalog = json.loads(CATALOG_PATH.read_text(encoding="utf-8"))
-    print(f"OK: {catalog['class_count']} clases, {catalog['objective_count']} OA, {catalog['course_count']} niveles y {catalog['reading_link_count']} lecturas")
+    print(f"OK: {catalog['class_count']} registros ({catalog['editorial_counts']['desarrollada']} clases + {catalog['editorial_counts']['integrada']} integraciones), {catalog['objective_count']} OA, {catalog['course_count']} niveles y {catalog['reading_link_count']} lecturas")
     return 0
 
 

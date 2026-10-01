@@ -62,6 +62,80 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-FILO-4M-OAC-04` | Evaluación de argumentos, validez y falacias | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/filosofia-4o-medio/fg-filo-4m-oac-04.md) |
 | `FG-FILO-4M-OAC-05` | Impacto actual de ideas ontológicas, epistemológicas y éticas | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/filosofia-4o-medio/fg-filo-4m-oac-05.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-FILO-4M-OAC-01` — Alcances, límites y fines de la filosofía
+
+**Qué significa para la enseñanza.** Alcances, límites y fines de la filosofía recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir perspectiva con opinión sin razones».
+
+**Punto de entrada.** Proyecta ontología y epistemología hacia acción, ética, cultura, trabajo, tecnología, política y artes.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: alcances, límites y fines de la filosofía» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-4M-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-01)
+
+### `FG-FILO-4M-OAC-02` — Preguntas éticas sobre justicia, libertad e igualdad
+
+**Qué significa para la enseñanza.** Preguntas éticas sobre justicia, libertad e igualdad recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «nombrar una falacia sin reconstruir el argumento».
+
+**Punto de entrada.** Proyecta ontología y epistemología hacia acción, ética, cultura, trabajo, tecnología, política y artes.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: preguntas éticas sobre justicia, libertad e igualdad» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-4M-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-02)
+
+### `FG-FILO-4M-OAC-03` — Diálogo filosófico sobre ética y política contemporáneas
+
+**Qué significa para la enseñanza.** Diálogo filosófico sobre ética y política contemporáneas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «atacar a la persona y no la tesis».
+
+**Punto de entrada.** Proyecta ontología y epistemología hacia acción, ética, cultura, trabajo, tecnología, política y artes.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos → Responder objeciones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «responder objeciones: diálogo filosófico sobre ética y política contemporáneas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-4M-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-03)
+
+### `FG-FILO-4M-OAC-04` — Evaluación de argumentos, validez y falacias
+
+**Qué significa para la enseñanza.** Evaluación de argumentos, validez y falacias recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir perspectiva con opinión sin razones».
+
+**Punto de entrada.** Proyecta ontología y epistemología hacia acción, ética, cultura, trabajo, tecnología, política y artes.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos → Responder objeciones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «responder objeciones: evaluación de argumentos, validez y falacias» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-4M-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-04)
+
+### `FG-FILO-4M-OAC-05` — Impacto actual de ideas ontológicas, epistemológicas y éticas
+
+**Qué significa para la enseñanza.** Impacto actual de ideas ontológicas, epistemológicas y éticas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «nombrar una falacia sin reconstruir el argumento».
+
+**Punto de entrada.** Proyecta ontología y epistemología hacia acción, ética, cultura, trabajo, tecnología, política y artes.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos → Responder objeciones → Comunicar una posición revisable.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una posición revisable: impacto actual de ideas ontológicas, epistemológicas y éticas» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-4M-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-4o-medio/3-medio-fg/fg-filo-4m-oac-05)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** análisis filosófico individual con problema, conceptos, argumento, objeción, respuesta y alcance.

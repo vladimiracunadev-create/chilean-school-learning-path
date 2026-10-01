@@ -63,6 +63,94 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-FILO-3M-OAC-05` | Diálogo sobre problemas ontológicos y epistemológicos | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/filosofia-3-medio/fg-filo-3m-oac-05.md) |
 | `FG-FILO-3M-OAC-06` | Argumentación, validez y razonamiento filosófico | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/filosofia-3-medio/fg-filo-3m-oac-06.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-FILO-3M-OAC-01` — Origen, sentido y preguntas del quehacer filosófico
+
+**Qué significa para la enseñanza.** Origen, sentido y preguntas del quehacer filosófico recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «atacar a la persona y no la tesis».
+
+**Punto de entrada.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: origen, sentido y preguntas del quehacer filosófico» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-3M-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-01)
+
+### `FG-FILO-3M-OAC-02` — Perspectivas filosóficas, vida cotidiana y visiones de mundo
+
+**Qué significa para la enseñanza.** Perspectivas filosóficas, vida cotidiana y visiones de mundo recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir perspectiva con opinión sin razones».
+
+**Punto de entrada.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos → Responder objeciones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «responder objeciones: perspectivas filosóficas, vida cotidiana y visiones de mundo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-3M-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-02)
+
+### `FG-FILO-3M-OAC-03` — Preguntas ontológicas sobre el ser y la realidad
+
+**Qué significa para la enseñanza.** Preguntas ontológicas sobre el ser y la realidad recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «nombrar una falacia sin reconstruir el argumento».
+
+**Punto de entrada.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: preguntas ontológicas sobre el ser y la realidad» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-3M-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-03)
+
+### `FG-FILO-3M-OAC-04` — Preguntas epistemológicas sobre conocimiento, ciencia y verdad
+
+**Qué significa para la enseñanza.** Preguntas epistemológicas sobre conocimiento, ciencia y verdad recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «atacar a la persona y no la tesis».
+
+**Punto de entrada.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: preguntas epistemológicas sobre conocimiento, ciencia y verdad» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-3M-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-04)
+
+### `FG-FILO-3M-OAC-05` — Diálogo sobre problemas ontológicos y epistemológicos
+
+**Qué significa para la enseñanza.** Diálogo sobre problemas ontológicos y epistemológicos recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir perspectiva con opinión sin razones».
+
+**Punto de entrada.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: diálogo sobre problemas ontológicos y epistemológicos» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-3M-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-05)
+
+### `FG-FILO-3M-OAC-06` — Argumentación, validez y razonamiento filosófico
+
+**Qué significa para la enseñanza.** Argumentación, validez y razonamiento filosófico recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «nombrar una falacia sin reconstruir el argumento».
+
+**Punto de entrada.** Transforma la argumentación de 2° medio en problematización conceptual, lectura filosófica y diálogo razonado.
+
+**Conceptos que deben explicitarse.** problema, pregunta, concepto, tesis, premisa, inferencia, validez, falacia, objeción, perspectiva.
+
+**Cómo progresa.** Problematizar una situación → Definir conceptos → Reconstruir una perspectiva → Formular y evaluar argumentos.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «formular y evaluar argumentos: argumentación, validez y razonamiento filosófico» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-FILO-3M-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/filosofia-3-medio/3-medio-fg/fg-filo-3m-oac-06)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** pregunta, mapa argumental o intervención individual que define conceptos, ofrece razones y responde una objeción.

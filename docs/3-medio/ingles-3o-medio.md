@@ -61,6 +61,66 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-INGL-3M-OAC-03` | Language resources for critical comprehension and production | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-03.md) |
 | `FG-INGL-3M-OAC-04` | Fluent interaction, worldviews and identity | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-04.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-INGL-3M-OAC-01` — Central information and cultural perspectives
+
+**Qué significa para la enseñanza.** Central information and cultural perspectives recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «treat accent imitation as fluency».
+
+**Punto de entrada.** Eleva la comunicación de 2° medio hacia postura crítica, contraste de visiones de mundo y mayor autonomía estratégica.
+
+**Conceptos que deben explicitarse.** purpose, audience, central information, evidence, viewpoint, stance, interaction, fluency, repair, identity.
+
+**Cómo progresa.** Activate purpose and prior knowledge → Notice central meaning and clues → Rehearse useful language → Communicate a critical position.
+
+**Qué evidencia demuestra aprendizaje.** Comprehensible individual response for «communicate a critical position: central information and cultural perspectives» with input evidence, purposeful language and revision.
+
+**Fuente oficial.** [Currículum Nacional · FG-INGL-3M-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-01)
+
+### `FG-INGL-3M-OAC-02` — Clear texts and respectful critical positions
+
+**Qué significa para la enseñanza.** Clear texts and respectful critical positions recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «translate every word before responding».
+
+**Punto de entrada.** Eleva la comunicación de 2° medio hacia postura crítica, contraste de visiones de mundo y mayor autonomía estratégica.
+
+**Conceptos que deben explicitarse.** purpose, audience, central information, evidence, viewpoint, stance, interaction, fluency, repair, identity.
+
+**Cómo progresa.** Activate purpose and prior knowledge → Notice central meaning and clues → Rehearse useful language → Communicate a critical position → Repair and revise meaning.
+
+**Qué evidencia demuestra aprendizaje.** Comprehensible individual response for «repair and revise meaning: clear texts and respectful critical positions» with input evidence, purposeful language and revision.
+
+**Fuente oficial.** [Currículum Nacional · FG-INGL-3M-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-02)
+
+### `FG-INGL-3M-OAC-03` — Language resources for critical comprehension and production
+
+**Qué significa para la enseñanza.** Language resources for critical comprehension and production recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «memorize without adapting to purpose».
+
+**Punto de entrada.** Eleva la comunicación de 2° medio hacia postura crítica, contraste de visiones de mundo y mayor autonomía estratégica.
+
+**Conceptos que deben explicitarse.** purpose, audience, central information, evidence, viewpoint, stance, interaction, fluency, repair, identity.
+
+**Cómo progresa.** Activate purpose and prior knowledge → Notice central meaning and clues → Rehearse useful language → Communicate a critical position.
+
+**Qué evidencia demuestra aprendizaje.** Comprehensible individual response for «communicate a critical position: language resources for critical comprehension and production» with input evidence, purposeful language and revision.
+
+**Fuente oficial.** [Currículum Nacional · FG-INGL-3M-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-03)
+
+### `FG-INGL-3M-OAC-04` — Fluent interaction, worldviews and identity
+
+**Qué significa para la enseñanza.** Fluent interaction, worldviews and identity recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «treat accent imitation as fluency».
+
+**Punto de entrada.** Eleva la comunicación de 2° medio hacia postura crítica, contraste de visiones de mundo y mayor autonomía estratégica.
+
+**Conceptos que deben explicitarse.** purpose, audience, central information, evidence, viewpoint, stance, interaction, fluency, repair, identity.
+
+**Cómo progresa.** Activate purpose and prior knowledge → Notice central meaning and clues → Rehearse useful language → Communicate a critical position → Repair and revise meaning.
+
+**Qué evidencia demuestra aprendizaje.** Comprehensible individual response for «repair and revise meaning: fluent interaction, worldviews and identity» with input evidence, purposeful language and revision.
+
+**Fuente oficial.** [Currículum Nacional · FG-INGL-3M-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ingles-3o-medio/3-medio-fg/fg-ingl-3m-oac-04)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** comprehensible individual response that uses evidence from input, adapts to purpose and revises meaning.

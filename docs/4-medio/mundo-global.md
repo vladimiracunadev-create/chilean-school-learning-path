@@ -64,6 +64,108 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-MGLO-3y4-OAC-06` | Conflictos internacionales y posibilidades de resolución | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/mundo-global/fg-mglo-3y4-oac-06.md) |
 | `FG-MGLO-3y4-OAC-07` | Propuestas locales frente a problemas globales | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/mundo-global/fg-mglo-3y4-oac-07.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-MGLO-3y4-OAC-01` — Migraciones contemporáneas, causas e impactos
+
+**Qué significa para la enseñanza.** Migraciones contemporáneas, causas e impactos recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «generalizar desde un caso».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «evaluar alternativas: migraciones contemporáneas, causas e impactos» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-01)
+
+### `FG-MGLO-3y4-OAC-02` — Economía global, trabajo, comercio y consumo
+
+**Qué significa para la enseñanza.** Economía global, trabajo, comercio y consumo recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «tratar una fuente como neutral y completa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas → Comunicar una conclusión situada.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una conclusión situada: economía global, trabajo, comercio y consumo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-02)
+
+### `FG-MGLO-3y4-OAC-03` — Cambio climático, controversias y responsabilidades
+
+**Qué significa para la enseñanza.** Cambio climático, controversias y responsabilidades recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «explicar con una sola causa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «explicar relaciones y consecuencias: cambio climático, controversias y responsabilidades» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-03)
+
+### `FG-MGLO-3y4-OAC-04` — Desastres socionaturales, vulnerabilidad y gestión del riesgo
+
+**Qué significa para la enseñanza.** Desastres socionaturales, vulnerabilidad y gestión del riesgo recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «generalizar desde un caso».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas → Comunicar una conclusión situada.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una conclusión situada: desastres socionaturales, vulnerabilidad y gestión del riesgo» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-04)
+
+### `FG-MGLO-3y4-OAC-05` — Transformaciones contemporáneas del Estado-nación
+
+**Qué significa para la enseñanza.** Transformaciones contemporáneas del Estado-nación recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «tratar una fuente como neutral y completa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «evaluar alternativas: transformaciones contemporáneas del estado-nación» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-05)
+
+### `FG-MGLO-3y4-OAC-06` — Conflictos internacionales y posibilidades de resolución
+
+**Qué significa para la enseñanza.** Conflictos internacionales y posibilidades de resolución recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «explicar con una sola causa».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias → Evaluar alternativas → Comunicar una conclusión situada.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «comunicar una conclusión situada: conflictos internacionales y posibilidades de resolución» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-06)
+
+### `FG-MGLO-3y4-OAC-07` — Propuestas locales frente a problemas globales
+
+**Qué significa para la enseñanza.** Propuestas locales frente a problemas globales recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «generalizar desde un caso».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** actor, contexto, escala, territorio, proceso, indicador, perspectiva, causalidad, continuidad, consecuencia.
+
+**Cómo progresa.** Contextualizar actores, tiempo y espacio → Interrogar fuentes e indicadores → Comparar causas y perspectivas → Explicar relaciones y consecuencias.
+
+**Qué evidencia demuestra aprendizaje.** Análisis individual de «explicar relaciones y consecuencias: propuestas locales frente a problemas globales» con conceptos, evidencia o premisas, perspectiva y conclusión revisable.
+
+**Fuente oficial.** [Currículum Nacional · FG-MGLO-3y4-OAC-07](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/mundo-global/4-medio-fg/fg-mglo-3y4-oac-07)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** explicación o propuesta individual con relaciones multicausales, fuentes trazables, escalas y limitaciones.

@@ -147,9 +147,9 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **2° medio completo:** Matemática aporta 55 clases disciplinares y 89 experiencias integradas; Lengua y Literatura, 146 y 33; Ciencias Naturales, 85 y 93; Historia, 142 y 103; Inglés, 81 y 21; Inglés (Propuesta), 66 clases; Artes Visuales, 30 y 33; Música, 31 y 37; Educación Física y Salud, 28 y 28; Orientación, 52 clases; y Tecnología, 28 y 19. Las 1.200 entradas están resueltas y quedan **0 propuestas pendientes**.
 
-**3° medio completo:** las dieciocho denominaciones tienen sus 98 OA resueltos en 495 clases. Cada clase incluye fuente curricular oficial, progresión pedagógica interna explícita, recursos, evaluación, apoyos, profundización y continuidad desde 2° medio. Quedan **0 propuestas pendientes** en el nivel.
+**3° medio completo:** las dieciocho denominaciones tienen sus 98 OA resueltos en 495 clases. Sus guías explican cada OA en lenguaje pedagógico —significado para la enseñanza, punto de entrada, conceptos, progresión, evidencia y fuente oficial—. Cada clase incluye recursos, evaluación, apoyos, profundización y continuidad desde 2° medio. Quedan **0 propuestas pendientes** en el nivel.
 
-**4° medio completo:** las diecisiete denominaciones tienen sus 91 OA resueltos en 466 clases. Cada clase incluye fuente curricular oficial, progresión pedagógica interna explícita, recursos, evaluación, apoyos, profundización y continuidad desde 3° medio. Quedan **0 propuestas pendientes** en toda la trayectoria.
+**4° medio completo:** las diecisiete denominaciones tienen sus 91 OA resueltos en 466 clases. Sus guías explican cada OA en lenguaje pedagógico —significado para la enseñanza, punto de entrada, conceptos, progresión, evidencia y fuente oficial—. Cada clase incluye recursos, evaluación, apoyos, profundización y continuidad desde 3° medio. Quedan **0 propuestas pendientes** en toda la trayectoria.
 
 ### Lo que significa “12.997”
 
@@ -573,7 +573,8 @@ El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflo
 ### ❌ No es
 
 - doce programas escolares terminados;
-- 12.997 clases con desarrollo pedagógico completo;
+- 8.841 clases disciplinares con desarrollo pedagógico interno completo;
+- 4.156 experiencias de integración transversal incorporadas dentro de esas clases, no clases adicionales;
 - una plataforma oficial del Ministerio de Educación;
 - un horario que obligue a enseñar toda la oferta simultáneamente;
 - una afirmación de revisión experta: hoy existen 0 revisiones humanas registradas;

@@ -90,7 +90,7 @@ La tabla funciona como índice completo de la asignatura. Distingue clases disci
 
 **Evidencia central:** decisión justificada ante un caso, práctica de una habilidad interpersonal y plan breve.
 
-Los {len(transverse)} OA transversales se distribuyen en {integrated_count} experiencias dentro de las {class_count} clases de contenido. No evalúes personalidad, obediencia, identidad, talento, rapidez, volumen de voz ni presentación como sustitutos del OA.
+Los 0 OA transversales se distribuyen en 0 experiencias dentro de las 35 clases de contenido. No evalúes personalidad, obediencia, identidad, talento, rapidez, volumen de voz ni presentación como sustitutos del OA.
 
 ## 🧰 Preparación y materiales
 

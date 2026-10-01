@@ -7,6 +7,8 @@
 **Alcance Git inspeccionado:** historial completo disponible hasta `f0e09d2b`
 **Naturaleza:** auditoría técnica y documental; no es asesoría jurídica.
 
+> **Nota terminológica posterior:** esta auditoría histórica usó “12.997 clases” para el total del catálogo. La terminología vigente distingue 8.841 clases disciplinares y 4.156 experiencias de integración transversal, es decir, 12.997 registros pedagógicos. Las cifras históricas de ejecución que siguen se conservan como evidencia de la fecha de corte.
+
 ## 1. Estado encontrado
 
 El repositorio ya aplicaba correctamente un modelo por capas: MIT para software original; CC BY-NC-SA 4.0 para contenido educativo original; políticas específicas para datos y activos; conservación de derechos de terceros; y exclusión de marcas. El árbol estaba limpio, `main` coincidía con `origin/main` y no existían ramas locales auxiliares ni otros worktrees.

@@ -64,6 +64,108 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-ARTE-3y4-OAC-06` | Evaluación crítica de procesos y proyectos visuales | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/artes-visuales/fg-arte-3y4-oac-06.md) |
 | `FG-ARTE-3y4-OAC-07` | Gestión y difusión de obras visuales y multimediales | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/artes-visuales/fg-arte-3y4-oac-07.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-ARTE-3y4-OAC-01` — Experimentación en ilustración, audiovisual y multimedia
+
+**Qué significa para la enseñanza.** Experimentación en ilustración, audiovisual y multimedia recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir gusto con juicio».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «desarrollar una propuesta propia: experimentación en ilustración, audiovisual y multimedia» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-01)
+
+### `FG-ARTE-3y4-OAC-02` — Creación visual y riesgo creativo
+
+**Qué significa para la enseñanza.** Creación visual y riesgo creativo recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «difundir sin atribución ni consentimiento».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia → Criticar y revisar con criterios.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «criticar y revisar con criterios: creación visual y riesgo creativo» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-02)
+
+### `FG-ARTE-3y4-OAC-03` — Creación desde referentes artísticos y culturales
+
+**Qué significa para la enseñanza.** Creación desde referentes artísticos y culturales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «copiar el referente».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia → Criticar y revisar con criterios.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «criticar y revisar con criterios: creación desde referentes artísticos y culturales» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-03)
+
+### `FG-ARTE-3y4-OAC-04` — Interpretación de propósitos expresivos contemporáneos
+
+**Qué significa para la enseñanza.** Interpretación de propósitos expresivos contemporáneos recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir gusto con juicio».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia → Criticar y revisar con criterios → Montar, atribuir y difundir.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «montar, atribuir y difundir: interpretación de propósitos expresivos contemporáneos» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-04)
+
+### `FG-ARTE-3y4-OAC-05` — Juicios estéticos sobre obras contemporáneas
+
+**Qué significa para la enseñanza.** Juicios estéticos sobre obras contemporáneas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «difundir sin atribución ni consentimiento».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia → Criticar y revisar con criterios.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «criticar y revisar con criterios: juicios estéticos sobre obras contemporáneas» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-05)
+
+### `FG-ARTE-3y4-OAC-06` — Evaluación crítica de procesos y proyectos visuales
+
+**Qué significa para la enseñanza.** Evaluación crítica de procesos y proyectos visuales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «copiar el referente».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia → Criticar y revisar con criterios.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «criticar y revisar con criterios: evaluación crítica de procesos y proyectos visuales» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-06)
+
+### `FG-ARTE-3y4-OAC-07` — Gestión y difusión de obras visuales y multimediales
+
+**Qué significa para la enseñanza.** Gestión y difusión de obras visuales y multimediales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir gusto con juicio».
+
+**Punto de entrada.** Amplía creación y apreciación de 2° medio hacia medios contemporáneos, riesgo creativo, juicio estético y gestión de difusión.
+
+**Conceptos que deben explicitarse.** referente, soporte, procedimiento, lenguaje visual, composición, propósito, criterio, proceso, autoría, difusión.
+
+**Cómo progresa.** Observar referentes y propósito → Explorar soportes y procedimientos → Tomar una decisión visual → Desarrollar una propuesta propia → Criticar y revisar con criterios.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «criticar y revisar con criterios: gestión y difusión de obras visuales y multimediales» con decisión visual, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-ARTE-3y4-OAC-07](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/artes-visuales/3-medio-fg/fg-arte-3y4-oac-07)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** obra, proyecto o análisis visual individual con decisiones documentadas, referente atribuido y justificación estética.

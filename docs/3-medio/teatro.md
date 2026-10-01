@@ -63,6 +63,94 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-TEAT-3y4-OAC-05` | Evaluación crítica de procesos y obras teatrales | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/teatro/fg-teat-3y4-oac-05.md) |
 | `FG-TEAT-3y4-OAC-06` | Gestión y difusión de proyectos teatrales | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/teatro/fg-teat-3y4-oac-06.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-TEAT-3y4-OAC-01` — Cuerpo, gesto y voz en la expresión dramática
+
+**Qué significa para la enseñanza.** Cuerpo, gesto y voz en la expresión dramática recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir personaje con identidad personal».
+
+**Punto de entrada.** Articula expresión, cuerpo, voz, dramaturgia, puesta en escena y audiencia con mayor autonomía y evaluación crítica.
+
+**Conceptos que deben explicitarse.** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+**Cómo progresa.** Explorar cuerpo, gesto y voz → Construir situación y personaje → Ensayar decisiones escénicas → Interpretar propósito y contexto.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «interpretar propósito y contexto: cuerpo, gesto y voz en la expresión dramática» con decisión teatral y escénico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-TEAT-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-01)
+
+### `FG-TEAT-3y4-OAC-02` — Creación de ejercicios dramáticos individuales y colectivos
+
+**Qué significa para la enseñanza.** Creación de ejercicios dramáticos individuales y colectivos recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar volumen como único recurso».
+
+**Punto de entrada.** Articula expresión, cuerpo, voz, dramaturgia, puesta en escena y audiencia con mayor autonomía y evaluación crítica.
+
+**Conceptos que deben explicitarse.** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+**Cómo progresa.** Explorar cuerpo, gesto y voz → Construir situación y personaje → Ensayar decisiones escénicas → Interpretar propósito y contexto → Evaluar y revisar → Presentar o difundir con consentimiento.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «presentar o difundir con consentimiento: creación de ejercicios dramáticos individuales y colectivos» con decisión teatral y escénico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-TEAT-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-02)
+
+### `FG-TEAT-3y4-OAC-03` — Interpretación teatral para un público específico
+
+**Qué significa para la enseñanza.** Interpretación teatral para un público específico recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar exposición y no decisión escénica».
+
+**Punto de entrada.** Articula expresión, cuerpo, voz, dramaturgia, puesta en escena y audiencia con mayor autonomía y evaluación crítica.
+
+**Conceptos que deben explicitarse.** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+**Cómo progresa.** Explorar cuerpo, gesto y voz → Construir situación y personaje → Ensayar decisiones escénicas → Interpretar propósito y contexto → Evaluar y revisar → Presentar o difundir con consentimiento.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «presentar o difundir con consentimiento: interpretación teatral para un público específico» con decisión teatral y escénico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-TEAT-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-03)
+
+### `FG-TEAT-3y4-OAC-04` — Propósitos expresivos y contexto de obras teatrales
+
+**Qué significa para la enseñanza.** Propósitos expresivos y contexto de obras teatrales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir personaje con identidad personal».
+
+**Punto de entrada.** Articula expresión, cuerpo, voz, dramaturgia, puesta en escena y audiencia con mayor autonomía y evaluación crítica.
+
+**Conceptos que deben explicitarse.** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+**Cómo progresa.** Explorar cuerpo, gesto y voz → Construir situación y personaje → Ensayar decisiones escénicas → Interpretar propósito y contexto → Evaluar y revisar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar: propósitos expresivos y contexto de obras teatrales» con decisión teatral y escénico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-TEAT-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-04)
+
+### `FG-TEAT-3y4-OAC-05` — Evaluación crítica de procesos y obras teatrales
+
+**Qué significa para la enseñanza.** Evaluación crítica de procesos y obras teatrales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar volumen como único recurso».
+
+**Punto de entrada.** Articula expresión, cuerpo, voz, dramaturgia, puesta en escena y audiencia con mayor autonomía y evaluación crítica.
+
+**Conceptos que deben explicitarse.** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+**Cómo progresa.** Explorar cuerpo, gesto y voz → Construir situación y personaje → Ensayar decisiones escénicas → Interpretar propósito y contexto → Evaluar y revisar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar: evaluación crítica de procesos y obras teatrales» con decisión teatral y escénico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-TEAT-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-05)
+
+### `FG-TEAT-3y4-OAC-06` — Gestión y difusión de proyectos teatrales
+
+**Qué significa para la enseñanza.** Gestión y difusión de proyectos teatrales recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «evaluar exposición y no decisión escénica».
+
+**Punto de entrada.** Articula expresión, cuerpo, voz, dramaturgia, puesta en escena y audiencia con mayor autonomía y evaluación crítica.
+
+**Conceptos que deben explicitarse.** cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito.
+
+**Cómo progresa.** Explorar cuerpo, gesto y voz → Construir situación y personaje → Ensayar decisiones escénicas → Interpretar propósito y contexto → Evaluar y revisar.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar: gestión y difusión de proyectos teatrales» con decisión teatral y escénico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-TEAT-3y4-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/teatro/3-medio-fg/fg-teat-3y4-oac-06)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** escena, diseño o análisis individual con decisión teatral, propósito, audiencia y revisión de proceso.

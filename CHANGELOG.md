@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-01 · Conteos inequívocos y explicación OA por OA en 3° y 4° medio
+
+- Se corrige la terminología vigente: 12.997 corresponde a registros pedagógicos, compuestos por 8.841 clases disciplinares y 4.156 experiencias de integración transversal; estas últimas no son clases independientes.
+- Las 18 guías de 3° medio y las 17 de 4° medio incorporan explicación pedagógica para cada OA: significado para la enseñanza, punto de entrada, conceptos explícitos, progresión, evidencia y fuente oficial.
+- Los índices de ambos niveles explicitan qué está resuelto —desarrollo interno y 0 pendientes— y qué continúa pendiente: revisión profesional, pilotaje y certificación externa.
+- El índice curricular distingue clases, experiencias integradas y propuestas pendientes, y los validadores impiden que vuelvan a omitirse las explicaciones OA por OA.
+
 ## 2026-10-01 · 4° medio completo y trayectoria escolar cerrada
 
 - Desarrollo de los 91 OA de Formación General de 4° medio en 466 clases pedagógicas distribuidas en diecisiete denominaciones curriculares.

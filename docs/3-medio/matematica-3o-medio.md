@@ -61,6 +61,66 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-MATE-3M-OAC-03` | Modelos exponenciales y logarítmicos | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md) |
 | `FG-MATE-3M-OAC-04` | Relaciones métricas en la circunferencia | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-04.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-MATE-3M-OAC-01` — Números complejos y operaciones en el plano
+
+**Qué significa para la enseñanza.** Números complejos y operaciones en el plano recupera operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio y aumenta autonomía, formalización y juicio crítico. La progresión deriva del verbo y alcance del OA oficial, cambia problema, texto, representación o audiencia en cada clase y enfrenta explícitamente la confusión «operar la parte real con la imaginaria como si fueran términos semejantes o usar i²=1».
+
+**Punto de entrada.** operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio
+
+**Conceptos que deben explicitarse.** representación, propiedad, condición, modelo, argumento, comprobación, límite; lenguaje específico de números complejos y operaciones en el plano.
+
+**Cómo progresa.** Representar números complejos de forma pictórica y simbólica → Sumar y restar complejos conectando vectores y expresiones → Multiplicar complejos y usar i²=-1 para simplificar → Dividir mediante el conjugado y comprobar el resultado.
+
+**Qué evidencia demuestra aprendizaje.** Solución individual sobre dividir mediante el conjugado y comprobar el resultado con representación pertinente, razonamiento visible, unidad y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-3M-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-01)
+
+### `FG-MATE-3M-OAC-02` — Incerteza, dispersión y probabilidad condicional
+
+**Qué significa para la enseñanza.** Incerteza, dispersión y probabilidad condicional recupera operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio y aumenta autonomía, formalización y juicio crítico. La progresión deriva del verbo y alcance del OA oficial, cambia problema, texto, representación o audiencia en cada clase y enfrenta explícitamente la confusión «decidir solo con el promedio o confundir P(A|B) con P(B|A) y con la intersección».
+
+**Punto de entrada.** operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio
+
+**Conceptos que deben explicitarse.** representación, propiedad, condición, modelo, argumento, comprobación, límite; lenguaje específico de incerteza, dispersión y probabilidad condicional.
+
+**Cómo progresa.** Comparar distribuciones mediante rango, varianza y desviación estándar → Interpretar medidas de dispersión junto con centro, forma y contexto → Calcular probabilidades condicionales con tablas y árboles → Tomar una decisión bajo incerteza declarando supuestos y límites.
+
+**Qué evidencia demuestra aprendizaje.** Solución individual sobre tomar una decisión bajo incerteza declarando supuestos y límites con representación pertinente, razonamiento visible, unidad y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-3M-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-02)
+
+### `FG-MATE-3M-OAC-03` — Modelos exponenciales y logarítmicos
+
+**Qué significa para la enseñanza.** Modelos exponenciales y logarítmicos recupera operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio y aumenta autonomía, formalización y juicio crítico. La progresión deriva del verbo y alcance del OA oficial, cambia problema, texto, representación o audiencia en cada clase y enfrenta explícitamente la confusión «tratar cualquier variación como exponencial, extrapolar sin límites o usar el logaritmo como tecla sin interpretar base y dominio».
+
+**Punto de entrada.** operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio
+
+**Conceptos que deben explicitarse.** representación, propiedad, condición, modelo, argumento, comprobación, límite; lenguaje específico de modelos exponenciales y logarítmicos.
+
+**Cómo progresa.** Distinguir crecimiento lineal y exponencial mediante razones de cambio → Construir y ajustar modelos exponenciales con parámetros interpretables → Relacionar función exponencial y logarítmica como procesos inversos → Contrastar un modelo con información digital y evaluar la fuente → Comunicar predicciones, supuestos, dominio y límites del modelo.
+
+**Qué evidencia demuestra aprendizaje.** Solución individual sobre comunicar predicciones, supuestos, dominio y límites del modelo con representación pertinente, razonamiento visible, unidad y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-3M-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-03)
+
+### `FG-MATE-3M-OAC-04` — Relaciones métricas en la circunferencia
+
+**Qué significa para la enseñanza.** Relaciones métricas en la circunferencia recupera operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio y aumenta autonomía, formalización y juicio crítico. La progresión deriva del verbo y alcance del OA oficial, cambia problema, texto, representación o audiencia en cada clase y enfrenta explícitamente la confusión «aplicar una relación por la apariencia del dibujo sin identificar puntos, arcos, intersecciones ni condiciones geométricas».
+
+**Punto de entrada.** operaciones, funciones, trigonometría, geometría, conteo y probabilidad desarrollados hasta 2° medio
+
+**Conceptos que deben explicitarse.** representación, propiedad, condición, modelo, argumento, comprobación, límite; lenguaje específico de relaciones métricas en la circunferencia.
+
+**Cómo progresa.** Conjeturar relaciones entre ángulos centrales, inscritos y arcos → Justificar relaciones entre cuerdas, secantes y tangentes → Resolver problemas métricos mediante teoremas pertinentes → Validar construcciones y argumentos con una herramienta tecnológica.
+
+**Qué evidencia demuestra aprendizaje.** Solución individual sobre validar construcciones y argumentos con una herramienta tecnológica con representación pertinente, razonamiento visible, unidad y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-3M-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-3o-medio/3-medio-fg/fg-mate-3m-oac-04)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** solución individual con representación pertinente, procedimiento justificable, interpretación situada, fuente cuando usa datos y comprobación o limitación explícita.

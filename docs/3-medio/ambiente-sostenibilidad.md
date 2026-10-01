@@ -59,6 +59,52 @@ Cada OA comienza con una evidencia breve de 2° medio. Si la base no está dispo
 | `FG-CIAS-3y4-OAC-02` | Proyectos locales para el uso sostenible de recursos | Objetivos de aprendizaje | 6 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/ambiente-sostenibilidad/fg-cias-3y4-oac-02.md) |
 | `FG-CIAS-3y4-OAC-03` | Modelación del cambio climático en ecosistemas | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/3-medio-fg/ambiente-sostenibilidad/fg-cias-3y4-oac-03.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-CIAS-3y4-OAC-01` — Ciclo de vida y consumo sostenible
+
+**Qué significa para la enseñanza.** Ciclo de vida y consumo sostenible recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «usar una fuente aislada como certeza».
+
+**Punto de entrada.** Profundiza la indagación científica de 2° medio mediante ciclo de vida, modelación ecosistémica y decisiones de sostenibilidad situadas.
+
+**Conceptos que deben explicitarse.** sistema, variable, evidencia, fuente, modelo, causalidad, incertidumbre, impacto, mitigación, limitación.
+
+**Cómo progresa.** Delimitar pregunta y sistema → Evaluar fuentes y variables → Construir o interpretar un modelo → Analizar evidencia → Comparar soluciones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis científico individual de «comparar soluciones: ciclo de vida y consumo sostenible» con evidencia, modelo o mecanismo, fuente y límite.
+
+**Fuente oficial.** [Currículum Nacional · FG-CIAS-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/3-medio-fg/fg-cias-3y4-oac-01)
+
+### `FG-CIAS-3y4-OAC-02` — Proyectos locales para el uso sostenible de recursos
+
+**Qué significa para la enseñanza.** Proyectos locales para el uso sostenible de recursos recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «ocultar supuestos y límites del modelo».
+
+**Punto de entrada.** Profundiza la indagación científica de 2° medio mediante ciclo de vida, modelación ecosistémica y decisiones de sostenibilidad situadas.
+
+**Conceptos que deben explicitarse.** sistema, variable, evidencia, fuente, modelo, causalidad, incertidumbre, impacto, mitigación, limitación.
+
+**Cómo progresa.** Delimitar pregunta y sistema → Evaluar fuentes y variables → Construir o interpretar un modelo → Analizar evidencia → Comparar soluciones → Comunicar límites y decisión.
+
+**Qué evidencia demuestra aprendizaje.** Análisis científico individual de «comunicar límites y decisión: proyectos locales para el uso sostenible de recursos» con evidencia, modelo o mecanismo, fuente y límite.
+
+**Fuente oficial.** [Currículum Nacional · FG-CIAS-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/3-medio-fg/fg-cias-3y4-oac-02)
+
+### `FG-CIAS-3y4-OAC-03` — Modelación del cambio climático en ecosistemas
+
+**Qué significa para la enseñanza.** Modelación del cambio climático en ecosistemas recupera aprendizajes de 2° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir correlación con causalidad».
+
+**Punto de entrada.** Profundiza la indagación científica de 2° medio mediante ciclo de vida, modelación ecosistémica y decisiones de sostenibilidad situadas.
+
+**Conceptos que deben explicitarse.** sistema, variable, evidencia, fuente, modelo, causalidad, incertidumbre, impacto, mitigación, limitación.
+
+**Cómo progresa.** Delimitar pregunta y sistema → Evaluar fuentes y variables → Construir o interpretar un modelo → Analizar evidencia → Comparar soluciones.
+
+**Qué evidencia demuestra aprendizaje.** Análisis científico individual de «comparar soluciones: modelación del cambio climático en ecosistemas» con evidencia, modelo o mecanismo, fuente y límite.
+
+**Fuente oficial.** [Currículum Nacional · FG-CIAS-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/ambiente-sostenibilidad/3-medio-fg/fg-cias-3y4-oac-03)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** informe, modelo o proyecto individual que relaciona evidencia, sistema, decisión, impacto y limitaciones.

@@ -613,7 +613,7 @@ def grade_two_subject_documentation(subject,objectives,previous_subject=None,nex
  for item in objectives:
   state="Desarrollada" if item.get("developed") else "Integrada"
   lines.append(f"| `{item['oa_code']}` | {item['topic']} | {item['axis']} | {len(item['phases'])} | {state} | [Abrir ficha Markdown](../../{item['path']}) |")
- lines += ["","## 🔎 Qué observar","",f"**Evidencia central:** {profile['evidence']}.","","Los {len(transverse)} OA transversales se distribuyen en {integrated_count} experiencias dentro de las {class_count} clases de contenido. No evalúes personalidad, obediencia, identidad, talento, rapidez, volumen de voz ni presentación como sustitutos del OA.","",
+ lines += ["","## 🔎 Qué observar","",f"**Evidencia central:** {profile['evidence']}.","",f"Los {len(transverse)} OA transversales se distribuyen en {integrated_count} experiencias dentro de las {class_count} clases de contenido. No evalúes personalidad, obediencia, identidad, talento, rapidez, volumen de voz ni presentación como sustitutos del OA.","",
   "## 🧰 Preparación y materiales","","Cada ficha declara materiales concretos. Comprueba disponibilidad, seguridad, tiempo de distribución, alternativa sin conectividad y qué producciones deben conservarse para comparar progreso. Prepara también el apoyo que permite acceder al mismo OA.","",
   "## ⚠️ Error frecuente y recuperación","",f"**Señal de alerta:** {profile['barrier']}","","Recupera el propósito, muestra otro ejemplo o representación, ofrece práctica breve con retroalimentación y solicita una nueva evidencia. Repetir la misma explicación más fuerte o más rápido no constituye reenseñanza.","",
   "## ♿ Acceso y profundización","","- **Acceso:** anticipar vocabulario, fragmentar instrucciones, permitir ensayo oral, usar apoyos concretos o visuales y ofrecer formas pertinentes de respuesta.","- **Profundización:** comparar estrategias, justificar decisiones, crear un caso, mejorar el producto o transferir a una situación nueva.","",
@@ -709,6 +709,21 @@ def grade_three_subject_documentation(subject,objectives,previous_subject=None,n
  for item in objectives:
   state="Desarrollada" if item.get("developed") else "Integrada"
   lines.append(f"| `{item['oa_code']}` | {item['topic']} | {item['axis']} | {len(item['phases'])} | {state} | [Abrir ficha Markdown](../../{item['path']}) |")
+ if level in {"3° medio", "4° medio"}:
+  lines += ["", "## 🧠 Explicación pedagógica OA por OA", "", "Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC."]
+  for item in core:
+   sequence=item["developed"]
+   stages=[lesson["title"].split(":",1)[0].strip() for lesson in sequence.get("lessons",[]) if lesson.get("title")]
+   evidence=sequence["lessons"][-1]["evidence"] if sequence.get("lessons") else profile["evidence"]
+   lines += [
+    "", f"### `{item['oa_code']}` — {item['topic']}", "",
+    f"**Qué significa para la enseñanza.** {sequence['pedagogical_explanation']}", "",
+    f"**Punto de entrada.** {sequence['prerequisites']}", "",
+    f"**Conceptos que deben explicitarse.** {sequence['vocabulary']}.", "",
+    f"**Cómo progresa.** {' → '.join(stages)}.", "",
+    f"**Qué evidencia demuestra aprendizaje.** {evidence}", "",
+    f"**Fuente oficial.** [Currículum Nacional · {item['oa_code']}]({item['source_url']})",
+   ]
  lines += ["","## 🔎 Qué observar","",f"**Evidencia central:** {profile['evidence']}.","","La observación se concentra en decisiones, producciones y explicaciones atribuibles al OA, no en personalidad, obediencia, identidad, talento, rapidez o presentación.","",
   "## 🧰 Preparación y materiales","","Cada ficha declara materiales concretos. Comprueba disponibilidad, seguridad, tiempo de distribución, alternativa sin conectividad y qué producciones conservar para comparar progreso. Prepara también el apoyo que permite acceder al mismo OA.","",
   "## ⚠️ Error frecuente y recuperación","",f"**Señal de alerta:** {profile['barrier']}","","Cada clase propone tres dificultades observables con acción inmediata y comprobación. Recupera el propósito, muestra otra representación, ofrece práctica breve y solicita una nueva evidencia; repetir lo mismo más fuerte o más rápido no es reenseñar.","",
@@ -1502,7 +1517,7 @@ def grade_three_middle_index_documentation(objs,classes):
  for item in subjects:
   guide=f"[📘 Leer](./{item['slug']}.md)" if item["slug"] in GRADE_THREE_MIDDLE_CORE_PROFILES else "Pendiente"
   lines.append(f"| {item['name']} | {item['oa']} | {item['developed']} | {item['integrated']} | {item['classes']-item['developed']-item['integrated']} | {guide} |")
- lines += ["","## 🧠 Progresión común","","~~~mermaid","flowchart LR","    A[Recuperar evidencia de 2° medio] --> B[Problema, texto o corpus con fuente]","    B --> C[Modelado disciplinar]","    C --> D[Práctica guiada y contraste]","    D --> E[Desempeño individual]","    E --> F[Comprobación, revisión y transferencia]","~~~","","## Fuentes y límites","","- Cada ficha enlaza el OA y la asignatura oficiales en Currículum Nacional.","- Los criterios de progresión se identifican como elaboración pedagógica interna derivada del OA, no como indicadores oficiales.","- Los textos, datos y piezas multimodales deben ser propios, autorizados, de dominio público o enlazados sin reproducción indebida.","- Desarrollo interno no significa revisión humana, certificación ni pilotaje de aula.",""]
+ lines += ["","## ✅ Qué está resuelto","",f"Los {len(grade_objs)} OA están desarrollados en {developed} clases disciplinares independientes. No hay experiencias transversales contadas como clases adicionales ni propuestas pendientes.","","Cada guía incluye una explicación pedagógica por OA: significado para la enseñanza, punto de entrada, conceptos explícitos, progresión, evidencia esperada y enlace a la fuente oficial.","","**No está resuelto todavía:** revisión profesional humana, pilotaje de aula y certificación externa.","","## 🧠 Progresión común","","~~~mermaid","flowchart LR","    A[Recuperar evidencia de 2° medio] --> B[Problema, texto o corpus con fuente]","    B --> C[Modelado disciplinar]","    C --> D[Práctica guiada y contraste]","    D --> E[Desempeño individual]","    E --> F[Comprobación, revisión y transferencia]","~~~","","## Fuentes y límites","","- Cada ficha enlaza el OA y la asignatura oficiales en Currículum Nacional.","- Los criterios de progresión se identifican como elaboración pedagógica interna derivada del OA, no como indicadores oficiales.","- Los textos, datos y piezas multimodales deben ser propios, autorizados, de dominio público o enlazados sin reproducción indebida.","- Desarrollo interno no significa revisión humana, certificación ni pilotaje de aula.",""]
  return "\n".join(lines)
 
 
@@ -1533,7 +1548,7 @@ def grade_four_middle_index_documentation(objs,classes):
  for item in subjects:
   guide=f"[📘 Leer](./{item['slug']}.md)" if item["slug"] in GRADE_FOUR_MIDDLE_PROFILES else "Pendiente"
   lines.append(f"| {item['name']} | {item['oa']} | {item['developed']} | {item['integrated']} | {item['classes']-item['developed']-item['integrated']} | {guide} |")
- lines += ["","## 🧠 Progresión común","","~~~mermaid","flowchart LR","    A[Recuperar evidencia de 3° medio] --> B[Problema, texto, corpus o desafío con fuente]","    B --> C[Modelado y explicitación de criterios]","    C --> D[Práctica guiada, contraste y retroalimentación]","    D --> E[Desempeño individual autónomo]","    E --> F[Comprobación, revisión, límites y transferencia]","~~~","","## Fuentes y límites","","- Cada ficha enlaza el OA y la asignatura oficiales en Currículum Nacional.","- Los criterios y la dosificación se rotulan como elaboración pedagógica interna, no como indicadores oficiales.","- Los recursos deben ser propios, autorizados, de dominio público o enlazados con atribución.","- Desarrollo interno completo no significa revisión humana, certificación ni pilotaje de aula.",""]
+ lines += ["","## ✅ Qué está resuelto","",f"Los {len(grade_objs)} OA están desarrollados en {developed} clases disciplinares independientes. No hay experiencias transversales contadas como clases adicionales ni propuestas pendientes.","","Cada guía incluye una explicación pedagógica por OA: significado para la enseñanza, punto de entrada, conceptos explícitos, progresión, evidencia esperada y enlace a la fuente oficial.","","**No está resuelto todavía:** revisión profesional humana, pilotaje de aula y certificación externa.","","## 🧠 Progresión común","","~~~mermaid","flowchart LR","    A[Recuperar evidencia de 3° medio] --> B[Problema, texto, corpus o desafío con fuente]","    B --> C[Modelado y explicitación de criterios]","    C --> D[Práctica guiada, contraste y retroalimentación]","    D --> E[Desempeño individual autónomo]","    E --> F[Comprobación, revisión, límites y transferencia]","~~~","","## Fuentes y límites","","- Cada ficha enlaza el OA y la asignatura oficiales en Currículum Nacional.","- Los criterios y la dosificación se rotulan como elaboración pedagógica interna, no como indicadores oficiales.","- Los recursos deben ser propios, autorizados, de dominio público o enlazados con atribución.","- Desarrollo interno completo no significa revisión humana, certificación ni pilotaje de aula.",""]
  return "\n".join(lines)
 
 
@@ -1990,17 +2005,19 @@ def main():
  reviews_site=ROOT/"site"/"reviews";reviews_site.mkdir(parents=True,exist_ok=True)
  for schema_name in ("review-record.schema.json","pilot-record.schema.json"):
   shutil.copyfile(ROOT/"reviews"/schema_name,reviews_site/schema_name)
- lines=["# Planificación curricular chilena","",f"## {cat['class_count']:,} clases · {cat['objective_count']:,} OA · 12 niveles".replace(",","."),"","Cada clase tiene nivel, asignatura, tema, fase y OA trazable. La dosificación de 4 a 7 clases se ajusta con evidencia.","","> Formación común, propuestas, asignaturas según contexto y electivos se distinguen; no representan una carga simultánea.",""]
+ lines=["# Planificación curricular chilena","",f"## {developed_count:,} clases · {integrated_count:,} experiencias integradas · {cat['objective_count']:,} OA · 12 niveles".replace(",","."),"",f"El catálogo contiene {len(classes):,} registros pedagógicos: {developed_count:,} clases disciplinares y {integrated_count:,} experiencias de integración transversal. Las experiencias integradas no son clases independientes.".replace(",","."),"","> Formación común, propuestas, asignaturas según contexto y electivos se distinguen; no representan una carga simultánea.",""]
  for order in range(1,13):
   cur=[x for x in classes if x["course_order"]==order];seen={}
-  for x in cur:seen[(x["subject"],x["oa_code"],x["path"].split("#")[0],x["topic"],x["coverage"])]=x["lesson_count"]
-  lines += [f"## {cur[0]['course']}","","| Asignatura | OA y tema | Clases | Cobertura |","|---|---|---:|---|"]
-  for (sub,oa,path,topic,c),n in seen.items():lines.append(f"| {sub} | [{oa} · {topic}]({path}) | {n} | {c} |")
+  for x in cur:seen[(x["subject"],x["oa_code"],x["path"].split("#")[0],x["topic"],x["coverage"],x["editorial_status"])]=x["lesson_count"]
+  lines += [f"## {cur[0]['course']}","","| Asignatura | OA y tema | Tipo | Bloques | Cobertura |","|---|---|---|---:|---|"]
+  for (sub,oa,path,topic,c,status),n in seen.items():
+   kind="Clases disciplinares" if status=="desarrollada" else "Experiencias integradas" if status=="integrada" else "Propuestas pendientes"
+   lines.append(f"| {sub} | [{oa} · {topic}]({path}) | {kind} | {n} | {c} |")
   lines.append("")
  if not defer_generic_docs:(ROOT/"CURRICULUM.md").write_text("\n".join(lines),encoding="utf-8")
  urls=["https://vladimiracunadev-create.github.io/chilean-school-learning-path/","https://vladimiracunadev-create.github.io/chilean-school-learning-path/documentacion.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/2-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/3-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/4-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/5-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/6-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/7-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/8-basico.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/1-medio.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/2-medio.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/3-medio.html","https://vladimiracunadev-create.github.io/chilean-school-learning-path/levels/4-medio.html"]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{page_path(item)}" for item in objs]+[f"https://vladimiracunadev-create.github.io/chilean-school-learning-path/{path.as_posix()}" for path in documentation_pages]
  sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+"\n".join(f"  <url><loc>{url}</loc></url>" for url in urls)+"\n</urlset>\n"
  if not defer_generic_docs:(ROOT/"site"/"sitemap.xml").write_text(sitemap,encoding="utf-8")
- print(json.dumps({k:cat[k] for k in ("class_count","objective_count","course_count","subject_count","reading_link_count")}))
+ print(json.dumps({"entry_count":cat["class_count"],"developed_class_count":developed_count,"integration_experience_count":integrated_count,**{k:cat[k] for k in ("objective_count","course_count","subject_count","reading_link_count")}}))
 if __name__=="__main__":main()
 

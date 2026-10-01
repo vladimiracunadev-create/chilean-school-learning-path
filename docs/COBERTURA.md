@@ -1,6 +1,6 @@
 # Cobertura completa y navegable
 
-El catálogo cubre 12 niveles, 2.823 Objetivos de Aprendizaje (OA) y 12.997 clases. El [índice curricular Markdown](../CURRICULUM.md) permite abrir cada OA sin mezclar la navegación del sitio HTML.
+El catálogo cubre 12 niveles, 2.823 Objetivos de Aprendizaje (OA) y 12.997 registros pedagógicos: 8.841 clases disciplinares y 4.156 experiencias de integración transversal. Estas experiencias no son clases independientes. El [índice curricular Markdown](../CURRICULUM.md) permite abrir cada OA sin mezclar la navegación del sitio HTML.
 
 | Nivel | OA | Propuestas | Desarrolladas | Integradas | Borradores |
 |---|---:|---:|---:|---:|---:|

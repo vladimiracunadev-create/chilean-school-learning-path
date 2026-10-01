@@ -10,7 +10,7 @@ Una entrada generada no equivale a una clase terminada.
 | Revisada | control disciplinar, pedagógico, documental, accesible y de derechos |
 | Publicada | Markdown y HTML válidos, navegables y comprobados en Pages |
 
-Los conteos públicos muestran estos estados por separado. Una clase puede estar publicada sin estar revisada; “completa” exige cumplir todo este contrato y dejar evidencia de revisión humana.
+Los conteos públicos muestran estos estados por separado. Una clase puede estar desarrollada y publicada sin estar revisada. **Desarrollo interno completo** significa que no quedan secuencias ni borradores pendientes; **revisada** exige evidencia humana competente. La documentación no debe usar “completa” sin indicar cuál de esos estados describe.
 
 ## Contrato mínimo por clase
 

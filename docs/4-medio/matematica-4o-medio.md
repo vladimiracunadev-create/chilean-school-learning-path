@@ -61,6 +61,66 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-MATE-4M-OAC-03` | Modelos de crecimiento, decrecimiento y periodicidad | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/matematica-4o-medio/fg-mate-4m-oac-03.md) |
 | `FG-MATE-4M-OAC-04` | Rectas y circunferencias mediante representación analítica | Objetivos de aprendizaje | 4 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/matematica-4o-medio/fg-mate-4m-oac-04.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-MATE-4M-OAC-01` — Decisiones financieras mediante porcentajes, tasas e índices
+
+**Qué significa para la enseñanza.** Decisiones financieras mediante porcentajes, tasas e índices recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «aplicar una regla sin comprobar sus condiciones».
+
+**Punto de entrada.** Integra modelación, probabilidad, funciones y geometría de 3° medio en decisiones más autónomas y problemas cercanos al egreso.
+
+**Conceptos que deben explicitarse.** condición, representación, conjetura, propiedad, modelo, parámetro, estrategia, argumento, comprobación, límite.
+
+**Cómo progresa.** Precisar condiciones y objetos → Representar de dos maneras → Desarrollar una estrategia → Justificar relaciones.
+
+**Qué evidencia demuestra aprendizaje.** Resolución matemática individual de «justificar relaciones: decisiones financieras mediante porcentajes, tasas e índices» con representación, estrategia, justificación, interpretación y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-4M-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-01)
+
+### `FG-MATE-4M-OAC-02` — Decisiones bajo incerteza con modelos binomial y normal
+
+**Qué significa para la enseñanza.** Decisiones bajo incerteza con modelos binomial y normal recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir una representación con el objeto matemático».
+
+**Punto de entrada.** Integra modelación, probabilidad, funciones y geometría de 3° medio en decisiones más autónomas y problemas cercanos al egreso.
+
+**Conceptos que deben explicitarse.** condición, representación, conjetura, propiedad, modelo, parámetro, estrategia, argumento, comprobación, límite.
+
+**Cómo progresa.** Precisar condiciones y objetos → Representar de dos maneras → Desarrollar una estrategia → Justificar relaciones.
+
+**Qué evidencia demuestra aprendizaje.** Resolución matemática individual de «justificar relaciones: decisiones bajo incerteza con modelos binomial y normal» con representación, estrategia, justificación, interpretación y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-4M-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-02)
+
+### `FG-MATE-4M-OAC-03` — Modelos de crecimiento, decrecimiento y periodicidad
+
+**Qué significa para la enseñanza.** Modelos de crecimiento, decrecimiento y periodicidad recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «aceptar un resultado sin interpretarlo ni verificarlo».
+
+**Punto de entrada.** Integra modelación, probabilidad, funciones y geometría de 3° medio en decisiones más autónomas y problemas cercanos al egreso.
+
+**Conceptos que deben explicitarse.** condición, representación, conjetura, propiedad, modelo, parámetro, estrategia, argumento, comprobación, límite.
+
+**Cómo progresa.** Precisar condiciones y objetos → Representar de dos maneras → Desarrollar una estrategia → Justificar relaciones → Comprobar y comparar.
+
+**Qué evidencia demuestra aprendizaje.** Resolución matemática individual de «comprobar y comparar: modelos de crecimiento, decrecimiento y periodicidad» con representación, estrategia, justificación, interpretación y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-4M-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-03)
+
+### `FG-MATE-4M-OAC-04` — Rectas y circunferencias mediante representación analítica
+
+**Qué significa para la enseñanza.** Rectas y circunferencias mediante representación analítica recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «aplicar una regla sin comprobar sus condiciones».
+
+**Punto de entrada.** Integra modelación, probabilidad, funciones y geometría de 3° medio en decisiones más autónomas y problemas cercanos al egreso.
+
+**Conceptos que deben explicitarse.** condición, representación, conjetura, propiedad, modelo, parámetro, estrategia, argumento, comprobación, límite.
+
+**Cómo progresa.** Precisar condiciones y objetos → Representar de dos maneras → Desarrollar una estrategia → Justificar relaciones.
+
+**Qué evidencia demuestra aprendizaje.** Resolución matemática individual de «justificar relaciones: rectas y circunferencias mediante representación analítica» con representación, estrategia, justificación, interpretación y comprobación.
+
+**Fuente oficial.** [Currículum Nacional · FG-MATE-4M-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/matematica-4o-medio/4-medio-fg/fg-mate-4m-oac-04)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** resolución o modelo individual con datos, condiciones, representaciones, estrategia, interpretación, comprobación y límite.

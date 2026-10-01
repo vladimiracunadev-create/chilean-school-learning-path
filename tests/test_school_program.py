@@ -62,6 +62,11 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(self.catalog["editorial_counts"]["desarrollada"], 8841)
         self.assertEqual(self.catalog["editorial_counts"]["integrada"], 4156)
         self.assertEqual(self.catalog["editorial_counts"]["revisada"], 0)
+        curriculum_index = (ROOT / "CURRICULUM.md").read_text(encoding="utf-8")
+        self.assertIn("8.841 clases", curriculum_index)
+        self.assertIn("4.156 experiencias integradas", curriculum_index)
+        self.assertIn("12.997 registros pedagógicos", curriculum_index)
+        self.assertNotIn("12.997 clases", curriculum_index)
 
     def test_current_surfaces_agree_on_complete_levels_through_fourth_middle(self):
         plan = json.loads((ROOT / "content/development-plan.json").read_text(encoding="utf-8"))
@@ -270,6 +275,11 @@ class SchoolProgramTests(unittest.TestCase):
             "site/levels/3-medio.html",
         ):
             self.assertTrue((ROOT / relative).is_file(), relative)
+        for slug in ("matematica-3o-medio", "lengua-literatura-3o-medio"):
+            guide = (ROOT / "docs/3-medio" / f"{slug}.md").read_text(encoding="utf-8")
+            oa_count = len({item["oa_code"] for item in third_middle if item["subject_slug"] == slug})
+            self.assertIn("Explicación pedagógica OA por OA", guide)
+            self.assertEqual(guide.count("**Qué significa para la enseñanza.**"), oa_count, slug)
 
     def test_third_middle_remaining_subjects_complete_the_level(self):
         third_middle = [item for item in self.catalog["classes"] if item["course_order"] == 11]
@@ -290,7 +300,10 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertTrue(all(item["source_url"].startswith("https://www.curriculumnacional.cl/") for item in developed))
             guide_path = ROOT / f"docs/3-medio/{slug}.md"
             self.assertTrue(guide_path.is_file(), slug)
-            self.assertIn(rows[0]["subject"], guide_path.read_text(encoding="utf-8").splitlines()[0], slug)
+            guide = guide_path.read_text(encoding="utf-8")
+            self.assertIn(rows[0]["subject"], guide.splitlines()[0], slug)
+            self.assertIn("Explicación pedagógica OA por OA", guide, slug)
+            self.assertEqual(guide.count("**Qué significa para la enseñanza.**"), counts[1], slug)
             self.assertTrue((ROOT / f"site/docs/3-medio/{slug}.html").is_file(), slug)
         sequences = [build_grade_three_middle_remaining_sequence(code) for code in sorted(GRADE_THREE_MIDDLE_REMAINING_SEQUENCES)]
         lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]
@@ -332,7 +345,10 @@ class SchoolProgramTests(unittest.TestCase):
             self.assertTrue(all(item["source_url"].startswith("https://www.curriculumnacional.cl/") for item in rows))
             guide_path = ROOT / f"docs/4-medio/{slug}.md"
             self.assertTrue(guide_path.is_file(), slug)
-            self.assertIn(rows[0]["subject"], guide_path.read_text(encoding="utf-8").splitlines()[0], slug)
+            guide = guide_path.read_text(encoding="utf-8")
+            self.assertIn(rows[0]["subject"], guide.splitlines()[0], slug)
+            self.assertIn("Explicación pedagógica OA por OA", guide, slug)
+            self.assertEqual(guide.count("**Qué significa para la enseñanza.**"), counts[1], slug)
             self.assertTrue((ROOT / f"site/docs/4-medio/{slug}.html").is_file(), slug)
         sequences = [build_grade_four_middle_sequence(code) for code in sorted(GRADE_FOUR_MIDDLE_SEQUENCES)]
         lessons = [lesson for sequence in sequences for lesson in sequence["lessons"]]

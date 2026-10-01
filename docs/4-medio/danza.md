@@ -63,6 +63,94 @@ Cada OA comienza con una evidencia breve de 3° medio. Si la base no está dispo
 | `FG-DANZ-3y4-OAC-05` | Evaluación crítica de procesos y obras de danza | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/danza/fg-danz-3y4-oac-05.md) |
 | `FG-DANZ-3y4-OAC-06` | Gestión y difusión de proyectos de danza | Objetivos de aprendizaje | 5 | Desarrollada | [Abrir ficha Markdown](../../curriculum/4-medio-fg/danza/fg-danz-3y4-oac-06.md) |
 
+## 🧠 Explicación pedagógica OA por OA
+
+Esta sección traduce cada OA a decisiones de enseñanza sin reemplazar su redacción oficial. La explicación, la progresión y la evidencia son elaboración pedagógica interna; el enlace lleva siempre a la fuente MINEDUC.
+
+### `FG-DANZ-3y4-OAC-01` — Conciencia corporal y lenguaje de la danza
+
+**Qué significa para la enseñanza.** Conciencia corporal y lenguaje de la danza recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «forzar exposición para evaluar».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** cuerpo, espacio, tiempo, energía, dinámica, composición, interpretación, puesta en escena, criterio, difusión.
+
+**Cómo progresa.** Explorar movimiento con conciencia → Combinar espacio, tiempo y energía → Componer una frase propia → Interpretar propósito y contexto.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «interpretar propósito y contexto: conciencia corporal y lenguaje de la danza» con decisión corporal y coreográfico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-DANZ-3y4-OAC-01](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-01)
+
+### `FG-DANZ-3y4-OAC-02` — Comunicación de ideas y emociones mediante movimiento
+
+**Qué significa para la enseñanza.** Comunicación de ideas y emociones mediante movimiento recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «imitar una forma corporal ideal».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** cuerpo, espacio, tiempo, energía, dinámica, composición, interpretación, puesta en escena, criterio, difusión.
+
+**Cómo progresa.** Explorar movimiento con conciencia → Combinar espacio, tiempo y energía → Componer una frase propia → Interpretar propósito y contexto.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «interpretar propósito y contexto: comunicación de ideas y emociones mediante movimiento» con decisión corporal y coreográfico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-DANZ-3y4-OAC-02](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-02)
+
+### `FG-DANZ-3y4-OAC-03` — Creación individual y colectiva de danza
+
+**Qué significa para la enseñanza.** Creación individual y colectiva de danza recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir intensidad con expresividad».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** cuerpo, espacio, tiempo, energía, dinámica, composición, interpretación, puesta en escena, criterio, difusión.
+
+**Cómo progresa.** Explorar movimiento con conciencia → Combinar espacio, tiempo y energía → Componer una frase propia → Interpretar propósito y contexto → Evaluar y revisar el proceso.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar el proceso: creación individual y colectiva de danza» con decisión corporal y coreográfico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-DANZ-3y4-OAC-03](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-03)
+
+### `FG-DANZ-3y4-OAC-04` — Interpretación estética y contextual de obras de danza
+
+**Qué significa para la enseñanza.** Interpretación estética y contextual de obras de danza recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «forzar exposición para evaluar».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** cuerpo, espacio, tiempo, energía, dinámica, composición, interpretación, puesta en escena, criterio, difusión.
+
+**Cómo progresa.** Explorar movimiento con conciencia → Combinar espacio, tiempo y energía → Componer una frase propia → Interpretar propósito y contexto → Evaluar y revisar el proceso.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar el proceso: interpretación estética y contextual de obras de danza» con decisión corporal y coreográfico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-DANZ-3y4-OAC-04](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-04)
+
+### `FG-DANZ-3y4-OAC-05` — Evaluación crítica de procesos y obras de danza
+
+**Qué significa para la enseñanza.** Evaluación crítica de procesos y obras de danza recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «imitar una forma corporal ideal».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** cuerpo, espacio, tiempo, energía, dinámica, composición, interpretación, puesta en escena, criterio, difusión.
+
+**Cómo progresa.** Explorar movimiento con conciencia → Combinar espacio, tiempo y energía → Componer una frase propia → Interpretar propósito y contexto → Evaluar y revisar el proceso.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar el proceso: evaluación crítica de procesos y obras de danza» con decisión corporal y coreográfico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-DANZ-3y4-OAC-05](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-05)
+
+### `FG-DANZ-3y4-OAC-06` — Gestión y difusión de proyectos de danza
+
+**Qué significa para la enseñanza.** Gestión y difusión de proyectos de danza recupera aprendizajes de 3° medio y avanza mediante decisiones propias de la disciplina. La secuencia cambia casos, fuentes y productos, y enfrenta la confusión «confundir intensidad con expresividad».
+
+**Punto de entrada.** Retoma en 4° medio el OA compartido y exige mayor autonomía para seleccionar fuentes, justificar decisiones, revisar efectos y comunicar límites antes del egreso.
+
+**Conceptos que deben explicitarse.** cuerpo, espacio, tiempo, energía, dinámica, composición, interpretación, puesta en escena, criterio, difusión.
+
+**Cómo progresa.** Explorar movimiento con conciencia → Combinar espacio, tiempo y energía → Componer una frase propia → Interpretar propósito y contexto → Evaluar y revisar el proceso.
+
+**Qué evidencia demuestra aprendizaje.** Producción, interpretación o análisis individual de «evaluar y revisar el proceso: gestión y difusión de proyectos de danza» con decisión corporal y coreográfico, proceso y justificación.
+
+**Fuente oficial.** [Currículum Nacional · FG-DANZ-3y4-OAC-06](https://www.curriculumnacional.cl/curriculum/3o-4o-medio/danza/4-medio-fg/fg-danz-3y4-oac-06)
+
 ## 🔎 Qué observar
 
 **Evidencia central:** secuencia, interpretación o análisis individual con decisión corporal propia, propósito y reflexión de proceso.

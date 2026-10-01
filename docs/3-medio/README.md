@@ -29,6 +29,14 @@
 | Teatro | 6 | 31 | 0 | 0 | [📘 Leer](./teatro.md) |
 | Tecnología y sociedad | 3 | 15 | 0 | 0 | [📘 Leer](./tecnologia-sociedad.md) |
 
+## ✅ Qué está resuelto
+
+Los 98 OA están desarrollados en 495 clases disciplinares independientes. No hay experiencias transversales contadas como clases adicionales ni propuestas pendientes.
+
+Cada guía incluye una explicación pedagógica por OA: significado para la enseñanza, punto de entrada, conceptos explícitos, progresión, evidencia esperada y enlace a la fuente oficial.
+
+**No está resuelto todavía:** revisión profesional humana, pilotaje de aula y certificación externa.
+
 ## 🧠 Progresión común
 
 ~~~mermaid
