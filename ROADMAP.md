@@ -15,11 +15,11 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 7° básico | 275 | 1.275 | Completo: 760 desarrolladas + 515 integradas · 0 pendientes |
 | 8° básico | 253 | 1.201 | Completo: 771 desarrolladas + 430 integradas · 0 pendientes |
 | 1° medio | 253 | 1.209 | Completo: 753 desarrolladas + 456 integradas · 11 denominaciones |
-| 2° medio | 248 | 1.200 | En desarrollo: 201 desarrolladas + 122 integradas · Matemática y Lengua completas · 877 pendientes |
+| 2° medio | 248 | 1.200 | Completo: 744 desarrolladas + 456 integradas · 0 pendientes |
 | 3° medio FG | 98 | 495 | Secuenciado |
 | 4° medio FG | 91 | 466 | Secuenciado |
 
-Total actual: **12.997 propuestas**, **2.823 OA**, **7.337 clases desarrolladas**, **3.822 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 1° medio**, **877 pendientes en las demás asignaturas de 2° medio**, **961 pendientes desde 3° hasta 4° medio** y **0 clases con revisión humana registrada**.
+Total actual: **12.997 propuestas**, **2.823 OA**, **7.880 clases desarrolladas**, **4.156 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 2° medio**, **961 pendientes desde 3° hasta 4° medio** y **0 clases con revisión humana registrada**.
 
 ## Orden de trabajo
 
@@ -111,7 +111,9 @@ Total actual: **12.997 propuestas**, **2.823 OA**, **7.337 clases desarrolladas*
 - [x] Completar Matemática de 2° medio: 55 clases en 12 OA de contenido y 89 experiencias integradas de 21 OA transversales.
 - [x] Completar Lengua y Literatura de 2° medio: 146 clases en 24 OA de contenido y 33 experiencias integradas de 8 OA de actitudes.
 - [x] Publicar índice, mapa técnico, vista web y dos guías para Matemática y Lengua y Literatura de 2° medio.
-- [ ] Continuar 2° medio por asignatura completa.
+- [x] Completar Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) de 2° medio: 374 clases en 72 OA de contenido y 217 experiencias integradas de 49 OA transversales.
+- [x] Completar Artes Visuales, Música, Educación Física y Salud, Orientación y Tecnología de 2° medio: 169 clases en 34 OA de contenido y 117 experiencias integradas de 28 OA transversales.
+- [x] Publicar las once guías y completar 2° medio con 744 clases disciplinares, 456 experiencias integradas y 0 propuestas pendientes.
 - [ ] Completar 3° y 4° medio, distinguiendo formación general y opciones curriculares.
 
 Cada nivel debe pasar por el mismo contrato: desarrollo disciplinar, verificación automática, revisión humana documentada y comprobación visual del portal.

@@ -1,4 +1,4 @@
-# TE2M OA 06 — Proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…
+# TE2M OA 06 — Proyección de impactos de innovaciones tecnológicas
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 2° medio | Tecnología | Tecnología, ambiente y sociedad | formacion-general-comun | 4 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** necesidad, usuario, criterio, restricción, diseño, prototipo, prueba e impacto. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Proyección de impactos de innovaciones tecnológicas recupera definir usuarios, diseñar servicios y evaluar impactos éticos y ambientales en 1° medio y avanza con decisiones propias de la disciplina. Cada clase cambia situaciones, fuentes, recursos y evidencias, y enfrenta la confusión «usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad».
+
+**Antes de comenzar.** definir usuarios, diseñar servicios y evaluar impactos éticos y ambientales en 1° medio
+
+**Vocabulario explícito:** necesidad, usuario, servicio, criterio, restricción, prototipo, prueba, seguridad, ética, impacto, mejora.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión interna en 4 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del objetivo; no se presenta como una unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas.
+- Investigar soluciones y restricciones: Proyección de impactos de innovaciones tecnológicas.
+- Representar y planificar: Proyección de impactos de innovaciones tecnológicas.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del objetivo oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/tecnologia/2-medio/te2m-oa-06)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,73 +41,329 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 4: Conectar y diagnosticar {#cl-12014}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…» y demostrarlo mediante solución tecnológica justificada y probada contra criterios.
+### Clase 1 de 4: Definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas {#cl-12014}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar un proceso tecnológico para definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas, considerando usuario, prueba, seguridad y efectos.
+
+**Meta para estudiantes:** Hoy voy a definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas actuales en ámbitos personales, sociales, ambientales, legales, económicos u otros». Hace visible el uso de necesidad, usuario, criterio, restricción, diseño, prototipo, prueba e impacto y contrasta un ejemplo logrado con el error: construir antes de definir el problema; evaluar solo por apariencia. |
-| Práctica guiada | 25 min | Construyen juntos solución tecnológica justificada y probada contra criterios. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución tecnológica justificada y probada contra criterios sobre **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. Antes de imaginar objetos, cada equipo distingue necesidad, usuario, contexto y evidencia de que el problema existe. |
+| Modelado | 20 min | Modela cómo definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas: convierte la necesidad en criterios medibles, representa la solución y justifica una decisión sin construir todavía. |
+| Práctica guiada | 25 min | Equipos trabajan con caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. Distribuyen roles, elaboran o simulan una versión segura, prueban un criterio y registran evidencia antes de decidir una mejora. |
+| Desempeño individual | 25 min | Cada estudiante resuelve una variante para definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas. Entrega representación, decisión, resultado de prueba y revisión de impacto, autoría o privacidad. |
+| Cierre | 10 min | Nombra la necesidad, el criterio decisivo, la evidencia de prueba y una mejora o impacto que todavía debe revisarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas; materiales, herramientas o software disponibles con alternativa desconectada; protección y organización acordes a la tarea.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** construir antes de definir el problema; evaluar solo por apariencia. **Evidencia:** solución tecnológica justificada y probada contra criterios que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Desafío ficticio de reparación, adaptación o mejora, materiales seguros, croquis, matriz de criterios y protocolo de prueba de una variable.
 
-### Clase 2 de 4: Comprender y modelar {#cl-12015}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…» y demostrarlo mediante solución tecnológica justificada y probada contra criterios.
+**Consigna exacta:** Resuelve «definir necesidad, usuario y criterio: proyección de impactos de innovaciones tecnológicas»: define necesidad y usuario, representa antes de construir, prueba un criterio y revisa función, seguridad, eficiencia e impacto.
+
+**Referencia para modelar y corregir:** La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante.
+
+**Profundización:** Cambia usuario, material, dato, audiencia o restricción y adapta la solución; luego vuelve a probar o revisar.
+
+**Evidencia:** Diseño, objeto, archivo o registro individual de «definir necesidad, usuario y criterio: proyección de impactos de innovaciones tecnológicas» con propósito, decisión, prueba, seguridad y mejora explicados.
+
+**Criterios de éxito:** resuelve la consigna exacta de «definir necesidad, usuario y criterio: proyección de impactos de innovaciones tecnológicas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, desempeño individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o emocional.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o criterio y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad.
+- Transferencia: cambia contexto, material, audiencia, regla o condición y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Imita, repite o termina sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad | Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el OA. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente conduce diseño y seguridad física y digital; educación diferencial acuerda acceso a herramientas o interfaz sin ejecutar la solución, y coordinación TIC protege cuentas y datos.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud TE2M OAA B`:** Se promueve creatividad mediante experimentación y pensamiento divergente durante «voy a definir necesidad, usuario y criterio: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba» mediante una acción observable y revisable.
+
+### Clase 2 de 4: Investigar soluciones y restricciones: Proyección de impactos de innovaciones tecnológicas {#cl-12015}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar un proceso tecnológico para investigar soluciones y restricciones: Proyección de impactos de innovaciones tecnológicas, considerando usuario, prueba, seguridad y efectos.
+
+**Meta para estudiantes:** Hoy voy a investigar soluciones y restricciones: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas actuales en ámbitos personales, sociales, ambientales, legales, económicos u otros». Hace visible el uso de necesidad, usuario, criterio, restricción, diseño, prototipo, prueba e impacto y contrasta un ejemplo logrado con el error: construir antes de definir el problema; evaluar solo por apariencia. |
-| Práctica guiada | 25 min | Construyen juntos solución tecnológica justificada y probada contra criterios. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución tecnológica justificada y probada contra criterios sobre **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Compara dos soluciones relacionadas con caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. El curso identifica a quién sirven, qué criterio priorizan y qué costo o impacto desplazan. |
+| Modelado | 20 min | Compara dos alternativas mediante una matriz de usuario, función, recurso, seguridad, impacto y posibilidad de reparación. |
+| Práctica guiada | 25 min | Equipos trabajan con caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. Distribuyen roles, elaboran o simulan una versión segura, prueban un criterio y registran evidencia antes de decidir una mejora. |
+| Desempeño individual | 25 min | Cada estudiante resuelve una variante para investigar soluciones y restricciones: Proyección de impactos de innovaciones tecnológicas. Entrega representación, decisión, resultado de prueba y revisión de impacto, autoría o privacidad. |
+| Cierre | 10 min | Nombra la necesidad, el criterio decisivo, la evidencia de prueba y una mejora o impacto que todavía debe revisarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas; materiales, herramientas o software disponibles con alternativa desconectada; protección y organización acordes a la tarea.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** construir antes de definir el problema; evaluar solo por apariencia. **Evidencia:** solución tecnológica justificada y probada contra criterios que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Desafío ficticio de reparación, adaptación o mejora, materiales seguros, croquis, matriz de criterios y protocolo de prueba de una variable.
 
-### Clase 3 de 4: Aplicar con autonomía {#cl-12016}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…» y demostrarlo mediante solución tecnológica justificada y probada contra criterios.
+**Consigna exacta:** Resuelve «investigar soluciones y restricciones: proyección de impactos de innovaciones tecnológicas»: define necesidad y usuario, representa antes de construir, prueba un criterio y revisa función, seguridad, eficiencia e impacto.
+
+**Referencia para modelar y corregir:** La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante.
+
+**Profundización:** Cambia usuario, material, dato, audiencia o restricción y adapta la solución; luego vuelve a probar o revisar.
+
+**Evidencia:** Diseño, objeto, archivo o registro individual de «investigar soluciones y restricciones: proyección de impactos de innovaciones tecnológicas» con propósito, decisión, prueba, seguridad y mejora explicados.
+
+**Criterios de éxito:** resuelve la consigna exacta de «investigar soluciones y restricciones: proyección de impactos de innovaciones tecnológicas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, desempeño individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o emocional.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o criterio y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad.
+- Transferencia: cambia contexto, material, audiencia, regla o condición y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Imita, repite o termina sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad | Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el OA. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente conduce diseño y seguridad física y digital; educación diferencial acuerda acceso a herramientas o interfaz sin ejecutar la solución, y coordinación TIC protege cuentas y datos.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud TE2M OAA D`:** Se promueve colaboración y recepción de retroalimentación durante «voy a investigar soluciones y restricciones: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba» mediante una acción observable y revisable.
+
+### Clase 3 de 4: Representar y planificar: Proyección de impactos de innovaciones tecnológicas {#cl-12016}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar un proceso tecnológico para representar y planificar: Proyección de impactos de innovaciones tecnológicas, considerando usuario, prueba, seguridad y efectos.
+
+**Meta para estudiantes:** Hoy voy a representar y planificar: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas actuales en ámbitos personales, sociales, ambientales, legales, económicos u otros». Hace visible el uso de necesidad, usuario, criterio, restricción, diseño, prototipo, prueba e impacto y contrasta un ejemplo logrado con el error: construir antes de definir el problema; evaluar solo por apariencia. |
-| Práctica guiada | 25 min | Construyen juntos solución tecnológica justificada y probada contra criterios. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución tecnológica justificada y probada contra criterios sobre **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Muestra un prototipo o plano incompleto de caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. Los estudiantes predicen un punto de falla y proponen una prueba segura para comprobarlo. |
+| Modelado | 20 min | Examina la confusión «usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad». Detiene el proceso, protege a usuarios y datos, y redefine el criterio que faltaba. |
+| Práctica guiada | 25 min | Equipos trabajan con caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. Distribuyen roles, elaboran o simulan una versión segura, prueban un criterio y registran evidencia antes de decidir una mejora. |
+| Desempeño individual | 25 min | Cada estudiante resuelve una variante para representar y planificar: Proyección de impactos de innovaciones tecnológicas. Entrega representación, decisión, resultado de prueba y revisión de impacto, autoría o privacidad. |
+| Cierre | 10 min | Nombra la necesidad, el criterio decisivo, la evidencia de prueba y una mejora o impacto que todavía debe revisarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas; materiales, herramientas o software disponibles con alternativa desconectada; protección y organización acordes a la tarea.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** construir antes de definir el problema; evaluar solo por apariencia. **Evidencia:** solución tecnológica justificada y probada contra criterios que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Desafío ficticio de reparación, adaptación o mejora, materiales seguros, croquis, matriz de criterios y protocolo de prueba de una variable.
 
-### Clase 4 de 4: Demostrar y retroalimentar {#cl-12017}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…» y demostrarlo mediante solución tecnológica justificada y probada contra criterios.
+**Consigna exacta:** Resuelve «representar y planificar: proyección de impactos de innovaciones tecnológicas»: define necesidad y usuario, representa antes de construir, prueba un criterio y revisa función, seguridad, eficiencia e impacto.
+
+**Referencia para modelar y corregir:** La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante.
+
+**Profundización:** Cambia usuario, material, dato, audiencia o restricción y adapta la solución; luego vuelve a probar o revisar.
+
+**Evidencia:** Diseño, objeto, archivo o registro individual de «representar y planificar: proyección de impactos de innovaciones tecnológicas» con propósito, decisión, prueba, seguridad y mejora explicados.
+
+**Criterios de éxito:** resuelve la consigna exacta de «representar y planificar: proyección de impactos de innovaciones tecnológicas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, desempeño individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o emocional.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o criterio y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad.
+- Transferencia: cambia contexto, material, audiencia, regla o condición y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Imita, repite o termina sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad | Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el OA. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente conduce diseño y seguridad física y digital; educación diferencial acuerda acceso a herramientas o interfaz sin ejecutar la solución, y coordinación TIC protege cuentas y datos.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud TE2M OAA A`:** Se promueve curiosidad por usos, funcionamiento y materiales tecnológicos durante «voy a representar y planificar: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba» mediante una acción observable y revisable.
+
+### Clase 4 de 4: Implementar con seguridad: Proyección de impactos de innovaciones tecnológicas {#cl-12017}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar un proceso tecnológico para implementar con seguridad: Proyección de impactos de innovaciones tecnológicas, considerando usuario, prueba, seguridad y efectos.
+
+**Meta para estudiantes:** Hoy voy a implementar con seguridad: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas actuales en ámbitos personales, sociales, ambientales, legales, económicos u otros». Hace visible el uso de necesidad, usuario, criterio, restricción, diseño, prototipo, prueba e impacto y contrasta un ejemplo logrado con el error: construir antes de definir el problema; evaluar solo por apariencia. |
-| Práctica guiada | 25 min | Construyen juntos solución tecnológica justificada y probada contra criterios. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce solución tecnológica justificada y probada contra criterios sobre **proyectar escenarios de posibles impactos positivos y/o negativos de las innovaciones tecnológicas…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Cambia una restricción de caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas: material, energía, tiempo, acceso o privacidad. Cada equipo revisa su diseño sin empezar de cero. |
+| Modelado | 20 min | Realiza una prueba parcial con una variable y registra también el resultado que contradice la expectativa. |
+| Práctica guiada | 25 min | Equipos trabajan con caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas. Distribuyen roles, elaboran o simulan una versión segura, prueban un criterio y registran evidencia antes de decidir una mejora. |
+| Desempeño individual | 25 min | Cada estudiante resuelve una variante para implementar con seguridad: Proyección de impactos de innovaciones tecnológicas. Entrega representación, decisión, resultado de prueba y revisión de impacto, autoría o privacidad. |
+| Cierre | 10 min | Nombra la necesidad, el criterio decisivo, la evidencia de prueba y una mejora o impacto que todavía debe revisarse. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** caso ficticio de uso energético o material, ficha de usuarios, datos de impacto, herramientas TIC sin cuenta y matriz ética, legal, económica, ambiental y social para proyección de impactos de innovaciones tecnológicas; materiales, herramientas o software disponibles con alternativa desconectada; protección y organización acordes a la tarea.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** construir antes de definir el problema; evaluar solo por apariencia. **Evidencia:** solución tecnológica justificada y probada contra criterios que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Desafío ficticio de reparación, adaptación o mejora, materiales seguros, croquis, matriz de criterios y protocolo de prueba de una variable.
+
+**Consigna exacta:** Resuelve «implementar con seguridad: proyección de impactos de innovaciones tecnológicas»: define necesidad y usuario, representa antes de construir, prueba un criterio y revisa función, seguridad, eficiencia e impacto.
+
+**Referencia para modelar y corregir:** La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La propuesta responde a evidencia de necesidad, declara criterios y restricciones, registra una prueba reproducible y mejora sin ocultar fallas ni impactos desplazados. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante.
+
+**Profundización:** Cambia usuario, material, dato, audiencia o restricción y adapta la solución; luego vuelve a probar o revisar.
+
+**Evidencia:** Diseño, objeto, archivo o registro individual de «implementar con seguridad: proyección de impactos de innovaciones tecnológicas» con propósito, decisión, prueba, seguridad y mejora explicados.
+
+**Criterios de éxito:** resuelve la consigna exacta de «implementar con seguridad: proyección de impactos de innovaciones tecnológicas»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza cuando decisión, evidencia y explicación coinciden; si no, cambia acceso o ejemplo y vuelve a recoger evidencia sin etiquetar al estudiante.
+
+**Adaptación a 45 minutos:** Conserva situación específica, modelado, práctica guiada, desempeño individual y cierre; reduce cantidad o turnos, no el criterio disciplinar.
+
+**Tarea breve y flexible:** Observa, practica o registra una versión breve y segura con recursos disponibles. No requiere compras, internet, datos personales ni exposición familiar, corporal o emocional.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: aísla una decisión o criterio y vuelve luego a la tarea completa.
+- Análisis de error: revisa un caso ficticio que muestra esta confusión: usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad.
+- Transferencia: cambia contexto, material, audiencia, regla o condición y explica qué debe adaptarse.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Imita, repite o termina sin tomar una decisión | Ofrece dos alternativas y pide elegir una según el propósito específico. | Puede mostrar qué eligió, para qué y con qué evidencia. |
+| Usar datos, imágenes o herramientas sin revisar privacidad, autoría y seguridad | Ofrece materiales precortados, plantillas de organización, dispositivo compartido, atajos accesibles o alternativa desconectada; no ejecuta la decisión del estudiante. | Resuelve un caso nuevo sin repetir la confusión. |
+| Se inhibe, queda expuesto o no accede al formato | Reduce exposición y ofrece una vía equivalente de participación, manteniendo el OA. | Produce evidencia propia mediante una vía accesible y segura. |
+
+**Coordinación de roles profesionales:** El docente conduce diseño y seguridad física y digital; educación diferencial acuerda acceso a herramientas o interfaz sin ejecutar la solución, y coordinación TIC protege cuentas y datos.
+
+**Integración de actitud transversal:**
+- **Actitud · `de Actitud TE2M OAA C`:** Se promueve iniciativa en diseño y creación tecnológica durante «voy a implementar con seguridad: Proyección de impactos de innovaciones tecnológicas; justificaré una decisión con criterios y evidencia de prueba» mediante una acción observable y revisable.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

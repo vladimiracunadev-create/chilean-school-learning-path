@@ -741,7 +741,7 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
             return _science_grade_seven(topic, focus, seed)
         if grade == 8:
             return _science_grade_eight(topic, focus, seed)
-        if grade == 9:
+        if grade in {9, 10}:
             return _science_grade_one_middle(topic, focus, seed)
         return _science(topic, focus, seed)
     if subject_slug == "historia-geografia-ciencias-sociales":
@@ -749,33 +749,33 @@ def _artifact(subject_slug: str, topic: str, focus: str, seed: int, grade: int) 
             return _history_grade_seven(topic, focus, seed)
         if grade == 8:
             return _history_grade_eight(topic, focus, seed)
-        if grade == 9:
+        if grade in {9, 10}:
             return _history_grade_one_middle(topic, focus, seed)
         return _history(topic, focus, seed)
     if subject_slug in {"ingles", "ingles-propuesta"}:
         if grade in {7, 8}:
             return _english_grade_seven(topic, focus, seed)
-        if grade == 9:
+        if grade in {9, 10}:
             return _english_grade_one_middle(topic, focus, seed)
         return _english(topic, focus, seed)
     if subject_slug == "artes-visuales":
-        if grade in {7, 8, 9}:
+        if grade in {7, 8, 9, 10}:
             return _arts_grade_seven(topic, focus, seed)
         return _arts(topic, focus, seed)
     if subject_slug == "musica":
-        if grade in {7, 8, 9}:
+        if grade in {7, 8, 9, 10}:
             return _music_grade_seven(topic, focus, seed)
         return _music(topic, focus, seed)
     if subject_slug == "educacion-fisica-salud":
-        if grade in {7, 8, 9}:
+        if grade in {7, 8, 9, 10}:
             return _physical_grade_seven(topic, focus, seed)
         return _physical(topic, focus, seed)
     if subject_slug == "orientacion":
-        if grade in {7, 8, 9}:
+        if grade in {7, 8, 9, 10}:
             return _orientation_grade_seven(topic, focus, seed)
         return _orientation(topic, focus, seed)
     if subject_slug == "tecnologia":
-        if grade in {7, 8, 9}:
+        if grade in {7, 8, 9, 10}:
             return _technology_grade_seven(topic, focus, seed)
         return _technology(topic, focus, seed)
     if subject_slug in {"lengua-cultura-pueblos-originarios-ancestrales", "lengua-indigena"}:

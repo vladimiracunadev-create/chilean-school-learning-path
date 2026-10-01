@@ -1,6 +1,6 @@
 # Lengua y Literatura · 2° medio
 
-[⬅️ Índice de 2° medio](README.md) · [Matemática →](matematica.md)
+[⬅️ Índice de 2° medio](README.md) · [← Inglés (Propuesta)](ingles-propuesta.md) · [Matemática →](matematica.md)
 
 **24 OA de contenido · 146 clases desarrolladas · 8 OA transversales · 33 experiencias integradas · 5 ejes curriculares · revisión humana pendiente**
 

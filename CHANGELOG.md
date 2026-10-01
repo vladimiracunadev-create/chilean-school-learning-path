@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-30 · 2° medio completo
+
+- Se completaron Ciencias Naturales, Historia, Inglés e Inglés (Propuesta) con 374 clases disciplinares y 217 experiencias integradas nuevas.
+- Se completaron Artes Visuales, Música, Educación Física y Salud, Orientación y Tecnología con 169 clases disciplinares y 117 experiencias integradas nuevas.
+- 2° medio alcanza 744 clases desarrolladas, 456 experiencias integradas y 0 propuestas pendientes en sus once denominaciones.
+- El proyecto suma 7.880 clases desarrolladas y 4.156 experiencias integradas; desde 1° básico hasta 2° medio hay diez niveles consecutivos con desarrollo interno completo.
+- Se añadieron nueve guías y se reconciliaron README, portal, cobertura, estado editorial, roadmap, metodología, syllabus, validadores y plan maestro. La revisión humana continúa pendiente.
+
 ## 2026-09-30 · Matemática y Lengua y Literatura de 2° medio
 
 - Se desarrollaron los 36 OA disciplinares de ambas asignaturas en 201 clases específicas: 55 de Matemática y 146 de Lengua y Literatura.

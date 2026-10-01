@@ -7,12 +7,12 @@ Fecha de corte: **2026-09-30**. Los conteos provienen de `curriculum/catalog.jso
 | Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
 | Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores; las propuestas pendientes permanecen secuenciadas |
-| Desarrollada | 7.337 | contenido disciplinar específico validado contra el contrato estructural |
-| Integrada | 3.822 | habilidades o actitudes incorporadas dentro de las clases de contenido |
+| Desarrollada | 7.880 | contenido disciplinar específico validado contra el contrato estructural |
+| Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
-“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 1° medio, los nueve niveles tienen desarrollo interno completo; en 2° medio están completas Matemática y Lengua y Literatura**. La revisión humana permanece separada y pendiente.
+“Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 2° medio, los diez niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
 ## Reconstrucción de 1° básico
 
@@ -177,15 +177,24 @@ Las doce denominaciones mantienen continuidad explícita con 7°, secuencias OA 
 
 Las once denominaciones cuentan con secuencias específicas, integraciones transversales cuando corresponden, [índice del nivel](docs/1-medio/README.md) y guías propias. El nivel no conserva propuestas secuenciadas ni borradores; la revisión humana sigue pendiente.
 
-## 2° medio en desarrollo
+## 2° medio completo
 
 | Asignatura | OA de contenido | Clases desarrolladas | OA transversales | Experiencias integradas | Pendientes en la asignatura |
 |---|---:|---:|---:|---:|---:|
 | Matemática | 12 | 55 | 21 | 89 | 0 |
 | Lengua y Literatura | 24 | 146 | 8 | 33 | 0 |
-| **Núcleo desarrollado** | **36** | **201** | **29** | **122** | **0** |
+| Ciencias Naturales | 18 | 85 | 21 | 93 | 0 |
+| Historia, Geografía y Ciencias Sociales | 25 | 142 | 23 | 103 | 0 |
+| Inglés | 16 | 81 | 5 | 21 | 0 |
+| Inglés (Propuesta) | 13 | 66 | 0 | 0 | 0 |
+| Artes Visuales | 6 | 30 | 8 | 33 | 0 |
+| Música | 7 | 31 | 9 | 37 | 0 |
+| Educación Física y Salud | 5 | 28 | 7 | 28 | 0 |
+| Orientación | 10 | 52 | 0 | 0 | 0 |
+| Tecnología | 6 | 28 | 4 | 19 | 0 |
+| **Estado del nivel** | **142** | **744** | **106** | **456** | **0** |
 
-Matemática y Lengua y Literatura cuentan con secuencias específicas, integraciones transversales, [índice de 2° medio](docs/2-medio/README.md) y guías propias. Las demás denominaciones conservan 877 propuestas secuenciadas, por lo que el nivel aún no se declara completo; la revisión humana sigue pendiente.
+Las once denominaciones cuentan con secuencias específicas, integraciones transversales cuando corresponden, [índice de 2° medio](docs/2-medio/README.md) y guías propias. El nivel no conserva propuestas secuenciadas ni borradores; la revisión humana sigue pendiente.
 
 ## Cobertura publicada
 

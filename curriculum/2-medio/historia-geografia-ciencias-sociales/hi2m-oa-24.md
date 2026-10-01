@@ -1,4 +1,4 @@
-# HI2M OA 24 — Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…
+# HI2M OA 24 — Desafíos pendientes y responsabilidades para Chile
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | 2° medio | Historia, Geografía y Ciencias Sociales | Formación ciudadana | formacion-general-comun | 6 clases de 90 min |
@@ -12,7 +12,26 @@
 > CC BY-NC-SA 4.0 del contenido pedagógico original. Consulta
 > [LICENSING.md](../../../LICENSING.md).
 
-**Explicación pedagógica.** El OA exige comprender, aplicar en una situación nueva y explicar evidencia; completar una actividad no basta. **Vocabulario explícito:** pregunta, variable, observación, evidencia, patrón, modelo y limitación. Antes de enseñar, comprueba vocabulario del enunciado, seguimiento de instrucciones y una experiencia relacionada con el tema. El diagnóstico decide apoyos, no califica ni etiqueta.
+**Explicación pedagógica.** Desafíos pendientes y responsabilidades para Chile recupera contextualizar fuentes, construir explicaciones multicausales y argumentar sobre procesos históricos en 1° medio y avanza mediante decisiones propias de la disciplina. Cada clase cambia fuentes, materiales, representaciones y evidencias, y enfrenta la confusión «explicar un proceso mediante una sola causa o una cronología sin actores ni escalas».
+
+**Antes de comenzar.** contextualizar fuentes, construir explicaciones multicausales y argumentar sobre procesos históricos en 1° medio
+
+**Vocabulario explícito:** fuente, procedencia, contexto, temporalidad, actor, escala, multicausalidad, continuidad, cambio, perspectiva, memoria, derecho, argumento.
+
+## Alineación con el programa oficial
+**Organización interna de la secuencia**
+- Eje oficial · progresión interna en 6 clases
+
+> **Origen:** Organización pedagógica interna derivada del eje y del OA; no se presenta como una unidad oficial del programa.
+
+**Criterios de progresión derivados del OA**
+- Situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile.
+- Interrogar fuentes con procedencia: Desafíos pendientes y responsabilidades para Chile.
+- Comparar perspectivas y escalas: Desafíos pendientes y responsabilidades para Chile.
+
+> **Origen:** Criterios internos derivados del verbo, contenido y alcance del OA oficial.
+
+- [Fuente oficial del OA](https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/historia-geografia-ciencias-sociales/2-medio/hi2m-oa-24)
 
 ## Lecturas y textos
 La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales.
@@ -22,107 +41,497 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-### Clase 1 de 6: Conectar y diagnosticar {#cl-11264}
-**Foco:** recuperar ideas previas y detectar barreras. **Meta para estudiantes:** hoy voy a trabajar «analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…» y demostrarlo mediante explicación o indagación con evidencia.
+### Clase 1 de 6: Situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile {#cl-11264}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar al curso para situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile mediante fuentes contextualizadas, relaciones temporales y perspectivas contrastadas.
+
+**Meta para estudiantes:** Hoy voy a situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la desigualdad, garantizar los derechos de los grupos discriminados, lograr un desarrollo sustentable, perfeccionar el sistema político y fortalecer la relación con los países vecinos, y reconocer los deberes del Estado y la responsabilidad de todos los miembros de la sociedad para avanzar en ellos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Dispón dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile con autoría, fecha y lugar visibles. Cada estudiante elige una pieza, describe qué muestra y formula una pregunta que la fuente por sí sola no resuelve. |
+| Modelado | 20 min | Modela cómo situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile: contextualiza la fuente, distingue descripción e interpretación y formula una conclusión proporcional a la evidencia. |
+| Práctica guiada | 25 min | En parejas, analizan dos piezas de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Completan una matriz de contexto, evidencia, perspectiva y límite; después contrastan una conclusión y la corrigen si generaliza más de lo permitido. |
+| Desempeño individual | 25 min | Cada estudiante responde un problema nuevo que exige situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile. Integra al menos una fuente o representación espacial o temporal y explica por qué resulta pertinente. |
+| Cierre | 10 min | Formula una conclusión, cita la evidencia más fuerte y escribe una pregunta que exigiría otra fuente o escala. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Prepare o proyecte este insumo: Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.
 
-### Clase 2 de 6: Comprender y modelar {#cl-11265}
-**Foco:** explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto. **Meta para estudiantes:** hoy voy a trabajar «analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…» y demostrarlo mediante explicación o indagación con evidencia.
+**Consigna exacta:** Para «situar el problema y sus actores: desafíos pendientes y responsabilidades para chile», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la desigualdad, garantizar los derechos de los grupos discriminados, lograr un desarrollo sustentable, perfeccionar el sistema político y fortalecer la relación con los países vecinos, y reconocer los deberes del Estado y la responsabilidad de todos los miembros de la sociedad para avanzar en ellos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Referencia para modelar y corregir:** La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Pauta de evaluación de cuatro niveles:**
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
-### Clase 3 de 6: Practicar con apoyo {#cl-11266}
-**Foco:** ensayar con andamiaje y retroalimentación inmediata. **Meta para estudiantes:** hoy voy a trabajar «analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…» y demostrarlo mediante explicación o indagación con evidencia.
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la desigualdad, garantizar los derechos de los grupos discriminados, lograr un desarrollo sustentable, perfeccionar el sistema político y fortalecer la relación con los países vecinos, y reconocer los deberes del Estado y la responsabilidad de todos los miembros de la sociedad para avanzar en ellos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Apoyo en el mismo OA:** Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Profundización:** Agrega una fuente con otra perspectiva o escala sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile y revisa la conclusión indicando continuidad, cambio, ubicación o consecuencia.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Evidencia:** Explicación, mapa o decisión individual sobre situar el problema y sus actores: desafíos pendientes y responsabilidades para chile, apoyada en una fuente o razón explícita y contextualizada.
 
-### Clase 4 de 6: Aplicar con autonomía {#cl-11267}
-**Foco:** resolver una situación nueva y justificar decisiones. **Meta para estudiantes:** hoy voy a trabajar «analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…» y demostrarlo mediante explicación o indagación con evidencia.
+**Criterios de éxito:** resuelve la consigna exacta de «situar el problema y sus actores: desafíos pendientes y responsabilidades para chile»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la desigualdad, garantizar los derechos de los grupos discriminados, lograr un desarrollo sustentable, perfeccionar el sistema político y fortalecer la relación con los países vecinos, y reconocer los deberes del Estado y la responsabilidad de todos los miembros de la sociedad para avanzar en ellos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+**Decisión posterior:** Avanza si evidencia y explicación coinciden; si no, identifica si la dificultad está en observar o leer la fuente, en el concepto o en la justificación y reenseña con otro caso.
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, análisis conjunto, evidencia individual y ticket; reduce repeticiones, no la demanda del OA.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Tarea breve y flexible:** Busca o construye un ejemplo cotidiano seguro mediante dibujo, nota u oralidad. No requiere internet, compras ni revelar información familiar.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a un caso con menos elementos y retorna al desafío original.
+- Análisis de error: corrige un caso ficticio que muestra esta confusión: explicar un proceso mediante una sola causa o una cronología sin actores ni escalas.
+- Transferencia: cambia una condición, fuente o escala y revisa la conclusión.
 
-### Clase 5 de 6: Contrastar y profundizar {#cl-11268}
-**Foco:** comparar alternativas y examinar casos límite. **Meta para estudiantes:** hoy voy a trabajar «analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…» y demostrarlo mediante explicación o indagación con evidencia.
+**Control de dificultades en el aula**
 
-| Momento | Tiempo | Acción docente y experiencia |
-|---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la desigualdad, garantizar los derechos de los grupos discriminados, lograr un desarrollo sustentable, perfeccionar el sistema político y fortalecer la relación con los países vecinos, y reconocer los deberes del Estado y la responsabilidad de todos los miembros de la sociedad para avanzar en ellos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar evidencia | Pide señalar primero el dato, rasgo, fuente o ubicación que utilizará. | La respuesta nueva cita una evidencia pertinente. |
+| Explicar un proceso mediante una sola causa o una cronología sin actores ni escalas | Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no explica | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir la decisión. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Coordinación de roles profesionales:** El docente conduce el trabajo con fuentes y evita anacronismos, estereotipos o exposición personal; los apoyos facilitan acceso sin proporcionar la conclusión.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+**Integración de habilidad y actitud:**
+- **Habilidad · `de Habilidad HI2M OAH d`:** Se observa al leer y comunicar información mediante mapas, planos y diagramas mientras se alcanza la meta «voy a situar el problema y sus actores: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites».
+- **Actitud · `de Actitud HI2M OAA G`:** Se promueve acción cotidiana según virtudes ciudadanas mediante una acción situada, revisable y vinculada con evidencia.
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+### Clase 2 de 6: Interrogar fuentes con procedencia: Desafíos pendientes y responsabilidades para Chile {#cl-11265}
+**Estado editorial:** Desarrollada con contenido específico.
 
-### Clase 6 de 6: Demostrar y retroalimentar {#cl-11269}
-**Foco:** producir evidencia final y decidir el paso siguiente. **Meta para estudiantes:** hoy voy a trabajar «analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…» y demostrarlo mediante explicación o indagación con evidencia.
+**Propósito docente:** Guiar al curso para interrogar fuentes con procedencia: Desafíos pendientes y responsabilidades para Chile mediante fuentes contextualizadas, relaciones temporales y perspectivas contrastadas.
+
+**Meta para estudiantes:** Hoy voy a interrogar fuentes con procedencia: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites.
 
 | Momento | Tiempo | Acción docente y experiencia |
 |---|---:|---|
-| Inicio | 10 min | Presenta una situación breve vinculada a **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**. Recupera qué saben y registra una respuesta inicial de todo el curso. |
-| Explicación | 20 min | Modela cómo abordar «Analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la desigualdad, garantizar los derechos de los grupos discriminados, lograr un desarrollo sustentable, perfeccionar el sistema político y fortalecer la relación con los países vecinos, y reconocer los deberes del Estado y la responsabilidad de todos los miembros de la sociedad para avanzar en ellos». Hace visible el uso de pregunta, variable, observación, evidencia, patrón, modelo y limitación y contrasta un ejemplo logrado con el error: tratar opiniones como evidencia; cambiar varias variables. |
-| Práctica guiada | 25 min | Construyen juntos explicación o indagación con evidencia. Pregunta: “¿qué evidencia demuestra el aprendizaje del OA?” Respuesta esperada: una decisión explicada con vocabulario de la asignatura. |
-| Desempeño individual | 25 min | Cada estudiante produce explicación o indagación con evidencia sobre **analizar y debatir sobre los desafíos pendientes para el país, por ejemplo, reducir la pobreza y la…**, explica una decisión y revisa su trabajo con los criterios. |
-| Cierre | 10 min | Ticket: nombra una decisión, aporta evidencia y corrige el error previsible. Clasifica: logrado; próximo con apoyo; requiere otra explicación. |
+| Inicio | 10 min | Presenta dos fuentes de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile que no miran el asunto del mismo modo. El curso registra acuerdos, tensiones y datos de contexto antes de opinar. |
+| Modelado | 20 min | Cruza un mapa, una cronología y una fuente breve. Explica qué aporta cada representación y evita convertir coincidencia en causalidad automática. |
+| Práctica guiada | 25 min | En parejas, analizan dos piezas de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Completan una matriz de contexto, evidencia, perspectiva y límite; después contrastan una conclusión y la corrigen si generaliza más de lo permitido. |
+| Desempeño individual | 25 min | Cada estudiante responde un problema nuevo que exige interrogar fuentes con procedencia: Desafíos pendientes y responsabilidades para Chile. Integra al menos una fuente o representación espacial o temporal y explica por qué resulta pertinente. |
+| Cierre | 10 min | Formula una conclusión, cita la evidencia más fuerte y escribe una pregunta que exigiría otra fuente o escala. |
 
-**Apoyo en el mismo OA:** ejemplo resuelto, pasos visibles, vocabulario anticipado, ensayo oral y retiro gradual del apoyo. Admite respuesta oral, gráfica, manipulativa o digital si conserva la demanda; no reemplaces el OA por una tarea más fácil.
+**Materiales y preparación:** Prepare o proyecte este insumo: Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
 
-**Profundización:** comparar otra estrategia, formular una objeción o caso límite y transferir a una situación nueva. Exige razonamiento revisable en lugar de ejercicios repetidos.
+### Insumo concreto y consigna
 
-**Errores previsibles:** tratar opiniones como evidencia; cambiar varias variables. **Evidencia:** explicación o indagación con evidencia que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
+**Recurso listo para usar:** Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.
+
+**Consigna exacta:** Para «interrogar fuentes con procedencia: desafíos pendientes y responsabilidades para chile», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación.
+
+**Profundización:** Agrega una fuente con otra perspectiva o escala sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile y revisa la conclusión indicando continuidad, cambio, ubicación o consecuencia.
+
+**Evidencia:** Explicación, mapa o decisión individual sobre interrogar fuentes con procedencia: desafíos pendientes y responsabilidades para chile, apoyada en una fuente o razón explícita y contextualizada.
+
+**Criterios de éxito:** resuelve la consigna exacta de «interrogar fuentes con procedencia: desafíos pendientes y responsabilidades para chile»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza si evidencia y explicación coinciden; si no, identifica si la dificultad está en observar o leer la fuente, en el concepto o en la justificación y reenseña con otro caso.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, análisis conjunto, evidencia individual y ticket; reduce repeticiones, no la demanda del OA.
+
+**Tarea breve y flexible:** Busca o construye un ejemplo cotidiano seguro mediante dibujo, nota u oralidad. No requiere internet, compras ni revelar información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a un caso con menos elementos y retorna al desafío original.
+- Análisis de error: corrige un caso ficticio que muestra esta confusión: explicar un proceso mediante una sola causa o una cronología sin actores ni escalas.
+- Transferencia: cambia una condición, fuente o escala y revisa la conclusión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar evidencia | Pide señalar primero el dato, rasgo, fuente o ubicación que utilizará. | La respuesta nueva cita una evidencia pertinente. |
+| Explicar un proceso mediante una sola causa o una cronología sin actores ni escalas | Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no explica | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir la decisión. |
+
+**Coordinación de roles profesionales:** El docente conduce el trabajo con fuentes y evita anacronismos, estereotipos o exposición personal; los apoyos facilitan acceso sin proporcionar la conclusión.
+
+**Integración de habilidad y actitud:**
+- **Habilidad · `de Habilidad HI2M OAH e`:** Se observa al orientarse con referencias y puntos cardinales mientras se alcanza la meta «voy a interrogar fuentes con procedencia: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites».
+- **Actitud · `de Actitud HI2M OAA A`:** Se promueve trabajo riguroso, perseverante y abierto a la crítica mediante una acción situada, revisable y vinculada con evidencia.
+
+### Clase 3 de 6: Comparar perspectivas y escalas: Desafíos pendientes y responsabilidades para Chile {#cl-11266}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar al curso para comparar perspectivas y escalas: Desafíos pendientes y responsabilidades para Chile mediante fuentes contextualizadas, relaciones temporales y perspectivas contrastadas.
+
+**Meta para estudiantes:** Hoy voy a comparar perspectivas y escalas: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Construye en el pizarrón una línea de tiempo o mapa incompleto a partir de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. El curso decide dónde ubicar cada evidencia y justifica la escala. |
+| Modelado | 20 min | Examina la afirmación «explicar un proceso mediante una sola causa o una cronología sin actores ni escalas». Muestra el anacronismo, generalización o jerarquía que contiene y la reemplaza por una explicación contextualizada. |
+| Práctica guiada | 25 min | En parejas, analizan dos piezas de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Completan una matriz de contexto, evidencia, perspectiva y límite; después contrastan una conclusión y la corrigen si generaliza más de lo permitido. |
+| Desempeño individual | 25 min | Cada estudiante responde un problema nuevo que exige comparar perspectivas y escalas: Desafíos pendientes y responsabilidades para Chile. Integra al menos una fuente o representación espacial o temporal y explica por qué resulta pertinente. |
+| Cierre | 10 min | Formula una conclusión, cita la evidencia más fuerte y escribe una pregunta que exigiría otra fuente o escala. |
+
+**Materiales y preparación:** Prepare o proyecte este insumo: Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.
+
+**Consigna exacta:** Para «comparar perspectivas y escalas: desafíos pendientes y responsabilidades para chile», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación.
+
+**Profundización:** Agrega una fuente con otra perspectiva o escala sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile y revisa la conclusión indicando continuidad, cambio, ubicación o consecuencia.
+
+**Evidencia:** Explicación, mapa o decisión individual sobre comparar perspectivas y escalas: desafíos pendientes y responsabilidades para chile, apoyada en una fuente o razón explícita y contextualizada.
+
+**Criterios de éxito:** resuelve la consigna exacta de «comparar perspectivas y escalas: desafíos pendientes y responsabilidades para chile»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza si evidencia y explicación coinciden; si no, identifica si la dificultad está en observar o leer la fuente, en el concepto o en la justificación y reenseña con otro caso.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, análisis conjunto, evidencia individual y ticket; reduce repeticiones, no la demanda del OA.
+
+**Tarea breve y flexible:** Busca o construye un ejemplo cotidiano seguro mediante dibujo, nota u oralidad. No requiere internet, compras ni revelar información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a un caso con menos elementos y retorna al desafío original.
+- Análisis de error: corrige un caso ficticio que muestra esta confusión: explicar un proceso mediante una sola causa o una cronología sin actores ni escalas.
+- Transferencia: cambia una condición, fuente o escala y revisa la conclusión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar evidencia | Pide señalar primero el dato, rasgo, fuente o ubicación que utilizará. | La respuesta nueva cita una evidencia pertinente. |
+| Explicar un proceso mediante una sola causa o una cronología sin actores ni escalas | Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no explica | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir la decisión. |
+
+**Coordinación de roles profesionales:** El docente conduce el trabajo con fuentes y evita anacronismos, estereotipos o exposición personal; los apoyos facilitan acceso sin proporcionar la conclusión.
+
+**Integración de habilidad y actitud:**
+- **Habilidad · `de Habilidad HI2M OAH f`:** Se observa al obtener información de diversas fuentes mediante preguntas mientras se alcanza la meta «voy a comparar perspectivas y escalas: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites».
+- **Actitud · `de Actitud HI2M OAA D`:** Se promueve igualdad de derechos sin discriminación mediante una acción situada, revisable y vinculada con evidencia.
+
+### Clase 4 de 6: Relacionar causas, cambios y continuidades: Desafíos pendientes y responsabilidades para Chile {#cl-11267}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar al curso para relacionar causas, cambios y continuidades: Desafíos pendientes y responsabilidades para Chile mediante fuentes contextualizadas, relaciones temporales y perspectivas contrastadas.
+
+**Meta para estudiantes:** Hoy voy a relacionar causas, cambios y continuidades: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Comparte una afirmación histórica plausible sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Los estudiantes buscan qué evidencia la apoya, qué la matiza y qué faltaría consultar. |
+| Modelado | 20 min | Compara dos perspectivas sin buscar una voz neutral inexistente. Identifica posición, propósito, coincidencias, silencios y límites. |
+| Práctica guiada | 25 min | En parejas, analizan dos piezas de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Completan una matriz de contexto, evidencia, perspectiva y límite; después contrastan una conclusión y la corrigen si generaliza más de lo permitido. |
+| Desempeño individual | 25 min | Cada estudiante responde un problema nuevo que exige relacionar causas, cambios y continuidades: Desafíos pendientes y responsabilidades para Chile. Integra al menos una fuente o representación espacial o temporal y explica por qué resulta pertinente. |
+| Cierre | 10 min | Formula una conclusión, cita la evidencia más fuerte y escribe una pregunta que exigiría otra fuente o escala. |
+
+**Materiales y preparación:** Prepare o proyecte este insumo: Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.
+
+**Consigna exacta:** Para «relacionar causas, cambios y continuidades: desafíos pendientes y responsabilidades para chile», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación.
+
+**Profundización:** Agrega una fuente con otra perspectiva o escala sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile y revisa la conclusión indicando continuidad, cambio, ubicación o consecuencia.
+
+**Evidencia:** Explicación, mapa o decisión individual sobre relacionar causas, cambios y continuidades: desafíos pendientes y responsabilidades para chile, apoyada en una fuente o razón explícita y contextualizada.
+
+**Criterios de éxito:** resuelve la consigna exacta de «relacionar causas, cambios y continuidades: desafíos pendientes y responsabilidades para chile»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza si evidencia y explicación coinciden; si no, identifica si la dificultad está en observar o leer la fuente, en el concepto o en la justificación y reenseña con otro caso.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, análisis conjunto, evidencia individual y ticket; reduce repeticiones, no la demanda del OA.
+
+**Tarea breve y flexible:** Busca o construye un ejemplo cotidiano seguro mediante dibujo, nota u oralidad. No requiere internet, compras ni revelar información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a un caso con menos elementos y retorna al desafío original.
+- Análisis de error: corrige un caso ficticio que muestra esta confusión: explicar un proceso mediante una sola causa o una cronología sin actores ni escalas.
+- Transferencia: cambia una condición, fuente o escala y revisa la conclusión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar evidencia | Pide señalar primero el dato, rasgo, fuente o ubicación que utilizará. | La respuesta nueva cita una evidencia pertinente. |
+| Explicar un proceso mediante una sola causa o una cronología sin actores ni escalas | Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no explica | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir la decisión. |
+
+**Coordinación de roles profesionales:** El docente conduce el trabajo con fuentes y evita anacronismos, estereotipos o exposición personal; los apoyos facilitan acceso sin proporcionar la conclusión.
+
+**Integración de habilidad y actitud:**
+- **Habilidad · `de Habilidad HI2M OAH g`:** Se observa al formular una opinión fundamentada en datos y evidencia mientras se alcanza la meta «voy a relacionar causas, cambios y continuidades: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites».
+- **Actitud · `de Actitud HI2M OAA G`:** Se promueve acción cotidiana según virtudes ciudadanas mediante una acción situada, revisable y vinculada con evidencia.
+
+### Clase 5 de 6: Construir una interpretación documentada: Desafíos pendientes y responsabilidades para Chile {#cl-11268}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar al curso para construir una interpretación documentada: Desafíos pendientes y responsabilidades para Chile mediante fuentes contextualizadas, relaciones temporales y perspectivas contrastadas.
+
+**Meta para estudiantes:** Hoy voy a construir una interpretación documentada: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Cambia la escala temporal, territorial o social de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Antes de analizar, el curso anticipa qué actores o relaciones podrían volverse visibles. |
+| Modelado | 20 min | Construye una relación de causa y consecuencia que incluye actores, condiciones y resultados no previstos, evitando una explicación monocausal. |
+| Práctica guiada | 25 min | En parejas, analizan dos piezas de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Completan una matriz de contexto, evidencia, perspectiva y límite; después contrastan una conclusión y la corrigen si generaliza más de lo permitido. |
+| Desempeño individual | 25 min | Cada estudiante responde un problema nuevo que exige construir una interpretación documentada: Desafíos pendientes y responsabilidades para Chile. Integra al menos una fuente o representación espacial o temporal y explica por qué resulta pertinente. |
+| Cierre | 10 min | Formula una conclusión, cita la evidencia más fuerte y escribe una pregunta que exigiría otra fuente o escala. |
+
+**Materiales y preparación:** Prepare o proyecte este insumo: Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.
+
+**Consigna exacta:** Para «construir una interpretación documentada: desafíos pendientes y responsabilidades para chile», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación.
+
+**Profundización:** Agrega una fuente con otra perspectiva o escala sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile y revisa la conclusión indicando continuidad, cambio, ubicación o consecuencia.
+
+**Evidencia:** Explicación, mapa o decisión individual sobre construir una interpretación documentada: desafíos pendientes y responsabilidades para chile, apoyada en una fuente o razón explícita y contextualizada.
+
+**Criterios de éxito:** resuelve la consigna exacta de «construir una interpretación documentada: desafíos pendientes y responsabilidades para chile»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza si evidencia y explicación coinciden; si no, identifica si la dificultad está en observar o leer la fuente, en el concepto o en la justificación y reenseña con otro caso.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, análisis conjunto, evidencia individual y ticket; reduce repeticiones, no la demanda del OA.
+
+**Tarea breve y flexible:** Busca o construye un ejemplo cotidiano seguro mediante dibujo, nota u oralidad. No requiere internet, compras ni revelar información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a un caso con menos elementos y retorna al desafío original.
+- Análisis de error: corrige un caso ficticio que muestra esta confusión: explicar un proceso mediante una sola causa o una cronología sin actores ni escalas.
+- Transferencia: cambia una condición, fuente o escala y revisa la conclusión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar evidencia | Pide señalar primero el dato, rasgo, fuente o ubicación que utilizará. | La respuesta nueva cita una evidencia pertinente. |
+| Explicar un proceso mediante una sola causa o una cronología sin actores ni escalas | Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no explica | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir la decisión. |
+
+**Coordinación de roles profesionales:** El docente conduce el trabajo con fuentes y evita anacronismos, estereotipos o exposición personal; los apoyos facilitan acceso sin proporcionar la conclusión.
+
+**Integración de habilidad y actitud:**
+- **Habilidad · `de Habilidad HI2M OAH h`:** Se observa al intercambiar opiniones respetando turnos y perspectivas mientras se alcanza la meta «voy a construir una interpretación documentada: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites».
+- **Actitud · `de Actitud HI2M OAA A`:** Se promueve trabajo riguroso, perseverante y abierto a la crítica mediante una acción situada, revisable y vinculada con evidencia.
+
+### Clase 6 de 6: Debatir consecuencias y límites: Desafíos pendientes y responsabilidades para Chile {#cl-11269}
+**Estado editorial:** Desarrollada con contenido específico.
+
+**Propósito docente:** Guiar al curso para debatir consecuencias y límites: Desafíos pendientes y responsabilidades para Chile mediante fuentes contextualizadas, relaciones temporales y perspectivas contrastadas.
+
+**Meta para estudiantes:** Hoy voy a debatir consecuencias y límites: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites.
+
+| Momento | Tiempo | Acción docente y experiencia |
+|---|---:|---|
+| Inicio | 10 min | Abre con una decisión ciudadana ficticia vinculada con dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Distinguen semejanzas útiles y diferencias que impiden trasladar el pasado de manera directa. |
+| Modelado | 20 min | Redacta un argumento breve, incorpora una evidencia precisa y agrega una frase que reconozca lo que todavía no puede concluirse. |
+| Práctica guiada | 25 min | En parejas, analizan dos piezas de dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile. Completan una matriz de contexto, evidencia, perspectiva y límite; después contrastan una conclusión y la corrigen si generaliza más de lo permitido. |
+| Desempeño individual | 25 min | Cada estudiante responde un problema nuevo que exige debatir consecuencias y límites: Desafíos pendientes y responsabilidades para Chile. Integra al menos una fuente o representación espacial o temporal y explica por qué resulta pertinente. |
+| Cierre | 10 min | Formula una conclusión, cita la evidencia más fuerte y escribe una pregunta que exigiría otra fuente o escala. |
+
+**Materiales y preparación:** Prepare o proyecte este insumo: Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
+
+### Insumo concreto y consigna
+
+**Recurso listo para usar:** Dossier para «Desafíos pendientes y responsabilidades para Chile»: mapas de distinta fecha, documentos estatales e indígenas o locales, registro material y estudio historiográfico actual con límites declarados. Matriz de autoría, contexto, afirmación, evidencia, perspectiva y límite.
+
+**Consigna exacta:** Para «debatir consecuencias y límites: desafíos pendientes y responsabilidades para chile», contextualiza dos fuentes, construye una relación temporal, territorial, causal o económica, contrasta perspectivas y limita la conclusión.
+
+**Referencia para modelar y corregir:** La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales.
+
+**Lista de preparación docente:**
+- [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
+- [ ] Ensayar la respuesta de referencia y anticipar al menos un error plausible.
+- [ ] Definir cómo recogerá evidencia individual durante el desempeño.
+- [ ] Comprobar accesibilidad, seguridad y alternativa sin conectividad.
+
+**Pauta de evaluación de cuatro niveles:**
+
+| Nivel | Descriptor observable |
+|---|---|
+| Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
+| En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo y espacio, cita evidencia precisa, reconoce actores y relaciones de poder, distingue correlación de causa y evita anacronismos o explicaciones monocausales. |
+| Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
+
+| Distribución de 45 minutos | Acción imprescindible |
+|---:|---|
+| 5 min | Activación breve y lectura de la consigna exacta. |
+| 8 min | Modelado con el insumo concreto y una decisión visible. |
+| 12 min | Primer intento guiado y retroalimentación según un criterio. |
+| 15 min | Desempeño individual con evidencia atribuible. |
+| 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+**Apoyo en el mismo OA:** Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación.
+
+**Profundización:** Agrega una fuente con otra perspectiva o escala sobre dossier atribuido de normas nacionales e internacionales, casos ficticios, datos públicos y posturas argumentadas para investigar desafíos pendientes y responsabilidades para chile y revisa la conclusión indicando continuidad, cambio, ubicación o consecuencia.
+
+**Evidencia:** Explicación, mapa o decisión individual sobre debatir consecuencias y límites: desafíos pendientes y responsabilidades para chile, apoyada en una fuente o razón explícita y contextualizada.
+
+**Criterios de éxito:** resuelve la consigna exacta de «debatir consecuencias y límites: desafíos pendientes y responsabilidades para chile»; usa al menos dos datos, rasgos o evidencias del insumo concreto; explica una decisión y revisa su respuesta ante una condición nueva.
+
+**Decisión posterior:** Avanza si evidencia y explicación coinciden; si no, identifica si la dificultad está en observar o leer la fuente, en el concepto o en la justificación y reenseña con otro caso.
+
+**Adaptación a 45 minutos:** Conserva el caso específico, modelado breve, análisis conjunto, evidencia individual y ticket; reduce repeticiones, no la demanda del OA.
+
+**Tarea breve y flexible:** Busca o construye un ejemplo cotidiano seguro mediante dibujo, nota u oralidad. No requiere internet, compras ni revelar información familiar.
+
+**Actividades complementarias (opcionales):**
+- Recuperación: vuelve a un caso con menos elementos y retorna al desafío original.
+- Análisis de error: corrige un caso ficticio que muestra esta confusión: explicar un proceso mediante una sola causa o una cronología sin actores ni escalas.
+- Transferencia: cambia una condición, fuente o escala y revisa la conclusión.
+
+**Control de dificultades en el aula**
+
+| Dificultad observable | Acción inmediata | Cómo comprobar si funcionó |
+|---|---|---|
+| Responde antes de examinar evidencia | Pide señalar primero el dato, rasgo, fuente o ubicación que utilizará. | La respuesta nueva cita una evidencia pertinente. |
+| Explicar un proceso mediante una sola causa o una cronología sin actores ni escalas | Ofrece fuente breve, mapa ampliado, línea de tiempo o vocabulario visual y permite respuesta oral o gráfica; conserva comparación, contextualización y justificación. | Resuelve un caso nuevo sin repetir la confusión y explica la diferencia. |
+| Completa la actividad, pero no explica | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir la decisión. |
+
+**Coordinación de roles profesionales:** El docente conduce el trabajo con fuentes y evita anacronismos, estereotipos o exposición personal; los apoyos facilitan acceso sin proporcionar la conclusión.
+
+**Integración de habilidad y actitud:**
+- **Habilidad · `de Habilidad HI2M OAH i`:** Se observa al presentar un tema con organización y apoyo pertinente mientras se alcanza la meta «voy a debatir consecuencias y límites: Desafíos pendientes y responsabilidades para Chile; sostendré mi explicación con fuentes y reconoceré sus límites».
+- **Actitud · `de Actitud HI2M OAA D`:** Se promueve igualdad de derechos sin discriminación mediante una acción situada, revisable y vinculada con evidencia.
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

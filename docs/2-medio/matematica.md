@@ -1,6 +1,6 @@
 # Matemática · 2° medio
 
-[⬅️ Índice de 2° medio](README.md) · [← Lengua y Literatura](lengua-literatura.md)
+[⬅️ Índice de 2° medio](README.md) · [← Lengua y Literatura](lengua-literatura.md) · [Música →](musica.md)
 
 **12 OA de contenido · 55 clases desarrolladas · 21 OA transversales · 89 experiencias integradas · 9 ejes curriculares · revisión humana pendiente**
 

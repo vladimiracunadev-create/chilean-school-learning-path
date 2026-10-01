@@ -4,7 +4,7 @@
 
 > [⬅️ Centro de documentación](README.md) · [📚 1° básico](1-basico/README.md) · [📚 2° básico](2-basico/README.md) · [📚 3° básico](3-basico/README.md) · [📚 4° básico](4-basico/README.md) · [📚 5° básico](5-basico/README.md) · [📚 6° básico](6-basico/README.md) · [📚 7° básico completo](7-basico/README.md) · [🎓 8° básico completo](8-basico/README.md) · [🏫 1° medio completo](1-medio/README.md) · [📘 2° medio](2-medio/README.md) · [🗂️ Índice curricular](../CURRICULUM.md) · [📊 Rúbrica](RUBRICA_EVALUACION.md)
 
-**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 201 + 122**
+**1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456**
 
 > Las 4.437 entradas de 1°, 2°, 3° y 4° básico constituyen un **mapa de trabajo desarrollado**, no un horario anual prescriptivo. Sus fichas contienen contenido específico y permanecen pendientes de revisión humana especializada.
 
@@ -30,7 +30,7 @@ En 8° básico están desarrolladas las doce denominaciones curriculares: 152 ob
 
 En 1° medio están desarrolladas las once denominaciones: 147 OA de contenido se despliegan en 753 clases y 106 OA transversales mediante 456 experiencias integradas. No quedan propuestas secuenciadas ni borradores; el nivel tiene desarrollo interno completo.
 
-En 2° medio están desarrolladas Matemática y Lengua y Literatura: 36 OA de contenido se despliegan en 201 clases y 29 OA transversales mediante 122 experiencias integradas. Las demás denominaciones conservan 877 propuestas secuenciadas; el nivel aún no se declara completo.
+En 2° medio están desarrolladas sus once denominaciones: 142 OA de contenido se despliegan en 744 clases y 106 OA transversales mediante 456 experiencias integradas. El nivel conserva 0 propuestas secuenciadas.
 
 El programa busca que la planificación sea:
 
@@ -42,7 +42,7 @@ El programa busca que la planificación sea:
 
 ## 2. A quién está dirigido
 
-- Docentes desde 1° básico hasta 2° medio que necesitan preparar, adaptar o contrastar una secuencia desarrollada, atendiendo el estado parcial de 2° medio.
+- Docentes desde 1° básico hasta 2° medio que necesitan preparar, adaptar o contrastar una secuencia desarrollada, atendiendo su estado editorial y de revisión.
 - Equipos UTP y coordinaciones que revisan cobertura, progresión y evidencia.
 - Educadores diferenciales y profesionales de apoyo que diseñan acceso al mismo OA.
 - Familias que desean comprender el propósito de un aprendizaje sin reemplazar la mediación docente.

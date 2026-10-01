@@ -81,7 +81,7 @@ La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla est
 
 ## Consideraciones para el contenido desarrollado de 1° básico a 2° medio
 
-Estas orientaciones cubren los nueve niveles completos desde 1° básico hasta 1° medio y, en 2° medio, las asignaturas desarrolladas de Matemática y Lengua y Literatura. No presentan las demás asignaturas de 2° medio como terminadas.
+Estas orientaciones cubren los diez niveles completos desde 1° básico hasta 2° medio y sus denominaciones desarrolladas. No presentan 3° ni 4° medio como terminados.
 
 - Alterna oralidad, manipulación, movimiento, dibujo y símbolo.
 - Mantén consignas breves, visibles y demostradas.
@@ -95,7 +95,7 @@ Estas orientaciones cubren los nueve niveles completos desde 1° básico hasta 1
 - En 7° básico, exige argumentación, contraste y revisión más autónomos, pero conserva modelado explícito, textos o problemas acotados y vías de acceso al mismo OA.
 - En 8° básico, aumenta la autonomía para modelar, argumentar, investigar, crear, comunicar, participar y revisar en las doce denominaciones, manteniendo ejemplos concretos, fuentes situadas, criterios visibles y comprobación individual.
 - En 1° medio, eleva formalización, contraste de fuentes, producción e investigación sin asumir que la autonomía elimina el modelado o la retroalimentación.
-- En Matemática y Lengua y Literatura de 2° medio, recupera evidencia de 1° medio y exige justificar modelos, interpretaciones y decisiones con representaciones, textos o fuentes comprobables.
+- En 2° medio, recupera evidencia de 1° medio y exige justificar modelos, interpretaciones y decisiones con representaciones, textos, datos, fuentes, producciones o desempeños comprobables según la asignatura.
 - No conviertas el cambio de nivel en retiro automático de apoyos: retíralos según evidencia observable.
 
 ## Errores frecuentes al usar el repositorio
