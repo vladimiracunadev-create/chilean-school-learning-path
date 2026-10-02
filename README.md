@@ -481,13 +481,14 @@ El repositorio conserva una separación deliberada:
 - el sitio de GitHub Pages enlaza a páginas HTML para lectura web;
 - ambos formatos se generan desde la misma fuente y comparten identificadores.
 
-Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia o [descarga el repositorio](https://github.com/vladimiracunadev-create/chilean-school-learning-path/archive/refs/heads/main.zip) para usarlo sin conexión.
+Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el [centro de descargas PDF](docs/PDFS.md) o [descarga el repositorio](https://github.com/vladimiracunadev-create/chilean-school-learning-path/archive/refs/heads/main.zip) para usarlo sin conexión.
 
 ## 📚 Documentación de principio a fin
 
 ### Comprender el programa
 
 - [Centro documental](docs/README.md)
+- [49 compilaciones PDF: básica, media, por nivel, por asignatura y completa](docs/PDFS.md)
 - [Syllabus general de 1° básico a 4° medio](docs/SYLLABUS.md)
 - [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
 - [Glosario educativo](docs/GLOSARIO.md)
@@ -556,7 +557,9 @@ flowchart TD
 Los controles locales requieren Python 3.12:
 
 ```bash
+python -m pip install -r requirements-pdf.txt
 python scripts/generate_school_program.py
+python scripts/export_pdfs.py
 python scripts/validate_school_program.py
 python scripts/validate_licensing.py
 python -m unittest discover -s tests -p "test_*.py" -v

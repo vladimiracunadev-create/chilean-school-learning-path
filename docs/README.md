@@ -40,6 +40,7 @@ Aquí puedes responder:
 
 | Necesidad | Documento | Qué encontrarás |
 |---|---|---|
+| Descargar el programa en PDF | [Centro de descargas](PDFS.md) | básica, media, 12 niveles, 34 denominaciones curriculares y compilación completa |
 | Entender el programa completo | [Syllabus](SYLLABUS.md) | público, resultados, estructura, ritmo, método, evaluación, inclusión y límites |
 | Entender qué significa OA | [Guía simple de OA](QUE_ES_UN_OA.md) | diferencia entre objetivo, clase, actividad, tarea y evidencia |
 | Consultar términos y siglas | [Glosario educativo](GLOSARIO.md) | OA, OAH, OAA, evidencia, apoyos, estados y códigos |
@@ -167,6 +168,7 @@ README.md
 ├── docs/ROLES_DOCENTES.md         ← equipo profesional de aula
 ├── docs/DIFICULTADES_EN_EL_AULA.md ← acciones observables
 ├── docs/FORMATOS.md               ← Markdown + HTML
+├── docs/PDFS.md                   ← 49 compilaciones PDF descargables
 ├── docs/LICENCIAS.md              ← guía simple de reutilización
 ├── docs/1-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura

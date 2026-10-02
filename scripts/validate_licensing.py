@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import fnmatch
 import re
 from pathlib import Path
 from urllib.parse import unquote
@@ -152,10 +153,11 @@ def validate_source_snapshot(root: Path, errors: list[str]) -> None:
 
 def validate_inventories(root: Path, errors: list[str]) -> None:
     asset_registry = (root / "ASSET_LICENSES.md").read_text(encoding="utf-8")
+    registered_patterns = re.findall(r"`([^`]*[*?][^`]*)`", asset_registry)
     for path in iter_repository_files(root):
         if path.suffix.lower() in ASSET_SUFFIXES:
             name = relative(path, root)
-            if name not in asset_registry:
+            if name not in asset_registry and not any(fnmatch.fnmatch(name, pattern) for pattern in registered_patterns):
                 errors.append(f"Activo no inventariado en ASSET_LICENSES.md: {name}")
     data_registry = (root / "DATA-LICENSE.md").read_text(encoding="utf-8")
     datasets = []
