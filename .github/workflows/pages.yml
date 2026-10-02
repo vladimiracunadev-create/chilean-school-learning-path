@@ -20,6 +20,7 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          cache-dependency-path: requirements-pdf.txt
       - run: python -m pip install -r requirements-pdf.txt
       - run: python scripts/generate_development_plan.py
       - run: python scripts/generate_school_program.py
