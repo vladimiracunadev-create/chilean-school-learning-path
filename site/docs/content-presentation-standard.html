@@ -1,0 +1,48 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Estándar de presentación para Markdown, HTML y PDF · documentación pedagógica de Trayectoria Escolar Chile."><link rel="stylesheet" href="../styles.css"><title>Estándar de presentación para Markdown, HTML y PDF | Trayectoria Escolar Chile</title></head><body class="doc-page"><a class="skip-link" href="#contenido">Saltar al contenido</a><header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Documentación HTML</small></span></a><a class="back-link" href="../documentacion.html">← Centro documental</a></header><main id="contenido" class="doc-shell"><div class="doc-format"><span>GitHub Pages</span><strong>Versión HTML</strong></div><article class="doc-article"><h1 id="estandar-de-presentacion-para-markdown-html-y-pdf">Estándar de presentación para Markdown, HTML y PDF</h1>
+<p>Este estándar mantiene una experiencia visual coherente sin convertir tres formatos en tres fuentes distintas. Markdown es la representación canónica de lectura y edición; HTML y PDF son salidas derivadas para navegación web e impresión.</p>
+<p><a href="content-lifecycle.html">Flujo de contenido</a> · <a href="formatos.html">Formatos</a> · <a href="pdfs.html">Descargas PDF</a> · <a href="quality-standard.html">Estándar de calidad</a></p>
+<h2 id="principio-de-correspondencia">Principio de correspondencia</h2>
+<pre class="doc-code text"><code>fuente estructurada
+  → Markdown canónico
+      → HTML navegable
+      → PDF imprimible</code></pre>
+<ul><li>Un documento <strong>Markdown enlaza su equivalente Markdown</strong>.</li><li>Una página <strong>HTML enlaza su equivalente HTML</strong>.</li><li>Un <strong>PDF se genera desde Markdown</strong> y transforma esos enlaces en referencias clicables a la fuente canónica del repositorio.</li><li>Una URL externa conserva su formato original; esta regla no reescribe fuentes oficiales o repositorios ajenos.</li><li>El portal público raíz puede enlazarse desde Markdown como punto de entrada al producto. Las páginas HTML internas no sustituyen los enlaces Markdown del repositorio.</li></ul>
+<h2 id="contrato-visual-de-markdown">Contrato visual de Markdown</h2>
+<p>Todos los archivos <code>.md</code> versionados deben cumplir:</p>
+<ol><li>UTF-8 sin BOM y salto de línea final;</li><li>exactamente un título H1 identificable;</li><li>jerarquía de encabezados sin saltar niveles;</li><li>títulos ATX con espacio (<code>## Título</code>, no <code>##Título</code>);</li><li>bloques de código cercados y balanceados;</li><li>texto de enlace visible y destino no vacío;</li><li>enlaces internos relativos, existentes y propios de la superficie Markdown;</li><li>tablas con encabezado y separador legibles;</li><li>párrafos, listas, tablas y bloques separados con espacio suficiente;</li><li>estado, fuente y límites visibles cuando el documento realiza afirmaciones curriculares o editoriales.</li></ol>
+<p><code>README.md</code> y <code>docs/README.md</code> pueden abrir con un contenedor centrado antes del H1 para su portada. Esa excepción no permite ocultar más de un H1 ni usar HTML para reemplazar la estructura semántica.</p>
+<h2 id="patron-visual-recomendado">Patrón visual recomendado</h2>
+<pre class="doc-code markdown"><code># Título único
+
+Resumen breve que explica propósito y alcance.
+
+[Navegación relacionada](FORMATOS.md)
+
+## Sección
+
+Texto introductorio antes de tablas o listas.
+
+| Campo | Significado |
+|---|---|
+| Ejemplo | Contenido |
+
+## Fuentes y límites
+
+- Fuente primaria.
+- Estado editorial.
+- Aspectos pendientes de revisión.</code></pre>
+<p>Los emoji pueden orientar secciones de índices y portadas, pero no reemplazan etiquetas textuales. El énfasis se usa para jerarquía, no para decorar cada frase.</p>
+<h2 id="contrato-visual-de-html">Contrato visual de HTML</h2>
+<p>Las páginas generadas deben conservar:</p>
+<ul><li><code>lang=&quot;es&quot;</code>, título, navegación principal y un único contenido principal;</li><li>orden semántico de encabezados equivalente al Markdown;</li><li>contraste, foco visible, navegación por teclado y enlace para saltar al contenido;</li><li>tablas desplazables en pantallas estrechas;</li><li>enlaces HTML internos, nunca rutas <code>.md</code> locales;</li><li>estado editorial, fuentes y límites presentes en la fuente canónica;</li><li>diseño adaptable, sin exigir una cuenta ni telemetría.</li></ul>
+<p>El HTML se corrige desde el generador, la plantilla o el Markdown fuente. No se parchean miles de páginas derivadas manualmente.</p>
+<h2 id="contrato-visual-de-pdf">Contrato visual de PDF</h2>
+<p>Las 49 compilaciones deben:</p>
+<ul><li>generarse únicamente con <code>scripts/export_pdfs.py</code> desde Markdown canónico;</li><li>mostrar título, alcance, corte documental y estado editorial en la portada;</li><li>incluir metadatos de título, autor, asunto, creador y versión documental;</li><li>ofrecer tabla de contenido, numeración y marcadores por cada fuente incluida;</li><li>conservar encabezados, listas, tablas, avisos, código y enlaces en forma legible;</li><li>incrustar tipografías con su aviso de licencia;</li><li>mantener cada fuente una sola vez dentro de una compilación;</li><li>permanecer bajo 100 MiB y tener texto extraíble;</li><li>enlazar las fichas OA a la fuente Markdown canónica del commit publicado.</li></ul>
+<p>Un PDF no es una cuarta fuente ni puede declarar una versión distinta. Las diferencias binarias producidas por motores tipográficos en sistemas operativos distintos no son un cambio de contenido; la CI compara estructura, metadatos, inventario, fuentes, enlaces y texto extraíble.</p>
+<h2 id="validacion-automatizada">Validación automatizada</h2>
+<pre class="doc-code bash"><code>python scripts/validate_content_presentation.py
+python scripts/export_pdfs.py --validate-only</code></pre>
+<p>El primer comando recorre todos los Markdown y HTML versionados. El segundo valida las 49 salidas PDF. Ambos se ejecutan en Calidad y Pages antes de publicar.</p>
+<h2 id="responsabilidad-editorial">Responsabilidad editorial</h2>
+<p>La automatización detecta estructura y sincronización; no decide si una explicación es pedagógicamente clara. La revisión humana debe comprobar lectura continua, densidad, lenguaje apropiado, accesibilidad, pertinencia cultural y fidelidad disciplinar en las tres representaciones.</p></article></main><footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documento HTML para GitHub Pages</span></div><div><a href="../documentacion.html">Documentación</a><a href="licensing.html">Licencias</a></div></footer></body></html>

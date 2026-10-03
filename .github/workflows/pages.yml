@@ -41,6 +41,7 @@ jobs:
           python scripts/validate_school_program.py
           python scripts/validate_licensing.py
           python scripts/validate_competency_system.py
+          python scripts/validate_content_presentation.py
           python scripts/generate_competency_portal.py --check
           python -m unittest tests.test_pdf_exports -v
       - name: Verify committed outputs are reproducible

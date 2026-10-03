@@ -70,6 +70,20 @@ class CompetencySystemTests(unittest.TestCase):
             <= framework_ids
         )
 
+    def test_main_readme_explains_new_content_and_existing_connections(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        for token in (
+            "Qué contenido es nuevo y dónde está",
+            "86 habilidades en 7 dominios",
+            "43 enlaces a 37 OA distintos",
+            "Cómo se conecta realmente con una clase existente",
+            "OA oficial LE04 OA 04",
+            "item.reading-rainy-recess.01",
+            "Qué relación es oficial y cuál no",
+            "no un mapeo exhaustivo de los 2.823 OA",
+        ):
+            self.assertIn(token, readme)
+
 
 if __name__ == "__main__":
     unittest.main()

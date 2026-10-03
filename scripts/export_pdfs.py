@@ -91,6 +91,15 @@ pdfmetrics.registerFont(TTFont("Vera-Italic", str(FONT_DIR / "VeraIt.ttf")))
 pdfmetrics.registerFont(TTFont("Vera-BoldItalic", str(FONT_DIR / "VeraBI.ttf")))
 
 
+def current_document_release() -> str:
+    """Return the dated label that also drives the public changelog summary."""
+    changelog = (ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
+    match = re.search(r"^## (\d{4}-\d{2}-\d{2}) [·—-] (.+)$", changelog, flags=re.MULTILINE)
+    if not match:
+        raise RuntimeError("CHANGELOG.md no contiene una primera entrada fechada")
+    return f"{match.group(1)} · {match.group(2).strip()}"
+
+
 @dataclass(frozen=True)
 class PdfJob:
     filename: str
@@ -102,7 +111,8 @@ class PdfJob:
 class CurriculumDocTemplate(BaseDocTemplate):
     """Document template with outline entries and a generated table of contents."""
 
-    def __init__(self, filename: str, *, title: str):
+    def __init__(self, filename: str, *, title: str, release_label: str):
+        self.release_label = release_label
         super().__init__(
             filename,
             pagesize=A4,
@@ -112,7 +122,7 @@ class CurriculumDocTemplate(BaseDocTemplate):
             bottomMargin=18 * mm,
             title=title,
             author="Trayectoria Escolar Chile",
-            subject="Planificación curricular chilena",
+            subject=f"Planificación curricular chilena · {release_label}",
             creator="chilean-school-learning-path",
             invariant=1,
             pageCompression=1,
@@ -124,7 +134,8 @@ class CurriculumDocTemplate(BaseDocTemplate):
             self.height,
             id="content",
         )
-        self.addPageTemplates(PageTemplate(id="main", frames=[frame], onPage=self._decorate_page))
+        # Draw the footer after flowables so tables or continuation frames cannot cover it.
+        self.addPageTemplates(PageTemplate(id="main", frames=[frame], onPageEnd=self._decorate_page))
 
     def _decorate_page(self, canvas, doc):
         canvas.saveState()
@@ -133,7 +144,8 @@ class CurriculumDocTemplate(BaseDocTemplate):
         canvas.line(18 * mm, 14 * mm, A4[0] - 18 * mm, 14 * mm)
         canvas.setFillColor(MUTED)
         canvas.setFont("Vera", 7.5)
-        canvas.drawString(18 * mm, 9.5 * mm, "Trayectoria Escolar Chile")
+        release_date = self.release_label.split(" · ", 1)[0]
+        canvas.drawString(18 * mm, 9.5 * mm, f"Trayectoria Escolar Chile · {release_date}")
         page = f"Página {canvas.getPageNumber()}"
         canvas.drawRightString(A4[0] - 18 * mm, 9.5 * mm, page)
         canvas.restoreState()
@@ -486,13 +498,15 @@ def bookmark_name(path: Path, index: int) -> str:
 def build_pdf(job: PdfJob) -> None:
     styles = make_styles()
     destination = OUTPUT / job.filename
-    document = CurriculumDocTemplate(str(destination), title=job.title)
+    release_label = current_document_release()
+    document = CurriculumDocTemplate(str(destination), title=job.title, release_label=release_label)
     story: list = [
         Spacer(1, 27 * mm),
         Paragraph("TRAYECTORIA ESCOLAR CHILE", styles["small"]),
         Spacer(1, 5 * mm),
         Paragraph(escape(job.title), styles["cover_title"]),
         Paragraph(escape(job.subtitle), styles["cover_subtitle"]),
+        Paragraph(f"Corte documental: {escape(clean_text(release_label))}", styles["small"]),
         Spacer(1, 7 * mm),
         Table(
             [
@@ -682,7 +696,7 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
         "",
         "Las **49 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.",
         "",
-        "La CI comprueba inventario, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.",
+        "Cada portada y sus metadatos muestran el corte documental tomado de la primera entrada fechada de `CHANGELOG.md`. La CI comprueba inventario, versión, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.",
         "",
         "> Los PDF compilan índices y guías pedagógicas. Las 2.823 fichas OA detalladas permanecen como fuente canónica en Markdown y HTML; cada entrada del PDF enlaza a su ficha para evitar duplicar el repositorio completo en cada agrupación.",
         "",
@@ -727,6 +741,7 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
 def validate_outputs(jobs: list[PdfJob]) -> None:
     from pypdf import PdfReader
 
+    release_label = current_document_release()
     expected = {job.filename for job in jobs}
     actual = {path.name for path in OUTPUT.glob("*.pdf")}
     if actual != expected:
@@ -746,9 +761,23 @@ def validate_outputs(jobs: list[PdfJob]) -> None:
             raise RuntimeError(f"{path.name} supera el límite de 100 MiB")
         if reader.metadata.title != job.title:
             raise RuntimeError(f"Metadatos de título incorrectos en {path.name}")
+        if reader.metadata.author != "Trayectoria Escolar Chile":
+            raise RuntimeError(f"Metadatos de autor incorrectos en {path.name}")
+        if release_label not in (reader.metadata.subject or ""):
+            raise RuntimeError(f"Versión documental ausente de los metadatos en {path.name}")
+        if reader.metadata.creator != "chilean-school-learning-path":
+            raise RuntimeError(f"Metadatos de creador incorrectos en {path.name}")
         first_text = " ".join((reader.pages[0].extract_text() or "").split())
         if clean_text(job.title) not in clean_text(first_text):
             raise RuntimeError(f"La portada de {path.name} no contiene el título")
+        if clean_text(release_label) not in clean_text(first_text):
+            raise RuntimeError(f"La portada de {path.name} no contiene la versión documental")
+        for page_number, page in enumerate(reader.pages, start=1):
+            stream = page.get_contents().get_data()
+            if b"Trayectoria Escolar Chile" not in stream[-1500:]:
+                raise RuntimeError(
+                    f"El pie de página no es la última capa visual en {path.name}, página {page_number}"
+                )
 
 
 def parse_args() -> argparse.Namespace:

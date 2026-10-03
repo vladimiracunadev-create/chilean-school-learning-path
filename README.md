@@ -12,7 +12,7 @@
 [![Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 [![Seguridad](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/security.yml)
 
-> **Nuevo · 2 de octubre de 2026:** competencias longitudinales, ciclo de evidencia, banco inicial de tareas, vistas docente/estudiante y workflows reforzados. El portal muestra desde ahora las tres novedades más recientes directamente en su portada. [Ver detalle](CHANGELOG.md#2026-10-02--competencias-evidencia-y-evaluación-longitudinal).
+> **Nuevo · 2 de octubre de 2026:** este README ya explica qué contiene la nueva capa longitudinal, dónde está cada fuente y cómo se enlaza con OA y clases existentes. No crea otro currículo ni otro curso de comprensión lectora. [Ver el mapa](#-competencias-diagnóstico-y-progreso-longitudinal) · [Ver el historial](CHANGELOG.md#2026-10-02--readme-principal-con-mapa-de-la-capa-longitudinal).
 
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
 [![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
@@ -467,12 +467,60 @@ Estas categorías no asignan notas automáticas. Organizan la intervención y la
 
 ## 🧭 Competencias, diagnóstico y progreso longitudinal
 
-El currículo y sus OA siguen siendo la fuente de verdad. Sobre esa base, una capa versionada conecta habilidades transversales, prerrequisitos, indicadores observables, tareas originales, patrones de error, intervenciones existentes y reevaluaciones con situaciones nuevas.
+Esta capa **no reemplaza ni reescribe lo que ya existía**. El recorrido curricular continúa siendo nivel → asignatura → OA → secuencia → clase → actividad → evidencia formativa. La ampliación agrega relaciones explícitas para recorrer una habilidad entre niveles y cerrar el ciclo evaluación → observación → intervención → práctica → reevaluación.
 
-- [Arquitectura de competencias](docs/COMPETENCY_SYSTEM.md)
+### Qué contenido es nuevo y dónde está
+
+| Contenido nuevo | Cobertura actual verificable | Fuente editable | Cómo usa lo existente |
+|---|---:|---|---|
+| Taxonomía transversal | 86 habilidades en 7 dominios | [`competencies/taxonomy.v1.json`](competencies/taxonomy.v1.json) | Da un identificador estable a habilidades que ya aparecen distribuidas entre distintos OA; no cambia su texto oficial. |
+| Progresiones longitudinales | 6 recorridos, 36 etapas, 43 enlaces a 37 OA distintos | [`competencies/progressions.v1.json`](competencies/progressions.v1.json) | Cada etapa declara códigos OA que deben existir en el catálogo curricular; el portal abre sus clases publicadas. |
+| Relaciones entre áreas | 5 enlaces interdisciplinarios | [`competencies/progressions.v1.json`](competencies/progressions.v1.json) | Conecta, por ejemplo, lectura de gráficos con datos y ciencias sin copiar cuatro veces una competencia. |
+| Patrones de error e intervención | 8 patrones prudentes | [`competencies/progressions.v1.json`](competencies/progressions.v1.json) | Cada patrón apunta a habilidades y a OA existentes que el docente puede reutilizar como intervención; una respuesta aislada sigue siendo solo una observación. |
+| Banco inicial de evaluación | 6 tareas originales con criterios, solución, rúbrica y procedencia | [`assessments/item-bank.v1.json`](assessments/item-bank.v1.json) | Cada tarea declara habilidades, prerrequisitos y OA; no copia preguntas protegidas ni crea equivalencias oficiales. |
+| Ciclo de evidencia | Esquema y un ejemplo sintético completo | [`evidence/evidence-cycle.schema.json`](evidence/evidence-cycle.schema.json) · [`evidence/examples/reading-inference-cycle.json`](evidence/examples/reading-inference-cycle.json) | Registra observación, patrón, hipótesis, intervención, práctica y reevaluación sin guardar estudiantes reales en Git. |
+| Marcos de evaluación | PAES, SIMCE, PISA, TIMSS, PIRLS e interno | [`competencies/frameworks.v1.json`](competencies/frameworks.v1.json) | Funcionan como vistas desacopladas sobre habilidades; nunca modifican los OA ni se presentan como currículo. |
+
+Los siete dominios son **competencia lectora** (20 habilidades), **matemática** (14), **científica** (11), **pensamiento crítico** (11), **alfabetización de datos** (10), **escritura y comunicación** (10) y **competencia digital e informacional** (10). La primera versión desarrolla seis trayectorias demostrativas: inferencia y evidencia, resolución matemática, evidencia científica, alfabetización de datos, escritura argumentativa y evaluación de fuentes digitales. Esto es una base extensible, **no un mapeo exhaustivo de los 2.823 OA**.
+
+### Cómo se conecta realmente con una clase existente
+
+El ejemplo de inferencia causal puede recorrerse sin inventar un curso paralelo:
+
+```text
+OA oficial LE04 OA 04
+  → ficha y seis clases ya existentes en curriculum/4-basico/lenguaje-comunicacion/
+  → etapa read-2 de la progresión longitudinal
+  → habilidades reading.inference y reading.causal-inference
+  → tarea original “El recreo bajo la lluvia”
+  → respuesta registrada como observación, no como diagnóstico automático
+  → patrón posible error.causal-reversal, solo si se repite con evidencia diversa
+  → intervención: reutilizar LE04 OA 04 y su secuencia existente
+  → reevaluación: otro texto y otra situación para comprobar transferencia
+```
+
+Puntos de entrada verificables del ejemplo:
+
+- [OA y secuencia existente `LE04 OA 04`](curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md): conserva la fuente oficial, seis clases, apoyos, profundización, evidencia y tickets de salida.
+- [Progresión `progression.reading-inference-evidence`](competencies/progressions.v1.json): sitúa el OA en una etapa longitudinal y declara indicadores observables.
+- [Tarea `item.reading-rainy-recess.01`](assessments/item-bank.v1.json): enlaza explícitamente `LE04 OA 04`, las habilidades y la rúbrica.
+- [Ejemplo de ciclo de evidencia](evidence/examples/reading-inference-cycle.json): muestra cómo una intervención termina en una reevaluación diferente.
+- [Generación de la vista pública de competencias](docs/COMPETENCY_SYSTEM.md): explica cómo los mismos datos producen la navegación para estudiante y docente.
+
+### Qué relación es oficial y cuál no
+
+- **Oficial:** código, texto, nivel, eje y URL del OA conservados desde Currículum Nacional.
+- **Inferencia pedagógica del proyecto:** relación OA ↔ habilidad, orden longitudinal, prerrequisito o patrón de error. Está rotulada como tal y puede revisarse sin alterar el OA.
+- **Propuesta propia:** tareas, rúbricas, reglas de evidencia e intervenciones creadas por el proyecto. Su estado editorial se declara y no equivale a validación externa.
+
+El validador comprueba que los OA, habilidades, prerrequisitos, patrones y marcos referenciados existan. También impide que el README pierda este inventario y esta explicación. Esa integridad técnica **no demuestra todavía pertinencia disciplinar ni validez psicométrica**: ambas requieren revisión humana y pilotaje documentado.
+
+Documentación de detalle:
+
+- [Arquitectura y consultas de competencias](docs/COMPETENCY_SYSTEM.md)
 - [Ciclo de evidencia y diagnóstico pedagógico](docs/EVIDENCE_CYCLE.md)
 - [Marcos externos y límites de alineamiento](docs/ASSESSMENT_FRAMEWORKS.md)
-- [Informe de brechas previo a la implementación](docs/COMPETENCY_GAP_REPORT.md)
+- [Informe histórico de brechas previo a la implementación](docs/COMPETENCY_GAP_REPORT.md)
 
 PAES, SIMCE, PISA, TIMSS y PIRLS se representan como vistas desacopladas. Sus correspondencias con la taxonomía son pedagógicas e inferidas salvo que una fuente citada indique explícitamente lo contrario. El motor determinista no genera porcentajes de dominio, diagnósticos clínicos ni afirmaciones psicométricas.
 
@@ -539,6 +587,8 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el 
 - [Cobertura de los doce niveles](docs/COBERTURA.md)
 - [Estado editorial](EDITORIAL_STATUS.md)
 - [Metodología](METHODOLOGY.md)
+- [Flujo versionado de contenido y despliegue](docs/CONTENT_LIFECYCLE.md)
+- [Estándar visual y de enlaces Markdown, HTML y PDF](docs/CONTENT_PRESENTATION_STANDARD.md)
 - [Estándar de calidad](QUALITY_STANDARD.md)
 - [Revisión humana](docs/REVISION_HUMANA.md)
 - [Formatos Markdown y HTML](docs/FORMATOS.md)

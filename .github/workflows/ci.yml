@@ -40,6 +40,7 @@ jobs:
           python scripts/validate_school_program.py
           python scripts/validate_licensing.py
           python scripts/validate_competency_system.py
+          python scripts/validate_content_presentation.py
       - name: Run tests
         run: python -m unittest discover -s tests -p "test_*.py" -v
       - name: Compile Python sources

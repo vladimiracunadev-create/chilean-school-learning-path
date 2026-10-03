@@ -883,6 +883,23 @@ def validate(root: Path = ROOT) -> list[str]:
         if any(token in document for token in ("{len(transverse)}", "{integrated_count}", "{class_count}")):
             errors.append(f"{document_path.relative_to(root)} conserva un marcador de plantilla sin resolver")
     main_readme = (root / "README.md").read_text(encoding="utf-8")
+    competency_readme_tokens = (
+        "Qué contenido es nuevo y dónde está",
+        "86 habilidades en 7 dominios",
+        "6 recorridos, 36 etapas, 43 enlaces a 37 OA distintos",
+        "5 enlaces interdisciplinarios",
+        "8 patrones prudentes",
+        "6 tareas originales",
+        "Cómo se conecta realmente con una clase existente",
+        "OA oficial LE04 OA 04",
+        "curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md",
+        "item.reading-rainy-recess.01",
+        "Qué relación es oficial y cuál no",
+        "no un mapeo exhaustivo de los 2.823 OA",
+    )
+    for token in competency_readme_tokens:
+        if token not in main_readme:
+            errors.append(f"README.md no explica la capa longitudinal: falta {token}")
     try:
         positive_section = main_readme.split("### ✅ Sí es", 1)[1].split("### ❌ No es", 1)[0]
         negative_section = main_readme.split("### ❌ No es", 1)[1].split("## 💡 Idea fuerza", 1)[0]

@@ -2,7 +2,7 @@
 
 El proyecto separa tres problemas que suelen mezclarse: **qué pide el currículum**, **cómo se dosifica** y **cuánto desarrollo editorial tiene cada clase**.
 
-[Volver al centro de documentación](docs/README.md) · [Consultar el estándar de calidad](QUALITY_STANDARD.md)
+[Volver al centro de documentación](docs/README.md) · [Flujo versionado y despliegue](docs/CONTENT_LIFECYCLE.md) · [Estándar Markdown, HTML y PDF](docs/CONTENT_PRESENTATION_STANDARD.md) · [Consultar el estándar de calidad](QUALITY_STANDARD.md)
 
 ## Flujo de construcción
 
@@ -79,6 +79,8 @@ En 4° básico, cada asignatura conserva un protocolo disciplinar propio: repres
 `scripts/generate_competency_portal.py` publica las trayectorias, vistas de evidencia, marcos e ítems y copia sus datos versionados al sitio. Ambos generadores se ejecutan en CI y el repositorio debe quedar sin diferencias.
 
 La CI vuelve a generar todo y falla si los artefactos textuales quedan desactualizados. Los PDF se regeneran y validan por inventario, metadatos, fuentes únicas, enlaces y lectura; no se exige igualdad binaria entre sistemas operativos porque el motor tipográfico puede producir contenedores diferentes con el mismo contenido.
+
+La secuencia operativa, las reglas de versión y el despliegue están definidos en [Flujo versionado de contenido y despliegue](docs/CONTENT_LIFECYCLE.md). El contrato visual y la separación Markdown→Markdown, HTML→HTML y PDF derivado se definen en [Estándar de presentación](docs/CONTENT_PRESENTATION_STANDARD.md). Ambos documentos son normativos y se verifican en CI.
 
 ## 7. Validación y límites
 

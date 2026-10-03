@@ -67,6 +67,8 @@ Aquí puedes responder:
 | Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
 | Seguir el desarrollo ítem por ítem | [Plan maestro](PLAN_DESARROLLO.md) | orden por nivel y asignatura, estados, gates y controles profesionales |
 | Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 8.841 clases y 4.156 experiencias integradas |
+| Entender cómo se versiona y publica | [Flujo de contenido](CONTENT_LIFECYCLE.md) | fuente, versión, changelog, generación, CI, Pages y rollback |
+| Revisar presentación y enlaces | [Estándar Markdown, HTML y PDF](CONTENT_PRESENTATION_STANDARD.md) | jerarquía visual, enlaces por formato y PDF derivados |
 | Reutilizar contenido o código | [Licencias](LICENCIAS.md) | reglas por tipo de obra y atribución |
 | Resolver dudas | [FAQ](FAQ.md) | alcance, tiempos, estados, adaptaciones y fuentes |
 | Acompañar desde el hogar | [Guía para familias](GUIA_FAMILIAS.md) | conversaciones y apoyos sin reemplazar al docente |
@@ -171,6 +173,8 @@ README.md
 ├── docs/ROLES_DOCENTES.md         ← equipo profesional de aula
 ├── docs/DIFICULTADES_EN_EL_AULA.md ← acciones observables
 ├── docs/FORMATOS.md               ← Markdown + HTML
+├── docs/CONTENT_LIFECYCLE.md      ← versión, generación y despliegue
+├── docs/CONTENT_PRESENTATION_STANDARD.md ← contrato visual MD, HTML y PDF
 ├── docs/PDFS.md                   ← 49 compilaciones PDF descargables
 ├── docs/LICENCIAS.md              ← guía simple de reutilización
 ├── docs/1-basico/README.md        ← índice maestro del nivel

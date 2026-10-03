@@ -2,7 +2,7 @@
 
 Las contribuciones deben mejorar claridad, trazabilidad, accesibilidad o aplicación pedagógica. El proyecto acepta correcciones pequeñas, contenido desarrollado y revisiones documentadas.
 
-[Metodología](METHODOLOGY.md) · [Estándar de calidad](QUALITY_STANDARD.md) · [Roadmap](ROADMAP.md)
+[Metodología](METHODOLOGY.md) · [Flujo de contenido y despliegue](docs/CONTENT_LIFECYCLE.md) · [Estándar de presentación](docs/CONTENT_PRESENTATION_STANDARD.md) · [Estándar de calidad](QUALITY_STANDARD.md) · [Roadmap](ROADMAP.md)
 
 ## Antes de comenzar
 
@@ -38,6 +38,8 @@ Evita frases intercambiables entre asignaturas. Una clase debe nombrar el conten
 - Mantén el OA al proponer apoyos; modifica el acceso, no la expectativa central.
 - Profundiza mediante explicación, comparación o transferencia, no con más repetición.
 - Registra todo cambio visible para usuarios en la primera entrada fechada de `CHANGELOG.md`; el generador lo publicará automáticamente en “Novedades” y CI rechazará una vista desactualizada.
+- En Markdown, enlaza la representación Markdown del documento; en HTML, enlaza su representación HTML. El portal público raíz es el único punto de entrada web permitido desde Markdown. No enlaces una página HTML secundaria para evitar documentar su fuente canónica.
+- No edites archivos PDF: se regeneran únicamente desde las fuentes Markdown canónicas.
 
 ## Fuente y artefactos generados
 
@@ -51,6 +53,7 @@ python scripts/generate_competency_portal.py
 python scripts/validate_school_program.py
 python scripts/validate_licensing.py
 python scripts/validate_competency_system.py
+python scripts/validate_content_presentation.py
 python scripts/generate_competency_portal.py --check
 python -m unittest discover -s tests -p "test_*.py" -v
 ```

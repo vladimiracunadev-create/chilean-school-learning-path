@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-10-02 · Flujo versionado y estándares Markdown, HTML y PDF
+
+- Se documenta el ciclo completo fuente → versión → regeneración → validación → `main` → CI → GitHub Pages, incluyendo responsables, estados, rollback y comprobación posterior al despliegue.
+- Se establece Markdown como representación canónica de lectura; los enlaces internos Markdown→Markdown y HTML→HTML pasan a verificarse en todo el repositorio, sin mezclar superficies.
+- Los 3.047 documentos Markdown quedan sujetos a un contrato visual automatizado: UTF-8, un solo H1, jerarquía de títulos, bloques cercados balanceados, enlaces no vacíos y navegación interna coherente.
+- Las 49 compilaciones PDF se declaran salidas derivadas del Markdown canónico, con versión documental visible, metadatos, índice, marcadores, enlaces, fuentes únicas y validación de lectura; nunca se editan manualmente.
+
+## 2026-10-02 · README principal con mapa de la capa longitudinal
+
+- El README principal enumera ahora el contenido nuevo con sus cifras verificables y sus fuentes editables: 86 habilidades, 6 progresiones, 36 etapas, 43 enlaces a 37 OA distintos, 5 relaciones interdisciplinarias, 8 patrones de error y 6 tareas originales.
+- Se documenta la conexión completa `LE04 OA 04` → clases existentes → progresión → habilidades → tarea → observación → posible patrón → intervención con el mismo OA → reevaluación en una situación nueva.
+- Se distingue en el punto de entrada del repositorio qué proviene del currículo oficial, qué es una inferencia pedagógica revisable y qué es una propuesta propia del proyecto.
+- La validación automática exige que el README conserve el inventario, las fuentes y la explicación de reutilización; una futura ampliación no puede quedar oculta solo en archivos técnicos.
+
 ## 2026-10-02 · Competencias, evidencia y evaluación longitudinal
 
 - Se agrega una taxonomía transversal versionada y seis progresiones demostrativas desde 1° básico hasta 4° medio, enlazadas a OA y clases existentes sin modificar el currículo.
