@@ -73,16 +73,62 @@ class CompetencySystemTests(unittest.TestCase):
     def test_main_readme_explains_new_content_and_existing_connections(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         for token in (
-            "Qué contenido es nuevo y dónde está",
+            "Qué contenido es nuevo, dónde se lee y qué falta",
             "86 habilidades en 7 dominios",
             "43 enlaces a 37 OA distintos",
             "Cómo se conecta realmente con una clase existente",
             "OA oficial LE04 OA 04",
-            "item.reading-rainy-recess.01",
+            "Tarea “El recreo bajo la lluvia”",
             "Qué relación es oficial y cuál no",
             "no un mapeo exhaustivo de los 2.823 OA",
         ):
             self.assertIn(token, readme)
+
+    def test_teacher_views_do_not_require_opening_json(self):
+        public_pages = [
+            ROOT / "site/competencias/index.html",
+            ROOT / "site/competencias/habilidades.html",
+            ROOT / "site/competencias/banco-tareas.html",
+            ROOT / "site/competencias/marcos-evaluacion.html",
+        ]
+        public_pages.extend((ROOT / "site/competencias/tareas").glob("*.html"))
+        self.assertGreaterEqual(len(public_pages), 10)
+        for path in public_pages:
+            content = path.read_text(encoding="utf-8")
+            self.assertNotIn('href="data/', content, path)
+            self.assertNotIn("multiple_choice", content, path)
+            self.assertNotIn("pedagogical_inference", content, path)
+
+    def test_framework_view_answers_what_was_implemented(self):
+        content = (ROOT / "site/competencias/marcos-evaluacion.html").read_text(
+            encoding="utf-8"
+        )
+        for token in (
+            "Qué se hizo con PAES y los otros marcos",
+            "6 correspondencias documentadas y 1 tarea original",
+            "No se creó un preuniversitario",
+            "Regreso al currículo",
+            "Propuesta propia del proyecto",
+        ):
+            self.assertIn(token, content)
+
+    def test_each_task_has_a_complete_teacher_view(self):
+        bank = json.loads(
+            (ROOT / "assessments/item-bank.v1.json").read_text(encoding="utf-8")
+        )
+        pages = list((ROOT / "site/competencias/tareas").glob("*.html"))
+        self.assertEqual(len(bank["items"]), len(pages))
+        for path in pages:
+            content = path.read_text(encoding="utf-8")
+            for token in (
+                "Versión para aplicar",
+                "Clave docente",
+                "Solución explicada",
+                "Rúbrica descriptiva",
+                "OA y clases existentes para intervenir",
+                "no posee validación psicométrica",
+            ):
+                self.assertIn(token, content, path)
 
 
 if __name__ == "__main__":

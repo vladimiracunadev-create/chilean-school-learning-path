@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-02 · Competencias y marcos legibles para docentes
+
+- Los archivos JSON dejan de ser la interfaz pública: permanecen como fuente técnica validada, mientras habilidades, progresiones, marcos y tareas se presentan en páginas pedagógicas navegables.
+- Se publica una respuesta directa sobre PAES, SIMCE, PISA, TIMSS y PIRLS que distingue qué se implementó, qué relación es oficial o inferida, cuántas tareas existen y qué afirmaciones no corresponden.
+- Las seis tareas originales ahora tienen fichas completas con estímulo, consigna, respuesta, solución explicada, criterios, rúbrica, prerrequisitos, OA y enlaces a clases existentes.
+- El README y el centro documental enlazan guías Markdown para docentes; el sitio enlaza sus equivalentes HTML, sin obligar a interpretar identificadores técnicos.
+- La validación automática impide que las vistas docentes vuelvan a enlazar JSON como lectura principal o exhiban tipos internos sin traducir.
+
 ## 2026-10-02 · Novedades públicas sin caché obsoleta
 
 - La portada solicita `catalog.json` y `updates.json` sin reutilizar respuestas almacenadas, de modo que una publicación nueva sea visible inmediatamente después del despliegue.

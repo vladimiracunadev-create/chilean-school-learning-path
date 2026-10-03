@@ -1,16 +1,31 @@
 # Marcos de evaluación como vistas desacopladas
 
-PAES, SIMCE, PISA, TIMSS y PIRLS no constituyen el currículo de este proyecto. Cada marco se registra como una vista con procedencia, población, alcance y límites. El registro estructurado está en `competencies/frameworks.v1.json`.
+PAES, SIMCE, PISA, TIMSS y PIRLS no constituyen el currículo de este proyecto. Cada marco se registra como una vista con procedencia, población, alcance y límites.
+
+[Guía docente de competencias](GUIA_DOCENTE_COMPETENCIAS.md) · [Banco de tareas completo](BANCO_TAREAS.md) · [Sistema longitudinal](COMPETENCY_SYSTEM.md)
+
+## Respuesta directa: qué se implementó
+
+| Marco | Resultado disponible ahora | Qué no significa |
+|---|---|---|
+| PAES | 6 correspondencias de habilidades y 1 tarea original de lectura con regreso a OA de 1° y 2° medio | No es una pregunta DEMRE, un módulo preuniversitario ni un predictor de puntaje |
+| SIMCE | 4 correspondencias y 1 tarea original de comprensión para 4° básico | No es un ítem de la Agencia ni diagnostica a un estudiante |
+| PISA | 4 correspondencias y 2 tareas originales de transferencia contextualizada | No reproduce unidades PISA ni convierte PISA en currículo |
+| TIMSS | 4 correspondencias y 2 tareas originales de matemática y ciencias | No establece equivalencia administrativa automática de niveles |
+| PIRLS | 4 correspondencias y 1 tarea original de comprensión lectora | No crea otro curso de lectura ni reproduce preguntas PIRLS |
+| Evaluación interna | 2 correspondencias y 2 tareas utilizables en ciclos de intervención y reevaluación | No es una medición estandarizada ni psicométricamente validada |
+
+El resultado es una **capa de lectura evaluativa**: tarea original → habilidad → prerrequisito → OA → clase existente. Las tareas completas, sus respuestas, soluciones y rúbricas se leen en [Banco de tareas para docentes](BANCO_TAREAS.md). Los datos estructurados continúan respaldando validación y generación, pero no son la interfaz pedagógica.
 
 ## Tipos de relación
 
 | Tipo | Uso |
 |---|---|
-| `official` | La institución responsable declara explícitamente la relación |
-| `pedagogical_inference` | El proyecto propone una correspondencia razonada, no oficial |
-| `project_proposal` | Tarea, criterio o instrumento original del proyecto |
+| Alineamiento oficial declarado | La institución responsable declara explícitamente la relación |
+| Correspondencia pedagógica inferida | El proyecto propone una correspondencia razonada, no oficial |
+| Propuesta propia del proyecto | Tarea, criterio o instrumento original del proyecto |
 
-Una tarea “PAES-like”, “PISA-like” o vinculada a TIMSS/PIRLS siempre es `project_proposal`. No predice un puntaje ni reproduce un ítem oficial.
+Una tarea inspirada en PAES, PISA, TIMSS o PIRLS siempre se presenta como **propuesta propia del proyecto**. No predice un puntaje ni reproduce un ítem oficial.
 
 ## Registro vigente consultado
 

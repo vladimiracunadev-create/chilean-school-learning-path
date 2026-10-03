@@ -636,7 +636,8 @@ def validate(root: Path = ROOT) -> list[str]:
         errors.append(f"Documentación HTML incompleta: {len(documentation_pages)} páginas, esperadas al menos 41")
     sitemap_path = root / "site/sitemap.xml"
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
-    if sitemap.count("<url>") != objective_count + len(documentation_pages) + 15:
+    competency_pages = list((root / "site/competencias").rglob("*.html"))
+    if sitemap.count("<url>") != objective_count + len(documentation_pages) + len(competency_pages) + 14:
         errors.append("El sitemap no enumera portada, documentación, competencias, los doce niveles, documentos HTML y páginas de OA")
     updates_path = root / "site/updates.json"
     if updates_path.is_file():
@@ -897,16 +898,16 @@ def validate(root: Path = ROOT) -> list[str]:
             errors.append(f"{document_path.relative_to(root)} conserva un marcador de plantilla sin resolver")
     main_readme = (root / "README.md").read_text(encoding="utf-8")
     competency_readme_tokens = (
-        "Qué contenido es nuevo y dónde está",
+        "Qué contenido es nuevo, dónde se lee y qué falta",
         "86 habilidades en 7 dominios",
         "6 recorridos, 36 etapas, 43 enlaces a 37 OA distintos",
         "5 enlaces interdisciplinarios",
         "8 patrones prudentes",
-        "6 tareas originales",
+        "6 tareas completas",
         "Cómo se conecta realmente con una clase existente",
         "OA oficial LE04 OA 04",
         "curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md",
-        "item.reading-rainy-recess.01",
+        "Tarea “El recreo bajo la lluvia”",
         "Qué relación es oficial y cuál no",
         "no un mapeo exhaustivo de los 2.823 OA",
     )

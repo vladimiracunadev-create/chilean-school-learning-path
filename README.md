@@ -469,17 +469,19 @@ Estas categorías no asignan notas automáticas. Organizan la intervención y la
 
 Esta capa **no reemplaza ni reescribe lo que ya existía**. El recorrido curricular continúa siendo nivel → asignatura → OA → secuencia → clase → actividad → evidencia formativa. La ampliación agrega relaciones explícitas para recorrer una habilidad entre niveles y cerrar el ciclo evaluación → observación → intervención → práctica → reevaluación.
 
-### Qué contenido es nuevo y dónde está
+### Qué contenido es nuevo, dónde se lee y qué falta
 
-| Contenido nuevo | Cobertura actual verificable | Fuente editable | Cómo usa lo existente |
+La entrada recomendada para una persona docente es la [guía de competencias, diagnóstico y progreso](docs/GUIA_DOCENTE_COMPETENCIAS.md). Los datos JSON permanecen como soporte técnico para generar y validar, no como material que el docente deba interpretar.
+
+| Contenido nuevo | Cobertura actual verificable | Lectura docente | Cómo usa lo existente |
 |---|---:|---|---|
-| Taxonomía transversal | 86 habilidades en 7 dominios | [`competencies/taxonomy.v1.json`](competencies/taxonomy.v1.json) | Da un identificador estable a habilidades que ya aparecen distribuidas entre distintos OA; no cambia su texto oficial. |
-| Progresiones longitudinales | 6 recorridos, 36 etapas, 43 enlaces a 37 OA distintos | [`competencies/progressions.v1.json`](competencies/progressions.v1.json) | Cada etapa declara códigos OA que deben existir en el catálogo curricular; el portal abre sus clases publicadas. |
-| Relaciones entre áreas | 5 enlaces interdisciplinarios | [`competencies/progressions.v1.json`](competencies/progressions.v1.json) | Conecta, por ejemplo, lectura de gráficos con datos y ciencias sin copiar cuatro veces una competencia. |
-| Patrones de error e intervención | 8 patrones prudentes | [`competencies/progressions.v1.json`](competencies/progressions.v1.json) | Cada patrón apunta a habilidades y a OA existentes que el docente puede reutilizar como intervención; una respuesta aislada sigue siendo solo una observación. |
-| Banco inicial de evaluación | 6 tareas originales con criterios, solución, rúbrica y procedencia | [`assessments/item-bank.v1.json`](assessments/item-bank.v1.json) | Cada tarea declara habilidades, prerrequisitos y OA; no copia preguntas protegidas ni crea equivalencias oficiales. |
-| Ciclo de evidencia | Esquema y un ejemplo sintético completo | [`evidence/evidence-cycle.schema.json`](evidence/evidence-cycle.schema.json) · [`evidence/examples/reading-inference-cycle.json`](evidence/examples/reading-inference-cycle.json) | Registra observación, patrón, hipótesis, intervención, práctica y reevaluación sin guardar estudiantes reales en Git. |
-| Marcos de evaluación | PAES, SIMCE, PISA, TIMSS, PIRLS e interno | [`competencies/frameworks.v1.json`](competencies/frameworks.v1.json) | Funcionan como vistas desacopladas sobre habilidades; nunca modifican los OA ni se presentan como currículo. |
+| Taxonomía transversal | 86 habilidades en 7 dominios | [Guía docente](docs/GUIA_DOCENTE_COMPETENCIAS.md) | Nombra habilidades distribuidas entre distintos OA sin cambiar su texto oficial. |
+| Progresiones longitudinales | 6 recorridos, 36 etapas, 43 enlaces a 37 OA distintos | [Sistema longitudinal](docs/COMPETENCY_SYSTEM.md) | Cada etapa apunta a OA reales y a sus clases publicadas. |
+| Relaciones entre áreas | 5 enlaces interdisciplinarios | [Guía docente](docs/GUIA_DOCENTE_COMPETENCIAS.md) | Conecta lectura, matemática, ciencias y datos sin duplicar la misma competencia. |
+| Patrones de error e intervención | 8 patrones prudentes | [Ciclo de evidencia](docs/EVIDENCE_CYCLE.md) | Propone qué revisar y qué clase reutilizar; una respuesta aislada sigue siendo sólo una observación. |
+| Banco inicial de evaluación | 6 tareas completas con estímulo, solución, rúbrica y procedencia | [Banco para docentes](docs/BANCO_TAREAS.md) | Cada tarea declara habilidades, prerrequisitos y OA; no copia preguntas protegidas. |
+| Ciclo de evidencia | Un ejemplo sintético completo | [Ciclo de evidencia](docs/EVIDENCE_CYCLE.md) | Separa observación, patrón, hipótesis, intervención, práctica y reevaluación. |
+| Marcos de evaluación | PAES, SIMCE, PISA, TIMSS, PIRLS e interno | [Qué se hizo con cada marco](docs/ASSESSMENT_FRAMEWORKS.md) | Son vistas desacopladas; nunca modifican los OA ni se presentan como currículo. |
 
 Los siete dominios son **competencia lectora** (20 habilidades), **matemática** (14), **científica** (11), **pensamiento crítico** (11), **alfabetización de datos** (10), **escritura y comunicación** (10) y **competencia digital e informacional** (10). La primera versión desarrolla seis trayectorias demostrativas: inferencia y evidencia, resolución matemática, evidencia científica, alfabetización de datos, escritura argumentativa y evaluación de fuentes digitales. Esto es una base extensible, **no un mapeo exhaustivo de los 2.823 OA**.
 
@@ -490,11 +492,11 @@ El ejemplo de inferencia causal puede recorrerse sin inventar un curso paralelo:
 ```text
 OA oficial LE04 OA 04
   → ficha y seis clases ya existentes en curriculum/4-basico/lenguaje-comunicacion/
-  → etapa read-2 de la progresión longitudinal
-  → habilidades reading.inference y reading.causal-inference
+  → etapa de inferencia causal en la progresión longitudinal
+  → habilidades de inferencia y relaciones causales
   → tarea original “El recreo bajo la lluvia”
   → respuesta registrada como observación, no como diagnóstico automático
-  → patrón posible error.causal-reversal, solo si se repite con evidencia diversa
+  → posible inversión entre causa y consecuencia, sólo si se repite con evidencia diversa
   → intervención: reutilizar LE04 OA 04 y su secuencia existente
   → reevaluación: otro texto y otra situación para comprobar transferencia
 ```
@@ -502,9 +504,9 @@ OA oficial LE04 OA 04
 Puntos de entrada verificables del ejemplo:
 
 - [OA y secuencia existente `LE04 OA 04`](curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md): conserva la fuente oficial, seis clases, apoyos, profundización, evidencia y tickets de salida.
-- [Progresión `progression.reading-inference-evidence`](competencies/progressions.v1.json): sitúa el OA en una etapa longitudinal y declara indicadores observables.
-- [Tarea `item.reading-rainy-recess.01`](assessments/item-bank.v1.json): enlaza explícitamente `LE04 OA 04`, las habilidades y la rúbrica.
-- [Ejemplo de ciclo de evidencia](evidence/examples/reading-inference-cycle.json): muestra cómo una intervención termina en una reevaluación diferente.
+- [Progresión de información explícita a evaluación de evidencia](docs/COMPETENCY_SYSTEM.md): sitúa el OA en una etapa longitudinal y declara indicadores observables.
+- [Tarea “El recreo bajo la lluvia”](docs/BANCO_TAREAS.md#el-recreo-bajo-la-lluvia): enlaza explícitamente `LE04 OA 04`, habilidades, respuesta, solución y rúbrica.
+- [Ejemplo explicado de ciclo de evidencia](docs/EVIDENCE_CYCLE.md): muestra cómo una intervención termina en una reevaluación diferente.
 - [Generación de la vista pública de competencias](docs/COMPETENCY_SYSTEM.md): explica cómo los mismos datos producen la navegación para estudiante y docente.
 
 ### Qué relación es oficial y cuál no
@@ -518,6 +520,8 @@ El validador comprueba que los OA, habilidades, prerrequisitos, patrones y marco
 Documentación de detalle:
 
 - [Arquitectura y consultas de competencias](docs/COMPETENCY_SYSTEM.md)
+- [Guía de lectura para docentes](docs/GUIA_DOCENTE_COMPETENCIAS.md)
+- [Banco de tareas completo](docs/BANCO_TAREAS.md)
 - [Ciclo de evidencia y diagnóstico pedagógico](docs/EVIDENCE_CYCLE.md)
 - [Marcos externos y límites de alineamiento](docs/ASSESSMENT_FRAMEWORKS.md)
 - [Informe histórico de brechas previo a la implementación](docs/COMPETENCY_GAP_REPORT.md)
@@ -635,7 +639,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 ## ✅ Calidad y CI
 
-Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 62 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 49 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
+Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 71 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 49 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
 
 Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages](.github/workflows/pages.yml) y [Seguridad](.github/workflows/security.yml). Usan permisos mínimos y acciones fijadas por SHA. Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
 
