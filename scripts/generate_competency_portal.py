@@ -901,7 +901,7 @@ Las tareas son originales de `chilean-school-learning-path` y se publican bajo C
 '''
 
 
-def evaluation_markdown(references: dict[str, dict[str, Any]]) -> str:
+def _legacy_evaluation_markdown(references: dict[str, dict[str, Any]]) -> str:
     sections = []
     for key, instrument in INSTRUMENTS.items():
         variants = variants_for(key)
@@ -1038,7 +1038,7 @@ Las muestras breves calculan entre 0 y 4 puntos del proyecto con criterios visib
 '''
 
 
-def exams_markdown(references: dict[str, dict[str, Any]]) -> str:
+def _legacy_exams_markdown(references: dict[str, dict[str, Any]]) -> str:
     sections = []
     for variant in VARIANTS:
         instrument = INSTRUMENTS[variant["instrument"]]
@@ -1124,6 +1124,46 @@ Este documento reúne {len(VARIANTS)} muestras breves de versiones o áreas. Cad
 ''').rstrip() + "\n"
 
 
+def evaluation_markdown(references: dict[str, dict[str, Any]]) -> str:
+    del references
+    return '''# Índice de evaluaciones complementarias
+
+Este archivo es únicamente una puerta de entrada. **No contiene instrumentos concatenados.**
+
+Cada instrumento conserva toda su explicación, historia, versiones, diseño, resultados, rutas curriculares, muestras, claves y rúbricas dentro de su propio archivo Markdown.
+
+[Abrir el índice de archivos individuales](evaluaciones/README.md)
+
+## Regla documental
+
+- Un instrumento = un Markdown propio.
+- El contenido de un instrumento no continúa con otro instrumento en este archivo.
+- Los índices solo ayudan a encontrar el documento correcto.
+- Los archivos JSON permanecen como soporte técnico y no como lectura docente.
+
+[Informe de brechas previo](COMPETENCY_GAP_REPORT.md) · [Brechas actuales](INFORME_BRECHAS_ACTUAL.md) · [Estado de implementación](ESTADO_IMPLEMENTACION.md)
+'''
+
+
+def exams_markdown(references: dict[str, dict[str, Any]]) -> str:
+    del references
+    return f'''# Índice de muestras por instrumento
+
+Este archivo es únicamente un índice. **No reúne PAES, SIMCE ni otros instrumentos uno después de otro.**
+
+Las {len(VARIANTS)} muestras breves, sus claves, rúbricas, cálculo, intervención y reevaluación están dentro del Markdown individual del instrumento correspondiente.
+
+[Abrir el índice de archivos individuales](evaluaciones/README.md)
+
+## Alcance
+
+- La cobertura parcial actual corresponde a muestras breves: no ensayos completos.
+- Cada Markdown individual declara su cobertura y sus límites.
+- Los puntos del proyecto no se convierten en escalas oficiales.
+- Un ensayo completo solo puede declararse después de cubrir toda la matriz vigente de su versión.
+'''
+
+
 def current_gaps_markdown() -> str:
     rows = "\n".join(
         f"| {name} | **{status}** | {evidence} | {action} |"
@@ -1188,7 +1228,7 @@ def instrument_markdown_index() -> str:
 
 Cada guía explica un instrumento o familia con su propio contexto, historia, diseño, interpretación, límites, rutas curriculares y fuentes. Ninguno reemplaza el currículo chileno.
 
-[Volver al panorama general](../EVALUACIONES_COMPLEMENTARIAS.md) · [Muestras y estado de cobertura](../ENSAYOS_EJEMPLO.md) · [Brechas actuales](../INFORME_BRECHAS_ACTUAL.md)
+[Brechas actuales](../INFORME_BRECHAS_ACTUAL.md) · [Estado de implementación](../ESTADO_IMPLEMENTACION.md)
 
 | Instrumento | Tipo | Población o unidad observada | Rutas disponibles |
 |---|---|---|---:|
@@ -1196,17 +1236,13 @@ Cada guía explica un instrumento o familia con su propio contexto, historia, di
 
 ## Regla de navegación
 
-Estos documentos Markdown enlazan otros archivos Markdown y las clases fuente del repositorio. El portal público genera versiones HTML equivalentes sin mezclar extensiones.
+Cada fila abre un archivo independiente. La explicación y las muestras de un instrumento permanecen dentro de ese mismo Markdown; no continúan con el instrumento siguiente. El portal público genera versiones HTML equivalentes sin mezclar extensiones.
 '''
 
 
 def instrument_markdown(key: str, references: dict[str, dict[str, Any]]) -> str:
     instrument = INSTRUMENTS[key]
     variants = variants_for(key)
-    keys = list(INSTRUMENTS)
-    position = keys.index(key)
-    previous_key = keys[position - 1] if position else keys[-1]
-    next_key = keys[(position + 1) % len(keys)]
     history = "\n".join(f"| {period} | **{title}** | {detail} |" for period, title, detail in instrument["history"])
     predecessors = "\n".join(f"- **{name}:** {relation}" for name, relation in instrument["predecessors"])
     documents = "\n".join(f"- [{label}]({url})" for label, url in instrument["documents"])
@@ -1214,6 +1250,7 @@ def instrument_markdown(key: str, references: dict[str, dict[str, Any]]) -> str:
         documents = "- [Evaluación formativa del proyecto](../EVALUACION_FORMATIVA.md)\n- [Ciclo de evidencia](../EVIDENCE_CYCLE.md)"
     coverage_rows = []
     route_sections = []
+    sample_sections = []
     for variant in variants:
         linked = []
         stages = []
@@ -1229,7 +1266,7 @@ def instrument_markdown(key: str, references: dict[str, dict[str, Any]]) -> str:
             if stage_links:
                 stages.append(f"- **{stage}:** " + " · ".join(stage_links))
         coverage_rows.append(
-            f"| [{variant['name']}](../ENSAYOS_EJEMPLO.md#{slug(variant['name'])}) | {variant['level']} | {variant['domain']} | {len(linked)} referencias curriculares | Muestra breve; no cubre el instrumento completo |"
+            f"| [{variant['name']}](#{slug('muestra-' + variant['name'])}) | {variant['level']} | {variant['domain']} | {len(linked)} referencias curriculares | Muestra breve; no cubre el instrumento completo |"
         )
         route_sections.append(f'''### {variant['name']}
 
@@ -1240,7 +1277,55 @@ def instrument_markdown(key: str, references: dict[str, dict[str, Any]]) -> str:
 - **Qué observar:** {variant['observe']}
 - **Si aparece dificultad:** {variant['intervene']}
 - **Cómo reevaluar:** {variant['reassess']}
-- **Muestra calculable:** [{variant['name']}](../ENSAYOS_EJEMPLO.md#{slug(variant['name'])}).
+- **Muestra calculable:** [{variant['name']}](#{slug('muestra-' + variant['name'])}).
+''')
+        form = SAMPLE_FORMS[variant["form"]]
+        closed_questions = []
+        for question_index, question in enumerate(form["questions"], start=1):
+            options = "\n".join(
+                f"- **{chr(65 + option_index)}.** {option}"
+                for option_index, option in enumerate(question["options"])
+            )
+            closed_questions.append(
+                f"**{question_index}. {question['prompt']}**\n\n{options}"
+            )
+        answer_key = ", ".join(
+            f"{question_index}: {chr(65 + question['answer'])}"
+            for question_index, question in enumerate(form["questions"], start=1)
+        )
+        sample_sections.append(f'''### Muestra · {variant['name']}
+
+**Población orientativa:** {variant['level']} · **Dominio:** {variant['domain']}.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a {instrument['short_name']}; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** {variant['focus']}
+
+#### Situación
+
+{form['stimulus']}
+
+#### Preguntas cerradas
+
+{chr(10).join(closed_questions)}
+
+#### Respuesta desarrollada
+
+3. {form['open_prompt']}
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** {answer_key}.
+{chr(10).join(f'- {value}' for value in form['open_rubric'])}
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** {variant['observe']}
+- **Si aparece dificultad:** {variant['intervene']}
+- **Cómo reevaluar:** {variant['reassess']}
 ''')
     paes_note = '''
 > **PAES no comienza en 4° medio.** La prueba se aplica al final de la trayectoria, pero lectura, modelación, uso de evidencia y pensamiento crítico se construyen durante años. Las etapas enlazadas abajo son antecedentes pedagógicos inferidos. No significan que cada OA sea contenido directo del temario PAES vigente; para eso se consulta el temario oficial del proceso.
@@ -1249,7 +1334,7 @@ def instrument_markdown(key: str, references: dict[str, dict[str, Any]]) -> str:
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← {INSTRUMENTS[previous_key]['short_name']}](./{previous_key}.md) · [Índice de instrumentos](./README.md) · [{INSTRUMENTS[next_key]['short_name']} →](./{next_key}.md)
+[Índice de instrumentos](./README.md)
 
 {paes_note}
 ## En una mirada
@@ -1331,6 +1416,10 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 ## Rutas longitudinales hacia clases existentes
 
 {chr(10).join(route_sections) if route_sections else 'Este estudio observa educación parvularia como sistema. No corresponde forzar una ruta a OA escolares de 1° básico a 4° medio.'}
+
+## Muestras calculables de este instrumento
+
+{chr(10).join(sample_sections) if sample_sections else 'No corresponde crear una muestra escolar: este estudio observa sistemas de educación parvularia y no evalúa directamente a estudiantes del tramo escolar.'}
 
 ## Preguntas frecuentes
 

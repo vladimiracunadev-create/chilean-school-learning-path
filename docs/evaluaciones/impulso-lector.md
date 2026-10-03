@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← ECES](./eces.md) · [Índice de instrumentos](./README.md) · [Estudios nacionales →](./estudios-nacionales.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -90,9 +90,9 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Precursores de la lectura](../ENSAYOS_EJEMPLO.md#precursores-de-la-lectura) | 2° básico | Conciencia fonológica y decodificación | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Comprensión de lectura](../ENSAYOS_EJEMPLO.md#comprensi-n-de-lectura) | 2° básico | Comprensión inicial | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Fluidez lectora](../ENSAYOS_EJEMPLO.md#fluidez-lectora) | 2° básico | Precisión, fraseo y expresión | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Precursores de la lectura](#muestra-precursores-de-la-lectura) | 2° básico | Conciencia fonológica y decodificación | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Comprensión de lectura](#muestra-comprensi-n-de-lectura) | 2° básico | Comprensión inicial | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Fluidez lectora](#muestra-fluidez-lectora) | 2° básico | Precisión, fraseo y expresión | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -107,7 +107,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar conciencia fonológica, conocimiento de letras, decodificación y comprensión; registrar el tipo de apoyo necesario.
 - **Si aparece dificultad:** Volver a actividades orales y visuales breves de la clase enlazada, modelar el sonido objetivo y retirar gradualmente el apoyo.
 - **Cómo reevaluar:** Usar palabras nuevas con la misma relación sonora y pedir una explicación oral o señalamiento accesible.
-- **Muestra calculable:** [Precursores de la lectura](../ENSAYOS_EJEMPLO.md#precursores-de-la-lectura).
+- **Muestra calculable:** [Precursores de la lectura](#muestra-precursores-de-la-lectura).
 
 ### Comprensión de lectura
 
@@ -118,7 +118,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
-- **Muestra calculable:** [Comprensión de lectura](../ENSAYOS_EJEMPLO.md#comprensi-n-de-lectura).
+- **Muestra calculable:** [Comprensión de lectura](#muestra-comprensi-n-de-lectura).
 
 ### Fluidez lectora
 
@@ -129,7 +129,151 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Registrar por separado precisión, fraseo, pausas, expresión y comprensión; evitar fijar una velocidad universal como único criterio.
 - **Si aparece dificultad:** Modelar una frase, realizar lectura eco o repetida con propósito y volver al significado del texto, sin exposición pública obligatoria.
 - **Cómo reevaluar:** Usar un texto nuevo de dificultad semejante y comparar precisión, fraseo y comprensión con la primera lectura.
-- **Muestra calculable:** [Fluidez lectora](../ENSAYOS_EJEMPLO.md#fluidez-lectora).
+- **Muestra calculable:** [Fluidez lectora](#muestra-fluidez-lectora).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Precursores de la lectura
+
+**Población orientativa:** 2° básico · **Dominio:** Conciencia fonológica y decodificación.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Impulso Lector; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Reconocer y manipular sonidos del habla, relacionarlos con palabras y explicar una comprobación sin confundir rapidez con aprendizaje.
+
+#### Situación
+
+Actividad oral original: el docente dice lentamente ‘mesa’, ‘mano’, ‘sapo’ y ‘mapa’. Después muestra las palabras escritas con letra grande, sin exigir velocidad.
+
+#### Preguntas cerradas
+
+**1. ¿Qué dos palabras comienzan con el mismo sonido?**
+
+- **A.** mesa y mano
+- **B.** mesa y sapo
+- **C.** mano y sapo
+- **D.** sapo y mapa
+**2. ¿Cuál palabra termina con el mismo sonido que ‘copa’?**
+
+- **A.** mesa
+- **B.** mano
+- **C.** sapo
+- **D.** mapa
+
+#### Respuesta desarrollada
+
+3. Elige una palabra nueva que comience con /m/, dilo en voz alta y explica cómo comprobaste el sonido inicial.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: A, 2: D.
+- 0: no aporta una palabra o cambia el sonido
+- 1: aporta una palabra pertinente sin explicar cómo la reconoció
+- 2: aporta una palabra con /m/ inicial y describe una comprobación oral o articulatoria
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar conciencia fonológica, conocimiento de letras, decodificación y comprensión; registrar el tipo de apoyo necesario.
+- **Si aparece dificultad:** Volver a actividades orales y visuales breves de la clase enlazada, modelar el sonido objetivo y retirar gradualmente el apoyo.
+- **Cómo reevaluar:** Usar palabras nuevas con la misma relación sonora y pedir una explicación oral o señalamiento accesible.
+
+### Muestra · Comprensión de lectura
+
+**Población orientativa:** 2° básico · **Dominio:** Comprensión inicial.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Impulso Lector; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
+
+#### Situación
+
+La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: ‘Trae tu credencial y devuelve los libros en el buzón si llegas después del cierre’. Martina quiere cambiar un libro el jueves a las 17:15.
+
+#### Preguntas cerradas
+
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
+
+#### Respuesta desarrollada
+
+3. Explica qué información del aviso permite responder la segunda pregunta.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no usa información del aviso
+- 1: menciona el buzón o el cierre sin conectar ambos
+- 2: relaciona el horario del jueves con la instrucción de devolución en el buzón
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
+- **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
+- **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
+
+### Muestra · Fluidez lectora
+
+**Población orientativa:** 2° básico · **Dominio:** Precisión, fraseo y expresión.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Impulso Lector; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Leer un texto breve en voz alta con precisión, continuidad, pausas y expresión al servicio de la comprensión.
+
+#### Situación
+
+Texto original para lectura oral: ‘Al amanecer, Tomás abrió la ventana. La lluvia había terminado y, sobre el patio, brillaban pequeñas gotas. Tomó su cuaderno, dibujó tres hojas mojadas y escribió una pregunta: ¿por qué algunas gotas caen antes que otras?’
+
+#### Preguntas cerradas
+
+**1. ¿Qué ocurrió antes de que Tomás abriera la ventana?**
+
+- **A.** Comenzó la lluvia
+- **B.** Terminó la lluvia
+- **C.** Cerró el cuaderno
+- **D.** Cayeron todas las gotas
+**2. ¿Qué hizo Tomás después de mirar el patio?**
+
+- **A.** Dibujó y escribió una pregunta
+- **B.** Volvió a dormir
+- **C.** Cerró la ventana
+- **D.** Secó todas las hojas
+
+#### Respuesta desarrollada
+
+3. Lee el texto en voz alta. El docente registra por separado precisión, respeto de pausas y expresión que ayude a comprender; luego comenta una fortaleza y un próximo paso.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: A.
+- 0: todavía no existe una muestra oral suficiente o la lectura requiere apoyo palabra por palabra
+- 1: la lectura comunica parte del sentido, pero pierde precisión, pausas o continuidad de manera frecuente
+- 2: la lectura es mayormente precisa, agrupa frases y usa pausas o expresión que sostienen el sentido; no se exige una velocidad única
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Registrar por separado precisión, fraseo, pausas, expresión y comprensión; evitar fijar una velocidad universal como único criterio.
+- **Si aparece dificultad:** Modelar una frase, realizar lectura eco o repetida con propósito y volver al significado del texto, sin exposición pública obligatoria.
+- **Cómo reevaluar:** Usar un texto nuevo de dificultad semejante y comparar precisión, fraseo y comprensión con la primera lectura.
 
 
 ## Preguntas frecuentes

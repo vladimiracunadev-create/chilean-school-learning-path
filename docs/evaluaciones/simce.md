@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← PAES](./paes.md) · [Índice de instrumentos](./README.md) · [DIA →](./dia.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -91,12 +91,12 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [4° básico · Lectura](../ENSAYOS_EJEMPLO.md#4-b-sico-lectura) | 4° básico | Lectura | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [4° básico · Matemática](../ENSAYOS_EJEMPLO.md#4-b-sico-matem-tica) | 4° básico | Matemática | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [6° básico · Lectura](../ENSAYOS_EJEMPLO.md#6-b-sico-lectura) | 6° básico | Lectura | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [6° básico · Matemática](../ENSAYOS_EJEMPLO.md#6-b-sico-matem-tica) | 6° básico | Matemática | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [II medio · Lectura](../ENSAYOS_EJEMPLO.md#ii-medio-lectura) | 2° medio | Lectura | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [II medio · Matemática](../ENSAYOS_EJEMPLO.md#ii-medio-matem-tica) | 2° medio | Matemática | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [4° básico · Lectura](#muestra-4-b-sico-lectura) | 4° básico | Lectura | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [4° básico · Matemática](#muestra-4-b-sico-matem-tica) | 4° básico | Matemática | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [6° básico · Lectura](#muestra-6-b-sico-lectura) | 6° básico | Lectura | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [6° básico · Matemática](#muestra-6-b-sico-matem-tica) | 6° básico | Matemática | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [II medio · Lectura](#muestra-ii-medio-lectura) | 2° medio | Lectura | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [II medio · Matemática](#muestra-ii-medio-matem-tica) | 2° medio | Matemática | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -111,7 +111,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
-- **Muestra calculable:** [4° básico · Lectura](../ENSAYOS_EJEMPLO.md#4-b-sico-lectura).
+- **Muestra calculable:** [4° básico · Lectura](#muestra-4-b-sico-lectura).
 
 ### 4° básico · Matemática
 
@@ -122,7 +122,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
-- **Muestra calculable:** [4° básico · Matemática](../ENSAYOS_EJEMPLO.md#4-b-sico-matem-tica).
+- **Muestra calculable:** [4° básico · Matemática](#muestra-4-b-sico-matem-tica).
 
 ### 6° básico · Lectura
 
@@ -133,7 +133,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
-- **Muestra calculable:** [6° básico · Lectura](../ENSAYOS_EJEMPLO.md#6-b-sico-lectura).
+- **Muestra calculable:** [6° básico · Lectura](#muestra-6-b-sico-lectura).
 
 ### 6° básico · Matemática
 
@@ -144,7 +144,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
-- **Muestra calculable:** [6° básico · Matemática](../ENSAYOS_EJEMPLO.md#6-b-sico-matem-tica).
+- **Muestra calculable:** [6° básico · Matemática](#muestra-6-b-sico-matem-tica).
 
 ### II medio · Lectura
 
@@ -155,7 +155,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
 - **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
-- **Muestra calculable:** [II medio · Lectura](../ENSAYOS_EJEMPLO.md#ii-medio-lectura).
+- **Muestra calculable:** [II medio · Lectura](#muestra-ii-medio-lectura).
 
 ### II medio · Matemática
 
@@ -166,7 +166,292 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
-- **Muestra calculable:** [II medio · Matemática](../ENSAYOS_EJEMPLO.md#ii-medio-matem-tica).
+- **Muestra calculable:** [II medio · Matemática](#muestra-ii-medio-matem-tica).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · 4° básico · Lectura
+
+**Población orientativa:** 4° básico · **Dominio:** Lectura.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a SIMCE; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
+
+#### Situación
+
+La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: ‘Trae tu credencial y devuelve los libros en el buzón si llegas después del cierre’. Martina quiere cambiar un libro el jueves a las 17:15.
+
+#### Preguntas cerradas
+
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
+
+#### Respuesta desarrollada
+
+3. Explica qué información del aviso permite responder la segunda pregunta.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no usa información del aviso
+- 1: menciona el buzón o el cierre sin conectar ambos
+- 2: relaciona el horario del jueves con la instrucción de devolución en el buzón
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
+- **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
+- **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
+
+### Muestra · 4° básico · Matemática
+
+**Población orientativa:** 4° básico · **Dominio:** Matemática.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a SIMCE; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
+
+#### Situación
+
+Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápices.
+
+#### Preguntas cerradas
+
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
+
+#### Respuesta desarrollada
+
+3. Explica una forma distinta de comprobar que el resultado es correcto.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: C, 2: B.
+- 0: no presenta comprobación
+- 1: repite el cálculo sin explicar
+- 2: usa operación inversa, descomposición o representación y conecta la comprobación con 48 y 45
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
+- **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
+- **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
+
+### Muestra · 6° básico · Lectura
+
+**Población orientativa:** 6° básico · **Dominio:** Lectura.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a SIMCE; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
+
+#### Situación
+
+La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: ‘Trae tu credencial y devuelve los libros en el buzón si llegas después del cierre’. Martina quiere cambiar un libro el jueves a las 17:15.
+
+#### Preguntas cerradas
+
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
+
+#### Respuesta desarrollada
+
+3. Explica qué información del aviso permite responder la segunda pregunta.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no usa información del aviso
+- 1: menciona el buzón o el cierre sin conectar ambos
+- 2: relaciona el horario del jueves con la instrucción de devolución en el buzón
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
+- **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
+- **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
+
+### Muestra · 6° básico · Matemática
+
+**Población orientativa:** 6° básico · **Dominio:** Matemática.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a SIMCE; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
+
+#### Situación
+
+Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápices.
+
+#### Preguntas cerradas
+
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
+
+#### Respuesta desarrollada
+
+3. Explica una forma distinta de comprobar que el resultado es correcto.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: C, 2: B.
+- 0: no presenta comprobación
+- 1: repite el cálculo sin explicar
+- 2: usa operación inversa, descomposición o representación y conecta la comprobación con 48 y 45
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
+- **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
+- **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
+
+### Muestra · II medio · Lectura
+
+**Población orientativa:** 2° medio · **Dominio:** Lectura.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a SIMCE; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión.
+
+#### Situación
+
+El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mejorará el estudio autónomo y cita una encuesta respondida por 38 de los 760 estudiantes del liceo; 31 de esas respuestas apoyan la propuesta.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál es la afirmación principal?**
+
+- **A.** La encuesta fue obligatoria
+- **B.** La biblioteca debe ampliar su horario
+- **C.** Solo 38 estudiantes usan libros
+- **D.** El liceo tiene 31 estudiantes
+**2. ¿Cuál es la limitación más importante de la evidencia?**
+
+- **A.** La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
+- **B.** La encuesta usa números
+- **C.** La propuesta menciona una biblioteca
+- **D.** La mayoría de quienes respondieron está de acuerdo
+
+#### Respuesta desarrollada
+
+3. Indica una evidencia adicional que permitiría evaluar mejor la propuesta y justifica por qué.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: A.
+- 0: opinión sin evidencia adicional
+- 1: propone un dato pertinente sin justificar su utilidad
+- 2: propone un dato pertinente y explica cómo mejora la representatividad o contrasta la afirmación
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
+- **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
+- **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
+
+### Muestra · II medio · Matemática
+
+**Población orientativa:** 2° medio · **Dominio:** Matemática.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a SIMCE; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
+
+#### Situación
+
+Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrido. Un segundo servicio no cobra base y cobra $500 por kilómetro.
+
+#### Preguntas cerradas
+
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
+
+#### Respuesta desarrollada
+
+3. Compara ambos servicios para 10 km y justifica cuál conviene, mostrando tus cálculos.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: C.
+- 0: elige sin cálculo pertinente
+- 1: calcula al menos un costo correctamente
+- 2: calcula ambos costos, compara y justifica la decisión
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
+- **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
+- **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
 
 
 ## Preguntas frecuentes

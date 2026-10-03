@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← ICCS](./iccs.md) · [Índice de instrumentos](./README.md) · [Impulso Lector →](./impulso-lector.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -94,6 +94,10 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 ## Rutas longitudinales hacia clases existentes
 
 Este estudio observa educación parvularia como sistema. No corresponde forzar una ruta a OA escolares de 1° básico a 4° medio.
+
+## Muestras calculables de este instrumento
+
+No corresponde crear una muestra escolar: este estudio observa sistemas de educación parvularia y no evalúa directamente a estudiantes del tramo escolar.
 
 ## Preguntas frecuentes
 

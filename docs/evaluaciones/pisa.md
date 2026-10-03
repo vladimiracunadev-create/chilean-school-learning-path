@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← DIA](./dia.md) · [Índice de instrumentos](./README.md) · [TIMSS →](./timss.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -90,10 +90,10 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Lectura](../ENSAYOS_EJEMPLO.md#lectura) | 15 años | Lectura en contexto | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Matemática](../ENSAYOS_EJEMPLO.md#matem-tica) | 15 años | Modelación contextual | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Ciencias](../ENSAYOS_EJEMPLO.md#ciencias) | 15 años | Evidencia científica | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Aprendizaje en el mundo digital](../ENSAYOS_EJEMPLO.md#aprendizaje-en-el-mundo-digital) | 15 años | Aprendizaje y verificación digital | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Lectura](#muestra-lectura) | 15 años | Lectura en contexto | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Matemática](#muestra-matem-tica) | 15 años | Modelación contextual | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Ciencias](#muestra-ciencias) | 15 años | Evidencia científica | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Aprendizaje en el mundo digital](#muestra-aprendizaje-en-el-mundo-digital) | 15 años | Aprendizaje y verificación digital | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -108,7 +108,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
 - **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
-- **Muestra calculable:** [Lectura](../ENSAYOS_EJEMPLO.md#lectura).
+- **Muestra calculable:** [Lectura](#muestra-lectura).
 
 ### Matemática
 
@@ -119,7 +119,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
-- **Muestra calculable:** [Matemática](../ENSAYOS_EJEMPLO.md#matem-tica).
+- **Muestra calculable:** [Matemática](#muestra-matem-tica).
 
 ### Ciencias
 
@@ -130,7 +130,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
-- **Muestra calculable:** [Ciencias](../ENSAYOS_EJEMPLO.md#ciencias).
+- **Muestra calculable:** [Ciencias](#muestra-ciencias).
 
 ### Aprendizaje en el mundo digital
 
@@ -141,7 +141,198 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
 - **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
-- **Muestra calculable:** [Aprendizaje en el mundo digital](../ENSAYOS_EJEMPLO.md#aprendizaje-en-el-mundo-digital).
+- **Muestra calculable:** [Aprendizaje en el mundo digital](#muestra-aprendizaje-en-el-mundo-digital).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Lectura
+
+**Población orientativa:** 15 años · **Dominio:** Lectura en contexto.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PISA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión.
+
+#### Situación
+
+El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mejorará el estudio autónomo y cita una encuesta respondida por 38 de los 760 estudiantes del liceo; 31 de esas respuestas apoyan la propuesta.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál es la afirmación principal?**
+
+- **A.** La encuesta fue obligatoria
+- **B.** La biblioteca debe ampliar su horario
+- **C.** Solo 38 estudiantes usan libros
+- **D.** El liceo tiene 31 estudiantes
+**2. ¿Cuál es la limitación más importante de la evidencia?**
+
+- **A.** La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
+- **B.** La encuesta usa números
+- **C.** La propuesta menciona una biblioteca
+- **D.** La mayoría de quienes respondieron está de acuerdo
+
+#### Respuesta desarrollada
+
+3. Indica una evidencia adicional que permitiría evaluar mejor la propuesta y justifica por qué.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: A.
+- 0: opinión sin evidencia adicional
+- 1: propone un dato pertinente sin justificar su utilidad
+- 2: propone un dato pertinente y explica cómo mejora la representatividad o contrasta la afirmación
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
+- **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
+- **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
+
+### Muestra · Matemática
+
+**Población orientativa:** 15 años · **Dominio:** Modelación contextual.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PISA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
+
+#### Situación
+
+Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrido. Un segundo servicio no cobra base y cobra $500 por kilómetro.
+
+#### Preguntas cerradas
+
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
+
+#### Respuesta desarrollada
+
+3. Compara ambos servicios para 10 km y justifica cuál conviene, mostrando tus cálculos.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: C.
+- 0: elige sin cálculo pertinente
+- 1: calcula al menos un costo correctamente
+- 2: calcula ambos costos, compara y justifica la decisión
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
+- **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
+- **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
+
+### Muestra · Ciencias
+
+**Población orientativa:** 15 años · **Dominio:** Evidencia científica.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PISA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
+
+#### Situación
+
+Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El grupo A recibió 50 ml de agua diarios; el B, 100 ml. Tras 14 días, la altura media fue 12 cm en A y 15 cm en B.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
+
+#### Respuesta desarrollada
+
+3. Propón una modificación que permita investigar si el efecto se mantiene con otra cantidad de agua.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no propone comparación
+- 1: propone otra cantidad sin controlar variables
+- 2: agrega un grupo comparable y mantiene constantes las demás condiciones
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
+- **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
+- **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
+
+### Muestra · Aprendizaje en el mundo digital
+
+**Población orientativa:** 15 años · **Dominio:** Aprendizaje y verificación digital.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PISA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Buscar, verificar procedencia y fecha, contrastar fuentes, transformar información y comunicar responsablemente.
+
+#### Situación
+
+Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen con el logotipo del municipio. No incluye enlace ni fecha. Una búsqueda encuentra la web municipal sin ese anuncio y una cuenta social no verificada que repite el mensaje.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál es la primera acción más responsable?**
+
+- **A.** Reenviar por precaución
+- **B.** Confirmar en canales oficiales con fecha y URL
+- **C.** Confiar en el logotipo
+- **D.** Preguntar cuántos me gusta tiene
+**2. ¿Qué señal reduce la confiabilidad del mensaje?**
+
+- **A.** Menciona al municipio
+- **B.** No tiene enlace ni fecha
+- **C.** Usa una imagen
+- **D.** Habla de clases
+
+#### Respuesta desarrollada
+
+3. Describe un protocolo breve de verificación antes de compartir el mensaje.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: comparte o descarta sin comprobar
+- 1: consulta una fuente oficial
+- 2: verifica fuente, fecha y coincidencia entre al menos dos canales confiables
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
+- **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
+- **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
 
 
 ## Preguntas frecuentes

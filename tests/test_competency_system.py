@@ -232,10 +232,22 @@ class CompetencySystemTests(unittest.TestCase):
                 "## Historia y versiones anteriores", "## Cómo funciona y qué observa",
                 "## Qué significan los resultados", "## Uso pedagógico antes, durante y después",
                 "## Matriz de cobertura disponible", "## Rutas longitudinales hacia clases existentes",
-                "## Fuentes institucionales",
+                "## Muestras calculables de este instrumento", "## Fuentes institucionales",
             ):
                 self.assertIn(token, content, guide)
+            self.assertNotIn("../ENSAYOS_EJEMPLO.md", content, guide)
             self.assertIn(f"]({key}.md)", index)
+
+    def test_general_markdown_files_are_indexes_not_concatenated_instruments(self):
+        for relative in ("docs/EVALUACIONES_COMPLEMENTARIAS.md", "docs/ENSAYOS_EJEMPLO.md"):
+            content = (ROOT / relative).read_text(encoding="utf-8")
+            self.assertIn("índice", content.lower(), relative)
+            for instrument in INSTRUMENTS.values():
+                self.assertNotIn(f"## {instrument['short_name']}", content, relative)
+        for key in INSTRUMENTS:
+            guide = (ROOT / "docs/evaluaciones" / f"{key}.md").read_text(encoding="utf-8")
+            if any(variant["instrument"] == key for variant in VARIANTS):
+                self.assertIn("### Muestra ·", guide, key)
 
     def test_short_samples_are_not_presented_as_complete_exams(self):
         markdown = (ROOT / "docs/ENSAYOS_EJEMPLO.md").read_text(encoding="utf-8")

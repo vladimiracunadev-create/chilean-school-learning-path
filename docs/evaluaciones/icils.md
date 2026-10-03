@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← ERCE](./erce.md) · [Índice de instrumentos](./README.md) · [ICCS →](./iccs.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -88,8 +88,8 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Alfabetización computacional e informacional](../ENSAYOS_EJEMPLO.md#alfabetizaci-n-computacional-e-informacional) | 8° básico | Información digital | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Pensamiento computacional · referencia](../ENSAYOS_EJEMPLO.md#pensamiento-computacional-referencia) | 8° básico | Resolución digital | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Alfabetización computacional e informacional](#muestra-alfabetizaci-n-computacional-e-informacional) | 8° básico | Información digital | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Pensamiento computacional · referencia](#muestra-pensamiento-computacional-referencia) | 8° básico | Resolución digital | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -104,7 +104,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
 - **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
-- **Muestra calculable:** [Alfabetización computacional e informacional](../ENSAYOS_EJEMPLO.md#alfabetizaci-n-computacional-e-informacional).
+- **Muestra calculable:** [Alfabetización computacional e informacional](#muestra-alfabetizaci-n-computacional-e-informacional).
 
 ### Pensamiento computacional · referencia
 
@@ -115,7 +115,104 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
 - **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
-- **Muestra calculable:** [Pensamiento computacional · referencia](../ENSAYOS_EJEMPLO.md#pensamiento-computacional-referencia).
+- **Muestra calculable:** [Pensamiento computacional · referencia](#muestra-pensamiento-computacional-referencia).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Alfabetización computacional e informacional
+
+**Población orientativa:** 8° básico · **Dominio:** Información digital.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a ICILS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Buscar, verificar procedencia y fecha, contrastar fuentes, transformar información y comunicar responsablemente.
+
+#### Situación
+
+Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen con el logotipo del municipio. No incluye enlace ni fecha. Una búsqueda encuentra la web municipal sin ese anuncio y una cuenta social no verificada que repite el mensaje.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál es la primera acción más responsable?**
+
+- **A.** Reenviar por precaución
+- **B.** Confirmar en canales oficiales con fecha y URL
+- **C.** Confiar en el logotipo
+- **D.** Preguntar cuántos me gusta tiene
+**2. ¿Qué señal reduce la confiabilidad del mensaje?**
+
+- **A.** Menciona al municipio
+- **B.** No tiene enlace ni fecha
+- **C.** Usa una imagen
+- **D.** Habla de clases
+
+#### Respuesta desarrollada
+
+3. Describe un protocolo breve de verificación antes de compartir el mensaje.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: comparte o descarta sin comprobar
+- 1: consulta una fuente oficial
+- 2: verifica fuente, fecha y coincidencia entre al menos dos canales confiables
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
+- **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
+- **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
+
+### Muestra · Pensamiento computacional · referencia
+
+**Población orientativa:** 8° básico · **Dominio:** Resolución digital.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a ICILS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Buscar, verificar procedencia y fecha, contrastar fuentes, transformar información y comunicar responsablemente.
+
+#### Situación
+
+Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen con el logotipo del municipio. No incluye enlace ni fecha. Una búsqueda encuentra la web municipal sin ese anuncio y una cuenta social no verificada que repite el mensaje.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál es la primera acción más responsable?**
+
+- **A.** Reenviar por precaución
+- **B.** Confirmar en canales oficiales con fecha y URL
+- **C.** Confiar en el logotipo
+- **D.** Preguntar cuántos me gusta tiene
+**2. ¿Qué señal reduce la confiabilidad del mensaje?**
+
+- **A.** Menciona al municipio
+- **B.** No tiene enlace ni fecha
+- **C.** Usa una imagen
+- **D.** Habla de clases
+
+#### Respuesta desarrollada
+
+3. Describe un protocolo breve de verificación antes de compartir el mensaje.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: comparte o descarta sin comprobar
+- 1: consulta una fuente oficial
+- 2: verifica fuente, fecha y coincidencia entre al menos dos canales confiables
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
+- **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
+- **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
 
 
 ## Preguntas frecuentes

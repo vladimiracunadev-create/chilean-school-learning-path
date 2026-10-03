@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← TIMSS](./timss.md) · [Índice de instrumentos](./README.md) · [ERCE →](./erce.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -89,8 +89,8 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Experiencia literaria](../ENSAYOS_EJEMPLO.md#experiencia-literaria) | Alrededor de 4° básico | Comprensión literaria | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Adquirir y usar información](../ENSAYOS_EJEMPLO.md#adquirir-y-usar-informaci-n) | Alrededor de 4° básico | Comprensión informativa | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Experiencia literaria](#muestra-experiencia-literaria) | Alrededor de 4° básico | Comprensión literaria | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Adquirir y usar información](#muestra-adquirir-y-usar-informaci-n) | Alrededor de 4° básico | Comprensión informativa | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -105,7 +105,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
-- **Muestra calculable:** [Experiencia literaria](../ENSAYOS_EJEMPLO.md#experiencia-literaria).
+- **Muestra calculable:** [Experiencia literaria](#muestra-experiencia-literaria).
 
 ### Adquirir y usar información
 
@@ -116,7 +116,104 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
-- **Muestra calculable:** [Adquirir y usar información](../ENSAYOS_EJEMPLO.md#adquirir-y-usar-informaci-n).
+- **Muestra calculable:** [Adquirir y usar información](#muestra-adquirir-y-usar-informaci-n).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Experiencia literaria
+
+**Población orientativa:** Alrededor de 4° básico · **Dominio:** Comprensión literaria.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PIRLS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
+
+#### Situación
+
+La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: ‘Trae tu credencial y devuelve los libros en el buzón si llegas después del cierre’. Martina quiere cambiar un libro el jueves a las 17:15.
+
+#### Preguntas cerradas
+
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
+
+#### Respuesta desarrollada
+
+3. Explica qué información del aviso permite responder la segunda pregunta.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no usa información del aviso
+- 1: menciona el buzón o el cierre sin conectar ambos
+- 2: relaciona el horario del jueves con la instrucción de devolución en el buzón
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
+- **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
+- **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
+
+### Muestra · Adquirir y usar información
+
+**Población orientativa:** Alrededor de 4° básico · **Dominio:** Comprensión informativa.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PIRLS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
+
+#### Situación
+
+La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: ‘Trae tu credencial y devuelve los libros en el buzón si llegas después del cierre’. Martina quiere cambiar un libro el jueves a las 17:15.
+
+#### Preguntas cerradas
+
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
+
+#### Respuesta desarrollada
+
+3. Explica qué información del aviso permite responder la segunda pregunta.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no usa información del aviso
+- 1: menciona el buzón o el cierre sin conectar ambos
+- 2: relaciona el horario del jueves con la instrucción de devolución en el buzón
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
+- **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
+- **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 
 ## Preguntas frecuentes

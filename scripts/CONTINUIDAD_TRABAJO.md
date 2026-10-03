@@ -40,9 +40,9 @@ Memoria operativa para continuar la tarea aunque la conversación se compacte. N
 - Creadas 13 guías Markdown individuales y sus 13 versiones HTML para docentes.
 - PAES muestra cinco rutas longitudinales con antecedentes desde educación básica y media, sin confundirlos con el temario oficial.
 - Las 45 piezas breves se presentan como muestras calculables de cobertura parcial; el estado declara **0 ensayos completos**. Los botones, tarjetas y explicaciones ya no las llaman ensayos.
-- Regenerados y verificados 51 PDF; los tres compendios afectados conservan la distinción entre muestra parcial y ensayo completo.
+- Regenerados y verificados 64 PDF; cada instrumento posee su PDF separado y los documentos generales funcionan únicamente como índices.
 - QA funcional realizado en navegador: centro de evaluaciones, ruta PAES, cálculo 4/4 de una muestra y estado de implementación.
-- Suite completa verificada: 79 pruebas. Validadores curricular, documental, licencias, competencias y UTF-8 aprobados.
+- Suite completa verificada: 80 pruebas, incluida la prohibición de concatenar instrumentos en los Markdown generales.
 
 ## Publicación comprobada
 

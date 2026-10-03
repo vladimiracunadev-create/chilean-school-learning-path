@@ -5,6 +5,17 @@
   "updates": [
     {
       "date": "2026-10-03",
+      "title": "Separación estricta por instrumento",
+      "summary": [
+        "`docs/EVALUACIONES_COMPLEMENTARIAS.md` y `docs/ENSAYOS_EJEMPLO.md` dejan de concatenar instrumentos y pasan a ser índices breves.",
+        "Cada uno de los trece Markdown individuales contiene ahora su propia explicación, historia, rutas, matriz, muestras, claves, rúbricas, cálculo y decisiones pedagógicas.",
+        "Las guías individuales ya no enlazan un banco Markdown común para encontrar sus muestras: toda la lectura permanece dentro del archivo del instrumento seleccionado.",
+        "Los PDF pasan de 51 a 64 para publicar un archivo independiente por instrumento, además de los índices y compilaciones curriculares existentes.",
+        "Se añade una prueba automática que impide volver a insertar secciones de instrumentos dentro de los dos Markdown generales."
+      ]
+    },
+    {
+      "date": "2026-10-03",
       "title": "Guías individuales, trayectoria PAES y cobertura honesta",
       "summary": [
         "Se retira de las superficies pedagógicas actuales el rótulo **Prompt Maestro**, porque describe una instrucción de trabajo con IA y no una categoría educativa; lo reemplaza un estado de implementación organizado por ocho capacidades, con evidencia y límites.",
@@ -34,17 +45,6 @@
         "Las descargas pasan de 49 a 51 PDF: se agregan una guía docente de instrumentos/brechas/estado y una compilación completa de los 45 ensayos.",
         "El informe de brechas previo se conserva como línea base histórica y se añade un estado actual que indica brecha cerrada, parcial y acción pendiente, además de una tabla explícita para todos los bloques del prompt maestro.",
         "Markdown enlaza documentación Markdown; HTML enlaza páginas HTML. Los JSON permanecen como soporte técnico y no como interfaz docente."
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Competencias y marcos legibles para docentes",
-      "summary": [
-        "Los archivos JSON dejan de ser la interfaz pública: permanecen como fuente técnica validada, mientras habilidades, progresiones, marcos y tareas se presentan en páginas pedagógicas navegables.",
-        "Se publica una respuesta directa sobre PAES, SIMCE, PISA, TIMSS y PIRLS que distingue qué se implementó, qué relación es oficial o inferida, cuántas tareas existen y qué afirmaciones no corresponden.",
-        "Las seis tareas originales ahora tienen fichas completas con estímulo, consigna, respuesta, solución explicada, criterios, rúbrica, prerrequisitos, OA y enlaces a clases existentes.",
-        "El README y el centro documental enlazan guías Markdown para docentes; el sitio enlaza sus equivalentes HTML, sin obligar a interpretar identificadores técnicos.",
-        "La validación automática impide que las vistas docentes vuelvan a enlazar JSON como lectura principal o exhiban tipos internos sin traducir."
       ]
     }
   ]

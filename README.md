@@ -14,7 +14,7 @@
 
 > **Nuevo · 2 de octubre de 2026:** este README ya explica qué contiene la nueva capa longitudinal, dónde está cada fuente y cómo se enlaza con OA y clases existentes. No crea otro currículo ni otro curso de comprensión lectora. [Ver el mapa](#-competencias-diagnóstico-y-progreso-longitudinal) · [Ver el historial](CHANGELOG.md#2026-10-02--readme-principal-con-mapa-de-la-capa-longitudinal).
 
-> **Nuevo · 3 de octubre de 2026:** PAES y las demás evaluaciones tienen un centro docente y una guía Markdown propia. PAES, SIMCE, DIA, Impulso Lector, Estudios Nacionales, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES y evaluación interna explican qué son, por qué existen, su historia, responsables, población, diseño, resultados, límites, fuentes y conexión con clases existentes. PAES muestra una trayectoria desde antecedentes de educación básica hasta la transferencia en media: rendirla al egreso no significa que la competencia nazca en 4° medio. Las piezas calculables se llaman **muestras breves** porque todavía no cubren todos los contenidos; el repositorio ya no las presenta como ensayos completos. [Abrir las 13 guías](docs/evaluaciones/README.md) · [Revisar muestras y cobertura](docs/ENSAYOS_EJEMPLO.md) · [Comparar las brechas](docs/INFORME_BRECHAS_ACTUAL.md) · [Ver el estado de implementación](docs/ESTADO_IMPLEMENTACION.md).
+> **Nuevo · 3 de octubre de 2026:** cada evaluación tiene un Markdown propio que contiene su explicación, historia, versiones, rutas, muestras, claves y rúbricas. Los archivos generales son solo índices y nunca concatenan el contenido de PAES, SIMCE u otros instrumentos. PAES muestra una trayectoria desde antecedentes de educación básica hasta la transferencia en media: rendirla al egreso no significa que la competencia nazca en 4° medio. [Abrir los 13 archivos independientes](docs/evaluaciones/README.md) · [Comparar las brechas](docs/INFORME_BRECHAS_ACTUAL.md) · [Ver el estado de implementación](docs/ESTADO_IMPLEMENTACION.md).
 
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
 [![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
@@ -56,12 +56,12 @@
 
 No necesitas revisar carpetas técnicas ni abrir JSON:
 
-1. **[Evaluaciones complementarias](docs/EVALUACIONES_COMPLEMENTARIAS.md):** explica cada instrumento desde su historia y antecesores hasta su diseño, resultados, límites, fuentes y uso docente. Sus rutas dicen qué contenido preparar, qué clase exacta abrir y cómo comprobar transferencia.
-2. **[Muestras calculables y cobertura](docs/ENSAYOS_EJEMPLO.md):** incluye 45 variantes documentadas, respuesta correcta, rúbrica, cálculo de 0 a 4 puntos del proyecto, criterio observable, intervención y reevaluación. Declara expresamente que no son ensayos completos.
+1. **[Índice de evaluaciones complementarias](docs/EVALUACIONES_COMPLEMENTARIAS.md):** dirige al directorio de instrumentos y no duplica contenido.
+2. **[Índice de muestras](docs/ENSAYOS_EJEMPLO.md):** explica dónde encontrarlas; cada muestra, clave y rúbrica vive dentro del Markdown de su instrumento.
 3. **[Informe de brechas previo](docs/COMPETENCY_GAP_REPORT.md):** conserva lo que existía antes de implementar.
 4. **[Informe de brechas actual](docs/INFORME_BRECHAS_ACTUAL.md):** muestra qué se cerró, qué quedó parcial y qué falta.
 5. **[Estado de implementación pedagógica](docs/ESTADO_IMPLEMENTACION.md):** organiza lo disponible por capacidades educativas, enlaza evidencia y separa con claridad lo usable de lo pendiente.
-6. **[Guías individuales de instrumentos](docs/evaluaciones/README.md):** reúne 13 documentos independientes y navegables; no obliga a buscar cada instrumento dentro de un archivo único.
+6. **[Archivos individuales de instrumentos](docs/evaluaciones/README.md):** reúne 13 documentos independientes; cada uno contiene también sus propias muestras y no continúa con otro instrumento.
 
 En comprensión lectora están diferenciadas **Impulso Lector, Estudio Nacional de Lectura, PAES Competencia Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE Lectura**. Todas regresan a clases existentes; ninguna se presenta como equivalente a otra.
 
@@ -570,7 +570,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el 
 ### Comprender el programa
 
 - [Centro documental](docs/README.md)
-- [51 compilaciones PDF: evaluaciones, ensayos, básica, media, por nivel, por asignatura y completa](docs/PDFS.md)
+- [64 compilaciones PDF: 13 instrumentos separados, índices, básica, media, por nivel, por asignatura y completa](docs/PDFS.md)
 - [Syllabus general de 1° básico a 4° medio](docs/SYLLABUS.md)
 - [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
 - [Glosario educativo](docs/GLOSARIO.md)
@@ -654,7 +654,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 ## ✅ Calidad y CI
 
-Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 79 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 51 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
+Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 80 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 64 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
 
 Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages](.github/workflows/pages.yml) y [Seguridad](.github/workflows/security.yml). Usan permisos mínimos y acciones fijadas por SHA. Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
 

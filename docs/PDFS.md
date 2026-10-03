@@ -1,6 +1,6 @@
 # PDFs para descarga
 
-Las **51 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.
+Las **64 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen 13 archivos separados por instrumento, tabla de contenido, numeración, enlaces clicables a las fichas OA y avisos de estado editorial.
 
 Cada portada y sus metadatos muestran el corte documental tomado de la primera entrada fechada de `CHANGELOG.md`. La CI comprueba inventario, versión, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.
 
@@ -14,12 +14,25 @@ Cada portada y sus metadatos muestran el corte documental tomado de la primera e
 | Enseñanza Media completa | [Descargar PDF](../output/pdf/ensenanza-media-completa.pdf) |
 | Todo el programa y la documentación | [Descargar PDF completo](../output/pdf/trayectoria-escolar-completa.pdf) |
 
-## Evaluaciones y ensayos
+## Evaluaciones separadas por instrumento
 
 | Documento docente | Descarga |
 |---|---|
-| Evaluaciones complementarias - guía docente | [Descargar PDF](../output/pdf/evaluaciones-complementarias.pdf) |
+| Índice de evaluaciones complementarias | [Descargar PDF](../output/pdf/evaluaciones-complementarias.pdf) |
 | Muestras calculables y estado de cobertura | [Descargar PDF](../output/pdf/ensayos-ejemplo.pdf) |
+| PAES - guía individual | [Descargar PDF](../output/pdf/evaluacion-paes.pdf) |
+| SIMCE - guía individual | [Descargar PDF](../output/pdf/evaluacion-simce.pdf) |
+| DIA - guía individual | [Descargar PDF](../output/pdf/evaluacion-dia.pdf) |
+| PISA - guía individual | [Descargar PDF](../output/pdf/evaluacion-pisa.pdf) |
+| TIMSS - guía individual | [Descargar PDF](../output/pdf/evaluacion-timss.pdf) |
+| PIRLS - guía individual | [Descargar PDF](../output/pdf/evaluacion-pirls.pdf) |
+| ERCE - guía individual | [Descargar PDF](../output/pdf/evaluacion-erce.pdf) |
+| ICILS - guía individual | [Descargar PDF](../output/pdf/evaluacion-icils.pdf) |
+| ICCS - guía individual | [Descargar PDF](../output/pdf/evaluacion-iccs.pdf) |
+| ECES - guía individual | [Descargar PDF](../output/pdf/evaluacion-eces.pdf) |
+| Impulso Lector - guía individual | [Descargar PDF](../output/pdf/evaluacion-impulso-lector.pdf) |
+| Estudios Nacionales - guía individual | [Descargar PDF](../output/pdf/evaluacion-estudios-nacionales.pdf) |
+| Evaluación interna - guía individual | [Descargar PDF](../output/pdf/evaluacion-interna.pdf) |
 
 ## PDF por nivel
 
@@ -79,6 +92,6 @@ Cada portada y sus metadatos muestran el corte documental tomado de la primera e
 
 ## Reproducibilidad y alcance
 
-Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 51 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.
+Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 64 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.
 
 Los PDF mantienen la separación de derechos descrita en [Licencias](../LICENSING.md): convertir a PDF no modifica la licencia ni la procedencia de cada componente.

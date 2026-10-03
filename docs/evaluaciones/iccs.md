@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← ICILS](./icils.md) · [Índice de instrumentos](./README.md) · [ECES →](./eces.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -90,7 +90,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Educación cívica y ciudadanía](../ENSAYOS_EJEMPLO.md#educaci-n-c-vica-y-ciudadan-a) | 8° básico | Ciudadanía | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Educación cívica y ciudadanía](#muestra-educaci-n-c-vica-y-ciudadan-a) | 8° básico | Ciudadanía | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -105,7 +105,57 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
 - **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
-- **Muestra calculable:** [Educación cívica y ciudadanía](../ENSAYOS_EJEMPLO.md#educaci-n-c-vica-y-ciudadan-a).
+- **Muestra calculable:** [Educación cívica y ciudadanía](#muestra-educaci-n-c-vica-y-ciudadan-a).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Educación cívica y ciudadanía
+
+**Población orientativa:** 8° básico · **Dominio:** Ciudadanía.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a ICCS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional.
+
+#### Situación
+
+La municipalidad propone transformar un estacionamiento en plaza. Un informe municipal estima 600 usuarios semanales. Una agrupación de comerciantes advierte pérdida de acceso, pero no presenta conteos. Vecinos solicitan conservar espacios para personas con movilidad reducida.
+
+#### Preguntas cerradas
+
+**1. ¿Qué fuente entrega un dato cuantitativo verificable?**
+
+- **A.** Informe municipal
+- **B.** Advertencia sin conteos
+- **C.** Solicitud vecinal
+- **D.** Ninguna
+**2. ¿Qué información falta para comparar impactos?**
+
+- **A.** El color futuro de la plaza
+- **B.** Conteos actuales de uso y accesibilidad
+- **C.** El nombre de la calle
+- **D.** La edad del alcalde
+
+#### Respuesta desarrollada
+
+3. Formula una recomendación provisional que considere al menos dos fuentes y declare una limitación.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: A, 2: B.
+- 0: opinión sin fuentes
+- 1: usa una fuente o no declara limitación
+- 2: integra dos fuentes y explicita qué evidencia falta antes de decidir
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
+- **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
+- **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
 
 
 ## Preguntas frecuentes

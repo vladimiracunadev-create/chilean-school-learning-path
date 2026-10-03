@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← Impulso Lector](./impulso-lector.md) · [Índice de instrumentos](./README.md) · [Interna →](./interna.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -90,11 +90,11 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Estudio Nacional de Lectura](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-lectura) | 2° básico | Lectura inicial | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Estudio Nacional de Escritura](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-escritura) | 6° básico | Producción escrita | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Estudio Nacional de Formación Ciudadana](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-formaci-n-ciudadana) | 8° básico | Ciudadanía | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Estudio Nacional de Inglés](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-ingl-s) | Enseñanza media según ciclo | Comprensión y comunicación en inglés | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Competencias generales técnico-profesionales · referencia](../ENSAYOS_EJEMPLO.md#competencias-generales-t-cnico-profesionales-referencia) | Enseñanza media técnico-profesional | Comunicación, datos y decisión | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Estudio Nacional de Lectura](#muestra-estudio-nacional-de-lectura) | 2° básico | Lectura inicial | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Estudio Nacional de Escritura](#muestra-estudio-nacional-de-escritura) | 6° básico | Producción escrita | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Estudio Nacional de Formación Ciudadana](#muestra-estudio-nacional-de-formaci-n-ciudadana) | 8° básico | Ciudadanía | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Estudio Nacional de Inglés](#muestra-estudio-nacional-de-ingl-s) | Enseñanza media según ciclo | Comprensión y comunicación en inglés | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Competencias generales técnico-profesionales · referencia](#muestra-competencias-generales-t-cnico-profesionales-referencia) | Enseñanza media técnico-profesional | Comunicación, datos y decisión | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -109,7 +109,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
-- **Muestra calculable:** [Estudio Nacional de Lectura](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-lectura).
+- **Muestra calculable:** [Estudio Nacional de Lectura](#muestra-estudio-nacional-de-lectura).
 
 ### Estudio Nacional de Escritura
 
@@ -120,7 +120,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
 - **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
-- **Muestra calculable:** [Estudio Nacional de Escritura](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-escritura).
+- **Muestra calculable:** [Estudio Nacional de Escritura](#muestra-estudio-nacional-de-escritura).
 
 ### Estudio Nacional de Formación Ciudadana
 
@@ -131,7 +131,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
 - **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
-- **Muestra calculable:** [Estudio Nacional de Formación Ciudadana](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-formaci-n-ciudadana).
+- **Muestra calculable:** [Estudio Nacional de Formación Ciudadana](#muestra-estudio-nacional-de-formaci-n-ciudadana).
 
 ### Estudio Nacional de Inglés
 
@@ -142,7 +142,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar comprensión del contenido, vocabulario, organización del mensaje e inteligibilidad; no penalizar acento ni una forma emergente que conserva el sentido.
 - **Si aparece dificultad:** Volver a la clase enlazada, modelar cómo localizar detalles y usar un marco breve de mensaje antes de escribir de manera independiente.
 - **Cómo reevaluar:** Usar otro aviso auténtico u original y pedir un mensaje para una audiencia y propósito diferentes.
-- **Muestra calculable:** [Estudio Nacional de Inglés](../ENSAYOS_EJEMPLO.md#estudio-nacional-de-ingl-s).
+- **Muestra calculable:** [Estudio Nacional de Inglés](#muestra-estudio-nacional-de-ingl-s).
 
 ### Competencias generales técnico-profesionales · referencia
 
@@ -153,7 +153,245 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
 - **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
-- **Muestra calculable:** [Competencias generales técnico-profesionales · referencia](../ENSAYOS_EJEMPLO.md#competencias-generales-t-cnico-profesionales-referencia).
+- **Muestra calculable:** [Competencias generales técnico-profesionales · referencia](#muestra-competencias-generales-t-cnico-profesionales-referencia).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Estudio Nacional de Lectura
+
+**Población orientativa:** 2° básico · **Dominio:** Lectura inicial.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Estudios nacionales; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
+
+#### Situación
+
+La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: ‘Trae tu credencial y devuelve los libros en el buzón si llegas después del cierre’. Martina quiere cambiar un libro el jueves a las 17:15.
+
+#### Preguntas cerradas
+
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
+
+#### Respuesta desarrollada
+
+3. Explica qué información del aviso permite responder la segunda pregunta.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no usa información del aviso
+- 1: menciona el buzón o el cierre sin conectar ambos
+- 2: relaciona el horario del jueves con la instrucción de devolución en el buzón
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
+- **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
+- **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
+
+### Muestra · Estudio Nacional de Escritura
+
+**Población orientativa:** 6° básico · **Dominio:** Producción escrita.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Estudios nacionales; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Planificar, organizar, desarrollar ideas, usar evidencia, revisar coherencia y comunicar para una audiencia.
+
+#### Situación
+
+Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el viernes después de instalar bebederos. La medición corresponde a una sola semana.
+
+#### Preguntas cerradas
+
+**1. ¿Qué afirmación es compatible con los datos?**
+
+- **A.** Los bebederos siempre reducen el consumo
+- **B.** El viernes se observaron 45 botellas menos que el lunes
+- **C.** Toda la escuela cambió sus hábitos
+- **D.** La campaña fue validada por un estudio anual
+**2. ¿Qué límite debe declararse?**
+
+- **A.** Los datos son de una sola semana
+- **B.** Las botellas son objetos
+- **C.** El viernes ocurre después del lunes
+- **D.** Hay dos cantidades
+
+#### Respuesta desarrollada
+
+3. Escribe una recomendación de dos o tres oraciones que use el dato y declare su límite.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: A.
+- 0: no usa los datos
+- 1: usa la diferencia o formula recomendación, pero omite el límite
+- 2: formula recomendación coherente, usa la diferencia de 45 y reconoce que solo se observó una semana
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
+- **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
+- **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
+
+### Muestra · Estudio Nacional de Formación Ciudadana
+
+**Población orientativa:** 8° básico · **Dominio:** Ciudadanía.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Estudios nacionales; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional.
+
+#### Situación
+
+La municipalidad propone transformar un estacionamiento en plaza. Un informe municipal estima 600 usuarios semanales. Una agrupación de comerciantes advierte pérdida de acceso, pero no presenta conteos. Vecinos solicitan conservar espacios para personas con movilidad reducida.
+
+#### Preguntas cerradas
+
+**1. ¿Qué fuente entrega un dato cuantitativo verificable?**
+
+- **A.** Informe municipal
+- **B.** Advertencia sin conteos
+- **C.** Solicitud vecinal
+- **D.** Ninguna
+**2. ¿Qué información falta para comparar impactos?**
+
+- **A.** El color futuro de la plaza
+- **B.** Conteos actuales de uso y accesibilidad
+- **C.** El nombre de la calle
+- **D.** La edad del alcalde
+
+#### Respuesta desarrollada
+
+3. Formula una recomendación provisional que considere al menos dos fuentes y declare una limitación.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: A, 2: B.
+- 0: opinión sin fuentes
+- 1: usa una fuente o no declara limitación
+- 2: integra dos fuentes y explicita qué evidencia falta antes de decidir
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
+- **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
+- **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
+
+### Muestra · Estudio Nacional de Inglés
+
+**Población orientativa:** Enseñanza media según ciclo · **Dominio:** Comprensión y comunicación en inglés.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Estudios nacionales; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Comprender información explícita y propósito en un texto breve en inglés y producir un mensaje funcional comprensible.
+
+#### Situación
+
+School notice: ‘The science club meeting will take place in Room 12 on Thursday at 3:30 p.m. Bring your observation notebook. Students who need an accessible route should enter through the library corridor.’
+
+#### Preguntas cerradas
+
+**1. What should every participant bring?**
+
+- **A.** A library card
+- **B.** An observation notebook
+- **C.** A lab coat
+- **D.** A printed map
+**2. Why does the notice mention the library corridor?**
+
+- **A.** To change the meeting time
+- **B.** To provide an accessible route
+- **C.** To borrow a science book
+- **D.** To cancel the club
+
+#### Respuesta desarrollada
+
+3. Write a short message to a classmate explaining when and where the meeting is and what they need to bring.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: the message does not communicate the required information
+- 1: the message communicates some correct details but omits time, place or material
+- 2: the message clearly communicates time, place and required material in understandable English
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar comprensión del contenido, vocabulario, organización del mensaje e inteligibilidad; no penalizar acento ni una forma emergente que conserva el sentido.
+- **Si aparece dificultad:** Volver a la clase enlazada, modelar cómo localizar detalles y usar un marco breve de mensaje antes de escribir de manera independiente.
+- **Cómo reevaluar:** Usar otro aviso auténtico u original y pedir un mensaje para una audiencia y propósito diferentes.
+
+### Muestra · Competencias generales técnico-profesionales · referencia
+
+**Población orientativa:** Enseñanza media técnico-profesional · **Dominio:** Comunicación, datos y decisión.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a Estudios nacionales; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Planificar, organizar, desarrollar ideas, usar evidencia, revisar coherencia y comunicar para una audiencia.
+
+#### Situación
+
+Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el viernes después de instalar bebederos. La medición corresponde a una sola semana.
+
+#### Preguntas cerradas
+
+**1. ¿Qué afirmación es compatible con los datos?**
+
+- **A.** Los bebederos siempre reducen el consumo
+- **B.** El viernes se observaron 45 botellas menos que el lunes
+- **C.** Toda la escuela cambió sus hábitos
+- **D.** La campaña fue validada por un estudio anual
+**2. ¿Qué límite debe declararse?**
+
+- **A.** Los datos son de una sola semana
+- **B.** Las botellas son objetos
+- **C.** El viernes ocurre después del lunes
+- **D.** Hay dos cantidades
+
+#### Respuesta desarrollada
+
+3. Escribe una recomendación de dos o tres oraciones que use el dato y declare su límite.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: A.
+- 0: no usa los datos
+- 1: usa la diferencia o formula recomendación, pero omite el límite
+- 2: formula recomendación coherente, usa la diferencia de 45 y reconoce que solo se observó una semana
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
+- **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
+- **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
 
 
 ## Preguntas frecuentes

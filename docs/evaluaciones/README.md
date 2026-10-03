@@ -2,7 +2,7 @@
 
 Cada guía explica un instrumento o familia con su propio contexto, historia, diseño, interpretación, límites, rutas curriculares y fuentes. Ninguno reemplaza el currículo chileno.
 
-[Volver al panorama general](../EVALUACIONES_COMPLEMENTARIAS.md) · [Muestras y estado de cobertura](../ENSAYOS_EJEMPLO.md) · [Brechas actuales](../INFORME_BRECHAS_ACTUAL.md)
+[Brechas actuales](../INFORME_BRECHAS_ACTUAL.md) · [Estado de implementación](../ESTADO_IMPLEMENTACION.md)
 
 | Instrumento | Tipo | Población o unidad observada | Rutas disponibles |
 |---|---|---|---:|
@@ -22,4 +22,4 @@ Cada guía explica un instrumento o familia con su propio contexto, historia, di
 
 ## Regla de navegación
 
-Estos documentos Markdown enlazan otros archivos Markdown y las clases fuente del repositorio. El portal público genera versiones HTML equivalentes sin mezclar extensiones.
+Cada fila abre un archivo independiente. La explicación y las muestras de un instrumento permanecen dentro de ese mismo Markdown; no continúan con el instrumento siguiente. El portal público genera versiones HTML equivalentes sin mezclar extensiones.

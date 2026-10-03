@@ -676,15 +676,11 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
         [
             PdfJob(
                 "evaluaciones-complementarias.pdf",
-                "Evaluaciones complementarias - guía docente",
-                "Trece guías individuales —acceso, diagnóstico, evaluaciones nacionales e internacionales— con historia, diseño, cobertura y conexiones curriculares.",
+                "Índice de evaluaciones complementarias",
+                "Puerta de entrada a los documentos separados por instrumento, sin concatenar sus contenidos.",
                 (
                     DOCS / "EVALUACIONES_COMPLEMENTARIAS.md",
                     DOCS / "evaluaciones" / "README.md",
-                    *(DOCS / "evaluaciones" / f"{name}.md" for name in (
-                        "paes", "simce", "dia", "pisa", "timss", "pirls", "erce",
-                        "icils", "iccs", "eces", "impulso-lector", "estudios-nacionales", "interna",
-                    )),
                     DOCS / "INFORME_BRECHAS_ACTUAL.md",
                     DOCS / "ESTADO_IMPLEMENTACION.md",
                 ),
@@ -697,6 +693,22 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
             ),
         ]
     )
+    instrument_pdf_specs = (
+        ("paes", "PAES"), ("simce", "SIMCE"), ("dia", "DIA"),
+        ("pisa", "PISA"), ("timss", "TIMSS"), ("pirls", "PIRLS"),
+        ("erce", "ERCE"), ("icils", "ICILS"), ("iccs", "ICCS"),
+        ("eces", "ECES"), ("impulso-lector", "Impulso Lector"),
+        ("estudios-nacionales", "Estudios Nacionales"), ("interna", "Evaluación interna"),
+    )
+    for slug, label in instrument_pdf_specs:
+        jobs.append(
+            PdfJob(
+                f"evaluacion-{slug}.pdf",
+                f"{label} - guía individual",
+                "Explicación, historia, rutas curriculares, muestras, claves, rúbricas y límites del instrumento.",
+                (DOCS / "evaluaciones" / f"{slug}.md",),
+            )
+        )
     jobs.append(
         PdfJob(
             "trayectoria-escolar-completa.pdf",
@@ -705,8 +717,8 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
             complete_sources(catalog_path),
         )
     )
-    if len(jobs) != 51:
-        raise RuntimeError(f"Se esperaban 51 exportaciones PDF y se definieron {len(jobs)}")
+    if len(jobs) != 64:
+        raise RuntimeError(f"Se esperaban 64 exportaciones PDF y se definieron {len(jobs)}")
     return jobs
 
 
@@ -719,13 +731,15 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
     subject_jobs = [job for job in jobs if job.filename.startswith("por-asignatura-")]
     level_jobs = [job for job in jobs if job.filename.startswith("por-nivel-")]
     evaluation_jobs = [
-        job for job in jobs if job.filename in {"evaluaciones-complementarias.pdf", "ensayos-ejemplo.pdf"}
+        job for job in jobs
+        if job.filename in {"evaluaciones-complementarias.pdf", "ensayos-ejemplo.pdf"}
+        or job.filename.startswith("evaluacion-")
     ]
     complete = next(job for job in jobs if job.filename == "trayectoria-escolar-completa.pdf")
     lines = [
         "# PDFs para descarga",
         "",
-        "Las **51 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.",
+        "Las **64 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen 13 archivos separados por instrumento, tabla de contenido, numeración, enlaces clicables a las fichas OA y avisos de estado editorial.",
         "",
         "Cada portada y sus metadatos muestran el corte documental tomado de la primera entrada fechada de `CHANGELOG.md`. La CI comprueba inventario, versión, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.",
         "",
@@ -742,7 +756,7 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
         [
             f"| Todo el programa y la documentación | [Descargar PDF completo]({relative_pdf_link(complete.filename)}) |",
             "",
-            "## Evaluaciones y ensayos",
+            "## Evaluaciones separadas por instrumento",
             "",
             "| Documento docente | Descarga |",
             "|---|---|",
@@ -771,7 +785,7 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
             "",
             "## Reproducibilidad y alcance",
             "",
-            "Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 51 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.",
+            "Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 64 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.",
             "",
             "Los PDF mantienen la separación de derechos descrita en [Licencias](../LICENSING.md): convertir a PDF no modifica la licencia ni la procedencia de cada componente.",
             "",
@@ -824,7 +838,7 @@ def validate_outputs(jobs: list[PdfJob]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--validate-only", action="store_true", help="Valida los 51 PDF existentes sin regenerarlos")
+    parser.add_argument("--validate-only", action="store_true", help="Valida los 64 PDF existentes sin regenerarlos")
     return parser.parse_args()
 
 

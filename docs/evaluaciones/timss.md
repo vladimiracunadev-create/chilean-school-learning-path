@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← PISA](./pisa.md) · [Índice de instrumentos](./README.md) · [PIRLS →](./pirls.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -89,10 +89,10 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [4° grado · Matemática](../ENSAYOS_EJEMPLO.md#4-grado-matem-tica) | Referencia aproximada: 4° básico | Conocer, aplicar y razonar | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [4° grado · Ciencias](../ENSAYOS_EJEMPLO.md#4-grado-ciencias) | Referencia aproximada: 4° básico | Ciencias | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [8° grado · Matemática](../ENSAYOS_EJEMPLO.md#8-grado-matem-tica) | Referencia aproximada: 8° básico | Conocer, aplicar y razonar | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [8° grado · Ciencias](../ENSAYOS_EJEMPLO.md#8-grado-ciencias) | Referencia aproximada: 8° básico | Ciencias | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [4° grado · Matemática](#muestra-4-grado-matem-tica) | Referencia aproximada: 4° básico | Conocer, aplicar y razonar | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [4° grado · Ciencias](#muestra-4-grado-ciencias) | Referencia aproximada: 4° básico | Ciencias | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [8° grado · Matemática](#muestra-8-grado-matem-tica) | Referencia aproximada: 8° básico | Conocer, aplicar y razonar | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [8° grado · Ciencias](#muestra-8-grado-ciencias) | Referencia aproximada: 8° básico | Ciencias | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -107,7 +107,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
-- **Muestra calculable:** [4° grado · Matemática](../ENSAYOS_EJEMPLO.md#4-grado-matem-tica).
+- **Muestra calculable:** [4° grado · Matemática](#muestra-4-grado-matem-tica).
 
 ### 4° grado · Ciencias
 
@@ -118,7 +118,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
-- **Muestra calculable:** [4° grado · Ciencias](../ENSAYOS_EJEMPLO.md#4-grado-ciencias).
+- **Muestra calculable:** [4° grado · Ciencias](#muestra-4-grado-ciencias).
 
 ### 8° grado · Matemática
 
@@ -129,7 +129,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
-- **Muestra calculable:** [8° grado · Matemática](../ENSAYOS_EJEMPLO.md#8-grado-matem-tica).
+- **Muestra calculable:** [8° grado · Matemática](#muestra-8-grado-matem-tica).
 
 ### 8° grado · Ciencias
 
@@ -140,7 +140,198 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
-- **Muestra calculable:** [8° grado · Ciencias](../ENSAYOS_EJEMPLO.md#8-grado-ciencias).
+- **Muestra calculable:** [8° grado · Ciencias](#muestra-8-grado-ciencias).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · 4° grado · Matemática
+
+**Población orientativa:** Referencia aproximada: 4° básico · **Dominio:** Conocer, aplicar y razonar.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a TIMSS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
+
+#### Situación
+
+Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápices.
+
+#### Preguntas cerradas
+
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
+
+#### Respuesta desarrollada
+
+3. Explica una forma distinta de comprobar que el resultado es correcto.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: C, 2: B.
+- 0: no presenta comprobación
+- 1: repite el cálculo sin explicar
+- 2: usa operación inversa, descomposición o representación y conecta la comprobación con 48 y 45
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
+- **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
+- **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
+
+### Muestra · 4° grado · Ciencias
+
+**Población orientativa:** Referencia aproximada: 4° básico · **Dominio:** Ciencias.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a TIMSS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
+
+#### Situación
+
+Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El grupo A recibió 50 ml de agua diarios; el B, 100 ml. Tras 14 días, la altura media fue 12 cm en A y 15 cm en B.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
+
+#### Respuesta desarrollada
+
+3. Propón una modificación que permita investigar si el efecto se mantiene con otra cantidad de agua.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no propone comparación
+- 1: propone otra cantidad sin controlar variables
+- 2: agrega un grupo comparable y mantiene constantes las demás condiciones
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
+- **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
+- **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
+
+### Muestra · 8° grado · Matemática
+
+**Población orientativa:** Referencia aproximada: 8° básico · **Dominio:** Conocer, aplicar y razonar.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a TIMSS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
+
+#### Situación
+
+Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrido. Un segundo servicio no cobra base y cobra $500 por kilómetro.
+
+#### Preguntas cerradas
+
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
+
+#### Respuesta desarrollada
+
+3. Compara ambos servicios para 10 km y justifica cuál conviene, mostrando tus cálculos.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: C.
+- 0: elige sin cálculo pertinente
+- 1: calcula al menos un costo correctamente
+- 2: calcula ambos costos, compara y justifica la decisión
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
+- **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
+- **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
+
+### Muestra · 8° grado · Ciencias
+
+**Población orientativa:** Referencia aproximada: 8° básico · **Dominio:** Ciencias.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a TIMSS; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
+
+#### Situación
+
+Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El grupo A recibió 50 ml de agua diarios; el B, 100 ml. Tras 14 días, la altura media fue 12 cm en A y 15 cm en B.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
+
+#### Respuesta desarrollada
+
+3. Propón una modificación que permita investigar si el efecto se mantiene con otra cantidad de agua.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no propone comparación
+- 1: propone otra cantidad sin controlar variables
+- 2: agrega un grupo comparable y mantiene constantes las demás condiciones
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
+- **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
+- **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
 
 
 ## Preguntas frecuentes

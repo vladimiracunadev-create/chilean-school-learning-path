@@ -16,12 +16,13 @@ class PdfExportTests(unittest.TestCase):
 
     def test_inventory_has_every_requested_group(self):
         filenames = {job.filename for job in self.jobs}
-        self.assertEqual(51, len(filenames))
+        self.assertEqual(64, len(filenames))
         self.assertIn("educacion-basica-completa.pdf", filenames)
         self.assertIn("ensenanza-media-completa.pdf", filenames)
         self.assertIn("trayectoria-escolar-completa.pdf", filenames)
         self.assertIn("evaluaciones-complementarias.pdf", filenames)
         self.assertIn("ensayos-ejemplo.pdf", filenames)
+        self.assertEqual(13, sum(name.startswith("evaluacion-") for name in filenames))
         self.assertEqual(34, sum(name.startswith("por-asignatura-") for name in filenames))
         self.assertEqual(12, sum(name.startswith("por-nivel-") for name in filenames))
 

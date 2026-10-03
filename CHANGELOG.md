@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-03 · Separación estricta por instrumento
+
+- `docs/EVALUACIONES_COMPLEMENTARIAS.md` y `docs/ENSAYOS_EJEMPLO.md` dejan de concatenar instrumentos y pasan a ser índices breves.
+- Cada uno de los trece Markdown individuales contiene ahora su propia explicación, historia, rutas, matriz, muestras, claves, rúbricas, cálculo y decisiones pedagógicas.
+- Las guías individuales ya no enlazan un banco Markdown común para encontrar sus muestras: toda la lectura permanece dentro del archivo del instrumento seleccionado.
+- Los PDF pasan de 51 a 64 para publicar un archivo independiente por instrumento, además de los índices y compilaciones curriculares existentes.
+- Se añade una prueba automática que impide volver a insertar secciones de instrumentos dentro de los dos Markdown generales.
+
 ## 2026-10-03 · Guías individuales, trayectoria PAES y cobertura honesta
 
 - Se retira de las superficies pedagógicas actuales el rótulo **Prompt Maestro**, porque describe una instrucción de trabajo con IA y no una categoría educativa; lo reemplaza un estado de implementación organizado por ocho capacidades, con evidencia y límites.

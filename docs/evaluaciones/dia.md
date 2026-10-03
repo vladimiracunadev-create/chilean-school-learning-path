@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← SIMCE](./simce.md) · [Índice de instrumentos](./README.md) · [PISA →](./pisa.md)
+[Índice de instrumentos](./README.md)
 
 
 ## En una mirada
@@ -89,9 +89,9 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Periodo de Diagnóstico](../ENSAYOS_EJEMPLO.md#periodo-de-diagn-stico) | 1° básico a IV medio según oferta | Punto de partida | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Monitoreo Intermedio](../ENSAYOS_EJEMPLO.md#monitoreo-intermedio) | 1° básico a IV medio según oferta | Progreso durante el año | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Evaluación de Cierre](../ENSAYOS_EJEMPLO.md#evaluaci-n-de-cierre) | 1° básico a IV medio según oferta | Progreso al cierre | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Periodo de Diagnóstico](#muestra-periodo-de-diagn-stico) | 1° básico a IV medio según oferta | Punto de partida | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Monitoreo Intermedio](#muestra-monitoreo-intermedio) | 1° básico a IV medio según oferta | Progreso durante el año | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Evaluación de Cierre](#muestra-evaluaci-n-de-cierre) | 1° básico a IV medio según oferta | Progreso al cierre | 2 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -106,7 +106,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
-- **Muestra calculable:** [Periodo de Diagnóstico](../ENSAYOS_EJEMPLO.md#periodo-de-diagn-stico).
+- **Muestra calculable:** [Periodo de Diagnóstico](#muestra-periodo-de-diagn-stico).
 
 ### Monitoreo Intermedio
 
@@ -117,7 +117,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
-- **Muestra calculable:** [Monitoreo Intermedio](../ENSAYOS_EJEMPLO.md#monitoreo-intermedio).
+- **Muestra calculable:** [Monitoreo Intermedio](#muestra-monitoreo-intermedio).
 
 ### Evaluación de Cierre
 
@@ -128,7 +128,151 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
-- **Muestra calculable:** [Evaluación de Cierre](../ENSAYOS_EJEMPLO.md#evaluaci-n-de-cierre).
+- **Muestra calculable:** [Evaluación de Cierre](#muestra-evaluaci-n-de-cierre).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Periodo de Diagnóstico
+
+**Población orientativa:** 1° básico a IV medio según oferta · **Dominio:** Punto de partida.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a DIA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
+
+#### Situación
+
+En dos tareas distintas, una estudiante identifica datos explícitos pero invierte causa y consecuencia. Tras una actividad con conectores causales, responde una nueva situación.
+
+#### Preguntas cerradas
+
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
+
+#### Respuesta desarrollada
+
+3. Describe qué evidencia permitiría confirmar o rechazar la hipótesis de inversión causal.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: etiqueta a la estudiante
+- 1: propone otra respuesta sin criterio
+- 2: propone varias situaciones nuevas, criterio observable y decisión según consistencia
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
+- **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
+- **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
+
+### Muestra · Monitoreo Intermedio
+
+**Población orientativa:** 1° básico a IV medio según oferta · **Dominio:** Progreso durante el año.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a DIA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
+
+#### Situación
+
+En dos tareas distintas, una estudiante identifica datos explícitos pero invierte causa y consecuencia. Tras una actividad con conectores causales, responde una nueva situación.
+
+#### Preguntas cerradas
+
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
+
+#### Respuesta desarrollada
+
+3. Describe qué evidencia permitiría confirmar o rechazar la hipótesis de inversión causal.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: etiqueta a la estudiante
+- 1: propone otra respuesta sin criterio
+- 2: propone varias situaciones nuevas, criterio observable y decisión según consistencia
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
+- **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
+- **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
+
+### Muestra · Evaluación de Cierre
+
+**Población orientativa:** 1° básico a IV medio según oferta · **Dominio:** Progreso al cierre.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a DIA; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
+
+#### Situación
+
+En dos tareas distintas, una estudiante identifica datos explícitos pero invierte causa y consecuencia. Tras una actividad con conectores causales, responde una nueva situación.
+
+#### Preguntas cerradas
+
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
+
+#### Respuesta desarrollada
+
+3. Describe qué evidencia permitiría confirmar o rechazar la hipótesis de inversión causal.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: etiqueta a la estudiante
+- 1: propone otra respuesta sin criterio
+- 2: propone varias situaciones nuevas, criterio observable y decisión según consistencia
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
+- **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
+- **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
 
 
 ## Preguntas frecuentes

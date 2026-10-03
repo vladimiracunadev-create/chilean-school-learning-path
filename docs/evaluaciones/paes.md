@@ -2,7 +2,7 @@
 
 > **Guía docente individual · corte documental 3 de octubre de 2026.** Esta síntesis no es un documento oficial del organismo responsable y no reproduce preguntas protegidas.
 
-[← Interna](./interna.md) · [Índice de instrumentos](./README.md) · [SIMCE →](./simce.md)
+[Índice de instrumentos](./README.md)
 
 
 > **PAES no comienza en 4° medio.** La prueba se aplica al final de la trayectoria, pero lectura, modelación, uso de evidencia y pensamiento crítico se construyen durante años. Las etapas enlazadas abajo son antecedentes pedagógicos inferidos. No significan que cada OA sea contenido directo del temario PAES vigente; para eso se consulta el temario oficial del proceso.
@@ -95,11 +95,11 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 
 | Versión o área | Población | Dominio | Referencias conectadas | Cobertura real de la muestra |
 |---|---|---|---:|---|
-| [Competencia Lectora](../ENSAYOS_EJEMPLO.md#competencia-lectora) | Trayectoria escolar hasta el egreso | Lectura | 5 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Competencia Matemática 1 (M1)](../ENSAYOS_EJEMPLO.md#competencia-matem-tica-1-m1) | Trayectoria escolar hasta el egreso | Matemática | 5 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Competencia Matemática 2 (M2)](../ENSAYOS_EJEMPLO.md#competencia-matem-tica-2-m2) | Trayectoria escolar hasta el egreso | Matemática avanzada | 6 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Ciencias](../ENSAYOS_EJEMPLO.md#ciencias) | Trayectoria escolar hasta el egreso | Ciencias | 6 referencias curriculares | Muestra breve; no cubre el instrumento completo |
-| [Historia y Ciencias Sociales](../ENSAYOS_EJEMPLO.md#historia-y-ciencias-sociales) | Trayectoria escolar hasta el egreso | Fuentes y pensamiento crítico | 6 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Competencia Lectora](#muestra-competencia-lectora) | Trayectoria escolar hasta el egreso | Lectura | 5 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Competencia Matemática 1 (M1)](#muestra-competencia-matem-tica-1-m1) | Trayectoria escolar hasta el egreso | Matemática | 5 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Competencia Matemática 2 (M2)](#muestra-competencia-matem-tica-2-m2) | Trayectoria escolar hasta el egreso | Matemática avanzada | 6 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Ciencias](#muestra-ciencias) | Trayectoria escolar hasta el egreso | Ciencias | 6 referencias curriculares | Muestra breve; no cubre el instrumento completo |
+| [Historia y Ciencias Sociales](#muestra-historia-y-ciencias-sociales) | Trayectoria escolar hasta el egreso | Fuentes y pensamiento crítico | 6 referencias curriculares | Muestra breve; no cubre el instrumento completo |
 
 > **Lectura honesta:** las muestras actuales no cubren todos los contenidos del instrumento. La tabla evita llamar “ensayo completo” a tres tareas. Una versión completa deberá incorporar la matriz oficial vigente y una tarea verificable por cada contenido.
 
@@ -117,7 +117,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
 - **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
-- **Muestra calculable:** [Competencia Lectora](../ENSAYOS_EJEMPLO.md#competencia-lectora).
+- **Muestra calculable:** [Competencia Lectora](#muestra-competencia-lectora).
 
 ### Competencia Matemática 1 (M1)
 
@@ -131,7 +131,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
-- **Muestra calculable:** [Competencia Matemática 1 (M1)](../ENSAYOS_EJEMPLO.md#competencia-matem-tica-1-m1).
+- **Muestra calculable:** [Competencia Matemática 1 (M1)](#muestra-competencia-matem-tica-1-m1).
 
 ### Competencia Matemática 2 (M2)
 
@@ -145,7 +145,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
-- **Muestra calculable:** [Competencia Matemática 2 (M2)](../ENSAYOS_EJEMPLO.md#competencia-matem-tica-2-m2).
+- **Muestra calculable:** [Competencia Matemática 2 (M2)](#muestra-competencia-matem-tica-2-m2).
 
 ### Ciencias
 
@@ -159,7 +159,7 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
-- **Muestra calculable:** [Ciencias](../ENSAYOS_EJEMPLO.md#ciencias).
+- **Muestra calculable:** [Ciencias](#muestra-ciencias).
 
 ### Historia y Ciencias Sociales
 
@@ -173,7 +173,245 @@ Volver a OA y clases existentes, recoger más de una evidencia, intervenir sobre
 - **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
 - **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
-- **Muestra calculable:** [Historia y Ciencias Sociales](../ENSAYOS_EJEMPLO.md#historia-y-ciencias-sociales).
+- **Muestra calculable:** [Historia y Ciencias Sociales](#muestra-historia-y-ciencias-sociales).
+
+
+## Muestras calculables de este instrumento
+
+### Muestra · Competencia Lectora
+
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Lectura.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PAES; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión.
+
+#### Situación
+
+El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mejorará el estudio autónomo y cita una encuesta respondida por 38 de los 760 estudiantes del liceo; 31 de esas respuestas apoyan la propuesta.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál es la afirmación principal?**
+
+- **A.** La encuesta fue obligatoria
+- **B.** La biblioteca debe ampliar su horario
+- **C.** Solo 38 estudiantes usan libros
+- **D.** El liceo tiene 31 estudiantes
+**2. ¿Cuál es la limitación más importante de la evidencia?**
+
+- **A.** La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
+- **B.** La encuesta usa números
+- **C.** La propuesta menciona una biblioteca
+- **D.** La mayoría de quienes respondieron está de acuerdo
+
+#### Respuesta desarrollada
+
+3. Indica una evidencia adicional que permitiría evaluar mejor la propuesta y justifica por qué.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: A.
+- 0: opinión sin evidencia adicional
+- 1: propone un dato pertinente sin justificar su utilidad
+- 2: propone un dato pertinente y explica cómo mejora la representatividad o contrasta la afirmación
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
+- **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
+- **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
+
+### Muestra · Competencia Matemática 1 (M1)
+
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Matemática.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PAES; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
+
+#### Situación
+
+Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrido. Un segundo servicio no cobra base y cobra $500 por kilómetro.
+
+#### Preguntas cerradas
+
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
+
+#### Respuesta desarrollada
+
+3. Compara ambos servicios para 10 km y justifica cuál conviene, mostrando tus cálculos.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: C.
+- 0: elige sin cálculo pertinente
+- 1: calcula al menos un costo correctamente
+- 2: calcula ambos costos, compara y justifica la decisión
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
+- **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
+- **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
+
+### Muestra · Competencia Matemática 2 (M2)
+
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Matemática avanzada.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PAES; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
+
+#### Situación
+
+Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrido. Un segundo servicio no cobra base y cobra $500 por kilómetro.
+
+#### Preguntas cerradas
+
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
+
+#### Respuesta desarrollada
+
+3. Compara ambos servicios para 10 km y justifica cuál conviene, mostrando tus cálculos.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: C.
+- 0: elige sin cálculo pertinente
+- 1: calcula al menos un costo correctamente
+- 2: calcula ambos costos, compara y justifica la decisión
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
+- **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
+- **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
+
+### Muestra · Ciencias
+
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Ciencias.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PAES; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
+
+#### Situación
+
+Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El grupo A recibió 50 ml de agua diarios; el B, 100 ml. Tras 14 días, la altura media fue 12 cm en A y 15 cm en B.
+
+#### Preguntas cerradas
+
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
+
+#### Respuesta desarrollada
+
+3. Propón una modificación que permita investigar si el efecto se mantiene con otra cantidad de agua.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: B, 2: B.
+- 0: no propone comparación
+- 1: propone otra cantidad sin controlar variables
+- 2: agrega un grupo comparable y mantiene constantes las demás condiciones
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
+- **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
+- **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
+
+### Muestra · Historia y Ciencias Sociales
+
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Fuentes y pensamiento crítico.
+
+> **Muestra breve original · cobertura parcial.** Pertenece únicamente a PAES; no es una pregunta oficial ni un ensayo completo.
+
+**Contenido y desempeño:** Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional.
+
+#### Situación
+
+La municipalidad propone transformar un estacionamiento en plaza. Un informe municipal estima 600 usuarios semanales. Una agrupación de comerciantes advierte pérdida de acceso, pero no presenta conteos. Vecinos solicitan conservar espacios para personas con movilidad reducida.
+
+#### Preguntas cerradas
+
+**1. ¿Qué fuente entrega un dato cuantitativo verificable?**
+
+- **A.** Informe municipal
+- **B.** Advertencia sin conteos
+- **C.** Solicitud vecinal
+- **D.** Ninguna
+**2. ¿Qué información falta para comparar impactos?**
+
+- **A.** El color futuro de la plaza
+- **B.** Conteos actuales de uso y accesibilidad
+- **C.** El nombre de la calle
+- **D.** La edad del alcalde
+
+#### Respuesta desarrollada
+
+3. Formula una recomendación provisional que considere al menos dos fuentes y declare una limitación.
+
+#### Clave, rúbrica y cálculo
+
+- **Clave de cerradas:** 1: A, 2: B.
+- 0: opinión sin fuentes
+- 1: usa una fuente o no declara limitación
+- 2: integra dos fuentes y explicita qué evidencia falta antes de decidir
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto; no se convierte a una escala oficial.
+
+#### Decisión pedagógica
+
+- **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
+- **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
+- **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
 
 
 ## Preguntas frecuentes
