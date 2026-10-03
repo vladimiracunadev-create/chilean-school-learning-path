@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "registry_version": "1.0.0",
+  "updated_at": "2026-10-02",
+  "alignment_types": {
+    "official": "Relación declarada de forma explícita por la institución responsable del marco.",
+    "pedagogical_inference": "Correspondencia razonada por el proyecto; no es una equivalencia oficial.",
+    "project_proposal": "Diseño propio para evaluación interna del proyecto."
+  },
+  "frameworks": [
+    {
+      "id": "paes-2027",
+      "name": "Prueba de Acceso a la Educación Superior",
+      "short_name": "PAES",
+      "institution": "DEMRE, Universidad de Chile",
+      "document": "Pruebas de Acceso a la Educación Superior y temarios del Proceso de Admisión 2027",
+      "year": 2026,
+      "version": "Admisión 2027",
+      "accessed_at": "2026-10-02",
+      "source_url": "https://portaldemre.demre.cl/paes/factores-seleccion/pruebas-acceso-paes",
+      "population": "Personas que postulan al sistema de acceso centralizado; PAES Regular también puede rendirse durante 4° medio.",
+      "scope": "Competencia Lectora, Competencia Matemática M1/M2 y pruebas electivas. PAES es una evaluación de acceso, no el currículo escolar.",
+      "official_dimensions": ["resolver problemas", "modelar", "representar", "argumentar", "localizar información", "interpretar", "evaluar"],
+      "limitations": ["Los temarios cambian por proceso de admisión.", "Una tarea original del proyecto no es una pregunta oficial DEMRE.", "El vínculo con OA previos es trazabilidad pedagógica, no una tabla oficial de equivalencias."],
+      "competency_links": [
+        {"skill_id": "reading.retrieve", "alignment_type": "pedagogical_inference", "basis": "La dimensión oficial de lectura incluye localizar información."},
+        {"skill_id": "reading.interpretation", "alignment_type": "pedagogical_inference", "basis": "La dimensión oficial de lectura incluye interpretar."},
+        {"skill_id": "reading.evaluate-evidence", "alignment_type": "pedagogical_inference", "basis": "Evaluar textos requiere examinar información y relaciones."},
+        {"skill_id": "mathematics.novel-problems", "alignment_type": "pedagogical_inference", "basis": "M1 declara resolver problemas en diversos contextos."},
+        {"skill_id": "mathematics.model", "alignment_type": "pedagogical_inference", "basis": "Modelar es una habilidad publicada por DEMRE."},
+        {"skill_id": "mathematics.argue", "alignment_type": "pedagogical_inference", "basis": "Argumentar es una habilidad publicada por DEMRE."}
+      ]
+    },
+    {
+      "id": "simce-2026",
+      "name": "Sistema de Medición de la Calidad de la Educación",
+      "short_name": "SIMCE",
+      "institution": "Agencia de Calidad de la Educación, Chile",
+      "document": "Características generales de la evaluación Simce 2026",
+      "year": 2026,
+      "version": "Aplicación 2026",
+      "accessed_at": "2026-10-02",
+      "source_url": "https://www.agenciaeducacion.cl/evaluar/simce/",
+      "population": "En 2026, 4° y 6° básico y II medio en Lectura y Matemática, según el calendario publicado.",
+      "scope": "Medición estandarizada del logro de contenidos y habilidades del Currículum Nacional, acompañada de cuestionarios de contexto.",
+      "official_dimensions": ["Lectura", "Matemática", "contenidos y habilidades del Currículum Nacional", "cuestionarios de contexto"],
+      "limitations": ["Los resultados de sistema o establecimiento no diagnostican por sí solos a un estudiante.", "Los niveles y áreas dependen del plan de evaluaciones vigente.", "Los ítems originales del proyecto no son material oficial Simce."],
+      "competency_links": [
+        {"skill_id": "reading.explicit-information", "alignment_type": "pedagogical_inference", "basis": "Correspondencia con habilidades lectoras presentes en OA de los niveles evaluados."},
+        {"skill_id": "reading.inference", "alignment_type": "pedagogical_inference", "basis": "Correspondencia con comprensión inferencial presente en el currículo."},
+        {"skill_id": "mathematics.understand-problem", "alignment_type": "pedagogical_inference", "basis": "Correspondencia con resolución de problemas del currículo."},
+        {"skill_id": "data-literacy.charts", "alignment_type": "pedagogical_inference", "basis": "Correspondencia con OA de datos y probabilidad."}
+      ]
+    },
+    {
+      "id": "pisa-2025",
+      "name": "Programme for International Student Assessment",
+      "short_name": "PISA",
+      "institution": "OECD",
+      "document": "PISA 2025 Assessment and Analytical Framework",
+      "year": 2026,
+      "version": "PISA 2025",
+      "accessed_at": "2026-10-02",
+      "source_url": "https://www.oecd.org/en/publications/pisa-2025-assessment-and-analytical-framework_86c36975-en.html",
+      "population": "Estudiantes de 15 años de los países y economías participantes.",
+      "scope": "Aplicación de conocimientos y habilidades en ciencias, lectura, matemática y aprendizaje en el mundo digital ante problemas y contextos de la vida real.",
+      "official_dimensions": ["science", "reading", "mathematics", "learning in the digital world", "personal, local/national and global contexts"],
+      "limitations": ["PISA no prescribe un currículo nacional.", "La correspondencia con OA chilenos es inferida.", "No se copian unidades ni preguntas protegidas; el proyecto crea estímulos originales."],
+      "competency_links": [
+        {"skill_id": "reading.multiple-sources", "alignment_type": "pedagogical_inference", "basis": "PISA usa textos de fuente única y múltiple y exige localizar, comprender, evaluar y reflexionar."},
+        {"skill_id": "mathematics.model", "alignment_type": "pedagogical_inference", "basis": "PISA define formular, emplear e interpretar matemática en contextos reales."},
+        {"skill_id": "science.evaluate-conclusions", "alignment_type": "pedagogical_inference", "basis": "El marco 2025 incluye interpretar críticamente datos y evidencia."},
+        {"skill_id": "digital-information.responsible-ai", "alignment_type": "pedagogical_inference", "basis": "El dominio Learning in the Digital World aborda aprendizaje autorregulado y herramientas digitales; esta habilidad es una extensión prudente del proyecto."}
+      ]
+    },
+    {
+      "id": "timss-2027",
+      "name": "Trends in International Mathematics and Science Study",
+      "short_name": "TIMSS",
+      "institution": "IEA y TIMSS & PIRLS International Study Center, Boston College",
+      "document": "TIMSS 2027 Assessment Frameworks",
+      "year": 2025,
+      "version": "TIMSS 2027",
+      "accessed_at": "2026-10-02",
+      "source_url": "https://timss2027.org/frameworks/",
+      "population": "Estudiantes de 4° y 8° grado en matemática y ciencias.",
+      "scope": "Dominios de contenido y dominios cognitivos de conocer, aplicar y razonar, además de cuestionarios de contexto.",
+      "official_dimensions": ["mathematics content", "science content", "knowing", "applying", "reasoning"],
+      "limitations": ["4° y 8° grado no se convierten automáticamente en equivalencias administrativas chilenas.", "TIMSS y PISA tienen propósitos, poblaciones y diseños distintos.", "Las correspondencias con OA son pedagógicas e inferidas."],
+      "competency_links": [
+        {"skill_id": "mathematics.apply-procedures", "alignment_type": "pedagogical_inference", "basis": "Relacionado con el dominio cognitivo applying."},
+        {"skill_id": "mathematics.argue", "alignment_type": "pedagogical_inference", "basis": "Relacionado con el dominio cognitivo reasoning."},
+        {"skill_id": "science.interpret-data", "alignment_type": "pedagogical_inference", "basis": "Relacionado con tareas científicas de aplicación y razonamiento."},
+        {"skill_id": "science.design-investigations", "alignment_type": "pedagogical_inference", "basis": "Relacionado con resolución de problemas e indagación científica."}
+      ]
+    },
+    {
+      "id": "pirls-2026",
+      "name": "Progress in International Reading Literacy Study",
+      "short_name": "PIRLS",
+      "institution": "IEA y TIMSS & PIRLS International Study Center, Boston College",
+      "document": "PIRLS 2026 Assessment Frameworks",
+      "year": 2024,
+      "version": "PIRLS 2026",
+      "accessed_at": "2026-10-02",
+      "source_url": "https://www.iea.nl/publications/assessment-framework/pirls-2026-assessment-frameworks",
+      "population": "Estudiantes alrededor del cuarto año de escolaridad formal.",
+      "scope": "Comprensión lectora y factores de contexto asociados al desarrollo de la lectura.",
+      "official_dimensions": ["reading achievement", "literary experience", "acquire and use information", "processes of comprehension", "context questionnaires"],
+      "limitations": ["PIRLS no equivale a un curso de comprensión lectora.", "Su población y propósito difieren de PAES y PISA.", "Las relaciones con OA chilenos son inferidas y no oficiales."],
+      "competency_links": [
+        {"skill_id": "reading.retrieve", "alignment_type": "pedagogical_inference", "basis": "Proceso lector pertinente a la recuperación directa de información."},
+        {"skill_id": "reading.inference", "alignment_type": "pedagogical_inference", "basis": "Proceso lector pertinente a inferencias directas."},
+        {"skill_id": "reading.integration", "alignment_type": "pedagogical_inference", "basis": "Proceso lector pertinente a interpretar e integrar ideas."},
+        {"skill_id": "reading.evaluate-evidence", "alignment_type": "pedagogical_inference", "basis": "Proceso lector pertinente a examinar y evaluar contenido y elementos textuales."}
+      ]
+    },
+    {
+      "id": "internal-formative-v1",
+      "name": "Evaluación formativa interna del proyecto",
+      "short_name": "Interna",
+      "institution": "chilean-school-learning-path",
+      "document": "Evaluación formativa, rúbrica y ciclo de evidencia del proyecto",
+      "year": 2026,
+      "version": "1.0.0",
+      "accessed_at": "2026-10-02",
+      "source_url": "https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/EVALUACION_FORMATIVA.md",
+      "population": "Estudiantes de 1° básico a 4° medio en actividades formativas del proyecto.",
+      "scope": "Observación de desempeño, retroalimentación, intervención y reevaluación sin convertir automáticamente la evidencia en nota.",
+      "official_dimensions": [],
+      "limitations": ["Es una propuesta propia, no una medición estandarizada.", "No certifica dominio ni validez psicométrica.", "La decisión final corresponde al juicio profesional informado."],
+      "competency_links": [
+        {"skill_id": "critical-thinking.justify-conclusions", "alignment_type": "project_proposal", "basis": "Criterio transversal observable del proyecto."},
+        {"skill_id": "writing-communication.results", "alignment_type": "project_proposal", "basis": "La evidencia debe poder comunicarse y revisarse."}
+      ]
+    }
+  ]
+}

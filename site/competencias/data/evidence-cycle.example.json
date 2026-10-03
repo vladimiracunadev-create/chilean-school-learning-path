@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "cycle_id": "cycle.reading-inference.01",
+  "learner_ref": "SYNTH-READ-001",
+  "privacy": "no_personal_data",
+  "skill_id": "reading.causal-inference",
+  "records": [
+    {"id": "ev-001", "type": "observation", "occurred_at": "2026-09-01T10:00:00-04:00", "session_id": "s1", "context": "relato escolar", "item_id": "local-story-01", "item_type": "short_response", "result": "developing", "error_pattern_id": "error.causal-reversal", "note": "Identificó ambos hechos, pero invirtió causa y consecuencia."},
+    {"id": "ev-002", "type": "observation", "occurred_at": "2026-09-03T10:00:00-04:00", "session_id": "s2", "context": "noticia breve", "item_id": "local-news-02", "item_type": "short_response", "result": "developing", "error_pattern_id": "error.causal-reversal", "note": "Repitió la inversión causal en un texto diferente."},
+    {"id": "ev-003", "type": "hypothesis", "occurred_at": "2026-09-03T10:20:00-04:00", "session_id": "s2", "context": "revisión docente", "evidence_refs": ["ev-001", "ev-002"], "decision": "supported", "responsible_role": "docente", "note": "Hipótesis: necesita representar explícitamente la dirección causa → consecuencia."},
+    {"id": "ev-004", "type": "intervention", "occurred_at": "2026-09-05T10:00:00-04:00", "session_id": "s3", "context": "grupo breve", "evidence_refs": ["ev-001", "ev-002", "ev-003"], "intervention_oa_codes": ["LE04 OA 04"], "responsible_role": "docente", "note": "Usó un diagrama causal y exigió señalar la pista antes de concluir."},
+    {"id": "ev-005", "type": "practice", "occurred_at": "2026-09-05T10:20:00-04:00", "session_id": "s3", "context": "historieta", "item_id": "local-comic-03", "item_type": "explanation", "result": "achieved", "error_pattern_id": null, "note": "Representó correctamente una relación causal con apoyo visual."},
+    {"id": "ev-006", "type": "reassessment", "occurred_at": "2026-09-10T09:40:00-04:00", "session_id": "s4", "context": "texto informativo", "item_id": "local-info-04", "item_type": "short_response", "result": "achieved", "error_pattern_id": null, "note": "Explicó causa y efecto y citó una pista sin usar el diagrama."},
+    {"id": "ev-007", "type": "reassessment", "occurred_at": "2026-09-15T11:00:00-04:00", "session_id": "s5", "context": "gráfico con nota explicativa", "item_id": "local-chart-05", "item_type": "chart_interpretation", "result": "achieved", "error_pattern_id": null, "note": "Transfirió la relación causal a un formato multimodal y declaró una limitación."},
+    {"id": "ev-008", "type": "mastery_decision", "occurred_at": "2026-09-15T11:20:00-04:00", "session_id": "s5", "context": "revisión docente", "evidence_refs": ["ev-005", "ev-006", "ev-007"], "decision": "supported", "responsible_role": "docente", "note": "Dominio descriptivo documentado en tres tareas, dos situaciones nuevas y más de un formato; continuar monitoreando."}
+  ]
+}

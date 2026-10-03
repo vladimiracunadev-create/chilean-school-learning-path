@@ -42,7 +42,15 @@ La diferenciación no se acredita insertando el código del OA en frases repetid
 
 Para 1° básico, la redacción prioriza experiencias concretas, consignas claras, participación amplia y transición gradual hacia representaciones gráficas o simbólicas.
 
-## 4. Estados editoriales
+## 4. Capa longitudinal de competencias
+
+La taxonomía de `competencies/taxonomy.v1.json` agrega una vista muchos-a-muchos sin modificar los OA. Las progresiones enlazan habilidad, prerrequisito, indicador observable, nivel, OA, error e intervención; una misma habilidad puede aparecer en lectura, matemática, ciencias, datos o escritura sin duplicarse.
+
+El ciclo de evidencia mantiene estados distintos: observación, patrón, hipótesis, diagnóstico pedagógico documentado, intervención, práctica y reevaluación. Una respuesta aislada permanece como observación. El motor determinista de `scripts/competency_evidence.py` solo resume evidencia explícita y nunca produce porcentajes, IRT ni etiquetas personales.
+
+Los marcos PAES, SIMCE, PISA, TIMSS y PIRLS viven en un archivo desacoplado. Eliminarlos no cambia el currículo ni la taxonomía; sus relaciones se rotulan como alineamiento oficial, correspondencia pedagógica inferida o propuesta propia.
+
+## 5. Estados editoriales
 
 | Estado | Significado |
 |---|---|
@@ -57,7 +65,7 @@ Estos estados no son equivalentes. En particular, una página publicada puede se
 
 En 4° básico, cada asignatura conserva un protocolo disciplinar propio: representación y comprobación matemática; lectura, escritura y oralidad con evidencia; indagación científica; análisis de fuentes históricas; creación artística y musical; desempeño motriz seguro; casos protegidos en Orientación; diseño tecnológico; comunicación en inglés y pertinencia comunitaria en lengua y cultura originaria.
 
-## 5. Generación reproducible
+## 6. Generación reproducible
 
 `scripts/generate_school_program.py` produce:
 
@@ -68,9 +76,11 @@ En 4° básico, cada asignatura conserva un protocolo disciplinar propio: repres
 - la documentación generada de los doce niveles completos desde 1° básico hasta 4° medio, con 149 guías de asignatura;
 - la malla y el sitemap.
 
+`scripts/generate_competency_portal.py` publica las trayectorias, vistas de evidencia, marcos e ítems y copia sus datos versionados al sitio. Ambos generadores se ejecutan en CI y el repositorio debe quedar sin diferencias.
+
 La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.
 
-## 6. Validación y límites
+## 7. Validación y límites
 
 Los validadores comprueban conteos, identificadores, campos, anclas, páginas, estados editoriales y licencias. Los tests no certifican exactitud disciplinar, pertinencia local ni accesibilidad real con estudiantes.
 

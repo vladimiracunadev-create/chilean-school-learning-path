@@ -2,7 +2,7 @@
 
 El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen el estado actual; el [changelog](CHANGELOG.md) conserva la historia.
 
-## Estado actual · 1 de octubre de 2026
+## Estado actual · 2 de octubre de 2026
 
 | Nivel | OA | Clases | Estado |
 |---|---:|---:|---|
@@ -20,6 +20,16 @@ El desarrollo avanza **nivel por nivel**. Los conteos de esta página describen 
 | 4° medio FG | 91 | 466 | Completo: 466 desarrolladas · 17 denominaciones · 0 pendientes |
 
 Total actual: **12.997 propuestas**, **2.823 OA**, **8.841 clases desarrolladas**, **4.156 experiencias integradas**, **0 propuestas pendientes desde 1° básico hasta 4° medio** y **0 clases con revisión humana registrada**.
+
+## Capa longitudinal transversal
+
+- [x] Auditar competencias, diagnóstico, banco de ítems, marcos externos, progresión, error y adaptación antes de implementar.
+- [x] Publicar taxonomía versionada, progresiones y grafo liviano enlazado a OA y clases existentes.
+- [x] Incorporar banco extensible de tareas originales, distractores interpretables y rúbricas descriptivas.
+- [x] Separar observación, patrón, hipótesis, diagnóstico pedagógico, intervención, práctica y reevaluación.
+- [x] Representar PAES, SIMCE, PISA, TIMSS y PIRLS como vistas desacopladas con fuentes y límites.
+- [x] Publicar vistas de estudiante, docente y trayectoria sin porcentajes ficticios.
+- [ ] Someter taxonomía, ítems y correspondencias a revisión experta y pilotaje; ningún artefacto se declara psicométricamente validado.
 
 ## Orden de trabajo
 

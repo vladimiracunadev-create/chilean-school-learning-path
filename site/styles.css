@@ -36,3 +36,27 @@ main{width:min(1240px,calc(100% - 40px));margin:auto}.level-feature{display:grid
 .quality-tables table{width:100%;border-collapse:collapse;min-width:620px}
 .quality-tables th,.quality-tables td{padding:.7rem;text-align:left;vertical-align:top;border:1px solid var(--line);font-size:.8rem}
 .quality-tables th{background:var(--navy);color:#fff}
+/* Sistema longitudinal de competencias */
+.competency-hero h1{max-width:9ch;font-size:clamp(3.5rem,9vw,7.4rem)}
+.trajectory-block{margin:5rem 0;padding-top:2rem;border-top:1px solid var(--line)}
+.trajectory-block>header{display:grid;grid-template-columns:.8fr 1.2fr;gap:3rem;align-items:end;margin-bottom:1.5rem}
+.trajectory-block>header h2{margin:0;font-size:clamp(2rem,5vw,4rem);line-height:1}
+.trajectory-block>header>p{margin:0;color:var(--muted)}
+.trajectory-list{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
+.competency-stage{display:grid;grid-template-columns:3rem 1fr;gap:1rem;min-height:260px;padding:1.35rem;background:var(--surface)}
+.competency-stage h3{margin:0 0 .8rem;font-size:1.2rem;line-height:1.2}
+.competency-stage ul{padding-left:1.1rem;color:var(--muted);font-size:.82rem}
+.stage-number{color:var(--coral);font:800 .78rem ui-monospace,monospace}
+.stage-links{font-size:.76rem}.stage-links a{color:var(--teal);font-weight:800}
+.framework-card details{margin:1rem 0;font-size:.78rem;color:var(--muted)}
+.framework-card summary{cursor:pointer;color:var(--ink);font-weight:800}
+.student-profile{display:grid;grid-template-columns:.65fr 1fr 1fr;gap:1px;background:var(--line);border:1px solid var(--line)}
+.student-profile>div{padding:1.5rem;background:var(--surface)}
+.student-profile span,.student-profile small{display:block;color:var(--muted);font-size:.75rem}
+.student-profile strong{display:block;margin:.5rem 0;font-size:1.7rem;color:var(--teal)}
+.student-profile h3{margin-top:0}.student-profile p,.student-profile li{font-size:.84rem}
+.competency-table{width:100%;min-width:820px;border-collapse:collapse;background:var(--surface)}
+.competency-table th,.competency-table td{padding:.9rem;text-align:left;vertical-align:top;border:1px solid var(--line);font-size:.82rem}
+.competency-table thead th{background:var(--navy);color:#fff}.competency-table tbody th{color:var(--teal)}
+@media(max-width:900px){.trajectory-list{grid-template-columns:repeat(2,1fr)}.student-profile{grid-template-columns:1fr 1fr}.student-profile>div:first-child{grid-column:1/-1}}
+@media(max-width:620px){.trajectory-block>header,.trajectory-list,.student-profile{grid-template-columns:1fr}.student-profile>div:first-child{grid-column:auto}.competency-stage{min-height:auto}}

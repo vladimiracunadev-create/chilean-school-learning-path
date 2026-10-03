@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-02 · Competencias, evidencia y evaluación longitudinal
+
+- Se agrega una taxonomía transversal versionada y seis progresiones demostrativas desde 1° básico hasta 4° medio, enlazadas a OA y clases existentes sin modificar el currículo.
+- Se incorporan un banco inicial de tareas originales, esquemas JSON, patrones de error, intervenciones y un ciclo determinista de observación, hipótesis, práctica, reevaluación y transferencia.
+- PAES, SIMCE, PISA, TIMSS, PIRLS y evaluaciones internas se modelan como marcos desacoplados con fuente, versión, alcance, limitaciones y correspondencias pedagógicas explícitamente inferidas.
+- Se publica una vista web para estudiantes y docentes, con evidencia sintética trazable y sin porcentajes de dominio ficticios.
+- CI, Pages y controles de seguridad se separan en workflows con permisos mínimos, acciones fijadas por SHA, matrices de Python y verificación de reproducibilidad.
+
 ## 2026-10-01 · Apps de apoyo del aprendizaje en 5° básico
 
 - Se analizan Pañuelo al Viento, Mi Aventura con el Violín y Mi Aventura con la Guitarra antes de integrarlas como recursos opcionales para niñas y niños alrededor de los 10 años.

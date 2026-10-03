@@ -1,6 +1,6 @@
 # Estado editorial
 
-Fecha de corte: **2026-10-01**. Los conteos provienen de `curriculum/catalog.json` y se verifican en CI.
+Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.json` y se verifican en CI.
 
 | Estado | Clases | Significado |
 |---|---:|---|
@@ -13,6 +13,8 @@ Fecha de corte: **2026-10-01**. Los conteos provienen de `curriculum/catalog.jso
 | Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
+
+La capa longitudinal de competencias publicada el 2 de octubre enlaza estos OA y clases sin cambiar sus conteos ni estados. Su taxonomía, progresiones, ítems y correspondencias con marcos externos son elaboración del proyecto y permanecen pendientes de revisión experta y pilotaje.
 
 ## Reconstrucción de 1° básico
 

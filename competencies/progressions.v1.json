@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "progression_version": "1.0.0",
+  "status": "project_proposal",
+  "updated_at": "2026-10-02",
+  "alignment_notice": "Todos los enlaces entre esta progresión transversal y los OA son correspondencias pedagógicas inferidas por el proyecto. El texto y la secuencia oficial de los OA no se modifican.",
+  "progressions": [
+    {
+      "id": "progression.reading-inference-evidence",
+      "name": "De información explícita a evaluación de evidencia",
+      "primary_skill_ids": ["reading.explicit-information", "reading.inference", "reading.integration", "reading.evaluate-evidence", "reading.multiple-sources"],
+      "stages": [
+        {"id": "read-1", "level_range": [1, 2], "descriptor": "Recupera información explícita y formula inferencias simples apoyadas en el texto o las ilustraciones.", "observable_indicators": ["ubica una pista identificable", "distingue lo dicho de lo inferido"], "oa_codes": ["LE01 OA 08", "LE02 OA 05"]},
+        {"id": "read-2", "level_range": [3, 4], "descriptor": "Relaciona acciones, motivos y consecuencias para explicar una inferencia causal o temporal.", "observable_indicators": ["cita dos partes del relato", "explica la relación entre hecho y consecuencia"], "oa_codes": ["LE03 OA 04", "LE04 OA 04"]},
+        {"id": "read-3", "level_range": [5, 6], "descriptor": "Integra texto, imágenes, gráficos y conocimientos pertinentes para interpretar y sintetizar.", "observable_indicators": ["relaciona información verbal y visual", "descarta una inferencia sin respaldo"], "oa_codes": ["LE05 OA 06", "LE06 OA 06"]},
+        {"id": "read-4", "level_range": [7, 8], "descriptor": "Evalúa posturas, argumentos y suficiencia de información, distinguiendo hechos de opiniones.", "observable_indicators": ["identifica postura y evidencia", "evalúa si la información sostiene la afirmación"], "oa_codes": ["LE08 OA 09", "LE08 OA 10"]},
+        {"id": "read-5", "level_range": [9, 10], "descriptor": "Compara fuentes y evalúa razonamiento, recursos persuasivos, veracidad y consistencia.", "observable_indicators": ["contrasta dos fuentes", "explicita un límite o contradicción"], "oa_codes": ["LE1M OA 10", "LE2M OA 24"]},
+        {"id": "read-6", "level_range": [11, 12], "descriptor": "Integra múltiples fuentes y evalúa críticamente veracidad, contexto, perspectiva y evidencia.", "observable_indicators": ["triangula afirmaciones", "fundamenta una interpretación con evidencia y límites"], "oa_codes": ["FG-LELI-3M-OAC-03", "FG-LELI-4M-OAC-03"]}
+      ]
+    },
+    {
+      "id": "progression.mathematical-problem-solving",
+      "name": "De representar un problema a modelar y decidir bajo incertidumbre",
+      "primary_skill_ids": ["mathematics.understand-problem", "mathematics.represent", "mathematics.select-strategies", "mathematics.model", "mathematics.verify", "mathematics.novel-problems"],
+      "stages": [
+        {"id": "math-1", "level_range": [1, 2], "descriptor": "Representa una situación con material, dibujos, palabras o símbolos y explica qué se busca.", "observable_indicators": ["reformula el problema", "conserva las cantidades al representar"], "oa_codes": ["de Habilidad MA01 OAH a", "MA02 OA 09"]},
+        {"id": "math-2", "level_range": [3, 4], "descriptor": "Selecciona una estrategia, registra el procedimiento y comprueba el resultado con otra representación.", "observable_indicators": ["justifica la estrategia", "detecta una solución incompatible con el contexto"], "oa_codes": ["MA04 OA 27"]},
+        {"id": "math-3", "level_range": [5, 6], "descriptor": "Compara estrategias y comunica por qué un procedimiento o modelo funciona.", "observable_indicators": ["compara eficiencia y claridad", "verifica con estimación o caso alternativo"], "oa_codes": ["MA06 OA 24"]},
+        {"id": "math-4", "level_range": [7, 8], "descriptor": "Modela relaciones y resuelve problemas nuevos interpretando datos, restricciones y resultados.", "observable_indicators": ["declara supuestos", "interpreta el resultado en el contexto"], "oa_codes": ["MA08 OA 16"]},
+        {"id": "math-5", "level_range": [9, 10], "descriptor": "Evalúa procesos, modelos y representaciones, incluidos gráficos y tablas.", "observable_indicators": ["comprueba una solución", "identifica cuándo un modelo no se ajusta"], "oa_codes": ["de Habilidad MA2M OAH n"]},
+        {"id": "math-6", "level_range": [11, 12], "descriptor": "Fundamenta decisiones bajo incertidumbre con datos, modelos y límites explícitos.", "observable_indicators": ["compara escenarios", "comunica incertidumbre sin convertirla en certeza"], "oa_codes": ["FG-MATE-4M-OAC-02"]}
+      ]
+    },
+    {
+      "id": "progression.scientific-evidence",
+      "name": "De observar a argumentar científicamente",
+      "primary_skill_ids": ["science.observe", "science.ask-questions", "science.design-investigations", "science.interpret-data", "science.use-evidence", "science.evaluate-conclusions"],
+      "stages": [
+        {"id": "science-1", "level_range": [1, 2], "descriptor": "Observa, describe y formula predicciones guiadas distinguiendo lo observado de lo imaginado.", "observable_indicators": ["registra una observación", "formula una predicción comprobable"], "oa_codes": ["de Habilidad CN02 OAH a"]},
+        {"id": "science-2", "level_range": [3, 4], "descriptor": "Plantea preguntas y participa en investigaciones simples con registros ordenados.", "observable_indicators": ["formula una pregunta investigable", "mantiene condiciones acordadas"], "oa_codes": ["de Habilidad CN04 OAH a"]},
+        {"id": "science-3", "level_range": [5, 6], "descriptor": "Identifica variables, mide y usa datos para explicar un patrón o resultado.", "observable_indicators": ["distingue variable y resultado", "usa datos del registro"], "oa_codes": ["de Habilidad CN06 OAH b"]},
+        {"id": "science-4", "level_range": [7, 8], "descriptor": "Interpreta evidencia, contrasta explicaciones y reconoce límites de una investigación.", "observable_indicators": ["relaciona dato y explicación", "no generaliza más allá del diseño"], "oa_codes": ["CN08 OA 09"]},
+        {"id": "science-5", "level_range": [9, 10], "descriptor": "Evalúa modelos y conclusiones, diferenciando asociación, mecanismo y causalidad.", "observable_indicators": ["identifica evidencia faltante", "propone una comprobación adicional"], "oa_codes": ["CN2M OA 02"]},
+        {"id": "science-6", "level_range": [11, 12], "descriptor": "Argumenta decisiones con evidencia científica, calidad de fuentes, incertidumbre y consecuencias.", "observable_indicators": ["compara calidad y alcance de fuentes", "comunica un límite de la conclusión"], "oa_codes": ["FG-CIBS-3y4-OAC-03"]}
+      ]
+    },
+    {
+      "id": "progression.data-literacy",
+      "name": "De registrar datos a detectar representaciones engañosas",
+      "primary_skill_ids": ["data-literacy.tables", "data-literacy.charts", "data-literacy.scales", "data-literacy.statistics", "data-literacy.uncertainty", "data-literacy.misleading-representations"],
+      "stages": [
+        {"id": "data-1", "level_range": [1, 2], "descriptor": "Recolecta y registra datos simples en tablas de conteo y pictogramas.", "observable_indicators": ["cada marca representa un caso", "responde una pregunta usando el registro"], "oa_codes": ["MA01 OA 19"]},
+        {"id": "data-2", "level_range": [3, 4], "descriptor": "Lee y construye tablas y gráficos respetando categorías, escalas y títulos.", "observable_indicators": ["ubica categoría y frecuencia", "comprueba que la escala sea consistente"], "oa_codes": ["MA04 OA 27"]},
+        {"id": "data-3", "level_range": [5, 6], "descriptor": "Compara representaciones y describe tendencias sin atribuir causas no observadas.", "observable_indicators": ["describe el patrón", "separa tendencia de explicación causal"], "oa_codes": ["MA06 OA 24"]},
+        {"id": "data-4", "level_range": [7, 8], "descriptor": "Interpreta estadísticas y probabilidades en problemas y detecta efectos de escala o selección.", "observable_indicators": ["identifica una escala truncada", "explica cómo cambia la impresión visual"], "oa_codes": ["MA08 OA 16"]},
+        {"id": "data-5", "level_range": [9, 10], "descriptor": "Organiza, analiza e infiere a partir de tablas y gráficos declarando supuestos.", "observable_indicators": ["contrasta dos representaciones", "declara una inferencia y su respaldo"], "oa_codes": ["de Habilidad MA2M OAH n"]},
+        {"id": "data-6", "level_range": [11, 12], "descriptor": "Fundamenta decisiones con modelos estadísticos, probabilidad e incertidumbre comunicada responsablemente.", "observable_indicators": ["compara riesgo absoluto y relativo", "evita certeza falsa"], "oa_codes": ["FG-MATE-4M-OAC-02"]}
+      ]
+    },
+    {
+      "id": "progression.writing-argumentation",
+      "name": "De comunicar una idea a argumentar con evidencia",
+      "primary_skill_ids": ["writing-communication.planning", "writing-communication.organization", "writing-communication.coherence", "writing-communication.argumentation", "writing-communication.synthesis", "writing-communication.results"],
+      "stages": [
+        {"id": "write-1", "level_range": [1, 2], "descriptor": "Escribe mensajes y textos breves comprensibles para un propósito concreto.", "observable_indicators": ["la idea central se reconoce", "el mensaje corresponde al propósito"], "oa_codes": ["LE01 OA 14"]},
+        {"id": "write-2", "level_range": [3, 4], "descriptor": "Planifica, organiza, revisa y edita para comunicar con claridad a un destinatario.", "observable_indicators": ["organiza antes de escribir", "realiza una revisión sustantiva"], "oa_codes": ["LE04 OA 17"]},
+        {"id": "write-3", "level_range": [5, 6], "descriptor": "Desarrolla ideas con información, ejemplos, conectores y vocabulario preciso.", "observable_indicators": ["cada párrafo desarrolla una idea", "integra fuente o ejemplo pertinente"], "oa_codes": ["LE06 OA 18"]},
+        {"id": "write-4", "level_range": [7, 8], "descriptor": "Formula una afirmación y la sostiene con evidencia pertinente manteniendo coherencia.", "observable_indicators": ["distingue afirmación y evidencia", "explica cómo la evidencia apoya la postura"], "oa_codes": ["LE08 OA 15"]},
+        {"id": "write-5", "level_range": [9, 10], "descriptor": "Construye argumentos, integra contraargumentos y adapta registro, estructura y evidencia.", "observable_indicators": ["representa una objeción con fidelidad", "responde con razones y evidencia"], "oa_codes": ["LE2M OA 14"]},
+        {"id": "write-6", "level_range": [11, 12], "descriptor": "Produce textos académicos y multimodales coherentes, éticos y revisados para audiencias reales.", "observable_indicators": ["atribuye fuentes", "documenta decisiones y revisiones"], "oa_codes": ["FG-LELI-4M-OAC-05"]}
+      ]
+    },
+    {
+      "id": "progression.digital-source-literacy",
+      "name": "De buscar información a verificar contenido digital e IA",
+      "primary_skill_ids": ["digital-information.search", "digital-information.select", "digital-information.evaluate-sources", "digital-information.verify", "digital-information.triangulate", "digital-information.ai-generated-content", "digital-information.responsible-ai"],
+      "stages": [
+        {"id": "digital-1", "level_range": [1, 2], "descriptor": "Busca información en una fuente seleccionada por el docente y reconoce autor o procedencia cuando está disponible.", "observable_indicators": ["ubica información pertinente", "nombra de dónde provino"], "oa_codes": ["LE02 OA 10"]},
+        {"id": "digital-2", "level_range": [3, 4], "descriptor": "Busca y clasifica información en varias fuentes guiadas sin compartir datos personales.", "observable_indicators": ["usa palabras clave", "distingue información pertinente de irrelevante"], "oa_codes": ["LE04 OA 09"]},
+        {"id": "digital-3", "level_range": [5, 6], "descriptor": "Compara fuentes y registra autoría, fecha, propósito y coincidencias básicas.", "observable_indicators": ["contrasta al menos dos fuentes", "atribuye la información utilizada"], "oa_codes": ["LE06 OA 11"]},
+        {"id": "digital-4", "level_range": [7, 8], "descriptor": "Aplica criterios de confiabilidad, suficiencia y propósito a información web y multimodal.", "observable_indicators": ["justifica por qué una fuente sirve", "identifica qué evidencia falta"], "oa_codes": ["LE08 OA 25"]},
+        {"id": "digital-5", "level_range": [9, 10], "descriptor": "Selecciona, verifica y triangula información digital, reconociendo sesgos y contenido manipulado.", "observable_indicators": ["rastrea la afirmación a una fuente primaria", "contrasta fecha, evidencia y contexto"], "oa_codes": ["LE2M OA 24"]},
+        {"id": "digital-6", "level_range": [11, 12], "descriptor": "Evalúa comunidades digitales y contenido generado o asistido por IA, declara su uso y verifica afirmaciones antes de publicar.", "observable_indicators": ["distingue generación de verificación", "documenta fuentes, límites y uso de IA"], "oa_codes": ["FG-LELI-3M-OAC-04"]}
+      ]
+    }
+  ],
+  "cross_links": [
+    {"from_stage": "read-3", "to_stage": "data-3", "type": "supports", "reason": "Integrar texto y gráfico requiere leer ambas representaciones."},
+    {"from_stage": "data-5", "to_stage": "science-5", "type": "supports", "reason": "Interpretar asociación estadística apoya la evaluación de causalidad."},
+    {"from_stage": "read-4", "to_stage": "write-4", "type": "supports", "reason": "Reconocer evidencia en argumentos precede su uso en producción propia."},
+    {"from_stage": "digital-5", "to_stage": "read-6", "type": "supports", "reason": "Verificar procedencia fortalece la integración crítica de fuentes múltiples."},
+    {"from_stage": "math-4", "to_stage": "science-4", "type": "supports", "reason": "Modelar relaciones ayuda a interpretar datos de una investigación."}
+  ],
+  "error_patterns": [
+    {"id": "error.literal-only", "name": "Responde solo con una frase literal cuando la tarea exige inferir", "skill_ids": ["reading.inference"], "possible_hypotheses": ["no localiza pistas relevantes", "no conecta dos partes del texto"], "intervention_oa_codes": ["LE01 OA 08", "LE04 OA 04"], "reassessment_rule": "Usar otro texto y exigir que señale la pista antes de inferir."},
+    {"id": "error.causal-reversal", "name": "Invierte causa y consecuencia", "skill_ids": ["reading.causal-inference", "critical-thinking.justify-conclusions"], "possible_hypotheses": ["confunde orden temporal con causalidad"], "intervention_oa_codes": ["LE04 OA 04"], "reassessment_rule": "Cambiar contexto y pedir diagrama causa → efecto con evidencia."},
+    {"id": "error.unsupported-inference", "name": "Formula una conclusión sin evidencia identificable", "skill_ids": ["reading.evaluate-evidence", "critical-thinking.recognize-evidence"], "possible_hypotheses": ["no distingue afirmación de respaldo"], "intervention_oa_codes": ["LE08 OA 09"], "reassessment_rule": "Usar otra fuente y solicitar afirmación, evidencia y límite por separado."},
+    {"id": "error.answer-without-model", "name": "Entrega resultado matemático sin representación ni comprobación", "skill_ids": ["mathematics.represent", "mathematics.verify"], "possible_hypotheses": ["elige una operación por palabra clave", "no interpreta el resultado"], "intervention_oa_codes": ["MA02 OA 09", "MA04 OA 27"], "reassessment_rule": "Resolver un problema isomorfo y comprobar con otra representación."},
+    {"id": "error.graph-scale", "name": "Interpreta la altura visual sin revisar la escala", "skill_ids": ["data-literacy.scales", "data-literacy.misleading-representations"], "possible_hypotheses": ["no identifica origen o intervalo de la escala"], "intervention_oa_codes": ["MA08 OA 16"], "reassessment_rule": "Comparar dos gráficos del mismo conjunto con escalas distintas."},
+    {"id": "error.correlation-as-cause", "name": "Convierte una asociación en causalidad", "skill_ids": ["science.correlation-causality", "data-literacy.uncertainty"], "possible_hypotheses": ["no considera variables alternativas", "no reconoce límites del diseño"], "intervention_oa_codes": ["CN2M OA 02"], "reassessment_rule": "Evaluar un caso nuevo y proponer evidencia adicional necesaria."},
+    {"id": "error.source-without-provenance", "name": "Usa información sin identificar autor, fecha o fuente primaria", "skill_ids": ["digital-information.evaluate-sources", "digital-information.verify"], "possible_hypotheses": ["confunde apariencia profesional con confiabilidad"], "intervention_oa_codes": ["LE08 OA 25", "LE2M OA 24"], "reassessment_rule": "Rastrear una afirmación diferente hasta su fuente primaria."},
+    {"id": "error.ai-as-authority", "name": "Acepta contenido generado por IA como evidencia autosuficiente", "skill_ids": ["digital-information.ai-generated-content", "digital-information.responsible-ai"], "possible_hypotheses": ["confunde fluidez con veracidad", "no aplica verificación externa"], "intervention_oa_codes": ["FG-LELI-3M-OAC-04"], "reassessment_rule": "Verificar tres afirmaciones nuevas, documentar fuentes y declarar el uso de IA."}
+  ]
+}

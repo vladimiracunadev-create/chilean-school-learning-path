@@ -98,5 +98,9 @@ Los validadores revisan estructura, campos, conteos, estados, archivos, anclas y
 - ausencia de contenido heredado ajeno al curso;
 - presencia de los cinco componentes de uso de aula en cada una de las 8.841 clases desarrolladas;
 - ausencia de criterios de relleno, códigos usados como falsa diferenciación y defectos de puntuación conocidos.
+- referencias de habilidad, OA, prerrequisito, error, intervención e ítem válidas dentro del sistema longitudinal;
+- fuente, versión, limitaciones y tipo de alineamiento explícitos para cada marco externo;
+- separación verificable entre observación, patrón, hipótesis, diagnóstico pedagógico, intervención y reevaluación;
+- rechazo de datos personales y de porcentajes o estados de dominio sin evidencia diversa y decisión profesional explícita.
 
 La automatización detecta ausencia y deriva; no certifica verdad disciplinar ni pertinencia humana.

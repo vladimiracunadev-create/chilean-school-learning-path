@@ -61,6 +61,9 @@ Aquí puedes responder:
 | Coordinar el equipo de aula | [Roles profesionales](ROLES_DOCENTES.md) | responsabilidades, colaboración y límites |
 | Responder a dificultades | [Matriz de acciones](DIFICULTADES_EN_EL_AULA.md) | dificultad, acción inmediata, comprobación y decisión |
 | Evaluar | [Rúbrica](RUBRICA_EVALUACION.md) | niveles de evidencia, criterios disciplinares y decisiones |
+| Seguir una competencia entre niveles | [Sistema longitudinal](COMPETENCY_SYSTEM.md) | taxonomía, progresiones, grafo liviano, banco e intervenciones |
+| Registrar evidencia y reevaluar | [Ciclo de evidencia](EVIDENCE_CYCLE.md) | observación, patrón, hipótesis, intervención, transferencia y privacidad |
+| Consultar PAES, SIMCE, PISA, TIMSS o PIRLS | [Marcos de evaluación](ASSESSMENT_FRAMEWORKS.md) | fuentes, versiones, alcance, límites y tipo de correspondencia |
 | Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
 | Seguir el desarrollo ítem por ítem | [Plan maestro](PLAN_DESARROLLO.md) | orden por nivel y asignatura, estados, gates y controles profesionales |
 | Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 8.841 clases y 4.156 experiencias integradas |

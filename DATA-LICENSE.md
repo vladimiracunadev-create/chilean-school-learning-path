@@ -26,6 +26,18 @@ No existe una licencia única para todos los datos.
 | `site/catalog.json` | copia compacta generada del catálogo | sí, como artefacto técnico mixto | mismas condiciones por componente que `curriculum/catalog.json`; la minificación no cambia derechos |
 | `content/developed-lessons.json` | redacción educativa original | sí, bajo CC BY-NC-SA 4.0 | atribuir, uso no comercial y compartir adaptaciones igual |
 | `content/development-plan.json` | planificación editorial original generada por el proyecto | sí, bajo CC BY-NC-SA 4.0 | atribuir, uso no comercial y compartir adaptaciones igual |
+| `competencies/taxonomy.v1.json` | taxonomía educativa original del proyecto | sí, bajo CC BY-NC-SA 4.0 | no presentarla como taxonomía oficial ni como medición validada |
+| `competencies/progressions.v1.json` | relaciones pedagógicas inferidas desde OA y contenido existente | sí, como salida mixta bajo las reglas de cada componente | conservar códigos y fuentes oficiales; atribuir la organización y las inferencias al proyecto |
+| `competencies/frameworks.v1.json` | metadatos y síntesis de marcos oficiales con correspondencias pedagógicas propias | sí, como salida mixta | conservar fuente, versión, alcance, limitaciones y tipo de alineamiento; no declarar oficial una inferencia |
+| `assessments/item-bank.v1.json` | tareas y rúbricas originales del proyecto | sí, bajo CC BY-NC-SA 4.0 | no presentar ítems internos como oficiales, pilotados o psicométricamente validados |
+| `evidence/examples/*.json` | casos enteramente sintéticos | sí, bajo CC BY-NC-SA 4.0 | no reemplazar los códigos sintéticos por datos personales en el repositorio público |
+| `site/competencias/data/*.json` | copias generadas de los artefactos anteriores | sí, bajo la licencia y procedencia del archivo fuente | la publicación web no cambia derechos ni estado de revisión |
+| `competencies/taxonomy.v1.json` | taxonomía educativa original del proyecto | sí, bajo CC BY-NC-SA 4.0 | no presentarla como taxonomía oficial ni como medición validada |
+| `competencies/progressions.v1.json` | relaciones pedagógicas inferidas desde OA y contenido existente | sí, como salida mixta bajo las reglas de cada componente | conservar códigos y fuentes oficiales; atribuir la organización y las inferencias al proyecto |
+| `competencies/frameworks.v1.json` | metadatos y síntesis de marcos oficiales con correspondencias pedagógicas propias | sí, como salida mixta | conservar fuente, versión, alcance, limitaciones y tipo de alineamiento; no declarar oficial una inferencia |
+| `assessments/item-bank.v1.json` | tareas y rúbricas originales del proyecto | sí, bajo CC BY-NC-SA 4.0 | no presentar ítems internos como oficiales, pilotados o psicométricamente validados |
+| `evidence/examples/*.json` | casos enteramente sintéticos | sí, bajo CC BY-NC-SA 4.0 | no reemplazar los códigos sintéticos por datos personales en el repositorio público |
+| `site/competencias/data/*.json` | copias generadas de los artefactos anteriores | sí, bajo la licencia y procedencia del archivo fuente | la publicación web no cambia derechos ni estado de revisión |
 
 Los hechos y códigos curriculares pueden no estar protegidos del mismo modo que una redacción creativa. Esta política no afirma dominio sobre materiales oficiales: documenta procedencia y evita mezclar licencias.
 

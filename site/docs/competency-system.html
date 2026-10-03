@@ -1,0 +1,60 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c2c"><meta name="description" content="Sistema longitudinal de competencias · documentación pedagógica de Trayectoria Escolar Chile."><link rel="stylesheet" href="../styles.css"><title>Sistema longitudinal de competencias | Trayectoria Escolar Chile</title></head><body class="doc-page"><a class="skip-link" href="#contenido">Saltar al contenido</a><header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Documentación HTML</small></span></a><a class="back-link" href="../documentacion.html">← Centro documental</a></header><main id="contenido" class="doc-shell"><div class="doc-format"><span>GitHub Pages</span><strong>Versión HTML</strong></div><article class="doc-article"><h1 id="sistema-longitudinal-de-competencias">Sistema longitudinal de competencias</h1>
+<p>Esta capa conecta aprendizajes ya desarrollados desde 1° básico hasta 4° medio. No reemplaza los OA, no crea un currículo paralelo y no convierte PAES, SIMCE, PISA, TIMSS o PIRLS en asignaturas.</p>
+<p><a href="competency-gap-report.html">Informe de brechas previo</a> · <a href="evidence-cycle.html">Ciclo de evidencia</a> · <a href="assessment-frameworks.html">Marcos de evaluación</a></p>
+<p>La portada del portal público incorpora el acceso a la vista longitudinal generada en <code>/competencias/</code>.</p>
+<h2 id="arquitectura">Arquitectura</h2>
+<pre class="doc-code mermaid"><code>flowchart LR
+    OA[OA oficial] --&gt; ST[Etapa longitudinal]
+    SK[Habilidad transversal] --&gt; ST
+    ST --&gt; AC[Clase o actividad existente]
+    SK --&gt; IT[Ítem o tarea original]
+    IT --&gt; OB[Observación]
+    OB --&gt; PA[Patrón]
+    PA --&gt; HY[Hipótesis profesional]
+    HY --&gt; IN[Intervención]
+    IN --&gt; RE[Reevaluación nueva]
+    RE --&gt; PR[Progreso o revisión de hipótesis]
+    FW[PAES · SIMCE · PISA · TIMSS · PIRLS] -. vista desacoplada .-&gt; SK</code></pre>
+<div class="table-scroll"><table><thead><tr><th>Capa</th><th>Fuente</th><th>Responsabilidad</th></tr></thead><tbody><tr><td>Currículo</td><td><code>sources/mineduc-curriculum-snapshot.json</code></td><td>Texto, código, nivel, eje y URL oficial del OA</td></tr><tr><td>Taxonomía</td><td><code>competencies/taxonomy.v1.json</code></td><td>Dominios y habilidades transversales del proyecto</td></tr><tr><td>Progresiones</td><td><code>competencies/progressions.v1.json</code></td><td>Etapas, indicadores, OA relacionados, patrones de error y reevaluación</td></tr><tr><td>Marcos</td><td><code>competencies/frameworks.v1.json</code></td><td>Fuente, versión, población, alcance, limitaciones y tipo de alineamiento</td></tr><tr><td>Banco</td><td><code>assessments/item-bank.v1.json</code></td><td>Tareas originales, criterios, rúbrica, distractores, autoría y estado de revisión</td></tr><tr><td>Evidencia</td><td><code>evidence/evidence-cycle.schema.json</code></td><td>Observación, hipótesis, intervención, reevaluación y decisión profesional</td></tr><tr><td>Motor</td><td><code>scripts/competency_evidence.py</code></td><td>Resumen descriptivo determinista, sin porcentajes ni habilidad latente</td></tr><tr><td>Validación</td><td><code>scripts/validate_competency_system.py</code></td><td>Integridad referencial, OA reales, licencias, límites y cierre del ciclo</td></tr></tbody></table></div>
+<h2 id="relacion-con-el-curriculo-existente">Relación con el currículo existente</h2>
+<p>Los enlaces OA ↔ habilidad son <code>pedagogical_inference</code>: una interpretación documentada del proyecto. El OA conserva su redacción, secuencia y procedencia oficial. Una misma habilidad puede aparecer en Lenguaje, Matemática, Ciencias, Historia o Tecnología sin duplicarse.</p>
+<p>Ejemplo:</p>
+<pre class="doc-code text"><code>reading.causal-inference
+  → LE01 OA 08: información explícita e implícita
+  → LE04 OA 04: consecuencias de hechos o acciones
+  → LE05 OA 06: inferencias e integración texto–gráfico
+  → LE08 OA 09: evaluación de argumentos
+  → FG-LELI-4M-OAC-03: evaluación crítica de textos</code></pre>
+<p>La progresión no obliga a dominar una habilidad por calendario. Los rangos muestran dónde existe evidencia curricular pertinente; el avance se decide con evidencia del estudiante y puede volver a prerrequisitos.</p>
+<h2 id="consultas-que-permite-responder">Consultas que permite responder</h2>
+<h3 id="que-necesita-dominar-antes-de-una-inferencia-compleja">¿Qué necesita dominar antes de una inferencia compleja?</h3>
+<ol><li>Recuperar información explícita y ubicar una pista.</li><li>Distinguir lo dicho de lo inferido.</li><li>Relacionar causa, tiempo o referencia entre partes.</li><li>Integrar texto y representación visual.</li><li>Evaluar si la evidencia sostiene la conclusión.</li><li>Contrastar fuentes y declarar límites.</li></ol>
+<h3 id="que-aprendizaje-anterior-puede-explicar-una-dificultad">¿Qué aprendizaje anterior puede explicar una dificultad?</h3>
+<p><code>error.causal-reversal</code> apunta a <code>reading.causal-inference</code>. El sistema propone revisar si el estudiante distingue orden temporal de causalidad y enlaza <code>LE04 OA 04</code> como intervención posible. Eso es una hipótesis: debe comprobarse con otra situación.</p>
+<h3 id="que-clase-existente-puede-usarse-para-intervenir">¿Qué clase existente puede usarse para intervenir?</h3>
+<p>El validador exige que cada <code>intervention_oa_code</code> exista en el snapshot. El portal resuelve ese OA a su primera clase publicada; el docente puede abrir la secuencia completa y escoger apoyo, práctica o profundización.</p>
+<h2 id="banco-de-tareas">Banco de tareas</h2>
+<p>El esquema admite:</p>
+<ul><li>selección múltiple simple, múltiple y compleja;</li><li>respuesta breve y desarrollada;</li><li>resolución matemática y explicación;</li><li>argumentación, comparación y síntesis;</li><li>interpretación de tabla o gráfico;</li><li>ensayo, proyecto y problema interdisciplinario.</li></ul>
+<p>Los distractores pueden enlazarse a un patrón de error, pero una selección aislada sigue siendo una observación. Las tareas cerradas deben incluir al menos una respuesta correcta; las abiertas deben publicar criterios y una rúbrica de cuatro niveles.</p>
+<p>Los estados editoriales del banco son <code>draft</code>, <code>internal_review</code>, <code>expert_review</code>, <code>piloted</code>, <code>analyzed</code> y <code>validated</code>. Solo evidencia real permite avanzar de estado. “Validado” nunca se infiere por tener código, rúbrica o métricas.</p>
+<h2 id="interdisciplinariedad">Interdisciplinariedad</h2>
+<p>Las relaciones son muchos-a-muchos. <code>item.data-school-water.01</code> activa lectura, datos, matemática y ciencias con un solo registro. No se crean cuatro copias de la misma competencia.</p>
+<h2 id="perfil-de-competencias">Perfil de competencias</h2>
+<p>El perfil no usa porcentajes. Informa:</p>
+<ul><li>habilidad observada;</li><li>cantidad y diversidad de evidencias;</li><li>patrón o hipótesis documentada;</li><li>intervención realizada;</li><li>resultado de la reevaluación;</li><li>próxima decisión.</li></ul>
+<p>Un posible estado es “mejora observada en una situación nueva”. “Dominio descriptivo documentado” requiere decisión profesional explícita, intervención, tres evidencias exitosas, al menos dos reevaluaciones, tres ítems, dos contextos y dos formatos. Esos mínimos son una regla operativa transparente del proyecto, no un modelo psicométrico.</p>
+<h2 id="adaptacion-determinista">Adaptación determinista</h2>
+<p>La arquitectura futura puede seleccionar la siguiente actividad con reglas simples:</p>
+<div class="table-scroll"><table><thead><tr><th>Evidencia actual</th><th>Decisión permitida</th></tr></thead><tbody><tr><td>Tarea demasiado fácil y evidencia autónoma consistente</td><td>aumentar desafío o transferir</td></tr><tr><td>Dificultad adecuada</td><td>consolidar con otro contexto</td></tr><tr><td>Error repetido y relacionado</td><td>revisar prerrequisito e intervenir</td></tr><tr><td>Barrera de acceso</td><td>cambiar representación o vía de respuesta, conservar el OA</td></tr><tr><td>Evidencia insuficiente</td><td>ofrecer otra oportunidad; no inferir desconocimiento</td></tr></tbody></table></div>
+<p>No se implementa IRT con una escala inventada. Si en el futuro existen datos de pilotaje suficientes, cualquier modelo psicométrico debe vivir en una capa separada, documentar población, supuestos, error, validez y posible DIF.</p>
+<h2 id="ia-opcional">IA opcional</h2>
+<p>El núcleo funciona sin IA. Una integración futura puede proponer variantes, explicar o ayudar a revisar una respuesta abierta, siempre que:</p>
+<ul><li>registre modelo, versión, entrada y salida;</li><li>distinga sugerencia de medición;</li><li>permita revisión humana;</li><li>tenga una alternativa determinista;</li><li>nunca convierta una inferencia del modelo en puntaje psicométrico;</li><li>proteja datos personales y no envíe evidencia identificable sin autorización.</li></ul>
+<h2 id="versionado-y-extensibilidad">Versionado y extensibilidad</h2>
+<p>Los archivos declaran versión de esquema y versión de contenido. Agregar o retirar un framework no modifica OA, taxonomía ni progresiones. Un cambio incompatible crea una nueva versión; las referencias históricas se conservan.</p>
+<h2 id="comprobacion">Comprobación</h2>
+<pre class="doc-code bash"><code>python scripts/validate_competency_system.py --json
+python scripts/competency_evidence.py evidence/examples/reading-inference-cycle.json
+python scripts/generate_competency_portal.py --check</code></pre>
+<p>La validación automática demuestra integridad estructural y reproducibilidad. No demuestra exactitud disciplinar, pertinencia cultural, accesibilidad real ni validez de interpretación: esas dimensiones requieren revisión humana y pilotaje registrados.</p></article></main><footer class="site-footer"><div><strong>Trayectoria Escolar Chile</strong><span>Documento HTML para GitHub Pages</span></div><div><a href="../documentacion.html">Documentación</a><a href="licensing.html">Licencias</a></div></footer></body></html>

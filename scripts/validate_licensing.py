@@ -17,7 +17,9 @@ REQUIRED_FILES = [
     "LEARNING_PATHS.md", "OFFICIAL_REFERENCES.md",
     "sources/mineduc-curriculum-snapshot.json", "content/developed-lessons.json",
     "curriculum/catalog.json", "site/catalog.json", "site/index.html",
-    "site/styles.css", "site/app.js",
+    "site/styles.css", "site/app.js", "competencies/taxonomy.v1.json",
+    "competencies/progressions.v1.json", "competencies/frameworks.v1.json",
+    "assessments/item-bank.v1.json", "evidence/evidence-cycle.schema.json",
 ]
 LEGAL_MARKDOWN = [
     "LICENSE-CONTENT.md", "LICENSING.md", "LICENSING_AUDIT.md", "DATA-LICENSE.md",
@@ -36,6 +38,7 @@ ASSET_SUFFIXES = {
     ".webp", ".woff", ".woff2",
 }
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
+IGNORED_PARTS = {".git", ".venv", ".idea", ".vscode", "__pycache__"}
 
 
 def relative(path: Path, root: Path) -> str:
@@ -52,7 +55,7 @@ def load_json(path: Path, errors: list[str], root: Path) -> object | None:
 
 def iter_repository_files(root: Path):
     for path in root.rglob("*"):
-        if path.is_file() and ".git" not in path.parts and "__pycache__" not in path.parts:
+        if path.is_file() and not (set(path.relative_to(root).parts) & IGNORED_PARTS):
             yield path
 
 

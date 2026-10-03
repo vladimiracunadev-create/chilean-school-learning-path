@@ -40,14 +40,17 @@ Evita frases intercambiables entre asignaturas. Una clase debe nombrar el conten
 
 ## Fuente y artefactos generados
 
-Modifica la fuente estructurada correspondiente. No edites manualmente miles de fichas derivadas: `scripts/generate_school_program.py` vuelve a producir catálogo, Markdown, HTML, malla, sitemap, portada documental, índices y guías completas de 1° a 8° básico, además de las asignaturas desarrolladas de 1° medio.
+Modifica la fuente estructurada correspondiente. No edites manualmente miles de fichas derivadas: `scripts/generate_school_program.py` vuelve a producir catálogo, Markdown, HTML, malla, sitemap, portada documental, índices y 149 guías completas de 1° básico a 4° medio. Para competencias, edita los JSON versionados y regenera su vista con `scripts/generate_competency_portal.py`.
 
 Después del cambio ejecuta:
 
 ```bash
 python scripts/generate_school_program.py
+python scripts/generate_competency_portal.py
 python scripts/validate_school_program.py
 python scripts/validate_licensing.py
+python scripts/validate_competency_system.py
+python scripts/generate_competency_portal.py --check
 python -m unittest discover -s tests -p "test_*.py" -v
 ```
 

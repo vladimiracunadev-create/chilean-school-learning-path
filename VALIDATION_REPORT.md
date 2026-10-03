@@ -1,6 +1,6 @@
 # Reporte de validación
 
-Fecha: 2026-09-30
+Fecha: 2026-10-02
 
 ## Alcance verificable
 
@@ -21,15 +21,25 @@ Fecha: 2026-09-30
 - Búsqueda, filtros, URL compartible, carga progresiva, tema y estados vacío/error.
 - Sitemap, manifest, 404, metadatos, navegación de teclado, foco visible, diseño adaptable e impresión.
 - Licencias separadas para software, contenido, datos y terceros.
+- Taxonomía versionada de siete dominios, seis progresiones longitudinales demostrativas y relaciones muchos-a-muchos con OA existentes.
+- Seis tareas originales que demuestran selección, respuesta abierta, resolución, interpretación y proyecto interdisciplinario; su estado no implica validación psicométrica.
+- Seis marcos de evaluación desacoplados, con fuente, versión, población, limitaciones y tipo de correspondencia.
+- Ciclo sintético de evidencia cerrado y motor determinista sin porcentajes ficticios ni datos personales.
+- 62 pruebas automáticas y tres workflows: Calidad, Pages y Seguridad.
 
 ## Comandos de reproducción
 
 ```bash
 python scripts/generate_school_program.py
+python scripts/generate_competency_portal.py
+python scripts/export_pdfs.py
 python scripts/validate_school_program.py
 python scripts/validate_licensing.py
+python scripts/validate_competency_system.py
+python scripts/generate_competency_portal.py --check
 python -m unittest discover -s tests -p "test_*.py" -v
 python -m compileall -q scripts tests
+python scripts/mojibake_probe.py .
 git diff --exit-code
 ```
 

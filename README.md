@@ -8,7 +8,9 @@
 
 **Un proyecto abierto que transforma, OA por OA, el currículo chileno en clases claras, investigadas y pedagógicamente utilizables.**
 
-[![Quality and Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
+[![Calidad](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/ci.yml)
+[![Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
+[![Seguridad](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/security.yml)
 
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
 [![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
@@ -461,6 +463,17 @@ El [syllabus](docs/SYLLABUS.md) ayuda a organizar el año y la [guía docente](T
 
 Estas categorías no asignan notas automáticas. Organizan la intervención y la comprobación posterior.
 
+## 🧭 Competencias, diagnóstico y progreso longitudinal
+
+El currículo y sus OA siguen siendo la fuente de verdad. Sobre esa base, una capa versionada conecta habilidades transversales, prerrequisitos, indicadores observables, tareas originales, patrones de error, intervenciones existentes y reevaluaciones con situaciones nuevas.
+
+- [Arquitectura de competencias](docs/COMPETENCY_SYSTEM.md)
+- [Ciclo de evidencia y diagnóstico pedagógico](docs/EVIDENCE_CYCLE.md)
+- [Marcos externos y límites de alineamiento](docs/ASSESSMENT_FRAMEWORKS.md)
+- [Informe de brechas previo a la implementación](docs/COMPETENCY_GAP_REPORT.md)
+
+PAES, SIMCE, PISA, TIMSS y PIRLS se representan como vistas desacopladas. Sus correspondencias con la taxonomía son pedagógicas e inferidas salvo que una fuente citada indique explícitamente lo contrario. El motor determinista no genera porcentajes de dominio, diagnósticos clínicos ni afirmaciones psicométricas.
+
 ## ♿ Acceso sin reducción
 
 Mantener el OA no significa pedir a todos lo mismo del mismo modo. Se puede anticipar vocabulario, fragmentar consignas, usar objetos o imágenes, permitir ensayo oral, variar agrupamientos y tiempos, y aceptar distintas vías de respuesta pertinentes. Cuando existe dominio, se profundiza comparando, justificando, creando, mejorando o transfiriendo.
@@ -513,6 +526,9 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el 
 - [Roles profesionales](docs/ROLES_DOCENTES.md)
 - [Dificultades en el aula](docs/DIFICULTADES_EN_EL_AULA.md)
 - [Evaluación formativa](docs/EVALUACION_FORMATIVA.md)
+- [Sistema longitudinal de competencias](docs/COMPETENCY_SYSTEM.md)
+- [Ciclo de evidencia](docs/EVIDENCE_CYCLE.md)
+- [Marcos de evaluación](docs/ASSESSMENT_FRAMEWORKS.md)
 - [Rúbrica de evaluación](docs/RUBRICA_EVALUACION.md)
 - [Guía para familias](docs/GUIA_FAMILIAS.md)
 
@@ -567,9 +583,9 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 ## ✅ Calidad y CI
 
-Cada cambio propuesto y cada actualización de `main` pasan por **Quality and Pages**. El flujo regenera los contenidos, comprueba que no haya diferencias sin registrar, valida conteos y campos, verifica licencias y enlaces, ejecuta pruebas, compila los scripts y publica GitHub Pages solo si todo queda en verde.
+Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 62 pruebas, compila los scripts, revisa UTF-8 y comprueba la regeneración limpia. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
 
-El workflow verificable está en [`.github/workflows/pages.yml`](.github/workflows/pages.yml). Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
+Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages](.github/workflows/pages.yml) y [Seguridad](.github/workflows/security.yml). Usan permisos mínimos y acciones fijadas por SHA. Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
 
 ## 🎯 Qué es y qué no es este programa
 

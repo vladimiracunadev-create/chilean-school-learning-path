@@ -79,6 +79,20 @@ La profundización debe seguir vinculada al OA y no convertir siempre al estudia
 
 La [guía de evaluación formativa](docs/EVALUACION_FORMATIVA.md) desarrolla estos niveles y propone un registro mínimo.
 
+## Cerrar el ciclo de competencia
+
+Cuando una dificultad reaparece en tareas distintas, consulta la [trayectoria de competencias](docs/COMPETENCY_SYSTEM.md) y registra el ciclo sin saltar de una observación a una etiqueta:
+
+1. describe qué ocurrió y en qué tarea;
+2. reúne evidencia de más de una ocasión antes de declarar un patrón;
+3. formula una hipótesis pedagógica revisable;
+4. revisa prerrequisitos y enlaza una clase o actividad existente;
+5. interviene y practica con apoyo decreciente;
+6. reevalúa con otro ítem, contexto y, cuando corresponda, otro tipo de tarea;
+7. compara la evidencia y decide continuar, transferir o revisar la hipótesis.
+
+La [especificación del ciclo de evidencia](docs/EVIDENCE_CYCLE.md) ofrece un ejemplo sintético completo. No guardes nombres, RUT, correos ni otros datos personales en el repositorio.
+
 ## Consideraciones para el contenido desarrollado de 1° básico a 4° medio
 
 Estas orientaciones cubren los doce niveles completos desde 1° básico hasta 4° medio. El desarrollo interno completo no sustituye revisión profesional ni pilotaje.

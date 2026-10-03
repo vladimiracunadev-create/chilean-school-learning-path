@@ -1,0 +1,75 @@
+name: Calidad
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: calidad-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Python ${{ matrix.python-version }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+          cache-dependency-path: requirements-pdf.txt
+      - name: Install locked dependencies
+        run: python -m pip install -r requirements-pdf.txt
+      - name: Validate data and licensing
+        run: |
+          python scripts/validate_school_program.py
+          python scripts/validate_licensing.py
+          python scripts/validate_competency_system.py
+      - name: Run tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+      - name: Compile Python sources
+        run: python -m compileall -q scripts tests
+      - name: Detect broken UTF-8 text
+        run: python scripts/mojibake_probe.py .
+
+  reproducibility:
+    name: Reproducible generated artifacts
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-pdf.txt
+      - run: python -m pip install -r requirements-pdf.txt
+      - name: Regenerate repository outputs
+        run: |
+          python scripts/generate_development_plan.py
+          python scripts/generate_school_program.py
+          python scripts/generate_competency_portal.py
+          python scripts/export_pdfs.py
+      - name: Confirm clean regeneration
+        run: |
+          python scripts/generate_competency_portal.py --check
+          git diff --exit-code
