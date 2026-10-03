@@ -48,7 +48,12 @@ DEVELOPED=ROOT/"content"/"developed-lessons.json"
 
 def version_public_data():
  site=ROOT/"site"
- digest=hashlib.sha256(b"\0".join((site/name).read_bytes() for name in ("app.js","catalog.json","updates.json"))).hexdigest()[:12]
+ app_source=(site/"app.js").read_text(encoding="utf-8").replace("\r\n","\n").replace("\r","\n")
+ canonical_json=(
+  json.dumps(json.loads((site/name).read_text(encoding="utf-8")),ensure_ascii=False,sort_keys=True,separators=(",",":"))
+  for name in ("catalog.json","updates.json")
+ )
+ digest=hashlib.sha256("\0".join((app_source,*canonical_json)).encode("utf-8")).hexdigest()[:12]
  index_path=site/"index.html";index=index_path.read_text(encoding="utf-8")
  index,html_count=re.subn(r'<html lang="es" data-theme="light"(?: data-content-version="[^"]+")?>',f'<html lang="es" data-theme="light" data-content-version="{digest}">',index,count=1)
  index,script_count=re.subn(r'<script src="app\.js(?:\?v=[^"]+)?"></script>',f'<script src="app.js?v={digest}"></script>',index,count=1)
@@ -56,15 +61,6 @@ def version_public_data():
  index_path.write_text(index,encoding="utf-8")
  return digest
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
-def version_public_data():
- site=ROOT/"site"
- digest=hashlib.sha256(b"\0".join((site/name).read_bytes() for name in ("app.js","catalog.json","updates.json"))).hexdigest()[:12]
- index_path=site/"index.html";index=index_path.read_text(encoding="utf-8")
- index,html_count=re.subn(r'<html lang="es" data-theme="light"(?: data-content-version="[^"]+")?>',f'<html lang="es" data-theme="light" data-content-version="{digest}">',index,count=1)
- index,script_count=re.subn(r'<script src="app\.js(?:\?v=[^"]+)?"></script>',f'<script src="app.js?v={digest}"></script>',index,count=1)
- if html_count != 1 or script_count != 1:raise RuntimeError("site/index.html no contiene marcadores únicos de versión pública")
- index_path.write_text(index,encoding="utf-8")
- return digest
 def dose(text,slug,reads):
  t=text.lower();n=4
  if len(text)>260 or t.count(";")>=2:n+=1
