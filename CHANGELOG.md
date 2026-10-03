@@ -2,11 +2,17 @@
 
 ## 2026-10-03 · Centro visible de evaluaciones y ensayos conectados
 
+- Se amplía la documentación de los trece instrumentos o familias: definición, motivo de existencia, historia, antecesores, responsable, primera aplicación, periodicidad, diseño, lectura de resultados, límites y uso docente, siempre con fuentes institucionales.
+- Se incorporan dos omisiones del panorama anterior: **Impulso Lector 2026**, separado de SIMCE y organizado en precursores, comprensión y fluidez, y la familia de **Estudios Nacionales** muestrales de lectura, escritura, formación ciudadana, inglés y competencias técnico-profesionales.
+- Los ensayos originales pasan de 37 a 45 variantes; los ocho ejemplos nuevos conservan cálculo didáctico 0–4, criterios visibles, clases existentes, intervención y reevaluación, sin simular escalas oficiales.
+- Las páginas dejan de ofrecer una lista genérica de OA: cada variante incorpora una ruta visual **preparar → enseñar/practicar → comprobar**, con nombre del contenido, clase existente exacta, fase, evidencia, intervención y reevaluación.
+- El estado del Prompt Maestro pasa de quince etiquetas resumidas a una matriz completa de treinta bloques con evidencia visible, resultado concreto y trabajo pendiente.
+- El diseño web incorpora navegación interna, datos esenciales, líneas de tiempo, tarjetas de antecedentes, paneles de resultados/límites y rutas curriculares adaptables a móvil.
 - Se crea una entrada inequívoca llamada **Evaluaciones complementarias** desde la portada, la documentación, competencias y los doce niveles; ya no es necesario conocer la palabra técnica “marcos”.
 - PAES, SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES y evaluación interna tienen páginas identificables con propósito, población, documentos institucionales, estado real y límites.
 - Cada variante escolar documentada enlaza OA, contenidos y clases existentes como referencias pedagógicas; comprensión lectora reúne PAES Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE sin tratarlas como equivalentes.
-- Se publican 37 miniensayos originales con clave, rúbrica, cálculo interactivo de 0 a 4 puntos y decisión posterior; ningún resultado se convierte artificialmente en escala oficial.
-- Las descargas pasan de 49 a 51 PDF: se agregan una guía docente de instrumentos/brechas/estado y una compilación completa de los 37 ensayos.
+- Se publican 45 miniensayos originales con clave, rúbrica, cálculo interactivo de 0 a 4 puntos y decisión posterior; ningún resultado se convierte artificialmente en escala oficial.
+- Las descargas pasan de 49 a 51 PDF: se agregan una guía docente de instrumentos/brechas/estado y una compilación completa de los 45 ensayos.
 - El informe de brechas previo se conserva como línea base histórica y se añade un estado actual que indica brecha cerrada, parcial y acción pendiente, además de una tabla explícita para todos los bloques del prompt maestro.
 - Markdown enlaza documentación Markdown; HTML enlaza páginas HTML. Los JSON permanecen como soporte técnico y no como interfaz docente.
 

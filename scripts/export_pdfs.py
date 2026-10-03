@@ -677,7 +677,7 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
             PdfJob(
                 "evaluaciones-complementarias.pdf",
                 "Evaluaciones complementarias - guía docente",
-                "PAES, SIMCE, DIA y estudios internacionales explicados con sus conexiones curriculares.",
+                "Trece instrumentos y familias —acceso, diagnóstico, evaluaciones nacionales e internacionales— explicados con sus conexiones curriculares.",
                 (
                     DOCS / "EVALUACIONES_COMPLEMENTARIAS.md",
                     DOCS / "INFORME_BRECHAS_ACTUAL.md",
@@ -687,7 +687,7 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
             PdfJob(
                 "ensayos-ejemplo.pdf",
                 "Ensayos originales de ejemplo",
-                "Treinta y siete variantes, claves, rúbricas, cálculo transparente y referencias a OA y clases.",
+                "Cuarenta y cinco variantes, claves, rúbricas, cálculo transparente y referencias precisas a OA y clases.",
                 (DOCS / "ENSAYOS_EJEMPLO.md",),
             ),
         ]

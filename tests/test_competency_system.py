@@ -138,6 +138,8 @@ class CompetencySystemTests(unittest.TestCase):
             "PAES",
             "SIMCE",
             "DIA",
+            "Impulso Lector",
+            "Estudios nacionales",
             "PISA",
             "TIMSS",
             "PIRLS",
@@ -155,14 +157,34 @@ class CompetencySystemTests(unittest.TestCase):
             self.assertTrue(page.is_file(), key)
             content = page.read_text(encoding="utf-8")
             for token in (
-                "Fuentes oficiales consultadas",
-                "OA, contenidos y clases asociados como referencia",
-                "No confundir referencia con equivalencia",
+                "Qué es y por qué existe",
+                "Historia y versiones anteriores",
+                "Cómo funciona y qué observa",
+                "Qué enseñar antes, qué clase abrir y cómo comprobar",
+                "Fuentes institucionales consultadas",
             ):
                 self.assertIn(token, content, page)
 
+    def test_every_instrument_has_a_substantive_teacher_profile(self):
+        required = {
+            "definition", "why_exists", "responsible", "first_cycle", "cadence",
+            "history", "predecessors", "design", "reporting", "classroom_use", "boundaries",
+        }
+        for key, instrument in INSTRUMENTS.items():
+            self.assertTrue(required.issubset(instrument), key)
+            self.assertGreaterEqual(len(instrument["history"]), 3, key)
+            self.assertGreaterEqual(len(instrument["design"]), 3, key)
+            self.assertGreaterEqual(len(instrument["boundaries"]), 3, key)
+            self.assertGreater(len(instrument["definition"]), 120, key)
+        paes = (ROOT / "site/evaluaciones/paes.html").read_text(encoding="utf-8")
+        for token in ("PAA", "PSU", "PDT", "Primera PAES", "100 a 1.000"):
+            self.assertIn(token, paes)
+        eces = (ROOT / "site/evaluaciones/eces.html").read_text(encoding="utf-8")
+        self.assertIn("unidad de análisis principal es el sistema", eces)
+        self.assertIn("No corresponde producir un miniensayo escolar ECES", eces)
+
     def test_every_documented_variant_has_a_scored_teacher_facing_exam(self):
-        self.assertEqual(len(VARIANTS), 37)
+        self.assertEqual(len(VARIANTS), 45)
         for variant in VARIANTS:
             page = ROOT / "site/evaluaciones/ensayos" / f"{variant['id']}.html"
             self.assertTrue(page.is_file(), variant["id"])
@@ -172,9 +194,24 @@ class CompetencySystemTests(unittest.TestCase):
                 "Calcular puntos del ensayo",
                 "máximo 4 puntos",
                 "No es un puntaje oficial",
-                "OA y clases que permiten enseñar o reforzar",
+                "Contenido y desempeño que se observará",
+                "Ruta de intervención con clases existentes",
+                "Cómo reevaluar",
+                "Abrir la clase exacta",
             ):
                 self.assertIn(token, content, page)
+
+    def test_prompt_status_traces_all_thirty_requested_blocks(self):
+        status = (ROOT / "docs/ESTADO_PROMPT_MAESTRO.md").read_text(encoding="utf-8")
+        self.assertEqual(status.count("| **"), 30)
+        for token in (
+            "Qué existe", "Qué falta o limita", "Comprensión lectora existente",
+            "PAES como resultado de trayectoria", "Información digital e IA",
+        ):
+            self.assertIn(token, status)
+        page = (ROOT / "site/evaluaciones/estado-prompt-maestro.html").read_text(encoding="utf-8")
+        self.assertEqual(page.count('class="prompt-status-card"'), 30)
+        self.assertIn("qué existe y qué falta", page)
 
     def test_all_level_pages_link_the_evaluation_center(self):
         pages = sorted((ROOT / "site/levels").glob("*.html"))

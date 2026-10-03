@@ -16,7 +16,9 @@ Este documento complementa, pero no reemplaza, el [informe de brechas previo](CO
 | PISA | **EXISTE PARCIALMENTE** | Página propia, 4 dominios, documentos, OA, clases, dos tareas extensas y miniensayos. | No reproduce unidades PISA ni resultados de sistema. |
 | TIMSS | **EXISTE PARCIALMENTE** | Página propia, 4 combinaciones de grado/área, documentos, OA, clases, tareas y miniensayos. | Las referencias de grado no son equivalencias administrativas chilenas. |
 | PIRLS | **EXISTE PARCIALMENTE** | Página propia, 2 propósitos lectores, documentos, OA, clases, tarea y miniensayos. | No crea otro curso de comprensión lectora. |
-| Otros instrumentos | **EXPLICADOS Y PARCIALMENTE CONECTADOS** | DIA, ERCE, ICILS, ICCS y ECES aparecen en el panorama; ECES queda fuera del tramo escolar. | Completar mapeos solo con revisión disciplinar. |
+| Impulso Lector | **EXISTE Y SE CONECTÓ** | Página propia para la evaluación censal 2026 de 2° básico: precursores, comprensión y fluidez, diferenciada de SIMCE y DIA. | Actualizar reportes, escala y continuidad sólo cuando la Agencia publique la aplicación y sus resultados. |
+| Estudios nacionales | **EXISTEN Y SE CONECTARON PARCIALMENTE** | Familia muestral explicada con rutas para Lectura 2°, Escritura 6°, Formación Ciudadana 8°, Inglés y competencias TP. | Verificar cada ciclo en el plan vigente y ampliar sólo con marcos oficiales. |
+| Otros instrumentos | **EXPLICADOS Y PARCIALMENTE CONECTADOS** | DIA, ERCE, ICILS e ICCS aparecen con historia y rutas; ECES queda explicado sin forzar OA escolares. | Completar mapeos solo con revisión disciplinar. |
 | Progresión longitudinal | **EXISTE PARCIALMENTE** | Cinco progresiones y regreso verificable a clases. | Extender sin convertir rangos etarios en reglas rígidas. |
 | Análisis de errores | **EXISTE Y SE AMPLIÓ** | Patrones, hipótesis prudentes e intervención enlazada. | Reunir evidencia de aula antes de generalizar. |
 | Adaptación | **ARQUITECTURA PREPARADA** | Reglas deterministas descritas. | No existe todavía tutor adaptativo de producción. |
