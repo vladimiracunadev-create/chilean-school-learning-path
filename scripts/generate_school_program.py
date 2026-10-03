@@ -1723,6 +1723,21 @@ def lesson_page(item, previous_item=None, next_item=None):
 <section class="sources-panel"><div><p class="eyebrow">Trazabilidad HTML</p><h2>Fuente oficial y navegación web</h2><p>Esta página conserva el OA oficial, la fecha de consulta y la secuencia completa sin abandonar el árbol de GitHub Pages.</p></div><ul><li><a href="../../../docs/formatos.html">Cómo se publican los formatos</a><span>Separación entre navegación HTML y navegación Markdown</span></li>{reading_items}<li><a href="{esc(item['source_url'])}" rel="noopener">Ficha oficial del OA</a><span>Currículum Nacional · consulta {esc(item['verified_at'])}</span></li></ul></section>
 <nav class="sequence-nav" aria-label="Objetivos anterior y siguiente">{nav_link(previous_item,'Objetivo anterior')}{nav_link(next_item,'Objetivo siguiente')}</nav></main>
 <footer class="site-footer"><div><strong>Proyecto educativo independiente</strong><span>Elaboración pedagógica original: CC BY-NC-SA 4.0 · texto oficial MINEDUC: derechos de su titular</span></div><div><a class="star-link" href="https://github.com/vladimiracunadev-create/chilean-school-learning-path/stargazers">⭐ Dar una estrella</a><a href="../../../docs/licensing.html">Licencias</a></div></footer></body></html>'''
+def changelog_updates(limit=3):
+ text=(ROOT/"CHANGELOG.md").read_text(encoding="utf-8")
+ updates=[];current=None
+ for line in text.splitlines():
+  match=re.match(r"^## (\d{4}-\d{2}-\d{2}) · (.+)$",line)
+  if match:
+   if current:updates.append(current)
+   if len(updates)>=limit:break
+   current={"date":match.group(1),"title":match.group(2),"summary":[]}
+  elif current and line.startswith("- "):
+   current["summary"].append(line[2:].strip())
+ if current and len(updates)<limit:updates.append(current)
+ if not updates or not updates[0]["summary"]:
+  raise RuntimeError("CHANGELOG.md debe comenzar con una novedad fechada y al menos un resumen.")
+ return {"schema_version":1,"source":"CHANGELOG.md","latest_date":updates[0]["date"],"updates":updates}
 def main():
  defer_generic_docs=os.environ.get("DEFER_GENERIC_DOCS")=="1" or (ROOT/".defer-generic-docs").is_file()
  snap=json.loads(SNAPSHOT.read_text(encoding="utf-8"));developed=json.loads(DEVELOPED.read_text(encoding="utf-8"))["objectives"];objs=[];classes=[];num=1
@@ -2018,6 +2033,7 @@ def main():
   documentation_pages=generate_documentation_pages()
  else:documentation_pages=[]
  (ROOT/"site"/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False)+"\n",encoding="utf-8")
+ (ROOT/"site"/"updates.json").write_text(json.dumps(changelog_updates(),ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  reviews_site=ROOT/"site"/"reviews";reviews_site.mkdir(parents=True,exist_ok=True)
  for schema_name in ("review-record.schema.json","pilot-record.schema.json"):
   shutil.copyfile(ROOT/"reviews"/schema_name,reviews_site/schema_name)

@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "source": "CHANGELOG.md",
+  "latest_date": "2026-10-02",
+  "updates": [
+    {
+      "date": "2026-10-02",
+      "title": "Competencias, evidencia y evaluación longitudinal",
+      "summary": [
+        "Se agrega una taxonomía transversal versionada y seis progresiones demostrativas desde 1° básico hasta 4° medio, enlazadas a OA y clases existentes sin modificar el currículo.",
+        "Se incorporan un banco inicial de tareas originales, esquemas JSON, patrones de error, intervenciones y un ciclo determinista de observación, hipótesis, práctica, reevaluación y transferencia.",
+        "PAES, SIMCE, PISA, TIMSS, PIRLS y evaluaciones internas se modelan como marcos desacoplados con fuente, versión, alcance, limitaciones y correspondencias pedagógicas explícitamente inferidas.",
+        "Se publica una vista web para estudiantes y docentes, con evidencia sintética trazable y sin porcentajes de dominio ficticios.",
+        "CI, Pages y controles de seguridad se separan en workflows con permisos mínimos, acciones fijadas por SHA, matrices de Python y verificación de reproducibilidad.",
+        "La portada publica automáticamente las tres novedades más recientes con fecha, resumen y acceso al historial; CI impide que esta vista quede desincronizada del changelog."
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Apps de apoyo del aprendizaje en 5° básico",
+      "summary": [
+        "Se analizan Pañuelo al Viento, Mi Aventura con el Violín y Mi Aventura con la Guitarra antes de integrarlas como recursos opcionales para niñas y niños alrededor de los 10 años.",
+        "Se modifican siete clases de 5° básico: dos de `EF05 OA 05` y cinco de Música (`MU05 OA 01`, `03`, `04`, `07` y `08`), sin alterar los conteos curriculares.",
+        "Cada integración declara propósito, mediación adulta o docente, evidencia válida, límites y una alternativa equivalente sin aplicación, dispositivo o instrumento propio.",
+        "Se publica una guía de correspondencia curricular y se incorpora la misma información en las fichas Markdown, las guías de asignatura y GitHub Pages."
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Enumeraciones completas en el README",
+      "summary": [
+        "La sección “De dónde sale el contenido” incorpora las reconstrucciones de 3° y 4° medio, sus cifras, fuentes oficiales y separación entre OA oficial y explicación pedagógica interna.",
+        "Una nueva validación estructural exige los doce índices de nivel en cada sección del README que presenta un recorrido completo; una enumeración truncada ya no puede pasar CI.",
+        "Se conserva el historial anterior sin reescribir afirmaciones fechadas."
+      ]
+    }
+  ]
+}

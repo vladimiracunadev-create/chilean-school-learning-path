@@ -70,6 +70,12 @@ function setTheme(theme) {
   $("#theme-toggle").setAttribute("aria-label", theme === "dark" ? "Activar tema claro" : "Activar tema oscuro");
 }
 
+function updateCard(update, index) {
+  const date = new Intl.DateTimeFormat("es-CL", { dateStyle: "long", timeZone: "UTC" }).format(new Date(`${update.date}T12:00:00Z`));
+  const summary = update.summary.slice(0, 3).map((item) => `<li>${escapeHtml(item)}</li>`).join("");
+  return `<article class="update-card${index === 0 ? " latest" : ""}"><div><span>${index === 0 ? "Última actualización" : "Actualización"}</span><time datetime="${escapeHtml(update.date)}">${escapeHtml(date)}</time></div><h3>${escapeHtml(update.title)}</h3><ul>${summary}</ul></article>`;
+}
+
 setTheme(localStorage.getItem("trayectoria-theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
 $("#theme-toggle").addEventListener("click", () => setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark"));
 Object.values(controls).forEach((control) => control.addEventListener("input", () => render(true)));
@@ -93,3 +99,8 @@ fetch("catalog.json")
     $("#result").textContent = "No pudimos cargar el catálogo.";
     $("#cards").innerHTML = '<div class="empty-state"><h3>Catálogo no disponible</h3><p>Revisa tu conexión y vuelve a cargar la página.</p><button class="button dark-text" type="button" onclick="location.reload()">Reintentar</button></div>';
   });
+
+fetch("updates.json")
+  .then((response) => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
+  .then((payload) => { $("#recent-updates").innerHTML = payload.updates.map(updateCard).join(""); })
+  .catch(() => { $("#recent-updates").innerHTML = '<p class="updates-loading">No fue posible cargar el resumen. <a href="docs/changelog.html">Abre el historial completo</a>.</p>'; });

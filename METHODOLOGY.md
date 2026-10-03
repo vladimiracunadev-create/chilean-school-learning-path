@@ -78,7 +78,7 @@ En 4° básico, cada asignatura conserva un protocolo disciplinar propio: repres
 
 `scripts/generate_competency_portal.py` publica las trayectorias, vistas de evidencia, marcos e ítems y copia sus datos versionados al sitio. Ambos generadores se ejecutan en CI y el repositorio debe quedar sin diferencias.
 
-La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.
+La CI vuelve a generar todo y falla si los artefactos textuales quedan desactualizados. Los PDF se regeneran y validan por inventario, metadatos, fuentes únicas, enlaces y lectura; no se exige igualdad binaria entre sistemas operativos porque el motor tipográfico puede producir contenedores diferentes con el mismo contenido.
 
 ## 7. Validación y límites
 

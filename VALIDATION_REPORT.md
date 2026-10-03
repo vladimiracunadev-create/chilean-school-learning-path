@@ -40,7 +40,7 @@ python scripts/generate_competency_portal.py --check
 python -m unittest discover -s tests -p "test_*.py" -v
 python -m compileall -q scripts tests
 python scripts/mojibake_probe.py .
-git diff --exit-code
+git diff --exit-code -- . ':(exclude)output/pdf/*.pdf'
 ```
 
-La CI ejecuta los mismos gates antes de publicar Pages. El validador comprueba que cada clase marcada como desarrollada materialice su contrato en la fuente y en HTML. Estas comprobaciones verifican estructura y comportamiento observable; la revisión pedagógica y disciplinar humana se registra por separado en [EDITORIAL_STATUS.md](EDITORIAL_STATUS.md).
+La CI ejecuta los mismos gates antes de publicar Pages. Los artefactos textuales se comparan byte a byte; los 49 PDF se regeneran y verifican semántica y estructuralmente porque ReportLab puede producir bytes distintos entre sistemas operativos. El validador comprueba que cada clase marcada como desarrollada materialice su contrato en la fuente y en HTML. Estas comprobaciones verifican estructura y comportamiento observable; la revisión pedagógica y disciplinar humana se registra por separado en [EDITORIAL_STATUS.md](EDITORIAL_STATUS.md).

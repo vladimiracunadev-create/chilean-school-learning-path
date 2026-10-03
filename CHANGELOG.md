@@ -7,6 +7,7 @@
 - PAES, SIMCE, PISA, TIMSS, PIRLS y evaluaciones internas se modelan como marcos desacoplados con fuente, versión, alcance, limitaciones y correspondencias pedagógicas explícitamente inferidas.
 - Se publica una vista web para estudiantes y docentes, con evidencia sintética trazable y sin porcentajes de dominio ficticios.
 - CI, Pages y controles de seguridad se separan en workflows con permisos mínimos, acciones fijadas por SHA, matrices de Python y verificación de reproducibilidad.
+- La portada publica automáticamente las tres novedades más recientes con fecha, resumen y acceso al historial; CI impide que esta vista quede desincronizada del changelog.
 
 ## 2026-10-01 · Apps de apoyo del aprendizaje en 5° básico
 

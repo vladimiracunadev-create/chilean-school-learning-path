@@ -42,8 +42,9 @@ jobs:
           python scripts/validate_licensing.py
           python scripts/validate_competency_system.py
           python scripts/generate_competency_portal.py --check
+          python -m unittest tests.test_pdf_exports -v
       - name: Verify committed outputs are reproducible
-        run: git diff --exit-code
+        run: git diff --exit-code -- . ':(exclude)output/pdf/*.pdf'
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
       - name: Assemble deployment directory
         run: |

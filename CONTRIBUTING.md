@@ -37,6 +37,7 @@ Evita frases intercambiables entre asignaturas. Una clase debe nombrar el conten
 - Ofrece alternativas sin conectividad cuando la actividad dependa de tecnología.
 - Mantén el OA al proponer apoyos; modifica el acceso, no la expectativa central.
 - Profundiza mediante explicación, comparación o transferencia, no con más repetición.
+- Registra todo cambio visible para usuarios en la primera entrada fechada de `CHANGELOG.md`; el generador lo publicará automáticamente en “Novedades” y CI rechazará una vista desactualizada.
 
 ## Fuente y artefactos generados
 

@@ -33,7 +33,7 @@
 <p><code>scripts/generate_school_program.py</code> produce:</p>
 <ul><li>el catálogo JSON;</li><li>las fichas Markdown por OA;</li><li>las páginas HTML por OA;</li><li>las vistas completas y guías de asignatura de 1° a 8° básico;</li><li>la documentación generada de los doce niveles completos desde 1° básico hasta 4° medio, con 149 guías de asignatura;</li><li>la malla y el sitemap.</li></ul>
 <p><code>scripts/generate_competency_portal.py</code> publica las trayectorias, vistas de evidencia, marcos e ítems y copia sus datos versionados al sitio. Ambos generadores se ejecutan en CI y el repositorio debe quedar sin diferencias.</p>
-<p>La CI vuelve a generar todo y falla si el repositorio contiene artefactos derivados desactualizados.</p>
+<p>La CI vuelve a generar todo y falla si los artefactos textuales quedan desactualizados. Los PDF se regeneran y validan por inventario, metadatos, fuentes únicas, enlaces y lectura; no se exige igualdad binaria entre sistemas operativos porque el motor tipográfico puede producir contenedores diferentes con el mismo contenido.</p>
 <h2 id="7-validacion-y-limites">7. Validación y límites</h2>
 <p>Los validadores comprueban conteos, identificadores, campos, anclas, páginas, estados editoriales y licencias. Los tests no certifican exactitud disciplinar, pertinencia local ni accesibilidad real con estudiantes.</p>
 <p>La revisión humana debe:</p>

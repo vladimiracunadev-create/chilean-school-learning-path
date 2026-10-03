@@ -628,7 +628,7 @@ def validate(root: Path = ROOT) -> list[str]:
     pages = list((root / "site/classes").rglob("*.html"))
     if len(pages) != objective_count:
         errors.append(f"Páginas de OA: {len(pages)}, esperadas: {objective_count}")
-    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "competencias/index.html", "competencias/data/taxonomy.v1.json", "competencias/data/progressions.v1.json", "competencias/data/frameworks.v1.json", "competencias/data/item-bank.v1.json", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html", "levels/5-basico.html", "levels/6-basico.html", "levels/7-basico.html", "levels/8-basico.html", "levels/1-medio.html", "levels/2-medio.html", "levels/3-medio.html", "levels/4-medio.html", "reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
+    for required in ("index.html", "documentacion.html", "styles.css", "app.js", "catalog.json", "updates.json", "404.html", "icon.svg", "manifest.webmanifest", "sitemap.xml", "competencias/index.html", "competencias/data/taxonomy.v1.json", "competencias/data/progressions.v1.json", "competencias/data/frameworks.v1.json", "competencias/data/item-bank.v1.json", "levels/1-basico.html", "levels/2-basico.html", "levels/3-basico.html", "levels/4-basico.html", "levels/5-basico.html", "levels/6-basico.html", "levels/7-basico.html", "levels/8-basico.html", "levels/1-medio.html", "levels/2-medio.html", "levels/3-medio.html", "levels/4-medio.html", "reviews/review-record.schema.json", "reviews/pilot-record.schema.json"):
         if not (root / "site" / required).is_file():
             errors.append(f"Falta artefacto de Pages: {required}")
     documentation_pages = list((root / "site/docs").rglob("*.html"))
@@ -638,6 +638,19 @@ def validate(root: Path = ROOT) -> list[str]:
     sitemap = sitemap_path.read_text(encoding="utf-8") if sitemap_path.is_file() else ""
     if sitemap.count("<url>") != objective_count + len(documentation_pages) + 15:
         errors.append("El sitemap no enumera portada, documentación, competencias, los doce niveles, documentos HTML y páginas de OA")
+    updates_path = root / "site/updates.json"
+    if updates_path.is_file():
+        try:
+            updates = json.loads(updates_path.read_text(encoding="utf-8"))
+            changelog = (root / "CHANGELOG.md").read_text(encoding="utf-8")
+            first_heading = re.search(r"^## (\d{4}-\d{2}-\d{2}) · (.+)$", changelog, re.MULTILINE)
+            latest = updates.get("updates", [])[0]
+            if not first_heading or latest.get("date") != first_heading.group(1) or latest.get("title") != first_heading.group(2):
+                errors.append("Novedades públicas desincronizadas con la primera entrada del CHANGELOG")
+            if not latest.get("summary"):
+                errors.append("La novedad pública más reciente no tiene resumen visible")
+        except (json.JSONDecodeError, IndexError, AttributeError) as exc:
+            errors.append(f"site/updates.json inválido: {exc}")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "691", "343", "Contrato pedagógico"):

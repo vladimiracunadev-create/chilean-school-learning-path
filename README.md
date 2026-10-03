@@ -12,6 +12,8 @@
 [![Pages](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/pages.yml)
 [![Seguridad](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/chilean-school-learning-path/actions/workflows/security.yml)
 
+> **Nuevo · 2 de octubre de 2026:** competencias longitudinales, ciclo de evidencia, banco inicial de tareas, vistas docente/estudiante y workflows reforzados. El portal muestra desde ahora las tres novedades más recientes directamente en su portada. [Ver detalle](CHANGELOG.md#2026-10-02--competencias-evidencia-y-evaluación-longitudinal).
+
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
 [![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
 [![3° básico](https://img.shields.io/badge/3%C2%B0%20b%C3%A1sico-757%20clases%20%C2%B7%2011%20asignaturas-b45309?style=for-the-badge)](docs/3-basico/README.md)
@@ -583,7 +585,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 ## ✅ Calidad y CI
 
-Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 62 pruebas, compila los scripts, revisa UTF-8 y comprueba la regeneración limpia. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
+Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 62 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 49 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
 
 Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages](.github/workflows/pages.yml) y [Seguridad](.github/workflows/security.yml). Usan permisos mínimos y acciones fijadas por SHA. Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
 
