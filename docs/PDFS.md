@@ -19,7 +19,7 @@ Cada portada y sus metadatos muestran el corte documental tomado de la primera e
 | Documento docente | Descarga |
 |---|---|
 | Evaluaciones complementarias - guía docente | [Descargar PDF](../output/pdf/evaluaciones-complementarias.pdf) |
-| Ensayos originales de ejemplo | [Descargar PDF](../output/pdf/ensayos-ejemplo.pdf) |
+| Muestras calculables y estado de cobertura | [Descargar PDF](../output/pdf/ensayos-ejemplo.pdf) |
 
 ## PDF por nivel
 

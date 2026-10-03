@@ -2,7 +2,7 @@
 
 Esta es la entrada Markdown para docentes. Reúne evaluaciones nacionales censales y muestrales, acceso a educación superior, herramientas diagnósticas, estudios internacionales y evaluación interna sin tratarlos como equivalentes.
 
-[Informe de brechas previo](COMPETENCY_GAP_REPORT.md) · [Estado actual de brechas](INFORME_BRECHAS_ACTUAL.md) · [Ensayos de ejemplo](ENSAYOS_EJEMPLO.md) · [Estado del prompt maestro](ESTADO_PROMPT_MAESTRO.md)
+[Índice de las 13 guías individuales](evaluaciones/README.md) · [Informe de brechas previo](COMPETENCY_GAP_REPORT.md) · [Estado actual de brechas](INFORME_BRECHAS_ACTUAL.md) · [Muestras y cobertura](ENSAYOS_EJEMPLO.md) · [Estado de implementación](ESTADO_IMPLEMENTACION.md)
 
 ## Cómo se conectan
 
@@ -15,6 +15,8 @@ Los JSON son fuentes internas de validación. La lectura docente está en este d
 La lectura aparece, con propósitos y poblaciones distintas, en Impulso Lector, Estudios Nacionales, PAES Competencia Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE. Cada sección enlaza los OA y clases ya existentes; no se crea un curso genérico paralelo.
 
 ## PAES · Prueba de Acceso a la Educación Superior
+
+[Abrir la guía individual completa](evaluaciones/paes.md)
 
 **Tipo:** Acceso a la educación superior.
 
@@ -34,7 +36,7 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 **Para qué sirve:** Observar competencias necesarias para postular al sistema de acceso centralizado; no reemplaza el currículo escolar.
 
-**Estado en el proyecto:** Modelado con correspondencias, tareas y miniensayos originales.
+**Estado en el proyecto:** Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente.
 
 ### Historia y versiones anteriores
 
@@ -58,7 +60,8 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 1. Competencia Lectora y Competencia Matemática 1 son pruebas obligatorias para la postulación centralizada.
 2. Ciencias e Historia y Ciencias Sociales son electivas; M2 se exige en carreras que declaran una demanda matemática adicional.
 3. Los temarios delimitan conocimientos y habilidades por proceso; una preparación responsable parte de la trayectoria escolar, no de trucos aislados.
-4. La transformación desde respuestas correctas a puntaje depende de tablas oficiales de cada aplicación y forma.
+4. Los OA anteriores al rango declarado por un temario pueden funcionar como prerrequisitos pedagógicos, pero no deben presentarse por eso como contenido evaluado directamente en la PAES.
+5. La transformación desde respuestas correctas a puntaje depende de tablas oficiales de cada aplicación y forma.
 
 ### Qué resultados entrega y qué no permite concluir
 
@@ -77,7 +80,7 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 1. Usar el temario vigente para reconocer demandas y regresar a los OA que construyen esas habilidades durante la escolaridad.
 2. Practicar transferencia con textos, problemas y fuentes nuevos, conservando explicación y justificación.
-3. Registrar patrones en varias tareas antes de decidir una intervención; no convertir un miniensayo en predictor de admisión.
+3. Registrar patrones en varias tareas antes de decidir una intervención; no convertir una muestra breve en predictor de admisión.
 
 ### Documentos y fuentes institucionales
 
@@ -90,11 +93,11 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 | Variante | Nivel o población | Contenido y desempeño | OA y clases de referencia |
 |---|---|---|---|
-| [Competencia Lectora](ENSAYOS_EJEMPLO.md#competencia-lectora) | Egreso y 4° medio | Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión. | [LE1M OA 09 · Evaluación de textos argumentativos](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) / [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) |
-| [Competencia Matemática 1 (M1)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-1-m1) | Egreso y 4° medio | Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión. | [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) / [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) |
-| [Competencia Matemática 2 (M2)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-2-m2) | Egreso y 4° medio | Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión. | [FG-MATE-3M-OAC-02 · Incerteza, dispersión y probabilidad condicional](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) / [FG-MATE-3M-OAC-03 · Modelos exponenciales y logarítmicos](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389) |
-| [Ciencias](ENSAYOS_EJEMPLO.md#ciencias) | Egreso y 4° medio | Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada. | [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) / [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) |
-| [Historia y Ciencias Sociales](ENSAYOS_EJEMPLO.md#historia-y-ciencias-sociales) | Egreso y 4° medio | Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional. | [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) / [FG-LELI-4M-OAC-03 · Evaluación crítica de discursos no literarios e ideologías](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806) |
+| [Competencia Lectora](ENSAYOS_EJEMPLO.md#competencia-lectora) | Trayectoria escolar hasta el egreso | Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión. | [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) / [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) / [LE08 OA 09 · Analizar y evaluar textos con finalidad argumentativa como columnas de opinión, cartas y discursos,…](../curriculum/8-basico/lengua-literatura/le08-oa-09.md#cl-09172) / [LE1M OA 09 · Evaluación de textos argumentativos](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) / [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) |
+| [Competencia Matemática 1 (M1)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-1-m1) | Trayectoria escolar hasta el egreso | Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión. | [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) / [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) / [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) / [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) / [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) |
+| [Competencia Matemática 2 (M2)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-2-m2) | Trayectoria escolar hasta el egreso | Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión. | [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) / [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) / [MA1M OA 03 · Productos notables y completación de cuadrados](../curriculum/1-medio/matematica/ma1m-oa-03.md#cl-10525) / [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) / [FG-MATE-3M-OAC-02 · Incerteza, dispersión y probabilidad condicional](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) / [FG-MATE-3M-OAC-03 · Modelos exponenciales y logarítmicos](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389) |
+| [Ciencias](ENSAYOS_EJEMPLO.md#ciencias) | Trayectoria escolar hasta el egreso | Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada. | [CN04 OA 11 · Medición de masa, volumen y temperatura](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) / [CN06 OA 08 · Que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) / [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) / [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) / [CN1M OA 05 · Factores que regulan poblaciones y consecuencias ecosistémicas](../curriculum/1-medio/ciencias-naturales/cn1m-oa-05.md#cl-09711) / [CN2M OA 06 · Mitosis, meiosis y alteraciones de la división celular](../curriculum/2-medio/ciencias-naturales/cn2m-oa-06.md#cl-10925) |
+| [Historia y Ciencias Sociales](ENSAYOS_EJEMPLO.md#historia-y-ciencias-sociales) | Trayectoria escolar hasta el egreso | Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional. | [HI04 OA 18 · Opinión y argumentación histórica y ciudadana](../curriculum/4-basico/historia-geografia-ciencias-sociales/hi04-oa-18.md#cl-03574) / [HI06 OA 25 · Evaluar posibles soluciones frente a un problema o proyecto y justificar su elección](../curriculum/6-basico/historia-geografia-ciencias-sociales/hi06-oa-25.md#cl-06153) / [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) / [HI1M OA 25 · Industrialización, ambiente y desarrollo sostenible](../curriculum/1-medio/historia-geografia-ciencias-sociales/hi1m-oa-25.md#cl-10066) / [HI2M OA 15 · Interpretaciones historiográficas del golpe de 1973](../curriculum/2-medio/historia-geografia-ciencias-sociales/hi2m-oa-15.md#cl-11214) / [FG-LELI-4M-OAC-03 · Evaluación crítica de discursos no literarios e ideologías](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806) |
 
 > Las referencias a OA son correspondencias pedagógicas del proyecto. No son tablas oficiales de equivalencia.
 
@@ -104,9 +107,12 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 **Contenido y desempeño:** Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión.
 
-1. **Preparar:** [LE1M OA 09 · Evaluación de textos argumentativos](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) — 1° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-3. **Comprobar:** [Competencia Lectora](ENSAYOS_EJEMPLO.md#competencia-lectora) en una situación original.
+1. **Antecedente:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+3. **Consolidar o transferir:** [LE08 OA 09 · Analizar y evaluar textos con finalidad argumentativa como columnas de opinión, cartas y discursos,…](../curriculum/8-basico/lengua-literatura/le08-oa-09.md#cl-09172) — 8° básico, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+4. **Consolidar o transferir:** [LE1M OA 09 · Evaluación de textos argumentativos](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) — 1° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+5. **Consolidar o transferir:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Competencia Lectora](ENSAYOS_EJEMPLO.md#competencia-lectora) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
@@ -116,9 +122,12 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 **Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
 
-1. **Preparar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Competencia Matemática 1 (M1)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-1-m1) en una situación original.
+1. **Antecedente:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+3. **Consolidar o transferir:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+4. **Consolidar o transferir:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+5. **Consolidar o transferir:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Competencia Matemática 1 (M1)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-1-m1) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
@@ -128,9 +137,13 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 **Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
 
-1. **Preparar:** [FG-MATE-3M-OAC-02 · Incerteza, dispersión y probabilidad condicional](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [FG-MATE-3M-OAC-03 · Modelos exponenciales y logarítmicos](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Competencia Matemática 2 (M2)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-2-m2) en una situación original.
+1. **Antecedente:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+3. **Consolidar o transferir:** [MA1M OA 03 · Productos notables y completación de cuadrados](../curriculum/1-medio/matematica/ma1m-oa-03.md#cl-10525) — 1° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+4. **Consolidar o transferir:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+5. **Consolidar o transferir:** [FG-MATE-3M-OAC-02 · Incerteza, dispersión y probabilidad condicional](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 4 (Conectar y diagnosticar).
+6. **Consolidar o transferir:** [FG-MATE-3M-OAC-03 · Modelos exponenciales y logarítmicos](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Competencia Matemática 2 (M2)](ENSAYOS_EJEMPLO.md#competencia-matem-tica-2-m2) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
@@ -140,9 +153,13 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 **Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
 
-1. **Preparar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Ciencias](ENSAYOS_EJEMPLO.md#ciencias) en una situación original.
+1. **Antecedente:** [CN04 OA 11 · Medición de masa, volumen y temperatura](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [CN06 OA 08 · Que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) — 6° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+3. **Consolidar o transferir:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+4. **Consolidar o transferir:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+5. **Consolidar o transferir:** [CN1M OA 05 · Factores que regulan poblaciones y consecuencias ecosistémicas](../curriculum/1-medio/ciencias-naturales/cn1m-oa-05.md#cl-09711) — 1° medio, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+6. **Consolidar o transferir:** [CN2M OA 06 · Mitosis, meiosis y alteraciones de la división celular](../curriculum/2-medio/ciencias-naturales/cn2m-oa-06.md#cl-10925) — 2° medio, Ciencias Naturales, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Ciencias](ENSAYOS_EJEMPLO.md#ciencias) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
@@ -152,9 +169,13 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 **Contenido y desempeño:** Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional.
 
-1. **Preparar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [FG-LELI-4M-OAC-03 · Evaluación crítica de discursos no literarios e ideologías](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
-3. **Comprobar:** [Historia y Ciencias Sociales](ENSAYOS_EJEMPLO.md#historia-y-ciencias-sociales) en una situación original.
+1. **Antecedente:** [HI04 OA 18 · Opinión y argumentación histórica y ciudadana](../curriculum/4-basico/historia-geografia-ciencias-sociales/hi04-oa-18.md#cl-03574) — 4° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [HI06 OA 25 · Evaluar posibles soluciones frente a un problema o proyecto y justificar su elección](../curriculum/6-basico/historia-geografia-ciencias-sociales/hi06-oa-25.md#cl-06153) — 6° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+3. **Consolidar o transferir:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
+4. **Consolidar o transferir:** [HI1M OA 25 · Industrialización, ambiente y desarrollo sostenible](../curriculum/1-medio/historia-geografia-ciencias-sociales/hi1m-oa-25.md#cl-10066) — 1° medio, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+5. **Consolidar o transferir:** [HI2M OA 15 · Interpretaciones historiográficas del golpe de 1973](../curriculum/2-medio/historia-geografia-ciencias-sociales/hi2m-oa-15.md#cl-11214) — 2° medio, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+6. **Consolidar o transferir:** [FG-LELI-4M-OAC-03 · Evaluación crítica de discursos no literarios e ideologías](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Historia y Ciencias Sociales](ENSAYOS_EJEMPLO.md#historia-y-ciencias-sociales) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
@@ -162,6 +183,8 @@ Fue creada para reemplazar gradualmente el modelo PSU/PDT por instrumentos orien
 
 
 ## SIMCE · Sistema de Medición de la Calidad de la Educación
+
+[Abrir la guía individual completa](evaluaciones/simce.md)
 
 **Tipo:** Evaluación nacional del sistema escolar.
 
@@ -181,7 +204,7 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Para qué sirve:** Conocer resultados educativos de establecimientos respecto del Currículum Nacional y sus contextos.
 
-**Estado en el proyecto:** Modelado con correspondencias, tareas y miniensayos originales.
+**Estado en el proyecto:** Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente.
 
 ### Historia y versiones anteriores
 
@@ -216,7 +239,7 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 **Límites**
 
 - El calendario 2026 documentado aquí no se proyecta automáticamente a años siguientes.
-- Los miniensayos del proyecto no producen niveles de desempeño SIMCE.
+- Las muestras breves del proyecto no producen niveles de desempeño SIMCE.
 - La asociación a dos OA es una puerta de entrada docente, no una cobertura del marco completo.
 
 ### Uso docente responsable
@@ -251,9 +274,9 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE04 OA 06 · Comprensión de textos no literarios](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-06.md#cl-03913) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [4° básico · Lectura](ENSAYOS_EJEMPLO.md#4-b-sico-lectura) en una situación original.
+1. **Antecedente:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE04 OA 06 · Comprensión de textos no literarios](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-06.md#cl-03913) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [4° básico · Lectura](ENSAYOS_EJEMPLO.md#4-b-sico-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -263,9 +286,9 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
 
-1. **Preparar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA04 OA 27 · Lectura crítica de pictogramas y barras](../curriculum/4-basico/matematica/ma04-oa-27.md#cl-04188) — 4° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [4° básico · Matemática](ENSAYOS_EJEMPLO.md#4-b-sico-matem-tica) en una situación original.
+1. **Antecedente:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA04 OA 27 · Lectura crítica de pictogramas y barras](../curriculum/4-basico/matematica/ma04-oa-27.md#cl-04188) — 4° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [4° básico · Matemática](ENSAYOS_EJEMPLO.md#4-b-sico-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
@@ -275,9 +298,9 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
-3. **Comprobar:** [6° básico · Lectura](ENSAYOS_EJEMPLO.md#6-b-sico-lectura) en una situación original.
+1. **Antecedente:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [6° básico · Lectura](ENSAYOS_EJEMPLO.md#6-b-sico-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -287,9 +310,9 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
 
-1. **Preparar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA06 OA 24 · Gráficos de barra doble y circulares](../curriculum/6-basico/matematica/ma06-oa-24.md#cl-06898) — 6° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [6° básico · Matemática](ENSAYOS_EJEMPLO.md#6-b-sico-matem-tica) en una situación original.
+1. **Antecedente:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA06 OA 24 · Gráficos de barra doble y circulares](../curriculum/6-basico/matematica/ma06-oa-24.md#cl-06898) — 6° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [6° básico · Matemática](ENSAYOS_EJEMPLO.md#6-b-sico-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
@@ -299,9 +322,9 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Contenido y desempeño:** Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión.
 
-1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE2M OA 10 · Medios, persuasión y recursos multimodales](../curriculum/2-medio/lengua-literatura/le2m-oa-10.md#cl-11603) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-3. **Comprobar:** [II medio · Lectura](ENSAYOS_EJEMPLO.md#ii-medio-lectura) en una situación original.
+1. **Antecedente:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE2M OA 10 · Medios, persuasión y recursos multimodales](../curriculum/2-medio/lengua-literatura/le2m-oa-10.md#cl-11603) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [II medio · Lectura](ENSAYOS_EJEMPLO.md#ii-medio-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
@@ -311,9 +334,9 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 **Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
 
-1. **Preparar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [II medio · Matemática](ENSAYOS_EJEMPLO.md#ii-medio-matem-tica) en una situación original.
+1. **Antecedente:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [II medio · Matemática](ENSAYOS_EJEMPLO.md#ii-medio-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
@@ -321,6 +344,8 @@ Busca entregar evidencia comparable sobre resultados educativos para orientar de
 
 
 ## DIA · Diagnóstico Integral de Aprendizajes
+
+[Abrir la guía individual completa](evaluaciones/dia.md)
 
 **Tipo:** Herramienta nacional voluntaria de uso interno.
 
@@ -405,9 +430,9 @@ Permite que equipos docentes y directivos cuenten con información oportuna para
 
 **Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
 
-1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Periodo de Diagnóstico](ENSAYOS_EJEMPLO.md#periodo-de-diagn-stico) en una situación original.
+1. **Antecedente:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Periodo de Diagnóstico](ENSAYOS_EJEMPLO.md#periodo-de-diagn-stico) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
@@ -417,9 +442,9 @@ Permite que equipos docentes y directivos cuenten con información oportuna para
 
 **Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
 
-1. **Preparar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Monitoreo Intermedio](ENSAYOS_EJEMPLO.md#monitoreo-intermedio) en una situación original.
+1. **Antecedente:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Monitoreo Intermedio](ENSAYOS_EJEMPLO.md#monitoreo-intermedio) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
@@ -429,9 +454,9 @@ Permite que equipos docentes y directivos cuenten con información oportuna para
 
 **Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
 
-1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Evaluación de Cierre](ENSAYOS_EJEMPLO.md#evaluaci-n-de-cierre) en una situación original.
+1. **Antecedente:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Evaluación de Cierre](ENSAYOS_EJEMPLO.md#evaluaci-n-de-cierre) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
@@ -439,6 +464,8 @@ Permite que equipos docentes y directivos cuenten con información oportuna para
 
 
 ## PISA · Programme for International Student Assessment
+
+[Abrir la guía individual completa](evaluaciones/pisa.md)
 
 **Tipo:** Estudio internacional.
 
@@ -458,7 +485,7 @@ Fue diseñado para producir indicadores comparables sobre la preparación de qui
 
 **Para qué sirve:** Observar cómo se aplican conocimientos y habilidades ante problemas y contextos nuevos.
 
-**Estado en el proyecto:** Modelado con correspondencias, tareas y miniensayos originales.
+**Estado en el proyecto:** Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente.
 
 ### Historia y versiones anteriores
 
@@ -524,9 +551,9 @@ Fue diseñado para producir indicadores comparables sobre la preparación de qui
 
 **Contenido y desempeño:** Identificar afirmación, evaluar evidencia, reconocer límites de una fuente y justificar una conclusión.
 
-1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE2M OA 10 · Medios, persuasión y recursos multimodales](../curriculum/2-medio/lengua-literatura/le2m-oa-10.md#cl-11603) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-3. **Comprobar:** [Lectura](ENSAYOS_EJEMPLO.md#lectura) en una situación original.
+1. **Antecedente:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE2M OA 10 · Medios, persuasión y recursos multimodales](../curriculum/2-medio/lengua-literatura/le2m-oa-10.md#cl-11603) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Lectura](ENSAYOS_EJEMPLO.md#lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar lectura literal, inferencia no sustentada y evaluación de la calidad de la evidencia.
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
@@ -536,9 +563,9 @@ Fue diseñado para producir indicadores comparables sobre la preparación de qui
 
 **Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
 
-1. **Preparar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Matemática](ENSAYOS_EJEMPLO.md#matem-tica) en una situación original.
+1. **Antecedente:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Matemática](ENSAYOS_EJEMPLO.md#matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
@@ -548,9 +575,9 @@ Fue diseñado para producir indicadores comparables sobre la preparación de qui
 
 **Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
 
-1. **Preparar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Ciencias](ENSAYOS_EJEMPLO.md#ciencias) en una situación original.
+1. **Antecedente:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Ciencias](ENSAYOS_EJEMPLO.md#ciencias) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
@@ -560,9 +587,9 @@ Fue diseñado para producir indicadores comparables sobre la preparación de qui
 
 **Contenido y desempeño:** Buscar, verificar procedencia y fecha, contrastar fuentes, transformar información y comunicar responsablemente.
 
-1. **Preparar:** [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](../curriculum/8-basico/tecnologia/te08-oa-02.md#cl-09590) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [TE08 OA 04 · Comunicación ética del proceso tecnológico](../curriculum/8-basico/tecnologia/te08-oa-04.md#cl-09600) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Aprendizaje en el mundo digital](ENSAYOS_EJEMPLO.md#aprendizaje-en-el-mundo-digital) en una situación original.
+1. **Antecedente:** [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](../curriculum/8-basico/tecnologia/te08-oa-02.md#cl-09590) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [TE08 OA 04 · Comunicación ética del proceso tecnológico](../curriculum/8-basico/tecnologia/te08-oa-04.md#cl-09600) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Aprendizaje en el mundo digital](ENSAYOS_EJEMPLO.md#aprendizaje-en-el-mundo-digital) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
@@ -570,6 +597,8 @@ Fue diseñado para producir indicadores comparables sobre la preparación de qui
 
 
 ## TIMSS · Trends in International Mathematics and Science Study
+
+[Abrir la guía individual completa](evaluaciones/timss.md)
 
 **Tipo:** Estudio internacional.
 
@@ -589,7 +618,7 @@ Permite seguir resultados y contextos de enseñanza en dos momentos de la trayec
 
 **Para qué sirve:** Comparar desempeños en dominios de contenido y procesos de conocer, aplicar y razonar.
 
-**Estado en el proyecto:** Modelado con correspondencias, tareas y miniensayos originales.
+**Estado en el proyecto:** Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente.
 
 ### Historia y versiones anteriores
 
@@ -654,9 +683,9 @@ Permite seguir resultados y contextos de enseñanza en dos momentos de la trayec
 
 **Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
 
-1. **Preparar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA04 OA 27 · Lectura crítica de pictogramas y barras](../curriculum/4-basico/matematica/ma04-oa-27.md#cl-04188) — 4° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [4° grado · Matemática](ENSAYOS_EJEMPLO.md#4-grado-matem-tica) en una situación original.
+1. **Antecedente:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA04 OA 27 · Lectura crítica de pictogramas y barras](../curriculum/4-basico/matematica/ma04-oa-27.md#cl-04188) — 4° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [4° grado · Matemática](ENSAYOS_EJEMPLO.md#4-grado-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
@@ -666,9 +695,9 @@ Permite seguir resultados y contextos de enseñanza en dos momentos de la trayec
 
 **Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
 
-1. **Preparar:** [CN04 OA 01 · Ecosistemas: componentes e interacciones](../curriculum/4-basico/ciencias-naturales/cn04-oa-01.md#cl-03296) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [CN04 OA 11 · Medición de masa, volumen y temperatura](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [4° grado · Ciencias](ENSAYOS_EJEMPLO.md#4-grado-ciencias) en una situación original.
+1. **Antecedente:** [CN04 OA 01 · Ecosistemas: componentes e interacciones](../curriculum/4-basico/ciencias-naturales/cn04-oa-01.md#cl-03296) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [CN04 OA 11 · Medición de masa, volumen y temperatura](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [4° grado · Ciencias](ENSAYOS_EJEMPLO.md#4-grado-ciencias) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
@@ -678,9 +707,9 @@ Permite seguir resultados y contextos de enseñanza en dos momentos de la trayec
 
 **Contenido y desempeño:** Traducir una situación a una representación, modelar, calcular, comparar y justificar la decisión.
 
-1. **Preparar:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA08 OA 16 · Evaluación crítica de gráficos](../curriculum/8-basico/matematica/ma08-oa-16.md#cl-09378) — 8° básico, Matemática, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [8° grado · Matemática](ENSAYOS_EJEMPLO.md#8-grado-matem-tica) en una situación original.
+1. **Antecedente:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA08 OA 16 · Evaluación crítica de gráficos](../curriculum/8-basico/matematica/ma08-oa-16.md#cl-09378) — 8° básico, Matemática, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [8° grado · Matemática](ENSAYOS_EJEMPLO.md#8-grado-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir un error de modelación de un error algebraico o de interpretación de unidades.
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
@@ -690,9 +719,9 @@ Permite seguir resultados y contextos de enseñanza en dos momentos de la trayec
 
 **Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
 
-1. **Preparar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [8° grado · Ciencias](ENSAYOS_EJEMPLO.md#8-grado-ciencias) en una situación original.
+1. **Antecedente:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [8° grado · Ciencias](ENSAYOS_EJEMPLO.md#8-grado-ciencias) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
@@ -700,6 +729,8 @@ Permite seguir resultados y contextos de enseñanza en dos momentos de la trayec
 
 
 ## PIRLS · Progress in International Reading Literacy Study
+
+[Abrir la guía individual completa](evaluaciones/pirls.md)
 
 **Tipo:** Estudio internacional de lectura.
 
@@ -719,7 +750,7 @@ Permite observar tendencias de lectura, propósitos de lectura, procesos de comp
 
 **Para qué sirve:** Observar comprensión de textos literarios e informativos y factores de contexto.
 
-**Estado en el proyecto:** Modelado con correspondencias, tareas y miniensayos originales.
+**Estado en el proyecto:** Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente.
 
 ### Historia y versiones anteriores
 
@@ -782,9 +813,9 @@ Permite observar tendencias de lectura, propósitos de lectura, procesos de comp
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE04 OA 05 · Comprensión de poemas y lenguaje figurado](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-05.md#cl-03907) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [Experiencia literaria](ENSAYOS_EJEMPLO.md#experiencia-literaria) en una situación original.
+1. **Antecedente:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE04 OA 05 · Comprensión de poemas y lenguaje figurado](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-05.md#cl-03907) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Experiencia literaria](ENSAYOS_EJEMPLO.md#experiencia-literaria) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -794,9 +825,9 @@ Permite observar tendencias de lectura, propósitos de lectura, procesos de comp
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE04 OA 06 · Comprensión de textos no literarios](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-06.md#cl-03913) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE04 OA 09 · Búsqueda de información para investigar](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-09.md#cl-03930) — 4° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Adquirir y usar información](ENSAYOS_EJEMPLO.md#adquirir-y-usar-informaci-n) en una situación original.
+1. **Antecedente:** [LE04 OA 06 · Comprensión de textos no literarios](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-06.md#cl-03913) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE04 OA 09 · Búsqueda de información para investigar](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-09.md#cl-03930) — 4° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Adquirir y usar información](ENSAYOS_EJEMPLO.md#adquirir-y-usar-informaci-n) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -804,6 +835,8 @@ Permite observar tendencias de lectura, propósitos de lectura, procesos de comp
 
 
 ## ERCE · Estudio Regional Comparativo y Explicativo
+
+[Abrir la guía individual completa](evaluaciones/erce.md)
 
 **Tipo:** Estudio regional latinoamericano.
 
@@ -823,7 +856,7 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Para qué sirve:** Comparar logros y factores asociados en América Latina y el Caribe.
 
-**Estado en el proyecto:** Explicado, conectado a OA de referencia y cubierto con miniensayos originales; mapeo de competencias aún parcial.
+**Estado en el proyecto:** Explicado, conectado a OA de referencia y acompañado por muestras breves; cobertura y mapeo aún parciales.
 
 ### Historia y versiones anteriores
 
@@ -892,9 +925,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE03 OA 04 · Comprensión profunda de narraciones](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-04.md#cl-02724) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE03 OA 06 · Comprensión de textos no literarios](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-06.md#cl-02735) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [3° básico · Lectura](ENSAYOS_EJEMPLO.md#3-b-sico-lectura) en una situación original.
+1. **Antecedente:** [LE03 OA 04 · Comprensión profunda de narraciones](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-04.md#cl-02724) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE03 OA 06 · Comprensión de textos no literarios](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-06.md#cl-02735) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [3° básico · Lectura](ENSAYOS_EJEMPLO.md#3-b-sico-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -904,9 +937,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Planificar, organizar, desarrollar ideas, usar evidencia, revisar coherencia y comunicar para una audiencia.
 
-1. **Preparar:** [LE03 OA 14 · Artículos informativos en párrafos](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-14.md#cl-02773) — 3° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE03 OA 18 · Revisión y edición con propósito](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-18.md#cl-02792) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [3° básico · Escritura](ENSAYOS_EJEMPLO.md#3-b-sico-escritura) en una situación original.
+1. **Antecedente:** [LE03 OA 14 · Artículos informativos en párrafos](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-14.md#cl-02773) — 3° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE03 OA 18 · Revisión y edición con propósito](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-18.md#cl-02792) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [3° básico · Escritura](ENSAYOS_EJEMPLO.md#3-b-sico-escritura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
@@ -916,9 +949,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
 
-1. **Preparar:** [MA03 OA 10 · Problemas con dinero y cuatro operaciones](../curriculum/3-basico/matematica/ma03-oa-10.md#cl-02933) — 3° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA03 OA 23 · Encuestas, tablas y gráficos de barra](../curriculum/3-basico/matematica/ma03-oa-23.md#cl-02988) — 3° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [3° básico · Matemática](ENSAYOS_EJEMPLO.md#3-b-sico-matem-tica) en una situación original.
+1. **Antecedente:** [MA03 OA 10 · Problemas con dinero y cuatro operaciones](../curriculum/3-basico/matematica/ma03-oa-10.md#cl-02933) — 3° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA03 OA 23 · Encuestas, tablas y gráficos de barra](../curriculum/3-basico/matematica/ma03-oa-23.md#cl-02988) — 3° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [3° básico · Matemática](ENSAYOS_EJEMPLO.md#3-b-sico-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
@@ -928,9 +961,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
-3. **Comprobar:** [6° básico · Lectura](ENSAYOS_EJEMPLO.md#6-b-sico-lectura) en una situación original.
+1. **Antecedente:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [6° básico · Lectura](ENSAYOS_EJEMPLO.md#6-b-sico-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -940,9 +973,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Planificar, organizar, desarrollar ideas, usar evidencia, revisar coherencia y comunicar para una audiencia.
 
-1. **Preparar:** [LE06 OA 15 · Escribir artículos informativos para comunicar información sobre un tema](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-15.md#cl-06681) — 6° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE06 OA 18 · Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad. durante este](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-18.md#cl-06696) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [6° básico · Escritura](ENSAYOS_EJEMPLO.md#6-b-sico-escritura) en una situación original.
+1. **Antecedente:** [LE06 OA 15 · Escribir artículos informativos para comunicar información sobre un tema](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-15.md#cl-06681) — 6° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE06 OA 18 · Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad. durante este](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-18.md#cl-06696) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [6° básico · Escritura](ENSAYOS_EJEMPLO.md#6-b-sico-escritura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
@@ -952,9 +985,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Comprender la situación, elegir operaciones, representar cantidades, calcular y comprobar.
 
-1. **Preparar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA06 OA 24 · Gráficos de barra doble y circulares](../curriculum/6-basico/matematica/ma06-oa-24.md#cl-06898) — 6° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [6° básico · Matemática](ENSAYOS_EJEMPLO.md#6-b-sico-matem-tica) en una situación original.
+1. **Antecedente:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA06 OA 24 · Gráficos de barra doble y circulares](../curriculum/6-basico/matematica/ma06-oa-24.md#cl-06898) — 6° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [6° básico · Matemática](ENSAYOS_EJEMPLO.md#6-b-sico-matem-tica) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Registrar por separado comprensión del problema, estrategia, cálculo e interpretación del resultado.
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
@@ -964,9 +997,9 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 **Contenido y desempeño:** Identificar variables, interpretar datos, construir una conclusión acotada y proponer una investigación controlada.
 
-1. **Preparar:** [CN06 OA 01 · Explicar, a partir de una investigación experimental, los requerimientos de agua, dióxido de carbono y energía lumínica para](../curriculum/6-basico/ciencias-naturales/cn06-oa-01.md#cl-05833) — 6° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [CN06 OA 08 · Que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) — 6° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [6° básico · Ciencias](ENSAYOS_EJEMPLO.md#6-b-sico-ciencias) en una situación original.
+1. **Antecedente:** [CN06 OA 01 · Explicar, a partir de una investigación experimental, los requerimientos de agua, dióxido de carbono y energía lumínica para](../curriculum/6-basico/ciencias-naturales/cn06-oa-01.md#cl-05833) — 6° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [CN06 OA 08 · Que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) — 6° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [6° básico · Ciencias](ENSAYOS_EJEMPLO.md#6-b-sico-ciencias) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dato, patrón, explicación y generalización que excede la evidencia.
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
@@ -974,6 +1007,8 @@ Responde a la necesidad regional de evidencia comparable y pertinente para compr
 
 
 ## ICILS · International Computer and Information Literacy Study
+
+[Abrir la guía individual completa](evaluaciones/icils.md)
 
 **Tipo:** Estudio internacional de alfabetización digital.
 
@@ -993,7 +1028,7 @@ Fue creado ante la necesidad de saber si los jóvenes pueden investigar, crear, 
 
 **Para qué sirve:** Observar búsqueda, evaluación, transformación, creación y comunicación de información con computadores.
 
-**Estado en el proyecto:** Explicado, conectado a OA de referencia y cubierto con miniensayo original; mapeo de competencias aún parcial.
+**Estado en el proyecto:** Explicado, conectado a OA de referencia y acompañado por una muestra breve; cobertura y mapeo aún parciales.
 
 ### Historia y versiones anteriores
 
@@ -1025,7 +1060,7 @@ Fue creado ante la necesidad de saber si los jóvenes pueden investigar, crear, 
 **Límites**
 
 - Los OA de Tecnología enlazados son una referencia parcial y no una equivalencia oficial ICILS.
-- El miniensayo textual no reproduce la interacción digital completa del estudio.
+- La muestra textual no reproduce la interacción digital completa del estudio.
 - Alfabetización digital no se infiere por frecuencia de uso de dispositivos.
 
 ### Uso docente responsable
@@ -1054,9 +1089,9 @@ Fue creado ante la necesidad de saber si los jóvenes pueden investigar, crear, 
 
 **Contenido y desempeño:** Buscar, verificar procedencia y fecha, contrastar fuentes, transformar información y comunicar responsablemente.
 
-1. **Preparar:** [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](../curriculum/8-basico/tecnologia/te08-oa-02.md#cl-09590) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [TE08 OA 04 · Comunicación ética del proceso tecnológico](../curriculum/8-basico/tecnologia/te08-oa-04.md#cl-09600) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Alfabetización computacional e informacional](ENSAYOS_EJEMPLO.md#alfabetizaci-n-computacional-e-informacional) en una situación original.
+1. **Antecedente:** [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](../curriculum/8-basico/tecnologia/te08-oa-02.md#cl-09590) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [TE08 OA 04 · Comunicación ética del proceso tecnológico](../curriculum/8-basico/tecnologia/te08-oa-04.md#cl-09600) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Alfabetización computacional e informacional](ENSAYOS_EJEMPLO.md#alfabetizaci-n-computacional-e-informacional) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
@@ -1066,9 +1101,9 @@ Fue creado ante la necesidad de saber si los jóvenes pueden investigar, crear, 
 
 **Contenido y desempeño:** Buscar, verificar procedencia y fecha, contrastar fuentes, transformar información y comunicar responsablemente.
 
-1. **Preparar:** [TE08 OA 01 · Oportunidades locales para crear productos tecnológicos](../curriculum/8-basico/tecnologia/te08-oa-01.md#cl-09586) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [TE08 OA 03 · Evaluación técnica y mejora de productos](../curriculum/8-basico/tecnologia/te08-oa-03.md#cl-09595) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Pensamiento computacional · referencia](ENSAYOS_EJEMPLO.md#pensamiento-computacional-referencia) en una situación original.
+1. **Antecedente:** [TE08 OA 01 · Oportunidades locales para crear productos tecnológicos](../curriculum/8-basico/tecnologia/te08-oa-01.md#cl-09586) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [TE08 OA 03 · Evaluación técnica y mejora de productos](../curriculum/8-basico/tecnologia/te08-oa-03.md#cl-09595) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Pensamiento computacional · referencia](ENSAYOS_EJEMPLO.md#pensamiento-computacional-referencia) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir dificultad técnica, comprensión del mensaje y evaluación de confiabilidad.
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
@@ -1076,6 +1111,8 @@ Fue creado ante la necesidad de saber si los jóvenes pueden investigar, crear, 
 
 
 ## ICCS · International Civic and Citizenship Education Study
+
+[Abrir la guía individual completa](evaluaciones/iccs.md)
 
 **Tipo:** Estudio internacional de educación cívica.
 
@@ -1095,7 +1132,7 @@ Permite comprender educación cívica y ciudadanía en contextos sociales cambia
 
 **Para qué sirve:** Observar preparación para la ciudadanía, conocimientos, razonamiento, actitudes y participación.
 
-**Estado en el proyecto:** Explicado, conectado a OA de referencia y cubierto con miniensayo original; mapeo de competencias aún parcial.
+**Estado en el proyecto:** Explicado, conectado a OA de referencia y acompañado por una muestra breve; cobertura y mapeo aún parciales.
 
 ### Historia y versiones anteriores
 
@@ -1157,9 +1194,9 @@ Permite comprender educación cívica y ciudadanía en contextos sociales cambia
 
 **Contenido y desempeño:** Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional.
 
-1. **Preparar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [HI08 OA 22 · Desarrollo regional y sustentabilidad](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-22.md#cl-08803) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [Educación cívica y ciudadanía](ENSAYOS_EJEMPLO.md#educaci-n-c-vica-y-ciudadan-a) en una situación original.
+1. **Antecedente:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [HI08 OA 22 · Desarrollo regional y sustentabilidad](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-22.md#cl-08803) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Educación cívica y ciudadanía](ENSAYOS_EJEMPLO.md#educaci-n-c-vica-y-ciudadan-a) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
@@ -1167,6 +1204,8 @@ Permite comprender educación cívica y ciudadanía en contextos sociales cambia
 
 
 ## ECES · Early Childhood Education Study
+
+[Abrir la guía individual completa](evaluaciones/eces.md)
 
 **Tipo:** Estudio internacional de educación parvularia.
 
@@ -1206,7 +1245,7 @@ Busca comprender fortalezas y debilidades de los sistemas de educación parvular
 1. Recoge información mediante cuestionarios y revisión de políticas nacionales.
 2. Analiza políticas, modelos de provisión, participación y matrícula, promoción de calidad y expectativas de resultados.
 3. La unidad de análisis principal es el sistema de educación inicial, no el desempeño de un estudiante.
-4. No corresponde producir un miniensayo escolar ECES ni calcular puntajes de aprendizaje.
+4. No corresponde producir una muestra escolar ECES ni calcular puntajes de aprendizaje.
 
 ### Qué resultados entrega y qué no permite concluir
 
@@ -1243,6 +1282,8 @@ Busca comprender fortalezas y debilidades de los sistemas de educación parvular
 ECES queda fuera del tramo 1° básico–4° medio: se explica como estudio de sistemas y no se fuerza una ruta a OA escolares.
 
 ## Impulso Lector · Evaluación Impulso Lector
+
+[Abrir la guía individual completa](evaluaciones/impulso-lector.md)
 
 **Tipo:** Evaluación nacional censal de lectura inicial.
 
@@ -1327,9 +1368,9 @@ Busca entregar información temprana sobre habilidades fundamentales de lectura 
 
 **Contenido y desempeño:** Reconocer y manipular sonidos del habla, relacionarlos con palabras y explicar una comprobación sin confundir rapidez con aprendizaje.
 
-1. **Preparar:** [LE01 OA 03 · Conciencia fonológica: reconocer, separar y combinar rimas, sílabas y fonemas](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-03.md#cl-00596) — 1° básico, Lenguaje y Comunicación, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE01 OA 04 · Lectura de palabras mediante correspondencias letra-sonido y combinaciones silábicas](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-04.md#cl-00600) — 1° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Precursores de la lectura](ENSAYOS_EJEMPLO.md#precursores-de-la-lectura) en una situación original.
+1. **Antecedente:** [LE01 OA 03 · Conciencia fonológica: reconocer, separar y combinar rimas, sílabas y fonemas](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-03.md#cl-00596) — 1° básico, Lenguaje y Comunicación, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE01 OA 04 · Lectura de palabras mediante correspondencias letra-sonido y combinaciones silábicas](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-04.md#cl-00600) — 1° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Precursores de la lectura](ENSAYOS_EJEMPLO.md#precursores-de-la-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar conciencia fonológica, conocimiento de letras, decodificación y comprensión; registrar el tipo de apoyo necesario.
 - **Si aparece dificultad:** Volver a actividades orales y visuales breves de la clase enlazada, modelar el sonido objetivo y retirar gradualmente el apoyo.
@@ -1339,9 +1380,9 @@ Busca entregar información temprana sobre habilidades fundamentales de lectura 
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE02 OA 03 · Estrategias para comprender mientras se lee](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-03.md#cl-01639) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE02 OA 05 · Comprensión profunda de narraciones](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-05.md#cl-01649) — 2° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [Comprensión de lectura](ENSAYOS_EJEMPLO.md#comprensi-n-de-lectura) en una situación original.
+1. **Antecedente:** [LE02 OA 03 · Estrategias para comprender mientras se lee](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-03.md#cl-01639) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE02 OA 05 · Comprensión profunda de narraciones](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-05.md#cl-01649) — 2° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Comprensión de lectura](ENSAYOS_EJEMPLO.md#comprensi-n-de-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -1351,9 +1392,9 @@ Busca entregar información temprana sobre habilidades fundamentales de lectura 
 
 **Contenido y desempeño:** Leer un texto breve en voz alta con precisión, continuidad, pausas y expresión al servicio de la comprensión.
 
-1. **Preparar:** [LE01 OA 05 · Lectura oral precisa, autocorrección y respeto de puntos](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-05.md#cl-00605) — 1° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE02 OA 02 · Fluidez al leer en voz alta con sentido](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-02.md#cl-01634) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Fluidez lectora](ENSAYOS_EJEMPLO.md#fluidez-lectora) en una situación original.
+1. **Antecedente:** [LE01 OA 05 · Lectura oral precisa, autocorrección y respeto de puntos](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-05.md#cl-00605) — 1° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE02 OA 02 · Fluidez al leer en voz alta con sentido](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-02.md#cl-01634) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Fluidez lectora](ENSAYOS_EJEMPLO.md#fluidez-lectora) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Registrar por separado precisión, fraseo, pausas, expresión y comprensión; evitar fijar una velocidad universal como único criterio.
 - **Si aparece dificultad:** Modelar una frase, realizar lectura eco o repetida con propósito y volver al significado del texto, sin exposición pública obligatoria.
@@ -1361,6 +1402,8 @@ Busca entregar información temprana sobre habilidades fundamentales de lectura 
 
 
 ## Estudios nacionales · Estudios Nacionales de aprendizaje
+
+[Abrir la guía individual completa](evaluaciones/estudios-nacionales.md)
 
 **Tipo:** Evaluaciones nacionales muestrales.
 
@@ -1415,7 +1458,7 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 - Los niveles y áreas cambian por plan; esta página no los presenta como calendario anual permanente.
 - Las cinco rutas del proyecto son entradas pedagógicas y no reconstruyen el marco completo de cada estudio.
-- Los miniensayos no producen resultados muestrales nacionales ni escalas oficiales.
+- Las muestras breves no producen resultados muestrales nacionales ni escalas oficiales.
 
 ### Uso docente responsable
 
@@ -1446,9 +1489,9 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 **Contenido y desempeño:** Localizar información, relacionar partes del texto, inferir con evidencia y explicar dónde aparece la pista.
 
-1. **Preparar:** [LE02 OA 03 · Estrategias para comprender mientras se lee](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-03.md#cl-01639) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE02 OA 05 · Comprensión profunda de narraciones](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-05.md#cl-01649) — 2° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [Estudio Nacional de Lectura](ENSAYOS_EJEMPLO.md#estudio-nacional-de-lectura) en una situación original.
+1. **Antecedente:** [LE02 OA 03 · Estrategias para comprender mientras se lee](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-03.md#cl-01639) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE02 OA 05 · Comprensión profunda de narraciones](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-05.md#cl-01649) — 2° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Estudio Nacional de Lectura](ENSAYOS_EJEMPLO.md#estudio-nacional-de-lectura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Distinguir si el error proviene de no localizar un dato, confundir una relación o responder sin evidencia textual.
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
@@ -1458,9 +1501,9 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 **Contenido y desempeño:** Planificar, organizar, desarrollar ideas, usar evidencia, revisar coherencia y comunicar para una audiencia.
 
-1. **Preparar:** [LE06 OA 15 · Escribir artículos informativos para comunicar información sobre un tema](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-15.md#cl-06681) — 6° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE06 OA 18 · Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad. durante este](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-18.md#cl-06696) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [Estudio Nacional de Escritura](ENSAYOS_EJEMPLO.md#estudio-nacional-de-escritura) en una situación original.
+1. **Antecedente:** [LE06 OA 15 · Escribir artículos informativos para comunicar información sobre un tema](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-15.md#cl-06681) — 6° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [LE06 OA 18 · Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad. durante este](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-18.md#cl-06696) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Estudio Nacional de Escritura](ENSAYOS_EJEMPLO.md#estudio-nacional-de-escritura) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
@@ -1470,9 +1513,9 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 **Contenido y desempeño:** Contrastar fuentes, reconocer derechos e intereses, evaluar evidencia y justificar una decisión pública provisional.
 
-1. **Preparar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [HI08 OA 22 · Desarrollo regional y sustentabilidad](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-22.md#cl-08803) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 6 (Conectar y diagnosticar).
-3. **Comprobar:** [Estudio Nacional de Formación Ciudadana](ENSAYOS_EJEMPLO.md#estudio-nacional-de-formaci-n-ciudadana) en una situación original.
+1. **Antecedente:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [HI08 OA 22 · Desarrollo regional y sustentabilidad](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-22.md#cl-08803) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 6 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Estudio Nacional de Formación Ciudadana](ENSAYOS_EJEMPLO.md#estudio-nacional-de-formaci-n-ciudadana) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar conocimiento cívico, uso de fuente y posición personal; no calificar adhesión ideológica.
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
@@ -1482,9 +1525,9 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 **Contenido y desempeño:** Comprender información explícita y propósito en un texto breve en inglés y producir un mensaje funcional comprensible.
 
-1. **Preparar:** [FG-INGL-3M-OAC-01 · Central information and cultural perspectives](../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-01.md#cl-12304) — 3° medio · Formación General, Inglés 3º medio, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [FG-INGL-3M-OAC-02 · Clear texts and respectful critical positions](../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-02.md#cl-12308) — 3° medio · Formación General, Inglés 3º medio, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Estudio Nacional de Inglés](ENSAYOS_EJEMPLO.md#estudio-nacional-de-ingl-s) en una situación original.
+1. **Antecedente:** [FG-INGL-3M-OAC-01 · Central information and cultural perspectives](../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-01.md#cl-12304) — 3° medio · Formación General, Inglés 3º medio, clase 1 de 4 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [FG-INGL-3M-OAC-02 · Clear texts and respectful critical positions](../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-02.md#cl-12308) — 3° medio · Formación General, Inglés 3º medio, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Estudio Nacional de Inglés](ENSAYOS_EJEMPLO.md#estudio-nacional-de-ingl-s) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Separar comprensión del contenido, vocabulario, organización del mensaje e inteligibilidad; no penalizar acento ni una forma emergente que conserva el sentido.
 - **Si aparece dificultad:** Volver a la clase enlazada, modelar cómo localizar detalles y usar un marco breve de mensaje antes de escribir de manera independiente.
@@ -1494,9 +1537,9 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 **Contenido y desempeño:** Planificar, organizar, desarrollar ideas, usar evidencia, revisar coherencia y comunicar para una audiencia.
 
-1. **Preparar:** [FG-LELI-4M-OAC-05 · Producción coherente y cohesionada para análisis, postura y creación](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-05.md#cl-12820) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [FG-MATE-4M-OAC-02 · Decisiones bajo incerteza con modelos binomial y normal](../curriculum/4-medio-fg/matematica-4o-medio/fg-mate-4m-oac-02.md#cl-12851) — 4° medio · Formación General, Matemática 4º medio, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Competencias generales técnico-profesionales · referencia](ENSAYOS_EJEMPLO.md#competencias-generales-t-cnico-profesionales-referencia) en una situación original.
+1. **Antecedente:** [FG-LELI-4M-OAC-05 · Producción coherente y cohesionada para análisis, postura y creación](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-05.md#cl-12820) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [FG-MATE-4M-OAC-02 · Decisiones bajo incerteza con modelos binomial y normal](../curriculum/4-medio-fg/matematica-4o-medio/fg-mate-4m-oac-02.md#cl-12851) — 4° medio · Formación General, Matemática 4º medio, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Competencias generales técnico-profesionales · referencia](ENSAYOS_EJEMPLO.md#competencias-generales-t-cnico-profesionales-referencia) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Analizar el texto por criterios separados; no convertir ortografía en medida total de escritura.
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
@@ -1504,6 +1547,8 @@ Permite monitorear áreas relevantes que requieren evidencia nacional profunda s
 
 
 ## Interna · Evaluación formativa interna del proyecto
+
+[Abrir la guía individual completa](evaluaciones/interna.md)
 
 **Tipo:** Evaluación de aula.
 
@@ -1523,7 +1568,7 @@ Los estudios externos no explican por sí solos qué necesita aprender un estudi
 
 **Para qué sirve:** Observar, retroalimentar, intervenir y reevaluar sin convertir automáticamente la evidencia en nota.
 
-**Estado en el proyecto:** Modelada con ciclo de evidencia y miniensayos originales.
+**Estado en el proyecto:** Modelada con ciclo de evidencia y muestras breves originales; cobertura completa pendiente.
 
 ### Historia y versiones anteriores
 
@@ -1585,9 +1630,9 @@ Los estudios externos no explican por sí solos qué necesita aprender un estudi
 
 **Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
 
-1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Diagnóstico inicial](ENSAYOS_EJEMPLO.md#diagn-stico-inicial) en una situación original.
+1. **Antecedente:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Diagnóstico inicial](ENSAYOS_EJEMPLO.md#diagn-stico-inicial) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
@@ -1597,9 +1642,9 @@ Los estudios externos no explican por sí solos qué necesita aprender un estudi
 
 **Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
 
-1. **Preparar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
-3. **Comprobar:** [Seguimiento de intervención](ENSAYOS_EJEMPLO.md#seguimiento-de-intervenci-n) en una situación original.
+1. **Antecedente:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Seguimiento de intervención](ENSAYOS_EJEMPLO.md#seguimiento-de-intervenci-n) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
@@ -1609,9 +1654,9 @@ Los estudios externos no explican por sí solos qué necesita aprender un estudi
 
 **Contenido y desempeño:** Distinguir observación, patrón, hipótesis, intervención, práctica, reevaluación y decisión.
 
-1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-3. **Comprobar:** [Reevaluación y transferencia](ENSAYOS_EJEMPLO.md#reevaluaci-n-y-transferencia) en una situación original.
+1. **Antecedente:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+2. **Consolidar o transferir:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+**Muestra breve para comprobar un desempeño:** [Reevaluación y transferencia](ENSAYOS_EJEMPLO.md#reevaluaci-n-y-transferencia) en una situación original. No cubre el instrumento completo.
 
 - **Qué observar:** Exigir más de una evidencia antes de formular una hipótesis y conservar literalmente lo que el estudiante hizo.
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
@@ -1620,4 +1665,4 @@ Los estudios externos no explican por sí solos qué necesita aprender un estudi
 
 ## Regla sobre puntajes
 
-Los miniensayos calculan entre 0 y 4 puntos del proyecto con criterios visibles. No se convierten en puntaje PAES, SIMCE, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS o DIA. Las escalas oficiales dependen del diseño y de los procedimientos de cada institución.
+Las muestras breves calculan entre 0 y 4 puntos del proyecto con criterios visibles. No son ensayos completos y no se convierten en puntaje PAES, SIMCE, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS o DIA. Las escalas oficiales dependen del diseño y de los procedimientos de cada institución.

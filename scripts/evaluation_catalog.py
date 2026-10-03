@@ -1,7 +1,7 @@
-"""Catálogo pedagógico visible de evaluaciones y miniensayos originales.
+"""Catálogo pedagógico visible de evaluaciones y muestras breves originales.
 
 Los datos de este módulo alimentan HTML y Markdown. No contienen ítems oficiales ni
-tablas de conversión inventadas: los miniensayos calculan únicamente puntos del
+tablas de conversión inventadas: las muestras calculan únicamente puntos del
 proyecto y siempre conservan el regreso a OA y clases existentes.
 """
 
@@ -15,7 +15,7 @@ INSTRUMENTS = {
         "category": "Acceso a la educación superior",
         "population": "Egresados de enseñanza media y estudiantes de 4° medio en la aplicación regular.",
         "purpose": "Observar competencias necesarias para postular al sistema de acceso centralizado; no reemplaza el currículo escolar.",
-        "status": "Modelado con correspondencias, tareas y miniensayos originales",
+        "status": "Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente",
         "framework_id": "paes-2027",
         "source_url": "https://portaldemre.demre.cl/paes/factores-seleccion/pruebas-acceso-paes",
         "documents": [
@@ -30,7 +30,7 @@ INSTRUMENTS = {
         "category": "Evaluación nacional del sistema escolar",
         "population": "Niveles y áreas definidos por el plan vigente; en 2026, 4° y 6° básico y II medio en Lectura y Matemática.",
         "purpose": "Conocer resultados educativos de establecimientos respecto del Currículum Nacional y sus contextos.",
-        "status": "Modelado con correspondencias, tareas y miniensayos originales",
+        "status": "Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente",
         "framework_id": "simce-2026",
         "source_url": "https://www.agenciaeducacion.cl/evaluar/simce/",
         "documents": [
@@ -59,7 +59,7 @@ INSTRUMENTS = {
         "category": "Estudio internacional",
         "population": "Estudiantes de 15 años de países y economías participantes.",
         "purpose": "Observar cómo se aplican conocimientos y habilidades ante problemas y contextos nuevos.",
-        "status": "Modelado con correspondencias, tareas y miniensayos originales",
+        "status": "Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente",
         "framework_id": "pisa-2025",
         "source_url": "https://www.oecd.org/en/publications/pisa-2025-assessment-and-analytical-framework_86c36975-en.html",
         "documents": [
@@ -73,7 +73,7 @@ INSTRUMENTS = {
         "category": "Estudio internacional",
         "population": "Estudiantes de 4° y 8° grado en Matemática y Ciencias.",
         "purpose": "Comparar desempeños en dominios de contenido y procesos de conocer, aplicar y razonar.",
-        "status": "Modelado con correspondencias, tareas y miniensayos originales",
+        "status": "Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente",
         "framework_id": "timss-2027",
         "source_url": "https://timss2027.org/frameworks/",
         "documents": [
@@ -87,7 +87,7 @@ INSTRUMENTS = {
         "category": "Estudio internacional de lectura",
         "population": "Estudiantes alrededor de 4° básico.",
         "purpose": "Observar comprensión de textos literarios e informativos y factores de contexto.",
-        "status": "Modelado con correspondencias, tareas y miniensayos originales",
+        "status": "Modelado con correspondencias, tareas y muestras breves originales; cobertura completa pendiente",
         "framework_id": "pirls-2026",
         "source_url": "https://www.iea.nl/publications/assessment-framework/pirls-2026-assessment-frameworks",
         "documents": [
@@ -101,7 +101,7 @@ INSTRUMENTS = {
         "category": "Estudio regional latinoamericano",
         "population": "Estudiantes de 3° y 6° básico; Lectura, Escritura y Matemática, además de Ciencias en 6°.",
         "purpose": "Comparar logros y factores asociados en América Latina y el Caribe.",
-        "status": "Explicado, conectado a OA de referencia y cubierto con miniensayos originales; mapeo de competencias aún parcial",
+        "status": "Explicado, conectado a OA de referencia y acompañado por muestras breves; cobertura y mapeo aún parciales",
         "framework_id": None,
         "source_url": "https://www.agenciaeducacion.cl/evaluar/estudios-internacionales/erce/",
         "documents": [("ERCE en Chile · Agencia de Calidad", "https://www.agenciaeducacion.cl/evaluar/estudios-internacionales/erce/")],
@@ -112,7 +112,7 @@ INSTRUMENTS = {
         "category": "Estudio internacional de alfabetización digital",
         "population": "Muestra representativa de estudiantes de 8° básico.",
         "purpose": "Observar búsqueda, evaluación, transformación, creación y comunicación de información con computadores.",
-        "status": "Explicado, conectado a OA de referencia y cubierto con miniensayo original; mapeo de competencias aún parcial",
+        "status": "Explicado, conectado a OA de referencia y acompañado por una muestra breve; cobertura y mapeo aún parciales",
         "framework_id": None,
         "source_url": "https://www.agenciaeducacion.cl/evaluar/estudios-internacionales/icils/",
         "documents": [("ICILS en Chile · Agencia de Calidad", "https://www.agenciaeducacion.cl/evaluar/estudios-internacionales/icils/")],
@@ -123,7 +123,7 @@ INSTRUMENTS = {
         "category": "Estudio internacional de educación cívica",
         "population": "Estudiantes de 8° básico.",
         "purpose": "Observar preparación para la ciudadanía, conocimientos, razonamiento, actitudes y participación.",
-        "status": "Explicado, conectado a OA de referencia y cubierto con miniensayo original; mapeo de competencias aún parcial",
+        "status": "Explicado, conectado a OA de referencia y acompañado por una muestra breve; cobertura y mapeo aún parciales",
         "framework_id": None,
         "source_url": "https://www.agenciaeducacion.cl/evaluar/estudios-internacionales/iccs/",
         "documents": [("ICCS en Chile · Agencia de Calidad", "https://www.agenciaeducacion.cl/evaluar/estudios-internacionales/iccs/")],
@@ -174,7 +174,7 @@ INSTRUMENTS = {
         "category": "Evaluación de aula",
         "population": "Estudiantes de 1° básico a 4° medio en clases y tareas del proyecto.",
         "purpose": "Observar, retroalimentar, intervenir y reevaluar sin convertir automáticamente la evidencia en nota.",
-        "status": "Modelada con ciclo de evidencia y miniensayos originales",
+        "status": "Modelada con ciclo de evidencia y muestras breves originales; cobertura completa pendiente",
         "framework_id": "internal-formative-v1",
         "source_url": "https://github.com/vladimiracunadev-create/chilean-school-learning-path/blob/main/docs/EVALUACION_FORMATIVA.md",
         "documents": [],
@@ -209,6 +209,7 @@ INSTRUMENT_PROFILES = {
             "Competencia Lectora y Competencia Matemática 1 son pruebas obligatorias para la postulación centralizada.",
             "Ciencias e Historia y Ciencias Sociales son electivas; M2 se exige en carreras que declaran una demanda matemática adicional.",
             "Los temarios delimitan conocimientos y habilidades por proceso; una preparación responsable parte de la trayectoria escolar, no de trucos aislados.",
+            "Los OA anteriores al rango declarado por un temario pueden funcionar como prerrequisitos pedagógicos, pero no deben presentarse por eso como contenido evaluado directamente en la PAES.",
             "La transformación desde respuestas correctas a puntaje depende de tablas oficiales de cada aplicación y forma.",
         ],
         "reporting": [
@@ -218,7 +219,7 @@ INSTRUMENT_PROFILES = {
         "classroom_use": [
             "Usar el temario vigente para reconocer demandas y regresar a los OA que construyen esas habilidades durante la escolaridad.",
             "Practicar transferencia con textos, problemas y fuentes nuevos, conservando explicación y justificación.",
-            "Registrar patrones en varias tareas antes de decidir una intervención; no convertir un miniensayo en predictor de admisión.",
+            "Registrar patrones en varias tareas antes de decidir una intervención; no convertir una muestra breve en predictor de admisión.",
         ],
         "boundaries": [
             "Este repositorio no reproduce preguntas protegidas ni declara que sus tareas sean formas oficiales.",
@@ -261,7 +262,7 @@ INSTRUMENT_PROFILES = {
         ],
         "boundaries": [
             "El calendario 2026 documentado aquí no se proyecta automáticamente a años siguientes.",
-            "Los miniensayos del proyecto no producen niveles de desempeño SIMCE.",
+            "Las muestras breves del proyecto no producen niveles de desempeño SIMCE.",
             "La asociación a dos OA es una puerta de entrada docente, no una cobertura del marco completo.",
         ],
     },
@@ -485,7 +486,7 @@ INSTRUMENT_PROFILES = {
         ],
         "boundaries": [
             "Los OA de Tecnología enlazados son una referencia parcial y no una equivalencia oficial ICILS.",
-            "El miniensayo textual no reproduce la interacción digital completa del estudio.",
+            "La muestra textual no reproduce la interacción digital completa del estudio.",
             "Alfabetización digital no se infiere por frecuencia de uso de dispositivos.",
         ],
     },
@@ -546,7 +547,7 @@ INSTRUMENT_PROFILES = {
             "Recoge información mediante cuestionarios y revisión de políticas nacionales.",
             "Analiza políticas, modelos de provisión, participación y matrícula, promoción de calidad y expectativas de resultados.",
             "La unidad de análisis principal es el sistema de educación inicial, no el desempeño de un estudiante.",
-            "No corresponde producir un miniensayo escolar ECES ni calcular puntajes de aprendizaje.",
+            "No corresponde producir una muestra escolar ECES ni calcular puntajes de aprendizaje.",
         ],
         "reporting": [
             "Entrega una comparación descriptiva y crítica de la organización de educación parvularia.",
@@ -635,7 +636,7 @@ INSTRUMENT_PROFILES = {
         "boundaries": [
             "Los niveles y áreas cambian por plan; esta página no los presenta como calendario anual permanente.",
             "Las cinco rutas del proyecto son entradas pedagógicas y no reconstruyen el marco completo de cada estudio.",
-            "Los miniensayos no producen resultados muestrales nacionales ni escalas oficiales.",
+            "Las muestras breves no producen resultados muestrales nacionales ni escalas oficiales.",
         ],
     },
     "interna": {
@@ -816,7 +817,7 @@ SAMPLE_FORMS = {
 }
 
 
-def _variant(identifier, instrument, name, level, domain, form, oa_codes):
+def _variant(identifier, instrument, name, level, domain, form, oa_codes, journey=None):
     return {
         "id": identifier,
         "instrument": instrument,
@@ -825,15 +826,16 @@ def _variant(identifier, instrument, name, level, domain, form, oa_codes):
         "domain": domain,
         "form": form,
         "oa_codes": oa_codes,
+        "journey": journey or [],
     }
 
 
 VARIANTS = [
-    _variant("paes-competencia-lectora", "paes", "Competencia Lectora", "Egreso y 4° medio", "Lectura", "reading-secondary", ["LE1M OA 09", "LE2M OA 09"]),
-    _variant("paes-m1", "paes", "Competencia Matemática 1 (M1)", "Egreso y 4° medio", "Matemática", "math-secondary", ["MA2M OA 06", "MA2M OA 12"]),
-    _variant("paes-m2", "paes", "Competencia Matemática 2 (M2)", "Egreso y 4° medio", "Matemática avanzada", "math-secondary", ["FG-MATE-3M-OAC-02", "FG-MATE-3M-OAC-03"]),
-    _variant("paes-ciencias", "paes", "Ciencias", "Egreso y 4° medio", "Ciencias", "science", ["CN08 OA 07", "CN08 OA 11"]),
-    _variant("paes-historia", "paes", "Historia y Ciencias Sociales", "Egreso y 4° medio", "Fuentes y pensamiento crítico", "civic", ["HI08 OA 18", "FG-LELI-4M-OAC-03"]),
+    _variant("paes-competencia-lectora", "paes", "Competencia Lectora", "Trayectoria escolar hasta el egreso", "Lectura", "reading-secondary", ["LE04 OA 04", "LE06 OA 06", "LE08 OA 09", "LE1M OA 09", "LE2M OA 09"], [("Fundamentos", ["LE04 OA 04"]), ("Consolidación", ["LE06 OA 06"]), ("Razonamiento", ["LE08 OA 09", "LE1M OA 09"]), ("Transferencia", ["LE2M OA 09"])]),
+    _variant("paes-m1", "paes", "Competencia Matemática 1 (M1)", "Trayectoria escolar hasta el egreso", "Matemática", "math-secondary", ["MA04 OA 07", "MA06 OA 08", "MA08 OA 08", "MA2M OA 06", "MA2M OA 12"], [("Fundamentos", ["MA04 OA 07"]), ("Consolidación", ["MA06 OA 08"]), ("Modelación", ["MA08 OA 08"]), ("Transferencia", ["MA2M OA 06", "MA2M OA 12"])]),
+    _variant("paes-m2", "paes", "Competencia Matemática 2 (M2)", "Trayectoria escolar hasta el egreso", "Matemática avanzada", "math-secondary", ["MA06 OA 08", "MA08 OA 08", "MA1M OA 03", "MA2M OA 12", "FG-MATE-3M-OAC-02", "FG-MATE-3M-OAC-03"], [("Fundamentos", ["MA06 OA 08"]), ("Lenguaje algebraico", ["MA08 OA 08", "MA1M OA 03"]), ("Razonamiento con datos", ["MA2M OA 12"]), ("Profundización", ["FG-MATE-3M-OAC-02", "FG-MATE-3M-OAC-03"])]),
+    _variant("paes-ciencias", "paes", "Ciencias", "Trayectoria escolar hasta el egreso", "Ciencias", "science", ["CN04 OA 11", "CN06 OA 08", "CN08 OA 07", "CN08 OA 11", "CN1M OA 05", "CN2M OA 06"], [("Observar y medir", ["CN04 OA 11"]), ("Explicar", ["CN06 OA 08"]), ("Usar evidencia", ["CN08 OA 07", "CN08 OA 11"]), ("Transferir", ["CN1M OA 05", "CN2M OA 06"])]),
+    _variant("paes-historia", "paes", "Historia y Ciencias Sociales", "Trayectoria escolar hasta el egreso", "Fuentes y pensamiento crítico", "civic", ["HI04 OA 18", "HI06 OA 25", "HI08 OA 18", "HI1M OA 25", "HI2M OA 15", "FG-LELI-4M-OAC-03"], [("Opinar con evidencia", ["HI04 OA 18"]), ("Evaluar alternativas", ["HI06 OA 25"]), ("Contextualizar", ["HI08 OA 18", "HI1M OA 25"]), ("Contrastar interpretaciones", ["HI2M OA 15", "FG-LELI-4M-OAC-03"])]),
     _variant("simce-4-lectura", "simce", "4° básico · Lectura", "4° básico", "Lectura", "reading-primary", ["LE04 OA 04", "LE04 OA 06"]),
     _variant("simce-4-matematica", "simce", "4° básico · Matemática", "4° básico", "Matemática", "math-primary", ["MA04 OA 07", "MA04 OA 27"]),
     _variant("simce-6-lectura", "simce", "6° básico · Lectura", "6° básico", "Lectura", "reading-primary", ["LE06 OA 06", "LE06 OA 07"]),
@@ -954,48 +956,3 @@ FORM_GUIDANCE = {
 
 for _variant_record in VARIANTS:
     _variant_record.update(FORM_GUIDANCE[_variant_record["form"]])
-
-
-def _status(number, title, state, path, delivered, pending):
-    return {
-        "number": number,
-        "title": title,
-        "state": state,
-        "path": path,
-        "delivered": delivered,
-        "pending": pending,
-    }
-
-
-PROMPT_STATUS = [
-    _status(1, "Visión longitudinal", "Implementado parcialmente", "docs/COMPETENCY_SYSTEM.md", "La ruta conecta OA, habilidades, competencia, evidencia, intervención y reevaluación sin sustituir el currículo.", "Extender el mapeo revisado más allá de las progresiones demostrativas."),
-    _status(2, "Auditoría previa", "Implementado", "docs/COMPETENCY_GAP_REPORT.md", "Se conserva la auditoría fechada anterior a la programación y su inventario de documentos, contenidos, generadores y brechas.", "Repetir una auditoría formal cuando cambien fuentes oficiales o arquitectura."),
-    _status(3, "Informe de brechas previo", "Implementado", "docs/COMPETENCY_GAP_REPORT.md", "Incluye la tabla solicitada y clasifica comprensión lectora, evaluación, competencias, diagnóstico, marcos y adaptación.", "La línea base es histórica: no se reescribe con logros posteriores."),
-    _status(4, "Comprensión lectora existente", "Conservado y conectado", "docs/EVALUACIONES_COMPLEMENTARIAS.md", "No se creó otro curso; PAES, SIMCE, DIA, PISA, PIRLS y ERCE regresan a OA y clases lectoras existentes.", "Ampliar revisión experta de las correspondencias."),
-    _status(5, "Taxonomía transversal", "Entrega inicial", "docs/GUIA_DOCENTE_COMPETENCIAS.md", "Existen 86 habilidades versionadas en siete dominios, con nombres pedagógicos visibles.", "No están mapeados exhaustivamente los 2.823 OA."),
-    _status(6, "Mapa longitudinal", "Entrega demostrativa", "docs/COMPETENCY_SYSTEM.md", "Cinco progresiones muestran fundamentos, consolidación, aplicación, razonamiento y transferencia con OA verificables.", "Agregar trayectorias sólo después de revisión disciplinar."),
-    _status(7, "Grafo de competencias", "Entrega demostrativa", "docs/COMPETENCY_SYSTEM.md", "El esquema relaciona habilidad, prerrequisito, OA, clase, evaluación, error e intervención en archivos simples.", "Faltan relaciones revisadas para toda la cobertura curricular."),
-    _status(8, "Marcos de evaluación", "Ampliado", "docs/EVALUACIONES_COMPLEMENTARIAS.md", "Cada instrumento tiene definición, propósito, historia, antecesores, diseño, resultados, uso docente, límites, fuentes y rutas curriculares.", "Mantener fechas, marcos y calendarios desde fuentes oficiales."),
-    _status(9, "PAES como resultado de trayectoria", "Implementado parcialmente", "docs/EVALUACIONES_COMPLEMENTARIAS.md", "PAES se explica desde PAA, PSU y PDT y cada área enlaza habilidades, OA, clases y ensayo original.", "No existe predictor, banco oficial ni cobertura de todos los temarios."),
-    _status(10, "PISA y transferencia", "Implementado parcialmente", "docs/BANCO_TAREAS.md", "Hay tareas originales contextualizadas y rutas de lectura, matemática, ciencia y mundo digital.", "Ampliar situaciones multimodales y pilotarlas."),
-    _status(11, "SIMCE, TIMSS y PIRLS diferenciados", "Implementado", "docs/EVALUACIONES_COMPLEMENTARIAS.md", "Se explican por separado historia, población, propósito, diseño y límites; retirar uno no modifica OA ni competencias.", "Actualizar el plan nacional y los ciclos internacionales cuando cambien."),
-    _status(12, "Banco de ítems y tareas", "Entrega inicial", "docs/BANCO_TAREAS.md", "Seis tareas extensas y 45 miniensayos registran contexto, respuesta, solución, criterios, rúbrica, OA, autoría y estado.", "Aumentar cantidad, revisión por disciplina y pilotaje."),
-    _status(13, "Tipos de respuesta", "Implementado parcialmente", "docs/BANCO_TAREAS.md", "El esquema admite selección, respuesta breve/desarrollada, explicación, argumentación, datos y tareas interdisciplinarias.", "Agregar ejemplos completos de ensayo, proyecto y producción multimodal."),
-    _status(14, "Distractores inteligentes", "Implementado parcialmente", "docs/BANCO_TAREAS.md", "Los distractores pueden enlazarse a errores previsibles sin diagnosticar desde una respuesta.", "Revisión humana y datos de pilotaje antes de afirmar patrones reales."),
-    _status(15, "Motor de evidencia", "Prototipo determinista", "docs/EVIDENCE_CYCLE.md", "Separa observación, patrón, hipótesis, evidencia acumulada, decisión e indicio de dominio.", "Validar reglas con casos educativos y gobernanza de datos."),
-    _status(16, "Diagnóstico pedagógico", "Prototipo determinista", "docs/EVIDENCE_CYCLE.md", "Responde qué ocurrió, en qué habilidad, con qué consistencia, qué prerrequisito revisar y cómo comprobar cambio.", "No usar como diagnóstico clínico ni automatizar decisiones de alto impacto."),
-    _status(17, "Remediación", "Conectado", "docs/COMPETENCY_SYSTEM.md", "Las rutas priorizan clases, actividades, apoyos y OA existentes antes de generar material nuevo.", "Revisar la pertinencia de cada intervención en contexto de aula."),
-    _status(18, "Reevaluación", "Implementado en el ciclo", "docs/EVIDENCE_CYCLE.md", "Toda intervención termina con situación distinta, comparación y decisión de consolidar, transferir o revisar prerrequisitos.", "Acumular ejemplos por dominio."),
-    _status(19, "Adaptación", "Arquitectura preparada", "docs/COMPETENCY_SYSTEM.md", "Hay reglas deterministas para aumentar desafío, consolidar o revisar prerrequisitos.", "No existe una plataforma adaptativa con estudiantes reales."),
-    _status(20, "Psicometría", "Resguardo implementado", "docs/COMPETENCY_SYSTEM.md", "Se distinguen experimental, pilotado, analizado, revisado y validado; no se simulan IRT, DIF, validez ni confiabilidad.", "Requiere diseño, muestras y análisis especializados fuera de esta entrega."),
-    _status(21, "Tutor adaptativo", "Revisión conceptual", "docs/COMPETENCY_GAP_REPORT.md", "El núcleo funciona sin LLM y no copió indiscriminadamente otra arquitectura.", "Un producto tutor completo sigue fuera del alcance actual."),
-    _status(22, "IA opcional", "Política definida", "docs/COMPETENCY_SYSTEM.md", "La evidencia y el cálculo son deterministas; cualquier IA futura exige trazabilidad, revisión, límites y fallback.", "No se implementó generación ni análisis automático con IA."),
-    _status(23, "Perfil de competencias", "Demostración sintética", "docs/GUIA_DOCENTE_COMPETENCIAS.md", "La vista muestra evidencia descriptiva y evita porcentajes inventados.", "Necesita datos autorizados y reglas de agregación validadas para uso real."),
-    _status(24, "Vista para estudiante", "Demostración sintética", "docs/GUIA_DOCENTE_COMPETENCIAS.md", "Responde qué aprende, qué evidencia existe, qué practicar y qué sigue con lenguaje no psicométrico.", "No existe cuenta, historial personal ni persistencia."),
-    _status(25, "Vista para docente", "Implementado parcialmente", "docs/GUIA_DOCENTE_COMPETENCIAS.md", "Muestra competencia, habilidad, evidencia, errores posibles, OA, clases e intervención sin etiquetar estudiantes.", "Falta una vista de curso con datos reales autorizados."),
-    _status(26, "Vista de trayectoria", "Entrega demostrativa", "docs/COMPETENCY_SYSTEM.md", "Cinco recorridos atraviesan niveles y enlazan OA y clases del repositorio.", "Extender a todas las habilidades después de revisión."),
-    _status(27, "Interdisciplinariedad", "Implementado en el esquema", "docs/BANCO_TAREAS.md", "Una tarea puede activar lectura, matemática, ciencias y datos sin duplicar la competencia.", "Agregar más tareas revisadas entre asignaturas."),
-    _status(28, "Escritura y argumentación", "Implementado parcialmente", "docs/BANCO_TAREAS.md", "Hay tareas de producción y rúbricas para explicar, justificar, sintetizar y argumentar.", "Ampliar muestras de escritura por nivel y moderar rúbricas."),
-    _status(29, "Pensamiento crítico y fuentes", "Implementado parcialmente", "docs/GUIA_DOCENTE_COMPETENCIAS.md", "La taxonomía progresa desde hecho/opinión y fuente hacia evidencia, confiabilidad, contradicción y argumentación.", "Completar el mapeo etario y curricular revisado."),
-    _status(30, "Información digital e IA", "Implementado parcialmente", "docs/GUIA_DOCENTE_COMPETENCIAS.md", "Incluye búsqueda, verificación, triangulación, desinformación, contenido generado por IA, privacidad y uso responsable.", "Ampliar actividades por nivel y validar su adecuación evolutiva."),
-]

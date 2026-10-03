@@ -677,17 +677,22 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
             PdfJob(
                 "evaluaciones-complementarias.pdf",
                 "Evaluaciones complementarias - guía docente",
-                "Trece instrumentos y familias —acceso, diagnóstico, evaluaciones nacionales e internacionales— explicados con sus conexiones curriculares.",
+                "Trece guías individuales —acceso, diagnóstico, evaluaciones nacionales e internacionales— con historia, diseño, cobertura y conexiones curriculares.",
                 (
                     DOCS / "EVALUACIONES_COMPLEMENTARIAS.md",
+                    DOCS / "evaluaciones" / "README.md",
+                    *(DOCS / "evaluaciones" / f"{name}.md" for name in (
+                        "paes", "simce", "dia", "pisa", "timss", "pirls", "erce",
+                        "icils", "iccs", "eces", "impulso-lector", "estudios-nacionales", "interna",
+                    )),
                     DOCS / "INFORME_BRECHAS_ACTUAL.md",
-                    DOCS / "ESTADO_PROMPT_MAESTRO.md",
+                    DOCS / "ESTADO_IMPLEMENTACION.md",
                 ),
             ),
             PdfJob(
                 "ensayos-ejemplo.pdf",
-                "Ensayos originales de ejemplo",
-                "Cuarenta y cinco variantes, claves, rúbricas, cálculo transparente y referencias precisas a OA y clases.",
+                "Muestras calculables y estado de cobertura",
+                "Cuarenta y cinco muestras breves con claves, rúbricas, cálculo transparente, límites de cobertura y referencias precisas a OA y clases.",
                 (DOCS / "ENSAYOS_EJEMPLO.md",),
             ),
         ]

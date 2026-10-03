@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-03 · Guías individuales, trayectoria PAES y cobertura honesta
+
+- Se retira de las superficies pedagógicas actuales el rótulo **Prompt Maestro**, porque describe una instrucción de trabajo con IA y no una categoría educativa; lo reemplaza un estado de implementación organizado por ocho capacidades, con evidencia y límites.
+- Cada uno de los trece instrumentos o familias recibe su propio Markdown extenso y navegable, además de una versión HTML generada y un índice común para docentes.
+- PAES deja de aparecer como contenido aislado de 4° medio: Competencia Lectora, M1, M2, Ciencias e Historia recorren antecedentes de básica, consolidación, razonamiento y transferencia en media mediante OA y clases existentes.
+- La progresión PAES se rotula como correspondencia pedagógica inferida y se distingue del temario oficial vigente; enlazar un OA como antecedente no significa afirmar que sea contenido directo de la prueba.
+- Las 45 piezas de tres tareas dejan de llamarse ensayos y pasan a llamarse **muestras breves calculables**. Se declara cobertura parcial y se fija el criterio futuro: matriz por versión y tareas para todos sus contenidos antes de usar “ensayo completo”.
+- Las páginas de instrumentos incorporan una composición visual más clara: identidad del instrumento, aviso de trayectoria, secciones editoriales, rutas multinivel, cobertura visible y acceso directo a la guía individual.
+- Las compilaciones PDF incorporan las trece guías, el índice y el nuevo estado de implementación; Markdown continúa enlazando Markdown y HTML enlazando HTML.
+- Se añade una memoria operativa interna en `scripts/CONTINUIDAD_TRABAJO.md` para conservar requisitos, decisiones y criterios de aceptación cuando la conversación se compacte; no se publica en el portal.
+
 ## 2026-10-03 · Centro visible de evaluaciones y ensayos conectados
 
 - Se amplía la documentación de los trece instrumentos o familias: definición, motivo de existencia, historia, antecesores, responsable, primera aplicación, periodicidad, diseño, lectura de resultados, límites y uso docente, siempre con fuentes institucionales.

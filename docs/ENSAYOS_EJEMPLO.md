@@ -1,16 +1,20 @@
-# Ensayos originales de ejemplo y cálculo transparente
+# Muestras calculables y estado de cobertura
 
-Este documento reúne 45 variantes de evaluaciones. Cada miniensayo contiene dos preguntas cerradas y una respuesta desarrollada. La puntuación es una regla didáctica del proyecto y no una conversión oficial.
+Este documento reúne 45 muestras breves de versiones o áreas. Cada una contiene dos preguntas cerradas y una respuesta desarrollada. La puntuación es una regla didáctica del proyecto y no una conversión oficial.
 
-[Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md) · [Banco de tareas extensas](BANCO_TAREAS.md) · [Ciclo de evidencia](EVIDENCE_CYCLE.md)
+**Son muestras breves, no ensayos completos.**
+
+> **Corrección de alcance:** estas piezas no cubren todos los contenidos de los instrumentos y, por tanto, no se presentan como ensayos completos. Un ensayo de ejemplo requerirá una matriz de contenidos y al menos una tarea por cada eje; uno completo deberá cubrir todo el temario o marco de su versión.
+
+[Guías individuales de instrumentos](evaluaciones/README.md) · [Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md) · [Banco de tareas extensas](BANCO_TAREAS.md) · [Ciclo de evidencia](EVIDENCE_CYCLE.md)
 
 ## Competencia Lectora
 
-**Instrumento de referencia:** [PAES](EVALUACIONES_COMPLEMENTARIAS.md#paes-prueba-de-acceso-a-la-educaci-n-superior).
+**Instrumento de referencia:** [PAES](evaluaciones/paes.md).
 
-**Población orientativa:** Egreso y 4° medio · **Dominio:** Lectura.
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Lectura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -24,16 +28,18 @@ El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mej
 
 ### Preguntas cerradas
 
-1. ¿Cuál es la afirmación principal?
-   - A. La encuesta fue obligatoria
-   - B. La biblioteca debe ampliar su horario
-   - C. Solo 38 estudiantes usan libros
-   - D. El liceo tiene 31 estudiantes
-2. ¿Cuál es la limitación más importante de la evidencia?
-   - A. La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
-   - B. La encuesta usa números
-   - C. La propuesta menciona una biblioteca
-   - D. La mayoría de quienes respondieron está de acuerdo
+**1. ¿Cuál es la afirmación principal?**
+
+- **A.** La encuesta fue obligatoria
+- **B.** La biblioteca debe ampliar su horario
+- **C.** Solo 38 estudiantes usan libros
+- **D.** El liceo tiene 31 estudiantes
+**2. ¿Cuál es la limitación más importante de la evidencia?**
+
+- **A.** La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
+- **B.** La encuesta usa números
+- **C.** La propuesta menciona una biblioteca
+- **D.** La mayoría de quienes respondieron está de acuerdo
 
 ### Respuesta desarrollada
 
@@ -53,25 +59,28 @@ El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mej
 - Máximo: 4 puntos del proyecto.
 - 0: evidencia insuficiente; 1–2: evidencia inicial; 3: evidencia consistente; 4: evidencia sólida en este ejemplo y pendiente de transferencia.
 
-**OA y clases para enseñar o reforzar:** [LE1M OA 09](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) · [LE2M OA 09](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596).
+**OA y clases para enseñar o reforzar:** [LE04 OA 04](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) · [LE06 OA 06](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) · [LE08 OA 09](../curriculum/8-basico/lengua-literatura/le08-oa-09.md#cl-09172) · [LE1M OA 09](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) · [LE2M OA 09](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596).
 
 ### Ruta con contenido existente
 
-1. **Preparar:** [LE1M OA 09 · Evaluación de textos argumentativos](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) — 1° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+2. **Enseñar y practicar:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
+3. **Enseñar y practicar:** [LE08 OA 09 · Analizar y evaluar textos con finalidad argumentativa como columnas de opinión, cartas y discursos,…](../curriculum/8-basico/lengua-literatura/le08-oa-09.md#cl-09172) — 8° básico, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+4. **Enseñar y practicar:** [LE1M OA 09 · Evaluación de textos argumentativos](../curriculum/1-medio/lengua-literatura/le1m-oa-09.md#cl-10389) — 1° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
+5. **Enseñar y practicar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
 - **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
 
 ## Competencia Matemática 1 (M1)
 
-**Instrumento de referencia:** [PAES](EVALUACIONES_COMPLEMENTARIAS.md#paes-prueba-de-acceso-a-la-educaci-n-superior).
+**Instrumento de referencia:** [PAES](evaluaciones/paes.md).
 
-**Población orientativa:** Egreso y 4° medio · **Dominio:** Matemática.
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Matemática.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -85,16 +94,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 
 ### Preguntas cerradas
 
-1. ¿Qué expresión representa el primer servicio para x kilómetros?
-   - A. 1.200x + 350
-   - B. 1.200 + 350x
-   - C. 500 + 350x
-   - D. 1.550x
-2. ¿Cuánto cuesta el primer servicio en 4 km?
-   - A. $1.550
-   - B. $2.000
-   - C. $2.600
-   - D. $3.200
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
 
 ### Respuesta desarrollada
 
@@ -114,25 +125,28 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 - Máximo: 4 puntos del proyecto.
 - 0: evidencia insuficiente; 1–2: evidencia inicial; 3: evidencia consistente; 4: evidencia sólida en este ejemplo y pendiente de transferencia.
 
-**OA y clases para enseñar o reforzar:** [MA2M OA 06](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) · [MA2M OA 12](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776).
+**OA y clases para enseñar o reforzar:** [MA04 OA 07](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) · [MA06 OA 08](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) · [MA08 OA 08](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) · [MA2M OA 06](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) · [MA2M OA 12](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776).
 
 ### Ruta con contenido existente
 
-1. **Preparar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+1. **Preparar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Enseñar y practicar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+3. **Enseñar y practicar:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+4. **Enseñar y practicar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+5. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
 
 ## Competencia Matemática 2 (M2)
 
-**Instrumento de referencia:** [PAES](EVALUACIONES_COMPLEMENTARIAS.md#paes-prueba-de-acceso-a-la-educaci-n-superior).
+**Instrumento de referencia:** [PAES](evaluaciones/paes.md).
 
-**Población orientativa:** Egreso y 4° medio · **Dominio:** Matemática avanzada.
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Matemática avanzada.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -146,16 +160,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 
 ### Preguntas cerradas
 
-1. ¿Qué expresión representa el primer servicio para x kilómetros?
-   - A. 1.200x + 350
-   - B. 1.200 + 350x
-   - C. 500 + 350x
-   - D. 1.550x
-2. ¿Cuánto cuesta el primer servicio en 4 km?
-   - A. $1.550
-   - B. $2.000
-   - C. $2.600
-   - D. $3.200
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
 
 ### Respuesta desarrollada
 
@@ -175,25 +191,29 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 - Máximo: 4 puntos del proyecto.
 - 0: evidencia insuficiente; 1–2: evidencia inicial; 3: evidencia consistente; 4: evidencia sólida en este ejemplo y pendiente de transferencia.
 
-**OA y clases para enseñar o reforzar:** [FG-MATE-3M-OAC-02](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) · [FG-MATE-3M-OAC-03](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389).
+**OA y clases para enseñar o reforzar:** [MA06 OA 08](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) · [MA08 OA 08](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) · [MA1M OA 03](../curriculum/1-medio/matematica/ma1m-oa-03.md#cl-10525) · [MA2M OA 12](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) · [FG-MATE-3M-OAC-02](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) · [FG-MATE-3M-OAC-03](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389).
 
 ### Ruta con contenido existente
 
-1. **Preparar:** [FG-MATE-3M-OAC-02 · Incerteza, dispersión y probabilidad condicional](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [FG-MATE-3M-OAC-03 · Modelos exponenciales y logarítmicos](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 5 (Conectar y diagnosticar).
+1. **Preparar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
+2. **Enseñar y practicar:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+3. **Enseñar y practicar:** [MA1M OA 03 · Productos notables y completación de cuadrados](../curriculum/1-medio/matematica/ma1m-oa-03.md#cl-10525) — 1° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+4. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
+5. **Enseñar y practicar:** [FG-MATE-3M-OAC-02 · Incerteza, dispersión y probabilidad condicional](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-02.md#cl-12385) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 4 (Conectar y diagnosticar).
+6. **Enseñar y practicar:** [FG-MATE-3M-OAC-03 · Modelos exponenciales y logarítmicos](../curriculum/3-medio-fg/matematica-3o-medio/fg-mate-3m-oac-03.md#cl-12389) — 3° medio · Formación General, Matemática 3º medio, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
 
 ## Ciencias
 
-**Instrumento de referencia:** [PAES](EVALUACIONES_COMPLEMENTARIAS.md#paes-prueba-de-acceso-a-la-educaci-n-superior).
+**Instrumento de referencia:** [PAES](evaluaciones/paes.md).
 
-**Población orientativa:** Egreso y 4° medio · **Dominio:** Ciencias.
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Ciencias.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -207,16 +227,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 
 ### Preguntas cerradas
 
-1. ¿Cuál fue la variable modificada?
-   - A. Tipo de planta
-   - B. Cantidad de agua
-   - C. Duración
-   - D. Tipo de suelo
-2. ¿Qué conclusión está apoyada directamente?
-   - A. Toda planta crece mejor con más agua
-   - B. En estas condiciones, B tuvo mayor altura media
-   - C. El suelo causó la diferencia
-   - D. 100 ml es siempre la cantidad óptima
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
 
 ### Respuesta desarrollada
 
@@ -236,25 +258,29 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 - Máximo: 4 puntos del proyecto.
 - 0: evidencia insuficiente; 1–2: evidencia inicial; 3: evidencia consistente; 4: evidencia sólida en este ejemplo y pendiente de transferencia.
 
-**OA y clases para enseñar o reforzar:** [CN08 OA 07](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) · [CN08 OA 11](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539).
+**OA y clases para enseñar o reforzar:** [CN04 OA 11](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) · [CN06 OA 08](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) · [CN08 OA 07](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) · [CN08 OA 11](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) · [CN1M OA 05](../curriculum/1-medio/ciencias-naturales/cn1m-oa-05.md#cl-09711) · [CN2M OA 06](../curriculum/2-medio/ciencias-naturales/cn2m-oa-06.md#cl-10925).
 
 ### Ruta con contenido existente
 
-1. **Preparar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+1. **Preparar:** [CN04 OA 11 · Medición de masa, volumen y temperatura](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+2. **Enseñar y practicar:** [CN06 OA 08 · Que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) — 6° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
+3. **Enseñar y practicar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+4. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+5. **Enseñar y practicar:** [CN1M OA 05 · Factores que regulan poblaciones y consecuencias ecosistémicas](../curriculum/1-medio/ciencias-naturales/cn1m-oa-05.md#cl-09711) — 1° medio, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
+6. **Enseñar y practicar:** [CN2M OA 06 · Mitosis, meiosis y alteraciones de la división celular](../curriculum/2-medio/ciencias-naturales/cn2m-oa-06.md#cl-10925) — 2° medio, Ciencias Naturales, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
 
 ## Historia y Ciencias Sociales
 
-**Instrumento de referencia:** [PAES](EVALUACIONES_COMPLEMENTARIAS.md#paes-prueba-de-acceso-a-la-educaci-n-superior).
+**Instrumento de referencia:** [PAES](evaluaciones/paes.md).
 
-**Población orientativa:** Egreso y 4° medio · **Dominio:** Fuentes y pensamiento crítico.
+**Población orientativa:** Trayectoria escolar hasta el egreso · **Dominio:** Fuentes y pensamiento crítico.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -268,16 +294,18 @@ La municipalidad propone transformar un estacionamiento en plaza. Un informe mun
 
 ### Preguntas cerradas
 
-1. ¿Qué fuente entrega un dato cuantitativo verificable?
-   - A. Informe municipal
-   - B. Advertencia sin conteos
-   - C. Solicitud vecinal
-   - D. Ninguna
-2. ¿Qué información falta para comparar impactos?
-   - A. El color futuro de la plaza
-   - B. Conteos actuales de uso y accesibilidad
-   - C. El nombre de la calle
-   - D. La edad del alcalde
+**1. ¿Qué fuente entrega un dato cuantitativo verificable?**
+
+- **A.** Informe municipal
+- **B.** Advertencia sin conteos
+- **C.** Solicitud vecinal
+- **D.** Ninguna
+**2. ¿Qué información falta para comparar impactos?**
+
+- **A.** El color futuro de la plaza
+- **B.** Conteos actuales de uso y accesibilidad
+- **C.** El nombre de la calle
+- **D.** La edad del alcalde
 
 ### Respuesta desarrollada
 
@@ -297,25 +325,29 @@ La municipalidad propone transformar un estacionamiento en plaza. Un informe mun
 - Máximo: 4 puntos del proyecto.
 - 0: evidencia insuficiente; 1–2: evidencia inicial; 3: evidencia consistente; 4: evidencia sólida en este ejemplo y pendiente de transferencia.
 
-**OA y clases para enseñar o reforzar:** [HI08 OA 18](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) · [FG-LELI-4M-OAC-03](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806).
+**OA y clases para enseñar o reforzar:** [HI04 OA 18](../curriculum/4-basico/historia-geografia-ciencias-sociales/hi04-oa-18.md#cl-03574) · [HI06 OA 25](../curriculum/6-basico/historia-geografia-ciencias-sociales/hi06-oa-25.md#cl-06153) · [HI08 OA 18](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) · [HI1M OA 25](../curriculum/1-medio/historia-geografia-ciencias-sociales/hi1m-oa-25.md#cl-10066) · [HI2M OA 15](../curriculum/2-medio/historia-geografia-ciencias-sociales/hi2m-oa-15.md#cl-11214) · [FG-LELI-4M-OAC-03](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806).
 
 ### Ruta con contenido existente
 
-1. **Preparar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
-2. **Enseñar y practicar:** [FG-LELI-4M-OAC-03 · Evaluación crítica de discursos no literarios e ideologías](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
+1. **Preparar:** [HI04 OA 18 · Opinión y argumentación histórica y ciudadana](../curriculum/4-basico/historia-geografia-ciencias-sociales/hi04-oa-18.md#cl-03574) — 4° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+2. **Enseñar y practicar:** [HI06 OA 25 · Evaluar posibles soluciones frente a un problema o proyecto y justificar su elección](../curriculum/6-basico/historia-geografia-ciencias-sociales/hi06-oa-25.md#cl-06153) — 6° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+3. **Enseñar y practicar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
+4. **Enseñar y practicar:** [HI1M OA 25 · Industrialización, ambiente y desarrollo sostenible](../curriculum/1-medio/historia-geografia-ciencias-sociales/hi1m-oa-25.md#cl-10066) — 1° medio, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+5. **Enseñar y practicar:** [HI2M OA 15 · Interpretaciones historiográficas del golpe de 1973](../curriculum/2-medio/historia-geografia-ciencias-sociales/hi2m-oa-15.md#cl-11214) — 2° medio, Historia, Geografía y Ciencias Sociales, clase 1 de 5 (Conectar y diagnosticar).
+6. **Enseñar y practicar:** [FG-LELI-4M-OAC-03 · Evaluación crítica de discursos no literarios e ideologías](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-03.md#cl-12806) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
 - **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
 
 ## 4° básico · Lectura
 
-**Instrumento de referencia:** [SIMCE](EVALUACIONES_COMPLEMENTARIAS.md#simce-sistema-de-medici-n-de-la-calidad-de-la-educaci-n).
+**Instrumento de referencia:** [SIMCE](evaluaciones/simce.md).
 
 **Población orientativa:** 4° básico · **Dominio:** Lectura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -329,16 +361,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -365,18 +399,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE04 OA 06 · Comprensión de textos no literarios](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-06.md#cl-03913) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## 4° básico · Matemática
 
-**Instrumento de referencia:** [SIMCE](EVALUACIONES_COMPLEMENTARIAS.md#simce-sistema-de-medici-n-de-la-calidad-de-la-educaci-n).
+**Instrumento de referencia:** [SIMCE](evaluaciones/simce.md).
 
 **Población orientativa:** 4° básico · **Dominio:** Matemática.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -390,16 +424,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 
 ### Preguntas cerradas
 
-1. ¿Cuántos lápices hay en la caja?
-   - A. 14
-   - B. 42
-   - C. 48
-   - D. 54
-2. ¿Cuántos lápices sobran después de entregar 45?
-   - A. 2
-   - B. 3
-   - C. 5
-   - D. 13
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
 
 ### Respuesta desarrollada
 
@@ -426,18 +462,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 1. **Preparar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA04 OA 27 · Lectura crítica de pictogramas y barras](../curriculum/4-basico/matematica/ma04-oa-27.md#cl-04188) — 4° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
 
 ## 6° básico · Lectura
 
-**Instrumento de referencia:** [SIMCE](EVALUACIONES_COMPLEMENTARIAS.md#simce-sistema-de-medici-n-de-la-calidad-de-la-educaci-n).
+**Instrumento de referencia:** [SIMCE](evaluaciones/simce.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Lectura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -451,16 +487,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -487,18 +525,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## 6° básico · Matemática
 
-**Instrumento de referencia:** [SIMCE](EVALUACIONES_COMPLEMENTARIAS.md#simce-sistema-de-medici-n-de-la-calidad-de-la-educaci-n).
+**Instrumento de referencia:** [SIMCE](evaluaciones/simce.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Matemática.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -512,16 +550,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 
 ### Preguntas cerradas
 
-1. ¿Cuántos lápices hay en la caja?
-   - A. 14
-   - B. 42
-   - C. 48
-   - D. 54
-2. ¿Cuántos lápices sobran después de entregar 45?
-   - A. 2
-   - B. 3
-   - C. 5
-   - D. 13
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
 
 ### Respuesta desarrollada
 
@@ -548,18 +588,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 1. **Preparar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA06 OA 24 · Gráficos de barra doble y circulares](../curriculum/6-basico/matematica/ma06-oa-24.md#cl-06898) — 6° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
 
 ## II medio · Lectura
 
-**Instrumento de referencia:** [SIMCE](EVALUACIONES_COMPLEMENTARIAS.md#simce-sistema-de-medici-n-de-la-calidad-de-la-educaci-n).
+**Instrumento de referencia:** [SIMCE](evaluaciones/simce.md).
 
 **Población orientativa:** 2° medio · **Dominio:** Lectura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -573,16 +613,18 @@ El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mej
 
 ### Preguntas cerradas
 
-1. ¿Cuál es la afirmación principal?
-   - A. La encuesta fue obligatoria
-   - B. La biblioteca debe ampliar su horario
-   - C. Solo 38 estudiantes usan libros
-   - D. El liceo tiene 31 estudiantes
-2. ¿Cuál es la limitación más importante de la evidencia?
-   - A. La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
-   - B. La encuesta usa números
-   - C. La propuesta menciona una biblioteca
-   - D. La mayoría de quienes respondieron está de acuerdo
+**1. ¿Cuál es la afirmación principal?**
+
+- **A.** La encuesta fue obligatoria
+- **B.** La biblioteca debe ampliar su horario
+- **C.** Solo 38 estudiantes usan libros
+- **D.** El liceo tiene 31 estudiantes
+**2. ¿Cuál es la limitación más importante de la evidencia?**
+
+- **A.** La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
+- **B.** La encuesta usa números
+- **C.** La propuesta menciona una biblioteca
+- **D.** La mayoría de quienes respondieron está de acuerdo
 
 ### Respuesta desarrollada
 
@@ -609,18 +651,18 @@ El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mej
 1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE2M OA 10 · Medios, persuasión y recursos multimodales](../curriculum/2-medio/lengua-literatura/le2m-oa-10.md#cl-11603) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
 - **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
 
 ## II medio · Matemática
 
-**Instrumento de referencia:** [SIMCE](EVALUACIONES_COMPLEMENTARIAS.md#simce-sistema-de-medici-n-de-la-calidad-de-la-educaci-n).
+**Instrumento de referencia:** [SIMCE](evaluaciones/simce.md).
 
 **Población orientativa:** 2° medio · **Dominio:** Matemática.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -634,16 +676,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 
 ### Preguntas cerradas
 
-1. ¿Qué expresión representa el primer servicio para x kilómetros?
-   - A. 1.200x + 350
-   - B. 1.200 + 350x
-   - C. 500 + 350x
-   - D. 1.550x
-2. ¿Cuánto cuesta el primer servicio en 4 km?
-   - A. $1.550
-   - B. $2.000
-   - C. $2.600
-   - D. $3.200
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
 
 ### Respuesta desarrollada
 
@@ -670,18 +714,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 1. **Preparar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
 
 ## Lectura
 
-**Instrumento de referencia:** [PISA](EVALUACIONES_COMPLEMENTARIAS.md#pisa-programme-for-international-student-assessment).
+**Instrumento de referencia:** [PISA](evaluaciones/pisa.md).
 
 **Población orientativa:** 15 años · **Dominio:** Lectura en contexto.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -695,16 +739,18 @@ El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mej
 
 ### Preguntas cerradas
 
-1. ¿Cuál es la afirmación principal?
-   - A. La encuesta fue obligatoria
-   - B. La biblioteca debe ampliar su horario
-   - C. Solo 38 estudiantes usan libros
-   - D. El liceo tiene 31 estudiantes
-2. ¿Cuál es la limitación más importante de la evidencia?
-   - A. La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
-   - B. La encuesta usa números
-   - C. La propuesta menciona una biblioteca
-   - D. La mayoría de quienes respondieron está de acuerdo
+**1. ¿Cuál es la afirmación principal?**
+
+- **A.** La encuesta fue obligatoria
+- **B.** La biblioteca debe ampliar su horario
+- **C.** Solo 38 estudiantes usan libros
+- **D.** El liceo tiene 31 estudiantes
+**2. ¿Cuál es la limitación más importante de la evidencia?**
+
+- **A.** La encuesta tiene una muestra pequeña y posiblemente autoseleccionada
+- **B.** La encuesta usa números
+- **C.** La propuesta menciona una biblioteca
+- **D.** La mayoría de quienes respondieron está de acuerdo
 
 ### Respuesta desarrollada
 
@@ -731,18 +777,18 @@ El centro de estudiantes propone ampliar la biblioteca. Afirma que la medida mej
 1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE2M OA 10 · Medios, persuasión y recursos multimodales](../curriculum/2-medio/lengua-literatura/le2m-oa-10.md#cl-11603) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Comparar afirmación, dato, procedencia y representatividad en dos textos o fuentes existentes.
 - **Cómo reevaluar:** Presentar una fuente nueva con otra limitación y pedir una conclusión proporcional a la evidencia.
 
 ## Matemática
 
-**Instrumento de referencia:** [PISA](EVALUACIONES_COMPLEMENTARIAS.md#pisa-programme-for-international-student-assessment).
+**Instrumento de referencia:** [PISA](evaluaciones/pisa.md).
 
 **Población orientativa:** 15 años · **Dominio:** Modelación contextual.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -756,16 +802,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 
 ### Preguntas cerradas
 
-1. ¿Qué expresión representa el primer servicio para x kilómetros?
-   - A. 1.200x + 350
-   - B. 1.200 + 350x
-   - C. 500 + 350x
-   - D. 1.550x
-2. ¿Cuánto cuesta el primer servicio en 4 km?
-   - A. $1.550
-   - B. $2.000
-   - C. $2.600
-   - D. $3.200
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
 
 ### Respuesta desarrollada
 
@@ -792,18 +840,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 1. **Preparar:** [MA2M OA 06 · Cambio porcentual constante e interés compuesto](../curriculum/2-medio/matematica/ma2m-oa-06.md#cl-11750) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
 
 ## Ciencias
 
-**Instrumento de referencia:** [PISA](EVALUACIONES_COMPLEMENTARIAS.md#pisa-programme-for-international-student-assessment).
+**Instrumento de referencia:** [PISA](evaluaciones/pisa.md).
 
 **Población orientativa:** 15 años · **Dominio:** Evidencia científica.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -817,16 +865,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 
 ### Preguntas cerradas
 
-1. ¿Cuál fue la variable modificada?
-   - A. Tipo de planta
-   - B. Cantidad de agua
-   - C. Duración
-   - D. Tipo de suelo
-2. ¿Qué conclusión está apoyada directamente?
-   - A. Toda planta crece mejor con más agua
-   - B. En estas condiciones, B tuvo mayor altura media
-   - C. El suelo causó la diferencia
-   - D. 100 ml es siempre la cantidad óptima
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
 
 ### Respuesta desarrollada
 
@@ -853,18 +903,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 1. **Preparar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
 
 ## Aprendizaje en el mundo digital
 
-**Instrumento de referencia:** [PISA](EVALUACIONES_COMPLEMENTARIAS.md#pisa-programme-for-international-student-assessment).
+**Instrumento de referencia:** [PISA](evaluaciones/pisa.md).
 
 **Población orientativa:** 15 años · **Dominio:** Aprendizaje y verificación digital.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -878,16 +928,18 @@ Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen
 
 ### Preguntas cerradas
 
-1. ¿Cuál es la primera acción más responsable?
-   - A. Reenviar por precaución
-   - B. Confirmar en canales oficiales con fecha y URL
-   - C. Confiar en el logotipo
-   - D. Preguntar cuántos me gusta tiene
-2. ¿Qué señal reduce la confiabilidad del mensaje?
-   - A. Menciona al municipio
-   - B. No tiene enlace ni fecha
-   - C. Usa una imagen
-   - D. Habla de clases
+**1. ¿Cuál es la primera acción más responsable?**
+
+- **A.** Reenviar por precaución
+- **B.** Confirmar en canales oficiales con fecha y URL
+- **C.** Confiar en el logotipo
+- **D.** Preguntar cuántos me gusta tiene
+**2. ¿Qué señal reduce la confiabilidad del mensaje?**
+
+- **A.** Menciona al municipio
+- **B.** No tiene enlace ni fecha
+- **C.** Usa una imagen
+- **D.** Habla de clases
 
 ### Respuesta desarrollada
 
@@ -914,18 +966,18 @@ Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen
 1. **Preparar:** [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](../curriculum/8-basico/tecnologia/te08-oa-02.md#cl-09590) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [TE08 OA 04 · Comunicación ética del proceso tecnológico](../curriculum/8-basico/tecnologia/te08-oa-04.md#cl-09600) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
 - **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
 
 ## 4° grado · Matemática
 
-**Instrumento de referencia:** [TIMSS](EVALUACIONES_COMPLEMENTARIAS.md#timss-trends-in-international-mathematics-and-science-study).
+**Instrumento de referencia:** [TIMSS](evaluaciones/timss.md).
 
 **Población orientativa:** Referencia aproximada: 4° básico · **Dominio:** Conocer, aplicar y razonar.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -939,16 +991,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 
 ### Preguntas cerradas
 
-1. ¿Cuántos lápices hay en la caja?
-   - A. 14
-   - B. 42
-   - C. 48
-   - D. 54
-2. ¿Cuántos lápices sobran después de entregar 45?
-   - A. 2
-   - B. 3
-   - C. 5
-   - D. 13
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
 
 ### Respuesta desarrollada
 
@@ -975,18 +1029,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 1. **Preparar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA04 OA 27 · Lectura crítica de pictogramas y barras](../curriculum/4-basico/matematica/ma04-oa-27.md#cl-04188) — 4° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
 
 ## 4° grado · Ciencias
 
-**Instrumento de referencia:** [TIMSS](EVALUACIONES_COMPLEMENTARIAS.md#timss-trends-in-international-mathematics-and-science-study).
+**Instrumento de referencia:** [TIMSS](evaluaciones/timss.md).
 
 **Población orientativa:** Referencia aproximada: 4° básico · **Dominio:** Ciencias.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1000,16 +1054,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 
 ### Preguntas cerradas
 
-1. ¿Cuál fue la variable modificada?
-   - A. Tipo de planta
-   - B. Cantidad de agua
-   - C. Duración
-   - D. Tipo de suelo
-2. ¿Qué conclusión está apoyada directamente?
-   - A. Toda planta crece mejor con más agua
-   - B. En estas condiciones, B tuvo mayor altura media
-   - C. El suelo causó la diferencia
-   - D. 100 ml es siempre la cantidad óptima
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
 
 ### Respuesta desarrollada
 
@@ -1036,18 +1092,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 1. **Preparar:** [CN04 OA 01 · Ecosistemas: componentes e interacciones](../curriculum/4-basico/ciencias-naturales/cn04-oa-01.md#cl-03296) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [CN04 OA 11 · Medición de masa, volumen y temperatura](../curriculum/4-basico/ciencias-naturales/cn04-oa-11.md#cl-03338) — 4° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
 
 ## 8° grado · Matemática
 
-**Instrumento de referencia:** [TIMSS](EVALUACIONES_COMPLEMENTARIAS.md#timss-trends-in-international-mathematics-and-science-study).
+**Instrumento de referencia:** [TIMSS](evaluaciones/timss.md).
 
 **Población orientativa:** Referencia aproximada: 8° básico · **Dominio:** Conocer, aplicar y razonar.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1061,16 +1117,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 
 ### Preguntas cerradas
 
-1. ¿Qué expresión representa el primer servicio para x kilómetros?
-   - A. 1.200x + 350
-   - B. 1.200 + 350x
-   - C. 500 + 350x
-   - D. 1.550x
-2. ¿Cuánto cuesta el primer servicio en 4 km?
-   - A. $1.550
-   - B. $2.000
-   - C. $2.600
-   - D. $3.200
+**1. ¿Qué expresión representa el primer servicio para x kilómetros?**
+
+- **A.** 1.200x + 350
+- **B.** 1.200 + 350x
+- **C.** 500 + 350x
+- **D.** 1.550x
+**2. ¿Cuánto cuesta el primer servicio en 4 km?**
+
+- **A.** $1.550
+- **B.** $2.000
+- **C.** $2.600
+- **D.** $3.200
 
 ### Respuesta desarrollada
 
@@ -1097,18 +1155,18 @@ Una cooperativa cobra $1.200 de bajada de bandera y $350 por kilómetro recorrid
 1. **Preparar:** [MA08 OA 08 · Modelación con ecuaciones lineales](../curriculum/8-basico/matematica/ma08-oa-08.md#cl-09341) — 8° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA08 OA 16 · Evaluación crítica de gráficos](../curriculum/8-basico/matematica/ma08-oa-16.md#cl-09378) — 8° básico, Matemática, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Contrastar tabla, gráfico, expresión y lenguaje natural en la clase vinculada.
 - **Cómo reevaluar:** Proponer un problema nuevo que exija elegir el modelo y explicar por qué se ajusta.
 
 ## 8° grado · Ciencias
 
-**Instrumento de referencia:** [TIMSS](EVALUACIONES_COMPLEMENTARIAS.md#timss-trends-in-international-mathematics-and-science-study).
+**Instrumento de referencia:** [TIMSS](evaluaciones/timss.md).
 
 **Población orientativa:** Referencia aproximada: 8° básico · **Dominio:** Ciencias.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1122,16 +1180,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 
 ### Preguntas cerradas
 
-1. ¿Cuál fue la variable modificada?
-   - A. Tipo de planta
-   - B. Cantidad de agua
-   - C. Duración
-   - D. Tipo de suelo
-2. ¿Qué conclusión está apoyada directamente?
-   - A. Toda planta crece mejor con más agua
-   - B. En estas condiciones, B tuvo mayor altura media
-   - C. El suelo causó la diferencia
-   - D. 100 ml es siempre la cantidad óptima
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
 
 ### Respuesta desarrollada
 
@@ -1158,18 +1218,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 1. **Preparar:** [CN08 OA 07 · Evidencia y decisiones para una vida saludable](../curriculum/8-basico/ciencias-naturales/cn08-oa-07.md#cl-08517) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [CN08 OA 11 · Calor, temperatura y transferencia térmica](../curriculum/8-basico/ciencias-naturales/cn08-oa-11.md#cl-08539) — 8° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
 
 ## Experiencia literaria
 
-**Instrumento de referencia:** [PIRLS](EVALUACIONES_COMPLEMENTARIAS.md#pirls-progress-in-international-reading-literacy-study).
+**Instrumento de referencia:** [PIRLS](evaluaciones/pirls.md).
 
 **Población orientativa:** Alrededor de 4° básico · **Dominio:** Comprensión literaria.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1183,16 +1243,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -1219,18 +1281,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE04 OA 05 · Comprensión de poemas y lenguaje figurado](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-05.md#cl-03907) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## Adquirir y usar información
 
-**Instrumento de referencia:** [PIRLS](EVALUACIONES_COMPLEMENTARIAS.md#pirls-progress-in-international-reading-literacy-study).
+**Instrumento de referencia:** [PIRLS](evaluaciones/pirls.md).
 
 **Población orientativa:** Alrededor de 4° básico · **Dominio:** Comprensión informativa.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1244,16 +1306,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -1280,18 +1344,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE04 OA 06 · Comprensión de textos no literarios](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-06.md#cl-03913) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE04 OA 09 · Búsqueda de información para investigar](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-09.md#cl-03930) — 4° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## Periodo de Diagnóstico
 
-**Instrumento de referencia:** [DIA](EVALUACIONES_COMPLEMENTARIAS.md#dia-diagn-stico-integral-de-aprendizajes).
+**Instrumento de referencia:** [DIA](evaluaciones/dia.md).
 
 **Población orientativa:** 1° básico a IV medio según oferta · **Dominio:** Punto de partida.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1305,16 +1369,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 
 ### Preguntas cerradas
 
-1. ¿Qué se puede afirmar después del primer error?
-   - A. Existe diagnóstico definitivo
-   - B. Existe una observación que requiere más evidencia
-   - C. La habilidad está dominada
-   - D. Debe asignarse un porcentaje
-2. ¿Qué hace válida la reevaluación pedagógica?
-   - A. Repetir la misma respuesta
-   - B. Usar una situación diferente para comprobar transferencia
-   - C. Subir la nota automáticamente
-   - D. Ocultar los criterios
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
 
 ### Respuesta desarrollada
 
@@ -1341,18 +1407,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
 
 ## Monitoreo Intermedio
 
-**Instrumento de referencia:** [DIA](EVALUACIONES_COMPLEMENTARIAS.md#dia-diagn-stico-integral-de-aprendizajes).
+**Instrumento de referencia:** [DIA](evaluaciones/dia.md).
 
 **Población orientativa:** 1° básico a IV medio según oferta · **Dominio:** Progreso durante el año.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1366,16 +1432,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 
 ### Preguntas cerradas
 
-1. ¿Qué se puede afirmar después del primer error?
-   - A. Existe diagnóstico definitivo
-   - B. Existe una observación que requiere más evidencia
-   - C. La habilidad está dominada
-   - D. Debe asignarse un porcentaje
-2. ¿Qué hace válida la reevaluación pedagógica?
-   - A. Repetir la misma respuesta
-   - B. Usar una situación diferente para comprobar transferencia
-   - C. Subir la nota automáticamente
-   - D. Ocultar los criterios
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
 
 ### Respuesta desarrollada
 
@@ -1402,18 +1470,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 1. **Preparar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
 
 ## Evaluación de Cierre
 
-**Instrumento de referencia:** [DIA](EVALUACIONES_COMPLEMENTARIAS.md#dia-diagn-stico-integral-de-aprendizajes).
+**Instrumento de referencia:** [DIA](evaluaciones/dia.md).
 
 **Población orientativa:** 1° básico a IV medio según oferta · **Dominio:** Progreso al cierre.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1427,16 +1495,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 
 ### Preguntas cerradas
 
-1. ¿Qué se puede afirmar después del primer error?
-   - A. Existe diagnóstico definitivo
-   - B. Existe una observación que requiere más evidencia
-   - C. La habilidad está dominada
-   - D. Debe asignarse un porcentaje
-2. ¿Qué hace válida la reevaluación pedagógica?
-   - A. Repetir la misma respuesta
-   - B. Usar una situación diferente para comprobar transferencia
-   - C. Subir la nota automáticamente
-   - D. Ocultar los criterios
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
 
 ### Respuesta desarrollada
 
@@ -1463,18 +1533,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
 
 ## 3° básico · Lectura
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 3° básico · **Dominio:** Lectura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1488,16 +1558,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -1524,18 +1596,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE03 OA 04 · Comprensión profunda de narraciones](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-04.md#cl-02724) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE03 OA 06 · Comprensión de textos no literarios](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-06.md#cl-02735) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## 3° básico · Escritura
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 3° básico · **Dominio:** Escritura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1549,16 +1621,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 
 ### Preguntas cerradas
 
-1. ¿Qué afirmación es compatible con los datos?
-   - A. Los bebederos siempre reducen el consumo
-   - B. El viernes se observaron 45 botellas menos que el lunes
-   - C. Toda la escuela cambió sus hábitos
-   - D. La campaña fue validada por un estudio anual
-2. ¿Qué límite debe declararse?
-   - A. Los datos son de una sola semana
-   - B. Las botellas son objetos
-   - C. El viernes ocurre después del lunes
-   - D. Hay dos cantidades
+**1. ¿Qué afirmación es compatible con los datos?**
+
+- **A.** Los bebederos siempre reducen el consumo
+- **B.** El viernes se observaron 45 botellas menos que el lunes
+- **C.** Toda la escuela cambió sus hábitos
+- **D.** La campaña fue validada por un estudio anual
+**2. ¿Qué límite debe declararse?**
+
+- **A.** Los datos son de una sola semana
+- **B.** Las botellas son objetos
+- **C.** El viernes ocurre después del lunes
+- **D.** Hay dos cantidades
 
 ### Respuesta desarrollada
 
@@ -1585,18 +1659,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 1. **Preparar:** [LE03 OA 14 · Artículos informativos en párrafos](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-14.md#cl-02773) — 3° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE03 OA 18 · Revisión y edición con propósito](../curriculum/3-basico/lenguaje-comunicacion/le03-oa-18.md#cl-02792) — 3° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
 - **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
 
 ## 3° básico · Matemática
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 3° básico · **Dominio:** Matemática.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1610,16 +1684,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 
 ### Preguntas cerradas
 
-1. ¿Cuántos lápices hay en la caja?
-   - A. 14
-   - B. 42
-   - C. 48
-   - D. 54
-2. ¿Cuántos lápices sobran después de entregar 45?
-   - A. 2
-   - B. 3
-   - C. 5
-   - D. 13
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
 
 ### Respuesta desarrollada
 
@@ -1646,18 +1722,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 1. **Preparar:** [MA03 OA 10 · Problemas con dinero y cuatro operaciones](../curriculum/3-basico/matematica/ma03-oa-10.md#cl-02933) — 3° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA03 OA 23 · Encuestas, tablas y gráficos de barra](../curriculum/3-basico/matematica/ma03-oa-23.md#cl-02988) — 3° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
 
 ## 6° básico · Lectura
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Lectura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1671,16 +1747,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -1707,18 +1785,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE06 OA 06 · Leer independientemente y comprender textos no literarios (cartas, biografías, relatos históricos, libros y artículos informativos, noticias, etc.) para](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-06.md#cl-06631) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## 6° básico · Escritura
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Escritura.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1732,16 +1810,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 
 ### Preguntas cerradas
 
-1. ¿Qué afirmación es compatible con los datos?
-   - A. Los bebederos siempre reducen el consumo
-   - B. El viernes se observaron 45 botellas menos que el lunes
-   - C. Toda la escuela cambió sus hábitos
-   - D. La campaña fue validada por un estudio anual
-2. ¿Qué límite debe declararse?
-   - A. Los datos son de una sola semana
-   - B. Las botellas son objetos
-   - C. El viernes ocurre después del lunes
-   - D. Hay dos cantidades
+**1. ¿Qué afirmación es compatible con los datos?**
+
+- **A.** Los bebederos siempre reducen el consumo
+- **B.** El viernes se observaron 45 botellas menos que el lunes
+- **C.** Toda la escuela cambió sus hábitos
+- **D.** La campaña fue validada por un estudio anual
+**2. ¿Qué límite debe declararse?**
+
+- **A.** Los datos son de una sola semana
+- **B.** Las botellas son objetos
+- **C.** El viernes ocurre después del lunes
+- **D.** Hay dos cantidades
 
 ### Respuesta desarrollada
 
@@ -1768,18 +1848,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 1. **Preparar:** [LE06 OA 15 · Escribir artículos informativos para comunicar información sobre un tema](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-15.md#cl-06681) — 6° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE06 OA 18 · Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad. durante este](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-18.md#cl-06696) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
 - **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
 
 ## 6° básico · Matemática
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Matemática.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1793,16 +1873,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 
 ### Preguntas cerradas
 
-1. ¿Cuántos lápices hay en la caja?
-   - A. 14
-   - B. 42
-   - C. 48
-   - D. 54
-2. ¿Cuántos lápices sobran después de entregar 45?
-   - A. 2
-   - B. 3
-   - C. 5
-   - D. 13
+**1. ¿Cuántos lápices hay en la caja?**
+
+- **A.** 14
+- **B.** 42
+- **C.** 48
+- **D.** 54
+**2. ¿Cuántos lápices sobran después de entregar 45?**
+
+- **A.** 2
+- **B.** 3
+- **C.** 5
+- **D.** 13
 
 ### Respuesta desarrollada
 
@@ -1829,18 +1911,18 @@ Una caja contiene 6 paquetes con 8 lápices cada uno. El curso necesita 45 lápi
 1. **Preparar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA06 OA 24 · Gráficos de barra doble y circulares](../curriculum/6-basico/matematica/ma06-oa-24.md#cl-06898) — 6° básico, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a una clase enlazada y representar con dibujo, tabla u operación antes de automatizar el procedimiento.
 - **Cómo reevaluar:** Cambiar números y contexto, pero conservar la relación matemática que debe reconocerse.
 
 ## 6° básico · Ciencias
 
-**Instrumento de referencia:** [ERCE](EVALUACIONES_COMPLEMENTARIAS.md#erce-estudio-regional-comparativo-y-explicativo).
+**Instrumento de referencia:** [ERCE](evaluaciones/erce.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Ciencias.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1854,16 +1936,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 
 ### Preguntas cerradas
 
-1. ¿Cuál fue la variable modificada?
-   - A. Tipo de planta
-   - B. Cantidad de agua
-   - C. Duración
-   - D. Tipo de suelo
-2. ¿Qué conclusión está apoyada directamente?
-   - A. Toda planta crece mejor con más agua
-   - B. En estas condiciones, B tuvo mayor altura media
-   - C. El suelo causó la diferencia
-   - D. 100 ml es siempre la cantidad óptima
+**1. ¿Cuál fue la variable modificada?**
+
+- **A.** Tipo de planta
+- **B.** Cantidad de agua
+- **C.** Duración
+- **D.** Tipo de suelo
+**2. ¿Qué conclusión está apoyada directamente?**
+
+- **A.** Toda planta crece mejor con más agua
+- **B.** En estas condiciones, B tuvo mayor altura media
+- **C.** El suelo causó la diferencia
+- **D.** 100 ml es siempre la cantidad óptima
 
 ### Respuesta desarrollada
 
@@ -1890,18 +1974,18 @@ Dos grupos de diez plantas iguales recibieron la misma luz y el mismo suelo. El 
 1. **Preparar:** [CN06 OA 01 · Explicar, a partir de una investigación experimental, los requerimientos de agua, dióxido de carbono y energía lumínica para](../curriculum/6-basico/ciencias-naturales/cn06-oa-01.md#cl-05833) — 6° básico, Ciencias Naturales, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [CN06 OA 08 · Que la energía es necesaria para que los objetos cambien y los seres vivos realicen sus procesos vitales](../curriculum/6-basico/ciencias-naturales/cn06-oa-08.md#cl-05864) — 6° básico, Ciencias Naturales, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Revisar una clase de indagación enlazada y comparar diseños que cambian una o varias variables.
 - **Cómo reevaluar:** Usar otro fenómeno con tabla de datos y pedir conclusión, límite y siguiente prueba.
 
 ## Alfabetización computacional e informacional
 
-**Instrumento de referencia:** [ICILS](EVALUACIONES_COMPLEMENTARIAS.md#icils-international-computer-and-information-literacy-study).
+**Instrumento de referencia:** [ICILS](evaluaciones/icils.md).
 
 **Población orientativa:** 8° básico · **Dominio:** Información digital.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1915,16 +1999,18 @@ Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen
 
 ### Preguntas cerradas
 
-1. ¿Cuál es la primera acción más responsable?
-   - A. Reenviar por precaución
-   - B. Confirmar en canales oficiales con fecha y URL
-   - C. Confiar en el logotipo
-   - D. Preguntar cuántos me gusta tiene
-2. ¿Qué señal reduce la confiabilidad del mensaje?
-   - A. Menciona al municipio
-   - B. No tiene enlace ni fecha
-   - C. Usa una imagen
-   - D. Habla de clases
+**1. ¿Cuál es la primera acción más responsable?**
+
+- **A.** Reenviar por precaución
+- **B.** Confirmar en canales oficiales con fecha y URL
+- **C.** Confiar en el logotipo
+- **D.** Preguntar cuántos me gusta tiene
+**2. ¿Qué señal reduce la confiabilidad del mensaje?**
+
+- **A.** Menciona al municipio
+- **B.** No tiene enlace ni fecha
+- **C.** Usa una imagen
+- **D.** Habla de clases
 
 ### Respuesta desarrollada
 
@@ -1951,18 +2037,18 @@ Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen
 1. **Preparar:** [TE08 OA 02 · Diseño sustentable y creación con herramientas TIC](../curriculum/8-basico/tecnologia/te08-oa-02.md#cl-09590) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [TE08 OA 04 · Comunicación ética del proceso tecnológico](../curriculum/8-basico/tecnologia/te08-oa-04.md#cl-09600) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
 - **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
 
 ## Pensamiento computacional · referencia
 
-**Instrumento de referencia:** [ICILS](EVALUACIONES_COMPLEMENTARIAS.md#icils-international-computer-and-information-literacy-study).
+**Instrumento de referencia:** [ICILS](evaluaciones/icils.md).
 
 **Población orientativa:** 8° básico · **Dominio:** Resolución digital.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -1976,16 +2062,18 @@ Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen
 
 ### Preguntas cerradas
 
-1. ¿Cuál es la primera acción más responsable?
-   - A. Reenviar por precaución
-   - B. Confirmar en canales oficiales con fecha y URL
-   - C. Confiar en el logotipo
-   - D. Preguntar cuántos me gusta tiene
-2. ¿Qué señal reduce la confiabilidad del mensaje?
-   - A. Menciona al municipio
-   - B. No tiene enlace ni fecha
-   - C. Usa una imagen
-   - D. Habla de clases
+**1. ¿Cuál es la primera acción más responsable?**
+
+- **A.** Reenviar por precaución
+- **B.** Confirmar en canales oficiales con fecha y URL
+- **C.** Confiar en el logotipo
+- **D.** Preguntar cuántos me gusta tiene
+**2. ¿Qué señal reduce la confiabilidad del mensaje?**
+
+- **A.** Menciona al municipio
+- **B.** No tiene enlace ni fecha
+- **C.** Usa una imagen
+- **D.** Habla de clases
 
 ### Respuesta desarrollada
 
@@ -2012,18 +2100,18 @@ Un mensaje viral afirma que mañana se suspenden las clases y muestra una imagen
 1. **Preparar:** [TE08 OA 01 · Oportunidades locales para crear productos tecnológicos](../curriculum/8-basico/tecnologia/te08-oa-01.md#cl-09586) — 8° básico, Tecnología, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [TE08 OA 03 · Evaluación técnica y mejora de productos](../curriculum/8-basico/tecnologia/te08-oa-03.md#cl-09595) — 8° básico, Tecnología, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Aplicar un protocolo explícito de autoría, fecha, evidencia, propósito y corroboración en la clase vinculada.
 - **Cómo reevaluar:** Usar otro contenido digital con señales distintas de confiabilidad y pedir documentar la verificación.
 
 ## Educación cívica y ciudadanía
 
-**Instrumento de referencia:** [ICCS](EVALUACIONES_COMPLEMENTARIAS.md#iccs-international-civic-and-citizenship-education-study).
+**Instrumento de referencia:** [ICCS](evaluaciones/iccs.md).
 
 **Población orientativa:** 8° básico · **Dominio:** Ciudadanía.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2037,16 +2125,18 @@ La municipalidad propone transformar un estacionamiento en plaza. Un informe mun
 
 ### Preguntas cerradas
 
-1. ¿Qué fuente entrega un dato cuantitativo verificable?
-   - A. Informe municipal
-   - B. Advertencia sin conteos
-   - C. Solicitud vecinal
-   - D. Ninguna
-2. ¿Qué información falta para comparar impactos?
-   - A. El color futuro de la plaza
-   - B. Conteos actuales de uso y accesibilidad
-   - C. El nombre de la calle
-   - D. La edad del alcalde
+**1. ¿Qué fuente entrega un dato cuantitativo verificable?**
+
+- **A.** Informe municipal
+- **B.** Advertencia sin conteos
+- **C.** Solicitud vecinal
+- **D.** Ninguna
+**2. ¿Qué información falta para comparar impactos?**
+
+- **A.** El color futuro de la plaza
+- **B.** Conteos actuales de uso y accesibilidad
+- **C.** El nombre de la calle
+- **D.** La edad del alcalde
 
 ### Respuesta desarrollada
 
@@ -2073,18 +2163,18 @@ La municipalidad propone transformar un estacionamiento en plaza. Un informe mun
 1. **Preparar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [HI08 OA 22 · Desarrollo regional y sustentabilidad](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-22.md#cl-08803) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
 - **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
 
 ## Precursores de la lectura
 
-**Instrumento de referencia:** [Impulso Lector](EVALUACIONES_COMPLEMENTARIAS.md#impulso-lector-evaluaci-n-impulso-lector).
+**Instrumento de referencia:** [Impulso Lector](evaluaciones/impulso-lector.md).
 
 **Población orientativa:** 2° básico · **Dominio:** Conciencia fonológica y decodificación.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2098,16 +2188,18 @@ Actividad oral original: el docente dice lentamente ‘mesa’, ‘mano’, ‘s
 
 ### Preguntas cerradas
 
-1. ¿Qué dos palabras comienzan con el mismo sonido?
-   - A. mesa y mano
-   - B. mesa y sapo
-   - C. mano y sapo
-   - D. sapo y mapa
-2. ¿Cuál palabra termina con el mismo sonido que ‘copa’?
-   - A. mesa
-   - B. mano
-   - C. sapo
-   - D. mapa
+**1. ¿Qué dos palabras comienzan con el mismo sonido?**
+
+- **A.** mesa y mano
+- **B.** mesa y sapo
+- **C.** mano y sapo
+- **D.** sapo y mapa
+**2. ¿Cuál palabra termina con el mismo sonido que ‘copa’?**
+
+- **A.** mesa
+- **B.** mano
+- **C.** sapo
+- **D.** mapa
 
 ### Respuesta desarrollada
 
@@ -2134,18 +2226,18 @@ Actividad oral original: el docente dice lentamente ‘mesa’, ‘mano’, ‘s
 1. **Preparar:** [LE01 OA 03 · Conciencia fonológica: reconocer, separar y combinar rimas, sílabas y fonemas](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-03.md#cl-00596) — 1° básico, Lenguaje y Comunicación, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE01 OA 04 · Lectura de palabras mediante correspondencias letra-sonido y combinaciones silábicas](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-04.md#cl-00600) — 1° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a actividades orales y visuales breves de la clase enlazada, modelar el sonido objetivo y retirar gradualmente el apoyo.
 - **Cómo reevaluar:** Usar palabras nuevas con la misma relación sonora y pedir una explicación oral o señalamiento accesible.
 
 ## Comprensión de lectura
 
-**Instrumento de referencia:** [Impulso Lector](EVALUACIONES_COMPLEMENTARIAS.md#impulso-lector-evaluaci-n-impulso-lector).
+**Instrumento de referencia:** [Impulso Lector](evaluaciones/impulso-lector.md).
 
 **Población orientativa:** 2° básico · **Dominio:** Comprensión inicial.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2159,16 +2251,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -2195,18 +2289,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE02 OA 03 · Estrategias para comprender mientras se lee](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-03.md#cl-01639) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE02 OA 05 · Comprensión profunda de narraciones](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-05.md#cl-01649) — 2° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## Fluidez lectora
 
-**Instrumento de referencia:** [Impulso Lector](EVALUACIONES_COMPLEMENTARIAS.md#impulso-lector-evaluaci-n-impulso-lector).
+**Instrumento de referencia:** [Impulso Lector](evaluaciones/impulso-lector.md).
 
 **Población orientativa:** 2° básico · **Dominio:** Precisión, fraseo y expresión.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2220,16 +2314,18 @@ Texto original para lectura oral: ‘Al amanecer, Tomás abrió la ventana. La l
 
 ### Preguntas cerradas
 
-1. ¿Qué ocurrió antes de que Tomás abriera la ventana?
-   - A. Comenzó la lluvia
-   - B. Terminó la lluvia
-   - C. Cerró el cuaderno
-   - D. Cayeron todas las gotas
-2. ¿Qué hizo Tomás después de mirar el patio?
-   - A. Dibujó y escribió una pregunta
-   - B. Volvió a dormir
-   - C. Cerró la ventana
-   - D. Secó todas las hojas
+**1. ¿Qué ocurrió antes de que Tomás abriera la ventana?**
+
+- **A.** Comenzó la lluvia
+- **B.** Terminó la lluvia
+- **C.** Cerró el cuaderno
+- **D.** Cayeron todas las gotas
+**2. ¿Qué hizo Tomás después de mirar el patio?**
+
+- **A.** Dibujó y escribió una pregunta
+- **B.** Volvió a dormir
+- **C.** Cerró la ventana
+- **D.** Secó todas las hojas
 
 ### Respuesta desarrollada
 
@@ -2256,18 +2352,18 @@ Texto original para lectura oral: ‘Al amanecer, Tomás abrió la ventana. La l
 1. **Preparar:** [LE01 OA 05 · Lectura oral precisa, autocorrección y respeto de puntos](../curriculum/1-basico/lenguaje-comunicacion/le01-oa-05.md#cl-00605) — 1° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE02 OA 02 · Fluidez al leer en voz alta con sentido](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-02.md#cl-01634) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una frase, realizar lectura eco o repetida con propósito y volver al significado del texto, sin exposición pública obligatoria.
 - **Cómo reevaluar:** Usar un texto nuevo de dificultad semejante y comparar precisión, fraseo y comprensión con la primera lectura.
 
 ## Estudio Nacional de Lectura
 
-**Instrumento de referencia:** [Estudios nacionales](EVALUACIONES_COMPLEMENTARIAS.md#estudios-nacionales-estudios-nacionales-de-aprendizaje).
+**Instrumento de referencia:** [Estudios nacionales](evaluaciones/estudios-nacionales.md).
 
 **Población orientativa:** 2° básico · **Dominio:** Lectura inicial.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2281,16 +2377,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 
 ### Preguntas cerradas
 
-1. ¿Qué día existe horario extendido?
-   - A. Lunes
-   - B. Miércoles
-   - C. Jueves
-   - D. Viernes
-2. ¿Qué puede hacer Martina a las 17:15 del jueves?
-   - A. Cambiar el libro con la bibliotecaria
-   - B. Dejar el libro en el buzón
-   - C. Entrar sin credencial
-   - D. Esperar dentro de la biblioteca
+**1. ¿Qué día existe horario extendido?**
+
+- **A.** Lunes
+- **B.** Miércoles
+- **C.** Jueves
+- **D.** Viernes
+**2. ¿Qué puede hacer Martina a las 17:15 del jueves?**
+
+- **A.** Cambiar el libro con la bibliotecaria
+- **B.** Dejar el libro en el buzón
+- **C.** Entrar sin credencial
+- **D.** Esperar dentro de la biblioteca
 
 ### Respuesta desarrollada
 
@@ -2317,18 +2415,18 @@ La biblioteca escolar abrirá los miércoles hasta las 17:00. El aviso agrega: �
 1. **Preparar:** [LE02 OA 03 · Estrategias para comprender mientras se lee](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-03.md#cl-01639) — 2° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE02 OA 05 · Comprensión profunda de narraciones](../curriculum/2-basico/lenguaje-comunicacion/le02-oa-05.md#cl-01649) — 2° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Modelar una lectura con subrayado de pregunta, evidencia y conclusión; después retirar el apoyo.
 - **Cómo reevaluar:** Usar otro texto y otra situación, manteniendo el mismo proceso de comprensión.
 
 ## Estudio Nacional de Escritura
 
-**Instrumento de referencia:** [Estudios nacionales](EVALUACIONES_COMPLEMENTARIAS.md#estudios-nacionales-estudios-nacionales-de-aprendizaje).
+**Instrumento de referencia:** [Estudios nacionales](evaluaciones/estudios-nacionales.md).
 
 **Población orientativa:** 6° básico · **Dominio:** Producción escrita.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2342,16 +2440,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 
 ### Preguntas cerradas
 
-1. ¿Qué afirmación es compatible con los datos?
-   - A. Los bebederos siempre reducen el consumo
-   - B. El viernes se observaron 45 botellas menos que el lunes
-   - C. Toda la escuela cambió sus hábitos
-   - D. La campaña fue validada por un estudio anual
-2. ¿Qué límite debe declararse?
-   - A. Los datos son de una sola semana
-   - B. Las botellas son objetos
-   - C. El viernes ocurre después del lunes
-   - D. Hay dos cantidades
+**1. ¿Qué afirmación es compatible con los datos?**
+
+- **A.** Los bebederos siempre reducen el consumo
+- **B.** El viernes se observaron 45 botellas menos que el lunes
+- **C.** Toda la escuela cambió sus hábitos
+- **D.** La campaña fue validada por un estudio anual
+**2. ¿Qué límite debe declararse?**
+
+- **A.** Los datos son de una sola semana
+- **B.** Las botellas son objetos
+- **C.** El viernes ocurre después del lunes
+- **D.** Hay dos cantidades
 
 ### Respuesta desarrollada
 
@@ -2378,18 +2478,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 1. **Preparar:** [LE06 OA 15 · Escribir artículos informativos para comunicar información sobre un tema](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-15.md#cl-06681) — 6° básico, Lenguaje y Comunicación, clase 1 de 5 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [LE06 OA 18 · Escribir, revisar y editar sus textos para satisfacer un propósito y transmitir sus ideas con claridad. durante este](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-18.md#cl-06696) — 6° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
 - **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
 
 ## Estudio Nacional de Formación Ciudadana
 
-**Instrumento de referencia:** [Estudios nacionales](EVALUACIONES_COMPLEMENTARIAS.md#estudios-nacionales-estudios-nacionales-de-aprendizaje).
+**Instrumento de referencia:** [Estudios nacionales](evaluaciones/estudios-nacionales.md).
 
 **Población orientativa:** 8° básico · **Dominio:** Ciudadanía.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2403,16 +2503,18 @@ La municipalidad propone transformar un estacionamiento en plaza. Un informe mun
 
 ### Preguntas cerradas
 
-1. ¿Qué fuente entrega un dato cuantitativo verificable?
-   - A. Informe municipal
-   - B. Advertencia sin conteos
-   - C. Solicitud vecinal
-   - D. Ninguna
-2. ¿Qué información falta para comparar impactos?
-   - A. El color futuro de la plaza
-   - B. Conteos actuales de uso y accesibilidad
-   - C. El nombre de la calle
-   - D. La edad del alcalde
+**1. ¿Qué fuente entrega un dato cuantitativo verificable?**
+
+- **A.** Informe municipal
+- **B.** Advertencia sin conteos
+- **C.** Solicitud vecinal
+- **D.** Ninguna
+**2. ¿Qué información falta para comparar impactos?**
+
+- **A.** El color futuro de la plaza
+- **B.** Conteos actuales de uso y accesibilidad
+- **C.** El nombre de la calle
+- **D.** La edad del alcalde
 
 ### Respuesta desarrollada
 
@@ -2439,18 +2541,18 @@ La municipalidad propone transformar un estacionamiento en plaza. Un informe mun
 1. **Preparar:** [HI08 OA 18 · Derechos del hombre, ciudadanía y vigencia actual](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-18.md#cl-08813) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [HI08 OA 22 · Desarrollo regional y sustentabilidad](../curriculum/8-basico/historia-geografia-ciencias-sociales/hi08-oa-22.md#cl-08803) — 8° básico, Historia, Geografía y Ciencias Sociales, clase 1 de 6 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Trabajar un caso de la clase vinculada con matriz de fuente, afirmación, evidencia y limitación.
 - **Cómo reevaluar:** Cambiar el conflicto público y pedir integrar dos fuentes y declarar qué dato falta.
 
 ## Estudio Nacional de Inglés
 
-**Instrumento de referencia:** [Estudios nacionales](EVALUACIONES_COMPLEMENTARIAS.md#estudios-nacionales-estudios-nacionales-de-aprendizaje).
+**Instrumento de referencia:** [Estudios nacionales](evaluaciones/estudios-nacionales.md).
 
 **Población orientativa:** Enseñanza media según ciclo · **Dominio:** Comprensión y comunicación en inglés.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2464,16 +2566,18 @@ School notice: ‘The science club meeting will take place in Room 12 on Thursda
 
 ### Preguntas cerradas
 
-1. What should every participant bring?
-   - A. A library card
-   - B. An observation notebook
-   - C. A lab coat
-   - D. A printed map
-2. Why does the notice mention the library corridor?
-   - A. To change the meeting time
-   - B. To provide an accessible route
-   - C. To borrow a science book
-   - D. To cancel the club
+**1. What should every participant bring?**
+
+- **A.** A library card
+- **B.** An observation notebook
+- **C.** A lab coat
+- **D.** A printed map
+**2. Why does the notice mention the library corridor?**
+
+- **A.** To change the meeting time
+- **B.** To provide an accessible route
+- **C.** To borrow a science book
+- **D.** To cancel the club
 
 ### Respuesta desarrollada
 
@@ -2500,18 +2604,18 @@ School notice: ‘The science club meeting will take place in Room 12 on Thursda
 1. **Preparar:** [FG-INGL-3M-OAC-01 · Central information and cultural perspectives](../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-01.md#cl-12304) — 3° medio · Formación General, Inglés 3º medio, clase 1 de 4 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [FG-INGL-3M-OAC-02 · Clear texts and respectful critical positions](../curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-02.md#cl-12308) — 3° medio · Formación General, Inglés 3º medio, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Volver a la clase enlazada, modelar cómo localizar detalles y usar un marco breve de mensaje antes de escribir de manera independiente.
 - **Cómo reevaluar:** Usar otro aviso auténtico u original y pedir un mensaje para una audiencia y propósito diferentes.
 
 ## Competencias generales técnico-profesionales · referencia
 
-**Instrumento de referencia:** [Estudios nacionales](EVALUACIONES_COMPLEMENTARIAS.md#estudios-nacionales-estudios-nacionales-de-aprendizaje).
+**Instrumento de referencia:** [Estudios nacionales](evaluaciones/estudios-nacionales.md).
 
 **Población orientativa:** Enseñanza media técnico-profesional · **Dominio:** Comunicación, datos y decisión.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2525,16 +2629,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 
 ### Preguntas cerradas
 
-1. ¿Qué afirmación es compatible con los datos?
-   - A. Los bebederos siempre reducen el consumo
-   - B. El viernes se observaron 45 botellas menos que el lunes
-   - C. Toda la escuela cambió sus hábitos
-   - D. La campaña fue validada por un estudio anual
-2. ¿Qué límite debe declararse?
-   - A. Los datos son de una sola semana
-   - B. Las botellas son objetos
-   - C. El viernes ocurre después del lunes
-   - D. Hay dos cantidades
+**1. ¿Qué afirmación es compatible con los datos?**
+
+- **A.** Los bebederos siempre reducen el consumo
+- **B.** El viernes se observaron 45 botellas menos que el lunes
+- **C.** Toda la escuela cambió sus hábitos
+- **D.** La campaña fue validada por un estudio anual
+**2. ¿Qué límite debe declararse?**
+
+- **A.** Los datos son de una sola semana
+- **B.** Las botellas son objetos
+- **C.** El viernes ocurre después del lunes
+- **D.** Hay dos cantidades
 
 ### Respuesta desarrollada
 
@@ -2561,18 +2667,18 @@ Datos de una campaña escolar: 120 botellas desechables usadas el lunes y 75 el 
 1. **Preparar:** [FG-LELI-4M-OAC-05 · Producción coherente y cohesionada para análisis, postura y creación](../curriculum/4-medio-fg/lengua-literatura-4o-medio/fg-leli-4m-oac-05.md#cl-12820) — 4° medio · Formación General, Lengua y literatura 4º medio, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [FG-MATE-4M-OAC-02 · Decisiones bajo incerteza con modelos binomial y normal](../curriculum/4-medio-fg/matematica-4o-medio/fg-mate-4m-oac-02.md#cl-12851) — 4° medio · Formación General, Matemática 4º medio, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Usar la clase enlazada para comparar borrador y revisión con un criterio visible cada vez.
 - **Cómo reevaluar:** Solicitar otro género o contexto que conserve la necesidad de explicar, justificar o sintetizar.
 
 ## Diagnóstico inicial
 
-**Instrumento de referencia:** [Interna](EVALUACIONES_COMPLEMENTARIAS.md#interna-evaluaci-n-formativa-interna-del-proyecto).
+**Instrumento de referencia:** [Interna](evaluaciones/interna.md).
 
 **Población orientativa:** 1° básico a 4° medio · **Dominio:** Observación inicial.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2586,16 +2692,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 
 ### Preguntas cerradas
 
-1. ¿Qué se puede afirmar después del primer error?
-   - A. Existe diagnóstico definitivo
-   - B. Existe una observación que requiere más evidencia
-   - C. La habilidad está dominada
-   - D. Debe asignarse un porcentaje
-2. ¿Qué hace válida la reevaluación pedagógica?
-   - A. Repetir la misma respuesta
-   - B. Usar una situación diferente para comprobar transferencia
-   - C. Subir la nota automáticamente
-   - D. Ocultar los criterios
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
 
 ### Respuesta desarrollada
 
@@ -2622,18 +2730,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 1. **Preparar:** [LE04 OA 04 · Comprensión profunda de narraciones](../curriculum/4-basico/lenguaje-comunicacion/le04-oa-04.md#cl-03901) — 4° básico, Lenguaje y Comunicación, clase 1 de 6 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA04 OA 07 · Problemas de dinero y elección de operaciones](../curriculum/4-basico/matematica/ma04-oa-07.md#cl-04104) — 4° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
 
 ## Seguimiento de intervención
 
-**Instrumento de referencia:** [Interna](EVALUACIONES_COMPLEMENTARIAS.md#interna-evaluaci-n-formativa-interna-del-proyecto).
+**Instrumento de referencia:** [Interna](evaluaciones/interna.md).
 
 **Población orientativa:** 1° básico a 4° medio · **Dominio:** Práctica y retroalimentación.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2647,16 +2755,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 
 ### Preguntas cerradas
 
-1. ¿Qué se puede afirmar después del primer error?
-   - A. Existe diagnóstico definitivo
-   - B. Existe una observación que requiere más evidencia
-   - C. La habilidad está dominada
-   - D. Debe asignarse un porcentaje
-2. ¿Qué hace válida la reevaluación pedagógica?
-   - A. Repetir la misma respuesta
-   - B. Usar una situación diferente para comprobar transferencia
-   - C. Subir la nota automáticamente
-   - D. Ocultar los criterios
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
 
 ### Respuesta desarrollada
 
@@ -2683,18 +2793,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 1. **Preparar:** [LE06 OA 07 · Evaluar críticamente la información presente en textos de diversa procedencia](../curriculum/6-basico/lenguaje-comunicacion/le06-oa-07.md#cl-06637) — 6° básico, Lenguaje y Comunicación, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA06 OA 08 · Problemas con fracciones y decimales](../curriculum/6-basico/matematica/ma06-oa-08.md#cl-06834) — 6° básico, Matemática, clase 1 de 4 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.
 
 ## Reevaluación y transferencia
 
-**Instrumento de referencia:** [Interna](EVALUACIONES_COMPLEMENTARIAS.md#interna-evaluaci-n-formativa-interna-del-proyecto).
+**Instrumento de referencia:** [Interna](evaluaciones/interna.md).
 
 **Población orientativa:** 1° básico a 4° medio · **Dominio:** Situación nueva.
 
-> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+> **Muestra breve original del proyecto · cobertura parcial.** No es un ensayo completo, no es una pregunta oficial y no reproduce la extensión, contenidos totales o escala del instrumento.
 
 ### Antes de aplicar
 
@@ -2708,16 +2818,18 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 
 ### Preguntas cerradas
 
-1. ¿Qué se puede afirmar después del primer error?
-   - A. Existe diagnóstico definitivo
-   - B. Existe una observación que requiere más evidencia
-   - C. La habilidad está dominada
-   - D. Debe asignarse un porcentaje
-2. ¿Qué hace válida la reevaluación pedagógica?
-   - A. Repetir la misma respuesta
-   - B. Usar una situación diferente para comprobar transferencia
-   - C. Subir la nota automáticamente
-   - D. Ocultar los criterios
+**1. ¿Qué se puede afirmar después del primer error?**
+
+- **A.** Existe diagnóstico definitivo
+- **B.** Existe una observación que requiere más evidencia
+- **C.** La habilidad está dominada
+- **D.** Debe asignarse un porcentaje
+**2. ¿Qué hace válida la reevaluación pedagógica?**
+
+- **A.** Repetir la misma respuesta
+- **B.** Usar una situación diferente para comprobar transferencia
+- **C.** Subir la nota automáticamente
+- **D.** Ocultar los criterios
 
 ### Respuesta desarrollada
 
@@ -2744,7 +2856,7 @@ En dos tareas distintas, una estudiante identifica datos explícitos pero invier
 1. **Preparar:** [LE2M OA 09 · Argumentación, modalizadores y fallas de razonamiento](../curriculum/2-medio/lengua-literatura/le2m-oa-09.md#cl-11596) — 2° medio, Lengua y Literatura, clase 1 de 7 (Conectar y diagnosticar).
 2. **Enseñar y practicar:** [MA2M OA 12 · Probabilidad, medios y decisiones sociales](../curriculum/2-medio/matematica/ma2m-oa-12.md#cl-11776) — 2° medio, Matemática, clase 1 de 5 (Conectar y diagnosticar).
 
-3. **Comprobar en otra situación:** aplicar este miniensayo y registrar la evidencia por criterio.
+3. **Comprobar en otra situación:** aplicar esta muestra y registrar la evidencia por criterio.
 
 - **Si aparece dificultad:** Seleccionar una de las clases enlazadas según el prerrequisito implicado y registrar el criterio de éxito.
 - **Cómo reevaluar:** Aplicar una situación distinta, comparar evidencia antes/después y confirmar o rechazar la hipótesis.

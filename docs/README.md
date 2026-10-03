@@ -22,7 +22,7 @@
 
 ---
 
-> **¿Buscas PAES, SIMCE, DIA, Impulso Lector, Estudios Nacionales, PISA, TIMSS, PIRLS u otra evaluación?** Abre [Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md). Allí cada instrumento tiene definición, razón de existir, historia, versiones anteriores, responsable, periodicidad, diseño, resultados, límites, fuentes y rutas hacia clases existentes. Los [ensayos originales](ENSAYOS_EJEMPLO.md) incluyen clave, rúbrica, cálculo de puntos, intervención y reevaluación.
+> **¿Buscas PAES, SIMCE, DIA, Impulso Lector, Estudios Nacionales, PISA, TIMSS, PIRLS u otra evaluación?** Abre el [índice de guías individuales](evaluaciones/README.md). Cada instrumento tiene su propio documento con definición, razón de existir, historia, versiones anteriores, responsable, periodicidad, diseño, resultados, límites, fuentes y rutas hacia clases existentes. Las [muestras calculables](ENSAYOS_EJEMPLO.md) incluyen clave, rúbrica e intervención, pero no se presentan como ensayos completos.
 
 ## 🎯 Qué resuelve esta documentación
 
@@ -69,9 +69,10 @@ Aquí puedes responder:
 | Registrar evidencia y reevaluar | [Ciclo de evidencia](EVIDENCE_CYCLE.md) | observación, patrón, hipótesis, intervención, transferencia y privacidad |
 | Consultar PAES, SIMCE, PISA, TIMSS o PIRLS | [Marcos de evaluación](ASSESSMENT_FRAMEWORKS.md) | fuentes, versiones, alcance, límites y tipo de correspondencia |
 | Entender cada instrumento sin conocer rutas | [Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md) | historia, antecesores, propósito, diseño, resultados, límites y rutas de PAES, SIMCE, DIA, Impulso Lector, Estudios Nacionales, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES e interna |
-| Aplicar ensayos de ejemplo y calcular el resultado | [Ensayos originales](ENSAYOS_EJEMPLO.md) | 45 variantes, clave, rúbrica, 0–4 puntos, criterio observable, intervención y reevaluación |
+| Examinar muestras breves y calcular el resultado | [Muestras y cobertura](ENSAYOS_EJEMPLO.md) | 45 variantes, clave, rúbrica, 0–4 puntos, criterio observable, intervención y reevaluación; cobertura parcial explícita |
 | Comparar el antes y el después | [Informe actual de brechas](INFORME_BRECHAS_ACTUAL.md) | brecha cerrada, parcial y acción pendiente |
-| Saber qué ocurrió con todo el prompt maestro | [Estado del prompt maestro](ESTADO_PROMPT_MAESTRO.md) | 30 bloques con evidencia, resultado existente y límite pendiente |
+| Saber qué puede usarse y qué falta | [Estado de implementación](ESTADO_IMPLEMENTACION.md) | Capacidades pedagógicas, evidencia, límites y próximos pasos |
+| Abrir un instrumento sin buscar dentro de un documento largo | [Guías individuales](evaluaciones/README.md) | 13 Markdown independientes con navegación entre instrumentos |
 | Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
 | Seguir el desarrollo ítem por ítem | [Plan maestro](PLAN_DESARROLLO.md) | orden por nivel y asignatura, estados, gates y controles profesionales |
 | Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 8.841 clases y 4.156 experiencias integradas |

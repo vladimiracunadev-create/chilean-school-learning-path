@@ -5,6 +5,20 @@
   "updates": [
     {
       "date": "2026-10-03",
+      "title": "Guías individuales, trayectoria PAES y cobertura honesta",
+      "summary": [
+        "Se retira de las superficies pedagógicas actuales el rótulo **Prompt Maestro**, porque describe una instrucción de trabajo con IA y no una categoría educativa; lo reemplaza un estado de implementación organizado por ocho capacidades, con evidencia y límites.",
+        "Cada uno de los trece instrumentos o familias recibe su propio Markdown extenso y navegable, además de una versión HTML generada y un índice común para docentes.",
+        "PAES deja de aparecer como contenido aislado de 4° medio: Competencia Lectora, M1, M2, Ciencias e Historia recorren antecedentes de básica, consolidación, razonamiento y transferencia en media mediante OA y clases existentes.",
+        "La progresión PAES se rotula como correspondencia pedagógica inferida y se distingue del temario oficial vigente; enlazar un OA como antecedente no significa afirmar que sea contenido directo de la prueba.",
+        "Las 45 piezas de tres tareas dejan de llamarse ensayos y pasan a llamarse **muestras breves calculables**. Se declara cobertura parcial y se fija el criterio futuro: matriz por versión y tareas para todos sus contenidos antes de usar “ensayo completo”.",
+        "Las páginas de instrumentos incorporan una composición visual más clara: identidad del instrumento, aviso de trayectoria, secciones editoriales, rutas multinivel, cobertura visible y acceso directo a la guía individual.",
+        "Las compilaciones PDF incorporan las trece guías, el índice y el nuevo estado de implementación; Markdown continúa enlazando Markdown y HTML enlazando HTML.",
+        "Se añade una memoria operativa interna en `scripts/CONTINUIDAD_TRABAJO.md` para conservar requisitos, decisiones y criterios de aceptación cuando la conversación se compacte; no se publica en el portal."
+      ]
+    },
+    {
+      "date": "2026-10-03",
       "title": "Centro visible de evaluaciones y ensayos conectados",
       "summary": [
         "Se amplía la documentación de los trece instrumentos o familias: definición, motivo de existencia, historia, antecesores, responsable, primera aplicación, periodicidad, diseño, lectura de resultados, límites y uso docente, siempre con fuentes institucionales.",
@@ -31,16 +45,6 @@
         "Las seis tareas originales ahora tienen fichas completas con estímulo, consigna, respuesta, solución explicada, criterios, rúbrica, prerrequisitos, OA y enlaces a clases existentes.",
         "El README y el centro documental enlazan guías Markdown para docentes; el sitio enlaza sus equivalentes HTML, sin obligar a interpretar identificadores técnicos.",
         "La validación automática impide que las vistas docentes vuelvan a enlazar JSON como lectura principal o exhiban tipos internos sin traducir."
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Novedades públicas sin caché obsoleta",
-      "summary": [
-        "La portada solicita `catalog.json` y `updates.json` sin reutilizar respuestas almacenadas, de modo que una publicación nueva sea visible inmediatamente después del despliegue.",
-        "El generador calcula una versión corta desde `app.js`, `catalog.json` y `updates.json`; `index.html` la agrega tanto al script como a cada solicitud de datos, por lo que el CDN no puede confundir una publicación nueva con la anterior.",
-        "La validación automática comprueba el contrato de actualización tanto en el script como en la portada y evita que vuelva a publicarse un sitio que oculte contenido reciente.",
-        "Se conserva el historial completo: esta corrección no sustituye ni reescribe las entradas que explican la capa longitudinal y el flujo de formatos."
       ]
     }
   ]

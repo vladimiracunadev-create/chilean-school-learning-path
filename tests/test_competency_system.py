@@ -177,21 +177,23 @@ class CompetencySystemTests(unittest.TestCase):
             self.assertGreaterEqual(len(instrument["boundaries"]), 3, key)
             self.assertGreater(len(instrument["definition"]), 120, key)
         paes = (ROOT / "site/evaluaciones/paes.html").read_text(encoding="utf-8")
-        for token in ("PAA", "PSU", "PDT", "Primera PAES", "100 a 1.000"):
+        for token in ("PAA", "PSU", "PDT", "Primera PAES", "100 a 1.000", "la competencia no comienza en 4° medio"):
             self.assertIn(token, paes)
+        for level in ("4° básico", "6° básico", "8° básico", "1° medio", "2° medio", "3° medio", "4° medio"):
+            self.assertIn(level, paes)
         eces = (ROOT / "site/evaluaciones/eces.html").read_text(encoding="utf-8")
         self.assertIn("unidad de análisis principal es el sistema", eces)
-        self.assertIn("No corresponde producir un miniensayo escolar ECES", eces)
+        self.assertIn("No corresponde producir una muestra escolar ECES", eces)
 
-    def test_every_documented_variant_has_a_scored_teacher_facing_exam(self):
+    def test_every_documented_variant_has_a_scored_teacher_facing_sample(self):
         self.assertEqual(len(VARIANTS), 45)
         for variant in VARIANTS:
             page = ROOT / "site/evaluaciones/ensayos" / f"{variant['id']}.html"
             self.assertTrue(page.is_file(), variant["id"])
             content = page.read_text(encoding="utf-8")
             for token in (
-                "Ensayo breve original · no oficial",
-                "Calcular puntos del ensayo",
+                "Muestra breve original · cobertura parcial · no oficial",
+                "Calcular puntos de la muestra",
                 "máximo 4 puntos",
                 "No es un puntaje oficial",
                 "Contenido y desempeño que se observará",
@@ -201,17 +203,47 @@ class CompetencySystemTests(unittest.TestCase):
             ):
                 self.assertIn(token, content, page)
 
-    def test_prompt_status_traces_all_thirty_requested_blocks(self):
-        status = (ROOT / "docs/ESTADO_PROMPT_MAESTRO.md").read_text(encoding="utf-8")
-        self.assertEqual(status.count("| **"), 30)
+    def test_implementation_status_uses_pedagogical_capabilities(self):
+        status = (ROOT / "docs/ESTADO_IMPLEMENTACION.md").read_text(encoding="utf-8")
         for token in (
-            "Qué existe", "Qué falta o limita", "Comprensión lectora existente",
-            "PAES como resultado de trayectoria", "Información digital e IA",
+            "Capacidad", "Qué existe", "Límite o trabajo pendiente",
+            "Competencias y progresión longitudinal", "Instrumentos complementarios",
+            "Diferencia entre muestra y ensayo",
         ):
             self.assertIn(token, status)
-        page = (ROOT / "site/evaluaciones/estado-prompt-maestro.html").read_text(encoding="utf-8")
-        self.assertEqual(page.count('class="prompt-status-card"'), 30)
-        self.assertIn("qué existe y qué falta", page)
+        page = (ROOT / "site/evaluaciones/estado-implementacion.html").read_text(encoding="utf-8")
+        self.assertEqual(page.count('class="implementation-area-card"'), 8)
+        self.assertIn("Qué puede usar un docente", page)
+        for current_surface in (status, page, (ROOT / "README.md").read_text(encoding="utf-8")):
+            self.assertNotIn("Prompt Maestro", current_surface)
+            self.assertNotIn("prompt maestro", current_surface)
+
+    def test_every_instrument_has_its_own_substantive_markdown_guide(self):
+        index = (ROOT / "docs/evaluaciones/README.md").read_text(encoding="utf-8")
+        guides = sorted((ROOT / "docs/evaluaciones").glob("*.md"))
+        self.assertEqual(len(guides), len(INSTRUMENTS) + 1)
+        for key, instrument in INSTRUMENTS.items():
+            guide = ROOT / "docs/evaluaciones" / f"{key}.md"
+            self.assertTrue(guide.is_file(), key)
+            content = guide.read_text(encoding="utf-8")
+            self.assertGreater(len(content), 5000, key)
+            for token in (
+                "## En una mirada", "## Qué es", "## Por qué existe",
+                "## Historia y versiones anteriores", "## Cómo funciona y qué observa",
+                "## Qué significan los resultados", "## Uso pedagógico antes, durante y después",
+                "## Matriz de cobertura disponible", "## Rutas longitudinales hacia clases existentes",
+                "## Fuentes institucionales",
+            ):
+                self.assertIn(token, content, guide)
+            self.assertIn(f"]({key}.md)", index)
+
+    def test_short_samples_are_not_presented_as_complete_exams(self):
+        markdown = (ROOT / "docs/ENSAYOS_EJEMPLO.md").read_text(encoding="utf-8")
+        page = (ROOT / "site/evaluaciones/ensayos.html").read_text(encoding="utf-8")
+        for content in (markdown, page):
+            self.assertIn("no ensayos completos", content.lower())
+            self.assertIn("cobertura parcial", content.lower())
+        self.assertNotIn("Ensayos originales de ejemplo", page)
 
     def test_all_level_pages_link_the_evaluation_center(self):
         pages = sorted((ROOT / "site/levels").glob("*.html"))
@@ -226,7 +258,8 @@ class CompetencySystemTests(unittest.TestCase):
             "docs/EVALUACIONES_COMPLEMENTARIAS.md",
             "docs/ENSAYOS_EJEMPLO.md",
             "docs/INFORME_BRECHAS_ACTUAL.md",
-            "docs/ESTADO_PROMPT_MAESTRO.md",
+            "docs/ESTADO_IMPLEMENTACION.md",
+            "docs/evaluaciones/README.md",
         ):
             content = (ROOT / relative).read_text(encoding="utf-8")
             self.assertNotIn("](/evaluaciones/", content, relative)
