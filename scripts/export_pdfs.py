@@ -462,6 +462,9 @@ def markdown_story(path: Path, styles: dict, available_width: float) -> list:
                 skipped_first_h1 = True
                 continue
             style = styles["h2"] if depth <= 2 else styles["h3"]
+            # A real flowable gap avoids a ReportLab edge case where a heading
+            # can visually touch the final line of the preceding paragraph.
+            story.append(Spacer(1, 3))
             story.append(Paragraph(inline_markup(title, path), style))
             continue
         if line.startswith(">"):
@@ -669,6 +672,26 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
                 sources,
             )
         )
+    jobs.extend(
+        [
+            PdfJob(
+                "evaluaciones-complementarias.pdf",
+                "Evaluaciones complementarias - guía docente",
+                "PAES, SIMCE, DIA y estudios internacionales explicados con sus conexiones curriculares.",
+                (
+                    DOCS / "EVALUACIONES_COMPLEMENTARIAS.md",
+                    DOCS / "INFORME_BRECHAS_ACTUAL.md",
+                    DOCS / "ESTADO_PROMPT_MAESTRO.md",
+                ),
+            ),
+            PdfJob(
+                "ensayos-ejemplo.pdf",
+                "Ensayos originales de ejemplo",
+                "Treinta y siete variantes, claves, rúbricas, cálculo transparente y referencias a OA y clases.",
+                (DOCS / "ENSAYOS_EJEMPLO.md",),
+            ),
+        ]
+    )
     jobs.append(
         PdfJob(
             "trayectoria-escolar-completa.pdf",
@@ -677,8 +700,8 @@ def build_jobs(catalog_path: Path | None = None) -> list[PdfJob]:
             complete_sources(catalog_path),
         )
     )
-    if len(jobs) != 49:
-        raise RuntimeError(f"Se esperaban 49 exportaciones PDF y se definieron {len(jobs)}")
+    if len(jobs) != 51:
+        raise RuntimeError(f"Se esperaban 51 exportaciones PDF y se definieron {len(jobs)}")
     return jobs
 
 
@@ -690,11 +713,14 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
     aggregate = jobs[:2]
     subject_jobs = [job for job in jobs if job.filename.startswith("por-asignatura-")]
     level_jobs = [job for job in jobs if job.filename.startswith("por-nivel-")]
-    complete = jobs[-1]
+    evaluation_jobs = [
+        job for job in jobs if job.filename in {"evaluaciones-complementarias.pdf", "ensayos-ejemplo.pdf"}
+    ]
+    complete = next(job for job in jobs if job.filename == "trayectoria-escolar-completa.pdf")
     lines = [
         "# PDFs para descarga",
         "",
-        "Las **49 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.",
+        "Las **51 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.",
         "",
         "Cada portada y sus metadatos muestran el corte documental tomado de la primera entrada fechada de `CHANGELOG.md`. La CI comprueba inventario, versión, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.",
         "",
@@ -710,6 +736,17 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
     lines.extend(
         [
             f"| Todo el programa y la documentación | [Descargar PDF completo]({relative_pdf_link(complete.filename)}) |",
+            "",
+            "## Evaluaciones y ensayos",
+            "",
+            "| Documento docente | Descarga |",
+            "|---|---|",
+        ]
+    )
+    for job in evaluation_jobs:
+        lines.append(f"| {job.title} | [Descargar PDF]({relative_pdf_link(job.filename)}) |")
+    lines.extend(
+        [
             "",
             "## PDF por nivel",
             "",
@@ -729,7 +766,7 @@ def write_catalog(jobs: list[PdfJob], destination: Path) -> None:
             "",
             "## Reproducibilidad y alcance",
             "",
-            "Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 49 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.",
+            "Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 51 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.",
             "",
             "Los PDF mantienen la separación de derechos descrita en [Licencias](../LICENSING.md): convertir a PDF no modifica la licencia ni la procedencia de cada componente.",
             "",
@@ -782,7 +819,7 @@ def validate_outputs(jobs: list[PdfJob]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--validate-only", action="store_true", help="Valida los 49 PDF existentes sin regenerarlos")
+    parser.add_argument("--validate-only", action="store_true", help="Valida los 51 PDF existentes sin regenerarlos")
     return parser.parse_args()
 
 

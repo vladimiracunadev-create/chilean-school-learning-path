@@ -1,5 +1,7 @@
 # Marcos de evaluación como vistas desacopladas
 
+> **Entrada docente completa:** [Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md) reúne PAES, SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES y evaluación interna; [Ensayos de ejemplo](ENSAYOS_EJEMPLO.md) muestra cada variante con puntuación transparente y clases de referencia. Este documento conserva la especificación de los marcos inicialmente modelados.
+
 PAES, SIMCE, PISA, TIMSS y PIRLS no constituyen el currículo de este proyecto. Cada marco se registra como una vista con procedencia, población, alcance y límites.
 
 [Guía docente de competencias](GUIA_DOCENTE_COMPETENCIAS.md) · [Banco de tareas completo](BANCO_TAREAS.md) · [Sistema longitudinal](COMPETENCY_SYSTEM.md)

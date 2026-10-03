@@ -1,8 +1,21 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-10-02",
+  "latest_date": "2026-10-03",
   "updates": [
+    {
+      "date": "2026-10-03",
+      "title": "Centro visible de evaluaciones y ensayos conectados",
+      "summary": [
+        "Se crea una entrada inequívoca llamada **Evaluaciones complementarias** desde la portada, la documentación, competencias y los doce niveles; ya no es necesario conocer la palabra técnica “marcos”.",
+        "PAES, SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES y evaluación interna tienen páginas identificables con propósito, población, documentos institucionales, estado real y límites.",
+        "Cada variante escolar documentada enlaza OA, contenidos y clases existentes como referencias pedagógicas; comprensión lectora reúne PAES Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE sin tratarlas como equivalentes.",
+        "Se publican 37 miniensayos originales con clave, rúbrica, cálculo interactivo de 0 a 4 puntos y decisión posterior; ningún resultado se convierte artificialmente en escala oficial.",
+        "Las descargas pasan de 49 a 51 PDF: se agregan una guía docente de instrumentos/brechas/estado y una compilación completa de los 37 ensayos.",
+        "El informe de brechas previo se conserva como línea base histórica y se añade un estado actual que indica brecha cerrada, parcial y acción pendiente, además de una tabla explícita para todos los bloques del prompt maestro.",
+        "Markdown enlaza documentación Markdown; HTML enlaza páginas HTML. Los JSON permanecen como soporte técnico y no como interfaz docente."
+      ]
+    },
     {
       "date": "2026-10-02",
       "title": "Competencias y marcos legibles para docentes",
@@ -22,16 +35,6 @@
         "El generador calcula una versión corta desde `app.js`, `catalog.json` y `updates.json`; `index.html` la agrega tanto al script como a cada solicitud de datos, por lo que el CDN no puede confundir una publicación nueva con la anterior.",
         "La validación automática comprueba el contrato de actualización tanto en el script como en la portada y evita que vuelva a publicarse un sitio que oculte contenido reciente.",
         "Se conserva el historial completo: esta corrección no sustituye ni reescribe las entradas que explican la capa longitudinal y el flujo de formatos."
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Flujo versionado y estándares Markdown, HTML y PDF",
-      "summary": [
-        "Se documenta el ciclo completo fuente → versión → regeneración → validación → `main` → CI → GitHub Pages, incluyendo responsables, estados, rollback y comprobación posterior al despliegue.",
-        "Se establece Markdown como representación canónica de lectura; los enlaces internos Markdown→Markdown y HTML→HTML pasan a verificarse en todo el repositorio, sin mezclar superficies.",
-        "Los 3.047 documentos Markdown quedan sujetos a un contrato visual automatizado: UTF-8, un solo H1, jerarquía de títulos, bloques cercados balanceados, enlaces no vacíos y navegación interna coherente.",
-        "Las 49 compilaciones PDF se declaran salidas derivadas del Markdown canónico, con versión documental visible, metadatos, índice, marcadores, enlaces, fuentes únicas y validación de lectura; nunca se editan manualmente."
       ]
     }
   ]

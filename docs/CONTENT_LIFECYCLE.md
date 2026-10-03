@@ -76,7 +76,7 @@ La portada carga `catalog.json` y `updates.json` con política `no-store`. El ge
 | Licencias | falta procedencia, licencia o atribución | derechos explícitos |
 | Pruebas | cambia un contrato verificable | comportamiento estable |
 | Reproducibilidad | un generado comprometido no coincide con su fuente | repositorio sincronizado |
-| PDF | inventario, fuentes, portada, metadatos, marcadores, enlaces o lectura son inválidos | 49 compilaciones utilizables |
+| PDF | inventario, fuentes, portada, metadatos, marcadores, enlaces o lectura son inválidos | 51 compilaciones utilizables |
 | Pages | la construcción o validación previa falla | no se publica información incompleta |
 
 ## Retroceso y correcciones

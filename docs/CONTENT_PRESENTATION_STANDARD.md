@@ -78,7 +78,7 @@ El HTML se corrige desde el generador, la plantilla o el Markdown fuente. No se 
 
 ## Contrato visual de PDF
 
-Las 49 compilaciones deben:
+Las 51 compilaciones deben:
 
 - generarse únicamente con `scripts/export_pdfs.py` desde Markdown canónico;
 - mostrar título, alcance, corte documental y estado editorial en la portada;
@@ -99,7 +99,7 @@ python scripts/validate_content_presentation.py
 python scripts/export_pdfs.py --validate-only
 ```
 
-El primer comando recorre todos los Markdown y HTML versionados. El segundo valida las 49 salidas PDF. Ambos se ejecutan en Calidad y Pages antes de publicar.
+El primer comando recorre todos los Markdown y HTML versionados. El segundo valida las 51 salidas PDF. Ambos se ejecutan en Calidad y Pages antes de publicar.
 
 ## Responsabilidad editorial
 

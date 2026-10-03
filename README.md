@@ -14,6 +14,8 @@
 
 > **Nuevo · 2 de octubre de 2026:** este README ya explica qué contiene la nueva capa longitudinal, dónde está cada fuente y cómo se enlaza con OA y clases existentes. No crea otro currículo ni otro curso de comprensión lectora. [Ver el mapa](#-competencias-diagnóstico-y-progreso-longitudinal) · [Ver el historial](CHANGELOG.md#2026-10-02--readme-principal-con-mapa-de-la-capa-longitudinal).
 
+> **Nuevo · 3 de octubre de 2026:** PAES y las demás evaluaciones ya no están escondidas bajo la palabra “marcos”. Existe un centro docente con PAES, SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES y evaluación interna; cada instrumento explica sus documentos, variantes, OA y clases de referencia. También hay ensayos originales con claves, rúbricas y cálculo transparente de puntos. [Abrir evaluaciones complementarias](docs/EVALUACIONES_COMPLEMENTARIAS.md) · [Abrir todos los ensayos](docs/ENSAYOS_EJEMPLO.md) · [Comparar las brechas](docs/INFORME_BRECHAS_ACTUAL.md) · [Revisar el prompt maestro](docs/ESTADO_PROMPT_MAESTRO.md).
+
 [![1° básico](https://img.shields.io/badge/1%C2%B0%20b%C3%A1sico-691%20clases%20%C2%B7%2011%20asignaturas-17643a?style=for-the-badge)](docs/1-basico/README.md)
 [![2° básico](https://img.shields.io/badge/2%C2%B0%20b%C3%A1sico-721%20clases%20%C2%B7%2011%20asignaturas-0c5963?style=for-the-badge)](docs/2-basico/README.md)
 [![3° básico](https://img.shields.io/badge/3%C2%B0%20b%C3%A1sico-757%20clases%20%C2%B7%2011%20asignaturas-b45309?style=for-the-badge)](docs/3-basico/README.md)
@@ -49,6 +51,18 @@
 > Proyecto educativo independiente. No representa al Ministerio de Educación de Chile ni reemplaza las Bases Curriculares, los Programas de Estudio, la planificación del establecimiento, las adecuaciones pertinentes o el juicio profesional. No publiques datos identificables de estudiantes.
 
 ## 👋 Empieza aquí
+
+### Si buscas PAES, SIMCE u otra evaluación
+
+No necesitas revisar carpetas técnicas ni abrir JSON:
+
+1. **[Evaluaciones complementarias](docs/EVALUACIONES_COMPLEMENTARIAS.md):** explica cada instrumento por nombre, propósito, población, documentos oficiales y conexión con OA y clases.
+2. **[Ensayos originales de ejemplo](docs/ENSAYOS_EJEMPLO.md):** incluye todas las variantes documentadas, respuesta correcta, rúbrica, cálculo de 0 a 4 puntos del proyecto y contenidos para reforzar.
+3. **[Informe de brechas previo](docs/COMPETENCY_GAP_REPORT.md):** conserva lo que existía antes de implementar.
+4. **[Informe de brechas actual](docs/INFORME_BRECHAS_ACTUAL.md):** muestra qué se cerró, qué quedó parcial y qué falta.
+5. **[Estado del prompt maestro](docs/ESTADO_PROMPT_MAESTRO.md):** recorre auditoría, competencias, diagnóstico, banco, psicometría, adaptación, IA y vistas sin presentar lo parcial como terminado.
+
+En comprensión lectora están diferenciadas **PAES Competencia Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE Lectura**. Todas regresan a clases existentes; ninguna se presenta como equivalente a otra.
 
 Este repositorio ofrece hoy los siguientes recorridos, expresados sin mezclar clases, integraciones ni revisión humana:
 
@@ -555,7 +569,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el 
 ### Comprender el programa
 
 - [Centro documental](docs/README.md)
-- [49 compilaciones PDF: básica, media, por nivel, por asignatura y completa](docs/PDFS.md)
+- [51 compilaciones PDF: evaluaciones, ensayos, básica, media, por nivel, por asignatura y completa](docs/PDFS.md)
 - [Syllabus general de 1° básico a 4° medio](docs/SYLLABUS.md)
 - [¿Qué es un OA?](docs/QUE_ES_UN_OA.md)
 - [Glosario educativo](docs/GLOSARIO.md)
@@ -639,7 +653,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 ## ✅ Calidad y CI
 
-Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 71 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 49 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
+Cada cambio propuesto y cada actualización de `main` pasan por **Calidad** en Python 3.11, 3.12 y 3.13. El flujo valida currículo, licencias y competencias, ejecuta 75 pruebas, compila los scripts, revisa UTF-8, comprueba la regeneración textual limpia y verifica estructuralmente las 51 compilaciones PDF. **Pages** vuelve a construir y validar antes de publicar; **Seguridad** busca secretos y audita los workflows semanalmente.
 
 Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages](.github/workflows/pages.yml) y [Seguridad](.github/workflows/security.yml). Usan permisos mínimos y acciones fijadas por SHA. Los criterios pedagógicos y editoriales están en [Estándar de calidad](QUALITY_STANDARD.md); los estados detallados, en [Estado editorial](EDITORIAL_STATUS.md).
 

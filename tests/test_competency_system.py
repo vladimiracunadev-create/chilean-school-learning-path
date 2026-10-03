@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from competency_evidence import EvidenceError, analyze_cycle  # noqa: E402
+from evaluation_catalog import INSTRUMENTS, VARIANTS  # noqa: E402
 from validate_competency_system import validate  # noqa: E402
 
 
@@ -129,6 +130,73 @@ class CompetencySystemTests(unittest.TestCase):
                 "no posee validación psicométrica",
             ):
                 self.assertIn(token, content, path)
+
+    def test_evaluation_center_is_named_and_complete(self):
+        center = (ROOT / "site/evaluaciones/index.html").read_text(encoding="utf-8")
+        for token in (
+            "Evaluaciones complementarias",
+            "PAES",
+            "SIMCE",
+            "DIA",
+            "PISA",
+            "TIMSS",
+            "PIRLS",
+            "ERCE",
+            "ICILS",
+            "ICCS",
+            "ECES",
+            "Todas las entradas lectoras",
+            "Informe de brechas histórico",
+        ):
+            self.assertIn(token, center)
+        self.assertNotIn('href="../competencias/data/', center)
+        for key in INSTRUMENTS:
+            page = ROOT / "site/evaluaciones" / f"{key}.html"
+            self.assertTrue(page.is_file(), key)
+            content = page.read_text(encoding="utf-8")
+            for token in (
+                "Fuentes oficiales consultadas",
+                "OA, contenidos y clases asociados como referencia",
+                "No confundir referencia con equivalencia",
+            ):
+                self.assertIn(token, content, page)
+
+    def test_every_documented_variant_has_a_scored_teacher_facing_exam(self):
+        self.assertEqual(len(VARIANTS), 37)
+        for variant in VARIANTS:
+            page = ROOT / "site/evaluaciones/ensayos" / f"{variant['id']}.html"
+            self.assertTrue(page.is_file(), variant["id"])
+            content = page.read_text(encoding="utf-8")
+            for token in (
+                "Ensayo breve original · no oficial",
+                "Calcular puntos del ensayo",
+                "máximo 4 puntos",
+                "No es un puntaje oficial",
+                "OA y clases que permiten enseñar o reforzar",
+            ):
+                self.assertIn(token, content, page)
+
+    def test_all_level_pages_link_the_evaluation_center(self):
+        pages = sorted((ROOT / "site/levels").glob("*.html"))
+        self.assertEqual(len(pages), 12)
+        for page in pages:
+            content = page.read_text(encoding="utf-8")
+            self.assertIn("Evaluaciones complementarias", content, page)
+            self.assertIn('../evaluaciones/index.html', content, page)
+
+    def test_markdown_surfaces_explain_gaps_and_do_not_link_internal_html(self):
+        for relative in (
+            "docs/EVALUACIONES_COMPLEMENTARIAS.md",
+            "docs/ENSAYOS_EJEMPLO.md",
+            "docs/INFORME_BRECHAS_ACTUAL.md",
+            "docs/ESTADO_PROMPT_MAESTRO.md",
+        ):
+            content = (ROOT / relative).read_text(encoding="utf-8")
+            self.assertNotIn("](/evaluaciones/", content, relative)
+            self.assertNotIn("](.html", content, relative)
+        current = (ROOT / "docs/INFORME_BRECHAS_ACTUAL.md").read_text(encoding="utf-8")
+        self.assertIn("no reemplaza", current)
+        self.assertIn("Otros instrumentos", current)
 
 
 if __name__ == "__main__":

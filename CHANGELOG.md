@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-03 · Centro visible de evaluaciones y ensayos conectados
+
+- Se crea una entrada inequívoca llamada **Evaluaciones complementarias** desde la portada, la documentación, competencias y los doce niveles; ya no es necesario conocer la palabra técnica “marcos”.
+- PAES, SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES y evaluación interna tienen páginas identificables con propósito, población, documentos institucionales, estado real y límites.
+- Cada variante escolar documentada enlaza OA, contenidos y clases existentes como referencias pedagógicas; comprensión lectora reúne PAES Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE sin tratarlas como equivalentes.
+- Se publican 37 miniensayos originales con clave, rúbrica, cálculo interactivo de 0 a 4 puntos y decisión posterior; ningún resultado se convierte artificialmente en escala oficial.
+- Las descargas pasan de 49 a 51 PDF: se agregan una guía docente de instrumentos/brechas/estado y una compilación completa de los 37 ensayos.
+- El informe de brechas previo se conserva como línea base histórica y se añade un estado actual que indica brecha cerrada, parcial y acción pendiente, además de una tabla explícita para todos los bloques del prompt maestro.
+- Markdown enlaza documentación Markdown; HTML enlaza páginas HTML. Los JSON permanecen como soporte técnico y no como interfaz docente.
+
 ## 2026-10-02 · Competencias y marcos legibles para docentes
 
 - Los archivos JSON dejan de ser la interfaz pública: permanecen como fuente técnica validada, mientras habilidades, progresiones, marcos y tareas se presentan en páginas pedagógicas navegables.

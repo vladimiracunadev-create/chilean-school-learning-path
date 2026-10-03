@@ -1,6 +1,6 @@
 # PDFs para descarga
 
-Las **49 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.
+Las **51 compilaciones PDF** se generan desde las guías canónicas del repositorio. Incluyen tabla de contenido, numeración, enlaces clicables a las fichas OA y los avisos de estado editorial.
 
 Cada portada y sus metadatos muestran el corte documental tomado de la primera entrada fechada de `CHANGELOG.md`. La CI comprueba inventario, versión, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.
 
@@ -13,6 +13,13 @@ Cada portada y sus metadatos muestran el corte documental tomado de la primera e
 | Educación Básica completa | [Descargar PDF](../output/pdf/educacion-basica-completa.pdf) |
 | Enseñanza Media completa | [Descargar PDF](../output/pdf/ensenanza-media-completa.pdf) |
 | Todo el programa y la documentación | [Descargar PDF completo](../output/pdf/trayectoria-escolar-completa.pdf) |
+
+## Evaluaciones y ensayos
+
+| Documento docente | Descarga |
+|---|---|
+| Evaluaciones complementarias - guía docente | [Descargar PDF](../output/pdf/evaluaciones-complementarias.pdf) |
+| Ensayos originales de ejemplo | [Descargar PDF](../output/pdf/ensayos-ejemplo.pdf) |
 
 ## PDF por nivel
 
@@ -72,6 +79,6 @@ Cada portada y sus metadatos muestran el corte documental tomado de la primera e
 
 ## Reproducibilidad y alcance
 
-Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 49 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.
+Ejecuta `python scripts/export_pdfs.py` después de regenerar el programa. La CI vuelve a crear las 51 salidas, valida su contenido y exige que los demás artefactos derivados no presenten diferencias.
 
 Los PDF mantienen la separación de derechos descrita en [Licencias](../LICENSING.md): convertir a PDF no modifica la licencia ni la procedencia de cada componente.

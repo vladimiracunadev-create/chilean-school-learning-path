@@ -22,6 +22,8 @@
 
 ---
 
+> **¿Buscas PAES, SIMCE, DIA, PISA, TIMSS, PIRLS u otra evaluación?** Abre [Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md). Allí cada instrumento tiene propósito, población, documentos institucionales, variantes, OA y clases de referencia. Los [ensayos originales](ENSAYOS_EJEMPLO.md) incluyen clave, rúbrica y cálculo de puntos del proyecto.
+
 ## 🎯 Qué resuelve esta documentación
 
 El catálogo contiene miles de clases, pero un número no explica cómo usarlo. Este centro conecta la fuente curricular, el mapa de contenidos, la planificación, la conducción de aula, la evaluación y la revisión editorial.
@@ -66,6 +68,10 @@ Aquí puedes responder:
 | Aplicar las nuevas tareas | [Banco de tareas completo](BANCO_TAREAS.md) | estímulos, preguntas, respuestas, soluciones, rúbricas, OA y marcos |
 | Registrar evidencia y reevaluar | [Ciclo de evidencia](EVIDENCE_CYCLE.md) | observación, patrón, hipótesis, intervención, transferencia y privacidad |
 | Consultar PAES, SIMCE, PISA, TIMSS o PIRLS | [Marcos de evaluación](ASSESSMENT_FRAMEWORKS.md) | fuentes, versiones, alcance, límites y tipo de correspondencia |
+| Encontrar todos los instrumentos sin conocer rutas | [Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md) | PAES, SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS, ECES e interna |
+| Aplicar ensayos de ejemplo y calcular el resultado | [Ensayos originales](ENSAYOS_EJEMPLO.md) | variantes, clave, rúbrica, 0–4 puntos y regreso a clases |
+| Comparar el antes y el después | [Informe actual de brechas](INFORME_BRECHAS_ACTUAL.md) | brecha cerrada, parcial y acción pendiente |
+| Saber qué ocurrió con todo el prompt maestro | [Estado del prompt maestro](ESTADO_PROMPT_MAESTRO.md) | cumplimiento explícito y límites reales |
 | Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
 | Seguir el desarrollo ítem por ítem | [Plan maestro](PLAN_DESARROLLO.md) | orden por nivel y asignatura, estados, gates y controles profesionales |
 | Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 8.841 clases y 4.156 experiencias integradas |
@@ -177,7 +183,7 @@ README.md
 ├── docs/FORMATOS.md               ← Markdown + HTML
 ├── docs/CONTENT_LIFECYCLE.md      ← versión, generación y despliegue
 ├── docs/CONTENT_PRESENTATION_STANDARD.md ← contrato visual MD, HTML y PDF
-├── docs/PDFS.md                   ← 49 compilaciones PDF descargables
+├── docs/PDFS.md                   ← 51 compilaciones PDF descargables
 ├── docs/LICENCIAS.md              ← guía simple de reutilización
 ├── docs/1-basico/README.md        ← índice maestro del nivel
 │   └── 11 guías de asignatura

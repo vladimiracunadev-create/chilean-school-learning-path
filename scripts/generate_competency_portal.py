@@ -11,14 +11,26 @@ from pathlib import Path
 from typing import Any
 
 from competency_evidence import analyze_cycle
+from evaluation_catalog import INSTRUMENTS, PROMPT_STATUS, SAMPLE_FORMS, VARIANTS
 
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "site" / "competencias"
+EVALUATION_OUTPUT = ROOT / "site" / "evaluaciones"
 PUBLIC_URL = (
     "https://vladimiracunadev-create.github.io/"
     "chilean-school-learning-path/competencias/"
 )
+EVALUATION_PUBLIC_URL = (
+    "https://vladimiracunadev-create.github.io/"
+    "chilean-school-learning-path/evaluaciones/"
+)
+
+FRAMEWORK_INSTRUMENTS = {
+    value["framework_id"]: key
+    for key, value in INSTRUMENTS.items()
+    if value["framework_id"]
+}
 
 TASK_TYPE_LABELS = {
     "multiple_choice": "Selección múltiple",
@@ -93,6 +105,9 @@ def item_url(item: dict[str, Any], prefix: str = "") -> str:
 
 
 def framework_url(framework_id: str, prefix: str = "") -> str:
+    instrument = FRAMEWORK_INSTRUMENTS.get(framework_id)
+    if instrument:
+        return f"{prefix}../evaluaciones/{instrument}.html"
     return f"{prefix}marcos-evaluacion.html#{esc(framework_id)}"
 
 
@@ -110,6 +125,15 @@ def first_class_sources() -> dict[str, str]:
     for item in catalog["classes"]:
         sources.setdefault(item["oa_code"], item["path"])
     return sources
+
+
+def class_references() -> dict[str, dict[str, Any]]:
+    """Return the first published class for every OA used as a reference."""
+    catalog = load("curriculum/catalog.json")
+    references: dict[str, dict[str, Any]] = {}
+    for item in catalog["classes"]:
+        references.setdefault(item["oa_code"], item)
+    return references
 
 
 def progression_html(
@@ -142,11 +166,12 @@ def progression_html(
 
 def framework_card(framework: dict[str, Any]) -> str:
     limitations = "".join(f"<li>{esc(item)}</li>" for item in framework["limitations"])
+    instrument = FRAMEWORK_INSTRUMENTS.get(framework["id"], "")
     return f'''<article class="level-card framework-card">
       <div><span>{esc(framework['short_name'])}</span><span>{esc(framework['version'])}</span></div>
       <h2>{esc(framework['name'])}</h2><p>{esc(framework['population'])}</p>
       <details><summary>Alcance y límites</summary><p>{esc(framework['scope'])}</p><ul>{limitations}</ul></details>
-      <a href="marcos-evaluacion.html#{esc(framework['id'])}">Qué hizo el proyecto con {esc(framework['short_name'])} →</a>
+      <a href="../evaluaciones/{esc(instrument)}.html">Abrir {esc(framework['short_name'])}: documentos, clases y ensayos →</a>
     </article>'''
 
 
@@ -190,7 +215,7 @@ def page_top(title: str, description: str, back_href: str = "index.html") -> str
 
 
 def page_footer() -> str:
-    return '''<footer class="site-footer"><div><strong>Competencias y evidencia</strong><span>Lectura pedagógica para docentes · datos técnicos validados en segundo plano</span></div><div><a href="index.html">Competencias</a><a href="marcos-evaluacion.html">Marcos de evaluación</a><a href="banco-tareas.html">Banco de tareas</a><a href="../documentacion.html">Documentación</a></div></footer></body></html>'''
+    return '''<footer class="site-footer"><div><strong>Competencias y evidencia</strong><span>Lectura pedagógica para docentes · datos técnicos validados en segundo plano</span></div><div><a href="index.html">Competencias</a><a href="../evaluaciones/index.html">Evaluaciones: PAES y todas las demás</a><a href="banco-tareas.html">Banco de tareas</a><a href="../documentacion.html">Documentación</a></div></footer></body></html>'''
 
 
 def stimulus_html(stimulus: dict[str, Any]) -> str:
@@ -254,7 +279,7 @@ def task_page(
         for code in item["oa_codes"]
     )
     framework_rows = "".join(
-        f'''<tr><th scope="row"><a href="../marcos-evaluacion.html#{esc(link['framework_id'])}">{esc(frameworks_by_id[link['framework_id']]['short_name'])}</a></th>
+        f'''<tr><th scope="row"><a href="../../evaluaciones/{esc(FRAMEWORK_INSTRUMENTS[link['framework_id']])}.html">{esc(frameworks_by_id[link['framework_id']]['short_name'])}</a></th>
         <td>{esc(ALIGNMENT_LABELS[link['alignment_type']])}</td><td>{esc(link['note'])}</td></tr>'''
         for link in item["framework_links"]
     )
@@ -283,7 +308,7 @@ def task_page(
   <section class="task-teacher"><p class="eyebrow">Conexión con la trayectoria</p><h2>Por qué esta tarea está aquí</h2><div class="teacher-grid"><section><h3>Habilidades observadas</h3><ul>{skills}</ul></section><section><h3>Prerrequisitos que conviene revisar</h3><ul>{prerequisites}</ul></section><section><h3>OA y clases existentes para intervenir</h3><ul>{oa_links}</ul></section></div><h3>Relación con marcos de evaluación</h3><div class="table-scroll"><table class="competency-table"><thead><tr><th>Marco</th><th>Tipo de relación</th><th>Qué significa</th></tr></thead><tbody>{framework_rows}</tbody></table></div></section>
   <section class="task-warning"><strong>Lectura responsable</strong><p>{esc(teacher_label(item['review'], REVIEW_LABELS))}. Esta tarea no predice puntajes, no diagnostica por una respuesta aislada y no posee validación psicométrica. Autoría: {esc(item['authorship'])}; licencia: {esc(item['license'])}; versión {esc(item['version'])}.</p></section>
   <nav class="sequence-nav">{previous_link}{next_link}</nav>
-</main>''' + page_footer().replace('href="index.html"', 'href="../index.html"').replace('href="marcos-evaluacion.html"', 'href="../marcos-evaluacion.html"').replace('href="banco-tareas.html"', 'href="../banco-tareas.html"').replace('href="../documentacion.html"', 'href="../../documentacion.html"')
+</main>''' + page_footer().replace('href="index.html"', 'href="../index.html"').replace('href="../evaluaciones/index.html"', 'href="../../evaluaciones/index.html"').replace('href="banco-tareas.html"', 'href="../banco-tareas.html"').replace('href="../documentacion.html"', 'href="../../documentacion.html"')
 
 
 def skills_page(taxonomy: dict[str, Any], progressions: dict[str, Any]) -> str:
@@ -361,6 +386,205 @@ def frameworks_page(
     )
     return page_top("Marcos de evaluación explicados", "Qué se implementó con PAES, SIMCE, PISA, TIMSS y PIRLS") + f'''
 <main id="contenido" class="level-shell"><header class="plain-hero"><p class="eyebrow">Respuesta directa al prompt maestro</p><h1>Qué se hizo con PAES y los otros marcos.</h1><p>Se construyeron vistas de evaluación sobre la trayectoria escolar: se registró qué mide cada marco, se relacionaron habilidades con cautela, se crearon tareas originales y se conservó el camino de regreso a OA y clases. No se creó un preuniversitario ni se declaró una equivalencia oficial inexistente.</p></header><section class="task-warning"><strong>En una frase</strong><p>PAES, SIMCE, PISA, TIMSS y PIRLS sirven para mirar competencias construidas durante años; no reemplazan el currículo chileno.</p></section><div class="table-scroll"><table class="competency-table status-table"><thead><tr><th>Marco</th><th>Implementado ahora</th><th>No significa</th></tr></thead><tbody>{''.join(status_rows)}</tbody></table></div><section class="level-contract"><div><p class="eyebrow">Tres rótulos obligatorios</p><h2>No mezclar evidencia con interpretación.</h2></div><ol>{legend}</ol></section>{''.join(sections)}</main>''' + page_footer()
+
+
+def evaluation_page_top(title: str, description: str, back_href: str = "index.html") -> str:
+    return f'''<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#071c2c"><meta name="description" content="{esc(description)}">
+<link rel="icon" href="../icon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css">
+<title>{esc(title)} | Trayectoria Escolar Chile</title></head>
+<body class="level-page"><a class="skip-link" href="#contenido">Saltar al contenido</a>
+<header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Evaluaciones conectadas al currículo</small></span></a><a class="back-link" href="{esc(back_href)}">← Centro de evaluaciones</a></header>'''
+
+
+def evaluation_footer(prefix: str = "") -> str:
+    return f'''<footer class="site-footer"><div><strong>Evaluaciones complementarias</strong><span>Instrumentos explicados · OA y clases de referencia · puntajes sin simulación</span></div><div><a href="{prefix}index.html">Todos los instrumentos</a><a href="{prefix}ensayos.html">Ensayos de ejemplo</a><a href="{prefix}brechas.html">Brechas</a><a href="{prefix}estado-prompt-maestro.html">Estado del prompt maestro</a><a href="{prefix}../index.html">Portal</a></div></footer></body></html>'''
+
+
+def variants_for(instrument: str) -> list[dict[str, Any]]:
+    return [variant for variant in VARIANTS if variant["instrument"] == instrument]
+
+
+def reference_cards(oa_codes: list[str], references: dict[str, dict[str, Any]], prefix: str = "../") -> str:
+    cards = []
+    for code in dict.fromkeys(oa_codes):
+        item = references.get(code)
+        if not item:
+            continue
+        cards.append(
+            f'''<article class="reference-card"><p class="eyebrow">{esc(item['course'])} · {esc(item['subject'])}</p><h3>{esc(code)}</h3><p>{esc(item['topic'])}</p><a href="{esc(prefix + item['web_path'])}">Abrir OA y sus clases →</a></article>'''
+        )
+    return "".join(cards) or '<p class="empty-note">Este instrumento está fuera del tramo curricular del repositorio o aún no tiene una referencia pedagógica publicada.</p>'
+
+
+def instrument_page(
+    key: str,
+    registry: dict[str, Any],
+    bank: dict[str, Any],
+    taxonomy: dict[str, Any],
+    references: dict[str, dict[str, Any]],
+) -> str:
+    instrument = INSTRUMENTS[key]
+    variants = variants_for(key)
+    framework = next(
+        (value for value in registry["frameworks"] if value["id"] == instrument["framework_id"]),
+        None,
+    )
+    related_items = []
+    if framework:
+        related_items = [
+            item for item in bank["items"]
+            if any(link["framework_id"] == framework["id"] for link in item["framework_links"])
+        ]
+    oa_codes = [code for variant in variants for code in variant["oa_codes"]]
+    oa_codes.extend(code for item in related_items for code in item["oa_codes"])
+    documents = "".join(
+        f'<li><a href="{esc(url)}" rel="noopener">{esc(label)} →</a></li>'
+        for label, url in instrument["documents"]
+    ) or '<li><a href="../docs/evaluacion-formativa.html">Evaluación formativa del proyecto →</a></li><li><a href="../docs/evidence-cycle.html">Ciclo de evidencia →</a></li>'
+    variant_cards = "".join(
+        f'''<article class="exam-card"><div><span>{esc(variant['level'])}</span><span>{esc(variant['domain'])}</span></div><h3>{esc(variant['name'])}</h3><p>Miniensayo original con dos preguntas cerradas, una respuesta justificada y cálculo de puntos del proyecto.</p><a href="ensayos/{esc(variant['id'])}.html">Abrir ensayo y calcular resultado →</a></article>'''
+        for variant in variants
+    ) or '<p class="empty-note">No corresponde crear un ensayo escolar porque este estudio está fuera del tramo 1° básico–4° medio.</p>'
+    skills_by_id = skill_names(taxonomy)
+    if framework:
+        mapping_rows = "".join(
+            f'<tr><th scope="row">{esc(skills_by_id.get(value["skill_id"], value["skill_id"]))}</th><td>{esc(ALIGNMENT_LABELS[value["alignment_type"]])}</td><td>{esc(value["basis"])}</td></tr>'
+            for value in framework["competency_links"]
+        )
+        mapping = f'''<section class="teacher-section"><p class="eyebrow">Conexión registrada</p><h2>Habilidades relacionadas con cautela.</h2><div class="table-scroll"><table class="competency-table"><thead><tr><th>Habilidad</th><th>Tipo de relación</th><th>Fundamento</th></tr></thead><tbody>{mapping_rows}</tbody></table></div></section>'''
+    else:
+        mapping = '''<section class="task-warning"><strong>Estado de la conexión</strong><p>El instrumento está explicado y tiene OA de referencia para orientar la lectura docente, pero todavía no posee un mapeo exhaustivo de competencias. Esas referencias son propuestas pedagógicas del proyecto, no equivalencias oficiales.</p></section>'''
+    task_cards = "".join(
+        f'<article class="framework-task"><h3><a href="../competencias/{esc(item_url(item))}">{esc(item["title"])}</a></h3><p>Tarea completa del banco inicial con solución, rúbrica y regreso a clases.</p></article>'
+        for item in related_items
+    ) or '<p class="empty-note">No existe todavía una tarea extensa del banco para este instrumento; los miniensayos son ejemplos breves y no sustituyen esa brecha.</p>'
+    framework_limits = "".join(f"<li>{esc(value)}</li>" for value in framework["limitations"]) if framework else "<li>No se copian instrumentos ni preguntas oficiales.</li><li>La referencia curricular es pedagógica, no una equivalencia oficial.</li>"
+    return evaluation_page_top(instrument["short_name"], f"Explicación docente de {instrument['short_name']}") + f'''
+<main id="contenido" class="level-shell">
+  <nav class="breadcrumbs" aria-label="Migas de pan"><a href="index.html">Evaluaciones</a><span>›</span><span>{esc(instrument['short_name'])}</span></nav>
+  <header class="evaluation-hero"><div><p class="eyebrow">{esc(instrument['category'])}</p><h1>{esc(instrument['short_name'])}</h1><p>{esc(instrument['name'])}</p><div class="hero-actions"><a class="button primary" href="#ensayos">Ver todas sus variantes</a><a class="button dark-text" href="#referencias">Abrir clases asociadas</a></div></div><aside><span>Estado en este proyecto</span><strong>{esc(instrument['status'])}</strong><small>No es material oficial ni predice resultados.</small></aside></header>
+  <section class="implementation-summary"><div><p class="eyebrow">Qué es</p><h2>A quién se dirige y para qué sirve.</h2><p>{esc(instrument['population'])}</p><p>{esc(instrument['purpose'])}</p></div><div><p class="eyebrow">Qué no significa</p><h2>No confundir referencia con equivalencia.</h2><ul>{framework_limits}<li>El resultado de un miniensayo propio no se transforma en escala oficial.</li></ul></div></section>
+  <section class="teacher-section"><p class="eyebrow">Documentos identificables</p><h2>Fuentes oficiales consultadas.</h2><ul class="official-document-list">{documents}</ul><p class="source-line">Consulta revisada el 3 de octubre de 2026. Los enlaces externos conservan sus propios derechos y pueden actualizarse.</p></section>
+  {mapping}
+  <section class="teacher-section" id="referencias"><p class="eyebrow">Regreso al programa chileno</p><h2>OA, contenidos y clases asociados como referencia.</h2><p>Estos enlaces llevan a clases existentes del repositorio. Su selección es una correspondencia pedagógica explícita y revisable.</p><div class="reference-grid">{reference_cards(oa_codes, references)}</div></section>
+  <section class="teacher-section" id="tareas"><p class="eyebrow">Banco de tareas</p><h2>Tareas extensas ya disponibles.</h2><div class="framework-tasks">{task_cards}</div></section>
+  <section class="teacher-section" id="ensayos"><p class="eyebrow">Versiones o áreas</p><h2>Miniensayos originales con cálculo transparente.</h2><p>Cada ensayo informa puntos obtenidos sobre cuatro. No reproduce la longitud, dificultad, equiparación ni escala de una aplicación oficial.</p><div class="exam-grid">{variant_cards}</div></section>
+</main>''' + evaluation_footer()
+
+
+def exam_page(variant: dict[str, Any], references: dict[str, dict[str, Any]]) -> str:
+    instrument = INSTRUMENTS[variant["instrument"]]
+    form = SAMPLE_FORMS[variant["form"]]
+    questions = []
+    answers = []
+    for index, question in enumerate(form["questions"], start=1):
+        answers.append(question["answer"])
+        options = "".join(
+            f'<label><input type="radio" name="q{index}" value="{option_index}"> <span>{esc(option)}</span></label>'
+            for option_index, option in enumerate(question["options"])
+        )
+        questions.append(f'''<fieldset><legend>{index}. {esc(question['prompt'])}</legend><div class="exam-options">{options}</div></fieldset>''')
+    rubric = "".join(f"<li>{esc(value)}</li>" for value in form["open_rubric"])
+    scoring_note = (
+        "DEMRE publica tablas de transformación para cada aplicación y forma. Solo esas tablas oficiales convierten respuestas correctas en puntaje PAES; este ensayo no usa esa escala."
+        if variant["instrument"] == "paes"
+        else "Este resultado describe únicamente el desempeño en tres tareas originales. No es puntaje oficial, percentil, nivel de logro institucional ni diagnóstico."
+    )
+    script = f'''<script>(function(){{const form=document.getElementById("exam-form");const result=document.getElementById("exam-result");const answers={json.dumps(answers)};form.addEventListener("submit",function(event){{event.preventDefault();let points=0;answers.forEach(function(answer,index){{const chosen=form.querySelector('input[name="q'+(index+1)+'"]:checked');if(chosen&&Number(chosen.value)===answer)points+=1;}});points+=Number(document.getElementById("open-score").value||0);let label="Sin evidencia suficiente: revisar el punto de partida.";if(points>=1&&points<=2)label="Evidencia inicial: retroalimentar y probar otra situación.";if(points===3)label="Evidencia consistente en este ejemplo: consolidar con otro contexto.";if(points===4)label="Evidencia sólida en este miniensayo: comprobar transferencia.";result.hidden=false;result.innerHTML='<strong>'+points+' de 4 puntos del proyecto</strong><span>'+label+'</span><small>No es un puntaje oficial de {esc(instrument['short_name'])}.</small>';result.focus();}});form.addEventListener("reset",function(){{result.hidden=true;}});}})();</script>'''
+    top = evaluation_page_top(
+        f"{instrument['short_name']} · {variant['name']}",
+        f"Miniensayo original de referencia para {variant['name']}",
+        f"../{variant['instrument']}.html",
+    ).replace('href="../icon.svg"', 'href="../../icon.svg"').replace(
+        'href="../styles.css"', 'href="../../styles.css"'
+    ).replace('class="brand" href="../index.html"', 'class="brand" href="../../index.html"')
+    return top + f'''
+<main id="contenido" class="level-shell exam-detail">
+  <nav class="breadcrumbs" aria-label="Migas de pan"><a href="../index.html">Evaluaciones</a><span>›</span><a href="../{esc(variant['instrument'])}.html">{esc(instrument['short_name'])}</a><span>›</span><span>{esc(variant['name'])}</span></nav>
+  <header class="task-hero"><div><p class="eyebrow">Ensayo breve original · no oficial</p><h1>{esc(variant['name'])}</h1><p>{esc(form['title'])}</p></div><aside><span>{esc(variant['level'])}</span><strong>{esc(variant['domain'])}</strong><small>2 preguntas cerradas + 1 respuesta justificada · máximo 4 puntos</small></aside></header>
+  <section class="task-warning"><strong>Cómo leer el resultado</strong><p>{esc(scoring_note)}</p></section>
+  <form id="exam-form" class="sample-exam"><section class="task-student"><p class="eyebrow">Situación original</p><h2>Lee, resuelve y justifica.</h2><p class="stimulus-text">{esc(form['stimulus'])}</p>{''.join(questions)}<fieldset><legend>3. {esc(form['open_prompt'])}</legend><textarea aria-label="Respuesta desarrollada" rows="6" placeholder="Escribe aquí tu respuesta y evidencia..."></textarea><label class="self-score" for="open-score">Puntaje de la respuesta abierta según la rúbrica</label><select id="open-score"><option value="0">0 puntos</option><option value="1">1 punto</option><option value="2">2 puntos</option></select></fieldset><div class="exam-actions"><button class="button primary" type="submit">Calcular puntos del ensayo</button><button class="button dark-text" type="reset">Limpiar respuestas</button></div><output id="exam-result" class="exam-result" tabindex="-1" hidden></output></section></form>
+  <section class="task-teacher"><p class="eyebrow">Clave docente</p><h2>Corrección transparente.</h2><div class="teacher-grid"><section><h3>Preguntas cerradas</h3><ol>{''.join(f'<li>Alternativa {chr(65 + answer)}</li>' for answer in answers)}</ol></section><section><h3>Rúbrica de la respuesta abierta</h3><ul>{rubric}</ul></section><section><h3>Decisión posterior</h3><p>Una sola aplicación no establece dominio. Use otro contexto para consolidar, revisar un prerrequisito o comprobar transferencia.</p></section></div></section>
+  <section class="teacher-section"><p class="eyebrow">Conexión curricular de referencia</p><h2>OA y clases que permiten enseñar o reforzar.</h2><div class="reference-grid">{reference_cards(variant['oa_codes'], references, '../../')}</div></section>
+</main>{script}''' + evaluation_footer("../")
+
+
+def evaluation_hub(registry: dict[str, Any]) -> str:
+    modeled = sum(1 for value in INSTRUMENTS.values() if value["framework_id"])
+    instrument_cards = "".join(
+        f'''<article class="evaluation-card"><div><span>{esc(value['category'])}</span><span>{len(variants_for(key))} variantes</span></div><h2>{esc(value['short_name'])}</h2><p>{esc(value['purpose'])}</p><strong>{esc(value['status'])}</strong><a href="{esc(key)}.html">Abrir explicación, documentos, clases y ensayos →</a></article>'''
+        for key, value in INSTRUMENTS.items()
+    )
+    reading_links = "".join(
+        f'<a href="{key}.html"><strong>{esc(INSTRUMENTS[key]["short_name"])}</strong><span>{esc(label)}</span></a>'
+        for key, label in (
+            ("paes", "Competencia Lectora al final de la trayectoria"),
+            ("simce", "Lectura en 4°, 6° básico y II medio en 2026"),
+            ("dia", "Lectura para diagnóstico, monitoreo y cierre"),
+            ("pisa", "Lectura aplicada alrededor de los 15 años"),
+            ("pirls", "Comprensión literaria e informativa alrededor de 4° básico"),
+            ("erce", "Lectura y escritura en 3° y 6° básico"),
+        )
+    )
+    return evaluation_page_top("Centro de evaluaciones", "PAES, SIMCE, DIA y estudios internacionales conectados a clases") + f'''
+<main id="contenido" class="level-shell">
+  <header class="evaluation-hero evaluation-hub-hero"><div><p class="eyebrow">Entrada directa para docentes</p><h1>Evaluaciones complementarias.</h1><p>No necesitas adivinar una ruta: selecciona el instrumento por su nombre. Cada página explica qué es, muestra sus documentos oficiales, separa lo oficial de lo inferido, enlaza OA y clases del programa y ofrece ensayos originales con cálculo transparente.</p><div class="hero-actions"><a class="button primary" href="#instrumentos">Elegir instrumento</a><a class="button dark-text" href="ensayos.html">Ver todos los ensayos</a><a class="button dark-text" href="brechas.html">Informe de brechas</a></div></div><aside><span>Panorama visible</span><strong>{len(INSTRUMENTS)} instrumentos o estudios</strong><small>{len(VARIANTS)} variantes con ensayo · {modeled} marcos con mapeo de competencias</small></aside></header>
+  <section class="task-warning"><strong>La ruta correcta</strong><p>Currículo chileno → OA → clase existente → habilidad → instrumento complementario → tarea o ensayo → evidencia → intervención → reevaluación. Ninguna prueba externa reemplaza el currículo.</p></section>
+  <section class="teacher-section reading-route"><p class="eyebrow">Comprensión lectora</p><h2>Todas las entradas lectoras, en un solo lugar.</h2><p>No son equivalentes: cambian población, propósito y diseño. Se reúnen aquí para que puedas comparar sin duplicar un curso de lectura.</p><div class="reading-link-grid">{reading_links}</div></section>
+  <section id="instrumentos"><div class="level-intro"><div><p class="eyebrow">Nacionales, de acceso e internacionales</p><h2>Selecciona por nombre.</h2></div><p>Los estados distinguen lo que ya posee mapeo y tareas de lo que solo está explicado y conectado como referencia.</p></div><div class="evaluation-grid">{instrument_cards}</div></section>
+  <section class="implementation-summary"><div><p class="eyebrow">Antes de implementar</p><h2>Informe de brechas histórico.</h2><p>Conserva la fotografía del repositorio antes de crear la capa longitudinal. No se reescribe para aparentar que lo nuevo ya existía.</p><a href="../docs/competency-gap-report.html">Leer informe previo →</a></div><div><p class="eyebrow">Después de implementar</p><h2>Qué se cerró y qué sigue parcial.</h2><p>La comparación actual muestra rutas, ensayos, mapeos y límites pendientes con enlaces directos.</p><a href="brechas.html">Comparar brecha por brecha →</a></div></section>
+  <section class="level-contract"><div><p class="eyebrow">Puntajes responsables</p><h2>Calcular sin inventar.</h2></div><ol><li><strong>Puntos del proyecto</strong><span>Cada miniensayo informa 0 a 4 puntos con una rúbrica visible.</span></li><li><strong>Escala oficial</strong><span>Solo la institución responsable puede publicar conversiones y niveles oficiales.</span></li><li><strong>Sin diagnóstico automático</strong><span>Una aplicación breve produce observaciones, no etiquetas.</span></li><li><strong>Con regreso a clase</strong><span>Cada variante enlaza OA y secuencias existentes para intervenir.</span></li></ol></section>
+</main>''' + evaluation_footer()
+
+
+def exams_index_page() -> str:
+    groups = []
+    for key, instrument in INSTRUMENTS.items():
+        variants = variants_for(key)
+        if not variants:
+            continue
+        cards = "".join(
+            f'<a class="exam-index-link" href="ensayos/{esc(variant["id"])}.html"><span>{esc(variant["level"])}</span><strong>{esc(variant["name"])}</strong><small>{esc(variant["domain"])} · 4 puntos del proyecto</small></a>'
+            for variant in variants
+        )
+        groups.append(f'<section class="teacher-section"><p class="eyebrow">{esc(instrument["category"])}</p><h2><a href="{esc(key)}.html">{esc(instrument["short_name"])}</a></h2><div class="exam-index-grid">{cards}</div></section>')
+    return evaluation_page_top("Ensayos de ejemplo", "Miniensayos originales para todas las variantes documentadas") + f'''
+<main id="contenido" class="level-shell"><header class="plain-hero"><p class="eyebrow">{len(VARIANTS)} variantes visibles</p><h1>Ensayos originales de ejemplo.</h1><p>Cada versión incluye situación, preguntas, clave, rúbrica, cálculo de puntos y regreso a OA y clases. No son facsímiles ni predicen puntajes oficiales.</p></header><section class="task-warning"><strong>Resultado que sí se calcula</strong><p>El sitio calcula de 0 a 4 puntos del miniensayo. PAES, SIMCE, PISA, TIMSS, PIRLS y otros organismos usan diseños, equiparaciones y escalas que no se pueden reconstruir con tareas propias.</p></section>{''.join(groups)}</main>''' + evaluation_footer()
+
+
+CURRENT_GAP_ROWS = [
+    ("Comprensión lectora", "EXISTE Y SE CONECTÓ", "PAES, SIMCE, DIA, PISA, PIRLS y ERCE tienen entradas visibles, variantes, OA y clases de referencia.", "Conservar los OA; ampliar revisión y pilotaje."),
+    ("Evaluación formativa", "EXISTE Y SE AMPLIÓ", "Ciclo de evidencia, banco, ensayos, intervención y reevaluación enlazados.", "Pilotar y registrar revisión humana."),
+    ("Competencias", "EXISTE PARCIALMENTE", "86 habilidades en 7 dominios y cinco progresiones demostrativas.", "Mapear de manera revisada el resto de los 2.823 OA."),
+    ("Diagnóstico", "PROTOTIPO DISPONIBLE", "Estados separados y DIA explicado como instrumento externo de referencia.", "Crear una aplicación local autorizada antes de usar datos reales."),
+    ("Banco de ítems", "EXISTE PARCIALMENTE", "6 tareas extensas y miniensayos para todas las variantes documentadas.", "Ampliar, revisar por disciplina y pilotar."),
+    ("PAES", "EXISTE PARCIALMENTE", "Página propia, 5 variantes, documentos, OA, clases, una tarea extensa y miniensayos.", "No existe banco oficial, predictor ni conversión propia a puntaje PAES."),
+    ("SIMCE", "EXISTE PARCIALMENTE", "Página propia, 6 variantes 2026, documentos, OA, clases, una tarea extensa y miniensayos.", "No reproduce ítems ni niveles de logro oficiales."),
+    ("PISA", "EXISTE PARCIALMENTE", "Página propia, 4 dominios, documentos, OA, clases, dos tareas extensas y miniensayos.", "No reproduce unidades PISA ni resultados de sistema."),
+    ("TIMSS", "EXISTE PARCIALMENTE", "Página propia, 4 combinaciones de grado/área, documentos, OA, clases, tareas y miniensayos.", "Las referencias de grado no son equivalencias administrativas chilenas."),
+    ("PIRLS", "EXISTE PARCIALMENTE", "Página propia, 2 propósitos lectores, documentos, OA, clases, tarea y miniensayos.", "No crea otro curso de comprensión lectora."),
+    ("Otros instrumentos", "EXPLICADOS Y PARCIALMENTE CONECTADOS", "DIA, ERCE, ICILS, ICCS y ECES aparecen en el panorama; ECES queda fuera del tramo escolar.", "Completar mapeos solo con revisión disciplinar."),
+    ("Progresión longitudinal", "EXISTE PARCIALMENTE", "Cinco progresiones y regreso verificable a clases.", "Extender sin convertir rangos etarios en reglas rígidas."),
+    ("Análisis de errores", "EXISTE Y SE AMPLIÓ", "Patrones, hipótesis prudentes e intervención enlazada.", "Reunir evidencia de aula antes de generalizar."),
+    ("Adaptación", "ARQUITECTURA PREPARADA", "Reglas deterministas descritas.", "No existe todavía tutor adaptativo de producción."),
+]
+
+
+def gaps_page() -> str:
+    rows = "".join(f'<tr><th scope="row">{esc(name)}</th><td>{esc(status)}</td><td>{esc(evidence)}</td><td>{esc(action)}</td></tr>' for name, status, evidence, action in CURRENT_GAP_ROWS)
+    return evaluation_page_top("Brechas antes y después", "Comparación entre la auditoría previa y el estado actual") + f'''
+<main id="contenido" class="level-shell"><header class="plain-hero"><p class="eyebrow">Trazabilidad de implementación</p><h1>Brechas antes y después.</h1><p>El informe previo del 2 de octubre de 2026 se conserva como registro histórico. Esta vista no lo reemplaza: muestra qué cambió después y qué sigue incompleto.</p></header><section class="implementation-summary"><div><p class="eyebrow">Línea base histórica</p><h2>Antes de programar.</h2><p>Registró que PAES, SIMCE, PISA, TIMSS, PIRLS y el banco no existían como capa estructurada.</p><a href="../docs/competency-gap-report.html">Abrir informe previo completo →</a></div><div><p class="eyebrow">Estado actual</p><h2>Después de implementar.</h2><p>La existencia de páginas o código no equivale a cobertura exhaustiva, revisión humana o validación psicométrica.</p><a href="estado-prompt-maestro.html">Ver todo el prompt maestro →</a></div></section><div class="table-scroll"><table class="competency-table gap-table"><thead><tr><th>Elemento</th><th>Estado actual</th><th>Evidencia disponible</th><th>Acción pendiente</th></tr></thead><tbody>{rows}</tbody></table></div></main>''' + evaluation_footer()
+
+
+def prompt_status_page() -> str:
+    rows = "".join(
+        f'<tr><th scope="row">{esc(element)}</th><td>{esc(status)}</td><td>{esc(note)}</td></tr>'
+        for element, status, _path, note in PROMPT_STATUS
+    )
+    return evaluation_page_top("Estado del prompt maestro", "Estado explícito de cada bloque del prompt maestro") + f'''
+<main id="contenido" class="level-shell"><header class="plain-hero"><p class="eyebrow">Sin adivinar</p><h1>Qué se resolvió del prompt maestro.</h1><p>Esta tabla distingue entregas iniciales, demostraciones, arquitectura preparada y trabajo pendiente. No presenta una implementación parcial como sistema terminado.</p></header><div class="table-scroll"><table class="competency-table status-table"><thead><tr><th>Bloque</th><th>Estado</th><th>Qué significa realmente</th></tr></thead><tbody>{rows}</tbody></table></div><section class="task-warning"><strong>Límite central</strong><p>El proyecto tiene una capa funcional y navegable, pero todavía no posee revisión disciplinar completa, pilotaje amplio, datos reales de estudiantes ni validez psicométrica.</p></section></main>''' + evaluation_footer()
 
 
 def md_escape(value: Any) -> str:
@@ -518,6 +742,176 @@ Las tareas son originales de `chilean-school-learning-path` y se publican bajo C
 '''
 
 
+def evaluation_markdown(references: dict[str, dict[str, Any]]) -> str:
+    sections = []
+    for key, instrument in INSTRUMENTS.items():
+        variants = variants_for(key)
+        documents = "\n".join(f"- [{label}]({url})" for label, url in instrument["documents"])
+        if not documents:
+            documents = "- [Evaluación formativa](EVALUACION_FORMATIVA.md)\n- [Ciclo de evidencia](EVIDENCE_CYCLE.md)"
+        variant_rows = []
+        for variant in variants:
+            oa_links = []
+            for code in variant["oa_codes"]:
+                reference = references.get(code)
+                if reference:
+                    oa_links.append(f"[{code}](../{reference['path']})")
+            variant_rows.append(
+                f"| [{variant['name']}](ENSAYOS_EJEMPLO.md#{slug(variant['name'])}) | {variant['level']} | {variant['domain']} | {' · '.join(oa_links) or 'Fuera del alcance actual'} |"
+            )
+        variants_table = "\n".join(variant_rows) if variant_rows else "| No corresponde | Educación parvularia | Fuera de 1° básico–4° medio | Sin enlace forzado |"
+        sections.append(f'''## {instrument['short_name']} · {instrument['name']}
+
+**Tipo:** {instrument['category']}.
+
+**A quién se dirige:** {instrument['population']}
+
+**Para qué sirve:** {instrument['purpose']}
+
+**Estado en el proyecto:** {instrument['status']}.
+
+### Documentos y fuentes institucionales
+
+{documents}
+
+### Variantes y regreso al currículo
+
+| Variante | Nivel o población | Dominio | OA y clases de referencia |
+|---|---|---|---|
+{variants_table}
+
+> Las referencias a OA son correspondencias pedagógicas del proyecto. No son tablas oficiales de equivalencia.
+''')
+    return f'''# Evaluaciones complementarias conectadas a la trayectoria chilena
+
+Esta es la entrada Markdown para docentes. Reúne evaluaciones nacionales, acceso a educación superior, herramientas diagnósticas, estudios internacionales y evaluación interna sin tratarlos como equivalentes.
+
+[Informe de brechas previo](COMPETENCY_GAP_REPORT.md) · [Estado actual de brechas](INFORME_BRECHAS_ACTUAL.md) · [Ensayos de ejemplo](ENSAYOS_EJEMPLO.md) · [Estado del prompt maestro](ESTADO_PROMPT_MAESTRO.md)
+
+## Cómo se conectan
+
+`Currículo → OA → clase existente → habilidad → instrumento complementario → evidencia → intervención → reevaluación`
+
+Los JSON son fuentes internas de validación. La lectura docente está en este documento y en el portal HTML.
+
+## Comprensión lectora sin duplicar un curso
+
+La lectura aparece, con propósitos y poblaciones distintas, en PAES Competencia Lectora, SIMCE Lectura, DIA, PISA Lectura, PIRLS y ERCE. Cada sección enlaza los OA y clases ya existentes; no se crea un curso genérico paralelo.
+
+{chr(10).join(sections)}
+## Regla sobre puntajes
+
+Los miniensayos calculan entre 0 y 4 puntos del proyecto con criterios visibles. No se convierten en puntaje PAES, SIMCE, PISA, TIMSS, PIRLS, ERCE, ICILS, ICCS o DIA. Las escalas oficiales dependen del diseño y de los procedimientos de cada institución.
+'''
+
+
+def exams_markdown(references: dict[str, dict[str, Any]]) -> str:
+    sections = []
+    for variant in VARIANTS:
+        instrument = INSTRUMENTS[variant["instrument"]]
+        form = SAMPLE_FORMS[variant["form"]]
+        closed = []
+        for index, question in enumerate(form["questions"], start=1):
+            options = "\n".join(f"   - {chr(65 + option_index)}. {option}" for option_index, option in enumerate(question["options"]))
+            closed.append(f"{index}. {question['prompt']}\n{options}")
+        answer_key = ", ".join(
+            f"{index}: {chr(65 + question['answer'])}"
+            for index, question in enumerate(form["questions"], start=1)
+        )
+        oa_links = []
+        for code in variant["oa_codes"]:
+            reference = references.get(code)
+            if reference:
+                oa_links.append(f"[{code}](../{reference['path']})")
+        sections.append(f'''## {variant['name']}
+
+**Instrumento de referencia:** [{instrument['short_name']}](EVALUACIONES_COMPLEMENTARIAS.md#{slug(instrument['short_name'] + ' ' + instrument['name'])}).
+
+**Población orientativa:** {variant['level']} · **Dominio:** {variant['domain']}.
+
+> Miniensayo original del proyecto. No es una pregunta oficial ni reproduce la extensión o escala del instrumento.
+
+### Situación
+
+{form['stimulus']}
+
+### Preguntas cerradas
+
+{chr(10).join(closed)}
+
+### Respuesta desarrollada
+
+3. {form['open_prompt']}
+
+### Clave y rúbrica
+
+- **Clave de cerradas:** {answer_key}.
+{chr(10).join(f'- {value}' for value in form['open_rubric'])}
+
+### Cálculo
+
+- 1 punto por cada respuesta cerrada correcta.
+- 0, 1 o 2 puntos para la respuesta desarrollada según la rúbrica.
+- Máximo: 4 puntos del proyecto.
+- 0: evidencia insuficiente; 1–2: evidencia inicial; 3: evidencia consistente; 4: evidencia sólida en este ejemplo y pendiente de transferencia.
+
+**OA y clases para enseñar o reforzar:** {' · '.join(oa_links)}.
+''')
+    return (f'''# Ensayos originales de ejemplo y cálculo transparente
+
+Este documento reúne {len(VARIANTS)} variantes de evaluaciones. Cada miniensayo contiene dos preguntas cerradas y una respuesta desarrollada. La puntuación es una regla didáctica del proyecto y no una conversión oficial.
+
+[Evaluaciones complementarias](EVALUACIONES_COMPLEMENTARIAS.md) · [Banco de tareas extensas](BANCO_TAREAS.md) · [Ciclo de evidencia](EVIDENCE_CYCLE.md)
+
+{chr(10).join(sections)}
+''').rstrip() + "\n"
+
+
+def current_gaps_markdown() -> str:
+    rows = "\n".join(
+        f"| {name} | **{status}** | {evidence} | {action} |"
+        for name, status, evidence, action in CURRENT_GAP_ROWS
+    )
+    return f'''# Informe de brechas actual · después de la implementación
+
+**Fecha:** 3 de octubre de 2026
+
+Este documento complementa, pero no reemplaza, el [informe de brechas previo](COMPETENCY_GAP_REPORT.md). El informe previo conserva la línea base anterior a la programación; esta tabla registra el estado observable posterior.
+
+| Elemento | Estado actual | Evidencia disponible | Acción pendiente |
+|---|---|---|---|
+{rows}
+
+## Lectura responsable
+
+- “Existe” significa que hay un artefacto navegable y verificable, no que exista cobertura exhaustiva.
+- “Parcial” no se promueve a “completo” por tener código o muchas páginas.
+- Los miniensayos son originales y sus puntos no equivalen a escalas oficiales.
+- Revisión humana, pilotaje y validación psicométrica continúan siendo estados separados.
+'''
+
+
+def prompt_status_markdown() -> str:
+    rows = "\n".join(
+        f"| {element} | **{status}** | [{Path(path).name}]({Path(path).name}) | {note} |"
+        for element, status, path, note in PROMPT_STATUS
+    )
+    return f'''# Estado explícito del prompt maestro
+
+**Fecha:** 3 de octubre de 2026
+
+Esta tabla permite saber qué se implementó, qué solo está demostrado y qué sigue pendiente sin leer código ni archivos JSON.
+
+| Bloque | Estado | Documento Markdown | Qué significa realmente |
+|---|---|---|---|
+{rows}
+
+## Límite general
+
+La capa es funcional y navegable, pero no posee revisión disciplinar completa, pilotaje amplio, registros reales de estudiantes ni validez psicométrica. Esos estados no se infieren automáticamente.
+'''
+
+
 def page() -> str:
     taxonomy = load("competencies/taxonomy.v1.json")
     progressions = load("competencies/progressions.v1.json")
@@ -562,7 +956,7 @@ def page() -> str:
 <body class="level-page"><a class="skip-link" href="#competencias">Saltar a competencias</a>
 <header class="detail-topbar"><a class="brand" href="../index.html"><span class="brand-mark">TE</span><span>Trayectoria Escolar<small>Currículum chileno abierto</small></span></a><a class="back-link" href="../index.html">← Volver al portal</a></header>
 <main id="competencias" class="level-shell">
-  <header class="level-hero competency-hero"><div><p class="eyebrow">Guía para docentes · OA → competencia → evidencia → intervención</p><h1>Competencias a través de los años.</h1><p>Una capa transversal y versionada que conecta aprendizajes existentes desde 1° básico hasta 4° medio. Los OA siguen siendo la fuente curricular; los marcos externos son vistas desacopladas.</p><div class="hero-actions"><a class="button primary" href="#que-existe">Entender qué se implementó</a><a class="button dark-text" href="banco-tareas.html">Abrir tareas completas</a><a class="button dark-text" href="marcos-evaluacion.html">Entender PAES y otros marcos</a></div></div><aside><span>Versión inicial</span><strong>{len(taxonomy['skills'])} habilidades</strong><small>{len(progressions['progressions'])} progresiones · {len(bank['items'])} tareas originales</small></aside></header>
+  <header class="level-hero competency-hero"><div><p class="eyebrow">Guía para docentes · OA → competencia → evidencia → intervención</p><h1>Competencias a través de los años.</h1><p>Una capa transversal y versionada que conecta aprendizajes existentes desde 1° básico hasta 4° medio. Los OA siguen siendo la fuente curricular; los marcos externos son vistas desacopladas.</p><div class="hero-actions"><a class="button primary" href="../evaluaciones/index.html">Evaluaciones: PAES, SIMCE, DIA y estudios</a><a class="button dark-text" href="banco-tareas.html">Abrir tareas completas</a><a class="button dark-text" href="#que-existe">Estado de la capa</a></div></div><aside><span>Versión inicial</span><strong>{len(taxonomy['skills'])} habilidades</strong><small>{len(progressions['progressions'])} progresiones · {len(bank['items'])} tareas originales</small></aside></header>
   <section class="level-metrics"><div><strong>{len(taxonomy['domains'])}</strong><span>dominios transversales</span></div><div><strong>{len(progressions['progressions'])}</strong><span>trayectorias demostrativas</span></div><div><strong>{len(frameworks['frameworks'])}</strong><span>marcos desacoplados</span></div><div><strong>0</strong><span>porcentajes ficticios</span></div></section>
 
   <section class="implementation-summary" id="que-existe"><div><p class="eyebrow">Respuesta directa</p><h2>Qué quedó realmente implementado.</h2><ul><li>Una taxonomía de {len(taxonomy['skills'])} habilidades con nombres estables y lectura docente.</li><li>{len(progressions['progressions'])} trayectorias demostrativas enlazadas a OA y clases ya existentes.</li><li>PAES, SIMCE, PISA, TIMSS y PIRLS como vistas de evaluación, con fuentes, límites y relaciones clasificadas.</li><li>{len(bank['items'])} tareas originales completas con respuesta, solución, rúbrica y trazabilidad.</li><li>Un ciclo determinista que separa observación, patrón, hipótesis, intervención y reevaluación.</li></ul><p><a href="habilidades.html">Ver las habilidades sin códigos técnicos →</a></p></div><div><p class="eyebrow">Lo que no se afirma</p><h2>Qué todavía no existe.</h2><ul><li>No hay un mapeo exhaustivo de todos los OA.</li><li>No hay banco masivo ni plataforma con registros reales de estudiantes.</li><li>No hay pilotaje amplio, baremos ni validación psicométrica.</li><li>No hay equivalencia oficial con PAES, SIMCE, PISA, TIMSS o PIRLS.</li><li>No se creó un preuniversitario ni un predictor de puntaje.</li></ul><p><a href="marcos-evaluacion.html">Revisar marco por marco →</a></p></div></section>
@@ -586,7 +980,20 @@ def page() -> str:
 
   <section class="level-contract"><div><p class="eyebrow">Límites explícitos</p><h2>La honestidad también es arquitectura.</h2></div><ol><li><strong>OA intactos</strong><span>La taxonomía no modifica el currículo oficial.</span></li><li><strong>IA opcional</strong><span>El núcleo funciona con reglas deterministas y revisión humana.</span></li><li><strong>Psicometría separada</strong><span>No hay IRT, baremos ni validez simulada.</span></li><li><strong>Datos protegidos</strong><span>Git solo admite ejemplos sintéticos; los registros reales permanecen en sistemas locales autorizados.</span></li></ol></section>
 </main>
-<footer class="site-footer"><div><strong>Competencias y evidencia</strong><span>Lectura pedagógica para docentes · OA oficiales conservan sus derechos</span></div><div><a href="habilidades.html">Habilidades</a><a href="marcos-evaluacion.html">Marcos</a><a href="banco-tareas.html">Tareas</a><a href="../documentacion.html">Documentación</a></div></footer></body></html>'''
+<footer class="site-footer"><div><strong>Competencias y evidencia</strong><span>Lectura pedagógica para docentes · OA oficiales conservan sus derechos</span></div><div><a href="habilidades.html">Habilidades</a><a href="../evaluaciones/index.html">Evaluaciones</a><a href="banco-tareas.html">Tareas</a><a href="../documentacion.html">Documentación</a></div></footer></body></html>'''
+
+
+def add_level_evaluation_shortcut(content: str) -> str:
+    marker = 'class="evaluation-shortcut"'
+    if marker in content:
+        return content
+    shortcut = '''<section class="evaluation-shortcut"><div><p class="eyebrow">Evaluaciones complementarias</p><h2>¿Cómo se relaciona este nivel con SIMCE, DIA, PISA, TIMSS, PIRLS, ERCE, PAES y otros estudios?</h2><p>Abre el centro por nombre del instrumento. Allí encontrarás propósito, población, documentos oficiales, ensayos originales, cálculo transparente y enlaces de regreso a OA y clases.</p></div><a class="button primary" href="../evaluaciones/index.html">Abrir evaluaciones y ensayos →</a></section>'''
+    return re.sub(
+        r'(</header>)(\s*<section class="level-metrics"[^>]*>)',
+        rf'\1{shortcut}\2',
+        content,
+        count=1,
+    )
 
 
 def expected_outputs() -> dict[Path, str]:
@@ -596,6 +1003,7 @@ def expected_outputs() -> dict[Path, str]:
     bank = load("assessments/item-bank.v1.json")
     links = first_class_links()
     sources = first_class_sources()
+    references = class_references()
     outputs = {
         OUTPUT / "index.html": page(),
         OUTPUT / "habilidades.html": skills_page(taxonomy, progressions),
@@ -603,7 +1011,23 @@ def expected_outputs() -> dict[Path, str]:
         OUTPUT / "marcos-evaluacion.html": frameworks_page(frameworks, bank, taxonomy, links),
         ROOT / "docs" / "GUIA_DOCENTE_COMPETENCIAS.md": teacher_guide_markdown(taxonomy, progressions, bank),
         ROOT / "docs" / "BANCO_TAREAS.md": bank_markdown(bank, taxonomy, frameworks, sources),
+        ROOT / "docs" / "EVALUACIONES_COMPLEMENTARIAS.md": evaluation_markdown(references),
+        ROOT / "docs" / "ENSAYOS_EJEMPLO.md": exams_markdown(references),
+        ROOT / "docs" / "INFORME_BRECHAS_ACTUAL.md": current_gaps_markdown(),
+        ROOT / "docs" / "ESTADO_PROMPT_MAESTRO.md": prompt_status_markdown(),
+        EVALUATION_OUTPUT / "index.html": evaluation_hub(frameworks),
+        EVALUATION_OUTPUT / "ensayos.html": exams_index_page(),
+        EVALUATION_OUTPUT / "brechas.html": gaps_page(),
+        EVALUATION_OUTPUT / "estado-prompt-maestro.html": prompt_status_page(),
     }
+    for key in INSTRUMENTS:
+        outputs[EVALUATION_OUTPUT / f"{key}.html"] = instrument_page(
+            key, frameworks, bank, taxonomy, references
+        )
+    for variant in VARIANTS:
+        outputs[EVALUATION_OUTPUT / "ensayos" / f"{variant['id']}.html"] = exam_page(
+            variant, references
+        )
     for index, item in enumerate(bank["items"]):
         previous_item = bank["items"][index - 1] if index else None
         next_item = bank["items"][index + 1] if index + 1 < len(bank["items"]) else None
@@ -619,6 +1043,10 @@ def expected_outputs() -> dict[Path, str]:
     }
     for name, source in copies.items():
         outputs[OUTPUT / "data" / name] = source.read_text(encoding="utf-8")
+    for level_path in sorted((ROOT / "site" / "levels").glob("*.html")):
+        outputs[level_path] = add_level_evaluation_shortcut(
+            level_path.read_text(encoding="utf-8")
+        )
     return outputs
 
 
@@ -632,6 +1060,12 @@ def updated_sitemap() -> str:
         f"{PUBLIC_URL}marcos-evaluacion.html",
         f"{PUBLIC_URL}banco-tareas.html",
         *(f"{PUBLIC_URL}tareas/{slug(item['id'])}.html" for item in bank["items"]),
+        EVALUATION_PUBLIC_URL,
+        f"{EVALUATION_PUBLIC_URL}ensayos.html",
+        f"{EVALUATION_PUBLIC_URL}brechas.html",
+        f"{EVALUATION_PUBLIC_URL}estado-prompt-maestro.html",
+        *(f"{EVALUATION_PUBLIC_URL}{key}.html" for key in INSTRUMENTS),
+        *(f"{EVALUATION_PUBLIC_URL}ensayos/{variant['id']}.html" for variant in VARIANTS),
     ]
     entries = [f"  <url><loc>{url}</loc></url>" for url in urls]
     missing = [entry for entry in entries if entry not in current]
