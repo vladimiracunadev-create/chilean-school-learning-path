@@ -44,9 +44,14 @@ Memoria operativa para continuar la tarea aunque la conversación se compacte. N
 - QA funcional realizado en navegador: centro de evaluaciones, ruta PAES, cálculo 4/4 de una muestra y estado de implementación.
 - Suite completa verificada: 79 pruebas. Validadores curricular, documental, licencias, competencias y UTF-8 aprobados.
 
-## Secuencia pendiente
+## Publicación comprobada
 
-1. Revisar el diff final y confirmar que no queden artefactos temporales.
-2. Commit directo en `main`, push y esperar Calidad, Pages y Seguridad.
-3. Comprobar las páginas públicas tras el despliegue.
+- Implementación publicada directamente en `main` mediante el commit `6e4345fb` (`feat: conectar evaluaciones con trayectoria y cobertura`), sin ramas paralelas.
+- Workflows **Calidad**, **Pages** y **Seguridad** completados correctamente para ese commit.
+- Despliegue público comprobado en el centro de evaluaciones, la página PAES, el estado de implementación y la guía HTML individual de PAES.
+- Árbol local limpio después de la publicación. No quedan acciones técnicas pendientes de este cierre.
+
+## Próxima brecha pedagógica real
+
+No confundir ampliación de contenido con mantenimiento de esta entrega. Construir ensayos completos exige, por cada versión, una matriz oficial vigente, tareas originales para **todos** sus contenidos, revisión disciplinar, reglas de puntuación que no simulen escalas oficiales y pilotaje. Hasta que eso exista, las 45 piezas permanecen correctamente rotuladas como muestras parciales.
 
