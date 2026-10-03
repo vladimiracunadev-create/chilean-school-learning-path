@@ -64,6 +64,8 @@ Los documentos narrativos no simulan una versión semántica propia. Su corte vi
 9. **Esperar los gates.** Calidad en Python 3.11–3.13, Seguridad y Pages deben terminar en verde.
 10. **Comprobar el resultado público.** Verificar portada, novedades, documento HTML y descarga PDF cuando corresponda.
 
+La portada carga `catalog.json` y `updates.json` con política `no-store`, y versiona la URL de `app.js`. Así, un despliegue correcto no queda oculto por datos o código anteriores conservados por el navegador.
+
 ## Gates de despliegue
 
 | Gate | Falla cuando | Resultado esperado |

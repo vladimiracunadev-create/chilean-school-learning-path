@@ -1428,6 +1428,14 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertIn('item.editorial_status === "integrada"', app)
         self.assertIn('integrated ? "Integrada"', app)
 
+    def test_portal_does_not_hide_new_content_behind_stale_cache(self):
+        app = (ROOT / "site/app.js").read_text(encoding="utf-8")
+        index = (ROOT / "site/index.html").read_text(encoding="utf-8")
+        self.assertIn('Object.freeze({ cache: "no-store" })', app)
+        self.assertIn('fetch("catalog.json", freshDataRequest)', app)
+        self.assertIn('fetch("updates.json", freshDataRequest)', app)
+        self.assertRegex(index, r'<script src="app\.js\?v=[^"]+">')
+
     def test_class_ids_and_codes_are_unique(self):
         classes = self.catalog["classes"]
         self.assertEqual([item["id"] for item in classes], list(range(1, 12998)))

@@ -5,6 +5,16 @@
   "updates": [
     {
       "date": "2026-10-02",
+      "title": "Novedades públicas sin caché obsoleta",
+      "summary": [
+        "La portada solicita `catalog.json` y `updates.json` sin reutilizar respuestas almacenadas, de modo que una publicación nueva sea visible inmediatamente después del despliegue.",
+        "El cargador `app.js` incorpora una versión explícita en `index.html`; los navegadores que conservaron el script anterior reciben el comportamiento corregido.",
+        "La validación automática comprueba el contrato de actualización tanto en el script como en la portada y evita que vuelva a publicarse un sitio que oculte contenido reciente.",
+        "Se conserva el historial completo: esta corrección no sustituye ni reescribe las entradas que explican la capa longitudinal y el flujo de formatos."
+      ]
+    },
+    {
+      "date": "2026-10-02",
       "title": "Flujo versionado y estándares Markdown, HTML y PDF",
       "summary": [
         "Se documenta el ciclo completo fuente → versión → regeneración → validación → `main` → CI → GitHub Pages, incluyendo responsables, estados, rollback y comprobación posterior al despliegue.",
@@ -21,18 +31,6 @@
         "Se documenta la conexión completa `LE04 OA 04` → clases existentes → progresión → habilidades → tarea → observación → posible patrón → intervención con el mismo OA → reevaluación en una situación nueva.",
         "Se distingue en el punto de entrada del repositorio qué proviene del currículo oficial, qué es una inferencia pedagógica revisable y qué es una propuesta propia del proyecto.",
         "La validación automática exige que el README conserve el inventario, las fuentes y la explicación de reutilización; una futura ampliación no puede quedar oculta solo en archivos técnicos."
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Competencias, evidencia y evaluación longitudinal",
-      "summary": [
-        "Se agrega una taxonomía transversal versionada y seis progresiones demostrativas desde 1° básico hasta 4° medio, enlazadas a OA y clases existentes sin modificar el currículo.",
-        "Se incorporan un banco inicial de tareas originales, esquemas JSON, patrones de error, intervenciones y un ciclo determinista de observación, hipótesis, práctica, reevaluación y transferencia.",
-        "PAES, SIMCE, PISA, TIMSS, PIRLS y evaluaciones internas se modelan como marcos desacoplados con fuente, versión, alcance, limitaciones y correspondencias pedagógicas explícitamente inferidas.",
-        "Se publica una vista web para estudiantes y docentes, con evidencia sintética trazable y sin porcentajes de dominio ficticios.",
-        "CI, Pages y controles de seguridad se separan en workflows con permisos mínimos, acciones fijadas por SHA, matrices de Python y verificación de reproducibilidad.",
-        "La portada publica automáticamente las tres novedades más recientes con fecha, resumen y acceso al historial; CI impide que esta vista quede desincronizada del changelog."
       ]
     }
   ]

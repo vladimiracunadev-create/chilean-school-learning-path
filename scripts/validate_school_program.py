@@ -651,6 +651,17 @@ def validate(root: Path = ROOT) -> list[str]:
                 errors.append("La novedad pública más reciente no tiene resumen visible")
         except (json.JSONDecodeError, IndexError, AttributeError) as exc:
             errors.append(f"site/updates.json inválido: {exc}")
+    app_path = root / "site/app.js"
+    app_source = app_path.read_text(encoding="utf-8") if app_path.is_file() else ""
+    index_path = root / "site/index.html"
+    index_source = index_path.read_text(encoding="utf-8") if index_path.is_file() else ""
+    for endpoint in ("catalog.json", "updates.json"):
+        if f'fetch("{endpoint}", freshDataRequest)' not in app_source:
+            errors.append(f"La portada no fuerza datos actuales para {endpoint}")
+    if 'Object.freeze({ cache: "no-store" })' not in app_source:
+        errors.append("La portada no declara una política explícita contra caché obsoleta")
+    if not re.search(r'<script src="app\.js\?v=[^"]+">', index_source):
+        errors.append("La portada no versiona la carga de app.js")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "691", "343", "Contrato pedagógico"):

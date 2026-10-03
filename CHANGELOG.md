@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-02 · Novedades públicas sin caché obsoleta
+
+- La portada solicita `catalog.json` y `updates.json` sin reutilizar respuestas almacenadas, de modo que una publicación nueva sea visible inmediatamente después del despliegue.
+- El cargador `app.js` incorpora una versión explícita en `index.html`; los navegadores que conservaron el script anterior reciben el comportamiento corregido.
+- La validación automática comprueba el contrato de actualización tanto en el script como en la portada y evita que vuelva a publicarse un sitio que oculte contenido reciente.
+- Se conserva el historial completo: esta corrección no sustituye ni reescribe las entradas que explican la capa longitudinal y el flujo de formatos.
+
 ## 2026-10-02 · Flujo versionado y estándares Markdown, HTML y PDF
 
 - Se documenta el ciclo completo fuente → versión → regeneración → validación → `main` → CI → GitHub Pages, incluyendo responsables, estados, rollback y comprobación posterior al despliegue.
