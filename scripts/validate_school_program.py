@@ -656,12 +656,14 @@ def validate(root: Path = ROOT) -> list[str]:
     index_path = root / "site/index.html"
     index_source = index_path.read_text(encoding="utf-8") if index_path.is_file() else ""
     for endpoint in ("catalog.json", "updates.json"):
-        if f'fetch("{endpoint}", freshDataRequest)' not in app_source:
+        if f'fetch(versionedDataUrl("{endpoint}"), freshDataRequest)' not in app_source:
             errors.append(f"La portada no fuerza datos actuales para {endpoint}")
     if 'Object.freeze({ cache: "no-store" })' not in app_source:
         errors.append("La portada no declara una política explícita contra caché obsoleta")
-    if not re.search(r'<script src="app\.js\?v=[^"]+">', index_source):
-        errors.append("La portada no versiona la carga de app.js")
+    public_version = re.search(r'data-content-version="([0-9a-f]{12})"', index_source)
+    script_version = re.search(r'<script src="app\.js\?v=([0-9a-f]{12})">', index_source)
+    if not public_version or not script_version or public_version.group(1) != script_version.group(1):
+        errors.append("La portada no comparte una versión de contenido determinista con app.js")
     level_page = root / "site/levels/1-basico.html"
     level_html = level_page.read_text(encoding="utf-8") if level_page.is_file() else ""
     for token in ("1.034", "237", "11", "691", "343", "Contrato pedagógico"):

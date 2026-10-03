@@ -1432,9 +1432,13 @@ class SchoolProgramTests(unittest.TestCase):
         app = (ROOT / "site/app.js").read_text(encoding="utf-8")
         index = (ROOT / "site/index.html").read_text(encoding="utf-8")
         self.assertIn('Object.freeze({ cache: "no-store" })', app)
-        self.assertIn('fetch("catalog.json", freshDataRequest)', app)
-        self.assertIn('fetch("updates.json", freshDataRequest)', app)
-        self.assertRegex(index, r'<script src="app\.js\?v=[^"]+">')
+        self.assertIn('fetch(versionedDataUrl("catalog.json"), freshDataRequest)', app)
+        self.assertIn('fetch(versionedDataUrl("updates.json"), freshDataRequest)', app)
+        public_version = re.search(r'data-content-version="([0-9a-f]{12})"', index)
+        script_version = re.search(r'<script src="app\.js\?v=([0-9a-f]{12})">', index)
+        self.assertIsNotNone(public_version)
+        self.assertIsNotNone(script_version)
+        self.assertEqual(public_version.group(1), script_version.group(1))
 
     def test_class_ids_and_codes_are_unique(self):
         classes = self.catalog["classes"]

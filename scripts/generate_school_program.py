@@ -1,5 +1,6 @@
 """Build the curriculum source, public catalog, and static lesson pages."""
 import html
+import hashlib
 import json
 import os
 import posixpath
@@ -44,7 +45,26 @@ from grade_three_middle_remaining_lessons import build_sequence as build_grade_t
 from grade_four_middle_lessons import build_sequence as build_grade_four_middle_sequence, SUBJECT_PROFILES as GRADE_FOUR_MIDDLE_PROFILES
 from lesson_quality_enrichment import enrich_item
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
+
+def version_public_data():
+ site=ROOT/"site"
+ digest=hashlib.sha256(b"\0".join((site/name).read_bytes() for name in ("app.js","catalog.json","updates.json"))).hexdigest()[:12]
+ index_path=site/"index.html";index=index_path.read_text(encoding="utf-8")
+ index,html_count=re.subn(r'<html lang="es" data-theme="light"(?: data-content-version="[^"]+")?>',f'<html lang="es" data-theme="light" data-content-version="{digest}">',index,count=1)
+ index,script_count=re.subn(r'<script src="app\.js(?:\?v=[^"]+)?"></script>',f'<script src="app.js?v={digest}"></script>',index,count=1)
+ if html_count != 1 or script_count != 1:raise RuntimeError("site/index.html no contiene marcadores únicos de versión pública")
+ index_path.write_text(index,encoding="utf-8")
+ return digest
 PH=[("Conectar y diagnosticar","recuperar ideas previas y detectar barreras"),("Comprender y modelar","explicar con ejemplo y contraejemplo, haciendo visible el pensamiento experto"),("Practicar con apoyo","ensayar con andamiaje y retroalimentación inmediata"),("Aplicar con autonomía","resolver una situación nueva y justificar decisiones"),("Contrastar y profundizar","comparar alternativas y examinar casos límite"),("Transferir al contexto","usar el aprendizaje en un problema situado en Chile"),("Demostrar y retroalimentar","producir evidencia final y decidir el paso siguiente")]
+def version_public_data():
+ site=ROOT/"site"
+ digest=hashlib.sha256(b"\0".join((site/name).read_bytes() for name in ("app.js","catalog.json","updates.json"))).hexdigest()[:12]
+ index_path=site/"index.html";index=index_path.read_text(encoding="utf-8")
+ index,html_count=re.subn(r'<html lang="es" data-theme="light"(?: data-content-version="[^"]+")?>',f'<html lang="es" data-theme="light" data-content-version="{digest}">',index,count=1)
+ index,script_count=re.subn(r'<script src="app\.js(?:\?v=[^"]+)?"></script>',f'<script src="app.js?v={digest}"></script>',index,count=1)
+ if html_count != 1 or script_count != 1:raise RuntimeError("site/index.html no contiene marcadores únicos de versión pública")
+ index_path.write_text(index,encoding="utf-8")
+ return digest
 def dose(text,slug,reads):
  t=text.lower();n=4
  if len(text)>260 or t.count(";")>=2:n+=1
@@ -2034,6 +2054,8 @@ def main():
  else:documentation_pages=[]
  (ROOT/"site"/"catalog.json").write_text(json.dumps(cat,ensure_ascii=False)+"\n",encoding="utf-8")
  (ROOT/"site"/"updates.json").write_text(json.dumps(changelog_updates(),ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+ version_public_data()
+ version_public_data()
  reviews_site=ROOT/"site"/"reviews";reviews_site.mkdir(parents=True,exist_ok=True)
  for schema_name in ("review-record.schema.json","pilot-record.schema.json"):
   shutil.copyfile(ROOT/"reviews"/schema_name,reviews_site/schema_name)

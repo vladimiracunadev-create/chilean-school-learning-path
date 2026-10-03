@@ -8,7 +8,7 @@
       "title": "Novedades públicas sin caché obsoleta",
       "summary": [
         "La portada solicita `catalog.json` y `updates.json` sin reutilizar respuestas almacenadas, de modo que una publicación nueva sea visible inmediatamente después del despliegue.",
-        "El cargador `app.js` incorpora una versión explícita en `index.html`; los navegadores que conservaron el script anterior reciben el comportamiento corregido.",
+        "El generador calcula una versión corta desde `app.js`, `catalog.json` y `updates.json`; `index.html` la agrega tanto al script como a cada solicitud de datos, por lo que el CDN no puede confundir una publicación nueva con la anterior.",
         "La validación automática comprueba el contrato de actualización tanto en el script como en la portada y evita que vuelva a publicarse un sitio que oculte contenido reciente.",
         "Se conserva el historial completo: esta corrección no sustituye ni reescribe las entradas que explican la capa longitudinal y el flujo de formatos."
       ]

@@ -3,6 +3,12 @@ const state = { all: [], filtered: [], shown: 24 };
 const controls = { query: $("#q"), level: $("#level"), subject: $("#subject"), coverage: $("#coverage") };
 const freshDataRequest = Object.freeze({ cache: "no-store" });
 
+function versionedDataUrl(path) {
+  const url = new URL(path, document.baseURI);
+  url.searchParams.set("v", document.documentElement.dataset.contentVersion);
+  return url.toString();
+}
+
 function escapeHtml(value) {
   return String(value).replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]);
 }
@@ -83,7 +89,7 @@ Object.values(controls).forEach((control) => control.addEventListener("input", (
 $("#clear-filters").addEventListener("click", () => { Object.values(controls).forEach((control) => { control.value = ""; }); render(true); controls.query.focus(); });
 $("#load-more").addEventListener("click", () => { state.shown += 24; render(false); });
 
-fetch("catalog.json", freshDataRequest)
+fetch(versionedDataUrl("catalog.json"), freshDataRequest)
   .then((response) => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
   .then((catalog) => {
     state.all = catalog.classes;
@@ -101,7 +107,7 @@ fetch("catalog.json", freshDataRequest)
     $("#cards").innerHTML = '<div class="empty-state"><h3>Catálogo no disponible</h3><p>Revisa tu conexión y vuelve a cargar la página.</p><button class="button dark-text" type="button" onclick="location.reload()">Reintentar</button></div>';
   });
 
-fetch("updates.json", freshDataRequest)
+fetch(versionedDataUrl("updates.json"), freshDataRequest)
   .then((response) => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
   .then((payload) => { $("#recent-updates").innerHTML = payload.updates.map(updateCard).join(""); })
   .catch(() => { $("#recent-updates").innerHTML = '<p class="updates-loading">No fue posible cargar el resumen. <a href="docs/changelog.html">Abre el historial completo</a>.</p>'; });
