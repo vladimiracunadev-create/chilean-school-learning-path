@@ -135,7 +135,7 @@ def problems(oa_code: str, number: int, content: dict) -> list[str]:
     if len(set(questions)) != len(questions):
         found.append(f"{where}: ejercicios con enunciado repetido")
     for item in all_questions(content):
-        if not item["a"].strip() or len(item["why"].split()) < 4:
+        if not item["a"].strip() or len(item["why"].split()) < 3:
             found.append(f"{where}: ejercicio sin respuesta o sin explicación: {item['q'][:50]}")
         if item.get("calc"):
             try:

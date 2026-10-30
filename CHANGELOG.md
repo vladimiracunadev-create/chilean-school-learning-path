@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-29 · Cuaderno del estudiante: lote 2 (1° básico, Matemática OA 1 a 3)
+
+- Se inicia el recorrido nivel por nivel desde 1° básico: las 12 clases de `MA01 OA 01` a `MA01 OA 03` (conteo con saltos, ordinales y números hasta 20) publican explicación, ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.
+- El validador acepta justificaciones de tres palabras para esta etapa inicial, siempre con respuesta y verificación aritmética cuando corresponde.
+- Quedan pendientes las demás clases de 1° básico (Matemática OA 4 a 20 y las otras diez asignaturas) antes de pasar a 2° básico; ningún cuaderno tiene revisión profesional.
+
 ## 2026-10-29 · Cuaderno del estudiante: lote 1 (2° básico, Matemática OA 1 a 5)
 
 - Se añade la capa `scripts/student_lessons.py` y su primer lote de contenido: las 20 clases de `MA02 OA 01` a `MA02 OA 05` publican explicación, ejemplos resueltos, 17 ejercicios o preguntas con respuesta razonada por clase, errores frecuentes, autoevaluación y una actividad abierta con criterios.

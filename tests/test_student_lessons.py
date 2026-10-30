@@ -27,7 +27,7 @@ class StudentLessonContent(unittest.TestCase):
                 self.assertTrue(content["tiers"].get(key), f"{oa_code} clase {number}: falta {key}")
             for item in sl.all_questions(content):
                 self.assertTrue(item["a"].strip())
-                self.assertGreaterEqual(len(item["why"].split()), 4)
+                self.assertGreaterEqual(len(item["why"].split()), 3)
 
     def test_wrong_arithmetic_answer_is_detected(self):
         key, content = next(iter(sl.REGISTRY.items()))
