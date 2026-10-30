@@ -256,7 +256,7 @@ register(
     context=[ex("En un libro hay un dibujo de una mujer mapuche frente a un telar y un hombre levantando la estructura de una ruka. ¿Qué dos trabajos muestra el dibujo?", "tejer y construir la ruka", "Muestran las tareas de tejer y de construir.")],
     selfcheck=[
         ex(f"{ACT} ¿Qué cazaban los hombres selk'nam?", "guanacos", "Así lo dice la ficha."),
-        ex("¿Qué es un estereotipo?", "una idea fija y simple sobre un grupo", "Los estereotipos simplifican a las personas."),
+        ex("En Historia: ¿Qué es un estereotipo?", "una idea fija y simple sobre un grupo", "Los estereotipos simplifican a las personas."),
         ex("¿Una fuente da información o la oculta?", "da información", "Una fuente informa sobre el pasado."),
     ],
     open_task=task(

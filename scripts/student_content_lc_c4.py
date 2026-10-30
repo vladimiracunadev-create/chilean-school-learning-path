@@ -231,7 +231,7 @@ register(
         ],
     },
     context=[ex("Una persona de la comunidad te dice una palabra. Tú quieres escribirla en tu cuaderno. ¿Qué haces: escribirla como tú oyes o pedirle que te la muestre escrita?", "pedirle que me la muestre escrita", "Así la copio tal como es.")],
-    selfcheck=[ex("¿Qué es contrastar?", "comparar", "Ver qué cambia."), ex("¿Escribo a mi manera una palabra de otra lengua?", "No", "Podría cambiarla sin querer."), ex("¿A quién pido que me la muestre escrita?", "al educador tradicional o a la comunidad", "Ellos la conocen.")],
+    selfcheck=[ex("En Lengua y Cultura: ¿Qué es contrastar?", "comparar", "Ver qué cambia."), ex("¿Escribo a mi manera una palabra de otra lengua?", "No", "Podría cambiarla sin querer."), ex("¿A quién pido que me la muestre escrita?", "al educador tradicional o a la comunidad", "Ellos la conocen.")],
     open_task=task(
         "Pide a un adulto que diga estas palabras en castellano: casa, cena, gato, gente. Escribe cuáles tienen sonido fuerte (c como k y g fuerte) y cuáles suave. Luego escribe una pregunta al educador/a tradicional sobre cómo se escriben las palabras de su lengua.",
         "Fuertes: casa, gato. Suaves: cena, gente. Pregunta: ¿cómo se escribe la palabra de su lengua que nos enseñarán?",

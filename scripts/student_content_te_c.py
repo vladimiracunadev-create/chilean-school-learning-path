@@ -470,7 +470,7 @@ reg(
         ("¿Una pista ayuda a pensar mejor o es un castigo?", "Ayuda a pensar mejor", "Es información útil."),
     ],
     C=[
-        ("¿Qué es la retroalimentación?", "La respuesta del programa a lo que hiciste", "Dice si acertaste."),
+        ("En Tecnología: ¿Qué es la retroalimentación?", "La respuesta del programa a lo que hiciste", "Dice si acertaste."),
         ("¿Qué haces cuando el mensaje es una pista?", "La lees y pruebas un cambio", "Te guía a corregir."),
         ("¿Qué haces si un mensaje no se entiende?", "Usas ayuda o preguntas a un adulto", "Es mejor entender."),
     ],

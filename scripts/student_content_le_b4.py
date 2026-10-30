@@ -359,7 +359,7 @@ lesson(
     [
         E(f"Escucha: {CUENTO_ZORRO} ¿Qué pasó cuando el zorro saltó?", "Cayó en el agua fría", "Lo cuenta el desarrollo."),
         E(f"Escucha: {CUENTO_ZORRO} ¿Qué hizo el zorro desde esa noche?", "Miró dos veces antes de saltar", "Es el final del cuento."),
-        E("¿Qué es predecir?", "Pensar de qué tratará o qué pasará", "Se hace con el título y las pistas."),
+        E("En Lenguaje: ¿Qué es predecir?", "Pensar de qué tratará o qué pasará", "Se hace con el título y las pistas."),
     ],
     [
         E("Un cuento se llama «El oso y la miel». ¿De qué crees que trata?", "De un oso que quiere miel", "El título nombra al oso y la miel."),

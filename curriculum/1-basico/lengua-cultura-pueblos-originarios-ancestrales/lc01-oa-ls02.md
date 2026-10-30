@@ -798,7 +798,7 @@ Respuesta: no es seguro
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es contrastar?
+- **E1.** En Lengua y Cultura: ¿Qué es contrastar?
 - **E2.** ¿Escribo a mi manera una palabra de otra lengua?
 - **E3.** ¿A quién pido que me la muestre escrita?
 

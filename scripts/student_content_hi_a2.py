@@ -256,7 +256,7 @@ register(
         "understand": [
             ex("¿Qué es un rol en la familia?", "La tarea que hace cada integrante", "Cada persona ayuda de una manera."),
             ex("¿Por qué decimos que las familias son diversas?", "Porque hay familias distintas", "Cada una está formada de manera diferente."),
-            ex("¿Qué es un estereotipo?", "Una idea fija sobre cómo debe ser alguien", "Por ejemplo: pensar que solo las mujeres cocinan."),
+            ex("En Historia: ¿Qué es un estereotipo?", "Una idea fija sobre cómo debe ser alguien", "Por ejemplo: pensar que solo las mujeres cocinan."),
         ],
         "apply": [
             ex("Familia de Lía: papá, tío Raúl, Lía y su hermano. ¿Cuántos integrantes tiene?", "4", "Se cuenta papá, tío, Lía y el hermano."),

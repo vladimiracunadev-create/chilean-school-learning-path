@@ -805,7 +805,7 @@ Respuesta: Las dos tienen razón porque son variantes
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es una variante?
+- **E1.** En Lengua y Cultura: ¿Qué es una variante?
 - **E2.** ¿Qué anotas junto a la palabra?
 - **E3.** ¿Se dice que una variante es la correcta?
 

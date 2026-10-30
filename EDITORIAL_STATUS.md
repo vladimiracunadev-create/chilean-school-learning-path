@@ -252,6 +252,6 @@ Un lote solo pasa a “desarrollado” cuando cada clase incluye contenido disci
 
 | Estado | Clases | Evidencia |
 |---|---:|---|
-| Con cuaderno del estudiante | 1.412 | 1° básico (691 clases) y 2° básico (721 clases) completos en sus 11 asignaturas, con segunda lectura crítica asistida por IA; validación automática aprobada; sin revisión profesional humana |
+| Con cuaderno del estudiante | 2.169 | 1° básico (691 clases), 2° básico (721) y 3° básico (757) completos en sus 11 asignaturas, con segunda lectura crítica asistida por IA; validación automática aprobada; sin revisión profesional humana |
 | Con revisión profesional del cuaderno | 0 | pendiente: ningún cuaderno tiene revisión disciplinar humana documentada |
 

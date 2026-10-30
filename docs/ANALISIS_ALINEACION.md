@@ -272,3 +272,93 @@ Cada una de las 721 clases de 2.º básico (las 20 de Matemática OA 01 a 05 esc
 | MA02 OA 14 | 4 | Dar y seguir un recorrido | 50 % | 100 % | 12.3 | respuesta «depende» en ejercicio cerrado |
 | EF02 OA 07 | 1 | Muchas maneras de estar activo | 71 % | 75 % | 19.2 | — |
 | MA02 OA 02 | 2 | Del material al dibujo | 100 % | 100 % | 18.2 | — |
+
+## 3.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 25 | 45 % | 0 |
+| ciencias-naturales | 55 | 50 % | 0 |
+| educacion-fisica-salud | 48 | 46 % | 0 |
+| historia-geografia-ciencias-sociales | 72 | 51 % | 2 |
+| ingles-propuesta | 69 | 30 % | 27 |
+| lengua-cultura-pueblos-originarios-ancestrales | 116 | 49 % | 2 |
+| lenguaje-comunicacion | 157 | 43 % | 1 |
+| matematica | 112 | 45 % | 5 |
+| musica | 35 | 49 % | 1 |
+| orientacion | 35 | 37 % | 0 |
+| tecnologia | 33 | 45 % | 1 |
+
+**Clases marcadas para lectura prioritaria (3.º básico):** 39 de 757.
+
+### Segunda lectura crítica de las 757 clases
+
+Cada una de las 757 clases de 3.º básico fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional; solo un lector confirmó el teléfono 147 en ChileAtiende.
+
+| Asignatura | Clases releídas | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 112 | Ejes que no parten de 0 mal descritos; error de ejemplo no plausible (5:100); dinero imposible (precios terminados en 5); aritmética fuera de nivel (2.500 − 2.000, divisiones por decenas); definición de vértice que contradecía el cono; prisma triangular fuera del OA; ejercicios copiados del ejemplo resuelto; material irrealizable (328 tapas). |
+| Lenguaje y Comunicación | 157 | 17 actividades abiertas sin su texto; orden alfabético erróneo; inferencia que el texto decía literalmente; unos 30 ejercicios abiertos pasados a cerrados; expresiones que podían leerse como burla; supuestos sobre la familia; nombre de una persona real en un libro ficticio. |
+| Ciencias Naturales | 55 | Estambres «en el centro» de la flor; prueba no justa (dos variables a la vez); mito del cartón de huevos; mano como material opaco; eco sin superficie lejana; aritmética fuera de nivel; seguridad al mirar eclipses. |
+| Historia, Geografía y Ciencias Sociales | 72 | Ciudadanía ateniense mal definida; carreras de carros atribuidas al anfiteatro; acueducto definido solo como puente; Atenas y Esparta «en el mismo país»; teléfono 147 verificado y afirmación no comprobable retirada; fuentes sin fecha tratadas como «la más nueva». |
+| Inglés | 69 | Calcos del español (I change my idea); «in the hospital» sobre un médico; glosas erróneas (sleep tight, desk); estructuras no enseñadas; respuesta que contradecía la consigna (an frente a a); enunciados que daban la respuesta. |
+| Lengua y Cultura de los Pueblos Originarios | 116 | 33 ejercicios aritméticos triviales puestos para el verificador reemplazados; «ruka» pasó a «casa mapuche»; afirmaciones culturales generalizadas; conteos erróneos; atribución falsa de una ficha a la educadora; estereotipos del ejemplo retirados. |
+| Educación Física y Salud | 48 | Cifras de pulso y respiración sin número que lograr; visión periférica mal enseñada; «salto mortal» retirado; escaleras, empujones y bebidas energizantes; contradicciones de metas; aritmética fuera de nivel. |
+| Orientación | 35 | Intimidad y consentimiento con excepción de salud explícita; origen de la vida en lenguaje sobrio; consumo de drogas con salida segura; supuestos sobre la familia; «copiar es copiar sin entender» falso. |
+| Música | 35 | Explicación de duración que daba 5 y no 4 pulsos; siglos con años de cuatro cifras retirados; datos de obras y autores generalizados; digitaciones de flauta agregadas; supuestos sobre abuelos. |
+| Artes Visuales | 25 | Ejercicios sobre lo no enseñado (semicírculo, cono, profundidad); regla de seguridad que contradecía su material (tierra); ocho supuestos sobre la familia; «mirete» sin definición. |
+| Tecnología | 33 | Tarea de reordenar frases ya ordenadas; ejemplo que cumplía «todos los criterios» con una punta que corta; «regar una vez por semana» retirado; reglas de seguridad de lijado, arcilla y cola; insumo ficticio rotulado. |
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Lenguaje (mitos, novelas, biografías, relatos históricos, cartas, catálogo digital, diccionario ilustrado, revistas y diarios, apoyos para exponer); Historia (legados griegos, arte romano, Greenwich, líneas de referencia); Ciencias (coníferas, hábitat del mamífero, efectos de la alimentación); Inglés (Easter, rimas, figuras y lugares); Música (reiteraciones, digitaciones de flauta, audición y creación); Matemática (minutos sueltos, números cercanos a 1.000, redes del cubo); Educación Física (giro de 180°, desmarque); Orientación (derecho a ser diferente, intereses propios, gestora de su vida).
+- **Abiertos:** Música OA 03 pide escuchar al menos 20 músicas y las fichas son escritas; Artes OA 04 pide 15 + 15 + 15 obras al año y las del cuaderno son inventadas; Lenguaje: mitos, leyendas, cuentos folclóricos y novelas reales con derechos de autor; Lengua y Cultura de los Pueblos Originarios: textos, oraciones y relatos reales en lengua indígena, que aporta el educador o educadora tradicional; software educativo, audio y video en varias asignaturas; Educación Física OA 04 (bicicleta y playa solo como contexto) y los pasos de danzas concretas.
+- **Decisiones que dependen del programa oficial:** si el prisma y la pirámide de base triangular son de 3.º (se retiró el prisma triangular y se dejó la pirámide), si los ejes que no parten de 0 y la hora de 24 horas son contenido del nivel, y si «moda» corresponde a 3.º (se usó «valor más frecuente»).
+
+### Clases marcadas de 3.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| EN03 OA 02 | 2 | Identify abilities and feelings | 8 % | 0 % | 13.2 | — |
+| EN03 OA 11 | 2 | Introduce a fictional person | 8 % | 33 % | 13.7 | — |
+| EN03 OA 07 | 1 | Read about school and home | 10 % | 0 % | 9.8 | — |
+| EN03 OA 02 | 3 | Locate possession, quantity and position | 10 % | 0 % | 19.1 | — |
+| EN03 OA 02 | 4 | Recognize actions in progress | 10 % | 0 % | 12.4 | — |
+| EN03 OA 12 | 1 | Share safe fictional information | 11 % | 33 % | 16.8 | — |
+| EN03 OA 10 | 3 | Contrast /s/ and /z/ | 15 % | 0 % | 13.7 | — |
+| EN03 OA 07 | 3 | Read about occupations and places | 16 % | 0 % | 12.7 | — |
+| MA03 OA 22 | 3 | Relacionar 1.000 g y 1 kg | 17 % | 0 % | 9.9 | — |
+| EN03 OA 02 | 1 | Follow instructions and introductions | 18 % | 33 % | 12.6 | — |
+| LE03 OA 03 | 3 | Fábula sin reducirla a una moraleja | 18 % | 67 % | 15.3 | respuesta «depende» en ejercicio cerrado |
+| EN03 OA 01 | 3 | Sequence a short song or story | 20 % | 0 % | 13.3 | — |
+| EN03 OA 11 | 1 | Exchange classroom requests | 20 % | 0 % | 13.3 | — |
+| EN03 OA 03 | 4 | Order three events | 21 % | 33 % | 12.1 | — |
+| EN03 OA 07 | 2 | Read about animals and shapes | 21 % | 33 % | 10.2 | — |
+| EN03 OA 10 | 1 | Notice and produce /w/ | 21 % | 0 % | 12.7 | — |
+| EN03 OA 10 | 2 | Explore /th/ safely | 21 % | 0 % | 14.5 | — |
+| MA03 OA 12 | 2 | Explorar cambios verticales | 21 % | 33 % | 11.0 | — |
+| EN03 OA 12 | 4 | Request and locate an item | 22 % | 0 % | 13.3 | — |
+| EN03 OA 12 | 5 | Describe actions happening now | 22 % | 33 % | 11.6 | — |
+| EN03 OA 14 | 4 | Describe visible actions | 24 % | 33 % | 17.8 | — |
+| MA03 OA 22 | 1 | Comparar con una balanza | 24 % | 100 % | 10.5 | respuesta «depende» en ejercicio cerrado |
+| TE03 OA 02 | 3 | Ordenar dependencias y puntos de control | 25 % | 100 % | 12.2 | respuesta «depende» en ejercicio cerrado |
+| EN03 OA 12 | 2 | Express ability and quantity | 26 % | 0 % | 11.7 | — |
+| EN03 OA 06 | 4 | Follow written instructions | 26 % | 33 % | 11.4 | — |
+| EN03 OA 09 | 5 | Express and support an opinion | 26 % | 33 % | 14.4 | — |
+| EN03 OA 11 | 4 | Give a brief supported presentation | 28 % | 33 % | 8.1 | — |
+| EN03 OA 04 | 4 | Focus on key words | 29 % | 0 % | 13.3 | — |
+| EN03 OA 08 | 4 | Reread for a specific question | 29 % | 33 % | 11.1 | — |
+| EN03 OA 13 | 4 | Write and check a supported sentence | 29 % | 25 % | 16.8 | — |
+| EN03 OA 11 | 3 | Ask for a missing word | 30 % | 0 % | 11.3 | — |
+| MA03 OA 24 | 2 | Ordenar frecuencias | 38 % | 100 % | 12.6 | respuesta «depende» en ejercicio cerrado |
+| EN03 OA 14 | 2 | Write feelings and quantities | 41 % | 33 % | 20.3 | — |
+| LC03 OA LR01 | 5 | Crear una devolución que aporta a revitalizar | 43 % | 100 % | 20.4 | — |
+| HI03 OA 07 | 1 | Distinguir globo y mapa | 50 % | 100 % | 13.5 | respuesta «depende» en ejercicio cerrado |
+| MA03 OA 14 | 3 | Describir recorridos sin ambigüedad | 57 % | 100 % | 12.8 | respuesta «depende» en ejercicio cerrado |
+| LC03 OA 12 | 1 | Reconocer relaciones concretas | 67 % | 100 % | 9.9 | respuesta «depende» en ejercicio cerrado |
+| HI03 OA 15 | 1 | Formular una pregunta de investigación | 73 % | 100 % | 10.8 | respuesta «depende» en ejercicio cerrado |
+| MU03 OA 08 | 1 | Identificar una fortaleza con evidencia | 78 % | 100 % | 13.8 | respuesta «depende» en ejercicio cerrado |

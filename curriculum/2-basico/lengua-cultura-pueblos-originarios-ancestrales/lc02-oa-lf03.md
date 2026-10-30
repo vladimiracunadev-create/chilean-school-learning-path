@@ -1013,7 +1013,7 @@ Respuesta: Que son variantes y que ninguna es mala
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es una variante?
+- **E1.** En Lengua y Cultura: ¿Qué es una variante?
 - **E2.** ¿Se dice que una variante es mejor?
 - **E3.** ¿Qué comparas?
 

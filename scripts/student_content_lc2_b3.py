@@ -318,7 +318,7 @@ register(
     },
     context=[ex("En la feria ves dos carteles con una palabra escrita de manera distinta. ¿Qué pregunta haces: cuál es el correcto o quién lo escribió y para qué?", "Quién lo escribió y para qué", "Esa pregunta respeta a ambos.")],
     selfcheck=[
-        ex("¿Qué es una variante?", "Otra forma de escribir o decir lo mismo", "Dos formas válidas."),
+        ex("En Lengua y Cultura: ¿Qué es una variante?", "Otra forma de escribir o decir lo mismo", "Dos formas válidas."),
         ex("¿Se dice que una variante es mejor?", "No", "No se jerarquiza."),
         ex("¿Qué comparas?", "Qué se parece y qué cambia", "Semejanzas y diferencias."),
     ],

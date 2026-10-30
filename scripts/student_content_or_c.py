@@ -183,7 +183,7 @@ register(
         "recovery": [
             ex("¿Un acuerdo lo deciden los dos?", "Sí", "Es una decisión conjunta."),
             ex("Después de probar un acuerdo, ¿qué haces: revisar o olvidarlo?", "Revisar", "Se ve si funcionó."),
-            ex("¿Reparar significa arreglar el daño?", "Sí", "Se hace algo para arreglarlo."),
+            ex("En Orientación: ¿Reparar significa arreglar el daño?", "Sí", "Se hace algo para arreglarlo."),
         ],
         "understand": [
             ex("¿Qué dice un acuerdo claro?", "Quién hace qué y cuándo", "Así no hay dudas."),

@@ -506,7 +506,7 @@ register(
     },
     context=[ex("Tu curso escribe el nombre de la lengua en un cartel. Una niña dice que se escribe de otra forma. ¿Qué proponen?", "Anotar las dos formas con sus fuentes", "No se descarta ninguna.")],
     selfcheck=[
-        ex("¿Qué es una variante?", "Otra forma de decir o escribir lo mismo", "Es una forma distinta."),
+        ex("En Lengua y Cultura: ¿Qué es una variante?", "Otra forma de decir o escribir lo mismo", "Es una forma distinta."),
         ex("¿Qué anotas junto a la palabra?", "Quién la dijo y su comunidad", "Es la fuente."),
         ex("¿Se dice que una variante es la correcta?", "No", "Ninguna se jerarquiza."),
     ],

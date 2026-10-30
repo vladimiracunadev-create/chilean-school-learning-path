@@ -97,7 +97,7 @@ reg(
         E("¿Qué palabra une la opinión con su razón?", "Porque", "Introduce el motivo."),
     ],
     [
-        E("¿Para qué sirve dar una razón?", "Para que los demás entiendan por qué pienso así", "La razón explica la opinión."),
+        E("En Lenguaje: ¿Para qué sirve dar una razón?", "Para que los demás entiendan por qué pienso así", "La razón explica la opinión."),
         E("¿La frase «Me gusta el verano porque hace calor» tiene razón?", "Sí", "Después de «porque» está el motivo."),
         E("¿Es mejor decir «No quiero» o «No quiero porque tengo frío»?", "No quiero porque tengo frío", "La segunda explica el motivo."),
     ],

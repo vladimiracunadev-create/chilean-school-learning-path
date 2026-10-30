@@ -204,7 +204,7 @@ reg(
     ],
     [
         E("¿Cuáles son las tres partes de una buena disculpa?", "Decir qué hice, pedir perdón y proponer reparar", "Muestran responsabilidad y cuidado."),
-        E("¿Qué es reparar?", "Arreglar lo que se dañó", "Compenso el error."),
+        E("En Lenguaje: ¿Qué es reparar?", "Arreglar lo que se dañó", "Compenso el error."),
         E("Si la persona sigue molesta, ¿qué hago?", "Espero y no insisto", "Ella necesita tiempo."),
     ],
     [

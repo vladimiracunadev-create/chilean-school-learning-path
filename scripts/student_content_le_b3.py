@@ -289,7 +289,7 @@ lesson(
     [
         E("Corrige: «mi mamá cocina»", "Mi mamá cocina.", "Mayúscula al inicio y punto al final."),
         E("Corrige: «La niña en el parque.» (agrega qué hace)", "Por ejemplo: La niña juega en el parque.", "Faltaba la acción."),
-        E("¿Para qué sirve la lista de revisión?", "Para comprobar si mi oración está bien", "Ayuda a mirar todos los puntos."),
+        E("En Lenguaje: ¿Para qué sirve la lista de revisión?", "Para comprobar si mi oración está bien", "Ayuda a mirar todos los puntos."),
     ],
     [
         E("Corrige las palabras pegadas: «Elgatoduerme.»", "El gato duerme.", "Se separan las palabras."),

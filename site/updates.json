@@ -5,6 +5,16 @@
   "updates": [
     {
       "date": "2026-10-30",
+      "title": "3° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
+      "summary": [
+        "Las 757 clases de 3° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos más frecuentes de 1° y 2° básico.",
+        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió errores de respuesta, datos falsos o dudosos, ejercicios no enseñados, aritmética fuera de nivel y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron 79 enunciados de definición idénticos entre asignaturas.",
+        "El análisis de alineación cubre ahora 1°, 2° y 3° básico, y la lista de contenidos para especialistas incluye 3° básico. El teléfono 147 (Fono Niños de Carabineros) se confirmó en ChileAtiende.",
+        "Siguen abiertos: escucha de al menos 20 músicas, 45 obras de arte al año, textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), software, audio y video, y decisiones que dependen del programa oficial. Sin revisión profesional humana."
+      ]
+    },
+    {
+      "date": "2026-10-30",
       "title": "2° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
       "summary": [
         "Las 721 clases de 2° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios): 701 nuevas en 20 bloques de trabajo y las 20 de Matemática OA 1 a 5 existentes.",
@@ -20,14 +30,6 @@
         "Inglés OA 3 (contraste /w/-/th/) y OA 7 (ocupaciones y comida), Tecnología OA 3 (fibras y plásticos) y OA 6 (libro digital, simulador, interactivo y creativo) se incorporaron a las clases existentes, reemplazando ejercicios repetitivos sin aumentar su número.",
         "En Historia se reemplazaron las restas de años de cuatro cifras, fuera del rango numérico del nivel, por comparación, orden de fechas y saltos cortos.",
         "Siguen abiertos Lenguaje OA 9 y 17 (obras completas y poemas de autor, por derechos de autor) y la lengua indígena real, que corresponde a un educador o educadora tradicional. Sin revisión profesional humana."
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "title": "1° básico: segunda lectura crítica de las 691 clases",
-      "summary": [
-        "Cada una de las 691 clases de 1° básico fue releída por un segundo lector independiente (asistido por IA, no revisión profesional): contrastó el cuaderno con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió en el mismo archivo errores de respuesta, datos falsos o dudosos, contradicciones internas, ejercicios no enseñados, contenido de otros niveles (multiplicación, centímetros, restas de años) y riesgos de seguridad.",
-        "El resumen por asignatura y los vacíos de cobertura frente al OA que no se resolvieron (Inglés OA 3 y 7, Tecnología OA 3 y 6, obras completas de Lenguaje, lengua indígena real) quedan en [Análisis de alineación](docs/ANALISIS_ALINEACION.md); los contenidos para especialistas, en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md)."
       ]
     }
   ]

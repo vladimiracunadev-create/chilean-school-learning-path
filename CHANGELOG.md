@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-30 · 3° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 757 clases de 3° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos más frecuentes de 1° y 2° básico.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió errores de respuesta, datos falsos o dudosos, ejercicios no enseñados, aritmética fuera de nivel y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron 79 enunciados de definición idénticos entre asignaturas.
+- El análisis de alineación cubre ahora 1°, 2° y 3° básico, y la lista de contenidos para especialistas incluye 3° básico. El teléfono 147 (Fono Niños de Carabineros) se confirmó en ChileAtiende.
+- Siguen abiertos: escucha de al menos 20 músicas, 45 obras de arte al año, textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), software, audio y video, y decisiones que dependen del programa oficial. Sin revisión profesional humana.
+
 ## 2026-10-30 · 2° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 721 clases de 2° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios): 701 nuevas en 20 bloques de trabajo y las 20 de Matemática OA 1 a 5 existentes.

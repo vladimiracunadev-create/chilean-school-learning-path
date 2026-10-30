@@ -489,7 +489,7 @@ lesson(
     ],
     [E("En tu curso votan el juego favorito del recreo: pelota, cuerda o escondida. Escribe tu voto con una razón: «Elijo ... porque ...»", "Por ejemplo: Elijo la cuerda porque salto muy alto", "Debe tener elección y razón.")],
     [
-        E("¿Qué es una idea?", "Lo que yo pienso", "Puede variar entre personas."),
+        E("En Lenguaje: ¿Qué es una idea?", "Lo que yo pienso", "Puede variar entre personas."),
         E("En «Creo que el verano es lindo porque hay sol», ¿qué viene después de «porque»?", "La razón", "La explicación de la idea."),
         E("¿Está bien que otro piense distinto?", "Sí", "Cada uno tiene su idea."),
     ],

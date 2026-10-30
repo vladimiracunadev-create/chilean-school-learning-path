@@ -495,7 +495,7 @@ register(
     context=[ex("Una compañera lee una placa de un club fundado por inmigrantes. La placa dice el nombre del club y el año, pero no cuenta cómo vivían sus fundadores. ¿Qué parte de la ficha es esto?", "el límite de la fuente", "Es lo que la placa no cuenta.")],
     selfcheck=[
         ex("¿Cuántas partes tiene la ficha de diversidad de la clase?", "5", "Persona o comunidad, época, evidencia, aporte y límite."),
-        ex("¿Qué es un estereotipo?", "una idea fija y simple sobre un grupo", "Simplifica a las personas."),
+        ex("En Historia: ¿Qué es un estereotipo?", "una idea fija y simple sobre un grupo", "Simplifica a las personas."),
         ex(f"{DIV} ¿Qué aportaron las familias alemanas del sur?", "colegios y negocios", "La ficha lo dice."),
     ],
     open_task=task(
