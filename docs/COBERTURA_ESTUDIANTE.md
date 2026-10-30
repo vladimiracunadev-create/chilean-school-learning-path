@@ -4,13 +4,13 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 94 de 12.997 clases y experiencias publicadas tienen cuaderno del estudiante (0,7 %).
+**Resumen:** 103 de 12.997 clases y experiencias publicadas tienen cuaderno del estudiante (0,8 %).
 
 ## Cobertura por nivel
 
 | Nivel | Clases con planificación | Clases con cuaderno | Ejercicios y preguntas | Ejemplos resueltos | Validación automática | Revisión profesional |
 |---|---:|---:|---:|---:|---|---|
-| 1.º básico | 1.034 | 74 | 1258 | 148 | aprobada | pendiente |
+| 1.º básico | 1.034 | 83 | 1411 | 166 | aprobada | pendiente |
 | 2.º básico | 1.072 | 20 | 340 | 40 | aprobada | pendiente |
 | 3.º básico | 1.136 | 0 | 0 | 0 | — | pendiente |
 | 4.º básico | 1.195 | 0 | 0 | 0 | — | pendiente |
@@ -45,6 +45,8 @@ Se informa por separado la **validación automática** (estructura, cantidad, ve
 | 1.º básico | matematica | MA01 OA 16 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 17 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 18 | 4 | 4 | 68 | 8 |
+| 1.º básico | matematica | MA01 OA 19 | 4 | 4 | 68 | 8 |
+| 1.º básico | matematica | MA01 OA 20 | 5 | 5 | 85 | 10 |
 | 2.º básico | matematica | MA02 OA 01 | 4 | 4 | 68 | 8 |
 | 2.º básico | matematica | MA02 OA 02 | 4 | 4 | 68 | 8 |
 | 2.º básico | matematica | MA02 OA 03 | 4 | 4 | 68 | 8 |

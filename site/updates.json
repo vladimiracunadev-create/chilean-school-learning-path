@@ -5,6 +5,15 @@
   "updates": [
     {
       "date": "2026-10-30",
+      "title": "Cuaderno del estudiante: lote 7 (1° básico, Matemática OA 19 y 20)",
+      "summary": [
+        "Las 9 clases de `MA01 OA 19` y `MA01 OA 20` (recolección de datos y pictogramas) publican cuaderno del estudiante. Con este lote **Matemática de 1° básico queda completa con cuaderno** (20 OA y 83 clases); siguen pendientes las otras diez asignaturas del nivel.",
+        "Las respuestas calculadas por el generador ahora muestran el cálculo realizado en su explicación.",
+        "Sin revisión profesional."
+      ]
+    },
+    {
+      "date": "2026-10-30",
       "title": "Cuaderno del estudiante: lote 6 (1° básico, Matemática OA 15 a 18)",
       "summary": [
         "Las 16 clases de `MA01 OA 15` a `MA01 OA 18` (líneas rectas y curvas, duración con unidades no estandarizadas, secuencia temporal y longitud) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.",
@@ -17,14 +26,6 @@
       "summary": [
         "Las 12 clases de `MA01 OA 12` a `MA01 OA 14` (igualdad y equilibrio, posición y lenguaje espacial, figuras 2D y cuerpos 3D) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.",
         "1° básico acumula 58 clases con cuaderno; siguen pendientes Matemática OA 15 a 20 y las otras diez asignaturas. Sin revisión profesional."
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Cuaderno del estudiante: lote 4 (1° básico, Matemática OA 9 a 11)",
-      "summary": [
-        "Las 14 clases de `MA01 OA 09` a `MA01 OA 11` (problemas de sumar y restar, operaciones inversas y patrones) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.",
-        "1° básico acumula 46 clases con cuaderno; siguen pendientes Matemática OA 12 a 20 y las otras diez asignaturas. Sin revisión profesional."
       ]
     }
   ]

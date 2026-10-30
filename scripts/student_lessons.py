@@ -39,7 +39,9 @@ def ex(q: str, a: str, why: str, calc: str | None = None) -> dict:
 def arith(q: str, expr: str, why: str, unit: str = "") -> dict:
     """Closed exercise whose answer is computed from `expr`, so it cannot disagree."""
     value = evaluate(expr)
-    return ex(q, f"{fmt(value)}{unit}", why, calc=expr)
+    shown = expr.replace("//", " ÷ ").replace("*", " × ").replace("-", " − ").replace("+", " + ")
+    shown = " ".join(shown.split())
+    return ex(q, f"{fmt(value)}{unit}", f"{why} Cálculo: {shown} = {fmt(value)}.", calc=expr)
 
 
 def fmt(value: int | float) -> str:

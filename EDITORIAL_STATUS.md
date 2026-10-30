@@ -252,6 +252,6 @@ Un lote solo pasa a “desarrollado” cuando cada clase incluye contenido disci
 
 | Estado | Clases | Evidencia |
 |---|---:|---|
-| Con cuaderno del estudiante | 94 | 1° básico Matemática `MA01 OA 01` a `MA01 OA 18` y 2° básico Matemática `MA02 OA 01` a `MA02 OA 05`; validación automática aprobada |
+| Con cuaderno del estudiante | 103 | 1° básico Matemática completa (`MA01 OA 01` a `MA01 OA 20`) y 2° básico Matemática `MA02 OA 01` a `MA02 OA 05`; validación automática aprobada |
 | Con revisión profesional del cuaderno | 0 | pendiente: ningún cuaderno tiene revisión disciplinar humana documentada |
 
