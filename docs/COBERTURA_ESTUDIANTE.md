@@ -4,13 +4,13 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 103 de 12.997 clases y experiencias publicadas tienen cuaderno del estudiante (0,8 %).
+**Resumen:** 711 de 12.997 clases y experiencias publicadas tienen cuaderno del estudiante (5,5 %).
 
 ## Cobertura por nivel
 
 | Nivel | Clases con planificación | Clases con cuaderno | Ejercicios y preguntas | Ejemplos resueltos | Validación automática | Revisión profesional |
 |---|---:|---:|---:|---:|---|---|
-| 1.º básico | 1.034 | 83 | 1411 | 166 | aprobada | pendiente |
+| 1.º básico | 1.034 | 691 | 11747 | 1382 | aprobada | pendiente |
 | 2.º básico | 1.072 | 20 | 340 | 40 | aprobada | pendiente |
 | 3.º básico | 1.136 | 0 | 0 | 0 | — | pendiente |
 | 4.º básico | 1.195 | 0 | 0 | 0 | — | pendiente |
@@ -27,6 +27,118 @@ Se informa por separado la **validación automática** (estructura, cantidad, ve
 
 | Nivel | Asignatura | OA | Clases con cuaderno | Clases del OA | Ejercicios y preguntas | Ejemplos resueltos |
 |---|---|---|---:|---:|---:|---:|
+| 1.º básico | artes-visuales | AR01 OA 01 | 6 | 6 | 102 | 12 |
+| 1.º básico | artes-visuales | AR01 OA 02 | 5 | 5 | 85 | 10 |
+| 1.º básico | artes-visuales | AR01 OA 03 | 5 | 5 | 85 | 10 |
+| 1.º básico | artes-visuales | AR01 OA 04 | 4 | 4 | 68 | 8 |
+| 1.º básico | artes-visuales | AR01 OA 05 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 01 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 02 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 04 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 05 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 07 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 08 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 09 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 10 | 5 | 5 | 85 | 10 |
+| 1.º básico | ciencias-naturales | CN01 OA 11 | 4 | 4 | 68 | 8 |
+| 1.º básico | ciencias-naturales | CN01 OA 12 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 01 | 5 | 5 | 85 | 10 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 02 | 5 | 5 | 85 | 10 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 04 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 05 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 07 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 08 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 09 | 5 | 5 | 85 | 10 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 10 | 4 | 4 | 68 | 8 |
+| 1.º básico | educacion-fisica-salud | EF01 OA 11 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 01 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 02 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 03 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 04 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 05 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 06 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 07 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 08 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 09 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 10 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 11 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 12 | 5 | 5 | 85 | 10 |
+| 1.º básico | ingles-propuesta | EN01 OA 13 | 4 | 4 | 68 | 8 |
+| 1.º básico | ingles-propuesta | EN01 OA 14 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 01 | 4 | 4 | 68 | 8 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 02 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 04 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 05 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 06 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 07 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 08 | 4 | 4 | 68 | 8 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 09 | 4 | 4 | 68 | 8 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 10 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 11 | 4 | 4 | 68 | 8 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 12 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 13 | 5 | 5 | 85 | 10 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 14 | 4 | 4 | 68 | 8 |
+| 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 15 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 07 | 5 | 5 | 85 | 10 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 08 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 09 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 10 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 11 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 12 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 13 | 5 | 5 | 85 | 10 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 14 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 15 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 16 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 17 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LF01 | 6 | 6 | 102 | 12 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LF02 | 6 | 6 | 102 | 12 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LF03 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LF04 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LF05 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LF06 | 5 | 5 | 85 | 10 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LR01 | 6 | 6 | 102 | 12 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LR02 | 5 | 5 | 85 | 10 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LR03 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LR04 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LR05 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LR06 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LS01 | 6 | 6 | 102 | 12 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LS02 | 5 | 5 | 85 | 10 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LS03 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LS04 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LS05 | 4 | 4 | 68 | 8 |
+| 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA LS06 | 4 | 4 | 68 | 8 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 01 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 02 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 04 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 05 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 06 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 07 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 08 | 6 | 6 | 102 | 12 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 09 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 10 | 6 | 6 | 102 | 12 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 11 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 12 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 13 | 4 | 4 | 68 | 8 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 14 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 15 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 16 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 17 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 18 | 6 | 6 | 102 | 12 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 19 | 4 | 4 | 68 | 8 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 20 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 21 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 22 | 6 | 6 | 102 | 12 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 23 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 24 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 25 | 5 | 5 | 85 | 10 |
+| 1.º básico | lenguaje-comunicacion | LE01 OA 26 | 5 | 5 | 85 | 10 |
 | 1.º básico | matematica | MA01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 03 | 4 | 4 | 68 | 8 |
@@ -52,6 +164,27 @@ Se informa por separado la **validación automática** (estructura, cantidad, ve
 | 2.º básico | matematica | MA02 OA 03 | 4 | 4 | 68 | 8 |
 | 2.º básico | matematica | MA02 OA 04 | 4 | 4 | 68 | 8 |
 | 2.º básico | matematica | MA02 OA 05 | 4 | 4 | 68 | 8 |
+| 1.º básico | musica | MU01 OA 01 | 4 | 4 | 68 | 8 |
+| 1.º básico | musica | MU01 OA 02 | 4 | 4 | 68 | 8 |
+| 1.º básico | musica | MU01 OA 03 | 5 | 5 | 85 | 10 |
+| 1.º básico | musica | MU01 OA 04 | 4 | 4 | 68 | 8 |
+| 1.º básico | musica | MU01 OA 05 | 4 | 4 | 68 | 8 |
+| 1.º básico | musica | MU01 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º básico | musica | MU01 OA 07 | 4 | 4 | 68 | 8 |
+| 1.º básico | orientacion | OR01 OA 01 | 4 | 4 | 68 | 8 |
+| 1.º básico | orientacion | OR01 OA 02 | 4 | 4 | 68 | 8 |
+| 1.º básico | orientacion | OR01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | orientacion | OR01 OA 04 | 5 | 5 | 85 | 10 |
+| 1.º básico | orientacion | OR01 OA 05 | 5 | 5 | 85 | 10 |
+| 1.º básico | orientacion | OR01 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º básico | orientacion | OR01 OA 07 | 4 | 4 | 68 | 8 |
+| 1.º básico | orientacion | OR01 OA 08 | 5 | 5 | 85 | 10 |
+| 1.º básico | tecnologia | TE01 OA 01 | 5 | 5 | 85 | 10 |
+| 1.º básico | tecnologia | TE01 OA 02 | 4 | 4 | 68 | 8 |
+| 1.º básico | tecnologia | TE01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | tecnologia | TE01 OA 04 | 4 | 4 | 68 | 8 |
+| 1.º básico | tecnologia | TE01 OA 05 | 5 | 5 | 85 | 10 |
+| 1.º básico | tecnologia | TE01 OA 06 | 4 | 4 | 68 | 8 |
 
 ## Mínimos exigidos por el validador
 
@@ -60,6 +193,6 @@ Se informa por separado la **validación automática** (estructura, cantidad, ve
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase, ni repetirse un enunciado idéntico entre clases.
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (32 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

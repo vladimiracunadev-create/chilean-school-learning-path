@@ -248,10 +248,10 @@ Un lote solo pasa a “desarrollado” cuando cada clase incluye contenido disci
 
 ## Material para el estudiante (estado separado)
 
-“Desarrollada” describe la **planificación docente** de una clase: propósito, secuencia, evidencia y criterios. No significa que el estudiante disponga de explicación, ejercicios y respuestas para aprender por sí mismo. Ese material se publica como **cuaderno del estudiante** y se cuenta aparte en [Cobertura real del material del estudiante](docs/COBERTURA_ESTUDIANTE.md). La [auditoría de contenido](docs/AUDITORIA_CONTENIDO.md) documenta la línea base reproducible y los defectos comprobados.
+“Desarrollada” describe la **planificación docente** de una clase: propósito, secuencia, evidencia y criterios. No significa que el estudiante disponga de explicación, ejercicios y respuestas para aprender por sí mismo. Ese material se publica como **cuaderno del estudiante** y se cuenta aparte en [Cobertura real del material del estudiante](docs/COBERTURA_ESTUDIANTE.md). Los contenidos que requieren revisión especializada se listan en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md). La [auditoría de contenido](docs/AUDITORIA_CONTENIDO.md) documenta la línea base reproducible y los defectos comprobados.
 
 | Estado | Clases | Evidencia |
 |---|---:|---|
-| Con cuaderno del estudiante | 103 | 1° básico Matemática completa (`MA01 OA 01` a `MA01 OA 20`) y 2° básico Matemática `MA02 OA 01` a `MA02 OA 05`; validación automática aprobada |
+| Con cuaderno del estudiante | 711 | 1° básico completo en sus 11 asignaturas (691 clases) y 2° básico Matemática `MA02 OA 01` a `MA02 OA 05`; validación automática aprobada |
 | Con revisión profesional del cuaderno | 0 | pendiente: ningún cuaderno tiene revisión disciplinar humana documentada |
 

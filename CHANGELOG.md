@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-30 · Cuaderno del estudiante: 1° básico completo (11 asignaturas)
+
+- Las 691 clases desarrolladas de 1° básico, en sus once asignaturas (Lenguaje, Matemática, Ciencias Naturales, Historia, Artes Visuales, Música, Educación Física, Orientación, Tecnología, Inglés y Lengua y Cultura de los Pueblos Originarios), publican cuaderno del estudiante con explicación, ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios. El total del proyecto sube a 711 clases con cuaderno.
+- Los cuadernos se redactaron por bloques de OA en paralelo y se validaron con `scripts/check_student_module.py` y `scripts/validate_student_lessons.py`.
+- El validador ahora trata un enunciado idéntico entre asignaturas distintas como error; las 28 repeticiones detectadas se contextualizaron por asignatura. Dentro de una misma asignatura se admite como repaso y se informa en el panel de cobertura.
+- Nueva página [Revisión profesional pendiente de los cuadernos](docs/REVISION_PENDIENTE_CUADERNOS.md), con los contenidos que los autores marcaron para revisión especializada. **Ninguna clase tiene revisión profesional.**
+
 ## 2026-10-30 · Cuaderno del estudiante: lote 7 (1° básico, Matemática OA 19 y 20)
 
 - Las 9 clases de `MA01 OA 19` y `MA01 OA 20` (recolección de datos y pictogramas) publican cuaderno del estudiante. Con este lote **Matemática de 1° básico queda completa con cuaderno** (20 OA y 83 clases); siguen pendientes las otras diez asignaturas del nivel.

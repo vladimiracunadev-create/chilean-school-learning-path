@@ -49,6 +49,28 @@ def lesson_totals() -> dict[str, int]:
     return totals
 
 
+def subject_of(code: str) -> str:
+    return code.split()[0][:2]
+
+
+def repeat_allowed(where: str, oa_code: str, old_answer: str, new_answer: str) -> bool:
+    """A review question may repeat inside one subject (spiral review); never across subjects."""
+    return subject_of(where) == subject_of(oa_code)
+
+
+def repeated_review_count() -> int:
+    sl.load_all()
+    seen: dict[str, str] = {}
+    count = 0
+    for (oa_code, number), content in sorted(sl.REGISTRY.items()):
+        for item in sl.all_questions(content):
+            key = item["q"].strip().lower()
+            if key in seen and seen[key] != f"{oa_code}:{number}":
+                count += 1
+            seen[key] = f"{oa_code}:{number}"
+    return count
+
+
 def check() -> list[str]:
     sl.load_all()
     errors: list[str] = []
@@ -68,9 +90,11 @@ def check() -> list[str]:
             errors.append(f"{oa_code} clase {number}: {count} ejercicios comparten la plantilla «{top[:50]}»")
         for item in sl.all_questions(content):
             key = item["q"].strip().lower()
-            if key in seen and seen[key] != f"{oa_code}:{number}":
-                errors.append(f"{oa_code} clase {number}: enunciado idéntico a {seen[key]}: {item['q'][:50]}")
-            seen[key] = f"{oa_code}:{number}"
+            if key in seen and seen[key][0] != f"{oa_code}:{number}":
+                where, answer = seen[key]
+                if not repeat_allowed(where, oa_code, answer, item["a"]):
+                    errors.append(f"{oa_code} clase {number}: enunciado idéntico a {where}: {item['q'][:50]}")
+            seen[key] = (f"{oa_code}:{number}", item["a"])
     return errors
 
 
@@ -130,7 +154,7 @@ def report() -> str:
         f"- Al menos {sl.MIN_CLOSED} ejercicios cerrados repartidos en los {sl.MIN_TIERS} niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y {sl.MIN_SELFCHECK} preguntas de autoevaluación.",
         "- Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.",
         "- Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.",
-        f"- Ninguna plantilla de enunciado puede superar el {int(MAX_TEMPLATE_SHARE * 100)} % de los ejercicios de una clase, ni repetirse un enunciado idéntico entre clases.",
+        f"- Ninguna plantilla de enunciado puede superar el {int(MAX_TEMPLATE_SHARE * 100)} % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece ({repeated_review_count()} preguntas de repaso hoy).",
         "",
         "Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.",
         "",
