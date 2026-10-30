@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-29 · Cuaderno del estudiante: lote 3 (1° básico, Matemática OA 4 a 8)
+
+- Las 20 clases de `MA01 OA 04` a `MA01 OA 08` (comparar y ordenar hasta 20, estimar, componer, cálculo mental y decenas y unidades) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.
+- El validador detectó y obligó a corregir una resta con nueve ejercicios de la misma plantilla y enunciados repetidos entre cursos.
+- 1° básico queda con 32 clases con cuaderno; restan Matemática OA 9 a 20 y las otras diez asignaturas. Sin revisión profesional.
+
 ## 2026-10-29 · Cuaderno del estudiante: lote 2 (1° básico, Matemática OA 1 a 3)
 
 - Se inicia el recorrido nivel por nivel desde 1° básico: las 12 clases de `MA01 OA 01` a `MA01 OA 03` (conteo con saltos, ordinales y números hasta 20) publican explicación, ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.

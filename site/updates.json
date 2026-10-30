@@ -5,6 +5,15 @@
   "updates": [
     {
       "date": "2026-10-29",
+      "title": "Cuaderno del estudiante: lote 3 (1° básico, Matemática OA 4 a 8)",
+      "summary": [
+        "Las 20 clases de `MA01 OA 04` a `MA01 OA 08` (comparar y ordenar hasta 20, estimar, componer, cálculo mental y decenas y unidades) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.",
+        "El validador detectó y obligó a corregir una resta con nueve ejercicios de la misma plantilla y enunciados repetidos entre cursos.",
+        "1° básico queda con 32 clases con cuaderno; restan Matemática OA 9 a 20 y las otras diez asignaturas. Sin revisión profesional."
+      ]
+    },
+    {
+      "date": "2026-10-29",
       "title": "Cuaderno del estudiante: lote 2 (1° básico, Matemática OA 1 a 3)",
       "summary": [
         "Se inicia el recorrido nivel por nivel desde 1° básico: las 12 clases de `MA01 OA 01` a `MA01 OA 03` (conteo con saltos, ordinales y números hasta 20) publican explicación, ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.",
@@ -21,17 +30,6 @@
         "Nuevo validador `scripts/validate_student_lessons.py` (estructura, mínimos, respuestas aritméticas recalculadas, enunciados repetidos y plantillas dominantes), integrado en CI.",
         "Nuevos paneles generados: [cobertura real del material del estudiante](docs/COBERTURA_ESTUDIANTE.md) y [auditoría de contenido](docs/AUDITORIA_CONTENIDO.md) con la línea base reproducible de repetición de consignas.",
         "Aclaración editorial: “desarrollada” describe la planificación docente. Sólo 20 de 12.997 clases tienen cuaderno del estudiante y ninguna tiene revisión profesional; el resto permanece pendiente."
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Separación estricta por instrumento",
-      "summary": [
-        "`docs/EVALUACIONES_COMPLEMENTARIAS.md` y `docs/ENSAYOS_EJEMPLO.md` dejan de concatenar instrumentos y pasan a ser índices breves.",
-        "Cada uno de los trece Markdown individuales contiene ahora su propia explicación, historia, rutas, matriz, muestras, claves, rúbricas, cálculo y decisiones pedagógicas.",
-        "Las guías individuales ya no enlazan un banco Markdown común para encontrar sus muestras: toda la lectura permanece dentro del archivo del instrumento seleccionado.",
-        "Los PDF pasan de 51 a 64 para publicar un archivo independiente por instrumento, además de los índices y compilaciones curriculares existentes.",
-        "Se añade una prueba automática que impide volver a insertar secciones de instrumentos dentro de los dos Markdown generales."
       ]
     }
   ]
