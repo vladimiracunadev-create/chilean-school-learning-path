@@ -96,7 +96,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Explicación.**
 
-Algunos pueblos originarios han marcado o escrito con símbolos. En Rapa Nui hay tablillas de madera con signos tallados. En los Andes se usaron cordeles con nudos para llevar cuentas. Cada pueblo tiene su forma.
+Algunos pueblos originarios han marcado o escrito con símbolos. En Rapa Nui hay tablillas de madera con signos tallados. En los Andes hay cordeles con nudos que guardan información. Cada pueblo tiene su forma.
 
 Para mirar un símbolo con respeto me hago tres preguntas. ¿De qué pueblo es? ¿En qué material está, o sea, cuál es su soporte? ¿Quién me lo muestra, o sea, cuál es su fuente? Con esos datos sé de dónde viene.
 
@@ -144,7 +144,7 @@ Respuesta: el pueblo
 *Recuperación*
 
 - **R1.** Tarjeta de práctica: «Tablilla de madera con signos». ¿Cuál es el soporte?
-- **R2.** En los Andes se usaron cordeles con nudos para llevar cuentas. ¿Cuál es el soporte?
+- **R2.** En los Andes hay cordeles con nudos. ¿Cuál es el soporte?
 - **R3.** ¿Cómo se llama quien o lo que me da la información: fuente o dibujo?
 
 *Comprensión*
@@ -161,7 +161,7 @@ Respuesta: el pueblo
 
 *Razonamiento y análisis*
 
-- **Z1.** Marta dice que un cordel con nudos es de Rapa Nui. ¿Qué le dirías para corregir con respeto?
+- **Z1.** Marta dice que un cordel con nudos es de Rapa Nui. ¿Qué datos de su ficha conviene revisar?
 - **Z2.** ¿Por qué es mejor escribir una pregunta que inventar la respuesta?
 
 *Desafío*
@@ -192,7 +192,7 @@ Respuesta: el pueblo
 - **A1.** ¿De qué pueblo es la tela?. Falta el pueblo, así que se pregunta.
 - **A2.** 3. Tiene los tres datos.
 - **A3.** A. Rapa Nui tiene tablillas de madera con signos.
-- **Z1.** que se verifique el pueblo y la fuente. Cordeles con nudos se asocian a los Andes y no a las tablillas.
+- **Z1.** el pueblo y la fuente. Sin pueblo ni fuente en la ficha, no se puede asegurar de dónde viene.
 - **Z2.** porque inventar puede ser falso. Una pregunta cuida la verdad y el respeto.
 - **D1.** 2. Hay madera y cordel.
 - **D2.** 0. No dice pueblo, soporte ni fuente.
@@ -335,7 +335,7 @@ Respuesta: 3 partes
 
 *Ejemplo 2. Elegir describir*
 
-Problema: Frase A: «Hay un cuadrado rojo». Frase B: «Es la casa de un espíritu». ¿Cuál describe?
+Problema: Frase A: «Hay un cuadrado rojo». Frase B: «Es la casa de un amigo». ¿Cuál describe?
 
 1. A habla de forma y color, que se ven.
 2. B dice algo que no se ve.

@@ -60,7 +60,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Recurso listo para usar:** Hoja, lápiz y las fichas de práctica escritas en este cuaderno. Las fichas son inventadas para practicar: no son símbolos reales de ningún pueblo.
 
-**Consigna exacta:** Elige una de estas dos fichas de práctica y complétala en tu cuaderno con tres líneas: «Pueblo», «Soporte» y «Fuente». Ficha A: una tablilla de madera con signos de Rapa Nui vista en un libro. Ficha B: un cordel con nudos usado en los Andes visto en un museo. Después escribe una pregunta que le harías al educador/a tradicional o a una persona de la comunidad.
+**Consigna exacta:** Elige una de estas dos fichas de práctica y complétala en tu cuaderno con tres líneas: «Pueblo», «Soporte» y «Fuente». Ficha A: una tablilla de madera con signos de Rapa Nui vista en un libro. Ficha B: un cordel con nudos de los Andes visto en un museo. Después escribe una pregunta que le harías al educador/a tradicional o a una persona de la comunidad.
 
 **Referencia para modelar y corregir:** Ficha A. Pueblo: rapanui. Soporte: madera. Fuente: un libro. Pregunta: ¿se puede mostrar esta tablilla a otros cursos?
 
@@ -144,7 +144,7 @@ Respuesta: falta el pueblo
 *Recuperación*
 
 - **R1.** Una tablilla de madera con signos tallados viene de Rapa Nui. ¿Cuál es el soporte: madera o tela?
-- **R2.** Un cordel con nudos sirve para llevar cuentas en los Andes. ¿Cuál es el soporte: cordel o piedra?
+- **R2.** En los Andes hay cordeles con nudos. ¿Cuál es su soporte: cordel o piedra?
 - **R3.** ¿Qué palabra dice de dónde viene un objeto: procedencia, color o tamaño?
 
 *Comprensión*
@@ -171,7 +171,7 @@ Respuesta: falta el pueblo
 
 *Situaciones auténticas*
 
-- **S1.** En la sala de tu escuela hay una foto de una tablilla de madera con signos de Rapa Nui. Debajo solo dice «Año de la foto: hoy». ¿Qué dos datos de procedencia faltan además del soporte que ya se ve?
+- **S1.** En la sala de tu escuela hay una foto de una tablilla de madera con signos de Rapa Nui. Debajo solo dice «Año de la foto: hoy». ¿Qué dato de procedencia falta además del pueblo y del soporte?
 
 *Autoevaluación*
 
@@ -179,7 +179,7 @@ Respuesta: falta el pueblo
 - **E2.** ¿Qué hago si en la ficha falta un dato?
 - **E3.** ¿Quién conoce y cuida el saber sobre los símbolos de su pueblo?
 
-**Actividad abierta.** Elige una de estas dos fichas de práctica y complétala en tu cuaderno con tres líneas: «Pueblo», «Soporte» y «Fuente». Ficha A: una tablilla de madera con signos de Rapa Nui vista en un libro. Ficha B: un cordel con nudos usado en los Andes visto en un museo. Después escribe una pregunta que le harías al educador/a tradicional o a una persona de la comunidad.
+**Actividad abierta.** Elige una de estas dos fichas de práctica y complétala en tu cuaderno con tres líneas: «Pueblo», «Soporte» y «Fuente». Ficha A: una tablilla de madera con signos de Rapa Nui vista en un libro. Ficha B: un cordel con nudos de los Andes visto en un museo. Después escribe una pregunta que le harías al educador/a tradicional o a una persona de la comunidad.
 
 **Solucionario razonado**
 
@@ -196,7 +196,7 @@ Respuesta: falta el pueblo
 - **Z2.** a un educador tradicional. El educador o la comunidad conocen y cuidan ese saber.
 - **D1.** el color favorito. Lo que le gusta a quien mira no dice de dónde viene el objeto.
 - **D2.** Falta saber el pueblo y lo preguntaré. Cuando falta un dato no se inventa, se pregunta.
-- **S1.** el pueblo y la fuente. El pueblo se sabe por el título, pero la ficha de procedencia pide pueblo, soporte y fuente.
+- **S1.** la fuente. El pueblo y el soporte ya se saben; falta quién muestra o cuenta eso.
 - **E1.** soporte. El soporte es el material.
 - **E2.** pregunto. No invento, anoto la pregunta y la consulto.
 - **E3.** el educador tradicional o la comunidad. Son quienes lo transmiten y lo resguardan.
@@ -307,7 +307,7 @@ Respuesta: falta el pueblo
 
 Describir es decir lo que se ve con los ojos: cuántas rayas hay, qué forma tiene, de qué color es y en qué material está. Una descripción no necesita saber el significado. Por eso todos podemos describir, aunque no conozcamos la lengua.
 
-El significado es otra cosa: es la idea que el símbolo tiene para las personas que lo crearon. Ese significado lo explican la comunidad y el educador o la educadora tradicional. En el caso de los signos de las tablillas de Rapa Nui, hoy nadie ha logrado leerlos completos. Eso muestra que no se puede adivinar.
+El significado es otra cosa: es la idea que el símbolo tiene para las personas que lo crearon. Ese significado lo explican la comunidad y el educador o la educadora tradicional. Si no conozco la escritura de un pueblo, no puedo saber lo que dicen sus signos. Eso muestra que no se puede adivinar.
 
 Cuando una lengua o una escritura casi se pierde, recuperar su saber lleva mucho tiempo y cuidado. Yo ayudo describiendo con exactitud lo que veo y guardando mis preguntas. Así no pongo en el símbolo cosas que son solo mías.
 
@@ -371,12 +371,12 @@ Respuesta: describe: un cuadrado con dos puntos; inventa: quiere decir alegría
 *Razonamiento y análisis*
 
 - **Z1.** Pedro mira la figura ▲▲ y dice «son dos cerros». ¿Qué le dirías para cuidar la descripción?
-- **Z2.** Hoy nadie ha logrado leer completos los signos de las tablillas de Rapa Nui. ¿Se puede adivinar su significado?
+- **Z2.** No conoces la escritura de un pueblo y ves signos en una tablilla. ¿Puedes adivinar lo que dicen?
 
 *Desafío*
 
 - **D1.** Figura de práctica: ●●● ▲▲. Escribe cuántas formas hay en total y cuántas son círculos.
-- **D2.** Ana describe: «Hay dos rayas y quiere decir amistad». Corrige solo lo que no se ve.
+- **D2.** Ana describe: «Hay dos rayas y quiere decir amistad». Escribe la frase corregida, sin lo que no se ve.
 
 *Situaciones auténticas*
 
@@ -514,7 +514,7 @@ Respuesta: describe: un cuadrado con dos puntos; inventa: quiere decir alegría
 
 **Explicación.**
 
-Reproducir es copiar o dibujar de nuevo algo que ya existe. Algunos símbolos son de uso libre en una escuela. Otros pertenecen a una comunidad y solo se usan en ciertas ocasiones. No lo sabemos mirando solamente.
+Reproducir es copiar o dibujar de nuevo algo que ya existe. Algunos símbolos se usan todos los días. Otros pertenecen a una comunidad y solo se usan en ciertas ocasiones. No lo sabemos mirando solamente.
 
 Resguardar significa cuidar algo para que no se pierda ni se use mal. Muchos pueblos resguardan sus saberes, sus lenguas y sus símbolos. Por eso la regla es: pregunto antes de copiar, y si no hay respuesta, no copio.
 
@@ -784,7 +784,7 @@ Respuesta: B
 
 - **A1.** Te muestran una manta con cuadrados azules. Completa: «Gracias. Veo ______ azules. ¿Puedo preguntar ______?». Elige las palabras: A) cuadrados / de qué pueblo es B) lunas / nada.
 - **A2.** Ordena: A) pregunto B) agradezco C) describo. ¿Cuál es el orden de la respuesta respetuosa? Escribe las 3 letras.
-- **A3.** Ve esta respuesta: «Gracias. Veo tres rayas. ¿Puedo saber cuándo se usa?». ¿Cuántas partes de la respuesta respetuosa tiene?
+- **A3.** Mira esta respuesta: «Gracias. Veo tres rayas. ¿Puedo saber cuándo se usa?». ¿Cuántas partes de la respuesta respetuosa tiene?
 
 *Razonamiento y análisis*
 
@@ -793,7 +793,7 @@ Respuesta: B
 
 *Desafío*
 
-- **D1.** Marca cuántas partes de la respuesta respetuosa faltan en: «Qué bonito». (agradecer, describir, preguntar)
+- **D1.** ¿Cuántas de las tres partes de la respuesta respetuosa (agradecer, describir, preguntar) faltan en la frase «Ya lo vi antes»?
 - **D2.** Dos amigos ven un símbolo. Ana dice «gracias y veo dos puntos». Beto dice «gracias, veo dos puntos, ¿de qué pueblo es?». ¿Quién tiene la respuesta más completa?
 
 *Situaciones auténticas*
@@ -836,7 +836,7 @@ Respuesta: B
 
 **Errores que conviene detectar:** decir «qué raro»; dar un significado sin fuente.
 
-**Retroalimentación constructiva:** Marca con tres visto buenos las partes que están y pide la que falte; recuerda que el significado lo cuenta quien pertenece al pueblo.
+**Retroalimentación constructiva:** Marca con tres vistos buenos las partes que están y pide la que falte; recuerda que el significado lo cuenta quien pertenece al pueblo.
 
 **Refuerzo.** Di en voz alta «gracias, veo…, ¿me cuentas…?» con un objeto de tu casa.
 

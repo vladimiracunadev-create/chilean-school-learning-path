@@ -14,13 +14,13 @@ register(
     prior=["Sé las propiedades de los materiales.", "Sé medir con una regla."],
     explain=[
         "Una fuerza es un empujón o un tirón. Cuando aplicas una fuerza a un material, puede cambiar su forma. Si aprietas plasticina, se aplasta. Si arrugas una hoja, se hace una bolita. Si estiras una goma, se alarga.",
-        "Para describir un cambio, mira el antes y el después. Una hoja de papel mide 21 cm de largo. Después de arrugarla con fuerza mide 6 cm. El papel cambió su forma, pero sigue siendo papel.",
-        "Algunos materiales vuelven a su forma cuando sueltas la fuerza, como la goma. Otros no, como el papel arrugado. Anota siempre dos cosas: cómo era antes, cómo quedó después.",
+        "Para describir un cambio, mira el antes y el después. Una hoja de papel mide 21 cm de ancho. Después de arrugarla con fuerza mide 6 cm. El papel cambió su forma, pero sigue siendo papel.",
+        "Algunos materiales vuelven a su forma cuando sueltas la fuerza, como la goma; se llaman elásticos. Otros no vuelven, como el papel arrugado o la plasticina aplastada. Anota siempre dos cosas: cómo era antes, cómo quedó después.",
     ],
-    vocab=[("fuerza", "empujón o tirón que se aplica a un objeto"), ("cambio", "diferencia entre antes y después"), ("antes", "cómo estaba al comienzo"), ("después", "cómo quedó al final"), ("deformar", "cambiar la forma de algo")],
+    vocab=[("fuerza", "empujón o tirón que se aplica a un objeto"), ("cambio", "diferencia entre antes y después"), ("antes", "cómo estaba al comienzo"), ("después", "cómo quedó al final"), ("deformar", "cambiar la forma de algo"), ("elástico", "que vuelve a su forma cuando se suelta")],
     worked=[
         {"title": "Antes y después del papel", "problem": "Hoja de papel: antes 21 cm. Después de arrugarla con fuerza: 6 cm. ¿Cuánto cambió?", "steps": ["Antes: 21 cm.", "Después: 6 cm.", "21 menos 6 son 15."], "answer": "Se achicó 15 cm"},
-        {"title": "Una goma que vuelve", "problem": "Una goma de pelo mide 8 cm. La estiras a 14 cm y la sueltas: mide 8 cm. ¿Qué pasó?", "steps": ["Con la fuerza se alargó a 14 cm.", "Al soltar volvió a 8 cm."], "answer": "La goma volvió a su forma porque es flexible"},
+        {"title": "Una goma que vuelve", "problem": "Una goma de pelo mide 8 cm. La estiras a 14 cm y la sueltas: mide 8 cm. ¿Qué pasó?", "steps": ["Con la fuerza se alargó a 14 cm.", "Al soltar volvió a 8 cm."], "answer": "La goma volvió a su forma porque es elástica"},
     ],
     mistakes=[
         {"wrong": "Decir «el papel arrugado ya es otro material».", "why": "Se confunde la forma con el material.", "fix": "Sigue siendo papel; solo cambió su forma."},
@@ -34,7 +34,7 @@ register(
         ],
         "understand": [
             ex("¿Qué dos cosas debes anotar para describir un cambio?", "Cómo era antes y cómo quedó después", "Así se compara."),
-            ex("¿Por qué la goma vuelve a su forma?", "Porque es flexible", "Se dobla y se recupera."),
+            ex("¿Por qué la goma vuelve a su forma?", "Porque es elástica", "Un material elástico recupera su forma al soltarlo."),
             ex("¿Cambia el material si cambia la forma?", "No", "Sigue siendo el mismo material."),
         ],
         "apply": [
@@ -52,7 +52,7 @@ register(
         ],
     },
     context=[ex("Para guardar una bolsa, Clara la aprieta y pasa de 30 cm de alto a 12 cm. ¿Cuántos centímetros se achicó?", "18 cm", "Treinta menos doce son dieciocho.")],
-    selfcheck=[ex("¿Una fuerza es un empujón o un color?", "Un empujón", "Empuja o tira."), ex("¿Qué material vuelve a su forma?", "La goma", "Es flexible y recupera su forma."), ex("¿Qué se compara en un cambio?", "El antes y el después", "Muestra la diferencia.")],
+    selfcheck=[ex("¿Una fuerza es un empujón o un color?", "Un empujón", "Empuja o tira."), ex("¿Qué material vuelve a su forma: la goma o el papel arrugado?", "La goma", "Es elástica y recupera su forma."), ex("¿Qué se compara en un cambio?", "El antes y el después", "Muestra la diferencia.")],
     open_task=task("Lee esta tabla de tres materiales a los que se les aplicó fuerza: papel, antes 21 cm, después de arrugarlo 6 cm; goma, antes 8 cm, estirada 14 cm, soltada 8 cm; plasticina, antes 4 cm, aplastada 1 cm. Escribe qué cambió en cada uno y cuál volvió a su forma.", "Papel: se achicó 15 cm. Goma: se alargó 6 cm y volvió a 8 cm. Plasticina: bajó 3 cm. Solo la goma volvió a su forma.", ["describe el cambio con números", "dice cuál volvió a su forma", "usa antes y después"], ["tabla", "frases"], ["no usar el antes", "decir que cambió el material"], "Reconoce los cambios y pide los números del antes y el después."),
     reinforce="Aprieta plasticina o masa y mide la altura antes y después.",
     extend="Explica por qué la goma vuelve a su forma y el papel no.",
@@ -66,16 +66,16 @@ register(
     explain=[
         "El agua puede cambiar los materiales. El papel mojado se ablanda y se rompe fácil. Una galleta se pone blanda. El azúcar se mezcla con el agua y ya no se ve, aunque sigue ahí: el agua queda dulce.",
         "Una prueba muestra el cambio. Se pone una hoja seca sobre dos vasos y se agregan monedas iguales una por una: la hoja seca aguanta 8 monedas. Con una hoja mojada, aguanta solo 2 monedas.",
-        "Con las dos pruebas se ve que el agua hizo el papel más débil. Para la prueba del azúcar, una cucharada de azúcar en un vaso con agua se mezcla y desaparece en unos 60 segundos al revolver.",
+        "Con las dos pruebas se ve que el agua hizo el papel más débil. Para la prueba del azúcar, se revuelve una cucharada de azúcar en un vaso con agua hasta que ya no se ve.",
     ],
     vocab=[("prueba", "ensayo que se hace para ver qué pasa"), ("mojado", "con agua"), ("disolverse", "mezclarse con el agua hasta no verse"), ("débil", "que aguanta poco"), ("moneda", "pieza redonda que usamos como peso en la prueba")],
     worked=[
         {"title": "Comparar hoja seca y mojada", "problem": "Hoja seca aguantó 8 monedas. Hoja mojada aguantó 2 monedas. ¿Qué pasó?", "steps": ["8 es mayor que 2.", "La hoja mojada aguanta menos.", "8 menos 2 son 6 monedas menos."], "answer": "El agua debilitó el papel; aguantó 6 monedas menos"},
-        {"title": "El azúcar en el agua", "problem": "Pones una cucharada de azúcar en agua y revuelves 60 segundos. Ya no se ve. ¿Desapareció?", "steps": ["No se ve el azúcar.", "El agua queda dulce.", "El azúcar sigue ahí, mezclada."], "answer": "No desapareció; se mezcló con el agua"},
+        {"title": "El azúcar en el agua", "problem": "Pones una cucharada de azúcar en agua y revuelves un buen rato. Ya no se ve. ¿Desapareció?", "steps": ["No se ve el azúcar.", "El agua queda dulce.", "El azúcar sigue ahí, mezclada."], "answer": "No desapareció; se mezcló con el agua"},
     ],
     mistakes=[
         {"wrong": "Decir que el azúcar desapareció del todo.", "why": "No se prueba el agua.", "fix": "El agua queda dulce; el azúcar sigue ahí, mezclada."},
-        {"wrong": "Decir que el papel mojado es otro material.", "why": "Se confunde cambio de estado con otro material.", "fix": "Es papel que se ablandó."},
+        {"wrong": "Decir que el papel mojado es otro material.", "why": "Se confunde un cambio con ser otro material.", "fix": "Es papel que se ablandó."},
     ],
     tiers={
         "recovery": [
@@ -91,7 +91,7 @@ register(
         "apply": [
             arith("La hoja seca aguantó 8 monedas y la mojada 2. ¿Cuántas monedas menos aguantó la mojada?", "8-2", "Se resta lo que aguantó la mojada.", " monedas"),
             arith("Otra hoja seca aguantó 9 monedas y mojada 3. ¿Cuántas monedas menos aguantó la mojada?", "9-3", "Se resta lo que aguantó la mojada.", " monedas"),
-            ex("Tres cucharadas de sal se mezclan con agua en un vaso. ¿Cuántas cucharadas hay en el agua?", "3", "La sal sigue en el agua."),
+            ex("Tres cucharaditas de sal se mezclan con agua en un vaso. ¿Cuántas cucharaditas hay en el agua?", "3", "La sal sigue en el agua."),
         ],
         "reason": [
             ex("Si la hoja mojada aguanta menos monedas, ¿puedes decir que el agua la cambió? Explica con datos.", "Sí, aguantó 2 monedas en vez de 8", "El único cambio fue el agua."),
@@ -141,11 +141,11 @@ register(
         ],
         "apply": [
             arith("El hielo tardó 20 minutos al sol y 50 minutos a la sombra. ¿Cuántos minutos más tardó a la sombra?", "50-20", "Se resta el tiempo al sol al tiempo a la sombra.", " minutos"),
-            arith("Un cubo de hielo se derrite en 30 minutos. ¿Cuántos minutos tardan 2 cubos si los pones uno después del otro?", "30*2", "Se multiplica el tiempo por dos cubos.", " minutos"),
-            ex("Tabla: papel azul día 0 color fuerte, día 10 color pálido. ¿Qué lo cambió: la luz o el agua?", "La luz", "Estuvo en la ventana con sol."),
+            arith("El hielo A se derritió en 20 minutos y el hielo C en 30 minutos. ¿Cuántos minutos más tardó el C?", "30-20", "Se resta el tiempo del A al del C.", " minutos"),
+            ex("Tabla: papel azul pegado 10 días en una ventana con sol; día 0 color fuerte, día 10 color pálido. ¿Qué lo cambió: la luz o el agua?", "La luz", "Estuvo en la ventana con sol."),
         ],
         "reason": [
-            ex("Ana dice que el hielo a la sombra se derritió más lento porque estaba más frío. ¿Qué dato lo apoya?", "A la sombra tardó 50 minutos y al sol 20", "El sol da más calor."),
+            ex("Ana dice que el hielo se derrite más rápido al sol que a la sombra. ¿Qué dato lo apoya?", "A la sombra tardó 50 minutos y al sol 20", "El sol da más calor."),
             ex("Beto quiere derretir hielo con una vela. ¿Qué le dices?", "Que no, porque el fuego es peligroso y basta el Sol", "La seguridad es primero."),
         ],
         "challenge": [
@@ -153,7 +153,7 @@ register(
             ex("Hay 2 cubos al sol y 3 a la sombra. ¿Cuántos cubos hay?", "5", "Dos más tres son cinco."),
         ],
     },
-    context=[ex("En un día de verano, un helado de agua se derrite en 15 minutos al sol y en 40 minutos en el refrigerador abierto. ¿Cuántos minutos tarda más en el refrigerador?", "25 minutos", "Cuarenta menos quince son veinticinco.")],
+    context=[ex("En un día de verano, un helado de agua se derrite en 15 minutos al sol y en 40 minutos a la sombra (datos de ejemplo). ¿Cuántos minutos tarda más a la sombra?", "25 minutos", "Cuarenta menos quince son veinticinco.")],
     selfcheck=[ex("¿Qué da el Sol?", "Luz y calor", "El Sol entrega las dos cosas."), ex("¿Se usa fuego para el experimento?", "No", "El fuego es peligroso para niños."), ex("¿Cómo cambia el papel al sol por días?", "Se pone pálido", "La luz apaga el color.")],
     open_task=task("Lee estos datos y escribe una conclusión: cubo de hielo A al sol, se derrite en 18 minutos; cubo B a la sombra, 45 minutos; cubo C dentro de un sobre de papel al sol, 30 minutos. Ordena de más rápido a más lento y explica con calor.", "A (18), C (30), B (45). Al sol se derrite más rápido porque recibe más calor; el sobre da algo de sombra.", ["ordena con los números", "explica con calor", "cita los minutos"], ["lista ordenada", "frase"], ["ordenar mal", "no usar números"], "Reconoce el orden y pide explicar por qué C quedó entre A y B."),
     reinforce="Con ayuda de un adulto, pon un hielo al sol y otro a la sombra y mira la hora.",
@@ -167,7 +167,7 @@ register(
     prior=["Sé que la fuerza, la luz, el calor y el agua cambian los materiales.", "Sé comparar el antes y el después."],
     explain=[
         "Para explicar un cambio usa tres frases: «Antes estaba…», «Después quedó…» y «Cambió porque…». Por ejemplo: «Antes la galleta estaba dura. Después quedó blanda. Cambió porque le puse agua».",
-        "Elige la causa que corresponda. Si aprietas o estiras, la causa es la fuerza. Si el hielo se derrite, es el calor. Si el color se apaga por días, es la luz. Si algo se ablanda o se mezcla, es el agua.",
+        "Elige la causa que corresponda. Si aprietas o estiras, la causa es la fuerza. Si el hielo se derrite, es el calor. Si el color se apaga por días, es la luz. Si algo se moja y se ablanda o se mezcla, es el agua.",
         "Usa datos cuando los tengas. «El hielo tardó 20 minutos al sol» es mejor que «se derritió rápido». Un buen científico dice lo que vio, no lo que le parece.",
     ],
     vocab=[("causa", "lo que hace que algo cambie"), ("explicar", "decir qué pasó y por qué"), ("dato", "número o hecho que observé"), ("conclusión", "lo que aprendo de las observaciones"), ("comunicar", "contar a otros lo que aprendí")],
@@ -193,7 +193,7 @@ register(
         "apply": [
             ex("El pan duro se ablanda al meterlo en agua. ¿Cuál es la causa?", "El agua", "El agua ablanda el pan."),
             ex("La mantequilla se ablanda al sol. ¿Cuál es la causa?", "El calor", "El sol da calor."),
-            arith("Un hielo medía 6 cm y tras derretirse quedó un charco de 2 cm de alto. ¿Cuántos centímetros bajó?", "6-2", "Se resta la altura final a la inicial.", " cm"),
+            arith("Una barra de mantequilla medía 6 cm de alto y, tras un rato al sol, quedó de 2 cm de alto. ¿Cuántos centímetros bajó?", "6-2", "Se resta la altura final a la inicial.", " cm"),
         ],
         "reason": [
             ex("Luz dice que un papel mojado se rompe «porque sí». ¿Qué le falta a su explicación?", "La causa: el agua", "Hay que decir por qué cambió."),
@@ -304,7 +304,7 @@ register(
         ],
         "challenge": [
             ex("Propón un material de casa que pueda ser impermeable y flexible.", "Por ejemplo una bolsa de plástico limpia", "Cumple los dos criterios."),
-            ex("Pruebas 4 materiales y cada uno con 10 gotas. ¿Cuántas gotas usas?", "40", "Cuatro materiales por diez gotas son cuarenta."),
+            ex("Pruebas 4 materiales y cada uno con 10 gotas. ¿Cuántas gotas usas en total?", "40", "Diez más diez más diez más diez son cuarenta."),
         ],
     },
     context=[ex("Para el cobertor del cuaderno hay 5 bolsas plásticas y 3 de papel en casa. ¿Cuántas bolsas hay?", "8", "Cinco más tres son ocho.")],
@@ -358,7 +358,7 @@ register(
             ex("Escribe tres pasos para construir una funda.", "Medir, cortar con adulto y pegar con cinta", "Son pasos ordenados."),
         ],
     },
-    context=[ex("Para la funda necesitas cinta en los 2 lados largos de 23 cm. ¿Cuántos centímetros de cinta usas para los dos lados?", "46 cm", "Veintitrés por dos son cuarenta y seis.")],
+    context=[ex("Para la funda necesitas cinta en los 2 lados largos de 23 cm. ¿Cuántos centímetros de cinta usas para los dos lados?", "46 cm", "Veintitrés más veintitrés son cuarenta y seis.")],
     selfcheck=[ex("¿Qué número lleva un dibujo de diseño?", "Las medidas", "Dicen el tamaño."), ex("¿Cuánto más grande es la funda?", "2 cm en cada medida", "Eso deja espacio al cuaderno."), ex("¿Qué va primero: cortar o medir?", "Medir", "Se mide antes de cortar.")],
     open_task=task("Dibuja el diseño de una funda para un libro que mide 20 cm de largo y 14 cm de ancho. Calcula la funda con 2 cm más en cada medida, escribe el material (bolsa plástica) y 4 pasos ordenados.", "Funda de 22 cm de largo y 16 cm de ancho, bolsa plástica. Pasos: 1 medir, 2 cortar con adulto, 3 pegar los bordes, 4 dejar la abertura.", ["calcula las medidas", "nombra el material", "ordena cuatro pasos"], ["dibujo con medidas", "lista de pasos"], ["olvidar el espacio extra", "pasos desordenados"], "Reconoce el cálculo y pide ordenar los pasos."),
     reinforce="Dibuja tu diseño con las medidas escritas.",
@@ -397,7 +397,7 @@ register(
         ],
         "apply": [
             arith("El prototipo B mojó 3 cm de papel y el C 8 cm. ¿Cuántos centímetros más mojó el C?", "8-3", "Se resta lo que mojó el B.", " cm"),
-            arith("Pruebas 3 prototipos con 4 cucharadas cada uno. ¿Cuántas cucharadas de agua usas en total?", "3*4", "Se multiplica por tres prototipos.", " cucharadas"),
+            arith("Pruebas 3 prototipos con 4 cucharadas cada uno. ¿Cuántas cucharadas de agua usas en total?", "4+4+4", "Se suman las 4 cucharadas de cada prototipo.", " cucharadas"),
             ex("Orden de mejor a peor según el papel mojado: A 0 cm, B 3 cm, C 8 cm. ¿Qué lugar tiene B?", "El segundo", "Está entre A y C."),
         ],
         "reason": [
@@ -460,7 +460,7 @@ register(
             ex("Hay 3 mejoras que funcionaron y 2 que no. ¿Cuántas mejoras se probaron?", "5", "Tres más dos son cinco."),
         ],
     },
-    context=[ex("Un curso de 30 niños presenta sus fundas en grupos de 5. ¿Cuántos grupos hay?", "6", "Treinta dividido en cinco son seis grupos.")],
+    context=[ex("Hoy presentan sus fundas 4 grupos y mañana presentan 3 grupos. ¿Cuántos grupos presentan en total?", "7", "Cuatro más tres son siete grupos.")],
     selfcheck=[ex("¿Cuántas cosas cambias al mejorar?", "Una", "Así sabes qué ayudó."), ex("¿Qué incluye una buena presentación?", "El problema, qué hice, el resultado y la mejora", "Son las cuatro frases."), ex("¿Qué dato incluyes?", "El número de la prueba", "Respalda lo que dices.")],
     open_task=task("Escribe una presentación de cuatro frases con estos datos: problema, la lluvia moja el cuaderno de Luna. Hiciste una funda de bolsa plástica con cinta. La primera prueba mojó 8 cm de papel y la segunda con cinta extra mojó 1 cm. Para mejorar, harías la abertura más fácil de cerrar.", "El problema era que la lluvia mojaba el cuaderno de Luna. Hice una funda de bolsa plástica con cinta. La prueba 2 mojó 1 cm, 7 cm menos que la primera. Para mejorar haría una abertura más fácil de cerrar.", ["escribe las cuatro frases", "incluye el dato 8 cm y 1 cm", "propone una mejora"], ["cuatro frases", "dibujo"], ["omitir el dato", "cambiar varias cosas a la vez"], "Reconoce el esquema y pide incluir los dos números en la tercera frase."),
     reinforce="Cuéntale a alguien de tu casa cómo mejoraste tu diseño.",

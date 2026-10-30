@@ -307,7 +307,7 @@ Respuesta: En el cerro; el vecino les regala queso
 
 Información explícita es la que el relato dice con claridad. En el relato de práctica, se dice que la abuela llevaba duraznos y que saludó con «mari mari». No hay que adivinar: está escrito.
 
-También hay información cultural, es decir, algo sobre cómo viven las personas. En el relato se ve que saludar al encontrarse con un vecino es una costumbre. Esa información la dice el relato; no hace falta inventar más.
+También hay información cultural, es decir, algo sobre cómo viven las personas. En este relato inventado se ve que la abuela saluda a su vecino al encontrarlo. Ese dato lo dice el relato. No sabemos si todos los pueblos lo hacen igual, y no hace falta inventar más.
 
 Si el relato no dice algo, no lo inventes. Anota que no lo dice y pregúntalo a quien lo cuenta. Así aprendes de verdad y no mezclas lo que sabes con lo que supones.
 
@@ -366,7 +366,7 @@ Respuesta: El relato no lo dice; hay que preguntar
 
 - **A1.** Relato: «Una mañana de niebla, Tomás y su abuela subieron al cerro. La abuela llevaba una cesta con duraznos. Al llegar arriba, ella saludó con un «mari mari» a un vecino que cuidaba ovejas. El vecino les regaló un poco de queso. Tomás dijo gracias y bajaron cuando se despejó la niebla.» ¿Qué hicieron cuando se despejó la niebla?
 - **A2.** Relato: «Una mañana de niebla, Tomás y su abuela subieron al cerro. La abuela llevaba una cesta con duraznos. Al llegar arriba, ella saludó con un «mari mari» a un vecino que cuidaba ovejas. El vecino les regaló un poco de queso. Tomás dijo gracias y bajaron cuando se despejó la niebla.» ¿Qué costumbre se ve cuando la abuela llega arriba?
-- **A3.** Relato: «Una mañana de niebla, Tomás y su abuela subieron al cerro. La abuela llevaba una cesta con duraznos. Al llegar arriba, ella saludó con un «mari mari» a un vecino que cuidaba ovejas. El vecino les regaló un poco de queso. Tomás dijo gracias y bajaron cuando se despejó la niebla.» ¿Cuántas cosas recibe o lleva alguien: duraznos y queso? Escribe el número.
+- **A3.** Relato: «Una mañana de niebla, Tomás y su abuela subieron al cerro. La abuela llevaba una cesta con duraznos. Al llegar arriba, ella saludó con un «mari mari» a un vecino que cuidaba ovejas. El vecino les regaló un poco de queso. Tomás dijo gracias y bajaron cuando se despejó la niebla.» ¿Cuántos alimentos se nombran en el relato? Escribe el número.
 
 *Razonamiento y análisis*
 
@@ -400,7 +400,7 @@ Respuesta: El relato no lo dice; hay que preguntar
 - **C3.** Porque cada pueblo tiene las suyas. Hay diferencias entre pueblos.
 - **A1.** Bajaron. El relato lo dice.
 - **A2.** Saludar al vecino. Ella saluda al encontrarlo.
-- **A3.** 2. Son duraznos y queso.
+- **A3.** 2. Se nombran duraznos y queso.
 - **Z1.** No. Solo dice un vecino.
 - **Z2.** Sí. Tomás dijo gracias.
 - **D1.** Por ejemplo, subieron una mañana de niebla. Debe estar en el relato.
@@ -793,7 +793,7 @@ Respuesta: Digo que no lo sé y pregunto
 
 *Desafío*
 
-- **D1.** Si 6 niños dicen cada uno una cosa que aprendieron y una que preguntan, ¿cuántas frases hay?
+- **D1.** Si 4 niños dicen cada uno una cosa que aprendieron y una que preguntan, ¿cuántas frases hay en total?
 - **D2.** Escribe una frase que diga qué aprendiste y qué preguntarías del relato.
 
 *Situaciones auténticas*
@@ -821,7 +821,7 @@ Respuesta: Digo que no lo sé y pregunto
 - **A3.** 3. Son tres partes.
 - **Z1.** No. No reconoce su límite.
 - **Z2.** Sí. Reconoció su límite.
-- **D1.** 12. 6 × 2 = 12.
+- **D1.** 8. 2 + 2 + 2 + 2 = 8.
 - **D2.** Cualquier frase con ambas ideas. Debe tener aprendizaje y pregunta.
 - **S1.** Que un relato no enseña todo y hay que seguir preguntando. Hay mucho más que aprender de la comunidad.
 - **E1.** No lo sé. Es una forma honesta.

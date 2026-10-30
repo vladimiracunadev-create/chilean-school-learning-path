@@ -16,7 +16,7 @@ PARRA = ("Violeta Parra nació el 4 de octubre de 1917 en la zona de Ñuble. Rec
 AHRENS = ("Marlene Ahrens nació el 27 de enero de 1933 en Santiago. Lanzaba la jabalina. En los Juegos Olímpicos de Melbourne, en 1956, ganó la medalla de plata, la primera medalla olímpica de una mujer chilena.")
 VALDIVIA = ("Pedro de Valdivia llegó a Chile desde España. El 12 de febrero de 1541 fundó la ciudad de Santiago, junto al cerro Huelén, que hoy se llama Santa Lucía. En ese valle ya vivían pueblos originarios.")
 CAFFARENA = ("Elena Caffarena nació en 1903 y fue abogada. En 1935 fundó con otras mujeres el MEMCh, un movimiento para defender los derechos de las mujeres. "
-             "Ayudó a conseguir que las mujeres pudieran votar en todas las elecciones, lo que ocurrió en 1949. Murió en 2003.")
+             "Ayudó a conseguir el voto de las mujeres: en 1949 se aprobó la ley que les permitió votar en todas las elecciones. Murió en 2003.")
 
 # ---------------------------------------------------------------- OA 07
 register(
@@ -27,7 +27,7 @@ register(
     explain=[
         "Contribuir es hacer algo que ayuda a otras personas o mejora la vida de muchos. Una persona contribuye cuando cuida a otros, enseña, descubre algo útil, crea arte o ayuda a quien lo necesita. No hace falta ser famoso para contribuir: un vecino que cuida la plaza también contribuye.",
         "Alberto Hurtado es un ejemplo. Nació en Viña del Mar en 1901. En 1944 fundó el Hogar de Cristo para ayudar a niños y a personas que no tenían casa. Murió en 1952. Su acción de ayudar benefició a muchas personas durante muchos años.",
-        "Para saber si alguien contribuyó, hazte dos preguntas: ¿qué hizo? y ¿a quiénes ayudó o benefició? Si puedes responder las dos, ya tienes la idea de su aporte. También sirve poner la historia en una línea de tiempo con los años.",
+        "Para saber si alguien contribuyó, hazte dos preguntas: ¿qué hizo? y ¿a quiénes ayudó o benefició? Si puedes responder las dos, ya tienes la idea de su aporte. También sirve poner la historia en una línea de tiempo con los años. Para saber cuántos años pasaron entre dos años, se resta el año menor al año mayor: 1944 − 1901 = 43.",
     ],
     vocab=[("contribuir", "hacer algo que ayuda a otros o a la sociedad"), ("aporte", "lo que una persona da o hace por los demás"), ("sociedad", "todas las personas que vivimos juntas"), ("fundar", "crear algo por primera vez"), ("beneficiar", "dar algo bueno a alguien")],
     worked=[
@@ -59,14 +59,14 @@ register(
             ex("Dos acciones: A) Lola se queda con todos los dulces. B) Lola reparte los dulces con su curso. ¿Cuál contribuye al bienestar del curso?", "B", "Compartir ayuda a todos."),
         ],
         "challenge": [
-            arith(f"{HURTADO} ¿Cuántos años vivió Alberto Hurtado, entre 1901 y 1952?", "1952-1901", "Se resta el año de nacimiento al de su muerte."),
+            arith(f"{HURTADO} ¿Cuántos años pasaron entre su nacimiento (1901) y su muerte (1952)?", "1952-1901", "Se resta el año menor al año mayor."),
             ex("Una escuela junta ropa de abrigo para familias que lo necesitan. ¿Qué hizo (acción) y a quiénes ayudó?", "Juntó ropa; ayudó a familias que la necesitan", "Se responde qué hizo y a quién ayudó."),
         ],
     },
     context=[ex("En tu barrio, un grupo de vecinos limpia la plaza cada sábado. ¿A quiénes beneficia?", "A todos los vecinos", "Una plaza limpia sirve a todos.")],
     selfcheck=[
         ex("¿Qué es fundar?", "Crear algo por primera vez", "Hurtado fundó el Hogar de Cristo."),
-        ex(f"{HURTADO} ¿Cuántos años tenía en 1944? Nació en 1901.", "43", "1944 − 1901 = 43."),
+        ex(f"{HURTADO} ¿Cuántos años pasaron entre 1901 y 1944?", "43", "1944 − 1901 = 43."),
         ex("¿Qué dos preguntas ayudan a ver el aporte de una persona?", "¿Qué hizo? y ¿a quién ayudó?", "Son la acción y el beneficio."),
     ],
     open_task=task("Piensa en una persona de tu familia o barrio que ayude a otros. Escribe dos frases: una que diga qué hace y otra que diga a quién ayuda. Si no se te ocurre una, usa una de estas: una vecina que cuida la plaza, un bombero voluntario, una profesora que enseña a leer.", "Mi vecina limpia la plaza los sábados. Con eso ayuda a todos los niños que juegan allí.", ["dos frases", "dice qué hace y a quién ayuda", "persona real o de la lista"], ["dos frases escritas"], ["decir solo el nombre", "no mencionar el beneficio"], "Pide que explique por qué esa acción es un aporte."),
@@ -105,9 +105,9 @@ register(
             ex("¿Es un ámbito mejor que otro?", "No", "Todos son necesarios."),
         ],
         "apply": [
-            ex("Une cada persona con su ámbito: Alberto Hurtado, Marlene Ahrens. Rmbitos: deporte, solidaridad.", "Hurtado: solidaridad; Ahrens: deporte", "Hurtado fundó el Hogar de Cristo y Ahrens lanzaba la jabalina."),
+            ex("Une cada persona con su ámbito: Alberto Hurtado, Marlene Ahrens. Ámbitos: deporte, solidaridad.", "Hurtado: solidaridad; Ahrens: deporte", "Hurtado fundó el Hogar de Cristo y Ahrens lanzaba la jabalina."),
             ex("Años de nacimiento: Díaz 1866, Hurtado 1901, Parra 1917, Ahrens 1933. Ordénalos de la persona que nació antes a la que nació después.", "Díaz, Hurtado, Parra, Ahrens", "Se ordenan por el año de nacimiento."),
-            arith(f"{AHRENS} Marlene Ahrens nació en 1933 y ganó su medalla en 1956. ¿Cuántos años tenía al ganarla?", "1956-1933", "Se resta el año de nacimiento al año de la medalla."),
+            arith(f"{AHRENS} Marlene Ahrens nació en 1933 y ganó su medalla en 1956. ¿Cuántos años pasaron entre esos dos años?", "1956-1933", "Se resta el año menor al año mayor."),
         ],
         "reason": [
             ex("Un niño dice que el deporte es mejor que el arte. ¿Qué respondes?", "Todos los ámbitos son necesarios", "Cada uno aporta algo distinto."),
@@ -115,7 +115,7 @@ register(
         ],
         "challenge": [
             ex("Cuatro personas: Díaz (ciencia), Parra (arte), Ahrens (deporte), Hurtado (solidaridad). ¿Cuántos ámbitos distintos hay?", "4", "Cada persona es de un ámbito distinto."),
-            arith(f"{PARRA} Violeta Parra nació en 1917 y murió en 1967. ¿Cuántos años vivió?", "1967-1917", "Se resta el año de nacimiento al año de su muerte."),
+            arith(f"{PARRA} ¿Cuántos años pasaron entre su nacimiento (1917) y su muerte (1967)?", "1967-1917", "Se resta el año menor al año mayor."),
         ],
     },
     context=[ex("En un concurso de la escuela, Ema dibuja un mural, Teo corre una carrera y Lola ayuda a limpiar la sala. ¿En qué ámbitos contribuyen?", "arte, deporte y solidaridad", "Dibujar es arte, correr es deporte y ayudar es solidaridad.")],
@@ -169,7 +169,7 @@ register(
             ex(f"{MISTRAL} Un niño dice: «Era muy simpática». ¿Está en la biografía?", "No", "Es una opinión que no aparece en el texto."),
         ],
         "challenge": [
-            arith(f"{MISTRAL} ¿Cuántos años vivió Gabriela Mistral, entre 1889 y 1957?", "1957-1889", "Se resta el año de nacimiento al año de su muerte."),
+            arith(f"{MISTRAL} ¿Cuántos años pasaron entre su nacimiento (1889) y su muerte (1957)?", "1957-1889", "Se resta el año menor al año mayor."),
             ex(f"{MISTRAL} Escribe una frase con dos datos de su vida usando años.", "Gabriela Mistral nació en 1889 y recibió el Premio Nobel en 1945", "Incluye dos datos del texto."),
         ],
     },
@@ -191,17 +191,17 @@ register(
     prior=["Sé qué es contribuir.", "Sé sacar datos de una biografía."],
     explain=[
         "En muchos libros antiguos se nombraba más a unos hombres famosos y menos a mujeres y a comunidades. Por eso decimos que algunas personas fueron invisibilizadas: hicieron cosas importantes, pero casi no se contaban.",
-        "Eloísa Díaz fue la primera mujer en recibirse de médica en Chile, en 1887. Elena Caffarena fundó en 1935 el MEMCh y luchó por el derecho de las mujeres a votar. En 1934 las mujeres pudieron votar en elecciones de la municipalidad y en 1949 en todas las elecciones. Lautaro fue un líder mapuche del siglo XVI que defendió a su pueblo y murió en 1557.",
+        "Eloísa Díaz fue la primera mujer en recibirse de médica en Chile, en 1887. Elena Caffarena fundó en 1935 el MEMCh y luchó por el derecho de las mujeres a votar. En 1934 se aprobó el voto de las mujeres en las elecciones de la municipalidad y en 1949 se aprobó el voto en todas las elecciones. Lautaro fue un líder mapuche del siglo XVI que defendió a su pueblo y murió en 1557.",
         "Cuando leas una historia, pregúntate: ¿quiénes aparecen? ¿Quiénes faltan? Buscar a las personas que faltan es una forma de justicia y de conocer más.",
     ],
     vocab=[("invisibilizado", "persona cuyo aporte casi no se cuenta"), ("derecho", "algo que una persona puede hacer o tener por justicia"), ("votar", "elegir a una autoridad"), ("liderar", "guiar a un grupo"), ("comunidad", "grupo de personas con algo en común")],
     worked=[
-        {"title": "Un derecho", "problem": f"{CAFFARENA} ¿En qué año pudieron votar las mujeres en todas las elecciones?", "steps": ["Busco el voto en el texto.", "Dice 1949."], "answer": "1949"},
+        {"title": "Un derecho", "problem": f"{CAFFARENA} ¿En qué año se aprobó el voto de las mujeres en todas las elecciones?", "steps": ["Busco el voto en el texto.", "Dice 1949."], "answer": "1949"},
         {"title": "Pensar quién falta", "problem": "Un libro habla de cinco hombres que fundaron una ciudad y no habla de ninguna mujer. ¿Qué pregunta conviene hacer?", "steps": ["Pregunto quiénes no aparecen.", "Busco si hubo mujeres que participaron."], "answer": "¿Qué mujeres participaron y no se nombraron?"},
     ],
     mistakes=[
         {"wrong": "Creer que si no aparece en el libro, no participó.", "why": "Se confía solo en lo escrito.", "fix": "Pregunta quién faltó y busca otras fuentes."},
-        {"wrong": "Pensar que los derechos siempre existieron.", "why": "Se vive el presente sin mirar el pasado.", "fix": "Mira las fechas: el voto de las mujeres se logró en 1934 y en 1949."},
+        {"wrong": "Pensar que los derechos siempre existieron.", "why": "Se vive el presente sin mirar el pasado.", "fix": "Mira las fechas: el voto de las mujeres se aprobó en 1934 y en 1949."},
     ],
     tiers={
         "recovery": [
@@ -215,16 +215,16 @@ register(
             ex(f"{CAFFARENA} ¿Qué defendía el MEMCh?", "Los derechos de las mujeres", "Así lo dice el texto."),
         ],
         "apply": [
-            arith(f"{CAFFARENA} ¿Cuántos años pasaron entre la fundación del MEMCh (1935) y el voto de las mujeres en todas las elecciones (1949)?", "1949-1935", "Se resta un año al otro."),
-            ex("Años: Díaz se recibió en 1887, el MEMCh se fundó en 1935, las mujeres votaron en todas las elecciones en 1949. Ordena de más antiguo a más nuevo.", "se recibió Díaz, se fundó el MEMCh, votaron las mujeres", "Se ordenan por año: 1887, 1935 y 1949."),
-            ex("Hubo mujeres que votaron en elecciones de municipalidades en 1934. ¿Es antes o después del voto en todas las elecciones de 1949?", "antes", "1934 es menor que 1949."),
+            arith(f"{CAFFARENA} ¿Cuántos años pasaron entre la fundación del MEMCh (1935) y la ley del voto de las mujeres en todas las elecciones (1949)?", "1949-1935", "Se resta un año al otro."),
+            ex("Años: Díaz se recibió en 1887, el MEMCh se fundó en 1935, se aprobó el voto de las mujeres en todas las elecciones en 1949. Ordena de más antiguo a más nuevo.", "se recibió Díaz, se fundó el MEMCh, se aprobó el voto en todas las elecciones", "Se ordenan por año: 1887, 1935 y 1949."),
+            ex("En 1934 se aprobó el voto de las mujeres en elecciones de la municipalidad. ¿Es antes o después de 1949, cuando se aprobó el voto en todas las elecciones?", "antes", "1934 es menor que 1949."),
         ],
         "reason": [
             ex("Un libro de historia nombra solo a hombres. ¿Qué pregunta ayuda a encontrar a las personas que faltan?", "¿Qué mujeres y comunidades participaron?", "La pregunta busca a los ausentes."),
             ex(f"{DIAZ} Eloísa Díaz cuidó a niñas y niños en las escuelas. ¿Por qué ese aporte merece ser recordado?", "Porque mejoró la salud de muchos niños", "Ayudó a mucha gente."),
         ],
         "challenge": [
-            arith(f"{DIAZ} Si Eloísa Díaz nació en 1866 y se recibió de médica en 1887, ¿cuántos años tenía al recibirse?", "1887-1866", "Se resta el año de nacimiento al año en que se recibió."),
+            arith(f"{DIAZ} ¿Cuántos años pasaron entre su nacimiento (1866) y el año en que se recibió de médica (1887)?", "1887-1866", "Se resta el año menor al año mayor."),
             ex("Lautaro vivió en el siglo XVI y murió en 1557. Eloísa Díaz se recibió en 1887. ¿Cuál es más antiguo?", "Lautaro", "1557 es menor que 1887."),
         ],
     },
@@ -272,7 +272,7 @@ register(
         "apply": [
             ex(f"{MISTRAL} Completa: «Gabriela Mistral contribuyó a la cultura, porque en 1945 ___».", "recibió el Premio Nobel de Literatura", "Es la prueba del aporte."),
             ex(f"{HURTADO} Completa: «Alberto Hurtado ayudó a personas sin casa, porque en ___ fundó el Hogar de Cristo».", "1944", "Es el año de la biografía."),
-            arith(f"{VALDIVIA} Valdivia fundó Santiago en 1541. ¿Cuántos años pasaron hasta 1810? (año de la Primera Junta)", "1810-1541", "Se resta un año al otro."),
+            ex(f"{VALDIVIA} ¿Qué ocurrió primero: la fundación de Santiago (1541) o la Primera Junta Nacional de Gobierno (1810)?", "la fundación de Santiago", "1541 es un año menor que 1810, por eso fue antes."),
         ],
         "reason": [
             ex("Un niño escribió: «Mistral fue muy importante». ¿Qué le falta a su frase?", "Una prueba o dato", "Una idea necesita evidencia."),
@@ -390,7 +390,7 @@ register(
             ex("En el plano de una sala la puerta está a la derecha, pero en la sala real está a la izquierda. ¿Qué pasó?", "El plano está mal hecho", "No respeta la posición real."),
         ],
         "challenge": [
-            ex("Una sala tiene: 4 mesas rectangulares, 1 mesa redonda y 1 pizarra. En el plano, ¿cuántos rectángulos hay si la pizarra también se dibuja como rectángulo?", "5", "4 mesas + 1 pizarra = 5 rectángulos."),
+            arith("Una sala tiene: 4 mesas rectangulares, 1 mesa redonda y 1 pizarra. En el plano, ¿cuántos rectángulos hay si la pizarra también se dibuja como rectángulo?", "4+1", "Se suman las 4 mesas y la pizarra."),
             ex("Un objeto visto desde arriba es un círculo pequeño y está al lado de un rectángulo grande con el título «mesa». ¿Qué objeto podría ser el círculo?", "un vaso o un plato sobre la mesa", "Son objetos redondos."),
         ],
     },
@@ -412,13 +412,13 @@ register(
     prior=["Sé qué es un plano.", "Sé qué es un símbolo."],
     explain=[
         "Un plano o mapa usa símbolos. Cada símbolo es un dibujo o una letra que representa algo real. La leyenda es una lista que explica qué significa cada símbolo. Sin leyenda no podemos estar seguros de qué quiere decir.",
-        "Ejemplo de un plano de parque en cuadrícula (filas 1, 2 y 3; columnas A, B, C y D). Leyenda: R es árbol, B es banca, J es juegos, F es fuente. Fila 1: A1 = R, C1 = J. Fila 2: B2 = B, D2 = F. Fila 3: A3 = R, D3 = R.",
+        "Ejemplo de un plano de parque en cuadrícula (filas 1, 2 y 3; columnas A, B, C y D). Leyenda: R es árbol, M es mesa, J es juegos, F es fuente. Fila 1: A1 = R, C1 = J. Fila 2: B2 = M, D2 = F. Fila 3: A3 = R, D3 = R.",
         "Para leer, busca el símbolo en la leyenda y luego ubica la casilla. Una casilla es un cuadro formado por la letra de la columna y el número de la fila. Así podemos decir: «La fuente está en D2».",
     ],
     vocab=[("leyenda", "lista que explica los símbolos de un mapa o plano"), ("cuadrícula", "red de cuadros con letras y números"), ("casilla", "cada cuadro de la cuadrícula"), ("fila", "línea horizontal de casillas"), ("columna", "línea vertical de casillas")],
     worked=[
-        {"title": "Buscar en la leyenda", "problem": "Leyenda: R es árbol, B es banca, J es juegos, F es fuente. ¿Qué es la letra J?", "steps": ["Busco J en la leyenda.", "Dice juegos."], "answer": "Juegos"},
-        {"title": "Ubicar una casilla", "problem": "Plano: A1 = R, C1 = J, B2 = B, D2 = F, A3 = R, D3 = R. ¿Dónde está la fuente?", "steps": ["La fuente es F.", "F está en D2."], "answer": "En D2"},
+        {"title": "Buscar en la leyenda", "problem": "Leyenda: R es árbol, M es mesa, J es juegos, F es fuente. ¿Qué es la letra J?", "steps": ["Busco J en la leyenda.", "Dice juegos."], "answer": "Juegos"},
+        {"title": "Ubicar una casilla", "problem": "Plano: A1 = R, C1 = J, B2 = M, D2 = F, A3 = R, D3 = R. ¿Dónde está la fuente?", "steps": ["La fuente es F.", "F está en D2."], "answer": "En D2"},
     ],
     mistakes=[
         {"wrong": "Adivinar qué significa un símbolo sin mirar la leyenda.", "why": "Se piensa que se entiende solo.", "fix": "Busca siempre el símbolo en la leyenda."},
@@ -426,17 +426,17 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Leyenda: R es árbol, B es banca, J es juegos, F es fuente. ¿Qué significa B?", "banca", "La leyenda lo dice."),
-            ex("Plano del parque: A1 = R, C1 = J, B2 = B, D2 = F, A3 = R, D3 = R. ¿Qué hay en C1?", "juegos", "J significa juegos."),
+            ex("Leyenda: R es árbol, M es mesa, J es juegos, F es fuente. ¿Qué significa M?", "mesa", "La leyenda lo dice."),
+            ex("Plano del parque: A1 = R, C1 = J, B2 = M, D2 = F, A3 = R, D3 = R. ¿Qué hay en C1?", "juegos", "J significa juegos."),
             ex("¿Qué es una leyenda?", "Una lista que explica los símbolos", "Dice qué significa cada uno."),
         ],
         "understand": [
-            ex("Plano: A1 = R, C1 = J, B2 = B, D2 = F, A3 = R, D3 = R. ¿Cuántos árboles hay si R significa árbol?", "3", "Hay R en A1, A3 y D3."),
+            ex("Plano: A1 = R, C1 = J, B2 = M, D2 = F, A3 = R, D3 = R. ¿Cuántos árboles hay si R significa árbol?", "3", "Hay R en A1, A3 y D3."),
             ex("¿Por qué sirve la leyenda?", "Porque explica los símbolos", "Sin ella no se sabe qué son."),
             ex("En la casilla D2, ¿la D es columna o fila?", "columna", "Las letras indican columna."),
         ],
         "apply": [
-            ex("Plano: A1 = R, C1 = J, B2 = B, D2 = F, A3 = R, D3 = R. ¿En qué casilla está la banca?", "B2", "La B está en esa casilla."),
+            ex("Plano: A1 = R, C1 = J, B2 = M, D2 = F, A3 = R, D3 = R. ¿En qué casilla está la mesa?", "B2", "La M está en esa casilla."),
             ex("Mismo plano. ¿En qué casilla están los juegos?", "C1", "La J está en C1."),
             ex("Mismo plano. ¿Cuál casilla tiene un árbol: A1 o B2?", "A1", "R está en A1."),
         ],
@@ -446,16 +446,16 @@ register(
         ],
         "challenge": [
             ex("Mismo plano. Si caminas desde A1 hasta D3, ¿qué dos columnas distintas cruzas, aparte de A y D?", "B y C", "Las columnas entre A y D son B y C."),
-            ex("Mismo plano. ¿Cuántos símbolos distintos hay: R, J, B, F?", "4", "Cada letra es un símbolo distinto."),
+            ex("Mismo plano. ¿Cuántos símbolos distintos hay: R, J, M, F?", "4", "Cada letra es un símbolo distinto."),
         ],
     },
-    context=[ex("Una familia mira el plano de un parque: R es árbol, B es banca, J es juegos y F es fuente. Quieren sentarse. ¿Qué símbolo deben buscar?", "B", "Una banca sirve para sentarse.")],
+    context=[ex("Una familia mira el plano de un parque: R es árbol, M es mesa, J es juegos y F es fuente. Quieren comer su colación en una mesa. ¿Qué símbolo deben buscar?", "M", "M significa mesa.")],
     selfcheck=[
         ex("¿Qué es una casilla?", "Un cuadro de la cuadrícula", "Se nombra con letra y número."),
         ex("¿Qué símbolo representa una fuente en la leyenda del parque?", "F", "La leyenda dice F es fuente."),
         ex("¿La letra de una casilla indica columna o fila?", "columna", "Así lo vimos en la clase."),
     ],
-    open_task=task("Dibuja una cuadrícula de 3 filas y 4 columnas (A, B, C y D). Pon estos símbolos: R (árbol) en A1, B (banca) en B2, J (juegos) en C1 y F (fuente) en D2. Escribe la leyenda debajo. Luego escribe en qué casilla está la fuente.", "Cuadrícula con R en A1, B en B2, J en C1, F en D2. Leyenda: R árbol, B banca, J juegos, F fuente. La fuente está en D2.", ["cuadrícula completa", "símbolos en las casillas", "leyenda y ubicación de la fuente"], ["cuadrícula dibujada y leyenda"], ["poner símbolos en casillas equivocadas", "olvidar la leyenda"], "Pide que explique cómo se llama cada casilla."),
+    open_task=task("Dibuja una cuadrícula de 3 filas y 4 columnas (A, B, C y D). Pon estos símbolos: R (árbol) en A1, M (mesa) en B2, J (juegos) en C1 y F (fuente) en D2. Escribe la leyenda debajo. Luego escribe en qué casilla está la fuente.", "Cuadrícula con R en A1, M en B2, J en C1, F en D2. Leyenda: R árbol, M mesa, J juegos, F fuente. La fuente está en D2.", ["cuadrícula completa", "símbolos en las casillas", "leyenda y ubicación de la fuente"], ["cuadrícula dibujada y leyenda"], ["poner símbolos en casillas equivocadas", "olvidar la leyenda"], "Pide que explique cómo se llama cada casilla."),
     reinforce="Inventa un símbolo para una piscina y agrégalo a la leyenda.",
     extend="Haz un plano de tu escuela con una leyenda de cinco símbolos.",
 )
@@ -466,7 +466,7 @@ register(
     use="Aprenderé a representar y seguir un recorrido en un plano y a explicar sus límites. Sirve para llegar a un lugar y para saber qué no muestra un plano.",
     prior=["Sé leer una cuadrícula con letras y números.", "Sé usar derecha, izquierda, arriba y abajo."],
     explain=[
-        "Un recorrido es el camino de un lugar a otro. En un plano en cuadrícula, se escribe con pasos: «avanza 2 casillas a la derecha» o «baja 1 casilla». Así otra persona puede seguir tu recorrido sin verte.",
+        "Un recorrido es el camino de un lugar a otro. En un plano en cuadrícula, se escribe con pasos: «avanza 2 casillas a la derecha» o «baja 1 casilla». Así otra persona puede seguir tu recorrido sin verte. Las filas se cuentan desde arriba: la fila 1 es la de más arriba, por eso «subir» es ir hacia la fila 1.",
         "Plano de una escuela: columnas A, B, C y D; filas 1, 2 y 3. Puerta de entrada en A3, patio en B2, sala en C1 y baño en D3. Para ir de la entrada (A3) a la sala (C1): sube 2 casillas hasta A1 y avanza 2 casillas a la derecha hasta C1.",
         "Un plano ayuda mucho, pero tiene límites. No muestra el tamaño real, ni quién está en cada lugar, ni si hay ruido o barro. Para llegar bien, el plano y mirar el lugar real se completan.",
     ],

@@ -35,7 +35,7 @@ register(
     ],
     mistakes=[
         {"wrong": "Decir que una línea inclinada es curva.", "why": "Se confunde inclinada con curva.", "fix": "Una línea inclinada que va derecho sigue siendo recta."},
-        {"wrong": "Decir que una línea con una esquina es curva.", "why": "Se confunde esquina con vuelta.", "fix": "Con una esquina cambia de dirección de golpe; no es una recta única."},
+        {"wrong": "Decir que una línea con una esquina es curva.", "why": "Se confunde esquina con vuelta.", "fix": "Una esquina es un cambio brusco de dirección: son dos rectas juntas, no una curva."},
     ],
     tiers={
         "recovery": [ex("El borde de una regla, ¿es recta o curva?", "Recta", "No cambia de dirección."), ex("El borde de una pelota vista de frente, ¿es recta o curva?", "Curva", "El borde va girando todo el tiempo."), ex("Un cordel bien estirado, ¿es recto o curvo?", "Recto", "No tiene vueltas.")],
@@ -47,7 +47,7 @@ register(
         "apply": [
             ex("Dibuja una línea recta horizontal y una vertical.", "Una acostada y una parada", "Ambas son rectas."),
             ex("Dibuja una línea curva de lado a lado de la hoja.", "Una curva suave", "No debe ser derecha."),
-            ex("Clasifica: borde de una puerta, camino sinuoso, lápiz, rueda.", "Rectas: puerta y lápiz. Curvas: camino sinuoso y rueda", "Bordes derechos son rectos."),
+            ex("Clasifica: borde de una puerta, camino con muchas vueltas, lápiz, rueda.", "Rectas: puerta y lápiz. Curvas: camino con vueltas y rueda", "Bordes derechos son rectos."),
         ],
         "reason": [
             ex("Ana dice que una escalera dibujada con escalones es una línea curva. ¿Qué error comete?", "Los escalones tienen esquinas, no son curvas", "Una curva gira poco a poco."),
@@ -59,7 +59,7 @@ register(
         ],
     },
     context=[ex("Una hormiga camina desde la puerta hasta el pan en línea recta. Otra da vueltas hasta llegar. ¿Qué hormiga recorrió un camino curvo?", "La que dio vueltas", "Cambió de dirección.")],
-    selfcheck=[ex("¿La línea del horizonte es recta o curva?", "Recta", "El borde va derecho sin girar."), ex("¿El borde de una moneda es recto o curvo?", "Curvo", "El borde va girando todo el tiempo."), ex("¿Con qué compruebo una recta?", "Con una regla", "Una recta debe calzar con la regla.")],
+    selfcheck=[ex("El lado de un libro cerrado, ¿es recto o curvo?", "Recto", "El borde va derecho sin girar."), ex("¿El borde de una moneda es recto o curvo?", "Curvo", "El borde va girando todo el tiempo."), ex("¿Con qué compruebo una recta?", "Con una regla", "Una recta debe calzar con la regla.")],
     open_task=task("En una hoja, dibuja un camino con 3 tramos rectos y 2 tramos curvos. Marca con rojo los rectos y con azul los curvos. Explica cómo sabes cuál es cuál.", "Dibujé una recta, una curva, otra recta, otra curva y una recta. Los rojos calzan con la regla; los azules no.", ["3 rectas y 2 curvas", "los marca con colores", "explica cómo decide"], ["dibujo", "explicación"], ["usar rectas con esquinas como curvas", "no distinguir con regla"], "Pide comprobar con una regla."),
     reinforce="Traza con lana una recta y una curva sobre la mesa.",
     extend="Busca en tu casa tres objetos con bordes rectos y tres con bordes curvos.",
@@ -148,8 +148,8 @@ register(
             ex("¿Por qué una curva con picos no es una curva suave?", "Porque cambia de dirección de golpe", "Los picos son esquinas."),
         ],
         "challenge": [
-            ex("Dibuja una figura con 2 rectas y 2 curvas.", "Por ejemplo un ojo con dos curvas y dos rectas", "Cuenta cada tipo."),
-            ex("Un techo triangular tiene 3 rectas y la pared cuadrada tiene 4. ¿Cuántas rectas hay si se dibujan por separado?", "7", "3 + 4 = 7."),
+            ex("Dibuja una figura con 2 rectas y 2 curvas.", "Por ejemplo, un pez con 2 curvas en el cuerpo y 2 rectas en la cola", "Cuenta cada tipo."),
+            ex("Un triángulo tiene 3 rectas y un cuadrado tiene 4. ¿Cuántas rectas hay si dibujas los dos?", "7", "3 + 4 = 7."),
         ],
     },
     context=[ex("Para dibujar una montaña con rectas inclinadas, ¿cuántas rectas necesitas para un pico?", "2", "Una sube y otra baja.")],
@@ -179,7 +179,7 @@ register(
         {"wrong": "Usar sólo curvas para un dibujo con edificios.", "why": "No se analiza la forma.", "fix": "Los edificios necesitan rectas."},
     ],
     tiers={
-        "recovery": [ex("¿Cuántas curvas cerradas tiene la letra «O»?", "1", "Es una sola curva."), ex("¿Cuántas rectas tiene la letra «T»?", "2", "Una horizontal y una vertical."), ex("¿Cuántas rectas tiene la letra «L»?", "2", "Una vertical y una horizontal.")],
+        "recovery": [ex("¿Cuántas curvas cerradas tiene la letra «O»?", "1", "Es una sola curva."), ex("¿Cuántas rectas tiene la letra «T» mayúscula?", "2", "Una horizontal y una vertical."), ex("¿Cuántas rectas tiene la letra «L» mayúscula?", "2", "Una vertical y una horizontal.")],
         "understand": [
             ex("¿Qué líneas tiene un sol dibujado con rayos?", "Una curva cerrada y rectas", "Círculo y rayos."),
             ex("¿Qué líneas necesita un árbol simple?", "Rectas para el tronco y curvas para las hojas", "Se combinan rectas y curvas."),
@@ -187,7 +187,7 @@ register(
         ],
         "apply": [
             ex("Dibuja un pez con rectas y curvas. Cuenta cuántas de cada tipo usaste.", "Por ejemplo: cuerpo con 2 curvas y cola con 2 rectas", "Cada tipo se cuenta aparte."),
-            ex("Dibuja la letra «E» y cuenta sus rectas.", "4 rectas", "Una vertical y tres horizontales."),
+            ex("Dibuja la letra «E» mayúscula y cuenta sus rectas.", "4 rectas", "Una vertical y tres horizontales."),
             ex("Dibuja la letra «S» y cuenta sus curvas.", "2 curvas", "Una arriba y otra abajo."),
         ],
         "reason": [
@@ -200,7 +200,7 @@ register(
         ],
     },
     context=[ex("Un niño dibuja un barco con 6 rectas y 2 curvas. ¿Cuántas líneas dibujó?", "8", "6 + 2 = 8.")],
-    selfcheck=[ex("¿Cuántas curvas tiene la letra «C»?", "1", "Es una sola curva."), ex("¿Cuántas rectas tiene la letra «H»?", "3", "Dos verticales y una horizontal."), ex("¿Se puede dibujar un sol con rectas y curvas?", "Sí", "Círculo y rayos.")],
+    selfcheck=[ex("¿Cuántas curvas tiene la letra «C»?", "1", "Es una sola curva."), ex("¿Cuántas rectas tiene la letra «H» mayúscula?", "3", "Dos verticales y una horizontal."), ex("¿Se puede dibujar un sol con rectas y curvas?", "Sí", "Círculo y rayos.")],
     open_task=task("Dibuja un animal o una casa combinando rectas y curvas. Cuenta cuántas rectas y cuántas curvas usaste, y escribe la suma total de líneas.", "Dibujé un gato con 5 curvas (cabeza y cuerpo) y 3 rectas (bigotes). Total: 8 líneas.", ["combina rectas y curvas", "cuenta cada tipo", "suma el total"], ["dibujo", "conteo", "suma"], ["contar un círculo como varias", "olvidar el total"], "Pide marcar cada tipo con colores."),
     reinforce="Escribe tu nombre y marca las rectas y las curvas de cada letra.",
     extend="Diseña un logo para tu curso usando tres rectas y tres curvas.",
@@ -213,11 +213,11 @@ register(
     use="Aprenderé a medir cuánto dura algo con una unidad que yo elijo, como aplausos o pulsos. Sirve para comparar cuánto tarda cada cosa.",
     prior=["Sé contar hasta 20.", "Sé qué significa tardar más o menos."],
     explain=[
-        "El tiempo se puede medir con una unidad que repites, como un aplauso por segundo. Si aplaudes mientras alguien se pone el abrigo y cuentas 8 aplausos, el evento duró 8 aplausos.",
+        "El tiempo se puede medir con una unidad que repites, como un aplauso cada vez. Si aplaudes mientras alguien se pone el abrigo y cuentas 8 aplausos, el evento duró 8 aplausos.",
         "La unidad debe ser siempre la misma y debe repetirse parejo: un aplauso cada vez, a la misma velocidad. Si cambias de unidad o de velocidad, no puedes comparar.",
         "Además de aplausos, puedes usar pulsos de la mano, vasos que se llenan o veces que cae una gota. Lo importante es contar bien y empezar y terminar cuando empieza y termina el evento.",
     ],
-    vocab=[("duración", "cuánto tiempo dura algo"), ("unidad", "lo que repito para medir"), ("aplauso", "una palmada"), ("pulso", "un golpe de la mano a ritmo parejo"), ("evento", "algo que ocurre")],
+    vocab=[("duración", "cuánto tiempo dura algo"), ("unidad", "lo que repito para medir"), ("aplauso", "una palmada"), ("pulso", "un golpecito de la mano dado a ritmo parejo"), ("evento", "algo que ocurre")],
     worked=[
         {"title": "Medir con aplausos", "problem": "Dani se pone el abrigo y cuento 8 aplausos. ¿Cuánto duró?", "steps": ["La unidad es un aplauso.", "Cuento mientras se viste.", "Termina en el aplauso 8."], "answer": "8 aplausos"},
         {"title": "Empezar y terminar bien", "problem": "¿Cuándo empiezo a contar?", "steps": ["Cuando empieza el evento.", "Termino cuando acaba.", "Cuento sin saltar aplausos."], "answer": "Al empezar y hasta que termina el evento"},
@@ -227,7 +227,7 @@ register(
         {"wrong": "Empezar a contar antes del evento.", "why": "Se pierde el inicio.", "fix": "Comienza cuando el evento empieza."},
     ],
     tiers={
-        "recovery": [ex("Una niña camina hasta la puerta y cuento 5 aplausos. ¿Cuánto duró?", "5 aplausos", "Cada aplauso es una unidad."), ex("Un niño dibuja un círculo en 7 aplausos. ¿Cuánto duró?", "7 aplausos", "Cuento la unidad."), ex("Una gota tarda 3 aplausos en llenar un vaso pequeño. ¿Cuánto duró?", "3 aplausos", "La duración es el conteo.")],
+        "recovery": [ex("Una niña camina hasta la puerta y cuento 5 aplausos. ¿Cuánto duró?", "5 aplausos", "Cada aplauso es una unidad."), ex("Un niño dibuja un círculo en 7 aplausos. ¿Cuánto duró?", "7 aplausos", "Cuento la unidad."), ex("Una niña tarda 3 aplausos en cerrar su mochila. ¿Cuánto duró?", "3 aplausos", "La duración es el conteo.")],
         "understand": [
             ex("¿Qué es una unidad de tiempo?", "Lo que repito para medir", "Por ejemplo un aplauso."),
             ex("¿Por qué el ritmo del aplauso debe ser parejo?", "Para que cada unidad dure lo mismo", "Así se puede comparar."),
@@ -290,7 +290,7 @@ register(
             ex("¿Por qué repito la medición?", "Para ver si da lo mismo y confiar en ella", "Si cambia mucho, hay que revisar."),
         ],
         "challenge": [
-            ex("Un evento dura el doble que otro de 6 aplausos. ¿Cuánto dura?", "12 aplausos", "6 + 6 = 12."),
+            ex("Un evento dura 6 aplausos. Otro dura 6 aplausos más. ¿Cuánto dura el otro?", "12 aplausos", "6 + 6 = 12."),
             ex("Dos eventos suman 15 aplausos y uno dura 9. ¿Cuánto dura el otro?", "6", "15 − 9 = 6."),
         ],
     },
@@ -333,11 +333,11 @@ register(
             ex("De estos eventos (3, 8, 5, 12 aplausos), ¿cuál duró lo mismo que 8 + 4 aplausos?", "El de 12", "8 + 4 = 12."),
         ],
         "reason": [
-            ex("Mateo ordenó 5, 12, 8 como 5, 12, 8. ¿Está de menos a más?", "No; es 5, 8, 12", "8 es menor que 12."),
+            ex("Mateo escribió 5, 12, 8 para ordenar de menos a más. ¿Está bien?", "No; es 5, 8, 12", "8 es menor que 12."),
             ex("Ana ordenó por nombre alfabético. ¿Sirve para ordenar duraciones?", "No", "Se ordena por el número."),
         ],
         "challenge": [
-            ex("Hay cuatro eventos distintos. Dos duran lo mismo. ¿Cuántas duraciones distintas hay?", "3", "Dos eventos repiten una duración."),
+            ex("Hay cuatro eventos. Dos duran lo mismo. ¿Cuántas duraciones distintas hay?", "3", "Dos eventos repiten una duración."),
             ex("Tres eventos duran 5, 10 y 15 aplausos. ¿Cuánto dura todo si ocurren uno tras otro?", "30 aplausos", "5 + 10 + 15 = 30."),
         ],
     },
@@ -423,21 +423,21 @@ register(
             ex("¿Qué significa «durante»?", "Al mismo tiempo", "Mientras ocurre otra cosa."),
         ],
         "apply": [
-            ex("Ordena: lavarse los dientes, desayunar, vestirse, despertar.", "Despertar, vestirse, desayunar, lavarse los dientes", "El orden habitual de la mañana."),
-            ex("Ordena: cenar, hacer las tareas, dormir, volver a casa.", "Volver a casa, hacer las tareas, cenar, dormir", "Es el orden de la tarde."),
-            ex("¿Qué haces durante el recreo?", "Jugar", "Ocurre al mismo tiempo que el recreo."),
+            ex("Ordena: ir al colegio, despertar, volver a casa, desayunar.", "Despertar, desayunar, ir al colegio, volver a casa", "Primero la mañana y después el regreso."),
+            ex("Ordena: ir a dormir, despertar, almorzar, cenar.", "Despertar, almorzar, cenar, ir a dormir", "Es el orden de un día."),
+            ex("¿Qué puedes hacer durante el recreo?", "Por ejemplo, jugar", "Ocurre al mismo tiempo que el recreo."),
         ],
         "reason": [
             ex("Pía dice que se duerme antes de cenar. ¿Es el orden habitual?", "No; primero se cena", "La cena va antes de dormir."),
             ex("¿Por qué conviene numerar una rutina?", "Para no equivocar el orden", "Cada número es un lugar."),
         ],
         "challenge": [
-            ex("Ordena estas cinco: leer un cuento, lavarse los dientes, ponerse pijama, cenar, dormir.", "Cenar, lavarse los dientes, ponerse pijama, leer un cuento, dormir", "Ejemplo de orden razonable."),
-            ex("Si desayunas a las 8 y vas al colegio a las 9, ¿cuántas horas pasan?", "1 hora", "9 − 8 = 1."),
+            ex("Ordena estas cuatro acciones de la noche: ponerse pijama, dormir, cenar, apagar la luz.", "Cenar, ponerse pijama, apagar la luz, dormir", "Dormir es lo último."),
+            ex("Primero me despierto, después me visto y al final desayuno. ¿Qué hago entre despertar y desayunar?", "Me visto", "Está en el medio."),
         ],
     },
     context=[ex("Una niña se despertó, se vistió, desayunó y se fue al colegio. ¿Qué hizo antes de desayunar?", "Se despertó y se vistió", "Esos pasos fueron antes.")],
-    selfcheck=[ex("¿Qué va primero: lavarte los dientes o desayunar?", "Depende de tu rutina; muchos desayunan primero", "Ambas son posibles."), ex("¿Qué significa «luego»?", "Más tarde", "Luego quiere decir después."), ex("¿Qué usas para ordenar una rutina?", "Números", "1, 2, 3...")],
+    selfcheck=[ex("¿Qué va primero: despertar o vestirse?", "Despertar", "Hay que estar despierto para vestirse."), ex("¿Qué significa «luego»?", "Más tarde", "Luego quiere decir después."), ex("¿Qué usas para ordenar una rutina?", "Números", "1, 2, 3...")],
     open_task=task("Ordena tu rutina de la mañana con cuatro actividades (por ejemplo despertar, vestirse, desayunar, ir al colegio). Numéralas y dibuja una al lado de cada número. Usa antes y después en dos frases.", "1 despertar, 2 vestirme, 3 desayunar, 4 ir al colegio. Antes de desayunar me visto. Después de desayunar voy al colegio.", ["cuatro actividades ordenadas", "dibuja cada una", "usa antes y después"], ["lista", "dibujos", "frases"], ["orden ilógico", "no usar las palabras pedidas"], "Pide contar la rutina a otra persona."),
     reinforce="Cuenta tu día con las palabras primero, luego y al final.",
     extend="Ordena la rutina de un fin de semana y compárala con la de un día de colegio.",
@@ -459,7 +459,7 @@ register(
         {"title": "Después del domingo", "problem": "¿Qué día viene después del domingo?", "steps": ["El domingo es el último de la semana.", "Vuelve a comenzar con el lunes."], "answer": "Lunes"},
     ],
     mistakes=[
-        {"wrong": "Poner el domingo como primer día y creer que después va el lunes siempre.", "why": "Se mezclan los calendarios.", "fix": "En esta secuencia, la semana va de lunes a domingo."},
+        {"wrong": "Empezar a contar la semana desde el sábado.", "why": "No se sigue el orden del calendario.", "fix": "En este cuaderno la semana va de lunes a domingo."},
         {"wrong": "Saltarse un día.", "why": "No se recita el orden completo.", "fix": "Recita todos los días en voz alta."},
     ],
     tiers={
@@ -579,7 +579,7 @@ register(
     },
     context=[ex("El curso hace un acto el 18 de septiembre. Si hoy es 15 de septiembre, ¿cuántos días faltan?", "3", "16, 17 y 18.")],
     selfcheck=[ex("¿Qué mes es el 1 de enero?", "Enero", "Es el primer mes."), ex("¿Qué fecha es Navidad?", "25 de diciembre", "Es el último mes."), ex("¿Se ordena primero por día o por mes?", "Por mes", "El mes decide la época del año.")],
-    open_task=task("Dibuja un calendario con las cuatro fechas (1 de enero, 21 de mayo, 18 de septiembre y 25 de diciembre) en orden. Escribe al lado de cada fecha qué se celebra y cuántos meses pasan entre cada una.", "1 de enero: Año Nuevo. 21 de mayo: Glorias Navales (4 meses después). 18 de septiembre: Fiestas Patrias (4 meses después). 25 de diciembre: Navidad (3 meses después).", ["cuatro fechas en orden", "dice qué se celebra", "calcula meses de diferencia"], ["calendario", "frases", "diferencias"], ["ordenar por el día", "calcular mal los meses"], "Pide recitar las fechas y contar los meses con los dedos."),
+    open_task=task("Dibuja un calendario con las cuatro fechas (1 de enero, 21 de mayo, 18 de septiembre y 25 de diciembre) en orden. Escribe al lado de cada fecha qué se celebra y cuántos meses hay entre cada una y la siguiente, sin contar los extremos.", "1 de enero: Año Nuevo. Entre el 1 de enero y el 21 de mayo hay 3 meses (febrero, marzo y abril). 21 de mayo: Glorias Navales. Entre el 21 de mayo y el 18 de septiembre hay 3 meses. 18 de septiembre: Fiestas Patrias. Entre el 18 de septiembre y el 25 de diciembre hay 2 meses. 25 de diciembre: Navidad.", ["cuatro fechas en orden", "dice qué se celebra", "cuenta los meses que hay entre fechas"], ["calendario", "frases", "diferencias"], ["ordenar por el día", "contar mal los meses"], "Pide recitar las fechas y contar los meses con los dedos."),
     reinforce="Lee en voz alta cinco fechas de tu calendario.",
     extend="Averigua otra fecha significativa de tu familia o tu comunidad y ubícala.",
 )
@@ -593,28 +593,28 @@ register(
     explain=[
         "La longitud es lo largo que es algo. Las palabras largo y corto sirven para describirla. Un lápiz nuevo es largo y una goma es corta. Un riel de cortina es largo y una tecla es corta.",
         "Largo y corto siempre se dicen respecto de otro objeto: un lápiz es largo comparado con una goma, pero corto comparado con una regla. Por eso hay que decir «más largo que» o «más corto que».",
-        "Para decidir cuál es más largo, ponlos lado a lado, con un extremo alineado, y mira cuál sobresale. El que sobresale es el más largo.",
+        "Para decidir cuál es más largo, ponlos lado a lado, con un extremo alineado, y mira cuál sobresale. El que sobresale es el más largo. También puedes decir cuánto mide algo contando cubitos iguales puestos en fila: un lápiz de 18 cubitos es más largo que una goma de 5 cubitos.",
     ],
     vocab=[("longitud", "lo largo que es algo"), ("largo", "que mide mucho"), ("corto", "que mide poco"), ("más largo que", "que mide más que otro"), ("más corto que", "que mide menos que otro")],
     worked=[
         {"title": "Describir", "problem": "Un lápiz mide más que una goma. ¿Cuál es más largo?", "steps": ["Los comparo.", "El lápiz sobresale.", "El lápiz es más largo."], "answer": "El lápiz"},
-        {"title": "Respecto de otro", "problem": "El lápiz, ¿es largo o corto?", "steps": ["Depende de con qué se compare.", "Frente a una goma es largo; frente a una regla de 30 cm es corto."], "answer": "Depende del objeto con que se compare"},
+        {"title": "Respecto de otro", "problem": "El lápiz, ¿es largo o corto?", "steps": ["Depende de con qué se compare.", "Frente a una goma es largo; frente a una regla es corto."], "answer": "Depende del objeto con que se compare"},
     ],
     mistakes=[
         {"wrong": "Decir que algo es largo sin compararlo.", "why": "Largo y corto son relativos.", "fix": "Di «más largo que»."},
         {"wrong": "Comparar sin alinear.", "why": "Un extremo puede engañar.", "fix": "Alinea un extremo antes de comparar."},
     ],
     tiers={
-        "recovery": [ex("Un lápiz y una goma: ¿cuál es más largo?", "El lápiz", "El lápiz mide más que la goma."), ex("Una regla de 30 cm y un lápiz de 15 cm: ¿cuál es más corto?", "El lápiz", "Ese objeto mide menos que el otro."), ex("Un riel de cortina y un botón: ¿cuál es largo?", "El riel", "El riel mide mucho más.")],
+        "recovery": [ex("Un lápiz y una goma: ¿cuál es más largo?", "El lápiz", "El lápiz mide más que la goma."), ex("Una regla de 30 cubitos y un lápiz de 15 cubitos: ¿cuál es más corto?", "El lápiz", "Ese objeto mide menos que el otro."), ex("Un riel de cortina y un botón: ¿cuál es largo?", "El riel", "El riel mide mucho más.")],
         "understand": [
             ex("¿Qué palabras usamos para hablar de la longitud?", "Largo y corto", "Describen cuánto mide."),
             ex("¿Es un lápiz siempre largo?", "No; depende con qué se compare", "Largo es relativo."),
             ex("¿Qué hago para comparar dos objetos?", "Los pongo lado a lado alineando un extremo", "Así veo cuál sobresale."),
         ],
         "apply": [
-            ex("Un lápiz mide 18 cm y un cuaderno mide 24 cm de alto. ¿Cuál es más largo?", "El cuaderno", "24 es mayor que 18."),
-            ex("Una cuchara mide 16 cm y un tenedor 17 cm. ¿Cuál es más largo?", "El tenedor", "17 es mayor que 16."),
-            ex("Un hilo de 20 cm y uno de 10 cm. ¿Cuál es más corto?", "El de 10 cm", "10 < 20."),
+            ex("Un lápiz mide 18 cubitos y un cuaderno mide 24 cubitos de alto. ¿Cuál es más largo?", "El cuaderno", "24 es mayor que 18."),
+            ex("Una cuchara mide 16 cubitos y un tenedor 17 cubitos. ¿Cuál es más largo?", "El tenedor", "17 es mayor que 16."),
+            ex("Un hilo de 20 cubitos y uno de 10 cubitos. ¿Cuál es más corto?", "El de 10 cubitos", "10 < 20."),
         ],
         "reason": [
             ex("Pedro dice que su lápiz es largo. ¿Qué debe agregar?", "Más largo que qué", "Largo es relativo."),
@@ -622,11 +622,11 @@ register(
         ],
         "challenge": [
             ex("Un palito mide más que otro y menos que un tercero. ¿Cuál es el más largo de los tres?", "El tercero", "El del medio mide menos que él."),
-            ex("Dos objetos miden 12 cm y 9 cm. ¿Cuánto más largo es el primero?", "3 cm", "12 − 9 = 3."),
+            ex("Dos objetos miden 12 cubitos y 9 cubitos. ¿Cuánto más largo es el primero?", "3 cubitos", "12 − 9 = 3."),
         ],
     },
-    context=[ex("En una tienda hay dos cintas: una de 30 cm y otra de 18 cm. ¿Cuál es más corta?", "La de 18 cm", "18 < 30.")],
-    selfcheck=[ex("¿Cuál es más corto: una cuerda de 50 cm o una de 20 cm?", "La de 20 cm", "Ese objeto mide menos que el otro."), ex("¿Cómo comparo dos longitudes?", "Alineando un extremo", "Veo cuál sobresale."), ex("¿Largo es relativo?", "Sí", "Depende de otro objeto.")],
+    context=[ex("En una tienda hay dos cintas: una de 30 cubitos y otra de 18 cubitos. ¿Cuál es más corta?", "La de 18 cubitos", "18 < 30.")],
+    selfcheck=[ex("¿Cuál es más corto: una cuerda de 15 cubitos o una de 8 cubitos?", "La de 8 cubitos", "Ese objeto mide menos que el otro."), ex("¿Cómo comparo dos longitudes?", "Alineando un extremo", "Veo cuál sobresale."), ex("¿Largo es relativo?", "Sí", "Depende de otro objeto.")],
     open_task=task("Elige tres objetos de tu casa (por ejemplo, lápiz, regla y cuchara). Compáralos de a pares alineándolos y escribe tres frases: «X es más largo que Y» o «X es más corto que Y».", "El lápiz es más largo que la cuchara. La regla es más larga que el lápiz. La cuchara es más corta que la regla.", ["compara de a pares", "alinea", "escribe tres frases coherentes"], ["tres frases", "demostración"], ["comparar sin alinear", "frases contradictorias"], "Pide demostrar con los objetos."),
     reinforce="Compara tus dedos entre sí: ¿cuál es el más largo?",
     extend="Busca un objeto largo y uno corto en tu casa y descríbelos.",
@@ -659,17 +659,17 @@ register(
             ex("¿Qué significa «igual de largo que»?", "Que miden lo mismo", "Ninguno de los dos sobresale."),
         ],
         "apply": [
-            ex("Un lápiz mide 14 cm y una regla 30 cm. Escribe la frase de comparación.", "El lápiz es más corto que la regla", "14 es menor que 30."),
-            ex("Alineas un zapato de 20 cm con uno de 18 cm. ¿Cuál sobresale?", "El de 20 cm", "Es el más largo."),
-            ex("Dos cuerdas de 15 cm y 15 cm. ¿Qué concluyes al alinearlas?", "Son igual de largas", "15 = 15."),
+            ex("Un lápiz mide 14 cubitos y una regla 30 cubitos. Escribe la frase de comparación.", "El lápiz es más corto que la regla", "14 es menor que 30."),
+            ex("Alineas un zapato de 20 cubitos con uno de 18 cubitos. ¿Cuál sobresale?", "El de 20 cubitos", "Es el más largo."),
+            ex("Dos cuerdas de 15 cubitos y 15 cubitos. ¿Qué concluyes al alinearlas?", "Son igual de largas", "15 = 15."),
         ],
         "reason": [
             ex("Ana adelantó un palito para que pareciera más largo. ¿Cómo lo corriges?", "Alineándolos", "Así se ve la diferencia real."),
             ex("Si A es más largo que B y B es más largo que C, ¿cuál es más corto?", "C", "Es el menor."),
         ],
         "challenge": [
-            ex("Alineas tres palitos y sobresalen en este orden: el primero 3 cm más que el segundo y el segundo 2 cm más que el tercero. ¿Cuánto más largo es el primero que el tercero?", "5 cm", "3 + 2 = 5."),
-            ex("Dos palitos alineados: uno mide 8 cm y el otro 5 cm. ¿Cuánto sobresale el más largo?", "3 cm", "8 − 5 = 3."),
+            ex("Alineas tres palitos y sobresalen en este orden: el primero 3 cubitos más que el segundo y el segundo 2 cubitos más que el tercero. ¿Cuánto más largo es el primero que el tercero?", "5 cubitos", "3 + 2 = 5."),
+            ex("Dos palitos alineados: uno mide 8 cubitos y el otro 5 cubitos. ¿Cuánto sobresale el más largo?", "3 cubitos", "8 − 5 = 3."),
         ],
     },
     context=[ex("Para elegir el lápiz más largo entre dos, un niño los pone uno frente al otro con la punta del mismo lado. ¿Hizo bien?", "Sí; alineó", "Así compara parejo.")],
@@ -691,7 +691,7 @@ register(
     ],
     vocab=[("ordenar", "poner en fila según la longitud"), ("más corto", "el que mide menos"), ("más largo", "el que mide más"), ("el del medio", "el que no es ni el más largo ni el más corto"), ("comprobar", "revisar que el orden sea correcto")],
     worked=[
-        {"title": "Ordenar tres", "problem": "Un lápiz mide 15 cm, una regla 30 cm y una goma 5 cm. Ordénalos del más corto al más largo.", "steps": ["Comparo: 5 < 15 < 30.", "El más corto es la goma.", "Luego el lápiz.", "El más largo es la regla."], "answer": "Goma, lápiz, regla"},
+        {"title": "Ordenar tres", "problem": "Un lápiz mide 15 cubitos, una regla 30 cubitos y una goma 5 cubitos. Ordénalos del más corto al más largo.", "steps": ["Comparo: 5 < 15 < 30.", "El más corto es la goma.", "Luego el lápiz.", "El más largo es la regla."], "answer": "Goma, lápiz, regla"},
         {"title": "El del medio", "problem": "En el ejemplo, ¿cuál es el del medio?", "steps": ["Ni el más corto ni el más largo.", "Es el lápiz."], "answer": "El lápiz"},
     ],
     mistakes=[
@@ -699,28 +699,28 @@ register(
         {"wrong": "Invertir el orden.", "why": "No se lee el sentido pedido.", "fix": "Lee si piden del más corto al más largo o al revés."},
     ],
     tiers={
-        "recovery": [ex("Tres cintas miden 10 cm, 25 cm y 15 cm. ¿Cuál es la más corta?", "10 cm", "Es la menor."), ex("Las mismas cintas. ¿Cuál es la más larga?", "25 cm", "Es la mayor."), ex("Las mismas cintas. ¿Cuál es la del medio?", "15 cm", "Ni la más corta ni la más larga.")],
+        "recovery": [ex("Tres cintas miden 10, 25 y 15 cubitos. ¿Cuál es la más corta?", "La de 10 cubitos", "Es la menor."), ex("Las mismas cintas. ¿Cuál es la más larga?", "La de 25 cubitos", "Es la mayor."), ex("Las mismas cintas. ¿Cuál es la del medio?", "La de 15 cubitos", "Ni la más corta ni la más larga.")],
         "understand": [
             ex("¿Cómo encuentro el orden de tres objetos?", "Comparando de a dos", "Así se llega al orden completo."),
             ex("¿Qué significa «del más corto al más largo»?", "Empezar por el que mide menos", "La longitud va creciendo."),
             ex("¿Qué se hace para comprobar el orden?", "Alinear los tres por un extremo", "Cada uno debe sobresalir más."),
         ],
         "apply": [
-            ex("Ordena del más corto al más largo: 20 cm, 8 cm, 14 cm.", "8, 14, 20", "El menor va primero."),
-            ex("Ordena del más largo al más corto: 5 cm, 30 cm, 12 cm.", "30, 12, 5", "El mayor va primero."),
-            ex("Ordena del más corto al más largo: cuchara 15 cm, tenedor 17 cm, cuchillo 20 cm.", "Cuchara, tenedor, cuchillo", "15 < 17 < 20."),
+            ex("Ordena del más corto al más largo: 20, 8 y 14 cubitos.", "8, 14, 20", "El menor va primero."),
+            ex("Ordena del más largo al más corto: 5, 30 y 12 cubitos.", "30, 12, 5", "El mayor va primero."),
+            ex("Ordena del más corto al más largo: cuchara 15 cubitos, tenedor 17 cubitos, cuchillo 20 cubitos.", "Cuchara, tenedor, cuchillo", "15 < 17 < 20."),
         ],
         "reason": [
             ex("Ema dice: A es más corto que B y B más corto que C, pero A es más largo que C. ¿Es posible?", "No", "Si A < B < C, entonces A < C."),
-            ex("Si el objeto del medio mide 12 cm, ¿puede el más corto medir 15 cm?", "No", "El más corto debe medir menos de 12."),
+            ex("Si el objeto del medio mide 12 cubitos, ¿puede el más corto medir 15 cubitos?", "No", "El más corto debe medir menos de 12."),
         ],
         "challenge": [
-            ex("Tres palitos suman 30 cm. El más corto mide 5 cm y el del medio 10 cm. ¿Cuánto mide el más largo?", "15 cm", "30 − 5 − 10 = 15."),
-            ex("Ordena de más corto a más largo: lápiz 17 cm, goma 5 cm, regla 30 cm, tijera 20 cm.", "Goma, lápiz, tijera, regla", "5 < 17 < 20 < 30."),
+            ex("Tres palitos suman 30 cubitos. El más corto mide 5 y el del medio 10. ¿Cuánto mide el más largo?", "15 cubitos", "30 − 5 − 10 = 15."),
+            ex("Ordena de más corto a más largo: lápiz 17 cubitos, goma 5 cubitos, regla 30 cubitos, tijera 20 cubitos.", "Goma, lápiz, tijera, regla", "5 < 17 < 20 < 30."),
         ],
     },
-    context=[ex("En la mesa hay tres lápices: uno de 12 cm, uno de 18 cm y uno de 9 cm. Ordénalos de menor a mayor.", "9, 12, 18", "Se compara de a dos.")],
-    selfcheck=[ex("Ordena del más corto al más largo: 7, 3, 5 cm.", "3, 5, 7", "El menor va primero."), ex("¿Cuál es el del medio entre 4, 9 y 6 cm?", "6 cm", "Ni el menor ni el mayor."), ex("¿Qué haces para comprobar tu orden?", "Alineo los tres", "Veo cuánto sobresale cada uno.")],
+    context=[ex("En la mesa hay tres lápices: uno de 12 cubitos, uno de 18 cubitos y uno de 9 cubitos. Ordénalos de menor a mayor.", "9, 12, 18", "Se compara de a dos.")],
+    selfcheck=[ex("Ordena del más corto al más largo: 7, 3 y 5 cubitos.", "3, 5, 7", "El menor va primero."), ex("¿Cuál es el del medio entre 4, 9 y 6 cubitos?", "6 cubitos", "Ni el menor ni el mayor."), ex("¿Qué haces para comprobar tu orden?", "Alineo los tres", "Veo cuánto sobresale cada uno.")],
     open_task=task("Elige tres objetos de tu casa y ordénalos del más corto al más largo comparándolos de a dos. Escribe cada comparación y el orden final.", "Comparaciones: cuchara más corta que lápiz; lápiz más corto que regla; cuchara más corta que regla. Orden: cuchara, lápiz, regla.", ["tres comparaciones", "orden final", "comprobación con los tres alineados"], ["comparaciones", "orden"], ["comparar sólo dos pares", "orden inconsistente"], "Pide mostrar con los objetos reales."),
     reinforce="Ordena tres lápices de colores por longitud.",
     extend="Ordena cuatro objetos por longitud y explica cuántas comparaciones necesitaste.",
@@ -746,14 +746,14 @@ register(
         {"wrong": "No marcar el largo en la cinta.", "why": "Se pierde la medida.", "fix": "Marca el extremo con un lápiz."},
     ],
     tiers={
-        "recovery": [ex("La cinta marcada con la puerta sobra al llegar a la mesa. ¿Cuál es más corto?", "La mesa", "La cinta cubre más que la mesa."), ex("La cinta falta al llegar a la ventana. ¿Cuál es más largo?", "La ventana", "Necesita más cinta."), ex("La cinta calza justo con ambos. ¿Qué concluyes?", "Son igual de largos", "Miden lo mismo.")],
+        "recovery": [ex("La cinta marcada con la puerta sobra al llegar a la mesa. ¿Cuál es más corto?", "La mesa", "La cinta cubre más que la mesa."), ex("La cinta marcada con la puerta falta al llegar a la ventana. ¿Cuál mide más, la puerta o la ventana?", "La ventana", "Necesita más cinta."), ex("La cinta calza justo con ambos. ¿Qué concluyes?", "Son igual de largos", "Miden lo mismo.")],
         "understand": [
             ex("¿Para qué sirve un intermediario?", "Para comparar objetos que no se pueden mover", "Pasa la medida."),
             ex("¿Qué hago después de medir con la cinta?", "La llevo al otro objeto y comparo", "Veo si sobra o falta."),
             ex("¿Por qué marco el largo en la cinta?", "Para no perder la medida", "Es la referencia."),
         ],
         "apply": [
-            ex("Mides la altura de una puerta con una cinta. Al comparar con una ventana, la cinta no alcanza. ¿Cuál es más alta?", "La ventana", "A la cinta le falta largo."),
+            ex("Mides la altura de una mesa con una cinta. Al comparar con un librero, la cinta no alcanza. ¿Cuál es más alto?", "El librero", "A la cinta le falta largo."),
             ex("Mides el largo de una mesa con un cordel. Al comparar con un pizarrón, el cordel sobra. ¿Cuál es más largo?", "La mesa", "El cordel cubre más que el pizarrón."),
             ex("Mides un pasillo con una cinta. Al comparar con el patio, calza justo. ¿Qué concluyes?", "Miden lo mismo", "La cinta calza justo con ambos."),
         ],
@@ -762,13 +762,13 @@ register(
             ex("¿Por qué puedo usar la misma cinta para comparar varios objetos?", "Porque conserva la medida", "Siempre mide lo mismo."),
         ],
         "challenge": [
-            ex("Una cinta mide 50 cm. Una mesa mide 70 cm. ¿Cuánto falta a la cinta?", "20 cm", "70 − 50 = 20."),
-            ex("Una puerta mide 200 cm y una ventana 120 cm. ¿Cuánto más alta es la puerta?", "80 cm", "200 − 120 = 80."),
+            ex("Una cinta mide 15 cubitos. Una mesa mide 20 cubitos. ¿Cuánto falta a la cinta?", "5 cubitos", "20 − 15 = 5."),
+            ex("Una puerta mide 20 cubitos de alto y una ventana 12 cubitos. ¿Cuánto más alta es la puerta?", "8 cubitos", "20 − 12 = 8."),
         ],
     },
     context=[ex("Para saber si un librero cabe bajo una ventana, un niño mide el librero con un cordel y lo compara con la altura bajo la ventana. ¿Qué hizo?", "Usó un intermediario", "El cordel pasa la medida.")],
     selfcheck=[ex("Si la cinta sobra, el objeto comparado es...", "Más corto", "La cinta cubre más."), ex("Si la cinta falta, el objeto comparado es...", "Más largo", "Necesita más cinta."), ex("¿Qué usas para comparar objetos fijos?", "Una cinta o cordel", "Se usa un intermediario.")],
-    open_task=task("Con un cordel, compara el largo de tu cama con el de una puerta cerrada (alto) o una mesa. Marca el cordel, llévalo al otro objeto y escribe qué pasó y qué concluyes.", "Medí mi cama con el cordel y marqué. En la puerta, el cordel sobraba. Concluyo: la puerta es más corta que mi cama (o la cama más larga que la puerta).", ["usa un intermediario", "marca la medida", "concluye con más largo/más corto"], ["cordel marcado", "frase"], ["comparar a ojo", "no marcar"], "Pide repetir con otra cinta para confirmar."),
+    open_task=task("Con un cordel, compara el largo de tu cama con el de una puerta cerrada (alto) o una mesa. Marca el cordel, llévalo al otro objeto y escribe qué pasó y qué concluyes.", "Medí mi cama con el cordel y marqué. En la mesa, el cordel sobraba. Concluyo: la mesa es más corta que mi cama.", ["usa un intermediario", "marca la medida", "concluye con más largo/más corto"], ["cordel marcado", "frase"], ["comparar a ojo", "no marcar"], "Pide repetir con otra cinta para confirmar."),
     reinforce="Compara dos objetos fijos de tu casa con una lana.",
     extend="Ordena cuatro objetos fijos de tu casa por longitud usando un cordel.",
 )

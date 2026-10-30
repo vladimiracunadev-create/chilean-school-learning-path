@@ -110,7 +110,7 @@ Antes de mirar un símbolo, haz tres preguntas: ¿de qué pueblo es?, ¿en qué 
 | soporte | material donde está el símbolo |
 | procedencia | de dónde viene algo |
 | fuente | quién muestra o cuida el símbolo |
-| escritura ancestral | forma de escritura de antiguos pueblos |
+| escritura ancestral | signos con significado que los pueblos originarios usan desde hace mucho tiempo |
 
 **Ejemplos resueltos paso a paso**
 
@@ -267,11 +267,11 @@ Respuesta: No lo sé; pregunto al educador/a tradicional
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Este cuaderno y lápiz. Símbolos de práctica (sin significado cultural): △ ○ ○ ▢.
+**Recurso listo para usar:** Este cuaderno y lápiz. Símbolos de práctica (sin significado cultural): △ ○ ○ □.
 
-**Consigna exacta:** Describe estos símbolos de práctica: Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. Escribe cuántas figuras hay y cómo se llaman. Dibuja una fila nueva con los mismos símbolos en otro orden. Luego escribe una pregunta que haga alguien curioso sin inventar el significado. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos de nuestro pueblo podemos describir y cuáles tienen un significado que debemos aprender de las personas mayores?
+**Consigna exacta:** Describe estos símbolos de práctica: Símbolos de práctica (sin significado cultural): △ ○ ○ □. Escribe cuántas figuras hay y cómo se llaman. Dibuja una fila nueva con los mismos símbolos en otro orden. Luego escribe una pregunta que haga alguien curioso sin inventar el significado. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos de nuestro pueblo podemos describir y cuáles tienen un significado que debemos aprender de las personas mayores?
 
-**Referencia para modelar y corregir:** Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ ▢ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir?
+**Referencia para modelar y corregir:** Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ □ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -285,7 +285,7 @@ Respuesta: No lo sé; pregunto al educador/a tradicional
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ ▢ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir? |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ □ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -305,7 +305,7 @@ Respuesta: No lo sé; pregunto al educador/a tradicional
 
 **Explicación.**
 
-Describir un símbolo es decir cómo es: qué figuras tiene, cuántas, cómo están puestas y de qué color son. Eso se puede ver con los ojos. Por ejemplo, en los símbolos de práctica △ ○ ○ ▢ hay un triángulo, dos círculos y un cuadrado.
+Describir un símbolo es decir cómo es: qué figuras tiene, cuántas, cómo están puestas y de qué color son. Eso se puede ver con los ojos. Por ejemplo, en los símbolos de práctica △ ○ ○ □ hay un triángulo, dos círculos y un cuadrado.
 
 El significado es distinto de la forma. El significado de un símbolo real lo conoce su pueblo, y solo se aprende preguntando a quien lo sabe. Si inventas qué significa, puedes decir algo falso o irrespetuoso.
 
@@ -325,7 +325,7 @@ Una buena descripción tiene dos partes: lo que veo, y una pregunta sobre lo que
 
 *Ejemplo 1. Describir sin interpretar*
 
-Problema: Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. Describe qué ves.
+Problema: Símbolos de práctica (sin significado cultural): △ ○ ○ □. Describe qué ves.
 
 1. Cuento las figuras.
 2. Veo un triángulo, dos círculos y un cuadrado.
@@ -352,8 +352,8 @@ Respuesta: Es una interpretación inventada
 
 *Recuperación*
 
-- **R1.** Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuántos círculos hay?
-- **R2.** Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuántos triángulos hay?
+- **R1.** Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuántos círculos hay?
+- **R2.** Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuántos triángulos hay?
 - **R3.** ¿Describir es decir cómo es algo o inventar qué significa?
 
 *Comprensión*
@@ -364,8 +364,8 @@ Respuesta: Es una interpretación inventada
 
 *Aplicación*
 
-- **A1.** Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuántas figuras hay en total?
-- **A2.** Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuál figura aparece dos veces?
+- **A1.** Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuántas figuras hay en total?
+- **A2.** Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuál figura aparece dos veces?
 - **A3.** Mira esta fila: ○ ○ △ ○. ¿En qué lugar está el triángulo?
 
 *Razonamiento y análisis*
@@ -384,11 +384,11 @@ Respuesta: Es una interpretación inventada
 
 *Autoevaluación*
 
-- **E1.** Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuántos cuadrados hay?
+- **E1.** Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuántos cuadrados hay?
 - **E2.** ¿Se inventa el significado de un símbolo?
 - **E3.** ¿Qué dos partes tiene una buena descripción?
 
-**Actividad abierta.** Describe estos símbolos de práctica: Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. Escribe cuántas figuras hay y cómo se llaman. Dibuja una fila nueva con los mismos símbolos en otro orden. Luego escribe una pregunta que haga alguien curioso sin inventar el significado. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos de nuestro pueblo podemos describir y cuáles tienen un significado que debemos aprender de las personas mayores?
+**Actividad abierta.** Describe estos símbolos de práctica: Símbolos de práctica (sin significado cultural): △ ○ ○ □. Escribe cuántas figuras hay y cómo se llaman. Dibuja una fila nueva con los mismos símbolos en otro orden. Luego escribe una pregunta que haga alguien curioso sin inventar el significado. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos de nuestro pueblo podemos describir y cuáles tienen un significado que debemos aprender de las personas mayores?
 
 **Solucionario razonado**
 
@@ -406,11 +406,11 @@ Respuesta: Es una interpretación inventada
 - **D1.** 3. Si son tres distintas, hay 3.
 - **D2.** Cualquier frase con descripción y pregunta. Debe describir y preguntar.
 - **S1.** Describir y preguntarle al educador/a tradicional. Se evita inventar.
-- **E1.** 1. Se ve un ▢.
+- **E1.** 1. Se ve un □.
 - **E2.** No. Se pregunta a quien sabe.
 - **E3.** Lo que veo y una pregunta. Describe y pregunta.
 
-**Actividad abierta · ejemplo de respuesta.** Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ ▢ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir?
+**Actividad abierta · ejemplo de respuesta.** Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ □ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir?
 
 **Criterios para evaluarla:** describe las figuras; no inventa significado; pregunta al educador/a tradicional.
 
@@ -478,7 +478,7 @@ Respuesta: Es una interpretación inventada
 
 **Recurso listo para usar:** Este cuaderno y lápiz. Las situaciones están escritas en los ejercicios.
 
-**Consigna exacta:** Imagina estas tres situaciones: 1) copiar un símbolo en tu cuaderno para aprender, 2) pintarlo en una polera para vender, 3) usarlo de decoración en una fiesta. Escribe para cada una si primero debes preguntar o no (la respuesta es preguntar en todas) y a quién preguntarías. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos podemos reproducir, cuáles no y en qué ocasiones?
+**Consigna exacta:** Imagina estas tres situaciones: 1) copiar un símbolo en tu cuaderno para aprender, 2) pintarlo en una polera para vender, 3) usarlo de decoración en una fiesta. Escribe para cada una si primero debes preguntar o no y a quién preguntarías. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos podemos reproducir, cuáles no y en qué ocasiones?
 
 **Referencia para modelar y corregir:** En las tres situaciones primero pregunto, al educador/a tradicional. Mi pregunta: ¿qué símbolos podemos reproducir, cuáles no y cuándo?
 
@@ -597,7 +597,7 @@ Respuesta: No; debe pedir permiso a su dueño
 - **E2.** ¿Qué haces antes de copiar?
 - **E3.** ¿Quién resguarda un símbolo?
 
-**Actividad abierta.** Imagina estas tres situaciones: 1) copiar un símbolo en tu cuaderno para aprender, 2) pintarlo en una polera para vender, 3) usarlo de decoración en una fiesta. Escribe para cada una si primero debes preguntar o no (la respuesta es preguntar en todas) y a quién preguntarías. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos podemos reproducir, cuáles no y en qué ocasiones?
+**Actividad abierta.** Imagina estas tres situaciones: 1) copiar un símbolo en tu cuaderno para aprender, 2) pintarlo en una polera para vender, 3) usarlo de decoración en una fiesta. Escribe para cada una si primero debes preguntar o no y a quién preguntarías. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos podemos reproducir, cuáles no y en qué ocasiones?
 
 **Solucionario razonado**
 

@@ -160,9 +160,9 @@ register(
     OA4, 4,
     materials="Problemas escritos en cada ejercicio, fichas y recta numérica de este cuaderno.",
     use="Aprenderé a usar la comparación para resolver problemas, por ejemplo saber cuántos más o cuántos menos hay. Sirve para repartir y para decidir.",
-    prior=["Sé comparar y ordenar números hasta 20.", "Sé emparejar colecciones."],
+    prior=["Sé comparar y ordenar números hasta 20.", "Sé emparejar colecciones y contar lo que sobra."],
     explain=[
-        "En un problema de comparar, hay dos cantidades y se pregunta cuál es mayor, cuál es menor o cuánto más hay. Primero identifica las dos cantidades. Luego usa los signos o el emparejamiento.",
+        "En un problema de comparar, hay dos cantidades y se pregunta cuál es mayor, cuál es menor o cuánto más hay. Primero identifica las dos cantidades. Luego usa los signos o el emparejamiento. Lo que sobra también se puede escribir como resta: 9 − 6 = 3.",
         "Para saber cuántos más hay, empareja: si Ana tiene 9 y Beto tiene 6, empareja 6 con 6 y cuenta lo que sobra, que son 3. Ana tiene 3 más. Beto tiene 3 menos.",
         "Revisa siempre la pregunta. A veces pide «quién tiene más» y a veces «cuántos más». La primera se responde con un nombre; la segunda, con un número.",
     ],
@@ -217,7 +217,7 @@ register(
     vocab=[("estimar", "decir una cantidad cercana sin contar todo"), ("referente", "cantidad conocida para comparar, como 5"), ("cerca de", "casi igual a"), ("grupo de cinco", "cinco objetos juntos"), ("comprobar", "contar para ver qué tan cerca estuve")],
     worked=[
         {"title": "Estimar con cinco", "problem": "Una colección parece ocupar el espacio de tres grupos de cinco. ¿Cuánto estimas?", "steps": ["Un grupo vale 5.", "Tres grupos: 5, 10, 15.", "Estimo cerca de 15."], "answer": "Cerca de 15"},
-        {"title": "Comprobar", "problem": "Estimé 10 y al contar había 12. ¿Estimé bien?", "steps": ["La diferencia es 12 − 10 = 2.", "2 es una diferencia pequeña.", "Estimé bien."], "answer": "Sí, 2 de diferencia"},
+        {"title": "Comprobar", "problem": "Estimé 10 y al contar había 12. ¿Estimé bien?", "steps": ["De 10 a 12 hay 2 lugares: la diferencia es 2.", "2 es una diferencia pequeña.", "Estimé bien."], "answer": "Sí, 2 de diferencia"},
     ],
     mistakes=[
         {"wrong": "Estimar 3 si caben tres grupos de cinco.", "why": "Se cuenta el número de grupos y no el de objetos.", "fix": "Cada grupo vale 5: tres grupos son 15."},
@@ -245,7 +245,7 @@ register(
         ],
     },
     context=[arith("En una bandeja hay 3 filas de 5 galletas. Estima y calcula cuántas galletas hay.", "3*5", "Tres filas de 5 son 15 galletas.")],
-    selfcheck=[ex("¿Qué número estimas si caben 2 grupos de cinco?", "Cerca de 10", "2 × 5 = 10."), ex("¿Qué es estimar?", "Decir un número cercano sin contar todo", "No es contar uno por uno."), arith("¿Cuántos son 4 grupos de cinco?", "4*5", "Cuatro grupos de 5 son 20.")],
+    selfcheck=[ex("¿Qué número estimas si caben 2 grupos de cinco?", "Cerca de 10", "Dos grupos de cinco: 5 y 5 son 10."), ex("¿Qué es estimar?", "Decir un número cercano sin contar todo", "No es contar uno por uno."), arith("¿Cuántos son 4 grupos de cinco?", "4*5", "Cuatro grupos de 5 son 20.")],
     open_task=task(f"Mira esta colección: {dots(5)} {dots(5)} {dots(3)}. Estima cuántos puntos hay usando el grupo de cinco, escribe tu estimación y luego cuenta para comprobar.", "Veo dos grupos de cinco y casi otro más, estimo cerca de 13. Al contar hay 13 puntos: coincidió.", ["usa el referente de cinco", "da un número cercano", "comprueba contando"], ["estimación", "conteo", "diferencia"], ["estimar sin referente", "no comprobar"], "Reconoce el uso del referente y pide calcular la diferencia."),
     reinforce="Con 12 fichas, arma grupos de cinco y estima cuántos hay antes de contar.",
     extend="Estima una colección de 18 objetos usando cinco como referente y compara con tu amigo.",
@@ -268,7 +268,7 @@ register(
     ],
     mistakes=[
         {"wrong": "Estimar 20 para una colección que no llena un marco.", "why": "No se compara con el referente.", "fix": "Si no llena el marco de diez, tiene menos de diez."},
-        {"wrong": "Estimar 1 para un marco lleno.", "why": "Se cuenta marcos y no objetos.", "fix": "Un marco lleno son diez objetos."},
+        {"wrong": "Estimar 1 para un marco lleno.", "why": "Se cuentan marcos y no objetos.", "fix": "Un marco lleno son diez objetos."},
     ],
     tiers={
         "recovery": [ex("Una colección llena exactamente un marco de diez. ¿Cuánto es?", "10", "Un marco lleno es diez."), ex("Una colección no llena un marco. ¿Tiene más o menos de diez?", "Menos", "El marco no se llenó."), ex("Dos marcos de diez llenos, ¿cuánto son?", "20", "10 y 10 son 20.")],
@@ -279,7 +279,7 @@ register(
         ],
         "apply": [
             ex(f"En un frasco hay una colección que parece {dots(10)} y 3 más. ¿Cuánto estimas?", "Cerca de 13", "Diez y tres más."),
-            ex("Una bolsa llena un marco de diez y le faltan 2 casillas. ¿Cuántos hay?", "8", "10 − 2 = 8."),
+            ex("Una bolsa casi llena un marco de diez: le faltan 2 casillas para llenarlo. ¿Cuántos hay?", "8", "Faltan 2 para llegar a 10, así que hay 8."),
             ex("Un frasco llena un marco y medio marco más. ¿Cuánto estimas?", "Cerca de 15", "Diez y cinco."),
         ],
         "reason": [
@@ -327,19 +327,19 @@ register(
         "apply": [
             arith("Imagino que las fichas esparcidas llenan un marco de diez y 4 más. ¿Cuántas son?", "10+4", "Diez y cuatro."),
             ex("Imagino que unas fichas esparcidas forman dos grupos de cinco. ¿Cuánto estimo?", "Cerca de 10", "Dos grupos de cinco."),
-            ex("Pongo 7 fichas muy juntas y 7 muy separadas. ¿Cuántas fichas hay entre ambas?", "14", "7 y 7 son 14."),
+            ex("Pongo 7 fichas muy juntas y otras 7 muy separadas. ¿Cuántas fichas hay en total?", "14", "7 y 7 son 14."),
         ],
         "reason": [
             ex("Tomás dice que 9 fichas esparcidas son más que 9 fichas juntas. ¿Tiene razón?", "No", "Son 9 en ambos casos."),
             ex("¿Por qué conviene agrupar mentalmente al estimar?", "Para comparar cantidad y no espacio", "Los grupos no cambian con el espacio."),
         ],
         "challenge": [
-            ex("Hay 15 fichas esparcidas. ¿Cuántos grupos de cinco forman?", "3", "15 ÷ 5 = 3."),
+            ex("Hay 15 fichas esparcidas. ¿Cuántos grupos de cinco forman?", "3", "Cuento de 5 en 5: 5, 10, 15. Son 3 grupos."),
             ex("Hay 10 fichas juntas y 12 esparcidas. ¿Dónde hay más?", "En las esparcidas", "12 es mayor que 10."),
         ],
     },
     context=[ex("En el patio hay 11 niños jugando por todas partes y en la sala 11 sentados. ¿Dónde hay más niños?", "Hay los mismos", "11 y 11 son iguales.")],
-    selfcheck=[ex("Si mueves las fichas sin quitar ni agregar, ¿cambia la cantidad?", "No", "Sigue siendo la misma."), arith("Dos grupos de cinco y 3 más, ¿cuántos son?", "2*5+3", "10 y 3 más."), ex("¿Qué grupo ocupa más espacio: uno juntos o uno esparcido?", "El esparcido", "Está más separado.")],
+    selfcheck=[ex("Si mueves las fichas sin quitar ni agregar, ¿cambia la cantidad?", "No", "Sigue siendo la misma."), arith("Dos grupos de cinco y 3 más, ¿cuántos son?", "2*5+3", "10 y 3 más."), ex("¿Qué grupo ocupa más espacio: uno junto o uno esparcido?", "El esparcido", "Está más separado.")],
     open_task=task("Pon 9 fichas muy juntas y luego esparcidas. Dibuja las dos disposiciones, estima cuántas hay en cada una y explica por qué el número es el mismo.", "Dibujé 9 juntas y 9 separadas. Estimé 10 en las dos. Son 9 porque no agregué ni quité ninguna.", ["dibuja las dos disposiciones", "estima en ambas", "explica por qué son iguales"], ["dibujos", "estimaciones", "explicación"], ["decir que una tiene más", "no agrupar"], "Pide contar de nuevo para confirmar que no cambia."),
     reinforce="Mueve 8 fichas de lugar y cuenta cada vez.",
     extend="Diseña un dibujo donde 10 objetos parezcan muchos y otro donde parezcan pocos.",
@@ -349,9 +349,9 @@ register(
     OA5, 4,
     materials="Tres colecciones escritas con su conteo real en cada ejercicio; marco de diez; lápiz.",
     use="Aprenderé a elegir una estimación razonable y a comprobarla contando. Sirve para saber si una estimación sirve o hay que mejorarla.",
-    prior=["Sé estimar con cinco y con diez.", "Sé restar para encontrar una diferencia."],
+    prior=["Sé estimar con cinco y con diez.", "Sé contar en la recta numérica de un número a otro."],
     explain=[
-        "Una estimación razonable es la que se acerca bastante a la cantidad real. En este curso, será razonable si se aleja 3 o menos del número real. Si estimas 12 y hay 14, la diferencia es 2: razonable.",
+        "Una estimación razonable es la que se acerca bastante a la cantidad real. Aquí diremos que es razonable si se aleja 3 o menos del número real. La diferencia es cuántos lugares hay de un número al otro en la recta. De 12 a 14 hay 2 lugares, así que la diferencia es 2: razonable. También se escribe como resta: 14 − 12 = 2.",
         "Para elegir entre varias estimaciones, ve cuál queda más cerca. Si hay 13 y las opciones son 5, 12 y 20, la más cercana es 12, porque 13 − 12 = 1.",
         "Cuando una estimación no es razonable, pregúntate qué falló: ¿usé bien el referente? ¿Me engañó el espacio? Con esa pregunta mejoras la próxima.",
     ],
@@ -429,7 +429,7 @@ register(
             ex("¿Puede el todo ser menor que una de sus partes?", "No", "El todo contiene a las partes."),
         ],
         "challenge": [
-            ex("El todo es 12. Una parte es el doble de la otra. ¿Cuáles son?", "4 y 8", "4 + 8 = 12 y 8 es el doble de 4."),
+            ex("Tengo 12 fichas y las separo en dos partes iguales. ¿Cuántas fichas hay en cada parte?", "6", "6 + 6 = 12."),
             ex("Dibuja un diagrama con todo 6 y partes 2 y 4. ¿Cuánto es 2 + 4?", "6", "Las partes juntas forman 6."),
         ],
     },
@@ -437,7 +437,7 @@ register(
     selfcheck=[arith("Cuenta: 4 + 5.", "4+5", "Las partes forman el todo."), ex("En 3 + 6 = 9, ¿cuál es una parte?", "3 o 6", "Las partes son los sumandos."), arith("El todo es 7, una parte es 2. ¿Cuál es la otra?", "7-2", "A 2 le faltan 5 para llegar a 7.")],
     open_task=task("Con 8 fichas de dos colores, forma el 8 de tres maneras distintas (por ejemplo 5 y 3). Dibuja un diagrama de partes y todo para una de ellas.", "8 = 5 + 3, 8 = 6 + 2 y 8 = 4 + 4. Dibujé un círculo grande con 8 y dos pequeños con 5 y 3.", ["tres maneras distintas", "las tres suman 8", "diagrama correcto"], ["tres sumas", "diagrama"], ["sumas que no dan 8", "diagrama sin el todo"], "Pide comprobar cada suma contando fichas."),
     reinforce="Separa 10 fichas en dos montones de varias maneras.",
-    extend="Descubre cuántas maneras hay de formar 6 con dos partes (contando 0 como parte).",
+    extend="Descubre cuántas maneras hay de formar 6 con dos partes, contando 0 como parte y sin repetir el orden (1 + 5 y 5 + 1 cuentan como una).",
 )
 
 register(
@@ -450,7 +450,7 @@ register(
         "Si una parte sube, la otra baja la misma cantidad. De 3 + 4 pasas a 4 + 3, o a 2 + 5: subes una y bajas la otra, y el total se conserva. Puedes mostrarlo moviendo fichas de un vaso a otro.",
         "Esto sirve para comprobar: si separas 9 en 4 y 5, y vuelves a juntarlas, deben dar 9. Si no da 9, se perdió o agregó una ficha.",
     ],
-    vocab=[("conservar", "mantener igual"), ("separar", "dividir un todo en partes"), ("total", "el todo"), ("pasar una ficha", "mover una ficha de una parte a otra"), ("otra manera", "otra pareja de partes con el mismo todo")],
+    vocab=[("conservar", "mantener igual"), ("separar", "partir un todo en partes más pequeñas"), ("total", "el todo"), ("pasar una ficha", "mover una ficha de una parte a otra"), ("otra manera", "otra pareja de partes con el mismo todo")],
     worked=[
         {"title": "Mover una ficha", "problem": "Tengo 3 + 4 = 7. Paso una ficha de la parte de 4 a la parte de 3. ¿Qué queda?", "steps": ["La parte de 3 sube a 4.", "La parte de 4 baja a 3.", "Ahora es 4 + 3.", "El total sigue siendo 7."], "answer": "4 + 3 = 7"},
         {"title": "Otra separación", "problem": "Separa el 9 de otra manera que 4 + 5.", "steps": ["Pruebo con 6 y 3.", "6 + 3 = 9.", "Compruebo juntando."], "answer": "6 + 3 = 9"},
@@ -499,11 +499,11 @@ register(
     ],
     vocab=[("diagrama", "dibujo con círculos para partes y todo"), ("círculo grande", "el todo"), ("círculo pequeño", "una parte"), ("expresión", "una suma escrita con números y signos"), ("traducir", "pasar de un dibujo a números")],
     worked=[
-        {"title": "Leer un diagrama", "problem": "Diagrama: todo = 9, partes 4 y ?. ¿Qué número falta y cuál es la suma?", "steps": ["El todo es 9 y una parte es 4.", "Falta 9 − 4 = 5.", "Escribo 4 + 5 = 9."], "answer": "5; 4 + 5 = 9"},
+        {"title": "Leer un diagrama", "problem": "Diagrama: todo = 9, partes 4 y ?. ¿Qué número falta y cuál es la suma?", "steps": ["El todo es 9 y una parte es 4.", "A 4 le faltan 5 para llegar a 9: 4 + 5 = 9.", "Escribo 4 + 5 = 9."], "answer": "5; 4 + 5 = 9"},
         {"title": "Escribir la expresión", "problem": "Diagrama: partes 6 y 2, todo ?. Escribe la suma.", "steps": ["Las partes son 6 y 2.", "6 + 2 = 8.", "El todo es 8."], "answer": "6 + 2 = 8"},
     ],
     mistakes=[
-        {"wrong": "Escribir 9 + 4 = 5.", "why": "Se pone el todo antes del signo =.", "fix": "Las partes van primero: 4 + 5 = 9."},
+        {"wrong": "Escribir 9 + 4 = 5.", "why": "Se suma el todo con una parte, pero el todo es el resultado de juntar.", "fix": "Se suman las partes y sale el todo: 4 + 5 = 9."},
         {"wrong": "No distinguir el círculo del todo.", "why": "Se confunden los círculos.", "fix": "El todo es el círculo grande o el que reúne a los demás."},
     ],
     tiers={
@@ -511,11 +511,11 @@ register(
         "understand": [
             ex("En un diagrama, ¿qué número va en el círculo grande?", "El todo", "El grande reúne las partes."),
             ex("En 5 + 3 = 8, ¿cuál es el todo?", "8", "Es el resultado."),
-            ex("Diagrama: todo 10, partes 7 y ?. ¿Qué número falta?", "3", "10 − 7 = 3."),
+            ex("Diagrama: todo 10, partes 7 y ?. ¿Qué número falta?", "3", "7 y 3 forman 10."),
         ],
         "apply": [
-            ex("Diagrama: todo 12, partes 5 y ?. Escribe la suma completa.", "5 + 7 = 12", "12 − 5 = 7."),
-            ex("Diagrama: todo 15, partes ? y 6. Escribe la suma completa.", "9 + 6 = 15", "15 − 6 = 9."),
+            ex("Diagrama: todo 12, partes 5 y ?. Escribe la suma completa.", "5 + 7 = 12", "5 y 7 forman 12."),
+            ex("Diagrama: todo 15, partes ? y 6. Escribe la suma completa.", "9 + 6 = 15", "9 y 6 forman 15."),
             ex("Diagrama: partes 8 y 8. Escribe la suma completa.", "8 + 8 = 16", "Las dos partes forman 16."),
         ],
         "reason": [
@@ -527,8 +527,8 @@ register(
             ex("Diagrama: todo 11. Escribe dos diagramas distintos.", "6 + 5 y 7 + 4", "Ambos suman 11."),
         ],
     },
-    context=[ex("En un jardín hay 13 flores: 8 rojas y el resto blancas. Completa el diagrama y escribe la suma.", "8 + 5 = 13", "13 − 8 = 5 blancas.")],
-    selfcheck=[ex("Diagrama: partes 5 y 4. ¿Todo?", "9", "5 + 4 = 9."), ex("Diagrama: todo 6, partes 2 y ?.", "4", "6 − 2 = 4."), ex("¿Qué va antes del signo =: las partes o el todo?", "Las partes", "Las partes se suman y dan el todo.")],
+    context=[ex("En un jardín hay 13 flores: 8 rojas y el resto blancas. Completa el diagrama y escribe la suma.", "8 + 5 = 13", "8 y 5 forman 13: hay 5 blancas.")],
+    selfcheck=[ex("Diagrama: partes 5 y 4. ¿Todo?", "9", "5 + 4 = 9."), ex("Diagrama: todo 6, partes 2 y ?.", "4", "2 y 4 forman 6."), ex("¿Qué va antes del signo =: las partes o el todo?", "Las partes", "Las partes se suman y dan el todo.")],
     open_task=task("Dibuja un diagrama de parte-parte-todo con todo 14. Elige una parte (por ejemplo 9), calcula la otra y escribe la suma.", "Todo 14, partes 9 y 5. 9 + 5 = 14. Comprobé con los dedos: 9 y 5 más llegan a 14.", ["diagrama correcto", "calcula la parte que falta", "suma coherente"], ["dibujo", "suma"], ["poner el todo en una parte", "calcular mal la parte"], "Pide comprobar sumando las partes."),
     reinforce="Con 10 fichas, arma diagramas con tapas y escribe la suma.",
     extend="Dibuja un diagrama con 3 partes y todo 15 y escribe la suma de 3 sumandos.",
@@ -567,12 +567,12 @@ register(
         ],
         "challenge": [
             ex("¿Cuántas parejas tiene el 12 (sin repetir el orden)?", "7", "De 0 + 12 hasta 6 + 6."),
-            ex("Cuando las dos partes son iguales, ¿cuál es el número más grande que puede ser el todo con partes hasta 10?", "20", "10 + 10 = 20."),
+            ex("¿Cuántas parejas tiene el 11 (sin repetir el orden)?", "6", "De 0 + 11 hasta 5 + 6."),
         ],
     },
     context=[ex("Un panadero tiene 7 panes para guardar en dos bolsas. Escribe todas las maneras de repartirlos (sin repetir el orden).", "0 + 7, 1 + 6, 2 + 5, 3 + 4", "Son todas las parejas del 7.")],
     selfcheck=[ex("¿Cuántas parejas tiene el 4 (sin repetir)?", "3", "0 + 4, 1 + 3 y 2 + 2."), ex("¿Es 3 + 3 una manera de formar 6?", "Sí", "Dos partes iguales."), ex("Si la primera parte sube 1, ¿qué hace la segunda?", "Baja 1", "El total se conserva.")],
-    open_task=task("Elige el 7 y escribe en una tabla todas las parejas que lo forman. Pinta de rojo la pareja de partes iguales si existe y explica por qué existe o no.", "0 + 7, 1 + 6, 2 + 5, 3 + 4. No existe pareja de partes iguales porque 7 es impar y no se puede repartir en dos partes iguales.", ["lista completa", "usa orden", "explica la pareja de partes iguales"], ["tabla", "explicación"], ["olvidar una pareja", "repetir parejas"], "Pide comprobar sumando cada pareja."),
+    open_task=task("Elige el 7 y escribe en una tabla todas las parejas que lo forman. Pinta de rojo la pareja de partes iguales si existe y explica por qué existe o no.", "0 + 7, 1 + 6, 2 + 5, 3 + 4. No existe pareja de partes iguales: 3 + 3 es 6 y 4 + 4 es 8, ninguna da 7.", ["lista completa", "usa orden", "explica la pareja de partes iguales"], ["tabla", "explicación"], ["olvidar una pareja", "repetir parejas"], "Pide comprobar sumando cada pareja."),
     reinforce="Con 6 fichas, encuentra todas las parejas moviendo de a una ficha.",
     extend="Descubre qué números tienen una pareja de partes iguales y cuáles no.",
 )
@@ -628,7 +628,7 @@ register(
     prior=["Sé contar hacia atrás.", "Sé que restar es quitar."],
     explain=[
         "Para restar puedes contar hacia atrás. En 9 − 3 partes en 9 y retrocedes tres lugares: 8, 7, 6. El resultado es 6. Cada vez que dices un número, quitas uno.",
-        "Es útil cuando se quita poco. Si se quita mucho, conviene contar hacia adelante desde el número menor hasta el mayor. Por ahora usa el conteo hacia atrás con cantidades pequeñas.",
+        "Es útil cuando se quita poco. Por ahora practica con cantidades pequeñas, de 1 a 4. Puedes ayudarte con los dedos o con la recta numérica para no perder la cuenta de cuántos lugares retrocediste.",
         "Comprueba con una suma: 6 + 3 = 9, así que 9 − 3 = 6 está bien. La resta y la suma están relacionadas y una sirve para verificar la otra.",
     ],
     vocab=[("restar", "quitar una cantidad"), ("retroceder", "contar hacia atrás"), ("resultado", "lo que queda"), ("comprobar", "revisar con otra operación"), ("quitar", "sacar parte de una cantidad")],
@@ -647,7 +647,7 @@ register(
             ex("¿Hacia dónde cuento al restar?", "Hacia atrás", "Quito, así que retrocedo."),
             ex("¿Cómo compruebo 9 − 3 = 6?", "Sumando 6 + 3", "Debe dar 9."),
         ],
-        "apply": [ex("En una fila hay 14 niños y se van 2. ¿Cuántos quedan?", "12", "Retrocedo dos lugares."), ex("Un número menos 3 desde 17, ¿cuál es?", "14", "Retrocedo: 16, 15, 14."), ex("En una caja hay 20 lápices y se cae 1. ¿Cuántos quedan?", "19", "Retrocedo un lugar desde 20.")],
+        "apply": [ex("En una fila hay 14 niños y se van 2. ¿Cuántos quedan?", "12", "Retrocedo dos lugares."), ex("Parto en 17 y retrocedo 3 lugares. ¿A qué número llego?", "14", "Retrocedo: 16, 15, 14."), ex("En una caja hay 20 lápices y se cae 1. ¿Cuántos quedan?", "19", "Retrocedo un lugar desde 20.")],
         "reason": [
             ex("Raúl calculó 10 − 2 = 12. ¿Qué error cometió?", "Sumó en vez de restar; es 8", "Restar hace que el número baje."),
             ex("¿Por qué la resta 9 − 3 se puede comprobar con 6 + 3?", "Porque quitar y juntar se deshacen", "Si agrego lo que quité, vuelvo al inicio."),
@@ -693,7 +693,7 @@ register(
         "apply": [arith("Calcula 7 + 5 completando diez.", "7+5", "A 7 le faltan 3; queda 10 + 2."), arith("Calcula 9 + 6 completando diez.", "9+6", "A 9 le falta 1; queda 10 + 5."), arith("Calcula 6 + 8 completando diez.", "6+8", "A 6 le faltan 4; queda 10 + 4.")],
         "reason": [
             ex("Tomás dice que en 9 + 4 conviene sacar 4 del 9. ¿Está bien?", "No; se saca 1 del 4", "A 9 le falta 1 para llegar a 10."),
-            ex("¿Por qué es más fácil sumar a 10?", "Porque se escribe 10 y el número", "10 + 3 es 13."),
+            ex("¿Por qué es más fácil sumar a 10?", "Porque 10 más un número se lee fácil, como 10 + 3 = 13", "Después del diez se dicen once, doce, trece…"),
         ],
         "challenge": [
             arith("Calcula 8 + 9.", "8+9", "A 8 le faltan 2; queda 10 + 7."),
@@ -774,7 +774,7 @@ register(
         "recovery": [ex("¿Cuántos objetos tiene una decena?", "10", "Una decena es diez."), ex("Tengo 10 palitos. ¿Cuántas decenas formo?", "1", "Diez palitos son una decena."), ex("Tengo 5 palitos. ¿Cuántas decenas formo?", "0", "No llegan a diez.")],
         "understand": [
             ex("¿Qué es una unidad?", "Un objeto suelto", "No está dentro de un grupo de diez."),
-            ex("Con 12 palitos, ¿cuántos quedan sueltos después de formar una decena?", "2", "12 − 10 = 2."),
+            ex("Con 12 palitos, ¿cuántos quedan sueltos después de formar una decena?", "2", "10 y 2 forman 12."),
             ex("¿Cuánto vale una barra ▮?", "10", "Es una decena."),
         ],
         "apply": [
@@ -788,7 +788,7 @@ register(
         ],
         "challenge": [
             ex("Tengo 2 decenas completas. ¿Cuántos objetos son?", "20", "10 y 10."),
-            ex("Con 15 palitos, ¿cuántos faltan para formar dos decenas?", "5", "20 − 15 = 5."),
+            ex("Con 15 palitos, ¿cuántos faltan para formar dos decenas?", "5", "15 y 5 forman 20."),
         ],
     },
     context=[ex("Una profesora tiene 16 lápices y los quiere guardar en cajas de 10. ¿Cuántas cajas llena y cuántos lápices quedan fuera?", "1 caja y 6 lápices", "10 en la caja y 6 sueltos.")],
@@ -804,7 +804,7 @@ register(
     use="Aprenderé a describir un número como una decena y unidades sueltas. Sirve para entender de qué está hecho un número del 11 al 19.",
     prior=["Sé formar una decena.", "Sé contar hasta 20."],
     explain=[
-        "Todos los números entre 11 y 19 tienen una decena y algunas unidades. 14 es una decena y 4 unidades. Se dice «diez y cuatro» en el orden en que lo escribimos: la cifra de la izquierda es la decena y la de la derecha son las unidades.",
+        "Todos los números entre 11 y 19 tienen una decena y algunas unidades. 14 es una decena y 4 unidades. Se lee «catorce». En el numeral 14, la cifra de la izquierda es la decena y la de la derecha son las unidades.",
         "Si miras 17, el 1 es una decena y el 7 son siete unidades. Si lo dibujas, es una barra y siete puntos: ▮ ● ● ● ● ● ● ●. Puedes comprobar que 10 más 7 son 17.",
         "Para no equivocarte, siempre pregunta: ¿cuántas decenas? ¿Cuántas unidades? Y comprueba sumando: 10 + 4 = 14.",
     ],
@@ -932,5 +932,5 @@ register(
     selfcheck=[cmp_ex(14, 20, "20 tiene dos decenas."), ex("¿Cuántas decenas tiene 18?", "1", "Una decena y ocho unidades."), ex("¿Cómo se escribe veinte en la tabla D U?", "D = 2, U = 0", "Son dos decenas completas.")],
     open_task=task("Compara 16, 19 y 20. Escribe los tres en tablas D U, ordénalos de menor a mayor y explica por qué el 20 es el mayor.", "16 (D = 1, U = 6), 19 (D = 1, U = 9), 20 (D = 2, U = 0). Orden: 16, 19, 20. El 20 es el mayor porque tiene dos decenas y los otros una.", ["tablas correctas", "orden correcto", "explica con decenas"], ["tablas", "lista", "explicación"], ["mirar las unidades primero", "tablas con columnas invertidas"], "Pide comparar primero D y luego U."),
     reinforce="Haz tarjetas del 15 al 20 y ordénalas en la recta.",
-    extend="Explica qué número viene después del 20 y cómo se ve en la tabla D U.",
+    extend="Explica cómo se ve el 20 en la tabla D U y por qué U es 0.",
 )

@@ -52,7 +52,7 @@ L(
     context=[ex("Escena de práctica: «Hoy a las nueve, el sol sale entre nubes y sopla viento del sur». Escribe cuántos elementos distintos del paisaje se describen.", "3", "Sol, nubes y viento son tres elementos.")],
     selfcheck=[ex("¿Qué haces antes de interpretar?", "Describo", "Primero se observa."), ex("¿Quién enseña el significado cultural?", "Quien conoce esa cultura", "Ellos saben su sentido."), ex("Si no sé qué significa, ¿qué digo?", "No lo sé todavía", "No se inventa.")],
     task=T("Mira por la ventana o el patio durante 5 minutos (o usa esta escena de práctica: «A las diez, el cielo tiene nubes blancas, sopla viento suave y un pájaro canta en un árbol»). Escribe una descripción con hora, lugar y tres cosas que ves u oyes. Termina con una pregunta pendiente para el educador tradicional.",
-           "A las diez, en el patio, vi nubes blancas, sentí viento suave y oí un pájaro. Pregunta: ¿qué dice mi pueblo sobre el canto de los pájaros?",
+           "A las diez, en el patio, vi nubes blancas, sentí viento suave y oí un pájaro. Pregunta: ¿qué se dice en la comunidad sobre el canto de los pájaros?",
            ["describe con hora y lugar", "no interpreta", "formula una pregunta pendiente"], ["texto breve", "pregunta"], ["agregar un significado inventado"],
            "Revisa que la descripción no incluya interpretaciones; valora la pregunta."),
     reinforce="Describe en voz alta tres cosas que ves desde tu ventana, sin decir qué significan.",
@@ -61,7 +61,7 @@ L(
 
 L(
     OA11, 2,
-    materials="Lápiz y hojas. Una tabla de fuentes y un caso están escritos en el cuaderno.",
+    materials="Lápiz y hojas. Una tabla de fuentes y un caso están escritos en el cuaderno. La educadora Marta es un personaje inventado para practicar.",
     use="Aprenderé a identificar quién puede enseñar el significado de una señal de la naturaleza y de dónde viene ese saber.",
     prior=["Sé la diferencia entre describir e interpretar.", "Sé qué es una fuente."],
     explain=[
@@ -89,7 +89,7 @@ L(
         ex("¿Qué tres datos se anotan al recibir una explicación?", "Quién, de qué pueblo y cuándo o dónde", "Así se atribuye bien."),
     ],
     A=[
-        ex("Ordena de más a menos confiable: video sin autor, educadora tradicional, comentario anónimo.", "educadora tradicional, video sin autor, comentario anónimo", "Primero la fuente que dice quién enseña; los anónimos son menos confiables."),
+        ex("¿Cuál de estas fuentes es la más confiable? A) un video sin autor B) la educadora tradicional de la escuela C) un comentario anónimo", "B", "Es la que dice quién enseña y de qué pueblo; las otras no tienen autor."),
         ex("Une cada fuente con su valor. 1) libro con autor y pueblo 2) mensaje sin nombre. a) confiable b) poco confiable", "1-a, 2-b", "El libro dice quién escribió y de qué pueblo."),
         ex("La educadora Marta, de una comunidad, cuenta algo a tu curso. Escribe cómo anotas la fuente: «Según ______, de su comunidad».", "la educadora Marta", "Se anota el nombre de quien enseñó."),
     ],
@@ -142,7 +142,7 @@ L(
     ],
     A=[
         ex("Caso de práctica: «Cuando caen las primeras lluvias de otoño, el vecino guarda la leña». Escribe señal, tiempo y acción.", "Señal: primeras lluvias; tiempo: otoño; acción: guardar la leña", "Cada parte está en la frase."),
-        ex("Une cada señal con su acción. 1) hace calor y salen hojas nuevas 2) caen lluvias fuertes. a) regar menos b) sembrar", "1-b, 2-a", "En este caso de práctica, las hojas nuevas invitan a sembrar y la lluvia fuerte a regar menos."),
+        ex("En este caso de práctica, une cada señal con su acción. 1) hace calor y salen hojas nuevas 2) caen lluvias fuertes. a) regar menos b) sembrar", "1-b, 2-a", "En este caso de práctica, las hojas nuevas invitan a sembrar y la lluvia fuerte a regar menos."),
         ex("Ordena una decisión: 1) converso con los mayores 2) observo la señal 3) decido qué hacer.", "2, 1, 3", "Observar, conversar y después decidir."),
     ],
     Z=[
@@ -165,7 +165,7 @@ L(
 
 L(
     OA11, 4,
-    materials="Lápiz y hojas. Un modelo de ficha de tres datos está escrito en el cuaderno.",
+    materials="Lápiz y hojas. Un modelo de ficha de tres datos está escrito en el cuaderno. La educadora Marta es un personaje inventado para practicar.",
     use="Aprenderé a explicar a otras personas lo que aprendí sobre las señales de la naturaleza, diciendo de dónde viene y hasta dónde vale.",
     prior=["Sé separar descripción e interpretación.", "Sé citar la fuente."],
     explain=[
@@ -202,7 +202,7 @@ L(
         ex("¿Por qué es importante decir «esto no lo sé»?", "Porque no inventamos ni engañamos", "La honestidad cuida a todos."),
     ],
     D=[
-        ex("Un compañero dice que una señal «es de los mapuches» por un video. ¿Qué preguntas le haces?", "¿Quién lo dijo y de qué comunidad es?", "Así pides la procedencia."),
+        ex("Un compañero dice que una señal «es mapuche» por un video. ¿Qué preguntas le haces?", "¿Quién lo dijo y de qué comunidad es?", "Así pides la procedencia."),
         ex("Una persona dice «con permiso, esto no se comparte afuera». ¿Qué haces con lo que oíste?", "No lo cuento", "Se respeta el límite que pidió."),
     ],
     context=[ex("En una exposición, tres niños hablan de señales. Dos citan su fuente y uno no. ¿Cuántos explicaron con procedencia?", "2", "Solo dos citaron la fuente.")],
@@ -257,7 +257,7 @@ L(
         ex("¿Por qué decimos «según la tabla»?", "Para citar de dónde viene el dato", "Es la fuente."),
     ],
     D=[
-        ex("Una niña dice que su comunidad celebra en otro día que el de la tabla. ¿Tiene razón? Sí o No.", "Puede ser", "Las comunidades tienen sus tiempos propios."),
+        ex("Una niña dice que su comunidad celebra en otro día que el de la tabla. ¿Es posible que tenga razón? Sí o No.", "Sí", "La tabla es general y las comunidades tienen sus tiempos propios."),
         ex("¿Qué evento de la tabla ocurre en febrero?", "Tapati Rapa Nui", "Es el que tiene esa fecha."),
     ],
     context=[ex("Tu curso hace un calendario con dos eventos: uno en febrero y otro en junio. ¿Cuántos meses distintos hay en el calendario?", "2", "Febrero y junio son dos.")],
@@ -278,7 +278,7 @@ L(
     explain=[
         "Los eventos de los pueblos originarios tienen un propósito, es decir, una razón para hacerse. Algunos celebran el cambio de estación, otros agradecen a la tierra, otros reúnen a las familias o recuerdan la historia. El propósito lo explica la comunidad.",
         "En los eventos participan personas con distintos roles: niños, jóvenes, personas mayores, familias y personas que guían, como los sabios y sabias o los líderes de la comunidad. Cada persona tiene un lugar y una tarea que la comunidad reconoce.",
-        "Un evento importante une a la comunidad. Se comparten alimentos, se canta, se conversa y se agradece. Solo podemos contar lo que la comunidad ha autorizado contar. Si tenemos dudas, preguntamos y no suponemos.",
+        "Un evento importante suele unir a la comunidad. Según cada comunidad, puede haber alimentos compartidos, cantos, conversación y agradecimientos. Solo podemos contar lo que la comunidad ha autorizado contar. Si tenemos dudas, preguntamos y no suponemos.",
     ],
     vocab=[("propósito", "razón por la que se hace algo"), ("participante", "persona que toma parte en un evento"), ("rol", "tarea que una persona tiene en un evento"), ("comunidad", "grupo de personas que viven y celebran juntas"), ("agradecer", "mostrar gracias por lo recibido")],
     worked=[
@@ -301,7 +301,7 @@ L(
     ],
     A=[
         ex("Ficha: «La Tapati Rapa Nui reúne a la comunidad en febrero para celebrar su cultura». Escribe el propósito.", "Reunir a la comunidad y celebrar su cultura", "Es lo que dice la ficha."),
-        ex("Une participante y descripción. 1) niño 2) persona mayor 3) quien guía. a) aprende b) comparte sus conocimientos c) conduce", "1-a, 2-b, 3-c", "Cada uno tiene un rol general."),
+        ex("Une cada palabra con su significado. 1) participante 2) propósito 3) rol. a) razón por la que se hace un evento b) persona que toma parte en un evento c) tarea que tiene una persona en un evento", "1-b, 2-a, 3-c", "Son las definiciones de esta clase; los roles de cada evento los explica la comunidad."),
         ex("En una celebración hay 12 niños, 8 jóvenes y 5 personas mayores. ¿Cuántas personas hay?", "25", "12 + 8 + 5 = 25."),
     ],
     Z=[

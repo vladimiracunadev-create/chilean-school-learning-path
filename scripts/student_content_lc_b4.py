@@ -3,7 +3,7 @@
 OA LF05 (símbolos de escritura ancestral) y OA LF06 (tecnologías para escuchar lengua y conocer
 escritura ancestral), contexto de fortalecimiento de la lengua.
 
-Los símbolos de práctica (△ ○ ▢) son figuras sin significado cultural, creadas para entrenar la
+Los símbolos de práctica (△ ○ □) son figuras sin significado cultural, creadas para entrenar la
 observación. No se atribuye significado a ningún símbolo real: eso lo enseña el educador/a
 tradicional o la comunidad. Las fichas de sitios web son inventadas y no llevan enlaces.
 """
@@ -15,7 +15,7 @@ OA5 = "LC01 OA LF05"
 OA6 = "LC01 OA LF06"
 
 FICHA = "Ficha de práctica: soporte: una vasija de greda; dibujo: △ ○ ○; fuente: museo del pueblo; pueblo: se pregunta al educador/a tradicional."
-SIMB = "Símbolos de práctica (sin significado cultural): △ ○ ○ ▢"
+SIMB = "Símbolos de práctica (sin significado cultural): △ ○ ○ □"
 
 
 def task(statement, example, criteria, evidence, errors, feedback):
@@ -33,7 +33,7 @@ register(
         "La procedencia dice de dónde viene el símbolo: de qué pueblo, en qué soporte y quién lo muestra, por ejemplo un museo, una comunidad o un educador tradicional. Sin procedencia no se sabe qué es y se corre el riesgo de mezclar pueblos distintos.",
         "Antes de mirar un símbolo, haz tres preguntas: ¿de qué pueblo es?, ¿en qué soporte está?, ¿quién lo muestra? Si no tienes la respuesta, no inventes: pregunta al educador o educadora tradicional o a la comunidad.",
     ],
-    vocab=[("símbolo", "signo con significado para un grupo"), ("soporte", "material donde está el símbolo"), ("procedencia", "de dónde viene algo"), ("fuente", "quién muestra o cuida el símbolo"), ("escritura ancestral", "forma de escritura de antiguos pueblos")],
+    vocab=[("símbolo", "signo con significado para un grupo"), ("soporte", "material donde está el símbolo"), ("procedencia", "de dónde viene algo"), ("fuente", "quién muestra o cuida el símbolo"), ("escritura ancestral", "signos con significado que los pueblos originarios usan desde hace mucho tiempo")],
     worked=[
         {"title": "Leer una ficha", "problem": FICHA + " ¿Cuál es el soporte?", "steps": ["Busco la palabra soporte.", "Dice: una vasija de greda.", "Ese es el material."], "answer": "Una vasija de greda"},
         {"title": "Falta el pueblo", "problem": FICHA + " ¿Qué pueblo hizo la vasija?", "steps": ["Busco el pueblo en la ficha.", "Dice que se pregunta al educador/a tradicional.", "No lo adivino."], "answer": "No lo sé; pregunto al educador/a tradicional"},
@@ -91,7 +91,7 @@ register(
     use="Aprenderé a describir la forma de un símbolo sin inventarle un significado. Sirve para observar con cuidado y respetar lo que significa para su pueblo.",
     prior=["Sé nombrar figuras como triángulo y círculo.", "Sé que un símbolo tiene procedencia."],
     explain=[
-        "Describir un símbolo es decir cómo es: qué figuras tiene, cuántas, cómo están puestas y de qué color son. Eso se puede ver con los ojos. Por ejemplo, en los símbolos de práctica △ ○ ○ ▢ hay un triángulo, dos círculos y un cuadrado.",
+        "Describir un símbolo es decir cómo es: qué figuras tiene, cuántas, cómo están puestas y de qué color son. Eso se puede ver con los ojos. Por ejemplo, en los símbolos de práctica △ ○ ○ □ hay un triángulo, dos círculos y un cuadrado.",
         "El significado es distinto de la forma. El significado de un símbolo real lo conoce su pueblo, y solo se aprende preguntando a quien lo sabe. Si inventas qué significa, puedes decir algo falso o irrespetuoso.",
         "Una buena descripción tiene dos partes: lo que veo, y una pregunta sobre lo que no puedo ver. Por ejemplo: «Veo un triángulo y dos círculos. ¿Qué significa para su pueblo?». Así observas sin inventar.",
     ],
@@ -131,13 +131,13 @@ register(
     },
     context=[ex("El educador tradicional muestra un símbolo y un compañero dice: «Eso significa un animal». Nadie lo sabe. ¿Qué podrías proponer?", "Describir y preguntarle al educador/a tradicional", "Se evita inventar.")],
     selfcheck=[
-        ex(SIMB + ". ¿Cuántos cuadrados hay?", "1", "Se ve un ▢."),
+        ex(SIMB + ". ¿Cuántos cuadrados hay?", "1", "Se ve un □."),
         ex("¿Se inventa el significado de un símbolo?", "No", "Se pregunta a quien sabe."),
         ex("¿Qué dos partes tiene una buena descripción?", "Lo que veo y una pregunta", "Describe y pregunta."),
     ],
     open_task=task(
         "Describe estos símbolos de práctica: " + SIMB + ". Escribe cuántas figuras hay y cómo se llaman. Dibuja una fila nueva con los mismos símbolos en otro orden. Luego escribe una pregunta que haga alguien curioso sin inventar el significado. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos de nuestro pueblo podemos describir y cuáles tienen un significado que debemos aprender de las personas mayores?",
-        "Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ ▢ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir?",
+        "Veo un triángulo, dos círculos y un cuadrado: cuatro figuras. Mi fila: ○ □ ○ △. Pregunta: ¿qué significan para su pueblo? Mi pregunta: ¿qué símbolos podemos describir?",
         ["describe las figuras", "no inventa significado", "pregunta al educador/a tradicional"],
         ["descripción", "fila dibujada", "pregunta escrita"],
         ["inventar significados", "olvidar figuras"],
@@ -198,7 +198,7 @@ register(
         ex("¿Quién resguarda un símbolo?", "Su pueblo", "Es de su cultura."),
     ],
     open_task=task(
-        "Imagina estas tres situaciones: 1) copiar un símbolo en tu cuaderno para aprender, 2) pintarlo en una polera para vender, 3) usarlo de decoración en una fiesta. Escribe para cada una si primero debes preguntar o no (la respuesta es preguntar en todas) y a quién preguntarías. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos podemos reproducir, cuáles no y en qué ocasiones?",
+        "Imagina estas tres situaciones: 1) copiar un símbolo en tu cuaderno para aprender, 2) pintarlo en una polera para vender, 3) usarlo de decoración en una fiesta. Escribe para cada una si primero debes preguntar o no y a quién preguntarías. Pregunta al educador/a tradicional o a la comunidad: ¿qué símbolos podemos reproducir, cuáles no y en qué ocasiones?",
         "En las tres situaciones primero pregunto, al educador/a tradicional. Mi pregunta: ¿qué símbolos podemos reproducir, cuáles no y cuándo?",
         ["reconoce que debe preguntar", "dice a quién", "pregunta al educador/a tradicional"],
         ["tres respuestas", "pregunta escrita"],
@@ -389,7 +389,7 @@ register(
     ],
     open_task=task(
         "Pide a un adulto que lea en voz alta: «Hola, hola, buen día. Hola a todos». Cuenta cuántas veces suena «hola» con marcas. Luego pídele que lo lea otra vez y busca otro foco: cuántas palabras tiene en total. Anota tus dos resultados. Pregunta al educador/a tradicional o a la comunidad: ¿qué audios de su pueblo podemos escuchar y quién los verifica?",
-        "Conté tres «hola» y cinco palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica?",
+        "Conté tres «hola» y siete palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica?",
         ["escucha con foco", "anota resultados", "pregunta al educador/a tradicional"],
         ["dos resultados", "pregunta escrita"],
         ["escuchar sin propósito", "repetir lo no verificado"],
@@ -422,7 +422,7 @@ register(
         "recovery": [
             ex(SIMB + ". ¿Cuántas figuras ves?", "4", "1 + 2 + 1 = 4."),
             ex("¿Es lo mismo ver un símbolo que copiarlo?", "No", "Ver no es reproducir."),
-            ex("¿Qué debes anotar de una imagen: pueblo y fuente?", "Sí", "Así conservas el contexto."),
+            ex("¿Debes anotar el pueblo y la fuente de una imagen?", "Sí", "Así conservas el contexto."),
         ],
         "understand": [
             ex("¿Por qué una imagen recortada pierde información?", "Porque se corta el contexto", "Falta el soporte y la fuente."),
@@ -439,7 +439,7 @@ register(
             ex("Una niña anota la fuente de una imagen. ¿Hizo bien?", "Sí", "Conserva el contexto."),
         ],
         "challenge": [
-            ex("Escribe tres datos de contexto que debe tener una imagen de un símbolo.", "Pueblo, soporte y fuente", "Son los datos clave."),
+            ex("Escribe tres datos de contexto que debe tener una imagen de un símbolo.", "Por ejemplo: pueblo, soporte y fuente (también vale la fecha)", "Son datos clave del contexto."),
             ex("Escribe una pregunta para el educador tradicional sobre una imagen sin información.", "Cualquier pregunta sobre su origen", "Debe preguntar su origen."),
         ],
     },
@@ -494,7 +494,7 @@ register(
         "apply": [
             ex("Hay 5 personas. 3 dicen sí a ser grabadas y 2 dicen no. ¿A cuántas puedes grabar?", "3", "Solo a las que dijeron sí."),
             ex("Pides permiso a 4 personas y todas dicen que no. ¿Cuántas grabaciones haces?", "0", "Ninguna, porque nadie aceptó."),
-            ex("Practicas 2 veces al día durante 3 días sin grabar. ¿Cuántas veces practicaste?", "6", "2 × 3 = 6."),
+            ex("Practicas 2 veces cada día durante 3 días sin grabar. ¿Cuántas veces practicaste en total?", "6", "2 + 2 + 2 = 6."),
         ],
         "reason": [
             ex("Un niño dice «si es solo para mí, puedo grabar sin avisar». ¿Tiene razón?", "No", "Igual falta el permiso."),
@@ -555,7 +555,7 @@ register(
         ],
         "apply": [
             ex("Ficha: recurso, audio; responsable, escuela; lugar, biblioteca. ¿Dónde está el recurso?", "En la biblioteca", "El lugar lo dice."),
-            ex("Tienes 3 recursos y anotas 3 datos de cada uno. ¿Cuántos datos anotas?", "9", "3 × 3 = 9."),
+            ex("Tienes 3 recursos y anotas 3 datos de cada uno. ¿Cuántos datos anotas en total?", "9", "3 + 3 + 3 = 9."),
             ex("Ordena: a) lugar, b) responsable, c) pueblo. Escribe las letras en el orden de la ficha: pueblo, responsable, lugar.", "c, b, a", "Así es el orden pedido."),
         ],
         "reason": [
@@ -563,7 +563,7 @@ register(
             ex("Una niña anota pueblo, responsable y lugar. ¿Hizo bien?", "Sí", "Dio crédito a la fuente."),
         ],
         "challenge": [
-            ex("Si 4 niños anotan cada uno 3 datos de procedencia, ¿cuántos datos hay?", "12", "4 × 3 = 12."),
+            ex("Si 4 niños anotan cada uno 3 datos de procedencia, ¿cuántos datos hay en total?", "12", "3 + 3 + 3 + 3 = 12."),
             ex("Escribe una ficha de procedencia de práctica de un libro de tu casa.", "Cualquier ficha con tres datos", "Debe tener datos."),
         ],
     },

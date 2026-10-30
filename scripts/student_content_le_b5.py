@@ -69,7 +69,7 @@ lesson(
     ],
     [
         E("Aviso: «La obra de teatro es el miércoles a las cinco en el patio. Entrada gratis.» ¿Cuánto cuesta entrar?", "Nada; es gratis", "El aviso dice que la entrada es gratis."),
-        E("Aviso: «La feria abre el sábado a las diez y cierra a las cuatro.» ¿Cuántas horas dura la feria?", "6", "De diez a cuatro de la tarde hay seis horas."),
+        E("Aviso: «La feria abre el sábado a las dos y cierra a las seis de la tarde.» ¿Cuántas horas dura la feria?", "4", "De las dos a las seis hay cuatro horas."),
     ],
     [E("Tu profesora anuncia: «Mañana hay prueba de lectura a las nueve. Traigan un lápiz.» ¿Qué debes recordar? A) A las nueve y traer lápiz B) Que hay recreo", "A) A las nueve y traer lápiz", "Son los datos del aviso.")],
     [
@@ -124,16 +124,16 @@ lesson(
         E("Al escuchar la descripción de la playa, ¿qué es visualizar?", "Imaginar con la mente lo que escucho", "Es hacer una película mental."),
     ],
     [
-        E(f"{DESCRIPCION} Completa: «Yo recuerdo que en el mar yo...» con una experiencia tuya (o inventada).", "Por ejemplo: Yo recuerdo que en el mar jugué con la arena", "Debe relacionar con una experiencia."),
+        E(f"{DESCRIPCION} Completa: «Yo recuerdo que en el mar...» con una experiencia tuya (o inventada).", "Por ejemplo: Yo recuerdo que en el mar jugué con la arena", "Debe relacionar con una experiencia."),
         E("Guion: «El gato era gris con una mancha blanca en la pata y dormía en el sofá rojo.» ¿De qué color era el sofá?", "Rojo", "El guion lo dice."),
         E("Guion: «El gato era gris con una mancha blanca en la pata y dormía en el sofá rojo.» ¿Dónde estaba la mancha blanca?", "En la pata", "El guion lo dice."),
     ],
     [
-        E(f"{DESCRIPCION} Pedro dice que había una tormenta. ¿Es correcto? Responde sí o no.", "No", "Había olas suaves y se pasaba bien."),
+        E(f"{DESCRIPCION} Pedro dice que había una tormenta. ¿Es correcto? Responde sí o no.", "No", "El guion habla de olas suaves y arena tibia, no de tormenta."),
         E("Guion: «El gato era gris con una mancha blanca en la pata y dormía en el sofá rojo.» ¿Qué dibujo corresponde? A) gato gris con pata blanca en sofá rojo B) gato negro en sofá azul", "A", "Coincide con el guion."),
     ],
     [
-        E("Guion: «En el patio hay un árbol alto. Sus hojas son verdes por fuera y claras por dentro. Un pájaro canta en la rama más alta.» ¿Dónde canta el pájaro?", "En la rama más alta", "El guion lo dice."),
+        E("Guion: «En el patio hay un árbol alto. Sus hojas son verdes arriba y más claras por debajo. Un pájaro canta en la rama más alta.» ¿Dónde canta el pájaro?", "En la rama más alta", "El guion lo dice."),
         E("Con el guion del árbol, ¿cuántos elementos distintos se nombran (árbol, hojas, pájaro, rama)?", "4", "Se cuentan cuatro cosas."),
     ],
     [E("Una abuela cuenta cómo era su pueblo: «Tenía una plaza con una fuente de piedra y bancas verdes». Tomás recuerda su plaza. ¿Qué hace? A) Conecta con su experiencia B) No escucha", "A) Conecta con su experiencia", "Relaciona lo que oye con su vida.")],
@@ -167,9 +167,9 @@ lesson(
     [
         "Seguir instrucciones orales es escuchar cada paso y hacerlo en el orden en que se dice. Palabras como «primero», «luego», «debajo» y «arriba» indican qué hacer y dónde. Escucha todos los pasos con atención.",
         "Si no recuerdas un paso, pide que lo repitan. Puedes ir haciendo cada paso mientras lo oyes. Después, comprueba que lo que hiciste coincide con lo que dijeron: ¿están todos los pasos?, ¿en el lugar correcto?",
-        "El orden importa. No es lo mismo dibujar los ojos antes del círculo que dentro del círculo. Una instrucción mal entendida cambia el resultado. Por eso conviene escuchar con calma.",
+        "El orden importa. No es lo mismo dibujar los ojos dentro del círculo que fuera de él. Una instrucción mal entendida cambia el resultado. Por eso conviene escuchar con calma.",
     ],
-    [("instrucción", "dicho que indica qué hacer"), ("paso", "cada acción que me piden"), ("orden", "qué va primero y qué va después"), ("arriba", "en la parte de más alto"), ("debajo", "más abajo de algo")],
+    [("instrucción", "dicho que indica qué hacer"), ("paso", "cada acción que me piden"), ("orden", "qué va primero y qué va después"), ("arriba", "en la parte más alta"), ("debajo", "más abajo de algo")],
     [
         ("Primer paso", f"{INSTR} ¿Qué haces primero?", ["Busco el primer paso.", "Tomar una hoja."], "Tomar una hoja"),
         ("Ubicación", f"{INSTR} ¿Dónde dibujas los ojos?", ["Busco «ojos».", "Dentro del círculo."], "Dentro del círculo"),
@@ -231,7 +231,7 @@ lesson(
     ["Sé escuchar una anécdota.", "Sé qué es una pregunta."],
     [
         "Cuando escuchas algo y quieres saber más, haces preguntas. Las palabras para preguntar son: ¿qué?, ¿quién?, ¿cuándo?, ¿dónde?, ¿por qué? y ¿cómo? Cada una busca un dato distinto.",
-        "Una buena pregunta se relaciona con lo que escuchaste y ayuda a saber algo nuevo. Si alguien cuenta que caminaba a la escuela, puedes preguntar «¿Qué veía en el camino?». Evita preguntas con respuesta de una sola palabra cuando quieres saber más.",
+        "Una buena pregunta se relaciona con lo que escuchaste y ayuda a saber algo nuevo. Si alguien cuenta que caminaba a la escuela, puedes preguntar «¿Qué veía en el camino?». Si quieres saber más, evita las preguntas que se responden solo con sí o no.",
         "También puedes preguntar para aclarar una duda: «¿Puede repetir lo de las botas?». Preguntar no es molestar: es una forma de aprender mejor y de mostrar interés.",
     ],
     [("pregunta", "lo que digo para saber algo"), ("duda", "algo que no entendí"), ("¿por qué?", "pregunta para saber la razón"), ("¿cómo?", "pregunta para saber la manera"), ("aclarar", "hacer más claro")],
@@ -264,7 +264,7 @@ lesson(
     ],
     [
         E("Guion: «Mi tía viajó en barco a una isla. Vio delfines.» Escribe una pregunta que ayude a saber más.", "Por ejemplo: ¿Cómo eran los delfines?", "Debe relacionarse con lo contado."),
-        E("Ordena para formar una pregunta: «por qué / la tortuga / lenta / es / ¿?».", "¿Por qué la tortuga es lenta?", "Se arma la pregunta."),
+        E("Ordena para formar una pregunta: «por qué / la tortuga / lenta / es / ¿?».", "¿Por qué la tortuga es lenta?", "Se arma la pregunta (también sirve: ¿Por qué es lenta la tortuga?)."),
     ],
     [E("Tu vecino cuenta que de niño ayudaba a su papá en la panadería y que se levantaba muy temprano. ¿Qué pregunta le haces para saber a qué hora se levantaba? A) ¿A qué hora te levantabas? B) ¿Te gusta el pan?", "A) ¿A qué hora te levantabas?", "Pregunta por el dato que quieres saber.")],
     [
@@ -315,7 +315,7 @@ lesson(
     ],
     [
         E("¿Una pregunta abierta se responde con una palabra? Responde sí o no.", "No", "Necesita una explicación."),
-        E(f"{PREG} ¿Cuál es una respuesta con razón? A) Porque no hacen ruido B) Para no hacerles daño", "B) Para no hacerles daño", "Es la razón que dice el guion."),
+        E(f"{PREG} ¿Cuál es la razón que dice el guion? A) Porque no hacen ruido B) Para no hacerles daño", "B) Para no hacerles daño", "Es la razón que dice el guion."),
         E("¿Qué palabra ayuda a dar una razón?", "Porque", "Introduce la explicación."),
     ],
     [

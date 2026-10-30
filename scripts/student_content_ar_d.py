@@ -44,7 +44,7 @@ register(
         "apply": [
             ex("Clasifica: «parece una mañana fría». ¿Es descripción o interpretación?", "Interpretación", "No se ve directamente, se imagina."),
             ex("Clasifica: «los botes son oscuros». ¿Es descripción o interpretación?", "Descripción", "El color oscuro se ve en los botes."),
-            arith("En la obra hay 3 botes oscuros y 2 siluetas de personas pequeñas. ¿Cuántas figuras oscuras describes?", "3 + 2", "Se suman botes y siluetas."),
+            arith("En una pintura de un puerto hay 3 botes oscuros y 2 pájaros oscuros. ¿Cuántas figuras oscuras describes?", "3 + 2", "Se suman botes y pájaros."),
         ],
         "reason": [
             ex("Un niño dice «la obra me da pena» sin decir qué ve. ¿Qué le falta para describir bien?", "Decir qué ve en la obra", "Falta apoyar la idea en algo visible."),
@@ -147,7 +147,7 @@ register(
     ],
     vocab=[("interpretación", "lo que cada persona entiende o imagina de una obra"), ("distinto", "que no es igual"), ("apoyar", "dar una razón basada en lo que se ve"), ("respeto", "escuchar y valorar a los demás aunque piensen distinto"), ("figura", "persona o forma dibujada en una obra")],
     worked=[
-        {"title": "Dos interpretaciones válidas", "problem": "Ana ve cansancio porque la figura está sentada con la cabeza apoyada. Beto ve fuerza porque el pie es enorme. ¿Quién tiene razón?", "steps": ["Reviso si cada uno nombra algo que se ve.", "Ana nombra la figura sentada y apoyada.", "Beto nombra el pie enorme.", "Las dos se apoyan en la obra."], "answer": "Las dos son válidas"},
+        {"title": "Dos interpretaciones válidas", "problem": "Ana ve cansancio porque la figura está sentada y apoyada. Beto ve fuerza porque el pie es enorme. ¿Quién tiene razón?", "steps": ["Reviso si cada uno nombra algo que se ve.", "Ana nombra la figura sentada y apoyada.", "Beto nombra el pie enorme.", "Las dos se apoyan en la obra."], "answer": "Las dos son válidas"},
         {"title": "Una idea sin apoyo", "problem": "Carla dice «es una máquina del tiempo» y no nombra nada que se vea. ¿Qué le pides?", "steps": ["Pregunto: ¿qué ves que te hace pensar eso?", "Si nombra un detalle visible, su idea tiene apoyo.", "Si no lo hace, falta una razón."], "answer": "Pedirle que diga qué ve que la hace pensar así"},
     ],
     mistakes=[
@@ -228,8 +228,8 @@ register(
             ex("¿Qué debe acompañar a una impresión? A: una razón visible. B: un precio.", "A", "La razón la hace comprensible."),
         ],
         "apply": [
-            arith("En la galería hay 4 obras y cada una tiene 2 colores principales. ¿Cuántos colores principales hay en total?", "4 * 2", "Son cuatro obras con dos colores cada una."),
-            ex("Ordena de más antigua a más reciente: Matisse 1953, Van Gogh 1889, Tarsila do Amaral 1928.", "Van Gogh, Tarsila do Amaral, Matisse", "Los años en orden son 1889, 1928 y 1953."),
+            arith("En la galería hay 4 obras y cada una tiene 2 colores principales. ¿Cuántos colores principales hay en total?", "2 + 2 + 2 + 2", "Son cuatro obras con dos colores cada una: se suma 2 cuatro veces."),
+            ex("Une cada artista con su rasgo y escribe las letras en orden: 1 Mondrian, 2 Van Gogh, 3 Tarsila do Amaral. A pie enorme, B líneas negras rectas, C cielo con remolinos.", "B, C, A", "Mondrian tiene líneas rectas negras, Van Gogh un cielo con remolinos y Tarsila una figura con un pie enorme."),
             ex("Completa: «La noche estrellada y El caracol se parecen en que tienen ___».", "formas que giran", "Remolinos en una y espiral en la otra."),
         ],
         "reason": [
@@ -238,7 +238,7 @@ register(
         ],
         "challenge": [
             ex("Completa: «Abaporu y La noche estrellada se diferencian en que una muestra ___ y la otra ___».", "una figura con un pie enorme; un cielo con remolinos", "Cada obra tiene un rasgo distinto."),
-            arith("Comparaste 3 pares de obras y para cada par escribiste 2 semejanzas. ¿Cuántas semejanzas escribiste?", "3 * 2", "Son tres pares con dos semejanzas cada uno."),
+            arith("Comparaste 3 pares de obras y para cada par escribiste 2 semejanzas. ¿Cuántas semejanzas escribiste?", "2 + 2 + 2", "Son tres pares con dos semejanzas cada uno: se suma 2 tres veces."),
         ],
     },
     context=[ex("En tu escuela montarán una galería con cuatro cuadros. Un niño quiere explicar su impresión con una canción inventada y otro con un dibujo. ¿Son medios válidos?", "Sí, si dicen qué ven que los hace sentir así", "Cada medio sirve si se apoya en lo visible.")],
@@ -312,7 +312,7 @@ register(
     ],
     open_task=task(
         "Mira estos dos trabajos descritos: (A) un cerro hecho con líneas gruesas y marrones, con pasto verde; (B) un cerro hecho con puntitos pequeños de colores fríos. Di cuál prefieres y completa: «Prefiero… porque tiene… (elemento visual)». Escribe también una cosa que te gusta del que no elegiste.",
-        "Prefiero A porque tiene líneas gruesas marrones. Del B me gusta que los puntitos fríos dan sensación de lejanía.",
+        "Prefiero A porque tiene líneas gruesas marrones. Del B me gusta que tiene muchos puntitos de colores fríos.",
         ["elige un trabajo", "da una razón visual", "reconoce algo del otro con respeto"],
         ["frase de preferencia", "frase sobre el otro trabajo"],
         ["decir solo me gusta", "criticar sin respeto"],
@@ -355,7 +355,7 @@ register(
         "apply": [
             ex("Ordena para contar: A al final pegué, B después corté, C primero rasgué.", "C, B, A", "Primero, después y al final."),
             ex("Completa: «Elegí azul porque quería mostrar ___». (Es un trabajo sobre el mar).", "el mar", "Azul se relaciona con el agua."),
-            arith("En tu trabajo hiciste 3 pruebas y cambiaste 1 cosa. ¿Cuántas pruebas conservaste sin cambiar?", "3 - 1", "Se resta la que cambiaste."),
+            arith("Revisaste 3 partes de tu trabajo y cambiaste 1. ¿Cuántas partes conservaste sin cambiar?", "3 - 1", "Se resta la parte que cambiaste."),
         ],
         "reason": [
             ex("Sara dice «yo no cambié nada porque me quedó perfecto» sin haber hecho pruebas. ¿Qué le sugieres?", "Mirar su obra de nuevo y buscar qué podría mejorar", "Siempre se puede observar y ajustar."),
@@ -417,7 +417,7 @@ register(
         "apply": [
             ex("Ordena: A ¿Qué pasaría si agregas una luna?, B Me gustaron los colores, C Veo muchas estrellas pequeñas.", "B, C, A", "Primero lo que me gustó, luego lo que veo y al final la idea."),
             ex("Cambia a respetuoso: «Tu dibujo es horrible». Escribe una frase mejor.", "Me gustaron los colores y me pregunto qué pasaría si agregas más detalles", "Reemplaza la crítica por algo que gusta y una idea."),
-            arith("En una exposición de aula hay 6 dibujos y haces una observación a cada uno. ¿Cuántas observaciones haces?", "6 * 1", "Una observación por cada dibujo."),
+            arith("En una exposición de aula hay 6 dibujos y ya hiciste observaciones a 4. ¿A cuántos dibujos te faltan?", "6 - 4", "Se restan los dibujos que ya miraste."),
         ],
         "reason": [
             ex("Un compañero te dice: «no me gustó tu dibujo». ¿Qué le preguntas para entender?", "¿Qué viste?", "Pide una razón visual."),
@@ -425,7 +425,7 @@ register(
         ],
         "challenge": [
             ex("Escribe una observación respetuosa para este dibujo: un tren amarillo con muchas ventanas pequeñas y humo gris.", "Me gustó el tren amarillo, veo muchas ventanas pequeñas, ¿qué pasaría si el humo fuera más grande?", "Tiene las tres partes."),
-            arith("Una persona recibe 3 observaciones de cada uno de 4 compañeros. ¿Cuántas observaciones recibe?", "3 * 4", "Son cuatro compañeros con tres cada uno."),
+            arith("Una persona recibe 3 observaciones de cada uno de 4 compañeros. ¿Cuántas observaciones recibe?", "3 + 3 + 3 + 3", "Son cuatro compañeros con tres cada uno: se suma 3 cuatro veces."),
         ],
     },
     context=[ex("En el taller, tu compañera te muestra un dibujo de una montaña con la cumbre blanca. Tú ves que las rocas están hechas con líneas quebradas. Escribe una observación en tres partes.", "Me gustó la cumbre blanca, veo líneas quebradas en las rocas, ¿qué pasaría si agregas un cielo?", "Combina agrado, observación y pregunta.")],
@@ -486,7 +486,7 @@ register(
             ex("Una tabla muestra A 5, B 5, C 5. ¿Qué dice sobre las preferencias del grupo?", "Que están repartidas por igual", "Los tres trabajos tienen el mismo número."),
         ],
         "challenge": [
-            arith("Hay 3 grupos de 4 personas y todos prefieren el azul. ¿Cuántas personas prefieren el azul?", "3 * 4", "Son tres grupos de cuatro."),
+            arith("Hay 3 grupos de 4 personas y todos prefieren el azul. ¿Cuántas personas prefieren el azul?", "4 + 4 + 4", "Son tres grupos de cuatro: se suma 4 tres veces."),
             ex("Escribe una frase sobre la tabla: A 7, B 3. Sin jerarquizar.", "Siete personas prefirieron A y tres prefirieron B", "Cuenta sin decir quién es mejor."),
         ],
     },

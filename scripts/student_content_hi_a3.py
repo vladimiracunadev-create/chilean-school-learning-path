@@ -73,8 +73,8 @@ register(
     use="Aprenderé a describir lo que veo en la bandera y el escudo sin inventar significados. Sirve para hablar con exactitud de los símbolos.",
     prior=["Sé nombrar los símbolos patrios.", "Sé describir colores y formas."],
     explain=[
-        "Para describir un símbolo, primero decimos lo que vemos: colores, formas, cuántos hay y dónde están. Eso son observaciones y se pueden comprobar mirando. Por ejemplo: «La estrella de la bandera es blanca y tiene cinco puntas».",
-        "Después hay significados: lo que ese elemento quiere decir. Muchos significados se enseñan en la escuela: por ejemplo, tradicionalmente se dice que el azul recuerda el cielo y el mar, y que el blanco recuerda la nieve de la cordillera de los Andes. Pero esos significados no se ven en el dibujo; se aprenden de una fuente.",
+        "Para describir un símbolo, primero decimos lo que vemos: colores, formas, cuántos hay y dónde están. Eso son observaciones y se pueden comprobar mirando. Por ejemplo: «La estrella de la bandera es blanca y tiene cinco puntas». Una opinión es lo que alguien piensa o siente, como «es la más linda»; no se puede comprobar mirando.",
+        "Después hay significados: lo que ese elemento quiere decir. Muchos significados se enseñan en la escuela: por ejemplo, tradicionalmente se dice que el azul recuerda el cielo, y que el blanco recuerda la nieve de la cordillera de los Andes. Pero esos significados no se ven en el dibujo; se aprenden de una fuente.",
         "No inventes significados. Si no sabes qué quiere decir un color, di «no lo sé» y pregunta a un adulto o busca en un libro. En la bandera se ve una estrella; el escudo muestra un cóndor y un huemul, dos animales que viven en el territorio de Chile.",
     ],
     vocab=[("observar", "mirar con atención y decir lo que se ve"), ("describir", "decir cómo es algo"), ("significado", "lo que algo quiere decir"), ("inventar", "decir algo sin saber si es cierto"), ("fuente", "libro o persona de donde viene la información")],
@@ -100,7 +100,7 @@ register(
         "apply": [
             ex("Clasifica como observación u opinión: «La bandera tiene tres colores».", "observación", "Se cuenta mirando la bandera."),
             ex("Clasifica como observación u opinión: «La bandera es la más linda del mundo».", "opinión", "Es lo que alguien piensa, no se comprueba."),
-            ex("Clasifica como observación o significado: «El cóndor y el huemul son animales de Chile».", "observación", "Se puede comprobar con una fuente: viven en el territorio de Chile."),
+            ex("Clasifica como observación o significado: «El escudo tiene un cóndor y un huemul».", "observación", "Se puede comprobar mirando el escudo."),
         ],
         "reason": [
             ex("Una niña dice: «El rojo de la bandera significa que todos somos valientes». Nadie le enseñó eso. ¿Qué debería decir?", "Que no lo sabe y que lo pregunta a una fuente", "No se deben inventar significados."),
@@ -129,7 +129,7 @@ register(
     prior=["Sé leer fechas con día, mes y año.", "Sé que hay días especiales en el año."],
     explain=[
         "Una conmemoración es un día en que recordamos un hecho importante. Tres conmemoraciones de Chile son: las Fiestas Patrias del 18 y 19 de septiembre, el Día del Descubrimiento de dos mundos o Encuentro de Dos Mundos el 12 de octubre, y el Combate Naval de Iquique el 21 de mayo.",
-        "El 18 de septiembre de 1810 se formó en Santiago la Primera Junta Nacional de Gobierno, un hecho que se recuerda como un paso hacia la independencia. El 12 de octubre de 1492 el navegante Cristóbal Colón llegó a una isla de América. El 21 de mayo de 1879, frente a Iquique, la corbeta chilena Esmeralda, al mando de Arturo Prat, fue atacada por el Huáscar, un barco peruano, durante la Guerra del Pacífico.",
+        "El 18 de septiembre de 1810 se formó en Santiago la Primera Junta Nacional de Gobierno. Se recuerda como un paso hacia la independencia. El 12 de octubre de 1492 el navegante Cristóbal Colón llegó a una isla de América. El 21 de mayo de 1879, frente a Iquique, la corbeta chilena Esmeralda (un tipo de barco), al mando de Arturo Prat, fue atacada por el Huáscar, un barco peruano. Fue durante la Guerra del Pacífico.",
         "Una cronología simple ordena esos hechos por fecha: 12 de octubre de 1492, 18 de septiembre de 1810 y 21 de mayo de 1879. Un mismo hecho se puede mirar desde distintas perspectivas: los pueblos que ya vivían en América, los europeos que llegaron, y las personas de otros países cuentan la historia de distinta manera. Aprender a escuchar varias voces nos ayuda a entender mejor.",
     ],
     vocab=[("conmemoración", "día en que se recuerda un hecho importante"), ("cronología", "hechos ordenados por fecha"), ("perspectiva", "forma en que una persona mira un hecho"), ("Fiestas Patrias", "conmemoración de septiembre"), ("combate", "lucha entre dos grupos")],
@@ -153,8 +153,8 @@ register(
             ex("¿Qué es una perspectiva?", "La forma en que una persona mira un hecho", "Dos personas pueden verlo distinto."),
         ],
         "apply": [
-            arith("¿Cuántos años pasaron entre 1810 y 1879?", "1879-1810", "Se resta el año de 1810 al de 1879."),
-            arith("¿Cuántos años pasaron entre 1492 y 1810?", "1810-1492", "Se resta el año de 1492 al de 1810."),
+            ex("¿Qué año es mayor: 1810 o 1879?", "1879", "1879 viene después de 1810 en la línea de tiempo."),
+            ex("¿Qué hecho ocurrió primero: la llegada de Colón (1492) o la Primera Junta (1810)?", "la llegada de Colón", "1492 es un año menor que 1810, por eso fue antes."),
             ex("Ordena de más antiguo a más nuevo: Combate Naval de Iquique, Primera Junta (1810), llegada de Colón (1492).", "llegada de Colón, Primera Junta, Combate Naval de Iquique", "Se ordenan por años: 1492, 1810 y 1879."),
         ],
         "reason": [
@@ -210,14 +210,14 @@ register(
         "apply": [
             ex("Lista de una fiesta: bailar cueca, cantar, hacer empanadas, colgar banderas, jugar rayuela. ¿Cuántas actividades hay?", "5", "Son cinco actividades."),
             ex("Beto cocina pastel de choclo y Ana arregla la ramada. ¿Está mal que un niño cocine y una niña arregle?", "No", "Cualquier persona puede hacer cualquier tarea."),
-            ex("En un acto, 3 niñas y 2 niños bailan cueca. ¿Cuántas personas bailan en total?", "5", "3 + 2 = 5."),
+            arith("En un acto, 3 niñas y 2 niños bailan cueca. ¿Cuántas personas bailan en total?", "3+2", "Se suman las niñas y los niños."),
         ],
         "reason": [
             ex("Nico dice: «En el 21 de mayo solo participaron hombres porque en el barco no había mujeres». ¿Qué le faltó considerar?", "Que otras personas también participaron en la guerra y en la memoria", "La historia incluye a quienes ayudaron en tierra y en la sociedad."),
             ex("Una profesora cuenta una historia en que no aparecen mujeres. ¿Qué pregunta puedes hacer?", "¿Participaron mujeres y qué hicieron?", "Así se busca a quienes casi no se nombran."),
         ],
         "challenge": [
-            ex("En una fiesta, 4 personas cocinan, 3 bailan y 2 cantan. Nadie hace dos cosas. ¿Cuántas personas hay en total?", "9", "4 + 3 + 2 = 9."),
+            arith("En una fiesta, 4 personas cocinan, 3 bailan y 2 cantan. Nadie hace dos cosas. ¿Cuántas personas hay en total?", "4+3+2", "Se suman los tres grupos."),
             ex("Dos amigos cuentan lo que hicieron en la fiesta: Lola colgó banderas y Mateo hizo empanadas. ¿Quién cocinó?", "Mateo", "Cocinar es hacer las empanadas."),
         ],
     },
@@ -276,7 +276,7 @@ register(
             ex("En un curso hay 10 niños: 6 comen empanadas en las fiestas, 4 comen pastel de choclo, y todos cantan el himno. ¿Cuántos comparten el himno?", "10", "Todos lo cantan aunque coman distinto."),
         ],
     },
-    context=[ex("Un grupo de niños hace una guirnalda con banderas pequeñas para el 18 de septiembre, cada uno decorada a su manera. ¿Qué muestra la guirnalda: unidad, diversidad o las dos cosas?", "las dos cosas", "Hay una bandera compartida y adornos distintos.")],
+    context=[ex("Un grupo de niños hace una guirnalda con banderas pequeñas para el 18 de septiembre, cada una decorada a su manera. ¿Qué muestra la guirnalda: unidad, diversidad o las dos cosas?", "las dos cosas", "Hay una bandera compartida y adornos distintos.")],
     selfcheck=[
         ex("¿Qué símbolo une a un niño del norte y a uno del sur?", "la bandera", "Es la misma bandera para todos."),
         ex("¿La diversidad impide la unidad?", "No", "Podemos ser distintos y estar unidos."),
@@ -334,7 +334,7 @@ register(
     },
     context=[ex("En el cumpleaños de Sofía hay empanadas, un baile de cueca y un juego de trompos. ¿Cuántas expresiones culturales distintas hay?", "3", "Una comida, un baile y un juego.")],
     selfcheck=[
-        ex("¿Cuál es la flor nacional de Chile?", "el copihue", "Así se conoce desde hace mucho tiempo."),
+        ex("¿Cuál es la flor nacional de Chile?", "el copihue", "Lo vimos en la clase: el copihue es la flor nacional."),
         ex("¿Cuál es el baile nacional de Chile?", "la cueca", "Se baila en Fiestas Patrias."),
         ex("¿Qué es la cultura?", "La forma de vivir de un grupo de personas", "Incluye comidas, música y fiestas."),
     ],
@@ -376,7 +376,7 @@ register(
         "apply": [
             ex("Une cada fiesta con su lugar: La Tirana, San Pedro. Lugares: norte de Chile (pueblo de La Tirana), caletas de pescadores.", "La Tirana: norte de Chile; San Pedro: caletas de pescadores", "Cada fiesta ocurre en su propio lugar."),
             ex("Ordena por fecha en el año: San Pedro (29 de junio), La Tirana (16 de julio).", "San Pedro, La Tirana", "Junio viene antes que julio."),
-            ex("¿Cuántos días hay entre el 29 de junio y el 16 de julio? Junio tiene 30 días.", "17", "Del 29 al 30 de junio es 1 día; del 30 de junio al 16 de julio son 16 más; 1 + 16 = 17."),
+            arith("¿Cuántos días hay entre el 29 de junio y el 16 de julio? Junio tiene 30 días: del 29 al 30 de junio es 1 día y del 30 de junio al 16 de julio son 16 días.", "1+16", "Se suman los días de junio y los de julio."),
         ],
         "reason": [
             ex("Nico dice que la Fiesta de La Tirana es en el sur de Chile. ¿Es correcto?", "No; es en el norte", "La Tirana está en la Región de Tarapacá."),
@@ -405,7 +405,7 @@ register(
     prior=["Sé nombrar fiestas de Chile.", "Sé que Chile tiene norte, centro y sur."],
     explain=[
         "Una expresión es local cuando se vive en un lugar pequeño, como un pueblo o una región. Es nacional cuando se conoce en todo el país. Una misma expresión puede ser local en su origen y volverse conocida en todo Chile.",
-        "Imagina un mapa de Chile largo y delgado. En el norte, en Tarapacá, está La Tirana. En el centro están la vendimia, el rodeo y la cueca. En el sur, en la isla de Chiloé, hay comidas como el curanto y las mingas, donde vecinos se ayudan a mover una casa o hacer un trabajo. En Isla de Pascua o Rapa Nui, en febrero, se celebra la Tapati Rapa Nui.",
+        "Imagina un mapa de Chile largo y delgado. En el norte, en Tarapacá, está La Tirana. En el centro están la vendimia, el rodeo y la cueca. En el sur, en la isla de Chiloé, hay comidas como el curanto y también mingas, donde los vecinos se ayudan a mover una casa o a hacer un trabajo. En Isla de Pascua o Rapa Nui, en febrero, se celebra la Tapati Rapa Nui.",
         "Al comparar dos zonas, buscamos semejanzas, como que ambas tienen fiestas con música y comida, y diferencias, como el clima y los alimentos. Comparar nos enseña que Chile es un país diverso.",
     ],
     vocab=[("local", "de un lugar pequeño"), ("nacional", "de todo el país"), ("zona", "parte de un territorio"), ("Rapa Nui", "isla en el océano Pacífico, parte de Chile"), ("minga", "trabajo comunitario en Chiloé donde los vecinos se ayudan")],
@@ -515,7 +515,7 @@ register(
     prior=["Sé nombrar expresiones culturales.", "Sé citar la fuente."],
     explain=[
         "Una muestra cultural es una presentación de expresiones culturales: una comida, un baile, un juego, una canción. Cuando una expresión nos hace sentir parte de un grupo, decimos que da sentido de pertenencia. Por ejemplo, bailar cueca en Fiestas Patrias hace que nos sintamos parte de Chile.",
-        "Para presentar con respeto: pide permiso a quienes la practican, dice de dónde viene la expresión, cuéntala tal como te la explicaron y no uses disfraces que se burlen de otros. Si la expresión es de un pueblo originario o de una comunidad, quien la enseña de verdad es esa comunidad.",
+        "Para presentar con respeto: pide permiso a quienes la practican, di de dónde viene la expresión, cuéntala tal como te la explicaron y no uses disfraces que se burlen de otros. Si la expresión es de un pueblo originario o de una comunidad, quien la enseña de verdad es esa comunidad.",
         "Al terminar la muestra, explica por qué esa expresión es importante: ¿qué sentimos al verla?, ¿a quiénes une?, ¿qué nos enseña? Así tu presentación no es solo un adorno: cuenta quiénes la viven y por qué.",
     ],
     vocab=[("muestra cultural", "presentación de expresiones culturales"), ("pertenencia", "sentirse parte de un grupo"), ("respeto", "tratar bien a otros y a sus costumbres"), ("burla", "reírse de otros para herirlos"), ("comunidad", "grupo de personas con algo en común")],
@@ -548,8 +548,8 @@ register(
             ex("¿Por qué una muestra cultural no es un simple adorno?", "Porque cuenta quiénes viven esa expresión y por qué es importante", "Tiene sentido para una comunidad."),
         ],
         "challenge": [
-            ex("En una muestra hay 3 comidas, 2 juegos y 1 baile. ¿Cuántas expresiones se presentan?", "6", "3 + 2 + 1 = 6."),
-            ex("En la muestra, 4 niños presentan una comida y 2 un baile. Nadie presenta dos cosas. ¿Cuántos niños presentan?", "6", "4 + 2 = 6."),
+            arith("En una muestra hay 3 comidas, 2 juegos y 1 baile. ¿Cuántas expresiones se presentan?", "3+2+1", "Se suman las comidas, los juegos y el baile."),
+            arith("En la muestra, 4 niños presentan una comida y 2 un baile. Nadie presenta dos cosas. ¿Cuántos niños presentan?", "4+2", "Se suman los dos grupos."),
         ],
     },
     context=[ex("En la muestra, Lola enseña el juego del trompo y dice: «Mi abuelo me enseñó este juego; es muy conocido en muchas partes de Chile». ¿Qué hizo bien Lola?", "Citó de dónde viene lo que sabe", "Dijo quién se lo enseñó.")],

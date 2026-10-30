@@ -51,7 +51,7 @@ register(
             ex("Tomás dice: «Si miro una vez ya lo sé todo, no necesito mirar más». ¿Tiene razón?", "No", "Al mirar de nuevo se descubren detalles que se habían escapado."),
         ],
         "challenge": [
-            arith("Una piña de pino tiene 3 filas de escamas con 4 escamas en cada fila. Si dibujas todas, ¿cuántas escamas dibujas?", "3 * 4", "Son tres filas iguales de cuatro."),
+            arith("Una piña de pino tiene 3 filas de escamas con 4 escamas en cada fila. Si dibujas todas, ¿cuántas escamas dibujas?", "4 + 4 + 4", "Son tres filas iguales de cuatro: se suma tres veces 4."),
             ex("Cuenta los detalles de esta frase: «El trozo de corteza es áspero, café oscuro, tiene grietas largas y un hongo pequeño». ¿Cuántos detalles se nombran?", "4", "Se nombran áspero, café oscuro, grietas largas y un hongo pequeño."),
         ],
     },
@@ -81,7 +81,7 @@ register(
     prior=["Sé observar las formas y detalles de un objeto.", "Sé dibujar formas simples."],
     explain=[
         "Un paisaje tiene muchas cosas, pero un dibujo no puede mostrarlas todas. El artista elige un foco: lo más importante, lo que quiere que miremos primero. Puede ser un árbol, una oveja o un río.",
-        "Para elegir, usa un visor: un marco con un hueco que mueves frente al paisaje. Lo que queda dentro del hueco es lo que dibujarás. Eso se llama encuadrar. Si acercas el visor, ves menos cosas, pero más grandes.",
+        "Para elegir, usa un visor: un marco con un hueco que mueves frente al paisaje. Lo que queda dentro del hueco es lo que dibujarás. Eso se llama encuadrar. Si alejas el visor de tu ojo, estirando el brazo, ves menos cosas, pero más grandes.",
         "Después decides dónde poner cada cosa. Lo que está cerca, en el primer plano, se dibuja abajo y más grande. Lo que está lejos, en el fondo, se dibuja arriba y más pequeño. Colocar así las cosas se llama componer.",
     ],
     vocab=[("foco", "lo más importante del dibujo"), ("encuadrar", "elegir con un marco qué parte se va a dibujar"), ("primer plano", "lo que está más cerca y se dibuja abajo y grande"), ("fondo", "lo que está lejos y se dibuja arriba y pequeño"), ("componer", "decidir dónde se pone cada cosa en la hoja")],
@@ -101,7 +101,7 @@ register(
         ],
         "understand": [
             ex("¿Qué es el foco de un dibujo? A: el color más oscuro. B: lo más importante que se quiere mostrar. C: el borde de la hoja.", "B", "El foco es lo que el artista quiere que miremos primero."),
-            ex("Si acercas el visor al paisaje, ¿ves más cosas o menos cosas?", "Menos cosas", "El hueco abarca una parte más pequeña."),
+            ex("Si alejas el visor de tu ojo, estirando el brazo, ¿ves más cosas o menos cosas por el hueco?", "Menos cosas", "El hueco abarca una parte más pequeña del paisaje."),
             ex("¿Para qué sirve componer un dibujo? A: para decidir dónde poner cada cosa. B: para borrar. C: para pintar rápido.", "A", "Componer es ordenar las cosas en la hoja."),
         ],
         "apply": [
@@ -233,14 +233,14 @@ register(
         "apply": [
             ex("Mira la descripción: «lanas rojas, amarillas y verdes sobre tela de saco café». ¿Cuántos colores de lana se nombran?", "3", "Se nombran rojo, amarillo y verde."),
             ex("Una obra tiene un paquete envuelto en papel café con un cordel, pintado con muchos pliegues. ¿Qué decisión de detalle tomó el artista?", "Pintar los pliegues del papel", "Los pliegues son un detalle que se ve en la obra."),
-            arith("Violeta Parra nació en 1917 y murió en 1967. ¿Cuántos años pasaron entre esas dos fechas?", "1967 - 1917", "Se resta el año de nacimiento al año de muerte."),
+            ex("Una arpillera tiene 2 casas, 3 árboles y 1 sol bordados con lana. ¿Cuántas figuras bordadas hay?", "6", "Se juntan 2, 3 y 1: son 6 figuras."),
         ],
         "reason": [
             ex("Un amigo dice: «Matta pintó mal porque no hay casas ni árboles». ¿Es buena razón?", "No", "El artista decidió mostrar formas y espacio, no objetos conocidos."),
             ex("Quieres tomar una idea de Violeta Parra para tu obra. ¿Qué tomas: A usar lana de colores sobre un fondo de tela o papel grueso, o B copiar su obra tal cual?", "A", "Usar un material es una idea propia; copiar la obra no."),
         ],
         "challenge": [
-            arith("Matta nació en 1911. ¿Cuántos años hay entre su nacimiento y la exposición de Violeta Parra en 1964?", "1964 - 1911", "Se resta 1911 a 1964."),
+            ex("Una pintura de Matta tiene 5 formas flotantes y 4 líneas que cruzan. ¿Cuántas cosas ves en total?", "9", "Se juntan 5 y 4: son 9."),
             ex("Escribe una decisión de Matta y una de Bravo que sean distintas.", "Matta: formas que flotan; Bravo: objetos muy detallados", "Una decisión es de movimiento y la otra de detalle realista."),
         ],
     },
@@ -269,13 +269,13 @@ register(
     use="Aprenderé a comparar cómo distintos artistas de América Latina y de otros lugares muestran lo que ven. Sirve para ver que hay muchas maneras de representar el mismo mundo.",
     prior=["Sé que los artistas toman decisiones.", "Sé nombrar colores y formas."],
     explain=[
-        "El arte de América Latina tiene muchas voces. Joaquín Torres García, de Uruguay, dibujó en 1943 un mapa de Sudamérica con el sur arriba y escribió que el norte es el sur. Tarsila do Amaral, de Brasil, pintó en 1928 una figura con un pie enorme, cabeza pequeña y un cactus. Fernando Botero, de Colombia, pintó personas y animales de formas redondas y voluminosas.",
+        "El arte de América Latina tiene muchas voces. Joaquín Torres García, de Uruguay, dibujó en 1943 un mapa de Sudamérica con el sur arriba, y dijo que nuestro norte es el sur. Tarsila do Amaral, de Brasil, pintó en 1928 una obra llamada Abaporu: una figura con un pie enorme, cabeza pequeña y un cactus. Fernando Botero, de Colombia, pintó personas y animales de formas redondas y voluminosas.",
         "También hay arte de otros lugares del mundo. Vincent van Gogh, de los Países Bajos, pintó en 1889 La noche estrellada, con un cielo azul lleno de remolinos amarillos. Claude Monet, de Francia, pintó en 1872 Impresión, sol naciente, con un sol naranja entre neblina azul y gris.",
         "Cada artista representa de otra manera: unos exageran las formas, otros las simplifican, otros usan pinceladas visibles. Comparar es buscar parecidos y diferencias. No hay una forma correcta de mostrar el mundo, sino muchas formas posibles.",
     ],
     vocab=[("representar", "mostrar algo con dibujo, pintura u otro medio"), ("comparar", "buscar en qué dos cosas se parecen y en qué se diferencian"), ("exagerar", "hacer algo más grande o más fuerte de lo que es"), ("simplificar", "dejar solo las formas más importantes"), ("pincelada", "huella que deja el pincel con pintura")],
     worked=[
-        {"title": "Comparar dos obras", "problem": "Botero pinta figuras redondas y voluminosas. Torres García dibuja un mapa con líneas rectas y el sur arriba. ¿En qué se diferencian sus formas?", "steps": ["Botero usa formas redondas.", "Torres García usa líneas rectas y formas geométricas.", "Redondo y recto es la diferencia."], "answer": "Botero usa formas redondas; Torres García, formas rectas"},
+        {"title": "Comparar dos obras", "problem": "Botero pinta figuras redondas y voluminosas. Torres García dibuja un mapa con el sur arriba. ¿En qué se diferencian sus obras?", "steps": ["Botero muestra personas y animales de formas redondas.", "Torres García muestra un mapa de América dado vuelta.", "Una obra muestra volumen y la otra un mapa: son distintas."], "answer": "Botero muestra figuras redondas; Torres García, un mapa con el sur arriba"},
         {"title": "Reconocer cómo se representa", "problem": "En La noche estrellada hay un cielo azul con remolinos amarillos. ¿Van Gogh representó el cielo de forma quieta o con movimiento?", "steps": ["Miro los remolinos: son curvos y marcan giros.", "Giros dan idea de movimiento.", "El cielo parece moverse."], "answer": "Con movimiento"},
     ],
     mistakes=[
@@ -294,9 +294,9 @@ register(
             ex("¿Qué significa comparar dos obras? A: elegir la más cara. B: buscar parecidos y diferencias. C: copiar la más antigua.", "B", "Comparar es observar semejanzas y diferencias."),
         ],
         "apply": [
-            arith("Tarsila pintó Abaporu en 1928 y Van Gogh La noche estrellada en 1889. ¿Cuántos años separan las dos obras?", "1928 - 1889", "Se resta el año más antiguo del más reciente."),
+            ex("Según la clase, en Abaporu hay un pie enorme, una cabeza pequeña y un cactus. ¿Cuántas partes se nombran?", "3", "Se nombran el pie, la cabeza y el cactus."),
             ex("Monet pintó en Impresión, sol naciente un sol de color naranja entre neblina azul y gris. ¿Cuántos colores se nombran?", "3", "Se nombran naranja, azul y gris."),
-            ex("Ordena de más antigua a más reciente: A Monet, 1872. B Torres García, 1943. C Van Gogh, 1889.", "A, C, B", "Los años en orden son 1872, 1889 y 1943."),
+            ex("Ordena de la figura más pequeña a la más grande: A un pie enorme, B una cabeza pequeña, C un cuerpo mediano.", "B, C, A", "La cabeza es la más pequeña, el cuerpo es mediano y el pie es enorme."),
         ],
         "reason": [
             ex("Una compañera dice: «La figura de Botero está mal dibujada porque es muy gorda». ¿Qué le explicas: A que el artista decidió hacer los volúmenes grandes, o B que no sabía dibujar?", "A", "Exagerar el volumen es una decisión y no un error."),
@@ -358,7 +358,7 @@ register(
         ],
         "apply": [
             ex("Ordena el proceso con letras: A elegir una prueba, B observar y anotar, C hacer dos pruebas, D explicar la decisión final.", "B, C, A, D", "Se observa, se prueba, se elige y se explica."),
-            arith("Hiciste 2 pruebas con 3 hojas de girasol cada una. ¿Cuántas hojas de girasol dibujaste en total?", "2 * 3", "Son dos grupos de tres hojas."),
+            arith("Hiciste 2 pruebas con 3 hojas de girasol cada una. ¿Cuántas hojas de girasol dibujaste en total?", "3 + 3", "Son dos grupos de tres hojas: 3 y 3."),
             ex("Completa: «Cambié el verde claro por verde oscuro porque la hoja real es oscura». ¿Qué decisión cambió: la forma o el color?", "El color", "El verde claro y el oscuro son colores."),
         ],
         "reason": [

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-30 · 1° básico: segunda lectura crítica de las 691 clases
+
+- Cada una de las 691 clases de 1° básico fue releída por un segundo lector independiente (asistido por IA, no revisión profesional): contrastó el cuaderno con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió en el mismo archivo errores de respuesta, datos falsos o dudosos, contradicciones internas, ejercicios no enseñados, contenido de otros niveles (multiplicación, centímetros, restas de años) y riesgos de seguridad.
+- El resumen por asignatura y los vacíos de cobertura frente al OA que no se resolvieron (Inglés OA 3 y 7, Tecnología OA 3 y 6, obras completas de Lenguaje, lengua indígena real) quedan en [Análisis de alineación](docs/ANALISIS_ALINEACION.md); los contenidos para especialistas, en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md).
+
 ## 2026-10-30 · Análisis de alineación con el OA oficial (1° básico)
 
 - Nuevo `scripts/audit_alignment.py` y página [Análisis de alineación](docs/ANALISIS_ALINEACION.md): contrasta cada cuaderno con el texto oficial del OA y el título de la clase planificada, mide la legibilidad y ordena las clases para lectura prioritaria. Es una heurística de triage; sobre-marca (sobre todo Inglés) y lo declara.

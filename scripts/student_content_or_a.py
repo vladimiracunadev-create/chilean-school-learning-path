@@ -30,7 +30,7 @@ register(
         "recovery": [
             ex("Mía tiene el pelo largo y negro. ¿Qué dice la frase: cómo es Mía o quién gana?", "Cómo es Mía", "Describe a Mía sin comparar con otra persona."),
             ex("¿«Soy alegre» es una característica de cómo se ve o de la forma de ser?", "De la forma de ser", "Alegre habla de cómo eres por dentro."),
-            ex("Beto dice: «Tengo una mochila azul». ¿Eso es una característica de Beto?", "No", "La mochila es algo que tiene, no cómo es él."),
+            ex("Beto dice: «Tengo una mochila azul». ¿Eso dice cómo es Beto o algo que él tiene?", "Algo que él tiene", "La mochila es una cosa suya; no dice cómo es Beto."),
         ],
         "understand": [
             ex("¿Para qué sirve decir una característica tuya?", "Para contar cómo soy y conocerme", "Describirse ayuda a que otros y yo nos conozcamos."),
@@ -75,7 +75,7 @@ register(
     ],
     mistakes=[
         {"wrong": "Decir «no sé hacer nada».", "why": "Nos fijamos solo en lo que cuesta.", "fix": "Piensa en lo que sí haces, aunque parezca pequeño."},
-        {"wrong": "Pensar que quien practica poco es «tonto».", "why": "Creemos que las habilidades se tienen o no se tienen.", "fix": "Di «todavía» y elige una acción pequeña de práctica."},
+        {"wrong": "Pensar que si algo hoy no me sale, nunca me va a salir.", "why": "Creemos que las habilidades se tienen o no se tienen.", "fix": "Di «todavía» y elige una acción pequeña de práctica."},
     ],
     tiers={
         "recovery": [
@@ -90,7 +90,7 @@ register(
         ],
         "apply": [
             ex("Ana quiere atarse los cordones. Escribe una acción pequeña que pueda practicar.", "Por ejemplo: hacer el primer nudo cada mañana", "Es concreta y se puede hacer cada día."),
-            ex("Elige la habilidad que se practica con el cuerpo: dibujar, reír o contar cuentos.", "Dibujar", "Dibujar usa las manos y se mejora con práctica."),
+            ex("Elige la habilidad que se hace con las manos: dibujar, cantar o contar cuentos.", "Dibujar", "Dibujar usa las manos y se mejora con práctica."),
             ex("Dani corre rápido pero se enoja si pierde. ¿Qué habilidad puede practicar: correr o perder sin enojarse?", "Perder sin enojarse", "Es la que a él le cuesta."),
         ],
         "reason": [
@@ -191,7 +191,7 @@ register(
             ex("¿Quién decide qué parte del retrato se muestra a otros?", "Yo", "Cada persona elige qué compartir."),
         ],
         "apply": [
-            ex("Ordena en el retrato de Ana: «Sé cantar», «Soy paciente», «Quiero conocer los delfines». ¿Cuál es la característica?", "«Soy paciente»", "Paciente dice cómo es Ana."),
+            ex("En el retrato de Ana dice: «Sé cantar», «Soy paciente», «Quiero conocer los delfines». ¿Cuál es la característica?", "«Soy paciente»", "Paciente dice cómo es Ana."),
             ex("Beto escribió: «Soy tranquilo. Sé hacer torres con bloques. Quiero conocer los puentes». Escribe su interés.", "Conocer los puentes", "Es lo que Beto quiere conocer."),
             ex("Completa: «Todavía no sé silbar, pero quiero ___». Elige: practicar o rendirme.", "Practicar", "Mantiene abierta la posibilidad de cambio."),
         ],
@@ -245,7 +245,7 @@ register(
         "apply": [
             ex("Dani escucha un trueno fuerte y se esconde bajo la mesa. Nombra la emoción.", "Miedo", "Se esconde para protegerse."),
             ex("Ana perdió su peluche y llora. ¿Qué emoción puede sentir?", "Tristeza", "Llorar por una pérdida muestra tristeza."),
-            ex("Luis vio un regalo sorpresa y abrió bien los ojos. Nombra la emoción.", "Sorpresa", "Abrir los ojos grandes muestra sorpresa."),
+            ex("Luis vio un regalo que no esperaba y abrió bien los ojos. Nombra la emoción.", "Sorpresa", "Abrir los ojos grandes ante algo inesperado muestra sorpresa."),
         ],
         "reason": [
             ex("Eva dice: «Siento rabia y por eso voy a golpear». ¿Qué parte es la emoción y qué parte la conducta?", "Rabia es la emoción y golpear la conducta", "Una se siente y la otra se hace."),
@@ -258,7 +258,7 @@ register(
     },
     context=[ex("Rosa estaba armando una torre de bloques y se cayó. Aprieta los puños y dice: «¡Me da rabia!». ¿Qué hizo bien al hablar?", "Nombró su emoción", "Dijo lo que sentía sin dañar.")],
     selfcheck=[ex("¿Las emociones se sienten por dentro?", "Sí", "Una emoción es algo que sentimos."), ex("¿Empujar es una emoción?", "No", "Es una conducta."), ex("¿Poner nombre a una emoción ayuda?", "Sí", "Ayuda a calmarse y a pedir ayuda.")],
-    open_task=task("Mira estas cuatro caras: alegre, triste, enojada, asustada. Dibújalas en tu hoja. Debajo de cada cara escribe o dibuja una señal del cuerpo que podría tener esa emoción (por ejemplo: sonrisa, lágrimas, ceño, manos frías).", "Cara alegre: sonrisa. Cara triste: lágrimas. Cara enojada: ceño fruncido. Cara asustada: manos frías.", ["dibuja las cuatro caras", "asocia una señal del cuerpo a cada una", "separa lo que siente de lo que hace"], ["hoja con cuatro caras", "señales anotadas"], ["usar solo una emoción para todas", "mezclar emociones con acciones"], "Reconoce las caras bien hechas y pregunta: «¿Qué haces tú cuando sientes esa emoción?»."),
+    open_task=task("Mira estas cuatro caras: alegre, triste, enojada, asustada. Dibújalas en tu hoja. Debajo de cada cara escribe o dibuja una señal del cuerpo que podría tener esa emoción (por ejemplo: sonrisa, lágrimas, ceño, manos frías).", "Cara alegre: sonrisa. Cara triste: lágrimas. Cara enojada: ceño fruncido. Cara asustada: manos frías.", ["dibuja las cuatro caras", "asocia una señal del cuerpo a cada una", "anota señales del cuerpo y no acciones que dañan"], ["hoja con cuatro caras", "señales anotadas"], ["usar solo una emoción para todas", "mezclar emociones con acciones"], "Reconoce las caras bien hechas y pregunta: «¿Qué haces tú cuando sientes esa emoción?»."),
     reinforce="Mira una cara de tu libro favorito y di qué emoción parece sentir y por qué.",
     extend="Escribe dos emociones y, para cada una, una conducta segura que podrías elegir.",
 )
@@ -300,7 +300,7 @@ register(
         ],
         "reason": [
             ex("Sofía dice: «Rosa está feliz porque se ríe». Rosa dice: «Me río porque estoy nerviosa». ¿Quién sabe mejor lo que siente Rosa?", "Rosa", "Solo ella sabe lo que siente."),
-            ex("Dos niños ven a un perro grande. Uno lo acaricia y el otro se aleja. ¿Alguno siente mal?", "No, sienten distinto", "Cada uno siente lo que siente."),
+            ex("Dos niños ven a un perro grande. Uno lo acaricia y el otro se aleja. ¿Alguno se equivoca al sentir lo que siente?", "No, sienten distinto", "Cada uno siente lo que siente."),
         ],
         "challenge": [
             ex("Si dices «Seguro estás enojado» y el otro dice «No, estoy cansado», ¿qué aprendiste?", "Que adiviné mal", "Conviene preguntar primero."),
@@ -461,7 +461,7 @@ register(
             ex("Dos niños muestran cariño: uno con palabras y otro ayudando. ¿Quién lo hace bien?", "Los dos", "Las dos formas son válidas."),
         ],
     },
-    context=[ex("La abuela de Carla vive lejos. Carla le dibuja una flor y se la manda con una nota que dice «Te echo de menos». ¿Qué formas de cariño usó?", "Un dibujo y una palabra escrita", "Usó acción y palabra.")],
+    context=[ex("La abuela de Carla vive lejos. Carla le dibuja una flor y se la manda con una nota que dice «Te extraño». ¿Qué formas de cariño usó?", "Un dibujo y una palabra escrita", "Usó acción y palabra.")],
     selfcheck=[ex("¿Una palabra amable puede mostrar afecto?", "Sí", "Las palabras también cuidan."), ex("¿Ayudar es una forma de cuidar?", "Sí", "Ayudar busca el bienestar del otro."), ex("¿Todos muestran cariño igual?", "No", "Hay muchas formas.")],
     open_task=task("Elige a una persona ficticia de esta lista: Ana (le cuesta hablar), Beto (tiene un resfrío) o Mía (perdió su juguete). Escribe o dibuja una palabra amable y una acción de cuidado que podrías ofrecerle.", "Para Beto con resfrío: palabra «Que te mejores pronto»; acción: llevarle su tarea para que no se atrase.", ["elige a un personaje", "incluye una palabra amable", "incluye una acción de cuidado respetuosa"], ["dibujo o texto con palabra y acción"], ["ofrecer algo que no se puede cumplir", "burlarse o presionar"], "Destaca la palabra y la acción y propone una forma más sencilla si fue muy complicada."),
     reinforce="Di hoy una palabra amable a alguien de tu familia.",
@@ -556,7 +556,7 @@ register(
         ],
         "reason": [
             ex("Rosa terminó la tarea de Beto «para ayudarlo» sin preguntarle. ¿Fue apoyo o imposición? ¿Por qué?", "Imposición, porque no le preguntó", "Beto no pudo elegir."),
-            ex("Carla ofreció ayuda y Dani dijo no. Carla se fue molesta. ¿Respetó el no?", "No", "Respetar es aceptar sin enojarse."),
+            ex("Carla ofreció ayuda y Dani dijo no. Carla se enojó y le dijo «Qué malo eres». ¿Aceptó bien el no?", "No", "Aceptar un no es respetar sin enojarse ni ofender."),
         ],
         "challenge": [
             ex("Un amigo está intentando algo difícil. ¿Cuál ayuda lo respeta más: darle una pista cuando la pida o hacerlo todo por él?", "Darle una pista cuando la pida", "Respeta su decisión de intentarlo."),
@@ -577,7 +577,7 @@ register(
     prior=["Sé que hay personas que me cuidan.", "Sé qué es pedir ayuda."],
     explain=[
         "Una red de cuidado son las personas que te cuidan y te ayudan. Pueden ser familiares, tu profesora, la persona que te cuida en el recreo o un vecino de confianza. Cada niño tiene una red distinta, y todas son válidas.",
-        "Un adulto seguro es alguien que te trata bien, te escucha, respeta tus límites y no te pide guardar secretos que te hagan sentir mal. Si no te sientes tranquilo con una persona, avisa a otro adulto de confianza.",
+        "Un adulto seguro es alguien que te trata bien, te escucha, respeta tus límites y no te pide guardar secretos que te hagan sentir mal. Si no te sientes tranquilo con una persona, avisa a otro adulto de confianza. Si algo te hace sentir mal, no es tu culpa. Sigue contando hasta que un adulto te ayude.",
         "Puedes pensar en tu red con una mano: un dedo por cada adulto o lugar de confianza. Esta red se puede dibujar sin nombres ni direcciones. Así protegemos nuestros datos y todos podemos participar.",
     ],
     vocab=[("red de cuidado", "personas y lugares que me cuidan"), ("adulto seguro", "adulto que me trata bien y respeta mis límites"), ("confianza", "sentir que alguien me cuida"), ("secreto que no me hace sentir bien", "algo que alguien me pide guardar y me da miedo o pena"), ("dato privado", "información personal que no se comparte con cualquiera")],

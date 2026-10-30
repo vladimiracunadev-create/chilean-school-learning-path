@@ -112,7 +112,7 @@ reg(
     ],
     A=[
         ("Criterios: liviano (1), cabe en una mochila (2), se cierra (3). La idea X cumple el 1 y el 2. La idea Y cumple el 1, el 2 y el 3. ¿Cuál cumple más y cuántos?", "Y; 3 criterios", "Y cumple los tres y X solo dos."),
-        ("Quieres llevar 4 gomitas en la mochila. Ideas: caja pequeña con tapa, bolsa de papel doblada o taza abierta. ¿Cuál no sirve porque se vuelca y se caen?", "La taza abierta", "No tiene tapa y se derraman."),
+        ("Quieres llevar 4 gomitas en la mochila. Ideas: caja pequeña con tapa, bolsa de papel bien cerrada o taza abierta sin tapa. ¿Cuál no sirve porque las gomitas se pueden caer?", "La taza abierta", "No tiene tapa y las gomitas se caen."),
         ("La idea M cumple 2 criterios. La idea N cumple 3. Si solo importa cumplir criterios, ¿cuál eliges?", "N", "Cumple un criterio más."),
     ],
     Z=[
@@ -130,8 +130,8 @@ reg(
         ("¿Dibujar solo una idea es suficiente para elegir bien? Responde sí o no.", "No", "Falta comparar otras ideas."),
     ],
     open_task=(
-        "Para un portalápices que no se caiga y se vea sobre la mesa, dibuja tres ideas distintas: un vaso de cartón, una caja plana con agujeros y un cordón colgado. Anota cuáles criterios cumple cada una (no se cae, se ve) y elige una.",
-        "Dibujé el vaso, la caja y el cordón. El vaso se ve y no se cae: 2. La caja se ve y no se cae: 2. El cordón se cae: 1. Elegí el vaso porque es más fácil de hacer.",
+        "Para un portalápices dibuja tres ideas distintas: un vaso de cartón, una caja plana con agujeros y un cordón colgado. Criterios: se ve y no se cae. Datos de la prueba: el vaso se ve y no se cae; la caja se ve, pero se cae si la empujas; el cordón no se ve y se cae. Anota cuántos criterios cumple cada idea y elige una.",
+        "Dibujé el vaso, la caja y el cordón. El vaso cumple 2 criterios. La caja cumple 1. El cordón cumple 0. Elegí el vaso porque cumple los dos criterios.",
         ["dibuja 3 ideas distintas", "revisa cada una con los criterios", "elige con razón"],
         ["tres dibujos", "tabla con los criterios", "idea elegida"],
         ["tres ideas iguales", "elegir sin revisar"],
@@ -161,7 +161,7 @@ reg(
         ("Poner una medida sin unidad, como «20».", "No se sabe si son cm, pasos o dedos.", "Escribe siempre la unidad: 20 cm."),
     ],
     R=[
-        ("Dibujaste un vaso de cartón. ¿Qué palabra escribes con una línea hacia la parte de arriba si quieres nombrar la abertura: «boca» o «bufanda»?", "Boca", "Boca nombra la abertura del vaso."),
+        ("Dibujaste un vaso de cartón. A la parte plana de abajo, donde se apoya, le pones el rótulo «base» o «nube»?", "Base", "Base es la parte donde se apoya el vaso."),
         ("¿Qué muestra una flecha en un dibujo de diseño: cómo se usa o de qué color es?", "Cómo se usa", "La flecha indica uso o movimiento."),
         ("¿Dibujar a mano alzada significa usar regla o no usarla?", "No usarla", "Se dibuja solo con la mano."),
     ],
@@ -171,7 +171,7 @@ reg(
         ("Nombra las tres cosas de un dibujo que comunica.", "Partes con rótulos, medidas y flecha de uso", "Son los tres elementos que se explicaron."),
     ],
     A=[
-        ("Dibujas una caja para 8 lápices. Mide 12 cm de largo y 6 cm de ancho. ¿Qué dos medidas escribes en el dibujo?", "12 cm de largo y 6 cm de ancho", "Se escriben ambas con unidad."),
+        ("Dibujas una caja para 8 fichas. Mide 12 cm de largo y 6 cm de ancho. ¿Qué dos medidas escribes en el dibujo?", "12 cm de largo y 6 cm de ancho", "Se escriben ambas con unidad."),
         ("Un portalápices tiene las partes: base, pared y borde. ¿Cuántos rótulos necesitas?", "3", "Hay una palabra por cada parte."),
         ("Una tira de cartón mide 18 cm y otra mide 7 cm. ¿Cuántos cm más larga es la primera?", "11", "18 − 7 = 11."),
     ],
@@ -181,9 +181,9 @@ reg(
     ],
     D=[
         ("Tu marcador mide 15 cm de largo y 3 cm de ancho. Escribe cómo pondrías las medidas, con unidades, junto al dibujo.", "15 cm de largo y 3 cm de ancho", "Cada medida lleva su unidad."),
-        ("Un dibujo muestra una cuchara con la flecha hacia arriba junto a una taza. ¿Qué uso se entiende: sacar algo de la taza o tapar la taza?", "Sacar algo de la taza", "La flecha indica el movimiento hacia arriba."),
+        ("Un dibujo muestra una lengüeta con una flecha curva que baja hacia la página. ¿Qué uso se entiende: que la lengüeta se dobla sobre la página o que se corta?", "Se dobla sobre la página", "La flecha curva indica el movimiento de doblar."),
     ],
-    ctx=("Lía dibujó un marcador con una tira, una lengüeta y una flecha que baja hacia la página. Escribió 18 cm junto a la tira. ¿Qué dos cosas faltan en su dibujo para entenderlo mejor: rótulos y la unidad de la lengüeta, o el color del lápiz?", "Rótulos y la unidad de la lengüeta", "Se necesitan nombres y medidas completas."),
+    ctx=("Lía dibujó un marcador con una tira, una lengüeta y una flecha que baja hacia la página. Escribió 18 cm junto a la tira, pero no puso nombres a las partes ni la medida de la lengüeta. ¿Qué dos cosas debe agregar: rótulos y la medida de la lengüeta, o el color del lápiz?", "Rótulos y la medida de la lengüeta", "Se necesitan nombres y medidas completas."),
     sc=[
         ("¿Qué escribimos junto a una medida para que se entienda?", "La unidad", "Dice si son cm, pasos o dedos."),
         ("¿Un dibujo a mano alzada tiene que ser perfecto? Responde sí o no.", "No", "Solo tiene que ser claro."),
@@ -213,7 +213,7 @@ reg(
     ],
     vocab=[("modelo", "versión de mi idea que puedo tocar y probar"), ("tamaño real", "con el mismo tamaño que tendría el objeto final"), ("material reutilizado", "material que ya se usó y se vuelve a usar"), ("probar", "usar el modelo para ver si funciona"), ("diferencia", "algo que cambia entre dos cosas")],
     worked=[
-        ("Elegir material para el modelo", "Quieres un modelo de marcador de 18 cm de largo. Tienes una hoja de cuaderno y una caja de cereal. ¿Cuál usas para probar la rigidez?", ["El marcador debe quedar firme.", "La hoja de cuaderno se dobla mucho.", "La caja de cereal es más firme."], "La caja de cereal, porque es más firme"),
+        ("Elegir material para el modelo", "Quieres un modelo de marcador de 18 cm de largo. Tienes una hoja de cuaderno y una caja de cereal. ¿Cuál usas para probar si el marcador queda firme?", ["El marcador debe quedar firme.", "La hoja de cuaderno se dobla mucho.", "La caja de cereal es más firme."], "La caja de cereal, porque es más firme"),
         ("Comparar modelo y dibujo", "El dibujo dice 18 cm de largo. Al medir tu modelo tiene 16 cm. ¿Cuántos cm le faltan?", ["Resto 18 − 16.", "Da 2.", "Debo hacer el modelo 2 cm más largo."], "Faltan 2 cm"),
     ],
     mistakes=[
@@ -250,7 +250,7 @@ reg(
         ("Nombra un material seguro para un modelo.", "Papel o cartón limpio", "Es fácil de cortar y no hiere."),
     ],
     open_task=(
-        "Haz un modelo en tamaño real de un marcador de página con una tira de papel o cartón de 15 cm de largo y 3 cm de ancho, con una lengüeta de 4 cm. Pruébalo en un cuaderno. Anota una cosa que funciona y una que cambiarías.",
+        "Haz un modelo en tamaño real de un marcador de página con una tira de papel o cartón de 15 cm de largo y 3 cm de ancho, con una lengüeta de 4 cm. Si cortas, usa tijera de punta roma con ayuda de un adulto. Pruébalo en un cuaderno. Anota una cosa que funciona y una que cambiarías.",
         "Mi modelo mide 15 cm × 3 cm. Funciona porque se ve al cerrar el cuaderno. Cambiaría la lengüeta porque se despega, la haría de 5 cm.",
         ["usa las medidas del dibujo", "usa material seguro", "prueba el modelo", "anota qué funciona y qué cambiar"],
         ["modelo terminado", "nota con lo que funciona", "nota con el cambio"],
@@ -301,7 +301,7 @@ reg(
     ],
     D=[
         ("Ideas: A soporta 4 fichas, B soporta 6, C soporta 5. Necesitas soportar al menos 5. ¿Qué ideas sirven?", "B y C", "Ambas soportan 5 o más."),
-        ("Entre las ideas B (6 fichas) y C (5 fichas) del ejercicio anterior, la base de B mide 25 cm y el máximo permitido es 20 cm. ¿Cuál eliges?", "C", "B se pasa del límite de la base."),
+        ("La idea B soporta 6 fichas y la idea C soporta 5 fichas. Necesitas soportar al menos 5. La base de B mide 25 cm y el máximo permitido es 20 cm. La base de C mide 18 cm. ¿Cuál eliges?", "C", "B se pasa del límite de la base; C cumple todo."),
     ],
     ctx=("Pía debe elegir entre dos portalápices. El de cartón soportó 10 lápices y se mantuvo derecho 3 de 3 pruebas. El de papel soportó 4 lápices. Ella necesita guardar 8 lápices. Escribe cuál elige y por qué.", "El de cartón porque soportó 10 lápices y pasó las 3 pruebas", "Cumple lo que ella necesita."),
     sc=[
@@ -311,7 +311,7 @@ reg(
     ],
     open_task=(
         "Mira estos datos de dos marcadores. Marcador A: se ve al cerrar el libro, no rompe las hojas, mide 18 cm. Marcador B: no se ve al cerrar el libro, no rompe las hojas, mide 12 cm. Criterios: se ve al cerrar el libro y no rompe las hojas. Escribe cuál eliges con porque y dos datos, y una mejora para el otro.",
-        "Elegí el marcador A porque cumple los dos criterios: se ve al cerrar el libro y no rompe las hojas. Al B le mejoraría la altura para que se vea al cerrar.",
+        "Elegí el marcador A porque cumple los dos criterios: se ve al cerrar el libro y no rompe las hojas. Al B lo haría más largo para que se vea al cerrar el libro.",
         ["escribe la elección", "usa porque y datos comprobables", "propone una mejora respetuosa"],
         ["frase escrita con porque", "dos datos", "una mejora"],
         ["razones de gusto", "frases sin porque", "burlas"],
@@ -330,7 +330,7 @@ reg(
     explain=[
         "Antes de fabricar algo, miro el resultado esperado, que es el objeto ya terminado. Pregunto: ¿cómo se ve?, ¿qué partes tiene?, ¿qué tamaño tiene? Si no sé cómo termina, no sé cómo empezar.",
         "Tomemos un sobre. Tiene un cuerpo, que es el rectángulo doblado, y tiene una solapa, que se cierra con pegamento. Para fabricarlo se mide, se marca, se corta, se pliega y se une. Son cinco tareas.",
-        "Una tarea es una acción que hay que hacer. Cada tarea ayuda a obtener el resultado: medir da el tamaño, cortar da la forma, plegar da el volumen y unir cierra el sobre. Ver el resultado ayuda a pensar qué tareas se necesitan.",
+        "Una tarea es una acción que hay que hacer. Cada tarea ayuda a obtener el resultado: medir da el tamaño, cortar da la forma, plegar da las dobleces y unir cierra el sobre. Ver el resultado ayuda a pensar qué tareas se necesitan.",
     ],
     vocab=[("resultado esperado", "cómo debe quedar el objeto al terminar"), ("parte", "pedazo que forma el objeto"), ("tarea", "acción que hay que hacer en la fabricación"), ("medir", "saber el tamaño con una regla"), ("plegar", "doblar el papel formando una marca")],
     worked=[
@@ -357,7 +357,7 @@ reg(
         ("En un marcador de página hay una tira y una lengüeta. Si hago 3 marcadores, ¿cuántas lengüetas necesito?", "3", "Cada marcador tiene una."),
     ],
     Z=[
-        ("Luis quiere hacer un sobre y empieza a pegar sin haber cortado. ¿Qué tarea olvidó antes de pegar?", "Cortar", "No puede pegar partes que no ha cortado."),
+        ("Luis ya midió y marcó las partes de un sobre, y quiere pegarlas, pero todavía no las cortó. ¿Qué tarea le falta antes de pegar?", "Cortar", "No puede pegar partes que no ha cortado."),
         ("Ana mira el sobre terminado y dice que debe medir 12 cm de ancho. ¿Qué tarea usará primero para lograrlo: medir o plegar?", "Medir", "Se necesita el tamaño antes de plegar."),
     ],
     D=[
@@ -413,15 +413,15 @@ reg(
     ],
     A=[
         ("Ordena con números las tareas de un marcador de papel: cortar, medir, plegar la lengüeta, marcar. Escribe el orden.", "Medir, marcar, cortar, plegar la lengüeta", "El orden va de medir a plegar."),
-        ("Una receta de plan dice: 1 medir, 2 marcar, 3 cortar. ¿Qué número tiene «cortar»?", "3", "Es el tercer paso."),
+        ("Un plan dice: 1 medir, 2 marcar, 3 cortar. ¿Qué número tiene «cortar»?", "3", "Es el tercer paso."),
         ("Para una caja: pegar las paredes, cortar el cartón, medir el cartón. ¿Cuál es el último paso?", "Pegar las paredes", "Se pega lo que ya está cortado y medido."),
     ],
     Z=[
         ("Rita ordenó: 1 unir, 2 cortar, 3 medir. ¿Está bien ordenado? Responde sí o no.", "No", "Medir debe ir antes que cortar y unir."),
-        ("Ema dice que puede marcar después de cortar. ¿Qué problema habría?", "Ya no habría papel para marcar la línea de corte", "La marca guía el corte."),
+        ("Ema dice que puede marcar la línea de corte después de cortar. ¿Qué problema habría?", "La línea ya no serviría para guiar el corte", "La marca se hace antes para guiar el corte."),
     ],
     D=[
-        ("Ordena los 6 pasos: decorar, medir, cortar, marcar, plegar, unir. Escribe el orden completo.", "Medir, marcar, cortar, plegar, unir, decorar", "Decorar va al final."),
+        ("Ordena los 6 pasos: revisar el resultado, medir, cortar, marcar, plegar, unir. Escribe el orden completo.", "Medir, marcar, cortar, plegar, unir, revisar el resultado", "Revisar va al final, cuando el objeto ya está hecho."),
         ("En un plan de 5 pasos, ¿cuántos pasos van antes del tercero?", "2", "Antes del 3 están el 1 y el 2."),
     ],
     ctx=("Nico hace un portalápices. Sus tarjetas dicen: A pegar la base, B cortar el cartón, C medir 10 cm. ¿En qué orden las hace?", "C, B, A", "Primero medir, luego cortar, al final pegar."),
@@ -482,7 +482,7 @@ reg(
     ],
     D=[
         ("Necesitas 4 paredes de cartón de 10 cm de alto cada una. ¿Cuántos cm de cartón hay en altura si las pones una sobre otra?", "40", "10 + 10 + 10 + 10 = 40."),
-        ("Reutilizas 3 cajas de cereal. Cada caja da 2 paredes. ¿Cuántas paredes tienes?", "6", "3 × 2 = 6."),
+        ("Reutilizas 3 cajas de cereal. Cada caja da 2 paredes. ¿Cuántas paredes tienes en total?", "6", "2 + 2 + 2 = 6."),
     ],
     ctx=("Pía hace un cofre para sus 5 tarjetas. Para la base necesita algo firme; para la tapa, algo que se doble; para unir, algo que pegue. Tiene cartón, papel resistente y cinta. Une cada parte con su material en el orden base, tapa, unión.", "Base: cartón; tapa: papel resistente; unión: cinta", "Cada material cumple la función de la parte."),
     sc=[
@@ -519,7 +519,7 @@ reg(
     ],
     mistakes=[
         ("Cortar con la regla.", "La regla no corta y se daña.", "Mide con la regla; corta con la tijera de punta roma."),
-        ("Agitar la tijera o caminar con ella abierta.", "Puede lastimar a alguien.", "Tómala por la punta cerrada y camina sin correr."),
+        ("Agitar la tijera o caminar con ella abierta.", "Puede lastimar a alguien.", "Llévala cerrada, con la punta hacia abajo, y camina sin correr."),
     ],
     R=[
         ("¿Qué herramienta sirve para medir: regla o pegamento?", "Regla", "La regla tiene números."),
@@ -542,12 +542,12 @@ reg(
     ],
     D=[
         ("Para un sobre usas 4 herramientas: regla, lápiz, tijera y pegamento. Si hay que hacer 3 sobres, ¿cuántas herramientas distintas necesitas en total?", "4", "Las mismas herramientas sirven para los 3 sobres."),
-        ("Una tira de cartón mide 24 cm. Debes cortarla en 2 partes iguales. ¿Cuánto mide cada parte?", "12 cm", "24 ÷ 2 = 12."),
+        ("Una tira de cartón mide 24 cm. Debes cortarla en 2 partes del mismo largo. ¿Cuánto mide cada parte?", "12 cm", "12 + 12 = 24."),
     ],
     ctx=("Nico debe hacer un marcador: medir 18 cm, marcar la línea, cortar y pegar la lengüeta. Tiene regla, lápiz, tijera de punta roma y pegamento. Escribe la herramienta de cada acción en orden.", "Regla, lápiz, tijera, pegamento", "Cada acción usa la herramienta que le corresponde."),
     sc=[
         ("¿Qué herramienta corta papel con seguridad en la escuela?", "Tijera de punta roma", "Está hecha para papel."),
-        ("¿Se puede medir con un lápiz solo? Responde sí o no.", "No", "Para medir hace falta una regla."),
+        ("¿La regla sirve para cortar papel? Responde sí o no.", "No", "La regla mide; para cortar se usa la tijera."),
         ("Después de trabajar, ¿qué haces con las herramientas?", "Las guardas en su lugar", "Es parte del cuidado."),
     ],
     open_task=(

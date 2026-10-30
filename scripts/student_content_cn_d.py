@@ -11,15 +11,15 @@ register(
     OA7, 1,
     materials="Este cuaderno con la rutina de un día de Tomás (horas y actividades), lápiz y colores.",
     use="Aprenderé qué son los hábitos saludables y cómo ayudan a mi cuerpo. Sirve para cuidarme todos los días y enfermarme menos.",
-    prior=["Sé que mi cuerpo necesita agua, alimento y aire.", "Sé leer las horas en punto."],
+    prior=["Sé que mi cuerpo necesita agua, alimento y aire.", "Sé leer las horas en punto y las medias horas."],
     explain=[
         "Un hábito es algo que haces muchas veces, casi todos los días. Un hábito saludable es uno que cuida tu cuerpo, como lavarte las manos, comer frutas y verduras, hacer ejercicio y dormir lo suficiente.",
         "Cuando repites un hábito saludable, tu cuerpo se mantiene fuerte y se enferma menos. Por ejemplo, lavarte las manos con agua y jabón antes de comer saca los gérmenes que no se ven y que pueden enfermarte.",
-        "Para saber si una rutina es saludable, revisa qué hábitos incluye. La rutina de Tomás tiene: 7:00 se levanta, 7:15 se lava los dientes, 8:00 desayuna, 16:00 juega a correr, 20:30 se lava los dientes y 21:00 se duerme. Cada hábito cuida una parte de su cuerpo.",
+        "Para saber si una rutina es saludable, revisa qué hábitos incluye. La rutina de Tomás tiene: 7:00 se levanta, 7:30 se lava los dientes, 8:00 desayuna, 16:00 juega a correr, 20:30 se lava los dientes y 21:00 se duerme. Cada hábito cuida una parte de su cuerpo.",
     ],
     vocab=[("hábito", "algo que haces muchas veces"), ("saludable", "que cuida tu cuerpo y te ayuda a estar sano"), ("rutina", "lo que haces cada día en orden"), ("gérmenes", "seres muy pequeños que pueden enfermarte"), ("enfermarse", "tener el cuerpo mal por un tiempo")],
     worked=[
-        {"title": "Reconocer un hábito saludable", "problem": "Tomás se lava los dientes a las 7:15 y a las 20:30. ¿Cuántas veces al día? ¿Es un hábito saludable?", "steps": ["Se lava dos veces.", "Los dientes limpios no se enferman tan fácil.", "Es un hábito que cuida el cuerpo."], "answer": "Dos veces al día; es un hábito saludable"},
+        {"title": "Reconocer un hábito saludable", "problem": "Tomás se lava los dientes a las 7:30 y a las 20:30. ¿Cuántas veces al día? ¿Es un hábito saludable?", "steps": ["Se lava dos veces.", "Los dientes limpios no se enferman tan fácil.", "Es un hábito que cuida el cuerpo."], "answer": "Dos veces al día; es un hábito saludable"},
         {"title": "Contar horas de sueño", "problem": "Tomás se duerme a las 21:00 y se levanta a las 7:00. ¿Cuántas horas duerme?", "steps": ["De 21:00 a 24:00 son 3 horas.", "De 0:00 a 7:00 son 7 horas.", "3 + 7 = 10."], "answer": "Duerme 10 horas"},
     ],
     mistakes=[
@@ -38,7 +38,7 @@ register(
             ex("¿Qué es una rutina?", "Lo que haces cada día en orden", "Tiene una secuencia."),
         ],
         "apply": [
-            arith("Tomás se lava los dientes 2 veces al día. ¿Cuántas veces se los lava en 7 días?", "2*7", "Se multiplican las veces al día por los 7 días.", " veces"),
+            arith("Tomás se lava los dientes 2 veces al día. ¿Cuántas veces se los lava en 3 días?", "2+2+2", "Se suman las 2 veces de cada uno de los 3 días.", " veces"),
             arith("Tomás se duerme a las 21:00 y se despierta a las 7:00. Duerme 3 horas hasta medianoche y luego 7 horas. ¿Cuántas horas duerme en total?", "3+7", "Se suman las dos partes de la noche.", " horas"),
             ex("En la rutina de Tomás, ¿qué hace a las 16:00?", "Juega a correr", "Es el dato de la rutina."),
         ],
@@ -91,7 +91,7 @@ register(
         "apply": [
             arith("Ema juega 25 minutos en el recreo y baila 35 minutos en la tarde. ¿Cuántos minutos se mueve?", "25+35", "Se suman los dos momentos.", " minutos"),
             arith("Un niño debe moverse 60 minutos y ya se movió 40. ¿Cuántos minutos le faltan?", "60-40", "Se resta lo hecho de lo recomendado.", " minutos"),
-            arith("Pilar se lava las manos 4 veces al día, 20 segundos cada vez. ¿Cuántos segundos se lava en total?", "4*20", "Se multiplica las veces por los segundos.", " segundos"),
+            arith("Pilar se lava las manos 4 veces al día, 20 segundos cada vez. ¿Cuántos segundos se lava en total?", "20+20+20+20", "Se suman los 20 segundos de cada una de las 4 veces.", " segundos"),
         ],
         "reason": [
             ex("Luis duerme 8 horas y está cansado en clases. ¿Qué dato puede explicarlo?", "Que duerme menos de las 9 horas recomendadas", "Le falta descanso."),
@@ -132,7 +132,7 @@ register(
         "recovery": [
             ex("¿Es una manzana un alimento para todos los días?", "Sí", "Es una fruta."),
             ex("¿Son las lentejas una legumbre?", "Sí", "Las lentejas son legumbres."),
-            ex("¿Cuándo te lavas las manos: antes de comer o después de jugar?", "Las dos veces", "Hay que lavarse antes de comer y después de jugar o ir al baño."),
+            ex("¿Cuándo te lavas las manos: antes de comer o después de ir al baño?", "Las dos veces", "Hay que lavarse antes de comer y después de ir al baño."),
         ],
         "understand": [
             ex("¿Cuántas porciones de frutas y verduras se recomiendan al día?", "5", "Es lo recomendado en Chile."),
@@ -192,7 +192,7 @@ register(
         ],
         "apply": [
             arith("En una semana cumpliste el hábito 4 días de 5. ¿Cuántos días no lo cumpliste?", "5-4", "Se resta lo cumplido del total.", " día"),
-            arith("Lavaste tus dientes 2 veces al día durante 5 días. ¿Cuántas veces fueron?", "2*5", "Se multiplica por los días.", " veces"),
+            arith("Lavaste tus dientes 2 veces al día durante 3 días. ¿Cuántas veces fueron?", "2+2+2", "Se suman las 2 veces de cada día.", " veces"),
             ex("Tabla: lunes ✓, martes ✓, miércoles ✓, jueves ✗, viernes ✓. ¿Cuántos ✓ hay?", "4", "Cuento las cruces marcadas."),
         ],
         "reason": [
@@ -256,7 +256,7 @@ register(
             ex("Una caja tiene 5 objetos de vidrio y 3 de plástico. ¿Cuántos objetos de vidrio más que de plástico hay?", "2", "Cinco menos tres son dos."),
         ],
     },
-    context=[ex("En la cocina hay una olla de metal, un plato de loza, un vaso de vidrio y una cuchara de madera. ¿Cuántos objetos hay y cuántos materiales distintos?", "4 objetos y 4 materiales", "Cada objeto es de un material distinto.")],
+    context=[ex("En la cocina hay una olla de metal, un plato de plástico, un vaso de vidrio y una cuchara de madera. ¿Cuántos objetos hay y cuántos materiales distintos?", "4 objetos y 4 materiales", "Cada objeto es de un material distinto.")],
     selfcheck=[ex("¿La silla es un objeto o un material?", "Un objeto", "Es una cosa que uso."), ex("¿La madera es un objeto o un material?", "Un material", "Se usa para hacer objetos."), ex("¿De qué material es un vaso de vidrio?", "Vidrio", "Es lo que lo forma.")],
     open_task=task("Mira esta lista de seis objetos: tijera (metal y plástico), mesa (madera), ventana (vidrio), polera (tela), pelota (goma), cuaderno (papel). Haz una tabla con objeto y material y dibuja un objeto con dos materiales.", "Tabla: tijera-metal y plástico, mesa-madera, ventana-vidrio, polera-tela, pelota-goma, cuaderno-papel. Dibujo: la tijera con metal y plástico.", ["une cada objeto con su material", "dibuja un objeto con dos materiales", "usa una tabla"], ["tabla", "dibujo"], ["confundir objeto y material", "olvidar un objeto"], "Reconoce la diferencia y pide revisar los dos materiales de la tijera."),
     reinforce="Mira cinco objetos de tu cocina y escribe de qué material están hechos.",
@@ -309,7 +309,7 @@ register(
     },
     context=[ex("Un niño prueba tres chaquetas bajo una gota de agua: una la absorbe en 8 segundos, otra en 20 segundos y otra no la absorbe. ¿Cuál elegirías para la lluvia?", "La que no absorbe la gota", "Es la impermeable.")],
     selfcheck=[ex("¿Qué es flexible?", "Algo que se dobla sin quebrarse", "Como la goma."), ex("¿Qué material deja ver a través?", "El transparente", "Como el vidrio."), ex("¿Cómo se llama el material que no deja pasar agua?", "Impermeable", "El agua se queda afuera.")],
-    open_task=task("Lee estos resultados de una gota de agua: aluminio, la gota sigue entera; servilleta de papel, se absorbe en 3 segundos; calcetín de algodón, se absorbe en 12 segundos; hoja de plástico, la gota sigue entera. Escribe cuáles son impermeables, cuál absorbe más rápido y qué conclusión sacas.", "Impermeables: aluminio y plástico. La servilleta absorbe más rápido (3 s). Conclusión: el metal y el plástico no dejan pasar el agua; el papel y la tela sí.", ["nombra los impermeables", "nombra el más rápido", "escribe una conclusión con datos"], ["frases con números", "tabla"], ["decir que el algodón es impermeable", "no usar los segundos"], "Reconoce los resultados y pide citar los segundos en la conclusión."),
+    open_task=task("Lee estos resultados de una gota de agua: aluminio, la gota sigue entera; servilleta de papel, se absorbe en 3 segundos; calcetín de algodón, se absorbe en 12 segundos; hoja de plástico, la gota sigue entera. Escribe cuáles son impermeables, cuál absorbe más rápido y qué conclusión sacas.", "Impermeables: aluminio y plástico. La servilleta absorbe más rápido (3 s). Conclusión: en estas pruebas, el aluminio y el plástico no dejaron pasar el agua (la gota siguió entera) y la servilleta y el calcetín sí la absorbieron.", ["nombra los impermeables", "nombra el más rápido", "escribe una conclusión con datos"], ["frases con números", "tabla"], ["decir que el algodón es impermeable", "no usar los segundos"], "Reconoce los resultados y pide citar los segundos en la conclusión."),
     reinforce="Con una gota, prueba un papel y una bolsa plástica y mira la diferencia.",
     extend="Explica por qué las ventanas son de vidrio y no de madera.",
 )
@@ -358,9 +358,9 @@ register(
             ex("En una caja hay 3 objetos transparentes y 4 opacos. ¿Cuántos objetos hay?", "7", "Tres más cuatro son siete."),
         ],
     },
-    context=[ex("En el taller hay 2 cajas con 5 objetos flexibles cada una. ¿Cuántos objetos flexibles hay?", "10", "Dos cajas por cinco objetos son diez.")],
+    context=[ex("En el taller hay una caja con 5 objetos flexibles y otra caja con 5 objetos flexibles. ¿Cuántos objetos flexibles hay en total?", "10", "Cinco más cinco son diez.")],
     selfcheck=[ex("¿Cuántos criterios usas a la vez?", "Uno", "Un criterio por clasificación."), ex("¿El vidrio es transparente?", "Sí", "Se ve a través."), ex("¿La madera es opaca?", "Sí", "No se ve a través.")],
-    open_task=task("Clasifica estos cinco objetos por transparente u opaco y luego por flexible o rígido: vaso (rígido, transparente), calcetín (flexible, opaco), regla de plástico (rígida, transparente), globo (flexible, transparente), mesa (rígida, opaca). Escribe los grupos y cuántos hay en cada uno.", "Transparentes: vaso, regla, globo (3). Opacos: calcetín, mesa (2). Rígidos: vaso, regla, mesa (3). Flexibles: calcetín, globo (2).", ["hace dos clasificaciones", "cuenta cada grupo", "usa un criterio por vez"], ["dos tablas", "totales"], ["mezclar criterios", "olvidar un objeto"], "Reconoce que usa un criterio por clasificación y pide verificar los totales."),
+    open_task=task("Clasifica estos cinco objetos por transparente u opaco y luego por flexible o rígido: vaso (rígido, transparente), calcetín (flexible, opaco), regla de plástico (rígida, transparente), bolsa de plástico (flexible, transparente), mesa (rígida, opaca). Escribe los grupos y cuántos hay en cada uno.", "Transparentes: vaso, regla, bolsa (3). Opacos: calcetín, mesa (2). Rígidos: vaso, regla, mesa (3). Flexibles: calcetín, bolsa (2).", ["hace dos clasificaciones", "cuenta cada grupo", "usa un criterio por vez"], ["dos tablas", "totales"], ["mezclar criterios", "olvidar un objeto"], "Reconoce que usa un criterio por clasificación y pide verificar los totales."),
     reinforce="Clasifica cuatro objetos de tu mochila por rígido o flexible.",
     extend="Haz una tercera clasificación con otra propiedad y compárala.",
 )
@@ -398,7 +398,7 @@ register(
         "apply": [
             ex("Una bota de lluvia necesita ser impermeable. ¿Eliges goma o algodón?", "Goma", "La goma es impermeable."),
             ex("Una tapa de olla se toma con la mano y no debe quemar. ¿Elegirías metal puro o metal con mango de madera?", "Metal con mango de madera", "La madera no se calienta tan rápido."),
-            arith("Un paraguas tiene 8 varillas de metal y 1 tela de plástico. ¿Cuántas partes tiene?", "8+1", "Se suman las varillas y la tela.", " partes"),
+            arith("Un paraguas tiene 8 varillas de metal y 1 tela impermeable. ¿Cuántas partes tiene?", "8+1", "Se suman las varillas y la tela.", " partes"),
         ],
         "reason": [
             ex("Beto quiere hacer la bolsa de la compra con papel. ¿Qué pasa con la lluvia y por qué?", "Se moja y se rompe, porque el papel es permeable", "El papel absorbe el agua."),

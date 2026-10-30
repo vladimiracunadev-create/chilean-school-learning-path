@@ -98,7 +98,7 @@ register(
         "apply": [
             ex("¿Qué mes viene justo antes de julio?", "junio", "Junio está al lado de julio, un lugar antes."),
             ex("Completa la fila: septiembre, octubre, ___, diciembre.", "noviembre", "Entre octubre y diciembre está noviembre."),
-            ex("Escribe los dos meses cuyo nombre empieza con la letra j y viene en orden del año.", "junio y julio", "Son los únicos meses que empiezan con j."),
+            ex("Escribe los dos meses del año cuyo nombre empieza con la letra j.", "junio y julio", "Son los únicos meses que empiezan con j."),
         ],
         "reason": [
             ex("Ana nació en el mes que viene después de julio y antes de septiembre. ¿En qué mes nació?", "agosto", "Entre julio y septiembre solo está agosto."),
@@ -132,7 +132,7 @@ register(
     ],
     vocab=[("fecha", "día, mes y año de un hecho"), ("columna", "fila hacia abajo en el calendario"), ("intervalo", "tiempo que pasa entre dos fechas"), ("mensual", "de un solo mes"), ("faltar", "ser el tiempo que queda hasta una fecha")],
     worked=[
-        {"title": "Qué día de la semana es", "problem": f"{SEP} ¿Qué día de la semana es el 11?", "steps": ["Busco el 11 en el calendario.", "El 11 está en la fila del jueves."], "answer": "jueves"},
+        {"title": "Qué día de la semana es", "problem": f"{SEP} ¿Qué día de la semana es el 11?", "steps": ["Busco el 11 en el calendario.", "El 11 está en la columna del jueves."], "answer": "jueves"},
         {"title": "Contar días que faltan", "problem": f"{SEP} Hoy es 15. ¿Cuántos días faltan para el 19?", "steps": ["Después del 15 vienen 16, 17, 18 y 19.", "Cuento 4 días."], "answer": "4 días"},
     ],
     mistakes=[
@@ -170,7 +170,7 @@ register(
         ex(f"{SEP} ¿Qué día de la semana es el 1 de septiembre?", "lunes", "El calendario parte con el 1 en la columna del lunes."),
         arith(f"{SEP} ¿Cuántos días pasan entre el 10 y el 17?", "17-10", "Es una semana completa."),
     ],
-    open_task=task("Mira el calendario de septiembre escrito arriba. Escribe en una hoja la fecha y el día de la semana de estas tres cosas: el cumpleaños de Luna (24), una fiesta (18) y una visita al doctor (11). Después dibuja un círculo en cada número en tu hoja.", "Cumpleaños de Luna: miércoles 24. Fiesta: jueves 18. Visita al doctor: jueves 11. Entre la visita y la fiesta pasan 7 días.", ["tres fechas con día de la semana", "días correctos", "orden de las fechas de menor a mayor"], ["lista escrita con las tres fechas"], ["decir el día de la semana de otra columna", "cambiar los números"], "Pide que cuente en voz alta cuántos días hay entre dos de sus fechas."),
+    open_task=task("Mira el calendario de septiembre escrito arriba. Escribe en una hoja la fecha y el día de la semana de estas tres cosas: el cumpleaños de Luna (24), una fiesta (18) y una visita al doctor (11). Después dibuja un círculo en cada número en tu hoja.", "Visita al doctor: jueves 11. Fiesta: jueves 18. Cumpleaños de Luna: miércoles 24. Entre la visita y la fiesta pasan 7 días.", ["tres fechas con día de la semana", "días correctos", "orden de las fechas de menor a mayor"], ["lista escrita con las tres fechas"], ["decir el día de la semana de otra columna", "cambiar los números"], "Pide que cuente en voz alta cuántos días hay entre dos de sus fechas."),
     reinforce="Mira un calendario de tu casa y di qué día de la semana es el 10 del mes que está abierto.",
     extend="Escribe cuántos lunes tiene el mes actual del calendario de tu casa.",
 )
@@ -227,7 +227,7 @@ register(
     ],
     open_task=task("Mira el calendario o un papel con la fecha de hoy en tu casa. Escribe la fecha completa de hoy (día, mes y año) con palabras, luego con números y barras, y por último escribe cuál es el año pasado y cuál será el próximo. Si no encuentras la fecha de hoy, usa esta: 18 de septiembre de 2025.", "Hoy: 18 de septiembre de 2025. Con números: 18/09/2025. El año pasado fue 2024 y el próximo será 2026.", ["fecha completa con tres partes", "forma con números en el orden día, mes y año", "año pasado y próximo correctos"], ["hoja con las fechas escritas"], ["omitir el año", "cambiar el orden de día y mes"], "Pide que lea su fecha en voz alta y diga cuál de las tres partes es el año."),
     reinforce="Escribe con palabras tres fechas de tu calendario que te gusten, siempre con el año.",
-    extend="Averigua en qué años bisiestos nació alguien de tu familia y escribe cuántos años pasaron.",
+    extend="Pregunta en qué año nació alguien de tu familia y escribe el año con un número de cuatro cifras.",
 )
 
 # ---------------------------------------------------------------- OA 02
@@ -254,7 +254,7 @@ register(
         "recovery": [
             ex("Primero abres la puerta y después entras a la sala. ¿Qué haces después de abrir la puerta?", "entras a la sala", "Entrar es lo que viene después."),
             ex("Camila se puso la chaqueta y después salió a la calle. ¿Qué hizo primero?", "se puso la chaqueta", "La chaqueta va antes de salir."),
-            ex("¿Qué va antes de comer: lavarte las manos o lavarte los dientes de la noche?", "lavarte las manos", "Las manos se lavan antes de comer para cuidarlas limpias."),
+            ex("¿Qué va antes de comer: lavarte las manos o lavarte los dientes de la noche?", "lavarte las manos", "Las manos se lavan antes de comer para tenerlas limpias."),
         ],
         "understand": [
             ex("Ordena la noche: A) dormir, B) cenar, C) lavarse los dientes.", "B, C, A", "Se cena, luego se lavan los dientes y al final se duerme."),
@@ -349,7 +349,7 @@ register(
     explain=[
         "El día se divide en mañana, tarde y noche. En la mañana sale el Sol y hay luz. En la tarde el Sol baja. En la noche está oscuro y se ven la Luna y las estrellas, cuando el cielo está despejado.",
         "En Chile el Sol sale por el lado de la cordillera de los Andes y se esconde hacia el lado del mar. Ese camino cuenta el paso del día. Después de la noche vuelve a salir el Sol y empieza otro día.",
-        "Hay actividades que hacemos de día, como ir a clases, y otras de noche, como dormir. Las horas también nos ayudan: las 8 de la mañana es temprano, las 12 es el mediodía y las 9 de la noche es tarde.",
+        "Hay actividades que hacemos de día, como ir a clases, y otras de noche, como dormir. Las horas también nos ayudan: las 8 de la mañana es temprano, las 12 es el mediodía y las 9 de la noche es tarde. La madrugada es la parte de la noche justo antes de que salga el Sol.",
     ],
     vocab=[("mañana", "parte del día cuando sale el Sol"), ("tarde", "parte del día después del mediodía"), ("noche", "parte del día con cielo oscuro"), ("mediodía", "las 12 del día"), ("rutina", "cosas que hacemos cada día en un orden parecido")],
     worked=[
@@ -357,7 +357,7 @@ register(
         {"title": "Relacionar una hora", "problem": "Son las 9 de la noche. ¿Qué actividad es más probable: ir al colegio o dormir?", "steps": ["A las 9 de la noche el cielo está oscuro.", "De noche las personas descansan."], "answer": "Dormir"},
     ],
     mistakes=[
-        {"wrong": "Decir que las 7 de la tarde y las 7 de la mañana son lo mismo.", "why": "Se mira solo el número de la hora.", "fix": "Mira si hay luz del Sol o si ya está oscuro."},
+        {"wrong": "Decir que las 8 de la mañana y las 8 de la noche son lo mismo.", "why": "Se mira solo el número de la hora.", "fix": "Mira si es el comienzo del día o si ya está oscuro."},
         {"wrong": "Pensar que de noche no pasa nada.", "why": "Se piensa que solo el día tiene actividades.", "fix": "De noche se cena, se descansa y algunas personas trabajan."},
     ],
     tiers={
@@ -372,7 +372,7 @@ register(
             ex("¿Qué hora es el mediodía?", "las 12 del día", "El mediodía es la mitad del día."),
         ],
         "apply": [
-            ex("Clasifica en mañana, tarde o noche: tomar once con pan.", "tarde", "La once se toma al final de la tarde."),
+            ex("Clasifica en mañana, tarde o noche: jugar en la plaza cuando el Sol ya va bajando.", "tarde", "En la tarde el Sol baja."),
             ex("Clasifica en mañana, tarde o noche: lavarse la cara al despertar.", "mañana", "Se hace al comenzar el día."),
             ex("Clasifica en mañana, tarde o noche: ponerse la ropa de dormir.", "noche", "Se hace cuando se prepara el descanso."),
         ],
@@ -381,7 +381,7 @@ register(
             ex("Un panadero se levanta a las 4 de la madrugada para tener pan caliente. ¿Su trabajo empieza de día o de noche?", "de noche", "A las 4 de la madrugada todavía está oscuro."),
         ],
         "challenge": [
-            ex("Pedro sale a la escuela cuando recién sale el Sol y vuelve a su casa antes de la once. ¿Qué momentos del día pasa en la escuela?", "mañana y parte de la tarde", "Sale de mañana y vuelve cuando la tarde va avanzando."),
+            ex("Pedro sale a la escuela cuando recién sale el Sol y vuelve a su casa después del almuerzo. ¿Qué momentos del día pasa en la escuela?", "mañana y parte de la tarde", "Sale de mañana y vuelve cuando la tarde va avanzando."),
             ex("Ordena estas actividades del día: A) cena, B) almuerzo, C) desayuno.", "C, B, A", "Se desayuna en la mañana, se almuerza al mediodía y se cena en la noche."),
         ],
     },
@@ -437,7 +437,7 @@ register(
         ],
         "challenge": [
             ex("Ordena de más antiguo a más nuevo estos hechos de Nina: 3 de marzo de 2030 entró a primero; 7 de agosto de 2023 nació; 4 de marzo de 2029 empezó el kínder.", "nació, empezó el kínder, entró a primero", "Se ordenan por año: 2023, 2029 y 2030."),
-            arith("Nina nació en 2023 y este año es 2030. ¿Cuántos años han pasado, es decir, cuántos años tiene si cumplió años este año?", "2030-2023", "Se resta el año de nacimiento al año de este año."),
+            arith("Nina nació en 2023 y este año es 2030. ¿Cuántos años pasaron entre 2023 y 2030?", "2030-2023", "Se resta el año menor al año mayor."),
         ],
     },
     context=[ex("La familia de Ana dice: «Este año vamos al sur, el año pasado fuimos a la playa y el año próximo iremos al campo». Si este año es 2030, ¿en qué año vamos al campo?", "2031", "El campo está en el año próximo, que viene después de 2030.")],

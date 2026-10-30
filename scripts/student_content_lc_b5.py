@@ -117,7 +117,7 @@ register(
         ],
         "apply": [
             ex(f"En «{VIENTO}», ¿cuántas veces suena «calla»?", "4", "Dos veces en el tercer verso y dos en el cuarto."),
-            ex(f"En «{CONTAR}», ¿cuántas veces se repite la palabra «sopla»?", "1", "Solo aparece en el primer tramo."),
+            ex(f"En «{CONTAR}», ¿cuántas veces suena la palabra «sopla»?", "1", "Solo aparece en el primer tramo."),
             ex("La guía dice «¡Ola!» y el coro responde «¡Ola!». Si la guía lo dice 5 veces, ¿cuántas veces responde el coro?", "5", "Responde una vez por cada «¡Ola!»."),
         ],
         "reason": [
@@ -302,7 +302,7 @@ register(
             ex("¿Una imagen al escuchar es algo que ves en tu mente o en la pared?", "En tu mente", "Se imagina con la mente."),
         ],
         "apply": [
-            ex(f"En «{TRABA2}», ¿cuántas palabras tiene en total?", "9", "Son seis palabras de «seis sillas sin silla sirven» y «si se sientan seis»: 9."),
+            ex(f"En «{TRABA2}», ¿cuántas palabras tiene en total?", "9", "Son 5 palabras en «seis sillas sin silla sirven» y 4 en «si se sientan seis»: 5 + 4 = 9."),
             ex(f"En «{VIENTO}», ¿cuántas veces suena «viento»?", "2", "Aparece en el primer y tercer verso."),
             ex(f"En «{CONTAR}», ¿qué palabra suena en «cuatro, vuela el pato»: pato o pez?", "Pato", "El tramo dice pato."),
         ],
@@ -341,7 +341,7 @@ register(
     explain=[
         "Compartir lo que comprendiste puede hacerse de tres modos: con la voz, cuentas qué entendiste; con el cuerpo, muestras la idea con un gesto; con un dibujo, haces lo que viste en tu mente. Cualquiera sirve si muestra la idea del texto.",
         "Una buena respuesta dice una idea del texto y la une con algo que escuchaste. Por ejemplo: «El texto dice que el viento calla y el trigo duerme, y dibujé un campo quieto».",
-        "Cierra siempre con respeto. Agradece a quien compartió el texto y di de quién es. Si tienes una duda, házla como pregunta. En una lengua que se recupera, cada pregunta ayuda a que más personas la conozcan.",
+        "Cierra siempre con respeto. Agradece a quien compartió el texto y di de quién es. Si tienes una duda, hazla como pregunta. En una lengua que se recupera, cada pregunta ayuda a que más personas la conozcan.",
     ],
     vocab=[("compartir", "mostrar a otros"), ("respuesta", "lo que digo o muestro"), ("agradecer", "decir gracias"), ("duda", "lo que no entendí"), ("idea", "lo principal del texto")],
     worked=[

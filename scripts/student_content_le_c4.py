@@ -111,7 +111,7 @@ reg(
         E("Rosa y Don Pedro son personajes distintos pero ambos amables. ¿Es posible?", "Sí", "Cada uno habla distinto."),
     ],
     [
-        E("Un personaje dice siempre «Gracias por esperar». ¿Qué característica muestra: la paciencia o la rapidez?", "Paciencia", "Agradece la espera."),
+        E("Un personaje dice siempre «Gracias por esperar». ¿Es una frase respetuosa o hiriente?", "Respetuosa", "Agradece a quien esperó."),
         E("Arma una frase de despedida para Rosa, la vendedora amable.", "Por ejemplo: Gracias por venir; vuelve pronto", "Incluye una frase cortés."),
     ],
     [E("Tu hermano menor quiere ser un lobo malo en el juego, y asusta a sus muñecos. ¿Cómo lo ayudas a convertirlo en un lobo que cuida?", "Por ejemplo: El lobo cuida a los muñecos y les da comida", "Cambia el rol a uno respetuoso.")],
@@ -189,7 +189,7 @@ reg(
     [
         "Muchas escenas tienen un problema: un perro perdido, una puerta que no abre, una tienda sin pan. En el juego de roles, los personajes resuelven el problema trabajando juntos. Cada uno propone una idea, escucha la del otro y deciden en equipo.",
         "Para resolver juntos puedes seguir tres pasos: nombrar el problema, proponer una solución cada uno y escoger una o unir las dos. Por ejemplo: problema, el gato está en un árbol. Idea 1: llamar a un bombero. Idea 2: traer una escalera. Pueden unir: el bombero trae la escalera.",
-        "Para que funcione, usa frases de cooperación: «Yo propongo que…», «¿Qué te parece si…?», «Estoy de acuerdo». Si no estás de acuerdo, di por qué con respeto. Al final, la escena termina cuando el problema se resuelve y todos están conformes.",
+        "Para que funcione, usa frases de cooperación: «Yo propongo que…», «¿Qué te parece si…?», «Estoy de acuerdo». Si no estás de acuerdo, di por qué con respeto. Al final, la escena termina cuando el problema se resuelve y todos quedan contentos con la solución.",
     ],
     [("problema", "lo que complica la escena"), ("solución", "lo que arregla el problema"), ("equipo", "personas que trabajan juntas"), ("proponer", "sugerir una idea"), ("estar de acuerdo", "pensar igual que otro")],
     [
@@ -220,7 +220,7 @@ reg(
         E("Problema: una niña perdió su paraguas. Idea A: buscar. Idea B: usar un impermeable. Une las ideas en una frase.", "Por ejemplo: Buscan el paraguas y mientras usan un impermeable", "Combina las ideas."),
         E("Ordena los pasos para resolver: a) escoger o unir ideas, b) nombrar el problema, c) proponer ideas. Escribe las letras.", "b, c, a", "Primero el problema, luego ideas y después decidir."),
     ],
-    [E("En el juego de la veterinaria, un perro muñeco tiene una pata dañada. Tú eres el veterinario y tu hermano el dueño. Escribe cómo resuelven juntos.", "Por ejemplo: Yo vendo la pata y tú le das el medicamento y lo cargas", "Cooperan para resolver.")],
+    [E("En el juego de la veterinaria, un perro muñeco tiene una pata dañada. Tú eres el veterinario y tu hermano el dueño. Escribe cómo resuelven juntos.", "Por ejemplo: Yo le pongo una venda en la pata, tú le das el remedio y lo cargas", "Cooperan para resolver.")],
     [
         E("¿Cada uno propone una idea en equipo?", "Sí", "Así se resuelve mejor."),
         E("¿«Estoy de acuerdo» muestra que acepto la idea?", "Sí", "Dice que pienso igual."),
@@ -348,7 +348,7 @@ reg(
     ["Sé que hay palabras que riman.", "Sé separar palabras en sílabas."],
     [
         "El ritmo es la música que tienen las palabras al decirlas. En un poema, el ritmo viene de las sílabas y de las pausas. Para sentir el ritmo, puedes dar palmadas por cada sílaba. Por ejemplo, «ven-ta-na» tiene tres palmadas.",
-        "Los trabalenguas son frases difíciles de decir porque repiten sonidos parecidos. Un ejemplo es: «Pablo pela papas pálidas para papá». Para decirlo bien, se empieza muy despacio, abriendo la boca y pronunciando cada p. Luego se acelera de a poco, sin comerse las sílabas.",
+        "Los trabalenguas son frases difíciles de decir porque repiten sonidos parecidos. Un ejemplo es: «Pablo pela papas pálidas para papá» (pálidas quiere decir de color muy claro). Para decirlo bien, se empieza muy despacio, abriendo la boca y pronunciando cada p. Luego se acelera de a poco, sin comerse las sílabas.",
         "La articulación es mover bien la boca, los labios y la lengua para decir claro cada sonido. Si me equivoco, no pasa nada: vuelvo a empezar más despacio. Con práctica, mi lengua aprende y puedo decir el trabalenguas más rápido sin perder claridad.",
     ],
     [("ritmo", "la música que forman las sílabas y las pausas"), ("trabalenguas", "frase difícil de decir por sus sonidos repetidos"), ("articular", "mover la boca para decir claro cada sonido"), ("sílaba", "parte de una palabra"), ("pausa", "pequeño silencio al hablar")],
@@ -368,7 +368,7 @@ reg(
         E("¿Para qué sirven las pausas?", "Para dar ritmo y respirar", "Marcan los tiempos."),
     ],
     [
-        E("Trabalenguas: «La rana Rosa rasca la rama rugosa». ¿Qué sonido se repite mucho?", "La r", "Aparece en rana, Rosa, rasca, rama y rugosa."),
+        E("Trabalenguas: «La rana Rosa rasca la rama rugosa» (rugosa quiere decir áspera). ¿Qué sonido se repite mucho?", "La r", "Aparece en rana, Rosa, rasca, rama y rugosa."),
         E("En «La rana Rosa rasca la rama rugosa», ¿cuántas palabras hay?", "7", "Cuento: la, rana, Rosa, rasca, la, rama, rugosa."),
         E("Trabalenguas: «Tito toma té tibio tras el trote». Separa en sílabas «tibio».", "ti-bio", "Tiene dos sílabas."),
     ],
@@ -421,7 +421,7 @@ reg(
         E("En una pregunta, ¿la voz sube o baja al final?", "Sube", "Marca que se pregunta."),
     ],
     [
-        E("Verso: «¡Qué linda mañana!». ¿Cómo lo dices: con asombro o con tristeza?", "Con asombro o alegría", "El verso muestra emoción positiva."),
+        E("Verso: «¡Qué linda mañana!». ¿Cómo lo dices: con asombro o con tristeza?", "Con asombro", "El verso muestra una emoción alegre."),
         E("Verso: «Dime, luna, ¿dónde vas?». ¿Subes la voz en la pregunta?", "Sí", "Los signos ¿? lo indican."),
         E("Verso: «Duerme, duerme, sol cansado». ¿Cómo lo dices: suave o muy fuerte?", "Suave", "Habla de dormir."),
     ],
@@ -474,9 +474,9 @@ reg(
         E("¿Cuántos pasos tiene el ensayo de esta clase?", "5", "Son cinco pasos de ensayo."),
     ],
     [
-        E("Poema: «Un sapo en el charco / cantaba una canción». Escribe un gesto para el primer verso.", "Por ejemplo: dos manos como boca de sapo", "El gesto recuerda el verso."),
+        E("Poema: «El sapo en el charco / cantaba una canción». Escribe un gesto para el primer verso.", "Por ejemplo: dos manos como boca de sapo", "El gesto recuerda el verso."),
         E("Adivinanza: «Tengo hojas y no soy libro, tengo tronco y no soy gato; doy sombra en el verano. ¿Quién soy?». Escribe la respuesta.", "El árbol", "Tiene hojas, tronco y da sombra."),
-        E("Adivinanza: «Tiene cuatro patas y no camina; tiene respaldo y no es persona». ¿Qué es?", "Una silla", "Tiene patas y respaldo."),
+        E("Adivinanza: «Tiene cuatro patas y no camina; tiene respaldo y no es persona; te sientas en ella». ¿Qué es?", "Una silla", "Tiene patas y respaldo."),
     ],
     [
         E("Eva tapó el poema desde el primer ensayo y se olvidó de todo. ¿Qué pudo hacer?", "Volver a leerlo y retirar el apoyo de a poco", "Los apoyos se quitan despacio."),
@@ -492,8 +492,8 @@ reg(
         E("¿Un dibujo puede ayudarme a recordar?", "Sí", "Une imagen y palabra."),
         E("¿Retiro el apoyo de golpe?", "No, de a poco", "Se gana confianza."),
     ],
-    ("Ensaya en 5 pasos el poema «Un sapo en el charco / cantaba una canción; / la luna lo escuchaba / con mucha atención». 1) Léelo tres veces en voz alta. 2) Dilo mirando el papel. 3) Tapa el poema y di un verso a la vez. 4) Di toda la estrofa de memoria. 5) Recítalo al adulto. Anota qué apoyo usaste en cada paso (texto, gesto o dibujo).",
-     "Leí tres veces. Dije mirando el papel. Taparé el poema y dije un verso a la vez con el gesto del sapo. Dije toda la estrofa de memoria. Recité al adulto con voz clara. Apoyos: texto, gesto y dibujo de la luna.",
+    ("Ensaya en 5 pasos el poema «El sapo en el charco / cantaba una canción; / la luna lo escuchaba / con mucha atención». 1) Léelo tres veces en voz alta. 2) Dilo mirando el papel. 3) Tapa el poema y di un verso a la vez. 4) Di toda la estrofa de memoria. 5) Recítalo al adulto. Anota qué apoyo usaste en cada paso (texto, gesto o dibujo).",
+     "Leí tres veces. Dije mirando el papel. Tapé el poema y dije un verso a la vez con el gesto del sapo. Dije toda la estrofa de memoria. Recité al adulto con voz clara. Apoyos: texto, gesto y dibujo de la luna.",
      ["sigue los cinco pasos", "retira el apoyo poco a poco", "recita con voz clara"], ["lista de los cinco pasos con apoyos", "recitación al adulto"], ["saltarse pasos", "quitar el texto demasiado pronto"],
      "Si se olvida, vuelve al paso anterior y repite dos veces más."),
     "Aprende una adivinanza de memoria y dila a alguien.",
@@ -545,7 +545,7 @@ reg(
         E("¿Recibo los comentarios con una sonrisa?", "Sí", "Es una actitud respetuosa."),
         E("¿Hago pausas durante el poema?", "Sí", "Ayudan al ritmo."),
     ],
-    ("Haz un mini recital de 3 minutos para un adulto con: 1) el poema «La lluvia» o «El sapo», 2) esta adivinanza: «Soy redonda y brillo en la noche, cambio de forma y no me muevo» (respuesta: la luna) y 3) el trabalenguas «Tito toma té tibio tras el trote». Antes anuncia tu nombre y el título; al final di gracias. El adulto marca la pauta: anuncia, voz clara, pausas, gestos y gracias.",
+    ("Haz un mini recital de 3 minutos para un adulto con: 1) el poema «La lluvia» o «El sapo», 2) esta adivinanza: «Soy redonda y brillo en la noche, cambio de forma y me ven en el cielo» (respuesta: la luna) y 3) el trabalenguas «Tito toma té tibio tras el trote». Antes anuncia tu nombre y el título; al final di gracias. El adulto marca la pauta: anuncia, voz clara, pausas, gestos y gracias.",
      "Hola, soy Ana. Voy a recitar «La lluvia». (Recito con pausas y gestos.) Ahora una adivinanza. (Digo la adivinanza y espero.) Y un trabalenguas: Tito toma té tibio tras el trote. Gracias por escucharme. El adulto marcó cinco puntos.",
      ["anuncia nombre y título", "voz clara con pausas", "gestos pequeños", "dice gracias"], ["recital escuchado", "pauta de cinco puntos marcada"], ["recitar muy bajo", "no mirar al público"],
      "Marca el punto que faltó y pídele repetir solo esa parte."),

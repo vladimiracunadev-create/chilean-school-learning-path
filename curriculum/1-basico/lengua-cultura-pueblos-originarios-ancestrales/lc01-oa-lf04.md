@@ -371,7 +371,7 @@ Respuesta: El relato no lo dice; hay que preguntar
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice que Lía y su abuelo comieron pan en la orilla. ¿El relato lo dice?
-- **Z2.** Una niña dice que el abuelo habló bajito. ¿Es explícito?
+- **Z2.** Una niña dice que Lía y su abuelo hablaron bajito. ¿El relato lo dice con claridad?
 
 *Desafío*
 
@@ -402,8 +402,8 @@ Respuesta: El relato no lo dice; hay que preguntar
 - **A2.** Se quedó quieta y contó hasta diez. El relato lo dice.
 - **A3.** Abrió las alas y se fue volando. Es el final del relato.
 - **Z1.** No. Solo dice que llevaban pan.
-- **Z2.** Más o menos; el relato dice que pidió hablar bajito. Lo explícito es lo que el abuelo dijo; no dice que lo hicieron.
-- **D1.** 5. Hay cinco oraciones.
+- **Z2.** No; solo dice que el abuelo pidió hablar bajito. El relato cuenta lo que dijo el abuelo, pero no dice que hablaron bajito.
+- **D1.** 6. Hay seis oraciones.
 - **D2.** Por ejemplo, caminaron al amanecer. Se acepta un detalle que esté escrito.
 - **S1.** Que eso el relato no lo dijo. Solo se afirma lo dicho en el relato.
 - **E1.** Uno dicho claramente en el relato. Es el que está escrito o contado.
@@ -784,7 +784,7 @@ Respuesta: Reconozco que no lo sé y pregunto a quien lo contó
 
 - **A1.** Relato: «Lía y su abuelo caminaron al río al amanecer. Llevaban pan y una manta. En la orilla vieron una garza blanca. El abuelo dijo: «Hay que hablar bajito para no asustarla». Lía se quedó quieta y contó hasta diez. La garza abrió las alas y se fue volando.» Completa: «Aprendí que hay que ______ bajito cerca de los animales».
 - **A2.** Escribe una pregunta sobre el relato de práctica que no puedas responder con el texto.
-- **A3.** Ordena la despedida: a) gracias, b) pregunta, c) lo que aprendí. Escribe las letras en el orden de la lista de tres partes.
+- **A3.** Ordena la despedida: primero lo que aprendí, después lo que pregunto y al final el gracias. a) gracias, b) pregunta, c) lo que aprendí. Escribe las letras en ese orden.
 
 *Razonamiento y análisis*
 
@@ -821,7 +821,7 @@ Respuesta: Reconozco que no lo sé y pregunto a quien lo contó
 - **A3.** c, b, a. Aprendí, pregunto y agradezco.
 - **Z1.** No del todo. Debería decir qué no sabe.
 - **Z2.** Sí. Reconoció su límite y preguntó.
-- **D1.** 10. 5 niños por 2 frases son 10.
+- **D1.** 10. 2 + 2 + 2 + 2 + 2 = 10.
 - **D2.** Cualquier frase con las dos ideas. Debe incluir aprendizaje y pregunta.
 - **S1.** Que hay mucho más que preguntar a la comunidad. Un relato no enseña todo sobre un pueblo.
 - **E1.** No lo sé. Reconoces tu límite.

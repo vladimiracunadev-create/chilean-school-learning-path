@@ -111,7 +111,7 @@ reg(
         E("Beto dice: «Quiero la fruta porque me gusta y es sana». ¿Cuántas razones dio?", "2", "Son dos: le gusta y es sana."),
     ],
     [
-        E("Elige la mejor razón para «Debemos lavarnos las manos»: a) porque es lunes, b) porque quitamos los gérmenes.", "b", "La razón b explica el motivo de lavarse."),
+        E("Elige la mejor razón para «Debemos lavarnos las manos»: a) porque es lunes, b) porque así quedan limpias.", "b", "La razón b explica el motivo de lavarse."),
         E("Luz dice: «Creo que debemos caminar en la fila porque así nadie se golpea». Escribe su opinión.", "Debemos caminar en la fila", "Es lo que piensa antes de «porque»."),
     ],
     [E("Tu grupo debe decidir qué cuento leer: «el zorro» o «la tortuga». Tú prefieres «la tortuga». Di tu opinión con razón.", "Por ejemplo: Prefiero el de la tortuga porque es corto", "Tiene opinión y razón coherente.")],
@@ -134,20 +134,20 @@ reg(
     "Aprenderé a mostrar que escuché lo que dijo otra persona. Sirve para que la persona se sienta escuchada y para continuar bien la conversación.",
     ["Sé respetar turnos.", "Sé dar una opinión con razón."],
     [
-        "Escuchar bien no es sólo callarse. También es mostrar que entendí. Puedo mirar a la persona, hacer un gesto con la cabeza y repetir con mis palabras lo que dijo. Por ejemplo, si Ana dice «Me gusta jugar en el patio porque hay espacio», yo puedo decir: «Tú dijiste que te gusta el patio porque hay espacio».",
-        "Repetir con mis palabras se llama parafrasear. Sirve para comprobar si entendí bien. Si me equivoco, la persona me corrige. Después de mostrar que escuché, puedo agregar mi idea o hacer una pregunta sobre lo que dijo.",
+        "Escuchar bien no es solo callarse. También es mostrar que entendí. Puedo mirar a la persona, hacer un gesto con la cabeza y repetir con mis palabras lo que dijo. Por ejemplo, si Ana dice «Me gusta jugar en el patio porque hay espacio», yo puedo decir: «Tú dijiste que te gusta el patio porque hay espacio».",
+        "Decir lo que escuché con mis palabras sirve para comprobar si entendí bien. Si me equivoco, la persona me corrige. Después de mostrar que escuché, puedo agregar mi idea o hacer una pregunta sobre lo que dijo.",
         "Hay frases que ayudan: «Tú dijiste que…», «Entiendo que…», «¿Quieres decir que…?». Usarlas hace que la conversación sea más amable y que nadie quede sin ser escuchado.",
     ],
-    [("escuchar", "poner atención a lo que otro dice"), ("parafrasear", "repetir con mis palabras lo que alguien dijo"), ("comprobar", "revisar si entendí bien"), ("pregunta", "lo que digo para saber más"), ("gesto", "movimiento que muestra que escucho")],
+    [("escuchar", "poner atención a lo que otro dice"), ("decir con mis palabras", "contar lo que alguien dijo, usando mis propias palabras"), ("comprobar", "revisar si entendí bien"), ("pregunta", "lo que digo para saber más"), ("gesto", "movimiento que muestra que escucho")],
     [
-        ("Parafrasear", "Ana: «Me gusta el patio porque hay espacio para correr.» ¿Cómo muestra Beto que escuchó?", ["Mira a Ana.", "Repite con sus palabras.", "Usa «Tú dijiste que…»."], "Tú dijiste que te gusta el patio porque puedes correr."),
+        ("Decir con mis palabras", "Ana: «Me gusta el patio porque hay espacio para correr.» ¿Cómo muestra Beto que escuchó?", ["Mira a Ana.", "Repite con sus palabras.", "Usa «Tú dijiste que…»."], "Tú dijiste que te gusta el patio porque puedes correr."),
         ("Comprobar con una pregunta", "Luz: «Mi gato duerme todo el día.» ¿Qué pregunta muestra que escuché?", ["Pienso en lo que dijo Luz.", "Hago una pregunta sobre eso.", "Uso «¿Quieres decir que…?»."], "¿Quieres decir que tu gato duerme casi todo el día?"),
     ],
-    [("Mirar para otro lado mientras alguien habla.", "Se pierde la atención.", "Mira a la persona y muestra interés."), ("Repetir mal lo que dijo.", "No se prestó atención.", "Escucha con calma y repite sólo lo que dijo.")],
+    [("Mirar para otro lado mientras alguien habla.", "Se pierde la atención.", "Mira a la persona y muestra interés."), ("Repetir mal lo que dijo.", "No se prestó atención.", "Escucha con calma y repite solo lo que dijo.")],
     [
         E("Ana dijo: «Me gusta el patio». ¿Qué frase muestra que escuché: «Tú dijiste que te gusta el patio» o «Yo tengo un perro»?", "Tú dijiste que te gusta el patio", "Repite lo que dijo Ana."),
         E("¿Qué hago con mi mirada cuando alguien habla?", "Lo miro", "Mirar muestra atención."),
-        E("¿Parafrasear es repetir con mis palabras lo que dijo otra persona?", "Sí", "Eso significa parafrasear."),
+        E("¿Decir con mis palabras lo que dijo otra persona muestra que escuché?", "Sí", "Así se ve que entendí."),
     ],
     [
         E("¿Por qué conviene mostrar que escuché?", "Para que la persona se sienta escuchada", "Mostrar atención es respeto."),
@@ -161,16 +161,16 @@ reg(
     ],
     [
         E("Diálogo: Ana: «Me gusta leer porque aprendo cosas». Beto: «Yo tengo una bicicleta roja». ¿Beto mostró que escuchó?", "No", "No habló de lo que dijo Ana."),
-        E("Diálogo: Mía: «Hoy no jugué porque me dolía la pierna». Pedro: «Tú dijiste que no jugaste porque te dolía la pierna». ¿Cómo lo hizo Pedro?", "Bien, porque repitió lo que dijo Mía", "Pedro parafraseó correctamente."),
+        E("Diálogo: Mía: «Hoy no jugué porque me dolía la pierna». Pedro: «Tú dijiste que no jugaste porque te dolía la pierna». ¿Cómo lo hizo Pedro?", "Bien, porque repitió lo que dijo Mía", "Pedro dijo con sus palabras lo que dijo Mía."),
     ],
     [
         E("Eva dice «Mi hermano tiene ocho años». Teo repite «Tu hermano tiene dos años». ¿Qué falló?", "No escuchó bien el dato", "Cambió el número ocho por dos."),
         E("Rosa quiere saber si entendió «Mañana vamos al parque a las tres». Escribe una pregunta de comprobación.", "Por ejemplo: ¿Quieres decir que vamos mañana a las tres al parque?", "Comprueba el dato."),
     ],
-    [E("En la clase, tu compañero dice: «Me gustó el cuento porque el perro era valiente». Quieres mostrar que escuchaste y agregar tu idea. ¿Qué dices?", "Por ejemplo: Tú dijiste que te gustó porque el perro era valiente; yo pienso que el final fue lindo", "Primero parafrasea y luego agrega su idea.")],
+    [E("En la clase, tu compañero dice: «Me gustó el cuento porque el perro era valiente». Quieres mostrar que escuchaste y agregar tu idea. ¿Qué dices?", "Por ejemplo: Tú dijiste que te gustó porque el perro era valiente; yo pienso que el final fue lindo", "Primero dice con sus palabras lo que escuchó y luego agrega su idea.")],
     [
         E("¿Qué palabra uso para empezar a repetir lo que dijo otro: «Tú dijiste que…» o «Me da lo mismo»?", "Tú dijiste que…", "Repite lo que dijo."),
-        E("¿Qué muestra que escucho: mirar, asentir o repetir?", "Todas", "Las tres muestran atención."),
+        E("¿Qué muestra que escucho: mirar, hacer un gesto con la cabeza o decir con mis palabras lo que oí?", "Todas", "Las tres muestran atención."),
         E("Si me equivoco al repetir, ¿qué puede hacer la otra persona?", "Corregirme", "Así aclaramos el mensaje."),
     ],
     ("Lee el diálogo con un adulto: Persona A: «Me gusta la plaza porque hay columpios y mi tía me lleva». Persona B: «…» Escribe y di lo que respondería B para mostrar que escuchó (usa «Tú dijiste que…») y agrega una pregunta. Luego representa el diálogo con tu adulto cambiando de papel.",
@@ -178,7 +178,7 @@ reg(
      ["repite lo dicho con sus palabras", "agrega una pregunta", "mira a la persona"], ["frase escrita y dicha en voz alta"], ["cambiar los datos", "no hacer pregunta"],
      "Si cambió algún dato, relee el diálogo y corrige solo ese dato."),
     "Repite hoy con tus palabras algo que alguien te haya dicho.",
-    "Parafrasea dos veces seguidas lo que dice un adulto y pide que te diga si lo entendiste bien.",
+    "Di con tus palabras dos veces seguidas lo que dice un adulto y pide que te diga si lo entendiste bien.",
 )
 
 reg(
@@ -261,7 +261,7 @@ reg(
         E("¿Por qué conviene dar razones en una conversación?", "Porque ayudan a entender mi idea", "La razón explica la opinión."),
     ],
     [
-        E("Diálogo: Ana: «Quiero leer el libro del oso porque tiene dibujos». Beto: «Tú dijiste que quieres el del oso. Yo prefiero el del tren porque es más corto». ¿Qué hizo Beto primero: parafrasear o disentir?", "Parafrasear", "Primero repitió lo de Ana."),
+        E("Diálogo: Ana: «Quiero leer el libro del oso porque tiene dibujos». Beto: «Tú dijiste que quieres el del oso. Yo prefiero el del tren porque es más corto». ¿Qué hizo Beto primero: repetir lo que dijo Ana o pensar distinto?", "Repetir lo que dijo Ana", "Primero repitió lo de Ana."),
         E("En ese mismo diálogo, ¿Beto dio una razón para su preferencia?", "Sí, que es más corto", "Dijo «porque es más corto»."),
         E("Ana ahora quiere seguir la conversación. Escribe una pregunta para Beto.", "Por ejemplo: ¿Qué hay en el libro del tren?", "Eso muestra interés."),
     ],
@@ -295,7 +295,7 @@ reg(
     ["Sé decir mi nombre.", "Sé saludar."],
     [
         "Presentarse es decir quién soy. Se dice el nombre y, si se quiere, algo que a uno le gusta. Por ejemplo: «Hola, me llamo Ana y me gusta dibujar». Se dice con voz clara y mirando a la persona. No hace falta decir datos privados como la dirección o el teléfono.",
-        "Presentar a otra persona es decirle a alguien quién es esa persona. Por ejemplo: «Te presento a mi amigo Beto». Se nombra primero a quien se quiere honrar o a la persona mayor, y luego a la otra. Después ambas pueden saludarse: «Mucho gusto» o «Encantada».",
+        "Presentar a otra persona es decirle a alguien quién es esa persona. Por ejemplo: «Te presento a mi amigo Beto». Se nombra primero a la persona mayor y luego a la otra. Después ambas pueden saludarse: «Mucho gusto» o «Encantado».",
         "Cuando alguien se presenta contigo, responde con tu nombre y una frase amable, como «Mucho gusto» o «Qué bueno conocerte». Así la conversación empieza bien. Si no oíste el nombre, puedes decir «¿Me lo repites, por favor?».",
     ],
     [("presentarse", "decir quién soy"), ("presentar", "decir quién es otra persona"), ("mucho gusto", "frase para saludar a alguien que conozco hoy"), ("nombre", "cómo me llaman"), ("datos privados", "información que no se comparte con extraños")],
@@ -303,7 +303,7 @@ reg(
         ("Presentarme", "Ana quiere presentarse en un curso nuevo. ¿Qué dice?", ["Saluda.", "Dice su nombre.", "Agrega algo que le gusta."], "Hola, me llamo Ana y me gusta dibujar."),
         ("Presentar a un amigo", "Beto llega con Luz y quiere presentarla a su abuela. ¿Qué dice?", ["Primero nombra a la abuela.", "Después nombra a Luz.", "Usa «Te presento a…»."], "Abuela, te presento a mi amiga Luz."),
     ],
-    [("Hablar bajito y sin mirar.", "Da vergüenza.", "Di tu nombre con voz clara y mirando."), ("Dar datos privados como la dirección.", "No se sabe qué cuidar.", "Di sólo tu nombre y un gusto.")],
+    [("Hablar bajito y sin mirar.", "Da vergüenza.", "Di tu nombre con voz clara y mirando."), ("Dar datos privados como la dirección.", "No se sabe qué cuidar.", "Di solo tu nombre y un gusto.")],
     [
         E("¿Cuál es una buena presentación: «Me llamo Ana» o «Ana vive en la calle…»?", "Me llamo Ana", "No hay que dar la dirección."),
         E("Para presentar a mi amigo Beto, digo: «Te ___ a mi amigo Beto». ¿Qué palabra falta: presento o llevo?", "presento", "Presentar a alguien es decir quién es."),
@@ -321,7 +321,7 @@ reg(
     ],
     [
         E("Sol se presenta así: «Me llamo Sol y vivo en la calle Los Olmos 123». ¿Qué dato no conviene decir?", "La dirección", "Es un dato privado."),
-        E("Teo presenta a su papá y a su amigo Iván. Dice: «Iván, te presento a mi papá». ¿Está bien?", "Sí", "Presenta a una persona mayor con respeto."),
+        E("Teo presenta a su papá y a su amigo Iván. Dice: «Papá, te presento a mi amigo Iván». ¿Está bien?", "Sí", "Nombra primero a su papá, que es la persona mayor."),
     ],
     [
         E("Ordena para presentarte: a) Mucho gusto, b) Hola, c) Me llamo Ana. Escribe las letras en orden.", "b, c, a", "Primero saludo, luego nombre, después cortesía."),
@@ -336,7 +336,7 @@ reg(
     ("Prepara una presentación de tres frases: 1) saludo, 2) tu nombre y 3) algo que te gusta (por ejemplo: dibujar, jugar a la pelota, cantar, leer). Luego presenta a un muñeco o a un adulto con la frase «Te presento a…». Ensaya frente a un adulto con voz clara.",
      "Hola. Me llamo Ana. Me gusta dibujar. Te presento a mi muñeco Pancho.",
      ["saluda", "dice su nombre", "dice un gusto", "presenta a otra persona"], ["adulto observa la presentación"], ["decir datos privados", "voz muy baja"],
-     "Si habló bajito, repite con la voz de una cuchara grande: clara pero amable."),
+     "Si habló bajito, repite con la voz un poco más fuerte: clara pero amable."),
     "Presenta a un familiar a otro familiar con la frase «Te presento a…».",
     "Escribe cómo presentarías a dos amigos que no se conocen.",
 )
@@ -368,7 +368,7 @@ reg(
         E("¿Qué hago con mi cara al saludar?", "Miro y sonrío", "Hace más amable el saludo."),
     ],
     [
-        E("Es mediodía y ves a la señora Rosa, vecina. Escribe cómo la saludas.", "Buenas tardes, señora Rosa", "Después del mediodía se dice buenas tardes."),
+        E("Es la 1 de la tarde (ya almorzaste) y ves a la señora Rosa, vecina. Escribe cómo la saludas.", "Buenas tardes, señora Rosa", "Después del almuerzo se dice buenas tardes."),
         E("Sales de la escuela a las 4 de la tarde. Escribe cómo te despides de la profesora.", "Hasta mañana, profesora", "Es una despedida amable."),
         E("Escribe cómo saludarías a tu abuelo cuando lo ves al amanecer.", "Buenos días, abuelo", "Es de mañana."),
     ],
@@ -377,12 +377,12 @@ reg(
         E("Luis dice «Buenas noches» a su profesora a las 10 de la mañana. ¿Se equivocó?", "Sí", "A esa hora corresponde «buenos días»."),
     ],
     [
-        E("Una familia sale de una tienda a las 7 de la tarde (ya anochece). ¿Qué dicen al despedirse: «buenas noches» o «buenos días»?", "Buenas noches", "Es de noche o casi."),
+        E("Una familia sale de una tienda a las 9 de la noche. ¿Qué dicen al despedirse: «buenas noches» o «buenos días»?", "Buenas noches", "Ya es de noche."),
         E("¿Cuántos saludos distintos hay en este texto: buenos días, buenas tardes, buenas noches?", "3", "Se cuentan tres."),
     ],
     [E("En el patio, un compañero nuevo te dice «hola». Detrás viene su mamá. ¿Cómo saludas a cada uno?", "Al niño: hola; a su mamá: buenas tardes, señora", "Al niño con cercanía y a la adulta con respeto.")],
     [
-        E("Si me despido de un adulto, ¿digo «hasta luego» o «chao, loco»?", "Hasta luego", "Es una despedida respetuosa."),
+        E("Si me despido de un adulto, ¿digo «hasta luego» o «¡chao, flojo!»?", "Hasta luego", "Es una despedida respetuosa."),
         E("¿Cuándo digo «buenos días»?", "En la mañana", "Es el saludo de la mañana."),
         E("¿Saludar con una sonrisa es amable?", "Sí", "Hace sentir bien al otro."),
     ],
@@ -439,7 +439,7 @@ reg(
         E("¿Pido permiso para tomar cosas de otra persona?", "Sí", "Así respeto lo ajeno."),
         E("¿Cómo termino cuando me prestan algo?", "Digo gracias", "Agradezco el favor."),
     ],
-    ("Escribe y di en voz alta cuatro peticiones con cortesía: 1) pedir permiso para ir al baño, 2) pedir prestada una goma, 3) preguntar la hora a un adulto, 4) pedir que te ayuden a abrir un frasco. Cada una debe llevar «por favor» o «disculpa».",
+    ("Escribe y di en voz alta cuatro peticiones con cortesía: 1) pedir permiso para ir al baño, 2) pedir prestada una goma, 3) preguntar la hora a tu profesora o a un adulto de tu familia, 4) pedir que te ayuden a abrir un frasco. Cada una debe llevar «por favor» o «disculpa».",
      "1) Profesora, ¿puedo ir al baño, por favor? 2) Beto, ¿me prestas tu goma, por favor? 3) Disculpa, ¿qué hora es? 4) ¿Me ayudas a abrir el frasco, por favor?",
      ["cuatro peticiones", "usa por favor o disculpa", "usa tono amable"], ["cuatro frases escritas y dichas"], ["dar órdenes", "no agradecer"],
      "Si dio una orden, pide que la cambie a pregunta con «¿puedes…?» o «¿me prestas…?»."),
@@ -460,7 +460,7 @@ reg(
     [("emoción", "lo que siento, como alegría o tristeza"), ("expresar", "decir con palabras lo que pienso o siento"), ("me siento", "frase para decir cómo estoy"), ("herir", "hacer daño con lo que digo"), ("tranquilo", "sin gritar ni enojarme")],
     [
         ("Decir una emoción", "Nadie te invitó a jugar y te sientes triste. ¿Qué dices?", ["Pienso cómo me siento.", "Uso «Me siento…».", "Agrego «porque…»."], "Me siento triste porque no me invitaron a jugar."),
-        ("Pedir lo que quiero", "Un compañero te quita el lápiz. Estás molesto. ¿Qué dices con respeto?", ["Digo cómo me siento.", "Digo lo que quiero.", "Uso voz tranquila."], "Me siento molesto porque me quitaste el lápiz; me gustaría que lo devuelvas."),
+        ("Pedir lo que quiero", "Un compañero te quita el lápiz. Estás molesto. ¿Qué dices con respeto?", ["Digo cómo me siento.", "Digo lo que quiero.", "Uso voz tranquila."], "Me siento molesto porque me quitaste el lápiz; me gustaría que me lo devolvieras."),
     ],
     [("Gritar o insultar cuando uno está enojado.", "Se piensa que así me escuchan.", "Di «me siento… porque…» con voz tranquila."), ("Guardarse todo lo que se siente.", "Da vergüenza decirlo.", "Cuéntalo a un adulto o amigo.")],
     [
@@ -493,7 +493,7 @@ reg(
         E("¿Es bueno contar lo que siento a un adulto de confianza?", "Sí", "Un adulto me puede ayudar."),
     ],
     ("Lee cuatro situaciones y escribe qué dirías, con «Me siento… porque…». A) Tu amigo te regaló un dibujo. B) Alguien rompió tu torre de bloques. C) No te dejaron jugar a la pelota. D) Ganaste un premio en el curso. En una de ellas agrega «Me gustaría que…».",
-     "A) Me siento contento porque mi amigo me regaló un dibujo. B) Me siento molesto porque rompieron mi torre; me gustaría que me pidan permiso. C) Me siento triste porque no me dejaron jugar. D) Me siento orgulloso porque gané un premio.",
+     "A) Me siento contento porque mi amigo me regaló un dibujo. B) Me siento molesto porque rompieron mi torre; me gustaría que me pidieran permiso. C) Me siento triste porque no me dejaron jugar. D) Me siento orgulloso porque gané un premio.",
      ["dice la emoción", "dice la causa", "usa voz tranquila"], ["cuatro frases escritas y dichas en voz alta"], ["decir solo «me enojé» sin causa", "insultar"],
      "Si falta la causa, pregunta: ¿qué pasó para que te sintieras así?"),
     "Cuenta a un adulto cómo te sentiste hoy con «Me siento… porque…».",
@@ -563,7 +563,7 @@ reg(
         "Por ejemplo, si llegas a la escuela, saludas. Si quieres salir de la sala, pides permiso. Si alguien te ayudó, agradeces. Si molestaste sin querer, pides perdón. Si un compañero está triste, dices algo amable. Cada situación pide una palabra distinta.",
         "Para elegir bien, usa la regla: lo que dices debe ser amable, claro y respetuoso. Si dudas, imagina cómo te gustaría que te hablaran a ti. Con práctica, elegirás cada vez mejor.",
     ],
-    [("situación", "momento en que estoy con otros"), ("convivir", "vivir y estar con otros en armonía"), ("respuesta social", "lo que digo o hago con los demás"), ("adecuado", "que sirve para la situación"), ("regla", "guía para actuar")],
+    [("situación", "momento en que estoy con otros"), ("convivir", "llevarse bien con los demás"), ("respuesta social", "lo que digo o hago con los demás"), ("adecuado", "que sirve para la situación"), ("regla", "guía para actuar")],
     [
         ("Elegir la respuesta", "Llegas a la escuela y ves a tu profesora. ¿Saludas o pides permiso?", ["Llego a un lugar.", "Veo a una persona mayor.", "Corresponde saludar ahí."], "Saludo: «Buenos días, profesora»."),
         ("Elegir otra respuesta", "Derramaste agua en la mesa de Luz sin querer. ¿Qué dices?", ["Cometí un error.", "Molesté a Luz.", "Corresponde pedir perdón."], "Lo siento, derramé agua; te ayudo a secar."),
@@ -577,7 +577,7 @@ reg(
     [
         E("¿Qué tres preguntas me hago antes de hablar?", "Con quién hablo, dónde estoy y qué necesito", "Me ayudan a elegir las palabras."),
         E("¿Por qué no sirve usar siempre la misma frase?", "Porque cada situación necesita una respuesta distinta", "No es lo mismo saludar que pedir perdón."),
-        E("¿Qué debe ser lo que digo: amable, claro y respetuoso?", "Sí", "Esa es la regla."),
+        E("¿Lo que digo debe ser amable, claro y respetuoso?", "Sí", "Esa es la regla."),
     ],
     [
         E("Un niño nuevo está solo en el recreo. Escribe una frase amable para invitarlo a jugar.", "Por ejemplo: Hola, ¿quieres jugar con nosotros?", "Incluye a la otra persona."),
@@ -598,7 +598,7 @@ reg(
         E("Si encuentro a mi abuela por la mañana, ¿qué digo?", "Buenos días, abuela", "Saludo con respeto."),
         E("¿Puedo gritar para que me escuchen mejor?", "No", "Debo hablar con respeto."),
     ],
-    ("Lee cuatro situaciones y escribe la respuesta social adecuada, diciendo en voz alta tu frase. A) Llegas a la casa de un compañero y su mamá abre la puerta. B) Quieres tomar prestada la pelota de Eva. C) Un compañero te ayudó a abrir tu mochila. D) Sin querer, golpeaste a Teo con tu codo.",
+    ("Lee cuatro situaciones y escribe la respuesta social adecuada, diciendo en voz alta tu frase. A) A las 4 de la tarde llegas a la casa de un compañero y su mamá abre la puerta. B) Quieres tomar prestada la pelota de Eva. C) Un compañero te ayudó a abrir tu mochila. D) Sin querer, golpeaste a Teo con tu codo.",
      "A) Buenas tardes, señora. B) Eva, ¿me prestas la pelota, por favor? C) Gracias por ayudarme. D) Lo siento, te golpeé sin querer; ¿estás bien?",
      ["elige una respuesta para cada situación", "usa palabras amables y claras", "adapta la frase a la persona"], ["cuatro frases"], ["usar la misma frase en todas", "no usar cortesía"],
      "Si repitió la misma frase, vuelve a la tabla de quién, dónde y qué necesito."),

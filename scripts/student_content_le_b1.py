@@ -74,7 +74,7 @@ lesson(
     [
         E("¿Qué parte de una carta nombra a quien escribe?", "La firma", "La firma lleva el nombre del emisor."),
         E("En «Querida tía Ana:», ¿quién es el destinatario?", "La tía Ana", "El saludo nombra a quien recibe el mensaje."),
-        E("¿Qué es más corta, una nota o una carta?", "La nota", "La nota sólo avisa o pide algo rápido."),
+        E("¿Cuál es más corta, una nota o una carta?", "La nota", "La nota sólo avisa o pide algo rápido."),
     ],
     task(
         "Escribe una nota de dos oraciones para alguien de tu casa. Elige una de estas ideas: A) avisas que juegas en la casa de un amigo hasta las cuatro; B) pides que compren pan. Incluye saludo, mensaje y tu firma.",
@@ -132,7 +132,7 @@ lesson(
         E("Ordena estos pasos de «ponerse los zapatos»: a) Amarra los cordones. b) Mete el pie en el zapato. c) Siéntate en una silla. Escribe las letras en orden.", "c, b, a", "Primero te sientas, luego metes el pie y al final amarras."),
         E("Este paso está mal escrito: «Zapato el pie mete». ¿Cómo queda bien?", "Mete el pie en el zapato", "Las palabras deben ir en orden para que se entienda."),
     ],
-    [E("Mateo quiere preparar pan con palta con estos pasos desordenados: «Tapa con la otra tajada. Saca dos tajadas de pan. Unta la palta. Aplasta la palta con un tenedor.» ¿Qué paso debe hacer primero?", "Sacar dos tajadas de pan", "Primero se necesitan las tajadas para poder untar.")],
+    [E("Mateo quiere preparar pan con palta con estos pasos desordenados: «Tapa con la otra tajada. Saca dos tajadas de pan. Unta la palta. Aplasta la palta con un tenedor.» ¿Qué paso debe hacer al final?", "Tapar con la otra tajada", "Primero se aplasta y se unta la palta; después se tapa.")],
     [
         E("¿Cómo se llama el texto que dice cómo hacer algo paso a paso?", "Instrucciones", "Enseña a hacer algo en orden."),
         E("Si las instrucciones dicen «primero» y «después», ¿qué muestran esas palabras?", "El orden de los pasos", "Dicen qué va antes y qué va después."),
@@ -252,9 +252,9 @@ lesson(
     ],
     [
         E("Lee: «Nico sacó la pala, la regadera y las semillas. Cavó un hoyo en la tierra.» ¿Qué va a hacer Nico?", "Plantar una semilla", "Pala, regadera, semillas y hoyo son pistas de plantar."),
-        E("Lee: «Al abrir la puerta, el olor a pan caliente llenó la casa.» ¿Quién estuvo haciendo pan? Elige: A) alguien en la casa B) nadie", "A) alguien en la casa", "El pan caliente indica que alguien lo preparó hace poco."),
+        E("Lee: «Lola entró a la cocina. Había harina sobre la mesa y un delantal con manchas blancas. Olía a pan caliente.» ¿Qué estuvo haciendo alguien en la cocina? A) pan B) nada", "A) pan", "La harina, el delantal con manchas blancas y el olor son pistas."),
     ],
-    [E("Lee esta nota: «Mamá: no olvides tu chaleco y tus guantes. Hoy hace mucho viento y está nublado.» ¿Qué le pide la nota a quien la lee? Responde con tus palabras.", "Que se abrigue con chaleco y guantes", "El viento y las nubes sugieren que hace frío.")],
+    [E("Lee esta nota: «Tomás: no olvides tu chaleco y tus guantes. Hoy hace mucho viento y está nublado. Mamá.» ¿Qué le pide la nota a quien la lee? Responde con tus palabras.", "Que se abrigue con chaleco y guantes", "El viento y las nubes sugieren que hace frío.")],
     [
         E("Lee: «La niña corre a la puerta cuando suena el timbre y grita: ¡Llegó papá!» ¿Está alegre o enojada?", "Alegre", "Corre y grita para recibirlo."),
         E("¿Qué se necesita para inferir bien? A) una pista del texto B) nada", "A) una pista del texto", "La inferencia se apoya en pistas."),
@@ -370,7 +370,7 @@ lesson(
     ],
     [
         E(f"Lee: {ABEJAS} Pedro dice: «Las abejas no sirven para nada». ¿Qué parte del texto muestra que se equivoca?", "Que hacen miel y que sin ellas muchas plantas no tendrían frutos", "Muestra que son útiles."),
-        E("Ana dice: «Es malo el texto porque sí». ¿Su opinión tiene razón?", "No", "«Porque sí» no explica nada."),
+        E("Ana dice: «Es malo el texto porque sí». ¿Su opinión da una razón del texto?", "No", "«Porque sí» no explica nada."),
     ],
     [
         E("Dos niños opinan: Luis: «Me gustó porque las abejas ayudan a las plantas». Mia: «Me gustó». ¿Quién apoyó mejor su opinión?", "Luis", "Dio una razón del texto."),
@@ -419,7 +419,7 @@ lesson(
     [
         E(f"Lee: {LIBRO} ¿Quién es la autora?", "Marta Ríos", "Su nombre aparece como autora en la portada."),
         E(f"Lee: {LIBRO} ¿Qué animal aparece dibujado en la portada?", "Un gato", "El dibujo muestra un gato mirando pájaros."),
-        E("¿Dónde está el título de un libro? A) en la portada B) en la contraportada del reverso", "A) en la portada", "El título se escribe en la parte de adelante."),
+        E("¿Dónde está el título de un libro? A) en la portada B) en la contraportada", "A) en la portada", "El título se escribe en la parte de adelante."),
     ],
     [
         E(f"Lee: {LIBRO} ¿Qué parte del libro dice «Un gato curioso quiere subir al cielo»?", "La contraportada", "Es el texto de la parte de atrás."),
@@ -483,7 +483,7 @@ lesson(
     ],
     [
         E("Ilustración: una niña con paraguas y botas, gotas cayendo, charcos en el suelo. ¿Qué tiempo muestra?", "Lluvia", "Las gotas, el paraguas y los charcos lo indican."),
-        E("¿Dónde pueden ocurrir las ilustraciones de un pez y burbujas?", "En el agua", "Los peces y burbujas viven bajo el agua."),
+        E("Una ilustración muestra un pez y burbujas. ¿Dónde está el pez?", "En el agua", "Los peces y las burbujas se ven bajo el agua."),
         E("¿Qué puede mostrar una ilustración además de personajes?", "El lugar y los objetos", "También cuenta dónde ocurre y qué hay."),
     ],
     [
@@ -558,7 +558,7 @@ lesson(
         E("Pedro quiere un libro para aprender sobre planetas. Se fija sólo en que la portada es roja. ¿Es buena forma de elegir? Responde sí o no.", "No", "Debe mirar el tema, no sólo el color."),
     ],
     [
-        E(f"Lee: {PRIMERAS} Un niño dice: «Quiero un libro que me haga reír con un personaje que sea fantástico». ¿Qué libro puede ser?", "El libro A", "Un dragón con miedo del fuego es un personaje fantástico."),
+        E(f"Lee: {PRIMERAS} Un niño dice: «Quiero un cuento con un personaje fantástico». ¿Qué libro puede ser?", "El libro A", "Es un cuento y un dragón es un personaje fantástico."),
         E("Ordena los pasos para elegir un libro: a) Leer una página. b) Mirar la portada. c) Hojear las ilustraciones. Escribe las letras.", "b, c, a", "Se mira afuera, luego se hojea y al final se lee."),
     ],
     [E("En la biblioteca Rosa quiere un libro de insectos. Encuentra uno cuya primera línea dice: «Las hormigas viven en colonias muy grandes». ¿Le sirve?", "Sí", "Habla de hormigas, que son insectos.")],
@@ -633,7 +633,7 @@ lesson(
         ["dice el título", "cuenta de qué trata", "da una razón con «porque»", "habla claro y espera su turno"],
         ["conversación con un adulto", "la recomendación escrita"],
         ["hablar sin decir el título", "no dar razón", "interrumpir"],
-        "Pide a tu compañero que te diga qué parte de tu recomendación entendió mejor.",
+        "Pide a quien te escuchó que te diga qué parte de tu recomendación entendió mejor.",
     ),
     "Cuenta a alguien de tu casa el libro que más te ha gustado.",
     "Pregunta a un familiar qué libro le gustaba de niño y por qué.",

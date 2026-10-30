@@ -27,7 +27,7 @@ register(
         {"title": "Reconocer una dirección", "problem": "Un poste de luz está parado derecho. ¿Qué dirección tiene la línea que lo dibuja?", "steps": ["El poste está parado, de arriba hacia abajo.", "Una línea parada se llama vertical."], "answer": "Vertical"},
     ],
     mistakes=[
-        {"wrong": "Llamar «ondulada» a una línea con puntas filudas.", "why": "Se confunde subir y bajar suave con cambiar de rumbo con ángulos.", "fix": "Si las curvas son suaves es ondulada; si hay quiebres bruscos es irregular."},
+        {"wrong": "Llamar «ondulada» a una línea con puntas muy puntiagudas.", "why": "Se confunde subir y bajar suave con cambiar de rumbo con ángulos.", "fix": "Si las curvas son suaves es ondulada; si hay quiebres bruscos es irregular."},
         {"wrong": "Hacer todas las líneas con la misma fuerza y grosor.", "why": "Se pierde la variedad que da vida al dibujo.", "fix": "Cambia la fuerza para hacer unas gruesas y otras delgadas."},
     ],
     tiers={
@@ -51,7 +51,7 @@ register(
             ex("Para mostrar un cerro muy fuerte y firme, ¿conviene una línea gruesa o una muy delgada?", "Gruesa", "La línea gruesa transmite fuerza."),
         ],
         "challenge": [
-            arith("Haces una hoja con 4 filas de 6 líneas verticales delgadas. ¿Cuántas líneas hiciste?", "4 * 6", "Son cuatro filas de seis líneas."),
+            arith("Haces una hoja con 4 filas de 6 líneas verticales delgadas. ¿Cuántas líneas hiciste?", "6 + 6 + 6 + 6", "Son cuatro filas de seis líneas: se suma 6 cuatro veces."),
             ex("Describe con dos tipos de línea un camino de montaña que sube y se quiebra: escribe qué dos usarías.", "Diagonal e irregular", "Sube en diagonal y cambia de rumbo."),
         ],
     },
@@ -153,7 +153,7 @@ register(
         {"title": "Elegir colores para un atardecer", "problem": "Vas a pintar un atardecer en el desierto. ¿Qué grupo de colores usas para el cielo?", "steps": ["El sol bajo es naranja y rojo.", "Esos colores son cálidos.", "Uso cálidos para el cielo."], "answer": "Cálidos: naranja, rojo y amarillo"},
     ],
     mistakes=[
-        {"wrong": "Pensar que los colores fríos pintan algo que está frío de verdad.", "why": "Se confunde sensación con temperatura real.", "fix": "Recuerda que es solo cómo se ve y cómo hace sentir."},
+        {"wrong": "Pensar que un color frío hace que algo esté frío de verdad.", "why": "Se confunde sensación con temperatura real.", "fix": "Recuerda que es solo cómo se ve y cómo hace sentir."},
         {"wrong": "Usar solo cálidos o solo fríos en todo el dibujo sin intención.", "why": "Se pierde el contraste.", "fix": "Elige un grupo principal y agrega un pequeño toque del otro."},
     ],
     tiers={
@@ -207,7 +207,7 @@ register(
     prior=["Sé tocar objetos y decir cómo se sienten.", "Sé usar un lápiz de cera."],
     explain=[
         "La textura es cómo se ve o cómo se siente la superficie de algo. La textura táctil se siente con las manos: la lija es áspera, el algodón es suave, un vidrio es liso. La textura visual solo se ve: en una hoja lisa puedes dibujar puntitos y parecer arena.",
-        "Para crear una textura puedes usar la técnica del frotado, que se hace así: 1. Pon un objeto con relieve, como una hoja, debajo de un papel delgado. 2. Toma el lápiz de cera de lado. 3. Frota con suavidad hasta que aparezca la forma. Las líneas del objeto se pasan al papel.",
+        "Para crear una textura puedes usar la técnica del frotado, que se hace así: 1. Pon un objeto con relieve, como una hoja, debajo de un papel delgado. 2. Toma el lápiz de cera de lado. 3. Frota con suavidad hasta que aparezca la forma. Las líneas del objeto se pasan al papel. En el frotado copias la textura de un objeto que sí se puede tocar, aunque en el papel solo se vea.",
         "También puedes crear texturas visuales con puntos, rayitas, círculos o manchas repetidas. Si repites rayitas cortas, parece pelo; si repites círculos pequeños, parece una piel con escamas. Elegir una textura es una decisión del artista.",
     ],
     vocab=[("textura", "cómo se ve o se siente la superficie de algo"), ("textura táctil", "la que se siente al tocar"), ("textura visual", "la que se ve pero no se siente, porque la superficie es lisa"), ("áspero", "que raspa al tocar, como la lija"), ("frotado", "técnica para pasar al papel el relieve de un objeto")],
@@ -233,7 +233,7 @@ register(
         "apply": [
             ex("Ordena los pasos del frotado con letras: A frotar suave, B poner el objeto debajo del papel, C tomar la cera de lado.", "B, C, A", "Primero se ubica el objeto, luego se toma la cera y se frota."),
             ex("Quieres dibujar la piel de un elefante, arrugada y rugosa. ¿Qué dibujas: A líneas quebradas cortas y muchas, B círculos grandes?", "A", "Las líneas cortas parecen arrugas."),
-            arith("En una hoja dibujas 5 filas de 6 puntitos para parecer arena. ¿Cuántos puntitos dibujaste?", "5 * 6", "Son cinco filas iguales de seis."),
+            arith("En una hoja dibujas 5 filas de 6 puntitos para parecer arena. ¿Cuántos puntitos dibujaste?", "6 + 6 + 6 + 6 + 6", "Son cinco filas iguales de seis: se suma 6 cinco veces."),
         ],
         "reason": [
             ex("Julio quiere que el pelo de su perro dibujado se vea suave. ¿Qué le conviene: líneas cortas y finas muy juntas o puntos grandes separados?", "Líneas cortas y finas muy juntas", "Así se parece al pelo."),
@@ -251,7 +251,7 @@ register(
         ex("¿Con qué lápiz haces mejor un frotado: de punta fina o de cera usado de lado?", "De cera de lado", "Marca el relieve en una zona ancha."),
     ],
     open_task=task(
-        "Haz un cuadrado dividido en cuatro partes. En dos partes haz frotados con dos objetos distintos de tu casa (por ejemplo una hoja y una malla de bolsa de frutas). En las otras dos partes crea dos texturas visuales con puntos, rayitas o círculos. Debajo de cada parte escribe si la textura es táctil o visual y cómo se siente o se ve.",
+        "Haz un cuadrado dividido en cuatro partes. En dos partes haz frotados con dos objetos distintos de tu casa (por ejemplo una hoja y una malla de bolsa de frutas). En las otras dos partes crea dos texturas visuales con puntos, rayitas o círculos. Debajo de cada parte escribe si la textura viene de un objeto que se toca (táctil) o si la dibujaste tú (visual), y cómo se ve.",
         "Parte 1: frotado de hoja, táctil, con líneas finas. Parte 2: frotado de malla, con cuadritos. Parte 3: puntitos, visual, parece arena. Parte 4: rayitas cortas, visual, parece pasto.",
         ["usa la técnica del frotado", "crea dos texturas visuales", "las clasifica bien"],
         ["cuadro con cuatro partes", "etiquetas de clasificación"],
@@ -270,7 +270,7 @@ register(
     prior=["Sé usar líneas de distintas clases.", "Sé diferenciar colores cálidos de fríos y texturas táctiles de visuales."],
     explain=[
         "En una composición, la línea, el color y la textura trabajan juntos. La línea marca formas y caminos. El color da sensación. La textura da superficie. El artista decide cuál de los tres destaca más y cómo se combinan.",
-        "Piet Mondrian, un pintor de los Países Bajos, usó solo líneas rectas negras, y rectángulos de rojo, amarillo, azul y blanco. Wassily Kandinsky, un pintor ruso, combinó líneas, círculos y triángulos de muchos colores. Cada uno decidió dar más importancia a elementos distintos.",
+        "Piet Mondrian, un pintor de los Países Bajos, hizo muchas obras con líneas rectas negras y rectángulos de rojo, amarillo, azul y blanco. Wassily Kandinsky, un pintor ruso, combinó líneas, círculos y triángulos de muchos colores. Cada uno decidió dar más importancia a elementos distintos.",
         "Para que una composición tenga orden puedes repetir un elemento, como una línea ondulada en varias partes, o crear un contraste, como un solo círculo cálido entre muchos fríos. Al terminar, explicas tu elección: «Usé líneas… porque…».",
     ],
     vocab=[("composición", "la manera como se ordenan los elementos en la obra"), ("repetición", "usar el mismo elemento varias veces"), ("contraste", "diferencia fuerte que hace destacar algo"), ("elemento visual", "línea, color o textura que se usan para crear"), ("explicar una elección", "dar una razón basada en lo que se ve")],
@@ -294,7 +294,7 @@ register(
             ex("En una composición con líneas rectas negras y rectángulos de colores, ¿la textura es protagonista o el color y la línea?", "El color y la línea", "Ahí lo principal son las líneas negras y los rectángulos de color."),
         ],
         "apply": [
-            ex("Quieres pintar un día de sol en el campo. ¿Qué colores usas para el fondo: cálidos o fríos?", "Cálidos", "El sol da sensación de calor."),
+            ex("Quieres que tu pintura de un día de mucho sol muestre calor. ¿Qué colores usas más: cálidos o fríos?", "Cálidos", "Los cálidos dan sensación de calor."),
             arith("Tu composición tiene 4 rectángulos rojos, 3 amarillos y 2 azules. ¿Cuántos rectángulos hay?", "4 + 3 + 2", "Se suman los tres colores."),
             ex("Quieres que un pájaro rojo destaque sobre un fondo de hojas verdes. ¿Qué recurso usas: contraste o repetición?", "Contraste", "El rojo se ve distinto del verde que lo rodea."),
         ],
@@ -303,7 +303,7 @@ register(
             ex("Una frase dice «Usé azul para mostrar frío». ¿Nombra un elemento que se ve en la obra?", "Sí", "Nombra el color azul."),
         ],
         "challenge": [
-            arith("En una obra pones 3 filas de 5 círculos fríos y 1 círculo cálido. ¿Cuántos círculos hay en total?", "3 * 5 + 1", "Se multiplican filas por círculos y se suma el cálido."),
+            arith("En una obra pones 3 filas de 5 círculos fríos y 1 círculo cálido. ¿Cuántos círculos hay en total?", "5 + 5 + 5 + 1", "Son 3 filas de 5 círculos fríos (se suma 5 tres veces) y se agrega el círculo cálido."),
             ex("Escribe una frase que explique una elección con línea, color y textura para una playa en invierno.", "Usé líneas onduladas, colores fríos y puntitos para mostrar el frío de la arena", "La frase nombra los tres elementos y la intención."),
         ],
     },

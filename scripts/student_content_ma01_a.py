@@ -113,7 +113,7 @@ register(
         ],
     },
     context=[arith("En una caja hay 8 guantes sueltos para formar parejas. ¿Cuántas parejas de guantes se forman?", "8//2", "Contando de 2 en 2 hasta 8 hay 4 saltos: 4 parejas.")],
-    selfcheck=[fill(4, 2, 5, (1, 3), "4, 6, 8, 10, 12."), ex("¿Cuántas fichas son 5 parejas?", "10", "5 × 2 = 10."), ex("¿Qué número sigue: 14, 16, __?", "18", "16 + 2 = 18.")],
+    selfcheck=[fill(4, 2, 5, (1, 3), "4, 6, 8, 10, 12."), ex("¿Cuántas fichas son 5 parejas?", "10", "2, 4, 6, 8, 10: cinco saltos de 2 llegan a 10."), ex("¿Qué número sigue: 14, 16, __?", "18", "16 + 2 = 18.")],
     open_task={
         "statement": "Dibuja 6 pares de zapatos (o 6 pares de círculos). Cuenta de 2 en 2 y escribe cada número debajo de su pareja. ¿Cuántos zapatos hay?",
         "example": "Dibujé 6 parejas y escribí debajo: 2, 4, 6, 8, 10, 12. Hay 12 zapatos.",
@@ -170,7 +170,7 @@ register(
     selfcheck=[fill(20, 10, 5, (1, 3), "20, 30, 40, 50, 60."), ex("¿Cuántos dedos hay en 2 manos?", "10", "5 + 5 = 10."), ex("¿Qué número sigue: 40, 45, __?", "50", "45 + 5 = 50.")],
     open_task={
         "statement": "En tu tabla del 100, pinta de rojo los números que dices al contar de 10 en 10 y de azul los que dices al contar de 5 en 5 desde 5 hasta 50. Describe qué ves.",
-        "example": "Los rojos son 10, 20, 30, 40, 50… y los azules son 5, 10, 15 … 50. Los rojos también son azules; los números del 10 siempre terminan en 0.",
+        "example": "Los rojos son 10, 20, 30, 40, 50… y los azules son 5, 10, 15 … 50. Algunos números quedaron con los dos colores: 10, 20, 30, 40 y 50. Los rojos siempre terminan en 0.",
         "criteria": ["pinta los números correctos", "usa dos colores", "describe lo que observa"],
         "evidence": ["tabla pintada", "descripción escrita"],
         "errors": ["pintar de 1 en 1", "mezclar los saltos"],
@@ -187,12 +187,12 @@ register(
     prior=["Sé contar de 1, 2, 5 y 10 en 10 hacia adelante.", "Sé qué significa hacia atrás."],
     explain=[
         "Para llegar de un número a otro, primero elige el salto. Si el salto es de 10 y partes en 30, el siguiente es 40. Hacia atrás es lo contrario: desde 30 con salto de 10 vas a 20.",
-        "Puedes empezar en cualquier número, no sólo en 0. Si partes en 27 y cuentas de 1 en 1 llegas a 28, 29, 30. Si cuentas de 10 en 10 llegas a 37, 47, 57. Fíjate en la cifra de las unidades: en los saltos de 10 no cambia.",
+        "Puedes empezar en cualquier número, no sólo en 0. Si partes en 27 y cuentas de 1 en 1 llegas a 28, 29, 30. Si cuentas de 10 en 10 llegas a 37, 47, 57. Fíjate en el último número de cada uno: en los saltos de 10 no cambia (siempre termina en 7).",
         "Con una flecha puedes marcar lo que haces: «+5» avanza cinco, «−5» retrocede cinco. Elige el salto que te lleve a la meta con menos pasos y comprueba que la meta coincida.",
     ],
     vocab=[("hacia adelante", "sumar al contar"), ("hacia atrás", "restar al contar"), ("meta", "el número al que quiero llegar"), ("punto de partida", "el número desde el que empiezo"), ("flecha", "dibujo que muestra un salto en la recta")],
     worked=[
-        {"title": "Elegir el salto", "problem": "Parto en 20 y quiero llegar a 50. ¿Qué salto me conviene?", "steps": ["La diferencia entre 20 y 50 es 30.", "Con saltos de 10: 30, 40, 50. Son 3 saltos.", "Con saltos de 1 serían 30 saltos."], "answer": "Saltos de 10; 3 saltos"},
+        {"title": "Elegir el salto", "problem": "Parto en 20 y quiero llegar a 50. ¿Qué salto me conviene?", "steps": ["De 20 a 50 hay que avanzar 30 lugares.", "Con saltos de 10: 30, 40, 50. Son 3 saltos.", "Con saltos de 1 serían 30 saltos."], "answer": "Saltos de 10; 3 saltos"},
         {"title": "Contar hacia atrás", "problem": "Parto en 45 y retrocedo 3 saltos de 5. ¿A qué número llego?", "steps": ["45 − 5 = 40.", "40 − 5 = 35.", "35 − 5 = 30."], "answer": "30"},
     ],
     mistakes=[
@@ -212,11 +212,11 @@ register(
             ex("Parto en 25 y retrocedo dos saltos de 5. ¿Dónde llego?", "15", "20 y 15."),
         ],
         "reason": [
-            ex("Paula parte en 40 y quiere llegar a 70. Dice que con saltos de 5 son 3 saltos. ¿Es correcto?", "No; con saltos de 5 son 6 saltos", "Hay 30 de diferencia y 30 ÷ 5 = 6."),
+            ex("Paula parte en 40 y quiere llegar a 70. Dice que con saltos de 5 son 3 saltos. ¿Es correcto?", "No; con saltos de 5 son 6 saltos", "De 40 a 70 hay 30 lugares, y 5 + 5 + 5 + 5 + 5 + 5 = 30: son 6 saltos de 5."),
             ex("Mateo dice que contando de 10 en 10 desde 23 se llega a 33, 43, 53. ¿Está bien?", "Sí", "Se suma 10 y las unidades quedan en 3."),
         ],
         "challenge": [
-            ex("Quiero llegar de 15 a 60 usando el menor número posible de saltos de 5 o 10. ¿Cuántos saltos hago en total si uso sólo saltos de 10 y uno de 5?", "5 saltos", "15 + 5 = 20 y luego 20 a 60 son 4 saltos de 10; en total 5."),
+            ex("Parto en 15. Hago un salto de 5 y luego saltos de 10 hasta llegar a 60. ¿Cuántos saltos hago en total?", "5 saltos", "15 + 5 = 20 y luego 30, 40, 50, 60 son 4 saltos de 10; en total 5."),
             ex("Parto en 100 y retrocedo de 10 en 10. ¿Después de cuántos saltos llego a 40?", "6 saltos", "90, 80, 70, 60, 50, 40."),
         ],
     },
@@ -224,7 +224,7 @@ register(
     selfcheck=[fill(20, 5, 5, (1, 3), "20, 25, 30, 35, 40."), ex("¿Qué número queda si retrocedo 10 desde 60?", "50", "60 − 10 = 50."), ex("¿Qué número sigue: 7, 8, __?", "9", "8 + 1 = 9.")],
     open_task={
         "statement": "Parte en 15. Escribe cómo llegarías a 45 usando saltos de 5 y luego usando saltos de 10. Cuenta los saltos de cada forma y di cuál usa menos.",
-        "example": "Con saltos de 5: 20, 25, 30, 35, 40, 45 (6 saltos). Con saltos de 10 y uno de 5: 25, 35, 45 son +10, +10, +10 = 3 saltos de 10 y llego a 45 con 3 saltos. Menos saltos: la segunda.",
+        "example": "Con saltos de 5: 20, 25, 30, 35, 40, 45 (6 saltos). Con saltos de 10: 25, 35, 45 (3 saltos). Usa menos saltos el de 10.",
         "criteria": ["mantiene el salto elegido", "cuenta bien los saltos", "compara las dos formas"],
         "evidence": ["secuencias escritas", "número de saltos", "frase de comparación"],
         "errors": ["mezclar los saltos", "contar los números y no los saltos"],
@@ -242,7 +242,7 @@ register(
     explain=[
         "Los números ordinales dicen el lugar que ocupa algo en una fila. El que está al comienzo es el primero (1º), el siguiente es el segundo (2º), luego el tercero (3º), el cuarto (4º) y el quinto (5º).",
         "No es lo mismo que contar cuántos hay. Si en una fila hay 5 niños, «cinco» dice cuántos son; «quinto» dice el lugar del último. Fíjate en el punto de partida: se empieza a contar desde donde dice la fila.",
-        "Para usar bien los ordinales, mira siempre desde dónde empieza la fila. Si el primero está a la izquierda, el segundo está a su derecha. Si cambias el comienzo, cambian los lugares.",
+        "Para usar bien los ordinales, mira siempre desde dónde empieza la fila. Si el primero está a la izquierda, el segundo está a su derecha. Si cambias el comienzo, cambian los lugares. Para una niña o una cosa femenina se dice primera, segunda, tercera… (1ª, 2ª, 3ª…).",
     ],
     vocab=[("ordinal", "palabra que dice el lugar: primero, segundo…"), ("primero (1º)", "el que está al comienzo de la fila"), ("último", "el que está al final de la fila"), ("fila", "personas u objetos puestos uno detrás de otro"), ("lugar", "posición dentro de la fila")],
     worked=[
@@ -295,8 +295,8 @@ register(
     prior=["Sé decir primero a quinto.", "Sé contar hasta 10."],
     explain=[
         "Después del quinto vienen el sexto (6º), el séptimo (7º), el octavo (8º), el noveno (9º) y el décimo (10º). Con ellos puedes ubicar a alguien en una fila de hasta diez lugares.",
-        "Los ordinales se escriben con el número y una pequeña «o» arriba: 6º, 7º, 8º, 9º, 10º. Se leen sexto, séptimo, octavo, noveno y décimo. Si el que habla es mujer o el sustantivo es femenino, se dice sexta, séptima, octava, novena, décima (6ª, 7ª...).",
-        "Para encontrar un lugar largo, no cuentes desde cero cada vez: cuenta desde el primero, apoyándote en los que ya sabes. El quinto es el de la mitad en una fila de diez; el sexto es el que viene justo después.",
+        "Los ordinales se escriben con el número y una pequeña «o» arriba: 6º, 7º, 8º, 9º, 10º. Se leen sexto, séptimo, octavo, noveno y décimo. Cuando hablas de una niña o de algo femenino, se dice sexta, séptima, octava, novena, décima (6ª, 7ª…).",
+        "Para encontrar un lugar largo, no cuentes desde cero cada vez: cuenta desde el primero, apoyándote en los que ya sabes. El quinto lleva la mitad de la fila de diez delante; el sexto es el que viene justo después.",
     ],
     vocab=[("sexto (6º)", "el lugar después del quinto"), ("séptimo (7º)", "el lugar después del sexto"), ("octavo (8º)", "el lugar después del séptimo"), ("noveno (9º)", "el lugar antes del último en una fila de diez"), ("décimo (10º)", "el lugar después del noveno")],
     worked=[
@@ -304,7 +304,7 @@ register(
         {"title": "Del símbolo a la palabra", "problem": "Escribe cómo se lee 9º.", "steps": ["9º viene después de 8º.", "Se lee noveno."], "answer": "Noveno"},
     ],
     mistakes=[
-        {"wrong": "Decir «séxto» o confundir sexto con séptimo.", "why": "Se mezclan los nombres.", "fix": "Repite en orden: sexto, séptimo, octavo, noveno, décimo."},
+        {"wrong": "Confundir sexto con séptimo.", "why": "Se mezclan los nombres.", "fix": "Repite en orden: sexto, séptimo, octavo, noveno, décimo."},
         {"wrong": "Pensar que 10º se lee diez.", "why": "Se confunde con el cardinal.", "fix": "10º se lee décimo."},
     ],
     tiers={
@@ -350,7 +350,7 @@ register(
     explain=[
         "«Antes» y «después» sirven para comparar lugares. Si alguien está en el 4º lugar, el 3º está antes de él y el 5º está después. «Entre» sirve para ubicar a quien queda en el medio de dos lugares: entre el 3º y el 5º está el 4º.",
         "Para responder, mira dónde empieza la fila. Después busca el lugar y cuenta uno hacia adelante o uno hacia atrás. Dibujar la fila y escribir los ordinales debajo ayuda a no equivocarse.",
-        "Nunca te basta con una sola pista: «el que está antes del sexto» te lleva al quinto, pero «el que está entre el segundo y el cuarto» te lleva al tercero. Lee la pista con calma y compruébala con la fila.",
+        "Cada pista te lleva a un lugar: «el que está antes del sexto» es el quinto, y «el que está entre el segundo y el cuarto» es el tercero. Lee la pista con calma y compruébala con la fila.",
     ],
     vocab=[("antes", "en un lugar anterior"), ("después", "en un lugar posterior"), ("entre", "en medio de dos lugares"), ("justo", "inmediatamente al lado"), ("pista", "dato que ayuda a encontrar un lugar")],
     worked=[
@@ -486,7 +486,7 @@ register(
             ex("¿Por qué en el marco de diez siempre llenamos primero la fila de arriba?", "Porque se ve que 5 es una fila completa", "La primera fila de 5 ayuda a ver cuánto falta para 10."),
         ],
         "challenge": [
-            ex(f"En el marco {frame(7)}, ¿cuántas casillas faltan para llegar a 10?", "3", "10 − 7 = 3."),
+            ex(f"En el marco {frame(7)}, ¿cuántas casillas faltan para llegar a 10?", "3", "7 y 3 forman 10."),
             ex("Tengo 8 puntos. ¿Cuántos más necesito para tener 10?", "2", "8 y 2 forman 10."),
         ],
     },
@@ -531,7 +531,7 @@ register(
             ex("¿El dibujo y los objetos deben tener la misma cantidad?", "Sí", "El dibujo representa la cantidad."),
         ],
         "apply": [
-            ex("Hay 9 pelotas. Dibuja 9 marcas en dos filas.", f"{dots(5)} / {dots(4)}", "Cinco más cuatro son nueve."),
+            ex("Hay 9 pelotas. Dibuja 9 marcas: una fila de 5 y otra fila con las que faltan.", f"{dots(5)} / {dots(4)}", "Cinco más cuatro son nueve."),
             ex("Hay 10 tapas. Dibuja 10 marcas en dos filas de cinco.", f"{dots(5)} / {dots(5)}", "Dos filas de cinco son diez."),
             ex(f"Escribe el numeral del dibujo: {dots(6)}.", "6", "Cuento seis puntos."),
         ],
@@ -541,7 +541,7 @@ register(
         ],
         "challenge": [
             ex("Dibuja 4 marcas y agrega 3 más. ¿Cuántas hay en total?", "7", "4 y 3 forman 7."),
-            ex("Hay 10 casillas. Si dibujas 6, ¿cuántas quedan vacías?", "4", "10 − 6 = 4."),
+            ex("Hay 10 casillas. Si dibujas 6, ¿cuántas quedan vacías?", "4", "6 y 4 forman 10."),
         ],
     },
     context=[ex("En la sala hay 8 sillas. Haz un dibujo simple de las sillas con marcas y escribe el numeral.", f"{dots(8)}; 8", "Ocho sillas, ocho marcas.")],
@@ -566,7 +566,7 @@ register(
     explain=[
         "Los números del 11 al 20 son un diez más algunas unidades. El 13 es diez y tres más. Se lee trece. Del 11 al 15 los nombres son especiales (once, doce, trece, catorce, quince), y del 16 al 19 son dieciséis, diecisiete, dieciocho y diecinueve.",
         "Para representar el 14, llena un marco de diez completo y en otro marco pon 4 fichas. Así ves que 14 es 10 y 4. El 20 son dos marcos de diez llenos.",
-        "El numeral tiene dos cifras: la primera dice cuántos dieces (1 diez) y la segunda cuántas unidades sueltas. En 14, el 1 es un diez y el 4 son cuatro unidades. En 20, el 2 son dos dieces y el 0 que no hay unidades sueltas.",
+        "El numeral tiene dos cifras: la primera dice cuántos dieces (1 diez) y la segunda cuántas unidades sueltas. En 14, el 1 es un diez y el 4 son cuatro unidades. En 20, el 2 son dos dieces y el 0 dice que no hay unidades sueltas.",
     ],
     vocab=[("diez", "un marco lleno"), ("unidades sueltas", "las fichas que no completan otro diez"), ("trece", "13, diez y tres"), ("veinte", "dos dieces"), ("cifra", "cada número que forma un numeral")],
     worked=[
@@ -663,5 +663,5 @@ register(
         "feedback": "Pide comprobar los tres con el dedo; reconoce la explicación con dieces y unidades.",
     },
     reinforce="Haz tarjetas con tres formas del mismo número y empareja.",
-    extend="Explica a otra persona por qué 16 y 61 no son lo mismo.",
+    extend="Explica a otra persona por qué en 16 la cifra 1 es un diez y la cifra 6 son seis unidades.",
 )

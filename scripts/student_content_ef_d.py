@@ -81,8 +81,8 @@ register(
     prior=["Sé nombrar espalda, hombros y pies.", "Sé sentarme en una silla."],
     explain=[
         "Postura es la forma en que colocas tu cuerpo al estar de pie, sentado o caminando. Una buena postura es cómoda, no rígida: cabeza alineada con el cuerpo, hombros relajados, espalda larga y pies apoyados en el suelo. Si te cansas, cambia de posición con calma.",
-        "Al sentarte, apoya la espalda en el respaldo, los pies planos en el suelo y las rodillas dobladas. Al llevar la mochila, usa las dos correas sobre los hombros, ajustadas para que quede pegada a la espalda, no colgando. Se recomienda que la mochila no pese más de una décima parte (10 %) del peso del niño.",
-        "Para calcular una décima parte, divide el peso entre 10. Si pesas 20 kilos, la mochila debe pesar 2 kilos o menos. Si pesa más, saca lo que no necesitas. Nunca cargues la mochila en un solo hombro y no te inclines hacia adelante por el peso.",
+        "Al sentarte, apoya la espalda en el respaldo, los pies planos en el suelo y las rodillas dobladas. Al llevar la mochila, usa las dos correas sobre los hombros, ajustadas para que quede pegada a la espalda, no colgando. Una regla común es que la mochila no pese más de una décima parte (10 %) del peso del niño.",
+        "Para calcular una décima parte, divide el peso entre 10. Si pesas 20 kilos, la mochila debe pesar 2 kilos o menos. Si pesa más, saca lo que no necesitas. Nunca cargues la mochila en un solo hombro y no te inclines hacia adelante por el peso. El peso de cada niño es distinto y eso está bien: no se compara con el de otros.",
     ],
     vocab=[("postura", "cómo coloco mi cuerpo"), ("alinear", "poner derecho, uno sobre otro"), ("correa", "tira que sostiene la mochila"), ("décima parte", "una de diez partes iguales"), ("relajado", "sin tensión")],
     worked=[
@@ -109,11 +109,11 @@ register(
         ],
         "reason": [
             ex("Dani dice «llevo la mochila en un hombro porque es más rápido». ¿Qué problema tiene?", "Carga el peso solo de un lado", "Puede doler la espalda."),
-            ex("Una mochila de 4 kilos para un niño de 25 kilos, ¿está dentro del máximo?", "No", "El máximo es 2,5 kilos."),
+            ex("Una mochila de 4 kilos para un niño de 20 kilos, ¿está dentro del máximo?", "No", "El máximo es 2 kilos."),
         ],
         "challenge": [
-            arith("Eres 40 kilos de peso. ¿Cuál es el máximo de la mochila (décima parte)?", "40//10", "Se divide el peso entre 10.", " kilos"),
-            ex("Tu mochila tiene un cuaderno de 1 kilo, un libro de 1 kilo y una botella de 1 kilo. Pesas 25 kilos. ¿Está dentro de la décima parte (2,5 kg)?", "No", "Pesa 3 kilos, más de 2,5."),
+            arith("Pesas 40 kilos. ¿Cuál es el máximo de la mochila (décima parte)?", "40//10", "Se divide el peso entre 10.", " kilos"),
+            ex("Tu mochila tiene un cuaderno de 1 kilo, un libro de 1 kilo y una botella de 1 kilo. Pesas 20 kilos. ¿Está dentro de la décima parte (2 kg)?", "No", "Pesa 3 kilos, más de 2."),
         ],
     },
     context=[ex("Al salir del colegio, tu amigo lleva la mochila colgando de un solo hombro y se inclina hacia un lado. ¿Qué le sugieres: A) que use las dos correas ajustadas, B) que la arrastre, C) que corra?", "A", "Repartir el peso protege la espalda.")],
@@ -139,7 +139,7 @@ register(
     prior=["Sé qué es una fruta.", "Sé qué es tener sed."],
     explain=[
         "El cuerpo necesita agua, sobre todo cuando sudas. Antes de hacer ejercicio puedes beber unos sorbos de agua, durante las pausas también, y después para reponer lo que perdiste. El agua es la mejor bebida para hidratarte; las bebidas muy dulces no son lo mejor para tomar a diario.",
-        "Una colación saludable es una comida pequeña que da energía y nutre, como una fruta (manzana, plátano), un yogur sin mucha azúcar, un pan con queso o palta, o un vaso de leche. Antes de hacer ejercicio, conviene algo liviano, unos 30 a 60 minutos antes. Después de jugar, algo que te ayude a recuperarte, junto con agua.",
+        "Una colación saludable es una comida pequeña que da energía y nutre, como una fruta (manzana, plátano), un yogur sin mucha azúcar, un pan con queso o palta, o un vaso de leche. Antes de hacer ejercicio, conviene algo liviano, comido un rato antes (por ejemplo, 30 minutos) y no justo antes de empezar. Si alguien es alérgico a un alimento, no lo come y elige otro. Después de jugar, algo que te ayude a recuperarte, junto con agua.",
         "Escoger bien no significa nunca comer golosinas, sino que no sean la colación de todos los días. Tampoco hay que juzgar la colación de otros: cada familia come con lo que tiene. Si no tienes algo, una fruta, un pan o agua de la llave ya son opciones válidas.",
     ],
     vocab=[("hidratarse", "beber agua para reponer lo que se pierde"), ("colación", "comida pequeña entre comidas"), ("liviano", "que no pesa en el estómago"), ("energía", "fuerza para moverse"), ("recuperarse", "volver a estar bien después del esfuerzo")],
@@ -192,7 +192,7 @@ register(
 
 register(
     OA9, 4,
-    materials="12 tarjetas de papel con las acciones de abajo, un reloj y un lápiz. Las acciones están escritas en esta clase.",
+    materials="9 tarjetas de papel con las acciones de abajo, un reloj y un lápiz. Las acciones están escritas en esta clase.",
     use="Aprenderé a ordenar lo que hago antes y después de hacer ejercicio. Sirve para cuidar mi cuerpo y estar listo para seguir con mi día.",
     prior=["Sé qué es antes y después.", "Sé lavarme las manos."],
     explain=[
@@ -429,13 +429,13 @@ register(
     use="Aprenderé a dar y recibir consejos amables y concretos. Sirve para mejorar juntos en vez de criticar.",
     prior=["Sé qué es un equipo.", "Sé escuchar."],
     explain=[
-        "Un consejo útil es amable, concreto y se puede aplicar. Tiene tres partes: «Me gustó que…», «Podrías…» y «Así…». Por ejemplo: «Me gustó que miraste a tu compañero; podrías lanzar más suave; así llegará más fácil». Un consejo no dice «lo haces mal» ni se burla.",
+        "Un consejo útil es amable, concreto y se puede aplicar. Tiene tres partes: «Me gustó cuando…», «Podrías…» y «Así…». Por ejemplo: «Me gustó cuando miraste a tu compañero; podrías lanzar más suave; así llegará más fácil». Un consejo no dice «lo haces mal» ni se burla.",
         "Para dar un consejo, observa algo específico, como la mirada, la fuerza o la posición. Habla con voz suave y mira a la persona. Para recibirlo, escucha hasta el final, di «gracias» y prueba el cambio. Si no entiendes, puedes preguntar «¿cómo?».",
         "Los consejos son para ayudar, no para ganar. Se dan uno a la vez, y mejor si son pocos y claros. Después de probar el cambio, se conversa si ayudó. Todos damos y recibimos consejos.",
     ],
     vocab=[("consejo", "idea para mejorar"), ("concreto", "claro y específico"), ("amable", "con buen trato"), ("recibir", "escuchar y aceptar"), ("probar", "intentar de nuevo con el cambio")],
     worked=[
-        W("Dar un consejo", "Ana lanza muy fuerte y la pelota se va lejos. ¿Cómo le das un consejo con las tres partes?", ["«Me gustó que miras el aro.»", "«Podrías lanzar más suave.»", "«Así la pelota llegará al aro.»"], "Me gustó que miras el aro; podrías lanzar más suave; así llegará al aro."),
+        W("Dar un consejo", "Ana lanza muy fuerte y la pelota se va lejos. ¿Cómo le das un consejo con las tres partes?", ["«Me gustó cuando miraste el aro.»", "«Podrías lanzar más suave.»", "«Así la pelota llegará al aro.»"], "Me gustó cuando miraste el aro; podrías lanzar más suave; así llegará al aro."),
         W("Recibir un consejo", "Un compañero te dice: «podrías doblar las rodillas al saltar». ¿Qué haces?", ["Escucho hasta el final.", "Digo «gracias».", "Pruebo doblar las rodillas."], "Escucho, agradezco y pruebo."),
     ],
     mistakes=[M("Decir «lo haces mal».", "Se critica sin ayudar.", "Di qué podrías cambiar y para qué."),
@@ -443,17 +443,17 @@ register(
     tiers={
         "recovery": [
             ex("Un consejo útil es ¿amable o burlón?", "Amable", "Ayuda a mejorar."),
-            ex("La primera parte del consejo es «Me gustó que...». ¿Dice algo bueno o malo?", "Algo bueno", "Parte reconociendo algo."),
+            ex("La primera parte del consejo es «Me gustó cuando...». ¿Dice algo bueno o malo?", "Algo bueno", "Parte reconociendo algo."),
             ex("Cuando recibes un consejo, dices...", "Gracias", "Agradecer es una forma respetuosa de recibir."),
         ],
         "understand": [
-            ex("¿Cuáles son las tres partes del consejo?", "Me gustó que, podrías y así", "Son las partes de la clase."),
+            ex("¿Cuáles son las tres partes del consejo?", "Me gustó cuando, podrías y así", "Son las partes de la clase."),
             ex("¿Qué es un consejo concreto?", "Claro y específico", "Dice qué cambiar."),
             ex("¿Para qué se da un consejo?", "Para ayudar a mejorar", "No es para ganar."),
         ],
         "apply": [
             ex("Dani saltó con las piernas rectas. ¿Cuál es el consejo concreto: A) «salta mal», B) «podrías doblar las rodillas, así caerás más suave»?", "B", "Dice qué cambiar y para qué."),
-            ex("Completa: «Me gustó que ____ ; podrías ____ ; así ____». ¿Cuántas partes tiene?", "3", "Las tres partes del consejo son tres."),
+            ex("Completa: «Me gustó cuando ____ ; podrías ____ ; así ____». ¿Cuántas partes tiene?", "3", "Las tres partes del consejo son tres."),
             arith("Das 2 consejos a cada uno de 3 compañeros. ¿Cuántos consejos das?", "2*3", "Se multiplican.", " consejos"),
         ],
         "reason": [
@@ -461,18 +461,18 @@ register(
             ex("Ema recibe un consejo, dice «gracias» y lo prueba. ¿Qué hizo bien?", "Escuchar, agradecer y probar", "Esos son los tres pasos."),
         ],
         "challenge": [
-            ex("Escribe un consejo con las tres partes para alguien que lanza a un aro y falla por fuerza. Ejemplo: «Me gustó que miras al aro; podrías lanzar más suave; así acertarás». ¿Cuántas partes tiene?", "3", "Las tres partes del consejo son tres."),
+            ex("Escribe un consejo con las tres partes para alguien que lanza a un aro y falla por fuerza. Ejemplo: «Me gustó cuando miraste al aro; podrías lanzar más suave; así acertarás». ¿Cuántas partes tiene?", "3", "Las tres partes del consejo son tres."),
             arith("En 4 rondas de 50 segundos de acción, ¿cuántos segundos de acción hay?", "4*50", "Se multiplican.", " segundos"),
         ],
     },
-    context=[ex("Un amigo se frustra porque la pelota no entra al aro. ¿Qué le dices: A) «eres malo», B) «me gustó que lo intentaste; podrías lanzar más suave; así entrará», C) nada?", "B", "Es amable, concreto y útil.")],
+    context=[ex("Un amigo se frustra porque la pelota no entra al aro. ¿Qué le dices: A) «eres malo», B) «me gustó cuando lo intentaste; podrías lanzar más suave; así entrará», C) nada?", "B", "Es amable, concreto y útil.")],
     selfcheck=[
         ex("¿Qué dices después de recibir un consejo?", "Gracias", "Agradecer es una forma respetuosa de recibir."),
         ex("¿Cuántas partes tiene el consejo?", "3", "Me gustó, podrías, así."),
         ex("¿Se puede burlar al dar un consejo?", "No", "Debe ser amable."),
     ],
-    open_task=task("Con un compañero, lancen una pelota blanda a un aro desde 3 pasos, 5 veces cada uno. Después de los 5 lanzamientos, cada uno da un consejo al otro con las tres partes («Me gustó que…», «Podrías…», «Así…»). Prueben el consejo en 5 lanzamientos más y anoten si hubo más aciertos.",
-                   "Ana me dijo: «Me gustó que miras al aro; podrías lanzar más suave; así acertarás». Primero hice 2 aciertos; después del consejo hice 4.",
+    open_task=task("Con un compañero, lancen una pelota blanda a un aro desde 3 pasos, 5 veces cada uno. Después de los 5 lanzamientos, cada uno da un consejo al otro con las tres partes («Me gustó cuando…», «Podrías…», «Así…»). Prueben el consejo en 5 lanzamientos más y anoten si hubo más aciertos.",
+                   "Ana me dijo: «Me gustó cuando miraste al aro; podrías lanzar más suave; así acertarás». Primero hice 2 aciertos; después del consejo hice 4.",
                    ["da un consejo amable y concreto", "recibe con respeto", "prueba el cambio"],
                    ["consejos escritos", "registro de aciertos", "observación de un adulto"],
                    ["criticar sin ayudar", "no escuchar", "burlarse"],
@@ -502,7 +502,7 @@ register(
         "recovery": [
             ex("Un desafío cooperativo se logra ¿entre todos o uno solo?", "Entre todos", "Todos colaboran para lograr la tarea."),
             ex("El animador ¿anima o critica?", "Anima", "Es su rol."),
-            ex("Al terminar, ¿se agradece a los compañeros o no?", "Se agradece", "Escuchar así muestra respeto por el otro."),
+            ex("Al terminar, ¿se agradece a los compañeros o no?", "Se agradece", "Agradecer reconoce lo que aportó cada uno."),
         ],
         "understand": [
             ex("¿Para qué se evalúa el desafío?", "Para ver qué mejorar", "Así se aprende para la próxima vez."),

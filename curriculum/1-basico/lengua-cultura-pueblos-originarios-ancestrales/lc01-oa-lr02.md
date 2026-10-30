@@ -308,7 +308,7 @@ Respuesta: Escuchar, observar y esperar su permiso
 
 Los sonidos se hacen con el aire que sale de los pulmones y con la boca. Si pones tu mano frente a la boca y dices «p», sientes un golpecito de aire. Si dices «s», sientes un soplido continuo y suave.
 
-Si pones los dedos suavemente en tu garganta y dices «m» o «a», sientes una vibración. Con la «s» no la sientes. Observar estas diferencias te sirve para notar cómo se hace cada sonido.
+Si pones los dedos suavemente en tu garganta y dices «m» o «a», sientes una vibración. Con la «s» y la «p» no la sientes. Observar estas diferencias te sirve para notar cómo se hace cada sonido.
 
 Observar no es imitar con burla. Los sonidos de una lengua indígena se ensayan con seriedad y siguiendo al hablante. No se exageran ni se usan para hacer reír.
 
@@ -376,7 +376,7 @@ Respuesta: Una vibración
 
 *Desafío*
 
-- **D1.** Dices 4 sonidos: «m», «s», «a», «p». ¿Cuántos hacen vibrar la garganta, si son «m» y «a»?
+- **D1.** Dices 4 sonidos: «m», «s», «a» y «p», con dos dedos suaves en la garganta. ¿Cuántos hacen vibrar la garganta?
 - **D2.** Escribe qué observaste en tu boca al decir «ssss».
 
 *Situaciones auténticas*
@@ -404,7 +404,7 @@ Respuesta: Una vibración
 - **A3.** Abierta. La «a» se hace con la boca abierta.
 - **Z1.** Con la mano frente a la boca. El aire se siente.
 - **Z2.** Sí. Notó la vibración.
-- **D1.** 2. Solo la «m» y la «a».
+- **D1.** 2. Vibran la «m» y la «a»; la «s» y la «p» no.
 - **D2.** Por ejemplo, el aire sale por los dientes. Describe una observación real.
 - **S1.** Que observe y ensaye con seriedad. El respeto es lo principal.
 - **E1.** Sí. Se siente en la garganta.
@@ -519,7 +519,7 @@ Una palabra tiene un sonido y un significado. Para aprender una palabra de la le
 
 Una palabra verificada es la que un hablante competente o la comunidad confirmó. «Mari mari», por ejemplo, es un saludo en mapuzugun. Si una palabra no está verificada, no se usa ni se supone su significado.
 
-Algunas tarjetas pueden tener también un mapa para ubicar los nombres de lugares. Pero nunca inventes un significado. Si no sabes, escribe una pregunta en la tarjeta.
+Nunca inventes un significado. Si no sabes qué quiere decir una palabra, escribe una pregunta en la tarjeta y llévala al educador/a tradicional.
 
 **Palabras importantes**
 
@@ -613,7 +613,7 @@ Respuesta: No; falta la verificación
 - **A3.** b, a, c. Primero va la palabra.
 - **Z1.** No. Sin verificación no se usa.
 - **Z2.** Sí. Dejó una pregunta honesta.
-- **D1.** 10. 5 × 2 = 10.
+- **D1.** 10. 2 + 2 + 2 + 2 + 2 = 10.
 - **D2.** Cualquier tarjeta con los tres datos. Debe tener los tres.
 - **S1.** La palabra y la fuente. Se registra de quién viene.
 - **E1.** Para saludar. Lo explicó la educadora.
@@ -756,8 +756,8 @@ Respuesta: Sí, aunque se escriben distinto
 
 Problema: ¿«pata» y «bata» empiezan con el mismo sonido?
 
-1. Digo «pata» y siento aire.
-2. Digo «bata» y siento menos aire.
+1. Digo «pata» y «bata» con dos dedos suaves en la garganta.
+2. Con la «b» siento vibración y con la «p» no.
 3. Son sonidos distintos.
 
 Respuesta: No, son distintos
@@ -1004,7 +1004,7 @@ Respuesta: Lo animo y no me río
 
 *Desafío*
 
-- **D1.** Si ensayas 2 veces cada día durante 7 días, ¿cuántas veces ensayas?
+- **D1.** Si ensayas 2 veces cada día durante 4 días, ¿cuántas veces ensayas en total?
 - **D2.** Escribe una frase para animar a quien ensaya.
 
 *Situaciones auténticas*
@@ -1032,7 +1032,7 @@ Respuesta: Lo animo y no me río
 - **A3.** 4. 6 − 2 = 4.
 - **Z1.** Que equivocarse es parte de aprender. Todos se equivocan al aprender.
 - **Z2.** Los demás pueden tener miedo de ensayar. La burla frena el aprendizaje.
-- **D1.** 14. 2 × 7 = 14.
+- **D1.** 8. 2 + 2 + 2 + 2 = 8.
 - **D2.** Cualquier frase amable. Debe animar con amabilidad.
 - **S1.** Que está aprendiendo y puede intentar otra vez. Todos estamos en etapas distintas.
 - **E1.** No. Cada etapa es distinta.

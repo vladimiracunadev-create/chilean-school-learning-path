@@ -558,7 +558,7 @@ Respuesta: preguntar antes
 
 - **R1.** Una foto de una tela es una imagen. ¿Verdadero o falso?
 - **R2.** ¿Qué puedo ver en una foto: la forma o el olor?
-- **R3.** ¿Dónde se usa un símbolo es su contexto? Responde Sí o No.
+- **R3.** ¿El contexto de un símbolo es dónde y cómo se usa? Responde Sí o No.
 
 *Comprensión*
 

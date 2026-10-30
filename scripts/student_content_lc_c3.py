@@ -118,7 +118,7 @@ register(
         ],
     },
     context=[ex("Tu abuela te dice un trabalenguas: «Tres tristes tigres tragaban trigo». ¿Cuántas palabras empiezan con t?", "5", "Tres, tristes, tigres, tragaban y trigo empiezan con t.")],
-    selfcheck=[ex("¿Qué repite el trabalenguas «Pipo pela pocas papas»?", "la letra p", "Casi todas las palabras empiezan con p."), ex("¿Escucho una o dos veces para buscar una repetición?", "dos", "Primero entiendo y luego cuento."), ex("¿Cambio el texto tradicional?", "No", "Se cuida tal como es.")],
+    selfcheck=[ex("¿Qué repite el trabalenguas «Pipo pela pocas papas»?", "la letra p", "Todas las palabras empiezan con p."), ex("¿Escucho una o dos veces para buscar una repetición?", "dos", "Primero entiendo y luego cuento."), ex("¿Cambio el texto tradicional?", "No", "Se cuida tal como es.")],
     open_task=task(
         "Pide a un adulto que lea el trabalenguas de práctica «Pipo pela pocas papas, pocas papas pela Pipo» (creado para este cuaderno). Levanta un dedo cada vez que oigas «papas». Dibuja tus dedos. Después pregúntale al educador/a tradicional o a una persona de la comunidad si hay juegos de palabras en el pueblo que él/ella conoce y puede compartirnos.",
         "Levanté 2 dedos. Pregunta: ¿tienen un juego de palabras que nos puedan enseñar?",
@@ -260,7 +260,7 @@ register(
     vocab=[("propósito", "lo que quiero buscar al escuchar"), ("personaje", "quien aparece en un texto"), ("lugar", "dónde ocurre algo"), ("segunda escucha", "escuchar otra vez"), ("notar", "darme cuenta de algo")],
     worked=[
         w("Propósito: animales", f"{NOTE} Texto: «El gato mira la luna, la luna mira el mar, el mar mira al cielo, el cielo mira al gato». ¿Cuántos animales hay?", ["Busco animales.", "Solo aparece el gato."], "1 animal"),
-        w("Propósito: lugar", "En el mismo texto, ¿cuántas cosas del paisaje se nombran (luna, mar, cielo)?", ["Cuento luna.", "Sigo con mar.", "Termino con cielo."], "3 cosas del paisaje"),
+        w("Propósito: paisaje", "En el mismo texto, ¿cuántas cosas del paisaje se nombran (luna, mar, cielo)?", ["Cuento luna.", "Sigo con mar.", "Termino con cielo."], "3 cosas del paisaje"),
     ],
     mistakes=[
         {"wrong": "Escuchar la segunda vez sin buscar nada.", "why": "No noto más cosas.", "fix": "Antes de escuchar, elijo un propósito."},

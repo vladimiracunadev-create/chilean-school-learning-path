@@ -164,7 +164,7 @@ register(
             ex("Palabras: pan, agua, luna, río. ¿Cuáles son elementos de la naturaleza?", "agua, luna y río", "El pan es un alimento."),
         ],
         "reason": [
-            ex("Una compañera dice «mari mari» al despedirse. ¿Es lo correcto, si es un saludo para encontrarse?", "No", "No corresponde a la situación."),
+            ex("No sé cuándo se dice una expresión de otra lengua. ¿La uso igual o pregunto primero?", "pregunto primero", "Cada expresión tiene su momento y lo explica quien conoce la lengua."),
             ex("¿Por qué conviene saber cuándo se dice una expresión?", "porque cada expresión tiene su momento", "Así se usa con respeto."),
         ],
         "challenge": [

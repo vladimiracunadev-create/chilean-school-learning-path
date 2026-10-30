@@ -52,7 +52,7 @@ reg(
     ],
     A=[
         ("Necesitas 6 cosas para un contenedor y ya reuniste 4. ¿Cuántas te faltan?", "2", "6 − 4 = 2."),
-        ("Tu lista dice: cartón, regla, lápiz, tijera, pegamento. Hay un lápiz en tu estuche pero no tienes regla. ¿Qué te falta de la lista?", "La regla", "Es lo único que falta."),
+        ("Tu lista dice: cartón, regla, lápiz, tijera, pegamento. Ya tienes cartón, lápiz, tijera y pegamento, pero no tienes regla. ¿Qué te falta de la lista?", "La regla", "Es lo único que falta."),
         ("Sobre tu mesa hay 8 objetos y solo 5 son de la construcción. ¿Cuántos debes sacar?", "3", "8 − 5 = 3."),
     ],
     Z=[
@@ -60,10 +60,10 @@ reg(
         ("Ana dice que no hace falta recoger el cabello largo para trabajar. ¿Tiene razón? Responde sí o no.", "No", "El cabello puede quedar atrapado o estorbar."),
     ],
     D=[
-        ("Preparar la mesa lleva estos pasos: despejar, juntar materiales, revisar la lista. Escribe el orden más lógico.", "Despejar, juntar materiales, revisar la lista", "Primero hay espacio, luego se junta y se revisa."),
+        ("Preparar la mesa lleva estos pasos: despejar, juntar materiales, revisar la lista. Escribe el orden que se explicó en la clase.", "Despejar, juntar materiales, revisar la lista", "Primero hay espacio, luego se junta y se revisa."),
         ("Tu lista tiene 6 materiales. Si cada uno se pone en una casilla de una hoja con 8 casillas, ¿cuántas casillas quedan libres?", "2", "8 − 6 = 2."),
     ],
-    ctx=("Lía va a construir un contenedor de tarjetas. Sobre su mesa hay una pelota, su lista, un cuaderno, cartón, regla, lápiz, tijera de punta roma y pegamento escolar. ¿Cuántos objetos debe sacar de la mesa?", "2", "La pelota y el cuaderno no se usan."),
+    ctx=("Lía va a construir un contenedor de tarjetas. Sobre su mesa hay una pelota, su lista, un cuaderno, cartón, regla, lápiz, tijera de punta roma y pegamento escolar. La lista se queda sobre la mesa. ¿Cuántos objetos debe sacar de la mesa?", "2", "La pelota y el cuaderno no se usan."),
     sc=[
         ("¿Qué haces primero: despejar la mesa o empezar a cortar?", "Despejar la mesa", "Primero se prepara."),
         ("¿Se puede empezar sin revisar los materiales? Responde sí o no.", "No", "Podría faltar algo."),
@@ -89,7 +89,7 @@ reg(
     explain=[
         "Para medir, pon el cero de la regla en el borde del papel y mira el número donde termina lo que necesitas. Luego haz una marca pequeña con el lápiz en ese punto. Mide de nuevo desde el otro lado, y une las marcas con una línea recta.",
         "Una plantilla es un modelo que guía el tamaño. Si la plantilla dice 10 cm de ancho y 6 cm de alto, marcas esas medidas en el cartón y trazas un rectángulo. Así todas las piezas salen iguales.",
-        "Para cortar, mueve el papel y no la tijera hacia ti. Corta sobre la línea con calma, con ayuda de un adulto y mirando el filo. Deja los restos en un recipiente. Si te equivocas por poco, no pasa nada: ajusta después con cuidado.",
+        "Para cortar, pide ayuda a un adulto. Corta sobre la línea con calma, con la punta de la tijera lejos de tu cuerpo. Sujeta el papel con la otra mano, lejos del filo. Pon los restos en una caja. Si te equivocas por poco, no pasa nada: ajusta después con cuidado.",
     ],
     vocab=[("plantilla", "modelo que muestra el tamaño de una pieza"), ("marca", "punto hecho con lápiz"), ("línea de corte", "línea por donde se corta"), ("recto", "sin curvas"), ("filo", "borde que corta")],
     worked=[
@@ -102,7 +102,7 @@ reg(
     ],
     R=[
         ("¿Dónde pones el borde del papel al medir: en el cero de la regla o en el 5?", "En el cero", "Desde el cero se mide el largo."),
-        ("Para cortar, ¿mueves el papel hacia la tijera o la tijera hacia tu cuerpo?", "Mueves el papel", "Así la tijera no apunta a ti."),
+        ("Al cortar, ¿la punta de la tijera apunta lejos de tu cuerpo o hacia tu cuerpo?", "Lejos de tu cuerpo", "Así no te puedes lastimar."),
         ("¿Qué haces antes de cortar: trazar la línea o cortar al ojo?", "Trazar la línea", "La línea guía el corte."),
     ],
     C=[
@@ -116,7 +116,7 @@ reg(
         ("Necesitas 4 piezas iguales de 5 cm cada una puestas en una tira. ¿Cuántos cm de largo tiene la tira?", "20", "5 + 5 + 5 + 5 = 20."),
     ],
     Z=[
-        ("Rita empezó a medir desde el número 2 de la regla y marcó el 12. La pieza debía medir 10 cm. ¿Salió bien? Responde sí o no.", "Sí", "De 2 a 12 hay 10 cm, y la medida es correcta aunque no empiece en cero."),
+        ("Rita puso el borde del papel en el número 1 de la regla y marcó en el 10. La pieza debía medir 10 cm. ¿Salió bien? Responde sí o no.", "No", "De 1 a 10 hay solo 9 cm; debía empezar en el cero."),
         ("Ema marcó 10 cm pero la plantilla decía 12 cm. ¿La pieza quedará corta o larga?", "Corta", "10 cm es menos que 12 cm."),
     ],
     D=[
@@ -131,7 +131,7 @@ reg(
     ],
     open_task=(
         "Con esta plantilla marca y corta una pieza de papel: 10 cm de ancho y 6 cm de alto. Mide con la regla, marca con lápiz, une las marcas con línea recta y corta con un adulto. Escribe cuánto mide cada lado y si la pieza salió igual a la plantilla.",
-        "Medí 10 cm de ancho y 6 cm de alto, uní las marcas, corté con ayuda y salió igual a la plantilla. Un lado quedó 1 cm más corto y lo anoté.",
+        "Medí 10 cm de ancho y 6 cm de alto, uní las marcas, corté con ayuda y salió igual a la plantilla. Anoté las medidas de mis dos lados.",
         ["mide desde el cero", "marca y une con línea recta", "corta con ayuda y cuidado", "compara con la plantilla"],
         ["pieza de papel cortada", "notas de las medidas"],
         ["no empezar en cero", "cortar sin línea"],
@@ -149,7 +149,7 @@ reg(
     explain=[
         "Plegar es doblar el papel o el cartón por una línea marcada. Marca el pliegue con la regla y el lápiz, apoya la regla y dobla por ahí. Presiona con el dedo para que el pliegue quede firme y recto.",
         "Unir es pegar dos partes. Pon poco pegamento, solo en la orilla que se une, y presiona durante un rato. Si pones demasiado, el papel se arruga y tarda en secar. Espera hasta que seque antes de usar el objeto.",
-        "Terminar es revisar y dejar listo. Mira si hay bordes que sobresalen, restos de pegamento o esquinas que se doblan. Corrige con cuidado. Al final, limpia la mesa y lávate las manos. Un buen terminado hace que el objeto sea más seguro y más lindo.",
+        "Terminar es revisar y dejar listo. Mira si hay bordes que sobresalen, restos de pegamento o esquinas que se doblan. Corrige con cuidado. Si quieres pintar, hazlo al final, con pintura escolar y cuando el pegamento ya esté seco. Al final, limpia la mesa y lávate las manos. Un buen terminado hace que el objeto sea más seguro y más lindo.",
     ],
     vocab=[("plegar", "doblar por una línea marcada"), ("pliegue", "la marca que deja el doblez"), ("unir", "pegar dos partes"), ("terminar", "revisar y dejar listo el objeto"), ("secar", "esperar a que el pegamento se endurezca")],
     worked=[
@@ -171,7 +171,7 @@ reg(
         ("¿Qué se hace en el paso de terminar?", "Se revisa y se corrigen los bordes", "Se deja el objeto listo y seguro."),
     ],
     A=[
-        ("Una caja tiene 4 paredes y cada una necesita 2 pliegues (uno a cada lado). ¿Cuántos pliegues hay en total?", "8", "4 × 2 = 8."),
+        ("Una caja tiene 4 paredes y cada una necesita 2 pliegues (uno a cada lado). ¿Cuántos pliegues hay en total?", "8", "2 + 2 + 2 + 2 = 8."),
         ("Debes pegar 3 orillas de 6 cm cada una. ¿Cuántos cm de orilla debes pegar en total?", "18", "6 + 6 + 6 = 18."),
         ("Un pliegue está a 2 cm del borde de una hoja de 10 cm de ancho. ¿Cuántos cm quedan del otro lado del pliegue?", "8", "10 − 2 = 8."),
     ],
@@ -180,7 +180,7 @@ reg(
         ("Ana plegó sin marcar y el doblez quedó torcido. ¿Qué debió hacer antes?", "Marcar el pliegue con regla y lápiz", "La marca guía el doblez."),
     ],
     D=[
-        ("Una tira de 24 cm se pliega en 4 partes iguales. ¿Cuánto mide cada parte?", "6 cm", "24 ÷ 4 = 6."),
+        ("Una tira de 20 cm se pliega en 4 partes del mismo largo. Pista: busca el número que sumado 4 veces da 20. ¿Cuánto mide cada parte?", "5 cm", "5 + 5 + 5 + 5 = 20."),
         ("Una solapa pegada mide 1 cm. Si la pieza mide 11 cm de largo y la solapa se pega por debajo, ¿cuántos cm de largo se ven por fuera?", "10", "11 − 1 = 10."),
     ],
     ctx=("Pía arma un contenedor de tarjetas. Tiene 4 paredes con 1 pliegue cada una y una solapa en cada esquina. Hay 4 esquinas. ¿Cuántas solapas debe pegar?", "4", "Hay una por cada esquina."),
@@ -190,8 +190,8 @@ reg(
         ("¿Qué haces al terminar con la mesa?", "La limpias", "Se deja ordenada."),
     ],
     open_task=(
-        "Arma una cajita con una pieza de papel cuadrada de 12 cm de lado. Marca un pliegue a 3 cm de cada borde, dobla las 4 orillas hacia arriba y une las esquinas con poco pegamento o cinta. Anota cuántos pliegues hiciste y cómo quedó el terminado.",
-        "Hice 4 pliegues a 3 cm de cada borde. Pegué las 4 esquinas con poco pegamento. Esperé 5 minutos y quedó firme. Un borde sobresale y lo recorté con ayuda.",
+        "Arma una cajita con una pieza de papel cuadrada de 12 cm de lado. Marca un pliegue a 3 cm de cada borde, un adulto corta 3 cm desde cada esquina hacia adentro, por la línea del pliegue. Dobla las 4 orillas hacia arriba y une las esquinas con poco pegamento o cinta. Anota cuántos pliegues hiciste y cómo quedó el terminado.",
+        "Hice 4 pliegues a 3 cm de cada borde. Pegué las 4 esquinas con poco pegamento. Esperé a que secara y quedó firme. Un borde sobresale y lo recorté con ayuda.",
         ["marca los pliegues", "dobla recto", "usa poco pegamento", "revisa el terminado"],
         ["caja de papel armada", "nota con pliegues y terminado"],
         ["mucho pegamento", "usar antes de que seque"],
@@ -211,10 +211,10 @@ reg(
         "Para un contenedor de tarjetas, el criterio es que quepan 10 tarjetas de 9 cm por 6 cm. Si el contenedor mide 10 cm de largo y 7 cm de ancho por dentro, caben las tarjetas, porque 10 es más que 9 y 7 es más que 6. Se comprueba poniendo las tarjetas adentro.",
         "Después anota el resultado: qué cumplió y qué no. Si no cumple, piensa qué cambiar, por ejemplo hacer la caja un poco más grande o pegar mejor las orillas. Tu objeto no tiene que ser perfecto, pero sí debe servir para su usuario.",
     ],
-    vocab=[("comprobar", "usar el objeto para ver si cumple"), ("cabe", "entra sin sobrar ni faltar espacio"), ("interior", "lo de adentro"), ("resultado", "lo que pasó al probar"), ("ajustar", "cambiar un poco para mejorar")],
+    vocab=[("comprobar", "usar el objeto para ver si cumple"), ("cabe", "entra en el espacio que hay"), ("interior", "lo de adentro"), ("resultado", "lo que pasó al probar"), ("ajustar", "cambiar un poco para mejorar")],
     worked=[
         ("Comprobar el tamaño", "Una tarjeta mide 9 cm por 6 cm. El interior de la caja mide 10 cm por 7 cm. ¿Cabe?", ["Comparo el largo: 10 es mayor que 9.", "Comparo el ancho: 7 es mayor que 6.", "Cabe en las dos medidas."], "Sí, cabe"),
-        ("Cuántas caben", "Cada tarjeta ocupa 1 mm de alto, y 10 tarjetas ocupan 1 cm. La caja tiene 2 cm de alto adentro. ¿Cuántas tarjetas caben apiladas?", ["10 tarjetas ocupan 1 cm.", "2 cm es dos veces 1 cm.", "10 + 10 = 20."], "20 tarjetas"),
+        ("Cuántas caben", "10 tarjetas apiladas ocupan 1 cm de alto. La caja tiene 2 cm de alto adentro. ¿Cuántas tarjetas caben apiladas?", ["10 tarjetas ocupan 1 cm.", "2 cm es dos veces 1 cm.", "10 + 10 = 20."], "20 tarjetas"),
     ],
     mistakes=[
         ("Decir que funciona porque se ve lindo.", "Lo lindo no prueba que cumple.", "Pon las tarjetas y cuenta cuántas caben."),
@@ -241,7 +241,7 @@ reg(
     ],
     D=[
         ("Una caja guarda 15 tarjetas. Ya pusiste 9. ¿Cuántas caben todavía?", "6", "15 − 9 = 6."),
-        ("Las tarjetas miden 9 cm por 6 cm. Si la caja mide por dentro 9 cm por 6 cm exactos, ¿las tarjetas caben sin espacio libre? Responde sí o no.", "Sí", "Caben justas, aunque sin holgura para sacarlas."),
+        ("Las tarjetas miden 9 cm por 6 cm. La caja mide por dentro 8 cm por 7 cm. ¿Caben las tarjetas? Responde sí o no.", "No", "El largo de la caja, 8 cm, es menor que 9 cm."),
     ],
     ctx=("Lía fabricó un contenedor con interior de 10 cm por 7 cm para tarjetas de 9 cm por 6 cm. Puso 10 tarjetas y entraron todas. ¿Cumplió su criterio de guardar 10 tarjetas? Responde sí o no.", "Sí", "Las 10 tarjetas entraron."),
     sc=[
@@ -250,7 +250,7 @@ reg(
         ("10 cm contra 9 cm: ¿cabe lo de 9 cm en un espacio de 10 cm?", "Sí", "10 es mayor que 9."),
     ],
     open_task=(
-        "Comprueba este contenedor: interior de 10 cm por 7 cm y alto de 3 cm. Las tarjetas miden 9 cm por 6 cm, y 10 tarjetas apiladas ocupan 1 cm de alto. Escribe si caben, cuántas caben apiladas y un ajuste si algo no cumple.",
+        "Comprueba este contenedor: interior de 10 cm por 7 cm y alto de 3 cm. Las tarjetas miden 9 cm por 6 cm, y 10 tarjetas apiladas ocupan 1 cm de alto. Necesitas guardar 10 tarjetas. Escribe si caben, cuántas caben apiladas y un ajuste si algo no cumple.",
         "Las tarjetas caben porque 10 es mayor que 9 y 7 es mayor que 6. En 3 cm de alto caben 30 tarjetas. Cumple. No necesita ajustes, pero revisaría los pliegues.",
         ["compara largo y ancho", "calcula cuántas caben", "anota el resultado", "propone un ajuste si hace falta"],
         ["hoja con comparación y cálculo", "frase de resultado"],
@@ -269,20 +269,20 @@ reg(
     prior=["Sé qué es un criterio.", "Sé usar un objeto que hice para probarlo."],
     explain=[
         "Antes de probar, escribe qué esperas que pase. Eso se llama criterio. Un buen criterio se puede observar: se puede ver, contar o medir. «Funciona bien» no sirve, porque cada persona lo entiende distinto.",
-        "Por ejemplo, para un marcador de página: «se mantiene en su lugar al dar vuelta el libro», «se retira sin romper la hoja» y «ayuda a volver a la línea». Cada uno se puede probar y responder con sí o no.",
+        "Por ejemplo, para un marcador de página: «se mantiene en su lugar al dar vuelta el libro», «se retira sin romper la hoja» y «al abrir el libro, se ve dónde quedó la lectura». Cada uno se puede probar y responder con sí o no.",
         "Escribir los criterios antes evita decir después «me parece que sí». Si ya sabes qué miras, la prueba es justa. Pide a otra persona que lea tus criterios: si los entiende igual que tú, están bien escritos.",
     ],
     vocab=[("criterio observable", "algo que se puede ver, contar o medir"), ("prueba", "intento para ver si algo funciona"), ("sí o no", "respuesta clara a un criterio"), ("antes de probar", "cuando aún no usé el objeto"), ("justo", "que se mide igual para todos")],
     worked=[
         ("Elegir criterio observable", "¿Cuál es un criterio observable: «es hermoso» o «se mantiene al dar vuelta el libro»?", ["«Es hermoso» es una opinión.", "«Se mantiene al dar vuelta el libro» se puede mirar.", "Se responde con sí o no."], "Se mantiene al dar vuelta el libro"),
-        ("Convertir un criterio vago", "El criterio «sirve bien» es vago. Escríbelo mejor para un marcador.", ["Pienso qué debe hacer un marcador.", "Debe ayudar a volver a la línea.", "Lo escribo como algo observable."], "Ayuda a volver a la línea que leía"),
+        ("Convertir un criterio vago", "El criterio «sirve bien» es vago. Escríbelo mejor para un marcador.", ["Pienso qué debe hacer un marcador.", "Debe mostrar dónde quedó la lectura.", "Lo escribo como algo que se puede ver."], "Al abrir el libro, se ve dónde quedó la lectura"),
     ],
     mistakes=[
         ("Escribir «funciona bien» como criterio.", "No se puede comprobar con claridad.", "Escribe qué se ve o se mide: «se mantiene 3 veces»."),
         ("Cambiar el criterio después de la prueba.", "Hace que el resultado parezca mejor.", "Escribe los criterios antes y no los cambies."),
     ],
     R=[
-        ("«Se puede contar» ¿es un criterio observable? Responde sí o no.", "Sí", "Lo que se cuenta se puede ver."),
+        ("«Caben 5 lápices» ¿es un criterio observable? Responde sí o no.", "Sí", "Se pueden contar los lápices."),
         ("«Me gusta» ¿es un criterio observable? Responde sí o no.", "No", "Es una opinión."),
         ("¿Cuándo se escriben los criterios: antes o después de probar?", "Antes", "Orientan la prueba."),
     ],
@@ -301,10 +301,10 @@ reg(
         ("Luis ve que su objeto no pasó el criterio y lo borra del papel. ¿Hace bien? Responde sí o no.", "No", "Cambiar el criterio no mejora el objeto."),
     ],
     D=[
-        ("Escribe dos criterios observables para un cartel que se lea desde lejos (por ejemplo con medidas o número de pasos).", "Las letras miden 3 cm o más y se leen desde 3 pasos", "Cada uno se puede medir o contar."),
+        ("Escribe un criterio observable para un cartel que se lea desde lejos. Usa una medida o un número de pasos.", "Se lee desde 3 pasos de distancia", "Se puede comprobar contando los pasos."),
         ("Un criterio dice «la tapa cierra sin dejar espacios». ¿Cómo se responde: sí o no, o con una opinión?", "Sí o no", "Es un criterio observable."),
     ],
-    ctx=("Pía prueba un marcador. Escribe tres criterios: 1) se mantiene al dar vuelta el libro, 2) se retira sin romper la hoja, 3) ayuda a volver a la línea. Cuando prueba, el marcador se mantiene y se retira bien, pero no ayuda a volver a la línea. ¿Cuántos criterios cumplió?", "2", "Cumple el 1 y el 2."),
+    ctx=("Pía prueba un marcador. Escribe tres criterios: 1) se mantiene al dar vuelta el libro, 2) se retira sin romper la hoja, 3) al abrir el libro se ve dónde quedó la lectura. Cuando prueba, el marcador se mantiene y se retira bien, pero no se ve dónde quedó la lectura. ¿Cuántos criterios cumplió?", "2", "Cumple el 1 y el 2."),
     sc=[
         ("¿Se escriben criterios antes o después de probar?", "Antes", "Para saber qué mirar."),
         ("¿Un criterio observable se puede ver o medir? Responde sí o no.", "Sí", "Esa es su característica."),
@@ -332,7 +332,7 @@ reg(
         "Para registrar, haz una tabla con una fila por cada intento y marca con un ✔ si cumple el criterio o con una ✘ si no cumple. Después cuenta cuántos ✔ hay. Si hay 3 de 3, cumple. Si hay 1 de 3, falla muchas veces.",
         "Una prueba justa cambia una sola cosa a la vez. Si cambias el material y el tamaño al mismo tiempo, no sabrás cuál produjo el resultado. Usa siempre el mismo libro y la misma forma de dar vuelta las hojas.",
     ],
-    vocab=[("registrar", "anotar lo que pasó"), ("intento", "cada vez que pruebo"), ("✔", "marca que dice que cumple"), ("✘", "marca que dice que no cumple"), ("variable", "lo que se cambia o se mide en una prueba")],
+    vocab=[("registrar", "anotar lo que pasó"), ("intento", "cada vez que pruebo"), ("✔", "marca que dice que cumple"), ("✘", "marca que dice que no cumple"), ("prueba justa", "prueba en la que cambio una sola cosa")],
     worked=[
         ("Leer un registro", "Intentos del marcador: 1 ✔, 2 ✔, 3 ✘. ¿Cuántas veces se mantuvo?", ["Cuento los ✔.", "Hay dos.", "Fueron 3 intentos."], "2 de 3 veces"),
         ("Prueba justa", "Quieres saber si un marcador de cartón se mantiene mejor que uno de papel. ¿Cambias solo el material o el material y el libro?", ["Para comparar cambio solo una cosa.", "Cambio el material.", "Uso el mismo libro."], "Solo el material"),
@@ -361,7 +361,7 @@ reg(
         ("Tato probó un marcador de cartón con el libro A y uno de papel con el libro B. Dice que el cartón es mejor. ¿Fue una prueba justa? Responde sí o no.", "No", "Cambió el material y el libro."),
     ],
     D=[
-        ("Haces 3 intentos con 3 materiales distintos: 9 pruebas en total. ¿Cuántos intentos haces por material?", "3", "9 ÷ 3 = 3."),
+        ("Haces el mismo número de intentos con 3 materiales distintos, y son 9 intentos en total. Pista: busca el número que sumado 3 veces da 9. ¿Cuántos intentos haces por material?", "3", "3 + 3 + 3 = 9."),
         ("Un objeto cumple 8 intentos de 10. ¿Cuántos no cumple?", "2", "10 − 8 = 2."),
     ],
     ctx=("Ana probó su portalápices 3 veces con 5 lápices. Resultado: intento 1 ✔, intento 2 ✔, intento 3 ✘. ¿Cuántas veces quedó derecho?", "2", "Hay dos ✔."),
@@ -477,14 +477,14 @@ reg(
         ("Antes fallaba 3 de 3 y después falla 1 de 3. ¿Cuántas fallas menos hay?", "2", "3 − 1 = 2."),
     ],
     Z=[
-        ("Ana dice a Tomás: «tu torre es una porquería». ¿Es una forma respetuosa de comentar? Responde sí o no.", "No", "Ofende a la persona."),
+        ("Ana dice a Tomás: «tu torre es horrible». ¿Es una forma respetuosa de comentar? Responde sí o no.", "No", "Ofende a la persona."),
         ("Luis cambió el material y el tamaño del vaso a la vez y mejoró. ¿Sabe cuál cambio ayudó? Responde sí o no.", "No", "Cambió dos cosas juntas."),
     ],
     D=[
         ("Reescribe con respeto la frase «tu cofre se rompe todo». Empieza con algo que funciona (el cofre se ve firme) y propón una mejora (pegar mejor las esquinas).", "Tu cofre se ve firme; podría mejorar si pegaras mejor las esquinas", "Dice algo positivo y una mejora concreta."),
         ("Un objeto con base de 5 cm cae 3 de 3. Con 8 cm cae 1 de 3. Con 10 cm cae 0 de 3. ¿Qué medida de base propones?", "10 cm", "Con esa medida no cae."),
     ],
-    ctx=("Rita probó su cartel: se lee desde 2 pasos pero no desde 4. Las letras miden 2 cm. Escribe una mejora concreta con una medida de letra, para que se lea desde 4 pasos.", "Hacer letras de 4 cm", "Letras más grandes se leen desde más lejos."),
+    ctx=("Rita probó su cartel: se lee desde 2 pasos pero no desde 4. Las letras miden 2 cm. Escribe una mejora concreta que cambie solo el tamaño de las letras, con una medida.", "Hacer las letras más grandes, por ejemplo de 4 cm", "Letras más grandes se leen desde más lejos."),
     sc=[
         ("¿Una mejora debe ser concreta? Responde sí o no.", "Sí", "Debe poder hacerse."),
         ("¿Se habla del objeto o de la persona?", "Del objeto", "Así se respeta."),

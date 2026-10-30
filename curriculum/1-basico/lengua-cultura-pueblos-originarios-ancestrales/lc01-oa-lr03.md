@@ -176,7 +176,7 @@ Respuesta: Al encontrarme con alguien
 *Autoevaluación*
 
 - **E1.** ¿Qué dices al despedirte?
-- **E2.** ¿Quién te enseñó la palabra?
+- **E2.** ¿Qué haces con el nombre de quien te enseñó una palabra?
 - **E3.** ¿«Mari mari» es saludo o despedida?
 
 **Actividad abierta.** Haz tres fichas de uso con «hasta luego», «por favor» y «de nada». En cada una escribe el significado, la ocasión y quién te la enseñó (un adulto de tu casa). Dibuja la ocasión. Luego agrega una ficha con la palabra que el educador/a tradicional te enseñó, si ya lo hizo. Pregunta al educador/a tradicional o a la comunidad: ¿qué palabras de nuestra lengua conviene aprender primero y en qué ocasión se usan?
@@ -191,14 +191,14 @@ Respuesta: Al encontrarme con alguien
 - **C3.** Palabra, significado y ocasión. Son los datos básicos.
 - **A1.** Por favor. Se usa al pedir.
 - **A2.** Hasta luego. Es la despedida.
-- **A3.** 9. 3 × 3 = 9.
+- **A3.** 9. 3 + 3 + 3 = 9.
 - **Z1.** No. Es una despedida.
 - **Z2.** Sí. Preguntó por la ocasión.
 - **D1.** Cuando alguien me agradece. Responde a un gracias.
 - **D2.** 2. 5 − 3 = 2.
 - **S1.** Que la use en la ocasión que explicó el educador. Cada palabra tiene su ocasión.
 - **E1.** Hasta luego. Es la despedida.
-- **E2.** Se anota. Se anota la fuente.
+- **E2.** Lo anoto en la ficha. Se anota la fuente.
 - **E3.** Saludo. Lo explicó la educadora.
 
 **Actividad abierta · ejemplo de respuesta.** Hasta luego: se dice al irse (dibujé una puerta). Me lo enseñó mi mamá. Mi pregunta: ¿qué palabras de nuestra lengua aprendo primero y cuándo se usan?
@@ -269,9 +269,9 @@ Respuesta: Al encontrarme con alguien
 
 **Recurso listo para usar:** Este cuaderno y lápiz. El mapa de práctica está escrito en los ejercicios.
 
-**Consigna exacta:** Dibuja un mapa muy simple con tres lugares de tu barrio, por ejemplo la plaza, el río o la escuela. Escribe sus nombres y la dirección de cada uno desde tu casa. Pregunta a un adulto por qué un lugar se llama así. Pregunta al educador/a tradicional o a la comunidad: ¿qué lugares de nuestro territorio tienen nombre en la lengua y qué cuentan esos nombres?
+**Consigna exacta:** Dibuja un mapa muy simple con tres lugares de tu barrio, por ejemplo la plaza, el río o la escuela. Escribe sus nombres y dónde queda cada uno en tu dibujo (arriba, abajo, a la derecha o a la izquierda de tu casa). Pregunta a un adulto por qué un lugar se llama así. Pregunta al educador/a tradicional o a la comunidad: ¿qué lugares de nuestro territorio tienen nombre en la lengua y qué cuentan esos nombres?
 
-**Referencia para modelar y corregir:** Dibujé la plaza al norte, el río al oeste y la escuela al este. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua?
+**Referencia para modelar y corregir:** Dibujé la plaza arriba, el río a la izquierda y la escuela a la derecha. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -285,7 +285,7 @@ Respuesta: Al encontrarme con alguien
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Dibujé la plaza al norte, el río al oeste y la escuela al este. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua? |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Dibujé la plaza arriba, el río a la izquierda y la escuela a la derecha. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -301,7 +301,7 @@ Respuesta: Al encontrarme con alguien
 
 **Lo que aprenderé y para qué sirve.** Aprenderé a relacionar el nombre de un lugar con el territorio y a preguntar por su historia. Sirve para respetar los nombres de la tierra, especialmente los de origen indígena.
 
-**Lo que ya debo saber.** Sé que los lugares tienen nombre. Sé ubicar norte, sur, este y oeste.
+**Lo que ya debo saber.** Sé que los lugares tienen nombre. Sé leer palabras cortas con ayuda de un adulto.
 
 **Explicación.**
 
@@ -309,7 +309,7 @@ El nombre de un lugar suele decir algo: cómo es, qué hay o qué pasó allí. �
 
 En Chile muchos nombres de lugares vienen de lenguas indígenas. Esos nombres son parte de la memoria de los pueblos. Para conocer su significado hay que preguntar a personas de la comunidad. No se adivinan.
 
-Un mapa permite ubicar los lugares. Para leerlo, buscas el nombre y la dirección. Cuando una lengua se está recuperando, volver a usar sus nombres de lugares es una forma de recuperar la memoria del territorio.
+Un mapa permite ubicar los lugares. Para leerlo, buscas el nombre y la dirección. En un mapa el norte se dibuja arriba, el sur abajo, el este a la derecha y el oeste a la izquierda. Cuando una lengua se está recuperando, volver a usar sus nombres de lugares es una forma de recuperar la memoria del territorio.
 
 **Palabras importantes**
 
@@ -388,7 +388,7 @@ Respuesta: Estero Hondo
 - **E2.** ¿Se adivina un nombre indígena de lugar?
 - **E3.** ¿Qué cuenta un nombre de lugar?
 
-**Actividad abierta.** Dibuja un mapa muy simple con tres lugares de tu barrio, por ejemplo la plaza, el río o la escuela. Escribe sus nombres y la dirección de cada uno desde tu casa. Pregunta a un adulto por qué un lugar se llama así. Pregunta al educador/a tradicional o a la comunidad: ¿qué lugares de nuestro territorio tienen nombre en la lengua y qué cuentan esos nombres?
+**Actividad abierta.** Dibuja un mapa muy simple con tres lugares de tu barrio, por ejemplo la plaza, el río o la escuela. Escribe sus nombres y dónde queda cada uno en tu dibujo (arriba, abajo, a la derecha o a la izquierda de tu casa). Pregunta a un adulto por qué un lugar se llama así. Pregunta al educador/a tradicional o a la comunidad: ¿qué lugares de nuestro territorio tienen nombre en la lengua y qué cuentan esos nombres?
 
 **Solucionario razonado**
 
@@ -398,7 +398,7 @@ Respuesta: Estero Hondo
 - **C1.** Porque cuentan cómo es el lugar o qué pasó. Guardan información del lugar.
 - **C2.** Preguntando a la comunidad. Ella lo sabe.
 - **C3.** Un arroyo pequeño de agua. Es agua que corre.
-- **A1.** 4. Son cuatro pasos.
+- **A1.** 4. Son cuatro lugares.
 - **A2.** Lomas del Espino. El mapa lo dice.
 - **A3.** En Estero Hondo. El nombre lo dice.
 - **Z1.** No. Está al oeste.
@@ -410,7 +410,7 @@ Respuesta: Estero Hondo
 - **E2.** No. Se pregunta a la comunidad.
 - **E3.** Cómo es o qué pasó. Guarda la memoria del lugar.
 
-**Actividad abierta · ejemplo de respuesta.** Dibujé la plaza al norte, el río al oeste y la escuela al este. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua?
+**Actividad abierta · ejemplo de respuesta.** Dibujé la plaza arriba, el río a la izquierda y la escuela a la derecha. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua?
 
 **Criterios para evaluarla:** mapa con tres lugares; direcciones; pregunta a la comunidad.
 
@@ -725,7 +725,7 @@ Respuesta: Acepto y no insisto
 
 Una interacción breve es una conversación corta de dos o tres turnos: uno saluda, el otro responde y se agradece. Para hacerla bien miras a la persona, hablas claro y esperas.
 
-En una lengua que se está recuperando, las expresiones deben haber sido verificadas por un hablante o por la comunidad. Si no lo están, no se usan. «Mari mari» es un saludo en mapuzugun que se puede usar si la educadora de tu pueblo lo enseñó.
+En una lengua que se está recuperando, las expresiones deben haber sido verificadas por un hablante o por la comunidad. Si no lo están, no se usan. «Mari mari» es un saludo en mapuzugun que se puede usar si el educador/a tradicional lo enseñó en tu curso.
 
 Si la otra persona dice algo que no entiendes, no finjas. Agradece y después pregunta qué significa. Aprender lleva tiempo, y los hablantes valoran la honestidad.
 
@@ -783,7 +783,7 @@ Respuesta: Agradezco y pregunto después
 *Aplicación*
 
 - **A1.** Llega el educador y tú lo saludas con la expresión que él enseñó. ¿Cuál usas: la validada o una inventada?
-- **A2.** Hay 6 niños que saludan al educador con 3 turnos cada uno. ¿Cuántos turnos hay en total?
+- **A2.** Hay 4 niños que saludan al educador con 3 turnos cada uno. ¿Cuántos turnos hay en total?
 - **A3.** De 8 niños, 5 usaron la expresión validada. ¿Cuántos no?
 
 *Razonamiento y análisis*
@@ -817,7 +817,7 @@ Respuesta: Agradezco y pregunto después
 - **C2.** Hacer como que entiendo. No es honesto.
 - **C3.** Porque ayuda a aprender de verdad. Preguntar enseña más que fingir.
 - **A1.** La validada. Se usa lo verificado.
-- **A2.** 18. 6 × 3 = 18.
+- **A2.** 12. 3 + 3 + 3 + 3 = 12.
 - **A3.** 3. 8 − 5 = 3.
 - **Z1.** Decir algo equivocado. Sin verificar puede estar mal.
 - **Z2.** Sí. Fue honesta al preguntar.

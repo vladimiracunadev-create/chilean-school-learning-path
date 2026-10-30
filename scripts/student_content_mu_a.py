@@ -61,7 +61,7 @@ register(
         ],
         "challenge": [
             ex("Tienes un cascabel y un tambor. Quieres un sonido agudo, corto y fuerte. ¿Qué objeto eliges y cómo lo tocas?", "El cascabel, sacudido con fuerza y parado enseguida con la mano", "El cascabel es agudo; fuerte se logra sacudiéndolo con fuerza y corto, deteniéndolo."),
-            ex("Con una sola olla y una cuchara, ¿qué dos cualidades puedes cambiar sin cambiar de objeto?", "La intensidad y la duración", "Puedes golpear fuerte o suave, y dejar sonar o apagar con la mano."),
+            ex("Con una sola olla y una cuchara, puedes golpear fuerte o suave, y dejar sonar o apagar con la mano. ¿Qué dos cualidades cambias así?", "La intensidad y la duración", "Fuerte o suave es la intensidad; dejar sonar o apagar es la duración."),
         ],
     },
     context=[ex("En la cocina suenan dos cosas. Sonido A: una tetera pita fino durante mucho rato. Sonido B: se cierra la puerta del refrigerador con un golpe hondo y breve. Describe la altura y la duración de A y de B.", "A: agudo y largo; B: grave y corto", "El pito fino es agudo y dura; el golpe hondo es grave y se acaba rápido.")],
@@ -114,7 +114,7 @@ register(
             ex("Pon un acento en el 1 y cuenta dos grupos de cuatro pulsos. Escribe los números y marca el acento con mayúscula.", "UNO 2 3 4 UNO 2 3 4", "El acento cae al inicio de cada grupo de cuatro."),
         ],
         "reason": [
-            ex(f"Un niño dice que {P(TA, TT, TA, SIL)} tiene 5 pulsos porque ve 5 sonidos. ¿Qué confundió?", "Confundió sonidos con pulsos; tiene 4 pulsos", "ti-ti son dos sonidos pero solo un pulso, y el silencio también cuenta."),
+            ex(f"Un niño dice que {P(TA, TT, TT, SIL)} tiene 5 pulsos porque oye 5 sonidos. ¿Qué confundió?", "Confundió sonidos con pulsos; tiene 4 pulsos", "Cada ti-ti son dos sonidos pero solo un pulso, y el silencio también cuenta: son 4 pulsos y 5 sonidos."),
             ex("Dos amigos tocan patrones distintos con el mismo paso parejo de sus pies. ¿Qué es igual en los dos: el pulso o el ritmo?", "El pulso", "Los pasos parejos son el pulso; los patrones son distintos."),
         ],
         "challenge": [
@@ -163,7 +163,7 @@ register(
         ],
         "understand": [
             ex("¿Para qué sirven las letras A y B al escuchar música?", "Para anotar las secciones", "Cada letra marca una parte distinta de la pieza."),
-            ex("Si dos secciones suenan casi igual, ¿llevan la misma letra o distinta?", "La misma letra", "Lo que suena igual se anota igual."),
+            ex("Si dos secciones suenan exactamente igual, ¿llevan la misma letra o distinta?", "La misma letra", "Lo que suena igual se anota igual."),
             ex("¿Qué puedes notar para encontrar un cambio de sección?", "Un cambio en rapidez, fuerza, altura o instrumento", "Esas pistas se oyen cuando empieza una parte distinta."),
         ],
         "apply": [
@@ -177,7 +177,7 @@ register(
         ],
         "challenge": [
             ex("Inventa una forma de 4 secciones con solo dos letras en que A regrese al final. Escríbela.", "A – B – B – A (u otra que parta y termine en A)", "Debe usar A y B y terminar con la A que regresa."),
-            ex("Escucha esto: tambor fuerte, tambor fuerte, sonajas suaves, tambor fuerte. Escribe las secciones y di cuántos contrastes hay.", "A – A – B – A; hay 2 cambios de A a B o de B a A", "Cambia de tambor a sonajas y luego vuelve al tambor."),
+            ex("Escucha esto: tambor fuerte, tambor fuerte, sonajas suaves, tambor fuerte. Escribe las secciones y di cuántas veces cambia la música de un sonido a otro distinto.", "A – A – B – A; cambia 2 veces (de tambor a sonajas y de sonajas a tambor)", "Pasa de tambor a sonajas y luego vuelve al tambor."),
         ],
     },
     context=[ex("En una fiesta de curso suena una música con tres partes: primero un coro de niños cantando (A), luego solo palmas (B) y por último otra vez el coro (A). ¿Cómo describirías la forma?", "A – B – A", "El coro vuelve al final, así que la forma regresa a A.")],
@@ -202,25 +202,25 @@ register(
     explain=[
         "Una partitura es un dibujo que guarda una música. La partitura tradicional usa notas en un pentagrama, pero también podemos inventar símbolos propios. Esa es una partitura no convencional y sirve si explicas qué significa cada símbolo.",
         f"En este cuaderno usaremos tres símbolos. El círculo lleno ● es un TA: un sonido en un pulso. Los dos círculos vacíos ○○ son un ti-ti: dos sonidos rápidos en un pulso. El cuadrado vacío □ es un silencio. Así {P(TA, TT, TA, SIL)} se dibuja ● ○○ ● □.",
-        "También podemos dibujar fuerza y duración. Un círculo grande puede significar fuerte y uno pequeño, suave. Una línea larga puede mostrar un sonido largo. Lo importante es escribir una llave: la lista que dice qué significa cada símbolo, para que cualquiera pueda leerla.",
+        "También podemos dibujar fuerza y duración. Un círculo grande puede significar fuerte y uno pequeño, suave. Una línea larga puede mostrar un sonido largo. Lo importante es escribir una leyenda: la lista que dice qué significa cada símbolo, para que cualquiera pueda leerla.",
     ],
-    vocab=[("partitura", "dibujo que guarda una música"), ("símbolo", "dibujo que representa un sonido"), ("llave", "lista que explica qué significa cada símbolo"), ("no convencional", "inventada y explicada por uno mismo"), ("leer", "tocar lo que dice el dibujo")],
+    vocab=[("partitura", "dibujo que guarda una música"), ("símbolo", "dibujo que representa un sonido"), ("leyenda", "lista que explica qué significa cada símbolo"), ("no convencional", "inventada y explicada por uno mismo"), ("leer", "tocar lo que dice el dibujo")],
     worked=[
         {"title": "De palabras a dibujo", "problem": f"Dibuja el patrón {P(TA, TT, TA, SIL)} con los símbolos de la clase.", "steps": ["TA es ●.", "ti-ti es ○○.", "SIL es □.", "Pongo uno por pulso, de izquierda a derecha."], "answer": "● ○○ ● □"},
         {"title": "De dibujo a sonido", "problem": "Lee este dibujo: ○○ ● □ ●", "steps": ["○○ es ti-ti: dos sonidos rápidos.", "● es TA.", "□ es silencio.", "● es TA otra vez."], "answer": f"{P(TT, TA, SIL, TA)}"},
     ],
     mistakes=[
         {"wrong": "Dibujar un símbolo para el silencio, pero ponerlo en el lugar equivocado.", "why": "No se sigue el orden de izquierda a derecha.", "fix": "Lee con el dedo, un símbolo por pulso, y comprueba tocando."},
-        {"wrong": "Usar símbolos sin llave.", "why": "Se piensa que todos entienden el dibujo.", "fix": "Escribe al lado qué significa cada símbolo antes de compartir."},
+        {"wrong": "Usar símbolos sin leyenda.", "why": "Se piensa que todos entienden el dibujo.", "fix": "Escribe al lado qué significa cada símbolo antes de compartir."},
     ],
     tiers={
         "recovery": [
-            ex("¿Qué sonido representa el símbolo ●?", "TA, un sonido en un pulso", "Es el círculo lleno de la llave de esta clase."),
+            ex("¿Qué sonido representa el símbolo ●?", "TA, un sonido en un pulso", "Es el círculo lleno de la leyenda de esta clase."),
             ex("¿Qué representa el símbolo □?", "Un silencio", "El cuadrado vacío significa que no suena nada."),
             ex("¿Qué representa ○○?", "ti-ti, dos sonidos rápidos en un pulso", "Dos círculos pequeños son dos sonidos en un solo pulso."),
         ],
         "understand": [
-            ex("¿Para qué sirve la llave de una partitura?", "Para explicar qué significa cada símbolo", "Sin llave otra persona no puede leer el dibujo."),
+            ex("¿Para qué sirve la leyenda de una partitura?", "Para explicar qué significa cada símbolo", "Sin leyenda otra persona no puede leer el dibujo."),
             ex("¿En qué dirección se lee una partitura de ritmo?", "De izquierda a derecha", "Es el orden en que suenan los pulsos."),
             ex("Una partitura no convencional, ¿necesita notas de pentagrama?", "No", "Se puede usar cualquier símbolo si se explica."),
         ],
@@ -231,25 +231,25 @@ register(
         ],
         "reason": [
             ex("Mateo dibujó ● ● ● y dice que es TA – ti-ti – TA. ¿Qué le falta?", "Dibujar ○○ en el segundo pulso", "El ti-ti son dos sonidos, y su dibujo muestra tres TA."),
-            ex("Dos niños dibujan el mismo patrón con símbolos distintos y ambos escriben su llave. ¿Pueden estar bien los dos?", "Sí", "Una partitura no convencional vale si se explica con una llave."),
+            ex("Dos niños dibujan el mismo patrón con símbolos distintos y ambos escriben su leyenda. ¿Pueden estar bien los dos?", "Sí", "Una partitura no convencional vale si se explica con una leyenda."),
         ],
         "challenge": [
-            ex("Quieres mostrar fuerte con un círculo grande y suave con uno pequeño. Escribe una llave de tres símbolos: fuerte, suave y silencio.", "Círculo grande = fuerte; círculo pequeño = suave; cuadrado = silencio (u otra llave clara)", "Una llave clara asigna un significado distinto a cada símbolo."),
+            ex("Quieres mostrar fuerte con un círculo grande y suave con uno pequeño. Escribe una leyenda de tres símbolos: fuerte, suave y silencio.", "Círculo grande = fuerte; círculo pequeño = suave; cuadrado = silencio (u otra leyenda clara)", "Una leyenda clara asigna un significado distinto a cada símbolo."),
             ex(f"Escribe un patrón de 4 pulsos con símbolos, que tenga exactamente 4 sonidos y un silencio.", "● ○○ □ ● es un ejemplo: 1 + 2 + 0 + 1 = 4 sonidos y un silencio", "Debe sumar 4 sonidos y tener un □."),
         ],
     },
-    context=[ex("Tu hermana quiere tocar el patrón que tú inventaste, pero no estás en casa. Le dejas esta nota: ● ○○ ● □. ¿Qué más debes escribir para que pueda tocarlo bien?", "La llave que explica los símbolos y el orden en que se leen", "Sin llave ella no sabría qué sonido es cada dibujo.")],
-    selfcheck=[ex("¿Qué símbolo de la clase se usa para el silencio?", "El cuadrado □", "Fue la regla de la llave."), ex(f"Dibuja {P(TA, SIL)}.", "● □", "TA es ● y SIL es □."), ex("¿Qué es una llave?", "Una lista que explica los símbolos", "Dice qué significa cada dibujo.")],
+    context=[ex("Tu hermana quiere tocar el patrón que tú inventaste, pero no estás en casa. Le dejas esta nota: ● ○○ ● □. ¿Qué más debes escribir para que pueda tocarlo bien?", "La leyenda que explica los símbolos y el orden en que se leen", "Sin leyenda ella no sabría qué sonido es cada dibujo.")],
+    selfcheck=[ex("¿Qué símbolo de la clase se usa para el silencio?", "El cuadrado □", "Fue la regla de la leyenda."), ex(f"Dibuja {P(TA, SIL)}.", "● □", "TA es ● y SIL es □."), ex("En Música, ¿qué es una leyenda de símbolos?", "Una lista que explica los símbolos", "Dice qué significa cada dibujo.")],
     open_task=task(
-        f"Crea tu propia partitura de 4 pulsos con ●, ○○ y □. Puedes copiar este ejemplo y cambiarle un símbolo: ● ○○ ● □. Escribe tu llave, toca el patrón con las palmas y pídele a alguien que lo lea y lo toque.",
-        "Mi partitura fue ● ● ○○ □. Mi llave: ● = un sonido, ○○ = dos sonidos rápidos, □ = silencio. Mi mamá la leyó y tocó igual que yo.",
-        ["dibuja 4 pulsos con al menos dos símbolos distintos", "escribe una llave", "otra persona puede tocarlo con ayuda de la llave"],
-        ["partitura dibujada", "llave escrita", "interpretación"],
-        ["no incluir el silencio en la llave", "mezclar el orden al tocar"],
-        "Reconoce la claridad de la llave y pide que toque mientras señala cada símbolo; si el lector se equivoca, mejoren juntos la llave.",
+        f"Crea tu propia partitura de 4 pulsos con ●, ○○ y □. Puedes copiar este ejemplo y cambiarle un símbolo: ● ○○ ● □. Escribe tu leyenda, toca el patrón con las palmas y pídele a alguien que lo lea y lo toque.",
+        "Mi partitura fue ● ○○ ○○ □. Mi leyenda: ● = un sonido, ○○ = dos sonidos rápidos, □ = silencio. Mi mamá la leyó y tocó igual que yo.",
+        ["dibuja 4 pulsos con al menos dos símbolos distintos", "escribe una leyenda", "otra persona puede tocarlo con ayuda de la leyenda"],
+        ["partitura dibujada", "leyenda escrita", "interpretación"],
+        ["no incluir el silencio en la leyenda", "mezclar el orden al tocar"],
+        "Reconoce la claridad de la leyenda y pide que toque mientras señala cada símbolo; si el lector se equivoca, mejoren juntos la leyenda.",
     ),
     reinforce="Dibuja con ● el pulso de 8 pasos y marca con un círculo más grande el acento de cada grupo de 4.",
-    extend="Inventa un símbolo para un sonido largo y úsalo en una partitura de 4 pulsos con su llave.",
+    extend="Inventa un símbolo para un sonido largo y úsalo en una partitura de 4 pulsos con su leyenda.",
 )
 
 # ---------------------------------------------------------------- OA 02
@@ -259,9 +259,9 @@ register(
     use="Aprenderé a mostrar con movimiento un cambio que oigo en la música. Sirve para sentir la música con el cuerpo y para contar qué escuché.",
     prior=["Sé moverme en un espacio sin chocar con nada.", "Sé distinguir sonidos fuertes y suaves."],
     explain=[
-        "Escuchar con el cuerpo es mover las manos, los brazos o los pies según lo que oyes. Si la música es lenta, tus movimientos pueden ser lentos y largos. Si la música es rápida, pueden ser pequeños y veloces. Si es fuerte, usas más espacio. Si es suave, te mueves con cuidado.",
+        "Escuchar con el cuerpo es mover las manos, los brazos o los pies según lo que oyes. Si la música es lenta, tus movimientos pueden ser lentos y largos. Si la música es rápida, pueden ser pequeños y veloces. Si es fuerte, usas más espacio. Si es suave, te mueves con cuidado. Si el sonido sube de grave a agudo, tus manos pueden subir; si baja, pueden bajar.",
         "Nadie tiene que moverse igual que otra persona. Lo importante es que tu movimiento cambie cuando cambia el sonido. Esa es tu pista: oí que algo cambió y mi cuerpo lo mostró. Puedes usar un pañuelo, una hoja o solo tus manos.",
-        "Antes de moverte, mira tu espacio. Quédate en tu lugar si hay cosas cerca. Mueve los brazos suave para no golpearte. Cuando termine la música, quédate quieto como una estatua. El silencio también se puede mostrar con el cuerpo.",
+        "Antes de moverte, mira tu espacio. Quédate en tu lugar si hay cosas cerca. Mueve los brazos con cuidado para no golpearte. Cuando termine la música, quédate quieto como una estatua. El silencio también se puede mostrar con el cuerpo.",
     ],
     vocab=[("movimiento", "forma de mover el cuerpo"), ("lento", "que va despacio"), ("rápido", "que va veloz"), ("espacio", "lugar libre para moverme"), ("cambio", "cuando algo pasa a ser distinto")],
     worked=[
@@ -275,7 +275,7 @@ register(
     tiers={
         "recovery": [
             ex("La música suena muy despacio. ¿Tu movimiento será lento o veloz?", "Lento", "El movimiento sigue a la música: despacio con música lenta."),
-            ex("La música suena rápida. ¿Cómo son tus pasos pequeños?", "Rápidos", "Música rápida se muestra con movimientos veloces."),
+            ex("La música suena rápida. ¿Cómo son tus movimientos: lentos o veloces?", "Veloces", "Música rápida se muestra con movimientos veloces."),
             ex("La música termina en silencio. ¿Qué haces con tu cuerpo?", "Quedarme quieto", "El silencio se muestra sin moverse."),
         ],
         "understand": [
@@ -298,7 +298,7 @@ register(
         ],
     },
     context=[ex("En la clase de música la profesora hace sonar un cascabel suave y luego un tambor fuerte. Tú tienes poco espacio entre tu silla y la mesa. ¿Cómo muestras el cambio con seguridad?", "Con movimientos de brazos chicos y luego más grandes, sin salir de mi lugar", "Se puede mostrar el cambio usando el tamaño del movimiento sin chocar.")],
-    selfcheck=[ex("Si la música es rápida, ¿cómo te mueves?", "Rápido y con movimientos pequeños", "El cuerpo sigue la velocidad que oye."), ex("¿Cuándo cambias tu movimiento?", "Cuando cambia la música", "El cambio del sonido es la pista."), ex("¿Qué haces cuando termina la música?", "Quedarme quieto", "El silencio se muestra sin moverse.")],
+    selfcheck=[ex("Si la música es rápida, ¿cómo te mueves?", "Con movimientos rápidos", "El cuerpo sigue la velocidad que oye."), ex("¿Cuándo cambias tu movimiento?", "Cuando cambia la música", "El cambio del sonido es la pista."), ex("¿Qué haces cuando termina la música?", "Quedarme quieto", "El silencio se muestra sin moverse.")],
     open_task=task(
         "Un adulto toca con una cuchara y un tarro esta música: 4 golpes suaves y lentos, luego 8 golpes rápidos y fuertes, luego 4 golpes suaves y lentos. Muévete con un pañuelo o con tus manos mostrando cada parte. Cuenta en qué momento cambiaste y qué pista oíste.",
         "Cuando los golpes eran suaves y lentos moví el pañuelo despacio. Cuando se hicieron rápidos y fuertes lo moví grande y veloz. Cambié al golpe número cinco porque oí que sonaba más fuerte.",
@@ -344,7 +344,7 @@ register(
         "apply": [
             ex("Un tambor grave suena muy fuerte y despacio. Completa la frase con una sensación.", "Me parece grande o fuerte porque suena grave, fuerte y despacio (o una sensación parecida bien explicada)", "La frase une la sensación con las pistas graves, fuertes y lentas."),
             ex("Una flauta toca notas agudas y suaves, muy largas. Completa la frase.", "Me parece tranquila o misteriosa porque suena aguda, suave y larga", "Agudo, suave y largo se oye calmado o de misterio."),
-            ex("Elige dos palabras del banco (tranquilo, alegre, travieso, misterioso) para una música rápida y fuerte y escribe una pista.", "Alegre o travieso, porque suena rápida y fuerte", "Rápido y fuerte da energía y juego."),
+            ex("Elige dos palabras del banco (tranquilo, alegre, travieso, misterioso) para una música rápida y fuerte y escribe una pista que lo explique.", "Por ejemplo alegre y travieso, porque suena rápida y fuerte", "Rápido y fuerte da energía y juego."),
         ],
         "reason": [
             ex("Ana dice «esta música es alegre» y no dice nada más. ¿Qué le puedes preguntar?", "¿Qué oíste que te hace pensar que es alegre?", "Se pide la pista sonora."),
@@ -358,7 +358,7 @@ register(
     context=[ex("Cuando duermes a tu peluche, tarareas una melodía lenta, suave y larga. ¿Qué sensación das y qué pista sonora usas?", "Tranquilidad; lenta, suave y larga", "Esas pistas hacen que la música calme.")],
     selfcheck=[ex("¿Qué palabra de sensación combina con música lenta y suave?", "Tranquila", "Lo suave y lento calma."), ex("¿Qué es una pista sonora?", "Lo que se oye y explica mi sensación", "Es una característica del sonido."), ex("Completa: Me parece ___ porque suena ___. ¿Qué va primero?", "La sensación", "La frase parte con lo que siento.")],
     open_task=task(
-        "Un adulto toca tres sonidos: (1) una cuchara en un vaso de vidrio, suave y fino; (2) una olla golpeada fuerte y grave; (3) las palmas muy rápidas. Para cada uno escribe o di una frase con la forma «Me parece ___ porque suena ___».",
+        "Un adulto toca tres sonidos: (1) una cuchara de metal que golpea suavemente la tapa de una olla, suave y fino; (2) una olla golpeada fuerte y grave; (3) las palmas muy rápidas. Para cada uno escribe o di una frase con la forma «Me parece ___ porque suena ___».",
         "(1) Me parece delicado porque suena suave y fino. (2) Me parece grande porque suena fuerte y grave. (3) Me parece travieso porque suena rápido.",
         ["escribe una frase para cada sonido", "usa una sensación y una pista sonora", "la pista es algo que se oye"],
         ["tres frases", "dibujo de cada sonido", "explicación oral"],
@@ -375,7 +375,7 @@ register(
     use="Aprenderé a traducir lo que oigo a un dibujo o a otro sonido. Sirve para expresar mis ideas sobre la música con otros medios, no solo con palabras.",
     prior=["Sé hacer líneas y puntos en un papel.", "Sé decir si un sonido es fuerte o suave."],
     explain=[
-        "Podemos responder a la música dibujando. Una línea ondulada suave puede mostrar un sonido suave y largo. Puntos pequeños y juntos pueden mostrar sonidos cortos y rápidos. Un zigzag grande y fuerte puede mostrar un sonido fuerte y agitado.",
+        "Podemos responder a la música dibujando. Una línea ondulada suave puede mostrar un sonido suave y largo. Puntos pequeños y juntos pueden mostrar sonidos cortos y rápidos. Un zigzag grande y fuerte puede mostrar un sonido fuerte y agitado. Lo agudo se dibuja arriba en la hoja y lo grave, abajo; una línea que sube muestra un sonido que sube.",
         "También podemos responder con otro sonido. Si oigo un tambor lento, puedo contestar con palmas lentas. Si oigo un cascabel rápido, puedo contestar con golpecitos rápidos en la mesa. Traducir es cambiar de medio, pero mantener la idea.",
         "Cuando termines, cuenta qué quisiste mostrar: «Dibujé una línea ondulada porque el sonido era suave y largo». Cualquier dibujo es válido si puedes explicar la pista sonora. Los colores también pueden ayudar, como azul para sonidos suaves y rojo para fuertes.",
     ],
@@ -410,7 +410,7 @@ register(
         ],
         "challenge": [
             ex("Dibuja en palabras una música con tres partes: suave y larga, corta y rápida, otra vez suave y larga. Describe tu dibujo.", "Línea ondulada, luego puntos, luego otra línea ondulada", "La primera parte regresa al final."),
-            ex("Traduce a sonido de palmas este dibujo: ● ● ○○ □. Escribe cómo suenan las palmas.", "TA, TA, ti-ti, silencio", "Cada símbolo se traduce en el sonido que representa."),
+            ex("Traduce a sonido de palmas este dibujo (● = TA, ○○ = ti-ti, □ = silencio): ● ● ○○ □. Escribe cómo suenan las palmas.", "TA, TA, ti-ti, silencio", "Cada símbolo se traduce en el sonido que representa."),
         ],
     },
     context=[ex("Quieres dibujar para tu abuela la música de un arrullo: sube un poco, baja un poco, siempre suave y larga. ¿Qué línea haces?", "Una línea ondulada suave que sube y baja", "Una curva suave muestra un arrullo.")],

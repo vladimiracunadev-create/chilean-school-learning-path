@@ -70,7 +70,7 @@ reg(
     ("Lee estos temas grandes: «los animales», «el colegio», «mi familia», «los juegos». Escoge dos y escribe, para cada uno, un tema pequeño que podrías contar en tres frases. Luego cuenta uno a un adulto en voz alta con un comienzo claro (por ejemplo: «Hoy les voy a contar…»).",
      "Tema grande: los animales. Pequeño: cómo juega mi gato. Tema grande: mi familia. Pequeño: lo que hago con mi abuela. Conté: Hoy les voy a contar cómo juega mi gato. Salta tras una pelota.",
      ["escoge un tema pequeño por cada uno", "el tema cabe en tres frases", "empieza con una frase clara"], ["dos temas escritos", "adulto escucha la presentación"], ["temas muy grandes", "hablar de varias cosas a la vez"],
-     "Si el tema sigue grande, pregunta: ¿qué una parte quieres contar? y reduce."),
+     "Si el tema sigue grande, pregunta: ¿qué parte quieres contar? y reduce."),
     "Haz una lista de tres temas pequeños que conoces bien.",
     "Delimita tres veces un mismo tema grande en tres temas pequeños distintos.",
 )
@@ -111,7 +111,7 @@ reg(
         E("Eva dice: «Fuimos a la playa y hacía calor». No dice cuándo. ¿Qué dato le falta?", "Cuándo fue", "Falta el tiempo del evento."),
     ],
     [
-        E("Historia: «Lía lavó el plato. Antes comió y después guardó el plato». ¿Qué hizo primero?", "Comió", "Antes de lavar, comió."),
+        E("Historia: «Lía comió. Después lavó el plato y al final lo guardó». ¿Qué hizo primero?", "Comió", "Es lo primero que cuenta la historia."),
         E("Escribe el inicio, el medio y el final de «ir a la panadería» en 3 frases separadas por punto y coma.", "Por ejemplo: Fui a la panadería; compré pan; volví a casa", "Hay inicio, medio y final."),
     ],
     [E("Quieres contar a tus abuelos cómo fue tu cumpleaños: llegaron amigos, cantaron, comieron torta y jugaron. Ordénalo con primero, luego y al final.", "Primero llegaron mis amigos, luego cantamos y comimos torta y al final jugamos", "El orden sigue lo que pasó.")],
@@ -135,7 +135,7 @@ reg(
     ["Sé nombrar colores y formas.", "Sé decir frases completas."],
     [
         "Describir es decir cómo es algo para que otra persona lo imagine. Para describir una cosa puedes decir su nombre, su color, su forma, su tamaño y para qué sirve. Por ejemplo: «La pelota es redonda, roja, del tamaño de mi mano y sirve para jugar».",
-        "Una buena descripción usa palabras que ayudan a ver: «grande», «pequeño», «suave», «áspero», «liso», «brillante». También puedes comparar: «es suave como un algodón». Si usas sentidos, como el olor o el sonido, la descripción es más rica.",
+        "Una buena descripción usa palabras que ayudan a ver: «grande», «pequeño», «suave», «áspero» (que raspa al tocarlo), «liso», «brillante». También puedes comparar: «es suave como un algodón». Si usas sentidos, como el olor o el sonido, la descripción es más rica.",
         "Para ordenar la descripción, empieza por lo más general y termina por los detalles. Primero nombra qué es, después cómo se ve y al final para qué sirve. Si la persona puede dibujar lo que describiste, tu descripción fue buena.",
     ],
     [("describir", "decir cómo es algo"), ("detalle", "dato pequeño que da información"), ("tamaño", "qué tan grande o pequeño es"), ("forma", "figura de algo, como redonda o larga"), ("comparar", "decir en qué se parece a otra cosa")],
@@ -164,7 +164,7 @@ reg(
         E("Beto dice: «Es una cosa». ¿Qué le falta a su descripción?", "Datos como color, forma y tamaño", "No da información."),
     ],
     [
-        E("Describe sin decir el nombre y tu adulto adivina: «Es amarillo, largo, se pela y se come». ¿Qué es?", "Plátano", "Tiene esas características."),
+        E("Lee la descripción: «Es amarillo, largo, se pela y se come». ¿Qué fruta es?", "Plátano", "Tiene esas características."),
         E("Ordena para describir: a) sirve para jugar, b) es una pelota, c) es redonda y roja. Escribe las letras.", "b, c, a", "Primero qué es, luego cómo es y al final su uso."),
     ],
     [E("Quieres contar a un amigo cómo es tu mascota para que la reconozca. Escribe tres datos (puedes inventar la mascota: perro blanco con manchas).", "Por ejemplo: Es un perro blanco, pequeño, con manchas negras y orejas largas", "Incluye color, tamaño y detalles.")],
@@ -173,7 +173,7 @@ reg(
         E("¿Una buena descripción permite dibujar la cosa?", "Sí", "Da datos suficientes."),
         E("¿Qué dato describe la forma: «redondo» o «azul»?", "Redondo", "Redondo es una forma."),
     ],
-    ("Describe en voz alta tres objetos de tu casa a un adulto, sin decir su nombre, para que los adivine: una cuchara, un vaso y un zapato. Cada descripción debe tener forma, tamaño, color (o material) y para qué sirve. Usa este modelo: «Es pequeño, de metal, alargado y sirve para tomar sopa».",
+    ("Describe en voz alta tres objetos de tu casa a un adulto, sin decir su nombre, para que los adivine: una cuchara, un vaso y un zapato. Cada descripción debe tener al menos tres datos entre estos cuatro: forma, tamaño, color (o material) y para qué sirve. Usa este modelo: «Es pequeño, de metal, alargado y sirve para tomar sopa».",
      "Es pequeño, de metal, alargado y sirve para tomar sopa. (cuchara) Es transparente, redondo y sirve para tomar agua. (vaso) Es de cuero, se pone en el pie y sirve para caminar. (zapato)",
      ["incluye al menos tres datos por objeto", "no dice el nombre", "el adulto adivina"], ["tres descripciones habladas", "adulto confirma si adivinó"], ["dar un solo dato", "decir el nombre"],
      "Si el adulto no adivina, pregunta qué dato falta y agrégalo."),
@@ -218,7 +218,7 @@ reg(
     ],
     [
         E("Di despacio y cuenta las sílabas de: «ca-ra-co-la». ¿Cuántas tiene?", "4", "Ca, ra, co, la."),
-        E("Frase: «El gato peludo duerme en la alfombra». ¿Qué palabra es más difícil de pronunciar: «alfombra» o «gato»?", "Alfombra", "Tiene un grupo de consonantes."),
+        E("Frase: «El gato peludo duerme en la alfombra». Separa en sílabas la palabra «alfombra».", "al-fom-bra", "Tiene tres golpes de voz."),
     ],
     [E("Vas a presentar un tema ante tu curso en una sala grande. Escribe dos cosas que harás con tu voz.", "Por ejemplo: hablaré despacio y con voz clara", "Ayudan a que todos oigan.")],
     [
@@ -226,9 +226,9 @@ reg(
         E("Para hablar claro, ¿abro bien la boca?", "Sí", "Ayuda a pronunciar."),
         E("¿Qué palabra es más exacta para un animal: «perro» o «cosa»?", "Perro", "Nombra el animal."),
     ],
-    ("Lee estas tres frases en voz alta, despacio, abriendo bien la boca, y pide a un adulto que marque si oyó todas las palabras. Frase 1: «La mariposa se posó sobre una rosa». Frase 2: «Mi tortuga camina despacio por el jardín». Frase 3: «El caracol sube por la ventana». Luego cambia en cada frase una palabra por otra más exacta (por ejemplo, «mariposa amarilla»).",
+    ("Lee estas tres frases en voz alta, despacio, abriendo bien la boca, y pide a un adulto que marque si oyó todas las palabras. Frase 1: «La mariposa se posó sobre una rosa». Frase 2: «Mi tortuga camina despacio por el jardín». Frase 3: «El caracol sube por la ventana». Luego agrega en cada frase un dato exacto (por ejemplo, «mariposa amarilla»).",
      "La mariposa amarilla se posó sobre una rosa roja. Mi tortuga verde camina despacio por el jardín. El caracol pequeño sube por la ventana. El adulto oyó todas las palabras.",
-     ["volumen adecuado", "pronuncia todas las sílabas", "reemplaza por palabras exactas"], ["lectura oral", "adulto marca si oyó las palabras"], ["comer sílabas", "hablar muy bajo"],
+     ["volumen adecuado", "pronuncia todas las sílabas", "agrega palabras exactas"], ["lectura oral", "adulto marca si oyó las palabras"], ["comer sílabas", "hablar muy bajo"],
      "Si el adulto no oyó una palabra, repite esa palabra sola, despacio, y luego la frase."),
     "Repite en voz alta cinco palabras con tres sílabas y cuenta sus sílabas.",
     "Cambia tres palabras generales de tu vida (cosa, bonito, grande) por palabras exactas.",
@@ -279,7 +279,7 @@ reg(
         E("¿Hago preguntas a quien presenta?", "Sí, relacionadas con su tema", "Las preguntas muestran interés."),
         E("¿Cuál es la última parte de una presentación?", "El cierre", "Termina la presentación."),
     ],
-    ("Prepara y presenta a un adulto (de 1 a 2 minutos) un tema pequeño que escojas de esta lista: mi mascota, mi juego favorito, mi comida favorita, mi lugar preferido. Usa tres partes: comienzo (tu nombre y tema), desarrollo (dos o tres frases en orden con una descripción) y cierre. Pide al adulto un comentario con esta pauta: voz clara, orden de ideas y mirada. Luego mejora una cosa y vuelve a presentar.",
+    ("Prepara y presenta a un adulto (de 30 segundos a 1 minuto) un tema pequeño que escojas de esta lista: mi mascota, mi juego favorito, mi comida favorita, mi lugar preferido. Usa tres partes: comienzo (tu nombre y tema), desarrollo (dos o tres frases en orden con una descripción) y cierre. Pide al adulto un comentario con esta pauta: voz clara, orden de ideas y mirada. Luego mejora una cosa y vuelve a presentar.",
      "Hola, soy Ana y les voy a contar sobre mi mascota. Primero, mi gata es gris y pequeña. Luego, le gusta dormir en mi cama. Al final, me despierta con su ronroneo. Gracias por escuchar. Comentario: más fuerte la voz. Mejoré: hablé más fuerte.",
      ["tiene comienzo, desarrollo y cierre", "usa voz clara y mira al público", "mejora una cosa"], ["presentación oral", "pauta con comentario del adulto"], ["no tener cierre", "no mirar al público"],
      "Si no mejora nada, elige un solo punto de la pauta y practica solo eso antes de repetir."),
@@ -320,7 +320,7 @@ reg(
         E("Escucha «La noche estaba serena: sin viento ni ruido». Escribe qué crees que significa «serena».", "Tranquila", "Sin viento ni ruido, todo está en calma."),
     ],
     [
-        E("Ana dice «curioso» y Beto cree que significa «dormilón». ¿Quién tiene la idea correcta con la frase de Tomás?", "Ninguno de los dos; curioso es quien pregunta", "La frase dice «pregunta todo»."),
+        E("Ana dice que «curioso» es quien pregunta todo. Beto cree que significa «dormilón». ¿Quién tiene la idea correcta con la frase de Tomás?", "Ana", "La frase dice «pregunta todo»."),
         E("Luz repitió la palabra «refugio» tres veces y dijo qué significa. ¿Hizo un buen trabajo para aprenderla?", "Sí", "Repetir y explicar ayuda."),
     ],
     [
@@ -358,7 +358,7 @@ reg(
     ],
     [("Dar solo la palabra sin explicar.", "Se cree que todos la entienden.", "Agrega significado y un ejemplo."), ("Dar un ejemplo que no sirve.", "No se piensa si cumple.", "Pregunta: ¿cumple el significado?")],
     [
-        E("¿«Compartir la comida» es un ejemplo de «generoso» o de «egoísta»?", "Generoso", "Dar a otros es ser generoso."),
+        E("¿«Compartir la comida» es un ejemplo de «generoso»?", "Sí", "Dar a otros es ser generoso."),
         E("¿«Esperar el turno con calma» es un ejemplo de «paciente»?", "Sí", "Esperar con calma es paciencia."),
         E("¿«Quitar el lápiz de otro» es un ejemplo de «generoso»?", "No", "Quitar no es compartir."),
     ],
@@ -370,15 +370,15 @@ reg(
     [
         E("Explica «curioso» con la forma palabra, significado y ejemplo.", "Por ejemplo: La palabra es curioso, significa que quiere saber, y un ejemplo es mi hermano que pregunta por todo", "Tiene las tres partes."),
         E("Escribe un ejemplo de «paciente».", "Por ejemplo: Ana es paciente porque espera su turno", "Cumple el significado."),
-        E("Escribe un no ejemplo de «ordenado».", "Por ejemplo: Beto dejó sus juguetes en el piso", "No cumple el significado."),
+        E("Escribe un no ejemplo de «ordenado» (que deja todo en su lugar).", "Por ejemplo: Beto dejó sus juguetes en el piso", "No cumple el significado."),
     ],
     [
         E("Pedro dice: «Luz es generosa porque no presta nada». ¿Su ejemplo es correcto?", "No", "No prestar no es ser generoso."),
         E("Eva dice: «Soy paciente porque grito si me hacen esperar». ¿Es un buen ejemplo?", "No", "Gritar no es esperar con calma."),
     ],
     [
-        E("Palabra: «ágil». Ejemplos: a) un gato que salta de una mesa a otra, b) una piedra en el suelo. ¿Cuál cumple?", "a", "Un gato salta con facilidad."),
-        E("Palabra: «tímido». ¿Qué ejemplo es mejor: a) un niño que se esconde cuando lo miran, b) un niño que habla a gritos?", "a", "Esconderse indica timidez."),
+        E("Palabra: «ágil» (que se mueve con facilidad y rapidez). Ejemplos: a) un gato que salta de una mesa a otra, b) una piedra en el suelo. ¿Cuál cumple?", "a", "Un gato salta con facilidad."),
+        E("Palabra: «tímido» (que le da vergüenza estar con otros). ¿Qué ejemplo es mejor: a) un niño que se esconde cuando lo miran, b) un niño que habla a gritos?", "a", "Esconderse indica timidez."),
     ],
     [E("Tu hermano menor te pregunta qué significa «generoso». Explícaselo con significado y un ejemplo de tu casa.", "Por ejemplo: Generoso es quien comparte; mamá es generosa porque nos da de su postre", "Tiene significado y ejemplo.")],
     [
@@ -402,9 +402,9 @@ reg(
     [
         "Una palabra nueva se aprende de verdad cuando la uso. Para usarla en una conversación, primero pienso en qué situación sirve. Por ejemplo, «paciente» sirve cuando alguien espera con calma, «curioso» cuando quiere saber algo, y «generoso» cuando comparte.",
         "Después busco el momento: espero mi turno y la digo en una frase completa que tenga sentido. Por ejemplo: «Mi abuela es paciente porque nunca se enoja cuando me demoro». Si me equivoco, puedo corregir y probar de nuevo.",
-        "Usar una palabra nueva con naturalidad toma práctica. Puedes empezar con una palabra por día. Ponla en una conversación con tu familia y pide que te digan si les hizo sentido. Cuando la usas varias veces, ya es tuya.",
+        "Usar una palabra nueva con naturalidad toma práctica. Puedes empezar con una palabra por día. Ponla en una conversación con tu familia y pide que te digan si tenía sentido. Cuando la usas varias veces, ya es tuya.",
     ],
-    [("usar", "decir o escribir la palabra en una frase"), ("adecuado", "que sirve para la situación"), ("turno", "momento en que hablo"), ("práctica", "hacer algo muchas veces para mejorar"), ("naturalidad", "decir algo sin esfuerzo")],
+    [("usar", "decir o escribir la palabra en una frase"), ("adecuado", "que sirve para la situación"), ("turno", "momento en que hablo"), ("práctica", "hacer algo muchas veces para mejorar"), ("naturalidad", "hacerlo fácil, sin esfuerzo")],
     [
         ("Elegir la palabra", "Tu hermano espera su turno sin molestarse. ¿Qué palabra nueva usas: paciente o curioso?", ["Veo lo que hace.", "Espera con calma.", "Corresponde «paciente»."], "Mi hermano es paciente porque espera su turno con calma."),
         ("Usarla en conversación", "Tu amiga comparte su colación. ¿Qué dices usando «generosa»?", ["Pienso en lo que hizo.", "Elijo la palabra.", "La digo en una frase completa."], "Eres generosa porque compartiste tu colación."),
@@ -439,7 +439,7 @@ reg(
         E("¿Practicar una palabra por día ayuda?", "Sí", "Ayuda a recordarla."),
         E("¿Puedo corregir si me equivoco?", "Sí", "Es parte de aprender."),
     ],
-    ("Escoge tres palabras de esta lista: paciente, generoso, curioso, ordenado, tímido. Para cada una escribe una frase sobre una persona de tu familia y dila en voz alta. Después usa una de ellas en una conversación real con un adulto y pregunta si le hizo sentido.",
+    ("Escoge tres palabras de esta lista: paciente, generoso, curioso, ordenado, tímido (que le da vergüenza estar con otros). Para cada una escribe una frase sobre una persona de tu familia y dila en voz alta. Después usa una de ellas en una conversación real con un adulto y pregunta si tenía sentido.",
      "Mi abuela es paciente porque espera con calma. Mi tío es generoso porque comparte su pan. Mi hermano es curioso porque pregunta todo. Dije «paciente» en la mesa y mamá dijo que tenía sentido.",
      ["tres frases con sentido", "usa la palabra en conversación", "el adulto confirma sentido"], ["tres frases", "adulto confirma el uso"], ["usar la palabra donde no calza", "no decir frase completa"],
      "Si la frase no calza, pide que repita el significado y arme otra."),
@@ -453,7 +453,7 @@ reg(
     "Aprenderé a cambiar una palabra general por otra más exacta. Sirve para decir con precisión lo que quiero comunicar.",
     ["Sé usar palabras nuevas en frases."],
     [
-        "A veces usamos palabras muy generales como «cosa», «bonito» o «cosa grande». Reformular es decir lo mismo con palabras más exactas. Por ejemplo, en vez de «cosa» puedo decir «mochila», y en vez de «bonito» puedo decir «colorido» o «suave», según lo que quiera describir.",
+        "A veces usamos palabras muy generales como «cosa», «bonito» o «animal». Reformular es decir lo mismo con palabras más exactas. Por ejemplo, en vez de «cosa» puedo decir «mochila», y en vez de «bonito» puedo decir «colorido» o «suave», según lo que quiera describir.",
         "Para reformular, hago tres preguntas: ¿qué quiero decir exactamente? ¿qué palabra lo dice mejor? ¿suena bien en la frase? Por ejemplo: «La cosa está en la mesa» pasa a «El libro está sobre la mesa». Ahora se entiende de qué hablo.",
         "Reformular también sirve cuando alguien no me entendió. Puedo decir: «Quise decir que…» y usar palabras más claras. Así corrijo con calma y todos comprenden mejor.",
     ],
@@ -480,7 +480,7 @@ reg(
     ],
     [
         E("Beto dijo «Dame esa cosa» y Ana le pasó la regla. Quería el borrador. ¿Qué debió decir?", "Dame el borrador", "Nombró el objeto exacto."),
-        E("Luz dice «Vi un animal grande». Pedro no sabe cuál. ¿Cómo podría reformular?", "Vi un elefante grande", "Nombra el animal."),
+        E("Luz dice «Vi un animal grande». Pedro no sabe cuál. ¿Cómo podría reformular?", "Por ejemplo: Vi un elefante grande", "Nombra el animal."),
     ],
     [
         E("Reformula con tres datos: «Tengo una cosa» (es una mochila azul con dos bolsillos).", "Tengo una mochila azul con dos bolsillos", "Nombra y describe."),
@@ -503,7 +503,7 @@ reg(
 reg(
     OA24, 5,
     "Las situaciones escritas en este cuaderno, lápiz y hoja. Se practica con un adulto.",
-    "Aprenderé a usar una palabra nueva en situaciones distintas. Sirve para que la palabra me acompañe siempre, no sólo en una clase.",
+    "Aprenderé a usar una palabra nueva en situaciones distintas. Sirve para que la palabra me acompañe siempre, no solo en una clase.",
     ["Sé usar y explicar una palabra nueva."],
     [
         "Una palabra nueva se vuelve tuya cuando puedes usarla en varios lugares y con distintas personas. A eso se le llama transferir. Por ejemplo, «refugio» se usa en una excursión («nos protegimos en un refugio»), en una casa («mi casa es un refugio») y en un cuento («el oso buscó un refugio»).",
@@ -515,7 +515,7 @@ reg(
         ("Usarla en otro lugar", "Palabra: «refugio». Ya la usaste en una excursión. ¿Cómo la usas en tu casa?", ["El significado es lugar para protegerme.", "Pienso en mi casa.", "Armo la frase."], "Mi casa es un refugio cuando llueve."),
         ("Cambiar de persona", "Quieres decir «refugio» a un amigo y a un adulto. ¿Qué dices a cada uno?", ["Amigo: más cercano.", "Adulto: más formal.", "La palabra es la misma."], "Amigo: mi cuarto es mi refugio. Adulto: la casa es un refugio para la familia."),
     ],
-    [("Creer que la palabra sólo sirve en un lugar.", "Se la aprendió en un solo caso.", "Prueba otras situaciones."), ("Cambiar el significado.", "Se confunde con otra palabra.", "Pregunta si el significado se mantiene.")],
+    [("Creer que la palabra solo sirve en un lugar.", "Se la aprendió en un solo caso.", "Prueba otras situaciones."), ("Cambiar el significado.", "Se confunde con otra palabra.", "Pregunta si el significado se mantiene.")],
     [
         E("¿«Refugio» significa lugar de protección?", "Sí", "Es su significado."),
         E("En una excursión, la lluvia empieza y nos cubrimos en una cabaña. ¿Qué palabra nueva uso: refugio o paciente?", "Refugio", "La cabaña nos protege."),
@@ -523,7 +523,7 @@ reg(
     ],
     [
         E("¿Qué significa transferir una palabra?", "Usarla en otra situación", "Se aplica en varios contextos."),
-        E("¿Por qué conviene usar la palabra en distintos lugares?", "Para que se vuelva parte de mi vocabulario", "La práctica varía."),
+        E("¿Por qué conviene usar la palabra en distintos lugares?", "Para que se vuelva parte de mi vocabulario", "Así la uso con seguridad en cualquier situación."),
         E("¿La palabra cambia de significado en otra situación?", "No", "Solo cambia la frase."),
     ],
     [
@@ -536,7 +536,7 @@ reg(
         E("Una niña dice «El refugio es una fruta». ¿Usó bien la palabra?", "No", "Refugio es un lugar, no una fruta."),
     ],
     [
-        E("Una misma palabra, «refugio», en 3 situaciones: casa, cueva y paraguas. ¿Cuántas situaciones hay?", "3", "Son tres situaciones."),
+        E("Una misma palabra, «refugio», en 3 situaciones: casa, cueva y cabaña. ¿Cuántas situaciones hay?", "3", "Son tres situaciones."),
         E("Elige la frase que usa bien «refugio»: a) El gato se escondió en un refugio durante la tormenta, b) El refugio corre muy rápido.", "a", "El gato se protege en un lugar."),
     ],
     [E("Estás de paseo con tu familia y empieza a llover. Ven un quiosco con techo. Usa la palabra «refugio» para decirlo.", "Por ejemplo: Corramos al quiosco: es un buen refugio para la lluvia", "Usa la palabra en una situación nueva.")],

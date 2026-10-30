@@ -35,7 +35,7 @@ register(
     vocab=[("agregar", "poner más a lo que ya hay"), ("reunir", "juntar dos grupos"), ("sumar", "juntar cantidades"), ("total", "cuántos hay al final"), ("problema", "historia con una pregunta")],
     worked=[
         {"title": "Agregar", "problem": "En una rama hay 2 pájaros. Llegan 3 más. ¿Cuántos pájaros hay ahora?", "steps": ["Había 2.", "Llegan 3 más.", "Junto: 2 + 3 = 5."], "answer": "Hay 5 pájaros"},
-        {"title": "Reunir", "problem": "Hay 2 niñas y 1 niño en una mesa. ¿Cuántos niños hay en total?", "steps": ["Grupo 1: 2 niñas.", "Grupo 2: 1 niño.", "2 + 1 = 3."], "answer": "Hay 3 niños"},
+        {"title": "Reunir", "problem": "Hay 2 niñas y 1 niño en una mesa. ¿Cuántas personas hay en total?", "steps": ["Grupo 1: 2 niñas.", "Grupo 2: 1 niño.", "2 + 1 = 3."], "answer": "Hay 3 personas"},
     ],
     mistakes=[
         {"wrong": "Responder sólo con la cantidad que llega.", "why": "No se junta con lo que ya había.", "fix": "Suma lo que había y lo que llega."},
@@ -153,7 +153,7 @@ register(
         ],
         "challenge": [
             arith("Una caja tiene 12 bolitas y otra 8. ¿Cuántas bolitas hay en total?", "12+8", "Parto en 12 y salto ocho."),
-            ex("Sumo 7 a un número y llego a 15. ¿De qué número partí?", "8", "15 − 7 = 8."),
+            ex("Sumo 7 a un número y llego a 15. ¿De qué número partí?", "8", "8 + 7 = 15."),
         ],
     },
     context=[arith("En una sala hay 9 niños y llegan 8 más. ¿Cuántos niños hay en total?", "9+8", "Completo diez con 1 y quedan 7.")],
@@ -299,7 +299,7 @@ register(
         ],
     },
     context=[ex("En una caja hay 6 lápices. Meto 4 y luego saco 4. ¿Cuántos lápices hay?", "6", "Meter y sacar 4 se deshacen.")],
-    selfcheck=[ex("Si sumo 2 y resto 2, ¿qué pasa?", "Vuelvo al inicio", "Sumar y restar lo mismo se deshace."), ex("¿Qué opera deshace una resta?", "La suma", "Agrega lo quitado."), ex("Parto en 7, resto 3 y sumo 3. ¿Llego a?", "7", "Volví al inicio.")],
+    selfcheck=[ex("Si sumo 2 y resto 2, ¿qué pasa?", "Vuelvo al inicio", "Sumar y restar lo mismo se deshace."), ex("Si quito 3 fichas, ¿qué operación me devuelve al inicio?", "La suma", "Agrega lo quitado."), ex("Parto en 7, resto 3 y sumo 3. ¿Llego a?", "7", "Volví al inicio.")],
     open_task=task("Elige el 6, el 8 o el 9 como punto de partida. Usa fichas: agrega 3, escribe cuántas hay; luego quita 3 y escribe cuántas hay. Explica qué notas.", "Elegí 8. 8 + 3 = 11. 11 − 3 = 8. Noto que vuelvo al 8 porque quité lo mismo que agregué.", ["usa el mismo número", "escribe ambos pasos", "explica que vuelve al inicio"], ["fichas o dibujo", "dos operaciones", "explicación"], ["cambiar el número que se quita", "no escribir los dos pasos"], "Pide mostrar con fichas que se vuelve al principio."),
     reinforce="Haz tres veces con fichas: agregar un número y deshacerlo.",
     extend="Descubre qué pasa si agregas 5 y luego quitas 3. ¿Qué número tendrías que quitar para volver?",
@@ -342,11 +342,11 @@ register(
         ],
         "challenge": [
             ex("Sé que 12 − 5 = 7. Escribe las otras tres operaciones.", "5 + 7 = 12; 7 + 5 = 12; 12 − 7 = 5", "Con los mismos tres números."),
-            ex("Dos de los números de una familia son 6 y 15. ¿Cuál puede ser el tercero?", "9", "6 + 9 = 15."),
+            ex("Dos números de una familia son 6 y 15, y 15 es el todo. ¿Cuál es el tercer número?", "9", "6 + 9 = 15."),
         ],
     },
-    context=[ex("En un curso hay 7 niñas y 8 niños, 15 estudiantes en total. Escribe una suma y una resta que cuenten esta historia.", "7 + 8 = 15; 15 − 7 = 8", "Los tres números de la historia forman la familia.")],
-    selfcheck=[ex("Escribe una resta de la familia 4, 6, 10.", "10 − 4 = 6", "El todo va primero."), ex("¿Qué número es el todo en la familia 5, 7, 12?", "12", "Es el mayor."), ex("Escribe una suma de la familia 3, 9, 12.", "3 + 9 = 12", "Dos partes forman el todo.")],
+    context=[ex("En un curso hay 7 niñas y 8 niños, 15 estudiantes en total. Escribe una suma y una resta que cuenten esta historia.", "Por ejemplo: 7 + 8 = 15 y 15 − 7 = 8", "Los tres números de la historia forman la familia.")],
+    selfcheck=[ex("Escribe una resta de la familia 4, 6, 10.", "Por ejemplo: 10 − 4 = 6", "El todo va primero."), ex("¿Qué número es el todo en la familia 5, 7, 12?", "12", "Es el mayor."), ex("Escribe una suma de la familia 3, 9, 12.", "Por ejemplo: 3 + 9 = 12", "Dos partes forman el todo.")],
     open_task=task("Elige la familia 5, 8 y 13. Escribe las cuatro operaciones, dibuja un diagrama de partes y todo, y explica cuál de los tres números es el todo y por qué.", "5 + 8 = 13, 8 + 5 = 13, 13 − 5 = 8, 13 − 8 = 5. El todo es 13 porque es el mayor y es lo que resulta al juntar 5 y 8.", ["escribe las cuatro operaciones", "dibuja el diagrama", "explica el todo"], ["cuatro operaciones", "diagrama", "explicación"], ["resta con el todo al final", "olvidar una operación"], "Pide comprobar cada operación con fichas."),
     reinforce="Escribe la familia de operaciones de 2, 7 y 9.",
     extend="Busca una familia en la que una parte sea 0 y escribe sus operaciones.",
@@ -502,7 +502,7 @@ register(
     explain=[
         "Los patrones también se hacen con objetos y figuras: ▲ ● ▲ ● ▲ ●. La unidad es ▲ ●. También con colores, tamaños o direcciones. Lo importante es que la regla se repita siempre igual.",
         "Para describir un patrón, nombra la unidad con palabras: «triángulo, círculo». Para continuar, repite la unidad hasta donde pidan. Para saber qué hay en un lugar lejano, cuenta de a una unidad.",
-        "Los patrones de figuras tienen un lugar para cada elemento. Si la unidad tiene 2 elementos, todos los lugares pares tienen el segundo. Esto sirve para saber qué hay en el lugar 8 sin dibujar todo.",
+        "Los patrones de figuras tienen un lugar para cada elemento. Si la unidad tiene 2 elementos, todos los lugares pares tienen el segundo. Si la unidad tiene 3 elementos, los lugares 3, 6, 9 y 12 tienen el tercero. Esto sirve para saber qué hay en un lugar lejano sin dibujar todo.",
     ],
     vocab=[("figura", "dibujo con forma, como ▲ ● ■"), ("unidad", "lo que se repite"), ("describir", "decir cómo es el patrón"), ("lugar", "posición dentro del patrón"), ("regla", "lo que siempre se cumple")],
     worked=[
@@ -523,7 +523,7 @@ register(
         "apply": [
             ex(f"Escribe los 3 elementos siguientes: {pat('▲●', 4)}.", next_items('▲●', 4, 3), "La unidad es ▲ ●."),
             ex("Crea un patrón con rojo (R), azul (A): unidad R A A. Escribe 9 elementos.", "R A A R A A R A A", "La unidad se repite tres veces."),
-            ex(f"En {pat('■●▲', 9)}, ¿qué figura está en el lugar 9?", "▲", "El tercer elemento de la unidad es ▲ y el 9 es múltiplo de 3."),
+            ex(f"En {pat('■●▲', 9)}, ¿qué figura está en el lugar 9?", "▲", "La unidad ■ ● ▲ se repite tres veces y el lugar 9 es el último de la tercera: ▲."),
         ],
         "reason": [
             ex("Mateo dice que ▲ ● ● ▲ ● ▲ es un patrón. ¿Tiene razón?", "No", "No se repite la misma unidad."),
@@ -536,7 +536,7 @@ register(
     },
     context=[ex("Una guirnalda tiene: banderita roja, azul, azul, roja, azul, azul. ¿De qué color es la banderita 9?", "Azul", "La unidad es roja, azul, azul y el 9 es el tercer lugar de una unidad.")],
     selfcheck=[ex(f"Continúa: {pat('▲●', 4, 2)}.", next_items('▲●', 2, 2), "La unidad es ▲ ●."), ex("¿Qué figura sigue en ■ ● ■ ● ■?", "●", "La unidad es ■ ●."), ex("¿Qué define a un patrón?", "Una regla que se repite", "La unidad se repite igual.")],
-    open_task=task("Crea un patrón de figuras con tres figuras (▲, ● y ■) y una unidad de tres elementos. Dibuja 12 elementos, marca la unidad, y di qué figura estará en el lugar 15 sin dibujarla.", "▲ ● ■ ▲ ● ■ ▲ ● ■ ▲ ● ■. Unidad ▲ ● ■. El lugar 15 es múltiplo de 3, así que es la tercera de la unidad: ■.", ["unidad de tres elementos", "12 elementos correctos", "predice el lugar 15"], ["dibujo", "unidad marcada", "predicción"], ["cambiar la unidad a mitad", "no justificar la predicción"], "Pide completar hasta 15 para comprobar."),
+    open_task=task("Crea un patrón de figuras con tres figuras (▲, ● y ■) y una unidad de tres elementos. Dibuja 12 elementos, marca la unidad, y di qué figura estará en el lugar 15 sin dibujarla.", "▲ ● ■ ▲ ● ■ ▲ ● ■ ▲ ● ■. Unidad ▲ ● ■. Cinco unidades de 3 llegan justo al lugar 15, así que ahí está el último elemento de la unidad: ■.", ["unidad de tres elementos", "12 elementos correctos", "predice el lugar 15"], ["dibujo", "unidad marcada", "predicción"], ["cambiar la unidad a mitad", "no justificar la predicción"], "Pide completar hasta 15 para comprobar."),
     reinforce="Haz un patrón con tres colores de lápiz y continúalo dos veces.",
     extend="Descubre qué figura hay en el lugar 20 de un patrón con unidad de cuatro figuras.",
 )
@@ -569,7 +569,7 @@ register(
         ],
         "apply": [fill(3, 3, 6, (3, 4, 5), "Se suma 3."), fill(4, 4, 5, (2, 4), "Se suma 4."), ex("Escribe 6 números empezando en 2 con la regla «suma 3».", "2, 5, 8, 11, 14, 17", "Se suma 3 cada vez.")],
         "reason": [
-            ex("Pía dice que 2, 4, 7, 8 es un patrón de sumar 2. ¿Qué error ve?", "Hay 3 entre 4 y 7; debería ser 6", "La diferencia debe ser siempre 2."),
+            ex("Pía dice que 2, 4, 7, 8 es un patrón de sumar 2. ¿Qué error ve?", "De 4 a 7 se suma 3; debería ser 6", "La diferencia debe ser siempre 2."),
             ex("¿Pueden dos patrones distintos empezar en 2?", "Sí; por ejemplo suma 2 y suma 3", "La regla los distingue."),
         ],
         "challenge": [
@@ -588,7 +588,7 @@ register(
     OA11, 4,
     materials="Listas numéricas y la recta numérica; los números están escritos en cada ejercicio.",
     use="Aprenderé a reconocer y continuar patrones numéricos que decrecen hasta 20. Sirve para contar hacia atrás con una regla.",
-    prior=["Sé patrones crecientes.", "Sé restar números pequeños."],
+    prior=["Conozco los patrones crecientes.", "Sé restar números pequeños."],
     explain=[
         "Un patrón decreciente es una lista de números que baja con una regla. En 20, 18, 16, 14, la regla es «restar 2». Cada número es 2 menos que el anterior. Para continuar, aplica la regla al último.",
         "Para descubrir la regla, resta el número siguiente al anterior: 20 − 18 = 2, 18 − 16 = 2. Si la diferencia siempre es la misma, ésa es la regla. El patrón 15, 10, 5 resta 5 y se acerca a 0.",
@@ -613,7 +613,7 @@ register(
         "apply": [fill(18, -3, 6, (3, 4, 5), "Se resta 3."), ex("Escribe 5 números empezando en 20 con la regla «resta 4».", "20, 16, 12, 8, 4", "Se resta 4 cada vez."), fill(19, -2, 5, (2, 3), "Se resta 2.")],
         "reason": [
             ex("Rocío dice que 10, 8, 5, 4 baja de 2 en 2. ¿Qué error ve?", "De 8 a 5 baja 3", "Debería ser 6."),
-            ex("¿Se puede seguir restando 5 desde 4?", "No", "4 − 5 es menos que 0."),
+            ex("¿Se puede seguir restando 5 desde 4?", "No", "Desde 4 no se pueden quitar 5: no alcanzan."),
         ],
         "challenge": [
             ex("Un patrón resta 3 y empieza en 20. ¿Qué número ocupa el lugar 5?", "8", "20, 17, 14, 11, 8."),
@@ -622,7 +622,7 @@ register(
     },
     context=[ex("Una vela mide 20 cm y se gasta 2 cm cada hora. ¿Cuánto mide después de 4 horas?", "12 cm", "20, 18, 16, 14, 12.")],
     selfcheck=[fill(16, -2, 5, (2, 4), "Se resta 2."), ex("En 15, 12, 9, ¿qué sigue?", "6", "La regla es restar 3."), ex("¿Qué número no se puede pasar al restar?", "0", "Es el menor al contar.")],
-    open_task=task("Crea un patrón decreciente que empiece en 20 y use la regla «resta 3». Escribe todos los números hasta que no puedas seguir, cuenta cuántos escribiste y explica por qué te detuviste.", "20, 17, 14, 11, 8, 5, 2. Escribí 7 números. Me detuve porque 2 − 3 es menor que 0.", ["aplica la regla", "cuenta los números", "explica por qué se detuvo"], ["lista", "conteo", "explicación"], ["pasar de cero", "cambiar la regla"], "Pide recorrer la recta hacia atrás."),
+    open_task=task("Crea un patrón decreciente que empiece en 20 y use la regla «resta 3». Escribe todos los números hasta que no puedas seguir, cuenta cuántos escribiste y explica por qué te detuviste.", "20, 17, 14, 11, 8, 5, 2. Escribí 7 números. Me detuve porque desde 2 no se pueden quitar 3.", ["aplica la regla", "cuenta los números", "explica por qué se detuvo"], ["lista", "conteo", "explicación"], ["pasar de cero", "cambiar la regla"], "Pide recorrer la recta hacia atrás."),
     reinforce="Cuenta hacia atrás de 2 en 2 y de 5 en 5 desde 20.",
     extend="Compara un patrón creciente y uno decreciente que usen la misma regla.",
 )
@@ -655,11 +655,11 @@ register(
         ],
         "apply": [
             ex("Crea un patrón de figuras con unidad ■ ● ● y 9 elementos.", "■ ● ● ■ ● ● ■ ● ●", "La unidad se repite tres veces."),
-            ex("Crea un patrón numérico con la regla «suma 5» desde 5 hasta 25.", "5, 10, 15, 20, 25", "Se suma 5 cada vez."),
+            ex("Crea un patrón numérico con la regla «suma 5» desde 5 hasta 20.", "5, 10, 15, 20", "Se suma 5 cada vez."),
             ex("Convierte en desafío el patrón 20, 17, 14, 11, 8 borrando dos números.", "Por ejemplo 20, __, 14, 11, __", "Los faltantes son 17 y 8."),
         ],
         "reason": [
-            ex("Un desafío dice 2, __, __, __, 10. ¿Se puede descubrir la regla?", "No; hay demasiados espacios", "Puede ser suma 2 o suma 4 o suma otro."),
+            ex("Un desafío muestra sólo el 2 y deja el resto en blanco: 2, __, __, __. ¿Se puede descubrir la regla?", "No; faltan pistas", "Podría ser sumar 2, sumar 3 u otra regla."),
             ex("¿Por qué conviene revisar un patrón antes de entregarlo?", "Para que no tenga errores", "Un error confunde."),
         ],
         "challenge": [
@@ -669,7 +669,7 @@ register(
     },
     context=[ex("Dani quiere un collar con cuentas: roja, azul, azul, roja, azul, azul, ... Si tiene 12 cuentas, ¿cuántas son rojas?", "4", "La unidad roja, azul, azul tiene 1 roja y hay 4 unidades.")],
     selfcheck=[ex("Completa: ■ ● ■ __ ■ ●.", "●", "La unidad es ■ ●."), ex("¿Qué es un desafío de patrón?", "Un patrón con espacios para completar", "Otra persona debe descubrir la regla."), ex("Completa: 7, 9, 11, __.", "13", "Se suma 2.")],
-    open_task=task("Crea un patrón (de figuras o de números) con al menos 8 elementos. Dibújalo completo, luego escríbelo borrando 2 elementos como desafío, y escribe la regla y las respuestas.", "Patrón: 1, 4, 7, 10, 13, 16, 19, 22 (suma 3). Desafío: 1, 4, __, 10, 13, __, 19, 22. Respuestas: 7 y 16.", ["patrón completo con regla clara", "desafío con dos espacios", "respuestas correctas"], ["patrón", "desafío", "respuestas"], ["regla que no se cumple", "borrar demasiados elementos"], "Pide que otra persona lo resuelva y comente."),
+    open_task=task("Crea un patrón (de figuras o de números) con al menos 8 elementos. Dibújalo completo, luego escríbelo borrando 2 elementos como desafío, y escribe la regla y las respuestas.", "Patrón: 1, 3, 5, 7, 9, 11, 13, 15 (suma 2). Desafío: 1, 3, __, 7, 9, __, 13, 15. Respuestas: 5 y 11.", ["patrón completo con regla clara", "desafío con dos espacios", "respuestas correctas"], ["patrón", "desafío", "respuestas"], ["regla que no se cumple", "borrar demasiados elementos"], "Pide que otra persona lo resuelva y comente."),
     reinforce="Crea un patrón con tapas de dos colores y pide que un compañero lo continúe.",
     extend="Crea un patrón que use dos reglas a la vez (una de figura y una de números) y explícalo.",
 )

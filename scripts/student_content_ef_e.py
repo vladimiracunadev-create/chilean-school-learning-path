@@ -23,14 +23,14 @@ register(
     explain=[
         "Calentar es preparar el cuerpo para moverse. Cuando calientas, tus músculos y articulaciones se mueven mejor y tu atención se enciende. Las articulaciones son las partes donde se doblan los huesos: cuello, hombros, codos, muñecas, caderas, rodillas y tobillos.",
         "En el juego «El espejo» un guía hace un movimiento lento y los demás lo copian: girar los hombros 5 veces, girar las muñecas 5 veces, doblar las rodillas 5 veces y girar los tobillos 5 veces. Luego se camina 20 segundos y se trota suave 20 segundos. Todo es suave, sin tirones.",
-        "Un buen calentamiento dura al menos 3 minutos y sube el esfuerzo poco a poco. Se hace dentro de los límites, a dos brazos de distancia. Si algo duele, se detiene y se avisa. Calentar jugando es divertido y también es una regla de seguridad.",
+        "Un buen calentamiento dura unos 3 minutos (puedes repetir «El espejo» y caminar y trotar suave un rato más) y sube el esfuerzo poco a poco. Se hace dentro de los límites, a dos brazos de distancia. Si algo duele, se detiene y se avisa. Calentar jugando es divertido y también es una regla de seguridad.",
     ],
     vocab=[("calentar", "preparar el cuerpo antes de moverse fuerte"), ("articulación", "parte donde se doblan los huesos"), ("atención", "estar pendiente de lo que hago"), ("guía", "quien muestra el movimiento"), ("tirón", "movimiento brusco que puede lastimar")],
     worked=[
         W("Contar movimientos", "En «El espejo» haces 4 movimientos de 5 repeticiones cada uno. ¿Cuántas repeticiones haces?", ["Hay 4 movimientos.", "Cada uno se repite 5 veces: 4 × 5.", "4 × 5 = 20."], "20 repeticiones."),
         W("Seguir al guía", "El guía gira los hombros hacia atrás despacio. ¿Cómo lo copias?", ["Miro al guía.", "Giro los hombros hacia atrás, despacio.", "Cuento hasta 5 sin tirones."], "Giro los hombros hacia atrás, despacio, 5 veces."),
     ],
-    mistakes=[M("Saltar a jugar sin calentar.", "Se quiere empezar rápido.", "Dedica al menos 3 minutos a calentar."),
+    mistakes=[M("Saltar a jugar sin calentar.", "Se quiere empezar rápido.", "Dedica unos 3 minutos a calentar."),
               M("Hacer movimientos bruscos.", "Se piensa que más fuerte calienta más.", "Los movimientos son suaves y controlados.")],
     tiers={
         "recovery": [
@@ -60,10 +60,10 @@ register(
     context=[ex("Llegas al parque con tus primos y quieren jugar de inmediato a pillarse. ¿Qué propones: A) empezar a correr al máximo, B) un calentamiento de 3 minutos como «El espejo», C) sentarse?", "B", "Calentar primero previene lesiones.")],
     selfcheck=[
         ex("¿Qué es una articulación?", "Parte donde se doblan los huesos", "Como la rodilla o el codo."),
-        ex("¿Cuánto dura al menos un buen calentamiento?", "3 minutos", "Da tiempo de preparar el cuerpo."),
+        ex("¿Cuánto dura, más o menos, un buen calentamiento?", "3 minutos", "Da tiempo de preparar el cuerpo."),
         ex("Si duele algo, ¿sigues o avisas?", "Avisas", "El dolor es una alerta."),
     ],
-    open_task=task("Con un adulto como guía, haz «El espejo»: 5 giros de hombros, 5 de muñecas, 5 flexiones suaves de rodillas y 5 giros de tobillos. Luego camina 20 segundos y trota suave 20 segundos. Cuenta cuántas repeticiones hiciste y marca si cada movimiento fue suave (sí/no).",
+    open_task=task("Con un adulto como guía, haz «El espejo»: 5 giros de hombros, 5 de muñecas, 5 flexiones suaves de rodillas y 5 giros de tobillos. Luego camina 20 segundos y trota suave 20 segundos (si quieres llegar a 3 minutos, repite el juego). Cuenta cuántas repeticiones hiciste y marca si cada movimiento fue suave (sí/no).",
                    "Hice 20 repeticiones y caminé y troté 40 segundos. Los 4 movimientos fueron suaves, sin tirones. No sentí dolor.",
                    ["copia los movimientos del guía", "hace movimientos suaves", "avisa si siente dolor"],
                    ["lista con 4 movimientos", "observación de un adulto", "relato oral"],
@@ -85,7 +85,7 @@ register(
     ],
     vocab=[("instrucción", "lo que me dicen que haga"), ("comprobar", "revisar que entendí"), ("señal de partida", "sonido o gesto que dice cuándo empezar"), ("repetir", "decir otra vez con mis palabras"), ("regla", "lo que se puede y no se puede hacer")],
     worked=[
-        W("Comprobar una instrucción", "La instrucción es: «con una palmada trota al cono rojo; con dos palmadas camina al cono azul». ¿Cómo la comprobas?", ["Repito: «una palmada trota al rojo, dos palmadas camino al azul».", "Lo muestro con un paso para cada una.", "Espero la señal para partir."], "Repito, muestro y espero la señal."),
+        W("Comprobar una instrucción", "La instrucción es: «con una palmada trota al cono rojo; con dos palmadas camina al cono azul». ¿Cómo la compruebas?", ["Repito: «una palmada trota al rojo, dos palmadas camino al azul».", "Lo muestro con un paso para cada una.", "Espero la señal para partir."], "Repito, muestro y espero la señal."),
         W("Contar palmadas", "Se dan 3 palmadas en la primera ronda y 2 en la segunda. ¿Cuántas palmadas hay en total?", ["Primera ronda: 3.", "Segunda ronda: 2.", "3 + 2 = 5."], "5 palmadas."),
     ],
     mistakes=[M("Partir antes de la señal.", "Se quiere llegar primero.", "Espera la señal con el cuerpo quieto."),
@@ -94,7 +94,7 @@ register(
         "recovery": [
             ex("Para escuchar, ¿miras a quien habla o miras para otro lado?", "Miras a quien habla", "Así entiendes mejor."),
             ex("Si no entiendes, ¿partes igual o preguntas?", "Preguntas", "Es más seguro."),
-            ex("Una palmada es una señal de ¿partida o descanso en este juego?", "Partida", "Indica cuándo empezar."),
+            ex("En la regla «con una palmada trota al cono rojo», ¿la palmada es la señal de partida o de descanso?", "Partida", "Indica cuándo empezar a trotar."),
         ],
         "understand": [
             ex("¿Cuáles son los tres pasos para comprobar una instrucción?", "Repetir, mostrar y esperar la señal", "Así se confirma que se entendió."),
@@ -128,7 +128,7 @@ register(
                    ["partir antes", "no repetir la regla", "confundir señales"],
                    "Reconoce que comprobó la regla y pide una estrategia para no confundir los conos."),
     reinforce="Repite la regla de las 3 palmadas con tus palabras y hazla una vez.",
-    extend="Inventa una regla con 4 señales distintas y pide a alguien que la comprobará con los tres pasos.",
+    extend="Inventa una regla con 4 señales distintas y pide a alguien que la compruebe con los tres pasos.",
 )
 
 register(
@@ -196,13 +196,13 @@ register(
     prior=["Sé qué es un límite.", "Sé medir una distancia con los brazos."],
     explain=[
         "Un límite es una marca que dice hasta dónde se puede ir. Puede ser una línea, un cono, una cuerda o un muro. Dentro de los límites juegas; fuera de ellos no. Así el juego queda controlado y protegido. Ningún juego se hace fuera del cuadrado.",
-        "La distancia segura es el espacio libre entre tú y los demás. Se mide con los brazos: si estiras los dos brazos a los lados y no tocas a nadie, la distancia es suficiente. Equivale a unos 2 m entre personas cuando se juega con movimiento fuerte.",
+        "La distancia segura es el espacio libre entre tú y los demás. Se mide con los brazos: si estiras los dos brazos a los lados y no tocas a nadie, la distancia es suficiente. Si los brazos de dos personas se tocan, están demasiado cerca.",
         "Si alguien se acerca demasiado, te alejas con calma y avisas con amabilidad. Si sales del límite sin querer, vuelves caminando y avisas. En el juego «Burbujas», caminan por el cuadrado manteniendo su burbuja libre. Si una burbuja choca con otra, se detienen y ajustan.",
     ],
     vocab=[("límite", "marca que dice hasta dónde se puede ir"), ("distancia segura", "espacio libre de dos brazos entre personas"), ("burbuja", "espacio personal alrededor de mí"), ("ajustar", "cambiar un poco para que quede bien"), ("zona segura", "lugar permitido y sin riesgos")],
     worked=[
         W("Mantenerse dentro del cuadrado", "Tu cuadrado es de 4 × 4 m. Una pelota rueda fuera. ¿Qué haces?", ["No salgo corriendo detrás de la pelota.", "Aviso al adulto.", "El adulto indica cuándo es seguro salir a buscarla."], "Aviso y espero la autorización del adulto."),
-        W("Calcular el perímetro", "Los 4 lados del cuadrado miden 4 m cada uno. ¿Cuántos metros mide la vuelta completa?", ["Hay 4 lados.", "Cada lado mide 4 m: 4 × 4.", "4 × 4 = 16."], "16 metros."),
+        W("Medir el borde del cuadrado", "Los 4 lados del cuadrado miden 4 m cada uno. ¿Cuántos metros mide la vuelta completa?", ["Hay 4 lados.", "Cada lado mide 4 m: 4 × 4.", "4 × 4 = 16."], "16 metros."),
     ],
     mistakes=[M("Salir del límite para recoger la pelota.", "Se quiere seguir jugando.", "Avisa y espera al adulto."),
               M("Jugar pegado a otros.", "No se piensa en el espacio.", "Mantén los dos brazos de distancia.")],
@@ -220,7 +220,7 @@ register(
         "apply": [
             arith("Un cuadrado tiene 4 lados de 4 m. ¿Cuántos metros mide su borde?", "4*4", "Se multiplican lados por metros.", " m"),
             ex("Hay 6 niños y el cuadrado es pequeño. Para tener distancia segura, ¿cuántos juegan a la vez: 2 o 6?", "2", "Con 6 no hay espacio."),
-            arith("Dos niños se separan 2 m y luego otros 2 m. ¿Cuántos metros hay entre el primero y el tercero?", "2+2", "Se suman las distancias.", " m"),
+            arith("Dos niños se separan 2 pasos y luego otros 2 pasos. ¿Cuántos pasos hay entre el primero y el tercero?", "2+2", "Se suman las distancias.", " pasos"),
         ],
         "reason": [
             ex("Ema dice «el límite es solo una sugerencia». ¿Qué le dices?", "Que el límite protege y se respeta", "Respetar el límite evita accidentes."),
@@ -238,7 +238,7 @@ register(
         ex("¿Cuántos metros mide el borde de un cuadrado de 4 m de lado?", "16", "4 por 4 son 16."),
     ],
     open_task=task("Con cuatro conos y una cuerda arma un cuadrado de 4 × 4 m. Juega «Burbujas» con un adulto: caminan 40 segundos manteniendo dos brazos de distancia y sin salirse. Haz 3 rondas. Anota cuántas veces tu burbuja chocó con otra y cuántas veces saliste del límite.",
-                   "En las 3 rondas mi burbuja chocó 1 vez y me alejé con calma. No salí del límite. Camine 16 m por vuelta del borde.",
+                   "En las 3 rondas mi burbuja chocó 1 vez y me alejé con calma. No salí del límite.",
                    ["se mantiene dentro del límite", "guarda dos brazos de distancia", "ajusta con calma"],
                    ["registro de choques y salidas", "observación de un adulto", "dibujo del cuadrado"],
                    ["salir sin avisar", "acercarse demasiado", "correr hacia el borde"],
@@ -255,7 +255,7 @@ register(
     explain=[
         "Una condición insegura es algo que puede causar un accidente: piso mojado, un cordón desamarrado, un niño que empuja, un objeto en el suelo, un compañero que se cae. Si la ves, sigues tres pasos: detener, avisar y reanudar.",
         "Detener: dices «alto» fuerte y todos paran. Avisar: te acercas caminando a un adulto y explicas con calma qué viste, dónde y quién necesita ayuda. Reanudar: solo cuando el adulto dice que es seguro, y después de arreglar el problema, vuelven a jugar.",
-        "Si alguien se lastima, no lo muevas ni lo toques si hay sangre: llama al adulto. Tampoco juegas mientras tanto. El botiquín lo maneja solo un adulto. Avisar a tiempo es valiente y cuida a todos.",
+        "Si alguien se lastima, no lo muevas, no toques la sangre y llama al adulto de inmediato. Tampoco juegas mientras tanto. El botiquín lo maneja solo un adulto. Avisar a tiempo es valiente y cuida a todos.",
     ],
     vocab=[("condición insegura", "algo que puede causar un accidente"), ("detener", "parar el juego"), ("avisar", "decirle a un adulto lo que pasa"), ("reanudar", "volver a jugar"), ("botiquín", "caja con elementos de primeros auxilios que maneja un adulto")],
     worked=[
@@ -285,11 +285,11 @@ register(
             ex("Un compañero se cae y llora. Ema sigue jugando. ¿Qué debió hacer?", "Detenerse y avisar a un adulto", "Alguien necesita ayuda."),
         ],
         "challenge": [
-            ex("Tarjetas: piso mojado, cordón, niño que empuja, objeto en el suelo, compañero se cae. Si el último requiere avisar de inmediato, ¿cuántas tarjetas son en total?", "5", "Se cuentan las cinco."),
+            ex("Tarjetas: piso mojado, cordón, niño que empuja, objeto en el suelo, compañero se cae. ¿Cuántas tarjetas hay en total?", "5", "Se cuentan las cinco."),
             arith("Un juego se detuvo 20 segundos para arreglar un charco y luego se retomó 40 segundos. ¿Cuántos segundos duró la secuencia?", "20+40", "Se suman.", " segundos"),
         ],
     },
-    context=[ex("En el recreo un niño se cae y se golpea la rodilla; sangra un poco. ¿Qué haces: A) lo levantas rápido, B) detienes el juego y corres con calma a avisar a un adulto, C) sigues jugando?", "B", "Avisa y deja que un adulto atienda.")],
+    context=[ex("En el recreo un niño se cae y se golpea la rodilla; sangra un poco. ¿Qué haces: A) lo levantas rápido, B) detienes el juego y caminas rápido a avisar a un adulto, C) sigues jugando?", "B", "Avisa y deja que un adulto atienda.")],
     selfcheck=[
         ex("¿Qué dices para detener el juego?", "Alto", "Es la señal."),
         ex("¿A quién avisas?", "A un adulto", "Él sabe qué hacer."),

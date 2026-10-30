@@ -13,7 +13,7 @@ L(
     use="Aprenderé a reconocer un valor como el respeto, compartir o cuidar mirando lo que alguien hace, no solo lo que dice.",
     prior=["Sé qué es compartir.", "Sé qué es una acción."],
     explain=[
-        "Un valor es una idea que consideramos importante para vivir bien con los demás. Respeto, compartir, cuidar, escuchar y agradecer son valores. Muchas familias y comunidades los enseñan, cada una a su manera.",
+        "Un valor es una idea que consideramos importante para vivir bien con los demás. Respeto, compartir, cuidar, escuchar, agradecer y la honestidad (decir la verdad) son valores. Muchas familias y comunidades los enseñan, cada una a su manera.",
         "Para saber si alguien vive un valor, miramos lo que hace. Una persona puede decir «yo comparto» y no compartir nunca. Otra puede no decir nada y compartir su colación todos los días. La conducta, es decir lo que hacemos, muestra el valor.",
         "Para reconocer un valor en una acción nos preguntamos: ¿qué hizo?, ¿a quién ayudó o cuidó? y ¿qué valor muestra? No es necesario contar cosas privadas de nuestra familia. Podemos practicar con casos inventados.",
     ],
@@ -65,7 +65,7 @@ L(
     use="Aprenderé que las familias y comunidades pueden enseñar valores de maneras distintas y que no existe una única práctica correcta.",
     prior=["Sé que cada familia es distinta.", "Sé qué son los valores."],
     explain=[
-        "Las familias son distintas: unas son grandes y otras pequeñas; unas viven en el campo y otras en la ciudad; unas celebran ciertas fiestas y otras otras. Todas pueden enseñar valores como respeto, compartir y cuidar, aunque lo hagan de maneras diferentes.",
+        "Las familias son distintas: unas son grandes y otras pequeñas; unas viven en el campo y otras en la ciudad; unas celebran ciertas fiestas y otras celebran fiestas distintas. Todas pueden enseñar valores como respeto, compartir y cuidar, aunque lo hagan de maneras diferentes.",
         "En una comunidad de un pueblo originario también hay diversidad. Una familia puede enseñar respeto saludando a los mayores; otra, ayudando en el trabajo; otra, escuchando las historias. No podemos decir que todas las familias de un pueblo hacen lo mismo.",
         "Por eso evitamos suponer. Si no sabemos cómo es una familia, preguntamos con respeto o no opinamos. No comparamos para decir quién lo hace mejor. Valoramos que cada familia cuida a los suyos a su manera.",
     ],
@@ -254,7 +254,7 @@ L(
         ex("Rosa cumplió 4 de 7 días. ¿Qué puede hacer para mejorar?", "Buscar un recordatorio y volver a intentarlo", "Es parte de aprender."),
     ],
     D=[
-        ex("Una niña cumple su compromiso 6 días de 7. ¿Cuántos días cumplió de más que 4?", "2", "6 − 4 = 2."),
+        ex("Una niña cumple su compromiso 6 días de 7. ¿Cuántos días más que 4 cumplió?", "2", "6 − 4 = 2."),
         ex("Un compromiso pide traer una planta cara. ¿Es adecuado para todos? Sí o No.", "No", "No todos pueden hacerlo."),
     ],
     context=[ex("Caso inventado: Ana se comprometió a escuchar sin interrumpir durante el recreo. Marcó 3 días en la tabla. ¿Cuántas casillas están sin marcar?", "4", "7 − 3 = 4.")],
@@ -310,7 +310,7 @@ L(
         ex("Una niña dice que en la ficha kawésqar hay cultivo de papas. ¿Es cierto? Sí o No.", "No", "La ficha habla de canoas y canales."),
         ex("En una feria hay 3 cestos de papas y 2 de otros alimentos. ¿Cuántos cestos hay?", "5", "3 + 2 = 5."),
     ],
-    context=[ex("En tu ficha hay tres actividades: criar, hacer cerámica y navegar. Si cada una tiene dos preguntas pendientes, ¿cuántas preguntas hay en total?", "6", "3 × 2 = 6 preguntas.")],
+    context=[ex("En tu ficha hay tres actividades: criar, hacer cerámica y navegar. Si cada una tiene dos preguntas pendientes, ¿cuántas preguntas hay en total?", "6", "Se suma 2 + 2 + 2 = 6 preguntas.")],
     selfcheck=[ex("¿Qué es cultivar?", "Sembrar y cuidar plantas", "Es producir alimentos."), ex("¿Qué haces si falta un dato?", "Lo anoto como pregunta", "No se inventa."), ex("¿Qué pueblo hace cerámica según la ficha?", "El pueblo diaguita", "La ficha lo dice.")],
     task=T("Elige una de las tres fichas (aymara, diaguita o kawésqar) y dibuja el lugar y la actividad. Escribe «Qué se hace», «Dónde» y «Cuándo (pregunta pendiente)». Escribe una pregunta para el educador tradicional sobre cuándo se realiza.",
            "Elegí diaguita. Qué: cerámica. Dónde: valles del Norte Chico. Cuándo: pregunta pendiente. Pregunta: ¿en qué época se hace la cerámica?",
@@ -359,7 +359,7 @@ L(
         ex("¿Por qué preguntamos de dónde viene un insumo?", "Para saber cómo cuidarlo", "Conocer la procedencia ayuda a cuidar."),
     ],
     D=[
-        ex("Una familia usa 3 ovillos por manta. ¿Cuántos ovillos necesita para 4 mantas?", "12", "3 × 4 = 12."),
+        ex("Una familia usa 3 ovillos por manta. ¿Cuántos ovillos necesita para 2 mantas?", "6", "Se suma 3 + 3 = 6."),
         ex("Una niña dice que cada comunidad prepara la lana igual. ¿Es seguro? Sí o No.", "No", "Hay formas propias."),
     ],
     context=[ex("En una familia, la abuela hila un ovillo por día durante 5 días. ¿Cuántos ovillos hay?", "5", "5 días × 1 ovillo = 5.")],
@@ -411,7 +411,7 @@ L(
         ex("¿Por qué no inventamos técnicas de una comunidad?", "Porque las conoce quien las practica", "Cada comunidad tiene su saber."),
     ],
     D=[
-        ex("Una artesana teje 2 mantas al mes. ¿Cuántas mantas teje en 6 meses?", "12", "2 × 6 = 12."),
+        ex("Una artesana teje 2 mantas al mes. ¿Cuántas mantas teje en 3 meses?", "6", "Se suma 2 + 2 + 2 = 6."),
         ex("Un libro describe un proceso distinto al que cuenta una artesana. ¿Qué haces?", "Pregunto y anoto las dos fuentes", "Puede haber diferencias."),
     ],
     context=[ex("Una familia hila 3 ovillos el lunes y 2 el martes. ¿Cuántos ovillos hay?", "5", "3 + 2 = 5.")],
@@ -454,7 +454,7 @@ L(
         ex("¿Qué puede ser una feria?", "Un lugar para intercambiar o vender", "Reúne a las personas."),
     ],
     A=[
-        ex("Caso inventado: Beto cambia 2 quesos por 4 ovillos de lana. ¿Cuántos ovillos recibe por cada queso?", "2", "4 ÷ 2 = 2 ovillos por queso."),
+        ex("Caso inventado: Beto cambia 1 queso por 2 ovillos de lana. ¿Cuántos ovillos recibe por 2 quesos?", "4", "Se suma 2 + 2 = 4 ovillos."),
         ex("Une producto y uso. 1) lana 2) papas 3) cerámica. a) abrigar b) alimentar c) guardar o servir alimentos", "1-a, 2-b, 3-c", "Cada producto tiene un uso."),
         ex("Ordena un trueque: 1) acordar 2) intercambiar 3) agradecer.", "1, 2, 3", "Se acuerda, se cambia y se agradece."),
     ],
@@ -463,7 +463,7 @@ L(
         ex("¿Por qué el intercambio ayuda a las comunidades?", "Porque cada una consigue lo que no produce", "Todas reciben algo útil."),
     ],
     D=[
-        ex("Una familia cambia 6 kilos de papas por 3 ovillos. ¿Cuántos kilos da por ovillo?", "2", "6 ÷ 3 = 2."),
+        ex("Caso inventado: una familia cambia 2 kilos de papas por 1 ovillo. ¿Cuántos kilos da por 3 ovillos?", "6", "Se suma 2 + 2 + 2 = 6 kilos."),
         ex("Un libro dice que el trueque se hacía igual en todos los pueblos. ¿Qué cuidado tienes?", "Revisar la fuente y evitar generalizar", "Cada pueblo tiene sus formas."),
     ],
     context=[ex("En una feria inventada hay 5 puestos de lana, 3 de papas y 2 de cerámica. ¿Cuántos puestos hay?", "10", "5 + 3 + 2 = 10.")],

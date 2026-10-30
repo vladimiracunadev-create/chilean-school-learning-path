@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 from student_content_ma01_b import task
-from student_lessons import ex, register
+from student_lessons import arith, ex, register
 
 OA6, OA7, OA8 = "OR01 OA 06", "OR01 OA 07", "OR01 OA 08"
 
@@ -47,7 +47,7 @@ register(
             ex("Carla dice: «Lo hiciste para fastidiarme». ¿Es un hecho?", "No", "No sabemos lo que el otro pensó."),
         ],
         "challenge": [
-            ex("Une las tres partes de la frase de Eva: «Rompiste mi dibujo / me puse triste / quiero que me ayudes a hacer otro». ¿Cuál es la necesidad?", "«Quiero que me ayudes a hacer otro»", "Es lo que pide."),
+            ex("Eva dice: «Rompiste mi dibujo; me puse triste; quiero que me ayudes a hacer otro». ¿Cuál es la necesidad?", "«Quiero que me ayudes a hacer otro»", "Es lo que pide."),
             ex("Sofía cuenta: «Beto nunca me deja jugar». Eso incluye «nunca». ¿Es un hecho exacto?", "No", "«Nunca» no es lo que pasó hoy."),
         ],
     },
@@ -98,13 +98,13 @@ register(
             ex("Pedro reformuló y Mía dijo «no, no fue eso». ¿Qué hace Pedro?", "Escucha de nuevo y corrige", "Mía le ayuda a entender mejor."),
         ],
         "challenge": [
-            ex("Sofía tiene 3 minutos para escuchar a Ana y luego 3 minutos para contar su versión. ¿Cuántos minutos son en total?", "6", "3 más 3 son 6."),
+            arith("Sofía tiene 3 minutos para escuchar a Ana y luego 3 minutos para contar su versión. ¿Cuántos minutos son en total?", "3+3", "Se suman los dos tiempos."),
             ex("Dos niños cuentan versiones distintas. ¿Qué es lo más justo: creerle solo a uno o escuchar a los dos?", "Escuchar a los dos", "Así hay información completa."),
         ],
     },
     context=[ex("Beto dice: «Dani me pegó con la pelota». Dani dice: «Fue sin querer; estaba jugando». ¿Qué debe hacer la profesora?", "Escuchar a los dos", "Hay dos versiones.")],
     selfcheck=[ex("¿Debo escuchar antes de responder?", "Sí", "Para entender al otro."), ex("¿Qué frase uso para reformular?", "«Entiendo que…»", "Es una forma de repetir con mis palabras."), ex("¿Puedo estar en desacuerdo y reformular?", "Sí", "Reformular no es aprobar.")],
-    open_task=task("Practica con un adulto: lee este conflicto. Mía dice: «Tomás se llevó mi pelota y no me la devolvió». Tomás dice: «Mía me la prestó y no me avisó que la quería». Escribe o di una frase que reformule la versión de Mía y otra que reformule la versión de Tomás.", "«Entiendo que tú, Mía, querías tu pelota de vuelta». «Entiendo que tú, Tomás, creías que ya era tuya para jugar».", ["reformula las dos versiones", "usa sus propias palabras", "no toma partido"], ["dos frases", "dibujo con globos"], ["repetir palabra por palabra", "dar la razón a uno"], "Reconoce lo bien reformulado y sugiere cambiar palabras que juzguen."),
+    open_task=task("Practica con un adulto: lee este conflicto. Mía dice: «Tomás se llevó mi pelota y no me la devolvió». Tomás dice: «Mía me la prestó y no me avisó que la quería». Escribe o di una frase que reformule la versión de Mía y otra que reformule la versión de Tomás.", "«Entiendo que tú, Mía, querías tu pelota de vuelta». «Entiendo que tú, Tomás, jugaste con la pelota porque Mía te la prestó».", ["reformula las dos versiones", "usa sus propias palabras", "no toma partido"], ["dos frases", "dibujo con globos"], ["repetir palabra por palabra", "dar la razón a uno"], "Reconoce lo bien reformulado y sugiere cambiar palabras que juzguen."),
     reinforce="Pregunta a alguien en casa su versión de algo que pasó y reformúlala.",
     extend="Escribe una frase para pedir una pausa cuando estén muy enojados.",
 )
@@ -117,12 +117,12 @@ register(
     explain=[
         "Un conflicto casi siempre tiene más de una solución. Si dos niños quieren el mismo juego, pueden turnarse, jugar juntos, sortear quién empieza o elegir otro juego. Pensar varias ideas ayuda a encontrar una buena.",
         "Una buena solución cuida a las dos personas. No lastima a nadie, es justa y se puede cumplir. Una solución que solo le sirve a uno, como «yo me quedo con todo», no es justa. También puedes pedir ayuda a un adulto si no logran acordar.",
-        "Para elegir, mira cada idea y piensa: ¿es justa?, ¿es segura?, ¿se puede hacer ahora? Si responde sí a todo, es una buena opción. Puedes probarla y, si no funciona, elegir otra.",
+        "Para elegir, mira cada idea y piensa: ¿es justa?, ¿es segura?, ¿se puede hacer ahora? Si la respuesta es sí a todo, es una buena opción. Puedes probarla y, si no funciona, elegir otra.",
     ],
     vocab=[("solución", "una forma de resolver un problema"), ("alternativa", "otra opción"), ("justo", "bueno para todos"), ("sortear", "elegir al azar, por ejemplo con una moneda"), ("acordar", "ponerse de acuerdo")],
     worked=[
         {"title": "Varias soluciones", "problem": "Ana y Beto quieren el mismo balde en el arenero. Escribe tres soluciones.", "steps": ["Turnarse: primero uno y luego el otro.", "Jugar juntos con el balde.", "Sortear quién empieza."], "answer": "Turnarse, jugar juntos o sortear"},
-        {"title": "Elegir con tres preguntas", "problem": "Luis propone: «Yo uso el balde todo el día». ¿Es una buena solución?", "steps": ["¿Es justa? No, solo sirve a Luis.", "No pasa el primer test.", "Hay que buscar otra."], "answer": "No, porque no es justa"},
+        {"title": "Elegir con tres preguntas", "problem": "Luis propone: «Yo uso el balde todo el día». ¿Es una buena solución?", "steps": ["¿Es justa? No, solo sirve a Luis.", "No pasa la primera pregunta.", "Hay que buscar otra."], "answer": "No, porque no es justa"},
     ],
     mistakes=[
         {"wrong": "Quedarse con la primera idea sin pensar otras.", "why": "Parece lo más fácil.", "fix": "Busca al menos dos o tres ideas más."},
@@ -149,8 +149,8 @@ register(
             ex("Beto propone que se turnen y Ana acepta. ¿Es una buena solución?", "Sí", "Es justa y se puede cumplir."),
         ],
         "challenge": [
-            ex("Si 3 niños quieren usar un trampolín y cada uno salta 5 veces en su turno, ¿cuántos saltos hacen en total?", "15", "3 niños por 5 saltos cada uno."),
-            ex("Ana eligió cara y Beto eligió cruz. Lanzan la moneda y sale cruz. ¿Quién empieza?", "Beto", "Sale lo que Beto eligió."),
+            arith("Si 2 niños quieren usar un trampolín y cada uno salta 5 veces en su turno, ¿cuántos saltos hacen en total?", "5+5", "Cinco saltos de cada niño."),
+            ex("Ana eligió cara y Beto eligió cruz. Acordaron que empieza quien acierta. Lanzan la moneda y sale cruz. ¿Quién empieza?", "Beto", "Sale lo que Beto eligió."),
         ],
     },
     context=[ex("Luis y Rosa quieren el mismo columpio. Luis dice: «Primero yo, después tú». Rosa dice: «Mejor nos columpiamos juntos en los dos columpios». ¿Cuántas soluciones propusieron?", "2", "Turnos y columpiarse juntos.")],
@@ -200,7 +200,7 @@ register(
             ex("Carla y Luis revisaron el acuerdo y vieron que uno se sentía mal. ¿Qué hacen?", "Lo cambian", "Quieren que sirva a los dos."),
         ],
         "challenge": [
-            ex("Mía y Luis acuerdan que cada uno use el columpio 10 minutos. ¿Cuántos minutos usan el columpio entre los dos?", "20", "10 minutos para cada uno, dos niños."),
+            arith("Mía y Luis acuerdan que cada uno use el columpio 10 minutos. ¿Cuántos minutos usan el columpio entre los dos?", "10+10", "Diez minutos para cada uno."),
             ex("Hay tres pasos: elegir, probar y revisar. Ordénalos: A) revisar, B) elegir, C) probar.", "B, C, A", "Primero elijo, luego pruebo y después reviso."),
         ],
     },
@@ -303,8 +303,8 @@ register(
             ex("Dani aporta mucho y se cansó. ¿Qué puede decir al grupo?", "Que necesita ayuda también", "Todos deben aportar."),
         ],
         "challenge": [
-            ex("En un grupo de 5 niños, cada uno trae 2 lápices para compartir. ¿Cuántos lápices tiene el grupo?", "10", "5 niños por 2 lápices."),
-            ex("Sofía trajo 3 hojas y Luis trajo 4 hojas para el trabajo. ¿Cuántas hojas aportaron entre los dos?", "7", "3 más 4."),
+            arith("En un grupo de 3 niños, cada uno trae 2 lápices para compartir. ¿Cuántos lápices tiene el grupo?", "2+2+2", "Dos lápices por cada niño."),
+            arith("Sofía trajo 3 hojas y Luis trajo 4 hojas para el trabajo. ¿Cuántas hojas aportaron entre los dos?", "3+4", "Se juntan las hojas de los dos."),
         ],
     },
     context=[ex("En el curso hay que ordenar la biblioteca. Ana trae los libros, Beto los ordena y Mía limpia la mesa. ¿Cuántos aportan?", "3", "Cada uno hace una parte.")],
@@ -355,7 +355,7 @@ register(
         ],
         "challenge": [
             ex("Tres niños se turnan 3 roles, uno nuevo por día. ¿En cuántos días cada niño habrá hecho los 3 roles?", "3", "Cada día cambia un rol, hasta completar los tres."),
-            ex("Un grupo de 6 niños se reparte 3 roles por igual. ¿Cuántos niños hay por rol?", "2", "6 entre 3 es 2."),
+            arith("En un grupo de 4 niños ya hay 3 con rol asignado. ¿Cuántos niños todavía no tienen rol?", "4-3", "Se quitan los que ya tienen rol."),
         ],
     },
     context=[ex("Para plantar porotos, Luis trae la tierra, Eva pone los porotos y Dani los riega con un poco de agua. ¿Cuántos roles hay?", "3", "Cada niño tiene una tarea.")],
@@ -405,8 +405,8 @@ register(
             ex("Luis se siente solo porque sus gustos son distintos al curso. ¿Qué puede recordar?", "Que pertenece a otros grupos también", "Tiene más de una pertenencia."),
         ],
         "challenge": [
-            ex("Beto está en su familia, su curso y su equipo. Mía está en su familia y su curso. ¿Cuántos grupos más tiene Beto que Mía?", "1", "El equipo es el extra."),
-            ex("Ana y Dani comparten 2 grupos y cada uno tiene 1 grupo distinto. ¿Cuántos grupos en total tiene cada uno?", "3", "2 compartidos y 1 propio."),
+            arith("Beto está en 3 grupos: su familia, su curso y su equipo. Mía está en 2 grupos: su familia y su curso. ¿Cuántos grupos más tiene Beto que Mía?", "3-2", "El equipo es el grupo extra."),
+            arith("Ana y Dani comparten 2 grupos y cada uno tiene 1 grupo distinto. ¿Cuántos grupos en total tiene cada uno?", "2+1", "Dos compartidos y uno propio."),
         ],
     },
     context=[ex("Un niño nuevo llegó al curso y juega a algo que Carla no conoce. Carla le dice: «Cuéntame cómo se juega». ¿Qué hizo bien?", "Preguntó con respeto", "Mostró interés en lo distinto.")],
@@ -425,7 +425,7 @@ register(
     explain=[
         "Los útiles son los materiales que usas para aprender: lápiz, goma, cuaderno, tijera, pegamento, regla, estuche. Cada actividad necesita algunos. Para escribir necesitas lápiz y cuaderno. Para recortar, tijera y papel.",
         "Preparar lo necesario es revisar con anticipación qué materiales usarás y ponerlos en tu mochila o sobre tu mesa. Una lista ayuda: lees cada útil y lo marcas con una cruz cuando lo tienes. Así no se te olvida nada.",
-        "Cuidar los útiles es usarlos bien y guardarlos al final. Mantén los lápices afilados, cierra el pegamento y guarda la tijera con las puntas hacia abajo o en su estuche. Útiles cuidados duran más y se pueden usar todos los días.",
+        "Cuidar los útiles es usarlos bien y guardarlos al final. Mantén los lápices afilados, cierra el pegamento y guarda la tijera cerrada en su estuche. Útiles cuidados duran más y se pueden usar todos los días.",
     ],
     vocab=[("útiles", "materiales para aprender"), ("preparar", "dejar todo listo antes de empezar"), ("lista", "papel con cosas que no quiero olvidar"), ("revisar", "mirar si está todo"), ("cuidar", "usar bien y guardar")],
     worked=[
@@ -457,8 +457,8 @@ register(
             ex("Pedro guarda la tijera con las puntas hacia arriba. ¿Qué puede pasar?", "Alguien podría pincharse", "Es mejor guardarla en su estuche."),
         ],
         "challenge": [
-            ex("La lista de la semana tiene 5 útiles y Sofía ya tiene 3. ¿Cuántos le faltan?", "2", "5 − 3 = 2."),
-            ex("Tomás debe llevar 2 lápices, 1 goma y 1 cuaderno. ¿Cuántos útiles son?", "4", "2 + 1 + 1 = 4."),
+            arith("La lista de la semana tiene 5 útiles y Sofía ya tiene 3. ¿Cuántos le faltan?", "5-3", "Se quitan los que ya tiene."),
+            arith("Tomás debe llevar 2 lápices, 1 goma y 1 cuaderno. ¿Cuántos útiles son?", "2+1+1", "Se suman todos los útiles."),
         ],
     },
     context=[ex("Mañana hay clase de ciencias con lupa, cuaderno y lápiz. Ana arma su mochila con lupa y cuaderno. ¿Qué le falta?", "El lápiz", "La lista pide lupa, cuaderno y lápiz.")],
@@ -508,8 +508,8 @@ register(
             ex("Pedro dice «ordenar es perder tiempo». ¿Qué le dirías?", "Que ordenar ahorra tiempo después", "Se encuentra rápido lo que se necesita."),
         ],
         "challenge": [
-            ex("Hay 8 útiles sobre la mesa y solo 3 se usarán. ¿Cuántos hay que guardar?", "5", "8 − 3 = 5."),
-            ex("Mía guarda 2 lápices, 1 goma y 3 hojas. ¿Cuántas cosas guardó en total?", "6", "2 + 1 + 3 = 6."),
+            arith("Hay 8 útiles sobre la mesa y solo 3 se usarán. ¿Cuántos hay que guardar?", "8-3", "Se quitan los que se usarán."),
+            arith("Mía guarda 2 lápices, 1 goma y 3 hojas. ¿Cuántas cosas guardó en total?", "2+1+3", "Se suman todas las cosas."),
         ],
     },
     context=[ex("Carla va a pintar con témpera. En su mesa hay un cuaderno, un delantal y los pinceles. Para pintar, ¿qué guarda?", "El cuaderno", "No lo necesita para pintar.")],
@@ -531,7 +531,7 @@ register(
     ],
     vocab=[("intentar", "probar hacer algo"), ("estrategia", "una forma de lograr algo"), ("por partes", "dividir una tarea en pasos"), ("pedir ayuda", "decir que necesito apoyo"), ("todavía", "palabra que dice que aún puedo aprender")],
     worked=[
-        {"title": "Hacerlo por partes", "problem": "Ana debe armar un cuadro con 4 dibujos y se siente abrumada. ¿Qué puede hacer?", "steps": ["Hace un dibujo a la vez.", "Terminado uno, empieza el siguiente.", "Al final, junta los cuatro."], "answer": "Hacerlo por partes"},
+        {"title": "Hacerlo por partes", "problem": "Ana debe armar un cuadro con 4 dibujos y no sabe por dónde empezar. ¿Qué puede hacer?", "steps": ["Hace un dibujo a la vez.", "Terminado uno, empieza el siguiente.", "Al final, junta los cuatro."], "answer": "Hacerlo por partes"},
         {"title": "Pedir ayuda con claridad", "problem": "Luis no entiende cómo se arma una figura de papel. ¿Qué dice?", "steps": ["Dice qué parte no entiende.", "«No entiendo el segundo doblez, ¿me lo muestras?»."], "answer": "«No entiendo el segundo doblez, ¿me lo muestras?»"},
     ],
     mistakes=[
@@ -552,14 +552,14 @@ register(
         "apply": [
             ex("Dani no puede cortar una forma. Escribe una estrategia que puede probar.", "Por ejemplo: cortar un lado a la vez", "Hace la tarea por partes."),
             ex("Mía no entiende la tarea. Escribe cómo pide ayuda a su profesora.", "Por ejemplo: «No entiendo el paso 2, ¿me explica?»", "Dice qué no entiende."),
-            ex("Tomás está frustrado. Elige una estrategia: respirar o romper el cuaderno.", "Respirar", "Ayuda a calmarse."),
+            ex("Tomás está muy enojado porque no le sale. Elige una estrategia: respirar o romper el cuaderno.", "Respirar", "Ayuda a calmarse."),
         ],
         "reason": [
             ex("Eva dice «no puedo» y se rinde. ¿Qué frase le ayudaría?", "«Todavía no puedo, voy a intentar otra manera»", "Mantiene abierta la posibilidad."),
             ex("Pedro pidió ayuda y su compañero le dio la respuesta sin explicarle. ¿Aprendió?", "No mucho", "Es mejor que le expliquen."),
         ],
         "challenge": [
-            ex("Una tarea tiene 6 pasos y Rosa ya hizo 4. ¿Cuántos le faltan?", "2", "6 − 4 = 2."),
+            arith("Una tarea tiene 6 pasos y Rosa ya hizo 4. ¿Cuántos le faltan?", "6-4", "Se quitan los pasos hechos."),
             ex("Sofía intentó 3 estrategias en orden: respirar, hacerlo por partes y pedir ayuda. ¿Cuál es la última?", "Pedir ayuda", "Es la tercera."),
         ],
     },
@@ -610,8 +610,8 @@ register(
             ex("Pedro aprendió a sumar usando fichas y su amigo usando los dedos. ¿Aprenden igual?", "No, cada uno aprende a su manera", "Cada persona tiene sus formas."),
         ],
         "challenge": [
-            ex("Sofía aprendió 2 palabras en la primera semana y 3 en la segunda. ¿Cuántas palabras aprendió en total?", "5", "2 + 3 = 5."),
-            ex("En un cuaderno hay 10 hojas y Eva ya usó 4 para practicar. ¿Cuántas hojas le quedan?", "6", "10 − 4 = 6."),
+            arith("Sofía aprendió 2 palabras en la primera semana y 3 en la segunda. ¿Cuántas palabras aprendió en total?", "2+3", "Se suman las dos semanas."),
+            arith("En un cuaderno hay 10 hojas y Eva ya usó 4 para practicar. ¿Cuántas hojas le quedan?", "10-4", "Se quitan las hojas usadas."),
         ],
     },
     context=[ex("Beto antes no sabía amarrarse los zapatos. Hoy lo logra después de practicar tres semanas. Su profesora le pregunta qué aprendió y cómo. ¿Qué responde?", "Aprendió a amarrarse los zapatos practicando", "Responde qué y cómo.")],
@@ -661,8 +661,8 @@ register(
             ex("Pedro termina y deja todo sobre la mesa. ¿Qué parte olvidó?", "El cierre", "Falta guardar los materiales."),
         ],
         "challenge": [
-            ex("Una rutina tiene 2 pasos de inicio, 3 de trabajo y 2 de cierre. ¿Cuántos pasos tiene en total?", "7", "2 + 3 + 2 = 7."),
-            ex("Sofía hace su rutina 5 días a la semana. Si cada día tiene 3 partes, ¿cuántas partes hace en total?", "15", "5 por 3 es 15."),
+            arith("Una rutina tiene 2 pasos de inicio, 3 de trabajo y 2 de cierre. ¿Cuántos pasos tiene en total?", "2+3+2", "Se suman los pasos de las tres partes."),
+            arith("Sofía hace su rutina 2 días. Si cada día tiene 3 partes, ¿cuántas partes hace en total?", "3+3", "Tres partes cada día."),
         ],
     },
     context=[ex("Carla hará un cartel. Inicio: pone la cartulina en la mesa y saca los plumones. Trabajo: dibuja. ¿Qué hace en el cierre?", "Guarda los plumones y deja la mesa ordenada", "Cierra la actividad.")],

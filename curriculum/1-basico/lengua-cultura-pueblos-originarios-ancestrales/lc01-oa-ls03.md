@@ -305,7 +305,7 @@ Respuesta: quién me la enseñó
 
 La toponimia es el estudio de los nombres de los lugares. Los nombres de ríos, cerros, valles e islas cuentan algo del territorio y de las personas que viven ahí. Muchos lugares de Chile tienen nombres que vienen de lenguas de pueblos originarios.
 
-Un ejemplo seguro es Rapa Nui: es el nombre de la isla en la lengua de su pueblo y también el nombre de ese pueblo. Para entender un nombre, miro el lugar, pregunto quién lo nombró y cuál es su historia. No adivino el significado.
+Un ejemplo es Rapa Nui: es el nombre con que se conoce a la isla y también a su pueblo. Para entender un nombre, miro el lugar, pregunto quién lo nombró y cuál es su historia. No adivino el significado.
 
 Hoy practico con un mapa inventado en castellano para aprender a relacionar un nombre con un lugar. Con nombres reales de un territorio, pregunto al educador o a la educadora tradicional o a la comunidad.
 
@@ -756,7 +756,7 @@ Respuesta: escucho, repito y agradezco
 
 **Errores frecuentes y cómo reconocerlos**
 
-- **Error:** Decir «mari mari» como broma o al despedirme. **Por qué ocurre:** No es su ocasión de uso. **Cómo corregirlo:** Lo digo solo al saludar.
+- **Error:** Decir «mari mari» como broma. **Por qué ocurre:** Es un saludo y no un chiste. **Cómo corregirlo:** Lo digo solo al saludar.
 - **Error:** Enojarme con la corrección. **Por qué ocurre:** Me ayuda a aprender. **Cómo corregirlo:** Agradezco y repito.
 
 **Ejercicios**
@@ -776,12 +776,12 @@ Respuesta: escucho, repito y agradezco
 *Aplicación*
 
 - **A1.** Ordena: A) agradezco B) escucho C) respondo. Escribe 3 letras.
-- **A2.** Situaciones: A) llega una visita B) me despido. ¿En cuál digo «mari mari»?
+- **A2.** Situaciones: A) llega una visita B) dibujo solo en mi puesto. ¿En cuál digo «mari mari»?
 - **A3.** Diálogo: «Mari mari». «Mari mari. ¿Cómo estás?». ¿Cuántas veces se dice el saludo?
 
 *Razonamiento y análisis*
 
-- **Z1.** Un niño usa «mari mari» para despedirse. ¿Qué le dices?
+- **Z1.** Un niño usa «mari mari» para hacer reír a todos. ¿Qué le dices?
 - **Z2.** ¿Por qué no uso expresiones que no estoy seguro de conocer?
 
 *Desafío*
@@ -812,7 +812,7 @@ Respuesta: escucho, repito y agradezco
 - **A1.** B, C, A. Primero escucho, luego respondo y agradezco.
 - **A2.** A. Es un saludo.
 - **A3.** 2. Una vez cada persona.
-- **Z1.** que es un saludo para llegar. No es para despedirse.
+- **Z1.** que es un saludo y no un chiste. Es una expresión para saludar con respeto.
 - **Z2.** porque puedo equivocarme. Mejor pregunto antes.
 - **D1.** 2. Cuatro menos dos son dos.
 - **D2.** 3. Repetiste tres veces.

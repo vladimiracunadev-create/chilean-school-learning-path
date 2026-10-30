@@ -306,7 +306,7 @@ lesson(
         E("Ficha de préstamo: Nombre: Tomás. Libro: «El oso y la luna». Retiro: día 8. Devolución: día 15. ¿Cuántos días tiene para leer el libro?", "7", "15 menos 8 es 7."),
         E("Ordena: a) Entrego el libro. b) Leo el libro en casa. c) Pido el libro prestado. Escribe las letras en orden.", "c, b, a", "Primero se pide, luego se lee y al final se devuelve."),
     ],
-    [E("Una niña pidió el libro «Los planetas» el día 2 con devolución a los 7 días. En casa lo dejó afuera y lo mojó la lluvia. ¿Qué debió hacer? Elige: A) guardarlo B) mojarlo", "A) guardarlo", "Debía protegerlo de la lluvia.")],
+    [E("Una niña pidió el libro «Los planetas» el día 2 con devolución a los 7 días. En casa lo dejó afuera y lo mojó la lluvia. ¿Qué debió hacer? Elige: A) guardarlo en la mochila B) dejarlo afuera", "A) guardarlo en la mochila", "Debía protegerlo de la lluvia.")],
     [
         E("¿Qué es la fecha de devolución?", "El día en que debo traer el libro", "Es el plazo del préstamo."),
         E("¿Qué hago con el libro cuando lo termino de leer en casa?", "Lo guardo bien hasta devolverlo", "Se cuida hasta entregarlo."),
@@ -337,7 +337,7 @@ lesson(
     ],
     [("escribir", "dejar mis ideas con letras"), ("comunicar", "hacer que otro entienda lo que quiero decir"), ("palabra", "letras juntas que significan algo"), ("frase", "palabras que dicen una idea"), ("leer", "decir en voz alta lo que está escrito")],
     [
-        ("Escribir una palabra", "Quieres escribir el nombre de tu sol favorito: «sol». ¿Con qué letras empieza?", ["Digo la palabra despacio: s-o-l.", "Empieza con la s."], "Con la letra s"),
+        ("Escribir una palabra", "Quieres escribir la palabra «sol». ¿Con qué letra empieza?", ["Digo la palabra despacio: s-o-l.", "Empieza con la s."], "Con la letra s"),
         ("Escribir una frase", "Quieres decir que te gusta el sol. ¿Qué escribes?", ["Digo qué quiero decir.", "Escribo: Me gusta el sol."], "Me gusta el sol"),
     ],
     [
@@ -351,7 +351,7 @@ lesson(
     ],
     [
         E("Quieres decirle a tu mamá «te quiero». ¿Cuántas palabras son?", "2", "Son «te» y «quiero»."),
-        E("Escribe con tus letras lo que dice el dibujo de un gato: ¿qué animal es? (Escribe «gato»).", "gato", "La palabra es gato."),
+        E("Escribe el nombre de un animal que maúlla.", "gato", "El gato es el animal que maúlla."),
         E("Una niña escribió «mama» en vez de «mamá». ¿Se entiende lo que quiso decir?", "Sí", "Se entiende y puede mejorar después."),
     ],
     [
@@ -367,7 +367,7 @@ lesson(
         E("Quieres escribir tres cosas que te gustan. ¿Cuántas palabras escribes como mínimo?", "3", "Una por cada cosa."),
         E("Escribe una frase que diga qué hay en tu mesa (por ejemplo, «Hay un vaso»).", "Por ejemplo: Hay un vaso", "Debe nombrar algo que hay."),
     ],
-    [E("Mamá no llegó aún y te pide que le dejes un mensaje para saber que hiciste la tarea. Escribe un mensaje breve: «Mamá, hice la tarea».", "Mamá, hice la tarea", "Es un mensaje breve y claro.")],
+    [E("Mamá no llegó aún y te pide que le dejes un mensaje para saber que hiciste la tarea. Escribe un mensaje breve que le diga que hiciste la tarea.", "Mamá, hice la tarea", "Es un mensaje breve y claro.")],
     [
         E("¿Qué es escribir?", "Dejar mis ideas con letras", "Así otros las pueden leer."),
         E("¿Qué se hace al terminar de escribir?", "Se lee en voz alta", "Así se comprueba que dice lo que quiero."),
@@ -466,11 +466,11 @@ lesson(
     ],
     [
         E("¿Qué palabra usamos para dar la razón?", "Porque", "Une la idea con su explicación."),
-        E("«Creo que el perro es leal». ¿Es un hecho o una idea?", "Una idea", "Es lo que piensa quien lo dice."),
+        E("«Creo que el perro es simpático». ¿Es un hecho o una idea?", "Una idea", "Es lo que piensa quien lo dice."),
         E("«Creo que...» sirve para...", "Decir mi idea", "Introduce lo que pienso."),
     ],
     [
-        E("Lee: «Creo que el invierno es frío porque llueve mucho». ¿Cuál es la razón?", "Porque llueve mucho", "Viene después de «porque»."),
+        E("Lee: «Creo que el invierno es lindo porque puedo tomar chocolate caliente». ¿Cuál es la razón?", "Porque puedo tomar chocolate caliente", "Viene después de «porque»."),
         E("Elige la idea con razón: A) «Me gusta el pan.» B) «Me gusta el pan porque es calentito.»", "B", "Sólo la B explica."),
         E("Lee: «Creo que el recreo es importante porque jugamos». ¿Cuál es la idea?", "El recreo es importante", "Está antes de «porque»."),
     ],
@@ -522,7 +522,7 @@ lesson(
     ],
     [
         ("Decir «mal» sin más.", "Cuesta poner nombre al sentimiento.", "Usa palabras como alegría, pena, miedo o rabia."),
-        ("Pensar que hay sentimientos prohibidos.", "Se cree que algunos están mal.", "Todos los sentimientos son normales; lo importante es cómo los manejamos."),
+        ("Pensar que hay sentimientos prohibidos.", "Se cree que algunos están mal.", "Todos los sentimientos son normales; lo importante es qué hacemos con ellos."),
     ],
     [
         E("Un niño llora porque su globo se voló. ¿Qué siente?", "Pena", "Llorar por una pérdida muestra tristeza."),
@@ -530,7 +530,7 @@ lesson(
         E("Un gato se esconde bajo la cama por un trueno. ¿Qué siente?", "Miedo", "Esconderse muestra susto."),
     ],
     [
-        E("Completa: «Cuando me quitan mi juguete siento rabia». ¿Cuál es el sentimiento?", "Rabia", "Es la palabra que nombra lo que siente."),
+        E("Lee: «Cuando me quitan mi juguete siento rabia». ¿Cuál es el sentimiento?", "Rabia", "Es la palabra que nombra lo que siente."),
         E("¿Qué palabra nombra el sentimiento de estar contento?", "Alegría", "Es el nombre de ese sentimiento."),
         E("¿Para qué sirve nombrar lo que siento?", "Para entenderme y que me entiendan", "Poner nombre ayuda."),
     ],
@@ -562,5 +562,5 @@ lesson(
         "Lee tus frases y comprueba que cada una diga el sentimiento y la situación.",
     ),
     "Di en voz alta tres sentimientos y cuándo los siente un personaje de cuento.",
-    "Dibuja una cara para cada uno de los cuatro sentimientos básicos y escribe su nombre.",
+    "Dibuja una cara para cada sentimiento (alegría, pena, miedo y rabia) y escribe su nombre.",
 )

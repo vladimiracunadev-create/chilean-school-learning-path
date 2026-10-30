@@ -184,7 +184,7 @@ register(
     use="Aprenderé a representar un momento de un diálogo con otra persona, usando mi voz y mi cuerpo. Sirve para practicar el inglés de forma divertida.",
     prior=["Sé decir hello y thank you.", "Sé que un diálogo tiene dos voces."],
     explain=[
-        "Dramatizar es actuar un diálogo con otra persona. Cada uno dice sus frases y hace gestos. Por ejemplo: A: «Hello! I'm Ana.» B: «Hello, Ana! I'm Leo.» Los dos se miran, sonríen y hablan.",
+        "Dramatizar es actuar un diálogo con otra persona. Cada uno dice sus frases y hace gestos. Por ejemplo: A: «Hello! I'm Ana.» B: «Hello, Ana! I'm Leo.» Los dos se miran, sonríen y hablan. Cuando conoces a alguien también puedes decir «Nice to meet you» (mucho gusto).",
         "Para dramatizar bien: aprende tu parte, habla con voz clara, mira a tu compañero y usa tu cuerpo. Si tu personaje está contento, sonríe; si está triste, baja los hombros. Los gestos ayudan a que otros entiendan.",
         "No tienes que decirlo perfecto. Lo importante es que se entienda y que respetes los turnos. Si te equivocas, vuelve a empezar con calma.",
     ],
@@ -219,7 +219,7 @@ register(
         ],
         "challenge": [
             ex("Completa el diálogo: A: «Hello! What's your name?» B: «______» (tu nombre).", "I'm ... (con tu nombre)", "I'm más nombre."),
-            ex("Ordena el diálogo con números: (1) B: I'm fine, thank you. (2) A: How are you? (3) A: Hello!", "3, 2, 1", "Primero saluda, luego pregunta y después responde."),
+            ex("Ordena el diálogo con números: (1) B: Hello, Ana! I'm Leo. (2) A: Hello! I'm Ana.", "2, 1", "Primero A saluda y se presenta; después B responde."),
         ],
     },
     context=[ex("En la clase de inglés actúas con una amiga: A dice «Good morning!». ¿Cómo respondes si eres B?", "Good morning!", "Se responde con el mismo saludo.")],
@@ -249,7 +249,7 @@ register(
         {"title": "Decir un gusto", "problem": "No te gusta la sopa. ¿Cómo lo dices?", "steps": ["Uso I don't like.", "Agrego soup."], "answer": "I don't like soup"},
     ],
     mistakes=[
-        {"wrong": "Decir «I happy» sin el verbo.", "why": "En español no se dice así.", "fix": "Usa I'm: I'm happy."},
+        {"wrong": "Decir «I happy» sin el verbo.", "why": "Se olvida que en inglés hace falta el verbo (am).", "fix": "Usa I'm, que es I am: I'm happy."},
         {"wrong": "Responder «Yes, I like» a «Do you like pizza?».", "why": "Se usa la forma de otra pregunta.", "fix": "Responde Yes, I do o No, I don't."},
     ],
     tiers={
@@ -270,7 +270,7 @@ register(
         ],
         "reason": [
             ex("¿Por qué «I don't like it» es una respuesta aceptable?", "Porque cada persona tiene gustos distintos", "Expresar un gusto propio es válido."),
-            ex("Un niño dijo «I sad». ¿Qué le falta?", "El verbo I'm", "Se dice I'm sad."),
+            ex("Un niño dijo «I sad». ¿Qué le falta?", "El verbo: I'm (I am)", "Se dice I'm sad."),
         ],
         "challenge": [
             ex("Escribe una frase en inglés que diga que estás contento y te gusta el parque.", "I'm happy. I like the park.", "Dos frases simples."),
@@ -354,7 +354,7 @@ register(
         "Para decir la idea general, responde: ¿quién?, ¿qué hace? y ¿dónde? Con esas tres respuestas ya resumes el texto. Si una palabra es desconocida, mira las palabras de alrededor y la imagen si hay una.",
         "Después de leer, di la idea con tus palabras en español o en inglés simple: «Ana plays in the park.» Si tu idea no coincide con el texto, vuelve a leer una sola línea y corrige.",
     ],
-    vocab=[("main idea", "idea general"), ("kite", "cometa"), ("park", "parque"), ("plays", "juega"), ("who?", "¿quién?"), ("where?", "¿dónde?")],
+    vocab=[("main idea", "idea general"), ("kite", "cometa (volantín)"), ("park", "parque"), ("plays", "juega"), ("who?", "¿quién?"), ("where?", "¿dónde?")],
     worked=[
         {"title": "Idea general", "problem": "Lee: «Ana has a red kite. She plays in the park.» ¿De qué trata?", "steps": ["¿Quién? Ana.", "¿Qué hace? Juega con una cometa.", "¿Dónde? En el parque."], "answer": "Ana juega con su cometa en el parque"},
         {"title": "Palabra desconocida", "problem": "Lee: «The cat sits on the mat.» Si no conoces mat, ¿cómo entiendes la idea?", "steps": ["Conozco cat y sits on.", "Entiendo que el gato se sienta sobre algo."], "answer": "Un gato se sienta sobre algo (mat es alfombra)"},
@@ -460,11 +460,11 @@ register(
     use="Aprenderé a reconocer al leer frases enteras que se repiten mucho en inglés, como «I can», «I have» y «I like». Sirve para leer más rápido y entender mejor.",
     prior=["Sé leer palabras cortas.", "Sé qué significan I can, I have y I like."],
     explain=[
-        "Un chunk es un grupo de palabras que se usa junto, como «I like», «I have», «I can», «It's a...» o «Thank you». Aprenderlo como un bloque te ayuda a leer rápido sin traducir palabra por palabra.",
+        "Un chunk es un grupo de palabras que se usa junto, como «I like», «I have», «I can», «It's a...», «I want...» (yo quiero...), «Here!» (¡aquí tienes!) o «Thank you». Aprenderlo como un bloque te ayuda a leer rápido sin traducir palabra por palabra.",
         "Cuando leas «I like apples», reconoce el bloque «I like» y entiende que dice que algo me gusta. Luego mira la palabra que sigue: apples. Con el bloque y la palabra nueva ya entiendes toda la frase.",
         "Para practicar, busca los bloques en un texto y subráyalos. Después puedes cambiar solo la última palabra para crear frases nuevas: I like apples, I like cats, I like blue.",
     ],
-    vocab=[("chunk", "grupo de palabras que van juntas"), ("I like", "me gusta"), ("I have", "yo tengo"), ("I can", "yo puedo"), ("It's a", "es un/una"), ("thank you", "gracias")],
+    vocab=[("chunk", "grupo de palabras que van juntas"), ("I like", "me gusta"), ("I have", "yo tengo"), ("I can", "yo puedo"), ("It's a", "es un/una"), ("I want", "yo quiero"), ("Here!", "¡aquí tienes!"), ("thank you", "gracias")],
     worked=[
         {"title": "Encontrar el bloque", "problem": "Lee: «I like apples.» ¿Cuál es el bloque?", "steps": ["Busco las palabras que van juntas y se repiten mucho.", "I like es un bloque."], "answer": "I like"},
         {"title": "Cambiar una palabra", "problem": "Con el bloque «I have», crea una frase sobre un perro.", "steps": ["Uso I have.", "Agrego a dog."], "answer": "I have a dog"},
@@ -482,7 +482,7 @@ register(
         "understand": [
             ex("¿Qué es un «chunk»?", "Un grupo de palabras que se usan juntas", "Se lee como un bloque."),
             ex("¿Qué ventaja tiene leer bloques?", "Se lee más rápido sin traducir cada palabra", "Se reconoce el significado de una vez."),
-            ex("¿Qué significa «It's a»?", "es un/una", "Describe qué es algo."),
+            ex("¿Qué significa el bloque «I want»?", "yo quiero", "Sirve para decir lo que quiero; con please es más amable."),
         ],
         "apply": [
             ex("Lee: «I like cats.» ¿Qué le gusta a la persona?", "Los gatos", "Cats son gatos."),
@@ -501,7 +501,7 @@ register(
     context=[ex("En una tarjeta de cumpleaños lees: «I have a gift for you. I like you!» ¿Qué bloques reconoces?", "I have y I like", "Son frases frecuentes.")],
     selfcheck=[
         ex("¿Qué significa «I can»?", "yo puedo", "Se usa para habilidades."),
-        ex("Lee: «It's a dog.» ¿Qué es?", "Un perro", "Dog es perro."),
+        ex("Lee: «Tom gives a pencil to Ana. He says: Here!» ¿Qué significa «Here!» en ese momento?", "Aquí tienes", "Se dice al entregar algo."),
         ex("¿Qué cambias para crear una frase nueva con el mismo bloque?", "La palabra final", "El bloque se mantiene."),
     ],
     open_task=task("Lee este texto: «I have a cat. It's a black cat. I can play with it. I like my cat.» Subraya los cuatro bloques que reconozcas (I have, It's a, I can, I like) y crea tres frases nuevas cambiando la última palabra.", "Bloques: I have, It's a, I can, I like. Nuevas: I have a dog. It's a red ball. I like apples.", ["subraya los cuatro bloques", "crea tres frases con los bloques", "cambia solo la última palabra"], ["texto subrayado", "frases"], ["subrayar palabras sueltas", "cambiar el bloque"], "Lee con él cada frase nueva en voz alta y celebra las que quedaron correctas."),
@@ -516,12 +516,12 @@ register(
     prior=["Sé leer frases cortas.", "Sé buscar la idea general y los personajes."],
     explain=[
         "Para mostrar que entendiste un texto, puedes dibujar lo que leíste, marcar la respuesta correcta o responder preguntas cortas. Cada una es una evidencia diferente.",
-        "Ejemplo: lees «Tom has a red ball. He plays with it in the park.» Puedes dibujar a Tom con una pelota roja en un parque; marcar quién tiene la pelota; y responder «Where does Tom play?» (¿dónde juega Tom?) con «In the park».",
+        "Ejemplo: lees «Tom has a red ball. He plays with it in the park.» Puedes dibujar a Tom con una pelota roja en un parque; marcar quién tiene la pelota; y responder «Where is Tom?» (¿dónde está Tom?) con «In the park».",
         "Después de responder, vuelve al texto y comprueba. ¿Tu dibujo tiene los colores correctos? ¿Tu respuesta usa palabras del texto? Si algo no coincide, corrige.",
     ],
     vocab=[("who?", "¿quién?"), ("what?", "¿qué?"), ("where?", "¿dónde?"), ("red ball", "pelota roja"), ("park", "parque"), ("check", "comprobar")],
     worked=[
-        {"title": "Responder una pregunta", "problem": "Lee: «Tom has a red ball. He plays with it in the park.» Pregunta: Where does Tom play?", "steps": ["Busco in the park.", "Respondo con el lugar."], "answer": "In the park (en el parque)"},
+        {"title": "Responder una pregunta", "problem": "Lee: «Tom has a red ball. He plays with it in the park.» Pregunta: Where is Tom?", "steps": ["Busco in the park.", "Respondo con el lugar."], "answer": "In the park (en el parque)"},
         {"title": "Dibujar", "problem": "Con el mismo texto, ¿qué dibujas?", "steps": ["Un niño llamado Tom.", "Una pelota roja.", "Un parque."], "answer": "Tom con una pelota roja en un parque"},
     ],
     mistakes=[
@@ -550,7 +550,7 @@ register(
         ],
         "challenge": [
             ex("Lee: «Pia has three red flowers and two yellow flowers.» ¿Cuántas flores hay en total?", "5", "Tres más dos son cinco."),
-            ex("Escribe en inglés una pregunta sobre dónde juega Tom.", "Where does Tom play?", "Where pregunta por el lugar."),
+            ex("Escribe en inglés una pregunta para saber dónde está Tom.", "Where is Tom?", "Where pregunta por el lugar."),
         ],
     },
     context=[ex("En una tarjeta lees: «Dear Leo, I have a new red bike. It's in the garden. Come and see! Love, Ana.» ¿Dónde está la bicicleta?", "En el jardín", "In the garden es en el jardín.")],
@@ -559,7 +559,7 @@ register(
         ex("Lee: «The ball is red.» ¿De qué color es la pelota?", "Roja", "Red es rojo."),
         ex("¿Qué haces después de dibujar o responder?", "Reviso con el texto", "Así se comprueba la comprensión."),
     ],
-    open_task=task("Lee este texto: «Lola has a small white dog. The dog is called Max. Max likes to run in the garden. Lola is happy.» Dibuja la escena y responde por escrito: (1) Who has a dog? (2) What color is the dog? (3) Where does Max run?", "Dibujo de una niña con un perro blanco pequeño en un jardín. (1) Lola. (2) White. (3) In the garden.", ["dibujo coherente con el texto", "tres respuestas correctas", "usa palabras del texto"], ["dibujo", "respuestas"], ["perro de otro color", "decir que corre en el parque"], "Pide que señale en el texto la palabra que respalda cada respuesta."),
+    open_task=task("Lee este texto: «Lola has a small white dog. The dog is called Max. Max likes to run in the garden. Lola is happy.» Dibuja la escena y responde por escrito: (1) Who has a dog? (2) What color is the dog? (3) Where is Max?", "Dibujo de una niña con un perro blanco pequeño en un jardín. (1) Lola. (2) White. (3) In the garden.", ["dibujo coherente con el texto", "tres respuestas correctas", "usa palabras del texto"], ["dibujo", "respuestas"], ["perro de otro color", "decir que corre en el parque"], "Pide que señale en el texto la palabra que respalda cada respuesta."),
     reinforce="Lee «Mia has a green book» y dibuja el libro.",
     extend="Escribe tres preguntas con Who, What y Where sobre un texto corto que inventes.",
 )

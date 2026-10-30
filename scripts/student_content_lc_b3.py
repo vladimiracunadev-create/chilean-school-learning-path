@@ -91,11 +91,11 @@ register(
     OA3, 2,
     materials="Este cuaderno, lápiz y el mapa de práctica de la clase, que está escrito aquí.",
     use="Aprenderé que los nombres de los lugares (la toponimia) cuentan algo del territorio. Sirve para ubicarse y para respetar la historia de cada lugar.",
-    prior=["Sé que los lugares tienen nombre.", "Sé usar las palabras norte, sur, este y oeste."],
+    prior=["Sé que los lugares tienen nombre.", "Sé leer palabras cortas con ayuda de un adulto."],
     explain=[
         "La toponimia es el conjunto de nombres de los lugares: ríos, cerros, playas, pueblos. Cada nombre suele contar algo: cómo es el lugar, qué hay en él o qué pasó ahí. Por ejemplo, «Río Claro» dice que el agua es clara.",
         "Muchos lugares de Chile tienen nombres que vienen de lenguas indígenas, y otros vienen del castellano. Para saber qué cuenta un nombre, no basta con adivinar: hay que preguntar a personas de la comunidad que conocen el territorio y su historia.",
-        "Un mapa te ayuda a relacionar un nombre con un lugar. Con los puntos cardinales dices dónde está cada cosa: al norte, al sur, al este, al oeste. Si un nombre de la lengua del pueblo no lo conoces, no lo traduzcas tú: pide que te lo expliquen.",
+        "Un mapa te ayuda a relacionar un nombre con un lugar. Con los puntos cardinales dices dónde está cada cosa: al norte, al sur, al este, al oeste. En un mapa el norte se dibuja arriba, el sur abajo, el este a la derecha y el oeste a la izquierda. Si un nombre de la lengua del pueblo no lo conoces, no lo traduzcas tú: pide que te lo expliquen.",
     ],
     vocab=[("toponimia", "nombres de los lugares"), ("territorio", "lugar donde vive y se mueve una comunidad"), ("mapa", "dibujo de un lugar visto desde arriba"), ("norte, sur, este, oeste", "direcciones para ubicar lugares"), ("nombre", "palabra con que se llama a un lugar o persona")],
     worked=[
@@ -218,7 +218,7 @@ register(
     prior=["Sé saludar con respeto.", "Sé que cada expresión tiene su ocasión."],
     explain=[
         "Una interacción breve es una conversación muy corta, como saludar y responder. Tiene turnos: primero habla uno, luego habla el otro. Para hacerla bien miras a la persona, hablas con voz clara y esperas la respuesta.",
-        "Con una lengua indígena, la interacción solo se hace con expresiones que fueron validadas por el educador tradicional o la comunidad. Por ejemplo, «mari mari» es un saludo en mapuzugun que puedes usar si la educadora de tu pueblo te lo enseñó. No inventes respuestas.",
+        "Con una lengua indígena, la interacción solo se hace con expresiones que fueron validadas por el educador tradicional o la comunidad. Por ejemplo, «mari mari» es un saludo en mapuzugun que puedes usar si el educador/a tradicional te lo enseñó. No inventes respuestas.",
         "Si la persona responde algo que no entiendes, no finjas. Dices «gracias» con respeto y le preguntas al educador o educadora cómo se responde y qué significa. Así cuidas la lengua y no la usas fuera de contexto.",
     ],
     vocab=[("interacción", "conversación entre dos personas"), ("turno", "momento en que habla cada uno"), ("validada", "confirmada por quien conoce la lengua"), ("responder", "decir algo después de que te hablan"), ("fingir", "hacer como que se entiende sin entender")],
@@ -251,7 +251,7 @@ register(
             ex("Una niña no entendió la respuesta y la anotó para preguntar después. ¿Hizo bien?", "Sí", "Preguntar después evita fingir."),
         ],
         "challenge": [
-            ex("En una interacción breve hay 3 pasos: mirar, saludar y esperar la respuesta. Si hay 5 niños que saludan a la educadora uno por uno, ¿cuántos pasos se hacen en total?", "15", "5 niños por 3 pasos son 15."),
+            ex("En una interacción breve hay 3 pasos: mirar, saludar y esperar la respuesta. Si hay 5 niños que saludan a la educadora uno por uno, ¿cuántos pasos se hacen en total?", "15", "3 + 3 + 3 + 3 + 3 = 15."),
             ex("Escribe una frase para agradecer cuando no entiendes lo que te responden.", "Cualquier frase de agradecimiento respetuosa", "Se acepta un gracias respetuoso."),
         ],
     },
@@ -373,10 +373,10 @@ register(
         ],
         "reason": [
             ex("Un niño dice que Lía y su abuelo comieron pan en la orilla. ¿El relato lo dice?", "No", "Solo dice que llevaban pan."),
-            ex("Una niña dice que el abuelo habló bajito. ¿Es explícito?", "Más o menos; el relato dice que pidió hablar bajito", "Lo explícito es lo que el abuelo dijo; no dice que lo hicieron."),
+            ex("Una niña dice que Lía y su abuelo hablaron bajito. ¿El relato lo dice con claridad?", "No; solo dice que el abuelo pidió hablar bajito", "El relato cuenta lo que dijo el abuelo, pero no dice que hablaron bajito."),
         ],
         "challenge": [
-            ex(f"Relato: «{RELATO_A}» Cuenta cuántas oraciones tiene el relato (separadas por punto).", "5", "Hay cinco oraciones."),
+            ex(f"Relato: «{RELATO_A}» Cuenta cuántas oraciones tiene el relato (separadas por punto).", "6", "Hay seis oraciones."),
             ex(f"Relato: «{RELATO_A}» Escribe un detalle explícito del relato que no hayamos preguntado.", "Por ejemplo, caminaron al amanecer", "Se acepta un detalle que esté escrito."),
         ],
     },
@@ -493,14 +493,14 @@ register(
         "apply": [
             ex(f"Relato: «{RELATO_A}» Completa: «Aprendí que hay que ______ bajito cerca de los animales».", "Hablar", "El abuelo dijo que hay que hablar bajito."),
             ex("Escribe una pregunta sobre el relato de práctica que no puedas responder con el texto.", "Por ejemplo: ¿cómo se llama el río?", "Se acepta una pregunta que el relato no responde."),
-            ex("Ordena la despedida: a) gracias, b) pregunta, c) lo que aprendí. Escribe las letras en el orden de la lista de tres partes.", "c, b, a", "Aprendí, pregunto y agradezco."),
+            ex("Ordena la despedida: primero lo que aprendí, después lo que pregunto y al final el gracias. a) gracias, b) pregunta, c) lo que aprendí. Escribe las letras en ese orden.", "c, b, a", "Aprendí, pregunto y agradezco."),
         ],
         "reason": [
             ex("Un niño dice que entendió todo el relato del pueblo, pero no sabe qué significa una palabra. ¿Es honesto?", "No del todo", "Debería decir qué no sabe."),
             ex("Una niña dice «No sé qué significa esta palabra, ¿me ayuda?». ¿Hizo bien?", "Sí", "Reconoció su límite y preguntó."),
         ],
         "challenge": [
-            ex("Hay 5 niños en el grupo. Cada uno dice una cosa que aprendió y una cosa que debe preguntar. ¿Cuántas frases dicen en total?", "10", "5 niños por 2 frases son 10."),
+            ex("Hay 5 niños en el grupo. Cada uno dice una cosa que aprendió y una cosa que debe preguntar. ¿Cuántas frases dicen en total?", "10", "2 + 2 + 2 + 2 + 2 = 10."),
             ex("Escribe una frase que diga una cosa que aprendiste y una que debes preguntar.", "Cualquier frase con las dos ideas", "Debe incluir aprendizaje y pregunta."),
         ],
     },

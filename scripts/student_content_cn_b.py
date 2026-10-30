@@ -44,7 +44,7 @@ register(
         ],
         "reason": [
             ex("Clara arrancó una planta y vio que no tenía raíz. Dice que no era una planta. ¿Qué respuesta es más probable?", "La raíz se cortó al arrancarla", "Casi todas las plantas tienen raíz bajo la tierra."),
-            ex("Tomás dice que el tallo del apio es una raíz porque es largo. ¿Cómo lo corriges?", "El apio que comemos es un tallo porque sube y sostiene las hojas", "El tallo sube desde la raíz."),
+            ex("Tomás dice que el tallo del girasol es una raíz porque es largo. ¿Cómo lo corriges?", "Es un tallo porque sube sobre la tierra y sostiene las hojas y la flor", "El tallo sube desde la raíz."),
         ],
         "challenge": [
             ex("Una planta tiene 2 flores y 5 hojas. ¿Cuántas hojas y flores hay en total?", "7", "Dos flores más cinco hojas son siete."),
@@ -52,7 +52,7 @@ register(
         ],
     },
     context=[ex("En el jardín ves un girasol con un tallo de 150 cm y un clavel con un tallo de 40 cm. ¿Cuántos centímetros más largo es el tallo del girasol?", "110 cm", "150 menos 40 es 110.")],
-    selfcheck=[ex("¿Cuál de estas partes es la que absorbe agua bajo la tierra: raíz o flor?", "La raíz", "Está dentro de la tierra."), ex("¿Qué parte sostiene a la planta?", "El tallo", "Mantiene las hojas arriba."), ex("¿Cuántas estructuras principales vimos hoy?", "4", "Raíz, tallo, hojas y flores.")],
+    selfcheck=[ex("¿Cuál de estas partes está bajo la tierra: la raíz o la flor?", "La raíz", "Está dentro de la tierra."), ex("¿Qué parte sostiene a la planta?", "El tallo", "Mantiene las hojas arriba."), ex("¿Cuántas estructuras principales vimos hoy?", "4", "Raíz, tallo, hojas y flores.")],
     open_task=task("Mira esta planta de ejemplo: raíz 6 cm, tallo 15 cm, 4 hojas y 1 flor roja. Dibújala con las cuatro partes, ponles nombre y escribe una medida junto a cada una que tenga centímetros.", "Dibujo con raíz (6 cm) bajo la tierra, tallo (15 cm), cuatro hojas verdes y una flor roja arriba.", ["dibuja las cuatro partes en su lugar", "escribe los nombres", "usa las medidas con cm"], ["dibujo rotulado", "medidas"], ["dibujar la raíz fuera de la tierra", "olvidar la unidad"], "Reconoce las partes y pide dibujar la raíz bajo la tierra."),
     reinforce="Observa una planta de tu casa y nombra sus cuatro partes.",
     extend="Compara dos plantas distintas y di qué parte es más larga en cada una.",
@@ -95,16 +95,16 @@ register(
         ],
         "reason": [
             ex("Si el agua con colorante sube solo por el tallo, ¿por qué las hojas se tiñeron?", "Porque el tallo llevó el agua hasta las hojas", "El color viaja con el agua por los tubitos."),
-            ex("Si cortas el tallo de un apio por la mitad, ¿llegará color a las hojas de arriba? Explica.", "No, porque se corta el camino del agua", "El agua sube por el tallo."),
+            ex("Si cortas el tallo de un apio y dejas un hueco entre las dos partes, ¿llegará color a las hojas de arriba? Explica.", "No, porque se corta el camino del agua", "El agua sube por el tallo."),
         ],
         "challenge": [
-            ex("Escribe una planta con raíz gruesa que se coma y una con tallo que se coma.", "Por ejemplo zanahoria y apio", "Hay raíces y tallos comestibles."),
-            ex("El apio estuvo 24 horas en agua con colorante y 5 de sus 6 hojas se tiñeron. ¿Qué parte del experimento falta para que las 6 se tiñeran?", "Más tiempo", "El color sigue subiendo con el tiempo."),
+            ex("Escribe una planta con raíz gruesa que se coma y una con tallo que se coma.", "Por ejemplo la zanahoria (raíz) y el espárrago (tallo)", "Hay raíces y tallos comestibles."),
+            ex("El apio estuvo 24 horas en agua con colorante y 5 de sus 6 hojas se tiñeron. ¿Qué podrías hacer para ver si se tiñen las 6?", "Esperar más tiempo", "El color puede seguir subiendo con el tiempo."),
         ],
     },
-    context=[ex("Un jardinero mueve un arbolito con la raíz cortada. Al día siguiente se cayó y sus hojas se secaron. ¿Qué dos funciones perdió la raíz?", "Sujetar y absorber agua", "Sin raíz no se sostiene ni toma agua.")],
+    context=[ex("Un jardinero mueve un arbolito con la raíz cortada. Pasan unos días: el arbolito se cayó y sus hojas se secaron. ¿Qué dos funciones perdió la raíz?", "Sujetar y absorber agua", "Sin raíz no se sostiene ni toma agua.")],
     selfcheck=[ex("¿Qué parte absorbe el agua?", "La raíz", "Absorbe del suelo."), ex("¿Qué parte lleva el agua por dentro?", "El tallo", "Tiene tubitos finos por dentro."), ex("¿Qué muestra el colorante en el apio?", "El camino del agua", "Sube con ella.")],
-    open_task=task("Mira esta tabla de dos tallos con colorante. Apio A: 0 horas = 0 hojas con color, 12 horas = 3, 24 horas = 6. Apio B (con el tallo cortado en la mitad): 0 horas = 0, 12 horas = 0, 24 horas = 0. Escribe qué muestra cada tabla y qué concluyes sobre el tallo.", "En el apio A el color llegó a 6 hojas en 24 horas porque el agua subió por el tallo entero. En el apio B no llegó color porque el tallo estaba cortado. Concluyo que el tallo lleva el agua.", ["describe cada tabla con números", "dice que el tallo lleva agua", "usa los datos como evidencia"], ["frases con números", "dibujo del apio"], ["decir que el colorante hace crecer", "no usar los números"], "Reconoce la evidencia y pide citar al menos un número de cada tabla."),
+    open_task=task("Mira esta tabla de ejemplo de dos tallos con colorante. Apio A: 0 horas = 0 hojas con color, 12 horas = 3, 24 horas = 6. Apio B (su tallo se cortó en dos partes y se dejó un hueco entre ellas, así que el agua no puede seguir subiendo): 0 horas = 0, 12 horas = 0, 24 horas = 0. Escribe qué muestra cada tabla y qué concluyes sobre el tallo.", "En el apio A el color llegó a 6 hojas en 24 horas porque el agua subió por el tallo entero. En el apio B no llegó color porque el camino del agua estaba cortado. Concluyo que el tallo lleva el agua.", ["describe cada tabla con números", "dice que el tallo lleva agua", "usa los datos como evidencia"], ["frases con números", "dibujo del apio"], ["decir que el colorante hace crecer", "no usar los números"], "Reconoce la evidencia y pide citar al menos un número de cada tabla."),
     reinforce="Con ayuda de un adulto, pon un tallo de apio en agua con colorante y mira cada hora.",
     extend="Explica por qué una flor blanca cortada puede teñirse con colorante.",
 )
@@ -122,7 +122,7 @@ register(
     vocab=[("hoja", "parte que fabrica el alimento con luz, agua y aire"), ("pétalo", "parte de colores de la flor"), ("fruto", "parte que guarda las semillas"), ("semilla", "parte de la que puede nacer otra planta"), ("borde", "orilla de la hoja")],
     worked=[
         {"title": "Describir una hoja", "problem": "Hoja de laurel: 8 cm de largo, forma alargada, borde liso. ¿Cómo la describes?", "steps": ["Largo: 8 cm.", "Forma: alargada.", "Borde: liso."], "answer": "Hoja de 8 cm, alargada y de borde liso"},
-        {"title": "Para qué sirve la flor", "problem": "Un manzano florece en primavera y en verano tiene manzanas con semillas. ¿Qué papel tuvo la flor?", "steps": ["La flor apareció primero.", "Después apareció el fruto.", "Dentro del fruto hay semillas."], "answer": "La flor permitió que se formara el fruto con semillas"},
+        {"title": "Para qué sirve la flor", "problem": "Un manzano florece en primavera y más tarde tiene manzanas con semillas. ¿Qué papel tuvo la flor?", "steps": ["La flor apareció primero.", "Después apareció el fruto.", "Dentro del fruto hay semillas."], "answer": "La flor permitió que se formara el fruto con semillas"},
     ],
     mistakes=[
         {"wrong": "Decir que las flores son solo para decorar.", "why": "Se mira la belleza y no la función.", "fix": "La flor ayuda a formar frutos con semillas."},
@@ -140,9 +140,9 @@ register(
             ex("¿Qué puede nacer de una semilla en tierra húmeda?", "Una planta nueva", "La semilla da una planta."),
         ],
         "apply": [
-            ex("Tabla de hojas: laurel 8 cm, menta 4 cm, higuera 20 cm, aloe 30 cm. ¿Cuál es la hoja más larga?", "La del aloe", "30 cm es mayor que las otras."),
+            ex("Tabla de ejemplo de hojas: laurel 8 cm, menta 4 cm, higuera 20 cm, aloe 30 cm. ¿Cuál es la hoja más larga?", "La del aloe", "30 cm es mayor que las otras."),
             arith("La hoja de higuera mide 20 cm y la de menta 4 cm. ¿Cuántos centímetros más larga es la de higuera?", "20-4", "Se resta la medida de la menta a la de la higuera.", " cm"),
-            ex("Flores: rosa roja 30 pétalos, margarita blanca 20 pétalos, diente de león amarillo 100 pétalos. ¿Cuál tiene más pétalos?", "El diente de león", "100 es mayor que 30 y 20."),
+            ex("Datos de ejemplo. Flores: rosa roja 30 pétalos, margarita blanca 20 pétalos, diente de león amarillo 100 pétalos. ¿Cuál tiene más pétalos?", "El diente de león", "100 es mayor que 30 y 20."),
         ],
         "reason": [
             ex("Rosa dice que si arranca las flores de su planta de frutilla, igual tendrá frutillas. ¿Qué le advertirías?", "Que sin flores no se forman frutos", "El fruto aparece después de la flor."),
@@ -153,7 +153,7 @@ register(
             ex("Una margarita tiene 20 pétalos y se le cayeron 5. ¿Cuántos quedan?", "15", "Veinte menos cinco son quince."),
         ],
     },
-    context=[ex("En un huerto el tomate tiene 4 flores. Se forma un fruto por cada flor. ¿Cuántos tomates habrá en esa rama?", "4", "Cada flor forma un fruto.")],
+    context=[ex("En un huerto una rama de tomate tiene 4 flores. Supón que se forma un fruto por cada flor. ¿Cuántos tomates habrá en esa rama?", "4", "Cada flor forma un fruto.")],
     selfcheck=[ex("¿Qué fabrica el alimento de la planta?", "La hoja", "Allí se produce."), ex("¿Qué necesita la hoja de la luz?", "Fabricar alimento", "La luz es necesaria."), ex("¿Qué hay dentro de un fruto?", "Semillas", "El fruto las guarda.")],
     open_task=task("Con esta tabla de dos plantas escribe qué hojas y qué flores tiene cada una. Planta 1: hojas de 6 cm, borde liso; flor amarilla con 8 pétalos. Planta 2: hojas de 3 cm, borde con dientes; flor rosada con 5 pétalos. Después escribe una diferencia de hojas y una de flores.", "Diferencia de hojas: la planta 1 tiene hojas de 6 cm y la planta 2 de 3 cm. Diferencia de flores: la planta 1 tiene 8 pétalos y la 2 tiene 5.", ["compara hojas con números", "compara flores con números", "usa palabras como más, menos o diferente"], ["tabla de comparación", "dibujo"], ["describir sin medida", "mezclar hoja con flor"], "Reconoce diferencias y pide usar un número en cada comparación."),
     reinforce="Mira una hoja y una flor y anota su color y su forma.",
@@ -219,13 +219,13 @@ register(
     prior=["Sé que una semilla puede dar una planta.", "Sé medir en centímetros."],
     explain=[
         "Las semillas son distintas entre sí. Para describirlas usamos criterios: el tamaño, que se mide en cm; la forma, como redonda, alargada o de riñón; la textura, que es cómo se siente, lisa o arrugada; y el color.",
-        "En la tabla de semillas de hoy: la lenteja mide 0,5 cm, es redonda y aplanada, lisa y café. El poroto mide 1,5 cm, tiene forma de riñón, es liso y blanco. El arroz mide 0,7 cm, es alargado, liso y blanco.",
+        "En la tabla de semillas de hoy: la lenteja mide cerca de 1 cm, es redonda y aplanada, lisa y café. El poroto mide cerca de 2 cm, tiene forma de riñón, es liso y blanco. El arroz mide cerca de 1 cm, es alargado, liso y blanco. Son medidas de ejemplo, redondeadas a centímetros enteros.",
         "Cuando describes con los cuatro criterios puedes compararlas sin verlas. Por ejemplo, el poroto es más grande que la lenteja, pero las dos son lisas. Siempre anota la unidad, cm.",
     ],
     vocab=[("criterio", "característica que uso para describir o agrupar"), ("textura", "cómo se siente algo al tocarlo"), ("forma", "figura de un objeto"), ("tamaño", "qué tan grande es"), ("semilla", "parte de la planta que puede dar otra planta")],
     worked=[
         {"title": "Describir con cuatro criterios", "problem": "Garbanzo: 1 cm, redondo, arrugado, beige. Descríbelo con los cuatro criterios.", "steps": ["Tamaño: 1 cm.", "Forma: redondo.", "Textura: arrugado.", "Color: beige."], "answer": "Tamaño 1 cm, redondo, arrugado y beige"},
-        {"title": "Comparar dos semillas", "problem": "Poroto 1,5 cm y lenteja 0,5 cm. ¿Cuál es mayor y cuánto?", "steps": ["1,5 es mayor que 0,5.", "La diferencia es 1 cm."], "answer": "El poroto es 1 cm más grande"},
+        {"title": "Comparar dos semillas", "problem": "Poroto 2 cm y lenteja 1 cm. ¿Cuál es mayor y cuánto?", "steps": ["2 es mayor que 1.", "La diferencia es 1 cm."], "answer": "El poroto es 1 cm más grande"},
     ],
     mistakes=[
         {"wrong": "Describir solo con el color.", "why": "Un solo criterio no distingue semillas del mismo color.", "fix": "Usa tamaño, forma, textura y color."},
@@ -233,7 +233,7 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Tabla: lenteja 0,5 cm, poroto 1,5 cm. ¿Cuál mide menos?", "La lenteja", "0,5 es menor que 1,5."),
+            ex("Tabla: lenteja 1 cm, poroto 2 cm. ¿Cuál mide menos?", "La lenteja", "1 es menor que 2."),
             ex("Tabla: arveja, redonda y lisa, verde. ¿Qué color tiene?", "Verde", "El color está en la ficha."),
             ex("Tabla: garbanzo, arrugado. ¿Qué criterio describe «arrugado»?", "La textura", "La textura es cómo se siente."),
         ],
@@ -243,7 +243,7 @@ register(
             ex("¿Por qué conviene medir en lugar de decir «grande»?", "Porque el número se puede comprobar", "La palabra grande depende de la comparación."),
         ],
         "apply": [
-            ex("El poroto mide 1,5 cm y la lenteja 0,5 cm. ¿Cuántos centímetros más mide el poroto?", "1 cm", "Uno y medio menos medio es uno."),
+            ex("El poroto mide 2 cm y la lenteja 1 cm. ¿Cuántos centímetros más mide el poroto?", "1 cm", "Dos menos uno es uno."),
             ex("Tabla de semillas: lenteja café, poroto blanco, maíz amarillo, arveja verde. ¿Cuál es amarilla?", "El maíz", "El color está en la tabla."),
             ex("Tabla: arroz alargado, lenteja redonda, poroto con forma de riñón. ¿Cuál es alargado?", "El arroz", "La forma está en la tabla."),
         ],
@@ -252,13 +252,13 @@ register(
             ex("Si dos semillas son lisas y blancas, ¿qué criterio mirarías para distinguirlas?", "El tamaño o la forma", "El color y la textura ya son iguales."),
         ],
         "challenge": [
-            ex("Escribe una semilla y descríbela con los cuatro criterios.", "Por ejemplo poroto: 1,5 cm, riñón, liso, blanco", "Incluye tamaño, forma, textura y color."),
+            ex("Escribe una semilla y descríbela con los cuatro criterios.", "Por ejemplo poroto: 2 cm, riñón, liso, blanco", "Incluye tamaño, forma, textura y color."),
             ex("Hay 5 semillas lisas y 3 arrugadas. ¿Cuántas semillas hay?", "8", "Cinco más tres son ocho."),
         ],
     },
     context=[ex("Para una siembra, el abuelo tiene un frasco con 12 porotos y otro con 20 lentejas. ¿Cuántas lentejas más que porotos hay?", "8", "Veinte menos doce son ocho.")],
     selfcheck=[ex("¿Cómo es una semilla «arrugada»: lisa o con pliegues?", "Con pliegues", "La textura arrugada tiene pliegues."), ex("¿Qué unidad se usa para el tamaño?", "Centímetros", "Se mide con regla."), ex("¿Cuántos criterios vimos?", "4", "Tamaño, forma, textura y color.")],
-    open_task=task("Describe con cuatro criterios estas dos semillas: A mide 1 cm, es redonda, arrugada y beige. B mide 0,7 cm, es alargada, lisa y blanca. Después escribe una semejanza y una diferencia.", "A: 1 cm, redonda, arrugada, beige. B: 0,7 cm, alargada, lisa, blanca. Semejanza: las dos son pequeñas. Diferencia: A es arrugada y B es lisa.", ["usa los cuatro criterios", "escribe una semejanza", "escribe una diferencia"], ["tabla de dos semillas", "frases"], ["olvidar un criterio", "no usar números"], "Reconoce los criterios y pide una semejanza con un dato."),
+    open_task=task("Describe con cuatro criterios estas dos semillas de ejemplo: A mide 2 cm, es redonda, arrugada y beige. B mide 1 cm, es alargada, lisa y blanca. Después escribe una semejanza y una diferencia.", "A: 2 cm, redonda, arrugada, beige. B: 1 cm, alargada, lisa, blanca. Semejanza: las dos miden menos de 3 cm. Diferencia: A es arrugada y B es lisa.", ["usa los cuatro criterios", "escribe una semejanza", "escribe una diferencia"], ["tabla de dos semillas", "frases"], ["olvidar un criterio", "no usar números"], "Reconoce los criterios y pide una semejanza con un dato."),
     reinforce="Describe dos semillas de tu cocina con los cuatro criterios.",
     extend="Ordena tres semillas de menor a mayor tamaño.",
 )
@@ -276,7 +276,7 @@ register(
     vocab=[("fruto", "parte de la planta que guarda las semillas"), ("clasificar", "poner en grupos con un criterio"), ("criterio", "regla para formar los grupos"), ("grupo", "conjunto de frutos que cumplen la regla"), ("total", "cantidad que resulta de juntar todo")],
     worked=[
         {"title": "Clasificar por color", "problem": "Manzana roja, plátano amarillo, limón amarillo, frutilla roja, uva morada, palta verde. Clasifica por color.", "steps": ["Rojo: manzana y frutilla.", "Amarillo: plátano y limón.", "Morado: uva.", "Verde: palta."], "answer": "Rojo 2, amarillo 2, morado 1, verde 1"},
-        {"title": "Clasificar por tamaño", "problem": "Con las medidas: manzana 8 cm, plátano 18 cm, limón 7 cm, frutilla 3 cm, uva 2 cm, palta 12 cm. Regla: menos de 5 cm o 5 cm y más.", "steps": ["Menos de 5 cm: frutilla y uva.", "5 cm y más: manzana, plátano, limón y palta."], "answer": "Menos de 5 cm: 2 frutos. 5 cm y más: 4 frutos"},
+        {"title": "Clasificar por tamaño", "problem": "Con estas medidas de ejemplo: manzana 8 cm, plátano 18 cm, limón 7 cm, frutilla 3 cm, uva 2 cm, palta 12 cm. Regla: menos de 5 cm o 5 cm y más.", "steps": ["Menos de 5 cm: frutilla y uva.", "5 cm y más: manzana, plátano, limón y palta."], "answer": "Menos de 5 cm: 2 frutos. 5 cm y más: 4 frutos"},
     ],
     mistakes=[
         {"wrong": "Poner la manzana en rojos y también en pequeños.", "why": "Se usan dos reglas a la vez.", "fix": "Usa un criterio por vez y haz una clasificación aparte con el otro."},
@@ -321,13 +321,13 @@ register(
     prior=["Sé clasificar con un criterio.", "Sé describir tamaño, forma, textura y color."],
     explain=[
         "Las flores se pueden clasificar por color, por tamaño o por cantidad de pétalos. Los tallos se pueden clasificar por textura, es decir, si son lisos, rugosos o con espinas, y por si son duros o blandos.",
-        "Tabla de hoy. Flores: rosa roja (6 cm), margarita blanca (4 cm), girasol amarillo (20 cm), clavel rojo (5 cm), diente de león amarillo (3 cm), aromo amarillo (1 cm). Tallos: apio (verde, blando), pino (café, rugoso, duro), rosa (verde, con espinas), junco (verde, liso y delgado).",
-        "Probar otro criterio puede cambiar los grupos. Por color, la rosa y el clavel van juntos. Por tamaño, la rosa va con la margarita y el clavel. Ninguna clasificación es la única; lo importante es que la regla sea clara.",
+        "Tabla de hoy (medidas de ejemplo, aproximadas). Flores: rosa roja (6 cm), margarita blanca (4 cm), girasol amarillo (20 cm), clavel rojo (5 cm), diente de león amarillo (3 cm), aromo amarillo (1 cm). Tallos: margarita (verde, blando), pino (café, rugoso, duro), rosa (verde, con espinas), junco (verde, liso y delgado).",
+        "Probar otro criterio puede cambiar los grupos. Por color, la rosa y el clavel van juntos. Si la regla es «menos de 10 cm», la rosa va con la margarita y el clavel. Ninguna clasificación es la única; lo importante es que la regla sea clara.",
     ],
     vocab=[("flor", "parte de la planta con pétalos"), ("tallo", "parte que sostiene la planta"), ("pétalo", "parte de colores de la flor"), ("rugoso", "áspero al tocarlo"), ("espina", "punta dura que pincha")],
     worked=[
         {"title": "Flores por color", "problem": "Rosa roja, margarita blanca, girasol amarillo, clavel rojo, diente de león amarillo, aromo amarillo. Clasifica por color.", "steps": ["Rojo: rosa y clavel.", "Blanco: margarita.", "Amarillo: girasol, diente de león y aromo."], "answer": "Rojo 2, blanco 1, amarillo 3"},
-        {"title": "Tallos por espinas", "problem": "Apio (blando), pino (duro y rugoso), rosa (con espinas), junco (liso y delgado). Clasifica por si tienen espinas o no.", "steps": ["Con espinas: rosa.", "Sin espinas: apio, pino y junco."], "answer": "Con espinas: rosa. Sin espinas: apio, pino y junco"},
+        {"title": "Tallos por espinas", "problem": "Margarita (blando), pino (duro y rugoso), rosa (con espinas), junco (liso y delgado). Clasifica por si tienen espinas o no.", "steps": ["Con espinas: rosa.", "Sin espinas: margarita, pino y junco."], "answer": "Con espinas: rosa. Sin espinas: margarita, pino y junco"},
     ],
     mistakes=[
         {"wrong": "Pensar que si cambian los grupos, la primera clasificación estaba mala.", "why": "Se cree que hay una sola manera correcta.", "fix": "Si la regla es clara, dos clasificaciones distintas pueden estar correctas."},
@@ -347,7 +347,7 @@ register(
         "apply": [
             ex("Flores amarillas de la tabla: girasol, diente de león y aromo. ¿Cuántas son?", "3", "Son las tres amarillas."),
             arith("El girasol mide 20 cm y la margarita 4 cm. ¿Cuántos centímetros más grande es el girasol?", "20-4", "Se resta la medida de la margarita.", " cm"),
-            ex("Tallos: apio, pino, rosa, junco. ¿Cuál tiene espinas?", "La rosa", "Está en la ficha."),
+            ex("Tallos: margarita, pino, rosa, junco. ¿Cuál tiene espinas?", "La rosa", "Está en la ficha."),
         ],
         "reason": [
             ex("Luz agrupó la rosa y el clavel porque son rojos. Beto las agrupó porque miden menos de 10 cm. ¿Quién está equivocado?", "Ninguno", "Cada uno usa una regla clara."),
@@ -405,13 +405,13 @@ register(
             ex("Ana dice que las 3 flores amarillas miden menos de 5 cm, pero el girasol amarillo mide 20 cm. ¿Qué dato la contradice?", "El girasol de 20 cm", "Veinte cm no es menos de cinco."),
         ],
         "challenge": [
-            ex("Revisa: regla color; rojos: rosa, tomate; verdes: palta; faltan limón y plátano. ¿Qué grupo falta crear?", "Amarillo", "El limón y el plátano son amarillos."),
+            ex("Revisa: regla color; rojos: manzana, tomate; verdes: palta; faltan limón y plátano. ¿Qué grupo falta crear?", "Amarillo", "El limón y el plátano son amarillos."),
             ex("Escribe una pregunta que podría hacerte un compañero sobre tu clasificación.", "Por ejemplo por qué la rosa va en rojo", "Se responde con un dato."),
         ],
     },
     context=[ex("En la feria del curso, Sofía muestra una clasificación de 8 hojas en 3 grupos: 3, 3 y 2. ¿Cuántas hojas clasificó en total?", "8", "Tres más tres más dos son ocho.")],
     selfcheck=[ex("¿Qué debe decir una presentación al comienzo?", "La regla", "Es lo primero."), ex("¿Cuántas partes tiene una buena presentación?", "3", "Regla, grupos y total."), ex("¿Cómo se defiende un grupo?", "Con un dato de la tabla", "La evidencia lo apoya.")],
-    open_task=task("Prepara una presentación de 3 frases con esta tabla: lenteja (café, 0,5 cm), poroto (blanco, 1,5 cm), arveja (verde, 0,8 cm), maíz (amarillo, 1 cm). Clasifica por tamaño: menos de 1 cm y 1 cm y más. Di la regla, los grupos y el total.", "Regla: tamaño. Grupos: menos de 1 cm (lenteja y arveja, 2) y 1 cm y más (poroto y maíz, 2). Total: 4 semillas.", ["dice la regla", "nombra los dos grupos con su cantidad", "dice el total"], ["tres frases", "tabla"], ["omitir la regla", "olvidar una semilla"], "Reconoce las tres partes y pide comprobar que el total sea 4."),
+    open_task=task("Prepara una presentación de 3 frases con esta tabla de ejemplo: lenteja (café, 1 cm), poroto (blanco, 2 cm), semilla de palta (café, 4 cm), maíz (amarillo, 1 cm). Clasifica por tamaño: menos de 2 cm y 2 cm o más. Di la regla, los grupos y el total.", "Regla: tamaño. Grupos: menos de 2 cm (lenteja y maíz, 2) y 2 cm o más (poroto y semilla de palta, 2). Total: 4 semillas.", ["dice la regla", "nombra los dos grupos con su cantidad", "dice el total"], ["tres frases", "tabla"], ["omitir la regla", "olvidar una semilla"], "Reconoce las tres partes y pide comprobar que el total sea 4."),
     reinforce="Cuéntale a alguien de tu casa cómo clasificaste cuatro objetos.",
     extend="Prepara una pregunta que podrían hacerte sobre tu clasificación y su respuesta.",
 )

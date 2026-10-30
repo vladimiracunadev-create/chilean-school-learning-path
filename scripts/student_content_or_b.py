@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 from student_content_ma01_b import task
-from student_lessons import ex, register
+from student_lessons import arith, ex, register
 
 OA4, OA5 = "OR01 OA 04", "OR01 OA 05"
 
@@ -47,12 +47,12 @@ register(
             ex("Eva duerme 5 horas y se siente cansada en clases. ¿Qué rutina cambiaría?", "Acostarse más temprano", "Dormir más horas ayuda a descansar."),
         ],
         "challenge": [
-            ex("Pedro tiene que ordenar: A) desayunar, B) peinarse, C) lavarse los dientes, D) despertarse. ¿En qué orden son posibles los pasos?", "D, A, C, B", "Primero despierta, desayuna, se cepilla y luego se peina."),
-            ex("Una rutina de higiene tiene 4 pasos y se hace 2 veces al día. ¿Cuántos pasos hace en total en un día?", "8", "4 pasos dos veces son 8 pasos."),
+            ex("Ordena la mañana de Pedro: A) desayunar, B) lavarse los dientes, C) despertarse, D) salir al colegio.", "C, A, B, D", "Primero despierta, luego desayuna, se lava los dientes y al final sale."),
+            arith("Una rutina de higiene tiene 4 pasos y se hace 2 veces al día. ¿Cuántos pasos hace en total en un día?", "4+4", "Cuatro pasos de la mañana y cuatro de la noche."),
         ],
     },
     context=[ex("Luis llega de jugar fútbol con la cara sudada y las manos sucias. Su mamá le dice que se lave. ¿Qué dos acciones de higiene puede hacer?", "Lavarse las manos y la cara", "Quita la suciedad y el sudor.")],
-    selfcheck=[ex("¿Dormir ayuda a aprender mejor?", "Sí", "Un cuerpo descansado aprende más."), ex("¿Cuántas veces al día conviene lavarse los dientes?", "Al menos después de comer y antes de dormir", "Así se mantienen limpios."), ex("¿Una rutina se hace en cualquier orden?", "No", "Sigue una secuencia.")],
+    selfcheck=[ex("¿Dormir ayuda a aprender mejor?", "Sí", "Un cuerpo descansado aprende más."), ex("¿Cuándo conviene lavarse los dientes: después de comer y antes de dormir, o una vez a la semana?", "Después de comer y antes de dormir", "Así se mantienen limpios."), ex("¿Una rutina se hace en cualquier orden?", "No", "Sigue una secuencia.")],
     open_task=task("Ordena en tu hoja la rutina de la noche con estos cinco dibujos o frases: pijama, dientes, dormir, cuento, cena. Escribe 1, 2, 3, 4 y 5 en el orden en que los harías. Si tu orden es distinto al del ejemplo, explica por qué.", "1 cena, 2 dientes, 3 pijama, 4 cuento, 5 dormir.", ["usa los cinco pasos", "pone dormir al final", "explica un cambio si lo hay"], ["hoja numerada", "dibujo de los cinco pasos"], ["poner dormir antes de lavarse los dientes", "dejar pasos fuera"], "Valora el orden elegido y sugiere un horario parecido cada día."),
     reinforce="Haz hoy tu rutina de la noche en el orden de tu hoja.",
     extend="Escribe una rutina de mañana con cinco pasos para ir al colegio.",
@@ -99,7 +99,7 @@ register(
         ],
         "challenge": [
             ex("Pedro come variado, toma agua, juega una hora y duerme bien, pero no se lava los dientes ni las manos. ¿Qué cuidado le falta?", "La higiene", "Lavarse es parte del autocuidado."),
-            ex("Una colación tiene un jugo, una manzana y un sándwich de queso. ¿Cuántos alimentos hay?", "3", "Jugo, manzana y sándwich."),
+            ex("Una colación tiene un jugo, una manzana y un sándwich de queso. ¿Cuántas cosas hay en total?", "3", "Jugo, manzana y sándwich son tres cosas."),
         ],
     },
     context=[ex("Eva se va a un cumpleaños donde hay mucha torta y dulces. Antes comió bien en casa. ¿Qué puede hacer para equilibrar?", "Comer un poco de torta y tomar agua", "Una porción pequeña de vez en cuando está bien.")],
@@ -111,18 +111,18 @@ register(
 
 register(
     OA4, 3,
-    materials="Una hoja, lápiz y los casos escritos en cada ejercicio. Lee esta clase con un adulto de confianza cerca.",
+    materials="Una hoja, lápiz y los casos escritos en cada ejercicio. Lee esta clase con un adulto de confianza cerca; si algo te hace sentir mal, díselo a ese adulto.",
     use="Aprenderé que mi cuerpo es mío, que hay partes íntimas que nadie debe tocar ni mirar sin cuidado, y que puedo decir no y pedir ayuda. Sirve para estar seguro.",
     prior=["Sé que mi cuerpo es mío.", "Sé qué es un adulto de confianza."],
     explain=[
-        "Las partes íntimas son las partes del cuerpo que cubre la ropa interior o el traje de baño. Son privadas. Nadie puede tocarlas, pedirte que las toques o pedirte que las muestres, ni sacarte fotos de esas partes. Tampoco tú debes hacerlo con otros.",
-        "A veces un adulto de tu familia o un doctor necesita ayudar con tu higiene o revisar tu salud. Eso debe ser en forma clara, respetuosa y con alguien que tu familia conoce. Si algo no te gusta, puedes decir «no» y avisar a un adulto de confianza.",
-        "Si alguien te toca de una manera que te incomoda o te pide guardar un secreto sobre tu cuerpo, no es tu culpa. Tienes derecho a decir no, alejarte y contárselo a un adulto de confianza. Si el primer adulto no te escucha, cuéntale a otro hasta que te crean.",
+        "Las partes íntimas son las partes del cuerpo que cubre la ropa interior o el traje de baño. Son privadas. Nadie debe tocarlas, ni pedirte que las muestres o las toques, ni sacarte fotos de esas partes. Tampoco tú debes hacerlo con otros.",
+        "A veces un adulto de tu familia te ayuda con tu higiene, o un doctor revisa tu salud. Eso se hace con tu familia sabiendo, en forma clara y respetuosa, y nunca es un secreto. Si algo no te gusta, puedes decir «no» y avisar a un adulto de confianza.",
+        "Si alguien te toca de una manera que te incomoda o te pide guardar un secreto sobre tu cuerpo, no es tu culpa, aunque sea alguien que conoces. Tienes derecho a decir no, alejarte y contárselo a un adulto de confianza. Si el primer adulto no te escucha, cuéntale a otro hasta que te crean.",
     ],
     vocab=[("partes íntimas", "partes del cuerpo que cubre el traje de baño"), ("privado", "algo que es mío y no se muestra a todos"), ("límite", "lo que me gusta o no que hagan conmigo"), ("decir no", "decir con claridad que no quiero algo"), ("contar", "avisar a un adulto de confianza lo que me pasó")],
     worked=[
-        {"title": "Una situación de límite", "problem": "Un conocido le dice a Mía: «Muéstrame cómo es tu ropa interior». ¿Qué debe hacer Mía?", "steps": ["Eso no está bien, porque son partes privadas.", "Mía dice «No» con voz firme.", "Se aleja y se lo cuenta a un adulto de confianza."], "answer": "Decir no, alejarse y contar a un adulto de confianza"},
-        {"title": "Cuidado de salud", "problem": "En el control médico, la doctora revisa a Luis con su mamá presente y le explica lo que hace. ¿Eso es lo mismo?", "steps": ["La doctora explica y está su mamá.", "Es un cuidado de salud con un adulto conocido.", "Luis puede preguntar si tiene dudas."], "answer": "No es lo mismo; es un cuidado de salud con un adulto presente"},
+        {"title": "Una situación de límite", "problem": "Alguien le dice a Mía: «Muéstrame las partes que cubre tu traje de baño». ¿Qué debe hacer Mía?", "steps": ["Eso no está bien, porque son partes privadas.", "Mía dice «No» con voz firme.", "Se aleja y se lo cuenta a un adulto de confianza."], "answer": "Decir no, alejarse y contar a un adulto de confianza"},
+        {"title": "Cuidado de salud", "problem": "En el control médico, la doctora revisa a Luis con su mamá presente y le explica lo que hace. ¿Es una situación de peligro?", "steps": ["La doctora explica y está su mamá.", "Es un cuidado de salud con un adulto conocido y nada es secreto.", "Luis puede preguntar si tiene dudas o decir si algo no le gusta."], "answer": "No es peligro; es un cuidado de salud con un adulto presente"},
     ],
     mistakes=[
         {"wrong": "Pensar que si alguien me pidió un secreto sobre mi cuerpo, debo guardarlo.", "why": "Se dice que los secretos hay que cumplirlos.", "fix": "Un secreto sobre mi cuerpo que me incomoda se cuenta."},
@@ -140,7 +140,7 @@ register(
             ex("¿Qué haces si el primer adulto no te escucha?", "Cuento a otro adulto de confianza", "Insistes hasta que te crean."),
         ],
         "apply": [
-            ex("Un compañero le dice a Beto: «Muéstrame lo que hay bajo tu calzoncillo». ¿Qué hace Beto?", "Dice no, se aleja y cuenta a un adulto", "Es una petición que no corresponde."),
+            ex("Un compañero le dice a Beto: «Muéstrame las partes que cubre tu ropa interior». ¿Qué hace Beto?", "Dice no, se aleja y cuenta a un adulto", "Es una petición que no corresponde."),
             ex("Ana va al médico con su papá. El médico le explica lo que va a revisar. ¿Puede preguntar si algo no entiende?", "Sí", "Tiene derecho a preguntar."),
             ex("Una persona le dice a Tomás: «Es nuestro secreto, no cuentes lo que pasó». Tomás se siente mal. ¿Qué hace?", "Lo cuenta a un adulto de confianza", "Un secreto que incomoda se cuenta."),
         ],
@@ -149,7 +149,7 @@ register(
             ex("Dani cree que si alguien lo tocó es porque él hizo algo mal. ¿Es cierto?", "No", "El adulto debe cuidarlo."),
         ],
         "challenge": [
-            ex("Eva tiene tres adultos de confianza: su mamá, su profesora y su abuela. Si el primero no la escucha, ¿cuántos más puede probar?", "2", "Quedan dos adultos más."),
+            arith("Eva tiene tres adultos de confianza: su mamá, su profesora y su abuela. Si el primero no la escucha, ¿cuántos más puede probar?", "3-1", "Quedan los adultos que no probó."),
             ex("Sofía se viste sola. ¿Tiene que mostrar sus partes íntimas a alguien para vestirse?", "No", "Esas partes son privadas y no se muestran."),
         ],
     },
@@ -166,7 +166,7 @@ register(
     use="Aprenderé a distinguir qué información puedo compartir y cuál debo guardar. Sirve para protegerme en el colegio, la calle y los juegos con pantalla.",
     prior=["Sé mi nombre y que hay cosas privadas.", "Sé qué es un adulto de confianza."],
     explain=[
-        "La información pública es la que puedes decir a muchas personas sin riesgo, como tu nombre de pila en clase o tu comida favorita. La información privada es la que solo debe saber tu familia y los adultos que te cuidan, como tu dirección, tu teléfono, tus contraseñas y las fotos de tu casa.",
+        "La información pública es la que puedes decir a muchas personas sin riesgo, como tu nombre de pila en clase o tu comida favorita. La información privada es la que solo debe saber tu familia y los adultos que te cuidan, como tu dirección, el nombre de tu colegio, tu teléfono, tus contraseñas y las fotos de tu casa.",
         "Puedes usar un semáforo para decidir. Verde: puedo compartir. Amarillo: primero pregunto a un adulto. Rojo: no lo comparto. Tu dirección, tu contraseña y el horario en que estás solo son rojo. Tu juguete favorito puede ser verde.",
         "En internet y en los juegos con pantalla, nadie debe pedirte datos privados ni fotos tuyas. Si alguien lo hace, no respondas, sal de ahí y avisa a un adulto. Nadie se enojará contigo por contarlo.",
     ],
@@ -197,7 +197,7 @@ register(
         ],
         "reason": [
             ex("Beto cuenta a un desconocido cuándo está solo en casa. ¿Por qué es peligroso?", "Porque el desconocido sabe que no hay adultos", "Eso pone a Beto en riesgo."),
-            ex("Dani dice: «Mi nombre de pila es público pero mi apellido y mi dirección no». ¿Tiene razón?", "Sí, en general", "Entre más datos junto, más riesgo hay."),
+            ex("Dani dice: «Mi nombre de pila lo puedo decir en clase, pero mi dirección no». ¿Tiene razón?", "Sí", "El nombre de pila en clase no es riesgo y la dirección es privada."),
         ],
         "challenge": [
             ex("Una tarjeta dice: nombre de pila, dirección, mascota. ¿Cuántos datos son rojo?", "1", "Solo la dirección es privada."),
@@ -219,7 +219,7 @@ register(
     explain=[
         "Un plan de protección son pasos que puedes seguir si algo te incomoda o te asusta. Tiene cuatro pasos: detenerme (decir «no» o «para»), alejarme (irme a un lugar seguro), contar (avisar a un adulto de confianza) y persistir (seguir contando hasta que me escuchen).",
         "Practicar el plan antes ayuda a que sea más fácil usarlo. Lo puedes ensayar con un peluche o con un adulto de confianza. Decir «no» fuerte y claro es una habilidad. También puedes pedir ayuda gritando o corriendo hacia donde hay personas.",
-        "Siempre es válido pedir ayuda. Nunca eres culpable de lo que un adulto o alguien mayor hizo. Si algo te incomoda, aunque no sepas explicarlo bien, cuéntalo. Los adultos de confianza quieren escucharte y cuidarte.",
+        "Siempre es válido pedir ayuda. Nunca eres culpable de lo que otra persona te hizo. Si algo te incomoda, aunque no sepas explicarlo bien, cuéntalo. Los adultos de confianza quieren escucharte y cuidarte.",
     ],
     vocab=[("plan de protección", "pasos para cuidarme si algo me asusta"), ("detenerme", "decir no o para"), ("alejarme", "irme a un lugar seguro"), ("persistir", "seguir intentando hasta que me escuchen"), ("lugar seguro", "donde hay personas que me cuidan")],
     worked=[
@@ -252,12 +252,12 @@ register(
         ],
         "challenge": [
             ex("Ordena el plan: A) contar, B) alejarme, C) detenerme, D) persistir.", "C, B, A, D", "Primero me detengo, luego me alejo, cuento y persisto."),
-            ex("Sofía tiene tres adultos de confianza y los dos primeros no la escucharon. ¿A cuántos más puede contar?", "1", "Queda un adulto."),
+            arith("Sofía tiene tres adultos de confianza y los dos primeros no la escucharon. ¿A cuántos más puede contar?", "3-2", "Queda el adulto que no probó."),
         ],
     },
     context=[ex("En el parque, un adulto que Pedro no conoce le dice: «Ven, te muestro algo». Pedro no sabe qué hacer. ¿Qué pasos sigue?", "Dice no, se aleja hacia su familia, cuenta lo ocurrido", "Sigue el plan de protección.")],
     selfcheck=[ex("¿Decir no fuerte es una forma de protegerme?", "Sí", "Pone un límite claro."), ex("¿Puedo contar a otro adulto si el primero no me escucha?", "Sí", "Se persiste hasta ser escuchado."), ex("¿Es culpa mía si alguien me incomoda?", "No", "Nunca es culpa del niño.")],
-    open_task=task("Lee el caso: «En la plaza, un joven que Mía no conoce le dice: Ven conmigo a ver unos perritos». Dibuja cuatro viñetas con el plan: Mía dice no, se aleja hacia sus cuidadores, cuenta lo que pasó y vuelve a contar si no la entienden. Ensaya la frase «¡No, no voy contigo!» en voz alta.", "Viñeta 1: «¡No, no voy contigo!». Viñeta 2: corre hacia su papá. Viñeta 3: le cuenta. Viñeta 4: repite si hace falta.", ["dibuja los cuatro pasos", "dice la frase con claridad", "incluye a un adulto de confianza"], ["cuatro viñetas", "frase dicha en voz alta"], ["omitir el paso de contar", "quedarse en el lugar"], "Refuerza cada paso y recuerda que puede contar siempre. Si cuenta algo propio, aplica el protocolo del establecimiento."),
+    open_task=task("Lee el caso: «En la plaza, un joven que Mía no conoce le dice: «Ven conmigo a ver unos perritos». Dibuja cuatro viñetas con el plan: Mía dice no, se aleja hacia sus cuidadores, cuenta lo que pasó y vuelve a contar si no la entienden. Ensaya la frase «¡No, no voy contigo!» en voz alta.", "Viñeta 1: «¡No, no voy contigo!». Viñeta 2: corre hacia su papá. Viñeta 3: le cuenta. Viñeta 4: repite si hace falta.", ["dibuja los cuatro pasos", "dice la frase con claridad", "incluye a un adulto de confianza"], ["cuatro viñetas", "frase dicha en voz alta"], ["omitir el paso de contar", "quedarse en el lugar"], "Refuerza cada paso y recuerda que puede contar siempre. Si cuenta algo propio, aplica el protocolo del establecimiento."),
     reinforce="Ensaya con un peluche las palabras «No, para, me voy y voy a contar».",
     extend="Haz una tarjeta con los cuatro pasos y guárdala en tu mochila.",
 )
@@ -291,7 +291,7 @@ register(
         "understand": [
             ex("¿Para qué sirve saludar?", "Para que la otra persona se sienta bienvenida", "Es un gesto de buen trato."),
             ex("¿Qué tiene de bueno decir «por favor»?", "Hace el pedido más amable", "El otro se siente respetado."),
-            ex("¿Qué dos cosas debe tener un pedido claro?", "Qué necesito y a quién se lo pido", "Así el otro entiende."),
+            ex("¿Qué dos cosas tiene un buen pedido?", "Dice qué necesito y es amable (por favor)", "Así el otro entiende y se siente respetado."),
         ],
         "apply": [
             ex("Carla necesita el lápiz rojo de Tomás. Escribe cómo lo pide.", "Por ejemplo: «Tomás, ¿me prestas el lápiz rojo, por favor?»", "Dice qué necesita y pide con amabilidad."),
@@ -354,7 +354,7 @@ register(
             ex("Sofía dice: «Todos hablan a la vez en mi grupo y nadie entiende». ¿Qué regla ayudaría?", "Hablar de a uno por turno", "Así todos se escuchan."),
         ],
         "challenge": [
-            ex("Tres niños quieren hablar en el grupo. Si cada uno habla 1 minuto y esperan en orden, ¿cuántos minutos pasan en total?", "3", "1 minuto cada uno, tres veces."),
+            arith("Tres niños quieren hablar en el grupo. Si cada uno habla 1 minuto y esperan en orden, ¿cuántos minutos pasan en total?", "1+1+1", "Un minuto por cada niño."),
             ex("Rosa interrumpió a Tomás sin querer. ¿Qué frase repara: «Perdón, sigue tú» o ignorarlo?", "«Perdón, sigue tú»", "Reconoce y devuelve el turno."),
         ],
     },
@@ -396,16 +396,16 @@ register(
             ex("¿Qué haces si pierdes algo que te prestaron?", "Aviso y ayudo a buscarlo o arreglarlo", "Así me hago cargo."),
         ],
         "apply": [
-            ex("Al terminar la clase de arte quedan 6 lápices fuera de su caja. Si Dani guarda 2 y Eva guarda 3, ¿cuántos faltan por guardar?", "1", "6 − 2 − 3 = 1."),
+            arith("Al terminar la clase de arte quedan 6 lápices fuera de su caja. Si Dani guarda 2 y Eva guarda 3, ¿cuántos faltan por guardar?", "6-2-3", "Se quitan los que ya guardaron."),
             ex("Tomás ve el estuche de Carla en el suelo. ¿Qué hace: lo pisa, lo deja ahí o lo levanta y se lo avisa?", "Lo levanta y se lo avisa", "Cuida lo de otra persona."),
             ex("Pedro pidió un cuaderno prestado. ¿Cuándo lo devuelve: cuando termine de usarlo o nunca?", "Cuando termine de usarlo", "Lo prestado se devuelve."),
         ],
         "reason": [
             ex("Rosa dejó la silla fuera del puesto y Beto se tropezó. ¿Por qué es importante dejarla en su lugar?", "Para evitar tropezones", "Un salón ordenado es más seguro."),
-            ex("Sofía rompió una regla del curso sin querer y lo contó. ¿Qué mostró?", "Responsabilidad", "Se hizo cargo."),
+            ex("Sofía rompió sin querer una regla de plástico del curso y lo contó. ¿Qué mostró?", "Responsabilidad", "Se hizo cargo."),
         ],
         "challenge": [
-            ex("Hay 4 grupos con 3 niños cada uno. Si cada niño guarda 1 material, ¿cuántos materiales se guardan?", "12", "3 niños por 4 grupos, un material cada uno."),
+            arith("Hay 3 grupos con 2 niños cada uno. Si cada niño guarda 1 material, ¿cuántos materiales se guardan?", "2+2+2", "Dos niños por cada uno de los tres grupos."),
             ex("Ana dice: «No me toca ordenar, lo hará otro». ¿Qué le dirías?", "Que todos ayudan a ordenar", "Entre todos se hace más rápido."),
         ],
     },
@@ -448,7 +448,7 @@ register(
         ],
         "apply": [
             ex("Dani y Rosa quieren el mismo columpio. Escribe un acuerdo con turnos.", "Por ejemplo: «Tú te meces 10 veces y luego yo»", "Define un orden claro."),
-            ex("Eva tiene dos galletas y Tomás no tiene. Ella decide compartir. ¿Cuántas queda cada uno si reparten una a cada uno?", "1", "Cada uno recibe una galleta."),
+            ex("Eva tiene dos galletas y Tomás ninguna. Ella decide compartir y da una a Tomás. ¿Cuántas galletas tiene cada uno ahora?", "1", "Cada uno tiene una galleta."),
             ex("Pedro ve que Sofía no alcanza el libro del estante. Escribe una frase para ofrecer ayuda.", "Por ejemplo: «¿Quieres que te lo alcance?»", "Ofrece sin quitar."),
         ],
         "reason": [
@@ -456,13 +456,13 @@ register(
             ex("Luis no quiere prestar su juguete nuevo hoy. ¿Está mal?", "No", "Puede decidir cuándo compartir."),
         ],
         "challenge": [
-            ex("Hay 6 bloques para Ana y Mía. Si reparten todos por igual, ¿cuántos recibe cada una?", "3", "6 bloques entre 2 son 3."),
+            ex("Hay 6 bloques para Ana y Mía. Los reparten uno a una, por turnos, hasta que no quedan. ¿Cuántos bloques recibe cada una?", "3", "Reparten uno a una: cada niña recibe 3."),
             ex("Una niña dice «no, gracias» a tu ayuda. Luego dice «sí, ahora sí». ¿Puedes ayudar?", "Sí", "Ella cambió de decisión."),
         ],
     },
     context=[ex("En el patio hay un solo balde y dos niños que quieren hacer castillos de arena. Ana dice: «Yo lo uso primero y luego tú». ¿Qué hizo?", "Propuso turnos", "Es una forma de compartir.")],
     selfcheck=[ex("¿Compartir es una decisión?", "Sí", "Nadie obliga a compartir todo."), ex("¿Cómo se ofrece ayuda?", "Preguntando", "El otro responde."), ex("¿Qué es turnarse?", "Usar uno después de otro", "Así todos tienen su momento.")],
-    open_task=task("Lee el caso: «Tomás tiene un juego de bloques y Mía quiere usarlos. Beto está tratando de armar una torre y no logra que se sostenga». Escribe o di una frase para que Mía pida compartir y una frase para que Luis ofrezca ayuda a Beto, y qué hacen si Tomás dice que hoy no.", "Mía: «¿Me prestas los bloques un rato?». Luis: «¿Quieres que te ayude con la torre?». Si Tomás dice no: «Está bien, juego con otra cosa».", ["pide compartir con amabilidad", "ofrece ayuda sin imponer", "respeta un no"], ["tres frases", "dibujo con globos"], ["quitar el juguete", "ayudar sin preguntar"], "Reconoce las frases amables y ayuda a cambiar las que obligan."),
+    open_task=task("Lee el caso: «Tomás tiene un juego de bloques y Mía quiere usarlos. Beto está tratando de armar una torre con otros bloques y no logra que se sostenga. Ana lo mira». Escribe o di una frase para que Mía pida compartir, una frase para que Ana ofrezca ayuda a Beto, y qué hace Mía si Tomás dice que hoy no.", "Mía: «¿Me prestas los bloques un rato?». Ana: «¿Quieres que te ayude con la torre?». Si Tomás dice no: «Está bien, juego con otra cosa».", ["pide compartir con amabilidad", "ofrece ayuda sin imponer", "respeta un no"], ["tres frases", "dibujo con globos"], ["quitar el juguete", "ayudar sin preguntar"], "Reconoce las frases amables y ayuda a cambiar las que obligan."),
     reinforce="Ofrece hoy ayuda a alguien, preguntando primero.",
     extend="Escribe un acuerdo de turnos para usar un juego entre tres niños.",
 )
@@ -513,7 +513,7 @@ register(
     },
     context=[ex("Mía le quitó el juguete a Beto y él lloró. Mía dice: «Te quité el juguete, te pusiste triste. Te lo devuelvo y juguemos juntos». ¿Qué parte es la acción reparadora?", "Te lo devuelvo y juguemos juntos", "Es lo que hace para arreglar.")],
     selfcheck=[ex("¿Una disculpa tiene tres partes?", "Sí", "Qué hice, qué sintió el otro y cómo reparo."), ex("¿Puede el otro necesitar tiempo?", "Sí", "Se respeta su tiempo."), ex("¿Decir solo perdón basta siempre?", "No", "Falta reconocer y reparar.")],
-    open_task=task("Lee el caso: «Ana tiró sin querer la torre de bloques de Luis». Escribe o di una disculpa de tres partes para Ana: qué hizo, cómo se sintió Luis y qué hará para arreglarlo. Puedes elegir esta acción reparadora u otra: ayudar a armar la torre de nuevo.", "«Tiré tu torre. Creo que te pusiste triste. Te ayudo a armarla de nuevo».", ["incluye las tres partes", "propone una acción posible", "respeta el tiempo del otro"], ["disculpa dicha o escrita", "dibujo de la reparación"], ["decir solo perdón", "culpar a Luis"], "Reconoce cada parte y recuerda que reparar es cuidar la relación."),
+    open_task=task("Lee el caso: «Ana tiró sin querer la torre de bloques de Luis». Escribe o di una disculpa de tres partes para Ana: qué hizo, cómo se sintió Luis y qué hará para arreglarlo. Puedes elegir esta acción reparadora u otra: ayudar a armar la torre de nuevo.", "«Tiré tu torre. Creo que te pusiste triste. Te ayudo a armarla de nuevo».", ["incluye las tres partes", "propone una acción posible", "no culpa a la otra persona"], ["disculpa dicha o escrita", "dibujo de la reparación"], ["decir solo perdón", "culpar a Luis"], "Reconoce cada parte y recuerda que reparar es cuidar la relación."),
     reinforce="Repite la disculpa de tres partes con un peluche.",
-    extend="Escribe una situación en que la reparación sea más importante que el castigo y explica por qué.",
+    extend="Escribe una situación en que alguien hizo daño sin querer y cómo podría repararlo.",
 )

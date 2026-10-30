@@ -13,8 +13,8 @@ register(
     use="Aprenderé a observar el cielo en distintos momentos del día y a registrar lo que veo. Sirve para describir el día y la noche con datos.",
     prior=["Sé las horas en punto.", "Sé que el Sol da luz y calor."],
     explain=[
-        "En el día vemos el Sol en el cielo y hay mucha luz. En la noche no vemos el Sol; vemos la Luna y las estrellas, y hay poca luz. Entre el día y la noche el cielo cambia poco a poco: amanece y atardece.",
-        "Para registrar el cielo, anota la hora, qué ves y cuánta luz hay. Registro de ejemplo: a las 8:00 se ve el Sol bajo y hay luz suave; a las 13:00 el Sol está alto y hay mucha luz; a las 19:00 el Sol está bajo y la luz es naranja; a las 22:00 se ven la Luna y estrellas y hay poca luz.",
+        "En el día vemos el Sol en el cielo y hay mucha luz. En la noche no vemos el Sol; vemos las estrellas y, muchas noches, la Luna, y hay poca luz. Entre el día y la noche el cielo cambia poco a poco: amanece y atardece.",
+        "Para registrar el cielo, anota la hora, qué ves y cuánta luz hay. Registro de ejemplo de un día de primavera: a las 8:00 se ve el Sol bajo y hay luz suave; a las 13:00 el Sol está alto y hay mucha luz; a las 19:00 el Sol está bajo y la luz es naranja; a las 22:00 se ven la Luna y estrellas y hay poca luz.",
         "Seguridad: nunca mires directo al Sol, porque daña los ojos. Para saber dónde está, mira la sombra que hace un objeto o la luz en el suelo.",
     ],
     vocab=[("día", "parte del tiempo en que hay luz del Sol"), ("noche", "parte del tiempo con poca luz, sin Sol"), ("amanecer", "momento en que sale el Sol"), ("atardecer", "momento en que el Sol se va escondiendo"), ("luminosidad", "cuánta luz hay")],
@@ -44,14 +44,14 @@ register(
         ],
         "reason": [
             ex("Juan dice que a las 3 de la tarde es de noche porque hace frío. ¿Qué dato muestra que es de día?", "Que se ve el Sol y hay mucha luz", "La luz es la pista."),
-            ex("En un lugar con una luz de calle potente, ¿cómo sabes si es de noche?", "Porque no se ve el Sol y se ven las estrellas", "El Sol es la pista del día."),
+            ex("En una ciudad con muchas luces de calle, ¿qué pista te dice que es de noche?", "Que no se ve el Sol y el cielo está oscuro", "El Sol es la pista del día."),
         ],
         "challenge": [
             ex("Escribe tres cosas que ves en el cielo de día.", "Por ejemplo el Sol, nubes y pájaros", "Son visibles de día."),
             ex("Hay 5 estrellas visibles a las 21:00 y 3 más a las 22:00. ¿Cuántas estrellas ves?", "8", "Cinco más tres son ocho."),
         ],
     },
-    context=[ex("Una niña anota que a las 8:00 salió el Sol y a las 20:30 ya casi no hay luz. ¿Cuántas horas y media de luz anotó? Cuenta de 8:00 a 20:30.", "12 horas y media", "De 8:00 a 20:00 son 12 horas y 30 minutos más.")],
+    context=[ex("Una niña anota que a las 8:00 salió el Sol y a las 20:30 ya casi no hay luz. ¿Cuántas horas de luz anotó, contando de 8:00 a 20:30?", "12 horas y media", "De 8:00 a 20:00 son 12 horas y 30 minutos más.")],
     selfcheck=[ex("¿Qué se ve de noche?", "La Luna y las estrellas", "No hay Sol."), ex("¿Qué se ve de día?", "El Sol", "Da mucha luz."), ex("¿Qué es luminosidad?", "Cuánta luz hay", "Se anota en el registro.")],
     open_task=task("Mira este registro y escribe si cada hora es día o noche y por qué: 6:30 (el Sol sale, luz suave), 12:00 (Sol alto, mucha luz), 18:30 (Sol bajo, luz naranja), 23:00 (Luna y estrellas, poca luz). Dibuja el cielo de dos horas.", "6:30 día porque el Sol sale; 12:00 día con mucha luz; 18:30 día que termina; 23:00 noche con Luna y estrellas. Dibujo: Sol alto a las 12:00 y estrellas a las 23:00.", ["clasifica cada hora", "da una razón con el Sol o la luz", "dibuja dos momentos"], ["tabla", "dibujos"], ["decir que 6:30 es noche sin razón", "mirar al Sol"], "Reconoce las pistas y pide dar una razón con la luz o el Sol."),
     reinforce="Mira desde la ventana a tres horas distintas y dibuja el cielo.",
@@ -94,7 +94,7 @@ register(
             ex("Ordena las sombras de más corta a más larga: 9:00 = 14 cm, 13:00 = 4 cm, 18:00 = 16 cm.", "4 cm, 14 cm, 16 cm", "Cuatro, catorce y dieciséis."),
         ],
         "reason": [
-            ex("Pedro midió la sombra a las 10:00 y a las 15:00 y dijo que eran iguales. Si son 12 cm y 11 cm, ¿qué dato le falta ver?", "Que son parecidas pero no iguales", "Doce y once no son lo mismo."),
+            ex("Pedro midió la sombra de un lápiz a las 10:00 y a las 15:00 y dice que son iguales. Si miden 12 cm y 11 cm, ¿tiene razón?", "No, son parecidas pero no iguales", "Doce y once no son lo mismo."),
             ex("Si por la mañana la sombra de un árbol cae hacia el poniente, ¿por dónde sale el Sol?", "Por el oriente", "La sombra cae al lado contrario del Sol."),
         ],
         "challenge": [
@@ -104,7 +104,7 @@ register(
     },
     context=[ex("Un niño mide la sombra de su lápiz a las 10:00: 9 cm; a las 13:00: 3 cm; a las 17:00: 12 cm. ¿A qué hora es la sombra más corta?", "A las 13:00", "Tres es el menor.")],
     selfcheck=[ex("¿Cuántos momentos tiene el ciclo del día que vimos?", "6", "Amanecer, mañana, mediodía, tarde, atardecer y noche."), ex("¿Por dónde sale el Sol?", "Por el oriente", "Por el este."), ex("¿Cuándo es corta la sombra?", "Al mediodía", "El Sol está alto.")],
-    open_task=task("Ordena las seis tarjetas del día y pega cada una en una tabla con la sombra que le corresponde: amanecer (sombra muy larga), mañana (larga), mediodía (muy corta), tarde (larga), atardecer (muy larga), noche (sin sombra). Dibuja el Sol sale por el oriente.", "Amanecer-muy larga, mañana-larga, mediodía-muy corta, tarde-larga, atardecer-muy larga, noche-sin sombra. Dibujo: Sol sube por la izquierda (oriente) y baja por la derecha (poniente).", ["ordena las seis tarjetas", "une cada una con la sombra", "marca oriente y poniente"], ["tabla", "dibujo"], ["poner la sombra más larga al mediodía", "olvidar la noche"], "Reconoce el orden y pide explicar la sombra del mediodía."),
+    open_task=task("Ordena las seis tarjetas del día y pega cada una en una tabla con la sombra que le corresponde: amanecer (sombra muy larga), mañana (larga), mediodía (muy corta), tarde (larga), atardecer (muy larga), noche (sin sombra). Dibuja cómo el Sol sale por el oriente y se esconde por el poniente.", "Amanecer-muy larga, mañana-larga, mediodía-muy corta, tarde-larga, atardecer-muy larga, noche-sin sombra. Dibujo: Sol sube por la izquierda (oriente) y baja por la derecha (poniente).", ["ordena las seis tarjetas", "une cada una con la sombra", "marca oriente y poniente"], ["tabla", "dibujo"], ["poner la sombra más larga al mediodía", "olvidar la noche"], "Reconoce el orden y pide explicar la sombra del mediodía."),
     reinforce="Con ayuda de un adulto, mide la sombra de un lápiz a tres horas del día.",
     extend="Explica por qué en la noche no hay sombra del Sol.",
 )
@@ -115,7 +115,7 @@ register(
     use="Aprenderé cómo el día y la noche cambian la vida de las personas, los animales y las plantas. Sirve para entender por qué dormimos de noche y cómo se organizan los seres vivos.",
     prior=["Sé el ciclo del día.", "Sé que los seres vivos responden a estímulos como la luz."],
     explain=[
-        "Los seres vivos cambian lo que hacen entre el día y la noche. La mayoría de las personas trabajan o estudian de día y duermen de noche. Muchos pájaros cantan al amanecer. Los gallos cantan al salir el Sol.",
+        "Los seres vivos cambian lo que hacen entre el día y la noche. La mayoría de las personas trabajan o estudian de día y duermen de noche. Muchos pájaros cantan al amanecer. Los gallos suelen cantar al salir el Sol.",
         "Algunos animales son nocturnos, es decir, están activos de noche, como el búho y el murciélago. Otros son diurnos, activos de día, como las abejas. Algunas flores abren de día y se cierran de noche.",
         "El ambiente también cambia. De día hace más calor y de noche más frío. Datos de ejemplo: a las 14:00 hay 24 grados, y a las 4:00 hay 12 grados. Por eso de noche necesitamos más abrigo.",
     ],
@@ -132,7 +132,7 @@ register(
         "recovery": [
             ex("¿El búho es activo de día o de noche?", "De noche", "El búho es un animal nocturno."),
             ex("¿La abeja visita flores de día o de noche?", "De día", "La abeja es un animal diurno."),
-            ex("¿Cuándo canta el gallo?", "Al amanecer", "Responde a la luz del Sol."),
+            ex("¿Cuándo suele cantar el gallo?", "Al amanecer", "A menudo canta cuando sale el Sol."),
         ],
         "understand": [
             ex("¿Qué quiere decir nocturno?", "Que está activo de noche", "Vive de noche."),
@@ -168,7 +168,7 @@ register(
     explain=[
         "La Tierra es como una gran pelota que gira sobre sí misma. Tarda 24 horas, un día completo, en dar una vuelta. El Sol ilumina siempre el lado de la Tierra que mira hacia él. Ese lado tiene día. El otro lado queda a oscuras y tiene noche.",
         "Para hacer un modelo, usa una linterna como el Sol y una naranja como la Tierra. Marca con un palito un punto: esa es tu casa. Gira la naranja lentamente. Cuando tu punto recibe la luz, es de día. Cuando queda a oscuras, es de noche.",
-        "Todos los modelos tienen límites. En tu modelo, la naranja es mucho más pequeña que la Tierra y la linterna está muy cerca del Sol real. Aun así, el modelo ayuda a entender por qué hay día y noche.",
+        "Todos los modelos tienen límites. En tu modelo, la naranja es mucho más pequeña que la Tierra y la linterna está mucho más cerca de la naranja que el Sol real de la Tierra. Aun así, el modelo ayuda a entender por qué hay día y noche.",
     ],
     vocab=[("girar", "dar vueltas sobre uno mismo"), ("iluminar", "dar luz"), ("modelo", "cosa que representa algo real"), ("límite del modelo", "algo que el modelo no muestra bien"), ("vuelta completa", "giro que vuelve al mismo lugar")],
     worked=[
@@ -191,7 +191,7 @@ register(
             ex("En el modelo de día y noche, ¿qué es un límite?", "Algo que el modelo no muestra bien", "Por ejemplo el tamaño real."),
         ],
         "apply": [
-            arith("La Tierra tarda 24 horas en dar una vuelta. ¿Cuántas horas tardan 2 vueltas?", "24*2", "Se multiplica por dos vueltas.", " horas"),
+            arith("La Tierra tarda 24 horas en dar una vuelta. ¿Cuántas horas tardan 2 vueltas?", "24+24", "Se suman las horas de cada vuelta.", " horas"),
             arith("En una ciudad es de día 12 horas y de noche el resto del día de 24 horas. ¿Cuántas horas de noche hay?", "24-12", "Se resta el día del total.", " horas"),
             ex("En el modelo giras la naranja y el punto pasa de la luz a la sombra. ¿Pasó de día a noche o de noche a día?", "De día a noche", "Pasó de recibir luz a estar a oscuras."),
         ],
@@ -219,7 +219,7 @@ register(
     prior=["Sé los meses del año.", "Sé el ciclo del día."],
     explain=[
         "Un año tiene cuatro estaciones: verano, otoño, invierno y primavera. Se repiten siempre en ese orden. Cuando termina la primavera vuelve el verano.",
-        "En Chile, estos son los meses aproximados: verano de diciembre a marzo, otoño de marzo a junio, invierno de junio a septiembre y primavera de septiembre a diciembre. Cada estación dura unos 3 meses.",
+        "En Chile, estos son los meses aproximados: verano, diciembre, enero y febrero; otoño, marzo, abril y mayo; invierno, junio, julio y agosto; primavera, septiembre, octubre y noviembre. Cada estación dura unos 3 meses.",
         "En cada estación el ambiente cambia: en verano hace calor, en otoño caen hojas de algunos árboles, en invierno hace frío y llueve más en la zona centro y sur, y en primavera aparecen muchas flores.",
     ],
     vocab=[("estación", "una de las cuatro partes del año"), ("verano", "estación cálida"), ("otoño", "estación en que caen las hojas de algunos árboles"), ("invierno", "estación fría"), ("primavera", "estación en que hay muchas flores")],
@@ -240,24 +240,24 @@ register(
         "understand": [
             ex("¿Cuántas estaciones tiene un año?", "Cuatro", "Verano, otoño, invierno y primavera."),
             ex("¿Qué es un ciclo de estaciones?", "Un orden que se repite cada año", "Siempre vuelve al verano."),
-            ex("¿Por qué enero es verano en Chile?", "Porque el verano va de diciembre a marzo", "Son los meses aproximados."),
+            ex("¿Por qué enero es verano en Chile?", "Porque el verano incluye diciembre, enero y febrero", "Son los meses aproximados."),
         ],
         "apply": [
             arith("Cada estación dura 3 meses. ¿Cuántos meses duran el verano y el otoño juntos?", "3+3", "Se suman los meses de las dos estaciones.", " meses"),
-            ex("Mes: julio. Tabla: invierno de junio a septiembre. ¿En qué estación está julio?", "En invierno", "Julio está entre junio y septiembre."),
-            ex("Mes: octubre. Tabla: primavera de septiembre a diciembre. ¿En qué estación está octubre?", "En primavera", "Octubre está entre septiembre y diciembre."),
+            ex("Mes: julio. Tabla: invierno es junio, julio y agosto. ¿En qué estación está julio?", "En invierno", "Julio es uno de los meses del invierno."),
+            ex("Mes: octubre. Tabla: primavera es septiembre, octubre y noviembre. ¿En qué estación está octubre?", "En primavera", "Octubre es uno de los meses de la primavera."),
         ],
         "reason": [
             ex("Rosa dice que el verano viene después del invierno. ¿Qué estación falta en medio?", "La primavera", "El orden es invierno, primavera, verano."),
-            ex("Si hoy es abril, ¿en qué estación estás y cómo lo sabes?", "En otoño, porque abril está entre marzo y junio", "La tabla lo indica."),
+            ex("Si hoy es abril, ¿en qué estación estás y cómo lo sabes?", "En otoño, porque el otoño es marzo, abril y mayo", "La tabla lo indica."),
         ],
         "challenge": [
             ex("Escribe los 12 meses agrupados por estación.", "Verano: diciembre, enero y febrero; otoño: marzo, abril y mayo; invierno: junio, julio y agosto; primavera: septiembre, octubre y noviembre", "Cada estación tiene tres meses."),
-            ex("Una estación tiene 3 meses; ¿cuántas estaciones caben en 9 meses?", "3", "Nueve dividido en tres son tres."),
+            ex("Hoy empieza el invierno. ¿Cuántos meses faltan para que empiece el verano?", "6 meses", "Pasan 3 meses de invierno y 3 de primavera: tres más tres son seis."),
         ],
     },
-    context=[ex("Tu cumpleaños es en julio. ¿En qué estación es?", "En invierno", "Julio está entre junio y septiembre.")],
-    selfcheck=[ex("¿Qué estación viene después de la primavera?", "El verano", "El ciclo vuelve a empezar."), ex("¿Cuántos meses dura cada estación?", "Unos 3 meses", "Cuatro por tres son doce."), ex("¿Qué estación es fría?", "El invierno", "Hay frío y lluvia.")],
+    context=[ex("Tu cumpleaños es en julio. ¿En qué estación es?", "En invierno", "Julio es uno de los meses del invierno.")],
+    selfcheck=[ex("¿Qué estación viene después de la primavera?", "El verano", "El ciclo vuelve a empezar."), ex("¿Cuántos meses dura cada estación?", "Unos 3 meses", "Tres más tres más tres más tres son doce meses."), ex("¿Qué estación es fría?", "El invierno", "Hay frío y lluvia.")],
     open_task=task("Completa el reloj de las estaciones con estos meses: enero, abril, julio, octubre. Dibuja un círculo con cuatro partes: escribe la estación de cada mes y un dibujo del ambiente de cada una.", "Enero: verano (sol y calor). Abril: otoño (hojas cayendo). Julio: invierno (lluvia y frío). Octubre: primavera (flores).", ["une cada mes con su estación", "dibuja el ambiente", "respeta el orden"], ["círculo de estaciones", "dibujos"], ["poner enero en invierno", "desordenar las estaciones"], "Reconoce el orden y pide explicar con un dibujo cada estación."),
     reinforce="Escribe qué estación es hoy y cómo lo sabes.",
     extend="Explica qué cambia en tu calle de una estación a otra.",
@@ -304,10 +304,10 @@ register(
         ],
         "challenge": [
             ex("Escribe una semejanza entre otoño y primavera con los datos.", "Ambas tienen temperaturas medias, 20 y 22 grados", "Están entre el calor y el frío."),
-            ex("Suma las horas de luz de las cuatro estaciones de la tabla: 14, 11, 10 y 13.", "48 horas", "Catorce más once más diez más trece son cuarenta y ocho."),
+            ex("¿Cuántas horas de luz más tiene la primavera (13 horas) que el otoño (11 horas)?", "2 horas", "Trece menos once son dos."),
         ],
     },
-    context=[ex("Una familia viaja en verano y en invierno. En verano oscurece a las 21:00 y en invierno a las 18:00. ¿Cuántas horas más tarde oscurece en verano?", "3 horas", "Veintiuno menos dieciocho son tres.")],
+    context=[ex("Una familia viaja en verano y en invierno. En estos datos de ejemplo, en verano oscurece a las 21:00 y en invierno a las 18:00. ¿Cuántas horas más tarde oscurece en verano?", "3 horas", "Veintiuno menos dieciocho son tres.")],
     selfcheck=[ex("¿Cuándo hay más horas de luz?", "En verano", "Los días son más largos."), ex("¿Cuál estación es la más fría del año?", "El invierno", "Su temperatura es la más baja de la tabla."), ex("¿Qué se escribe junto al número 30 en la tabla?", "Grados", "Es la unidad de la temperatura.")],
     open_task=task("Con la tabla de la clase (verano 30 grados y 14 horas; otoño 20 y 11; invierno 13 y 10; primavera 22 y 13), escribe tres comparaciones con números: una entre verano e invierno, una entre otoño y primavera y una de horas de luz. Dibuja una barra para cada estación.", "Verano tiene 17 grados más que invierno. Primavera tiene 2 grados más que otoño. Verano tiene 4 horas de luz más que invierno.", ["escribe tres comparaciones", "usa números con unidad", "dibuja barras"], ["tres frases", "gráfico de barras"], ["olvidar la unidad", "calcular mal"], "Reconoce las comparaciones y pide revisar la unidad en cada una."),
     reinforce="Anota la temperatura de tu pieza esta semana y compárala.",

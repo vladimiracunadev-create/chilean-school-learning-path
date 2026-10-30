@@ -14,17 +14,17 @@ register(
     prior=["Sé la ficha de naturalista.", "Sé que cada ser vivo tiene un hábitat."],
     explain=[
         "En Chile viven plantas y animales muy distintos porque el país es largo y tiene desierto, bosque, cordillera y mar. Algunos viven solo aquí o casi solo aquí, y por eso son parte de lo que nos hace únicos.",
-        "Hoy conocemos seis. El copihue es una flor roja del bosque del sur. La araucaria es un árbol que puede medir unos 40 m. El cóndor es un ave de la cordillera con alas de unos 3 m de punta a punta. El pudú es un ciervo muy pequeño de unos 40 cm. El guanaco mide unos 110 cm. La ranita de Darwin mide unos 3 cm.",
+        "Hoy conocemos seis. El copihue es una flor roja del bosque del sur. La araucaria es un árbol que puede llegar a medir unos 40 m. El cóndor es un ave de la cordillera con alas de unos 3 m de punta a punta. El pudú es un ciervo muy pequeño de unos 40 cm. El guanaco mide unos 110 cm. La ranita de Darwin mide unos 3 cm.",
         "Para describir un ser vivo de Chile usa datos que puedas observar: tamaño, cubierta o forma, y dónde vive. Así puedes compararlo con otro sin confundirte.",
     ],
     vocab=[("biodiversidad", "variedad de plantas y animales que hay en un lugar"), ("copihue", "flor roja del bosque del sur de Chile"), ("araucaria", "árbol alto de la cordillera del sur de Chile"), ("pudú", "ciervo muy pequeño del bosque del sur"), ("cóndor", "ave grande de la cordillera")],
     worked=[
         {"title": "Leer una ficha", "problem": "Pudú: unos 40 cm, pelo café, bosque del sur de Chile. Guanaco: unos 110 cm, pelo café claro, cordillera. ¿Cuál es más alto?", "steps": ["Comparo 40 con 110.", "110 es mayor que 40.", "El guanaco es más alto."], "answer": "El guanaco; unos 70 cm más alto"},
-        {"title": "Unir ser vivo y lugar", "problem": "Copihue, cóndor y ranita de Darwin. Lugares: bosque del sur, cordillera, bosque húmedo del sur. ¿Dónde vive el cóndor?", "steps": ["El cóndor es un ave grande.", "Sus alas lo llevan sobre la cordillera."], "answer": "El cóndor vive en la cordillera"},
+        {"title": "Unir ser vivo y lugar", "problem": "Copihue, cóndor y ranita de Darwin. Lugares: bosque del sur, cordillera, desierto. ¿Dónde vive el cóndor?", "steps": ["El cóndor es un ave grande.", "Sus alas lo llevan sobre la cordillera."], "answer": "El cóndor vive en la cordillera"},
     ],
     mistakes=[
         {"wrong": "Decir que el cóndor es un animal pequeño porque vuela.", "why": "Se mezcla volar con ser pequeño.", "fix": "Mira el dato: sus alas miden unos 3 m de punta a punta."},
-        {"wrong": "Pensar que todas las plantas de Chile son iguales a las de otros países.", "why": "No se conoce la variedad del país.", "fix": "Observa datos: el copihue y la araucaria solo se encuentran en esta zona del mundo."},
+        {"wrong": "Pensar que todas las plantas de Chile son iguales a las de otros países.", "why": "No se conoce la variedad del país.", "fix": "Observa datos: el copihue y la araucaria crecen en el sur de Chile y en zonas cercanas, y no en todos los países."},
     ],
     tiers={
         "recovery": [
@@ -39,7 +39,7 @@ register(
         ],
         "apply": [
             arith("El guanaco mide unos 110 cm y el pudú unos 40 cm. ¿Cuántos centímetros más alto es el guanaco?", "110-40", "Se resta la medida del pudú a la del guanaco.", " cm"),
-            arith("La araucaria puede medir 40 m y el copihue enredado en un árbol alcanza unos 10 m. ¿Cuántos metros más mide la araucaria?", "40-10", "Se resta la medida pequeña a la grande.", " m"),
+            arith("Una araucaria adulta puede medir 40 m (dato de ejemplo) y una araucaria joven mide 5 m. ¿Cuántos metros más mide la adulta?", "40-5", "Se resta la medida pequeña a la grande.", " m"),
             ex("Ficha: unos 3 cm, vive en el bosque húmedo del sur. ¿Qué animal chileno es?", "La ranita de Darwin", "Es el único de la lista con ese tamaño."),
         ],
         "reason": [
@@ -51,7 +51,7 @@ register(
             ex("En una cordillera ves 2 cóndores y 5 guanacos. ¿Cuántos animales ves?", "7", "Dos más cinco son siete."),
         ],
     },
-    context=[ex("Un guía del parque dice que en el bosque del sur hay 3 copihues florecidos, 2 pudúes y 4 ranitas de Darwin en un sendero. ¿Cuántos seres vivos de la lista hay en total?", "9", "Tres más dos más cuatro son nueve.")],
+    context=[ex("Imagina que un guía del parque dice que en el bosque del sur hay 3 copihues florecidos, 2 pudúes y 4 ranitas de Darwin en un sendero. ¿Cuántos seres vivos de la lista hay en total?", "9", "Tres más dos más cuatro son nueve.")],
     selfcheck=[ex("¿El cóndor vive en la cordillera o en el mar?", "En la cordillera", "Es un ave de cerros altos."), ex("¿El copihue es un animal o una planta?", "Una planta", "Es una flor."), ex("¿Qué animal es el más pequeño de la clase?", "La ranita de Darwin", "Mide unos 3 cm.")],
     open_task=task("Escribe una ficha para dos de estos seres vivos de Chile con los datos dados: cóndor (ave, alas de unos 3 m, cordillera), pudú (ciervo, unos 40 cm, bosque del sur), copihue (flor roja, bosque del sur). Dibuja uno.", "Ficha del pudú: ciervo de unos 40 cm, vive en el bosque del sur. Ficha del cóndor: ave con alas de unos 3 m, vive en la cordillera.", ["escribe tres datos por ficha", "usa números con unidad", "dibuja uno"], ["dos fichas", "dibujo"], ["escribir opiniones", "olvidar la unidad"], "Reconoce los datos y pide usar la unidad en cada medida."),
     reinforce="Pregunta a alguien de tu casa qué planta o animal de Chile conoce y descríbelo.",
@@ -66,7 +66,7 @@ register(
     explain=[
         "Comparar es mirar dos cosas y decir en qué se parecen y en qué son distintas. Se hace con una tabla: en cada fila se pone un dato, como tamaño, color o lugar donde vive, y en cada columna un ser vivo.",
         "Ejemplo: el guanaco mide unos 110 cm y vive en la cordillera. El pudú mide unos 40 cm y vive en el bosque del sur. Son parecidos porque los dos tienen pelo, y distintos porque no miden lo mismo ni viven en el mismo lugar.",
-        "Para plantas pasa lo mismo. La araucaria mide unos 40 m y tiene hojas duras y puntiagudas. El copihue es una enredadera de flores rojas. Una buena comparación dice una semejanza y una diferencia con datos.",
+        "Para plantas pasa lo mismo. La araucaria puede medir unos 40 m y tiene hojas duras y puntiagudas. El copihue es una enredadera de flores rojas. Una buena comparación dice una semejanza y una diferencia con datos.",
     ],
     vocab=[("comparar", "mirar dos cosas y ver en qué se parecen y en qué se diferencian"), ("semejanza", "algo que se parece"), ("diferencia", "algo que no es igual"), ("tabla", "cuadro con filas y columnas para ordenar datos"), ("enredadera", "planta que sube enrollándose en otra cosa")],
     worked=[
@@ -90,7 +90,7 @@ register(
         ],
         "apply": [
             arith("El guanaco mide 110 cm y el pudú 40 cm. ¿Cuál es la diferencia de tamaño en centímetros?", "110-40", "Se resta el tamaño menor al mayor.", " cm"),
-            ex("Tabla: araucaria árbol de unos 40 m, copihue enredadera de unos 10 m. ¿Cuántos metros más alta es la araucaria?", "30 m", "Cuarenta menos diez son treinta."),
+            ex("Tabla de ejemplo: araucaria adulta de 40 m y araucaria joven de 5 m. ¿Cuántos metros más alta es la adulta?", "35 m", "Cuarenta menos cinco son treinta y cinco."),
             ex("Cóndor: vuela, plumas. Guanaco: camina, pelo. Escribe una diferencia.", "El cóndor vuela y el guanaco camina", "Se mueven de manera distinta."),
         ],
         "reason": [
@@ -102,8 +102,8 @@ register(
             ex("Hay 3 animales con pelo y 2 con plumas. ¿Cuántos animales hay?", "5", "Tres más dos son cinco."),
         ],
     },
-    context=[ex("En un cartel del parque dice que el cóndor tiene alas de unos 3 m y el picaflor mide unos 10 cm. ¿Cuántos cm miden las alas del cóndor si 3 m son 300 cm, y cuántos cm más grande es?", "300 cm; 290 cm más", "Trescientos menos diez son doscientos noventa.")],
-    selfcheck=[ex("¿Qué se pone en una tabla de comparación?", "Datos", "Se ordenan los datos."), ex("Si dos animales no miden lo mismo, ¿eso es una semejanza o una diferencia?", "Una diferencia", "El tamaño cambia entre los dos."), ex("¿Cuál es más alta, la araucaria o el copihue enredado?", "La araucaria", "Mide unos 40 m.")],
+    context=[ex("Un cartel del parque dice que el pudú mide unos 40 cm y la ranita de Darwin unos 3 cm. ¿Cuántos centímetros más mide el pudú?", "37 cm", "Cuarenta menos tres son treinta y siete.")],
+    selfcheck=[ex("¿Qué se pone en una tabla de comparación?", "Datos", "Se ordenan los datos."), ex("Si dos animales no miden lo mismo, ¿eso es una semejanza o una diferencia?", "Una diferencia", "El tamaño cambia entre los dos."), ex("¿Cuál es una planta: la araucaria o el pudú?", "La araucaria", "El pudú es un animal.")],
     open_task=task("Completa esta tabla de comparación con los datos y escribe una semejanza y una diferencia. Guanaco: unos 110 cm, pelo, camina, cordillera. Cóndor: alas de unos 3 m, plumas, vuela, cordillera.", "Semejanza: los dos viven en la cordillera. Diferencia: el guanaco camina y tiene pelo; el cóndor vuela y tiene plumas.", ["completa la tabla", "escribe una semejanza con dato", "escribe una diferencia con dato"], ["tabla", "dos frases"], ["escribir opiniones", "dar solo diferencias"], "Reconoce la semejanza y pide un segundo dato de diferencia."),
     reinforce="Compara dos plantas de un parque con una tabla de dos columnas.",
     extend="Compara tres seres vivos y busca una semejanza que tengan los tres.",
@@ -111,7 +111,7 @@ register(
 
 register(
     OA5, 3,
-    materials="Este cuaderno con tarjetas de cinco amenazas (basura, incendios, tala de árboles, mascotas sueltas y caza) y cinco necesidades, lápiz y colores.",
+    materials="Este cuaderno con tarjetas de cuatro amenazas (basura, incendios, tala de árboles y mascotas sueltas) y de lo que necesitan los seres vivos, lápiz y colores.",
     use="Aprenderé qué necesitan las plantas y animales de Chile y qué los pone en peligro. Sirve para decidir cómo cuidarlos.",
     prior=["Sé que cada ser vivo necesita agua, alimento y aire.", "Sé que el hábitat les da lo que necesitan."],
     explain=[
@@ -140,9 +140,9 @@ register(
             ex("¿Qué es una medida de cuidado?", "Una acción que protege a un ser vivo", "Evita que se dañe."),
         ],
         "apply": [
-            ex("Tarjetas: basura, incendio, tala, mascota suelta, caza. ¿Cuántas amenazas hay?", "5", "Las cinco hacen daño."),
+            ex("Tarjetas: basura, incendio, tala, mascota suelta. ¿Cuántas amenazas hay?", "4", "Las cuatro hacen daño."),
             ex("Un niño ve una flor y quiere arrancarla. ¿Qué medida de cuidado puede usar?", "Mirarla y dejarla en su lugar", "Así no se le hace daño."),
-            arith("En un sendero ves 3 envases tirados y recoges 2. ¿Cuántos envases quedan por recoger?", "3-2", "Se restan los que ya recogiste.", " envase"),
+            arith("En un sendero ves 3 envases tirados y, con un adulto, recoges 2. ¿Cuántos envases quedan por recoger?", "3-2", "Se restan los que ya recogiste.", " envase"),
         ],
         "reason": [
             ex("Sofía dice que un fuego pequeño en el bosque no es peligroso. ¿Qué respondes con una razón?", "Es peligroso porque el fuego puede crecer y quemar el hogar de los animales", "El fuego se propaga rápido."),
@@ -153,10 +153,10 @@ register(
             ex("Hay 4 medidas de cuidado en un afiche y 2 amenazas. ¿Cuántas cosas hay en el afiche?", "6", "Cuatro más dos son seis."),
         ],
     },
-    context=[ex("En un paseo, un grupo de 6 niños recoge 2 bolsas de basura cada uno en un sendero. ¿Cuántas bolsas recogen entre todos si cada niño recoge 2?", "12", "Seis niños por dos bolsas son doce bolsas.")],
+    context=[ex("En un paseo, un grupo de 3 niños recoge 2 bolsas de basura cada uno en un sendero, con un adulto. ¿Cuántas bolsas recogen entre todos?", "6", "Dos más dos más dos son seis bolsas.")],
     selfcheck=[ex("¿Qué es una amenaza?", "Algo que hace daño", "Pone en riesgo."), ex("¿Se debe arrancar una planta silvestre?", "No", "Sirve de alimento y refugio."), ex("¿Qué puede hacer el fuego en un bosque?", "Quemar el hogar de los animales", "Destruye sus refugios.")],
     open_task=task("Mira la situación: una familia va a un cerro con perro, comida y fósforos. Escribe tres cosas que pueden hacer daño al lugar y tres medidas de cuidado. Dibuja una.", "Daños: dejar basura, soltar al perro, hacer fuego. Medidas: llevarse la basura, mantener al perro con correa, no hacer fuego.", ["escribe tres amenazas", "escribe tres medidas", "une cada medida con su amenaza"], ["tabla de dos columnas", "dibujo"], ["escribir medidas que no cuidan", "no unir cada una"], "Reconoce las medidas y pide unir cada una con su amenaza."),
-    reinforce="Recoge y botá en su lugar tres papeles que veas en el suelo, con un adulto.",
+    reinforce="Con un adulto, recoge y bota en su lugar tres papeles que veas en el suelo. No toques vidrios ni nada que pinche.",
     extend="Explica por qué un ser vivo en peligro necesita que se cuide su hábitat.",
 )
 
@@ -204,7 +204,7 @@ register(
             ex("En un plan hay 3 acciones de los niños y 2 de los adultos. ¿Cuántas acciones tiene el plan?", "5", "Tres más dos son cinco."),
         ],
     },
-    context=[ex("Un humedal tiene 15 patos y los niños quieren que no los asusten. Si pegan 3 carteles en cada uno de los 2 senderos, ¿cuántos carteles pegan?", "6", "Tres carteles por dos senderos son seis carteles.")],
+    context=[ex("Un humedal tiene 15 patos y los niños quieren que no los asusten. Si pegan 3 carteles en un sendero y 3 en otro, ¿cuántos carteles pegan?", "6", "Tres más tres son seis carteles.")],
     selfcheck=[ex("¿Qué tres preguntas responde un plan?", "Qué, quién y cuándo", "Son las tres partes."), ex("¿Se puede cuidar un lugar sin hacer nada?", "No", "Hay que actuar."), ex("¿Qué se hace al revisar un plan?", "Ver si ayudó", "Se compara antes y después.")],
     open_task=task("Elige uno de estos lugares y arma un plan de tres acciones con qué, quién y cuándo: A) un humedal con aves y basura; B) un bosque con riesgo de fuego; C) una cordillera con plantas pisadas. Dibuja el lugar con un cartel de cuidado.", "Lugar A. Qué: recoger basura. Quién: niños con un adulto. Cuándo: cada sábado. Qué: pegar un cartel. Quién: el curso. Cuándo: este mes. Qué: no gritar. Quién: todos. Cuándo: siempre.", ["elige un lugar", "escribe tres acciones", "dice qué, quién y cuándo"], ["plan de tres filas", "dibujo con cartel"], ["acciones imposibles", "olvidar quién o cuándo"], "Reconoce el plan y pide completar quién y cuándo en cada acción."),
     reinforce="Haz un cartel con un mensaje de cuidado para tu calle.",
@@ -269,7 +269,7 @@ register(
     use="Aprenderé qué información da cada sentido: colores, sonidos, olores, sabores y cómo se sienten las cosas. Sirve para describir objetos con palabras exactas.",
     prior=["Sé nombrar los cinco sentidos.", "Sé que cada sentido tiene un órgano."],
     explain=[
-        "Cada sentido nos da información distinta. La vista nos dice colores, formas y tamaños. El oído nos dice si un sonido es fuerte o suave, agudo o grave. El olfato nos dice olores como dulce o fuerte.",
+        "Cada sentido nos da información distinta. La vista nos dice colores, formas y tamaños. El oído nos dice si un sonido es fuerte o suave. El olfato nos dice olores como dulce o fuerte.",
         "El gusto nos dice si algo es dulce, salado, ácido o amargo. El tacto nos dice si algo es liso o áspero, frío o caliente, blando o duro. Para describir bien un objeto usamos varios sentidos.",
         "Un juego sirve para practicar: con los ojos vendados, un amigo te da una cuchara, un algodón o una manzana. Con el tacto dices si es liso, blando o duro. Por seguridad, nunca pruebes algo sin que un adulto lo sepa.",
     ],
@@ -299,7 +299,7 @@ register(
             arith("Pruebas 4 alimentos dulces y 3 ácidos que un adulto te dio. ¿Cuántos alimentos probaste?", "4+3", "Se suman los alimentos.", " alimentos"),
         ],
         "reason": [
-            ex("Lila dice que sabe si una sopa está caliente con el gusto. ¿Con qué sentido se nota primero el calor?", "Con el tacto", "La piel y la lengua sienten la temperatura."),
+            ex("Lila dice que sabe si una sopa está caliente con el gusto. ¿Con qué sentido se nota primero el calor?", "Con el tacto", "La piel siente el calor; por eso conviene acercar la mano al plato antes de probar."),
             ex("Si tienes la nariz tapada, ¿qué sentido se te hace más difícil?", "El olfato", "No pasa el olor."),
         ],
         "challenge": [
@@ -310,13 +310,13 @@ register(
     context=[ex("En la feria hueles frutillas, ves su color rojo y las tocas con la mano. ¿Qué tres sentidos usaste?", "Olfato, vista y tacto", "Oler, ver y tocar.")],
     selfcheck=[ex("¿Qué sabores conoces?", "Dulce, salado, ácido y amargo", "Son los de la clase."), ex("¿Qué sentido dice si algo es liso o áspero?", "El tacto", "La textura se siente con la piel."), ex("¿Se debe probar un objeto desconocido?", "No", "Puede ser peligroso.")],
     open_task=task("Describe con tres sentidos esta lista de objetos: un limón, un algodón y una campana. Para el limón usa vista, olfato y gusto; para el algodón tacto; para la campana oído. Escribe una palabra por sentido y nombra el órgano.", "Limón: vista amarillo (ojos), olfato fuerte (nariz), gusto ácido (lengua). Algodón: tacto blando (piel). Campana: oído sonido fuerte (orejas).", ["usa una palabra por sentido", "nombra el órgano", "respeta la lista"], ["tabla", "dibujo"], ["usar una palabra general como «lindo»", "proponer probar objetos desconocidos"], "Reconoce la información de cada sentido y pide una palabra más específica."),
-    reinforce="Con los ojos tapados, toca tres objetos de tu casa y dime cómo son.",
+    reinforce="Con los ojos tapados, toca tres objetos seguros de tu casa y di cómo son.",
     extend="Explica por qué la sopa hirviendo se debe probar con cuidado.",
 )
 
 register(
     OA6, 3,
-    materials="Este cuaderno con la tabla de un experimento (comer con la nariz tapada, datos de ejemplo), lápiz y colores. En casa: trozos pequeños de manzana y pera, un pañuelo y un adulto que ayude.",
+    materials="Este cuaderno con la tabla de un experimento (comer con la nariz tapada, datos de ejemplo), lápiz y colores. En casa: trozos pequeños de manzana y pera, y un adulto que ayude. Si alguien es alérgico a una fruta, no la pruebes. Come sentado.",
     use="Aprenderé que los sentidos trabajan juntos. Sirve para entender por qué la comida sabe distinto cuando estás resfriado.",
     prior=["Sé qué información da cada sentido.", "Sé leer una tabla con números."],
     explain=[
@@ -360,7 +360,7 @@ register(
     },
     context=[ex("Marta está resfriada y su sopa le parece sin sabor. Su papá, que no está resfriado, dice que está rica. ¿Qué sentido ayuda a su papá?", "El olfato", "Con la nariz libre siente el olor de la sopa.")],
     selfcheck=[ex("¿Los sentidos trabajan solos o juntos?", "Juntos", "El cerebro junta la información."), ex("¿Qué sentido ayuda al gusto?", "El olfato", "El olor ayuda a reconocer sabores."), ex("¿Cuántos niños acertaron con la nariz destapada?", "6", "Acertaron todos los niños.")],
-    open_task=task("Con estos datos de otro grupo escribe una conclusión: 5 niños probaron pera con la nariz destapada y acertaron 5. Probaron manzana con la nariz tapada y acertaron 1. Cita los números y explica por qué.", "Con la nariz destapada acertaron 5 de 5 y con la nariz tapada solo 1 de 5. El olfato ayuda al gusto.", ["cita los dos números", "compara", "explica con el olfato"], ["frase con números", "dibujo"], ["no usar los números", "concluir sin comparar"], "Reconoce la comparación y pide citar los dos números."),
+    open_task=task("Con estos datos de otro grupo escribe una conclusión: 5 niños probaron la misma fruta, una pera, dos veces: con la nariz destapada acertaron 5 y con la nariz tapada acertaron 1 (datos de ejemplo). Cita los números y explica por qué.", "Con la nariz destapada acertaron 5 de 5 y con la nariz tapada solo 1 de 5. El olfato ayuda al gusto.", ["cita los dos números", "compara", "explica con el olfato"], ["frase con números", "dibujo"], ["no usar los números", "concluir sin comparar"], "Reconoce la comparación y pide citar los dos números."),
     reinforce="Con ayuda de un adulto, pruébense dos alimentos con la nariz tapada y destapada.",
     extend="Explica por qué se come mejor cuando el plato huele rico.",
 )
@@ -372,7 +372,7 @@ register(
     prior=["Sé qué información da cada sentido.", "Sé que los sentidos trabajan juntos."],
     explain=[
         "Los sentidos se pueden dañar. Mirar directo al Sol daña los ojos. Un ruido muy fuerte o un volumen muy alto daña los oídos. Meter objetos pequeños en las orejas o la nariz es peligroso. Tocar algo muy caliente quema la piel.",
-        "Hay medidas de protección. Usa sombrero y lentes de sol cuando haya mucha luz. Baja el volumen de los audífonos. No te metas nada en las orejas ni en la nariz. Lava tus manos antes de tocarte los ojos. Pide ayuda a un adulto con ollas y estufas.",
+        "Hay medidas de protección. Usa sombrero, lentes de sol y protector solar cuando haya mucha luz. Baja el volumen de los audífonos. No te metas nada en las orejas ni en la nariz. Lava tus manos antes de tocarte los ojos. Pide ayuda a un adulto con ollas y estufas.",
         "Antes de explorar algo desconocido, pregunta a un adulto. No pruebes plantas, productos de limpieza ni medicamentos. Ante una situación de riesgo, aléjate y avisa a un adulto.",
     ],
     vocab=[("riesgo", "posibilidad de que algo haga daño"), ("protección", "cuidado para evitar un daño"), ("volumen", "qué tan fuerte suena"), ("quemadura", "daño en la piel por algo muy caliente"), ("avisar", "decir a un adulto lo que pasa")],
@@ -405,11 +405,11 @@ register(
             ex("Ana usa audífonos con el volumen al máximo porque le gusta. ¿Qué riesgo corre?", "Dañarse los oídos", "El ruido fuerte los daña."),
         ],
         "challenge": [
-            ex("Escribe una medida de protección para cada sentido: vista, oído y tacto.", "Por ejemplo lentes de sol, bajar el volumen y guantes para algo caliente", "Cada una evita un daño."),
+            ex("Escribe una medida de protección para cada sentido: vista, oído y tacto.", "Por ejemplo lentes de sol, bajar el volumen y no tocar algo caliente y pedir ayuda a un adulto", "Cada una evita un daño."),
             ex("Una familia tiene 4 pares de lentes de sol y 3 sombreros. ¿Cuántos objetos de protección hay?", "7", "Cuatro más tres son siete."),
         ],
     },
-    context=[ex("Un niño se queda 2 horas en la playa al mediodía sin sombrero ni lentes. ¿Qué dos sentidos u órganos protegerías con medidas?", "Los ojos y la piel", "El Sol daña ojos y piel.")],
+    context=[ex("Un niño se queda 2 horas en la playa al mediodía sin sombrero ni lentes. ¿Qué dos partes del cuerpo hay que proteger del Sol?", "Los ojos y la piel", "El Sol daña ojos y piel.")],
     selfcheck=[ex("¿Qué se usa para proteger los ojos del Sol?", "Lentes de sol", "Filtran la luz."), ex("¿Qué haces ante un riesgo?", "Aviso a un adulto", "Es la primera medida."), ex("¿Qué órgano se daña con ruidos muy fuertes?", "Las orejas", "Allí está el oído.")],
     open_task=task("Mira estas tres situaciones y escribe el riesgo, el sentido que se podría dañar y una medida de protección. 1) Un niño mira un eclipse sin protección. 2) Un grupo escucha música con el volumen al máximo. 3) Una niña toca una plancha encendida.", "1) Riesgo: daño en los ojos; sentido: vista; medida: no mirar el Sol. 2) Riesgo: daño en los oídos; oído; bajar el volumen. 3) Riesgo: quemadura; tacto; no tocarla y avisar a un adulto.", ["nombra el riesgo", "nombra el sentido", "propone una medida"], ["tabla de tres filas", "dibujo"], ["no nombrar el sentido", "medidas poco seguras"], "Reconoce el riesgo y pide una medida clara para cada situación."),
     reinforce="Haz un cartel con una regla para cuidar tus ojos.",

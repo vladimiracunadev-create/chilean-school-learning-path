@@ -3,7 +3,7 @@
 OA LS03 (palabras, toponimia y antroponimia culturalmente significativas) y OA LS04 (relatos e información
 cultural). No se inventa ninguna palabra, nombre ni relato de un pueblo. Los textos y mapas de práctica son
 originales, en castellano, creados para este cuaderno y declarados como tales. Hechos generales usados:
-«mari mari» (saludo en mapuzugun), «Rapa Nui» (nombre de la isla en la lengua de su pueblo), «mapuche»
+«mari mari» (saludo en mapuzugun), «Rapa Nui» (nombre con que se conoce a la isla y a su pueblo), «mapuche»
 (pueblo). Todo lo demás lo enseña el educador/a tradicional o la comunidad.
 """
 from __future__ import annotations
@@ -81,7 +81,7 @@ register(
     prior=["Sé decir norte y sur.", "Sé que los lugares tienen nombre."],
     explain=[
         "La toponimia es el estudio de los nombres de los lugares. Los nombres de ríos, cerros, valles e islas cuentan algo del territorio y de las personas que viven ahí. Muchos lugares de Chile tienen nombres que vienen de lenguas de pueblos originarios.",
-        "Un ejemplo seguro es Rapa Nui: es el nombre de la isla en la lengua de su pueblo y también el nombre de ese pueblo. Para entender un nombre, miro el lugar, pregunto quién lo nombró y cuál es su historia. No adivino el significado.",
+        "Un ejemplo es Rapa Nui: es el nombre con que se conoce a la isla y también a su pueblo. Para entender un nombre, miro el lugar, pregunto quién lo nombró y cuál es su historia. No adivino el significado.",
         "Hoy practico con un mapa inventado en castellano para aprender a relacionar un nombre con un lugar. Con nombres reales de un territorio, pregunto al educador o a la educadora tradicional o a la comunidad.",
     ],
     vocab=[("toponimia", "nombres de los lugares"), ("territorio", "lugar donde vive y se desarrolla un pueblo"), ("río", "agua que corre"), ("cerro", "elevación del terreno"), ("Rapa Nui", "nombre de la isla y del pueblo rapanui")],
@@ -206,7 +206,7 @@ register(
         w("Aceptar una corrección", "El educador te corrige cómo decir el saludo. ¿Qué haces?", ["Escucho.", "Repito despacio.", "Agradezco."], "escucho, repito y agradezco"),
     ],
     mistakes=[
-        {"wrong": "Decir «mari mari» como broma o al despedirme.", "why": "No es su ocasión de uso.", "fix": "Lo digo solo al saludar."},
+        {"wrong": "Decir «mari mari» como broma.", "why": "Es un saludo y no un chiste.", "fix": "Lo digo solo al saludar."},
         {"wrong": "Enojarme con la corrección.", "why": "Me ayuda a aprender.", "fix": "Agradezco y repito."},
     ],
     tiers={
@@ -222,11 +222,11 @@ register(
         ],
         "apply": [
             ex("Ordena: A) agradezco B) escucho C) respondo. Escribe 3 letras.", "B, C, A", "Primero escucho, luego respondo y agradezco."),
-            ex("Situaciones: A) llega una visita B) me despido. ¿En cuál digo «mari mari»?", "A", "Es un saludo."),
+            ex("Situaciones: A) llega una visita B) dibujo solo en mi puesto. ¿En cuál digo «mari mari»?", "A", "Es un saludo."),
             ex("Diálogo: «Mari mari». «Mari mari. ¿Cómo estás?». ¿Cuántas veces se dice el saludo?", "2", "Una vez cada persona."),
         ],
         "reason": [
-            ex("Un niño usa «mari mari» para despedirse. ¿Qué le dices?", "que es un saludo para llegar", "No es para despedirse."),
+            ex("Un niño usa «mari mari» para hacer reír a todos. ¿Qué le dices?", "que es un saludo y no un chiste", "Es una expresión para saludar con respeto."),
             ex("¿Por qué no uso expresiones que no estoy seguro de conocer?", "porque puedo equivocarme", "Mejor pregunto antes."),
         ],
         "challenge": [
@@ -340,7 +340,7 @@ register(
         "apply": [
             ex(f"{NOTE} «Usaron harina, agua y sal». ¿Cuántos ingredientes usaron?", "3", "Harina, agua y sal."),
             ex(f"{NOTE} «Repartieron seis panes entre tres vecinos». ¿Cuántos panes dieron a cada vecino?", "2", "Seis panes entre tres vecinos dan dos cada uno."),
-            ex(f"{NOTE} «Trabajaron dos horas». ¿Cuántos minutos son dos horas (1 hora son 60 minutos)?", "120", "Dos veces sesenta son ciento veinte."),
+            ex(f"{NOTE} «Trabajaron dos horas». Si trabajan una hora más, ¿cuántas horas serían en total?", "3", "Dos horas más una hora son tres horas."),
         ],
         "reason": [
             ex("Lola dice que usaron huevos. ¿Está en el texto?", "No", "El texto no lo menciona."),
@@ -464,10 +464,10 @@ register(
         ],
         "challenge": [
             ex("Dos frases: A) «Ya sé todo» B) «Aprendí esto y quiero preguntar aquello». ¿Cuál reconoce límites?", "B", "B pide más información."),
-            ex("Una respuesta tiene aprendizaje y agradecimiento pero no pregunta. ¿Cuántas de las 3 partes tiene si no incluye procedencia?", "1", "Solo tiene el aprendizaje."),
+            ex("Una respuesta tiene solo el aprendizaje y un gracias. ¿Cuántas de las 3 partes del cierre tiene (aprendizaje, procedencia, pregunta)?", "1", "El gracias es un buen agregado, pero solo el aprendizaje es una de las 3 partes."),
         ],
     },
-    context=[ex("Una persona mayor de la comunidad comparte un relato en tu escuela. Al terminar tu curso dice gracias. ¿Qué parte del cierre es el gracias?", "el agradecimiento", "Reconoce a quien compartió.")],
+    context=[ex("Una persona mayor de la comunidad comparte un relato en tu escuela. Ahora haces tu cierre. ¿Con qué parte empiezas: aprendizaje, procedencia o pregunta?", "el aprendizaje", "El cierre empieza con lo que aprendí.")],
     selfcheck=[ex("¿Qué tres partes tiene un buen cierre?", "aprendizaje, procedencia y pregunta", "Son las tres."), ex("Si me falta un dato sobre el relato, ¿qué digo?", "no sé y lo voy a preguntar", "Soy honesto y pregunto."), ex("¿Un relato cuenta toda la cultura?", "No", "Es una parte.")],
     open_task=task(
         "Pide a un adulto que lea: «Marta y su papá juntaron leña seca para el invierno». Escribe tu cierre en tres partes: lo que aprendí, de dónde viene el relato (relato de práctica) y una pregunta. Además escribe una cosa que no sabes. Presenta tu pregunta al educador/a tradicional o a la comunidad.",

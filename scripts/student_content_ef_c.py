@@ -26,7 +26,7 @@ register(
     prior=["Sé caminar, trotar suave y saltar con control.", "Sé mirar el reloj."],
     explain=[
         "Activar el cuerpo progresivamente significa empezar suave y subir el esfuerzo poco a poco. Primero caminas, después trotas suave, luego saltas más y recién después juegas con más fuerza. Así tu corazón, tus pulmones y tus músculos se preparan.",
-        "Para saber cuánto esfuerzo haces, usa la escala del habla. " + SCALE + " En esta clase quedarás entre 2 y 3, y solo al final llegarás cerca de 3.",
+        "Para saber cuánto esfuerzo haces, usa la escala del habla. " + SCALE + " En esta clase quedarás entre los niveles 1 y 3.",
         "No partas al máximo. Si partes muy fuerte, te cansas rápido y puedes lastimarte. Después de cada tramo bebe unos sorbos de agua si tienes sed. Si te mareas, te duele algo o no puedes hablar, paras y avisas a un adulto.",
     ],
     vocab=[("progresivo", "poco a poco, de menos a más"), ("calentar", "preparar el cuerpo antes de jugar fuerte"), ("esfuerzo", "cuánto trabaja mi cuerpo"), ("moderado", "esfuerzo en que puedo hablar frases cortas"), ("vigoroso", "esfuerzo fuerte en que solo digo palabras sueltas")],
@@ -57,7 +57,7 @@ register(
             ex("Ana trota y puede conversar con facilidad. ¿Qué debería hacer para llegar a esfuerzo moderado: ir un poco más rápido o quedarse igual?", "Ir un poco más rápido", "Conversar fácil es nivel 2; el moderado es 3."),
         ],
         "challenge": [
-            ex("Haz un calentamiento de 4 tramos y marca el nivel de la escala de cada uno en este orden: 1, 2, 2, 3. ¿Cuántos tramos están por debajo del nivel 3?", "3", "1, 2 y 2 son menores que 3."),
+            ex("Un calentamiento de 4 tramos tuvo estos niveles de la escala, en orden: 1, 2, 2, 3. ¿Cuántos tramos estuvieron por debajo del nivel 3?", "3", "1, 2 y 2 son menores que 3."),
             arith("Un calentamiento de 80 segundos y un juego de 120 segundos. ¿Cuántos segundos son juntos?", "80+120", "Se suman los dos tiempos.", " segundos"),
         ],
     },
@@ -116,7 +116,7 @@ register(
         ],
         "challenge": [
             arith("Si haces 3 vueltas y cada una dura 4 minutos, ¿cuántos minutos son en total?", "3*4", "Se multiplican vueltas por minutos.", " minutos"),
-            ex("Tu meta es 12 minutos moderados al día. Ya hiciste 8 minutos hoy. ¿Cuántos minutos te faltan?", "4", "12 menos 8 son 4."),
+            ex("Tu meta de hoy en el circuito es de 12 minutos. Ya hiciste 8 minutos. ¿Cuántos minutos te faltan?", "4", "12 menos 8 son 4."),
         ],
     },
     context=[ex("En casa tienes un pasillo y haces el circuito con zapatos como conos. Un hermano pequeño se mete al camino. ¿Qué haces: A) lo esquivas corriendo, B) detienes el circuito y esperas a que salga, C) sigues igual?", "B", "Detener evita choques.")],
@@ -141,7 +141,7 @@ register(
     use="Aprenderé a reconocer un tramo vigoroso y a recuperarme después. Sirve para jugar más intenso un rato y descansar bien.",
     prior=["Sé usar la escala del habla.", "Sé hacer un calentamiento."],
     explain=[
-        "Un intervalo es un tramo de esfuerzo fuerte seguido de un descanso. En el juego «La carrera de los conos» corres suave entre cuatro conos durante 50 segundos y luego caminas 50 segundos para recuperarte. Se repite tres veces.",
+        "Un intervalo es un tramo de esfuerzo fuerte seguido de un descanso. En el juego «La carrera de los conos» corres rápido, pero con control, entre cuatro conos durante 50 segundos y luego caminas 50 segundos para recuperarte. Se repite tres veces.",
         "El esfuerzo vigoroso es nivel 4: solo dices palabras sueltas. No dura mucho; por eso viene un descanso. " + SCALE + " Si llegas a 5, paras al instante, caminas despacio y bebes agua.",
         "Recuperar es volver a respirar tranquilo. Sabes que te recuperaste cuando puedes hablar con frases cortas o conversar. Mientras te recuperas, camina, no te sientes de golpe y no pares quieto de inmediato.",
     ],
@@ -166,7 +166,7 @@ register(
         "apply": [
             arith("Un intervalo tiene 50 de acción y 50 de pausa. ¿Cuántos segundos son?", "50+50", "Se suman.", " segundos"),
             arith("Haces 3 intervalos de 50 segundos de acción. ¿Cuántos segundos de acción?", "3*50", "Se multiplican.", " segundos"),
-            arith("Tres intervalos duran 100 segundos cada uno. ¿Cuántos minutos y segundos son? Responde en segundos.", "100*3", "Se multiplican intervalos por segundos.", " segundos"),
+            arith("Tres intervalos duran 100 segundos cada uno. ¿Cuántos segundos son en total?", "100*3", "Se multiplican intervalos por segundos.", " segundos"),
         ],
         "reason": [
             ex("Ema se sienta de golpe tras correr y siente mareo. ¿Qué debió hacer?", "Caminar despacio antes de sentarse", "El cuerpo necesita bajar el ritmo."),
@@ -183,7 +183,7 @@ register(
         ex("¿Qué haces en la pausa?", "Caminas y recuperas", "Vuelves a respirar tranquilo."),
         ex("Si haces 3 intervalos de 50 segundos de acción, ¿cuántos segundos son?", "150", "3 por 50 son 150."),
     ],
-    open_task=task("Con un cuadrado de 4 × 4 m y cuatro conos (o zapatos), juega «La carrera de los conos»: trota suave de cono en cono por 50 segundos, y luego camina 50 segundos. Repite 3 veces. Después de cada tramo fuerte anota tu nivel (1 a 5) y después de cada pausa anota si ya hablabas frases cortas (sí/no).",
+    open_task=task("Con un cuadrado de 4 × 4 m y cuatro conos (o zapatos), juega «La carrera de los conos»: corre rápido, pero con control, de cono en cono por 50 segundos, y luego camina 50 segundos. Repite 3 veces. Después de cada tramo fuerte anota tu nivel (1 a 5) y después de cada pausa anota si ya hablabas frases cortas (sí/no).",
                    "Tramo 1: nivel 4, pausa: sí. Tramo 2: nivel 4, pausa: sí. Tramo 3: nivel 4, pausa: sí. Nunca llegué al nivel 5.",
                    ["alcanza un tramo vigoroso (nivel 4)", "recupera en cada pausa", "no llega al nivel 5"],
                    ["tabla con niveles", "observación de un adulto", "relato oral"],
@@ -200,7 +200,7 @@ register(
     prior=["Sé usar la escala del habla.", "Sé hacer intervalos."],
     explain=[
         "Regular el esfuerzo es subir o bajar la intensidad según las señales de tu cuerpo. Las señales son: cuánto puedes hablar, cuánto respiras, si sudas y si te sientes cansado. " + SCALE,
-        "Un adulto muestra tarjetas. «Sube el ritmo» significa pasar de un nivel al siguiente. «Mantén» significa seguir igual. «Baja el ritmo» significa pasar a un nivel menor. Tú decides cómo hacerlo: por ejemplo, subes trotando más rápido o bajas caminando.",
+        "Un adulto muestra tarjetas. «Sube el ritmo» significa pasar de un nivel al siguiente. «Mantén» significa seguir igual. «Baja el ritmo» significa pasar a un nivel menor. Tú decides cómo hacerlo: por ejemplo, subes trotando más rápido o bajas caminando. Si estás en el nivel 4, «sube el ritmo» no se hace: te quedas en 4.",
         "El mejor esfuerzo no es el máximo, sino el que puedes sostener sin pasar al nivel 5. Si sientes dolor, mareo o falta de aire, dejas el juego y avisas a un adulto, aunque falte tiempo.",
     ],
     vocab=[("regular", "ajustar para que quede bien"), ("intensidad", "cuán fuerte es el esfuerzo"), ("señal del cuerpo", "lo que siento al moverme"), ("sostener", "mantener durante un rato"), ("avisar", "decirle a un adulto lo que me pasa")],
@@ -255,11 +255,11 @@ register(
 register(
     OA7, 1,
     materials="Un lápiz y una hoja con una tabla de la semana (lunes a domingo). Una cuerda o tiza. La tabla se explica en esta clase.",
-    use="Aprenderé a encontrar momentos del día para moverme con juegos y actividades. Sirve para ser activo todos los días, no sólo en clase de Educación Física.",
+    use="Aprenderé a encontrar momentos del día para moverme con juegos y actividades. Sirve para ser activo todos los días, no solo en clase de Educación Física.",
     prior=["Sé qué hago de lunes a viernes.", "Sé contar minutos."],
     explain=[
         "Moverse en la vida cotidiana es hacer actividad física en las cosas de todos los días: caminar al colegio, subir las escaleras, jugar en el patio o en la plaza, ayudar a ordenar la casa. No necesitas ropa especial ni pagar nada.",
-        "Para niños y niñas de tu edad, lo recomendado es moverse al menos 60 minutos al día. Esos minutos se pueden juntar de muchas partes: 20 minutos en el recreo, 20 jugando en la tarde y 20 caminando. No tienen que ser seguidos.",
+        "Para niños y niñas de tu edad, lo recomendado es moverse al menos 60 minutos al día, con un esfuerzo en que respiras más rápido que en reposo. Esos minutos se pueden juntar de muchas partes: 20 minutos en el recreo, 20 jugando en la tarde y 20 caminando. No tienen que ser seguidos.",
         "Para encontrar tus oportunidades, mira tu día: ¿cuándo camino?, ¿cuándo juego?, ¿cuándo estoy sentado mucho rato? En los momentos de estar sentado, puedes pararte, estirarte o jugar un rato. Siempre que te muevas, hazlo con un adulto cerca y en un lugar seguro.",
     ],
     vocab=[("cotidiano", "de todos los días"), ("oportunidad", "momento en que puedo hacer algo"), ("recomendado", "lo que se aconseja hacer"), ("minuto", "60 segundos"), ("estirarse", "alargar los músculos con suavidad")],
@@ -286,7 +286,7 @@ register(
             arith("Juegas 20 minutos en el recreo y 20 después del colegio. ¿Cuántos minutos son?", "20+20", "Se suman.", " minutos"),
         ],
         "reason": [
-            ex("Ema dice que no se mueve porque no tiene balón. ¿Qué le dices?", "Puede caminar, saltar la cuerda o jugar luche", "Hay muchas actividades sin balón."),
+            ex("Ema dice que no se mueve porque no tiene balón. ¿Qué le dices?", "Puede caminar, saltar la cuerda o correr", "Hay muchas actividades sin balón."),
             ex("Fito pasó 2 horas sentado sin pararse. ¿Qué podría hacer cada 30 minutos?", "Pararse y moverse", "Mover el cuerpo rompe el tiempo sentado."),
         ],
         "challenge": [
@@ -359,7 +359,7 @@ register(
         ex("¿En qué suelo se juega luche?", "Plano y seco", "Así se evitan las caídas."),
     ],
     open_task=task("Dibuja una luche de 8 casillas con tiza o cinta y juega con un adulto 2 turnos usando una tapa como piedra. Reglas: tira a la casilla del turno, salta con un pie sin pisar líneas ni la casilla de la tapa, da media vuelta en la 8 y vuelve a recogerla. Anota cuántas veces pisaste una línea. Después pregunta a un adulto de tu familia: ¿quién le enseñó este juego u otro parecido?, ¿dónde jugaba?, ¿qué reglas usaba? Anota sus respuestas.",
-                   "Jugué 2 turnos y pisé una línea 1 vez. Mi abuela dice que se lo enseñó su vecina, que jugaba en la calle de su casa y que usaban una piedra plana.",
+                   "Jugué 2 turnos y pisé una línea 1 vez. Mi abuela dice que se lo enseñó su vecina, que jugaba en el patio de su casa y que usaban una piedra plana.",
                    ["sigue las reglas del juego", "juega en un lugar seguro", "anota la procedencia con preguntas"],
                    ["luche dibujada", "registro de turnos", "respuestas del adulto"],
                    ["pisar líneas sin perder turno", "jugar en piso mojado", "no preguntar la procedencia"],
@@ -417,7 +417,7 @@ register(
         ex("¿Se puede agregar peligro para que sea emocionante?", "No", "La seguridad siempre se mantiene."),
     ],
     open_task=task("Juego: «lanzar la tapa a un aro» con un aro o círculo de cuerda a 4 pasos. Imagina tres personas: Ema (no alcanza a lanzar tan lejos), Beto (siempre acierta) y Dani (usa un andador y no puede mover muy rápido los pies). Escribe un cambio para cada una usando espacio, tiempo o implemento, y verifica que sea seguro. Pruébalo con un adulto y anota si todos pudieron participar.",
-                   "Ema: acerco el aro a 3 pasos. Beto: lo alejo a 5 pasos. Dani: el juego se hace sentado o con pasos pequeños y más tiempo. Probamos y todos pudimos participar.",
+                   "Ema: acerco el aro a 3 pasos. Beto: lo alejo a 5 pasos. Dani: le doy más tiempo para cada lanzamiento y despejo el camino hasta el aro. Probamos y todos pudimos participar.",
                    ["propone un cambio para cada persona", "cuida la seguridad", "verifica que todos participen"],
                    ["tabla con cambios", "observación de un adulto", "relato oral"],
                    ["dejar a alguien afuera", "agregar peligro", "no probar"],
@@ -609,7 +609,7 @@ register(
     explain=[
         "Después de moverte, tu cuerpo necesita recuperarse. Recuperarse es volver poco a poco al reposo: el corazón late más lento, la respiración se calma, el sudor disminuye y la cara vuelve a su color. Esto ocurre en minutos, no en un instante.",
         "Para recuperarte, camina despacio un minuto, bebe agua en sorbos y respira profundo, llevando el aire por la nariz y soltándolo por la boca. No te sientes ni te acuestes de golpe. Cuando puedes hablar con calma y tu corazón late casi como en reposo, ya estás recuperado.",
-        "Cada persona se recupera a su ritmo. Algunos tardan 1 minuto y otros 3. No es una competencia. Si después de 5 minutos sigues sin poder hablar o te duele algo, avisa a un adulto.",
+        "Cada persona se recupera a su ritmo. Algunos tardan 1 minuto y otros 3. No es una competencia. Si en cualquier momento te mareas, te duele algo o no puedes hablar, avisa de inmediato a un adulto. Si después de 5 minutos sigues muy agitado, también avisa.",
     ],
     vocab=[("recuperación", "volver poco a poco al reposo"), ("respirar profundo", "tomar aire lento por la nariz"), ("calma", "estar tranquilo"), ("sorbo", "trago pequeño"), ("avisar", "decirle a un adulto lo que me pasa")],
     worked=[
@@ -649,7 +649,7 @@ register(
         ex("Tras trotar, ¿qué dos señales muestran que ya estás recuperado?", "Hablas con calma y el corazón late casi como en reposo", "Son señales de reposo."),
         ex("¿Es una competencia recuperarse?", "No", "Cada uno tiene su ritmo."),
     ],
-    open_task=task("Haz 30 segundos de saltos suaves en el lugar. Justo al terminar, cuenta tus latidos 15 segundos (anótalo). Camina despacio 1 minuto, bebe sorbos de agua y respira profundo 3 veces. Cuenta de nuevo 15 segundos. Repite a los 2 minutos. Anota los 3 números y cuándo ya podías hablar con calma.",
+    open_task=task("Haz 30 segundos de saltos suaves en el lugar. Justo al terminar, cuenta tus latidos 15 segundos (anótalo). Camina despacio 1 minuto, bebe sorbos de agua y respira profundo 3 veces. Cuenta de nuevo 15 segundos (al minuto). Sigue caminando despacio y cuenta otra vez a los 2 minutos. Anota los 3 números y cuándo ya podías hablar con calma.",
                    "Tras saltar: 30. A 1 minuto: 25. A 2 minutos: 20. Hablaba con calma a los 2 minutos. Mi reposo es 18.",
                    ["mide tres veces", "camina y toma agua en sorbos", "interpreta cuándo se recuperó"],
                    ["tabla de latidos", "silueta con anotaciones", "relato oral"],
@@ -666,7 +666,7 @@ register(
     prior=["Sé las señales del ejercicio.", "Sé usar la escala del habla."],
     explain=[
         "Algunas señales son normales durante el ejercicio: calor, sudor, cara roja, respiración rápida y corazón más rápido. En esos casos, puedes seguir si puedes hablar frases cortas, o bajar un poco el ritmo si estás en nivel 4.",
-        "Otras señales significan que debes parar y avisar a un adulto: dolor en el pecho, mareo, náuseas, falta de aire que no mejora, dolor en una articulación o un golpe. Paras de inmediato, te sientas con cuidado y avisas. No esperes a que termine el juego.",
+        "Otras señales significan que debes parar y avisar a un adulto: dolor en el pecho, mareo, náuseas, falta de aire que no te deja hablar o que no mejora al parar, dolor en una articulación o un golpe. Paras de inmediato, te sientas con cuidado y avisas. No esperes a que termine el juego.",
         "Si tienes sed, bebes agua en la pausa. Si tienes calor, vas a la sombra y bebes. Para decidir, pregúntate: ¿puedo hablar? ¿me duele algo? ¿me siento mareado? Si la respuesta a dolor o mareo es sí, paras y avisas. Pedir ayuda es cuidar tu cuerpo.",
     ],
     vocab=[("autocuidado", "cuidar mi propio cuerpo"), ("señal de alerta", "señal que pide parar y avisar"), ("avisar", "decirle a un adulto lo que me pasa"), ("hidratarse", "beber agua"), ("articulación", "parte donde se doblan los huesos, como la rodilla")],
@@ -683,7 +683,7 @@ register(
             ex("Si tienes calor y mucho sudor pero hablas normal, ¿es una señal normal?", "Sí", "Son respuestas al ejercicio."),
         ],
         "understand": [
-            ex("¿Por qué avisar a un adulto cuando duele el pecho?", "Porque puede ser grave", "Un adulto sabrá qué hacer."),
+            ex("¿Por qué avisar a un adulto cuando duele el pecho?", "Para que un adulto me ayude", "Un adulto sabrá qué hacer."),
             ex("Si sientes un dolor en una rodilla, ¿qué haces?", "Parar y avisar", "Podría ser una lesión."),
             ex("¿Pedir ayuda es una señal de debilidad?", "No", "Es cuidar el cuerpo."),
         ],

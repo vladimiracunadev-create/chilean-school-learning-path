@@ -65,7 +65,7 @@ register(
         ex("¿Qué distancia se mantiene entre las personas?", "Dos brazos", "Sirve para evitar choques."),
     ],
     open_task=task("Juega «Tesoro en la ruta» con 5 bolitas de papel, una caja y un cuadrado de 4 × 4 m marcado con 4 objetos. Reglas: llevas una bolita a la vez, caminando, dentro del cuadrado; el juego termina cuando están las 5 en la caja o pasan 60 segundos. Juega 3 veces y anota cuántas bolitas llevaste cada vez. Di cuál regla fue la más importante.",
-                   "Lleve 4, 5 y 5 bolitas. La regla más importante fue caminar y llevar una a la vez para no tropezar. Me quedé dentro del cuadrado las 3 veces.",
+                   "Llevé 4, 5 y 5 bolitas. La regla más importante fue caminar y llevar una a la vez para no tropezar. Me quedé dentro del cuadrado las 3 veces.",
                    ["sigue las reglas del juego", "se mantiene dentro de los límites", "explica una regla importante"],
                    ["registro de 3 intentos", "observación de un adulto", "relato oral de la regla"],
                    ["cambiar la regla sin avisar", "salirse del cuadrado", "llevar más de una bolita"],
@@ -80,7 +80,7 @@ register(
     use="Aprenderé a jugar con otros para lograr una meta en común. Sirve para pasar bien con la familia y los compañeros, y para ganar entre todos.",
     prior=["Sé lanzar y recibir una pelota blanda.", "Sé decir el nombre de un compañero."],
     explain=[
-        "En un juego con colaboración, todos ayudan para lograr la misma meta. Si uno se equivoca, el equipo no se enoja: lo ayuda y lo vuelve a intentar. Nadie gana solo; ganan juntos o pierden juntos.",
+        "En un juego con colaboración, todos ayudan para lograr la misma meta. Si uno se equivoca, el equipo no se enoja: lo ayuda y lo vuelve a intentar. Nadie gana solo; ganan juntos o pierden juntos. Si el globo se rompe, avisa a un adulto y no pongas pedazos en la boca.",
         "En el juego «El globo que no cae» el equipo debe mantener un globo en el aire dando golpes suaves con las manos. Reglas: nadie puede golpear dos veces seguidas, hay que decir en voz alta el nombre de quien recibirá el siguiente golpe, y el globo no puede tocar el suelo. Se cuenta cuántos golpes seguidos logra el grupo.",
         "Para coordinar, miren el globo, hablen claro y cuiden el espacio. Si el globo va hacia alguien, esa persona dice «yo». Si dos personas van al mismo lugar, una cede. Los golpes son suaves y con las manos abiertas.",
     ],
@@ -112,7 +112,7 @@ register(
             ex("Fito dice «yo juego solo, así gano». ¿Es colaborar?", "No", "Colaborar es lograr la meta entre todos."),
         ],
         "challenge": [
-            arith("Hacen 4 intentos: 5, 7, 8 y 6 golpes. ¿Cuántos golpes seguidos fue el mejor intento menos el peor?", "8-5", "Se resta el peor del mejor.", " golpes"),
+            arith("Hacen 4 intentos: 5, 7, 8 y 6 golpes. ¿Cuántos golpes más hizo el mejor intento que el peor?", "8-5", "Se resta el peor del mejor.", " golpes"),
             ex("Para que el juego sea más difícil, proponen usar dos globos a la vez. ¿Qué regla nueva ayuda a la seguridad?", "Que todos digan «yo» y que se mantengan a distancia", "Con más globos hay más riesgo de chocar."),
         ],
     },
@@ -139,19 +139,19 @@ register(
     prior=["Sé correr con control y detenerme.", "Sé que no se empuja a otros."],
     explain=[
         "En un juego con oposición, un jugador intenta impedir que otro logre su meta. En el juego «Pillada de cinta», un jugador es el perseguidor y trata de sacar la cinta de la cintura de los demás. Los otros esquivan. Es un juego de persecución con oposición.",
-        "Para jugar con seguridad: sólo se saca la cinta, no se toca el cuerpo, no se empuja, no se agarra la ropa y no se tira a nadie. Se juega a 70 % de la velocidad máxima; si alguien se detiene, se detienen todos. El perseguidor cuenta hasta 3 antes de empezar.",
+        "Para jugar con seguridad: solo se saca la cinta, no se toca el cuerpo, no se empuja, no se agarra la ropa y no se tira a nadie. Se juega a paso rápido, sin correr al máximo; si alguien se detiene, se detienen todos. El perseguidor cuenta hasta 3 antes de empezar.",
         "Anticipar significa mirar a los otros y adivinar hacia dónde irán. Si el perseguidor va hacia la derecha, tú puedes ir a la izquierda. Mira siempre hacia dónde corres y mantén la cabeza arriba. Los límites del cuadrado no se cruzan.",
     ],
     vocab=[("oposición", "alguien trata de impedir que logres tu meta"), ("persecución", "juego donde uno persigue y otros escapan"), ("perseguidor", "jugador que trata de sacar la cinta"), ("esquivar", "cambiar de dirección para que no me alcancen"), ("anticipar", "adivinar lo que hará otro y prepararme")],
     worked=[
-        W("Reglas de seguridad", "En «Pillada de cinta», un jugador te agarra la camiseta para sacarte la cinta. ¿Qué regla se rompió y qué haces?", ["La regla dice que sólo se saca la cinta, sin agarrar la ropa.", "Digo «alto» y todos se detienen.", "Pido al adulto que repita la regla y seguimos."], "Se rompió la regla de no agarrar la ropa; digo «alto»."),
+        W("Reglas de seguridad", "En «Pillada de cinta», un jugador te agarra la camiseta para sacarte la cinta. ¿Qué regla se rompió y qué haces?", ["La regla dice que solo se saca la cinta, sin agarrar la ropa.", "Digo «alto» y todos se detienen.", "Pido al adulto que repita la regla y seguimos."], "Se rompió la regla de no agarrar la ropa; digo «alto»."),
         W("Contar cintas", "Hay 6 jugadores con cinta y el perseguidor saca 2 en la primera ronda y 3 en la segunda. ¿Cuántas cintas ha sacado en total?", ["En la primera, 2.", "En la segunda, 3.", "2 + 3 = 5."], "5 cintas."),
     ],
     mistakes=[M("Empujar para escapar.", "Se siente apuro.", "Esquiva cambiando de dirección; no se toca a nadie."),
               M("Correr mirando hacia atrás.", "Se quiere ver al perseguidor.", "Mira hacia delante y anticipa; si hay obstáculos, cambia de dirección con calma.")],
     tiers={
         "recovery": [
-            ex("En «Pillada de cinta», ¿qué se saca: la cinta o la ropa?", "La cinta", "La regla dice que sólo se saca la cinta."),
+            ex("En «Pillada de cinta», ¿qué se saca: la cinta o la ropa?", "La cinta", "La regla dice que solo se saca la cinta."),
             ex("Los jugadores que escapan, ¿esquivan o empujan?", "Esquivan", "Empujar no está permitido."),
             ex("Si dicen «alto», ¿qué hacen todos?", "Se detienen", "Es la señal de parar."),
         ],
@@ -180,7 +180,7 @@ register(
         ex("¿Se puede empujar para escapar?", "No", "Está prohibido en el juego."),
         ex("¿Qué haces para escapar: esquivar o agarrar?", "Esquivar", "Cambias de dirección."),
     ],
-    open_task=task("Con 3 o más personas y un espacio de 4 × 4 m, juega «Pillada de cinta». Pon una cinta o pañuelo en la cintura de cada uno. Reglas: sólo se saca la cinta, no se empuja ni se agarra la ropa, se juega a paso rápido pero sin correr al máximo y todos se detienen si alguien dice «alto». Juega 3 rondas de 30 segundos. Anota cuántas veces esquivaste y cuántas veces dijiste «alto» por una situación insegura.",
+    open_task=task("Con 3 o más personas y un espacio de 4 × 4 m, juega «Pillada de cinta». Pon una cinta o pañuelo en la cintura de cada uno. Reglas: solo se saca la cinta, no se empuja ni se agarra la ropa, se juega a paso rápido pero sin correr al máximo y todos se detienen si alguien dice «alto». Juega 3 rondas de 30 segundos. Anota cuántas veces esquivaste y cuántas veces dijiste «alto» por una situación insegura.",
                    "En 3 rondas esquivé 5 veces. Dije «alto» una vez porque un compañero corría hacia atrás. Seguimos sin empujar ni agarrar a nadie.",
                    ["cumple las reglas de seguridad", "esquiva sin empujar", "dice «alto» ante una situación insegura"],
                    ["registro de rondas", "observación de un adulto", "relato de una decisión"],
@@ -203,7 +203,7 @@ register(
     vocab=[("cambiar una regla", "modificar lo que se puede hacer en el juego"), ("participar", "ser parte del juego"), ("desafío", "algo un poco difícil que quiero lograr"), ("acuerdo", "todos dicen que sí"), ("probar", "jugar para ver si resulta")],
     worked=[
         W("Cambiar la distancia", "Juego: lanzar una pelota blanda dentro de un aro a 4 pasos. Ema no llega a lanzar tan lejos. ¿Qué cambio propones?", ["Pienso en quién tiene dificultad: Ema.", "Puedo acercar el aro a 3 pasos para ella.", "Explico: «Cambiamos la distancia porque a Ema le costaba, así todos juegan»."], "Acercar el aro a 3 pasos, con explicación."),
-        W("Subir el desafío", "A Beto el juego le parece muy fácil, siempre acierta. ¿Cómo lo haces más desafiante sin riesgos?", ["Pienso en un cambio seguro.", "Aleja el aro 1 paso o lanza con la mano izquierda.", "Pruebo el cambio y veo si resulta."], "Alejar el aro un paso o lanzar con la otra mano."),
+        W("Subir el desafío", "A Beto el juego le parece muy fácil, siempre acierta. ¿Cómo lo haces más desafiante sin riesgos?", ["Pienso en un cambio seguro.", "Alejo el aro 1 paso o lanzo con la mano izquierda.", "Pruebo el cambio y veo si resulta."], "Alejar el aro un paso o lanzar con la otra mano."),
     ],
     mistakes=[M("Cambiar la regla para que gane siempre el mismo.", "Se piensa solo en uno mismo.", "Pregunta: ¿el cambio ayuda a que más personas participen?"),
               M("Cambiar una regla sin avisar.", "Se cree que no hace falta preguntar.", "Antes de jugar, explica el cambio y confirma que todos estén de acuerdo.")],
@@ -221,10 +221,10 @@ register(
         "apply": [
             arith("El aro estaba a 4 pasos y lo acercas 1 paso para que todos lleguen. ¿A cuántos pasos queda?", "4-1", "Se resta lo que lo acercas.", " pasos"),
             arith("El juego duraba 40 segundos y lo alargas 10 segundos para que alcancen todos. ¿Cuántos segundos dura ahora?", "40+10", "Se suma el tiempo extra.", " segundos"),
-            ex("Ema usa silla de ruedas. El juego es correr hacia un cono. Elige: A) todos caminan rápido, B) Ema no juega, C) Ema corre aunque no pueda. ¿Qué cambio es mejor para incluirla?", "A", "Todos juegan a la misma velocidad posible para ella."),
+            ex("Ema usa silla de ruedas. El juego es correr hacia un cono. Elige: A) todos van hasta el cono a su manera, sin hacer carrera, B) Ema no juega, C) Ema se levanta de la silla para correr. ¿Qué cambio es mejor para incluirla?", "A", "Sin carrera, cada uno participa a su manera y es seguro."),
         ],
         "reason": [
-            ex("Dani cambia la regla para que sólo él gane. ¿Es un buen cambio?", "No", "Debe ayudar a todos a participar."),
+            ex("Dani cambia la regla para que solo él gane. ¿Es un buen cambio?", "No", "Debe ayudar a todos a participar."),
             ex("Tras un cambio, un compañero que no jugaba ahora participa. ¿El cambio funcionó?", "Sí", "Más personas participaron."),
         ],
         "challenge": [
@@ -235,14 +235,14 @@ register(
     context=[ex("En tu casa juegan a lanzar calcetines a un cesto. Tu hermano pequeño no alcanza. ¿Qué cambio haces: A) acercar el cesto para él, B) que no juegue, C) alejarlo para todos?", "A", "Así él participa y es seguro.")],
     selfcheck=[
         ex("Antes de cambiar una regla, ¿qué debes hacer?", "Avisar y ponerse de acuerdo", "Todos deben saber."),
-        ex("¿Qué se cambia si el juego es muy fácil: se hace más desafiante o se suprime?", "Se hace más desafiante", "Se sube la dificultad con seguridad."),
+        ex("¿Qué se cambia si el juego es muy fácil: se hace más desafiante o se termina el juego?", "Se hace más desafiante", "Se sube la dificultad con seguridad."),
         ex("Si el aro estaba a 5 pasos y lo acercas 2, ¿a cuántos pasos queda?", "3", "5 menos 2 son 3."),
     ],
     open_task=task("Juego: lanzar una pelota blanda o calcetines enrollados dentro de un aro o cesto que está a 4 pasos; cada jugador hace 5 lanzamientos. Imagina que un jugador no alcanza y otro siempre acierta. Escribe un cambio para cada uno (por ejemplo, acercar el aro a 3 pasos o alejarlo a 5 pasos) y explica con las tres frases «Cambiamos…, porque…, así…». Pruébalo con un adulto y anota cuántos aciertos hubo.",
                    "Cambiamos el aro a 3 pasos para Ema, porque no alcanzaba, así participa. Para Beto, lo alejamos a 5 pasos, porque siempre acertaba, así es más desafiante. Probamos y hubo 4 aciertos de 5 lanzamientos.",
                    ["propone un cambio claro y seguro", "explica con las tres frases", "prueba el cambio y registra el resultado"],
                    ["tarjeta con la regla nueva", "registro de lanzamientos", "relato oral"],
-                   ["cambiar para ganar sólo uno", "cambiar sin avisar", "agregar riesgo"],
+                   ["cambiar para ganar solo uno", "cambiar sin avisar", "agregar riesgo"],
                    "Pregunta quién se benefició del cambio y si el cambio fue seguro; sugiere ajustar según resultado."),
     reinforce="Haz 5 lanzamientos con el aro a 3 pasos y luego a 4 pasos; cuenta cuántos aciertos hay en cada distancia.",
     extend="Inventa un juego nuevo con una pelota y un aro; escribe sus 3 reglas y una forma de hacerlo más fácil.",
@@ -287,7 +287,7 @@ register(
             ex("El balón se fue a la calle por un portón abierto. ¿Corres a buscarlo o pides ayuda a un adulto?", "Pides ayuda a un adulto", "La calle es un riesgo grave."),
         ],
         "challenge": [
-            ex("Un lugar tiene pasto, una reja, un charco y un escalón. Ordena de menor a mayor número de riesgos: pasto/charco/escalón. Respuesta: dos riesgos son...", "El charco y el escalón", "El pasto no es un riesgo y los otros dos sí."),
+            ex("Un lugar tiene pasto seco, una reja, un charco y un escalón alto. ¿Cuáles dos de esas cosas son riesgos?", "El charco y el escalón", "El pasto no es un riesgo y los otros dos sí."),
             arith("Un patio tiene 4 conos en las esquinas. Si cada cono marca un límite y pones 2 conos más para un riesgo, ¿cuántos conos usas?", "4+2", "Se suman todos los conos.", " conos"),
         ],
     },
@@ -346,7 +346,7 @@ register(
         ],
         "challenge": [
             ex("Un camino tiene: 5 m de piso liso, 5 m de pasto desparejo y 5 m de piso mojado. ¿Cuántas veces cambias la forma de caminar en un recorrido de ida?", "2", "Cambias al pasar de liso a pasto y de pasto a mojado."),
-            arith("En el recorrido anterior, 5 m de cada tramo suman cuántos metros?", "5+5+5", "Se suman los tres tramos.", " m"),
+            arith("En el recorrido anterior, ¿cuántos metros suman los tres tramos de 5 m?", "5+5+5", "Se suman los tres tramos.", " m"),
         ],
     },
     context=[ex("Estás en la playa con tu familia y el sol está fuerte. Quieres correr en la arena. ¿Qué haces antes: A) ponerte gorro y protector solar y revisar el suelo, B) correr al agua, C) saltar sobre piedras?", "A", "Te cuidas del sol y evitas objetos.")],
@@ -372,7 +372,7 @@ register(
     prior=["Sé lanzar y recibir a un compañero.", "Sé leer un lugar."],
     explain=[
         "El mismo lanzamiento puede comportarse distinto según el lugar. En una sala pequeña conviene lanzar suave y con una pelota blanda para no romper nada. En un patio grande puedes lanzar con más fuerza. En el pasto la pelota rebota poco y en el cemento rebota más.",
-        "En la playa, la pelota se frena en la arena y el viento puede moverla. Por eso se lanza algo más fuerte y se mira dónde cae. Si hay viento, se lanza un poco hacia donde sopla para que no se aleje demasiado. Nunca se lanza hacia el mar, la calle o un vidrio.",
+        "En la playa, la pelota casi no rebota en la arena y el viento puede moverla. Por eso se lanza directo a las manos del compañero y se mira dónde cae. Si hay viento, la pelota puede desviarse: lanza más suave si el viento va hacia donde lanzas y algo más fuerte si viene hacia ti. Nunca se lanza hacia el mar, la calle o un vidrio.",
         "Para ajustar fuerza y dirección, pregúntate: ¿qué distancia hay? ¿Qué hay alrededor? ¿Cuánto rebota? Prueba un lanzamiento suave y corrige. Mira el blanco, extiende el brazo hacia él y suelta la pelota a la altura del pecho de tu compañero.",
     ],
     vocab=[("fuerza", "cuánto empujo la pelota"), ("dirección", "hacia dónde va la pelota"), ("rebote", "cuando la pelota sube al tocar el suelo"), ("blanco", "lugar o persona hacia donde lanzo"), ("viento", "aire que mueve las cosas")],
@@ -390,7 +390,7 @@ register(
         ],
         "understand": [
             ex("¿Por qué se usa una pelota blanda en una sala?", "Para no romper cosas ni lastimar", "No hace daño."),
-            ex("En la playa, la arena frena la pelota. ¿Debes lanzar más suave o algo más fuerte?", "Algo más fuerte", "Se frena al caer y no llega lejos."),
+            ex("En la playa, la pelota casi no rebota en la arena. Para pasarla a un compañero, ¿la lanzas directo a sus manos o la haces rebotar?", "Directo a sus manos", "En la arena la pelota no rebota, así que no se puede contar con el rebote."),
             ex("¿Qué es el rebote?", "Cuando la pelota sube al tocar el suelo", "Es el segundo movimiento."),
         ],
         "apply": [
@@ -461,7 +461,7 @@ register(
             ex("En la ruta de Ema, dos conos están pegados a la reja. ¿Qué problema hay?", "Falta espacio de seguridad", "Hay que dejar espacio entre el cono y el límite."),
         ],
         "challenge": [
-            arith("Haces la ruta completa 2 veces. Cada vez dura 400 segundos. ¿Cuántos minutos son? Responde en minutos con número entero.", "(400*2)//60", "Se pasa de segundos a minutos (800 ÷ 60 = 13 minutos y 20 segundos).", " minutos"),
+            arith("Haces la ruta completa 3 veces. Cada vez dura 400 segundos. ¿Cuántos minutos son en total?", "(400*3)//60", "Se pasa de segundos a minutos (1200 ÷ 60 = 20 minutos).", " minutos"),
             ex("Hay 6 niños y 5 estaciones. Si empiezan juntos en estaciones distintas, ¿cuántos niños esperan en el inicio?", "1", "6 niños menos 5 estaciones ocupadas son 1."),
         ],
     },
@@ -629,18 +629,18 @@ register(
         "apply": [
             ex("Tarjeta «calma». Se propone: inicio lento y pequeño, medio suave, final quieto. ¿Cuántas partes tiene la frase?", "3", "Inicio, medio y final."),
             arith("Repites una frase de 3 movimientos 4 veces. ¿Cuántos movimientos haces?", "3*4", "Se multiplican movimientos por repeticiones.", " movimientos"),
-            ex("En «viento», pasas de nivel bajo a alto. ¿Cuántos niveles tocaste: bajo, medio, alto?", "Al menos 2: bajo y alto", "Empiezas en bajo y terminas en alto."),
+            ex("En «viento» empiezas en nivel bajo y terminas en nivel alto. Como mínimo, ¿cuántos niveles distintos usaste?", "2", "Bajo y alto son dos niveles distintos."),
         ],
         "reason": [
-            ex("Dani hizo «sorpresa» saltando y gritando «¡boo!». ¿Mostró la idea de forma no literal?", "Parcialmente; usó sonido", "Una frase corporal usa el cuerpo, no sólo palabras."),
+            ex("Dani hizo «sorpresa» solo gritando «¡boo!», sin mover el cuerpo. ¿Mostró la idea con el cuerpo?", "No", "Una frase corporal usa el cuerpo, no solo palabras."),
             ex("Beto copió la frase de Ana palabra por palabra. ¿Qué debe cambiar?", "Hacerla suya con algún cambio", "Cada uno crea su frase."),
         ],
         "challenge": [
-            ex("Crea una frase de 3 movimientos para «viento»: dibuja con palabras los niveles de cada movimiento. Un ejemplo válido es bajo, alto, medio. ¿Cuántos cambios de nivel tiene?", "2", "Hay un cambio entre cada movimiento."),
+            ex("Una frase para «viento» usa los niveles bajo, alto y medio, en ese orden. ¿Cuántos cambios de nivel tiene?", "2", "Hay un cambio entre cada movimiento."),
             arith("Haces la frase 3 veces con 20 segundos de acción y 20 de pausa por vez. ¿Cuántos segundos de acción hay?", "3*20", "Se multiplican veces por segundos.", " segundos"),
         ],
     },
-    context=[ex("En una obra de la escuela debes mostrar «viento» sin hablar. ¿Cómo lo haces: A) sólo soplas, B) cambias de nivel y tamaño con tu cuerpo, C) te quedas quieto?", "B", "Usas movimiento, no imitación literal.")],
+    context=[ex("En una obra de la escuela debes mostrar «viento» sin hablar. ¿Cómo lo haces: A) solo soplas, B) cambias de nivel y tamaño con tu cuerpo, C) te quedas quieto?", "B", "Usas movimiento, no imitación literal.")],
     selfcheck=[
         ex("¿Qué tiene una frase corporal?", "Inicio, medio y final", "Son sus partes."),
         ex("¿Se imita o se muestra con el cuerpo?", "Se muestra con el cuerpo", "La frase es no literal, no una imitación."),

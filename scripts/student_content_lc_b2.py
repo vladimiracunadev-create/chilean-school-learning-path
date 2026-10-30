@@ -50,12 +50,12 @@ register(
         ],
         "apply": [
             ex("Escucha «mesa» y «pesa». ¿Qué sonido cambia: el primero o el último?", "El primero", "Cambian «m» y «p»; «esa» es igual."),
-            ex("Escucha «casa» y «cama». ¿Cuál es el sonido que cambia?", "El tercero: «s» y «m»", "En ca-sa y ca-ma cambia el sonido del medio."),
+            ex("Escucha «casa» y «cama». ¿Cuál sonido cambia: el del comienzo o el del medio?", "El del medio: «s» y «m»", "En ca-sa y ca-ma cambia el sonido del medio."),
             ex("Escucha «toma» y «Toma». ¿Suenan igual o distinto?", "Igual", "La mayúscula no cambia el sonido."),
         ],
         "reason": [
             ex("Un niño repitió una palabra de la lengua indígena que no escuchó bien. Dijo otra distinta que sonaba parecida. ¿Qué pasó?", "Cambió el sonido por uno conocido", "Sin escuchar bien, se sustituye por un sonido parecido."),
-            ex("Dos amigas oyen «sapo» y «zapo» y dicen que suenan igual. ¿Es posible en el castellano de Chile?", "Sí", "En Chile la «s» y la «z» suenan igual."),
+            ex("Dos amigas oyen «casa» y «caza» y dicen que suenan igual. ¿Es posible en el castellano de Chile?", "Sí", "En Chile la «s» y la «z» suenan igual."),
         ],
         "challenge": [
             ex("Escucha estas tres palabras: «luna», «cuna», «runa». ¿Cuál sonido cambia en las tres?", "El primero", "Empiezan con «l», «c» y «r»; el resto suena igual."),
@@ -132,8 +132,8 @@ register(
         ex("¿Qué usas para observar tu boca: un espejo o un cuchillo?", "Un espejo", "El espejo permite ver los labios."),
     ],
     open_task=task(
-        "Mírate al espejo, o pide a un adulto que te mire, y di estas tres palabras en castellano muy despacio: «mamá», «tomate» y «fuego». Anota qué hacen tus labios en la primera letra de cada una (juntos, tocando los dientes o abiertos). Luego anota una pregunta para el educador/a tradicional o la comunidad: ¿cómo debo mover la boca para ensayar los sonidos de la lengua de su pueblo sin burlarme?",
-        "En mamá los labios se juntan. En tomate la lengua toca los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua?",
+        "Mírate al espejo, o pide a un adulto que te mire, y di estas tres palabras en castellano muy despacio: «mamá», «tomate» y «fuego». Anota qué haces con la boca en la primera letra de cada una (labios juntos, dientes de arriba en el labio de abajo, o lengua detrás de los dientes). Luego anota una pregunta para el educador/a tradicional o la comunidad: ¿cómo debo mover la boca para ensayar los sonidos de la lengua de su pueblo sin burlarme?",
+        "En mamá los labios se juntan. En tomate la lengua toca detrás de los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua?",
         ["observa sin exagerar", "describe labios, lengua o aire", "pregunta al educador/a tradicional"],
         ["tres observaciones anotadas", "pregunta escrita"],
         ["hacer muecas", "imitar para reírse"],
@@ -303,7 +303,7 @@ register(
         "apply": [
             ex("Ordena: a) decir solo, b) escuchar, c) decir con el hablante, d) decir bajito. Escribe las letras en orden.", "b, d, c, a", "Se pasa de escuchar a decir cada vez con más independencia."),
             ex("La educadora dice un sonido tres veces. Tú lo repites una vez después de cada una. ¿Cuántas veces lo repites?", "3", "Una repetición por cada vez que ella lo dice."),
-            ex("Si ensayas un sonido 2 veces cada día durante 5 días, ¿cuántas veces ensayaste en total?", "10", "2 veces por 5 días son 10."),
+            ex("Si ensayas un sonido 2 veces cada día durante 5 días, ¿cuántas veces ensayaste en total?", "10", "2 + 2 + 2 + 2 + 2 = 10."),
         ],
         "reason": [
             ex("Ema no quiere ensayar porque teme equivocarse. ¿Qué le dirías?", "Que todos aprendemos poco a poco", "Equivocarse es normal y no debe dar vergüenza."),

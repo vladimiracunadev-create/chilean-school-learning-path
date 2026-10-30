@@ -157,13 +157,13 @@ Respuesta: Escucho con atención y pido que la repita antes de ensayar
 *Aplicación*
 
 - **A1.** Escucha «mesa» y «pesa». ¿Qué sonido cambia: el primero o el último?
-- **A2.** Escucha «casa» y «cama». ¿Cuál es el sonido que cambia?
+- **A2.** Escucha «casa» y «cama». ¿Cuál sonido cambia: el del comienzo o el del medio?
 - **A3.** Escucha «toma» y «Toma». ¿Suenan igual o distinto?
 
 *Razonamiento y análisis*
 
 - **Z1.** Un niño repitió una palabra de la lengua indígena que no escuchó bien. Dijo otra distinta que sonaba parecida. ¿Qué pasó?
-- **Z2.** Dos amigas oyen «sapo» y «zapo» y dicen que suenan igual. ¿Es posible en el castellano de Chile?
+- **Z2.** Dos amigas oyen «casa» y «caza» y dicen que suenan igual. ¿Es posible en el castellano de Chile?
 
 *Desafío*
 
@@ -191,7 +191,7 @@ Respuesta: Escucho con atención y pido que la repita antes de ensayar
 - **C2.** Para no cambiar el sonido por uno parecido. Escuchar bien evita sustituirlo por otro.
 - **C3.** Que la repita. Repetir ayuda a oírla mejor.
 - **A1.** El primero. Cambian «m» y «p»; «esa» es igual.
-- **A2.** El tercero: «s» y «m». En ca-sa y ca-ma cambia el sonido del medio.
+- **A2.** El del medio: «s» y «m». En ca-sa y ca-ma cambia el sonido del medio.
 - **A3.** Igual. La mayúscula no cambia el sonido.
 - **Z1.** Cambió el sonido por uno conocido. Sin escuchar bien, se sustituye por un sonido parecido.
 - **Z2.** Sí. En Chile la «s» y la «z» suenan igual.
@@ -270,9 +270,9 @@ Respuesta: Escucho con atención y pido que la repita antes de ensayar
 
 **Recurso listo para usar:** Este cuaderno, lápiz y, si tienes, un espejo pequeño. Los sonidos de práctica son del castellano.
 
-**Consigna exacta:** Mírate al espejo, o pide a un adulto que te mire, y di estas tres palabras en castellano muy despacio: «mamá», «tomate» y «fuego». Anota qué hacen tus labios en la primera letra de cada una (juntos, tocando los dientes o abiertos). Luego anota una pregunta para el educador/a tradicional o la comunidad: ¿cómo debo mover la boca para ensayar los sonidos de la lengua de su pueblo sin burlarme?
+**Consigna exacta:** Mírate al espejo, o pide a un adulto que te mire, y di estas tres palabras en castellano muy despacio: «mamá», «tomate» y «fuego». Anota qué haces con la boca en la primera letra de cada una (labios juntos, dientes de arriba en el labio de abajo, o lengua detrás de los dientes). Luego anota una pregunta para el educador/a tradicional o la comunidad: ¿cómo debo mover la boca para ensayar los sonidos de la lengua de su pueblo sin burlarme?
 
-**Referencia para modelar y corregir:** En mamá los labios se juntan. En tomate la lengua toca los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua?
+**Referencia para modelar y corregir:** En mamá los labios se juntan. En tomate la lengua toca detrás de los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -286,7 +286,7 @@ Respuesta: Escucho con atención y pido que la repita antes de ensayar
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: En mamá los labios se juntan. En tomate la lengua toca los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua? |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: En mamá los labios se juntan. En tomate la lengua toca detrás de los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -389,7 +389,7 @@ Respuesta: Caricaturizó; debe ensayar con seriedad
 - **E2.** ¿Está bien exagerar una forma de hablar para hacer reír?
 - **E3.** ¿Qué usas para observar tu boca: un espejo o un cuchillo?
 
-**Actividad abierta.** Mírate al espejo, o pide a un adulto que te mire, y di estas tres palabras en castellano muy despacio: «mamá», «tomate» y «fuego». Anota qué hacen tus labios en la primera letra de cada una (juntos, tocando los dientes o abiertos). Luego anota una pregunta para el educador/a tradicional o la comunidad: ¿cómo debo mover la boca para ensayar los sonidos de la lengua de su pueblo sin burlarme?
+**Actividad abierta.** Mírate al espejo, o pide a un adulto que te mire, y di estas tres palabras en castellano muy despacio: «mamá», «tomate» y «fuego». Anota qué haces con la boca en la primera letra de cada una (labios juntos, dientes de arriba en el labio de abajo, o lengua detrás de los dientes). Luego anota una pregunta para el educador/a tradicional o la comunidad: ¿cómo debo mover la boca para ensayar los sonidos de la lengua de su pueblo sin burlarme?
 
 **Solucionario razonado**
 
@@ -411,7 +411,7 @@ Respuesta: Caricaturizó; debe ensayar con seriedad
 - **E2.** No. Eso es caricaturizar.
 - **E3.** Un espejo. El espejo permite ver los labios.
 
-**Actividad abierta · ejemplo de respuesta.** En mamá los labios se juntan. En tomate la lengua toca los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua?
+**Actividad abierta · ejemplo de respuesta.** En mamá los labios se juntan. En tomate la lengua toca detrás de los dientes. En fuego los dientes de arriba tocan el labio de abajo. Mi pregunta: ¿cómo debo mover la boca para ensayar los sonidos de la lengua?
 
 **Criterios para evaluarla:** observa sin exagerar; describe labios, lengua o aire; pregunta al educador/a tradicional.
 
@@ -1029,7 +1029,7 @@ Respuesta: Animarlo y no reírme
 - **C3.** No. Cada persona aprende a su ritmo.
 - **A1.** b, d, c, a. Se pasa de escuchar a decir cada vez con más independencia.
 - **A2.** 3. Una repetición por cada vez que ella lo dice.
-- **A3.** 10. 2 veces por 5 días son 10.
+- **A3.** 10. 2 + 2 + 2 + 2 + 2 = 10.
 - **Z1.** Que todos aprendemos poco a poco. Equivocarse es normal y no debe dar vergüenza.
 - **Z2.** No. Cada uno está en su etapa.
 - **D1.** 12. 3 + 4 + 5 = 12.

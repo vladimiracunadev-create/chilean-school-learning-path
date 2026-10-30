@@ -576,7 +576,7 @@ Respuesta: al llegar
 
 *Razonamiento y análisis*
 
-- **Z1.** Una compañera dice «mari mari» al despedirse. ¿Es lo correcto, si es un saludo para encontrarse?
+- **Z1.** No sé cuándo se dice una expresión de otra lengua. ¿La uso igual o pregunto primero?
 - **Z2.** ¿Por qué conviene saber cuándo se dice una expresión?
 
 *Desafío*
@@ -607,7 +607,7 @@ Respuesta: al llegar
 - **A1.** verde y azul. Los otros son partes del cuerpo.
 - **A2.** 3. Uno, dos y tres son números.
 - **A3.** agua, luna y río. El pan es un alimento.
-- **Z1.** No. No corresponde a la situación.
+- **Z1.** pregunto primero. Cada expresión tiene su momento y lo explica quien conoce la lengua.
 - **Z2.** porque cada expresión tiene su momento. Así se usa con respeto.
 - **D1.** 2. Mano y pie.
 - **D2.** 2. Rojo y azul.

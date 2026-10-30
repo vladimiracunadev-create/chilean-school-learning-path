@@ -331,7 +331,7 @@ register(
         ex("¿Qué debes pedir antes de grabar una voz?", "Permiso", "Se pide autorización."),
     ],
     open_task=task(
-        "Pide a un adulto que te lea dos veces la adivinanza de práctica «" + ADIV_NUBE + "». La primera vez escucha entera. La segunda vez elige un propósito: contar cuántas veces suena «y a veces» o notar una imagen. Escribe tu propósito y lo que notaste. Luego anota una pregunta para el educador/a tradicional: ¿qué conviene notar al escuchar un texto de su pueblo?",
+        "Pide a un adulto que te lea dos veces la adivinanza de práctica «" + ADIV_NUBE + "». La primera vez escucha entera. La segunda vez elige un propósito: contar cuántas veces suena «a veces» (suena 2 veces) o notar una imagen. Escribe tu propósito y lo que notaste. Luego anota una pregunta para el educador/a tradicional: ¿qué conviene notar al escuchar un texto de su pueblo?",
         "Mi propósito fue notar una imagen. Vi una nube gris que suelta gotas. Mi pregunta: ¿qué conviene notar al escuchar un canto de la comunidad?",
         ["escucha dos veces", "dice su propósito", "anota lo que notó y una pregunta"],
         ["frase del propósito", "lo notado", "pregunta anotada"],

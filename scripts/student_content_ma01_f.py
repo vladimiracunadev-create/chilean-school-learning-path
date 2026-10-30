@@ -36,7 +36,7 @@ register(
         ],
         "apply": [
             ex("Escribe una pregunta con tres opciones sobre juegos favoritos.", "Por ejemplo: ¿Qué juego prefieres: pelota, cuerda o escondida?", "Tiene tres opciones."),
-            ex("Escribe una pregunta con dos opciones sobre mascotas.", "Por ejemplo: ¿Tienes perro o gato?", "Tiene dos opciones."),
+            ex("Escribe una pregunta con dos opciones sobre mascotas.", "Por ejemplo: ¿Qué mascota prefieres: perro o gato?", "Tiene dos opciones."),
             ex("Convierte «¿Qué te gusta comer?» en una pregunta con opciones.", "Por ejemplo: ¿Qué prefieres: pizza, arroz o ensalada?", "Ahora tiene opciones claras."),
         ],
         "reason": [
@@ -44,7 +44,7 @@ register(
             ex("¿Por qué «¿Te gusta el helado: sí o no?» sirve?", "Porque tiene dos opciones que se pueden contar", "Se agrupan en sí y no."),
         ],
         "challenge": [
-            ex("Escribe una pregunta sobre el mes de cumpleaños con tres opciones.", "Por ejemplo: ¿Naciste en verano, otoño o invierno?", "Las opciones agrupan las respuestas."),
+            ex("Escribe una pregunta sobre el día de la semana favorito con tres opciones.", "Por ejemplo: ¿Qué día prefieres: viernes, sábado o domingo?", "Las opciones agrupan las respuestas."),
             ex("Si 12 niños responden una pregunta con 3 opciones, ¿puede cada opción tener 4 respuestas?", "Sí", "4 + 4 + 4 = 12."),
         ],
     },
@@ -71,7 +71,7 @@ register(
         {"title": "Revisar", "problem": "Pregunté a 5 personas y tengo 6 respuestas. ¿Qué pasó?", "steps": ["Debería haber 5.", "Hay 6, entonces repetí una."], "answer": "Se repitió una respuesta"},
     ],
     mistakes=[
-        {"wrong": "Anotar dos respuestas de la misma persona.", "why": "Se pregunta de nuevo.", "fix": "Anota sólo una por persona."},
+        {"wrong": "Anotar dos respuestas de la misma persona.", "why": "Se cuenta dos veces a la misma persona.", "fix": "Anota sólo una por persona."},
         {"wrong": "No revisar el total.", "why": "Se confía en el registro.", "fix": "Compara respuestas con personas."},
     ],
     tiers={
@@ -157,7 +157,7 @@ register(
     explain=[
         "Responder con evidencia significa usar los datos para contestar y decir cuáles datos lo demuestran. Si la pregunta es «¿Qué fruta es la más elegida?», miras la tabla y encuentras la fila con el total mayor.",
         "Una respuesta con evidencia dice qué es y cuánto: «La manzana es la más elegida, con 7 votos, más que el plátano, que tuvo 4». Así otra persona puede comprobar mirando la tabla.",
-        "Tampoco debes decir más de lo que muestran los datos: si sólo preguntaste a un curso, no puedes decir que «a todos los niños de Chile» les gusta algo. Limítate a tu grupo.",
+        "No debes decir más de lo que muestran los datos: si sólo preguntaste a un curso, no puedes decir que «a todos los niños de Chile» les gusta algo. Limítate a tu grupo.",
     ],
     vocab=[("evidencia", "datos que prueban una respuesta"), ("más elegida", "la opción con mayor total"), ("menos elegida", "la opción con menor total"), ("diferencia", "cuántos más tiene una que otra"), ("conclusión", "lo que digo después de mirar los datos")],
     worked=[
@@ -224,7 +224,7 @@ register(
             ex("¿Qué es una categoría?", "Cada grupo del gráfico", "Por ejemplo, cada fruta."),
         ],
         "apply": [
-            ex("Perro: ● ● ● ● ● ● ●●. Gato: ● ● ● ●. ¿Cuántos eligieron perro y cuántos gato?", "Perro 8, gato 4", "Se cuentan los símbolos de cada fila."),
+            ex("Perro: ● ● ● ● ● ● ● ●. Gato: ● ● ● ●. ¿Cuántos eligieron perro y cuántos gato?", "Perro 8, gato 4", "Se cuentan los símbolos de cada fila."),
             arith("Perro tiene 8 símbolos y gato 4. ¿Cuántos más eligieron perro?", "8-4", "Diferencia de los símbolos."),
             arith("Perro tiene 8 símbolos, gato 4 y pez 3. ¿Cuántas personas respondieron en total?", "8+4+3", "Se suman todos."),
         ],
@@ -239,7 +239,7 @@ register(
     },
     context=[arith("En el pictograma de «Juegos favoritos», pelota tiene 6 símbolos y cuerda 5. ¿Cuántos niños respondieron en total?", "6+5", "Se suman los símbolos de las dos filas.")],
     selfcheck=[ex("Fila: ● ● ● ● ● ●. Clave: ● = 1. ¿Cuánto vale?", "6", "Hay seis símbolos en la fila."), ex("¿Qué fila tiene más: 5 o 7 símbolos?", "La de 7", "7 > 5."), ex("¿Qué leo primero en un pictograma?", "El título y la clave", "Dicen qué muestra y cuánto vale.")],
-    open_task=task("Observa este pictograma: Pelota ● ● ● ● ● ●; Cuerda ● ● ● ●; Escondida ● ● ●●. Clave: ● = 1 niño. Escribe cuántos niños eligieron cada juego, cuál es el más elegido y cuántos niños respondieron.", "Pelota 6, cuerda 4, escondida 4. El más elegido es la pelota. Respondieron 6 + 4 + 4 = 14 niños.", ["cuenta cada fila", "identifica la más elegida", "suma el total"], ["tres números", "frase", "total"], ["no leer la clave", "contar mal"], "Pide tachar cada símbolo al contarlo."),
+    open_task=task("Observa este pictograma: Pelota ● ● ● ● ● ●; Cuerda ● ● ● ●; Escondida ● ● ● ●. Clave: ● = 1 niño. Escribe cuántos niños eligieron cada juego, cuál es el más elegido y cuántos niños respondieron.", "Pelota 6, cuerda 4, escondida 4. El más elegido es la pelota. Respondieron 6 + 4 + 4 = 14 niños.", ["cuenta cada fila", "identifica la más elegida", "suma el total"], ["tres números", "frase", "total"], ["no leer la clave", "contar mal"], "Pide tachar cada símbolo al contarlo."),
     reinforce="Lee un pictograma del diario o de un libro y cuenta sus símbolos.",
     extend="Descubre cuántos símbolos más necesita la fila menor para igualar a la mayor.",
 )
@@ -315,7 +315,7 @@ register(
         "understand": [
             ex("¿Qué es clasificar?", "Separar por tipo", "Cada grupo tiene el mismo tipo."),
             ex("¿Para qué sirve la clave?", "Para decir cuánto vale cada símbolo", "Sin clave no se lee."),
-            ex("¿Cómo compruebo mi pictograma?", "Sumo los símbolos y comparo con los objetos", "Los totales deben coincidir con las personas."),
+            ex("¿Cómo compruebo mi pictograma?", "Sumo los símbolos y comparo con los objetos", "Los totales deben coincidir con los objetos."),
         ],
         "apply": [
             ex("Hay 6 lápices rojos y 2 azules. Dibuja el pictograma.", "Rojos: ● ● ● ● ● ●; Azules: ● ●; clave ● = 1 lápiz", "Un símbolo por lápiz."),
@@ -327,7 +327,7 @@ register(
             ex("¿Por qué conviene un título?", "Para saber de qué trata el gráfico", "Es la primera pista."),
         ],
         "challenge": [
-            ex("Si cada símbolo vale 2 y hay 6 símbolos, ¿cuántos objetos hay?", "12", "6 × 2 = 12."),
+            ex("Una fila de un pictograma tiene 6 símbolos y otra tiene 3 menos. ¿Cuántos símbolos tiene la otra?", "3", "6 − 3 = 3."),
             ex("Construye un pictograma para 10 objetos de 3 tipos distintos.", "Por ejemplo 5, 3 y 2", "5 + 3 + 2 = 10."),
         ],
     },
@@ -374,8 +374,8 @@ register(
             ex("¿Es lo mismo la tabla que el pictograma?", "Sí, muestran los mismos datos", "Cambia la forma."),
         ],
         "challenge": [
-            ex("Tabla: A 10, B 4. Si cada símbolo vale 2, ¿cuántos símbolos dibujas en A?", "5", "10 ÷ 2 = 5."),
-            ex("Con los datos A 10 y B 4 y símbolos que valen 2, ¿cuántos símbolos hay en total?", "7", "5 + 2 = 7."),
+            ex("Tabla: A 10, B 4. ¿Cuántos símbolos más tiene la fila de A que la de B?", "6", "10 − 4 = 6."),
+            ex("Con los datos A 10 y B 4, ¿cuántos símbolos hay en total?", "14", "10 + 4 = 14."),
         ],
     },
     context=[arith("Una escuela pidió: 8 paquetes de cuadernos, 5 de lápices y 3 de gomas. ¿Cuántos símbolos tiene el pictograma si ● = 1 paquete?", "8+5+3", "Un símbolo por cada paquete.")],
@@ -391,9 +391,9 @@ register(
     use="Aprenderé a hacer una pequeña investigación completa: preguntar, recolectar, representar en un pictograma y comunicar lo que descubrí. Sirve para contar a otros lo que averigüé.",
     prior=["Sé hacer preguntas con opciones.", "Sé construir y leer pictogramas."],
     explain=[
-        "Una investigación tiene pasos. Primero, elige una pregunta con opciones. Segundo, pregunta a un grupo de personas y registra una respuesta por persona. Tercero, haz una tabla de conteo. Cuarto, construye un pictograma con título y clave.",
-        "Quinto, interpreta: ¿qué opción fue la más elegida? ¿Cuántos más que la menos elegida? ¿Cuántas personas respondieron? Escribe tus conclusiones en frases que citen los números del gráfico.",
-        "Por último, comunica. Muestra tu pictograma a otra persona y explícale qué descubriste. Dile también qué no puedes saber con tus datos, por ejemplo qué piensan personas a las que no preguntaste.",
+        "Una investigación tiene cinco pasos. Primero, elige una pregunta con opciones y pregúntala a un grupo de personas, anotando una respuesta por persona. Segundo, haz una tabla de conteo. Tercero, construye un pictograma con título y clave.",
+        "Cuarto, interpreta: ¿qué opción fue la más elegida? ¿Cuántos más que la menos elegida? ¿Cuántas personas respondieron? Escribe tus conclusiones en frases que citen los números del gráfico.",
+        "Quinto, comunica. Muestra tu pictograma a otra persona y explícale qué descubriste. Dile también qué no puedes saber con tus datos, por ejemplo qué piensan personas a las que no preguntaste.",
     ],
     vocab=[("investigación", "proceso de preguntar y averiguar"), ("recolectar", "juntar datos"), ("representar", "mostrar en un gráfico"), ("interpretar", "decir qué significan los datos"), ("comunicar", "contarle a otros lo descubierto")],
     worked=[

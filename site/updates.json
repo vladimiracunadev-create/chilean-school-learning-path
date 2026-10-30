@@ -5,6 +5,14 @@
   "updates": [
     {
       "date": "2026-10-30",
+      "title": "1° básico: segunda lectura crítica de las 691 clases",
+      "summary": [
+        "Cada una de las 691 clases de 1° básico fue releída por un segundo lector independiente (asistido por IA, no revisión profesional): contrastó el cuaderno con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió en el mismo archivo errores de respuesta, datos falsos o dudosos, contradicciones internas, ejercicios no enseñados, contenido de otros niveles (multiplicación, centímetros, restas de años) y riesgos de seguridad.",
+        "El resumen por asignatura y los vacíos de cobertura frente al OA que no se resolvieron (Inglés OA 3 y 7, Tecnología OA 3 y 6, obras completas de Lenguaje, lengua indígena real) quedan en [Análisis de alineación](docs/ANALISIS_ALINEACION.md); los contenidos para especialistas, en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md)."
+      ]
+    },
+    {
+      "date": "2026-10-30",
       "title": "Análisis de alineación con el OA oficial (1° básico)",
       "summary": [
         "Nuevo `scripts/audit_alignment.py` y página [Análisis de alineación](docs/ANALISIS_ALINEACION.md): contrasta cada cuaderno con el texto oficial del OA y el título de la clase planificada, mide la legibilidad y ordena las clases para lectura prioritaria. Es una heurística de triage; sobre-marca (sobre todo Inglés) y lo declara.",
@@ -17,16 +25,6 @@
       "title": "Panel de cobertura más claro",
       "summary": [
         "El panel de cobertura del material del estudiante usa ahora las **clases desarrolladas** como denominador y muestra «Pendientes» y «Estado» por nivel; las experiencias integradas de habilidades y actitudes se informan aparte. Con esto 1° básico figura como **completo** (691 de 691), en vez de parecer parcial por contar 343 experiencias integradas que no son clases propias."
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Cuaderno del estudiante: 1° básico completo (11 asignaturas)",
-      "summary": [
-        "Las 691 clases desarrolladas de 1° básico, en sus once asignaturas (Lenguaje, Matemática, Ciencias Naturales, Historia, Artes Visuales, Música, Educación Física, Orientación, Tecnología, Inglés y Lengua y Cultura de los Pueblos Originarios), publican cuaderno del estudiante con explicación, ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios. El total del proyecto sube a 711 clases con cuaderno.",
-        "Los cuadernos se redactaron por bloques de OA en paralelo y se validaron con `scripts/check_student_module.py` y `scripts/validate_student_lessons.py`.",
-        "El validador ahora trata un enunciado idéntico entre asignaturas distintas como error; las 28 repeticiones detectadas se contextualizaron por asignatura. Dentro de una misma asignatura se admite como repaso y se informa en el panel de cobertura.",
-        "Nueva página [Revisión profesional pendiente de los cuadernos](docs/REVISION_PENDIENTE_CUADERNOS.md), con los contenidos que los autores marcaron para revisión especializada. **Ninguna clase tiene revisión profesional.**"
       ]
     }
   ]

@@ -44,10 +44,10 @@ register(
         "apply": [
             ex("Quieres hacer una línea gruesa y de color fuerte. ¿Qué material eliges: lápiz de cera o lápiz de mina fino?", "Lápiz de cera", "Marca un trazo ancho y de color vivo."),
             ex("Quieres un borde recto para una casa de papel. ¿Rasgas o cortas?", "Cortas", "La tijera deja bordes rectos."),
-            arith("En tu laboratorio pruebas 4 materiales y haces 2 cuadritos con cada uno. ¿Cuántos cuadritos haces?", "4 * 2", "Son cuatro materiales con dos cuadritos cada uno."),
+            arith("En tu laboratorio pruebas 4 materiales y haces 2 cuadritos con cada uno. ¿Cuántos cuadritos haces?", "2 + 2 + 2 + 2", "Son cuatro materiales con dos cuadritos cada uno: se suma 2 cuatro veces."),
         ],
         "reason": [
-            ex("Mario quiso dibujar las pestañas de un ojo con témpera espesa y pincel grueso. Le quedó un manchón. ¿El límite estuvo en el material o en su herramienta?", "En la herramienta y el material, porque ambos son gruesos", "Una pintura espesa con pincel grueso no hace líneas finas."),
+            ex("Mario quiso dibujar las pestañas de un ojo con témpera espesa y pincel grueso. Le quedó un manchón. ¿Qué herramienta le conviene usar para las pestañas: un pincel fino o uno más grueso?", "Un pincel fino", "Las pestañas son líneas delgadas y un pincel fino las puede hacer."),
             ex("Bea dice: «La plasticina es mala porque no se puede dibujar con ella». ¿Qué le explicas?", "Que sirve para modelar y no para dibujar", "Cada material sirve mejor para algo distinto."),
         ],
         "challenge": [
@@ -115,13 +115,13 @@ register(
         ],
         "challenge": [
             ex("Quieres hacer un dibujo en el computador. Ordena: A guardar el trabajo, B dibujar con el programa, C abrir el programa de dibujo.", "C, B, A", "Se abre, se dibuja y se guarda."),
-            arith("Para una maqueta cortas 4 tiras de cartulina y de cada una sacas 3 cuadrados. ¿Cuántos cuadrados cortaste?", "4 * 3", "Son cuatro tiras con tres cuadrados cada una."),
+            arith("Para una maqueta cortas 4 tiras de cartulina y de cada una sacas 3 cuadrados. ¿Cuántos cuadrados cortaste?", "3 + 3 + 3 + 3", "Son cuatro tiras con tres cuadrados cada una: se suma 3 cuatro veces."),
         ],
     },
     context=[ex("Vas a hacer una máscara de cartulina: cortas los ojos, pintas las mejillas y pegas lana como pelo. Nombra las tres herramientas que usas.", "Tijera, pincel y pegamento", "Cortar, pintar y unir usan esas tres herramientas.")],
     selfcheck=[
         ex("¿Qué herramienta modela masa?", "La esteca", "Con ella se marcan formas."),
-        ex("¿Se puede cortar tela o cartulina con la tijera de punta redondeada?", "Sí, cartulina", "Esa tijera es adecuada para papel y cartulina."),
+        ex("Para cortar, ¿te quedas sentado o caminas por la sala con la tijera?", "Me quedo sentado", "Se corta sentado para no hacerse daño ni dañar a otros."),
         ex("¿Qué haces con las manos al terminar de trabajar?", "Me las lavo", "Se limpian restos de pintura y pegamento."),
     ],
     open_task=task(
@@ -236,11 +236,11 @@ register(
             ex("En un collage de una casa, ¿qué pegas primero: el cielo de fondo o la puerta pequeña?", "El cielo de fondo", "El fondo se pega primero."),
         ],
         "reason": [
-            ex("Teo pegó el sol amarillo y después el cielo azul encima de todo. Ya no se ve el sol. ¿Qué se equivocó?", "Pegó el fondo después que el sol", "Primero debía pegar el cielo y luego el sol."),
+            ex("Teo pegó el sol amarillo y después el cielo azul encima de todo. Ya no se ve el sol. ¿En qué se equivocó?", "Pegó el fondo después que el sol", "Primero debía pegar el cielo y luego el sol."),
             ex("Nora rasgó papel verde para el pasto y cortó papel con tijera para las ventanas rectas de la casa. ¿Eligió bien?", "Sí", "El borde irregular imita pasto y los recortes rectos hacen ventanas."),
         ],
         "challenge": [
-            arith("Haces un collage con 3 filas de 5 cuadraditos de papel. ¿Cuántos cuadraditos pegas?", "3 * 5", "Son tres filas iguales de cinco."),
+            arith("Haces un collage con 3 filas de 5 cuadraditos de papel. ¿Cuántos cuadraditos pegas?", "5 + 5 + 5", "Son tres filas iguales de cinco: se suma 5 tres veces."),
             ex("Escribe tres pasos para hacer un collage de una playa con papeles de diario y de colores.", "Planificar, rasgar el mar y la arena, pegar de atrás hacia adelante", "Los pasos siguen el orden del procedimiento."),
         ],
     },

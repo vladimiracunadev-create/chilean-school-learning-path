@@ -37,7 +37,7 @@ reg(
         ("Encontrar la palabra que frena", "Lee: «El gato caminó sigiloso por el pasillo. Nadie lo escuchó.» ¿Qué palabra podría ser desconocida?", ["Leo la frase completa.", "Me pregunto qué parte no entiendo: no sé cómo caminó el gato.", "La palabra que me frena es «sigiloso»."], "La palabra desconocida es «sigiloso»."),
         ("Decirlo en voz alta", "Pedro escuchó «El vecino es muy generoso» y no sabe qué significa «generoso». ¿Qué puede decir?", ["Se detiene en la palabra.", "Lo dice con calma, sin vergüenza."], "Puede decir: «No sé qué significa generoso»."),
     ],
-    [("Seguir leyendo como si nada.", "Da vergüenza decir que no se entiende.", "Detente y marca la palabra que te frena."), ("Pensar que sólo los niños no saben palabras.", "Nadie conoce todas las palabras.", "Recuerda que preguntar es de personas curiosas.")],
+    [("Seguir leyendo como si nada.", "Da vergüenza decir que no se entiende.", "Detente y marca la palabra que te frena."), ("Pensar que solo los niños no saben palabras.", "Nadie conoce todas las palabras.", "Recuerda que preguntar es de personas curiosas.")],
     [
         E("En «El oso dormía en una cueva umbría», no sé qué es «umbría». ¿Qué palabra me detiene?", "umbría", "Es la palabra cuyo significado no conozco."),
         E("Ana no entendió «precioso» en una frase. ¿Qué debe hacer primero: seguir sin pensar o detenerse en esa palabra?", "Detenerse en esa palabra", "Notar la palabra es el primer paso para averiguar su significado."),
@@ -58,7 +58,7 @@ reg(
         E("Eva se detiene en «raída» y Mía la salta. ¿Quién usa una mejor estrategia?", "Eva", "Eva nota la palabra y puede averiguarla."),
     ],
     [
-        E("Una frase tiene 6 palabras y no entiendes 1. ¿Cuántas sí entiendes?", "5", "Entiendes casi todas; sólo debes averiguar una palabra."),
+        E("Una frase tiene 6 palabras y no entiendes 1. ¿Cuántas sí entiendes?", "5", "Entiendes casi todas; solo debes averiguar una palabra."),
         E("Lee: «La profesora estaba complacida con el trabajo.» ¿Qué palabra tiene más probabilidad de ser desconocida: «profesora» o «complacida»?", "complacida", "«Profesora» es muy común en la escuela."),
     ],
     [E("La profesora dice: «Hoy haremos una actividad colaborativa». Tomás no sabe qué significa «colaborativa». ¿Qué puede hacer?", "Levantar la mano y preguntar qué significa «colaborativa»", "Preguntar en el momento ayuda a seguir la clase.")],
@@ -81,14 +81,14 @@ reg(
     "Aprenderé a usar las otras palabras de la frase como pistas para adivinar qué significa una palabra nueva. Sirve para entender sin esperar ayuda.",
     ["Sé detectar una palabra que no conozco.", "Sé leer o escuchar frases de dos oraciones."],
     [
-        "Las palabras de una frase se ayudan unas a otras. Cuando no conoces una palabra, mira las que están antes y después. Esas palabras se llaman contexto y entregan pistas. Con ellas puedes formar una idea de lo que significa, y esa idea se llama hipótesis.",
+        "Las palabras de una frase se ayudan unas a otras. Cuando no conoces una palabra, mira las que están antes y después. Esas palabras se llaman contexto y entregan pistas. Con ellas puedes formar una idea de lo que significa. Esa idea es «mi idea» y después hay que comprobarla.",
         "Mira este ejemplo: «El perro estaba famélico: no había comido en todo el día y se comió su plato rapidito». Si no sabes «famélico», las pistas son «no había comido en todo el día» y «se comió su plato rapidito». Entonces famélico debe significar con mucha hambre.",
-        "Una hipótesis puede estar equivocada, por eso después hay que comprobarla. Pero buscar pistas es una buena manera de empezar. Primero marca la palabra, luego busca dos pistas y por último di: «Creo que significa…».",
+        "Tu idea puede estar equivocada, por eso después hay que comprobarla. Pero buscar pistas es una buena manera de empezar. Primero marca la palabra, luego busca dos pistas y por último di: «Creo que significa…».",
     ],
-    [("contexto", "las palabras que rodean a otra palabra"), ("pista", "una señal que ayuda a descubrir algo"), ("hipótesis", "lo que creo que significa, antes de comprobar"), ("famélico", "con mucha hambre"), ("comprobar", "revisar si mi idea es correcta")],
+    [("contexto", "las palabras que rodean a otra palabra"), ("pista", "una señal que ayuda a descubrir algo"), ("mi idea", "lo que creo que significa, antes de comprobar"), ("famélico", "con mucha hambre"), ("comprobar", "revisar si mi idea es correcta")],
     [
-        ("Encontrar dos pistas", "«Mi abuelo es muy longevo: ya tiene 95 años y ha vivido mucho.» ¿Qué creo que significa «longevo»?", ["Marco «longevo».", "Pista 1: tiene 95 años. Pista 2: ha vivido mucho.", "Hipótesis: longevo es una persona que vive muchos años."], "Longevo significa que vive muchos años."),
-        ("Pistas que apuntan a lo frío", "«La sopa estaba gélida; Ana sintió mucho frío al tomarla y la dejó.» ¿Qué creo que significa «gélida»?", ["Marco «gélida».", "Pista 1: sintió mucho frío. Pista 2: dejó la sopa.", "Hipótesis: gélida es muy fría."], "Gélida significa muy fría."),
+        ("Encontrar dos pistas", "«Mi abuelo es muy longevo: ya tiene 95 años y ha vivido mucho.» ¿Qué creo que significa «longevo»?", ["Marco «longevo».", "Pista 1: tiene 95 años. Pista 2: ha vivido mucho.", "Mi idea: longevo es una persona que vive muchos años."], "Longevo significa que vive muchos años."),
+        ("Pistas que apuntan a lo frío", "«La sopa estaba gélida; Ana sintió mucho frío al tomarla y la dejó.» ¿Qué creo que significa «gélida»?", ["Marco «gélida».", "Pista 1: sintió mucho frío. Pista 2: dejó la sopa.", "Mi idea: gélida es muy fría."], "Gélida significa muy fría."),
     ],
     [("Adivinar sin mirar las otras palabras.", "Se piensa que la palabra sola dice todo.", "Lee la frase completa y busca dos pistas."), ("Quedarse con la primera idea sin revisar.", "La primera idea puede no encajar.", "Prueba si tu idea tiene sentido en la frase.")],
     [
@@ -97,9 +97,9 @@ reg(
         E("Las palabras que rodean a otra palabra, ¿cómo se llaman?", "Contexto", "Rodean y ayudan a entender."),
     ],
     [
-        E("¿Qué es una hipótesis de significado?", "Lo que creo que significa una palabra antes de comprobarlo", "Todavía hay que revisarla."),
+        E("¿Qué es «mi idea» sobre el significado de una palabra?", "Lo que creo que significa una palabra antes de comprobarlo", "Todavía hay que revisarla."),
         E("¿Para qué sirven las pistas del contexto?", "Para adivinar qué significa una palabra nueva", "Las palabras vecinas ayudan a comprender."),
-        E("¿Cuántas pistas conviene buscar antes de decir mi hipótesis?", "Dos o más", "Con varias pistas la idea es más segura."),
+        E("¿Cuántas pistas conviene buscar antes de decir mi idea?", "Dos o más", "Con varias pistas la idea es más segura."),
     ],
     [
         E("«Mi hermano es muy veloz: llega primero a todas las carreras.» ¿Qué creo que significa «veloz»?", "Muy rápido", "Llegar primero en carreras indica rapidez."),
@@ -112,18 +112,18 @@ reg(
     ],
     [
         E("«Julia usó una linterna porque la bodega era muy lóbrega: no entraba ni un rayo de luz.» ¿Qué crees que significa «lóbrega»?", "Muy oscura", "No entra luz y se necesita linterna."),
-        E("Elige la mejor hipótesis para «El erizo es tímido: se esconde cuando alguien lo mira». Opciones: a) miedoso y callado, b) muy grande.", "a", "Esconderse indica vergüenza o miedo."),
+        E("Elige la mejor idea para «El erizo es tímido: se esconde cuando alguien lo mira». Opciones: a) miedoso y callado, b) muy grande.", "a", "Esconderse indica vergüenza o miedo."),
     ],
     [E("Un cartel dice: «Cuidado, el piso está resbaloso porque lo acaban de encerar». Un niño no sabe «encerar». ¿Qué pista puede usar?", "La palabra «piso» y que está resbaloso", "Encerar tiene que ver con dejar el piso brillante y liso.")],
     [
         E("Si una palabra no la sé, ¿qué miro primero?", "Las palabras de alrededor", "Dan pistas del significado."),
         E("«El oso es fornido: tiene brazos grandes y mucha fuerza.» ¿Qué significa «fornido»?", "Fuerte", "Brazos grandes y fuerza son las pistas."),
-        E("¿Mi hipótesis siempre es correcta?", "No, hay que comprobarla", "Puede encajar o no en la frase."),
+        E("¿Mi idea siempre es correcta?", "No, hay que comprobarla", "Puede encajar o no en la frase."),
     ],
     ("Lee estas frases. Para cada una, escribe la palabra desconocida, dos pistas y qué crees que significa. Frase 1: «El abuelo estaba afónico: casi no le salía la voz y hablaba muy bajito.» Frase 2: «La torre era altísima y muy esbelta, delgada y larga como un lápiz.» Frase 3: «El payaso hizo una mueca graciosa y todos soltaron una carcajada.»",
      "Frase 1: afónico. Pistas: casi no le salía la voz; hablaba bajito. Creo que significa sin voz. Frase 2: esbelta. Pistas: delgada; larga como un lápiz. Creo que significa delgada y alta. Frase 3: carcajada. Pistas: todos soltaron; payaso gracioso. Creo que es una risa fuerte.",
-     ["marca una palabra por frase", "escribe dos pistas distintas", "dice «creo que significa»"], ["hoja con tres columnas: palabra, pistas, hipótesis"], ["dar una sola pista", "usar la palabra para explicarse a sí misma"],
-     "Pide que busque otra pista en la frase y que la use para mejorar su hipótesis."),
+     ["marca una palabra por frase", "escribe dos pistas distintas", "dice «creo que significa»"], ["hoja con tres columnas: palabra, pistas, idea"], ["dar una sola pista", "usar la palabra para explicarse a sí misma"],
+     "Pide que busque otra pista en la frase y que la use para mejorar su idea."),
     "Escribe una frase propia con pistas para la palabra «veloz».",
     "Inventa una frase con pistas para la palabra «lóbrego» y pide a alguien que adivine.",
 )
@@ -132,7 +132,7 @@ reg(
     OA19, 3,
     "El mini glosario de este cuaderno, lápiz y hoja. No se necesita diccionario real, pero si hay uno infantil en casa se puede usar.",
     "Aprenderé a elegir a quién o dónde preguntar cuando las pistas no bastan. Sirve para averiguar el significado de una palabra con seguridad.",
-    ["Sé usar pistas del contexto.", "Sé el orden del abecedario hasta la letra m."],
+    ["Sé usar pistas del contexto.", "Sé el orden de las letras del abecedario."],
     [
         "A veces las pistas no alcanzan. Entonces puedes preguntar a una persona, como tu profesora, tu mamá, tu papá o un compañero, o consultar un diccionario. Un diccionario es un libro con palabras ordenadas como el abecedario, y al lado de cada una explica qué significa.",
         "Para preguntar bien, nombra la palabra y di en qué frase la oíste. Por ejemplo: «¿Qué significa tímido en la frase El erizo es tímido?». Así la otra persona te responde mejor. Dar las gracias después es parte de una buena pregunta.",
@@ -143,7 +143,7 @@ reg(
         ("Preguntar con una buena pregunta", "Ana no sabe «tímido» en la frase «El erizo es tímido». ¿Cómo puede preguntar?", ["Nombra la palabra.", "Dice en qué frase la oyó.", "Pide el significado con amabilidad."], "¿Qué significa «tímido» en la frase «El erizo es tímido»?"),
         ("Buscar en orden", "Dentro de un glosario con las palabras bote, árbol, casa y dedo, ¿cuál va primero?", ["Miro la primera letra de cada una: b, a, c, d.", "En el abecedario la a va primero."], "Árbol"),
     ],
-    [("Buscar sin mirar el orden del abecedario.", "Se hojea al azar.", "Comienza con la primera letra de la palabra."), ("Preguntar sólo «¿qué es eso?».", "Quien responde no sabe cuál palabra.", "Nombra la palabra y di la frase.")],
+    [("Buscar sin mirar el orden del abecedario.", "Se hojea al azar.", "Comienza con la primera letra de la palabra."), ("Preguntar solo «¿qué es eso?».", "Quien responde no sabe cuál palabra.", "Nombra la palabra y di la frase.")],
     [
         E("¿Qué letra va primero en el abecedario: b o c?", "b", "La b está antes que la c."),
         E("Ana oyó «tímido». ¿Qué dice para preguntar mejor: «¿Qué es eso?» o «¿Qué significa tímido?»", "¿Qué significa tímido?", "Nombra la palabra concreta."),
@@ -152,7 +152,7 @@ reg(
     [
         E("¿Qué es un diccionario?", "Un libro que explica el significado de las palabras", "Tiene las palabras ordenadas y su explicación."),
         E("¿Por qué conviene decir la frase donde oí la palabra?", "Porque ayuda a quien me responde", "El significado puede cambiar según la frase."),
-        E("Menciona una persona a quien puedo preguntar en el curso por una palabra.", "La profesora o un compañero", "Ambos pueden ayudarme."),
+        E("Menciona una persona a quien puedo preguntar en el curso por una palabra.", "Por ejemplo: la profesora o un compañero", "Ambos pueden ayudarme."),
     ],
     [
         E("Ordena según el abecedario: dado, gato, ave, foco.", "ave, dado, foco, gato", "a, d, f, g es el orden."),
@@ -188,22 +188,22 @@ reg(
     ["Sé buscar pistas.", "Sé preguntar o consultar el significado."],
     [
         "Cuando ya tienes una idea del significado, hay que comprobarla. Una manera sencilla es cambiar la palabra desconocida por el significado y releer la frase. Si la frase sigue teniendo sentido, tu idea funciona. Si suena extraña, vuelve a buscar pistas.",
-        "Por ejemplo, en «El gato caminó sigiloso», cambio sigiloso por sin hacer ruido y queda «El gato caminó sin hacer ruido». Tiene sentido, entonces la idea es correcta. Si hubiera puesto «muy rápido», el cuento no cuadraría con «Nadie lo escuchó».",
+        "Por ejemplo, en «El gato caminó sigiloso», cambio sigiloso por sin hacer ruido y queda «El gato caminó sin hacer ruido». Tiene sentido, entonces la idea es correcta. Si hubiera puesto «haciendo mucho ruido», no cuadraría con «Nadie lo escuchó».",
         "Después de comprobar, guarda la palabra en una tarjeta con la palabra, su significado y una frase tuya. Léela dos o tres días seguidos y úsala cuando hables. Así deja de ser desconocida y pasa a ser una palabra que ya sabes.",
     ],
     [("comprobar", "revisar si mi idea funciona"), ("reemplazar", "cambiar una palabra por otra"), ("tarjeta de palabra", "papel con la palabra, su significado y una frase"), ("usar", "decir o escribir la palabra cuando hace falta"), ("tiene sentido", "la frase se entiende bien")],
     [
-        ("Reemplazar para comprobar", "Frase: «La mochila es liviana.» Hipótesis: liviana significa «que pesa poco». ¿Funciona?", ["Reemplazo: «La mochila pesa poco».", "Releo la frase.", "Tiene sentido."], "Sí, la idea funciona."),
-        ("Una idea que no funciona", "Frase: «La sopa estaba gélida y Ana sintió frío.» Hipótesis: gélida significa caliente. ¿Funciona?", ["Reemplazo: «La sopa estaba caliente y Ana sintió frío».", "No concuerda con el frío.", "Debo buscar otra pista."], "No funciona; gélida debe ser muy fría."),
+        ("Reemplazar para comprobar", "Frase: «La mochila es liviana.» Mi idea: liviana significa «que pesa poco». ¿Funciona?", ["Reemplazo: «La mochila pesa poco».", "Releo la frase.", "Tiene sentido."], "Sí, la idea funciona."),
+        ("Una idea que no funciona", "Frase: «La sopa estaba gélida y Ana sintió frío.» Mi idea: gélida significa caliente. ¿Funciona?", ["Reemplazo: «La sopa estaba caliente y Ana sintió frío».", "No concuerda con el frío.", "Debo buscar otra pista."], "No funciona; gélida debe ser muy fría."),
     ],
-    [("Guardar la palabra sin comprobar.", "Se cree que la primera idea es segura.", "Cambia la palabra por el significado y relee."), ("Escribir sólo la palabra en la tarjeta.", "Más tarde no se recuerda el significado.", "Agrega significado y una frase propia.")],
+    [("Guardar la palabra sin comprobar.", "Se cree que la primera idea es segura.", "Cambia la palabra por el significado y relee."), ("Escribir solo la palabra en la tarjeta.", "Más tarde no se recuerda el significado.", "Agrega significado y una frase propia.")],
     [
         E("En «El perro estaba famélico», reemplazo famélico por «con mucha hambre». ¿La frase tiene sentido?", "Sí", "Un perro puede tener mucha hambre."),
         E("Reemplazo «sereno» por «tranquilo» en «El lago estaba sereno». ¿Tiene sentido?", "Sí", "Un lago puede estar tranquilo."),
         E("¿Cuántas partes lleva una tarjeta de palabra: palabra, significado y frase?", "3", "Son tres partes."),
     ],
     [
-        E("¿Qué hago para comprobar mi hipótesis?", "Cambio la palabra por el significado y releo la frase", "Así veo si la frase sigue teniendo sentido."),
+        E("¿Qué hago para comprobar mi idea?", "Cambio la palabra por el significado y releo la frase", "Así veo si la frase sigue teniendo sentido."),
         E("¿Qué hago si la frase no tiene sentido al reemplazar?", "Busco nuevas pistas o pregunto", "Mi idea de significado puede estar equivocada."),
         E("¿Por qué conviene escribir una frase propia en la tarjeta?", "Para recordar cómo se usa la palabra", "Una frase muestra el uso real."),
     ],
@@ -217,8 +217,8 @@ reg(
         E("Beto dice que «inmenso» es pequeño. En «El océano es inmenso, no se ve la orilla», ¿acertó?", "No, inmenso significa muy grande", "No ver la orilla indica tamaño enorme."),
     ],
     [
-        E("¿Qué significa «obediente» si Sol dice: «Mi perro es obediente: siempre hace lo que le pido»? Escribe una tarjeta con tu hipótesis.", "Por ejemplo: obediente, que hace caso; Mi perro es obediente.", "La pista es «hace lo que le pido»."),
-        E("Carla escribió una tarjeta con sólo la palabra «cautela». ¿Qué le falta?", "El significado y una frase", "Sin esos datos no recuerda qué significa."),
+        E("¿Qué significa «obediente» si Sol dice: «Mi perro es obediente: siempre hace lo que le pido»? Escribe una tarjeta con tu idea.", "Por ejemplo: obediente, que hace caso; Mi perro es obediente.", "La pista es «hace lo que le pido»."),
+        E("Carla escribió una tarjeta con solo la palabra «cautela». ¿Qué le falta?", "El significado y una frase", "Sin esos datos no recuerda qué significa."),
     ],
     [E("Tomás aprendió «generoso». Su abuela le pidió que usara la palabra en una frase. ¿Qué frase puede decir?", "Por ejemplo: Mi tío es generoso porque comparte su almuerzo.", "Usar la palabra en una frase muestra que la entiende.")],
     [
@@ -241,7 +241,7 @@ reg(
     "Aprenderé cómo ser un buen público en una obra de teatro. Sirve para disfrutar la obra y respetar a los actores.",
     ["Sé que en el teatro las personas representan una historia.", "Sé escuchar en silencio por un rato."],
     [
-        "El teatro es un arte en el que personas llamadas actores representan una historia frente a otras personas, que son el público. Los actores están en el escenario y el público mira desde las butacas. Para que todos disfruten, el público también tiene tareas importantes.",
+        "El teatro es un arte en el que personas llamadas actores representan una historia frente a otras personas, que son el público. Los actores están en el escenario y el público mira desde las butacas, que son los asientos. Para que todos disfruten, el público también tiene tareas importantes.",
         "El buen público llega a tiempo, apaga o guarda el celular, escucha en silencio y mira con atención. Si algo es gracioso, puede reír; si la historia es triste, puede quedarse callado. Al final, aplaude para agradecer el trabajo de los actores.",
         "Hay cosas que no se hacen durante la obra: hablar fuerte, correr, gritar, comer haciendo ruido o pararse sin necesidad. Los actores te escuchan y se distraen. Si necesitas decir algo muy importante, hazlo en voz baja a un adulto.",
     ],
@@ -294,16 +294,16 @@ reg(
     "Aprenderé a mostrar cómo es un personaje usando el cuerpo y la voz. Sirve para actuar y para entender mejor los cuentos.",
     ["Sé que un personaje es quien participa en una historia.", "Sé hablar fuerte y bajito."],
     [
-        "Cuando un actor representa a un personaje, no sólo dice sus palabras. También usa el cuerpo, la cara y la voz para mostrar cómo es. Un gigante camina con pasos grandes y lentos, y habla con voz grave. Un ratón camina con pasitos rápidos y habla con voz aguda.",
-        "El cuerpo cuenta cómo se siente el personaje. Si está feliz, sonríe y se mueve liviano. Si está enojado, aprieta las manos y el ceño. Si tiene miedo, se encoge y mira para todos lados. La voz también cambia: fuerte, suave, rápida o lenta.",
-        "Para construir un personaje, piensa tres cosas: quién es, cómo se mueve y cómo habla. Después ensaya frente a un adulto y pregúntale: ¿se nota que soy un gigante? Si no se nota, cambia el tamaño de los pasos o la voz.",
+        "Cuando un actor representa a un personaje, no solo dice sus palabras. También usa el cuerpo, la cara y la voz para mostrar cómo es. Un gigante camina con pasos grandes y lentos, y habla con voz grave. Un ratón camina con pasitos rápidos y habla con voz aguda.",
+        "El cuerpo cuenta cómo se siente el personaje. Si está feliz, sonríe y se mueve liviano. Si está enojado, aprieta las manos y junta las cejas (se dice «frunce el ceño»). Si tiene miedo, se encoge y mira para todos lados. La voz también cambia: fuerte, suave, rápida o lenta.",
+        "Para construir un personaje, piensa tres cosas: quién es, cómo se mueve y cómo habla. Después ensaya frente a un adulto y pregúntale: ¿se nota que soy un gigante? Si no se nota, cambia el tamaño de los pasos o la voz. El libreto es el texto con lo que dice cada personaje.",
     ],
     [("personaje", "quien vive la historia"), ("gesto", "movimiento de la cara o las manos"), ("voz grave", "voz baja y gruesa"), ("voz aguda", "voz alta y delgada"), ("ensayar", "practicar antes de actuar")],
     [
         ("Un gigante", "¿Cómo se mueve y habla un gigante que llega a un pueblo?", ["Pasos grandes y lentos.", "Brazos extendidos.", "Voz grave y fuerte."], "Se mueve con pasos grandes y habla con voz grave."),
-        ("Un ratón asustado", "¿Cómo se mueve y habla un ratón asustado?", ["Pasitos rápidos y cuerpo encogido.", "Mira para todos lados.", "Voz aguda y bajita."], "Se mueve con pasitos y habla con voz aguda y baja."),
+        ("Un ratón asustado", "¿Cómo se mueve y habla un ratón asustado?", ["Pasitos rápidos y cuerpo encogido.", "Mira para todos lados.", "Voz aguda y suave."], "Se mueve con pasitos y habla con voz aguda y suave."),
     ],
-    [("Actuar sólo con las palabras.", "Se cree que basta con decir el texto.", "Agrega gestos, pasos y voz."), ("Usar la misma voz para todos los personajes.", "No se piensa cómo es cada uno.", "Cambia la voz según el personaje.")],
+    [("Actuar solo con las palabras.", "Se cree que basta con decir el texto.", "Agrega gestos, pasos y voz."), ("Usar la misma voz para todos los personajes.", "No se piensa cómo es cada uno.", "Cambia la voz según el personaje.")],
     [
         E("Un gigante camina: ¿con pasos grandes o pasitos cortos?", "Pasos grandes", "El gigante es muy alto."),
         E("Un ratón habla: ¿voz grave o voz aguda?", "Voz aguda", "Los ratones son pequeños y su voz es delgada."),
@@ -317,7 +317,7 @@ reg(
     [
         E("Libreto: Gigante: «¡Hola, pueblo!». Escribe cómo caminarías y hablarías para este gigante.", "Por ejemplo: pasos grandes y voz grave", "Cuerpo y voz muestran su tamaño."),
         E("Libreto: Ratón: «¡Cuidado con el gato!». Escribe cómo moverías las manos y la voz.", "Por ejemplo: manos temblorosas y voz aguda rápida", "Muestran susto y pequeño tamaño."),
-        E("Libreto: Reina: «Pasen todos al salón». Describe un gesto y una voz para una reina elegante.", "Por ejemplo: espalda recta, paso lento y voz clara", "Muestran dignidad y elegancia."),
+        E("Libreto: Reina: «Pasen todos al salón». Describe un gesto y una voz para una reina elegante.", "Por ejemplo: espalda recta, paso lento y voz clara", "Muestran que la reina es elegante."),
     ],
     [
         E("Dos niñas actúan de abuelito: Ana camina rápido con voz de bebé. Luz camina lento con la espalda curva y voz temblorosa. ¿Quién muestra mejor al abuelito?", "Luz", "Camina lento y encorvado, como una persona mayor."),
@@ -347,7 +347,7 @@ reg(
     "Aprenderé que el teatro usa espacio, objetos y sonidos para contar. Sirve para crear escenas sin necesidad de muchos materiales.",
     ["Sé representar un personaje con cuerpo y voz.", "Sé reconocer sonidos del hogar."],
     [
-        "En el teatro, el escenario no es sólo un piso: puede ser un bosque, una casa o el espacio. Los actores usan objetos, llamados utilería, para ayudar a contar la historia. Una silla puede ser un trono, y una tela azul puede ser un río.",
+        "En el teatro, el escenario no es solo un piso: puede ser un bosque, una casa o la luna. Los actores usan objetos, llamados utilería, para ayudar a contar la historia. Una silla puede ser un trono, y una tela azul puede ser un río.",
         "También se usan sonidos. Golpear suavemente una mesa puede imitar pasos; una cuchara contra una taza puede ser una campana. Los sonidos ayudan al público a imaginar lo que no se ve. Si el sonido es muy fuerte, se tapan las voces, por eso se cuida el volumen.",
         "Para planear una escena, escribe tres cosas: dónde pasa, qué objetos usan y qué sonidos hay. Por ejemplo: pasa en un bosque, usan una tela verde y un palo, y se escucha el viento con la voz.",
     ],
@@ -409,7 +409,7 @@ reg(
         ("Contar la obra", "Mini obra «El conejo y la zanahoria»: Un conejo tenía hambre. Una zanahoria estaba muy alta en un árbol. El conejo pidió ayuda a un pájaro y juntos la bajaron. ¿Quiénes eran, cuál fue el problema y cómo terminó?", ["Personajes: conejo y pájaro.", "Problema: la zanahoria estaba muy alta.", "Final: la bajaron juntos."], "Personajes: conejo y pájaro; problema: zanahoria alta; final: la bajaron juntos."),
         ("Dar una opinión con razón", "Opino sobre «El conejo y la zanahoria». ¿Qué puedo decir?", ["Digo qué me gustó.", "Agrego «porque».", "La razón viene de la obra."], "Me gustó porque el conejo pidió ayuda y la obtuvo."),
     ],
-    [("Decir sólo «me gustó» sin razón.", "Se cree que basta.", "Agrega «porque» y la razón."), ("Interrumpir al que habla.", "Hay apuro por opinar.", "Espera tu turno.")],
+    [("Decir solo «me gustó» sin razón.", "Se cree que basta.", "Agrega «porque» y la razón."), ("Interrumpir al que habla.", "Hay apuro por opinar.", "Espera tu turno.")],
     [
         E("Mini obra: «Un conejo tenía hambre. La zanahoria estaba en un árbol alto. Un pájaro lo ayudó.» ¿Quién ayudó al conejo?", "Un pájaro", "El texto lo dice."),
         E("En la misma obra, ¿qué problema tenía el conejo?", "Tenía hambre y la zanahoria estaba alta", "Eso complica la historia."),
@@ -430,7 +430,7 @@ reg(
         E("En la obra del conejo, ¿es verdad que el conejo resolvió solo el problema?", "No, un pájaro lo ayudó", "El texto lo dice."),
     ],
     [
-        E("Una niña dice «el conejo fue egoísta». El texto cuenta que pidió ayuda al pájaro y juntos bajaron la zanahoria. ¿La opinión coincide?", "No", "Pedir ayuda y compartir la tarea muestra colaboración."),
+        E("Una niña dice «el conejo no quiso la ayuda de nadie». El texto cuenta que pidió ayuda al pájaro y juntos bajaron la zanahoria. ¿La opinión coincide?", "No", "El conejo pidió ayuda y trabajó junto al pájaro."),
         E("Escribe una pregunta que podrías hacer al pájaro de la obra.", "Por ejemplo: ¿Por qué quisiste ayudar al conejo?", "Una pregunta abierta invita a pensar."),
     ],
     [E("Después de una función, tu amigo dice: «La obra de las abejas fue aburrida». Tú pensaste que fue buena. ¿Cómo puedes decirlo con respeto?", "Por ejemplo: Yo pienso otra cosa: me gustó porque las abejas cantaban", "Es una opinión distinta con razón.")],
@@ -441,7 +441,7 @@ reg(
     ],
     ("Lee la obra y conversa con un adulto. Obra «El gato y el hueso»: Un gato y un perro peleaban por un hueso. Un niño partió el hueso en dos y los dos comieron contentos. Responde en voz alta: quiénes eran, cuál era el problema, cómo terminó y qué te gustó, con «porque».",
      "Eran un gato, un perro y un niño. El problema era que peleaban por un hueso. Terminó cuando el niño lo partió en dos. Me gustó porque el niño solucionó el problema sin pelear.",
-     ["responde las tres preguntas", "da una opinión con «porque»", "escucha al adulto"], ["adulto escucha y anota si usó «porque»"], ["decir sólo «me gustó»", "interrumpir"],
+     ["responde las tres preguntas", "da una opinión con «porque»", "escucha al adulto"], ["adulto escucha y anota si usó «porque»"], ["decir solo «me gustó»", "interrumpir"],
      "Si falta «porque», pregunta: ¿por qué? y repite la frase con la razón."),
     "Cuenta en tres frases una obra o cuento que viste y di qué opinas.",
     "Escribe una pregunta para un personaje y respóndela tú como si fueras él.",
@@ -474,7 +474,7 @@ reg(
         E("Menciona dos partes de una obra que puedo cambiar.", "Por ejemplo: el final y el lugar", "Son partes que se pueden modificar."),
     ],
     [
-        E("Obra: «Una niña va a la plaza y juega con un perro.» Cambia el lugar a una playa. Escribe cómo queda.", "Por ejemplo: Una niña va a la playa y juega con un perro.", "Se cambia sólo el lugar."),
+        E("Obra: «Una niña va a la plaza y juega con un perro.» Cambia el lugar a una playa. Escribe cómo queda.", "Por ejemplo: Una niña va a la playa y juega con un perro.", "Se cambia solo el lugar."),
         E("Obra: «Un oso duerme en su cueva.» Cambia al personaje por un conejo. Escribe cómo queda.", "Un conejo duerme en su cueva", "Se cambia el personaje."),
         E("Obra original: el ratón gana la carrera. Escribe un final distinto.", "Por ejemplo: el ratón y la tortuga llegan juntos", "El final es nuevo."),
     ],

@@ -133,7 +133,7 @@ register(
         "Escucha los nombres y las palabras de acción. Por ejemplo, en «Tom has a red kite. The kite goes up, up, up!», los personajes son Tom y la cometa (kite). El hecho es que la cometa sube. Palabras como has (tiene), goes (va) y says (dice) te ayudan a saber qué ocurre.",
         "Si pierdes una parte, no te detengas. Quédate con los personajes y con lo que pasa primero y después. Casi siempre, el final cuenta cómo termina el problema o qué siente el personaje.",
     ],
-    vocab=[("character", "personaje"), ("kite", "cometa"), ("has", "tiene"), ("goes", "va, se mueve"), ("says", "dice"), ("happy", "contento")],
+    vocab=[("character", "personaje"), ("kite", "cometa (volantín)"), ("has", "tiene"), ("goes", "va, se mueve"), ("says", "dice"), ("happy", "contento")],
     worked=[
         {"title": "Quién y qué hace", "problem": ADULT + "«Tom has a red kite. The wind is strong. The kite goes up, up, up! Tom says: Wow!» ¿Quién es el personaje principal y qué tiene?", "steps": ["Escucho el nombre Tom.", "Escucho «has a red kite».", "Tom tiene una cometa roja."], "answer": "Tom; tiene una cometa roja"},
         {"title": "Qué pasa después", "problem": "En el mismo cuento, ¿qué hace la cometa cuando el viento es fuerte?", "steps": ["Busco el hecho: «goes up, up, up».", "Up significa arriba."], "answer": "La cometa sube"},
@@ -160,14 +160,14 @@ register(
         ],
         "reason": [
             ex(ADULT + "«Sam has a red hat. The wind takes the hat. Sam says: Oh no!» ¿Cómo crees que se siente Sam y qué palabras te lo dicen?", "Preocupado o triste; lo dice «Oh no!»", "La exclamación muestra el sentimiento."),
-            ex("En «Tom has a red kite», ¿por qué la cometa también es un personaje importante en el cuento?", "Porque es lo que hace la acción de subir", "La cometa es protagonista de los hechos."),
+            ex("Un niño dice que Mia tiene un gato, pero el adulto leyó «Mia has a blue ball». ¿Qué conviene hacer?", "Pedir que lo lean de nuevo y buscar lo que Mia tiene: una pelota azul", "Volver al texto corrige el error; has a blue ball dice lo que tiene."),
         ],
         "challenge": [
             ex("Ordena los hechos del cuento de la cometa: (1) La cometa sube. (2) Tom tiene una cometa roja. (3) Tom dice: Wow!", "2, 1, 3", "Primero la tiene, luego sube y después Tom reacciona."),
             ex(ADULT + "«Beto has two fish. One fish is red. One fish is blue. Beto gives food to the fish.» ¿Cuántos peces tiene Beto?", "2", "Two es dos y se nombran dos peces."),
         ],
     },
-    context=[ex(ADULT + "«A little bird is in the garden. The bird sees a worm. The bird eats the worm.» En la casa de Pía, el abuelo cuenta esto en inglés. ¿Qué come el pájaro?", "Un gusano", "Worm es gusano y el texto dice «eats the worm».")],
+    context=[ex("En la casa de Pía, el abuelo cuenta esto en inglés. " + ADULT + "«A little bird is in the garden. The bird sees a worm. The bird eats the worm.» ¿Qué come el pájaro?", "Un gusano", "Worm es gusano y el texto dice «eats the worm».")],
     selfcheck=[
         ex(ADULT + "«Ana has a green frog. The frog jumps.» ¿Quién salta?", "La rana", "La rana es quien jumps."),
         ex("¿Qué significa «has» en inglés?", "tiene", "Has se usa para decir lo que alguien tiene."),
@@ -209,7 +209,7 @@ register(
             ex("¿Qué significa «sound» en español?", "sonido", "Es el ruido que hace algo."),
         ],
         "apply": [
-            ex(ADULT + "«The sun is hot. Let's run in the ...» Rima con sun: ¿es fun o dog?", "fun", "Sun y fun terminan con el mismo sonido."),
+            ex(ADULT + "«The sun is hot. Let's have ...» Rima con sun: ¿es fun o dog?", "fun", "Sun y fun terminan con el mismo sonido."),
             ex("Una imagen muestra un perro y una pelota. Un adulto lee: «Woof! The dog has a ...». ¿Qué palabra falta: ball o cat?", "ball", "La imagen muestra una pelota."),
             ex(ADULT + "«A bee is in the tree. The bee says: Bzz, bzz!» ¿Qué sonido hace la abeja?", "Bzz", "El texto lo dice."),
         ],
@@ -269,7 +269,7 @@ register(
             ex(ADULT + "«Sit, stand, jump, stop!» ¿Qué te piden hacer?", "Moverme: sentarme, pararme, saltar y detenerme", "Son órdenes de movimiento."),
         ],
         "reason": [
-            ex("Un niño dice que el cuento de Pía «es de un perro» porque oyó dog, pero el texto trata de Pía y su pelota. ¿Qué le falta?", "Preguntarse quién y qué hace antes de responder", "No basta con una palabra suelta."),
+            ex("Un niño dice que el cuento de Pía «es de happy» porque fue la última palabra que oyó, pero el texto cuenta que Pía juega con su pelota y está contenta. ¿Qué le falta?", "Preguntarse quién y qué hace antes de responder", "No basta con una palabra suelta."),
             ex("¿Por qué conviene volver a escuchar el texto después de dar tu idea?", "Para comprobar si mi idea era correcta", "Escuchar de nuevo permite corregir."),
         ],
         "challenge": [
@@ -305,7 +305,7 @@ register(
         {"title": "Elegir la acción", "problem": ADULT + "«Point to the door.» ¿Qué se señala?", "steps": ["Point es señalar.", "The door es la puerta."], "answer": "La puerta"},
     ],
     mistakes=[
-        {"wrong": "Confundir «sit down» con «stand up».", "why": "Suenan parecido al principio.", "fix": "Escucha las palabras down y up: bajar y subir."},
+        {"wrong": "Confundir «sit down» con «stand up».", "why": "Se atiende a una sola palabra de la orden.", "fix": "Escucha las dos palabras: down es abajo y up es arriba."},
         {"wrong": "Quedarse quieto por no entender una palabra.", "why": "Hay miedo a equivocarse.", "fix": "Mira a quien enseña y di «Again, please»."},
     ],
     tiers={
@@ -339,7 +339,7 @@ register(
         ex(ADULT + "«Open your book.» ¿Qué haces?", "Abro mi libro", "Open es abrir."),
         ex("¿Qué respondes si no entiendes una orden?", "Again, please", "Es la frase amable para pedir que repitan."),
     ],
-    open_task=task("Un adulto da cuatro órdenes lentas: «Stand up. Touch your head. Sit down. Raise your hand.» Hazlas con tu cuerpo. Luego di tú una orden a otra persona: «Clap, please.»", "Se pone de pie, se toca la cabeza, se sienta y levanta la mano. Luego dice «Clap, please.»", ["hace las cuatro órdenes en orden", "dice una orden con «please»", "pide repetir si no entiende"], ["nota del adulto", "video con permiso"], ["sentarse antes de tocar la cabeza", "no decir please"], "Repite con él las órdenes que olvidó, poniendo un gesto para cada una."),
+    open_task=task("Un adulto da cuatro órdenes lentas: «Stand up. Point to the door. Sit down. Raise your hand.» Hazlas con tu cuerpo. Luego di tú una orden a otra persona: «Clap, please.»", "Se pone de pie, señala la puerta, se sienta y levanta la mano. Luego dice «Clap, please.»", ["hace las cuatro órdenes en orden", "dice una orden con «please»", "pide repetir si no entiende"], ["nota del adulto", "video con permiso"], ["sentarse antes de señalar la puerta", "no decir please"], "Repite con él las órdenes que olvidó, poniendo un gesto para cada una."),
     reinforce="Haz con tu cuerpo «Stand up» y «Sit down» siguiendo la voz de un adulto.",
     extend="Escribe tres órdenes más de clase en inglés, por ejemplo «Listen» y «Look», y dibuja cada una.",
 )
@@ -415,7 +415,7 @@ register(
         {"title": "Cuántos hay", "problem": ADULT + "«I have three balls.» ¿Cuántas pelotas tengo?", "steps": ["Three es tres.", "Balls son pelotas."], "answer": "3 pelotas"},
     ],
     mistakes=[
-        {"wrong": "Decir «She have a book».", "why": "Se usa have con todas las personas.", "fix": "Con she, he o un nombre se dice has."},
+        {"wrong": "Decir «She have a book».", "why": "Se piensa que have sirve con todas las personas.", "fix": "Con she, he o un nombre se dice has."},
         {"wrong": "Confundir «three» con «tree».", "why": "Son sonidos parecidos.", "fix": "Three es número 3 y tree es árbol: escucha el contexto."},
     ],
     tiers={
@@ -467,10 +467,10 @@ register(
     vocab=[("in", "dentro de"), ("on", "sobre"), ("under", "debajo de"), ("next to", "al lado de"), ("where?", "¿dónde?"), ("park", "parque")],
     worked=[
         {"title": "Dónde está", "problem": ADULT + "«The ball is under the table.» ¿Dónde está la pelota?", "steps": ["Escucho under: debajo.", "Escucho the table: la mesa."], "answer": "Debajo de la mesa"},
-        {"title": "Dentro o sobre", "problem": ADULT + "«The pencil is in the bag.» ¿La pencil está dentro o sobre?", "steps": ["Escucho in.", "In es dentro."], "answer": "Dentro de la mochila"},
+        {"title": "Dentro o sobre", "problem": ADULT + "«The pencil is in the bag.» ¿El lápiz está dentro o sobre?", "steps": ["Escucho in.", "In es dentro."], "answer": "Dentro de la mochila"},
     ],
     mistakes=[
-        {"wrong": "Confundir «in» con «on».", "why": "Suenan casi igual.", "fix": "Fíjate si el objeto está adentro (in) o arriba (on) en el dibujo."},
+        {"wrong": "Confundir «in» con «on».", "why": "Son dos palabras cortas y parecidas.", "fix": "Fíjate si el objeto está adentro (in) o arriba (on) en el dibujo."},
         {"wrong": "Responder dónde está con un número.", "why": "Se confunde where con how many.", "fix": "Where pide un lugar, no una cantidad."},
     ],
     tiers={
@@ -486,7 +486,7 @@ register(
         ],
         "apply": [
             ex(ADULT + "«Where is the pencil? It's in the bag.» ¿Dónde está el lápiz?", "En la mochila", "Bag es mochila y in es dentro."),
-            ex(ADULT + "«The book is next to the lamp.» ¿Dónde está el libro?", "Al lado de la lámpara", "Next to es al lado."),
+            ex(ADULT + "«The book is next to the chair.» ¿Dónde está el libro?", "Al lado de la silla", "Next to es al lado."),
             ex(ADULT + "«The fish is in the water.» ¿Dónde está el pez?", "En el agua", "Water es agua."),
         ],
         "reason": [

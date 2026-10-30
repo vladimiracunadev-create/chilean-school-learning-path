@@ -301,7 +301,7 @@ Respuesta: Al encontrarme con alguien para saludarlo
 
 **Lo que aprenderé y para qué sirve.** Aprenderé que los nombres de los lugares (la toponimia) cuentan algo del territorio. Sirve para ubicarse y para respetar la historia de cada lugar.
 
-**Lo que ya debo saber.** Sé que los lugares tienen nombre. Sé usar las palabras norte, sur, este y oeste.
+**Lo que ya debo saber.** Sé que los lugares tienen nombre. Sé leer palabras cortas con ayuda de un adulto.
 
 **Explicación.**
 
@@ -309,7 +309,7 @@ La toponimia es el conjunto de nombres de los lugares: ríos, cerros, playas, pu
 
 Muchos lugares de Chile tienen nombres que vienen de lenguas indígenas, y otros vienen del castellano. Para saber qué cuenta un nombre, no basta con adivinar: hay que preguntar a personas de la comunidad que conocen el territorio y su historia.
 
-Un mapa te ayuda a relacionar un nombre con un lugar. Con los puntos cardinales dices dónde está cada cosa: al norte, al sur, al este, al oeste. Si un nombre de la lengua del pueblo no lo conoces, no lo traduzcas tú: pide que te lo expliquen.
+Un mapa te ayuda a relacionar un nombre con un lugar. Con los puntos cardinales dices dónde está cada cosa: al norte, al sur, al este, al oeste. En un mapa el norte se dibuja arriba, el sur abajo, el este a la derecha y el oeste a la izquierda. Si un nombre de la lengua del pueblo no lo conoces, no lo traduzcas tú: pide que te lo expliquen.
 
 **Palabras importantes**
 
@@ -725,7 +725,7 @@ Respuesta: Preguntar con respeto y aceptar si no quiere contar
 
 Una interacción breve es una conversación muy corta, como saludar y responder. Tiene turnos: primero habla uno, luego habla el otro. Para hacerla bien miras a la persona, hablas con voz clara y esperas la respuesta.
 
-Con una lengua indígena, la interacción solo se hace con expresiones que fueron validadas por el educador tradicional o la comunidad. Por ejemplo, «mari mari» es un saludo en mapuzugun que puedes usar si la educadora de tu pueblo te lo enseñó. No inventes respuestas.
+Con una lengua indígena, la interacción solo se hace con expresiones que fueron validadas por el educador tradicional o la comunidad. Por ejemplo, «mari mari» es un saludo en mapuzugun que puedes usar si el educador/a tradicional te lo enseñó. No inventes respuestas.
 
 Si la persona responde algo que no entiendes, no finjas. Dices «gracias» con respeto y le preguntas al educador o educadora cómo se responde y qué significa. Así cuidas la lengua y no la usas fuera de contexto.
 
@@ -821,7 +821,7 @@ Respuesta: Agradezco y pregunto después qué significa
 - **A3.** 2. Una vez cada persona son 2 turnos.
 - **Z1.** Decir algo equivocado. Sin validar, la frase puede no significar lo que cree.
 - **Z2.** Sí. Preguntar después evita fingir.
-- **D1.** 15. 5 niños por 3 pasos son 15.
+- **D1.** 15. 3 + 3 + 3 + 3 + 3 = 15.
 - **D2.** Cualquier frase de agradecimiento respetuosa. Se acepta un gracias respetuoso.
 - **S1.** Que use solo las expresiones validadas. La palabra del video puede no corresponder a ese pueblo.
 - **E1.** Sí. Cada uno espera su turno.

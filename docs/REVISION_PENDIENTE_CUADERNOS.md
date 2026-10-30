@@ -4,6 +4,16 @@ Los cuadernos del estudiante pasan una **validación automática** (estructura, 
 
 ## 1.º básico
 
+Estado: cada clase tuvo validación automática y una segunda lectura crítica asistida por IA (ver [Análisis de alineación](ANALISIS_ALINEACION.md)). Eso no es revisión profesional. Los vacíos de cobertura frente a los OA se listan allí.
+
+Además de lo señalado por asignatura:
+
+- **Todas:** los textos oficiales de los OA se tomaron de las fichas del repositorio; falta contrastarlos con el Programa de Estudio vigente.
+- **Matemática:** «par», «dobles», «familia de operaciones» y la tríada concreto, pictórico y simbólico se enseñan de forma muy breve; confirmar que alcanza para 6 y 7 años. El umbral «razonable = diferencia hasta 3» es una convención del cuaderno.
+- **Historia:** mapas de Chile como línea vertical con el norte arriba; calendario de septiembre de 2025 (no se actualiza solo); término «ratificó» de la Convención sobre los Derechos del Niño.
+- **Inglés:** la regla «a/an» se enseña por letra, no por sonido; «water» y «window» con aproximaciones en español; diferencias de «period» y «full stop».
+- **Ciencias:** el apio como ejemplo de tallo (botánicamente lo que se come es el pecíolo); simplificación de que los peces toman el aire del agua.
+
 ### Lenguaje y Comunicación
 
 - Separación en sílabas y fonemas, pronunciación del español de Chile (z como /s/, u muda en que, qui, gue, gui, dígrafos rr y ll) y rimas de oído.

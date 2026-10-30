@@ -155,7 +155,7 @@ L(
         ex("Un libro dice: «Los pueblos del norte son todos pastores». ¿Qué pregunta haces?", "¿Todos? ¿Qué dice la fuente de algunos?", "Duda de la generalización."),
         ex("Rosa cuenta que su familia hace algo distinto a lo que dice la ficha. ¿La ficha o Rosa se equivoca?", "Ninguna; puede haber diferencias entre familias", "La ficha describe de forma general."),
     ],
-    context=[ex("Dos primos del pueblo diaguita viven uno en un valle y otro en una ciudad. ¿Cuál es más diaguita?", "Los dos pertenecen por igual", "La pertenencia no depende del lugar de vida.")],
+    context=[ex("Dos primos del pueblo diaguita viven uno en un valle y otro en una ciudad. Un niño dice que el del valle es «más diaguita». ¿Qué le respondes?", "Que los dos pertenecen a su pueblo por igual", "La pertenencia no depende del lugar de vida.")],
     selfcheck=[ex("¿Qué palabra evita generalizar?", "Algunas", "Muestra que no son todos."), ex("¿Quién decide la identidad de una persona?", "Ella misma", "Es lo que siente que es."), ex("¿Hay diversidad dentro de un pueblo?", "Sí", "Hay muchas maneras de vivir.")],
     task=T("Corrige estas tres frases para que no generalicen: a) «Todos los pueblos originarios viven en el campo.» b) «Todas las familias del pueblo aymara hacen lo mismo.» c) «Nadie del pueblo mapuche vive en una ciudad.». Escribe cada una con «algunas», «según la ficha» o «hay personas que…».",
            "a) Algunos pueblos viven en el campo y otros en ciudades. b) Según la ficha, algunas familias aymara crían llamas. c) Hay personas del pueblo mapuche que viven en ciudades.",
@@ -173,7 +173,7 @@ L(
     explain=[
         "El territorio, la historia y la identidad de un pueblo están unidos. El territorio es el lugar donde ese pueblo ha vivido; la historia cuenta lo que le ha pasado en ese lugar y la identidad es cómo las personas se sienten parte de ese pueblo y de ese lugar.",
         "Para explicar esa relación necesitamos evidencia: un dato de la ficha o de un libro confiable. Una explicación completa tiene tres partes: lo que dice la fuente sobre el territorio, algo de su historia y una idea sobre la identidad. Cada parte debe tener una fuente.",
-        "Una buena explicación termina diciendo qué no sabemos y a quién le preguntaremos. Así mostramos respeto: no inventamos para completar lo que falta. Esa honestidad forma parte de aprender de los pueblos originarios.",
+        "Una buena explicación termina diciendo qué no sabemos y a quién le preguntaremos. Así mostramos respeto: no inventamos para completar lo que falta. Esa honestidad es parte de aprender con respeto.",
     ],
     vocab=[("evidencia", "dato que muestra que algo es verdad"), ("relación", "forma en que dos cosas se conectan"), ("explicación", "texto que dice por qué o cómo es algo"), ("síntesis", "resumen de lo más importante"), ("pregunta pendiente", "lo que todavía no sé y quiero preguntar")],
     worked=[
@@ -209,8 +209,8 @@ L(
     ],
     context=[ex("Tu curso prepara un cartel: «Pueblo kawésqar: canales (territorio); navega en canoas (práctica); hoy sigue su historia (identidad)». ¿Cuántas ideas distintas tiene el cartel?", "3", "Territorio, práctica e identidad son tres ideas.")],
     selfcheck=[ex("¿Por qué se cita evidencia?", "Para poder comprobar el dato", "Así se confía en la explicación."), ex("¿Qué escribes si falta un dato?", "Una pregunta pendiente", "No se inventa."), ex("¿Qué tres ideas se relacionan?", "Territorio, historia e identidad", "Son las tres del tema.")],
-    task=T("Elige una ficha escrita en este cuaderno (aymara, lickanantay o kawésqar). Escribe una explicación de 4 frases: 1) dónde vive, 2) un dato del paisaje, 3) una idea sobre la identidad (por ejemplo, que hoy las personas siguen sintiéndose parte del pueblo) y 4) una pregunta pendiente.",
-           "El pueblo lickanantay vive en el desierto de Atacama (ficha). Allí hay oasis y salar. Hoy las personas siguen sintiéndose parte de su pueblo. Quiero preguntar al educador cómo cuidan el agua.",
+    task=T("Elige una ficha escrita en este cuaderno (aymara, lickanantay o kawésqar). Escribe una explicación de 4 frases: 1) dónde vive, 2) un dato del paisaje, 3) una idea sobre la identidad (por ejemplo, que hoy las personas siguen sintiéndose parte del pueblo) y 4) una pregunta pendiente sobre su historia, que la ficha no cuenta.",
+           "El pueblo lickanantay vive en el desierto de Atacama (ficha). Allí hay oasis y salar. Hoy las personas siguen sintiéndose parte de su pueblo. Quiero preguntar al educador qué historia de este territorio cuentan los mayores.",
            ["usa la ficha como evidencia", "relaciona territorio e identidad", "incluye una pregunta pendiente"], ["4 frases"], ["no citar la ficha", "inventar historia"],
            "Pide que muestre con el dedo en qué parte de la ficha está cada dato; las ideas de identidad deben ser respetuosas y generales."),
     reinforce="Subraya en la ficha los datos que sirven como evidencia.",
@@ -248,7 +248,7 @@ L(
         ex("¿Qué miramos al observar relaciones?", "Los seres y las acciones", "Con eso entendemos cómo se conectan."),
     ],
     A=[
-        ex("Escena: «El niño planta un arbolito y lo riega». Escribe los seres.", "niño, arbolito y agua", "Son los que aparecen en la escena."),
+        ex("Escena: «El niño planta un arbolito y lo riega». Escribe los dos seres vivos.", "niño y arbolito", "Son los dos seres vivos que aparecen en la escena."),
         ex("Une cada ser con su acción. 1) el niño 2) el pájaro 3) la lluvia. a) bebe b) cae c) riega", "1-c, 2-a, 3-b", "Cada acción corresponde a un ser."),
         ex("Escena: «La lluvia cae, crece el pasto y comen las vacas». Ordena la cadena.", "lluvia, pasto, vacas", "La lluvia ayuda al pasto y el pasto alimenta a las vacas."),
     ],
@@ -257,10 +257,10 @@ L(
         ex("¿Por qué es importante observar con atención la naturaleza?", "Para entender qué necesitan los seres y cómo cambian", "Así sabemos cómo cuidarlos."),
     ],
     D=[
-        ex("En una escena hay un río, tres patos y un niño que mira. ¿Cuántos seres vivos hay?", "4", "Tres patos más un niño."),
+        ex("En una escena hay un río, tres patos y un niño que mira. Sin contar el río, ¿cuántos seres vivos hay?", "4", "Tres patos más un niño."),
         ex("Si desaparece el agua de un charco, ¿a quiénes afecta? A) solo al charco B) a los seres que lo usan", "B", "Los seres dependen del agua."),
     ],
-    context=[ex("En un valle hay un río, un huerto, una niña y gorriones. Escribe cuántos seres vivos hay en la escena si la niña y 4 gorriones están allí.", "5", "Una niña más cuatro gorriones suman 5 seres vivos.")],
+    context=[ex("En un valle hay un río, una niña y 4 gorriones. Cuenta solo a la niña y a los gorriones: ¿cuántos seres vivos son?", "5", "Una niña más cuatro gorriones suman 5 seres vivos.")],
     selfcheck=[ex("¿Las personas son parte de la naturaleza?", "Sí", "Viven en ella."), ex("¿Qué necesitan las plantas?", "Agua", "Sin agua no crecen."), ex("¿Qué observas en una relación?", "Seres y acciones", "Son las dos cosas que se miran.")],
     task=T("Observa un lugar de tu casa o del patio (una planta, un charco, un árbol, el cielo). Si no puedes salir, usa esta escena: «Un niño riega una maceta; una abeja visita la flor; el sol calienta la tierra». Dibuja la escena y escribe tres seres y tres acciones.",
            "Seres: niño, abeja, flor. Acciones: regar, visitar, calentar.",
@@ -301,7 +301,7 @@ L(
     ],
     A=[
         ex("Clasifica cada acción como CUIDA o DAÑA: a) recoger papeles del suelo b) arrancar flores por jugar c) cerrar la llave.", "a) cuida, b) daña, c) cuida", "Recoger y cerrar la llave protegen; arrancar flores por jugar daña."),
-        ex("Une cada caso con una acción de reciprocidad. 1) recibí agua 2) comí una fruta 3) usé leña. a) cuido el agua b) agradezco c) uso solo lo necesario", "1-a, 2-b, 3-c", "Cada acción devuelve cuidado."),
+        ex("Une cada situación con la acción que devuelve cuidado. 1) Usé mucha agua para regar. 2) Mi curso ensució el patio. 3) Me regalaron una fruta. a) recojo lo que ensucié b) uso menos agua la próxima vez c) digo gracias", "1-b, 2-a, 3-c", "Cada acción responde a su situación: usar menos agua, limpiar y agradecer."),
         ex("Ordena una acción de cuidado: 1) agradezco 2) tomo solo lo necesario 3) recibo agua.", "3, 2, 1", "Primero recibo, luego uso lo necesario y al final agradezco."),
     ],
     Z=[
@@ -353,7 +353,7 @@ L(
     ],
     A=[
         ex("Perspectiva 1: «Observo cuándo florecen las plantas para saber cuándo sembrar». Perspectiva 2: «Anoto cuántos milímetros llueve cada día». ¿Qué tienen en común?", "Las dos observan la naturaleza", "Ambas miran con atención."),
-        ex("Une cada persona con su manera de mirar. 1) científico 2) agricultor 3) niño de un pueblo que agradece a la tierra. a) mide y anota b) observa cuándo sembrar c) agradece a la Madre Tierra", "1-a, 2-b, 3-c", "Cada una tiene su manera."),
+        ex("Une cada persona con su manera de mirar. 1) científico 2) agricultor 3) persona de un pueblo andino que agradece a la Madre Tierra. a) mide y anota b) observa cuándo sembrar c) agradece a la Madre Tierra", "1-a, 2-b, 3-c", "Cada una tiene su manera."),
         ex("Marca las frases que NO jerarquizan: a) «Esta manera es mejor» b) «Cada manera enseña algo» c) «Aprendo de las dos».", "b y c", "La a dice cuál es mejor."),
     ],
     Z=[
@@ -361,7 +361,7 @@ L(
         ex("¿Por qué no basta una sola perspectiva para entender la naturaleza?", "Porque cada una enseña algo distinto", "Se complementan entre sí."),
     ],
     D=[
-        ex("Una familia agricultora y una comunidad indígena miran el cielo para decidir cuándo sembrar. ¿Qué tienen en común?", "Ambas observan para decidir", "La observación orienta la decisión."),
+        ex("Una familia agricultora y una persona de una comunidad indígena observan el clima y las plantas para decidir cuándo sembrar. ¿Qué tienen en común?", "Ambas observan para decidir", "La observación orienta la decisión."),
         ex("Un libro dice «los pueblos del norte creen todos lo mismo». ¿Qué cuidado tienes?", "Dudar del «todos» y revisar la fuente", "Así evita generalizar."),
     ],
     context=[ex("Dos niños hablan de la lluvia: uno dice «es agua que cae de las nubes» y otro «es un regalo que se agradece». ¿Quién tiene la razón?", "Los dos", "Son dos maneras de mirar que pueden convivir.")],

@@ -97,7 +97,7 @@ register(
         ],
         "apply": [
             ex("Lee: «Leo can swim. Leo has a boat. Leo is happy.» ¿Qué sabe hacer Leo?", "Nadar", "Swim es nadar."),
-            ex("Lee: «Ana is sad. She has no ball.» ¿Por qué está triste?", "Porque no tiene una pelota", "Has no ball es no tiene pelota."),
+            ex("Lee: «Ana has a new ball. She is happy.» ¿Cómo está Ana?", "Contenta", "Happy es contento."),
             ex("Lee: «Pia has two cats. They can jump.» ¿Qué pueden hacer los gatos?", "Saltar", "Jump es saltar."),
         ],
         "reason": [
@@ -225,7 +225,7 @@ register(
         ex("Lee: «The dog is in the garden.» ¿Dónde está el perro?", "En el jardín", "In the garden."),
         ex("¿Qué significa «What is this?»", "¿Qué es esto?", "What pide un nombre."),
     ],
-    open_task=task("Lee este texto: «This is Lia. She is my sister. Her bag is on the chair. Her pencil is in the bag.» Responde: (1) Who is she? (2) Where is the bag? (3) Where is the pencil? Luego escribe una pregunta propia con Where sobre un objeto de tu pieza.", "(1) Lia, mi hermana. (2) On the chair. (3) In the bag. Pregunta: Where is my book?", ["tres respuestas correctas", "usa palabras de lugar", "una pregunta con Where"], ["respuestas", "pregunta"], ["responder un nombre a Where", "pregunta sin Where"], "Subraya con él Who, Where y las respuestas del texto."),
+    open_task=task("Lee este texto: «This is Lia. She is my sister. The bag is on the chair. The pencil is in the bag.» Responde: (1) Who is she? (2) Where is the bag? (3) Where is the pencil? Luego escribe una pregunta propia con Where sobre un objeto de tu pieza.", "(1) Lia, mi hermana. (2) On the chair. (3) In the bag. Pregunta: Where is my book?", ["tres respuestas correctas", "usa palabras de lugar", "una pregunta con Where"], ["respuestas", "pregunta"], ["responder un nombre a Where", "pregunta sin Where"], "Subraya con él Who, Where y las respuestas del texto."),
     reinforce="Lee «Where is the ball?» y señala un lugar de tu casa.",
     extend="Escribe tres preguntas con Where, What y Who sobre tu familia o tu sala de clases.",
 )

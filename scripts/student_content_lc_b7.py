@@ -90,7 +90,7 @@ register(
     prior=["Sé escuchar un relato completo.", "Sé quiénes son los personajes."],
     explain=[
         "Información explícita es la que el relato dice con claridad. En el relato de práctica, se dice que la abuela llevaba duraznos y que saludó con «mari mari». No hay que adivinar: está escrito.",
-        "También hay información cultural, es decir, algo sobre cómo viven las personas. En el relato se ve que saludar al encontrarse con un vecino es una costumbre. Esa información la dice el relato; no hace falta inventar más.",
+        "También hay información cultural, es decir, algo sobre cómo viven las personas. En este relato inventado se ve que la abuela saluda a su vecino al encontrarlo. Ese dato lo dice el relato. No sabemos si todos los pueblos lo hacen igual, y no hace falta inventar más.",
         "Si el relato no dice algo, no lo inventes. Anota que no lo dice y pregúntalo a quien lo cuenta. Así aprendes de verdad y no mezclas lo que sabes con lo que supones.",
     ],
     vocab=[("información explícita", "dicha con claridad en el relato"), ("información cultural", "dato sobre cómo vive un grupo"), ("costumbre", "algo que se hace seguido"), ("suponer", "creer sin saber"), ("vecino", "persona que vive cerca")],
@@ -116,7 +116,7 @@ register(
         "apply": [
             ex(f"Relato: «{RELATO_B}» ¿Qué hicieron cuando se despejó la niebla?", "Bajaron", "El relato lo dice."),
             ex(f"Relato: «{RELATO_B}» ¿Qué costumbre se ve cuando la abuela llega arriba?", "Saludar al vecino", "Ella saluda al encontrarlo."),
-            ex(f"Relato: «{RELATO_B}» ¿Cuántas cosas recibe o lleva alguien: duraznos y queso? Escribe el número.", "2", "Son duraznos y queso."),
+            ex(f"Relato: «{RELATO_B}» ¿Cuántos alimentos se nombran en el relato? Escribe el número.", "2", "Se nombran duraznos y queso."),
         ],
         "reason": [
             ex("Un niño dice que el vecino era el abuelo de Tomás. ¿El relato lo dice?", "No", "Solo dice un vecino."),
@@ -247,7 +247,7 @@ register(
             ex("Una niña dice «no sé qué significa esa palabra, ¿me ayuda?». ¿Hizo bien?", "Sí", "Reconoció su límite."),
         ],
         "challenge": [
-            ex("Si 6 niños dicen cada uno una cosa que aprendieron y una que preguntan, ¿cuántas frases hay?", "12", "6 × 2 = 12."),
+            ex("Si 4 niños dicen cada uno una cosa que aprendieron y una que preguntan, ¿cuántas frases hay en total?", "8", "2 + 2 + 2 + 2 = 8."),
             ex("Escribe una frase que diga qué aprendiste y qué preguntarías del relato.", "Cualquier frase con ambas ideas", "Debe tener aprendizaje y pregunta."),
         ],
     },

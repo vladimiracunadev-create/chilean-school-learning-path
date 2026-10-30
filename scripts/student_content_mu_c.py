@@ -44,18 +44,18 @@ register(
             ex("Quieres un sonido suave y largo con un tarro. Describe cómo lo harías.", "Rozando la tapa suavemente con la yema del dedo y dejando sonar", "Suave se logra con poca fuerza y largo dejando que suene."),
         ],
         "reason": [
-            ex("Luz golpeó el tarro con la cuchara fuerte y luego con el dedo suave. ¿Qué cualidad cambió?", "La intensidad (y el timbre)", "Cambió la fuerza y el objeto que golpea."),
+            ex("Luz golpeó el tarro con la cuchara con mucha fuerza y luego, con la misma cuchara, con poca fuerza. ¿Qué cualidad cambió?", "La intensidad", "Cambió qué tan fuerte suena."),
             ex("Marco probó diez golpes seguidos sin parar y dice que exploró. ¿Qué le falta?", "Escuchar entre una prueba y otra", "Explorar necesita atención al sonido."),
         ],
         "challenge": [
-            ex("Con tu voz encuentra tres sonidos distintos: uno agudo, uno grave y uno largo. Escribe cómo los haces.", "Agudo: voz fina como un pajarito; grave: voz hondo como oso; largo: una vocal sostenida", "Cada uno se hace con un cambio de la voz."),
+            ex("Con tu voz encuentra tres sonidos distintos: uno agudo, uno grave y uno largo. Escribe cómo los haces.", "Agudo: voz fina como un pajarito; grave: voz honda como un oso; largo: una vocal sostenida", "Cada uno se hace con un cambio de la voz."),
             ex("Escribe tres posibilidades de sonido de una cuchara de madera y un vaso de plástico.", "Golpear el borde, golpear el fondo y raspar el borde", "Son tres formas distintas de sonar."),
         ],
     },
     context=[ex("Estás en la cocina con una olla, una cuchara de madera y una tapa. Quieres encontrar un sonido grave y otro agudo sin hacer mucho ruido. ¿Qué pruebas?", "Golpear suavemente el fondo de la olla (grave) y el borde de la tapa (agudo)", "El fondo de la olla suena más hondo y la tapa más fino.")],
     selfcheck=[ex("¿Qué es una fuente sonora?", "Lo que produce sonido", "Puede ser un objeto o la voz."), ex("¿Qué cambias al explorar con control?", "Una sola cosa", "Así entiendes el efecto."), ex("¿Qué haces después de cada prueba?", "Escuchar en silencio", "Sirve para notar lo que pasó.")],
     open_task=task(
-        "Toma un tarro con tapa y una cuchara de madera. Prueba estas tres formas y descríbelas con sus cualidades: (1) golpear la tapa con la cuchara; (2) golpear el costado con el dedo; (3) raspar la tapa con la uña. Para cada una escribe si suena agudo o grave, fuerte o suave y largo o corto.",
+        "Toma un tarro con tapa y una cuchara de madera. Prueba estas tres formas y descríbelas con sus cualidades: (1) golpear la tapa con la cuchara; (2) golpear el costado con el dedo; (3) raspar la tapa con la uña. Para cada una escribe si suena agudo o grave, fuerte o suave y largo o corto. Tus respuestas pueden variar según tu tarro: lo importante es lo que tú oyes.",
         "(1) Tapa con la cuchara: agudo, fuerte y corto. (2) Costado con el dedo: grave, suave y corto. (3) Raspado con la uña: agudo, suave y largo.",
         ["prueba las tres formas con cuidado", "describe cada una con las tres cualidades", "escucha entre una prueba y otra"],
         ["interpretación", "tabla con las tres descripciones", "explicación oral"],
@@ -165,13 +165,13 @@ register(
         ],
         "challenge": [
             ex("Crea tu propia regla de improvisación de una línea y escríbela.", "Por ejemplo: solo 4 pulsos y con un silencio al final", "Una regla clara se puede comprobar."),
-            ex(f"Inventa un patrón de 4 pulsos con exactamente 3 sonidos y un silencio.", f"Por ejemplo {P(TA, TT, SIL, SIL)}", "Debe sumar 3 sonidos y contener un silencio."),
+            ex("Inventa un patrón de 4 pulsos con exactamente 3 sonidos y al menos un silencio.", f"Por ejemplo {P(TA, TA, TA, SIL)} o {P(TA, TT, SIL, SIL)}", "Debe sumar 3 sonidos (TA vale 1 y ti-ti vale 2) y contener un silencio."),
         ],
     },
     context=[ex("Tu profesora dice: «improvisen con la regla de usar solo el tarro y tocar suave». ¿Qué cosas puedes elegir tú?", "Dónde golpear, cuántos golpes y los silencios", "Esas decisiones siguen siendo tuyas.")],
     selfcheck=[ex("¿Qué es una regla de improvisación?", "Un límite acordado", "Marca lo que no se puede pasar."), ex("¿Qué haces para comprobar tu regla?", "Contar y escuchar", "Así sé si la cumplí."), ex("¿Una regla impide crear?", "No", "Ayuda a crear.")],
     open_task=task(
-        f"Elige una de estas reglas: (a) solo 3 sonidos, (b) todo suave, (c) con un silencio al final. Improvisa un patrón de 4 pulsos que cumpla la regla, tócalo con palmas dos veces y cámbiale la intensidad la segunda vez. Escribe tu patrón con símbolos y comprueba la regla. Puedes partir de {P(TA, TT, TA, SIL)}.",
+        f"Elige una de estas reglas: (a) solo 3 sonidos, (b) todo suave, (c) con un silencio al final. Improvisa un patrón de 4 pulsos que cumpla la regla, tócalo con palmas dos veces y cámbiale una cualidad la segunda vez sin romper la regla (por ejemplo, el lugar donde golpeas; si elegiste «todo suave», no lo toques fuerte). Escribe tu patrón con símbolos y comprueba la regla. Puedes partir de {P(TA, TT, TA, SIL)}.",
         f"Elegí (c). Mi patrón fue {P(TA, TA, TT, SIL)}. Cumple la regla porque termina en silencio. La segunda vez lo toqué más suave.",
         ["cumple la regla elegida", "mantiene 4 pulsos", "cambia una cualidad en la segunda vez"],
         ["interpretación", "patrón escrito", "comprobación oral"],
@@ -306,7 +306,7 @@ register(
     prior=["Sé tocar un patrón corto.", "Sé usar señales de empezar y terminar."],
     explain=[
         "Cuando varias personas presentan juntas, cada una tiene un rol. El presentador dice qué se va a tocar. El director da las señales. Los intérpretes tocan o cantan. Si es un trabajo individual, una sola persona hace todo, pero también puede pensar en cada rol.",
-        "Una presentación tiene tres momentos: inicio, desarrollo y final. En el inicio, el presentador saluda y dice el nombre del trabajo. En el desarrollo, se toca. En el final, se baja la mano, se hace silencio y se agradece. Todos saben cuándo les toca.",
+        "Una presentación tiene tres momentos: inicio, desarrollo y final. En el inicio, el presentador saluda y dice el nombre del trabajo. En el desarrollo, se toca. En el final, el director cierra el puño, se hace silencio y se agradece. Todos saben cuándo les toca.",
         "Las señales son parte del trabajo. Antes de empezar, cuenten pulsos en voz baja. Si alguien se pierde, no se detiene: busca el pulso y vuelve. Decidan antes quién hace qué y cuántas veces se repite el patrón. Ensayen una vez completa.",
     ],
     vocab=[("rol", "tarea de cada persona en el grupo"), ("presentador", "persona que dice qué se va a tocar"), ("director", "persona que da señales"), ("desarrollo", "parte del medio, cuando se toca"), ("agradecer", "decir gracias al terminar")],
@@ -335,7 +335,7 @@ register(
             ex("Escribe una frase para el inicio de la presentación.", "Por ejemplo: Hola, vamos a presentar un patrón de palmas", "El inicio saluda y anuncia."),
         ],
         "reason": [
-            ex("Un niño toca antes de la señal. ¿Qué rol no respetó?", "El del director", "No esperó su señal."),
+            ex("Un niño toca antes de la señal. ¿Qué debió esperar?", "La señal del director", "La mano que baja dice cuándo empezar."),
             ex("¿Por qué conviene ensayar una vez completa antes de presentar?", "Para detectar problemas y mejorar", "Ensayar ayuda a corregir."),
         ],
         "challenge": [
@@ -365,7 +365,7 @@ register(
     explain=[
         "Ensayar es repetir para mejorar, pero con un objetivo. No se repite por repetir. Antes de ensayar elige un aspecto audible para mejorar: el pulso parejo, la fuerza, el final claro. Después de tocar, comprueba si mejoró.",
         "La evidencia es algo que se oye o se ve y que prueba si mejoró. Por ejemplo, contar en voz baja los pulsos y ver si el patrón coincide. O pedir a alguien que diga si oyó el silencio en su lugar. La evidencia es mejor que decir «me parece que sí».",
-        "Usa una pauta de ensayo, que es una lista de lo que debe cumplirse. Tócala dos veces y compara la primera con la segunda. Mejorar un solo aspecto a la vez es suficiente. Tampoco hay que buscar la perfección, sino un paso adelante.",
+        "Usa una pauta de ensayo, que es una lista de lo que debe cumplirse. Toca tu patrón dos veces y compara la primera vez con la segunda. Mejorar un solo aspecto a la vez es suficiente. Tampoco hay que buscar la perfección, sino un paso adelante.",
     ],
     vocab=[("ensayar", "repetir para mejorar"), ("aspecto", "una parte que se puede mejorar"), ("evidencia", "algo que se oye o se ve y lo prueba"), ("pauta", "lista de criterios para revisar"), ("comparar", "mirar en qué cambió entre dos intentos")],
     worked=[
@@ -436,7 +436,7 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Antes de presentar, ¿qué dices primero: tu nombre o el nombre de tu trabajo?", "El nombre del trabajo", "Anuncia lo que vas a mostrar."),
+            ex("Al comenzar tu presentación, ¿qué anuncias?", "El nombre de mi trabajo", "Anuncia lo que vas a mostrar."),
             ex("Sentir nervios al presentar, ¿es normal o es malo?", "Normal", "Muchas personas los sienten."),
             ex("Al final de la presentación, ¿qué haces?", "Agradezco", "Es una forma respetuosa de cerrar."),
         ],
@@ -482,7 +482,7 @@ register(
     explain=[
         "En nuestra vida hay sonidos y música todo el día. Algunos son sonidos de la casa, como el agua o los pasos. Otros son música que alguien pone o canta. Un mapa sonoro es un dibujo que muestra qué sonidos hay y dónde y cuándo suenan.",
         "Para armar un mapa sonoro, piensa en una rutina. Por ejemplo: despertar, desayunar, ir al colegio, jugar en el patio, volver a casa, bañarse y dormir. En cada momento escribe uno o dos sonidos y descríbelos con las cualidades: fuerte o suave, largo o corto, agudo o grave.",
-        "Escucha a tu alrededor sin grabar a nadie. Si quieres, tomas nota con palabras o dibujos. No hace falta escribir nombres de personas ni lugares exactos. Solo di «mi casa», «el patio» o «la calle».",
+        "Escucha a tu alrededor sin grabar a nadie. Si quieres, toma nota con palabras o dibujos. No hace falta escribir nombres de personas ni lugares exactos. Solo di «mi casa», «el patio» o «la calle».",
     ],
     vocab=[("rutina", "lo que hago cada día en orden"), ("mapa sonoro", "dibujo que muestra sonidos y lugares"), ("sonido cotidiano", "sonido que oigo todos los días"), ("lugar", "dónde suena"), ("momento", "cuándo suena")],
     worked=[

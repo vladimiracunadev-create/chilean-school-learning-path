@@ -334,7 +334,7 @@ Respuesta: 2 veces
 
 *Ejemplo 2. Reconocer dónde está*
 
-Problema: En el guion anterior, ¿la expresión aparece al principio o al final?
+Problema: En el guion anterior, ¿en qué lugares aparece la expresión: al principio, al final o en los dos?
 
 1. Primero: «Hola».
 2. Después aparece «Mari mari».

@@ -403,7 +403,7 @@ Respuesta: una flor
 - **D1.** 2. Aparecen en la primera y en la segunda parte.
 - **D2.** 5. Mi, mamá, me, mima y mucho empiezan con m.
 - **S1.** 5. Tres, tristes, tigres, tragaban y trigo empiezan con t.
-- **E1.** la letra p. Casi todas las palabras empiezan con p.
+- **E1.** la letra p. Todas las palabras empiezan con p.
 - **E2.** dos. Primero entiendo y luego cuento.
 - **E3.** No. Se cuida tal como es.
 
@@ -957,7 +957,7 @@ Problema: Texto de práctica creado para este cuaderno (no pertenece a ningún p
 
 Respuesta: 1 animal
 
-*Ejemplo 2. Propósito: lugar*
+*Ejemplo 2. Propósito: paisaje*
 
 Problema: En el mismo texto, ¿cuántas cosas del paisaje se nombran (luna, mar, cielo)?
 

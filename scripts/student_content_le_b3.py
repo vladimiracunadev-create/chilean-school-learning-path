@@ -182,7 +182,7 @@ lesson(
     ],
     [
         E("Une dos detalles en una sola oración: «El gato duerme.» + dónde: en la cama + cómo: tranquilo.", "El gato duerme tranquilo en la cama.", "Se unen los dos detalles."),
-        E("¿Qué detalle falta en «Mi mamá cocina»: dónde, cuándo o cómo? Elige uno y escribe la oración.", "Por ejemplo: Mi mamá cocina en la cocina.", "Cualquier detalle útil sirve."),
+        E("¿Qué detalle falta en «Mi mamá cocina»: dónde, cuándo o cómo? Elige uno y escribe la oración.", "Por ejemplo: Mi mamá cocina en la mañana.", "Cualquier detalle útil sirve."),
     ],
     [E("Tu amigo no sabe dónde jugaron. Escribe: «Jugamos» + dónde: en la plaza.", "Jugamos en la plaza.", "Se agrega el detalle de lugar.")],
     [
@@ -196,7 +196,7 @@ lesson(
         ["tres oraciones", "cada una con el tipo de detalle pedido", "tienen sentido y punto"],
         ["tres oraciones escritas", "lectura en voz alta"],
         ["agregar un detalle de otro tipo", "olvidar el punto"],
-        "Pregunta a un compañero qué dato nuevo aprendió con tu detalle.",
+        "Pregunta a alguien qué dato nuevo aprendió con tu detalle.",
     ),
     "Di una oración sobre ti y agrégale un detalle de lugar.",
     "Escribe una oración con dos detalles: dónde y cómo.",
@@ -301,8 +301,8 @@ lesson(
         E("¿Cuántos puntos tiene la lista de revisión de esta clase?", "4", "Son mayúscula, quién y qué hace, punto y separación."),
     ],
     [
-        E("Revisa: «la gata duerme en el sofa» y escribe cuántas cosas corriges (mayúscula, tilde de sofá, punto).", "3", "Hay que corregir la mayúscula, la tilde y el punto."),
-        E("Escribe la oración completa y corregida: «mi tia llega hoy».", "Mi tía llega hoy.", "Mayúscula, tilde y punto."),
+        E("Revisa: «la gata duerme en el sillón» y escribe cuántas cosas corriges (mayúscula y punto).", "2", "Hay que corregir la mayúscula y el punto."),
+        E("Escribe la oración completa y corregida: «mi abuela llega hoy».", "Mi abuela llega hoy.", "Mayúscula al inicio y punto al final."),
     ],
     [E("Tu compañero te muestra «Los niños juegan en la plaza». Revisa con la lista de 4 puntos. ¿Está lista? Responde sí o no.", "Sí", "Tiene mayúscula, quién y qué hace, punto y separación.")],
     [
@@ -331,12 +331,12 @@ lesson(
     [
         "Cuando escribes, otra persona leerá lo que hiciste. Si las letras son claras y están bien separadas, esa persona entiende rápido. Si están muy chicas, muy grandes o pegadas, se vuelve difícil leer.",
         "Una letra clara tiene la forma correcta, un tamaño parecido a las demás y está sobre la línea. Una escritura clara también deja espacio entre las palabras. Así el lector no se confunde.",
-        "Después de escribir, comprueba: ¿se leen todas las letras?, ¿hay espacio entre las palabras? Si alguien tiene que adivinar lo que escribiste, entonces puedes mejorarla.",
+        "Después de escribir, comprueba: ¿se leen todas las letras?, ¿hay espacio entre las palabras? Si alguien tiene que adivinar lo que escribiste, puedes mejorar tu letra.",
     ],
     [("legible", "que se puede leer con facilidad"), ("letra clara", "letra con buena forma y tamaño"), ("espacio", "hueco entre palabras"), ("lector", "quien lee lo que escribí"), ("línea", "raya del cuaderno donde apoyo las letras")],
     [
         ("Elegir la más clara", "A) «El gato duerme.» (letras claras y separadas) B) «Elgatoduerme» (palabras pegadas). ¿Cuál se lee mejor?", ["La A tiene espacios.", "La B está pegada."], "La A"),
-        ("Pensar en el lector", "¿Para quién escribes tu nota para que la lea?", ["Pienso en el lector.", "Debe entender sin adivinar."], "Para una persona que la leerá"),
+        ("Pensar en el lector", "Escribes una nota. ¿Para quién tiene que ser fácil de leer?", ["Pienso en el lector.", "Debe entender sin adivinar."], "Para la persona que la leerá"),
     ],
     [
         ("Escribir muy rápido.", "Se quiere terminar pronto.", "Escribe con calma para que se lea."),
@@ -362,7 +362,7 @@ lesson(
         E("Pablo dice: «Yo sé lo que dice, no importa». ¿Es correcto? Responde sí o no.", "No", "Otros deben poder leerla."),
     ],
     [
-        E("Lee dos versiones: A) «Mama fue al mercado.» B) «M a m a f u e a l m e r c a d o». ¿Cuál se lee mejor?", "A", "Las letras no están sueltas y se entiende."),
+        E("Lee dos versiones: A) «Mamá fue al mercado.» B) «M a m a f u e a l m e r c a d o». ¿Cuál se lee mejor?", "A", "Las letras no están sueltas y se entiende."),
         E("Una frase tiene 4 palabras y entre ellas hay 3 espacios. ¿Cuántos espacios habrá en una frase de 5 palabras?", "4", "Siempre hay un espacio menos que palabras."),
     ],
     [E("Escribes una nota para tu vecina para avisarle que hay un paquete en tu casa. ¿Qué cuidas para que ella la lea? A) Letra clara y espacios B) Letra pequeña y pegada", "A) Letra clara y espacios", "Así se lee mejor.")],
@@ -432,7 +432,7 @@ lesson(
         E("¿Qué ayuda a mejorar la letra?", "Practicar con calma", "La mano aprende los movimientos."),
     ],
     task(
-        "Escribe tres veces cada una de estas palabras con buena postura y trazos claros: «lola, loro, ola». Luego dime con tus palabras cómo estabas sentado.",
+        "Escribe tres veces cada una de estas palabras con buena postura y trazos claros: «lola, loro, ola». Luego cuéntale a un adulto cómo estabas sentado.",
         "lola lola lola, loro loro loro, ola ola ola. Estaba sentado con la espalda recta y los pies en el suelo.",
         ["escribe las tres palabras tres veces", "letras parecidas entre sí", "describe su postura"],
         ["hoja con las palabras", "descripción oral"],
@@ -485,7 +485,7 @@ lesson(
         E("En la palabra «pelota», ¿cuántas letras son altas (l, t)?", "2", "La l y la t son altas."),
         E("En la palabra «jirafa», ¿cuántas letras tienen cola (j)?", "1", "Sólo la j baja de la línea."),
     ],
-    [E("Camila escribe «gato» en su cuaderno. ¿Qué letra baja de la línea y qué letra sube? Responde: g baja; t sube. ¿Cuál es correcto? A) g baja, t sube B) g sube, t baja", "A) g baja, t sube", "La g tiene cola y la t es alta.")],
+    [E("Camila escribe «gato» en su cuaderno. ¿Qué es correcto? A) g baja, t sube B) g sube, t baja", "A) g baja, t sube", "La g tiene cola y la t es alta.")],
     [
         E("¿Cuál es una letra alta? A) d B) a", "A) d", "La d sube."),
         E("¿Cuál tiene cola? A) y B) i", "A) y", "La y baja de la línea."),
@@ -499,7 +499,7 @@ lesson(
         ["confundir alta con cola", "no cuidar el tamaño"],
         "Mira que todas las letras bajas tengan el mismo tamaño.",
     ),
-    "Escribe las letras b, d, g, p y y y di cuáles bajan de la línea.",
+    "Escribe las letras b, d, g, p e y, y di cuáles bajan de la línea.",
     "Busca tres palabras de tu casa con letras de cola y escríbelas.",
 )
 
@@ -602,7 +602,7 @@ lesson(
         E("Dos niños prueban sus notas. A uno le dicen que se entiende todo; al otro, que hay palabras pegadas. ¿Quién debe corregir?", "El que tiene palabras pegadas", "Debe separar las palabras."),
     ],
     [
-        E("Una nota dice: «Mamáfuialaplaza». Un lector no la entiende. Escribe la corrección.", "Mamá, fui a la plaza.", "Con espacios y puntuación se entiende."),
+        E("Una nota dice: «Mamáfuialaplaza». Un lector no la entiende. Escribe la corrección.", "Mamá: fui a la plaza.", "Con espacios y puntuación se entiende."),
         E("Ordena los pasos para probar: a) Escribir una nota. b) Mejorar si hace falta. c) Pedir que la lean. Escribe las letras.", "a, c, b", "Primero escribes, luego pruebas y después mejoras."),
     ],
     [E("Mía escribió una nota para su vecino: «Hoy vendré a las cuatro». Su amiga la leyó sin problemas. ¿Qué concluye Mía?", "Que su escritura es legible", "El lector entendió.")],

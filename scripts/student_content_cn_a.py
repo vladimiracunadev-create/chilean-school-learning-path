@@ -70,7 +70,7 @@ register(
     explain=[
         "Los seres vivos necesitan agua, alimento y aire para vivir. Tú tomas agua, comes y respiras. Un perro también. Una piedra no necesita nada de eso y por eso no se enferma ni se muere.",
         "Las plantas también necesitan agua y aire. Su alimento lo fabrican ellas con luz, agua y aire. Si una planta no recibe agua, sus hojas se ponen caídas. Si le das agua, sus hojas siguen firmes.",
-        "Los peces no respiran como tú, pero toman aire que está mezclado con el agua. Por eso un pez necesita agua limpia. Cada ser vivo recibe lo que necesita de una manera distinta.",
+        "Los peces no respiran como tú, pero toman el aire que hay mezclado en el agua. Por eso un pez necesita agua limpia. Cada ser vivo recibe lo que necesita de una manera distinta.",
     ],
     vocab=[("agua", "líquido que los seres vivos necesitan para vivir"), ("alimento", "lo que come un ser vivo para tener energía y crecer"), ("aire", "gas que está a nuestro alrededor y que se respira"), ("necesitar", "no poder vivir sin algo"), ("hoja caída", "hoja que perdió su firmeza por falta de agua")],
     worked=[
@@ -153,7 +153,7 @@ register(
             ex("Un caracol esconde sus cuernitos cuando lo tocas. ¿Qué pista de vida muestra?", "Responde a un estímulo", "Reacciona al toque."),
         ],
         "challenge": [
-            ex("Un huevo de gallina fresco no tiene pollito. Uno que la gallina empolla 21 días sí. ¿Qué pista de vida aparece después de 21 días?", "Nace un pollito, o sea se reproduce", "De un huevo fértil sale una cría."),
+            ex("Un huevo fértil recién puesto todavía no tiene pollito formado. Si la gallina lo empolla unos 21 días, sale un pollito. ¿Qué pista de vida aparece después de ese tiempo?", "Nace un pollito, o sea se reproduce", "De un huevo fértil sale una cría."),
             ex("Escribe un estímulo y la respuesta de un animal.", "Por ejemplo ruido fuerte y el gato salta", "Un estímulo provoca una respuesta."),
         ],
     },
@@ -177,7 +177,7 @@ register(
     vocab=[("clasificar", "poner objetos en grupos según una regla"), ("evidencia", "dato que observo y apoya mi decisión"), ("ser vivo", "tiene todas las pistas de vida"), ("cosa no viva", "no tiene las pistas de vida"), ("criterio", "regla que uso para formar los grupos")],
     worked=[
         {"title": "Clasificar con una tabla", "problem": "Perro: crece Sí, responde Sí, se reproduce Sí, necesita agua y alimento Sí. Piedra: No, No, No, No. ¿En qué grupo va cada uno?", "steps": ["Perro tiene Sí en las cuatro pistas.", "Piedra tiene No en las cuatro pistas.", "Un ser vivo cumple las pistas y una cosa no viva no."], "answer": "Perro: ser vivo. Piedra: cosa no viva"},
-        {"title": "Un caso que engaña", "problem": "Champiñón: crece Sí, responde Sí (se inclina), se reproduce Sí, necesita alimento Sí. No se mueve. ¿Es un ser vivo?", "steps": ["No camina ni salta, pero eso no es una pista de vida.", "Tiene Sí en las cuatro pistas.", "Por la evidencia, va en seres vivos."], "answer": "El champiñón es un ser vivo"},
+        {"title": "Un caso que engaña", "problem": "Champiñón: crece Sí, responde Sí (cambia con la humedad y el ambiente), se reproduce Sí, necesita alimento Sí. No se mueve. ¿Es un ser vivo?", "steps": ["No camina ni salta, pero eso no es una pista de vida.", "Tiene Sí en las cuatro pistas.", "Por la evidencia, va en seres vivos."], "answer": "El champiñón es un ser vivo"},
     ],
     mistakes=[
         {"wrong": "Poner el auto de juguete en seres vivos porque rueda.", "why": "Se usa solo el movimiento.", "fix": "Revisa la tabla: el auto tiene No en crecer, responder y reproducirse."},
@@ -224,7 +224,7 @@ register(
     explain=[
         "Un naturalista mira con cuidado a los animales y anota lo que ve. Hoy anotamos cuatro datos: el tamaño, con qué está cubierto su cuerpo, cómo se mueve y dónde vive.",
         "La cubierta del cuerpo puede ser pelo, plumas, escamas, piel suave o un caparazón. El perro tiene pelo, la gallina tiene plumas y la trucha tiene escamas. Cada cubierta protege al animal de una forma distinta.",
-        "El tamaño se compara: una hormiga mide 1 cm, un gato mide unos 25 cm de alto y un caballo unos 150 cm. Anotar estos datos en una ficha permite comparar sin equivocarse.",
+        "El tamaño se compara: una hormiga mide cerca de 1 cm, un gato mide unos 25 cm de alto y un caballo unos 150 cm. Son medidas aproximadas. Anotar estos datos en una ficha permite comparar sin equivocarse.",
     ],
     vocab=[("naturalista", "persona que observa y anota cómo son los seres vivos"), ("cubierta del cuerpo", "lo que cubre la piel del animal, como pelo o plumas"), ("tamaño", "qué tan grande o pequeño es"), ("hábitat", "lugar donde vive un animal"), ("ficha", "hoja donde anoto datos")],
     worked=[
@@ -262,7 +262,7 @@ register(
     },
     context=[ex("En el parque ves un picaflor de 10 cm con plumas que vuela y una paloma de 30 cm con plumas que vuela. ¿Cuántos centímetros más grande es la paloma?", "20 cm", "30 menos 10 es 20.")],
     selfcheck=[ex("¿Qué cubierta tiene una gallina?", "Plumas", "Las aves tienen plumas."), ex("¿Qué hace un naturalista con lo que observa?", "Lo anota en una ficha", "Registra datos para comparar."), ex("¿Qué cubierta tiene un pez?", "Escamas", "Los peces suelen tener escamas.")],
-    open_task=task("Completa una ficha de naturalista con estos cuatro animales: perro (50 cm, pelo, camina con cuatro patas, casa), pingüino (60 cm, plumas, nada con aletas, costa), lagartija (10 cm, escamas, camina con cuatro patas, piedras), trucha (30 cm, escamas, nada con aletas, río). Después dibuja uno.", "Ficha del perro: tamaño 50 cm, cubierta pelo, se mueve caminando con cuatro patas, vive en una casa. Dibujo: un perro con pelo.", ["escribe los cuatro datos", "usa números para el tamaño", "dibuja un animal"], ["tabla", "dibujo"], ["escribir opiniones", "olvidar la unidad cm"], "Reconoce datos observables y pide agregar la unidad en cada tamaño."),
+    open_task=task("Completa una ficha de naturalista con estos cuatro animales (datos de ejemplo aproximados): perro (50 cm, pelo, camina con cuatro patas, casa), pingüino (60 cm, plumas, nada con aletas, costa), lagartija (10 cm, escamas, camina con cuatro patas, piedras), trucha (30 cm, escamas, nada con aletas, río). Después dibuja uno.", "Ficha del perro: tamaño 50 cm, cubierta pelo, se mueve caminando con cuatro patas, vive en una casa. Dibujo: un perro con pelo.", ["escribe los cuatro datos", "usa números para el tamaño", "dibuja un animal"], ["tabla", "dibujo"], ["escribir opiniones", "olvidar la unidad cm"], "Reconoce datos observables y pide agregar la unidad en cada tamaño."),
     reinforce="Mira una mascota y anota sus cuatro datos.",
     extend="Compara dos animales con una ficha y escribe una diferencia y una semejanza.",
 )
@@ -295,7 +295,7 @@ register(
         "understand": [
             ex("¿Qué significa «desplazarse»?", "Moverse de un lugar a otro", "Es cambiar de lugar."),
             ex("¿Cómo se desplaza una serpiente?", "Reptando", "Arrastra su cuerpo."),
-            ex("¿Cuántas estructuras de desplazamiento usa el pato?", "Tres: patas, alas y patas para nadar", "Camina, vuela y nada."),
+            ex("¿Cuántas formas de moverse tiene el pato?", "Tres: caminar, nadar y volar", "Camina con patas, nada con patas con membrana y vuela con alas."),
         ],
         "apply": [
             ex("Une: caballo, delfín, mariposa. Estructuras: patas, aletas, alas. Escribe las parejas.", "Caballo patas, delfín aletas, mariposa alas", "Cada animal usa la estructura de su forma de moverse."),
@@ -320,7 +320,7 @@ register(
 
 register(
     OA2, 3,
-    materials="Este cuaderno con tarjetas de seis animales y tres hábitats (tierra, agua y aire), lápiz y colores.",
+    materials="Este cuaderno con tarjetas de animales y de lugares donde viven (bosque, desierto, río, mar, cordillera), lápiz y colores.",
     use="Aprenderé que cada animal vive en un hábitat que le da lo que necesita. Sirve para entender por qué un pez no vive en un desierto.",
     prior=["Sé cómo se desplazan los animales.", "Sé que los seres vivos necesitan agua, alimento y aire."],
     explain=[
@@ -351,10 +351,10 @@ register(
         "apply": [
             ex("Une cada animal con su hábitat: lobo de mar, guanaco, rana. Hábitats: costa, cordillera, laguna.", "Lobo de mar costa, guanaco cordillera, rana laguna", "Cada uno vive donde encuentra lo que necesita."),
             arith("En una roca de la costa hay 4 lobos de mar. Llegan 3 más. ¿Cuántos hay ahora?", "4+3", "Se suman los que llegaron.", " lobos de mar"),
-            ex("Un animal tiene aletas, escamas y branquias para respirar en el agua. ¿Su hábitat es el mar o el desierto?", "El mar", "Su cuerpo está hecho para el agua."),
+            ex("Un animal tiene aletas y escamas y no puede vivir fuera del agua. ¿Su hábitat es el mar o el desierto?", "El mar", "Su cuerpo está hecho para el agua."),
         ],
         "reason": [
-            ex("Si un pez se saca del agua durante un minuto largo, ¿qué le pasa y por qué?", "Le cuesta respirar, porque necesita el aire que hay en el agua", "Su hábitat es el agua."),
+            ex("Si un pez se saca del agua durante un minuto largo, ¿qué le pasa y por qué?", "Le cuesta respirar, porque su cuerpo está hecho para respirar en el agua", "Su hábitat es el agua."),
             ex("¿Por qué un camello puede vivir en el desierto y una rana de laguna no?", "Porque el camello resiste la falta de agua y la rana necesita agua cerca", "Cada cuerpo se adapta a su hábitat."),
         ],
         "challenge": [
@@ -402,7 +402,7 @@ register(
         "apply": [
             ex("Animales: loro (plumas), delfín (piel lisa), conejo (pelo), cóndor (plumas). Agrupa por cubierta y escribe el grupo de plumas.", "Loro y cóndor", "Los dos tienen plumas."),
             ex("Animales: pez, delfín, tortuga marina, lobo de mar. Regla: vive en el mar. ¿Cuántos entran?", "4", "Todos viven en el mar."),
-            ex("Animales: caballo, caracol, pato, pez. Regla: no tiene patas. ¿Cuál entra?", "El pez y el caracol", "Ninguno de los dos tiene patas."),
+            ex("Animales: caballo, caracol, pato, pez. Regla: no tiene patas. ¿Cuáles entran?", "El pez y el caracol", "Ninguno de los dos tiene patas."),
         ],
         "reason": [
             ex("Marta formó un grupo con perro, gato y gallina y dijo «tienen pelo». ¿Qué animal no cumple?", "La gallina", "La gallina tiene plumas."),

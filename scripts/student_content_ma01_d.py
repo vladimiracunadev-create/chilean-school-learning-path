@@ -185,7 +185,7 @@ register(
         ],
         "challenge": [
             ex("Un lado tiene 3 + 4 y el otro 2 + __. Completa para que se equilibre.", "5", "3 + 4 = 7 y 2 + 5 = 7."),
-            ex("Quito 2 al lado de 9 y agrego 1 al lado de 5. ¿Quedó en equilibrio?", "No; 7 y 6", "Faltaba quitar 4 o agregar 4."),
+            ex("Quito 2 al lado de 9 y agrego 1 al lado de 5. ¿Quedó en equilibrio?", "No; quedan 7 y 6", "7 y 6 son cantidades distintas."),
         ],
     },
     context=[ex("En una tienda, un platillo tiene 9 bananas y el otro 6. El vendedor quiere equilibrar sacando bananas. ¿Cuántas debe sacar?", "3", "9 − 3 = 6.")],
@@ -203,7 +203,7 @@ register(
     prior=["Sé nombrar partes del cuerpo.", "Sé qué significa lado."],
     explain=[
         "Tienes dos lados en el cuerpo: el derecho y el izquierdo. La mano derecha es la que usas para escribir si eres diestro; la izquierda es la otra. Tienes un pie derecho y uno izquierdo, un ojo derecho y uno izquierdo.",
-        "Para no confundirte, escribe una D en una pulsera de lápiz en tu mano derecha o ata una cinta ahí. Mira tu mano: si es la de la cinta, es la derecha. Así asocias la palabra con tu lado.",
+        "Para no confundirte, dibuja una D con lápiz en el dorso de tu mano derecha o ata una cinta ahí. Mira tu mano: si es la de la cinta, es la derecha. Así asocias la palabra con tu lado.",
         "Al decir «a mi derecha» me refiero al lado derecho de mi cuerpo, no al de otra persona. Si alguien te mira de frente, su derecha queda frente a tu izquierda.",
     ],
     vocab=[("derecha", "el lado del cuerpo donde está la mano derecha"), ("izquierda", "el otro lado del cuerpo"), ("mi lado", "el lado de mi propio cuerpo"), ("de frente", "mirando a alguien cara a cara"), ("cinta", "señal para recordar la derecha")],
@@ -237,7 +237,7 @@ register(
         ],
     },
     context=[ex("En una clase de baile la profesora dice: «¡pie izquierdo adelante!». ¿Qué pie mueves?", "El izquierdo", "Es el del lado izquierdo de tu cuerpo.")],
-    selfcheck=[ex("¿Cuál lado es el contrario de derecha?", "Izquierda", "Son los dos lados del cuerpo."), ex("Levanta la mano derecha. ¿Qué mano levantaste?", "La derecha", "Es la del lado derecho."), ex("¿Se parece mi derecha a la de otra persona?", "Sí, si miramos hacia el mismo lado", "Depende de hacia dónde mira.")],
+    selfcheck=[ex("¿Cuál lado es el contrario de derecha?", "Izquierda", "Son los dos lados del cuerpo."), ex("Levanta la mano derecha. ¿Qué mano levantaste?", "La derecha", "Es la del lado derecho."), ex("Dos personas miran hacia el mismo lado. ¿Su derecha queda del mismo lado?", "Sí", "Si miran igual, sus lados coinciden.")],
     open_task=task("Haz un dibujo de ti mismo de frente. Pinta de rojo tu mano derecha y de azul tu mano izquierda. Escribe debajo cuál es cuál y explica cómo lo recuerdas.", "Pinté la mano derecha de rojo (la que uso para escribir) y la izquierda de azul. Lo recuerdo con una cinta en la derecha.", ["pinta las manos", "rotula cuál es cuál", "explica cómo lo recuerda"], ["dibujo", "rótulos", "explicación"], ["invertir derecha e izquierda en el dibujo", "no explicar"], "Pide que mire su propia mano para comprobar."),
     reinforce="Juega «Simón dice» con derecha e izquierda.",
     extend="Descubre cómo ayudaría a una persona que mira de frente a ubicar su derecha.",
@@ -272,7 +272,7 @@ register(
         "apply": [
             ex("Un libro está sobre una mesa. ¿Está arriba o abajo de la mesa?", "Arriba", "Se apoya encima."),
             ex("Un perro está debajo de la mesa. ¿Está arriba o abajo de ella?", "Abajo", "Está en un nivel inferior."),
-            ex("Fila: manzana, plátano, uva, kiwi. ¿Qué está a la izquierda de la uva?", "El plátano", "Viene antes de la uva."),
+            ex("Fila de izquierda a derecha: manzana, plátano, uva, kiwi. ¿Qué está a la izquierda de la uva?", "El plátano", "Viene antes de la uva."),
         ],
         "reason": [
             ex("Ema dice que «el lápiz está a la derecha» sin decir de qué. ¿Qué falta?", "Un objeto de referencia", "Hay que decir a la derecha de qué."),
@@ -284,7 +284,7 @@ register(
         ],
     },
     context=[ex("En un estante hay: arriba un libro, en el medio una caja y abajo una pelota. ¿Qué hay entre el libro y la pelota?", "La caja", "Está en el medio.")],
-    selfcheck=[ex("En la fila rojo, azul, verde, ¿qué hay a la derecha del azul?", "Verde", "Viene después del azul."), ex("¿Está el techo arriba o abajo del piso?", "Arriba", "Está más alto."), ex("¿Qué debo decir además de «derecha»?", "A la derecha de qué", "Se necesita referencia.")],
+    selfcheck=[ex("En la fila de izquierda a derecha rojo, azul, verde, ¿qué hay a la derecha del azul?", "Verde", "Viene después del azul."), ex("¿Está el techo arriba o abajo del piso?", "Arriba", "Está más alto."), ex("¿Qué debo decir además de «derecha»?", "A la derecha de qué", "Se necesita referencia.")],
     open_task=task("Dibuja tres objetos en fila sobre una mesa: un lápiz, un libro y una goma. Escribe dos frases que digan dónde está cada uno respecto de los otros usando derecha, izquierda y entre.", "El libro está entre el lápiz y la goma. La goma está a la derecha del libro.", ["dibuja tres objetos", "usa dos palabras de posición", "nombra la referencia"], ["dibujo", "dos frases"], ["no nombrar la referencia", "invertir derecha e izquierda"], "Pide leer las frases mientras señala los objetos."),
     reinforce="Describe la posición de tres objetos de tu escritorio.",
     extend="Describe la posición de un objeto sin nombrarlo y pide que otra persona lo adivine.",
@@ -297,7 +297,7 @@ register(
     prior=["Sé decir derecha e izquierda.", "Sé nombrar posiciones."],
     explain=[
         "Una instrucción precisa dice qué hacer, hacia dónde y cuánto. Por ejemplo: «avanza 3 pasos, gira a la derecha y avanza 2 pasos». Sin cantidad ni dirección, la persona puede equivocarse.",
-        "Para dar buenas instrucciones, piensa desde el lugar de quien las sigue. Si la persona mira de espaldas a ti, tu derecha es su izquierda. Primero di hacia dónde mira y luego las instrucciones.",
+        "Para dar buenas instrucciones, piensa desde el lugar de quien las sigue. Si la persona te mira de frente, tu derecha es su izquierda. Primero di hacia dónde mira y luego las instrucciones.",
         "Para seguir instrucciones, imagina que estás en el lugar y mira de frente. Hazlas una por una. Si algo no se entiende, pide aclararla. Luego comprueba si llegaste al lugar esperado.",
     ],
     vocab=[("instrucción", "una orden clara"), ("avanzar", "ir hacia adelante"), ("girar", "cambiar la dirección"), ("pasos", "cantidad de avances"), ("precisa", "clara y exacta")],
@@ -323,7 +323,7 @@ register(
         ],
         "reason": [
             ex("Luis dice «avanza» sin decir cuánto. ¿Qué problema hay?", "No se sabe cuánto avanzar", "Falta la cantidad."),
-            ex("Una niña mira hacia mí. Para que gire a su derecha, ¿hacia mi lado debe girar?", "Hacia mi izquierda", "Estamos uno frente al otro."),
+            ex("Una niña mira hacia mí. Para que gire a su derecha, ¿hacia qué lado mío girará?", "Hacia mi izquierda", "Estamos uno frente al otro."),
         ],
         "challenge": [
             ex("Miras hacia arriba. «Avanza 1, gira a la derecha, avanza 1, gira a la derecha, avanza 1.» ¿Hacia dónde miras al final?", "Hacia abajo", "Dos giros a la derecha dan media vuelta."),
@@ -343,13 +343,13 @@ register(
     use="Aprenderé a ubicar objetos en un plano simple con filas y columnas. Sirve para encontrar un lugar en un mapa y describirlo.",
     prior=["Sé decir derecha e izquierda.", "Sé seguir instrucciones."],
     explain=[
-        "Un plano simple muestra un lugar visto desde arriba, con cuadrados para ubicar objetos. Cada cuadrado tiene una fila (horizontal) y una columna (vertical). Para decir dónde está un objeto, nombra la fila y la columna.",
-        "Por ejemplo, la mesa está en la fila 2, columna 3: la ubicas bajando 2 desde arriba y avanzando 3 desde la izquierda. Primero la fila y luego la columna, siempre en el mismo orden.",
+        "Un plano simple muestra un lugar visto desde arriba, con cuadrados para ubicar objetos. Cada cuadrado está en una fila (horizontal) y en una columna (vertical). Las filas se cuentan desde arriba y las columnas desde la izquierda: la fila 1 es la de más arriba y la columna 1 es la de más a la izquierda. Para decir dónde está un objeto, nombra la fila y la columna.",
+        "Por ejemplo, la mesa está en la fila 2, columna 3: la ubicas contando 2 filas desde arriba y 3 columnas desde la izquierda. Primero la fila y luego la columna, siempre en el mismo orden.",
         "Puedes describir una posición usando derecha e izquierda: «la silla está a la derecha de la mesa». Y puedes dibujar un plano de tu mesa o tu pieza para ubicar objetos.",
     ],
     vocab=[("plano", "dibujo de un lugar visto desde arriba"), ("fila", "línea horizontal de cuadrados"), ("columna", "línea vertical de cuadrados"), ("cuadrado", "casilla del plano"), ("ubicación", "lugar donde está algo")],
     worked=[
-        {"title": "Leer un plano", "problem": "En un plano, la mesa está en la fila 2, columna 3. ¿Cómo la encuentras?", "steps": ["Parto en la esquina de arriba a la izquierda.", "Bajo 2 filas.", "Avanzo 3 columnas a la derecha."], "answer": "Fila 2, columna 3"},
+        {"title": "Leer un plano", "problem": "En un plano, la mesa está en la fila 2, columna 3. ¿Cómo la encuentras?", "steps": ["Parto en la esquina de arriba a la izquierda.", "Cuento 2 filas hacia abajo, y la de arriba es la fila 1.", "Cuento 3 columnas hacia la derecha, y la de la izquierda es la columna 1."], "answer": "Fila 2, columna 3"},
         {"title": "Describir una posición", "problem": "La silla está en la fila 2, columna 4. ¿Dónde está respecto de la mesa (fila 2, columna 3)?", "steps": ["Están en la misma fila.", "La silla está una columna más a la derecha.", "Está a la derecha de la mesa."], "answer": "A la derecha de la mesa"},
     ],
     mistakes=[
@@ -365,7 +365,7 @@ register(
         ],
         "apply": [
             ex("Pelota: fila 1, columna 1. ¿Está en la esquina de arriba a la izquierda?", "Sí", "Es el inicio del plano."),
-            ex("Cama: fila 3, columna 2. ¿Cuántas filas bajas y cuántas columnas avanzas desde la esquina?", "Bajas 3 filas y avanzas 2 columnas", "Fila primero y columna después."),
+            ex("Cama: fila 3, columna 2. ¿Cuántas filas cuentas desde arriba y cuántas columnas desde la izquierda?", "3 filas y 2 columnas", "Fila primero y columna después."),
             ex("Lámpara: fila 1, columna 4. Libro: fila 1, columna 2. ¿Cuál está a la derecha?", "La lámpara", "Su columna es 4."),
         ],
         "reason": [
@@ -374,11 +374,11 @@ register(
         ],
         "challenge": [
             ex("Un objeto está en la fila 2, columna 2. Otro está 2 columnas a la derecha. ¿Dónde está el otro?", "Fila 2, columna 4", "2 + 2 = 4."),
-            ex("¿En cuántos cuadrados distintos puede estar un objeto en un plano de 3 filas y 3 columnas?", "9", "3 × 3 = 9."),
+            arith("Un plano tiene 3 filas y cada fila tiene 3 cuadrados. ¿Cuántos cuadrados tiene en total?", "3+3+3", "Se suman los cuadrados de las tres filas."),
         ],
     },
     context=[ex("En un plano de una sala, el escritorio de la profesora está en la fila 1, columna 3. Tu puesto está en la fila 3, columna 3. ¿Cuántas filas hay entre su escritorio y tu puesto?", "1", "Entre la fila 1 y la fila 3 está la fila 2.")],
-    selfcheck=[ex("Objeto en fila 1, columna 2. ¿Cuántas filas bajas?", "1", "Es la primera fila."), ex("¿Qué indica la columna?", "Cuántos cuadrados avanzo a la derecha", "Se cuenta desde la izquierda."), ex("¿Se puede dibujar un plano de la mesa?", "Sí", "Es una vista desde arriba.")],
+    selfcheck=[ex("Objeto en fila 1, columna 2. ¿En qué fila está?", "En la primera fila, la de más arriba", "Es la fila 1."), ex("¿Qué indica la columna?", "Qué columna es, contando desde la izquierda", "Se cuenta desde la izquierda."), ex("¿Se puede dibujar un plano de la mesa?", "Sí", "Es una vista desde arriba.")],
     open_task=task("Dibuja un plano de 3 filas por 3 columnas. Pon un libro en la fila 1, columna 1, un lápiz en la fila 2, columna 3 y una goma en la fila 3, columna 2. Escribe una frase que describa dónde está la goma respecto del lápiz.", "La goma está en la fila 3, columna 2: una fila más abajo y una columna a la izquierda del lápiz.", ["ubica los tres objetos", "usa filas y columnas", "describe una posición relativa"], ["plano", "frase"], ["invertir fila y columna", "ubicar mal un objeto"], "Pide señalar con el dedo cada ubicación."),
     reinforce="Juega a la batalla naval simple con un plano de 3 por 3.",
     extend="Dibuja un plano de tu pieza y escribe tres ubicaciones.",
@@ -409,7 +409,7 @@ register(
         "understand": [
             ex("¿En qué se parecen el cuadrado y el rectángulo?", "Los dos tienen 4 lados y 4 esquinas", "Se diferencian por el largo de los lados."),
             ex("¿En qué se diferencian?", "El cuadrado tiene los 4 lados iguales; el rectángulo no", "Es lo que los distingue."),
-            ex("¿Qué figura tiene una moneda de frente?", "Círculo", "La tapa del tarro es redonda."),
+            ex("¿Qué figura tiene una moneda de frente?", "Círculo", "Es redonda, sin lados."),
         ],
         "apply": [
             ex("¿Qué figura es la cara de un dado?", "Cuadrado", "Tiene 4 lados iguales."),
@@ -418,7 +418,7 @@ register(
         ],
         "reason": [
             ex("Pía dice que una ventana con 4 lados iguales es un rectángulo. ¿Hay otra manera de llamarla?", "Cuadrado", "El cuadrado es un caso especial con 4 lados iguales."),
-            ex("¿Por qué un círculo no es un polígono con lados rectos?", "Porque su borde es curvo", "No tiene lados rectos."),
+            ex("¿Por qué el círculo no tiene lados rectos?", "Porque su borde es curvo", "No tiene lados rectos."),
         ],
         "challenge": [
             ex("Una figura tiene 4 lados, 2 largos y 2 cortos. ¿Qué figura es?", "Rectángulo", "Los lados no son todos iguales."),
@@ -426,7 +426,7 @@ register(
         ],
     },
     context=[ex("En la sala hay un reloj redondo, un pizarrón rectangular y una banderita triangular. Nombra la figura de cada uno.", "Círculo, rectángulo y triángulo", "Cada objeto tiene una figura distinta.")],
-    selfcheck=[ex("¿Cuántos lados tiene un rectángulo?", "4", "Dos largos y dos cortos."), ex("¿Qué figura es una pelota vista de frente?", "Círculo", "La tapa del tarro es redonda."), ex("¿Qué figura tiene 3 esquinas?", "Triángulo", "Tiene 3 lados.")],
+    selfcheck=[ex("¿Cuántos lados tiene un rectángulo?", "4", "Dos largos y dos cortos."), ex("¿Qué figura es una pelota vista de frente?", "Círculo", "Es redonda, sin lados."), ex("¿Qué figura tiene 3 esquinas?", "Triángulo", "Tiene 3 lados.")],
     open_task=task("Busca en tu casa tres objetos que tengan una figura plana (círculo, cuadrado, rectángulo o triángulo). Dibuja cada uno, escribe el nombre del objeto y de la figura y cuántos lados y esquinas tiene.", "Plato: círculo, 0 lados, 0 esquinas. Ventana: rectángulo, 4 lados, 4 esquinas. Cartel: triángulo, 3 lados, 3 esquinas.", ["tres objetos distintos", "nombra la figura", "cuenta lados y esquinas"], ["tres dibujos", "tabla"], ["contar mal los lados", "confundir cuadrado y rectángulo"], "Pide recorrer los bordes con el dedo para contar."),
     reinforce="Recorta un círculo, un cuadrado y un triángulo y pégalos en tu cuaderno.",
     extend="Busca un objeto con dos figuras diferentes, por ejemplo una casa con cuadrado y triángulo.",
@@ -472,7 +472,7 @@ register(
             ex("¿Cuántas caras planas tiene un cilindro?", "2", "Las dos tapas."),
         ],
     },
-    context=[ex("Para guardar pelotas, latas y cajas en una bodega, ¿qué conviene poner en el piso con una barrera para que no rueden?", "Pelotas y latas de lado", "Los cuerpos con partes curvas ruedan.")],
+    context=[ex("En una bodega hay pelotas, latas y cajas en el piso. ¿Cuáles pueden rodar y necesitan un tope?", "Las pelotas y las latas puestas de lado", "Los cuerpos con partes curvas ruedan.")],
     selfcheck=[ex("¿Una caja rueda?", "No", "Tiene caras planas."), ex("¿Una esfera se apila?", "No", "No tiene cara plana."), ex("¿Qué cuerpo es un dado?", "Cubo", "Tiene 6 caras cuadradas.")],
     open_task=task("Con tres objetos de tu casa (una pelota o fruta redonda, una caja y un tarro), pruébalos: empuja cada uno y trata de apilarlo. Anota en una tabla si rueda y si se apila.", "Pelota: rueda, no se apila. Caja: no rueda, se apila. Tarro: rueda de lado, se apila parado.", ["prueba los tres", "anota en tabla", "relaciona con partes planas y curvas"], ["tabla", "conclusión"], ["no probar", "anotar sin ver"], "Pide mostrar el experimento."),
     reinforce="Haz una torre con cajas y observa qué cuerpos se caen.",
@@ -485,7 +485,7 @@ register(
     use="Aprenderé que las caras de los cuerpos dejan figuras planas al apoyarlas. Sirve para relacionar cuerpos con figuras.",
     prior=["Sé reconocer figuras planas.", "Sé reconocer cuerpos que ruedan y se apilan."],
     explain=[
-        "Si apoyas un cuerpo con tinta sobre una hoja, la cara plana deja una huella con forma de figura plana. El cubo deja un cuadrado. La caja deja un rectángulo. El cilindro deja un círculo. La pirámide deja un triángulo o un cuadrado, según la cara.",
+        "Si apoyas un cuerpo con tinta sobre una hoja, la cara plana deja una huella con forma de figura plana. El cubo deja un cuadrado. La caja deja un rectángulo. El cilindro deja un círculo. La pirámide de base cuadrada deja un cuadrado con su base o un triángulo con cualquiera de sus otras caras.",
         "Una cara es una parte plana de un cuerpo. Un cubo tiene 6 caras, todas cuadradas. Una caja tiene 6 caras rectangulares. Un cilindro tiene 2 caras circulares y una superficie curva que no deja huella plana.",
         "Para predecir la huella, mira la cara con que lo apoyas. Si es cuadrada, la huella es un cuadrado; si es redonda, un círculo. La esfera no tiene caras planas, así que sólo deja un punto.",
     ],
@@ -543,7 +543,7 @@ register(
     ],
     mistakes=[
         {"wrong": "Clasificar sin un criterio claro.", "why": "Se agrupa al azar.", "fix": "Elige una característica y revisa que todos la cumplan."},
-        {"wrong": "Mezclar figuras y cuerpos en un mismo grupo.", "why": "No se distinguen.", "fix": "Las figuras son planas y los cuerpos ocupan espacio."},
+        {"wrong": "Confundir una figura con un cuerpo.", "why": "No se distingue lo plano de lo que ocupa espacio.", "fix": "Las figuras son planas y los cuerpos ocupan espacio; puedes agruparlos si el criterio sirve para ambos."},
     ],
     tiers={
         "recovery": [ex("Cuento los bordes rectos de un cuadrado. ¿Cuántos son?", "4", "Los cuatro iguales."), ex("¿Qué cuerpo tiene 6 caras cuadradas?", "Cubo", "Es un dado."), ex("¿Qué figura no tiene lados rectos?", "Círculo", "El círculo es redondo, sin lados rectos.")],
@@ -555,7 +555,7 @@ register(
         "apply": [
             ex("Clasifica por rueda/no rueda: pelota, caja, tarro, dado.", "Ruedan: pelota y tarro. No ruedan: caja y dado", "Los curvos ruedan."),
             ex("Clasifica por lados: triángulo, círculo, rectángulo, cuadrado.", "0: círculo; 3: triángulo; 4: rectángulo y cuadrado", "Se cuentan los lados."),
-            ex("Dibuja una casa con un cuadrado y un triángulo.", "Cuadrado para el cuerpo y triángulo para el techo", "Cada figura cumple una función."),
+            ex("Dibuja una casa con un cuadrado y un triángulo.", "Un cuadrado para las paredes y un triángulo para el techo", "Cada figura cumple una función."),
         ],
         "reason": [
             ex("Ema puso un círculo en el grupo de «4 lados». ¿Qué error comete?", "El círculo no tiene lados", "No cumple el criterio."),

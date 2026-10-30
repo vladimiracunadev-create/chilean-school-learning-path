@@ -84,7 +84,7 @@ register(
     vocab=[("escuchar", "oír con atención"), ("expresión", "palabra o frase que se dice"), ("mari mari", "saludo en mapuzugun"), ("repetir", "decir otra vez"), ("mapuzugun", "lengua del pueblo mapuche")],
     worked=[
         w("Contar una expresión", "Guion: «Hola. Mari mari. Hoy aprendemos. Mari mari para todos». ¿Cuántas veces se dice «mari mari»?", ["Leo el guion y marco cada «mari mari».", "Aparece una vez en la segunda oración y otra al final.", "Total: 2."], "2 veces"),
-        w("Reconocer dónde está", "En el guion anterior, ¿la expresión aparece al principio o al final?", ["Primero: «Hola».", "Después aparece «Mari mari».", "Aparece cerca del principio y también al final."], "al principio y al final"),
+        w("Reconocer dónde está", "En el guion anterior, ¿en qué lugares aparece la expresión: al principio, al final o en los dos?", ["Primero: «Hola».", "Después aparece «Mari mari».", "Aparece cerca del principio y también al final."], "al principio y al final"),
     ],
     mistakes=[
         {"wrong": "Hablar mientras escucho.", "why": "No oigo la expresión.", "fix": "Guardo silencio y levanto un dedo cuando la oigo."},
@@ -385,7 +385,7 @@ register(
         "recovery": [
             ex("Una foto de una tela es una imagen. ¿Verdadero o falso?", "Verdadero", "La foto no es la tela."),
             ex("¿Qué puedo ver en una foto: la forma o el olor?", "la forma", "El olor no se ve en una foto."),
-            ex("¿Dónde se usa un símbolo es su contexto? Responde Sí o No.", "Sí", "El contexto es dónde y cómo se usa."),
+            ex("¿El contexto de un símbolo es dónde y cómo se usa? Responde Sí o No.", "Sí", "El contexto es dónde y cómo se usa."),
         ],
         "understand": [
             ex("¿La foto muestra la textura?", "No", "La textura se siente al tocar."),

@@ -49,7 +49,7 @@ register(
          ex("Chile mide más de 4.000 kilómetros de largo y es angosto. ¿Por qué se reconoce fácil en un mapa?", "Por su forma de cinta larga y angosta", "Casi ningún país tiene una forma tan larga y delgada."),
          ex("¿Qué océano queda al oeste de Chile?", "El océano Pacífico", "El agua que baña la costa chilena es del Pacífico.")],
         [ex("Un país tiene como capital a Lima y queda al norte de Chile. ¿Cuál país es?", "Perú", "Lima es la capital de Perú, vecino del norte."),
-         ex("Un país queda al este de Chile y es mucho más ancho que Chile. ¿Cuál es?", "Argentina", "Argentina es el vecino del lado este."),
+         ex("Chile tiene tres vecinos: uno al norte, uno al noreste y uno al este. ¿Cuál queda al este?", "Argentina", "Argentina es el vecino del lado este."),
          ex("Un barco sale de la costa de Chile hacia el oeste y navega mucho tiempo sin tocar tierra. ¿Qué océano cruza?", "El Pacífico", "Hacia el oeste de la costa chilena está el Pacífico.")],
         [ex("Sara dice: «Chile está en África porque es un país». ¿Qué está mal en lo que dice?", "Chile está en América, no en África", "Un país siempre está dentro de un continente, y el de Chile es América."),
          ex("Pablo dice que Chile es más ancho que largo. Mira la forma de Chile y di si tiene razón.", "No; es mucho más largo que ancho", "Chile mide más de 4.000 km de largo y es angosto.")],
@@ -113,7 +113,7 @@ register(
     prior=["Sé ubicar Chile, el Pacífico y los Andes.", "Sé qué es un país."],
     explain=[
         "Chile se divide en 16 regiones. Una región es una parte grande del país, con sus ciudades, pueblos y campos. Cada región tiene un nombre: por ejemplo, Región de Valparaíso, Región de Los Lagos y Región de Magallanes y de la Antártica Chilena.",
-        "La capital de Chile es Santiago. Santiago está en la zona central, en la Región Metropolitana de Santiago, entre la cordillera de los Andes y otra cordillera más baja cerca del mar. La capital es la ciudad donde trabajan las principales autoridades del país.",
+        "La capital de Chile es Santiago. Santiago está en la zona central, en la Región Metropolitana de Santiago, entre la cordillera de los Andes y otra cordillera más baja cerca del mar. La capital es la ciudad principal del país, donde está la sede del gobierno.",
         "Una localidad es el lugar donde viven las personas: una ciudad, un pueblo, una aldea o un barrio. Viña del Mar es una localidad de la Región de Valparaíso. Puerto Natales es una localidad de la Región de Magallanes. Tu localidad está dentro de una región, y tu región está dentro de Chile.",
     ],
     vocab=[("región", "parte grande en que se divide el país"), ("capital", "ciudad principal del país: Santiago"), ("localidad", "lugar donde viven las personas, como un pueblo o una ciudad"), ("Región Metropolitana", "la región donde está Santiago"), ("dentro de", "que forma parte de algo más grande")],
@@ -137,7 +137,7 @@ register(
         [ex("Viña del Mar y Valparaíso están en la misma región. ¿En cuál?", "Región de Valparaíso", "Las dos ciudades están en esa región."),
          ex("Puerto Natales es una localidad de Magallanes y de la Antártica Chilena. ¿Es una región o una localidad?", "Una localidad", "Es un lugar con casas y personas dentro de la región."),
          ex("Pichilemu es una localidad de la Región de O'Higgins. Si vivo en Pichilemu, ¿en qué región vivo?", "Región de O'Higgins", "La localidad está dentro de esa región.")],
-        [ex("Rosa dice que Santiago es la región más pequeña de Chile. ¿Qué es en realidad?", "La capital, una ciudad", "Santiago es una ciudad; la región es la Metropolitana."),
+        [ex("Rosa dice que Santiago es una región de Chile. ¿Qué es en realidad?", "La capital, una ciudad", "Santiago es una ciudad; la región es la Metropolitana."),
          ex("Tomás dice que su región cabe dentro de su localidad. ¿Está bien?", "No; la localidad cabe dentro de la región", "La región es más grande que la localidad.")],
         [ex("Ordena de más pequeño a más grande: región, localidad, país.", "Localidad, región, país", "La localidad está en la región y la región en el país."),
          ex("Pucón es una localidad de la Región de La Araucanía. Escribe dónde vive una niña de Pucón: localidad, región y país.", "Pucón, Región de La Araucanía, Chile", "Va de lo más pequeño a lo más grande.")],
@@ -176,7 +176,7 @@ register(
          ex("¿Qué va al final de una ruta de localización: la localidad o el país?", "La localidad", "Es el lugar más pequeño y preciso.")],
         [ex("¿Para qué sirve una ruta de localización?", "Para decir dónde está un lugar paso a paso", "Cada pista acerca más al lugar."),
          ex("¿Por qué conviene nombrar la región antes de la localidad?", "Porque la localidad está dentro de la región", "La región es la parte más grande."),
-         ex("Puerto Natales está en el sur de Chile. ¿Qué referencia conocida ayuda a ubicar el sur: Pacífico, Andes o ninguna de las dos?", "Ninguna; el sur es un punto cardinal", "Las referencias Pacífico y Andes dan este y oeste, no el sur.")],
+         ex("¿Por qué una ruta de localización termina en la localidad y no en el continente?", "Porque la localidad es el lugar más pequeño y preciso", "Cada paso se acerca más al lugar que buscamos.")],
         [ex("Arma la ruta de Puerto Varas con estas piezas: Puerto Varas, Chile, Región de Los Lagos, América del Sur.", "América del Sur, Chile, Región de Los Lagos, Puerto Varas", "Va del lugar más grande al más pequeño."),
          ex("Sigue la ruta: América del Sur, Chile, Región Metropolitana. ¿A qué ciudad capital llegas?", "Santiago", "La capital de Chile está en la Región Metropolitana."),
          ex("Mapa descrito: de izquierda a derecha están el Pacífico, Chile y los Andes. Una niña viaja de oeste a este. ¿Qué dos referencias cruza en ese orden?", "Primero el Pacífico y luego los Andes", "Va de la izquierda del mapa a la derecha.")],
@@ -187,7 +187,7 @@ register(
     ),
     context=[ex("Sofía envía una postal desde Puerto Montt, que es una localidad de la Región de Los Lagos. ¿Cómo escribirías la ruta desde el país hasta Puerto Montt?", "Chile, Región de Los Lagos, Puerto Montt", "Del país a la región y luego a la localidad.")],
     selfcheck=[ex("¿Qué se nombra primero en una ruta: lo más grande o lo más pequeño?", "Lo más grande", "La ruta se acerca poco a poco."), ex("Ordena: localidad, país, región.", "País, región, localidad", "Del más grande al más pequeño."), ex("¿En qué parte de la ruta va la capital Santiago?", "Como localidad, dentro de la Región Metropolitana", "Santiago es una ciudad de esa región.")],
-    open_task=task("Escribe tu ruta de localización en cinco pasos usando estas piezas y el ejemplo de Viña del Mar: «Estoy en el continente de ____, en el país ____, en la región ____ y en la localidad ____». Después dibuja flechas que bajen de un paso a otro. Si no sabes tu región o tu localidad, usa Viña del Mar, Región de Valparaíso.", "Estoy en el continente de América, en el país Chile, en la región de Valparaíso y en la localidad Viña del Mar.", ["cuatro pasos en el orden correcto", "usa la palabra región", "flechas de grande a pequeño"], ["frase completa", "dibujo de flechas"], ["empezar por la localidad", "saltarse la región"], "Pide leer la frase y verificar que cada lugar quede dentro del anterior."),
+    open_task=task("Escribe tu ruta de localización en cuatro pasos usando estas piezas y el ejemplo de Viña del Mar: «Estoy en el continente de ____, en el país ____, en la región ____ y en la localidad ____». Después dibuja flechas que bajen de un paso a otro. Si no sabes tu región o tu localidad, usa Viña del Mar, Región de Valparaíso.", "Estoy en el continente de América, en el país Chile, en la región de Valparaíso y en la localidad Viña del Mar.", ["cuatro pasos en el orden correcto", "usa la palabra región", "flechas de grande a pequeño"], ["frase completa", "dibujo de flechas"], ["empezar por la localidad", "saltarse la región"], "Pide leer la frase y verificar que cada lugar quede dentro del anterior."),
     reinforce="Cuéntale a un adulto dónde vives usando la ruta: país, región y localidad.",
     extend="Escribe dos rutas distintas, una del norte y otra del sur de Chile, usando localidades que ya conoces de este cuaderno.",
 )
@@ -201,7 +201,7 @@ register(
     explain=[
         "Un paisaje es lo que ves cuando miras un lugar: montañas, casas, árboles, caminos. Para describirlo bien usamos palabras precisas. La cordillera es una fila de montañas altas. El mar es agua salada muy grande. La vegetación son las plantas del lugar: pasto, arbustos y árboles.",
         "El desierto es un lugar donde llueve muy poco y hay poca vegetación. Hay construcciones cuando las personas hacen casas, puentes o escuelas. Un camino une un lugar con otro. Un pueblo es un lugar pequeño con pocas casas y una ciudad es un lugar grande con muchas casas, calles y edificios.",
-        "Algunas cosas del paisaje son naturales, como el mar, la cordillera y la vegetación. Otras las hacen las personas, como el camino y las construcciones. Cuando describes, usa estas palabras en vez de decir sólo «cosas».",
+        "Algunas cosas del paisaje son naturales, como el mar, la cordillera y la vegetación. Otras las hacen las personas, como el camino y las construcciones. Cuando describes, usa estas palabras en vez de decir solo «cosas».",
     ],
     vocab=[("paisaje", "lo que se ve al mirar un lugar"), ("vegetación", "las plantas de un lugar"), ("construcciones", "casas, puentes y edificios que hacen las personas"), ("camino", "franja por donde se va de un lugar a otro"), ("desierto", "lugar con muy poca lluvia y pocas plantas")],
     worked=[
@@ -246,7 +246,7 @@ register(
         "«Delante de» significa más cerca de ti y «detrás de» significa más lejos. «Entre» significa en medio de dos cosas. Si en una fila hay una casa, un árbol y una escuela, el árbol está entre la casa y la escuela.",
         "Una buena descripción nombra una cosa de referencia. No basta con decir «está a la derecha». Debes decir «a la derecha de la casa». Así la otra persona sabe de dónde mirar.",
     ],
-    vocab=[("ubicación relativa", "dónde está algo en relación con otra cosa"), ("derecha", "el lado de la mano con que escribes si eres diestro, o el lado contrario a la izquierda"), ("izquierda", "el lado contrario a la derecha"), ("delante, detrás", "más cerca o más lejos de mí"), ("entre", "en medio de dos cosas")],
+    vocab=[("ubicación relativa", "dónde está algo en relación con otra cosa"), ("derecha", "el lado de tu mano derecha, contrario a la izquierda"), ("izquierda", "el lado contrario a la derecha"), ("delante, detrás", "más cerca o más lejos de mí"), ("entre", "en medio de dos cosas")],
     worked=[
         W("Entre dos cosas", "En una calle, de izquierda a derecha, hay: panadería, escuela, plaza. ¿Qué queda entre la panadería y la plaza?",
           ["Miro la fila de izquierda a derecha.", "Primero está la panadería y al final la plaza.", "En el medio está la escuela."], "La escuela"),
@@ -274,7 +274,7 @@ register(
     ),
     context=[ex("Un niño explica dónde está su casa: «De izquierda a derecha en mi calle: el almacén, mi casa y la capilla». ¿Qué está a la derecha de su casa?", "La capilla", "Después de su casa, a la derecha, viene la capilla.")],
     selfcheck=[ex("En una fila de izquierda a derecha hay: sol, nube, luna. ¿Cuál queda entre las otras dos?", "La nube", "Está en el medio de las otras dos."), ex("¿Qué palabra significa «más lejos de mí»?", "Detrás", "Detrás indica lo que está más lejos."), ex("¿Qué debe llevar siempre una buena ubicación?", "Una cosa de referencia", "Sin referencia no se entiende desde dónde.")],
-    open_task=task("Mira este dibujo escrito: «Fila de atrás: una cordillera en el centro. Fila del medio: una casa a la izquierda y una escuela a la derecha. Fila de adelante: un árbol entre una banca y un perro». Dibuja el paisaje y escribe cuatro frases con las palabras: izquierda, derecha, detrás y entre.", "La cordillera está detrás de la casa y la escuela. La casa está a la izquierda de la escuela. El árbol está entre la banca y el perro. El perro está a la derecha del árbol.", ["usa las cuatro palabras", "nombra la cosa de referencia", "coincide con el dibujo"], ["dibujo", "cuatro frases"], ["olvidar la referencia", "confundir izquierda y derecha"], "Pide señalar en el dibujo cada frase para comprobar que sea cierta."),
+    open_task=task("Mira este dibujo escrito: «Fila de atrás: una cordillera en el centro. Fila del medio: una casa a la izquierda y una escuela a la derecha. Fila de adelante: una banca a la izquierda, un árbol en el medio y un perro a la derecha». Dibuja el paisaje y escribe cuatro frases con las palabras: izquierda, derecha, detrás y entre.", "La cordillera está detrás de la casa y la escuela. La casa está a la izquierda de la escuela. El árbol está entre la banca y el perro. El perro está a la derecha del árbol.", ["usa las cuatro palabras", "nombra la cosa de referencia", "coincide con el dibujo"], ["dibujo", "cuatro frases"], ["olvidar la referencia", "confundir izquierda y derecha"], "Pide señalar en el dibujo cada frase para comprobar que sea cierta."),
     reinforce="Pon tres objetos en fila sobre una mesa y describe dónde está cada uno usando entre, derecha e izquierda.",
     extend="Escribe una frase que ubique tu zapato usando una cosa de referencia que esté en tu pieza.",
 )
@@ -317,7 +317,7 @@ register(
     ),
     context=[ex("Nico describe el pueblo de su abuela por teléfono: «Tiene una plaza con cuatro árboles, una iglesia detrás de la plaza y un camino a la izquierda». ¿Qué hay detrás de la plaza?", "Una iglesia", "Detrás significa más lejos de quien mira.")],
     selfcheck=[ex("¿Qué hace natural a una cosa?", "Que existe sin que la hagan las personas", "Cerros, mar y árboles son naturales."), ex("¿Qué dos pasos usa una descripción?", "Nombrar y ubicar", "Se dice qué hay y dónde."), ex("Escribe una cosa construida que veas en tu calle.", "Casa, poste, reja, puente o calle", "Todas las hacen las personas.")],
-    open_task=task("Lee este paisaje local: «Calle de un pueblo: a la izquierda hay un almacén y dos árboles; en el centro está la plaza con una pileta; a la derecha hay una escuela; detrás de todo se ve un cerro». Escribe una descripción de cuatro frases: el lugar, lo natural, lo construido y dónde está cada cosa. Después, si quieres, haz lo mismo con tu propia calle.", "Es la calle de un pueblo. Lo natural son los árboles y el cerro. Lo construido es el almacén, la pileta y la escuela. A la izquierda están el almacén y los árboles, la plaza está en el centro y el cerro está detrás.", ["nombra lugar, natural y construido", "ubica con derecha, izquierda, detrás o entre", "se puede dibujar a partir del texto"], ["cuatro frases", "dibujo opcional"], ["no ubicar", "mezclar natural y construido"], "Pide dibujar sólo con la descripción y comparar con el texto original."),
+    open_task=task("Lee este paisaje local: «Calle de un pueblo: a la izquierda hay un almacén y dos árboles; en el centro está la plaza con una pileta; a la derecha hay una escuela; detrás de todo se ve un cerro». Escribe una descripción de cuatro frases: el lugar, lo natural, lo construido y dónde está cada cosa. Después, si quieres, haz lo mismo con tu propia calle.", "Es la calle de un pueblo. Lo natural son los árboles y el cerro. Lo construido es el almacén, la pileta y la escuela. A la izquierda están el almacén y los árboles, la plaza está en el centro y el cerro está detrás.", ["nombra lugar, natural y construido", "ubica con derecha, izquierda, detrás o entre", "se puede dibujar a partir del texto"], ["cuatro frases", "dibujo opcional"], ["no ubicar", "mezclar natural y construido"], "Pide dibujar solo con la descripción y comparar con el texto original."),
     reinforce="Describe en voz alta el lugar donde estás ahora usando dos palabras de ubicación.",
     extend="Compara la descripción de tu calle con la de la calle del texto y nombra una cosa igual y otra distinta.",
 )
@@ -340,7 +340,7 @@ register(
           ["El paisaje 1 casi no tiene plantas.", "El paisaje 2 tiene un bosque verde.", "Uso «en cambio»."], "El paisaje 1 tiene pocas plantas; en cambio el 2 tiene muchos árboles"),
     ],
     mistakes=[
-        M("Decir sólo lo que tiene un paisaje.", "No se compara con el otro.", "Revisa lo mismo en los dos y escribe la semejanza o la diferencia."),
+        M("Decir solo lo que tiene un paisaje.", "No se compara con el otro.", "Revisa lo mismo en los dos y escribe la semejanza o la diferencia."),
         M("Creer que todo Chile se ve igual.", "Se piensa en un solo paisaje.", "Chile tiene desierto, bosques, cordillera y mar."),
     ],
     tiers=tiers(
@@ -354,7 +354,7 @@ register(
          ex("Paisaje 1 tiene una escuela y un camino. Paisaje 2 tiene una escuela y un puente. ¿Qué tienen igual?", "Una escuela", "Aparece en los dos."),
          ex("Paisaje 1 tiene mar y playa. Paisaje 2 tiene cordillera nevada. ¿Cuál es un paisaje de montaña?", "El 2", "La cordillera nevada es de montaña.")],
         [ex("Ana dice: «El desierto es más bonito». ¿Es una semejanza, una diferencia o una opinión?", "Una opinión", "No se puede comprobar mirando el paisaje."),
-         ex("Pedro dice que, como el desierto de Atacama está en Chile, todo Chile es desierto. ¿Qué error comete?", "Generaliza; Chile tiene muchos paisajes", "Un lugar no representa a todo el país.")],
+         ex("Pedro dice que, como el desierto de Atacama está en Chile, todo Chile es desierto. ¿Qué error comete?", "Cree que todo Chile es igual; tiene muchos paisajes", "Un lugar no representa a todo el país.")],
         [ex("Escribe una semejanza y una diferencia entre un desierto y un bosque.", "Por ejemplo: los dos pueden tener cordillera; el desierto tiene pocas plantas y el bosque muchas", "Compara lo mismo en los dos."),
          ex("Hay un paisaje con mar, un puente y casas, y otro con mar, lago y árboles. ¿Cuál es la semejanza?", "Los dos tienen mar", "Aparece en los dos.")],
     ),
@@ -373,7 +373,7 @@ register(
     explain=[
         "Un croquis es un dibujo simple de un lugar visto desde arriba. No necesita ser perfecto, pero sí claro: usa cuadros para los lugares y flechas para los caminos. Se parece a un mapa pequeño y hecho a mano.",
         "Un croquis comentado lleva frases escritas al lado. Cada frase dice dónde está un lugar con palabras de ubicación: «La panadería está a la izquierda de la calle», «La plaza está entre la escuela y la biblioteca». Los comentarios ayudan a quien lo lee.",
-        "Para leer un croquis, parte de un lugar que conozcas y muévete: «Desde la escuela, la biblioteca está a la izquierda». Si el croquis es el mismo para todos, las instrucciones serán iguales. Un buen croquis tiene títulos, un norte (una N con una flecha) y pocos detalles.",
+        "Para leer un croquis, parte de un lugar que conozcas y muévete: «Desde la escuela, la biblioteca está a la izquierda». Un buen croquis tiene títulos, un norte (una N con una flecha) y pocos detalles.",
     ],
     vocab=[("croquis", "dibujo simple de un lugar visto desde arriba"), ("comentario", "frase que explica algo del dibujo"), ("referencia", "lugar conocido que sirve para guiarse"), ("flecha", "signo que muestra por dónde ir"), ("norte (N)", "marca que indica hacia dónde queda el norte")],
     worked=[
@@ -399,7 +399,7 @@ register(
         [ex("Laura escribió «La Escuela queda a la izquierda de la Plaza». Según el croquis, ¿qué error cometió?", "La Escuela está a la derecha de la Plaza", "En la fila de arriba la Escuela viene después de la Plaza."),
          ex("Joaquín dice que la Cancha está entre el Árbol y la Casa de Ana. ¿Es cierto?", "No; el Árbol está entre ellas", "En la fila de abajo el orden es Casa de Ana, Árbol, Cancha.")],
         [ex("Escribe un comentario para la Panadería con una referencia del croquis.", "Por ejemplo: la Panadería está a la izquierda de la Calle", "Dice dónde está y respecto de qué."),
-         ex("Ordena los pasos: poner la N, dibujar cuadros y escribir comentarios. ¿Cuál es el primero?", "Dibujar los cuadros", "Primero se hace el dibujo y luego se rotula.")],
+         ex("Escribe un comentario para la Cancha con una referencia del croquis.", "Por ejemplo: la Cancha está a la derecha del Árbol", "Dice dónde está y respecto de qué.")],
     ),
     context=[ex("Un niño nuevo debe llegar de la Escuela a la Cancha usando el croquis de arriba. Dice «bajo dos filas y estoy ahí». ¿Llegó bien a la Cancha?", "Sí; desde la Escuela, dos filas hacia abajo, queda la Cancha", "Bajó desde la fila de arriba hasta la fila de abajo, en la columna derecha.")],
     selfcheck=[ex("¿Desde dónde se ve un croquis?", "Desde arriba", "Así se muestran los lugares y caminos."), ex("En el croquis, ¿qué lugar está arriba de la Calle?", "La Plaza", "Está encima de la Calle."), ex("¿Qué debe llevar un buen comentario?", "Una referencia", "Dice a la derecha de qué o entre qué.")],

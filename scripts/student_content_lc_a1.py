@@ -230,7 +230,7 @@ L(
     A=[
         ex("Ficha: «" + F_KAW + "» Escribe una frase con fuente sobre el agua de ese territorio.", "Según la ficha, el pueblo kawésqar vive en canales y mar", "La frase incluye la fuente y el dato de agua."),
         ex("Marca los datos que NO vienen de la ficha lickanantay: oasis, selva, salar, volcanes, nieve eterna.", "selva y nieve eterna", "La ficha solo nombra oasis, salar, volcanes y desierto."),
-        ex("Ordena para escribir bien: 1) escribo el dato 2) digo la fuente 3) escribo el pueblo. ¿Qué orden es correcto?", "3, 1, 2", "Primero el pueblo, luego el dato y al final la fuente."),
+        ex("Ordena para escribir bien: 1) escribo el dato 2) digo la fuente («Según la ficha») 3) escribo el pueblo. ¿Qué orden es correcto?", "2, 3, 1", "Primero la fuente («Según la ficha»), luego el pueblo y al final el dato."),
     ],
     Z=[
         ex("Rosa escribió: «Los pueblos originarios viven todos en la montaña». ¿Qué falla tiene?", "Generaliza: cada pueblo tiene su territorio", "Hay pueblos de isla, de canales, de valles y de desierto."),
@@ -290,7 +290,7 @@ L(
     ],
     D=[
         ex("Una niña tiene un dato muy lindo de un sitio sagrado, pero nadie le dio permiso para compartirlo. ¿Puede ponerlo en un mapa de su curso? Sí o No.", "No", "Sin autorización no se muestra."),
-        ex("En el mapa aparece una escuela y un río con leyenda y fuente. ¿Qué falta para ser respetuoso, si no hay lugares sagrados?", "Nada; está completo", "Tiene lo público, leyenda y fuente."),
+        ex("Un mapa muestra una escuela y un río, con leyenda y fuente, pero no tiene título. ¿Qué le falta?", "El título", "Un mapa lleva título, leyenda y fuente; no tiene lugares sagrados, así que solo falta el título."),
     ],
     context=[ex("Tu curso hace un mapa del pueblo diaguita con la ficha: «" + F_DIA + "» ¿Qué dibujas? A) los tres ríos y los valles B) la casa de una familia", "A", "Los ríos y valles están en la ficha; la casa de una familia es privada.")],
     selfcheck=[ex("¿Qué NO se dibuja sin permiso?", "Lugares sagrados o delicados", "Pueden dañarse si se muestran."), ex("¿Qué tres cosas lleva un mapa?", "Título, leyenda y fuente", "Así se entiende y se puede comprobar."), ex("Si dudas, ¿qué haces?", "No lo pongo y pregunto", "Es mejor proteger.")],
@@ -490,7 +490,7 @@ L(
     ],
     A=[
         ex("Ordena: 1) agradezco 2) pido permiso 3) anoto lo que me cuentan. ¿Qué orden es correcto?", "2, 3, 1", "Primero el permiso, luego anotar y al final agradecer."),
-        ex("Completa la frase que le dirías a una abuela: «¿Puedo ______ lo que usted cuenta y mostrarlo en mi curso?»", "anotar", "Anotar es registrar por escrito, con permiso."),
+        ex("Completa la frase que le dirías a una abuela con la palabra correcta: «¿Puedo ______ lo que usted cuenta y mostrarlo en mi curso?» A) anotar B) romper", "A", "Anotar es registrar por escrito, con permiso."),
         ex("Una vecina dice «puedes dibujar, pero no escribir mi nombre». ¿Qué haces?", "Dibujo y no escribo su nombre", "Se respeta lo que autorizó."),
     ],
     Z=[

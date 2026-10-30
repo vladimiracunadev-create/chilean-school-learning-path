@@ -91,7 +91,7 @@ register(
     prior=["Sé decir sonidos del castellano.", "Sé observar con atención."],
     explain=[
         "Los sonidos se hacen con el aire que sale de los pulmones y con la boca. Si pones tu mano frente a la boca y dices «p», sientes un golpecito de aire. Si dices «s», sientes un soplido continuo y suave.",
-        "Si pones los dedos suavemente en tu garganta y dices «m» o «a», sientes una vibración. Con la «s» no la sientes. Observar estas diferencias te sirve para notar cómo se hace cada sonido.",
+        "Si pones los dedos suavemente en tu garganta y dices «m» o «a», sientes una vibración. Con la «s» y la «p» no la sientes. Observar estas diferencias te sirve para notar cómo se hace cada sonido.",
         "Observar no es imitar con burla. Los sonidos de una lengua indígena se ensayan con seriedad y siguiendo al hablante. No se exageran ni se usan para hacer reír.",
     ],
     vocab=[("aire", "lo que sale al hablar"), ("vibración", "temblor que se siente en la garganta"), ("garganta", "parte del cuello por donde pasa la voz"), ("golpecito de aire", "salida breve de aire"), ("soplido", "salida continua de aire")],
@@ -124,7 +124,7 @@ register(
             ex("Una niña toca su garganta con cuidado y dice que la «m» vibra. ¿Observó bien?", "Sí", "Notó la vibración."),
         ],
         "challenge": [
-            ex("Dices 4 sonidos: «m», «s», «a», «p». ¿Cuántos hacen vibrar la garganta, si son «m» y «a»?", "2", "Solo la «m» y la «a»."),
+            ex("Dices 4 sonidos: «m», «s», «a» y «p», con dos dedos suaves en la garganta. ¿Cuántos hacen vibrar la garganta?", "2", "Vibran la «m» y la «a»; la «s» y la «p» no."),
             ex("Escribe qué observaste en tu boca al decir «ssss».", "Por ejemplo, el aire sale por los dientes", "Describe una observación real."),
         ],
     },
@@ -154,7 +154,7 @@ register(
     explain=[
         "Una palabra tiene un sonido y un significado. Para aprender una palabra de la lengua indígena necesitas las dos cosas: cómo suena y qué quiere decir. Las tarjetas de significado ayudan: de un lado va la palabra y del otro el dibujo.",
         "Una palabra verificada es la que un hablante competente o la comunidad confirmó. «Mari mari», por ejemplo, es un saludo en mapuzugun. Si una palabra no está verificada, no se usa ni se supone su significado.",
-        "Algunas tarjetas pueden tener también un mapa para ubicar los nombres de lugares. Pero nunca inventes un significado. Si no sabes, escribe una pregunta en la tarjeta.",
+        "Nunca inventes un significado. Si no sabes qué quiere decir una palabra, escribe una pregunta en la tarjeta y llévala al educador/a tradicional.",
     ],
     vocab=[("tarjeta de significado", "ficha con palabra y dibujo"), ("verificada", "confirmada por un hablante o la comunidad"), ("significado", "lo que quiere decir"), ("suponer", "creer sin saber"), ("saludo", "palabra para recibir a alguien")],
     worked=[
@@ -186,7 +186,7 @@ register(
             ex("Una niña escribe «¿qué significa esta palabra?» en su tarjeta. ¿Hizo bien?", "Sí", "Dejó una pregunta honesta."),
         ],
         "challenge": [
-            ex("Si cada niña del grupo hace 2 tarjetas y son 5 niñas, ¿cuántas tarjetas hay?", "10", "5 × 2 = 10."),
+            ex("Si cada niña del grupo hace 2 tarjetas y son 5 niñas, ¿cuántas tarjetas hay?", "10", "2 + 2 + 2 + 2 + 2 = 10."),
             ex("Haz una tarjeta de práctica para «agua»: escribe palabra, dibujo y fuente.", "Cualquier tarjeta con los tres datos", "Debe tener los tres."),
         ],
     },
@@ -221,7 +221,7 @@ register(
     vocab=[("contrastar", "comparar para ver diferencias"), ("mismo sonido", "suena igual aunque se escriba distinto"), ("letra parecida", "letra que se cree que sirve pero no es igual"), ("escribir", "poner los sonidos en letras"), ("comunidad", "personas que comparten una cultura")],
     worked=[
         {"title": "Mismo sonido, letras distintas", "problem": "¿«vaca» y «baca» empiezan con el mismo sonido?", "steps": ["Digo «vaca».", "Digo «baca».", "Suenan igual al comienzo."], "answer": "Sí, aunque se escriben distinto"},
-        {"title": "Sonidos distintos", "problem": "¿«pata» y «bata» empiezan con el mismo sonido?", "steps": ["Digo «pata» y siento aire.", "Digo «bata» y siento menos aire.", "Son sonidos distintos."], "answer": "No, son distintos"},
+        {"title": "Sonidos distintos", "problem": "¿«pata» y «bata» empiezan con el mismo sonido?", "steps": ["Digo «pata» y «bata» con dos dedos suaves en la garganta.", "Con la «b» siento vibración y con la «p» no.", "Son sonidos distintos."], "answer": "No, son distintos"},
     ],
     mistakes=[
         {"wrong": "Pensar que si dos palabras empiezan con letras distintas, suenan distinto.", "why": "A veces el sonido es igual.", "fix": "Escucha el sonido antes de mirar la letra."},
@@ -310,7 +310,7 @@ register(
             ex("Un niño se burla del sonido de otro. ¿Qué pasa con la clase?", "Los demás pueden tener miedo de ensayar", "La burla frena el aprendizaje."),
         ],
         "challenge": [
-            ex("Si ensayas 2 veces cada día durante 7 días, ¿cuántas veces ensayas?", "14", "2 × 7 = 14."),
+            ex("Si ensayas 2 veces cada día durante 4 días, ¿cuántas veces ensayas en total?", "8", "2 + 2 + 2 + 2 = 8."),
             ex("Escribe una frase para animar a quien ensaya.", "Cualquier frase amable", "Debe animar con amabilidad."),
         ],
     },
@@ -366,7 +366,7 @@ register(
         "apply": [
             ex("Pides un lápiz prestado. ¿Qué dices al pedirlo: «por favor» o «hasta luego»?", "Por favor", "Se usa al pedir."),
             ex("Completa: «Cuando me voy de la casa de mi amiga digo ______».", "Hasta luego", "Es la despedida."),
-            ex("Tienes 3 fichas con 3 datos cada una. ¿Cuántos datos hay en total?", "9", "3 × 3 = 9."),
+            ex("Tienes 3 fichas con 3 datos cada una. ¿Cuántos datos hay en total?", "9", "3 + 3 + 3 = 9."),
         ],
         "reason": [
             ex("Un niño dice «hasta luego» al llegar. ¿Está bien la ocasión?", "No", "Es una despedida."),
@@ -380,7 +380,7 @@ register(
     context=[ex("El educador tradicional enseña una palabra nueva y dice cuándo se usa. Tomás la usa en otra ocasión. ¿Qué podrías decirle?", "Que la use en la ocasión que explicó el educador", "Cada palabra tiene su ocasión.")],
     selfcheck=[
         ex("¿Qué dices al despedirte?", "Hasta luego", "Es la despedida."),
-        ex("¿Quién te enseñó la palabra?", "Se anota", "Se anota la fuente."),
+        ex("¿Qué haces con el nombre de quien te enseñó una palabra?", "Lo anoto en la ficha", "Se anota la fuente."),
         ex("¿«Mari mari» es saludo o despedida?", "Saludo", "Lo explicó la educadora."),
     ],
     open_task=task(
@@ -399,11 +399,11 @@ register(
     OA3, 2,
     materials="Este cuaderno y lápiz. El mapa de práctica está escrito en los ejercicios.",
     use="Aprenderé a relacionar el nombre de un lugar con el territorio y a preguntar por su historia. Sirve para respetar los nombres de la tierra, especialmente los de origen indígena.",
-    prior=["Sé que los lugares tienen nombre.", "Sé ubicar norte, sur, este y oeste."],
+    prior=["Sé que los lugares tienen nombre.", "Sé leer palabras cortas con ayuda de un adulto."],
     explain=[
         "El nombre de un lugar suele decir algo: cómo es, qué hay o qué pasó allí. «Estero Hondo» dice que hay un estero profundo. «Cuesta Larga» dice que la subida es larga. Los nombres nos ayudan a recordar el territorio.",
         "En Chile muchos nombres de lugares vienen de lenguas indígenas. Esos nombres son parte de la memoria de los pueblos. Para conocer su significado hay que preguntar a personas de la comunidad. No se adivinan.",
-        "Un mapa permite ubicar los lugares. Para leerlo, buscas el nombre y la dirección. Cuando una lengua se está recuperando, volver a usar sus nombres de lugares es una forma de recuperar la memoria del territorio.",
+        "Un mapa permite ubicar los lugares. Para leerlo, buscas el nombre y la dirección. En un mapa el norte se dibuja arriba, el sur abajo, el este a la derecha y el oeste a la izquierda. Cuando una lengua se está recuperando, volver a usar sus nombres de lugares es una forma de recuperar la memoria del territorio.",
     ],
     vocab=[("estero", "arroyo pequeño de agua"), ("cuesta", "subida larga de un camino"), ("lomas", "cerros bajos y suaves"), ("territorio", "tierra donde vive una comunidad"), ("memoria", "lo que se recuerda")],
     worked=[
@@ -426,7 +426,7 @@ register(
             ex("¿Qué es un estero?", "Un arroyo pequeño de agua", "Es agua que corre."),
         ],
         "apply": [
-            ex(MAPA2 + " ¿Cuántos lugares tiene el mapa?", "4", "Son cuatro pasos."),
+            ex(MAPA2 + " ¿Cuántos lugares tiene el mapa?", "4", "Son cuatro lugares."),
             ex(MAPA2 + " ¿Qué lugar está en el centro?", "Lomas del Espino", "El mapa lo dice."),
             ex(MAPA2 + " ¿Dónde crees que hay un estero: en Estero Hondo o en Isla Chica?", "En Estero Hondo", "El nombre lo dice."),
         ],
@@ -446,8 +446,8 @@ register(
         ex("¿Qué cuenta un nombre de lugar?", "Cómo es o qué pasó", "Guarda la memoria del lugar."),
     ],
     open_task=task(
-        "Dibuja un mapa muy simple con tres lugares de tu barrio, por ejemplo la plaza, el río o la escuela. Escribe sus nombres y la dirección de cada uno desde tu casa. Pregunta a un adulto por qué un lugar se llama así. Pregunta al educador/a tradicional o a la comunidad: ¿qué lugares de nuestro territorio tienen nombre en la lengua y qué cuentan esos nombres?",
-        "Dibujé la plaza al norte, el río al oeste y la escuela al este. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua?",
+        "Dibuja un mapa muy simple con tres lugares de tu barrio, por ejemplo la plaza, el río o la escuela. Escribe sus nombres y dónde queda cada uno en tu dibujo (arriba, abajo, a la derecha o a la izquierda de tu casa). Pregunta a un adulto por qué un lugar se llama así. Pregunta al educador/a tradicional o a la comunidad: ¿qué lugares de nuestro territorio tienen nombre en la lengua y qué cuentan esos nombres?",
+        "Dibujé la plaza arriba, el río a la izquierda y la escuela a la derecha. La plaza se llama así por una feria. Mi pregunta: ¿qué lugares tienen nombre en la lengua?",
         ["mapa con tres lugares", "direcciones", "pregunta a la comunidad"],
         ["mapa", "pregunta escrita"],
         ["inventar significados", "confundir direcciones"],
@@ -526,7 +526,7 @@ register(
     prior=["Sé saludar y despedirme.", "Sé que cada expresión tiene su ocasión."],
     explain=[
         "Una interacción breve es una conversación corta de dos o tres turnos: uno saluda, el otro responde y se agradece. Para hacerla bien miras a la persona, hablas claro y esperas.",
-        "En una lengua que se está recuperando, las expresiones deben haber sido verificadas por un hablante o por la comunidad. Si no lo están, no se usan. «Mari mari» es un saludo en mapuzugun que se puede usar si la educadora de tu pueblo lo enseñó.",
+        "En una lengua que se está recuperando, las expresiones deben haber sido verificadas por un hablante o por la comunidad. Si no lo están, no se usan. «Mari mari» es un saludo en mapuzugun que se puede usar si el educador/a tradicional lo enseñó en tu curso.",
         "Si la otra persona dice algo que no entiendes, no finjas. Agradece y después pregunta qué significa. Aprender lleva tiempo, y los hablantes valoran la honestidad.",
     ],
     vocab=[("turno", "momento de hablar"), ("verificada", "confirmada"), ("contexto", "situación"), ("fingir", "hacer como que entiendo"), ("agradecer", "decir gracias")],
@@ -551,7 +551,7 @@ register(
         ],
         "apply": [
             ex("Llega el educador y tú lo saludas con la expresión que él enseñó. ¿Cuál usas: la validada o una inventada?", "La validada", "Se usa lo verificado."),
-            ex("Hay 6 niños que saludan al educador con 3 turnos cada uno. ¿Cuántos turnos hay en total?", "18", "6 × 3 = 18."),
+            ex("Hay 4 niños que saludan al educador con 3 turnos cada uno. ¿Cuántos turnos hay en total?", "12", "3 + 3 + 3 + 3 = 12."),
             ex("De 8 niños, 5 usaron la expresión validada. ¿Cuántos no?", "3", "8 − 5 = 3."),
         ],
         "reason": [

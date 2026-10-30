@@ -43,7 +43,7 @@ register(
     tiers={
         "recovery": [
             ex("Una tablilla de madera con signos tallados viene de Rapa Nui. ¿Cuál es el soporte: madera o tela?", "madera", "El soporte es el material donde están los signos, y aquí es la madera."),
-            ex("Un cordel con nudos sirve para llevar cuentas en los Andes. ¿Cuál es el soporte: cordel o piedra?", "cordel", "El soporte es el material de la cuerda con nudos."),
+            ex("En los Andes hay cordeles con nudos. ¿Cuál es su soporte: cordel o piedra?", "cordel", "El soporte es el material de la cuerda con nudos."),
             ex("¿Qué palabra dice de dónde viene un objeto: procedencia, color o tamaño?", "procedencia", "Procedencia significa de dónde viene algo y quién lo muestra."),
         ],
         "understand": [
@@ -65,10 +65,10 @@ register(
             ex("Ficha de práctica: Pueblo: no se sabe. Soporte: tablilla de madera. Fuente: un libro. ¿Qué frase es correcta: «Es de cualquier pueblo» o «Falta saber el pueblo y lo preguntaré»?", "Falta saber el pueblo y lo preguntaré", "Cuando falta un dato no se inventa, se pregunta."),
         ],
     },
-    context=[ex("En la sala de tu escuela hay una foto de una tablilla de madera con signos de Rapa Nui. Debajo solo dice «Año de la foto: hoy». ¿Qué dos datos de procedencia faltan además del soporte que ya se ve?", "el pueblo y la fuente", "El pueblo se sabe por el título, pero la ficha de procedencia pide pueblo, soporte y fuente.")],
+    context=[ex("En la sala de tu escuela hay una foto de una tablilla de madera con signos de Rapa Nui. Debajo solo dice «Año de la foto: hoy». ¿Qué dato de procedencia falta además del pueblo y del soporte?", "la fuente", "El pueblo y el soporte ya se saben; falta quién muestra o cuenta eso.")],
     selfcheck=[ex("¿Cómo se llama el material donde está el símbolo?", "soporte", "El soporte es el material."), ex("¿Qué hago si en la ficha falta un dato?", "pregunto", "No invento, anoto la pregunta y la consulto."), ex("¿Quién conoce y cuida el saber sobre los símbolos de su pueblo?", "el educador tradicional o la comunidad", "Son quienes lo transmiten y lo resguardan.")],
     open_task=task(
-        "Elige una de estas dos fichas de práctica y complétala en tu cuaderno con tres líneas: «Pueblo», «Soporte» y «Fuente». Ficha A: una tablilla de madera con signos de Rapa Nui vista en un libro. Ficha B: un cordel con nudos usado en los Andes visto en un museo. Después escribe una pregunta que le harías al educador/a tradicional o a una persona de la comunidad.",
+        "Elige una de estas dos fichas de práctica y complétala en tu cuaderno con tres líneas: «Pueblo», «Soporte» y «Fuente». Ficha A: una tablilla de madera con signos de Rapa Nui vista en un libro. Ficha B: un cordel con nudos de los Andes visto en un museo. Después escribe una pregunta que le harías al educador/a tradicional o a una persona de la comunidad.",
         "Ficha A. Pueblo: rapanui. Soporte: madera. Fuente: un libro. Pregunta: ¿se puede mostrar esta tablilla a otros cursos?",
         ["escribe pueblo, soporte y fuente", "no inventa el significado", "formula una pregunta para el educador/a tradicional o la comunidad"],
         ["dibujo o escritura de la ficha", "pregunta escrita o dicha en voz alta"],
@@ -86,7 +86,7 @@ register(
     prior=["Conozco figuras: círculo, cuadrado, triángulo, raya.", "Sé contar hasta 10."],
     explain=[
         "Describir es decir lo que se ve con los ojos: cuántas rayas hay, qué forma tiene, de qué color es y en qué material está. Una descripción no necesita saber el significado. Por eso todos podemos describir, aunque no conozcamos la lengua.",
-        "El significado es otra cosa: es la idea que el símbolo tiene para las personas que lo crearon. Ese significado lo explican la comunidad y el educador o la educadora tradicional. En el caso de los signos de las tablillas de Rapa Nui, hoy nadie ha logrado leerlos completos. Eso muestra que no se puede adivinar.",
+        "El significado es otra cosa: es la idea que el símbolo tiene para las personas que lo crearon. Ese significado lo explican la comunidad y el educador o la educadora tradicional. Si no conozco la escritura de un pueblo, no puedo saber lo que dicen sus signos. Eso muestra que no se puede adivinar.",
         "Cuando una lengua o una escritura casi se pierde, recuperar su saber lleva mucho tiempo y cuidado. Yo ayudo describiendo con exactitud lo que veo y guardando mis preguntas. Así no pongo en el símbolo cosas que son solo mías.",
     ],
     vocab=[("describir", "decir lo que veo con detalle"), ("significado", "la idea que tiene un símbolo para su pueblo"), ("forma", "cómo es el contorno de algo"), ("detalle", "una parte pequeña que se puede observar"), ("adivinar", "decir algo sin saberlo con seguridad")],
@@ -116,11 +116,11 @@ register(
         ],
         "reason": [
             ex("Pedro mira la figura ▲▲ y dice «son dos cerros». ¿Qué le dirías para cuidar la descripción?", "que diga «dos triángulos»", "Lo que se ve son triángulos; ser cerros sería una idea suya."),
-            ex("Hoy nadie ha logrado leer completos los signos de las tablillas de Rapa Nui. ¿Se puede adivinar su significado?", "No", "Adivinar no es saber y puede faltarle el respeto al pueblo."),
+            ex("No conoces la escritura de un pueblo y ves signos en una tablilla. ¿Puedes adivinar lo que dicen?", "No", "Adivinar no es saber y puede faltarle el respeto al pueblo."),
         ],
         "challenge": [
             ex("Figura de práctica: ●●● ▲▲. Escribe cuántas formas hay en total y cuántas son círculos.", "5 formas y 3 círculos", "Tres círculos más dos triángulos suman cinco formas."),
-            ex("Ana describe: «Hay dos rayas y quiere decir amistad». Corrige solo lo que no se ve.", "«Hay dos rayas»", "Lo de la amistad es una idea; se pregunta a la comunidad."),
+            ex("Ana describe: «Hay dos rayas y quiere decir amistad». Escribe la frase corregida, sin lo que no se ve.", "«Hay dos rayas»", "Lo de la amistad es una idea; se pregunta a la comunidad."),
         ],
     },
     context=[ex("Un amigo te muestra una foto de un tejido con rombos de color rojo en una fila de 4. Describe con una frase corta lo que se ve sin decir qué significa.", "Hay una fila de 4 rombos rojos.", "Se dice la cantidad, la forma y el color, sin significado.")],
@@ -143,7 +143,7 @@ register(
     use="Aprenderé a preguntar si se puede copiar o usar un símbolo antes de hacerlo. Sirve para no faltarle el respeto a ningún pueblo.",
     prior=["Sé que un símbolo viene de un pueblo.", "Sé pedir permiso con palabras amables."],
     explain=[
-        "Reproducir es copiar o dibujar de nuevo algo que ya existe. Algunos símbolos son de uso libre en una escuela. Otros pertenecen a una comunidad y solo se usan en ciertas ocasiones. No lo sabemos mirando solamente.",
+        "Reproducir es copiar o dibujar de nuevo algo que ya existe. Algunos símbolos se usan todos los días. Otros pertenecen a una comunidad y solo se usan en ciertas ocasiones. No lo sabemos mirando solamente.",
         "Resguardar significa cuidar algo para que no se pierda ni se use mal. Muchos pueblos resguardan sus saberes, sus lenguas y sus símbolos. Por eso la regla es: pregunto antes de copiar, y si no hay respuesta, no copio.",
         "Quien puede decir cuándo corresponde usar un símbolo es el educador o la educadora tradicional, o la persona que la comunidad indique. Yo puedo decir: «¿Puedo dibujar esto en mi cuaderno? ¿Cuándo corresponde usarlo?». Es una pregunta amable y cuida el saber de todos.",
     ],
@@ -228,14 +228,14 @@ register(
         "apply": [
             ex("Te muestran una manta con cuadrados azules. Completa: «Gracias. Veo ______ azules. ¿Puedo preguntar ______?». Elige las palabras: A) cuadrados / de qué pueblo es B) lunas / nada.", "A", "A describe lo que se ve y hace una pregunta."),
             ex("Ordena: A) pregunto B) agradezco C) describo. ¿Cuál es el orden de la respuesta respetuosa? Escribe las 3 letras.", "B, C, A", "Se agradece, se describe y luego se pregunta."),
-            ex("Ve esta respuesta: «Gracias. Veo tres rayas. ¿Puedo saber cuándo se usa?». ¿Cuántas partes de la respuesta respetuosa tiene?", "3", "Tiene agradecimiento, descripción y pregunta."),
+            ex("Mira esta respuesta: «Gracias. Veo tres rayas. ¿Puedo saber cuándo se usa?». ¿Cuántas partes de la respuesta respetuosa tiene?", "3", "Tiene agradecimiento, descripción y pregunta."),
         ],
         "reason": [
             ex("Una compañera dice «Eso no sirve para nada» ante un símbolo. ¿Qué podrías decirle con respeto en una frase?", "«Es importante para ese pueblo; preguntemos»", "Se valora el símbolo y se propone preguntar."),
             ex("¿Por qué es mejor decir «veo tres rayas» que «esto significa lluvia»?", "porque lo primero se ve y lo segundo es inventado", "Describir no atribuye un significado que no sé."),
         ],
         "challenge": [
-            ex("Marca cuántas partes de la respuesta respetuosa faltan en: «Qué bonito». (agradecer, describir, preguntar)", "faltan 3 partes", "Ninguna de las tres partes está completa en esa frase."),
+            ex("¿Cuántas de las tres partes de la respuesta respetuosa (agradecer, describir, preguntar) faltan en la frase «Ya lo vi antes»?", "faltan 3 partes", "Ninguna de las tres partes está completa en esa frase."),
             ex("Dos amigos ven un símbolo. Ana dice «gracias y veo dos puntos». Beto dice «gracias, veo dos puntos, ¿de qué pueblo es?». ¿Quién tiene la respuesta más completa?", "Beto", "Beto agrega la pregunta."),
         ],
     },
@@ -247,7 +247,7 @@ register(
         ["agradece", "describe sin inventar significado", "hace una pregunta a la comunidad o al educador/a tradicional"],
         ["respuesta oral o escrita", "dibujo de lo que ve"],
         ["decir «qué raro»", "dar un significado sin fuente"],
-        "Marca con tres visto buenos las partes que están y pide la que falte; recuerda que el significado lo cuenta quien pertenece al pueblo.",
+        "Marca con tres vistos buenos las partes que están y pide la que falte; recuerda que el significado lo cuenta quien pertenece al pueblo.",
     ),
     reinforce="Di en voz alta «gracias, veo…, ¿me cuentas…?» con un objeto de tu casa.",
     extend="Enseña a alguien de tu casa las tres partes de una respuesta respetuosa.",
@@ -260,7 +260,7 @@ register(
     use="Aprenderé a decir de qué pueblo es un símbolo, en qué material está y quién me lo muestra. Sirve para conocer con respeto cómo escribían o marcaban algunos pueblos.",
     prior=["Sé que en Chile viven distintos pueblos originarios.", "Sé nombrar materiales: madera, tela, cuerda."],
     explain=[
-        "Algunos pueblos originarios han marcado o escrito con símbolos. En Rapa Nui hay tablillas de madera con signos tallados. En los Andes se usaron cordeles con nudos para llevar cuentas. Cada pueblo tiene su forma.",
+        "Algunos pueblos originarios han marcado o escrito con símbolos. En Rapa Nui hay tablillas de madera con signos tallados. En los Andes hay cordeles con nudos que guardan información. Cada pueblo tiene su forma.",
         "Para mirar un símbolo con respeto me hago tres preguntas. ¿De qué pueblo es? ¿En qué material está, o sea, cuál es su soporte? ¿Quién me lo muestra, o sea, cuál es su fuente? Con esos datos sé de dónde viene.",
         "Si no sé una respuesta, no la invento. Escribo una pregunta y se la hago al educador o a la educadora tradicional, o a la comunidad. Ellos conocen lo que significa y cómo se cuida.",
     ],
@@ -276,7 +276,7 @@ register(
     tiers={
         "recovery": [
             ex("Tarjeta de práctica: «Tablilla de madera con signos». ¿Cuál es el soporte?", "tablilla de madera", "El soporte es el material que lleva los signos."),
-            ex("En los Andes se usaron cordeles con nudos para llevar cuentas. ¿Cuál es el soporte?", "cordel", "La cuerda es el material en que están los nudos."),
+            ex("En los Andes hay cordeles con nudos. ¿Cuál es el soporte?", "cordel", "La cuerda es el material en que están los nudos."),
             ex("¿Cómo se llama quien o lo que me da la información: fuente o dibujo?", "fuente", "Fuente es de dónde viene la información."),
         ],
         "understand": [
@@ -290,7 +290,7 @@ register(
             ex("Une: Rapa Nui con A) tablillas de madera B) cordeles con nudos. ¿Qué letra va?", "A", "Rapa Nui tiene tablillas de madera con signos."),
         ],
         "reason": [
-            ex("Marta dice que un cordel con nudos es de Rapa Nui. ¿Qué le dirías para corregir con respeto?", "que se verifique el pueblo y la fuente", "Cordeles con nudos se asocian a los Andes y no a las tablillas."),
+            ex("Marta dice que un cordel con nudos es de Rapa Nui. ¿Qué datos de su ficha conviene revisar?", "el pueblo y la fuente", "Sin pueblo ni fuente en la ficha, no se puede asegurar de dónde viene."),
             ex("¿Por qué es mejor escribir una pregunta que inventar la respuesta?", "porque inventar puede ser falso", "Una pregunta cuida la verdad y el respeto."),
         ],
         "challenge": [
@@ -325,7 +325,7 @@ register(
     vocab=[("forma", "cómo se ve el contorno"), ("parte", "un pedacito de la figura"), ("describir", "decir lo que se ve"), ("inventar", "decir algo que no sé si es verdad"), ("preguntar", "pedir información a quien sabe")],
     worked=[
         w("Contar partes", "Figura de práctica: ● ● ▲. ¿Cuántas partes tiene?", ["Cuento los círculos: 2.", "Cuento los triángulos: 1.", "2 más 1 son 3."], "3 partes"),
-        w("Elegir describir", "Frase A: «Hay un cuadrado rojo». Frase B: «Es la casa de un espíritu». ¿Cuál describe?", ["A habla de forma y color, que se ven.", "B dice algo que no se ve.", "Describe la frase A."], "A"),
+        w("Elegir describir", "Frase A: «Hay un cuadrado rojo». Frase B: «Es la casa de un amigo». ¿Cuál describe?", ["A habla de forma y color, que se ven.", "B dice algo que no se ve.", "Describe la frase A."], "A"),
     ],
     mistakes=[
         {"wrong": "Decir «es un animal» al ver una figura con puntas.", "why": "A mí me parece, pero el pueblo puede pensar otra cosa.", "fix": "Digo «tiene tres puntas»."},

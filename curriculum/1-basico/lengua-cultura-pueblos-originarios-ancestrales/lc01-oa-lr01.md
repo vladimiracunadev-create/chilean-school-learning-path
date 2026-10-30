@@ -365,7 +365,7 @@ Respuesta: Espero y pregunto cuál es mi tramo
 *Aplicación*
 
 - **A1.** En «Sopla, sopla, viento tibio, / sopla, sopla, mueve el trigo. / Calla, calla, viento fuerte, / calla, calla, duerme el trigo.», ¿cuántas veces suena «calla»?
-- **A2.** En «Uno, dos, sopla el sol; tres, cuatro, vuela el pato; cinco, seis, salta el pez.», ¿cuántas veces se repite la palabra «sopla»?
+- **A2.** En «Uno, dos, sopla el sol; tres, cuatro, vuela el pato; cinco, seis, salta el pez.», ¿cuántas veces suena la palabra «sopla»?
 - **A3.** La guía dice «¡Ola!» y el coro responde «¡Ola!». Si la guía lo dice 5 veces, ¿cuántas veces responde el coro?
 
 *Razonamiento y análisis*
@@ -1026,7 +1026,7 @@ Respuesta: Un campo de trigo quieto
 - **C1.** Contando o anotando lo que encuentro. Se revisa con marcas o notas.
 - **C2.** Porque cada vez se aprende algo nuevo. Se notan más cosas.
 - **C3.** En tu mente. Se imagina con la mente.
-- **A1.** 9. Son seis palabras de «seis sillas sin silla sirven» y «si se sientan seis»: 9.
+- **A1.** 9. Son 5 palabras en «seis sillas sin silla sirven» y 4 en «si se sientan seis»: 5 + 4 = 9.
 - **A2.** 2. Aparece en el primer y tercer verso.
 - **A3.** Pato. El tramo dice pato.
 - **Z1.** Escuchar de nuevo y comparar. Se comprueba otra vez.
@@ -1146,7 +1146,7 @@ Compartir lo que comprendiste puede hacerse de tres modos: con la voz, cuentas q
 
 Una buena respuesta dice una idea del texto y la une con algo que escuchaste. Por ejemplo: «El texto dice que el viento calla y el trigo duerme, y dibujé un campo quieto».
 
-Cierra siempre con respeto. Agradece a quien compartió el texto y di de quién es. Si tienes una duda, házla como pregunta. En una lengua que se recupera, cada pregunta ayuda a que más personas la conozcan.
+Cierra siempre con respeto. Agradece a quien compartió el texto y di de quién es. Si tienes una duda, hazla como pregunta. En una lengua que se recupera, cada pregunta ayuda a que más personas la conozcan.
 
 **Palabras importantes**
 

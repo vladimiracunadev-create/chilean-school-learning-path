@@ -12,7 +12,7 @@ register(
     OA3, 1,
     materials="Lápiz y una hoja. Las músicas de esta clase están descritas por escrito; un adulto puede leer la descripción o hacer sonar objetos de la casa. No hace falta internet ni parlante.",
     use="Aprenderé a prepararme para escuchar con atención: qué mirar, qué oír y cuándo escuchar de nuevo. Sirve para disfrutar y comprender más cualquier música.",
-    prior=["Sé quedarme en silencio unos segundos.", "Sé decir si un sonido es fuerte o suave, rápido o lento."],
+    prior=["Sé quedarme en silencio unos segundos.", "Sé decir si un sonido es fuerte o suave, rápido o lento.", "Sé que contraste es una parte distinta de la anterior."],
     explain=[
         "Escuchar con atención es distinto de oír de fondo. Oímos de fondo cuando hay música mientras hacemos otra cosa. Escuchamos con atención cuando dejamos lo que hacemos, quedamos en silencio y ponemos la mente en los sonidos. Así notamos detalles que antes no veíamos.",
         "Antes de escuchar, piensa qué vas a observar. Puedes buscar qué instrumentos o voces suenan, si va rápido o lento, si es fuerte o suave, y si hay partes que se repiten. No sabes la respuesta antes: solo decides dónde poner tu oído. Después de escuchar, cuenta qué notaste.",
@@ -55,8 +55,8 @@ register(
     context=[ex("En el auto suena música mientras tu familia conversa. Tú quieres escucharla con atención. ¿Qué le pides a las personas y qué haces?", "Pido un momento de silencio y pongo todo mi oído en la música", "Escuchar con atención necesita silencio y concentración.")],
     selfcheck=[ex("¿Cómo se llama oír música sin ponerle atención?", "Oír de fondo", "No hay atención puesta en el sonido."), ex("¿Qué se hace antes de escuchar?", "Decidir qué observar", "Eso guía el oído."), ex("¿Qué dices si no sabes qué instrumento suena?", "No lo sé todavía", "Es una respuesta honesta.")],
     open_task=task(
-        "Un adulto toca tres veces esta música con una cuchara y un tarro: golpes lentos y suaves, luego golpes rápidos y fuertes. Antes de escuchar, escribe qué vas a observar (elige tres de: rapidez, fuerza, repetición, silencio). Después escucha dos veces y anota qué notaste en cada escucha.",
-        "Voy a observar rapidez, fuerza y silencio. En la primera escucha noté que cambia de lento a rápido. En la segunda noté que había un silencio antes del cambio.",
+        "Un adulto toca dos veces esta música con una cuchara y un tarro: golpes lentos y suaves, luego golpes rápidos y fuertes. Antes de escuchar, escribe qué vas a observar (elige tres de: rapidez, fuerza, repetición, silencio). Después escucha dos veces y anota qué notaste en cada escucha.",
+        "Voy a observar rapidez, fuerza y repetición. En la primera escucha noté que cambia de lento a rápido. En la segunda noté que los golpes rápidos también eran más fuertes.",
         ["elige qué observar antes de escuchar", "escucha dos veces", "anota algo distinto en cada escucha"],
         ["lista escrita antes de escuchar", "dos anotaciones", "conversación"],
         ["decidir la respuesta antes de escuchar", "repetir exactamente lo mismo en ambas escuchas"],
@@ -106,16 +106,16 @@ register(
             ex("Dos niños escuchan una música tradicional de un pueblo originario. Uno dice «todas las músicas de pueblos originarios suenan así». ¿Qué falta?", "Cada pueblo tiene muchas músicas distintas", "Una pieza no representa una tradición completa."),
         ],
         "challenge": [
-            ex("Inventa una frase corta de 4 palmas que se pueda repetir como en una ronda. Escríbela con los símbolos de la clase.", f"Por ejemplo: {P(TA, TA, TT, TA)}", "Una frase corta y repetible se aprende de oído."),
+            ex("Inventa una frase corta de 4 pulsos que se pueda repetir como en una ronda. Escríbela con los símbolos de la clase.", f"Por ejemplo: {P(TA, TA, TT, TA)}", "Una frase corta y repetible se aprende de oído."),
             ex("Cuenta tres cosas que ayudan a que una canción se pase de abuelos a nietos sin partitura.", "Que sea corta, que se repita y que se cante en grupo", "Esas características facilitan la memoria."),
         ],
     },
     context=[ex("En una fiesta del barrio todos hacen un círculo, cantan un estribillo que se repite y aplauden el pulso. Nadie lee letras. ¿Qué tipo de música es y cómo lo sabes?", "Tradición oral; se aprende de oído, participan todos y hay repetición", "Reúne las tres características de la clase.")],
     selfcheck=[ex("¿Cómo se aprende la tradición oral?", "Escuchando y repitiendo", "No necesita partitura."), ex("Nombra una forma de participar en una ronda.", "Cantar, aplaudir o bailar", "Todos pueden participar así."), ex("¿Qué debemos hacer para conocer bien la música de un pueblo originario?", "Escuchar a las personas que la guardan", "Ellos conocen su tradición.")],
     open_task=task(
-        f"Aprende esta ronda de palmas de oído: {P(TT, TA, TT, TA)}. Pídele a alguien que te la enseñe tocándola sin papel y repítela tres veces. Luego enséñasela tú a otra persona. Cuenta quién participó, cuántas veces se repitió y para qué podría servir.",
+        f"Aprende de oído una ronda de palmas. Un adulto lee este patrón en secreto: {P(TT, TA, TT, TA)}. Que lo toque con las palmas sin mostrarte el papel y tú lo repites tres veces. Luego enséñaselo tú a otra persona. Cuenta quién participó, cuántas veces se repitió y para qué podría servir.",
         "Mi hermano me enseñó la ronda y yo la repetí tres veces. Se la enseñé a mi abuela. Participamos tres personas y se puede usar para jugar en ronda.",
-        ["aprende el patrón escuchando", "lo repite varias veces", "cuenta quién participó y para qué podría servir"],
+        ["aprende el patrón escuchando, sin mirar el papel", "lo repite varias veces", "cuenta quién participó y para qué podría servir"],
         ["interpretación", "frase escrita", "explicación oral"],
         ["leer en vez de escuchar", "tocar sin repetir"],
         "Reconoce que aprendió de oído y pregunta cómo supo que lo hacía igual; si cambió el patrón, vuelve a escucharlo despacio.",
@@ -131,7 +131,7 @@ register(
     prior=["Sé nombrar algunos instrumentos como piano, violín y flauta.", "Sé decir si una parte se repite."],
     explain=[
         "La tradición escrita, también llamada docta, es música que un compositor escribió en una partitura. La partitura es como una receta: dice qué notas tocar, cuánto duran y qué tan fuerte. Así, personas distintas pueden tocar la misma pieza en lugares y años diferentes.",
-        "Algunas piezas son muy breves y están pensadas para niños y jóvenes. Un ejemplo es el «Álbum para la juventud» del compositor Robert Schumann, que reúne piezas cortas para piano. Otra obra se llama «Juguetería» del compositor P. Bisquert. En estas piezas se pueden escuchar los instrumentos y las secciones.",
+        "Algunas piezas son muy breves y están pensadas para niños y jóvenes. Un ejemplo es el «Álbum para la juventud» del compositor Robert Schumann, que reúne piezas cortas para piano. Otra colección de piezas cortas se llama «Juguetería», de P. Bisquert. En estas piezas se pueden escuchar los instrumentos y las secciones.",
         "Al escuchar tradición escrita, observa qué instrumentos o voces suenan, si hay partes que regresan y cómo cambian la fuerza y la rapidez. Describe lo que oyes, por ejemplo: «un piano toca notas suaves y lentas, y la primera parte regresa al final».",
     ],
     vocab=[("tradición escrita", "música guardada en una partitura"), ("compositor", "persona que crea y escribe música"), ("partitura", "papel con las notas y el modo de tocarlas"), ("pieza", "una obra musical completa y corta"), ("intérprete", "persona que toca o canta la música")],
@@ -229,7 +229,7 @@ register(
     context=[ex("En el recreo, un grupo de niños baila una canción infantil con un pulso muy marcado y palmas. ¿Qué observan sobre el pulso y la función?", "El pulso es claro y la función es bailar", "Lo marcado invita al baile.")],
     selfcheck=[ex("Nombra dos estilos de música popular.", "Jazz y rock (u otros como fusión)", "Son estilos nombrados en la clase."), ex("¿Qué instrumento marca el pulso en una banda?", "La batería", "Marca el latido."), ex("¿Qué significa improvisar?", "Inventar música en el momento", "No se lee una melodía escrita.")],
     open_task=task(
-        f"Escucha o pide que un adulto cante una canción infantil que conozcan. Toca el pulso con los pies y el patrón {P(TA, TA, TT, SIL)} con las palmas durante la canción. Anota: qué instrumento o voz hay, si el pulso es claro y para qué sirve la canción (bailar, dormir, jugar).",
+        f"Escucha o pide que un adulto cante una canción infantil que conozcan. Marca el pulso con los pies mientras suena la canción. Después toca con las palmas el patrón {P(TA, TA, TT, SIL)} varias veces. Anota: qué instrumento o voz hay, si el pulso es claro y para qué sirve la canción (bailar, dormir, jugar).",
         "Escuché una canción infantil con voz y palmas. El pulso era claro. Servía para jugar.",
         ["marca el pulso con los pies", "toca el patrón sin perderse", "anota instrumento, pulso y función"],
         ["interpretación", "tres datos escritos", "explicación"],
@@ -247,7 +247,7 @@ register(
     prior=["Sé escribir algunas palabras.", "Sé describir un sonido con sus cualidades."],
     explain=[
         "Una bitácora es un cuaderno donde anotamos lo que escuchamos. Para cada música escribimos tres cosas: de qué tipo es (tradición oral, tradición escrita o popular), qué se oye (instrumentos, voz, rapidez, fuerza) y para qué sirve. También podemos dibujar o pintar.",
-        "Durante el año conviene escuchar muchas músicas distintas. La meta del curso es escuchar al menos 20 músicas variadas y breves. Si comparas dos, puedes decir en qué se parecen y en qué se diferencian. Por ejemplo, las dos pueden ser lentas, pero una tiene voces y la otra, un piano.",
+        "Durante el año conviene escuchar muchas músicas distintas. La meta del año es escuchar al menos 20 músicas variadas y breves. Si comparas dos, puedes decir en qué se parecen y en qué se diferencian. Por ejemplo, las dos pueden ser lentas, pero una tiene voces y la otra, un piano.",
         "En la bitácora también anotamos lo que no sabemos. Puedes escribir «no sé de dónde viene» o «no sé cómo se llama el instrumento». Eso es honesto y ayuda a aprender más. Nunca escribas datos privados, como nombres de personas o direcciones.",
     ],
     vocab=[("bitácora", "cuaderno donde se anota lo que se escucha"), ("comparar", "decir en qué se parecen y se diferencian dos cosas"), ("repertorio", "conjunto de músicas que conozco"), ("tipo de música", "oral, escrita o popular"), ("no sé todavía", "frase honesta cuando falta información")],
@@ -262,7 +262,7 @@ register(
     tiers={
         "recovery": [
             ex("¿Qué es una bitácora?", "Un cuaderno donde se anota lo que se escucha", "Guarda las experiencias de escucha."),
-            ex("¿Cuántas músicas conviene escuchar al menos durante el año?", "20", "Es la meta del curso."),
+            ex("¿Cuántas músicas conviene escuchar al menos durante el año?", "20", "Es la meta del año."),
             ex("Una ronda en que todos cantan, ¿es de tradición oral o escrita?", "Oral", "Se aprende de persona a persona."),
         ],
         "understand": [
@@ -271,7 +271,7 @@ register(
             ex("¿Por qué no se escriben datos privados en la bitácora?", "Porque deben protegerse las personas", "Nombres y direcciones son privados."),
         ],
         "apply": [
-            ex("Completa la entrada: música de un piano que lee una partitura, lenta y suave. ¿De qué tipo es?", "Tradición escrita", "El piano lee la partitura."),
+            ex("Completa la entrada: un pianista lee una partitura y toca música lenta y suave. ¿De qué tipo es?", "Tradición escrita", "El piano lee la partitura."),
             ex("Música A: voz y palmas, ronda. Música B: banda con batería y guitarra. ¿Cuál es popular?", "La B", "La batería y la guitarra son típicas de música popular."),
             ex("Dos músicas son lentas. Una tiene piano y la otra tiene tambor. Escribe una semejanza y una diferencia.", "Semejanza: las dos son lentas; diferencia: una tiene piano y la otra tambor", "Se compara lo que se parece y lo que no."),
         ],
@@ -285,10 +285,10 @@ register(
         ],
     },
     context=[ex("Tu bitácora tiene tres músicas: una ronda, una pieza de piano y una canción de banda. ¿Qué tipo escribes para cada una, en ese orden?", "Tradición oral, tradición escrita, popular", "Cada una corresponde a un tipo distinto.")],
-    selfcheck=[ex("¿Qué se escribe cuando no se sabe una información?", "No lo sé todavía", "Es una respuesta honesta."), ex("¿Cuántas músicas, al menos, es la meta del año?", "20", "Es la meta del curso."), ex("¿Qué es comparar?", "Decir en qué se parecen y se diferencian", "Se buscan semejanzas y diferencias.")],
+    selfcheck=[ex("¿Qué se escribe cuando no se sabe una información?", "No lo sé todavía", "Es una respuesta honesta."), ex("¿Cuántas músicas, al menos, es la meta del año?", "20", "Es la meta del año."), ex("¿Qué es comparar?", "Decir en qué se parecen y se diferencian", "Se buscan semejanzas y diferencias.")],
     open_task=task(
-        "Completa esta bitácora con tres músicas descritas. Música 1: un grupo de niños canta en círculo y aplaude. Música 2: un piano toca notas suaves y lentas leyendo una partitura. Música 3: una banda con batería, bajo y guitarra eléctrica toca para bailar. Para cada una escribe el tipo, lo que se oye y su función. Al final escribe una cosa que no sabes todavía.",
-        "1: Tradición oral; voces y palmas; jugar en ronda. 2: Tradición escrita; piano suave y lento; escuchar con calma. 3: Popular; batería, bajo y guitarra; bailar. No sé cómo se llama el estilo de la tercera.",
+        "Completa esta bitácora con tres músicas descritas. Música 1: un grupo de niños canta en círculo y aplaude. Música 2: una pianista lee una partitura y toca notas suaves y lentas. Música 3: una banda con batería, bajo y guitarra eléctrica toca para bailar. Para cada una escribe el tipo, lo que se oye y su función. Al final escribe una cosa que no sabes todavía.",
+        "1: Tradición oral; voces y palmas; jugar en ronda. 2: Tradición escrita; piano suave y lento, leído de partitura; escuchar con calma. 3: Popular; batería, bajo y guitarra; bailar. No sé cómo se llama el estilo de la tercera.",
         ["anota el tipo correcto de cada música", "describe lo que se oye con pistas", "dice una cosa que no sabe"],
         ["bitácora escrita", "conversación"],
         ["escribir solo me gustó", "inventar datos que no se conocen"],
@@ -305,7 +305,7 @@ register(
     use="Aprenderé a cantar con una voz cuidada, por eco, sin forzar la garganta. Sirve para cantar con otros sin cansarme y sin gritar.",
     prior=["Sé repetir una frase que oigo.", "Sé respirar por la nariz y soltar el aire por la boca."],
     explain=[
-        "Cantar bien es cantar con una voz cuidada. No se canta fuerte gritando. Se canta con el cuerpo derecho, los hombros sueltos y el aire que viene desde la panza. Si te duele la garganta, cantas más bajito o descansas y tomas agua.",
+        "Cantar bien es cantar con una voz cuidada. No se canta fuerte gritando. Se canta con el cuerpo derecho, los hombros sueltos y el aire que viene desde la panza. Si te duele la garganta, deja de cantar, descansa y toma agua.",
         "Cantar por eco significa repetir lo que escuchas. Una persona canta una frase corta y tú la repites igual: las mismas palabras, el mismo ritmo y el mismo tono. Si todos los niños cantan el mismo tono a la vez, se dice que cantan al unísono.",
         "Para afinar con otros, escucha más de lo que cantas. Si no oyes a las otras voces, estás cantando demasiado fuerte. Una buena voz de grupo suena junta, como una sola. Después de cantar, haz silencio un momento para escuchar cómo terminó.",
     ],
@@ -322,7 +322,7 @@ register(
         "recovery": [
             ex("Si cantas por eco, ¿repites lo que oyes o inventas otra frase?", "Repito lo que oigo", "El eco es una repetición."),
             ex("Antes de cantar, ¿cómo pones tu cuerpo: encorvado o derecho?", "Derecho", "Una postura recta ayuda al aire."),
-            ex("Si te duele la garganta, ¿cantas más fuerte o más bajito?", "Más bajito", "Se debe cuidar la voz."),
+            ex("Si te duele la garganta, ¿sigues cantando fuerte o descansas?", "Descanso", "Se debe cuidar la voz."),
         ],
         "understand": [
             ex("¿Qué significa cantar al unísono?", "Cantar el mismo sonido a la vez", "Todos suenan igual."),
@@ -331,7 +331,7 @@ register(
         ],
         "apply": [
             ex("Un adulto canta «mi voz es un hilo». Escribe lo que repites si cantas por eco.", "Mi voz es un hilo", "El eco repite las mismas palabras."),
-            ex("La frase «canto bajito, canto parejo» tiene 6 sílabas. Si la cantas dos veces seguidas, ¿cuántas sílabas cantas?", "12", "6 sílabas × 2 veces = 12."),
+            ex("La frase «canto bajito, canto parejo» tiene 10 sílabas (can-to ba-ji-to, can-to pa-re-jo). Si la cantas dos veces seguidas, ¿cuántas sílabas cantas?", "20", "10 sílabas × 2 veces = 20."),
             ex("Cantas con 3 compañeros. ¿Cuántas voces cantan al unísono, contándote a ti?", "4", "Tres compañeros más tú suman cuatro."),
         ],
         "reason": [
@@ -343,7 +343,7 @@ register(
             ex("Explica con tus palabras por qué escuchar a los demás ayuda a afinar.", "Porque puedo copiar su tono y cantar igual que ellos", "Escuchar permite igualar el sonido."),
         ],
     },
-    context=[ex("En el acto de la escuela quieres cantar fuerte, pero tu voz se siente rasposa. ¿Qué haces?", "Tomo agua, canto más bajito y respiro desde la panza", "Se cuida la voz para no dañarla.")],
+    context=[ex("En el acto de la escuela quieres cantar fuerte, pero tu voz se siente rasposa. ¿Qué haces?", "Tomo agua, descanso y después canto bajito", "Se cuida la voz para no dañarla.")],
     selfcheck=[ex("¿Qué es cantar por eco?", "Repetir lo que oigo", "Escucho y repito igual."), ex("¿Se grita para cantar fuerte?", "No", "Se canta con aire, no con grito."), ex("¿Qué significa unísono?", "El mismo sonido a la vez", "Todos suenan igual.")],
     open_task=task(
         "Canta por eco con alguien de tu casa la frase «Canto bajito, canto parejo, mi voz es un hilo que sube y se va». Que esa persona cante una parte y tú la repites con voz cuidada. Después cantan juntos al mismo tiempo. Anota si lograron sonar como una sola voz y cómo cuidaste tu garganta.",
@@ -423,7 +423,7 @@ register(
     explain=[
         "Los instrumentos de percusión suenan al golpearlos, sacudirlos o rasparlos. Hay convencionales, como el pandero, las claves, el triángulo y el tambor. Y hay no convencionales, que son objetos cotidianos: un tarro, una caja de cartón, una cuchara de madera o una botella con arroz.",
         f"Acompañar es tocar un patrón que se repite mientras alguien canta. El patrón {P(TA, TT, TA, SIL)} se toca una y otra vez sobre el pulso. Lo difícil es no acelerar. Cuando nos emocionamos, tocamos más rápido. Para evitarlo, marca el pulso con el pie y compara tu patrón con él.",
-        "Cuida los objetos y tus oídos. Golpea con suavidad, usa una cuchara de madera y no un martillo. No toques tan fuerte que tapes la voz que canta. Un buen acompañante es el que se oye, pero deja oír a quien canta.",
+        "Cuida los objetos y tus oídos. Golpea con suavidad, usa una cuchara de madera y no objetos duros o pesados. No toques tan fuerte que tapes la voz que canta. Un buen acompañante es el que se oye, pero deja oír a quien canta.",
     ],
     vocab=[("percusión", "instrumentos que suenan al golpear, sacudir o raspar"), ("convencional", "hecho para hacer música, como el pandero"), ("no convencional", "objeto cotidiano que uso para sonar"), ("acompañar", "tocar mientras otro canta"), ("acelerar", "ir cada vez más rápido sin querer")],
     worked=[
@@ -455,7 +455,7 @@ register(
             ex("¿Por qué un objeto cotidiano puede ser un instrumento?", "Porque suena y se puede tocar con un patrón", "Lo importante es el sonido que produce."),
         ],
         "challenge": [
-            ex("Quieres dos sonidos distintos en tu patrón: uno agudo y uno grave. Nombra dos objetos que puedan lograrlo.", "Por ejemplo: una cuchara en un vaso (agudo) y una caja de cartón (grave)", "Cada objeto tiene su altura."),
+            ex("Quieres dos sonidos distintos en tu patrón: uno agudo y uno grave. Nombra dos objetos que puedan lograrlo.", "Por ejemplo: una cuchara que golpea la tapa de una olla (agudo) y una caja de cartón (grave)", "Cada objeto tiene su altura."),
             ex("Explica con tus palabras cómo comprobarías que no aceleraste.", "Comparándolo con el pulso del pie", "El pulso del pie es una referencia constante."),
         ],
     },
@@ -509,7 +509,7 @@ register(
             ex("La frase cantada se repite 3 veces y la percusión toca 4 pulsos por cada repetición. ¿Cuántos pulsos toca?", "12", "4 pulsos × 3 repeticiones = 12."),
         ],
         "reason": [
-            ex("Si la voz no se oye, ¿quién debe cambiar: la percusión o la voz?", "La percusión, tocando más suave", "El acompañamiento debe apoyar la voz."),
+            ex("La percusión suena muy fuerte y la voz no se oye. ¿Quién debe cambiar: la percusión o la voz?", "La percusión, tocando más suave", "El acompañamiento debe apoyar la voz."),
             ex("¿Es mejor que todos toquen lo más fuerte que puedan?", "No", "Se pierde el equilibrio."),
         ],
         "challenge": [

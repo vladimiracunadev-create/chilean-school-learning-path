@@ -271,7 +271,7 @@ Respuesta: No lo uso y pido ayuda
 
 **Consigna exacta:** Pide a un adulto que lea en voz alta: «Hola, hola, buen día. Hola a todos». Cuenta cuántas veces suena «hola» con marcas. Luego pídele que lo lea otra vez y busca otro foco: cuántas palabras tiene en total. Anota tus dos resultados. Pregunta al educador/a tradicional o a la comunidad: ¿qué audios de su pueblo podemos escuchar y quién los verifica?
 
-**Referencia para modelar y corregir:** Conté tres «hola» y cinco palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica?
+**Referencia para modelar y corregir:** Conté tres «hola» y siete palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -285,7 +285,7 @@ Respuesta: No lo uso y pido ayuda
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Conté tres «hola» y cinco palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica? |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Conté tres «hola» y siete palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -410,7 +410,7 @@ Respuesta: No; espero la verificación
 - **E2.** Confirmar que está bien. Lo confirma quien conoce la lengua.
 - **E3.** Pedir permiso. La voz es de la persona.
 
-**Actividad abierta · ejemplo de respuesta.** Conté tres «hola» y cinco palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica?
+**Actividad abierta · ejemplo de respuesta.** Conté tres «hola» y siete palabras en total. Mi pregunta: ¿qué audios del pueblo podemos escuchar y quién los verifica?
 
 **Criterios para evaluarla:** escucha con foco; anota resultados; pregunta al educador/a tradicional.
 
@@ -478,7 +478,7 @@ Respuesta: No; espero la verificación
 
 **Recurso listo para usar:** Este cuaderno y lápiz. Las imágenes de práctica son figuras escritas aquí.
 
-**Consigna exacta:** Mira Símbolos de práctica (sin significado cultural): △ ○ ○ ▢ y escribe una descripción de dos líneas: qué figuras hay y cuántas. Inventa una ficha con pueblo («se pregunta»), soporte («pantalla») y fuente («este cuaderno»). Luego explica en una frase por qué no debes usarlos de fondo de pantalla. Pregunta al educador/a tradicional o a la comunidad: ¿qué imágenes de su escritura ancestral podemos mirar en pantallas y con qué cuidados?
+**Consigna exacta:** Mira Símbolos de práctica (sin significado cultural): △ ○ ○ □ y escribe una descripción de dos líneas: qué figuras hay y cuántas. Inventa una ficha con pueblo («se pregunta»), soporte («pantalla») y fuente («este cuaderno»). Luego explica en una frase por qué no debes usarlos de fondo de pantalla. Pregunta al educador/a tradicional o a la comunidad: ¿qué imágenes de su escritura ancestral podemos mirar en pantallas y con qué cuidados?
 
 **Referencia para modelar y corregir:** Hay un triángulo, dos círculos y un cuadrado. Ficha: pueblo, se pregunta; soporte, pantalla; fuente, este cuaderno. No los uso de fondo porque no tengo permiso. Mi pregunta: ¿qué imágenes podemos mirar?
 
@@ -534,7 +534,7 @@ Si quieres guardar o copiar una imagen, pregunta antes. No la uses en tareas, ju
 
 *Ejemplo 1. Observar sin copiar*
 
-Problema: En una pantalla ves Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Qué anotas sin copiarlos?
+Problema: En una pantalla ves Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Qué anotas sin copiarlos?
 
 1. Describo las figuras.
 2. Anoto el soporte si lo dice.
@@ -561,9 +561,9 @@ Respuesta: No lo uso y pregunto de dónde viene
 
 *Recuperación*
 
-- **R1.** Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuántas figuras ves?
+- **R1.** Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuántas figuras ves?
 - **R2.** ¿Es lo mismo ver un símbolo que copiarlo?
-- **R3.** ¿Qué debes anotar de una imagen: pueblo y fuente?
+- **R3.** ¿Debes anotar el pueblo y la fuente de una imagen?
 
 *Comprensión*
 
@@ -573,7 +573,7 @@ Respuesta: No lo uso y pregunto de dónde viene
 
 *Aplicación*
 
-- **A1.** Ves Símbolos de práctica (sin significado cultural): △ ○ ○ ▢. ¿Cuántos círculos describes?
+- **A1.** Ves Símbolos de práctica (sin significado cultural): △ ○ ○ □. ¿Cuántos círculos describes?
 - **A2.** Una imagen tiene pueblo, fuente y fecha. ¿Cuántos datos de contexto tiene?
 - **A3.** Hay 4 imágenes y 2 tienen fuente. ¿Cuántas no tienen fuente?
 
@@ -597,7 +597,7 @@ Respuesta: No lo uso y pregunto de dónde viene
 - **E2.** ¿Qué anotas?
 - **E3.** ¿Qué pasa si falta información?
 
-**Actividad abierta.** Mira Símbolos de práctica (sin significado cultural): △ ○ ○ ▢ y escribe una descripción de dos líneas: qué figuras hay y cuántas. Inventa una ficha con pueblo («se pregunta»), soporte («pantalla») y fuente («este cuaderno»). Luego explica en una frase por qué no debes usarlos de fondo de pantalla. Pregunta al educador/a tradicional o a la comunidad: ¿qué imágenes de su escritura ancestral podemos mirar en pantallas y con qué cuidados?
+**Actividad abierta.** Mira Símbolos de práctica (sin significado cultural): △ ○ ○ □ y escribe una descripción de dos líneas: qué figuras hay y cuántas. Inventa una ficha con pueblo («se pregunta»), soporte («pantalla») y fuente («este cuaderno»). Luego explica en una frase por qué no debes usarlos de fondo de pantalla. Pregunta al educador/a tradicional o a la comunidad: ¿qué imágenes de su escritura ancestral podemos mirar en pantallas y con qué cuidados?
 
 **Solucionario razonado**
 
@@ -612,7 +612,7 @@ Respuesta: No lo uso y pregunto de dónde viene
 - **A3.** 2. 4 − 2 = 2.
 - **Z1.** No. Sin información no se sabe.
 - **Z2.** Sí. Conserva el contexto.
-- **D1.** Pueblo, soporte y fuente. Son los datos clave.
+- **D1.** Por ejemplo: pueblo, soporte y fuente (también vale la fecha). Son datos clave del contexto.
 - **D2.** Cualquier pregunta sobre su origen. Debe preguntar su origen.
 - **S1.** Que primero pregunte a la comunidad. Es un uso fuera de contexto.
 - **E1.** Observo sin copiar. Observar es distinto de copiar.
@@ -784,7 +784,7 @@ Respuesta: Escuchar con atención y repetir sin grabar
 
 - **A1.** Hay 5 personas. 3 dicen sí a ser grabadas y 2 dicen no. ¿A cuántas puedes grabar?
 - **A2.** Pides permiso a 4 personas y todas dicen que no. ¿Cuántas grabaciones haces?
-- **A3.** Practicas 2 veces al día durante 3 días sin grabar. ¿Cuántas veces practicaste?
+- **A3.** Practicas 2 veces cada día durante 3 días sin grabar. ¿Cuántas veces practicaste en total?
 
 *Razonamiento y análisis*
 
@@ -818,7 +818,7 @@ Respuesta: Escuchar con atención y repetir sin grabar
 - **C3.** Uno que se puede usar con permiso. Alguien lo permitió.
 - **A1.** 3. Solo a las que dijeron sí.
 - **A2.** 0. Ninguna, porque nadie aceptó.
-- **A3.** 6. 2 × 3 = 6.
+- **A3.** 6. 2 + 2 + 2 = 6.
 - **Z1.** No. Igual falta el permiso.
 - **Z2.** Sí. Aceptó la respuesta.
 - **D1.** Cualquier frase respetuosa. Debe pedir permiso con amabilidad.
@@ -992,7 +992,7 @@ Respuesta: Qué es, quién la publicó y dónde la encontré
 *Aplicación*
 
 - **A1.** Ficha: recurso, audio; responsable, escuela; lugar, biblioteca. ¿Dónde está el recurso?
-- **A2.** Tienes 3 recursos y anotas 3 datos de cada uno. ¿Cuántos datos anotas?
+- **A2.** Tienes 3 recursos y anotas 3 datos de cada uno. ¿Cuántos datos anotas en total?
 - **A3.** Ordena: a) lugar, b) responsable, c) pueblo. Escribe las letras en el orden de la ficha: pueblo, responsable, lugar.
 
 *Razonamiento y análisis*
@@ -1002,7 +1002,7 @@ Respuesta: Qué es, quién la publicó y dónde la encontré
 
 *Desafío*
 
-- **D1.** Si 4 niños anotan cada uno 3 datos de procedencia, ¿cuántos datos hay?
+- **D1.** Si 4 niños anotan cada uno 3 datos de procedencia, ¿cuántos datos hay en total?
 - **D2.** Escribe una ficha de procedencia de práctica de un libro de tu casa.
 
 *Situaciones auténticas*
@@ -1026,11 +1026,11 @@ Respuesta: Qué es, quién la publicó y dónde la encontré
 - **C2.** Para no mezclar pueblos. Cada pueblo es distinto.
 - **C3.** Con ayuda del profesor. Se anota con apoyo.
 - **A1.** En la biblioteca. El lugar lo dice.
-- **A2.** 9. 3 × 3 = 9.
+- **A2.** 9. 3 + 3 + 3 = 9.
 - **A3.** c, b, a. Así es el orden pedido.
 - **Z1.** Dar crédito. Falta decir quién la publicó.
 - **Z2.** Sí. Dio crédito a la fuente.
-- **D1.** 12. 4 × 3 = 12.
+- **D1.** 12. 3 + 3 + 3 + 3 = 12.
 - **D2.** Cualquier ficha con tres datos. Debe tener datos.
 - **S1.** Anotar la procedencia. Falta dar crédito.
 - **E1.** Sí. La procedencia es su origen.

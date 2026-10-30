@@ -163,7 +163,7 @@ register(
             ex("¿Por qué «good night» no se dice por la mañana?", "Porque night es noche", "Cada saludo va con su momento del día."),
         ],
         "challenge": [
-            ex(ADULT + "«A: Good morning, Ana! B: Good morning! A: Here you are. B: Thank you! A: You're welcome.» ¿Cuántas expresiones de cortesía distintas oíste?", "3", "Good morning, thank you y you're welcome."),
+            ex(ADULT + "«A: Good morning, Ana! B: Good morning! A: Here you are. B: Thank you! A: You're welcome.» ¿Qué responde A cuando B dice thank you?", "You're welcome", "A thank you se responde you're welcome."),
             ex("Escribe en inglés cómo pides un lápiz con cortesía.", "A pencil, please", "Se agrega please."),
         ],
     },
@@ -173,7 +173,7 @@ register(
         ex(ADULT + "«A: Here is your book. B: Thank you.» ¿Qué recibió B?", "Un libro", "Book es libro."),
         ex("¿Cómo respondes a «Thank you»?", "You're welcome", "Es la respuesta de cortesía."),
     ],
-    open_task=task("Un adulto actúa un mini diálogo contigo: te da un lápiz diciendo «Here you are.» Tú respondes con la expresión correcta y luego, cuando él dice «Thank you», contestas con la tuya. Al final se despiden.", "«Thank you.» «You're welcome.» «Goodbye!»", ["dice thank you al recibir", "dice you're welcome al final", "se despide con goodbye"], ["nota del adulto", "audio con permiso de la familia"], ["decir sorry al recibir", "repetir thank you dos veces"], "Cambien de papel y repitan para que practique ambas expresiones."),
+    open_task=task("Un adulto actúa un mini diálogo contigo: te da un lápiz diciendo «Here you are.» Tú respondes con la expresión correcta. Luego le devuelves el lápiz diciendo «Here you are» y él dice «Thank you»: contestas con la tuya. Al final se despiden.", "«Thank you.» «Here you are.» «You're welcome.» «Goodbye!»", ["dice thank you al recibir", "dice you're welcome cuando le agradecen", "se despide con goodbye"], ["nota del adulto", "audio con permiso de la familia"], ["decir sorry al recibir", "repetir thank you dos veces"], "Cambien de papel y repitan para que practique ambas expresiones."),
     reinforce="Di «thank you» cada vez que alguien te dé algo en tu casa durante un día.",
     extend="Escribe tres situaciones diarias y la expresión en inglés que usarías en cada una.",
 )
@@ -185,10 +185,11 @@ register(
     prior=["Sé decir palabras cortas como cat y hat.", "Sé que algunos sonidos del inglés no existen en español."],
     explain=[
         "En inglés hay palabras que se escriben distinto y suenan casi igual. Para el oído, big y pig se diferencian solo por el primer sonido. Lo mismo pasa con cat y cap, o pen y pan. Estas parejas se llaman pares mínimos.",
+        "Dos sonidos importantes son /s/ y /z/. Sip (tomar un sorbo) empieza con /s/, un sonido suave como una serpiente: sss. Zip (cierre) empieza con /z/, que vibra como una abeja: zzz. Para sentir la diferencia, toca tu garganta: con /z/ vibra y con /s/ no.",
         "Para distinguirlas, escucha una letra a la vez. En cat y cap cambia el sonido final: -t y -p. En pen y pan cambia la vocal del medio: e y a. Si te fijas en el sonido que cambia, no te equivocarás.",
         "Una buena estrategia es pedir que lo repitan despacio y decirlo tú también, mirando la boca de quien habla. No importa tener acento perfecto: lo importante es reconocer cuál palabra oíste.",
     ],
-    vocab=[("big / pig", "grande / cerdo"), ("cat / cap", "gato / gorro"), ("pen / pan", "bolígrafo / sartén"), ("hat / hot", "sombrero / caliente"), ("same", "igual"), ("different", "diferente")],
+    vocab=[("big / pig", "grande / cerdo"), ("cat / cap", "gato / gorro"), ("pen / pan", "bolígrafo / sartén"), ("hat / hot", "sombrero / caliente"), ("sip / zip", "sorbo / cierre"), ("different", "diferente")],
     worked=[
         {"title": "Un par de palabras", "problem": ADULT + "«pig» (el adulto lee solo esa palabra). ¿Oíste big o pig?", "steps": ["Escucho el primer sonido.", "Suena p, no b.", "Es pig."], "answer": "pig"},
         {"title": "Cambia el final", "problem": ADULT + "«cap». ¿Oíste cat o cap?", "steps": ["Escucho el final.", "Termina en p.", "Es cap."], "answer": "cap"},
@@ -211,7 +212,7 @@ register(
         "apply": [
             ex(ADULT + "«hot». ¿Oíste hat o hot?", "hot", "La vocal es o."),
             ex(ADULT + "«pan». ¿Oíste pen o pan?", "pan", "La vocal del medio es a."),
-            ex(ADULT + "«cat». ¿Oíste cat o cap?", "cat", "Termina en t."),
+            ex(ADULT + "«sip». ¿Oíste sip o zip?", "sip", "Empieza con /s/ suave, sin zumbido."),
         ],
         "reason": [
             ex("Ana escribió «pig» cuando el adulto dijo «big». ¿En qué sonido se equivocó?", "En el primer sonido: p en lugar de b", "Las dos palabras cambian solo la primera letra."),
@@ -219,7 +220,7 @@ register(
         ],
         "challenge": [
             ex(ADULT + "El adulto lee tres palabras: «pig, cap, pan». Escribe cuáles tienen la vocal a.", "cap y pan", "Cap y pan tienen a, pig tiene i."),
-            ex("Escribe una palabra que suene casi igual a «bag» y cambie solo el final.", "Por ejemplo: bat", "Bag y bat solo cambian la última letra."),
+            ex(ADULT + "«zip». ¿Oíste sip o zip?", "zip", "Empieza con /z/, el sonido que vibra como una abeja."),
         ],
     },
     context=[ex(ADULT + "«A: Look! A pig!» En una granja, un niño señala un animal. ¿El animal es big o pig?", "pig", "El adulto dijo pig, que es cerdo.")],
@@ -302,7 +303,7 @@ register(
     vocab=[("predict", "pensar qué pasará o de qué trata"), ("title", "título"), ("rainy day", "día lluvioso"), ("umbrella", "paraguas"), ("check", "comprobar"), ("change", "cambiar")],
     worked=[
         {"title": "Predecir con un título", "problem": "El título es «The Rainy Day». ¿De qué puede tratar?", "steps": ["Rainy significa lluvioso.", "Pienso en lluvia, paraguas, charcos.", "Es una idea que comprobaré."], "answer": "De un día de lluvia"},
-        {"title": "Cambiar la predicción", "problem": ADULT + "Pensé que hablaba de lluvia, pero el adulto lee «The sun is hot. Tom and Ana play in the park.» ¿Qué hago con mi predicción?", "steps": ["El texto habla de sol y de parque.", "Mi idea no coincide.", "La cambio."], "answer": "Cambio mi idea: trata de un día de sol"},
+        {"title": "Cambiar la predicción", "problem": "Pensé que el texto hablaba de lluvia, pero el adulto lee: «The sun is hot. Tom and Ana play in the park.» ¿Qué hago con mi predicción?", "steps": ["El texto habla de sol y de parque.", "Mi idea no coincide.", "La cambio."], "answer": "Cambio mi idea: trata de un día de sol"},
     ],
     mistakes=[
         {"wrong": "Quedarse con la primera idea aunque el texto diga otra cosa.", "why": "Se piensa que la predicción es una respuesta.", "fix": "Si lo que oyes es distinto, cambia tu idea."},
@@ -356,7 +357,7 @@ register(
     ],
     vocab=[("birthday", "cumpleaños"), ("cake", "torta"), ("farm", "granja"), ("animals", "animales"), ("school", "escuela"), ("I know", "yo sé")],
     worked=[
-        {"title": "Usar lo que sé", "problem": ADULT + "«It's Ana's birthday. Her friends sing and eat cake.» ¿Qué palabra entiendes gracias a lo que sabes de un cumpleaños: cake?", "steps": ["Sé que en cumpleaños hay torta.", "Entiendo que cake es torta."], "answer": "cake es torta"},
+        {"title": "Usar lo que sé", "problem": ADULT + "«It's Ana's birthday. Her friends sing and eat cake.» ¿Qué comida del texto puedes entender gracias a lo que sabes de un cumpleaños?", "steps": ["Sé que en cumpleaños hay torta.", "Entiendo que cake es torta."], "answer": "cake es torta"},
         {"title": "Predecir con lo que sé", "problem": "Si el texto habla de una granja, ¿qué animales espero?", "steps": ["Pienso en lo que sé de granjas.", "Hay vacas, cerdos y gallinas."], "answer": "Cow, pig y hen"},
     ],
     mistakes=[
@@ -388,7 +389,7 @@ register(
             ex("Escribe una cosa que esperas oír en un texto sobre la playa.", "Por ejemplo: sand, sea o sun", "Son palabras del tema."),
         ],
     },
-    context=[ex(ADULT + "«It's my birthday. I have a big cake and many friends.» Cuando tu amiga cuenta esto, ¿qué palabra puedes entender usando lo que sabes: friends o cake?", "cake", "Sé que en cumpleaños hay torta.")],
+    context=[ex(ADULT + "«It's my birthday. I have a big cake and many friends.» Cuando tu amiga cuenta esto, ¿qué palabra de comida puedes entender usando lo que sabes de los cumpleaños?", "cake", "Sé que en cumpleaños hay torta.")],
     selfcheck=[
         ex("¿Qué significa «birthday»?", "cumpleaños", "Es el día en que cumples años."),
         ex("¿Qué animales hay en una granja?", "Por ejemplo: vaca, cerdo y gallina", "Son animales de granja."),

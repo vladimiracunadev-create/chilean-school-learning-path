@@ -897,7 +897,7 @@ Respuesta: Se apropia del canto; debe preguntar a la comunidad
 
 **Recurso listo para usar:** Este cuaderno y lápiz. Los textos de práctica están escritos para que un adulto los lea dos veces.
 
-**Consigna exacta:** Pide a un adulto que te lea dos veces la adivinanza de práctica «Viajo sin patas por el cielo; a veces soy gris y a veces blanca; cuando me pongo pesada, suelto gotas.». La primera vez escucha entera. La segunda vez elige un propósito: contar cuántas veces suena «y a veces» o notar una imagen. Escribe tu propósito y lo que notaste. Luego anota una pregunta para el educador/a tradicional: ¿qué conviene notar al escuchar un texto de su pueblo?
+**Consigna exacta:** Pide a un adulto que te lea dos veces la adivinanza de práctica «Viajo sin patas por el cielo; a veces soy gris y a veces blanca; cuando me pongo pesada, suelto gotas.». La primera vez escucha entera. La segunda vez elige un propósito: contar cuántas veces suena «a veces» (suena 2 veces) o notar una imagen. Escribe tu propósito y lo que notaste. Luego anota una pregunta para el educador/a tradicional: ¿qué conviene notar al escuchar un texto de su pueblo?
 
 **Referencia para modelar y corregir:** Mi propósito fue notar una imagen. Vi una nube gris que suelta gotas. Mi pregunta: ¿qué conviene notar al escuchar un canto de la comunidad?
 
@@ -1017,7 +1017,7 @@ Respuesta: El agua bajando por la piedra
 - **E2.** ¿Qué haces la segunda vez?
 - **E3.** ¿Qué debes pedir antes de grabar una voz?
 
-**Actividad abierta.** Pide a un adulto que te lea dos veces la adivinanza de práctica «Viajo sin patas por el cielo; a veces soy gris y a veces blanca; cuando me pongo pesada, suelto gotas.». La primera vez escucha entera. La segunda vez elige un propósito: contar cuántas veces suena «y a veces» o notar una imagen. Escribe tu propósito y lo que notaste. Luego anota una pregunta para el educador/a tradicional: ¿qué conviene notar al escuchar un texto de su pueblo?
+**Actividad abierta.** Pide a un adulto que te lea dos veces la adivinanza de práctica «Viajo sin patas por el cielo; a veces soy gris y a veces blanca; cuando me pongo pesada, suelto gotas.». La primera vez escucha entera. La segunda vez elige un propósito: contar cuántas veces suena «a veces» (suena 2 veces) o notar una imagen. Escribe tu propósito y lo que notaste. Luego anota una pregunta para el educador/a tradicional: ¿qué conviene notar al escuchar un texto de su pueblo?
 
 **Solucionario razonado**
 

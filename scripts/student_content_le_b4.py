@@ -60,12 +60,12 @@ lesson(
         E("Escribe una oración con la palabra diminuto.", "Por ejemplo: La hormiga es diminuta", "Debe usar la palabra correctamente."),
     ],
     [
-        E("Pablo leyó «El tigre es feroz: ataca a sus presas». Dijo que feroz significa lindo. ¿Es correcto? Responde sí o no.", "No", "Atacar no es de lindo; es de fuerte y peligroso."),
+        E("Pablo leyó «El tigre es feroz: ataca a sus presas». Dijo que feroz significa lindo. ¿Es correcto? Responde sí o no.", "No", "Atacar a otros animales no es ser lindo; es ser fuerte y peligroso."),
         E("Ana leyó «El mar estaba sereno: no había olas». ¿Qué significa sereno?", "Tranquilo", "Sin olas, calmo."),
     ],
     [
         E("«Mi abuelo es muy anciano: tiene noventa años». ¿Qué significa anciano?", "Persona muy mayor", "Noventa años es mucha edad."),
-        E("«Tomás es valiente: se acercó al perro grande sin miedo». ¿Qué significa valiente?", "Que no tiene miedo ante algo difícil", "Se acercó sin miedo."),
+        E("«Tomás es valiente: subió solo al escenario sin miedo». ¿Qué significa valiente?", "Que no tiene miedo ante algo difícil", "Subió al escenario sin miedo."),
     ],
     [E("En un cuento dice: «La luna iluminaba el camino: se veía todo claro». Tomás no conoce iluminaba. ¿Qué pista le ayuda?", "Se veía todo claro", "Muestra que daba luz.")],
     [
@@ -98,7 +98,7 @@ lesson(
     [("precisar", "decir con exactitud"), ("sinónimo", "palabra con significado parecido"), ("cola", "parte trasera de un animal o fila de personas"), ("contexto", "palabras que rodean a otra"), ("exacto", "justo, sin errores")],
     [
         ("Elegir significado", "«El perro mueve la cola.» ¿Cola es la parte del animal o una fila?", ["El perro la mueve.", "Los animales tienen cola."], "La parte del animal"),
-        ("Elegir palabra", "«La montaña es muy alta, es ___». ¿Cuál sirve más? A) enorme B) diminuta", ["Alta se parece a enorme.", "Diminuta es lo contrario."], "A) enorme"),
+        ("Elegir palabra", "«La montaña es muy grande, es ___». ¿Cuál sirve más? A) enorme B) diminuta", ["Grande se parece a enorme.", "Diminuta es lo contrario."], "A) enorme"),
     ],
     [
         ("Usar una palabra con significado equivocado.", "Se mezcla con otra parecida.", "Comprueba el contexto antes de elegir."),
@@ -328,7 +328,7 @@ lesson(
 # ======================================================================== OA 17
 CUENTO_ZORRO = (
     "El zorro y la luna. Una noche, un zorro vio la luna reflejada en un charco. Pensó que era un queso redondo y brillante. "
-    "Saltó para atraparla y cayó en el agua fría. Salió mojado y tiritando. La luna seguía en el cielo, tranquila. "
+    "Saltó para atraparla y cayó en el agua fría. Salió mojado y con mucho frío. La luna seguía en el cielo, tranquila. "
     "Desde esa noche, el zorro miró dos veces antes de saltar."
 )
 
@@ -377,7 +377,7 @@ lesson(
     [E("Antes de la hora del cuento la profesora anuncia «El loro que cantaba». Tomás dice que habrá un loro cantor. ¿Qué hizo Tomás? A) Predecir B) Interrumpir", "A) Predecir", "Pensó en el cuento con el título.")],
     [
         E("¿Qué hago mientras el adulto lee?", "Escucho en silencio", "Así entiendo el cuento."),
-        E("¿Cómo se llama el nombre de una obra?", "Título", "Dice cómo se llama."),
+        E("¿Qué es el nombre de una obra?", "El título", "Dice cómo se llama la obra."),
         E("¿Qué hago al final con mis dudas?", "Las pregunto", "Se aclara al terminar."),
     ],
     task(
@@ -405,9 +405,9 @@ lesson(
     [
         "Un cuento tiene personajes, que son quienes viven la historia, y episodios, que son las partes en que pasa algo. Para seguirlos, fíjate en quién actúa, qué hace y qué cambia. Palabras como «primero», «después» y «al final» te ayudan.",
         "Cada episodio tiene una acción importante. En el cuento de Lila, primero encuentra al pajarito, después lo cuida y al final el pajarito vuela. Si ordenas esos episodios, entiendes toda la historia.",
-        "También puedes pensar en cómo son los personajes y por qué actúan así. Lila es cuidadosa porque ayuda al pajarito. Los gestos y las acciones muestran cómo es cada personaje.",
+        "También puedes pensar en cómo son los personajes y por qué actúan así. Lila es cariñosa porque ayuda al pajarito. Los gestos y las acciones muestran cómo es cada personaje.",
     ],
-    [("personaje", "quien vive la historia"), ("episodio", "parte de la historia donde pasa algo"), ("orden", "secuencia de los hechos"), ("cambio", "lo que se transforma en la historia"), ("cuidadosa", "que trata con cariño a otros")],
+    [("personaje", "quien vive la historia"), ("episodio", "parte de la historia donde pasa algo"), ("orden", "secuencia de los hechos"), ("cambio", "lo que se transforma en la historia"), ("cariñosa", "que trata con cariño a otros")],
     [
         ("Primer episodio", f"Escucha: {CUENTO_NINA} ¿Qué encontró Lila?", ["Busco primero.", "Un pajarito."], "Un pajarito"),
         ("Último episodio", f"Escucha: {CUENTO_NINA} ¿Qué pasó al final?", ["Busco al final.", "El pajarito voló hacia el árbol."], "El pajarito se mejoró y voló al árbol"),
@@ -429,7 +429,7 @@ lesson(
     [
         E(f"Escucha: {CUENTO_NINA} Ordena: a) El pajarito voló. b) Lila encontró un pajarito. c) Lila lo puso en una caja. Escribe las letras en orden.", "b, c, a", "Es el orden en que pasó."),
         E(f"Escucha: {CUENTO_NINA} ¿Quiénes son los personajes?", "Lila y el pajarito", "Ambos son quienes actúan."),
-        E(f"Escucha: {CUENTO_NINA} Completa: «Lila era una niña ___ porque ayudó al pajarito».", "cuidadosa", "Cuidó al pajarito con cariño."),
+        E(f"Escucha: {CUENTO_NINA} Completa: «Lila era una niña ___ porque ayudó al pajarito».", "cariñosa", "Cuidó al pajarito con cariño."),
     ],
     [
         E(f"Escucha: {CUENTO_NINA} ¿Cómo cambió el pajarito de principio a fin?", "Primero no podía volar y al final voló", "Se mejoró de su ala."),
@@ -469,13 +469,13 @@ lesson(
     "Aprenderé a escuchar el lenguaje de los poemas: rimas, repeticiones y comparaciones. Sirve para disfrutar cómo suena y qué imagina un poema.",
     ["Sé escuchar rimas.", "Sé qué es una palabra."],
     [
-        "Los poemas usan las palabras de forma especial. Pueden tener rimas, que son palabras que terminan con sonidos parecidos, como «abril» y «mí». También repiten palabras, como «gota, gota, gota», para que suene como si cayera la lluvia.",
+        "Los poemas usan las palabras de forma especial. Pueden tener rimas, que son palabras que terminan con sonidos parecidos, como «abril», «gris» y «mí». También repiten palabras, como «gota, gota, gota», para que suene como si cayera la lluvia.",
         "Otra forma es la comparación. «La lluvia es una música» dice que la lluvia se parece a la música porque ambas suenan. Con comparaciones, el poeta nos hace imaginar cosas de manera nueva.",
         "Al escuchar un poema, no hace falta entender cada palabra. Puedes cerrar los ojos, imaginar lo que oyes y disfrutar el sonido. Después puedes comentar qué te hizo sentir o qué imagen te vino a la mente.",
     ],
     [("poema", "texto con ritmo, rimas e imágenes"), ("rima", "palabras con final parecido"), ("repetición", "decir lo mismo varias veces"), ("comparación", "decir que algo se parece a otra cosa"), ("imagen", "lo que imagino al escuchar")],
     [
-        ("Encontrar rima", f"Escucha: {POEMA} ¿Con qué palabra rima «abril»?", ["Busco finales parecidos.", "«abril» termina como «gris»... y también como «mí»."], "Con «gris» o «mí»"),
+        ("Encontrar rima", f"Escucha: {POEMA} ¿Con qué palabra rima «abril»?", ["Busco finales parecidos.", "«abril» y «gris» terminan con el sonido «i»; «mí» también."], "Con «gris» o «mí»"),
         ("Comparación", f"Escucha: {POEMA} ¿Con qué compara el poeta la lluvia?", ["Busco «es una».", "La lluvia es una música."], "Con una música"),
     ],
     [

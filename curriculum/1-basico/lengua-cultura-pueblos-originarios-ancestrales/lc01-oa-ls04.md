@@ -362,7 +362,7 @@ Respuesta: harina, agua y sal
 
 - **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Usaron harina, agua y sal». ¿Cuántos ingredientes usaron?
 - **A2.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Repartieron seis panes entre tres vecinos». ¿Cuántos panes dieron a cada vecino?
-- **A3.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Trabajaron dos horas». ¿Cuántos minutos son dos horas (1 hora son 60 minutos)?
+- **A3.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Trabajaron dos horas». Si trabajan una hora más, ¿cuántas horas serían en total?
 
 *Razonamiento y análisis*
 
@@ -396,7 +396,7 @@ Respuesta: harina, agua y sal
 - **C3.** al educador tradicional. Conoce los saberes.
 - **A1.** 3. Harina, agua y sal.
 - **A2.** 2. Seis panes entre tres vecinos dan dos cada uno.
-- **A3.** 120. Dos veces sesenta son ciento veinte.
+- **A3.** 3. Dos horas más una hora son tres horas.
 - **Z1.** No. El texto no lo menciona.
 - **Z2.** para no mezclarlos. Me ayuda a responder bien.
 - **D1.** 1. Seis panes entre seis vecinos es uno cada uno.
@@ -787,11 +787,11 @@ Respuesta: «No sé; lo voy a preguntar»
 *Desafío*
 
 - **D1.** Dos frases: A) «Ya sé todo» B) «Aprendí esto y quiero preguntar aquello». ¿Cuál reconoce límites?
-- **D2.** Una respuesta tiene aprendizaje y agradecimiento pero no pregunta. ¿Cuántas de las 3 partes tiene si no incluye procedencia?
+- **D2.** Una respuesta tiene solo el aprendizaje y un gracias. ¿Cuántas de las 3 partes del cierre tiene (aprendizaje, procedencia, pregunta)?
 
 *Situaciones auténticas*
 
-- **S1.** Una persona mayor de la comunidad comparte un relato en tu escuela. Al terminar tu curso dice gracias. ¿Qué parte del cierre es el gracias?
+- **S1.** Una persona mayor de la comunidad comparte un relato en tu escuela. Ahora haces tu cierre. ¿Con qué parte empiezas: aprendizaje, procedencia o pregunta?
 
 *Autoevaluación*
 
@@ -815,8 +815,8 @@ Respuesta: «No sé; lo voy a preguntar»
 - **Z1.** que un relato es solo una parte. Falta mucho por aprender.
 - **Z2.** porque reconoce a quien enseñó. Valora su aporte.
 - **D1.** B. B pide más información.
-- **D2.** 1. Solo tiene el aprendizaje.
-- **S1.** el agradecimiento. Reconoce a quien compartió.
+- **D2.** 1. El gracias es un buen agregado, pero solo el aprendizaje es una de las 3 partes.
+- **S1.** el aprendizaje. El cierre empieza con lo que aprendí.
 - **E1.** aprendizaje, procedencia y pregunta. Son las tres.
 - **E2.** no sé y lo voy a preguntar. Soy honesto y pregunto.
 - **E3.** No. Es una parte.

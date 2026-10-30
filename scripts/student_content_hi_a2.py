@@ -345,12 +345,12 @@ register(
     prior=["Sé hacer preguntas.", "Sé leer fechas con día, mes y año."],
     explain=[
         "Una fuente oral es lo que una persona cuenta en voz alta sobre lo que vivió. Una entrevista es una fuente oral. Para que sirva, hay que anotar el nombre de quien cuenta, su parentesco (por ejemplo, abuela), la fecha de la entrevista y lo que dijo.",
-        "Aquí tienes una entrevista imaginaria a Rosa, una abuela: «Nací el 3 de mayo de 1950. Entré a la escuela en 1957. Me casé el 12 de diciembre de 1970. Mi hija Marta nació el 10 de julio de 1975. En mi infancia jugábamos a la rayuela y no había televisión en mi casa».",
-        "Con esa fuente podemos ordenar una línea de tiempo: 1950, nació Rosa; 1957, entró a la escuela; 1970, se casó; 1975, nació su hija. Una fuente oral cuenta recuerdos, y los recuerdos a veces cambian, así que podemos preguntar a otras personas para confirmarlos.",
+        "Aquí tienes una entrevista imaginaria a Rosa, una abuela: «Nací el 3 de febrero de 1950. Entré a la escuela en 1957. Me casé el 12 de diciembre de 1970. Mi hija Marta nació el 10 de julio de 1975. En mi infancia jugábamos a la rayuela y no había televisión en mi casa».",
+        "Con esa fuente podemos ordenar una línea de tiempo: 1950, nació Rosa; 1957, entró a la escuela; 1970, se casó; 1975, nació su hija. Para saber cuántos años pasaron entre dos años, cuenta hacia adelante: de 1950 a 1957 pasan 7 años. Una fuente oral cuenta recuerdos, y los recuerdos a veces cambian, así que podemos preguntar a otras personas para confirmarlos.",
     ],
     vocab=[("fuente oral", "lo que una persona cuenta en voz alta"), ("parentesco", "relación familiar, como abuela o tío"), ("línea de tiempo", "fila de hechos ordenados por fecha"), ("registrar", "anotar lo que se averigua"), ("recuerdo", "algo del pasado que se guarda en la memoria")],
     worked=[
-        {"title": "Leer la fuente", "problem": "Entrevista a Rosa: «Nací el 3 de mayo de 1950. Entré a la escuela en 1957». ¿En qué año entró Rosa a la escuela?", "steps": ["Busco la frase que habla de la escuela.", "Dice 1957."], "answer": "1957"},
+        {"title": "Leer la fuente", "problem": "Entrevista a Rosa: «Nací el 3 de febrero de 1950. Entré a la escuela en 1957». ¿En qué año entró Rosa a la escuela?", "steps": ["Busco la frase que habla de la escuela.", "Dice 1957."], "answer": "1957"},
         {"title": "Calcular un intervalo", "problem": "Con la misma entrevista, ¿cuántos años tenía Rosa cuando entró a la escuela?", "steps": ["Nació en 1950 y entró en 1957.", "1957 − 1950 = 7."], "answer": "7 años"},
     ],
     mistakes=[
@@ -359,7 +359,7 @@ register(
     ],
     tiers={
         "recovery": [
-            ex("Entrevista a Rosa: «Nací el 3 de mayo de 1950». ¿En qué año nació Rosa?", "1950", "Es el año que dice la entrevista."),
+            ex("Entrevista a Rosa: «Nací el 3 de febrero de 1950». ¿En qué año nació Rosa?", "1950", "Es el año que dice la entrevista."),
             ex("Entrevista a Rosa: «Me casé el 12 de diciembre de 1970». ¿En qué mes se casó Rosa?", "diciembre", "Es el mes que aparece en la fecha."),
             ex("Entrevista a Rosa: «Mi hija Marta nació el 10 de julio de 1975». ¿Cómo se llama la hija de Rosa?", "Marta", "La entrevista la nombra."),
         ],
@@ -370,8 +370,8 @@ register(
         ],
         "apply": [
             arith("Rosa nació en 1950 y se casó en 1970. ¿Cuántos años tenía cuando se casó?", "1970-1950", "Se resta el año de nacimiento al año del matrimonio."),
-            arith("Rosa nació en 1950 y su hija Marta nació en 1975. ¿Cuántos años tenía Rosa cuando nació Marta?", "1975-1950", "Se resta el año de nacimiento de Rosa al de Marta."),
-            ex("Ordena de más antiguo a más nuevo: Marta nació (10 de julio de 1975), Rosa nació (3 de mayo de 1950), Rosa se casó (12 de diciembre de 1970).", "Rosa nació; Rosa se casó; Marta nació", "Se ordenan por año: 1950, 1970 y 1975."),
+            arith("Rosa se casó en 1970 y su hija Marta nació en 1975. ¿Cuántos años pasaron entre esos dos años?", "1975-1970", "Se resta el año menor al año mayor."),
+            ex("Ordena de más antiguo a más nuevo: Marta nació (10 de julio de 1975), Rosa nació (3 de febrero de 1950), Rosa se casó (12 de diciembre de 1970).", "Rosa nació; Rosa se casó; Marta nació", "Se ordenan por año: 1950, 1970 y 1975."),
         ],
         "reason": [
             ex("Rosa dice que de niña no había televisión en su casa. ¿Esto es un hecho comprobado o un recuerdo de ella?", "un recuerdo de ella", "Es lo que ella cuenta de su infancia."),
@@ -379,7 +379,7 @@ register(
         ],
         "challenge": [
             ex("Dos hermanos recuerdan distinto: uno dice que su abuela entró a la escuela a los 7 años y otro que a los 8. La abuela nació en 1950 y entró en 1957. ¿Quién tiene razón?", "el que dice 7", "1957 − 1950 = 7."),
-            ex("Rosa cuenta que se casó 5 años antes de que naciera su hija Marta. Rosa se casó en 1970. ¿En qué año nació Marta?", "1975", "1970 + 5 = 1975."),
+            ex("Marta nació 5 años después del año en que Rosa se casó. Rosa se casó en 1970. ¿En qué año nació Marta?", "1975", "1970 + 5 = 1975."),
         ],
     },
     context=[ex("Camila entrevista a su abuelo el 5 de abril de 2025. Él le cuenta que nació el 20 de octubre de 1948. ¿Qué año de nacimiento anota Camila?", "1948", "Es el año dicho por el abuelo.")],
@@ -388,7 +388,7 @@ register(
         ex("Rosa entró a la escuela en 1957 y nació en 1950. ¿Cuántos años tenía?", "7", "1957 − 1950 = 7."),
         ex("¿Qué dato de la entrevista es el parentesco: «abuela Rosa» o «1950»?", "abuela", "Parentesco es la relación familiar."),
     ],
-    open_task=task("Hazle una entrevista corta a un adulto de tu casa, o usa esta entrevista imaginaria: «Soy tu tío Mario. Nací en Valdivia el 2 de abril de 1980. Mi juego favorito era el trompo». Anota: nombre, parentesco, fecha de la entrevista, dos datos que cuenta y un año importante. Escribe cuántos años pasaron entre ese año y 2025.", "Nombre: Mario. Parentesco: tío. Fecha de la entrevista: 5 de abril de 2025. Datos: nació en Valdivia; jugaba al trompo. Año importante: 1980. Pasaron 45 años.", ["seis datos anotados", "fecha escrita completa", "diferencia de años correcta"], ["hoja de entrevista con los datos"], ["no anotar la fecha", "calcular mal los años"], "Pide que lea su hoja en voz alta y diga de quién es la fuente."),
+    open_task=task("Hazle una entrevista corta a un adulto de tu casa, o usa esta entrevista imaginaria: «Soy tu tío Mario. Nací en Valdivia el 2 de abril de 1980. Entré a la escuela en 1987. Mi juego favorito era el trompo». Anota: nombre, parentesco, fecha de la entrevista y dos datos que cuenta. Escribe cuántos años pasaron entre 1980 y 1987.", "Nombre: Mario. Parentesco: tío. Fecha de la entrevista: 5 de abril de 2025. Datos: nació en Valdivia; jugaba al trompo. Pasaron 7 años entre 1980 y 1987.", ["datos anotados", "fecha escrita completa", "diferencia de años correcta"], ["hoja de entrevista con los datos"], ["no anotar la fecha", "calcular mal los años"], "Pide que lea su hoja en voz alta y diga de quién es la fuente."),
     reinforce="Haz una línea de tiempo con tres años que te contó un adulto.",
     extend="Compara dos recuerdos de dos personas sobre el mismo juego.",
 )

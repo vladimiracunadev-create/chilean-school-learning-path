@@ -24,7 +24,7 @@ register(
     explain=[
         "Caminar es avanzar con un pie siempre apoyado en el suelo. Correr es avanzar más rápido, con un momento en que los dos pies están en el aire. Detenerse es dejar de avanzar y quedar quieto, con los dos pies apoyados y las rodillas un poco dobladas para no caerte.",
         "Tener control significa que tu cuerpo hace lo que tú quieres: vas hacia donde miras, no chocas con nadie y paras cuando suena la señal. Correr muy rápido sin control es peligroso. Lo importante en esta clase no es llegar primero, sino frenar bien.",
-        "Para frenar con equilibrio, baja la velocidad en los últimos pasos, separa un poco los pies, dobla las rodillas, mantén los brazos a los lados y mira al frente. Cuando estás quieto, cuenta mentalmente hasta tres antes de moverte de nuevo.",
+        "Para frenar con equilibrio, baja la velocidad en los últimos pasos, separa un poco los pies, dobla las rodillas, mantén los brazos a los lados y mira al frente. Cuando estás quieto, cuenta mentalmente hasta tres antes de moverte de nuevo. En las estaciones de juego, un intento puede durar 40 segundos de acción y 40 segundos de pausa.",
     ],
     vocab=[("locomoción", "moverse de un lugar a otro, como caminar o correr"), ("control", "hacer que mi cuerpo vaya y pare donde quiero"), ("equilibrio", "quedar firme sin caerme"), ("señal", "palabra o sonido que dice qué hacer"), ("trayectoria", "el camino que sigue mi cuerpo")],
     worked=[
@@ -66,20 +66,20 @@ register(
         ex("Para frenar con equilibrio, ¿miras al frente o al suelo?", "Al frente", "Mirar al frente ayuda a mantener el equilibrio y ver el camino."),
         ex("Si 3 intentos duran 40 segundos de acción cada uno, ¿cuántos segundos de acción son en total?", "120", "3 veces 40 segundos son 120 segundos."),
     ],
-    open_task=task("Con ayuda de un adulto marca un cuadrado de 4 × 4 m con 4 objetos (conos, botellas vacías o zapatos). Juega el semáforo 3 veces: el adulto dice 8 señales en este orden: verde, amarillo, rojo, verde, rojo, amarillo, verde, rojo. En cada «rojo» queda quieto 3 segundos. Cuenta cuántas veces te detuviste con equilibrio y di cómo lo lograste.",
+    open_task=task("Con ayuda de un adulto marca un cuadrado de 4 × 4 m con 4 objetos (conos, botellas vacías o zapatos). Juega el semáforo una vez: el adulto dice 8 señales en este orden: verde, amarillo, rojo, verde, rojo, amarillo, verde, rojo. En cada «rojo» queda quieto 3 segundos. Hay 3 «rojos». Cuenta en cuántos te detuviste con equilibrio y di cómo lo lograste.",
                    "Me detuve con equilibrio 3 de 3 veces: bajé la velocidad, separé los pies, doblé las rodillas y conté hasta tres sin moverme.",
                    ["alterna correr, caminar y detenerse según la señal", "se detiene sin tambalearse ni deslizarse", "mira al frente y no choca con nadie"],
                    ["observación de un adulto con la lista de señales", "relato oral del niño", "dibujo del recorrido con flechas"],
                    ["no detenerse en «rojo»", "correr mirando al suelo", "frenar con las rodillas rígidas"],
                    "Felicita lo que cumplió (por ejemplo, un frenado estable) y pide un solo ajuste: «la próxima vez baja la velocidad dos pasos antes del rojo»."),
     reinforce="Camina 10 pasos lentos y detente 3 segundos, 3 veces seguidas, mirando al frente.",
-    extend="Inventa una cuarta luz (por ejemplo, azul = caminar hacia atrás con cuidado y mirando por sobre el hombro, solo con un adulto cerca) y explica cómo mantienes el control.",
+    extend="Inventa una cuarta luz (por ejemplo, azul = caminar en puntillas) y explica cómo mantienes el control.",
 )
 
 register(
     OA1, 2,
     materials="Una línea de tiza o cinta de 2 m en el suelo, una alfombra o pasto seco como superficie, zapatillas amarradas y espacio de 4 × 4 m.",
-    use="Aprenderé a saltar con los dos pies juntos varias veces seguidas en una dirección y a caer sin perder el equilibrio. Sirve para jugar luche, saltar la cuerda y bajar escalones sin lastimarte.",
+    use="Aprenderé a saltar con los dos pies juntos varias veces seguidas en una dirección y a caer sin perder el equilibrio. Sirve para saltar la cuerda y jugar en la plaza sin lastimarte.",
     prior=["Sé saltar en el mismo lugar.", "Sé qué significa adelante."],
     explain=[
         "Un salto con dos pies tiene tres partes: preparación, vuelo y aterrizaje. En la preparación doblas las rodillas y llevas los brazos atrás. En el vuelo estiras el cuerpo y empujas con los dos pies al mismo tiempo. En el aterrizaje caes con los dos pies a la vez.",
@@ -168,7 +168,7 @@ register(
             ex("Tu compañero está a 3 pasos, frente a ti. Tienes la pelota en la mano derecha. ¿Qué pie das adelante al lanzar: el derecho o el izquierdo?", "El izquierdo", "Se adelanta el pie contrario a la mano que lanza."),
         ],
         "reason": [
-            ex("La pelota cae siempre antes de llegar a Caro. ¿Cuál es la causa más probable?", "Lanzaron con muy poca fuerza", "Una pelota que cae antes no tuvo fuerza para llegar."),
+            ex("La pelota cae siempre antes de llegar a Caro. ¿Cuál es la causa más probable?", "Se lanzó con muy poca fuerza", "Una pelota que cae antes no tuvo fuerza para llegar."),
             ex("Dani cierra los ojos al recibir y se le cae la pelota. ¿Qué debe hacer?", "Mirar la pelota hasta que llegue", "Ver el camino permite poner las manos en el lugar correcto."),
         ],
         "challenge": [
@@ -200,7 +200,7 @@ register(
     explain=[
         "Girar es dar una vuelta con el cuerpo sin moverte de lugar. Una vuelta completa vuelve a la misma posición; media vuelta termina mirando para el lado contrario. Para girar con control, mira un punto fijo, mantén los brazos cerca del cuerpo y detente apoyando los dos pies.",
         "La rodada lateral se hace sobre una superficie blanda y limpia: acuéstate de lado con los brazos estirados sobre la cabeza y el cuerpo largo como un tronco; luego rueda hacia el otro lado. No se hace en cemento ni cerca de muebles. La rodada hacia adelante solo se practica con colchoneta y un adulto presente.",
-        "Colgarse de una barra se llama suspensión. Solo se hace en una barra baja de plaza, con los pies cerca del suelo, con las dos manos y un adulto al lado. Se cuenta cinco segundos y se baja con control. Si no hay barra, haz la plancha: manos y pies en el suelo por cinco segundos. Deja siempre dos brazos de distancia entre personas.",
+        "Colgarse de una barra se llama suspensión. Solo se hace en una barra baja de plaza, con los pies cerca del suelo, con las dos manos y un adulto al lado. Se cuenta cinco segundos y se baja con control. En las estaciones de esta clase, un intento puede durar 20 segundos de acción y 20 de pausa. Si no hay barra, haz la plancha: manos y pies en el suelo por cinco segundos. Deja siempre dos brazos de distancia entre personas.",
     ],
     vocab=[("giro", "vuelta del cuerpo en el mismo lugar"), ("rodada lateral", "rodar de lado con el cuerpo estirado"), ("suspensión", "colgarse de una barra sin apoyar los pies"), ("distancia segura", "espacio libre entre personas, dos brazos estirados"), ("colchoneta", "superficie blanda para rodar")],
     worked=[
@@ -221,9 +221,9 @@ register(
             ex("¿Qué significa «suspensión»?", "Colgarse de una barra", "Es mantener el cuerpo colgando sin apoyar los pies."),
         ],
         "apply": [
-            ex("Estás mirando al norte de la sala. Haces una vuelta completa. ¿Hacia dónde miras al final?", "Al norte", "Una vuelta completa vuelve al punto de partida."),
+            ex("Estás mirando a la ventana de la sala. Haces una vuelta completa. ¿Hacia dónde miras al final?", "A la ventana", "Una vuelta completa vuelve al punto de partida."),
             arith("Cuentas 5 segundos de suspensión en cada uno de 3 intentos. ¿Cuántos segundos colgado en total?", "5*3", "Se multiplica el tiempo por los intentos.", " segundos"),
-            ex("Mide dos brazos extendidos: son más o menos 2 m. Tu compañero está a 1 m de ti. ¿Debes alejarte antes de girar?", "Sí", "1 m es menos que la distancia segura de 2 m."),
+            ex("Estiras los brazos a los lados y con una mano tocas a tu compañero. ¿Debes alejarte antes de girar?", "Sí", "Si tus brazos estirados tocan a alguien, no hay distancia segura."),
         ],
         "reason": [
             ex("Beto quiere rodar en el cemento del patio «porque es más rápido». ¿Es buena idea?", "No", "El cemento duro puede lastimar; hay que usar una superficie blanda."),
@@ -317,7 +317,7 @@ register(
     explain=[
         "Tu cuerpo es el punto de partida para ubicar las cosas. Tienes un lado derecho y un lado izquierdo. La mano derecha y el pie derecho están del mismo lado; igual la izquierda. Para recordarlo, ponte una pulsera de papel en la mano derecha.",
         "Arriba es hacia el cielo o el techo; abajo es hacia el suelo. Tu cabeza está arriba de tu cuerpo y tus pies están abajo. Cuando levantas los brazos, los llevas arriba. Cuando tocas el suelo, vas hacia abajo.",
-        "Derecha e izquierda dependen de hacia dónde mira tu cuerpo. Si te das la vuelta, tu mano derecha sigue siendo derecha, aunque ahora esté al otro lado de la sala. Para seguir una orden como «mano derecha arriba», levanta la mano con pulsera por sobre la cabeza.",
+        "Tu derecha y tu izquierda son partes de tu cuerpo y no cambian. Si te das la vuelta, tu mano derecha sigue siendo derecha, aunque ahora esté al otro lado de la sala. Para seguir una orden como «mano derecha arriba», levanta la mano con pulsera por sobre la cabeza.",
     ],
     vocab=[("derecha", "el lado de mi cuerpo donde tengo la pulsera"), ("izquierda", "el lado de mi cuerpo sin pulsera"), ("arriba", "hacia el techo o el cielo"), ("abajo", "hacia el suelo"), ("ubicación", "el lugar donde está algo")],
     worked=[
@@ -348,7 +348,7 @@ register(
         ],
         "challenge": [
             ex("Secuencia: «derecha arriba, izquierda arriba, derecha abajo». Al final, ¿qué mano sigue arriba?", "La izquierda", "La derecha bajó al final y la izquierda quedó."),
-            ex("Orden: «pie derecho adelante, luego pie izquierdo adelante, luego pie derecho atrás». ¿Qué pie queda más adelante al terminar?", "El izquierdo", "El derecho volvió atrás y el izquierdo sigue adelante."),
+            ex("Orden: «pie derecho adelante, luego pie derecho vuelve atrás, luego pie izquierdo adelante». ¿Qué pie queda adelante al terminar?", "El izquierdo", "El derecho volvió atrás y el izquierdo sigue adelante."),
         ],
     },
     context=[ex("En el patio la profesora dice: «los niños con pulsera en la derecha van hacia la puerta». Tú tienes la pulsera en tu mano derecha. ¿Vas hacia la puerta?", "Sí", "La pulsera está en tu mano derecha.")],
@@ -380,7 +380,7 @@ register(
     vocab=[("dentro", "en el interior de algo"), ("fuera", "en el exterior de algo"), ("entre", "en el medio de dos cosas"), ("al lado", "junto a algo, en un costado"), ("objeto de referencia", "la cosa que uso para decir dónde estoy")],
     worked=[
         W("Dónde me ubico", "Hay dos conos separados por 1 m. La orden dice «ponte entre los conos». ¿Dónde te paras?", ["Busco los dos conos.", "Me muevo al espacio que queda en el medio.", "Compruebo que un cono quede a cada lado de mí."], "En el espacio que queda entre ambos conos."),
-        W("Juego «La casa del aro»", "Reglas: 1) camina libre por el cuadrado; 2) cuando el adulto diga una orden (dentro del aro, fuera del aro, al lado del aro), te ubicas en ese lugar; 3) si llegas y hay otra persona, te pones al lado. El adulto dice «fuera del aro». ¿Qué haces?", ["Escucho la ubicación: fuera.", "Camino hacia cualquier lugar que no sea el aro.", "Me detengo en equilibrio y miro que no estés en el aro."], "Me detengo en cualquier lugar fuera del aro."),
+        W("Juego «La casa del aro»", "Reglas: 1) camina libre por el cuadrado; 2) cuando el adulto diga una orden (dentro del aro, fuera del aro, al lado del aro), te ubicas en ese lugar; 3) si llegas y hay otra persona, te pones al lado. El adulto dice «fuera del aro». ¿Qué haces?", ["Escucho la ubicación: fuera.", "Camino hacia cualquier lugar que no sea el aro.", "Me detengo en equilibrio y compruebo que mis pies no están en el aro."], "Me detengo en cualquier lugar fuera del aro."),
     ],
     mistakes=[M("Pararse sobre el borde del aro y decir que está dentro.", "No hay una línea clara para dentro y fuera.", "Dentro es con los dos pies adentro del aro; fuera es con los dos pies afuera."),
               M("Confundir «entre» con «al lado».", "Se piensa que es lo mismo.", "Entre es en el medio de dos cosas; al lado es junto a una cosa.")],
@@ -433,12 +433,12 @@ register(
     explain=[
         "Delante es el lado hacia donde mira una persona. Detrás es el lado opuesto, el de su espalda. Si dos niños están en fila, el primero está delante y el último está detrás. Para saber quién está delante, mira hacia dónde mira la fila.",
         "Cerca y lejos se pueden medir en pasos. En esta clase, cerca es una distancia de 1 paso y lejos es una distancia de 5 pasos. Si tu compañero está a 2 pasos, no estás ni cerca ni lejos: estás a distancia media. Los pasos deben ser de tamaño normal, no gigantes.",
-        "En el juego «La sombra», uno es el guía y otro es la sombra. La sombra va detrás del guía a 1 paso y copia su movimiento. A la señal, la sombra se aleja hasta quedar a 5 pasos del guía y después vuelve. Se juega caminando, sin empujar y mirando por dónde se va.",
+        "En el juego «La sombra», uno es el guía y otro es la sombra. La sombra va detrás del guía a 1 paso y copia su movimiento. A la señal «lejos», la sombra se queda quieta y el guía sigue caminando hasta quedar a 5 pasos de ella. A la señal «cerca», la sombra camina hasta quedar a 1 paso. Se juega caminando, sin empujar y mirando por dónde se va.",
     ],
     vocab=[("delante", "el lado hacia donde mira alguien"), ("detrás", "el lado de la espalda"), ("cerca", "a 1 paso de distancia en este juego"), ("lejos", "a 5 pasos de distancia en este juego"), ("guía", "quien dirige el movimiento")],
     worked=[
         W("Fila de cuatro", "Ana, Beto, Caro y Dani están en fila, todos mirando a la puerta, en ese orden de la puerta hacia atrás: Ana, Beto, Caro, Dani. ¿Quién está delante de Caro y quién está detrás de ella?", ["La puerta está delante. Ana es la primera.", "Delante de Caro está Beto.", "Detrás de Caro está Dani."], "Delante: Beto; detrás: Dani."),
-        W("Juego «La sombra»", "Reglas: 1) el guía camina lento y la sombra va detrás a 1 paso; 2) la sombra copia lo que hace el guía; 3) a la señal «lejos», la sombra se aleja hasta quedar a 5 pasos; 4) a la señal «cerca», vuelve a 1 paso. El adulto dice «lejos». ¿Qué haces si eres la sombra?", ["Estoy detrás del guía, a 1 paso.", "Retrocedo 4 pasos más, contando en voz baja, hasta quedar a 5 pasos.", "Sigo mirando al guía para copiar su movimiento."], "Me alejo hasta quedar a 5 pasos y sigo copiando."),
+        W("Juego «La sombra»", "Reglas: 1) el guía camina lento y la sombra va detrás a 1 paso; 2) la sombra copia lo que hace el guía; 3) a la señal «lejos», la sombra se queda quieta mientras el guía camina hasta quedar a 5 pasos de ella; 4) a la señal «cerca», la sombra camina hasta quedar a 1 paso. El adulto dice «lejos». ¿Qué haces si eres la sombra?", ["Estoy detrás del guía, a 1 paso.", "Me quedo quieta y cuento en voz baja los 4 pasos que camina el guía, hasta quedar a 5 pasos.", "Sigo mirando al guía para copiar su movimiento."], "Me quedo quieta hasta que el guía queda a 5 pasos y sigo mirándolo."),
     ],
     mistakes=[M("Pegarse al guía y pisarle los talones.", "Se quiere estar cerca de más.", "Cerca es 1 paso; deja ese espacio."),
               M("Decir que delante es siempre «hacia la pared».", "No se mira hacia dónde mira la persona.", "Delante es hacia donde mira la persona.")],
@@ -456,14 +456,14 @@ register(
         "apply": [
             ex("Ema, Fito y Gaby están en fila mirando a la puerta; Ema es la primera. ¿Quién está detrás de Fito?", "Gaby", "Gaby va después de Fito en la fila."),
             arith("Estás a 5 pasos de tu compañero y avanzas 4 pasos. ¿A cuántos pasos quedas?", "5-4", "Se restan los pasos que avanzas.", " paso"),
-            ex("Estás a 1 paso detrás del guía. A la señal «lejos» retrocedes hasta quedar a 5 pasos de él. ¿Cuántos pasos retrocedes?", "4", "De 1 a 5 hay 4 pasos de diferencia."),
+            ex("Estás a 1 paso detrás del guía. A la señal «lejos», el guía camina hasta quedar a 5 pasos de ti. ¿Cuántos pasos camina el guía?", "4", "De 1 a 5 hay 4 pasos de diferencia."),
         ],
         "reason": [
             ex("Beto está a 3 pasos de Caro. ¿Está cerca, lejos o a distancia media, según el juego?", "A distancia media", "3 no es 1 ni 5."),
             ex("Dani pisó los talones del guía. ¿Estaba demasiado cerca o demasiado lejos?", "Demasiado cerca", "A 1 paso no se pisan los talones; faltó espacio."),
         ],
         "challenge": [
-            arith("Empiezas a 1 paso del guía. «Lejos» te lleva a 5 pasos (retrocedes 4) y «cerca» te vuelve a 1 paso (avanzas 4). Se dice lejos, cerca, lejos. ¿Cuántos pasos das en total?", "4+4+4", "Cada señal obliga a dar 4 pasos.", " pasos"),
+            arith("Empiezas a 1 paso del guía. «Lejos» deja la distancia en 5 pasos (cambia en 4) y «cerca» la vuelve a 1 paso (cambia en 4). Se dice lejos, cerca, lejos. ¿Cuántos pasos cambió la distancia en total?", "4+4+4", "Cada señal obliga a dar 4 pasos.", " pasos"),
             ex("Hay 3 niños en fila y uno se pone delante del primero. ¿Cuántos hay detrás del que llegó?", "3", "Los 3 originales quedan detrás."),
         ],
     },
@@ -473,13 +473,13 @@ register(
         ex("¿Cuántos pasos son «cerca» en el juego?", "1", "Está definido así."),
         ex("¿Cuántos pasos son «lejos» en el juego?", "5", "Está definido así."),
     ],
-    open_task=task("Con un compañero o un adulto, juega «La sombra» durante 3 rondas de 40 segundos de acción y 40 de pausa. Reglas: el guía camina lento, la sombra va a 1 paso detrás; cuando el adulto diga «lejos», la sombra se aleja hasta quedar a 5 pasos y vuelve a «cerca» cuando se diga. Después cambia el rol. Anota cuántas veces cumpliste la distancia correcta.",
+    open_task=task("Con un compañero o un adulto, juega «La sombra» durante 3 rondas de 40 segundos de acción y 40 de pausa. Reglas: el guía camina lento, la sombra va a 1 paso detrás; cuando el adulto diga «lejos», la sombra espera quieta hasta que el guía queda a 5 pasos; con «cerca», la sombra camina hasta quedar a 1 paso. Después cambia el rol. Anota cuántas veces cumpliste la distancia correcta.",
                    "En 3 rondas me dijeron 6 veces «lejos» o «cerca». Cumplí 5. Me quedé a 2 pasos una vez, pero lo corregí.",
-                   ["mantiene 1 paso detrás del guía", "se aleja y vuelve según la señal", "copia movimientos sin empujar"],
+                   ["mantiene 1 paso detrás del guía", "ajusta la distancia según la señal", "copia movimientos sin empujar"],
                    ["registro de aciertos", "observación de un adulto", "relato de los dos roles"],
                    ["pisarle los talones", "no cumplir los 5 pasos", "correr en lugar de caminar"],
                    "Elogia la distancia correcta y pide mejorar un detalle, como contar los pasos en voz baja."),
-    reinforce="Camina 5 pasos hacia delante y 5 hacia atrás, contando en voz alta.",
+    reinforce="Camina 5 pasos hacia delante, da media vuelta y camina 5 pasos de regreso, contando en voz alta.",
     extend="Con un compañero, pongan una marca a 5 pasos y vean cuántos pasos de cada uno hacen falta.",
 )
 
@@ -490,7 +490,7 @@ register(
     prior=["Sé qué son primero y último.", "Sé seguir una señal."],
     explain=[
         "Antes, durante y después hablan del tiempo. «Antes» es lo que ocurre primero. «Durante» es lo que ocurre mientras algo pasa. «Después» es lo que ocurre cuando ya terminó. Por ejemplo: antes de la señal estás quieto, durante la señal te mueves y después te detienes.",
-        "En el juego «Señal y acción» el adulto da una señal sonora o muestra un pañuelo. Antes de la señal, te quedas quieto con las rodillas un poco dobladas. Durante la señal (mientras suena o mientras el pañuelo está arriba), caminas. Después de la señal, te detienes y cuentas hasta tres.",
+        "En el juego «Señal y acción» el adulto da una señal sonora o muestra un pañuelo. Antes de la señal, te quedas quieto con las rodillas un poco dobladas. Durante la señal (mientras suena o mientras el pañuelo está arriba), caminas. Después de la señal, te detienes y cuentas hasta tres. Una ronda puede durar 40 segundos de movimiento y 40 de pausa.",
         "Si hay varias señales seguidas, las ordenas con palabras: primero, luego, por último. Escuchar bien es importante: si empiezas antes de tiempo o sigues después del final, no cumples la secuencia. Muévete siempre sin empujar y a una distancia segura.",
     ],
     vocab=[("antes", "lo que ocurre primero"), ("durante", "lo que ocurre mientras algo sucede"), ("después", "lo que ocurre cuando termina"), ("secuencia", "acciones en orden"), ("señal", "sonido o gesto que me dice qué hacer")],
