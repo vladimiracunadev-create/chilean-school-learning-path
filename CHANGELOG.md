@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-30 · Análisis de alineación con el OA oficial (1° básico)
+
+- Nuevo `scripts/audit_alignment.py` y página [Análisis de alineación](docs/ANALISIS_ALINEACION.md): contrasta cada cuaderno con el texto oficial del OA y el título de la clase planificada, mide la legibilidad y ordena las clases para lectura prioritaria. Es una heurística de triage; sobre-marca (sobre todo Inglés) y lo declara.
+- Se leyeron manualmente ocho clases marcadas contra su OA; todas resultaron coherentes. La lectura completa de las 691 clases por una persona sigue pendiente.
+- Se documenta en el estándar de calidad el protocolo por nivel (insumo oficial, validación, alineación, lectura de marcadas, revisión profesional, publicación).
+
 ## 2026-10-30 · Panel de cobertura más claro
 
 - El panel de cobertura del material del estudiante usa ahora las **clases desarrolladas** como denominador y muestra «Pendientes» y «Estado» por nivel; las experiencias integradas de habilidades y actitudes se informan aparte. Con esto 1° básico figura como **completo** (691 de 691), en vez de parecer parcial por contar 343 experiencias integradas que no son clases propias.

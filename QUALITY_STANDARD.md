@@ -124,3 +124,14 @@ Reglas de autoría:
 - Las respuestas aritméticas se recalculan automáticamente con `scripts/validate_student_lessons.py`.
 - La validación automática y la revisión profesional se registran por separado: ningún cuaderno se declara revisado sin evidencia humana.
 
+## Protocolo por nivel
+
+Cada nivel se publica en `main` sólo después de este recorrido, y se registra en el changelog:
+
+1. **Insumo oficial.** Cada cuaderno se escribe a partir del texto oficial del OA, su fuente enlazada y los títulos de las clases planificadas, no de plantillas.
+2. **Validación automática.** `validate_student_lessons.py` (estructura, mínimos, aritmética, repeticiones) y `audit_content.py` (línea base de repetición).
+3. **Análisis de alineación.** `audit_alignment.py` contrasta cada cuaderno con el OA y el título, mide la legibilidad y deja un índice de lectura prioritaria en `docs/ANALISIS_ALINEACION.md`.
+4. **Lectura humana de las marcadas.** Se leen las clases marcadas, se corrigen los desajustes y se anota en el mismo documento qué se leyó y con qué resultado.
+5. **Revisión profesional.** Los contenidos sensibles o de datos (salud, historia, artistas, pueblos originarios, idiomas) se listan en `docs/REVISION_PENDIENTE_CUADERNOS.md`. Ningún cuaderno se declara revisado sin evidencia humana.
+6. **Publicación.** Documentación, estados y cobertura sincronizados; pruebas, enlaces, PDF y workflows en verde.
+

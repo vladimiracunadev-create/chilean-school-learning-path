@@ -43,6 +43,7 @@ jobs:
           python scripts/validate_content_presentation.py
           python scripts/validate_student_lessons.py
           python scripts/audit_content.py
+          python scripts/audit_alignment.py
       - name: Run tests
         run: python -m unittest discover -s tests -p "test_*.py" -v
       - name: Compile Python sources

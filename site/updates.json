@@ -5,6 +5,15 @@
   "updates": [
     {
       "date": "2026-10-30",
+      "title": "Análisis de alineación con el OA oficial (1° básico)",
+      "summary": [
+        "Nuevo `scripts/audit_alignment.py` y página [Análisis de alineación](docs/ANALISIS_ALINEACION.md): contrasta cada cuaderno con el texto oficial del OA y el título de la clase planificada, mide la legibilidad y ordena las clases para lectura prioritaria. Es una heurística de triage; sobre-marca (sobre todo Inglés) y lo declara.",
+        "Se leyeron manualmente ocho clases marcadas contra su OA; todas resultaron coherentes. La lectura completa de las 691 clases por una persona sigue pendiente.",
+        "Se documenta en el estándar de calidad el protocolo por nivel (insumo oficial, validación, alineación, lectura de marcadas, revisión profesional, publicación)."
+      ]
+    },
+    {
+      "date": "2026-10-30",
       "title": "Panel de cobertura más claro",
       "summary": [
         "El panel de cobertura del material del estudiante usa ahora las **clases desarrolladas** como denominador y muestra «Pendientes» y «Estado» por nivel; las experiencias integradas de habilidades y actitudes se informan aparte. Con esto 1° básico figura como **completo** (691 de 691), en vez de parecer parcial por contar 343 experiencias integradas que no son clases propias."
@@ -18,15 +27,6 @@
         "Los cuadernos se redactaron por bloques de OA en paralelo y se validaron con `scripts/check_student_module.py` y `scripts/validate_student_lessons.py`.",
         "El validador ahora trata un enunciado idéntico entre asignaturas distintas como error; las 28 repeticiones detectadas se contextualizaron por asignatura. Dentro de una misma asignatura se admite como repaso y se informa en el panel de cobertura.",
         "Nueva página [Revisión profesional pendiente de los cuadernos](docs/REVISION_PENDIENTE_CUADERNOS.md), con los contenidos que los autores marcaron para revisión especializada. **Ninguna clase tiene revisión profesional.**"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Cuaderno del estudiante: lote 7 (1° básico, Matemática OA 19 y 20)",
-      "summary": [
-        "Las 9 clases de `MA01 OA 19` y `MA01 OA 20` (recolección de datos y pictogramas) publican cuaderno del estudiante. Con este lote **Matemática de 1° básico queda completa con cuaderno** (20 OA y 83 clases); siguen pendientes las otras diez asignaturas del nivel.",
-        "Las respuestas calculadas por el generador ahora muestran el cálculo realizado en su explicación.",
-        "Sin revisión profesional."
       ]
     }
   ]
