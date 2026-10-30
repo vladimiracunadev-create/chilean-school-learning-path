@@ -38,13 +38,13 @@ OA2 = "MA02 OA 02"
 
 register(
     OA1, 1,
-    materials="Cinta de papel con los números del 120 al 160 escritos en cada casilla; seis fichas; lápiz de color. Todos los números se entregan en este cuaderno.",
+    materials="Una recta numérica abierta dibujada en el cuaderno, seis fichas y lápiz de color. Los números de trabajo están escritos en cada ejercicio.",
     use="Aprenderé a contar de 2 en 2 aunque parta de un número impar. Sirve para contar pares de zapatos, guantes o ruedas sin ir uno por uno.",
     prior=["Sé contar hacia adelante y hacia atrás hasta 100.", "Sé que sumar 2 es avanzar dos lugares en la recta numérica."],
     explain=[
         "Contar de 2 en 2 significa que cada número nuevo es dos más que el anterior. Si cuentas 2, 4, 6, 8 estás avanzando de a dos, y todos esos números son pares. Pero no es obligatorio partir en un par: puedes partir donde quieras.",
         "Si partes en 137, el siguiente es 139, después 141, 143 y 145. Mira las unidades: 7, 9, 1, 3, 5. Siempre son impares, porque a un impar le sumas 2 y sigue siendo impar. Lo que se conserva es el tamaño del salto, y también si el número es par o impar.",
-        "Para no equivocarte, usa una recta numérica abierta: dibuja una flecha por cada salto y escribe arriba «+2». Al terminar, revisa que entre dos números vecinos siempre haya 2 de diferencia. Si en algún lugar hay 3 o 1, hay un error.",
+        "Para no equivocarte, usa una recta numérica abierta: dibuja una flecha por cada salto y escribe arriba «+2». Al terminar, revisa que entre dos números vecinos siempre haya 2 de diferencia. Si en algún lugar hay 3 o 1, hay un error. Para contar hacia atrás, resta 2 en cada salto.",
     ],
     vocab=[("secuencia", "lista de números que sigue una regla"), ("salto", "lo que avanzo o retrocedo en cada paso"), ("punto de inicio", "el primer número desde el que empiezo a contar"), ("par", "número que termina en 0, 2, 4, 6 u 8"), ("impar", "número que termina en 1, 3, 5, 7 o 9")],
     worked=[
@@ -63,17 +63,17 @@ register(
             ex("¿Aparecerá 150 si cuentas de 2 en 2 desde 137? Explica.", "No", "Todos los números de esta secuencia son impares y 150 es par."),
         ],
         "apply": [
-            arith("En una caja hay zapatos. Contamos de 2 en 2 y llegamos a 12 pies, partiendo en 0. ¿Cuántos pares de zapatos hay? (Cuenta 2, 4, 6, 8, 10, 12.)", "12//2", "Seis saltos de 2 llegan a 12, por eso hay 6 pares."),
-            fill(325, 2, 6, (1, 3, 5), "Se suma 2 a partir de 325: 327, 331, 335."),
+            arith("En una caja hay 12 zapatos sueltos. Contamos de 2 en 2, un par en cada salto: 2, 4, 6, 8, 10, 12. ¿Cuántos pares de zapatos hay?", "12//2", "Seis saltos de 2 llegan a 12, por eso hay 6 pares."),
+            fill(985, 2, 6, (1, 3, 5), "Se suma 2 a partir de 985: 987, 991, 995."),
             ex("Cuenta hacia atrás de 2 en 2 desde 99: escribe los cinco números siguientes.", "97, 95, 93, 91, 89", "Cada vez se resta 2 al número anterior."),
         ],
         "reason": [
-            ex("Ana dice: «Si parto en 137 y cuento de 2 en 2, el cuarto número que digo es 144». ¿Tiene razón?", "No; es 143", "Si 137 es el primero, el segundo es 139, el tercero 141 y el cuarto 143. 144 es par y no puede aparecer."),
-            ex("En la secuencia 211, 213, 215, 217 hay un error si se escribe 211, 213, 216, 217. ¿Cuál es el error y cómo se corrige?", "216 debe ser 215", "Entre 213 y 216 hay 3 de diferencia; el salto debe ser 2, entonces el número es 215."),
+            ex("Ana dice: «Si parto en 137 y cuento de 2 en 2, diré 139, 141 y 144». ¿Tiene razón?", "No; el último debe ser 143", "139 + 2 = 141 y 141 + 2 = 143. El 144 es par y no puede aparecer."),
+            ex("Camila escribió esta secuencia de 2 en 2: 211, 213, 216, 217. ¿Cuál es el error y cómo se corrige?", "216 debe ser 215", "Entre 213 y 216 hay 3 de diferencia; el salto debe ser 2, entonces el número es 215."),
         ],
         "challenge": [
             ex("Parto en 398 y cuento de 2 en 2. ¿Cuál es el primer número mayor que 400 que digo?", "402", "La secuencia es 398, 400, 402: el 400 aparece porque 398 es par, y el siguiente es 402."),
-            ex("Dos amigos cuentan de 2 en 2: uno parte en 51 y otro en 52. ¿Dirán alguna vez el mismo número? Explica.", "No", "El primero dice sólo impares y el segundo sólo pares; nunca coinciden."),
+            ex("Dos amigos cuentan de 2 en 2: uno parte en 51 y otro en 52. ¿Dirán alguna vez el mismo número? Explica.", "No", "El primero dice solo impares y el segundo solo pares; nunca coinciden."),
         ],
     },
     context=[ex("Una profesora tiene que repartir guantes. Cada niño recibe 1 par (2 guantes). Hay 9 niños. Cuenta de 2 en 2 y escribe cuántos guantes entrega en total.", "18 guantes", "Los números son 2, 4, 6, 8, 10, 12, 14, 16, 18: son nueve saltos de 2.")],
@@ -85,11 +85,11 @@ register(
     open_task={
         "statement": "Parte en 85 y cuenta de 2 en 2 hasta tener seis números. Dibuja los saltos en una recta numérica y escribe una frase que diga qué notas en las unidades.",
         "example": "85, 87, 89, 91, 93, 95. En la recta hay cinco flechas con +2. Observo que las unidades son 5, 7, 9, 1, 3, 5: siempre impares.",
-        "criteria": ["escribe seis números", "mantiene el salto de 2", "dibuja los saltos", "describe lo que se repite en las unidades"],
+        "criteria": ["escribe seis números", "mantiene el salto de 2", "dibuja los saltos", "describe qué observa en las unidades"],
         "evidence": ["secuencia escrita en el cuaderno", "recta numérica dibujada", "frase de explicación propia"],
         "errors": ["cambiar el salto a mitad de la secuencia", "pasar a números pares sin sumar 2"],
         "feedback": "Reconoce que la secuencia es correcta y pide que revise la diferencia entre vecinos; si hay un error, que sea el propio estudiante quien encuentre dónde cambió el salto.",
     },
     reinforce="Cuenta de 2 en 2 desde 21 con ayuda de tapas: pon dos tapas en cada salto y escribe el número que alcanzas.",
-    extend="Busca una secuencia de 2 en 2 que empiece en un impar y pase por 100 sin tocarlo. ¿Es posible? Explica con ejemplos.",
+    extend="Si cuentas de 2 en 2 desde un número impar, ¿puedes decir el 100? Prueba con 91 y con 97 y explica por qué.",
 )

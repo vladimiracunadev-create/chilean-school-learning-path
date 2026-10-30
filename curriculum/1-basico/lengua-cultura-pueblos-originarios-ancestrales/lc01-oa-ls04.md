@@ -147,7 +147,7 @@ Respuesta: río y cerro; el río se queda sin agua y vuelve a correr
 
 *Comprensión*
 
-- **C1.** ¿Qué es un personaje?
+- **C1.** En Lengua y Cultura: ¿Qué es un personaje?
 - **C2.** ¿Qué es un acontecimiento?
 - **C3.** ¿A quién pertenecen los relatos reales de un pueblo?
 

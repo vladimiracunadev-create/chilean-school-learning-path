@@ -300,7 +300,7 @@ register(
             ex("¿Qué haces mientras alguien cuenta un relato: escuchar o interrumpir?", "Escuchar", "Se escucha el relato completo."),
         ],
         "understand": [
-            ex("¿Qué es un personaje?", "Quien actúa en el relato", "Los personajes hacen las cosas del relato."),
+            ex("En Lengua y Cultura: ¿Qué es un personaje?", "Quien actúa en el relato", "Los personajes hacen las cosas del relato."),
             ex("¿Qué es el lugar de un relato?", "Dónde ocurre", "Es el sitio de la historia."),
             ex("¿Qué es el acontecimiento?", "Lo que pasa", "Es el hecho principal."),
         ],

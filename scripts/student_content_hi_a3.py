@@ -38,7 +38,7 @@ register(
             ex("¿Cuál de estos tres símbolos de Chile es una canción: bandera, escudo o himno?", "himno", "El himno es música con letra."),
         ],
         "understand": [
-            ex("¿Qué es un símbolo?", "Algo que representa a otra cosa", "Una bandera, por ejemplo, representa a un país."),
+            ex("En Historia: ¿Qué es un símbolo?", "Algo que representa a otra cosa", "Una bandera, por ejemplo, representa a un país."),
             ex(f"{ESC} ¿Cuántos animales aparecen en el escudo?", "2", "Son el cóndor y el huemul."),
             ex("¿Qué hacen las personas cuando suena el himno nacional?", "Se ponen de pie en señal de respeto", "Es una forma de honrar un símbolo del país."),
         ],
@@ -93,7 +93,7 @@ register(
             ex(f"{ESC} ¿De qué colores son las tres plumas?", "azul, blanco y rojo", "Así lo dice la descripción."),
         ],
         "understand": [
-            ex("¿Qué es una observación?", "Lo que se ve y se puede comprobar", "Se afirma mirando."),
+            ex("En Historia: ¿Qué es una observación?", "Lo que se ve y se puede comprobar", "Se afirma mirando."),
             ex("¿Qué es un significado?", "Lo que algo quiere decir", "No siempre se ve en el dibujo."),
             ex("¿Por qué no se debe inventar el significado de un color?", "Porque puede ser falso", "Hay que usar una fuente."),
         ],

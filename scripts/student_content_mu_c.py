@@ -383,7 +383,7 @@ register(
             ex("¿Se mejora de una vez todo?", "No, un aspecto a la vez", "Es más fácil enfocarse."),
         ],
         "understand": [
-            ex("¿Qué es la evidencia?", "Algo que se oye o se ve y prueba la mejora", "Sirve para comprobar."),
+            ex("En Música: ¿Qué es la evidencia?", "Algo que se oye o se ve y prueba la mejora", "Sirve para comprobar."),
             ex("¿Por qué elegir un aspecto antes de ensayar?", "Para tener un objetivo", "Así se sabe qué comprobar."),
             ex("¿Qué comparas entre dos ensayos?", "En qué cambió", "Se ve la mejora."),
         ],

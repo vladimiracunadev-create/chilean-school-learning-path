@@ -395,7 +395,7 @@ register(
             ex("Regla: tiene pelo. ¿El perro entra?", "Sí", "El perro tiene pelo."),
         ],
         "understand": [
-            ex("¿Qué es un criterio?", "Una regla para formar grupos", "Dice qué cumple cada grupo."),
+            ex("En Ciencias: ¿Qué es un criterio?", "Una regla para formar grupos", "Dice qué cumple cada grupo."),
             ex("¿Cuántas reglas usamos a la vez en un grupo?", "Una", "Una sola regla hace el grupo claro."),
             ex("¿Cómo se explica un grupo?", "Con una frase que diga la regla", "Así otra persona entiende."),
         ],

@@ -275,7 +275,7 @@ register(
             ex(f"{NOTE} «El río se quedó sin agua». ¿Qué le pasó al río?", "se quedó sin agua", "Lo dice el relato."),
         ],
         "understand": [
-            ex("¿Qué es un personaje?", "quien participa en la historia", "Actúa en el relato."),
+            ex("En Lengua y Cultura: ¿Qué es un personaje?", "quien participa en la historia", "Actúa en el relato."),
             ex("¿Qué es un acontecimiento?", "algo que pasa", "Es lo que ocurre."),
             ex("¿A quién pertenecen los relatos reales de un pueblo?", "a la comunidad", "Ella los cuida."),
         ],

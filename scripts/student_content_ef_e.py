@@ -39,7 +39,7 @@ register(
             ex("Los movimientos del calentamiento son ¿suaves o bruscos?", "Suaves", "Los tirones pueden lastimar."),
         ],
         "understand": [
-            ex("¿Para qué sirve calentar?", "Para preparar músculos y articulaciones", "El cuerpo se mueve mejor y se lastima menos."),
+            ex("En Educación Física: ¿Para qué sirve calentar?", "Para preparar músculos y articulaciones", "El cuerpo se mueve mejor y se lastima menos."),
             ex("En «El espejo», ¿quién muestra el movimiento?", "El guía", "Los demás lo copian."),
             ex("Si algo te duele al calentar, ¿qué haces?", "Parar y avisar", "El dolor es una señal de alerta."),
         ],

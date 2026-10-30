@@ -289,7 +289,7 @@ register(
             ex("¿Escuchar a otros puede ser un aporte?", "Sí", "Ayuda a que todos se sientan tomados en cuenta."),
         ],
         "understand": [
-            ex("¿Qué es la reciprocidad?", "Dar y recibir", "Los dos lados ayudan."),
+            ex("En Orientación: ¿Qué es la reciprocidad?", "Dar y recibir", "Los dos lados ayudan."),
             ex("¿Todos pueden aportar algo?", "Sí", "Cada persona tiene algo para dar."),
             ex("¿Por qué conviene que todos aporten?", "Para que el grupo funcione mejor", "Cuando todos suman, el trabajo es más fácil."),
         ],

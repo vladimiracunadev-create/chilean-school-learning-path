@@ -386,7 +386,7 @@ Respuesta: El relato no lo dice; hay que preguntar
 
 - **E1.** Relato: «Una mañana de niebla, Tomás y su abuela subieron al cerro. La abuela llevaba una cesta con duraznos. Al llegar arriba, ella saludó con un «mari mari» a un vecino que cuidaba ovejas. El vecino les regaló un poco de queso. Tomás dijo gracias y bajaron cuando se despejó la niebla.» ¿Qué llevaba la abuela?
 - **E2.** ¿Se inventan datos del relato?
-- **E3.** ¿Qué es una costumbre?
+- **E3.** En Lengua y Cultura: ¿Qué es una costumbre?
 
 **Actividad abierta.** Un adulto te lee el relato «Una mañana de niebla, Tomás y su abuela subieron al cerro. La abuela llevaba una cesta con duraznos. Al llegar arriba, ella saludó con un «mari mari» a un vecino que cuidaba ovejas. El vecino les regaló un poco de queso. Tomás dijo gracias y bajaron cuando se despejó la niebla.». Escribe o dibuja tres datos que el relato dice con claridad. Escribe un dato que el relato no dice y que te gustaría preguntar. Pregunta al educador/a tradicional o a la comunidad: ¿qué costumbres de nuestro pueblo aparecen en sus relatos y cómo debo hablar de ellas?
 

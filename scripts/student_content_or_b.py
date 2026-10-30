@@ -340,7 +340,7 @@ register(
             ex("¿Qué haces para pedir la palabra: levantar la mano o gritar?", "Levantar la mano", "Respeta el turno."),
         ],
         "understand": [
-            ex("¿Qué es reformular?", "Repetir con mis palabras lo que entendí", "Muestra que escuché."),
+            ex("En Orientación: ¿Qué es reformular?", "Repetir con mis palabras lo que entendí", "Muestra que escuché."),
             ex("¿Por qué conviene esperar el turno?", "Para que todos se escuchen", "Así nadie queda sin hablar."),
             ex("¿Qué haces si no estás seguro de lo que oíste?", "Pregunto: «¿Dijiste que…?»", "Confirmo antes de responder."),
         ],
@@ -493,7 +493,7 @@ register(
             ex("¿Debes esperar que te perdonen enseguida?", "No", "Cada uno necesita su tiempo."),
         ],
         "understand": [
-            ex("¿Cuáles son las tres partes de una buena disculpa?", "Qué hice, cómo se sintió, cómo reparo", "Cada parte cuenta."),
+            ex("En Orientación: ¿Cuáles son las tres partes de una buena disculpa?", "Qué hice, cómo se sintió, cómo reparo", "Cada parte cuenta."),
             ex("¿Por qué no basta con decir solo «perdón»?", "Porque no reconoce qué pasó ni repara", "Falta una acción concreta."),
             ex("¿Qué haces si el otro aún está enojado?", "Respetar su tiempo", "Así no lo presiono."),
         ],

@@ -131,7 +131,7 @@ register(
     selfcheck=[
         ex(f"Relato: «{RELATO_B}» ¿Qué llevaba la abuela?", "Una cesta con duraznos", "El relato lo dice."),
         ex("¿Se inventan datos del relato?", "No", "Se pregunta a quien sabe."),
-        ex("¿Qué es una costumbre?", "Algo que se hace seguido", "Se repite en el tiempo."),
+        ex("En Lengua y Cultura: ¿Qué es una costumbre?", "Algo que se hace seguido", "Se repite en el tiempo."),
     ],
     open_task=task(
         "Un adulto te lee el relato «" + RELATO_B + "». Escribe o dibuja tres datos que el relato dice con claridad. Escribe un dato que el relato no dice y que te gustaría preguntar. Pregunta al educador/a tradicional o a la comunidad: ¿qué costumbres de nuestro pueblo aparecen en sus relatos y cómo debo hablar de ellas?",

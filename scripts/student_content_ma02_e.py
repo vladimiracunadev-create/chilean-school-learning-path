@@ -17,8 +17,8 @@ register(
     use="Aprenderé a comparar dos números mirando primero las decenas. Sirve para saber quién tiene más figuritas, puntos o dinero.",
     prior=["Sé representar números con barras y cubos.", "Conozco los signos mayor que (>), menor que (<) e igual (=)."],
     explain=[
-        "Para comparar dos números de dos cifras, mira primero las decenas, que son la cifra de la izquierda. El número con más decenas es el mayor. Así, 47 es mayor que 39, porque 47 tiene 4 decenas y 39 tiene sólo 3.",
-        "No importa que 9 sea una unidad más grande que 7: las decenas valen mucho más que las unidades. Por eso 47 > 39 aunque 9 > 7. En el dibujo se ve fácil: cuatro barras de 10 son más que tres barras de 10 con cualquier cantidad de cubos sueltos menor que 10.",
+        "Para comparar dos números de dos cifras, mira primero las decenas, que son la cifra de la izquierda. El número con más decenas es el mayor. Así, 47 es mayor que 39, porque 47 tiene 4 decenas y 39 tiene solo 3.",
+        "No importa que 9 sea una unidad más grande que 7: las decenas valen mucho más que las unidades. Por eso 47 > 39 aunque 9 > 7. En el dibujo se ve fácil: cuatro barras son más que tres barras con unos cubos sueltos, porque con menos de 10 cubos sueltos no se forma otra barra.",
         "Los signos > y < se leen como una boca que se abre hacia el número mayor: 47 > 39 se lee «cuarenta y siete es mayor que treinta y nueve», y 39 < 47 se lee «treinta y nueve es menor que cuarenta y siete».",
     ],
     vocab=[("mayor que (>)", "tiene más cantidad"), ("menor que (<)", "tiene menos cantidad"), ("igual (=)", "tiene la misma cantidad"), ("decenas", "la cifra de la izquierda en un número de dos cifras"), ("comparar", "decidir cuál número es mayor, menor o si son iguales")],
@@ -31,7 +31,7 @@ register(
         {"wrong": "Escribir 47 < 39.", "why": "Se confunde la dirección del signo.", "fix": "El signo se abre hacia el número mayor: 47 > 39."},
     ],
     tiers={
-        "recovery": [cmp_ex(52, 38, "52 tiene 5 decenas y 38 sólo 3."), cmp_ex(27, 61, "27 tiene 2 decenas y 61 tiene 6."), cmp_ex(74, 45, "74 tiene 7 decenas, más que 4.")],
+        "recovery": [cmp_ex(52, 38, "52 tiene 5 decenas y 38 solo 3."), cmp_ex(27, 61, "27 tiene 2 decenas y 61 tiene 6."), cmp_ex(74, 45, "74 tiene 7 decenas, más que 4.")],
         "understand": [
             ex("¿Qué cifra comparas primero en números de dos cifras?", "La de las decenas", "Las decenas valen más que las unidades."),
             ex("¿Qué número es mayor, 83 o 79?", "83", "8 decenas es mayor que 7 decenas."),
@@ -40,10 +40,10 @@ register(
         "apply": [cmp_ex(66, 59, "6 decenas es mayor que 5 decenas."), cmp_ex(18, 81, "1 decena es menor que 8 decenas."), cmp_ex(90, 89, "9 decenas es mayor que 8 decenas aunque 89 tenga 9 unidades.")],
         "reason": [
             ex("Dani dice que 39 > 41 porque 9 > 1. ¿Qué error comete?", "Compara las unidades antes que las decenas", "3 decenas es menor que 4 decenas, entonces 39 < 41."),
-            ex("Dos números tienen las mismas decenas. ¿Se pueden comparar mirando sólo las decenas?", "No; hay que mirar las unidades", "Si las decenas son iguales, decide la siguiente cifra."),
+            ex("Para comparar 47 y 39, ¿por qué no importa que 9 sea mayor que 7?", "Porque las decenas valen más que las unidades", "4 decenas es más que 3 decenas, y las decenas se miran primero."),
         ],
         "challenge": [
-            ex("Escribe un número mayor que 58 pero menor que 61.", "59 o 60", "Entre 58 y 61 están 59 y 60."),
+            ex("Escribe un número que tenga más decenas que 38 y menos decenas que 61.", "Por ejemplo 45 (sirve cualquiera de 40 a 59)", "38 tiene 3 decenas y 61 tiene 6; hay que tener 4 o 5 decenas."),
             ex("Escribe un número de dos cifras que sea menor que 20 y que tenga 5 unidades.", "15", "15 tiene 1 decena y 5 unidades, y es menor que 20."),
         ],
     },
@@ -97,7 +97,7 @@ register(
             ex("¿Cuántos números entre 30 y 40 son mayores que 35?", "4 números: 36, 37, 38 y 39", "Mayores que 35 y con 3 decenas: 36, 37, 38 y 39."),
         ],
     },
-    context=[ex("En un curso, Camila lee 52 páginas y Pablo lee 58. ¿Quién leyó más páginas? ¿Cuántas más?", "Pablo; 6 más", "58 > 52 y 58 − 52 = 6.")],
+    context=[ex("En una semana, Camila lee 52 páginas y Pablo lee 58. ¿Quién leyó más páginas? ¿Cuántas más?", "Pablo; 6 más", "58 > 52 y 58 − 52 = 6.")],
     selfcheck=[cmp_ex(19, 15, "Mismas decenas; 9 es mayor que 5."), cmp_ex(77, 70, "Mismas decenas; 7 es mayor que 0."), ex("¿Qué miras si las decenas son iguales?", "Las unidades", "Es la siguiente cifra de la derecha.")],
     open_task={
         "statement": "Compara 64 y 68, 35 y 38, 90 y 90. Dibuja con barras y cubos 64 y 68, escribe el signo y explica qué cifra decidió.",
@@ -113,11 +113,11 @@ register(
 
 register(
     OA3, 3,
-    materials="Monedas dibujadas de $1, $5, $10 y $50 (las cantidades de cada ejercicio están escritas) y el cuaderno.",
+    materials="Monedas dibujadas de $1, $5, $10, $50 y $100 (las cantidades de cada ejercicio están escritas) y el cuaderno.",
     use="Aprenderé a comparar cantidades de dinero formadas por monedas chilenas. Sirve para saber quién tiene más dinero y qué puedo comprar.",
-    prior=["Sé comparar números de dos cifras.", "Conozco las monedas de $1, $5, $10 y $50."],
+    prior=["Sé comparar números de dos cifras.", "Conozco las monedas de $1, $5, $10, $50 y $100."],
     explain=[
-        "En Chile usamos monedas de distinto valor: $1, $5, $10 y $50. Para comparar dinero primero hay que saber cuánto vale lo que hay. Si tienes 3 monedas de $10 y 2 monedas de $5, tienes $30 y $10: en total $40.",
+        "En Chile usamos monedas de distinto valor: $1, $5, $10, $50 y $100. Para comparar dinero primero hay que saber cuánto vale lo que hay. Si tienes 3 monedas de $10 y 2 monedas de $5, tienes $30 y $10: en total $40.",
         "Después de calcular el total de cada persona, compara los dos números como lo has hecho: primero las decenas y luego las unidades. Así puedes decir quién tiene más.",
         "Ojo: tener más monedas no siempre significa tener más dinero. Cuatro monedas de $1 son $4, y una moneda de $10 es $10. Lo que cuenta es el valor, no cuántas monedas hay.",
     ],
@@ -142,7 +142,7 @@ register(
             ex("¿Importa cuántas monedas hay para saber quién tiene más dinero?", "No; importa el valor total", "El valor cambia con cada moneda."),
         ],
         "apply": [
-            ex("Sofía tiene 2 monedas de $50. Mateo tiene 7 monedas de $10. ¿Quién tiene más?", "Sofía ($100) frente a Mateo ($70)", "2 × $50 = $100 y 7 × $10 = $70; 100 > 70."),
+            ex("Sofía tiene 1 moneda de $100. Mateo tiene 7 monedas de $10. ¿Quién tiene más?", "Sofía ($100) frente a Mateo ($70)", "7 × $10 = $70 y 100 > 70."),
             ex("Ana tiene 4 monedas de $5 y 3 de $1. Luis tiene 2 monedas de $10. ¿Cuánto tiene cada uno y quién tiene más?", "Ana $23; Luis $20; Ana tiene más", "4 × 5 + 3 = 23 y 2 × 10 = 20."),
             cmp_ex(45, 54, "4 decenas es menor que 5 decenas."),
         ],
@@ -171,22 +171,22 @@ register(
 
 register(
     OA3, 4,
-    materials="Tarjetas de números en este cuaderno: 52, 25, 63, 36, 41, 14, 78, 87; cinta con casillas para ordenar.",
+    materials="Una cinta con casillas dibujada en el cuaderno para ordenar los números. Los números de trabajo están escritos en cada ejercicio.",
     use="Aprenderé a ordenar varios números de menor a mayor y a cumplir condiciones al ordenarlos. Sirve para organizar listas, puntajes y resultados.",
     prior=["Sé comparar dos números.", "Sé que menor a mayor es del más pequeño al más grande."],
     explain=[
-        "Para ordenar varios números, compáralos de a pares. Primero encuentra el menor, luego el siguiente menor y así hasta el mayor. Para listas largas conviene mirar primero las decenas y agrupar los números con las mismas.",
+        "Para ordenar varios números, compáralos de a pares. Primero encuentra el menor, luego el siguiente menor y así hasta el mayor. Si piden ordenar de mayor a menor, haces lo contrario: empiezas por el mayor. Para listas largas conviene mirar primero las decenas y agrupar los números con las mismas.",
         "Por ejemplo, para ordenar 52, 25, 63 y 36: las decenas son 5, 2, 6 y 3. Ordeno por decenas: 25 (2), 36 (3), 52 (5), 63 (6). Si dos números tienen las mismas decenas, desempato por las unidades.",
         "Algunas tareas piden condiciones: «un número mayor que 35 y menor que 41». Revisa en la lista los números que cumplen ambas condiciones. Debes comprobar las dos al mismo tiempo; si una falla, ese número no sirve.",
     ],
     vocab=[("ordenar", "poner en fila según un criterio"), ("de menor a mayor", "del más pequeño al más grande"), ("de mayor a menor", "del más grande al más pequeño"), ("condición", "regla que un número debe cumplir"), ("entre", "mayor que uno y menor que otro")],
     worked=[
         {"title": "Ordenar cuatro números", "problem": "Ordena de menor a mayor: 52, 25, 63, 36.", "steps": ["Decenas: 52→5, 25→2, 63→6, 36→3.", "Menor decena: 25. Luego 36, 52 y 63.", "Escribo la lista: 25, 36, 52, 63."], "answer": "25, 36, 52, 63"},
-        {"title": "Cumplir dos condiciones", "problem": "Elige el número que es mayor que 35 y menor que 41: 33, 38, 44, 40.", "steps": ["Mayor que 35: 38, 44 y 40.", "Menor que 41: 33, 38 y 40.", "Cumple ambas: 38 y 40."], "answer": "38 y 40"},
+        {"title": "Cumplir dos condiciones", "problem": "Elige los números que son mayores que 35 y menores que 41: 33, 38, 44, 40.", "steps": ["Mayor que 35: 38, 44 y 40.", "Menor que 41: 33, 38 y 40.", "Cumple ambas: 38 y 40."], "answer": "38 y 40"},
     ],
     mistakes=[
-        {"wrong": "Ordenar 36, 41, 14 como 14, 41, 36.", "why": "Se miró sólo la primera cifra de 41 sin comparar 3 y 4.", "fix": "Compara las decenas: 1, 3, 4; el orden correcto es 14, 36, 41."},
-        {"wrong": "Cumplir sólo una de las condiciones.", "why": "Se revisa una condición y se olvida la otra.", "fix": "Revisa las dos condiciones en cada número."},
+        {"wrong": "Ordenar 36, 41, 14 como 14, 41, 36.", "why": "No se compararon las decenas de 41 y de 36 (4 y 3).", "fix": "Compara las decenas: 1, 3, 4; el orden correcto es 14, 36, 41."},
+        {"wrong": "Cumplir solo una de las condiciones.", "why": "Se revisa una condición y se olvida la otra.", "fix": "Revisa las dos condiciones en cada número."},
     ],
     tiers={
         "recovery": [order_ex([52, 25, 63, 36], "Se ordenan por decenas: 2, 3, 5, 6."), order_ex([41, 14, 78, 87], "Decenas: 1, 4, 7, 8."), order_ex([61, 59, 60], "59 tiene 5 decenas; 60 y 61 tienen 6 decenas y 0 es menor que 1.")],
@@ -202,7 +202,7 @@ register(
         ],
         "reason": [
             ex("Marcos ordenó 36, 41, 14 como 14, 41, 36. ¿Dónde está el error?", "41 debe ir después de 36", "36 tiene 3 decenas y 41 tiene 4."),
-            ex("¿Existe un número mayor que 58 y menor que 60?", "Sí, el 59", "Es el único entero entre 58 y 60."),
+            ex("¿Existe un número mayor que 58 y menor que 60?", "Sí, el 59", "Es el único número entre 58 y 60."),
         ],
         "challenge": [
             ex("Escribe tres números entre 70 y 80 y ordénalos de mayor a menor.", "Por ejemplo 78, 75, 71", "Todos están entre 70 y 80 y van de mayor a menor."),
@@ -216,9 +216,9 @@ register(
         "example": "Ordenados: 44, 47, 74, 77. Mayores que 45 y menores que 75: 47 y 74. Ordené mirando primero las decenas (4 y 7) y luego las unidades.",
         "criteria": ["orden correcto", "elige ambos números", "explica el procedimiento"],
         "evidence": ["lista ordenada", "números elegidos", "explicación"],
-        "errors": ["mirar sólo la primera cifra de cada número", "olvidar una condición"],
+        "errors": ["mirar solo la primera cifra de cada número", "olvidar una condición"],
         "feedback": "Si el orden es incorrecto, pide que compare de a dos y registre cada comparación; reconoce el desempate por unidades.",
     },
     reinforce="Con 6 tarjetas de números, ordénalas y fotografía o dibuja el resultado.",
-    extend="Crea una condición doble que sólo cumpla un número en la lista 41, 44, 47, 49 y explica por qué.",
+    extend="Crea una condición doble que solo cumpla un número en la lista 41, 44, 47, 49 y explica por qué.",
 )

@@ -1,12 +1,14 @@
-# Análisis de alineación con el OA oficial · 1.º básico
+# Análisis de alineación con el OA oficial
 
 Este análisis contrasta cada cuaderno con el **texto oficial del OA** y con el **título de la clase planificada**: mide qué parte de sus términos de contenido aparece realmente en el cuaderno, la longitud media de las oraciones de la explicación y algunas señales pedagógicas débiles. **No** juzga exactitud disciplinar: ordena las clases para que una persona lea primero las más débiles. Se regenera con `python scripts/audit_alignment.py --write`.
 
-Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 16 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
-
 **Límite de la medida.** Es una heurística de triage por coincidencia de términos: sobre-marca, sobre todo en Inglés, donde el título planificado es metalenguaje docente («Connect prior knowledge») que no aparece en un cuaderno para estudiantes, y en las clases de Lengua y Cultura, cuyo título lleva rótulos de método. Una marca no prueba un defecto; una ausencia de marca no prueba exactitud.
 
-## Resumen por asignatura
+## 1.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 16 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
 
 | Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
 |---|---:|---:|---:|
@@ -22,9 +24,9 @@ Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 5
 | orientacion | 35 | 41 % | 0 |
 | tecnologia | 26 | 40 % | 0 |
 
-**Clases marcadas para lectura prioritaria:** 89 de 691.
+**Clases marcadas para lectura prioritaria (1.º básico):** 89 de 691.
 
-## Segunda lectura crítica de las 691 clases
+### Segunda lectura crítica de las 691 clases
 
 Después de la validación automática, cada una de las 691 clases de 1.º básico fue releída de principio a fin por un segundo lector (asistido por IA, independiente de quien la escribió), que la contrastó con el texto del OA y el título de la clase en el currículo del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional: se usó el texto oficial reproducido en cada ficha.
 
@@ -42,7 +44,7 @@ Después de la validación automática, cada una de las 691 clases de 1.º bási
 | Artes Visuales | 24 | Multiplicaciones y restas de años de otro nivel; datos de obras dudosos; ambigüedades. |
 | Tecnología | 26 | Instrucciones de seguridad incorrectas; respuesta contraria a lo enseñado; multiplicaciones; software ficticio rotulado. |
 
-### Vacíos de cobertura frente al OA
+#### Vacíos de cobertura frente al OA
 
 - **Cerrados en una pasada posterior:** Inglés OA 03 (contraste /w/-/th/) y OA 07 (ocupaciones y comida); Tecnología OA 03 (fibras y plásticos) y OA 06 (tipos de software); Historia (restas de años de cuatro cifras reemplazadas por comparación, orden y saltos cortos).
 - **Lenguaje:** OA 17 y OA 09 piden obras completas y poemas de autor; el cuaderno usa textos originales breves por derechos de autor. Queda abierto.
@@ -50,7 +52,7 @@ Después de la validación automática, cada una de las 691 clases de 1.º bási
 
 Todos los contenidos que requieren especialista, incluida la verificación contra el Programa de Estudio oficial, siguen listados en [Revisión profesional pendiente](REVISION_PENDIENTE_CUADERNOS.md).
 
-## Clases marcadas
+### Clases marcadas de 1.º básico
 
 | OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
 |---|---:|---|---:|---:|---:|---|
@@ -143,3 +145,130 @@ Todos los contenidos que requieren especialista, incluida la verificación contr
 | HI01 OA 15 | 2 | Personas que la hacen funcionar | 76 % | 100 % | 21.6 | — |
 | LC01 OA 11 | 2 | Fuente cultural | 78 % | 100 % | 17.9 | — |
 | MA01 OA 18 | 1 | Largo y corto en un objeto | 86 % | 100 % | 13.8 | respuesta «depende» en ejercicio cerrado |
+
+## 2.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 18 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 24 | 39 % | 0 |
+| ciencias-naturales | 57 | 50 % | 0 |
+| educacion-fisica-salud | 47 | 40 % | 3 |
+| historia-geografia-ciencias-sociales | 72 | 44 % | 1 |
+| ingles-propuesta | 68 | 31 % | 40 |
+| lengua-cultura-pueblos-originarios-ancestrales | 116 | 46 % | 13 |
+| lenguaje-comunicacion | 149 | 42 % | 5 |
+| matematica | 93 | 45 % | 3 |
+| musica | 29 | 47 % | 1 |
+| orientacion | 35 | 40 % | 4 |
+| tecnologia | 31 | 42 % | 5 |
+
+**Clases marcadas para lectura prioritaria (2.º básico):** 75 de 721.
+
+### Segunda lectura crítica de las 721 clases
+
+Cada una de las 721 clases de 2.º básico (las 20 de Matemática OA 01 a 05 escritas antes y las 701 restantes) fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y con el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional.
+
+| Asignatura | Clases releídas | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 93 | Materiales que no existían en el cuaderno (tablas y tarjetas «de este cuaderno»); billetes de $10 y $100 inexistentes; multiplicaciones, divisiones y años de cuatro cifras fuera de nivel; error ilustrado sin sentido; saltos que cruzaban la decena que la clase prohibía; restas de reloj de 24 horas sin enseñar la regla. |
+| Lenguaje y Comunicación | 149 | Regla de diptongo falsa («ciudad»); «g fuerte» contraria a la enseñanza tradicional; palabras y conteos erróneos; dato falso sobre aves en Chile; estructuras no enseñadas; enunciados que daban la respuesta; textos que podían herir (tartamudez, edad, familia). |
+| Ciencias Naturales | 57 | Datos biológicos falsos (piel de anfibios, escorpión diurno, «las branquias sacan el aire»); caracol sin concha; estaciones con fechas aproximadas; hielo en vaso de vidrio; veleta con alfiler. |
+| Historia, Geografía y Ciencias Sociales | 72 | Respuestas con más de una válida (países de referencia); anacronismo de los videos; piñones atribuidos a todos los mapuche; seguridad ante temblor y tsunami; términos usados sin definir. |
+| Inglés | 68 | Inglés incorrecto («has a bread»); conteos de palabras falsos; estructuras no enseñadas (do you like, here you are); prueba de «vibra la garganta» engañosa; regla a/an con excepciones. |
+| Lengua y Cultura de los Pueblos Originarios | 116 | Eliminadas o generalizadas fechas y ceremonias (We Tripantu, Tapati, Año Nuevo, Pachamama, machi, yatiri); asociaciones de arte con pueblos; variante «cuyén» de ortografía no segura; afirmación histórica generalizada; aritmética de otro nivel. |
+| Educación Física y Salud | 47 | Volteo sin supervisión; alfombra y libro como superficies resbalosas; pulso y respiración poco realistas; riesgo de caminar hacia atrás; protocolo inconsistente ante un compañero herido; contradicciones de datos en las metas. |
+| Orientación | 35 | Divisiones y multiplicaciones fuera de nivel; ejercicio alarmante sobre secretos reemplazado; doble negativo; supuestos sobre la composición de la familia; datos de higiene y sueño como recomendaciones generales. |
+| Música | 29 | Respuesta de ejemplo que no cambiaba el pulso; confusión entre vocal y altura del sonido; pieza que no calzaba con la respuesta; enunciado subjetivo de más suave a más fuerte. |
+| Artes Visuales | 24 | Actividad que contradecía sus criterios; ejercicios sobre lo no enseñado (óvalos); ambigüedades de enunciado; obras reales sustituidas por tipos de obra seguros. |
+| Tecnología | 31 | Falso «las imágenes propias no tienen derechos de autor»; relleno que no tapa un dibujo; instrucciones de seguridad; software ficticio rotulado. |
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Lenguaje (grupo «dr», anécdota, experiencia personal y relato de hechos, carta, cuento folclórico frente a cuento de autor, lectura independiente); Historia (chango, rapa nui y huilliche, inmigración oriental, patrimonio de más regiones, río, océano, isla y ciudad); Artes (textiles, herramientas digitales, tipos de obra local, latinoamericana y universal); Ciencias (hábitat del mamífero); Matemática (preguntas estadísticas, números cercanos a 1.000); Educación Física (niveles, juegos individuales y colectivos).
+- **Abiertos:** Artes OA 04 pide observar al año 10 obras locales o chilenas, 10 latinoamericanas y 10 universales, y el cuaderno solo puede describirlas (imágenes reales y derechos los aporta el docente); Música OA 03 nombra obras con derechos que no se reproducen; Lenguaje OA 06 y 22 piden poemas y cuentos reales de autor o tradicionales; Lengua y Cultura de los Pueblos Originarios: relatos, textos y oraciones reales en lengua indígena y eventos o técnicas propias de cada pueblo los aporta el educador o educadora tradicional; software educativo (Matemática OA 03, 09 y 12) es opcional en el OA y no se puede entregar en el cuaderno; Ciencias OA 02 (moluscos y miriápodos) y vocabulario «endémico» de OA 05 requerirían clases nuevas.
+- **Decisiones que dependen del programa oficial:** reloj de 24 horas o a. m./p. m. (Matemática OA 18), equivalencia 1 m = 100 cm (OA 19) y aristas y vértices del cubo (OA 16); no se pudo contrastar con el texto vigente.
+- **Criterio distinto entre asignaturas, a revisar por especialista:** Historia mantiene las celebraciones y ceremonias de los pueblos (ngillatun, We Tripantu, Año Nuevo Andino, Tapati, Hain, Pachamama) como fichas generales, porque el OA 01 pide creencias y fiestas; Lengua y Cultura las eliminó por no poder afirmarlas con seguridad.
+
+### Clases marcadas de 2.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| LC02 OA 16 | 3 | Continuidad y presente · Relación entre ser humano, naturale | 8 % | 17 % | 14.3 | — |
+| EN02 OA 10 | 2 | Shape and airflow · English sounds through chants, rhymes an | 11 % | 0 % | 9.6 | — |
+| EN02 OA 02 | 5 | Actions now · Listening for familiar topics and communicativ | 13 % | 0 % | 9.6 | — |
+| EN02 OA 12 | 4 | Ask and locate · Supported oral expression for familiar func | 14 % | 0 % | 16.1 | — |
+| EN02 OA 03 | 5 | Sounds /w/ and /th/ · Evidence of oral comprehension and Eng | 14 % | 20 % | 15.0 | — |
+| EN02 OA 07 | 5 | Actions happening now · Reading familiar topics and function | 15 % | 14 % | 13.8 | — |
+| EN02 OA 12 | 2 | Abilities and quantities · Supported oral expression for fam | 17 % | 0 % | 13.2 | — |
+| EN02 OA 07 | 4 | Food, jobs and city places · Reading familiar topics and fun | 17 % | 0 % | 9.0 | — |
+| EN02 OA 01 | 4 | Mini-dialogues · Listening to short rhymes, songs, stories a | 18 % | 17 % | 14.6 | — |
+| EN02 OA 10 | 3 | Voice for /s/ and /z/ · English sounds through chants, rhyme | 18 % | 14 % | 10.8 | — |
+| EN02 OA 12 | 1 | Safe personal information · Supported oral expression for fa | 18 % | 33 % | 15.9 | — |
+| LC02 OA LS02 | 2 | Reconocer contexto y fuente · Descripción respetuosa del med | 19 % | 38 % | 9.9 | — |
+| OR02 OA 04 | 2 | Alimentación sin culpa · Autocuidado, intimidad e informació | 19 % | 33 % | 10.7 | — |
+| EN02 OA 07 | 1 | Instructions and introductions · Reading familiar topics and | 20 % | 29 % | 8.7 | — |
+| EN02 OA 03 | 4 | Sounds /s/ and /z/ · Evidence of oral comprehension and Engl | 20 % | 20 % | 12.8 | — |
+| LE02 OA 24 | 4 | Explorar expresivamente | 20 % | 100 % | 10.4 | respuesta «depende» en ejercicio cerrado |
+| OR02 OA 04 | 5 | Plan de protección · Autocuidado, intimidad e información pe | 20 % | 40 % | 10.3 | — |
+| TE02 OA 01 | 3 | Comunicar con un boceto · Diseño de objetos tecnológicos par | 20 % | 43 % | 9.7 | — |
+| EN02 OA 12 | 5 | Actions now · Supported oral expression for familiar functio | 21 % | 0 % | 10.1 | — |
+| EN02 OA 02 | 2 | Abilities and feelings · Listening for familiar topics and c | 21 % | 29 % | 14.2 | — |
+| EN02 OA 02 | 4 | Places and locations · Listening for familiar topics and com | 21 % | 0 % | 13.5 | — |
+| LE02 OA 21 | 1 | Familias ce-ci y que-qui | 21 % | 0 % | 13.2 | — |
+| EN02 OA 07 | 3 | Animals and objects in place · Reading familiar topics and f | 21 % | 12 % | 13.9 | — |
+| LC02 OA 11 | 2 | Relaciones y significados · Naturaleza y actividades product | 21 % | 43 % | 11.8 | — |
+| EF02 OA 03 | 2 | Cooperar por una meta | 22 % | 0 % | 12.3 | — |
+| LC02 OA 10 | 3 | Continuidad y presente · Elementos espirituales, naturales y | 22 % | 12 % | 12.3 | — |
+| EN02 OA 07 | 2 | Ability, feeling and possession · Reading familiar topics an | 23 % | 0 % | 13.5 | — |
+| LC02 OA LS05 | 2 | Reconocer contexto y fuente · Recursos tecnológicos para con | 23 % | 25 % | 13.8 | — |
+| LE02 OA 21 | 3 | R fuerte en distintas posiciones | 24 % | 33 % | 10.0 | — |
+| EN02 OA 06 | 2 | General idea · Reading short English text types | 24 % | 20 % | 8.8 | — |
+| EN02 OA 14 | 3 | Locations · Image-supported English writing for familiar mea | 24 % | 14 % | 13.8 | — |
+| EN02 OA 02 | 3 | Possession and quantities · Listening for familiar topics an | 25 % | 14 % | 10.5 | — |
+| EN02 OA 08 | 2 | Connect known words · Reading strategies with prediction, im | 25 % | 12 % | 14.9 | — |
+| EN02 OA 11 | 3 | Ask for a word · Participation in brief English interactions | 25 % | 25 % | 10.3 | — |
+| LC02 OA LS05 | 4 | Responder sin apropiarse · Recursos tecnológicos para conoce | 25 % | 43 % | 13.6 | — |
+| OR02 OA 01 | 2 | Habilidades que se desarrollan · Características, habilidade | 25 % | 40 % | 10.0 | — |
+| TE02 OA 01 | 5 | Elegir con criterios · Diseño de objetos tecnológicos para n | 25 % | 43 % | 10.4 | — |
+| EN02 OA 04 | 3 | Images plus words · Listening strategies for meaning | 26 % | 20 % | 11.4 | — |
+| EN02 OA 01 | 3 | Story characters · Listening to short rhymes, songs, stories | 26 % | 25 % | 16.1 | — |
+| OR02 OA 03 | 4 | Una red de cuidado · Expresiones de afecto y cuidado con con | 26 % | 25 % | 14.6 | — |
+| LC02 OA 11 | 4 | Cuidado y reciprocidad · Naturaleza y actividades productiva | 27 % | 43 % | 13.1 | — |
+| LC02 OA LR04 | 1 | Activar memoria lingüística · Escritura de palabras y frases | 27 % | 29 % | 11.7 | — |
+| MU02 OA 02 | 3 | Imagen nacida del sonido | 27 % | 33 % | 13.4 | — |
+| EN02 OA 03 | 2 | Follow the sequence · Evidence of oral comprehension and Eng | 27 % | 0 % | 16.9 | — |
+| EN02 OA 01 | 2 | Song actions · Listening to short rhymes, songs, stories and | 28 % | 14 % | 14.7 | — |
+| LC02 OA LR05 | 3 | Relacionar lengua y experiencia · TIC y transcripción en con | 28 % | 33 % | 11.1 | — |
+| EN02 OA 14 | 4 | Actions now · Image-supported English writing for familiar m | 28 % | 43 % | 9.6 | — |
+| EN02 OA 09 | 2 | Drama from text · Responding to English reading | 29 % | 25 % | 14.7 | — |
+| EN02 OA 12 | 3 | Describe and prohibit · Supported oral expression for famili | 29 % | 33 % | 11.8 | — |
+| EN02 OA 10 | 4 | Chant with rhythm · English sounds through chants, rhymes an | 29 % | 29 % | 10.7 | — |
+| LC02 OA 14 | 4 | Cuidado y reciprocidad · Técnicas y producción vinculadas a  | 29 % | 29 % | 13.0 | — |
+| EN02 OA 06 | 4 | Known chunks · Reading short English text types | 30 % | 17 % | 8.4 | — |
+| EN02 OA 08 | 3 | Picture and text together · Reading strategies with predicti | 30 % | 29 % | 10.2 | — |
+| EN02 OA 08 | 5 | Retell with support · Reading strategies with prediction, im | 30 % | 14 % | 11.0 | — |
+| EN02 OA 11 | 1 | Classroom exchanges · Participation in brief English interac | 31 % | 33 % | 9.7 | — |
+| HI02 OA 16 | 2 | Usos diversos | 31 % | 0 % | 11.0 | — |
+| LE02 OA 07 | 2 | Datos que están y datos que infiero | 31 % | 33 % | 9.0 | — |
+| EN02 OA 13 | 2 | Complete from a word bank · Model-supported English writing | 31 % | 20 % | 11.7 | — |
+| LC02 OA 07 | 2 | Relaciones y significados · Historia local: pasado y present | 31 % | 43 % | 11.4 | — |
+| LC02 OA 17 | 3 | Continuidad y presente · Expresiones de arte indígena con pe | 31 % | 33 % | 12.6 | — |
+| LC02 OA 17 | 4 | Cuidado y reciprocidad · Expresiones de arte indígena con pe | 31 % | 33 % | 11.1 | — |
+| EN02 OA 08 | 4 | Reread with a question · Reading strategies with prediction, | 32 % | 17 % | 9.1 | — |
+| EN02 OA 05 | 3 | Connect safely · Responding personally and creatively to lis | 32 % | 33 % | 17.5 | — |
+| EN02 OA 14 | 1 | Identify and label · Image-supported English writing for fam | 32 % | 25 % | 11.9 | — |
+| EN02 OA 03 | 3 | Frequent expressions · Evidence of oral comprehension and En | 33 % | 14 % | 8.9 | — |
+| EN02 OA 05 | 2 | Act an action · Responding personally and creatively to list | 33 % | 40 % | 13.8 | — |
+| LE02 OA 03 | 2 | Construir una película mental | 33 % | 33 % | 11.9 | — |
+| TE02 OA 01 | 2 | Más de una idea · Diseño de objetos tecnológicos para necesi | 33 % | 40 % | 13.0 | — |
+| TE02 OA 02 | 3 | Orden y dependencias · Organización de tareas, materiales y  | 33 % | 67 % | 11.4 | respuesta «depende» en ejercicio cerrado |
+| TE02 OA 05 | 2 | Capas visuales simples · Dibujo digital para representar ide | 33 % | 43 % | 9.8 | — |
+| EF02 OA 11 | 3 | Implementos supervisados | 35 % | 100 % | 19.5 | — |
+| MA02 OA 03 | 1 | Más decenas decide | 38 % | 100 % | 20.7 | — |
+| MA02 OA 14 | 4 | Dar y seguir un recorrido | 50 % | 100 % | 12.3 | respuesta «depende» en ejercicio cerrado |
+| EF02 OA 07 | 1 | Muchas maneras de estar activo | 71 % | 75 % | 19.2 | — |
+| MA02 OA 02 | 2 | Del material al dibujo | 100 % | 100 % | 18.2 | — |

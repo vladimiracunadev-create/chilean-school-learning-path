@@ -189,7 +189,7 @@ L(
         ex("Una niña cuenta algo que le contó su abuelo de otro pueblo. ¿Qué debes preguntar antes de repetirlo?", "De quién es el relato y si se puede compartir", "Hay que respetar la fuente y el permiso."),
     ],
     context=[ex("Una vecina dice: «Mi abuelo criaba animales en la cordillera, hoy vivo en una ciudad y sigo siendo de mi pueblo». ¿Qué parte es cambio y cuál continuidad?", "Cambio: vive en ciudad. Continuidad: sigue siendo de su pueblo", "Se mudó, pero la pertenencia se mantiene.")],
-    selfcheck=[ex("¿Moverse quita la pertenencia?", "No", "Se puede cambiar de lugar y seguir perteneciendo."), ex("¿Los pueblos originarios existen hoy?", "Sí", "Viven y cambian hoy."), ex("Da un ejemplo de cambio.", "Llega un camino o se construye una ciudad", "Es algo nuevo en el lugar.")],
+    selfcheck=[ex("¿Moverse quita la pertenencia?", "No", "Se puede cambiar de lugar y seguir perteneciendo."), ex("En Lengua y Cultura: ¿Los pueblos originarios existen hoy?", "Sí", "Viven y cambian hoy."), ex("Da un ejemplo de cambio.", "Llega un camino o se construye una ciudad", "Es algo nuevo en el lugar.")],
     task=T("Lee este caso: «Tomás vive en una ciudad. Su familia viene de un pueblo originario del sur. Su abuela le cuenta historias de su tierra y él las dibuja.» Escribe un cambio y una continuidad del caso, y una frase respetuosa que le dirías a Tomás.",
            "Cambio: Tomás vive en la ciudad. Continuidad: sigue recibiendo las historias de su abuela. Frase: «Tu historia es importante».",
            ["identifica un cambio y una continuidad", "no niega la pertenencia", "usa lenguaje respetuoso"], ["dos frases", "frase para Tomás"], ["decir que Tomás ya no es de su pueblo"],

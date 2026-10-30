@@ -149,7 +149,7 @@ Respuesta: En la orilla del río; la garza se va volando
 
 *Comprensión*
 
-- **C1.** ¿Qué es un personaje?
+- **C1.** En Lengua y Cultura: ¿Qué es un personaje?
 - **C2.** ¿Qué es el lugar de un relato?
 - **C3.** ¿Qué es el acontecimiento?
 

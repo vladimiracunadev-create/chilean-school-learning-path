@@ -15,7 +15,7 @@ Las columnas de plantillas consideran sólo las clases **sin** cuaderno; una pla
 | Nivel | Clases con consigna | Con cuaderno | Plantillas de consigna distintas | Mayor repetición de una plantilla |
 |---|---:|---:|---:|---:|
 | 1.º básico | 691 | 691 | 0 | 0 |
-| 2.º básico | 721 | 20 | 81 | 149 |
+| 2.º básico | 721 | 721 | 0 | 0 |
 | 3.º básico | 757 | 0 | 85 | 157 |
 | 4.º básico | 811 | 0 | 85 | 161 |
 | 5.º básico | 920 | 0 | 162 | 166 |
@@ -27,7 +27,7 @@ Las columnas de plantillas consideran sólo las clases **sin** cuaderno; una pla
 | 3.º medio | 495 | 0 | 28 | 109 |
 | 4.º medio | 466 | 0 | 28 | 111 |
 
-**Total:** 8841 clases con consigna exacta; 711 con cuaderno del estudiante.
+**Total:** 8841 clases con consigna exacta; 1412 con cuaderno del estudiante.
 
 ## Qué se corrige y en qué orden
 

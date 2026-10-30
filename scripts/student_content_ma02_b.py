@@ -6,12 +6,12 @@ from student_lessons import arith, ex, register
 
 register(
     OA1, 2,
-    materials="Tabla de números del 300 al 360 en este cuaderno, 8 tapas o fichas por estudiante y lápiz de color.",
+    materials="Ocho tapas o fichas por estudiante, una recta numérica abierta dibujada en el cuaderno y lápiz de color. Los números de trabajo están escritos en cada ejercicio.",
     use="Aprenderé a contar de 5 en 5 hacia adelante y hacia atrás desde cualquier número. Sirve para contar monedas de $5, dedos de varias manos o puntos de un juego.",
     prior=["Sé contar de 2 en 2.", "Sé que un salto de 5 mueve el número cinco lugares."],
     explain=[
-        "Contar de 5 en 5 significa sumar 5 cada vez. Si partes en 320, dices 325, 330, 335 y 340. Observa las unidades: 5, 0, 5, 0. Cuando partes en un número que termina en 0 o en 5, las unidades sólo pueden ser 0 y 5.",
-        "Pero también puedes partir en un número distinto. Si partes en 468, dices 473, 478, 483 y 488. Ahora las unidades son 3, 8, 3, 8: se repiten dos cifras que están separadas por 5. Lo que se conserva siempre es el salto, no la terminación.",
+        "Contar de 5 en 5 significa sumar 5 cada vez. Si partes en 320, dices 325, 330, 335 y 340. Observa las unidades: 5, 0, 5, 0. Cuando partes en un número que termina en 0 o en 5, las unidades solo pueden ser 0 y 5.",
+        "Pero también puedes partir en un número distinto. Si partes en 468, dices 473, 478, 483 y 488. Ahora las unidades son 3, 8, 3, 8: se repiten solo dos cifras. Lo que siempre se conserva es el salto de 5.",
         "Para ir hacia atrás, resta 5: desde 335 dices 330, 325 y 320. Una forma de comprobar es juntar tapas de a cinco: cada paquete es un salto. Si avanzas algunos saltos y vuelves la misma cantidad de saltos, llegas al punto de inicio.",
     ],
     vocab=[("de 5 en 5", "sumar 5 en cada salto"), ("hacia atrás", "restar en cada salto"), ("paquete", "grupo de 5 tapas que representa un salto"), ("terminación", "la cifra de las unidades del número"), ("comprobar", "revisar con otro método que el resultado es correcto")],
@@ -24,7 +24,7 @@ register(
         {"wrong": "Contar hacia atrás desde 335 como 340, 345.", "why": "Se confunde retroceder con avanzar.", "fix": "Hacia atrás se resta 5: 335 − 5 = 330."},
     ],
     tiers={
-        "recovery": [fill(320, 5, 6, (1, 3, 5), "Se suma 5 en cada paso: 325, 335, 345."), fill(100, 5, 6, (2, 3), "100, 105, 110, 115: se suma 5."), fill(635, -5, 5, (1, 3), "Se resta 5 en cada paso: 630 y 620.")],
+        "recovery": [fill(320, 5, 6, (1, 3, 5), "Se suma 5 en cada paso: 325, 335, 345."), fill(965, 5, 6, (2, 3), "965, 970, 975, 980, 985: se suma 5 en cada paso."), fill(635, -5, 5, (1, 3), "Se resta 5 en cada paso: 630 y 620.")],
         "understand": [
             ex("Si cuento de 5 en 5 desde 210, ¿cuáles dos terminaciones se repiten?", "0 y 5", "210, 215, 220, 225: las unidades alternan 0 y 5."),
             ex("Si cuento de 5 en 5 desde 468, ¿qué terminaciones se repiten?", "3 y 8", "468, 473, 478, 483: se alternan 3 y 8."),
@@ -47,7 +47,7 @@ register(
     context=[ex("En una alcancía hay monedas de $5. Cuento de 5 en 5: 5, 10, 15, 20, 25, 30, 35, 40. ¿Cuánto dinero hay si conté 8 monedas?", "$40", "Ocho monedas de $5 hacen 8 saltos de 5, que llegan a 40.")],
     selfcheck=[ex("Completa: 410, 415, __, 425.", "420", "415 + 5 = 420."), ex("Resta 5 a 775.", "770", "775 − 5 = 770."), ex("¿De cuánto en cuánto va 90, 95, 100, 105?", "De 5 en 5", "Cada número es 5 más que el anterior.")],
     open_task={
-        "statement": "Parte en 273 y cuenta de 5 en 5 hasta tener siete números. Luego retrocede dos saltos y explica en una frase por qué las unidades se repiten.",
+        "statement": "Parte en 273 y cuenta de 5 en 5 hasta tener siete números. Luego, desde el último número, retrocede dos saltos y explica en una frase por qué las unidades se repiten.",
         "example": "273, 278, 283, 288, 293, 298, 303. Al retroceder dos saltos desde 303 quedo en 293. Las unidades se repiten (3 y 8) porque cada dos saltos sumo 10.",
         "criteria": ["escribe siete números", "mantiene el salto de 5", "retrocede correctamente", "explica la regularidad con sus palabras"],
         "evidence": ["secuencia escrita", "retroceso resuelto con resta", "frase de explicación"],
@@ -60,13 +60,13 @@ register(
 
 register(
     OA1, 3,
-    materials="Recta numérica abierta dibujada en el cuaderno; tabla con las filas 180–230 y 770–810; lápiz de color.",
-    use="Aprenderé a contar de 10 en 10 aunque los números cambien de centena. Sirve para contar billetes de $10 o paquetes de diez sin perderme al pasar de 199 a 200.",
+    materials="Recta numérica abierta dibujada en el cuaderno y lápiz de color. Los números de trabajo están escritos en cada ejercicio.",
+    use="Aprenderé a contar de 10 en 10 aunque los números cambien de centena. Sirve para contar monedas de $10 o paquetes de diez sin perderme al pasar de 199 a 200.",
     prior=["Sé contar de 10 en 10 hasta 100.", "Sé que en un número de tres cifras la primera cifra son las centenas."],
     explain=[
         "Contar de 10 en 10 significa sumar 10: aumenta en 1 la cifra de las decenas y las unidades no cambian. Desde 186 dices 196, 206, 216. La cifra del 6 se mantiene en todos los números.",
-        "Lo interesante ocurre cuando las decenas llegan a 9. En 196 hay 9 decenas. Si sumas 10 pasas a 206: las decenas vuelven a 0 y la centena sube de 1 a 2. Es igual que al pasar de 99 a 100, pero con una centena más.",
-        "Para hacerlo bien, mira siempre las tres cifras: unidades (no cambian), decenas (suben 1) y centenas (suben 1 sólo cuando las decenas pasan de 9 a 0). Hacia atrás ocurre al revés: de 206 retrocedes a 196 y la centena baja.",
+        "Lo interesante ocurre cuando las decenas llegan a 9. En 196 hay 9 decenas. Si sumas 10 pasas a 206: las decenas vuelven a 0 y la centena sube de 1 a 2. Es parecido a pasar de 99 a 100.",
+        "Para hacerlo bien, mira siempre las tres cifras: unidades (no cambian), decenas (suben 1) y centenas (suben 1 solo cuando las decenas pasan de 9 a 0). Hacia atrás ocurre al revés: de 206 retrocedes a 196 y la centena baja.",
     ],
     vocab=[("decena", "grupo de 10 unidades"), ("centena", "grupo de 100 unidades, o 10 decenas"), ("cruzar una centena", "pasar de un número como 196 a uno como 206"), ("conservar", "dejar igual"), ("recta abierta", "recta donde yo escribo los números que necesito")],
     worked=[
@@ -94,42 +94,42 @@ register(
             ex("Lucía dice que contar desde 495 de 10 en 10 da 505, 515, 525. ¿Tiene razón?", "Sí", "495 + 10 = 505, luego 515 y 525; las unidades se conservan en 5."),
         ],
         "challenge": [
-            ex("Parto en 885 y cuento de 10 en 10. ¿Cuál es el primer número que digo que sea 1.000 o más?", "1.005", "885 + 10 doce veces es 1.005; antes llegué a 995, que todavía es menor que 1.000."),
+            ex("Parto en 890 y cuento de 10 en 10 hasta llegar a 1.000. ¿Cuántos saltos de 10 doy?", "11 saltos", "De 890 a 900 hay 1 salto, y de 900 a 1.000 hay 10 saltos de 10 (10 decenas forman 100): 1 + 10 = 11."),
             ex("¿Cuántos saltos de 10 hay entre 396 y 456?", "6 saltos", "396, 406, 416, 426, 436, 446, 456: son 6 saltos de 10."),
         ],
     },
-    context=[ex("En una fábrica se arman fajos de 10 billetes. Hay 19 fajos y se agrega 1 más. ¿Cuántos billetes hay en total?", "200 billetes", "19 fajos son 190 billetes y un fajo más son 10: 190 + 10 = 200.")],
+    context=[ex("En una panadería se arman bolsas de 10 panes. Hay 19 bolsas llenas y se arma 1 bolsa más. ¿Cuántos panes hay en total?", "200 panes", "19 bolsas son 190 panes y una bolsa más son 10: 190 + 10 = 200.")],
     selfcheck=[ex("Completa: 286, 296, __, 316.", "306", "296 + 10 = 306."), ex("Resta 10 a 400.", "390", "400 − 10 = 390."), ex("¿Cuál de estas secuencias salta de 10 en 10: 590, 600, 610 o 590, 595, 600?", "590, 600, 610", "Cada número es 10 más que el anterior.")],
     open_task={
-        "statement": "Parte en 177 y cuenta de 10 en 10 hasta tener seis números, pasando por 200. Marca en tu secuencia el lugar donde cambia la centena y escribe una frase que explique por qué cambia.",
+        "statement": "Parte en 177 y cuenta de 10 en 10 hasta tener seis números, cruzando la centena 200. Marca en tu secuencia el lugar donde cambia la centena y escribe una frase que explique por qué cambia.",
         "example": "177, 187, 197, 207, 217, 227. La centena cambia entre 197 y 207, porque 197 tiene 9 decenas y al sumar 10 se forma una centena completa.",
         "criteria": ["escribe seis números", "mantiene el salto de 10", "marca el cambio de centena", "justifica con decenas y centenas"],
         "evidence": ["secuencia escrita", "marca visible del cambio", "frase con explicación"],
         "errors": ["no cambiar la centena", "cambiar las unidades"],
         "feedback": "Si la centena no cambió, pide dibujar 10 decenas en un rectángulo y reconocer que forman una centena; luego que reescriba la secuencia.",
     },
-    reinforce="Escribe en una tabla de 10 columnas los números del 770 al 870 contando de 10 en 10 y pinta la columna donde cambia la centena.",
+    reinforce="Escribe en una fila los números de 10 en 10 desde 770 hasta 870 y pinta el número donde cambia la centena.",
     extend="Descubre cuántos saltos de 10 se necesitan para ir de 50 a 1.000. Explica cómo lo calculaste sin contarlos uno por uno.",
 )
 
 register(
     OA1, 4,
-    materials="Cinco billetes dibujados de $100, recta numérica con marcas de 100 en 100 del 0 al 1.000 en el cuaderno y lápiz.",
-    use="Aprenderé a contar de 100 en 100 hacia adelante y hacia atrás hasta 1.000. Sirve para contar billetes o cajas grandes y para ubicarme en la recta.",
+    materials="Cinco monedas dibujadas de $100, recta numérica con marcas de 100 en 100 del 0 al 1.000 en el cuaderno y lápiz.",
+    use="Aprenderé a contar de 100 en 100 hacia adelante y hacia atrás hasta 1.000. Sirve para contar monedas de $100 o cajas grandes y para ubicarme en la recta.",
     prior=["Sé contar de 10 en 10 cruzando una centena.", "Sé que 10 decenas forman 1 centena."],
     explain=[
-        "Contar de 100 en 100 significa sumar 100. Cambia sólo la cifra de las centenas: desde 350 dices 450, 550, 650. Las decenas y las unidades quedan iguales.",
-        "Hacia atrás, restas 100: desde 650 dices 550, 450, 350. En la recta numérica, cada salto de 100 mueve el número una marca grande. Si llegas a 900 y sumas 100, llegas a 1.000, que se escribe con un punto: 1.000.",
-        "Una forma de comprobar es usar billetes: cinco billetes de $100 forman $500. Contar de 100 en 100 es lo mismo que contar billetes. Si tienes 350 y sumas 3 billetes más, llegas a 650.",
+        "Contar de 100 en 100 significa sumar 100. Cambia solo la cifra de las centenas: desde 350 dices 450, 550, 650. Las decenas y las unidades quedan iguales.",
+        "Hacia atrás, restas 100: desde 650 dices 550, 450, 350. En la recta numérica, cada salto de 100 mueve el número una marca grande. Si llegas a 900 y sumas 100, llegas a 1.000, que son diez centenas.",
+        "Una forma de comprobar es usar monedas de $100: cinco monedas de $100 forman $500. Contar de 100 en 100 es lo mismo que contar esas monedas. Si tienes $350 y sumas 3 monedas más de $100, llegas a $650.",
     ],
     vocab=[("centena", "100 unidades"), ("mil", "diez centenas, se escribe 1.000"), ("salto grande", "salto de 100 en la recta"), ("avanzar", "sumar al contar"), ("retroceder", "restar al contar")],
     worked=[
-        {"title": "Avanzar de 100 en 100", "problem": "Cuenta de 100 en 100 desde 350, cuatro números más.", "steps": ["350 + 100 = 450.", "450 + 100 = 550; 550 + 100 = 650.", "650 + 100 = 750.", "Reviso: sólo cambió la cifra de las centenas."], "answer": "350, 450, 550, 650, 750"},
-        {"title": "Detenerse en 1.000", "problem": "Parte en 720 y cuenta hacia adelante de 100 en 100 sin pasar de 1.000.", "steps": ["720 + 100 = 820.", "820 + 100 = 920.", "920 + 100 = 1.020, que pasa de 1.000, así que me detengo en 920.", "Escribo sólo los números que no pasan de 1.000."], "answer": "720, 820, 920"},
+        {"title": "Avanzar de 100 en 100", "problem": "Cuenta de 100 en 100 desde 350, cuatro números más.", "steps": ["350 + 100 = 450.", "450 + 100 = 550; 550 + 100 = 650.", "650 + 100 = 750.", "Reviso: solo cambió la cifra de las centenas."], "answer": "350, 450, 550, 650, 750"},
+        {"title": "Detenerse en 1.000", "problem": "Parte en 720 y cuenta hacia adelante de 100 en 100 sin pasar de 1.000.", "steps": ["720 + 100 = 820.", "820 + 100 = 920.", "920 + 100 = 1.020, que pasa de 1.000, así que me detengo en 920.", "Escribo solo los números que no pasan de 1.000."], "answer": "720, 820, 920"},
     ],
     mistakes=[
         {"wrong": "Contar 350, 360, 370 en vez de 450, 550.", "why": "Se usa el salto de 10 en vez del de 100.", "fix": "Un salto de 100 cambia la cifra de las centenas."},
-        {"wrong": "Escribir 1000 sin punto o como 100.", "why": "No se conoce la escritura de mil.", "fix": "Diez centenas forman mil: se escribe 1.000."},
+        {"wrong": "Escribir 100 para el número mil.", "why": "Se confunde cien con mil.", "fix": "Diez centenas forman mil: se escribe 1.000, un 1 y tres ceros."},
     ],
     tiers={
         "recovery": [fill(350, 100, 6, (1, 3), "Se suma 100: 450 y 650."), fill(0, 100, 6, (2, 4), "0, 100, 200, 300, 400, 500."), fill(900, -100, 5, (1, 3), "Se resta 100: 800 y 600.")],
@@ -140,7 +140,7 @@ register(
         ],
         "apply": [
             fill(127, 100, 6, (1, 3, 5), "127, 227, 327, 427, 527, 627."),
-            arith("Tengo 3 billetes de $100 y consigo 4 billetes más de $100. ¿Cuánto dinero tengo?", "300+400", "Son 7 billetes de $100 y llegan a 700."),
+            arith("Tengo 3 monedas de $100 y consigo 4 monedas más de $100. ¿Cuánto dinero tengo?", "300+400", "Son 7 monedas de $100 y llegan a $700."),
             ex("Parto en 680 y retrocedo tres saltos de 100. ¿En qué número quedo?", "380", "680 − 100 = 580; 580 − 100 = 480; 480 − 100 = 380."),
         ],
         "reason": [

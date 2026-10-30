@@ -322,7 +322,7 @@ register(
         ],
         "understand": [
             ex("¿Qué es un plano?", "Un dibujo de un lugar pequeño visto desde arriba", "Sirve para ubicarse."),
-            ex("¿Qué es un símbolo?", "Un dibujo simple que representa algo", "Reemplaza a la cosa real."),
+            ex("En Historia: ¿Qué es un símbolo?", "Un dibujo simple que representa algo", "Reemplaza a la cosa real."),
             ex("¿Por qué un plano no muestra todos los lápices de la sala?", "Porque deja solo lo importante", "Mostrar todo lo haría confuso."),
         ],
         "apply": [

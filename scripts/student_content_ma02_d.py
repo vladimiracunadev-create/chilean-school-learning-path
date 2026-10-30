@@ -17,7 +17,7 @@ def near(estimate: int, real: int) -> str:
 
 register(
     OA4, 1,
-    materials=f"Una fila de referencia de 10 puntos ({ROW}) y las colecciones dibujadas en este cuaderno; lápiz de color.",
+    materials=f"Una fila de referencia de 10 puntos ({ROW}), lápiz de color y las colecciones descritas en cada ejercicio.",
     use="Aprenderé a estimar cuántos objetos hay usando un grupo de 10 como medida. Sirve para decidir rápido cuántas cosas hay cuando no es posible contarlas una por una.",
     prior=["Sé contar de 10 en 10 hasta 100.", "Sé qué es una decena."],
     explain=[
@@ -43,7 +43,7 @@ register(
         "understand": [
             ex("¿Para qué sirve el grupo de 10 puntos cuando estimo?", "Es el referente con el que comparo", "Permite ver cuántas veces cabe en la colección."),
             ex("Una estimación dice «cerca de 40». ¿Significa que hay exactamente 40?", "No", "Estimar es acercarse sin contar uno por uno."),
-            ex("¿Es mejor estimar 4 filas o 40 puntos para una colección de 4 filas?", "40 puntos", "Cada fila vale 10; 4 filas valen 40 puntos."),
+            ex("Una colección ocupa 4 filas de 10 puntos. ¿Cuántos puntos hay, más o menos?", "Cerca de 40", "Cada fila vale 10; 4 filas valen 40 puntos."),
         ],
         "apply": [
             ex("Una colección ocupa más o menos 3 filas de 10 y 2 puntos. ¿Cuál es tu estimación?", "Cerca de 32", "30 + 2 = 32."),
@@ -56,7 +56,7 @@ register(
         ],
         "challenge": [
             ex("La colección es el doble de grande que otra que tiene 4 filas de 10. ¿Cuántos puntos estimas en la grande?", "Cerca de 80", "4 filas son 40; el doble de 40 es 80."),
-            ex("Estimé 60 puntos. Había 52. Otra persona estimó 40. ¿Quién se acercó más?", "Yo (60)", "60 − 52 = 8, y 52 − 40 = 12; 8 es menor que 12."),
+            ex("Estimé 60 puntos. Había 52. Otra persona estimó 40. ¿Quién se acercó más?", "La estimación de 60", "60 − 52 = 8, y 52 − 40 = 12; 8 es menor que 12."),
         ],
     },
     context=[arith("Se plantaron lechugas en 4 filas parejas de 10. En la última fila faltan 3. Estima cuántas lechugas se plantaron y calcula cuántas son realmente.", "4*10-3", "Cuatro filas de 10 son 40; si en una faltan 3, hay 40 − 3 = 37. Una estimación razonable era cerca de 40.")],
@@ -69,8 +69,8 @@ register(
         "errors": ["estimar sin referente", "confundir el número de filas con el de puntos"],
         "feedback": "Reconoce el uso del referente y pide que cuente de 10 en 10; si hubo diferencia grande, que identifique si se equivocó al mirar o al contar.",
     },
-    reinforce="Con 30 fichas, haz tres filas de 10 y vuelve a mirarlas apiladas para estimar sin contar.",
-    extend="Estima cuántos puntos habría si las filas fueran de 5 en vez de 10. Explica por qué cambia la estimación.",
+    reinforce="Con 30 fichas haz tres filas de 10. Luego júntalas en un montón y estima cuántas hay sin contar; después cuenta para comprobar.",
+    extend="Una colección ocupa 4 filas de 10. Si usaras filas de 5 como referente, ¿cuántas filas necesitarías? Explica por qué cambia el número de filas pero no la cantidad.",
 )
 
 register(
@@ -89,8 +89,8 @@ register(
         {"title": "Entre dos referentes", "problem": "Un vaso está lleno más que la mitad pero menos que lleno. ¿Entre qué números está la cantidad?", "steps": ["La mitad es 25 y lleno es 50.", "Más que la mitad: más de 25.", "Menos que lleno: menos de 50.", "Entonces está entre 25 y 50; podría estimar 40."], "answer": "Entre 25 y 50, por ejemplo cerca de 40"},
     ],
     mistakes=[
-        {"wrong": "Pensar que un vaso a la mitad tiene 5.", "why": "Se confunde la mitad con el 5.", "fix": "La mitad de 50 es 25; compara siempre con el referente de 50."},
-        {"wrong": "Comparar dos vasos de distinto tamaño.", "why": "Se pierde el referente.", "fix": "El referente sólo sirve con un vaso igual al de referencia."},
+        {"wrong": "Decir que un vaso a la mitad tiene 50 semillas.", "why": "Se confunde la mitad con el vaso lleno.", "fix": "La mitad de 50 es 25; compara siempre con el referente de 50."},
+        {"wrong": "Comparar dos vasos de distinto tamaño.", "why": "Se pierde el referente.", "fix": "El referente solo sirve con un vaso igual al de referencia."},
     ],
     tiers={
         "recovery": [
@@ -109,19 +109,19 @@ register(
             arith("Tengo 2 vasos como el de referencia: uno lleno (50 semillas) y otro a la mitad (25). ¿Cuántas semillas hay en total?", "50+25", "Un vaso lleno y uno a la mitad hacen 75."),
         ],
         "reason": [
-            ex("Un vaso a la mitad y otro con casi 50 se juntan. Lucía dice «hay 25». ¿Tiene razón?", "No; hay cerca de 70", "25 + casi 50 se acerca a 75, no a 25."),
-            ex("¿Por qué conviene usar 50 y 25 en vez de 7 para estimar?", "Porque son referentes conocidos y fáciles de comparar", "Con 25 y 50 es sencillo ver mitades y compararlas con la colección."),
+            ex("Un vaso a la mitad y otro con casi 50 se juntan. Lucía dice «hay 25». ¿Tiene razón?", "No; hay cerca de 75", "25 + casi 50 se acerca a 75, no a 25."),
+            ex("¿Por qué el 25 sirve como referente en un vaso de 50 semillas?", "Porque es la mitad de 50 y es fácil de comparar", "Con 25 y 50 es sencillo ver mitades y compararlas con la colección."),
         ],
         "challenge": [
             ex("Un frasco tiene la mitad de 50 y otro la mitad de 100. ¿Cuántas más tiene el segundo?", "25 más", "La mitad de 100 es 50, y 50 − 25 = 25."),
-            ex("Estimo 60 en una colección que tiene 50 y 25 semillas juntas. ¿Qué diferencia hay con la cantidad real?", "15", "50 + 25 = 75; 75 − 60 = 15."),
+            ex("Una colección tiene 50 semillas y 25 más. Estimé 60. ¿Qué diferencia hay con la cantidad real?", "15", "50 + 25 = 75; 75 − 60 = 15."),
         ],
     },
     context=[ex("En una caja caben 50 lápices cuando está llena. Ahora está llena hasta la mitad. ¿Cuántos lápices estimas? Si ponen 10 lápices más, ¿cuántos hay?", "25; 35", "La mitad de 50 es 25 y 25 + 10 = 35.")],
     selfcheck=[ex("La mitad de 100 es __.", "50", "100 ÷ 2 = 50."), ex("Un vaso a la mitad de 50 tiene cerca de __.", "25", "50 ÷ 2 = 25."), ex("¿Cuál es mayor: 25 o 50?", "50", "50 es mayor que 25.")],
     open_task={
-        "statement": "Dibuja dos vasos del mismo tamaño: uno lleno hasta arriba (50 semillas) y otro lleno hasta más o menos tres cuartos de su altura. Estima cuántas semillas tiene el segundo y explica con qué referente lo hiciste.",
-        "example": "El vaso lleno tiene 50. El otro llega a tres cuartos, un poco más que la mitad. Estimo cerca de 38, entre 25 y 50, porque 25 es la mitad y 50 es lleno.",
+        "statement": "Dibuja dos vasos del mismo tamaño: uno lleno hasta arriba (50 semillas) y otro lleno un poco más arriba de la mitad. Estima cuántas semillas tiene el segundo y explica con qué referente lo hiciste.",
+        "example": "El vaso lleno tiene 50. El otro llega un poco más arriba de la mitad. Estimo cerca de 35, entre 25 y 50, porque 25 es la mitad y 50 es lleno.",
         "criteria": ["dibuja vasos iguales", "usa 25 y 50 como referentes", "estima un número entre 25 y 50", "explica con palabras"],
         "evidence": ["dibujo", "estimación escrita", "explicación"],
         "errors": ["estimar un número fuera del rango 25–50", "no usar el vaso de referencia"],
@@ -133,7 +133,7 @@ register(
 
 register(
     OA4, 3,
-    materials=f"Dos dibujos de 30 puntos en este cuaderno: A) juntos en 3 filas ({ROW} {ROW} {ROW}) y B) esparcidos en una hoja; lápiz de color.",
+    materials=f"Dos colecciones de 30 puntos: A) juntos en 3 filas ({ROW} {ROW} {ROW}) y B) esparcidos en una hoja que dibujas tú; lápiz de color.",
     use="Aprenderé que la misma cantidad se ve distinta si está junta o separada. Sirve para no engañarme cuando estimo.",
     prior=["Sé estimar con grupos de 10 y con referentes de 25 y 50.", "Sé comparar dos cantidades."],
     explain=[
@@ -157,7 +157,7 @@ register(
             ex("Rodeé 4 grupos de 10 y no quedan sueltas. ¿Cuántas hay?", "40", "Cuatro grupos de 10 son 40."),
         ],
         "understand": [
-            ex("¿Cambia la cantidad si muevo los objetos de lugar sin quitar ni agregar?", "No", "La cantidad sólo cambia si agrego o quito."),
+            ex("¿Cambia la cantidad si muevo los objetos de lugar sin quitar ni agregar?", "No", "La cantidad solo cambia si agrego o quito."),
             ex("¿Por qué conviene rodear grupos de 10?", "Porque ayuda a contar y a estimar sin perderse", "Cada grupo vale 10 y se cuenta de 10 en 10."),
             ex("Una hoja tiene los objetos muy juntos y otra muy separados, con la misma cantidad. ¿En cuál se ve más espacio?", "En la de objetos separados", "Ocupan más espacio, pero no son más."),
         ],
@@ -167,7 +167,7 @@ register(
             arith("En el patio hay 2 grupos de 10 niños y 8 niños más. ¿Cuántos niños hay?", "2*10+8", "Dos grupos son 20 y 8 más hacen 28."),
         ],
         "reason": [
-            ex("Tomás dice que 25 fichas esparcidas son más que 25 fichas juntas. ¿Tiene razón?", "No", "Son 25 en ambos casos; sólo cambia el espacio que ocupan."),
+            ex("Tomás dice que 25 fichas esparcidas son más que 25 fichas juntas. ¿Tiene razón?", "No", "Son 25 en ambos casos; solo cambia el espacio que ocupan."),
             ex("Luz estimó mal porque estaban esparcidas. ¿Qué debe hacer para estimar mejor?", "Rodear grupos de 10", "Los grupos de 10 le permiten contar sin importar el espacio."),
         ],
         "challenge": [
@@ -191,21 +191,21 @@ register(
 
 register(
     OA4, 4,
-    materials="Tres colecciones dibujadas con su conteo real: A) 47 puntos, B) 62 puntos, C) 38 puntos; lápiz.",
+    materials="Tres colecciones descritas en los ejercicios: A) 47 puntos, B) 62 puntos, C) 38 puntos; lápiz.",
     use="Aprenderé a decidir si una estimación es razonable comparándola con el conteo real. Sirve para saber cuándo una estimación sirve y cuándo hay que revisar.",
     prior=["Sé estimar con referentes de 10, 25 y 50.", "Sé restar para encontrar una diferencia."],
     explain=[
         "Una estimación se evalúa mirando la diferencia con el número real. Si estimaste 50 y hay 47, la diferencia es 3: muy buena. Si estimaste 80 y hay 47, la diferencia es 33: se aleja mucho.",
-        "En este curso, diremos que una estimación es razonable si se aleja menos de 10 del número real. Si la diferencia es 10 o más, hay que mirar de nuevo el referente. No importa si estimaste de más o de menos; lo que mide es la distancia.",
+        "En esta clase usaremos una regla: una estimación es razonable si se aleja menos de 10 del número real. Si la diferencia es 10 o más, hay que mirar de nuevo el referente. No importa si estimaste de más o de menos; lo que mide es la distancia.",
         "Cuando una estimación no es razonable, hay que averiguar qué falló: ¿me equivoqué al contar filas? ¿Usé mal el referente? ¿Me dejé engañar por el espacio? Con esa pregunta se mejora la próxima estimación.",
     ],
     vocab=[("diferencia", "lo que separa a dos números; se calcula restando el menor del mayor"), ("razonable", "que se acerca lo suficiente"), ("de más", "estimar un número mayor que el real"), ("de menos", "estimar un número menor que el real"), ("revisar", "mirar de nuevo para encontrar el error")],
     worked=[
         {"title": "Calcular la diferencia", "problem": "Estimé 50 y al contar había 47. ¿Fue razonable?", "steps": ["Resto el menor al mayor: 50 − 47 = 3.", "3 es menor que 10.", "La estimación es razonable."], "answer": "Sí, razonable: 3 de diferencia"},
-        {"title": "Corregir una estimación lejana", "problem": "Estimé 80 y había 47. ¿Qué hago?", "steps": ["80 − 47 = 33.", "33 es mayor que 10, no es razonable.", "Reviso: usé 8 filas de 10, pero sólo hay unas 4 filas y 7 puntos.", "Corrijo: 4 filas de 10 y 7 puntos es cerca de 47."], "answer": "Se aleja demasiado; la nueva estimación es cerca de 47"},
+        {"title": "Corregir una estimación lejana", "problem": "Estimé 80 y había 47. ¿Qué hago?", "steps": ["80 − 47 = 33.", "33 es mayor que 10, no es razonable.", "Reviso: usé 8 filas de 10, pero solo hay unas 4 filas y 7 puntos.", "Corrijo: 4 filas de 10 y 7 puntos es cerca de 47."], "answer": "Se aleja demasiado; la nueva estimación es cerca de 47"},
     ],
     mistakes=[
-        {"wrong": "Restar el mayor al menor y obtener un negativo.", "why": "Se resta en el orden equivocado.", "fix": "Siempre resta el número menor al mayor para obtener la diferencia."},
+        {"wrong": "Calcular 47 − 50 para hallar la diferencia.", "why": "Se resta en el orden equivocado y no se puede.", "fix": "Siempre resta el número menor al mayor: 50 − 47 = 3."},
         {"wrong": "Decir que estimar más es mejor que estimar menos.", "why": "Se piensa que sobrepasar es seguro.", "fix": "Una estimación es buena cuando está cerca, sea mayor o menor."},
     ],
     tiers={
@@ -215,14 +215,14 @@ register(
             arith("Estimé 20 y había 38. ¿Cuál es la diferencia?", "38-20", "38 − 20 = 18."),
         ],
         "understand": [
-            ex("¿Una diferencia de 3 es pequeña o grande en este curso?", "Pequeña", "Menos de 10 es razonable."),
+            ex("¿Una diferencia de 3 es pequeña o grande según la regla de esta clase?", "Pequeña", "Menos de 10 es razonable."),
             ex("¿Una diferencia de 18 es razonable?", "No", "18 es mayor que 10."),
             ex("¿Importa si estimé de más o de menos?", "No importa; importa la diferencia", "La diferencia mide qué tan lejos estuve."),
         ],
         "apply": [
-            ex(f"Colección A tiene 47 puntos. Estimé 50. {near(50, 47)}. ¿Es razonable?", "Sí", "3 de diferencia es menos de 10."),
-            ex(f"Colección B tiene 62 puntos. Estimé 40. {near(40, 62)}. ¿Es razonable?", "No", "22 de diferencia es más de 10."),
-            ex(f"Colección C tiene 38 puntos. Estimé 30. {near(30, 38)}. ¿Es razonable?", "Sí", "8 de diferencia es menos de 10."),
+            ex("La colección A tiene 47 puntos. Estimé 50. Calcula la diferencia: ¿es razonable?", near(50, 47), "50 − 47 = 3 y 3 es menos de 10."),
+            ex("La colección B tiene 62 puntos. Estimé 40. Calcula la diferencia: ¿es razonable?", near(40, 62), "62 − 40 = 22 y 22 es más de 10."),
+            ex("La colección C tiene 38 puntos. Estimé 30. Calcula la diferencia: ¿es razonable?", near(30, 38), "38 − 30 = 8 y 8 es menos de 10."),
         ],
         "reason": [
             ex("Dos amigos estiman una colección que tiene 47 puntos. Uno dice 40 y el otro 55. ¿Quién se acercó más?", "El que dijo 40", "47 − 40 = 7 y 55 − 47 = 8; 7 es menor que 8."),
@@ -230,7 +230,7 @@ register(
         ],
         "challenge": [
             ex("Estimé 45 y la diferencia con el número real fue 6. ¿Qué dos números reales son posibles?", "39 o 51", "45 − 6 = 39 y 45 + 6 = 51."),
-            ex("Una estimación fue razonable con diferencia 9 y estimé 60. ¿Cuál es el número real más grande posible?", "69", "60 + 9 = 69."),
+            ex("Una estimación fue razonable (diferencia menor que 10) y estimé 60. ¿Cuál es el número real más grande posible?", "69", "La diferencia puede ser 9 como máximo: 60 + 9 = 69."),
         ],
     },
     context=[arith("En un cumpleaños se estimó que había 30 globos y luego se contaron 41. ¿Qué diferencia hubo? ¿Fue razonable la estimación?", "41-30", "41 − 30 = 11; 11 es mayor que 10, así que no fue razonable.")],
@@ -287,7 +287,7 @@ register(
             ex("Ema dice que 50 + 9 y 9 + 50 son números distintos. ¿Tiene razón?", "No", "Ambas dan 59; cambiar el orden de la suma no cambia el total."),
         ],
         "challenge": [
-            ex("Descompón 63 de otra forma, distinta a 60 + 3, y comprueba que sigue siendo 63.", "50 + 13", "50 + 13 = 63 porque 13 tiene una decena y 3 unidades."),
+            ex("Descompón 63 de otra forma, distinta a 60 + 3, y comprueba que sigue siendo 63.", "Por ejemplo 50 + 13 (o 40 + 23)", "50 + 13 = 63 porque 13 tiene una decena y 3 unidades."),
             ex("Un número tiene 5 decenas y la suma de sus cifras es 9. ¿Cuál es?", "54", "La cifra de las unidades es 9 − 5 = 4; el número es 54."),
         ],
     },
@@ -337,7 +337,7 @@ register(
         ],
         "apply": [
             ex("Escribe dos parejas de sumandos distintas para formar 52 que no sean 50 + 2.", "40 + 12 y 30 + 22", "40 + 12 = 52 y 30 + 22 = 52."),
-            arith("Si un sumando es 20, ¿cuál es el otro para formar 52?", "52-20", "52 − 20 = 32."),
+            arith("Si un sumando es 25, ¿cuál es el otro para formar 52?", "52-25", "52 − 25 = 27."),
             arith("Un sumando es 17 y el total es 41. ¿Cuál es el otro sumando?", "41-17", "41 − 17 = 24, y 17 + 24 = 41."),
         ],
         "reason": [
@@ -345,8 +345,8 @@ register(
             ex("Rodrigo dice que 25 + 10 y 10 + 25 no son el mismo total. ¿Tiene razón?", "No", "Las dos dan 35; el orden de los sumandos no cambia el resultado."),
         ],
         "challenge": [
-            ex("¿Cuántas parejas de dos números enteros positivos hay que sumen 6? Escríbelas (sin repetir el orden).", "3 parejas: 1 + 5, 2 + 4 y 3 + 3", "Probando 1, 2 y 3 como primer sumando aparece la pareja complementaria."),
-            ex("Encuentra una pareja para 41 con un sumando mayor que 30 y el otro menor que 10.", "35 + 6", "35 + 6 = 41."),
+            ex("¿Cuántas parejas de números mayores que 0 suman 6? Escríbelas sin repetir el orden (1 + 5 es lo mismo que 5 + 1).", "3 parejas: 1 + 5, 2 + 4 y 3 + 3", "Probando 1, 2 y 3 como primer sumando aparece la pareja complementaria."),
+            ex("Encuentra una pareja para 41 con un sumando mayor que 30 y el otro menor que 10.", "Por ejemplo 35 + 6", "35 + 6 = 41."),
         ],
     },
     context=[arith("Entre dos niñas juntaron 24 figuritas. Una tiene 9. ¿Cuántas tiene la otra? Comprueba sumando.", "24-9", "24 − 9 = 15 y 9 + 15 = 24.")],
@@ -360,7 +360,7 @@ register(
         "feedback": "Si una suma no da 41, que ajuste el segundo sumando con una resta; reconoce las estrategias de compensación.",
     },
     reinforce="Con 12 fichas, arma todas las parejas de montones posibles y anótalas.",
-    extend="Encuentra una regla que explique cuántas parejas hay para un total par y para un total impar. Prueba con 10 y con 11.",
+    extend="Con 10 fichas arma todas las parejas de montones que se puedan, sin repetir el orden. Haz lo mismo con 11 fichas. ¿Qué pareja aparece con 10 y no con 11? ¿Por qué?",
 )
 
 register(
@@ -394,7 +394,7 @@ register(
             ex("¿Coincide el dibujo " + bars(36) + " con 30 + 6?", "Sí", "Tres barras y seis cubos son 30 + 6."),
         ],
         "apply": [
-            ex("Dibuja 20 + 7 y escribe el número.", f"{bars(27)}; 27", "Dos barras y siete cubos."),
+            ex("Dibuja 30 + 4 y escribe el número.", f"{bars(34)}; 34", "Tres barras y cuatro cubos."),
             ex(f"Escribe la suma y el total del dibujo: {bars(45)}", "40 + 5 = 45", "Cuatro barras y cinco cubos."),
             arith("Un dibujo tiene 4 barras y 9 cubos. ¿Qué número es?", "4*10+9", "40 + 9 = 49."),
         ],
@@ -427,7 +427,7 @@ register(
     use="Aprenderé a encontrar la parte desconocida de una suma cuando conozco el total y una parte. Sirve para completar números que faltan en problemas.",
     prior=["Sé que dos partes forman un total.", "Sé restar para comparar números hasta 100."],
     explain=[
-        "A veces conocemos el total y sólo una de las partes. Por ejemplo: 30 + __ = 52. La parte que falta es lo que hay que agregar a 30 para llegar a 52. Se calcula restando: 52 − 30 = 22.",
+        "A veces conocemos el total y solo una de las partes. Por ejemplo: 30 + __ = 52. La parte que falta es lo que hay que agregar a 30 para llegar a 52. Se calcula restando: 52 − 30 = 22.",
         "Para comprobar, vuelve a sumar las partes: 30 + 22 = 52. Si coincide con el total, el número que encontraste es correcto. Esto es la idea del «todo» y las «partes»: parte + parte = todo, y todo − parte = otra parte.",
         "También puedes encontrar la parte que falta con una recta numérica: parte desde 30 y salta hasta 52. Das saltos de 10 (40, 50) y luego de 1 (51, 52): en total saltaste 22.",
     ],
@@ -452,7 +452,7 @@ register(
             ex("¿Cómo compruebo que 22 es la parte que falta en 30 + __ = 52?", "Sumo 30 + 22 y veo que da 52", "Si la suma coincide con el total, es correcto."),
         ],
         "apply": [
-            arith("Completa: 38 + __ = 70.", "70-38", "70 − 38 = 32."),
+            arith("Completa: 47 + __ = 81.", "81-47", "81 − 47 = 34."),
             arith("Completa: __ + 25 = 91.", "91-25", "91 − 25 = 66."),
             arith("En una bolsa hay 45 caramelos. Si 28 son rojos y los demás verdes, ¿cuántos son verdes?", "45-28", "45 − 28 = 17."),
         ],

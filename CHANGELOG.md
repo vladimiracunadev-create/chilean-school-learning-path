@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-30 · 2° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 721 clases de 2° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios): 701 nuevas en 20 bloques de trabajo y las 20 de Matemática OA 1 a 5 existentes.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió errores de respuesta, datos falsos o dudosos, ejercicios no enseñados, contenido de otros niveles y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes (por ejemplo la anécdota y el relato de hechos en Lenguaje, o los pueblos chango, rapa nui y huilliche en Historia).
+- Se reescribieron 50 enunciados de definición idénticos entre asignaturas. El análisis de alineación cubre ahora 1° y 2° básico, y la lista de contenidos para especialistas incluye 2° básico.
+- Siguen abiertos: obras y textos reales con derechos de autor (Lenguaje, Artes, Música), lengua y eventos reales de cada pueblo (educador tradicional), software educativo, y tres decisiones que dependen del programa oficial (reloj de 24 horas, 1 m = 100 cm, aristas y vértices). Sin revisión profesional humana.
+
 ## 2026-10-30 · 1° básico: vacíos de cobertura frente al OA cerrados
 
 - Inglés OA 3 (contraste /w/-/th/) y OA 7 (ocupaciones y comida), Tecnología OA 3 (fibras y plásticos) y OA 6 (libro digital, simulador, interactivo y creativo) se incorporaron a las clases existentes, reemplazando ejercicios repetitivos sin aumentar su número.

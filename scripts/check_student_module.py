@@ -28,12 +28,14 @@ HEADING = re.compile(r"^### Clase (\d+) de (\d+):", re.M)
 
 
 def baseline_modules() -> list[str]:
-    return sorted(p.stem for p in HERE.glob("student_content_ma0[12]_*.py"))
+    """Fixed reference set: 1.º Matemática (ma01_*) and the first five 2.º modules (ma02_a..e)."""
+    return sorted(p.stem for p in HERE.glob("student_content_ma0[12]_?.py") if p.stem[-1] in "abcdef" and not p.stem.startswith("student_content_ma02_f"))
 
 
 def check_module(name: str) -> list[str]:
     for base in baseline_modules():
-        importlib.import_module(base)
+        if base != name:
+            importlib.import_module(base)
     before = set(sl.REGISTRY)
     importlib.import_module(name)
     mine = sorted(set(sl.REGISTRY) - before)

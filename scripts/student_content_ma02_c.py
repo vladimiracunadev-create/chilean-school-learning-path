@@ -18,15 +18,15 @@ def cmp_ex(a: int, b: int, why: str) -> dict:
 
 register(
     OA2, 1,
-    materials=f"40 fichas o botones por pareja y hoja con las colecciones de este cuaderno. {KEY}",
+    materials=f"40 fichas, botones o garbanzos por pareja (o su dibujo). {KEY}",
     use="Aprenderé a contar colecciones grandes organizándolas en grupos de 10. Sirve para contar rápido y sin perder la cuenta cuando hay muchas cosas.",
     prior=["Sé contar objetos hasta 20.", "Sé que diez unidades forman una decena."],
     explain=[
-        "Cuando hay muchas cosas desordenadas, contar una por una es fácil de arruinar: puedes saltarte una o contar dos veces la misma. Una forma segura es formar grupos de 10 y contar cuántos grupos hay y cuántas sobran.",
+        "Cuando hay muchas cosas desordenadas, contar una por una es fácil de equivocar: puedes saltarte una o contar dos veces la misma. Una forma segura es formar grupos de 10 y contar cuántos grupos hay y cuántas quedan sueltas. Si te quedan 10 o más sueltas, con ellas puedes formar otro grupo de 10.",
         "Si agrupas 10 fichas, ya tienes una decena. Con tres grupos de diez y 4 fichas sueltas, cuentas: 10, 20, 30 y luego 31, 32, 33, 34. El número es 34. Las decenas se cuentan de 10 en 10 y las unidades sueltas de 1 en 1.",
-        "Después de contar, escribe el número con cifras: la cifra de la izquierda dice cuántas decenas y la de la derecha cuántas unidades sueltas. En 34, el 3 son tres decenas y el 4 son cuatro unidades. También puedes leerlo en palabras: treinta y cuatro.",
+        "Después de contar, escribe el número con cifras: la cifra de la izquierda dice cuántas decenas y la de la derecha cuántas unidades sueltas. En 34, el 3 son tres decenas y el 4 son cuatro unidades. También puedes leerlo en palabras: treinta y cuatro. Las decenas se dicen veinte, treinta, cuarenta y cincuenta; luego se agrega «y» y la unidad: cuarenta y dos.",
     ],
-    vocab=[("decena", "grupo de 10 objetos"), ("unidad", "un objeto suelto"), ("agrupar", "juntar objetos para contarlos más fácil"), ("colección", "conjunto de objetos que quiero contar"), ("cifra", "cada número que forma un número, como el 3 y el 4 en 34")],
+    vocab=[("decena", "grupo de 10 objetos"), ("unidad", "un objeto suelto"), ("agrupar", "juntar objetos para contarlos más fácil"), ("colección", "conjunto de objetos que quiero contar"), ("cifra", "cada símbolo de un número, como el 3 y el 4 en 34")],
     worked=[
         {"title": "Agrupar fichas", "problem": "Hay 3 grupos de 10 fichas y 4 fichas sueltas. ¿Cuántas fichas hay?", "steps": ["Cuento los grupos de 10: 10, 20, 30.", "Sigo con las sueltas: 31, 32, 33, 34.", "Escribo el número: 3 decenas y 4 unidades es 34.", "Lo leo: treinta y cuatro."], "answer": "34 fichas"},
         {"title": "Formar decenas en una colección desordenada", "problem": "Hay 27 botones revueltos. ¿Cuántos grupos de 10 puedo formar y cuántos quedan sueltos?", "steps": ["Con 27 botones separo grupos de 10: uno (10), dos (20).", "Con los 7 que quedan no alcanza a otro grupo.", "Tengo 2 grupos de 10 y 7 sueltos.", "Compruebo: 20 + 7 = 27."], "answer": "2 decenas y 7 unidades"},
@@ -71,7 +71,7 @@ register(
         "feedback": "Reconoce el orden de los grupos y pide que cuente de 10 en 10 señalando cada grupo; si invirtió las cifras, que lea su número en voz alta y lo compare con los grupos.",
     },
     reinforce="Con 20 fichas arma grupos de 10 y practica agregando 1, 2, 3… sueltas hasta llegar a 29.",
-    extend="Con 50 fichas, ¿cuántas formas distintas hay de repartirlas en dos montones de decenas completas? Escribe tus resultados.",
+    extend="Con 50 fichas haz dos montones, cada uno con grupos de 10 completos y sin fichas sueltas (por ejemplo, 10 y 40). Escribe todas las formas que encuentres.",
 )
 
 register(
@@ -82,7 +82,7 @@ register(
     explain=[
         "Un dibujo bien hecho dice la misma cantidad que el material. Para no dibujar 34 puntos uno a uno, dibujamos una barra por cada grupo de 10 y un punto por cada unidad suelta. Así 34 se dibuja con 3 barras y 4 puntos.",
         "Para leer un dibujo hacemos lo contrario: contamos las barras de 10 en 10 y luego los puntos de 1 en 1. El dibujo ▮ ▮ | ● ● ● ● muestra 20 + 4, que es 24.",
-        "Dibujar rápido tiene una regla: las barras se hacen todas iguales y los puntos se separan de las barras. Así se ve de inmediato cuántas decenas y cuántas unidades hay, y es más difícil equivocarse.",
+        "Dibujar rápido tiene una regla: las barras se hacen todas iguales y los puntos se separan de las barras. Así se ve de inmediato cuántas decenas y cuántas unidades hay, y es más difícil equivocarse. A veces se dibujan menos barras y más puntos: 30 también se puede dibujar con 2 barras y 10 puntos, porque 10 puntos valen lo mismo que una barra.",
     ],
     vocab=[("barra", "dibujo que vale 10"), ("punto o cubo", "dibujo que vale 1"), ("representar", "mostrar un número con material, dibujo o símbolo"), ("pictórico", "hecho con dibujos"), ("material concreto", "objetos que puedo tocar, como fichas o cubos")],
     worked=[
@@ -90,7 +90,7 @@ register(
         {"title": "Leer un dibujo", "problem": f"¿Qué número muestra este dibujo? {bars(41)}", "steps": ["Cuento las barras: 4 barras son 40.", "Cuento los puntos: hay 1.", "Sumo: 40 + 1 = 41.", "Verifico que todas las barras estén contadas."], "answer": "41"},
     ],
     mistakes=[
-        {"wrong": "Dibujar 7 puntos para 17.", "why": "Se dibuja sólo la cifra de las unidades.", "fix": "17 tiene 1 decena y 7 unidades: una barra y 7 puntos."},
+        {"wrong": "Dibujar 7 puntos para 17.", "why": "Se dibuja solo la cifra de las unidades.", "fix": "17 tiene 1 decena y 7 unidades: una barra y 7 puntos."},
         {"wrong": "Contar cada barra como 1.", "why": "No se recuerda que una barra representa un grupo de 10.", "fix": "Cuenta las barras de 10 en 10: 10, 20, 30; luego suma los puntos."},
     ],
     tiers={
@@ -106,8 +106,8 @@ register(
         ],
         "apply": [
             ex("Dibuja 38 con barras y puntos. Escribe cuántas barras y cuántos puntos usaste.", f"{bars(38)}; 3 barras y 8 puntos", "38 tiene 3 decenas y 8 unidades."),
-            ex(f"Cuenta este dibujo y escribe el número: {bars(47)}.", "47", "Cuatro barras son 40 y siete puntos son 7."),
-            ex("Tengo 45 fichas. Dibuja cómo las agruparías.", f"{bars(45)}", "Cuatro grupos de 10 y cinco sueltas."),
+            ex(f"Cuenta este dibujo y escribe el número: {bars(67)}.", "67", "Seis barras son 60 y siete puntos son 7."),
+            ex("Tengo 73 fichas. Dibuja cómo las agruparías.", f"{bars(73)}", "Siete grupos de 10 y tres sueltas."),
         ],
         "reason": [
             ex(f"Marta dibujó 5 puntos y 1 barra para el número 51. ¿Es correcto? {bars(15)}", "No; el dibujo muestra 15", "La barra vale 10 y los 5 puntos valen 5: 10 + 5 = 15."),
@@ -125,27 +125,27 @@ register(
         "example": "Elegí 36. Dibujé ▮ ▮ ▮ | ● ● ● ● ● ●. Tiene 3 decenas y 6 unidades: 30 + 6 = 36. Conté las barras de 10 en 10 y luego los puntos.",
         "criteria": ["el dibujo tiene la cantidad de barras y puntos correcta", "separa decenas y unidades", "explica el conteo con 10 en 10 y de 1 en 1"],
         "evidence": ["dibujo en el cuaderno", "frase con decenas y unidades", "explicación oral o escrita"],
-        "errors": ["usar sólo puntos", "no separar barras y puntos", "dibujar una barra por cada unidad"],
+        "errors": ["usar solo puntos", "no separar barras y puntos", "dibujar una barra por cada unidad"],
         "feedback": "Si el dibujo no coincide con el número, que cuente cada parte en voz alta y compare con la cifra; reconoce el esfuerzo de explicar.",
     },
     reinforce="Arma con cubos 14, 23 y 31 y dibuja cada uno con barras y puntos.",
-    extend="Dibuja el mismo número con 4 barras y puntos de dos maneras diferentes (por ejemplo, 45 con 3 barras y 15 puntos).",
+    extend="Dibuja 45 de dos maneras: con 4 barras y 5 puntos, y con 3 barras y 15 puntos. Explica por qué las dos valen lo mismo.",
 )
 
 register(
     OA2, 3,
-    materials=f"Tarjetas con los números 12, 27, 35, 46 y 50 en este cuaderno, lápiz y regla. {KEY}",
+    materials=f"Lápiz, regla y cuaderno cuadriculado. Los números de trabajo están escritos en cada ejercicio. {KEY}",
     use="Aprenderé a representar un mismo número de dos maneras y a leerlo en palabras. Sirve para entender un número cuando lo veo escrito y para decirlo bien.",
     prior=["Sé dibujar números con barras y puntos.", "Sé que un número tiene decenas y unidades."],
     explain=[
         "Un número puede mostrarse de muchas maneras: con cifras, con palabras, con material o con dibujo. Todas dicen lo mismo. Por ejemplo, 35 se escribe 35, se lee treinta y cinco, se arma con 3 grupos de 10 y 5 cubos, y se dibuja ▮ ▮ ▮ | ● ● ● ● ●.",
         "Para pasar del símbolo a dos representaciones, primero separa el número en decenas y unidades. En 35, el 3 está en el lugar de las decenas y el 5 en el de las unidades. Después elige dos maneras: por ejemplo, el dibujo y la expresión 30 + 5.",
-        "Leer los números en palabras tiene reglas. Del 10 al 15 son palabras especiales (diez, once, doce, trece, catorce, quince). Del 16 al 19 se dice dieciséis, diecisiete, dieciocho, diecinueve. Desde el 31 se usa «y»: treinta y uno, cuarenta y dos.",
+        "Leer los números en palabras tiene reglas. Del 10 al 15 son palabras especiales (diez, once, doce, trece, catorce, quince). Del 16 al 19 se dice dieciséis, diecisiete, dieciocho, diecinueve. El 20 es veinte, y del 21 al 29 se escribe en una sola palabra: veintiuno, veintidós, veintitrés. Las decenas siguientes son treinta, cuarenta, cincuenta, sesenta, setenta, ochenta y noventa. Desde el 31 se agrega «y» y la unidad: treinta y uno, cuarenta y dos, noventa y nueve.",
     ],
     vocab=[("símbolo", "el número escrito con cifras"), ("representación", "una manera de mostrar un número"), ("en palabras", "el número escrito con letras"), ("expresión aditiva", "suma que muestra las partes del número, como 30 + 5"), ("equivalente", "que vale lo mismo")],
     worked=[
         {"title": "Una cifra, dos representaciones", "problem": "Representa el número 46 de dos maneras.", "steps": ["46 tiene 4 decenas y 6 unidades.", f"Dibujo: {bars(46)}.", "Expresión: 40 + 6 = 46.", f"En palabras: {words(46)}."], "answer": f"{bars(46)}; 40 + 6; {words(46)}"},
-        {"title": "Decir un número", "problem": "Lee en voz alta el número 17 y 31 y escríbelos con letras.", "steps": ["17 está entre 16 y 19, por lo que se dice diecisiete.", "31 está sobre el 30, así que se dice treinta y uno.", "Reviso que en 31 aparece «y»."], "answer": f"{words(17)}; {words(31)}"},
+        {"title": "Decir un número", "problem": "Lee en voz alta el número 17 y 31 y escríbelos con letras.", "steps": ["17 está entre 16 y 19, por lo que se dice diecisiete.", "31 es 30 y 1, así que se dice treinta y uno.", "Reviso que en 31 aparece «y»."], "answer": f"{words(17)}; {words(31)}"},
     ],
     mistakes=[
         {"wrong": "Escribir «treinta cinco» sin la «y» para 35.", "why": "Se omite la unión que se usa desde el 31.", "fix": "Desde el 31 se dice «treinta y cinco»."},
@@ -158,8 +158,8 @@ register(
             ex("Escribe con letras el número 50.", words(50), "Cinco decenas se dicen cincuenta."),
         ],
         "understand": [
-            ex(f"Une cada representación con su número: A) {bars(27)} B) {bars(35)}. ¿Qué número muestra A?", "27", "Dos barras y siete puntos: 20 + 7."),
-            ex("¿Qué número escrito con cifras es «cuarenta y tres»?", "43", "Cuarenta son 4 decenas y tres son 3 unidades."),
+            ex(f"Mira estos dibujos. A) {bars(27)} B) {bars(35)}. ¿Qué número muestra A?", "27", "Dos barras y siete puntos: 20 + 7."),
+            ex("¿Qué número escrito con cifras es «sesenta y tres»?", "63", "Sesenta son 6 decenas y tres son 3 unidades."),
             ex("¿Cuál es la expresión aditiva de 38?", "30 + 8", "38 tiene 3 decenas y 8 unidades."),
         ],
         "apply": [
@@ -177,7 +177,7 @@ register(
         ],
     },
     context=[ex("El número de la camiseta de un jugador es 33. Escríbelo con palabras y dibújalo con barras y puntos.", f"{words(33)}; {bars(33)}", "33 tiene 3 decenas y 3 unidades; se dice treinta y tres.")],
-    selfcheck=[ex("Escribe con cifras «quince».", "15", "Una decena y cinco unidades."), ex("¿Qué número se dibuja con 4 barras y 8 puntos?", "48", "40 + 8 = 48."), ex("Escribe con palabras 44.", words(44), "Cuarenta son 4 decenas y cuatro son 4 unidades.")],
+    selfcheck=[ex("Escribe con cifras «quince».", "15", "Una decena y cinco unidades."), ex("¿Qué número se dibuja con 4 barras y 8 puntos?", "48", "40 + 8 = 48."), ex("Escribe con palabras 77.", words(77), "Setenta son 7 decenas y siete son 7 unidades.")],
     open_task={
         "statement": "Elige el número 28, el 39 o el 45. Muéstralo de tres maneras: con un dibujo de barras y puntos, con una expresión aditiva y con palabras. Explica en una frase cuál te resultó más fácil.",
         "example": f"Elegí 39. Dibujo: {bars(39)}. Expresión: 30 + 9. Palabras: {words(39)}. Me resultó más fácil el dibujo porque veo las decenas y las unidades.",
@@ -187,18 +187,18 @@ register(
         "feedback": "Pide leer las tres representaciones en voz alta y comprobar que dicen lo mismo; si una no coincide, que identifique cuál y la corrija.",
     },
     reinforce="Haz tarjetas con 10 números del 10 al 50 y escribe al reverso su nombre.",
-    extend="Descubre qué números tienen el mismo dibujo si se agregan o quitan 10 puntos y agrupan en una barra. Usa 26 como ejemplo.",
+    extend="Dibuja 26 con 2 barras y 6 puntos, y luego con 1 barra y 16 puntos. ¿Dicen el mismo número? Explica.",
 )
 
 register(
     OA2, 4,
-    materials=f"Tarjetas con 30, 40, 60, 100 y 0 en este cuaderno; fichas y cuadro de decenas y unidades. {KEY}",
+    materials=f"Fichas y un cuadro de decenas y unidades dibujado en el cuaderno. Los números de trabajo están escritos en cada ejercicio. {KEY}",
     use="Aprenderé qué significa el cero en un número y cómo se leen y representan los números con cero final. Sirve para no confundir 30 con 3 ni 0 con «nada».",
     prior=["Sé representar números con barras y puntos.", "Sé leer números hasta 50."],
     explain=[
         "El cero sirve para mostrar que no hay unidades en un lugar. En el número 30 hay 3 decenas y 0 unidades: tres barras y ningún punto. Si borras el 0, el número cambia a 3, que es muy distinto.",
-        "Los números con cero final se cuentan sólo en decenas: 10, 20, 30, 40, 50, 60, 70, 80, 90 y 100. Se leen diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa y cien. En el dibujo, son sólo barras.",
-        "El número 0 se usa cuando no hay nada que contar. Si tienes 0 fichas, no tienes ninguna. Tampoco hay que confundir 0 con otras cifras: 05 no se usa para escribir 5, porque el cero a la izquierda no agrega valor.",
+        "Los números con cero final se cuentan solo en decenas: 10, 20, 30, 40, 50, 60, 70, 80, 90 y 100. Se leen diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa y cien. En el dibujo, son solo barras.",
+        "El número 0 se usa cuando no hay nada que contar. Si tienes 0 fichas, no tienes ninguna. Después del 99 viene el 100, que se lee cien: son diez decenas y se escribe con tres cifras.",
     ],
     vocab=[("cero", "la cifra que indica que no hay nada en ese lugar"), ("cero final", "cero en el lugar de las unidades, como en 40"), ("cien", "diez decenas"), ("ninguno", "cantidad cero"), ("lugar", "posición de una cifra: unidades o decenas")],
     worked=[
@@ -222,11 +222,11 @@ register(
         ],
         "apply": [
             ex("Cuenta de 10 en 10 y completa: 10, 20, 30, __, 50, __.", "40 y 60", "Se suma 10 en cada paso."),
-            arith("Tengo 3 billetes de $10 y recibo 2 billetes de $10. ¿Cuánto dinero tengo?", "30+20", "Cinco billetes de $10 son $50."),
+            arith("Tengo 3 monedas de $10 y recibo 2 monedas de $10. ¿Cuánto dinero tengo?", "30+20", "Cinco monedas de $10 son $50."),
             ex("Representa 80 con barras y escribe cuántos puntos necesitas.", f"{bars(80)}; 0 puntos", "Ocho decenas son 80 y no hay unidades sueltas."),
         ],
         "reason": [
-            ex("Beto dice que 70 es lo mismo que 7. ¿Tiene razón?", "No", "70 son 7 decenas y 0 unidades; 7 son sólo 7 unidades."),
+            ex("Beto dice que 70 es lo mismo que 7. ¿Tiene razón?", "No", "70 son 7 decenas y 0 unidades; 7 son solo 7 unidades."),
             ex("Ema escribió «cincuenta» con un 5. Corrígela.", "50", "Cincuenta son 5 decenas y 0 unidades; falta el cero."),
         ],
         "challenge": [
