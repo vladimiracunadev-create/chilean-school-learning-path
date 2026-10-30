@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-29 · Cuaderno del estudiante: lote 5 (1° básico, Matemática OA 12 a 14)
+
+- Las 12 clases de `MA01 OA 12` a `MA01 OA 14` (igualdad y equilibrio, posición y lenguaje espacial, figuras 2D y cuerpos 3D) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.
+- 1° básico acumula 58 clases con cuaderno; siguen pendientes Matemática OA 15 a 20 y las otras diez asignaturas. Sin revisión profesional.
+
 ## 2026-10-29 · Cuaderno del estudiante: lote 4 (1° básico, Matemática OA 9 a 11)
 
 - Las 14 clases de `MA01 OA 09` a `MA01 OA 11` (problemas de sumar y restar, operaciones inversas y patrones) publican cuaderno del estudiante con ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios.
