@@ -4,24 +4,26 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 711 de 12.997 clases y experiencias publicadas tienen cuaderno del estudiante (5,5 %).
+**Resumen:** 711 de 8.841 clases desarrolladas tienen cuaderno del estudiante (8,0 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
-| Nivel | Clases con planificación | Clases con cuaderno | Ejercicios y preguntas | Ejemplos resueltos | Validación automática | Revisión profesional |
-|---|---:|---:|---:|---:|---|---|
-| 1.º básico | 1.034 | 691 | 11747 | 1382 | aprobada | pendiente |
-| 2.º básico | 1.072 | 20 | 340 | 40 | aprobada | pendiente |
-| 3.º básico | 1.136 | 0 | 0 | 0 | — | pendiente |
-| 4.º básico | 1.195 | 0 | 0 | 0 | — | pendiente |
-| 5.º básico | 1.340 | 0 | 0 | 0 | — | pendiente |
-| 6.º básico | 1.374 | 0 | 0 | 0 | — | pendiente |
-| 7.º básico | 1.275 | 0 | 0 | 0 | — | pendiente |
-| 8.º básico | 1.201 | 0 | 0 | 0 | — | pendiente |
-| 1.º medio | 1.209 | 0 | 0 | 0 | — | pendiente |
-| 2.º medio | 1.200 | 0 | 0 | 0 | — | pendiente |
-| 3.º medio | 495 | 0 | 0 | 0 | — | pendiente |
-| 4.º medio | 466 | 0 | 0 | 0 | — | pendiente |
+Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «experiencias integradas» (habilidades y actitudes) se muestran aparte y no cuentan como pendientes.
+
+| Nivel | Clases desarrolladas | Con cuaderno | Pendientes | Estado | Experiencias integradas | Ejercicios y preguntas | Ejemplos resueltos | Revisión profesional |
+|---|---:|---:|---:|---|---:|---:|---:|---|
+| 1.º básico | 691 | 691 | 0 | completo | 343 | 11.747 | 1.382 | pendiente |
+| 2.º básico | 721 | 20 | 701 | en curso | 351 | 340 | 40 | pendiente |
+| 3.º básico | 757 | 0 | 757 | sin iniciar | 379 | 0 | 0 | pendiente |
+| 4.º básico | 811 | 0 | 811 | sin iniciar | 384 | 0 | 0 | pendiente |
+| 5.º básico | 920 | 0 | 920 | sin iniciar | 420 | 0 | 0 | pendiente |
+| 6.º básico | 952 | 0 | 952 | sin iniciar | 422 | 0 | 0 | pendiente |
+| 7.º básico | 760 | 0 | 760 | sin iniciar | 515 | 0 | 0 | pendiente |
+| 8.º básico | 771 | 0 | 771 | sin iniciar | 430 | 0 | 0 | pendiente |
+| 1.º medio | 753 | 0 | 753 | sin iniciar | 456 | 0 | 0 | pendiente |
+| 2.º medio | 744 | 0 | 744 | sin iniciar | 456 | 0 | 0 | pendiente |
+| 3.º medio | 495 | 0 | 495 | sin iniciar | 0 | 0 | 0 | pendiente |
+| 4.º medio | 466 | 0 | 466 | sin iniciar | 0 | 0 | 0 | pendiente |
 
 ## Objetivos con cuaderno
 

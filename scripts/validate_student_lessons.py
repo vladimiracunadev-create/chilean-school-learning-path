@@ -71,6 +71,15 @@ def repeated_review_count() -> int:
     return count
 
 
+def developed_by_level() -> dict[str, int]:
+    """Lessons that carry a full teacher plan ("clases desarrolladas"), per level folder."""
+    counts: dict[str, int] = {}
+    for path in (ROOT / "curriculum").glob("*/*/*.md"):
+        level = path.relative_to(ROOT).parts[1]
+        counts[level] = counts.get(level, 0) + path.read_text(encoding="utf-8").count("**Recurso listo para usar:**")
+    return counts
+
+
 def check() -> list[str]:
     sl.load_all()
     errors: list[str] = []
@@ -122,7 +131,8 @@ def report() -> str:
         row["exercises"] += exercises
         row["worked"] += worked
         rows_oa.append((level, subject, oa_code, len(lessons), count, exercises, worked))
-    total_lessons = sum(v["lessons"] for v in per_level.values())
+    developed = developed_by_level()
+    total_dev = sum(developed.values())
     total_student = sum(v["student"] for v in per_level.values())
     out = [
         "# Cobertura real del material del estudiante",
@@ -131,17 +141,22 @@ def report() -> str:
         "",
         "Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.",
         "",
-        f"**Resumen:** {total_student} de {fmt_n(total_lessons)} clases y experiencias publicadas tienen cuaderno del estudiante ({f'{100 * total_student / total_lessons:.1f}'.replace('.', ',')} %).",
+        f"**Resumen:** {total_student} de {fmt_n(total_dev)} clases desarrolladas tienen cuaderno del estudiante ({f'{100 * total_student / total_dev:.1f}'.replace('.', ',')} %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.",
         "",
         "## Cobertura por nivel",
         "",
-        "| Nivel | Clases con planificación | Clases con cuaderno | Ejercicios y preguntas | Ejemplos resueltos | Validación automática | Revisión profesional |",
-        "|---|---:|---:|---:|---:|---|---|",
+        "Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «experiencias integradas» (habilidades y actitudes) se muestran aparte y no cuentan como pendientes.",
+        "",
+        "| Nivel | Clases desarrolladas | Con cuaderno | Pendientes | Estado | Experiencias integradas | Ejercicios y preguntas | Ejemplos resueltos | Revisión profesional |",
+        "|---|---:|---:|---:|---|---:|---:|---:|---|",
     ]
     for level in LEVEL_NAMES:
         row = per_level.get(level, {"lessons": 0, "student": 0, "exercises": 0, "worked": 0})
-        auto = "aprobada" if row["student"] else "—"
-        out.append(f"| {LEVEL_NAMES[level]} | {fmt_n(row['lessons'])} | {row['student']} | {row['exercises']} | {row['worked']} | {auto} | pendiente |")
+        dev = developed.get(level, 0)
+        pending = dev - row["student"]
+        state = "completo" if pending == 0 and dev else "en curso" if row["student"] else "sin iniciar"
+        integrated = row["lessons"] - dev
+        out.append(f"| {LEVEL_NAMES[level]} | {fmt_n(dev)} | {fmt_n(row['student'])} | {fmt_n(pending)} | {state} | {fmt_n(integrated)} | {fmt_n(row['exercises'])} | {fmt_n(row['worked'])} | pendiente |")
     out += ["", "## Objetivos con cuaderno", "", "| Nivel | Asignatura | OA | Clases con cuaderno | Clases del OA | Ejercicios y preguntas | Ejemplos resueltos |", "|---|---|---|---:|---:|---:|---:|"]
     for level, subject, oa_code, have, count, exercises, worked in rows_oa:
         out.append(f"| {LEVEL_NAMES[level]} | {subject} | {oa_code} | {have} | {count} | {exercises} | {worked} |")

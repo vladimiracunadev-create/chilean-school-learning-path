@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-30 · Panel de cobertura más claro
+
+- El panel de cobertura del material del estudiante usa ahora las **clases desarrolladas** como denominador y muestra «Pendientes» y «Estado» por nivel; las experiencias integradas de habilidades y actitudes se informan aparte. Con esto 1° básico figura como **completo** (691 de 691), en vez de parecer parcial por contar 343 experiencias integradas que no son clases propias.
+
 ## 2026-10-30 · Cuaderno del estudiante: 1° básico completo (11 asignaturas)
 
 - Las 691 clases desarrolladas de 1° básico, en sus once asignaturas (Lenguaje, Matemática, Ciencias Naturales, Historia, Artes Visuales, Música, Educación Física, Orientación, Tecnología, Inglés y Lengua y Cultura de los Pueblos Originarios), publican cuaderno del estudiante con explicación, ejemplos resueltos, ejercicios con solucionario y actividad abierta con criterios. El total del proyecto sube a 711 clases con cuaderno.
