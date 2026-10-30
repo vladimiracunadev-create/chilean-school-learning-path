@@ -141,7 +141,7 @@ reg(
     [("Quedarse con la primera fuente que aparece.", "Puede ser falsa o no responder tu pregunta.", "Compara con otra fuente y mira autor y fecha."), ("Copiar la frase entera y no decir de dónde viene.", "Es como decir que tú lo escribiste.", "Escríbelo con tus palabras y cita la fuente.")],
     ([E("Fuente A tiene autora y año. Fuente B no tiene ni autor ni fecha. ¿Cuál es más confiable?", "La A", "Tiene datos que permiten comprobar de dónde viene."),
       E("Dos fuentes dicen lo mismo. ¿El dato es más seguro o menos seguro?", "Más seguro", "Dos fuentes que coinciden se apoyan entre sí."),
-      E("¿Qué significa citar la fuente?", "Decir de qué texto y de qué autor sale el dato", "Así se reconoce de dónde viene la información.")],
+      E("En Lenguaje: ¿Qué significa citar la fuente?", "Decir de qué texto y de qué autor sale el dato", "Así se reconoce de dónde viene la información.")],
      [E("¿Por qué conviene mirar la fecha de una fuente?", "Para saber si la información es actual", "Algunos datos cambian con el tiempo."),
       E("Dos fuentes no coinciden. ¿Qué haces: elegir la que te gusta o buscar una tercera?", "Buscar una tercera", "Así se comprueba cuál dice lo correcto."),
       E("Texto: «Las abejas obreras recogen néctar». ¿Cuál lo dice con otras palabras: A) «Las abejas obreras recogen néctar», B) «Las abejas que trabajan juntan jugo dulce de flores»?", "B", "B cambia las palabras y mantiene la idea.")],

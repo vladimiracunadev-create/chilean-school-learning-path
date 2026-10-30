@@ -468,7 +468,7 @@ L(
         ex("En un museo hay 6 cerámicas y 4 tejidos. ¿Cuántas obras hay?", "10", "6 + 4 = 10."),
     ],
     context=[ex("Ficha de práctica: «Un telar de una familia mapuche». Escribe qué dato de autoría tiene la ficha.", "Una familia mapuche", "Nombra a quién lo hizo.")],
-    selfcheck=[ex("¿Qué es la autoría?", "Quién hizo la obra", "Respeta a su creador."), ex("¿Qué es la función?", "Para qué sirve", "Es su uso."), ex("¿Se inventa el significado?", "No", "Se pregunta a quien sabe.")],
+    selfcheck=[ex("En Lengua y Cultura: ¿Qué es la autoría?", "Quién hizo la obra", "Respeta a su creador."), ex("¿Qué es la función?", "Para qué sirve", "Es su uso."), ex("¿Se inventa el significado?", "No", "Se pregunta a quien sabe.")],
     task=T("Elige una ficha de práctica: a) cerámica con dibujos geométricos de los valles del Norte Chico (pueblo diaguita); b) tejido de lana del altiplano (pueblo aymara); c) escultura de piedra de una isla del Pacífico (pueblo rapa nui). Completa: autoría (pueblo), contexto (lugar), función (para qué sirve) y una pregunta para la comunidad sobre su sentido.",
            "Elegí a). Autoría: pueblo diaguita. Contexto: valles del Norte Chico. Función: guardar o servir alimentos. Pregunta: ¿qué cuentan los dibujos?",
            ["nombra el pueblo", "dice contexto y función", "no inventa el sentido"], ["ficha completa", "pregunta"], ["inventar el sentido"],

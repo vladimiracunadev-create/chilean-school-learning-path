@@ -298,7 +298,7 @@ register(
         "recovery": [
             ex(SITIO_A + " ¿Quién publica?", "La escuela de la comunidad", "El sitio lo dice."),
             ex(SITIO_B + " ¿Dice quién lo publica?", "No", "No lo informa."),
-            ex("¿Qué es un autor?", "Quien publica el recurso", "Es quien lo hizo o publicó."),
+            ex("En Lengua y Cultura: ¿Qué es un autor?", "Quien publica el recurso", "Es quien lo hizo o publicó."),
         ],
         "understand": [
             ex("¿Por qué conviene saber quién publica un recurso?", "Para saber si es confiable", "El autor da confianza."),
@@ -323,7 +323,7 @@ register(
     selfcheck=[
         ex("¿Todo lo de internet es correcto?", "No", "Hay errores y falta permiso."),
         ex("¿Qué revisas primero?", "Quién publica", "Es el autor."),
-        ex("¿A quién pides ayuda?", "Al profesor o educador tradicional", "Ellos orientan con conocimiento."),
+        ex("En Lengua y Cultura: ¿A quién pides ayuda?", "Al profesor o educador tradicional", "Ellos orientan con conocimiento."),
     ],
     open_task=task(
         "Con un adulto, mira cualquier video o sitio que ya tengan en casa (por ejemplo, un video de cuentos infantiles) y completa una ficha: quién lo publica, para qué lo publica y si dice la fecha. Si no puedes encontrar los datos, anótalo. Luego escribe una pregunta para el educador/a tradicional o la comunidad: ¿qué recursos digitales confiables podemos usar para escuchar la lengua de su pueblo?",

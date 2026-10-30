@@ -688,7 +688,7 @@ L(
     ],
     context=[ex("Tu profesora quiere mostrar un audio de la escuela. La ficha dice «Autoría: curso de 3.° básico; Permiso: sí». ¿Puede mostrarlo?", "Sí", "La ficha dice que hay permiso.")],
     selfcheck=[
-        ex("¿Qué es la autoría?", "quién hizo el recurso", "Es el dueño."),
+        ex("En Lengua y Cultura: ¿Qué es la autoría?", "quién hizo el recurso", "Es el dueño."),
         ex("¿Qué hago si la ficha no tiene permiso?", "pregunto a un adulto", "No lo uso sin permiso."),
         ex("¿Cuántos datos reviso de un recurso antes de usarlo?", "4", "Los datos son autoría, pueblo, propósito y permiso."),
     ],

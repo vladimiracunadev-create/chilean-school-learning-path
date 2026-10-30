@@ -450,7 +450,7 @@ L(
         ex("Una versión dice «hubo mucha lluvia» y otra «llovió poco». Para saber más sin elegir, ¿qué haces?", "Pregunto a una persona mayor", "No se decide solo; se pregunta."),
     ],
     context=[ex("Dos primos cuentan cómo llegaron las llamas a su valle. Uno dice que llegaron en verano, otro que en invierno. ¿Qué es lo mejor que puedes hacer?", "Anotar las dos versiones y preguntar a una persona mayor", "Así se respeta cada recuerdo.")],
-    selfcheck=[ex("¿Qué es una versión?", "Una manera de contar algo", "Es cómo lo cuenta una familia."), ex("Al comparar, ¿decimos cuál es mejor?", "No", "No se jerarquiza."), ex("¿Qué puedes buscar en dos versiones?", "Lo que se parece y lo que cambia", "Eso es comparar.")],
+    selfcheck=[ex("En Lengua y Cultura: ¿Qué es una versión?", "Una manera de contar algo", "Es cómo lo cuenta una familia."), ex("Al comparar, ¿decimos cuál es mejor?", "No", "No se jerarquiza."), ex("¿Qué puedes buscar en dos versiones?", "Lo que se parece y lo que cambia", "Eso es comparar.")],
     task=T("Lee estas dos versiones inventadas. Versión 1: «Una niña lleva agua del río a su casa por la mañana». Versión 2: «Una niña lleva agua de la fuente a su casa por la tarde». Escribe una cosa que se mantiene y dos que cambian. No digas cuál es mejor.",
            "Se mantiene: una niña lleva agua a su casa. Cambian: de dónde saca el agua (río o fuente) y la hora (mañana o tarde).",
            ["dice lo que se mantiene", "dice lo que cambia", "no jerarquiza"], ["tres frases"], ["decir que una versión es mejor"],

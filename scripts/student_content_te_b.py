@@ -47,7 +47,7 @@ reg(
         ("¿Quién debe estar cerca cuando cortas?", "Un adulto", "Puede ayudar si hace falta."),
     ],
     C=[
-        ("¿Para qué sirve la lista de materiales?", "Para revisar que tengo todo antes de empezar", "Evita interrupciones y olvidos."),
+        ("En Tecnología: ¿Para qué sirve la lista de materiales?", "Para revisar que tengo todo antes de empezar", "Evita interrupciones y olvidos."),
         ("¿Por qué se despeja la mesa antes de construir?", "Para tener espacio y evitar accidentes", "Menos cosas, menos riesgos."),
         ("¿Qué haces con las herramientas al terminar?", "Las guardas en su lugar", "Es parte del orden y la seguridad."),
     ],

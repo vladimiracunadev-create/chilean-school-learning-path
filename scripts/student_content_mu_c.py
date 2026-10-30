@@ -402,7 +402,7 @@ register(
         ],
     },
     context=[ex("Mañana presentas en el curso. Ensayaste una vez y notaste que te adelantas. ¿Qué haces hoy?", "Ensayo marcando el pulso con el pie", "Un objetivo claro permite mejorar.")],
-    selfcheck=[ex("¿Qué es una pauta?", "Una lista de criterios", "Sirve para revisar."), ex("¿Cuántos aspectos mejoras primero?", "Uno", "Un aspecto a la vez."), ex("En un ensayo, ¿qué llamamos evidencia?", "Algo que se oye o se ve", "Prueba la mejora del ensayo.")],
+    selfcheck=[ex("En Música: ¿Qué es una pauta?", "Una lista de criterios", "Sirve para revisar."), ex("¿Cuántos aspectos mejoras primero?", "Uno", "Un aspecto a la vez."), ex("En un ensayo, ¿qué llamamos evidencia?", "Algo que se oye o se ve", "Prueba la mejora del ensayo.")],
     open_task=task(
         f"Ensaya el patrón {P(TA, TA, TT, SIL)} con un tarro y cuchara dos veces. Antes elige un aspecto de la pauta: (a) pulso parejo, (b) silencio en su lugar, (c) empezar y terminar con señal. Anota cómo te fue en el primer intento y en el segundo, y qué evidencia usaste.",
         "Elegí (a). En el primer intento me adelanté en el tercer pulso. En el segundo marqué con el pie y coincidió. La evidencia fue que mis golpes coincidían con los pasos.",

@@ -315,7 +315,7 @@ register(
     },
     context=[ex("Visitas una feria de artesanía con tu familia. Quieres comprar un tejido y preguntar quién lo hizo. ¿Qué dato le pides a la persona que vende?", "Quién lo hizo y de qué pueblo es", "Autoría y pueblo son los datos importantes.")],
     selfcheck=[
-        ex("¿Qué es la autoría?", "Quién creó una obra", "Es la persona que hizo la obra."),
+        ex("En Lengua y Cultura: ¿Qué es la autoría?", "Quién creó una obra", "Es la persona que hizo la obra."),
         ex("¿Qué tres datos anotas de una expresión de arte?", "Tipo de arte, pueblo y autoría", "Dicen qué es y de dónde viene."),
         ex("¿Qué haces si no sabes el pueblo de una obra?", "Pregunto", "No se inventa."),
     ],
@@ -377,7 +377,7 @@ register(
     },
     context=[ex("En una feria ves una figura en un tejido y piensas que es bonita para tu cuaderno. ¿Cómo actúas con respeto?", "Preguntar si puedes usarla y cómo se llama", "Pides permiso y reconoces a quien la creó.")],
     selfcheck=[
-        ex("¿Qué es una convención?", "Un acuerdo sobre lo que algo significa", "Es un acuerdo."),
+        ex("En Lengua y Cultura: ¿Qué es una convención?", "Un acuerdo sobre lo que algo significa", "Es un acuerdo."),
         ex("¿Quién explica el significado de un símbolo de un pueblo?", "La comunidad", "Ella sabe lo que quiere decir su obra."),
         ex("¿Qué haces con un símbolo restringido?", "No lo copio", "No se usa sin permiso."),
     ],

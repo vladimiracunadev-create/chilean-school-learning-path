@@ -59,7 +59,7 @@ register(
     },
     context=[ex("Llegas al parque con tus primos y quieren jugar de inmediato a pillarse. ¿Qué propones: A) empezar a correr al máximo, B) un calentamiento de 3 minutos como «El espejo», C) sentarse?", "B", "Calentar primero previene lesiones.")],
     selfcheck=[
-        ex("¿Qué es una articulación?", "Parte donde se doblan los huesos", "Como la rodilla o el codo."),
+        ex("En Educación Física: ¿Qué es una articulación?", "Parte donde se doblan los huesos", "Como la rodilla o el codo."),
         ex("¿Cuánto dura, más o menos, un buen calentamiento?", "3 minutos", "Da tiempo de preparar el cuerpo."),
         ex("Si duele algo, ¿sigues o avisas?", "Avisas", "El dolor es una alerta."),
     ],

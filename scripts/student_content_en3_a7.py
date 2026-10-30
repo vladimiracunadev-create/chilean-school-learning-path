@@ -247,7 +247,7 @@ lesson(
     ],
     [
         ("¿Qué significa «both»?", "Los dos", "Both une a dos personas."),
-        ("¿Qué es un estereotipo?", "Una idea fija de que solo cierto tipo de personas puede hacer algo", "Es una idea falsa sobre las personas."),
+        ("En Inglés: ¿Qué es un estereotipo?", "Una idea fija de que solo cierto tipo de personas puede hacer algo", "Es una idea falsa sobre las personas."),
         ("¿Por qué conviene evitar los estereotipos?", "Porque cualquier persona puede tener cualquier trabajo", "Respetan a todas las personas."),
     ],
     [

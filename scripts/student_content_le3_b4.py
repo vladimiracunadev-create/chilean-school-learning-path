@@ -32,7 +32,7 @@ reg(
     ([E("¿Qué formato sirve para comunicarte con una sola persona: una carta o un afiche?", "Una carta", "La carta tiene destinatario."),
       E("¿Qué formato enseña pasos para hacer algo: instrucciones o reporte?", "Instrucciones", "Muestran el orden de los pasos."),
       E("¿Qué formato avisa a muchas personas con letras grandes: carta o afiche?", "Afiche", "Se lee de lejos.")],
-     [E("¿Qué es el propósito de un texto?", "Lo que quiero lograr al escribirlo", "Define qué formato conviene."),
+     [E("En Lenguaje: ¿Qué es el propósito de un texto?", "Lo que quiero lograr al escribirlo", "Define qué formato conviene."),
       E("¿Qué formato cuenta lo que hiciste y observaste en una experiencia?", "Reporte", "Informa lo realizado y lo visto."),
       E("¿Por qué un afiche no debe tener un párrafo largo?", "Porque no se puede leer de lejos", "Debe ser breve y claro.")],
      [E("Quieres contarle a un amigo que vive lejos cómo te fue en el colegio. ¿Qué formato usas?", "Carta", "Es un mensaje para una persona."),

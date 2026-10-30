@@ -1,0 +1,223 @@
+"""Cuaderno del estudiante, 4.º básico Historia, Geografía y Ciencias Sociales: OA 18 (opinar y argumentar con fundamentos)."""
+from __future__ import annotations
+
+from student_content_hi4_b import M, W, tiers
+from student_content_ma01_b import task
+from student_lessons import arith, ex, register
+
+OA18 = "HI04 OA 18"
+
+register(
+    OA18, 1,
+    materials="Este cuaderno y un lápiz. Los temas y frases están escritos en los ejercicios.",
+    use="Aprenderé a distinguir un hecho de una opinión y a dar mi opinión con una razón. Sirve para participar en conversaciones de la clase con ideas bien apoyadas.",
+    prior=["Sé que las personas pueden pensar distinto.", "Sé expresar una idea con una oración."],
+    explain=[
+        "Un hecho es algo que se puede comprobar: «El río Mapocho pasa por Santiago» o «Mi curso tiene 30 estudiantes». Una opinión es lo que una persona piensa o siente sobre algo: «El recreo debería ser más largo». Una opinión puede ser distinta de la de otras personas y no se comprueba como un hecho, pero se puede apoyar con razones.",
+        "Opinar es decir lo que pienso. Argumentar es dar razones que apoyan mi opinión. Una frase que opina y argumenta tiene dos partes: la opinión y la razón, unidas por «porque». Por ejemplo: «Creo que debemos cuidar el patio porque todos lo usamos». Si solo digo «Creo que sí» o «Porque sí», no estoy argumentando, porque no doy ninguna razón.",
+        "Podemos opinar sobre temas de la asignatura, como los derechos de los niños o el cuidado del ambiente, y sobre otros temas de la vida del curso. Antes de opinar, ubico el tema: de qué se trata, dónde ocurre y a quiénes afecta. Así mi opinión es clara y no sale de la nada.",
+    ],
+    vocab=[("hecho", "algo que se puede comprobar"), ("opinión", "lo que una persona piensa o siente sobre algo"), ("argumentar", "dar razones que apoyan una opinión"), ("razón", "motivo que explica por qué pienso algo"), ("tema", "asunto del que se habla")],
+    worked=[
+        W("Hecho u opinión", "Frase: «El patio de mi escuela es el más bonito». ¿Es hecho u opinión?",
+          ["Pregunto si se puede comprobar.", "«Más bonito» depende de lo que cada uno piensa.", "No se comprueba con un dato."], "Es una opinión"),
+        W("Armar una frase argumentada", "Tema: usar el patio. Opinión: debemos cuidarlo. Razón: todos lo usamos. Une las dos partes.",
+          ["Escribo la opinión.", "Agrego «porque».", "Escribo la razón."], "Debemos cuidar el patio porque todos lo usamos"),
+    ],
+    mistakes=[
+        M("Decir «porque sí» como razón.", "No explica nada.", "Da un motivo concreto que otros puedan entender."),
+        M("Creer que una opinión es un hecho si la digo con seguridad.", "Una opinión no se comprueba con datos.", "Pregúntate si se puede comprobar."),
+    ],
+    tiers=tiers(
+        [ex("«Mi curso tiene 30 estudiantes», ¿es un hecho o una opinión?", "Un hecho", "Se puede contar."),
+         ex("«La clase de Historia es la más entretenida», ¿es un hecho o una opinión?", "Una opinión", "Depende de lo que cada uno piensa."),
+         ex("¿Qué palabra une la opinión con su razón: «porque» o «pero»?", "Porque", "Introduce la razón.")],
+        [ex("¿Qué diferencia hay entre opinar y argumentar?", "Opinar es decir lo que pienso y argumentar es dar razones", "Argumentar agrega razones."),
+         ex("¿Por qué «porque sí» no es una buena razón?", "Porque no explica ningún motivo", "No ayuda a que otros entiendan."),
+         ex("¿Qué se hace antes de opinar sobre un tema?", "Ubicar de qué trata, dónde ocurre y a quiénes afecta", "Así la opinión es clara.")],
+        [ex("Elige la frase argumentada: A) «Hay que reciclar.» B) «Hay que reciclar porque así se produce menos basura y se cuida el ambiente.»", "B", "Tiene opinión y razón."),
+         ex("Frase: «El río Mapocho pasa por Santiago». ¿Se puede comprobar en un mapa de Chile? Responde sí o no.", "Sí", "Es un hecho."),
+         ex("Une la opinión «Debemos respetar los turnos» con una razón: A) «porque todos tienen derecho a jugar» o B) «porque sí».", "A", "Da un motivo concreto.")],
+        [ex("Lola dice: «Tengo razón porque lo digo con mucha fuerza». ¿Qué le respondes?", "Decirlo fuerte no es una razón", "Se necesita un motivo."),
+         ex("Pedro dice: «Mi opinión es un hecho porque todos la dicen». ¿Qué error tiene?", "Una opinión no se comprueba con un dato aunque muchos la repitan", "Un hecho se puede comprobar.")],
+        [ex("Completa con una razón: «Creo que el curso debe ser ordenado porque ______».", "Por ejemplo: así encontramos las cosas con facilidad", "La razón debe explicar el motivo."),
+         ex("Ordena para armar una frase argumentada: A) porque todos la usamos, B) debemos cuidar la plaza, C) escribir el tema.", "C, B, A", "Primero el tema, luego la opinión y al final la razón.")],
+    ),
+    context=[ex("En una reunión de curso alguien dice: «El recreo debería ser más largo». Otra persona pregunta «¿por qué?». ¿Qué le falta a la frase para estar argumentada?", "Una razón que explique por qué", "Una opinión necesita apoyarse con una razón.")],
+    selfcheck=[ex("¿Qué es un hecho?", "Algo que se puede comprobar", "Se diferencia de una opinión."), ex("¿Qué es argumentar?", "Dar razones que apoyan una opinión", "Es la idea central de la clase."), ex("¿Una frase con «porque sí» está argumentada?", "No", "No da una razón.")],
+    open_task=task("Elige un tema: A) uso de los juegos del patio, B) cuidado de las plantas del colegio, C) tiempo de lectura en la sala. Escribe una frase con tu opinión y una razón unidas por «porque». Luego escribe un hecho relacionado con el tema.", "Tema A. Creo que debemos esperar el turno porque todos queremos jugar. Hecho: en el patio hay dos columpios.", ["opinión y razón con «porque»", "un hecho comprobable", "tema ubicado"], ["frase argumentada y un hecho"], ["usar «porque sí»", "poner una opinión como hecho"], "Lee tu frase a una persona y pídele que diga cuál es la razón."),
+    reinforce="Di una opinión sobre tu comida favorita y da una razón.",
+    extend="Escribe dos opiniones distintas sobre el mismo tema y una razón para cada una.",
+)
+
+register(
+    OA18, 2,
+    materials="Este cuaderno y un lápiz. Los textos breves y los datos están escritos en los ejercicios.",
+    use="Aprenderé a usar fuentes para apoyar una opinión y a revisar si una razón es confiable. Sirve para que mis argumentos tengan evidencia.",
+    prior=["Sé distinguir hechos de opiniones.", "Sé dar una razón con «porque»."],
+    explain=[
+        "Una razón es más fuerte cuando se apoya en evidencia. La evidencia puede ser un dato, un ejemplo, la observación de algo o lo que dice una fuente confiable. Por ejemplo: «El patio debe tener más basureros porque contamos 32 papeles en el suelo después del recreo». Tiene opinión, razón y un dato.",
+        "Hay razones débiles. «Porque todos lo dicen» no explica nada. «Porque me gusta» es un gusto personal. «Porque lo dijo alguien famoso» no es una razón si no sabemos por qué tiene razón. Una razón débil no sirve para convencer a otros. Una razón fuerte es concreta, se puede comprobar y se relaciona con el tema.",
+        "Cuando usamos una fuente, preguntamos por su procedencia: ¿quién la escribió?, ¿para qué?, ¿cuándo? Un informe de la escuela sobre el uso de la biblioteca es más confiable para hablar de la biblioteca que un comentario sin autor. También hay que decir de dónde sacamos el dato, para que otros puedan comprobarlo.",
+    ],
+    vocab=[("evidencia", "dato o señal que apoya una razón"), ("ejemplo", "caso concreto que muestra una idea"), ("razón débil", "motivo que no explica ni se puede comprobar"), ("confiable", "que se puede creer porque se puede comprobar"), ("procedencia", "quién hizo la fuente, cuándo y para qué")],
+    worked=[
+        W("Razón fuerte o débil", "Opinión: «Deberíamos tener más tiempo de lectura». Razón A: «Porque todos lo dicen». Razón B: «Porque en una encuesta, 18 de 25 estudiantes dijeron que quieren leer más». ¿Cuál es más fuerte?",
+          ["Busco la que tiene un dato.", "B tiene una encuesta.", "A no explica nada."], "La razón B"),
+        W("Preguntar por la fuente", "Alguien dice: «En la escuela hay poca basura». No dice de dónde sacó eso. ¿Qué pregunta conviene hacer?",
+          ["No sé quién lo dijo ni cómo lo supo.", "Pregunto por la procedencia.", "¿De dónde sacaste ese dato?"], "¿De dónde sacaste ese dato?"),
+    ],
+    mistakes=[
+        M("Usar «porque me gusta» como única razón.", "Es un gusto personal y no convence a otros.", "Agrega un dato o un ejemplo."),
+        M("Citar un dato sin decir de dónde viene.", "Otras personas no pueden comprobarlo.", "Di cuál es la fuente."),
+    ],
+    tiers=tiers(
+        [ex("Un dato que se puede contar, ¿es una evidencia fuerte o débil?", "Fuerte", "Se puede comprobar."),
+         ex("«Porque todos lo dicen», ¿es una razón fuerte o débil?", "Débil", "No explica nada."),
+         ex("Contar los papeles del patio, ¿produce evidencia o es adivinar?", "Produce evidencia", "Es una observación comprobable.")],
+        [ex("¿Qué puede ser evidencia? Menciona dos ejemplos.", "Por ejemplo: un dato y un ejemplo concreto", "La clase menciona datos, ejemplos y observaciones."),
+         ex("¿Por qué «porque me gusta» no convence a otros?", "Porque es un gusto personal y no una razón comprobable", "Otras personas pueden tener gustos distintos."),
+         ex("¿Qué preguntas se hacen sobre la procedencia de una fuente?", "Quién la escribió, para qué y cuándo", "Son las preguntas de la clase.")],
+        [ex("Opinión: «Debemos usar menos papel». Razón A: «Porque se me ocurrió». Razón B: «Porque en una semana botamos 40 hojas». ¿Cuál razón es más fuerte?", "La B", "Tiene un dato."),
+         arith("Un curso botó 25 hojas el lunes y 15 el martes. ¿Cuántas hojas botó en los dos días?", "25+15", "Se suman las hojas de los dos días.", " hojas"),
+         ex("Una encuesta dice que 18 de 25 estudiantes quieren más tiempo de lectura. ¿Esos 18 son la mayoría? Responde sí o no.", "Sí", "18 es más de la mitad de 25.")],
+        [ex("Rita dice: «Es verdad porque lo dijo alguien famoso». ¿Qué falta?", "Saber por qué tiene razón y de dónde viene el dato", "Una persona famosa no es una razón por sí sola."),
+         ex("Beto presenta un dato sin decir quién lo recopiló. ¿Qué problema tiene?", "Otros no pueden comprobarlo", "Falta la fuente.")],
+        [arith("De 30 estudiantes, 21 prefieren que el recreo sea más largo. ¿Cuántos no lo prefieren?", "30-21", "Se resta el total menos quienes lo prefieren.", " estudiantes"),
+         ex("Escribe una razón fuerte para la opinión «Debemos cuidar las plantas del colegio».", "Por ejemplo: porque dan sombra y mejoran el patio, y en el patio hay cinco plantas", "Incluye un dato o ejemplo.")],
+    ),
+    context=[ex("Un niño dice: «Hay que poner más recipientes de reciclaje porque contamos 20 botellas plásticas en el patio en un día». ¿Cuál es la evidencia?", "Que contaron 20 botellas plásticas en un día", "Es el dato que apoya la opinión.")],
+    selfcheck=[ex("Al argumentar, ¿qué es la evidencia?", "Un dato o señal que apoya una razón", "Se puede comprobar."), ex("Menciona una razón débil.", "Por ejemplo: porque todos lo dicen", "No explica nada."), ex("¿Qué se pregunta sobre una fuente?", "Quién la escribió, para qué y cuándo", "Es la procedencia.")],
+    open_task=task("Opina sobre este tema: «¿Debemos tener más tiempo de lectura en la sala?». Usa este dato de una encuesta inventada: 19 de 25 estudiantes dijeron que sí. Escribe tu opinión, una razón con ese dato y de dónde viene el dato. Calcula cuántos estudiantes no dijeron que sí.", "Creo que sí, porque 19 de 25 dijeron que sí. Fuente: encuesta de la sala. 25 − 19 = 6 no dijeron que sí.", ["opinión clara", "razón con dato", "fuente del dato", "cálculo correcto"], ["frase argumentada y cálculo"], ["no decir la fuente", "calcular mal"], "Revisa tu cálculo con una persona."),
+    reinforce="Anota un dato que puedas contar en tu casa y úsalo para apoyar una opinión.",
+    extend="Explica por qué una razón con un dato es más fuerte que una sin dato.",
+)
+
+register(
+    OA18, 3,
+    materials="Este cuaderno y un lápiz. Las tablas y casos están escritos en los ejercicios.",
+    use="Aprenderé a armar un argumento con tres partes: afirmación, evidencia y explicación. Sirve para opinar con claridad sobre temas de Historia, Geografía y convivencia.",
+    prior=["Sé que una razón es más fuerte con evidencia.", "Sé leer tablas sencillas."],
+    explain=[
+        "Un argumento completo tiene tres partes. La afirmación es la opinión que defendemos. La evidencia es el dato o ejemplo que la apoya. La explicación dice por qué esa evidencia apoya la afirmación. Por ejemplo: «Afirmación: el canal de riego ayudó a cultivar. Evidencia: en el valle central los veranos son secos. Explicación: sin riego no habría agua suficiente para los cultivos».",
+        "Los argumentos pueden usar temas de la asignatura. En Geografía: «Las casas sobre pilotes sirven en la Amazonía porque los ríos crecen con las lluvias». En formación ciudadana: «Las leyes se discuten en el Congreso porque allí trabajan diputados y senadores». En convivencia: «Debemos votar porque la decisión afecta a todo el curso». En todos los casos, la evidencia viene de lo que aprendimos o de un dato.",
+        "Para evaluar un argumento preguntamos: ¿la afirmación es clara?, ¿la evidencia es verdadera y se puede comprobar?, ¿la explicación conecta la evidencia con la afirmación? Si falta una parte, lo mejoramos. Un argumento no necesita ser largo: tres frases claras bastan.",
+    ],
+    vocab=[("afirmación", "opinión que se defiende"), ("evidencia", "dato o ejemplo que apoya la afirmación"), ("explicación", "razonamiento que une la evidencia con la afirmación"), ("argumento", "conjunto de afirmación, evidencia y explicación"), ("conectar", "unir dos ideas mostrando cómo se relacionan")],
+    worked=[
+        W("Identificar las partes", "«Debemos cuidar el patio. En el recreo juegan 60 estudiantes. Si no se cuida, no todos podrían jugar con comodidad.» ¿Cuál es la evidencia?",
+          ["La afirmación es «Debemos cuidar el patio».", "Un dato es «juegan 60 estudiantes».", "Esa es la evidencia."], "Juegan 60 estudiantes en el recreo"),
+        W("Completar la explicación", "Afirmación: el riego ayudó a cultivar. Evidencia: en el valle central los veranos son secos. ¿Qué explicación falta?",
+          ["Pienso qué pasa sin lluvia.", "Los cultivos necesitan agua.", "Entonces el riego da el agua que falta."], "El riego lleva el agua que los cultivos necesitan cuando no llueve"),
+    ],
+    mistakes=[
+        M("Dar una evidencia sin explicar cómo apoya la afirmación.", "Quien escucha no ve la relación.", "Agrega una frase que conecte el dato con la opinión."),
+        M("Usar un dato que no tiene relación con la afirmación.", "No apoya lo que se defiende.", "Elige evidencia que se relacione con el tema."),
+    ],
+    tiers=tiers(
+        [ex("La opinión que se defiende, ¿es la afirmación o la explicación?", "La afirmación", "Es lo que se sostiene."),
+         ex("El dato que apoya la opinión, ¿es la evidencia o la afirmación?", "La evidencia", "Es lo que apoya."),
+         ex("La frase que une la evidencia con la opinión, ¿es la explicación o el tema?", "La explicación", "Muestra cómo se relacionan.")],
+        [ex("¿Qué tres partes tiene un argumento completo?", "Afirmación, evidencia y explicación", "Son las tres de la clase."),
+         ex("¿Cuánto debe medir un argumento: muy largo o tres frases claras?", "Tres frases claras", "No necesita ser largo."),
+         ex("¿De dónde puede venir la evidencia?", "De lo que aprendimos o de un dato", "La clase menciona ambos.")],
+        [ex("Argumento: «Hay que votar. Esta decisión afecta a todo el curso. Si todos votan, todos participan». ¿Cuál es la evidencia?", "Que la decisión afecta a todo el curso", "Es el hecho que apoya la afirmación."),
+         ex("Argumento: «Las casas sobre pilotes sirven en la Amazonía. Los ríos crecen con las lluvias». ¿Cuál es la afirmación?", "Las casas sobre pilotes sirven en la Amazonía", "Es la opinión que se defiende."),
+         ex("Afirmación: «Debemos reciclar». Elige la evidencia que se relaciona: A) «En el patio hay 30 botellas plásticas». B) «Hoy es martes».", "A", "El dato se relaciona con el tema.")],
+        [ex("Lola da la afirmación «Debemos cuidar el patio» y la evidencia «Hoy hace sol». ¿Qué problema tiene?", "La evidencia no se relaciona con la afirmación", "El dato no apoya la opinión."),
+         ex("Teo da una evidencia pero no explica. ¿Qué parte falta?", "La explicación", "Debe conectar la evidencia con la afirmación.")],
+        [ex("Completa la explicación: «Afirmación: hay que escuchar a todos. Evidencia: cada persona piensa distinto. Explicación: ______».", "Por ejemplo: así se conocen todas las ideas", "Une la evidencia con la afirmación."),
+         ex("Ordena el argumento: A) Así todos participan en la decisión, B) Hay que votar, C) La decisión afecta a todo el curso.", "B, C, A", "Primero la afirmación, luego la evidencia y al final la explicación.")],
+    ),
+    context=[ex("En una tabla se ve que el recreo dura 20 minutos y que 40 estudiantes quieren jugar al fútbol. Una niña opina que debe haber turnos. ¿Qué evidencia de la tabla usa?", "Que son 40 estudiantes y el recreo dura 20 minutos", "Muestran que hay poco tiempo para todos.")],
+    selfcheck=[ex("¿Qué es una afirmación?", "La opinión que se defiende", "Es el inicio del argumento."), ex("¿Qué hace la explicación?", "Une la evidencia con la afirmación", "Muestra por qué el dato apoya la opinión."), ex("¿Un argumento debe ser muy largo?", "No", "Tres frases claras bastan.")],
+    open_task=task("Elige una afirmación: A) «Debemos cuidar las plazas del barrio», B) «Debemos respetar los turnos de juego», C) «Debemos escuchar a todos en la sala». Escribe un argumento de tres frases: afirmación, evidencia y explicación.", "Afirmación: debemos respetar los turnos. Evidencia: hay una sola cancha para dos cursos. Explicación: así los dos cursos pueden jugar.", ["tiene afirmación", "tiene evidencia relacionada", "tiene explicación que conecta"], ["tres frases"], ["evidencia que no se relaciona", "no explicar"], "Lee tu argumento a una persona y pregunta si entiende la conexión."),
+    reinforce="Elige una opinión tuya y escribe una evidencia que la apoye.",
+    extend="Escribe un argumento sobre por qué conviene conocer los paisajes de América.",
+)
+
+register(
+    OA18, 4,
+    materials="Este cuaderno y un lápiz. Los dos puntos de vista están escritos en los ejercicios.",
+    use="Aprenderé a comparar dos opiniones sobre un mismo tema, a responder con respeto y a cambiar de opinión con buenas razones. Sirve para conversar y debatir en clase.",
+    prior=["Sé armar un argumento con tres partes.", "Sé escuchar versiones distintas."],
+    explain=[
+        "Sobre un mismo tema las personas pueden tener opiniones distintas. Por ejemplo, sobre hacer un canal de riego: unos dicen que ayuda a cultivar, y otros que quita agua a los ríos. Cada punto de vista tiene razones y evidencias. Para compararlos escribimos los argumentos uno al lado del otro y miramos en qué coinciden y en qué se diferencian.",
+        "Un contraargumento es una respuesta a la razón del otro. Se dice con respeto: «Entiendo que el canal ayuda a cultivar, pero también deja menos agua en el río». Primero reconocemos lo que el otro dijo y luego damos nuestra razón. No insultamos ni interrumpimos. Se debate para entender mejor, no para ganar.",
+        "A veces escuchamos una razón tan buena que cambiamos de opinión. Eso no es debilidad: es aprender. También podemos llegar a una opinión que reúne las dos ideas. Al comparar perspectivas, observamos qué cambió desde el comienzo de la conversación y qué sigue igual. Una buena conversación termina con ideas más claras, aunque no todos estén de acuerdo.",
+    ],
+    vocab=[("punto de vista", "forma en que una persona ve un tema"), ("contraargumento", "respuesta a la razón de otra persona"), ("debate", "conversación en que se defienden opiniones con razones"), ("coincidir", "estar de acuerdo en algo"), ("cambiar de opinión", "pensar algo distinto después de escuchar buenas razones")],
+    worked=[
+        W("Comparar dos puntos de vista", "Ana: «Hay que alargar el recreo porque jugar ayuda a descansar». Beto: «Hay que mantenerlo porque necesitamos más tiempo de clases». ¿En qué se diferencian?",
+          ["Leo la afirmación de cada uno.", "Ana quiere alargar y Beto mantener.", "Las razones también son distintas: descanso y tiempo de clases."], "Ana quiere alargar el recreo y Beto mantenerlo; sus razones son distintas"),
+        W("Responder con respeto", "Escribe un contraargumento a Beto que reconozca su idea y dé otra razón.",
+          ["Reconozco: entiendo que el tiempo de clases importa.", "Agrego mi razón: jugar ayuda a descansar.", "Digo mi conclusión."], "Entiendo que necesitamos tiempo de clases, pero jugar ayuda a descansar y a concentrarse"),
+    ],
+    mistakes=[
+        M("Responder con un insulto cuando alguien piensa distinto.", "Un insulto no es una razón y daña la conversación.", "Responde con un contraargumento respetuoso."),
+        M("Creer que cambiar de opinión es perder.", "Es una forma de aprender con buenas razones.", "Cambia de opinión si te dan una razón mejor."),
+    ],
+    tiers=tiers(
+        [ex("Responder a la razón de otra persona, ¿es un contraargumento o una orden?", "Un contraargumento", "Responde con una razón."),
+         ex("Un debate, ¿se hace para insultar o para entender mejor?", "Para entender mejor", "Se defienden opiniones con razones."),
+         ex("Cambiar de opinión por una buena razón, ¿es aprender o es perder?", "Aprender", "Se piensa mejor.")],
+        [ex("¿Qué se hace primero al responder con respeto?", "Reconocer lo que dijo la otra persona", "Luego se da la propia razón."),
+         ex("Para comparar dos opiniones, ¿qué se escribe uno al lado del otro?", "Los argumentos de cada persona", "Así se ve en qué coinciden y en qué se diferencian."),
+         ex("¿Para qué se debate según la clase?", "Para entender mejor, no para ganar", "El fin es comprender.")],
+        [ex("Opinión 1: «El canal ayuda a cultivar». Opinión 2: «El canal deja menos agua en el río». ¿Los dos hablan del mismo tema? Responde sí o no.", "Sí", "Hablan del canal de riego."),
+         ex("Elige el contraargumento respetuoso a «hay que mantener el recreo corto»: A) «Eso es tonto». B) «Entiendo tu idea, pero jugar ayuda a concentrarse».", "B", "Reconoce la idea y da una razón."),
+         ex("Dos personas coinciden en que el patio debe estar limpio, pero no en cómo lograrlo. ¿En qué coinciden?", "En que el patio debe estar limpio", "Es lo que comparten.")],
+        [ex("Rita dice: «Si cambio de opinión, pierdo». ¿Qué respondes?", "Cambiar por una buena razón es aprender", "No es perder."),
+         ex("Beto interrumpe y grita en un debate. ¿Qué error comete?", "No respeta los turnos ni a la otra persona", "Un debate necesita respeto.")],
+        [ex("Escribe un contraargumento que empiece con «Entiendo que...» para la idea «No hace falta reciclar».", "Por ejemplo: Entiendo que cuesta, pero reciclar reduce la basura", "Reconoce y responde."),
+         ex("Ordena una conversación respetuosa: A) dar mi razón, B) escuchar la razón del otro, C) reconocer lo que dijo.", "B, C, A", "Primero escucho, luego reconozco y después doy mi razón.")],
+    ),
+    context=[ex("Dos niños discuten si el curso debe tener un huerto o una biblioteca de aula. Cada uno da razones. ¿Qué pueden hacer para llegar a una conclusión que respete a los dos?", "Escucharse, reconocer sus ideas y buscar un acuerdo o votar", "Así se aprovechan las razones de ambos.")],
+    selfcheck=[ex("¿Qué es un contraargumento?", "Una respuesta a la razón de otra persona", "Se dice con respeto."), ex("¿Qué es un debate?", "Una conversación en que se defienden opiniones con razones", "Es la definición de la clase."), ex("¿Se puede cambiar de opinión?", "Sí, si hay una buena razón", "Es parte de aprender.")],
+    open_task=task("Lee estas dos opiniones: A) «Deberíamos tener un huerto en la escuela porque aprenderíamos sobre las plantas». B) «Deberíamos tener una biblioteca de aula porque leeríamos más». Escribe en qué coinciden, en qué se diferencian, un contraargumento respetuoso a una de ellas y tu opinión final con una razón.", "Coinciden en que quieren aprender. Se diferencian en el espacio elegido. Entiendo que un huerto enseña de plantas, pero la biblioteca se puede usar cada día. Mi opinión: biblioteca porque se usa todos los días.", ["dice en qué coinciden", "dice en qué se diferencian", "contraargumento respetuoso", "opinión final con razón"], ["cuatro respuestas"], ["insultar", "no dar razón"], "Lee tu contraargumento a una persona y pregunta si suena respetuoso."),
+    reinforce="Pregunta a alguien de tu casa su opinión sobre un tema y anota su razón.",
+    extend="Explica por qué escuchar opiniones distintas puede mejorar una decisión.",
+)
+
+register(
+    OA18, 5,
+    materials="Este cuaderno y un lápiz. La tabla de criterios y los temas están escritos en los ejercicios.",
+    use="Aprenderé a escribir y presentar una conclusión fundamentada sobre un tema, con opinión, razones y respeto. Sirve para participar con claridad en debates y trabajos de la asignatura.",
+    prior=["Sé armar un argumento con afirmación, evidencia y explicación.", "Sé responder con respeto a otras opiniones."],
+    explain=[
+        "Una conclusión fundamentada es una opinión final que se apoya en razones y en evidencia. Para escribirla seguimos un orden: primero presento el tema; luego doy mi opinión; después doy dos razones con evidencia; por último respondo a una idea distinta y cierro con una propuesta. Cada parte es breve y clara.",
+        "Puedo opinar sobre temas de la asignatura, como cuidar el ambiente, los derechos de los niños, la forma de elegir a la directiva del curso o la mejor forma de resolver un conflicto. También sobre temas de la vida diaria. En todos los casos, reviso que mis razones sean verdaderas, que se relacionen con el tema y que no ofendan a nadie.",
+        "Para presentar la conclusión hablo con voz clara, miro a quienes escuchan y respeto el tiempo. Al terminar, pregunto si hay dudas y escucho las respuestas. Para evaluar mi trabajo uso criterios: ¿dije mi opinión con claridad?, ¿di razones con evidencia?, ¿respondí con respeto a otra idea?, ¿cerré con una propuesta? Con estos criterios puedo mejorar la próxima vez.",
+    ],
+    vocab=[("conclusión", "opinión final apoyada en razones y evidencia"), ("propuesta", "acción que sugiero para mejorar algo"), ("criterio", "aspecto que se usa para evaluar un trabajo"), ("presentar", "exponer una idea a otras personas"), ("fundamentada", "apoyada en razones y evidencia")],
+    worked=[
+        W("Ordenar la conclusión", "Ordena las partes: A) propuesta, B) opinión, C) tema, D) razones con evidencia.",
+          ["Primero presento el tema.", "Luego la opinión y las razones.", "Al final cierro con la propuesta."], "C, B, D, A"),
+        W("Aplicar un criterio", "Criterio: «Di una razón con evidencia». Un texto dice: «Hay que cuidar el patio porque sí». ¿Cumple?",
+          ["Busco la razón y la evidencia.", "«Porque sí» no es razón.", "No cumple."], "No cumple"),
+    ],
+    mistakes=[
+        M("Terminar sin una propuesta.", "La conclusión queda sin acción.", "Cierra proponiendo qué hacer."),
+        M("Usar palabras que ofenden a quienes piensan distinto.", "Falta respeto y se pierde la conversación.", "Usa un lenguaje respetuoso."),
+    ],
+    tiers=tiers(
+        [ex("Una opinión final apoyada en razones y evidencia, ¿es una conclusión fundamentada o un rumor?", "Una conclusión fundamentada", "Está apoyada en razones."),
+         ex("Un aspecto que se usa para evaluar un trabajo, ¿es un criterio o una propuesta?", "Un criterio", "Sirve para evaluar."),
+         ex("Cerrar con una acción para mejorar algo, ¿es una propuesta o una pregunta?", "Una propuesta", "Sugiere qué hacer.")],
+        [ex("¿En qué orden se escribe una conclusión fundamentada?", "Tema, opinión, razones con evidencia, respuesta a otra idea y propuesta", "Es el orden de la clase."),
+         ex("¿Qué se revisa en las razones antes de presentar?", "Que sean verdaderas, se relacionen con el tema y no ofendan", "Son las condiciones de la clase."),
+         ex("¿Qué se hace al terminar de presentar?", "Preguntar si hay dudas y escuchar las respuestas", "Se cuida la conversación.")],
+        [ex("Texto: «Tema: reciclaje. Opinión: debemos reciclar. Razón: en el patio hay 30 botellas plásticas. Propuesta: poner recipientes». ¿Qué parte es la propuesta?", "Poner recipientes", "Es la acción que sugiere."),
+         ex("Texto: «Hay que respetar los turnos porque sí». ¿Cumple el criterio «di una razón con evidencia»? Responde sí o no.", "No", "«Porque sí» no es una razón."),
+         arith("Un grupo escribió una conclusión de 4 partes y cada parte tiene 3 frases breves. ¿Cuántas frases escribió en total?", "4*3", "Se multiplican las partes por las frases de cada una.", " frases")],
+        [ex("Lola dice: «No hace falta pensar la propuesta». ¿Qué respondes?", "La propuesta cierra la conclusión con una acción", "Sin propuesta no hay acción."),
+         ex("Pedro se burla de quien piensa distinto en su presentación. ¿Qué criterio incumple?", "El respeto a otras ideas", "Debe responder con respeto.")],
+        [ex("Escribe una propuesta para cerrar una conclusión sobre el cuidado de las plantas del colegio.", "Por ejemplo: Hagamos turnos de riego cada semana", "Es una acción concreta y posible."),
+         ex("Ordena la presentación: A) preguntar si hay dudas, B) leer mi conclusión con voz clara, C) saludar y presentar el tema.", "C, B, A", "Primero presento, luego leo y al final pregunto.")],
+    ),
+    context=[ex("Un grupo debe opinar sobre cómo elegir la actividad del curso. Escribe una conclusión corta: opinión, una razón y una propuesta.", "Por ejemplo: Creo que debemos votar porque la decisión afecta a todos; propongo votar el viernes", "Incluye las tres partes.")],
+    selfcheck=[ex("¿Qué es una conclusión fundamentada?", "Una opinión final apoyada en razones y evidencia", "Es la definición."), ex("¿Cómo cierra una buena conclusión?", "Con una propuesta", "Ofrece una acción."), ex("En Historia: ¿Qué es un criterio?", "Un aspecto que se usa para evaluar un trabajo", "Ayuda a mejorar.")],
+    open_task=task("Elige un tema: A) cuidar el patio, B) elegir a la directiva con votación, C) resolver conflictos conversando. Escribe una conclusión de seis frases: tema, tu opinión, dos razones con evidencia, una respuesta respetuosa a una idea distinta y una propuesta. Después evalúa tu texto con los cuatro criterios de la clase.", "Tema: el patio. Creo que debemos cuidarlo. Razón 1: lo usamos todos. Razón 2: hay 30 papeles después del recreo. Entiendo que cuesta, pero es posible. Propongo turnos de limpieza.", ["seis partes en orden", "razones con evidencia", "lenguaje respetuoso", "autoevaluación con criterios"], ["texto de seis frases y una autoevaluación"], ["usar «porque sí»", "ofender a quienes piensan distinto"], "Lee tu conclusión a una persona y pídele que marque los criterios que cumple."),
+    reinforce="Elige un tema de tu comuna y escribe una opinión con dos razones.",
+    extend="Explica por qué una conclusión sin propuesta queda incompleta.",
+)

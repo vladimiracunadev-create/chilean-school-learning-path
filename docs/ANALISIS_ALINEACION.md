@@ -22,7 +22,7 @@ Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 5
 | matematica | 83 | 51 % | 7 |
 | musica | 29 | 51 % | 1 |
 | orientacion | 35 | 41 % | 0 |
-| tecnologia | 26 | 40 % | 0 |
+| tecnologia | 26 | 41 % | 0 |
 
 **Clases marcadas para lectura prioritaria (1.º básico):** 89 de 691.
 
@@ -362,3 +362,151 @@ Cada una de las 757 clases de 3.º básico fue releída por un segundo lector (a
 | LC03 OA 12 | 1 | Reconocer relaciones concretas | 67 % | 100 % | 9.9 | respuesta «depende» en ejercicio cerrado |
 | HI03 OA 15 | 1 | Formular una pregunta de investigación | 73 % | 100 % | 10.8 | respuesta «depende» en ejercicio cerrado |
 | MU03 OA 08 | 1 | Identificar una fortaleza con evidencia | 78 % | 100 % | 13.8 | respuesta «depende» en ejercicio cerrado |
+
+## 4.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 25 | 43 % | 2 |
+| ciencias-naturales | 71 | 58 % | 5 |
+| educacion-fisica-salud | 49 | 48 % | 4 |
+| historia-geografia-ciencias-sociales | 82 | 47 % | 5 |
+| ingles-propuesta | 69 | 30 % | 43 |
+| lengua-cultura-pueblos-originarios-ancestrales | 126 | 47 % | 9 |
+| lenguaje-comunicacion | 161 | 41 % | 16 |
+| matematica | 118 | 45 % | 2 |
+| musica | 35 | 49 % | 1 |
+| orientacion | 40 | 42 % | 4 |
+| tecnologia | 35 | 45 % | 2 |
+
+**Clases marcadas para lectura prioritaria (4.º básico):** 93 de 811.
+
+### Segunda lectura crítica de las 811 clases
+
+Cada una de las 811 clases de 4.º básico fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Varios lectores declararon que no pudieron resolver uno por uno todos los ejercicios.
+
+| Asignatura | Clases releídas | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 118 | 99 − 45 explicado como 56 (es 54); estimaciones que no calzaban (640 − 285 + 152); errores de división con resto que no cumplían la prueba; ejercicio sin solución (dos números de suma 700 con estimación 600); cuadrado de 6 cm² imposible; unos 30 ejercicios copiados del ejemplo resuelto; divisores de dos cifras y dividendos de tres cifras fuera del OA; comparación con 1/2 que no discriminaba; gráfico de ejes truncados descrito como «el doble». |
+| Lenguaje y Comunicación | 161 | Unas 30 preguntas cerradas sobre textos que nunca se entregaban; 4 mayúsculas contadas de más (cordillera); pingüinos «de lugares fríos» (falso para el de Humboldt); divisor de dos cifras fuera de nivel; salto lógico del queque; «coma tras de pronto» como obligatoria; «cuenta» como «cuento»; ordenaciones con dos soluciones; escenas de riesgo (río, pozo) y supuestos sobre la familia. |
+| Ciencias Naturales | 71 | Ruta del mensaje nervioso con el ojo y el oído pasando por la médula (falso); «núcleo de 3.440 km» ajustado para que sumara; globo que pesa más inflado; imán que levanta clips a distancia; hibernación de «días»; cuchara de plástico que se hunde; llave que sube el agua 20 mL; bolsa de plástico cerca de la cara. |
+| Historia, Geografía y Ciencias Sociales | 82 | Mesoamérica presentada solo como territorio maya; incas sin calendario por comparación; «allillanchu» como saludo; semáforo y vereda atribuidos a la municipalidad; presupuesto de escuelas decidido por el Congreso; río Tíber y «Educación Cívica» de otro nivel; siete ejercicios abiertos pasados a elección; «y sangre» en las ofrendas retirado. |
+| Inglés | 69 | Respuestas con dos opciones válidas (small o blue); estructuras no enseñadas (How old is he/she, Do they…); regla de I don't know incoherente; glosas faltantes (Mr., Dr., near, river); Easter definido solo como huevos; leche para un gato; «mariquita» por «chinita»; textos de escucha sin su guion. |
+| Lengua y Cultura de los Pueblos Originarios | 126 | Fichas, testimonios y textos que el ejercicio citaba y la clase no entregaba; «según el educador tradicional, su pueblo…» retirado; idea central equivocada en un relato de práctica; «antu» y «ruca» presentados como error de grafía; «espíritu enojado» en distractores; foto de un compañero en un afiche; conteos que no calzaban; unos 14 «Ordena…» con dos órdenes posibles. |
+| Educación Física y Salud | 49 | Correr de espaldas; dolor de rodilla resuelto con «cambiar a caminar»; giros de cuello y rodilla; pañuelo-cola con «sin contacto»; cemento mojado que «no resbala»; 55 usos de «persona de tu casa»; 60 min «de actividad» sin intensidad; contradicciones de metros y de tiempos de calentamiento. |
+| Orientación | 40 | Frutas y verduras contadas como dos grupos contra su explicación; comparación de Ema con Pablo en una clase que enseña a no etiquetar; campaña de «4 útiles» que presiona a familias; revisión de garganta como excepción de salud; 29 ejercicios de redacción libre pasados a elección; ejemplos de control o aislamiento reescritos. |
+| Música | 35 | Motivo de 5 pulsos dentro de secciones de 4; regla de variación ambigua; ejercicios cerrados con respuesta libre; supuesto de canción de cuna en el hogar; ejemplo de «misma idea» con dos lecturas. |
+| Artes Visuales | 25 | Resumen del relato de Trentren Vilu y Kaikai Vilu reducido a lo general; Caleuche y cerámica diaguita sin afirmaciones que el cuaderno no puede sostener; obras del OA 04 rotuladas como inventadas; «la lana es pesada» y «la plasticina se ensucia» retirados; unos 73 ajustes entre ambigüedades y distractores absurdos. |
+| Tecnología | 35 | Insumos no entregados (plan del atril, letra de la diapositiva); sumas puestas para el verificador cambiadas por cálculos con sentido; carpeta con símbolos contra la regla de nombres; direcciones inventadas terminadas en .cl pasadas a .example; «girasoles siguen al Sol» matizado; hojas de cálculo y diagramas integrados en clases existentes. |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Los lectores confirmaron que en el repositorio el texto oficial citado bajo varios OA de 4.º no coincide con el título y las etapas de sus clases: Lenguaje OA 11 a 18 (por ejemplo, el OA 11 cita «escribir frecuentemente» y sus clases enseñan diccionario y orden alfabético; el OA 16 cita «planificar la escritura» y sus clases tratan la letra legible), y Lengua y Cultura de los Pueblos Originarios OA 10 a 16 (el OA 10 cita relatos fundacionales y sus clases tratan tiempo y espacio). Los cuadernos siguieron el título de la clase y repartieron el contenido del OA dentro de las clases existentes. Conviene corregir esa asignación en el currículo; no se hizo aquí porque exige el Programa de Estudio.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Lenguaje (ortografía b-v, h, ay/hay/ahí y acentuación del OA 21; diario de vida); Matemática (decena de mil; fracciones con denominador 12 y 100); Historia (escritura y construcciones mayas, extensión azteca, sociedad en la tabla comparativa, ubicación frente a los océanos); Inglés (partes de la casa, lugares de la ciudad, presentar a otros, acciones en curso); Tecnología (hoja de cálculo y diagramas); Educación Física (base a pequeña altura, elementos de la cueca); Orientación (aceptar las emociones ajenas, vínculo entre sexualidad y origen de la vida).
+- **Abiertos:** Lenguaje OA 11 (no hay clase que enseñe a escribir con frecuencia como hábito) y OA 15 (letra clara solo como criterio); Música OA 03 (escuchar al menos 20 músicas, sin audio) y OA 05 (creación con alturas); Artes OA 04 (15 + 15 + 15 obras reales al año, las del cuaderno son inventadas) y OA 03 (fotografía, imágenes digitales y software); Tecnología OA 05 (no se enseña a usar un programa real de hojas de cálculo); software geométrico y educativo en Matemática (OA 17, 23, 24 y 26); Lengua y Cultura de los Pueblos Originarios: relatos fundacionales, cosmovisión, textos y oraciones en lengua indígena (educador o educadora tradicional); Inglés: audio, video y discriminación auditiva de /s/-/z/ y /w/-/th/.
+- **Decisiones que dependen del programa oficial:** divisores de dos cifras y factores de dos cifras en Matemática (se usaron factores de dos cifras y divisor de un dígito); convención de coordenadas y de 12:00 p.m. / 00:00 (convenciones didácticas del cuaderno); si las inecuaciones usan números naturales; clases de OA 11 a 18 de Lenguaje y OA 10 a 16 de Lengua y Cultura cuyos títulos no corresponden a su texto de OA.
+
+### Clases marcadas de 4.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| LE04 OA 24 | 4 | Explorar una escena desde otro rol · Experiencia y lenguaje  | 6 % | 20 % | 13.6 | — |
+| HI04 OA 03 | 1 | Ubicar el problema en tiempo y espacio · Civilización inca | 7 % | 20 % | 12.0 | — |
+| EN04 OA 11 | 2 | Introduce a fictional person · Brief classroom interaction a | 11 % | 29 % | 14.1 | — |
+| EN04 OA 10 | 2 | Explore /th/ safely · English sounds through chants, rhymes  | 11 % | 0 % | 14.7 | — |
+| EN04 OA 12 | 5 | Describe actions happening now · Supported oral expression f | 13 % | 14 % | 16.0 | — |
+| LE04 OA 19 | 3 | Comparar matices entre alternativas · Adverbios para precisa | 13 % | 29 % | 9.5 | — |
+| EN04 OA 02 | 4 | Recognize actions in progress · Listening for familiar topic | 14 % | 0 % | 12.5 | — |
+| CN04 OA 13 | 1 | Observar y separar evidencia de interpretación · Roce, peso  | 16 % | 17 % | 10.5 | — |
+| EN04 OA 02 | 2 | Identify abilities and feelings · Listening for familiar top | 16 % | 0 % | 13.8 | — |
+| EN04 OA 07 | 5 | Compare information without stereotyping · Reading about fam | 16 % | 30 % | 18.5 | — |
+| EN04 OA 01 | 2 | Follow actions in a chant · Listening to rhymes, chants, son | 17 % | 12 % | 15.1 | — |
+| EN04 OA 12 | 1 | Share safe fictional information · Supported oral expression | 17 % | 14 % | 22.9 | — |
+| EN04 OA 10 | 3 | Contrast /s/ and /z/ · English sounds through chants, rhymes | 18 % | 14 % | 11.2 | — |
+| LC04 OA LS05 | 3 | Seleccionar palabras contextualizadas · Creaciones digitales | 18 % | 38 % | 14.2 | — |
+| EN04 OA 02 | 1 | Follow instructions and introductions · Listening for famili | 19 % | 14 % | 16.8 | — |
+| EN04 OA 03 | 4 | Order three events · Demonstrating detailed listening compre | 19 % | 29 % | 14.9 | — |
+| LE04 OA 03 | 3 | Fábula sin reducirla a una moraleja · Repertorio literario a | 19 % | 33 % | 12.5 | — |
+| EN04 OA 07 | 2 | Read about animals and shapes · Reading about familiar cross | 19 % | 12 % | 13.9 | — |
+| EN04 OA 11 | 3 | Ask for a missing word · Brief classroom interaction and pre | 19 % | 0 % | 14.2 | — |
+| EN04 OA 12 | 4 | Request and locate an item · Supported oral expression for f | 20 % | 0 % | 18.7 | — |
+| HI04 OA 16 | 2 | Interrogar fuentes y reconocer su procedencia · Resolución d | 21 % | 43 % | 15.5 | — |
+| EN04 OA 07 | 3 | Read about occupations and places · Reading about familiar c | 21 % | 0 % | 13.9 | — |
+| CN04 OA 13 | 2 | Formular una pregunta o predicción comprobable · Roce, peso  | 21 % | 17 % | 16.0 | — |
+| EN04 OA 06 | 4 | Follow written instructions · Reading short literary and fun | 21 % | 12 % | 14.3 | — |
+| EN04 OA 04 | 4 | Focus on key words · Strategies for listening comprehension | 22 % | 20 % | 12.7 | — |
+| EN04 OA 07 | 4 | Read about food and celebrations · Reading about familiar cr | 22 % | 14 % | 14.6 | — |
+| EN04 OA 01 | 4 | Identify speakers in a dialogue · Listening to rhymes, chant | 22 % | 25 % | 9.1 | — |
+| EN04 OA 02 | 3 | Locate possession, quantity and position · Listening for fam | 22 % | 0 % | 16.8 | — |
+| EN04 OA 03 | 5 | Show evidence for an answer · Demonstrating detailed listeni | 22 % | 33 % | 14.6 | — |
+| LC04 OA LR05 | 2 | Seleccionar expresiones autorizadas · Creaciones digitales p | 23 % | 43 % | 12.1 | — |
+| LE04 OA 28 | 4 | Ajustar registro y referente · Vocabulario nuevo en interven | 23 % | 43 % | 13.2 | — |
+| EN04 OA 12 | 2 | Express ability and quantity · Supported oral expression for | 23 % | 0 % | 14.4 | — |
+| EN04 OA 07 | 1 | Read about school and home · Reading about familiar cross-cu | 23 % | 0 % | 17.0 | — |
+| EN04 OA 03 | 2 | Select the general idea · Demonstrating detailed listening c | 25 % | 33 % | 11.9 | — |
+| EN04 OA 03 | 3 | Locate one explicit detail · Demonstrating detailed listenin | 25 % | 33 % | 12.8 | — |
+| EN04 OA 14 | 3 | Describe locations · Image-supported writing for familiar to | 25 % | 29 % | 15.8 | — |
+| LE04 OA 08 | 2 | Orientarse en colecciones · Uso responsable de la biblioteca | 25 % | 25 % | 12.1 | — |
+| LE04 OA 10 | 2 | Raíces que conservan significado · Significado por contexto  | 25 % | 40 % | 10.6 | — |
+| LE04 OA 28 | 1 | Recuperar significado desde el texto · Vocabulario nuevo en  | 25 % | 29 % | 14.5 | — |
+| LE04 OA 28 | 2 | Ensayar una paráfrasis · Vocabulario nuevo en intervenciones | 25 % | 33 % | 15.9 | — |
+| LE04 OA 21 | 1 | Mayúsculas y puntos con propósito · Ortografía para facilita | 26 % | 33 % | 11.9 | — |
+| EN04 OA 01 | 1 | Track repeated sounds in a rhyme · Listening to rhymes, chan | 26 % | 22 % | 11.7 | — |
+| EN04 OA 01 | 3 | Sequence a short song or story · Listening to rhymes, chants | 26 % | 11 % | 17.1 | — |
+| EN04 OA 10 | 5 | Perform a brief intelligible dialogue · English sounds throu | 26 % | 22 % | 11.8 | — |
+| EF04 OA 06 | 3 | Explorar flexibilidad sin rebotes forzados · Condición físic | 27 % | 44 % | 15.3 | — |
+| EN04 OA 12 | 3 | Describe and state a prohibition · Supported oral expression | 28 % | 29 % | 17.7 | — |
+| LC04 OA 17 | 2 | Explorar cualidades sin copiar símbolos · Creación con sonor | 28 % | 38 % | 13.6 | — |
+| EN04 OA 09 | 1 | Illustrate one supported idea · Responding to reading throug | 28 % | 29 % | 13.9 | — |
+| EN04 OA 09 | 2 | Build a figure or scene · Responding to reading through mult | 28 % | 38 % | 14.1 | — |
+| TE04 OA 01 | 6 | Seleccionar y comunicar una propuesta · Diseño de objetos y  | 28 % | 38 % | 12.1 | — |
+| AR04 OA 01 | 2 | Transformar una observación en intención visual · Creación v | 29 % | 38 % | 13.8 | — |
+| EF04 OA 04 | 5 | Evaluar el cuidado del espacio utilizado · Actividad física  | 29 % | 44 % | 13.8 | — |
+| LE04 OA 10 | 3 | Prefijos que modifican · Significado por contexto y morfolog | 29 % | 40 % | 15.9 | — |
+| LE04 OA 18 | 3 | Mejorar conectores · Revisión y edición con propósito | 29 % | 40 % | 8.8 | — |
+| LE04 OA 22 | 3 | Sostener memoria entre episodios · Escucha literaria de obra | 29 % | 29 % | 10.8 | — |
+| OR04 OA 07 | 4 | Acordar, reparar y pedir ayuda cuando corresponde · Resoluci | 29 % | 44 % | 14.2 | — |
+| EN04 OA 04 | 3 | Use images without guessing alone · Strategies for listening | 29 % | 29 % | 12.0 | — |
+| EN04 OA 05 | 4 | Express a preference with a reason · Responding personally a | 29 % | 43 % | 10.6 | — |
+| EN04 OA 09 | 5 | Express and support an opinion · Responding to reading throu | 29 % | 25 % | 11.9 | — |
+| CN04 OA 12 | 2 | Formular una pregunta o predicción comprobable · Efectos de  | 29 % | 43 % | 11.6 | — |
+| EF04 OA 04 | 2 | Preparar una actividad al aire libre · Actividad física resp | 30 % | 43 % | 12.0 | — |
+| EN04 OA 11 | 1 | Exchange classroom requests · Brief classroom interaction an | 30 % | 17 % | 14.3 | — |
+| EN04 OA 03 | 1 | Identify people, animals and objects · Demonstrating detaile | 31 % | 38 % | 12.9 | — |
+| CN04 OA 14 | 3 | Comparar casos con un criterio común · Diseño tecnológico qu | 31 % | 38 % | 11.0 | — |
+| EN04 OA 14 | 2 | Write feelings and quantities · Image-supported writing for  | 31 % | 25 % | 16.9 | — |
+| OR04 OA 03 | 3 | Comprender intimidad, consentimiento y límites · Sexualidad  | 31 % | 43 % | 12.4 | — |
+| TE04 OA 06 | 2 | Editar mediante selección y movimiento · Creación y edición  | 31 % | 43 % | 14.2 | — |
+| EN04 OA 10 | 4 | Use sounds in a chant · English sounds through chants, rhyme | 31 % | 33 % | 15.8 | — |
+| EN04 OA 13 | 2 | Complete from a word bank · Model-supported English writing | 31 % | 20 % | 13.3 | — |
+| MA04 OA 24 | 2 | Construir y comparar cuerpos | 31 % | 100 % | 15.5 | respuesta «depende» en ejercicio cerrado |
+| OR04 OA 09 | 3 | Respetar el trabajo y concentración ajenos · Hábitos, esfuer | 31 % | 44 % | 13.8 | — |
+| LE04 OA 01 | 2 | Pausas que construyen sentido · Lectura oral fluida y expres | 32 % | 33 % | 14.9 | — |
+| OR04 OA 06 | 3 | Actuar solidariamente sin sustituir · Solidaridad, empatía,  | 32 % | 43 % | 13.6 | — |
+| EN04 OA 05 | 2 | Respond through mime and action · Responding personally and  | 32 % | 33 % | 14.2 | — |
+| EN04 OA 09 | 3 | Dramatize with textual evidence · Responding to reading thro | 32 % | 38 % | 14.1 | — |
+| EF04 OA 08 | 2 | Localizar y contar pulso con apoyo · Registro de respuestas  | 33 % | 38 % | 11.6 | — |
+| EN04 OA 10 | 1 | Notice and produce /w/ · English sounds through chants, rhym | 33 % | 38 % | 13.1 | — |
+| HI04 OA 05 | 3 | Caracterizar dimensiones con evidencia · Pueblos indígenas a | 33 % | 43 % | 11.9 | — |
+| HI04 OA 10 | 1 | Ubicar el problema en tiempo y espacio · Paisajes regionales | 33 % | 43 % | 16.2 | — |
+| LC04 OA 10 | 3 | Explorar una noción de espacio · Nociones indígenas de tiemp | 33 % | 40 % | 17.1 | — |
+| LE04 OA 21 | 4 | Ge-gi y je-ji en familias · Ortografía para facilitar compre | 33 % | 25 % | 10.6 | — |
+| LE04 OA 21 | 5 | Terminaciones cito-cita · Ortografía para facilitar comprens | 33 % | 25 % | 13.9 | — |
+| LC04 OA 15 | 3 | Distinguir acceso público y restringido · Patrimonio cultura | 44 % | 67 % | 22.3 | — |
+| LC04 OA 13 | 4 | Proponer una acción situada · Vida en armonía e interdepende | 47 % | 60 % | 21.0 | — |
+| CN04 OA 10 | 4 | Construir una explicación o modelo con límites · Estados de  | 56 % | 83 % | 11.9 | respuesta «depende» en ejercicio cerrado |
+| LC04 OA 09 | 4 | Valorar sin apropiarse ni homogeneizar · Aportes vivos de cu | 56 % | 75 % | 20.6 | — |
+| LE04 OA 05 | 6 | Sintetizar hallazgos y próximos pasos · Comprensión de poema | 58 % | 75 % | 24.2 | — |
+| LC04 OA 11 | 2 | Relacionar material, técnica y naturaleza · Arte y técnicas  | 64 % | 100 % | 20.6 | — |
+| AR04 OA 01 | 6 | Crear una obra personal que articule referentes · Creación v | 75 % | 78 % | 20.8 | — |
+| HI04 OA 06 | 4 | Comparar perspectivas, cambios o continuidades · Paralelos,  | 75 % | 86 % | 13.1 | respuesta «depende» en ejercicio cerrado |
+| MU04 OA 08 | 2 | Localizar un área de mejora · Reflexión sobre escucha, inter | 78 % | 67 % | 11.4 | respuesta «depende» en ejercicio cerrado |
+| MA04 OA 19 | 4 | Comparar y corregir construcciones | 80 % | 100 % | 10.5 | respuesta «depende» en ejercicio cerrado |
+| LC04 OA 15 | 4 | Recrear sólo lo autorizado · Patrimonio cultural de comunida | 81 % | 71 % | 23.4 | — |

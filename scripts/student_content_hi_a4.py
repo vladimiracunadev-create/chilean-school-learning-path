@@ -156,7 +156,7 @@ register(
         ],
         "understand": [
             ex("¿Qué es una biografía?", "Un texto que cuenta la vida de una persona", "Habla de lo que hizo y cuándo."),
-            ex("¿Qué es un dato explícito?", "Un dato escrito con claridad en el texto", "No se inventa."),
+            ex("En Historia: ¿Qué es un dato explícito?", "Un dato escrito con claridad en el texto", "No se inventa."),
             ex(f"{MISTRAL} ¿Para quiénes eran los poemas de «Ternura»?", "Para niños", "La biografía dice poemas y rondas para niños."),
         ],
         "apply": [

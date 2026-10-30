@@ -429,7 +429,7 @@ lesson(
     ],
     [E("Tu hermano llegó tarde de la escuela y quiere saber qué pasó hoy en tu casa. Cuéntale con «Primero» y «Luego»: llegó tu tía; después comieron sopa.", "Primero llegó la tía. Luego comieron sopa", "Respeta el orden en que ocurrió.")],
     [
-        E("¿Qué es un hecho?", "Algo que realmente pasó", "Se puede comprobar."),
+        E("En Lenguaje: ¿Qué es un hecho?", "Algo que realmente pasó", "Se puede comprobar."),
         E("¿Qué palabra usamos para el último hecho?", "Al final", "Marca el cierre."),
         E("«El fútbol es mejor que la natación» ¿es hecho o idea?", "Una idea", "Depende de lo que piense cada uno."),
     ],

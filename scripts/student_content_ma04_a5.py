@@ -1,0 +1,243 @@
+"""Cuaderno del estudiante de 4.º básico Matemática: OA 09 (adición y sustracción de fracciones con igual denominador)."""
+from __future__ import annotations
+
+from student_content_ma04_a import M, W, lesson, task
+from student_lessons import ex
+
+OA9 = "MA04 OA 09"
+
+lesson(
+    OA9, 1,
+    use="Aprenderé a juntar partes de la misma unidad, como cuartos con cuartos. Sirve para saber qué fracción se forma cuando se unen partes que tienen el mismo tamaño.",
+    prior=["Sé qué son el numerador y el denominador.", "Sé representar fracciones con dibujos y tiras."],
+    explain=[
+        "Dos fracciones tienen igual denominador cuando el entero está dividido en el mismo número de partes iguales. Entonces las partes tienen el mismo tamaño y se pueden juntar. Por ejemplo, 1/4 y 2/4 son cuartos los dos. Si juntas 1 cuarto con 2 cuartos, tienes 3 cuartos: 1/4 + 2/4 = 3/4.",
+        "Fíjate en el dibujo: ■□□□ y ■■□□ se juntan en ■■■□. El tamaño de las partes no cambia, solo cuántas partes tienes. Por eso se suman los numeradores, 1 + 2 = 3, y el denominador queda igual, 4. No se suman los denominadores, porque eso cambiaría el tamaño de las partes.",
+        "Juntar partes iguales es como sumar objetos del mismo tipo: 1 manzana más 2 manzanas son 3 manzanas. Igual, 1 cuarto más 2 cuartos son 3 cuartos. Antes de sumar, comprueba que los denominadores sean iguales y que el resultado no tenga más partes que el entero completo.",
+    ],
+    vocab=[("denominador común", "denominador igual en las fracciones que se suman o se restan"), ("numerador", "número que dice cuántas partes se toman"), ("unidad", "el entero que se divide en partes iguales"), ("sumar fracciones", "juntar partes del mismo tamaño"), ("partes del mismo tamaño", "partes que vienen de dividir el mismo entero en igual cantidad de partes")],
+    worked=[
+        W("Juntar cuartos", "Calcula 1/4 + 2/4.", ["Los dos son cuartos: las partes tienen el mismo tamaño.", "Junto las partes: 1 + 2 = 3 partes.", "El denominador queda en 4: son 3 cuartos."], "3/4"),
+        W("Juntar sextos", "Calcula 2/6 + 3/6.", ["Los dos son sextos.", "Sumo los numeradores: 2 + 3 = 5.", "El denominador sigue siendo 6."], "5/6"),
+    ],
+    mistakes=[
+        M("Escribir 1/4 + 2/4 = 3/8.", "Se suman también los denominadores.", "Las partes siguen siendo cuartos: el denominador no cambia. 1/4 + 2/4 = 3/4."),
+        M("Sumar 1/4 + 1/5 como 2/9.", "Los denominadores son distintos: las partes no tienen el mismo tamaño.", "Solo se suman fracciones con el mismo denominador."),
+    ],
+    rec=[
+        ex("Una tira está dividida en 5 partes iguales. Se pinta ■□□□□ y luego ■■□□□ más. ¿Qué fracción de la tira se pintó en total?", "3/5", "1 quinto y 2 quintos juntos son 3 quintos."),
+        ex("¿Cuánto es 1/6 + 1/6?", "2/6", "Juntar 1 sexto con 1 sexto da 2 sextos."),
+        ex("En 1/4 + 2/4 = 3/4, ¿cuál es el denominador del resultado?", "4", "Las partes siguen siendo cuartos."),
+    ],
+    und=[
+        ex("Al sumar fracciones con igual denominador, ¿qué números se suman?", "Los numeradores", "Se cuentan las partes que se juntan."),
+        ex("¿Por qué el denominador no cambia en 2/6 + 3/6?", "Porque las partes siguen siendo sextos", "Juntar partes no cambia su tamaño."),
+        ex("¿Se puede sumar directamente 1/4 + 1/5 con la regla de esta clase?", "No", "Los denominadores son distintos: las partes no son del mismo tamaño."),
+    ],
+    app=[
+        ex("Calcula 2/8 + 3/8.", "5/8", "2 octavos y 3 octavos son 5 octavos."),
+        ex("Calcula 4/10 + 5/10.", "9/10", "4 décimos más 5 décimos son 9 décimos."),
+        ex("Calcula 3/12 + 6/12.", "9/12", "3 doceavos más 6 doceavos son 9 doceavos."),
+    ],
+    rea=[
+        ex("Lía escribió 1/4 + 2/4 = 3/8. ¿Qué error cometió y cuál es el resultado?", "Sumó los denominadores; es 3/4", "El denominador no cambia."),
+        ex("Eva dice que 2/5 + 2/5 es 4/10. Dibuja 5 partes iguales: ¿tiene razón?", "No, es 4/5", "2 quintos más 2 quintos son 4 quintos."),
+    ],
+    cha=[
+        ex("¿Qué fracción falta? 1/5 + __ = 4/5.", "3/5", "4 quintos menos 1 quinto son 3 quintos."),
+        ex("En un entero dividido en cuartos, ¿cuántos cuartos hay que juntar para formar el entero?", "4", "4/4 es el entero."),
+    ],
+    ctx=[ex("Pedro comió 2/8 de una pizza y Ana comió 3/8 de la misma pizza. ¿Qué fracción de la pizza comieron entre los dos?", "5/8", "2 octavos más 3 octavos son 5 octavos.")],
+    sc=[
+        ex("Calcula 1/3 + 1/3.", "2/3", "1 tercio más 1 tercio son 2 tercios."),
+        ex("Calcula 3/10 + 4/10.", "7/10", "3 décimos y 4 décimos son 7 décimos."),
+        ex("Calcula 2/12 + 5/12.", "7/12", "2 doceavos y 5 doceavos son 7 doceavos."),
+    ],
+    op=task(
+        "Dibuja dos tiras iguales divididas en 8 partes. Pinta 3 partes en la primera y 2 en la segunda. Junta lo pintado en una tercera tira y escribe la suma 3/8 + 2/8. Explica por qué el denominador no cambia.",
+        "3/8 + 2/8 = 5/8. En la tercera tira quedan 5 partes pintadas de 8. El denominador no cambia porque las partes siguen siendo octavos.",
+        ["dibuja tiras con partes iguales", "junta las partes pintadas", "escribe la suma correcta", "explica el denominador"],
+        ["tres tiras dibujadas", "suma escrita", "frase de explicación"],
+        ["sumar también los denominadores", "dibujar partes desiguales"],
+        "Reconoce la tira final y pide que cuente las partes pintadas para confirmar el numerador.",
+    ),
+    reinforce="Pinta 2 de 5 partes y luego 1 de 5 partes más en una tira y escribe la suma de quintos.",
+    extend="Explica con un dibujo por qué 3/4 + 1/4 es un entero.",
+)
+
+lesson(
+    OA9, 2,
+    use="Aprenderé a sumar fracciones con igual denominador usando material y dibujos, incluso cuando la suma llega al entero. Sirve para resolver sumas con tiras, fichas y rectas.",
+    prior=["Sé juntar partes con el mismo denominador.", "Sé que 4/4, 8/8 y 10/10 son un entero."],
+    explain=[
+        "Para sumar con material, toma tiras del mismo largo divididas en la misma cantidad de partes. Para 3/8 + 4/8, pinta 3 partes de una tira y 4 de otra, y junta: son 7 partes de 8. Entonces 3/8 + 4/8 = 7/8. En una recta, parte en 3/8 y avanza 4 saltos de 1/8.",
+        "A veces la suma completa el entero. En 3/5 + 2/5 hay 3 + 2 = 5 partes de 5, o sea 5/5, que es 1 entero. Cuando el numerador es igual al denominador, la fracción vale 1. Con denominador 100, 30/100 + 45/100 = 75/100.",
+        "Para revisar, mira el dibujo: el resultado no debe tener más partes que el entero completo en esta clase. Si el numerador queda igual que el denominador, el resultado es 1. Comprueba también restando: 7/8 − 4/8 debe dar 3/8.",
+    ],
+    vocab=[("entero", "el objeto completo; 4/4, 8/8 o 10/10 valen un entero"), ("recta numérica", "línea donde se ubican los números en orden"), ("salto", "avance igual sobre la recta"), ("suma de fracciones", "juntar partes del mismo tamaño"), ("centésimo", "una parte de las 100 partes iguales de un entero")],
+    worked=[
+        W("Sumar con tiras", "Calcula 3/8 + 4/8 con tiras.", ["Pinto 3 de 8 partes en una tira y 4 de 8 en otra igual.", "Junto lo pintado: 3 + 4 = 7 partes de 8.", "Compruebo restando: 7/8 − 4/8 = 3/8."], "7/8"),
+        W("Llegar al entero", "Calcula 3/5 + 2/5 con la recta.", ["Parto en 3/5 en la recta dividida en quintos.", "Avanzo 2 saltos de 1/5: llego a la marca 5/5.", "5/5 es el entero."], "5/5 = 1"),
+    ],
+    mistakes=[
+        M("Escribir 3/5 + 2/5 = 5/10.", "Se suman numeradores y denominadores.", "El denominador no cambia: 5/5, que es 1."),
+        M("Contar mal los saltos en la recta y partir desde 1/5 en vez de 3/5.", "Se inicia en un punto que no es el primer sumando.", "Parte exactamente en el primer sumando y avanza tantos saltos como diga el segundo."),
+    ],
+    rec=[
+        ex("Calcula 3/8 + 4/8.", "7/8", "3 + 4 = 7 octavos."),
+        ex("Calcula 3/5 + 2/5 y escribe cuánto vale.", "5/5 = 1", "5 quintos son un entero."),
+        ex("¿Cuánto vale 6/6?", "1", "6 sextos son un entero."),
+    ],
+    und=[
+        ex("En la recta dividida en quintos, para sumar 3/5 + 2/5, ¿en qué punto empiezas y cuántos saltos das?", "Empiezo en 3/5 y doy 2 saltos", "El primer sumando es el punto de partida y el segundo los saltos."),
+        ex("Si el numerador es igual que el denominador, ¿cuánto vale la fracción?", "1", "Todas las partes del entero forman 1."),
+        ex("¿Qué resta comprueba que 3/8 + 4/8 = 7/8?", "7/8 − 4/8", "Debe dar 3/8."),
+    ],
+    app=[
+        ex("Calcula 30/100 + 45/100.", "75/100", "30 centésimos más 45 centésimos son 75 centésimos."),
+        ex("Calcula 5/12 + 4/12.", "9/12", "5 doceavos más 4 doceavos."),
+        ex("Calcula 5/6 + 1/6.", "6/6 = 1", "5 + 1 = 6 sextos, un entero."),
+    ],
+    rea=[
+        ex("Ana dice que 5/6 + 1/6 es 6/12. ¿Tiene razón? Explica con la tira.", "No, es 6/6, o sea 1", "Juntar partes no cambia el denominador."),
+        ex("Beto dice que 3/10 + 4/10 = 7/10 y que lo comprobó con 7/10 − 4/10 = 3/10. ¿Tiene razón?", "Sí", "La resta devuelve el primer sumando."),
+    ],
+    cha=[
+        ex("Calcula 1/10 + 2/10 + 4/10.", "7/10", "1 + 2 + 4 = 7 décimos."),
+        ex("Suma 50/100 + 25/100. ¿Qué fracción con denominador 4 vale lo mismo que el resultado?", "75/100, que es 3/4", "75/100 = 3/4 (cada cuarto es 25 centésimos)."),
+    ],
+    ctx=[ex("Una cinta se divide en 8 partes iguales. Se usan 3/8 para un adorno y 4/8 para otro. ¿Qué fracción de la cinta se usó?", "7/8", "3 octavos más 4 octavos son 7 octavos.")],
+    sc=[
+        ex("Calcula 2/10 + 7/10.", "9/10", "2 + 7 = 9 décimos."),
+        ex("Calcula 1/3 + 2/3.", "3/3 = 1", "3 tercios son un entero."),
+        ex("Calcula 20/100 + 35/100.", "55/100", "20 + 35 = 55 centésimos."),
+    ],
+    op=task(
+        "Dibuja una recta de 0 a 1 dividida en 8 partes iguales. Calcula 2/8 + 5/8 con saltos y 3/8 + 5/8. Marca en la recta dónde empiezas, los saltos que das y dónde llegas en cada suma. Escribe qué sumas llegan al entero.",
+        "2/8 + 5/8 = 7/8: parto en 2/8 y doy 5 saltos de 1/8. 3/8 + 5/8 = 8/8 = 1: parto en 3/8, doy 5 saltos y llego al entero.",
+        ["divide la recta en partes iguales", "parte en el primer sumando", "da los saltos correctos", "reconoce cuándo llega al entero"],
+        ["recta dibujada", "sumas escritas", "frase final"],
+        ["partir desde el 0", "sumar los denominadores"],
+        "Pide que cuente los saltos en voz alta y confirme que terminó en 7/8 y en 8/8.",
+    ),
+    reinforce="Con dos tiras de 10 partes iguales, pinta 4 partes y luego 5 y escribe la suma en décimos.",
+    extend="Calcula 40/100 + 35/100 + 25/100 y explica por qué da un entero.",
+)
+
+lesson(
+    OA9, 3,
+    use="Aprenderé a restar fracciones con igual denominador y a encontrar la parte que falta. Sirve para saber cuánto queda de un entero o cuánto falta para completarlo.",
+    prior=["Sé sumar fracciones con igual denominador.", "Sé que 8/8 es un entero."],
+    explain=[
+        "Restar fracciones con igual denominador es quitar partes del mismo tamaño. Para 5/6 − 2/6, parte de 5 sextos y quita 2 sextos: quedan 3 sextos. Se restan los numeradores, 5 − 2 = 3, y el denominador queda igual: 3/6. En un dibujo, tachas las partes quitadas.",
+        "Para saber cuánto queda de un entero, escribe el entero como una fracción con el mismo denominador. Si un entero está en octavos, el entero es 8/8. Entonces 1 − 3/8 = 8/8 − 3/8 = 5/8. Es lo que queda cuando quitas 3 octavos a un entero.",
+        "La parte faltante es lo que debes agregar para llegar a otra fracción. Si tienes 3/10 y quieres llegar a 7/10, la parte que falta es 7/10 − 3/10 = 4/10. Para comprobar, suma: 3/10 + 4/10 = 7/10. Sumar y restar se comprueban entre sí.",
+    ],
+    vocab=[("restar fracciones", "quitar partes del mismo tamaño"), ("parte faltante", "lo que falta agregar para llegar a una cantidad"), ("lo que queda", "resultado de quitar partes a un entero o a otra fracción"), ("entero como fracción", "1 escrito como 4/4, 8/8, 10/10…"), ("operación inversa", "la suma deshace la resta")],
+    worked=[
+        W("Restar partes", "Calcula 5/6 − 2/6.", ["Parto de 5 sextos y quito 2 sextos.", "5 − 2 = 3 sextos.", "Compruebo: 3/6 + 2/6 = 5/6."], "3/6"),
+        W("Lo que queda de un entero", "Un entero está dividido en 8 partes. Se usan 3/8. ¿Qué fracción queda?", ["Escribo el entero como fracción: 8/8.", "Resto: 8/8 − 3/8 = 5/8.", "Compruebo: 5/8 + 3/8 = 8/8 = 1."], "5/8"),
+    ],
+    mistakes=[
+        M("Escribir 5/6 − 2/6 = 3/0 al restar también los denominadores.", "Se restan los denominadores, pero las partes siguen siendo del mismo tamaño.", "El denominador queda igual: 5/6 − 2/6 = 3/6."),
+        M("Calcular 1 − 3/8 como 2/8.", "Se resta 1 − 3 sin escribir el entero en octavos.", "El entero es 8/8: 8/8 − 3/8 = 5/8."),
+    ],
+    rec=[
+        ex("Calcula 7/8 − 3/8.", "4/8", "7 − 3 = 4 octavos."),
+        ex("Calcula 9/10 − 4/10.", "5/10", "9 − 4 = 5 décimos."),
+        ex("¿Cómo se escribe el entero en cuartos?", "4/4", "Las 4 partes de 4 forman el entero."),
+    ],
+    und=[
+        ex("Al restar fracciones con igual denominador, ¿qué números se restan?", "Los numeradores", "Se quitan partes del mismo tamaño."),
+        ex("Para saber cuánto queda de un entero partido en 5 partes si se usan 2/5, ¿con qué fracción comienza la resta?", "5/5", "El entero en quintos es 5/5."),
+        ex("Si 3/10 + 4/10 = 7/10, ¿cuánto es 7/10 − 3/10?", "4/10", "La resta deshace la suma."),
+    ],
+    app=[
+        ex("Calcula 5/12 − 2/12.", "3/12", "5 − 2 = 3 doceavos."),
+        ex("Calcula 1 − 2/5 escribiendo el entero en quintos.", "3/5", "5/5 − 2/5 = 3/5."),
+        ex("Calcula 80/100 − 35/100.", "45/100", "80 − 35 = 45 centésimos."),
+    ],
+    rea=[
+        ex("Tomás escribió 5/6 − 2/6 = 3/0. ¿Qué error cometió y cuál es el resultado?", "Restó los denominadores; es 3/6", "El denominador queda igual."),
+        ex("Pía dice que a 3/10 le faltan 4/10 para llegar a 7/10. Compruébalo sumando.", "Sí, 3/10 + 4/10 = 7/10", "La suma confirma la parte faltante."),
+    ],
+    cha=[
+        ex("Escribe la fracción que falta: 3/10 + __ = 7/10.", "4/10", "7 − 3 = 4 décimos."),
+        ex("Una jarra de 1 litro está dividida en 4 partes iguales. Si queda 1/4, ¿qué fracción del litro se usó?", "3/4", "4/4 − 1/4 = 3/4."),
+    ],
+    ctx=[ex("Una cinta se divide en 12 partes iguales y se usan 5/12 para un moño. ¿Qué fracción de la cinta queda?", "7/12", "12/12 − 5/12 = 7/12.")],
+    sc=[
+        ex("Calcula 6/8 − 2/8.", "4/8", "6 − 2 = 4 octavos."),
+        ex("Calcula 1 − 3/4 escribiendo el entero en cuartos.", "1/4", "4/4 − 3/4 = 1/4."),
+        ex("Si 2/6 + 3/6 = 5/6, ¿cuánto es 5/6 − 2/6?", "3/6", "La resta devuelve el otro sumando."),
+    ],
+    op=task(
+        "Dibuja una tira dividida en 10 partes iguales. Pinta 7 partes y tacha 3. Escribe 7/10 − 3/10. Luego dibuja otra tira, píntala completa y tacha 4 de 10 partes: escribe 1 − 4/10 usando 10/10. Comprueba ambas restas con una suma.",
+        "7/10 − 3/10 = 4/10; comprobación 4/10 + 3/10 = 7/10. 10/10 − 4/10 = 6/10; comprobación 6/10 + 4/10 = 10/10.",
+        ["dibuja las partes iguales", "tacha las partes que quita", "escribe bien las restas", "comprueba con suma"],
+        ["dos tiras dibujadas", "restas y comprobaciones escritas"],
+        ["restar los denominadores", "no escribir el entero como 10/10"],
+        "Pide que cuente las partes no tachadas y compare con el resultado escrito.",
+    ),
+    reinforce="Pinta 6 de 8 partes, tacha 2 y escribe la resta de octavos.",
+    extend="Resuelve __ − 2/9 = 5/9 usando una suma y explica cómo lo hallaste (puedes usar una tira de 9 partes).",
+)
+
+lesson(
+    OA9, 4,
+    use="Aprenderé a resolver problemas con sumas y restas de fracciones con igual denominador y a comprobar mis respuestas. Sirve para usar fracciones en situaciones reales, como partes de una pizza o de una cinta.",
+    prior=["Sé sumar y restar fracciones con igual denominador.", "Sé usar dibujos y la recta para comprobar."],
+    explain=[
+        "Para resolver un problema con fracciones, lee con calma y decide qué se busca. Si se juntan partes del mismo entero, suma. Si se quitan partes, o se pregunta cuánto queda o cuánto falta, resta. Escribe el entero como una fracción cuando haga falta: por ejemplo, 8/8 o 10/10.",
+        "Luego dibuja el entero con partes iguales o usa una recta. Calcula con numeradores y deja el denominador igual. Escribe la respuesta con lo que se pregunta: «Ana comió 5/8 de la pizza». Ten cuidado con que ambas fracciones sean del mismo entero y del mismo denominador.",
+        "Para comprobar, usa la operación inversa: si sumaste, resta; si restaste, suma. También mira el dibujo: ¿las partes pintadas coinciden con tu resultado? Si el resultado es mayor que el entero en un problema de partes de algo, algo falló.",
+    ],
+    vocab=[("problema", "situación con datos y una pregunta"), ("entero", "la cantidad completa de la que se toman partes"), ("comprobar", "revisar la respuesta con otra operación o con un dibujo"), ("operación inversa", "la suma deshace la resta y la resta deshace la suma"), ("denominador común", "denominador igual en las dos fracciones")],
+    worked=[
+        W("Problema de suma", "Luis leyó 35/100 de un libro el lunes y 40/100 el martes. ¿Qué fracción del libro leyó en total?", ["Se juntan dos partes del mismo libro: es una suma.", "35 + 40 = 75, y el denominador queda 100.", "Compruebo: 75/100 − 40/100 = 35/100."], "75/100"),
+        W("Problema de resta", "Ema usó 3/12 de una cartulina para un dibujo y 5/12 para otro. ¿Qué fracción le queda?", ["Primero junto lo usado: 3/12 + 5/12 = 8/12.", "El entero es 12/12: 12/12 − 8/12 = 4/12.", "Compruebo: 4/12 + 8/12 = 12/12."], "4/12"),
+    ],
+    mistakes=[
+        M("Responder 8/12 en el problema de la cartulina.", "Se responde lo que se usó y no lo que queda.", "La pregunta pide lo que queda: 12/12 − 8/12 = 4/12."),
+        M("Sumar 3/12 + 5/12 como 8/24.", "Se suman los denominadores.", "El denominador no cambia: 8/12."),
+    ],
+    rec=[
+        ex("Rafa leyó 20/100 de un libro y luego 45/100. ¿Qué fracción leyó en total?", "65/100", "20 + 45 = 65 centésimos."),
+        ex("Una pizza tiene 8 partes iguales y se comieron 3/8. ¿Qué fracción queda?", "5/8", "8/8 − 3/8 = 5/8."),
+        ex("Sofía bebió 2/5 de una botella y luego otro 1/5. ¿Qué fracción bebió?", "3/5", "2 + 1 = 3 quintos."),
+    ],
+    und=[
+        ex("En «Ema usó 3/12 y 5/12 de una cartulina», ¿qué operación sirve para saber cuánto usó en total?", "Suma", "Se juntan partes del mismo entero."),
+        ex("En «¿Qué fracción de la cartulina queda?», ¿qué fracción escribes como entero?", "12/12", "El entero en doceavos es 12/12."),
+        ex("Si el resultado de un problema de partes de una pizza es 10/8, ¿es razonable?", "No", "La pizza solo tiene 8 octavos."),
+    ],
+    app=[
+        ex("En una jarra hay 3/10 de litro de jugo y se agrega otro 4/10. ¿Qué fracción hay ahora?", "7/10", "3 + 4 = 7 décimos."),
+        ex("De una cinta de 1 m se cortaron 25/100. ¿Qué fracción queda?", "75/100", "100/100 − 25/100 = 75/100."),
+        ex("Una familia comió 3/6 de una torta el sábado y 2/6 el domingo. ¿Qué fracción comió y cuánta queda?", "5/6 comieron y queda 1/6", "3 + 2 = 5 sextos; 6/6 − 5/6 = 1/6."),
+    ],
+    rea=[
+        ex("Camila dice que a Ema le queda 8/12 de la cartulina porque 3/12 + 5/12 = 8/12. ¿Tiene razón?", "No, le queda 4/12", "8/12 es lo que usó; queda 12/12 − 8/12 = 4/12."),
+        ex("Rosa dice que a 3/8 le faltan 4/8 para llegar a 7/8. Compruébalo sumando.", "Sí, 3/8 + 4/8 = 7/8", "La suma devuelve 7/8."),
+    ],
+    cha=[
+        ex("Ana leyó 2/10 de un libro el lunes, 3/10 el martes y 4/10 el miércoles. ¿Qué fracción le falta por leer?", "1/10", "2 + 3 + 4 = 9 décimos; 10/10 − 9/10 = 1/10."),
+        ex("Un estanque se llenó 3/4 con lluvia y otro 1/4 con una manguera. ¿Qué fracción del estanque está llena?", "4/4, o sea 1", "3 + 1 = 4 cuartos, un entero."),
+    ],
+    ctx=[ex("Un grupo de amigos repartió una torta en 12 partes iguales. Comieron 4/12 el viernes y 5/12 el sábado. ¿Qué fracción queda para el domingo?", "3/12", "4 + 5 = 9 doceavos; 12/12 − 9/12 = 3/12.")],
+    sc=[
+        ex("Juan leyó 20/100 de un cuento y luego 30/100. ¿Qué fracción leyó?", "50/100", "20 + 30 = 50 centésimos."),
+        ex("De una barra de chocolate de 6 partes se comieron 4/6. ¿Qué fracción queda?", "2/6", "6/6 − 4/6 = 2/6."),
+        ex("¿Qué operación comprueba que 5/8 − 2/8 = 3/8?", "3/8 + 2/8", "Debe dar 5/8."),
+    ],
+    op=task(
+        "Resuelve el problema y compruébalo: «Una torta se divide en 10 partes iguales. El sábado se comen 3/10 y el domingo 4/10. ¿Qué fracción se comió en total y qué fracción queda?». Haz un dibujo, escribe las operaciones y comprueba con la operación inversa. Escribe la respuesta en una oración.",
+        "Se comió 3/10 + 4/10 = 7/10. Queda 10/10 − 7/10 = 3/10. Comprobación: 7/10 − 4/10 = 3/10 y 3/10 + 7/10 = 10/10. Respuesta: en total se comieron 7/10 de la torta y queda 3/10.",
+        ["suma lo comido", "resta del entero", "dibuja la torta", "comprueba", "responde con una oración"],
+        ["dibujo", "operaciones y comprobación escritas", "respuesta en oración"],
+        ["responder solo lo comido", "sumar los denominadores"],
+        "Pide que cuente las partes del dibujo comidas y las que quedan para confirmar los dos resultados.",
+    ),
+    reinforce="Resuelve «De una cinta de 8 partes se usan 2/8 y luego 3/8. ¿Qué fracción queda?» con un dibujo.",
+    extend="Inventa un problema con denominador 12 que se resuelva con una suma y una resta y resuélvelo.",
+)

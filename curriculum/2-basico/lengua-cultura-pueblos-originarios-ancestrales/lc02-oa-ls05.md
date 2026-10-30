@@ -386,7 +386,7 @@ Respuesta: no lo uso hasta preguntar
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es la autoría?
+- **E1.** En Lengua y Cultura: ¿Qué es la autoría?
 - **E2.** ¿Qué hago si la ficha no tiene permiso?
 - **E3.** ¿Cuántos datos reviso de un recurso antes de usarlo?
 

@@ -638,7 +638,7 @@ lesson(
     [E("En clases conversan sobre el cuento del zorro. Tomás quiere contar lo suyo sin esperar su turno. ¿Qué debe hacer? A) Levantar la mano B) Hablar fuerte", "A) Levantar la mano", "Así respeta el turno.")],
     [
         E("¿Qué es recontar?", "Contar con mis palabras lo que escuché", "No es repetir igual."),
-        E("¿Qué palabra uso para dar la razón?", "Porque", "Une mi opinión con la razón."),
+        E("En Lenguaje: ¿Qué palabra uso para dar la razón?", "Porque", "Une mi opinión con la razón."),
         E("¿Qué hago si algo no entendí?", "Pregunto", "Aclaro mi duda."),
     ],
     task(

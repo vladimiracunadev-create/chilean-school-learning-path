@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-30 · 4° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 811 clases de 4° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 3° básico.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió respuestas falsas (99 − 45, ruta del nervio óptico, cifras del interior de la Tierra), datos inseguros, ejercicios no enseñados, textos que no se entregaban, aritmética fuera de nivel y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes (ortografía de Lenguaje OA 21, hojas de cálculo de Tecnología OA 05, entre otros) y se reescribieron 70 enunciados de definición idénticos entre asignaturas.
+- Se documenta un desajuste del currículo: en Lenguaje (OA 11 a 18) y en Lengua y Cultura (OA 10 a 16) el texto del OA no coincide con los títulos de las clases. No se corrigió; se anota en el análisis de alineación.
+- El análisis de alineación cubre ahora 1° a 4° básico, y la lista de contenidos para especialistas incluye 4° básico.
+- Siguen abiertos: escucha de al menos 20 músicas, 45 obras de arte al año, textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), software, audio y video, y decisiones que dependen del programa oficial. Sin revisión profesional humana.
+
 ## 2026-10-30 · 3° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 757 clases de 3° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos más frecuentes de 1° y 2° básico.

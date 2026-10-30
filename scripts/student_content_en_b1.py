@@ -50,7 +50,7 @@ register(
         [ex("Título: The Cat. Dibujo: un gato durmiendo en una cama. ¿Qué predicción es mejor? a) A cat sleeps. b) A fish swims. c) A car runs.", "a) A cat sleeps.", "El dibujo muestra un gato durmiendo, y sleeps significa duerme."),
          ex("Título: Rain. Dibujo: nubes grises y un paraguas. ¿Qué palabra aparecerá probablemente en el texto: umbrella o banana?", "umbrella", "El dibujo tiene un paraguas, umbrella en inglés."),
          ex("En inglés, ¿cómo se llama el dibujo que acompaña a un texto?", "picture", "Picture significa dibujo o imagen.")],
-        [ex("¿Qué es una predicción?", "Una idea de lo que pasará en el texto, que se puede cambiar", "Se hace con pistas antes de leer y se comprueba después."),
+        [ex("En Inglés: ¿Qué es una predicción?", "Una idea de lo que pasará en el texto, que se puede cambiar", "Se hace con pistas antes de leer y se comprueba después."),
          ex("¿Qué dos pistas se usan para predecir antes de leer?", "El título y el dibujo", "Son lo primero que se ve de un texto."),
          ex("Si el texto dice algo distinto a tu predicción, ¿qué haces?", "Cambio mi predicción", "Una predicción no es definitiva.")],
         [ex("Título: My Red Hat. Dibujo: un niño con un sombrero rojo. ¿Qué color tendrá el sombrero: red o blue?", "red", "El título dice Red y el dibujo muestra un sombrero rojo."),

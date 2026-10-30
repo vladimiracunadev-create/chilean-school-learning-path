@@ -78,7 +78,7 @@ reg(
       E("Conversación: " + CONV + " ¿Qué idea propuso Pedro?", "Que el gato quiere salir a jugar con ella", "Pedro habla del gato."),
       E("Conversación: " + CONV + " ¿Qué idea propuso Mateo?", "Que haya un dinosaurio en el charco", "Mateo habla del dinosaurio.")],
      [E("¿Para qué conversamos antes de escribir?", "Para encontrar ideas nuevas", "Otros aportan ideas."),
-      E("¿Qué es el propósito de un texto?", "Lo que quiero lograr con él", "Guía qué ideas elegir."),
+      E("En Lenguaje: ¿Qué es el propósito de un texto?", "Lo que quiero lograr con él", "Guía qué ideas elegir."),
       E("¿Todas las ideas que dicen otros sirven siempre?", "No, solo las que ayudan al propósito", "Hay que elegir.")],
      [E("Conversación: " + CONV + " Ana quiere un cuento realista. ¿Sirve la idea del gato?", "Sí", "Un gato mirando desde la puerta es posible."),
       E("Conversación: " + CONV + " Ana quiere un cuento realista. ¿Sirve la idea del dinosaurio?", "No", "No es realista."),

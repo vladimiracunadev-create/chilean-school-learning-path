@@ -145,7 +145,7 @@ Respuesta: No lo uso y pido ayuda
 
 - **R1.** Sitio A: publicado por la escuela de la comunidad; nombra a la educadora que habla; dice la fecha y que tiene autorización. ¿Quién publica?
 - **R2.** Sitio B: no dice quién lo publica, no tiene fecha y no explica de dónde viene el audio. ¿Dice quién lo publica?
-- **R3.** ¿Qué es un autor?
+- **R3.** En Lengua y Cultura: ¿Qué es un autor?
 
 *Comprensión*
 
@@ -177,7 +177,7 @@ Respuesta: No lo uso y pido ayuda
 
 - **E1.** ¿Todo lo de internet es correcto?
 - **E2.** ¿Qué revisas primero?
-- **E3.** ¿A quién pides ayuda?
+- **E3.** En Lengua y Cultura: ¿A quién pides ayuda?
 
 **Actividad abierta.** Con un adulto, mira cualquier video o sitio que ya tengan en casa (por ejemplo, un video de cuentos infantiles) y completa una ficha: quién lo publica, para qué lo publica y si dice la fecha. Si no puedes encontrar los datos, anótalo. Luego escribe una pregunta para el educador/a tradicional o la comunidad: ¿qué recursos digitales confiables podemos usar para escuchar la lengua de su pueblo?
 
