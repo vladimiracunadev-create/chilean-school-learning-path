@@ -32,4 +32,4 @@ En 3° medio Formación General, las dieciocho denominaciones reúnen 495 clases
 
 En 4° medio Formación General, las diecisiete denominaciones reúnen 466 clases desarrolladas en 91 OA. El desarrollo interno de la trayectoria está completo; la revisión humana permanece pendiente.
 
-[Qué es un OA](QUE_ES_UN_OA.md) · [Formatos Markdown y HTML](FORMATOS.md) · [Volver al centro documental](README.md)
+[Material del estudiante](COBERTURA_ESTUDIANTE.md) · [Auditoría de contenido](AUDITORIA_CONTENIDO.md) · [Qué es un OA](QUE_ES_UN_OA.md) · [Formatos Markdown y HTML](FORMATOS.md) · [Volver al centro documental](README.md)

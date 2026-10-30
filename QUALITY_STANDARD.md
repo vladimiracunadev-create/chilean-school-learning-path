@@ -104,3 +104,23 @@ Los validadores revisan estructura, campos, conteos, estados, archivos, anclas y
 - rechazo de datos personales y de porcentajes o estados de dominio sin evidencia diversa y decisión profesional explícita.
 
 La automatización detecta ausencia y deriva; no certifica verdad disciplinar ni pertinencia humana.
+
+## Cuaderno del estudiante
+
+La planificación docente no basta: una clase sólo está desarrollada para quien aprende cuando publica un **cuaderno del estudiante** con:
+
+1. qué aprenderé y para qué sirve, y qué debo saber antes;
+2. explicación disciplinar suficiente y vocabulario;
+3. ejemplos resueltos paso a paso y errores frecuentes con su corrección;
+4. ejercicios de recuperación, comprensión, aplicación, razonamiento y desafío, con todos sus datos escritos, y una situación auténtica;
+5. autoevaluación y solucionario razonado;
+6. una actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
+
+Reglas de autoría:
+
+- El cuaderno es la única fuente de verdad del insumo, la consigna y la referencia de respuesta de su clase; ningún generador por palabras clave puede reemplazarlos.
+- Se prohíbe delegar en el lector la invención de los casos («prepara tres casos»).
+- Una plantilla determinista sólo se admite si es válida para el contenido del OA; el validador limita la dominancia de una misma plantilla y rechaza enunciados idénticos entre clases.
+- Las respuestas aritméticas se recalculan automáticamente con `scripts/validate_student_lessons.py`.
+- La validación automática y la revisión profesional se registran por separado: ningún cuaderno se declara revisado sin evidencia humana.
+

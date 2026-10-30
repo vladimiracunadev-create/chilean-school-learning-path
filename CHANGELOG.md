@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-29 · Cuaderno del estudiante: lote 1 (2° básico, Matemática OA 1 a 5)
+
+- Se añade la capa `scripts/student_lessons.py` y su primer lote de contenido: las 20 clases de `MA02 OA 01` a `MA02 OA 05` publican explicación, ejemplos resueltos, 17 ejercicios o preguntas con respuesta razonada por clase, errores frecuentes, autoevaluación y una actividad abierta con criterios.
+- En esas clases el insumo, la consigna y la referencia de respuesta proceden del cuaderno y dejan de elegirse por palabras clave; se corrige el caso de descomposición aditiva que recibía tarjetas sin relación con el OA.
+- Nuevo validador `scripts/validate_student_lessons.py` (estructura, mínimos, respuestas aritméticas recalculadas, enunciados repetidos y plantillas dominantes), integrado en CI.
+- Nuevos paneles generados: [cobertura real del material del estudiante](docs/COBERTURA_ESTUDIANTE.md) y [auditoría de contenido](docs/AUDITORIA_CONTENIDO.md) con la línea base reproducible de repetición de consignas.
+- Aclaración editorial: “desarrollada” describe la planificación docente. Sólo 20 de 12.997 clases tienen cuaderno del estudiante y ninguna tiene revisión profesional; el resto permanece pendiente.
+
 ## 2026-10-03 · Separación estricta por instrumento
 
 - `docs/EVALUACIONES_COMPLEMENTARIAS.md` y `docs/ENSAYOS_EJEMPLO.md` dejan de concatenar instrumentos y pasan a ser índices breves.

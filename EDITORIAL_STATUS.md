@@ -245,3 +245,13 @@ Las diecisiete denominaciones cuentan con [índice de nivel](docs/4-medio/README
 ## Próximo gate editorial
 
 Un lote solo pasa a “desarrollado” cuando cada clase incluye contenido disciplinar específico, ejemplo o demostración, práctica y evaluación propias del OA. El validador rechaza campos ausentes, criterios insuficientes, conteos divergentes y páginas que no materialicen el contrato. Solo pasa a “revisado” con evidencia humana registrada. La automatización no certifica por sí sola calidad pedagógica.
+
+## Material para el estudiante (estado separado)
+
+“Desarrollada” describe la **planificación docente** de una clase: propósito, secuencia, evidencia y criterios. No significa que el estudiante disponga de explicación, ejercicios y respuestas para aprender por sí mismo. Ese material se publica como **cuaderno del estudiante** y se cuenta aparte en [Cobertura real del material del estudiante](docs/COBERTURA_ESTUDIANTE.md). La [auditoría de contenido](docs/AUDITORIA_CONTENIDO.md) documenta la línea base reproducible y los defectos comprobados.
+
+| Estado | Clases | Evidencia |
+|---|---:|---|
+| Con cuaderno del estudiante | 20 | 2° básico, Matemática, `MA02 OA 01` a `MA02 OA 05`; validación automática aprobada |
+| Con revisión profesional del cuaderno | 0 | pendiente: ningún cuaderno tiene revisión disciplinar humana documentada |
+

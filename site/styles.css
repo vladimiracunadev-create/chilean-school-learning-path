@@ -128,3 +128,17 @@ main{width:min(1240px,calc(100% - 40px));margin:auto}.level-feature{display:grid
 .implementation-summary-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;margin:2rem 0 3rem;background:var(--line)}.implementation-summary-strip div{padding:1.4rem;background:var(--navy);color:#fff}.implementation-summary-strip strong,.implementation-summary-strip span{display:block}.implementation-summary-strip strong{color:var(--coral);font-size:2.7rem}.implementation-summary-strip span{color:#bfd0d0;font-size:.72rem;text-transform:uppercase}.implementation-area-list{display:grid;gap:1.4rem;margin:3rem 0}.implementation-area-card{overflow:hidden;border:1px solid var(--line);background:var(--surface);box-shadow:0 10px 30px rgba(7,28,44,.07)}.implementation-area-card>header{display:grid;grid-template-columns:1fr auto;gap:1rem;align-items:start;padding:1.4rem 1.6rem;background:linear-gradient(105deg,var(--navy),#173f4e);color:#fff}.implementation-area-card h2{margin:.3rem 0 0;font-size:clamp(1.35rem,2.5vw,2rem)}.implementation-area-card .area-purpose{margin:0;padding:1.2rem 1.6rem;border-bottom:1px solid var(--line);font-size:1rem;line-height:1.65}.implementation-area-card .status-explanation{grid-template-columns:1fr 1fr}.implementation-area-card .status-explanation section{padding:1.4rem 1.6rem}
 @media(max-width:900px){.trajectory-notice,.coverage-disclosure,.scoring-explanation{grid-template-columns:1fr}.coverage-disclosure a{justify-self:start}.implementation-summary-strip{grid-template-columns:repeat(2,1fr)}.instrument-hero{background:#f7fbf8}}
 @media(max-width:620px){.implementation-summary-strip{grid-template-columns:1fr}.implementation-area-card>header,.implementation-area-card .status-explanation{grid-template-columns:1fr}.instrument-hero:before{display:none}.routes-section,.coverage-section,.source-section{margin-right:-12px;margin-left:-12px;padding-right:18px;padding-left:18px}}
+.student-notebook{margin-top:1rem;padding:1.2rem;border-left:4px solid var(--gold);background:var(--surface-2)}
+.student-notebook h3{margin:.1rem 0 .6rem;font-size:1.05rem}
+.student-notebook h4{margin:1.1rem 0 .4rem;font-size:.9rem}
+.student-notebook h5{margin:.8rem 0 .3rem;font-size:.82rem;color:var(--teal)}
+.student-notebook p,.student-notebook li,.student-notebook td{font-size:.86rem}
+.student-notebook table{width:100%;border-collapse:collapse}
+.student-notebook th,.student-notebook td{padding:.5rem;text-align:left;border:1px solid var(--line)}
+.worked-example{margin:.6rem 0;padding:.8rem 1rem;border:1px solid var(--line);background:var(--surface)}
+.worked-example h5{margin-top:0}
+.exercise-list{margin:.2rem 0;padding-left:0;list-style:none}
+.exercise-list li{margin:.35rem 0;padding:.45rem .6rem;border:1px solid var(--line);background:var(--surface)}
+.exercise-code{display:inline-block;min-width:2rem;margin-right:.4rem;font:800 .75rem ui-monospace,monospace;color:var(--coral)}
+.answer-key{margin-top:.9rem;padding:.7rem 1rem;border:1px dashed var(--teal);background:var(--surface)}
+.answer-key summary{cursor:pointer;font-weight:800}

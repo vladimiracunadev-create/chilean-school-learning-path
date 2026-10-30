@@ -9,6 +9,10 @@ from __future__ import annotations
 import hashlib
 import re
 
+from student_lessons import derived_artefact, load_all, student_for
+
+load_all()
+
 
 LEVELS = (
     ("Aún no observable", "No produce evidencia suficiente o responde sin relacionarla con la consigna."),
@@ -977,7 +981,12 @@ def enrich_item(item: dict) -> dict:
             if isinstance(value, str):
                 lesson[field] = _clean(value)
         focus = _clean(lesson.get("title") or item["oa_code"])
-        artefact = _artifact(item["subject_slug"], topic, focus, _seed(item["oa_code"], index), item["course_order"])
+        student = student_for(item["oa_code"], index)
+        if student:
+            lesson["student"] = student
+            artefact = derived_artefact(student)
+        else:
+            artefact = _artifact(item["subject_slug"], topic, focus, _seed(item["oa_code"], index), item["course_order"])
         lesson["concrete_resource"] = artefact["resource"]
         lesson["exact_prompt"] = artefact["prompt"]
         lesson["response_reference"] = artefact["reference"]

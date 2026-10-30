@@ -44,6 +44,7 @@ from grade_three_middle_core_lessons import build_sequence as build_grade_three_
 from grade_three_middle_remaining_lessons import build_sequence as build_grade_three_middle_remaining_sequence, SUBJECT_PROFILES as GRADE_THREE_MIDDLE_REMAINING_PROFILES
 from grade_four_middle_lessons import build_sequence as build_grade_four_middle_sequence, SUBJECT_PROFILES as GRADE_FOUR_MIDDLE_PROFILES
 from lesson_quality_enrichment import enrich_item
+from student_lessons import render_html as student_html, render_markdown as student_markdown
 DEVELOPED=ROOT/"content"/"developed-lessons.json"
 
 def version_public_data():
@@ -129,6 +130,7 @@ def developed_block(lesson):
 {timing_45}
 
 """ if lesson.get("assessment_levels") else ""
+ student_section=(chr(10)+student_markdown(lesson["student"])+chr(10)) if lesson.get("student") else ""
  return f"""**Propósito docente:** {lesson['purpose']}
 
 **Meta para estudiantes:** {lesson['goal']}
@@ -143,7 +145,7 @@ def developed_block(lesson):
 
 **Materiales y preparación:** {lesson['materials']}{app_section}
 
-{quality_section}
+{quality_section}{student_section}
 **Apoyo en el mismo OA:** {lesson['support']}
 
 **Profundización:** {lesson['extension']}
@@ -1685,7 +1687,7 @@ def developed_lesson_html(item,index,code,lesson,status):
 <p class="lesson-focus"><strong>Propósito docente:</strong> {esc(lesson['purpose'])}</p><p class="student-goal"><strong>Meta para estudiantes:</strong> {esc(lesson['goal'])}</p>
 <div class="lesson-grid"><section><h3>Inicio · 10 min</h3><p>{esc(lesson['opening'])}</p></section><section><h3>Modelado · 20 min</h3><p>{esc(lesson['model'])}</p></section><section><h3>Práctica guiada · 25 min</h3><p>{esc(lesson['guided'])}</p></section><section><h3>Desempeño individual · 25 min</h3><p>{esc(lesson['independent'])}</p></section></div>
 <div class="material-callout"><h3>Materiales y preparación</h3><p>{esc(lesson['materials'])}</p></div>
-{app_panel}{quality_pack}
+{app_panel}{quality_pack}{student_html(lesson["student"]) if lesson.get("student") else ""}
 <div class="support-grid"><p><strong>Apoyo:</strong> {esc(lesson['support'])}</p><p><strong>Profundización:</strong> {esc(lesson['extension'])}</p></div>
 <div class="assessment-grid"><section><h3>Ticket de salida · 10 min</h3><p>{esc(lesson['ticket'])}</p><p><strong>Evidencia:</strong> {esc(lesson['evidence'])}</p></section><section><h3>Criterios observables</h3><ul>{criteria}</ul></section></div>
 {quality_tables}
