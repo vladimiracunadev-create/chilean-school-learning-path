@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-30 · 1° básico: vacíos de cobertura frente al OA cerrados
+
+- Inglés OA 3 (contraste /w/-/th/) y OA 7 (ocupaciones y comida), Tecnología OA 3 (fibras y plásticos) y OA 6 (libro digital, simulador, interactivo y creativo) se incorporaron a las clases existentes, reemplazando ejercicios repetitivos sin aumentar su número.
+- En Historia se reemplazaron las restas de años de cuatro cifras, fuera del rango numérico del nivel, por comparación, orden de fechas y saltos cortos.
+- Siguen abiertos Lenguaje OA 9 y 17 (obras completas y poemas de autor, por derechos de autor) y la lengua indígena real, que corresponde a un educador o educadora tradicional. Sin revisión profesional humana.
+
 ## 2026-10-30 · 1° básico: segunda lectura crítica de las 691 clases
 
 - Cada una de las 691 clases de 1° básico fue releída por un segundo lector independiente (asistido por IA, no revisión profesional): contrastó el cuaderno con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió en el mismo archivo errores de respuesta, datos falsos o dudosos, contradicciones internas, ejercicios no enseñados, contenido de otros niveles (multiplicación, centímetros, restas de años) y riesgos de seguridad.

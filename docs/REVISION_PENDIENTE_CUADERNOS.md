@@ -8,6 +8,7 @@ Estado: cada clase tuvo validación automática y una segunda lectura crítica a
 
 Además de lo señalado por asignatura:
 
+- **Ampliaciones recientes para revisar:** Inglés, descripción articulatoria de /w/ y th y respuestas cortas «Yes, I do / No, I don't»; Tecnología, criterios de elección de materiales (pegamento y plástico, pliegues) y la tipología de cuatro tipos de software, con pantallas descritas en texto.
 - **Todas:** los textos oficiales de los OA se tomaron de las fichas del repositorio; falta contrastarlos con el Programa de Estudio vigente.
 - **Matemática:** «par», «dobles», «familia de operaciones» y la tríada concreto, pictórico y simbólico se enseñan de forma muy breve; confirmar que alcanza para 6 y 7 años. El umbral «razonable = diferencia hasta 3» es una convención del cuaderno.
 - **Historia:** mapas de Chile como línea vertical con el norte arriba; calendario de septiembre de 2025 (no se actualiza solo); término «ratificó» de la Convención sobre los Derechos del Niño.

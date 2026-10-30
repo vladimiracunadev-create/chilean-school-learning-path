@@ -13,16 +13,16 @@ Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 5
 | artes-visuales | 24 | 39 % | 6 |
 | ciencias-naturales | 49 | 46 % | 3 |
 | educacion-fisica-salud | 48 | 37 % | 14 |
-| historia-geografia-ciencias-sociales | 68 | 46 % | 10 |
+| historia-geografia-ciencias-sociales | 68 | 46 % | 11 |
 | ingles-propuesta | 69 | 28 % | 28 |
 | lengua-cultura-pueblos-originarios-ancestrales | 129 | 44 % | 13 |
 | lenguaje-comunicacion | 131 | 41 % | 6 |
 | matematica | 83 | 51 % | 7 |
 | musica | 29 | 51 % | 1 |
 | orientacion | 35 | 41 % | 0 |
-| tecnologia | 26 | 34 % | 0 |
+| tecnologia | 26 | 40 % | 0 |
 
-**Clases marcadas para lectura prioritaria:** 88 de 691.
+**Clases marcadas para lectura prioritaria:** 89 de 691.
 
 ## Segunda lectura crítica de las 691 clases
 
@@ -42,13 +42,11 @@ Después de la validación automática, cada una de las 691 clases de 1.º bási
 | Artes Visuales | 24 | Multiplicaciones y restas de años de otro nivel; datos de obras dudosos; ambigüedades. |
 | Tecnología | 26 | Instrucciones de seguridad incorrectas; respuesta contraria a lo enseñado; multiplicaciones; software ficticio rotulado. |
 
-### Vacíos de cobertura frente al OA que no se resolvieron
+### Vacíos de cobertura frente al OA
 
-- **Inglés:** el contraste /w/-/th/ del OA 03 y los temas de ocupaciones y comida del OA 07 no están cubiertos; falta decidir si se agrega una clase o se redistribuye.
-- **Tecnología:** OA 03 (técnicas y materiales como fibras y plásticos) y OA 06 (simuladores y libros digitales) necesitan ampliar clases.
-- **Lenguaje:** OA 17 y OA 09 piden obras completas y poemas de autor; el cuaderno usa textos originales breves por derechos de autor.
+- **Cerrados en una pasada posterior:** Inglés OA 03 (contraste /w/-/th/) y OA 07 (ocupaciones y comida); Tecnología OA 03 (fibras y plásticos) y OA 06 (tipos de software); Historia (restas de años de cuatro cifras reemplazadas por comparación, orden y saltos cortos).
+- **Lenguaje:** OA 17 y OA 09 piden obras completas y poemas de autor; el cuaderno usa textos originales breves por derechos de autor. Queda abierto.
 - **Lengua y Cultura de los Pueblos Originarios:** las clases de lengua se practican sólo con castellano y el saludo «mari mari»; el aprendizaje de la lengua real queda en manos del educador o educadora tradicional.
-- **Historia:** quedan restas de años de cuatro cifras (resultados de hasta unos 56) que un especialista debe decidir si deja o cambia por comparación de años.
 
 Todos los contenidos que requieren especialista, incluida la verificación contra el Programa de Estudio oficial, siguen listados en [Revisión profesional pendiente](REVISION_PENDIENTE_CUADERNOS.md).
 
@@ -60,20 +58,20 @@ Todos los contenidos que requieren especialista, incluida la verificación contr
 | EN01 OA 02 | 3 | Objects, possession and quantity | 8 % | 0 % | 12.8 | — |
 | EN01 OA 02 | 2 | People and abilities | 8 % | 0 % | 12.6 | — |
 | EN01 OA 02 | 1 | School instructions | 11 % | 50 % | 16.1 | — |
-| EN01 OA 07 | 4 | Location and information questions | 12 % | 33 % | 7.1 | — |
 | LE01 OA 23 | 3 | Describir para hacer visible | 12 % | 33 % | 14.1 | — |
 | EN01 OA 03 | 3 | Notice frequent expressions | 12 % | 33 % | 10.5 | — |
 | EN01 OA 02 | 4 | Places and location | 13 % | 0 % | 10.4 | — |
 | EN01 OA 02 | 5 | Actions happening now | 13 % | 0 % | 9.7 | — |
 | EN01 OA 07 | 2 | Ability, feeling and possession | 14 % | 0 % | 8.5 | — |
 | EN01 OA 04 | 4 | Focus on key words | 14 % | 0 % | 10.0 | — |
+| EN01 OA 07 | 4 | Location and information questions | 14 % | 33 % | 7.8 | — |
 | EF01 OA 07 | 2 | Juego tradicional contextualizado | 15 % | 67 % | 19.6 | — |
 | EN01 OA 10 | 2 | Explore /th/ safely | 15 % | 0 % | 10.9 | — |
 | EN01 OA 11 | 3 | Use objects and gestures | 17 % | 0 % | 9.8 | — |
 | EN01 OA 11 | 5 | Interact after presenting | 17 % | 33 % | 7.3 | — |
 | EN01 OA 12 | 5 | Location and current action | 18 % | 0 % | 19.9 | — |
 | EN01 OA 12 | 2 | Ability and quantity | 19 % | 0 % | 19.3 | — |
-| EN01 OA 03 | 4 | Distinguish key English sounds | 21 % | 33 % | 11.5 | — |
+| EN01 OA 03 | 4 | Distinguish key English sounds | 21 % | 33 % | 13.2 | — |
 | EN01 OA 11 | 1 | Enter classroom interaction | 21 % | 0 % | 11.7 | — |
 | EF01 OA 04 | 2 | Adaptar locomoción | 21 % | 0 % | 12.2 | — |
 | EN01 OA 05 | 2 | Show meaning through drawing | 22 % | 0 % | 12.2 | — |
@@ -84,6 +82,7 @@ Todos los contenidos que requieren especialista, incluida la verificación contr
 | EN01 OA 03 | 2 | Follow simple instructions | 25 % | 33 % | 12.1 | — |
 | AR01 OA 01 | 5 | Ampliar la mirada latinoamericana y universal | 27 % | 25 % | 15.2 | — |
 | EN01 OA 03 | 1 | Identify characters and objects | 27 % | 33 % | 16.0 | — |
+| HI01 OA 04 | 3 | Una fuente oral | 27 % | 100 % | 16.3 | — |
 | LC01 OA LS06 | 2 | Primer acercamiento · Escucha focalizada | 27 % | 25 % | 9.7 | — |
 | LC01 OA LS06 | 3 | Primer acercamiento · Símbolo y soporte digital | 27 % | 40 % | 13.2 | — |
 | EF01 OA 01 | 1 | Locomoción con control | 28 % | 100 % | 17.0 | — |

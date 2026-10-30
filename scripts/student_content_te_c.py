@@ -328,13 +328,14 @@ reg(
     use="Aprenderé a leer para qué sirve un programa educativo y a reconocer sus controles. Sirve para usarlo con seguridad y aprender de verdad.",
     prior=["Sé que un dispositivo se usa con permiso.", "Sé leer palabras cortas."],
     explain=[
-        "Un software educativo es un programa para aprender algo, como clasificar objetos o contar. Los hay de muchos tipos: simuladores, libros digitales, juegos interactivos y programas para crear. En este cuaderno usamos un programa inventado, «Grupos de formas», solo para practicar. Antes de usarlo, lee el propósito, que es lo que dice que se hace en el programa, por ejemplo: «Arrastra cada objeto a su caja».",
+        "Un software educativo es un programa para aprender algo, como clasificar objetos o contar. Hay cuatro tipos. El libro digital se lee: pasas las páginas y escuchas el texto. El simulador deja cambiar algo y ver qué pasa. El interactivo te hace responder y te dice si acertaste. El creativo sirve para dibujar o armar algo. En este cuaderno usamos programas ficticios, inventados solo para practicar, como «Grupos de formas», que es interactivo. Antes de usarlo, lee el propósito, que es lo que dice que se hace en el programa, por ejemplo: «Arrastra cada objeto a su caja».",
         "Los controles son los botones y las zonas que se tocan. El botón de inicio comienza la actividad. La flecha avanza. El altavoz sube o baja el sonido. El signo de pregunta pide ayuda. La puerta o la X sale del programa. Antes de empezar, mira cada uno y pregunta si no entiendes.",
         "No necesitas cuenta ni datos personales para usar un programa educativo infantil. Si te pide tu nombre completo, tu edad o tu foto, para y avisa a un adulto. Usa el programa un rato corto, mira la pantalla con descansos y cierra bien al terminar.",
     ],
     vocab=[("software educativo", "programa para aprender algo"), ("propósito", "para qué sirve el programa"), ("control", "botón o zona que se toca"), ("ayuda", "botón que explica cómo seguir"), ("salir", "cerrar el programa")],
     worked=[
         ("Leer el propósito", "La pantalla dice: «Arrastra cada animal al grupo de los que vuelan o de los que caminan». ¿Cuál es el propósito?", ["Leo la frase.", "Pide mover animales a dos grupos.", "Es clasificar animales."], "Clasificar animales en dos grupos"),
+        ("Reconocer el tipo", "Pantalla de un ejemplo ficticio: un cuento con una flecha para pasar la página y un altavoz que lee en voz alta. ¿Qué tipo de software es?", ["Se pasan páginas y se escucha el texto.", "Eso hace un libro.", "Es un libro digital."], "Libro digital"),
         ("Elegir un control", "No sabes qué hacer. ¿Qué botón usas: ayuda o salir?", ["Necesito una explicación.", "El botón de ayuda da instrucciones."], "Ayuda"),
     ],
     mistakes=[
@@ -344,7 +345,7 @@ reg(
     R=[
         ("¿El botón de ayuda explica cómo seguir o apaga el sonido?", "Explica cómo seguir", "Es su función."),
         ("¿El botón con una X sirve para salir o para empezar?", "Para salir", "La X cierra."),
-        ("¿Un programa educativo sirve para aprender o solo para mirar?", "Para aprender", "Su propósito es educativo."),
+        ("Un programa ficticio muestra un cuento con flecha para pasar páginas y un altavoz que lo lee. ¿Qué tipo es: libro digital o creativo?", "Libro digital", "En él se pasan páginas y se escucha el texto."),
     ],
     C=[
         ("¿Qué es el propósito de un programa?", "Para qué sirve", "Dice qué voy a hacer."),
@@ -354,14 +355,14 @@ reg(
     A=[
         ("La pantalla dice: «Arrastra cada figura al grupo de los círculos o al grupo de los cuadrados». ¿Cuántos grupos hay?", "2", "Círculos y cuadrados."),
         ("Hay 6 figuras y ya clasificaste 4. ¿Cuántas faltan?", "2", "6 − 4 = 2."),
-        ("Tienes 4 botones: inicio, ayuda, sonido y salir. ¿Cuál sirve para pedir instrucciones?", "Ayuda", "Explica cómo seguir."),
+        ("Un programa ficticio tiene una hoja en blanco, lápices de colores y una goma para dibujar. ¿Es libro digital, simulador o creativo?", "Creativo", "Sirve para dibujar o armar algo."),
     ],
     Z=[
         ("Luis apretó salir y perdió su actividad. ¿Qué debió revisar antes de apretar?", "Qué hace el botón", "La X cierra el programa."),
         ("Una pantalla pide «escribe tu dirección para jugar». ¿Debes escribirla? Responde sí o no.", "No", "Es un dato personal."),
     ],
     D=[
-        ("Si no hay dispositivo, ¿qué alternativa desconectada sirve para clasificar: tarjetas de papel con dibujos o ninguna?", "Tarjetas de papel con dibujos", "Se clasifica igual sin pantalla."),
+        ("Un programa ficticio te muestra una pregunta, tú tocas una respuesta y él dice «Muy bien» o «Inténtalo de nuevo». ¿Qué tipo es: interactivo o libro digital?", "Interactivo", "Pide responder y da retroalimentación."),
         ("Clasificas 8 tarjetas: 5 son de animales que vuelan. ¿Cuántas son de los que no vuelan?", "3", "8 − 5 = 3."),
     ],
     ctx=("Pía abre un programa que dice: «Arrastra cada objeto a la caja de las cosas redondas o de las cosas cuadradas». Tiene 6 objetos. Escribe cuál es el propósito.", "Clasificar objetos en dos cajas", "Se mueve cada objeto a su caja."),
@@ -371,9 +372,9 @@ reg(
         ("¿Das tus datos personales a un programa? Responde sí o no.", "No", "Debes avisar a un adulto."),
     ],
     open_task=(
-        "Esta es la pantalla de «Grupos de formas», un programa inventado para este cuaderno: título «Grupos de formas», botones inicio, ayuda, sonido y salir, y la frase «Arrastra cada figura a su grupo: redondas o con esquinas». Hay 6 figuras: círculo, cuadrado, triángulo, óvalo, rectángulo, círculo. Escribe el propósito, qué hace cada botón y a qué grupo va cada figura.",
-        "Propósito: clasificar figuras en redondas o con esquinas. Inicio comienza, ayuda explica, sonido cambia el volumen, salir cierra. Redondas: círculo, óvalo, círculo. Con esquinas: cuadrado, triángulo, rectángulo.",
-        ["lee el propósito", "dice qué hace cada control", "clasifica las 6 figuras"],
+        "Esta es la pantalla de «Grupos de formas», un programa inventado para este cuaderno: título «Grupos de formas», botones inicio, ayuda, sonido y salir, y la frase «Arrastra cada figura a su grupo: redondas o con esquinas». Hay 6 figuras: círculo, cuadrado, triángulo, óvalo, rectángulo, círculo. Escribe el propósito, qué hace cada botón y a qué grupo va cada figura. Después escribe de qué tipo es este programa y de qué tipo es otro ejemplo ficticio con una hoja en blanco y lápices de colores.",
+        "Propósito: clasificar figuras en redondas o con esquinas. Inicio comienza, ayuda explica, sonido cambia el volumen, salir cierra. Redondas: círculo, óvalo, círculo. Con esquinas: cuadrado, triángulo, rectángulo. «Grupos de formas» es interactivo porque pide responder y avisa si acerté. El de la hoja en blanco es creativo.",
+        ["lee el propósito", "dice qué hace cada control", "clasifica las 6 figuras", "nombra el tipo de cada programa"],
         ["propósito escrito", "lista de botones", "clasificación"],
         ["no leer el propósito", "dar datos personales"],
         "Pide leer la pantalla en voz alta. Si una figura está mal clasificada, pregunta si tiene esquinas.",
@@ -389,12 +390,13 @@ reg(
     prior=["Sé leer el propósito de un programa.", "Sé qué hace cada control."],
     explain=[
         "Explorar un programa es probar cosas para ver qué pasa. Es mejor explorar con una pregunta: «¿qué pasa si arrastro el triángulo a la caja de los círculos?». Una pregunta te dice qué probar y te ayuda a entender el programa.",
-        "Prueba una cosa a la vez. Arrastra solo una figura, mira la respuesta del programa y anótala. Si cambias muchas cosas juntas, no sabrás cuál produjo el efecto. Anota: lo que probé y lo que pasó.",
+        "Los simuladores son ideales para explorar, porque dejan cambiar algo y ver qué pasa. Por ejemplo, en un simulador ficticio de una planta, si subes el agua de 2 a 5 vasos, la planta de la pantalla crece más. Prueba una cosa a la vez. Arrastra solo una figura, mira la respuesta del programa y anótala. Si cambias muchas cosas juntas, no sabrás cuál produjo el efecto. Anota: lo que probé y lo que pasó.",
         "Después responde tu pregunta con lo que viste. Si la respuesta no te convence, haz otra pregunta nueva. Explorar bien es probar con orden, anotar y sacar una conclusión. Recuerda usar el dispositivo con permiso y por poco tiempo.",
     ],
     vocab=[("explorar", "probar cosas para ver qué pasa"), ("pregunta", "algo que quiero saber"), ("anotar", "escribir lo que pasó"), ("conclusión", "lo que aprendí después de probar"), ("una cosa a la vez", "cambiar solo un elemento en cada prueba")],
     worked=[
         ("Hacer una pregunta", "En el programa inventado «Grupos de formas» quieres saber qué hace con un triángulo. Escribe una pregunta.", ["Pienso qué quiero saber.", "Quiero saber en qué grupo va el triángulo.", "Escribo: ¿en qué grupo cae el triángulo?"], "¿En qué grupo cae el triángulo?"),
+        ("Explorar un simulador", "Un simulador ficticio de una planta tiene una barra de agua. La pones en 2 vasos y la planta queda chica. La subes a 5 vasos y queda grande. ¿Qué cambiaste y qué pasó?", ["Cambié solo el agua.", "De 2 a 5 vasos.", "La planta quedó más grande."], "Cambié el agua y la planta creció"),
         ("Anotar lo que pasó", "Arrastraste el triángulo al grupo de las redondas y el programa dijo «Inténtalo de nuevo». ¿Qué anotas?", ["Escribo lo que probé.", "Escribo lo que pasó.", "Anoto: triángulo en redondas, no correcto."], "Triángulo en redondas: no correcto"),
     ],
     mistakes=[
@@ -414,14 +416,14 @@ reg(
     A=[
         ("Probaste 3 figuras: círculo (correcto), cuadrado (correcto), triángulo (incorrecto). ¿Cuántas fueron correctas?", "2", "Círculo y cuadrado."),
         ("Anotaste: círculo en redondas, cuadrado en esquinas, óvalo en redondas. ¿Cuántas pruebas anotaste?", "3", "Hay tres anotaciones."),
-        ("Quieres saber qué hace el rectángulo. Escribe cuál de estas sirve como pregunta: «¿en qué grupo va el rectángulo?» o «¿cuántos días tiene la semana?»", "¿En qué grupo va el rectángulo?", "Es la pregunta sobre lo que probarás."),
+        ("Simulador ficticio de una planta: con 2 vasos de agua la planta sale chica y con 5 vasos sale más grande. ¿Qué cambiaste entre una prueba y otra: el agua o el color?", "El agua", "Solo cambió la cantidad de vasos."),
     ],
     Z=[
         ("Ema movió 5 figuras de golpe y el programa dijo «incorrecto». No sabe cuál falló. ¿Qué debió hacer?", "Mover una figura a la vez", "Así sabe cuál falló."),
         ("Teo no anotó nada y ahora no recuerda qué probó. ¿Qué paso omitió?", "Anotar lo que probó", "Sin notas se pierde la información."),
     ],
     D=[
-        ("Preguntas posibles: A) ¿en qué grupo va el óvalo?, B) ¿de qué color es el fondo? Si quieres aprender a clasificar, ¿cuál eliges?", "A", "Trata de la clasificación."),
+        ("Pantalla ficticia: una barra de «lluvia» que va de poca a mucha y, al subirla, un charco que crece. ¿Qué tipo de software es: libro digital, simulador o creativo?", "Simulador", "Cambias algo y ves qué pasa."),
         ("Pruebas: círculo → redondas (✔), cuadrado → redondas (✘), triángulo → esquinas (✔), óvalo → redondas (✔). ¿Cuántas ✘ hay?", "1", "Solo el cuadrado falló."),
     ],
     ctx=("Rita explora el programa «Grupos de formas» con la pregunta «¿en qué grupo va el cuadrado?». Arrastra el cuadrado a «con esquinas» y el programa inventado dice «Muy bien». ¿Qué anota?", "Cuadrado en con esquinas: correcto", "Registra lo que probó y lo que pasó."),
@@ -431,9 +433,9 @@ reg(
         ("¿Qué haces después de probar?", "Anotas y sacas una conclusión", "Se responde la pregunta."),
     ],
     open_task=(
-        "Con las figuras de «Grupos de formas» (círculo, cuadrado, triángulo, óvalo) y los grupos redondas y con esquinas, haz esta pregunta: «¿en qué grupo va el triángulo?». En el programa inventado, si pones el triángulo en «con esquinas» dice «Muy bien»; si lo pones en «redondas» dice «Inténtalo de nuevo». Prueba el triángulo en «con esquinas». Escribe tu prueba, qué dijo el programa y tu conclusión.",
-        "Pregunta: ¿en qué grupo va el triángulo? Probé triángulo en con esquinas y dijo «Muy bien». Conclusión: el triángulo va con las figuras con esquinas porque tiene tres esquinas.",
-        ["escribe una pregunta", "prueba una cosa a la vez", "anota lo que pasó", "escribe una conclusión"],
+        "Con las figuras de «Grupos de formas» (círculo, cuadrado, triángulo, óvalo) y los grupos redondas y con esquinas, haz esta pregunta: «¿en qué grupo va el triángulo?». En el programa inventado, si pones el triángulo en «con esquinas» dice «Muy bien»; si lo pones en «redondas» dice «Inténtalo de nuevo». Prueba el triángulo en «con esquinas». Escribe tu prueba, qué dijo el programa y tu conclusión. Luego escribe qué probarías en un simulador ficticio de una planta con una barra de agua de 2 a 5 vasos.",
+        "Pregunta: ¿en qué grupo va el triángulo? Probé triángulo en con esquinas y dijo «Muy bien». Conclusión: el triángulo va con las figuras con esquinas porque tiene tres esquinas. En la planta cambiaría solo el agua, de 2 a 5 vasos, y miraría si la planta crece.",
+        ["escribe una pregunta", "prueba una cosa a la vez", "anota lo que pasó", "escribe una conclusión", "dice qué cambiaría en el simulador"],
         ["pregunta escrita", "nota de la prueba", "conclusión"],
         ["probar al azar", "no anotar"],
         "Pide leer la nota y decir cuál era la pregunta. Si la conclusión no responde la pregunta, que la reescriba.",
@@ -448,13 +450,14 @@ reg(
     use="Aprenderé a leer los mensajes que da el programa después de cada prueba y a decidir qué hacer. Sirve para aprender de los errores sin enojarme.",
     prior=["Sé explorar con una pregunta.", "Sé anotar lo que pasó."],
     explain=[
-        "La retroalimentación es la respuesta del programa a lo que hiciste. Puede decir «muy bien», «inténtalo de nuevo» o dar una pista. Leerla bien te dice si acertaste y qué hacer después.",
+        "La retroalimentación es la respuesta del programa a lo que hiciste. Puede decir «muy bien», «inténtalo de nuevo» o dar una pista. Leerla bien te dice si acertaste y qué hacer después. Los programas interactivos, que te hacen responder, son los que más retroalimentación dan. Un libro digital, en cambio, solo te deja pasar páginas y escuchar, y no te dice si acertaste.",
         "Cuando el mensaje dice que está bien, anota lo que hiciste para repetirlo. Cuando dice que no, no es un castigo: es información. Lee la pista, como «las figuras redondas no tienen esquinas», y piensa qué cambiar. Prueba otra vez.",
         "A veces un mensaje no se entiende. Entonces usa el botón de ayuda o pregunta a un adulto. Si el programa te dice cosas que no te gustan o te pide datos personales, para y avisa a un adulto. Siempre es mejor entender el mensaje que apretar al azar.",
     ],
     vocab=[("retroalimentación", "respuesta del programa a lo que hiciste"), ("pista", "ayuda para pensar mejor"), ("acertar", "hacerlo bien"), ("error", "algo que sale mal y sirve para aprender"), ("repetir", "volver a intentar")],
     worked=[
         ("Leer una pista", "Pusiste el cuadrado en «redondas». El mensaje dice: «Mira las esquinas». ¿Qué haces?", ["Leo la pista.", "El cuadrado tiene esquinas.", "Lo muevo a con esquinas."], "Mover el cuadrado al grupo con esquinas"),
+        ("Un interactivo ficticio", "Pantalla ficticia: «¿Cuántas patas tiene un gato?». Tocas 2 y aparece «Casi; cuenta de nuevo». ¿Qué tipo de software es y qué haces?", ["Pide responder y contesta a lo que toqué.", "Es un interactivo.", "Cuento las patas y toco otra respuesta."], "Es interactivo; cuento de nuevo y pruebo otra respuesta"),
         ("Aprender del acierto", "El programa dice «Muy bien» al poner el círculo en redondas. ¿Qué anotas?", ["Anoto lo que hice.", "Círculo en redondas.", "Sirve para repetirlo."], "Círculo en redondas: correcto"),
     ],
     mistakes=[
@@ -478,11 +481,11 @@ reg(
     ],
     Z=[
         ("Luis dice «el programa se equivocó» cuando recibió «Inténtalo de nuevo» tres veces con el mismo movimiento. ¿Qué debe hacer?", "Leer la pista y cambiar el movimiento", "Repetir lo mismo da el mismo mensaje."),
-        ("Ana no lee los mensajes y solo aprieta. ¿Aprenderá lo que quiere el programa? Responde sí o no.", "No", "Sin leerlos pierde la ayuda."),
+        ("Un libro digital solo pasa páginas y lee en voz alta, sin hacer preguntas. ¿Te dice si acertaste? Responde sí o no.", "No", "No pide respuestas, así que no da retroalimentación."),
     ],
     D=[
         ("Escribe qué harías con el mensaje «Mira cuántos lados tiene» si pusiste un triángulo (3 lados) en un grupo de 4 lados.", "Cambiarlo al grupo de 3 lados", "Tiene 3 lados."),
-        ("De 6 intentos, 2 tuvieron mensaje de error. ¿Cuántos fueron correctos?", "4", "6 − 2 = 4."),
+        ("Un interactivo ficticio hizo 3 preguntas. Respondiste bien 2 y mal 1. ¿Cuántos «Muy bien» viste?", "2", "Hubo un «Muy bien» por cada acierto."),
     ],
     ctx=("Pía puso el óvalo en «con esquinas». El programa dijo: «Fíjate si hay esquinas». ¿A qué grupo debe cambiarlo?", "A redondas", "El óvalo no tiene esquinas."),
     sc=[
@@ -491,9 +494,9 @@ reg(
         ("¿Qué haces con una pista?", "La lees y pruebas otra vez", "Te guía a corregir."),
     ],
     open_task=(
-        "Lee estos tres intentos en «Grupos de formas» (programa inventado). 1) Cuadrado en redondas: «Inténtalo de nuevo, mira las esquinas». 2) Círculo en redondas: «Muy bien». 3) Triángulo en redondas: «Inténtalo de nuevo, cuenta los lados». Escribe para cada intento qué significa el mensaje y qué harías.",
-        "1) Me equivoqué: el cuadrado tiene esquinas, lo muevo a con esquinas. 2) Acerté, anoto círculo en redondas. 3) Me equivoqué: el triángulo tiene 3 lados y esquinas, lo muevo a con esquinas.",
-        ["lee cada mensaje", "dice si acertó o no", "decide qué hacer", "usa la pista"],
+        "Lee estos tres intentos en «Grupos de formas» (programa inventado). 1) Cuadrado en redondas: «Inténtalo de nuevo, mira las esquinas». 2) Círculo en redondas: «Muy bien». 3) Triángulo en redondas: «Inténtalo de nuevo, cuenta los lados». Escribe para cada intento qué significa el mensaje y qué harías. Escribe también por qué «Grupos de formas» es un software interactivo y no un libro digital.",
+        "1) Me equivoqué: el cuadrado tiene esquinas, lo muevo a con esquinas. 2) Acerté, anoto círculo en redondas. 3) Me equivoqué: el triángulo tiene 3 lados y esquinas, lo muevo a con esquinas. Es interactivo porque yo respondo y me contesta; un libro digital solo pasa páginas.",
+        ["lee cada mensaje", "dice si acertó o no", "decide qué hacer", "usa la pista", "explica por qué es interactivo"],
         ["tabla de tres filas", "frases de decisión"],
         ["no leer el mensaje", "enojarse con el error"],
         "Pide leer el mensaje y decir con sus palabras qué le dice el programa.",
@@ -509,12 +512,13 @@ reg(
     prior=["Sé clasificar figuras con un programa.", "Sé leer mensajes de retroalimentación."],
     explain=[
         "Transferir es usar lo que aprendiste en un lugar nuevo. En el programa aprendiste a clasificar figuras por esquinas. Ahora puedes clasificar objetos de tu casa: una pelota y una moneda son redondas, un libro y una caja tienen esquinas.",
-        "Para transferir, piensa en qué regla usaste. La regla fue: si tiene esquinas, va con esquinas; si no tiene, va con redondas. Aplica la misma regla a las cosas nuevas. Si una cosa no entra en ninguna, crea un grupo nuevo y explica tu regla.",
+        "También puedes elegir el tipo de programa según lo que necesitas: para oír un cuento, un libro digital; para ver qué pasa si cambias algo, un simulador; para practicar con mensajes, un interactivo; y para dibujar o armar, uno creativo. Para transferir, piensa en qué regla usaste. La regla fue: si tiene esquinas, va con esquinas; si no tiene, va con redondas. Aplica la misma regla a las cosas nuevas. Si una cosa no entra en ninguna, crea un grupo nuevo y explica tu regla.",
         "Para cerrar bien, guarda lo que quieras conservar, sal del programa con el botón de salir y apaga o deja el dispositivo como estaba. Haz una pausa de pantalla, mira lejos y mueve el cuerpo. Dile a un adulto que terminaste.",
     ],
     vocab=[("transferir", "usar lo aprendido en otra situación"), ("regla", "idea que uso para decidir"), ("cerrar", "salir del programa y dejar todo como estaba"), ("pausa", "descanso para los ojos y el cuerpo"), ("clasificar", "poner en grupos según una regla")],
     worked=[
         ("Aplicar la regla", "Usa la regla de esquinas con una caja. ¿A qué grupo va?", ["Una caja tiene esquinas.", "La regla dice: esquinas va con esquinas.", "Va con esquinas."], "Con esquinas"),
+        ("Elegir el tipo", "Quieres dibujar un paisaje con colores. ¿Eliges un libro digital, un simulador o un programa creativo?", ["Dibujar es crear algo.", "Los programas creativos sirven para dibujar o armar.", "Elijo el creativo."], "Un programa creativo"),
         ("Cerrar bien", "Terminaste la actividad. Ordena: salir, guardar, avisar a un adulto.", ["Primero guardo.", "Luego salgo con el botón.", "Finalmente aviso a un adulto."], "Guardar, salir, avisar"),
     ],
     mistakes=[
@@ -534,11 +538,11 @@ reg(
     A=[
         ("Clasifica con la regla: pelota, caja, plato redondo, cuaderno. ¿Cuántos tienen esquinas?", "2", "Caja y cuaderno."),
         ("Tienes 7 tarjetas de objetos y 3 son redondos. ¿Cuántos tienen esquinas?", "4", "7 − 3 = 4."),
-        ("Escribe cuál de estos va con redondas: dado, moneda, libro.", "Moneda", "La moneda no tiene esquinas."),
+        ("Quieres dibujar un paisaje. ¿Qué tipo eliges: libro digital, interactivo o creativo?", "Creativo", "Los creativos sirven para dibujar o armar."),
     ],
     Z=[
         ("Tato dice que un huevo va con esquinas. ¿Es correcto? Responde sí o no.", "No", "El huevo no tiene esquinas."),
-        ("Una cosa tiene una parte redonda y otra con esquinas, como una puerta con ventana redonda. ¿Qué haces con la regla?", "Creas un grupo nuevo o explicas tu regla", "No entra en un solo grupo."),
+        ("Quieres escuchar un cuento pasando páginas. ¿Qué tipo de software te sirve: libro digital o simulador?", "Libro digital", "En él se pasan páginas y se escucha el texto."),
     ],
     D=[
         ("Clasifica 8 objetos: 3 redondos, 4 con esquinas y 1 mezclado. ¿Cuántos van en un grupo nuevo?", "1", "El mezclado no entra en los otros."),
@@ -551,9 +555,9 @@ reg(
         ("¿Descansas la vista? Responde sí o no.", "Sí", "Se hacen pausas."),
     ],
     open_task=(
-        "Clasifica estos 8 objetos con la regla del programa (redondos o con esquinas): pelota, libro, moneda, caja de zapatos, plato redondo, cuaderno, tapa de frasco, ventana rectangular. Escribe los dos grupos y tu regla. Luego escribe tres pasos para cerrar bien un programa.",
-        "Redondos: pelota, moneda, plato, tapa de frasco. Con esquinas: libro, caja de zapatos, cuaderno, ventana. Regla: si tiene esquinas, va con esquinas. Cerrar: guardar, salir, avisar a un adulto.",
-        ["aplica la regla", "forma dos grupos", "explica la regla", "describe cómo cerrar"],
+        "Clasifica estos 8 objetos con la regla del programa (redondos o con esquinas): pelota, libro, moneda, caja de zapatos, plato redondo, cuaderno, tapa de frasco, ventana rectangular. Escribe los dos grupos y tu regla. Luego une cada necesidad con un tipo de software (libro digital, simulador, interactivo o creativo): a) oír un cuento pasando páginas, b) cambiar la lluvia y ver qué pasa, c) responder preguntas y recibir mensajes, d) dibujar una casa. Escribe también tres pasos para cerrar bien un programa.",
+        "Redondos: pelota, moneda, plato, tapa de frasco. Con esquinas: libro, caja de zapatos, cuaderno, ventana. Regla: si tiene esquinas, va con esquinas. Tipos: a) libro digital, b) simulador, c) interactivo, d) creativo. Cerrar: guardar, salir, avisar a un adulto.",
+        ["aplica la regla", "forma dos grupos", "explica la regla", "une cada necesidad con su tipo", "describe cómo cerrar"],
         ["dos listas", "frase de regla", "tres pasos de cierre"],
         ["grupos mal formados", "no cerrar bien"],
         "Pide decir la regla antes de clasificar. Si un objeto está mal, pregunta si tiene esquinas.",

@@ -27,12 +27,12 @@ register(
     explain=[
         "Contribuir es hacer algo que ayuda a otras personas o mejora la vida de muchos. Una persona contribuye cuando cuida a otros, enseña, descubre algo útil, crea arte o ayuda a quien lo necesita. No hace falta ser famoso para contribuir: un vecino que cuida la plaza también contribuye.",
         "Alberto Hurtado es un ejemplo. Nació en Viña del Mar en 1901. En 1944 fundó el Hogar de Cristo para ayudar a niños y a personas que no tenían casa. Murió en 1952. Su acción de ayudar benefició a muchas personas durante muchos años.",
-        "Para saber si alguien contribuyó, hazte dos preguntas: ¿qué hizo? y ¿a quiénes ayudó o benefició? Si puedes responder las dos, ya tienes la idea de su aporte. También sirve poner la historia en una línea de tiempo con los años. Para saber cuántos años pasaron entre dos años, se resta el año menor al año mayor: 1944 − 1901 = 43.",
+        "Para saber si alguien contribuyó, hazte dos preguntas: ¿qué hizo? y ¿a quiénes ayudó o benefició? Si puedes responder las dos, ya tienes la idea de su aporte. También sirve poner la historia en una línea de tiempo con los años. Para ordenar años, compara: el año menor ocurrió antes. Si dos años están cerca, cuenta saltando a la decena: primero los años hasta el siguiente año terminado en 0 y después los que faltan. Luego suma los dos saltos.",
     ],
     vocab=[("contribuir", "hacer algo que ayuda a otros o a la sociedad"), ("aporte", "lo que una persona da o hace por los demás"), ("sociedad", "todas las personas que vivimos juntas"), ("fundar", "crear algo por primera vez"), ("beneficiar", "dar algo bueno a alguien")],
     worked=[
         {"title": "Qué hizo y a quién ayudó", "problem": f"{HURTADO} ¿Qué hizo y a quiénes ayudó?", "steps": ["Busco la acción: fundó el Hogar de Cristo.", "Busco a quiénes ayudó: niños y personas sin casa."], "answer": "Fundó el Hogar de Cristo y ayudó a niños y a personas sin casa"},
-        {"title": "Años de la historia", "problem": f"{HURTADO} ¿Cuántos años pasaron entre su nacimiento y la fundación del Hogar de Cristo?", "steps": ["Nació en 1901 y fundó el Hogar en 1944.", "1944 − 1901 = 43."], "answer": "43 años"},
+        {"title": "Contar años cercanos", "problem": "Un hecho ocurrió en 1948 y otro en 1953. ¿Cuántos años pasaron entre los dos?", "steps": ["De 1948 a 1950 hay 2 años.", "De 1950 a 1953 hay 3 años.", "2 + 3 = 5."], "answer": "5 años"},
     ],
     mistakes=[
         {"wrong": "Creer que contribuir es solo para personas famosas.", "why": "Se recuerda más a quienes están en los libros.", "fix": "También contribuyen los vecinos y las personas comunes."},
@@ -50,7 +50,7 @@ register(
             ex(f"{HURTADO} ¿A quiénes ayudó el Hogar de Cristo?", "A niños y a personas sin casa", "Lo dice la biografía."),
         ],
         "apply": [
-            arith(f"{HURTADO} ¿Cuántos años pasaron entre la fundación del Hogar de Cristo (1944) y la muerte de Hurtado (1952)?", "1952-1944", "Se resta el año de la fundación al año de su muerte."),
+            arith(f"{HURTADO} De 1944 a 1950 hay 6 años y de 1950 a 1952 hay 2 años. ¿Cuántos años pasaron entre la fundación del Hogar de Cristo (1944) y la muerte de Hurtado (1952)?", "6+2", "Se suman los dos saltos: 6 más 2."),
             ex("Una vecina reparte sopa caliente a quienes no tienen comida. ¿Contribuye a la sociedad?", "Sí", "Ayuda a otras personas."),
             ex(f"{HURTADO} Ordena: murió, fundó el Hogar de Cristo, nació.", "nació, fundó el Hogar de Cristo, murió", "Se ordenan por año: 1901, 1944 y 1952."),
         ],
@@ -59,14 +59,14 @@ register(
             ex("Dos acciones: A) Lola se queda con todos los dulces. B) Lola reparte los dulces con su curso. ¿Cuál contribuye al bienestar del curso?", "B", "Compartir ayuda a todos."),
         ],
         "challenge": [
-            arith(f"{HURTADO} ¿Cuántos años pasaron entre su nacimiento (1901) y su muerte (1952)?", "1952-1901", "Se resta el año menor al año mayor."),
+            ex(f"{HURTADO} Los años de su vida son 1901, 1944 y 1952. ¿Cuál es el año más reciente?", "1952", "Es el año mayor, el que ocurrió último."),
             ex("Una escuela junta ropa de abrigo para familias que lo necesitan. ¿Qué hizo (acción) y a quiénes ayudó?", "Juntó ropa; ayudó a familias que la necesitan", "Se responde qué hizo y a quién ayudó."),
         ],
     },
     context=[ex("En tu barrio, un grupo de vecinos limpia la plaza cada sábado. ¿A quiénes beneficia?", "A todos los vecinos", "Una plaza limpia sirve a todos.")],
     selfcheck=[
         ex("¿Qué es fundar?", "Crear algo por primera vez", "Hurtado fundó el Hogar de Cristo."),
-        ex(f"{HURTADO} ¿Cuántos años pasaron entre 1901 y 1944?", "43", "1944 − 1901 = 43."),
+        ex(f"{HURTADO} ¿Qué año es más antiguo: 1901 o 1944?", "1901", "El año menor ocurrió antes."),
         ex("¿Qué dos preguntas ayudan a ver el aporte de una persona?", "¿Qué hizo? y ¿a quién ayudó?", "Son la acción y el beneficio."),
     ],
     open_task=task("Piensa en una persona de tu familia o barrio que ayude a otros. Escribe dos frases: una que diga qué hace y otra que diga a quién ayuda. Si no se te ocurre una, usa una de estas: una vecina que cuida la plaza, un bombero voluntario, una profesora que enseña a leer.", "Mi vecina limpia la plaza los sábados. Con eso ayuda a todos los niños que juegan allí.", ["dos frases", "dice qué hace y a quién ayuda", "persona real o de la lista"], ["dos frases escritas"], ["decir solo el nombre", "no mencionar el beneficio"], "Pide que explique por qué esa acción es un aporte."),
@@ -107,7 +107,7 @@ register(
         "apply": [
             ex("Une cada persona con su ámbito: Alberto Hurtado, Marlene Ahrens. Ámbitos: deporte, solidaridad.", "Hurtado: solidaridad; Ahrens: deporte", "Hurtado fundó el Hogar de Cristo y Ahrens lanzaba la jabalina."),
             ex("Años de nacimiento: Díaz 1866, Hurtado 1901, Parra 1917, Ahrens 1933. Ordénalos de la persona que nació antes a la que nació después.", "Díaz, Hurtado, Parra, Ahrens", "Se ordenan por el año de nacimiento."),
-            arith(f"{AHRENS} Marlene Ahrens nació en 1933 y ganó su medalla en 1956. ¿Cuántos años pasaron entre esos dos años?", "1956-1933", "Se resta el año menor al año mayor."),
+            ex("Marlene Ahrens ganó su medalla en 1956 y Violeta Parra murió en 1967. ¿Qué ocurrió después?", "Murió Violeta Parra", "1967 es mayor que 1956, por eso ocurrió después."),
         ],
         "reason": [
             ex("Un niño dice que el deporte es mejor que el arte. ¿Qué respondes?", "Todos los ámbitos son necesarios", "Cada uno aporta algo distinto."),
@@ -115,7 +115,7 @@ register(
         ],
         "challenge": [
             ex("Cuatro personas: Díaz (ciencia), Parra (arte), Ahrens (deporte), Hurtado (solidaridad). ¿Cuántos ámbitos distintos hay?", "4", "Cada persona es de un ámbito distinto."),
-            arith(f"{PARRA} ¿Cuántos años pasaron entre su nacimiento (1917) y su muerte (1967)?", "1967-1917", "Se resta el año menor al año mayor."),
+            ex("Ordena de más antiguo a más reciente: Marlene Ahrens ganó su medalla (1956), Violeta Parra murió (1967), Eloísa Díaz se recibió de médica (1887).", "Díaz se recibió; Ahrens ganó su medalla; Parra murió", "Se ordenan por año: 1887, 1956 y 1967."),
         ],
     },
     context=[ex("En un concurso de la escuela, Ema dibuja un mural, Teo corre una carrera y Lola ayuda a limpiar la sala. ¿En qué ámbitos contribuyen?", "arte, deporte y solidaridad", "Dibujar es arte, correr es deporte y ayudar es solidaridad.")],
@@ -135,14 +135,14 @@ register(
     use="Aprenderé a sacar información explícita de la biografía de una persona. Sirve para contar su vida con datos exactos.",
     prior=["Sé leer fechas.", "Sé qué es contribuir."],
     explain=[
-        "Una biografía cuenta la vida de una persona. Para leerla, busca datos explícitos, es decir, que están escritos con claridad: cuándo nació, dónde, qué hizo y cuándo murió. Esos datos se pueden comprobar en la fuente.",
+        "Una biografía cuenta la vida de una persona. Para leerla, busca datos explícitos, es decir, que están escritos con claridad: cuándo nació, dónde, qué hizo y cuándo murió. Esos datos se pueden comprobar en la fuente. Para saber cuántos años pasaron entre dos hechos cercanos, cuenta saltando a la decena. Ejemplo: de 1946 a 1950 hay 4 años y de 1950 a 1953 hay 3 años; 4 + 3 = 7 años.",
         "La vida de Gabriela Mistral, poeta chilena, se puede ordenar en una línea de tiempo: 1889, nació en Vicuña; 1924, publicó el libro «Ternura»; 1945, recibió el Premio Nobel de Literatura; 1957, murió. Fue la primera persona de América Latina en recibir ese premio de literatura.",
         "Cuando leas, separa lo que dice la fuente de lo que tú piensas. «Nació en Vicuña» es explícito. «Era muy simpática» no está en el texto. Por eso, cuando uses un dato, di dónde lo leíste.",
     ],
     vocab=[("biografía", "texto que cuenta la vida de una persona"), ("dato explícito", "dato escrito con claridad en el texto"), ("poeta", "persona que escribe poemas"), ("maestra", "persona que enseña en una escuela"), ("Premio Nobel", "premio internacional muy importante")],
     worked=[
         {"title": "Dato explícito", "problem": f"{MISTRAL} ¿En qué lugar nació Gabriela Mistral?", "steps": ["Busco la frase del nacimiento.", "Dice Vicuña, en el valle de Elqui."], "answer": "En Vicuña, en el valle de Elqui"},
-        {"title": "Calcular años", "problem": f"{MISTRAL} ¿Cuántos años pasaron entre su nacimiento y el Premio Nobel?", "steps": ["Nació en 1889 y recibió el premio en 1945.", "1945 − 1889 = 56."], "answer": "56 años"},
+        {"title": "Antes o después", "problem": f"{MISTRAL} ¿Qué ocurrió antes: publicar «Ternura» o recibir el Premio Nobel?", "steps": ["«Ternura» es de 1924 y el Nobel es de 1945.", "1924 es menor que 1945, por eso ocurrió antes."], "answer": "Publicar «Ternura»"},
     ],
     mistakes=[
         {"wrong": "Contestar con algo que no está en el texto.", "why": "Se responde con lo que ya se sabía.", "fix": "Busca la frase en la biografía y subráyala."},
@@ -160,8 +160,8 @@ register(
             ex(f"{MISTRAL} ¿Para quiénes eran los poemas de «Ternura»?", "Para niños", "La biografía dice poemas y rondas para niños."),
         ],
         "apply": [
-            arith(f"{MISTRAL} ¿Cuántos años pasaron entre «Ternura» (1924) y el Premio Nobel (1945)?", "1945-1924", "Se resta un año al otro."),
-            arith(f"{MISTRAL} ¿Cuántos años pasaron entre el Premio Nobel (1945) y la muerte (1957)?", "1957-1945", "Se restan los años."),
+            ex(f"{MISTRAL} Murió en 1957. ¿Qué ocurrió más cerca de su muerte: «Ternura» (1924) o el Premio Nobel (1945)?", "el Premio Nobel", "1945 está más cerca de 1957 que 1924."),
+            arith(f"{MISTRAL} De 1945 a 1950 hay 5 años y de 1950 a 1957 hay 7 años. ¿Cuántos años pasaron entre el Premio Nobel (1945) y su muerte (1957)?", "5+7", "Se suman los dos saltos: 5 más 7."),
             ex(f"{MISTRAL} Ordena los hechos: murió, nació, recibió el Premio Nobel, publicó «Ternura».", "nació, publicó «Ternura», recibió el Premio Nobel, murió", "Los años son 1889, 1924, 1945 y 1957."),
         ],
         "reason": [
@@ -169,7 +169,7 @@ register(
             ex(f"{MISTRAL} Un niño dice: «Era muy simpática». ¿Está en la biografía?", "No", "Es una opinión que no aparece en el texto."),
         ],
         "challenge": [
-            arith(f"{MISTRAL} ¿Cuántos años pasaron entre su nacimiento (1889) y su muerte (1957)?", "1957-1889", "Se resta el año menor al año mayor."),
+            ex(f"{MISTRAL} ¿Cuál de estos años está más cerca de su nacimiento (1889): 1924 o 1957?", "1924", "1924 está entre 1889 y 1957, más cerca de 1889."),
             ex(f"{MISTRAL} Escribe una frase con dos datos de su vida usando años.", "Gabriela Mistral nació en 1889 y recibió el Premio Nobel en 1945", "Incluye dos datos del texto."),
         ],
     },
@@ -192,7 +192,7 @@ register(
     explain=[
         "En muchos libros antiguos se nombraba más a unos hombres famosos y menos a mujeres y a comunidades. Por eso decimos que algunas personas fueron invisibilizadas: hicieron cosas importantes, pero casi no se contaban.",
         "Eloísa Díaz fue la primera mujer en recibirse de médica en Chile, en 1887. Elena Caffarena fundó en 1935 el MEMCh y luchó por el derecho de las mujeres a votar. En 1934 se aprobó el voto de las mujeres en las elecciones de la municipalidad y en 1949 se aprobó el voto en todas las elecciones. Lautaro fue un líder mapuche del siglo XVI que defendió a su pueblo y murió en 1557.",
-        "Cuando leas una historia, pregúntate: ¿quiénes aparecen? ¿Quiénes faltan? Buscar a las personas que faltan es una forma de justicia y de conocer más.",
+        "Cuando leas una historia, pregúntate: ¿quiénes aparecen? ¿Quiénes faltan? Buscar a las personas que faltan es una forma de justicia y de conocer más. Para contar años entre dos hechos cercanos, salta a la decena y suma: de 1935 a 1940 hay 5 años y de 1940 a 1949 hay 9 años.",
     ],
     vocab=[("invisibilizado", "persona cuyo aporte casi no se cuenta"), ("derecho", "algo que una persona puede hacer o tener por justicia"), ("votar", "elegir a una autoridad"), ("liderar", "guiar a un grupo"), ("comunidad", "grupo de personas con algo en común")],
     worked=[
@@ -215,7 +215,7 @@ register(
             ex(f"{CAFFARENA} ¿Qué defendía el MEMCh?", "Los derechos de las mujeres", "Así lo dice el texto."),
         ],
         "apply": [
-            arith(f"{CAFFARENA} ¿Cuántos años pasaron entre la fundación del MEMCh (1935) y la ley del voto de las mujeres en todas las elecciones (1949)?", "1949-1935", "Se resta un año al otro."),
+            arith(f"{CAFFARENA} De 1935 a 1940 hay 5 años y de 1940 a 1949 hay 9 años. ¿Cuántos años pasaron entre la fundación del MEMCh (1935) y la ley del voto de las mujeres en todas las elecciones (1949)?", "5+9", "Se suman los dos saltos: 5 más 9."),
             ex("Años: Díaz se recibió en 1887, el MEMCh se fundó en 1935, se aprobó el voto de las mujeres en todas las elecciones en 1949. Ordena de más antiguo a más nuevo.", "se recibió Díaz, se fundó el MEMCh, se aprobó el voto en todas las elecciones", "Se ordenan por año: 1887, 1935 y 1949."),
             ex("En 1934 se aprobó el voto de las mujeres en elecciones de la municipalidad. ¿Es antes o después de 1949, cuando se aprobó el voto en todas las elecciones?", "antes", "1934 es menor que 1949."),
         ],
@@ -224,7 +224,7 @@ register(
             ex(f"{DIAZ} Eloísa Díaz cuidó a niñas y niños en las escuelas. ¿Por qué ese aporte merece ser recordado?", "Porque mejoró la salud de muchos niños", "Ayudó a mucha gente."),
         ],
         "challenge": [
-            arith(f"{DIAZ} ¿Cuántos años pasaron entre su nacimiento (1866) y el año en que se recibió de médica (1887)?", "1887-1866", "Se resta el año menor al año mayor."),
+            ex(f"{DIAZ} Alberto Hurtado nació en 1901. ¿Quién nació más tarde: Eloísa Díaz o Alberto Hurtado?", "Alberto Hurtado", "1901 es mayor que 1866, por eso nació después."),
             ex("Lautaro vivió en el siglo XVI y murió en 1557. Eloísa Díaz se recibió en 1887. ¿Cuál es más antiguo?", "Lautaro", "1557 es menor que 1887."),
         ],
     },

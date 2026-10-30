@@ -12,7 +12,7 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 
 | Nivel | Clases desarrolladas | Con cuaderno | Pendientes | Estado | Experiencias integradas | Ejercicios y preguntas | Ejemplos resueltos | Revisión profesional |
 |---|---:|---:|---:|---|---:|---:|---:|---|
-| 1.º básico | 691 | 691 | 0 | completo | 343 | 11.747 | 1.382 | pendiente |
+| 1.º básico | 691 | 691 | 0 | completo | 343 | 11.747 | 1.389 | pendiente |
 | 2.º básico | 721 | 20 | 701 | en curso | 351 | 340 | 40 | pendiente |
 | 3.º básico | 757 | 0 | 757 | sin iniciar | 379 | 0 | 0 | pendiente |
 | 4.º básico | 811 | 0 | 811 | sin iniciar | 384 | 0 | 0 | pendiente |
@@ -183,10 +183,10 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 1.º básico | orientacion | OR01 OA 08 | 5 | 5 | 85 | 10 |
 | 1.º básico | tecnologia | TE01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | tecnologia | TE01 OA 02 | 4 | 4 | 68 | 8 |
-| 1.º básico | tecnologia | TE01 OA 03 | 4 | 4 | 68 | 8 |
+| 1.º básico | tecnologia | TE01 OA 03 | 4 | 4 | 68 | 11 |
 | 1.º básico | tecnologia | TE01 OA 04 | 4 | 4 | 68 | 8 |
 | 1.º básico | tecnologia | TE01 OA 05 | 5 | 5 | 85 | 10 |
-| 1.º básico | tecnologia | TE01 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º básico | tecnologia | TE01 OA 06 | 4 | 4 | 68 | 12 |
 
 ## Mínimos exigidos por el validador
 

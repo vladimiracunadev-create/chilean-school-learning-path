@@ -186,10 +186,11 @@ register(
     explain=[
         "En inglés hay palabras que se escriben distinto y suenan casi igual. Para el oído, big y pig se diferencian solo por el primer sonido. Lo mismo pasa con cat y cap, o pen y pan. Estas parejas se llaman pares mínimos.",
         "Dos sonidos importantes son /s/ y /z/. Sip (tomar un sorbo) empieza con /s/, un sonido suave como una serpiente: sss. Zip (cierre) empieza con /z/, que vibra como una abeja: zzz. Para sentir la diferencia, toca tu garganta: con /z/ vibra y con /s/ no.",
+        "Otro par que se confunde es /w/ y /th/. En wink (guiño) y wing (ala) el sonido empieza con /w/: redondea los labios como para decir «u» y suéltalos rápido. En think (pensar) y thing (cosa) empieza con th: asoma la punta de la lengua entre los dientes y deja salir aire suave, sin vibrar. Si no puedes oír la diferencia, mira cómo se escriben: wink y wing empiezan con w; think y thing empiezan con th.",
         "Para distinguirlas, escucha una letra a la vez. En cat y cap cambia el sonido final: -t y -p. En pen y pan cambia la vocal del medio: e y a. Si te fijas en el sonido que cambia, no te equivocarás.",
         "Una buena estrategia es pedir que lo repitan despacio y decirlo tú también, mirando la boca de quien habla. No importa tener acento perfecto: lo importante es reconocer cuál palabra oíste.",
     ],
-    vocab=[("big / pig", "grande / cerdo"), ("cat / cap", "gato / gorro"), ("pen / pan", "bolígrafo / sartén"), ("hat / hot", "sombrero / caliente"), ("sip / zip", "sorbo / cierre"), ("different", "diferente")],
+    vocab=[("big / pig", "grande / cerdo"), ("cat / cap", "gato / gorro"), ("pen / pan", "bolígrafo / sartén"), ("hat / hot", "sombrero / caliente"), ("sip / zip", "sorbo / cierre"), ("wink / think", "guiño / pensar"), ("wing / thing", "ala / cosa")],
     worked=[
         {"title": "Un par de palabras", "problem": ADULT + "«pig» (el adulto lee solo esa palabra). ¿Oíste big o pig?", "steps": ["Escucho el primer sonido.", "Suena p, no b.", "Es pig."], "answer": "pig"},
         {"title": "Cambia el final", "problem": ADULT + "«cap». ¿Oíste cat o cap?", "steps": ["Escucho el final.", "Termina en p.", "Es cap."], "answer": "cap"},
@@ -202,7 +203,7 @@ register(
         "recovery": [
             ex(ADULT + "«hat». ¿Oíste hat o hot?", "hat", "Tiene la vocal a, como cat."),
             ex(ADULT + "«pen». ¿Oíste pen o pan?", "pen", "Tiene la vocal e."),
-            ex(ADULT + "«big». ¿Oíste big o pig?", "big", "Empieza con b."),
+            ex(ADULT + "«think». ¿Oíste wink o think?", "think", "Empieza con th: la lengua asoma entre los dientes."),
         ],
         "understand": [
             ex("¿Qué son los «pares mínimos»?", "Palabras que suenan casi igual y cambian en un solo sonido", "Ejemplo: big y pig."),
@@ -211,7 +212,7 @@ register(
         ],
         "apply": [
             ex(ADULT + "«hot». ¿Oíste hat o hot?", "hot", "La vocal es o."),
-            ex(ADULT + "«pan». ¿Oíste pen o pan?", "pan", "La vocal del medio es a."),
+            ex(ADULT + "«wing». ¿Oíste wing o thing? Pista: empieza con los labios redondeados, sin lengua entre los dientes.", "wing", "Empieza con /w/ y se escribe con w."),
             ex(ADULT + "«sip». ¿Oíste sip o zip?", "sip", "Empieza con /s/ suave, sin zumbido."),
         ],
         "reason": [
@@ -219,7 +220,7 @@ register(
             ex("¿Por qué es importante distinguir «hat» y «hot»?", "Porque significan cosas distintas: sombrero y caliente", "Un solo sonido cambia el significado."),
         ],
         "challenge": [
-            ex(ADULT + "El adulto lee tres palabras: «pig, cap, pan». Escribe cuáles tienen la vocal a.", "cap y pan", "Cap y pan tienen a, pig tiene i."),
+            ex("Mira cómo se escriben estas palabras: wink, thing, think, wing. ¿Cuáles empiezan con el sonido th (lengua entre los dientes)?", "thing y think", "Las palabras que empiezan con th son thing y think."),
             ex(ADULT + "«zip». ¿Oíste sip o zip?", "zip", "Empieza con /z/, el sonido que vibra como una abeja."),
         ],
     },
@@ -229,7 +230,7 @@ register(
         ex(ADULT + "«cap». ¿Oíste cat o cap?", "cap", "Termina en p."),
         ex("¿Qué te ayuda a distinguir dos palabras parecidas?", "Escuchar el sonido que cambia", "Ahí está la diferencia."),
     ],
-    open_task=task("Un adulto lee en voz alta, una por una y sin mostrarte: «pig, pan, hat, cap.» Escribe una marca al lado de cada palabra que oigas en esta lista de parejas: big/pig, pen/pan, hat/hot, cat/cap. Después di tú dos de las palabras, una de cada pareja distinta.", "Marca pig, pan, hat y cap. Dice, por ejemplo, «pig» y «hat».", ["marca las cuatro correctas", "dice dos palabras con claridad", "distingue la pareja"], ["lista marcada", "nota del adulto"], ["marcar big en lugar de pig", "confundir pen y pan"], "Repite despacio con él las parejas que falló, mostrando la boca."),
+    open_task=task("Un adulto lee en voz alta, una por una y sin mostrarte: «pig, pan, hat, cap, think.» Escribe una marca al lado de cada palabra que oigas en esta lista de parejas: big/pig, pen/pan, hat/hot, cat/cap, wink/think. Después di tú dos de las palabras, una de cada pareja distinta.", "Marca pig, pan, hat, cap y think. Dice, por ejemplo, «pig» y «think».", ["marca las cinco correctas", "dice dos palabras con claridad", "distingue la pareja"], ["lista marcada", "nota del adulto"], ["marcar big en lugar de pig", "confundir pen y pan"], "Repite despacio con él las parejas que falló, mostrando la boca (labios redondeados para /w/, lengua entre los dientes para th)."),
     reinforce="Pide a un adulto que diga «cat» y «cap» y levanta la mano cuando oigas «cap».",
     extend="Escribe dos pares de palabras que suenen casi igual y dibuja cada una.",
 )

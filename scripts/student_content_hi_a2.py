@@ -346,12 +346,12 @@ register(
     explain=[
         "Una fuente oral es lo que una persona cuenta en voz alta sobre lo que vivió. Una entrevista es una fuente oral. Para que sirva, hay que anotar el nombre de quien cuenta, su parentesco (por ejemplo, abuela), la fecha de la entrevista y lo que dijo.",
         "Aquí tienes una entrevista imaginaria a Rosa, una abuela: «Nací el 3 de febrero de 1950. Entré a la escuela en 1957. Me casé el 12 de diciembre de 1970. Mi hija Marta nació el 10 de julio de 1975. En mi infancia jugábamos a la rayuela y no había televisión en mi casa».",
-        "Con esa fuente podemos ordenar una línea de tiempo: 1950, nació Rosa; 1957, entró a la escuela; 1970, se casó; 1975, nació su hija. Para saber cuántos años pasaron entre dos años, cuenta hacia adelante: de 1950 a 1957 pasan 7 años. Una fuente oral cuenta recuerdos, y los recuerdos a veces cambian, así que podemos preguntar a otras personas para confirmarlos.",
+        "Con esa fuente podemos ordenar una línea de tiempo: 1950, nació Rosa; 1957, entró a la escuela; 1970, se casó; 1975, nació su hija. Para saber cuántos años pasaron entre dos años, cuenta hacia adelante: de 1950 a 1957 pasan 7 años (solo cuentas las unidades). Si los años están en decenas distintas, cuenta de 10 en 10: de 1950 a 1960 pasan 10 años y de 1960 a 1970 otros 10, en total 20. Una fuente oral cuenta recuerdos, y los recuerdos a veces cambian, así que podemos preguntar a otras personas para confirmarlos.",
     ],
     vocab=[("fuente oral", "lo que una persona cuenta en voz alta"), ("parentesco", "relación familiar, como abuela o tío"), ("línea de tiempo", "fila de hechos ordenados por fecha"), ("registrar", "anotar lo que se averigua"), ("recuerdo", "algo del pasado que se guarda en la memoria")],
     worked=[
         {"title": "Leer la fuente", "problem": "Entrevista a Rosa: «Nací el 3 de febrero de 1950. Entré a la escuela en 1957». ¿En qué año entró Rosa a la escuela?", "steps": ["Busco la frase que habla de la escuela.", "Dice 1957."], "answer": "1957"},
-        {"title": "Calcular un intervalo", "problem": "Con la misma entrevista, ¿cuántos años tenía Rosa cuando entró a la escuela?", "steps": ["Nació en 1950 y entró en 1957.", "1957 − 1950 = 7."], "answer": "7 años"},
+        {"title": "Calcular un intervalo", "problem": "Con la misma entrevista, ¿cuántos años tenía Rosa cuando entró a la escuela?", "steps": ["Nació en 1950 y entró en 1957.", "Cuento hacia adelante desde 1950 hasta 1957: 7 años."], "answer": "7 años"},
     ],
     mistakes=[
         {"wrong": "Anotar solo lo que me llamó la atención y no la fecha.", "why": "Se piensa que la fecha no importa.", "fix": "Escribe la fecha de la entrevista y el nombre de quien cuenta."},
@@ -369,8 +369,8 @@ register(
             ex("¿Por qué conviene confirmar un recuerdo con otra persona o una foto?", "Porque los recuerdos pueden cambiar", "Otra fuente ayuda a comprobarlo."),
         ],
         "apply": [
-            arith("Rosa nació en 1950 y se casó en 1970. ¿Cuántos años tenía cuando se casó?", "1970-1950", "Se resta el año de nacimiento al año del matrimonio."),
-            arith("Rosa se casó en 1970 y su hija Marta nació en 1975. ¿Cuántos años pasaron entre esos dos años?", "1975-1970", "Se resta el año menor al año mayor."),
+            arith("Rosa nació en 1950 y se casó en 1970. De 1950 a 1960 pasan 10 años y de 1960 a 1970 otros 10 años. ¿Cuántos años tenía cuando se casó?", "10+10", "Se suman los dos saltos de una decena."),
+            arith("Rosa se casó en 1970 y su hija Marta nació en 1975. Cuenta desde 1970 hasta 1975. ¿Cuántos años pasaron entre esos dos años?", "5", "Los dos años están en la misma decena, así que se cuentan solo las unidades: 5."),
             ex("Ordena de más antiguo a más nuevo: Marta nació (10 de julio de 1975), Rosa nació (3 de febrero de 1950), Rosa se casó (12 de diciembre de 1970).", "Rosa nació; Rosa se casó; Marta nació", "Se ordenan por año: 1950, 1970 y 1975."),
         ],
         "reason": [
@@ -378,14 +378,14 @@ register(
             ex("Un niño anota solo «la abuela nació en 1950». ¿Qué otros datos le faltan para que sea una buena fuente?", "Nombre, fecha de la entrevista y qué más contó", "Falta saber quién habló y cuándo."),
         ],
         "challenge": [
-            ex("Dos hermanos recuerdan distinto: uno dice que su abuela entró a la escuela a los 7 años y otro que a los 8. La abuela nació en 1950 y entró en 1957. ¿Quién tiene razón?", "el que dice 7", "1957 − 1950 = 7."),
+            ex("Dos hermanos recuerdan distinto: uno dice que su abuela entró a la escuela a los 7 años y otro que a los 8. La abuela nació en 1950 y entró en 1957. ¿Quién tiene razón?", "el que dice 7", "De 1950 a 1957 hay 7 años."),
             ex("Marta nació 5 años después del año en que Rosa se casó. Rosa se casó en 1970. ¿En qué año nació Marta?", "1975", "1970 + 5 = 1975."),
         ],
     },
     context=[ex("Camila entrevista a su abuelo el 5 de abril de 2025. Él le cuenta que nació el 20 de octubre de 1948. ¿Qué año de nacimiento anota Camila?", "1948", "Es el año dicho por el abuelo.")],
     selfcheck=[
         ex("¿Una fuente oral se escribe o se cuenta en voz alta?", "se cuenta en voz alta", "Oral viene de hablar."),
-        ex("Rosa entró a la escuela en 1957 y nació en 1950. ¿Cuántos años tenía?", "7", "1957 − 1950 = 7."),
+        ex("Rosa entró a la escuela en 1957 y nació en 1950. ¿Cuántos años tenía?", "7", "De 1950 a 1957 hay 7 años."),
         ex("¿Qué dato de la entrevista es el parentesco: «abuela Rosa» o «1950»?", "abuela", "Parentesco es la relación familiar."),
     ],
     open_task=task("Hazle una entrevista corta a un adulto de tu casa, o usa esta entrevista imaginaria: «Soy tu tío Mario. Nací en Valdivia el 2 de abril de 1980. Entré a la escuela en 1987. Mi juego favorito era el trompo». Anota: nombre, parentesco, fecha de la entrevista y dos datos que cuenta. Escribe cuántos años pasaron entre 1980 y 1987.", "Nombre: Mario. Parentesco: tío. Fecha de la entrevista: 5 de abril de 2025. Datos: nació en Valdivia; jugaba al trompo. Pasaron 7 años entre 1980 y 1987.", ["datos anotados", "fecha escrita completa", "diferencia de años correcta"], ["hoja de entrevista con los datos"], ["no anotar la fecha", "calcular mal los años"], "Pide que lea su hoja en voz alta y diga de quién es la fuente."),

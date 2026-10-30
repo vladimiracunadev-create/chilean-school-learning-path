@@ -129,8 +129,9 @@ register(
         "Una descripción dice cuántos objetos hay y cómo son. En inglés el orden es: número, tamaño, color, objeto. Por ejemplo: three big red balls significa tres pelotas rojas grandes.",
         "Al leer, busca primero el objeto (balls) y luego mira las palabras antes: red es el color, big es el tamaño y three es la cantidad. Cuando hay más de uno, el objeto termina en s: one ball, two balls.",
         "Puedes dibujar lo que lees para comprobar. Si lees «two small blue fish», dibujas dos peces pequeños azules. Si tu dibujo coincide con cada palabra, entendiste la descripción.",
+        "También se leen oficios y comida. He is a teacher (él es profesor), She is a nurse (ella es enfermera). Los oficios son teacher, doctor, farmer (agricultor), cook (cocinero), driver (conductor) y nurse. La comida es apple, bread, milk, rice y egg. Apple y egg se cuentan: two apples, twelve eggs. Bread, milk y rice no llevan número: I have milk. Los números siguen hasta veinte: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.",
     ],
-    vocab=[("one, two, three...", "uno, dos, tres..."), ("big / small", "grande / pequeño"), ("red / blue / green", "rojo / azul / verde"), ("balls", "pelotas"), ("fish", "pez, peces"), ("how many?", "¿cuántos?")],
+    vocab=[("one, two, three...", "uno, dos, tres..."), ("big / small", "grande / pequeño"), ("red / blue / green", "rojo / azul / verde"), ("teacher / doctor / nurse", "profesor / doctor / enfermera"), ("farmer / cook / driver", "agricultor / cocinero / conductor"), ("apple / egg / bread / milk / rice", "manzana / huevo / pan / leche / arroz")],
     worked=[
         {"title": "Leer una descripción", "problem": "Lee: «three big red balls». ¿Cuántas hay y cómo son?", "steps": ["Three: tres.", "Big: grandes.", "Red: rojas.", "Balls: pelotas."], "answer": "Tres pelotas rojas grandes"},
         {"title": "Comparar", "problem": "Lee: «two small blue fish» y «one big blue fish». ¿Cuántos peces hay en total?", "steps": ["Dos peces pequeños azules.", "Un pez grande azul.", "2 + 1 = 3."], "answer": "3 peces"},
@@ -143,7 +144,7 @@ register(
         "recovery": [
             ex("Lee: «two cats». ¿Cuántos gatos?", "2", "Two es dos."),
             ex("Lee: «a red ball». ¿De qué color es la pelota?", "Roja", "Red es rojo."),
-            ex("Lee: «a big dog». ¿Cómo es el perro?", "Grande", "Big es grande."),
+            ex("Lee: «five apples». ¿Cuántas manzanas hay?", "5", "Five es cinco y apples son manzanas."),
         ],
         "understand": [
             ex("En «three big red balls», ¿qué palabra es el número, cuál el tamaño y cuál el color?", "three es el número, big el tamaño y red el color", "Ese es el orden: número, tamaño, color y objeto."),
@@ -152,15 +153,15 @@ register(
         ],
         "apply": [
             ex("Lee: «four small green frogs». ¿Cuántas ranas hay y de qué color son?", "4 ranas verdes", "Four es cuatro y green es verde."),
-            ex("Lee: «one big yellow sun». ¿Cómo es el sol?", "Grande y amarillo", "Big es grande y yellow es amarillo."),
+            ex("Lee: «Ben is a cook. He has twelve eggs and six apples.» ¿Cuántos huevos tiene Ben?", "12", "Twelve es doce y eggs son huevos."),
             ex("Lee: «two blue pencils and three red pencils». ¿Cuántos lápices hay en total?", "5", "Dos más tres son cinco."),
         ],
         "reason": [
             ex("Un niño dibujó dos pelotas cuando el texto decía «three balls». ¿Qué número leyó mal?", "Three", "Three es tres."),
-            ex("¿Por qué «a big dog» y «a small dog» son descripciones distintas?", "Porque cambia el tamaño", "Big y small son opuestos."),
+            ex("Lee: «Ana is a farmer. She has eight apples and four eggs.» ¿Tiene más manzanas o más huevos?", "Más manzanas", "Eight es ocho y four es cuatro; ocho es más."),
         ],
         "challenge": [
-            ex("Lee: «five small red flowers and two big yellow flowers». ¿Cuántas flores amarillas hay?", "2", "Two big yellow flowers."),
+            ex("Lee: «Tom is a driver. He has fifteen red apples. Mia is a nurse. She has five green apples.» ¿Cuántas manzanas tienen entre los dos?", "20", "Fifteen es quince y five es cinco; 15 + 5 = 20."),
             ex("Escribe en inglés: tres gatos pequeños negros.", "three small black cats", "Número, tamaño, color, objeto."),
         ],
     },
@@ -184,8 +185,9 @@ register(
         "Las preguntas con Where, What y Who piden información distinta. Where is the cat? (¿dónde está el gato?) pide un lugar. What is this? (¿qué es esto?) pide un nombre de objeto. Who is she? (¿quién es ella?) pide una persona.",
         "La respuesta repite parte de la pregunta: Where is the cat? It's on the chair. What is this? It's a book. Who is she? She is Ana. Fíjate en la primera palabra de la pregunta para saber qué buscar en el texto.",
         "Al leer una pregunta, primero decide qué buscas: un lugar, un objeto o una persona. Luego encuentra esa palabra en el texto y responde con ella. Si buscas un lugar, busca in, on, under o next to.",
+        "Hay dos preguntas más. What does he do? (¿a qué se dedica él?) pide un oficio: He is a teacher (es profesor). Se puede cambiar por she: What does she do? She is a nurse. Do you have an apple? (¿tienes una manzana?) se responde Yes, I do (sí, tengo) o No, I don't (no, no tengo). Los oficios son teacher, doctor, farmer, cook, driver y nurse; la comida, apple, bread, milk, rice y egg.",
     ],
-    vocab=[("where?", "¿dónde?"), ("what?", "¿qué?"), ("who?", "¿quién?"), ("on / in / under", "sobre / dentro / debajo"), ("it's", "es / está"), ("chair", "silla")],
+    vocab=[("where?", "¿dónde?"), ("what?", "¿qué?"), ("who?", "¿quién?"), ("on / in / under", "sobre / dentro / debajo"), ("What does he do?", "¿a qué se dedica él?"), ("Do you have...? Yes, I do. / No, I don't.", "¿Tienes...? Sí, tengo. / No, no tengo.")],
     worked=[
         {"title": "Pregunta de lugar", "problem": "Lee: «The cat is on the chair.» Pregunta: Where is the cat?", "steps": ["Where pide un lugar.", "Busco on the chair."], "answer": "On the chair (sobre la silla)"},
         {"title": "Pregunta de persona", "problem": "Lee: «This is Ana. She is my friend.» Pregunta: Who is she?", "steps": ["Who pide una persona.", "Busco el nombre: Ana."], "answer": "Ana"},
@@ -203,20 +205,20 @@ register(
         "understand": [
             ex("¿Qué significa «Where is the book?»", "¿Dónde está el libro?", "Where es dónde."),
             ex("¿Qué palabras te ayudan a responder una pregunta con Where?", "In, on, under y next to", "Estas palabras indican el lugar."),
-            ex("¿Qué haces primero al leer una pregunta?", "Decido qué tipo de dato busco", "Así encuentro la respuesta."),
+            ex("¿Qué significa «Do you have milk?»", "¿Tienes leche?", "Milk es leche y have es tener."),
         ],
         "apply": [
             ex("Lee: «The ball is under the table.» Pregunta: Where is the ball?", "Under the table", "Under es debajo."),
-            ex("Lee: «This is a pencil.» Pregunta: What is this?", "A pencil", "Pencil es lápiz."),
+            ex("Lee: «Ana is a nurse. Leo is a driver.» Pregunta: What does Leo do?", "He is a driver", "Driver es conductor, y se responde con He is."),
             ex("Lee: «He is Tom. He is my brother.» Pregunta: Who is he?", "Tom", "El nombre es la respuesta."),
         ],
         "reason": [
             ex("Un niño respondió «Ana» a «Where is the cat?». ¿Qué error cometió?", "Respondió con una persona en lugar de un lugar", "Where pide un lugar."),
-            ex("¿Por qué es útil la primera palabra de una pregunta?", "Porque dice qué tipo de dato debo buscar", "Cada una pide algo distinto."),
+            ex("Lee: «A: Do you have an apple? B: Yes, I do. A: Do you have rice? B: No, I don't.» ¿Tiene B arroz?", "No", "B responde No, I don't, que es no tengo."),
         ],
         "challenge": [
             ex("Lee: «The book is in the bag. The bag is next to the chair.» ¿Dónde está la mochila?", "Next to the chair", "Next to es al lado de."),
-            ex("Escribe una pregunta en inglés para saber dónde está el gato.", "Where is the cat?", "Where pregunta por un lugar."),
+            ex("Escribe en inglés la respuesta a «What does she do?» si ella es doctora.", "She is a doctor", "She is más el oficio doctor."),
         ],
     },
     context=[ex("En una nota en la cocina lees: «The apples are in the box. The box is on the table.» ¿Dónde está la caja?", "Sobre la mesa", "On the table es sobre la mesa.")],

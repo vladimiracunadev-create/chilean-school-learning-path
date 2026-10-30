@@ -28,12 +28,13 @@ reg(
     prior=["Sé qué herramienta sirve para cada acción.", "Sé que un plan tiene pasos en orden."],
     explain=[
         "Antes de construir, se prepara el lugar. Primero deja la mesa despejada: solo lo necesario encima. Luego junta todos los materiales y herramientas y ponlos al alcance de la mano. Así no te levantas con la tijera en la mano.",
-        "Revisa tu lista. Para un contenedor de tarjetas necesitas: cartón limpio, regla, lápiz, tijera de punta roma y pegamento escolar. Si falta algo, avisa a un adulto antes de empezar. También puedes poner un papel de diario debajo para no ensuciar la mesa.",
-        "Recuerda tres reglas de seguridad. Tu cabello recogido y tus mangas arremangadas. La tijera siempre cerrada cuando no la usas. Y un adulto cerca cuando cortes. Al terminar, guardas todo. Un buen espacio de trabajo es el primer paso de un buen trabajo.",
+        "Revisa tu lista. Para un contenedor de tarjetas necesitas: cartón limpio, regla, lápiz, tijera de punta roma y pegamento escolar. Si falta algo, avisa a un adulto antes de empezar. Elige también tus materiales: papel, cartón, lana o hilo (fibras), un trozo de tela, una bolsa o botella de plástico limpia y desechos limpios, como una caja o una tapa. Cada material sirve para algo distinto. El papel se pliega. La lana se une con un nudo. El plástico se pega con cinta. No uses vidrio ni latas, porque cortan.",
+        "Recuerda tres reglas de seguridad. Tu cabello recogido y tus mangas arremangadas. La tijera siempre cerrada cuando no la usas. Y un adulto cerca cuando cortes. Al terminar, guardas todo y te lavas las manos. Un buen espacio de trabajo es el primer paso de un buen trabajo.",
     ],
     vocab=[("espacio de trabajo", "lugar donde construyo"), ("despejar", "sacar lo que no necesito"), ("lista de materiales", "papel que dice qué necesito"), ("seguridad", "cuidar que nadie se haga daño"), ("al alcance", "cerca para tomarlo sin pararme")],
     worked=[
         ("Revisar la lista", "Necesitas 5 cosas: cartón, regla, lápiz, tijera y pegamento. Ya tienes cartón, regla y lápiz. ¿Cuántas te faltan?", ["Cuento lo que necesito: 5.", "Cuento lo que tengo: 3.", "5 − 3 = 2."], "Faltan 2: tijera y pegamento"),
+        ("Elegir un material seguro", "Tienes una botella de plástico limpia y un frasco de vidrio. Quieres hacer un portalápices. ¿Cuál eliges?", ["El vidrio puede romperse y cortar.", "El plástico limpio no corta si está entero.", "Elijo el plástico limpio y un adulto me ayuda."], "La botella de plástico limpia"),
         ("Despejar la mesa", "En tu mesa hay un vaso, una pelota, tu cuaderno de lectura y tus materiales. ¿Qué dejas sobre la mesa?", ["Pienso en qué necesito para construir.", "El vaso, la pelota y el cuaderno no se usan.", "Dejo solo los materiales."], "Solo los materiales de la construcción"),
     ],
     mistakes=[
@@ -42,7 +43,7 @@ reg(
     ],
     R=[
         ("Antes de construir, ¿la mesa debe estar despejada o llena de juguetes?", "Despejada", "Así hay espacio y no te distraes."),
-        ("¿Dónde guardas la tijera cuando no la usas: cerrada o abierta?", "Cerrada", "Es más seguro."),
+        ("Para hacer un portalápices, ¿eliges una lata o una botella de plástico limpia?", "Una botella de plástico limpia", "La lata tiene bordes que cortan."),
         ("¿Quién debe estar cerca cuando cortas?", "Un adulto", "Puede ayudar si hace falta."),
     ],
     C=[
@@ -57,11 +58,11 @@ reg(
     ],
     Z=[
         ("Tomás empieza a cortar y a mitad del trabajo se levanta a buscar pegamento. ¿Qué paso de preparación se saltó?", "Revisar la lista de materiales", "No juntó todo antes de empezar."),
-        ("Ana dice que no hace falta recoger el cabello largo para trabajar. ¿Tiene razón? Responde sí o no.", "No", "El cabello puede quedar atrapado o estorbar."),
+        ("Nico quiere unir dos trozos de lana y piensa en doblarlos como el papel. ¿Qué técnica sirve mejor para unir lana: nudo o pliegue?", "Nudo", "La lana es una fibra y se une atándola."),
     ],
     D=[
         ("Preparar la mesa lleva estos pasos: despejar, juntar materiales, revisar la lista. Escribe el orden que se explicó en la clase.", "Despejar, juntar materiales, revisar la lista", "Primero hay espacio, luego se junta y se revisa."),
-        ("Tu lista tiene 6 materiales. Si cada uno se pone en una casilla de una hoja con 8 casillas, ¿cuántas casillas quedan libres?", "2", "8 − 6 = 2."),
+        ("Tienes: papel, lana, un vidrio roto, una tapa limpia y una lata. El vidrio y la lata no se usan. ¿Cuántos materiales sí puedes usar?", "3", "Papel, lana y tapa limpia: 5 − 2 = 3."),
     ],
     ctx=("Lía va a construir un contenedor de tarjetas. Sobre su mesa hay una pelota, su lista, un cuaderno, cartón, regla, lápiz, tijera de punta roma y pegamento escolar. La lista se queda sobre la mesa. ¿Cuántos objetos debe sacar de la mesa?", "2", "La pelota y el cuaderno no se usan."),
     sc=[
@@ -70,9 +71,9 @@ reg(
         ("¿Cómo llevas la tijera cuando caminas?", "Cerrada", "Así evita accidentes."),
     ],
     open_task=(
-        "Prepara tu lugar de trabajo para el contenedor de tarjetas con esta lista: cartón limpio, regla, lápiz, tijera de punta roma, pegamento escolar. Dibuja tu mesa con los 5 objetos y un papel de diario debajo. Escribe 3 reglas de seguridad que cumplirás.",
-        "Dibujé mi mesa con los 5 objetos. Reglas: la tijera cerrada cuando no la uso, un adulto cerca, y recojo todo al terminar.",
-        ["junta los 5 materiales", "despeja el espacio", "escribe 3 reglas de seguridad"],
+        "Prepara tu lugar de trabajo para el contenedor de tarjetas con esta lista: cartón limpio, regla, lápiz, tijera de punta roma, pegamento escolar. Dibuja tu mesa con los 5 objetos y un papel de diario debajo. Elige un material extra de esta lista: lana, tela, bolsa de plástico limpia o tapa limpia, y escribe para qué sirve. Escribe 3 reglas de seguridad que cumplirás, una de ellas sobre lavarte las manos al terminar.",
+        "Dibujé mi mesa con los 5 objetos. Elegí lana: sirve para unir con un nudo. Reglas: la tijera cerrada cuando no la uso, un adulto cerca, y me lavo las manos al terminar.",
+        ["junta los 5 materiales", "despeja el espacio", "elige un material y dice para qué sirve", "escribe 3 reglas de seguridad"],
         ["foto o dibujo de la mesa", "lista de reglas"],
         ["empezar sin revisar", "dejar la tijera abierta"],
         "Pide mostrar la lista y marcar cada material con una cruz cuando lo ve. Refuerza la regla de la tijera.",
@@ -89,11 +90,12 @@ reg(
     explain=[
         "Para medir, pon el cero de la regla en el borde del papel y mira el número donde termina lo que necesitas. Luego haz una marca pequeña con el lápiz en ese punto. Mide de nuevo desde el otro lado, y une las marcas con una línea recta.",
         "Una plantilla es un modelo que guía el tamaño. Si la plantilla dice 10 cm de ancho y 6 cm de alto, marcas esas medidas en el cartón y trazas un rectángulo. Así todas las piezas salen iguales.",
-        "Para cortar, pide ayuda a un adulto. Corta sobre la línea con calma, con la punta de la tijera lejos de tu cuerpo. Sujeta el papel con la otra mano, lejos del filo. Pon los restos en una caja. Si te equivocas por poco, no pasa nada: ajusta después con cuidado.",
+        "Las fibras, como la lana o el hilo, se miden estirándolas junto a la regla, sin arrugas. La tela y la bolsa de plástico limpia también se marcan y se cortan, pero con un adulto cerca y tijera de punta roma. Nunca cortes vidrio ni latas. Para cortar, pide ayuda a un adulto. Corta sobre la línea con calma, con la punta de la tijera lejos de tu cuerpo. Sujeta el papel con la otra mano, lejos del filo. Pon los restos en una caja y lávate las manos al terminar. Si te equivocas por poco, no pasa nada: ajusta después con cuidado.",
     ],
     vocab=[("plantilla", "modelo que muestra el tamaño de una pieza"), ("marca", "punto hecho con lápiz"), ("línea de corte", "línea por donde se corta"), ("recto", "sin curvas"), ("filo", "borde que corta")],
     worked=[
         ("Medir una pieza", "La plantilla pide 10 cm de largo. Pones el cero en el borde. ¿Dónde marcas?", ["El cero está en el borde.", "Busco el número 10 en la regla.", "Hago una marca en el 10."], "En el número 10 de la regla"),
+        ("Medir una fibra", "Estiras un hilo de lana junto a la regla desde el cero y termina en el 14. ¿Cuánto mide?", ["Pongo el hilo recto, sin arrugas.", "Pongo el cero en un extremo.", "Leo el número donde termina."], "14 cm"),
         ("Calcular el sobrante", "Tu cartón mide 14 cm de largo y la pieza mide 10 cm. ¿Cuántos cm sobran?", ["Resto 14 − 10.", "Da 4.", "Sobran 4 cm."], "Sobran 4 cm"),
     ],
     mistakes=[
@@ -108,16 +110,16 @@ reg(
     C=[
         ("¿Qué es una plantilla?", "Un modelo que muestra el tamaño de la pieza", "Sirve para que todas salgan iguales."),
         ("¿Por qué hay que marcar con lápiz antes de cortar?", "Para saber por dónde cortar", "La marca guía la tijera."),
-        ("¿Quién ayuda al cortar si eres pequeño?", "Un adulto", "Es una regla de seguridad."),
+        ("¿Cómo mides un hilo de lana: estirado junto a la regla o hecho un ovillo?", "Estirado junto a la regla", "Si está arrugado, la medida sale equivocada."),
     ],
     A=[
         ("La plantilla pide 12 cm de largo. Tu cartón mide 18 cm. ¿Cuántos cm sobran?", "6", "18 − 12 = 6."),
         ("Marcas una pieza de 10 cm de ancho y otra de 10 cm de ancho, una al lado de la otra. ¿Cuántos cm de cartón ocupan juntas?", "20", "10 + 10 = 20."),
-        ("Necesitas 4 piezas iguales de 5 cm cada una puestas en una tira. ¿Cuántos cm de largo tiene la tira?", "20", "5 + 5 + 5 + 5 = 20."),
+        ("Cortas un trozo de lana de 15 cm y otro de 9 cm. ¿Cuántos cm más largo es el primero?", "6", "15 − 9 = 6."),
     ],
     Z=[
         ("Rita puso el borde del papel en el número 1 de la regla y marcó en el 10. La pieza debía medir 10 cm. ¿Salió bien? Responde sí o no.", "No", "De 1 a 10 hay solo 9 cm; debía empezar en el cero."),
-        ("Ema marcó 10 cm pero la plantilla decía 12 cm. ¿La pieza quedará corta o larga?", "Corta", "10 cm es menos que 12 cm."),
+        ("Ema quiere cortar una botella de plástico, pero no hay un adulto cerca. ¿Debe cortarla ahora? Responde sí o no.", "No", "Con objetos cortantes siempre debe haber un adulto."),
     ],
     D=[
         ("Del cartón de 20 cm de largo cortas una pieza de 12 cm. De lo que sobra cortas otra de 5 cm. ¿Cuántos cm sobran al final?", "3", "20 − 12 − 5 = 3."),
@@ -130,10 +132,10 @@ reg(
         ("¿Para qué sirve una plantilla?", "Para repetir el mismo tamaño", "Todas las piezas salen iguales."),
     ],
     open_task=(
-        "Con esta plantilla marca y corta una pieza de papel: 10 cm de ancho y 6 cm de alto. Mide con la regla, marca con lápiz, une las marcas con línea recta y corta con un adulto. Escribe cuánto mide cada lado y si la pieza salió igual a la plantilla.",
-        "Medí 10 cm de ancho y 6 cm de alto, uní las marcas, corté con ayuda y salió igual a la plantilla. Anoté las medidas de mis dos lados.",
+        "Con esta plantilla marca y corta una pieza de papel: 10 cm de ancho y 6 cm de alto. Mide con la regla, marca con lápiz, une las marcas con línea recta y corta con un adulto. Después mide y corta también un trozo de lana de 10 cm. Escribe cuánto mide cada lado, cuánto mide la lana y si las piezas salieron iguales a la plantilla.",
+        "Medí 10 cm de ancho y 6 cm de alto, uní las marcas, corté con ayuda y salió igual a la plantilla. Corté un hilo de lana de 10 cm estirado junto a la regla. Anoté las medidas de mis dos lados y de la lana.",
         ["mide desde el cero", "marca y une con línea recta", "corta con ayuda y cuidado", "compara con la plantilla"],
-        ["pieza de papel cortada", "notas de las medidas"],
+        ["pieza de papel cortada y trozo de lana", "notas de las medidas"],
         ["no empezar en cero", "cortar sin línea"],
         "Pide medir de nuevo la pieza y comparar con la plantilla. Si hay diferencia, que diga cuánto y por qué.",
     ),
@@ -148,8 +150,8 @@ reg(
     prior=["Sé medir y cortar una pieza con ayuda.", "Sé el orden de las tareas de fabricación."],
     explain=[
         "Plegar es doblar el papel o el cartón por una línea marcada. Marca el pliegue con la regla y el lápiz, apoya la regla y dobla por ahí. Presiona con el dedo para que el pliegue quede firme y recto.",
-        "Unir es pegar dos partes. Pon poco pegamento, solo en la orilla que se une, y presiona durante un rato. Si pones demasiado, el papel se arruga y tarda en secar. Espera hasta que seque antes de usar el objeto.",
-        "Terminar es revisar y dejar listo. Mira si hay bordes que sobresalen, restos de pegamento o esquinas que se doblan. Corrige con cuidado. Si quieres pintar, hazlo al final, con pintura escolar y cuando el pegamento ya esté seco. Al final, limpia la mesa y lávate las manos. Un buen terminado hace que el objeto sea más seguro y más lindo.",
+        "Unir es pegar dos partes. Pon poco pegamento, solo en la orilla que se une, y presiona durante un rato. Si pones demasiado, el papel se arruga y tarda en secar. Espera hasta que seque antes de usar el objeto. Cada material se une a su manera: el papel y el cartón, con pegamento; el plástico, con cinta, porque el pegamento escolar no lo agarra bien; la lana, el hilo y la tela, con un nudo.",
+        "Terminar es revisar y dejar listo. Mira si hay bordes que sobresalen, restos de pegamento o esquinas que se doblan. Corrige con cuidado. Si quieres pintar, hazlo al final, con pintura escolar sobre papel o cartón y cuando el pegamento ya esté seco. El plástico delgado no guarda un pliegue marcado como el papel. Al final, limpia la mesa y lávate las manos. Un buen terminado hace que el objeto sea más seguro y más lindo.",
     ],
     vocab=[("plegar", "doblar por una línea marcada"), ("pliegue", "la marca que deja el doblez"), ("unir", "pegar dos partes"), ("terminar", "revisar y dejar listo el objeto"), ("secar", "esperar a que el pegamento se endurezca")],
     worked=[
@@ -168,7 +170,7 @@ reg(
     C=[
         ("¿Por qué se marca el pliegue antes de doblar?", "Para que el doblez salga recto", "Una línea guía el doblez."),
         ("¿Qué pasa si pones demasiado pegamento?", "El papel se arruga y tarda en secar", "Sobra pegamento en el papel."),
-        ("¿Qué se hace en el paso de terminar?", "Se revisa y se corrigen los bordes", "Se deja el objeto listo y seguro."),
+        ("Quieres unir dos trozos de lana. ¿Sirve mejor un nudo o un pliegue?", "Un nudo", "Las fibras se atan; no se doblan como el papel."),
     ],
     A=[
         ("Una caja tiene 4 paredes y cada una necesita 2 pliegues (uno a cada lado). ¿Cuántos pliegues hay en total?", "8", "2 + 2 + 2 + 2 = 8."),
@@ -177,7 +179,7 @@ reg(
     ],
     Z=[
         ("Teo pegó las orillas y de inmediato llenó la caja con 8 tarjetas. Se despegó. ¿Qué paso olvidó?", "Esperar a que seque", "El pegamento necesita tiempo."),
-        ("Ana plegó sin marcar y el doblez quedó torcido. ¿Qué debió hacer antes?", "Marcar el pliegue con regla y lápiz", "La marca guía el doblez."),
+        ("Luis unió dos trozos de bolsa plástica con pegamento escolar y se despegaron. ¿Qué le conviene usar: cinta o más pegamento?", "Cinta", "El pegamento escolar no agarra bien el plástico."),
     ],
     D=[
         ("Una tira de 20 cm se pliega en 4 partes del mismo largo. Pista: busca el número que sumado 4 veces da 20. ¿Cuánto mide cada parte?", "5 cm", "5 + 5 + 5 + 5 = 20."),
@@ -187,12 +189,12 @@ reg(
     sc=[
         ("¿Qué es plegar?", "Doblar por una línea marcada", "Se hace un pliegue."),
         ("¿Poco o mucho pegamento?", "Poco", "Así no se arruga."),
-        ("¿Qué haces al terminar con la mesa?", "La limpias", "Se deja ordenada."),
+        ("¿Qué material se pliega bien y se pega con pegamento: el papel o la lana?", "El papel", "La lana es una fibra y se une con nudo."),
     ],
     open_task=(
-        "Arma una cajita con una pieza de papel cuadrada de 12 cm de lado. Marca un pliegue a 3 cm de cada borde, un adulto corta 3 cm desde cada esquina hacia adentro, por la línea del pliegue. Dobla las 4 orillas hacia arriba y une las esquinas con poco pegamento o cinta. Anota cuántos pliegues hiciste y cómo quedó el terminado.",
-        "Hice 4 pliegues a 3 cm de cada borde. Pegué las 4 esquinas con poco pegamento. Esperé a que secara y quedó firme. Un borde sobresale y lo recorté con ayuda.",
-        ["marca los pliegues", "dobla recto", "usa poco pegamento", "revisa el terminado"],
+        "Arma una cajita con una pieza de papel cuadrada de 12 cm de lado. Marca un pliegue a 3 cm de cada borde, un adulto corta 3 cm desde cada esquina hacia adentro, por la línea del pliegue. Dobla las 4 orillas hacia arriba y une las esquinas con poco pegamento o cinta. Con un trozo de lana de 20 cm haz un lazo y une sus extremos con un nudo. Anota cuántos pliegues hiciste, qué técnica usaste para cada material y cómo quedó el terminado. Lávate las manos al terminar.",
+        "Hice 4 pliegues a 3 cm de cada borde. Pegué las 4 esquinas con poco pegamento. Esperé a que secara y quedó firme. Un borde sobresale y lo recorté con ayuda. La lana la uní con un nudo y me lavé las manos.",
+        ["marca los pliegues", "dobla recto", "usa poco pegamento", "une la lana con un nudo", "revisa el terminado"],
         ["caja de papel armada", "nota con pliegues y terminado"],
         ["mucho pegamento", "usar antes de que seque"],
         "Pide mostrar los 4 pliegues y explicar cómo comprobó que están rectos.",
@@ -207,13 +209,14 @@ reg(
     use="Aprenderé a terminar un contenedor de tarjetas y a comprobar si sirve para lo que lo hice. Sirve para saber si mi objeto cumple y qué mejorar.",
     prior=["Sé medir, cortar, plegar y unir con cuidado.", "Sé escribir qué debe cumplir un objeto."],
     explain=[
-        "Construir es seguir el plan paso a paso: medir, marcar, cortar, plegar y unir. Al final se comprueba, que es probar si el objeto cumple lo que se pidió. Comprobar no es mirar si es bonito, sino usarlo.",
+        "Construir es seguir el plan paso a paso: medir, marcar, cortar, plegar y unir. Al final se comprueba, que es probar si el objeto cumple lo que se pidió. Comprobar no es mirar si es bonito, sino usarlo. También sirve para elegir material: se prueba cuál resiste más. Por ejemplo, se pone el mismo peso sobre un papel doblado y sobre un cartón, y se ve cuál se hunde.",
         "Para un contenedor de tarjetas, el criterio es que quepan 10 tarjetas de 9 cm por 6 cm. Si el contenedor mide 10 cm de largo y 7 cm de ancho por dentro, caben las tarjetas, porque 10 es más que 9 y 7 es más que 6. Se comprueba poniendo las tarjetas adentro.",
         "Después anota el resultado: qué cumplió y qué no. Si no cumple, piensa qué cambiar, por ejemplo hacer la caja un poco más grande o pegar mejor las orillas. Tu objeto no tiene que ser perfecto, pero sí debe servir para su usuario.",
     ],
     vocab=[("comprobar", "usar el objeto para ver si cumple"), ("cabe", "entra en el espacio que hay"), ("interior", "lo de adentro"), ("resultado", "lo que pasó al probar"), ("ajustar", "cambiar un poco para mejorar")],
     worked=[
         ("Comprobar el tamaño", "Una tarjeta mide 9 cm por 6 cm. El interior de la caja mide 10 cm por 7 cm. ¿Cabe?", ["Comparo el largo: 10 es mayor que 9.", "Comparo el ancho: 7 es mayor que 6.", "Cabe en las dos medidas."], "Sí, cabe"),
+        ("Probar cuál resiste", "Pones 5 lápices sobre un papel doblado y se hunde. Los pones sobre un cartón del mismo tamaño y no se hunde. ¿Qué material resiste más?", ["Pruebo los dos con el mismo peso.", "El papel se hundió.", "El cartón aguantó."], "El cartón"),
         ("Cuántas caben", "10 tarjetas apiladas ocupan 1 cm de alto. La caja tiene 2 cm de alto adentro. ¿Cuántas tarjetas caben apiladas?", ["10 tarjetas ocupan 1 cm.", "2 cm es dos veces 1 cm.", "10 + 10 = 20."], "20 tarjetas"),
     ],
     mistakes=[
@@ -228,16 +231,16 @@ reg(
     C=[
         ("¿Qué se hace al comprobar un contenedor de tarjetas?", "Se ponen las tarjetas adentro y se cuenta", "Se prueba la capacidad."),
         ("¿Por qué se anota el resultado?", "Para recordar qué cumplió y qué mejorar", "Sirve para decidir cambios."),
-        ("¿Un objeto lindo pero que no cumple su función sirve para su usuario? Responde sí o no.", "No", "Debe cumplir primero su función."),
+        ("¿Cómo sabes si el cartón resiste más que el papel: lo miras o pones el mismo peso en los dos?", "Pones el mismo peso en los dos", "Probar con lo mismo permite comparar."),
     ],
     A=[
         ("El interior de una caja mide 12 cm de largo. Las tarjetas miden 9 cm. ¿Cuántos cm sobran?", "3", "12 − 9 = 3."),
         ("Caben 8 tarjetas por fila y hay 2 filas. ¿Cuántas tarjetas caben en total?", "16", "8 + 8 = 16."),
-        ("Debes guardar 10 tarjetas. La caja tiene espacio para 7. ¿Cuántas quedan fuera?", "3", "10 − 7 = 3."),
+        ("El cartón sostuvo 6 libros y el papel doblado sostuvo 2. ¿Cuántos libros más sostuvo el cartón?", "4", "6 − 2 = 4."),
     ],
     Z=[
         ("Tato dice que su caja funciona porque la pintó de azul. Pero al poner 10 tarjetas, solo caben 6. ¿Funciona para 10 tarjetas? Responde sí o no.", "No", "Solo caben 6."),
-        ("Rita ve que sus tarjetas no caben por 1 cm de ancho. ¿Qué ajuste propones: hacer la caja 1 cm más ancha o 1 cm más angosta?", "1 cm más ancha", "Se necesita más espacio."),
+        ("Teo dice que su bolsa plástica sostendrá 10 tarjetas porque se ve fuerte, pero no la probó. ¿Qué debe hacer?", "Probarla con las tarjetas", "Solo usar el objeto muestra si resiste."),
     ],
     D=[
         ("Una caja guarda 15 tarjetas. Ya pusiste 9. ¿Cuántas caben todavía?", "6", "15 − 9 = 6."),
@@ -250,9 +253,9 @@ reg(
         ("10 cm contra 9 cm: ¿cabe lo de 9 cm en un espacio de 10 cm?", "Sí", "10 es mayor que 9."),
     ],
     open_task=(
-        "Comprueba este contenedor: interior de 10 cm por 7 cm y alto de 3 cm. Las tarjetas miden 9 cm por 6 cm, y 10 tarjetas apiladas ocupan 1 cm de alto. Necesitas guardar 10 tarjetas. Escribe si caben, cuántas caben apiladas y un ajuste si algo no cumple.",
-        "Las tarjetas caben porque 10 es mayor que 9 y 7 es mayor que 6. En 3 cm de alto caben 30 tarjetas. Cumple. No necesita ajustes, pero revisaría los pliegues.",
-        ["compara largo y ancho", "calcula cuántas caben", "anota el resultado", "propone un ajuste si hace falta"],
+        "Comprueba este contenedor: interior de 10 cm por 7 cm y alto de 3 cm. Las tarjetas miden 9 cm por 6 cm, y 10 tarjetas apiladas ocupan 1 cm de alto. Necesitas guardar 10 tarjetas. Para la tapa, probaste papel y cartón con el mismo peso: el papel se hundió con 2 libros y el cartón aguantó 6. Escribe si caben, cuántas caben apiladas, qué material elegirías para la tapa y un ajuste si algo no cumple.",
+        "Las tarjetas caben porque 10 es mayor que 9 y 7 es mayor que 6. En 3 cm de alto caben 30 tarjetas. Cumple. Para la tapa elijo el cartón, porque aguantó 6 libros y el papel solo 2. No necesita ajustes, pero revisaría los pliegues.",
+        ["compara largo y ancho", "calcula cuántas caben", "elige el material que resiste más", "anota el resultado", "propone un ajuste si hace falta"],
         ["hoja con comparación y cálculo", "frase de resultado"],
         ["decir que funciona sin probar", "no anotar"],
         "Pide mostrar la comparación de medidas y el cálculo con los datos.",

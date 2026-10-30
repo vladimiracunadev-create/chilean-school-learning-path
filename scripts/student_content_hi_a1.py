@@ -437,7 +437,7 @@ register(
         ],
         "challenge": [
             ex("Ordena de más antiguo a más nuevo estos hechos de Nina: 3 de marzo de 2030 entró a primero; 7 de agosto de 2023 nació; 4 de marzo de 2029 empezó el kínder.", "nació, empezó el kínder, entró a primero", "Se ordenan por año: 2023, 2029 y 2030."),
-            arith("Nina nació en 2023 y este año es 2030. ¿Cuántos años pasaron entre 2023 y 2030?", "2030-2023", "Se resta el año menor al año mayor."),
+            arith("Nina nació en 2023 y este año es 2030. De 2023 a 2030 se cuenta 2024, 2025, 2026, 2027, 2028, 2029 y 2030: son 7 saltos de a 1 año. Si das 3 saltos y luego 4 saltos, ¿cuántos años pasaron entre 2023 y 2030?", "3+4", "Se suman los saltos: 3 más 4."),
         ],
     },
     context=[ex("La familia de Ana dice: «Este año vamos al sur, el año pasado fuimos a la playa y el año próximo iremos al campo». Si este año es 2030, ¿en qué año vamos al campo?", "2031", "El campo está en el año próximo, que viene después de 2030.")],
