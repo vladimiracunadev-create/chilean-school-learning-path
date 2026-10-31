@@ -157,7 +157,7 @@ Respuesta: Un cuento escrito con dibujos en papel.
 
 *Aplicación*
 
-- **A1.** Clasifica en AUDIOVISUAL o ESCRITA: a) un cartel con un texto b) un video de 30 segundos.
+- **A1.** Clasifica en AUDIOVISUAL o ESCRITA: a) un video de 30 segundos b) un cartel con un texto.
 - **A2.** Ficha: «Situación: personal. Audiencia: mi curso. Recursos: grabadora de la escuela. Permisos: de mi familia». ¿Qué dato falta para una creación sobre la comunidad? A) el nombre de la grabadora B) permiso de la comunidad
 - **A3.** Un video tiene 4 escenas de 20 segundos cada una. ¿Cuántos segundos dura?
 
@@ -191,7 +191,7 @@ Respuesta: Un cuento escrito con dibujos en papel.
 - **C1.** Verdadero. Es una versión en papel.
 - **C2.** Falso. Se pide permiso.
 - **C3.** A. Ellos enseñan la lengua.
-- **A1.** b audiovisual, b escrita. El video tiene imagen y sonido; el cartel, letras.
+- **A1.** a audiovisual, b escrita. El video tiene imagen y sonido; el cartel, letras.
 - **A2.** B. Una creación comunitaria necesita permiso de la comunidad.
 - **A3.** 80 segundos. Se multiplican escenas por duración. Cálculo: 4 × 20 = 80.
 - **Z1.** Usa su voz sin permiso. La imagen y la voz requieren autorización.
@@ -993,7 +993,7 @@ Respuesta: No cumple la protección de datos ni los créditos.
 
 *Aplicación*
 
-- **A1.** Clasifica en VENTAJA o LIMITACIÓN: a) un cartel no tiene sonido b) un audio conserva una voz.
+- **A1.** Clasifica en VENTAJA o LIMITACIÓN: a) un audio conserva una voz b) un cartel no tiene sonido.
 - **A2.** Criterio «cuidado de la lengua». Video: se valida cómo suena y cómo se escribe el subtítulo. Cartel: se valida cómo se escribe. ¿Qué diferencia hay? A) el video requiere validar también el sonido B) ninguna
 - **A3.** Un grupo cumple 5 de las 6 preguntas de la lista. ¿Qué hace? A) corrige la que falta antes de compartir B) comparte igual
 
@@ -1027,7 +1027,7 @@ Respuesta: No cumple la protección de datos ni los créditos.
 - **C1.** Falso. Contrastar es describir ventajas y limitaciones.
 - **C2.** A. El acceso dice quiénes pueden verla.
 - **C3.** Verdadero. Filma a personas reales.
-- **A1.** b ventaja, b limitación. Cada afirmación describe lo que el formato hace o no hace.
+- **A1.** a ventaja, b limitación. Cada afirmación describe lo que el formato hace o no hace.
 - **A2.** A. En el video también se valida la voz.
 - **A3.** A. Se corrige antes de compartir.
 - **Z1.** Jerarquiza por moda. Cada formato sirve a una situación y a un acceso.

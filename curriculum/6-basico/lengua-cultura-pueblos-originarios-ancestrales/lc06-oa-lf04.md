@@ -576,7 +576,7 @@ Respuesta: Formal con la persona mayor y no formal con el grupo.
 *Aplicación*
 
 - **A1.** Ordena las partes de un agradecimiento con letras: a) «Gracias por la visita» b) «Hasta pronto» c) «Querida vecina». Escribe el orden.
-- **A2.** Clasifica en OBSERVACIÓN o INTERPRETACIÓN: a) «Yo pienso que el huerto es muy cuidado» b) «Vi cuatro surcos de lechuga».
+- **A2.** Clasifica en OBSERVACIÓN o INTERPRETACIÓN: a) «Vi cuatro surcos de lechuga» b) «Yo pienso que el huerto es muy cuidado».
 - **A3.** Nota de campo: «Fecha: 15 de mayo. Lugar: huerto. Observé 3 hileras de zapallos y 2 de papas». ¿Cuántas hileras observó en total?
 
 *Razonamiento y análisis*
@@ -610,7 +610,7 @@ Respuesta: Formal con la persona mayor y no formal con el grupo.
 - **C2.** Falso. Lo reservado no se escribe.
 - **C3.** A. Se guarda para consultar después.
 - **A1.** c, a, b. Saludo, agradecimiento y despedida.
-- **A2.** b observación, b interpretación. La primera es un dato; la segunda es una idea.
+- **A2.** a observación, b interpretación. La primera es un dato; la segunda es una idea.
 - **A3.** 5. Se suman 3 y 2.
 - **Z1.** B. Una invitación necesita fecha, hora y lugar.
 - **Z2.** A. No es observación ni fuente.
@@ -784,7 +784,7 @@ Respuesta: Límites: no sé por qué reparan los miércoles. Devolución: le lee
 
 *Aplicación*
 
-- **A1.** Clasifica en OBSERVADO o CITADO: a) «Doña Luz contó que salen al amanecer» b) «Vi tres botes en la orilla».
+- **A1.** Clasifica en OBSERVADO o CITADO: a) «Vi tres botes en la orilla» b) «Doña Luz contó que salen al amanecer».
 - **A2.** Escribe la atribución de «maururu»: «La expresión ‘maururu’ fue dictada por el ______». Responde con las palabras que faltan.
 - **A3.** Un texto dice «No sé cómo se llama el muelle». ¿En qué sección va? A) límites B) observado
 
@@ -818,7 +818,7 @@ Respuesta: Límites: no sé por qué reparan los miércoles. Devolución: le lee
 - **C1.** Verdadero. Así se distingue lo que vi de lo que me contaron.
 - **C2.** Falso. Siempre se atribuye.
 - **C3.** A. La separación facilita la revisión.
-- **A1.** b observado, b citado. La primera la vio quien escribe; la segunda la contó la fuente.
+- **A1.** a observado, b citado. La primera la vio quien escribe; la segunda la contó la fuente.
 - **A2.** Educador o educadora tradicional. Es quien dicta las expresiones.
 - **A3.** A. Es algo que no sé.
 - **Z1.** B. Mostró el texto a la fuente.
@@ -994,7 +994,7 @@ Respuesta: Se agrega «dictada por el educador».
 *Aplicación*
 
 - **A1.** Lista de verificación: ¿el texto respeta lo reservado? Texto: «Les contaré qué se dijo en la rogativa». ¿Cumple? Responde Sí o No.
-- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) una usa «usted» y la otra «tú» b) ambas versiones agradecen.
+- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) ambas versiones agradecen b) una usa «usted» y la otra «tú».
 - **A3.** Una versión dice «Estimada vecina» y otra «Querida vecina». ¿Qué criterio las separa? A) el trato B) la fecha
 
 *Razonamiento y análisis*
@@ -1028,7 +1028,7 @@ Respuesta: Se agrega «dictada por el educador».
 - **C2.** Falso. Pueden ser variantes.
 - **C3.** A. La comunidad decide.
 - **A1.** No. Dice que contará lo reservado.
-- **A2.** b semejanza, b diferencia. La primera es común; la segunda, distinta.
+- **A2.** a semejanza, b diferencia. La primera es común; la segunda, distinta.
 - **A3.** A. Una es más formal que la otra.
 - **Z1.** B. La longitud no define si es adecuada.
 - **Z2.** B. La lista no reemplaza la validación.

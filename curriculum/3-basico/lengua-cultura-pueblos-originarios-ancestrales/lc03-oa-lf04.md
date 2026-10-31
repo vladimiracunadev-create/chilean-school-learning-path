@@ -152,7 +152,7 @@ Respuesta: 7 palabras
 *Comprensión*
 
 - **C1.** Verdadero o falso: copiar una palabra de la ficha es escribirla igual, letra por letra.
-- **C2.** ¿Cuál copia bien la palabra «ñuke»? A) ñuke B) nuke C) ñuque
+- **C2.** ¿Cuál copia bien la palabra «ñuke»? A) ñuque B) nuke C) ñuke
 - **C3.** Oración: «Entré a la «ruka», la casa, y saludé.» ¿Qué nombra «ruka»?
 
 *Aplicación*
@@ -189,7 +189,7 @@ Respuesta: 7 palabras
 - **R2.** kuyen. La palabra en mapuzugun va entre comillas.
 - **R3.** agua. La ficha dice que «ko» es agua.
 - **C1.** Verdadero. Copiar es escribir igual.
-- **C2.** A. Es la que conserva todas las letras de la ficha.
+- **C2.** C. Es la que conserva todas las letras de la ficha.
 - **C3.** la casa. La oración la explica con «la casa».
 - **A1.** 7. Cuento: Tomé, ko, agua, fresca, en, el, recreo.
 - **A2.** mapu. La segunda tiene «mapu» entre comillas.

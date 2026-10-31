@@ -367,7 +367,7 @@ Respuesta: «¿Cómo deciden los mayores el orden de la cosecha?»
 *Aplicación*
 
 - **A1.** Exposición leída: «Cada familia lleva sus canastos; los jóvenes ayudan a cargar». ¿Cuál es la idea principal? A) La cosecha es difícil de explicar en un día B) La cosecha se hace entre todos
-- **A2.** Clasifica en CLAVE o GLOSARIO: a) mari mari b) canastos.
+- **A2.** Clasifica en CLAVE o GLOSARIO: a) canastos b) mari mari.
 - **A3.** Exposición leída: «Hay una reunión de cierre solo de la comunidad». ¿Qué anotas? A) la hora de la reunión B) reservado: la reunión de cierre
 
 *Razonamiento y análisis*
@@ -401,7 +401,7 @@ Respuesta: «¿Cómo deciden los mayores el orden de la cosecha?»
 - **C2.** Falso. Se escriben como indica el educador.
 - **C3.** A. Así se respeta el turno y el límite.
 - **A1.** B. Resume sin agregar datos.
-- **A2.** b clave, b glosario. «Canastos» es palabra clave; «mari mari» es palabra en lengua.
+- **A2.** a clave, b glosario. «Canastos» es palabra clave; «mari mari» es palabra en lengua.
 - **A3.** B. La exposición no da la hora y la reserva.
 - **Z1.** Confunde el agradecimiento con un saludo. «Chaltumay» significa gracias.
 - **Z2.** B. Insiste en lo reservado.
@@ -575,7 +575,7 @@ Respuesta: La incorporo en el desarrollo con una explicación breve y validada.
 
 *Aplicación*
 
-- **A1.** Completa la tabla: palabra «maururu», función ______, momento cierre. A) agradecer B) saludar
+- **A1.** Completa la tabla: palabra «maururu», función ______, momento cierre. A) saludar B) agradecer
 - **A2.** Une función y momento: a) saludar b) agradecer. Escribe INICIO o CIERRE para cada una.
 - **A3.** Quieres usar una palabra del tema sin saber su significado. ¿Qué haces? A) pregunto al educador antes B) la uso igual
 
@@ -609,7 +609,7 @@ Respuesta: La incorporo en el desarrollo con una explicación breve y validada.
 - **C1.** Verdadero. El sentido puede cambiar.
 - **C2.** Falso. Agradece, no saluda.
 - **C3.** A. Conoce el sentido en la comunidad.
-- **A1.** A. «Maururu» es gracias en rapa nui.
+- **A1.** B. «Maururu» es gracias en rapa nui.
 - **A2.** a inicio, b cierre. Se saluda al comenzar y se agradece al terminar.
 - **A3.** A. Se valida el significado.
 - **Z1.** Usa un agradecimiento como saludo. «Maururu» es gracias.

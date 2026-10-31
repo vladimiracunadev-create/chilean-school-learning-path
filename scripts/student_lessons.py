@@ -75,6 +75,15 @@ _ANSWER = re.compile(r"^(\(?)([AaBb])(\)?[\).]?)(\s.*)?$")
 _LETTER_IN_WHY = re.compile(r"(?:opci[oó]n|alternativa|letra)\s+\(?[AaBb]\b|\(?\b[AaBb]\)")
 
 
+_MATCHING_STEM = re.compile(r"\b(?:une|unir|relaciona|clasifica|empareja|asocia|ordena|completa la tabla|escribe las letras)\b", re.I)
+_MULTI_ANSWER = re.compile(r"=|;|[,]\s*\(?[A-Da-d]\)?\s*(?:=|con\b|\))|\bcon \d|\b[A-Da-d]\s+(?:con|=)\b")
+
+
+def _is_matching(q: str, a: str) -> bool:
+    """Questions that pair or classify items use a), b), c) as list labels, not as options."""
+    return bool(_MATCHING_STEM.search(q) or _MULTI_ANSWER.search(a))
+
+
 def _swap_options(item: dict) -> None:
     """Place the correct option of an A/B question at a position fixed by a hash of its content.
 
@@ -89,7 +98,7 @@ def _swap_options(item: dict) -> None:
     if len(marks) != 2 or letters[0].upper() != "A" or letters[1].upper() != "B" or letters[0].islower() != letters[1].islower():
         return
     am = _ANSWER.match(answer.strip())
-    if not am or _LETTER_IN_WHY.search(item.get("why", "")):
+    if not am or _LETTER_IN_WHY.search(item.get("why", "")) or _is_matching(q, answer):
         return
     first, second = marks
     a_raw = q[first.end():second.start()]
@@ -116,11 +125,53 @@ def _swap_options(item: dict) -> None:
     item["a"] = f"{am.group(1)}{flipped}{am.group(3)}{am.group(4) or ''}"
 
 
+def _swap_three(item: dict) -> None:
+    """Same idea as `_swap_options` for A/B/C questions: the correct option goes to a position fixed by a hash."""
+    import zlib
+    q, answer = item["q"], str(item["a"])
+    marks = list(_MARK.finditer(q))
+    letters = [m.group(2) for m in marks]
+    if len(marks) != 3 or [x.upper() for x in letters] != ["A", "B", "C"] or len({x.islower() for x in letters}) != 1:
+        return
+    am = re.match(r"^(\(?)([AaBbCc])(\)?[\).]?)(\s.*)?$", answer.strip())
+    if not am or _LETTER_IN_WHY.search(item.get("why", "")) or chr(10) in q or _is_matching(q, answer):
+        return
+    sep_re = re.compile(r"(?:\s+[oO]|\s*[,;])\s*$")
+    raws = [q[marks[0].end():marks[1].start()], q[marks[1].end():marks[2].start()], q[marks[2].end():].strip()]
+    seps, texts = [], []
+    for raw in raws[:2]:
+        m = sep_re.search(raw)
+        texts.append((raw[:m.start()] if m else raw).strip())
+        seps.append(m.group(0).rstrip() if m else "")
+    tail = re.search(r"[?.!]*$", raws[2]).group(0)
+    texts.append(raws[2][:len(raws[2]) - len(tail)].strip())
+    if not all(texts) or re.search(r"[.?!]\s+[A-ZÁÉÍÓÚ¿¡]", texts[2]):
+        return
+    correct = "ABC".index(am.group(2).upper())
+    key = q[:marks[0].start()] + "|" + "|".join(sorted(texts))
+    target = zlib.crc32(key.encode("utf-8")) % 3
+    if target == correct:
+        return
+    new = list(texts)
+    new[correct], new[target] = texts[target], texts[correct]
+    stem = q[:marks[0].start()]
+    parts = [stem]
+    for i in range(3):
+        mk = marks[i]
+        parts.append(f"{mk.group(1)}{mk.group(2)}{mk.group(3)} {new[i]}")
+        if i < 2:
+            parts.append(seps[i] + " ")
+    item["q"] = "".join(parts) + tail
+    letter = ("abc" if am.group(2).islower() else "ABC")[target]
+    item["a"] = f"{am.group(1)}{letter}{am.group(3)}{am.group(4) or ''}"
+
+
 def balance_options(content: dict) -> None:
     for group in list(content.get("tiers", {}).values()) + [content.get("context", []), content.get("selfcheck", [])]:
         for item in group:
             if isinstance(item, dict) and "q" in item and "a" in item:
                 _swap_options(item)
+                _swap_three(item)
 
 
 def register(oa_code: str, number: int, **content) -> None:

@@ -575,7 +575,7 @@ Respuesta: Reemplazó el relato con su experiencia
 
 - **A1.** Relato: «Lía y su abuelo caminaron al río al amanecer. Llevaban pan y una manta. En la orilla vieron una garza blanca. El abuelo dijo: «Hay que hablar bajito para no asustarla». Lía se quedó quieta y contó hasta diez. La garza abrió las alas y se fue volando.» Escribe una frase que empiece con «En el relato, Lía…» y diga qué hace.
 - **A2.** Completa: «A mí me pasó que me quedé quieto para mirar _______». Escribe algo que tú podrías mirar.
-- **A3.** Ordena: a) lo que dice el relato. ¿Qué va primero, b) mi experiencia?
+- **A3.** Ordena: a) mi experiencia, b) lo que dice el relato. ¿Qué va primero?
 
 *Razonamiento y análisis*
 
@@ -609,7 +609,7 @@ Respuesta: Reemplazó el relato con su experiencia
 - **C3.** Preguntando a quien lo cuenta. Quien lo cuenta nombra su origen.
 - **A1.** Cualquier frase que diga algo que Lía hizo en el relato. Debe usar lo que dice el relato.
 - **A2.** Un pajarito, un bicho o cualquier cosa. Es una experiencia propia.
-- **A3.** a. Primero el relato.
+- **A3.** b. Primero el relato.
 - **Z1.** No. Solo habló de sí mismo.
 - **Z2.** Sí. Nombra el relato y luego su experiencia.
 - **D1.** Cualquier frase con las dos partes. Debe tener relato y experiencia por separado.

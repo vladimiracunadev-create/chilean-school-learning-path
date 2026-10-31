@@ -5,6 +5,16 @@
   "updates": [
     {
       "date": "2026-10-31",
+      "title": "Revisión de 7° básico y balanceo de preguntas de tres alternativas",
+      "summary": [
+        "Se revisó de nuevo 7° básico: las referencias a «la misma tabla», «el caso anterior» y similares entregan sus datos en el ejercicio vecino, y no se hallaron billetes ni monedas inexistentes.",
+        "En las preguntas de tres alternativas (A, B, C) la correcta caía en la B más de la mitad de las veces. Ahora el registro la reparte entre las tres posiciones, de forma determinista, igual que en las de dos alternativas.",
+        "Las preguntas de «une», «clasifica», «ordena» y las que responden con varias letras («a = x, b = y») no se reordenan: ahí las letras son etiquetas de una lista y no alternativas. Esta protección también corrige los casos de ese tipo que el balanceo de dos alternativas pudo haber alterado.",
+        "El script de publicación ahora se detiene si las pruebas fallan."
+      ]
+    },
+    {
+      "date": "2026-10-31",
       "title": "7° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
       "summary": [
         "Las 719 clases de 7° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo. Por primera vez entran como asignaturas propias Lengua y Literatura (147 clases) e Inglés oficial (80 clases), además de Inglés propuesta (65). Las fichas de actitud y Lengua Indígena de 7° son integración transversal y no llevan cuaderno propio.",
@@ -19,16 +29,6 @@
       "title": "Posición de la respuesta correcta en las preguntas A/B",
       "summary": [
         "La revisión de 5° y 6° básico mostró que, en las preguntas con dos alternativas, la correcta estaba casi siempre en la A (por ejemplo 1.381 contra 183 en 5° básico). Ahora la posición de la correcta se decide por un valor derivado del propio enunciado y de sus dos alternativas, y la clave de respuestas se reescribe en consecuencia. Queda cerca de la mitad y la mitad, de 1° a 6° básico. Las preguntas con tres o más alternativas, las de ordenar y las cuyo «porqué» nombra una letra no se tocan."
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "title": "6° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
-      "summary": [
-        "Las 876 clases de 6° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 5° básico.",
-        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió afirmaciones falsas o dudosas, ejercicios que citaban un texto no entregado, ejercicios idénticos al ejemplo resuelto, 328 ejercicios A/B con la respuesta siempre en la A, cifras irreales, riesgos de seguridad y de protección en línea, atribuciones culturales inventadas y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron más de 60 enunciados idénticos entre asignaturas.",
-        "El análisis de alineación cubre ahora 1° a 6° básico, y la lista de contenidos para especialistas incluye 6° básico.",
-        "Siguen abiertos: software y programas reales, audio, video y escucha de música, obras de arte y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
       ]
     }
   ]

@@ -581,7 +581,7 @@ Respuesta: Según doña Marta, el relato lleva a cuidar y agradecer al mar.
 
 *Desafío*
 
-- **D1.** Elige la frase que relaciona bien: A) «Todos los pueblos cuidan el mar por sus relatos» B) «Según doña Marta, por el relato no se tira basura al mar»
+- **D1.** Elige la frase que relaciona bien: A) «Según doña Marta, por el relato no se tira basura al mar» B) «Todos los pueblos cuidan el mar por sus relatos»
 - **D2.** ¿Quién puede decir por qué la comunidad de Bahía Serena da importancia al mar? A) quien lee el relato y lo imagina B) la comunidad
 
 *Situaciones auténticas*
@@ -609,7 +609,7 @@ Respuesta: Según doña Marta, el relato lleva a cuidar y agradecer al mar.
 - **A3.** antü y kuyen. Sol y luna están en el cielo.
 - **Z1.** La fiesta y la fecha. El testimonio no habla de fiestas.
 - **Z2.** Mezcla un relato inventado con una ficha de palabras. El relato es inventado y no es de ningún pueblo.
-- **D1.** B. La B generaliza y no atribuye a una fuente.
+- **D1.** A. La B generaliza y no atribuye a una fuente.
 - **D2.** B. El sentido lo da la comunidad.
 - **S1.** A. La importancia la explica la comunidad.
 - **E1.** El mar, la arena y la roca aparecen en el relato y en la bahía. Así el relato se vincula con el territorio.

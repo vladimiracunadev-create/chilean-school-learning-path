@@ -152,7 +152,7 @@ Respuesta: No: primero hay que pedir el permiso a don Ignacio o a la comunidad.
 *Comprensión*
 
 - **C1.** Verdadero o falso: un evento sociocultural puede ser una cosecha en que las familias comparten una costumbre.
-- **C2.** ¿Qué es un evento espiritual? A) una reunión en que la comunidad se relaciona con lo que considera sagrado B) un partido de pelota entre dos cursos
+- **C2.** ¿Qué es un evento espiritual? A) un partido de pelota entre dos cursos B) una reunión en que la comunidad se relaciona con lo que considera sagrado
 - **C3.** Verdadero o falso: si leí la parte reservada de un evento, ya puedo contarla a mis compañeros.
 
 *Aplicación*
@@ -189,7 +189,7 @@ Respuesta: No: primero hay que pedir el permiso a don Ignacio o a la comunidad.
 - **R2.** Doña Gladys. La ficha nombra a doña Gladys como fuente.
 - **R3.** No. El límite lo prohíbe.
 - **C1.** Verdadero. Es una reunión que comparte una costumbre.
-- **C2.** A. Lo espiritual se relaciona con lo que cada comunidad considera sagrado.
+- **C2.** B. Lo espiritual se relaciona con lo que cada comunidad considera sagrado.
 - **C3.** Falso. Lo reservado se respeta aunque se haya leído.
 - **A1.** A. Sin fuente ni permiso la ficha no sirve.
 - **A2.** a fuente, b comunidad, c evento. Doña Gladys cuenta, Alto Sauce es el lugar y el Día de las Semillas es lo que se celebra.
@@ -563,7 +563,7 @@ Respuesta: Dialoga comparando sin jerarquizar y nombra una semejanza: compartir 
 
 *Recuperación*
 
-- **R1.** Relato inventado: «En Playa Mansa, los pescadores salen juntos cuando el mar está en calma». ¿Con qué lugar se relaciona el evento? A) la montaña B) el mar
+- **R1.** Relato inventado: «En Playa Mansa, los pescadores salen juntos cuando el mar está en calma». ¿Con qué lugar se relaciona el evento? A) el mar B) la montaña
 - **R2.** Relato: «Cada familia trae una olla grande». ¿Quiénes participan? A) las familias B) un solo vecino
 - **R3.** ¿Qué es un valor, en un evento cultural? Elige: A) una idea que la comunidad considera importante, como compartir B) el precio de la comida
 
@@ -576,7 +576,7 @@ Respuesta: Dialoga comparando sin jerarquizar y nombra una semejanza: compartir 
 *Aplicación*
 
 - **A1.** Criterio «quiénes participan». Alto Sauce: cada familia trae semillas. Rincón Alto: cada familia trae una olla. ¿Qué semejanza hay? A) participan todas las familias B) participa un solo vecino
-- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) una comparte semillas y la otra comida b) en ambas comunidades se comparte algo.
+- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) en ambas comunidades se comparte algo b) una comparte semillas y la otra comida.
 - **A3.** Relato: «El sendero lleva a la caleta donde se reparte el pescado». Completa: el sendero lleva hasta…
 
 *Razonamiento y análisis*
@@ -603,14 +603,14 @@ Respuesta: Dialoga comparando sin jerarquizar y nombra una semejanza: compartir 
 
 **Solucionario razonado**
 
-- **R1.** B. El relato habla del mar en calma.
+- **R1.** A. El relato habla del mar en calma.
 - **R2.** A. El relato dice cada familia.
 - **R3.** A. Un valor es una idea importante para la comunidad.
 - **C1.** Falso. Comparar es buscar semejanzas y diferencias.
 - **C2.** A. Escuchar permite comprender antes de comparar.
 - **C3.** Falso. Se parecen en un punto, pero pueden ser distintos en otros.
 - **A1.** A. En ambas, todas las familias aportan algo.
-- **A2.** b semejanza, b diferencia. La primera es algo común; la segunda, algo distinto.
+- **A2.** a semejanza, b diferencia. La primera es algo común; la segunda, algo distinto.
 - **A3.** La caleta. El relato dice que el sendero lleva a la caleta.
 - **Z1.** Jerarquiza dos eventos. Cada comunidad vive su evento a su manera; la cantidad de personas no lo hace mejor.
 - **Z2.** A. Hay muchos pueblos y cada uno cuenta su propia relación.
@@ -785,7 +785,7 @@ Respuesta: Faltó atribuir a doña Norma y quitar «lo más sagrado», que no es
 *Aplicación*
 
 - **A1.** Relato de don Ignacio: «Los botes salen juntos cuando el mar está en calma». Completa la atribución: «Don Ignacio cuenta que los botes…»
-- **A2.** Clasifica en FUENTE o RAZÓN PROPIA: a) yo pienso que eso une a las familias b) doña Norma cuenta que se comparte la comida.
+- **A2.** Clasifica en FUENTE o RAZÓN PROPIA: a) doña Norma cuenta que se comparte la comida b) yo pienso que eso une a las familias.
 - **A3.** Opinión: «Opino que el evento enseña a compartir porque, según doña Norma, se reparte la comida». ¿Cuál es la razón?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: Faltó atribuir a doña Norma y quitar «lo más sagrado», que no es
 - **C2.** Falso. Un relato no representa a todos los pueblos.
 - **C3.** B. La lengua se aprende de quien la enseña en la comunidad.
 - **A1.** Salen juntos cuando el mar está en calma. Repite el dato sin cambiarlo.
-- **A2.** b fuente, b razón propia. La primera es un dato atribuido; la segunda es una idea propia.
+- **A2.** a fuente, b razón propia. La primera es un dato atribuido; la segunda es una idea propia.
 - **A3.** Según doña Norma, se reparte la comida. Es el dato del relato que respalda la opinión.
 - **Z1.** B. Una opinión fundamentada necesita una razón del relato.
 - **Z2.** A. Ellos conocen su propia cultura.

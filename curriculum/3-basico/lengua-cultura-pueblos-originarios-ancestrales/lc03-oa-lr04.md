@@ -168,7 +168,7 @@ Respuesta: en la tercera letra
 
 *Desafío*
 
-- **D1.** Copiaste la palabra «ñuke». ¿Cuál copia coincide con el modelo? A) nuke. B) ñuke. C) ñuka.
+- **D1.** Copiaste la palabra «ñuke». ¿Cuál copia coincide con el modelo? A) nuke. B) ñuka C) ñuke..
 - **D2.** Ordena de menos a más letras: «kuyen», «ko», «ruka». Escribe las tres palabras en orden.
 
 *Situaciones auténticas*
@@ -196,7 +196,7 @@ Respuesta: en la tercera letra
 - **A3.** la ü. Escribió u en lugar de ü.
 - **Z1.** el educador tradicional. Es quien enseña la lengua.
 - **Z2.** No. Falta la ñ.
-- **D1.** B. Solo B tiene la ñ y termina en e.
+- **D1.** C. Solo B tiene la ñ y termina en e.
 - **D2.** ko, ruka, kuyen. Tienen 2, 4 y 5 letras.
 - **S1.** avisar para corregirlo según el modelo. El cartel debe coincidir con el modelo.
 - **E1.** variante. Variante es otra forma válida de escribir.

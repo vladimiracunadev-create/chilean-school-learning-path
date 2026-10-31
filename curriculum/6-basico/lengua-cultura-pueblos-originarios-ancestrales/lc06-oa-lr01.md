@@ -366,7 +366,7 @@ Respuesta: Yo pienso que muestra respeto por la persona mayor.
 
 *Aplicación*
 
-- **A1.** Historia: «Al irse, la visita agradeció y se despidió». Clasifica en DICE LA HISTORIA o INTERPRETO: a) la visita se sintió muy querida b) la visita agradeció.
+- **A1.** Historia: «Al irse, la visita agradeció y se despidió». Clasifica en DICE LA HISTORIA o INTERPRETO: a) la visita agradeció b) la visita se sintió muy querida.
 - **A2.** Una visita se presenta por su nombre en Estero Dulce. ¿Qué función social es? A) despedirse B) presentarse
 - **A3.** La historia no dice cómo se saluda en la lengua. ¿Qué escribes en los límites? A) la historia no dice cómo se saluda en la lengua B) se saluda de una forma inventada
 
@@ -400,7 +400,7 @@ Respuesta: Yo pienso que muestra respeto por la persona mayor.
 - **C1.** Verdadero. Es lo que yo pienso.
 - **C2.** Falso. Eso sería inventar.
 - **C3.** A. Eso muestra cómo se cuidan las personas.
-- **A1.** b dice la historia, b interpreto. La segunda es una suposición.
+- **A1.** a dice la historia, b interpreto. La segunda es una suposición.
 - **A2.** B. Presentarse es decir quién soy.
 - **A3.** A. Se declara lo que no se sabe.
 - **Z1.** Marcarlo como opinión o quitarlo. La historia no dice eso.
@@ -576,7 +576,7 @@ Respuesta: Agradecer.
 *Aplicación*
 
 - **A1.** Relaciona la situación con la función: a) te vas de la casa de un vecino b) quieres usar el teléfono de la sede. Escribe DESPEDIRSE o PEDIR PERMISO para cada una.
-- **A2.** Completa la tabla: situación «llego a la sede», función ______. A) agradecer B) saludar
+- **A2.** Completa la tabla: situación «llego a la sede», función ______. A) saludar B) agradecer
 - **A3.** Un vecino te regala pan. ¿Qué expresión atestiguada en mapuzugun puedes usar para agradecer? A) mari mari B) chaltumay
 
 *Razonamiento y análisis*
@@ -610,7 +610,7 @@ Respuesta: Agradecer.
 - **C2.** Verdadero. Esa es su definición.
 - **C3.** A. «Iorana» es un saludo; «maururu» agradece.
 - **A1.** a despedirse, b pedir permiso. Al irte te despides; para usar algo ajeno, pides permiso.
-- **A2.** B. Al llegar se saluda.
+- **A2.** A. Al llegar se saluda.
 - **A3.** B. «Chaltumay» agradece; «mari mari» saluda.
 - **Z1.** No adapta el trato a la persona. El trato cambia según el destinatario.
 - **Z2.** B. El permiso se pide antes.

@@ -366,7 +366,7 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 
 *Aplicación*
 
-- **A1.** Testimonio de don Rubén: «Me gustaría que más niños vinieran, pero no puedo obligarlos». Clasifica en DICE LA FUENTE o INTERPRETO: a) los niños no vienen porque no les interesa b) no puede obligar a los niños.
+- **A1.** Testimonio de don Rubén: «Me gustaría que más niños vinieran, pero no puedo obligarlos». Clasifica en DICE LA FUENTE o INTERPRETO: a) no puede obligar a los niños b) los niños no vienen porque no les interesa.
 - **A2.** Clasifica la razón como IDENTIDAD, MEMORIA o COMUNICACIÓN: a) hablar con los abuelos b) guardar nombres de lugares.
 - **A3.** Tras leer «no puedo obligarlos», alguien escribe «Don Rubén cree que obligar es malo». ¿Qué problema tiene? A) lo dijo don Rubén palabra por palabra B) atribuye una creencia más amplia que lo dicho
 
@@ -400,7 +400,7 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 - **C1.** Verdadero. Es un límite ético.
 - **C2.** B. La memoria guarda lo que la comunidad recuerda.
 - **C3.** Falso. La interpretación es idea de quien lee.
-- **A1.** b dice la fuente, b interpreto. La segunda explica algo que la fuente no dijo.
+- **A1.** a dice la fuente, b interpreto. La segunda explica algo que la fuente no dijo.
 - **A2.** a comunicación, b memoria. Hablar con los abuelos es comunicarse; guardar nombres es memoria.
 - **A3.** B. Don Rubén solo dijo que no puede obligar.
 - **Z1.** B. La lengua sirve para comunicarse en el presente.

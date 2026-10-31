@@ -366,7 +366,7 @@ Respuesta: Sí: se apoya en «me lo enseñó mi tío».
 
 *Aplicación*
 
-- **A1.** Texto inventado de doña Carmen: «Mi abuela decía que el viento del sur trae la lluvia mansa». Clasifica en DICE EL TEXTO o INTERPRETO: a) la abuela era una mujer sabia b) la abuela decía que el viento del sur trae lluvia.
+- **A1.** Texto inventado de doña Carmen: «Mi abuela decía que el viento del sur trae la lluvia mansa». Clasifica en DICE EL TEXTO o INTERPRETO: a) la abuela decía que el viento del sur trae lluvia b) la abuela era una mujer sabia.
 - **A2.** Texto de doña Carmen: «Esperamos la flor antes de sembrar. Mi abuela decía que el viento del sur trae la lluvia mansa». Interpretación: «Yo pienso que las familias de Meseta Azul respetan los tiempos de la naturaleza». ¿En qué frase del texto se apoya? A) «Esperamos la flor antes de sembrar» B) «Mi abuela decía que el viento del sur trae la lluvia mansa»
 - **A3.** Don Efraín no explicó por qué las gaviotas miran al mar. ¿Qué escribes en el límite? A) el texto no explica por qué miran al mar B) miran por hambre
 
@@ -400,7 +400,7 @@ Respuesta: Sí: se apoya en «me lo enseñó mi tío».
 - **C1.** Verdadero. Si no, queda inventada.
 - **C2.** Falso. Contradecir el texto la hace inválida.
 - **C3.** B. Repetir y anotar ayuda a comprobar lo entendido.
-- **A1.** b dice el texto, b interpreto. La primera es literal; la segunda es una suposición.
+- **A1.** a dice el texto, b interpreto. La primera es literal; la segunda es una suposición.
 - **A2.** A. Esperar la flor muestra respeto por los tiempos.
 - **A3.** A. Declarar el límite evita inventar.
 - **Z1.** Atribuye una creencia que el texto no dice. El texto no habla de espíritus.
@@ -576,7 +576,7 @@ Respuesta: Debe citar: «Según doña Carmen, de Meseta Azul, la flor del arbust
 *Aplicación*
 
 - **A1.** Texto: «Cuando sube la neblina del cerro, guardamos las ovejas en el corral». Elemento: la neblina. ¿Qué indica? A) que es hora de comer B) que es momento de guardar las ovejas
-- **A2.** Clasifica el saber como NATURALEZA o CONVIVENCIA: a) turnarse para cuidar el corral b) observar al arbusto para sembrar.
+- **A2.** Clasifica el saber como NATURALEZA o CONVIVENCIA: a) observar al arbusto para sembrar b) turnarse para cuidar el corral.
 - **A3.** Completa la cita: «Según don Efraín, de Costa Clara, cuando las gaviotas miran al mar, los pescadores…»
 
 *Razonamiento y análisis*
@@ -610,7 +610,7 @@ Respuesta: Debe citar: «Según doña Carmen, de Meseta Azul, la flor del arbust
 - **C2.** Falso. Cada comunidad desarrolla el suyo.
 - **C3.** A. El dato faltante lo aporta quien sabe.
 - **A1.** B. El texto relaciona la neblina con guardar las ovejas.
-- **A2.** b naturaleza, b convivencia. El primero observa la naturaleza; el segundo organiza la vida en común.
+- **A2.** a naturaleza, b convivencia. El primero observa la naturaleza; el segundo organiza la vida en común.
 - **A3.** Revisan las cuerdas. Repite lo que dice el texto.
 - **Z1.** B. El texto solo habla de Costa Clara.
 - **Z2.** Inventa un significado que el texto no dice. El texto no habla de espíritus.
@@ -785,7 +785,7 @@ Respuesta: Debe cambiarlo por una razón del texto, como «porque enseña a obse
 *Aplicación*
 
 - **A1.** Texto: «Cuando las gaviotas miran al mar, revisamos las cuerdas». ¿Qué conocimiento transmite, para completar «Valoro este texto porque enseña a…»? A) observar a las aves para prepararse B) pescar siempre de noche
-- **A2.** Clasifica en FUENTE o RAZÓN: a) porque ayuda a prevenir accidentes b) según don Efraín, de Costa Clara.
+- **A2.** Clasifica en FUENTE o RAZÓN: a) según don Efraín, de Costa Clara b) porque ayuda a prevenir accidentes.
 - **A3.** Elige la valoración mejor fundamentada. A) «Valoro el texto porque es el más lindo» B) «Valoro el texto porque enseña a guardar las ovejas con la neblina»
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: Debe cambiarlo por una razón del texto, como «porque enseña a obse
 - **C2.** Falso. No tiene razón del texto.
 - **C3.** A. Las frases cortas se revisan y traducen mejor.
 - **A1.** A. Es el conocimiento que transmite el texto; la otra opción no aparece en él.
-- **A2.** b fuente, b razón. La primera nombra de quién es el texto; la segunda explica el valor.
+- **A2.** a fuente, b razón. La primera nombra de quién es el texto; la segunda explica el valor.
 - **A3.** B. Tiene razón tomada del texto.
 - **Z1.** B. No se inventan palabras en lengua.
 - **Z2.** B. Ser antiguo no explica el conocimiento.

@@ -785,7 +785,7 @@ Respuesta: La educadora aclaró que habla solo por su comunidad.
 *Aplicación*
 
 - **A1.** Ordena las partes del guion. A) límite. B) dato de la fuente con «según». C) saludo. D) importancia dicha por la fuente. E) presentación del pueblo. Escribe las letras en orden.
-- **A2.** Ficha de la fuente (inventada para practicar): Fuente: una educadora tradicional de la Escuela Ejemplo, pueblo mapuche. Permiso: puede contarse en la sala. Dijo: en su comunidad hay un taller de lengua los miércoles; cada reunión comienza con «mari mari»; el taller ayuda a que niñas y niños se sientan parte de su comunidad. Aclaró: habla solo por su comunidad. Elige la mejor oración de importancia. A) «El taller es la mejor forma de unir a los pueblos». Escribe la letra B) «Según la educadora, el taller ayuda a que niñas y niños se sientan parte de su comunidad»..
+- **A2.** Ficha de la fuente (inventada para practicar): Fuente: una educadora tradicional de la Escuela Ejemplo, pueblo mapuche. Permiso: puede contarse en la sala. Dijo: en su comunidad hay un taller de lengua los miércoles; cada reunión comienza con «mari mari»; el taller ayuda a que niñas y niños se sientan parte de su comunidad. Aclaró: habla solo por su comunidad. Elige la mejor oración de importancia. A) «Según la educadora, el taller ayuda a que niñas y niños se sientan parte de su comunidad». B) «El taller es la mejor forma de unir a los pueblos». Escribe la letra.
 - **A3.** Un guion debe tener 5 oraciones. Un grupo escribió 2 y escribirá otras 2 mañana. ¿Cuántas oraciones le faltarán todavía?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: La educadora aclaró que habla solo por su comunidad.
 - **C2.** 5. Saludo, pueblo, dato con según, importancia y límite.
 - **C3.** Falso. Se dice que no se sabe y se consulta.
 - **A1.** C, E, B, D, A. Se saluda, se presenta el pueblo, se cuenta el dato, se dice su importancia y se cierra con el límite.
-- **A2.** B. La A usa lo que dijo la fuente.
+- **A2.** A. La A usa lo que dijo la fuente.
 - **A3.** 1. Se restan las escritas y las que escribirá del total. Cálculo: 5 − 2 − 2 = 1.
 - **Z1.** No. La ficha no dice cuántos jóvenes participan.
 - **Z2.** con «yo pienso». Se distingue lo propio de lo que dijo la fuente.

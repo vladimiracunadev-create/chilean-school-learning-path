@@ -157,7 +157,7 @@ Respuesta: Elementos: nieve y leña. Glosario: mari mari = saludo.
 
 *Aplicación*
 
-- **A1.** Texto inventado: «Los niños apilan la leña y los mayores cuentan un cuento». Clasifica en PERSONAS o ACCIÓN: a) apilan la leña b) los niños y los mayores.
+- **A1.** Texto inventado: «Los niños apilan la leña y los mayores cuentan un cuento». Clasifica en PERSONAS o ACCIÓN: a) los niños y los mayores b) apilan la leña.
 - **A2.** Texto inventado: «Chaltumay por cuidar el pozo». ¿Qué agradece la persona? A) cargar leña B) cuidar el pozo
 - **A3.** Una ficha no trae permiso. ¿Qué haces? A) la uso igual B) pido el permiso antes de usarla
 
@@ -191,7 +191,7 @@ Respuesta: Elementos: nieve y leña. Glosario: mari mari = saludo.
 - **C1.** Verdadero. Transmite saberes de la comunidad.
 - **C2.** Falso. Incluye el significado y quién la enseñó.
 - **C3.** A. Se destaca por su idea.
-- **A1.** b personas, b acción. La primera nombra quién; la segunda, qué hacen.
+- **A1.** a personas, b acción. La primera nombra quién; la segunda, qué hacen.
 - **A2.** B. El texto lo dice.
 - **A3.** B. Sin permiso no se usa.
 - **Z1.** Jerarquiza el texto escrito sobre el oral. Ambos transmiten saberes.
@@ -366,7 +366,7 @@ Respuesta: Dice: apilan y cuentan. Interpreto: aprenden con los mayores. No se c
 
 *Aplicación*
 
-- **A1.** Texto: «Los mayores guardan la leña en la bodega». Clasifica en DICE EL TEXTO o INTERPRETO: a) los mayores son muy ordenados b) los mayores guardan la leña.
+- **A1.** Texto: «Los mayores guardan la leña en la bodega». Clasifica en DICE EL TEXTO o INTERPRETO: a) los mayores guardan la leña b) los mayores son muy ordenados.
 - **A2.** Texto: «Mari mari a quien llega a la casa». ¿Qué pista da el contexto? A) sugiere un saludo B) sugiere una despedida
 - **A3.** El texto no dice por qué guardan la leña. ¿Qué escribes en los límites? A) la guardan por frío B) el texto no explica por qué la guardan
 
@@ -400,7 +400,7 @@ Respuesta: Dice: apilan y cuentan. Interpreto: aprenden con los mayores. No se c
 - **C1.** Verdadero. Una pista no reemplaza al significado.
 - **C2.** Falso. Debe apoyarse en el texto.
 - **C3.** A. Primero contexto, luego confirmación.
-- **A1.** b dice el texto, b interpreto. La segunda es una suposición.
+- **A1.** a dice el texto, b interpreto. La segunda es una suposición.
 - **A2.** A. Se dirige a quien llega.
 - **A3.** B. Se declara lo que no se sabe.
 - **Z1.** Deduce el significado por la posición y no lo confirma. «Chaltumay» agradece; la posición no lo define.
@@ -994,7 +994,7 @@ Respuesta: Debe describir el aporte de cada texto, sin ordenar.
 *Aplicación*
 
 - **A1.** Criterio «qué saber transmite». A: prepararse juntos para el invierno. B: repartir el agua por turnos. ¿Qué diferencia hay? A) cada texto enseña un saber distinto B) ambos enseñan lo mismo
-- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) uno es oral y el otro, escrito b) en ambos textos hay una comunidad organizada.
+- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) en ambos textos hay una comunidad organizada b) uno es oral y el otro, escrito.
 - **A3.** Completa: «A diferencia del relato de Cumbre Nevada, el cartel de Arenal Ancho…» A) es oral B) está escrito
 
 *Razonamiento y análisis*
@@ -1028,7 +1028,7 @@ Respuesta: Debe describir el aporte de cada texto, sin ordenar.
 - **C2.** Verdadero. Ambos transmiten saberes.
 - **C3.** A. Sin fuente ni permiso no se usa.
 - **A1.** A. Los saberes son distintos.
-- **A2.** b semejanza, b diferencia. La primera es común; la segunda, distinta.
+- **A2.** a semejanza, b diferencia. La primera es común; la segunda, distinta.
 - **A3.** B. El cartel es un texto escrito.
 - **Z1.** Piensa que solo lo escrito sirve como fuente. El oral transmite saberes.
 - **Z2.** A. Se valoran ambos.

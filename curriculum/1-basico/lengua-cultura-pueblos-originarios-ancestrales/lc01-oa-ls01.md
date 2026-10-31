@@ -573,7 +573,7 @@ Respuesta: 4 gestos
 
 - **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Doy una vuelta, doy un paso, levanto un pie». ¿Cuántos gestos hay?
 - **A2.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Doy una vuelta, doy un paso, levanto un pie». ¿Cuál es el segundo gesto?
-- **A3.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Une: «abajo» va con A) subir los brazos. ¿Qué letra B) bajar los brazos?
+- **A3.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Une: «abajo» va con A) bajar los brazos B) subir los brazos. ¿Qué letra?
 
 *Razonamiento y análisis*
 
@@ -607,7 +607,7 @@ Respuesta: 4 gestos
 - **C3.** Falso. Tiene un sentido que debo respetar.
 - **A1.** 3. Hay tres acciones separadas por comas.
 - **A2.** dar un paso. Es el segundo en el texto.
-- **A3.** B. Abajo significa hacia el suelo.
+- **A3.** A. Abajo significa hacia el suelo.
 - **Z1.** No. Mostró algo que el texto no dice.
 - **Z2.** para no cambiarlo ni equivocarme. Debo respetar cómo lo hacen.
 - **D1.** 8. Cuatro gestos por vuelta, dos vueltas.

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-31 · Revisión de 7° básico y balanceo de preguntas de tres alternativas
+
+- Se revisó de nuevo 7° básico: las referencias a «la misma tabla», «el caso anterior» y similares entregan sus datos en el ejercicio vecino, y no se hallaron billetes ni monedas inexistentes.
+- En las preguntas de tres alternativas (A, B, C) la correcta caía en la B más de la mitad de las veces. Ahora el registro la reparte entre las tres posiciones, de forma determinista, igual que en las de dos alternativas.
+- Las preguntas de «une», «clasifica», «ordena» y las que responden con varias letras («a = x, b = y») no se reordenan: ahí las letras son etiquetas de una lista y no alternativas. Esta protección también corrige los casos de ese tipo que el balanceo de dos alternativas pudo haber alterado.
+- El script de publicación ahora se detiene si las pruebas fallan.
+
 ## 2026-10-31 · 7° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 719 clases de 7° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo. Por primera vez entran como asignaturas propias Lengua y Literatura (147 clases) e Inglés oficial (80 clases), además de Inglés propuesta (65). Las fichas de actitud y Lengua Indígena de 7° son integración transversal y no llevan cuaderno propio.
