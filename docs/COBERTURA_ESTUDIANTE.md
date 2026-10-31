@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 2980 de 8.841 clases desarrolladas tienen cuaderno del estudiante (33,7 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 3824 de 8.841 clases desarrolladas tienen cuaderno del estudiante (43,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -16,7 +16,7 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º básico | 721 | 721 | 0 | completo | 351 | 12.257 | 1.443 | pendiente |
 | 3.º básico | 757 | 757 | 0 | completo | 379 | 12.859 | 1.515 | pendiente |
 | 4.º básico | 811 | 811 | 0 | completo | 384 | 13.787 | 1.623 | pendiente |
-| 5.º básico | 920 | 0 | 920 | sin iniciar | 420 | 0 | 0 | pendiente |
+| 5.º básico | 920 | 844 | 76 | en curso | 420 | 14.349 | 1.688 | pendiente |
 | 6.º básico | 952 | 0 | 952 | sin iniciar | 422 | 0 | 0 | pendiente |
 | 7.º básico | 760 | 0 | 760 | sin iniciar | 515 | 0 | 0 | pendiente |
 | 8.º básico | 771 | 0 | 771 | sin iniciar | 430 | 0 | 0 | pendiente |
@@ -49,6 +49,11 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | artes-visuales | AR04 OA 03 | 6 | 6 | 102 | 12 |
 | 4.º básico | artes-visuales | AR04 OA 04 | 4 | 4 | 68 | 8 |
 | 4.º básico | artes-visuales | AR04 OA 05 | 4 | 4 | 68 | 8 |
+| 5.º básico | artes-visuales | AR05 OA 01 | 6 | 6 | 102 | 12 |
+| 5.º básico | artes-visuales | AR05 OA 02 | 5 | 5 | 85 | 10 |
+| 5.º básico | artes-visuales | AR05 OA 03 | 6 | 6 | 102 | 12 |
+| 5.º básico | artes-visuales | AR05 OA 04 | 5 | 5 | 85 | 10 |
+| 5.º básico | artes-visuales | AR05 OA 05 | 5 | 5 | 85 | 10 |
 | 1.º básico | ciencias-naturales | CN01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 03 | 4 | 4 | 68 | 8 |
@@ -105,6 +110,20 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | ciencias-naturales | CN04 OA 15 | 4 | 4 | 68 | 8 |
 | 4.º básico | ciencias-naturales | CN04 OA 16 | 4 | 4 | 68 | 8 |
 | 4.º básico | ciencias-naturales | CN04 OA 17 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 01 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 02 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 03 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 04 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 05 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 06 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 07 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 08 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 09 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 10 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 11 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 12 | 4 | 4 | 68 | 8 |
+| 5.º básico | ciencias-naturales | CN05 OA 13 | 5 | 5 | 85 | 10 |
+| 5.º básico | ciencias-naturales | CN05 OA 14 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 03 | 4 | 4 | 68 | 8 |
@@ -149,6 +168,17 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | educacion-fisica-salud | EF04 OA 09 | 5 | 5 | 85 | 10 |
 | 4.º básico | educacion-fisica-salud | EF04 OA 10 | 4 | 4 | 68 | 8 |
 | 4.º básico | educacion-fisica-salud | EF04 OA 11 | 5 | 5 | 85 | 10 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 01 | 5 | 5 | 85 | 10 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 02 | 5 | 5 | 85 | 10 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 03 | 4 | 4 | 68 | 8 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 04 | 4 | 4 | 68 | 8 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 05 | 4 | 4 | 68 | 8 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 06 | 4 | 4 | 68 | 8 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 07 | 4 | 4 | 68 | 8 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 08 | 4 | 4 | 68 | 8 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 09 | 5 | 5 | 85 | 10 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 10 | 5 | 5 | 85 | 10 |
+| 5.º básico | educacion-fisica-salud | EF05 OA 11 | 5 | 5 | 85 | 10 |
 | 1.º básico | ingles-propuesta | EN01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | ingles-propuesta | EN01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | ingles-propuesta | EN01 OA 03 | 5 | 5 | 85 | 10 |
@@ -205,6 +235,21 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | ingles-propuesta | EN04 OA 12 | 5 | 5 | 85 | 10 |
 | 4.º básico | ingles-propuesta | EN04 OA 13 | 4 | 4 | 68 | 8 |
 | 4.º básico | ingles-propuesta | EN04 OA 14 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 01 | 4 | 4 | 68 | 8 |
+| 5.º básico | ingles-propuesta | EN05 OA 02 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 03 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 04 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 05 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 06 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 07 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 08 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 09 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 10 | 4 | 4 | 68 | 8 |
+| 5.º básico | ingles-propuesta | EN05 OA 11 | 4 | 4 | 68 | 8 |
+| 5.º básico | ingles-propuesta | EN05 OA 12 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 13 | 4 | 4 | 68 | 8 |
+| 5.º básico | ingles-propuesta | EN05 OA 14 | 5 | 5 | 85 | 10 |
+| 5.º básico | ingles-propuesta | EN05 OA 15 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 03 | 4 | 4 | 68 | 8 |
@@ -270,6 +315,28 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | historia-geografia-ciencias-sociales | HI04 OA 16 | 5 | 5 | 85 | 10 |
 | 4.º básico | historia-geografia-ciencias-sociales | HI04 OA 17 | 5 | 5 | 85 | 10 |
 | 4.º básico | historia-geografia-ciencias-sociales | HI04 OA 18 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 01 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 02 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 03 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 04 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 05 | 4 | 4 | 68 | 8 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 06 | 4 | 4 | 68 | 8 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 07 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 08 | 4 | 4 | 68 | 8 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 09 | 4 | 4 | 68 | 8 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 10 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 11 | 6 | 6 | 102 | 12 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 12 | 6 | 6 | 102 | 12 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 13 | 4 | 4 | 68 | 8 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 14 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 15 | 4 | 4 | 68 | 8 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 16 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 17 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 18 | 6 | 6 | 102 | 12 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 19 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 20 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 21 | 5 | 5 | 85 | 10 |
+| 5.º básico | historia-geografia-ciencias-sociales | HI05 OA 22 | 4 | 4 | 68 | 8 |
 | 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 07 | 5 | 5 | 85 | 10 |
 | 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 08 | 4 | 4 | 68 | 8 |
 | 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 09 | 4 | 4 | 68 | 8 |
@@ -381,6 +448,35 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC04 OA LS04 | 4 | 4 | 68 | 8 |
 | 4.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC04 OA LS05 | 5 | 5 | 85 | 10 |
 | 4.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC04 OA LS06 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 07 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 08 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 09 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 10 | 6 | 6 | 102 | 12 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 11 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 12 | 6 | 6 | 102 | 12 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 13 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 14 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 15 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 16 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA 17 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LF01 | 6 | 6 | 102 | 12 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LF02 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LF03 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LF04 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LF05 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LF06 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LR01 | 6 | 6 | 102 | 12 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LR02 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LR03 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LR04 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LR05 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LR06 | 6 | 6 | 102 | 12 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LS01 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LS02 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LS03 | 5 | 5 | 85 | 10 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LS04 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LS05 | 4 | 4 | 68 | 8 |
+| 5.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC05 OA LS06 | 6 | 6 | 102 | 12 |
 | 1.º básico | lenguaje-comunicacion | LE01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | lenguaje-comunicacion | LE01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | lenguaje-comunicacion | LE01 OA 03 | 4 | 4 | 68 | 8 |
@@ -498,6 +594,36 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | lenguaje-comunicacion | LE04 OA 28 | 5 | 5 | 85 | 10 |
 | 4.º básico | lenguaje-comunicacion | LE04 OA 29 | 5 | 5 | 85 | 10 |
 | 4.º básico | lenguaje-comunicacion | LE04 OA 30 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 01 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 02 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 03 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 04 | 7 | 7 | 119 | 14 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 05 | 7 | 7 | 119 | 14 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 06 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 07 | 7 | 7 | 119 | 14 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 08 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 09 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 10 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 11 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 12 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 13 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 14 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 15 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 16 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 17 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 18 | 6 | 6 | 103 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 19 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 20 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 21 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 22 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 23 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 24 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 25 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 26 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 27 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 28 | 6 | 6 | 102 | 12 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 29 | 5 | 5 | 85 | 10 |
+| 5.º básico | lenguaje-comunicacion | LE05 OA 30 | 6 | 6 | 102 | 12 |
 | 1.º básico | matematica | MA01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 03 | 4 | 4 | 68 | 8 |
@@ -593,6 +719,33 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | matematica | MA04 OA 25 | 5 | 5 | 85 | 10 |
 | 4.º básico | matematica | MA04 OA 26 | 4 | 4 | 68 | 8 |
 | 4.º básico | matematica | MA04 OA 27 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 01 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 02 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 03 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 04 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 05 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 06 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 07 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 08 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 09 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 10 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 11 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 12 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 13 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 14 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 15 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 16 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 17 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 18 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 19 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 20 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 21 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 22 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 23 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 24 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 25 | 4 | 4 | 68 | 8 |
+| 5.º básico | matematica | MA05 OA 26 | 5 | 5 | 85 | 10 |
+| 5.º básico | matematica | MA05 OA 27 | 4 | 4 | 68 | 8 |
 | 1.º básico | musica | MU01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | musica | MU01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | musica | MU01 OA 03 | 5 | 5 | 85 | 10 |
@@ -623,6 +776,14 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | musica | MU04 OA 06 | 4 | 4 | 68 | 8 |
 | 4.º básico | musica | MU04 OA 07 | 4 | 4 | 68 | 8 |
 | 4.º básico | musica | MU04 OA 08 | 4 | 4 | 68 | 8 |
+| 5.º básico | musica | MU05 OA 01 | 5 | 5 | 85 | 10 |
+| 5.º básico | musica | MU05 OA 02 | 4 | 4 | 68 | 8 |
+| 5.º básico | musica | MU05 OA 03 | 5 | 5 | 85 | 10 |
+| 5.º básico | musica | MU05 OA 04 | 4 | 4 | 68 | 8 |
+| 5.º básico | musica | MU05 OA 05 | 5 | 5 | 85 | 10 |
+| 5.º básico | musica | MU05 OA 06 | 4 | 4 | 68 | 8 |
+| 5.º básico | musica | MU05 OA 07 | 4 | 4 | 68 | 8 |
+| 5.º básico | musica | MU05 OA 08 | 4 | 4 | 68 | 8 |
 | 1.º básico | orientacion | OR01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | orientacion | OR01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | orientacion | OR01 OA 03 | 4 | 4 | 68 | 8 |
@@ -656,6 +817,15 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | orientacion | OR04 OA 07 | 4 | 4 | 68 | 8 |
 | 4.º básico | orientacion | OR04 OA 08 | 5 | 5 | 85 | 10 |
 | 4.º básico | orientacion | OR04 OA 09 | 5 | 5 | 85 | 10 |
+| 5.º básico | orientacion | OR05 OA 01 | 4 | 4 | 68 | 8 |
+| 5.º básico | orientacion | OR05 OA 02 | 4 | 4 | 68 | 8 |
+| 5.º básico | orientacion | OR05 OA 03 | 5 | 5 | 85 | 10 |
+| 5.º básico | orientacion | OR05 OA 04 | 5 | 5 | 85 | 10 |
+| 5.º básico | orientacion | OR05 OA 05 | 4 | 4 | 68 | 8 |
+| 5.º básico | orientacion | OR05 OA 06 | 5 | 5 | 85 | 10 |
+| 5.º básico | orientacion | OR05 OA 07 | 4 | 4 | 68 | 8 |
+| 5.º básico | orientacion | OR05 OA 08 | 5 | 5 | 85 | 10 |
+| 5.º básico | orientacion | OR05 OA 09 | 5 | 5 | 85 | 10 |
 | 1.º básico | tecnologia | TE01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | tecnologia | TE01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | tecnologia | TE01 OA 03 | 4 | 4 | 68 | 11 |
@@ -683,6 +853,13 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º básico | tecnologia | TE04 OA 05 | 4 | 4 | 68 | 9 |
 | 4.º básico | tecnologia | TE04 OA 06 | 5 | 5 | 85 | 10 |
 | 4.º básico | tecnologia | TE04 OA 07 | 5 | 5 | 85 | 10 |
+| 5.º básico | tecnologia | TE05 OA 01 | 6 | 6 | 102 | 12 |
+| 5.º básico | tecnologia | TE05 OA 02 | 5 | 5 | 85 | 10 |
+| 5.º básico | tecnologia | TE05 OA 03 | 5 | 5 | 85 | 10 |
+| 5.º básico | tecnologia | TE05 OA 04 | 5 | 5 | 85 | 10 |
+| 5.º básico | tecnologia | TE05 OA 05 | 5 | 5 | 85 | 10 |
+| 5.º básico | tecnologia | TE05 OA 06 | 5 | 5 | 85 | 10 |
+| 5.º básico | tecnologia | TE05 OA 07 | 4 | 4 | 68 | 8 |
 
 ## Mínimos exigidos por el validador
 
@@ -691,6 +868,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (828 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1026 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

@@ -46,7 +46,7 @@ register(
         "recovery": [
             ex(FICHA + " ¿Cuál es la fuente?", "El museo del pueblo", "La ficha pone museo como fuente."),
             ex("¿Qué es un soporte?", "El material donde está el símbolo", "Puede ser madera, cerámica, piedra o tejido."),
-            ex("¿Qué es la procedencia?", "De dónde viene el símbolo", "Dice pueblo, soporte y fuente."),
+            ex("En Lengua y Cultura: ¿Qué es la procedencia?", "De dónde viene el símbolo", "Dice pueblo, soporte y fuente."),
         ],
         "understand": [
             ex("¿Por qué es importante conocer el pueblo de un símbolo?", "Para no mezclar pueblos distintos", "Cada pueblo tiene sus propios símbolos."),
@@ -426,7 +426,7 @@ register(
         ],
         "understand": [
             ex("¿Por qué una imagen recortada pierde información?", "Porque se corta el contexto", "Falta el soporte y la fuente."),
-            ex("¿Qué es el contexto?", "La información que rodea a algo", "Dice dónde y por qué."),
+            ex("En Lengua y Cultura: ¿Qué es el contexto?", "La información que rodea a algo", "Dice dónde y por qué."),
             ex("¿Puedes poner un símbolo ancestral de fondo de pantalla sin preguntar?", "No", "Sería usarlo fuera de contexto."),
         ],
         "apply": [

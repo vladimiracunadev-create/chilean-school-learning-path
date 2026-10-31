@@ -363,7 +363,7 @@ reg(
         E("¿Cuántas palmadas doy en «pa-pas»?", "2", "Una por sílaba."),
     ],
     [
-        E("¿Qué es un trabalenguas?", "Una frase difícil de decir por sus sonidos repetidos", "Se parece a un juego de lengua."),
+        E("En Lenguaje: ¿Qué es un trabalenguas?", "Una frase difícil de decir por sus sonidos repetidos", "Se parece a un juego de lengua."),
         E("¿Qué significa articular?", "Mover bien la boca para decir claro", "Ayuda a pronunciar cada sonido."),
         E("¿Para qué sirven las pausas?", "Para dar ritmo y respirar", "Marcan los tiempos."),
     ],

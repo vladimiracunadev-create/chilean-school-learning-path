@@ -145,7 +145,7 @@ Respuesta: No lo sé; pregunto al educador/a tradicional
 
 - **R1.** Ficha de práctica: soporte: una vasija de greda; dibujo: △ ○ ○; fuente: museo del pueblo; pueblo: se pregunta al educador/a tradicional. ¿Cuál es la fuente?
 - **R2.** ¿Qué es un soporte?
-- **R3.** ¿Qué es la procedencia?
+- **R3.** En Lengua y Cultura: ¿Qué es la procedencia?
 
 *Comprensión*
 

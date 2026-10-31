@@ -1,0 +1,540 @@
+"""Cuaderno del estudiante, 5.º básico Historia, Geografía y Ciencias Sociales: OA 11 (trabajo, tecnología y valor de los recursos) y OA 12 (riesgos naturales y protección comunitaria)."""
+from __future__ import annotations
+
+from student_content_ma01_b import task
+from student_lessons import arith, ex, register
+
+OA11, OA12 = "HI05 OA 11", "HI05 OA 12"
+E = ex
+
+
+def W(title, problem, steps, answer):
+    return {"title": title, "problem": problem, "steps": steps, "answer": answer}
+
+
+def M(wrong, why, fix):
+    return {"wrong": wrong, "why": why, "fix": fix}
+
+
+def tiers(recovery, understand, apply, reason, challenge):
+    return {"recovery": recovery, "understand": understand, "apply": apply, "reason": reason, "challenge": challenge}
+
+
+# ================================================================ OA 11
+register(
+    OA11, 1,
+    materials="Este cuaderno y un lápiz. Los datos de cada caso están escritos en los ejercicios; un mapa de Chile ayuda, pero no es obligatorio.",
+    use="Aprenderé a ubicar dónde y cuándo el trabajo y las ideas de las personas dan valor a un recurso natural. Sirve para entender de dónde salen el vino, la madera o la fruta que usamos.",
+    prior=["Sé que Chile es largo y que su norte, centro y sur tienen paisajes distintos.", "Sé que una fuente es algo que entrega información."],
+    explain=[
+        "Un recurso natural es algo que da la naturaleza y que las personas pueden usar: el agua, el suelo, la madera, las uvas, el sol o el cobre. Por sí solo vale poco. Gana valor cuando el trabajo de las personas y sus ideas lo transforman en algo útil: la uva se vuelve vino, un tronco se vuelve una viga y el agua de un canal hace crecer un cultivo en un lugar seco.",
+        "Los recursos están en lugares distintos de Chile. En el norte, muy seco, hay grandes minas de cobre y mucho sol. En el valle central, de clima templado, hay campos con riego y viñas. En el sur llueve más y hay bosques de donde sale madera. Por eso cada zona usa recursos distintos y las personas inventan técnicas distintas.",
+        "Para ubicar un caso decimos qué recurso es, dónde está, qué trabajo o idea lo transforma y qué producto resulta. También ubicamos el tiempo: un canal de tierra es una idea antigua y el riego por goteo es una más nueva. Las dos buscan aprovechar el agua, pero no son lo mismo.",
+    ],
+    vocab=[("recurso natural", "algo que da la naturaleza y que las personas usan"), ("valor", "lo útil o importante que algo se vuelve para las personas"), ("tecnología", "herramientas y técnicas que las personas inventan para trabajar mejor"), ("riego", "llevar agua a las plantas para que crezcan"), ("producto", "lo que resulta después de transformar un recurso")],
+    worked=[
+        W("Nombrar la cadena", "Un campo del valle central tiene uvas. Una empresa las cosecha y elabora vino. Nombra recurso, trabajo y producto.",
+          ["El recurso es lo que da la naturaleza: la uva.", "El trabajo es cosechar y elaborar con una técnica.", "El producto final es el vino."], "Recurso: uva; trabajo: cosechar y elaborar; producto: vino"),
+        W("Comparar el valor", "Un tronco en el bosque y una viga lista para una casa: ¿cuál tiene más trabajo agregado?",
+          ["El tronco solo fue cortado.", "La viga además fue secada, cortada y medida.", "Más trabajo e ideas significan más valor agregado."], "La viga"),
+    ],
+    mistakes=[
+        M("Pensar que el valor de un recurso viene solo de la naturaleza.", "Sin el trabajo de las personas, el agua o la uva no llegan a convertirse en cultivos ni en vino.", "Pregunta qué trabajo o idea transformó el recurso."),
+        M("Creer que todas las zonas de Chile usan los mismos recursos.", "El norte, el centro y el sur tienen clima y suelos distintos.", "Ubica primero la zona y luego el recurso."),
+    ],
+    tiers=tiers(
+        [E("Agua, uva y madera, ¿son recursos naturales o productos de fábrica?", "Recursos naturales", "Los da la naturaleza antes de ser transformados."),
+         E("El vino, ¿es un recurso natural o un producto elaborado con uvas?", "Un producto elaborado", "Las personas lo hacen a partir de la uva."),
+         E("En el sur llueve más y hay bosques. ¿Qué recurso sale de esos bosques: madera o cobre?", "Madera", "La madera viene de los árboles de los bosques.")],
+        [E("Con tus palabras, ¿cómo gana valor un recurso natural?", "Cuando el trabajo y las ideas de las personas lo transforman en algo útil", "Esa es la idea central de la clase."),
+         E("¿Por qué una zona muy seca necesita riego para tener cultivos?", "Porque llueve muy poco y las plantas necesitan agua", "El riego lleva el agua que la lluvia no entrega."),
+         E("¿Qué significa «tecnología» en esta clase?", "Herramientas y técnicas que las personas inventan para trabajar mejor", "Así se definió en el vocabulario.")],
+        [E("Une cada recurso con su zona según la clase: cobre, viñas con riego, bosques con madera. Zonas: norte seco, valle central, sur lluvioso.", "Cobre: norte; viñas: valle central; madera: sur", "Cada recurso se asocia al clima y suelo de su zona."),
+         E("Una carpintera convierte tablas en una mesa. ¿Cuál es el recurso y cuál el producto?", "Recurso: madera; producto: mesa", "La madera es lo natural y la mesa lo que resulta."),
+         E("Unos paneles captan la luz del sol para producir electricidad. ¿Cuál es el recurso natural?", "El sol", "Lo que da la naturaleza es la luz del sol; los paneles son la tecnología.")],
+        [E("Ana dice: «El agua de un canal no tiene valor agregado porque la hizo la naturaleza». ¿Qué error tiene?", "Olvida que el trabajo de llevarla por un canal a los cultivos le da valor", "El agua es natural, pero el canal es obra de personas."),
+         E("Dos vecinos tienen un terreno seco. Uno instala riego y planta uvas; el otro no hace nada. ¿Quién agrega más valor al terreno y por qué?", "El que instala riego y planta, porque su trabajo e idea permiten usar el terreno", "Sin acción de las personas el terreno no produce.")],
+        [E("Ordena la cadena: A) vino en botellas, B) uvas en la parra, C) uvas cosechadas y prensadas.", "B, C, A", "Primero la uva crece, luego se cosecha y prensa, al final se obtiene el vino."),
+         E("En un mapa con el norte hacia arriba, ¿dónde esperas encontrar las grandes minas de cobre de Chile: arriba o abajo?", "Arriba", "Las grandes minas de cobre están sobre todo en el norte.")],
+    ),
+    context=[E("Una familia del valle central tiene una parcela con uvas. Compra una máquina que cosecha más rápido y vende vino en vez de solo uvas. ¿Qué dos cosas aumentaron el valor de sus uvas?", "La máquina (tecnología) y la elaboración del vino", "Una mejora el trabajo y la otra transforma la uva en producto.")],
+    selfcheck=[E("¿Qué es un recurso natural?", "Algo que da la naturaleza y que las personas usan", "Es la definición de la clase."), E("¿Cómo se agrega valor a un recurso?", "Con trabajo e ideas de las personas", "Así se transforma en algo útil."), E("¿Qué recurso se obtiene de los bosques del sur?", "Madera", "Los árboles del bosque dan madera.")],
+    open_task=task("Elige uno de estos casos y escribe su cadena completa (recurso, zona de Chile, trabajo o idea, producto): a) uvas del valle central; b) madera de un bosque del sur; c) sol del norte. Agrega una frase sobre qué tecnología podría ayudar.", "Caso c: recurso sol; zona norte; idea paneles solares; producto electricidad. Tecnología: paneles más eficientes.", ["nombra el recurso natural", "ubica la zona de Chile", "explica el trabajo o la idea y el producto"], ["cadena escrita en cuatro partes"], ["confundir el producto con el recurso", "ubicar el recurso en una zona equivocada"], "Lee tu cadena a una persona de tu casa y pídele que diga en qué parte el recurso se transforma."),
+    reinforce="Mira un objeto de madera de tu casa y escribe qué trabajo hizo falta para pasar del árbol a ese objeto.",
+    extend="Escribe un ejemplo de un recurso natural que en tu zona se use para algo, y cómo ganó valor.",
+)
+
+register(
+    OA11, 2,
+    materials="Este cuaderno y un lápiz. Las fuentes están escritas en los ejercicios.",
+    use="Aprenderé a leer fuentes sobre el uso de un recurso y a preguntar quién las hizo y para qué. Sirve para no creer todo lo que dice un folleto o una publicidad.",
+    prior=["Sé qué es un recurso natural y cómo gana valor.", "Distingo observar de interpretar."],
+    explain=[
+        "Para saber cómo se usa un recurso podemos leer varias fuentes: un informe de una escuela agrícola, un folleto de una empresa, el relato de una agricultora o una tabla con datos. Cada una dice cosas distintas del mismo tema y por eso hay que compararlas.",
+        "La procedencia es quién hizo la fuente, cuándo y para qué. Un folleto de una viña se hace para vender vino, así que cuenta lo bueno. El relato de una agricultora cuenta lo que ella vivió, no lo de todo el país. Una tabla con datos de varios años permite ver si algo creció o bajó.",
+        "Al leer, separamos tres cosas: lo que dice la fuente, lo que nosotros interpretamos y lo que la fuente no permite saber. Si una tabla dice que un campo con riego por goteo usó menos agua, no podemos concluir que todos los campos hacen lo mismo ni que no hubo costos.",
+    ],
+    vocab=[("fuente", "algo que entrega información sobre un tema"), ("procedencia", "quién hizo la fuente, cuándo y para qué"), ("dato", "una información concreta, como un número"), ("folleto", "hoja que una empresa hace para mostrar y vender lo que ofrece"), ("relato", "texto donde una persona cuenta lo que vivió")],
+    worked=[
+        W("Preguntar por la procedencia", "Un folleto de una viña dice: «Nuestro riego moderno hace el mejor vino de Chile». ¿Qué pregunta conviene hacer?",
+          ["Pregunto quién lo hizo y para qué.", "Lo hizo la viña para vender su vino.", "«El mejor» es una opinión; falta un dato que lo pruebe."], "Quién lo hizo y para qué; «el mejor» no tiene prueba"),
+        W("Leer una tabla", "Tabla de ejemplo: Campo A, riego por canal, 90 litros por planta; Campo B, riego por goteo, 60 litros por planta. ¿Qué campo usó menos agua?",
+          ["Comparo los dos números.", "60 es menor que 90.", "El menor número es el del campo B."], "El campo B, con goteo"),
+    ],
+    mistakes=[
+        M("Creer todo lo que dice un folleto de venta.", "Se hizo para vender, no para mostrar todos los problemas.", "Revisa quién lo hizo y busca otra fuente."),
+        M("Concluir algo sobre todo Chile con el caso de un solo campo.", "Un campo no representa a todos.", "Di solo lo que muestra ese campo."),
+    ],
+    tiers=tiers(
+        [E("Un informe de una escuela agrícola y un folleto de una empresa, ¿son fuentes?", "Sí, ambos", "Entregan información sobre un tema."),
+         E("La procedencia de una fuente, ¿dice quién la hizo o dice cuántas hojas tiene?", "Dice quién la hizo", "La procedencia es quién, cuándo y para qué."),
+         E("«Este campo usó 60 litros de agua por planta», ¿es un dato o una opinión?", "Un dato", "Es una cifra concreta que se puede revisar.")],
+        [E("¿Por qué un folleto de una viña cuenta sobre todo lo bueno de su vino?", "Porque se hizo para vender", "Su propósito es atraer compradores."),
+         E("¿Qué ventaja tiene una tabla con datos de varios años frente a un solo comentario?", "Permite ver si algo creció o bajó", "Muestra cambios a lo largo del tiempo."),
+         E("¿Qué tres cosas separamos al leer una fuente?", "Lo que dice, lo que interpretamos y lo que no permite saber", "Así se enseñó en la clase.")],
+        [E("Tabla de ejemplo: Año 1, 40 cajas de fruta; Año 2, 55 cajas; Año 3, 70 cajas. ¿Qué año tuvo más cajas?", "El año 3", "70 es el número mayor de la tabla."),
+         E("Un folleto dice: «Nuestra madera es la más sustentable del país». ¿Qué falta para creerlo: un dato que lo pruebe o más adjetivos?", "Un dato que lo pruebe", "Una afirmación necesita evidencia."),
+         E("Relato de una agricultora: «Con el goteo mi campo gastó menos agua». ¿Es una fuente sobre qué campo?", "Sobre su propio campo", "Cuenta su experiencia, no la de todos los campos.")],
+        [E("Luis lee que un campo con goteo usó menos agua y dice: «Todos los campos de Chile ahorran agua con goteo». ¿Qué error tiene?", "Generaliza con un solo caso", "Un campo no muestra lo que pasa en todos."),
+         E("Una empresa de paneles solares publica un aviso que dice «Ahorro total». ¿Qué pregunta de procedencia haces?", "Quién lo hizo y para qué", "Una empresa que vende paneles busca atraer clientes.")],
+        [E("Tienes dos fuentes sobre un mismo bosque: un folleto de la empresa dueña y un informe de una escuela. ¿Cuál de las dos se hizo con el propósito de vender?", "El folleto de la empresa", "La empresa busca atraer compradores; la escuela busca enseñar."),
+         E("Ordena los pasos para analizar una fuente: A) decir qué no permite saber, B) leer quién la hizo, C) anotar lo que dice.", "B, C, A", "Primero la procedencia, luego el contenido y al final los límites.")],
+    ),
+    context=[E("Una viña publica: «Con nuestro riego moderno, todas las uvas son perfectas». Un vecino cuenta que el año pasado hubo heladas y se perdió parte de la cosecha. ¿Qué fuente sirve para saber más de las dificultades: el aviso o el relato del vecino?", "El relato del vecino", "El aviso busca vender y no cuenta los problemas.")],
+    selfcheck=[E("¿Qué es la procedencia de una fuente?", "Quién la hizo, cuándo y para qué", "Es la definición de la clase."), E("¿Para qué se hace un folleto de ventas?", "Para vender lo que ofrece", "Su propósito es comercial."), E("¿Un solo campo representa a todos los campos?", "No", "Un caso no muestra todos.")],
+    open_task=task("Lee esta fuente: «Informe de un liceo agrícola: en nuestro huerto, el riego por goteo usó 30 litros de agua por planta y el riego por inundación usó 50 litros por planta». Escribe una observación del informe, una conclusión que NO se puede sacar de él y una pregunta de procedencia.", "Observación: el goteo usó 20 litros menos que la inundación. No se puede decir: que en todo Chile pasa lo mismo. Pregunta: ¿en qué año lo midieron?", ["una observación tomada del informe", "una conclusión que el informe no permite", "una pregunta de procedencia"], ["tres frases escritas"], ["inventar datos que el informe no entrega", "olvidar la pregunta de procedencia"], "Muestra tus tres frases a una persona y pídele que subraye cuáles salen del informe."),
+    reinforce="Busca en tu casa un envase con publicidad y escribe quién lo hizo y para qué.",
+    extend="Escribe qué otra fuente usarías para comprobar lo que dice un folleto.",
+)
+
+register(
+    OA11, 3,
+    materials="Este cuaderno y un lápiz. Los casos están escritos en los ejercicios.",
+    use="Aprenderé a relacionar la causa de una mejora, los actores que participan y sus consecuencias, buenas y malas. Sirve para entender por qué una tecnología cambia un trabajo.",
+    prior=["Sé que el trabajo y las ideas dan valor a un recurso.", "Sé leer una fuente y preguntar por su procedencia."],
+    explain=[
+        "Una causa es la razón por la que algo ocurre y una consecuencia es lo que pasa después. Los actores son las personas o grupos que participan: agricultores, ingenieras, trabajadores, vecinos, empresas y municipios. Cuando se instala un riego por goteo, la causa puede ser el poco agua disponible, los actores son quienes lo diseñan y lo usan, y las consecuencias pueden ser un ahorro de agua y una cosecha más segura.",
+        "Las consecuencias no siempre son solo buenas. El riego por goteo ahorra agua, pero instalarlo cuesta dinero y requiere personas que sepan mantenerlo. Una plantación de árboles da madera y trabajo, pero necesita cuidado del suelo y del agua. Por eso se habla de explotación sustentable: usar el recurso sin acabarlo, para que también sirva a las próximas generaciones.",
+        "Para relacionar bien, hacemos una cadena: causa, actores, acción, consecuencias a corto plazo y consecuencias a largo plazo. Así evitamos decir que una sola cosa explica todo.",
+    ],
+    vocab=[("causa", "razón por la que algo ocurre"), ("consecuencia", "lo que ocurre después de algo"), ("actor", "persona o grupo que participa en un hecho"), ("sustentable", "que usa un recurso sin acabarlo, para que dure en el futuro"), ("costo", "lo que hay que gastar o esforzarse para lograr algo")],
+    worked=[
+        W("Armar la cadena", "En un valle seco falta agua. Una cooperativa de agricultores instala riego por goteo. Nombra causa, actores y una consecuencia.",
+          ["Causa: falta de agua.", "Actores: los agricultores de la cooperativa.", "Consecuencia: se gasta menos agua por planta."], "Causa: falta de agua; actores: cooperativa; consecuencia: ahorro de agua"),
+        W("Consecuencia buena y costo", "Instalar goteo en un campo de ejemplo cuesta 2.000.000 de pesos y ahorra agua. ¿Cuál es el beneficio y cuál el costo?",
+          ["Beneficio: ahorro de agua.", "Costo: el dinero que hay que invertir.", "Ambos deben mirarse juntos."], "Beneficio: ahorro de agua; costo: 2.000.000 de pesos"),
+    ],
+    mistakes=[
+        M("Decir que una tecnología solo trae ventajas.", "Casi toda tecnología tiene costos o requiere cuidados.", "Busca siempre un beneficio y un costo."),
+        M("Nombrar como único actor a la empresa.", "También participan trabajadores, vecinos y autoridades.", "Haz una lista de todos los actores que aparecen."),
+    ],
+    tiers=tiers(
+        [E("Una causa, ¿es la razón por la que algo ocurre o lo que pasa después?", "La razón por la que algo ocurre", "Lo que pasa después es la consecuencia."),
+         E("Un agricultor, una ingeniera y un municipio, ¿son actores o consecuencias?", "Actores", "Son personas o grupos que participan."),
+         E("«Sustentable» significa usar un recurso sin acabarlo. ¿Es verdadero o falso?", "Verdadero", "Así se definió en el vocabulario.")],
+        [E("¿Por qué una plantación de árboles puede tener consecuencias buenas y malas?", "Da madera y trabajo, pero necesita cuidar el suelo y el agua", "Casi toda actividad tiene beneficios y costos."),
+         E("¿Por qué un agricultor no es el único actor al instalar un sistema de riego?", "Porque también participan quienes lo diseñan, instalan y mantienen", "Un proyecto involucra a varios grupos."),
+         E("¿Qué es una consecuencia a largo plazo?", "Algo que ocurre mucho tiempo después", "El largo plazo mira lo que pasa más adelante.")],
+        [E("Un pueblo del norte instala paneles solares porque el sol sobra. Nombra la causa de esa decisión.", "Hay mucho sol", "El recurso disponible es la razón."),
+         E("Una cooperativa compra un tractor y puede cosechar más rápido. Nombra una consecuencia.", "Se cosecha más rápido", "Es lo que ocurre después de comprar el tractor."),
+         E("Escribe un costo posible de instalar riego por goteo.", "El dinero para instalarlo y mantenerlo", "Toda instalación exige gastos y cuidado.")],
+        [E("Rosa dice: «Instalar goteo solo trae ventajas». ¿Qué le falta considerar?", "Los costos y el mantenimiento", "Toda tecnología tiene costos."),
+         E("Un bosque se corta sin plantar árboles nuevos. ¿La explotación es sustentable? Responde sí o no y explica.", "No; el recurso se acabaría", "Sustentable es usar sin acabar el recurso.")],
+        [E("Un aserradero corta árboles y planta otros nuevos cada año. Da trabajo a 50 personas. ¿Cuál es su consecuencia social: el trabajo o los árboles nuevos?", "El trabajo para 50 personas", "Lo social se refiere a las personas."),
+         E("Ordena la cadena: A) se cosecha más fruta, B) falta agua en el campo, C) se instala riego por goteo.", "B, C, A", "Primero el problema, luego la solución y después el resultado.")],
+    ),
+    context=[E("En un valle de uvas, los vecinos temen que el goteo use agua del río que también necesitan los pueblos. ¿Qué actor nuevo aparece en el problema además del agricultor?", "Los pueblos o vecinos que usan el agua", "El agua del río la comparten otras personas.")],
+    selfcheck=[E("En Historia: ¿Qué es una causa?", "La razón por la que algo ocurre", "Es la definición de la clase."), E("¿Qué es una explotación sustentable?", "Usar un recurso sin acabarlo", "Así dura para el futuro."), E("Nombra un costo de una tecnología.", "El dinero para instalarla o mantenerla", "Es un costo posible de una tecnología.")],
+    open_task=task("Elige uno de estos casos y escribe: causa, tres actores, una consecuencia buena y un costo. a) Un colegio instala paneles solares. b) Una comunidad del sur planta árboles nuevos cada vez que corta un árbol. c) Un campo cambia el riego por inundación a goteo.", "Caso a: causa, cuenta alta de electricidad; actores, colegio, empresa instaladora, alumnos; buena, baja la cuenta; costo, la inversión inicial.", ["identifica la causa", "nombra al menos tres actores", "incluye una consecuencia buena y un costo"], ["ficha de cinco partes"], ["nombrar un solo actor", "decir que no hay costos"], "Pide a otra persona que diga si falta algún actor y agrégalo."),
+    reinforce="Escribe una causa y una consecuencia de usar agua con cuidado en tu casa.",
+    extend="Piensa en un recurso de tu zona y escribe una forma de usarlo sin acabarlo.",
+)
+
+register(
+    OA11, 4,
+    materials="Este cuaderno y un lápiz. Los datos y relatos están escritos en los ejercicios.",
+    use="Aprenderé a comparar cómo se aprovechan los recursos en dos territorios de Chile y las perspectivas de quienes trabajan en ellos. Sirve para entender que no hay una sola forma de trabajar.",
+    prior=["Sé armar una cadena de causas, actores y consecuencias.", "Sé que cada zona de Chile tiene recursos distintos."],
+    explain=[
+        "Comparar territorios es ver qué se parece y qué cambia entre dos lugares. El norte de Chile es muy seco: allí el sol y los minerales son importantes y el agua es escasa. El sur tiene más lluvia: allí hay bosques, ganadería y mucho trabajo con la madera. En el valle central hay clima templado, campos con riego y viñas.",
+        "Una perspectiva es la mirada de una persona según su situación. Una trabajadora minera, una agricultora y un dueño de aserradero pueden valorar de forma distinta el mismo recurso. A una le importa el empleo, a otra el agua y a otro el precio de venta. Ninguna mirada es suficiente por sí sola.",
+        "Para comparar bien usamos criterios iguales para los dos lugares: qué recurso hay, qué tecnología usan, qué beneficios y qué cuidados necesitan. Así vemos semejanzas y diferencias sin decir que un lugar es mejor que otro.",
+    ],
+    vocab=[("territorio", "lugar con sus paisajes, recursos y personas"), ("perspectiva", "mirada de una persona según su situación"), ("criterio", "regla igual para comparar dos cosas"), ("semejanza", "algo en que dos cosas se parecen"), ("diferencia", "algo en que dos cosas cambian")],
+    worked=[
+        W("Comparar con criterios", "Lugar A (norte): poca lluvia, uso de riego por goteo. Lugar B (sur): mucha lluvia, bosques con madera. Compara el criterio «agua».",
+          ["En A llueve poco, el agua es escasa.", "En B llueve mucho, el agua abunda.", "La diferencia: A necesita ahorrar agua con goteo, B no tanto."], "A tiene poca agua y la ahorra; B tiene mucha"),
+        W("Dos perspectivas", "Una agricultora quiere agua para sus cultivos. Un vecino quiere dejar agua en el río para su pueblo. ¿Qué tienen en común?",
+          ["Ambos dependen del agua.", "Pero sus necesidades son distintas.", "Esa es una semejanza y una diferencia a la vez."], "Ambos necesitan el agua, pero para fines distintos"),
+    ],
+    mistakes=[
+        M("Decir que un territorio es mejor porque tiene más recursos.", "Cada territorio tiene recursos y problemas propios.", "Compara con criterios, sin juzgar."),
+        M("Creer que una sola perspectiva cuenta toda la historia.", "Cada actor ve según su situación.", "Escucha al menos dos perspectivas."),
+    ],
+    tiers=tiers(
+        [E("Una semejanza, ¿es algo en que dos cosas se parecen o en que cambian?", "En que se parecen", "La diferencia es lo que cambia."),
+         E("El norte de Chile, ¿es más seco o más lluvioso que el sur?", "Más seco", "En el sur llueve más."),
+         E("Una perspectiva, ¿es la mirada de una persona o un mapa?", "La mirada de una persona", "Depende de su situación.")],
+        [E("¿Por qué conviene usar los mismos criterios para comparar dos lugares?", "Para que la comparación sea justa", "Los mismos criterios permiten comparar lo mismo."),
+         E("¿Por qué una agricultora y un dueño de aserradero pueden valorar distinto un recurso?", "Porque tienen necesidades distintas", "Cada uno mira según su situación."),
+         E("Con tus palabras, ¿qué es un territorio?", "Un lugar con sus paisajes, recursos y personas", "Así se definió en el vocabulario.")],
+        [E("Lugar A produce uvas con riego y Lugar B produce madera sin riego. ¿Cuál criterio de comparación se usó: el recurso o el color?", "El recurso", "Se comparan los recursos que cada lugar aprovecha."),
+         E("Un campo con goteo y un bosque plantado tienen algo en común: sus plantas reciben un recurso natural por lluvia o por riego. ¿Cuál es?", "El agua", "Las plantas y los árboles necesitan agua para crecer."),
+         E("En una tabla se compara el norte y el sur por «lluvia». ¿Eso es un criterio o una conclusión?", "Un criterio", "Es la regla que se mide en ambos lugares.")],
+        [E("Marta dice: «El sur es mejor que el norte porque tiene más agua». ¿Qué error comete al comparar?", "Juzga en vez de comparar con criterios; el norte tiene otros recursos como el sol y el cobre", "Cada territorio tiene recursos propios."),
+         E("Un dueño de aserradero dice que el bosque da trabajo. Un vecino dice que preocupa el agua del río. ¿Son perspectivas iguales o distintas?", "Distintas", "Cada uno se fija en un aspecto diferente.")],
+        [E("Tabla de ejemplo, lluvia en un año medida en milímetros (mm): Norte, 10 mm; Sur, 2.000 mm. ¿Cuántos milímetros más recibe el sur?", "1.990", "2.000 menos 10 son 1.990.", "2000-10"),
+         E("Ordena de más a menos lluvia: valle central (medio), sur (mucho), norte (poco).", "Sur, valle central, norte", "El sur llueve más y el norte menos.")],
+    ),
+    context=[E("En un pueblo del norte los vecinos quieren paneles solares y en uno del sur quieren replantar bosque. ¿Qué criterio permite compararlos: el recurso que cada pueblo aprovecha o el nombre del pueblo?", "El recurso que cada pueblo aprovecha", "El nombre no sirve para comparar el uso de recursos.")],
+    selfcheck=[E("¿Qué es una perspectiva?", "La mirada de una persona según su situación", "Es la definición de la clase."), E("¿Qué sirve para comparar dos lugares?", "Usar los mismos criterios", "Permite comparar lo mismo."), E("¿Cuál zona de Chile llueve más: norte o sur?", "El sur", "Allí hay más lluvia y bosques.")],
+    open_task=task("Completa esta tabla de comparación para dos zonas, con una frase por casilla: Zona norte seca / Zona sur lluviosa. Filas: recurso principal, tecnología que ayuda, un cuidado necesario. Luego escribe una semejanza.", "Norte: recurso sol, paneles solares, limpiar paneles. Sur: madera, sierras, plantar árboles nuevos. Semejanza: ambos dependen de un recurso natural.", ["usa los mismos criterios en las dos zonas", "escribe una semejanza", "no dice que una zona es mejor"], ["tabla de seis casillas y una frase"], ["usar criterios distintos en cada columna", "juzgar una zona como mejor"], "Pide a una persona que revise si los criterios son iguales en las dos columnas."),
+    reinforce="Escribe una diferencia entre los recursos del norte y los del sur de Chile.",
+    extend="Escribe cómo podrían ayudarse una zona seca y una zona lluviosa para aprovechar sus recursos.",
+)
+
+register(
+    OA11, 5,
+    materials="Este cuaderno y un lápiz. Los datos están escritos en los ejercicios.",
+    use="Aprenderé a defender una idea sobre el trabajo, la tecnología y los recursos con evidencia. Sirve para opinar con razones y no solo porque sí.",
+    prior=["Sé comparar territorios con criterios.", "Sé que toda tecnología tiene beneficios y costos."],
+    explain=[
+        "Argumentar es defender una idea con razones. Un buen argumento tiene tres partes: la afirmación, que es lo que defendemos, la evidencia, que es el dato o hecho que la apoya, y la razón, que explica por qué la evidencia sostiene la afirmación.",
+        "Por ejemplo: afirmación, «el riego por goteo ayuda a cuidar el agua». Evidencia, «en el huerto de ejemplo gastó 30 litros por planta y la inundación gastó 50». Razón: «gastar menos litros por planta significa ahorrar agua». Si la evidencia no tiene relación con la afirmación, el argumento no sirve.",
+        "También hay que decir hasta dónde llega la evidencia. Un solo huerto no prueba que todo Chile ahorre agua. Un buen argumento usa palabras como «en este caso» o «según estos datos» y reconoce un costo o una duda.",
+    ],
+    vocab=[("argumentar", "defender una idea con razones"), ("afirmación", "idea que se defiende"), ("evidencia", "dato o hecho que apoya una afirmación"), ("razón", "explicación de por qué la evidencia apoya la afirmación"), ("límite", "hasta dónde llega lo que prueba la evidencia")],
+    worked=[
+        W("Partes de un argumento", "«El aserradero da trabajo porque emplea a 50 personas». Señala la afirmación y la evidencia.",
+          ["La afirmación es que el aserradero da trabajo.", "La evidencia es el dato de las 50 personas empleadas.", "El «porque» conecta ambas."], "Afirmación: da trabajo; evidencia: emplea a 50 personas"),
+        W("Detectar evidencia que no sirve", "Afirmación: «el goteo ahorra agua». Evidencia: «el goteo es muy moderno». ¿Sirve?",
+          ["Moderno no dice nada sobre litros.", "La evidencia debe hablar del agua gastada.", "No apoya la afirmación."], "No sirve; no habla del agua gastada"),
+    ],
+    mistakes=[
+        M("Dar una opinión sin ningún dato que la apoye.", "Sin evidencia, nadie puede comprobarla.", "Agrega un dato de una fuente."),
+        M("Usar un solo caso como prueba para todo Chile.", "Un caso no representa a todos.", "Escribe «en este caso» y reconoce el límite."),
+    ],
+    tiers=tiers(
+        [E("Defender una idea con razones, ¿se llama argumentar o copiar?", "Argumentar", "Argumentar es defender con razones."),
+         E("Un dato que apoya una afirmación, ¿es evidencia o un límite?", "Evidencia", "La evidencia es el dato que la apoya."),
+         E("«El goteo gastó 30 litros por planta», ¿es un dato o una opinión?", "Un dato", "Es una cifra que puede comprobarse.")],
+        [E("¿Cuáles son las tres partes de un buen argumento?", "Afirmación, evidencia y razón", "Así se enseñó en la clase."),
+         E("¿Para qué sirve la razón en un argumento?", "Para explicar por qué la evidencia apoya la afirmación", "Conecta el dato con la idea."),
+         E("¿Qué expresión muestra que reconocemos un límite: «en este caso» o «siempre»?", "«En este caso»", "Limita la conclusión a lo que muestra el dato.")],
+        [E("Afirmación: «los paneles solares sirven en el norte». ¿Qué evidencia la apoya: «en el norte hay muchas horas de sol» o «los paneles son azules»?", "«En el norte hay muchas horas de sol»", "Los paneles necesitan sol para producir electricidad."),
+         E("Un huerto gastó 50 litros por planta con inundación y 30 con goteo. ¿Cuántos litros se ahorran por planta?", "20", "50 menos 30 son 20.", "50-30"),
+         E("Con el dato anterior, ¿qué afirmación apoya mejor: «el goteo ahorra agua en este huerto» o «el goteo es mejor en todo el mundo»?", "«El goteo ahorra agua en este huerto»", "El dato solo muestra un huerto.")],
+        [E("Pablo dice: «La madera es el mejor recurso» y no da ningún dato. ¿Qué falta?", "Evidencia", "Sin evidencia, es solo una opinión."),
+         E("Nora argumenta: «El riego ayuda a las uvas porque ayer vi llover». ¿Por qué su evidencia no sirve?", "La lluvia de un día no habla del riego", "No tiene relación con la afirmación.")],
+        [E("Evidencias: A) un huerto ahorró 20 litros por planta; B) a Sofía le gusta el vino; C) el huerto tiene 100 plantas. ¿Qué evidencia, junto con C, sirve para calcular el ahorro total del huerto?", "A", "Con 20 litros por planta se calcula el ahorro."),
+         arith("Un huerto tiene 100 plantas y cada una ahorra 20 litros con goteo. ¿Cuántos litros ahorra en total?", "100*20", "Se multiplican las plantas por los litros ahorrados por cada una.", " litros")],
+    ),
+    context=[E("El concejo de un pueblo debe decidir si apoya una plantación forestal. Una vecina dice: «Dará trabajo: 40 puestos según el proyecto». Otro dice: «Seguro será malo». ¿Quién da evidencia?", "La vecina", "Su afirmación incluye un dato del proyecto.")],
+    selfcheck=[E("¿Qué es la evidencia?", "Un dato o hecho que apoya una afirmación", "Es la definición de la clase."), E("¿Qué hace la razón?", "Explica por qué la evidencia apoya la idea", "Conecta el dato con la afirmación."), E("¿Un solo caso prueba lo que pasa en todo Chile?", "No", "Hay que reconocer el límite.")],
+    open_task=task("Elige una afirmación: a) «La tecnología ayuda a aprovechar mejor el agua»; b) «Los bosques plantados dan trabajo». Escribe tu argumento con afirmación, un dato (puedes usar uno de las clases anteriores o uno de ejemplo: «30 litros contra 50 litros por planta»), una razón y un límite.", "Afirmación a: el goteo ayuda. Dato: 30 contra 50 litros. Razón: gastar menos litros es ahorrar. Límite: es un solo huerto.", ["incluye afirmación, dato, razón y límite", "el dato apoya la afirmación", "usa «en este caso» o una frase parecida"], ["párrafo de cuatro frases"], ["dar una opinión sin dato", "usar un dato que no se relaciona"], "Pide a una persona que subraye la afirmación, el dato y el límite; si falta alguno, agrégalo."),
+    reinforce="Escribe una afirmación sobre el uso del agua en tu casa y un dato que la apoye.",
+    extend="Escribe una evidencia que haría cambiar tu opinión sobre un proyecto.",
+)
+
+register(
+    OA11, 6,
+    materials="Este cuaderno y un lápiz. El caso está escrito en los ejercicios.",
+    use="Aprenderé a evaluar una decisión que afecta a una comunidad sobre el uso de un recurso. Sirve para participar con criterio en decisiones del barrio o la ciudad.",
+    prior=["Sé armar un argumento con evidencia.", "Sé que una explotación sustentable no acaba el recurso."],
+    explain=[
+        "Una decisión ciudadana es una elección que afecta a muchas personas, como aprobar una plantación, un proyecto de riego o una fábrica. Para evaluarla no basta preguntar si es útil: hay que mirar a quiénes ayuda, a quiénes perjudica, qué cuesta y qué pasará en el futuro.",
+        "Una buena forma de evaluar es usar criterios: beneficio para las personas, cuidado del recurso, costo, trabajo que genera y justicia hacia los distintos grupos. Se puntúa cada criterio con datos y se decide con razones. Así la decisión no depende solo de quien grita más fuerte.",
+        "Las decisiones pueden revisarse. Si un proyecto gasta más agua de lo prometido, la comunidad puede pedir cambios. Elegir bien incluye volver a mirar los resultados y aprender de ellos.",
+    ],
+    vocab=[("decisión ciudadana", "elección que afecta a muchas personas de una comunidad"), ("criterio", "regla para juzgar una opción"), ("beneficio", "lo bueno que una decisión trae"), ("perjuicio", "lo malo que una decisión trae"), ("revisar", "volver a mirar para ver si funcionó")],
+    worked=[
+        W("Aplicar criterios", "Proyecto A: riego que ahorra 20 litros por planta y cuesta mucho. Proyecto B: riego antiguo, barato, gasta más agua. Usa los criterios «costo» y «cuidado del agua».",
+          ["Costo: A cuesta más, B menos.", "Cuidado del agua: A ahorra, B gasta más.", "Hay que decidir cuál criterio pesa más para la comunidad."], "A cuida mejor el agua y B cuesta menos"),
+        W("Pensar en los afectados", "Una plantación dará 40 trabajos, pero usará agua del río. ¿A qué grupo mirar además de los que consiguen trabajo?",
+          ["Pregunto quién más usa el agua.", "Los vecinos del pueblo la usan para beber.", "Su perspectiva debe tomarse en cuenta."], "A los vecinos que usan el agua del río"),
+    ],
+    mistakes=[
+        M("Decidir solo por lo que conviene a un grupo.", "Una decisión ciudadana afecta a varios.", "Mira beneficios y perjuicios para cada grupo."),
+        M("Pensar que una decisión ya no se puede cambiar.", "Los resultados pueden revisarse.", "Establece cómo y cuándo se revisará."),
+    ],
+    tiers=tiers(
+        [E("Una decisión que afecta a muchas personas de una comunidad, ¿es una decisión ciudadana o personal?", "Ciudadana", "Afecta a muchos, por eso es ciudadana."),
+         E("Lo bueno que trae una decisión, ¿es un beneficio o un perjuicio?", "Un beneficio", "El perjuicio es lo malo."),
+         E("Volver a mirar si un proyecto funcionó, ¿es revisar o ignorar?", "Revisar", "Así se aprende de los resultados.")],
+        [E("¿Por qué no basta preguntar si un proyecto es útil?", "Porque hay que mirar a quiénes ayuda, a quiénes perjudica y qué cuesta", "Una decisión tiene varios efectos."),
+         E("¿Para qué sirve usar criterios al evaluar una decisión?", "Para decidir con razones y no por quien grita más fuerte", "Los criterios ordenan la discusión."),
+         E("¿Qué ocurre si un proyecto gasta más agua de lo prometido?", "La comunidad puede pedir cambios", "Las decisiones pueden revisarse.")],
+        [E("Proyecto A cuesta 8 millones y Proyecto B cuesta 5 millones. ¿Cuánto más cuesta A?", "3 millones", "8 menos 5 son 3.", "8-5"),
+         E("Un proyecto da 40 empleos y gasta mucha agua. ¿Cuál criterio se cumple bien: trabajo o cuidado del agua?", "Trabajo", "Los 40 empleos cumplen el criterio de trabajo."),
+         E("Nombra un grupo afectado por un proyecto que usa agua del río.", "Los vecinos que usan el agua", "Ellos dependen del mismo recurso.")],
+        [E("Julia dice: «Si el proyecto da empleo, no importa el agua». ¿Qué criterio olvida?", "El cuidado del recurso", "El agua también debe cuidarse."),
+         E("Un proyecto es barato pero gasta tanta agua que el río se seca. ¿Es sustentable? Responde sí o no y explica.", "No; acaba el recurso", "Sustentable es no acabar el recurso.")],
+        [E("Ordena los pasos de una buena decisión: A) elegir con razones, B) escuchar a los afectados, C) definir criterios.", "C, B, A", "Primero los criterios, luego escuchar y al final decidir."),
+         E("Una empresa promete que usará solo 100 litros por día y después usa 150. ¿Cuántos litros extra usa por día?", "50", "150 menos 100 son 50.", "150-100")],
+    ),
+    context=[E("Un pueblo del valle debe decidir si cambia su riego antiguo por goteo. Cuesta más al principio pero ahorra agua, lo que ayudará a que haya agua para todos en el futuro. ¿Qué criterio apoya esta decisión: el cuidado del recurso o el menor costo inicial?", "El cuidado del recurso", "Ahorrar agua ayuda al futuro, aunque cueste más hoy.")],
+    selfcheck=[E("¿Qué es una decisión ciudadana?", "Una elección que afecta a muchas personas", "Es la definición de la clase."), E("En Historia: ¿Qué es un criterio?", "Una regla para juzgar una opción", "Así se usó en la clase."), E("¿Por qué conviene revisar una decisión?", "Para ver si funcionó y mejorarla", "Las decisiones pueden cambiar.")],
+    open_task=task("Caso: un municipio del sur puede autorizar una nueva plantación de árboles, que dará 60 trabajos, o conservar un bosque nativo que atrae visitantes. Evalúa ambas opciones con tres criterios (trabajo, cuidado del recurso, costo) y escribe qué decisión propones y cómo la revisarías después.", "Plantación: más trabajos (60), menos cuidado del bosque nativo. Bosque: cuida el recurso, menos empleo. Propongo mezclar y revisar cada año el agua.", ["usa los tres criterios", "justifica la decisión con razones", "propone cómo revisarla"], ["tabla de criterios y una decisión escrita"], ["evaluar solo un criterio", "no decir cómo se revisa"], "Pide a otra persona que diga qué grupo creyó que quedaba fuera de tu decisión."),
+    reinforce="Nombra una decisión de tu barrio que afecte a varias personas y un grupo que podría salir perjudicado.",
+    extend="Escribe una condición que le pondrías a un proyecto para que cuide el recurso.",
+)
+
+# ================================================================ OA 12
+register(
+    OA12, 1,
+    materials="Este cuaderno y un lápiz. Las localidades y los datos están escritos en los ejercicios; un mapa de Chile ayuda, pero no es necesario.",
+    use="Aprenderé a ubicar los riesgos naturales de Chile (sismos, maremotos, volcanismo, inundaciones y derrumbes). Sirve para saber qué riesgos hay en cada zona.",
+    prior=["Sé ubicar un lugar con punto cardinal y un elemento cercano.", "Conozco la cordillera de los Andes y el océano Pacífico."],
+    explain=[
+        "Un riesgo natural es la posibilidad de que un fenómeno de la naturaleza cause daño a las personas. Un sismo es un movimiento de la tierra. Un maremoto o tsunami es una serie de olas muy grandes que puede producir un sismo bajo el mar. Una erupción volcánica ocurre cuando un volcán lanza ceniza, gases y lava. Una inundación es agua que cubre un lugar que normalmente está seco. Un derrumbe es la caída de tierra o rocas por una ladera.",
+        "Chile tiene muchos sismos y volcanes porque está sobre todo al borde de dos placas, grandes bloques de la corteza terrestre que se mueven y chocan. La placa de Nazca se hunde bajo la placa Sudamericana, y eso produce temblores y levanta la cordillera de los Andes. Por eso casi todo Chile puede sentir sismos.",
+        "No todos los riesgos se dan en todos lados. Los maremotos afectan a la costa. Las erupciones afectan a zonas cercanas a volcanes. Las inundaciones pueden ocurrir donde hay ríos o muchas lluvias. Los derrumbes ocurren en cerros con pendiente. Para ubicar un riesgo decimos qué es, dónde ocurre y qué zona de la localidad es la más expuesta.",
+    ],
+    vocab=[("riesgo natural", "posibilidad de que un fenómeno natural cause daño"), ("sismo", "movimiento de la tierra"), ("maremoto", "olas muy grandes que llegan a la costa, producidas por un sismo bajo el mar"), ("volcán", "montaña que puede lanzar ceniza, gases y lava"), ("ladera", "pendiente de un cerro")],
+    worked=[
+        W("Ubicar el riesgo", "Un pueblo está en la costa, al pie de un cerro con laderas empinadas, junto a un río. ¿Qué riesgos naturales puede tener?",
+          ["En la costa: maremoto.", "Al pie del cerro: derrumbes.", "Junto al río: inundación."], "Maremoto, derrumbe e inundación (además de sismos, que afectan a casi todo Chile)"),
+        W("Relacionar con las placas", "¿Por qué hay tantos sismos en Chile?",
+          ["Chile está al borde de la placa de Nazca y la placa Sudamericana.", "Una se hunde bajo la otra y la presión se libera en sismos.", "Es una característica de todo el país."], "Porque la placa de Nazca se hunde bajo la Sudamericana"),
+    ],
+    mistakes=[
+        M("Creer que un maremoto puede ocurrir en un pueblo de la cordillera lejos del mar.", "Los maremotos llegan por la costa.", "Ubica el riesgo según el lugar."),
+        M("Decir que en Chile los sismos solo ocurren en el sur.", "Hay sismos en casi todo el país.", "Recuerda que Chile está en el borde de dos placas."),
+    ],
+    tiers=tiers(
+        [E("Un movimiento de la tierra, ¿es un sismo o una inundación?", "Un sismo", "La inundación es agua que cubre un lugar."),
+         E("Un volcán lanza ceniza, gases y lava. ¿Ese riesgo es un sismo o una erupción?", "Una erupción", "Lo que lanza un volcán se llama erupción."),
+         E("Olas muy grandes que llegan a la costa tras un sismo bajo el mar, ¿se llaman maremoto o derrumbe?", "Maremoto", "El derrumbe es la caída de tierra o rocas.")],
+        [E("Con tus palabras, ¿qué es un riesgo natural?", "Posibilidad de que un fenómeno natural cause daño", "Es la definición de la clase."),
+         E("¿Por qué Chile tiene muchos sismos?", "Porque está al borde de las placas de Nazca y Sudamericana", "Esas placas se mueven y chocan."),
+         E("¿Qué es una ladera?", "La pendiente de un cerro", "Es el lugar donde puede haber derrumbes.")],
+        [E("Una aldea está en la costa y otra a 300 kilómetros del mar, en un valle. ¿En cuál es más probable un maremoto: la costera o la del valle?", "La costera", "Los maremotos llegan por la costa."),
+         E("Un pueblo está junto a un río que crece con las lluvias fuertes. ¿Qué riesgo debe vigilar?", "La inundación", "El río puede salirse de su cauce."),
+         E("Una casa está al pie de un cerro empinado sin árboles. ¿Qué riesgo debe vigilar?", "El derrumbe", "La tierra suelta puede caer por la ladera.")],
+        [E("Beto dice: «En Chile no hay sismos en el centro». ¿Qué error tiene?", "Hay sismos en casi todo Chile", "El país está en el borde de dos placas."),
+         E("Un pueblo de cordillera, lejos del mar, planifica una evacuación por maremoto. ¿Es un riesgo propio de ese lugar? Responde sí o no y explica.", "No; los maremotos afectan a la costa", "Allí hay otros riesgos, como derrumbes o volcanes cercanos.")],
+        [E("Un pueblo en la costa, junto a un cerro y a un río, enfrenta maremoto, derrumbe e inundación. ¿Cuántos riesgos distintos son, sin contar los sismos?", "Tres", "Se cuentan maremoto, derrumbe e inundación."),
+         E("Une cada lugar con un riesgo: base de un cerro empinado; costa; cerca de un volcán. Riesgos: erupción, derrumbe, maremoto.", "Cerro: derrumbe; costa: maremoto; cerca del volcán: erupción", "Cada riesgo se asocia a su lugar típico.")],
+    ),
+    context=[E("En una localidad de ejemplo hay una playa, un río y un cerro con laderas. Un niño dice que «el único riesgo es el sismo». ¿Qué otros riesgos puedes nombrar según la clase?", "Maremoto, inundación y derrumbe", "Cada uno se asocia con la playa, el río y el cerro.")],
+    selfcheck=[E("¿Qué es un riesgo natural?", "Posibilidad de que un fenómeno natural cause daño", "Es la definición de la clase."), E("¿Qué provoca los sismos en Chile?", "Las placas que se mueven y chocan", "Chile está al borde de dos placas."), E("¿Dónde afecta un maremoto?", "En la costa", "Las olas llegan por el mar.")],
+    open_task=task("Elige una de estas localidades de ejemplo y escribe una ficha: a) un puerto junto a un cerro; b) un pueblo del valle junto a un río; c) un pueblo al pie de un volcán. Anota qué riesgos podría tener y en qué parte de la localidad serían más probables.", "Puerto junto a un cerro: maremoto en el sector bajo de la costa, derrumbe en la ladera, sismo en todo el puerto.", ["nombra al menos dos riesgos", "los ubica en una parte de la localidad", "incluye los sismos"], ["ficha escrita"], ["poner maremoto en un pueblo sin costa", "olvidar los sismos"], "Muestra tu ficha a una persona de tu casa y pregúntale si en tu localidad real hay riesgos similares."),
+    reinforce="Escribe qué riesgos naturales conoces que existan en tu región.",
+    extend="Averigua con una persona mayor si recuerda algún sismo o inundación en tu zona y anota qué pasó.",
+)
+
+register(
+    OA12, 2,
+    materials="Este cuaderno y un lápiz. Las fuentes están escritas en los ejercicios.",
+    use="Aprenderé a leer fuentes sobre riesgos naturales: avisos, relatos y mapas de evacuación. Sirve para distinguir información confiable de rumores.",
+    prior=["Sé qué son los riesgos naturales de Chile.", "Sé preguntar quién hizo una fuente y para qué."],
+    explain=[
+        "Cuando ocurre una emergencia circulan muchos mensajes. Algunos vienen de instituciones oficiales, como los servicios del Estado que se encargan de las emergencias. Otros son rumores de redes sociales o comentarios de vecinos. Hay que saber cuál creer.",
+        "Una fuente confiable dice quién la hizo, cuándo, a qué lugar se refiere y qué hacer. Un mapa de evacuación muestra rutas y zonas seguras. Un relato de una persona que vivió un terremoto cuenta lo que sintió y vio, pero no reemplaza a un informe técnico. Un rumor sin autor ni fecha no sirve para decidir.",
+        "Ante una alarma real hay que seguir las instrucciones de las autoridades. Si un mensaje pide reenviarlo sin decir quién lo escribió, conviene no creerlo ni difundirlo hasta comprobarlo.",
+    ],
+    vocab=[("fuente oficial", "información entregada por una institución encargada del tema"), ("rumor", "noticia que circula sin que se sepa quién la dijo ni si es cierta"), ("zona segura", "lugar donde hay menos peligro frente a un riesgo"), ("ruta de evacuación", "camino marcado para salir rápido de un lugar peligroso"), ("alerta", "aviso de que un peligro puede ocurrir")],
+    worked=[
+        W("Rumor o fuente", "Mensaje: «Dicen que mañana habrá un terremoto grande, reenvía a todos». Sin autor ni fecha. ¿Es confiable?",
+          ["No dice quién lo escribió.", "No tiene fecha ni lugar claro.", "Los sismos no pueden predecirse con exactitud."], "No es confiable; es un rumor"),
+        W("Leer un mapa de evacuación", "Un mapa de colegio muestra flechas verdes hacia el patio central. ¿Qué significa?",
+          ["Las flechas indican la ruta.", "El patio central es la zona segura.", "Debo seguirlas al evacuar."], "Evacuar hacia el patio central por las flechas verdes"),
+    ],
+    mistakes=[
+        M("Reenviar mensajes de emergencia sin saber quién los escribió.", "Pueden ser falsos y asustar a otras personas.", "Revisa la fuente oficial antes de compartir."),
+        M("Creer que una persona puede predecir exactamente cuándo habrá un terremoto.", "Hoy no se pueden predecir con fecha exacta.", "Prepárate siempre, sin esperar avisos."),
+    ],
+    tiers=tiers(
+        [E("Información entregada por una institución encargada del tema, ¿es oficial o rumor?", "Oficial", "Viene de quien debe informar."),
+         E("Un mensaje sin autor ni fecha, ¿es una fuente confiable o un rumor?", "Un rumor", "No se sabe quién lo dijo."),
+         E("Un mapa con flechas hacia el patio, ¿muestra una ruta de evacuación o un horario de clases?", "Una ruta de evacuación", "Las flechas indican por dónde salir.")],
+        [E("¿Qué datos debe tener una fuente confiable?", "Quién la hizo, cuándo, a qué lugar se refiere y qué hacer", "Así se pueden comprobar."),
+         E("¿Por qué un relato de una persona no reemplaza a un informe técnico?", "Porque cuenta lo que esa persona vivió, no todo el fenómeno", "Es solo una experiencia."),
+         E("¿Qué debes hacer con un mensaje de alarma que no dice quién lo escribió?", "No creerlo ni difundirlo hasta comprobarlo", "Podría ser falso.")],
+        [E("Mensaje A: «Servicio de emergencias, fecha 12 de marzo, evacuar zona baja del puerto». Mensaje B: «Mi primo dice que se viene lo peor». ¿Cuál es más confiable?", "El mensaje A", "Tiene autor, fecha y una instrucción clara."),
+         E("El plan de tu colegio dice que tu curso se junta en la zona C. Un compañero dice que la zona D «está más cerca». ¿A qué zona debe ir tu curso?", "A la zona C", "Se sigue el plan, para que los adultos sepan dónde está cada curso."),
+         E("Un mensaje dice: «Evacuar a zona alta» pero no indica lugar. ¿Qué dato le falta?", "A qué lugar se refiere", "Una fuente confiable indica el lugar.")],
+        [E("Clara dice: «Una vecina predijo la fecha del próximo terremoto, así que no hace falta prepararse el resto del año». ¿Qué error tiene?", "Los terremotos no pueden predecirse con fecha exacta", "Siempre hay que estar preparado."),
+         E("Un video muestra olas enormes, pero no dice dónde ni cuándo se grabó. ¿Sirve para decidir si evacuar en tu localidad?", "No", "Falta saber el lugar y la fecha.")],
+        [E("Ordena los pasos ante un mensaje de emergencia: A) seguir las instrucciones, B) ver quién lo emitió, C) ver si habla de tu lugar.", "B, C, A", "Primero la fuente, luego el lugar y después se actúa."),
+         E("Un informe dice que 3 de cada 10 casas de una localidad están en zona de inundación. ¿Cuántas casas de 100 están en zona de inundación?", "30", "3 de cada 10 equivale a 30 de cada 100.", "3*10")],
+    ),
+    context=[E("Tras un sismo fuerte, una niña lee en su teléfono un mensaje sin autor que dice «no pasa nada, vuelvan a la playa» y otro del servicio de emergencias que indica evacuar a la zona alta. ¿A cuál debe creer?", "Al mensaje del servicio de emergencias", "Es la fuente oficial.")],
+    selfcheck=[E("¿Qué es un rumor?", "Una noticia que circula sin saber quién la dijo", "Es la definición de la clase."), E("¿Qué muestra un mapa de evacuación?", "Rutas y zonas seguras", "Indica cómo salir."), E("¿Se puede predecir un terremoto con fecha exacta?", "No", "Hoy no se puede.")],
+    open_task=task("Lee este mensaje: «URGENTE: reenvía a 10 personas, mañana a las 15:00 habrá un terremoto en Chile». Escribe tres razones para no creerlo, qué fuente oficial consultarías y qué harías con el mensaje.", "Razones: no dice quién lo escribió; no se puede predecir con hora exacta; pide reenviar. Consultaría el servicio de emergencias. No lo reenviaría.", ["da tres razones", "nombra una fuente oficial", "dice qué haría con el mensaje"], ["texto de cinco o seis frases"], ["creer el mensaje por ser urgente", "reenviarlo sin comprobar"], "Cuéntale a una persona de tu casa por qué no reenviarías el mensaje."),
+    reinforce="Escribe una diferencia entre un rumor y una fuente oficial.",
+    extend="Escribe qué información debería tener una buena alerta de emergencia.",
+)
+
+register(
+    OA12, 3,
+    materials="Este cuaderno y un lápiz. Los casos están escritos en los ejercicios.",
+    use="Aprenderé a relacionar las causas de un riesgo, los actores que ayudan a protegerse y las consecuencias de estar o no preparados. Sirve para entender por qué la preparación salva vidas.",
+    prior=["Conozco los riesgos naturales de Chile.", "Sé distinguir fuentes confiables de rumores."],
+    explain=[
+        "Un fenómeno natural, como un sismo, no puede evitarse. Pero sus consecuencias sí pueden disminuir. Un sismo fuerte puede causar derrumbes de casas mal construidas, cortes de luz y, si ocurre bajo el mar, un maremoto. Si la comunidad está preparada, hay menos heridos.",
+        "La preparación tiene muchos actores: las familias, que tienen un plan y una mochila de emergencia; las escuelas, que practican simulacros; los municipios, que señalizan rutas de evacuación; los servicios del Estado, que dan alertas y reglas de construcción; y los vecinos, que se ayudan. Las construcciones antisísmicas son edificios diseñados con materiales y formas que resisten los temblores y se mueven sin caerse.",
+        "Si se compara un edificio que cumple las normas con otro que no, vemos que la causa del daño no es solo el sismo, sino también cómo se construyó. Por eso cumplir las normas de construcción y practicar simulacros son decisiones que reducen las consecuencias.",
+        "La protección ocurre en todos los espacios. En el hogar se fijan los muebles altos a la pared y la familia define un lugar seguro. En la escuela hay zonas de seguridad señaladas. En los espacios públicos, como una plaza, un cine o una tienda grande, se siguen las señales de evacuación y las instrucciones del personal, sin correr ni empujar.",
+    ],
+    vocab=[("simulacro", "práctica que imita una emergencia para saber qué hacer"), ("antisísmico", "diseñado para resistir sismos"), ("plan familiar", "acuerdo de qué hacer y adónde ir en una emergencia"), ("mochila de emergencia", "bolsa con lo básico para los primeros días"), ("prevención", "acciones que se hacen antes para reducir el daño")],
+    worked=[
+        W("Causa y consecuencia", "Un sismo fuerte ocurre. Edificio A cumple las normas antisísmicas y B no. B se daña mucho más. ¿Qué causas explican el daño de B?",
+          ["Causa natural: el sismo.", "Causa humana: B se construyó sin cumplir las normas.", "Ambas causas juntas explican el daño."], "El sismo y que B no cumple las normas antisísmicas"),
+        W("Actores de la preparación", "Una escuela hace un simulacro mensual y la municipalidad pinta flechas de evacuación. ¿Qué actores aparecen?",
+          ["La escuela, que practica.", "La municipalidad, que señaliza.", "También las familias, que reciben el plan."], "La escuela y la municipalidad (y las familias)"),
+    ],
+    mistakes=[
+        M("Decir que si el sismo es fuerte nada se puede hacer.", "La preparación disminuye el daño.", "Piensa en prevención: normas, simulacros y planes."),
+        M("Pensar que la preparación es solo responsabilidad de las autoridades.", "Participan familias, escuelas, vecinos y Estado.", "Nombra todos los actores."),
+    ],
+    tiers=tiers(
+        [E("Una práctica que imita una emergencia, ¿es un simulacro o una alerta?", "Un simulacro", "La alerta es un aviso real."),
+         E("Un edificio diseñado para resistir sismos, ¿es antisísmico o inundable?", "Antisísmico", "Esa es la palabra para ese diseño."),
+         E("Un plan familiar, ¿se hace antes o después de la emergencia?", "Antes", "La prevención se hace antes.")],
+        [E("¿Por qué se pueden disminuir las consecuencias aunque el sismo no se pueda evitar?", "Porque con normas, planes y práctica hay menos daño", "La preparación reduce el daño."),
+         E("¿Qué actor señaliza las rutas de evacuación de una ciudad?", "La municipalidad", "Es la que organiza lo local."),
+         E("¿Por qué cumplir las normas de construcción es una forma de prevención?", "Porque los edificios resisten mejor los sismos", "Evita derrumbes de construcciones.")],
+        [E("Una familia define dónde se juntarán si hay un sismo y guarda agua y linterna en una mochila. ¿Eso es prevención o reacción?", "Prevención", "Lo hacen antes de que ocurra."),
+         E("Estás en una tienda grande cuando suena la alarma de evacuación. ¿Qué haces: seguir las señales de evacuación o correr hacia cualquier salida empujando?", "Seguir las señales de evacuación", "Correr y empujar causa más accidentes que el sismo."),
+         E("Un edificio con grietas y sin normas se cae en un sismo. ¿Qué causa humana influyó?", "Que no cumplía las normas de construcción", "Una mala construcción aumenta el daño.")],
+        [E("Lucas dice: «Si ocurre un sismo, la culpa es solo de la naturaleza». ¿Qué le falta considerar?", "Que la construcción y la preparación también influyen", "Los daños no dependen solo del sismo."),
+         E("Dos barrios sufren el mismo sismo. El barrio A hizo simulacros y el B no. ¿Cuál tendrá, probablemente, menos confusión al evacuar?", "El barrio A", "La práctica ayuda a actuar rápido.")],
+        [E("Ordena la cadena: A) menos heridos, B) normas antisísmicas y simulacros, C) ocurre un sismo fuerte.", "B, C, A", "Primero la preparación, luego el sismo y después menos heridos."),
+         E("Una comunidad de 200 familias hace que 150 tengan plan familiar. ¿Cuántas familias aún no tienen plan?", "50", "200 menos 150 son 50.", "200-150")],
+    ),
+    context=[E("Un colegio de una ciudad costera hace simulacros, la municipalidad señala las rutas hacia la zona alta y los vecinos participan en las prácticas. ¿Qué tres actores colaboran?", "El colegio, la municipalidad y los vecinos", "Cada uno participa en la preparación.")],
+    selfcheck=[E("¿Qué es un simulacro?", "Una práctica que imita una emergencia", "Es la definición de la clase."), E("¿Qué es una construcción antisísmica?", "Una diseñada para resistir sismos", "Así se definió."), E("¿Se pueden disminuir las consecuencias de un sismo?", "Sí", "Se reducen con prevención y normas.")],
+    open_task=task("Elige un caso: a) una escuela de un puerto; b) un edificio de departamentos; c) una familia en una casa. Escribe cuál es el riesgo principal, quiénes son los actores que participan en la preparación y tres acciones concretas que reducen las consecuencias.", "Escuela de puerto: riesgo, maremoto. Actores: escuela, municipalidad, familias. Acciones: simulacro, ruta a zona alta, lista de contactos.", ["nombra el riesgo", "nombra al menos tres actores", "da tres acciones concretas"], ["ficha escrita de tres partes"], ["decir que nada se puede hacer", "nombrar un solo actor"], "Pide a otra persona que diga si alguna acción no es realista y cámbiala."),
+    reinforce="Escribe una acción que tu familia podría hacer hoy para estar más preparada.",
+    extend="Escribe cómo se podría ayudar a un vecino que vive solo en una emergencia.",
+)
+
+register(
+    OA12, 4,
+    materials="Este cuaderno y un lápiz. Los datos están escritos en los ejercicios.",
+    use="Aprenderé a comparar los riesgos y las formas de protegerse en distintos lugares: la costa, la ciudad, la cordillera y el campo. Sirve para entender que cada lugar necesita un plan distinto.",
+    prior=["Sé relacionar causas, actores y consecuencias de la preparación.", "Sé comparar con criterios."],
+    explain=[
+        "Los riesgos y las formas de protegerse cambian según el lugar. En la costa, además del sismo, existe el maremoto: si el sismo es muy fuerte, hay que ir a una zona alta sin esperar. En una ciudad con edificios altos, importa la construcción antisísmica y evacuar con calma. En el campo, las rutas pueden ser largas y la ayuda tarda más.",
+        "En la cordillera hay derrumbes, avalanchas y volcanes. En una zona de lluvias intensas, las inundaciones obligan a conocer lugares altos y a evitar cruzar un río crecido. Las personas que viven en cada lugar conocen detalles que ayudan: dónde se acumula el agua, qué caminos se cortan, quién necesita ayuda.",
+        "Comparar perspectivas es escuchar a quienes viven distintas situaciones: una persona mayor, una niña, un conductor, un agricultor. Los planes mejores consideran a todos, incluidos quienes necesitan más ayuda para evacuar.",
+    ],
+    vocab=[("zona alta", "lugar elevado y seguro lejos del mar o del río"), ("avalancha", "masa de nieve que cae por una ladera"), ("evacuar", "salir de un lugar peligroso hacia uno seguro"), ("vulnerable", "que necesita más ayuda para protegerse"), ("plan local", "plan hecho para las necesidades de un lugar concreto")],
+    worked=[
+        W("Comparar dos lugares", "Pueblo costero: riesgo de maremoto. Pueblo de cordillera: riesgo de derrumbe. ¿Qué medida es distinta?",
+          ["En la costa: ir a zona alta.", "En la cordillera: evitar laderas inestables.", "Los riesgos cambian la medida."], "Costa: ir a zona alta; cordillera: alejarse de las laderas inestables"),
+        W("Pensar en quienes necesitan más ayuda", "En un plan de evacuación hay un adulto mayor que camina lento. ¿Qué conviene agregar?",
+          ["Pienso en quién puede quedar atrás.", "Se puede designar a un vecino que lo acompañe.", "El plan debe incluir a todos."], "Designar a alguien que lo acompañe"),
+    ],
+    mistakes=[
+        M("Usar el mismo plan para todos los lugares.", "Los riesgos cambian según el lugar.", "Revisa el plan con los datos de tu zona."),
+        M("Olvidar a quienes necesitan más ayuda para evacuar.", "Un plan sin ellos no protege a toda la comunidad.", "Incluye a adultos mayores, niños y personas con movilidad reducida."),
+    ],
+    tiers=tiers(
+        [E("En la costa, si el sismo es muy fuerte, ¿se debe ir a una zona alta o quedarse en la playa?", "A una zona alta", "El sismo puede producir un maremoto."),
+         E("Evacuar, ¿es salir de un lugar peligroso o entrar a él?", "Salir de un lugar peligroso", "Se va hacia un lugar seguro."),
+         E("Un adulto mayor que camina despacio, ¿necesita más o menos ayuda para evacuar?", "Más ayuda", "Es una persona más vulnerable.")],
+        [E("¿Por qué el plan de un pueblo costero no sirve igual para uno de cordillera?", "Porque los riesgos son distintos", "Cada lugar tiene sus propios peligros."),
+         E("¿Por qué conviene escuchar a vecinos de distintas edades al hacer un plan?", "Porque cada uno conoce necesidades y detalles distintos", "Así el plan considera a todos."),
+         E("¿Qué es una avalancha?", "Una masa de nieve que cae por una ladera", "Es un riesgo de zonas de cordillera nevada.")],
+        [E("Una escuela rural queda a 20 minutos del pueblo y la ayuda tarda más. ¿Qué conviene tener: un plan propio de la escuela o depender solo de la ayuda externa?", "Un plan propio", "La ayuda puede demorar."),
+         E("Un cruce de camino se inunda cuando el río crece. ¿Qué medida conviene: cruzarlo rápido o avisar a todos que no lo crucen?", "Avisar que no lo crucen", "Cruzar un río crecido es muy peligroso."),
+         E("Un edificio tiene 10 pisos y un ascensor. Cuando el temblor termina y hay que evacuar, ¿conviene usar el ascensor o la escalera?", "La escalera", "El ascensor puede quedar detenido.")],
+        [E("Tomás propone que el plan de un pueblo de cordillera sea igual al de un puerto. ¿Qué error tiene?", "Los riesgos de cada lugar son distintos", "El maremoto es de la costa y el derrumbe de laderas."),
+         E("Un plan dice que todos evacuen corriendo. ¿Qué grupo puede quedar en peligro?", "Los niños pequeños y las personas con movilidad reducida", "No pueden correr igual de rápido.")],
+        [E("Dos barrios tienen 400 habitantes cada uno. En A hay 40 adultos mayores y en B hay 80. ¿Qué barrio necesitará más ayuda para evacuar a adultos mayores?", "El barrio B", "80 es mayor que 40, así que hay más personas que necesitan apoyo."),
+         E("Ordena de menos a más tiempo de llegada a una zona segura: A) 5 minutos, B) 12 minutos, C) 8 minutos.", "A, C, B", "5 es menos que 8 y 8 es menos que 12.")],
+    ),
+    context=[E("Una niña de una escuela costera dice que su plan es subir al cerro; un niño de una escuela de valle dice que su plan es juntarse en el patio. ¿Por qué los planes son diferentes?", "Porque los riesgos de cada lugar son distintos", "La costa tiene maremoto y el valle no.")],
+    selfcheck=[E("¿Qué es evacuar?", "Salir de un lugar peligroso hacia uno seguro", "Es la definición de la clase."), E("¿Por qué los planes cambian según el lugar?", "Porque los riesgos son distintos", "Cada lugar tiene sus peligros."), E("¿A quién hay que incluir en el plan?", "A todos, también a quienes necesitan más ayuda", "Un plan debe proteger a toda la comunidad.")],
+    open_task=task("Compara dos lugares de ejemplo: un puerto con 3.000 habitantes y una aldea de cordillera con 200. Escribe, para cada uno, un riesgo principal, una medida de protección y una persona o grupo que necesita atención especial. Luego escribe una semejanza.", "Puerto: maremoto, ir a zona alta, niños pequeños. Aldea: derrumbe, evitar laderas, adultos mayores. Semejanza: ambos necesitan un plan.", ["compara con los mismos criterios", "incluye un grupo que necesita más ayuda", "escribe una semejanza"], ["tabla comparativa y una frase"], ["usar criterios distintos para cada lugar", "olvidar a algún grupo"], "Pide a una persona que elija cuál medida le parece más urgente y por qué."),
+    reinforce="Escribe una persona de tu entorno que necesitaría ayuda para evacuar y cómo podrías ayudarla.",
+    extend="Escribe una diferencia entre el plan de tu escuela y el de una escuela de otro lugar de Chile.",
+)
+
+register(
+    OA12, 5,
+    materials="Este cuaderno y un lápiz. Los datos están escritos en los ejercicios.",
+    use="Aprenderé a defender con evidencia una medida de protección ante riesgos naturales. Sirve para proponer mejoras reales en tu escuela o barrio.",
+    prior=["Sé comparar planes de protección según el lugar.", "Sé que un argumento tiene afirmación, evidencia y razón."],
+    explain=[
+        "Para argumentar una medida de seguridad usamos datos. Por ejemplo, si en un simulacro todo el curso demoró 6 minutos en llegar a la zona segura, pero el objetivo era 4, ese dato es evidencia de que hay que mejorar la ruta o practicar más.",
+        "Los datos pueden venir de mediciones, de mapas, de informes de instituciones o de la experiencia de la comunidad. Una buena evidencia dice dónde, cuándo y cómo se obtuvo. Una evidencia sirve si se relaciona con la medida: el tiempo de evacuación apoya la medida de practicar más, pero el color de la mochila no.",
+        "Un argumento sólido también reconoce los límites. Un simulacro dura minutos y una emergencia real puede ser más desordenada. Por eso se propone practicar varias veces y revisar el plan cada año.",
+    ],
+    vocab=[("medida", "acción que se propone para resolver un problema"), ("medición", "dato que se obtiene al medir, por ejemplo un tiempo"), ("meta", "resultado que se quiere lograr"), ("revisar", "volver a mirar un plan para mejorarlo"), ("evidencia", "dato o hecho que apoya una idea")],
+    worked=[
+        W("Evidencia para una medida", "Medición: el curso demoró 6 minutos y la meta era 4. ¿Qué medida apoya?",
+          ["Comparo 6 con 4.", "Demoró 2 minutos más que la meta.", "Conviene mejorar la ruta o practicar más."], "Practicar más o mejorar la ruta"),
+        W("Evidencia que no sirve", "Afirmación: «hay que despejar el pasillo». Evidencia: «el pasillo es de color verde». ¿Sirve?",
+          ["El color no tiene relación con el paso de personas.", "La evidencia debe hablar de obstáculos.", "No sirve."], "No sirve; no habla de obstáculos"),
+    ],
+    mistakes=[
+        M("Proponer una medida sin ningún dato.", "No se puede comprobar si hace falta.", "Mide o busca un informe."),
+        M("Creer que un simulacro bien hecho garantiza una emergencia perfecta.", "Una emergencia real es más desordenada.", "Practica varias veces y revisa."),
+    ],
+    tiers=tiers(
+        [E("Un tiempo que se obtiene al medir, ¿es una medición o una opinión?", "Una medición", "Es un dato concreto."),
+         E("Un resultado que se quiere lograr, ¿se llama meta o riesgo?", "Meta", "El riesgo es la posibilidad de daño."),
+         E("Una acción que se propone para resolver un problema, ¿es una medida o una evidencia?", "Una medida", "La evidencia es el dato que la apoya.")],
+        [E("¿Por qué el tiempo de evacuación sirve como evidencia de que hay que practicar más?", "Porque muestra si se llega a la meta", "Compara lo logrado con lo esperado."),
+         E("¿Qué pasa si una evidencia no se relaciona con la medida?", "El argumento no sirve", "La evidencia debe hablar de la medida."),
+         E("¿Para qué conviene revisar un plan cada año?", "Para mejorarlo según lo aprendido", "Las condiciones y las personas cambian.")],
+        [E("En un simulacro, el curso demoró 7 minutos. La meta era 4. ¿Cuántos minutos más que la meta demoró?", "3", "7 menos 4 son 3.", "7-4"),
+         E("Afirmación: «hay que dejar libre la puerta de salida». ¿Qué evidencia la apoya: «en el simulacro la puerta estaba bloqueada con sillas» o «las sillas son nuevas»?", "«En el simulacro la puerta estaba bloqueada con sillas»", "Habla del problema de la puerta."),
+         E("Un informe dice que 2 de 6 salas no tienen señal de zona segura. ¿Cuántas de las 6 sí la tienen?", "4", "6 menos 2 son 4.", "6-2")],
+        [E("Elena dice: «Con el simulacro de ayer ya estamos listos para siempre». ¿Qué límite olvida?", "Una emergencia real puede ser más desordenada y hay que seguir practicando", "Un simulacro no garantiza todo."),
+         E("Un curso propone comprar linternas porque «es más bonito». ¿Es un buen argumento? Responde sí o no y explica.", "No; no da evidencia", "Falta un dato que muestre la necesidad.")],
+        [E("Mediciones de tres simulacros: 8, 6 y 5 minutos. La meta es 4. ¿Mejoró el tiempo con cada simulacro?", "Sí", "8, 6 y 5 son cada vez menos."),
+         E("Con las mediciones anteriores, ¿cuántos minutos faltan en el último simulacro para llegar a la meta?", "1", "5 menos 4 es 1.", "5-4")],
+    ),
+    context=[E("Un colegio de ejemplo midió que tardó 9 minutos en vaciar el edificio, y la meta era 5. Propone practicar dos veces al mes. ¿Cuántos minutos de diferencia hay entre el tiempo y la meta?", "4", "9 menos 5 son 4.", "9-5")],
+    selfcheck=[E("¿Qué es una medición?", "Un dato que se obtiene al medir", "Es la definición de la clase."), E("¿Qué debe hacer la evidencia con la medida?", "Relacionarse con ella", "Si no, no sirve."), E("¿Un simulacro garantiza una emergencia perfecta?", "No", "Una emergencia real es más desordenada.")],
+    open_task=task("Datos de ejemplo de un colegio: tardó 8 minutos en llegar a la zona segura, la meta era 5; una puerta estaba bloqueada; 2 de 6 salas no tenían señal de evacuación. Escribe una medida que propondrías, la evidencia que la apoya, la razón y un límite.", "Medida: despejar la puerta. Evidencia: estaba bloqueada. Razón: bloquea la salida. Límite: es un solo simulacro.", ["propone una medida concreta", "usa un dato de los entregados", "incluye una razón y un límite"], ["párrafo de cuatro frases"], ["proponer una medida sin dato", "usar un dato que no se relaciona"], "Pide a una persona que diga si la evidencia realmente apoya tu medida."),
+    reinforce="Mide cuánto tardas en llegar de tu cama a la salida de tu casa y anota el tiempo.",
+    extend="Escribe una segunda evidencia que apoyaría poner señales de evacuación.",
+)
+
+register(
+    OA12, 6,
+    materials="Este cuaderno y un lápiz. El caso está escrito en los ejercicios.",
+    use="Aprenderé a evaluar una decisión de la comunidad sobre protección ante riesgos naturales. Sirve para participar en decisiones de seguridad de tu escuela o barrio.",
+    prior=["Sé argumentar una medida de seguridad con evidencia.", "Sé que los planes cambian según el lugar."],
+    explain=[
+        "Una decisión de protección comunitaria puede ser instalar señales, construir muros de contención, mudar un colegio de un lugar inundable o hacer simulacros con todo el barrio. Antes de decidir, la comunidad pregunta cuánto cuesta, a quiénes protege, cuánto tarda y qué pasa si no se hace.",
+        "Evaluar es comparar las opciones con criterios claros: protección real de las personas, costo, rapidez y participación de la comunidad. A veces la mejor opción es barata, como un simulacro; a veces es cara pero necesaria, como reforzar un edificio antiguo.",
+        "También se evalúan los resultados después. Si después de instalar señales sigue habiendo confusión, la decisión debe ajustarse. La seguridad es una tarea permanente en la que participan autoridades y vecinos.",
+    ],
+    vocab=[("decisión", "elección entre varias opciones"), ("costo", "lo que hay que gastar o esforzarse"), ("protección", "lo que reduce el daño a las personas"), ("participación", "que las personas de la comunidad intervengan"), ("ajustar", "cambiar algo para mejorarlo")],
+    worked=[
+        W("Comparar opciones", "Opción A: simulacros mensuales, cuesta poco. Opción B: reforzar el edificio, cuesta mucho, protege más. ¿Cuál es más barata y cuál protege más?",
+          ["A cuesta poco.", "B protege más.", "Pueden combinarse si hay presupuesto."], "A es más barata; B protege más"),
+        W("Ver los resultados", "Se instalaron señales y en un simulacro nadie se perdió. ¿Qué indica?",
+          ["La medida funcionó en esa práctica.", "Aun así, hay que repetir.", "Se mantiene y se revisa."], "Que la medida ayudó y debe revisarse"),
+    ],
+    mistakes=[
+        M("Elegir solo la opción más barata sin mirar la protección.", "Lo barato puede no proteger.", "Compara protección, costo y rapidez."),
+        M("Pensar que una decisión de seguridad se toma una sola vez.", "Hay que revisarla y ajustarla.", "Agenda revisiones periódicas."),
+    ],
+    tiers=tiers(
+        [E("Una elección entre varias opciones, ¿es una decisión o un riesgo?", "Una decisión", "El riesgo es la posibilidad de daño."),
+         E("Lo que reduce el daño a las personas, ¿es protección o costo?", "Protección", "El costo es lo que se gasta."),
+         E("Cambiar algo para mejorarlo, ¿es ajustar o ignorar?", "Ajustar", "Ajustar es corregir.")],
+        [E("¿Por qué conviene comparar varias opciones antes de decidir?", "Para elegir la que mejor protege y se puede costear", "Cada opción tiene ventajas y costos."),
+         E("¿Qué pregunta ayuda a evaluar una decisión de seguridad?", "A quiénes protege y cuánto cuesta", "Son criterios del análisis."),
+         E("¿Por qué la participación de los vecinos mejora un plan?", "Porque conocen su lugar y se comprometen", "Su conocimiento ayuda y su compromiso hace que funcione.")],
+        [E("Opción A cuesta 200.000 pesos y Opción B cuesta 1.000.000 de pesos. ¿Cuánto más cuesta B?", "800.000", "1.000.000 menos 200.000 son 800.000.", "1000000-200000"),
+         E("Una escuela inundable sufre cada invierno. Mudarla es lo más seguro pero tarda 3 años. ¿Qué medida rápida puede ayudar mientras tanto: señalar rutas altas o esperar?", "Señalar rutas altas", "Es una medida rápida y útil."),
+         E("Opción A protege a 50 personas y B protege a 120. ¿Cuántas personas más protege B?", "70", "120 menos 50 son 70.", "120-50")],
+        [E("Un alcalde dice: «Hacemos solo lo más barato y listo». ¿Qué criterio olvida?", "La protección real de las personas", "Lo barato puede no proteger."),
+         E("Después de una medida, el problema sigue igual. ¿Debe mantenerse sin cambios? Responde sí o no y explica.", "No; hay que ajustarla", "Si no funciona, se revisa.")],
+        [E("Ordena los pasos: A) ajustar según los resultados, B) comparar opciones con criterios, C) aplicar la medida.", "B, C, A", "Primero se compara, luego se aplica y después se ajusta."),
+         E("Un presupuesto es de 900.000 pesos. Se gastan 350.000 en señales y 400.000 en linternas. ¿Cuánto queda?", "150.000", "900.000 menos 350.000 y 400.000 deja 150.000.", "900000-350000-400000")],
+    ),
+    context=[E("En un pueblo, los vecinos deben elegir entre un simulacro anual para todos o instalar una sirena. Quieren una opción barata y que participe todo el pueblo. ¿Cuál cumple mejor esos dos criterios?", "El simulacro", "Cuesta poco y participan todos.")],
+    selfcheck=[E("¿Qué es ajustar una medida?", "Cambiarla para mejorarla", "Es la definición de la clase."), E("Nombra dos criterios para evaluar una decisión.", "Por ejemplo: protección y costo", "Son criterios de la clase."), E("¿Quién participa en la seguridad de la comunidad?", "Autoridades y vecinos", "Es una tarea de todos.")],
+    open_task=task("Caso de ejemplo: una escuela está cerca de un río que se desborda cada dos inviernos. Opciones: a) un muro de contención, costo alto, protege bastante; b) un plan de evacuación y rutas altas, costo bajo; c) mudar la escuela, costo muy alto, protege del todo. Evalúa con protección, costo y rapidez, y propone una decisión y cómo la revisarías.", "Propongo b ahora y estudiar a. Revisaría en cada invierno cuántos minutos tarda la evacuación.", ["usa los tres criterios", "justifica con razones", "dice cómo revisará la decisión"], ["tabla de criterios y decisión"], ["usar solo el costo", "no decir cómo se revisa"], "Pide a una persona que diga qué opción elegiría y compara tu razonamiento con el suyo."),
+    reinforce="Escribe qué decisión de seguridad tomaría tu curso si tuviera poco dinero.",
+    extend="Escribe cómo avisarías a los vecinos de una decisión de seguridad importante.",
+)

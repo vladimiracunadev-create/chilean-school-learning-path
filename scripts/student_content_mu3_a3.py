@@ -613,7 +613,7 @@ L(
     ],
     [
         ex("¿Qué debe hacer un equipo si alguien se equivoca durante la presentación?", "Seguir con el pulso, sin burlarse", "Así la presentación continúa."),
-        ex("¿Qué es la retroalimentación?", "Comentarios que ayudan a mejorar", "Se dan con respeto."),
+        ex("En Música: ¿Qué es la retroalimentación?", "Comentarios que ayudan a mejorar", "Se dan con respeto."),
         ex("En «dos logros y un deseo», el comentario «Podrían mirar al director de señales al empezar» ¿es un logro o un deseo?", "Un deseo", "Sugiere algo que se puede mejorar."),
     ],
     [

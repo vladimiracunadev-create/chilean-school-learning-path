@@ -178,7 +178,7 @@ Respuesta: Esperar a que termine y preguntar a quien relató
 *Autoevaluación*
 
 - **E1.** ¿Qué es el propósito de un relato?
-- **E2.** ¿Qué es el contexto?
+- **E2.** En Lengua y Cultura: ¿Qué es el contexto?
 - **E3.** Si no entiendes una palabra, ¿qué haces?
 
 **Actividad abierta.** Pide a un adulto que lea en voz alta este relato inventado: «Una tarde, la niña Alba fue al río con su abuelo. Primero vieron una garza quieta en la orilla. Después el abuelo le mostró cómo lavar una olla. Más tarde empezó a llover y corrieron bajo un árbol. Al final volvieron a casa y tomaron té caliente.». Escucha sin interrumpir. Después completa tres líneas: Voz (quién relata), Propósito (si fue contado para enseñar o para compartir) y Contexto (cuándo y dónde lo contaría esa persona). La lengua y los relatos de un pueblo los enseña su educador/a tradicional o su comunidad.

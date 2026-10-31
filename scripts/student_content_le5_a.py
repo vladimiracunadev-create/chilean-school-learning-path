@@ -1,0 +1,192 @@
+"""Cuaderno del estudiante, 5.º básico Lenguaje y Comunicación, OA 01 (fluidez, precisión y prosodia).
+
+Todos los textos son originales y breves; cada ejercicio trae el texto que necesita.
+Aquí se definen también los ayudantes `L`, `E`, `task`, `n_words` que reutilizan los otros módulos le5_a*.
+"""
+from __future__ import annotations
+
+from student_lessons import arith, ex, register
+
+OA1 = "LE05 OA 01"
+E = ex
+
+
+def task(statement, example, criteria, evidence, errors, feedback):
+    return {"statement": statement, "example": example, "criteria": criteria, "evidence": evidence, "errors": errors, "feedback": feedback}
+
+
+def L(oa, n, materials, use, prior, explain, vocab, worked, mistakes, tiers, ctx, sc, open_task, reinforce, extend):
+    register(
+        oa, n, materials=materials, use=use, prior=prior, explain=explain, vocab=vocab,
+        worked=[{"title": t, "problem": p, "steps": s, "answer": a} for t, p, s, a in worked],
+        mistakes=[{"wrong": w, "why": y, "fix": f} for w, y, f in mistakes],
+        tiers=dict(zip(("recovery", "understand", "apply", "reason", "challenge"), tiers)),
+        context=ctx, selfcheck=sc, open_task=task(*open_task), reinforce=reinforce, extend=extend,
+    )
+
+
+def n_words(text):
+    """Cuenta las palabras de un texto separado por espacios (los signos no cuentan como palabras)."""
+    return str(len(text.split()))
+
+
+# ------------------------------------------------------------------ OA 01
+L(OA1, 1,
+  "Este cuaderno, lápiz y los textos escritos en cada ejercicio. Si quieres, un reloj con segundero.",
+  "Aprenderé a leer en voz alta palabras largas y poco comunes sin cambiarlas, y a reconocer más palabras de un vistazo, sin deletrearlas.",
+  ["Leo oraciones en voz alta con precisión.", "Sé separar una palabra en sílabas."],
+  ["Leer con precisión es decir cada palabra tal como está escrita, sin cambiar, quitar ni agregar letras o sílabas. En quinto básico los textos traen palabras largas y poco comunes, como «desfiladero» o «electrodoméstico». Para no tropezar con ellas, sepáralas en sílabas, léelas por partes y luego dilas completas.",
+   "Un buen lector decodifica de manera automática: reconoce casi todas las palabras de un vistazo, sin separarlas ni deletrearlas. Eso se logra leyendo mucho y repasando las palabras que más cuestan. Así la mente queda libre para pensar en lo que el texto cuenta.",
+   "Para revisar tu precisión, cuenta las palabras del texto, cuenta las que leíste mal y réstalas. Si notas un error mientras lees, vuelve a la palabra y dila bien. Esa acción se llama autocorrección y la usan todos los buenos lectores."],
+  [("precisión", "leer cada palabra completa y sin cambiarla"), ("decodificar", "pasar de las letras escritas a las palabras que se dicen"), ("automático", "que se hace rápido y sin pensar paso a paso"), ("autocorrección", "volver a una palabra para decirla bien")],
+  [("Leer una palabra larga", "¿Cómo lees sin errores la palabra «desfiladero» (un paso estrecho entre cerros)?", ["Marco los golpes de voz: des-fi-la-de-ro.", "Leo cada parte despacio.", "Las uno y la digo completa, sin agregar letras."], "des-fi-la-de-ro, dicha completa"),
+   ("Calcular palabras bien leídas", "Un texto tiene 120 palabras y te equivocas en 4. ¿Cuántas leíste bien?", ["Cuento las palabras del texto: 120.", "Cuento los errores: 4.", "Resto: 120 − 4 = 116."], "116 palabras bien leídas")],
+  [("Adivinar una palabra larga por su primera sílaba y seguir.", "Se cree que da lo mismo cómo termina la palabra.", "Sepárala en sílabas, léela por partes y luego completa."), ("Seguir leyendo aunque notaste el error.", "Da vergüenza volver atrás.", "Vuelve a la palabra y léela de nuevo: es autocorrección.")],
+  ([E("¿Cuántas sílabas tiene «ferrocarril» (fe-rro-ca-rril)?", "4", "Se cuentan los golpes de voz: fe, rro, ca, rril."),
+    E("Alguien lee «desfiladero» como «desfilandero». ¿Qué letra agregó?", "n", "Dijo «lan» en lugar de «la», con una n de más."),
+    E("¿Qué es leer con precisión: decir cada palabra como está escrita o leer lo más rápido posible?", "Decir cada palabra como está escrita", "La precisión se mide por las palabras bien dichas, no por la rapidez.")],
+   [E("Una lectora reconoce «biblioteca» de un vistazo, sin separarla. ¿Es decodificación automática o lenta?", "Automática", "Reconocerla de un vistazo, sin separarla, es lo que se llama automático."),
+    E("Una palabra larga te frena. ¿Qué haces primero: adivinarla por la primera letra o separarla en sílabas?", "Separarla en sílabas", "Leerla por partes evita cambiarla."),
+    arith("«Hipopótamo» (hi-po-pó-ta-mo) tiene 5 sílabas. Un niño la dice «hipotámo», con 4 sílabas. ¿Cuántas sílabas le faltaron?", "5-4", "Se resta lo que dijo del total de sílabas.")],
+   [arith("Lees un texto de 150 palabras y te equivocas en 6. ¿Cuántas palabras leíste bien?", "150-6", "Se restan los errores del total."),
+    E("¿Cuántas sílabas tiene «electrodoméstico» (e-lec-tro-do-més-ti-co)?", "7", "Se cuentan las siete partes separadas por guiones."),
+    E("¿Cuántas palabras tiene «El naufragio ocurrió cerca del desfiladero.»?", n_words("El naufragio ocurrió cerca del desfiladero."), "Se cuenta cada palabra separada por espacios.")],
+   [arith("Ana lee un texto de 100 palabras con 5 errores y Beto, el mismo texto con 12 errores. ¿Cuántas palabras bien leídas más tuvo Ana que Beto?", "(100-5)-(100-12)", "Se calcula lo que leyó bien cada uno y se compara."),
+    E("Un niño dijo «construyeran» en vez de «construyeron» y siguió. Otra se equivocó igual, se detuvo y lo corrigió. ¿Quién dejó la palabra bien dicha?", "La niña que se corrigió", "La autocorrección deja la palabra como está escrita.")],
+   [arith("Un texto tiene 150 palabras. Tuviste 6 errores, pero te autocorregiste en 2 de ellos y quedaron bien dichos. ¿Cuántas palabras quedaron bien leídas al final?", "150-(6-2)", "Solo cuentan como error los 4 que no corregiste."),
+    E("¿Cuántas palabras tiene «El observatorio queda sobre un cerro y sus técnicos revisan los instrumentos cada tarde.»?", n_words("El observatorio queda sobre un cerro y sus técnicos revisan los instrumentos cada tarde."), "Se cuenta cada palabra separada por espacios.")]),
+  [E("Un niño leyó «La calefación está encendida» y el cartel decía «calefacción». ¿Qué letra no dijo?", "c", "La palabra es ca-le-fac-ción y él dijo ca-le-fa-ción.")],
+  [E("Cuando notas que dijiste mal una palabra y la repites bien, ¿qué estrategia usas?", "Autocorrección", "Es corregirse a uno mismo al leer."),
+   E("¿Cuántas sílabas tiene «observatorio» (ob-ser-va-to-rio)?", "5", "Se cuentan los golpes de voz: ob, ser, va, to, rio."),
+   E("Si lees 80 palabras y cometes 3 errores, ¿cuántas palabras leíste bien?", "77", "Se restan los 3 errores de las 80 palabras: 80 − 3 = 77.")],
+  ("Lee en voz alta, despacio, estas oraciones: 1) «El ferrocarril cruzó el desfiladero al amanecer.» 2) «Mi tía compró un electrodoméstico para la cocina.» 3) «El hipopótamo se bañó en el río.» (entre las tres hay 22 palabras). Pide a otra persona que marque en un papel cada palabra que cambies. Cuenta tus errores, cuántos corregiste y cuántas palabras quedaron bien leídas.", "Si tuve 2 errores y corregí 1, quedó 1 error sin corregir: leí bien 22 − 1 = 21 palabras. Me equivoqué en «electrodoméstico» y la corregí leyéndola por partes.", ["lee las tres oraciones completas", "separa en sílabas las palabras largas", "cuenta errores y autocorrecciones", "calcula las palabras bien leídas"], ["nota con el número de errores", "lectura ante otra persona"], ["leer rápido y cambiar sílabas", "no volver atrás ante un error"], "Anota qué sílabas se te escapan más y practica esas palabras antes de volver a leer."),
+  "Lee dos veces en voz alta una página de un libro que te guste y cuenta los errores de cada vez.",
+  "Escribe tres palabras largas que hayas encontrado en tus lecturas, sepáralas en sílabas y léelas con cuidado.")
+
+L(OA1, 2,
+  "Este cuaderno, lápiz y los textos escritos en cada ejercicio.",
+  "Aprenderé a respetar todos los signos de puntuación al leer en voz alta: coma, punto, punto y coma, dos puntos, raya, paréntesis, comillas y signos de interrogación y exclamación.",
+  ["Respeto la coma y el punto al leer.", "Leo con entonación las preguntas y las exclamaciones."],
+  ["La prosodia es la música de la lectura: pausas, fuerza y tono de la voz. Los signos de puntuación la guían. La coma pide una pausa corta; el punto, una más larga. El punto y coma (;) pide una pausa intermedia: más larga que la coma y más corta que el punto, y une dos ideas relacionadas.",
+   "Los dos puntos (:) anuncian una lista o lo que alguien dice. La raya (—) marca lo que dice un personaje. Lo que va entre paréntesis ( ) es un comentario aparte, que se lee sin saltarlo y con voz algo más suave. Las comillas « » muestran las palabras exactas que alguien dijo o un título.",
+   "Los signos ¿? y ¡! cambian el tono: la pregunta suele subir al final y la exclamación se dice con más fuerza. Antes de leer, mira los signos y decide cómo sonará cada parte. Si ignoras un signo, cambias lo que el texto quiere decir."],
+  [("prosodia", "la música de la voz al leer: pausas, fuerza y tono"), ("punto y coma", "signo (;) que pide una pausa intermedia entre dos ideas relacionadas"), ("paréntesis", "signos ( ) que encierran un comentario aparte"), ("comillas", "signos « » que encierran palabras exactas o un título")],
+  [("Contar las pausas", "En «Llegó tarde; sin embargo, entró con calma.» ¿qué signos de pausa hay?", ["Después de «tarde» hay punto y coma.", "Después de «embargo» hay una coma.", "Al final hay un punto."], "Punto y coma, coma y punto"),
+   ("Leer un paréntesis", "¿Cómo lees «Mi tío (el que vive en el sur) llegó hoy.»?", ["Leo «Mi tío» con voz normal.", "Digo «el que vive en el sur» más suave, como comentario aparte.", "Sigo con «llegó hoy» con voz normal."], "El paréntesis se lee completo y más suave")],
+  [("Saltarse lo que va entre paréntesis porque «es extra».", "Se cree que no importa.", "Léelo siempre, con voz más suave."), ("Hacer la misma pausa en el punto y coma que en el punto.", "Se confunden los dos signos.", "El punto y coma pide una pausa menor que la del punto.")],
+  ([E("Al leer en voz alta, ¿en cuál de los dos signos la pausa dura más: la coma o el punto?", "El punto", "El punto cierra la oración y pide la pausa más larga."),
+    E("En «Compré pan; mi hermana compró leche.» ¿qué signo separa las dos partes?", "El punto y coma", "Se escribe ; entre pan y mi."),
+    E("¿Qué signo muestra que habla un personaje en un diálogo: la raya o el paréntesis?", "La raya", "La raya (—) marca lo que dice el personaje.")],
+   [E("La pausa del punto y coma, ¿es más corta que la de la coma, intermedia, o igual que la del punto?", "Intermedia", "Es más larga que la coma y más corta que el punto."),
+    E("En «Mi tío (el que vive en el sur) llegó hoy.», ¿la parte entre paréntesis se salta o se lee como comentario aparte?", "Se lee como comentario aparte", "Es información extra, pero se dice."),
+    E("En la oración Dijo que «el mar estaba tranquilo» y siguió, ¿qué marcan las comillas?", "Las palabras exactas que se dijeron", "Las comillas encierran la cita textual.")],
+   [E("Pon las comas que faltan: «Tomás trae lápiz goma y regla.»", "Tomás trae lápiz, goma y regla.", "Las comas separan los elementos de la lista antes de la «y»."),
+    E("¿Cuántos signos de pausa hay antes del punto final en «Ana abrió la caja; adentro había tres cosas: una carta, una llave y un mapa.»?", "3", "Hay un punto y coma, un signo de dos puntos y una coma."),
+    E("Completa con el signo que anuncia la lista: «Compré tres frutas ___ manzanas, peras y uvas.»", "Dos puntos", "Los dos puntos anuncian lo que viene a continuación.")],
+   [E("«Ayuda, Pablo.» y «Ayuda Pablo.» ¿En cuál se le pide a Pablo que ayude?", "En «Ayuda, Pablo.»", "La coma separa el nombre de la persona a quien se le habla."),
+    E("Un niño lee «¡Cuidado, el piso está mojado!» con voz plana. ¿Qué signos ignoró?", "Los de exclamación", "¡! piden una voz más fuerte, de aviso.")],
+   [E("En «Llegó el tren (¡por fin!) y todos subimos.», ¿qué parte se lee como comentario aparte?", "¡por fin!", "Está entre paréntesis."),
+    E("Dos lectoras leen «Vamos; es tarde.» Una hace la misma pausa que en un punto y la otra una pausa intermedia. ¿Quién respeta mejor el signo?", "La de la pausa intermedia", "El punto y coma pide una pausa menor que la del punto.")]),
+  [E("Un aviso dice «Se suspende la clase de hoy; mañana habrá recuperación.» ¿Cuántas ideas une el punto y coma?", "2", "Une «se suspende la clase» y «mañana habrá recuperación».")],
+  [E("¿Qué signo hace una pausa intermedia?", "El punto y coma", "Pausa más larga que la coma y más corta que el punto."),
+   E("¿Qué signos encierran un comentario aparte?", "Los paréntesis", "( ) separan información extra."),
+   E("En «Traje esto: pan y queso.» ¿qué signo avisa que viene una lista?", "Los dos puntos", "Los dos puntos avisan lo que viene.")],
+  ("Lee en voz alta este texto respetando todos los signos. Marca con lápiz cada pausa antes de leer. Ayer fui a la feria; compré tres cosas: tomates, lechugas y zanahorias. Mi hermana (la más pequeña) dijo: «¡Qué rico!». ¿Quién cocinará? Luego escribe cuántos puntos y coma, cuántos signos de dos puntos y cuántos paréntesis de apertura hay.", "Hay 1 punto y coma, 2 signos de dos puntos (después de «cosas» y de «dijo») y 1 paréntesis de apertura, que encierra «la más pequeña».", ["hace pausas distintas en coma, punto y punto y coma", "lee el paréntesis como comentario aparte", "cambia el tono en la exclamación y en la pregunta", "cuenta bien los signos"], ["lectura en voz alta", "conteo escrito"], ["leer sin pausas", "ignorar paréntesis y comillas"], "Pide a quien te escuche que levante un dedo en cada pausa y comparen con los signos del texto."),
+  "Lee en voz alta un párrafo de un libro y marca con lápiz suave cada signo antes de leer.",
+  "Escribe dos oraciones largas: una con punto y coma y otra con paréntesis, y léelas respetando los signos.")
+
+L(OA1, 3,
+  "Este cuaderno, lápiz y los textos escritos en cada ejercicio.",
+  "Aprenderé a leer en grupos de palabras con sentido y a adaptar la lectura a distintos textos: narrativos, de teatro e informativos.",
+  ["Respeto todos los signos al leer.", "Sé que hay textos narrativos, informativos y de teatro."],
+  ["Leer con fluidez no es leer palabra por palabra. Se lee en grupos de palabras que forman una idea: «El perro grande | ladra | a la puerta». A esto se le llama fraseo. Las palabras como «un», «el» o «de» se leen unidas a la palabra que sigue.",
+   "Cada tipo de texto pide una lectura distinta. En un cuento narrado, la voz sigue el ritmo de la historia y cambia cuando habla un personaje. En un texto informativo, la voz es clara y pausada para que se entiendan los datos. En una obra de teatro, cada personaje tiene su voz.",
+   "En el teatro, las acotaciones son indicaciones entre paréntesis, como (Entra corriendo). No se leen como parte del diálogo del personaje: orientan cómo hablar o moverse. Por eso, al leer teatro, primero ubica quién habla y cuándo hay una acotación."],
+  [("fraseo", "leer las palabras en grupos con sentido"), ("texto narrativo", "texto que cuenta una historia"), ("texto informativo", "texto que entrega datos sobre un tema"), ("acotación", "indicación entre paréntesis en una obra de teatro sobre cómo actuar o moverse")],
+  [("Marcar los grupos", "Marca los grupos de «La profesora Marta guarda los libros en el estante».", ["Busco quién hace la acción: «La profesora Marta».", "Busco lo que hace: «guarda los libros en el estante».", "Pongo una barra entre ambos."], "La profesora Marta | guarda los libros en el estante"),
+   ("Leer teatro", "En «NICO: (Entra corriendo) ¡Llegó la carta!», ¿qué dice en voz alta el personaje?", ["NICO es quien habla.", "Lo que está entre paréntesis es la acotación: indica cómo entra.", "El personaje solo dice «¡Llegó la carta!»."], "¡Llegó la carta!")],
+  [("Leer una obra de teatro diciendo también las acotaciones como si las dijera el personaje.", "No se distingue la acotación del diálogo.", "Las acotaciones orientan; no se dicen como parte del diálogo."), ("Separar «una» de «bufanda» con una pausa.", "Se cree que cada palabra es un grupo.", "Lee «una bufanda» como una sola unidad.")],
+  ([E("Leer «El perro grande | ladra» en grupos con sentido recibe un nombre. ¿Cuál es?", "Fraseo", "Es el nombre de la lectura en grupos."),
+    E("¿Cuántas palabras tiene «Los cóndores vuelan sobre la cordillera.»?", n_words("Los cóndores vuelan sobre la cordillera."), "Se cuenta cada palabra separada por espacios."),
+    E("En una obra de teatro, ¿la acotación va entre paréntesis o entre comillas?", "Entre paréntesis", "Así se distingue del diálogo.")],
+   [E("¿Cuál separa mejor: «El nuevo director | saluda a todos.» o «El | nuevo director saluda | a | todos.»?", "«El nuevo director | saluda a todos.»", "Mantiene juntas las palabras que forman una idea."),
+    E("En un texto informativo con datos, ¿conviene leer muy rápido o claro y pausado?", "Claro y pausado", "Así quien escucha puede entender cada dato."),
+    E("En «LUCÍA: (Susurrando) No hagas ruido.», ¿qué es «Susurrando»?", "Una acotación", "Indica cómo se dice, no se lee como diálogo.")],
+   [E("Marca con una barra / entre quién y lo que hace: «Mis primos de Chillán viajan en tren.»", "Mis primos de Chillán / viajan en tren.", "La primera parte dice quién; la segunda, lo que hace."),
+    E("¿Cuántos grupos tiene «Todos los sábados / mi abuelo pinta / paisajes del sur.»?", "3", "Las dos barras separan tres grupos."),
+    E("En «MATÍAS: (Mirando por la ventana) Ya llueve.», ¿qué palabras dice en voz alta Matías?", "Ya llueve.", "Lo que va entre paréntesis es acotación.")],
+   [E("Una lectora separa «La casa / amarilla brilla» y otra «La casa amarilla / brilla». ¿Cuál mantiene junto a quien describe?", "La segunda", "«Amarilla» describe a la casa y va con «La casa»."),
+    E("En un cuento, ¿cambias la voz cuando habla un personaje o la dejas igual que en la narración?", "La cambio", "El cambio de voz ayuda a distinguir quién habla.")],
+   [E("En «Los marineros cantan en la cubierta», si separas quién de lo que hace, ¿después de qué palabra va la primera barra?", "marineros", "«Los marineros» dice quiénes son y «cantan…» lo que hacen."),
+    E("En «ANA: (Riendo) ¡No lo puedo creer! (Se sienta.)», ¿cuántas acotaciones hay?", "2", "Hay dos textos entre paréntesis.")]),
+  [E("Lees una noticia del colegio: «Este viernes habrá una exposición de ciencias». ¿Conviene leerla con ritmo de cuento o con voz clara de informar?", "Con voz clara de informar", "Es un texto informativo con un dato importante.")],
+  [E("¿Qué es una acotación?", "Una indicación entre paréntesis en el teatro", "Orienta cómo actuar o hablar."),
+   E("¿Cómo se llama leer en grupos con sentido?", "Fraseo", "Ese es el nombre."),
+   E("¿«una bufanda» se lee como un solo grupo o como dos?", "Un solo grupo", "El artículo se une a la palabra siguiente.")],
+  ("Lee en voz alta esta escena cambiando la voz para cada personaje y sin decir las acotaciones. Primero marca con barras los grupos de la última línea. «INÉS: (Abre la puerta) ¡Llegaste temprano! LUIS: (Cansado) El bus no se demoró hoy. INÉS: La sopa ya está lista.»", "Última línea: «La sopa | ya está lista.» Inés dice «¡Llegaste temprano!» con sorpresa; Luis, con voz cansada.", ["lee en grupos de palabras", "no dice las acotaciones como diálogo", "usa una voz distinta para cada personaje"], ["lectura en voz alta", "barras en la última línea"], ["leer palabra por palabra", "decir las acotaciones como diálogo"], "Pide a otra persona que diga qué personaje hablaba en cada línea sin mirar el texto."),
+  "Lee una escena de teatro o un cuento con diálogos y practica la voz de cada personaje.",
+  "Escribe una escena de tres líneas con dos personajes y dos acotaciones, y léela con otra persona.")
+
+L(OA1, 4,
+  "Este cuaderno, lápiz y los textos escritos en cada ejercicio. Si quieres, un reloj con segundero.",
+  "Aprenderé a elegir una velocidad adecuada y a calcular cuántas palabras leo bien por minuto sin perder el sentido.",
+  ["Leo con precisión y en grupos de palabras.", "Divido números en la tabla del 2 al 10."],
+  ["La velocidad de lectura se mide en palabras por minuto. Se calcula dividiendo las palabras leídas por los minutos que tardaste. Leer a una velocidad adecuada significa ir ni tan lento que se pierda la idea, ni tan rápido que se cambien palabras o se ignoren pausas.",
+   "Una medida útil son las palabras bien leídas por minuto: a las palabras leídas les restas los errores y luego divides por los minutos. Así valoras la rapidez y la precisión juntas. Leer muy rápido con muchos errores da un resultado peor que leer un poco más lento sin errores.",
+   "No existe una velocidad perfecta única: depende del texto. Un poema o un texto con datos nuevos se lee más despacio que un cuento sencillo. Mide tu lectura varias veces y compara contigo, no con otras personas."],
+  [("palabras por minuto", "cantidad de palabras que se leen en un minuto"), ("velocidad adecuada", "la que permite decir bien las palabras y entender"), ("promedio", "valor que resulta de repartir un total en partes iguales"), ("sentido", "la idea que el texto quiere comunicar")],
+  [("Calcular palabras por minuto", "Lees 300 palabras en 3 minutos. ¿Cuántas palabras lees por minuto?", ["Palabras leídas: 300.", "Minutos que tardaste: 3.", "Divido: 300 ÷ 3 = 100."], "100 palabras por minuto"),
+   ("Palabras bien leídas por minuto", "Lees 200 palabras en 2 minutos con 10 errores. ¿Cuántas palabras bien leídas por minuto?", ["Resto los errores: 200 − 10 = 190.", "Divido por los minutos: 190 ÷ 2 = 95.", "Respuesta: 95 palabras bien leídas por minuto."], "95 palabras bien leídas por minuto")],
+  [("Creer que gana quien lee más rápido.", "Se mide solo la rapidez.", "Mide también los errores y si se entendió."), ("Usar la misma velocidad para un cuento y para un texto con datos.", "Se cree que existe una velocidad única.", "Ajusta la velocidad al texto para que se entienda.")],
+  ([arith("Lees 200 palabras en 2 minutos. ¿Cuántas palabras lees por minuto?", "200//2", "Se dividen las palabras por los minutos."),
+    E("Un lector lee tan rápido que cambia varias palabras. ¿Su velocidad es adecuada?", "No", "La velocidad adecuada permite decir bien las palabras."),
+    E("¿En qué unidad se mide la velocidad de lectura?", "En palabras por minuto", "Se cuenta cuántas palabras se leen en un minuto.")],
+   [arith("Una niña lee 360 palabras en 4 minutos. ¿Cuántas palabras lee por minuto?", "360//4", "Se dividen las palabras por los minutos."),
+    E("¿Un poema con palabras nuevas se lee más rápido o más despacio que un cuento sencillo?", "Más despacio", "Hay que cuidar cada palabra y entender las imágenes."),
+    arith("Un lector tuvo 8 errores en un texto de 120 palabras. ¿Cuántas palabras leyó bien?", "120-8", "Se restan los errores del total.")],
+   [arith("Lees 450 palabras en 3 minutos. ¿Cuántas palabras por minuto?", "450//3", "Se dividen las palabras por los minutos."),
+    arith("Lees 300 palabras en 3 minutos y cometes 15 errores. ¿Cuántas palabras bien leídas por minuto?", "(300-15)//3", "Primero se restan los errores y luego se divide por los minutos."),
+    E("Ema lee 120 palabras en un minuto con 24 errores. En otra lectura lee 100 palabras en un minuto con 2 errores. ¿En cuál lectura leyó más palabras bien?", "En la segunda", "Primera: 120 − 24 = 96 palabras bien leídas. Segunda: 100 − 2 = 98. Ir más rápido con más errores no mejora la lectura.")],
+   [arith("Marcos lee 400 palabras en 4 minutos con 20 errores. Julia lee 360 palabras en 4 minutos con 4 errores. ¿Cuántas palabras bien leídas por minuto lee Julia?", "(360-4)//4", "Se restan sus 4 errores y se divide por 4 minutos."),
+    E("Marcos leyó 400 palabras en 4 minutos con 20 errores. Julia leyó 360 palabras en 4 minutos con 4 errores. ¿Quién lee más palabras bien por minuto?", "Marcos", "Marcos lee (400 − 20) ÷ 4 = 95 y Julia (360 − 4) ÷ 4 = 89.")],
+   [arith("Una lectora lee 3 textos de 120 palabras cada uno, en 6 minutos en total. ¿Cuántas palabras lee por minuto?", "(3*120)//6", "Primero se calculan las palabras totales y luego se divide por los minutos."),
+    arith("Quieres leer 240 palabras a 80 palabras por minuto. ¿Cuántos minutos tardarás?", "240//80", "Se divide el total de palabras por las palabras de cada minuto.")]),
+  [arith("Para el acto de la escuela debes leer un texto de 240 palabras en 2 minutos. ¿Cuántas palabras por minuto debes leer?", "240//2", "Se dividen las palabras por los minutos.")],
+  [E("¿Cómo se calcula la velocidad de lectura en palabras por minuto?", "Palabras leídas ÷ minutos", "Se dividen las palabras por el tiempo."),
+   arith("Lees 150 palabras en 3 minutos. ¿Cuántas palabras por minuto?", "150//3", "Se dividen las palabras por los minutos."),
+   E("¿Qué es mejor para entender: leer más rápido con errores o con una velocidad que permita decir bien las palabras?", "Una velocidad que permita decir bien las palabras", "Con errores se pierde el sentido.")],
+  ("Lee en voz alta este texto mientras alguien mide el tiempo (tiene 36 palabras): «Cada mañana, el panadero enciende el horno antes de que salga el sol. Mientras la masa descansa, ordena las bolsas, limpia el mesón y saluda a los vecinos que pasan por la vereda rumbo al trabajo.» Calcula tus palabras por minuto con una regla de tres simple: si tardaste 20 segundos, en un minuto (60 segundos) lees el triple; si tardaste otro tiempo, multiplica tus palabras por 60 y divide por tus segundos.", "Si tardé 20 segundos en leer 36 palabras, en 60 segundos leería 36 × 3 = 108 palabras por minuto. Tuve 1 error, así que 35 × 3 = 105 palabras bien leídas por minuto.", ["lee sin cambiar palabras", "mide el tiempo", "calcula las palabras por minuto", "reflexiona sobre si se entendió"], ["lectura medida", "cálculo escrito"], ["leer solo para ir rápido", "olvidar restar los errores"], "Lee el texto otra vez más despacio y compara: ¿cuál de las dos lecturas se entendió mejor?"),
+  "Lee un texto corto tres días seguidos y anota tu velocidad cada día.",
+  "Inventa un problema con palabras por minuto y pide a otra persona que lo resuelva.")
+
+L(OA1, 5,
+  "Este cuaderno, lápiz y el texto escrito en esta clase. Una persona de tu casa como público, si quieres.",
+  "Aprenderé a preparar una lectura en voz alta para una audiencia y a revisarla con una lista que junta precisión, signos, fraseo y velocidad.",
+  ["Leo con precisión.", "Respeto pausas y signos.", "Leo en grupos de palabras."],
+  ["Una buena lectura se prepara. Primero lees el texto en silencio para entenderlo y buscar palabras difíciles. Luego marcas los signos de puntuación y los grupos de palabras, y por último practicas en voz alta varias veces hasta que suene natural.",
+   "Para que la audiencia entienda, cuida el volumen: ni tan bajo que no se oiga, ni tan alto que moleste. Cuida la claridad de las palabras, la velocidad adecuada y la entonación. Mirar de vez en cuando a quien te escucha también ayuda.",
+   "Después revisa tu lectura con una lista de preguntas: ¿dije bien todas las palabras?, ¿respeté los signos?, ¿leí en grupos con sentido?, ¿la velocidad fue adecuada?, ¿se me entendió? Con ella puedes decidir qué mejorar en el próximo ensayo."],
+  [("ensayar", "practicar varias veces antes de presentar"), ("audiencia", "las personas que escuchan"), ("volumen", "qué tan fuerte o suave se oye la voz"), ("lista de revisión", "preguntas que sirven para revisar un trabajo")],
+  [("Ordenar la preparación", "Ordena: (a) leer a la audiencia, (b) leer en silencio, (c) practicar en voz alta, (d) marcar signos y grupos.", ["Primero entiendo el texto: leo en silencio (b).", "Luego marco signos y grupos (d).", "Practico en voz alta (c) y por último leo a la audiencia (a)."], "b, d, c, a"),
+   ("Contar ensayos", "Ensayas un texto 3 veces el lunes y 4 el martes. ¿Cuántas veces lo ensayaste?", ["El lunes son 3 ensayos.", "El martes son 4 más.", "Sumo: 3 + 4 = 7."], "7 ensayos")],
+  [("Leer por primera vez delante del público, sin haberlo ensayado.", "Se cree que no hace falta practicar.", "Ensaya al menos tres veces antes de leer."), ("Leer con la cabeza metida en el papel y voz baja.", "Se tiene vergüenza.", "Levanta la vista de vez en cuando y sube el volumen.")],
+  ([E("Quieres preparar una lectura: ¿qué haces primero, leer el texto en silencio o presentarlo a la audiencia?", "Leer el texto en silencio", "Primero hay que entender el texto."),
+    arith("Ensayaste un texto 2 veces el lunes y 5 el martes. ¿Cuántos ensayos hiciste?", "2+5", "Se suman los ensayos de los dos días."),
+    E("Si no se te oye desde el fondo de la sala, ¿qué debes cuidar: el volumen o la rima?", "El volumen", "El volumen es qué tan fuerte se oye la voz.")],
+   [E("¿Para qué sirve marcar los signos y los grupos antes de ensayar?", "Para saber dónde hacer pausas y cómo agrupar las palabras", "La marca ayuda a leer con sentido."),
+    E("Una lectora lee tan bajo que nadie escucha. ¿Qué punto de la lista de revisión falla: volumen o precisión?", "Volumen", "La audiencia no la oye."),
+    E("¿Una lista de revisión sirve antes de leer, después de leer o en ambos momentos?", "En ambos momentos", "Guía el ensayo y evalúa la lectura.")],
+   [E("Revisas tu lectura: dijiste bien todas las palabras, pero no hiciste ninguna pausa. ¿Qué debes mejorar?", "Respetar los signos de pausa", "Falta cumplir las pausas que marcan los signos."),
+    E("Para el texto «¡Qué susto! —gritó Clara—. ¿Quién fue?» ¿qué cambio de voz harás al llegar a «¿Quién fue?»: subir la voz al final o bajarla?", "Subir la voz al final", "Es una pregunta."),
+    arith("Practicas 4 veces al día durante 3 días. ¿Cuántos ensayos hiciste en total?", "4*3", "Se multiplican los ensayos por los días.")],
+   [E("Ensayas con una lista de 5 preguntas y respondes sí a 3. ¿En cuántas preguntas debes mejorar?", "2", "Son las 2 que no cumpliste: 5 − 3."),
+    E("Dos amigos leen el mismo texto: uno ensayó y otro no. ¿Cuál es más probable que cometa menos errores y tenga mejor entonación?", "El que ensayó", "La práctica mejora la precisión y la prosodia.")],
+   [E("Tienes que leer en 2 minutos un texto de 240 palabras. Con tu velocidad de 100 palabras por minuto, ¿llegas a tiempo?", "No", "A 100 por minuto, 240 palabras necesitan más de 2 minutos."),
+    arith("¿Cuántas palabras por minuto necesitas leer para terminar 240 palabras en 2 minutos?", "240//2", "Se dividen las palabras por los minutos.")]),
+  [E("En una reunión de curso te piden leer un anuncio. Ensayas y dices bien todo, pero lees rapidísimo. ¿Qué parte de la lista debes mejorar?", "La velocidad", "La velocidad adecuada permite que la audiencia entienda.")],
+  [E("¿Por qué conviene ensayar varias veces un texto antes de leerlo en el acto?", "Para leer mejor ante la audiencia", "Se practica antes de presentar."),
+   E("En Lenguaje: ¿Qué es el volumen?", "Qué tan fuerte o suave se oye la voz", "Hay que ajustarlo para que nos oigan."),
+   E("¿Qué sirve para revisar tu lectura: una lista de revisión o un dibujo?", "Una lista de revisión", "Reúne las preguntas que hay que contestar.")],
+  ("Lee este texto en voz alta tres veces. Antes, marca signos y grupos con lápiz. Después, responde la lista de revisión (sí/no) para cada lectura: ¿dije bien todas las palabras?, ¿respeté los signos?, ¿leí en grupos?, ¿velocidad adecuada?, ¿volumen adecuado? Texto: «Cuando el sol se asoma, el pueblo despierta: las puertas crujen, los gallos cantan y una niña llama a su perro —¡Canelo, ven!— antes de salir.»", "Primera lectura: 3 sí de 5. Segunda: 4 sí de 5. Tercera: 5 sí de 5. En la tercera ya respeté todos los signos.", ["marca signos y grupos antes de leer", "ensaya tres veces", "responde la lista cada vez", "explica qué mejoró"], ["tres listas de revisión", "lectura final ante otra persona"], ["leer sin ensayar", "responder la lista sin leer en voz alta"], "Pide a otra persona que conteste la misma lista sobre tu última lectura y compara las respuestas."),
+  "Elige un poema o un párrafo breve que te guste y ensáyalo hasta cumplir toda la lista.",
+  "Prepara una lectura de dos minutos para tu casa y cuenta cuántos puntos de la lista cumples en cada ensayo.")

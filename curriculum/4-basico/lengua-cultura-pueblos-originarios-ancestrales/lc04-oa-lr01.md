@@ -383,7 +383,7 @@ Respuesta: A su madre
 *Autoevaluación*
 
 - **E1.** ¿Qué cuenta un relato cosmogónico?
-- **E2.** ¿Qué es el contexto?
+- **E2.** En Lengua y Cultura: ¿Qué es el contexto?
 - **E3.** ¿Quién cuenta los relatos reales de un pueblo?
 
 **Actividad abierta.** Lee o escucha el relato inventado de Nora: Relato de práctica (inventado; no es de ningún pueblo): «Nora despertó cuando el antü asomó. Fue al río a buscar ko. En el camino encontró a su ñuke y juntas llevaron el ko a la ruka. Allí regaron la huerta y Nora dijo: chaltumay.» Escribe tres cosas: dónde pasó, a quién encontró Nora y qué significa «chaltumay» según la ficha. Subraya las palabras de la ficha que aparecen en el relato. Recuerda: lo que es tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.

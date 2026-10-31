@@ -18,7 +18,7 @@ Las columnas de plantillas consideran sólo las clases **sin** cuaderno; una pla
 | 2.º básico | 721 | 721 | 0 | 0 |
 | 3.º básico | 757 | 757 | 0 | 0 |
 | 4.º básico | 811 | 811 | 0 | 0 |
-| 5.º básico | 920 | 0 | 162 | 166 |
+| 5.º básico | 920 | 844 | 76 | 1 |
 | 6.º básico | 952 | 0 | 152 | 176 |
 | 7.º básico | 760 | 0 | 189 | 113 |
 | 8.º básico | 771 | 0 | 180 | 117 |
@@ -27,7 +27,7 @@ Las columnas de plantillas consideran sólo las clases **sin** cuaderno; una pla
 | 3.º medio | 495 | 0 | 28 | 109 |
 | 4.º medio | 466 | 0 | 28 | 111 |
 
-**Total:** 8841 clases con consigna exacta; 2980 con cuaderno del estudiante.
+**Total:** 8841 clases con consigna exacta; 3824 con cuaderno del estudiante.
 
 ## Qué se corrige y en qué orden
 

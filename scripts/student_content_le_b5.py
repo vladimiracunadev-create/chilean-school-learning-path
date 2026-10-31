@@ -251,7 +251,7 @@ lesson(
     [
         E("¿Qué palabra usas para preguntar por la razón?", "¿Por qué?", "Busca la causa."),
         E("¿Qué palabra usas para preguntar por el lugar?", "¿Dónde?", "Busca el sitio."),
-        E("¿Qué palabra usas para preguntar por una persona?", "¿Quién?", "Busca quién hace algo."),
+        E("En Lenguaje: ¿Qué palabra usas para preguntar por una persona?", "¿Quién?", "Busca quién hace algo."),
     ],
     [
         E(f"{ANECDOTA} Escribe una pregunta con «¿cuándo?» sobre lo que cuenta el abuelo.", "Por ejemplo: ¿Cuándo vivía en el sur?", "Debe usar cuándo."),

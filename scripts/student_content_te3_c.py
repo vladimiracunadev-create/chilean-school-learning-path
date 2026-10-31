@@ -283,7 +283,7 @@ reg(
     ],
     C=[
         ("¿Por qué conviene separar el texto en párrafos?", "Para que se lea ordenado", "Cada idea queda separada."),
-        ("¿Con qué letra empieza cada oración?", "Con mayúscula", "Marca el inicio."),
+        ("En Tecnología: ¿Con qué letra empieza cada oración?", "Con mayúscula", "Marca el inicio."),
         ("Si una palabra está subrayada, ¿qué haces?", "La revisas", "Puede estar mal escrita."),
     ],
     A=[

@@ -206,7 +206,7 @@ L(
         ex("Una persona dice «con permiso, esto no se comparte afuera». ¿Qué haces con lo que oíste?", "No lo cuento", "Se respeta el límite que pidió."),
     ],
     context=[ex("En una exposición, tres niños hablan de señales. Dos citan su fuente y uno no. ¿Cuántos explicaron con procedencia?", "2", "Solo dos citaron la fuente.")],
-    selfcheck=[ex("¿Qué es la procedencia?", "De dónde y de quién viene un saber", "Dice la fuente."), ex("¿Qué dices cuando no sabes?", "No lo sé", "Eso es ser honesto."), ex("¿Qué es el alcance?", "Hasta dónde vale lo que digo", "Marca los límites.")],
+    selfcheck=[ex("En Lengua y Cultura: ¿Qué es la procedencia?", "De dónde y de quién viene un saber", "Dice la fuente."), ex("¿Qué dices cuando no sabes?", "No lo sé", "Eso es ser honesto."), ex("¿Qué es el alcance?", "Hasta dónde vale lo que digo", "Marca los límites.")],
     task=T("Escribe una ficha de tres datos con este modelo: 1) Lo que se observa (descripción). 2) Quién lo enseñó y de qué pueblo o comunidad es. 3) Hasta dónde vale (alcance). Usa este caso: «La educadora Marta, de su comunidad, cuenta que antes de sembrar mira el cielo de la mañana». Después escribe una frase para decir lo que no sabes.",
            "1) Se mira el cielo de la mañana antes de sembrar. 2) Lo contó la educadora Marta, de su comunidad. 3) Vale para su comunidad, no para todos. No sé: qué se ve en el cielo.",
            ["incluye procedencia", "incluye alcance", "dice lo que no sabe"], ["ficha de tres datos", "frase de honestidad"], ["generalizar a todos los pueblos"],

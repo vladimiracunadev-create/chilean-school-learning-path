@@ -607,7 +607,7 @@ reg(
     ctx=("Te piden explicar a niños de primero por qué las plantas necesitan luz, y no hay internet en tu casa. Dispones de tus fichas sobre plantas y de un libro de ciencias con autor y año. Escribe qué fuente usas, cómo adaptas la explicación y cómo anotas la fuente.", "Uso mis fichas y el libro; explico con palabras simples y dibujos grandes; anoto título, autor y año del libro", "Adapta audiencia, fuente y atribución."),
     sc=[
         ("¿Qué es transferir?", "Usar lo aprendido en una situación nueva", "Permite resolver búsquedas reales."),
-        ("¿Qué haces si dos fuentes se contradicen?", "Buscas más fuentes", "Y revisas autor, fecha y propósito."),
+        ("En Tecnología: ¿Qué haces si dos fuentes se contradicen?", "Buscas más fuentes", "Y revisas autor, fecha y propósito."),
         ("¿Un libro también se cita como fuente?", "Sí", "Con título y autor."),
     ],
     open_task=(

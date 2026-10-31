@@ -314,7 +314,7 @@ reg(
     [
         E("Si escucho cómo se hace una torta, ¿para qué escucho?", "Para seguir los pasos", "Son instrucciones que dicen cómo hacerlo."),
         E("Al escuchar un cuento, ¿escucho para disfrutar o para aprender pasos?", "Para disfrutar", "Los cuentos se escuchan para disfrutar."),
-        E("¿Qué es el propósito al escuchar?", "Para qué escucho", "Es lo que quiero lograr."),
+        E("En Lenguaje: ¿Qué es el propósito al escuchar?", "Para qué escucho", "Es lo que quiero lograr."),
     ],
     [
         E("«Las abejas hacen miel con el néctar de las flores. Lo llevan a la colmena.» ¿Es una explicación o un relato?", "Una explicación", "Entrega datos para aprender."),

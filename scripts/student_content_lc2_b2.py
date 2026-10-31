@@ -76,7 +76,7 @@ register(
     context=[ex("Tu curso invita a una abuela de la comunidad a contar un relato. Al llegar ella, ¿qué dato anotas primero: su nombre o el color de su ropa?", "Su nombre", "Su nombre dice quién relata y es la fuente.")],
     selfcheck=[
         ex("¿Qué es el propósito de un relato?", "Para qué se cuenta", "Es la razón por la que se cuenta."),
-        ex("¿Qué es el contexto?", "Cuándo y dónde se cuenta", "Es el momento y el lugar."),
+        ex("En Lengua y Cultura: ¿Qué es el contexto?", "Cuándo y dónde se cuenta", "Es el momento y el lugar."),
         ex("Si no entiendes una palabra, ¿qué haces?", "Espero y pregunto al final", "No se interrumpe ni se inventa."),
     ],
     open_task=task(

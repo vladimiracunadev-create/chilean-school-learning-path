@@ -138,12 +138,12 @@ Todos los contenidos que requieren especialista, incluida la verificación contr
 | CN01 OA 12 | 4 | Informe estacional local | 64 % | 67 % | 16.7 | — |
 | MA01 OA 13 | 4 | Posiciones en un plano simple | 64 % | 100 % | 17.0 | — |
 | LC01 OA LF03 | 2 | Lengua en uso · Toponimia con territorio | 64 % | 100 % | 16.9 | — |
-| LC01 OA LF05 | 1 | Lengua en uso · Mirar con procedencia | 67 % | 67 % | 17.9 | — |
 | HI01 OA 11 | 1 | Trabajo visible e invisible | 71 % | 100 % | 16.8 | — |
 | HI01 OA 09 | 4 | Ruta de localización | 73 % | 100 % | 20.0 | — |
-| EF01 OA 08 | 2 | Cambios durante el esfuerzo | 74 % | 100 % | 16.3 | — |
 | HI01 OA 15 | 2 | Personas que la hacen funcionar | 76 % | 100 % | 21.6 | — |
 | LC01 OA 11 | 2 | Fuente cultural | 78 % | 100 % | 17.9 | — |
+| EF01 OA 08 | 2 | Cambios durante el esfuerzo | 79 % | 100 % | 16.3 | — |
+| LC01 OA LF05 | 1 | Lengua en uso · Mirar con procedencia | 80 % | 100 % | 17.9 | — |
 | MA01 OA 18 | 1 | Largo y corto en un objeto | 86 % | 100 % | 13.8 | respuesta «depende» en ejercicio cerrado |
 
 ## 2.º básico
@@ -510,3 +510,278 @@ Los lectores confirmaron que en el repositorio el texto oficial citado bajo vari
 | MU04 OA 08 | 2 | Localizar un área de mejora · Reflexión sobre escucha, inter | 78 % | 67 % | 11.4 | respuesta «depende» en ejercicio cerrado |
 | MA04 OA 19 | 4 | Comparar y corregir construcciones | 80 % | 100 % | 10.5 | respuesta «depende» en ejercicio cerrado |
 | LC04 OA 15 | 4 | Recrear sólo lo autorizado · Patrimonio cultural de comunida | 81 % | 71 % | 23.4 | — |
+
+## 5.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 27 | 43 % | 5 |
+| ciencias-naturales | 64 | 60 % | 5 |
+| educacion-fisica-salud | 49 | 40 % | 21 |
+| historia-geografia-ciencias-sociales | 106 | 55 % | 6 |
+| ingles-propuesta | 71 | 25 % | 63 |
+| lengua-cultura-pueblos-originarios-ancestrales | 135 | 59 % | 7 |
+| lenguaje-comunicacion | 166 | 43 % | 51 |
+| matematica | 115 | 46 % | 17 |
+| musica | 35 | 39 % | 16 |
+| orientacion | 41 | 39 % | 9 |
+| tecnologia | 35 | 33 % | 20 |
+
+**Clases marcadas para lectura prioritaria (5.º básico):** 220 de 844.
+
+### Segunda lectura crítica de las 844 clases
+
+Cada una de las 844 clases de 5.º básico fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios; los lectores sí lo intentaron, y varios advirtieron que no pudieron recalcular cada cifra con herramienta.
+
+| Asignatura | Clases | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 115 | Unos 20 ejercicios idénticos al ejemplo resuelto de su clase en OA 01 a 11 y otros tantos en OA 12 a 23; «5.060.000 > 5.600.000 porque el 6 está más a la izquierda» (falso); denominador común mayor que 12 «no hace falta» (falso: 1/3 + 1/5); giro de 180° con fórmula algebraica y números negativos de 7.º; «el doble de 7 más 3» con dos lecturas; rectángulo de vértices (1,2), (4,2), (4,5), (1,5) que era un cuadrado; regla de «poco posible» con casos no clasificados; contextos poco creíbles (agua de un colegio, carrera de 12 a 38 s). |
+| Lenguaje y Comunicación | 166 | Unos 190 ejercicios de OA 02 a 08 que citaban un texto («el faro», «el poema de la lluvia») que el enunciado no entregaba; cuentos de Nico y Lía ausentes en OA 16; conteos erróneos (22 palabras y no 19, resumen de 30 palabras contra la regla de un tercio); «pájaro / rápido» como asonante y «papel / miel» como asonante (es consonante); nombre «Marta Lagos» igual al de una persona real; estereotipo de género en la caleta; unos 25 ejercicios de OA 18 a 26 idénticos al ejemplo resuelto; «salto» como palabra que el corrector corregiría; escena de un cable eléctrico arreglado sin adulto; «grábate» en una actividad oral. |
+| Ciencias Naturales | 64 | Glóbulos rojos comparados con células nerviosas «en una gota de sangre»; virus «no es célula porque es más pequeño»; absorción solo en el intestino delgado contra la clase; cargador sin uso con consumo sobreestimado; tocar ampolletas encendidas «si hay adulto»; tabla de mareas con una hora de caminata a las 21:00; pregunta que sugería beber agua de río; «bajo 200 m todo es oscuro»; «promedio» no enseñado; siete ejercicios que repetían cifras del ejemplo. |
+| Historia, Geografía y Ciencias Sociales | 106 | Voto femenino sin precisar (1935 municipal y 1949 todas las elecciones) y convención de los derechos del niño sin fecha; «maratón» para 5 km y Quellón «pueblo pesquero»; cifras de consumo de agua y luz irreales; mensaje de sismo que invertía el consejo («corre al cerro» contra «no hay maremoto»); «adobe y teja bastan para reconocer un edificio colonial» (falso); «Magallanes llegó a la India»; «universidad solo en Perú»; citas atribuidas a Las Casas y Guamán Poma que eran resúmenes; fundación con nombre real; obras de arte coloniales y relieve sin cobertura, agregados. |
+| Inglés | 71 | «There is some milk» como poca cantidad; rima ten/again; glosa «stand in a line» como «ponte de pie»; estructuras no enseñadas (has, wakes, does, played); «Can a bird fly?» contra el pingüino de la misma clase; jirafa «vive en la jungla»; familias y abuelas en diálogos; diálogos, ilustraciones y canciones del OA sin ejercicio, agregados; 8 respuestas aritméticas planas pasadas a cálculo verificado. |
+| Lengua y Cultura de los Pueblos Originarios | 135 | Ritos y costumbres inventados (silencio para recordar el relato, dar gracias al primer pasto, agradecer a la tierra y a las manos) cambiados por prácticas neutras; «según el educador tradicional dijo que chaltumay se usa para…» retirado; «mari mari significa que todos somos hermanos» y el distractor «mapusur» retirados; huerto donde «se dice ko / chaltumay al traer agua»; 14 ejercicios abiertos con varias respuestas pasados a cerrados; conteos que no calzaban con el texto (6 oraciones y no 7); «los pueblos indígenas aportan…» generalizado. |
+| Educación Física y Salud | 49 | Carreras de 20 m en espacios de 4×3 y 3×3 m; calcetines por vuelta que contradecían el circuito; zapateado y escobillado con 8 tiempos (tienen 4); básquetbol en «tres pasos y pase» (regla de balonmano); polera lavada «cada 2 usos»; botella «compartida» contra «no compartas»; sumas de pulsos sin sentido; pedazos de globo reventado sin advertencia. |
+| Orientación | 41 | «Para» como límite ante un contacto en línea contradiciendo «no respondas»; encuentro con alguien conocido solo en línea «con un adulto»; foto íntima descrita de forma explícita; «nadie puede mirar tu cuerpo» sin la excepción del control de salud; estereotipo asociado al país de origen; «habla con la familia» como único factor protector; «mayoría simple» definida como mayoría relativa; datos de drogas con matices de legalidad suavizados. |
+| Música | 35 | Ejemplo que pedía 6 músicas y listaba 3 («faltan 12»); criterios 3 de 5 que pasaban a 5 con un solo cambio; tambor grave que «sube»; obra citada sin lugar de baile; melodía de práctica sin ritmo; «¿qué dos preguntas ayudan a conocer el contexto?» con cuatro respuestas válidas; más de 20 menciones a «adulto de tu casa». |
+| Artes Visuales | 27 | Forma abierta definida como «contorno cerrado con una abertura»; trabajos C y D con «materiales similares» siendo témpera y papel con pegamento; «gris» como color frío; «menos agua para evitar grumos»; «las sombras no eran negras» sin matiz; tijeras «con el filo hacia adentro»; «ángulo normal» no definido; «cambian tres elementos, ¿cuántos?». |
+| Tecnología | 35 | Sumas sin sentido (fichas de tres pruebas, puntajes de cuatro evaluadores) cambiadas por diferencias; puerta de 200 cm a escala 1:2 en una hoja y ranura de 25 cm con pieza de 24 cm que «no encaja»; asas probadas con 5 y 9 kg; perforador sobre paredes de caja; empate de 8 puntos sin criterio; fotos de compañeros sin permiso de todos; «solo 2 de 30 pueden pagarlo» supone la situación económica de las familias. |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+A diferencia de 4.º básico, los lectores de 5.º no hallaron un desajuste que obligara a cambiar el contenido: los títulos de clase del plan son etapas genéricas (por ejemplo «Reconocer propósito y desafío», «Situar pueblo, territorio y fuente», «Definir necesidad, usuario y criterio»), repetidas en todos los OA de la asignatura, y los autores repartieron el contenido del OA dentro de ellas. Conviene que el currículo nombre el tema de cada clase; no se hizo aquí porque exige el Programa de Estudio.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Historia (obras de arte coloniales, relieve de Chile, seguridad en hogar, escuela y espacios públicos); Inglés (diálogos del OA 05, ilustraciones del OA 08, canciones del OA 09); Lengua y Cultura (la lengua que corresponde a cada pueblo, en OA 09); Lenguaje (relato en OA 24; comparación de interpretaciones de una descripción de actividad en OA 30); Orientación (pubertad: maduración de los órganos sexuales; ejemplo de burla por pertenecer a un pueblo originario en el OA 06).
+- **Abiertos:** Lenguaje OA 30 (testimonio y descripción de actividad solo se reconocen y se comparan, no se planifican paso a paso), OA 01 (prosodia y lectura en voz alta requieren oír al estudiante) y OA 03, 23 y 25 (obras reales, teatro y películas, que elige el docente); Música OA 03 (escuchar al menos 15 músicas y las obras de Chávez, Guastavino y Satie, sin audio) y OA 04 (digitación de flauta y guitarra, práctica real de instrumentos); Artes OA 04 (50 obras al año, las del cuaderno son descripciones), OA 03 (fotografía, video y diseño digital con programa real); Tecnología OA 05 y 06 (programas reales de presentación, hoja de cálculo y procesador de textos; solo se usa la suma); Matemática OA 06, 07, 18 y 20 (calculadora con computador, software geométrico y educativo) y representaciones pictóricas descritas con texto; Inglés (escucha real, pronunciación y producción oral, formato audiovisual); Lengua y Cultura de los Pueblos Originarios: lengua, pronunciación, textos y relatos reales de cada pueblo (LF01 a LF06, LR y LS) con educador o educadora tradicional, y el solapamiento entre LR05 y LS05; Educación Física (danzas de las demás zonas, solo se enseña la cueca); Ciencias (cuadernos sin experimento ni microscopio real, científicos como Galvani, Ampère, Ohm, Joule y Tesla fuera del OA 08).
+- **Decisiones que dependen del programa oficial:** acento diacrítico (dé/de, sé/se, más/mas, aún/aun fuera de las clases), vatios, Wh y kWh en Ciencias OA 11, definición de trapecio como un solo par de lados paralelos, «obra universal» como obra fuera de Chile y Latinoamérica, y la regla numérica de «poco posible» (1 o 2 resultados entre muchos), que es una convención del cuaderno.
+
+### Clases marcadas de 5.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| EN05 OA 09 | 3 | Model a communicative strategy · English sounds through oral | 5 % | 0 % | 13.5 | — |
+| AR05 OA 02 | 4 | Crear una respuesta propia · Color complementario, formas, l | 10 % | 33 % | 13.8 | — |
+| CN05 OA 14 | 3 | Construir o examinar un modelo · Actividad humana y protecci | 10 % | 12 % | 15.4 | — |
+| EN05 OA 01 | 2 | Locate words, chunks and clues · Listening comprehension acr | 11 % | 10 % | 12.0 | — |
+| TE05 OA 01 | 5 | Probar con evidencia · Design of technological objects and s | 11 % | 33 % | 13.4 | — |
+| EN05 OA 12 | 1 | Notice purpose and context · Dialogues about ability, quanti | 11 % | 12 % | 14.4 | — |
+| EN05 OA 08 | 4 | Interact or compose with support · Multimodal response to re | 13 % | 0 % | 17.0 | — |
+| EN05 OA 01 | 3 | Model a communicative strategy · Listening comprehension acr | 15 % | 11 % | 7.8 | — |
+| EN05 OA 14 | 1 | Notice purpose and context · Writing for the functions of th | 15 % | 0 % | 12.5 | — |
+| EN05 OA 04 | 2 | Locate words, chunks and clues · Response and connection aft | 15 % | 0 % | 10.1 | — |
+| TE05 OA 03 | 2 | Representar una solución · Safe elaboration with tools and m | 15 % | 20 % | 12.8 | — |
+| EN05 OA 13 | 3 | Model a communicative strategy · Model-supported literary an | 15 % | 14 % | 11.9 | — |
+| LE05 OA 03 | 3 | Localizar y seleccionar evidencia · Repertorio literario y v | 15 % | 0 % | 14.3 | — |
+| MU05 OA 05 | 4 | Ensayar y ajustar desde la escucha · Improvisation and creat | 15 % | 14 % | 11.4 | — |
+| AR05 OA 03 | 2 | Explorar una variable visual · Dominio de materiales, herram | 16 % | 25 % | 11.6 | — |
+| EN05 OA 04 | 1 | Notice purpose and context · Response and connection after l | 16 % | 14 % | 18.2 | — |
+| EF05 OA 07 | 2 | Modelar control y decisión motriz · Planificación regular de | 16 % | 12 % | 14.4 | — |
+| EN05 OA 12 | 2 | Locate words, chunks and clues · Dialogues about ability, qu | 16 % | 11 % | 17.9 | — |
+| EN05 OA 02 | 5 | Communicate independently · Listening for purpose, ideas and | 16 % | 0 % | 13.4 | — |
+| MU05 OA 01 | 2 | Reconocer y representar un rasgo audible · Musical language  | 17 % | 12 % | 14.1 | — |
+| EN05 OA 13 | 2 | Locate words, chunks and clues · Model-supported literary an | 18 % | 11 % | 9.4 | — |
+| TE05 OA 01 | 4 | Elaborar o configurar · Design of technological objects and  | 18 % | 0 % | 10.7 | — |
+| EN05 OA 12 | 5 | Communicate independently · Dialogues about ability, quantit | 18 % | 14 % | 17.1 | — |
+| EF05 OA 01 | 1 | Reconocer meta y condiciones de seguridad · Habilidades motr | 18 % | 12 % | 14.6 | — |
+| EF05 OA 01 | 3 | Ensayar con variantes accesibles · Habilidades motrices apli | 18 % | 0 % | 16.7 | — |
+| EF05 OA 08 | 1 | Reconocer meta y condiciones de seguridad · Pulso y percepci | 18 % | 33 % | 13.7 | — |
+| LE05 OA 06 | 2 | Modelar una lectura o producción · Comprensión crítica de te | 18 % | 29 % | 16.4 | — |
+| EN05 OA 08 | 2 | Locate words, chunks and clues · Multimodal response to read | 19 % | 0 % | 14.7 | — |
+| EN05 OA 06 | 1 | Notice purpose and context · Reading communicative functions | 19 % | 0 % | 13.2 | — |
+| LE05 OA 23 | 5 | Producir una respuesta propia · Escucha literaria de obras c | 19 % | 43 % | 15.0 | — |
+| EN05 OA 05 | 4 | Interact or compose with support · Reading literary and non- | 19 % | 0 % | 13.0 | — |
+| LE05 OA 03 | 5 | Producir una respuesta propia · Repertorio literario y valor | 19 % | 0 % | 14.4 | — |
+| OR05 OA 03 | 5 | Practicar comunicación o solicitud de ayuda · Affective and  | 19 % | 22 % | 15.2 | — |
+| EN05 OA 04 | 4 | Interact or compose with support · Response and connection a | 19 % | 14 % | 11.8 | — |
+| EN05 OA 08 | 1 | Notice purpose and context · Multimodal response to reading | 19 % | 17 % | 13.1 | — |
+| EN05 OA 06 | 5 | Communicate independently · Reading communicative functions  | 19 % | 0 % | 14.3 | — |
+| LE05 OA 18 | 3 | Localizar y seleccionar evidencia · Revisión y edición para  | 20 % | 17 % | 13.8 | — |
+| LE05 OA 05 | 5 | Producir una respuesta propia · Imágenes, figuras y forma po | 20 % | 17 % | 12.7 | — |
+| EN05 OA 02 | 3 | Model a communicative strategy · Listening for purpose, idea | 20 % | 0 % | 12.6 | — |
+| LE05 OA 05 | 6 | Revisar con retroalimentación · Imágenes, figuras y forma po | 21 % | 0 % | 14.0 | — |
+| TE05 OA 01 | 3 | Planificar recursos y seguridad · Design of technological ob | 21 % | 14 % | 9.5 | — |
+| EF05 OA 09 | 2 | Modelar control y decisión motriz · Higiene, postura, hidrat | 21 % | 12 % | 18.7 | — |
+| LE05 OA 10 | 5 | Producir una respuesta propia · Uso autónomo y responsable d | 21 % | 33 % | 13.8 | — |
+| EN05 OA 14 | 4 | Interact or compose with support · Writing for the functions | 21 % | 0 % | 19.2 | — |
+| MA05 OA 18 | 1 | Representar y precisar el sentido · Congruencia mediante tra | 21 % | 20 % | 14.4 | — |
+| MU05 OA 01 | 1 | Escuchar antes de nombrar · Musical language and expressive  | 21 % | 14 % | 14.8 | — |
+| MU05 OA 05 | 2 | Reconocer y representar un rasgo audible · Improvisation and | 21 % | 12 % | 16.6 | — |
+| EF05 OA 11 | 1 | Reconocer meta y condiciones de seguridad · Calentamiento, m | 22 % | 17 % | 13.7 | — |
+| EN05 OA 14 | 5 | Communicate independently · Writing for the functions of the | 22 % | 0 % | 14.6 | — |
+| LE05 OA 10 | 2 | Modelar una lectura o producción · Uso autónomo y responsabl | 22 % | 33 % | 16.2 | — |
+| EN05 OA 03 | 4 | Interact or compose with support · Strategies for audiovisua | 22 % | 0 % | 15.2 | — |
+| LE05 OA 04 | 1 | Reconocer propósito y desafío · Análisis profundo de narraci | 22 % | 17 % | 15.0 | — |
+| LE05 OA 18 | 2 | Modelar una lectura o producción · Revisión y edición para c | 22 % | 17 % | 11.7 | — |
+| LE05 OA 18 | 4 | Comparar interpretaciones o decisiones · Revisión y edición  | 22 % | 0 % | 9.6 | — |
+| EN05 OA 07 | 2 | Locate words, chunks and clues · Purposeful reading strategi | 22 % | 14 % | 11.1 | — |
+| EN05 OA 11 | 2 | Locate words, chunks and clues · Vocabulary for the function | 22 % | 14 % | 15.6 | — |
+| LE05 OA 18 | 1 | Reconocer propósito y desafío · Revisión y edición para comu | 22 % | 33 % | 13.8 | — |
+| AR05 OA 03 | 5 | Interpretar y fundamentar · Dominio de materiales, herramien | 23 % | 43 % | 14.4 | — |
+| MU05 OA 03 | 3 | Interpretar o crear con un criterio · Abundant listening acr | 23 % | 22 % | 18.3 | — |
+| EN05 OA 05 | 2 | Locate words, chunks and clues · Reading literary and non-li | 23 % | 0 % | 12.1 | — |
+| EN05 OA 06 | 2 | Locate words, chunks and clues · Reading communicative funct | 23 % | 0 % | 31.0 | — |
+| EN05 OA 13 | 4 | Interact or compose with support · Model-supported literary  | 23 % | 14 % | 11.7 | — |
+| LE05 OA 03 | 2 | Modelar una lectura o producción · Repertorio literario y va | 23 % | 14 % | 12.5 | — |
+| LE05 OA 29 | 2 | Modelar una lectura o producción · Vocabulario nuevo en inte | 23 % | 14 % | 14.2 | — |
+| MA05 OA 20 | 4 | Resolver un caso con una condición nueva · Conversión de uni | 23 % | 33 % | 16.8 | — |
+| MU05 OA 06 | 2 | Reconocer y representar un rasgo audible · Responsible and m | 23 % | 29 % | 14.3 | — |
+| EN05 OA 08 | 5 | Communicate independently · Multimodal response to reading | 23 % | 20 % | 9.8 | — |
+| EN05 OA 03 | 2 | Locate words, chunks and clues · Strategies for audiovisual  | 24 % | 14 % | 13.0 | — |
+| EN05 OA 11 | 3 | Model a communicative strategy · Vocabulary for the function | 24 % | 0 % | 17.7 | — |
+| LE05 OA 13 | 3 | Localizar y seleccionar evidencia · Escritura frecuente con  | 24 % | 17 % | 16.1 | — |
+| EN05 OA 07 | 3 | Model a communicative strategy · Purposeful reading strategi | 24 % | 0 % | 13.2 | — |
+| TE05 OA 02 | 2 | Representar una solución · Planning with resources, safety a | 24 % | 0 % | 13.9 | — |
+| OR05 OA 09 | 1 | Examinar un caso ficticio protegido · Perseverance, honest s | 24 % | 12 % | 11.1 | — |
+| EN05 OA 15 | 5 | Communicate independently · Writing process with digital and | 24 % | 0 % | 13.5 | — |
+| LE05 OA 04 | 2 | Modelar una lectura o producción · Análisis profundo de narr | 24 % | 0 % | 14.2 | — |
+| LE05 OA 04 | 3 | Localizar y seleccionar evidencia · Análisis profundo de nar | 24 % | 17 % | 14.6 | — |
+| EN05 OA 02 | 2 | Locate words, chunks and clues · Listening for purpose, idea | 24 % | 11 % | 9.7 | — |
+| MU05 OA 03 | 2 | Reconocer y representar un rasgo audible · Abundant listenin | 24 % | 30 % | 16.4 | — |
+| EF05 OA 08 | 2 | Modelar control y decisión motriz · Pulso y percepción de in | 25 % | 29 % | 12.2 | — |
+| EN05 OA 04 | 3 | Model a communicative strategy · Response and connection aft | 25 % | 14 % | 12.2 | — |
+| EN05 OA 10 | 1 | Notice purpose and context · Supported oral communication | 25 % | 0 % | 15.7 | — |
+| EN05 OA 14 | 2 | Locate words, chunks and clues · Writing for the functions o | 25 % | 0 % | 13.2 | — |
+| LC05 OA 17 | 2 | Escuchar o leer con límites declarados · Manifestaciones art | 25 % | 29 % | 17.4 | — |
+| LE05 OA 02 | 3 | Localizar y seleccionar evidencia · Estrategias conscientes  | 25 % | 17 % | 15.9 | — |
+| LE05 OA 08 | 3 | Localizar y seleccionar evidencia · Síntesis y registro de i | 25 % | 29 % | 15.6 | — |
+| LE05 OA 27 | 2 | Modelar una lectura o producción · Convenciones sociales y r | 25 % | 17 % | 15.9 | — |
+| MU05 OA 01 | 3 | Interpretar o crear con un criterio · Musical language and e | 25 % | 14 % | 13.7 | — |
+| MU05 OA 05 | 3 | Interpretar o crear con un criterio · Improvisation and crea | 25 % | 29 % | 13.1 | — |
+| OR05 OA 08 | 4 | Elegir una acción segura · Democratic participation and cour | 25 % | 0 % | 15.3 | — |
+| TE05 OA 01 | 6 | Mejorar y comunicar · Design of technological objects and sy | 25 % | 33 % | 12.1 | — |
+| TE05 OA 05 | 4 | Elaborar o configurar · Presentations and spreadsheets for c | 25 % | 0 % | 13.1 | — |
+| EN05 OA 05 | 3 | Model a communicative strategy · Reading literary and non-li | 26 % | 17 % | 14.9 | — |
+| LE05 OA 04 | 4 | Comparar interpretaciones o decisiones · Análisis profundo d | 26 % | 33 % | 15.6 | — |
+| LE05 OA 24 | 3 | Localizar y seleccionar evidencia · Comprensión y contraste  | 26 % | 43 % | 11.0 | — |
+| EN05 OA 04 | 5 | Communicate independently · Response and connection after li | 26 % | 17 % | 13.2 | — |
+| EN05 OA 08 | 3 | Model a communicative strategy · Multimodal response to read | 26 % | 33 % | 18.1 | — |
+| EF05 OA 04 | 3 | Ensayar con variantes accesibles · Actividad física y cuidad | 26 % | 25 % | 14.2 | — |
+| EN05 OA 01 | 1 | Notice purpose and context · Listening comprehension across  | 26 % | 22 % | 11.2 | — |
+| EN05 OA 01 | 4 | Interact or compose with support · Listening comprehension a | 26 % | 0 % | 11.8 | — |
+| EN05 OA 13 | 1 | Notice purpose and context · Model-supported literary and fu | 26 % | 12 % | 11.2 | — |
+| TE05 OA 01 | 2 | Representar una solución · Design of technological objects a | 26 % | 17 % | 13.2 | — |
+| EF05 OA 03 | 2 | Modelar control y decisión motriz · Estrategias ofensivas y  | 26 % | 29 % | 18.8 | — |
+| EN05 OA 09 | 2 | Locate words, chunks and clues · English sounds through oral | 26 % | 0 % | 10.1 | — |
+| EN05 OA 02 | 1 | Notice purpose and context · Listening for purpose, ideas an | 26 % | 29 % | 14.8 | — |
+| EN05 OA 06 | 4 | Interact or compose with support · Reading communicative fun | 26 % | 14 % | 14.4 | — |
+| LE05 OA 01 | 3 | Localizar y seleccionar evidencia · Fluidez, precisión y pro | 26 % | 17 % | 12.8 | — |
+| LE05 OA 01 | 4 | Comparar interpretaciones o decisiones · Fluidez, precisión  | 26 % | 33 % | 14.9 | — |
+| MA05 OA 22 | 2 | Conectar dos representaciones · Áreas de triángulos, paralel | 26 % | 33 % | 13.3 | — |
+| EN05 OA 10 | 3 | Model a communicative strategy · Supported oral communicatio | 27 % | 0 % | 15.3 | — |
+| EN05 OA 10 | 4 | Interact or compose with support · Supported oral communicat | 27 % | 25 % | 13.3 | — |
+| LE05 OA 06 | 3 | Localizar y seleccionar evidencia · Comprensión crítica de t | 27 % | 29 % | 17.6 | — |
+| TE05 OA 02 | 1 | Definir necesidad, usuario y criterio · Planning with resour | 27 % | 12 % | 12.8 | — |
+| LE05 OA 18 | 5 | Producir una respuesta propia · Revisión y edición para comu | 27 % | 33 % | 10.1 | — |
+| EN05 OA 07 | 4 | Interact or compose with support · Purposeful reading strate | 27 % | 0 % | 12.6 | — |
+| MA05 OA 01 | 3 | Elegir y justificar una estrategia · Números naturales hasta | 27 % | 33 % | 12.0 | — |
+| MA05 OA 01 | 4 | Resolver un caso con una condición nueva · Números naturales | 27 % | 33 % | 11.2 | — |
+| AR05 OA 03 | 4 | Crear una respuesta propia · Dominio de materiales, herramie | 27 % | 25 % | 15.0 | — |
+| EF05 OA 01 | 2 | Modelar control y decisión motriz · Habilidades motrices apl | 27 % | 12 % | 14.0 | — |
+| EF05 OA 01 | 4 | Resolver una situación nueva · Habilidades motrices aplicada | 27 % | 12 % | 16.4 | — |
+| LE05 OA 09 | 2 | Modelar una lectura o producción · Lectura habitual y elecci | 27 % | 33 % | 13.2 | — |
+| LE05 OA 22 | 3 | Localizar y seleccionar evidencia · Ortografía al servicio d | 27 % | 17 % | 12.6 | — |
+| LE05 OA 22 | 4 | Comparar interpretaciones o decisiones · Ortografía al servi | 27 % | 0 % | 17.2 | — |
+| EN05 OA 12 | 3 | Model a communicative strategy · Dialogues about ability, qu | 27 % | 25 % | 15.2 | — |
+| EN05 OA 02 | 4 | Interact or compose with support · Listening for purpose, id | 28 % | 0 % | 11.6 | — |
+| EF05 OA 11 | 2 | Modelar control y decisión motriz · Calentamiento, materiale | 28 % | 12 % | 14.3 | — |
+| MA05 OA 01 | 1 | Representar y precisar el sentido · Números naturales hasta  | 28 % | 33 % | 14.1 | — |
+| OR05 OA 03 | 1 | Examinar un caso ficticio protegido · Affective and sexual d | 28 % | 25 % | 17.8 | — |
+| TE05 OA 04 | 3 | Planificar recursos y seguridad · Testing quality through te | 28 % | 22 % | 13.7 | — |
+| EN05 OA 03 | 5 | Communicate independently · Strategies for audiovisual liste | 28 % | 0 % | 13.6 | — |
+| LE05 OA 02 | 5 | Producir una respuesta propia · Estrategias conscientes de c | 29 % | 0 % | 13.9 | — |
+| LE05 OA 23 | 3 | Localizar y seleccionar evidencia · Escucha literaria de obr | 29 % | 14 % | 20.0 | — |
+| LE05 OA 26 | 3 | Localizar y seleccionar evidencia · Diálogo para desarrollar | 29 % | 29 % | 13.5 | — |
+| MA05 OA 04 | 1 | Representar y precisar el sentido · División de tres dígitos | 29 % | 20 % | 14.2 | — |
+| MU05 OA 01 | 5 | Comunicar una decisión musical · Musical language and expres | 29 % | 33 % | 12.6 | — |
+| MU05 OA 08 | 3 | Interpretar o crear con un criterio · Reflection and improve | 29 % | 0 % | 11.6 | — |
+| EN05 OA 12 | 4 | Interact or compose with support · Dialogues about ability,  | 29 % | 12 % | 17.6 | — |
+| HI05 OA 16 | 5 | Argumentar con evidencia · Actitudes cívicas en la vida coti | 29 % | 40 % | 14.9 | — |
+| LE05 OA 14 | 2 | Modelar una lectura o producción · Narraciones con trama, de | 29 % | 29 % | 18.3 | — |
+| LE05 OA 14 | 3 | Localizar y seleccionar evidencia · Narraciones con trama, d | 29 % | 29 % | 14.3 | — |
+| EN05 OA 15 | 3 | Model a communicative strategy · Writing process with digita | 29 % | 12 % | 12.0 | — |
+| EN05 OA 10 | 2 | Locate words, chunks and clues · Supported oral communicatio | 29 % | 17 % | 10.7 | — |
+| EN05 OA 11 | 1 | Notice purpose and context · Vocabulary for the functions of | 29 % | 33 % | 17.2 | — |
+| MA05 OA 02 | 1 | Representar y precisar el sentido · Estrategias de cálculo m | 29 % | 43 % | 14.5 | — |
+| MA05 OA 02 | 4 | Resolver un caso con una condición nueva · Estrategias de cá | 29 % | 43 % | 14.7 | — |
+| EF05 OA 04 | 1 | Reconocer meta y condiciones de seguridad · Actividad física | 30 % | 38 % | 15.2 | — |
+| LE05 OA 02 | 1 | Reconocer propósito y desafío · Estrategias conscientes de c | 30 % | 17 % | 12.9 | — |
+| EN05 OA 06 | 3 | Model a communicative strategy · Reading communicative funct | 30 % | 17 % | 15.6 | — |
+| EF05 OA 05 | 4 | Resolver una situación nueva · Danzas nacionales con context | 30 % | 29 % | 14.4 | — |
+| MA05 OA 19 | 2 | Conectar dos representaciones · Medición de longitudes en m, | 30 % | 25 % | 12.4 | — |
+| TE05 OA 05 | 3 | Planificar recursos y seguridad · Presentations and spreadsh | 30 % | 0 % | 11.7 | — |
+| EF05 OA 09 | 3 | Ensayar con variantes accesibles · Higiene, postura, hidrata | 30 % | 0 % | 14.3 | — |
+| EN05 OA 05 | 1 | Notice purpose and context · Reading literary and non-litera | 30 % | 17 % | 11.6 | — |
+| EN05 OA 05 | 5 | Communicate independently · Reading literary and non-literar | 30 % | 20 % | 12.6 | — |
+| LE05 OA 10 | 3 | Localizar y seleccionar evidencia · Uso autónomo y responsab | 30 % | 33 % | 12.8 | — |
+| LE05 OA 29 | 3 | Localizar y seleccionar evidencia · Vocabulario nuevo en int | 31 % | 29 % | 11.6 | — |
+| MA05 OA 04 | 2 | Conectar dos representaciones · División de tres dígitos por | 31 % | 25 % | 13.2 | — |
+| TE05 OA 06 | 3 | Planificar recursos y seguridad · Word processing for purpos | 31 % | 17 % | 13.9 | — |
+| HI05 OA 12 | 2 | Interrogar fuentes y reconocer procedencia · Riesgos natural | 31 % | 38 % | 12.4 | — |
+| TE05 OA 02 | 5 | Probar con evidencia · Planning with resources, safety and i | 31 % | 17 % | 11.5 | — |
+| TE05 OA 05 | 5 | Probar con evidencia · Presentations and spreadsheets for co | 31 % | 17 % | 14.2 | — |
+| LE05 OA 06 | 5 | Producir una respuesta propia · Comprensión crítica de texto | 31 % | 29 % | 12.5 | — |
+| EN05 OA 03 | 3 | Model a communicative strategy · Strategies for audiovisual  | 31 % | 0 % | 12.7 | — |
+| LE05 OA 16 | 3 | Localizar y seleccionar evidencia · Comentarios lectores fun | 31 % | 33 % | 15.1 | — |
+| MA05 OA 02 | 3 | Elegir y justificar una estrategia · Estrategias de cálculo  | 31 % | 33 % | 17.6 | — |
+| TE05 OA 03 | 4 | Elaborar o configurar · Safe elaboration with tools and mate | 31 % | 25 % | 11.7 | — |
+| LE05 OA 28 | 2 | Modelar una lectura o producción · Exposición oral clara y f | 31 % | 33 % | 12.7 | — |
+| LE05 OA 05 | 2 | Modelar una lectura o producción · Imágenes, figuras y forma | 31 % | 33 % | 11.4 | — |
+| AR05 OA 04 | 2 | Explorar una variable visual · Interpretación de obras y dis | 32 % | 43 % | 13.3 | — |
+| LE05 OA 24 | 6 | Revisar con retroalimentación · Comprensión y contraste de t | 32 % | 33 % | 12.5 | — |
+| LE05 OA 25 | 2 | Modelar una lectura o producción · Apreciación de teatro y l | 32 % | 14 % | 19.4 | — |
+| LE05 OA 25 | 3 | Localizar y seleccionar evidencia · Apreciación de teatro y  | 32 % | 29 % | 13.6 | — |
+| MA05 OA 03 | 1 | Representar y precisar el sentido · Multiplicación de dos dí | 32 % | 40 % | 12.6 | — |
+| MU05 OA 04 | 1 | Escuchar antes de nombrar · Singing and instrumental ensembl | 32 % | 29 % | 16.4 | — |
+| OR05 OA 09 | 2 | Distinguir hechos, emociones y límites · Perseverance, hones | 32 % | 44 % | 13.5 | — |
+| TE05 OA 07 | 2 | Representar una solución · Online communication, source safe | 32 % | 14 % | 10.9 | — |
+| OR05 OA 04 | 1 | Examinar un caso ficticio protegido · Autonomous self-care,  | 32 % | 29 % | 13.8 | — |
+| EN05 OA 09 | 1 | Notice purpose and context · English sounds through oral tex | 32 % | 0 % | 14.2 | — |
+| HI05 OA 18 | 2 | Interrogar fuentes y reconocer procedencia · Proyecto escola | 32 % | 43 % | 11.5 | — |
+| LE05 OA 22 | 2 | Modelar una lectura o producción · Ortografía al servicio de | 32 % | 17 % | 11.5 | — |
+| MU05 OA 02 | 1 | Escuchar antes de nombrar · Elaborated response to musical e | 32 % | 43 % | 14.7 | — |
+| EF05 OA 06 | 2 | Modelar control y decisión motriz · Condición física y metas | 32 % | 33 % | 11.9 | — |
+| TE05 OA 04 | 2 | Representar una solución · Testing quality through technical | 32 % | 12 % | 16.2 | — |
+| TE05 OA 04 | 4 | Elaborar o configurar · Testing quality through technical an | 32 % | 12 % | 14.9 | — |
+| EF05 OA 10 | 3 | Ensayar con variantes accesibles · Responsabilidad, liderazg | 32 % | 29 % | 15.4 | — |
+| MU05 OA 03 | 4 | Ensayar y ajustar desde la escucha · Abundant listening acro | 33 % | 33 % | 18.8 | — |
+| EF05 OA 02 | 2 | Modelar control y decisión motriz · Tácticas para resolver p | 33 % | 38 % | 16.6 | — |
+| EF05 OA 05 | 2 | Modelar control y decisión motriz · Danzas nacionales con co | 33 % | 38 % | 14.3 | — |
+| EF05 OA 07 | 3 | Ensayar con variantes accesibles · Planificación regular de  | 33 % | 43 % | 13.8 | — |
+| EF05 OA 11 | 3 | Ensayar con variantes accesibles · Calentamiento, materiales | 33 % | 29 % | 13.4 | — |
+| EN05 OA 09 | 5 | Communicate independently · English sounds through oral text | 33 % | 0 % | 14.5 | — |
+| EN05 OA 15 | 4 | Interact or compose with support · Writing process with digi | 33 % | 25 % | 13.6 | — |
+| LE05 OA 11 | 4 | Comparar interpretaciones o decisiones · Búsqueda y selecció | 33 % | 33 % | 11.7 | — |
+| LE05 OA 19 | 3 | Localizar y seleccionar evidencia · Vocabulario nuevo en la  | 33 % | 33 % | 10.8 | — |
+| LE05 OA 23 | 4 | Comparar interpretaciones o decisiones · Escucha literaria d | 33 % | 43 % | 11.8 | — |
+| LE05 OA 24 | 2 | Modelar una lectura o producción · Comprensión y contraste d | 33 % | 29 % | 11.1 | — |
+| MA05 OA 10 | 3 | Elegir y justificar una estrategia · Equivalencia entre frac | 33 % | 33 % | 13.0 | — |
+| MA05 OA 15 | 1 | Representar y precisar el sentido · Ecuaciones e inecuacione | 33 % | 40 % | 13.3 | — |
+| MU05 OA 05 | 5 | Comunicar una decisión musical · Improvisation and creation  | 33 % | 33 % | 17.7 | — |
+| OR05 OA 01 | 4 | Elegir una acción segura · Positive self-appraisal, strength | 33 % | 43 % | 11.8 | — |
+| OR05 OA 02 | 1 | Examinar un caso ficticio protegido · Emotions, expression a | 33 % | 14 % | 13.2 | — |
+| OR05 OA 08 | 5 | Practicar comunicación o solicitud de ayuda · Democratic par | 33 % | 38 % | 14.5 | — |
+| TE05 OA 02 | 3 | Planificar recursos y seguridad · Planning with resources, s | 33 % | 14 % | 10.5 | — |
+| TE05 OA 06 | 2 | Representar una solución · Word processing for purposeful do | 33 % | 20 % | 12.8 | — |
+| LE05 OA 05 | 3 | Localizar y seleccionar evidencia · Imágenes, figuras y form | 37 % | 50 % | 22.1 | — |
+| LC05 OA LS06 | 1 | Situar pueblo, territorio y fuente · Registro tecnológico co | 46 % | 62 % | 21.2 | — |
+| HI05 OA 22 | 2 | Interrogar fuentes y reconocer procedencia · Información y o | 47 % | 75 % | 12.1 | respuesta «depende» en ejercicio cerrado |
+| MA05 OA 16 | 4 | Resolver un caso con una condición nueva · Coordenadas en el | 50 % | 50 % | 21.2 | — |
+| MU05 OA 07 | 4 | Ensayar y ajustar desde la escucha · Music and the context i | 54 % | 29 % | 24.9 | — |
+| LC05 OA LS04 | 4 | Construir una respuesta atribuida · Mensajes con expresiones | 55 % | 57 % | 20.6 | — |
+| CN05 OA 10 | 2 | Formular una pregunta o predicción comprobable · Conductores | 57 % | 88 % | 19.0 | respuesta «depende» en ejercicio cerrado |
+| LC05 OA 14 | 4 | Construir una respuesta atribuida · Técnicas productivas y e | 58 % | 57 % | 21.1 | — |
+| CN05 OA 10 | 5 | Explicar con evidencia y límites · Conductores, aisladores y | 59 % | 100 % | 14.1 | respuesta «depende» en ejercicio cerrado |
+| LC05 OA 11 | 4 | Construir una respuesta atribuida · Personas portadoras de s | 62 % | 86 % | 21.3 | — |
+| CN05 OA 11 | 4 | Comparar resultados con un criterio común · Uso responsable  | 71 % | 86 % | 15.7 | respuesta «depende» en ejercicio cerrado |
+| HI05 OA 13 | 1 | Ubicar en tiempo y espacio · Personas como sujetos de derech | 84 % | 50 % | 14.6 | respuesta «depende» en ejercicio cerrado |
+| HI05 OA 15 | 1 | Ubicar en tiempo y espacio · Esfuerzo, mérito y reconocimien | 85 % | 62 % | 17.3 | respuesta «depende» en ejercicio cerrado |
+| CN05 OA 14 | 1 | Observar y separar evidencia de interpretación · Actividad h | 86 % | 100 % | 21.9 | — |
+| MA05 OA 25 | 3 | Elegir y justificar una estrategia · Comparación cualitativa | 89 % | 83 % | 21.5 | — |
+| LC05 OA LS03 | 1 | Situar pueblo, territorio y fuente · Textos del territorio y | 90 % | 86 % | 20.2 | — |
+| LC05 OA LS05 | 3 | Reconocer relaciones culturales · Lengua, comunidad e identi | 92 % | 83 % | 20.1 | — |

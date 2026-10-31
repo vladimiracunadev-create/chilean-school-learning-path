@@ -469,7 +469,7 @@ reg(
         ("Después del cambio, ¿pruebas de nuevo o no?", "Pruebas de nuevo", "Hay que comparar."),
     ],
     C=[
-        ("¿Por qué se cambia solo una variable?", "Para saber cuál cambio ayudó", "Si cambias varias, se mezclan."),
+        ("En Tecnología: ¿Por qué se cambia solo una variable?", "Para saber cuál cambio ayudó", "Si cambias varias, se mezclan."),
         ("Antes sostenía 3 fichas y ahora 5. ¿Mejoró?", "Sí", "5 es más que 3."),
         ("¿Qué se anota después de mejorar?", "Qué se cambió y qué pasó", "Sirve para el futuro."),
     ],

@@ -528,7 +528,7 @@ L(
         arith(f"Si cada aspecto máximo es 5 y hay 3 aspectos, ¿cuántos puntos faltan para llegar al máximo después de practicar (suma {sum(DESPUES.values())})?", f"15-{sum(DESPUES.values())}", "El máximo es 3 × 5 = 15.", " puntos"),
     ],
     [ex("Una niña mejoró su volumen de 3 a 5 pero sus silencios siguen en 3. Escribe su siguiente paso.", "Probar una estrategia nueva para los silencios", "El silencio no ha cambiado.")],
-    [ex("¿Qué es el progreso?", "El cambio entre el antes y el después", "Se mide con tus datos."), ex("¿Qué es un siguiente paso?", "Una decisión concreta con los datos", "Dice qué haces luego."), ex("¿Con quién te comparas?", "Contigo mismo", "Es tu punto de partida.")],
+    [ex("¿Qué es el progreso?", "El cambio entre el antes y el después", "Se mide con tus datos."), ex("¿Qué es un siguiente paso?", "Una decisión concreta con los datos", "Dice qué haces luego."), ex("En Música: ¿Con quién te comparas?", "Contigo mismo", "Es tu punto de partida.")],
     (
         "Repite la pieza TA – TA – ti-ti – TAA – SIL tres veces y compara con tu primer intento (o con el ejemplo antes de practicar: pulso 2, silencios 3, volumen 3). Anota de 0 a 5 cada aspecto, calcula cuánto cambió cada uno y escribe tu siguiente paso concreto (aspecto, estrategia y tiempo). Escribe también una cosa que mejoró y que te alegra.",
         "Pulso: 2 a 4 (+2). Silencios: 3 a 3 (0). Volumen: 3 a 5 (+2). Mejoró el pulso y me alegra. Siguiente paso: practicar los silencios marcando el pulso con el pie, 5 minutos durante 4 días.",

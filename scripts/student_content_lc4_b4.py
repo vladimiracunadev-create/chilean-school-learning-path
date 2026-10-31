@@ -127,7 +127,7 @@ L(
     context=[ex("Escuchas «fue al río a buscar ko» y no recuerdas qué es ko. ¿Qué haces: «uso el contexto y reviso la ficha» o «adivino sin mirar»?", "«uso el contexto y reviso la ficha»", "Así confirmo el significado.")],
     selfcheck=[
         ex("¿Qué cuenta un relato cosmogónico?", "cómo se formó el mundo", "Habla del origen del mundo."),
-        ex("¿Qué es el contexto?", "las palabras alrededor que ayudan a entender", "Aporta el sentido."),
+        ex("En Lengua y Cultura: ¿Qué es el contexto?", "las palabras alrededor que ayudan a entender", "Aporta el sentido."),
         ex("¿Quién cuenta los relatos reales de un pueblo?", "el educador tradicional o la comunidad", "Ellos los cuidan."),
     ],
     task=T(

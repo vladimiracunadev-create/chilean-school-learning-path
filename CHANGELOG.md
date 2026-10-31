@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-30 · 5° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 844 clases de 5° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 22 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 4° básico.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió afirmaciones falsas (rima asonante, virus y célula, adobe y teja como prueba de lo colonial), unos 190 ejercicios de Lenguaje que citaban un texto no entregado, ejercicios idénticos al ejemplo resuelto, cifras irreales, riesgos de seguridad y de protección en línea, ritos y atribuciones culturales inventados, y estereotipos. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron 53 enunciados de definición idénticos entre asignaturas.
+- El análisis de alineación cubre ahora 1° a 5° básico, y la lista de contenidos para especialistas incluye 5° básico. A diferencia de 4° básico, no se halló un desajuste entre el texto del OA y los títulos de las clases que obligara a cambiar el contenido.
+- Siguen abiertos: software y programas reales (hojas de cálculo, geometría, presentaciones), audio, video y escucha de música, obras de arte y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), y decisiones que dependen del programa oficial. Sin revisión profesional humana.
+
 ## 2026-10-30 · 4° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 811 clases de 4° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 3° básico.

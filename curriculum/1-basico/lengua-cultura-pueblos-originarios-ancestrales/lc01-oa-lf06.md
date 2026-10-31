@@ -568,7 +568,7 @@ Respuesta: No lo uso y pregunto de dónde viene
 *Comprensión*
 
 - **C1.** ¿Por qué una imagen recortada pierde información?
-- **C2.** ¿Qué es el contexto?
+- **C2.** En Lengua y Cultura: ¿Qué es el contexto?
 - **C3.** ¿Puedes poner un símbolo ancestral de fondo de pantalla sin preguntar?
 
 *Aplicación*

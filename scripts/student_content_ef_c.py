@@ -567,7 +567,7 @@ register(
             ex("Con el ejercicio, ¿tu cara se pone más roja o más blanca?", "Más roja", "Llega más sangre a la piel."),
         ],
         "understand": [
-            ex("¿Por qué respiras más rápido al correr?", "Para tomar más aire", "Los músculos lo necesitan."),
+            ex("En Educación Física: ¿Por qué respiras más rápido al correr?", "Para tomar más aire", "Los músculos lo necesitan."),
             ex("¿Es normal tener calor y sudar al hacer ejercicio?", "Sí", "Son respuestas normales."),
             ex("¿Qué significa dificultad al hablar?", "Me cuesta decir frases largas", "Es una señal de esfuerzo fuerte."),
         ],
