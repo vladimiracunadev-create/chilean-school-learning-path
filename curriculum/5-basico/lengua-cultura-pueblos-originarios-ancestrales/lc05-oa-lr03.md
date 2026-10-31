@@ -357,19 +357,19 @@ Respuesta: No, el texto no lo dice.
 *Comprensión*
 
 - **C1.** Texto de práctica «El camino a la escuela» (inventado): «Cada mañana, Lucas y sus vecinos caminan juntos por el camino de la quebrada. En el camino saludan con un «mari mari» a las personas mayores. En invierno, cuando el río crece, los vecinos avisan en la sede si el camino está cerrado. Después de la lluvia, todos limpian el camino con palas y rastrillos.» Verdadero o falso: el texto dice cuántos vecinos caminan con Lucas.
-- **C2.** Si el texto no explica por qué se usa un saludo, ¿qué escribo? A) “el texto no lo explica” B) una razón probable
+- **C2.** Si el texto no explica por qué se usa un saludo, ¿qué escribo? A) una razón probable B) “el texto no lo explica”
 - **C3.** Texto de práctica «El camino a la escuela» (inventado): «Cada mañana, Lucas y sus vecinos caminan juntos por el camino de la quebrada. En el camino saludan con un «mari mari» a las personas mayores. En invierno, cuando el río crece, los vecinos avisan en la sede si el camino está cerrado. Después de la lluvia, todos limpian el camino con palas y rastrillos.» ¿Qué avisan los vecinos en la sede: si el camino está cerrado o si hay fiesta?
 
 *Aplicación*
 
 - **A1.** Texto de práctica «El camino a la escuela» (inventado): «Cada mañana, Lucas y sus vecinos caminan juntos por el camino de la quebrada. En el camino saludan con un «mari mari» a las personas mayores. En invierno, cuando el río crece, los vecinos avisan en la sede si el camino está cerrado. Después de la lluvia, todos limpian el camino con palas y rastrillos.» Ordena: a) limpian el camino b) el río crece c) avisan en la sede. Escribe las letras.
 - **A2.** Texto de práctica «El camino a la escuela» (inventado): «Cada mañana, Lucas y sus vecinos caminan juntos por el camino de la quebrada. En el camino saludan con un «mari mari» a las personas mayores. En invierno, cuando el río crece, los vecinos avisan en la sede si el camino está cerrado. Después de la lluvia, todos limpian el camino con palas y rastrillos.» ¿Cuál afirmación está en el texto? A) saludan con un mari mari a las personas mayores B) usan lanchas para cruzar
-- **A3.** Texto de práctica «El camino a la escuela» (inventado): «Cada mañana, Lucas y sus vecinos caminan juntos por el camino de la quebrada. En el camino saludan con un «mari mari» a las personas mayores. En invierno, cuando el río crece, los vecinos avisan en la sede si el camino está cerrado. Después de la lluvia, todos limpian el camino con palas y rastrillos.» ¿Qué resumen es fiel al texto? A) Lucas y sus vecinos caminan juntos, avisan en la sede si el camino está cerrado y lo limpian después de la lluvia B) Lucas camina solo y nadie limpia el camino
+- **A3.** Texto de práctica «El camino a la escuela» (inventado): «Cada mañana, Lucas y sus vecinos caminan juntos por el camino de la quebrada. En el camino saludan con un «mari mari» a las personas mayores. En invierno, cuando el río crece, los vecinos avisan en la sede si el camino está cerrado. Después de la lluvia, todos limpian el camino con palas y rastrillos.» ¿Qué resumen es fiel al texto? A) Lucas camina solo y nadie limpia el camino B) Lucas y sus vecinos caminan juntos, avisan en la sede si el camino está cerrado y lo limpian después de la lluvia
 
 *Razonamiento y análisis*
 
 - **Z1.** Pedro dice: «En el texto se ve que los vecinos hacen una ceremonia con el saludo». ¿Está en el texto? Responde Sí o No.
-- **Z2.** La ficha reserva el nombre de la quebrada. Alguien pregunta cómo se llama. ¿Qué respuesta respeta el límite? A) «Ese dato no se publica» B) «Seguro es Quebrada Seca»
+- **Z2.** La ficha reserva el nombre de la quebrada. Alguien pregunta cómo se llama. ¿Qué respuesta respeta el límite? A) «Seguro es Quebrada Seca» B) «Ese dato no se publica»
 
 *Desafío*
 
@@ -394,13 +394,13 @@ Respuesta: No, el texto no lo dice.
 - **R2.** Por el camino de la quebrada. El texto lo dice.
 - **R3.** En invierno. El texto lo menciona.
 - **C1.** Falso. Solo dice «sus vecinos».
-- **C2.** A. Se declara el límite.
+- **C2.** B. Se declara el límite.
 - **C3.** Si el camino está cerrado. Es lo que dice el texto.
 - **A1.** b, c, a. Primero el río crece, luego avisan y después de la lluvia limpian.
 - **A2.** A. La B no aparece.
-- **A3.** A. La B cambia lo que dice el texto.
+- **A3.** B. La B cambia lo que dice el texto.
 - **Z1.** No. El texto solo dice que saludan.
-- **Z2.** A. La B inventa un nombre.
+- **Z2.** B. La B inventa un nombre.
 - **D1.** R1. La R2 agrega una frecuencia.
 - **D2.** Palas y rastrillos. El texto las menciona.
 - **S1.** A. Se respeta el límite.
@@ -565,7 +565,7 @@ Respuesta: Que comparte su trabajo con las niñas; el texto no dice por qué.
 
 *Comprensión*
 
-- **C1.** Un material es: A) una cosa con que se hace algo B) un lugar
+- **C1.** Un material es: A) un lugar B) una cosa con que se hace algo
 - **C2.** Verdadero o falso: puedo decir que tejer es una tradición de un pueblo si el texto no lo dice.
 - **C3.** Texto de práctica «Las manos de la tejedora» (inventado): «Doña Berta teje con lana de oveja en el patio de su casa. Primero lava la lana, después la hila y por último teje. Mientras trabaja, conversa con las niñas del barrio. Ella dice que tejer es cuidar el hilo entre todas.» ¿Qué dice doña Berta que es tejer: cuidar el hilo entre todas o ganar dinero?
 
@@ -587,13 +587,13 @@ Respuesta: Que comparte su trabajo con las niñas; el texto no dice por qué.
 
 *Situaciones auténticas*
 
-- **S1.** Una niña dice en clases que «cuidar el hilo entre todas» es una creencia antigua. No tiene fuente. ¿Qué le propones? A) preguntar a una persona que teje B) aceptarlo
+- **S1.** Una niña dice en clases que «cuidar el hilo entre todas» es una creencia antigua. No tiene fuente. ¿Qué le propones? A) aceptarlo B) preguntar a una persona que teje
 
 *Autoevaluación*
 
 - **E1.** Nombra las cuatro columnas de la tabla de análisis.
 - **E2.** Verdadero o falso: valorar es reconocer la importancia de algo con respeto.
-- **E3.** ¿Qué escribo si falta información? A) “el texto no dice” B) lo que supongo
+- **E3.** ¿Qué escribo si falta información? A) lo que supongo B) “el texto no dice”
 
 **Actividad abierta.** Lee «Después de la cosecha»: «Cuando termina la cosecha de papas, la comunidad se junta en la sede. Cada familia trae un canasto y lo comparte. Don Aníbal da las gracias a los vecinos por su trabajo. Los niños ayudan a repartir.» Haz una tabla de cuatro columnas: lugares, oficios o actividades, alimentos y formas de ayudarse, con al menos un dato en cada una. Escribe una frase con «El texto muestra que…» y una con «Me gustaría preguntar a la comunidad…». No expliques significados que el texto no da. Recuerda: lo tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.
 
@@ -602,7 +602,7 @@ Respuesta: Que comparte su trabajo con las niñas; el texto no dice por qué.
 - **R1.** Con lana de oveja. El texto lo dice.
 - **R2.** En el patio de su casa. El texto lo dice.
 - **R3.** Lava la lana. El texto da ese orden.
-- **C1.** A. Por ejemplo, la lana.
+- **C1.** B. Por ejemplo, la lana.
 - **C2.** Falso. Eso lo diría la comunidad.
 - **C3.** Cuidar el hilo entre todas. El texto lo dice.
 - **A1.** 1-c, 2-a, 3-b. Cada palabra corresponde a una categoría.
@@ -612,10 +612,10 @@ Respuesta: Que comparte su trabajo con las niñas; el texto no dice por qué.
 - **Z2.** Generaliza a todas las tejedoras. El texto habla de doña Berta.
 - **D1.** A. La B inventa.
 - **D2.** Lavar, hilar y tejer. Son los que cuenta.
-- **S1.** A. Una fuente puede explicar el sentido.
+- **S1.** B. Una fuente puede explicar el sentido.
 - **E1.** Lugares, oficios, materiales y formas de ayudarse. Son las categorías de la clase.
 - **E2.** Verdadero. Es su definición.
-- **E3.** A. Se declara el límite.
+- **E3.** B. Se declara el límite.
 
 **Actividad abierta · ejemplo de respuesta.** Lugares: la sede. Actividades: cosechar, repartir. Alimentos: papas. Formas de ayudarse: cada familia comparte un canasto; los niños ayudan a repartir. El texto muestra que la comunidad se junta y comparte después de la cosecha. Me gustaría preguntar a la comunidad cómo se organizan para repartir los canastos.
 
@@ -769,7 +769,7 @@ Respuesta: Generaliza; debe hablar de la comunidad del texto.
 
 - **R1.** Completa: «Según el texto “Después de la ___”, la comunidad se junta en la sede».
 - **R2.** Texto de práctica «Después de la cosecha» (inventado): «Cuando termina la cosecha de papas, la comunidad se junta en la sede. Cada familia trae un canasto y lo comparte. Don Aníbal da las gracias a los vecinos por su trabajo. Los niños ayudan a repartir.» ¿Qué trae cada familia?
-- **R3.** La evidencia es: A) una frase del texto que apoya lo que afirmo B) mi opinión
+- **R3.** La evidencia es: A) mi opinión B) una frase del texto que apoya lo que afirmo
 
 *Comprensión*
 
@@ -795,7 +795,7 @@ Respuesta: Generaliza; debe hablar de la comunidad del texto.
 
 *Situaciones auténticas*
 
-- **S1.** En una prueba te piden explicar qué muestra una expresión de un texto. ¿Qué haces? A) escribo fuente, expresión, lo que muestra, evidencia y límite B) escribo lo que sé de otros textos
+- **S1.** En una prueba te piden explicar qué muestra una expresión de un texto. ¿Qué haces? A) escribo lo que sé de otros textos B) escribo fuente, expresión, lo que muestra, evidencia y límite
 
 *Autoevaluación*
 
@@ -809,7 +809,7 @@ Respuesta: Generaliza; debe hablar de la comunidad del texto.
 
 - **R1.** cosecha. Es el título.
 - **R2.** Un canasto. El texto lo dice.
-- **R3.** A. Se encuentra en el texto.
+- **R3.** B. Se encuentra en el texto.
 - **C1.** Falso. El texto habla de una comunidad.
 - **C2.** A. El límite declara lo que no sabemos.
 - **C3.** A. Marca la voz propia.
@@ -820,7 +820,7 @@ Respuesta: Generaliza; debe hablar de la comunidad del texto.
 - **Z2.** Sí. Declara un límite del texto.
 - **D1.** R1. La R2 generaliza sin evidencia.
 - **D2.** A. El límite se respeta.
-- **S1.** A. Se responde con el texto.
+- **S1.** B. Se responde con el texto.
 - **E1.** Fuente, expresión, lo que muestra, evidencia y límite. Son las partes de la clase.
 - **E2.** Falso. Sale del texto.
 - **E3.** Verdadero. Declara el límite.
@@ -976,12 +976,12 @@ Respuesta: Ambos textos muestran personas que comparten con otras.
 
 - **R1.** Texto de práctica «Las manos de la tejedora» (inventado): «Doña Berta teje con lana de oveja en el patio de su casa. Primero lava la lana, después la hila y por último teje. Mientras trabaja, conversa con las niñas del barrio. Ella dice que tejer es cuidar el hilo entre todas.» ¿Qué oficio muestra «Las manos de la tejedora»?
 - **R2.** Texto de práctica «Después de la cosecha» (inventado): «Cuando termina la cosecha de papas, la comunidad se junta en la sede. Cada familia trae un canasto y lo comparte. Don Aníbal da las gracias a los vecinos por su trabajo. Los niños ayudan a repartir.» ¿Qué alimento se cosecha en «Después de la cosecha»?
-- **R3.** Contrastar es: A) ver semejanzas y diferencias B) elegir el mejor
+- **R3.** Contrastar es: A) elegir el mejor B) ver semejanzas y diferencias
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: «es más cultural» es una forma de jerarquizar.
-- **C2.** Si un criterio no aparece en un texto, ¿qué escribo? A) no se menciona B) lo que supongo
+- **C2.** Si un criterio no aparece en un texto, ¿qué escribo? A) lo que supongo B) no se menciona
 - **C3.** Verdadero o falso: dos textos pueden ser distintos y tener una semejanza.
 
 *Aplicación*
@@ -997,12 +997,12 @@ Respuesta: Ambos textos muestran personas que comparten con otras.
 
 *Desafío*
 
-- **D1.** Elige la comparación respetuosa: A) «En el primer texto el oficio es tejer; en el segundo, cosechar y compartir» B) «Tejer es menos importante que cosechar»
+- **D1.** Elige la comparación respetuosa: A) «Tejer es menos importante que cosechar» B) «En el primer texto el oficio es tejer; en el segundo, cosechar y compartir»
 - **D2.** ¿Qué criterio no aparece en «Las manos de la tejedora»: los materiales o los alimentos cosechados?
 
 *Situaciones auténticas*
 
-- **S1.** Dos estudiantes presentan textos de comunidades distintas y discuten cuál muestra mejor la cultura. ¿Qué propones? A) comparar qué muestra cada uno B) votar
+- **S1.** Dos estudiantes presentan textos de comunidades distintas y discuten cuál muestra mejor la cultura. ¿Qué propones? A) votar B) comparar qué muestra cada uno
 
 *Autoevaluación*
 
@@ -1016,18 +1016,18 @@ Respuesta: Ambos textos muestran personas que comparten con otras.
 
 - **R1.** Tejer. Es el oficio de doña Berta.
 - **R2.** Papas. El texto lo dice.
-- **R3.** A. Contrastar no pone un texto sobre otro.
+- **R3.** B. Contrastar no pone un texto sobre otro.
 - **C1.** Verdadero. Pone un texto sobre otro.
-- **C2.** A. No se inventa.
+- **C2.** B. No se inventa.
 - **C3.** Verdadero. Por ejemplo, ambos muestran que se comparte.
 - **A1.** A. Se comparan los lugares.
 - **A2.** 1-b, 2-a. Cada texto tiene su dato.
 - **A3.** A. Doña Berta conversa con niñas y los niños ayudan a repartir; solo un texto habla de cosecha.
 - **Z1.** Jerarquiza con un criterio ajeno. Cada texto muestra una forma de compartir.
 - **Z2.** A. Son dos textos inventados.
-- **D1.** A. La A describe.
+- **D1.** B. La A describe.
 - **D2.** Los alimentos cosechados. El texto menciona lana, no cosecha.
-- **S1.** A. Se contrasta sin jerarquizar.
+- **S1.** B. Se contrasta sin jerarquizar.
 - **E1.** Dos entre: lugar, actividad, materiales o alimentos, expresiones, forma de compartir. Son criterios de la clase.
 - **E2.** Falso. Se anota «no se menciona».
 - **E3.** Verdadero. Es la estructura.

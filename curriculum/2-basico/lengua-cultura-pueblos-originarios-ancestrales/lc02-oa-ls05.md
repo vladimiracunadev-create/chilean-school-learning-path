@@ -366,7 +366,7 @@ Respuesta: no lo uso hasta preguntar
 
 *Aplicación*
 
-- **A1.** Fichas inventadas: A) «Autoría: museo; Permiso: sí» B) «Autoría: ?; Permiso: ?». ¿Cuál elijo?
+- **A1.** Fichas inventadas: A) «Autoría: ?; Permiso: ?». ¿Cuál elijo B) «Autoría: museo; Permiso: sí»?
 - **A2.** Una ficha trae autoría, pueblo, para qué se hizo y permiso. ¿Cuántos datos tiene?
 - **A3.** Ficha: «Autoría: escuela; Pueblo: ?; Permiso: sí». ¿Qué dato falta?
 
@@ -400,7 +400,7 @@ Respuesta: no lo uso hasta preguntar
 - **C1.** Falso. Hay más riesgo de errores.
 - **C2.** el pueblo. La ficha dice de qué cultura habla.
 - **C3.** pregunto. Primero compruebo el permiso.
-- **A1.** A. A tiene los datos completos.
+- **A1.** B. A tiene los datos completos.
 - **A2.** 4. Los datos son autoría, pueblo, propósito y permiso.
 - **A3.** el pueblo. El pueblo tiene signo de pregunta.
 - **Z1.** quién lo hizo y si tiene permiso. Esos datos están en la ficha.
@@ -784,7 +784,7 @@ Respuesta: pedir permiso
 
 *Aplicación*
 
-- **A1.** Eliges la mejor forma de compartir: A) «Lo vi en un video del museo y aprendí esto.» B) «Esto lo sé yo.»
+- **A1.** Eliges la mejor forma de compartir: A) «Esto lo sé yo.» B) «Lo vi en un video del museo y aprendí esto.»
 - **A2.** Quieres agradecer. Elige: A) «Gracias por compartir el video.» B) «No me sirvió.»
 - **A3.** Quieres mostrar el video de la escuela a otro curso. ¿Qué hago primero: pido permiso o lo muestro?
 
@@ -818,7 +818,7 @@ Respuesta: pedir permiso
 - **C1.** Falso. Eso no respeta a las personas ni a la cultura.
 - **C2.** permiso. Se pide permiso.
 - **C3.** A. A dice de dónde lo aprendí.
-- **A1.** A. A cita la fuente.
+- **A1.** B. A cita la fuente.
 - **A2.** A. A agradece con respeto.
 - **A3.** pido permiso. Primero el permiso.
 - **Z1.** permiso de quien lo hizo. Hay que preguntar antes de publicar.

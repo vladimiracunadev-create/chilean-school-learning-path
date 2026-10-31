@@ -776,7 +776,7 @@ Respuesta: no grabar y agradecer
 
 *Aplicación*
 
-- **A1.** Elige la frase: A) «¿Puedo grabar tu voz para la clase?» B) «Voy a grabarte».
+- **A1.** Elige la frase: A) «Voy a grabarte» B) «¿Puedo grabar tu voz para la clase?».
 - **A2.** Escribe en orden: A) pido permiso B) grabo C) recibo un sí. Usa las 3 letras.
 - **A3.** Tienes un audio escuchado en clase. ¿Lo mandas a tu primo?
 
@@ -810,7 +810,7 @@ Respuesta: no grabar y agradecer
 - **C1.** decir sí sabiendo para qué es. Es aceptar con información.
 - **C2.** Verdadero. Mi voz es mía y no necesito permiso.
 - **C3.** porque el permiso fue para la clase. No tengo permiso para más.
-- **A1.** A. A pide permiso.
+- **A1.** B. A pide permiso.
 - **A2.** A, C, B. Pido permiso, recibo un sí y recién grabo.
 - **A3.** No. No tienes permiso.
 - **Z1.** Sí. El tiempo no cambia el permiso.

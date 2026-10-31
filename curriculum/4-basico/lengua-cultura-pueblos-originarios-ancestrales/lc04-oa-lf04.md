@@ -358,7 +358,7 @@ Respuesta: ruka nombra; pequeña caracteriza
 
 - **C1.** En «La ruka es grande.», ¿qué palabra nombra: ruka o grande?
 - **C2.** Verdadero o falso: «frío» es una palabra para caracterizar.
-- **C3.** ¿Cuál palabra sirve para caracterizar al ko: A) frío B) corre?
+- **C3.** ¿Cuál palabra sirve para caracterizar al ko: A) corre B) frío?
 
 *Aplicación*
 
@@ -369,7 +369,7 @@ Respuesta: ruka nombra; pequeña caracteriza
 *Razonamiento y análisis*
 
 - **Z1.** Dos oraciones: 1) «La ruka es grande.» 2) «La ruka es líquida.» ¿Cuál caracteriza con sentido?
-- **Z2.** Una persona dice que en lengua indígena «grande» se dice de una manera concreta y la inventa. ¿Qué debe hacer: A) preguntar al educador tradicional B) escribirlo igual?
+- **Z2.** Una persona dice que en lengua indígena «grande» se dice de una manera concreta y la inventa. ¿Qué debe hacer: A) escribirlo igual B) preguntar al educador tradicional?
 
 *Desafío*
 
@@ -395,12 +395,12 @@ Respuesta: ruka nombra; pequeña caracteriza
 - **R3.** ¿cómo es?. Esa pregunta pide cualidades.
 - **C1.** ruka. Ruka dice qué es.
 - **C2.** Verdadero. Dice cómo está el agua u otra cosa.
-- **C3.** A. «Corre» indica acción; «frío» dice cómo es.
+- **C3.** B. «Corre» indica acción; «frío» dice cómo es.
 - **A1.** tibio. Una cualidad del agua puede ser tibia; ladrillo no.
 - **A2.** pequeña. Una semilla puede ser pequeña, pero no líquida.
 - **A3.** 6. Multiplico las cosas por las cualidades. Cálculo: 3 × 2 = 6.
 - **Z1.** 1. Una casa puede ser grande, pero no líquida.
-- **Z2.** A. No puede inventar palabras de una lengua.
+- **Z2.** B. No puede inventar palabras de una lengua.
 - **D1.** 5. Resto las cualidades del agua del total. Cálculo: 9 − 4 = 5.
 - **D2.** El mapu es húmedo.. La tierra puede ser húmeda; no vuela.
 - **S1.** «El ko está frío.». Frío es una cualidad del agua.
@@ -557,13 +557,13 @@ Respuesta: brilla
 
 *Recuperación*
 
-- **R1.** Un modelo es: A) una oración que me muestra cómo hacer otra B) un dibujo.
+- **R1.** Un modelo es: A) un dibujo B) una oración que me muestra cómo hacer otra.
 - **R2.** En «El antü sale.», ¿cuál es la acción: antü o sale?
 - **R3.** ¿Qué acción combina con el agua: cae o ladra?
 
 *Comprensión*
 
-- **C1.** Modelo: «El antü sale.» ¿Qué oración sigue el modelo: A) «El ko cae.» B) «Cae el ko El.»
+- **C1.** Modelo: «El antü sale.» ¿Qué oración sigue el modelo: A) «Cae el ko El.» B) «El ko cae.»
 - **C2.** Verdadero o falso: una acción siempre combina con cualquier nombre.
 - **C3.** ¿Qué acción combina con una semilla: crece o brilla?
 
@@ -576,7 +576,7 @@ Respuesta: brilla
 *Razonamiento y análisis*
 
 - **Z1.** Dos oraciones sobre el sol: 1) «El antü brilla.» 2) «El antü ladra.» ¿Cuál tiene sentido?
-- **Z2.** Una persona dice que escribió una oración en lengua indígena con esas mismas palabras. ¿Qué es lo correcto: A) preguntar al educador tradicional si la forma es correcta B) darla por buena?
+- **Z2.** Una persona dice que escribió una oración en lengua indígena con esas mismas palabras. ¿Qué es lo correcto: A) darla por buena B) preguntar al educador tradicional si la forma es correcta?
 
 *Desafío*
 
@@ -597,17 +597,17 @@ Respuesta: brilla
 
 **Solucionario razonado**
 
-- **R1.** A. El modelo guía mi oración.
+- **R1.** B. El modelo guía mi oración.
 - **R2.** sale. Sale dice lo que hace el sol.
 - **R3.** cae. El agua cae; no ladra.
-- **C1.** A. Mantiene el orden artículo, nombre y acción.
+- **C1.** B. Mantiene el orden artículo, nombre y acción.
 - **C2.** Falso. Debe tener sentido con el nombre.
 - **C3.** crece. Una semilla crece.
 - **A1.** B, C, A. Forma «El ko cae.»
 - **A2.** El kuyen brilla.. Mantengo el artículo, el nombre y la acción.
 - **A3.** 12. Multiplico las oraciones por las palabras. Cálculo: 4 × 3 = 12.
 - **Z1.** 1. El sol brilla; no ladra.
-- **Z2.** A. No sabe cómo se forma una oración en esa lengua.
+- **Z2.** B. No sabe cómo se forma una oración en esa lengua.
 - **D1.** 3. Resto los llenos del total. Cálculo: 10 − 7 = 3.
 - **D2.** caracteriza. Dice cómo es la casa, no lo que hace.
 - **S1.** «El antü sale.». Sigue el modelo de una oración clara.
@@ -772,7 +772,7 @@ Respuesta: No; cambiar «corre» por «es grande»
 
 - **C1.** Verdadero o falso: revisar significa solo cambiar el color del lápiz.
 - **C2.** La ficha dice «ñuke». ¿Qué letra especial lleva al inicio: ñ o n?
-- **C3.** El contexto de una oración es: A) la situación en que la uso B) la cantidad de palabras.
+- **C3.** El contexto de una oración es: A) la cantidad de palabras B) la situación en que la uso.
 
 *Aplicación*
 
@@ -788,7 +788,7 @@ Respuesta: No; cambiar «corre» por «es grande»
 *Desafío*
 
 - **D1.** Tienes 12 oraciones y cada una requiere 3 revisiones: sentido, grafía y contexto. ¿Cuántas revisiones haces en total?
-- **D2.** Una persona dice que una palabra que escribió está bien porque suena igual. ¿Qué debe hacer: A) comparar con la ficha letra por letra B) fiarse del sonido?
+- **D2.** Una persona dice que una palabra que escribió está bien porque suena igual. ¿Qué debe hacer: A) fiarse del sonido B) comparar con la ficha letra por letra?
 
 *Situaciones auténticas*
 
@@ -809,14 +809,14 @@ Respuesta: No; cambiar «corre» por «es grande»
 - **R3.** ruka. La ficha escribe ruka con k.
 - **C1.** Falso. Revisar es corregir errores.
 - **C2.** ñ. La ficha escribe ñuke.
-- **C3.** A. El contexto es la situación.
+- **C3.** B. El contexto es la situación.
 - **A1.** no. Está escrita igual que en la ficha.
 - **A2.** sí. Es igual a la ficha.
 - **A3.** 2. Resto las bien escritas del total. Cálculo: 7 − 5 = 2.
 - **Z1.** Eva. Eva mantuvo la ñ.
 - **Z2.** A. El agua no ladra.
 - **D1.** 36. Multiplico oraciones por revisiones. Cálculo: 12 × 3 = 36.
-- **D2.** A. Una letra distinta puede cambiar la palabra.
+- **D2.** B. Una letra distinta puede cambiar la palabra.
 - **S1.** «comparo con la ficha y corrijo». Una letra mal copiada cambia la palabra.
 - **E1.** grafía. Eso es la grafía.
 - **E2.** con la ficha. La ficha trae la grafía exacta.

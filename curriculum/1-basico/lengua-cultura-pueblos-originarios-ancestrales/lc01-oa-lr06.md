@@ -781,7 +781,7 @@ Respuesta: usando solo mi propia voz
 
 *Aplicación*
 
-- **A1.** Quieres grabar a tu abuelo diciendo un saludo. Elige: A) «¿Puedo grabarte para la escuela?» B) lo grabas sin avisar.
+- **A1.** Quieres grabar a tu abuelo diciendo un saludo. Elige: A) lo grabas sin avisar B) «¿Puedo grabarte para la escuela?».
 - **A2.** Ordena: A) grabo B) pregunto C) recibo un sí. Escribe 3 letras.
 - **A3.** Tienes un audio de la escuela. ¿A quién le preguntas si lo puedes reproducir fuera de clase?
 
@@ -815,7 +815,7 @@ Respuesta: usando solo mi propia voz
 - **C1.** No. Su no se respeta.
 - **C2.** Verdadero. Es mi propia voz.
 - **C3.** porque son valiosas para su lengua. Contienen saber y voz de su pueblo.
-- **A1.** A. A pide consentimiento.
+- **A1.** B. A pide consentimiento.
 - **A2.** B, C, A. Primero pregunto, luego recibo un sí y después grabo.
 - **A3.** a mi profesor o profesora. Ella o él sabe qué permiso hay.
 - **Z1.** No. Aunque sea corto, se necesita consentimiento.

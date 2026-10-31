@@ -164,7 +164,7 @@ Respuesta: faltan el pueblo, el territorio, la fuente y la autorización
 *Razonamiento y análisis*
 
 - **Z1.** Un estudiante escribe: «En todas las comunidades indígenas hay una radio como la de Brisa». ¿Qué falla: generaliza o contradice la ficha? Escribe la que corresponde.
-- **Z2.** Quieres contar un uso de la lengua que viste en una sede, pero no sabes quién te lo contó. ¿Qué es mejor: A) contarlo igual o B) averiguar la fuente antes?
+- **Z2.** Quieres contar un uso de la lengua que viste en una sede, pero no sabes quién te lo contó. ¿Qué es mejor: A) averiguar la fuente antes o B) contarlo igual?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: faltan el pueblo, el territorio, la fuente y la autorización
 - **A2.** 3. Se restan los dos espacios con lectura o escritura. Cálculo: 5 − 2 = 3.
 - **A3.** B, C, A. Primero ubico pueblo y territorio, luego fuente y al final el uso.
 - **Z1.** generaliza. Una ficha no habla de todas las comunidades.
-- **Z2.** B. Sin fuente no se debe contar.
+- **Z2.** A. Sin fuente no se debe contar.
 - **D1.** la radio. La radio puede llegar a más personas que un grupo pequeño.
 - **D2.** No. Describen comunidades distintas.
 - **S1.** anotas quién es, de qué comunidad habla y si autoriza que lo cuentes. La fuente y el permiso se anotan.
@@ -577,12 +577,12 @@ Respuesta: el espacio pierde a una persona que practicaba
 
 - **A1.** Ficha de actitudes (de práctica): Actitudes que valoran la lengua: escuchar con atención, pedir permiso para anotar o grabar, agradecer a quien enseña, usar solo las palabras que la fuente enseñó, respetar el ritmo de quien está aprendiendo. Actitudes que no la valoran: burlarse de cómo alguien habla, exigir que alguien hable o hablarlo en su lugar, usar palabras sin permiso, decir que alguien no pertenece por hablar poco. Clasifica con V (valora) o N (no valora): 1) respetar el ritmo de quien aprende. 2) exigir que alguien hable. 3) agradecer a quien enseña. Escribe las tres letras.
 - **A2.** La ficha nombra 5 actitudes que valoran y 4 que no valoran. ¿Cuántas actitudes nombra en total?
-- **A3.** Elige la acción que cuida la transmisión: A) una abuela inventada enseña un saludo y un niño lo practica con paciencia. B) un niño se burla de cómo dice el saludo. Escribe la letra.
+- **A3.** Elige la acción que cuida la transmisión: A) un niño se burla de cómo dice el saludo. Escribe la letra B) una abuela inventada enseña un saludo y un niño lo practica con paciencia..
 
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si valoro la lengua, tengo que hablarla perfecto». Según la clase, ¿tiene razón? Sí o No.
-- **Z2.** Una niña escucha a un mayor que usa una palabra de la lengua. ¿Qué es mejor: A) agradecerle y preguntar con respeto cómo se usa o B) corregirle su forma de decirla?
+- **Z2.** Una niña escucha a un mayor que usa una palabra de la lengua. ¿Qué es mejor: A) corregirle su forma de decirla o B) agradecerle y preguntar con respeto cómo se usa?
 
 *Desafío*
 
@@ -611,9 +611,9 @@ Respuesta: el espacio pierde a una persona que practicaba
 - **C3.** Falso. También incluye historia, territorio y formas de vivir.
 - **A1.** 1 V, 2 N, 3 V. La 2 no respeta a la persona.
 - **A2.** 9. Se suman las dos listas. Cálculo: 5 + 4 = 9.
-- **A3.** A. En A hay transmisión respetuosa.
+- **A3.** B. En A hay transmisión respetuosa.
 - **Z1.** No. Valorar incluye escuchar, respetar y agradecer, no solo hablar.
-- **Z2.** A. El mayor es quien conoce el uso.
+- **Z2.** B. El mayor es quien conoce el uso.
 - **D1.** que la burla reduce el uso. Las personas dejan de practicar.
 - **D2.** A. B no pide permiso.
 - **S1.** le dices amablemente que pregunte al educador tradicional. Se respeta y se anima a aprender.

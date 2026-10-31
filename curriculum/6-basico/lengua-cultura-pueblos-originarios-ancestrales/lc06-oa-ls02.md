@@ -377,7 +377,7 @@ Respuesta: habla solo por su comunidad
 
 *Desafío*
 
-- **D1.** Exposición oral (inventada para practicar; la lee una persona adulta en voz alta): «Hoy hablaré del pueblo mapuche, que habla mapuzugun y vive sobre todo en el centro y sur de Chile. Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles y cada reunión comienza con un saludo, «mari mari». Ella cree que el taller ayuda a que las niñas y los niños se sientan parte de su comunidad. Aclara que habla solo por su comunidad. Yo pienso que los talleres son una buena forma de aprender.» Elige el mejor resumen. A) «Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles; ella habla solo por su comunidad». B) «Los mapuche hacen un taller de lengua los miércoles». Escribe la letra.
+- **D1.** Exposición oral (inventada para practicar; la lee una persona adulta en voz alta): «Hoy hablaré del pueblo mapuche, que habla mapuzugun y vive sobre todo en el centro y sur de Chile. Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles y cada reunión comienza con un saludo, «mari mari». Ella cree que el taller ayuda a que las niñas y los niños se sientan parte de su comunidad. Aclara que habla solo por su comunidad. Yo pienso que los talleres son una buena forma de aprender.» Elige el mejor resumen. A) «Los mapuche hacen un taller de lengua los miércoles». Escribe la letra B) «Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles; ella habla solo por su comunidad»..
 - **D2.** Tomaste 12 notas en una exposición. 3 son datos generales, 5 son datos de la fuente y 2 son opiniones. El resto son límites. ¿Cuántas notas son límites?
 
 *Situaciones auténticas*
@@ -405,7 +405,7 @@ Respuesta: habla solo por su comunidad
 - **A3.** B, C, A. Primero el dato general, luego el de la fuente y al final el límite.
 - **Z1.** No. La educadora habla solo por su comunidad.
 - **Z2.** un signo de pregunta para consultar. No se adivina la escritura de una palabra en lengua.
-- **D1.** A. Atribuye la información y mantiene el límite.
+- **D1.** B. Atribuye la información y mantiene el límite.
 - **D2.** 2. Se restan las otras notas del total. Cálculo: 12 − 3 − 5 − 2 = 2.
 - **S1.** lo separas en datos, opiniones y límites. Separar ayuda a no cambiar lo que dijo.
 - **E1.** 4. Datos generales, datos de la fuente, opiniones y límites.
@@ -785,7 +785,7 @@ Respuesta: La educadora aclaró que habla solo por su comunidad.
 *Aplicación*
 
 - **A1.** Ordena las partes del guion. A) límite. B) dato de la fuente con «según». C) saludo. D) importancia dicha por la fuente. E) presentación del pueblo. Escribe las letras en orden.
-- **A2.** Ficha de la fuente (inventada para practicar): Fuente: una educadora tradicional de la Escuela Ejemplo, pueblo mapuche. Permiso: puede contarse en la sala. Dijo: en su comunidad hay un taller de lengua los miércoles; cada reunión comienza con «mari mari»; el taller ayuda a que niñas y niños se sientan parte de su comunidad. Aclaró: habla solo por su comunidad. Elige la mejor oración de importancia. A) «Según la educadora, el taller ayuda a que niñas y niños se sientan parte de su comunidad». B) «El taller es la mejor forma de unir a los pueblos». Escribe la letra.
+- **A2.** Ficha de la fuente (inventada para practicar): Fuente: una educadora tradicional de la Escuela Ejemplo, pueblo mapuche. Permiso: puede contarse en la sala. Dijo: en su comunidad hay un taller de lengua los miércoles; cada reunión comienza con «mari mari»; el taller ayuda a que niñas y niños se sientan parte de su comunidad. Aclaró: habla solo por su comunidad. Elige la mejor oración de importancia. A) «El taller es la mejor forma de unir a los pueblos». Escribe la letra B) «Según la educadora, el taller ayuda a que niñas y niños se sientan parte de su comunidad»..
 - **A3.** Un guion debe tener 5 oraciones. Un grupo escribió 2 y escribirá otras 2 mañana. ¿Cuántas oraciones le faltarán todavía?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: La educadora aclaró que habla solo por su comunidad.
 - **C2.** 5. Saludo, pueblo, dato con según, importancia y límite.
 - **C3.** Falso. Se dice que no se sabe y se consulta.
 - **A1.** C, E, B, D, A. Se saluda, se presenta el pueblo, se cuenta el dato, se dice su importancia y se cierra con el límite.
-- **A2.** A. La A usa lo que dijo la fuente.
+- **A2.** B. La A usa lo que dijo la fuente.
 - **A3.** 1. Se restan las escritas y las que escribirá del total. Cálculo: 5 − 2 − 2 = 1.
 - **Z1.** No. La ficha no dice cuántos jóvenes participan.
 - **Z2.** con «yo pienso». Se distingue lo propio de lo que dijo la fuente.
@@ -1004,7 +1004,7 @@ Respuesta: jerarquiza
 
 *Desafío*
 
-- **D1.** Comunidad A (inventada para practicar), pueblo mapuche: reunión mensual en la sede; taller de lengua los miércoles; programa de radio los sábados. Comunidad B (inventada), pueblo aymara: reunión cada dos meses en la sede; taller de tejido los viernes; programa de radio los domingos. Cultura Ejemplo (inventada, de un país imaginario): feria de oficios el primer domingo del mes; taller de cerámica los jueves; programa de radio los lunes. Elige la mejor frase de cierre. A) «Las tres fichas tienen un programa de radio; cambian el día de la radio y el taller que ofrecen». B) «La ficha C es la mejor porque tiene feria». Escribe la letra.
+- **D1.** Comunidad A (inventada para practicar), pueblo mapuche: reunión mensual en la sede; taller de lengua los miércoles; programa de radio los sábados. Comunidad B (inventada), pueblo aymara: reunión cada dos meses en la sede; taller de tejido los viernes; programa de radio los domingos. Cultura Ejemplo (inventada, de un país imaginario): feria de oficios el primer domingo del mes; taller de cerámica los jueves; programa de radio los lunes. Elige la mejor frase de cierre. A) «La ficha C es la mejor porque tiene feria». Escribe la letra B) «Las tres fichas tienen un programa de radio; cambian el día de la radio y el taller que ofrecen»..
 - **D2.** Quieres comparar una comunidad real que visitaste con la comunidad A de la ficha. ¿Puedes usar los datos de la ficha para hablar de la comunidad real? Sí o No.
 
 *Situaciones auténticas*
@@ -1032,7 +1032,7 @@ Respuesta: jerarquiza
 - **A3.** 1 C, 2 J, 3 C. La frase 2 pone una ficha sobre otra.
 - **Z1.** un programa de radio. Las tres mencionan un programa de radio; la reunión y la feria no están en todas.
 - **Z2.** No. Son fichas de dos comunidades inventadas, no de pueblos enteros.
-- **D1.** A. Dice una semejanza y una diferencia con datos.
+- **D1.** B. Dice una semejanza y una diferencia con datos.
 - **D2.** No. La ficha es inventada y no describe a la comunidad real.
 - **S1.** que cuenten qué hace cada comunidad con los mismos criterios. Comparar con criterios evita jerarquizar.
 - **E1.** los mismos criterios. Así la comparación es justa.
@@ -1213,7 +1213,7 @@ Respuesta: dice que no lo sabe y que lo preguntará
 
 *Desafío*
 
-- **D1.** Dos finales posibles para una exposición. A) «Esto vale solo para la comunidad de mi fuente; lo revisé con la educadora tradicional». B) «Así son todos los pueblos». Escribe cuál respeta mejor los límites.
+- **D1.** Dos finales posibles para una exposición. A) «Así son todos los pueblos». Escribe cuál respeta mejor los límites B) «Esto vale solo para la comunidad de mi fuente; lo revisé con la educadora tradicional»..
 - **D2.** Descubres, antes de presentar, que citaste mal una palabra en lengua. ¿Qué haces: la dejas porque casi nadie lo notará o la corriges con ayuda del educador tradicional?
 
 *Situaciones auténticas*
@@ -1241,7 +1241,7 @@ Respuesta: dice que no lo sabe y que lo preguntará
 - **A3.** 1-B, 2-A. Mari mari saluda y chaltumay agradece.
 - **Z1.** No. Una ceremonia se cuenta solo con permiso de quienes la conducen.
 - **Z2.** No. Ana solo cuenta lo que dijo su fuente.
-- **D1.** A. Declara el alcance y la validación.
+- **D1.** B. Declara el alcance y la validación.
 - **D2.** la corriges con ayuda del educador tradicional. La validación sirve para corregir a tiempo.
 - **S1.** esperan a validarla. Antes de presentar se pide la validación.
 - **E1.** el momento en que le toca hablar a una persona. Así se definió.

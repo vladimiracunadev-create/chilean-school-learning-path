@@ -361,7 +361,7 @@ Respuesta: con la ñ
 *Comprensión*
 
 - **C1.** Modelo: «ñuke». Copias: A) nuke B) ñuke C) ñuque. ¿Cuál es igual al modelo?
-- **C2.** Modelo: «antü». Copias: A) antu B) antü. ¿Cuál es igual al modelo?
+- **C2.** Modelo: «antü». Copias: A) antü. ¿Cuál es igual al modelo B) antu?
 - **C3.** Verdadero o falso: «ñuke» y «nuke» son la misma escritura.
 
 *Aplicación*
@@ -398,7 +398,7 @@ Respuesta: con la ñ
 - **R2.** ü. La ü es la u con dos puntos.
 - **R3.** de la fuente. El modelo lo da la educadora, la ficha o el libro.
 - **C1.** B. B tiene la ñ y las letras en el mismo orden.
-- **C2.** B. La ü lleva dos puntos en el modelo.
+- **C2.** A. La ü lleva dos puntos en el modelo.
 - **C3.** Falso. La ñ es una letra distinta de la n.
 - **A1.** kuyen, 5 letras. k, u, y, e, n son cinco letras.
 - **A2.** 4. ñ, u, k, e son cuatro letras.
@@ -577,7 +577,7 @@ Respuesta: mayúscula al inicio y punto al final
 
 - **A1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Completa la frase: «De noche veo la «____» en el cielo». Elige la palabra de la ficha que significa luna.
 - **A2.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Ordena las palabras para formar una frase: «brilla» / «El» / «antü». Escribe la frase con «antü» entre comillas.
-- **A3.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Elige la frase correcta: A) «Plantamos un árbol en la «mapu»». B) «Plantamos un árbol en el «ko»».
+- **A3.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Elige la frase correcta: A) «Plantamos un árbol en el «ko»» B) «Plantamos un árbol en la «mapu»»..
 
 *Razonamiento y análisis*
 
@@ -586,7 +586,7 @@ Respuesta: mayúscula al inicio y punto al final
 
 *Desafío*
 
-- **D1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Elige la frase bien escrita: A) mi «ruka» es pequeña B) Mi «ruka» es pequeña.
+- **D1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Elige la frase bien escrita: A) Mi «ruka» es pequeña B) mi «ruka» es pequeña.
 - **D2.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. La frase «Por la mañana el «____» sale y yo salgo al patio» se completa con la palabra del sol. ¿Cuál es?
 
 *Situaciones auténticas*
@@ -611,10 +611,10 @@ Respuesta: mayúscula al inicio y punto al final
 - **C3.** mi madre. «Ñuke» significa madre.
 - **A1.** kuyen. La ficha dice que «kuyen» es luna.
 - **A2.** El «antü» brilla.. Empieza con mayúscula, tiene la palabra de la ficha y termina con punto.
-- **A3.** A. «Mapu» es tierra y el árbol se planta en la tierra.
+- **A3.** B. «Mapu» es tierra y el árbol se planta en la tierra.
 - **Z1.** 3. Le faltan la mayúscula, las comillas en «ñuke» y el punto.
 - **Z2.** No. «Antü» es sol; para la sed va «ko», que es agua.
-- **D1.** B. B empieza con mayúscula, tiene «ruka» entre comillas y termina con punto.
+- **D1.** A. B empieza con mayúscula, tiene «ruka» entre comillas y termina con punto.
 - **D2.** antü. «Antü» es el sol, que sale por la mañana.
 - **S1.** ko. La ficha dice que «ko» es agua.
 - **E1.** mayúscula y punto. La oración empieza con letra grande y termina con punto.

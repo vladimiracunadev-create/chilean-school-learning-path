@@ -145,7 +145,7 @@ Respuesta: No.
 
 - **R1.** Ficha de registro (inventada). Qué se registra: la narración de Tomás sobre la limpieza de la vertiente. Recurso: grabadora de voz, usada por un adulto de la escuela. Quién autoriza: doña Clara, de la comunidad Lomas del Sur (inventada). Dónde se guarda: en la computadora de la escuela, en una carpeta con acceso del curso. Con quién se comparte: solo con el curso y la comunidad. Límite: no se registra a ninguna persona sin su permiso ni el lugar de respeto de la comunidad. ¿Qué recurso se usa?
 - **R2.** Ficha de registro (inventada). Qué se registra: la narración de Tomás sobre la limpieza de la vertiente. Recurso: grabadora de voz, usada por un adulto de la escuela. Quién autoriza: doña Clara, de la comunidad Lomas del Sur (inventada). Dónde se guarda: en la computadora de la escuela, en una carpeta con acceso del curso. Con quién se comparte: solo con el curso y la comunidad. Límite: no se registra a ninguna persona sin su permiso ni el lugar de respeto de la comunidad. ¿Con quién se comparte el registro: con el curso y la comunidad o con todo internet?
-- **R3.** Registrar siempre se hace: A) con una persona adulta y con permiso B) a escondidas
+- **R3.** Registrar siempre se hace: A) a escondidas B) con una persona adulta y con permiso
 
 *Comprensión*
 
@@ -167,7 +167,7 @@ Respuesta: No.
 *Desafío*
 
 - **D1.** Dos fichas. F1: tiene recurso, autorización y límite. F2: solo tiene recurso. ¿Con cuál puedes registrar?
-- **D2.** Si no sabes si un lugar es de respeto para la comunidad, ¿qué haces antes de fotografiarlo? A) pregunto a la comunidad B) lo fotografío igual
+- **D2.** Si no sabes si un lugar es de respeto para la comunidad, ¿qué haces antes de fotografiarlo? A) lo fotografío igual B) pregunto a la comunidad
 
 *Situaciones auténticas*
 
@@ -185,7 +185,7 @@ Respuesta: No.
 
 - **R1.** Una grabadora de voz. La ficha lo indica.
 - **R2.** Con el curso y la comunidad. Así lo indica la ficha.
-- **R3.** A. Es la regla de la clase.
+- **R3.** B. Es la regla de la clase.
 - **C1.** Falso. Siempre se pide permiso.
 - **C2.** A. Sitúa y protege el registro.
 - **C3.** Falso. Son parte de los límites.
@@ -195,7 +195,7 @@ Respuesta: No.
 - **Z1.** A. La ficha dice con quién se comparte.
 - **Z2.** A. Cada persona decide si se registra.
 - **D1.** Con la F1. La F2 no tiene permiso ni límite.
-- **D2.** A. La comunidad dice qué se registra.
+- **D2.** B. La comunidad dice qué se registra.
 - **S1.** A. El permiso va antes.
 - **E1.** Tres entre: qué se registra, recurso, quién autoriza, dónde se guarda, con quién se comparte, límite. Son datos de la ficha.
 - **E2.** Falso. Se pide permiso a las personas y a la comunidad.
@@ -357,13 +357,13 @@ Respuesta: No, el guion no lo dice.
 *Comprensión*
 
 - **C1.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» Verdadero o falso: el guion dice cuántas familias participaron.
-- **C2.** Un registro bien hecho: A) respeta a las personas y cumple la ficha B) dura mucho
+- **C2.** Un registro bien hecho: A) dura mucho B) respeta a las personas y cumple la ficha
 - **C3.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» ¿A quién agradece Tomás al final?
 
 *Aplicación*
 
 - **A1.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» Ordena: a) compartieron pan b) se juntaron c) llevaron palas. Escribe las letras.
-- **A2.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» ¿Cuál afirmación está en el guion? A) la tarea se hace cada primavera B) la tarea se hace cada verano
+- **A2.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» ¿Cuál afirmación está en el guion? A) la tarea se hace cada verano B) la tarea se hace cada primavera
 - **A3.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» Revisa con la ficha: «no se registra a ninguna persona sin su permiso». ¿Cumple el guion con la autorización de doña Clara? Responde Sí o No.
 
 *Razonamiento y análisis*
@@ -374,11 +374,11 @@ Respuesta: No, el guion no lo dice.
 *Desafío*
 
 - **D1.** Dos lecturas del guion. L1: «Tomás cuenta que cada familia llevó una pala». L2: «Tomás cuenta que cada familia llevó 3 palas». ¿Cuál es fiel?
-- **D2.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» Si el guion no dice la fecha exacta, ¿qué respondes si te preguntan? A) «El registro no la dice» B) «Fue el 15 de septiembre»
+- **D2.** Guion de registro de práctica (inventado): «Hola, me llamo Tomás y hoy es un día de ejemplo. Estoy en la sede de la comunidad Lomas del Sur (inventada). Voy a contar la limpieza de la vertiente. Primero nos juntamos a las nueve de la mañana. Luego cada familia llevó una pala. Doña Clara contó que esta tarea se hace cada primavera. Después compartimos pan. Gracias a doña Clara por autorizarme a contarlo.» Si el guion no dice la fecha exacta, ¿qué respondes si te preguntan? A) «Fue el 15 de septiembre» B) «El registro no la dice»
 
 *Situaciones auténticas*
 
-- **S1.** Al escuchar un registro de la comunidad, alguien menciona un nombre de persona que no pidió salir. ¿Qué haces? A) aviso a un adulto para que lo retire con la persona responsable B) lo comento con todo el curso
+- **S1.** Al escuchar un registro de la comunidad, alguien menciona un nombre de persona que no pidió salir. ¿Qué haces? A) lo comento con todo el curso B) aviso a un adulto para que lo retire con la persona responsable
 
 *Autoevaluación*
 
@@ -394,16 +394,16 @@ Respuesta: No, el guion no lo dice.
 - **R2.** Cada primavera. El guion lo dice.
 - **R3.** Pan. El guion lo menciona.
 - **C1.** Falso. No lo menciona.
-- **C2.** A. Eso lo hace correcto.
+- **C2.** B. Eso lo hace correcto.
 - **C3.** A doña Clara. El guion termina agradeciéndole a ella.
 - **A1.** b, c, a. El guion sigue ese orden.
-- **A2.** A. La B no aparece.
+- **A2.** B. La B no aparece.
 - **A3.** Sí. Tomás agradece a doña Clara por autorizarlo.
 - **Z1.** A. Esa parte no debía registrarse.
 - **Z2.** Generaliza lo que dice un registro. El guion habla de una comunidad.
 - **D1.** L1. L2 agrega un dato.
-- **D2.** A. No se inventan datos.
-- **S1.** A. Se protege a la persona.
+- **D2.** B. No se inventan datos.
+- **S1.** B. Se protege a la persona.
 - **E1.** Lo que dice, lo que no dice y lo que no debía registrarse. Son los límites de la lectura.
 - **E2.** En la sede de Lomas del Sur. El guion lo dice.
 - **E3.** Falso. Se dice que no lo dice.
@@ -557,7 +557,7 @@ Respuesta: La cámara de fotos (con permiso).
 
 *Recuperación*
 
-- **R1.** Para guardar la voz de una persona eliges: A) una grabadora de voz B) una cámara de fotos
+- **R1.** Para guardar la voz de una persona eliges: A) una cámara de fotos B) una grabadora de voz
 - **R2.** Para guardar cómo se ve una planta eliges: A) una cámara de fotos B) una grabadora
 - **R3.** Para escribir una lista de pasos eliges: A) un procesador de textos B) una cámara
 
@@ -570,7 +570,7 @@ Respuesta: La cámara de fotos (con permiso).
 *Aplicación*
 
 - **A1.** Une cada propósito con el recurso. 1) guardar una narración 2) mostrar cómo se ve un telar 3) escribir los pasos. a) cámara b) grabadora c) procesador de textos
-- **A2.** Quieres explicar a tu curso cómo se hace una práctica de la comunidad con fotos y frases. ¿Qué recurso eliges? A) una presentación B) solo una grabadora
+- **A2.** Quieres explicar a tu curso cómo se hace una práctica de la comunidad con fotos y frases. ¿Qué recurso eliges? A) solo una grabadora B) una presentación
 - **A3.** Una persona mayor cuenta un acontecimiento de la comunidad y no quiere salir en fotos, pero acepta la grabación de voz. ¿Qué usas?
 
 *Razonamiento y análisis*
@@ -580,8 +580,8 @@ Respuesta: La cámara de fotos (con permiso).
 
 *Desafío*
 
-- **D1.** Quieres guardar los pasos de una práctica de la comunidad: ¿qué conjunto es más completo? A) fotos con frases y una narración de voz B) solo una foto
-- **D2.** Si un recurso no es adecuado para lo que la comunidad autorizó, ¿qué haces? A) elijo otro o no registro B) lo uso igual
+- **D1.** Quieres guardar los pasos de una práctica de la comunidad: ¿qué conjunto es más completo? A) solo una foto B) fotos con frases y una narración de voz
+- **D2.** Si un recurso no es adecuado para lo que la comunidad autorizó, ¿qué haces? A) lo uso igual B) elijo otro o no registro
 
 *Situaciones auténticas*
 
@@ -597,19 +597,19 @@ Respuesta: La cámara de fotos (con permiso).
 
 **Solucionario razonado**
 
-- **R1.** A. La grabadora guarda sonidos.
+- **R1.** B. La grabadora guarda sonidos.
 - **R2.** A. La cámara guarda imágenes.
 - **R3.** A. El procesador de textos guarda textos.
 - **C1.** Verdadero. Guarda las palabras y la voz.
 - **C2.** Falso. La comunidad decide qué se guarda.
 - **C3.** Ella. Yo ayudo con el recurso.
 - **A1.** 1-b, 2-a, 3-c. Cada recurso guarda algo distinto.
-- **A2.** A. Junta imágenes y textos.
+- **A2.** B. Junta imágenes y textos.
 - **A3.** La grabadora de voz. Respeta su decisión.
 - **Z1.** Cambia lo que ella dijo. La voz debe quedar tal como se dijo.
 - **Z2.** A. La validación la hace el educador.
-- **D1.** A. Muestra y cuenta.
-- **D2.** A. El permiso manda.
+- **D1.** B. Muestra y cuenta.
+- **D2.** B. El permiso manda.
 - **S1.** A. La voz es lo que importa.
 - **E1.** Cómo se ve algo. La cámara guarda imágenes de lo que se ve.
 - **E2.** Verdadero. Por eso no se agregan.
@@ -766,7 +766,7 @@ Respuesta: «Hoy fuimos a limpiar la vertiente».
 *Recuperación*
 
 - **R1.** La primera parte de un guion es: A) la presentación B) el cierre
-- **R2.** El agradecimiento va: A) al final B) al comienzo
+- **R2.** El agradecimiento va: A) al comienzo B) al final
 - **R3.** Una dirección de casa es: A) un dato privado B) un dato que siempre se comparte
 
 *Comprensión*
@@ -779,7 +779,7 @@ Respuesta: «Hoy fuimos a limpiar la vertiente».
 
 - **A1.** Ordena las partes del guion: a) agradezco b) narro c) me presento d) atribuyo lo que me contaron. Escribe las letras.
 - **A2.** Borrador: «Mi amiga Ana, que vive en Pasaje Sur 45, dijo que sí». ¿Qué dato debes quitar?
-- **A3.** ¿Qué tres datos da la presentación de un guion? A) quién habla, qué día es y dónde está B) qué se come, qué se lleva y quién gana
+- **A3.** ¿Qué tres datos da la presentación de un guion? A) qué se come, qué se lleva y quién gana B) quién habla, qué día es y dónde está
 
 *Razonamiento y análisis*
 
@@ -789,7 +789,7 @@ Respuesta: «Hoy fuimos a limpiar la vertiente».
 *Desafío*
 
 - **D1.** Dos cierres. C1: «Gracias a doña Clara por autorizarme». C2: «Gracias por escucharme». ¿Cuál cumple lo que pide el guion?
-- **D2.** Si no estás seguro de un dato de la comunidad, ¿qué escribes en el guion? A) «No lo sé; lo consultaré» B) un dato probable
+- **D2.** Si no estás seguro de un dato de la comunidad, ¿qué escribes en el guion? A) un dato probable B) «No lo sé; lo consultaré»
 
 *Situaciones auténticas*
 
@@ -806,18 +806,18 @@ Respuesta: «Hoy fuimos a limpiar la vertiente».
 **Solucionario razonado**
 
 - **R1.** A. Se empieza diciendo quién, cuándo y dónde.
-- **R2.** A. Está en el cierre.
+- **R2.** B. Está en el cierre.
 - **R3.** A. No se comparte.
 - **C1.** A. La A dice de quién viene.
 - **C2.** Falso. Se cuenta lo que vi o me contaron.
 - **C3.** Verdadero. Es parte del cierre.
 - **A1.** c, b, d, a. Presentación, narración, atribución y cierre.
 - **A2.** La dirección de Ana. Es un dato privado.
-- **A3.** A. La presentación dice quién, cuándo y dónde.
+- **A3.** B. La presentación dice quién, cuándo y dónde.
 - **Z1.** Inventa un significado que nadie dio. Solo la comunidad dice qué es sagrado.
 - **Z2.** A. La persona que autorizó debe revisarlo.
 - **D1.** C1. Agradece a quien autorizó.
-- **D2.** A. No se inventan datos.
+- **D2.** B. No se inventan datos.
 - **S1.** A. El guion cuida el respeto.
 - **E1.** Presentación, narración, atribución y cierre. Son las partes de la clase.
 - **E2.** Falso. Es un dato privado.
@@ -972,7 +972,7 @@ Respuesta: Lo guardo donde indica la ficha y lo devuelvo mostrándolo.
 
 *Recuperación*
 
-- **R1.** El audio conserva: A) la voz y las pausas B) los colores
+- **R1.** El audio conserva: A) los colores B) la voz y las pausas
 - **R2.** La foto conserva: A) cómo se ve algo en un instante B) lo que se dijo
 - **R3.** Devolver un registro significa: A) mostrarlo a la comunidad B) borrarlo
 
@@ -980,13 +980,13 @@ Respuesta: Lo guardo donde indica la ficha y lo devuelvo mostrándolo.
 
 - **C1.** Verdadero o falso: el texto conserva la voz de quien habló.
 - **C2.** Verdadero o falso: un recurso puede ser mejor en todo.
-- **C3.** ¿Qué es la reciprocidad? A) dar de vuelta a quien nos dio B) guardar todo para mí
+- **C3.** ¿Qué es la reciprocidad? A) guardar todo para mí B) dar de vuelta a quien nos dio
 
 *Aplicación*
 
 - **A1.** Compara con el criterio «qué no conserva». Audio: no muestra gestos. Foto: ___. Completa con una opción: A) no cuenta lo que ocurrió antes ni después B) no muestra nada
 - **A2.** Une cada recurso con un riesgo. 1) audio o foto de una persona 2) texto copiado. a) puede cambiar las palabras b) puede mostrar a alguien sin permiso
-- **A3.** Quieres guardar los pasos exactos de una práctica y también cómo se ve. ¿Qué combinas? A) texto y fotos B) solo audio
+- **A3.** Quieres guardar los pasos exactos de una práctica y también cómo se ve. ¿Qué combinas? A) solo audio B) texto y fotos
 
 *Razonamiento y análisis*
 
@@ -996,7 +996,7 @@ Respuesta: Lo guardo donde indica la ficha y lo devuelvo mostrándolo.
 *Desafío*
 
 - **D1.** Elige la comparación respetuosa: A) «El audio conserva la voz; el texto conserva el orden de los datos» B) «El texto es más serio que el audio»
-- **D2.** Si el registro tiene una parte con una persona que no quiere salir, ¿qué debes hacer antes de devolverlo? A) quitar esa parte B) avisar a todos
+- **D2.** Si el registro tiene una parte con una persona que no quiere salir, ¿qué debes hacer antes de devolverlo? A) avisar a todos B) quitar esa parte
 
 *Situaciones auténticas*
 
@@ -1012,19 +1012,19 @@ Respuesta: Lo guardo donde indica la ficha y lo devuelvo mostrándolo.
 
 **Solucionario razonado**
 
-- **R1.** A. El audio guarda sonidos.
+- **R1.** B. El audio guarda sonidos.
 - **R2.** A. La foto guarda una imagen.
 - **R3.** A. Es una forma de reciprocidad.
 - **C1.** Falso. El texto conserva datos y orden, no la voz.
 - **C2.** Falso. Cada uno sirve para cosas distintas.
-- **C3.** A. La comunidad nos enseñó y le devolvemos.
+- **C3.** B. La comunidad nos enseñó y le devolvemos.
 - **A1.** A. Una foto es un instante.
 - **A2.** 1-b, 2-a. Cada recurso tiene un riesgo distinto.
-- **A3.** A. Texto y fotos se complementan entre sí.
+- **A3.** B. Texto y fotos se complementan entre sí.
 - **Z1.** Jerarquiza sin comparar lo que conserva cada recurso. Cada recurso conserva algo distinto.
 - **Z2.** A. La comunidad decide.
 - **D1.** A. La A describe lo que conserva.
-- **D2.** A. Se respeta su decisión.
+- **D2.** B. Se respeta su decisión.
 - **S1.** A. La ficha manda.
 - **E1.** Qué conserva, qué no conserva, qué riesgos tiene o quién puede usarlo. Son criterios de la clase.
 - **E2.** Verdadero. Devolver es una forma de reciprocidad.

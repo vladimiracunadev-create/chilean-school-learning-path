@@ -143,8 +143,8 @@ Respuesta: Sí, solo para el aula
 
 *Recuperación*
 
-- **R1.** El propósito es: A) para qué registro B) con qué lápiz registro.
-- **R2.** La autorización es: A) el permiso claro B) el nombre del archivo.
+- **R1.** El propósito es: A) con qué lápiz registro B) para qué registro.
+- **R2.** La autorización es: A) el nombre del archivo B) el permiso claro.
 - **R3.** La fuente es: A) quien cuenta o vive la experiencia B) el aparato.
 
 *Comprensión*
@@ -162,7 +162,7 @@ Respuesta: Sí, solo para el aula
 *Razonamiento y análisis*
 
 - **Z1.** Eva pidió permiso a su profesora para registrar la clase de huerta. Gaspar registró sin avisar. ¿Quién cumplió con la autorización?
-- **Z2.** Una persona quiere registrar un saber de la comunidad. ¿A quién consulta primero: A) al educador tradicional B) a nadie?
+- **Z2.** Una persona quiere registrar un saber de la comunidad. ¿A quién consulta primero: A) a nadie B) al educador tradicional?
 
 *Desafío*
 
@@ -183,8 +183,8 @@ Respuesta: Sí, solo para el aula
 
 **Solucionario razonado**
 
-- **R1.** A. Propósito es el motivo.
-- **R2.** A. Autorización es permiso.
+- **R1.** B. Propósito es el motivo.
+- **R2.** B. Autorización es permiso.
 - **R3.** A. La fuente es la persona o el grupo.
 - **C1.** Falso. Siempre pido autorización.
 - **C2.** no. Sin autorización no se registra.
@@ -193,7 +193,7 @@ Respuesta: Sí, solo para el aula
 - **A2.** 2. Resto las autorizadas del total. Cálculo: 5 − 3 = 2.
 - **A3.** cómo se riega la huerta. Debe coincidir con el propósito.
 - **Z1.** Eva. Eva pidió permiso.
-- **Z2.** A. Él o ella dice qué se puede registrar.
+- **Z2.** B. Él o ella dice qué se puede registrar.
 - **D1.** 9. Resto las registradas. Cálculo: 12 − 3 = 9.
 - **D2.** no. La autorización limita el uso al aula.
 - **S1.** «defino el propósito y pido autorización». Son los pasos previos.
@@ -357,7 +357,7 @@ Respuesta: Un dibujo
 *Comprensión*
 
 - **C1.** Verdadero o falso: un dibujo en papel es un registro válido.
-- **C2.** El acceso es: A) si lo puedo usar B) si es bonito.
+- **C2.** El acceso es: A) si es bonito B) si lo puedo usar.
 - **C3.** Si no hay batería, ¿elijo un audio o un texto en papel?
 
 *Aplicación*
@@ -394,7 +394,7 @@ Respuesta: Un dibujo
 - **R2.** dibujo. El dibujo se hace en papel.
 - **R3.** la foto. Una foto puede mostrar rostros.
 - **C1.** Verdadero. Cualquier medio válido sirve.
-- **C2.** A. Acceso es poder usarlo.
+- **C2.** B. Acceso es poder usarlo.
 - **C3.** un texto en papel. El audio necesita batería.
 - **A1.** dibujo y texto. Los de papel no necesitan aparato.
 - **A2.** 5. Divido el tiempo total por la duración de cada audio. Cálculo: 10 ÷ 2 = 5.
@@ -558,7 +558,7 @@ Respuesta: Quitar el nombre completo
 *Recuperación*
 
 - **R1.** ¿Una dirección es un dato personal: sí o no?
-- **R2.** Un saber restringido es: A) uno que la comunidad decidió no compartir B) uno que todos conocen.
+- **R2.** Un saber restringido es: A) uno que todos conocen B) uno que la comunidad decidió no compartir.
 - **R3.** ¿Una cara en una foto puede ser un dato personal: sí o no?
 
 *Comprensión*
@@ -571,12 +571,12 @@ Respuesta: Quitar el nombre completo
 
 - **A1.** Lista: 1) nombre completo 2) un nombre inventado 3) dirección 4) «una vecina». ¿Cuáles puedo incluir? Escribe los números.
 - **A2.** Un registro tiene 8 datos y 3 son personales. ¿Cuántos puedes dejar?
-- **A3.** Revisaste tu registro y encontraste una dirección. ¿Qué haces: A) la quito y vuelvo a revisar B) lo registro igual?
+- **A3.** Revisaste tu registro y encontraste una dirección. ¿Qué haces: A) lo registro igual B) la quito y vuelvo a revisar?
 
 *Razonamiento y análisis*
 
 - **Z1.** Dos guiones. Eva: «Una vecina nos enseñó a regar». Gaspar: «Rosa Pérez, de calle Uno 123, nos enseñó». ¿Cuál protege los datos?
-- **Z2.** Una persona conoce un saber de su comunidad y quiere registrarlo para su cuaderno. ¿Qué hace primero: A) consultar al educador tradicional B) registrarlo?
+- **Z2.** Una persona conoce un saber de su comunidad y quiere registrarlo para su cuaderno. ¿Qué hace primero: A) registrarlo B) consultar al educador tradicional?
 
 *Desafío*
 
@@ -598,16 +598,16 @@ Respuesta: Quitar el nombre completo
 **Solucionario razonado**
 
 - **R1.** sí. Identifica una casa.
-- **R2.** A. Restringido es no compartido.
+- **R2.** B. Restringido es no compartido.
 - **R3.** sí. Identifica a una persona.
 - **C1.** Verdadero. Los nombres inventados protegen.
 - **C2.** lo trato como restringido. Es más seguro y respetuoso.
 - **C3.** al educador tradicional. Él o ella orienta.
 - **A1.** 2 y 4. No identifican a nadie.
 - **A2.** 5. Quito los personales. Cálculo: 8 − 3 = 5.
-- **A3.** A. Un dato personal que falla se quita antes de registrar.
+- **A3.** B. Un dato personal que falla se quita antes de registrar.
 - **Z1.** el de Eva. No identifica a nadie.
-- **Z2.** A. Puede ser restringido.
+- **Z2.** B. Puede ser restringido.
 - **D1.** 6. Resto los seguros del total. Cálculo: 15 − 9 = 6.
 - **D2.** A. Nadie está obligado a contar cosas privadas.
 - **S1.** «una vecina nos enseñó». No expone datos personales.
@@ -764,14 +764,14 @@ Respuesta: Lo borro
 
 *Recuperación*
 
-- **R1.** Almacenar es: A) guardar en un lugar seguro B) tirar a la basura.
+- **R1.** Almacenar es: A) tirar a la basura B) guardar en un lugar seguro.
 - **R2.** Un buen nombre de archivo incluye tema y...
 - **R3.** Si una persona pide borrar su registro, ¿lo borro o lo guardo igual?
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: el nombre completo de un niño puede ir en el título del archivo.
-- **C2.** El contexto de un registro dice: A) cuándo y dónde pasó B) cuántos colores usé.
+- **C2.** El contexto de un registro dice: A) cuántos colores usé B) cuándo y dónde pasó.
 - **C3.** Un registro dice «Ayer, en el patio, el curso regó la huerta». ¿Qué parte de la revisión cubre «ayer, en el patio»: el contexto o el almacenamiento?
 
 *Aplicación*
@@ -783,7 +783,7 @@ Respuesta: Lo borro
 *Razonamiento y análisis*
 
 - **Z1.** Eva guardó su registro en un lugar que autorizó el adulto. Gaspar lo dejó en cualquier parte. ¿Quién almacenó mejor?
-- **Z2.** Una persona agrega al registro una palabra en lengua indígena que no está en la ficha. ¿Qué falta: A) la confirmación del educador tradicional B) más color?
+- **Z2.** Una persona agrega al registro una palabra en lengua indígena que no está en la ficha. ¿Qué falta: A) más color B) la confirmación del educador tradicional?
 
 *Desafío*
 
@@ -804,17 +804,17 @@ Respuesta: Lo borro
 
 **Solucionario razonado**
 
-- **R1.** A. Almacenar es guardar.
+- **R1.** B. Almacenar es guardar.
 - **R2.** fecha. Tema y fecha ordenan el registro.
 - **R3.** lo borro. Respeto su decisión.
 - **C1.** Falso. Es un dato personal.
-- **C2.** A. Contexto es situación.
+- **C2.** B. Contexto es situación.
 - **C3.** el contexto. El contexto dice cuándo y dónde pasó la experiencia.
 - **A1.** autoría. La autoría dice quién hizo el registro.
 - **A2.** 2. Resto los guardados del total. Cálculo: 6 − 4 = 2.
 - **A3.** tema y fecha. Esos datos están en el título.
 - **Z1.** Eva. Eva guardó en un lugar autorizado.
-- **Z2.** A. Debe confirmar la palabra.
+- **Z2.** B. Debe confirmar la palabra.
 - **D1.** 6. Resto los revisados del total. Cálculo: 20 − 14 = 6.
 - **D2.** A. El almacenamiento necesita autorización.
 - **S1.** «lo reviso y lo guardo donde el adulto me indicó». Así queda seguro y ordenado.

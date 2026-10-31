@@ -154,7 +154,7 @@ Respuesta: quién me la enseñó
 *Aplicación*
 
 - **A1.** Ordena los datos de una palabra: A) cuándo se usa B) quién me la enseñó C) qué significa. ¿Cuántos datos son en total?
-- **A2.** Situaciones: A) llegar a una casa B) irse a dormir. ¿En cuál usarías un saludo?
+- **A2.** Situaciones: A) irse a dormir. ¿En cuál usarías un saludo B) llegar a una casa?
 - **A3.** Una tarjeta dice: palabra, significado, fuente. ¿Qué dato falta si quiero saber cuándo se usa?
 
 *Razonamiento y análisis*
@@ -188,7 +188,7 @@ Respuesta: quién me la enseñó
 - **C2.** pregunto. Inventar puede ser falso.
 - **C3.** para cuidar la fuente. Así sé de dónde viene.
 - **A1.** 3. Son tres datos.
-- **A2.** A. El saludo se dice al encontrarse.
+- **A2.** B. El saludo se dice al encontrarse.
 - **A3.** la ocasión de uso. No está en la tarjeta.
 - **Z1.** No. Desconoce su ocasión de uso.
 - **Z2.** porque tienen una ocasión de uso. Cada una se dice en su momento.
@@ -567,7 +567,7 @@ Respuesta: ¿Te gustaría contarme la historia de tu nombre?
 
 *Aplicación*
 
-- **A1.** Elige la forma amable de preguntar: A) «¿Te gustaría contarme por qué te llamas así?» B) «Tu nombre es raro».
+- **A1.** Elige la forma amable de preguntar: A) «Tu nombre es raro» B) «¿Te gustaría contarme por qué te llamas así?».
 - **A2.** Una persona dice cómo se pronuncia su nombre. ¿Lo repito igual?
 - **A3.** Tres compañeros: Rosa, Pedro, Elena. ¿Cuántas letras tiene el nombre más corto (Rosa, Pedro, Elena)?
 
@@ -601,7 +601,7 @@ Respuesta: ¿Te gustaría contarme la historia de tu nombre?
 - **C1.** los nombres de las personas. Estudia cómo se llaman las personas.
 - **C2.** Falso. Debe contarla la persona o su familia.
 - **C3.** la persona. Es su historia.
-- **A1.** A. A pregunta con respeto.
+- **A1.** B. A pregunta con respeto.
 - **A2.** Sí. Así lo respeto.
 - **A3.** 4. Rosa tiene cuatro letras.
 - **Z1.** que lo respete. El nombre tiene valor.

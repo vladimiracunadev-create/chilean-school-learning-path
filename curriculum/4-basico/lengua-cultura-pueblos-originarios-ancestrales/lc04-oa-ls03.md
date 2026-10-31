@@ -790,7 +790,7 @@ Respuesta: B
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «La tarjeta está mal hecha porque no dibujaron el río». ¿Es una opinión fundamentada en el texto? Sí o No.
-- **Z2.** Dos opiniones: A) «Pienso que la tarjeta es respetuosa porque agradece con una palabra de la ficha». B) «Esa cultura es mejor que otras». ¿Cuál es respetuosa y fundamentada?
+- **Z2.** Dos opiniones: A) «Esa cultura es mejor que otras». ¿Cuál es respetuosa y fundamentada B) «Pienso que la tarjeta es respetuosa porque agradece con una palabra de la ficha».?
 
 *Desafío*
 
@@ -821,7 +821,7 @@ Respuesta: B
 - **A2.** para agradecer a la educadora tradicional. El texto lo dice y la ficha confirma el sentido de chaltumay.
 - **A3.** Tomás y Ana. Tomás propuso el sol y Ana, el río.
 - **Z1.** No. El texto explica que el sol cabía mejor, y no dice que falte algo.
-- **Z2.** A. La B compara culturas sin razón.
+- **Z2.** B. La B compara culturas sin razón.
 - **D1.** A. La A da una razón que está en el texto.
 - **D2.** A, B, C. Leo, busco una razón y la digo.
 - **S1.** «Pienso que es respetuosa porque agradece con chaltumay». Das una opinión con una razón del texto.
@@ -988,7 +988,7 @@ Respuesta: No
 
 - **C1.** Texto de práctica D (inventado): «Hoy el curso aprendió que «ñuke» es madre y que «kuyen» es luna. La educadora tradicional dijo que hay muchas formas de decir y escribir las palabras, según cada comunidad, y que para saber cuál usar hay que preguntar. Al final, el curso copió las palabras de la ficha y anotó la fuente.» ¿Qué copió el curso al final?
 - **C2.** Verdadero o falso: un texto breve cuenta toda la cultura de un pueblo.
-- **C3.** Frases que ponen un límite: A) «el texto no dice…». B) «todos saben que…». ¿Cuál pone un límite?
+- **C3.** Frases que ponen un límite: A) «todos saben que…». ¿Cuál pone un límite B) «el texto no dice…».?
 
 *Aplicación*
 
@@ -999,7 +999,7 @@ Respuesta: No
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Según el texto, solo hay una forma correcta de escribir las palabras». ¿Tiene razón? Sí o No.
-- **Z2.** Dos explicaciones: A) «El curso respetó la fuente, porque el texto dice que anotó la fuente». B) «El curso respetó la fuente, porque todos lo hacen». ¿Cuál tiene evidencia?
+- **Z2.** Dos explicaciones: A) «El curso respetó la fuente, porque todos lo hacen». ¿Cuál tiene evidencia B) «El curso respetó la fuente, porque el texto dice que anotó la fuente».?
 
 *Desafío*
 
@@ -1025,12 +1025,12 @@ Respuesta: No
 - **R3.** un dato del texto que apoya lo que afirmo. Está escrita en el texto.
 - **C1.** las palabras de la ficha. La última oración lo dice.
 - **C2.** Falso. Solo muestra una parte.
-- **C3.** A. La B generaliza.
+- **C3.** B. La B generaliza.
 - **A1.** 1-b, 2-a. Cada evidencia apoya su afirmación.
 - **A2.** ñuke (madre) y kuyen (luna). Son las que el texto explica.
 - **A3.** cómo se hace una ruka. El texto no habla de eso, pero sí dice que anotaron la fuente.
 - **Z1.** No. El texto dice que hay muchas formas según cada comunidad.
-- **Z2.** A. La B no cita el texto.
+- **Z2.** B. La B no cita el texto.
 - **D1.** A. La A muestra lo que el curso hizo con cuidado.
 - **D2.** 2. Se restan las que tienen evidencia. Cálculo: 6 − 4 = 2.
 - **S1.** «El texto no dice eso; preguntemos al educador tradicional». Un texto breve tiene límites.

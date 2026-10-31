@@ -146,7 +146,7 @@ Respuesta: Anota que lo dirá la persona que cuenta y pregunta
 *Recuperación*
 
 - **R1.** Ficha: «Voz: Elena, educadora tradicional». ¿Quién cuenta?
-- **R2.** Situar un texto es ubicar: A) voz, pueblo y contexto B) solo los colores.
+- **R2.** Situar un texto es ubicar: A) solo los colores B) voz, pueblo y contexto.
 - **R3.** Antes de escuchar, ¿pregunto si hay permiso o no pregunto nada?
 
 *Comprensión*
@@ -186,7 +186,7 @@ Respuesta: Anota que lo dirá la persona que cuenta y pregunta
 **Solucionario razonado**
 
 - **R1.** Elena. La voz es la persona que cuenta.
-- **R2.** A. Situar es ubicar voz, pueblo y contexto.
+- **R2.** B. Situar es ubicar voz, pueblo y contexto.
 - **R3.** pregunto si hay permiso. El permiso es parte de situar.
 - **C1.** Falso. Cada relato tiene su propio pueblo y voz.
 - **C2.** de contexto. Dice dónde y cuándo se cuenta.
@@ -377,7 +377,7 @@ Respuesta: «Sentí calma»
 
 *Desafío*
 
-- **D1.** El adulto cuenta un relato dos veces. ¿Para qué es la primera escucha y para qué la segunda? Elige: A) disfrutar y luego buscar detalles B) buscar detalles y luego disfrutar.
+- **D1.** El adulto cuenta un relato dos veces. ¿Para qué es la primera escucha y para qué la segunda? Elige: A) buscar detalles y luego disfrutar B) disfrutar y luego buscar detalles.
 - **D2.** Escuchaste un relato de 4 minutos y otro de 3 minutos. ¿Cuántos minutos escuchaste en total?
 
 *Situaciones auténticas*
@@ -405,7 +405,7 @@ Respuesta: «Sentí calma»
 - **A3.** A, C, B. Escucho, espero en silencio y después digo lo que sentí.
 - **Z1.** seguir escuchando. La primera vez es para disfrutar; las preguntas vienen después.
 - **Z2.** ninguna. Cada persona puede sentir distinto.
-- **D1.** A. Primero disfruto y recién después busco detalles.
+- **D1.** B. Primero disfruto y recién después busco detalles.
 - **D2.** 7. Sumo los dos relatos. Cálculo: 4 + 3 = 7.
 - **S1.** sigo escuchando con atención. Puedo disfrutar de la voz y entender lo que pueda.
 - **E1.** disfruto. La primera escucha es para disfrutar.
@@ -565,7 +565,7 @@ Respuesta: Porque Rita llevó agua
 
 - **R1.** Relato: Rita encontró un cerro seco. Luego llevó agua. ¿Qué hizo Rita primero?
 - **R2.** ¿Qué palabra marca el último hecho: al final o primero?
-- **R3.** Una palabra importante para recordar de un relato se llama palabra: A) clave B) larga.
+- **R3.** Una palabra importante para recordar de un relato se llama palabra: A) larga B) clave.
 
 *Comprensión*
 
@@ -577,7 +577,7 @@ Respuesta: Porque Rita llevó agua
 
 - **A1.** Ordena los hechos con números del 1 al 4. A) Hubo flores B) Rita encontró un cerro seco C) Las plantas crecieron D) Rita llevó agua. Escribe las letras en orden.
 - **A2.** En el relato, Rita llevó 3 baldes de agua en la mañana y 2 baldes en la tarde. ¿Cuántos baldes llevó en total?
-- **A3.** Una palabra clave del relato de Rita es: A) agua B) la.
+- **A3.** Una palabra clave del relato de Rita es: A) la B) agua.
 
 *Razonamiento y análisis*
 
@@ -605,13 +605,13 @@ Respuesta: Porque Rita llevó agua
 
 - **R1.** encontró un cerro seco. El relato dice «luego» después de ese hecho.
 - **R2.** al final. «Al final» cierra el relato.
-- **R3.** A. Palabra clave es la importante.
+- **R3.** B. Palabra clave es la importante.
 - **C1.** las plantas crecieron. Después de llevar agua vino el crecimiento.
 - **C2.** Falso. Escribo solo palabras clave.
 - **C3.** porque. «Porque» une la causa con lo que pasó.
 - **A1.** B, D, C, A. Encontró, llevó agua, crecieron y hubo flores.
 - **A2.** 5. Sumo los baldes de la mañana y la tarde. Cálculo: 3 + 2 = 5.
-- **A3.** A. Agua es importante para entender el relato.
+- **A3.** B. Agua es importante para entender el relato.
 - **Z1.** No. Las flores aparecieron al final.
 - **Z2.** Sí. Une el cerro seco con llevar agua.
 - **D1.** A. El relato dice que llevó agua.
@@ -772,7 +772,7 @@ Respuesta: No, obliga a contar algo privado
 
 *Recuperación*
 
-- **R1.** Conectar un relato es: A) unirlo con algo que ya sé B) olvidarlo.
+- **R1.** Conectar un relato es: A) olvidarlo B) unirlo con algo que ya sé.
 - **R2.** «Pienso en un niño llamado Pablo» ¿es una opción ficticia o real?
 - **R3.** ¿Puedo participar sin contar nada privado de mi familia?
 
@@ -784,7 +784,7 @@ Respuesta: No, obliga a contar algo privado
 
 *Aplicación*
 
-- **A1.** Elige la pregunta mejor hecha para el relato: A) «¿Qué te gustó del relato?» B) «Cuéntanos qué problemas tiene tu familia.»
+- **A1.** Elige la pregunta mejor hecha para el relato: A) «Cuéntanos qué problemas tiene tu familia.» B) «¿Qué te gustó del relato?»
 - **A2.** Tu curso tiene 24 niños. Si 9 prefirieron conectar con algo que vieron, ¿cuántos eligieron otra opción?
 - **A3.** ¿Cuál es una opción ficticia: A) una niña inventada llamada Rosa que riega su patio B) la compañera que se sienta a tu lado?
 
@@ -812,13 +812,13 @@ Respuesta: No, obliga a contar algo privado
 
 **Solucionario razonado**
 
-- **R1.** A. Conectar es relacionar con lo que ya sé.
+- **R1.** B. Conectar es relacionar con lo que ya sé.
 - **R2.** ficticia. Pablo es un personaje inventado.
 - **R3.** Sí. Puedo usar opciones que no son privadas.
 - **C1.** Falso. Nadie está obligado a contar cosas privadas.
 - **C2.** algo que vi. Dice que lo vio en una plaza.
 - **C3.** No. Nadie debe demostrar su identidad para participar.
-- **A1.** A. A no obliga a contar nada privado.
+- **A1.** B. A no obliga a contar nada privado.
 - **A2.** 15. Resto los 9 del total. Cálculo: 24 − 9 = 15.
 - **A3.** A. Una niña inventada es ficticia; la compañera es una persona real.
 - **Z1.** No. Puede participar con otras opciones.
@@ -981,7 +981,7 @@ Respuesta: Lo respeto y no lo cuento fuera de la sala
 
 *Recuperación*
 
-- **R1.** Devolver es decirle a la persona que me contó: A) lo que entendí B) lo que inventé.
+- **R1.** Devolver es decirle a la persona que me contó: A) lo que inventé B) lo que entendí.
 - **R2.** La primera parte de una devolución es: A) agradecer B) pedir que me cuenten otro relato.
 - **R3.** Si me dicen que algo no se puede contar fuera, ¿lo cuento igual o lo respeto?
 
@@ -1004,7 +1004,7 @@ Respuesta: Lo respeto y no lo cuento fuera de la sala
 
 *Desafío*
 
-- **D1.** ¿Qué es mejor para cerrar una devolución: A) «¿Puedo compartirlo, y con quién?» B) «Ya está.»
+- **D1.** ¿Qué es mejor para cerrar una devolución: A) «Ya está.» B) «¿Puedo compartirlo, y con quién?»
 - **D2.** Escribiste una devolución con 4 frases y cada frase tiene 5 palabras. ¿Cuántas palabras escribiste?
 
 *Situaciones auténticas*
@@ -1021,7 +1021,7 @@ Respuesta: Lo respeto y no lo cuento fuera de la sala
 
 **Solucionario razonado**
 
-- **R1.** A. Devolver es decir lo que entendí.
+- **R1.** B. Devolver es decir lo que entendí.
 - **R2.** A. La primera parte de la devolución agradece.
 - **R3.** lo respeto. La persona decide qué se comparte.
 - **C1.** Falso. Se hace con mis propias palabras.
@@ -1032,7 +1032,7 @@ Respuesta: Lo respeto y no lo cuento fuera de la sala
 - **A3.** A. A pide permiso; B lo decide sin preguntar.
 - **Z1.** No. No se cambia lo que la persona contó.
 - **Z2.** que llevó agua. Debe decir lo que realmente pasó.
-- **D1.** A. Pido permiso y cuido lo compartido.
+- **D1.** B. Pido permiso y cuido lo compartido.
 - **D2.** 20. Cuatro frases por cinco palabras. Cálculo: 4 × 5 = 20.
 - **S1.** decirle «gracias, esto fue lo que entendí». Agradecer y devolver respeta a quien compartió.
 - **E1.** el educador tradicional. Cada lengua se aprende de quien la enseña, no se adivina.

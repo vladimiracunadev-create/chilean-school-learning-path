@@ -163,7 +163,7 @@ Respuesta: tener su autorización y usarla solo para el curso
 
 *Razonamiento y análisis*
 
-- **Z1.** No existe un acuerdo escrito para la actividad de tu curso. ¿Qué es mejor: A) registrar igual B) preguntar al educador tradicional o a una persona de la comunidad qué límites hay?
+- **Z1.** No existe un acuerdo escrito para la actividad de tu curso. ¿Qué es mejor: A) preguntar al educador tradicional o a una persona de la comunidad qué límites hay B) registrar igual?
 - **Z2.** Un niño dice: «Si no hay rostros de niños, ya puedo grabar cualquier cosa». Según el acuerdo, ¿tiene razón? Sí o No.
 
 *Desafío*
@@ -194,7 +194,7 @@ Respuesta: tener su autorización y usarla solo para el curso
 - **A1.** 1 P, 2 N, 3 N. Solo la 1 cumple el acuerdo.
 - **A2.** 9. Se restan los retirados del total. Cálculo: 12 − 3 = 9.
 - **A3.** B, C, A. Primero leo el acuerdo, luego pido permiso y después registro.
-- **Z1.** B. Sin acuerdo se pregunta antes de registrar.
+- **Z1.** A. Sin acuerdo se pregunta antes de registrar.
 - **Z2.** No. También hay límites sobre reuniones, voz, palabras e internet.
 - **D1.** No. El acuerdo pide sin rostros de niños.
 - **D2.** A. El acuerdo pide revisión del educador.
@@ -378,7 +378,7 @@ Respuesta: el nombre completo
 *Desafío*
 
 - **D1.** Ficha de datos (de práctica). Datos que identifican a una persona: rostro, voz, nombre completo, dirección, teléfono, nombre del colegio y curso junto con el nombre. Datos de la comunidad que merecen cuidado: el lugar exacto de un sitio importante, las reuniones internas, las palabras o frases de la lengua sin revisión. Datos que se pueden registrar con cuidado: el trabajo del curso, objetos, manos, paisajes sin personas. Un registro dice: «Entrevisté a una vecina; su voz está en el audio; su nombre completo aparece en el título; escribí que vive en la calle Los Aromos 123». ¿Cuántos datos de la ficha que identifican a una persona aparecen en ese registro?
-- **D2.** Debes elegir qué registrar de una minga con poco permiso: A) fotos de las bolsas llenas y las herramientas, o B) fotos de los rostros de los niños. ¿Cuál es más seguro: A o B?
+- **D2.** Debes elegir qué registrar de una minga con poco permiso: A) fotos de los rostros de los niños. ¿Cuál es más seguro: A o B o B) fotos de las bolsas llenas y las herramientas,?
 
 *Situaciones auténticas*
 
@@ -406,7 +406,7 @@ Respuesta: el nombre completo
 - **Z1.** No. La voz, el rostro o la combinación de datos pueden identificar.
 - **Z2.** A. El límite muestra cuidado y se respeta.
 - **D1.** 3. Aparecen la voz, el nombre completo y la dirección.
-- **D2.** A. Los objetos no identifican a personas.
+- **D2.** B. Los objetos no identifican a personas.
 - **S1.** lo describes de forma general y preguntas qué se puede decir. El lugar exacto merece cuidado.
 - **E1.** Sí. Está en la lista.
 - **E2.** No. Merece cuidado especial en la comunidad.
@@ -582,7 +582,7 @@ Respuesta: le entregó una copia y borró el audio del aparato
 *Razonamiento y análisis*
 
 - **Z1.** Un niño quiere usar el audio de la vecina en una reunión de otro colegio. ¿Qué debe hacer: A) pedirle otro permiso o B) usarlo porque ya está grabado?
-- **Z2.** La vecina pide el retiro del audio antes de fin de año. ¿Qué es lo correcto: A) cumplir su pedido o B) esperar a fin de año?
+- **Z2.** La vecina pide el retiro del audio antes de fin de año. ¿Qué es lo correcto: A) esperar a fin de año o B) cumplir su pedido?
 
 *Desafío*
 
@@ -613,7 +613,7 @@ Respuesta: le entregó una copia y borró el audio del aparato
 - **A2.** 5. Se restan los retirados. Cálculo: 9 − 4 = 5.
 - **A3.** C, B, A. Anoto, uso lo acordado y devuelvo al final.
 - **Z1.** A. El permiso es solo para la sala del curso.
-- **Z2.** A. La persona puede pedir el retiro cuando quiera.
+- **Z2.** B. La persona puede pedir el retiro cuando quiera.
 - **D1.** No. El uso era solo en la sala del curso.
 - **D2.** 1. El curso 1 cumple lo acordado.
 - **S1.** anotas el uso y el plazo del permiso. Lo acordado se anota para cumplirlo.
@@ -995,7 +995,7 @@ Respuesta: Brisa permite grabar voces con permiso y Aurora no permite grabarlas
 
 - **A1.** Dos acuerdos de práctica (inventados; no son de ningún pueblo real). Acuerdo de la Comunidad Brisa: se puede grabar la voz de una persona con su permiso, solo para el curso; no se publica nada en internet. Acuerdo de la Comunidad Aurora: no se graban voces; se aceptan textos escritos y fotos de objetos; nada se publica en internet. Clasifica con I (igual) o D (distinto): 1) ninguna publica en internet. 2) una permite grabar voces con permiso y la otra no. 3) las dos cuidan a las personas. Escribe las tres letras.
 - **A2.** En una tabla de comparación hay 7 filas. 4 son «igual». ¿Cuántas son «distinto»?
-- **A3.** Dos acuerdos de práctica (inventados; no son de ningún pueblo real). Acuerdo de la Comunidad Brisa: se puede grabar la voz de una persona con su permiso, solo para el curso; no se publica nada en internet. Acuerdo de la Comunidad Aurora: no se graban voces; se aceptan textos escritos y fotos de objetos; nada se publica en internet. Elige la frase que compara sin jerarquizar: A) «Brisa permite grabar voces con permiso y Aurora decide no grabarlas; ambas cuidan a las personas». B) «El acuerdo de Aurora es mejor». Escribe la letra.
+- **A3.** Dos acuerdos de práctica (inventados; no son de ningún pueblo real). Acuerdo de la Comunidad Brisa: se puede grabar la voz de una persona con su permiso, solo para el curso; no se publica nada en internet. Acuerdo de la Comunidad Aurora: no se graban voces; se aceptan textos escritos y fotos de objetos; nada se publica en internet. Elige la frase que compara sin jerarquizar: A) «El acuerdo de Aurora es mejor». Escribe la letra B) «Brisa permite grabar voces con permiso y Aurora decide no grabarlas; ambas cuidan a las personas»..
 
 *Razonamiento y análisis*
 
@@ -1005,7 +1005,7 @@ Respuesta: Brisa permite grabar voces con permiso y Aurora no permite grabarlas
 *Desafío*
 
 - **D1.** Dos acuerdos de práctica (inventados; no son de ningún pueblo real). Acuerdo de la Comunidad Brisa: se puede grabar la voz de una persona con su permiso, solo para el curso; no se publica nada en internet. Acuerdo de la Comunidad Aurora: no se graban voces; se aceptan textos escritos y fotos de objetos; nada se publica en internet. Un curso quiere un registro de la minga para las dos comunidades. ¿Qué tipo de registro sirve a ambas: un texto escrito sin nombres o un audio de una vecina?
-- **D2.** Un curso compara un acuerdo real con permiso con otro de práctica. ¿Qué debe hacer: A) citar la fuente y describir sin ordenar en mejor y peor o B) decir cuál es más completo?
+- **D2.** Un curso compara un acuerdo real con permiso con otro de práctica. ¿Qué debe hacer: A) decir cuál es más completo o B) citar la fuente y describir sin ordenar en mejor y peor?
 
 *Situaciones auténticas*
 
@@ -1029,11 +1029,11 @@ Respuesta: Brisa permite grabar voces con permiso y Aurora no permite grabarlas
 - **C3.** comparar para ver parecidos y diferencias. Así se definió contrastar.
 - **A1.** 1 I, 2 D, 3 I. La 2 es la diferencia.
 - **A2.** 3. Se restan las iguales del total. Cálculo: 7 − 4 = 3.
-- **A3.** A. A solo describe.
+- **A3.** B. A solo describe.
 - **Z1.** No. Cada comunidad tiene su acuerdo.
 - **Z2.** No. No se ordenan los acuerdos en mejores y peores.
 - **D1.** un texto escrito sin nombres. Aurora no permite voces.
-- **D2.** A. Se compara con fuente y sin jerarquizar.
+- **D2.** B. Se compara con fuente y sin jerarquizar.
 - **S1.** cumples el acuerdo de cada una para su registro. Cada comunidad decide sus límites.
 - **E1.** Sí. Cada comunidad decide.
 - **E2.** No. Se describen sin jerarquizar.

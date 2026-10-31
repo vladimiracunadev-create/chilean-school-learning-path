@@ -145,12 +145,12 @@ Respuesta: Pregunta a don Mateo si puede contarlo.
 
 - **R1.** En el diálogo de Lía y don Mateo, ¿sobre qué cosa conversan: el río o el patio?
 - **R2.** En un diálogo, cada persona espera su: A) turno B) premio
-- **R3.** Una exposición es: A) una presentación ordenada ante un grupo B) una conversación sin tema
+- **R3.** Una exposición es: A) una conversación sin tema B) una presentación ordenada ante un grupo
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: puedo contar el oficio de otra persona sin avisarle.
-- **C2.** ¿Qué significa «pertinente»? A) que corresponde al tema B) que es largo
+- **C2.** ¿Qué significa «pertinente»? A) que es largo B) que corresponde al tema
 - **C3.** ¿Quién enseña la pronunciación adecuada de una palabra en lengua indígena: el educador tradicional o un diccionario inventado por mí?
 
 *Aplicación*
@@ -162,7 +162,7 @@ Respuesta: Pregunta a don Mateo si puede contarlo.
 *Razonamiento y análisis*
 
 - **Z1.** Tomás quiere exponer sobre el oficio de su vecina, pero no le preguntó. ¿Qué error comete?
-- **Z2.** Ana dice que va a mostrar cómo se pronuncia una palabra indígena «como suena». ¿Qué le falta? A) pedir que lo enseñe el educador tradicional B) anotarla de oído
+- **Z2.** Ana dice que va a mostrar cómo se pronuncia una palabra indígena «como suena». ¿Qué le falta? A) anotarla de oído B) pedir que lo enseñe el educador tradicional
 
 *Desafío*
 
@@ -185,15 +185,15 @@ Respuesta: Pregunta a don Mateo si puede contarlo.
 
 - **R1.** El río. El diálogo es sobre el río de la comunidad.
 - **R2.** A. Los turnos ordenan quién habla.
-- **R3.** A. Se presenta un tema con orden.
+- **R3.** B. Se presenta un tema con orden.
 - **C1.** Falso. Se pide permiso.
-- **C2.** A. Pertinente es lo adecuado al tema.
+- **C2.** B. Pertinente es lo adecuado al tema.
 - **C3.** El educador tradicional. Es quien habla la lengua o la conoce.
 - **A1.** Agua a las huertas. Lo dice en su primer turno.
 - **A2.** 1-b, 2-a, 3-c. Cada dato responde una pregunta de la ficha.
 - **A3.** Tres veces. Lía habla al saludar y preguntar por el río, al preguntar qué se cuida y al agradecer.
 - **Z1.** No pidió permiso. El oficio es de su vecina.
-- **Z2.** A. La pronunciación se aprende de quien habla la lengua.
+- **Z2.** B. La pronunciación se aprende de quien habla la lengua.
 - **D1.** El primero. Los turnos ordenados ayudan a entender.
 - **D2.** No. Es un límite de la comunidad.
 - **S1.** A. Sitúa el tema y el permiso.
@@ -378,7 +378,7 @@ Respuesta: No: ese dato no se dijo.
 
 *Situaciones auténticas*
 
-- **S1.** Una vecina te cuenta cómo cultiva su huerta y de pronto dice «eso último no es para contarlo». Mientras anotas, ¿qué haces? A) borro eso de mis apuntes B) lo dejo por si acaso
+- **S1.** Una vecina te cuenta cómo cultiva su huerta y de pronto dice «eso último no es para contarlo». Mientras anotas, ¿qué haces? A) lo dejo por si acaso B) borro eso de mis apuntes
 
 *Autoevaluación*
 
@@ -403,7 +403,7 @@ Respuesta: No: ese dato no se dijo.
 - **Z2.** A. El límite de la persona se respeta.
 - **D1.** El primero. El segundo generaliza a todos los pueblos.
 - **D2.** Mari mari y chaltumay. Son el saludo y el agradecimiento en mapuzugun.
-- **S1.** A. Respeto su límite y no lo registro.
+- **S1.** B. Respeto su límite y no lo registro.
 - **E1.** Lo que se dijo, lo que no se dijo y lo que se reserva. Son los tres límites del diálogo.
 - **E2.** El educador tradicional. La pronunciación se aprende de quien habla la lengua.
 - **E3.** Verdadero. Cada idea queda con su voz.
@@ -563,14 +563,14 @@ Respuesta: «La playa es amplia y el mar es tranquilo».
 
 *Comprensión*
 
-- **C1.** Un vocabulario variado es: A) uno que no repite siempre las mismas palabras B) uno con palabras muy largas
+- **C1.** Un vocabulario variado es: A) uno con palabras muy largas B) uno que no repite siempre las mismas palabras
 - **C2.** Verdadero o falso: puedo inventar el significado de una palabra indígena si suena parecido.
 - **C3.** Palabras: semilla, siembra, cosecha, red. ¿Cuál no pertenece al tema del cultivo?
 
 *Aplicación*
 
 - **A1.** Tema: la pesca en una caleta. Escribe la que no corresponde: bote, red, marea, semáforo, anzuelo.
-- **A2.** ¿Cuál frase reemplaza «El agua del río está buena» con una palabra más precisa? A) «El agua del río está limpia» B) «El agua del río está cosa»
+- **A2.** ¿Cuál frase reemplaza «El agua del río está buena» con una palabra más precisa? A) «El agua del río está cosa» B) «El agua del río está limpia»
 - **A3.** Ficha de palabras (de práctica): en mapuzugun «ko» es agua, «mapu» es tierra, «antü» es sol, «kuyen» es luna, «ruka» es casa y «ñuke» es madre. «mari mari» es un saludo y «chaltumay» es «gracias» en mapuzugun. «iorana» es un saludo y «maururu» es «gracias» en rapa nui. Une cada palabra con su significado. 1) ko 2) mapu 3) antü. a) tierra b) sol c) agua
 
 *Razonamiento y análisis*
@@ -580,8 +580,8 @@ Respuesta: «La playa es amplia y el mar es tranquilo».
 
 *Desafío*
 
-- **D1.** ¿Cuál frase usa palabras pertinentes al tema de la huerta? A) «Con la semilla y el riego llega la cosecha.» B) «Con la semilla y el árbitro llega la cancha.»
-- **D2.** Si quieres usar en tu exposición una palabra de la lengua de tu comunidad y no la conoces con certeza, ¿qué haces? A) pregunto al educador o a una persona de la comunidad B) uso la que me suene mejor
+- **D1.** ¿Cuál frase usa palabras pertinentes al tema de la huerta? A) «Con la semilla y el árbitro llega la cancha.» B) «Con la semilla y el riego llega la cosecha.»
+- **D2.** Si quieres usar en tu exposición una palabra de la lengua de tu comunidad y no la conoces con certeza, ¿qué haces? A) uso la que me suene mejor B) pregunto al educador o a una persona de la comunidad
 
 *Situaciones auténticas*
 
@@ -591,7 +591,7 @@ Respuesta: «La playa es amplia y el mar es tranquilo».
 
 - **E1.** Nombra una palabra pertinente para el tema de la pesca.
 - **E2.** Verdadero o falso: «cosa» es una palabra precisa.
-- **E3.** ¿Dónde puedo comprobar el significado de una palabra indígena de mi comunidad? A) con el educador tradicional B) adivinando
+- **E3.** ¿Dónde puedo comprobar el significado de una palabra indígena de mi comunidad? A) adivinando B) con el educador tradicional
 
 **Actividad abierta.** Elige el tema «los lugares de mi comunidad». Escribe una lista de ocho palabras pertinentes en castellano (por ejemplo: plaza, sede, escuela, huerta, río, cerro, caleta, camino). Marca con un círculo dos que usarías en un diálogo. Después escribe un diálogo de cuatro turnos que las use sin repetir «cosa» ni «bonito». Si quieres añadir una palabra de la lengua de tu comunidad, pregunta antes al educador tradicional y anota quién te la enseñó. Recuerda: lo tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.
 
@@ -600,20 +600,20 @@ Respuesta: «La playa es amplia y el mar es tranquilo».
 - **R1.** Cosecha. La cosecha pertenece al cultivo.
 - **R2.** ruka. La ficha de palabras lo indica.
 - **R3.** Me gusta. Las tres frases empiezan igual.
-- **C1.** A. Variado significa diverso.
+- **C1.** B. Variado significa diverso.
 - **C2.** Falso. El significado lo da quien habla la lengua.
 - **C3.** red. La red es del tema de la pesca.
 - **A1.** semáforo. No pertenece al tema.
-- **A2.** A. «Limpia» dice cómo es el agua; «cosa» no dice nada.
+- **A2.** B. «Limpia» dice cómo es el agua; «cosa» no dice nada.
 - **A3.** 1-c, 2-a, 3-b. La ficha de palabras lo indica.
 - **Z1.** Inventa el significado por parecido. En la ficha, «ñuke» es madre.
 - **Z2.** A. Las del conjunto A pertenecen al cultivo.
-- **D1.** A. Semilla, riego y cosecha son del cultivo; árbitro y cancha, del deporte.
-- **D2.** A. Solo ellos validan el uso correcto.
+- **D1.** B. Semilla, riego y cosecha son del cultivo; árbitro y cancha, del deporte.
+- **D2.** B. Solo ellos validan el uso correcto.
 - **S1.** A. La precisión ayuda a entender.
 - **E1.** Red, bote, marea o anzuelo. Pertenecen al tema.
 - **E2.** Falso. Es una palabra muy general.
-- **E3.** A. Es la fuente adecuada.
+- **E3.** B. Es la fuente adecuada.
 
 **Actividad abierta · ejemplo de respuesta.** Lista: plaza, sede, escuela, huerta, río, cerro, caleta, camino. Círculo: huerta, río. Diálogo: Camilo: ¿Dónde se juntan en la plaza? Rosa: En la plaza nos juntamos después de la escuela. Camilo: ¿Y qué hay cerca? Rosa: Hay un camino hasta la huerta. Palabra añadida: la enseñó el educador tradicional.
 
@@ -766,8 +766,8 @@ Respuesta: Mi vecina me contó que el tejido se hace con lana de oveja.
 
 *Recuperación*
 
-- **R1.** La primera parte de una exposición es: A) el saludo B) el cierre
-- **R2.** La última parte es: A) el cierre y el agradecimiento B) el tema
+- **R1.** La primera parte de una exposición es: A) el cierre B) el saludo
+- **R2.** La última parte es: A) el tema B) el cierre y el agradecimiento
 - **R3.** Diálogo de práctica (inventado, en castellano). Julián: Quisiera presentar el oficio de tejer que conozco. Marta: Muy bien, ¿qué vas a decir primero? Julián: Que mi vecina teje con lana de oveja. Marta: ¿Y qué más? Julián: Que ella me autorizó a contarlo. Marta: Excelente, no olvides agradecerle. ¿Con qué teje la vecina de Julián?
 
 *Comprensión*
@@ -794,20 +794,20 @@ Respuesta: Mi vecina me contó que el tejido se hace con lana de oveja.
 
 *Situaciones auténticas*
 
-- **S1.** Vas a exponer sobre un oficio de tu comunidad y tienes 3 minutos. ¿Qué haces? A) preparo saludo, tema, dos ideas atribuidas y cierre B) improviso sin ordenar
+- **S1.** Vas a exponer sobre un oficio de tu comunidad y tienes 3 minutos. ¿Qué haces? A) improviso sin ordenar B) preparo saludo, tema, dos ideas atribuidas y cierre
 
 *Autoevaluación*
 
 - **E1.** Nombra las cuatro partes de una exposición breve.
 - **E2.** Verdadero o falso: puedo inventar la pronunciación de una palabra indígena.
-- **E3.** ¿Qué frase atribuye mejor? A) «Mi vecina me contó…» B) «Todos saben que…»
+- **E3.** ¿Qué frase atribuye mejor? A) «Todos saben que…» B) «Mi vecina me contó…»
 
 **Actividad abierta.** Prepara una exposición de cuatro partes sobre un oficio o actividad de tu comunidad (por ejemplo, tejer, cultivar o pescar). Escribe: saludo, tema, dos ideas con atribución («Mi vecina/vecino me contó que…») y cierre con agradecimiento. Escribe también una frase sobre lo que no cuentas porque no tienes permiso. Ensáyala en voz alta con un compañero o una persona de confianza y anota una cosa para mejorar. Si usas una palabra indígena, apréndela del educador tradicional y escribe quién te la enseñó. Recuerda: lo tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** A. Se empieza saludando.
-- **R2.** A. El cierre resume y agradece.
+- **R1.** B. Se empieza saludando.
+- **R2.** B. El cierre resume y agradece.
 - **R3.** Con lana de oveja. Julián lo dice en su turno.
 - **C1.** Verdadero. Atribuir es nombrar la fuente.
 - **C2.** A. La pronunciación se aprende de quien habla.
@@ -819,10 +819,10 @@ Respuesta: Mi vecina me contó que el tejido se hace con lana de oveja.
 - **Z2.** A. Corregirse con respeto es parte del aprendizaje.
 - **D1.** La 1. Tiene todas las partes y atribuye.
 - **D2.** A. Su límite se respeta.
-- **S1.** A. Una estructura clara cabe en el tiempo.
+- **S1.** B. Una estructura clara cabe en el tiempo.
 - **E1.** Saludo, tema, ideas y cierre. Son las partes de la clase.
 - **E2.** Falso. Debe enseñarla quien habla la lengua.
-- **E3.** A. Nombra la fuente.
+- **E3.** B. Nombra la fuente.
 
 **Actividad abierta · ejemplo de respuesta.** Saludo: Buenas tardes. Tema: hoy hablaré del tejido. Idea 1: mi vecina me contó que teje con lana de oveja. Idea 2: ella dijo que le toma varios días. No cuento: el diseño que ella prefiere guardar. Cierre: gracias por escuchar. Mejorar: hablar más despacio.
 

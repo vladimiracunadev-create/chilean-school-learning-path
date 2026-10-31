@@ -167,11 +167,11 @@ Respuesta: Agua Mansa y Agua Brava.
 *Desafío*
 
 - **D1.** Dos lectores. L1: «Agua Mansa es el nombre de uno de los hijos del río en el relato». L2: «Agua Mansa es un nombre sagrado de todos los pueblos». ¿Cuál se mantiene en el texto?
-- **D2.** Si no hay ficha ni permiso del relato, ¿qué haces? A) me detengo y pregunto al educador tradicional B) lo analizo igual
+- **D2.** Si no hay ficha ni permiso del relato, ¿qué haces? A) lo analizo igual B) me detengo y pregunto al educador tradicional
 
 *Situaciones auténticas*
 
-- **S1.** Una vecina cuenta un relato con nombres propios que tu curso no conoce. Un compañero explica enseguida qué significan. ¿Qué le dices? A) que le pregunte a la vecina qué significan B) que está muy bien explicado
+- **S1.** Una vecina cuenta un relato con nombres propios que tu curso no conoce. Un compañero explica enseguida qué significan. ¿Qué le dices? A) que está muy bien explicado B) que le pregunte a la vecina qué significan
 
 *Autoevaluación*
 
@@ -195,8 +195,8 @@ Respuesta: Agua Mansa y Agua Brava.
 - **Z1.** No. El relato dice que limpiaba los caminos.
 - **Z2.** Generaliza un relato a todos los pueblos. Una ficha habla de una comunidad.
 - **D1.** L1. L2 agrega un sentido que el relato no da.
-- **D2.** A. Sin ficha y permiso no se usa.
-- **S1.** A. El sentido lo da la comunidad.
+- **D2.** B. Sin ficha y permiso no se usa.
+- **S1.** B. El sentido lo da la comunidad.
 - **E1.** Dos entre: comunidad, territorio, fuente, fecha, permiso, límite. Son datos de la ficha.
 - **E2.** Falso. Se pregunta a la comunidad.
 - **E3.** Recorría la tierra seca. Así comienza el relato.
@@ -357,7 +357,7 @@ Respuesta: No, el relato no lo dice.
 *Comprensión*
 
 - **C1.** Relato de práctica «Los dos hijos del río» (inventado): «Cuentan que al principio un solo río recorría la tierra seca. El río tuvo dos hijos: el Agua Mansa, que regaba los campos, y el Agua Brava, que limpiaba los caminos. Por eso, cuando alguien toma agua, debe dar las gracias.» Verdadero o falso: el relato dice que el Agua Brava era peligrosa.
-- **C2.** ¿Qué significa leer una frase de manera literal? A) leer lo que dice tal cual B) imaginar lo que querría decir
+- **C2.** ¿Qué significa leer una frase de manera literal? A) imaginar lo que querría decir B) leer lo que dice tal cual
 - **C3.** Relato de práctica «Los dos hijos del río» (inventado): «Cuentan que al principio un solo río recorría la tierra seca. El río tuvo dos hijos: el Agua Mansa, que regaba los campos, y el Agua Brava, que limpiaba los caminos. Por eso, cuando alguien toma agua, debe dar las gracias.» ¿Qué se explica al final del relato: por qué se da las gracias al tomar agua o por qué hay montañas?
 
 *Aplicación*
@@ -394,7 +394,7 @@ Respuesta: No, el relato no lo dice.
 - **R2.** Dos. Agua Mansa y Agua Brava.
 - **R3.** Los campos. El relato lo dice.
 - **C1.** Falso. Dice que limpiaba los caminos.
-- **C2.** A. Literal es lo que dice la frase.
+- **C2.** B. Literal es lo que dice la frase.
 - **C3.** Por qué se da las gracias al tomar agua. Es la última frase.
 - **A1.** c, a, b. El relato sigue ese orden.
 - **A2.** A. La B no aparece.
@@ -564,7 +564,7 @@ Respuesta: No: eso no lo dice el testimonio.
 *Comprensión*
 
 - **C1.** Verdadero o falso: para ver cómo vive la comunidad un relato necesito un testimonio.
-- **C2.** ¿Con qué palabras atribuyo una relación a la fuente? A) “según doña Elsa” B) “seguramente”
+- **C2.** ¿Con qué palabras atribuyo una relación a la fuente? A) “seguramente” B) “según doña Elsa”
 - **C3.** Verdadero o falso: la palabra «ko» prueba que el relato de Quebrada Verde es de un pueblo real.
 
 *Aplicación*
@@ -576,16 +576,16 @@ Respuesta: No: eso no lo dice el testimonio.
 *Razonamiento y análisis*
 
 - **Z1.** Pablo dice: «Según doña Elsa, hacen una fiesta del agua». ¿Qué error comete?
-- **Z2.** Una niña dice: «Si agradecen el agua, entonces el agua es sagrada para ellos». ¿Qué falta? A) que doña Elsa lo diga B) nada
+- **Z2.** Una niña dice: «Si agradecen el agua, entonces el agua es sagrada para ellos». ¿Qué falta? A) nada B) que doña Elsa lo diga
 
 *Desafío*
 
-- **D1.** Elige la relación bien atribuida: A) «Según doña Elsa, las expresiones recuerdan que el agua cuida y limpia» B) «Las expresiones muestran que el agua es una diosa»
-- **D2.** Si el testimonio no explica una expresión, ¿qué escribes? A) «El testimonio no lo explica» B) una explicación probable
+- **D1.** Elige la relación bien atribuida: A) «Las expresiones muestran que el agua es una diosa» B) «Según doña Elsa, las expresiones recuerdan que el agua cuida y limpia»
+- **D2.** Si el testimonio no explica una expresión, ¿qué escribes? A) una explicación probable B) «El testimonio no lo explica»
 
 *Situaciones auténticas*
 
-- **S1.** Para una exposición quieres explicar por qué un relato importa a una comunidad, pero el testimonio solo habla de una expresión. ¿Qué haces con las demás? A) las dejo como preguntas B) invento su significado
+- **S1.** Para una exposición quieres explicar por qué un relato importa a una comunidad, pero el testimonio solo habla de una expresión. ¿Qué haces con las demás? A) invento su significado B) las dejo como preguntas
 
 *Autoevaluación*
 
@@ -601,16 +601,16 @@ Respuesta: No: eso no lo dice el testimonio.
 - **R2.** Que el agua cuida los campos y también limpia. Así lo dice el testimonio.
 - **R3.** Gracias. La ficha de palabras lo indica.
 - **C1.** Verdadero. El testimonio lo cuenta quien lo vive.
-- **C2.** A. Nombra a quien lo dijo.
+- **C2.** B. Nombra a quien lo dijo.
 - **C3.** Falso. El relato es inventado.
 - **A1.** 1-b, 2-a. Según doña Elsa, la mansa cuida y la brava limpia.
 - **A2.** Según doña Elsa, se agradece antes de tomar agua. La frase atribuye la relación.
 - **A3.** ko y chaltumay. Son agua y gracias.
 - **Z1.** Atribuye a doña Elsa algo que no dijo. El testimonio no habla de fiestas.
-- **Z2.** A. Lo sagrado lo dice la comunidad.
-- **D1.** A. La B inventa un significado.
-- **D2.** A. Se declara el límite.
-- **S1.** A. No se inventa.
+- **Z2.** B. Lo sagrado lo dice la comunidad.
+- **D1.** B. La B inventa un significado.
+- **D2.** B. Se declara el límite.
+- **S1.** B. No se inventa.
 - **E1.** La expresión, el testimonio y lo que hace la comunidad. Son los tres datos de la clase.
 - **E2.** Falso. Eso es atribuir falsamente.
 - **E3.** Tierra. La ficha de palabras lo indica.
@@ -767,7 +767,7 @@ Respuesta: «Este relato de Quebrada Verde, según doña Elsa…».
 *Recuperación*
 
 - **R1.** Completa: «Según ___, las expresiones recuerdan que el agua cuida y limpia».
-- **R2.** Un relato fundacional se llama: A) relato fundacional B) solo un cuento
+- **R2.** Un relato fundacional se llama: A) solo un cuento B) relato fundacional
 - **R3.** Relato de práctica «Los dos hijos del río» (inventado): «Cuentan que al principio un solo río recorría la tierra seca. El río tuvo dos hijos: el Agua Mansa, que regaba los campos, y el Agua Brava, que limpiaba los caminos. Por eso, cuando alguien toma agua, debe dar las gracias.» ¿Qué dato del relato apoya que hay que agradecer el agua?
 
 *Comprensión*
@@ -779,7 +779,7 @@ Respuesta: «Este relato de Quebrada Verde, según doña Elsa…».
 *Aplicación*
 
 - **A1.** Ordena para armar la respuesta: a) El testimonio no explica el lugar donde nace el río b) Según doña Elsa c) la expresión Agua Mansa recuerda que el agua cuida los campos. Escribe las letras.
-- **A2.** Testimonio inventado de doña Elsa: «Cuando decimos Agua Mansa y Agua Brava, recordamos que el agua cuida los campos y también limpia lo que sobra. Por eso agradecemos antes de tomar agua.» Elige la respuesta atribuida: A) «Según doña Elsa, se agradece antes de tomar agua» B) «Se agradece el agua en todo el país»
+- **A2.** Testimonio inventado de doña Elsa: «Cuando decimos Agua Mansa y Agua Brava, recordamos que el agua cuida los campos y también limpia lo que sobra. Por eso agradecemos antes de tomar agua.» Elige la respuesta atribuida: A) «Se agradece el agua en todo el país» B) «Según doña Elsa, se agradece antes de tomar agua»
 - **A3.** Relato de práctica «El primer canto» (inventado): «Antes de que existieran las personas, el viento no tenía voz. Una niña de piedra le prestó su canto y el viento aprendió a cantar. Desde entonces, cuando el viento canta en la isla, se recuerda que el mundo se hizo prestándose cosas unos a otros.» Completa: «Según el relato que cuenta don Tomás, la niña de piedra le prestó su ___ al viento».
 
 *Razonamiento y análisis*
@@ -790,7 +790,7 @@ Respuesta: «Este relato de Quebrada Verde, según doña Elsa…».
 *Desafío*
 
 - **D1.** Dos respuestas. R1: «Según doña Elsa, Agua Mansa recuerda que el agua cuida los campos». R2: «Los pueblos creen que Agua Mansa es buena». ¿Cuál cumple las reglas?
-- **D2.** El testimonio no explica una expresión que quieres usar. ¿Qué escribes? A) «El testimonio no lo explica; preguntaré» B) un significado probable
+- **D2.** El testimonio no explica una expresión que quieres usar. ¿Qué escribes? A) un significado probable B) «El testimonio no lo explica; preguntaré»
 
 *Situaciones auténticas*
 
@@ -800,29 +800,29 @@ Respuesta: «Este relato de Quebrada Verde, según doña Elsa…».
 
 - **E1.** Nombra las cinco partes de la respuesta.
 - **E2.** Verdadero o falso: puedo usar «leyenda» para restar valor a un relato.
-- **E3.** ¿Con qué palabras separo mi opinión? A) “Yo pienso” B) “según”
+- **E3.** ¿Con qué palabras separo mi opinión? A) “según” B) “Yo pienso”
 
 **Actividad abierta.** Responde por escrito: «¿Por qué es importante el relato “El primer canto” para Isla Niebla?». Usa el relato: «Antes de que existieran las personas, el viento no tenía voz. Una niña de piedra le prestó su canto y el viento aprendió a cantar. Desde entonces, cuando el viento canta en la isla, se recuerda que el mundo se hizo prestándose cosas unos a otros.» y el testimonio de don Tomás: «En la isla, cuando el viento canta, les contamos a los niños el relato de la niña de piedra.» Tu respuesta debe tener fuente, expresión, significado según el testimonio, un dato del relato y un límite («El testimonio no explica…»). Añade una frase con «Yo pienso…». Recuerda: lo tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** doña Elsa. Es la fuente del testimonio.
-- **R2.** A. Se evita restar valor.
+- **R2.** B. Se evita restar valor.
 - **R3.** Por eso, cuando alguien toma agua, debe dar las gracias. Es la frase final.
 - **C1.** Falso. Ella habla de su comunidad.
 - **C2.** A. El límite declara lo que no sabemos.
 - **C3.** Falso. Puede restarle valor.
 - **A1.** b, c, a. Fuente, significado y límite.
-- **A2.** A. La B generaliza.
+- **A2.** B. La B generaliza.
 - **A3.** canto. El relato lo dice.
 - **Z1.** Atribuye algo que doña Elsa no dijo. El testimonio no habla de espíritus.
 - **Z2.** Sí. Está separada de la fuente.
 - **D1.** R1. La R2 generaliza y no atribuye.
-- **D2.** A. Se declara el límite.
+- **D2.** B. Se declara el límite.
 - **S1.** A. Se declara lo que falta.
 - **E1.** Fuente, expresión, significado según el testimonio, apoyo del relato y límite. Son las partes de la clase.
 - **E2.** Falso. Se usa «relato».
-- **E3.** A. Marca la voz propia.
+- **E3.** B. Marca la voz propia.
 
 **Actividad abierta · ejemplo de respuesta.** Según don Tomás, de Isla Niebla, cuando el viento canta se cuenta a los niños el relato de la niña de piedra. El relato dice que ella le prestó su canto al viento. El testimonio no explica por qué se cuenta justo cuando el viento canta. Yo pienso que es una forma de enseñar el relato.
 
@@ -975,18 +975,18 @@ Respuesta: Ambos relatos terminan con una enseñanza que la comunidad recuerda.
 
 - **R1.** Relato de práctica «Los dos hijos del río» (inventado): «Cuentan que al principio un solo río recorría la tierra seca. El río tuvo dos hijos: el Agua Mansa, que regaba los campos, y el Agua Brava, que limpiaba los caminos. Por eso, cuando alguien toma agua, debe dar las gracias.» ¿Qué elemento protagoniza «Los dos hijos del río»?
 - **R2.** Relato de práctica «El primer canto» (inventado): «Antes de que existieran las personas, el viento no tenía voz. Una niña de piedra le prestó su canto y el viento aprendió a cantar. Desde entonces, cuando el viento canta en la isla, se recuerda que el mundo se hizo prestándose cosas unos a otros.» ¿Qué elemento protagoniza «El primer canto»?
-- **R3.** Contrastar es: A) ver semejanzas y diferencias B) elegir el mejor
+- **R3.** Contrastar es: A) elegir el mejor B) ver semejanzas y diferencias
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: «es más importante» es una forma de jerarquizar.
-- **C2.** ¿Cuál es un criterio neutro? A) qué elemento protagoniza B) cuál me gusta más
+- **C2.** ¿Cuál es un criterio neutro? A) cuál me gusta más B) qué elemento protagoniza
 - **C3.** Verdadero o falso: dos relatos distintos pueden ser igual de respetables.
 
 *Aplicación*
 
 - **A1.** Une cada relato con lo que se recuerda al final. 1) Los dos hijos del río 2) El primer canto. a) el mundo se hizo prestándose cosas b) se debe dar las gracias al tomar agua
-- **A2.** Criterio «cómo comienza». C: un solo río recorría la tierra seca. D: el viento no tenía voz. ¿Cuál es la diferencia? A) uno comienza con un río y el otro con un viento sin voz B) los dos comienzan con un río
+- **A2.** Criterio «cómo comienza». C: un solo río recorría la tierra seca. D: el viento no tenía voz. ¿Cuál es la diferencia? A) los dos comienzan con un río B) uno comienza con un río y el otro con un viento sin voz
 - **A3.** Criterio «expresiones con nombre propio o imagen». ¿Cuál es una semejanza entre los dos relatos? A) ambos usan imágenes con nombre, como Agua Mansa y niña de piedra B) en ambos el viento es el protagonista
 
 *Razonamiento y análisis*
@@ -997,11 +997,11 @@ Respuesta: Ambos relatos terminan con una enseñanza que la comunidad recuerda.
 *Desafío*
 
 - **D1.** Elige la comparación respetuosa: A) «Según doña Elsa, el relato del agua recuerda que se agradece; según don Tomás, el del viento recuerda que el mundo se hizo prestándose cosas» B) «El del viento es más poético»
-- **D2.** Si un criterio no aparece en uno de los relatos, ¿qué escribes? A) «no se menciona» B) lo que supongo
+- **D2.** Si un criterio no aparece en uno de los relatos, ¿qué escribes? A) lo que supongo B) «no se menciona»
 
 *Situaciones auténticas*
 
-- **S1.** Dos grupos presentan relatos distintos y discuten cuál es «mejor». ¿Qué propones? A) comparar qué elementos y expresiones tiene cada uno B) votar
+- **S1.** Dos grupos presentan relatos distintos y discuten cuál es «mejor». ¿Qué propones? A) votar B) comparar qué elementos y expresiones tiene cada uno
 
 *Autoevaluación*
 
@@ -1015,18 +1015,18 @@ Respuesta: Ambos relatos terminan con una enseñanza que la comunidad recuerda.
 
 - **R1.** El agua. Los hijos del río son agua.
 - **R2.** El viento. El viento aprende a cantar.
-- **R3.** A. Contrastar no jerarquiza.
+- **R3.** B. Contrastar no jerarquiza.
 - **C1.** Verdadero. Pone un relato sobre otro.
-- **C2.** A. Se verifica en el texto.
+- **C2.** B. Se verifica en el texto.
 - **C3.** Verdadero. Cada uno es de su comunidad.
 - **A1.** 1-b, 2-a. Así termina cada relato.
-- **A2.** A. Se compara el inicio de cada texto.
+- **A2.** B. Se compara el inicio de cada texto.
 - **A3.** A. Las dos son expresiones significativas; el viento protagoniza solo uno.
 - **Z1.** Jerarquiza con un argumento ajeno al relato. El relato del viento tiene su propio sentido.
 - **Z2.** A. Son de dos comunidades inventadas.
 - **D1.** A. La A atribuye y describe.
-- **D2.** A. No se inventa.
-- **S1.** A. Se contrasta sin jerarquizar.
+- **D2.** B. No se inventa.
+- **S1.** B. Se contrasta sin jerarquizar.
 - **E1.** Dos entre: elemento protagonista, expresiones, qué se recuerda, quién cuenta. Son criterios de la clase.
 - **E2.** Falso. No hay evidencia en el texto.
 - **E3.** Verdadero. Es parte del respeto.
@@ -1183,18 +1183,18 @@ Respuesta: Según doña Elsa, en el relato «Los dos hijos del río» se debe da
 
 - **R1.** ¿Quién puede validar un relato real: el educador tradicional o un compañero?
 - **R2.** En la lista de revisión, ¿qué pregunta cuida el respeto: «¿evité restar valor?» o «¿me quedó corto?»
-- **R3.** Un borrador es: A) una primera versión que se puede corregir B) la versión final
+- **R3.** Un borrador es: A) la versión final B) una primera versión que se puede corregir
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: revisar sirve para cuidar el relato de la comunidad.
 - **C2.** Verdadero o falso: puedo cambiar el relato para que se entienda mejor sin consultar.
-- **C3.** Si hay un límite en la ficha, ¿qué debo decir al presentar? A) “esa parte no se cuenta” B) nada
+- **C3.** Si hay un límite en la ficha, ¿qué debo decir al presentar? A) nada B) “esa parte no se cuenta”
 
 *Aplicación*
 
 - **A1.** Borrador: «Según doña Elsa, el agua cuida los campos y limpia lo que sobra en todos los pueblos». ¿Qué parte hay que quitar?
-- **A2.** Borrador: «El relato dice que el río tuvo dos hijos». ¿Qué falta? A) la fuente B) un adorno
+- **A2.** Borrador: «El relato dice que el río tuvo dos hijos». ¿Qué falta? A) un adorno B) la fuente
 - **A3.** Ordena los pasos antes de presentar: a) presento con «según…» b) pido validación c) reviso con la lista. Escribe las letras.
 
 *Razonamiento y análisis*
@@ -1205,7 +1205,7 @@ Respuesta: Según doña Elsa, en el relato «Los dos hijos del río» se debe da
 *Desafío*
 
 - **D1.** Borrador: «Esa leyenda indígena dice que el agua limpia, según yo». ¿Qué dos problemas tiene?
-- **D2.** Si el educador tradicional corrige tu trabajo, ¿qué haces? A) lo cambio y agradezco B) lo defiendo
+- **D2.** Si el educador tradicional corrige tu trabajo, ¿qué haces? A) lo defiendo B) lo cambio y agradezco
 
 *Situaciones auténticas*
 
@@ -1223,17 +1223,17 @@ Respuesta: Según doña Elsa, en el relato «Los dos hijos del río» se debe da
 
 - **R1.** El educador tradicional. Conoce el relato.
 - **R2.** ¿Evité restar valor?. Cuida la forma de hablar.
-- **R3.** A. El borrador se revisa.
+- **R3.** B. El borrador se revisa.
 - **C1.** Verdadero. Evita errores de respeto.
 - **C2.** Falso. El relato pertenece a la comunidad.
-- **C3.** A. Así se avisa lo que no se cuenta.
+- **C3.** B. Así se avisa lo que no se cuenta.
 - **A1.** En todos los pueblos. Esa parte generaliza: doña Elsa habla de su comunidad.
-- **A2.** A. No dice quién cuenta ni la comunidad.
+- **A2.** B. No dice quién cuenta ni la comunidad.
 - **A3.** c, b, a. Revisar, validar y presentar.
 - **Z1.** No. La validación la hace él.
 - **Z2.** A. No se cambia la forma del relato sin consultar.
 - **D1.** Resta valor y no nombra la fuente. «Leyenda» y falta doña Elsa.
-- **D2.** A. Se acepta la validación.
+- **D2.** B. Se acepta la validación.
 - **S1.** A. Se pide permiso y validación.
 - **E1.** ¿Nombré la fuente? o ¿respeté el límite? o ¿evité generalizar?. Son preguntas de la lista.
 - **E2.** Falso. Lo hace la comunidad.

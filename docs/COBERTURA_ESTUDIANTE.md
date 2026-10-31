@@ -1051,6 +1051,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1234 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1235 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

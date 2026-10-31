@@ -573,7 +573,7 @@ Respuesta: 4 gestos
 
 - **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Doy una vuelta, doy un paso, levanto un pie». ¿Cuántos gestos hay?
 - **A2.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Doy una vuelta, doy un paso, levanto un pie». ¿Cuál es el segundo gesto?
-- **A3.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Une: «abajo» va con A) bajar los brazos B) subir los brazos. ¿Qué letra?
+- **A3.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Une: «abajo» va con A) subir los brazos. ¿Qué letra B) bajar los brazos?
 
 *Razonamiento y análisis*
 
@@ -607,7 +607,7 @@ Respuesta: 4 gestos
 - **C3.** Falso. Tiene un sentido que debo respetar.
 - **A1.** 3. Hay tres acciones separadas por comas.
 - **A2.** dar un paso. Es el segundo en el texto.
-- **A3.** A. Abajo significa hacia el suelo.
+- **A3.** B. Abajo significa hacia el suelo.
 - **Z1.** No. Mostró algo que el texto no dice.
 - **Z2.** para no cambiarlo ni equivocarme. Debo respetar cómo lo hacen.
 - **D1.** 8. Cuatro gestos por vuelta, dos vueltas.
@@ -780,7 +780,7 @@ Respuesta: B
 
 *Aplicación*
 
-- **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Texto: «La lluvia moja la calle». Elige lo que dice el texto: A) la lluvia moja la calle B) hace frío.
+- **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Texto: «La lluvia moja la calle». Elige lo que dice el texto: A) hace frío B) la lluvia moja la calle.
 - **A2.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). Texto: «La lluvia moja la calle». Elige lo que es mi experiencia: A) la lluvia moja la calle B) ayer me mojé camino a la escuela.
 - **A3.** Ordena: A) vuelvo al texto B) digo qué dice C) cuento lo que me recuerda. Escribe 3 letras.
 
@@ -814,7 +814,7 @@ Respuesta: B
 - **C1.** Falso. No me pertenece.
 - **C2.** vuelvo al texto. Así no olvido lo que dice.
 - **C3.** de quién es un texto. Dice a quién pertenece.
-- **A1.** A. Solo A está en el texto.
+- **A1.** B. Solo A está en el texto.
 - **A2.** B. B cuenta algo que viví.
 - **A3.** B, C, A. Primero el texto, luego mi experiencia y vuelvo.
 - **Z1.** que pertenece a quien lo cuida. Los cantos de tradición tienen autoría.
@@ -1195,8 +1195,8 @@ Respuesta: A
 
 *Aplicación*
 
-- **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Sale el sol y abre el día». ¿Cuál es la idea principal: A) el sol abre el día B) hace frío?
-- **A2.** Elige la forma que muestra bien la idea de «el sol sale»: A) dibujo del sol saliendo B) dibujo de un perro.
+- **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Sale el sol y abre el día». ¿Cuál es la idea principal: A) hace frío B) el sol abre el día?
+- **A2.** Elige la forma que muestra bien la idea de «el sol sale»: A) dibujo de un perro B) dibujo del sol saliendo.
 - **A3.** Ordena: A) agradezco B) digo la idea C) nombro de dónde viene. Escribe 3 letras.
 
 *Razonamiento y análisis*
@@ -1229,8 +1229,8 @@ Respuesta: A
 - **C1.** lo más importante del texto. Resume de qué trata.
 - **C2.** decir también lo que no sé. No exagero lo que sé.
 - **C3.** una pregunta o un gracias. Reconozco a quien lo compartió.
-- **A1.** A. A resume el texto.
-- **A2.** A. A muestra lo que dice.
+- **A1.** B. A resume el texto.
+- **A2.** B. A muestra lo que dice.
 - **A3.** B, C, A. Idea, procedencia y gracias.
 - **Z1.** pedir respeto y escuchar. Cada forma vale.
 - **Z2.** para reconocer a quien lo comparte. Cuido su autoría.

@@ -152,7 +152,7 @@ Respuesta: No: primero hay que pedir el permiso a don Ignacio o a la comunidad.
 *Comprensión*
 
 - **C1.** Verdadero o falso: un evento sociocultural puede ser una cosecha en que las familias comparten una costumbre.
-- **C2.** ¿Qué es un evento espiritual? A) un partido de pelota entre dos cursos B) una reunión en que la comunidad se relaciona con lo que considera sagrado
+- **C2.** ¿Qué es un evento espiritual? A) una reunión en que la comunidad se relaciona con lo que considera sagrado B) un partido de pelota entre dos cursos
 - **C3.** Verdadero o falso: si leí la parte reservada de un evento, ya puedo contarla a mis compañeros.
 
 *Aplicación*
@@ -169,7 +169,7 @@ Respuesta: No: primero hay que pedir el permiso a don Ignacio o a la comunidad.
 *Desafío*
 
 - **D1.** En Alto Sauce las familias siembran una chacra común; en Playa Mansa el primer pescado se reparte entre las casas que no salieron. Alguien escribe: «Se reparte el primer pescado». ¿De qué comunidad viene el dato?
-- **D2.** ¿Se puede disfrutar un relato y, al mismo tiempo, respetar lo que la comunidad reserva? A) sí, se disfruta lo permitido y se respeta el límite B) no, hay que contarlo todo para disfrutarlo
+- **D2.** ¿Se puede disfrutar un relato y, al mismo tiempo, respetar lo que la comunidad reserva? A) no, hay que contarlo todo para disfrutarlo B) sí, se disfruta lo permitido y se respeta el límite
 
 *Situaciones auténticas*
 
@@ -189,7 +189,7 @@ Respuesta: No: primero hay que pedir el permiso a don Ignacio o a la comunidad.
 - **R2.** Doña Gladys. La ficha nombra a doña Gladys como fuente.
 - **R3.** No. El límite lo prohíbe.
 - **C1.** Verdadero. Es una reunión que comparte una costumbre.
-- **C2.** B. Lo espiritual se relaciona con lo que cada comunidad considera sagrado.
+- **C2.** A. Lo espiritual se relaciona con lo que cada comunidad considera sagrado.
 - **C3.** Falso. Lo reservado se respeta aunque se haya leído.
 - **A1.** A. Sin fuente ni permiso la ficha no sirve.
 - **A2.** a fuente, b comunidad, c evento. Doña Gladys cuenta, Alto Sauce es el lugar y el Día de las Semillas es lo que se celebra.
@@ -197,7 +197,7 @@ Respuesta: No: primero hay que pedir el permiso a don Ignacio o a la comunidad.
 - **Z1.** Generaliza una ficha a todos los pueblos. Una comunidad no representa a todas.
 - **Z2.** No atribuye el relato a doña Gladys ni a su comunidad. Contar sin decir de quién es apropia el relato.
 - **D1.** De Playa Mansa. El reparto del primer pescado es de Playa Mansa.
-- **D2.** A. Disfrutar y respetar el límite no se oponen.
+- **D2.** B. Disfrutar y respetar el límite no se oponen.
 - **S1.** A. Un acto escolar también necesita permiso y atribución.
 - **E1.** Tres entre: comunidad, evento, fuente, permiso, límite. Son los datos que permiten situar el relato.
 - **E2.** Verdadero. El límite marca lo reservado.
@@ -356,7 +356,7 @@ Respuesta: La niña expresa que disfrutó; el otro compañero muestra que compre
 
 - **R1.** Relato inventado de doña Gladys: «Cada familia trae un puñado de semillas a la plaza». ¿Qué trae cada familia?
 - **R2.** ¿Una interpretación es una idea mía o un dato del relato?
-- **R3.** Si el relato no explica algo, ¿qué escribes? A) lo invento B) el relato no lo dice
+- **R3.** Si el relato no explica algo, ¿qué escribes? A) el relato no lo dice B) lo invento
 
 *Comprensión*
 
@@ -367,18 +367,18 @@ Respuesta: La niña expresa que disfrutó; el otro compañero muestra que compre
 *Aplicación*
 
 - **A1.** Relato inventado: «En Quebrada Seca, antes de partir al cerro, cada persona lleva un poco de agua para otra». Clasifica en DICE EL RELATO o INTERPRETO: a) cada persona lleva agua para otra b) la comunidad se cuida mucho.
-- **A2.** Don Ignacio dice: «Hay una frase de despedida que solo conoce la comunidad». ¿Qué puedes escribir en tu trabajo sobre esa frase? A) que existe y que no se cuenta B) una frase inventada por ti
+- **A2.** Don Ignacio dice: «Hay una frase de despedida que solo conoce la comunidad». ¿Qué puedes escribir en tu trabajo sobre esa frase? A) una frase inventada por ti B) que existe y que no se cuenta
 - **A3.** Una niña lee «los botes salen juntos» y escribe «Los pescadores creen que salir juntos trae suerte». ¿Qué dato no está en el relato?
 
 *Razonamiento y análisis*
 
 - **Z1.** Rodrigo escribe, sin marcarlo: «Los pescadores son los más generosos del mundo». ¿Qué debería hacer con esa frase?
-- **Z2.** ¿Por qué conviene escribir los límites al final de un trabajo? A) para mostrar hasta dónde llega lo afirmado B) para llenar la hoja
+- **Z2.** ¿Por qué conviene escribir los límites al final de un trabajo? A) para llenar la hoja B) para mostrar hasta dónde llega lo afirmado
 
 *Desafío*
 
 - **D1.** Relato: «Las familias de Alto Sauce tejen una manta común durante la fiesta». Dos frases: Uno: «Se teje una manta común». Otro: «La manta tiene un significado sagrado». ¿Cuál se queda en el relato?
-- **D2.** Don Ignacio no contó por qué el mar en calma es importante para la fiesta. ¿Qué escribes en los límites? A) es importante por un animal B) no sé por qué la calma es importante
+- **D2.** Don Ignacio no contó por qué el mar en calma es importante para la fiesta. ¿Qué escribes en los límites? A) no sé por qué la calma es importante B) es importante por un animal
 
 *Situaciones auténticas*
 
@@ -396,17 +396,17 @@ Respuesta: La niña expresa que disfrutó; el otro compañero muestra que compre
 
 - **R1.** Un puñado de semillas. El relato lo dice así.
 - **R2.** Una idea mía. Interpretar es dar mi propia idea.
-- **R3.** B. No se rellenan los vacíos con ideas inventadas.
+- **R3.** A. No se rellenan los vacíos con ideas inventadas.
 - **C1.** Falso. Disfrutar es expresar mi gusto; no obliga a creer ni a imitar.
 - **C2.** A. Así no se confunden con la fuente.
 - **C3.** Verdadero. Dice lo que me sorprendió, es una reacción personal.
 - **A1.** a dice el relato, b interpreto. La primera está escrita; la segunda es una suposición.
-- **A2.** A. Solo se afirma que existe; su contenido se respeta.
+- **A2.** B. Solo se afirma que existe; su contenido se respeta.
 - **A3.** Que creen que trae suerte. El relato dice que salen juntos, no por qué.
 - **Z1.** Marcarla como su opinión o quitarla. No está en el relato, así que es opinión.
-- **Z2.** A. Los límites muestran lo que no se sabe ni se cuenta.
+- **Z2.** B. Los límites muestran lo que no se sabe ni se cuenta.
 - **D1.** La primera. La segunda agrega algo que el relato no dice.
-- **D2.** B. Declarar lo que no sé evita inventar.
+- **D2.** A. Declarar lo que no sé evita inventar.
 - **S1.** B. El límite del relato dice que esa frase no se cuenta.
 - **E1.** Lo que dice el relato, lo que interpreto y lo que no se cuenta. Son los tres pasos de la lectura con límites.
 - **E2.** Falso. Eso sería inventar.
@@ -563,30 +563,30 @@ Respuesta: Dialoga comparando sin jerarquizar y nombra una semejanza: compartir 
 
 *Recuperación*
 
-- **R1.** Relato inventado: «En Playa Mansa, los pescadores salen juntos cuando el mar está en calma». ¿Con qué lugar se relaciona el evento? A) el mar B) la montaña
-- **R2.** Relato: «Cada familia trae una olla grande». ¿Quiénes participan? A) un solo vecino B) las familias
-- **R3.** ¿Qué es un valor, en un evento cultural? Elige: A) el precio de la comida B) una idea que la comunidad considera importante, como compartir
+- **R1.** Relato inventado: «En Playa Mansa, los pescadores salen juntos cuando el mar está en calma». ¿Con qué lugar se relaciona el evento? A) la montaña B) el mar
+- **R2.** Relato: «Cada familia trae una olla grande». ¿Quiénes participan? A) las familias B) un solo vecino
+- **R3.** ¿Qué es un valor, en un evento cultural? Elige: A) una idea que la comunidad considera importante, como compartir B) el precio de la comida
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: comparar dos eventos significa decir cuál es mejor.
-- **C2.** En un diálogo de conocimientos, ¿qué se hace primero? A) corregir a la otra persona B) preguntar y escuchar
+- **C2.** En un diálogo de conocimientos, ¿qué se hace primero? A) preguntar y escuchar B) corregir a la otra persona
 - **C3.** Verdadero o falso: si dos eventos se parecen en algo, entonces son iguales.
 
 *Aplicación*
 
 - **A1.** Criterio «quiénes participan». Alto Sauce: cada familia trae semillas. Rincón Alto: cada familia trae una olla. ¿Qué semejanza hay? A) participan todas las familias B) participa un solo vecino
-- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) en ambas comunidades se comparte algo b) una comparte semillas y la otra comida.
+- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) una comparte semillas y la otra comida b) en ambas comunidades se comparte algo.
 - **A3.** Relato: «El sendero lleva a la caleta donde se reparte el pescado». Completa: el sendero lleva hasta…
 
 *Razonamiento y análisis*
 
 - **Z1.** Paula escribe: «La fiesta de Alto Sauce es mejor que la de Rincón Alto porque trae más gente». ¿Qué error comete?
-- **Z2.** Pedro dice que, como dos eventos comparten comida, todos los pueblos hacen lo mismo. ¿Por qué no es válido? A) porque no comparten nada B) dos casos no alcanzan para hablar de todos
+- **Z2.** Pedro dice que, como dos eventos comparten comida, todos los pueblos hacen lo mismo. ¿Por qué no es válido? A) dos casos no alcanzan para hablar de todos B) porque no comparten nada
 
 *Desafío*
 
-- **D1.** Tabla con el criterio «valor que aparece»: Alto Sauce, compartir semillas; Rincón Alto, compartir comida. ¿Cuál afirmación es correcta? A) en ambos eventos aparece compartir B) solo en uno se comparte
+- **D1.** Tabla con el criterio «valor que aparece»: Alto Sauce, compartir semillas; Rincón Alto, compartir comida. ¿Cuál afirmación es correcta? A) solo en uno se comparte B) en ambos eventos aparece compartir
 - **D2.** Quieres escribir sobre una tercera comunidad, Pampa Verde, pero no tienes ficha. ¿Qué haces? A) la dejo fuera hasta tener su ficha B) la describo por parecido a las otras
 
 *Situaciones auténticas*
@@ -597,29 +597,29 @@ Respuesta: Dialoga comparando sin jerarquizar y nombra una semejanza: compartir 
 
 - **E1.** Escribe una semejanza entre Alto Sauce y Rincón Alto según este cuaderno.
 - **E2.** Verdadero o falso: puedo decir que un evento es mejor que otro si me gusta más.
-- **E3.** ¿Qué usas para comparar bien? A) los mismos criterios para los dos eventos B) criterios distintos para cada uno
+- **E3.** ¿Qué usas para comparar bien? A) criterios distintos para cada uno B) los mismos criterios para los dos eventos
 
 **Actividad abierta.** Lee dos relatos inventados. Cerro Alegre (doña Rosa): «Al terminar el verano llevamos a la plaza lo mejor de la huerta y repartimos pan de calabaza». Bahía Larga (don Ignacio): «Cuando el mar está en calma salimos juntos y repartimos el primer pescado». Haz una tabla con tres criterios: dónde ocurre, quiénes participan y qué valor aparece. Agrega una semejanza, una diferencia y un hecho de tu barrio que dialogue con ellos (por ejemplo, un día en que los vecinos limpian la calle juntos). Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** A. El relato habla del mar en calma.
-- **R2.** B. El relato dice cada familia.
-- **R3.** B. Un valor es una idea importante para la comunidad.
+- **R1.** B. El relato habla del mar en calma.
+- **R2.** A. El relato dice cada familia.
+- **R3.** A. Un valor es una idea importante para la comunidad.
 - **C1.** Falso. Comparar es buscar semejanzas y diferencias.
-- **C2.** B. Escuchar permite comprender antes de comparar.
+- **C2.** A. Escuchar permite comprender antes de comparar.
 - **C3.** Falso. Se parecen en un punto, pero pueden ser distintos en otros.
 - **A1.** A. En ambas, todas las familias aportan algo.
-- **A2.** a semejanza, b diferencia. La primera es algo común; la segunda, algo distinto.
+- **A2.** b semejanza, b diferencia. La primera es algo común; la segunda, algo distinto.
 - **A3.** La caleta. El relato dice que el sendero lleva a la caleta.
 - **Z1.** Jerarquiza dos eventos. Cada comunidad vive su evento a su manera; la cantidad de personas no lo hace mejor.
-- **Z2.** B. Hay muchos pueblos y cada uno cuenta su propia relación.
-- **D1.** A. Las dos fuentes muestran compartir.
+- **Z2.** A. Hay muchos pueblos y cada uno cuenta su propia relación.
+- **D1.** B. Las dos fuentes muestran compartir.
 - **D2.** A. No se describe a una comunidad sin su propia fuente.
 - **S1.** B. Comparar no es jerarquizar.
 - **E1.** En ambas las familias comparten algo. Aparece en los dos relatos.
 - **E2.** Falso. Eso es jerarquizar por gusto personal.
-- **E3.** A. Con criterios iguales la comparación es justa.
+- **E3.** B. Con criterios iguales la comparación es justa.
 
 **Actividad abierta · ejemplo de respuesta.** Cerro Alegre: plaza, familias, compartir la cosecha. Bahía Larga: mar, pescadores, compartir el primer pescado. Semejanza: en ambas se comparte. Diferencia: una es de huerta y la otra, de mar. En mi barrio los vecinos limpian la calle juntos, y eso se parece porque trabajan en común.
 
@@ -772,31 +772,31 @@ Respuesta: Faltó atribuir a doña Norma y quitar «lo más sagrado», que no es
 
 *Recuperación*
 
-- **R1.** ¿Con qué frase empiezas para atribuir un dato a don Ignacio? A) «Todos saben que…» B) «Don Ignacio cuenta que…»
+- **R1.** ¿Con qué frase empiezas para atribuir un dato a don Ignacio? A) «Don Ignacio cuenta que…» B) «Todos saben que…»
 - **R2.** ¿Cuántas partes tiene una opinión fundamentada: una o dos? Escribe el número.
 - **R3.** Verdadero o falso: la razón de una opinión fundamentada se toma del relato.
 
 *Comprensión*
 
-- **C1.** ¿Qué es una respuesta atribuida? A) una sin nombres B) una en que cada dato dice de quién viene
+- **C1.** ¿Qué es una respuesta atribuida? A) una en que cada dato dice de quién viene B) una sin nombres
 - **C2.** Verdadero o falso: puedo escribir «los pueblos indígenas piensan lo mismo» después de leer un solo relato.
 - **C3.** ¿Quién enseña cómo se dice mi opinión en la lengua indígena de mi comunidad? A) yo, inventando las palabras B) el educador o la educadora tradicional
 
 *Aplicación*
 
 - **A1.** Relato de don Ignacio: «Los botes salen juntos cuando el mar está en calma». Completa la atribución: «Don Ignacio cuenta que los botes…»
-- **A2.** Clasifica en FUENTE o RAZÓN PROPIA: a) doña Norma cuenta que se comparte la comida b) yo pienso que eso une a las familias.
+- **A2.** Clasifica en FUENTE o RAZÓN PROPIA: a) yo pienso que eso une a las familias b) doña Norma cuenta que se comparte la comida.
 - **A3.** Opinión: «Opino que el evento enseña a compartir porque, según doña Norma, se reparte la comida». ¿Cuál es la razón?
 
 *Razonamiento y análisis*
 
 - **Z1.** Marta escribe una opinión que dice «Opino que el evento es hermoso porque sí». ¿Qué mejoraría? A) agregar más adjetivos B) agregar una razón del relato
-- **Z2.** ¿Por qué conviene mostrar tu trabajo a la comunidad o al educador? A) porque es obligatorio decorar B) porque ellos pueden corregir errores sobre su cultura
+- **Z2.** ¿Por qué conviene mostrar tu trabajo a la comunidad o al educador? A) porque ellos pueden corregir errores sobre su cultura B) porque es obligatorio decorar
 
 *Desafío*
 
 - **D1.** Dos opiniones sobre el mismo relato («se comparte la comida entre todos»). Uno: «Opino que es un evento alegre porque se comparte la comida». Otro: «Opino que es un evento triste porque sí». ¿Cuál está mejor fundamentada?
-- **D2.** Don Ignacio no explicó por qué la fiesta se hace con el mar en calma. ¿Qué escribes en el límite? A) no sé por qué se hace con el mar en calma B) se hace porque el mar se enoja
+- **D2.** Don Ignacio no explicó por qué la fiesta se hace con el mar en calma. ¿Qué escribes en el límite? A) se hace porque el mar se enoja B) no sé por qué se hace con el mar en calma
 
 *Situaciones auténticas*
 
@@ -812,19 +812,19 @@ Respuesta: Faltó atribuir a doña Norma y quitar «lo más sagrado», que no es
 
 **Solucionario razonado**
 
-- **R1.** B. Nombra a la fuente.
+- **R1.** A. Nombra a la fuente.
 - **R2.** 2. Son lo que pienso y la razón.
 - **R3.** Verdadero. Por eso se llama fundamentada.
-- **C1.** B. Atribuir es nombrar la fuente.
+- **C1.** A. Atribuir es nombrar la fuente.
 - **C2.** Falso. Un relato no representa a todos los pueblos.
 - **C3.** B. La lengua se aprende de quien la enseña en la comunidad.
 - **A1.** Salen juntos cuando el mar está en calma. Repite el dato sin cambiarlo.
-- **A2.** a fuente, b razón propia. La primera es un dato atribuido; la segunda es una idea propia.
+- **A2.** b fuente, b razón propia. La primera es un dato atribuido; la segunda es una idea propia.
 - **A3.** Según doña Norma, se reparte la comida. Es el dato del relato que respalda la opinión.
 - **Z1.** B. Una opinión fundamentada necesita una razón del relato.
-- **Z2.** B. Ellos conocen su propia cultura.
+- **Z2.** A. Ellos conocen su propia cultura.
 - **D1.** La primera. Tiene una razón tomada del relato.
-- **D2.** A. Declarar lo que no sé evita inventar.
+- **D2.** B. Declarar lo que no sé evita inventar.
 - **S1.** A. Una opinión fundamentada se apoya en el relato y atribuye la fuente.
 - **E1.** Opino que… porque el relato dice que…. Une la idea con una razón del relato.
 - **E2.** Verdadero. Opinar distinto es posible si cada uno se apoya en el relato.
@@ -981,14 +981,14 @@ Respuesta: Falla porque jerarquiza; debe decir cómo agradece cada comunidad.
 
 *Recuperación*
 
-- **R1.** Relato inventado: «En Alto Sauce se siembra una chacra común». ¿Qué se hace en común? A) una chacra B) un viaje
+- **R1.** Relato inventado: «En Alto Sauce se siembra una chacra común». ¿Qué se hace en común? A) un viaje B) una chacra
 - **R2.** ¿Cómo se llama la manera en que un pueblo entiende el mundo y la vida? A) mapa B) cosmovisión
 - **R3.** En Bahía Larga se reparte el primer pescado. ¿Entre quiénes? A) entre las casas que no pudieron salir B) entre los turistas
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: contrastar dos relatos significa decidir cuál comunidad es mejor.
-- **C2.** ¿Qué palabra evitas al contrastar sin jerarquizar? A) «atrasado» B) «en cambio»
+- **C2.** ¿Qué palabra evitas al contrastar sin jerarquizar? A) «en cambio» B) «atrasado»
 - **C3.** Verdadero o falso: valorar una cosmovisión significa reconocer que tiene sentido para quienes la viven.
 
 *Aplicación*
@@ -1000,7 +1000,7 @@ Respuesta: Falla porque jerarquiza; debe decir cómo agradece cada comunidad.
 *Razonamiento y análisis*
 
 - **Z1.** Lucas escribe: «El agradecimiento de Cerro Alegre es el verdadero y el de Bahía Larga no». ¿Qué error comete?
-- **Z2.** Un compañero dice que, para valorar el relato, hay que creer lo mismo que la comunidad. ¿Es correcto? A) sí, hay que adoptar su cosmovisión B) no, valorar es reconocer su sentido y aprender
+- **Z2.** Un compañero dice que, para valorar el relato, hay que creer lo mismo que la comunidad. ¿Es correcto? A) no, valorar es reconocer su sentido y aprender B) sí, hay que adoptar su cosmovisión
 
 *Desafío*
 
@@ -1021,17 +1021,17 @@ Respuesta: Falla porque jerarquiza; debe decir cómo agradece cada comunidad.
 
 **Solucionario razonado**
 
-- **R1.** A. El relato dice chacra común.
+- **R1.** B. El relato dice chacra común.
 - **R2.** B. Esa es la definición de cosmovisión.
 - **R3.** A. El relato lo dice así.
 - **C1.** Falso. Contrastar es ver semejanzas y diferencias.
-- **C2.** A. «Atrasado» es un juicio; «en cambio» marca diferencia.
+- **C2.** B. «Atrasado» es un juicio; «en cambio» marca diferencia.
 - **C3.** Verdadero. Valorar es reconocer su sentido sin imponerlo ni rechazarlo.
 - **A1.** B. La diferencia se describe sin juicio.
 - **A2.** a descripción, b juicio. La primera dice lo que hacen; la segunda ordena sin fundamento.
 - **A3.** Comparten algo. Ambos relatos muestran que las familias comparten.
 - **Z1.** Jerarquiza dos formas de agradecer. Ninguna fuente dice que una sea la verdadera.
-- **Z2.** B. Valorar no obliga a adoptar.
+- **Z2.** A. Valorar no obliga a adoptar.
 - **D1.** La primera. La segunda ordena con la palabra «mejor».
 - **D2.** A. No se inventa una comunidad sin su fuente.
 - **S1.** B. No hay una fuente que ordene los eventos.
@@ -1204,17 +1204,17 @@ Respuesta: «Mari mari, educador. Hice este trabajo sobre el relato de Bahía La
 
 - **A1.** Cartel de un grupo: título, nombre de la fuente, resumen del relato, dibujo del lugar reservado. ¿Qué parte quitas? 
 - **A2.** Ordena los pasos: 1) corregir con lo que dijo el educador 2) hacer el trabajo 3) pedir validación 4) agradecer. Escribe el orden con los números.
-- **A3.** Una frase para pedir validación empieza con un saludo. ¿Cuál de estas sirve? A) «Mari mari, ¿puede revisar mi trabajo?» B) «Entrégueme mi nota»
+- **A3.** Una frase para pedir validación empieza con un saludo. ¿Cuál de estas sirve? A) «Entrégueme mi nota» B) «Mari mari, ¿puede revisar mi trabajo?»
 
 *Razonamiento y análisis*
 
-- **Z1.** Un grupo dice: «Nuestro trabajo está perfecto, no necesita validación». ¿Qué le falta? A) pedir revisión a quien sabe de la cultura B) más colores
+- **Z1.** Un grupo dice: «Nuestro trabajo está perfecto, no necesita validación». ¿Qué le falta? A) más colores B) pedir revisión a quien sabe de la cultura
 - **Z2.** Una niña quita una parte del cartel porque la comunidad lo pidió y el cartel queda más corto. ¿Perdió valor el trabajo?
 
 *Desafío*
 
 - **D1.** Dos carteles sobre el mismo relato: Uno tiene fuente, límite y validación. Otro es más largo pero sin fuente ni validación. ¿Cuál comunica con más respeto?
-- **D2.** El educador sugiere cambiar una frase de tu cartel. Tú crees que está bien. ¿Qué haces? A) la cambio y le agradezco B) la dejo porque yo lo escribí
+- **D2.** El educador sugiere cambiar una frase de tu cartel. Tú crees que está bien. ¿Qué haces? A) la dejo porque yo lo escribí B) la cambio y le agradezco
 
 *Situaciones auténticas*
 
@@ -1224,7 +1224,7 @@ Respuesta: «Mari mari, educador. Hice este trabajo sobre el relato de Bahía La
 
 - **E1.** Nombra las cuatro cosas que debe tener un trabajo respetuoso.
 - **E2.** Verdadero o falso: después de validar, se agradece y se muestra la versión corregida.
-- **E3.** ¿Qué haces si una parte del trabajo no se debe compartir? A) la quito B) la escondo en una esquina
+- **E3.** ¿Qué haces si una parte del trabajo no se debe compartir? A) la escondo en una esquina B) la quito
 
 **Actividad abierta.** Con el relato de Costa Mansa de la clase 4 (don Patricio), prepara un mini cartel con: título, fuente, comunidad, dos datos del relato, un límite y tu opinión fundamentada en una frase. Escribe además la frase con la que pedirías validación al educador o a la educadora tradicional. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -1238,15 +1238,15 @@ Respuesta: «Mari mari, educador. Hice este trabajo sobre el relato de Bahía La
 - **C3.** A. La devolución es una forma de agradecer y cerrar el trabajo.
 - **A1.** El dibujo del lugar reservado. Lo reservado no se muestra.
 - **A2.** 2, 3, 1, 4. Primero se hace, luego se valida, se corrige y se agradece.
-- **A3.** A. Incluye saludo y pide revisión con respeto.
-- **Z1.** A. Nadie debe dar por perfecto un trabajo sobre la cultura de otros sin revisión.
+- **A3.** B. Incluye saludo y pide revisión con respeto.
+- **Z1.** B. Nadie debe dar por perfecto un trabajo sobre la cultura de otros sin revisión.
 - **Z2.** No. Un trabajo respetuoso vale más que uno completo con una parte indebida.
 - **D1.** El primero. Tiene lo que pide un trabajo respetuoso.
-- **D2.** A. El educador conoce su cultura mejor que tú.
+- **D2.** B. El educador conoce su cultura mejor que tú.
 - **S1.** A. Revisar evita errores y respeta lo reservado.
 - **E1.** Fuente, comunidad, lo que dice el relato y el límite. Son los datos que permiten comunicar con respeto.
 - **E2.** Verdadero. Esa es la devolución.
-- **E3.** A. No se comparte y no se deja escondida.
+- **E3.** B. No se comparte y no se deja escondida.
 
 **Actividad abierta · ejemplo de respuesta.** Título: La cosecha del alga en Costa Mansa (relato inventado). Fuente: don Patricio. Datos: las familias bajan juntas a la orilla; los jóvenes cargan los canastos. Límite: no se cuenta la oración. Opino que es un evento de respeto porque los jóvenes ayudan a los mayores. Validación: «¿Puede revisar si lo que escribí es correcto y respetuoso?»
 

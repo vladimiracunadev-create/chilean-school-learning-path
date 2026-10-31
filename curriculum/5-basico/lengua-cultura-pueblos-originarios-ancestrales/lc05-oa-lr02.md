@@ -369,7 +369,7 @@ Respuesta: No, ese dato no se dijo.
 *Razonamiento y análisis*
 
 - **Z1.** Rafael dice: «Doña Teresa contó que hay una fiesta en la feria». Según el diálogo, ¿lo dijo? Responde Sí o No.
-- **Z2.** Doña Teresa responde: «Eso no lo cuento». ¿Qué hace quien escucha? A) respeta y cambia de tema B) insiste
+- **Z2.** Doña Teresa responde: «Eso no lo cuento». ¿Qué hace quien escucha? A) insiste B) respeta y cambia de tema
 
 *Desafío*
 
@@ -400,7 +400,7 @@ Respuesta: No, ese dato no se dijo.
 - **A2.** Siete. Camila habla cuatro veces y doña Teresa tres: 4 + 3 = 7.
 - **A3.** Doña Teresa vende pan y verduras de su huerta. Nombra a quien lo dijo.
 - **Z1.** No. Solo habla de vender y ayudarse.
-- **Z2.** A. El límite de la persona se respeta.
+- **Z2.** B. El límite de la persona se respeta.
 - **D1.** R1. La R2 generaliza a todas las ferias.
 - **D2.** Nos juntamos y nos ayudamos. Doña Teresa la dice.
 - **S1.** A. Se respeta su límite.
@@ -564,7 +564,7 @@ Respuesta: Una forma de trabajar con calma y en grupo, según don Ramón.
 *Comprensión*
 
 - **C1.** Verdadero o falso: un campo semántico es un grupo de palabras de un mismo tema.
-- **C2.** ¿Qué es un valor? A) una idea sobre cómo conviene vivir o trabajar B) un precio
+- **C2.** ¿Qué es un valor? A) un precio B) una idea sobre cómo conviene vivir o trabajar
 - **C3.** Verdadero o falso: puedo decir que una expresión es una creencia de un pueblo si la persona no lo dijo.
 
 *Aplicación*
@@ -581,7 +581,7 @@ Respuesta: Una forma de trabajar con calma y en grupo, según don Ramón.
 *Desafío*
 
 - **D1.** ¿Cuál frase usa palabras del tema de la pesca? A) «El bote sale con la red cuando sube la marea.» B) «El bote sale con la semilla cuando sube la cosecha.»
-- **D2.** Elige la frase que explica sin inventar: A) «Según don Ramón, trabajar con paciencia y entre todos es importante» B) «La paciencia es sagrada para los pescadores»
+- **D2.** Elige la frase que explica sin inventar: A) «La paciencia es sagrada para los pescadores» B) «Según don Ramón, trabajar con paciencia y entre todos es importante»
 
 *Situaciones auténticas*
 
@@ -601,7 +601,7 @@ Respuesta: Una forma de trabajar con calma y en grupo, según don Ramón.
 - **R2.** Paciencia y entre todos. Son sus palabras.
 - **R3.** Riego. El riego es de la huerta.
 - **C1.** Verdadero. Esa es su definición.
-- **C2.** A. Por ejemplo, la paciencia.
+- **C2.** B. Por ejemplo, la paciencia.
 - **C3.** Falso. Eso sería inventar un sentido.
 - **A1.** 1-b, 2-a. La malla es de la red y la cosecha de la huerta.
 - **A2.** A. «Amplia» y «tranquilo» dicen cómo es cada cosa; «cosa» no dice nada.
@@ -609,7 +609,7 @@ Respuesta: Una forma de trabajar con calma y en grupo, según don Ramón.
 - **Z1.** Generaliza lo que dice una persona. Don Ramón habla de sí mismo.
 - **Z2.** A. Solo él puede confirmarlo.
 - **D1.** A. Bote, red y marea son de la pesca; semilla y cosecha, de la huerta.
-- **D2.** A. La B inventa un sentido.
+- **D2.** B. La B inventa un sentido.
 - **S1.** A. La precisión ayuda a entender.
 - **E1.** Semilla, riego, cosecha o hortaliza. Pertenecen al tema.
 - **E2.** Falso. Es muy general.
@@ -768,13 +768,13 @@ Respuesta: Mi vecina me contó que las papas crecen bajo la tierra.
 *Recuperación*
 
 - **R1.** La primera parte de la exposición es: A) el saludo B) el cierre
-- **R2.** El agradecimiento va: A) al final B) al comienzo
+- **R2.** El agradecimiento va: A) al comienzo B) al final
 - **R3.** Diálogo de práctica (inventado, en castellano). Valeria: Buenos días, don Ramón. ¿Qué trabajo hace usted en la caleta? Don Ramón: Arreglo redes. Valeria: ¿Cómo aprendió? Don Ramón: Mirando a los mayores y practicando. Valeria: ¿Qué es lo más importante? Don Ramón: Trabajar con paciencia y entre todos. Valeria: Muchas gracias por su tiempo. ¿Qué le dice Valeria a don Ramón al final?
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: avisar lo que no cuento es parte de una exposición respetuosa.
-- **C2.** ¿Qué frase atribuye mejor? A) «Mi vecina me contó…» B) «Todos saben…»
+- **C2.** ¿Qué frase atribuye mejor? A) «Todos saben…» B) «Mi vecina me contó…»
 - **C3.** Verdadero o falso: puedo inventar el significado de una palabra indígena en mi exposición.
 
 *Aplicación*
@@ -786,7 +786,7 @@ Respuesta: Mi vecina me contó que las papas crecen bajo la tierra.
 *Razonamiento y análisis*
 
 - **Z1.** Pablo expone: «Todos los pueblos hacen pan igual». ¿Qué error comete?
-- **Z2.** Una niña se equivoca al decir una palabra indígena y se queda callada. ¿Qué es mejor? A) pedir disculpas, repetirla y seguir B) callarse
+- **Z2.** Una niña se equivoca al decir una palabra indígena y se queda callada. ¿Qué es mejor? A) callarse B) pedir disculpas, repetirla y seguir
 
 *Desafío*
 
@@ -795,7 +795,7 @@ Respuesta: Mi vecina me contó que las papas crecen bajo la tierra.
 
 *Situaciones auténticas*
 
-- **S1.** Vas a exponer sobre un oficio de tu comunidad durante tres minutos. ¿Qué haces? A) preparo saludo, tema, ideas atribuidas, límite y cierre B) improviso
+- **S1.** Vas a exponer sobre un oficio de tu comunidad durante tres minutos. ¿Qué haces? A) improviso B) preparo saludo, tema, ideas atribuidas, límite y cierre
 
 *Autoevaluación*
 
@@ -808,19 +808,19 @@ Respuesta: Mi vecina me contó que las papas crecen bajo la tierra.
 **Solucionario razonado**
 
 - **R1.** A. Se empieza saludando.
-- **R2.** A. Está en el cierre.
+- **R2.** B. Está en el cierre.
 - **R3.** Muchas gracias por su tiempo. Es su cierre.
 - **C1.** Verdadero. Es el límite.
-- **C2.** A. Nombra la fuente.
+- **C2.** B. Nombra la fuente.
 - **C3.** Falso. Se confirma con el educador.
 - **A1.** c, b, d, a, e. Saludo, tema, idea, límite y cierre.
 - **A2.** Don Mateo me contó que el pan se hace con harina. Se nombra la fuente.
 - **A3.** A. Las del A son de la pesca.
 - **Z1.** Habla por todos los pueblos. Solo puede hablar de lo que conoce.
-- **Z2.** A. Corregirse con respeto es parte de aprender.
+- **Z2.** B. Corregirse con respeto es parte de aprender.
 - **D1.** La 1. Cumple las reglas.
 - **D2.** A. Su límite se respeta.
-- **S1.** A. Una estructura clara cabe en el tiempo.
+- **S1.** B. Una estructura clara cabe en el tiempo.
 - **E1.** Saludo, tema, ideas, límite y cierre. Son las partes de la clase.
 - **E2.** Falso. Se confirman con la fuente.
 - **E3.** Verdadero. Permite detectar qué mejorar.

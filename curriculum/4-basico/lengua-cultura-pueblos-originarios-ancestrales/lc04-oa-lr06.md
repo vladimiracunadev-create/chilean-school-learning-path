@@ -164,7 +164,7 @@ Respuesta: no: faltan el propósito, la fuente y la autorización
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si muchas personas aparecen en el registro, con que una autorice basta». ¿Tiene razón? Sí o No.
-- **Z2.** Un niño quiere registrar con un teléfono una experiencia privada de una familia sin preguntarle. ¿Qué es mejor: A) registrar y pedir permiso después. B) preguntar antes y registrar solo si la familia lo pide?
+- **Z2.** Un niño quiere registrar con un teléfono una experiencia privada de una familia sin preguntarle. ¿Qué es mejor: A) preguntar antes y registrar solo si la familia lo pide B) registrar y pedir permiso después.?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: no: faltan el propósito, la fuente y la autorización
 - **A2.** No. El permiso limita dónde se guarda.
 - **A3.** A y C. La burla daña a las personas.
 - **Z1.** No. Cada persona que aparece debe autorizar.
-- **Z2.** B. Primero se pregunta.
+- **Z2.** A. Primero se pregunta.
 - **D1.** A, C, B, D. Primero propósito y fuente, luego autorización y al final registro.
 - **D2.** 3. Se restan los autorizados de los que aparecen. Cálculo: 12 − 9 = 3.
 - **S1.** le pregunto primero. La autorización va antes del registro.
@@ -362,7 +362,7 @@ Respuesta: un texto escrito a mano o un dibujo
 
 - **C1.** Verdadero o falso: un dibujo con rótulos puede ser un registro válido de una experiencia.
 - **C2.** Medios de práctica: A) un texto escrito a mano. B) un dibujo con rótulos. C) un audio grabado con un dispositivo del colegio. D) un video con rostros de estudiantes. ¿Cuál guarda solo la voz, sin mostrar rostros: C o D?
-- **C3.** Un medio accesible es A) el que todos pueden usar. B) el más caro. ¿Cuál es?
+- **C3.** Un medio accesible es A) el más caro. ¿Cuál es B) el que todos pueden usar.?
 
 *Aplicación*
 
@@ -373,7 +373,7 @@ Respuesta: un texto escrito a mano o un dibujo
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si grabo un video, el registro es mejor que un texto». ¿Es siempre cierto? Sí o No.
-- **Z2.** Propósito: guardar la opinión de varios estudiantes sin mostrar sus rostros. Opciones: A) video. B) texto escrito con sus iniciales y permiso. ¿Cuál cuida mejor?
+- **Z2.** Propósito: guardar la opinión de varios estudiantes sin mostrar sus rostros. Opciones: A) texto escrito con sus iniciales y permiso. ¿Cuál cuida mejor B) video.?
 
 *Desafío*
 
@@ -399,12 +399,12 @@ Respuesta: un texto escrito a mano o un dibujo
 - **R3.** No. Analógico quiere decir sin tecnología digital.
 - **C1.** Verdadero. El dibujo también guarda la experiencia.
 - **C2.** C. El audio guarda la voz sin imagen; el video, además, muestra las caras.
-- **C3.** A. Accesible significa que todos pueden usarlo.
+- **C3.** B. Accesible significa que todos pueden usarlo.
 - **A1.** A y B. El texto y el dibujo en papel no necesitan tecnología; C y D usan un dispositivo.
 - **A2.** A. La experiencia se puede registrar de otra manera.
 - **A3.** la que funciona sin cuenta. No se entregan datos personales sin necesidad.
 - **Z1.** No. Depende del propósito y del cuidado de las personas.
-- **Z2.** B. El texto no muestra rostros.
+- **Z2.** A. El texto no muestra rostros.
 - **D1.** 2. Se restan los tres medios que guardan imagen o voz. Cálculo: 5 − 3 = 2.
 - **D2.** B, A, C. Primero lo posible, luego lo seguro y al final el propósito.
 - **S1.** una tarjeta dibujada por el curso. El dibujo no muestra rostros y todos pueden participar.
@@ -780,18 +780,18 @@ Respuesta: se guardó en un sitio abierto; debe guardarse en la sala
 
 - **C1.** Verdadero o falso: un registro puede guardarse en un sitio abierto si quedó muy bien escrito.
 - **C2.** En el borrador de práctica, ¿qué dato personal aparece: los nombres completos de dos estudiantes o el saludo?
-- **C3.** El contexto de un registro responde A) cuándo, dónde y para qué. B) con qué color se escribió. ¿Cuál es?
+- **C3.** El contexto de un registro responde A) con qué color se escribió. ¿Cuál es B) cuándo, dónde y para qué.?
 
 *Aplicación*
 
 - **A1.** Borrador de práctica (inventado): «Hoy vino una visita. Dijimos mari marí y después chaltumay. Pedro Soto y Ana Rojas hicieron un dibujo. Lo guardamos en un sitio abierto de internet.» Cuenta los problemas: 1) «marí» mal escrito, 2) apellidos, 3) almacenamiento abierto, 4) falta la autoría de la educadora. ¿Cuántos problemas hay en total?
-- **A2.** ¿Cómo queda mejor la parte «Pedro Soto y Ana Rojas hicieron un dibujo» sin datos personales? A) «El curso hizo un dibujo». B) «Pedro y Ana Rojas hicieron un dibujo».
+- **A2.** ¿Cómo queda mejor la parte «Pedro Soto y Ana Rojas hicieron un dibujo» sin datos personales? A) «Pedro y Ana Rojas hicieron un dibujo» B) «El curso hizo un dibujo»..
 - **A3.** Completa la autoría: «Palabras enseñadas por ____. Registro hecho por el curso». Elige: la educadora tradicional o un sitio de internet.
 
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si las palabras están bien escritas, el registro ya está listo». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de guardar: A) en una carpeta del colegio autorizada. B) en un sitio abierto porque «así lo ven más personas». ¿Cuál respeta el permiso de «solo para guardar en la sala»?
+- **Z2.** Dos formas de guardar: A) en un sitio abierto porque «así lo ven más personas». ¿Cuál respeta el permiso de «solo para guardar en la sala» B) en una carpeta del colegio autorizada.?
 
 *Desafío*
 
@@ -817,12 +817,12 @@ Respuesta: se guardó en un sitio abierto; debe guardarse en la sala
 - **R3.** quién hizo o enseñó algo. Dónde se guarda es el almacenamiento.
 - **C1.** Falso. El lugar debe respetar el permiso de la fuente.
 - **C2.** los nombres completos de dos estudiantes. Pedro Soto y Ana Rojas se identifican con nombre y apellido.
-- **C3.** A. Contexto es lo que rodea lo ocurrido.
+- **C3.** B. Contexto es lo que rodea lo ocurrido.
 - **A1.** 4. Son cuatro, uno por cada pregunta de revisión.
-- **A2.** A. La B deja un apellido; «el curso» no identifica a nadie.
+- **A2.** B. La B deja un apellido; «el curso» no identifica a nadie.
 - **A3.** la educadora tradicional. Ella es la fuente de las palabras.
 - **Z1.** No. Faltan contexto, autoría y almacenamiento.
-- **Z2.** A. La carpeta del colegio respeta el permiso.
+- **Z2.** B. La carpeta del colegio respeta el permiso.
 - **D1.** 3. Se restan las preguntas que fallaron. Cálculo: 4 − 1 = 3.
 - **D2.** B, D, C, A. Lengua, contexto, autoría y almacenamiento.
 - **S1.** «Respetemos el permiso». El almacenamiento debe respetar la autorización.

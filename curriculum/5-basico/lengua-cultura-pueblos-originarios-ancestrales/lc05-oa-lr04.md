@@ -150,7 +150,7 @@ Respuesta: Cinco palabras.
 *Comprensión*
 
 - **C1.** Verdadero o falso: una frase breve tiene una sola idea.
-- **C2.** El destinatario es: A) la persona que recibe el mensaje B) la persona que lo escribe
+- **C2.** El destinatario es: A) la persona que lo escribe B) la persona que recibe el mensaje
 - **C3.** Verdadero o falso: puedo escribir frases completas en lengua indígena sin ayuda.
 
 *Aplicación*
@@ -162,7 +162,7 @@ Respuesta: Cinco palabras.
 *Razonamiento y análisis*
 
 - **Z1.** Un compañero escribe un mensaje con seis ideas en una sola frase muy larga. ¿Qué falla?
-- **Z2.** Una niña pone «mari mari» en un aviso de peligro sin que corresponda. ¿Qué debe hacer? A) consultar si corresponde B) dejarlo
+- **Z2.** Una niña pone «mari mari» en un aviso de peligro sin que corresponda. ¿Qué debe hacer? A) dejarlo B) consultar si corresponde
 
 *Desafío*
 
@@ -187,13 +187,13 @@ Respuesta: Cinco palabras.
 - **R2.** Cinco. Son no, botes, basura, al y río.
 - **R3.** Gracias. La ficha lo dice.
 - **C1.** Verdadero. Es lo que la hace clara.
-- **C2.** A. Destinatario es a quien va el mensaje.
+- **C2.** B. Destinatario es a quien va el mensaje.
 - **C3.** Falso. Las enseña quien la habla.
 - **A1.** Agradecer. El mensaje empieza dando las gracias.
 - **A2.** 1-b, 2-c, 3-a. Cuidar el río es natural, la reunión es social y agradecer a quien enseña es cultural.
 - **A3.** Cinco. Son cuidemos, la, vertiente, entre y todos.
 - **Z1.** No es una frase breve. Debe haber una idea por frase.
-- **Z2.** A. Solo se usa lo que corresponde.
+- **Z2.** B. Solo se usa lo que corresponde.
 - **D1.** M1. Tiene una idea y datos concretos.
 - **D2.** A. La comunidad decide.
 - **S1.** A. El mensaje debe ser claro.
@@ -350,7 +350,7 @@ Respuesta: Faltan cuándo y quién.
 
 *Recuperación*
 
-- **R1.** Un mensaje completo responde: A) qué, cuándo, dónde y quién B) solo quién
+- **R1.** Un mensaje completo responde: A) solo quién B) qué, cuándo, dónde y quién
 - **R2.** Mensaje: «Limpieza del camino: sábado 10:00, frente a la sede». ¿En qué lugar es?
 - **R3.** Mensaje: «Trae una pala». ¿Qué debes llevar?
 
@@ -369,16 +369,16 @@ Respuesta: Faltan cuándo y quién.
 *Razonamiento y análisis*
 
 - **Z1.** Tomás lee «Reunión en la sede» y decide que es el sábado. ¿Qué error comete?
-- **Z2.** Un mensaje dice «Vamos al lugar de respeto de la comunidad, que está en el cerro». La comunidad no lo comparte. ¿Qué haces? A) no lo difundo y pregunto B) lo comparto
+- **Z2.** Un mensaje dice «Vamos al lugar de respeto de la comunidad, que está en el cerro». La comunidad no lo comparte. ¿Qué haces? A) lo comparto B) no lo difundo y pregunto
 
 *Desafío*
 
 - **D1.** Dos avisos. A1: «Limpieza del camino: sábado 10:00, frente a la sede». A2: «Limpieza del camino pronto». ¿Cuál es más completo?
-- **D2.** ¿Cuál reescritura hace más completo el mensaje «Reunión en la sede»? A) «Reunión en la sede el sábado a las 10:00. Directiva de la comunidad» B) «Reunión en la sede, ven pronto»
+- **D2.** ¿Cuál reescritura hace más completo el mensaje «Reunión en la sede»? A) «Reunión en la sede, ven pronto» B) «Reunión en la sede el sábado a las 10:00. Directiva de la comunidad»
 
 *Situaciones auténticas*
 
-- **S1.** Recibes el mensaje «Hay trabajo en la quebrada» sin más datos. ¿Qué haces? A) pregunto qué, cuándo y dónde B) voy a cualquier hora
+- **S1.** Recibes el mensaje «Hay trabajo en la quebrada» sin más datos. ¿Qué haces? A) voy a cualquier hora B) pregunto qué, cuándo y dónde
 
 *Autoevaluación*
 
@@ -390,7 +390,7 @@ Respuesta: Faltan cuándo y quién.
 
 **Solucionario razonado**
 
-- **R1.** A. Esos son los datos.
+- **R1.** B. Esos son los datos.
 - **R2.** Frente a la sede. El mensaje lo dice.
 - **R3.** Una pala. El mensaje lo dice.
 - **C1.** Falso. Se pregunta a quien lo envió.
@@ -400,10 +400,10 @@ Respuesta: Faltan cuándo y quién.
 - **A2.** 1-b, 2-a. Cada dato responde una pregunta.
 - **A3.** La hora y el lugar. No dice ni hora ni lugar.
 - **Z1.** Supone la fecha. El mensaje no la trae.
-- **Z2.** A. La comunidad decide.
+- **Z2.** B. La comunidad decide.
 - **D1.** A1. Trae cuándo y dónde; A2 solo dice «pronto».
-- **D2.** A. Agrega cuándo y quién; «pronto» no es un dato.
-- **S1.** A. Faltan datos para ir.
+- **D2.** B. Agrega cuándo y quién; «pronto» no es un dato.
+- **S1.** B. Faltan datos para ir.
 - **E1.** Qué, cuándo, dónde y quién. Son los datos de la clase.
 - **E2.** Falso. Lo que falta se pregunta.
 - **E3.** La comunidad Lomas del Sur. Se indica al final.
@@ -557,8 +557,8 @@ Respuesta: Medio natural.
 
 *Recuperación*
 
-- **R1.** A una persona mayor le escribo con: A) un tratamiento respetuoso B) bromas
-- **R2.** Un mensaje para cuidar un río es del medio: A) natural B) cultural
+- **R1.** A una persona mayor le escribo con: A) bromas B) un tratamiento respetuoso
+- **R2.** Un mensaje para cuidar un río es del medio: A) cultural B) natural
 - **R3.** Ficha de palabras (de práctica): en mapuzugun «ko» es agua, «mapu» es tierra, «antü» es sol, «kuyen» es luna, «ruka» es casa y «ñuke» es madre. «mari mari» es un saludo y «chaltumay» es «gracias» en mapuzugun. «iorana» es un saludo y «maururu» es «gracias» en rapa nui. ¿Qué palabra de la ficha sirve como agradecimiento en mapuzugun?
 
 *Comprensión*
@@ -569,9 +569,9 @@ Respuesta: Medio natural.
 
 *Aplicación*
 
-- **A1.** ¿Cuál es una versión cordial de «Vengan a la reunión»? A) «Los invitamos a la reunión del sábado a las 10» B) «Vengan ya, no falten»
+- **A1.** ¿Cuál es una versión cordial de «Vengan a la reunión»? A) «Vengan ya, no falten» B) «Los invitamos a la reunión del sábado a las 10»
 - **A2.** Une cada mensaje con su medio. 1) «Gracias por enseñarnos a sembrar» 2) «Cuidemos la vertiente» 3) «Reunión de vecinos el sábado». a) social b) cultural c) natural
-- **A3.** ¿Cuál saludo a una persona mayor usa un tratamiento respetuoso? A) «Buenos días, don Mateo» B) «Ey, Mateo»
+- **A3.** ¿Cuál saludo a una persona mayor usa un tratamiento respetuoso? A) «Ey, Mateo» B) «Buenos días, don Mateo»
 
 *Razonamiento y análisis*
 
@@ -581,11 +581,11 @@ Respuesta: Medio natural.
 *Desafío*
 
 - **D1.** ¿Cuál mensaje es breve, cordial y del medio natural? A) «Cuidemos la vertiente: no dejemos basura» B) «Reunión de vecinos el sábado en la sede»
-- **D2.** Si quieres agradecer en lengua indígena a una persona de tu comunidad y no estás seguro, ¿qué haces? A) pregunto al educador tradicional cómo se dice B) uso una palabra parecida
+- **D2.** Si quieres agradecer en lengua indígena a una persona de tu comunidad y no estás seguro, ¿qué haces? A) uso una palabra parecida B) pregunto al educador tradicional cómo se dice
 
 *Situaciones auténticas*
 
-- **S1.** Vas a escribir un agradecimiento a una persona mayor que vino a tu escuela. ¿Cómo empiezas? A) “Gracias, doña Elena, por venir” B) “Ya gracias”
+- **S1.** Vas a escribir un agradecimiento a una persona mayor que vino a tu escuela. ¿Cómo empiezas? A) “Ya gracias” B) “Gracias, doña Elena, por venir”
 
 *Autoevaluación*
 
@@ -597,20 +597,20 @@ Respuesta: Medio natural.
 
 **Solucionario razonado**
 
-- **R1.** A. Esa forma muestra respeto.
-- **R2.** A. Cuida la naturaleza.
+- **R1.** B. Esa forma muestra respeto.
+- **R2.** B. Cuida la naturaleza.
 - **R3.** Chaltumay. La ficha lo traduce como gracias.
 - **C1.** Verdadero. Los datos deben mantenerse.
 - **C2.** A. Convoca a personas.
 - **C3.** Falso. No se inventa lengua.
-- **A1.** A. Se cambia la orden por una invitación.
+- **A1.** B. Se cambia la orden por una invitación.
 - **A2.** 1-b, 2-c, 3-a. Cada mensaje responde a un medio.
-- **A3.** A. «Don» muestra respeto.
+- **A3.** B. «Don» muestra respeto.
 - **Z1.** El tono es una orden brusca. Debe ser cordial.
 - **Z2.** A. No siempre corresponde.
 - **D1.** A. Cuidar la vertiente es del medio natural; la reunión es del social.
-- **D2.** A. La forma correcta la enseña quien habla.
-- **S1.** A. Se usa tratamiento respetuoso.
+- **D2.** B. La forma correcta la enseña quien habla.
+- **S1.** B. Se usa tratamiento respetuoso.
 - **E1.** Natural, social y cultural. Son los medios de la clase.
 - **E2.** Verdadero. Un tono cordial muestra respeto.
 - **E3.** Verdadero. Es un saludo atestiguado.
@@ -764,15 +764,15 @@ Respuesta: Faltan datos y se pide un dato privado.
 
 *Recuperación*
 
-- **R1.** Un mensaje atribuido dice: A) quién lo envía o de quién viene el dato B) solo la hora
+- **R1.** Un mensaje atribuido dice: A) solo la hora B) quién lo envía o de quién viene el dato
 - **R2.** Una dirección de casa es: A) un dato privado B) un dato que siempre se comparte
-- **R3.** Un mensaje completo tiene: A) qué, cuándo, dónde y quién B) solo quién
+- **R3.** Un mensaje completo tiene: A) solo quién B) qué, cuándo, dónde y quién
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: debo revisar el mensaje con una lista antes de enviarlo.
 - **C2.** Verdadero o falso: puedo pedir las direcciones de todos en un aviso a la comunidad.
-- **C3.** ¿Quién puede corregir una palabra indígena de mi mensaje? A) el educador tradicional B) cualquier compañero
+- **C3.** ¿Quién puede corregir una palabra indígena de mi mensaje? A) cualquier compañero B) el educador tradicional
 
 *Aplicación*
 
@@ -783,7 +783,7 @@ Respuesta: Faltan datos y se pide un dato privado.
 *Razonamiento y análisis*
 
 - **Z1.** Pablo envía «Según todos, la reunión es mañana». ¿Qué falla?
-- **Z2.** Una niña quiere enviar a la comunidad un mensaje con una palabra indígena que no conoce bien. ¿Qué debe hacer? A) mostrarlo antes al educador tradicional B) enviarlo igual
+- **Z2.** Una niña quiere enviar a la comunidad un mensaje con una palabra indígena que no conoce bien. ¿Qué debe hacer? A) enviarlo igual B) mostrarlo antes al educador tradicional
 
 *Desafío*
 
@@ -804,17 +804,17 @@ Respuesta: Faltan datos y se pide un dato privado.
 
 **Solucionario razonado**
 
-- **R1.** A. Atribuir es nombrar la fuente.
+- **R1.** B. Atribuir es nombrar la fuente.
 - **R2.** A. No se comparte.
-- **R3.** A. Son los cuatro datos.
+- **R3.** B. Son los cuatro datos.
 - **C1.** Verdadero. Revisar evita errores.
 - **C2.** Falso. Son datos privados.
-- **C3.** A. Conoce la lengua.
+- **C3.** B. Conoce la lengua.
 - **A1.** b, c, d, a. Propósito, frases, tono y revisión.
 - **A2.** Según. Atribuye la información.
 - **A3.** No. Falta quién lo envía.
 - **Z1.** No nombra una fuente concreta. “Todos” no es una fuente.
-- **Z2.** A. Él puede corregirlo.
+- **Z2.** B. Él puede corregirlo.
 - **D1.** M1. M1 trae qué, cuándo, dónde y quién; M2 no dice dónde ni quién.
 - **D2.** A. Se acepta la corrección.
 - **S1.** A. La revisión cuida el respeto.

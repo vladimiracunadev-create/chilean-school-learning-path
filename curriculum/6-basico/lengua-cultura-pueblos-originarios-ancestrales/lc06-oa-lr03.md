@@ -157,9 +157,9 @@ Respuesta: Elementos: nieve y leña. Glosario: mari mari = saludo.
 
 *Aplicación*
 
-- **A1.** Texto inventado: «Los niños apilan la leña y los mayores cuentan un cuento». Clasifica en PERSONAS o ACCIÓN: a) los niños y los mayores b) apilan la leña.
+- **A1.** Texto inventado: «Los niños apilan la leña y los mayores cuentan un cuento». Clasifica en PERSONAS o ACCIÓN: a) apilan la leña b) los niños y los mayores.
 - **A2.** Texto inventado: «Chaltumay por cuidar el pozo». ¿Qué agradece la persona? A) cargar leña B) cuidar el pozo
-- **A3.** Una ficha no trae permiso. ¿Qué haces? A) pido el permiso antes de usarla B) la uso igual
+- **A3.** Una ficha no trae permiso. ¿Qué haces? A) la uso igual B) pido el permiso antes de usarla
 
 *Razonamiento y análisis*
 
@@ -191,9 +191,9 @@ Respuesta: Elementos: nieve y leña. Glosario: mari mari = saludo.
 - **C1.** Verdadero. Transmite saberes de la comunidad.
 - **C2.** Falso. Incluye el significado y quién la enseñó.
 - **C3.** A. Se destaca por su idea.
-- **A1.** a personas, b acción. La primera nombra quién; la segunda, qué hacen.
+- **A1.** b personas, b acción. La primera nombra quién; la segunda, qué hacen.
 - **A2.** B. El texto lo dice.
-- **A3.** A. Sin permiso no se usa.
+- **A3.** B. Sin permiso no se usa.
 - **Z1.** Jerarquiza el texto escrito sobre el oral. Ambos transmiten saberes.
 - **Z2.** B. «Maururu» es gracias.
 - **D1.** 9 elementos. Se suman los tres tipos. Cálculo: 3 + 2 + 4 = 9.
@@ -354,8 +354,8 @@ Respuesta: Dice: apilan y cuentan. Interpreto: aprenden con los mayores. No se c
 
 *Recuperación*
 
-- **R1.** Texto inventado: «Cada familia anota su turno». ¿Qué anota cada familia? A) su receta B) su turno
-- **R2.** ¿Qué marca una idea tuya? A) «el texto afirma que» B) «yo pienso que»
+- **R1.** Texto inventado: «Cada familia anota su turno». ¿Qué anota cada familia? A) su turno B) su receta
+- **R2.** ¿Qué marca una idea tuya? A) «yo pienso que» B) «el texto afirma que»
 - **R3.** Si el texto no explica algo, ¿qué escribes? A) lo invento B) el texto no lo explica
 
 *Comprensión*
@@ -366,9 +366,9 @@ Respuesta: Dice: apilan y cuentan. Interpreto: aprenden con los mayores. No se c
 
 *Aplicación*
 
-- **A1.** Texto: «Los mayores guardan la leña en la bodega». Clasifica en DICE EL TEXTO o INTERPRETO: a) los mayores guardan la leña b) los mayores son muy ordenados.
-- **A2.** Texto: «Mari mari a quien llega a la casa». ¿Qué pista da el contexto? A) sugiere una despedida B) sugiere un saludo
-- **A3.** El texto no dice por qué guardan la leña. ¿Qué escribes en los límites? A) el texto no explica por qué la guardan B) la guardan por frío
+- **A1.** Texto: «Los mayores guardan la leña en la bodega». Clasifica en DICE EL TEXTO o INTERPRETO: a) los mayores son muy ordenados b) los mayores guardan la leña.
+- **A2.** Texto: «Mari mari a quien llega a la casa». ¿Qué pista da el contexto? A) sugiere un saludo B) sugiere una despedida
+- **A3.** El texto no dice por qué guardan la leña. ¿Qué escribes en los límites? A) la guardan por frío B) el texto no explica por qué la guardan
 
 *Razonamiento y análisis*
 
@@ -378,11 +378,11 @@ Respuesta: Dice: apilan y cuentan. Interpreto: aprenden con los mayores. No se c
 *Desafío*
 
 - **D1.** Texto de Cumbre Nevada: «Cuando cae la primera nieve, guardamos la leña bajo techo». Dos interpretaciones. Una: «yo pienso que se prepara el invierno». Otra: «la comunidad cree que la nieve es sagrada». ¿Cuál se apoya en el texto?
-- **D2.** Un texto trae una palabra en lengua que no está en tu glosario. ¿Qué haces? A) escribo uno inventado B) la anoto con espacio para el significado
+- **D2.** Un texto trae una palabra en lengua que no está en tu glosario. ¿Qué haces? A) la anoto con espacio para el significado B) escribo uno inventado
 
 *Situaciones auténticas*
 
-- **S1.** Lees en un cartel una palabra en lengua que no conoces. Una compañera dice que seguro significa lo mismo que en castellano. ¿Qué le dices? A) que lo confirmemos con el educador B) que tiene razón
+- **S1.** Lees en un cartel una palabra en lengua que no conoces. Una compañera dice que seguro significa lo mismo que en castellano. ¿Qué le dices? A) que tiene razón B) que lo confirmemos con el educador
 
 *Autoevaluación*
 
@@ -394,20 +394,20 @@ Respuesta: Dice: apilan y cuentan. Interpreto: aprenden con los mayores. No se c
 
 **Solucionario razonado**
 
-- **R1.** B. El texto lo dice.
-- **R2.** B. Marca una interpretación.
+- **R1.** A. El texto lo dice.
+- **R2.** A. Marca una interpretación.
 - **R3.** B. Se declara el límite.
 - **C1.** Verdadero. Una pista no reemplaza al significado.
 - **C2.** Falso. Debe apoyarse en el texto.
 - **C3.** A. Primero contexto, luego confirmación.
-- **A1.** a dice el texto, b interpreto. La segunda es una suposición.
-- **A2.** B. Se dirige a quien llega.
-- **A3.** A. Se declara lo que no se sabe.
+- **A1.** b dice el texto, b interpreto. La segunda es una suposición.
+- **A2.** A. Se dirige a quien llega.
+- **A3.** B. Se declara lo que no se sabe.
 - **Z1.** Deduce el significado por la posición y no lo confirma. «Chaltumay» agradece; la posición no lo define.
 - **Z2.** A. Es interpretación apoyada.
 - **D1.** La primera. La segunda inventa una creencia.
-- **D2.** B. No se inventan significados.
-- **S1.** A. No se adivina el significado.
+- **D2.** A. No se inventan significados.
+- **S1.** B. No se adivina el significado.
 - **E1.** Leer completo, marcar elementos y separar dice, interpreto y no se explica. Son los pasos.
 - **E2.** Verdadero. La confirmación es del educador.
 - **E3.** B. No se inventa.
@@ -563,7 +563,7 @@ Respuesta: Un aljibe es un depósito donde se guarda agua.
 
 *Recuperación*
 
-- **R1.** ¿Qué palabra pertenece al campo del agua? A) lápiz B) pozo
+- **R1.** ¿Qué palabra pertenece al campo del agua? A) pozo B) lápiz
 - **R2.** ¿Qué es un aljibe? A) un depósito de agua B) un animal
 - **R3.** ¿Cómo se llama el conocimiento que una comunidad desarrolla y transmite? A) saber B) turno
 
@@ -571,18 +571,18 @@ Respuesta: Un aljibe es un depósito donde se guarda agua.
 
 - **C1.** Verdadero o falso: el contexto ayuda a deducir el sentido de una palabra nueva en castellano.
 - **C2.** Verdadero o falso: una palabra en lengua se puede cambiar por otra parecida.
-- **C3.** ¿Qué es un campo de significado? A) palabras de la misma letra B) palabras relacionadas con una misma idea
+- **C3.** ¿Qué es un campo de significado? A) palabras relacionadas con una misma idea B) palabras de la misma letra
 
 *Aplicación*
 
-- **A1.** Oración: «El canal lleva el agua desde el río hasta la huerta». ¿Qué es un canal? A) un camino para el agua B) un tipo de pan
+- **A1.** Oración: «El canal lleva el agua desde el río hasta la huerta». ¿Qué es un canal? A) un tipo de pan B) un camino para el agua
 - **A2.** Clasifica cada palabra en AGUA o ANIMALES: a) pozo b) oveja.
-- **A3.** Tienes el campo «turno, cuaderno, anotar, familias». ¿Qué saber transmite? A) cocinar pan B) organizar el uso compartido
+- **A3.** Tienes el campo «turno, cuaderno, anotar, familias». ¿Qué saber transmite? A) organizar el uso compartido B) cocinar pan
 
 *Razonamiento y análisis*
 
 - **Z1.** Marta dice que una palabra en lengua «significa lo mismo que en castellano» sin consultar. ¿Qué error comete?
-- **Z2.** Andrés cita el saber de Arenal Ancho como «lo que hacen todos los pueblos». ¿Qué falla? A) generaliza un saber de una comunidad B) usa letra pequeña
+- **Z2.** Andrés cita el saber de Arenal Ancho como «lo que hacen todos los pueblos». ¿Qué falla? A) usa letra pequeña B) generaliza un saber de una comunidad
 
 *Desafío*
 
@@ -591,35 +591,35 @@ Respuesta: Un aljibe es un depósito donde se guarda agua.
 
 *Situaciones auténticas*
 
-- **S1.** Preparas un cartel con vocabulario de un texto de una comunidad. ¿Cómo presentas cada palabra? A) con su significado, su fuente y la comunidad B) solo la palabra en grande
+- **S1.** Preparas un cartel con vocabulario de un texto de una comunidad. ¿Cómo presentas cada palabra? A) solo la palabra en grande B) con su significado, su fuente y la comunidad
 
 *Autoevaluación*
 
 - **E1.** Escribe una palabra de un campo de significado del agua.
 - **E2.** Verdadero o falso: el vocabulario pertinente se usa con el sentido enseñado.
-- **E3.** ¿Qué haces con una palabra nueva en lengua? A) la anoto con espacio para el educador B) la invento
+- **E3.** ¿Qué haces con una palabra nueva en lengua? A) la invento B) la anoto con espacio para el educador
 
 **Actividad abierta.** Con este texto inventado de don Cristóbal, de Arenal Ancho: «El pozo se comparte por turnos. Cada familia anota su turno en el cuaderno. El aljibe guarda agua de lluvia para el verano. Chaltumay por cuidar el agua», haz: 1) un campo de significado de cuatro palabras, 2) la deducción por contexto de «aljibe», 3) un glosario con las palabras en lengua y 4) una cita del saber con su fuente. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** B. El pozo guarda agua.
+- **R1.** A. El pozo guarda agua.
 - **R2.** A. El aljibe guarda agua.
 - **R3.** A. Es el saber de la comunidad.
 - **C1.** Verdadero. Las pistas dan sentido.
 - **C2.** Falso. Se usa tal como la enseña el educador.
-- **C3.** B. Se relacionan por el sentido.
-- **A1.** A. El contexto indica que lleva agua.
+- **C3.** A. Se relacionan por el sentido.
+- **A1.** B. El contexto indica que lleva agua.
 - **A2.** a agua, b animales. El pozo guarda agua y la oveja es un animal.
-- **A3.** B. Las palabras se relacionan con organizar turnos.
+- **A3.** A. Las palabras se relacionan con organizar turnos.
 - **Z1.** Da por hecho un significado sin confirmar. El significado lo da el educador.
-- **Z2.** A. Cada saber pertenece a una comunidad.
+- **Z2.** B. Cada saber pertenece a una comunidad.
 - **D1.** La primera. Todas se relacionan con el agua.
 - **D2.** 7 palabras. Se suman ambas listas. Cálculo: 5 + 2 = 7.
-- **S1.** A. El vocabulario se atribuye.
+- **S1.** B. El vocabulario se atribuye.
 - **E1.** Pozo, canal, aljibe, río o agua. Se relacionan con el agua.
 - **E2.** Verdadero. No se cambia.
-- **E3.** A. No se inventa.
+- **E3.** B. No se inventa.
 
 **Actividad abierta · ejemplo de respuesta.** Campo: pozo, turno, cuaderno, agua. Aljibe: depósito donde se guarda agua de lluvia. Glosario: chaltumay = gracias en mapuzugun. Cita: según don Cristóbal, de Arenal Ancho, el pozo se comparte por turnos.
 
@@ -773,8 +773,8 @@ Respuesta: Se cambia por una razón del texto, como «porque enseña a preparars
 *Recuperación*
 
 - **R1.** ¿Cuántas partes tiene la ficha de lectura de esta clase? Escribe el número.
-- **R2.** ¿Qué es la idea principal? A) lo más importante del texto en una frase B) una letra del texto
-- **R3.** ¿Qué incluye el vocabulario de la ficha? A) solo el color B) significado y quién lo enseñó
+- **R2.** ¿Qué es la idea principal? A) una letra del texto B) lo más importante del texto en una frase
+- **R3.** ¿Qué incluye el vocabulario de la ficha? A) significado y quién lo enseñó B) solo el color
 
 *Comprensión*
 
@@ -784,14 +784,14 @@ Respuesta: Se cambia por una razón del texto, como «porque enseña a preparars
 
 *Aplicación*
 
-- **A1.** Texto: «Se comparte el agua del pozo por turnos». Escribe la idea principal. A) el agua se comparte por turnos B) hay un cuaderno de colores
+- **A1.** Texto: «Se comparte el agua del pozo por turnos». Escribe la idea principal. A) hay un cuaderno de colores B) el agua se comparte por turnos
 - **A2.** Clasifica en IDEA PRINCIPAL o ELEMENTO: a) el pozo b) las familias comparten el agua por turnos.
-- **A3.** Valoración: «Valoro este texto porque enseña a repartir el agua de forma justa». ¿Cuál es la razón? A) valoro B) enseña a repartir el agua de forma justa
+- **A3.** Valoración: «Valoro este texto porque enseña a repartir el agua de forma justa». ¿Cuál es la razón? A) enseña a repartir el agua de forma justa B) valoro
 
 *Razonamiento y análisis*
 
 - **Z1.** Lucía copia todo el texto en su ficha. ¿Qué error comete?
-- **Z2.** Una ficha no tiene vocabulario. ¿Qué le falta? A) las palabras en lengua con significado y fuente B) más dibujos
+- **Z2.** Una ficha no tiene vocabulario. ¿Qué le falta? A) más dibujos B) las palabras en lengua con significado y fuente
 
 *Desafío*
 
@@ -806,29 +806,29 @@ Respuesta: Se cambia por una razón del texto, como «porque enseña a preparars
 
 - **E1.** Nombra tres partes de la ficha de lectura.
 - **E2.** Verdadero o falso: la ficha se muestra a la fuente para que la revise.
-- **E3.** ¿Qué haces con el vocabulario que no te enseñaron? A) lo invento B) dejo un espacio para el educador
+- **E3.** ¿Qué haces con el vocabulario que no te enseñaron? A) dejo un espacio para el educador B) lo invento
 
 **Actividad abierta.** Completa una ficha de lectura con este texto inventado de don Cristóbal, de Arenal Ancho: «Se comparte el agua del pozo por turnos. Cada familia anota su turno en el cuaderno común. Los niños ayudan a sacar el agua. Chaltumay por cuidar el pozo». La ficha tiene: título y fuente, idea principal, tres elementos, vocabulario (con significado y fuente) y una valoración que empiece con «Valoro este texto porque…». Agrega una frase de devolución. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** 5. Son cinco partes en total.
-- **R2.** A. Esa es la definición.
-- **R3.** B. Se atribuye la fuente.
+- **R2.** B. Esa es la definición.
+- **R3.** A. Se atribuye la fuente.
 - **C1.** Verdadero. Así queda fundamentada.
 - **C2.** Falso. No tiene razón.
 - **C3.** B. Ellos validan lo que se dice.
-- **A1.** A. Resume el texto.
+- **A1.** B. Resume el texto.
 - **A2.** a elemento, b idea principal. El pozo es una parte; la segunda es la idea completa.
-- **A3.** B. Es lo que explica el valor.
+- **A3.** A. Es lo que explica el valor.
 - **Z1.** No resume la idea principal. La ficha debe resumir.
-- **Z2.** A. El vocabulario es parte de la ficha.
+- **Z2.** B. El vocabulario es parte de la ficha.
 - **D1.** La primera. Tiene todas las partes.
 - **D2.** 7 datos. Se suman los datos de cada parte. Cálculo: 1 + 3 + 2 + 1 = 7.
 - **S1.** A. Así se atribuye y se valora.
 - **E1.** Tres entre: título y fuente, idea principal, elementos, vocabulario y valoración. Son partes de la clase.
 - **E2.** Verdadero. Es la devolución.
-- **E3.** B. No se inventa.
+- **E3.** A. No se inventa.
 
 **Actividad abierta · ejemplo de respuesta.** Título: El pozo compartido (don Cristóbal). Idea principal: las familias comparten el agua del pozo por turnos. Elementos: pozo, cuaderno, niños. Vocabulario: chaltumay = gracias en mapuzugun. Valoración: valoro este texto porque enseña a repartir el agua de forma justa. Devolución: le mostraré la ficha a don Cristóbal.
 
@@ -983,18 +983,18 @@ Respuesta: Debe describir el aporte de cada texto, sin ordenar.
 
 - **R1.** En el texto de Arenal Ancho, ¿cómo se anotan los turnos? A) en un cuaderno B) en una pizarra
 - **R2.** En el texto de Cumbre Nevada, ¿qué se guarda? A) la leña B) el agua
-- **R3.** ¿Qué expresión marca una diferencia sin ordenar? A) «es mejor» B) «en cambio»
+- **R3.** ¿Qué expresión marca una diferencia sin ordenar? A) «en cambio» B) «es mejor»
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: contrastar dos textos es decir cuál es el mejor.
 - **C2.** Verdadero o falso: un texto oral y uno escrito pueden ser igualmente valiosos como fuentes.
-- **C3.** ¿Qué debe haber en cada texto para usarlo como fuente? A) letra bonita B) fuente clara y permiso
+- **C3.** ¿Qué debe haber en cada texto para usarlo como fuente? A) fuente clara y permiso B) letra bonita
 
 *Aplicación*
 
 - **A1.** Criterio «qué saber transmite». A: prepararse juntos para el invierno. B: repartir el agua por turnos. ¿Qué diferencia hay? A) cada texto enseña un saber distinto B) ambos enseñan lo mismo
-- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) en ambos textos hay una comunidad organizada b) uno es oral y el otro, escrito.
+- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) uno es oral y el otro, escrito b) en ambos textos hay una comunidad organizada.
 - **A3.** Completa: «A diferencia del relato de Cumbre Nevada, el cartel de Arenal Ancho…» A) es oral B) está escrito
 
 *Razonamiento y análisis*
@@ -1009,7 +1009,7 @@ Respuesta: Debe describir el aporte de cada texto, sin ordenar.
 
 *Situaciones auténticas*
 
-- **S1.** Para un diario mural escolar, tienes un relato oral y un cartel de dos comunidades. ¿Cómo los presentas? A) solo con el cartel B) con la fuente de cada uno y su aporte
+- **S1.** Para un diario mural escolar, tienes un relato oral y un cartel de dos comunidades. ¿Cómo los presentas? A) con la fuente de cada uno y su aporte B) solo con el cartel
 
 *Autoevaluación*
 
@@ -1023,18 +1023,18 @@ Respuesta: Debe describir el aporte de cada texto, sin ordenar.
 
 - **R1.** A. El texto lo dice.
 - **R2.** A. El texto habla de la leña.
-- **R3.** B. Describe sin jerarquizar.
+- **R3.** A. Describe sin jerarquizar.
 - **C1.** Falso. Contrastar es ver semejanzas y diferencias.
 - **C2.** Verdadero. Ambos transmiten saberes.
-- **C3.** B. Sin fuente ni permiso no se usa.
+- **C3.** A. Sin fuente ni permiso no se usa.
 - **A1.** A. Los saberes son distintos.
-- **A2.** a semejanza, b diferencia. La primera es común; la segunda, distinta.
+- **A2.** b semejanza, b diferencia. La primera es común; la segunda, distinta.
 - **A3.** B. El cartel es un texto escrito.
 - **Z1.** Piensa que solo lo escrito sirve como fuente. El oral transmite saberes.
 - **Z2.** A. Se valoran ambos.
 - **D1.** La primera. La segunda ignora el relato.
 - **D2.** 8 anotaciones. Se multiplican los textos por los criterios. Cálculo: 2 × 4 = 8.
-- **S1.** B. Se valoran ambos con su fuente.
+- **S1.** A. Se valoran ambos con su fuente.
 - **E1.** En ambos las personas se organizan en comunidad. Aparece en los dos textos.
 - **E2.** Verdadero. Así la comparación es justa.
 - **E3.** A. Él enseña la lengua.

@@ -366,7 +366,7 @@ Respuesta: dejo la nota incompleta y pregunto
 
 *Aplicación*
 
-- **A1.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. Escribe la nota de «llama». Elige: A) llama (del quechua): animal de los Andes. B) llama (del mapuzugun): animal de los Andes.
+- **A1.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. Escribe la nota de «llama». Elige: A) llama (del mapuzugun): animal de los Andes B) llama (del quechua): animal de los Andes..
 - **A2.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. Elige la nota correcta de «choclo»: A) choclo (del quechua): maíz tierno. B) choclo: ave.
 - **A3.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. ¿Qué parte falta en «guagua: bebé»?
 
@@ -400,7 +400,7 @@ Respuesta: dejo la nota incompleta y pregunto
 - **C1.** 3. Son tres partes.
 - **C2.** Falso. La ficha dice que viene del mapuzugun.
 - **C3.** pregunto. No invento datos.
-- **A1.** A. La ficha dice que viene del quechua.
+- **A1.** B. La ficha dice que viene del quechua.
 - **A2.** A. A tiene lengua y significado correctos.
 - **A3.** la lengua entre paréntesis. Debe decir (del quechua).
 - **Z1.** se sabe de dónde viene la palabra. Reconoce su origen.

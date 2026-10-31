@@ -143,7 +143,7 @@ Respuesta: Pregunta al educador tradicional antes de usarla
 
 *Recuperación*
 
-- **R1.** El interlocutor es: A) la persona con quien hablo B) el lugar donde está la sala.
+- **R1.** El interlocutor es: A) el lugar donde está la sala B) la persona con quien hablo.
 - **R2.** «mari mari» es un saludo en: A) mapuzugun B) rapa nui.
 - **R3.** «iorana» es un saludo en: A) mapuzugun B) rapa nui.
 
@@ -161,7 +161,7 @@ Respuesta: Pregunta al educador tradicional antes de usarla
 
 *Razonamiento y análisis*
 
-- **Z1.** Lalo dice: «Voy a usar esta expresión con todos porque la aprendí». ¿Qué debe preguntarse primero: A) con quién hablo y si es adecuado B) cuántas palabras sabe?
+- **Z1.** Lalo dice: «Voy a usar esta expresión con todos porque la aprendí». ¿Qué debe preguntarse primero: A) cuántas palabras sabe B) con quién hablo y si es adecuado?
 - **Z2.** Dos niños quieren decir «gracias» a un educador tradicional que enseña mapuzugun. Eva dice «chaltumay» y Gaspar dice «maururu». ¿Qué palabra de la ficha corresponde a mapuzugun?
 
 *Desafío*
@@ -183,7 +183,7 @@ Respuesta: Pregunta al educador tradicional antes de usarla
 
 **Solucionario razonado**
 
-- **R1.** A. Interlocutor es quien habla conmigo.
+- **R1.** B. Interlocutor es quien habla conmigo.
 - **R2.** A. La ficha dice que es mapuzugun.
 - **R3.** B. La ficha dice que es rapa nui.
 - **C1.** Falso. El interlocutor cambia la manera de hablar.
@@ -192,7 +192,7 @@ Respuesta: Pregunta al educador tradicional antes de usarla
 - **A1.** B, C, A. Miro, pregunto y luego saludo.
 - **A2.** gracias. «Maururu» es gracias en rapa nui.
 - **A3.** 10. Sumo los dos grupos. Cálculo: 6 + 4 = 10.
-- **Z1.** A. La situación y el interlocutor importan.
+- **Z1.** B. La situación y el interlocutor importan.
 - **Z2.** chaltumay. «chaltumay» es gracias en mapuzugun.
 - **D1.** 2. Faltan las que no se han revisado. Cálculo: 5 − 3 = 2.
 - **D2.** A. El respeto ayuda a aprender.
@@ -350,9 +350,9 @@ Respuesta: Corrige: antü es sol y kuyen es luna
 
 *Recuperación*
 
-- **R1.** Una expresión validada es una que: A) confirmó una persona que sabe B) inventé yo.
-- **R2.** Según la ficha, «kuyen» es: A) sol B) luna.
-- **R3.** Según la ficha, «ko» es: A) agua B) tierra.
+- **R1.** Una expresión validada es una que: A) inventé yo B) confirmó una persona que sabe.
+- **R2.** Según la ficha, «kuyen» es: A) luna B) sol.
+- **R3.** Según la ficha, «ko» es: A) tierra B) agua.
 
 *Comprensión*
 
@@ -368,7 +368,7 @@ Respuesta: Corrige: antü es sol y kuyen es luna
 
 *Razonamiento y análisis*
 
-- **Z1.** Lola dice: «Voy a usar esta palabra que me la inventé porque suena parecida». ¿Qué error comete: A) inventa una palabra B) usa la ficha?
+- **Z1.** Lola dice: «Voy a usar esta palabra que me la inventé porque suena parecida». ¿Qué error comete: A) usa la ficha B) inventa una palabra?
 - **Z2.** Dos niños copian «antü». Eva escribe «antü» y Gaspar escribe «antu». ¿Quién copió exactamente la ficha?
 
 *Desafío*
@@ -390,16 +390,16 @@ Respuesta: Corrige: antü es sol y kuyen es luna
 
 **Solucionario razonado**
 
-- **R1.** A. Validada significa confirmada por quien sabe.
-- **R2.** B. La ficha lo dice.
-- **R3.** A. La ficha lo dice.
+- **R1.** B. Validada significa confirmada por quien sabe.
+- **R2.** A. La ficha lo dice.
+- **R3.** B. La ficha lo dice.
 - **C1.** Falso. No sé cómo suena y puedo equivocarme.
 - **C2.** B, C, A. Primero escucho, luego repito y luego repito con ayuda.
 - **C3.** mapu. La ficha dice «mapu» es tierra.
 - **A1.** ñuke. En la ficha, «ñuke» (madre) es la única que empieza con ñ.
 - **A2.** no. Las letras no son las mismas; en este cuaderno copio la grafía de la ficha y pregunto al educador tradicional por otras formas.
 - **A3.** 12. Multiplico palabras por día por los días. Cálculo: 3 × 4 = 12.
-- **Z1.** A. Una palabra inventada no es validada.
+- **Z1.** B. Una palabra inventada no es validada.
 - **Z2.** Eva. Eva escribió la ü igual que la ficha.
 - **D1.** 4. Resto las ensayadas del total. Cálculo: 6 − 2 = 4.
 - **D2.** sí. Decir que aún no lo sabe es honesto y respetuoso.
@@ -557,7 +557,7 @@ Respuesta: A
 
 *Recuperación*
 
-- **R1.** En un diálogo se habla: A) por turnos B) todos a la vez.
+- **R1.** En un diálogo se habla: A) todos a la vez B) por turnos.
 - **R2.** Diálogo de práctica (inventado): Ana: «Mari mari». Educadora: «Buenos días, Ana». Ana: «Hoy quiero aprender una palabra». Educadora: «Veamos ko; es agua en mapuzugun». Ana: «Chaltumay». ¿Quién dijo «Chaltumay»?
 - **R3.** Un buen saludo al comenzar un diálogo es «mari mari». ¿Es un saludo o una despedida?
 
@@ -576,7 +576,7 @@ Respuesta: A
 *Razonamiento y análisis*
 
 - **Z1.** Rita responde: «Chaltumay» cuando la educadora le enseña una palabra. Gaspar responde: «No me importa». ¿Quién responde respetando el diálogo?
-- **Z2.** Una niña usa «antü» para decir «luna» en su diálogo. ¿Qué error cometió: A) confundió una palabra de la ficha B) no saludó?
+- **Z2.** Una niña usa «antü» para decir «luna» en su diálogo. ¿Qué error cometió: A) no saludó B) confundió una palabra de la ficha?
 
 *Desafío*
 
@@ -597,7 +597,7 @@ Respuesta: A
 
 **Solucionario razonado**
 
-- **R1.** A. Dialogar es hablar por turnos.
+- **R1.** B. Dialogar es hablar por turnos.
 - **R2.** Ana. Ana lo dice al final.
 - **R3.** saludo. La ficha dice que es un saludo.
 - **C1.** ko. La educadora le enseñó «ko».
@@ -607,7 +607,7 @@ Respuesta: A
 - **A2.** 5. Sumo los turnos de las dos personas. Cálculo: 3 + 2 = 5.
 - **A3.** ko. La ficha dice «ko» es agua.
 - **Z1.** Rita. Rita agradece lo que le enseñan.
-- **Z2.** A. «antü» es sol, no luna.
+- **Z2.** B. «antü» es sol, no luna.
 - **D1.** 3. Faltan los turnos no escritos. Cálculo: 8 − 5 = 3.
 - **D2.** casa. La ficha dice «ruka» es casa.
 - **S1.** «la saludo». El diálogo empieza con un saludo.
@@ -776,14 +776,14 @@ Respuesta: La forma del educador tradicional
 
 *Aplicación*
 
-- **A1.** Oyes una variante que no conocías. ¿Qué haces: A) pregunto con respeto de dónde viene y aprendo la forma de quien enseña B) la cambio por la de la ficha sin avisar?
+- **A1.** Oyes una variante que no conocías. ¿Qué haces: A) la cambio por la de la ficha sin avisar B) pregunto con respeto de dónde viene y aprendo la forma de quien enseña?
 - **A2.** Un curso conoce 3 variantes de una palabra en castellano y escuchó 2 más. ¿Cuántas variantes distintas conoce ahora?
 - **A3.** Dos niñas dicen un mismo objeto con nombres distintos en castellano. ¿Cuál es la manera correcta de reaccionar: A) preguntar de dónde viene cada nombre B) decir que una está equivocada?
 
 *Razonamiento y análisis*
 
 - **Z1.** Eva: «La forma de mi abuela es distinta, pero también es buena». Gaspar: «Solo la ficha está bien». ¿Quién respeta las variantes?
-- **Z2.** Una persona quiere crear una forma nueva «para unificar» las variantes. ¿Qué debe hacer primero: A) preguntar al educador tradicional y a la comunidad B) decidir ella misma?
+- **Z2.** Una persona quiere crear una forma nueva «para unificar» las variantes. ¿Qué debe hacer primero: A) decidir ella misma B) preguntar al educador tradicional y a la comunidad?
 
 *Desafío*
 
@@ -810,11 +810,11 @@ Respuesta: La forma del educador tradicional
 - **C1.** Falso. Puede ser otra variante.
 - **C2.** la de quien enseña. Quien enseña conoce su variante.
 - **C3.** el educador tradicional. Él o ella conoce la lengua de su comunidad.
-- **A1.** A. Una variante no es un error: pregunto y aprendo de quien enseña.
+- **A1.** B. Una variante no es un error: pregunto y aprendo de quien enseña.
 - **A2.** 5. Sumo las variantes conocidas y las nuevas. Cálculo: 3 + 2 = 5.
 - **A3.** A. Cada forma puede tener un origen.
 - **Z1.** Eva. Eva acepta que hay distintas formas.
-- **Z2.** A. Las decisiones sobre la lengua las toma la comunidad.
+- **Z2.** B. Las decisiones sobre la lengua las toma la comunidad.
 - **D1.** 5. Resto los que repitieron del total. Cálculo: 12 − 7 = 5.
 - **D2.** A. Una variante no es un error.
 - **S1.** «le pregunto con respeto de dónde viene esa forma». Una variante no es un error y se respeta.

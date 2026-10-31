@@ -164,7 +164,7 @@ Respuesta: no: faltan el propósito, la fuente y la autorización
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si registro en castellano, no necesito decir de dónde vienen las palabras indígenas que usaré». ¿Tiene razón? Sí o No.
-- **Z2.** Un niño quiere agregar una foto de un compañero regando la planta. ¿Qué es mejor: A) preguntar a él y a su familia y, si no quieren, usar una foto de las manos o la planta. B) subirla igual?
+- **Z2.** Un niño quiere agregar una foto de un compañero regando la planta. ¿Qué es mejor: A) subirla igual B) preguntar a él y a su familia y, si no quieren, usar una foto de las manos o la planta.?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: no: faltan el propósito, la fuente y la autorización
 - **A2.** No. El permiso es solo para la reunión de familias.
 - **A3.** A y C. B es un asunto privado.
 - **Z1.** No. Las palabras de la lengua siempre llevan su fuente.
-- **Z2.** A. Sin autorización no aparece su rostro.
+- **Z2.** B. Sin autorización no aparece su rostro.
 - **D1.** A, C, B, D. Primero propósito y fuente, luego autorización y al final registro.
 - **D2.** 18. Se restan los que no quieren aparecer. Cálculo: 24 − 6 = 18.
 - **S1.** dices de dónde viene la palabra. La fuente se nombra siempre.
@@ -373,7 +373,7 @@ Respuesta: A y D
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «El medio con más puntos es siempre el mejor para cualquier propósito». ¿Tiene razón? Sí o No.
-- **Z2.** Dos razones para elegir el medio D: A) cumple los cuatro criterios y sirve para contar el huerto. B) se ve moderno. ¿Cuál es una buena razón?
+- **Z2.** Dos razones para elegir el medio D: A) se ve moderno. ¿Cuál es una buena razón B) cumple los cuatro criterios y sirve para contar el huerto.?
 
 *Desafío*
 
@@ -404,7 +404,7 @@ Respuesta: A y D
 - **A2.** B. El audio guarda la voz.
 - **A3.** el medio C. C necesita internet y no deja participar a todos.
 - **Z1.** No. Hay que mirar también el propósito.
-- **Z2.** A. La B no se apoya en criterios.
+- **Z2.** B. La B no se apoya en criterios.
 - **D1.** 16. Se multiplican los medios por los puntos que cada uno puede sumar. Cálculo: 4 × 4 = 16.
 - **D2.** C, B, A. Criterios, puntos y elección.
 - **S1.** el texto escrito a mano. Funciona sin internet y sin cuenta.
@@ -791,7 +791,7 @@ Respuesta: sí, se guarda en la carpeta de la sala
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si guardo dos copias, una en la sala y otra en un sitio abierto, igual respeto el permiso». ¿Tiene razón? Sí o No.
-- **Z2.** Dos revisiones: A) leo el registro y reviso las cuatro preguntas. B) lo leo rápido y lo muestro. ¿Cuál cuida mejor el trabajo?
+- **Z2.** Dos revisiones: A) lo leo rápido y lo muestro. ¿Cuál cuida mejor el trabajo B) leo el registro y reviso las cuatro preguntas.?
 
 *Desafío*
 
@@ -822,7 +822,7 @@ Respuesta: sí, se guarda en la carpeta de la sala
 - **A2.** la de almacenamiento. El sitio abierto no coincide con el permiso.
 - **A3.** a quien escribió. Ya está nombrada quien enseñó.
 - **Z1.** No. La copia en el sitio abierto no respeta el permiso.
-- **Z2.** A. La A no deja preguntas sin revisar.
+- **Z2.** B. La A no deja preguntas sin revisar.
 - **D1.** 3. Se restan los que tenían el problema. Cálculo: 5 − 2 = 3.
 - **D2.** C, D, B, A. Lengua, contexto, autoría y almacenamiento.
 - **S1.** «Primero que lo revise la educadora». La fuente debe revisarlo.

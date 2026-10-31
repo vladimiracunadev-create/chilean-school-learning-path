@@ -143,7 +143,7 @@ Respuesta: Un sentimiento
 
 *Recuperación*
 
-- **R1.** El propósito es: A) para qué hablo B) con qué lápiz hablo.
+- **R1.** El propósito es: A) con qué lápiz hablo B) para qué hablo.
 - **R2.** Para saludar elijo: A) mari mari B) chaltumay.
 - **R3.** Para agradecer elijo: A) mari mari B) chaltumay.
 
@@ -151,7 +151,7 @@ Respuesta: Un sentimiento
 
 - **C1.** Verdadero o falso: debo contar emociones íntimas en cualquier situación.
 - **C2.** «El agua es importante para las plantas» expresa: A) una idea B) un sentimiento.
-- **C3.** «Estoy agradecida» expresa: A) un sentimiento B) un lugar.
+- **C3.** «Estoy agradecida» expresa: A) un lugar B) un sentimiento.
 
 *Aplicación*
 
@@ -161,13 +161,13 @@ Respuesta: Un sentimiento
 
 *Razonamiento y análisis*
 
-- **Z1.** Eva usa «chaltumay» para saludar al llegar. ¿Qué error cometió: A) usó gracias para saludar B) saludó bien?
-- **Z2.** Una persona dice que una expresión sirve para cualquier momento. ¿Qué debe hacer: A) preguntar al educador tradicional cuándo se usa B) decirlo igual?
+- **Z1.** Eva usa «chaltumay» para saludar al llegar. ¿Qué error cometió: A) saludó bien B) usó gracias para saludar?
+- **Z2.** Una persona dice que una expresión sirve para cualquier momento. ¿Qué debe hacer: A) decirlo igual B) preguntar al educador tradicional cuándo se usa?
 
 *Desafío*
 
 - **D1.** Hay 5 situaciones y el curso ya practicó 2. ¿Cuántas faltan?
-- **D2.** Quieres expresar alegría con una expresión de la ficha, pero ninguna dice alegría. ¿Qué haces: A) lo digo en castellano o pregunto B) invento una palabra?
+- **D2.** Quieres expresar alegría con una expresión de la ficha, pero ninguna dice alegría. ¿Qué haces: A) invento una palabra B) lo digo en castellano o pregunto?
 
 *Situaciones auténticas*
 
@@ -183,19 +183,19 @@ Respuesta: Un sentimiento
 
 **Solucionario razonado**
 
-- **R1.** A. Propósito es el motivo.
+- **R1.** B. Propósito es el motivo.
 - **R2.** A. La ficha dice que mari mari es saludo.
 - **R3.** B. La ficha dice que chaltumay es gracias.
 - **C1.** Falso. Puedo usar una situación inventada.
 - **C2.** A. Es un pensamiento.
-- **C3.** A. Gratitud es un sentimiento.
+- **C3.** B. Gratitud es un sentimiento.
 - **A1.** gratitud. Agradecer expresa gratitud.
 - **A2.** 6. Multiplico situaciones por frases. Cálculo: 3 × 2 = 6.
 - **A3.** iorana. Iorana es un saludo.
-- **Z1.** A. Chaltumay es gracias.
-- **Z2.** A. El uso lo enseña quien conoce la lengua.
+- **Z1.** B. Chaltumay es gracias.
+- **Z2.** B. El uso lo enseña quien conoce la lengua.
 - **D1.** 3. Resto las practicadas. Cálculo: 5 − 2 = 3.
-- **D2.** A. No debo inventar.
+- **D2.** B. No debo inventar.
 - **S1.** «saludarlo». Es una situación adecuada y sin exposición.
 - **E1.** quién escucha, dónde estoy, para qué hablo y qué quiero expresar. Son los pasos de la clase.
 - **E2.** un sentimiento. La gratitud se siente.
@@ -350,7 +350,7 @@ Respuesta: El educador tradicional
 
 *Recuperación*
 
-- **R1.** Aprender desde la fuente es aprender de: A) quien conoce la lengua B) un rumor.
+- **R1.** Aprender desde la fuente es aprender de: A) un rumor B) quien conoce la lengua.
 - **R2.** Según la ficha, «ko» es: A) agua B) luna.
 - **R3.** Si la persona que enseña usa otra variante, ¿aprendo la suya o la desprecio?
 
@@ -369,7 +369,7 @@ Respuesta: El educador tradicional
 *Razonamiento y análisis*
 
 - **Z1.** Eva aprendió una expresión con el educador y anotó la fuente. Gaspar la aprendió en un sitio sin autor. ¿Quién la aprendió desde la fuente?
-- **Z2.** Un niño dice que ya sabe cómo suena «antü» porque se lo imaginó. ¿Qué debe hacer: A) escucharlo de quien enseña B) quedarse con su idea?
+- **Z2.** Un niño dice que ya sabe cómo suena «antü» porque se lo imaginó. ¿Qué debe hacer: A) quedarse con su idea B) escucharlo de quien enseña?
 
 *Desafío*
 
@@ -390,7 +390,7 @@ Respuesta: El educador tradicional
 
 **Solucionario razonado**
 
-- **R1.** A. La fuente conoce la lengua.
+- **R1.** B. La fuente conoce la lengua.
 - **R2.** A. La ficha dice agua.
 - **R3.** aprendo la suya. Respeto la variante de quien enseña.
 - **C1.** Falso. No sé si es correcto.
@@ -400,7 +400,7 @@ Respuesta: El educador tradicional
 - **A2.** 8. Multiplico expresiones por clases. Cálculo: 2 × 4 = 8.
 - **A3.** me enseñó el educador tradicional. Dice quién enseñó.
 - **Z1.** Eva. Aprendió de quien conoce la lengua.
-- **Z2.** A. No debe inventar la pronunciación.
+- **Z2.** B. No debe inventar la pronunciación.
 - **D1.** 5. Resto las aprendidas. Cálculo: 12 − 7 = 5.
 - **D2.** A. La fuente reconoce a quien enseñó.
 - **S1.** «pregunto su significado y anoto la fuente». Así aprendo con cuidado.
@@ -559,7 +559,7 @@ Respuesta: El cierre
 
 - **R1.** Una intervención breve tiene: A) cuatro partes B) cien partes.
 - **R2.** La parte final de una intervención es: A) el cierre B) el saludo.
-- **R3.** «Mari mari» al inicio es un: A) saludo B) cierre.
+- **R3.** «Mari mari» al inicio es un: A) cierre B) saludo.
 
 *Comprensión*
 
@@ -581,7 +581,7 @@ Respuesta: El cierre
 *Desafío*
 
 - **D1.** Tienes 60 segundos y tu intervención dura 45. ¿Cuántos segundos te sobran?
-- **D2.** Quieres hablar de un saber de un pueblo. ¿Qué haces: A) cito lo que me enseñó el educador tradicional con su fuente B) lo invento?
+- **D2.** Quieres hablar de un saber de un pueblo. ¿Qué haces: A) lo invento B) cito lo que me enseñó el educador tradicional con su fuente?
 
 *Situaciones auténticas*
 
@@ -599,7 +599,7 @@ Respuesta: El cierre
 
 - **R1.** A. Tiene cuatro partes.
 - **R2.** A. El cierre termina.
-- **R3.** A. La ficha lo dice.
+- **R3.** B. La ficha lo dice.
 - **C1.** el sentimiento. Expresa una emoción.
 - **C2.** Falso. Es breve: menos de un minuto.
 - **C3.** se ensaya. Ensayar ayuda a decir bien.
@@ -609,7 +609,7 @@ Respuesta: El cierre
 - **Z1.** la de Eva. Tiene las cuatro partes.
 - **Z2.** A. No puede hablar por todos.
 - **D1.** 15. Resto lo usado del total. Cálculo: 60 − 45 = 15.
-- **D2.** A. Cito la fuente.
+- **D2.** B. Cito la fuente.
 - **S1.** «preparo saludo, idea, sentimiento y cierre». Es una estructura clara.
 - **E1.** saludo, idea, sentimiento y cierre. Son las partes de la clase.
 - **E2.** menos de un minuto. Es una intervención corta.
@@ -764,8 +764,8 @@ Respuesta: «Tu huerta necesita agua»
 
 *Recuperación*
 
-- **R1.** Escuchar incluye: A) esperar mi turno B) hablar siempre primero.
-- **R2.** Parafrasear es repetir: A) con mis palabras lo que dijo otro B) lo mismo palabra por palabra sin pensar.
+- **R1.** Escuchar incluye: A) hablar siempre primero B) esperar mi turno.
+- **R2.** Parafrasear es repetir: A) lo mismo palabra por palabra sin pensar B) con mis palabras lo que dijo otro.
 - **R3.** Si no entiendo, ¿pregunto o me quedo callado?
 
 *Comprensión*
@@ -783,12 +783,12 @@ Respuesta: «Tu huerta necesita agua»
 *Razonamiento y análisis*
 
 - **Z1.** Eva espera su turno y responde a lo que Ana dijo. Gaspar interrumpe. ¿Quién interactúa escuchando al otro?
-- **Z2.** Un compañero se equivoca con una palabra. ¿Qué haces: A) lo ayudo con respeto B) me río?
+- **Z2.** Un compañero se equivoca con una palabra. ¿Qué haces: A) me río B) lo ayudo con respeto?
 
 *Desafío*
 
 - **D1.** Un diálogo tiene 10 turnos. Ya se escribieron 6. ¿Cuántos faltan?
-- **D2.** Una persona dice que no puede hablar con otra porque usa una variante distinta. ¿Qué puede hacer: A) preguntar con respeto y aprender B) no conversar?
+- **D2.** Una persona dice que no puede hablar con otra porque usa una variante distinta. ¿Qué puede hacer: A) no conversar B) preguntar con respeto y aprender?
 
 *Situaciones auténticas*
 
@@ -804,8 +804,8 @@ Respuesta: «Tu huerta necesita agua»
 
 **Solucionario razonado**
 
-- **R1.** A. Esperar el turno es escuchar.
-- **R2.** A. Parafrasear usa mis palabras.
+- **R1.** B. Esperar el turno es escuchar.
+- **R2.** B. Parafrasear usa mis palabras.
 - **R3.** pregunto. Pedir apoyo ayuda.
 - **C1.** Falso. Debo esperar mi turno.
 - **C2.** «Tú cuidas tus plantas con agua». Repite la idea con otras palabras.
@@ -814,9 +814,9 @@ Respuesta: «Tu huerta necesita agua»
 - **A2.** 8. Multiplico turnos por personas. Cálculo: 4 × 2 = 8.
 - **A3.** Mari mari. Es un saludo; chaltumay es gracias.
 - **Z1.** Eva. Espera y responde.
-- **Z2.** A. El apoyo respeta.
+- **Z2.** B. El apoyo respeta.
 - **D1.** 4. Resto los escritos. Cálculo: 10 − 6 = 4.
-- **D2.** A. Una variante es parte de la lengua.
+- **D2.** B. Una variante es parte de la lengua.
 - **S1.** «le pido que repita más despacio». Pedir apoyo es respetuoso.
 - **E1.** esperar mi turno, mirar, responder y preguntar. Son las acciones de la clase.
 - **E2.** repetir con mis palabras lo que dijo otro. Muestra que escuché.

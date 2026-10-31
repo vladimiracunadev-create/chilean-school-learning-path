@@ -782,7 +782,7 @@ Respuesta: No se apropió
 
 *Aplicación*
 
-- **A1.** Elige la frase respetuosa: A) «Este símbolo lo inventé yo». B) «Aprendí este símbolo de la comunidad». Escribe la letra.
+- **A1.** Elige la frase respetuosa: A) «Aprendí este símbolo de la comunidad». Escribe la letra B) «Este símbolo lo inventé yo»..
 - **A2.** Hay 5 niños. Tres agradecen y dos no. ¿Cuántos agradecen?
 - **A3.** Escribe una frase de agradecimiento para quien mostró el símbolo.
 
@@ -816,7 +816,7 @@ Respuesta: No se apropió
 - **C1.** Porque se pierde su significado. Cambiar altera su sentido.
 - **C2.** Reconocer que es importante. Se cuida y se agradece.
 - **C3.** Sí. Un dibujo propio no copia.
-- **A1.** B. B dice de dónde viene.
+- **A1.** A. B dice de dónde viene.
 - **A2.** 3. Son tres según lo contado.
 - **A3.** Cualquier frase que diga gracias. Se acepta un agradecimiento.
 - **Z1.** No. Lo usó sin permiso.

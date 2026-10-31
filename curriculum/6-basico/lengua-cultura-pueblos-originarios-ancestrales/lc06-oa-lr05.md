@@ -158,7 +158,7 @@ Respuesta: no: faltan pueblo, comunidad y fuente, y generaliza
 *Aplicación*
 
 - **A1.** Ficha de comunidad (inventada para practicar): Pueblo: mapuche. Comunidad Ejemplo. Fuente: la coordinadora del taller de lengua, que visitó la escuela en agosto. Autorización: permite contar lo que dijo para trabajos escolares. Acciones: un taller de lengua semanal para niñas y niños, un programa de radio comunitaria y letreros con saludos en la sede. Ordena para explicar el sentido con esta ficha. A) cuento una acción de revitalización. B) nombro pueblo, comunidad y fuente. C) aclaro que hablo solo de esta comunidad. Escribe las letras en orden.
-- **A2.** Ficha de comunidad (inventada para practicar): Pueblo: mapuche. Comunidad Ejemplo. Fuente: la coordinadora del taller de lengua, que visitó la escuela en agosto. Autorización: permite contar lo que dijo para trabajos escolares. Acciones: un taller de lengua semanal para niñas y niños, un programa de radio comunitaria y letreros con saludos en la sede. Elige la mejor frase. A) «Según la coordinadora del taller de lengua de la Comunidad Ejemplo, hay un taller semanal para niñas y niños.» B) «Todos los pueblos hacen un taller semanal.» Escribe la letra.
+- **A2.** Ficha de comunidad (inventada para practicar): Pueblo: mapuche. Comunidad Ejemplo. Fuente: la coordinadora del taller de lengua, que visitó la escuela en agosto. Autorización: permite contar lo que dijo para trabajos escolares. Acciones: un taller de lengua semanal para niñas y niños, un programa de radio comunitaria y letreros con saludos en la sede. Elige la mejor frase. A) «Todos los pueblos hacen un taller semanal.» Escribe la letra B) «Según la coordinadora del taller de lengua de la Comunidad Ejemplo, hay un taller semanal para niñas y niños.».
 - **A3.** Ficha de comunidad (inventada para practicar): Pueblo: mapuche. Comunidad Ejemplo. Fuente: la coordinadora del taller de lengua, que visitó la escuela en agosto. Autorización: permite contar lo que dijo para trabajos escolares. Acciones: un taller de lengua semanal para niñas y niños, un programa de radio comunitaria y letreros con saludos en la sede. Supón que el taller se hace una vez por semana y que cada taller dura 2 horas. ¿Cuántas horas de taller hay en 4 semanas?
 
 *Razonamiento y análisis*
@@ -192,7 +192,7 @@ Respuesta: no: faltan pueblo, comunidad y fuente, y generaliza
 - **C2.** en todos lados. Esa frase dice que ocurre en cualquier lugar.
 - **C3.** Falso. Fortalecer es afirmar una lengua que todavía se usa.
 - **A1.** B, A, C. Primero ubico la fuente, luego cuento la acción y al final declaro el límite.
-- **A2.** A. Atribuye y no generaliza.
+- **A2.** B. Atribuye y no generaliza.
 - **A3.** 8. Dos horas por semana durante cuatro semanas. Cálculo: 2 × 4 = 8.
 - **Z1.** No. La pertenencia no se mide por hablar la lengua.
 - **Z2.** preguntar quién contó y de qué comunidad habla. Sin fuente no se puede explicar con seguridad.
@@ -587,7 +587,7 @@ Respuesta: sirve para nombrar con una palabra una idea nueva usando piezas que l
 *Desafío*
 
 - **D1.** Cuadro de palabras (la información lingüística es general; los ejemplos son para practicar): PRÉSTAMO es una palabra que una lengua toma de otra. Ejemplos en castellano: «fútbol» (del inglés), «escáner» (del inglés), «guagua» (del quechua), «palta» (del quechua), «copihue» (del mapuzugun). NEOLOGISMO es una palabra nueva que surge en una lengua, muchas veces uniendo piezas que ya existen. Ejemplos en castellano: «alunizar» (de «luna»), «pantallazo» (de «pantalla»). Explica con una opción cómo ayudan los préstamos a expresarse. A) permiten nombrar cosas que antes no tenían nombre en esa lengua. B) obligan a dejar de hablar la lengua propia. Escribe la letra.
-- **D2.** Un joven dice: «Si mi lengua incorpora un préstamo, entonces mi lengua está desapareciendo». ¿Qué respuesta es mejor: A) «las lenguas vivas toman y crean palabras» o B) «sí, es una mala señal»? Escribe la letra.
+- **D2.** Un joven dice: «Si mi lengua incorpora un préstamo, entonces mi lengua está desapareciendo». ¿Qué respuesta es mejor: A) «sí, es una mala señal»? Escribe la letra o B) «las lenguas vivas toman y crean palabras».
 
 *Situaciones auténticas*
 
@@ -615,7 +615,7 @@ Respuesta: sirve para nombrar con una palabra una idea nueva usando piezas que l
 - **Z1.** consultar al educador o a la comunidad que habla la lengua. Las palabras nuevas las acuerdan quienes hablan la lengua.
 - **Z2.** No. Todas las lenguas tienen préstamos y siguen siendo suyas.
 - **D1.** A. Los préstamos amplían las palabras disponibles.
-- **D2.** A. Tomar palabras es parte normal de toda lengua viva.
+- **D2.** B. Tomar palabras es parte normal de toda lengua viva.
 - **S1.** que es un préstamo del quechua usado en castellano. Es una palabra de origen quechua que el castellano incorporó.
 - **E1.** un neologismo. Se creó a partir de «luna».
 - **E2.** quienes hablan la lengua. Es una decisión de la comunidad de hablantes.
@@ -785,7 +785,7 @@ Respuesta: computador
 *Aplicación*
 
 - **A1.** Ordena las cinco partes de la explicación. A) límite. B) ejemplo de préstamo o neologismo. C) fuente. D) para qué sirve. E) lo que hace la comunidad. Escribe las letras en orden.
-- **A2.** Ficha de explicación (inventada para practicar): Fuente: una educadora tradicional de la Escuela Ejemplo, del pueblo mapuche. Autorización: puede contarse en la sala. Dijo: «Cuando hacemos el taller de lengua, las niñas y los niños aprenden saludos y juegos. Usamos palabras que vienen del castellano, como «computador», cuando hablamos de cosas nuevas, y también usamos palabras de nuestra lengua que ya son parte del castellano de Chile. Esto nos ayuda a comunicar nuestras ideas. Hablo solo de mi escuela.» Elige la mejor oración sobre el ejemplo. A) «Según la educadora, en el taller se usa «computador» para hablar de cosas nuevas.» B) «En todos los talleres de lengua se usa computador.» Escribe la letra.
+- **A2.** Ficha de explicación (inventada para practicar): Fuente: una educadora tradicional de la Escuela Ejemplo, del pueblo mapuche. Autorización: puede contarse en la sala. Dijo: «Cuando hacemos el taller de lengua, las niñas y los niños aprenden saludos y juegos. Usamos palabras que vienen del castellano, como «computador», cuando hablamos de cosas nuevas, y también usamos palabras de nuestra lengua que ya son parte del castellano de Chile. Esto nos ayuda a comunicar nuestras ideas. Hablo solo de mi escuela.» Elige la mejor oración sobre el ejemplo. A) «En todos los talleres de lengua se usa computador.» Escribe la letra B) «Según la educadora, en el taller se usa «computador» para hablar de cosas nuevas.».
 - **A3.** Una explicación debe tener 5 partes. Un compañero escribió la fuente, lo que hace la comunidad y el ejemplo. ¿Cuántas partes le faltan?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: computador
 - **C2.** habla solo de su escuela. Ella cierra con esa frase.
 - **C3.** Falso. La ficha no entrega ninguna palabra mapuzugun.
 - **A1.** C, E, B, D, A. Se parte por la fuente y se cierra con el límite.
-- **A2.** A. Atribuye y no generaliza.
+- **A2.** B. Atribuye y no generaliza.
 - **A3.** 2. Se restan las escritas de las cinco pedidas. Cálculo: 5 − 3 = 2.
 - **Z1.** No. La ficha no mide cuánto hablan los niños.
 - **Z2.** Sí. Empieza con «yo pienso».

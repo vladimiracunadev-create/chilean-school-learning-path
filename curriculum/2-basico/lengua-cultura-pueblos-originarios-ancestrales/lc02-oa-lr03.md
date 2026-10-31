@@ -366,7 +366,7 @@ Respuesta: Según la ficha, «iorana» es un saludo en rapa nui.
 
 *Aplicación*
 
-- **A1.** Ficha: la educadora dijo que «maururu» es «gracias» en rapa nui. Elige la mejor frase: A) «Según la educadora, «maururu» es gracias en rapa nui.» B) «Yo creo que «maururu» es un baile».
+- **A1.** Ficha: la educadora dijo que «maururu» es «gracias» en rapa nui. Elige la mejor frase: A) «Yo creo que «maururu» es un baile» B) «Según la educadora, «maururu» es gracias en rapa nui.».
 - **A2.** Texto leído en voz alta por un adulto: «La educadora dijo: «ko» es agua en mapuzugun. Se usa cuando hablamos del agua». ¿Qué significa «ko»?
 - **A3.** Mismo texto de la educadora y «ko». ¿En qué lengua está «ko»?
 
@@ -400,7 +400,7 @@ Respuesta: Según la ficha, «iorana» es un saludo en rapa nui.
 - **C1.** la educadora. Lo de Mateo es solo lo que él cree.
 - **C2.** Falso. La educadora conoce su lengua; mi idea no es un dato.
 - **C3.** una opinión. Empieza con «yo creo» y nadie la comprobó.
-- **A1.** A. A dice quién da el dato; B es una idea sin fuente.
+- **A1.** B. A dice quién da el dato; B es una idea sin fuente.
 - **A2.** agua. El texto dice que «ko» es agua.
 - **A3.** mapuzugun. El texto dice que «ko» es agua en mapuzugun.
 - **Z1.** una fuente. Sin fuente su dato no está comprobado.
@@ -1005,7 +1005,7 @@ Respuesta: agradecerle con «chaltumay»
 *Desafío*
 
 - **D1.** Sigues una regla de 3 pasos: 1) pedir permiso 2) escuchar 3) agradecer. Si ya hiciste los pasos 1 y 2, ¿cuál te falta?
-- **D2.** Dos niños proponen: A) hacer un cartel con palabras que enseñó el educador y su nombre como fuente B) hacer un cartel con palabras inventadas. ¿Cuál es mejor para revitalizar?
+- **D2.** Dos niños proponen: A) hacer un cartel con palabras inventadas. ¿Cuál es mejor para revitalizar B) hacer un cartel con palabras que enseñó el educador y su nombre como fuente?
 
 *Situaciones auténticas*
 
@@ -1033,7 +1033,7 @@ Respuesta: agradecerle con «chaltumay»
 - **Z1.** que la use como la enseña el educador. El educador conoce la forma de su lengua.
 - **Z2.** porque los hablantes quieren seguir usándola. El respeto anima a seguir hablándola.
 - **D1.** agradecer. Faltan los pasos que no hiciste: el tercero.
-- **D2.** A. Usa palabras reales y nombra la fuente.
+- **D2.** B. Usa palabras reales y nombra la fuente.
 - **S1.** «Eso no ayuda; mejor aprendamos con respeto». La burla no ayuda a que una lengua viva.
 - **E1.** ayudar a que vuelva a usarse. Es darle vida de nuevo.
 - **E2.** escuchar al educador tradicional. Aprender de quien sabe cuida la lengua.

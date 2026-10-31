@@ -144,7 +144,7 @@ Respuesta: Rin no representa a ninguna lengua real; cada lengua se describe con 
 *Recuperación*
 
 - **R1.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. ¿Qué significa «sal» en Rin?
-- **R2.** Describir una lengua necesita: A) una fuente confiable B) solo mi imaginación
+- **R2.** Describir una lengua necesita: A) solo mi imaginación B) una fuente confiable
 - **R3.** ¿Cuál es una lengua indígena de Chile que ya conocemos: el mapuzugun o Rin?
 
 *Comprensión*
@@ -162,7 +162,7 @@ Respuesta: Rin no representa a ninguna lengua real; cada lengua se describe con 
 *Razonamiento y análisis*
 
 - **Z1.** Tomás escribe: «En todas las lenguas indígenas, repetir una palabra significa “de juguete”», porque así pasa en Rin. ¿Qué error comete?
-- **Z2.** Quieres explicar una característica del mapuzugun. ¿Qué haces primero? A) buscar una fuente confiable o preguntar al educador tradicional B) inventar un ejemplo
+- **Z2.** Quieres explicar una característica del mapuzugun. ¿Qué haces primero? A) inventar un ejemplo B) buscar una fuente confiable o preguntar al educador tradicional
 
 *Desafío*
 
@@ -171,7 +171,7 @@ Respuesta: Rin no representa a ninguna lengua real; cada lengua se describe con 
 
 *Situaciones auténticas*
 
-- **S1.** En una exposición, un compañero dice cómo se arman las palabras de una lengua indígena, pero no dice de dónde lo sabe. ¿Qué le preguntas? A) ¿cuál es tu fuente? B) ¿por qué hablas tan fuerte?
+- **S1.** En una exposición, un compañero dice cómo se arman las palabras de una lengua indígena, pero no dice de dónde lo sabe. ¿Qué le preguntas? A) ¿por qué hablas tan fuerte B) ¿cuál es tu fuente??
 
 *Autoevaluación*
 
@@ -184,7 +184,7 @@ Respuesta: Rin no representa a ninguna lengua real; cada lengua se describe con 
 **Solucionario razonado**
 
 - **R1.** Agua. Lo dice la regla.
-- **R2.** A. Sin fuente no se describe.
+- **R2.** B. Sin fuente no se describe.
 - **R3.** El mapuzugun. Rin es inventada.
 - **C1.** Falso. Rin es inventada para practicar.
 - **C2.** A. Describe cómo es la lengua.
@@ -193,10 +193,10 @@ Respuesta: Rin no representa a ninguna lengua real; cada lengua se describe con 
 - **A2.** -ek. Según la regla, -ek va al final.
 - **A3.** 1-a, 2-b. Cada dato viene de una fuente distinta.
 - **Z1.** Generaliza una regla de una lengua inventada. Rin es inventada y no representa otras lenguas.
-- **Z2.** A. Hay que apoyarse en quien conoce la lengua.
+- **Z2.** B. Hay que apoyarse en quien conoce la lengua.
 - **D1.** E1. E2 no dice quién lo sabe.
 - **D2.** A. Es honesto y respetuoso.
-- **S1.** A. La fuente permite comprobar la información.
+- **S1.** B. La fuente permite comprobar la información.
 - **E1.** Dos entre: sonidos, cómo arma palabras, orden de las partes, significado de las piezas. Son rasgos de una lengua.
 - **E2.** Falso. Describir es explicar cómo funciona.
 - **E3.** Camino. Lo dice la regla.
@@ -357,7 +357,7 @@ Respuesta: No: debería ser «wa-sal».
 *Comprensión*
 
 - **C1.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. Verdadero o falso: «wa-fen» significa «nuestro árbol».
-- **C2.** Analizar una palabra es: A) separarla en partes y explicar cada una B) cambiarle el significado
+- **C2.** Analizar una palabra es: A) cambiarle el significado B) separarla en partes y explicar cada una
 - **C3.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. ¿Qué lugar ocupa «wa-» en la palabra: al comienzo o al final?
 
 *Aplicación*
@@ -394,7 +394,7 @@ Respuesta: No: debería ser «wa-sal».
 - **R2.** -ik. Lo dice la regla.
 - **R3.** Una piedra de juguete. Repetir la raíz es de juguete.
 - **C1.** Verdadero. wa- es nuestro y fen árbol.
-- **C2.** A. Es el procedimiento de la clase.
+- **C2.** B. Es el procedimiento de la clase.
 - **C3.** Al comienzo. Lo dice la regla.
 - **A1.** kol + an: lugar donde hay caminos. kol es camino y -an es lugar donde hay.
 - **A2.** wa-fen-ik. wa-, raíz y -ik en ese orden.
@@ -558,7 +558,7 @@ Respuesta: La pieza -ar.
 *Recuperación*
 
 - **R1.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. ¿Qué pieza de Rin dice «de nosotros»?
-- **R2.** En castellano, «naranjal» es un lugar con: A) naranjos B) pinos
+- **R2.** En castellano, «naranjal» es un lugar con: A) pinos B) naranjos
 - **R3.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. ¿Qué palabra de Rin nombra «lugar donde hay agua»?
 
 *Comprensión*
@@ -576,7 +576,7 @@ Respuesta: La pieza -ar.
 *Razonamiento y análisis*
 
 - **Z1.** Luis dice: «En Rin se usa fen-fen en una ceremonia». ¿Qué error comete?
-- **Z2.** Un compañero afirma que en el mapuzugun también se usa -an para lugares, porque así es en Rin. ¿Qué falla? A) usa una regla inventada B) está bien
+- **Z2.** Un compañero afirma que en el mapuzugun también se usa -an para lugares, porque así es en Rin. ¿Qué falla? A) está bien B) usa una regla inventada
 
 *Desafío*
 
@@ -598,7 +598,7 @@ Respuesta: La pieza -ar.
 **Solucionario razonado**
 
 - **R1.** wa-. Es la pieza para nuestro.
-- **R2.** A. El sufijo -al nombra el lugar.
+- **R2.** B. El sufijo -al nombra el lugar.
 - **R3.** sal-an. sal es agua y -an es lugar donde hay.
 - **C1.** Verdadero. Por ejemplo, wa-fen-an.
 - **C2.** Falso. Eso lo dice la comunidad.
@@ -607,7 +607,7 @@ Respuesta: La pieza -ar.
 - **A2.** mur-an-ek. La raíz, -an y -ek al final.
 - **A3.** 1-b, 2-a. wa- dice nuestro y repetir la raíz dice de juguete.
 - **Z1.** Inventa un uso ceremonial. Las reglas solo dicen que significa de juguete.
-- **Z2.** A. Rin es inventada.
+- **Z2.** B. Rin es inventada.
 - **D1.** wa-fen-an-ek. wa-, raíz, -an y -ek.
 - **D2.** A. La B inventa un uso espiritual.
 - **S1.** A. Los nombres de lugares los enseña la comunidad.
@@ -772,13 +772,13 @@ Respuesta: Quita el juicio y dice cuál lengua y cuál fuente.
 *Comprensión*
 
 - **C1.** Verdadero o falso: «primitiva» es una palabra que juzga una lengua.
-- **C2.** Las cuatro partes de la explicación atribuida son: fuente, característica, ejemplo y… A) límite B) chiste
+- **C2.** Las cuatro partes de la explicación atribuida son: fuente, característica, ejemplo y… A) chiste B) límite
 - **C3.** Verdadero o falso: una explicación sobre una lengua real debe validarla el educador tradicional.
 
 *Aplicación*
 
 - **A1.** Ordena para armar una explicación: a) Esto vale solo para Rin b) Según las reglas de Rin c) las palabras se arman con piezas d) por ejemplo, fen-ik-an. Escribe las letras.
-- **A2.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. Elige el ejemplo que muestra reduplicación: A) kol-kol B) kol-an
+- **A2.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. Elige el ejemplo que muestra reduplicación: A) kol-an B) kol-kol
 - **A3.** Reglas de la lengua de práctica Rin (inventada; no es de ningún pueblo): fen = árbol; sal = agua; mur = piedra; kol = camino. Piezas: wa- = nuestro (va al comienzo); -ik = pequeño (va justo después de la raíz); -an = lugar donde hay (va después de la raíz o de -ik); -ek = varios (va al final). Si se repite la raíz, significa «de juguete». Orden: wa- + raíz + -ik + -an + -ek. Completa: «Según Rin, la pieza ___ significa pequeño».
 
 *Razonamiento y análisis*
@@ -789,7 +789,7 @@ Respuesta: Quita el juicio y dice cuál lengua y cuál fuente.
 *Desafío*
 
 - **D1.** Elige la explicación mejor atribuida: A) «Según las reglas de Rin, repetir la raíz significa de juguete; vale solo para Rin» B) «Repetir una raíz siempre significa de juguete»
-- **D2.** Si el educador tradicional corrige tu explicación de la lengua de tu comunidad, ¿qué haces? A) la corrijo y le agradezco B) la defiendo
+- **D2.** Si el educador tradicional corrige tu explicación de la lengua de tu comunidad, ¿qué haces? A) la defiendo B) la corrijo y le agradezco
 
 *Situaciones auténticas*
 
@@ -809,15 +809,15 @@ Respuesta: Quita el juicio y dice cuál lengua y cuál fuente.
 - **R2.** A. El límite cuida de no generalizar.
 - **R3.** fen-an. -an es lugar donde hay.
 - **C1.** Verdadero. Descalifica a quienes la hablan.
-- **C2.** A. El límite evita generalizar.
+- **C2.** B. El límite evita generalizar.
 - **C3.** Verdadero. Ellos conocen la lengua.
 - **A1.** b, c, d, a. Fuente, característica, ejemplo y límite.
-- **A2.** A. Repite la raíz.
+- **A2.** B. Repite la raíz.
 - **A3.** -ik. Lo dice la regla.
 - **Z1.** El límite. No aclara que vale solo para Rin.
 - **Z2.** A. Rin no describe ninguna lengua real.
 - **D1.** A. La A nombra la fuente y declara el límite.
-- **D2.** A. La validación se acepta.
+- **D2.** B. La validación se acepta.
 - **S1.** A. Es la estructura de una explicación atribuida.
 - **E1.** Fuente, característica, ejemplo y límite. Son las partes de la clase.
 - **E2.** Falso. Jerarquiza y generaliza.

@@ -157,7 +157,7 @@ Respuesta: No: falta la ñ
 
 *Aplicación*
 
-- **A1.** ¿Cuál es la copia correcta del modelo 3 con su significado y su fuente? A) «kuyen», luna, Fuente: ficha de la clase. B) «kuyen», sol, Fuente: ficha de la clase.
+- **A1.** ¿Cuál es la copia correcta del modelo 3 con su significado y su fuente? A) «kuyen», sol, Fuente: ficha de la clase B) «kuyen», luna, Fuente: ficha de la clase..
 - **A2.** Mira los modelos 1 y 3 de la ficha. ¿Qué palabra tiene más letras: «ruka» o «kuyen»?
 - **A3.** Un compañero copió «ruka» como «ruca». ¿Coincide con el modelo de la ficha? Sí o No.
 
@@ -191,7 +191,7 @@ Respuesta: No: falta la ñ
 - **C1.** Falso. Debo dejarlo a la vista.
 - **C2.** Sí. Todas las letras son iguales.
 - **C3.** significado y fuente. Son los datos de la ficha de modelos.
-- **A1.** A. La ficha dice que «kuyen» es luna.
+- **A1.** B. La ficha dice que «kuyen» es luna.
 - **A2.** kuyen. «Kuyen» tiene 5 letras y «ruka» tiene 4.
 - **A3.** No. La tercera letra es distinta.
 - **Z1.** pregunta de dónde viene. Sin fuente no puedo comprobar.
@@ -361,7 +361,7 @@ Respuesta: «educadora tradicional» / la persona que visita el curso / Fuente: 
 *Comprensión*
 
 - **C1.** Verdadero o falso: puedo nombrar con una palabra indígena o con una expresión culturalmente significativa en castellano.
-- **C2.** ¿Cuál tarjeta está completa? A) «ko» / el agua del vaso / Fuente: ficha de la clase. B) «ko».
+- **C2.** ¿Cuál tarjeta está completa? A) «ko» B) «ko» / el agua del vaso / Fuente: ficha de la clase..
 - **C3.** La ficha no trae la palabra para el dibujo de un lago. ¿Qué hago con la tarjeta: la dejo en blanco o la invento?
 
 *Aplicación*
@@ -398,7 +398,7 @@ Respuesta: «educadora tradicional» / la persona que visita el curso / Fuente: 
 - **R2.** mapu. Mapu es tierra.
 - **R3.** 3. Son nombre, para qué cosa es y fuente.
 - **C1.** Verdadero. Las dos sirven para nombrar si tienen fuente.
-- **C2.** A. La A tiene las tres líneas.
+- **C2.** B. La A tiene las tres líneas.
 - **C3.** la dejo en blanco. No invento nombres.
 - **A1.** antü, kuyen, ko. Sol es antü, luna es kuyen y agua es ko.
 - **A2.** para qué cosa es. Las tres líneas son el nombre, para qué cosa es y la fuente.
@@ -785,7 +785,7 @@ Respuesta: «¿Qué forma usan en su comunidad?»
 *Aplicación*
 
 - **A1.** Tu libro escribe «ruka» y tu cartel escribe «ruca». ¿Qué anotas junto a cada forma?
-- **A2.** Elige la mejor revisión. A) «Mi cartel dice «ruka» y mi libro, «ruca»; anoto las dos y pregunto». B) ««Ruca» está mal, la borro».
+- **A2.** Elige la mejor revisión. A) ««Ruca» está mal, la borro» B) «Mi cartel dice «ruka» y mi libro, «ruca»; anoto las dos y pregunto»..
 - **A3.** Tu copia de «ruka» salió «ruga» y tu modelo dice «ruka». ¿Qué haces: corrijo mi copia o cambio el modelo?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: «¿Qué forma usan en su comunidad?»
 - **C2.** anoto las dos. No pongo una forma sobre otra.
 - **C3.** la comunidad. Lo decide a través del educador tradicional.
 - **A1.** su fuente. Documentar es anotar cada forma con su fuente.
-- **A2.** A. La A no jerarquiza.
+- **A2.** B. La A no jerarquiza.
 - **A3.** corrijo mi copia. Mi copia debe coincidir con mi modelo.
 - **Z1.** No. Haber visto una primero no la hace mejor.
 - **Z2.** preguntarle al educador tradicional. La decisión es de la comunidad.

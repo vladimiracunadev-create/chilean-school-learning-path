@@ -356,7 +356,7 @@ Respuesta: agua fresca
 
 - **R1.** Caracterizar es decir: A) cómo es algo B) cómo se llama algo.
 - **R2.** «Fresca» en «agua fresca» es una característica del agua. ¿Es verdadero o falso?
-- **R3.** Pertinente quiere decir que la característica: A) sirve y es verdadera B) suena larga.
+- **R3.** Pertinente quiere decir que la característica: A) suena larga B) sirve y es verdadera.
 
 *Comprensión*
 
@@ -396,7 +396,7 @@ Respuesta: agua fresca
 
 - **R1.** A. Caracterizar es decir cómo es.
 - **R2.** Verdadero. Dice cómo es el agua.
-- **R3.** A. Pertinente es que sirve y es verdadera.
+- **R3.** B. Pertinente es que sirve y es verdadera.
 - **C1.** redonda. Coincide con lo que se ve.
 - **C2.** Falso. Eso lo enseña el educador tradicional.
 - **C3.** brillante. Dice cómo es el sol.
@@ -564,7 +564,7 @@ Respuesta: Mejor «brillante»
 *Recuperación*
 
 - **R1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Modelo: «Vi «____», la luna, y era redonda». ¿Qué palabra de la ficha va en el espacio?
-- **R2.** Los pasos para construir son: elegir palabra, escribir significado, elegir característica y: A) comprobar el sentido B) borrar todo.
+- **R2.** Los pasos para construir son: elegir palabra, escribir significado, elegir característica y: A) borrar todo B) comprobar el sentido.
 - **R3.** Un lugar en blanco que debo completar se llama: A) espacio B) título.
 
 *Comprensión*
@@ -604,7 +604,7 @@ Respuesta: Mejor «brillante»
 **Solucionario razonado**
 
 - **R1.** kuyen. La ficha dice que «kuyen» es luna.
-- **R2.** A. El último paso es comprobar.
+- **R2.** B. El último paso es comprobar.
 - **R3.** A. Es el espacio del modelo.
 - **C1.** antü. La ficha dice que «antü» es sol.
 - **C2.** Falso. Se copia igual.
@@ -772,7 +772,7 @@ Respuesta: La primera
 
 *Recuperación*
 
-- **R1.** Reviso tres cosas: significado, grafía y: A) contexto B) color.
+- **R1.** Reviso tres cosas: significado, grafía y: A) color B) contexto.
 - **R2.** La grafía es: A) cómo se escribe una palabra B) lo que quiere decir.
 - **R3.** Para corregir uso un lápiz de: A) otro color B) el mismo y borro todo.
 
@@ -812,7 +812,7 @@ Respuesta: La primera
 
 **Solucionario razonado**
 
-- **R1.** A. La tercera es el contexto.
+- **R1.** B. La tercera es el contexto.
 - **R2.** A. Grafía es la escritura.
 - **R3.** A. Así veo qué cambié.
 - **C1.** el significado. «Mapu» es tierra, no luna.

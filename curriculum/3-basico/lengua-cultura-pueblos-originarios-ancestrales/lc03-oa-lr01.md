@@ -157,7 +157,7 @@ Respuesta: Escuchar con respeto y agradecer
 
 *Aplicación*
 
-- **A1.** Eliges una opción para participar sin exponerte: A) «Mi personaje inventado, Pablo, recuerda el saludo «mari mari».» B) «Debo decir algo de mi familia aunque no quiera.»
+- **A1.** Eliges una opción para participar sin exponerte: A) «Debo decir algo de mi familia aunque no quiera.» B) «Mi personaje inventado, Pablo, recuerda el saludo «mari mari».»
 - **A2.** Un grupo de 20 niños. 6 quieren compartir su memoria lingüística. ¿Cuántos no quieren compartir hoy?
 - **A3.** Marta no recuerda palabras, pero recuerda que en su barrio dicen «buen camino» al despedirse. ¿Su recuerdo cuenta como memoria lingüística? Responde Sí o No.
 
@@ -168,7 +168,7 @@ Respuesta: Escuchar con respeto y agradecer
 
 *Desafío*
 
-- **D1.** ¿Cuál de estas cosas es siempre opcional: A) escuchar con respeto a quien comparte B) compartir mi memoria lingüística?
+- **D1.** ¿Cuál de estas cosas es siempre opcional: A) compartir mi memoria lingüística B) escuchar con respeto a quien comparte?
 - **D2.** En una sala, 4 niños comparten una palabra cada uno y 3 niños comparten dos palabras cada uno. ¿Cuántas palabras se comparten?
 
 *Situaciones auténticas*
@@ -191,12 +191,12 @@ Respuesta: Escuchar con respeto y agradecer
 - **C1.** Falso. Nadie mide la pertenencia por la lengua.
 - **C2.** lo escucho con respeto. Compartir es una decisión.
 - **C3.** Sí. Puede decir paso o hablar de un personaje inventado.
-- **A1.** A. A respeta mi decisión.
+- **A1.** B. A respeta mi decisión.
 - **A2.** 14. Resto los que comparten del total. Cálculo: 20 − 6 = 14.
 - **A3.** Sí. También son frases del castellano de su comunidad.
 - **Z1.** No. Todas las personas son bienvenidas.
 - **Z2.** Sí. Obliga a mostrar si sabe o no.
-- **D1.** B. Escuchar con respeto lo hacemos todos; compartir es siempre una opción.
+- **D1.** A. Escuchar con respeto lo hacemos todos; compartir es siempre una opción.
 - **D2.** 10. Cuatro por una más tres por dos. Cálculo: 4 × 1 + 3 × 2 = 10.
 - **S1.** escucho y digo «paso». No tengo que inventar nada.
 - **E1.** lo que recuerdo de palabras o frases. Es el recuerdo de lo que oí o dije.
@@ -355,8 +355,8 @@ Respuesta: «Buen camino hoy»
 *Recuperación*
 
 - **R1.** Relato de práctica (inventado): Rosa llegó temprano a la sala y dijo «mari mari». La educadora le sonrió y le dijo: «Buen camino hoy». Rosa hizo una pregunta. Al irse, dijo «chaltumay». ¿Qué dijo Rosa al llegar?
-- **R2.** Una palabra o frase que tiene un valor especial para un grupo se llama expresión: A) culturalmente significativa B) larga.
-- **R3.** Poner una palabra solo para que se vea linda es usarla como: A) adorno B) saludo.
+- **R2.** Una palabra o frase que tiene un valor especial para un grupo se llama expresión: A) larga B) culturalmente significativa.
+- **R3.** Poner una palabra solo para que se vea linda es usarla como: A) saludo B) adorno.
 
 *Comprensión*
 
@@ -395,8 +395,8 @@ Respuesta: «Buen camino hoy»
 **Solucionario razonado**
 
 - **R1.** «mari mari». Su saludo está al comienzo del relato.
-- **R2.** A. Tiene un valor especial.
-- **R3.** A. No tiene un sentido para la situación.
+- **R2.** B. Tiene un valor especial.
+- **R3.** B. No tiene un sentido para la situación.
 - **C1.** para agradecer. La ficha dice que es gracias.
 - **C2.** Falso. También puede estar en castellano.
 - **C3.** en castellano. La educadora lo dice en castellano.
@@ -771,7 +771,7 @@ Respuesta: Usar un personaje inventado
 
 *Recuperación*
 
-- **R1.** Una opción ficticia es: A) un personaje inventado B) un secreto de mi casa.
+- **R1.** Una opción ficticia es: A) un secreto de mi casa B) un personaje inventado.
 - **R2.** Lo que sabe la comunidad lo pregunto: A) al educador tradicional B) a nadie.
 - **R3.** ¿Estoy obligado a contar cosas privadas para relacionar un relato?
 
@@ -785,7 +785,7 @@ Respuesta: Usar un personaje inventado
 
 - **A1.** Clasifica: «Yo sé que el agua es necesaria para las plantas». ¿Es conocimiento mío, de otra persona o de la comunidad?
 - **A2.** Anotas 2 conocimientos tuyos, 2 de personajes inventados y 1 que debes preguntar a la comunidad. ¿Cuántos conocimientos anotas?
-- **A3.** Quieres relacionar el relato de Pedro con algo que sabes, pero es muy personal. Elige: A) invento un niño llamado Pablo que lo sabe B) cuento todo aunque no quiera.
+- **A3.** Quieres relacionar el relato de Pedro con algo que sabes, pero es muy personal. Elige: A) cuento todo aunque no quiera B) invento un niño llamado Pablo que lo sabe.
 
 *Razonamiento y análisis*
 
@@ -794,7 +794,7 @@ Respuesta: Usar un personaje inventado
 
 *Desafío*
 
-- **D1.** ¿Qué conocimiento NO debo inventar: A) lo que sabe la comunidad B) lo que sabe un personaje inventado?
+- **D1.** ¿Qué conocimiento NO debo inventar: A) lo que sabe un personaje inventado B) lo que sabe la comunidad?
 - **D2.** Cada persona de un grupo de 4 aporta 2 conocimientos. ¿Cuántos conocimientos hay en total?
 
 *Situaciones auténticas*
@@ -811,7 +811,7 @@ Respuesta: Usar un personaje inventado
 
 **Solucionario razonado**
 
-- **R1.** A. Ficticio quiere decir inventado.
+- **R1.** B. Ficticio quiere decir inventado.
 - **R2.** A. Él puede enseñarlo.
 - **R3.** No. Puedo usar una opción ficticia.
 - **C1.** Falso. Puede venir de otra experiencia.
@@ -819,10 +819,10 @@ Respuesta: Usar un personaje inventado
 - **C3.** 3. Hay lo mío, lo de otra persona y lo de la comunidad.
 - **A1.** mío. Empieza con «yo sé».
 - **A2.** 5. Sumo los tres grupos. Cálculo: 2 + 2 + 1 = 5.
-- **A3.** A. Una opción ficticia me protege.
+- **A3.** B. Una opción ficticia me protege.
 - **Z1.** No. Cada comunidad tiene sus propios saberes.
 - **Z2.** preguntar al educador tradicional. Lo que sabe la comunidad se pregunta.
-- **D1.** A. Lo que sabe la comunidad se pregunta; el personaje inventado es mío para imaginar.
+- **D1.** B. Lo que sabe la comunidad se pregunta; el personaje inventado es mío para imaginar.
 - **D2.** 8. Cuatro personas por dos conocimientos. Cálculo: 4 × 2 = 8.
 - **S1.** invento a una niña llamada Lola que sabe algo. Una opción ficticia me deja participar.
 - **E1.** lo mío, lo de otra persona y lo de la comunidad. Son las tres de la clase.

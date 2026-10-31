@@ -368,7 +368,7 @@ Respuesta: vive en el altiplano del norte; el niño mezcló
 
 - **A1.** Une pueblo y paisaje: 1) aymara 2) rapa nui 3) kawésqar. Paisajes: a) isla b) altiplano c) canales de la Patagonia. Escribe las parejas.
 - **A2.** Ficha: «En los canales hay mar, islas y mucha lluvia». ¿Cuántos elementos de la naturaleza nombra?
-- **A3.** Describe en una frase al pueblo lickanantay usando la ficha: elige A) «Vive en el desierto de Atacama.» B) «Vive en la isla de Pascua.»
+- **A3.** Describe en una frase al pueblo lickanantay usando la ficha: elige A) «Vive en la isla de Pascua.» B) «Vive en el desierto de Atacama.»
 
 *Razonamiento y análisis*
 
@@ -402,7 +402,7 @@ Respuesta: vive en el altiplano del norte; el niño mezcló
 - **C3.** No. La ficha dice centro y sur.
 - **A1.** 1-b, 2-a, 3-c. Aymara: altiplano; rapa nui: isla; kawésqar: canales.
 - **A2.** 3. Mar, islas y lluvia.
-- **A3.** A. A coincide con la ficha.
+- **A3.** B. A coincide con la ficha.
 - **Z1.** No. En el desierto llueve muy poco.
 - **Z2.** porque cada territorio es distinto. Así uso los datos correctos.
 - **D1.** 3. 5 − 2 = 3 pueblos.
@@ -577,7 +577,7 @@ Respuesta: el otoño
 
 - **A1.** Une la señal con lo que puede pasar. 1) Nubes oscuras 2) Mucho sol 3) Hojas amarillas. a) calor b) lluvia c) otoño. Escribe las parejas.
 - **A2.** Observación: veo charcos en el patio y el suelo mojado. ¿Qué pasó antes: llovió o hubo sol fuerte?
-- **A3.** Completa: «Veo nubes oscuras, por eso ____ que llueva». Elige: A) puede ser B) es seguro.
+- **A3.** Completa: «Veo nubes oscuras, por eso ____ que llueva». Elige: A) es seguro B) puede ser.
 
 *Razonamiento y análisis*
 
@@ -611,7 +611,7 @@ Respuesta: el otoño
 - **C3.** su comunidad. Es un saber de ese pueblo.
 - **A1.** 1-b, 2-a, 3-c. Nubes: lluvia; sol: calor; hojas amarillas: otoño.
 - **A2.** llovió. El agua en el suelo muestra que llovió.
-- **A3.** A. No estoy seguro, uso «puede ser».
+- **A3.** B. No estoy seguro, uso «puede ser».
 - **Z1.** No. Cada pueblo tiene su propia lectura y la explica su comunidad.
 - **Z2.** porque no puedo estar seguro. Las señales avisan, pero no aseguran.
 - **D1.** 4. 7 − 3 = 4 días.

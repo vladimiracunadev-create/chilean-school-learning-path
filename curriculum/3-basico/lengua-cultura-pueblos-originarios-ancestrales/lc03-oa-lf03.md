@@ -146,7 +146,7 @@ Respuesta: Sí, era un saludo
 *Recuperación*
 
 - **R1.** Anticipar es: A) pensar qué dirá un texto antes de leerlo B) leer solo el final.
-- **R2.** El título de un texto es: A) su nombre B) su último párrafo.
+- **R2.** El título de un texto es: A) su último párrafo B) su nombre.
 - **R3.** Una idea que hago antes de leer se llama: A) predicción B) respuesta final.
 
 *Comprensión*
@@ -186,7 +186,7 @@ Respuesta: Sí, era un saludo
 **Solucionario razonado**
 
 - **R1.** A. Anticipar es predecir antes de leer.
-- **R2.** A. El título es el nombre.
+- **R2.** B. El título es el nombre.
 - **R3.** A. Es una idea que debo comprobar.
 - **C1.** el título, según la ficha. La ficha explica que «mari mari» es un saludo.
 - **C2.** Verdadero. La predicción se corrige con lo que dice el texto.
@@ -356,7 +356,7 @@ Respuesta: luna
 
 - **R1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Tarjeta con dibujo de una casa y la palabra «ruka». ¿Qué quiere decir «ruka»?
 - **R2.** Un dibujo que ayuda a entender una palabra se llama apoyo: A) visual B) oral.
-- **R3.** Quien me enseña cómo se lee una palabra es un apoyo: A) oral B) visual.
+- **R3.** Quien me enseña cómo se lee una palabra es un apoyo: A) visual B) oral.
 
 *Comprensión*
 
@@ -396,7 +396,7 @@ Respuesta: luna
 
 - **R1.** casa. La ficha dice que «ruka» es casa.
 - **R2.** A. Lo veo con los ojos.
-- **R3.** A. Lo escucho con los oídos.
+- **R3.** B. Lo escucho con los oídos.
 - **C1.** la ficha. La ficha dice que «antü» es sol.
 - **C2.** Falso. Debo confirmar con la ficha.
 - **C3.** madre. La ficha dice que «ñuke» es madre.
@@ -563,7 +563,7 @@ Respuesta: Yo sé que las plantas necesitan agua para crecer
 
 *Recuperación*
 
-- **R1.** Lo que está escrito en el texto se llama: A) información del texto B) mi conocimiento.
+- **R1.** Lo que está escrito en el texto se llama: A) mi conocimiento B) información del texto.
 - **R2.** Lo que yo aprendí antes se llama: A) conocimiento B) título.
 - **R3.** Para no mezclar, ¿uso una columna para el texto y otra para lo que sé yo?
 
@@ -603,7 +603,7 @@ Respuesta: Yo sé que las plantas necesitan agua para crecer
 
 **Solucionario razonado**
 
-- **R1.** A. La información está en el texto.
+- **R1.** B. La información está en el texto.
 - **R2.** A. Es lo que ya sé.
 - **R3.** Sí. Así veo qué viene de dónde.
 - **C1.** el agua. La ficha dice que «ko» es agua.
@@ -773,7 +773,7 @@ Respuesta: un límite
 *Recuperación*
 
 - **R1.** Carta: «Me dio alegría decirlo». ¿Qué emoción aparece?
-- **R2.** Lo que no sé o no entendí se llama: A) límite B) título.
+- **R2.** Lo que no sé o no entendí se llama: A) título B) límite.
 - **R3.** Si no sé algo, ¿lo digo con honestidad o finjo?
 
 *Comprensión*
@@ -784,9 +784,9 @@ Respuesta: un límite
 
 *Aplicación*
 
-- **A1.** Elige la mejor respuesta: A) «Sentí alegría porque aprendí una palabra, pero no sé cuándo se usa.» B) «Todo me da lo mismo.»
+- **A1.** Elige la mejor respuesta: A) «Todo me da lo mismo.» B) «Sentí alegría porque aprendí una palabra, pero no sé cuándo se usa.»
 - **A2.** Una respuesta tiene 1 emoción y 2 límites. ¿Cuántas ideas dice mi respuesta?
-- **A3.** Elige la mejor pregunta para la educadora: A) «¿Me puede explicar cuándo se usa «chaltumay»?» B) «Ya sé cuándo se usa.»
+- **A3.** Elige la mejor pregunta para la educadora: A) «Ya sé cuándo se usa.» B) «¿Me puede explicar cuándo se usa «chaltumay»?»
 
 *Razonamiento y análisis*
 
@@ -813,14 +813,14 @@ Respuesta: un límite
 **Solucionario razonado**
 
 - **R1.** alegría. La carta nombra alegría.
-- **R2.** A. Un límite es lo que no sé.
+- **R2.** B. Un límite es lo que no sé.
 - **R3.** lo digo con honestidad. Decir mi límite es respetuoso.
 - **C1.** Falso. Cada persona puede sentir distinto.
 - **C2.** un límite. Dice algo que la niña no sabe.
 - **C3.** una emoción. Dice cómo se sintió.
-- **A1.** A. A dice una emoción y un límite.
+- **A1.** B. A dice una emoción y un límite.
 - **A2.** 3. Sumo la emoción y los límites. Cálculo: 1 + 2 = 3.
-- **A3.** A. A pregunta con respeto lo que no sé.
+- **A3.** B. A pregunta con respeto lo que no sé.
 - **Z1.** No. Decir lo que no sé es honesto.
 - **Z2.** que prefieres no contarlo. Nadie debe contar cosas privadas.
 - **D1.** A, B, C. Digo emoción, límite y pregunta.
@@ -993,7 +993,7 @@ Respuesta: Las pistas no coinciden; pregunto a la educadora
 
 *Aplicación*
 
-- **A1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Dos tarjetas: A) dibujo de un sol y «antü» B) dibujo de agua y «kuyen». ¿En cuál coinciden las pistas?
+- **A1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Dos tarjetas: A) dibujo de agua y «kuyen». ¿En cuál coinciden las pistas B) dibujo de un sol y «antü»?
 - **A2.** Revisas 5 tarjetas y 2 tienen pistas que no coinciden. ¿En cuántas coinciden?
 - **A3.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Tarjeta: dibujo de una madre con su hijo y la palabra «ñuke». ¿Las pistas coinciden?
 
@@ -1004,7 +1004,7 @@ Respuesta: Las pistas no coinciden; pregunto a la educadora
 
 *Desafío*
 
-- **D1.** ¿Qué es más confiable para saber qué dice «ñuke»: A) una idea mía sin fuente B) la ficha hecha con la educadora?
+- **D1.** ¿Qué es más confiable para saber qué dice «ñuke»: A) la ficha hecha con la educadora B) una idea mía sin fuente?
 - **D2.** Comparas 3 pistas en cada una de 4 tarjetas. ¿Cuántas pistas comparas en total?
 
 *Situaciones auténticas*
@@ -1027,12 +1027,12 @@ Respuesta: Las pistas no coinciden; pregunto a la educadora
 - **C1.** Sí. La ficha dice que «kuyen» es luna.
 - **C2.** No. La ficha dice que «mapu» es tierra, no casa.
 - **C3.** Verdadero. Viene de una buena fuente.
-- **A1.** A. En A, «antü» es sol; en B, «kuyen» no es agua.
+- **A1.** B. En A, «antü» es sol; en B, «kuyen» no es agua.
 - **A2.** 3. Resto las que no coinciden. Cálculo: 5 − 2 = 3.
 - **A3.** Sí. La ficha dice que «ñuke» es madre.
 - **Z1.** preguntar a la educadora. Las pistas no coinciden.
 - **Z2.** Sí. La ficha viene de una fuente confiable.
-- **D1.** B. La ficha viene de una buena fuente.
+- **D1.** A. La ficha viene de una buena fuente.
 - **D2.** 12. Tres pistas por cuatro tarjetas. Cálculo: 3 × 4 = 12.
 - **S1.** comparo con la ficha y pregunto a la educadora. La ficha dice que «antü» es sol, no agua.
 - **E1.** pregunto. No decido sin saber.

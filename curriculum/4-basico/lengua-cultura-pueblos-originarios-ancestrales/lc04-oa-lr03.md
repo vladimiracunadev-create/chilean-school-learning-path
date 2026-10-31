@@ -143,9 +143,9 @@ Respuesta: Invitar a conocer la huerta
 
 *Recuperación*
 
-- **R1.** El propósito de un texto es: A) para qué se escribió B) cuántas hojas tiene.
+- **R1.** El propósito de un texto es: A) cuántas hojas tiene B) para qué se escribió.
 - **R2.** Invitación de práctica (inventada). De: el 4.º A de una escuela de práctica. Para: las familias del curso. Texto: «Los invitamos a conocer nuestra huerta. Habrá una muestra de palabras: antü, ko y mapu. Será el viernes a las 10. Chaltumay por venir.» ¿Para quiénes es la invitación?
-- **R3.** Una invitación sirve para: A) pedir que alguien venga B) despedirse.
+- **R3.** Una invitación sirve para: A) despedirse B) pedir que alguien venga.
 
 *Comprensión*
 
@@ -162,12 +162,12 @@ Respuesta: Invitar a conocer la huerta
 *Razonamiento y análisis*
 
 - **Z1.** Un aviso dice: «Hoy no hay clases». Otro dice: «Los invitamos al acto». ¿Cuál es una invitación?
-- **Z2.** Una persona dice que la invitación fue escrita por una comunidad indígena. ¿Qué dato contradice su error: A) la fuente dice que la escribió un curso de una escuela de práctica B) la hora de la muestra?
+- **Z2.** Una persona dice que la invitación fue escrita por una comunidad indígena. ¿Qué dato contradice su error: A) la hora de la muestra B) la fuente dice que la escribió un curso de una escuela de práctica?
 
 *Desafío*
 
 - **D1.** La muestra empieza a las 10 y dura 2 horas. ¿A qué hora termina?
-- **D2.** Quieres usar un texto real de una comunidad y no sabes quién lo escribió. ¿Qué haces: A) pregunto al educador tradicional de dónde viene B) lo uso igual?
+- **D2.** Quieres usar un texto real de una comunidad y no sabes quién lo escribió. ¿Qué haces: A) lo uso igual B) pregunto al educador tradicional de dónde viene?
 
 *Situaciones auténticas*
 
@@ -183,9 +183,9 @@ Respuesta: Invitar a conocer la huerta
 
 **Solucionario razonado**
 
-- **R1.** A. Propósito es el motivo.
+- **R1.** B. Propósito es el motivo.
 - **R2.** las familias del curso. El dato «Para» lo dice.
-- **R3.** A. Invitar es convocar.
+- **R3.** B. Invitar es convocar.
 - **C1.** el viernes. El texto dice «el viernes».
 - **C2.** Falso. Puede tener varios, aunque uno sea el principal.
 - **C3.** Chaltumay. La ficha dice que chaltumay es gracias.
@@ -193,9 +193,9 @@ Respuesta: Invitar a conocer la huerta
 - **A2.** a las 10. El texto dice «a las 10».
 - **A3.** 3. Resto las que llegaron. Cálculo: 12 − 9 = 3.
 - **Z1.** el segundo. Pide que asistan.
-- **Z2.** A. La fuente no menciona ninguna comunidad indígena.
+- **Z2.** B. La fuente no menciona ninguna comunidad indígena.
 - **D1.** 12. Sumo la duración a la hora de inicio. Cálculo: 10 + 2 = 12.
-- **D2.** A. Debo conocer la fuente y el permiso.
+- **D2.** B. Debo conocer la fuente y el permiso.
 - **S1.** «invitar». La palabra «invitamos» lo indica.
 - **E1.** la fuente. Fuente es el origen.
 - **E2.** para qué se escribió. Es el motivo del texto.
@@ -351,8 +351,8 @@ Respuesta: tierra
 *Recuperación*
 
 - **R1.** Según la ficha, «ko» es: A) agua B) casa.
-- **R2.** El territorio es: A) el lugar donde vive y trabaja una comunidad B) un tipo de comida.
-- **R3.** Subrayar sirve para: A) marcar palabras importantes B) borrar.
+- **R2.** El territorio es: A) un tipo de comida B) el lugar donde vive y trabaja una comunidad.
+- **R3.** Subrayar sirve para: A) borrar B) marcar palabras importantes.
 
 *Comprensión*
 
@@ -391,8 +391,8 @@ Respuesta: tierra
 **Solucionario razonado**
 
 - **R1.** A. La ficha dice agua.
-- **R2.** A. Es el lugar de la comunidad.
-- **R3.** A. Marca lo importante.
+- **R2.** B. Es el lugar de la comunidad.
+- **R3.** B. Marca lo importante.
 - **C1.** para regar. La nota dice «ko para regar».
 - **C2.** Falso. Cada cultura tiene su significado.
 - **C3.** chaltumay. Significa gracias en mapuzugun.
@@ -560,7 +560,7 @@ Respuesta: No, solo da los dos datos
 
 - **R1.** Nota de práctica (inventada): «Sembramos 8 semillas en la mapu. Regamos con ko cada día. A la semana, 6 semillas brotaron.» ¿Cuántas semillas sembraron?
 - **R2.** Nota de práctica (inventada): «Sembramos 8 semillas en la mapu. Regamos con ko cada día. A la semana, 6 semillas brotaron.» ¿Cuántas brotaron?
-- **R3.** La causa es: A) lo que hace que algo pase B) lo que pasa después.
+- **R3.** La causa es: A) lo que pasa después B) lo que hace que algo pase.
 
 *Comprensión*
 
@@ -600,7 +600,7 @@ Respuesta: No, solo da los dos datos
 
 - **R1.** 8. La nota dice 8 semillas.
 - **R2.** 6. La nota dice 6 semillas.
-- **R3.** A. Causa es el origen.
+- **R3.** B. Causa es el origen.
 - **C1.** con ko. La nota dice ko.
 - **C2.** Falso. El texto no lo dice.
 - **C3.** cada día. La nota dice cada día.
@@ -773,7 +773,7 @@ Respuesta: Con un dato del cuento y un porque
 
 - **C1.** Verdadero o falso: debo contar una vivencia mía para responder.
 - **C2.** Cuento de práctica (inventado): «Mía llevó ko desde el río hasta la ruka. En la puerta la esperaba su ñuke. Mía sintió alegría y dijo: chaltumay. Luego ambas regaron las plantas.» ¿Qué dijo Mía cuando llegó?
-- **C3.** Una pregunta abierta tiene: A) varias respuestas posibles B) una sola respuesta.
+- **C3.** Una pregunta abierta tiene: A) una sola respuesta B) varias respuestas posibles.
 
 *Aplicación*
 
@@ -784,7 +784,7 @@ Respuesta: Con un dato del cuento y un porque
 *Razonamiento y análisis*
 
 - **Z1.** Eva: «Me gustó porque Mía agradeció». Gaspar: «Tienes que contar una vez que tú agradeciste». ¿Quién respeta la privacidad?
-- **Z2.** Una niña dice que «esa cultura está mal por hacer eso». ¿Qué error comete: A) juzga una cultura B) cita un dato?
+- **Z2.** Una niña dice que «esa cultura está mal por hacer eso». ¿Qué error comete: A) cita un dato B) juzga una cultura?
 
 *Desafío*
 
@@ -810,12 +810,12 @@ Respuesta: Con un dato del cuento y un porque
 - **R3.** «Mía sintió alegría». Ese dato del texto es la evidencia de la opinión.
 - **C1.** Falso. Puedo responder con el texto.
 - **C2.** chaltumay. El cuento lo dice.
-- **C3.** A. Abierta admite varias.
+- **C3.** B. Abierta admite varias.
 - **A1.** 2. La respuesta 2 dice porque y cita lo que hace Mía en el cuento.
 - **A2.** 5. Sumo las vasijas de ambas. Cálculo: 3 + 2 = 5.
 - **A3.** 2. La 1 es un dato del texto, la 2 es una opinión con porque y la 3 es una pregunta.
 - **Z1.** Eva. No exige vivencias.
-- **Z2.** A. No debo juzgar la cultura.
+- **Z2.** B. No debo juzgar la cultura.
 - **D1.** 6. Resto las que usaron datos. Cálculo: 20 − 14 = 6.
 - **D2.** A. Las preguntas abiertas respetan.
 - **S1.** «Me gustó porque Mía agradeció». Usa el texto como evidencia.
@@ -973,7 +973,7 @@ Respuesta: La luna iluminó el patio de noche y los niños la miraron en silenci
 *Recuperación*
 
 - **R1.** Texto de práctica (inventado): «Esa noche el kuyen iluminó el patio. Los niños miraron el cielo y guardaron silencio.» ¿Dónde iluminó el kuyen?
-- **R2.** Según la ficha, «kuyen» es: A) luna B) agua.
+- **R2.** Según la ficha, «kuyen» es: A) agua B) luna.
 - **R3.** El contexto es: A) lo que rodea a una palabra B) el título.
 
 *Comprensión*
@@ -984,19 +984,19 @@ Respuesta: La luna iluminó el patio de noche y los niños la miraron en silenci
 
 *Aplicación*
 
-- **A1.** Texto: «El kuyen iluminó el patio». Ya buscaste pistas en el contexto. ¿Qué haces para confirmar el significado: A) reviso la ficha B) agrego un significado espiritual?
+- **A1.** Texto: «El kuyen iluminó el patio». Ya buscaste pistas en el contexto. ¿Qué haces para confirmar el significado: A) agrego un significado espiritual B) reviso la ficha?
 - **A2.** Texto: «El antü calentó la mapu». Según la ficha, ¿qué calentó el sol?
 - **A3.** Imagina que los niños miraron el cielo 5 minutos el lunes y 4 el martes. ¿Cuántos minutos miraron en total?
 
 *Razonamiento y análisis*
 
 - **Z1.** Dos explicaciones de kuyen en el texto. Eva: «Es la luna, porque ilumina de noche». Gaspar: «Es un animal». ¿Quién usa el contexto?
-- **Z2.** Una persona explica el significado espiritual de la luna para un pueblo sin haberlo aprendido. ¿Qué error comete: A) afirma lo que no sabe B) usa la ficha?
+- **Z2.** Una persona explica el significado espiritual de la luna para un pueblo sin haberlo aprendido. ¿Qué error comete: A) usa la ficha B) afirma lo que no sabe?
 
 *Desafío*
 
 - **D1.** El texto tiene 2 oraciones: la primera tiene 7 palabras y la segunda tiene 8. ¿Cuántas palabras tiene el texto?
-- **D2.** Quieres saber el significado profundo de una expresión para una cultura. ¿A quién preguntas: A) al educador tradicional B) a nadie?
+- **D2.** Quieres saber el significado profundo de una expresión para una cultura. ¿A quién preguntas: A) a nadie B) al educador tradicional?
 
 *Situaciones auténticas*
 
@@ -1013,18 +1013,18 @@ Respuesta: La luna iluminó el patio de noche y los niños la miraron en silenci
 **Solucionario razonado**
 
 - **R1.** en el patio. El texto dice el patio.
-- **R2.** A. La ficha dice luna.
+- **R2.** B. La ficha dice luna.
 - **R3.** A. El contexto da pistas.
 - **C1.** de noche. El texto dice «esa noche».
 - **C2.** Falso. Eso lo explica la comunidad.
 - **C3.** miraron el cielo y guardaron silencio. Lo dice la segunda oración.
-- **A1.** A. Primero el contexto y después la ficha; no se agregan significados que el texto no dice.
+- **A1.** B. Primero el contexto y después la ficha; no se agregan significados que el texto no dice.
 - **A2.** la tierra. La ficha dice que mapu es tierra.
 - **A3.** 9. Sumo los minutos de los dos días. Cálculo: 5 + 4 = 9.
 - **Z1.** Eva. Su explicación se apoya en el texto.
-- **Z2.** A. No puede afirmarlo.
+- **Z2.** B. No puede afirmarlo.
 - **D1.** 15. Sumo las palabras de las dos oraciones. Cálculo: 7 + 8 = 15.
-- **D2.** A. Él o ella conoce ese significado.
+- **D2.** B. Él o ella conoce ese significado.
 - **S1.** «busco pistas en el texto y reviso la ficha». Así confirmo el significado.
 - **E1.** el contexto. Aporta pistas para entender.
 - **E2.** decir con mis palabras lo que dice el texto. Es explicar con mis palabras.

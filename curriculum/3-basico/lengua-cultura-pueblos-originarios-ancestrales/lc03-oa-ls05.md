@@ -575,7 +575,7 @@ Respuesta: En mapuzugun, «ko» es agua (Fuente: ficha de la clase).
 
 *Aplicación*
 
-- **A1.** ¿Cuál es la línea contextualizada para «antü» según la ficha? A) En mapuzugun, «antü» es sol (Fuente: ficha de la clase). B) En mapuzugun, «antü» es luna (Fuente: ficha de la clase).
+- **A1.** ¿Cuál es la línea contextualizada para «antü» según la ficha? A) En mapuzugun, «antü» es luna (Fuente: ficha de la clase) B) En mapuzugun, «antü» es sol (Fuente: ficha de la clase)..
 - **A2.** Tu mensaje central es saludar. Escoges «mari mari» y también agregas «ko» sin relación con el mensaje. ¿Qué problema tiene «ko» en tu recurso?
 - **A3.** Mensaje central: cuidar el agua. Ficha de palabras en mapuzugun (de práctica): «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es la casa mapuche, «mapu» es tierra, «ñuke» es madre. ¿Qué palabra de la ficha eliges?
 
@@ -587,7 +587,7 @@ Respuesta: En mapuzugun, «ko» es agua (Fuente: ficha de la clase).
 *Desafío*
 
 - **D1.** Ordena los pasos: A) escribo la línea contextualizada. B) elijo dos palabras. C) repaso mi mensaje central. Escribe las letras.
-- **D2.** Mensaje: saludar y agradecer. Elige las dos palabras: A) «mari mari» y «chaltumay». B) «ko» y «antü».
+- **D2.** Mensaje: saludar y agradecer. Elige las dos palabras: A) «ko» y «antü» B) «mari mari» y «chaltumay»..
 
 *Situaciones auténticas*
 
@@ -609,13 +609,13 @@ Respuesta: En mapuzugun, «ko» es agua (Fuente: ficha de la clase).
 - **C1.** B. Tiene lengua, significado y fuente.
 - **C2.** Falso. Debo preguntar primero.
 - **C3.** chaltumay. Según la ficha quiere decir gracias.
-- **A1.** A. La ficha dice que «antü» es sol.
+- **A1.** B. La ficha dice que «antü» es sol.
 - **A2.** no sirve al mensaje central y queda como adorno. Las palabras se eligen según el mensaje.
 - **A3.** ko. Ko es agua.
 - **Z1.** son adorno. Sin significado no se entienden.
 - **Z2.** se la cambio por una pregunta para la educadora. No se inventan frases en lengua indígena.
 - **D1.** C, B, A. Repaso, elijo y escribo.
-- **D2.** A. Una saluda y la otra agradece.
+- **D2.** B. Una saluda y la otra agradece.
 - **S1.** «Según la ficha, «ko» es agua en mapuzugun». Contextualiza la palabra.
 - **E1.** significado y fuente. Así se entiende.
 - **E2.** pocas. Así las explico bien.
@@ -780,7 +780,7 @@ Respuesta: la palabra de la ficha con su fuente
 
 - **C1.** Verdadero o falso: puedo usar música de otros en mi recurso si me gusta.
 - **C2.** Elige lo que sí puedo hacer. A) mostrar una palabra con su significado y fuente. B) copiar un símbolo de un pueblo.
-- **C3.** ¿Cuál recurso respeta esta clase? A) dibujos míos y una palabra con fuente. B) un video con disfraces.
+- **C3.** ¿Cuál recurso respeta esta clase? A) un video con disfraces B) dibujos míos y una palabra con fuente..
 
 *Aplicación*
 
@@ -817,7 +817,7 @@ Respuesta: la palabra de la ficha con su fuente
 - **R3.** puede ser burla. Imita sin conocer.
 - **C1.** Falso. Necesito el permiso de sus autores.
 - **C2.** A. La B copia lo de otros.
-- **C3.** A. Usa creaciones propias y fuente.
+- **C3.** B. Usa creaciones propias y fuente.
 - **A1.** el dibujo copiado del diseño de tejido. Es una creación de otros que no usé con permiso.
 - **A2.** A y C. El B copia un diseño de otros.
 - **A3.** «mari mari» con su fuente. No actúo ceremonias.

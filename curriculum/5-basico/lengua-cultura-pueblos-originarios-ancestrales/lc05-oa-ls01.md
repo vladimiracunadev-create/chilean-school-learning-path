@@ -164,7 +164,7 @@ Respuesta: faltan pueblo, territorio y permiso
 *Razonamiento y análisis*
 
 - **Z1.** Una niña escribe: «Todos los pueblos indígenas cuentan el mismo relato del origen». ¿Es una generalización? Sí o No.
-- **Z2.** Quieres conocer un relato real de tu comunidad. ¿Qué es mejor: A) pedir al educador o educadora tradicional que lo cuente o B) escribirlo tú de memoria?
+- **Z2.** Quieres conocer un relato real de tu comunidad. ¿Qué es mejor: A) escribirlo tú de memoria o B) pedir al educador o educadora tradicional que lo cuente?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: faltan pueblo, territorio y permiso
 - **A2.** A-2, B-1. El relato A tiene la montaña y el relato B la pluma.
 - **A3.** 7. Se suman los de los dos días. Cálculo: 4 + 3 = 7.
 - **Z1.** Sí. Cada pueblo tiene sus propios relatos.
-- **Z2.** A. Quien conoce el relato lo cuenta con su sentido.
+- **Z2.** B. Quien conoce el relato lo cuenta con su sentido.
 - **D1.** B. El relato B dice que en la isla crecieron los primeros árboles; el A no los nombra.
 - **D2.** B, C, A. Primero ubico pueblo y territorio, luego la fuente y al final cuento con permiso.
 - **S1.** escuchas con atención y preguntas respetuosamente. Cada familia o comunidad tiene su forma de contar.
@@ -373,12 +373,12 @@ Respuesta: es la versión que ella escuchó y otras familias lo cuentan distinto
 *Razonamiento y análisis*
 
 - **Z1.** Relato de práctica D (inventado; no es de ningún pueblo): Dicen las personas mayores de un valle inventado que el primer sol salió de una laguna. Cuando salió, el valle se llenó de luz y los animales despertaron. Desde entonces, cuentan, la gente saluda al día con respeto. Una abuela inventada aclara: «Así me lo contaron a mí; otras familias lo cuentan de otra manera». Una niña dice: «Este relato prueba lo que cree un pueblo indígena real». ¿Puede decir eso si el relato es inventado y no es de ningún pueblo? Sí o No.
-- **Z2.** Escuchas un relato real y no entiendes una palabra. ¿Qué es mejor: A) preguntar a quien lo cuenta o al educador tradicional, B) inventar qué quiere decir?
+- **Z2.** Escuchas un relato real y no entiendes una palabra. ¿Qué es mejor: A) inventar qué quiere decir, B) preguntar a quien lo cuenta o al educador tradicional?
 
 *Desafío*
 
-- **D1.** Relato de práctica D (inventado; no es de ningún pueblo): Dicen las personas mayores de un valle inventado que el primer sol salió de una laguna. Cuando salió, el valle se llenó de luz y los animales despertaron. Desde entonces, cuentan, la gente saluda al día con respeto. Una abuela inventada aclara: «Así me lo contaron a mí; otras familias lo cuentan de otra manera». Elige el mejor resumen: A) «Según el relato D, el primer sol salió de una laguna, el valle se llenó de luz y desde entonces la gente saluda al día; la abuela aclara que otras familias lo cuentan distinto». B) «El relato prueba que el sol es sagrado». Escribe la letra.
-- **D2.** Un compañero cuenta el relato D cambiando «laguna» por «mar». ¿Qué es lo correcto: A) corregirle con respeto según el texto o B) aceptar el cambio porque da igual?
+- **D1.** Relato de práctica D (inventado; no es de ningún pueblo): Dicen las personas mayores de un valle inventado que el primer sol salió de una laguna. Cuando salió, el valle se llenó de luz y los animales despertaron. Desde entonces, cuentan, la gente saluda al día con respeto. Una abuela inventada aclara: «Así me lo contaron a mí; otras familias lo cuentan de otra manera». Elige el mejor resumen: A) «El relato prueba que el sol es sagrado». Escribe la letra B) «Según el relato D, el primer sol salió de una laguna, el valle se llenó de luz y desde entonces la gente saluda al día; la abuela aclara que otras familias lo cuentan distinto»..
+- **D2.** Un compañero cuenta el relato D cambiando «laguna» por «mar». ¿Qué es lo correcto: A) aceptar el cambio porque da igual o B) corregirle con respeto según el texto?
 
 *Situaciones auténticas*
 
@@ -404,9 +404,9 @@ Respuesta: es la versión que ella escuchó y otras familias lo cuentan distinto
 - **A2.** 1 H, 2 I, 3 H. La 2 no aparece en el relato.
 - **A3.** 2. Se restan las subrayadas del total. Cálculo: 5 − 3 = 2.
 - **Z1.** No. No pertenece a ningún pueblo.
-- **Z2.** A. El sentido de las palabras lo enseña quien las conoce.
-- **D1.** A. A resume sin agregar ideas y mantiene el límite.
-- **D2.** A. El relato dice laguna y se cuenta como está escrito.
+- **Z2.** B. El sentido de las palabras lo enseña quien las conoce.
+- **D1.** B. A resume sin agregar ideas y mantiene el límite.
+- **D2.** B. El relato dice laguna y se cuenta como está escrito.
 - **S1.** dices «según como lo contó ella». Respeta el límite que ella declaró.
 - **E1.** Sí. Así se definió secuencia.
 - **E2.** No. Los significados los enseña quien corresponde.

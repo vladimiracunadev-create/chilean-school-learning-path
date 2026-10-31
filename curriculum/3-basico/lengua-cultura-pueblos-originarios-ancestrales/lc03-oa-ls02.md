@@ -164,7 +164,7 @@ Respuesta: No
 *Razonamiento y análisis*
 
 - **Z1.** Sofía dice: «Es segura porque es divertida». ¿Alcanza con ser divertida? Sí o No.
-- **Z2.** Un compañero no quiere actuar. ¿Qué haces: A) lo obligo. B) le ofrezco otra forma de participar, como escribir su idea.
+- **Z2.** Un compañero no quiere actuar. ¿Qué haces: A) le ofrezco otra forma de participar, como escribir su idea B) lo obligo..
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: No
 - **A2.** no imitar ni simular ceremonias ni cantos que una comunidad cuida. Mimar un canto que se cuida es simularlo.
 - **A3.** A. La B simula algo que se cuida.
 - **Z1.** No. También debe cuidar a las personas.
-- **Z2.** B. La participación es voluntaria.
+- **Z2.** A. La participación es voluntaria.
 - **D1.** B, A, C. Pienso, reviso y recién elijo.
 - **D2.** que no imite ni simule ceremonias ni cantos que una comunidad cuida. Son cuatro condiciones y esa es la que no revisaste.
 - **S1.** «una visita llega y se la recibe con respeto». La otra imita algo que una comunidad cuida.
@@ -571,7 +571,7 @@ Respuesta: emoción: curiosidad; razón: quiere saber qué es «ko»
 
 - **C1.** Verdadero o falso: para practicar puedo hablar por un personaje inventado y no por mí.
 - **C2.** Mensaje: «Soy Mateo. Siento nervios porque voy a hablar en clase». ¿Cuál es el sentimiento?
-- **C3.** Elige la mejor estructura: A) Soy…, siento… porque…, digo… B) Digo… siento… soy…
+- **C3.** Elige la mejor estructura: A) Digo… siento… soy… B) Soy…, siento… porque…, digo…
 
 *Aplicación*
 
@@ -608,7 +608,7 @@ Respuesta: emoción: curiosidad; razón: quiere saber qué es «ko»
 - **R3.** hay visita. Viene después de «porque».
 - **C1.** Verdadero. Así cuido mi privacidad.
 - **C2.** nervios. Va después de «siento».
-- **C3.** A. Va de más general a más específico.
+- **C3.** B. Va de más general a más específico.
 - **A1.** 1-c, 2-a, 3-b. El personaje empieza con «Soy», la emoción con «Siento» y la palabra con «Digo».
 - **A2.** 3. Cada oración termina en punto: tres.
 - **A3.** la emoción con su razón. Falta la oración que empieza con «Siento» y tiene un «porque».
@@ -796,7 +796,7 @@ Respuesta: ¿Qué significa?
 *Desafío*
 
 - **D1.** Ordena los turnos: A) Tomás: «Chaltumay por contarme». B) Pía: «Mari mari». C) Tomás: «¿Qué significa?». D) Pía: «Según la ficha, es agua». Escribe las letras.
-- **D2.** Elige el cierre más respetuoso de un diálogo. A) «Chaltumay por contarme». B) «Lo dijiste mal, otra vez».
+- **D2.** Elige el cierre más respetuoso de un diálogo. A) «Lo dijiste mal, otra vez» B) «Chaltumay por contarme»..
 
 *Situaciones auténticas*
 
@@ -824,7 +824,7 @@ Respuesta: ¿Qué significa?
 - **Z1.** mirar su tarjeta de apoyo. La tarjeta está para ayudar.
 - **Z2.** sigo el diálogo con respeto. No evalúo la pronunciación.
 - **D1.** B, C, D, A. Saludo, pregunta, respuesta y agradecimiento.
-- **D2.** A. La B corrige y se burla; la A agradece.
+- **D2.** B. La B corrige y se burla; la A agradece.
 - **S1.** «No lo recuerdo, miro mi tarjeta». Es honesto y no inventa.
 - **E1.** turno. Los turnos se alternan.
 - **E2.** para ayudar a hablar. Trae palabras y frases de ayuda.
@@ -995,7 +995,7 @@ Respuesta: la de usar cada palabra donde corresponde
 
 - **A1.** En tu diálogo cumpliste todas las preguntas de la lista menos «¿Usé cada palabra donde corresponde?». ¿Qué debes mejorar?
 - **A2.** Diálogo: A dice «Chaltumay» al llegar. B responde «Mari mari» al recibir un regalo. ¿Cuántos usos están fuera de contexto según la ficha?
-- **A3.** Elige la mejor revisión: A) «Mi diálogo estuvo perfecto, no reviso nada». B) «Me turné, pero usé «mari mari» fuera de contexto; lo corrijo».
+- **A3.** Elige la mejor revisión: A) «Me turné, pero usé «mari mari» fuera de contexto; lo corrijo» B) «Mi diálogo estuvo perfecto, no reviso nada»..
 
 *Razonamiento y análisis*
 
@@ -1029,7 +1029,7 @@ Respuesta: la de usar cada palabra donde corresponde
 - **C3.** ¿Obligué a alguien a repetir?. Revisa si respeté la voluntad del otro.
 - **A1.** usar cada palabra donde corresponde. Es la única pregunta que no cumpliste.
 - **A2.** 2. Los dos intercambiaron el sentido de sus palabras.
-- **A3.** B. La B revisa con honestidad.
+- **A3.** A. La B revisa con honestidad.
 - **Z1.** evaluar la pronunciación. No se evalúa la pronunciación de otros.
 - **Z2.** antü. «Ko» es agua y «antü» es sol.
 - **D1.** C, B, A. Primero converso, luego reviso y después corrijo.

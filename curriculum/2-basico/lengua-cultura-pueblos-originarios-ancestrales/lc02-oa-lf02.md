@@ -784,7 +784,7 @@ Respuesta: Digo que no recuerdo el nombre y lo pregunto
 
 *Aplicación*
 
-- **A1.** Elige la frase que cita bien: a) «Esto me lo explicó Doña Rosa, con su permiso», b) «Esto lo sé todo yo». Letra:
+- **A1.** Elige la frase que cita bien: a) «Esto lo sé todo yo». Letra:, b) «Esto me lo explicó Doña Rosa, con su permiso»
 - **A2.** Un curso hizo 5 carteles y cada uno tiene 3 datos con su fuente. ¿Cuántos datos con fuente hay?
 - **A3.** Doña Rosa explicó: «El río es angosto y frío». Escribe una frase para compartirla citando la fuente.
 
@@ -818,7 +818,7 @@ Respuesta: Digo que no recuerdo el nombre y lo pregunto
 - **C1.** Que alguien que sabe la revisó. El educador la confirmó.
 - **C2.** Para no confundir con datos inventados. Es honesto y respetuoso.
 - **C3.** Agradecer y cambiar. Corregir ayuda a hacer bien el trabajo.
-- **A1.** a. Dice la fuente y el permiso.
+- **A1.** b. Dice la fuente y el permiso.
 - **A2.** 15. Se suman 3 datos cinco veces. Cálculo: 5 × 3 = 15.
 - **A3.** Doña Rosa explicó, con su permiso, que el río es angosto y frío. Cita la fuente, el permiso y el dato.
 - **Z1.** El nombre y quién se lo dijo. Falta la fuente.

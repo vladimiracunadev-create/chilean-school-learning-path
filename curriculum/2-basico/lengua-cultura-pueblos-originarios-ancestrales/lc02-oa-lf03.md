@@ -784,9 +784,9 @@ Respuesta: Digo que no sé qué significa y que lo preguntaré al educador
 
 *Aplicación*
 
-- **A1.** Elige la mejor cita: a) «El cuento “La niña y el río”, escrito para este cuaderno» o b) «Un cuento que leí». Letra:
+- **A1.** Elige la mejor cita: a) «Un cuento que leí». Letra: o b) «El cuento “La niña y el río”, escrito para este cuaderno»
 - **A2.** Un curso resume 4 textos y cada resumen tiene 2 frases. ¿Cuántas frases hay en total?
-- **A3.** Resume en una frase: «Rosa llega al río cada tarde. Escucha el agua y mira el cerro. Vuelve contenta». Elige: a) «Rosa va al río y vuelve contenta» o b) «Rosa nunca va al río». Letra:
+- **A3.** Resume en una frase: «Rosa llega al río cada tarde. Escucha el agua y mira el cerro. Vuelve contenta». Elige: a) «Rosa nunca va al río». Letra: o b) «Rosa va al río y vuelve contenta»
 
 *Razonamiento y análisis*
 
@@ -818,9 +818,9 @@ Respuesta: Digo que no sé qué significa y que lo preguntaré al educador
 - **C1.** Título y quién lo escribió. Son datos de la fuente.
 - **C2.** Para no inventar y respetar. Muestra lo que falta saber.
 - **C3.** Más corto. Resume lo importante.
-- **A1.** a. Dice el título y la fuente.
+- **A1.** b. Dice el título y la fuente.
 - **A2.** 8. Se suman 2 frases cuatro veces. Cálculo: 4 × 2 = 8.
-- **A3.** a. Es fiel al texto.
+- **A3.** b. Es fiel al texto.
 - **Z1.** Quién lo escribió. Se cita la fuente.
 - **Z2.** Devolvió su trabajo para corregirlo. Así mejora su trabajo.
 - **D1.** Fuente: el educador Luis; dato: ko significa agua; límite: no sé cómo se pronuncia. Separa quién, qué y lo que no sabe.

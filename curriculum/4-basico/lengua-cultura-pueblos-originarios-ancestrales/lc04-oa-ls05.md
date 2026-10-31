@@ -791,7 +791,7 @@ Respuesta: se apropia
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si la canción es bonita y de una comunidad, puedo usarla en mi obra sin decir de quién es». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de inspirarme: A) miro el agua del río y escribo versos propios. B) copio el diseño de un textil de un libro. ¿Cuál no es apropiarse?
+- **Z2.** Dos formas de inspirarme: A) copio el diseño de un textil de un libro. ¿Cuál no es apropiarse B) miro el agua del río y escribo versos propios.?
 
 *Desafío*
 
@@ -822,7 +822,7 @@ Respuesta: se apropia
 - **A2.** Sí. «Ko» es agua y «kuyen» es luna.
 - **A3.** kuyen. La luna brilla en la noche.
 - **Z1.** No. Debe pedir permiso y dar crédito.
-- **Z2.** A. La B copia un diseño ajeno.
+- **Z2.** B. La B copia un diseño ajeno.
 - **D1.** C, B, A. Observo, creo y doy crédito.
 - **D2.** 1. Se restan los versos con palabra del total. Cálculo: 4 − 3 = 1.
 - **S1.** pides permiso a la visita. La voz de una persona requiere su permiso.
@@ -995,7 +995,7 @@ Respuesta: No
 
 - **A1.** Cinco puntos de revisión: atribución, palabras iguales a la ficha, sin datos personales, audiencia, guardado. Un recurso cumple tres. ¿Cuántos puntos faltan por cumplir?
 - **A2.** Atribución A: «Creado por el curso». Atribución B: «Creado por el curso; palabras enseñadas por la educadora tradicional». ¿Cuál está completa?
-- **A3.** Ficha del recurso (inventada): Recurso: afiche «Palabras del agua». Creado por: el curso. Palabras enseñadas por: la educadora tradicional de la Escuela Ejemplo. Audiencia autorizada: las familias en la reunión de la sala. Dónde se guarda: en la sala. Un familiar quiere compartir una foto del afiche en una red social. ¿Qué responde mejor el curso: A) «Mejor no; la audiencia es la reunión de la sala». B) «Claro»?
+- **A3.** Ficha del recurso (inventada): Recurso: afiche «Palabras del agua». Creado por: el curso. Palabras enseñadas por: la educadora tradicional de la Escuela Ejemplo. Audiencia autorizada: las familias en la reunión de la sala. Dónde se guarda: en la sala. Un familiar quiere compartir una foto del afiche en una red social. ¿Qué responde mejor el curso: A) «Claro» B) «Mejor no; la audiencia es la reunión de la sala».?
 
 *Razonamiento y análisis*
 
@@ -1029,7 +1029,7 @@ Respuesta: No
 - **C3.** 2. Son dos datos.
 - **A1.** 2. 5 − 3 = 2.
 - **A2.** B. Nombra a quien creó y a quien enseñó.
-- **A3.** A. Se respeta la audiencia autorizada.
+- **A3.** B. Se respeta la audiencia autorizada.
 - **Z1.** No. La audiencia autorizada se respeta siempre.
 - **Z2.** B. La A deja puntos sin revisar.
 - **D1.** B, C, A. Atribución, palabras y audiencia.

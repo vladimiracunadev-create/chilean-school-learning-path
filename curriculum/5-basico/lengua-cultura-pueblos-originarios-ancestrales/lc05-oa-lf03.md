@@ -150,7 +150,7 @@ Respuesta: Falta la autoría.
 *Comprensión*
 
 - **C1.** Verdadero o falso: la versión en castellano de apoyo reemplaza al texto original en lengua indígena.
-- **C2.** ¿Para qué sirve el dato «Límite» de la ficha? A) para saber qué no se publica B) para saber cuántas páginas tiene
+- **C2.** ¿Para qué sirve el dato «Límite» de la ficha? A) para saber cuántas páginas tiene B) para saber qué no se publica
 - **C3.** Verdadero o falso: una carta de una persona cuenta lo que piensan todos los pueblos.
 
 *Aplicación*
@@ -162,7 +162,7 @@ Respuesta: Falta la autoría.
 *Razonamiento y análisis*
 
 - **Z1.** Una compañera dice: «Como la carta de Camila habla de limpiar una vertiente, todas las comunidades lo hacen cada primavera». ¿Qué error comete?
-- **Z2.** Solo tienes la versión en castellano de apoyo de un texto. ¿Qué dices al presentarlo? A) que es una versión de apoyo y que el original lo lee el educador tradicional B) que el original está en castellano
+- **Z2.** Solo tienes la versión en castellano de apoyo de un texto. ¿Qué dices al presentarlo? A) que el original está en castellano B) que es una versión de apoyo y que el original lo lee el educador tradicional
 
 *Desafío*
 
@@ -171,13 +171,13 @@ Respuesta: Falta la autoría.
 
 *Situaciones auténticas*
 
-- **S1.** En tu escuela una vecina deja una carta escrita por su hijo para leerla en clases. No indica si se puede leer en voz alta. ¿Qué haces primero? A) preguntarle si hay permiso y qué límites tiene B) leerla igual
+- **S1.** En tu escuela una vecina deja una carta escrita por su hijo para leerla en clases. No indica si se puede leer en voz alta. ¿Qué haces primero? A) leerla igual B) preguntarle si hay permiso y qué límites tiene
 
 *Autoevaluación*
 
 - **E1.** Nombra tres datos de la ficha de un texto.
 - **E2.** Verdadero o falso: un texto puede estar escrito originalmente en una lengua indígena.
-- **E3.** ¿Qué haces si falta el permiso? A) me detengo y pregunto B) lo uso igual
+- **E3.** ¿Qué haces si falta el permiso? A) lo uso igual B) me detengo y pregunto
 
 **Actividad abierta.** Lee la ficha y la carta de práctica: «Ficha de texto (inventada). Tipo: carta. Autora: Camila. Destinataria: Ema. Tema: una salida del curso a la vertiente. Lengua original: una lengua indígena de práctica; la versión en castellano es de apoyo y el texto original lo lee el educador tradicional. Permiso: Camila autorizó usar la carta en la escuela. Límite: no se publica el nombre del pueblo.» «Querida Ema: Hoy fui con mi curso a la vertiente del pueblo. Llevamos pan y agua en un termo. Una vecina nos explicó que la vertiente se limpia entre todos cada primavera. Después caminamos hasta el cerro y vimos un cóndor. Escríbeme pronto. Un abrazo, Camila.» Haz una ficha propia con: tipo, autora, destinataria, tema, permiso y límite, y agrega una línea «Esto no lo sé:» con un dato que la ficha no trae. Escribe también una pregunta para el educador tradicional sobre cómo se escribe una carta en la lengua de tu comunidad. Recuerda: lo tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.
 
@@ -187,19 +187,19 @@ Respuesta: Falta la autoría.
 - **R2.** Ema. La ficha la nombra.
 - **R3.** A. Describir es decir cómo es algo.
 - **C1.** Falso. Solo ayuda a entender.
-- **C2.** A. El límite protege lo que debe reservarse.
+- **C2.** B. El límite protege lo que debe reservarse.
 - **C3.** Falso. Cuenta la mirada de quien escribe.
 - **A1.** No. El límite lo prohíbe.
 - **A2.** 1-b, 2-c, 3-a. Cada tipo de texto tiene una función distinta.
 - **A3.** La autoría. El tema aparece, pero no quién escribió.
 - **Z1.** Generaliza lo que dice un texto. La carta habla de una vecina y un pueblo de práctica.
-- **Z2.** A. Se declara la procedencia.
+- **Z2.** B. Se declara la procedencia.
 - **D1.** Con la carta de Camila. Solo ella tiene autoría y permiso.
 - **D2.** A. Solo ellos pueden leerlo con seguridad.
-- **S1.** A. Primero el permiso y los límites.
+- **S1.** B. Primero el permiso y los límites.
 - **E1.** Tres entre: tipo, autor, destinatario, tema, lengua original, permiso, límite. Son datos de la ficha.
 - **E2.** Verdadero. En ese caso se usa una versión de apoyo.
-- **E3.** A. Sin permiso no se usa.
+- **E3.** B. Sin permiso no se usa.
 
 **Actividad abierta · ejemplo de respuesta.** Tipo: carta. Autora: Camila. Destinataria: Ema. Tema: salida a la vertiente. Permiso: sí. Límite: no publicar el nombre del pueblo. Esto no lo sé: en qué mes ocurrió la salida. Pregunta: ¿cómo se escribe un saludo al comenzar una carta en nuestra lengua?
 
@@ -358,7 +358,7 @@ Respuesta: No, el texto no lo dice.
 
 - **C1.** Carta de práctica (inventada): «Querida Ema: Hoy fui con mi curso a la vertiente del pueblo. Llevamos pan y agua en un termo. Una vecina nos explicó que la vertiente se limpia entre todos cada primavera. Después caminamos hasta el cerro y vimos un cóndor. Escríbeme pronto. Un abrazo, Camila.» ¿Cada cuánto tiempo se limpia la vertiente según la vecina?
 - **C2.** Carta de práctica (inventada): «Querida Ema: Hoy fui con mi curso a la vertiente del pueblo. Llevamos pan y agua en un termo. Una vecina nos explicó que la vertiente se limpia entre todos cada primavera. Después caminamos hasta el cerro y vimos un cóndor. Escríbeme pronto. Un abrazo, Camila.» Verdadero o falso: la carta dice que la vecina se llama doña Rosa.
-- **C3.** Si no entiendes una palabra de un texto de la cultura, ¿qué haces? A) la subrayo y pregunto al educador B) invento un significado
+- **C3.** Si no entiendes una palabra de un texto de la cultura, ¿qué haces? A) invento un significado B) la subrayo y pregunto al educador
 
 *Aplicación*
 
@@ -378,7 +378,7 @@ Respuesta: No, el texto no lo dice.
 
 *Situaciones auténticas*
 
-- **S1.** Un vecino te muestra un texto escrito por una persona de su comunidad y te pide que lo expliques en clases, pero hay una palabra que no entiendes. ¿Qué haces? A) pregunto qué significa o consulto al educador B) digo lo que me parece
+- **S1.** Un vecino te muestra un texto escrito por una persona de su comunidad y te pide que lo expliques en clases, pero hay una palabra que no entiendes. ¿Qué haces? A) digo lo que me parece B) pregunto qué significa o consulto al educador
 
 *Autoevaluación*
 
@@ -395,7 +395,7 @@ Respuesta: No, el texto no lo dice.
 - **R3.** Un abrazo. Es la despedida de la carta.
 - **C1.** Cada primavera. La carta lo dice así.
 - **C2.** Falso. Solo dice «una vecina».
-- **C3.** A. No se inventa el significado.
+- **C3.** B. No se inventa el significado.
 - **A1.** b, c, a. La carta cuenta primero la vertiente, luego el cerro y allí el cóndor.
 - **A2.** A. La B no aparece.
 - **A3.** A. La B cambia con quién fue y adónde.
@@ -403,7 +403,7 @@ Respuesta: No, el texto no lo dice.
 - **Z2.** A. La B inventa un dato.
 - **D1.** R1. La R2 cambia a quién acompañaba.
 - **D2.** Al cerro. La carta dice que caminaron hasta el cerro.
-- **S1.** A. El significado lo da quien conoce el texto.
+- **S1.** B. El significado lo da quien conoce el texto.
 - **E1.** Lo que el texto dice, lo que no dice y lo reservado. Son los tres límites de la lectura.
 - **E2.** A Ema. Lo dice el saludo.
 - **E3.** Falso. Hay que decir que el texto no lo dice.
@@ -586,7 +586,7 @@ Respuesta: Que se comparte; el texto no dice por qué lo hace.
 
 *Situaciones auténticas*
 
-- **S1.** En una exposición, una niña dice: «En mi comunidad se come papa porque es sagrada». No tiene a quién preguntar. ¿Qué es mejor? A) decir solo lo que sabe y consultar a alguien de la comunidad B) afirmar que es sagrada
+- **S1.** En una exposición, una niña dice: «En mi comunidad se come papa porque es sagrada». No tiene a quién preguntar. ¿Qué es mejor? A) afirmar que es sagrada B) decir solo lo que sabe y consultar a alguien de la comunidad
 
 *Autoevaluación*
 
@@ -611,7 +611,7 @@ Respuesta: Que se comparte; el texto no dice por qué lo hace.
 - **Z2.** Generaliza a todas las comunidades. El texto habla de una persona.
 - **D1.** Regar con un balde. El texto dice que Mateo riega con un balde.
 - **D2.** A. La B inventa un significado.
-- **S1.** A. Lo sagrado lo define la comunidad.
+- **S1.** B. Lo sagrado lo define la comunidad.
 - **E1.** Lugares, oficios, alimentos y cooperación. Son las cuatro categorías de la clase.
 - **E2.** La pesca. Los pescadores salen al mar.
 - **E3.** Verdadero. Esa es su definición.
@@ -767,12 +767,12 @@ Respuesta: Generaliza a todas las caletas.
 *Recuperación*
 
 - **R1.** Completa: «Según la carta de ___, la vertiente se limpia entre todos».
-- **R2.** La evidencia de una respuesta es: A) una frase del texto que la apoya B) mi opinión
+- **R2.** La evidencia de una respuesta es: A) mi opinión B) una frase del texto que la apoya
 - **R3.** Texto de práctica «La huerta de doña Elena» (inventado): «Doña Elena vive junto al camino. En su huerta siembra papas, habas y zapallos. Los domingos reparte verduras a los vecinos. Dice que cuando la tierra descansa, después da más. Su ayudante, Mateo, riega con un balde.» ¿Qué evidencia muestra que doña Elena comparte: «reparte verduras a los vecinos» o «vive junto al camino»?
 
 *Comprensión*
 
-- **C1.** ¿Cuál empieza con una fuente? A) «Según el texto “Mi caleta”, hay una sede» B) «Hay una sede»
+- **C1.** ¿Cuál empieza con una fuente? A) «Hay una sede» B) «Según el texto “Mi caleta”, hay una sede»
 - **C2.** Verdadero o falso: puedo usar «todos» para hablar de un caso que cuenta un texto.
 - **C3.** ¿Cómo separo mi opinión de lo que dice el texto? A) con «Yo pienso…» B) sin avisar
 
@@ -807,9 +807,9 @@ Respuesta: Generaliza a todas las caletas.
 **Solucionario razonado**
 
 - **R1.** Camila. Camila es la autora de la carta.
-- **R2.** A. La evidencia se encuentra en el texto.
+- **R2.** B. La evidencia se encuentra en el texto.
 - **R3.** Reparte verduras a los vecinos. Esa frase prueba que comparte.
-- **C1.** A. La A nombra el texto.
+- **C1.** B. La A nombra el texto.
 - **C2.** Falso. El texto cuenta solo ese caso.
 - **C3.** A. Así se distingue.
 - **A1.** b, c, a. Fuente, idea y evidencia.
@@ -975,12 +975,12 @@ Respuesta: Ambos textos muestran personas que ayudan o comparten con otras.
 
 - **R1.** Texto de práctica «Mi caleta» (inventado): «Mi caleta se llama Roca Alta. Tiene una playa de arena gris y doce botes pintados de colores. En la mañana los pescadores salen al mar y en la tarde las personas ayudan a descargar. En el centro hay una sede donde nos reunimos cada mes.» ¿Qué oficio muestra «Mi caleta»: la pesca o el cultivo?
 - **R2.** Texto de práctica «La huerta de doña Elena» (inventado): «Doña Elena vive junto al camino. En su huerta siembra papas, habas y zapallos. Los domingos reparte verduras a los vecinos. Dice que cuando la tierra descansa, después da más. Su ayudante, Mateo, riega con un balde.» ¿Qué lugar describe: una huerta o una caleta?
-- **R3.** Contrastar es: A) decir en qué se parecen y en qué se diferencian B) elegir el mejor
+- **R3.** Contrastar es: A) elegir el mejor B) decir en qué se parecen y en qué se diferencian
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: «es mejor» es una forma de jerarquizar.
-- **C2.** Si un criterio no aparece en un texto, ¿qué escribo? A) no se menciona B) lo que supongo
+- **C2.** Si un criterio no aparece en un texto, ¿qué escribo? A) lo que supongo B) no se menciona
 - **C3.** Verdadero o falso: dos textos distintos pueden tener una semejanza.
 
 *Aplicación*
@@ -997,7 +997,7 @@ Respuesta: Ambos textos muestran personas que ayudan o comparten con otras.
 *Desafío*
 
 - **D1.** Elige la comparación respetuosa: A) «En “Mi caleta” el oficio es la pesca; en “La huerta”, el cultivo» B) «La caleta es mejor trabajo»
-- **D2.** Criterio «cooperación». ¿Cuál es una semejanza entre «Mi caleta» y «La huerta de doña Elena»? A) ambos muestran personas que ayudan o comparten con otras B) en ambos se pesca en el mar
+- **D2.** Criterio «cooperación». ¿Cuál es una semejanza entre «Mi caleta» y «La huerta de doña Elena»? A) en ambos se pesca en el mar B) ambos muestran personas que ayudan o comparten con otras
 
 *Situaciones auténticas*
 
@@ -1015,9 +1015,9 @@ Respuesta: Ambos textos muestran personas que ayudan o comparten con otras.
 
 - **R1.** La pesca. Los pescadores salen al mar.
 - **R2.** Una huerta. Es el texto de doña Elena.
-- **R3.** A. Contrastar no jerarquiza.
+- **R3.** B. Contrastar no jerarquiza.
 - **C1.** Verdadero. Pone un texto sobre otro.
-- **C2.** A. No se inventa.
+- **C2.** B. No se inventa.
 - **C3.** Verdadero. Por ejemplo, ambos muestran que se comparte.
 - **A1.** Mi caleta. «La huerta de doña Elena» habla de un lugar junto al camino.
 - **A2.** 1-b, 2-a. Cada criterio tiene su dato.
@@ -1025,7 +1025,7 @@ Respuesta: Ambos textos muestran personas que ayudan o comparten con otras.
 - **Z1.** Jerarquiza con un criterio que el texto no usa. Los textos no comparan importancia.
 - **Z2.** A. Dos textos no representan a todos.
 - **D1.** A. La A describe y no juzga.
-- **D2.** A. En la caleta ayudan a descargar y doña Elena reparte verduras; solo el primero habla de pesca.
+- **D2.** B. En la caleta ayudan a descargar y doña Elena reparte verduras; solo el primero habla de pesca.
 - **S1.** A. Se contrasta sin jerarquizar.
 - **E1.** Dos entre: lugar, oficio, alimentos, cooperación, quién escribe. Son criterios de la clase.
 - **E2.** Falso. Se anota «no se menciona».

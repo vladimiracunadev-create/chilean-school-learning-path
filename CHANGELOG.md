@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-31 · Posición de la respuesta correcta en las preguntas A/B
+
+- La revisión de 5° y 6° básico mostró que, en las preguntas con dos alternativas, la correcta estaba casi siempre en la A (por ejemplo 1.381 contra 183 en 5° básico). Ahora la posición de la correcta se decide por un valor derivado del propio enunciado y de sus dos alternativas, y la clave de respuestas se reescribe en consecuencia. Queda cerca de la mitad y la mitad, de 1° a 6° básico. Las preguntas con tres o más alternativas, las de ordenar y las cuyo «porqué» nombra una letra no se tocan.
+
 ## 2026-10-31 · 6° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 876 clases de 6° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 5° básico.

@@ -150,7 +150,7 @@ Respuesta: Nadie
 *Comprensión*
 
 - **C1.** Verdadero o falso: hoy hay una prueba para ver cuántas palabras sé.
-- **C2.** Según la ficha, «chaltumay» es: A) gracias B) casa.
+- **C2.** Según la ficha, «chaltumay» es: A) casa B) gracias.
 - **C3.** ¿Una persona que no habla una lengua indígena deja de pertenecer a su pueblo: sí o no?
 
 *Aplicación*
@@ -162,12 +162,12 @@ Respuesta: Nadie
 *Razonamiento y análisis*
 
 - **Z1.** Eva: «Me da vergüenza porque sé una palabra». Lola: «No pasa nada, aprendamos juntas». ¿Quién ayuda más a la revitalización?
-- **Z2.** Un compañero dice que quien no habla una lengua indígena «no es de verdad» de ese pueblo. ¿Qué respondes: A) la pertenencia no se mide por la lengua B) tiene razón?
+- **Z2.** Un compañero dice que quien no habla una lengua indígena «no es de verdad» de ese pueblo. ¿Qué respondes: A) tiene razón B) la pertenencia no se mide por la lengua?
 
 *Desafío*
 
 - **D1.** En la lista del curso hay 9 palabras y 4 están en la ficha. ¿Cuántas no están en la ficha?
-- **D2.** Una persona quiere enseñar palabras a su curso sin consultar al educador tradicional. ¿Qué debe hacer: A) consultar qué palabras puede enseñar B) enseñar las que quiera?
+- **D2.** Una persona quiere enseñar palabras a su curso sin consultar al educador tradicional. ¿Qué debe hacer: A) enseñar las que quiera B) consultar qué palabras puede enseñar?
 
 *Situaciones auténticas*
 
@@ -187,15 +187,15 @@ Respuesta: Nadie
 - **R2.** A. Son palabras y expresiones que recuerdo.
 - **R3.** está bien. Aprender comienza desde cualquier punto.
 - **C1.** Falso. No hay prueba ni nota.
-- **C2.** A. La ficha dice gracias.
+- **C2.** B. La ficha dice gracias.
 - **C3.** no. La pertenencia no se mide por la lengua.
 - **A1.** 8. Multiplico estudiantes por palabras. Cálculo: 4 × 2 = 8.
 - **A2.** ko y antü. Perro no está en la ficha.
 - **A3.** ruka. La ficha dice que «ruka» es casa y «mapu» es tierra.
 - **Z1.** Lola. Ofrece apoyo sin burla.
-- **Z2.** A. La identidad no se evalúa por hablar o no.
+- **Z2.** B. La identidad no se evalúa por hablar o no.
 - **D1.** 5. Resto las de la ficha del total. Cálculo: 9 − 4 = 5.
-- **D2.** A. Quien decide es el educador con su comunidad.
+- **D2.** B. Quien decide es el educador con su comunidad.
 - **S1.** «Aprendamos juntos, nadie nos evalúa». El respeto ayuda a revitalizar.
 - **E1.** revitalización. Eso es revitalizar.
 - **E2.** No. No hay prueba.
@@ -350,9 +350,9 @@ Respuesta: A su madre
 
 *Recuperación*
 
-- **R1.** Un relato cosmogónico cuenta: A) cómo se formó el mundo B) una receta.
+- **R1.** Un relato cosmogónico cuenta: A) una receta B) cómo se formó el mundo.
 - **R2.** Relato de práctica (inventado; no es de ningún pueblo): «Nora despertó cuando el antü asomó. Fue al río a buscar ko. En el camino encontró a su ñuke y juntas llevaron el ko a la ruka. Allí regaron la huerta y Nora dijo: chaltumay.» ¿Cómo se llama la niña?
-- **R3.** Según la ficha, «ruka» es: A) casa B) sol.
+- **R3.** Según la ficha, «ruka» es: A) sol B) casa.
 
 *Comprensión*
 
@@ -374,7 +374,7 @@ Respuesta: A su madre
 *Desafío*
 
 - **D1.** El relato tiene 4 oraciones. Una niña recordó 3. ¿Cuántas le faltan por recordar?
-- **D2.** Una persona quiere contar este relato como si fuera de un pueblo. ¿Qué error comete: A) atribuye un relato inventado a un pueblo B) lo cuenta en voz alta?
+- **D2.** Una persona quiere contar este relato como si fuera de un pueblo. ¿Qué error comete: A) lo cuenta en voz alta B) atribuye un relato inventado a un pueblo?
 
 *Situaciones auténticas*
 
@@ -390,9 +390,9 @@ Respuesta: A su madre
 
 **Solucionario razonado**
 
-- **R1.** A. Cosmogónico habla del origen del mundo.
+- **R1.** B. Cosmogónico habla del origen del mundo.
 - **R2.** Nora. El relato la nombra.
-- **R3.** A. La ficha dice casa.
+- **R3.** B. La ficha dice casa.
 - **C1.** el antü. El texto dice que el antü asomó.
 - **C2.** Falso. Es inventado para practicar.
 - **C3.** a la ruka. El texto dice que llevaron el ko a la ruka.
@@ -402,7 +402,7 @@ Respuesta: A su madre
 - **Z1.** Rita. La ficha dice gracias.
 - **Z2.** A. La ficha confirma el significado.
 - **D1.** 1. Resto las recordadas del total. Cálculo: 4 − 3 = 1.
-- **D2.** A. No pertenece a ningún pueblo.
+- **D2.** B. No pertenece a ningún pueblo.
 - **S1.** «uso el contexto y reviso la ficha». Así confirmo el significado.
 - **E1.** cómo se formó el mundo. Habla del origen del mundo.
 - **E2.** las palabras alrededor que ayudan a entender. Aporta el sentido.
@@ -582,7 +582,7 @@ Respuesta: Compartir el trabajo ayuda a la familia
 *Desafío*
 
 - **D1.** Un relato tiene 6 hechos. En una reconstrucción se ordenaron 4. ¿Cuántos faltan por ordenar?
-- **D2.** En el relato, Nora agradece al final con «chaltumay». ¿Cómo ayuda eso a la idea central: A) muestra gratitud por compartir B) no tiene relación?
+- **D2.** En el relato, Nora agradece al final con «chaltumay». ¿Cómo ayuda eso a la idea central: A) no tiene relación B) muestra gratitud por compartir?
 
 *Situaciones auténticas*
 
@@ -610,7 +610,7 @@ Respuesta: Compartir el trabajo ayuda a la familia
 - **Z1.** la de Eva. La de Gaspar es un detalle.
 - **Z2.** A. El significado lo explica la comunidad.
 - **D1.** 2. Resto los ordenados del total. Cálculo: 6 − 4 = 2.
-- **D2.** A. La gratitud refuerza el compartir.
+- **D2.** B. La gratitud refuerza el compartir.
 - **S1.** «Compartir el trabajo ayuda a la familia». Es la idea central.
 - **E1.** el mensaje principal. Resume el sentido del relato.
 - **E2.** primero, luego, después y finalmente. Marcan la secuencia.
@@ -773,7 +773,7 @@ Respuesta: Un personaje inventado, como Beto
 
 - **C1.** Verdadero o falso: debo contar una vivencia familiar para opinar.
 - **C2.** Opción ficticia: «Beto cuida el agua de su escuela». ¿Se relaciona con el relato de Nora: sí o no?
-- **C3.** Una opinión debe llevar: A) una razón con porque B) un silencio.
+- **C3.** Una opinión debe llevar: A) un silencio B) una razón con porque.
 
 *Aplicación*
 
@@ -810,7 +810,7 @@ Respuesta: Un personaje inventado, como Beto
 - **R3.** A. Es un saber compartido.
 - **C1.** Falso. Puedo usar opciones ficticias.
 - **C2.** sí. Ambos cuidan el agua.
-- **C3.** A. La razón la fundamenta.
+- **C3.** B. La razón la fundamenta.
 - **A1.** C, B, A. Leo, elijo y opino.
 - **A2.** 5. Sumo las dos clases de opiniones. Cálculo: 3 + 2 = 5.
 - **A3.** general. Es algo que se sabe en común.
@@ -991,7 +991,7 @@ Respuesta: Mostrarlo al educador tradicional antes de compartir
 *Razonamiento y análisis*
 
 - **Z1.** Dos devoluciones. Eva: tarjeta de gracias con «chaltumay» copiado de la ficha. Gaspar: afiche con palabras que inventó. ¿Cuál aporta con respeto?
-- **Z2.** Una persona quiere decir gracias a un educador de rapa nui. ¿Qué palabra de la ficha elige: A) maururu B) chaltumay?
+- **Z2.** Una persona quiere decir gracias a un educador de rapa nui. ¿Qué palabra de la ficha elige: A) chaltumay B) maururu?
 
 *Desafío*
 
@@ -1022,7 +1022,7 @@ Respuesta: Mostrarlo al educador tradicional antes de compartir
 - **A2.** C, B, A. Hago, muestro y comparto.
 - **A3.** nombra la fuente. Dice quién enseñó.
 - **Z1.** la de Eva. Gaspar usó palabras inventadas.
-- **Z2.** A. «maururu» es gracias en rapa nui.
+- **Z2.** B. «maururu» es gracias en rapa nui.
 - **D1.** 8. Resto las entregadas del total. Cálculo: 28 − 20 = 8.
 - **D2.** A. Las palabras inventadas confunden y no respetan la lengua.
 - **S1.** «hago una tarjeta con tres palabras de la ficha y la fuente». Es una devolución respetuosa.

@@ -577,7 +577,7 @@ Respuesta: cultural, con trato muy respetuoso
 
 - **A1.** Ficha de tono (de práctica): Para una persona adulta o una autoridad, en Chile se usa un trato respetuoso, con «usted» o «señora/señor», como en «le pedimos que nos enseñe». Para compañeros de curso se puede usar un trato cercano, con «tú» o «ustedes», como en «les contamos que habrá una minga». En ambos casos se usan palabras amables como «por favor» y «gracias». Une cada mensaje con su trato: A) a la directora, B) a los compañeros de curso. Tratos: 1) cercano, 2) respetuoso. Escribe los dos pares.
 - **A2.** Un curso escribe 5 mensajes a autoridades y 8 a compañeros. ¿Cuántos mensajes escribe en total?
-- **A3.** Elige la mejor forma de pedir ayuda a una autoridad: A) «Le pedimos, por favor, que nos ayude con la minga». B) «Ayúdanos con la minga ahora». Escribe la letra.
+- **A3.** Elige la mejor forma de pedir ayuda a una autoridad: A) «Ayúdanos con la minga ahora». Escribe la letra B) «Le pedimos, por favor, que nos ayude con la minga»..
 
 *Razonamiento y análisis*
 
@@ -611,7 +611,7 @@ Respuesta: cultural, con trato muy respetuoso
 - **C3.** decir con amabilidad lo que necesito. En el mensaje se pide, no se exige.
 - **A1.** A-2, B-1. La directora es una autoridad adulta y los compañeros reciben un trato cercano.
 - **A2.** 13. Se suman las dos clases de mensajes. Cálculo: 5 + 8 = 13.
-- **A3.** A. A usa trato respetuoso y pide.
+- **A3.** B. A usa trato respetuoso y pide.
 - **Z1.** A. Se confirma con quien enseña.
 - **Z2.** No. Puede sonar muy formal, pero no falta el respeto.
 - **D1.** 1. El 1 usa trato respetuoso y pide con amabilidad.
@@ -791,7 +791,7 @@ Respuesta: faltan las palabras significativas con su fuente y la revisión
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Mi mensaje está tan bonito que no necesita créditos». ¿Es correcto? Sí o No.
-- **Z2.** Una niña usa «chaltumay» en su mensaje y no anota la fuente. ¿Qué debe hacer antes de enviar: A) agregar la fuente en los créditos o B) borrar los créditos?
+- **Z2.** Una niña usa «chaltumay» en su mensaje y no anota la fuente. ¿Qué debe hacer antes de enviar: A) borrar los créditos o B) agregar la fuente en los créditos?
 
 *Desafío*
 
@@ -822,7 +822,7 @@ Respuesta: faltan las palabras significativas con su fuente y la revisión
 - **A2.** 2. Se restan las cumplidas del total. Cálculo: 6 − 4 = 2.
 - **A3.** «once». Los créditos lo indican.
 - **Z1.** No. Los créditos permiten comprobar fuentes y permisos.
-- **Z2.** A. Cada palabra indígena lleva su fuente.
+- **Z2.** B. Cada palabra indígena lleva su fuente.
 - **D1.** 1. El 2 no cumple las reglas.
 - **D2.** trato respetuoso y firma. A una persona mayor se le escribe con respeto y se firma.
 - **S1.** la revisas con la lista y anotas las fuentes. Revisar y atribuir va antes de enviar.

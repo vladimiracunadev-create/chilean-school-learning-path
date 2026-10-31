@@ -368,7 +368,7 @@ Respuesta: No
 
 - **A1.** Cuatro preguntas para situar un relato: ¿quién lo cuenta?, ¿de qué pueblo y territorio?, ¿puedo compartirlo?, ¿para qué se cuenta? Quieres saber si el relato se puede contar a otros. ¿Cuál pregunta te lo dice?
 - **A2.** Ficha oral C (inventada): Relato: «Gracias». Lo cuenta: la educadora tradicional de la Escuela Ejemplo. Permiso: solo dentro de la sala. Para qué: enseñar una palabra. ¿Puedes contarlo en una radio abierta? Sí o No.
-- **A3.** ¿Qué frase es mejor al contar un relato de práctica? A) «Lo escuché de mi profesor, que lo inventó». B) «Es un relato de un pueblo antiguo».
+- **A3.** ¿Qué frase es mejor al contar un relato de práctica? A) «Es un relato de un pueblo antiguo» B) «Lo escuché de mi profesor, que lo inventó»..
 
 *Razonamiento y análisis*
 
@@ -402,7 +402,7 @@ Respuesta: No
 - **C3.** Falso. No debo inventar datos.
 - **A1.** ¿puedo compartirlo?. Esa pregunta trata del permiso.
 - **A2.** No. El permiso es solo dentro de la sala.
-- **A3.** A. La A dice la fuente real.
+- **A3.** B. La A dice la fuente real.
 - **Z1.** No. Algunos son inventados para practicar.
 - **Z2.** No. Usar una expresión no cambia que el relato fue inventado.
 - **D1.** C, B, A. Escucho, pregunto y anoto.
@@ -784,7 +784,7 @@ Respuesta: Según la ficha, «mari mari» es un saludo en mapuzugun.
 
 *Aplicación*
 
-- **A1.** Reescribe para no generalizar: «Todos los pueblos originarios hacen lo mismo en las visitas». Elige: A) «Según la educadora, en su comunidad se saluda al llegar». B) «Todos saludan al llegar».
+- **A1.** Reescribe para no generalizar: «Todos los pueblos originarios hacen lo mismo en las visitas». Elige: A) «Todos saludan al llegar» B) «Según la educadora, en su comunidad se saluda al llegar»..
 - **A2.** Une cada saber con quien lo dijo. 1) «El agua es necesaria». 2) «Me gusta escuchar relatos». Dijeron: Lucía y Diego, respectivamente. ¿Quién dijo la 2?
 - **A3.** Marta dijo que quiere saber más sobre el río del relato. ¿Qué frase atribuye bien ese saber? A) «Marta quiere saber más sobre el río». B) «Todos queremos saber más sobre el río».
 
@@ -818,7 +818,7 @@ Respuesta: Según la ficha, «mari mari» es un saludo en mapuzugun.
 - **C1.** Verdadero. Esa es su definición.
 - **C2.** B. La B dice hasta dónde vale.
 - **C3.** de Lucía. Lo atribuyo a quien lo dijo.
-- **A1.** A. La A usa fuente y comunidad.
+- **A1.** B. La A usa fuente y comunidad.
 - **A2.** Diego. Se atribuye en el orden dado.
 - **A3.** A. La A dice quién lo dijo; la B lo atribuye a todos.
 - **Z1.** No. Una persona no habla por todo su pueblo.
@@ -987,7 +987,7 @@ Respuesta: «yo pienso que es una palabra amable»
 
 *Comprensión*
 
-- **C1.** Elige la frase con atribución: A) «Aprendí con la educadora que «ko» es agua». B) ««Ko» es agua».
+- **C1.** Elige la frase con atribución: A) ««Ko» es agua» B) «Aprendí con la educadora que «ko» es agua»..
 - **C2.** Verdadero o falso: puedo hablar en nombre de toda una comunidad después de una visita.
 - **C3.** En «Quisiera saber cuándo se dice «mari mari»», ¿qué expresa la frase: un dato o una pregunta?
 
@@ -1024,7 +1024,7 @@ Respuesta: «yo pienso que es una palabra amable»
 - **R1.** «Aprendí con…». Nombra a quien me enseñó.
 - **R2.** una opinión. «Yo pienso» marca mi idea.
 - **R3.** lo guardo. No me corresponde compartirlo.
-- **C1.** A. La A dice de quién aprendí.
+- **C1.** B. La A dice de quién aprendí.
 - **C2.** Falso. Solo cuento lo que escuché y de quién.
 - **C3.** una pregunta. «Quisiera saber» marca lo que no sé.
 - **A1.** 1-c, 2-a, 3-b. Cada parte tiene su marca.

@@ -368,7 +368,7 @@ Respuesta: falta el pueblo
 
 - **A1.** Ficha de fuente (inventada): Pueblo: aymara. Narrador: un educador tradicional. Lugar: la biblioteca. Se puede compartir: sí. ¿Cuántos datos tiene la ficha?
 - **A2.** Ficha (inventada): Pueblo: mapuche. Narradora: una educadora. Lugar: ?. ¿Qué dato falta?
-- **A3.** Escribe una pregunta para la ficha que no dice si se puede compartir: A) «¿Se puede compartir este relato en mi curso?» B) «Lo cuento igual».
+- **A3.** Escribe una pregunta para la ficha que no dice si se puede compartir: A) «Lo cuento igual» B) «¿Se puede compartir este relato en mi curso?».
 
 *Razonamiento y análisis*
 
@@ -378,7 +378,7 @@ Respuesta: falta el pueblo
 *Desafío*
 
 - **D1.** Tienes 3 fichas y cada una tiene 4 datos. ¿Cuántos datos hay en total?
-- **D2.** Dos fichas dicen: A) «Pueblo: mapuche. Narrador: educadora.» B) «Pueblo: ?. Narrador: ?». ¿Cuál ficha es más completa?
+- **D2.** Dos fichas dicen: A) «Pueblo: ?. Narrador: ?». ¿Cuál ficha es más completa B) «Pueblo: mapuche. Narrador: educadora.»?
 
 *Situaciones auténticas*
 
@@ -402,11 +402,11 @@ Respuesta: falta el pueblo
 - **C3.** lo consulto. No invento datos de otra cultura.
 - **A1.** 4. Pueblo, narrador, lugar y si se puede compartir son cuatro datos.
 - **A2.** el lugar. El lugar tiene un signo de pregunta.
-- **A3.** A. A pregunta con respeto.
+- **A3.** B. A pregunta con respeto.
 - **Z1.** si se puede compartir. Algunos relatos se comparten solo en ciertas ocasiones.
 - **Z2.** porque cada pueblo tiene sus propios relatos. No se pueden mezclar los relatos de pueblos distintos.
 - **D1.** 12. 3 × 4 = 12 datos.
-- **D2.** A. A tiene pueblo y narrador; B no tiene ninguno.
+- **D2.** B. A tiene pueblo y narrador; B no tiene ninguno.
 - **S1.** No. La ficha dice que se puede compartir en la sala.
 - **E1.** pueblo, narrador, lugar o si se puede compartir. Esas son las cuatro preguntas.
 - **E2.** lo consulto. No lo invento.
@@ -785,8 +785,8 @@ Respuesta: digo quién me lo contó y de qué pueblo es
 *Aplicación*
 
 - **A1.** Eliges la respuesta que no se apropia: A) «Esta historia la inventé yo.» B) «Una educadora me contó esta historia y yo la entendí así.»
-- **A2.** Relato de práctica (inventado, no es un relato tradicional): Ema vivía cerca de un bosque. Una mañana encontró un copihue rojo en el suelo. Se lo llevó a su abuela. La abuela le dijo: «Las flores se cuidan en su lugar». Ema devolvió el copihue al bosque. Después, otras flores se abrieron. Escribe una respuesta que empiece con «Entendí que…» y diga qué hizo Ema. Elige: A) «Entendí que Ema devolvió el copihue al bosque.» B) «Entendí que Ema se lo quedó.»
-- **A3.** Termina una respuesta con un agradecimiento. Elige: A) «Chaltumay, gracias por contarnos el relato.» B) «Ya está.»
+- **A2.** Relato de práctica (inventado, no es un relato tradicional): Ema vivía cerca de un bosque. Una mañana encontró un copihue rojo en el suelo. Se lo llevó a su abuela. La abuela le dijo: «Las flores se cuidan en su lugar». Ema devolvió el copihue al bosque. Después, otras flores se abrieron. Escribe una respuesta que empiece con «Entendí que…» y diga qué hizo Ema. Elige: A) «Entendí que Ema se lo quedó.» B) «Entendí que Ema devolvió el copihue al bosque.»
+- **A3.** Termina una respuesta con un agradecimiento. Elige: A) «Ya está.» B) «Chaltumay, gracias por contarnos el relato.»
 
 *Razonamiento y análisis*
 
@@ -819,8 +819,8 @@ Respuesta: digo quién me lo contó y de qué pueblo es
 - **C2.** quedarse con algo de otros como si fuera mío. Es tomar lo que es de otros.
 - **C3.** quién me lo contó. La fuente reconoce a quien lo cuidó.
 - **A1.** B. B reconoce a la fuente y dice que es mi versión.
-- **A2.** A. A es lo que dice el texto.
-- **A3.** A. A agradece a quien contó.
+- **A2.** B. A es lo que dice el texto.
+- **A3.** B. A agradece a quien contó.
 - **Z1.** No. Cambiar un relato que no es mío puede faltarle el respeto al pueblo.
 - **Z2.** porque yo solo cuento lo que entendí. Yo no soy quien guarda el relato.
 - **D1.** 12. 3 × 4 = 12 relatos.

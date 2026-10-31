@@ -378,7 +378,7 @@ Respuesta: una palabra ya incorporada al castellano
 *Desafío*
 
 - **D1.** Texto narrado modelo (inventado para practicar): audio de 60 segundos con tres partes. Parte 1 (15 segundos): «Mari mari. Soy una estudiante del 6.º E.» (el educador tradicional autorizó el saludo). Parte 2 (30 segundos): «En mi casa los sábados comemos choclo y palta en la plaza con una persona de mi casa. Después jugamos a la cancha.» Parte 3 (15 segundos): «Chaltumay por escucharme.» (también autorizado). No se dan nombres completos ni direcciones. Un estudiante cambia la parte 3 por «Maururu por escucharme». ¿Respeta lo autorizado? Sí o No.
-- **D2.** Texto narrado modelo (inventado para practicar): audio de 60 segundos con tres partes. Parte 1 (15 segundos): «Mari mari. Soy una estudiante del 6.º E.» (el educador tradicional autorizó el saludo). Parte 2 (30 segundos): «En mi casa los sábados comemos choclo y palta en la plaza con una persona de mi casa. Después jugamos a la cancha.» Parte 3 (15 segundos): «Chaltumay por escucharme.» (también autorizado). No se dan nombres completos ni direcciones. Elige la mejor mejora. A) pedir al educador que lea el texto y confirme las expresiones. B) agregar una frase nueva en lengua que alguien dijo en la calle. Escribe la letra.
+- **D2.** Texto narrado modelo (inventado para practicar): audio de 60 segundos con tres partes. Parte 1 (15 segundos): «Mari mari. Soy una estudiante del 6.º E.» (el educador tradicional autorizó el saludo). Parte 2 (30 segundos): «En mi casa los sábados comemos choclo y palta en la plaza con una persona de mi casa. Después jugamos a la cancha.» Parte 3 (15 segundos): «Chaltumay por escucharme.» (también autorizado). No se dan nombres completos ni direcciones. Elige la mejor mejora. A) agregar una frase nueva en lengua que alguien dijo en la calle. Escribe la letra B) pedir al educador que lea el texto y confirme las expresiones..
 
 *Situaciones auténticas*
 
@@ -406,7 +406,7 @@ Respuesta: una palabra ya incorporada al castellano
 - **Z1.** No. Es un dato personal.
 - **Z2.** No. Es una palabra ya incorporada al castellano.
 - **D1.** No. El educador autorizó «chaltumay».
-- **D2.** A. Así se confirma que respeta lo autorizado.
+- **D2.** B. Así se confirma que respeta lo autorizado.
 - **S1.** dices «mis familiares». Los datos personales no se publican.
 - **E1.** 60. Un minuto equivale a 60 segundos.
 - **E2.** se copia. Se usa tal como la entregó la fuente.

@@ -785,7 +785,7 @@ Respuesta: anoto las dos y pregunto
 *Aplicación*
 
 - **A1.** Escribe el registro: palabra «ko», fuente video de práctica, fecha hoy, recurso video. ¿Cuántos datos escribiste?
-- **A2.** Eliges la mejor frase para agradecer a la educadora que te prestó el audio: A) «Gracias por prestarme el audio.» B) «Ya lo tengo.»
+- **A2.** Eliges la mejor frase para agradecer a la educadora que te prestó el audio: A) «Ya lo tengo.» B) «Gracias por prestarme el audio.»
 - **A3.** Tienes 6 registros y revisas 2 cada día. ¿Cuántos días tardas en revisar todos?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: anoto las dos y pregunto
 - **C2.** el recurso. Falta anotar si fue audio, video o texto.
 - **C3.** las dos. Anoto cada forma con su fuente.
 - **A1.** 4. Palabra, fuente, fecha y recurso.
-- **A2.** A. A agradece con respeto.
+- **A2.** B. A agradece con respeto.
 - **A3.** 3. 6 ÷ 2 = 3 días.
 - **Z1.** que primero le pida permiso. La voz es de ella y decide cómo se usa.
 - **Z2.** para saber de dónde vino la palabra. El recurso ayuda a revisar y confiar en el dato.

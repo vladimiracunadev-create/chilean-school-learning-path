@@ -157,7 +157,7 @@ Respuesta: Un cuento escrito con dibujos en papel.
 
 *Aplicación*
 
-- **A1.** Clasifica en AUDIOVISUAL o ESCRITA: a) un video de 30 segundos b) un cartel con un texto.
+- **A1.** Clasifica en AUDIOVISUAL o ESCRITA: a) un cartel con un texto b) un video de 30 segundos.
 - **A2.** Ficha: «Situación: personal. Audiencia: mi curso. Recursos: grabadora de la escuela. Permisos: de mi familia». ¿Qué dato falta para una creación sobre la comunidad? A) el nombre de la grabadora B) permiso de la comunidad
 - **A3.** Un video tiene 4 escenas de 20 segundos cada una. ¿Cuántos segundos dura?
 
@@ -169,7 +169,7 @@ Respuesta: Un cuento escrito con dibujos en papel.
 *Desafío*
 
 - **D1.** Dos planes: Uno cuenta una fiesta de barrio con permisos de los que aparecen. Otro muestra a niños sin avisar a sus familias. ¿Cuál es adecuado?
-- **D2.** Tienes un teléfono de la escuela solo 30 minutos y debes grabar cuatro escenas. ¿Qué haces? A) improviso B) planifico antes en papel y grabo rápido
+- **D2.** Tienes un teléfono de la escuela solo 30 minutos y debes grabar cuatro escenas. ¿Qué haces? A) planifico antes en papel y grabo rápido B) improviso
 
 *Situaciones auténticas*
 
@@ -191,13 +191,13 @@ Respuesta: Un cuento escrito con dibujos en papel.
 - **C1.** Verdadero. Es una versión en papel.
 - **C2.** Falso. Se pide permiso.
 - **C3.** A. Ellos enseñan la lengua.
-- **A1.** a audiovisual, b escrita. El video tiene imagen y sonido; el cartel, letras.
+- **A1.** b audiovisual, b escrita. El video tiene imagen y sonido; el cartel, letras.
 - **A2.** B. Una creación comunitaria necesita permiso de la comunidad.
 - **A3.** 80 segundos. Se multiplican escenas por duración. Cálculo: 4 × 20 = 80.
 - **Z1.** Usa su voz sin permiso. La imagen y la voz requieren autorización.
 - **Z2.** B. No se muestran los lugares reservados.
 - **D1.** El primero. Tiene los permisos necesarios.
-- **D2.** B. Planificar ahorra tiempo.
+- **D2.** A. Planificar ahorra tiempo.
 - **S1.** B. La planificación y los permisos van antes.
 - **E1.** Tres entre: situación, audiencia, recursos y permisos. Son los datos de la clase.
 - **E2.** Verdadero. Lo central es el mensaje y el cuidado.
@@ -354,7 +354,7 @@ Respuesta: «Mari mari, vecina. Estoy haciendo un video sobre la fiesta del barr
 
 *Recuperación*
 
-- **R1.** ¿Cuál es un dato personal? A) el color del cielo B) domicilio
+- **R1.** ¿Cuál es un dato personal? A) domicilio B) el color del cielo
 - **R2.** ¿Qué se hace antes de usar la voz de una persona? A) pedir permiso B) cambiarla
 - **R3.** ¿Qué haces con un lugar que la comunidad reserva? A) no lo muestro B) lo muestro de lejos
 
@@ -367,13 +367,13 @@ Respuesta: «Mari mari, vecina. Estoy haciendo un video sobre la fiesta del barr
 *Aplicación*
 
 - **A1.** Clasifica en SE PUEDE o NO SE PUEDE publicar: a) dibujo de una olla b) teléfono de un vecino.
-- **A2.** Eliges un nombre de fantasía para un personaje de tu cuento. ¿Cuál sirve? A) el nombre y apellido de tu vecino B) «Pancho Sol»
-- **A3.** Una persona mayor dice «sí, pero no muestren mi casa». ¿Qué haces con la toma de su casa? A) la elimino B) la dejo igual
+- **A2.** Eliges un nombre de fantasía para un personaje de tu cuento. ¿Cuál sirve? A) «Pancho Sol» B) el nombre y apellido de tu vecino
+- **A3.** Una persona mayor dice «sí, pero no muestren mi casa». ¿Qué haces con la toma de su casa? A) la dejo igual B) la elimino
 
 *Razonamiento y análisis*
 
 - **Z1.** Sofía muestra en su video a unos niños jugando en el patio sin avisar a sus familias porque «son sus compañeros». ¿Qué error comete?
-- **Z2.** Un grupo muestra una reunión reservada de la comunidad porque «sale poco». ¿Qué falla? A) la cámara estaba lejos B) aunque salga poco, se muestra lo reservado
+- **Z2.** Un grupo muestra una reunión reservada de la comunidad porque «sale poco». ¿Qué falla? A) aunque salga poco, se muestra lo reservado B) la cámara estaba lejos
 
 *Desafío*
 
@@ -394,17 +394,17 @@ Respuesta: «Mari mari, vecina. Estoy haciendo un video sobre la fiesta del barr
 
 **Solucionario razonado**
 
-- **R1.** B. El domicilio identifica a una persona.
+- **R1.** A. El domicilio identifica a una persona.
 - **R2.** A. La voz se usa con autorización.
 - **R3.** A. El límite se respeta.
 - **C1.** Falso. Es un dato personal.
 - **C2.** Verdadero. Reemplaza al real.
 - **C3.** B. Cada persona decide sobre su historia.
 - **A1.** a se puede, b no se puede. El teléfono es un dato personal.
-- **A2.** B. El nombre inventado protege a tu vecino.
-- **A3.** A. Respeto su límite.
+- **A2.** A. El nombre inventado protege a tu vecino.
+- **A3.** B. Respeto su límite.
 - **Z1.** Muestra rostros sin permiso. Los rostros de otros requieren autorización.
-- **Z2.** B. El límite aplica a toda la creación.
+- **Z2.** A. El límite aplica a toda la creación.
 - **D1.** A. Protege la privacidad.
 - **D2.** 1 pregunta. Se resta lo cumplido del total. Cálculo: 6 − 5 = 1.
 - **S1.** A. Se corrige antes de mostrar.
@@ -570,7 +570,7 @@ Respuesta: Audio, siempre con permiso de la vecina.
 *Comprensión*
 
 - **C1.** Verdadero o falso: el formato debe elegirse pensando en el mensaje, la audiencia y los recursos.
-- **C2.** ¿Qué formato conviene si quieres mostrar los pasos para preparar pan? A) video o dibujos paso a paso B) un solo cartel con una palabra
+- **C2.** ¿Qué formato conviene si quieres mostrar los pasos para preparar pan? A) un solo cartel con una palabra B) video o dibujos paso a paso
 - **C3.** Verdadero o falso: un guion gráfico no sirve si no tengo cámara.
 
 *Aplicación*
@@ -581,7 +581,7 @@ Respuesta: Audio, siempre con permiso de la vecina.
 
 *Razonamiento y análisis*
 
-- **Z1.** Un guion de 60 segundos tiene 5 escenas de 15 segundos. ¿Qué error tiene? A) dura 60 B) dura 75 segundos
+- **Z1.** Un guion de 60 segundos tiene 5 escenas de 15 segundos. ¿Qué error tiene? A) dura 75 segundos B) dura 60
 - **Z2.** Daniel quiere usar solo un cartel para comunicar un sonido. ¿Qué dificultad tiene? A) un cartel es caro B) un cartel no conserva el sonido
 
 *Desafío*
@@ -607,12 +607,12 @@ Respuesta: Audio, siempre con permiso de la vecina.
 - **R2.** B. Esa es su definición.
 - **R3.** B. Debe ser fácil de recordar.
 - **C1.** Verdadero. Son los tres criterios.
-- **C2.** A. Muestra un proceso.
+- **C2.** B. Muestra un proceso.
 - **C3.** Falso. Sirve también para versiones en papel.
 - **A1.** 20 segundos. Se divide el total entre las escenas. Cálculo: 80 ÷ 4 = 20.
 - **A2.** 70 segundos. Se multiplican las escenas iguales y se suma la otra. Cálculo: 20 × 3 + 10 = 70.
 - **A3.** B. Las imágenes ayudan a comprender.
-- **Z1.** B. 5 escenas de 15 segundos suman 75, no 60.
+- **Z1.** A. 5 escenas de 15 segundos suman 75, no 60.
 - **Z2.** B. Un sonido se transmite mejor en audio.
 - **D1.** 20 segundos. Se divide el total entre las escenas. Cálculo: 120 ÷ 6 = 20.
 - **D2.** B. El tiempo limitado pide un mensaje breve.
@@ -772,9 +772,9 @@ Respuesta: Subtítulo: «Hola» (saludo en mapuzugun).
 
 *Recuperación*
 
-- **R1.** ¿Qué dicen los créditos? A) el precio B) quiénes participaron
+- **R1.** ¿Qué dicen los créditos? A) quiénes participaron B) el precio
 - **R2.** ¿Quién valida la expresión en lengua? A) quien edita el video B) el educador o la educadora tradicional
-- **R3.** ¿Para qué sirve un subtítulo? A) para ayudar a comprender B) para ocultar el texto
+- **R3.** ¿Para qué sirve un subtítulo? A) para ocultar el texto B) para ayudar a comprender
 
 *Comprensión*
 
@@ -786,12 +786,12 @@ Respuesta: Subtítulo: «Hola» (saludo en mapuzugun).
 
 - **A1.** ¿Qué línea de créditos atribuye el relato? A) «Narra Luis» B) «Relato de doña Berta»
 - **A2.** Clasifica en RELATO, NARRACIÓN o VALIDACIÓN: a) doña Berta b) Luis c) el educador.
-- **A3.** En un video aparece «chaltumay». ¿Qué subtítulo en castellano corresponde? A) Adiós B) Gracias
+- **A3.** En un video aparece «chaltumay». ¿Qué subtítulo en castellano corresponde? A) Gracias B) Adiós
 
 *Razonamiento y análisis*
 
 - **Z1.** Gonzalo publica un video sobre el taller de doña Berta sin mostrárselo antes. ¿Qué error comete?
-- **Z2.** Un grupo agrega el nombre del educador a los créditos sin preguntarle. ¿Qué falla? A) no pidió permiso para nombrarlo B) usó letra grande
+- **Z2.** Un grupo agrega el nombre del educador a los créditos sin preguntarle. ¿Qué falla? A) usó letra grande B) no pidió permiso para nombrarlo
 
 *Desafío*
 
@@ -800,35 +800,35 @@ Respuesta: Subtítulo: «Hola» (saludo en mapuzugun).
 
 *Situaciones auténticas*
 
-- **S1.** En la muestra de tu curso, un grupo presenta un video con una vecina que contó su historia. ¿Qué debe aparecer al final? A) los créditos con su nombre y la validación B) solo el título
+- **S1.** En la muestra de tu curso, un grupo presenta un video con una vecina que contó su historia. ¿Qué debe aparecer al final? A) solo el título B) los créditos con su nombre y la validación
 
 *Autoevaluación*
 
 - **E1.** Nombra tres datos que van en los créditos.
 - **E2.** Verdadero o falso: conviene agregar subtítulos en castellano a las expresiones en lengua.
-- **E3.** ¿Qué haces si la persona que contó la situación pide un cambio? A) lo ignoro B) lo hago y agradezco
+- **E3.** ¿Qué haces si la persona que contó la situación pide un cambio? A) lo hago y agradezco B) lo ignoro
 
 **Actividad abierta.** Con tu guion gráfico de la clase anterior (limpieza de la plaza de Rincón del Sol), escribe: 1) el texto de narración de cada escena (una frase corta), 2) los créditos (relato, narración, validación de la expresión en lengua), 3) un subtítulo en castellano para el saludo «mari mari» y 4) la frase con la que mostrarás la creación a los vecinos antes de compartirla. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** B. Reconocen a las personas.
+- **R1.** A. Reconocen a las personas.
 - **R2.** B. Él o ella enseña la lengua.
-- **R3.** A. Acompaña con castellano.
+- **R3.** B. Acompaña con castellano.
 - **C1.** Verdadero. Es parte del reconocimiento.
 - **C2.** Falso. Se hace antes de compartir.
 - **C3.** A. Son las partes de la clase.
 - **A1.** B. Nombra a quien contó la situación.
 - **A2.** a relato, b narración, c validación. Cada persona aporta de manera distinta.
-- **A3.** B. «Chaltumay» es un agradecimiento en mapuzugun.
+- **A3.** A. «Chaltumay» es un agradecimiento en mapuzugun.
 - **Z1.** Omite la devolución. Debe mostrarlo antes de compartirlo.
-- **Z2.** A. También se pide permiso para nombrar a las personas.
+- **Z2.** B. También se pide permiso para nombrar a las personas.
 - **D1.** La primera. Nombra cada aporte.
 - **D2.** 70 segundos. Se multiplican las escenas y se suman los créditos. Cálculo: 5 × 12 + 10 = 70.
-- **S1.** A. Se atribuye y se agradece.
+- **S1.** B. Se atribuye y se agradece.
 - **E1.** Tres entre: relato, narración, autorización, validación de la lengua. Son aportes que se reconocen.
 - **E2.** Verdadero. Ayuda a comprender.
-- **E3.** B. La devolución incluye los cambios.
+- **E3.** A. La devolución incluye los cambios.
 
 **Actividad abierta · ejemplo de respuesta.** Narración: 1) Los vecinos llegan. 2) Recogen hojas. 3) Ponen la mesa. 4) Comparten la merienda. Créditos: Relato de los vecinos de Rincón del Sol; narra [nombre de fantasía]; «mari mari» validado por el educador. Subtítulo: «Hola». Devolución: «Les mostramos nuestro video para que nos digan si algo debe cambiar».
 
@@ -983,7 +983,7 @@ Respuesta: No cumple la protección de datos ni los créditos.
 
 - **R1.** ¿Qué formato se hace con papel y no necesita aparatos? A) un cartel B) un video
 - **R2.** ¿Cuántas preguntas tiene la lista de cuidados de esta clase? Escribe el número.
-- **R3.** ¿Qué se hace antes de compartir una creación? A) revisar la lista de cuidados B) borrar los créditos
+- **R3.** ¿Qué se hace antes de compartir una creación? A) borrar los créditos B) revisar la lista de cuidados
 
 *Comprensión*
 
@@ -993,7 +993,7 @@ Respuesta: No cumple la protección de datos ni los créditos.
 
 *Aplicación*
 
-- **A1.** Clasifica en VENTAJA o LIMITACIÓN: a) un audio conserva una voz b) un cartel no tiene sonido.
+- **A1.** Clasifica en VENTAJA o LIMITACIÓN: a) un cartel no tiene sonido b) un audio conserva una voz.
 - **A2.** Criterio «cuidado de la lengua». Video: se valida cómo suena y cómo se escribe el subtítulo. Cartel: se valida cómo se escribe. ¿Qué diferencia hay? A) el video requiere validar también el sonido B) ninguna
 - **A3.** Un grupo cumple 5 de las 6 preguntas de la lista. ¿Qué hace? A) corrige la que falta antes de compartir B) comparte igual
 
@@ -1009,13 +1009,13 @@ Respuesta: No cumple la protección de datos ni los créditos.
 
 *Situaciones auténticas*
 
-- **S1.** Tu escuela tiene una muestra pero algunas familias no pueden ver videos. ¿Qué haces? A) ofrezco también una versión en cartel o papel B) solo muestro el video
+- **S1.** Tu escuela tiene una muestra pero algunas familias no pueden ver videos. ¿Qué haces? A) solo muestro el video B) ofrezco también una versión en cartel o papel
 
 *Autoevaluación*
 
 - **E1.** Nombra dos criterios para contrastar formatos.
 - **E2.** Verdadero o falso: después de revisar la lista, se corrige lo que falta.
-- **E3.** ¿Qué escribes si un formato requiere aparatos que no tienes? A) una limitación B) una ventaja
+- **E3.** ¿Qué escribes si un formato requiere aparatos que no tienes? A) una ventaja B) una limitación
 
 **Actividad abierta.** Contrasta estas dos versiones inventadas de una misma creación en Rincón del Sol sobre limpiar la plaza. A) Un video de 60 segundos con voz y música. B) Un cartel de papel con cuatro dibujos y frases. Haz una tabla con tres criterios: acceso, datos personales y cuidado de la lengua. Escribe una ventaja y una limitación de cada versión. Revisa la versión B con la lista de seis cuidados. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -1023,21 +1023,21 @@ Respuesta: No cumple la protección de datos ni los créditos.
 
 - **R1.** A. El cartel se hace en papel.
 - **R2.** 6. Son seis preguntas en total.
-- **R3.** A. Así se evitan errores.
+- **R3.** B. Así se evitan errores.
 - **C1.** Falso. Contrastar es describir ventajas y limitaciones.
 - **C2.** A. El acceso dice quiénes pueden verla.
 - **C3.** Verdadero. Filma a personas reales.
-- **A1.** a ventaja, b limitación. Cada afirmación describe lo que el formato hace o no hace.
+- **A1.** b ventaja, b limitación. Cada afirmación describe lo que el formato hace o no hace.
 - **A2.** A. En el video también se valida la voz.
 - **A3.** A. Se corrige antes de compartir.
 - **Z1.** Jerarquiza por moda. Cada formato sirve a una situación y a un acceso.
 - **Z2.** A. Falta validar la lengua.
 - **D1.** 24 revisiones. Se multiplican los grupos por las preguntas. Cálculo: 4 × 6 = 24.
 - **D2.** El cartel. Se adapta a los recursos.
-- **S1.** A. El acceso es un criterio.
+- **S1.** B. El acceso es un criterio.
 - **E1.** Dos entre: acceso, datos personales, cuidado de la lengua, tiempo. Son criterios de la clase.
 - **E2.** Verdadero. Así mejora el trabajo.
-- **E3.** A. Es algo que dificulta hacerlo.
+- **E3.** B. Es algo que dificulta hacerlo.
 
 **Actividad abierta · ejemplo de respuesta.** Acceso: A necesita aparatos; B no. Datos personales: A podría mostrar rostros; B usa dibujos. Lengua: A valida voz y subtítulo; B valida escritura. Ventaja A: voz y movimiento. Limitación A: aparatos. Ventaja B: fácil de hacer. Limitación B: sin sonido. Lista de B: permisos sí, datos sí, reservado sí, lengua por validar, créditos sí, devolución por hacer.
 

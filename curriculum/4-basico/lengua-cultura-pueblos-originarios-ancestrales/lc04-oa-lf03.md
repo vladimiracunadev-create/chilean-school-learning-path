@@ -144,9 +144,9 @@ Respuesta: Sí, acertó
 
 *Recuperación*
 
-- **R1.** Antes de leer, ¿qué pista me dice de qué trata el texto: A) el título B) el número de la página?
+- **R1.** Antes de leer, ¿qué pista me dice de qué trata el texto: A) el número de la página B) el título?
 - **R2.** Según la ficha, «ko» es: A) agua B) casa.
-- **R3.** La fuente de un texto dice: A) quién lo escribió y de dónde viene B) cuántas palabras tiene.
+- **R3.** La fuente de un texto dice: A) cuántas palabras tiene B) quién lo escribió y de dónde viene.
 
 *Comprensión*
 
@@ -168,7 +168,7 @@ Respuesta: Sí, acertó
 *Desafío*
 
 - **D1.** El cartel tiene 2 frases en su texto. Una escuela de práctica pone 4 carteles iguales. ¿Cuántas frases hay en total?
-- **D2.** Un cartel real está escrito en lengua indígena y no sabes leerlo. ¿Qué haces: A) pedir ayuda al educador tradicional B) inventar lo que dice?
+- **D2.** Un cartel real está escrito en lengua indígena y no sabes leerlo. ¿Qué haces: A) inventar lo que dice B) pedir ayuda al educador tradicional?
 
 *Situaciones auténticas*
 
@@ -184,9 +184,9 @@ Respuesta: Sí, acertó
 
 **Solucionario razonado**
 
-- **R1.** A. El título nombra el tema.
+- **R1.** B. El título nombra el tema.
 - **R2.** A. La ficha dice que «ko» es agua.
-- **R3.** A. Fuente es el origen del texto.
+- **R3.** B. Fuente es el origen del texto.
 - **C1.** el comité de agua de una escuela de práctica. La fuente está escrita en la ficha del cartel.
 - **C2.** Falso. Corrijo mi anticipación, no el texto.
 - **C3.** A. Una carta se escribe para alguien en particular.
@@ -196,7 +196,7 @@ Respuesta: Sí, acertó
 - **Z1.** No. Las pistas apuntan al agua y las plantas.
 - **Z2.** sí. Ambas hablan del agua.
 - **D1.** 8. Multiplico las frases por los carteles. Cálculo: 2 × 4 = 8.
-- **D2.** A. Inventar sería falso; pedir ayuda es respetuoso.
+- **D2.** B. Inventar sería falso; pedir ayuda es respetuoso.
 - **S1.** «de cómo comportarse en la sala». El título y el dibujo apuntan a normas de la sala.
 - **E1.** suponer de qué trata usando pistas. Anticipar usa pistas antes de leer.
 - **E2.** la fuente. La fuente nombra al autor o comité.
@@ -351,9 +351,9 @@ Respuesta: luna
 
 *Recuperación*
 
-- **R1.** Un apoyo oral es: A) escuchar a otra persona leer B) mirar el reloj.
-- **R2.** Un apoyo visual es: A) un dibujo que ayuda a entender B) un silencio.
-- **R3.** Según la ficha, «antü» es: A) sol B) luna.
+- **R1.** Un apoyo oral es: A) mirar el reloj B) escuchar a otra persona leer.
+- **R2.** Un apoyo visual es: A) un silencio B) un dibujo que ayuda a entender.
+- **R3.** Según la ficha, «antü» es: A) luna B) sol.
 
 *Comprensión*
 
@@ -391,9 +391,9 @@ Respuesta: luna
 
 **Solucionario razonado**
 
-- **R1.** A. Apoyo oral es la voz de otra persona.
-- **R2.** A. El dibujo ayuda a comprender el texto.
-- **R3.** A. La ficha dice sol.
+- **R1.** B. Apoyo oral es la voz de otra persona.
+- **R2.** B. El dibujo ayuda a comprender el texto.
+- **R3.** B. La ficha dice sol.
 - **C1.** un sol sobre una casa. Lo dice la descripción de la tarjeta.
 - **C2.** Falso. Son apoyos permitidos.
 - **C3.** pido ayuda al educador tradicional. Adivinar puede cambiar el sentido.
@@ -560,7 +560,7 @@ Respuesta: «las moveremos a un lugar con luz»
 
 - **R1.** Carta de práctica (inventada): «Querida Rosa: hoy plantamos 6 semillas cerca de la ruka. Les echamos ko cada mañana. Cuando salga el antü, las moveremos a un lugar con luz. Chaltumay por las semillas. Ana.» ¿Quién escribe la carta?
 - **R2.** Carta de práctica (inventada): «Querida Rosa: hoy plantamos 6 semillas cerca de la ruka. Les echamos ko cada mañana. Cuando salga el antü, las moveremos a un lugar con luz. Chaltumay por las semillas. Ana.» ¿A quién va dirigida?
-- **R3.** Un dato explícito es: A) lo que el texto dice con claridad B) lo que imagino.
+- **R3.** Un dato explícito es: A) lo que imagino B) lo que el texto dice con claridad.
 
 *Comprensión*
 
@@ -582,7 +582,7 @@ Respuesta: «las moveremos a un lugar con luz»
 *Desafío*
 
 - **D1.** Imagina que Ana plantó 6 semillas y Rosa plantó 4 en su casa. ¿Cuántas semillas plantaron entre las dos?
-- **D2.** Una niña explica cómo un pueblo siembra sin haberlo leído ni escuchado. ¿Qué debe hacer: A) indicar que no lo sabe y preguntar B) inventar un método?
+- **D2.** Una niña explica cómo un pueblo siembra sin haberlo leído ni escuchado. ¿Qué debe hacer: A) inventar un método B) indicar que no lo sabe y preguntar?
 
 *Situaciones auténticas*
 
@@ -600,7 +600,7 @@ Respuesta: «las moveremos a un lugar con luz»
 
 - **R1.** Ana. La carta termina con el nombre Ana.
 - **R2.** Rosa. Empieza con «Querida Rosa».
-- **R3.** A. Explícito es lo dicho.
+- **R3.** B. Explícito es lo dicho.
 - **C1.** cerca de la ruka. El texto dice «cerca de la ruka».
 - **C2.** Falso. El saber previo complementa, no reemplaza.
 - **C3.** cada mañana. El texto dice «cada mañana».
@@ -610,7 +610,7 @@ Respuesta: «las moveremos a un lugar con luz»
 - **Z1.** No. La carta dice cerca de la ruka.
 - **Z2.** Eva. Eva conecta el agua con el cuidado de las plantas.
 - **D1.** 10. Sumo las semillas de ambas. Cálculo: 6 + 4 = 10.
-- **D2.** A. No puede afirmar lo que no sabe.
+- **D2.** B. No puede afirmar lo que no sabe.
 - **S1.** «cerca de la ruka». El segundo dato no está en el texto.
 - **E1.** explícito. Explícito es lo dicho.
 - **E2.** saber previo. Es lo que ya sé.
@@ -766,7 +766,7 @@ Respuesta: No, el texto no lo dice
 *Recuperación*
 
 - **R1.** Carta de práctica (inventada): «Hoy mi ñuke me dio una semilla pequeña. Me quedé en silencio y sentí calma. La guardé en la ruka. Chaltumay, ñuke. Tomás.» ¿Qué le dio su ñuke a Tomás?
-- **R2.** La palabra «calma» expresa: A) una emoción B) un lugar.
+- **R2.** La palabra «calma» expresa: A) un lugar B) una emoción.
 - **R3.** Carta de práctica (inventada): «Hoy mi ñuke me dio una semilla pequeña. Me quedé en silencio y sentí calma. La guardé en la ruka. Chaltumay, ñuke. Tomás.» ¿Dónde guardó la semilla?
 
 *Comprensión*
@@ -806,7 +806,7 @@ Respuesta: No, el texto no lo dice
 **Solucionario razonado**
 
 - **R1.** una semilla pequeña. El texto dice «una semilla pequeña».
-- **R2.** A. Calma es un sentimiento.
+- **R2.** B. Calma es un sentimiento.
 - **R3.** en la ruka. El texto dice «la guardé en la ruka».
 - **C1.** Chaltumay. La ficha dice que chaltumay es gracias.
 - **C2.** Falso. El texto no lo dice.
@@ -997,7 +997,7 @@ Respuesta: La pista del texto
 *Desafío*
 
 - **D1.** En una actividad hay 8 preguntas y 6 se responden con dos pistas. ¿Cuántas se responden con una sola pista?
-- **D2.** Dos pistas se contradicen: una del texto y otra que supongo. ¿Qué sigo: A) la del texto B) la que supongo?
+- **D2.** Dos pistas se contradicen: una del texto y otra que supongo. ¿Qué sigo: A) la que supongo B) la del texto?
 
 *Situaciones auténticas*
 
@@ -1025,7 +1025,7 @@ Respuesta: La pista del texto
 - **Z1.** Pista 1. Solo la 1 está en el texto.
 - **Z2.** estereotipo. No viene del texto y generaliza.
 - **D1.** 2. Resto las de dos pistas. Cálculo: 8 − 6 = 2.
-- **D2.** A. El texto tiene más peso.
+- **D2.** B. El texto tiene más peso.
 - **S1.** sí. Ambas pistas hablan de un líquido: el agua.
 - **E1.** compararlas. Contrastar es comparar pistas.
 - **E2.** la pista del texto. El texto es la evidencia.

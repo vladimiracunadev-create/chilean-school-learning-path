@@ -158,7 +158,7 @@ Respuesta: B
 *Aplicación*
 
 - **A1.** Un curso escribió el propósito y los límites de su recurso, pero no dijo quiénes lo verán. ¿Qué parte del acuerdo le falta?
-- **A2.** Propósito: enseñar a saludar con «mari mari». ¿Qué límite es mejor? A) usar solo la palabra que autorizó la educadora. B) usar todas las palabras que encuentre.
+- **A2.** Propósito: enseñar a saludar con «mari mari». ¿Qué límite es mejor? A) usar todas las palabras que encuentre B) usar solo la palabra que autorizó la educadora..
 - **A3.** ¿Cuáles son límites? 1) no grabar sin permiso. 2) usar muchos colores. 3) no poner datos personales. 4) no mostrar ceremonias. Escribe los números.
 
 *Razonamiento y análisis*
@@ -192,7 +192,7 @@ Respuesta: B
 - **C2.** B, C. La tableta y la grabadora son tecnologías.
 - **C3.** Falso. El permiso lo da la otra persona.
 - **A1.** la audiencia. La audiencia es quien verá el recurso.
-- **A2.** A. El límite A protege la lengua y la fuente.
+- **A2.** B. El límite A protege la lengua y la fuente.
 - **A3.** 1, 3 y 4. Los límites dicen lo que no haremos; los colores son una decisión de diseño.
 - **Z1.** pedirle permiso y explicarle el propósito. La persona debe saber para qué se usará su voz.
 - **Z2.** No. Los límites protegen a las personas aunque el propósito sea bueno.
@@ -368,7 +368,7 @@ Respuesta: no la usamos; la anotamos como pregunta
 
 - **A1.** Un recurso de «saludo y gracias» necesita dos expresiones de la lista autorizada. ¿Cuáles son?
 - **A2.** Candidatas: 1) «chaltumay», que está en la lista. 2) una palabra escuchada en un video, sin fuente. 3) «ko», que está en la lista. ¿Cuáles puedes usar? Escribe los números.
-- **A3.** ¿Qué anotación es completa? A) «ko»: agua (Fuente: lista autorizada de la Escuela Ejemplo). B) «ko».
+- **A3.** ¿Qué anotación es completa? A) «ko» B) «ko»: agua (Fuente: lista autorizada de la Escuela Ejemplo)..
 
 *Razonamiento y análisis*
 
@@ -402,7 +402,7 @@ Respuesta: no la usamos; la anotamos como pregunta
 - **C3.** mari mari. Es la que está en la lista y no aparece en el recurso.
 - **A1.** mari mari y chaltumay. Una saluda y la otra agradece.
 - **A2.** 1 y 3. La 2 no tiene fuente ni autorización.
-- **A3.** A. La A trae significado y fuente.
+- **A3.** B. La A trae significado y fuente.
 - **Z1.** No. La autorización la da quien cuida la lengua.
 - **Z2.** No. El permiso es para saludar, no para burlarse.
 - **D1.** C, B, A. Primero el propósito, luego la lista y al final la anotación.
@@ -796,7 +796,7 @@ Respuesta: en castellano
 *Desafío*
 
 - **D1.** Ordena para incluir una palabra con respeto: A) la educadora la graba o la dice en persona. B) pregunto si lo puede hacer y para qué uso. C) yo preparo el espacio en mi recurso. Escribe las letras.
-- **D2.** ¿Cuál recurso es mejor para revitalizar? A) uno que muestra las palabras con fuente y deja que hablen quienes saben. B) uno que imita las voces de los hablantes.
+- **D2.** ¿Cuál recurso es mejor para revitalizar? A) uno que imita las voces de los hablantes B) uno que muestra las palabras con fuente y deja que hablen quienes saben..
 
 *Situaciones auténticas*
 
@@ -824,7 +824,7 @@ Respuesta: en castellano
 - **Z1.** que puede equivocarse y no es una persona hablante. Una voz hecha por computador puede cometer errores.
 - **Z2.** No. Puede resultar una burla.
 - **D1.** B, C, A. Pregunto, preparo y ella participa.
-- **D2.** A. El A no reemplaza a nadie.
+- **D2.** B. El A no reemplaza a nadie.
 - **S1.** invitar a la educadora a decir la palabra. Así se escucha la voz de quien sabe.
 - **E1.** alguien que habla una lengua. Es quien usa la lengua al comunicarse.
 - **E2.** No. Imitar puede ser burla.
@@ -1004,7 +1004,7 @@ Respuesta: No
 
 *Desafío*
 
-- **D1.** Créditos completos: A) fuente de las palabras, quiénes hicieron el recurso y para qué. B) solo el título. ¿Cuál escribes?
+- **D1.** Créditos completos: A) solo el título. ¿Cuál escribes B) fuente de las palabras, quiénes hicieron el recurso y para qué.?
 - **D2.** Tres decisiones de acceso: 1) solo el curso. 2) las familias con aviso. 3) abierto a todo internet sin permiso. ¿Cuál no corresponde si no hay permiso?
 
 *Situaciones auténticas*
@@ -1032,7 +1032,7 @@ Respuesta: No
 - **A3.** lo muestro solo a quien ella permitió. Su indicación manda sobre el acceso.
 - **Z1.** el permiso y la revisión de la educadora. Sin eso podría haber errores o usos no permitidos.
 - **Z2.** No. La fuente debe estar nombrada.
-- **D1.** A. Atribuye y explica el propósito.
+- **D1.** B. Atribuye y explica el propósito.
 - **D2.** 3. Abrir a todos sin permiso no se debe hacer.
 - **S1.** devolvérselo a ella. Debe revisarlo antes de compartirlo.
 - **E1.** devolver. Es el primer paso después de crear.

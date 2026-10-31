@@ -785,13 +785,13 @@ Respuesta: Según la ficha de la educadora tradicional de la escuela, en mapuzug
 *Aplicación*
 
 - **A1.** Cuatro frases: 1) «En el relato de práctica, el árbol se cuida cada mañana». 2) «Todos los pueblos nunca pelean». 3) «Según el educador tradicional, su pueblo saluda con «mari mari»». 4) «Los indígenas piensan igual». ¿Cuántas frases generalizan?
-- **A2.** Reescribe con límite: «Los indígenas dicen ko al agua». Elige la mejor: A) «Según la ficha de la educadora de mi escuela, en mapuzugun «ko» es agua». B) «Todos los indígenas dicen «ko» al agua».
+- **A2.** Reescribe con límite: «Los indígenas dicen ko al agua». Elige la mejor: A) «Todos los indígenas dicen «ko» al agua» B) «Según la ficha de la educadora de mi escuela, en mapuzugun «ko» es agua»..
 - **A3.** Un niño escuchó un relato de un pueblo y dice: «Así es todo el mundo indígena». ¿Qué falta: un límite o más volumen?
 
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si escuché un relato bonito, ya conozco la cosmovisión del pueblo». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de compartir: A) «En el relato del árbol, el cuidado da sombra al barrio». B) «Para los pueblos originarios, el árbol siempre es sagrado». ¿Cuál tiene fuente clara?
+- **Z2.** Dos formas de compartir: A) «Para los pueblos originarios, el árbol siempre es sagrado». ¿Cuál tiene fuente clara B) «En el relato del árbol, el cuidado da sombra al barrio».?
 
 *Desafío*
 
@@ -819,10 +819,10 @@ Respuesta: Según la ficha de la educadora tradicional de la escuela, en mapuzug
 - **C2.** A. La A dice «en este relato».
 - **C3.** por mí. La frase dice que es mi experiencia.
 - **A1.** 2. Son la 2 y la 4.
-- **A2.** A. La A dice de dónde sale y de qué lengua habla.
+- **A2.** B. La A dice de dónde sale y de qué lengua habla.
 - **A3.** un límite. Debe decir a qué pueblo y relato se refiere.
 - **Z1.** No. Un relato muestra solo una parte.
-- **Z2.** A. La A se apoya en el relato de práctica.
+- **Z2.** B. La A se apoya en el relato de práctica.
 - **D1.** 4. Se restan las que generalizan. Cálculo: 6 − 2 = 4.
 - **D2.** B, A, C. Pienso, pongo un límite y pregunto.
 - **S1.** «Esa afirmación generaliza; mejor preguntemos al educador tradicional». No se habla por todos los pueblos.

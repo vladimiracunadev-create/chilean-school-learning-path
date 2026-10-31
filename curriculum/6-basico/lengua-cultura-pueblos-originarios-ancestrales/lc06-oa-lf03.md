@@ -145,21 +145,21 @@ Respuesta: Elementos: el arbusto amarillo, abrir la tierra y la abuela que ense�
 
 *Recuperación*
 
-- **R1.** Ficha: «Comunidad: Costa Clara. Tipo: texto oral. Fuente: don Efraín.» ¿Qué tipo de texto es? A) oral B) escrito
+- **R1.** Ficha: «Comunidad: Costa Clara. Tipo: texto oral. Fuente: don Efraín.» ¿Qué tipo de texto es? A) escrito B) oral
 - **R2.** En la misma ficha, ¿quién es la fuente?
 - **R3.** ¿Cómo se transmite un texto oral? A) solo con letras B) al escuchar
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: un texto oral puede ser una fuente de conocimiento igual de valiosa que uno escrito.
-- **C2.** ¿Qué es un elemento significativo? A) una parte del texto que lleva una idea importante B) cualquier palabra del texto
+- **C2.** ¿Qué es un elemento significativo? A) cualquier palabra del texto B) una parte del texto que lleva una idea importante
 - **C3.** Verdadero o falso: yo puedo decidir cuál es el significado de un elemento del texto aunque no lo explique.
 
 *Aplicación*
 
 - **A1.** Texto inventado de don Efraín: «Cuando las gaviotas miran todas hacia el mar, los pescadores revisan las cuerdas. Me lo enseñó mi tío». Clasifica en NATURALEZA o PERSONA: a) las gaviotas b) el tío.
-- **A2.** En el mismo texto, ¿qué hacen los pescadores cuando las gaviotas miran al mar? A) revisan las cuerdas B) apagan las luces
-- **A3.** Una ficha dice «Tipo: texto escrito. Fuente: no dice». ¿Qué falta para usarla? A) un dibujo B) la fuente
+- **A2.** En el mismo texto, ¿qué hacen los pescadores cuando las gaviotas miran al mar? A) apagan las luces B) revisan las cuerdas
+- **A3.** Una ficha dice «Tipo: texto escrito. Fuente: no dice». ¿Qué falta para usarla? A) la fuente B) un dibujo
 
 *Razonamiento y análisis*
 
@@ -179,21 +179,21 @@ Respuesta: Elementos: el arbusto amarillo, abrir la tierra y la abuela que ense�
 
 - **E1.** Nombra dos tipos de elemento significativo.
 - **E2.** Verdadero o falso: conviene consultar al educador cuando no sé qué significa un elemento.
-- **E3.** ¿Cómo se llama el texto que se dice en voz alta? A) texto oral B) texto escrito
+- **E3.** ¿Cómo se llama el texto que se dice en voz alta? A) texto escrito B) texto oral
 
 **Actividad abierta.** Lee este texto oral inventado de doña Carmen, de Meseta Azul: «Cuando florece el arbusto amarillo del cerro, las familias abren la tierra. Mi abuela decía que el viento del sur trae la lluvia mansa. Por eso esperamos la flor antes de sembrar.» Haz una ficha con comunidad, tipo de texto, fuente y un límite. Luego anota tres elementos significativos y qué parte del texto los destaca. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** A. La ficha lo dice así.
+- **R1.** B. La ficha lo dice así.
 - **R2.** Don Efraín. La ficha lo nombra.
 - **R3.** B. El texto oral se pasa hablando y escuchando.
 - **C1.** Verdadero. La palabra dicha también transmite saber.
-- **C2.** A. Se destaca porque sostiene una idea.
+- **C2.** B. Se destaca porque sostiene una idea.
 - **C3.** Falso. Su significado lo explica quien cuenta o la comunidad.
 - **A1.** a naturaleza, b persona. Las gaviotas son parte de la naturaleza; el tío transmite el saber.
-- **A2.** A. El texto lo dice.
-- **A3.** B. Sin fuente no se sabe de quién es el texto.
+- **A2.** B. El texto lo dice.
+- **A3.** A. Sin fuente no se sabe de quién es el texto.
 - **Z1.** Cree que solo lo escrito es fuente de conocimiento. Los textos orales también transmiten saber.
 - **Z2.** B. Se afirma algo que el texto no explica.
 - **D1.** Jerarquiza los textos. Ser oral o escrito no hace a un texto mejor.
@@ -201,7 +201,7 @@ Respuesta: Elementos: el arbusto amarillo, abrir la tierra y la abuela que ense�
 - **S1.** A. Sin permiso no se comparte.
 - **E1.** Dos entre: lugar, personaje, objeto, señal de la naturaleza, frase que se repite. Son tipos que se destacan en un texto.
 - **E2.** Verdadero. Ellos pueden explicarlo.
-- **E3.** A. Es el que se transmite al escuchar.
+- **E3.** B. Es el que se transmite al escuchar.
 
 **Actividad abierta · ejemplo de respuesta.** Comunidad: Meseta Azul. Tipo: texto oral. Fuente: doña Carmen. Límite: el texto no explica por qué se espera la flor. Elementos: el arbusto amarillo (lo dice al inicio), la abuela (transmite el saber) y la frase «esperamos la flor» (muestra la espera).
 
@@ -354,63 +354,63 @@ Respuesta: Sí: se apoya en «me lo enseñó mi tío».
 
 *Recuperación*
 
-- **R1.** Texto inventado de doña Carmen: «Cuando florece el arbusto amarillo, abrimos la tierra». ¿Qué hacen cuando florece el arbusto? A) abren la tierra B) cosechan
-- **R2.** ¿Qué es una interpretación? A) una idea mía apoyada en el texto B) un dato copiado
+- **R1.** Texto inventado de doña Carmen: «Cuando florece el arbusto amarillo, abrimos la tierra». ¿Qué hacen cuando florece el arbusto? A) cosechan B) abren la tierra
+- **R2.** ¿Qué es una interpretación? A) un dato copiado B) una idea mía apoyada en el texto
 - **R3.** Si el texto no explica algo, ¿qué escribes? A) lo invento B) el texto no lo explica
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: una interpretación válida debe apoyarse en una parte del texto.
 - **C2.** Verdadero o falso: una interpretación puede contradecir lo que dice el texto.
-- **C3.** En un texto oral, ¿qué puedes hacer para comprender mejor? A) pedir que lo repitan y anotar palabras clave B) adivinar las partes que no entendí
+- **C3.** En un texto oral, ¿qué puedes hacer para comprender mejor? A) adivinar las partes que no entendí B) pedir que lo repitan y anotar palabras clave
 
 *Aplicación*
 
-- **A1.** Texto inventado de doña Carmen: «Mi abuela decía que el viento del sur trae la lluvia mansa». Clasifica en DICE EL TEXTO o INTERPRETO: a) la abuela decía que el viento del sur trae lluvia b) la abuela era una mujer sabia.
-- **A2.** Texto de doña Carmen: «Esperamos la flor antes de sembrar. Mi abuela decía que el viento del sur trae la lluvia mansa». Interpretación: «Yo pienso que las familias de Meseta Azul respetan los tiempos de la naturaleza». ¿En qué frase del texto se apoya? A) «Mi abuela decía que el viento del sur trae la lluvia mansa» B) «Esperamos la flor antes de sembrar»
-- **A3.** Don Efraín no explicó por qué las gaviotas miran al mar. ¿Qué escribes en el límite? A) miran por hambre B) el texto no explica por qué miran al mar
+- **A1.** Texto inventado de doña Carmen: «Mi abuela decía que el viento del sur trae la lluvia mansa». Clasifica en DICE EL TEXTO o INTERPRETO: a) la abuela era una mujer sabia b) la abuela decía que el viento del sur trae lluvia.
+- **A2.** Texto de doña Carmen: «Esperamos la flor antes de sembrar. Mi abuela decía que el viento del sur trae la lluvia mansa». Interpretación: «Yo pienso que las familias de Meseta Azul respetan los tiempos de la naturaleza». ¿En qué frase del texto se apoya? A) «Esperamos la flor antes de sembrar» B) «Mi abuela decía que el viento del sur trae la lluvia mansa»
+- **A3.** Don Efraín no explicó por qué las gaviotas miran al mar. ¿Qué escribes en el límite? A) el texto no explica por qué miran al mar B) miran por hambre
 
 *Razonamiento y análisis*
 
 - **Z1.** Pablo afirma: «En Costa Clara creen que las gaviotas son mensajeras de los espíritus». El texto solo habla de que revisan las cuerdas. ¿Qué error comete?
-- **Z2.** Una niña interpreta: «Yo pienso que el tío de don Efraín fue un buen maestro». ¿Es válida? A) sí, se apoya en «me lo enseñó mi tío» B) no, debe ser dato
+- **Z2.** Una niña interpreta: «Yo pienso que el tío de don Efraín fue un buen maestro». ¿Es válida? A) no, debe ser dato B) sí, se apoya en «me lo enseñó mi tío»
 
 *Desafío*
 
 - **D1.** Texto de Meseta Azul: «Esperamos la flor antes de sembrar». Dos interpretaciones. Una: «yo pienso que sembrar con calma es importante para la comunidad». Otra: «la comunidad cree que el arbusto da poderes». ¿Cuál se apoya en el texto?
-- **D2.** Una persona escucha un relato y solo entendió la mitad. ¿Qué hace? A) pide que lo repitan B) completa con ideas propias
+- **D2.** Una persona escucha un relato y solo entendió la mitad. ¿Qué hace? A) completa con ideas propias B) pide que lo repitan
 
 *Situaciones auténticas*
 
-- **S1.** En un taller escolar, un invitado cuenta un texto oral. Una compañera dice en voz alta lo que cree que significa cada elemento. ¿Qué le sugieres? A) decirlo más fuerte B) preguntar al invitado qué significa
+- **S1.** En un taller escolar, un invitado cuenta un texto oral. Una compañera dice en voz alta lo que cree que significa cada elemento. ¿Qué le sugieres? A) preguntar al invitado qué significa B) decirlo más fuerte
 
 *Autoevaluación*
 
 - **E1.** Nombra los tres pasos para comprender un texto de otra cultura.
 - **E2.** Verdadero o falso: subrayar y releer ayuda a comprender un texto escrito.
-- **E3.** ¿Cómo marcas una idea tuya? A) con «la comunidad dice que» B) con «yo pienso que»
+- **E3.** ¿Cómo marcas una idea tuya? A) con «yo pienso que» B) con «la comunidad dice que»
 
 **Actividad abierta.** Lee este texto inventado de don Efraín, de Costa Clara: «Cuando las gaviotas miran todas hacia el mar, los pescadores revisan las cuerdas de sus botes. Lo aprendí de mi tío, que lo aprendió de su padre. Hay otros avisos que solo cuenta la comunidad.» Haz tres columnas: «El texto dice», «Yo interpreto» y «No se explica». Pon al menos dos datos en cada una y cierra con una frase de límites. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** A. El texto lo dice así.
-- **R2.** A. Interpretar es dar una idea propia con respaldo.
+- **R1.** B. El texto lo dice así.
+- **R2.** B. Interpretar es dar una idea propia con respaldo.
 - **R3.** B. Se declara el límite.
 - **C1.** Verdadero. Si no, queda inventada.
 - **C2.** Falso. Contradecir el texto la hace inválida.
-- **C3.** A. Repetir y anotar ayuda a comprobar lo entendido.
-- **A1.** a dice el texto, b interpreto. La primera es literal; la segunda es una suposición.
-- **A2.** B. Esperar la flor muestra respeto por los tiempos.
-- **A3.** B. Declarar el límite evita inventar.
+- **C3.** B. Repetir y anotar ayuda a comprobar lo entendido.
+- **A1.** b dice el texto, b interpreto. La primera es literal; la segunda es una suposición.
+- **A2.** A. Esperar la flor muestra respeto por los tiempos.
+- **A3.** A. Declarar el límite evita inventar.
 - **Z1.** Atribuye una creencia que el texto no dice. El texto no habla de espíritus.
-- **Z2.** A. Es una interpretación apoyada en el texto y marcada como suya.
+- **Z2.** B. Es una interpretación apoyada en el texto y marcada como suya.
 - **D1.** La primera. La segunda inventa una creencia.
-- **D2.** A. Pedir repetición evita inventar.
-- **S1.** B. Quien cuenta puede explicar su texto.
+- **D2.** B. Pedir repetición evita inventar.
+- **S1.** A. Quien cuenta puede explicar su texto.
 - **E1.** Leer o escuchar completo, marcar elementos y separar dice, interpreto y no se explica. Son los pasos de la clase.
 - **E2.** Verdadero. Son técnicas de lectura.
-- **E3.** B. Así no se confunde con la fuente.
+- **E3.** A. Así no se confunde con la fuente.
 
 **Actividad abierta · ejemplo de respuesta.** El texto dice: revisan las cuerdas cuando las gaviotas miran al mar; el saber pasó del padre al tío y a don Efraín. Yo interpreto: yo pienso que el saber se transmite entre generaciones. No se explica: los otros avisos. Límite: el texto no dice por qué miran al mar.
 
@@ -564,19 +564,19 @@ Respuesta: Debe citar: «Según doña Carmen, de Meseta Azul, la flor del arbust
 *Recuperación*
 
 - **R1.** Texto inventado de don Efraín: «Cuando las gaviotas miran hacia el mar, revisamos las cuerdas». ¿Qué elemento de la naturaleza aparece? A) las gaviotas B) los cerros
-- **R2.** En ese mismo texto, ¿qué hace el pescador cuando las gaviotas miran al mar? A) revisa las cuerdas B) duerme
+- **R2.** En ese mismo texto, ¿qué hace el pescador cuando las gaviotas miran al mar? A) duerme B) revisa las cuerdas
 - **R3.** ¿Cómo se llaman los conocimientos que una comunidad desarrolla y transmite? A) saberes B) mapas
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: un elemento significativo puede ser una pista del conocimiento que transmite el texto.
 - **C2.** Verdadero o falso: el saber de una comunidad es igual para todas las comunidades.
-- **C3.** ¿Qué conviene hacer si falta un dato para entender el saber? A) inventar el dato B) anotar una pregunta para el educador
+- **C3.** ¿Qué conviene hacer si falta un dato para entender el saber? A) anotar una pregunta para el educador B) inventar el dato
 
 *Aplicación*
 
 - **A1.** Texto: «Cuando sube la neblina del cerro, guardamos las ovejas en el corral». Elemento: la neblina. ¿Qué indica? A) que es hora de comer B) que es momento de guardar las ovejas
-- **A2.** Clasifica el saber como NATURALEZA o CONVIVENCIA: a) observar al arbusto para sembrar b) turnarse para cuidar el corral.
+- **A2.** Clasifica el saber como NATURALEZA o CONVIVENCIA: a) turnarse para cuidar el corral b) observar al arbusto para sembrar.
 - **A3.** Completa la cita: «Según don Efraín, de Costa Clara, cuando las gaviotas miran al mar, los pescadores…»
 
 *Razonamiento y análisis*
@@ -587,7 +587,7 @@ Respuesta: Debe citar: «Según doña Carmen, de Meseta Azul, la flor del arbust
 *Desafío*
 
 - **D1.** Dos textos: Meseta Azul (la flor indica sembrar) y Costa Clara (las gaviotas indican revisar cuerdas). ¿Qué tienen en común? A) ambas comunidades observan la naturaleza para decidir qué hacer B) ambas siembran
-- **D2.** Tienes un texto de una tercera comunidad sin fuente. ¿Qué haces? A) pido la fuente antes de citarlo B) lo cito como saber de todos
+- **D2.** Tienes un texto de una tercera comunidad sin fuente. ¿Qué haces? A) lo cito como saber de todos B) pido la fuente antes de citarlo
 
 *Situaciones auténticas*
 
@@ -597,29 +597,29 @@ Respuesta: Debe citar: «Según doña Carmen, de Meseta Azul, la flor del arbust
 
 - **E1.** Nombra una pregunta para relacionar un elemento con un conocimiento.
 - **E2.** Verdadero o falso: un saber de una comunidad puede ser sobre la naturaleza, el trabajo, la convivencia o la historia.
-- **E3.** ¿Cómo citas un saber? A) según [persona], de [comunidad] B) es sabido que
+- **E3.** ¿Cómo citas un saber? A) es sabido que B) según [persona], de [comunidad]
 
 **Actividad abierta.** Lee este texto oral inventado de doña Ximena, de Cumbre Clara: «Cuando la neblina baja al valle, guardamos las ovejas en el corral. Si la neblina se queda hasta el mediodía, esperamos para salir. Así nos enseñó mi madre.» Haz una tabla con tres columnas: «Elemento», «Qué indica en el texto» y «Saber que transmite». Pon dos elementos. Escribe una cita con «Según…, de…». Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** A. El texto menciona a las gaviotas.
-- **R2.** A. El texto lo dice.
+- **R2.** B. El texto lo dice.
 - **R3.** A. Esa es la palabra de la clase.
 - **C1.** Verdadero. Los elementos destacados indican el saber.
 - **C2.** Falso. Cada comunidad desarrolla el suyo.
-- **C3.** B. El dato faltante lo aporta quien sabe.
+- **C3.** A. El dato faltante lo aporta quien sabe.
 - **A1.** B. El texto relaciona la neblina con guardar las ovejas.
-- **A2.** a naturaleza, b convivencia. El primero observa la naturaleza; el segundo organiza la vida en común.
+- **A2.** b naturaleza, b convivencia. El primero observa la naturaleza; el segundo organiza la vida en común.
 - **A3.** Revisan las cuerdas. Repite lo que dice el texto.
 - **Z1.** B. El texto solo habla de Costa Clara.
 - **Z2.** Inventa un significado que el texto no dice. El texto no habla de espíritus.
 - **D1.** A. Los dos textos usan una señal natural para actuar.
-- **D2.** A. Sin fuente no se cita.
+- **D2.** B. Sin fuente no se cita.
 - **S1.** A. Cada saber se cita con su fuente.
 - **E1.** ¿Qué elemento aparece, qué indica y qué enseña?. Son las tres preguntas de la clase.
 - **E2.** Verdadero. Esos son tipos de saberes.
-- **E3.** A. Nombra a la fuente.
+- **E3.** B. Nombra a la fuente.
 
 **Actividad abierta · ejemplo de respuesta.** Elemento: neblina; indica guardar las ovejas; saber: observar el clima para cuidar los animales. Elemento: la madre; indica que el saber se enseñó; saber: la familia transmite el saber. Cita: Según doña Ximena, de Cumbre Clara, cuando la neblina baja al valle guardan las ovejas.
 
@@ -774,7 +774,7 @@ Respuesta: Debe cambiarlo por una razón del texto, como «porque enseña a obse
 
 - **R1.** ¿Cuántas partes tiene una valoración según la clase (texto y fuente, conocimiento, razón de valor)? Escribe el número.
 - **R2.** ¿Qué frase empieza una valoración atribuida? A) «Según doña Carmen, de Meseta Azul…» B) «Todos saben que…»
-- **R3.** ¿Quién te enseña cómo se dice tu valoración en lengua indígena? A) un traductor automático B) el educador o la educadora
+- **R3.** ¿Quién te enseña cómo se dice tu valoración en lengua indígena? A) el educador o la educadora B) un traductor automático
 
 *Comprensión*
 
@@ -784,9 +784,9 @@ Respuesta: Debe cambiarlo por una razón del texto, como «porque enseña a obse
 
 *Aplicación*
 
-- **A1.** Texto: «Cuando las gaviotas miran al mar, revisamos las cuerdas». ¿Qué conocimiento transmite, para completar «Valoro este texto porque enseña a…»? A) pescar siempre de noche B) observar a las aves para prepararse
-- **A2.** Clasifica en FUENTE o RAZÓN: a) según don Efraín, de Costa Clara b) porque ayuda a prevenir accidentes.
-- **A3.** Elige la valoración mejor fundamentada. A) «Valoro el texto porque enseña a guardar las ovejas con la neblina» B) «Valoro el texto porque es el más lindo»
+- **A1.** Texto: «Cuando las gaviotas miran al mar, revisamos las cuerdas». ¿Qué conocimiento transmite, para completar «Valoro este texto porque enseña a…»? A) observar a las aves para prepararse B) pescar siempre de noche
+- **A2.** Clasifica en FUENTE o RAZÓN: a) porque ayuda a prevenir accidentes b) según don Efraín, de Costa Clara.
+- **A3.** Elige la valoración mejor fundamentada. A) «Valoro el texto porque es el más lindo» B) «Valoro el texto porque enseña a guardar las ovejas con la neblina»
 
 *Razonamiento y análisis*
 
@@ -796,11 +796,11 @@ Respuesta: Debe cambiarlo por una razón del texto, como «porque enseña a obse
 *Desafío*
 
 - **D1.** Dos valoraciones del texto de Cumbre Clara (la neblina y las ovejas). Una: «Valoro el texto porque enseña a cuidar a los animales según el clima». Otra: «Valoro el texto porque es especial». ¿Cuál se apoya mejor en el texto?
-- **D2.** Tu valoración queda muy larga para traducirla en lengua. ¿Qué haces? A) la dejo igual B) la divido en frases cortas
+- **D2.** Tu valoración queda muy larga para traducirla en lengua. ¿Qué haces? A) la divido en frases cortas B) la dejo igual
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso hará un mural con valoraciones de textos de comunidades. ¿Qué debe llevar cada valoración? A) solo una opinión sin fuente B) texto, fuente, conocimiento y una razón del texto
+- **S1.** Tu curso hará un mural con valoraciones de textos de comunidades. ¿Qué debe llevar cada valoración? A) texto, fuente, conocimiento y una razón del texto B) solo una opinión sin fuente
 
 *Autoevaluación*
 
@@ -814,18 +814,18 @@ Respuesta: Debe cambiarlo por una razón del texto, como «porque enseña a obse
 
 - **R1.** 3. Son texto y fuente, conocimiento y razón de valor.
 - **R2.** A. Nombra la fuente.
-- **R3.** B. Es quien enseña la lengua de tu comunidad.
+- **R3.** A. Es quien enseña la lengua de tu comunidad.
 - **C1.** Verdadero. Sin razón no está fundamentada.
 - **C2.** Falso. No tiene razón del texto.
 - **C3.** A. Las frases cortas se revisan y traducen mejor.
-- **A1.** B. Es el conocimiento que transmite el texto; la otra opción no aparece en él.
-- **A2.** a fuente, b razón. La primera nombra de quién es el texto; la segunda explica el valor.
-- **A3.** A. Tiene razón tomada del texto.
+- **A1.** A. Es el conocimiento que transmite el texto; la otra opción no aparece en él.
+- **A2.** b fuente, b razón. La primera nombra de quién es el texto; la segunda explica el valor.
+- **A3.** B. Tiene razón tomada del texto.
 - **Z1.** B. No se inventan palabras en lengua.
 - **Z2.** B. Ser antiguo no explica el conocimiento.
 - **D1.** La primera. Dice qué enseña el texto.
-- **D2.** B. Las frases cortas facilitan la revisión con el educador.
-- **S1.** B. Con esos elementos queda fundamentada y respetuosa.
+- **D2.** A. Las frases cortas facilitan la revisión con el educador.
+- **S1.** A. Con esos elementos queda fundamentada y respetuosa.
 - **E1.** Según [fuente], de [comunidad], el texto enseña [saber]; lo valoro porque [razón]. Une fuente, saber y razón.
 - **E2.** Verdadero. Así queda fundamentada.
 - **E3.** B. Ellos enseñan la lengua.
@@ -982,24 +982,24 @@ Respuesta: Corrige la jerarquía: la escrita queda fija y la oral guarda tonos y
 *Recuperación*
 
 - **R1.** ¿Qué versión puede tener pausas, tono y gestos: la oral o la escrita?
-- **R2.** ¿Qué versión queda fija y se puede leer muchas veces? A) la escrita B) la oral
+- **R2.** ¿Qué versión queda fija y se puede leer muchas veces? A) la oral B) la escrita
 - **R3.** ¿Qué se hace para comparar dos versiones? A) usar los mismos criterios B) elegir la que gusta
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: la versión oral y la escrita de un relato pueden guardar el saber de maneras distintas.
 - **C2.** Verdadero o falso: la versión escrita es siempre más verdadera que la oral.
-- **C3.** ¿Qué se debe hacer antes de escribir un texto oral de una comunidad? A) cambiarlo para que quede mejor B) pedir permiso a la fuente
+- **C3.** ¿Qué se debe hacer antes de escribir un texto oral de una comunidad? A) pedir permiso a la fuente B) cambiarlo para que quede mejor
 
 *Aplicación*
 
-- **A1.** Criterio «qué se puede repetir». Oral: se repite cada vez que alguien cuenta, aunque cambie el tono. Escrita: se repite igual cada vez. ¿Qué diferencia hay? A) la oral puede cambiar de tono; la escrita se repite igual B) no hay diferencia
+- **A1.** Criterio «qué se puede repetir». Oral: se repite cada vez que alguien cuenta, aunque cambie el tono. Escrita: se repite igual cada vez. ¿Qué diferencia hay? A) no hay diferencia B) la oral puede cambiar de tono; la escrita se repite igual
 - **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) ambas versiones transmiten un saber b) solo una tiene gestos.
 - **A3.** Dos variantes del mismo texto: «Esperamos la flor» y «Aguardamos la flor». ¿Qué relación tienen? A) dicen lo mismo con palabras distintas B) cuentan historias distintas
 
 *Razonamiento y análisis*
 
-- **Z1.** Sebastián dice: «Si el texto no se escribe, se pierde». ¿Qué error comete? A) piensa que lo oral es largo B) piensa que solo lo escrito se conserva
+- **Z1.** Sebastián dice: «Si el texto no se escribe, se pierde». ¿Qué error comete? A) piensa que solo lo escrito se conserva B) piensa que lo oral es largo
 - **Z2.** Una versión escrita no dice quién autorizó escribirla. ¿Qué falta?
 
 *Desafío*
@@ -1022,15 +1022,15 @@ Respuesta: Corrige la jerarquía: la escrita queda fija y la oral guarda tonos y
 **Solucionario razonado**
 
 - **R1.** La oral. Se dice con la voz y el cuerpo.
-- **R2.** A. El texto escrito se guarda en letras.
+- **R2.** B. El texto escrito se guarda en letras.
 - **R3.** A. Con criterios iguales la comparación es justa.
 - **C1.** Verdadero. Cada una tiene sus características.
 - **C2.** Falso. Ser escrita no la hace más verdadera.
-- **C3.** B. La fuente decide si se escribe.
-- **A1.** A. La escrita queda fija.
+- **C3.** A. La fuente decide si se escribe.
+- **A1.** B. La escrita queda fija.
 - **A2.** a semejanza, b diferencia. La primera es común; la segunda, distinta.
 - **A3.** A. Son variantes, no relatos diferentes.
-- **Z1.** B. Los textos orales se han transmitido durante generaciones.
+- **Z1.** A. Los textos orales se han transmitido durante generaciones.
 - **Z2.** La autorización de la fuente. Es parte de respetar el origen del texto.
 - **D1.** La escrita no completa a la oral, es otra versión. Cada versión tiene su forma y no se corrige a la otra.
 - **D2.** B. Declarar lo que se pierde evita engañar.

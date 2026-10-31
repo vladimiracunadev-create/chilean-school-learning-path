@@ -361,12 +361,12 @@ Respuesta: usa un estereotipo en lugar de pistas
 *Comprensión*
 
 - **C1.** Título: «Gracias, educadora». Imagen: una tarjeta con un corazón. ¿Qué anticipas: que alguien agradece o que alguien se despide para siempre?
-- **C2.** ¿Cuál anticipación usa pistas? A) «Trata de agua, porque la imagen tiene una jarra». B) «Trata de lo que todos los indígenas hacen».
+- **C2.** ¿Cuál anticipación usa pistas? A) «Trata de lo que todos los indígenas hacen» B) «Trata de agua, porque la imagen tiene una jarra»..
 - **C3.** Luis dice: «Seguro que los personajes viven en el campo». ¿Qué le falta a su idea: una pista del texto o más imaginación?
 
 *Aplicación*
 
-- **A1.** Cambia el estereotipo por una pregunta: «Todos los indígenas viven en el campo». Elige: A) «¿Dónde ocurre este texto?». B) «Seguro que en el campo».
+- **A1.** Cambia el estereotipo por una pregunta: «Todos los indígenas viven en el campo». Elige: A) «Seguro que en el campo» B) «¿Dónde ocurre este texto?»..
 - **A2.** Título: «La luna y la jarra». Imagen: una luna y una jarra con agua. ¿Cuáles dos cosas anticipas que aparecen en el texto?
 - **A3.** Anticipación: «El texto habla de una visita». Al leer, el texto habla de una visita. ¿Tu anticipación coincidió? Sí o No.
 
@@ -398,9 +398,9 @@ Respuesta: usa un estereotipo en lugar de pistas
 - **R2.** Verdadero. Esa es su definición.
 - **R3.** Sí. Así compruebo si coincidió.
 - **C1.** que alguien agradece. El título lo dice.
-- **C2.** A. La B usa un estereotipo.
+- **C2.** B. La B usa un estereotipo.
 - **C3.** una pista del texto. No tiene pista.
-- **A1.** A. La pregunta se responde con el texto.
+- **A1.** B. La pregunta se responde con el texto.
 - **A2.** la luna y el agua. Son las pistas de la imagen.
 - **A3.** Sí. El texto confirma tu idea.
 - **Z1.** desmiente uno. Muestra que no todos viven en el campo.
@@ -780,11 +780,11 @@ Respuesta: el texto no lo dice
 
 - **C1.** Ficha: «mari mari» es un saludo y «chaltumay» quiere decir «gracias», ambas en mapuzugun. ¿Qué quiere decir la palabra que Lía escribió en la tarjeta?
 - **C2.** Verdadero o falso: una respuesta completa tiene un dato del texto, un saber mío y una razón.
-- **C3.** Si la pregunta es «¿En qué calle vive Lía?», ¿qué respondo? A) «El texto no lo dice». B) «En una calle larga».
+- **C3.** Si la pregunta es «¿En qué calle vive Lía?», ¿qué respondo? A) «En una calle larga» B) «El texto no lo dice»..
 
 *Aplicación*
 
-- **A1.** Pregunta: ¿Por qué Lía escribió «chaltumay»? Elige la respuesta completa. A) «Porque quería agradecer; y «chaltumay» es gracias según la ficha». B) «Porque sí».
+- **A1.** Pregunta: ¿Por qué Lía escribió «chaltumay»? Elige la respuesta completa. A) «Porque sí» B) «Porque quería agradecer; y «chaltumay» es gracias según la ficha»..
 - **A2.** Pregunta: ¿Con qué palabra respondió la visita a todo el curso? Responde con el texto U.
 - **A3.** En el texto U, ¿qué palabra escribió Lía en la tarjeta y qué palabra dijo la visita en voz alta?
 
@@ -817,8 +817,8 @@ Respuesta: el texto no lo dice
 - **R3.** sonrió. Es la reacción del texto.
 - **C1.** gracias. La ficha dice que chaltumay es gracias.
 - **C2.** Verdadero. Esas son sus tres partes.
-- **C3.** A. El texto no da ese dato.
-- **A1.** A. La A tiene dato, saber y razón.
+- **C3.** B. El texto no da ese dato.
+- **A1.** B. La A tiene dato, saber y razón.
 - **A2.** mari mari. El texto dice que dijo «mari mari».
 - **A3.** Lía escribió «chaltumay» y la visita dijo «mari mari». Lo dicen la segunda y la tercera oración.
 - **Z1.** una pista del texto. No muestra de dónde sale el dato.

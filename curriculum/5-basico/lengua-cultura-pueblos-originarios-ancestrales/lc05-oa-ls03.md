@@ -164,7 +164,7 @@ Respuesta: «ñuke», que significa madre
 *Razonamiento y análisis*
 
 - **Z1.** Texto B (inventado, realidad local): En el pueblo de Valle Claro, que no existe, hay una feria cada sábado. Las vecinas y los vecinos llevan verduras, pan y artesanías. Cerca de la entrada hay un cartel que dice «Bienvenidos» y «Mari mari». Una educadora tradicional explicó a los niños que ese saludo se usa al encontrarse con alguien. La feria termina a las dos de la tarde y todos ayudan a ordenar la plaza. Un niño dice: «El texto B habla del territorio, porque menciona un pueblo». ¿Tiene razón? Sí o No.
-- **Z2.** Encuentras en un texto la palabra «antü» sin glosario. ¿Qué es mejor: A) preguntar al educador o educadora tradicional o B) decir que significa lo que tú crees?
+- **Z2.** Encuentras en un texto la palabra «antü» sin glosario. ¿Qué es mejor: A) decir que significa lo que tú crees o B) preguntar al educador o educadora tradicional?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: «ñuke», que significa madre
 - **A2.** 29. Se suman los tres tipos de puestos. Cálculo: 14 + 9 + 6 = 29.
 - **A3.** B, C, A. Primero leo, luego decido el tipo y después reviso palabras.
 - **Z1.** No. Un pueblo y su feria son la realidad local.
-- **Z2.** A. El significado lo enseña quien conoce la lengua.
+- **Z2.** B. El significado lo enseña quien conoce la lengua.
 - **D1.** la minga. El texto dice que se hacía una minga al construir una casa.
 - **D2.** que habla de un valle con río y cerros. Los ríos y cerros son parte del territorio.
 - **S1.** decides si habla de la familia, del pueblo o del territorio. Ubicar el texto va antes de comentarlo.
@@ -577,7 +577,7 @@ Respuesta: porque las familias lo limpian y cuidar el agua es cuidar el lugar do
 
 - **A1.** Texto C (inventado, realidad territorial): La Comunidad Ejemplo vive en un valle con un río, dos cerros y un bosque. La palabra «ko» se usa para hablar del agua y «mapu» para hablar de la tierra, según la educadora tradicional. En primavera las familias limpian el río en una minga. Se dice que cuidar el agua es cuidar el lugar donde se vive. Glosario de práctica: «ñuke» es madre, «ko» es agua, «mapu» es tierra, todas en mapuzugun, según la educadora tradicional. «Minga» es, en el castellano de Chile, un trabajo en que varias personas ayudan juntas. «Once» es la comida liviana de la tarde. Une cada elemento con su relación: A) minga, B) «ko», C) río. Relaciones: 1) palabra para hablar del agua, 2) lugar que se cuida, 3) costumbre para cuidar. Escribe los tres pares.
 - **A2.** El texto C nombra 4 lugares (valle, río, cerros y bosque) y 2 palabras de lengua indígena. ¿Cuántos lugares y palabras de lengua indígena hay en total?
-- **A3.** Texto B (inventado, realidad local): En el pueblo de Valle Claro, que no existe, hay una feria cada sábado. Las vecinas y los vecinos llevan verduras, pan y artesanías. Cerca de la entrada hay un cartel que dice «Bienvenidos» y «Mari mari». Una educadora tradicional explicó a los niños que ese saludo se usa al encontrarse con alguien. La feria termina a las dos de la tarde y todos ayudan a ordenar la plaza. Elige la mejor explicación de por qué importa la feria: A) «Según el texto, importa porque todos ayudan a ordenar la plaza». B) «Importa porque es la mejor del país». Escribe la letra.
+- **A3.** Texto B (inventado, realidad local): En el pueblo de Valle Claro, que no existe, hay una feria cada sábado. Las vecinas y los vecinos llevan verduras, pan y artesanías. Cerca de la entrada hay un cartel que dice «Bienvenidos» y «Mari mari». Una educadora tradicional explicó a los niños que ese saludo se usa al encontrarse con alguien. La feria termina a las dos de la tarde y todos ayudan a ordenar la plaza. Elige la mejor explicación de por qué importa la feria: A) «Importa porque es la mejor del país». Escribe la letra B) «Según el texto, importa porque todos ayudan a ordenar la plaza»..
 
 *Razonamiento y análisis*
 
@@ -611,7 +611,7 @@ Respuesta: porque las familias lo limpian y cuidar el agua es cuidar el lugar do
 - **C3.** que es cuidar el lugar donde se vive. Es la última oración.
 - **A1.** A-3, B-1, C-2. Según los textos, la minga cuida el río, «ko» es agua y el río es un lugar.
 - **A2.** 6. Se suman lugares y palabras. Cálculo: 4 + 2 = 6.
-- **A3.** A. A usa una pista del texto.
+- **A3.** B. A usa una pista del texto.
 - **Z1.** No. El texto solo dice que se hacía una minga cuando alguien construía una casa.
 - **Z2.** Sí. El texto dice que las familias limpian el río en una minga.
 - **D1.** la minga. Aparece en A y en C.
@@ -796,7 +796,7 @@ Respuesta: faltan la evidencia del texto y el límite
 *Desafío*
 
 - **D1.** Texto B (inventado, realidad local): En el pueblo de Valle Claro, que no existe, hay una feria cada sábado. Las vecinas y los vecinos llevan verduras, pan y artesanías. Cerca de la entrada hay un cartel que dice «Bienvenidos» y «Mari mari». Una educadora tradicional explicó a los niños que ese saludo se usa al encontrarse con alguien. La feria termina a las dos de la tarde y todos ayudan a ordenar la plaza. Un comentario dice: «Comento la feria. El texto dice que los vecinos ayudan a ordenar la plaza. Importa porque une a las personas». ¿Qué parte le falta: el límite o el elemento?
-- **D2.** Texto A (inventado, realidad familiar): En mi casa, los domingos nos juntamos a la hora de once. Mi abuela prepara pan y nos cuenta cómo era el barrio cuando ella era niña. Dice que antes la gente hacía una minga cada vez que alguien construía una casa. Yo escucho con atención porque así aprendo cómo vivían. Mi abuela usa la palabra «ñuke» para hablar de su madre. Para el comentario de la abuela, ¿qué es mejor límite: A) «El texto no dice cuántos años tiene la abuela» o B) «La abuela es muy importante»?
+- **D2.** Texto A (inventado, realidad familiar): En mi casa, los domingos nos juntamos a la hora de once. Mi abuela prepara pan y nos cuenta cómo era el barrio cuando ella era niña. Dice que antes la gente hacía una minga cada vez que alguien construía una casa. Yo escucho con atención porque así aprendo cómo vivían. Mi abuela usa la palabra «ñuke» para hablar de su madre. Para el comentario de la abuela, ¿qué es mejor límite: A) «La abuela es muy importante» o B) «El texto no dice cuántos años tiene la abuela»?
 
 *Situaciones auténticas*
 
@@ -824,7 +824,7 @@ Respuesta: faltan la evidencia del texto y el límite
 - **Z1.** No. El texto C solo habla de la Comunidad Ejemplo.
 - **Z2.** Sí. Se copia la palabra como la enseñó la fuente.
 - **D1.** el límite. Tiene elemento, evidencia e importancia.
-- **D2.** A. Un límite señala algo que el texto no dice.
+- **D2.** B. Un límite señala algo que el texto no dice.
 - **S1.** citas una frase del texto. Los comentarios se apoyan en evidencia del texto.
 - **E1.** el límite. Primero nombro y al final declaro el límite.
 - **E2.** No. Se copian tal cual.
@@ -995,7 +995,7 @@ Respuesta: C en primavera y D en otoño
 
 - **A1.** Texto C (inventado, realidad territorial): La Comunidad Ejemplo vive en un valle con un río, dos cerros y un bosque. La palabra «ko» se usa para hablar del agua y «mapu» para hablar de la tierra, según la educadora tradicional. En primavera las familias limpian el río en una minga. Se dice que cuidar el agua es cuidar el lugar donde se vive. Texto D (inventado, realidad territorial, otro valle): La Comunidad Muestra vive cerca de un lago, rodeado de pastizales. Las familias cuidan el lago y llevan a sus animales a pastar en verano. Según el educador tradicional de la escuela, la palabra «ko» se usa para hablar del agua. En otoño cada familia limpia la orilla durante una minga. Clasifica con I (igual) o D (distinto): 1) ambas comunidades hacen una minga. 2) una vive junto a un río y otra junto a un lago. 3) ambas usan «ko» para hablar del agua. Escribe las tres letras.
 - **A2.** La tabla comparativa tiene 8 filas. 5 son «igual». ¿Cuántas son «distinto»?
-- **A3.** Texto C (inventado, realidad territorial): La Comunidad Ejemplo vive en un valle con un río, dos cerros y un bosque. La palabra «ko» se usa para hablar del agua y «mapu» para hablar de la tierra, según la educadora tradicional. En primavera las familias limpian el río en una minga. Se dice que cuidar el agua es cuidar el lugar donde se vive. Texto D (inventado, realidad territorial, otro valle): La Comunidad Muestra vive cerca de un lago, rodeado de pastizales. Las familias cuidan el lago y llevan a sus animales a pastar en verano. Según el educador tradicional de la escuela, la palabra «ko» se usa para hablar del agua. En otoño cada familia limpia la orilla durante una minga. Elige la frase que compara sin jerarquizar: A) «En el texto C se limpia el río en primavera y en el texto D la orilla del lago en otoño». B) «El territorio del texto C es mejor». Escribe la letra.
+- **A3.** Texto C (inventado, realidad territorial): La Comunidad Ejemplo vive en un valle con un río, dos cerros y un bosque. La palabra «ko» se usa para hablar del agua y «mapu» para hablar de la tierra, según la educadora tradicional. En primavera las familias limpian el río en una minga. Se dice que cuidar el agua es cuidar el lugar donde se vive. Texto D (inventado, realidad territorial, otro valle): La Comunidad Muestra vive cerca de un lago, rodeado de pastizales. Las familias cuidan el lago y llevan a sus animales a pastar en verano. Según el educador tradicional de la escuela, la palabra «ko» se usa para hablar del agua. En otoño cada familia limpia la orilla durante una minga. Elige la frase que compara sin jerarquizar: A) «El territorio del texto C es mejor». Escribe la letra B) «En el texto C se limpia el río en primavera y en el texto D la orilla del lago en otoño»..
 
 *Razonamiento y análisis*
 
@@ -1005,7 +1005,7 @@ Respuesta: C en primavera y D en otoño
 *Desafío*
 
 - **D1.** Texto C (inventado, realidad territorial): La Comunidad Ejemplo vive en un valle con un río, dos cerros y un bosque. La palabra «ko» se usa para hablar del agua y «mapu» para hablar de la tierra, según la educadora tradicional. En primavera las familias limpian el río en una minga. Se dice que cuidar el agua es cuidar el lugar donde se vive. Texto D (inventado, realidad territorial, otro valle): La Comunidad Muestra vive cerca de un lago, rodeado de pastizales. Las familias cuidan el lago y llevan a sus animales a pastar en verano. Según el educador tradicional de la escuela, la palabra «ko» se usa para hablar del agua. En otoño cada familia limpia la orilla durante una minga. ¿Qué dato aparece en D y no en C: que las familias llevan a sus animales a pastar en verano o que hay una minga?
-- **D2.** Un curso compara un texto de práctica con un texto real de una comunidad, con permiso. ¿Qué debe hacer: A) citar la fuente y describir sin ordenar en mejor y peor o B) decir cuál es más auténtico?
+- **D2.** Un curso compara un texto de práctica con un texto real de una comunidad, con permiso. ¿Qué debe hacer: A) decir cuál es más auténtico o B) citar la fuente y describir sin ordenar en mejor y peor?
 
 *Situaciones auténticas*
 
@@ -1029,11 +1029,11 @@ Respuesta: C en primavera y D en otoño
 - **C3.** comparar para ver parecidos y diferencias. Así se definió contrastar.
 - **A1.** 1 I, 2 D, 3 I. La 2 es la única diferencia.
 - **A2.** 3. Se restan las iguales del total. Cálculo: 8 − 5 = 3.
-- **A3.** A. A solo describe.
+- **A3.** B. A solo describe.
 - **Z1.** generaliza a todas las comunidades. Dos textos no representan a todas las comunidades.
 - **Z2.** No. Los textos no comparan quién cuida mejor.
 - **D1.** que las familias llevan a sus animales a pastar en verano. La minga aparece en ambos.
-- **D2.** A. Se contrasta con fuente y sin jerarquizar.
+- **D2.** B. Se contrasta con fuente y sin jerarquizar.
 - **S1.** los comparas diciendo qué tienen igual y distinto. Se compara sin ordenar en mejor y peor.
 - **E1.** No. Cada territorio importa a su comunidad.
 - **E2.** igual. Igual muestra lo que se comparte.

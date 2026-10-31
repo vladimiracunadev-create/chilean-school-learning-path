@@ -377,7 +377,7 @@ Respuesta: habla solo de su casa y de su taller
 
 *Desafío*
 
-- **D1.** Relato oral (inventado para practicar; lo lee una persona adulta): «Mi abuelo me cuenta que cuando él era niño la lengua se hablaba más en la casa. Yo la escucho en el taller de los jueves y en un programa de radio. Pienso que, si más personas la escuchan, habrá más ganas de aprenderla. En mi curso usamos palabras como guagua y palta, que vienen de lenguas indígenas, y eso me hace pensar que las lenguas se mezclan. Hablo solo de mi casa y de mi taller». (Una niña de la Comunidad Muestra, inventada). Elige el mejor resumen. A) «Según una niña de la Comunidad Muestra, escucha la lengua en un taller y en la radio; cree que más personas escuchándola darán más ganas de aprenderla; habla solo de su casa y su taller». B) «La lengua se salvó gracias a la radio». Escribe la letra.
+- **D1.** Relato oral (inventado para practicar; lo lee una persona adulta): «Mi abuelo me cuenta que cuando él era niño la lengua se hablaba más en la casa. Yo la escucho en el taller de los jueves y en un programa de radio. Pienso que, si más personas la escuchan, habrá más ganas de aprenderla. En mi curso usamos palabras como guagua y palta, que vienen de lenguas indígenas, y eso me hace pensar que las lenguas se mezclan. Hablo solo de mi casa y de mi taller». (Una niña de la Comunidad Muestra, inventada). Elige el mejor resumen. A) «La lengua se salvó gracias a la radio». Escribe la letra B) «Según una niña de la Comunidad Muestra, escucha la lengua en un taller y en la radio; cree que más personas escuchándola darán más ganas de aprenderla; habla solo de su casa y su taller»..
 - **D2.** Una persona mayor te cuenta cómo cambió el uso de su lengua en su familia y te pide que no repitas una parte. ¿Cómo la tratas al escribir: la incluyes o la dejas fuera?
 
 *Situaciones auténticas*
@@ -405,7 +405,7 @@ Respuesta: habla solo de su casa y de su taller
 - **A3.** B, C, A. Primero lo dicho, luego lo mío y al final el límite.
 - **Z1.** No. La niña habla solo de su casa y su taller.
 - **Z2.** preguntarle. Adivinar puede cambiar lo que quiso decir.
-- **D1.** A. Atribuye, distingue opinión y mantiene el límite.
+- **D1.** B. Atribuye, distingue opinión y mantiene el límite.
 - **D2.** la dejas fuera. Se respeta lo que pidió.
 - **S1.** empiezas con «según una vecina…». Se atribuye a su fuente y se mantiene el alcance.
 - **E1.** una opinión. Muestra lo que alguien piensa.

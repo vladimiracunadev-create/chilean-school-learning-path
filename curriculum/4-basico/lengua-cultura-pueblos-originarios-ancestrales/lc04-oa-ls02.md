@@ -373,7 +373,7 @@ Respuesta: el curso
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si no pronuncio «mari mari» igual que la visita, no aprendí». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de aprender una pronunciación: A) pedirle a la educadora tradicional que la enseñe. B) adivinarla con lo que parece. ¿Cuál es más respetuosa?
+- **Z2.** Dos formas de aprender una pronunciación: A) adivinarla con lo que parece. ¿Cuál es más respetuosa B) pedirle a la educadora tradicional que la enseñe.?
 
 *Desafío*
 
@@ -404,7 +404,7 @@ Respuesta: el curso
 - **A2.** 1-b, 2-a. La primera saluda y la segunda agradece.
 - **A3.** A. Hay otras formas de participar.
 - **Z1.** No. Aprender también es escuchar y entender el sentido.
-- **Z2.** A. Quien conoce la lengua la enseña.
+- **Z2.** B. Quien conoce la lengua la enseña.
 - **D1.** B, C, A. Primero quién, luego qué y al final para qué.
 - **D2.** Sí. «Mari mari» saluda y «chaltumay» agradece.
 - **S1.** respondes con una sonrisa y escuchas. Se puede responder sin hablar.
@@ -785,7 +785,7 @@ Respuesta: «Yo también pienso que el sol es importante, además porque nos da 
 *Aplicación*
 
 - **A1.** Ordena estas tres frases de un diálogo: A) «Gracias por escuchar». B) «Mari mari». C) «¿Tú qué piensas?». Escribe las letras en el orden en que las dirías.
-- **A2.** Tu compañera dice: «Yo pienso que la luna es bonita porque brilla de noche». Tú piensas lo mismo. ¿Qué respuesta usa el marco de apoyo? A) «Yo también pienso que la luna es bonita porque brilla de noche». B) «Eso no importa».
+- **A2.** Tu compañera dice: «Yo pienso que la luna es bonita porque brilla de noche». Tú piensas lo mismo. ¿Qué respuesta usa el marco de apoyo? A) «Eso no importa» B) «Yo también pienso que la luna es bonita porque brilla de noche»..
 - **A3.** Un niño dice «mari mari» al saludar y la visita responde igual. ¿Qué momento del diálogo cumplió: saludar o agradecer?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: «Yo también pienso que el sol es importante, además porque nos da 
 - **C2.** la anotamos y preguntamos al educador tradicional. No se inventa.
 - **C3.** «Yo siento…». Esa frase introduce el sentimiento.
 - **A1.** B, C, A. Saludo, pregunto y agradezco al final.
-- **A2.** A. La A responde a su idea con tu opinión y una razón.
+- **A2.** B. La A responde a su idea con tu opinión y una razón.
 - **A3.** saludar. «Mari mari» es un saludo según la ficha.
 - **Z1.** No. Se puede pensar distinto con respeto.
 - **Z2.** B. Comparte y pregunta sin negar.

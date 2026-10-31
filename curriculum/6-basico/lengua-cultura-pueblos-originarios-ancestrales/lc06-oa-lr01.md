@@ -146,7 +146,7 @@ Respuesta: Saludar, pedir permiso y agradecer.
 *Recuperación*
 
 - **R1.** Ficha: «Comunidad: Estero Dulce. Evento: Día de los vecinos. Fuente: don Aníbal.» ¿Quién es la fuente?
-- **R2.** ¿Qué función cumple decir «gracias»? A) agradecer B) despedirse
+- **R2.** ¿Qué función cumple decir «gracias»? A) despedirse B) agradecer
 - **R3.** ¿Qué significa «mari mari» en mapuzugun?
 
 *Comprensión*
@@ -164,12 +164,12 @@ Respuesta: Saludar, pedir permiso y agradecer.
 *Razonamiento y análisis*
 
 - **Z1.** Lucas inventa una frase para «pedir permiso» en lengua indígena porque «suena parecida». ¿Qué error comete?
-- **Z2.** Marta cuenta con detalle los temas privados de la reunión de Monte Claro. ¿Qué falla? A) no respeta el límite de la ficha B) usa pocas funciones
+- **Z2.** Marta cuenta con detalle los temas privados de la reunión de Monte Claro. ¿Qué falla? A) usa pocas funciones B) no respeta el límite de la ficha
 
 *Desafío*
 
 - **D1.** Dos historias: en una se saluda y se agradece; en la otra solo se saluda. ¿Cuál muestra más funciones sociales?
-- **D2.** Escribes un cartel con «iorana» y «maururu». ¿Qué significan en ese orden? A) saludo y gracias en rapa nui B) gracias y saludo
+- **D2.** Escribes un cartel con «iorana» y «maururu». ¿Qué significan en ese orden? A) gracias y saludo B) saludo y gracias en rapa nui
 
 *Situaciones auténticas*
 
@@ -179,14 +179,14 @@ Respuesta: Saludar, pedir permiso y agradecer.
 
 - **E1.** Nombra tres funciones sociales básicas.
 - **E2.** Verdadero o falso: conviene preguntar al educador cómo se dice «gracias» en la lengua de mi comunidad.
-- **E3.** ¿Qué escribes en lugar de inventar una expresión? A) un espacio para completar con el educador B) cualquier palabra
+- **E3.** ¿Qué escribes en lugar de inventar una expresión? A) cualquier palabra B) un espacio para completar con el educador
 
 **Actividad abierta.** Lee esta historia inventada de doña Silvia, de Monte Claro: «Cuando llegó el invierno, los vecinos se reunieron en la sede. Una niña saludó a la persona mayor y pidió permiso para sentarse. Al terminar, todos agradecieron la invitación y se despidieron con un abrazo». Haz una ficha con comunidad, evento, fuente y límite. Después anota tres funciones sociales que aparecen y quién las realiza. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** Don Aníbal. La ficha lo nombra.
-- **R2.** A. Reconoce lo que otro hizo.
+- **R2.** B. Reconoce lo que otro hizo.
 - **R3.** Saludo. Es un saludo muy conocido.
 - **C1.** Verdadero. Está atestiguada como gracias.
 - **C2.** Falso. Cada lengua tiene sus formas.
@@ -195,13 +195,13 @@ Respuesta: Saludar, pedir permiso y agradecer.
 - **A2.** a pedir permiso, b saludar, c agradecer. Cada frase cumple una función distinta.
 - **A3.** B. Sin fuente ni permiso se detiene la actividad.
 - **Z1.** Inventa una expresión sin consultar. La lengua la enseña el educador.
-- **Z2.** A. El límite pide no contarlos.
+- **Z2.** B. El límite pide no contarlos.
 - **D1.** La primera. Tiene dos funciones; la otra, una.
-- **D2.** A. «Iorana» saluda y «maururu» agradece.
+- **D2.** B. «Iorana» saluda y «maururu» agradece.
 - **S1.** A. Esas funciones muestran respeto.
 - **E1.** Tres entre: saludar, presentarse, pedir permiso, agradecer, despedirse. Son funciones de la clase.
 - **E2.** Verdadero. Él o ella lo enseña.
-- **E3.** A. Se evita inventar.
+- **E3.** B. Se evita inventar.
 
 **Actividad abierta · ejemplo de respuesta.** Comunidad: Monte Claro. Evento: reunión de invierno. Fuente: doña Silvia. Límite: no sé qué temas se hablaron. Funciones: saludar (la niña), pedir permiso (la niña) y agradecer (todos).
 
@@ -356,19 +356,19 @@ Respuesta: Yo pienso que muestra respeto por la persona mayor.
 
 - **R1.** En la historia de Estero Dulce, ¿qué hace la visita al llegar? A) se presenta por su nombre B) cocina
 - **R2.** ¿Qué escribes cuando la historia no explica algo? A) la historia no lo dice B) lo invento
-- **R3.** ¿Qué palabra marca una idea mía? A) «la comunidad dice que» B) «yo pienso que»
+- **R3.** ¿Qué palabra marca una idea mía? A) «yo pienso que» B) «la comunidad dice que»
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: una interpretación es una idea mía sobre lo que leí.
 - **C2.** Verdadero o falso: puedo completar con mi imaginación lo que la comunidad no contó.
-- **C3.** ¿Qué conviene preguntar sobre una función social en una historia? A) cuántas palabras tiene B) quién la hace y a quién se dirige
+- **C3.** ¿Qué conviene preguntar sobre una función social en una historia? A) quién la hace y a quién se dirige B) cuántas palabras tiene
 
 *Aplicación*
 
-- **A1.** Historia: «Al irse, la visita agradeció y se despidió». Clasifica en DICE LA HISTORIA o INTERPRETO: a) la visita agradeció b) la visita se sintió muy querida.
+- **A1.** Historia: «Al irse, la visita agradeció y se despidió». Clasifica en DICE LA HISTORIA o INTERPRETO: a) la visita se sintió muy querida b) la visita agradeció.
 - **A2.** Una visita se presenta por su nombre en Estero Dulce. ¿Qué función social es? A) despedirse B) presentarse
-- **A3.** La historia no dice cómo se saluda en la lengua. ¿Qué escribes en los límites? A) se saluda de una forma inventada B) la historia no dice cómo se saluda en la lengua
+- **A3.** La historia no dice cómo se saluda en la lengua. ¿Qué escribes en los límites? A) la historia no dice cómo se saluda en la lengua B) se saluda de una forma inventada
 
 *Razonamiento y análisis*
 
@@ -378,11 +378,11 @@ Respuesta: Yo pienso que muestra respeto por la persona mayor.
 *Desafío*
 
 - **D1.** Dos frases sobre la historia de Estero Dulce. Una: «Se pregunta cómo estuvo el camino». Otra: «Se pregunta porque temen a los desconocidos». ¿Cuál se queda en la historia?
-- **D2.** La historia dice «hay una frase de bienvenida solo de la comunidad». ¿Qué haces con esa frase en tu trabajo? A) escribo que existe, sin inventarla B) la invento
+- **D2.** La historia dice «hay una frase de bienvenida solo de la comunidad». ¿Qué haces con esa frase en tu trabajo? A) la invento B) escribo que existe, sin inventarla
 
 *Situaciones auténticas*
 
-- **S1.** Un compañero pide que le cuentes la frase de bienvenida de Estero Dulce. ¿Qué respondes? A) que la historia dice que es solo de la comunidad B) que te la inventas
+- **S1.** Un compañero pide que le cuentes la frase de bienvenida de Estero Dulce. ¿Qué respondes? A) que te la inventas B) que la historia dice que es solo de la comunidad
 
 *Autoevaluación*
 
@@ -396,18 +396,18 @@ Respuesta: Yo pienso que muestra respeto por la persona mayor.
 
 - **R1.** A. La historia lo dice así.
 - **R2.** A. Se declara el límite.
-- **R3.** B. Marca lo propio.
+- **R3.** A. Marca lo propio.
 - **C1.** Verdadero. Es lo que yo pienso.
 - **C2.** Falso. Eso sería inventar.
-- **C3.** B. Eso muestra cómo se cuidan las personas.
-- **A1.** a dice la historia, b interpreto. La segunda es una suposición.
+- **C3.** A. Eso muestra cómo se cuidan las personas.
+- **A1.** b dice la historia, b interpreto. La segunda es una suposición.
 - **A2.** B. Presentarse es decir quién soy.
-- **A3.** B. Se declara lo que no se sabe.
+- **A3.** A. Se declara lo que no se sabe.
 - **Z1.** Marcarlo como opinión o quitarlo. La historia no dice eso.
 - **Z2.** B. Los límites muestran lo que no se sabe.
 - **D1.** La primera. La segunda inventa una razón.
-- **D2.** A. Se respeta lo reservado.
-- **S1.** A. La historia reserva esa frase.
+- **D2.** B. Se respeta lo reservado.
+- **S1.** B. La historia reserva esa frase.
 - **E1.** Lo que dice, lo que interpreto y lo que no se cuenta. Son los tres pasos.
 - **E2.** Verdadero. Es una función social de respeto.
 - **E3.** A. Ellos enseñan la lengua.
@@ -565,7 +565,7 @@ Respuesta: Agradecer.
 
 - **R1.** ¿Qué función usas al llegar a un lugar? A) saludar B) despedirse
 - **R2.** ¿Qué función usas cuando alguien te ayudó? A) agradecer B) pedir permiso
-- **R3.** ¿Qué función usas antes de entrar a una casa ajena? A) despedirte B) pedir permiso
+- **R3.** ¿Qué función usas antes de entrar a una casa ajena? A) pedir permiso B) despedirte
 
 *Comprensión*
 
@@ -576,28 +576,28 @@ Respuesta: Agradecer.
 *Aplicación*
 
 - **A1.** Relaciona la situación con la función: a) te vas de la casa de un vecino b) quieres usar el teléfono de la sede. Escribe DESPEDIRSE o PEDIR PERMISO para cada una.
-- **A2.** Completa la tabla: situación «llego a la sede», función ______. A) saludar B) agradecer
-- **A3.** Un vecino te regala pan. ¿Qué expresión atestiguada en mapuzugun puedes usar para agradecer? A) chaltumay B) mari mari
+- **A2.** Completa la tabla: situación «llego a la sede», función ______. A) agradecer B) saludar
+- **A3.** Un vecino te regala pan. ¿Qué expresión atestiguada en mapuzugun puedes usar para agradecer? A) mari mari B) chaltumay
 
 *Razonamiento y análisis*
 
 - **Z1.** Pía saluda con el mismo trato a una autoridad y a su compañero de banco. ¿Qué error comete?
-- **Z2.** Un niño pide permiso después de entrar. ¿Qué falla? A) debía pedir permiso antes de entrar B) no saludó con una canción
+- **Z2.** Un niño pide permiso después de entrar. ¿Qué falla? A) no saludó con una canción B) debía pedir permiso antes de entrar
 
 *Desafío*
 
-- **D1.** Tienes que planificar una visita: llegar, entrar, recibir una ayuda y irte. ¿Qué cuatro funciones usas en orden? A) agradecer, saludar, despedirse, pedir permiso B) saludar, pedir permiso, agradecer, despedirse
+- **D1.** Tienes que planificar una visita: llegar, entrar, recibir una ayuda y irte. ¿Qué cuatro funciones usas en orden? A) saludar, pedir permiso, agradecer, despedirse B) agradecer, saludar, despedirse, pedir permiso
 - **D2.** Una visita tiene 4 funciones sociales y repites cada una en 3 casas. ¿Cuántas veces usas funciones en total?
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso será recibido en la sede de la comunidad. Una compañera propone dar las gracias antes de saludar. ¿Qué le dices? A) que primero saludamos al llegar y luego agradecemos B) que está bien
+- **S1.** Tu curso será recibido en la sede de la comunidad. Una compañera propone dar las gracias antes de saludar. ¿Qué le dices? A) que está bien B) que primero saludamos al llegar y luego agradecemos
 
 *Autoevaluación*
 
 - **E1.** Nombra una función y una situación en que se usa.
 - **E2.** Verdadero o falso: «chaltumay» es una forma de agradecer en mapuzugun.
-- **E3.** ¿Quién enseña las funciones en la lengua de tu comunidad? A) un buscador B) el educador o la educadora tradicional
+- **E3.** ¿Quién enseña las funciones en la lengua de tu comunidad? A) el educador o la educadora tradicional B) un buscador
 
 **Actividad abierta.** Completa una tabla de tres columnas («Situación», «Función», «Persona») con estas cuatro situaciones: 1) llegas a la sede y hay una persona mayor; 2) quieres sentarte junto a la ventana de la sede y alguien ya está allí; 3) una vecina te regala una fruta; 4) te vas de la sede. Para la función de saludar y la de agradecer anota la expresión atestiguada que podrías usar y deja un espacio [expresión del educador] para las otras dos. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -605,21 +605,21 @@ Respuesta: Agradecer.
 
 - **R1.** A. Al llegar se saluda.
 - **R2.** A. Se reconoce la ayuda.
-- **R3.** B. Se pregunta antes de entrar.
+- **R3.** A. Se pregunta antes de entrar.
 - **C1.** Falso. Cada situación pide una función distinta.
 - **C2.** Verdadero. Esa es su definición.
 - **C3.** A. «Iorana» es un saludo; «maururu» agradece.
 - **A1.** a despedirse, b pedir permiso. Al irte te despides; para usar algo ajeno, pides permiso.
-- **A2.** A. Al llegar se saluda.
-- **A3.** A. «Chaltumay» agradece; «mari mari» saluda.
+- **A2.** B. Al llegar se saluda.
+- **A3.** B. «Chaltumay» agradece; «mari mari» saluda.
 - **Z1.** No adapta el trato a la persona. El trato cambia según el destinatario.
-- **Z2.** A. El permiso se pide antes.
-- **D1.** B. El orden sigue la visita.
+- **Z2.** B. El permiso se pide antes.
+- **D1.** A. El orden sigue la visita.
 - **D2.** 12 veces. Se multiplican las funciones por las casas. Cálculo: 4 × 3 = 12.
-- **S1.** A. Cada función va en su momento.
+- **S1.** B. Cada función va en su momento.
 - **E1.** Saludar al llegar; agradecer al recibir ayuda; pedir permiso antes de entrar. Son pares función-situación de la clase.
 - **E2.** Verdadero. Está atestiguada como agradecimiento.
-- **E3.** B. Ellos enseñan la lengua.
+- **E3.** A. Ellos enseñan la lengua.
 
 **Actividad abierta · ejemplo de respuesta.** 1) llegar / saludar (mari mari) / persona mayor. 2) pedir lugar / pedir permiso [expresión del educador] / la persona que ya está. 3) recibir fruta / agradecer (chaltumay) / vecina. 4) irse / despedirse [expresión del educador] / los presentes.
 
@@ -773,8 +773,8 @@ Respuesta: Falla porque generaliza: debe decir «según don Aníbal, en Estero D
 *Recuperación*
 
 - **R1.** ¿Cuántas partes tiene la reflexión atribuida de esta clase? Escribe el número.
-- **R2.** ¿Qué frase atribuye? A) «Todos saben…» B) «Según doña Silvia…»
-- **R3.** ¿Qué escribes si no tienes la expresión del educador? A) [expresión del educador] B) una inventada
+- **R2.** ¿Qué frase atribuye? A) «Según doña Silvia…» B) «Todos saben…»
+- **R3.** ¿Qué escribes si no tienes la expresión del educador? A) una inventada B) [expresión del educador]
 
 *Comprensión*
 
@@ -790,13 +790,13 @@ Respuesta: Falla porque generaliza: debe decir «según don Aníbal, en Estero D
 
 *Razonamiento y análisis*
 
-- **Z1.** Clara escribe «Yo pienso que es bonito» sin ninguna razón. ¿Qué le falta? A) más adjetivos B) una razón tomada de la historia
+- **Z1.** Clara escribe «Yo pienso que es bonito» sin ninguna razón. ¿Qué le falta? A) una razón tomada de la historia B) más adjetivos
 - **Z2.** Un grupo cierra su reflexión con una frase que inventaron en lengua indígena. ¿Qué error cometen?
 
 *Desafío*
 
 - **D1.** Dos reflexiones sobre Monte Claro. Una: «Según doña Silvia, los niños saludan; yo pienso que eso muestra respeto». Otra: «Todos los niños indígenas saludan». ¿Cuál está mejor atribuida?
-- **D2.** No sabes cómo se dice «gracias» en tu lengua. ¿Qué haces? A) uso cualquier palabra B) pregunto al educador
+- **D2.** No sabes cómo se dice «gracias» en tu lengua. ¿Qué haces? A) pregunto al educador B) uso cualquier palabra
 
 *Situaciones auténticas*
 
@@ -806,29 +806,29 @@ Respuesta: Falla porque generaliza: debe decir «según don Aníbal, en Estero D
 
 - **E1.** Escribe la fórmula de una reflexión atribuida con tus palabras.
 - **E2.** Verdadero o falso: el educador puede corregir mi reflexión.
-- **E3.** ¿Qué haces si dudas de cómo se escribe una expresión? A) pregunto al educador B) la cambio
+- **E3.** ¿Qué haces si dudas de cómo se escribe una expresión? A) la cambio B) pregunto al educador
 
 **Actividad abierta.** Lee esta historia inventada de doña Silvia, de Monte Claro: «Cuando llega una familia nueva, los vecinos la saludan y le ofrecen un lugar en la mesa. Al despedirse, la familia agradece la acogida». Escribe una reflexión de cuatro partes: fuente, reflexión con «yo pienso que… porque…», límite y cierre con una función social (usa chaltumay o deja un espacio para el educador). Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** 4. Son fuente, reflexión, límite y cierre.
-- **R2.** B. Nombra a la fuente.
-- **R3.** A. Se deja el espacio.
+- **R2.** A. Nombra a la fuente.
+- **R3.** B. Se deja el espacio.
 - **C1.** Verdadero. Sin razón no tiene fundamento.
 - **C2.** Falso. Una historia habla de una comunidad.
 - **C3.** A. La revisión evita errores.
 - **A1.** Saludan a los mayores. Repite el dato de la fuente.
 - **A2.** a fuente, b reflexión, c límite. Cada parte cumple un papel.
 - **A3.** B. «Chaltumay» sirve para agradecer.
-- **Z1.** B. Una reflexión necesita razón.
+- **Z1.** A. Una reflexión necesita razón.
 - **Z2.** Inventan una expresión. Solo se usan expresiones atestiguadas o validadas.
 - **D1.** La primera. La segunda generaliza.
-- **D2.** B. Él enseña la lengua.
+- **D2.** A. Él enseña la lengua.
 - **S1.** B. La validación evita errores.
 - **E1.** Según [fuente], …; yo pienso que… porque…; no sé…; cierro con [función]. Une las cuatro partes.
 - **E2.** Verdadero. Es parte de la revisión.
-- **E3.** A. Él valida la escritura.
+- **E3.** B. Él valida la escritura.
 
 **Actividad abierta · ejemplo de respuesta.** Según doña Silvia, los vecinos saludan a la familia nueva y le ofrecen un lugar. Yo pienso que así se siente acogida porque la reciben. No sé cómo se saluda en la lengua. Cierro con: chaltumay, doña Silvia, por contarnos la historia.
 
@@ -989,22 +989,22 @@ Respuesta: Falla porque jerarquiza; debe describir cómo se recibe en cada comun
 
 - **C1.** Verdadero o falso: contrastar dos historias es decidir cuál comunidad es mejor.
 - **C2.** Verdadero o falso: las funciones sociales existen en todas las comunidades, aunque se hagan de formas distintas.
-- **C3.** ¿Qué palabra conviene usar al hablar de una historia? A) «en esta historia» B) «siempre»
+- **C3.** ¿Qué palabra conviene usar al hablar de una historia? A) «siempre» B) «en esta historia»
 
 *Aplicación*
 
-- **A1.** Criterio «quién realiza la función». Monte Claro: los niños. Estero Dulce: la visita. ¿Qué diferencia hay? A) no hay diferencia B) en una la hacen los niños y en la otra la visita
+- **A1.** Criterio «quién realiza la función». Monte Claro: los niños. Estero Dulce: la visita. ¿Qué diferencia hay? A) en una la hacen los niños y en la otra la visita B) no hay diferencia
 - **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) ambas comunidades reciben a las personas con atención b) una saluda y la otra pregunta por el camino.
 - **A3.** Tercera historia sin ficha. ¿Qué haces antes de compararla? A) pido la ficha con fuente y permiso B) la comparo igual
 
 *Razonamiento y análisis*
 
 - **Z1.** Gonzalo escribe: «En todos los pueblos se saluda como en Monte Claro». ¿Qué error comete?
-- **Z2.** Valentina escribe que la forma de recibir de Estero Dulce es «más antigua». ¿Qué falla? A) no hay fuente que lo diga B) es muy corta
+- **Z2.** Valentina escribe que la forma de recibir de Estero Dulce es «más antigua». ¿Qué falla? A) es muy corta B) no hay fuente que lo diga
 
 *Desafío*
 
-- **D1.** Tabla con el criterio «función que aparece»: Monte Claro, saludar y agradecer; Estero Dulce, presentarse y despedirse. ¿Qué afirmación es correcta? A) las cuatro funciones aparecen entre ambas historias B) solo aparece saludar
+- **D1.** Tabla con el criterio «función que aparece»: Monte Claro, saludar y agradecer; Estero Dulce, presentarse y despedirse. ¿Qué afirmación es correcta? A) solo aparece saludar B) las cuatro funciones aparecen entre ambas historias
 - **D2.** Monte Claro tiene 2 funciones y Estero Dulce, 2. ¿Cuántas funciones hay entre las dos historias?
 
 *Situaciones auténticas*
@@ -1015,7 +1015,7 @@ Respuesta: Falla porque jerarquiza; debe describir cómo se recibe en cada comun
 
 - **E1.** Escribe una semejanza entre Monte Claro y Estero Dulce.
 - **E2.** Verdadero o falso: al contrastar usamos los mismos criterios con las dos historias.
-- **E3.** ¿Qué haces con una duda sobre cómo se hace en tu lengua? A) la anoto para el educador B) la invento
+- **E3.** ¿Qué haces con una duda sobre cómo se hace en tu lengua? A) la invento B) la anoto para el educador
 
 **Actividad abierta.** Contrasta estas dos historias inventadas. Monte Claro (doña Silvia): «Los niños saludan a los mayores al llegar y agradecen la comida al irse». Estero Dulce (don Aníbal): «La visita se presenta por su nombre y le preguntan por el camino; al irse, la invitan a volver». Haz una tabla con tres criterios: función que aparece, cómo se realiza y quién la hace. Escribe una semejanza y una diferencia sin «mejor» ni «más educado». Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -1026,18 +1026,18 @@ Respuesta: Falla porque jerarquiza; debe describir cómo se recibe en cada comun
 - **R3.** A. «En cambio» contrasta.
 - **C1.** Falso. Contrastar es describir semejanzas y diferencias.
 - **C2.** Verdadero. Hay diversidad de formas.
-- **C3.** A. Una historia no cubre todos los casos.
-- **A1.** B. Cambia quién la realiza.
+- **C3.** B. Una historia no cubre todos los casos.
+- **A1.** A. Cambia quién la realiza.
 - **A2.** a semejanza, b diferencia. La primera es común; la segunda, distinta.
 - **A3.** A. Sin ficha no se compara.
 - **Z1.** Generaliza una historia a todos los pueblos. Una historia no representa a todos.
-- **Z2.** A. No se afirma lo que no está.
-- **D1.** A. Entre ambas hay cuatro funciones.
+- **Z2.** B. No se afirma lo que no está.
+- **D1.** B. Entre ambas hay cuatro funciones.
 - **D2.** 4 funciones. Se suman las funciones de cada una. Cálculo: 2 + 2 = 4.
 - **S1.** B. No se jerarquizan las formas.
 - **E1.** Ambas reciben a las personas con atención. Aparece en las dos historias.
 - **E2.** Verdadero. Así la comparación es justa.
-- **E3.** A. Se consulta a quien sabe.
+- **E3.** B. Se consulta a quien sabe.
 
 **Actividad abierta · ejemplo de respuesta.** Funciones: M saludar y agradecer; E presentarse y despedirse. Cómo: M saludan y agradecen; E se presentan y preguntan por el camino. Quién: M los niños; E la visita. Semejanza: en ambas se recibe y se despide con atención. Diferencia: en M saludan los niños; en E se presenta la visita.
 

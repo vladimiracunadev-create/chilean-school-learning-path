@@ -171,7 +171,7 @@ Respuesta: Escribo «ko» como aparece en la ficha.
 
 *Situaciones auténticas*
 
-- **S1.** Quieres escribir un cartel con una palabra de la lengua de tu comunidad. ¿Qué haces primero? A) pedirle al educador tradicional cómo se escribe B) buscar una palabra parecida y copiarla
+- **S1.** Quieres escribir un cartel con una palabra de la lengua de tu comunidad. ¿Qué haces primero? A) buscar una palabra parecida y copiarla B) pedirle al educador tradicional cómo se escribe
 
 *Autoevaluación*
 
@@ -196,7 +196,7 @@ Respuesta: Escribo «ko» como aparece en la ficha.
 - **Z2.** A. Hay más de una escritura en uso.
 - **D1.** A. No se inventan palabras de una lengua real.
 - **D2.** A. Puede haber más de una escritura.
-- **S1.** A. La fuente adecuada es quien la enseña.
+- **S1.** B. La fuente adecuada es quien la enseña.
 - **E1.** Porque es inventada y no es de ningún pueblo. Solo sirve para practicar.
 - **E2.** Verdadero. El ejemplo es mapuzugun y mapudungun.
 - **E3.** Río. Lo dice la regla.
@@ -356,7 +356,7 @@ Respuesta: tor-vi
 
 *Comprensión*
 
-- **C1.** Aglutinar significa: A) pegar piezas con significado B) borrar piezas
+- **C1.** Aglutinar significa: A) borrar piezas B) pegar piezas con significado
 - **C2.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. ¿Qué significa «ka-nem»?
 - **C3.** Verdadero o falso: en «paraguas», las dos partes conservan su sentido.
 
@@ -393,7 +393,7 @@ Respuesta: tor-vi
 - **R1.** Pájaro. Lo dice la regla.
 - **R2.** Muchos. Lo dice la regla.
 - **R3.** A. La palabra une dos partes.
-- **C1.** A. Aglutinar es pegar.
+- **C1.** B. Aglutinar es pegar.
 - **C2.** Mi río. ka = mi y nem = río.
 - **C3.** Verdadero. Para + aguas.
 - **A1.** pak + ra: casas. pak es casa y -ra es muchos.
@@ -557,14 +557,14 @@ Respuesta: Generaliza; cada lengua forma sus palabras a su manera.
 
 *Recuperación*
 
-- **R1.** Se suele explicar que «mapu» significa: A) tierra B) agua
+- **R1.** Se suele explicar que «mapu» significa: A) agua B) tierra
 - **R2.** Se suele explicar que «che» significa: A) gente B) casa
 - **R3.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. En «ka-pak-tu», ¿qué significa «tu»?
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: «mapuche» se suele explicar como «mapu» + «che».
-- **C2.** ¿Qué hago con una explicación de palabras que encuentro en un libro? A) la confirmo con el educador tradicional B) la repito como si fuera segura
+- **C2.** ¿Qué hago con una explicación de palabras que encuentro en un libro? A) la repito como si fuera segura B) la confirmo con el educador tradicional
 - **C3.** Verdadero o falso: una lengua que junta mucho en una palabra es mejor que una que usa varias palabras.
 
 *Aplicación*
@@ -597,11 +597,11 @@ Respuesta: Generaliza; cada lengua forma sus palabras a su manera.
 
 **Solucionario razonado**
 
-- **R1.** A. Mapu es tierra.
+- **R1.** B. Mapu es tierra.
 - **R2.** A. Che es gente.
 - **R3.** Pequeño. Lo dice la regla de Tolu.
 - **C1.** Verdadero. Esa es la explicación común.
-- **C2.** A. Debe validarla quien conoce la lengua.
+- **C2.** B. Debe validarla quien conoce la lengua.
 - **C3.** Falso. Son maneras distintas, no mejores ni peores.
 - **A1.** Habla de la tierra. Mapu es tierra y zugun es habla.
 - **A2.** ka-pak-tu: ka + pak + tu. Mi, casa y pequeño.
@@ -770,7 +770,7 @@ Respuesta: nem-nem-vi
 
 *Comprensión*
 
-- **C1.** La reduplicación es: A) repetir una palabra o parte de ella B) cortar una palabra
+- **C1.** La reduplicación es: A) cortar una palabra B) repetir una palabra o parte de ella
 - **C2.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. Verdadero o falso: «tor-tor» significa «muchos caminos».
 - **C3.** Una etiqueta es: A) una frase corta que nombra lo que se ve B) un cuento largo
 
@@ -807,7 +807,7 @@ Respuesta: nem-nem-vi
 - **R1.** pak-pak. Se repite la raíz.
 - **R2.** Río muy grande. Raíz repetida significa muy grande.
 - **R3.** A. La repetición aumenta el sentido.
-- **C1.** A. Repetir cambia el significado.
+- **C1.** B. Repetir cambia el significado.
 - **C2.** Falso. Significa camino muy grande.
 - **C3.** A. Las etiquetas nombran.
 - **A1.** ka-pak-tu. ka + pak + tu.
@@ -973,24 +973,24 @@ Respuesta: «Algunas lenguas arman palabras pegando piezas; otras lo hacen de ot
 
 - **R1.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. ¿Cuál palabra pega piezas: «ka-pak-tu» o «pak-pak»?
 - **R2.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. ¿Cuál palabra repite la raíz: «tor-tor» o «ka-tor»?
-- **R3.** Contrastar significa: A) ver semejanzas y diferencias B) elegir la mejor
+- **R3.** Contrastar significa: A) elegir la mejor B) ver semejanzas y diferencias
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: «paraguas» pega partes y «grande grande» repite.
 - **C2.** Verdadero o falso: una lengua con palabras largas es más difícil.
-- **C3.** ¿Cuál es un criterio neutro? A) cómo se arma la palabra B) cuál es más bonita
+- **C3.** ¿Cuál es un criterio neutro? A) cuál es más bonita B) cómo se arma la palabra
 
 *Aplicación*
 
-- **A1.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. Compara «ka-nem» y «nem-nem». ¿Qué cambia en cada una? A) ka-nem agrega quién tiene y nem-nem cambia el tamaño B) ka-nem cambia el tamaño y nem-nem agrega quién tiene
+- **A1.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. Compara «ka-nem» y «nem-nem». ¿Qué cambia en cada una? A) ka-nem cambia el tamaño y nem-nem agrega quién tiene B) ka-nem agrega quién tiene y nem-nem cambia el tamaño
 - **A2.** Reglas de la lengua de práctica Tolu (inventada; no es de ningún pueblo): pak = casa; nem = río; lun = pájaro; tor = camino. Piezas que se pegan a la raíz: ka- = mi (va al comienzo); -tu = pequeño (va después de la raíz); -ra = muchos (va después de la raíz); -vi = en (siempre va al final). Si se repite la raíz, significa «muy grande». Orden: ka- + raíz + -tu o -ra + -vi. Une cada palabra con su forma. 1) tor-tor 2) ka-tor-vi. a) aglutinación b) reduplicación
-- **A3.** ¿Cuál es una semejanza entre aglutinar y reduplicar? A) las dos arman o cambian palabras B) las dos pegan piezas distintas a la raíz
+- **A3.** ¿Cuál es una semejanza entre aglutinar y reduplicar? A) las dos pegan piezas distintas a la raíz B) las dos arman o cambian palabras
 
 *Razonamiento y análisis*
 
 - **Z1.** Pablo dice: «La reduplicación es una forma infantil de hablar». ¿Qué error comete?
-- **Z2.** Una compañera dice: «Todas las lenguas indígenas pegan piezas como Tolu». ¿Qué falla? A) generaliza B) tiene razón
+- **Z2.** Una compañera dice: «Todas las lenguas indígenas pegan piezas como Tolu». ¿Qué falla? A) tiene razón B) generaliza
 
 *Desafío*
 
@@ -999,7 +999,7 @@ Respuesta: «Algunas lenguas arman palabras pegando piezas; otras lo hacen de ot
 
 *Situaciones auténticas*
 
-- **S1.** Un compañero dice que cierta lengua indígena es «más difícil» porque tiene palabras largas. ¿Qué le propones? A) mirar cómo se arman esas palabras con ayuda del educador tradicional B) estar de acuerdo
+- **S1.** Un compañero dice que cierta lengua indígena es «más difícil» porque tiene palabras largas. ¿Qué le propones? A) estar de acuerdo B) mirar cómo se arman esas palabras con ayuda del educador tradicional
 
 *Autoevaluación*
 
@@ -1013,18 +1013,18 @@ Respuesta: «Algunas lenguas arman palabras pegando piezas; otras lo hacen de ot
 
 - **R1.** ka-pak-tu. Tiene varias piezas pegadas.
 - **R2.** tor-tor. Esa palabra repite la raíz tor.
-- **R3.** A. Contrastar no jerarquiza.
+- **R3.** B. Contrastar no jerarquiza.
 - **C1.** Verdadero. Son ejemplos del castellano.
 - **C2.** Falso. Es una forma distinta de armar palabras.
-- **C3.** A. Se puede comprobar en la palabra.
-- **A1.** A. Una pieza cambia quién tiene y la repetición cambia el tamaño.
+- **C3.** B. Se puede comprobar en la palabra.
+- **A1.** B. Una pieza cambia quién tiene y la repetición cambia el tamaño.
 - **A2.** 1-b, 2-a. Una repite la raíz y la otra pega piezas.
-- **A3.** A. La B solo describe la aglutinación.
+- **A3.** B. La B solo describe la aglutinación.
 - **Z1.** Jerarquiza y descalifica. Muchas lenguas la usan de manera regular.
-- **Z2.** A. Cada lengua tiene sus propias formas.
+- **Z2.** B. Cada lengua tiene sus propias formas.
 - **D1.** A. La A describe.
 - **D2.** A. Se necesita una fuente real.
-- **S1.** A. Comprender la forma evita los juicios.
+- **S1.** B. Comprender la forma evita los juicios.
 - **E1.** Una pega piezas distintas y la otra repite. Son dos formas de armar palabras.
 - **E2.** Falso. Eso es jerarquizar lenguas.
 - **E3.** lun-lun. Se repite la raíz.

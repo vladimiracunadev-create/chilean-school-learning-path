@@ -784,7 +784,7 @@ Respuesta: Según la ficha, «choclo» viene del quechua.
 
 *Aplicación*
 
-- **A1.** Texto de práctica (inventado): «Marta comió choclo en la pampa.» Pregunta: ¿dónde comió Marta? Elige: A) «El texto dice que comió en la pampa.» B) «Creo que en su casa.»
+- **A1.** Texto de práctica (inventado): «Marta comió choclo en la pampa.» Pregunta: ¿dónde comió Marta? Elige: A) «Creo que en su casa.» B) «El texto dice que comió en la pampa.»
 - **A2.** Pregunta: ¿qué comió Marta (mismo texto)? Responde empezando con «El texto dice».
 - **A3.** Pregunta: ¿de qué lengua viene «choclo»? Elige: A) «Según la ficha, del quechua.» B) «Del inglés.»
 
@@ -818,7 +818,7 @@ Respuesta: Según la ficha, «choclo» viene del quechua.
 - **C1.** Falso. Cada pueblo es distinto.
 - **C2.** A. A dice de dónde viene el dato.
 - **C3.** decir que es mío algo de otros. Es tomar lo que es de otros.
-- **A1.** A. A usa el texto.
+- **A1.** B. A usa el texto.
 - **A2.** El texto dice que comió choclo.. Empieza con la evidencia y usa lo que dice el texto.
 - **A3.** A. La ficha lo dice.
 - **Z1.** generaliza. Dice algo de todos sin saberlo.
@@ -993,7 +993,7 @@ Respuesta: Hoy hay pueblos originarios en Chile.
 
 *Aplicación*
 
-- **A1.** Corrige la frase «Guagua es una comida» usando la ficha: elige A) «Guagua es un bebé.» B) «Guagua es un animal.»
+- **A1.** Corrige la frase «Guagua es una comida» usando la ficha: elige A) «Guagua es un animal.» B) «Guagua es un bebé.»
 - **A2.** Texto: «Pudú es un ciervo muy grande.» Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. ¿Qué palabra está mal?
 - **A3.** Revisaste 5 textos y encontraste errores en 2. ¿Cuántos estaban bien?
 
@@ -1027,7 +1027,7 @@ Respuesta: Hoy hay pueblos originarios en Chile.
 - **C1.** Falso. Usamos muchas todos los días.
 - **C2.** una flor roja. La ficha dice que es una flor roja del sur.
 - **C3.** Sí. Ignora que hoy hay pueblos originarios.
-- **A1.** A. A coincide con la ficha.
+- **A1.** B. A coincide con la ficha.
 - **A2.** grande. La ficha dice que es muy pequeño.
 - **A3.** 3. 5 − 2 = 3.
 - **Z1.** No. Hay que revisar igual con la ficha.

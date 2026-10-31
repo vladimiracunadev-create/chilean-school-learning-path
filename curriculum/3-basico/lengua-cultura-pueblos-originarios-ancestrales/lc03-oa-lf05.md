@@ -145,7 +145,7 @@ Respuesta: La voz de la educadora; pedir permiso
 
 *Recuperación*
 
-- **R1.** El mensaje es: A) la idea que quiero comunicar B) el color de la hoja.
+- **R1.** El mensaje es: A) el color de la hoja B) la idea que quiero comunicar.
 - **R2.** La audiencia son: A) las personas para quienes hago algo B) los lápices.
 - **R3.** Antes de grabar la voz de alguien, ¿pido permiso o grabo sin avisar?
 
@@ -153,7 +153,7 @@ Respuesta: La voz de la educadora; pedir permiso
 
 - **C1.** Verdadero o falso: al terminar mi creación debo subirla de inmediato a internet.
 - **C2.** Plan: mensaje «Gracias, educadora»; audiencia: mi curso. ¿Cuál es la audiencia?
-- **C3.** ¿Qué es resguardar: A) cuidar lo que no puedo mostrar sin permiso B) mostrarlo todo?
+- **C3.** ¿Qué es resguardar: A) mostrarlo todo B) cuidar lo que no puedo mostrar sin permiso?
 
 *Aplicación*
 
@@ -185,12 +185,12 @@ Respuesta: La voz de la educadora; pedir permiso
 
 **Solucionario razonado**
 
-- **R1.** A. Mensaje es lo que quiero decir.
+- **R1.** B. Mensaje es lo que quiero decir.
 - **R2.** A. Audiencia es el público.
 - **R3.** pido permiso. Su voz se cuida.
 - **C1.** Falso. Se queda en casa o en el curso, con un adulto.
 - **C2.** mi curso. Es para quién está hecho el mensaje.
-- **C3.** A. Resguardar es cuidar.
+- **C3.** B. Resguardar es cuidar.
 - **A1.** 1. Resto las respondidas. Cálculo: 3 − 2 = 1.
 - **A2.** A. Las imágenes de las personas se cuidan.
 - **A3.** B, A. El mensaje es «Gracias» y la audiencia es mi curso.
@@ -354,7 +354,7 @@ Respuesta: De cada compañero que aparece y de un adulto
 
 *Recuperación*
 
-- **R1.** Si quiero que se escuche mi voz, uso: A) audio B) un dibujo mudo.
+- **R1.** Si quiero que se escuche mi voz, uso: A) un dibujo mudo B) audio.
 - **R2.** Palabras escritas son un: A) texto B) audio.
 - **R3.** Para usar la voz de otra persona, ¿pido permiso o no hace falta?
 
@@ -394,7 +394,7 @@ Respuesta: De cada compañero que aparece y de un adulto
 
 **Solucionario razonado**
 
-- **R1.** A. El audio registra la voz.
+- **R1.** B. El audio registra la voz.
 - **R2.** A. El texto se escribe.
 - **R3.** pido permiso. Su voz se cuida.
 - **C1.** Falso. También puede hacerse con papel, lápiz y mi voz.
@@ -564,7 +564,7 @@ Respuesta: 15 segundos
 *Recuperación*
 
 - **R1.** Un guion tiene saludo, mensaje y: A) cierre B) dirección.
-- **R2.** El texto de lo que voy a decir se llama: A) guion B) archivo.
+- **R2.** El texto de lo que voy a decir se llama: A) archivo B) guion.
 - **R3.** Un archivo con mi grabación, ¿lo nombro con mi dirección o con un nombre simple?
 
 *Comprensión*
@@ -576,7 +576,7 @@ Respuesta: 15 segundos
 *Aplicación*
 
 - **A1.** El saludo dura 3 segundos, el mensaje 10 segundos y el cierre 3 segundos. ¿Cuántos segundos dura el registro?
-- **A2.** Elige el mejor nombre de archivo: A) saludo_curso B) Luisa_Pérez_calle_Los_Pinos_12.
+- **A2.** Elige el mejor nombre de archivo: A) Luisa_Pérez_calle_Los_Pinos_12 B) saludo_curso.
 - **A3.** Un minuto tiene 60 segundos. Tu registro dura 25 segundos. ¿Cuántos segundos le faltan para completar un minuto?
 
 *Razonamiento y análisis*
@@ -604,13 +604,13 @@ Respuesta: 15 segundos
 **Solucionario razonado**
 
 - **R1.** A. La tercera parte es el cierre.
-- **R2.** A. Guion es el texto del registro.
+- **R2.** B. Guion es el texto del registro.
 - **R3.** con un nombre simple. Evito datos personales.
 - **C1.** Falso. Se queda en casa o en el curso.
 - **C2.** chaltumay. Es la última parte.
 - **C3.** la mía. Solo grabo mi propia voz.
 - **A1.** 16. Sumo las tres partes. Cálculo: 3 + 10 + 3 = 16.
-- **A2.** A. A no lleva datos personales.
+- **A2.** B. A no lleva datos personales.
 - **A3.** 35. Resto lo que dura de 60. Cálculo: 60 − 25 = 35.
 - **Z1.** No. Son datos personales que no se ponen.
 - **Z2.** borrar la grabación y pedir permiso. Su voz se cuida.
@@ -772,8 +772,8 @@ Respuesta: El texto escrito de lo que digo
 
 *Recuperación*
 
-- **R1.** Las tres cosas que reviso son lengua, autoría y: A) acceso B) color.
-- **R2.** La autoría dice: A) quién hizo cada parte B) cuántas hojas tiene.
+- **R1.** Las tres cosas que reviso son lengua, autoría y: A) color B) acceso.
+- **R2.** La autoría dice: A) cuántas hojas tiene B) quién hizo cada parte.
 - **R3.** Decir quién hizo algo o de dónde viene se llama: A) crédito B) cierre.
 
 *Comprensión*
@@ -812,8 +812,8 @@ Respuesta: El texto escrito de lo que digo
 
 **Solucionario razonado**
 
-- **R1.** A. La tercera es el acceso.
-- **R2.** A. Autoría es quién lo hizo.
+- **R1.** B. La tercera es el acceso.
+- **R2.** B. Autoría es quién lo hizo.
 - **R3.** A. El crédito reconoce a la fuente.
 - **C1.** Falso. Algunas personas necesitan texto.
 - **C2.** Sí. «Ko» está copiada igual y es agua.

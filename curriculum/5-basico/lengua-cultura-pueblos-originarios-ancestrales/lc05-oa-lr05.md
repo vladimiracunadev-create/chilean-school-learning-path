@@ -164,7 +164,7 @@ Respuesta: No: faltan el pueblo, el territorio y una fuente clara
 *Razonamiento y análisis*
 
 - **Z1.** Un estudiante escribe sobre la ficha A: «Todos los mapuche saludan así en todas partes». ¿Qué sabemos con seguridad: solo lo de la Comunidad Ejemplo o lo de todos los mapuche?
-- **Z2.** A un niño se le olvidó quién le contó un uso de la lengua. ¿Qué es mejor: A) contarlo igual o B) preguntar otra vez por la fuente antes de contarlo?
+- **Z2.** A un niño se le olvidó quién le contó un uso de la lengua. ¿Qué es mejor: A) preguntar otra vez por la fuente antes de contarlo o B) contarlo igual?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: No: faltan el pueblo, el territorio y una fuente clara
 - **A2.** los tres. La ficha B no indica pueblo ni territorio, y «me contaron» no es una fuente.
 - **A3.** B, C, A. Primero ubico pueblo y territorio, luego la fuente y al final escribo el uso.
 - **Z1.** solo lo de la Comunidad Ejemplo. La ficha describe una sola comunidad.
-- **Z2.** B. Sin fuente no se puede comprobar ni pedir permiso.
+- **Z2.** A. Sin fuente no se puede comprobar ni pedir permiso.
 - **D1.** No. Describen comunidades de pueblos distintos y cada una vale para la suya.
 - **D2.** 12. Se restan las completas del total. Cálculo: 30 − 18 = 12.
 - **S1.** anotar pueblo, territorio y fuente. Primero se ubica y se cita la fuente.
@@ -577,7 +577,7 @@ Respuesta: no es correcto: la pertenencia no depende de cuánto se habla la leng
 
 - **A1.** Ficha de espacios (inventada para practicar), Comunidad Ejemplo. Espacio 1, la casa: personas mayores conversan con sus nietas y nietos en la lengua. Espacio 2, la escuela: un taller con la educadora tradicional. Espacio 3, la radio: un programa semanal que también se escucha en casas lejanas del territorio. Espacio 4, la sede comunitaria: cada reunión comienza con un saludo en la lengua. Espacio 5, la entrada de la sede: un letrero que dice «Bienvenidos» en castellano y en la lengua. Une cada espacio con su aporte: A) la escuela, B) la radio, C) el letrero. Aportes: 1) llega lejos, 2) hace visible la lengua, 3) da práctica guiada. Escribe los tres pares.
 - **A2.** Ficha de espacios (inventada para practicar), Comunidad Ejemplo. Espacio 1, la casa: personas mayores conversan con sus nietas y nietos en la lengua. Espacio 2, la escuela: un taller con la educadora tradicional. Espacio 3, la radio: un programa semanal que también se escucha en casas lejanas del territorio. Espacio 4, la sede comunitaria: cada reunión comienza con un saludo en la lengua. Espacio 5, la entrada de la sede: un letrero que dice «Bienvenidos» en castellano y en la lengua. La ficha tiene 5 espacios. La casa y la escuela son 2 de ellos. ¿Cuántos son los otros espacios de la ficha?
-- **A3.** En una comunidad inventada una persona dice: «Me enseñaron un saludo y quiero devolver algo». ¿Qué acción muestra reciprocidad: A) agradecer a quien enseñó y cuidar lo aprendido, o B) usar el saludo en un video sin pedir permiso?
+- **A3.** En una comunidad inventada una persona dice: «Me enseñaron un saludo y quiero devolver algo». ¿Qué acción muestra reciprocidad: A) usar el saludo en un video sin pedir permiso o B) agradecer a quien enseñó y cuidar lo aprendido,?
 
 *Razonamiento y análisis*
 
@@ -611,7 +611,7 @@ Respuesta: no es correcto: la pertenencia no depende de cuánto se habla la leng
 - **C3.** Falso. La pertenencia no se mide por cuánto se habla.
 - **A1.** A-3, B-1, C-2. El taller guía la práctica, la radio llega lejos y el letrero hace visible.
 - **A2.** 3. Cinco menos dos.
-- **A3.** A. Reciprocidad es devolver con respeto.
+- **A3.** B. Reciprocidad es devolver con respeto.
 - **Z1.** No. Cada espacio aporta ocasiones distintas.
 - **Z2.** Sí. La casa es un espacio donde se escucha y se practica.
 - **D1.** Bruno. La lengua es parte de la identidad, pero la pertenencia no se mide por hablarla.

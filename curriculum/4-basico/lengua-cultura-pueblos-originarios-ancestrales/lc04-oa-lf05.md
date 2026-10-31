@@ -144,7 +144,7 @@ Respuesta: La voz del vecino y la dirección
 *Recuperación*
 
 - **R1.** El mensaje es: A) la idea que quiero comunicar B) el aparato que uso.
-- **R2.** La audiencia es: A) quien va a ver o escuchar mi creación B) quien la fabricó.
+- **R2.** La audiencia es: A) quien la fabricó B) quien va a ver o escuchar mi creación.
 - **R3.** Según la ficha, «chaltumay» significa: A) gracias B) sol.
 
 *Comprensión*
@@ -162,12 +162,12 @@ Respuesta: La voz del vecino y la dirección
 *Razonamiento y análisis*
 
 - **Z1.** Dos mensajes: 1) «chaltumay es gracias» 2) «chaltumay es gracias, el antü es sol, la ruka es casa y hoy llueve». ¿Cuál tiene un mensaje más claro?
-- **Z2.** Rita quiere poner la foto de su compañero en una tarjeta. ¿Qué debe hacer primero: A) pedir permiso B) cambiar el color?
+- **Z2.** Rita quiere poner la foto de su compañero en una tarjeta. ¿Qué debe hacer primero: A) cambiar el color B) pedir permiso?
 
 *Desafío*
 
 - **D1.** Un grupo tiene 12 ideas posibles y elige 1 mensaje. ¿Cuántas ideas deja fuera?
-- **D2.** Una persona dice que cada expresión sirve para cualquier momento. ¿Qué debe hacer: A) consultar al educador tradicional cuándo se usa B) afirmarlo sin saber?
+- **D2.** Una persona dice que cada expresión sirve para cualquier momento. ¿Qué debe hacer: A) afirmarlo sin saber B) consultar al educador tradicional cuándo se usa?
 
 *Situaciones auténticas*
 
@@ -184,7 +184,7 @@ Respuesta: La voz del vecino y la dirección
 **Solucionario razonado**
 
 - **R1.** A. El mensaje es la idea.
-- **R2.** A. Audiencia significa quién la recibe.
+- **R2.** B. Audiencia significa quién la recibe.
 - **R3.** A. La ficha dice gracias en mapuzugun.
 - **C1.** Falso. Mi creación se queda en el aula o en casa.
 - **C2.** A. Resguardo es cuidado.
@@ -193,9 +193,9 @@ Respuesta: La voz del vecino y la dirección
 - **A2.** rapa nui. La ficha dice que iorana es rapa nui.
 - **A3.** 8. Multiplico tarjetas por datos. Cálculo: 4 × 2 = 8.
 - **Z1.** 1. Una sola idea se entiende mejor.
-- **Z2.** A. La imagen de otra persona necesita permiso.
+- **Z2.** B. La imagen de otra persona necesita permiso.
 - **D1.** 11. Elegir uno deja las demás fuera. Cálculo: 12 − 1 = 11.
-- **D2.** A. El uso lo enseña quien conoce la lengua.
+- **D2.** B. El uso lo enseña quien conoce la lengua.
 - **S1.** «chaltumay es gracias». Una sola idea clara.
 - **E1.** mensaje. Es el mensaje.
 - **E2.** mensaje, audiencia y resguardo. Son los tres pasos de la clase.
@@ -350,7 +350,7 @@ Respuesta: Que el dibujo es de Nora
 
 *Recuperación*
 
-- **R1.** Un recurso es: A) algo que uso en mi creación B) una persona.
+- **R1.** Un recurso es: A) una persona B) algo que uso en mi creación.
 - **R2.** Un dibujo que hice yo, ¿es un recurso seguro: sí o no?
 - **R3.** Si no sé quién hizo un sonido, ¿lo uso o no lo uso?
 
@@ -369,7 +369,7 @@ Respuesta: Que el dibujo es de Nora
 *Razonamiento y análisis*
 
 - **Z1.** Eva usa un dibujo suyo. Gaspar usa un símbolo que encontró sin saber de dónde viene. ¿Quién respetó la autoría?
-- **Z2.** Una persona dice que puede usar una canción porque «está a mano». ¿Qué le falta: A) permiso B) un aparato nuevo?
+- **Z2.** Una persona dice que puede usar una canción porque «está a mano». ¿Qué le falta: A) un aparato nuevo B) permiso?
 
 *Desafío*
 
@@ -390,7 +390,7 @@ Respuesta: Que el dibujo es de Nora
 
 **Solucionario razonado**
 
-- **R1.** A. Imagen, sonido o texto son recursos.
+- **R1.** B. Imagen, sonido o texto son recursos.
 - **R2.** sí. Lo hice yo.
 - **R3.** no lo uso. No hay permiso ni procedencia.
 - **C1.** Falso. Puede tener autoría y permisos.
@@ -400,7 +400,7 @@ Respuesta: Que el dibujo es de Nora
 - **A2.** 4. Resto los sin permiso del total. Cálculo: 6 − 2 = 4.
 - **A3.** B, A. Primero pregunto y solo después lo uso.
 - **Z1.** Eva. Eva usó algo propio.
-- **Z2.** A. Estar a mano no es permiso.
+- **Z2.** B. Estar a mano no es permiso.
 - **D1.** 13. Resto los que necesitan permiso del total. Cálculo: 18 − 5 = 13.
 - **D2.** no. El permiso es solo para el aula.
 - **S1.** «dibujo uno yo». Es un recurso propio y con permiso.
@@ -581,7 +581,7 @@ Respuesta: 30 segundos
 *Desafío*
 
 - **D1.** Un audio dura 45 segundos y quieres que dure 30. ¿Cuántos segundos debes quitar?
-- **D2.** Quieres decir una frase en lengua indígena en tu audio y no sabes cómo se pronuncia. ¿Qué haces: A) lo practico con el educador tradicional B) la invento?
+- **D2.** Quieres decir una frase en lengua indígena en tu audio y no sabes cómo se pronuncia. ¿Qué haces: A) la invento B) lo practico con el educador tradicional?
 
 *Situaciones auténticas*
 
@@ -609,7 +609,7 @@ Respuesta: 30 segundos
 - **Z1.** 1. Tiene las tres partes.
 - **Z2.** A. La voz de una persona necesita permiso.
 - **D1.** 15. Resto el tiempo que sobra. Cálculo: 45 − 30 = 15.
-- **D2.** A. No puedo inventar su sonido.
+- **D2.** B. No puedo inventar su sonido.
 - **S1.** un guion con tres partes. El guion ayuda a ordenar y cumplir el tiempo.
 - **E1.** inicio, mensaje y cierre. Son las partes de la clase.
 - **E2.** 60. Un minuto tiene 60 segundos.
@@ -782,7 +782,7 @@ Respuesta: Una versión escrita del audio
 
 *Razonamiento y análisis*
 
-- **Z1.** Una tarjeta tiene letras muy pequeñas. ¿Qué parte de la revisión falla: A) acceso B) autoría?
+- **Z1.** Una tarjeta tiene letras muy pequeñas. ¿Qué parte de la revisión falla: A) autoría B) acceso?
 - **Z2.** Eva revisó solo la lengua. Gaspar revisó lengua, autoría y acceso. ¿Quién hizo una revisión completa?
 
 *Desafío*
@@ -813,7 +813,7 @@ Respuesta: Una versión escrita del audio
 - **A1.** acceso. Letras grandes y versión escrita ayudan a que más personas la entiendan.
 - **A2.** 2. Resto los bien de los revisados. Cálculo: 5 − 3 = 2.
 - **A3.** una versión escrita. El texto se lee sin aparato.
-- **Z1.** A. Letras pequeñas dificultan leer.
+- **Z1.** B. Letras pequeñas dificultan leer.
 - **Z2.** Gaspar. Revisó las tres partes.
 - **D1.** 2. Resto las aprobadas del total. Cálculo: 8 − 6 = 2.
 - **D2.** A. Él o ella conoce la lengua.
@@ -995,7 +995,7 @@ Respuesta: Un cartel en papel o una exposición oral
 *Desafío*
 
 - **D1.** De 10 estudiantes, 6 adaptaron su mensaje a otra audiencia. ¿Cuántos faltan?
-- **D2.** Una persona quiere compartir en internet su adaptación. ¿Qué debe hacer primero: A) pedir permiso al educador y a un adulto B) subirla?
+- **D2.** Una persona quiere compartir en internet su adaptación. ¿Qué debe hacer primero: A) subirla B) pedir permiso al educador y a un adulto?
 
 *Situaciones auténticas*
 
@@ -1023,7 +1023,7 @@ Respuesta: Un cartel en papel o una exposición oral
 - **Z1.** Eva. Adaptó forma y extensión.
 - **Z2.** A. No debe inventar palabras.
 - **D1.** 4. Resto los que adaptaron. Cálculo: 10 − 6 = 4.
-- **D2.** A. No se publica sin permiso.
+- **D2.** B. No se publica sin permiso.
 - **S1.** «un cartel grande con dibujo». Es accesible para esa condición.
 - **E1.** el mensaje. La idea sigue igual.
 - **E2.** papel o mi voz. Son otros medios.

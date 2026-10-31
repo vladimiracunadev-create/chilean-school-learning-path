@@ -152,24 +152,24 @@ Respuesta: Tres partes: qué es, cómo se organiza y qué significa para la comu
 *Comprensión*
 
 - **C1.** Verdadero o falso: analizar un tema es separarlo en partes y explicar cada una.
-- **C2.** ¿Cuál es un aspecto sociocultural? A) el color de tu lápiz B) cómo una comunidad organiza el trabajo del riego
+- **C2.** ¿Cuál es un aspecto sociocultural? A) cómo una comunidad organiza el trabajo del riego B) el color de tu lápiz
 - **C3.** Verdadero o falso: de los aspectos espirituales se puede exponer todo lo que uno encuentre.
 
 *Aplicación*
 
-- **A1.** Una ficha trae comunidad y tema, pero no fuente ni permiso. ¿Qué haces primero? A) pido esos datos antes de exponer B) expongo igual
+- **A1.** Una ficha trae comunidad y tema, pero no fuente ni permiso. ¿Qué haces primero? A) expongo igual B) pido esos datos antes de exponer
 - **A2.** Clasifica en TEMA, FUENTE o LÍMITE: a) don Teodoro b) la pesca en bote pequeño c) no se exponen los lugares de respeto.
 - **A3.** Tema: la pesca en bote pequeño en Lago Espejo. Si lo dividieras en tres partes, ¿cuál sirve como segunda? A) cómo se organiza la salida de los botes B) un chiste sobre peces
 
 *Razonamiento y análisis*
 
 - **Z1.** Julián va a exponer ante sus compañeros y ante una autoridad tradicional, y piensa hablar igual con ambos. ¿Qué debería considerar? A) nada B) la audiencia, porque cambia la manera de hablar
-- **Z2.** Ana dice: «Expongo todo lo que sé de la comunidad porque lo vi en un video». ¿Qué falta? A) fuente, permiso y límites B) más imágenes
+- **Z2.** Ana dice: «Expongo todo lo que sé de la comunidad porque lo vi en un video». ¿Qué falta? A) más imágenes B) fuente, permiso y límites
 
 *Desafío*
 
 - **D1.** Dos tarjetas: Una dice «Comunidad: Lago Espejo, fuente don Teodoro, permiso sí». Otra dice «Comunidad: Río Claro, fuente doña Lucía, permiso no dice». ¿Con cuál puedes preparar una exposición ahora?
-- **D2.** Un tema de exposición es demasiado grande para 3 minutos. ¿Qué haces? A) elijo una parte autorizada del tema B) hablo más rápido
+- **D2.** Un tema de exposición es demasiado grande para 3 minutos. ¿Qué haces? A) hablo más rápido B) elijo una parte autorizada del tema
 
 *Situaciones auténticas*
 
@@ -189,15 +189,15 @@ Respuesta: Tres partes: qué es, cómo se organiza y qué significa para la comu
 - **R2.** Una. En una exposición una persona explica el tema; en un diálogo se turnan.
 - **R3.** No. El límite lo prohíbe.
 - **C1.** Verdadero. Esa es la definición de análisis.
-- **C2.** B. El trabajo en común es parte de la vida de la comunidad.
+- **C2.** A. El trabajo en común es parte de la vida de la comunidad.
 - **C3.** Falso. Solo se expone lo que la comunidad autoriza.
-- **A1.** A. Sin fuente ni permiso se detiene la actividad.
+- **A1.** B. Sin fuente ni permiso se detiene la actividad.
 - **A2.** a fuente, b tema, c límite. Cada dato cumple un papel distinto en la ficha.
 - **A3.** A. Una parte de análisis explica cómo ocurre.
 - **Z1.** B. La audiencia influye en cómo se habla.
-- **Z2.** A. Un video no reemplaza la autorización de la comunidad.
+- **Z2.** B. Un video no reemplaza la autorización de la comunidad.
 - **D1.** Con la de Lago Espejo. La de Río Claro no tiene permiso.
-- **D2.** A. Mejor una parte clara que todo apurado.
+- **D2.** B. Mejor una parte clara que todo apurado.
 - **S1.** B. Con la ficha se sabe de qué se puede hablar.
 - **E1.** Comunidad, tema, fuente, permiso y límite. Son los datos de la ficha.
 - **E2.** Verdadero. No se habla igual a un compañero que a una autoridad tradicional.
@@ -355,20 +355,20 @@ Respuesta: «¿Cómo se avisa a la familia que le toca el turno?» pregunta por 
 *Recuperación*
 
 - **R1.** Exposición leída: «Las familias de Valle Seco se turnan para abrir el agua de la acequia. Cada turno dura una mañana». ¿Cuánto dura cada turno de agua? A) una mañana B) una semana
-- **R2.** Exposición leída: «Las familias de Valle Seco se turnan para abrir el agua de la acequia». ¿Quiénes se turnan? A) las familias B) los profesores
+- **R2.** Exposición leída: «Las familias de Valle Seco se turnan para abrir el agua de la acequia». ¿Quiénes se turnan? A) los profesores B) las familias
 - **R3.** ¿Qué se anota en las notas: palabras clave o frases completas? Responde «palabras clave» o «frases completas».
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: una persona que escucha bien respeta cuando dicen que algo es solo de la comunidad.
-- **C2.** ¿Qué es la idea principal? A) el último dato B) lo más importante que se dice
+- **C2.** ¿Qué es la idea principal? A) lo más importante que se dice B) el último dato
 - **C3.** Verdadero o falso: las palabras en lengua indígena que escucho las escribo como me parezca.
 
 *Aplicación*
 
 - **A1.** Exposición leída: «Los botes salen de a dos. Las redes se arreglan entre todos los días de calma. Los lugares de respeto del lago no se muestran». ¿Cuáles son dos palabras clave? A) ayer y mañana B) botes y redes
 - **A2.** Exposición leída: «Los botes salen de a dos». Escribe la idea principal en cinco palabras o menos.
-- **A3.** Exposición leída: «Los botes salen de a dos. Las redes se arreglan entre todos los días de calma. Los lugares de respeto del lago no se muestran». ¿Qué anotas como «reservado»? A) los lugares de respeto B) las redes
+- **A3.** Exposición leída: «Los botes salen de a dos. Las redes se arreglan entre todos los días de calma. Los lugares de respeto del lago no se muestran». ¿Qué anotas como «reservado»? A) las redes B) los lugares de respeto
 
 *Razonamiento y análisis*
 
@@ -395,14 +395,14 @@ Respuesta: «¿Cómo se avisa a la familia que le toca el turno?» pregunta por 
 **Solucionario razonado**
 
 - **R1.** A. La exposición dice una mañana.
-- **R2.** A. Las familias se turnan para abrir el agua.
+- **R2.** B. Las familias se turnan para abrir el agua.
 - **R3.** Palabras clave. Así no se pierde el hilo.
 - **C1.** Verdadero. Respetar lo reservado es parte de escuchar.
-- **C2.** B. La idea principal sostiene toda la exposición.
+- **C2.** A. La idea principal sostiene toda la exposición.
 - **C3.** Falso. Se escriben como indique el educador o la educadora.
 - **A1.** B. Son los elementos que sostienen la exposición; «lugares de respeto» queda reservado.
 - **A2.** Los botes salen de a dos (o una frase equivalente). Es la idea que contiene el dato.
-- **A3.** A. Es lo que la exposición dice que no se muestra.
+- **A3.** B. Es lo que la exposición dice que no se muestra.
 - **Z1.** No respeta el límite declarado. El límite pide no insistir.
 - **Z2.** A. La exposición no dijo que sea una ceremonia.
 - **D1.** La primera. La segunda pregunta por lo reservado.
@@ -563,7 +563,7 @@ Respuesta: «Buenos días. ¿Podría contarme cómo organizan el riego?»
 
 *Recuperación*
 
-- **R1.** ¿Qué registro usas con tu mejor amigo en el patio? A) formal B) no formal
+- **R1.** ¿Qué registro usas con tu mejor amigo en el patio? A) no formal B) formal
 - **R2.** ¿Qué registro usas con una autoridad tradicional que visita tu escuela? A) no formal B) formal
 - **R3.** ¿Qué saludo muy conocido en mapuzugun aparece en esta clase?
 
@@ -581,7 +581,7 @@ Respuesta: «Buenos días. ¿Podría contarme cómo organizan el riego?»
 
 *Razonamiento y análisis*
 
-- **Z1.** Daniela expone ante el curso y ante una persona mayor de la comunidad. Habla relajada y usa bromas. ¿Qué error comete? A) habla demasiado bajo B) no adapta el registro a la audiencia
+- **Z1.** Daniela expone ante el curso y ante una persona mayor de la comunidad. Habla relajada y usa bromas. ¿Qué error comete? A) no adapta el registro a la audiencia B) habla demasiado bajo
 - **Z2.** Ignacio dice «saludo siempre con ‘mari mari’ y ya sé hablar mapuzugun». ¿Qué tiene de erróneo? A) saludar está prohibido B) un saludo no es dominar una lengua
 
 *Desafío*
@@ -591,7 +591,7 @@ Respuesta: «Buenos días. ¿Podría contarme cómo organizan el riego?»
 
 *Situaciones auténticas*
 
-- **S1.** Vas a conversar con una persona mayor de la comunidad en una visita a terreno. ¿Cómo inicias? A) con un saludo respetuoso y «usted» B) con una broma
+- **S1.** Vas a conversar con una persona mayor de la comunidad en una visita a terreno. ¿Cómo inicias? A) con una broma B) con un saludo respetuoso y «usted»
 
 *Autoevaluación*
 
@@ -603,7 +603,7 @@ Respuesta: «Buenos días. ¿Podría contarme cómo organizan el riego?»
 
 **Solucionario razonado**
 
-- **R1.** B. Es una conversación cercana.
+- **R1.** A. Es una conversación cercana.
 - **R2.** B. Se muestra respeto con un trato formal.
 - **R3.** Mari mari. Es el saludo atestiguado de la clase.
 - **C1.** Falso. Formal es respetuoso y claro, no difícil.
@@ -612,11 +612,11 @@ Respuesta: «Buenos días. ¿Podría contarme cómo organizan el riego?»
 - **A1.** a formal, b no formal. La primera tiene saludo y «podría»; la segunda es cercana.
 - **A2.** A. Lleva el trato respetuoso.
 - **A3.** Usa no formal; sería más adecuado el formal. Con una autoridad se muestra respeto.
-- **Z1.** B. Debe cuidar el trato con la persona mayor.
+- **Z1.** A. Debe cuidar el trato con la persona mayor.
 - **Z2.** B. Saludar es un paso; la lengua se aprende con el educador.
 - **D1.** La primera. Tiene saludo respetuoso y presenta el tema.
 - **D2.** A. Quien sabe orienta sobre el saludo y el trato.
-- **S1.** A. El respeto se muestra en el trato.
+- **S1.** B. El respeto se muestra en el trato.
 - **E1.** El formal es respetuoso y cuidado; el no formal es cercano y relajado. Resume la diferencia.
 - **E2.** Verdadero. Está atestiguado como saludo.
 - **E3.** B. Ellos enseñan los saludos.
@@ -774,7 +774,7 @@ Respuesta: Destaco «dos».
 
 - **R1.** ¿En qué momento de la exposición saludas y presentas el tema? A) en el inicio B) en el cierre
 - **R2.** ¿En qué momento agradeces a la fuente? A) en el desarrollo B) en el cierre
-- **R3.** ¿Qué es el énfasis? A) destacar con la voz una palabra importante B) hablar muy fuerte siempre
+- **R3.** ¿Qué es el énfasis? A) hablar muy fuerte siempre B) destacar con la voz una palabra importante
 
 *Comprensión*
 
@@ -791,7 +791,7 @@ Respuesta: Destaco «dos».
 *Razonamiento y análisis*
 
 - **Z1.** Sofía termina su exposición diciendo solo «ya». ¿Qué le falta? A) resumen, límites y agradecimiento B) más risas
-- **Z2.** Un compañero usa énfasis en cada palabra de la frase. ¿Qué consecuencia tiene? A) la audiencia entiende mejor B) la audiencia no distingue lo importante
+- **Z2.** Un compañero usa énfasis en cada palabra de la frase. ¿Qué consecuencia tiene? A) la audiencia no distingue lo importante B) la audiencia entiende mejor
 
 *Desafío*
 
@@ -800,7 +800,7 @@ Respuesta: Destaco «dos».
 
 *Situaciones auténticas*
 
-- **S1.** Vas a exponer ante tu curso y una visita de la comunidad. ¿Qué ensayas con el educador antes? A) solo los chistes del inicio B) la pronunciación de las palabras en lengua y el saludo
+- **S1.** Vas a exponer ante tu curso y una visita de la comunidad. ¿Qué ensayas con el educador antes? A) la pronunciación de las palabras en lengua y el saludo B) solo los chistes del inicio
 
 *Autoevaluación*
 
@@ -814,7 +814,7 @@ Respuesta: Destaco «dos».
 
 - **R1.** A. El inicio es para saludar y presentar.
 - **R2.** B. El cierre incluye el agradecimiento.
-- **R3.** A. Es destacar solo lo importante.
+- **R3.** B. Es destacar solo lo importante.
 - **C1.** Verdadero. En el desarrollo se explican las partes con datos y fuente.
 - **C2.** Falso. Si todo se destaca, nada se destaca.
 - **C3.** A. Quien enseña la lengua puede corregir la pronunciación.
@@ -822,10 +822,10 @@ Respuesta: Destaco «dos».
 - **A2.** B. Las mayúsculas marcan el énfasis en «una mañana».
 - **A3.** a desarrollo, b cierre, c inicio. Cada frase cumple un papel distinto en la exposición.
 - **Z1.** A. El cierre debe incluir esas tres cosas.
-- **Z2.** B. Si todo se destaca, nada se destaca.
+- **Z2.** A. Si todo se destaca, nada se destaca.
 - **D1.** 120 segundos. Se resta el inicio y el cierre del tiempo total. Cálculo: 3 × 60 − 30 − 30 = 120.
 - **D2.** B. Elegir y priorizar mantiene la claridad.
-- **S1.** B. Esas partes las valida quien enseña la lengua.
+- **S1.** A. Esas partes las valida quien enseña la lengua.
 - **E1.** Inicio, desarrollo y cierre. Son las tres partes.
 - **E2.** Verdadero. Destacar con la voz marca lo principal.
 - **E3.** B. Nombra a la fuente.
@@ -983,7 +983,7 @@ Respuesta: Ambas se organizan; una por turnos y la otra por parejas. No se dice 
 
 - **R1.** En un diálogo, ¿cuándo hablas? A) cuando quiera, aunque interrumpa B) en mi turno
 - **R2.** ¿Qué expresión marca una diferencia sin ordenar? A) «a diferencia de» B) «es mejor que»
-- **R3.** Si algo no quedó claro, ¿qué dices? A) «no entendiste» B) «¿puedes explicar eso un poco más?»
+- **R3.** Si algo no quedó claro, ¿qué dices? A) «¿puedes explicar eso un poco más?» B) «no entendiste»
 
 *Comprensión*
 
@@ -1009,13 +1009,13 @@ Respuesta: Ambas se organizan; una por turnos y la otra por parejas. No se dice 
 
 *Situaciones auténticas*
 
-- **S1.** En una asamblea escolar dos grupos exponen comunidades distintas. Una compañera propone votar cuál comunidad es mejor. ¿Qué respondes? A) que votemos rápido B) que no se vota, porque se dialoga para comprender
+- **S1.** En una asamblea escolar dos grupos exponen comunidades distintas. Una compañera propone votar cuál comunidad es mejor. ¿Qué respondes? A) que no se vota, porque se dialoga para comprender B) que votemos rápido
 
 *Autoevaluación*
 
 - **E1.** Escribe una regla del diálogo respetuoso.
 - **E2.** Verdadero o falso: una pregunta para comprender empieza buscando corregir.
-- **E3.** ¿Qué haces con una duda que nadie puede responder? A) la invento B) la anoto y la llevo al educador o a la comunidad
+- **E3.** ¿Qué haces con una duda que nadie puede responder? A) la anoto y la llevo al educador o a la comunidad B) la invento
 
 **Actividad abierta.** Dialoga con una persona de tu casa a partir de estas dos mini exposiciones inventadas. A (Valle Seco, doña Natalia): «Las familias se turnan para abrir el agua; cada turno dura una mañana». B (Lago Espejo, don Teodoro): «Los botes salen de a dos y lo pescado se reparte entre las casas de la orilla». Escribe tres preguntas para comprender (dos para A y una para B), una semejanza y una diferencia con los mismos criterios, y un resumen que empiece con «Según…». Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -1023,7 +1023,7 @@ Respuesta: Ambas se organizan; una por turnos y la otra por parejas. No se dice 
 
 - **R1.** B. Se respeta el turno.
 - **R2.** A. Marca la diferencia.
-- **R3.** B. Pide ayuda con respeto.
+- **R3.** A. Pide ayuda con respeto.
 - **C1.** Falso. Una busca entender; la otra, mostrar un error.
 - **C2.** A. Esas conductas hacen respetuoso el diálogo.
 - **C3.** Verdadero. Reconoce cada voz.
@@ -1034,10 +1034,10 @@ Respuesta: Ambas se organizan; una por turnos y la otra por parejas. No se dice 
 - **Z2.** B. Interrumpir rompe el turno.
 - **D1.** B. Las dudas culturales se consultan.
 - **D2.** El primero. El segundo mezcla y generaliza.
-- **S1.** B. Dialogar no es competir.
+- **S1.** A. Dialogar no es competir.
 - **E1.** No interrumpir y esperar el turno. Son reglas de conversación respetuosa.
 - **E2.** Falso. Comprender no es corregir.
-- **E3.** B. Ellos son la fuente.
+- **E3.** A. Ellos son la fuente.
 
 **Actividad abierta · ejemplo de respuesta.** Preguntas: ¿cómo avisan el siguiente turno?; ¿qué hacen en el turno?; ¿cómo deciden qué casa recibe cada parte? Semejanza: ambas organizan el trabajo. Diferencia: una por turnos, otra por parejas. Resumen: Según doña Natalia, hay turnos; según don Teodoro, los botes salen de a dos.
 
@@ -1192,7 +1192,7 @@ Respuesta: «Se entendía el tema. Para mejorar, habla más lento y nombra a la 
 
 - **R1.** ¿Cuántos criterios se revisan en el ensayo de esta clase? Escribe el número.
 - **R2.** ¿Quién valida la pronunciación en lengua indígena? A) un compañero que adivina B) el educador o la educadora tradicional
-- **R3.** ¿Cuál es el máximo de puntos del ensayo? A) 12 B) 3
+- **R3.** ¿Cuál es el máximo de puntos del ensayo? A) 3 B) 12
 
 *Comprensión*
 
@@ -1208,8 +1208,8 @@ Respuesta: «Se entendía el tema. Para mejorar, habla más lento y nombra a la 
 
 *Razonamiento y análisis*
 
-- **Z1.** Un grupo obtuvo 12 puntos en el ensayo y dice que no necesita validación. ¿Qué falta? A) más puntos B) validación de pronunciación y contenido por el educador o la comunidad
-- **Z2.** Una niña obtiene 0 puntos en atribución. ¿Qué debe hacer? A) nombrar a la fuente en el guion B) hablar más fuerte
+- **Z1.** Un grupo obtuvo 12 puntos en el ensayo y dice que no necesita validación. ¿Qué falta? A) validación de pronunciación y contenido por el educador o la comunidad B) más puntos
+- **Z2.** Una niña obtiene 0 puntos en atribución. ¿Qué debe hacer? A) hablar más fuerte B) nombrar a la fuente en el guion
 
 *Desafío*
 
@@ -1218,7 +1218,7 @@ Respuesta: «Se entendía el tema. Para mejorar, habla más lento y nombra a la 
 
 *Situaciones auténticas*
 
-- **S1.** Antes del acto del Día Internacional de los Pueblos Indígenas (9 de agosto) en tu escuela, un grupo va a exponer. ¿Qué conviene? A) improvisar B) ensayar, pedir retroalimentación y validación
+- **S1.** Antes del acto del Día Internacional de los Pueblos Indígenas (9 de agosto) en tu escuela, un grupo va a exponer. ¿Qué conviene? A) ensayar, pedir retroalimentación y validación B) improvisar
 
 *Autoevaluación*
 
@@ -1232,18 +1232,18 @@ Respuesta: «Se entendía el tema. Para mejorar, habla más lento y nombra a la 
 
 - **R1.** 4. Son claridad, volumen y ritmo, atribución y límites.
 - **R2.** B. Quien enseña la lengua la valida.
-- **R3.** A. Cuatro criterios de hasta 3 puntos suman 12.
+- **R3.** B. Cuatro criterios de hasta 3 puntos suman 12.
 - **C1.** Verdadero. Es una ayuda con ejemplos.
 - **C2.** Falso. Se quita para respetar lo pedido.
 - **C3.** B. El ensayo permite corregir antes de presentar.
 - **A1.** 10 puntos. Se suman los cuatro criterios. Cálculo: 2 + 3 + 3 + 2 = 10.
 - **A2.** 3 puntos. Se resta lo que tiene de la meta. Cálculo: 10 − 7 = 3.
 - **A3.** A. Dice qué mejorar y da un ejemplo.
-- **Z1.** B. El puntaje no reemplaza la validación.
-- **Z2.** A. El criterio que falta es nombrar a la fuente.
+- **Z1.** A. El puntaje no reemplaza la validación.
+- **Z2.** B. El criterio que falta es nombrar a la fuente.
 - **D1.** 20 minutos. Cada grupo usa 5 minutos y son 4 grupos. Cálculo: 4 × (3 + 2) = 20.
 - **D2.** Sí. Respetar el límite vale más que un punto.
-- **S1.** B. El acto es una presentación pública y se valida antes.
+- **S1.** A. El acto es una presentación pública y se valida antes.
 - **E1.** Dos entre: claridad, volumen y ritmo, atribución, respeto de límites. Son los criterios de esta clase.
 - **E2.** Verdadero. Es parte del cierre.
 - **E3.** B. El educador enseña la pronunciación.

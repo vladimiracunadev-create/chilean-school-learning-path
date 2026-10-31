@@ -146,25 +146,25 @@ Respuesta: Caso 1, revitalizar; caso 2, fortalecer.
 *Recuperación*
 
 - **R1.** Ficha: «Comunidad: Alto Manso. Experiencia: radio comunitaria con cuentos en la lengua. Fuente: don Rubén.» ¿Quién es la fuente?
-- **R2.** En la misma ficha, ¿qué experiencia se cuenta? A) un viaje al extranjero B) radio comunitaria con cuentos en la lengua
-- **R3.** ¿Qué palabra significa devolver usos y hablantes a una lengua que se habla poco? A) revitalizar B) borrar
+- **R2.** En la misma ficha, ¿qué experiencia se cuenta? A) radio comunitaria con cuentos en la lengua B) un viaje al extranjero
+- **R3.** ¿Qué palabra significa devolver usos y hablantes a una lengua que se habla poco? A) borrar B) revitalizar
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: fortalecer una lengua es hacer más fuerte el uso de una lengua que se sigue hablando.
 - **C2.** Verdadero o falso: la identidad de una persona se mide por cuánto habla la lengua de su pueblo.
-- **C3.** ¿Quién decide qué hace una comunidad para fortalecer su lengua? A) la propia comunidad B) una persona de otro lugar
+- **C3.** ¿Quién decide qué hace una comunidad para fortalecer su lengua? A) una persona de otro lugar B) la propia comunidad
 
 *Aplicación*
 
 - **A1.** Clasifica en REVITALIZAR o FORTALECER: a) un taller para que niños que no hablan la lengua empiecen a usarla b) una radio que usa la lengua que ya hablan los vecinos.
-- **A2.** Una ficha dice «Experiencia: taller de lengua». No dice fuente ni permiso. ¿Qué haces? A) pido esos datos antes de usarla B) la uso igual
+- **A2.** Una ficha dice «Experiencia: taller de lengua». No dice fuente ni permiso. ¿Qué haces? A) la uso igual B) pido esos datos antes de usarla
 - **A3.** Un taller tiene 2 sesiones al mes durante 5 meses. ¿Cuántas sesiones hay en total?
 
 *Razonamiento y análisis*
 
 - **Z1.** Ana dice: «Julián no habla la lengua de su pueblo, así que no es parte del pueblo». ¿Qué error comete?
-- **Z2.** Un grupo cuenta una experiencia de revitalización de una comunidad sin pedir permiso porque «es una buena noticia». ¿Qué falta? A) más fotos B) permiso de la fuente
+- **Z2.** Un grupo cuenta una experiencia de revitalización de una comunidad sin pedir permiso porque «es una buena noticia». ¿Qué falta? A) permiso de la fuente B) más fotos
 
 *Desafío*
 
@@ -173,35 +173,35 @@ Respuesta: Caso 1, revitalizar; caso 2, fortalecer.
 
 *Situaciones auténticas*
 
-- **S1.** El 21 de febrero es el Día Internacional de la Lengua Materna. Tu curso quiere organizar una actividad. ¿Qué debe preguntarse primero? A) qué actividad quiere hacer la comunidad y qué autoriza B) qué es más vistoso
+- **S1.** El 21 de febrero es el Día Internacional de la Lengua Materna. Tu curso quiere organizar una actividad. ¿Qué debe preguntarse primero? A) qué es más vistoso B) qué actividad quiere hacer la comunidad y qué autoriza
 
 *Autoevaluación*
 
 - **E1.** Nombra una acción para fortalecer una lengua.
 - **E2.** Verdadero o falso: revitalizar y fortalecer buscan que la lengua siga viva.
-- **E3.** ¿Qué haces si no sabes cómo se usa tu lengua en un contexto? A) lo invento B) pregunto al educador o la educadora
+- **E3.** ¿Qué haces si no sabes cómo se usa tu lengua en un contexto? A) pregunto al educador o la educadora B) lo invento
 
 **Actividad abierta.** Lee esta experiencia inventada de doña Olga, de Quebrada Fresca: «Los sábados nos juntamos en la sede. Las personas mayores conversan con los niños mientras preparamos pan. Cada semana aprendemos algo nuevo. No contamos los nombres de los niños.» Haz una ficha con comunidad, experiencia, fuente, quiénes participan y un límite. Escribe una frase que empiece con «Esta experiencia ayuda a mantener viva la lengua porque…». Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** Don Rubén. La ficha lo nombra.
-- **R2.** B. La ficha lo dice.
-- **R3.** A. Esa es la definición.
+- **R2.** A. La ficha lo dice.
+- **R3.** B. Esa es la definición.
 - **C1.** Verdadero. Esa es la definición.
 - **C2.** Falso. La identidad no depende de eso.
-- **C3.** A. Cada comunidad decide su camino.
+- **C3.** B. Cada comunidad decide su camino.
 - **A1.** a revitalizar, b fortalecer. En a se devuelven usos; en b se refuerza lo que existe.
-- **A2.** A. Sin fuente ni permiso se detiene la actividad.
+- **A2.** B. Sin fuente ni permiso se detiene la actividad.
 - **A3.** 10 sesiones. Se multiplican las sesiones por los meses. Cálculo: 2 × 5 = 10.
 - **Z1.** Mide la identidad por el uso de la lengua. La identidad no depende de cuánto se habla.
-- **Z2.** B. Contar bien no reemplaza el permiso.
+- **Z2.** A. Contar bien no reemplaza el permiso.
 - **D1.** Ninguna es la única correcta. Cada comunidad decide su camino.
 - **D2.** 14 personas. Se suman niños y mayores. Cálculo: 8 + 6 = 14.
-- **S1.** A. La actividad se decide con la comunidad.
+- **S1.** B. La actividad se decide con la comunidad.
 - **E1.** Una entre: conversar con mayores, talleres, materiales, radio u otros usos nuevos. Son acciones de comunidades.
 - **E2.** Verdadero. Ese es el propósito de ambas.
-- **E3.** B. Ellos enseñan la lengua.
+- **E3.** A. Ellos enseñan la lengua.
 
 **Actividad abierta · ejemplo de respuesta.** Comunidad: Quebrada Fresca. Experiencia: taller de conversación mientras preparan pan. Fuente: doña Olga. Participan: mayores y niños. Límite: no se cuentan los nombres de los niños. Esta experiencia ayuda a mantener viva la lengua porque los mayores y los niños la usan juntos.
 
@@ -356,7 +356,7 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 
 - **R1.** Testimonio inventado: «Aprender la lengua me acercó a mi abuela». ¿A quién se acercó? A) a un vecino B) a su abuela
 - **R2.** ¿Cuántas razones para revitalizar se mencionan en la explicación: identidad, memoria y comunicación? Escribe el número.
-- **R3.** Si el testimonio no explica algo, ¿qué escribes? A) lo invento B) el testimonio no lo dice
+- **R3.** Si el testimonio no explica algo, ¿qué escribes? A) el testimonio no lo dice B) lo invento
 
 *Comprensión*
 
@@ -366,7 +366,7 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 
 *Aplicación*
 
-- **A1.** Testimonio de don Rubén: «Me gustaría que más niños vinieran, pero no puedo obligarlos». Clasifica en DICE LA FUENTE o INTERPRETO: a) no puede obligar a los niños b) los niños no vienen porque no les interesa.
+- **A1.** Testimonio de don Rubén: «Me gustaría que más niños vinieran, pero no puedo obligarlos». Clasifica en DICE LA FUENTE o INTERPRETO: a) los niños no vienen porque no les interesa b) no puede obligar a los niños.
 - **A2.** Clasifica la razón como IDENTIDAD, MEMORIA o COMUNICACIÓN: a) hablar con los abuelos b) guardar nombres de lugares.
 - **A3.** Tras leer «no puedo obligarlos», alguien escribe «Don Rubén cree que obligar es malo». ¿Qué problema tiene? A) lo dijo don Rubén palabra por palabra B) atribuye una creencia más amplia que lo dicho
 
@@ -378,7 +378,7 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 *Desafío*
 
 - **D1.** Dos frases: Una: «Según don Rubén, aprender la lengua lo acercó a su abuela». Otra: «Según don Rubén, todos los niños deben aprender la lengua». ¿Cuál se queda en lo que dijo?
-- **D2.** Te piden explicar en un cartel por qué se revitaliza la lengua. ¿Qué incluyes? A) razones de la fuente con su nombre y un límite B) opiniones sin fuente
+- **D2.** Te piden explicar en un cartel por qué se revitaliza la lengua. ¿Qué incluyes? A) opiniones sin fuente B) razones de la fuente con su nombre y un límite
 
 *Situaciones auténticas*
 
@@ -388,7 +388,7 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 
 - **E1.** Nombra una razón por la que una comunidad revitaliza su lengua.
 - **E2.** Verdadero o falso: conviene declarar lo que no sé al explicar un testimonio.
-- **E3.** ¿Qué haces con una grabación de una persona mayor? A) la comparto B) pido permiso antes de compartirla
+- **E3.** ¿Qué haces con una grabación de una persona mayor? A) pido permiso antes de compartirla B) la comparto
 
 **Actividad abierta.** Lee este testimonio inventado de doña Olga, de Quebrada Fresca: «Mi abuela me hablaba en la lengua y yo solo escuchaba. Hoy voy a los talleres y ya puedo decir algunas frases. Mi hijo todavía no quiere venir y no lo voy a obligar.» Haz tres columnas: «La fuente dice», «Yo interpreto» y «No se cuenta». Pon al menos dos datos en cada una y cierra con una frase de límites. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -396,21 +396,21 @@ Respuesta: Error: critica y atribuye algo que nadie dijo; hay que quitarlo.
 
 - **R1.** B. El testimonio lo dice así.
 - **R2.** 3. Son tres razones nombradas.
-- **R3.** B. Se declara el límite.
+- **R3.** A. Se declara el límite.
 - **C1.** Verdadero. Es un límite ético.
 - **C2.** B. La memoria guarda lo que la comunidad recuerda.
 - **C3.** Falso. La interpretación es idea de quien lee.
-- **A1.** a dice la fuente, b interpreto. La segunda explica algo que la fuente no dijo.
+- **A1.** b dice la fuente, b interpreto. La segunda explica algo que la fuente no dijo.
 - **A2.** a comunicación, b memoria. Hablar con los abuelos es comunicarse; guardar nombres es memoria.
 - **A3.** B. Don Rubén solo dijo que no puede obligar.
 - **Z1.** B. La lengua sirve para comunicarse en el presente.
 - **Z2.** Que la identidad no se mide por cuánto se habla la lengua. Pertenecer no depende de eso.
 - **D1.** La primera. La segunda agrega una idea que él no dijo.
-- **D2.** A. Se atribuye y se declara el límite.
+- **D2.** B. Se atribuye y se declara el límite.
 - **S1.** A. No se mide a las personas por su lengua.
 - **E1.** Identidad, memoria o comunicación. Son razones de la clase.
 - **E2.** Verdadero. Eso evita inventar datos.
-- **E3.** B. Sin permiso no se comparte.
+- **E3.** A. Sin permiso no se comparte.
 
 **Actividad abierta · ejemplo de respuesta.** La fuente dice: su abuela hablaba la lengua; hoy va a talleres; su hijo no quiere venir. Yo interpreto: yo pienso que los talleres le permiten recuperar lo que escuchaba de niña. No se cuenta: por qué el hijo no quiere venir. Límite: no sé cuántas frases dice.
 
@@ -564,7 +564,7 @@ Respuesta: No pertenece «lápiz».
 *Recuperación*
 
 - **R1.** En «Los niños recogen frutas», ¿cuál es el verbo?
-- **R2.** ¿Cuál es un sustantivo en «El lago está tranquilo»? A) tranquilo B) lago
+- **R2.** ¿Cuál es un sustantivo en «El lago está tranquilo»? A) lago B) tranquilo
 - **R3.** ¿Qué estudia la semántica? A) el significado de las palabras B) los números
 
 *Comprensión*
@@ -597,14 +597,14 @@ Respuesta: No pertenece «lápiz».
 
 - **E1.** Nombra una palabra de un campo semántico del agua.
 - **E2.** Verdadero o falso: la gramática es el conjunto de reglas con que una lengua organiza las palabras.
-- **E3.** ¿Qué haces si quieres saber cómo se forma una oración en lengua indígena? A) pregunto al educador B) la invento
+- **E3.** ¿Qué haces si quieres saber cómo se forma una oración en lengua indígena? A) la invento B) pregunto al educador
 
 **Actividad abierta.** Usa esta oración inventada en castellano: «Los niños recogen frutas en la huerta». 1) Marca los sustantivos y el verbo. 2) Escribe un campo semántico de cuatro palabras relacionadas con la huerta (por ejemplo, partes de una huerta que ves en tu casa o en una plaza). 3) Escribe una pregunta que le harías al educador para saber cómo se dice una oración parecida en la lengua de tu comunidad. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
 - **R1.** Recogen. Dice la acción.
-- **R2.** B. «Lago» nombra un lugar.
+- **R2.** A. «Lago» nombra un lugar.
 - **R3.** A. Esa es la definición.
 - **C1.** Verdadero. Esa es su definición.
 - **C2.** Falso. Cada lengua tiene su gramática propia.
@@ -619,7 +619,7 @@ Respuesta: No pertenece «lápiz».
 - **S1.** B. Cada lengua se aprende en sus propios términos.
 - **E1.** Río, lluvia, vertiente o lago. Están relacionadas con el agua.
 - **E2.** Verdadero. Esa es la definición.
-- **E3.** A. Ellos conocen la lengua.
+- **E3.** B. Ellos conocen la lengua.
 
 **Actividad abierta · ejemplo de respuesta.** Sustantivos: niños, frutas, huerta. Verbo: recogen. Campo semántico: huerta, semilla, riego, cosecha. Pregunta: «¿Cómo se organiza una oración sobre recoger frutas en nuestra lengua?»
 
@@ -780,7 +780,7 @@ Respuesta: Faltó atribuir a don Rubén y marcar «yo pienso que» para lo suyo.
 
 - **C1.** Verdadero o falso: una reflexión se marca con «yo pienso que».
 - **C2.** Verdadero o falso: puedo afirmar cómo se organiza una oración en la lengua de mi comunidad si lo supongo.
-- **C3.** ¿Qué haces con un contexto de uso que creó otra persona? A) lo menciono sin avisar B) pido permiso para mencionarlo
+- **C3.** ¿Qué haces con un contexto de uso que creó otra persona? A) pido permiso para mencionarlo B) lo menciono sin avisar
 
 *Aplicación*
 
@@ -795,7 +795,7 @@ Respuesta: Faltó atribuir a don Rubén y marcar «yo pienso que» para lo suyo.
 
 *Desafío*
 
-- **D1.** Una niña quiere mencionar el cartel bilingüe que hizo otro curso. ¿Qué hace primero? A) pedir permiso a quienes lo hicieron B) copiarlo
+- **D1.** Una niña quiere mencionar el cartel bilingüe que hizo otro curso. ¿Qué hace primero? A) copiarlo B) pedir permiso a quienes lo hicieron
 - **D2.** Tu explicación mezcla una idea tuya con un dato de la fuente sin marcar. ¿Qué corriges? A) marco «yo pienso que» y «según…» B) borro todo
 
 *Situaciones auténticas*
@@ -817,13 +817,13 @@ Respuesta: Faltó atribuir a don Rubén y marcar «yo pienso que» para lo suyo.
 - **R3.** B. Él o ella enseña la lengua.
 - **C1.** Verdadero. Así no se confunde con la fuente.
 - **C2.** Falso. Eso sería inventar.
-- **C3.** B. Se pide permiso a quien lo creó.
+- **C3.** A. Se pide permiso a quien lo creó.
 - **A1.** Dicen buenos días en la lengua. Repite el dato sin cambiarlo.
 - **A2.** a fuente, b reflexión. La primera es un dato atribuido; la segunda, una idea propia.
 - **A3.** A. Declara lo que no sé.
 - **Z1.** B. La pregunta indica lo que se debe consultar.
 - **Z2.** La primera. La segunda generaliza sin fuente.
-- **D1.** A. Se respeta la autoría.
+- **D1.** B. Se respeta la autoría.
 - **D2.** A. Se separa lo propio de lo atribuido.
 - **S1.** B. Una explicación atribuida inicia con la fuente.
 - **E1.** Fuente, reflexión, límite y pregunta. Son las partes de la clase.
@@ -983,7 +983,7 @@ Respuesta: Ambos comunican; uno es entre dos personas y el otro llega a muchas. 
 
 - **R1.** ¿Cuál es un contexto tradicional? A) conversar con una persona mayor en la casa B) un video en una pantalla
 - **R2.** ¿Cuál es un nuevo contexto? A) una conversación en la cocina B) un cartel bilingüe en la escuela
-- **R3.** ¿Qué se pide antes de grabar a alguien? A) un premio B) permiso
+- **R3.** ¿Qué se pide antes de grabar a alguien? A) permiso B) un premio
 
 *Comprensión*
 
@@ -994,7 +994,7 @@ Respuesta: Ambos comunican; uno es entre dos personas y el otro llega a muchas. 
 *Aplicación*
 
 - **A1.** Clasifica en TRADICIONAL o NUEVO: a) trabajar con un mayor en la huerta b) un mensaje de saludo en una radio de la escuela.
-- **A2.** Criterio «qué cuidado requiere». Cartel: validar la escritura. Grabación: pedir permiso de la voz. ¿Qué diferencia hay? A) ninguno requiere cuidado B) cada uno requiere un cuidado distinto
+- **A2.** Criterio «qué cuidado requiere». Cartel: validar la escritura. Grabación: pedir permiso de la voz. ¿Qué diferencia hay? A) cada uno requiere un cuidado distinto B) ninguno requiere cuidado
 - **A3.** Un curso pega un cartel con «mari mari». ¿Qué cuidado básico tuvo que tener? A) ninguno B) validar con el educador cómo se escribe
 
 *Razonamiento y análisis*
@@ -1004,18 +1004,18 @@ Respuesta: Ambos comunican; uno es entre dos personas y el otro llega a muchas. 
 
 *Desafío*
 
-- **D1.** Dos contextos: una conversación en la cocina y un video en la escuela. Una frase correcta es: A) «el video llega a más personas; la conversación es más cercana» B) «el video es mejor»
+- **D1.** Dos contextos: una conversación en la cocina y un video en la escuela. Una frase correcta es: A) «el video es mejor» B) «el video llega a más personas; la conversación es más cercana»
 - **D2.** Una radio emite 3 saludos al día en la lengua durante 5 días. ¿Cuántos saludos son en total?
 
 *Situaciones auténticas*
 
-- **S1.** Tu escuela quiere agregar el saludo «mari mari» en la entrada. ¿Qué pasos sigue? A) poner el cartel de inmediato B) consultar con el educador y la comunidad, validar la escritura y poner el cartel
+- **S1.** Tu escuela quiere agregar el saludo «mari mari» en la entrada. ¿Qué pasos sigue? A) consultar con el educador y la comunidad, validar la escritura y poner el cartel B) poner el cartel de inmediato
 
 *Autoevaluación*
 
 - **E1.** Nombra un contexto tradicional y uno nuevo.
 - **E2.** Verdadero o falso: al contrastar contextos se usan los mismos criterios para todos.
-- **E3.** ¿Quién valida la escritura de un cartel en lengua? A) un compañero B) el educador o la educadora tradicional
+- **E3.** ¿Quién valida la escritura de un cartel en lengua? A) el educador o la educadora tradicional B) un compañero
 
 **Actividad abierta.** Compara dos contextos de uso inventados de la comunidad Alto Manso: A) «los sábados conversamos en la lengua con las personas mayores mientras cocinamos»; B) «en la radio comunitaria decimos buenos días en la lengua todas las mañanas». Haz una tabla con tres criterios: quién participa, qué se comunica y qué cuidado requiere. Escribe una semejanza y una diferencia sin usar «mejor». Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -1023,21 +1023,21 @@ Respuesta: Ambos comunican; uno es entre dos personas y el otro llega a muchas. 
 
 - **R1.** A. La conversación en la casa es antigua.
 - **R2.** B. El cartel en la escuela es un espacio nuevo.
-- **R3.** B. La voz de una persona se usa con su permiso.
+- **R3.** A. La voz de una persona se usa con su permiso.
 - **C1.** Verdadero. Con permiso y validación fortalece.
 - **C2.** Falso. No se jerarquizan.
 - **C3.** B. Son criterios iguales para ambos.
 - **A1.** a tradicional, b nuevo. El trabajo con mayores es antiguo; la radio escolar es un espacio nuevo.
-- **A2.** B. Los cuidados cambian.
+- **A2.** A. Los cuidados cambian.
 - **A3.** B. Se valida la escritura.
 - **Z1.** Jerarquiza dos contextos. Llegar a más gente no los hace mejores.
 - **Z2.** B. El propósito no reemplaza el permiso.
-- **D1.** A. La A describe sin ordenar.
+- **D1.** B. La A describe sin ordenar.
 - **D2.** 15 saludos. Se multiplican saludos por días. Cálculo: 3 × 5 = 15.
-- **S1.** B. Primero se consulta y se valida.
+- **S1.** A. Primero se consulta y se valida.
 - **E1.** Tradicional: conversación con mayores. Nuevo: cartel, radio o video. Son ejemplos de la clase.
 - **E2.** Verdadero. Así la comparación es justa.
-- **E3.** B. Ellos enseñan la lengua.
+- **E3.** A. Ellos enseñan la lengua.
 
 **Actividad abierta · ejemplo de respuesta.** A: participan mayores y vecinos; se comparte conversación; requiere escuchar con respeto. B: participa quien habla en la radio y quienes escuchan; se saluda; requiere permiso de la voz y validar la expresión. Semejanza: ambos usan la lengua. Diferencia: A es cercano y B llega a muchas casas.
 

@@ -587,7 +587,7 @@ Respuesta: alegría
 *Desafío*
 
 - **D1.** Ordena los hechos del texto F: A) La educadora entró. B) Ana entregó la hoja. C) Ana preparó la hoja. D) Ana llegó temprano. Escribe las letras.
-- **D2.** ¿Qué título reúne más información del texto F? A) «Una visita llega a la sala». B) «Ana prepara un agradecimiento y saluda a una visita».
+- **D2.** ¿Qué título reúne más información del texto F? A) «Ana prepara un agradecimiento y saluda a una visita» B) «Una visita llega a la sala»..
 
 *Situaciones auténticas*
 
@@ -615,7 +615,7 @@ Respuesta: alegría
 - **Z1.** A. Sonreír y saludar no son pistas de enojo.
 - **Z2.** No. Sin una pista escrita estaría inventando.
 - **D1.** D, C, A, B. Llegó, preparó, la educadora entró y al final entregó la hoja.
-- **D2.** B. El título B incluye lo que hace Ana además de la visita.
+- **D2.** A. El título B incluye lo que hace Ana además de la visita.
 - **S1.** para agradecer. Según la ficha «chaltumay» quiere decir «gracias».
 - **E1.** porque. «Porque» muestra la causa.
 - **E2.** sigo el orden del texto. El texto marca primero, luego y al final.
@@ -795,7 +795,7 @@ Respuesta: con el agua que toma en el recreo
 
 *Desafío*
 
-- **D1.** ¿Cuál reemplaza mejor la pregunta «¿Cuéntanos qué hace tu familia indígena?»? A) «¿Qué piensas de lo que escuchamos en el texto?». B) «¿Dónde viven tus abuelos?».
+- **D1.** ¿Cuál reemplaza mejor la pregunta «¿Cuéntanos qué hace tu familia indígena?»? A) «¿Dónde viven tus abuelos?» B) «¿Qué piensas de lo que escuchamos en el texto?»..
 - **D2.** Ordena para responder con respeto: A) leo la pregunta. B) pienso en lo que sé o siento. C) escribo sin contar datos privados. Escribe las letras en orden.
 
 *Situaciones auténticas*
@@ -823,7 +823,7 @@ Respuesta: con el agua que toma en el recreo
 - **A3.** No. Usó una situación cotidiana del recreo.
 - **Z1.** No. Cualquier estudiante puede responder con lo que sabe, imagina o siente.
 - **Z2.** No. Pide un dato privado y puede exponer a alguien.
-- **D1.** A. La A pregunta por el texto y no por datos privados.
+- **D1.** B. La A pregunta por el texto y no por datos privados.
 - **D2.** A, B, C. Leo, pienso y escribo cuidando la privacidad.
 - **S1.** «Puedes responder con lo que sientes o imaginas». Nadie está obligado a contar lo que no quiere.
 - **E1.** cada persona. Los datos privados los decide cada uno.
@@ -994,8 +994,8 @@ Respuesta: Según la ficha, «mari mari» es un saludo; el abuelo lo dijo a los 
 *Aplicación*
 
 - **A1.** Texto K (inventado): «La educadora escribió «ko» en la pizarra y mostró un vaso con agua. Dijo que esa palabra nombra lo que hay en el vaso.» Ficha de palabras en mapuzugun (de práctica): «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es la casa mapuche, «mapu» es tierra, «ñuke» es madre. ¿Qué nombra «ko» en el texto K?
-- **A2.** Texto L (inventado): «Al terminar la clase, la visita dijo «chaltumay» y entregó una carta a cada niño.» Ficha: «mari mari» es un saludo y «chaltumay» quiere decir «gracias», ambas en mapuzugun. ¿Qué explicación es completa? A) «Es una palabra rara». B) «Según la ficha es gracias; la visita lo dijo al terminar la clase».
-- **A3.** Un profesor dice: «mari mari» significa solo «hola». Según esta clase, ¿qué falta decir? A) Que una traducción no cuenta todo y el educador o la comunidad explican más. B) Nada, está completo.
+- **A2.** Texto L (inventado): «Al terminar la clase, la visita dijo «chaltumay» y entregó una carta a cada niño.» Ficha: «mari mari» es un saludo y «chaltumay» quiere decir «gracias», ambas en mapuzugun. ¿Qué explicación es completa? A) «Según la ficha es gracias; la visita lo dijo al terminar la clase» B) «Es una palabra rara»..
+- **A3.** Un profesor dice: «mari mari» significa solo «hola». Según esta clase, ¿qué falta decir? A) Nada, está completo B) Que una traducción no cuenta todo y el educador o la comunidad explican más..
 
 *Razonamiento y análisis*
 
@@ -1028,8 +1028,8 @@ Respuesta: Según la ficha, «mari mari» es un saludo; el abuelo lo dijo a los 
 - **C2.** la ficha y el contexto. La ficha da el significado y el contexto da el momento.
 - **C3.** un saludo. La ficha dice que es un saludo.
 - **A1.** agua. La ficha y el vaso con agua coinciden.
-- **A2.** B. La B usa la ficha y dice cuándo se dijo.
-- **A3.** A. El sentido completo lo explica la comunidad.
+- **A2.** A. La B usa la ficha y dice cuándo se dijo.
+- **A3.** B. El sentido completo lo explica la comunidad.
 - **Z1.** B. La B usa ficha, contexto y reconoce a la fuente.
 - **Z2.** leer la ficha. La ficha dice que kuyen es luna.
 - **D1.** B, C, D, A. Encuentro, leo la ficha, leo el contexto y recién explico.

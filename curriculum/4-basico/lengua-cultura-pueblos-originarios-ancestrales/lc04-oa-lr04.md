@@ -373,7 +373,7 @@ Respuesta: kuyen (luna), fuente: educadora de la Escuela Ejemplo
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Rotulé la luna como «antü» porque suena más bonito». ¿Su rótulo es correcto? Sí o No.
-- **Z2.** Un rótulo dice «ko» sin significado ni fuente. Opciones: A) está completo porque tiene la palabra. B) le faltan el significado y la fuente. ¿Cuál es cierta?
+- **Z2.** Un rótulo dice «ko» sin significado ni fuente. Opciones: A) le faltan el significado y la fuente. ¿Cuál es cierta B) está completo porque tiene la palabra.?
 
 *Desafío*
 
@@ -404,7 +404,7 @@ Respuesta: kuyen (luna), fuente: educadora de la Escuela Ejemplo
 - **A2.** el significado entre paréntesis. «Antü» sí es la palabra para sol, pero el significado que escribió, agua, no corresponde.
 - **A3.** B. No se inventan palabras en la lengua.
 - **Z1.** No. «Antü» es sol; la luna es «kuyen» según la ficha.
-- **Z2.** B. Un rótulo completo tiene tres partes.
+- **Z2.** A. Un rótulo completo tiene tres partes.
 - **D1.** 4. Las cuatro tienen palabra en la ficha: antü, ko, ruka y mapu.
 - **D2.** B, A, C. Primero elijo por significado, luego copio y al final anoto la fuente.
 - **S1.** «ruka (casa mapuche)» con la fuente. Solo se usa lo que la ficha da y se anota la fuente.
@@ -780,7 +780,7 @@ Respuesta: marca la duda y se la pregunta a la educadora tradicional
 
 - **C1.** Modelo: «kuyen». Escrito: «kuyen». ¿Coinciden? Sí o No.
 - **C2.** Verdadero o falso: puedo agregar una tilde que el modelo no trae si me parece que se ve mejor.
-- **C3.** Una fuente válida es A) un texto sin autor que vi suelto. B) lo que me enseñó el educador tradicional. ¿Cuál es?
+- **C3.** Una fuente válida es A) lo que me enseñó el educador tradicional. ¿Cuál es B) un texto sin autor que vi suelto.?
 
 *Aplicación*
 
@@ -817,7 +817,7 @@ Respuesta: marca la duda y se la pregunta a la educadora tradicional
 - **R3.** ü y ñ. No se cambian por u o n.
 - **C1.** Sí. Las cinco letras son iguales y están en el mismo orden.
 - **C2.** Falso. Mi escrito debe coincidir con el modelo.
-- **C3.** B. Una fuente válida está identificada y enseña.
+- **C3.** A. Una fuente válida está identificada y enseña.
 - **A1.** 1. Solo Ana conserva la ü.
 - **A2.** la ñ. La primera letra debe ser ñ.
 - **A3.** El agua (ko) es clara.. Faltan la mayúscula inicial y el punto final.

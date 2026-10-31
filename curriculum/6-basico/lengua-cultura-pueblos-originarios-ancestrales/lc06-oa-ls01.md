@@ -785,7 +785,7 @@ Respuesta: es lo que piensa quien opina
 *Aplicación*
 
 - **A1.** Ordena las partes de una opinión respetuosa. A) razón con «porque». B) límite. C) lo que dice el relato con «según». D) lo que pienso con «yo pienso». Escribe las letras en orden.
-- **A2.** Valle Ejemplo (relato inventado): las familias se reúnen en la plaza al terminar la cosecha, una abuela cuenta cómo llegó el primer río y cada familia teje una cinta. Elige la mejor razón para la opinión «me gustó que todas las familias participen». A) «porque cada familia teje una cinta». B) «porque la gente de allí es muy simpática». Escribe la letra.
+- **A2.** Valle Ejemplo (relato inventado): las familias se reúnen en la plaza al terminar la cosecha, una abuela cuenta cómo llegó el primer río y cada familia teje una cinta. Elige la mejor razón para la opinión «me gustó que todas las familias participen». A) «porque la gente de allí es muy simpática». Escribe la letra B) «porque cada familia teje una cinta»..
 - **A3.** Una opinión debe tener 4 partes. Un compañero escribió 3 oraciones, cada una con una parte distinta. ¿Cuántas partes le faltan?
 
 *Razonamiento y análisis*
@@ -819,7 +819,7 @@ Respuesta: es lo que piensa quien opina
 - **C2.** cómo agradecen en su curso. La opinión lo dice.
 - **C3.** Falso. Es un juicio sin razón apoyada en el texto.
 - **A1.** C, D, A, B. Se cita el relato, se opina, se justifica y se cierra con el límite.
-- **A2.** A. La razón se apoya en un dato del relato; la B es un juicio.
+- **A2.** B. La razón se apoya en un dato del relato; la B es un juicio.
 - **A3.** 1. Se restan las escritas de las cuatro pedidas. Cálculo: 4 − 3 = 1.
 - **Z1.** No. Jerarquiza pueblos y no se apoya en el relato.
 - **Z2.** No. Menciona la comida compartida y las cintas, que están en el relato.
@@ -1004,7 +1004,7 @@ Respuesta: jerarquiza
 
 *Desafío*
 
-- **D1.** Resumen del relato de Valle Ejemplo (inventado): la tierra es como una persona mayor a la que se agradece al terminar la cosecha; se comparte una comida y cada familia teje una cinta. Resumen del relato de Costa Ejemplo (inventado): el mar presta lo que da y hay que devolver con cuidado; las familias comparten pan con quienes no tienen barca y suena un tambor. Elige la mejor frase de cierre. A) «Los dos relatos expresan cuidado hacia lo que se recibe; uno agradece a la tierra y el otro devuelve al mar; yo pienso que ambos muestran formas respetuosas de vivir». B) «El relato de Valle Ejemplo es mejor». Escribe la letra.
+- **D1.** Resumen del relato de Valle Ejemplo (inventado): la tierra es como una persona mayor a la que se agradece al terminar la cosecha; se comparte una comida y cada familia teje una cinta. Resumen del relato de Costa Ejemplo (inventado): el mar presta lo que da y hay que devolver con cuidado; las familias comparten pan con quienes no tienen barca y suena un tambor. Elige la mejor frase de cierre. A) «El relato de Valle Ejemplo es mejor». Escribe la letra B) «Los dos relatos expresan cuidado hacia lo que se recibe; uno agradece a la tierra y el otro devuelve al mar; yo pienso que ambos muestran formas respetuosas de vivir»..
 - **D2.** Quieres comparar el relato de Valle Ejemplo con la fiesta real de una comunidad que visitaste, pero no tienes permiso para contar esa fiesta. ¿Qué haces: la comparas igual o comparas con otra situación que sí puedas contar?
 
 *Situaciones auténticas*
@@ -1032,7 +1032,7 @@ Respuesta: jerarquiza
 - **A3.** 1 C, 2 J, 3 C. Solo la frase 2 pone una cosmovisión sobre otra.
 - **Z1.** una semejanza. Dice qué comparten los dos relatos.
 - **Z2.** No. Son dos relatos de dos pueblos ficticios distintos.
-- **D1.** A. Dice semejanza, diferencia y marca la opinión propia.
+- **D1.** B. Dice semejanza, diferencia y marca la opinión propia.
 - **D2.** comparas con otra situación que sí puedas contar. Sin permiso no se cuenta una fiesta real.
 - **S1.** que ninguna es mejor y que pueden explicar en qué se parecen y en qué cambian. Comparar no es votar entre pueblos.
 - **E1.** No. No se jerarquizan cosmovisiones.

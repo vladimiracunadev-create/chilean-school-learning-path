@@ -153,13 +153,13 @@ Respuesta: No escribe las palabras reservadas; solo anota que hubo una reunión.
 
 - **C1.** Verdadero o falso: «mari mari» es un saludo muy conocido en mapuzugun.
 - **C2.** Verdadero o falso: todo lo que se dice en una ceremonia se puede escribir libremente.
-- **C3.** ¿Quién entrega las expresiones en lengua que irán en el texto? A) un compañero que las adivina B) el educador o la educadora tradicional
+- **C3.** ¿Quién entrega las expresiones en lengua que irán en el texto? A) el educador o la educadora tradicional B) un compañero que las adivina
 
 *Aplicación*
 
 - **A1.** Clasifica el texto: a) «Los invitamos a la reunión del sábado» b) «Gracias por recibirnos» c) «Hoy observamos tres huertos». Escribe INVITACIÓN, AGRADECIMIENTO o NOTA DE CAMPO para cada uno.
 - **A2.** Para agradecer a una persona de la comunidad después de una salida, ¿qué expresión muy conocida puedes pedir al educador? A) una palabra inventada B) chaltumay
-- **A3.** Un texto de salida a terreno debe llevar siempre cuál de estos datos: A) fecha y lugar B) solo un dibujo
+- **A3.** Un texto de salida a terreno debe llevar siempre cuál de estos datos: A) solo un dibujo B) fecha y lugar
 
 *Razonamiento y análisis*
 
@@ -168,12 +168,12 @@ Respuesta: No escribe las palabras reservadas; solo anota que hubo una reunión.
 
 *Desafío*
 
-- **D1.** En un huerto comunitario te dicen: «Pueden anotar lo que ven, pero no tomar fotos del lugar de respeto». ¿Qué anotas? A) todo y también el lugar B) lo que ves, excepto el lugar de respeto
-- **D2.** Quieres escribir un saludo en rapa nui para una tarjeta. ¿Cuál es la forma más segura? A) usar «iorana», conocido, y pedir otras al educador B) inventar una frase larga
+- **D1.** En un huerto comunitario te dicen: «Pueden anotar lo que ven, pero no tomar fotos del lugar de respeto». ¿Qué anotas? A) lo que ves, excepto el lugar de respeto B) todo y también el lugar
+- **D2.** Quieres escribir un saludo en rapa nui para una tarjeta. ¿Cuál es la forma más segura? A) inventar una frase larga B) usar «iorana», conocido, y pedir otras al educador
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso prepara una invitación para una persona de la comunidad que visitará la escuela. ¿Qué haces con el saludo en lengua? A) uso un traductor sin revisar B) pido al educador que me indique uno apropiado
+- **S1.** Tu curso prepara una invitación para una persona de la comunidad que visitará la escuela. ¿Qué haces con el saludo en lengua? A) pido al educador que me indique uno apropiado B) uso un traductor sin revisar
 
 *Autoevaluación*
 
@@ -190,15 +190,15 @@ Respuesta: No escribe las palabras reservadas; solo anota que hubo una reunión.
 - **R3.** Gracias. Es un agradecimiento muy conocido.
 - **C1.** Verdadero. Está atestiguado como saludo.
 - **C2.** Falso. Muchas partes son reservadas y requieren permiso.
-- **C3.** B. Quien enseña la lengua las entrega.
+- **C3.** A. Quien enseña la lengua las entrega.
 - **A1.** a invitación, b agradecimiento, c nota de campo. Cada texto cumple una función distinta.
 - **A2.** B. «Chaltumay» es un agradecimiento muy conocido en mapuzugun.
-- **A3.** A. La nota de campo registra fecha y lugar.
+- **A3.** B. La nota de campo registra fecha y lugar.
 - **Z1.** Usa expresiones sin validar. Podrían estar mal o ser reservadas.
 - **Z2.** B. La comunidad decide qué es reservado.
-- **D1.** B. Se respeta lo que la comunidad pidió.
-- **D2.** A. Solo se usan expresiones conocidas o validadas.
-- **S1.** B. El saludo debe ser validado.
+- **D1.** A. Se respeta lo que la comunidad pidió.
+- **D2.** B. Solo se usan expresiones conocidas o validadas.
+- **S1.** A. El saludo debe ser validado.
 - **E1.** Dos entre: ceremonias, rogativas, salidas a terreno. Son las tres de la clase.
 - **E2.** Verdadero. Esos son sus datos.
 - **E3.** B. Ellos deciden qué es reservado.
@@ -354,15 +354,15 @@ Respuesta: Nota: «Mari mari» fue dictada por el educador tradicional en la fec
 
 *Recuperación*
 
-- **R1.** ¿Cómo se copia una expresión en lengua? A) con exactitud, sin cambiar letras B) cambiando lo que no entiendo
+- **R1.** ¿Cómo se copia una expresión en lengua? A) cambiando lo que no entiendo B) con exactitud, sin cambiar letras
 - **R2.** ¿Qué significa «iorana»?
-- **R3.** ¿Qué se anota junto a una expresión en lengua? A) el color del lápiz B) quién la dictó y cuándo
+- **R3.** ¿Qué se anota junto a una expresión en lengua? A) quién la dictó y cuándo B) el color del lápiz
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: una misma lengua puede escribirse de más de una manera.
 - **C2.** Verdadero o falso: si dudas de una letra, la cambias a tu gusto.
-- **C3.** ¿Quién decide qué variante de escritura usa tu comunidad? A) la comunidad y el educador o la educadora B) el primer resultado de una búsqueda
+- **C3.** ¿Quién decide qué variante de escritura usa tu comunidad? A) el primer resultado de una búsqueda B) la comunidad y el educador o la educadora
 
 *Aplicación*
 
@@ -372,13 +372,13 @@ Respuesta: Nota: «Mari mari» fue dictada por el educador tradicional en la fec
 
 *Razonamiento y análisis*
 
-- **Z1.** Rodrigo dice: «Escribí ‘mari mari’ de otra manera y es mejor». ¿Qué error comete? A) cambió la expresión sin consultar B) la escribió con lápiz
+- **Z1.** Rodrigo dice: «Escribí ‘mari mari’ de otra manera y es mejor». ¿Qué error comete? A) la escribió con lápiz B) cambió la expresión sin consultar
 - **Z2.** Carla comparó dos formas de escribir una palabra y dijo que una era «la verdadera». ¿Qué falla? A) puede ser una variante, no hay una verdadera B) usó la regla
 
 *Desafío*
 
 - **D1.** Tu texto tiene: un saludo en castellano, «mari mari» y una frase de agradecimiento en castellano. ¿Qué parte debe validar el educador? A) «mari mari» B) el saludo en castellano
-- **D2.** Quieres agregar una frase larga en lengua que viste en un afiche en línea. ¿Qué haces? A) la copio B) pregunto al educador si corresponde y cómo se escribe
+- **D2.** Quieres agregar una frase larga en lengua que viste en un afiche en línea. ¿Qué haces? A) pregunto al educador si corresponde y cómo se escribe B) la copio
 
 *Situaciones auténticas*
 
@@ -394,19 +394,19 @@ Respuesta: Nota: «Mari mari» fue dictada por el educador tradicional en la fec
 
 **Solucionario razonado**
 
-- **R1.** A. Se copia tal como la entrega el educador.
+- **R1.** B. Se copia tal como la entrega el educador.
 - **R2.** Saludo en rapa nui. Es un saludo muy conocido.
-- **R3.** B. Se atribuye la fuente.
+- **R3.** A. Se atribuye la fuente.
 - **C1.** Verdadero. Son variantes de escritura.
 - **C2.** Falso. Se pregunta al educador.
-- **C3.** A. Ellos conocen la forma que usa la comunidad.
+- **C3.** B. Ellos conocen la forma que usa la comunidad.
 - **A1.** Sí. Falta una letra respecto de lo dictado.
 - **A2.** a castellano, b lengua. La primera frase está en castellano; la segunda es una expresión en mapuzugun.
 - **A3.** Educador o educadora. Es quien enseña la expresión.
-- **Z1.** A. No se cambia una expresión sin validar.
+- **Z1.** B. No se cambia una expresión sin validar.
 - **Z2.** A. Pueden ser variantes de escritura.
 - **D1.** A. Es la expresión en lengua.
-- **D2.** B. No se copia lo que no se sabe si es correcto.
+- **D2.** A. No se copia lo que no se sabe si es correcto.
 - **S1.** B. La validación va antes de compartir.
 - **E1.** Una entre: mari mari, saludo en mapuzugun; chaltumay, gracias en mapuzugun; iorana, saludo en rapa nui; maururu, gracias en rapa nui. Son las expresiones atestiguadas de este cuaderno.
 - **E2.** Verdadero. Ayuda a validar.
@@ -564,19 +564,19 @@ Respuesta: Formal con la persona mayor y no formal con el grupo.
 *Recuperación*
 
 - **R1.** ¿Qué parte va primero en una invitación? A) el saludo B) la despedida
-- **R2.** ¿Qué datos lleva una nota de campo? A) solo el título B) fecha, lugar y lo observado
-- **R3.** ¿Qué registro usas para invitar a una persona mayor? A) no formal B) formal
+- **R2.** ¿Qué datos lleva una nota de campo? A) fecha, lugar y lo observado B) solo el título
+- **R3.** ¿Qué registro usas para invitar a una persona mayor? A) formal B) no formal
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: la fecha, el lugar y los invitados de una ceremonia pueden escribirse si la comunidad lo autoriza.
 - **C2.** Verdadero o falso: las palabras reservadas de una rogativa deben escribirse completas en tu cuaderno.
-- **C3.** ¿Qué es una pregunta pendiente? A) una respuesta inventada B) una duda anotada para consultar al educador
+- **C3.** ¿Qué es una pregunta pendiente? A) una duda anotada para consultar al educador B) una respuesta inventada
 
 *Aplicación*
 
 - **A1.** Ordena las partes de un agradecimiento con letras: a) «Gracias por la visita» b) «Hasta pronto» c) «Querida vecina». Escribe el orden.
-- **A2.** Clasifica en OBSERVACIÓN o INTERPRETACIÓN: a) «Vi cuatro surcos de lechuga» b) «Yo pienso que el huerto es muy cuidado».
+- **A2.** Clasifica en OBSERVACIÓN o INTERPRETACIÓN: a) «Yo pienso que el huerto es muy cuidado» b) «Vi cuatro surcos de lechuga».
 - **A3.** Nota de campo: «Fecha: 15 de mayo. Lugar: huerto. Observé 3 hileras de zapallos y 2 de papas». ¿Cuántas hileras observó en total?
 
 *Razonamiento y análisis*
@@ -604,13 +604,13 @@ Respuesta: Formal con la persona mayor y no formal con el grupo.
 **Solucionario razonado**
 
 - **R1.** A. Los textos empiezan saludando.
-- **R2.** B. Son sus partes.
-- **R3.** B. Se muestra respeto.
+- **R2.** A. Son sus partes.
+- **R3.** A. Se muestra respeto.
 - **C1.** Verdadero. Son datos que la comunidad puede autorizar.
 - **C2.** Falso. Lo reservado no se escribe.
-- **C3.** B. Se guarda para consultar después.
+- **C3.** A. Se guarda para consultar después.
 - **A1.** c, a, b. Saludo, agradecimiento y despedida.
-- **A2.** a observación, b interpretación. La primera es un dato; la segunda es una idea.
+- **A2.** b observación, b interpretación. La primera es un dato; la segunda es una idea.
 - **A3.** 5. Se suman 3 y 2.
 - **Z1.** B. Una invitación necesita fecha, hora y lugar.
 - **Z2.** A. No es observación ni fuente.
@@ -772,25 +772,25 @@ Respuesta: Límites: no sé por qué reparan los miércoles. Devolución: le lee
 
 *Recuperación*
 
-- **R1.** ¿Cómo atribuyes un dato a doña Luz? A) «Dicen que…» B) «Según doña Luz…»
+- **R1.** ¿Cómo atribuyes un dato a doña Luz? A) «Según doña Luz…» B) «Dicen que…»
 - **R2.** ¿Qué dice la sección de límites? A) lo que no entendí o no se pudo escribir B) los mejores datos
-- **R3.** ¿Qué es la devolución? A) mostrar el texto a la fuente para que lo revise B) venderlo
+- **R3.** ¿Qué es la devolución? A) venderlo B) mostrar el texto a la fuente para que lo revise
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: en un texto, lo observado y lo citado deben separarse.
 - **C2.** Verdadero o falso: la expresión en lengua puede aparecer sin decir quién la dictó.
-- **C3.** ¿Cómo se ayuda al educador a revisar un texto? A) juntando todo en un solo párrafo B) separando los datos, las citas, las expresiones en lengua y los límites
+- **C3.** ¿Cómo se ayuda al educador a revisar un texto? A) separando los datos, las citas, las expresiones en lengua y los límites B) juntando todo en un solo párrafo
 
 *Aplicación*
 
-- **A1.** Clasifica en OBSERVADO o CITADO: a) «Vi tres botes en la orilla» b) «Doña Luz contó que salen al amanecer».
+- **A1.** Clasifica en OBSERVADO o CITADO: a) «Doña Luz contó que salen al amanecer» b) «Vi tres botes en la orilla».
 - **A2.** Escribe la atribución de «maururu»: «La expresión ‘maururu’ fue dictada por el ______». Responde con las palabras que faltan.
 - **A3.** Un texto dice «No sé cómo se llama el muelle». ¿En qué sección va? A) límites B) observado
 
 *Razonamiento y análisis*
 
-- **Z1.** Marina leyó su nota de campo a la persona que la recibió, quien corrigió un dato. ¿Qué paso del proceso cumplió Marina? A) devolución B) ensayo
+- **Z1.** Marina leyó su nota de campo a la persona que la recibió, quien corrigió un dato. ¿Qué paso del proceso cumplió Marina? A) ensayo B) devolución
 - **Z2.** Iván escribió: «La comunidad cree que la red es sagrada». Doña Luz solo dijo que la reparan los miércoles. ¿Qué error comete?
 
 *Desafío*
@@ -800,7 +800,7 @@ Respuesta: Límites: no sé por qué reparan los miércoles. Devolución: le lee
 
 *Situaciones auténticas*
 
-- **S1.** Tras una salida a terreno, tu grupo debe presentar sus notas a la comunidad. ¿Qué hacen primero? A) agregar detalles inventados B) revisar que separen observado, citado y límites
+- **S1.** Tras una salida a terreno, tu grupo debe presentar sus notas a la comunidad. ¿Qué hacen primero? A) revisar que separen observado, citado y límites B) agregar detalles inventados
 
 *Autoevaluación*
 
@@ -812,20 +812,20 @@ Respuesta: Límites: no sé por qué reparan los miércoles. Devolución: le lee
 
 **Solucionario razonado**
 
-- **R1.** B. Nombra la fuente.
+- **R1.** A. Nombra la fuente.
 - **R2.** A. Los límites muestran lo que falta.
-- **R3.** A. Es mostrar y agradecer.
+- **R3.** B. Es mostrar y agradecer.
 - **C1.** Verdadero. Así se distingue lo que vi de lo que me contaron.
 - **C2.** Falso. Siempre se atribuye.
-- **C3.** B. La separación facilita la revisión.
-- **A1.** a observado, b citado. La primera la vio quien escribe; la segunda la contó la fuente.
+- **C3.** A. La separación facilita la revisión.
+- **A1.** b observado, b citado. La primera la vio quien escribe; la segunda la contó la fuente.
 - **A2.** Educador o educadora tradicional. Es quien dicta las expresiones.
 - **A3.** A. Es algo que no sé.
-- **Z1.** A. Mostró el texto a la fuente.
+- **Z1.** B. Mostró el texto a la fuente.
 - **Z2.** Atribuye una creencia que la fuente no dijo. No está en lo contado.
 - **D1.** La primera. Está ordenada por tipo de dato.
 - **D2.** 10 líneas. Se suman las líneas de cada tipo. Cálculo: 5 + 3 + 2 = 10.
-- **S1.** B. Un texto ordenado y fiel se presenta con respeto.
+- **S1.** A. Un texto ordenado y fiel se presenta con respeto.
 - **E1.** Datos observados, citas de la fuente, expresiones en lengua y límites. Son las secciones que ayudan a revisar.
 - **E2.** Verdadero. Es parte de cerrar el trabajo.
 - **E3.** B. Los límites evitan inventar.
@@ -981,7 +981,7 @@ Respuesta: Se agrega «dictada por el educador».
 
 *Recuperación*
 
-- **R1.** Versión A: «Estimado vecino, lo invitamos». Versión B: «Hola vecino, ven». ¿Cuál usa «usted»? A) la B B) la A
+- **R1.** Versión A: «Estimado vecino, lo invitamos». Versión B: «Hola vecino, ven». ¿Cuál usa «usted»? A) la A B) la B
 - **R2.** ¿Cuántas preguntas tiene la lista de verificación de esta clase? Escribe el número.
 - **R3.** ¿Qué es contrastar? A) elegir una sola versión B) comparar para ver semejanzas y diferencias
 
@@ -989,17 +989,17 @@ Respuesta: Se agrega «dictada por el educador».
 
 - **C1.** Verdadero o falso: dos versiones de un mismo mensaje pueden ser adecuadas si sirven a su propósito.
 - **C2.** Verdadero o falso: si dos personas escriben una expresión distinto, una de ellas se equivoca.
-- **C3.** ¿Qué haces para elegir entre dos variantes de escritura? A) elijo la que más me gusta B) pregunto al educador cuál usa la comunidad
+- **C3.** ¿Qué haces para elegir entre dos variantes de escritura? A) pregunto al educador cuál usa la comunidad B) elijo la que más me gusta
 
 *Aplicación*
 
 - **A1.** Lista de verificación: ¿el texto respeta lo reservado? Texto: «Les contaré qué se dijo en la rogativa». ¿Cumple? Responde Sí o No.
-- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) ambas versiones agradecen b) una usa «usted» y la otra «tú».
-- **A3.** Una versión dice «Estimada vecina» y otra «Querida vecina». ¿Qué criterio las separa? A) la fecha B) el trato
+- **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) una usa «usted» y la otra «tú» b) ambas versiones agradecen.
+- **A3.** Una versión dice «Estimada vecina» y otra «Querida vecina». ¿Qué criterio las separa? A) el trato B) la fecha
 
 *Razonamiento y análisis*
 
-- **Z1.** Tomás dice: «Mi versión es más correcta porque es más corta». ¿Qué error comete? A) usa la longitud como criterio de corrección B) usó un título
+- **Z1.** Tomás dice: «Mi versión es más correcta porque es más corta». ¿Qué error comete? A) usó un título B) usa la longitud como criterio de corrección
 - **Z2.** Elena revisó su texto y respondió «sí» a todas las preguntas, pero no preguntó al educador. ¿Qué falta? A) otra hoja B) validación de las expresiones en lengua
 
 *Desafío*
@@ -1009,35 +1009,35 @@ Respuesta: Se agrega «dictada por el educador».
 
 *Situaciones auténticas*
 
-- **S1.** Tu grupo escribió dos tarjetas para la misma persona de la comunidad: una formal y una cercana. ¿Cuál entregan? A) la más larga B) la que corresponda a la relación con esa persona y la validada por el educador
+- **S1.** Tu grupo escribió dos tarjetas para la misma persona de la comunidad: una formal y una cercana. ¿Cuál entregan? A) la que corresponda a la relación con esa persona y la validada por el educador B) la más larga
 
 *Autoevaluación*
 
 - **E1.** Nombra dos preguntas de la lista de verificación.
 - **E2.** Verdadero o falso: contrastar versiones es decir cuál es mejor.
-- **E3.** ¿Qué haces cuando dos personas escriben distinto una expresión? A) elijo al azar B) consulto al educador
+- **E3.** ¿Qué haces cuando dos personas escriben distinto una expresión? A) consulto al educador B) elijo al azar
 
 **Actividad abierta.** Lee dos versiones inventadas de un agradecimiento. Versión A: «Estimada vecina: le agradecemos su visita al curso. Fue un gusto escucharla. Hasta pronto.» Versión B: «Hola vecina: gracias por venir. Estuvo muy bueno. Chao.» Haz una tabla con tres criterios: trato, partes y propósito. Escribe una semejanza y una diferencia. Luego revisa la versión A con la lista de verificación y anota qué le falta (por ejemplo, la expresión en lengua con atribución). Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** B. «Lo invitamos» corresponde al trato formal.
+- **R1.** A. «Lo invitamos» corresponde al trato formal.
 - **R2.** 5. Son cinco preguntas en total.
 - **R3.** B. Es comparar sin elegir un ganador.
 - **C1.** Verdadero. Dependen de la audiencia.
 - **C2.** Falso. Pueden ser variantes.
-- **C3.** B. La comunidad decide.
+- **C3.** A. La comunidad decide.
 - **A1.** No. Dice que contará lo reservado.
-- **A2.** a semejanza, b diferencia. La primera es común; la segunda, distinta.
-- **A3.** B. Una es más formal que la otra.
-- **Z1.** A. La longitud no define si es adecuada.
+- **A2.** b semejanza, b diferencia. La primera es común; la segunda, distinta.
+- **A3.** A. Una es más formal que la otra.
+- **Z1.** B. La longitud no define si es adecuada.
 - **Z2.** B. La lista no reemplaza la validación.
 - **D1.** La primera. Tiene más partes de la lista.
 - **D2.** 1 pregunta. Se resta lo cumplido del total. Cálculo: 5 − 4 = 1.
-- **S1.** B. La elección depende de la audiencia y la validación.
+- **S1.** A. La elección depende de la audiencia y la validación.
 - **E1.** Dos entre: partes, registro, atribución, reservado, límites y devolución. Son preguntas de la lista.
 - **E2.** Falso. Es describir semejanzas y diferencias.
-- **E3.** B. Él valida la variante.
+- **E3.** A. Él valida la variante.
 
 **Actividad abierta · ejemplo de respuesta.** Trato: A formal, B cercano. Partes: ambas tienen saludo y despedida. Propósito: agradecer. Semejanza: ambas agradecen. Diferencia: A es más formal. Revisión de A: falta la expresión en lengua dictada por el educador y una línea de devolución.
 

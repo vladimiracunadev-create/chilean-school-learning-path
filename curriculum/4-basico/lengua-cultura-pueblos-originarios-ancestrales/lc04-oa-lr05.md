@@ -164,7 +164,7 @@ Respuesta: no lo copia y pregunta al educador tradicional
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si el diseño de un textil es bonito, lo copio en mi recurso». ¿Tiene razón? Sí o No.
-- **Z2.** El curso no sabe si puede mostrar el afiche a otros cursos. ¿Qué hace mejor: A) lo publica y ve qué pasa. B) acuerda con el educador tradicional quién lo verá antes de empezar?
+- **Z2.** El curso no sabe si puede mostrar el afiche a otros cursos. ¿Qué hace mejor: A) acuerda con el educador tradicional quién lo verá antes de empezar B) lo publica y ve qué pasa.?
 
 *Desafío*
 
@@ -195,7 +195,7 @@ Respuesta: no lo copia y pregunta al educador tradicional
 - **A2.** 4. Son cuatro límites.
 - **A3.** Sí. Ambas están en la lista autorizada.
 - **Z1.** No. El diseño puede tener significado y no se copia sin permiso.
-- **Z2.** B. Los límites se fijan antes.
+- **Z2.** A. Los límites se fijan antes.
 - **D1.** B, C, A. Primero acuerdo el propósito, luego fijo los límites y recién empiezo.
 - **D2.** 6. 3 + 2 + 1 = 6 elementos.
 - **S1.** «Pidamos que lo explique el educador tradicional». El significado lo da quien lo cuida.
@@ -581,7 +581,7 @@ Respuesta: el dibujo copiado del textil
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Mi diseño tiene diez palabras en lengua indígena, así que es mejor». La lista autorizada trae solo 3. ¿Tiene razón? Sí o No.
-- **Z2.** Dos bocetos: A) título, 2 palabras autorizadas con significado, dibujo propio, fuente y autores. B) título, 8 palabras sin permiso, diseño copiado de un textil. ¿Cuál cumple mejor?
+- **Z2.** Dos bocetos: A) título, 8 palabras sin permiso, diseño copiado de un textil. ¿Cuál cumple mejor B) título, 2 palabras autorizadas con significado, dibujo propio, fuente y autores.?
 
 *Desafío*
 
@@ -612,7 +612,7 @@ Respuesta: el dibujo copiado del textil
 - **A2.** 6. 4 + 1 + 1 = 6 contando las dos palabras por separado.
 - **A3.** 1. 3 − 2 = 1.
 - **Z1.** No. Solo se pueden usar las autorizadas.
-- **Z2.** A. El A respeta permisos y no copia.
+- **Z2.** B. El A respeta permisos y no copia.
 - **D1.** 8 y 5. 4 × 2 = 8 palabras, 8 − 3 = 5 sin autorizar.
 - **D2.** C, B, A. Primero pienso las partes, luego dibujo el boceto y al final reviso.
 - **S1.** una imagen propia del curso. No se copian diseños tradicionales sin permiso.
@@ -994,7 +994,7 @@ Respuesta: No
 
 - **A1.** Datos de un afiche: 1) fuente de las palabras, 2) quiénes lo hicieron, 3) para quién es. ¿Cuántos datos de atribución tiene el afiche si trae solo el 1 y el 2?
 - **A2.** El permiso de la educadora: «solo para familias en la reunión del curso». ¿Quién puede ver el recurso: las familias en la reunión o todo internet?
-- **A3.** Un niño quiere escribir al pie del afiche el nombre y el apellido de un compañero. ¿Qué hacen: A) piden permiso a la persona y a su familia, y usan solo su primer nombre si lo permiten. B) los ponen sin preguntar?
+- **A3.** Un niño quiere escribir al pie del afiche el nombre y el apellido de un compañero. ¿Qué hacen: A) los ponen sin preguntar B) piden permiso a la persona y a su familia, y usan solo su primer nombre si lo permiten.?
 
 *Razonamiento y análisis*
 
@@ -1028,7 +1028,7 @@ Respuesta: No
 - **C3.** quién enseñó las palabras. Nombra a la fuente.
 - **A1.** 2. La atribución nombra quién enseñó y quién hizo.
 - **A2.** las familias en la reunión. Eso dice el permiso.
-- **A3.** A. Los datos personales exigen permiso.
+- **A3.** B. Los datos personales exigen permiso.
 - **Z1.** No. La fuente debe revisarlo.
 - **Z2.** la atribución de la fuente. Falta nombrar quién enseñó.
 - **D1.** C, B, A. Termino, devuelvo para que lo revisen y recién muestro.

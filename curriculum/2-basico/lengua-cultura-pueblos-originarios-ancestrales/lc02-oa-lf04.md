@@ -157,7 +157,7 @@ Respuesta: Pregunto al educador y no invento la letra
 
 *Aplicación*
 
-- **A1.** De estas palabras muestra el modelo correcto del saludo: a) «mari mari», b) «marimari». Letra:
+- **A1.** De estas palabras muestra el modelo correcto del saludo: a) «marimari». Letra:, b) «mari mari»
 - **A2.** «Mapu» tiene 4 letras y «ko» tiene 2 letras. ¿Cuántas letras tienen las dos palabras juntas?
 - **A3.** Empareja: antü, ko, mapu. ¿Cuál es «agua»?
 
@@ -191,7 +191,7 @@ Respuesta: Pregunto al educador y no invento la letra
 - **C1.** Tierra. Es el significado del modelo.
 - **C2.** Luna. Es el significado del modelo.
 - **C3.** Porque puede ser incorrecta. Hay que preguntar a la comunidad.
-- **A1.** a. El modelo tiene dos palabras.
+- **A1.** b. El modelo tiene dos palabras.
 - **A2.** 6. Se suman las letras. Cálculo: 4 + 2 = 6.
 - **A3.** ko. Ko significa agua.
 - **Z1.** Mirar el modelo del educador. Debe copiar el modelo.
@@ -578,7 +578,7 @@ Respuesta: Palabra pendiente de confirmar
 
 - **A1.** Arma la tarjeta de «ko»: escribe la palabra, el significado y el dibujo. Escribe: «ko / ___ / dibujo de ___».
 - **A2.** Tienes 5 tarjetas de palabras y haces 3 más. ¿Cuántas tarjetas tienes?
-- **A3.** De estas dos tarjetas, ¿cuál está bien hecha? A) «mapu / sol» con un dibujo de tierra. B) «mapu / tierra» con un dibujo de tierra. Letra:
+- **A3.** De estas dos tarjetas, ¿cuál está bien hecha? A) «mapu / tierra» con un dibujo de tierra. Letra: B) «mapu / sol» con un dibujo de tierra.
 
 *Razonamiento y análisis*
 
@@ -612,7 +612,7 @@ Respuesta: Palabra pendiente de confirmar
 - **C3.** Kuyen. Kuyen es luna.
 - **A1.** ko / agua / dibujo de agua. Ko significa agua.
 - **A2.** 8. Se suman las tarjetas. Cálculo: 5 + 3 = 8.
-- **A3.** B. Mapu significa tierra.
+- **A3.** A. Mapu significa tierra.
 - **Z1.** Cambió el significado: antü es sol. Antü significa sol.
 - **Z2.** Pendiente de confirmar. No se afirma algo no revisado.
 - **D1.** La 1. Tiene todas las partes y la autoría.

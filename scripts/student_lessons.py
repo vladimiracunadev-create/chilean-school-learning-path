@@ -70,10 +70,64 @@ def evaluate(expr: str):
     return walk(ast.parse(expr, mode="eval"))
 
 
+_MARK = re.compile(r"(?:(?<=\s)|^)(\(?)([AaBbCc])(\)|\.)(?=\s)")
+_ANSWER = re.compile(r"^(\(?)([AaBb])(\)?[\).]?)(\s.*)?$")
+_LETTER_IN_WHY = re.compile(r"(?:opci[oó]n|alternativa|letra)\s+\(?[AaBb]\b|\(?\b[AaBb]\)")
+
+
+def _swap_options(item: dict) -> None:
+    """Place the correct option of an A/B question at a position fixed by a hash of its content.
+
+    Authors tend to put the right option first. Deciding the position from a hash of the statement
+    and of the two options (not from where the author put it) keeps about half of the answers on
+    each side, and the answer key is rewritten to match.
+    """
+    import zlib
+    q, answer = item["q"], str(item["a"])
+    marks = list(_MARK.finditer(q))
+    letters = [m.group(2) for m in marks]
+    if len(marks) != 2 or letters[0].upper() != "A" or letters[1].upper() != "B" or letters[0].islower() != letters[1].islower():
+        return
+    am = _ANSWER.match(answer.strip())
+    if not am or _LETTER_IN_WHY.search(item.get("why", "")):
+        return
+    first, second = marks
+    a_raw = q[first.end():second.start()]
+    sep = re.search(r"(?:\s+[oO]|\s*[,;])\s*$", a_raw)
+    a_text = (a_raw[:sep.start()] if sep else a_raw).strip()
+    separator = sep.group(0).rstrip() if sep else ""
+    b_raw = q[second.end():].strip()
+    tail = re.search(r"[?.!]*$", b_raw).group(0)
+    b_text = b_raw[:len(b_raw) - len(tail)].strip()
+    if not a_text or not b_text or chr(10) in q:
+        return
+    stem = q[:first.start()]
+    correct_is_a = am.group(2).upper() == "A"
+    key = stem + "|" + "|".join(sorted((a_text, b_text)))
+    want_a = zlib.crc32(key.encode("utf-8")) % 2 == 0
+    if want_a == correct_is_a:
+        return
+    lo = letters[0].islower()
+    la, lb = ("a", "b") if lo else ("A", "B")
+    ma, mb = first.group(1), second.group(1)
+    ca, cb = first.group(3), second.group(3)
+    item["q"] = f"{stem}{ma}{la}{ca} {b_text}{separator} {mb}{lb}{cb} {a_text}{tail}"
+    flipped = ("b" if am.group(2) == "a" else "B") if am.group(2) in "aA" else ("a" if am.group(2) == "b" else "A")
+    item["a"] = f"{am.group(1)}{flipped}{am.group(3)}{am.group(4) or ''}"
+
+
+def balance_options(content: dict) -> None:
+    for group in list(content.get("tiers", {}).values()) + [content.get("context", []), content.get("selfcheck", [])]:
+        for item in group:
+            if isinstance(item, dict) and "q" in item and "a" in item:
+                _swap_options(item)
+
+
 def register(oa_code: str, number: int, **content) -> None:
     key = (oa_code, number)
     if key in REGISTRY:
         raise ValueError(f"contenido de estudiante duplicado: {key}")
+    balance_options(content)
     REGISTRY[key] = content
 
 

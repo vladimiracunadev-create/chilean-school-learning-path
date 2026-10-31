@@ -145,13 +145,13 @@ Respuesta: Detengo la actividad y pregunto al educador tradicional.
 *Recuperación*
 
 - **R1.** Según la ficha de Bahía Serena, ¿quién es la fuente y responsable del relato?
-- **R2.** Un relato fundacional cuenta: A) cómo empezó el mundo o un lugar B) la lista de útiles escolares
+- **R2.** Un relato fundacional cuenta: A) la lista de útiles escolares B) cómo empezó el mundo o un lugar
 - **R3.** En la ficha de Bahía Serena, ¿qué hay en el territorio: una bahía con playa o una cordillera con nieve?
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: un relato fundacional pertenece a la comunidad que lo cuida.
-- **C2.** ¿Para qué sirve el dato «Límite» de una ficha? A) para saber qué parte no se cuenta fuera de la comunidad B) para saber la hora del recreo
+- **C2.** ¿Para qué sirve el dato «Límite» de una ficha? A) para saber la hora del recreo B) para saber qué parte no se cuenta fuera de la comunidad
 - **C3.** Una ficha trae comunidad, territorio, fuente y fecha, pero no dice si hay autorización para usar el relato ni qué parte se reserva. ¿Qué dos datos faltan?
 
 *Aplicación*
@@ -185,10 +185,10 @@ Respuesta: Detengo la actividad y pregunto al educador tradicional.
 **Solucionario razonado**
 
 - **R1.** Doña Marta. La ficha la nombra como narradora de la comunidad.
-- **R2.** A. Los relatos fundacionales hablan de orígenes.
+- **R2.** B. Los relatos fundacionales hablan de orígenes.
 - **R3.** Una bahía con playa. Así describe la ficha su territorio.
 - **C1.** Verdadero. La comunidad lo transmite y decide su uso.
-- **C2.** A. El límite protege lo que la comunidad reserva.
+- **C2.** B. El límite protege lo que la comunidad reserva.
 - **C3.** El permiso y el límite. Son los dos datos de los seis que no aparecen.
 - **A1.** No. El límite lo prohíbe expresamente.
 - **A2.** 1-c, 2-a, 3-b. Cada dato responde una pregunta distinta.
@@ -358,19 +358,19 @@ Respuesta: El relato que conozco no cuenta eso.
 *Comprensión*
 
 - **C1.** Relato de práctica «La primera gota» (inventado): «Al principio no había mar, ni playa, ni cerros. Solo había silencio y una sombra muy grande. Un día cayó una gota diminuta y brilló en la sombra. De esa gota nació el primer mar. El mar mojó la arena, la arena sostuvo la primera roca y de la roca salieron las primeras personas.» Verdadero o falso: al principio había una sombra muy pequeña.
-- **C2.** ¿Qué es un «límite declarado»? A) lo que se dice abiertamente que no se cuenta B) un dibujo del mapa
+- **C2.** ¿Qué es un «límite declarado»? A) un dibujo del mapa B) lo que se dice abiertamente que no se cuenta
 - **C3.** Si el relato no cuenta algo, ¿qué haces: lo completo con mi idea o digo que el relato no lo cuenta?
 
 *Aplicación*
 
 - **A1.** Ordena estos hechos del relato de Bahía Serena: a) las personas salen de la roca b) cae la gota c) nace el mar d) la arena sostiene la roca. Escribe las letras.
-- **A2.** Relato de práctica «La primera gota» (inventado): «Al principio no había mar, ni playa, ni cerros. Solo había silencio y una sombra muy grande. Un día cayó una gota diminuta y brilló en la sombra. De esa gota nació el primer mar. El mar mojó la arena, la arena sostuvo la primera roca y de la roca salieron las primeras personas.» ¿Cuál afirmación está en el relato? A) el mar tenía muchos peces B) la gota brilló en la sombra
+- **A2.** Relato de práctica «La primera gota» (inventado): «Al principio no había mar, ni playa, ni cerros. Solo había silencio y una sombra muy grande. Un día cayó una gota diminuta y brilló en la sombra. De esa gota nació el primer mar. El mar mojó la arena, la arena sostuvo la primera roca y de la roca salieron las primeras personas.» ¿Cuál afirmación está en el relato? A) la gota brilló en la sombra B) el mar tenía muchos peces
 - **A3.** Relato de práctica «La semilla de luz» (inventado): «Al principio el mundo dormía bajo el hielo. Una semilla de luz bajó del cielo y se hundió en el hielo. El hielo se quebró y salió el primer pasto. El pasto llamó al viento y el viento llamó a las personas.» ¿Qué se quebró cuando la semilla de luz se hundió?
 
 *Razonamiento y análisis*
 
 - **Z1.** Tomás dice: «La gota del relato era de lluvia». Según el texto de «La primera gota», ¿se puede afirmar eso? Responde Sí o No.
-- **Z2.** La ficha de Bahía Serena reserva la segunda parte. Un compañero pregunta qué pasó después con las personas. ¿Qué respuesta respeta el límite? A) «Esa parte no se cuenta fuera de la comunidad» B) «Seguro se fueron a vivir al río»
+- **Z2.** La ficha de Bahía Serena reserva la segunda parte. Un compañero pregunta qué pasó después con las personas. ¿Qué respuesta respeta el límite? A) «Seguro se fueron a vivir al río» B) «Esa parte no se cuenta fuera de la comunidad»
 
 *Desafío*
 
@@ -395,13 +395,13 @@ Respuesta: El relato que conozco no cuenta eso.
 - **R2.** De la roca. Es lo último que cuenta el relato.
 - **R3.** La arena. El relato dice que la arena sostuvo la roca.
 - **C1.** Falso. El relato dice que la sombra era muy grande.
-- **C2.** A. Es lo que la fuente avisa que no cuenta.
+- **C2.** B. Es lo que la fuente avisa que no cuenta.
 - **C3.** Digo que el relato no lo cuenta. Se respeta lo que la fuente contó.
 - **A1.** b, c, d, a. La gota origina el mar, el mar moja la arena y la arena sostiene la roca de la que salen las personas.
-- **A2.** B. La A agrega algo que no se cuenta.
+- **A2.** A. La A agrega algo que no se cuenta.
 - **A3.** El hielo. El relato lo dice así.
 - **Z1.** No. El relato solo dice que era una gota diminuta que brilló.
-- **Z2.** A. La B inventa lo que la comunidad reserva.
+- **Z2.** B. La B inventa lo que la comunidad reserva.
 - **D1.** La arena y la roca. En el relato, el mar moja la arena y la arena sostiene la roca de la que salen las personas.
 - **D2.** El lector 1. El lector 2 generaliza a todos los pueblos.
 - **S1.** A. El silencio de quien cuenta es un límite que se respeta.
@@ -581,8 +581,8 @@ Respuesta: Según doña Marta, el relato lleva a cuidar y agradecer al mar.
 
 *Desafío*
 
-- **D1.** Elige la frase que relaciona bien: A) «Según doña Marta, por el relato no se tira basura al mar» B) «Todos los pueblos cuidan el mar por sus relatos»
-- **D2.** ¿Quién puede decir por qué la comunidad de Bahía Serena da importancia al mar? A) la comunidad B) quien lee el relato y lo imagina
+- **D1.** Elige la frase que relaciona bien: A) «Todos los pueblos cuidan el mar por sus relatos» B) «Según doña Marta, por el relato no se tira basura al mar»
+- **D2.** ¿Quién puede decir por qué la comunidad de Bahía Serena da importancia al mar? A) quien lee el relato y lo imagina B) la comunidad
 
 *Situaciones auténticas*
 
@@ -609,8 +609,8 @@ Respuesta: Según doña Marta, el relato lleva a cuidar y agradecer al mar.
 - **A3.** antü y kuyen. Sol y luna están en el cielo.
 - **Z1.** La fiesta y la fecha. El testimonio no habla de fiestas.
 - **Z2.** Mezcla un relato inventado con una ficha de palabras. El relato es inventado y no es de ningún pueblo.
-- **D1.** A. La B generaliza y no atribuye a una fuente.
-- **D2.** A. El sentido lo da la comunidad.
+- **D1.** B. La B generaliza y no atribuye a una fuente.
+- **D2.** B. El sentido lo da la comunidad.
 - **S1.** A. La importancia la explica la comunidad.
 - **E1.** El mar, la arena y la roca aparecen en el relato y en la bahía. Así el relato se vincula con el territorio.
 - **E2.** Según. Indica la fuente de la idea.
@@ -767,19 +767,19 @@ Respuesta: Falta atribuirla: «Según el relato de doña Marta, el mar nació de
 *Recuperación*
 
 - **R1.** Completa: «Según doña Marta, el mar nació de una ___». Escribe la palabra que falta.
-- **R2.** ¿Cuál frase atribuye la idea? A) «Según don Anselmo, salió el primer pasto» B) «Salió el primer pasto»
+- **R2.** ¿Cuál frase atribuye la idea? A) «Salió el primer pasto» B) «Según don Anselmo, salió el primer pasto»
 - **R3.** ¿Con qué palabras separo mi opinión de lo que dice la fuente: «Yo pienso…» o «Según…»?
 
 *Comprensión*
 
-- **C1.** Las tres partes de una respuesta atribuida son: fuente, idea del relato y… A) un dato del texto que la apoya B) un chiste
+- **C1.** Las tres partes de una respuesta atribuida son: fuente, idea del relato y… A) un chiste B) un dato del texto que la apoya
 - **C2.** Verdadero o falso: «El mundo nació de una gota» es una frase bien atribuida.
 - **C3.** Si el relato no cuenta un dato, ¿qué escribo: «el relato no dice…» o una idea inventada?
 
 *Aplicación*
 
 - **A1.** Ordena para formar una respuesta atribuida: a) porque la gota brilló en la sombra b) el mar nació de una gota c) Según el relato de doña Marta. Escribe las letras.
-- **A2.** Relato de práctica «La semilla de luz» (inventado): «Al principio el mundo dormía bajo el hielo. Una semilla de luz bajó del cielo y se hundió en el hielo. El hielo se quebró y salió el primer pasto. El pasto llamó al viento y el viento llamó a las personas.» Elige la respuesta atribuida: A) «Según el relato de don Anselmo, el primer pasto salió cuando el hielo se quebró» B) «El pasto salió del hielo en todo el mundo»
+- **A2.** Relato de práctica «La semilla de luz» (inventado): «Al principio el mundo dormía bajo el hielo. Una semilla de luz bajó del cielo y se hundió en el hielo. El hielo se quebró y salió el primer pasto. El pasto llamó al viento y el viento llamó a las personas.» Elige la respuesta atribuida: A) «El pasto salió del hielo en todo el mundo» B) «Según el relato de don Anselmo, el primer pasto salió cuando el hielo se quebró»
 - **A3.** Relato de práctica «La semilla de luz» (inventado): «Al principio el mundo dormía bajo el hielo. Una semilla de luz bajó del cielo y se hundió en el hielo. El hielo se quebró y salió el primer pasto. El pasto llamó al viento y el viento llamó a las personas.» Completa con un dato del texto: «Según don Anselmo, la semilla de luz bajó del ___».
 
 *Razonamiento y análisis*
@@ -807,13 +807,13 @@ Respuesta: Falta atribuirla: «Según el relato de doña Marta, el mar nació de
 **Solucionario razonado**
 
 - **R1.** gota. El relato lo dice así.
-- **R2.** A. La A nombra la fuente.
+- **R2.** B. La A nombra la fuente.
 - **R3.** Yo pienso. Esas palabras marcan la voz propia.
-- **C1.** A. El apoyo sale del texto.
+- **C1.** B. El apoyo sale del texto.
 - **C2.** Falso. No dice de quién viene la idea.
 - **C3.** El relato no dice…. Así se declara el límite del texto.
 - **A1.** c, b, a. Primero la fuente, luego la idea y al final el apoyo.
-- **A2.** A. La A nombra la fuente y se apoya en el texto.
+- **A2.** B. La A nombra la fuente y se apoya en el texto.
 - **A3.** cielo. El relato dice que la semilla bajó del cielo.
 - **Z1.** Yo creo que doña Marta quiere que cuidemos la bahía. Es una interpretación que no está en el relato.
 - **Z2.** R1. La R2 generaliza a todos los pueblos.
@@ -996,12 +996,12 @@ Respuesta: «El relato de Bahía Serena incluye el mar; el de Cumbre Blanca incl
 
 *Desafío*
 
-- **D1.** Hay una semejanza entre ambos relatos. ¿Cuál es? A) algo pequeño inicia el cambio B) todo empieza en el mar
-- **D2.** Elige la frase que contrasta sin jerarquizar: A) «El relato de Bahía Serena parte de una gota y el de Cumbre Blanca de una semilla de luz» B) «El de Cumbre Blanca es más bonito»
+- **D1.** Hay una semejanza entre ambos relatos. ¿Cuál es? A) todo empieza en el mar B) algo pequeño inicia el cambio
+- **D2.** Elige la frase que contrasta sin jerarquizar: A) «El de Cumbre Blanca es más bonito» B) «El relato de Bahía Serena parte de una gota y el de Cumbre Blanca de una semilla de luz»
 
 *Situaciones auténticas*
 
-- **S1.** En tu curso discuten cuál de dos relatos de origen es «el verdadero». ¿Qué le propones al curso? A) comparar qué incluye cada relato y de qué comunidad viene B) votar el mejor
+- **S1.** En tu curso discuten cuál de dos relatos de origen es «el verdadero». ¿Qué le propones al curso? A) votar el mejor B) comparar qué incluye cada relato y de qué comunidad viene
 
 *Autoevaluación*
 
@@ -1024,9 +1024,9 @@ Respuesta: «El relato de Bahía Serena incluye el mar; el de Cumbre Blanca incl
 - **A3.** 1-b, 2-a. La arena aparece en el primero y el pasto en el segundo.
 - **Z1.** Lo juzga con un criterio que no es el suyo. Cada relato incluye elementos de su territorio.
 - **Z2.** A. El relato da sentido; la ciencia mide evidencia.
-- **D1.** A. La gota y la semilla son pequeñas.
-- **D2.** A. Describe diferencias y no juzga.
-- **S1.** A. Se contrasta y no se vota por jerarquía.
+- **D1.** B. La gota y la semilla son pequeñas.
+- **D2.** B. Describe diferencias y no juzga.
+- **S1.** B. Se contrasta y no se vota por jerarquía.
 - **E1.** Mejor, peor o más verdadero. Esas palabras ponen un relato sobre otro.
 - **E2.** Cómo comienza, qué aparece primero, qué elementos incluye o cómo llegan las personas. Se pueden comprobar en el texto.
 - **E3.** Verdadero. Cumple una función cultural.
@@ -1186,9 +1186,9 @@ Respuesta: Según el relato que cuenta doña Marta, de Bahía Serena, el mar nac
 
 *Comprensión*
 
-- **C1.** Revisar sirve para: A) encontrar errores propios antes de entregar B) señalar los errores de otros
+- **C1.** Revisar sirve para: A) señalar los errores de otros B) encontrar errores propios antes de entregar
 - **C2.** Verdadero o falso: adornar un relato con detalles propios lo mejora.
-- **C3.** ¿Qué es la validación pertinente? A) revisión de quien corresponde, como el educador tradicional B) revisión de cualquier persona
+- **C3.** ¿Qué es la validación pertinente? A) revisión de cualquier persona B) revisión de quien corresponde, como el educador tradicional
 
 *Aplicación*
 
@@ -1199,7 +1199,7 @@ Respuesta: Según el relato que cuenta doña Marta, de Bahía Serena, el mar nac
 *Razonamiento y análisis*
 
 - **Z1.** Marta revisó su trabajo con la lista y todo está bien. ¿Puede presentarlo como validado? Responde Sí o No.
-- **Z2.** Un compañero propone agregar música y gestos al relato para que sea más entretenido. ¿Qué respondes? A) que primero pregunte al educador tradicional si corresponde B) que lo haga igual
+- **Z2.** Un compañero propone agregar música y gestos al relato para que sea más entretenido. ¿Qué respondes? A) que lo haga igual B) que primero pregunte al educador tradicional si corresponde
 
 *Desafío*
 
@@ -1223,14 +1223,14 @@ Respuesta: Según el relato que cuenta doña Marta, de Bahía Serena, el mar nac
 - **R1.** El educador tradicional. Es quien corresponde.
 - **R2.** Verdadero. Es parte de la atribución.
 - **R3.** ¿Respeté el límite?. Cuida lo que la comunidad reserva.
-- **C1.** A. Es una autoevaluación.
+- **C1.** B. Es una autoevaluación.
 - **C2.** Falso. Cambia su sentido para la comunidad.
-- **C3.** A. Es quien conoce el relato.
+- **C3.** B. Es quien conoce el relato.
 - **A1.** Es un relato mejor que otros porque tiene viento. Esa frase jerarquiza un relato sobre otros.
 - **A2.** A. No dice quién cuenta ni de qué comunidad.
 - **A3.** c, b, a. Se revisa, luego se valida y al final se presenta.
 - **Z1.** No. La validación la hace el educador o la comunidad.
-- **Z2.** A. No se cambia la forma del relato sin quien lo cuida.
+- **Z2.** B. No se cambia la forma del relato sin quien lo cuida.
 - **D1.** Generaliza y no nombra a la fuente. Dice «los pueblos de Chile» y no cita a doña Marta.
 - **D2.** A. La validación pertinente se acepta.
 - **S1.** A. El permiso y la validación son parte de comunicar con respeto.

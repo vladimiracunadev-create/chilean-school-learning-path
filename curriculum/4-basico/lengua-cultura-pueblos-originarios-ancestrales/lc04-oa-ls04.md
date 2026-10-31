@@ -368,12 +368,12 @@ Respuesta: mapu (tierra), fuente: educadora de la Escuela Ejemplo
 
 - **A1.** Banco de palabras autorizado (inventado para practicar): la educadora tradicional de la Escuela Ejemplo autoriza «ko» (agua), «antü» (sol), «kuyen» (luna), «ruka» (casa mapuche) y «mapu» (tierra), todas en mapuzugun. Contexto de uso: rótulos y frases cortas de la sala. Tres dibujos: 1) el agua de un vaso, 2) el sol, 3) la luna. Escribe los rótulos en orden, solo con las palabras.
 - **A2.** Un niño rotuló el dibujo del sol como «kuyen (sol)». ¿Qué está mal: la palabra o el significado entre paréntesis?
-- **A3.** Dibujo: un cerro. El banco no tiene palabra para cerro. ¿Qué haces: A) escribes «cerro» en castellano y preguntas a la educadora. B) inventas una palabra?
+- **A3.** Dibujo: un cerro. El banco no tiene palabra para cerro. ¿Qué haces: A) inventas una palabra B) escribes «cerro» en castellano y preguntas a la educadora.?
 
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Escribí «mapu (agua)» porque me gustó». ¿Su rótulo es correcto? Sí o No.
-- **Z2.** Un rótulo dice «ruka» sin significado ni fuente. Opciones: A) está completo porque trae la palabra. B) le faltan significado y fuente. ¿Cuál es cierta?
+- **Z2.** Un rótulo dice «ruka» sin significado ni fuente. Opciones: A) le faltan significado y fuente. ¿Cuál es cierta B) está completo porque trae la palabra.?
 
 *Desafío*
 
@@ -402,9 +402,9 @@ Respuesta: mapu (tierra), fuente: educadora de la Escuela Ejemplo
 - **C3.** la fuente. Faltan quién enseñó la palabra.
 - **A1.** ko, antü, kuyen. Cada palabra sale del banco por su significado.
 - **A2.** la palabra. «Kuyen» es luna; para sol corresponde «antü».
-- **A3.** A. No se inventan palabras.
+- **A3.** B. No se inventan palabras.
 - **Z1.** No. «Mapu» es tierra, no agua.
-- **Z2.** B. Un rótulo completo tiene tres partes.
+- **Z2.** A. Un rótulo completo tiene tres partes.
 - **D1.** 4. Las cuatro tienen palabra en el banco.
 - **D2.** B, A, C. Primero elijo, luego copio y al final anoto la fuente.
 - **S1.** «ruka (casa mapuche)» con la fuente. Solo se usa lo que el banco trae.
@@ -570,7 +570,7 @@ Respuesta: redonda
 *Comprensión*
 
 - **C1.** Verdadero o falso: caracterizar es decir cómo es algo.
-- **C2.** ¿Qué oración caracteriza a la luna? A) «La luna (kuyen) es brillante.» B) «Mañana vamos al museo.»
+- **C2.** ¿Qué oración caracteriza a la luna? A) «Mañana vamos al museo.» B) «La luna (kuyen) es brillante.»
 - **C3.** Una oración para caracterizar debe terminar con punto. ¿Sí o No?
 
 *Aplicación*
@@ -582,7 +582,7 @@ Respuesta: redonda
 *Razonamiento y análisis*
 
 - **Z1.** Una niña escribe: «La ruka es roja», pero nunca ha visto una ruka de ese color. ¿Puede afirmarlo? Sí o No.
-- **Z2.** Dos oraciones: A) «El agua (ko) es transparente.» B) «El agua (ko) es mágica para todos los pueblos.» ¿Cuál es adecuada para caracterizar?
+- **Z2.** Dos oraciones: A) «El agua (ko) es mágica para todos los pueblos.» ¿Cuál es adecuada para caracterizar B) «El agua (ko) es transparente.»?
 
 *Desafío*
 
@@ -607,13 +607,13 @@ Respuesta: redonda
 - **R2.** cálido. Dice cómo es el sol.
 - **R3.** antü. Está entre paréntesis.
 - **C1.** Verdadero. Es describir sus rasgos.
-- **C2.** A. La A dice cómo es la luna.
+- **C2.** B. La A dice cómo es la luna.
 - **C3.** Sí. Toda oración termina con punto.
 - **A1.** El agua (ko) es clara.. Primero lo que describo, luego «es» y el adjetivo.
 - **A2.** húmeda. «Tierra» es femenino.
 - **A3.** antü. El sol es cálido; «antü» es sol.
 - **Z1.** No. Debe describir solo lo que observa o sabe.
-- **Z2.** A. La B afirma algo que no se sabe y generaliza.
+- **Z2.** B. La B afirma algo que no se sabe y generaliza.
 - **D1.** 2. Usa antü y kuyen.
 - **D2.** B, C, A, D. Elijo, nombro, caracterizo y reviso.
 - **S1.** «El agua (ko) es fresca.». Se describe en castellano con la palabra del banco.

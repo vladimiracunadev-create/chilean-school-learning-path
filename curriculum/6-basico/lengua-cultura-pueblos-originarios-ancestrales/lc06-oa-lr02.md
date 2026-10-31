@@ -146,7 +146,7 @@ Respuesta: Glosario: mari mari = saludo; chaltumay = gracias; más palabras: las
 *Recuperación*
 
 - **R1.** Ficha: «Comunidad: Pasto Alto. Tema: la esquila. Fuente: don Gaspar.» ¿Cuál es el tema?
-- **R2.** ¿Qué es un glosario? A) una lista de palabras con su significado B) un mapa
+- **R2.** ¿Qué es un glosario? A) un mapa B) una lista de palabras con su significado
 - **R3.** ¿Qué palabra de este cuaderno sirve para saludar en mapuzugun?
 
 *Comprensión*
@@ -158,12 +158,12 @@ Respuesta: Glosario: mari mari = saludo; chaltumay = gracias; más palabras: las
 *Aplicación*
 
 - **A1.** Clasifica en SOCIOCULTURAL o ESPIRITUAL: a) cómo se reparten las tareas de la cosecha b) lo que la comunidad considera sagrado.
-- **A2.** Glosario: ¿qué columna falta? Palabra | Significado | ______ A) quién la enseñó B) el color
+- **A2.** Glosario: ¿qué columna falta? Palabra | Significado | ______ A) el color B) quién la enseñó
 - **A3.** La ficha dice «Límite: no se exponen los lugares de respeto». ¿Los mencionas? Sí o No.
 
 *Razonamiento y análisis*
 
-- **Z1.** Tomás dice: «Usaré palabras en lengua que vi en un video». ¿Qué le falta? A) más videos B) validarlas con el educador
+- **Z1.** Tomás dice: «Usaré palabras en lengua que vi en un video». ¿Qué le falta? A) validarlas con el educador B) más videos
 - **Z2.** Sara va a exponer sobre un tema que la ficha no autoriza. ¿Qué hace? A) expone igual B) cambia de tema o pide permiso
 
 *Desafío*
@@ -173,7 +173,7 @@ Respuesta: Glosario: mari mari = saludo; chaltumay = gracias; más palabras: las
 
 *Situaciones auténticas*
 
-- **S1.** Invitaste a un familiar para escuchar tu exposición sobre la cosecha en la comunidad. ¿Qué haces con el glosario? A) lo reviso con el educador antes B) lo reparto sin revisar
+- **S1.** Invitaste a un familiar para escuchar tu exposición sobre la cosecha en la comunidad. ¿Qué haces con el glosario? A) lo reparto sin revisar B) lo reviso con el educador antes
 
 *Autoevaluación*
 
@@ -186,19 +186,19 @@ Respuesta: Glosario: mari mari = saludo; chaltumay = gracias; más palabras: las
 **Solucionario razonado**
 
 - **R1.** La esquila. La ficha lo dice.
-- **R2.** A. Es una lista con significados.
+- **R2.** B. Es una lista con significados.
 - **R3.** Mari mari. Es un saludo atestiguado.
 - **C1.** Verdadero. Esa es la idea.
 - **C2.** Falso. Deben ser palabras validadas.
 - **C3.** A. Quien enseña la lengua lo entrega.
 - **A1.** a sociocultural, b espiritual. La primera es organización; la segunda, lo sagrado.
-- **A2.** A. Se anota la fuente de cada palabra.
+- **A2.** B. Se anota la fuente de cada palabra.
 - **A3.** No. El límite lo prohíbe.
-- **Z1.** B. Un video no valida las palabras.
+- **Z1.** A. Un video no valida las palabras.
 - **Z2.** B. Sin permiso no se expone.
 - **D1.** La que tiene fuente y permiso. La otra se detiene.
 - **D2.** 7 palabras. Se suman las palabras nuevas. Cálculo: 4 + 3 = 7.
-- **S1.** A. El vocabulario se valida antes de exponer.
+- **S1.** B. El vocabulario se valida antes de exponer.
 - **E1.** Palabra, significado y quién la enseñó. Son las columnas de la clase.
 - **E2.** Verdadero. Se respeta lo reservado.
 - **E3.** B. «Iorana» saluda en rapa nui.
@@ -354,8 +354,8 @@ Respuesta: «¿Cómo deciden los mayores el orden de la cosecha?»
 
 *Recuperación*
 
-- **R1.** En la exposición de doña Isabel, ¿qué lleva cada familia? A) canastos B) cuadernos
-- **R2.** ¿Qué indican los mayores? A) el orden de la cosecha B) el menú
+- **R1.** En la exposición de doña Isabel, ¿qué lleva cada familia? A) cuadernos B) canastos
+- **R2.** ¿Qué indican los mayores? A) el menú B) el orden de la cosecha
 - **R3.** ¿Qué palabra de la exposición significa gracias en mapuzugun?
 
 *Comprensión*
@@ -366,51 +366,51 @@ Respuesta: «¿Cómo deciden los mayores el orden de la cosecha?»
 
 *Aplicación*
 
-- **A1.** Exposición leída: «Cada familia lleva sus canastos; los jóvenes ayudan a cargar». ¿Cuál es la idea principal? A) La cosecha se hace entre todos B) La cosecha es difícil de explicar en un día
-- **A2.** Clasifica en CLAVE o GLOSARIO: a) canastos b) mari mari.
-- **A3.** Exposición leída: «Hay una reunión de cierre solo de la comunidad». ¿Qué anotas? A) reservado: la reunión de cierre B) la hora de la reunión
+- **A1.** Exposición leída: «Cada familia lleva sus canastos; los jóvenes ayudan a cargar». ¿Cuál es la idea principal? A) La cosecha es difícil de explicar en un día B) La cosecha se hace entre todos
+- **A2.** Clasifica en CLAVE o GLOSARIO: a) mari mari b) canastos.
+- **A3.** Exposición leída: «Hay una reunión de cierre solo de la comunidad». ¿Qué anotas? A) la hora de la reunión B) reservado: la reunión de cierre
 
 *Razonamiento y análisis*
 
 - **Z1.** Pía anota «chaltumay = hola». ¿Qué error comete?
-- **Z2.** Andrés pregunta tres veces qué se hace en la reunión de cierre. ¿Qué regla rompe? A) respetar los límites B) usar palabras clave
+- **Z2.** Andrés pregunta tres veces qué se hace en la reunión de cierre. ¿Qué regla rompe? A) usar palabras clave B) respetar los límites
 
 *Desafío*
 
-- **D1.** Tus notas dicen: claves (familias, canastos, orden), glosario (mari mari), reservado (reunión de cierre). ¿Qué pregunta es adecuada? A) ¿Qué hacen en la reunión de cierre? B) ¿Cómo se turnan las familias para llevar canastos?
+- **D1.** Tus notas dicen: claves (familias, canastos, orden), glosario (mari mari), reservado (reunión de cierre). ¿Qué pregunta es adecuada? A) ¿Cómo se turnan las familias para llevar canastos B) ¿Qué hacen en la reunión de cierre??
 - **D2.** Anotaste 4 palabras clave, 2 palabras de glosario y 1 reservado. ¿Cuántas anotaciones tienes en total?
 
 *Situaciones auténticas*
 
-- **S1.** Un familiar te cuenta una historia de su comunidad y usa una palabra en lengua. ¿Qué haces? A) pregunto cómo se escribe y qué significa, y anoto quién la enseñó B) la escribo como suene
+- **S1.** Un familiar te cuenta una historia de su comunidad y usa una palabra en lengua. ¿Qué haces? A) la escribo como suene B) pregunto cómo se escribe y qué significa, y anoto quién la enseñó
 
 *Autoevaluación*
 
 - **E1.** Nombra los tres tipos de nota de escucha.
 - **E2.** Verdadero o falso: el glosario de escucha anota quién enseñó cada palabra.
-- **E3.** ¿Qué escribes de una palabra en lengua si dudas del significado? A) pregunta pendiente B) un significado inventado
+- **E3.** ¿Qué escribes de una palabra en lengua si dudas del significado? A) un significado inventado B) pregunta pendiente
 
 **Actividad abierta.** Pide a una persona de tu casa que te lea este texto inventado de don Gaspar, de Pasto Alto: «Mari mari. Hoy hablaré de cómo se esquila. Cada familia trae sus tijeras de esquilar y los mayores indican qué oveja va primero. Hay una despedida que solo hacemos entre nosotros. Chaltumay por escucharme». Mientras escuchas, anota palabras clave, un glosario de escucha, lo reservado y una pregunta adecuada. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** A. La exposición lo dice.
-- **R2.** A. La exposición lo dice.
+- **R1.** B. La exposición lo dice.
+- **R2.** B. La exposición lo dice.
 - **R3.** Chaltumay. Es el agradecimiento atestiguado.
 - **C1.** Verdadero. Se respeta el límite.
 - **C2.** Falso. Se escriben como indica el educador.
 - **C3.** A. Así se respeta el turno y el límite.
-- **A1.** A. Resume sin agregar datos.
-- **A2.** a clave, b glosario. «Canastos» es palabra clave; «mari mari» es palabra en lengua.
-- **A3.** A. La exposición no da la hora y la reserva.
+- **A1.** B. Resume sin agregar datos.
+- **A2.** b clave, b glosario. «Canastos» es palabra clave; «mari mari» es palabra en lengua.
+- **A3.** B. La exposición no da la hora y la reserva.
 - **Z1.** Confunde el agradecimiento con un saludo. «Chaltumay» significa gracias.
-- **Z2.** A. Insiste en lo reservado.
-- **D1.** B. La B pregunta por lo reservado.
+- **Z2.** B. Insiste en lo reservado.
+- **D1.** A. La B pregunta por lo reservado.
 - **D2.** 7 anotaciones. Se suman los tres tipos de notas. Cálculo: 4 + 2 + 1 = 7.
-- **S1.** A. Se respeta cómo la escribe la fuente.
+- **S1.** B. Se respeta cómo la escribe la fuente.
 - **E1.** Lo que dijo la persona, lo que entendí yo y lo que no se explicó. Son las tres notas.
 - **E2.** Verdadero. Se atribuye la fuente.
-- **E3.** A. No se inventa.
+- **E3.** B. No se inventa.
 
 **Actividad abierta · ejemplo de respuesta.** Claves: familias, tijeras, mayores, oveja. Glosario: mari mari (saludo), chaltumay (gracias). Reservado: la despedida. Pregunta: ¿cómo deciden qué oveja va primero?
 
@@ -563,9 +563,9 @@ Respuesta: La incorporo en el desarrollo con una explicación breve y validada.
 
 *Recuperación*
 
-- **R1.** ¿En qué momento va «mari mari»? A) cierre B) inicio
-- **R2.** ¿En qué momento va «chaltumay»? A) cierre B) inicio
-- **R3.** ¿Qué función cumple «iorana»? A) saludar B) agradecer
+- **R1.** ¿En qué momento va «mari mari»? A) inicio B) cierre
+- **R2.** ¿En qué momento va «chaltumay»? A) inicio B) cierre
+- **R3.** ¿Qué función cumple «iorana»? A) agradecer B) saludar
 
 *Comprensión*
 
@@ -575,7 +575,7 @@ Respuesta: La incorporo en el desarrollo con una explicación breve y validada.
 
 *Aplicación*
 
-- **A1.** Completa la tabla: palabra «maururu», función ______, momento cierre. A) saludar B) agradecer
+- **A1.** Completa la tabla: palabra «maururu», función ______, momento cierre. A) agradecer B) saludar
 - **A2.** Une función y momento: a) saludar b) agradecer. Escribe INICIO o CIERRE para cada una.
 - **A3.** Quieres usar una palabra del tema sin saber su significado. ¿Qué haces? A) pregunto al educador antes B) la uso igual
 
@@ -597,19 +597,19 @@ Respuesta: La incorporo en el desarrollo con una explicación breve y validada.
 
 - **E1.** Nombra una palabra de saludo y una de agradecimiento de este cuaderno.
 - **E2.** Verdadero o falso: una tabla de planificación tiene palabra, función y momento.
-- **E3.** ¿Quién valida el significado de un término del tema? A) el educador B) el compañero
+- **E3.** ¿Quién valida el significado de un término del tema? A) el compañero B) el educador
 
 **Actividad abierta.** Planifica el vocabulario de una exposición de 2 minutos sobre «cómo se organiza una cosecha comunitaria» (tema inventado de Campo Abierto). Haz una tabla con cuatro filas: mari mari (saludo), un término del tema que dictará el educador, chaltumay (agradecimiento) y un espacio libre [palabra del educador]. Anota la función y el momento de cada una. Escribe una frase en castellano que explique el término del tema. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** B. Es un saludo.
-- **R2.** A. Agradece al terminar.
-- **R3.** A. Es un saludo en rapa nui.
+- **R1.** A. Es un saludo.
+- **R2.** B. Agradece al terminar.
+- **R3.** B. Es un saludo en rapa nui.
 - **C1.** Verdadero. El sentido puede cambiar.
 - **C2.** Falso. Agradece, no saluda.
 - **C3.** A. Conoce el sentido en la comunidad.
-- **A1.** B. «Maururu» es gracias en rapa nui.
+- **A1.** A. «Maururu» es gracias en rapa nui.
 - **A2.** a inicio, b cierre. Se saluda al comenzar y se agradece al terminar.
 - **A3.** A. Se valida el significado.
 - **Z1.** Usa un agradecimiento como saludo. «Maururu» es gracias.
@@ -619,7 +619,7 @@ Respuesta: La incorporo en el desarrollo con una explicación breve y validada.
 - **S1.** B. Se atribuye y se explica.
 - **E1.** Saludo: mari mari o iorana; agradecimiento: chaltumay o maururu. Son expresiones atestiguadas del cuaderno.
 - **E2.** Verdadero. Esas son sus columnas.
-- **E3.** A. Él conoce el sentido.
+- **E3.** B. Él conoce el sentido.
 
 **Actividad abierta · ejemplo de respuesta.** mari mari / saludar / inicio. [término del tema] / nombrar un elemento de la cosecha / desarrollo. [palabra del educador] / según lo dicte / desarrollo. chaltumay / agradecer / cierre. Explicación: [término] es lo que usamos para nombrar un elemento de la cosecha, según el educador.
 
@@ -772,26 +772,26 @@ Respuesta: «Cada familia lleva sus (…) CANASTOS».
 
 *Recuperación*
 
-- **R1.** ¿Dónde va el saludo en lengua? A) en el inicio B) en el cierre
-- **R2.** ¿Cómo marcas el énfasis en el guion? A) con mayúsculas B) con colores borrados
-- **R3.** ¿Qué se escribe al final del guion? A) los límites B) más datos inventados
+- **R1.** ¿Dónde va el saludo en lengua? A) en el cierre B) en el inicio
+- **R2.** ¿Cómo marcas el énfasis en el guion? A) con colores borrados B) con mayúsculas
+- **R3.** ¿Qué se escribe al final del guion? A) más datos inventados B) los límites
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: el guion debe atribuir cada dato a su fuente.
 - **C2.** Verdadero o falso: los límites sobran en un guion de exposición.
-- **C3.** ¿Con quién practicas la pronunciación de las palabras en lengua? A) con una grabación al azar B) con el educador o la educadora
+- **C3.** ¿Con quién practicas la pronunciación de las palabras en lengua? A) con el educador o la educadora B) con una grabación al azar
 
 *Aplicación*
 
 - **A1.** Completa con «según»: «______ don Gaspar, los mayores indican qué oveja va primero». Escribe la palabra que falta.
-- **A2.** Frase: «La esquila se hace en grupo». Marca el énfasis en la palabra clave. A) LA esquila se hace en grupo B) La esquila se hace en GRUPO
+- **A2.** Frase: «La esquila se hace en grupo». Marca el énfasis en la palabra clave. A) La esquila se hace en GRUPO B) LA esquila se hace en grupo
 - **A3.** Ordena el guion con letras: a) cierre con chaltumay b) inicio con mari mari c) dato atribuido. Escribe el orden.
 
 *Razonamiento y análisis*
 
 - **Z1.** Pablo escribe el guion sin límites. ¿Qué podría pasar? A) hablar más rápido B) afirmar cosas que no sabe
-- **Z2.** Una niña pronuncia «chaltumay» de una manera que escuchó en un video. ¿Qué falta? A) cambiar el video B) validar la pronunciación con el educador
+- **Z2.** Una niña pronuncia «chaltumay» de una manera que escuchó en un video. ¿Qué falta? A) validar la pronunciación con el educador B) cambiar el video
 
 *Desafío*
 
@@ -800,35 +800,35 @@ Respuesta: «Cada familia lleva sus (…) CANASTOS».
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso presentará una exposición ante familias. Un compañero quiere agregar una palabra en lengua de último minuto. ¿Qué haces? A) pido que el educador la valide antes B) la agrego igual
+- **S1.** Tu curso presentará una exposición ante familias. Un compañero quiere agregar una palabra en lengua de último minuto. ¿Qué haces? A) la agrego igual B) pido que el educador la valide antes
 
 *Autoevaluación*
 
 - **E1.** Nombra las tres partes del guion.
 - **E2.** Verdadero o falso: el énfasis se usa en una o dos palabras clave por frase importante.
-- **E3.** ¿Qué haces con una palabra en lengua que no sabes decir? A) la practico con el educador B) la invento
+- **E3.** ¿Qué haces con una palabra en lengua que no sabes decir? A) la invento B) la practico con el educador
 
 **Actividad abierta.** Con este texto inventado de doña Isabel, de Campo Abierto: «Cada familia lleva sus canastos. Los mayores indican el orden de la cosecha. Los jóvenes ayudan a cargar». Escribe el guion de una exposición de 1 minuto con inicio (mari mari), desarrollo (dos datos con «según doña Isabel…», con una palabra en mayúsculas y una pausa (…)) y cierre (límite y chaltumay). Ensaya en voz alta con una persona de tu casa. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
 **Solucionario razonado**
 
-- **R1.** A. Se abre saludando.
-- **R2.** A. Así se destaca la palabra.
-- **R3.** A. Los límites declaran lo que no se afirma.
+- **R1.** B. Se abre saludando.
+- **R2.** B. Así se destaca la palabra.
+- **R3.** B. Los límites declaran lo que no se afirma.
 - **C1.** Verdadero. Así se distingue de quién viene.
 - **C2.** Falso. Evitan que se invente.
-- **C3.** B. Quien habla la lengua puede corregirte.
+- **C3.** A. Quien habla la lengua puede corregirte.
 - **A1.** Según. Atribuye el dato.
-- **A2.** B. La idea importante es «en grupo».
+- **A2.** A. La idea importante es «en grupo».
 - **A3.** b, c, a. Inicio, desarrollo y cierre.
 - **Z1.** B. Los límites previenen inventar.
-- **Z2.** B. El educador valida.
+- **Z2.** A. El educador valida.
 - **D1.** 20 segundos. Se resta inicio y desarrollo del total. Cálculo: 2 × 60 − 20 − 80 = 20.
 - **D2.** B. Priorizar mantiene la claridad.
-- **S1.** A. Toda palabra en lengua se valida antes.
+- **S1.** B. Toda palabra en lengua se valida antes.
 - **E1.** Inicio, desarrollo y cierre. Son las tres partes.
 - **E2.** Verdadero. Si todo se destaca, nada se destaca.
-- **E3.** A. Él enseña la pronunciación.
+- **E3.** B. Él enseña la pronunciación.
 
 **Actividad abierta · ejemplo de respuesta.** Inicio: Mari mari, hoy hablaré de la cosecha en Campo Abierto. Desarrollo: Según doña Isabel, cada familia lleva sus CANASTOS (…) y los mayores indican el orden. Cierre: No sé cómo deciden el orden. Chaltumay por escucharme.
 
@@ -981,26 +981,26 @@ Respuesta: Ambas incluyen familias; en A, además, los mayores indican el orden.
 
 *Recuperación*
 
-- **R1.** En un diálogo, ¿cuándo hablas? A) cuando quiero B) en tu turno
-- **R2.** ¿Qué expresión marca una diferencia? A) «es mejor que» B) «a diferencia de»
+- **R1.** En un diálogo, ¿cuándo hablas? A) en tu turno B) cuando quiero
+- **R2.** ¿Qué expresión marca una diferencia? A) «a diferencia de» B) «es mejor que»
 - **R3.** ¿Qué usas para abrir un diálogo con una palabra atestiguada en mapuzugun? A) chaltumay B) mari mari
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: preguntar para comprender es lo mismo que preguntar para corregir.
 - **C2.** Verdadero o falso: en un diálogo se usan solo palabras en lengua que conozco bien.
-- **C3.** ¿Qué haces con una duda que nadie puede resolver? A) la anoto para el educador B) la invento
+- **C3.** ¿Qué haces con una duda que nadie puede resolver? A) la invento B) la anoto para el educador
 
 *Aplicación*
 
-- **A1.** Exposición C (Roca Blanca): «Los jóvenes cargan los sacos». Elige una pregunta para comprender. A) ¿Cómo se organizan los jóvenes para cargarlos? B) ¿Por qué no ayudan los mayores?
+- **A1.** Exposición C (Roca Blanca): «Los jóvenes cargan los sacos». Elige una pregunta para comprender. A) ¿Por qué no ayudan los mayores B) ¿Cómo se organizan los jóvenes para cargarlos??
 - **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) en ambas hay familias que participan b) en una los mayores indican el orden.
 - **A3.** Resume con «según»: Campo Abierto, los mayores indican; Pasto Alto, cada familia trae sus tijeras. Completa: «Según don Gaspar, cada familia…»
 
 *Razonamiento y análisis*
 
 - **Z1.** Pablo dice: «Campo Abierto es más organizado que Pasto Alto». ¿Qué error comete?
-- **Z2.** Elena interrumpe para corregir cómo dijeron «mari mari». ¿Qué falla? A) usó mal el saludo B) rompe el turno; debía anotar la duda
+- **Z2.** Elena interrumpe para corregir cómo dijeron «mari mari». ¿Qué falla? A) rompe el turno; debía anotar la duda B) usó mal el saludo
 
 *Desafío*
 
@@ -1009,7 +1009,7 @@ Respuesta: Ambas incluyen familias; en A, además, los mayores indican el orden.
 
 *Situaciones auténticas*
 
-- **S1.** En un diálogo escolar, una compañera propone elegir cuál exposición fue mejor. ¿Qué respondes? A) que dialogamos para comprender y no para competir B) que votemos
+- **S1.** En un diálogo escolar, una compañera propone elegir cuál exposición fue mejor. ¿Qué respondes? A) que votemos B) que dialogamos para comprender y no para competir
 
 *Autoevaluación*
 
@@ -1021,20 +1021,20 @@ Respuesta: Ambas incluyen familias; en A, además, los mayores indican el orden.
 
 **Solucionario razonado**
 
-- **R1.** B. Se respeta el turno.
-- **R2.** B. Describe sin ordenar.
+- **R1.** A. Se respeta el turno.
+- **R2.** A. Describe sin ordenar.
 - **R3.** B. «Mari mari» saluda.
 - **C1.** Falso. Una busca entender; la otra, mostrar un error.
 - **C2.** Verdadero. Se evita equivocarse.
-- **C3.** A. Se consulta a quien sabe.
-- **A1.** A. La B juzga.
+- **C3.** B. Se consulta a quien sabe.
+- **A1.** B. La B juzga.
 - **A2.** a semejanza, b diferencia. La primera es común; la segunda es particular.
 - **A3.** Trae sus tijeras. Repite lo que dice la exposición B.
 - **Z1.** Jerarquiza sin fundamento. Las exposiciones no comparan eso.
-- **Z2.** B. Las dudas se consultan después.
+- **Z2.** A. Las dudas se consultan después.
 - **D1.** El primero. El segundo mezcla y generaliza.
 - **D2.** 15 intervenciones. Se multiplican personas por intervenciones. Cálculo: 5 × 3 = 15.
-- **S1.** A. Dialogar no es competir.
+- **S1.** B. Dialogar no es competir.
 - **E1.** No interrumpir y esperar el turno. Es una regla de conversación.
 - **E2.** Verdadero. Reconoce a cada fuente.
 - **E3.** A. El agradecimiento cierra con respeto.
@@ -1192,19 +1192,19 @@ Respuesta: «Se entendía el tema. Habla más lento y deja ‘chaltumay’ para 
 
 - **R1.** ¿Cuántos criterios tiene el ensayo de esta clase? Escribe el número.
 - **R2.** ¿Cuál es el máximo de puntos? A) 5 B) 10
-- **R3.** ¿Quién valida el vocabulario en lengua? A) el educador o la educadora B) un compañero
+- **R3.** ¿Quién valida el vocabulario en lengua? A) un compañero B) el educador o la educadora
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: el puntaje del ensayo es una ayuda para mejorar.
 - **C2.** Verdadero o falso: si la comunidad pide quitar una parte, se deja igual por si acaso.
-- **C3.** ¿Qué incluye una buena retroalimentación? A) lo que estuvo bien, lo que mejorar y un ejemplo B) solo una crítica
+- **C3.** ¿Qué incluye una buena retroalimentación? A) solo una crítica B) lo que estuvo bien, lo que mejorar y un ejemplo
 
 *Aplicación*
 
 - **A1.** Un ensayo obtuvo: claridad 1, volumen y ritmo 2, atribución 2, vocabulario validado 1 y límites 2. ¿Cuántos puntos suma?
 - **A2.** Un grupo quiere llegar a 9 puntos de 10. Ya tiene 5. ¿Cuántos puntos le faltan?
-- **A3.** Retroalimentación: elige la mejor. A) «Fue malo» B) «Hablaste muy bajo; sube el volumen al nombrar a doña Isabel»
+- **A3.** Retroalimentación: elige la mejor. A) «Hablaste muy bajo; sube el volumen al nombrar a doña Isabel» B) «Fue malo»
 
 *Razonamiento y análisis*
 
@@ -1218,13 +1218,13 @@ Respuesta: «Se entendía el tema. Habla más lento y deja ‘chaltumay’ para 
 
 *Situaciones auténticas*
 
-- **S1.** Antes de un acto escolar para las familias, tu grupo debe presentar una exposición. ¿Qué conviene? A) ensayar, pedir retroalimentación y validar el vocabulario B) improvisar
+- **S1.** Antes de un acto escolar para las familias, tu grupo debe presentar una exposición. ¿Qué conviene? A) improvisar B) ensayar, pedir retroalimentación y validar el vocabulario
 
 *Autoevaluación*
 
 - **E1.** Nombra dos de los cinco criterios del ensayo.
 - **E2.** Verdadero o falso: al terminar se agradece a la fuente y a quienes ayudaron.
-- **E3.** ¿Qué haces si el educador corrige tu pronunciación? A) insisto en la mía B) ensayo de nuevo y agradezco
+- **E3.** ¿Qué haces si el educador corrige tu pronunciación? A) ensayo de nuevo y agradezco B) insisto en la mía
 
 **Actividad abierta.** Con tu guion de la clase 4 (cosecha de Campo Abierto, doña Isabel), haz un ensayo con una persona de tu casa. Que ella califique de 0 a 2 cada criterio: claridad, volumen y ritmo, atribución, vocabulario en lengua validado y respeto de límites. Suma los puntos (máximo 10), anota una cosa que estuvo bien y una por mejorar, y escribe la pregunta que le harías al educador para validar tu vocabulario. Recuerda: lo que se dice en la lengua y las prácticas de un pueblo las enseñan el educador o la educadora tradicional y las personas de la comunidad. Pregúntales antes de dar tu trabajo por terminado.
 
@@ -1232,21 +1232,21 @@ Respuesta: «Se entendía el tema. Habla más lento y deja ‘chaltumay’ para 
 
 - **R1.** 5. Son cinco criterios en total.
 - **R2.** B. Cinco criterios de hasta 2 puntos suman 10.
-- **R3.** A. Quien enseña la lengua.
+- **R3.** B. Quien enseña la lengua.
 - **C1.** Verdadero. Indica qué corregir.
 - **C2.** Falso. Se quita para respetar lo pedido.
-- **C3.** A. Con esos elementos ayuda.
+- **C3.** B. Con esos elementos ayuda.
 - **A1.** 8 puntos. Se suman los cinco criterios. Cálculo: 1 + 2 + 2 + 1 + 2 = 8.
 - **A2.** 4 puntos. Se resta lo que tiene de la meta. Cálculo: 9 − 5 = 4.
-- **A3.** B. Dice qué mejorar y da un ejemplo.
+- **A3.** A. Dice qué mejorar y da un ejemplo.
 - **Z1.** A. El puntaje no reemplaza la validación.
 - **Z2.** B. Ese criterio requiere validación.
 - **D1.** 18 minutos. Cada grupo usa 3 minutos y son 6 grupos. Cálculo: 6 × (2 + 1) = 18.
 - **D2.** Sí. Respetar el límite vale más que un punto.
-- **S1.** A. El acto es público y se valida antes.
+- **S1.** B. El acto es público y se valida antes.
 - **E1.** Dos entre: claridad, volumen y ritmo, atribución, vocabulario validado, límites. Son criterios de la clase.
 - **E2.** Verdadero. Es parte del cierre.
-- **E3.** B. El educador enseña la lengua.
+- **E3.** A. El educador enseña la lengua.
 
 **Actividad abierta · ejemplo de respuesta.** Claridad 2, volumen 1, atribución 2, vocabulario 1 (por validar), límites 2: suma 8 de 10. Estuvo bien: nombré a doña Isabel. Mejorar: hablar más fuerte. Pregunta: «¿Puede revisar si estoy diciendo bien el saludo en la lengua de mi comunidad?»
 

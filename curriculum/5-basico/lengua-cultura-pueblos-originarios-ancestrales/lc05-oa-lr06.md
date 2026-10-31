@@ -367,7 +367,7 @@ Respuesta: no grabó sin permiso y no sabe cómo es una minga en otros lugares
 *Aplicación*
 
 - **A1.** Guion de práctica (inventado): «Soy una estudiante de la Escuela Ejemplo. Voy a contar lo que hicimos en la minga de la plaza. Llegamos a las diez de la mañana y trajimos guantes y bolsas. Entre todos recogimos hojas. Una vecina nos dijo «chaltumay» al despedirnos, que en mapuzugun quiere decir gracias, según nos enseñó la educadora tradicional. No grabé a nadie sin permiso. No sé cómo se hace una minga en otros lugares.» ¿Cuál de estas frases da el dato de cuándo ocurrió algo? A) «Llegamos a las diez de la mañana». B) «Trajimos guantes y bolsas». C) «Entre todos recogimos hojas». Escribe la letra.
-- **A2.** Guion de práctica (inventado): «Soy una estudiante de la Escuela Ejemplo. Voy a contar lo que hicimos en la minga de la plaza. Llegamos a las diez de la mañana y trajimos guantes y bolsas. Entre todos recogimos hojas. Una vecina nos dijo «chaltumay» al despedirnos, que en mapuzugun quiere decir gracias, según nos enseñó la educadora tradicional. No grabé a nadie sin permiso. No sé cómo se hace una minga en otros lugares.» Elige el mejor resumen: A) «En una minga de la plaza, una estudiante contó que recogieron hojas y que no grabó sin permiso; no sabe cómo es en otros lugares». B) «Las mingas del país se hacen con guantes». Escribe la letra.
+- **A2.** Guion de práctica (inventado): «Soy una estudiante de la Escuela Ejemplo. Voy a contar lo que hicimos en la minga de la plaza. Llegamos a las diez de la mañana y trajimos guantes y bolsas. Entre todos recogimos hojas. Una vecina nos dijo «chaltumay» al despedirnos, que en mapuzugun quiere decir gracias, según nos enseñó la educadora tradicional. No grabé a nadie sin permiso. No sé cómo se hace una minga en otros lugares.» Elige el mejor resumen: A) «Las mingas del país se hacen con guantes». Escribe la letra B) «En una minga de la plaza, una estudiante contó que recogieron hojas y que no grabó sin permiso; no sabe cómo es en otros lugares»..
 - **A3.** Llegaron 24 personas a la minga y 9 se fueron antes del final. ¿Cuántas personas quedaron hasta el final?
 
 *Razonamiento y análisis*
@@ -401,7 +401,7 @@ Respuesta: no grabó sin permiso y no sabe cómo es una minga en otros lugares
 - **C2.** la educadora tradicional. El guion cita esa fuente.
 - **C3.** Falso. Dice que no grabó a nadie sin permiso.
 - **A1.** A. Solo A dice la hora, es decir, cuándo.
-- **A2.** A. A mantiene los límites y los datos.
+- **A2.** B. A mantiene los límites y los datos.
 - **A3.** 15. Se restan las que se fueron. Cálculo: 24 − 9 = 15.
 - **Z1.** No. El guion no dice dónde más se usa.
 - **Z2.** A. Las palabras de una lengua las enseña quien las conoce.
@@ -582,7 +582,7 @@ Respuesta: pedir permiso a la persona antes de grabar
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si grabo la historia de una persona mayor, ya no necesito volver a preguntarle». ¿Tiene razón? Sí o No.
-- **Z2.** Una vecina cuenta una historia y acepta que se escriba. ¿Qué te parece mejor para devolver: A) preguntarle si quiere una copia o B) quedarte con el texto sin avisar?
+- **Z2.** Una vecina cuenta una historia y acepta que se escriba. ¿Qué te parece mejor para devolver: A) quedarte con el texto sin avisar o B) preguntarle si quiere una copia?
 
 *Desafío*
 
@@ -613,7 +613,7 @@ Respuesta: pedir permiso a la persona antes de grabar
 - **A2.** 10. Se restan los otros dos medios del total. Cálculo: 30 − 12 − 8 = 10.
 - **A3.** dibujo con rótulos. La tabla dice que sirve para explicar un lugar.
 - **Z1.** No. El registro no reemplaza a quien enseña.
-- **Z2.** A. Devolver respeta su saber.
+- **Z2.** B. Devolver respeta su saber.
 - **D1.** B. El dibujo con rótulos ordena los pasos sin rostros ni internet.
 - **D2.** A y B. C no pide permiso y no cuida.
 - **S1.** le preguntas qué prefiere compartir. La persona decide qué se comparte de su saber.
@@ -1209,7 +1209,7 @@ Respuesta: retira o cambia la frase y no la comparte
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Como mi registro quedó lindo, no necesito mostrárselo al educador». ¿Tiene razón? Sí o No.
-- **Z2.** El educador dice que cambies una frase. ¿Qué es mejor: A) discutirlo y compartirla igual o B) cambiarla o retirarla?
+- **Z2.** El educador dice que cambies una frase. ¿Qué es mejor: A) cambiarla o retirarla o B) discutirlo y compartirla igual?
 
 *Desafío*
 
@@ -1240,7 +1240,7 @@ Respuesta: retira o cambia la frase y no la comparte
 - **A2.** C, B, D, A. Reviso, corrijo, valido y comunico.
 - **A3.** la 4. La 4 pregunta por rostros o nombres sin permiso.
 - **Z1.** No. La validación no depende de que quede lindo.
-- **Z2.** B. Se respeta la validación pertinente.
+- **Z2.** A. Se respeta la validación pertinente.
 - **D1.** 1. El 2 no cumple la pregunta 6.
 - **D2.** 2 y 5. La 2 pide fuente y la 5 pide límite.
 - **S1.** primero lo revisas con la lista y lo ve el educador o educadora tradicional. La revisión y validación van antes de comunicar.

@@ -157,7 +157,7 @@ Respuesta: el pueblo
 
 - **A1.** Tarjeta de práctica: «Tela con rayas. Fuente: un taller. Pueblo: no se dice». ¿Qué pregunta escribes?
 - **A2.** Tarjeta: «Cordel con nudos. Pueblo andino. Fuente: una revista». ¿Cuántos datos tiene en total (pueblo, soporte, fuente)?
-- **A3.** Une: Rapa Nui con A) tablillas de madera B) cordeles con nudos. ¿Qué letra va?
+- **A3.** Une: Rapa Nui con A) cordeles con nudos. ¿Qué letra va B) tablillas de madera?
 
 *Razonamiento y análisis*
 
@@ -191,7 +191,7 @@ Respuesta: el pueblo
 - **C3.** madera. Las tablillas son de madera.
 - **A1.** ¿De qué pueblo es la tela?. Falta el pueblo, así que se pregunta.
 - **A2.** 3. Tiene los tres datos.
-- **A3.** A. Rapa Nui tiene tablillas de madera con signos.
+- **A3.** B. Rapa Nui tiene tablillas de madera con signos.
 - **Z1.** el pueblo y la fuente. Sin pueblo ni fuente en la ficha, no se puede asegurar de dónde viene.
 - **Z2.** porque inventar puede ser falso. Una pregunta cuida la verdad y el respeto.
 - **D1.** 2. Hay madera y cordel.

@@ -145,7 +145,7 @@ Respuesta: Sí, puede comunicar solo la idea
 
 *Recuperación*
 
-- **R1.** Algo que pienso es una: A) idea B) emoción.
+- **R1.** Algo que pienso es una: A) emoción B) idea.
 - **R2.** Algo que siento, como alegría, es un: A) sentimiento B) título.
 - **R3.** ¿Estoy obligado a contar cómo me siento?
 
@@ -157,7 +157,7 @@ Respuesta: Sí, puede comunicar solo la idea
 
 *Aplicación*
 
-- **A1.** Eliges una situación: A) presentar a mi curso una palabra nueva de la ficha B) contar algo privado. ¿Cuál elegirías para practicar?
+- **A1.** Eliges una situación: A) contar algo privado. ¿Cuál elegirías para practicar B) presentar a mi curso una palabra nueva de la ficha?
 - **A2.** Tienes 3 situaciones posibles y en cada una puedes comunicar 2 cosas: una idea y un sentimiento. ¿Cuántas cosas puedes comunicar en total?
 - **A3.** Quiero comunicar una idea sobre cuidar el agua y mi sentimiento es curiosidad. ¿Qué es la idea y qué es el sentimiento? Escribe: idea, sentimiento. Opciones: cuidar el agua / curiosidad.
 
@@ -185,13 +185,13 @@ Respuesta: Sí, puede comunicar solo la idea
 
 **Solucionario razonado**
 
-- **R1.** A. Idea es lo que pienso.
+- **R1.** B. Idea es lo que pienso.
 - **R2.** A. Es lo que siento.
 - **R3.** No. Es una opción.
 - **C1.** Falso. Puedo comunicar una idea o usar un personaje inventado.
 - **C2.** A. No debo contar cosas privadas.
 - **C3.** chaltumay. La ficha dice que es gracias.
-- **A1.** A. Es adecuada y no expone a nadie.
+- **A1.** B. Es adecuada y no expone a nadie.
 - **A2.** 6. Tres situaciones por dos cosas. Cálculo: 3 × 2 = 6.
 - **A3.** cuidar el agua, curiosidad. Lo que pienso es la idea y lo que siento es la curiosidad.
 - **Z1.** No. Puedo comunicar una idea.
@@ -354,9 +354,9 @@ Respuesta: Anoto las dos y pregunto
 
 *Recuperación*
 
-- **R1.** Aprender desde la fuente es aprender de: A) quien conoce la lengua B) mi imaginación.
+- **R1.** Aprender desde la fuente es aprender de: A) mi imaginación B) quien conoce la lengua.
 - **R2.** Ficha de expresiones: «mari mari» es un saludo en mapuzugun. «chaltumay» es «gracias» en mapuzugun. «iorana» es un saludo en rapa nui. «maururu» es «gracias» en rapa nui. ¿Qué quiere decir «maururu»?
-- **R3.** Junto a la expresión anoto: A) quién me la enseñó B) mi color favorito.
+- **R3.** Junto a la expresión anoto: A) mi color favorito B) quién me la enseñó.
 
 *Comprensión*
 
@@ -394,9 +394,9 @@ Respuesta: Anoto las dos y pregunto
 
 **Solucionario razonado**
 
-- **R1.** A. La fuente conoce la expresión.
+- **R1.** B. La fuente conoce la expresión.
 - **R2.** gracias. La ficha dice que es gracias en rapa nui.
-- **R3.** A. La fuente es parte del registro.
+- **R3.** B. La fuente es parte del registro.
 - **C1.** Falso. Necesito una fuente confiable.
 - **C2.** 2. «Mari mari» e «iorana» son saludos.
 - **C3.** anoto las dos y pregunto. No decido yo.
@@ -577,7 +577,7 @@ Respuesta: 6 palabras
 
 - **A1.** Cuenta las palabras de la idea «Cuidemos el agua todos los días».
 - **A2.** El comienzo dura 3 segundos, la idea 12 segundos y el cierre 3 segundos. ¿Cuántos segundos dura tu intervención?
-- **A3.** Elige una buena idea para tu intervención: A) «Hoy aprendí que antü es sol» B) «Mari mari mari mari mari».
+- **A3.** Elige una buena idea para tu intervención: A) «Mari mari mari mari mari» B) «Hoy aprendí que antü es sol».
 
 *Razonamiento y análisis*
 
@@ -611,7 +611,7 @@ Respuesta: 6 palabras
 - **C3.** chaltumay. La ficha dice que es gracias.
 - **A1.** 6. Son: Cuidemos, el, agua, todos, los, días.
 - **A2.** 18. Sumo las tres partes. Cálculo: 3 + 12 + 3 = 18.
-- **A3.** A. A comunica una idea clara.
+- **A3.** B. A comunica una idea clara.
 - **Z1.** No. Sería usarlas como adorno.
 - **Z2.** respirar y seguir. No es una prueba y puede continuar.
 - **D1.** A, B, C. Comienzo, idea y cierre.
@@ -773,7 +773,7 @@ Respuesta: «¿Puedes repetirlo?»
 *Recuperación*
 
 - **R1.** Hablar y escuchar con otra persona se llama: A) interactuar B) interrumpir.
-- **R2.** Repetir con mis palabras lo que entendí se llama: A) parafrasear B) corregir.
+- **R2.** Repetir con mis palabras lo que entendí se llama: A) corregir B) parafrasear.
 - **R3.** Si no entendí, ¿pido que repitan o me quedo callado?
 
 *Comprensión*
@@ -813,7 +813,7 @@ Respuesta: «¿Puedes repetirlo?»
 **Solucionario razonado**
 
 - **R1.** A. Interactuar es conversar.
-- **R2.** A. Es repetir con mis palabras.
+- **R2.** B. Es repetir con mis palabras.
 - **R3.** pido que repitan. Preguntar ayuda a comprender.
 - **C1.** Falso. Hay que esperar a que la otra persona termine.
 - **C2.** Sí. Repitió con sus palabras lo que entendió.
@@ -983,7 +983,7 @@ Respuesta: A la educadora tradicional
 
 - **R1.** Pertinente quiere decir que la expresión: A) sirve para la situación B) es la más larga.
 - **R2.** ¿Quién me ayuda a revisar la pronunciación: el educador tradicional o yo con la imaginación?
-- **R3.** Al revisar a un compañero uso: A) dos cosas buenas y una por mejorar B) solo críticas.
+- **R3.** Al revisar a un compañero uso: A) solo críticas B) dos cosas buenas y una por mejorar.
 
 *Comprensión*
 
@@ -995,7 +995,7 @@ Respuesta: A la educadora tradicional
 
 - **A1.** Ficha de expresiones: «mari mari» es un saludo en mapuzugun. «chaltumay» es «gracias» en mapuzugun. «iorana» es un saludo en rapa nui. «maururu» es «gracias» en rapa nui. Revisa: Rosa quiere agradecer a una persona invitada en rapa nui y dice «iorana». ¿Qué expresión es pertinente: iorana o maururu?
 - **A2.** Tienes 3 cosas buenas y 1 cosa por mejorar para la intervención de Ana. ¿Cuántos comentarios das en total?
-- **A3.** Elige la mejor revisión de la intervención de un compañero: A) «Me gustó cómo saludaste y tu idea fue clara. Podrías hablar un poco más despacio.» B) «Hablas mal.»
+- **A3.** Elige la mejor revisión de la intervención de un compañero: A) «Hablas mal.» B) «Me gustó cómo saludaste y tu idea fue clara. Podrías hablar un poco más despacio.»
 
 *Razonamiento y análisis*
 
@@ -1023,13 +1023,13 @@ Respuesta: A la educadora tradicional
 
 - **R1.** A. Pertinente es que sirve.
 - **R2.** el educador tradicional. Él conoce cómo se dice.
-- **R3.** A. Es una forma respetuosa.
+- **R3.** B. Es una forma respetuosa.
 - **C1.** No. «Chaltumay» es gracias, no saludo.
 - **C2.** Falso. Nadie debe ser juzgado por su forma de hablar.
 - **C3.** al educador tradicional. Él conoce la pronunciación.
 - **A1.** maururu. La ficha dice que «maururu» es gracias en rapa nui.
 - **A2.** 4. Sumo las cosas buenas y la que mejora. Cálculo: 3 + 1 = 4.
-- **A3.** A. A dice cosas buenas y una por mejorar.
+- **A3.** B. A dice cosas buenas y una por mejorar.
 - **Z1.** No. Practicar y recibir ayuda es parte de aprender.
 - **Z2.** ninguno. Son dos escrituras de la misma palabra.
 - **D1.** A, B, C. Reviso, pido ayuda y practico.

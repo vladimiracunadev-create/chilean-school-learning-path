@@ -167,7 +167,7 @@ Respuesta: Faltan cuándo y para qué
 *Desafío*
 
 - **D1.** En una sala hay 4 tarjetas de contexto. Solo 1 está completa. ¿Cuántas tarjetas faltan por completar?
-- **D2.** Una persona quiere publicar un relato que le contaron, sin avisar. ¿Qué debe hacer primero: A) pedir permiso a quien lo contó B) elegir una foto?
+- **D2.** Una persona quiere publicar un relato que le contaron, sin avisar. ¿Qué debe hacer primero: A) elegir una foto B) pedir permiso a quien lo contó?
 
 *Situaciones auténticas*
 
@@ -195,7 +195,7 @@ Respuesta: Faltan cuándo y para qué
 - **Z1.** No. La tarjeta no permite registrar.
 - **Z2.** A. Un relato tiene procedencia.
 - **D1.** 3. Faltan las que no están completas. Cálculo: 4 − 1 = 3.
-- **D2.** A. El permiso es antes de publicar.
+- **D2.** B. El permiso es antes de publicar.
 - **S1.** «¿quién cuenta, a quién, dónde, cuándo y para qué?». Esos cinco datos sitúan el relato.
 - **E1.** cosmovisión. Eso significa cosmovisión.
 - **E2.** quién cuenta, a quién, dónde, cuándo o para qué. Son los cinco datos del contexto.
@@ -350,13 +350,13 @@ Respuesta: Anota su duda y pregunta cuando termina
 
 *Recuperación*
 
-- **R1.** La primera vez que escucho un relato, ¿para qué escucho: A) para disfrutarlo B) para dar una prueba?
+- **R1.** La primera vez que escucho un relato, ¿para qué escucho: A) para dar una prueba B) para disfrutarlo?
 - **R2.** Una emoción es: A) lo que siento B) el nombre del cerro.
 - **R3.** Si tengo una duda mientras alguien cuenta, ¿pregunto al final o interrumpo?
 
 *Comprensión*
 
-- **C1.** Relato de práctica (inventado; no es de ningún pueblo): «Hace mucho, un cerro llamado Alto Claro no tenía sombra. Los animales no encontraban descanso al mediodía. Una niña, Lía, subió tres días con una vasija de agua. En la cima regó una semilla. Pasaron muchas lunas y creció un árbol. Desde entonces el cerro tiene sombra y los animales descansan bajo ella.» ¿Qué animales aparecen descansando bajo la sombra: A) los animales del cerro B) los peces?
+- **C1.** Relato de práctica (inventado; no es de ningún pueblo): «Hace mucho, un cerro llamado Alto Claro no tenía sombra. Los animales no encontraban descanso al mediodía. Una niña, Lía, subió tres días con una vasija de agua. En la cima regó una semilla. Pasaron muchas lunas y creció un árbol. Desde entonces el cerro tiene sombra y los animales descansan bajo ella.» ¿Qué animales aparecen descansando bajo la sombra: A) los peces B) los animales del cerro?
 - **C2.** Verdadero o falso: hay una emoción correcta que todos deben sentir con un relato.
 - **C3.** Relato de práctica (inventado; no es de ningún pueblo): «Hace mucho, un cerro llamado Alto Claro no tenía sombra. Los animales no encontraban descanso al mediodía. Una niña, Lía, subió tres días con una vasija de agua. En la cima regó una semilla. Pasaron muchas lunas y creció un árbol. Desde entonces el cerro tiene sombra y los animales descansan bajo ella.» ¿Qué llevó Lía al subir: una vasija de agua o una manta?
 
@@ -369,12 +369,12 @@ Respuesta: Anota su duda y pregunta cuando termina
 *Razonamiento y análisis*
 
 - **Z1.** Dos comentarios sobre «Alto Claro». Eva: «Sentí calma cuando creció el árbol». Gaspar: «Fue aburrido». ¿Cuál dice qué sintió y en qué parte del relato?
-- **Z2.** Un compañero habla mientras escuchas. ¿Qué haces: A) mirar a quien cuenta y seguir escuchando B) gritarle?
+- **Z2.** Un compañero habla mientras escuchas. ¿Qué haces: A) gritarle B) mirar a quien cuenta y seguir escuchando?
 
 *Desafío*
 
 - **D1.** En un curso de 30 estudiantes, 12 dijeron que sintieron calma. ¿Cuántos NO dijeron calma?
-- **D2.** Una niña dice: «El relato real no me lo contaron entero, así que lo completo yo». ¿Qué debe hacer: A) preguntar al educador tradicional qué falta B) inventar el final?
+- **D2.** Una niña dice: «El relato real no me lo contaron entero, así que lo completo yo». ¿Qué debe hacer: A) inventar el final B) preguntar al educador tradicional qué falta?
 
 *Situaciones auténticas*
 
@@ -390,19 +390,19 @@ Respuesta: Anota su duda y pregunta cuando termina
 
 **Solucionario razonado**
 
-- **R1.** A. La primera escucha es para disfrutar.
+- **R1.** B. La primera escucha es para disfrutar.
 - **R2.** A. Emoción es sentimiento.
 - **R3.** pregunto al final. Interrumpir corta el relato.
-- **C1.** A. El relato dice «los animales».
+- **C1.** B. El relato dice «los animales».
 - **C2.** Falso. Cada persona siente distinto.
 - **C3.** una vasija de agua. El relato menciona la vasija de agua.
 - **A1.** B, A. La primera vez solo escucho; las anotaciones van al terminar.
 - **A2.** una semilla. El relato dice que regó una semilla.
 - **A3.** 5. Sumo los días de ida y de vuelta. Cálculo: 3 + 2 = 5.
 - **Z1.** el de Eva. Eva da emoción y momento del relato.
-- **Z2.** A. Mantengo la atención sin faltar el respeto.
+- **Z2.** B. Mantengo la atención sin faltar el respeto.
 - **D1.** 18. Resto los que dijeron calma del total. Cálculo: 30 − 12 = 18.
-- **D2.** A. Inventar el final cambia un relato que no es suyo.
+- **D2.** B. Inventar el final cambia un relato que no es suyo.
 - **S1.** «escucho en silencio y miro a quien cuenta». Es una forma de respeto y atención.
 - **E1.** para disfrutarlo. La primera escucha es para disfrutar.
 - **E2.** calma, alegría, sorpresa, curiosidad o tristeza. Todas son emociones posibles.
@@ -766,7 +766,7 @@ Respuesta: Con un ejemplo inventado o general
 *Recuperación*
 
 - **R1.** Una opinión fundamentada dice por qué lo pienso. ¿Qué palabra la introduce: porque o ayer?
-- **R2.** Conectar es relacionar un relato con: A) algo que ya conozco B) una pregunta sin respuesta.
+- **R2.** Conectar es relacionar un relato con: A) una pregunta sin respuesta B) algo que ya conozco.
 - **R3.** Si no quiero hablar de mi casa, ¿puedo pasar o debo contarlo?
 
 *Comprensión*
@@ -789,7 +789,7 @@ Respuesta: Con un ejemplo inventado o general
 *Desafío*
 
 - **D1.** De 20 comentarios del curso, 8 tenían razón con dato del relato. ¿Cuántos comentarios no tenían razón con dato?
-- **D2.** Una persona opina sobre un relato real de un pueblo: «está mal contado». ¿Qué conviene hacer primero: A) preguntar al educador tradicional cómo se cuenta B) corregirlo ella misma?
+- **D2.** Una persona opina sobre un relato real de un pueblo: «está mal contado». ¿Qué conviene hacer primero: A) corregirlo ella misma B) preguntar al educador tradicional cómo se cuenta?
 
 *Situaciones auténticas*
 
@@ -806,7 +806,7 @@ Respuesta: Con un ejemplo inventado o general
 **Solucionario razonado**
 
 - **R1.** porque. «Porque» introduce la razón.
-- **R2.** A. Conectar es unir con lo que ya sé.
+- **R2.** B. Conectar es unir con lo que ya sé.
 - **R3.** puedo pasar. Nadie está obligado a contar cosas privadas.
 - **C1.** la laguna se llenó. Es la razón que da la opinión.
 - **C2.** Falso. Cada persona puede pensar distinto, con razones.
@@ -817,7 +817,7 @@ Respuesta: Con un ejemplo inventado o general
 - **Z1.** Gaspar. Gaspar dio un dato del relato.
 - **Z2.** A. El respeto permite opiniones distintas.
 - **D1.** 12. Resto los comentarios fundamentados del total. Cálculo: 20 − 8 = 12.
-- **D2.** A. La forma de contar la define la comunidad.
+- **D2.** B. La forma de contar la define la comunidad.
 - **S1.** «Me gustó cuando… porque…». Es una opinión con razón.
 - **E1.** fundamentar. Fundamentar es dar razones.
 - **E2.** porque. «Porque» introduce la razón.

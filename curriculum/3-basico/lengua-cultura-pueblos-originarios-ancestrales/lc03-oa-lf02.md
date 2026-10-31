@@ -146,7 +146,7 @@ Respuesta: No hay; pido ayuda en castellano y pregunto
 *Recuperación*
 
 - **R1.** Ficha de expresiones: «mari mari» es un saludo en mapuzugun. «chaltumay» es «gracias» en mapuzugun. «iorana» es un saludo en rapa nui. «maururu» es «gracias» en rapa nui. ¿Qué quiere decir «maururu»?
-- **R2.** El interlocutor es: A) la persona con quien hablo B) el lugar donde estoy.
+- **R2.** El interlocutor es: A) el lugar donde estoy B) la persona con quien hablo.
 - **R3.** Ficha de expresiones: «mari mari» es un saludo en mapuzugun. «chaltumay» es «gracias» en mapuzugun. «iorana» es un saludo en rapa nui. «maururu» es «gracias» en rapa nui. ¿Cuál de estas es un saludo en mapuzugun: «mari mari» o «chaltumay»?
 
 *Comprensión*
@@ -186,7 +186,7 @@ Respuesta: No hay; pido ayuda en castellano y pregunto
 **Solucionario razonado**
 
 - **R1.** gracias. La ficha dice que «maururu» es gracias en rapa nui.
-- **R2.** A. Interlocutor es la persona con quien hablo.
+- **R2.** B. Interlocutor es la persona con quien hablo.
 - **R3.** mari mari. La ficha dice que «mari mari» es un saludo.
 - **C1.** chaltumay. La ficha dice que «chaltumay» es gracias en mapuzugun.
 - **C2.** Falso. Cada expresión sirve para algo distinto.
@@ -354,8 +354,8 @@ Respuesta: La pregunto a la educadora tradicional
 
 *Recuperación*
 
-- **R1.** Una expresión validada es: A) la que confirmó la educadora o una ficha hecha con ella B) la que me inventé.
-- **R2.** Ensayar es: A) practicar varias veces B) decirla una sola vez.
+- **R1.** Una expresión validada es: A) la que me inventé B) la que confirmó la educadora o una ficha hecha con ella.
+- **R2.** Ensayar es: A) decirla una sola vez B) practicar varias veces.
 - **R3.** ¿Quién me muestra cómo se dice una palabra: la educadora o mi imaginación?
 
 *Comprensión*
@@ -394,8 +394,8 @@ Respuesta: La pregunto a la educadora tradicional
 
 **Solucionario razonado**
 
-- **R1.** A. Validada quiere decir confirmada.
-- **R2.** A. Ensayar es practicar.
+- **R1.** B. Validada quiere decir confirmada.
+- **R2.** B. Ensayar es practicar.
 - **R3.** la educadora. Ella conoce la lengua.
 - **C1.** Falso. La pronunciación se aprende escuchando a quien sabe.
 - **C2.** 4. Cuento los cuatro pasos.
@@ -565,7 +565,7 @@ Respuesta: «Chaltumay»
 
 *Recuperación*
 
-- **R1.** Cada vez que una persona habla en una conversación se llama: A) turno B) cierre.
+- **R1.** Cada vez que una persona habla en una conversación se llama: A) cierre B) turno.
 - **R2.** Diálogo: Ana: «Mari mari». Educadora: «Buenos días, Ana». ¿Cuántos turnos hay?
 - **R3.** Cuando la otra persona habla, ¿espero a que termine o la interrumpo?
 
@@ -584,7 +584,7 @@ Respuesta: «Chaltumay»
 *Razonamiento y análisis*
 
 - **Z1.** Tomás habla encima de la educadora. ¿Qué parte del diálogo cuida más: escuchar o hablar fuerte?
-- **Z2.** Ana quiere despedirse, pero la ficha no tiene una expresión para despedirse. ¿Qué es mejor: A) inventar una palabra B) despedirse en castellano?
+- **Z2.** Ana quiere despedirse, pero la ficha no tiene una expresión para despedirse. ¿Qué es mejor: A) despedirse en castellano B) inventar una palabra?
 
 *Desafío*
 
@@ -605,7 +605,7 @@ Respuesta: «Chaltumay»
 
 **Solucionario razonado**
 
-- **R1.** A. Turno es cada vez que alguien habla.
+- **R1.** B. Turno es cada vez que alguien habla.
 - **R2.** 2. Hablan una vez cada una.
 - **R3.** espero a que termine. Escuchar es parte del diálogo.
 - **C1.** 3. Ana habla en el primer, tercer y quinto turno.
@@ -615,7 +615,7 @@ Respuesta: «Chaltumay»
 - **A2.** 5. Sumo los turnos de las dos. Cálculo: 3 + 2 = 5.
 - **A3.** la educadora. El último turno es el «Sí» de la educadora.
 - **Z1.** escuchar. Un diálogo se construye alternando turnos.
-- **Z2.** B. No debo inventar palabras en lengua indígena.
+- **Z2.** A. No debo inventar palabras en lengua indígena.
 - **D1.** 5. Es el último turno.
 - **D2.** 4. Sumo los turnos de cada amigo. Cálculo: 2 + 2 = 4.
 - **S1.** «Espera mi turno, por favor». El diálogo se cuida respetando los turnos.
@@ -774,20 +774,20 @@ Respuesta: «¿Cómo se escribe en su comunidad?»
 
 *Recuperación*
 
-- **R1.** Otra forma de decir o escribir lo mismo se llama: A) variante B) error.
+- **R1.** Otra forma de decir o escribir lo mismo se llama: A) error B) variante.
 - **R2.** «Ruka» y «ruca» nombran la casa mapuche. ¿Son dos escrituras de lo mismo?
 - **R3.** Si alguien lo dice distinto a mí, ¿lo corrijo o le pregunto con respeto?
 
 *Comprensión*
 
 - **C1.** Verdadero o falso: «pewen» y «pehuén» son dos escrituras del árbol de los piñones.
-- **C2.** Pregunta amable: A) «¿Cómo se dice en su comunidad?» B) «Está mal dicho».
+- **C2.** Pregunta amable: A) «Está mal dicho» B) «¿Cómo se dice en su comunidad?».
 - **C3.** «Mapuzugun» y «mapudungun» son dos escrituras de la lengua del pueblo mapuche. ¿Cuántas formas escritas hay?
 
 *Aplicación*
 
 - **A1.** Una ficha trae 3 palabras con 2 escrituras cada una. ¿Cuántas escrituras son en total?
-- **A2.** Dos compañeros escriben «ruka» y «ruca». ¿Qué haces: A) anoto las dos y pregunto cuál usa la comunidad B) borro una?
+- **A2.** Dos compañeros escriben «ruka» y «ruca». ¿Qué haces: A) borro una B) anoto las dos y pregunto cuál usa la comunidad?
 - **A3.** La educadora de tu escuela usa «pewen». Un libro usa «pehuén». En tu sala, ¿qué forma usas para el cartel: la que usa la educadora o la del libro?
 
 *Razonamiento y análisis*
@@ -814,14 +814,14 @@ Respuesta: «¿Cómo se escribe en su comunidad?»
 
 **Solucionario razonado**
 
-- **R1.** A. Variante es otra forma válida.
+- **R1.** B. Variante es otra forma válida.
 - **R2.** Sí. Las dos nombran la casa.
 - **R3.** le pregunto con respeto. Puede ser una variante.
 - **C1.** Verdadero. Son variantes de escritura.
-- **C2.** A. A pregunta con respeto; B corrige sin saber.
+- **C2.** B. A pregunta con respeto; B corrige sin saber.
 - **C3.** 2. Hay dos escrituras.
 - **A1.** 6. Tres palabras por dos escrituras. Cálculo: 3 × 2 = 6.
-- **A2.** A. Registro las dos y consulto.
+- **A2.** B. Registro las dos y consulto.
 - **A3.** la que usa la educadora. Es la forma de la comunidad de tu escuela.
 - **Z1.** No. Son variantes de escritura.
 - **Z2.** porque puede ser una variante válida. Preguntar respeta lo que sabe la otra persona.

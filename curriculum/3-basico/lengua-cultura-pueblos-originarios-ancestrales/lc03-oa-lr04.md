@@ -378,7 +378,7 @@ Respuesta: dejo la etiqueta en blanco y pregunto al educador
 *Desafío*
 
 - **D1.** Ordena los pasos para hacer una etiqueta: A) escribo el nombre en castellano y la fuente. B) copio la palabra del modelo. C) busco la palabra en la ficha. Escribe las letras en orden.
-- **D2.** ¿Qué etiqueta está mejor hecha? A) «mapu» y debajo «Fuente: ficha de la clase». B) «mapu» sin nada más.
+- **D2.** ¿Qué etiqueta está mejor hecha? A) «mapu» sin nada más B) «mapu» y debajo «Fuente: ficha de la clase»..
 
 *Situaciones auténticas*
 
@@ -406,7 +406,7 @@ Respuesta: dejo la etiqueta en blanco y pregunto al educador
 - **Z1.** usó la palabra de la luna. Kuyen es luna y el sol es antü.
 - **Z2.** pregunto al educador tradicional. Solo quien sabe la lengua puede decir la palabra.
 - **D1.** C, B, A. Primero busco en la ficha, luego copio y al final agrego el nombre y la fuente.
-- **D2.** A. La A dice de dónde viene la palabra.
+- **D2.** B. La A dice de dónde viene la palabra.
 - **S1.** ko, antü, ruka. Agua es ko, sol es antü y la casa mapuche es ruka.
 - **E1.** la copio del modelo. Solo se usan palabras de la ficha.
 - **E2.** la ñ y la ü. Son letras especiales de esas palabras.
@@ -576,7 +576,7 @@ Respuesta: El sol («antü») es cálido.
 *Aplicación*
 
 - **A1.** Ordena para formar una frase: húmeda / es / La tierra («mapu»).
-- **A2.** Elige la frase bien escrita. A) la casa mapuche («ruka») es grande B) La casa mapuche («ruka») es grande.
+- **A2.** Elige la frase bien escrita. A) La casa mapuche («ruka») es grande B) la casa mapuche («ruka») es grande.
 - **A3.** Ordena para formar una frase: («ko») / fría / es / El agua.
 
 *Razonamiento y análisis*
@@ -610,7 +610,7 @@ Respuesta: El sol («antü») es cálido.
 - **C2.** B. La B tiene verbo y cualidad.
 - **C3.** antü. Es la palabra indígena marcada.
 - **A1.** La tierra («mapu») es húmeda.. Primero va el nombre, luego es y la cualidad, con punto al final.
-- **A2.** B. La B empieza con mayúscula y termina con punto.
+- **A2.** A. La B empieza con mayúscula y termina con punto.
 - **A3.** El agua («ko») es fría.. Primero va el nombre, luego es y la cualidad.
 - **Z1.** es. Falta el verbo es.
 - **Z2.** No. El significado lo da la ficha.

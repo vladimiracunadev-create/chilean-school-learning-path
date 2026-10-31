@@ -366,7 +366,7 @@ Respuesta: describe: un cuadrado con dos puntos; inventa: quiere decir alegría
 
 - **A1.** Figura de práctica: ■■ con un punto en cada cuadrado: ■•■•. Escribe la descripción con números: ¿cuántos cuadrados y cuántos puntos?
 - **A2.** Figura de práctica: una raya larga con 4 rayitas cortas abajo. ¿Cuántas rayas hay en total contando la larga?
-- **A3.** Elige la mejor descripción de ▲● : A) «Un triángulo y un círculo» B) «Un cerro y un sol».
+- **A3.** Elige la mejor descripción de ▲● : A) «Un cerro y un sol» B) «Un triángulo y un círculo».
 
 *Razonamiento y análisis*
 
@@ -400,7 +400,7 @@ Respuesta: describe: un cuadrado con dos puntos; inventa: quiere decir alegría
 - **C3.** la comunidad. El significado pertenece al pueblo que lo creó.
 - **A1.** 2 cuadrados y 2 puntos. Hay dos cuadrados y en cada uno hay un punto.
 - **A2.** 5. Una raya larga más cuatro cortas dan cinco rayas.
-- **A3.** A. A dice lo que se ve; B ya inventa lo que sería.
+- **A3.** B. A dice lo que se ve; B ya inventa lo que sería.
 - **Z1.** que diga «dos triángulos». Lo que se ve son triángulos; ser cerros sería una idea suya.
 - **Z2.** No. Adivinar no es saber y puede faltarle el respeto al pueblo.
 - **D1.** 5 formas y 3 círculos. Tres círculos más dos triángulos suman cinco formas.

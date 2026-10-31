@@ -775,7 +775,7 @@ Respuesta: «No sé; lo voy a preguntar»
 
 *Aplicación*
 
-- **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Marta y su papá juntaron leña seca para el invierno». Elige lo que aprendí: A) la leña sirve para el invierno B) el invierno es cálido.
+- **A1.** Texto de práctica creado para este cuaderno (no pertenece a ningún pueblo). «Marta y su papá juntaron leña seca para el invierno». Elige lo que aprendí: A) el invierno es cálido B) la leña sirve para el invierno.
 - **A2.** Ordena: A) pregunta B) aprendizaje C) procedencia. ¿Qué letra va primero en el cierre?
 - **A3.** Una frase dice: «Aprendí que juntaron leña. Es un relato de práctica. ¿Cómo la usan hoy?». ¿Cuántas partes tiene?
 
@@ -809,7 +809,7 @@ Respuesta: «No sé; lo voy a preguntar»
 - **C1.** No. Es una parte.
 - **C2.** lo que todavía no sé. Reconozco que me falta.
 - **C3.** a quien compartió el relato. Reconozco su aporte.
-- **A1.** A. A resume el relato.
+- **A1.** B. A resume el relato.
 - **A2.** B. Se empieza con el aprendizaje.
 - **A3.** 3. Tiene aprendizaje, procedencia y pregunta.
 - **Z1.** que un relato es solo una parte. Falta mucho por aprender.

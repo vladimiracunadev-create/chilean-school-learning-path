@@ -368,7 +368,7 @@ Respuesta: Se pierde que quiere decir que llueve mucho
 
 - **A1.** Ordena los hechos del relato «Una tarde, la niña Alba fue al río con su abuelo. Primero vieron una garza quieta en la orilla. Después el abuelo le mostró cómo lavar una olla. Más tarde empezó a llover y corrieron bajo un árbol. Al final volvieron a casa y tomaron té caliente.»: A) volvieron a casa, B) el abuelo mostró cómo lavar una olla, C) vieron una garza. Escribe las letras en orden.
 - **A2.** Alba escuchó un relato de 5 hechos. Ya contó 3 hechos en orden. ¿Cuántos hechos le faltan por contar?
-- **A3.** Alguien dice «me tomó el pelo». ¿Qué quiere decir: a) me hizo una broma o b) me tocó el pelo con la mano? Responde con la letra.
+- **A3.** Alguien dice «me tomó el pelo». ¿Qué quiere decir: a) me tocó el pelo con la mano? Responde con la letra o b) me hizo una broma.
 
 *Razonamiento y análisis*
 
@@ -402,7 +402,7 @@ Respuesta: Se pierde que quiere decir que llueve mucho
 - **C3.** La ayuda de la comunidad. Así evitas equivocarte.
 - **A1.** C, B, A. Primero la garza, después la olla y al final volvieron a casa.
 - **A2.** 2. Se restan los hechos ya contados. Cálculo: 5 − 3 = 2.
-- **A3.** a. Es una forma de decir que le hicieron una broma; no es el sentido literal.
+- **A3.** b. Es una forma de decir que le hicieron una broma; no es el sentido literal.
 - **Z1.** Preguntando el sentido a quien conoce la lengua. Quien conoce la lengua sabe qué quiere decir.
 - **Z2.** Después. Después marca el orden de lo que pasó.
 - **D1.** 4; durmió. Se cuentan buscar leña, encender, hacer té y dormir.

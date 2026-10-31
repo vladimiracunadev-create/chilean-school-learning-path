@@ -573,7 +573,7 @@ Respuesta: La a) en una actividad del curso
 
 *Aplicación*
 
-- **A1.** Escribe una oración sobre la tierra con «mapu» entre paréntesis. Elige: a) «La tierra (mapu) está seca», b) «Mapu tierra seca». Letra:
+- **A1.** Escribe una oración sobre la tierra con «mapu» entre paréntesis. Elige: a) «Mapu tierra seca». Letra:, b) «La tierra (mapu) está seca»
 - **A2.** En «La luna (kuyen) alumbra el patio», ¿cuántas palabras hay en castellano, sin contar kuyen?
 - **A3.** Escribes 2 oraciones sobre el sol, 3 sobre el agua y 1 sobre la luna. ¿Cuántas oraciones son?
 
@@ -585,7 +585,7 @@ Respuesta: La a) en una actividad del curso
 *Desafío*
 
 - **D1.** Ordena las palabras y escribe la oración con «ko» entre paréntesis después de «agua»: «agua / el / del / está / río / fría».
-- **D2.** Dos oraciones: A) «El sol (antü) calienta la tierra (mapu)». B) «Antü calienta mapu». ¿Cuál no inventa gramática?
+- **D2.** Dos oraciones: A) «Antü calienta mapu». ¿Cuál no inventa gramática B) «El sol (antü) calienta la tierra (mapu)».?
 
 *Situaciones auténticas*
 
@@ -607,13 +607,13 @@ Respuesta: La a) en una actividad del curso
 - **C1.** Para no cambiar la palabra y unirla a su significado. Así se evita inventar.
 - **C2.** Una actividad del curso con práctica. Se usa con respeto.
 - **C3.** Los hablantes. Ellos conocen la lengua.
-- **A1.** a. Es una oración clara con la palabra confirmada.
+- **A1.** b. Es una oración clara con la palabra confirmada.
 - **A2.** 5. La, luna, alumbra, el y patio.
 - **A3.** 6. Se suman los tres grupos. Cálculo: 2 + 3 + 1 = 6.
 - **Z1.** Inventó una expresión en mapuzugun. No conoce la gramática.
 - **Z2.** Usó la palabra confirmada en una situación de práctica. Respetó la palabra y el contexto.
 - **D1.** El agua (ko) del río está fría. Mantiene la palabra confirmada.
-- **D2.** A. Está en castellano con palabras confirmadas.
+- **D2.** B. Está en castellano con palabras confirmadas.
 - **S1.** El agua (ko) da vida. Palabra confirmada entre paréntesis.
 - **E1.** Entre paréntesis. Así no cambias la oración.
 - **E2.** Pregunto y vuelvo a intentar. Se aprende practicando.
