@@ -129,7 +129,7 @@ reg(
      [E("Un afiche tiene cuatro párrafos de texto y una letra muy pequeña. ¿Cuál es el problema principal?", "Tiene demasiado texto y no se lee de lejos", "Un afiche debe ser breve."),
       E("Un afiche dice «¡Gran feria del libro!» pero no indica ni el día ni el lugar. ¿Cumple su propósito? Responde sí o no.", "No", "El lector no sabe cuándo ni dónde ir.")],
      [E("Afiche A: título grande «¡FERIA!», fecha y lugar en tamaño mediano y una imagen. Afiche B: todo en la misma letra pequeña. ¿Cuál tiene mejor jerarquía visual?", "El A", "Distingue por tamaños lo importante."),
-      E("En el afiche A, ¿cuántos niveles de tamaño hay: grande, mediano y la imagen? Cuenta solo los de texto.", "2", "Texto grande y texto mediano.")]),
+      E("Un afiche tiene tres partes: un título en letra grande, los datos en letra mediana y un dibujo. ¿Cuántos tamaños de letra hay? Cuenta solo el texto, no el dibujo.", "2", "Letra grande del título y letra mediana de los datos.")]),
     [E("Quieres hacer un afiche para invitar al curso a una limpieza del patio el viernes a las 9:00. ¿Qué título pones más grande: «¡Limpiemos el patio!» o «Viernes, 9:00, patio»?", "«¡Limpiemos el patio!»", "Es el mensaje central.")],
     [E("¿Los afiches usan pocas palabras?", "Sí", "Se leen de lejos."),
      E("¿Lo más importante va más grande?", "Sí", "Es la jerarquía visual."),
