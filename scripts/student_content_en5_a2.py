@@ -487,7 +487,7 @@ lesson(
     ],
     [
         ("Escuchas: «Mario has two red balls, three blue balls and one green ball.» ¿Cuántas pelotas azules deben tener las barras?", "3", "Three blue balls."),
-        arith("En el texto anterior, ¿cuántas pelotas tiene Mario en total?", "2+3+1", "Se suman las pelotas de los tres colores."),
+        arith("Escuchas: «Mario has two red balls, three blue balls and one green ball.» ¿Cuántas pelotas tiene Mario en total?", "2+3+1", "Se suman las pelotas de los tres colores."),
     ],
     [(ADULT + "En el recreo hacen una encuesta: «Five students choose football, four choose basketball and one chooses tennis.» (choose = eligen). ¿Cuántos estudiantes respondieron en total?", "10", "5 + 4 + 1 = 10.")],
     [

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-31 · 5° básico: revisión posterior del cuaderno
+
+- Se revisó de nuevo el cuaderno de 5° básico: las 11.817 respuestas con cálculo siguen verificadas por el validador, y se buscaron ejercicios que citan un texto, imagen o tabla que el enunciado no entrega.
+- Se corrigieron 6 ejercicios de Inglés (comprensión oral, OA 02, OA 04 y OA 08) que decían «en el texto de Ines / del cartero / del sándwich / del huerto / anterior» sin entregar el texto: ahora cada uno trae su pasaje.
+- Los montos de dinero de Matemática (billetes de $1.000 a $20.000 y monedas de $10, $50, $100 y $500) coinciden con las denominaciones en circulación en Chile; sigue pendiente su contraste con una fuente oficial del Banco Central.
+- Siguen abiertas las mismas limitaciones: sin revisión profesional humana y sin contraste con el sitio oficial del Currículum Nacional.
+
 ## 2026-10-30 · 5° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 844 clases de 5° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 22 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 4° básico.

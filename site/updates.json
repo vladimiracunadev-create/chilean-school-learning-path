@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-10-30",
+  "latest_date": "2026-10-31",
   "updates": [
+    {
+      "date": "2026-10-31",
+      "title": "5° básico: revisión posterior del cuaderno",
+      "summary": [
+        "Se revisó de nuevo el cuaderno de 5° básico: las 11.817 respuestas con cálculo siguen verificadas por el validador, y se buscaron ejercicios que citan un texto, imagen o tabla que el enunciado no entrega.",
+        "Se corrigieron 6 ejercicios de Inglés (comprensión oral, OA 02, OA 04 y OA 08) que decían «en el texto de Ines / del cartero / del sándwich / del huerto / anterior» sin entregar el texto: ahora cada uno trae su pasaje.",
+        "Los montos de dinero de Matemática (billetes de $1.000 a $20.000 y monedas de $10, $50, $100 y $500) coinciden con las denominaciones en circulación en Chile; sigue pendiente su contraste con una fuente oficial del Banco Central.",
+        "Siguen abiertas las mismas limitaciones: sin revisión profesional humana y sin contraste con el sitio oficial del Currículum Nacional."
+      ]
+    },
     {
       "date": "2026-10-30",
       "title": "5° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
@@ -21,16 +31,6 @@
         "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió respuestas falsas (99 − 45, ruta del nervio óptico, cifras del interior de la Tierra), datos inseguros, ejercicios no enseñados, textos que no se entregaban, aritmética fuera de nivel y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes (ortografía de Lenguaje OA 21, hojas de cálculo de Tecnología OA 05, entre otros) y se reescribieron 70 enunciados de definición idénticos entre asignaturas.",
         "Se documenta un desajuste del currículo: en Lenguaje (OA 11 a 18) y en Lengua y Cultura (OA 10 a 16) el texto del OA no coincide con los títulos de las clases. No se corrigió; se anota en el análisis de alineación.",
         "El análisis de alineación cubre ahora 1° a 4° básico, y la lista de contenidos para especialistas incluye 4° básico.",
-        "Siguen abiertos: escucha de al menos 20 músicas, 45 obras de arte al año, textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), software, audio y video, y decisiones que dependen del programa oficial. Sin revisión profesional humana."
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "title": "3° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
-      "summary": [
-        "Las 757 clases de 3° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos más frecuentes de 1° y 2° básico.",
-        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió cada ejercicio cerrado y corrigió errores de respuesta, datos falsos o dudosos, ejercicios no enseñados, aritmética fuera de nivel y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron 79 enunciados de definición idénticos entre asignaturas.",
-        "El análisis de alineación cubre ahora 1°, 2° y 3° básico, y la lista de contenidos para especialistas incluye 3° básico. El teléfono 147 (Fono Niños de Carabineros) se confirmó en ChileAtiende.",
         "Siguen abiertos: escucha de al menos 20 músicas, 45 obras de arte al año, textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), software, audio y video, y decisiones que dependen del programa oficial. Sin revisión profesional humana."
       ]
     }

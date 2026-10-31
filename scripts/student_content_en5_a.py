@@ -336,12 +336,12 @@ lesson(
         (ADULT + "«On Monday, Ines meets her friend Paula at the park. They play with a ball for one hour. Then they eat ice cream near the lake.» ¿Durante cuánto tiempo juegan con la pelota?", "Una hora", "Dice for one hour."),
     ],
     [
-        ("En el texto de Ines, ¿en qué día se juntan? a) lunes b) viernes", "a) lunes", "Dice on Monday."),
+        (ADULT + "«On Monday, Ines meets her friend Paula at the park. They play with a ball for one hour. Then they eat ice cream near the lake.» ¿En qué día se juntan? a) lunes b) viernes", "a) lunes", "Dice on Monday."),
         ("En el texto de la clase 5B, Miss Rojas y Mr. Silva van con la clase. ¿Cuántas personas van con la clase, sin contar a los estudiantes?", "2", "Miss Rojas y Mr. Silva son dos personas."),
     ],
     [
         (ADULT + "«The mail carrier brings a letter to Mr. Pérez on Wednesday at noon. The letter is from his sister in Chile.» (mail carrier = cartero, letter = carta, noon = mediodía, sister = hermana). ¿Qué trae el cartero?", "Una carta", "Dice brings a letter."),
-        ("En el texto del cartero, ¿quién escribió la carta? a) la hermana del señor Pérez b) el cartero", "a)", "Dice from his sister."),
+        (ADULT + "«The mail carrier brings a letter to Mr. Pérez on Wednesday at noon. The letter is from his sister in Chile.» (sister = hermana). ¿Quién escribió la carta? a) la hermana del señor Pérez b) el cartero", "a)", "Dice from his sister."),
     ],
     [(ADULT + "Una niña dice por teléfono: «I leave home at seven thirty and I walk to school with my brother.» (seven thirty = siete y media, brother = hermano). ¿Con quién camina al colegio?", "Con su hermano", "Dice with my brother.")],
     [
@@ -394,7 +394,7 @@ lesson(
     ],
     [
         (ADULT + "«Ana: How do I make a sandwich? Leo: First, take two slices of bread. Second, put cheese on one slice. Third, put the other slice on top. Last, ask an adult to cut it.» (slices = rebanadas, top = encima, last = por último). ¿Qué va en una rebanada?", "Queso", "Dice put cheese on one slice."),
-        ("En el texto del sándwich, ¿quién responde con los pasos? a) Leo b) Ana", "a) Leo", "Leo dice los pasos y Ana pregunta."),
+        (ADULT + "«Ana: How do I make a sandwich? Leo: First, take two slices of bread. Second, put cheese on one slice. Third, put the other slice on top. Last, ask an adult to cut it.» ¿Quién responde con los pasos? a) Leo b) Ana", "a) Leo", "Leo dice los pasos y Ana pregunta."),
     ],
     [(ADULT + "Un profesor dice: «Please stand in a line, open the door, and walk slowly.» (stand in a line = ponte en fila, door = puerta, slowly = despacio). ¿Cómo debes caminar?", "Despacio", "La palabra slowly significa despacio.")],
     [

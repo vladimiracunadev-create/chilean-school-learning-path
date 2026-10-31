@@ -482,8 +482,8 @@ lesson(
     ],
     [
         ("Lee: " + GARDEN + " ¿Cuál es la idea principal para el resumen? a) The class plants a garden b) The class likes Monday", "a)", "Es el hecho central."),
-        ("En el texto del huerto, ¿qué hacen el miércoles?", "Plantan las semillas y las riegan", "Dice On Wednesday, they plant the seeds and water them."),
-        ("En el texto del huerto, ¿qué día cavan la tierra?", "El martes", "Dice On Tuesday, they dig the soil."),
+        ("Lee: " + GARDEN + " ¿Qué hacen el miércoles?", "Plantan las semillas y las riegan", "Dice On Wednesday, they plant the seeds and water them."),
+        ("Lee: " + GARDEN + " ¿Qué día cavan la tierra?", "El martes", "Dice On Tuesday, they dig the soil."),
     ],
     [
         ("Un compañero escribió un resumen con su opinión: «I love the story». ¿Dónde debe ir esa frase?", "Aparte del resumen", "El resumen cuenta hechos, no opiniones."),
