@@ -43,7 +43,7 @@ build(
         ("{F} ¿Entre qué meridianos está el Territorio Chileno Antártico?", "entre los 53° y los 90° de longitud oeste", "La ficha lo dice."),
     ],
     ctx=("Un compañero describe a Chile con tres frases. Cuál es correcta: A) Está en el hemisferio sur, limita con Perú, Bolivia y Argentina. B) Está en el hemisferio norte y no tiene vecinos.", "A", "La ficha confirma la opción A."),
-    sc=[("¿Qué es la latitud?", "la distancia de un lugar al ecuador", "Es la definición de la clase."),
+    sc=[("En Historia: ¿Qué es la latitud?", "la distancia de un lugar al ecuador", "Es la definición de la clase."),
         ("{F} ¿En qué continentes tiene territorio Chile?", "América, Oceanía y Antártica", "La ficha lo indica."),
         ("¿Qué significa tricontinental?", "con territorio en tres continentes", "Es la definición de la clase.")],
     op=("Dibuja un mapa muy simple del mundo con los continentes como manchas. Marca con un punto de color la ubicación aproximada de Chile continental, la Isla de Pascua y la Antártica. Debajo, escribe una oración que describa la localización de Chile con tres vecinos o límites. {F}",

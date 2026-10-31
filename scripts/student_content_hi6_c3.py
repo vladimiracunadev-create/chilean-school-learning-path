@@ -96,7 +96,7 @@ build(
     ctx=("Tu curso quiere probar una nueva forma de entregar los libros de la biblioteca. Una amiga cuenta que en su colegio funcionó, pero no tiene datos. ¿Qué evidencia pedirías para decidir?", "Un informe con datos, fecha y quién lo hizo", "Así se puede comprobar."),
     sc=[("En Historia: ¿qué es una prueba piloto?", "Un ensayo a pequeña escala antes de adoptar la solución", "Es la idea de la clase."),
         ("¿Qué se pregunta para saber si una fuente sirve?", "Quién, cuándo y para qué", "Es su procedencia."),
-        ("¿Cómo se calcula un promedio?", "Se suman los datos y se divide por cuántos son", "Es la definición.")],
+        ("En Historia: ¿Cómo se calcula un promedio?", "Se suman los datos y se divide por cuántos son", "Es la definición.")],
     op=("Lee: Fuente A, informe firmado por la encargada de una biblioteca, este año: con préstamos por turnos, las filas bajaron de 40 a 16 minutos en 5 días de prueba. Fuente B, mensaje sin nombre que dice «esa idea no sirve». Tu biblioteca es más chica. Escribe cuál fuente usarías y por qué, qué prueba piloto harías (cuántos días y qué medirías) y una opinión sobre si adoptar la solución.",
         "Uso la fuente A porque tiene firma, fecha y números. Haría una prueba de 5 días midiendo el tiempo de fila. Mi biblioteca es más chica, así que probaré primero. Si las filas bajan, adoptaré los turnos.",
         ["elige la mejor fuente con una razón", "describe una prueba piloto con días y medida", "opina con la evidencia"], ["elección de fuente, prueba piloto y opinión"], ["usar el mensaje anónimo", "no medir nada"], "Muéstrale a una persona de tu casa tu prueba piloto y pídele que encuentre qué mides."),

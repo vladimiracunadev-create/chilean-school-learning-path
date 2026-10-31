@@ -181,7 +181,7 @@ register(
         ],
     },
     context=[ex("En una fiesta de curso suena una música con tres partes: primero un coro de niños cantando (A), luego solo palmas (B) y por último otra vez el coro (A). ¿Cómo describirías la forma?", "A – B – A", "El coro vuelve al final, así que la forma regresa a A.")],
-    selfcheck=[ex("¿Cómo se llama cuando una parte vuelve a sonar igual?", "Repetición", "Volver igual es repetir."), ex("En A – B – A, ¿cuántas veces suena A?", "2", "Suena al inicio y al final."), ex("¿Qué es el contraste?", "Una parte distinta de la anterior", "Contrastar es cambiar.")],
+    selfcheck=[ex("¿Cómo se llama cuando una parte vuelve a sonar igual?", "Repetición", "Volver igual es repetir."), ex("En A – B – A, ¿cuántas veces suena A?", "2", "Suena al inicio y al final."), ex("En Música: ¿Qué es el contraste?", "Una parte distinta de la anterior", "Contrastar es cambiar.")],
     open_task=task(
         "Usa un objeto que suene (una cuchara y un tarro) y tus palmas. Toca esta forma: A = cuatro golpes fuertes en el tarro; B = cuatro palmadas suaves. Hazlo en el orden A – B – A. Escribe qué cambió entre A y B y qué regresó.",
         "Toqué 4 golpes fuertes en el tarro, 4 palmadas suaves y de nuevo 4 golpes fuertes en el tarro. Cambió el instrumento y la fuerza. Regresó A.",

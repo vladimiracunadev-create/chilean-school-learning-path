@@ -208,7 +208,7 @@ L(OA3, 5,
   [E("Quieres leer el poema a tu curso. ¿Conviene hacer una pausa más larga entre estrofas o entre cada palabra?", "Entre estrofas", "Así se muestra dónde termina una unidad.")],
   [E("¿Cómo se llama cada línea de un poema?", "Verso", "Es la unidad de línea."),
    E("¿Cómo se llama un grupo de versos?", "Estrofa", "Reúne varios versos en una unidad."),
-   E("¿Qué es la rima?", "Repetición de sonidos finales", "Se produce al final de los versos.")],
+   E("En Lenguaje: ¿Qué es la rima?", "Repetición de sonidos finales", "Se produce al final de los versos.")],
   (f"Lee en voz alta el poema de la luna: «{LUNA}» Luego haz esto en tu cuaderno: 1) copia el verso que más te gustó; 2) escribe qué imagen te hizo ver; 3) dibuja esa imagen; 4) escribe dos palabras que riman en el poema.", "1) «Los grillos tocan campanas». 2) Vi un jardín oscuro con grillos tocando campanitas. 3) Dibujo del jardín. 4) Cielo y vuelo.", ["copia un verso del poema", "explica la imagen que vio", "dibuja la imagen", "señala dos palabras que riman"], ["verso copiado", "dibujo", "dos palabras con rima"], ["copiar algo que no está en el poema", "elegir palabras que no riman"], "Compara tu dibujo con el de otra persona: ¿ven lo mismo?"),
   "Lee en voz alta el poema a otra persona y pídele que cierre los ojos y te diga qué imagina.",
   "Escribe dos versos que rimen sobre el sol o la lluvia.")

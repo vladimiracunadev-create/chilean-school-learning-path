@@ -384,7 +384,7 @@ Respuesta: Espero y pregunto cuál es mi tramo
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es una repetición?
+- **E1.** En Lengua y Cultura: ¿Qué es una repetición?
 - **E2.** ¿Quién valida el tramo?
 - **E3.** ¿Cambias palabras de un tramo?
 

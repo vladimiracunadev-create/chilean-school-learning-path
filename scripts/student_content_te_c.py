@@ -226,7 +226,7 @@ reg(
         ("¿Guardar con otro nombre crea una versión? Responde sí o no.", "Sí", "Es una copia en ese momento."),
     ],
     C=[
-        ("¿Qué es una lista de revisión?", "Preguntas para mirar mi dibujo", "Ayuda a ver qué mejorar."),
+        ("En Tecnología: ¿Qué es una lista de revisión?", "Preguntas para mirar mi dibujo", "Ayuda a ver qué mejorar."),
         ("¿Por qué conviene guardar versiones?", "Para poder volver si el cambio sale peor", "Se conserva la anterior."),
         ("¿Qué haces si solo un color está mal?", "Cambias solo ese color", "No es necesario rehacer todo."),
     ],

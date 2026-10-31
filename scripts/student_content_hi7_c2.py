@@ -1,0 +1,248 @@
+"""Cuaderno del estudiante, 7.º básico Historia, Geografía y Ciencias Sociales: OA 22 (impactos recíprocos entre sociedad y ambiente)."""
+from __future__ import annotations
+
+from hi5_lib import build
+
+OA = "HI07 OA 22"
+MAT = "Lápiz y papel. Los casos, las cadenas de efectos y los datos (de ejemplo) están escritos en cada ejercicio; no necesitas internet ni salir de casa."
+
+# ---------------------------------------------------------------- Clase 1
+build(
+    OA, 1, "",
+    use="Aprenderé a identificar una intervención humana en el medio: quién actúa, qué hace, dónde y con qué finalidad. Sirve para comenzar a analizar sus impactos.",
+    prior=["Sé que las sociedades se adaptan al medio y lo transforman.", "Sé distinguir beneficios y costos de una transformación.", "Sé leer una ficha con datos."],
+    explain=[
+        "Una intervención humana es una acción de personas o instituciones que modifica el medio. Construir una ciudad, abrir un camino, cultivar un campo, represar un río o instalar una fábrica son intervenciones. También lo es plantar árboles o limpiar una playa. No todas dañan: algunas ayudan a recuperar el medio.",
+        "Para identificar una intervención me hago cuatro preguntas. ¿Quién la realiza? Es el actor, por ejemplo una empresa, una municipalidad o una comunidad. ¿Qué hace? Es la acción. ¿Dónde y cuándo? Es el lugar y el momento. ¿Para qué? Es la finalidad, que puede ser producir alimentos, tener energía, vivir o proteger.",
+        "Después de identificarla, reconozco su impacto, que es el efecto que causa en el medio y en las personas. Un impacto puede ser positivo si mejora algo, o negativo si lo empeora. El impacto también puede ir en sentido contrario: el medio afecta a la población, por ejemplo cuando una crecida del río daña casas. Por eso hablo de impactos recíprocos, que van de la sociedad al ambiente y del ambiente a la sociedad.",
+    ],
+    vocab=[("intervención humana", "acción de personas o instituciones que modifica el medio"), ("actor", "persona, empresa o institución que realiza una acción"), ("finalidad", "para qué se hace una acción"), ("impacto", "efecto que una acción causa en el medio o en las personas"), ("recíproco", "que va en las dos direcciones")],
+    worked=[
+        ("Identificar una intervención", "Noticia de ejemplo: «La municipalidad de Villa Alta pavimentó en marzo el camino que sube al cerro para que los vecinos lleguen más rápido a la escuela». Identifica actor, acción, lugar y finalidad.",
+         ["Actor: la municipalidad de Villa Alta.", "Acción: pavimentar el camino.", "Lugar: el camino que sube al cerro.", "Finalidad: llegar más rápido a la escuela."], "Actor municipalidad; acción pavimentar; lugar camino al cerro; finalidad llegar a la escuela"),
+        ("Distinguir sentido del impacto", "Un río se desborda y daña 10 casas. Otra comunidad planta 200 árboles en una ladera. ¿Qué impacto va del ambiente a la sociedad y cuál de la sociedad al ambiente?",
+         ["La crecida daña a las personas: del ambiente a la sociedad.", "Plantar árboles modifica el medio: de la sociedad al ambiente."], "Crecida: ambiente a sociedad; árboles: sociedad a ambiente"),
+    ],
+    mistakes=[
+        ("Creer que toda intervención humana daña el medio.", "Algunas lo recuperan, como plantar árboles o limpiar una playa.", "Evalúa cada intervención y su impacto."),
+        ("Nombrar solo la acción y olvidar al actor.", "Sin actor no se sabe quién toma la decisión ni quién responde.", "Escribe siempre quién, qué, dónde y para qué."),
+    ],
+    T=[
+        ("En Historia: ¿qué es una intervención humana?", "Una acción de personas o instituciones que modifica el medio", "Puede dañar o ayudar."),
+        ("¿Qué significa que los impactos sean recíprocos?", "Que van de la sociedad al ambiente y del ambiente a la sociedad", "Actúan en los dos sentidos."),
+        ("¿Cuáles son las cuatro preguntas para identificar una intervención?", "Quién la hace, qué hace, dónde y cuándo, y para qué", "Dan los datos clave de la acción."),
+        ("¿Cuál es una intervención humana? A) un terremoto, B) una lluvia fuerte, C) la construcción de un puente.", "C", "Es una acción de personas."),
+        ("Noticia de ejemplo: «Una empresa instaló 40 paneles solares en el techo de una bodega de Puerto Claro para producir electricidad». ¿Quién es el actor?", "Una empresa", "Es quien realiza la acción."),
+        ("En esa misma noticia, ¿cuál es la finalidad?", "Producir electricidad", "Es el para qué de la acción."),
+        ("=", "La empresa instala 40 paneles y cada uno produce 2 unidades de energía al día. ¿Cuántas unidades produce en un día?", "40*2", "Se multiplica la producción por los paneles."),
+        ("Noticia de ejemplo: «Vecinos del barrio Los Sauces limpiaron el sábado el canal de la plaza para evitar inundaciones». Identifica actor y finalidad.", "Actor: vecinos del barrio; finalidad: evitar inundaciones", "Responde quién y para qué."),
+        ("En esa noticia, ¿la intervención apunta a dañar o a proteger el medio y las casas?", "A proteger", "Limpiar el canal ayuda a que el agua fluya."),
+        ("Una crecida de un río arrastra un puente. ¿Qué sentido tiene el impacto? A) de la sociedad al ambiente, B) del ambiente a la sociedad.", "B", "El fenómeno natural daña una obra humana."),
+        ("Una comunidad tala 12 hectáreas de bosque para sembrar. Después, las lluvias arrastran suelo hasta el pueblo. Escribe cuál es la intervención y cuál es el impacto que vuelve a la población.", "Intervención: talar el bosque; impacto: el suelo arrastrado llega al pueblo", "Una acción humana provoca efectos que regresan a las personas."),
+        ("Una compañera dice: «Si una acción es de una empresa y no de personas, no es intervención humana». ¿Es correcta?", "No, porque las empresas son organizaciones de personas", "Las instituciones también intervienen."),
+        ("Ordena según las cuatro preguntas de la clase para describir una intervención: A) lugar y fecha, B) actor, C) finalidad, D) acción.", "B, D, A, C", "Primero quién y qué, luego dónde y cuándo, y por último para qué."),
+    ],
+    ctx=("Lees en el diario mural de tu colegio: «El curso 7.º B plantó 15 arbustos en la ladera detrás del patio el lunes para frenar la tierra suelta». ¿Qué datos de actor, acción y finalidad entrega?", "Actor: el 7.º B; acción: plantar 15 arbustos; finalidad: frenar la tierra suelta", "Cada dato responde una de las preguntas."),
+    sc=[("En Historia: ¿qué es un impacto?", "El efecto que una acción causa en el medio o en las personas", "Puede ser positivo o negativo."),
+        ("Da un ejemplo de intervención humana que ayuda al medio.", "Plantar árboles en una ladera", "Recupera el medio."),
+        ("¿Qué es un actor?", "La persona, empresa o institución que realiza la acción", "Es quien actúa.")],
+    op=("Lee la noticia de ejemplo: «En enero, una empresa constructora despejó 8 hectáreas de arbustos al borde de la ciudad de Valle Seco para levantar 120 casas». Escribe: actor, acción, lugar, finalidad, un posible impacto positivo y un posible impacto negativo, cada uno en una frase.",
+        "Actor: empresa constructora. Acción: despejar arbustos y construir. Lugar: borde de Valle Seco. Finalidad: levantar 120 casas. Positivo: 120 familias pueden vivir allí. Negativo: se pierde vegetación y suelo que absorbía agua.",
+        ["identifica actor, acción, lugar y finalidad", "nombra un impacto positivo y uno negativo", "usa datos de la noticia"], ["seis frases cortas con datos de la noticia"], ["olvidar el actor", "mencionar solo impactos negativos"], "Pídele a una persona de tu casa que te haga una de las cuatro preguntas y la responda con tu texto."),
+    reinforce="Anota una intervención que haya hecho tu comunidad en tu barrio y quién la realizó.",
+    extend="Escribe una intervención humana cuyo impacto positivo para unas personas tenga un costo para otras.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 2
+build(
+    OA, 2, "",
+    use="Aprenderé a rastrear efectos ambientales y sociales de una intervención, paso a paso, como una cadena. Sirve para ver consecuencias que no se notan a primera vista.",
+    prior=["Sé identificar actor, acción, lugar y finalidad de una intervención.", "Sé que los impactos pueden ser positivos o negativos.", "Sé ordenar una secuencia de causa y efecto."],
+    explain=[
+        "Una intervención tiene efectos directos, que ocurren enseguida y en el mismo lugar, y efectos indirectos, que llegan después o más lejos. Por ejemplo, si se tala un bosque en una ladera, el efecto directo es que desaparecen los árboles. Un efecto indirecto es que, con las lluvias, la tierra sin raíces se desliza y puede cubrir un camino.",
+        "También separo los efectos en ambientales y sociales. Los ambientales afectan al aire, el agua, el suelo y los seres vivos. Los sociales afectan a las personas: su salud, su trabajo, su vivienda o su seguridad. Muchas veces un efecto ambiental causa uno social. Si se contamina un río, el efecto ambiental es la muerte de peces y el social es que pescadores pierden su trabajo.",
+        "Para rastrear efectos armo una cadena: escribo la acción, luego su primer efecto, luego el efecto de ese efecto, y así. Reviso cada eslabón con la pregunta «¿por qué ocurre esto?». Si no puedo explicar un eslabón con un dato, lo marco como una hipótesis, o sea, una explicación posible que falta comprobar.",
+    ],
+    vocab=[("efecto directo", "consecuencia que ocurre enseguida y en el mismo lugar"), ("efecto indirecto", "consecuencia que llega después o más lejos"), ("efecto ambiental", "consecuencia en el aire, agua, suelo o seres vivos"), ("efecto social", "consecuencia en las personas: salud, trabajo, vivienda o seguridad"), ("hipótesis", "explicación posible que falta comprobar")],
+    worked=[
+        ("Armar una cadena", "Acción: rellenar con tierra un humedal (terreno bajo con agua) para hacer un estacionamiento. Escribe una cadena de tres efectos.",
+         ["Directo: el humedal desaparece.", "Indirecto: ya no hay un lugar que absorba el agua de lluvia.", "Social: calles y casas cercanas se inundan."], "Se pierde el humedal, el agua no se absorbe y se inundan calles y casas"),
+        ("Clasificar efectos", "Un río se contamina con residuos de una fábrica. Mueren los peces y los pescadores pierden su trabajo. ¿Cuál es ambiental y cuál social?",
+         ["La muerte de peces afecta a seres vivos: ambiental.", "La pérdida de trabajo afecta a personas: social."], "Peces: ambiental; trabajo: social"),
+    ],
+    mistakes=[
+        ("Poner solo el primer efecto y detenerse.", "Se pierden consecuencias indirectas importantes.", "Pregúntate «¿y qué pasa después?» al menos dos veces."),
+        ("Presentar como cierto un eslabón sin dato.", "Una explicación posible no es un hecho comprobado.", "Márcalo como hipótesis y señala qué dato falta."),
+    ],
+    T=[
+        ("En Historia: ¿qué es un efecto indirecto?", "Una consecuencia que llega después o más lejos de la acción", "No ocurre enseguida ni en el mismo lugar."),
+        ("¿Qué es un efecto social?", "Una consecuencia en las personas, como su salud, trabajo, vivienda o seguridad", "Se diferencia del ambiental."),
+        ("En Historia: ¿Qué es una hipótesis?", "Una explicación posible que falta comprobar", "No es un hecho ya demostrado."),
+        ("Se talan los árboles de una ladera. ¿Cuál es el efecto directo? A) los árboles desaparecen, B) cae un deslizamiento en otra comuna, C) sube el precio del pan.", "A", "Ocurre enseguida y en el mismo lugar."),
+        ("Una empresa vierte residuos a un arroyo y mueren los peces. ¿Qué tipo de efecto es la muerte de peces?", "Ambiental", "Afecta a los seres vivos."),
+        ("En el caso anterior, los vecinos ya no pueden usar el arroyo para lavar. ¿Qué tipo de efecto es?", "Social", "Afecta la vida cotidiana de las personas."),
+        ("=", "Un humedal de ejemplo absorbía 4.000 metros cúbicos de agua de lluvia y se rellenó la mitad. ¿Cuántos metros cúbicos ya no se absorben?", "4000//2", "La mitad de lo que absorbía deja de funcionar."),
+        ("Ordena la cadena: A) se inundan las casas, B) se rellena el humedal, C) el agua de lluvia ya no se absorbe.", "B, C, A", "La causa viene antes que sus efectos."),
+        ("Un pueblo extrae mucha agua de un pozo. A los 2 años el pozo da menos agua y las familias deben comprar agua en camiones. Escribe el efecto ambiental y el social.", "Ambiental: baja el nivel del pozo; social: las familias compran agua", "Primero cambia el recurso y luego la vida de las personas."),
+        ("Un compañero afirma: «Seguro la fábrica enfermó a los vecinos». No hay datos médicos. ¿Cómo debe escribirse? A) como hecho, B) como hipótesis que falta comprobar.", "B", "No hay datos que lo respalden."),
+        ("Un camino nuevo atraviesa un bosque de ejemplo. Efecto directo: se corta una franja de árboles. Efecto indirecto: más autos entran al bosque. Efecto social: llegan más turistas y suben las ventas de un almacén. ¿Cuál es el efecto social?", "Suben las ventas del almacén", "Afecta el trabajo de las personas."),
+        ("¿Por qué hay que preguntar «¿y qué pasa después?» al rastrear efectos?", "Porque los efectos indirectos aparecen más tarde o más lejos", "Evita quedarse con el primer efecto."),
+        ("=", "Una playa de ejemplo tenía 500 metros de largo y, después de una obra, quedó con 350. ¿Cuántos metros de playa se perdieron?", "500-350", "Se resta el largo final al inicial."),
+    ],
+    ctx=("Se propone talar una franja de árboles de 6 metros de ancho junto a un canal del barrio para ensanchar la calle. Tu curso quiere rastrear los efectos. ¿Cuál sería un efecto social posible? A) más espacio de tránsito para los vecinos, B) menos sombra para los animales del lugar, C) baja la cantidad de pájaros que anidan allí.", "A", "Cambia la vida de los vecinos."),
+    sc=[("En Historia: ¿qué diferencia hay entre efecto ambiental y social?", "El ambiental afecta al medio; el social, a las personas", "Se complementan en una cadena."),
+        ("¿Cómo se marca un eslabón sin dato?", "Como hipótesis", "No se presenta como hecho."),
+        ("¿Para qué se arma una cadena de efectos?", "Para ver consecuencias indirectas", "Muestra qué ocurre paso a paso.")],
+    op=("Lee la acción de ejemplo: «Una comunidad construye un muro de cemento a lo largo de 300 metros de una playa para evitar que el mar entre al pueblo». Arma una cadena de al menos cuatro eslabones con efectos directos, indirectos, ambientales y sociales. Marca uno como hipótesis.",
+        "Acción: muro en la playa. Directo: se cubre la arena donde llegaba el mar. Ambiental: la playa se angosta y ya no se recupera. Social: pescadores pierden lugar para varar botes. Hipótesis: otros sectores de playa se erosionan, falta medirlo.",
+        ["escribe al menos cuatro eslabones", "separa efecto directo, indirecto, ambiental y social", "marca una hipótesis"], ["una cadena escrita con un eslabón marcado"], ["detenerse en el primer efecto", "no marcar la hipótesis"], "Léele la cadena a una persona de tu casa y pídele que diga cuál eslabón le parece hipótesis."),
+    reinforce="Elige una obra que conozcas en tu comuna y escribe un efecto directo y uno indirecto.",
+    extend="Agrega a tu cadena un efecto positivo para el ambiente.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 3
+SERIE3 = "Datos de ejemplo de una laguna: año 1, 120 aves; año 5, 100 aves; año 10, 60 aves; año 15, 30 aves. Cambios: año 3, se instaló una industria a 2 km de la laguna; año 7, se construyó un camino a 500 metros."
+build(
+    OA, 3, SERIE3,
+    use="Aprenderé a comparar los impactos según la escala de tiempo (corto, mediano y largo plazo) y de espacio (local, regional y global). Sirve para no mirar solo lo inmediato ni solo lo cercano.",
+    prior=["Sé armar una cadena de efectos directos e indirectos.", "Sé leer una serie de datos en el tiempo.", "Sé que un impacto puede ser ambiental o social."],
+    explain=[
+        "Los impactos se pueden mirar con distintas escalas. La escala temporal habla de cuánto tardan: corto plazo es de días a un par de años, mediano plazo es de algunos años y largo plazo es de décadas. Algunos daños aparecen enseguida, como un derrame, y otros tardan mucho, como el desgaste del suelo.",
+        "La escala espacial habla de hasta dónde llegan. Local es el barrio, la ciudad o el valle. Regional es una zona más amplia, como una cuenca (el territorio que recoge el agua de un río) o varias comunas. Global es el planeta entero. Un mismo hecho puede tener impactos a varias escalas: un incendio forestal daña la comuna, contamina el aire de la región y libera gases que afectan a todo el planeta.",
+        "Para comparar escalas uso una tabla con dos columnas, tiempo y espacio. También reviso si un impacto local es parte de uno mayor. Con datos en el tiempo puedo ver tendencias: si un número sube, baja o se mantiene. Una tendencia en una serie de datos ayuda a hablar de impactos en el largo plazo, pero no demuestra por sí sola la causa.",
+    ],
+    vocab=[("escala temporal", "período de tiempo que se considera: corto, mediano o largo plazo"), ("escala espacial", "área que abarca un impacto: local, regional o global"), ("cuenca", "territorio que recoge el agua de un río"), ("tendencia", "forma en que un dato sube, baja o se mantiene en el tiempo"), ("global", "que afecta a todo el planeta")],
+    worked=[
+        ("Clasificar por escala", "Un derrame de aceite ensucia 2 km de una playa de una caleta y los pescadores no pueden salir por 3 semanas. ¿Cuál es la escala espacial y la temporal?",
+         ["Afecta 2 km de una caleta: escala local.", "Dura 3 semanas: corto plazo."], "Local y de corto plazo"),
+        ("Leer una tendencia", "Una laguna tenía 90 aves en el año 1, 70 en el año 4 y 40 en el año 8. ¿Cuál es la tendencia?",
+         ["Comparo los números en orden.", "Bajan: 90, 70, 40."], "Baja"),
+    ],
+    mistakes=[
+        ("Pensar que un impacto lejano no importa.", "Los efectos regionales y globales también afectan a las personas locales.", "Revisa las tres escalas espaciales."),
+        ("Decir que dos hechos son causa y efecto solo porque ocurren en el mismo período.", "Una tendencia no demuestra por sí sola la causa.", "Busca otros datos que expliquen la relación."),
+    ],
+    T=[
+        ("En Historia: ¿qué es una cuenca?", "El territorio que recoge el agua de un río", "Es una unidad de escala regional."),
+        ("¿Qué es una tendencia en una serie de datos?", "La forma en que el dato sube, baja o se mantiene en el tiempo", "Resume lo que pasa en el tiempo."),
+        ("¿Qué escala espacial abarca todo el planeta? A) local, B) regional, C) global.", "C", "Es la más amplia."),
+        ("{F} ¿Cuántas aves había en la laguna en el año 10?", "60 aves", "Se lee en la serie."),
+        ("{F} ¿Cuál es la tendencia del número de aves entre el año 1 y el año 15?", "Baja", "Los números disminuyen en cada medición."),
+        ("=", "{F} ¿Cuántas aves menos había en el año 15 que en el año 1?", "120-30", "Se resta el dato final al inicial."),
+        ("=", "{F} ¿Cuántos años pasaron entre la instalación de la industria y el último dato de aves?", "15-3", "Se resta el año de la industria al último año."),
+        ("{F} ¿Se puede afirmar con certeza que la industria causó la baja de aves? A) sí, porque ocurrió en esos años, B) no, la serie solo muestra la tendencia y faltan otros datos.", "B", "Una tendencia no demuestra la causa."),
+        ("Un incendio forestal quema 300 hectáreas de una comuna, humea el aire de toda la región por 4 días y libera gases que se suman a los de todo el planeta. Nombra las tres escalas espaciales del impacto.", "Local, regional y global", "Cada efecto llega más lejos."),
+        ("En el incendio anterior, ¿cuál es la escala temporal del humo sobre la región? A) corto plazo, B) largo plazo.", "A", "Dura 4 días."),
+        ("El suelo de un campo pierde fertilidad lentamente durante 40 años por el mal uso. ¿Es un impacto de corto o largo plazo?", "De largo plazo", "Se acumula en décadas."),
+        ("Un pueblo de la cuenca alta contamina un río. El impacto llega a tres comunas más abajo. ¿Qué escala espacial es? A) local, B) regional, C) global.", "B", "Abarca varias comunas de la cuenca."),
+        ("Una tabla de ejemplo dice: obra A afecta a 5 familias por 2 meses; obra B afecta a 300 familias por 10 años. ¿Cuál tiene mayor impacto en escala espacial y temporal?", "La obra B", "Afecta a más personas y por más tiempo."),
+    ],
+    ctx=("En tu colegio se discute una obra de ejemplo: un tajo en el cerro cercano. Datos: el ruido dura 2 semanas, el polvo llega a 3 barrios, y la pérdida de vegetación se nota por décadas. Clasifica el polvo según escala espacial: A) local, B) regional, C) global.", "A", "Llega a 3 barrios, o sea, al nivel local."),
+    sc=[("En Historia: ¿qué escalas espaciales hay?", "Local, regional y global", "Van de lo cercano a lo amplio."),
+        ("¿Qué escalas de tiempo hay?", "Corto, mediano y largo plazo", "Indican cuánto tardan o duran."),
+        ("¿Una tendencia demuestra la causa de un cambio?", "No, por sí sola no", "Hace falta más evidencia.")],
+    op=("Usa la serie de la laguna de ejemplo: {F} Escribe: (1) la tendencia, (2) la escala espacial a la que ubicarías la pérdida de aves (local, regional o global) y por qué, (3) una pregunta de qué dato adicional necesitas para saber si la industria o el camino influyeron.",
+        "La tendencia es que bajan las aves de 120 a 30. Es local porque ocurre en una laguna. Necesito saber qué cambió en el agua o el ruido de la laguna después de la industria y del camino.",
+        ["describe la tendencia con datos", "justifica la escala", "formula una pregunta de evidencia"], ["tres frases con los datos de la serie"], ["afirmar la causa sin evidencia", "olvidar justificar la escala"], "Pide a una persona de tu casa que diga si tu pregunta se puede responder con un dato."),
+    reinforce="Anota un impacto de tu comuna de corto plazo y uno de largo plazo.",
+    extend="Explica en tres líneas por qué un problema local puede formar parte de uno global.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 4
+build(
+    OA, 4, "",
+    use="Aprenderé a examinar medidas y responsabilidades para potenciar efectos positivos y reducir los negativos. Sirve para decidir qué hacer y quién debe hacerlo.",
+    prior=["Sé rastrear efectos directos e indirectos.", "Sé comparar impactos por escala.", "Sé distinguir actores en una situación."],
+    explain=[
+        "Una medida es una acción para enfrentar un impacto. Hay medidas que previenen el daño antes de que ocurra, medidas que lo mitigan, o sea, lo reducen, y medidas que lo reparan después. También hay medidas que potencian un efecto positivo, como ampliar un parque que ya ayuda a absorber el agua de lluvia.",
+        "Los responsables pueden ser distintos. Las personas pueden reducir su basura. Las empresas pueden controlar lo que emiten o vierten. La municipalidad puede mejorar los desagües y vigilar el cuidado de un humedal. El Estado crea leyes y las hace cumplir. Cada actor tiene una parte, y muchas veces se necesita que trabajen juntos.",
+        "Para evaluar una medida uso criterios: el alcance (a cuántas personas y hasta dónde llega), el costo, el plazo (qué tan rápido da resultados), el efecto en el ambiente y la justicia (si beneficia o perjudica más a algún grupo). Ninguna medida es perfecta. Una buena evaluación compara dos o más medidas con los mismos criterios y explica la decisión.",
+    ],
+    vocab=[("medida", "acción para enfrentar un impacto"), ("prevenir", "evitar que un daño ocurra"), ("mitigar", "reducir un daño que no se puede evitar del todo"), ("responsable", "actor que debe hacerse cargo de una parte de la solución"), ("criterio de evaluación", "aspecto con el que se compara una medida, como alcance, costo o plazo")],
+    worked=[
+        ("Clasificar una medida", "En un barrio de ejemplo se construye un muro de defensa contra el río antes de que llegue la crecida. ¿Previene, mitiga o repara?",
+         ["Se hace antes del daño.", "Su objetivo es evitar que el agua entre."], "Previene"),
+        ("Comparar dos medidas", "Medida A: limpiar el canal una vez, cuesta $200.000 y sirve 2 meses. Medida B: ampliar el desagüe, cuesta $800.000 y sirve 10 años. Compara con costo y plazo.",
+         ["A es más barata pero dura poco.", "B cuesta más, pero dura mucho más."], "A es más barata a corto plazo; B protege por más tiempo"),
+    ],
+    mistakes=[
+        ("Escoger la medida solo porque es la más barata.", "Una medida barata puede durar poco o no resolver el problema.", "Compara con varios criterios, no con uno solo."),
+        ("Pensar que la solución es responsabilidad de un solo actor.", "Personas, empresas, municipios y Estado tienen partes distintas.", "Asigna a cada actor la parte que le corresponde."),
+    ],
+    T=[
+        ("En Historia: ¿qué significa mitigar un daño?", "Reducirlo cuando no se puede evitar del todo", "Disminuye el impacto."),
+        ("¿Qué diferencia hay entre prevenir y reparar?", "Prevenir evita el daño antes; reparar actúa después de que ocurrió", "Una es anterior y la otra posterior."),
+        ("Nombra tres criterios para evaluar una medida.", "Por ejemplo: alcance, costo y plazo", "Son los criterios de la explicación."),
+        ("Instalar alarmas y rutas de evacuación antes de una marejada es una medida que... A) previene el daño a las personas, B) repara el daño ya ocurrido.", "A", "Se aplica antes del evento."),
+        ("Limpiar una playa después de un derrame es una medida que... A) previene, B) repara.", "B", "Se aplica después del daño."),
+        ("Una empresa que controla lo que vierte al río, ¿qué actor es?", "Un actor empresarial", "Tiene una parte de la responsabilidad."),
+        ("=", "Una medida cuesta $450.000 por obra y se necesitan 3 obras iguales en el barrio. ¿Cuánto cuestan en total?", "450000*3", "Se multiplica el costo por la cantidad."),
+        ("=", "La medida A protege a 1.200 familias y la medida B a 800. ¿Cuántas familias más protege A?", "1200-800", "Se resta lo que protege B a lo que protege A."),
+        ("Medida X: reforestar una ladera con 300 árboles, resultados en 5 años. Medida Y: poner una malla de contención, resultados en 1 mes pero dura 3 años. Si se necesita protección antes del invierno que viene, ¿cuál sirve más en el plazo?", "La medida Y", "Da resultados en menos tiempo."),
+        ("Siguiendo el caso anterior, si se busca un efecto que mejore el suelo por muchos años, ¿qué medida ayuda más?", "La medida X, la reforestación", "Los árboles mejoran el suelo a largo plazo."),
+        ("Una municipalidad propone una obra que protege a un barrio rico y deja expuesto a uno pobre. ¿Qué criterio de evaluación incumple?", "La justicia, porque beneficia más a un grupo que a otro", "No reparte equitativamente la protección."),
+        ("Una compañera dice: «Que lo arregle el alcalde y listo». ¿Qué le falta considerar?", "Que personas, empresas y el Estado también tienen una parte", "La responsabilidad es compartida."),
+        ("Elige la medida que potencia un efecto positivo: A) ampliar un parque que absorbe agua de lluvia, B) rellenar un humedal, C) cubrir un canal con basura.", "A", "Aumenta algo que ya ayuda al ambiente."),
+    ],
+    ctx=("Tu comuna de ejemplo tiene dos propuestas para la basura de la playa: A) poner 20 basureros nuevos por $300.000, solo en verano; B) un programa escolar de reciclaje que cuesta $600.000 y funciona todo el año. Si lo que más te importa es la duración, ¿cuál eliges?", "B", "Funciona todo el año."),
+    sc=[("En Historia: ¿qué es una medida frente a un impacto?", "Una acción para enfrentarlo", "Puede prevenir, mitigar o reparar."),
+        ("¿Quiénes pueden ser responsables?", "Personas, empresas, municipalidad y Estado", "Cada uno tiene una parte."),
+        ("¿Por qué comparar con varios criterios?", "Porque ninguna medida es perfecta", "Cada criterio muestra una ventaja distinta.")],
+    op=("Lee el caso de ejemplo: la quebrada de Los Aromos se llena de basura y, con lluvia, el agua inunda 40 casas. Propuestas: A) limpiar la quebrada cada primavera (cuesta $500.000 por vez); B) campaña vecinal para no botar basura (cuesta $100.000); C) construir un canal de concreto (cuesta $5.000.000). Elige una medida o una combinación, indica quién sería el responsable de cada parte y compara con dos criterios.",
+        "Elijo A y B. La municipalidad limpia la quebrada y los vecinos no botan basura. Comparo costo: A y B suman $600.000, muy por debajo del canal. Comparo plazo: limpian antes de la lluvia y la campaña funciona en meses. C es más caro.",
+        ["elige una medida o combinación", "asigna responsables", "compara con dos criterios"], ["una decisión explicada con criterios"], ["elegir sin comparar", "asignar todo a un solo actor"], "Pide a una persona de tu casa que diga si el responsable que elegiste podría hacerlo."),
+    reinforce="Elige un problema ambiental de tu barrio y anota quién podría hacerse cargo de una parte.",
+    extend="Explica por qué una medida de prevención puede ser más barata que una de reparación.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 5
+build(
+    OA, 5, "",
+    use="Aprenderé a construir una explicación sistémica: cómo la sociedad y el ambiente se afectan entre sí en ciclos. Sirve para explicar un problema ambiental con todas sus partes conectadas.",
+    prior=["Sé identificar intervenciones y sus efectos.", "Sé comparar escalas de tiempo y espacio.", "Sé evaluar medidas con criterios."],
+    explain=[
+        "Un sistema es un conjunto de partes conectadas, donde un cambio en una afecta a las demás. La sociedad y el ambiente forman un sistema: las personas usan recursos y cambian el medio, y el medio cambia las condiciones de vida de las personas. Para explicar un problema ambiental, muestro estas conexiones en lugar de nombrar causas sueltas.",
+        "Muchas conexiones forman ciclos, llamados retroalimentación. Una retroalimentación de refuerzo hace que un cambio se amplifique. Por ejemplo: hay sequía, los agricultores sacan más agua de los pozos, el nivel baja más y la sequía se siente más. Una retroalimentación de equilibrio frena el cambio. Por ejemplo: cuando se cuida el agua, el pozo se repone y el problema disminuye.",
+        "Una explicación sistémica incluye: el problema, las partes del sistema (actores, recursos, efectos), las conexiones con flechas, las escalas de tiempo y espacio, y las medidas posibles. También reconoce qué datos faltan. Así no culpa a un solo actor ni ofrece una solución mágica.",
+    ],
+    vocab=[("sistema", "conjunto de partes conectadas donde un cambio afecta a las demás"), ("retroalimentación", "ciclo donde un efecto vuelve a influir en su propia causa"), ("refuerzo", "cuando el ciclo amplifica el cambio"), ("equilibrio", "cuando el ciclo frena o corrige el cambio"), ("conexión", "relación entre dos partes de un sistema")],
+    worked=[
+        ("Reconocer un ciclo de refuerzo", "Hay sequía → los agricultores sacan más agua de los pozos → el nivel de los pozos baja → hay menos agua y la sequía duele más. ¿Es refuerzo o equilibrio?",
+         ["Cada paso agrava el problema inicial.", "El ciclo amplifica el cambio."], "Refuerzo"),
+        ("Reconocer un ciclo de equilibrio", "Un pueblo mide el pozo cada mes. Si baja mucho, reduce el riego. Con menos extracción, el pozo se repone. ¿Es refuerzo o equilibrio?",
+         ["Una acción frena el descenso.", "El nivel se corrige."], "Equilibrio"),
+    ],
+    mistakes=[
+        ("Explicar un problema con una sola causa.", "En un sistema hay varias partes conectadas.", "Dibuja o escribe al menos tres partes y sus conexiones."),
+        ("Olvidar el efecto que vuelve a las personas.", "El impacto es recíproco: lo que le pasa al ambiente vuelve a la sociedad.", "Cierra el ciclo con el efecto sobre las personas."),
+    ],
+    T=[
+        ("En Historia: ¿qué es un sistema?", "Un conjunto de partes conectadas donde un cambio en una afecta a las demás", "Es la idea central de la clase."),
+        ("¿Qué es la retroalimentación?", "Un ciclo donde un efecto vuelve a influir en su propia causa", "Cierra el ciclo."),
+        ("¿Qué diferencia hay entre refuerzo y equilibrio?", "El refuerzo amplifica el cambio; el equilibrio lo frena o corrige", "Uno agrava y el otro estabiliza."),
+        ("Más autos → más humo → más enfermedades respiratorias → más personas usan auto para evitar caminar al aire contaminado. ¿Refuerzo o equilibrio?", "Refuerzo", "El problema se amplifica."),
+        ("Un barrio mide cada mes la basura de un sitio eriazo. Si sube mucho, organiza una limpieza y la basura vuelve a bajar. ¿Qué tipo de ciclo es?", "Equilibrio", "La acción reduce el problema."),
+        ("¿Por qué conviene mostrar las conexiones con flechas? A) para ordenar los datos de menor a mayor, B) para ver cómo un cambio afecta a otras partes.", "B", "Muestra la relación entre las partes."),
+        ("=", "En un ciclo de ejemplo, cada año se pierde el doble de bosque que el anterior. Si el año 1 se perdieron 50 hectáreas, ¿cuántas se pierden en el año 3?", "50*2*2", "El doble del doble del primer año."),
+        ("=", "Un pozo bajó 40 centímetros el primer año y 40 más el segundo. Si en total tenía 5 metros (500 cm) de agua, ¿cuántos centímetros quedan?", "500-40-40", "Se restan las dos bajas del total."),
+        ("Se construyen casas en una ladera sin vegetación → se desliza la tierra en un invierno → las familias pierden sus casas → se construyen casas nuevas en otra ladera. Explica en una frase por qué esto es un ciclo.", "Porque el efecto sobre las personas lleva a repetir la intervención en otro lugar", "El final del ciclo vuelve a empezar."),
+        ("¿Qué falta en esta explicación? «La basura contamina el río». A) las conexiones con las personas y las medidas, B) nada.", "A", "Es una causa suelta, no un sistema."),
+        ("Una compañera dice: «El problema se arregla si solo cambian las personas». ¿Qué parte del sistema olvida?", "A las empresas, al Estado y a las condiciones del ambiente", "Un sistema tiene varios actores y partes."),
+        ("Completa con una medida que convierta un ciclo de refuerzo en uno de equilibrio: sequía → más pozos → menos agua. A) cavar más pozos, B) medir el nivel y reducir el riego si baja.", "B", "Introduce un freno al descenso."),
+        ("Ordena una explicación sistémica: A) medidas posibles, B) problema, C) partes y conexiones, D) datos que faltan.", "B, C, A, D", "Se parte del problema, se conectan las partes, se proponen medidas y se indica lo que falta."),
+    ],
+    ctx=("Tu curso explica el problema de la basura en una playa de ejemplo: la playa se ensucia → llegan menos turistas → el pueblo tiene menos ingresos → se limpia menos → la playa se ensucia más. ¿Es un ciclo de refuerzo o de equilibrio?", "Refuerzo", "Cada paso agrava el siguiente."),
+    sc=[("En Historia: ¿qué incluye una explicación sistémica?", "El problema, las partes, las conexiones, las escalas y las medidas", "Muestra el conjunto."),
+        ("Da un ejemplo de equilibrio.", "Cuidar el agua para que el pozo se reponga", "Frena el problema."),
+        ("¿Por qué el impacto es recíproco?", "Porque lo que le ocurre al ambiente vuelve a afectar a las personas", "Cierra el ciclo.")],
+    op=("Explica de forma sistémica este caso de ejemplo: en la caleta Piedra Blanca hay más pescadores cada año; pescan más y los peces disminuyen; con menos peces, cada pescador gana menos y sale a pescar más horas. Escribe: el ciclo con flechas, si es de refuerzo o equilibrio, una medida que lo frene y un dato que falta.",
+        "Más pescadores → más pesca → menos peces → menos ganancia → más horas de pesca → menos peces. Es de refuerzo. Medida: fijar un límite de pesca por temporada. Dato que falta: cuántos peces nacen cada año.",
+        ["escribe el ciclo con flechas", "clasifica el ciclo", "propone una medida que lo frene", "indica un dato que falta"], ["un ciclo escrito y tres frases"], ["explicar con una causa suelta", "no cerrar el ciclo"], "Cuéntale el ciclo a una persona de tu casa y pídele que diga cuál es el problema inicial."),
+    reinforce="Dibuja o escribe un ciclo corto sobre el agua en tu casa (uso, gasto, ahorro).",
+    extend="Explica cómo un ciclo de refuerzo puede ser positivo (por ejemplo, un barrio que cuida sus plantas y atrae más cuidado).",
+    materials=MAT,
+)

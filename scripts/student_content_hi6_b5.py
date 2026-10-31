@@ -272,7 +272,7 @@ lesson(
         ("Dos campañas de ejemplo: la A consiguió 80 firmas y la B 50. Afirmación: «La campaña A tuvo más apoyo». ¿Cuántas firmas más tuvo la A?", "30", "80 menos 50 son 30.", "80-50"),
     ],
     [("En una escuela se quiere cuidar el patrimonio de un mural antiguo. Una estudiante argumenta: «Hay que cuidarlo porque nos recuerda la historia del barrio». ¿Cuál es la afirmación?", "Que hay que cuidar el mural", "Es lo que sostiene; lo demás es la razón.")],
-    [("¿Qué partes tiene un buen argumento?", "Afirmación, evidencia y razón", "Así se enseñó en la clase."), ("¿Qué es un límite?", "Lo que la evidencia no permite saber", "Es la definición de la clase."), ("¿Se argumenta con «porque sí»?", "No", "Se necesita evidencia.")],
+    [("¿Qué partes tiene un buen argumento?", "Afirmación, evidencia y razón", "Así se enseñó en la clase."), ("En Historia: ¿Qué es un límite?", "Lo que la evidencia no permite saber", "Es la definición de la clase."), ("¿Se argumenta con «porque sí»?", "No", "Se necesita evidencia.")],
     (
         "Elige una de estas afirmaciones y escribe un argumento con evidencia, razón y límite, usando estos datos inventados: a) «Conviene ahorrar agua»: un curso cerró las llaves y gastó 40 litros menos por semana; b) «Conviene cuidar el patrimonio»: un mural cuidado fue visitado por 120 personas en un año; c) «Conviene ser honesto en las pruebas»: en un curso sin copia, el profesor identificó 5 temas que necesitaban refuerzo.",
         "Afirmación a: conviene ahorrar agua. Evidencia: 40 litros menos por semana. Razón: se gasta menos. Límite: es un solo curso.",

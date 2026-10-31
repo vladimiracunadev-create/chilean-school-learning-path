@@ -174,7 +174,7 @@ reg(
     [("Pensar que escribir creativamente impide corregir.", "Corregir mejora la creatividad.", "Revisa con la lista antes de compartir."), ("Compartir el primer borrador sin leerlo.", "Puede tener errores que no viste.", "Léelo de nuevo en voz alta.")],
     ([E("Borrador: «mi perro se llama Rayo». ¿Qué falta al comienzo y al final?", "Mayúscula al inicio y punto al final", "La oración debe empezar con mayúscula y terminar con punto."),
       E("¿Cómo corriges «el sol salió temprano»?", "El sol salió temprano.", "Se agrega la mayúscula y el punto."),
-      E("¿Qué es un borrador?", "La primera versión de un texto", "Se puede mejorar.")],
+      E("En Lenguaje: ¿Qué es un borrador?", "La primera versión de un texto", "Se puede mejorar.")],
      [E("¿Qué es una carpeta de autor?", "Una colección de textos que escribí", "Reúne mis textos."),
       E("¿Para qué revisamos un texto?", "Para corregirlo y mejorarlo", "La revisión mejora el texto."),
       E("¿Se debe compartir el texto sin leerlo de nuevo?", "No", "Primero hay que revisarlo.")],

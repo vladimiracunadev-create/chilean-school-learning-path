@@ -338,7 +338,7 @@ reg(
     ],
     R=[
         ("¿Qué se corrige primero: lo de seguridad o lo estético?", "Lo de seguridad", "Evita que el producto lastime."),
-        ("¿Qué se hace después de corregir?", "Volver a evaluar", "Para saber si mejoró."),
+        ("En Tecnología: ¿Qué se hace después de corregir?", "Volver a evaluar", "Para saber si mejoró."),
         ("¿Qué se anota en el registro de correcciones?", "Qué problema había, qué se cambió, quién y cuándo", "Deja evidencia del proceso."),
     ],
     C=[

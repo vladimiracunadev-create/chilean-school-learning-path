@@ -1071,3 +1071,179 @@ Como en 5.º, los títulos de clase del plan son etapas genéricas («Reconocer 
 | MU06 OA 08 | 1 | Escuchar antes de nombrar · Reflexionar sobre sus fortalezas | 79 % | 70 % | 26.9 | — |
 | LC06 OA 09 | 1 | Situar pueblo, territorio y fuente · Problematizar la relaci | 93 % | 100 % | 23.0 | — |
 | HI06 OA 17 | 1 | Ubicar en tiempo y espacio · Que todas las personas tienen d | 95 % | 100 % | 21.4 | — |
+
+## 7.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 29 | 57 % | 5 |
+| ciencias-naturales | 72 | 51 % | 10 |
+| educacion-fisica-salud | 25 | 45 % | 4 |
+| historia-geografia-ciencias-sociales | 113 | 51 % | 12 |
+| ingles | 80 | 34 % | 20 |
+| ingles-propuesta | 65 | 31 % | 35 |
+| lengua-literatura | 147 | 46 % | 15 |
+| matematica | 83 | 47 % | 4 |
+| musica | 30 | 41 % | 8 |
+| orientacion | 49 | 47 % | 4 |
+| tecnologia | 26 | 47 % | 4 |
+
+**Clases marcadas para lectura prioritaria (7.º básico):** 121 de 719.
+
+### Segunda lectura crítica de las 719 clases
+
+Cada una de las 719 clases de 7.º básico fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios. Las fichas de actitud y la asignatura de Lengua Indígena de 7.º son integración transversal y no llevan cuaderno propio.
+
+| Asignatura | Clases | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 83 | Enunciados imposibles («tres enteros de valor absoluto menor que 4 y menores que −1», solo hay dos; una reducción lineal incorrecta que coincide en dos puntos); dato irreal de 69 cuadritos completos y 20 partidos en un círculo de radio 5 (son 60 y 28); mediana de 7,5 cm en un triángulo de 9, 8 y 6 cm que no existe; pares ordenados «(7,5)» que en Chile se leen como decimal, ahora «(7, 5)»; piso −3 fuera de un edificio que llegaba al −2; descomposición del paralelogramo «en trapecio y triángulo» no general; división de fracciones planteada como reparto; términos usados sin definir (mediana, hipotenusa, fracción irreducible, puntos porcentuales). |
+| Lengua y Literatura | 147 | Rima y asonancia con diptongos revisadas vocal por vocal; contradicciones entre regla y explicación («al menos 3 evidencias» contra «dos o tres»); eje de un gráfico que hacía parecer «el triple» lo que era 2,5 veces; «decido» en una lista de participios mal formados; texto con coma «que sobra» que era válida; «reímos» y verbos en -ar con la misma forma en presente y pasado; respuestas Sí/No sesgadas (50 No contra 16 Sí) reformuladas; homófonos y tildes verificados; alternativas absurdas reescritas. |
+| Ciencias Naturales | 72 | Abstinencia y preservativo en una misma lista con «el único que reduce ITS»; ventana fértil calculada del 9 al 15 cuando con ovulación el día 16 es del 11 al 17; términos de biología usados antes de enseñarlos (estrógenos, anticuerpos, páncreas, insulina); ciclo del aire y estaciones precisados (el verano austral es de fines de diciembre a fines de marzo); leche agria «por el sabor»; seis casos de riesgo cerrados en «avisar a un adulto»; datos de tectónica y volcanes sin imprecisión. |
+| Historia, Geografía y Ciencias Sociales | 113 | La Moneda «terminado en 1805 por Toesca» (Toesca murió en 1799); «los aztecas cultivaban cacao» (lo recibían como tributo); «chocolate» como palabra náhuatl de etimología discutida; cirílico atribuido directamente a Cirilo y Metodio; fortalezas incas «al sur del Maule»; un dux vitalicio contado entre cargos temporales; fuentes «independientes» que repetían la misma noticia; ostracismo ejemplificado con un acusado; ciclos de refuerzo y equilibrio confundidos; andenes (OA 14), minoica, fenicia, olmeca y chavín (OA 04) agregados para cubrir el OA. |
+| Inglés (propuesta EN07) | 65 | «While Ana was cooking, her brother ___ music» con dos respuestas gramaticales; «has» sin considerar «have»; «going to» y «leather» usados sin enseñar; pasado irregular y comparativos sin regla; cinco palabras con /r/ y no cuatro; adivinanza con 3 pistas y no 2; «Penguins live in cold places» (hay pingüinos en Chile); módulo de OA 11 y 12 de 6.º reescrito tras una sobrescritura. |
+| Inglés (oficial IN07) | 80 | «table» presentado como cognado de «tabla» (falso amigo); torta de chocolate para un perro; «must» usado antes de enseñarlo; «Pia plays the violin every Thursday. Today is Friday» sin probar nada; «Dear Mr. Pedro Gonzalez»; «es obligatorio» el casco sin certeza legal; OA 11 reescrito tras una sobrescritura; colocaciones y «too much/too many» agregados para cubrir el OA 08. |
+| Educación Física y Salud | 25 | Ejemplo de respuesta que mandaba recoger vidrio; subir y bajar peldaños dentro de la casa; máquinas de ejercicio al aire libre; metas de 150 minutos semanales contra 30 diarios del OA; salto de 200 cm irreal; la plancha, «finta», «interceptar» y «golpe de calor» usados sin enseñar; supuestos sobre la familia («tu mamá», «tu hermano pequeño»). |
+| Orientación | 49 | Pasos ante grooming contradictorios («guardar el chat» contra no guardar imágenes íntimas); víctima o testigo enfrentando al agresor como primer paso; recibir una petición culpada; número de ayuda inventado (solo se usa 147); «cambios hormonales» sin enseñar; frase agresiva que podía leerse como asertiva; ejercicios de sueño con la respuesta en el paréntesis. |
+| Música | 30 | «Compás 1» de 16 unidades que sumaba 20; distancia 3 donde era 4; «2 minutos» para 36 tiempos de respiración; escala de niveles sin definir; «palmas» como medio sonoro y corporal a la vez; viola y violonchelo sin enseñar; «marchar» y «acto cívico» ambiguos. |
+| Artes Visuales | 29 | «El doble de grande, 2 y 4 tazas» (el volumen se multiplica por 8); engrudo secado en 20 minutos por capa; escultura de cartón de 3 m en una plaza contra una clase de cuidado; foto de una compañera «sin permiso de su familia»; «base al menos la mitad de la altura» como regla; plano medio contradicho por el cielo; «pieza de adolescente». |
+| Tecnología | 26 | Repartos que dejaban «sobra 0 cm²» cuando la consigna pedía usar los retazos; 20 ÷ 8 = 2,5 MB fuera de cifras enteras; criterio «peso» que chocaba con el «peso» de ponderación; rampa de cartón y madera para una silla de ruedas; «pincharse» con tijeras; «tu hermano de 6 años». |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA de cada asignatura (por ejemplo «Definir necesidad…», «Recognize purpose and context», «Situar pueblo, territorio y fuente»), y los autores repartieron el contenido del OA entre ellas. Los lectores comprobaron que lo enseñado calza con el OA. En Historia, Ciencias, Música, Educación Física, Orientación y parte de Lengua y Literatura los títulos sí coinciden con el contenido. Conviene que el currículo nombre el tema de cada clase; no se hizo aquí porque exige el Programa de Estudio.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Matemática (valor de π y estimación del círculo en OA 11); Ciencias (anticoncepción general y métodos, cuidado de materiales); Historia (andenes y sistemas de cultivo en OA 14; minoica, fenicia, olmeca y chavín en OA 04; ecúmene, romanización, Euclides y Juegos Olímpicos); Inglés propuesta («I want / don't want» y «a few»); Inglés oficial (preguntar para clarificar, colocaciones y palabras compuestas del OA 08, «too much / too many», instructions).
+- **Abiertos:** software educativo, geométrico y de presentación (Matemática OA 03, 12, 15, 16, 18 y 19; Tecnología OA 04); audio, video y escucha (Inglés, Lengua y Literatura OA 20, Música); obras completas, plan lector, romances y lira popular reales, mitos de pueblos originarios (Lengua y Literatura OA 02, 05 y 06); reglas de ortografía literal completas (OA 19: faltan h, g/j, ll/y); sacrificios humanos y relaciones de género (Historia OA 08 y OA 15); anticoncepción de emergencia (Ciencias OA 02); esclavitud en Roma sin clase propia (OA 07); ortocentro y bisectrices en cuadriláteros (Matemática OA 12); pasos concretos de danza y gimnasia (Educación física OA 01); obras reales, imágenes y visitas a museos (Artes); mediciones y experimentos reales (Ciencias OA 07 a 15, Tecnología OA 02).
+- **Decisiones que dependen del programa oficial:** el listado de temas y obras del curso (Lengua y Literatura OA 02), la definición escolar de embrión y feto (semana 8), K = °C + 273 en Ciencias, la convención 1 GB = 1.000 MB, el estatus de los vectores libres y de «pocas» y «muchas» repeticiones, y las reglas propias del cuaderno rotuladas como tales (escala de esfuerzo, regla «6 por 6», rangos de palabras por minuto).
+
+### Clases marcadas de 7.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| MU07 OA 02 | 1 | Escuchar antes de nombrar · Lenguaje musical y procedimiento | 7 % | 0 % | 17.2 | — |
+| EN07 OA 05 | 5 | Communicate independently · Lectura de temas cercanos, actua | 10 % | 0 % | 13.5 | — |
+| IN07 OA 01 | 3 | Locate explicit details | 13 % | 33 % | 13.7 | — |
+| EN07 OA 05 | 1 | Recognize purpose and context · Lectura de temas cercanos, a | 14 % | 0 % | 15.9 | — |
+| EN07 OA 08 | 3 | Model a comprehension or communication strategy · Presentaci | 16 % | 17 % | 15.8 | — |
+| IN07 OA 08 | 1 | Exchange information and quantities | 16 % | 0 % | 14.5 | — |
+| EN07 OA 01 | 4 | Practice through a genuine information gap · Comprensión glo | 17 % | 33 % | 15.0 | — |
+| IN07 OA 05 | 4 | Speak from key words rather than read | 17 % | 33 % | 14.2 | — |
+| EN07 OA 12 | 5 | Communicate independently · Funciones comunicativas en texto | 17 % | 17 % | 17.9 | — |
+| EN07 OA 05 | 2 | Locate useful clues · Lectura de temas cercanos, actuales e  | 17 % | 0 % | 15.1 | — |
+| EN07 OA 01 | 2 | Locate useful clues · Comprensión global de textos orales si | 17 % | 12 % | 16.4 | — |
+| IN07 OA 09 | 5 | Answer with a cited clue | 18 % | 0 % | 11.7 | — |
+| MU07 OA 04 | 4 | Interpretar o crear con criterio · Interpretación a una y má | 18 % | 33 % | 18.8 | — |
+| EN07 OA 10 | 1 | Recognize purpose and context · Funciones comunicativas en c | 19 % | 29 % | 12.7 | — |
+| EN07 OA 04 | 3 | Model a comprehension or communication strategy · Comprensió | 20 % | 33 % | 14.0 | — |
+| EN07 OA 10 | 4 | Practice through a genuine information gap · Funciones comun | 21 % | 12 % | 11.9 | — |
+| IN07 OA 16 | 1 | Express quantity and comparison | 21 % | 67 % | 25.9 | — |
+| HI07 OA 02 | 3 | Examinar excedentes, intercambio y especialización | 21 % | 75 % | 23.1 | — |
+| EN07 OA 01 | 3 | Model a comprehension or communication strategy · Comprensió | 22 % | 25 % | 13.6 | — |
+| IN07 OA 01 | 2 | Identify the main idea | 22 % | 0 % | 14.2 | — |
+| EN07 OA 01 | 5 | Communicate independently · Comprensión global de textos ora | 23 % | 29 % | 21.2 | — |
+| EN07 OA 03 | 5 | Communicate independently · Estrategias antes, durante y des | 23 % | 29 % | 16.3 | — |
+| IN07 OA 02 | 1 | Notice frequent chunks | 23 % | 33 % | 11.9 | — |
+| IN07 OA 02 | 4 | Use stress and sound clues | 23 % | 0 % | 15.1 | — |
+| EN07 OA 11 | 2 | Locate useful clues · Escritura breve según género, modelo y | 24 % | 44 % | 12.1 | — |
+| MU07 OA 03 | 2 | Reconocer un rasgo audible · Interpretación vocal e instrume | 24 % | 29 % | 16.4 | — |
+| MU07 OA 03 | 3 | Relacionar lenguaje musical y efecto · Interpretación vocal  | 24 % | 12 % | 17.6 | — |
+| EF07 OA 03 | 2 | Regular intensidad y recuperación | 25 % | 67 % | 20.2 | — |
+| EN07 OA 05 | 3 | Model a comprehension or communication strategy · Lectura de | 25 % | 0 % | 14.6 | — |
+| MU07 OA 04 | 1 | Escuchar antes de nombrar · Interpretación a una y más voces | 25 % | 43 % | 18.2 | — |
+| MU07 OA 04 | 2 | Reconocer un rasgo audible · Interpretación a una y más voce | 25 % | 43 % | 17.8 | — |
+| OR07 OA 05 | 5 | Practicar comunicación o búsqueda de ayuda · Relaciones pres | 25 % | 22 % | 14.5 | — |
+| TE07 OA 03 | 2 | Investigar soluciones y restricciones · Evaluación técnica d | 25 % | 33 % | 14.4 | — |
+| EN07 OA 12 | 3 | Model a comprehension or communication strategy · Funciones  | 25 % | 12 % | 18.3 | — |
+| EN07 OA 02 | 2 | Locate useful clues · Información explícita y relaciones en  | 25 % | 12 % | 17.7 | — |
+| EN07 OA 10 | 3 | Model a comprehension or communication strategy · Funciones  | 26 % | 12 % | 15.0 | — |
+| EN07 OA 02 | 5 | Communicate independently · Información explícita y relacion | 26 % | 29 % | 14.1 | — |
+| IN07 OA 08 | 4 | Narrate past events and future plans | 26 % | 25 % | 12.0 | — |
+| EN07 OA 09 | 5 | Communicate independently · Interacción y reparación del sig | 26 % | 0 % | 16.4 | — |
+| CN07 OA 13 | 2 | Relacionar presión y volumen | 26 % | 100 % | 22.5 | — |
+| EN07 OA 06 | 4 | Practice through a genuine information gap · Estrategias de  | 27 % | 29 % | 10.9 | — |
+| OR07 OA 08 | 4 | Elegir una acción segura · Acuerdos y participación democrát | 27 % | 43 % | 16.2 | — |
+| EN07 OA 12 | 1 | Recognize purpose and context · Funciones comunicativas en t | 27 % | 43 % | 12.4 | — |
+| EN07 OA 05 | 4 | Practice through a genuine information gap · Lectura de tema | 27 % | 22 % | 13.2 | — |
+| LE07 OA 11 | 5 | Recuperar referentes perdidos | 27 % | 100 % | 20.4 | — |
+| EN07 OA 03 | 4 | Practice through a genuine information gap · Estrategias ant | 28 % | 33 % | 12.6 | — |
+| EF07 OA 03 | 4 | Registrar progreso respecto de sí mismo | 28 % | 100 % | 20.2 | — |
+| EN07 OA 12 | 2 | Locate useful clues · Funciones comunicativas en textos escr | 28 % | 29 % | 24.3 | — |
+| IN07 OA 16 | 3 | Narrate past events | 28 % | 50 % | 40.2 | — |
+| EN07 OA 02 | 4 | Practice through a genuine information gap · Información exp | 29 % | 38 % | 14.8 | — |
+| MU07 OA 02 | 3 | Relacionar lenguaje musical y efecto · Lenguaje musical y pr | 29 % | 29 % | 14.1 | — |
+| EN07 OA 02 | 1 | Recognize purpose and context · Información explícita y rela | 29 % | 25 % | 19.9 | — |
+| TE07 OA 01 | 3 | Representar y planificar · Necesidades de reparación, adapta | 29 % | 33 % | 15.9 | — |
+| EN07 OA 09 | 3 | Model a comprehension or communication strategy · Interacció | 30 % | 29 % | 11.1 | — |
+| EN07 OA 04 | 2 | Locate useful clues · Comprensión de textos literarios y no  | 30 % | 33 % | 14.0 | — |
+| IN07 OA 03 | 5 | Support an answer with two oral clues | 30 % | 33 % | 11.1 | — |
+| EN07 OA 12 | 4 | Practice through a genuine information gap · Funciones comun | 30 % | 12 % | 11.3 | — |
+| LE07 OA 11 | 2 | Resumir conservando relaciones | 30 % | 100 % | 22.9 | — |
+| IN07 OA 08 | 2 | Describe people, places and actions | 30 % | 25 % | 14.1 | — |
+| EN07 OA 03 | 2 | Locate useful clues · Estrategias antes, durante y después d | 31 % | 38 % | 13.9 | — |
+| IN07 OA 06 | 2 | Open and sustain a turn | 31 % | 0 % | 10.6 | — |
+| IN07 OA 03 | 2 | Locate specific people, places and actions | 31 % | 20 % | 14.4 | — |
+| HI07 OA 08 | 1 | Reconocer qué se entiende por canon | 31 % | 33 % | 23.0 | — |
+| IN07 OA 06 | 5 | Respond and repair meaning | 32 % | 33 % | 12.6 | — |
+| EN07 OA 02 | 3 | Model a comprehension or communication strategy · Informació | 32 % | 22 % | 13.6 | — |
+| EN07 OA 08 | 2 | Locate useful clues · Presentación oral multimodal | 32 % | 20 % | 12.3 | — |
+| MU07 OA 03 | 1 | Escuchar antes de nombrar · Interpretación vocal e instrumen | 32 % | 43 % | 14.2 | — |
+| IN07 OA 14 | 3 | Develop a coherent short text | 32 % | 33 % | 12.0 | — |
+| OR07 OA 05 | 4 | Elegir una acción segura · Relaciones presenciales y virtual | 32 % | 38 % | 12.6 | — |
+| EN07 OA 09 | 2 | Locate useful clues · Interacción y reparación del significa | 33 % | 17 % | 18.3 | — |
+| LE07 OA 02 | 6 | Elaborar una reflexión con evidencia | 33 % | 67 % | 22.6 | — |
+| MA07 OA 12 | 1 | Construir paralelas, perpendiculares y puntos medios | 33 % | 100 % | 21.6 | — |
+| TE07 OA 02 | 3 | Representar y planificar · Diseño e implementación eficiente | 33 % | 33 % | 17.1 | — |
+| IN07 OA 12 | 3 | Reread for a precise question | 34 % | 67 % | 20.2 | — |
+| EF07 OA 04 | 1 | Leer riesgos y oportunidades del entorno | 35 % | 100 % | 20.3 | — |
+| IN07 OA 15 | 1 | State a clear purpose | 36 % | 33 % | 21.1 | — |
+| HI07 OA 09 | 3 | Relacionar herencia grecorromana y cristianismo | 40 % | 100 % | 20.8 | — |
+| LE07 OA 05 | 4 | Interpretar desde el contexto | 40 % | 100 % | 21.1 | — |
+| IN07 OA 08 | 5 | Combine functions in a real interaction | 41 % | 100 % | 23.0 | — |
+| LE07 OA 12 | 5 | Editar una versión para circular | 42 % | 100 % | 20.2 | — |
+| LE07 OA 15 | 1 | Analizar contexto, género y destinatario | 43 % | 100 % | 21.0 | — |
+| CN07 OA 11 | 4 | Explicar transformaciones y escalas temporales | 44 % | 75 % | 13.8 | respuesta «depende» en ejercicio cerrado |
+| HI07 OA 07 | 5 | Evaluar continuidad, cambio y apropiación del legado | 44 % | 100 % | 22.1 | — |
+| LE07 OA 07 | 2 | Relacionar experiencia y evidencia sin autobiografía obligat | 45 % | 100 % | 20.4 | — |
+| HI07 OA 08 | 3 | Examinar ciudadanía y centralidad humana | 46 % | 100 % | 22.1 | — |
+| HI07 OA 02 | 1 | Comparar caza-recolección y producción de alimentos | 46 % | 100 % | 18.9 | respuesta «depende» en ejercicio cerrado |
+| CN07 OA 12 | 1 | Relacionar energía solar, latitud y estaciones | 46 % | 100 % | 20.2 | — |
+| EN07 OA 13 | 3 | Model a comprehension or communication strategy · Proceso de | 47 % | 11 % | 20.9 | — |
+| IN07 OA 16 | 5 | Combine functions in a purposeful text | 49 % | 33 % | 22.6 | — |
+| AR07 OA 06 | 3 | Examinar mediación, acceso y cuidado | 50 % | 75 % | 21.6 | — |
+| CN07 OA 10 | 4 | Tomar decisiones de prevención desde mapas oficiales | 50 % | 100 % | 23.4 | — |
+| CN07 OA 15 | 4 | Diseñar una prueba con control | 50 % | 100 % | 24.6 | — |
+| MA07 OA 12 | 2 | Trazar bisectrices y alturas | 50 % | 100 % | 21.1 | — |
+| OR07 OA 05 | 2 | Distinguir hechos, emociones, derechos y límites · Relacione | 53 % | 67 % | 20.8 | — |
+| MA07 OA 16 | 3 | Elegir y construir un gráfico apropiado | 53 % | 75 % | 21.4 | — |
+| CN07 OA 13 | 5 | Argumentar desde datos y condiciones seguras | 55 % | 75 % | 21.9 | — |
+| HI07 OA 01 | 3 | Relacionar adaptación, cultura y ambiente | 55 % | 100 % | 20.1 | — |
+| LE07 OA 06 | 2 | Analizar conflicto, personajes y símbolos | 55 % | 100 % | 22.9 | — |
+| LE07 OA 08 | 6 | Construir una postura propia | 55 % | 100 % | 21.0 | — |
+| CN07 OA 03 | 2 | Comparar ITS sin asociarlas a identidades | 55 % | 100 % | 17.5 | respuesta «depende» en ejercicio cerrado |
+| LE07 OA 11 | 1 | Definir propósito y anticipar dificultades | 56 % | 100 % | 23.1 | — |
+| CN07 OA 09 | 5 | Usar evidencia para evaluar el modelo | 57 % | 100 % | 27.3 | — |
+| LE07 OA 03 | 6 | Comparar elementos con otra narración | 58 % | 100 % | 22.1 | — |
+| LE07 OA 09 | 7 | Elaborar una evaluación fundamentada | 59 % | 100 % | 20.4 | — |
+| LE07 OA 06 | 5 | Interpretar la función cultural del relato | 60 % | 100 % | 21.7 | — |
+| HI07 OA 18 | 1 | Contextualizar ciudadanía y democracia | 62 % | 100 % | 14.3 | respuesta «depende» en ejercicio cerrado |
+| TE07 OA 05 | 1 | Definir necesidad, usuario y criterio · Contraste de solucio | 62 % | 50 % | 21.2 | — |
+| HI07 OA 18 | 3 | Examinar municipio y gremio | 64 % | 100 % | 25.4 | — |
+| EF07 OA 04 | 5 | Evaluar seguridad y cuidado ambiental | 69 % | 100 % | 20.7 | — |
+| AR07 OA 01 | 1 | Observar manifestaciones y registrar preguntas | 70 % | 100 % | 22.1 | — |
+| CN07 OA 02 | 4 | Explicar responsabilidad reproductiva con fuentes sanitarias | 70 % | 80 % | 17.7 | respuesta «depende» en ejercicio cerrado |
+| LE07 OA 10 | 3 | Relacionar información y pasaje literario | 70 % | 100 % | 23.3 | — |
+| MA07 OA 15 | 2 | Comparar métodos de selección | 70 % | 100 % | 20.5 | — |
+| HI07 OA 11 | 1 | Ubicar espacios y cronologías conectadas | 73 % | 100 % | 20.8 | — |
+| CN07 OA 12 | 5 | Integrar factores en una explicación multicausal | 77 % | 100 % | 20.5 | — |
+| HI07 OA 20 | 4 | Debatir principios para la convivencia actual | 78 % | 75 % | 21.9 | — |
+| AR07 OA 06 | 4 | Diseñar una difusión pertinente para un trabajo | 80 % | 100 % | 20.6 | — |
+| HI07 OA 23 | 1 | Delimitar una pregunta investigable | 81 % | 100 % | 23.0 | — |
+| AR07 OA 06 | 1 | Caracterizar museo, galería, espacio público y plataforma di | 88 % | 100 % | 20.8 | — |
+| LE07 OA 10 | 1 | Formular una necesidad de contexto | 89 % | 100 % | 21.0 | — |
+| AR07 OA 02 | 1 | Definir intención y criterios de sustentabilidad | 93 % | 100 % | 20.3 | — |

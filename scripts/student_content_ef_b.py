@@ -447,7 +447,7 @@ register(
             ex("Entre estaciones, ¿caminas o corres?", "Caminas", "Se mantiene el control."),
         ],
         "understand": [
-            ex("¿Para qué sirve el plano?", "Para ver el camino y los riesgos antes de moverse", "Ayuda a planificar."),
+            ex("En Educación Física: ¿Para qué sirve el plano?", "Para ver el camino y los riesgos antes de moverse", "Ayuda a planificar."),
             ex("Una ruta segura, ¿pasa por los riesgos o los evita?", "Los evita", "Ese es su objetivo."),
             ex("¿Qué se pregunta al revisar?", "Si respeté los límites y evité los riesgos", "Es la pauta."),
         ],

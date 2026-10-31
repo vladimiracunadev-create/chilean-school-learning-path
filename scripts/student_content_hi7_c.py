@@ -1,0 +1,248 @@
+"""Cuaderno del estudiante, 7.º básico Historia, Geografía y Ciencias Sociales: OA 21 (adaptación humana y transformación del medio)."""
+from __future__ import annotations
+
+from hi5_lib import build
+
+OA = "HI07 OA 21"
+MAT = "Lápiz y papel. Las fichas, los mapas descritos y los datos (de ejemplo) están escritos en cada ejercicio; no necesitas atlas ni internet."
+
+# ---------------------------------------------------------------- Clase 1
+build(
+    OA, 1, "",
+    use="Aprenderé a leer las condiciones de un lugar (agua, suelo, relieve, clima y amenazas) y a explicar por qué un grupo humano se instala allí. Sirve para entender cualquier asentamiento.",
+    prior=["Sé leer un mapa y una tabla de datos.", "Sé que un lugar tiene recursos naturales como agua, suelo y minerales.", "Sé distinguir una causa de una consecuencia."],
+    explain=[
+        "El medio es el conjunto de condiciones del lugar donde vive una sociedad: clima, relieve, agua, suelo, seres vivos y también lo que las personas han construido. Un asentamiento es el lugar donde un grupo humano se instala para vivir de forma estable. Para entender por qué se instaló ahí, observo las condiciones ambientales del lugar.",
+        "Varios factores inciden en un asentamiento. La disponibilidad de recursos: agua dulce, leña, peces, minerales. La cercanía a zonas fértiles, donde el suelo permite cultivar. El relieve, porque un terreno plano es más fácil para construir que una ladera empinada. También pesan las amenazas del entorno, como inundaciones o terremotos. Si un lugar es expuesto a ellas, la población es más vulnerable, es decir, puede sufrir más daño.",
+        "Las personas responden al medio de dos maneras. En la adaptación ajustan su modo de vida a las condiciones, por ejemplo con techos inclinados donde llueve mucho. En la transformación cambian el medio, por ejemplo al hacer un canal para llevar agua. Un medio es frágil cuando cambia con facilidad por la acción humana, como una ladera sin vegetación.",
+    ],
+    vocab=[("medio", "condiciones naturales y construidas del lugar donde vive una sociedad"), ("asentamiento", "lugar donde un grupo se instala para vivir de forma estable"), ("vulnerabilidad", "posibilidad de sufrir daño ante una amenaza"), ("adaptación", "ajustar el modo de vida a las condiciones del medio"), ("transformación", "cambiar el medio para que sirva mejor a las personas")],
+    worked=[
+        ("Leer una ficha del lugar", "Ficha de ejemplo, Valle Verde: río con agua todo el año, suelo fértil, terreno plano, sin inundaciones registradas. ¿Qué factores favorecen que un grupo se instale ahí?",
+         ["Busco los recursos: agua del río todo el año.", "Busco la zona fértil: suelo fértil.", "Miro el relieve y el riesgo: terreno plano y sin inundaciones."], "Agua, suelo fértil, terreno plano y bajo riesgo"),
+        ("Distinguir adaptación y transformación", "En un pueblo de lluvias intensas construyen casas sobre pilotes. En otro, desvían un arroyo con un canal. ¿Cuál es adaptación y cuál transformación?",
+         ["Las casas sobre pilotes ajustan la vivienda al medio sin cambiarlo: adaptación.", "El canal cambia el recorrido del agua: transformación."], "Pilotes: adaptación; canal: transformación"),
+    ],
+    mistakes=[
+        ("Decir que un grupo se instala donde hay agua y nada más.", "El agua es solo un factor; también cuentan el suelo, el relieve y las amenazas.", "Revisa recursos, zonas fértiles, relieve y amenazas antes de concluir."),
+        ("Pensar que adaptarse es quedarse sin hacer nada.", "Adaptar el modo de vida es una acción activa: se ajusta la vivienda, el cultivo o el trabajo.", "Pregunta qué hizo la sociedad para ajustarse al medio."),
+    ],
+    T=[
+        ("En Historia: ¿qué es un asentamiento?", "Un lugar donde un grupo humano se instala para vivir de forma estable", "Es la idea central de la clase."),
+        ("¿Qué diferencia hay entre adaptación y transformación del medio?", "En la adaptación se ajusta el modo de vida al medio; en la transformación se cambia el medio", "Una ajusta a las personas; la otra cambia el lugar."),
+        ("Un pueblo hace casas con techo muy inclinado porque llueve mucho. ¿Es adaptación o transformación?", "Adaptación", "Ajusta la vivienda sin cambiar el medio."),
+        ("Lugar P: río todo el año, suelo fértil y sin inundaciones. Lugar Q: sin agua en 20 km y suelo pedregoso. Lugar R: río y suelo fértil, pero la orilla se inunda cada primavera. ¿Cuál es el mejor para instalarse si se miran recursos y amenazas?", "El lugar P", "Tiene recursos y no tiene amenaza."),
+        ("¿Cuál es un factor que incide en dónde se instala un grupo? A) el tamaño de la plaza principal, B) la disponibilidad de agua dulce, C) la cantidad de turistas que visita el país.", "B", "El agua dulce es un recurso necesario para vivir."),
+        ("Un grupo se instala junto a un río y cultiva en sus orillas. ¿Qué dos factores explican su decisión?", "Disponibilidad de agua y cercanía a una zona fértil", "El río da agua y su orilla tiene suelo fértil."),
+        ("=", "Un valle de ejemplo recibe 700 mm de lluvia al año y otro recibe 250 mm. ¿Cuántos mm más llueven en el primero?", "700-250", "Se compara la cantidad de agua de ambos lugares."),
+        ("Ficha de ejemplo, Caleta Roca: mar con peces todo el año, sin agua dulce en el pueblo, terreno a 3 metros sobre el mar y marejadas fuertes cada invierno. ¿Cuál es la amenaza del entorno?", "Las marejadas fuertes", "Son olas que pueden inundar el pueblo."),
+        ("En Caleta Roca, ¿qué recurso explica que se instalen familias que viven de la pesca?", "Los peces del mar", "El recurso está disponible todo el año."),
+        ("Dos pueblos tienen río y suelo fértil. El pueblo S construye casas a 2 metros del río, que se desborda cada año. El pueblo T las construye a 200 metros, en terreno más alto. ¿Cuál es menos vulnerable y por qué?", "El pueblo T, porque está menos expuesto a la inundación", "La distancia y la altura reducen el daño posible."),
+        ("¿Cuál afirmación es la más completa? A) Solo importa el agua. B) El agua importa, pero también el suelo, el relieve y las amenazas. C) Los grupos se instalan al azar.", "B", "Varios factores inciden a la vez."),
+        ("Un grupo evalúa sitios con 5 criterios (agua, suelo fértil, leña, terreno plano, bajo riesgo) y da 1 punto por cada uno que cumple. El sitio X cumple agua, suelo y leña. El sitio Y cumple agua, suelo, terreno plano y bajo riesgo. ¿Qué sitio elige y cuántos puntos tiene?", "El sitio Y, con 4 puntos", "Y cumple 4 criterios y X solo 3."),
+        ("Una ladera sin árboles ni arbustos recibe lluvia fuerte. ¿Qué es más probable? A) la tierra se mantiene firme, B) la tierra se desliza hacia las casas de abajo.", "B", "Sin vegetación el medio es frágil y la tierra se suelta."),
+    ],
+    ctx=("Tu curso recibe la ficha de un sitio de ejemplo: agua de un pozo todo el año, suelo arenoso donde casi no crecen plantas, terreno plano y sin riesgo de inundación. Una compañera dice que ahí no hay problema para cultivar. ¿Qué factor de la ficha lo contradice?", "El suelo arenoso donde casi no crecen plantas", "Hay agua, pero falta una zona fértil."),
+    sc=[("En Historia: ¿qué es la vulnerabilidad de una población?", "La posibilidad de sufrir daño ante una amenaza", "Depende de qué tan expuesta está."),
+        ("Nombra dos factores que inciden en un asentamiento.", "Por ejemplo: disponibilidad de agua y cercanía a zonas fértiles", "Son factores vistos en la explicación."),
+        ("¿Qué es un medio frágil?", "Uno que cambia con facilidad por la acción humana", "Se altera con poco impacto.")],
+    op=("Lee la ficha de ejemplo de Puerto Seco: agua de un manantial pequeño que baja en verano, suelo fértil solo en una franja de 500 metros junto a la quebrada, cerros empinados detrás y aluviones (barro que baja por la quebrada) cada 20 años. Escribe: dos factores favorables, una amenaza y una adaptación posible de las casas. Termina con una frase que diga si recomendarías instalarse ahí y qué dato te falta.",
+        "Favorables: hay manantial y suelo fértil en la franja junto a la quebrada. Amenaza: aluviones cada 20 años. Adaptación: construir las casas más arriba que el cauce de la quebrada. Recomendaría instalarse con cuidado; me falta saber si el manantial baja del todo en verano.",
+        ["nombra dos factores favorables de la ficha", "identifica la amenaza", "propone una adaptación coherente", "señala un límite de la información"], ["cuatro frases breves con datos de la ficha"], ["usar solo el agua como razón", "proponer algo que no responde a la amenaza"], "Léele tu respuesta a una persona de tu casa y pídele que señale el dato de la ficha que usaste."),
+    reinforce="Mira el lugar donde vives y anota dos recursos y una amenaza del entorno que conozcas.",
+    extend="Compara en una frase el asentamiento de la ficha Valle Verde con el de Caleta Roca: qué recurso distinto aprovecha cada uno.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 2
+build(
+    OA, 2, "",
+    use="Aprenderé a relacionar recursos, tecnología y organización para explicar cómo una sociedad aprovecha el medio. Sirve para entender por qué los mismos recursos se usan distinto según la época y el grupo.",
+    prior=["Sé qué factores inciden en un asentamiento.", "Sé distinguir adaptación y transformación.", "Sé leer datos en una tabla y restar o multiplicar."],
+    explain=[
+        "Un recurso natural es algo del medio que las personas usan, como el agua, el suelo o los minerales. Pero un recurso no sirve por sí solo: hace falta tecnología, que son las herramientas y técnicas para aprovecharlo. Un arado permite cultivar más tierra que una pala. Un canal de riego lleva agua desde un río hasta los campos. Un andén o terraza es un escalón construido en un cerro para poder cultivar en una pendiente.",
+        "Además se necesita organización, es decir, acuerdos sobre quién hace cada tarea y cómo se reparte el recurso. Para usar un canal, una comunidad define quién lo limpia y en qué turno cada familia recibe agua. Sin esa organización, el agua puede faltar o provocar conflictos. La misma tecnología con distinta organización da resultados distintos.",
+        "Recurso, tecnología y organización se relacionan: cuando cambia una de las tres, cambia lo que la sociedad logra hacer con el medio. Por eso no basta con nombrar el recurso; hay que preguntar con qué herramientas y con qué acuerdos se aprovecha. Estas relaciones son una forma de transformar el medio, y a veces de adaptarse a él.",
+    ],
+    vocab=[("recurso natural", "elemento del medio que las personas usan"), ("tecnología", "herramientas y técnicas para aprovechar los recursos"), ("organización", "acuerdos sobre quién hace qué y cómo se reparte un recurso"), ("riego", "llevar agua a los cultivos mediante canales u otros medios"), ("terraza de cultivo", "escalón construido en una pendiente para sembrar")],
+    worked=[
+        ("Relacionar las tres piezas", "Una aldea de ejemplo tiene un río (recurso), un canal de piedra (tecnología) y turnos de agua por familia (organización). ¿Qué pasa si se rompe el acuerdo de turnos?",
+         ["El recurso y el canal siguen existiendo.", "Pero sin turnos, algunas familias podrían quedarse sin agua o discutir.", "La organización es la pieza que falla."], "Falla la organización y el agua se reparte mal"),
+        ("Cambiar la tecnología", "Un grupo cultivaba con palos y luego pasó a usar un arado de madera tirado por animales. ¿Qué cambió: el recurso, la tecnología o la organización?",
+         ["El suelo (recurso) es el mismo.", "Cambió la herramienta para trabajarlo: tecnología."], "Cambió la tecnología"),
+    ],
+    mistakes=[
+        ("Creer que tener un recurso basta para aprovecharlo.", "Sin tecnología y organización, el recurso queda sin usar o se desperdicia.", "Pregunta siempre con qué herramientas y con qué acuerdos se usa."),
+        ("Llamar «tecnología» solo a las máquinas modernas.", "Una terraza, un canal o un arado también son tecnología.", "Tecnología es toda herramienta o técnica de una época."),
+    ],
+    T=[
+        ("En Historia: ¿qué es la tecnología?", "Las herramientas y técnicas para aprovechar los recursos", "Incluye herramientas simples y modernas."),
+        ("¿Para qué sirve una terraza de cultivo?", "Para sembrar en una pendiente", "Crea un escalón plano en el cerro."),
+        ("¿Qué es la organización de un recurso?", "Los acuerdos sobre quién hace cada tarea y cómo se reparte", "Evita la falta y los conflictos."),
+        ("Un pueblo de montaña construye terrazas para cultivar en la ladera. ¿Qué recurso aprovecha y qué tecnología usa?", "Aprovecha el suelo de la ladera y usa terrazas", "La terraza permite usar la pendiente."),
+        ("Un río pasa a 2 km de unos campos secos. Una comunidad cava un canal para llevar el agua. ¿Qué es el canal en la relación recurso-tecnología-organización?", "La tecnología", "Es la obra que permite llevar el agua."),
+        ("¿Cuál es un ejemplo de organización? A) el agua del río, B) un canal de piedra, C) los turnos de riego acordados entre familias.", "C", "Son acuerdos entre las personas."),
+        ("=", "Una comunidad de ejemplo reparte el agua de un canal en turnos de 3 horas, uno por cada una de 8 familias. ¿Cuántas horas dura una vuelta completa de turnos?", "3*8", "Se multiplica la duración por el número de familias."),
+        ("=", "Con un palo de cavar, una familia de ejemplo siembra 2 parcelas por semana. Con un arado, siembra 7 por semana. ¿Cuántas parcelas más siembra con el arado?", "7-2", "Se resta lo sembrado con cada herramienta."),
+        ("En un valle seco hay un río, pero ningún canal ni acuerdos de reparto. Cada familia saca agua cuando quiere y las de abajo reciben poca. ¿Qué pieza falta para aprovechar mejor el recurso?", "Organización, como turnos acordados, y quizá un canal", "El problema es el reparto del agua."),
+        ("Dos aldeas tienen el mismo río y la misma tecnología de riego. En una hay turnos acordados y en la otra no. ¿Qué explica que a la primera le vaya mejor con el agua?", "Su organización", "Lo único distinto es el acuerdo."),
+        ("Una compañera dice: «Si hay mucha tierra fértil, la sociedad es rica». ¿Qué le falta considerar? A) la cantidad de ríos que hay en otras regiones, B) la tecnología y la organización para usarla, C) que el suelo sea de color oscuro.", "B", "El recurso necesita herramientas y acuerdos."),
+        ("Una comunidad de ejemplo tenía 40 parcelas de cultivo. Al construir terrazas sumó 25 parcelas nuevas en el cerro. Si cada parcela produce 3 sacos, ¿cuántos sacos más produce gracias a las terrazas?", "75 sacos", "Se multiplica solo lo nuevo por lo que rinde cada una."),
+        ("¿Se puede decir que construir un canal solo es adaptación? Responde con una frase que use la palabra «transformación».", "No, porque el canal cambia el recorrido del agua, una transformación del medio", "El canal modifica el medio."),
+    ],
+    ctx=("Una aldea de ejemplo está junto a un cerro con buen suelo, pero sin agua cerca. Hay un arroyo a 5 km. Ofrecen tres ideas: A) esperar lluvia, B) hacer un canal y turnos de agua, C) construir casas más grandes. ¿Cuál usa tecnología y organización?", "B", "Combina una obra con acuerdos de reparto."),
+    sc=[("En Historia: ¿qué relación hay entre recurso, tecnología y organización?", "Para aprovechar un recurso se necesitan herramientas y acuerdos", "Las tres piezas se complementan."),
+        ("Da un ejemplo de tecnología de riego.", "Un canal", "Lleva agua a los campos."),
+        ("¿Por qué las terrazas son una transformación del medio?", "Porque cambian la forma de la ladera", "Modifican el relieve.")],
+    op=("Lee el caso de ejemplo: la aldea Lomas Altas tiene 30 familias, un cerro con suelo fértil y un manantial en la parte alta. Construyó 4 terrazas y un canal de piedra, y acordó que cada familia limpia el canal una vez al mes y riega según un turno. Escribe: el recurso, la tecnología, la organización y qué pasaría si dejaran de limpiar el canal.",
+        "Recurso: suelo del cerro y agua del manantial. Tecnología: terrazas y canal. Organización: limpieza una vez al mes y turnos de riego. Si no limpian el canal, se llenaría de tierra y el agua no llegaría a las terrazas.",
+        ["identifica recurso, tecnología y organización", "usa datos del caso", "explica una consecuencia razonable"], ["tres piezas identificadas y una consecuencia"], ["mezclar tecnología con organización", "olvidar el recurso"], "Pídele a una persona de tu casa que te diga cuál pieza falló en tu consecuencia."),
+    reinforce="En tu casa o barrio, anota un recurso (por ejemplo agua) y la tecnología con que llega a tu casa.",
+    extend="Escribe cómo cambiaría la vida de la aldea Lomas Altas si no hubiera acuerdos de turnos.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 3
+TABLA3 = "Tabla de ejemplo. Pueblo del desierto: agua de un oasis, casas de adobe con paredes gruesas, cultivo en pequeñas parcelas junto al oasis. Pueblo de bosque lluvioso: lluvia casi todo el año, casas de madera con techo inclinado, cultivo y recolección en claros del bosque. Pueblo de costa: mar con peces, casas sobre un terreno alto, pesca y secado de pescado."
+build(
+    OA, 3, TABLA3,
+    use="Aprenderé a comparar cómo sociedades distintas responden a medios distintos. Sirve para ver que no hay una sola manera de adaptarse ni de transformar el lugar.",
+    prior=["Sé qué factores inciden en un asentamiento.", "Sé relacionar recurso, tecnología y organización.", "Sé comparar dos casos con un criterio."],
+    explain=[
+        "Comparar es observar semejanzas y diferencias con un criterio claro. Para comparar respuestas de sociedades distintas elijo criterios como vivienda, alimentación, uso del agua o trabajo. Así veo que cada sociedad responde a las condiciones de su lugar, pero con soluciones propias.",
+        "En un lugar seco, las sociedades cuidan el agua: la guardan, la reparten en turnos o cultivan cerca de una fuente. Donde llueve mucho, protegen sus viviendas del agua con techos inclinados y materiales que resisten la humedad. Cerca del mar, muchas viven de la pesca y construyen en terrenos altos para evitar el oleaje. Cada respuesta usa recursos, tecnología y organización distintos.",
+        "También puede haber respuestas distintas en medios parecidos. Dos pueblos del mismo valle pueden decidir cultivar productos diferentes o repartir el agua de otra forma. La diferencia no siempre la explica el medio: también influyen sus conocimientos, sus creencias y sus acuerdos. Por eso, al comparar, evito decir que una respuesta es mejor solo porque es más moderna.",
+    ],
+    vocab=[("comparar", "ver semejanzas y diferencias usando un criterio"), ("criterio", "aspecto con el que se compara, como vivienda o alimentación"), ("respuesta", "forma en que una sociedad enfrenta las condiciones de su medio"), ("oasis", "lugar del desierto donde hay agua y vegetación"), ("moderno", "propio de una época reciente")],
+    worked=[
+        ("Comparar con un criterio", TABLA3 + " Compara, según el criterio «vivienda», al pueblo del desierto y al del bosque lluvioso.",
+         ["Desierto: adobe con paredes gruesas.", "Bosque lluvioso: madera con techo inclinado.", "Cada una responde a su clima: el desierto a la sequedad; el bosque, a la lluvia."], "Adobe de paredes gruesas en el desierto; madera de techo inclinado en el bosque lluvioso"),
+        ("Medios parecidos, respuestas distintas", "Dos aldeas de un mismo valle tienen igual clima y suelo. Una siembra maíz y la otra, papas. ¿Basta el medio para explicar la diferencia?",
+         ["Las condiciones son iguales.", "La diferencia viene de sus conocimientos, gustos o acuerdos.", "El medio no decide por sí solo."], "No basta el medio; también pesan sus decisiones y conocimientos"),
+    ],
+    mistakes=[
+        ("Decir que una sociedad es mejor porque su solución es más moderna.", "Cada solución responde a un medio y a una época distintos.", "Compara con un criterio y explica a qué condición responde cada una."),
+        ("Comparar sin criterio y mezclar vivienda con alimentación.", "No se ve qué se está comparando.", "Elige un criterio y compara solo eso."),
+    ],
+    T=[
+        ("En Historia: ¿qué es un criterio de comparación?", "El aspecto con el que se comparan dos casos, como vivienda o alimentación", "Ordena la comparación."),
+        ("{F} Según la tabla, ¿de qué vive el pueblo de costa?", "De la pesca y el secado de pescado", "Aprovecha el mar."),
+        ("{F} En la tabla, ¿qué material usa para sus casas el pueblo del desierto?", "Adobe", "El adobe es el material de sus paredes gruesas."),
+        ("{F} Según la tabla, ¿por qué las casas del bosque lluvioso tienen techo inclinado?", "Porque llueve casi todo el año y el agua debe escurrir", "El techo responde a la lluvia."),
+        ("{F} Según la tabla, ¿qué tienen en común el pueblo del desierto y el de costa respecto de su ubicación? A) ambos viven cerca de una fuente de agua o alimento (oasis o mar), B) ambos viven en el bosque, C) ambos construyen con madera.", "A", "El oasis y el mar son fuentes de agua o alimento cercanas."),
+        ("{F} Compara con el criterio «alimentación»: pueblo del desierto y pueblo de costa. Escribe una diferencia.", "El del desierto cultiva parcelas junto al oasis; el de costa pesca y seca pescado", "Cada uno usa el recurso de su medio."),
+        ("=", "Un pueblo de costa seca 18 kilos de pescado por semana. ¿Cuántos kilos seca en 6 semanas?", "18*6", "Se multiplica el kilaje semanal por las semanas."),
+        ("El pueblo del desierto tiene 12 parcelas junto al oasis y el del bosque tiene 30 claros de cultivo. ¿Cuántos claros más que parcelas hay?", "18 claros más", "Se resta lo menor a lo mayor."),
+        ("En un pueblo de desierto de ejemplo, las familias guardan agua en estanques y la reparten por turnos. ¿Qué recurso protege esa respuesta?", "El agua escasa", "Cuidar el agua responde a la sequedad."),
+        ("Un pueblo costero construye sus casas en terreno alto y no a orillas del mar. ¿A qué amenaza responde?", "A las marejadas o al oleaje que inunda", "Estar alto reduce el daño posible."),
+        ("Una compañera dice: «El pueblo del desierto es peor porque no usa techos de madera». ¿Qué error comete? A) compara sin considerar el medio de cada uno, B) confunde el adobe con la madera, C) no comete ningún error.", "A", "El adobe sirve para su clima seco."),
+        ("Dos pueblos de ejemplo viven en el mismo valle con el mismo río. Uno vende sus frutas en la ciudad; el otro las consume y las seca. ¿Se explica la diferencia solo por el medio?", "No, también influyen sus decisiones y acuerdos", "El medio es igual para ambos."),
+        ("Elige el criterio correcto para comparar cómo responden al frío dos pueblos: A) tipo de abrigo y vivienda, B) número de habitantes de cada pueblo, C) nombre de sus alcaldes.", "A", "El criterio debe relacionarse con la condición."),
+    ],
+    ctx=("Tu curso compara dos pueblos de ejemplo: uno en un cerro frío construye casas pequeñas de piedra con una sola puerta; el otro, en un valle cálido, construye casas amplias con ventanas grandes. Un compañero dice que el segundo pueblo es más avanzado. ¿Qué respondes?", "Que cada vivienda responde al clima de su lugar, no que una sea más avanzada", "Cada respuesta se ajusta a su medio."),
+    sc=[("En Historia: ¿por qué conviene comparar con un criterio?", "Para saber qué se está comparando y no mezclar aspectos", "El criterio ordena la comparación."),
+        ("Da un ejemplo de respuesta a un medio seco.", "Guardar agua o repartirla en turnos", "Cuida el recurso escaso."),
+        ("¿Una respuesta más moderna es siempre mejor?", "No, porque cada una responde a su medio y época", "No hay jerarquía automática.")],
+    op=("{F} Elige una pareja de pueblos de la tabla (desierto, bosque lluvioso o costa). Compáralos con dos criterios: vivienda y alimentación. Termina con una frase que explique por qué sus respuestas son distintas sin decir que una es mejor.",
+        "Comparo desierto y costa. Vivienda: adobe con paredes gruesas frente a casas en terreno alto. Alimentación: parcelas junto al oasis frente a pesca y pescado seco. Son distintas porque uno tiene un oasis y el otro, el mar.",
+        ["compara con dos criterios", "usa datos de la tabla", "explica sin jerarquizar"], ["dos comparaciones y una explicación"], ["decir que uno es mejor", "mezclar criterios"], "Pide a una persona de tu casa que revise si dejaste fuera algún criterio."),
+    reinforce="Compara en dos líneas cómo se protege del frío tu casa con una casa de un lugar muy cálido que imagines.",
+    extend="Escribe un tercer criterio (por ejemplo, trabajo) y compara los tres pueblos de la tabla.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 4
+build(
+    OA, 4, "",
+    use="Aprenderé a explicar la adaptación humana sin caer en el determinismo, que es creer que el ambiente decide por completo cómo vive una sociedad. Sirve para dar explicaciones más justas y precisas.",
+    prior=["Sé comparar respuestas de sociedades distintas.", "Sé relacionar recurso, tecnología y organización.", "Sé distinguir una condición de una decisión."],
+    explain=[
+        "El determinismo ambiental es la idea de que el ambiente decide solo cómo es la cultura de un pueblo. Por ejemplo, decir «como viven en un desierto, son pobres y atrasados». Esta idea es errónea. El ambiente condiciona, es decir, pone límites y ofrece posibilidades, pero no decide por sí solo.",
+        "Las sociedades eligen entre varias opciones. En un mismo medio, grupos distintos han hecho cosas distintas porque tienen conocimientos, creencias, acuerdos y tecnología distintos. Además, una sociedad puede cambiar su forma de vivir sin que cambie el medio. Esto muestra que la adaptación es una acción activa, no un destino.",
+        "Para explicar sin determinismo hago tres cosas. Primero, nombro las condiciones del ambiente. Segundo, nombro las decisiones, el conocimiento y la organización de la sociedad. Tercero, uso palabras como «influye», «facilita» o «dificulta» y evito «decide», «obliga» o «siempre». Así reconozco que el medio importa, pero no lo hago responsable de todo.",
+    ],
+    vocab=[("determinismo ambiental", "idea errónea de que el ambiente decide por completo la cultura"), ("condicionar", "poner límites y ofrecer posibilidades sin decidir por completo"), ("decisión", "elección que hace una sociedad entre varias opciones"), ("generalizar", "afirmar algo de todo un grupo a partir de pocos casos"), ("estereotipo", "idea simplificada y prejuiciosa sobre un grupo")],
+    worked=[
+        ("Detectar el determinismo", "Frase: «En esa región hace frío, así que su gente es seria y no sabe celebrar». ¿Es una explicación determinista? ¿Por qué?",
+         ["Hace del clima la causa única de cómo es la gente.", "Además generaliza: dice «su gente» como si todos fueran iguales.", "Es un estereotipo."], "Sí; atribuye al clima la cultura y generaliza"),
+        ("Reescribir sin determinismo", "Reescribe sin determinismo: «El desierto obliga a vivir de la minería».",
+         ["Sustituyo «obliga» por «facilita» y agrego otra condición.", "Menciono decisiones de la sociedad."], "El desierto, con sus minerales, facilita la minería, y algunas sociedades decidieron aprovecharla"),
+    ],
+    mistakes=[
+        ("Escribir «el clima decide cómo es la gente».", "Atribuye al ambiente toda la cultura y deja fuera las decisiones.", "Usa «influye» y nombra también las decisiones y conocimientos."),
+        ("Decir que un pueblo es atrasado porque vive en un lugar difícil.", "Es un estereotipo; el pueblo puede tener soluciones muy ingeniosas.", "Describe lo que hace, no lo que supones de su carácter."),
+    ],
+    T=[
+        ("En Historia: ¿qué es el determinismo ambiental?", "La idea errónea de que el ambiente decide por completo la cultura de un pueblo", "Atribuye todo al medio."),
+        ("¿Qué significa que el ambiente «condiciona»?", "Que pone límites y ofrece posibilidades, pero no decide por sí solo", "Deja espacio a las decisiones."),
+        ("Elige la frase que NO es determinista: A) «El frío obliga a ser callados», B) «El frío influye en cómo construyen las casas», C) «La montaña decide cómo es la cultura de su gente».", "B", "Usa «influye» y habla de un aspecto concreto."),
+        ("¿Qué palabra suena determinista? A) «facilita», B) «dificulta», C) «siempre obliga».", "C", "Cierra todas las posibilidades."),
+        ("Dos pueblos viven en el mismo valle. Uno siembra trigo y el otro cría ovejas. ¿Qué muestra esto sobre el ambiente?", "Que el ambiente no decide por sí solo; hay decisiones distintas", "El medio es el mismo."),
+        ("Una sociedad vivía de la caza y luego empezó a cultivar en el mismo lugar. ¿Cambió el medio para explicar el cambio?", "No necesariamente; cambió su conocimiento y organización", "Una sociedad puede cambiar sin que cambie el medio."),
+        ("=", "En un valle de ejemplo, 5 aldeas tienen el mismo clima. Tres siembran cebada y el resto cría llamas. ¿Cuántas aldeas crían llamas?", "5-3", "Se resta de las cinco las que siembran."),
+        ("En la frase «El calor del norte obliga a las personas a ser perezosas», ¿qué palabra expresa determinismo?", "«Obliga»", "Presenta al clima como causa única e inevitable."),
+        ("Una compañera dice: «Como no hay lluvias, ese pueblo es atrasado». Menciona una razón de por qué es un error.", "Porque puede tener tecnología y organización ingeniosas para cuidar el agua", "La falta de lluvia no mide su capacidad."),
+        ("En un lugar seco, una comunidad construyó canales y estanques. ¿Cuál es la mejor lectura? A) el desierto la hizo ingeniosa, B) tomó decisiones y usó conocimientos para enfrentar la sequedad.", "B", "La causa es la acción de la sociedad."),
+        ("¿Por qué «todos los habitantes de una región son iguales» es una generalización?", "Porque afirma algo de todo un grupo sin mirar sus diferencias", "Ignora la variedad dentro del grupo."),
+        ("Una sociedad de ejemplo tiene 80 familias. 20 se dedican a la pesca y el resto a otras tareas. Si alguien dice que «allí todos son pescadores», ¿cuántas familias no lo son?", "60 familias", "Se resta de las 80 las 20 que pescan."),
+        ("Completa con una palabra no determinista: «El relieve montañoso ______ el cultivo». Elige: A) impide para siempre, B) dificulta, C) decide.", "B", "Es una palabra que deja abierta la posibilidad de soluciones."),
+    ],
+    ctx=("En un trabajo escolar de ejemplo aparece la frase «Por vivir en la costa, esas familias solo pueden ser pescadoras». Tu curso debe corregirla sin perder el dato del mar. ¿Cuál es la mejor corrección? A) «La costa facilita la pesca, y muchas familias decidieron vivir de ella», B) «La costa decide todo», C) «El mar es azul».", "A", "Reconoce el medio y las decisiones."),
+    sc=[("En Historia: ¿cómo evito el determinismo al explicar?", "Nombro el ambiente y también las decisiones de la sociedad, y uso «influye»", "Reconoce ambas cosas."),
+        ("Da una palabra que debo evitar al explicar.", "Siempre", "Cierra todas las posibilidades."),
+        ("En Historia: ¿Qué es un estereotipo?", "Una idea simplificada y prejuiciosa sobre un grupo", "Generaliza sin mirar las diferencias.")],
+    op=("Lee estas dos frases de ejemplo. A) «En el altiplano hace frío, por eso su gente es cerrada y atrasada». B) «En un valle seco, una comunidad de ejemplo construyó un canal y turnos de agua». Escribe qué frase es determinista, qué palabras lo muestran, y reescríbela explicando el frío del altiplano con una condición y una decisión (por ejemplo, el abrigo o la vivienda).",
+        "La frase A es determinista y estereotipada: atribuye al frío la manera de ser de la gente. Reescribo: «En el altiplano hace frío, y las familias construyen casas de paredes gruesas y usan ropa abrigada».",
+        ["identifica la frase determinista", "señala sus palabras clave", "reescribe con condición y decisión"], ["una identificación y una reescritura"], ["culpar al clima del carácter", "conservar el estereotipo"], "Léele tu reescritura a una persona de tu casa y pregunta si suena justa con las personas."),
+    reinforce="Anota una frase que hayas oído sobre «cómo es la gente de tal lugar» y reescríbela sin estereotipo.",
+    extend="Explica en tres líneas por qué dos pueblos del mismo desierto pueden vivir de forma muy distinta.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 5
+build(
+    OA, 5, "",
+    use="Aprenderé a evaluar los costos y los límites de las transformaciones del medio y a ver cuándo una población es vulnerable. Sirve para decidir con evidencia si un cambio conviene.",
+    prior=["Sé qué es una transformación del medio.", "Sé explicar sin determinismo.", "Sé comparar ventajas y desventajas con criterios."],
+    explain=[
+        "Toda transformación del medio trae beneficios y costos. Un beneficio es lo que se gana, como más agua para regar o más tierra para vivir. Un costo es lo que se pierde o se arriesga, como menos agua para otras personas o daño a un ecosistema. Evaluar significa comparar beneficios y costos con evidencia.",
+        "El medio tiene límites. Un recurso renovable, como el agua de un río, se repone con el tiempo, pero si se usa más rápido de lo que se repone se agota. Un recurso no renovable, como un mineral, no se repone en una vida humana. Un medio frágil puede dañarse con poco uso, y a veces el daño no se puede revertir.",
+        "También evalúo la vulnerabilidad de la población ante las amenazas del entorno. Una población es más vulnerable si vive en zonas expuestas, si tiene pocos recursos para protegerse o si no está preparada. Construir en el cauce seco de una quebrada transforma el terreno, pero aumenta la vulnerabilidad. Una buena evaluación considera beneficios, costos, límites, plazos y a quiénes afecta.",
+    ],
+    vocab=[("beneficio", "lo que se gana con una acción"), ("costo", "lo que se pierde o se arriesga con una acción"), ("recurso renovable", "recurso que se repone con el tiempo si no se usa en exceso"), ("recurso no renovable", "recurso que no se repone en una vida humana"), ("evaluar", "comparar beneficios y costos con evidencia para decidir")],
+    worked=[
+        ("Evaluar una transformación", "Una aldea de ejemplo saca agua de un pozo. Beneficio: riega 10 parcelas más. Costo: el nivel del agua bajó 4 metros en 5 años. ¿Qué límite aparece?",
+         ["El beneficio es más cultivo.", "El costo es que el agua del pozo baja.", "El límite es que el agua se usa más rápido de lo que se repone."], "El agua se usa más rápido de lo que se repone"),
+        ("Medir vulnerabilidad", "Dos barrios están junto a una quebrada. El barrio A tiene casas en el cauce seco. El barrio B tiene casas en terreno alto y un plan de evacuación. ¿Cuál es más vulnerable?",
+         ["Miro dónde están: A está expuesto al paso del agua.", "B está en zona segura y preparado."], "El barrio A"),
+    ],
+    mistakes=[
+        ("Contar solo los beneficios de una obra.", "Se ocultan los costos y el riesgo de daño.", "Escribe siempre beneficios y costos antes de concluir."),
+        ("Pensar que un recurso, por estar hoy, siempre estará.", "Un recurso renovable también se agota si se usa más rápido de lo que se repone.", "Compara el ritmo de uso con el ritmo de reposición."),
+    ],
+    T=[
+        ("En Historia: ¿qué es un costo de una transformación del medio?", "Lo que se pierde o se arriesga con esa acción", "Es lo contrario de un beneficio."),
+        ("En Historia: ¿Qué es un recurso renovable?", "Uno que se repone con el tiempo si no se usa en exceso", "Por ejemplo, el agua de un río."),
+        ("En Historia: ¿Qué es un recurso no renovable?", "Uno que no se repone en una vida humana, como un mineral", "No vuelve a formarse en un plazo útil."),
+        ("Un pueblo abre un canal que lleva agua a 6 campos nuevos, pero el río queda con menos agua para el pueblo vecino. ¿Cuál es el beneficio y cuál el costo?", "Beneficio: 6 campos regados; costo: menos agua para el pueblo vecino", "Cada decisión tiene ganancia y pérdida."),
+        ("Un bosque se tala para sembrar. Beneficio: más terreno de cultivo. ¿Cuál es un posible costo? A) más sombra, B) la tierra queda sin raíces y se erosiona, C) más aves.", "B", "Sin árboles el suelo se desgasta."),
+        ("¿Por qué construir casas en el cauce seco de una quebrada aumenta la vulnerabilidad?", "Porque en una lluvia fuerte el agua puede pasar por ahí", "Las casas quedan en el paso del agua."),
+        ("=", "Un pozo de ejemplo baja 3 metros por año. ¿Cuánto baja en 7 años si el ritmo no cambia?", "3*7", "Se multiplica el descenso anual por los años."),
+        ("Un río aporta 90 litros de agua por segundo y un canal saca 60. ¿Cuántos litros por segundo le quedan al río?", "30 litros por segundo", "Se resta lo que sale por el canal."),
+        ("Una comunidad saca cada año de un pozo 120 mil litros y la lluvia repone 100 mil. ¿Cuántos mil litros más se sacan que lo que se repone, año tras año?", "20 mil litros", "Se resta lo repuesto a lo extraído."),
+        ("Un pozo de ejemplo pierde agua porque se extraen 120 mil litros al año y la lluvia solo repone 100 mil. Si nada cambia, ¿qué pasará con el pozo?", "El nivel irá bajando hasta agotarse", "Se extrae más de lo que se repone."),
+        ("Dos aldeas junto al mar: A tiene casas en terreno alto y una ruta de evacuación; B tiene casas a pocos metros del agua y sin plan. Ante una marejada fuerte, ¿cuál es más vulnerable y por qué?", "B, porque está más expuesta y no está preparada", "Combina exposición y falta de preparación."),
+        ("Una compañera dice: «Si la obra da trabajo, no tiene costos». ¿Por qué es un error evaluar así?", "Porque una obra puede dar trabajo y también dañar el medio o afectar a otros", "Hay que mirar beneficios y costos."),
+        ("Evaluar un proyecto: abrir un tajo en un cerro da trabajo a 50 personas por 10 años, pero deja sin vegetación 200 hectáreas. ¿Qué dos criterios debes comparar?", "El beneficio del trabajo y el costo del daño al cerro", "Se comparan ganancias y pérdidas."),
+    ],
+    ctx=("Tu curso recibe una propuesta de ejemplo: instalar 3 pozos nuevos para regar. Dato: el nivel de agua del pozo viejo bajó 2 metros por año durante 4 años. Un compañero dice que más pozos solucionan todo. ¿Qué dato lo contradice?", "El nivel del pozo viejo bajó 2 metros por año durante 4 años", "Indica que el agua no se repone al ritmo del uso."),
+    sc=[("En Historia: ¿qué es evaluar una transformación del medio?", "Comparar beneficios y costos con evidencia", "Permite decidir mejor."),
+        ("¿Cuándo un recurso renovable se agota?", "Cuando se usa más rápido de lo que se repone", "Se vence el ritmo de reposición."),
+        ("¿Qué hace más vulnerable a una población ante una amenaza?", "Vivir en una zona expuesta y no estar preparada", "Aumenta el daño posible.")],
+    op=("Lee el caso de ejemplo: en la aldea Costa Alta se propone construir un muro de contención frente al mar. Beneficio: protege 25 casas de las marejadas. Costos: cuesta mucho, cambia la playa donde pescan 12 familias y necesita mantención cada año. Haz una tabla de beneficios, costos y límites, y decide si lo apoyarías, con una razón y una condición.",
+        "Beneficios: protege 25 casas. Costos: caro, cambia la playa de 12 familias, mantención anual. Límite: puede no proteger si el oleaje es mayor. Lo apoyaría si se busca una solución para las 12 familias pescadoras y hay plan de mantención.",
+        ["distingue beneficios, costos y límites", "usa los datos del caso", "decide con razón y condición"], ["una tabla breve y una decisión justificada"], ["considerar solo los beneficios", "no poner condición"], "Muestra tu tabla a una persona de tu casa y pídele que detecte un costo que no hayas puesto."),
+    reinforce="Elige una obra de tu comuna que conozcas y anota un beneficio y un posible costo.",
+    extend="Explica por qué un medio frágil necesita más cuidado que uno resistente cuando se transforma.",
+    materials=MAT,
+)

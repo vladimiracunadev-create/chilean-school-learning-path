@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-31 · 7° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 719 clases de 7° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo. Por primera vez entran como asignaturas propias Lengua y Literatura (147 clases) e Inglés oficial (80 clases), además de Inglés propuesta (65). Las fichas de actitud y Lengua Indígena de 7° son integración transversal y no llevan cuaderno propio.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió datos falsos o dudosos, enunciados imposibles o ambiguos, ejercicios que usaban términos no enseñados o texto no entregado, alternativas absurdas, riesgos de seguridad y de protección en línea, y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron unos 60 enunciados idénticos entre asignaturas.
+- Dos módulos se sobrescribieron por error entre autores (Inglés 6° OA 11 y 12, e Inglés oficial 7° OA 11) y se reescribieron; no quedó contenido perdido.
+- El análisis de alineación cubre ahora 1° a 7° básico, y la lista de contenidos para especialistas incluye 7° básico.
+- Siguen abiertos: software y programas reales, audio, video y escucha, obras y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar, anticoncepción de emergencia y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional.
+
 ## 2026-10-31 · Posición de la respuesta correcta en las preguntas A/B
 
 - La revisión de 5° y 6° básico mostró que, en las preguntas con dos alternativas, la correcta estaba casi siempre en la A (por ejemplo 1.381 contra 183 en 5° básico). Ahora la posición de la correcta se decide por un valor derivado del propio enunciado y de sus dos alternativas, y la clave de respuestas se reescribe en consecuencia. Queda cerca de la mitad y la mitad, de 1° a 6° básico. Las preguntas con tres o más alternativas, las de ordenar y las cuyo «porqué» nombra una letra no se tocan.

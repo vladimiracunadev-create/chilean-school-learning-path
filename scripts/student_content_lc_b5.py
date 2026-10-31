@@ -131,7 +131,7 @@ register(
     },
     context=[ex("En la clase, el mayor canta y el coro repite. Rosa canta también la parte del mayor. ¿Qué le dirías?", "Que espere su tramo", "Cada voz tiene su turno.")],
     selfcheck=[
-        ex("¿Qué es una repetición?", "Una parte que vuelve igual", "Es lo que se dice otra vez."),
+        ex("En Lengua y Cultura: ¿Qué es una repetición?", "Una parte que vuelve igual", "Es lo que se dice otra vez."),
         ex("¿Quién valida el tramo?", "La comunidad", "Ella confirma lo correcto."),
         ex("¿Cambias palabras de un tramo?", "No", "Se dice igual."),
     ],
