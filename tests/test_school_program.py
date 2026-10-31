@@ -765,7 +765,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertTrue(all(len({lesson["title"] for lesson in sequence["lessons"]}) == len(sequence["lessons"]) for sequence in sequences))
         self.assertTrue(all(len(lesson["difficulty_actions"]) == 3 for lesson in lessons))
         samples = {
-            "curriculum/7-basico/ciencias-naturales/cn07-oa-03.md": ("evitan perfiles personales", "estigmatizar"),
+            "curriculum/7-basico/ciencias-naturales/cn07-oa-03.md": ("adulto de confianza", "estigmatizar"),
             "curriculum/7-basico/historia-geografia-ciencias-sociales/hi07-oa-14.md": ("Tawantinsuyu", "crónica colonial"),
             "curriculum/7-basico/ingles/in07-oa-06.md": ("information-gap", "accent"),
             "curriculum/7-basico/educacion-fisica-salud/ef07-oa-03.md": ("sin comparaciones corporales", "variante segura"),
@@ -805,7 +805,7 @@ class SchoolProgramTests(unittest.TestCase):
             "curriculum/7-basico/ingles-propuesta/en07-oa-09.md": ("information-gap", "accent imitation"),
             "curriculum/7-basico/lengua-indigena/li07-of-d.md": ("no suplanta saberes comunitarios", "no inventa lengua"),
             "curriculum/7-basico/musica/mu07-oa-05.md": ("evidencia audible", "volumen seguro"),
-            "curriculum/7-basico/orientacion/or07-oa-03.md": ("caso ficticio", "no solicita experiencias personales"),
+            "curriculum/7-basico/orientacion/or07-oa-03.md": ("caso ficticio", "No cuentes nada personal"),
             "curriculum/7-basico/tecnologia/te07-oa-04.md": ("privacidad", "criterio"),
         }
         for relative, tokens in samples.items():
