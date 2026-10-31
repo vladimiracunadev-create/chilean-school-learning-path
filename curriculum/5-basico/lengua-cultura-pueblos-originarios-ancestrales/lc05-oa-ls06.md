@@ -571,7 +571,7 @@ Respuesta: le entregó una copia y borró el audio del aparato
 
 - **C1.** Situación de práctica (inventada): Una vecina de la Comunidad Brisa aceptó que el curso grabara su voz contando cómo se organiza una minga. Dijo: «Pueden usar el audio en la sala del curso hasta fin de año. Después, por favor, me lo devuelven». El curso guardó el audio en un aparato del colegio, lo escuchó en la sala y, al final del año, le entregó una copia y borró el audio del aparato. Verdadero o falso: la vecina permitió usar el audio en cualquier lugar.
 - **C2.** Situación de práctica (inventada): Una vecina de la Comunidad Brisa aceptó que el curso grabara su voz contando cómo se organiza una minga. Dijo: «Pueden usar el audio en la sala del curso hasta fin de año. Después, por favor, me lo devuelven». El curso guardó el audio en un aparato del colegio, lo escuchó en la sala y, al final del año, le entregó una copia y borró el audio del aparato. ¿Qué pidió la vecina para después de fin de año?
-- **C3.** Cumplir lo prometido, ¿genera confianza o desconfianza?
+- **C3.** En Lengua y Cultura: Cumplir lo prometido, ¿genera confianza o desconfianza?
 
 *Aplicación*
 

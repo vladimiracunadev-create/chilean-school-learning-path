@@ -1,0 +1,230 @@
+"""Cuaderno del estudiante, 6.º básico Lenguaje y Comunicación, OA 09 (gusto por la lectura) y OA 10 (biblioteca).
+
+Todos los textos, títulos, fichas y catálogos son originales e inventados; cada ejercicio trae los datos que necesita.
+Nota: los títulos de las clases del repositorio son genéricos («Reconocer propósito y desafío», «Modelar»...).
+Este cuaderno sigue el texto del OA oficial y reparte sus contenidos entre las clases.
+"""
+from __future__ import annotations
+
+from student_lessons import arith, ex, register
+
+E = ex
+
+
+def task(statement, example, criteria, evidence, errors, feedback):
+    return {"statement": statement, "example": example, "criteria": criteria, "evidence": evidence, "errors": errors, "feedback": feedback}
+
+
+def L(oa, n, materials, use, prior, explain, vocab, worked, mistakes, tiers, ctx, sc, open_task, reinforce, extend):
+    register(
+        oa, n, materials=materials, use=use, prior=prior, explain=explain, vocab=vocab,
+        worked=[{"title": t, "problem": p, "steps": s, "answer": a} for t, p, s, a in worked],
+        mistakes=[{"wrong": w, "why": y, "fix": f} for w, y, f in mistakes],
+        tiers=dict(zip(("recovery", "understand", "apply", "reason", "challenge"), tiers)),
+        context=ctx, selfcheck=sc, open_task=task(*open_task), reinforce=reinforce, extend=extend,
+    )
+
+
+OA09 = "LE06 OA 09"
+OA10 = "LE06 OA 10"
+
+# ================================================================== OA 09 · clase 1
+L(OA09, 1,
+  "Este cuaderno y un lápiz. Si quieres, un par de textos de tu casa (revista, libro, folleto) para mirar al final.",
+  "Aprenderé a reconocer para qué leo, a distinguir tipos de texto y a medir si un texto es un desafío adecuado para mí.",
+  ["Sé que leo por distintos propósitos.", "Conozco cuentos, poemas, noticias e instructivos."],
+  ["Un lector que disfruta leer es un lector que lee con frecuencia y de todo un poco. Para lograrlo conviene tener claro el propósito: leemos para entretenernos (un cuento, un cómic), para informarnos (una noticia, un artículo) o para aprender a hacer algo (una receta, un instructivo). Cada propósito pide un tipo de texto distinto.",
+   "También ayuda armar un menú lector, es decir, una mezcla de géneros: narraciones, poemas, textos informativos y textos de opinión. Quien lee solo un género se pierde palabras, ideas y emociones que otros géneros ofrecen. Probar un género nuevo es una buena manera de descubrir gustos que aún no conoces.",
+   "Además, cada texto debe ser un desafío adecuado: ni tan fácil que no aprendas nada, ni tan difícil que te canses. Usaremos una regla simple: toma una página de unas 100 palabras y cuenta las que no conoces. Si no conoces ninguna, el texto es fácil; si no conoces de 1 a 5, es un desafío adecuado; si no conoces 6 o más, es demasiado difícil por ahora y conviene leerlo con ayuda o más adelante."],
+  [("propósito", "la razón por la que leo un texto"), ("género", "tipo de texto, como cuento, poema o noticia"), ("menú lector", "mezcla de géneros que decido leer"), ("desafío adecuado", "texto con 1 a 5 palabras desconocidas por cada 100"), ("titular", "título llamativo de una noticia")],
+  [("Elegir según el propósito", "Daniela quiere saber cómo armar una linterna con materiales de reciclaje. Tiene tres textos: A «Guía de manualidades con reciclaje», B «La linterna que se enamoró de la luna» (cuento) y C «Poema a la oscuridad». ¿Cuál le sirve?",
+    ["Su propósito es aprender a hacer algo.", "Una guía de manualidades entrega pasos para fabricar cosas.", "El cuento y el poema entretienen, pero no explican cómo armarla."], "El texto A"),
+   ("Medir el desafío", "Julián cuenta las palabras desconocidas en una página de 100 palabras y encuentra 4. ¿Qué nivel tiene el texto según la regla de la clase?",
+    ["La regla dice: 0 es fácil, de 1 a 5 es desafío adecuado, 6 o más es demasiado difícil.", "El número 4 está entre 1 y 5."], "Es un desafío adecuado")],
+  [("Creer que leer por gusto es leer siempre el mismo tipo de texto.", "Quedarse en un género limita lo que aprendes y descubres.", "Suma al menos un género nuevo a tu menú lector."),
+   ("Elegir siempre textos sin ninguna palabra nueva.", "Si no hay palabras nuevas, el texto no te hace crecer como lector.", "Busca textos con 1 a 5 palabras desconocidas por página.")],
+  ([E("Titular: «El sexto B ganó el campeonato de ajedrez del colegio». ¿Es el titular de una noticia o un verso de poema?", "Una noticia", "Cuenta un hecho reciente, como hacen los titulares."),
+    E("¿Cuál es el propósito de quien lee una receta de sopa para cocinarla: entretenerse o aprender a hacer algo?", "Aprender a hacer algo", "La receta enseña pasos para preparar algo."),
+    E("Un texto escrito en versos y estrofas, ¿es un poema o una noticia?", "Un poema", "Los versos y las estrofas son rasgos del poema.")],
+   [E("Gabriel lee el afiche del Día del Libro para saber a qué hora empieza la feria. ¿Cuál es su propósito?", "Informarse", "Lee para conocer un dato: la hora de inicio."),
+    E("En una página de 100 palabras Ema no conoce ninguna. ¿Qué nivel tiene ese texto para ella: fácil, desafío adecuado o demasiado difícil?", "Fácil", "Con 0 palabras desconocidas no hay nada nuevo que aprender."),
+    E("Lucas lee solo cómics. Para ampliar su menú lector, ¿qué le conviene sumar: otro cómic del mismo estilo o un género distinto?", "Un género distinto", "El menú lector se amplía con géneros diferentes.")],
+   [arith("Mateo quiere terminar 4 libros en las 12 semanas de un trimestre, uno cada cierto tiempo igual. ¿Cada cuántas semanas debe terminar un libro?", "12//4", "Se reparte el total de semanas entre los libros.", " semanas"),
+    E("Elige el texto que sirve para entretenerse con una historia: A «Cómo cuidar una planta de interior», B «La planta que sabía contar», C «Poema a la hoja seca». Escribe la letra de la historia.", "B", "El título sugiere un cuento; A es instructivo y C es un poema."),
+    E("En una página de 100 palabras Rocío no conoce 7. Según la regla de la clase, ¿el texto es fácil, desafío adecuado o demasiado difícil por ahora?", "Demasiado difícil por ahora", "Con 6 o más palabras desconocidas la regla lo marca como demasiado difícil.")],
+   [E("Iván no conoce 3 palabras de una página de 100 y entiende la idea. Tere no conoce 12 palabras de otra página de 100 y no entiende la idea. ¿A quién le conviene buscar un texto más sencillo por ahora?", "A Tere", "Con 12 palabras desconocidas y sin entender, su texto es demasiado difícil."),
+    E("Camila dice: «Un texto sin palabras nuevas es el mejor para mí». ¿Tiene razón? Responde sí o no.", "No", "Sin palabras nuevas no aprendes vocabulario ni te desafías.")],
+   [E("Sofía anotó sus lecturas del mes: cuento, cuento, noticia, cuento, cuento, poema, cuento. ¿Cuántos de esos 7 textos no son cuentos?", "2", "Solo la noticia y el poema no son cuentos."),
+    E("Tomás leyó la «Guía para armar un terrario» para aprender a hacerlo. En una página de 100 palabras no conocía 5. Escribe el propósito y el nivel del texto.", "Aprender a hacer algo; desafío adecuado", "Es una guía para hacer algo y 5 palabras desconocidas caen en el rango 1 a 5.")]),
+  [E("En tu biblioteca de aula hay tres opciones: «Atlas de aves de Chile» (informativo), «El misterio del faro mudo» (novela) y «Versos para el recreo» (poemas). Tienes ganas de vivir una aventura con suspenso. ¿Cuál eliges?", "El misterio del faro mudo", "Una novela de misterio ofrece aventura y suspenso.")],
+  [E("Nombra los tres propósitos de lectura de la clase.", "Entretenerse, informarse y aprender a hacer algo", "Son los propósitos que trabajamos."),
+   E("¿Qué es un menú lector?", "Una mezcla de géneros que decido leer", "Incluye distintos tipos de texto."),
+   E("Según la regla, ¿cuántas palabras desconocidas por cada 100 marcan un desafío adecuado?", "De 1 a 5", "Ese rango permite aprender sin cansarse.")],
+  ("Escribe tu menú lector para este mes con cuatro textos de géneros distintos y, junto a cada uno, su propósito. Si no se te ocurren, usa estos: «El gato del faro» (cuento), «Cómo hacer pan en casa» (receta), «Se inauguró la nueva plaza» (noticia) y «Versos de la lluvia» (poema). Marca cuál sería tu desafío y explica por qué.",
+   "«El gato del faro»: me entretiene. «Cómo hacer pan en casa»: aprendo a hacer algo. «Se inauguró la nueva plaza»: me informo. «Versos de la lluvia»: disfruto el lenguaje. Mi desafío sería la noticia, porque tiene palabras que no uso.",
+   ["cuatro textos de géneros distintos", "propósito junto a cada texto", "un desafío marcado con una razón"], ["la lista del menú lector en el cuaderno"],
+   ["repetir el mismo género cuatro veces", "marcar un desafío sin dar razón"], "Muéstrale tu menú a una persona de tu casa y pregúntale qué texto agregaría."),
+  "Mira tres textos que haya en tu casa y escribe el propósito de cada uno.",
+  "Toma una página de unas 100 palabras de un texto que te cueste un poco y cuenta cuántas palabras no conoces.")
+
+# ================================================================== OA 09 · clase 2
+FA = "«Esa mañana, Rafa encontró en el patio una llave oxidada con un papel atado. El papel decía: \"Búscame donde duerme la luna\". Rafa miró el cielo, el techo y el viejo estanque.»"
+FB = "«Los murciélagos son los únicos mamíferos capaces de volar de verdad. De día descansan en cuevas o árboles y de noche salen a buscar insectos. Muchos usan sonidos agudos para ubicarse en la oscuridad.»"
+FC = "«Al abrir la cajita, Valentina vio un reloj sin manecillas. Su abuelo le había dicho que ese reloj no marcaba horas, sino momentos. Ella se lo puso en la muñeca y esperó.»"
+L(OA09, 2,
+  "Este cuaderno y un lápiz. Si quieres, un libro de tu casa para probar la lectura de muestra.",
+  "Aprenderé a leer una muestra de un texto y decidir con tres preguntas si lo sigo leyendo, lo dejo o lo guardo para después.",
+  ["Sé reconocer el propósito de una lectura.", "Sé medir si un texto es un desafío adecuado."],
+  ["Antes de comprometerme con un libro, puedo leer una muestra: la primera página o un fragmento de unas 100 palabras. La muestra me deja ver cómo escribe el autor, de qué trata y qué tan difícil es. Es una forma rápida y justa de decidir, mejor que juzgar solo por la portada.",
+   "Después de leer la muestra me hago tres preguntas. Primera: ¿entiendo lo que leo? Segunda: ¿me dan ganas de seguir? Tercera: ¿me sirve para mi propósito? Si respondo sí a las tres, sigo leyendo. Si respondo no a la tercera, el texto no sirve para ese propósito, aunque sea bueno. Si respondo no a la primera, lo guardo para más adelante.",
+   "Una decisión también se puede cambiar. A veces un libro parte lento y mejora, así que conviene darle un plazo, por ejemplo 20 páginas. Si al terminar el plazo sigo sin ganas, lo dejo y anoto la razón en una línea («muy difícil», «no era mi tema»). Dejar un libro con una razón no es fracasar: es conocer mis gustos."],
+  [("muestra", "fragmento corto de un texto que leo para decidir"), ("plazo", "cantidad de páginas o días que me doy antes de decidir"), ("fragmento", "parte de un texto"), ("suspenso", "tensión de no saber qué pasará"), ("criterio", "regla que uso para decidir")],
+  [("Aplicar las tres preguntas", "Pedro quiere entretenerse con un misterio. Lee esta muestra: «El pueblo amaneció sin campanas. Nadie supo quién se las llevó, pero en la plaza quedaron huellas de barro que subían al cerro». Responde las tres preguntas.",
+    ["¿Entiende? Sí: a un pueblo le robaron las campanas.", "¿Da ganas de seguir? Sí, porque las huellas despiertan curiosidad.", "¿Sirve para su propósito? Sí, es un misterio."], "Sí, a las tres: conviene seguir leyendo"),
+   ("Un texto bueno que no sirve", "Marta necesita datos sobre el clima de Chile para una tarea. Lee la muestra de un cuento: «Pelusa, la gata, saltó al estante y tiró tres tazas». Entiende todo y le gusta. ¿Debe seguir con ese texto para su tarea?",
+    ["Entiende y le gusta: las dos primeras respuestas son sí.", "Su propósito es informarse sobre el clima.", "Un cuento de una gata no entrega datos del clima."], "No, porque no sirve para su propósito")],
+  [("Decidir solo por la portada.", "Una portada llamativa no dice si entiendes ni si te servirá.", "Lee una muestra y responde las tres preguntas."),
+   ("Dejar el libro sin anotar la razón.", "Sin razón no sabrás qué cambiar al elegir el próximo.", "Escribe una línea con el motivo.")],
+  ([E(f"Muestra: {FA} ¿Es un fragmento de un cuento de misterio o de un artículo sobre llaves?", "De un cuento de misterio", "Hay una llave con un mensaje enigmático, rasgo de misterio."),
+    E("¿Cuál de las tres preguntas revisa si el texto es adecuado para lo que necesitas: la primera, la segunda o la tercera?", "La tercera", "La tercera pregunta compara el texto con tu propósito."),
+    E("Verdadero o falso: una muestra es un fragmento corto que se lee para decidir si seguir con un texto.", "Verdadero", "Esa es la definición de muestra.")],
+   [E(f"Sandra quiere informarse sobre animales nocturnos y lee esta muestra: {FB} ¿Responde a su propósito? Responde sí o no.", "Sí", "El fragmento da datos sobre animales que salen de noche."),
+    E("Después de leer una muestra, Ana se dice: «No entendí casi nada y no tengo ganas de seguir». ¿Qué conviene hacer: seguir igual o guardar el libro para más adelante?", "Guardar el libro para más adelante", "No entender indica que por ahora es demasiado difícil."),
+    E("¿Para qué sirve darse un plazo de 20 páginas antes de dejar un libro?", "Para darle una oportunidad antes de decidir", "El plazo evita descartar un libro por un comienzo lento.")],
+   [E(f"Lee esta muestra: {FC} Alguien busca una historia con un objeto especial y un toque de fantasía. ¿Le sirve? Responde sí o no.", "Sí", "El reloj que marca momentos es un objeto fantástico."),
+    E("Ordena los pasos: a) responder las tres preguntas, b) leer una muestra, c) decidir si sigo, lo dejo o lo guardo. Escribe las letras en orden.", "b, a, c", "Primero se lee, luego se responde y al final se decide."),
+    arith("Berta se dio un plazo de 20 páginas. Ya leyó 14 y todavía quiere seguir. ¿Cuántas páginas le faltan para cumplir el plazo?", "20-14", "Se resta lo leído al plazo total.", " páginas")],
+   [E("Rafael escogió un libro por su portada brillante, lo abrió en casa y no lo entendió. ¿Qué paso omitió: leer una muestra o ir a la biblioteca?", "Leer una muestra", "Con una muestra habría visto si lo entendía."),
+    E("Un amigo dice: «Si no me río en la primera página, el libro es malo». ¿Es un buen criterio? Responde sí o no.", "No", "Un libro puede ser bueno sin ser gracioso; hay que usar las tres preguntas.")],
+   [E("Lucía necesita un libro para aprender a dibujar caricaturas. Tiene A «El pintor que perdió los colores» (cuento) y B «Caricaturas paso a paso» (guía). En la muestra de B entiende los pasos. ¿Cuál debe elegir?", "B", "Coincide con su propósito de aprender a hacer algo."),
+    E("Pablo leyó 20 páginas, siguió sin entender y escribió: «Demasiado difícil por ahora». Luego tomó otro libro. ¿Hizo bien en anotar la razón? Responde sí o no.", "Sí", "La razón escrita le sirve para elegir mejor la próxima vez.")]),
+  [E("Para el fin de semana puedes llevar un libro de la biblioteca de aula. Necesitas informarte sobre cómo se forman los glaciares. En la muestra de «La nieve que hablaba» (novela) no aparece nada sobre glaciares y en la de «Hielos del sur» (informativo) sí. ¿Cuál llevas?", "Hielos del sur", "Su muestra responde a tu propósito de informarte.")],
+  [E("¿Cuáles son las tres preguntas después de leer la muestra? Escribe una.", "¿Entiendo?, ¿me dan ganas de seguir? o ¿me sirve para mi propósito?", "Son las tres preguntas de la clase."),
+   E("¿Qué se anota cuando dejas un libro?", "La razón", "La razón ayuda a elegir mejor después."),
+   E("¿Un plazo permite cambiar una decisión? Responde sí o no.", "Sí", "Se puede seguir o dejar después del plazo.")],
+  ("Haz la lectura de muestra con una de estas tres muestras y responde las tres preguntas por escrito. A: «Matías cruzó el puente colgante conteniendo el aliento; abajo, el río rugía.» B: «La fotosíntesis es el proceso con que las plantas fabrican su alimento usando luz.» C: «Para hacer un volantín necesitas papel, varillas, hilo y paciencia.» Elige una, indica tu propósito y decide si sigues, lo dejas o lo guardas.",
+   "Elijo B. Mi propósito es informarme. Entiendo la idea, me da curiosidad y me sirve: sigo leyendo.",
+   ["elige una muestra", "responde las tres preguntas", "decide con una razón"], ["las respuestas escritas en el cuaderno"],
+   ["decidir sin responder las tres preguntas", "no nombrar el propósito"], "Lee tu decisión a alguien y pídele que opine si le parece razonable."),
+  "Lee la primera página de un libro de tu casa y responde las tres preguntas.",
+  "Elige un libro que hayas dejado antes y escribe en una línea por qué lo dejaste.")
+
+# ================================================================== OA 09 · clase 3
+BIT = "Lunes: 12 páginas. Martes: 8 páginas. Miércoles: 15 páginas. Jueves: 0 páginas. Viernes: 10 páginas."
+L(OA09, 3,
+  "Este cuaderno y un lápiz. Si quieres, un libro de tu casa para practicar el registro.",
+  "Aprenderé a llevar una bitácora de lectura con evidencia: qué leí, cuánto leí, una frase del texto y mi opinión.",
+  ["Sé decidir si sigo con un texto usando la lectura de muestra.", "Sé sumar y restar con números naturales."],
+  ["Una bitácora de lectura es un cuaderno donde anoto lo que leo. Para que sirva, cada anotación lleva cuatro datos: título y autor, fecha, páginas leídas y una opinión mía. La bitácora me ayuda a ver cuánto leo, cuáles son mis géneros favoritos y si estoy cumpliendo mi plan.",
+   "Mis opiniones valen más cuando tienen evidencia. La evidencia es una frase del texto que copio entre comillas y de la que anoto la página. Por ejemplo: «Me gustó el humor. En la página 12 dice: \"El perro se puso los zapatos al revés\"». Así, cualquiera puede comprobar de qué hablo. Si copio, uso comillas; si lo cuento con mis palabras, no las uso.",
+   "Los datos de la bitácora también se pueden calcular. Si sumo las páginas de cada día, sé cuántas leí en la semana. Si divido el total de páginas de un libro por mi ritmo diario, sé en cuántos días lo terminaré. Estos cálculos me dicen si mi plan es realista y me muestran mi progreso."],
+  [("bitácora", "cuaderno donde registro lo que leo"), ("evidencia", "frase o dato del texto que respalda mi opinión"), ("cita", "frase copiada tal cual, entre comillas"), ("ritmo", "cantidad de páginas que leo cada día"), ("registro", "anotación ordenada de datos")],
+  [("Completar una anotación", "Lucas leyó 14 páginas de «Los navegantes del sur» (autora: R. Soto) el martes. Le gustó la frase de la página 9: «El capitán sonrió y soltó las velas». Escribe su anotación con los cuatro datos.",
+    ["Título y autor: «Los navegantes del sur», R. Soto.", "Fecha: martes. Páginas leídas: 14.", "Opinión con evidencia: me gustó la frase de la página 9, «El capitán sonrió y soltó las velas»."], "Anotación con título, autor, fecha, 14 páginas, opinión y cita de la página 9"),
+   ("Calcular con la bitácora", "Una bitácora dice: Lunes 20 páginas, martes 10, miércoles 5. El libro tiene 90 páginas. ¿Cuántas páginas le faltan?",
+    ["Páginas leídas: 20 + 10 + 5 = 35.", "Faltan: 90 − 35 = 55."], "55 páginas")],
+  [("Escribir «me gustó» sin ninguna razón.", "Sin evidencia nadie sabe por qué te gustó.", "Agrega una frase del texto y su página."),
+   ("Copiar una frase sin comillas.", "Parece que son tus palabras y no las del autor.", "Pon comillas cuando copies.")],
+  ([E("Una anotación dice: «Martes. \"El puente\", de A. Rojas. Me gustó mucho». ¿Qué dato de los cuatro falta: las páginas leídas o el título?", "Las páginas leídas", "Aparecen el título, el autor, la fecha y la opinión; faltan las páginas."),
+    E("Una frase copiada tal cual del texto, ¿lleva comillas? Responde sí o no.", "Sí", "Las comillas muestran que son palabras del autor."),
+    E("Verdadero o falso: la evidencia es una frase del texto que respalda mi opinión.", "Verdadero", "Esa es la definición de evidencia.")],
+   [E("Opinión de Ema: «El cuento es triste». ¿Qué le falta para tener evidencia: una frase del texto o su color favorito?", "Una frase del texto", "La evidencia es una frase que la respalde."),
+    E("Una anotación dice: «Leí 10 páginas». ¿Le falta el título del libro? Responde sí o no.", "Sí", "Sin título no sabemos qué se leyó."),
+    E("¿Para qué sirve sumar las páginas de cada día de la semana?", "Para saber cuántas páginas leí en total", "La suma da el total de la semana.")],
+   [arith(f"Bitácora de la semana de Camilo. {BIT} ¿Cuántas páginas leyó en total?", "12+8+15+0+10", "Se suman las páginas de los cinco días.", " páginas"),
+    arith("Un libro tiene 156 páginas. Rosa lee 12 páginas diarias. ¿En cuántos días lo termina?", "156//12", "Se divide el total entre el ritmo diario.", " días"),
+    E("Anotación: «Me encantó el poema. En la página 4 dice: \"la luna se peinó con nubes\"». ¿Cuál es la cita que sirve de evidencia?", "la luna se peinó con nubes", "Es la frase copiada entre comillas.")],
+   [E("Dos anotaciones sobre el mismo cuento. Ana: «Es lindo». Beto: «Me gustó el final; en la página 20 dice: \"Todos aplaudieron a la tortuga\"». ¿Cuál tiene mejor evidencia?", "La de Beto", "Beto cita una frase y su página."),
+    E("Tomás anotó 5 páginas el lunes y 5 páginas el martes y concluye: «Leo 5 páginas al día». Mirando solo eso, ¿su conclusión coincide con los datos? Responde sí o no.", "Sí", "En ambos días leyó 5 páginas.")],
+   [arith("Las anotaciones de Lía son: 18 páginas el lunes, 7 el martes y 11 el miércoles. Su meta semanal es 50 páginas. ¿Cuántas le faltan?", "50-(18+7+11)", "Se suman las leídas y se restan de la meta.", " páginas"),
+    E("Una bitácora dice: «Dejé el libro \"Costas\" en la página 25 porque había 9 palabras desconocidas por página». ¿Cuál es el dato de evidencia que justifica su decisión?", "9 palabras desconocidas por página", "Es el dato concreto que respalda la decisión.")]),
+  [arith("En tu curso hacen un desafío: leer 120 páginas en 10 días, en partes iguales. Si llevas 36 páginas leídas en los primeros 3 días, ¿cuántas te faltan?", "120-36", "Se resta lo leído a la meta total.", " páginas")],
+  [E("Nombra uno de los cuatro datos de una anotación de bitácora.", "Título y autor, fecha, páginas leídas u opinión", "Son los cuatro datos de la clase."),
+   E("¿Cuándo uso comillas?", "Cuando copio una frase tal cual", "Las comillas indican una cita."),
+   E("¿Qué calculo con la suma de páginas por día?", "El total leído", "La suma entrega el total.")],
+  ("Escribe dos anotaciones de bitácora. Usa este insumo: lees el cuento «La casa del árbol» (autora: P. Vidal) y te gusta la frase de la página 6: «Desde arriba, el patio parecía un mapa». Lunes: 9 páginas; miércoles: 14 páginas. Cada anotación lleva título y autor, fecha, páginas, y una opinión con una cita. Al final calcula cuántas páginas leíste en total.",
+   "Lunes. «La casa del árbol», P. Vidal. 9 páginas. Me gustó la imagen del patio; en la página 6 dice: «Desde arriba, el patio parecía un mapa». Miércoles. Mismo libro. 14 páginas. Total: 23 páginas.",
+   ["dos anotaciones con los cuatro datos", "una cita entre comillas con su página", "total calculado correctamente"], ["las anotaciones y el total en el cuaderno"],
+   ["olvidar las comillas", "no calcular el total"], "Compara tu total con el de otra persona que use los mismos datos: debe dar 23."),
+  "Anota en tu cuaderno lo último que leíste, con los cuatro datos.",
+  "Lleva tu bitácora durante tres días y calcula cuántas páginas sumaste.")
+
+# ================================================================== OA 09 · clase 4
+RA = "«\"El taller de los relojes\" me atrapó desde la página 1: cada capítulo termina con una pista y me quedé despierta para descubrir al culpable.»"
+RB = "«\"El taller de los relojes\" me pareció lento: tiene muchas descripciones del taller y recién en la página 80 pasa algo importante.»"
+L(OA09, 4,
+  "Este cuaderno y un lápiz.",
+  "Aprenderé a comparar dos opiniones sobre un mismo libro, distinguir hechos de opiniones y decidir por mí mismo qué leer.",
+  ["Sé llevar una bitácora con evidencia.", "Sé decidir con las tres preguntas de la muestra."],
+  ["Muchas veces decidimos qué leer según lo que otros opinan. Dos personas pueden leer el mismo libro y tener opiniones distintas. Eso no significa que una esté equivocada: depende de lo que cada una busca. Para decidir bien, comparo las razones de cada opinión y las contrasto con mi propósito.",
+   "Conviene separar hechos de opiniones. Un hecho se puede comprobar: «el libro tiene 120 páginas», «cada capítulo termina con una pista». Una opinión expresa lo que alguien siente o piensa: «es lento», «me atrapó». Las opiniones son valiosas cuando traen razones y hechos que las respaldan; si solo dicen «es bueno» o «es malo», no me ayudan a decidir.",
+   "Al comparar dos opiniones hago tres cosas: primero, identifico las razones de cada una; segundo, veo qué hechos mencionan; tercero, pregunto cuál coincide mejor con lo que yo busco. Si busco acción rápida, la reseña que dice «es lento» me advierte; si me gustan las descripciones, quizá me sirva igual. La decisión final es mía."],
+  [("reseña", "texto breve que opina sobre un libro"), ("hecho", "dato que se puede comprobar"), ("opinión", "lo que alguien piensa o siente"), ("razón", "motivo que respalda una opinión"), ("contrastar", "comparar para ver diferencias")],
+  [("Separar hecho y opinión", f"Lee la reseña: {RA} Escribe un hecho y una opinión que aparezcan en ella.",
+    ["Un hecho se puede comprobar: cada capítulo termina con una pista.", "Una opinión es lo que la lectora siente: el libro la atrapó."], "Hecho: cada capítulo termina con una pista. Opinión: el libro la atrapó"),
+   ("Decidir según mi propósito", f"Reseña A: {RA} Reseña B: {RB} Un lector quiere una historia de acción rápida. ¿Qué reseña le conviene tomar más en cuenta y por qué?",
+    ["La A habla de pistas y de ganas de seguir.", "La B advierte que recién en la página 80 pasa algo importante: es lento.", "Para acción rápida, la advertencia de B es útil."], "La B, porque advierte que el libro es lento")],
+  [("Pensar que una de las dos opiniones tiene que estar equivocada.", "Cada lector busca cosas distintas y las dos pueden ser sinceras.", "Compara las razones con tu propósito."),
+   ("Confiar en una opinión sin razones.", "«Es genial» no dice por qué y no puedes comprobarlo.", "Busca opiniones con razones y hechos.")],
+  ([E("«El libro tiene 96 páginas.» ¿Es un hecho o una opinión?", "Un hecho", "Se puede comprobar contando las páginas."),
+    E("«Es el libro más aburrido del mundo.» ¿Es un hecho o una opinión?", "Una opinión", "Expresa lo que alguien siente y no se puede comprobar."),
+    E("Verdadero o falso: dos personas pueden opinar distinto sobre el mismo libro sin que una esté equivocada.", "Verdadero", "Cada una busca cosas diferentes en una lectura.")],
+   [E("Reseña: «Me encantó porque el protagonista es un niño valiente que cruza un desierto». ¿Cuál es la razón que da: que el protagonista es valiente y cruza un desierto, o que el libro es caro?", "Que el protagonista es valiente y cruza un desierto", "Esa es la razón que respalda su opinión."),
+    E("Reseña: «Es bueno». ¿Esta opinión da razones? Responde sí o no.", "No", "No explica por qué es bueno."),
+    E("«Los capítulos son cortos, de dos páginas cada uno.» ¿Hecho u opinión?", "Hecho", "Se puede comprobar mirando el libro.")],
+   [E("Lee: «\"La última estación\" me pareció confuso: tiene tres narradores distintos y cuesta saber quién habla».  Marca el hecho que respalda la opinión «me pareció confuso»: ¿que tiene tres narradores distintos o que se llama «La última estación»?", "Que tiene tres narradores distintos", "Es el dato del texto que sostiene la opinión."),
+    E("Un lector quiere un libro con humor. Reseña 1: «Me reí en cada página con las ocurrencias del loro». Reseña 2: «Es serio y reflexivo». ¿Cuál le conviene?", "La reseña 1", "Menciona risas, lo que coincide con su propósito."),
+    arith("Una reseña dice que el libro tiene 18 capítulos de 6 páginas cada uno. ¿Cuántas páginas tiene en total?", "18*6", "Se multiplica el número de capítulos por las páginas de cada uno.", " páginas")],
+   [E("Dos reseñas del mismo cuento. Mía: «Es genial». Noa: «Me gustó porque el final es sorpresivo: el gato resulta ser el detective». ¿Cuál ayuda más a decidir?", "La de Noa", "Entrega una razón concreta."),
+    E("Leo dice: «Si dos personas opinan distinto, una de ellas miente». ¿Es correcto? Responde sí o no.", "No", "Pueden pensar distinto con sinceridad por tener gustos o propósitos distintos.")],
+   [E("Dos reseñas del libro «La última estación». Reseña 1: «Tiene tres narradores distintos». Reseña 2: «Cada capítulo dura apenas cuatro páginas». ¿Pueden ser verdaderas las dos a la vez? Responde sí o no.", "Sí", "Son hechos distintos que no se contradicen: un libro puede tener tres narradores y capítulos cortos."),
+    E("Un lector prefiere libros con mucha descripción de lugares y poca acción. Con las reseñas A (atrapante, pistas) y B (lento, muchas descripciones), ¿cuál reseña lo anima a leer el libro?", "La B", "Lo que B critica coincide con lo que él disfruta.")]),
+  [E("En el curso hay dos opiniones sobre «Viaje al lago escondido». Rita: «Me gustó porque describe cada rincón del lago y se siente como estar ahí». Hugo: «Me aburrió porque casi no pasa nada». A ti te encantan las descripciones y no te importa la acción. ¿A quién le harías más caso?", "A Rita", "Su razón coincide con lo que tú buscas.")],
+  [E("¿Un hecho se puede comprobar? Responde sí o no.", "Sí", "Esa es la diferencia con la opinión."),
+   E("¿Qué hace valiosa a una opinión?", "Que tenga razones o hechos que la respalden", "Las razones permiten evaluar la opinión."),
+   E("¿Quién toma la decisión final de qué leer?", "Yo", "Comparo opiniones, pero decido con mi propósito.")],
+  ("Con estas dos reseñas sobre el cuento inventado «La isla de las gaviotas», decide si lo leerías y escribe por qué. Reseña de Pía: «Me gustó mucho: la protagonista, Laura, aprende a nadar y cada capítulo cuenta una aventura distinta». Reseña de Dani: «No me gustó: los capítulos son demasiado cortos y siempre pasa lo mismo». Anota un hecho y una opinión de cada reseña y tu decisión.",
+   "Pía: hecho, cada capítulo cuenta una aventura distinta; opinión, le gustó mucho. Dani: hecho, los capítulos son cortos; opinión, no le gustó. Yo lo leería, porque busco aventuras distintas.",
+   ["un hecho y una opinión por reseña", "decisión propia", "razón conectada con lo que busco"], ["la tabla de hechos y opiniones y la decisión escrita"],
+   ["tratar una opinión como hecho", "decidir sin razón"], "Pregunta a alguien de tu casa qué decidiría y compara razones."),
+  "Pide a alguien de tu casa su opinión sobre un libro o película y separa hecho y opinión.",
+  "Escribe una reseña de dos líneas sobre algo que leíste, con un hecho y una opinión.")
+
+# ================================================================== OA 09 · clase 5
+L(OA09, 5,
+  "Este cuaderno y un lápiz.",
+  "Aprenderé a armar un plan de lectura realista y a escribir una recomendación que invite a leer sin contar el final.",
+  ["Sé llevar una bitácora y comparar opiniones.", "Sé calcular páginas y días con multiplicación y división."],
+  ["Un hábito se construye con un plan. Un plan de lectura dice qué voy a leer, cuándo y cuánto. Para que se cumpla, debe ser realista: es mejor leer 15 minutos todos los días que proponerse tres horas y abandonarlo al segundo día. Elijo un horario fijo, un lugar cómodo y una cantidad que pueda cumplir.",
+   "Con el plan puedo calcular. Si un libro tiene 120 páginas y leo 10 por día, lo termino en 12 días. Si mi ritmo es otro, el tiempo cambia. Al final de la semana reviso: ¿cumplí? ¿qué ajusto? Un plan no se castiga: se mejora con lo que aprendí.",
+   "Leer con gusto también es compartir. Una recomendación es un texto breve que invita a otra persona a leer. Tiene el título, de qué trata (sin contar el final), a quién le puede gustar y una razón con evidencia. Una buena recomendación despierta curiosidad: «Si te gustan los misterios con humor, este libro es para ti». Una mala recomendación cuenta todo o solo dice «es bueno»."],
+  [("plan de lectura", "decisión de qué, cuándo y cuánto leeré"), ("hábito", "algo que hago con frecuencia"), ("recomendación", "texto que invita a otros a leer"), ("realista", "que se puede cumplir"), ("spoiler", "contar el final de una historia")],
+  [("Calcular un plan", "Hilda tiene un libro de 150 páginas y quiere terminarlo en 10 días, leyendo lo mismo cada día. ¿Cuántas páginas debe leer por día?",
+    ["Se reparte el total entre los días.", "150 ÷ 10 = 15."], "15 páginas por día"),
+   ("Evaluar una recomendación", "Recomendación: «Es el mejor libro del mundo y al final el niño descubre que el tesoro era su abuela». ¿Es una buena recomendación?",
+    ["No dice de qué trata con detalle ni a quién le puede gustar.", "Además cuenta el final.", "Una buena recomendación no revela el desenlace."], "No, porque cuenta el final y no da razones")],
+  [("Proponerse una meta enorme el primer día.", "Es difícil de cumplir y desanima.", "Empieza con poco y aumenta."),
+   ("Recomendar contando todo el argumento.", "Quita las ganas de leer el libro.", "Cuenta el inicio y la idea, sin el final.")],
+  ([E("Un plan de lectura dice qué leer, cuándo y cuánto. ¿Es verdadero o falso?", "Verdadero", "Esos son los tres datos del plan."),
+    E("Una recomendación que solo dice «es bueno», ¿incluye una razón? Responde sí o no.", "No", "No dice por qué es bueno."),
+    E("Al final de la semana, ¿conviene revisar si cumpliste tu plan? Responde sí o no.", "Sí", "Revisar permite mejorarlo.")],
+   [arith("Un plan dice: leer 20 minutos al día durante 6 días. ¿Cuántos minutos leerá en total?", "20*6", "Se multiplica el tiempo diario por los días.", " minutos"),
+    E("Elige la recomendación que no cuenta el final: a) «Al final la gata vuelve a casa». b) «Una gata se pierde en el mercado y busca el camino de vuelta». Escribe la letra.", "b", "La b presenta la situación sin revelar el desenlace."),
+    E("Tomás pasó de leer 10 minutos a proponerse 3 horas diarias. ¿Es un plan realista? Responde sí o no.", "No", "El salto es demasiado grande para cumplirlo.")],
+   [arith("Un libro tiene 84 páginas y lees 12 por día. ¿En cuántos días lo terminas?", "84//12", "Se divide el total entre el ritmo diario.", " días"),
+    E("Quieres recomendar «El faro de las gaviotas» (misterio) a un amigo al que le gustan los enigmas. ¿Qué razón es mejor: «porque a ti te gustan los enigmas y este tiene uno» o «porque es largo»?", "Porque a ti te gustan los enigmas y este tiene uno", "Conecta el libro con el gusto de la persona."),
+    E("Ordena: a) leer según el plan, b) armar el plan, c) revisar cómo me fue. Escribe las letras.", "b, a, c", "Primero se planifica, luego se lee y al final se revisa.")],
+   [E("Pía no cumplió su plan de lunes a jueves porque tuvo muchas tareas. ¿Qué cambio es más razonable: dejar de leer o bajar a 10 minutos diarios?", "Bajar a 10 minutos diarios", "Un plan más pequeño se puede cumplir."),
+    E("Recomendación: «Es un cuento sobre un niño que teme a la oscuridad; te gustará si disfrutas las historias con humor». ¿Dice a quién le puede gustar? Responde sí o no.", "Sí", "Menciona que le gustará a quien disfrute el humor.")],
+   [arith("Mariana quiere leer 150 páginas en 10 días, lo mismo cada día. El quinto día lleva 70 páginas. ¿Cuántas le faltan?", "150-70", "Se resta lo leído al total.", " páginas"),
+    E("Mateo planea leer 20 páginas diarias de lunes a viernes, es decir 5 días. El viernes solo leyó 5. ¿Cuántas páginas leyó en total, si los otros cuatro días cumplió?", "85", "Cuatro días de 20 páginas son 80 y sumadas a las 5 del viernes dan 85.")]),
+  [arith("Un libro de 200 páginas se lee 25 páginas por día. ¿En cuántos días se termina?", "200//25", "Se divide el total entre el ritmo diario.", " días")],
+  [E("¿Qué incluye una buena recomendación? Nombra una cosa.", "El título, de qué trata, a quién le puede gustar o una razón", "Son partes de una buena recomendación."),
+   E("¿Qué significa que un plan sea realista?", "Que se puede cumplir", "Un plan irreal desanima."),
+   E("¿Se cuenta el final al recomendar? Responde sí o no.", "No", "Quita las ganas de leer.")],
+  ("Arma tu plan de lectura de la semana con tres momentos (día, hora y minutos o páginas) y escribe una recomendación de tres líneas. Para la recomendación, usa uno de estos libros inventados o uno que conozcas: «Los guardianes del volcán» (aventura de dos hermanas que protegen un huevo misterioso), «El diario del abuelo cartero» (relatos de cartas entregadas en el campo).",
+   "Lunes 18:00, 15 minutos. Miércoles 18:00, 15 minutos. Sábado 11:00, 20 páginas. Recomiendo «Los guardianes del volcán»: te gustará si disfrutas aventuras con misterio, porque dos hermanas cuidan un huevo que nadie sabe qué esconde.",
+   ["tres momentos con día y cantidad", "recomendación con título, de qué trata y razón", "no cuenta el final"], ["el plan y la recomendación en el cuaderno"],
+   ["plan sin cantidades", "recomendar sin razón"], "Al final de la semana revisa cuántos momentos cumpliste y anota qué cambiarías."),
+  "Cuéntale a alguien de tu casa un libro que recomendarías, sin decir el final.",
+  "Repite tu plan la semana siguiente con un ajuste y compara cuántos momentos cumpliste.")

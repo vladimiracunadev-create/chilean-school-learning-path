@@ -776,7 +776,7 @@ Respuesta: Digo que no lo sé y pregunto
 
 *Comprensión*
 
-- **C1.** ¿Qué es un límite?
+- **C1.** En Lengua y Cultura: ¿Qué es un límite?
 - **C2.** ¿Por qué no se inventan los significados?
 - **C3.** ¿Cuáles son las tres partes de la despedida?
 

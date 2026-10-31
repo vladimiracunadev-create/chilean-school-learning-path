@@ -805,7 +805,7 @@ Respuesta: Digo que no entendí el final y le pregunto a quien relató
 *Autoevaluación*
 
 - **E1.** ¿Qué es citar la fuente?
-- **E2.** ¿Qué es un límite?
+- **E2.** En Lengua y Cultura: ¿Qué es un límite?
 - **E3.** ¿Qué haces si no recuerdas el final?
 
 **Actividad abierta.** Lee este relato inventado: «Una noche, el niño Rafa miró las estrellas desde el patio con su mamá. Ella le dijo que se ven mejor cuando se apagan las luces. Después fueron a dormir». Escribe un resumen de dos frases. Empieza con: «Este relato lo inventé para practicar, no pertenece a ningún pueblo». Agrega una pregunta que harías a un educador tradicional sobre cómo cuida su comunidad sus relatos.

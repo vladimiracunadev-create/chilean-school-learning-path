@@ -428,7 +428,7 @@ register(
         "recovery": [
             ex("Leyenda: R es árbol, M es mesa, J es juegos, F es fuente. ¿Qué significa M?", "mesa", "La leyenda lo dice."),
             ex("Plano del parque: A1 = R, C1 = J, B2 = M, D2 = F, A3 = R, D3 = R. ¿Qué hay en C1?", "juegos", "J significa juegos."),
-            ex("¿Qué es una leyenda?", "Una lista que explica los símbolos", "Dice qué significa cada uno."),
+            ex("En Historia: ¿Qué es una leyenda?", "Una lista que explica los símbolos", "Dice qué significa cada uno."),
         ],
         "understand": [
             ex("Plano: A1 = R, C1 = J, B2 = M, D2 = F, A3 = R, D3 = R. ¿Cuántos árboles hay si R significa árbol?", "3", "Hay R en A1, A3 y D3."),

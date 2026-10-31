@@ -1,0 +1,248 @@
+"""Cuaderno del estudiante, 6.º básico Historia, Geografía y Ciencias Sociales: OA 24 (opinar y argumentar con fundamentos)."""
+from __future__ import annotations
+
+from hi5_lib import build
+
+OA = "HI06 OA 24"
+MAT = "Lápiz y papel. Los datos, las fuentes y los textos están escritos en cada ejercicio; no necesitas internet."
+
+# ---------------------------------------------------------------- Clase 1
+build(
+    OA, 1, "",
+    use="Aprenderé a distinguir hechos de opiniones y a ubicar un dato en el tiempo, el lugar y el grupo al que se refiere. Sirve para opinar con fundamentos y no exagerar lo que un dato permite decir.",
+    prior=["Sé que una opinión necesita razones.", "Sé leer encuestas con números simples.", "Sé que un tema tiene causas, actores y consecuencias."],
+    explain=[
+        "Un hecho es algo que se puede comprobar, como «mi escuela tiene 480 estudiantes». Una opinión dice lo que alguien piensa o prefiere, como «mi escuela es la más linda». Las opiniones no son falsas ni verdaderas como los hechos, pero tampoco valen igual si no tienen razones. Un fundamento es un hecho, un dato o una razón que apoya lo que pienso.",
+        "Para usar bien un dato lo ubico con tres preguntas. ¿Cuándo es? Un dato de hace diez años puede estar vencido, porque la situación cambia. ¿Dónde es? Lo que ocurre en un territorio no siempre ocurre en otro. ¿A quiénes se refiere? Una encuesta a 20 estudiantes de un curso muestra lo que piensa ese grupo, no necesariamente todo el país.",
+        "Cuando un dato viene de pocas personas o de otro lugar, solo puedo decir que ocurre ahí y entre ellas. Decir «en mi cuadra nadie recicla, entonces en todo Chile nadie recicla» es una generalización apresurada, o sea, sacar una conclusión grande desde pocos casos. Antes de opinar busco datos actuales, del lugar y del grupo que me interesa.",
+    ],
+    vocab=[("hecho", "algo que se puede comprobar"), ("opinión", "lo que alguien piensa o prefiere"), ("fundamento", "dato o razón que apoya lo que pienso"), ("vigente", "que todavía vale, que no está vencido"), ("generalización apresurada", "sacar una conclusión grande desde pocos casos")],
+    worked=[
+        ("Hecho u opinión", "«El taller de ajedrez tiene 18 inscritos» y «El taller de ajedrez es el mejor». ¿Cuál es un hecho?",
+         ["Pregunto qué frase puedo comprobar contando.", "Los inscritos se pueden contar.", "«El mejor» depende de cada persona."], "El primero es un hecho y el segundo es una opinión"),
+        ("Ubicar un dato", "En una encuesta de hace cinco años a 40 vecinos de una población de Temuco, 32 dijeron preferir más áreas verdes. Ubícalo en tiempo, lugar y grupo.",
+         ["Cuándo: hace cinco años.", "Dónde: una población de Temuco.", "A quiénes: 40 vecinos."], "Hace cinco años; una población de Temuco; 40 vecinos"),
+    ],
+    mistakes=[
+        ("Usar un dato antiguo para hablar de hoy sin revisarlo.", "La situación pudo cambiar con los años.", "Busca un dato actual o di de qué año es."),
+        ("Creer que lo que pasa en mi cuadra pasa en todo el país.", "Es una generalización apresurada desde pocos casos.", "Di a qué lugar y a cuántas personas se refiere el dato."),
+    ],
+    T=[
+        ("¿Qué es un hecho?", "Algo que se puede comprobar", "Se distingue de una opinión."),
+        ("«El recreo dura 20 minutos.» ¿Es un hecho o una opinión?", "Un hecho", "Se puede medir con un reloj."),
+        ("«El recreo debería durar más.» ¿Es un hecho o una opinión?", "Una opinión", "Expresa lo que alguien desea."),
+        ("¿Qué tres preguntas sirven para ubicar un dato?", "Cuándo es, dónde es y a quiénes se refiere", "Permiten saber hasta dónde vale."),
+        ("¿Por qué un dato de hace diez años puede no servir hoy?", "Porque la situación pudo cambiar", "Los datos tienen fecha."),
+        ("¿Por qué una encuesta a un solo curso no vale automáticamente para todo el país?", "Porque ese grupo es solo una parte y puede ser distinto", "Su alcance es pequeño."),
+        ("Una encuesta de hace diez años a 25 estudiantes de una escuela de Arica dice que 20 usaban bicicleta. ¿Qué grupo fue encuestado?", "25 estudiantes de una escuela de Arica", "Es el grupo al que se refiere el dato."),
+        ("=", "De esos 25 estudiantes, 20 usaban bicicleta. ¿Cuántos no la usaban?", "25-20", "Se resta del total los que sí la usaban."),
+        ("Elige el hecho: A) «En mi escuela hay 480 estudiantes.» B) «Mi escuela es la más linda.»", "A", "Se puede comprobar con la matrícula."),
+        ("Pedro dice: «En mi cuadra nadie recicla, así que en Chile nadie recicla». ¿Qué error comete?", "Generaliza desde un grupo muy pequeño", "Una cuadra no representa al país."),
+        ("Sofía usa un informe de hace veinte años sobre el uso de internet para opinar sobre hoy. ¿Qué debe hacer?", "Buscar un dato más reciente", "El dato ya no es vigente."),
+        ("=", "La escuela A, de una zona de lluvias abundantes, suspendió 40 recreos por lluvia en el año. La escuela B, de una zona seca, suspendió 2. ¿Cuántos recreos más suspendió la A?", "40-2", "Se resta la cifra menor a la mayor."),
+        ("Para opinar sobre el uso del patio en tu escuela hoy, ordena los datos de más a menos adecuado: A) encuesta de hace 8 años en otra comuna, B) conteo hecho esta semana en tu escuela, C) encuesta de hace un año en tu escuela.", "B, C, A", "El más actual y del lugar va primero."),
+    ],
+    ctx=("En un debate del curso alguien dice: «Todos los niños del país prefieren fútbol, porque en mi curso 20 de 24 lo eligieron». ¿Qué pregunta de ubicación le haces primero?", "A quiénes se refiere el dato: solo a su curso", "Su dato es de un curso, no de todo el país."),
+    sc=[("En Historia: ¿qué es un fundamento?", "Un dato o razón que apoya lo que pienso", "Sostiene una opinión."),
+        ("¿Qué es una generalización apresurada?", "Sacar una conclusión grande desde pocos casos", "Es el error de la clase."),
+        ("¿Qué tres datos ubican la información?", "Cuándo, dónde y a quiénes", "Fijan su alcance.")],
+    op=("Lee este dato: «En una encuesta de hace seis años a 30 estudiantes de un colegio de Punta Arenas, 24 dijeron que preferían entrar más tarde en invierno». Escribe cuándo, dónde y a quiénes se refiere. Luego escribe una frase que diga qué puedes afirmar con ese dato y una frase que diga qué no puedes afirmar.",
+        "Cuándo: hace seis años. Dónde: un colegio de Punta Arenas. A quiénes: 30 estudiantes. Puedo afirmar que 24 de esos 30 preferían entrar más tarde. No puedo afirmar que todos los estudiantes de Chile piensen igual hoy.",
+        ["ubica cuándo, dónde y a quiénes", "dice qué puede afirmar", "dice qué no puede afirmar"], ["una ficha de ubicación y dos frases de alcance"], ["decir que vale para todo el país", "olvidar el año del dato"], "Lee tu texto a una persona de tu casa y pídele que diga qué dato falta."),
+    reinforce="Anota un hecho y una opinión sobre tu colegio y explica cómo se distinguen.",
+    extend="Escribe un ejemplo propio de generalización apresurada y cómo corregirlo.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 2
+build(
+    OA, 2, "",
+    use="Aprenderé a revisar si una fuente es confiable antes de usarla como fundamento. Sirve para argumentar con datos que se puedan comprobar y para detectar intereses ocultos.",
+    prior=["Sé ubicar un dato en tiempo, lugar y grupo.", "Sé que una fuente tiene procedencia.", "Sé que opinar con fundamentos necesita datos."],
+    explain=[
+        "Una fuente es confiable cuando puedo revisar quién la hizo, cuándo, con qué método y para qué. Un registro firmado por la persona a cargo, con fecha y números, es más confiable que un comentario anónimo. Un testimonio es el relato de alguien que vio o vivió un hecho. Sirve, pero muestra una mirada. Una persona experta es quien estudió o trabaja mucho en el tema, aunque igual se revisa su fuente.",
+        "El sesgo es una inclinación que hace mostrar solo una parte de la realidad. Una publicidad quiere vender, por eso destaca lo bueno. Un estudio pagado por quien vende un producto puede tener un conflicto de interés: quien paga podría preferir cierto resultado. Esto no prueba que mienta, pero obliga a revisar con más cuidado.",
+        "Para decidir mejor contrasto, es decir, comparo dos o más fuentes sobre lo mismo. Si coinciden, mi dato es más firme. Si se contradicen, no opino todavía: reviso una tercera fuente o compruebo el dato por mí mismo. Siempre digo de qué fuente viene lo que afirmo.",
+    ],
+    vocab=[("fuente confiable", "fuente cuyo autor, fecha y método se pueden revisar"), ("testimonio", "relato de quien vio o vivió un hecho"), ("sesgo", "inclinación que muestra solo una parte de la realidad"), ("conflicto de interés", "situación en que quien informa gana algo con cierto resultado"), ("contrastar", "comparar varias fuentes sobre lo mismo")],
+    worked=[
+        ("Elegir la mejor fuente", "A) Registro de la biblioteca firmado por la bibliotecaria, mes pasado: 240 préstamos. B) Comentario anónimo en un muro: «Nadie lee». ¿Cuál sirve más para opinar sobre el uso de la biblioteca?",
+         ["Reviso quién, cuándo y cómo.", "A tiene autora, fecha y número.", "B no se puede comprobar."], "El registro A"),
+        ("Detectar un conflicto de interés", "Un estudio dice que el jugo Z mejora el rendimiento. Lo pagó la empresa que vende el jugo. ¿Qué debes revisar?",
+         ["Veo quién paga.", "Quien vende gana si el resultado es bueno.", "Debo buscar otra fuente que no dependa de la empresa."], "El posible conflicto de interés"),
+    ],
+    mistakes=[
+        ("Creer una publicidad como si fuera un informe.", "La publicidad busca vender y muestra lo bueno.", "Contrasta con una fuente que no gane vendiendo."),
+        ("Opinar con dos fuentes que se contradicen sin revisar más.", "No se sabe cuál es correcta.", "Busca una tercera fuente o comprueba el dato."),
+    ],
+    T=[
+        ("En Historia: ¿Qué es una fuente confiable?", "Una fuente cuyo autor, fecha y método se pueden revisar", "Se puede comprobar."),
+        ("¿Qué es un sesgo?", "Una inclinación que muestra solo una parte de la realidad", "Distorsiona la información."),
+        ("¿Qué es un testimonio?", "El relato de alguien que vio o vivió un hecho", "Es una mirada personal."),
+        ("¿Por qué una publicidad de un jugo no es buena fuente para opinar sobre alimentación sana?", "Porque busca vender el producto", "Su propósito la inclina a mostrar solo lo bueno."),
+        ("¿Qué ventaja tiene contrastar dos fuentes?", "Se pueden comprobar datos y detectar errores o sesgos", "Comparar permite revisar."),
+        ("¿Por qué una persona experta no se acepta sin revisar su fuente?", "Porque igual puede equivocarse o tener intereses", "Revisar es parte de argumentar."),
+        ("Registro de la bibliotecaria, mes pasado: «Semana 1: 45 préstamos; semana 2: 58; semana 3: 50; semana 4: 67». Fuente B: comentario anónimo. ¿Cuál usas para opinar sobre el uso de la biblioteca?", "El registro de la bibliotecaria", "Tiene autora, fecha y datos."),
+        ("Un aviso de una librería dice: «Lee más, compra más libros». ¿Qué sesgo tiene?", "Busca vender libros", "Su interés es la venta."),
+        ("=", "El registro dice: semana 1, 45 préstamos; semana 2, 58; semana 3, 50; semana 4, 67. ¿Cuántos préstamos hubo en el mes?", "45+58+50+67", "Se suman los préstamos de las cuatro semanas."),
+        ("El informe del municipio dice que la plaza tiene 12 bancas; el volante de una vecina dice que tiene 5. ¿Qué haces antes de opinar?", "Reviso una tercera fuente o cuento las bancas yo mismo", "Las fuentes se contradicen."),
+        ("Un compañero dice: «Lo leí en una red social» y no da más datos. ¿Qué le pides?", "Quién lo publicó, cuándo y cuál es la fuente original", "Sin eso no se puede comprobar."),
+        ("Un estudio dice que un cereal mejora las notas, y lo pagó la empresa que lo vende. ¿Qué problema de procedencia tiene?", "Un posible conflicto de interés", "Quien paga podría preferir cierto resultado."),
+        ("=", "Un informe dice que la plaza tiene 12 bancas. Cuentas 5 en el sector norte y 4 en el sur. ¿Cuántas bancas faltan por encontrar para llegar a 12?", "12-5-4", "Se restan las bancas que ya contaste."),
+    ],
+    ctx=("Quieres opinar sobre si el kiosco debe vender más fruta. Tienes dos datos: un cartel del kiosco que dice «Nuestras frutas son las mejores» y un conteo de ventas firmado por la encargada, de la semana pasada. ¿Cuál usas como fundamento?", "El conteo firmado", "Tiene autora, fecha y datos."),
+    sc=[("En Historia: ¿qué es contrastar fuentes?", "Comparar varias fuentes sobre lo mismo", "Permite comprobar un dato."),
+        ("¿Qué es un conflicto de interés?", "Cuando quien informa gana algo con cierto resultado", "Obliga a revisar con cuidado."),
+        ("¿Qué haces si dos fuentes se contradicen?", "Busco una tercera o compruebo el dato", "Así no afirmo de más.")],
+    op=("Lee estas tres fuentes sobre el uso del gimnasio de un colegio. Fuente 1: registro firmado por el encargado, mes pasado, 180 usos. Fuente 2: cartel de una marca de zapatillas que dice «Hay que hacer deporte todos los días». Fuente 3: mensaje anónimo que dice «el gimnasio siempre está vacío». Escribe cuál usarías como fundamento, qué problema tienen las otras dos y una opinión tuya que cite la fuente elegida.",
+        "Uso la fuente 1 porque tiene autor, fecha y número. La 2 busca vender zapatillas y la 3 es anónima. Según el registro firmado del mes pasado, hubo 180 usos, así que opino que el gimnasio sí se usa.",
+        ["elige la fuente más confiable", "explica el problema de las otras dos", "cita la fuente en su opinión"], ["fuente elegida, dos críticas y una opinión con cita"], ["usar la publicidad como prueba", "no citar la fuente"], "Pide a una persona de tu casa que encuentre la cita en tu texto."),
+    reinforce="Mira un anuncio de tu casa y escribe qué quiere conseguir quien lo hizo.",
+    extend="Escribe dos preguntas para revisar una noticia que te contaron.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 3
+build(
+    OA, 3, "",
+    use="Aprenderé a usar causas y consecuencias en un argumento, mirando beneficios y costos para distintos actores. Sirve para opinar sobre propuestas sin quedarme con una sola razón.",
+    prior=["Sé distinguir hechos de opiniones.", "Sé revisar si una fuente es confiable.", "Sé que una consecuencia ocurre después de una causa."],
+    explain=[
+        "Cuando opino sobre una propuesta pregunto qué consecuencias traerá. Una consecuencia es lo que ocurre a raíz de una acción. Puede ser de corto plazo, que ocurre pronto, o de largo plazo, que ocurre mucho después. También miro los beneficios, que son las ventajas, y los costos, que son lo que hay que gastar, esforzar o perder.",
+        "Un argumento causal dice «esto ocurre por aquello». Para que sea bueno, la causa debe ser real. Que dos cosas ocurran juntas no prueba que una cause la otra. Si cambiaron el color del patio y luego mejoraron las notas, el color puede no tener relación con las notas. Debo buscar evidencia de que la causa realmente produce el efecto y pensar en otras causas posibles.",
+        "Además, una propuesta afecta a varios actores, personas o grupos que participan. Un «Día sin plástico» en el colegio beneficia al ambiente, pero el kiosco puede vender menos bolsas y las familias pueden gastar en recipientes. Un buen argumento considera a los distintos actores y compara beneficios y costos antes de opinar.",
+    ],
+    vocab=[("consecuencia", "lo que ocurre a raíz de una acción"), ("beneficio", "ventaja que trae una acción"), ("costo", "lo que hay que gastar, esforzar o perder"), ("argumento causal", "argumento que dice que algo ocurre por una causa"), ("coincidencia", "dos hechos que ocurren a la vez sin que uno cause al otro")],
+    worked=[
+        ("Beneficios y costos", "Propuesta: un Día sin plástico semanal en el colegio. Menos basura en el patio; las familias deben comprar recipientes. ¿Cuál es un beneficio y cuál un costo?",
+         ["Busco la ventaja: menos basura.", "Busco lo que hay que gastar: comprar recipientes."], "Beneficio: menos basura; costo: comprar recipientes"),
+        ("Coincidencia o causa", "Un curso cambió el color de su sala y luego subió el promedio de notas. ¿Prueba esto que el color causó las notas?",
+         ["Los dos hechos ocurrieron seguidos.", "Pero pueden existir otras causas, como estudiar más.", "No hay evidencia de que el color produzca notas."], "No, puede ser coincidencia"),
+    ],
+    mistakes=[
+        ("Decir que A causó B solo porque ocurrió antes.", "Ocurrir antes no prueba que sea la causa.", "Busca evidencia y otras causas posibles."),
+        ("Mirar solo los beneficios de una propuesta.", "Toda propuesta tiene costos para algún actor.", "Anota beneficios y costos de cada actor."),
+    ],
+    T=[
+        ("¿Qué es una consecuencia?", "Lo que ocurre a raíz de una acción", "Sucede después de la acción."),
+        ("¿Qué es un costo en una propuesta?", "Lo que hay que gastar, esforzar o perder", "Es la parte negativa o el esfuerzo."),
+        ("Menos basura en el patio gracias a una medida, ¿es un beneficio o un costo?", "Un beneficio", "Es una ventaja."),
+        ("¿Por qué conviene mirar a varios actores al opinar sobre una propuesta?", "Porque cada actor puede ganar o perder algo distinto", "Así la opinión no queda parcial."),
+        ("¿Qué es un argumento causal?", "Un argumento que dice que algo ocurre por una causa", "Usa la idea de «porque»."),
+        ("¿Por qué no basta que dos hechos ocurran juntos para decir que uno causó el otro?", "Porque pueden coincidir sin relación", "Falta evidencia de la relación."),
+        ("En el Día sin plástico, el kiosco deja de vender bolsas. ¿Qué actor ve disminuir sus ventas?", "El kiosco", "Es quien vendía las bolsas."),
+        ("=", "Un curso de 30 estudiantes usa 2 envoltorios plásticos por persona cada día de colación. ¿Cuántos envoltorios se evitan en un Día sin plástico?", "30*2", "Se multiplica por el número de estudiantes."),
+        ("«Los estudiantes se acostumbran durante años a llevar colaciones reutilizables.» ¿Es una consecuencia de corto o de largo plazo?", "De largo plazo", "Ocurre con el paso de los años."),
+        ("Camila dice: «Desde que pusieron un reloj nuevo en la sala subió la asistencia, entonces el reloj causó la asistencia». ¿Qué error comete?", "Confunde una coincidencia con una causa", "Pueden existir otras causas."),
+        ("Elige el costo de la propuesta: A) hay menos basura en el patio, B) las familias deben comprar recipientes reutilizables.", "B", "Es un gasto para las familias."),
+        ("=", "Un recipiente reutilizable cuesta $2.500 y lo compran 18 familias. ¿Cuánto gastan en total?", "18*2500", "Se multiplica el precio por las familias."),
+        ("Ordena la cadena: A) hay menos basura en el patio, B) el curso lleva colaciones sin envoltorio plástico, C) se propone un Día sin plástico.", "C, B, A", "Propuesta, acción y resultado."),
+    ],
+    ctx=("En tu colegio proponen cerrar la entrada de autos al patio durante el recreo para evitar accidentes. Una apoderada dice que le costará dejar a su hijo. ¿Qué actor tiene un costo en esta propuesta?", "Las familias que llegan en auto", "Deben cambiar la forma de llegar."),
+    sc=[("En Historia: ¿qué es un argumento causal?", "Un argumento que dice que algo ocurre por una causa", "Es la idea de la clase."),
+        ("¿Qué son beneficios y costos?", "Ventajas y lo que hay que gastar, esforzar o perder", "Se comparan antes de opinar."),
+        ("¿Basta que dos hechos ocurran juntos para decir que uno causó el otro?", "No", "Pueden coincidir sin relación.")],
+    op=("Lee esta propuesta: «Un recreo extra de 10 minutos cada viernes». Escribe dos beneficios, dos costos y los actores que serían afectados (por ejemplo estudiantes, docentes y auxiliares). Luego escribe una opinión que use una consecuencia como razón.",
+        "Beneficios: más descanso y más juego. Costos: se acorta una clase y hay que cuidar el patio más tiempo. Actores: estudiantes, docentes y auxiliares. Opino que sí, porque los estudiantes llegarían más atentos a la última clase.",
+        ["dos beneficios y dos costos", "nombra actores afectados", "usa una consecuencia como razón"], ["una lista de beneficios y costos y una opinión"], ["mirar solo los beneficios", "confundir causa y coincidencia"], "Cuéntale tu opinión a una persona de tu casa y pídele que diga qué costo olvidaste."),
+    reinforce="Piensa en una norma de tu casa y anota un beneficio y un costo.",
+    extend="Escribe un ejemplo propio de coincidencia que parezca una causa pero no lo sea.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 4
+build(
+    OA, 4, "",
+    use="Aprenderé a responder a otra opinión con respeto, reconociendo lo válido y refutando con razones. Sirve para debatir sin pelear y comparar cómo cambian las razones según el lugar.",
+    prior=["Sé usar causas y consecuencias en un argumento.", "Sé que cada actor tiene una perspectiva.", "Sé que debatir es criticar ideas, no personas."],
+    explain=[
+        "Un contraargumento es la razón de quien piensa distinto. Para responderlo uso dos pasos. La concesión reconoce lo que tiene de válido: «Es cierto que el bus es caro». La refutación muestra por qué mi postura sigue siendo mejor: «pero el tiempo que ahorramos compensa el gasto». Esta forma muestra respeto y también fuerza.",
+        "Un buen debate critica la idea, no a la persona. Decir «los que piensan distinto son flojos» es un ataque personal y no responde la razón. Es mejor buscar puntos de acuerdo, es decir, lo que ambas posturas quieren. Por ejemplo, quienes piden entrada temprana y quienes piden entrada tardía pueden coincidir en que los estudiantes lleguen seguros.",
+        "Las razones cambian según el territorio. En el extremo sur de Chile, en invierno amanece más tarde y los días son más cortos que en el norte. Por eso un colegio del extremo sur puede tener más motivos para pedir una entrada más tarde en invierno. Antes de comparar posturas pregunto en qué lugar vive cada persona y qué necesita.",
+    ],
+    vocab=[("contraargumento", "razón de quien piensa distinto"), ("concesión", "reconocer lo válido de otra razón"), ("refutación", "mostrar con razones por qué otra postura es débil"), ("ataque personal", "criticar a la persona en vez de su idea"), ("punto de acuerdo", "lo que dos posturas quieren en común")],
+    worked=[
+        ("Conceder y refutar", "Alguien dice: «Entrar más tarde acorta la tarde». Tú crees que conviene entrar a las 9:00 en invierno. Escribe una respuesta con concesión y refutación.",
+         ["Concedo: reconozco que la tarde queda más corta.", "Refuto: la seguridad de llegar con luz pesa más."], "Es cierto que la tarde queda más corta, pero llegar con luz es más seguro"),
+        ("Encontrar un punto de acuerdo", "Opinión 1: entrar temprano para tener la tarde libre. Opinión 2: entrar tarde para llegar con luz. ¿Qué quieren en común?",
+         ["Miro qué busca cada una.", "Ambas buscan que los estudiantes estén bien."], "Que los estudiantes lleguen y aprendan bien"),
+    ],
+    mistakes=[
+        ("Responder atacando a la persona.", "No contesta la razón y rompe el respeto.", "Responde a la razón con otra razón."),
+        ("Copiar una solución de otro territorio sin revisar.", "Los climas y las distancias cambian lo que conviene.", "Pregunta en qué lugar vive cada persona."),
+    ],
+    T=[
+        ("¿Qué es un contraargumento?", "La razón de quien piensa distinto", "Se responde con razones."),
+        ("¿Qué es una concesión en un debate?", "Reconocer lo que tiene de válido otra razón", "Muestra respeto hacia el otro."),
+        ("¿Qué es una refutación?", "Mostrar con razones por qué otra postura es débil", "Responde al contraargumento."),
+        ("¿Por qué conviene reconocer la razón del otro antes de responder?", "Porque muestra que se escuchó y da más fuerza a la respuesta", "Hace el debate más respetuoso."),
+        ("¿Por qué no se critica a la persona en un debate?", "Porque eso no responde la razón y falta el respeto", "El debate trata de ideas."),
+        ("¿Por qué un colegio del extremo sur puede tener motivos distintos que uno del norte para pedir entrada tardía en invierno?", "Porque allí amanece más tarde y los días son más cortos", "El territorio cambia la razón."),
+        ("Elige la frase que concede y refuta: A) «Es cierto que el bus es caro, pero el tiempo ahorrado compensa.» B) «El bus es caro y punto.»", "A", "Reconoce y luego responde."),
+        ("Propuesta: entrar a las 8:30 en vez de las 8:00 en invierno. ¿Cuál es un argumento en contra de la propuesta: A) la salida también se atrasa y la tarde queda más corta, B) en invierno amanece más tarde?", "A", "Es una desventaja de la propuesta."),
+        ("Si hoy se entra a las 8:00 y se sale a las 14:00, y la entrada se atrasa una hora con la misma duración, ¿a qué hora se sale?", "A las 15:00", "Se suma una hora a las 14:00."),
+        ("Ana dice: «Los que piensan distinto son flojos». ¿Qué error comete?", "Un ataque personal", "Critica a las personas y no a la idea."),
+        ("Opinión 1: entrar temprano para tener la tarde libre. Opinión 2: entrar tarde para llegar con luz. ¿Qué punto de acuerdo se puede usar: A) ambas quieren estudiantes seguros y atentos, B) ambas quieren menos clases?", "A", "No se afirma que quieran menos clases."),
+        ("Ordena una respuesta: A) pero la tarde más corta afectaría los talleres, B) es verdad que la mañana es oscura, C) por eso propongo una entrada a las 8:30.", "B, A, C", "Concede, refuta y propone."),
+        ("El colegio A está en el extremo sur y el B en el norte. ¿Cuál tiene más razón para pedir entrada más tarde en invierno por la luz?", "El A", "Allí amanece más tarde en invierno."),
+    ],
+    ctx=("En una asamblea, un compañero dice «no hay que cambiar el horario porque lo propuso alguien que cae mal». ¿Qué le respondes?", "Que responda a la idea y no a la persona", "Un argumento válido critica la razón."),
+    sc=[("En Historia: ¿qué es refutar?", "Mostrar con razones por qué otra postura es débil", "Responde al contraargumento."),
+        ("¿Qué es un punto de acuerdo?", "Lo que dos posturas quieren en común", "Permite buscar una solución."),
+        ("¿Por qué las razones pueden cambiar según el territorio?", "Porque el clima y las necesidades son distintos", "Cada lugar tiene sus rasgos.")],
+    op=("Lee estas dos posturas sobre un tema: Postura A, «el recreo largo debe ser en la mañana porque los estudiantes tienen más energía». Postura B, «el recreo largo debe ser en la tarde porque la jornada de la mañana es más corta». Escribe una respuesta a la postura B con concesión y refutación, un punto de acuerdo entre ambas y una propuesta final.",
+        "Es cierto que la jornada de la mañana es más corta, pero los estudiantes tienen más energía para jugar. Ambas posturas quieren que el recreo sirva para descansar bien. Propongo un recreo largo en la mañana y uno corto en la tarde.",
+        ["concesión y refutación", "un punto de acuerdo", "una propuesta final"], ["una respuesta escrita con tres partes"], ["atacar a quien piensa distinto", "no reconocer ninguna razón"], "Pide a una persona de tu casa que lea tu respuesta y señale la concesión."),
+    reinforce="Con una persona de tu casa, discutan un tema de la vida diaria usando «es cierto que… pero…».",
+    extend="Escribe una frase para cambiar de opinión con respeto cuando escuchas una razón mejor.",
+    materials=MAT,
+)
+
+# ---------------------------------------------------------------- Clase 5
+TXT = "«Pienso que el colegio debe instalar un segundo bebedero en el patio. Primero, el colegio tiene 300 estudiantes y un solo bebedero. Segundo, un lunes, 12 estudiantes esperaron más de 3 minutos para tomar agua. Algunos dicen que un bebedero nuevo es caro, pero el costo se puede compartir con el centro de padres. Por eso, el colegio debe instalar un segundo bebedero.»"
+build(
+    OA, 5, "",
+    use="Aprenderé a escribir y evaluar un argumento completo con tesis, evidencias, contraargumento y conclusión, evitando razones débiles. Sirve para opinar con fundamentos en trabajos y debates.",
+    prior=["Sé distinguir hechos de opiniones y revisar fuentes.", "Sé usar causas, consecuencias y contraargumentos.", "Sé que una razón fuerte se apoya en datos."],
+    explain=[
+        "Un argumento completo tiene cinco partes. La tesis es la idea principal que defiendo. Las razones apoyan la tesis, y cada una lleva evidencia, que es un dato que se puede comprobar. El contraargumento es la razón de quien piensa distinto. La refutación lo responde. La conclusión repite la tesis y propone algo.",
+        "Hay razones que parecen buenas, pero son débiles. Apelar a la mayoría («todos mis amigos lo quieren») no prueba nada. Una falsa dicotomía dice que solo hay dos opciones cuando hay más («o instalamos un bebedero o se deshidratan»). La pendiente resbaladiza exagera: «si no lo hacemos, pronto todo se destruirá». Estas razones no entregan evidencia.",
+        "Para evaluar un argumento hago tres preguntas: ¿la tesis es clara?, ¿cada razón tiene evidencia que se pueda comprobar? y ¿respondió al contraargumento? Si falta alguna parte, escribo una versión mejor. Un argumento sólido convence por sus datos y su claridad, no por repetirse ni por gritar.",
+    ],
+    vocab=[("tesis", "idea principal que se defiende"), ("evidencia", "dato que se puede comprobar y apoya una razón"), ("refutación", "respuesta con razones a un contraargumento"), ("falsa dicotomía", "decir que solo hay dos opciones cuando hay más"), ("pendiente resbaladiza", "exagerar que un paso llevará a un desastre sin pruebas")],
+    worked=[
+        ("Reconocer partes", TXT + " ¿Cuál es la tesis?",
+         ["Busco la idea principal.", "Está al comienzo: instalar un segundo bebedero."], "La tesis es que el colegio debe instalar un segundo bebedero"),
+        ("Detectar una razón débil", "«Si no instalamos el bebedero, pronto nadie tomará agua en este colegio.» ¿Qué defecto tiene?",
+         ["Exagera lo que ocurrirá.", "No da evidencia."], "Es una pendiente resbaladiza"),
+    ],
+    mistakes=[
+        ("Dar muchas razones sin evidencia.", "Parecen opiniones y no se pueden comprobar.", "A cada razón agrégale un dato comprobable."),
+        ("No responder al contraargumento.", "Parece que no pensaste en otra postura.", "Reconócelo y respóndelo con una razón."),
+    ],
+    T=[
+        ("¿Qué es la tesis de un argumento?", "La idea principal que se defiende", "Es lo que se quiere probar."),
+        (TXT + " ¿Qué dato muestra que hay pocos bebederos para los estudiantes?", "Hay 300 estudiantes y un solo bebedero", "Es un dato que se puede comprobar."),
+        (TXT + " ¿Cuál es el contraargumento?", "Que un bebedero nuevo es caro", "Es la razón de quien piensa distinto."),
+        ("¿Qué función cumple «pero el costo se puede compartir con el centro de padres» en ese texto?", "Refuta el contraargumento", "Responde a la objeción del costo."),
+        ("¿Por qué «todos quieren un bebedero» no es evidencia?", "Porque no se puede comprobar con un dato", "No muestra un hecho."),
+        ("¿Qué debe hacer la conclusión de un argumento?", "Repetir la tesis y proponer algo", "Cierra la idea y orienta una acción."),
+        ("=", "Con 300 estudiantes y 2 bebederos, repartidos en partes iguales, ¿cuántos estudiantes corresponden a cada bebedero?", "300//2", "Se reparten los estudiantes entre los bebederos."),
+        ("Elige la razón con evidencia: A) «Hay 300 estudiantes y 1 bebedero.» B) «Si no se instala, el colegio se quedará sin estudiantes.»", "A", "Entrega un dato comprobable."),
+        ("Una compañera dice: «Todos mis amigos quieren el bebedero, así que hay que instalarlo». ¿Es evidencia suficiente?", "No", "La opinión de unos pocos no prueba."),
+        ("Mateo dice: «O instalamos el bebedero o los estudiantes se deshidratan». ¿Qué error comete?", "Una falsa dicotomía: hay otras opciones, como llevar botellas", "Presenta solo dos opciones."),
+        ("Ordena el argumento: A) por eso el colegio debe instalar un segundo bebedero, B) el colegio tiene un solo bebedero para 300 estudiantes, C) pienso que se necesita un segundo bebedero.", "C, B, A", "Tesis, razón y conclusión."),
+        ("Elige la mejor refutación del contraargumento «es caro»: A) «El costo se puede compartir con el centro de padres.» B) «Eso no importa.»", "A", "Responde con una propuesta."),
+        ("Completa la conclusión con la mejor opción: «Por eso, ______». A) el colegio debe instalar un segundo bebedero para reducir las filas, B) todos están de acuerdo.", "A", "Repite la tesis y propone."),
+    ],
+    ctx=("En una reunión de curso, una compañera escribe: «Debemos tener un recreo más largo. Todos lo quieren. Si no, el colegio será un desastre». ¿Qué le sugieres agregar para que sea un argumento sólido?", "Datos comprobables y una respuesta a un contraargumento", "Faltan evidencia y refutación."),
+    sc=[("En Historia: ¿qué es una tesis?", "La idea principal que se defiende", "Es la parte central del argumento."),
+        ("¿Qué es una falsa dicotomía?", "Decir que solo hay dos opciones cuando hay más", "Limita el análisis."),
+        ("¿Qué tres preguntas sirven para evaluar un argumento?", "Si la tesis es clara, si hay evidencia y si respondió al contraargumento", "Revisan las partes.")],
+    op=("Elige un tema y escribe un argumento completo (tesis, dos razones con evidencia, un contraargumento con su refutación y una conclusión). Tema A: una hora de juegos de mesa al mes en el curso. Dato para usar: en una encuesta del curso a 30 estudiantes, 21 dijeron que les gustaría. Tema B: plantar un huerto en el colegio. Dato para usar: el colegio tiene un terreno de 12 metros por 5 metros sin uso.",
+        "Tema A. Tesis: el curso debe tener una hora de juegos al mes. Razón 1: 21 de 30 estudiantes lo quieren. Razón 2: se aprende a trabajar en equipo. Contraargumento: quita tiempo de clases; refutación: puede hacerse una vez al mes en un horario de taller. Conclusión: por eso hagamos la hora de juegos al mes.",
+        ["tesis clara", "dos razones con evidencia", "contraargumento con refutación", "conclusión con propuesta"], ["un texto argumentativo con todas las partes"], ["razones sin dato", "no responder al contraargumento"], "Lee tu texto a una persona de tu casa y pídele que marque la tesis y la evidencia."),
+    reinforce="Escribe una tesis sobre algo de tu barrio y una razón con un dato comprobable.",
+    extend="Busca en tu texto una razón débil y reescríbela con evidencia.",
+    materials=MAT,
+)

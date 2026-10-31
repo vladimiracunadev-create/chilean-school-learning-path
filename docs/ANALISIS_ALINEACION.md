@@ -381,7 +381,7 @@ Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 5
 | matematica | 118 | 45 % | 2 |
 | musica | 35 | 49 % | 1 |
 | orientacion | 40 | 42 % | 4 |
-| tecnologia | 35 | 45 % | 2 |
+| tecnologia | 35 | 46 % | 2 |
 
 **Clases marcadas para lectura prioritaria (4.º básico):** 93 de 811.
 
@@ -785,3 +785,289 @@ A diferencia de 4.º básico, los lectores de 5.º no hallaron un desajuste que 
 | MA05 OA 25 | 3 | Elegir y justificar una estrategia · Comparación cualitativa | 89 % | 83 % | 21.5 | — |
 | LC05 OA LS03 | 1 | Situar pueblo, territorio y fuente · Textos del territorio y | 90 % | 86 % | 20.2 | — |
 | LC05 OA LS05 | 3 | Reconocer relaciones culturales · Lengua, comunidad e identi | 92 % | 83 % | 20.1 | — |
+
+## 6.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 27 | 46 % | 4 |
+| ciencias-naturales | 78 | 60 % | 9 |
+| educacion-fisica-salud | 50 | 44 % | 18 |
+| historia-geografia-ciencias-sociales | 116 | 56 % | 14 |
+| ingles-propuesta | 74 | 31 % | 49 |
+| lengua-cultura-pueblos-originarios-ancestrales | 144 | 61 % | 10 |
+| lenguaje-comunicacion | 176 | 46 % | 48 |
+| matematica | 98 | 40 % | 33 |
+| musica | 35 | 45 % | 19 |
+| orientacion | 41 | 42 % | 15 |
+| tecnologia | 37 | 39 % | 12 |
+
+**Clases marcadas para lectura prioritaria (6.º básico):** 231 de 876.
+
+### Segunda lectura crítica de las 876 clases
+
+Cada una de las 876 clases de 6.º básico fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios.
+
+| Asignatura | Clases | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 98 | Seis ejercicios idénticos al ejemplo resuelto o a la caja de errores frecuentes; «cuántos ángulos iguales» falso con rectas perpendiculares; «complemento» usado para 180° contra complementario de 90° en otro OA; «puerta contra la pared = 180°» no seguro; triángulo 2-2-3 con ángulo de 100° (97°); datos de ejemplo que daban dos modas o no decían cuántos sectores eran rojos; división de decimales por un decimal, que el OA nombra, agregada en OA 07; desigualdad triangular mal enunciada. |
+| Lenguaje y Comunicación | 176 | Orden alfabético con ñ mal explicado (la ñ decide en la 5.ª letra); «5 comas» en un texto de 3; «irrompible» como «i- + rompible» (es ir-); «afable es lo contrario de tímido»; «previsible» con «-ble»; «pinta» por escondida; actividades abiertas que citaban un cuento que solo estaba en otros ejercicios (OA 16); figuras literarias dudosas (hipérbole, onomatopeya); aritmética escrita como texto pasada a cálculo verificado; fogata «con ayuda de su papá» cambiada por amasar pan. |
+| Ciencias Naturales | 78 | «Un ovario libera un óvulo por ciclo» precisado; recorrido masculino contado con 5 estructuras (enseña 4); energía del carnívoro invertida; «gas invisible porque sus partículas son transparentes»; hielo derretido 8 veces por debajo de lo plausible; orden de estados por separación de partículas falso para el agua; «ilegales» para marihuana y cocaína; «las mareas no dependen del Sol»; sublimación inversa y desertificación usadas sin enseñarlas. |
+| Historia, Geografía y Ciencias Sociales | 116 | Pisagua ubicada al sur de Iquique; «dos de los tres patrimonios tienen reconocimiento UNESCO» (uno); «en el altiplano casi no llueve»; una misma persona diputada y concejala a la vez; tribunal que revisa «una ley muy injusta»; fuentes «resumen» usadas como primarias; perspectiva mapuche inventada rotulada de modo que parecía testimonio real; «zonas poco ocupadas» sin mencionar a los pueblos que vivían allí; ser tricontinental como «rasgo único»; soberanía y recurso usados sin definir; relieve agregado en OA 11. |
+| Inglés | 74 | Cinco palabras con /r/ y no cuatro; adivinanza con 3 pistas y no 2; «fifty hundred»; «eat bread and tea»; «Penguins live in cold places» (hay pingüinos en Chile); estructuras usadas antes de enseñarse (went, ate, saw, easier, fewer, so); módulo de OA 11 y 12 sobrescrito por error y reescrito; piscina con el lunes sin decir; ejercicios aritméticos sin valor reemplazados. |
+| Lengua y Cultura de los Pueblos Originarios | 144 | «Dos de los tres patrimonios» con UNESCO; «colonos en 1900» cuando la memoria decía «antes de 1900»; 328 ejercicios A/B con la A siempre correcta, 168 reordenados; «chocolate (náhuatl)» (etimología discutida) cambiado por «chicle»; «marimari» presentado como error de «mari mari»; ciclo lunar de 29 días como dato; ficha con permiso contradicha por un ejercicio; supuestos sobre la familia («tu abuela», «tu pulsera»); aritmética trivial. |
+| Educación Física y Salud | 50 | Pausa activa «cada 45 min en 180» que daba 4 y son 3; dos toallas de 6 cm contra la regla de 10 cm; pausas de bebida cada 15–20 min contra ejercicios de 30; material insuficiente (3 vasos para 6 piezas, «no se usa ningún material» con pelota); supuestos sobre la familia; peso corporal: balanza y «pesa tu peso» retirados. |
+| Orientación | 41 | Orden de los pasos ante grooming contradictorio entre ejercicios (decir no, guardar pruebas, bloquear, contar); testigo que confrontaba al agresor; recibir una foto íntima sin indicar no reenviarla; encuentros con desconocidos en línea; «lo íntimo se cuenta solo si uno quiere» que podía leerse como fomento del secreto; «una ofensa repetida es discriminación» (es hostigamiento); «hibernan los osos» (Chile no tiene osos). |
+| Música | 35 | Melodía que rompía dos reglas con pregunta de una; 2/4 con dos respuestas válidas; «la lenta» para 80 pulsos contradiciendo los rangos de la clase; accelerando calculado a tempo fijo; ficha de orquesta sin compositor clasificada como tradición escrita; «tu abuela canta»; aritmética trivial recalculada por el verificador. |
+| Artes Visuales | 27 | Oscurecer con «azul oscuro»; mural de Siqueiros clasificado como espacio público (está en un interior escolar); interpretación de «Las dos Fridas» con causalidad sin lógica; aguja de bordado sin punta roma; ejercicios cerrados sin opciones; sumas de puntos antes de enseñarse. |
+| Tecnología | 37 | «Cuánto sobra» sin dar el largo del material; rango en mm sin tolerancia; regla «mejorar el criterio con menos puntos» contra «la seguridad va primero»; «tela de papel»; «algunas familias no pueden pagar»; frase con coma extra que daba tres errores y no dos; plagio y derechos de autor sin matiz. |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Como en 5.º, los títulos de clase del plan son etapas genéricas («Reconocer propósito y desafío», «Situar pueblo, territorio y fuente», «Ubicar en tiempo y espacio»…), repetidas en todos los OA de la asignatura. Los autores repartieron el contenido del OA entre las clases y los lectores comprobaron que lo enseñado calza con el OA. En Matemática, además, el insumo y la consigna de cada clase son una plantilla que no corresponde al OA (por ejemplo «Tarjetas numéricas 29, 145, 147» en teselados), por lo que se ignoraron. Conviene que el currículo nombre el tema de cada clase; no se hizo aquí porque exige el Programa de Estudio.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Matemática (división de decimales por un decimal, OA 07); Historia (relieve de las cuatro regiones representativas, OA 11); Inglés (sonido /r/ en OA 02).
+- **Abiertos:** software geométrico, educativo y de presentación (Matemática OA 03, 04, 05, 12, 15, 20 y 23; Tecnología OA 05, 06 y 07); audio, video y formato audiovisual (Inglés, Lenguaje OA 26, Música); lectura en voz alta y fluidez real (Lenguaje OA 01); obras completas, plan lector y relatos históricos reales (Lenguaje OA 03, 04, 06 y 23); las 50 obras al año (Artes OA 04, el cuaderno describe unas 10 con texto) e imágenes; práctica de herramientas de taller (Tecnología OA 03); producción en lengua indígena, lenguajes artísticos propios del pueblo y lengua y relatos reales (Lengua y Cultura, con educador o educadora tradicional); pruebas de 50 y 100 m y danzas del norte, sur e Isla de Pascua (Educación Física); investigación experimental real (Ciencias OA 01, 09 y 13); elección de curso y voluntariado reales (Historia OA 22 y 23); biblioteca, buscador e internet reales (Lenguaje OA 09 a 12).
+- **Decisiones que dependen del programa oficial:** definición de isósceles como «exactamente dos lados iguales», ángulos suplementarios, umbrales de «pocas» y «muchas» repeticiones, 100 °C como punto de ebullición sin ajuste por altura, y las convenciones propias del cuaderno (rangos de tempo, escala de esfuerzo 0 a 10, regla de palabras desconocidas por cada 100).
+
+### Clases marcadas de 6.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| TE06 OA 02 | 3 | Planificar recursos y seguridad · Planificar la elaboración  | 9 % | 15 % | 15.9 | — |
+| LE06 OA 20 | 4 | Comparar interpretaciones o decisiones · Ampliar su capacida | 12 % | 18 % | 13.8 | — |
+| TE06 OA 01 | 5 | Probar con evidencia · Diseños de objetos y sistemas tecnoló | 12 % | 30 % | 12.9 | — |
+| TE06 OA 02 | 2 | Representar una solución · Planificar la elaboración de obje | 12 % | 21 % | 15.4 | — |
+| MA06 OA 04 | 2 | Conectar representaciones y lenguaje matemático · Porcentaje | 13 % | 33 % | 16.4 | — |
+| EN06 OA 14 | 1 | Notice purpose and context · Escribir para realizar las sigu | 14 % | 29 % | 20.3 | — |
+| LE06 OA 30 | 2 | Modelar una lectura o producción · Incorporar de manera pert | 15 % | 15 % | 15.0 | — |
+| MA06 OA 03 | 1 | Representar y precisar el concepto · Razones entre cantidade | 15 % | 40 % | 13.0 | — |
+| EN06 OA 09 | 2 | Locate key words and clues · Reproducir y producir textos or | 16 % | 7 % | 15.2 | — |
+| EN06 OA 12 | 1 | Notice purpose and context · Participar en diálogos con pare | 16 % | 20 % | 12.4 | — |
+| EN06 OA 06 | 2 | Locate key words and clues · Leer y demostrar comprensión de | 16 % | 17 % | 14.0 | — |
+| EF06 OA 08 | 2 | Modelar control y decisión motriz · Determinar la intensidad | 17 % | 17 % | 14.5 | — |
+| EN06 OA 01 | 2 | Locate key words and clues · Demostrar comprensión de textos | 17 % | 15 % | 13.4 | — |
+| EN06 OA 01 | 3 | Model a communicative strategy · Demostrar comprensión de te | 17 % | 15 % | 9.8 | — |
+| MU06 OA 06 | 2 | Reconocer un rasgo audible · Presentar su trabajo musical al | 17 % | 17 % | 19.0 | — |
+| EN06 OA 08 | 4 | Interact or compose with support · Reaccionar y demostrar in | 17 % | 7 % | 10.4 | — |
+| EF06 OA 06 | 3 | Ensayar con variantes accesibles · Ejecutar actividades físi | 17 % | 0 % | 14.5 | — |
+| LE06 OA 29 | 4 | Comparar interpretaciones o decisiones · Expresarse de maner | 18 % | 10 % | 17.4 | — |
+| MA06 OA 02 | 3 | Elegir, ejecutar y justificar una estrategia · Operaciones c | 18 % | 25 % | 13.5 | — |
+| MA06 OA 23 | 2 | Conectar representaciones y lenguaje matemático · Tendencia  | 18 % | 14 % | 14.9 | — |
+| LE06 OA 31 | 3 | Seleccionar evidencia o recursos · Textos orales espontáneos | 18 % | 9 % | 14.8 | — |
+| MA06 OA 24 | 3 | Elegir, ejecutar y justificar una estrategia · Gráficos de b | 18 % | 25 % | 12.9 | — |
+| OR06 OA 03 | 5 | Practicar comunicación o ayuda · Reconocer y valorar el proc | 18 % | 10 % | 14.8 | — |
+| CN06 OA 17 | 3 | Modelar el sistema o fenómeno · Investigar experimentalmente | 19 % | 18 % | 17.2 | — |
+| MA06 OA 07 | 3 | Elegir, ejecutar y justificar una estrategia · Multiplicació | 19 % | 29 % | 14.0 | — |
+| EN06 OA 12 | 5 | Communicate independently · Participar en diálogos con pares | 19 % | 11 % | 21.8 | — |
+| EN06 OA 06 | 5 | Communicate independently · Leer y demostrar comprensión de  | 19 % | 9 % | 15.8 | — |
+| HI06 OA 04 | 6 | Evaluar una decisión ciudadana · Investigar sobre algunos as | 19 % | 36 % | 18.9 | — |
+| TE06 OA 03 | 4 | Elaborar o configurar · Elaborar un producto tecnológico par | 19 % | 9 % | 13.8 | — |
+| EF06 OA 07 | 2 | Modelar control y decisión motriz · Practicar y planificar d | 20 % | 23 % | 15.7 | — |
+| EN06 OA 04 | 3 | Model a communicative strategy · Reaccionar y demostrar inte | 20 % | 27 % | 10.7 | — |
+| MA06 OA 03 | 3 | Elegir, ejecutar y justificar una estrategia · Razones entre | 20 % | 33 % | 19.0 | — |
+| MA06 OA 04 | 3 | Elegir, ejecutar y justificar una estrategia · Porcentajes c | 20 % | 33 % | 14.8 | — |
+| MA06 OA 14 | 1 | Representar y precisar el concepto · Teselaciones mediante t | 20 % | 20 % | 16.7 | — |
+| EN06 OA 08 | 5 | Communicate independently · Reaccionar y demostrar interés p | 21 % | 21 % | 8.0 | — |
+| EN06 OA 01 | 4 | Interact or compose with support · Demostrar comprensión de  | 21 % | 23 % | 11.3 | — |
+| EN06 OA 06 | 3 | Model a communicative strategy · Leer y demostrar comprensió | 21 % | 17 % | 19.5 | — |
+| EN06 OA 10 | 2 | Locate key words and clues · Expresarse oralmente, ya sea en | 21 % | 23 % | 12.6 | — |
+| MA06 OA 04 | 4 | Resolver un caso con una condición nueva · Porcentajes como  | 21 % | 40 % | 17.6 | — |
+| MA06 OA 13 | 3 | Elegir, ejecutar y justificar una estrategia · Área en cubos | 21 % | 17 % | 21.0 | — |
+| EF06 OA 02 | 2 | Modelar control y decisión motriz · Ejecutar juegos colectiv | 22 % | 21 % | 16.4 | — |
+| MA06 OA 19 | 1 | Representar y precisar el concepto · Volumen de cubos y para | 22 % | 17 % | 14.8 | — |
+| MU06 OA 01 | 2 | Reconocer un rasgo audible · Describir la música escuchada e | 22 % | 20 % | 17.9 | — |
+| LE06 OA 22 | 5 | Producir una respuesta propia · Escribir correctamente para  | 23 % | 14 % | 16.2 | — |
+| EN06 OA 05 | 3 | Model a communicative strategy · Leer y comprender textos li | 23 % | 33 % | 11.5 | — |
+| LE06 OA 14 | 2 | Modelar una lectura o producción · Escribir creativamente na | 23 % | 27 % | 11.5 | — |
+| MU06 OA 01 | 1 | Escuchar antes de nombrar · Describir la música escuchada e  | 23 % | 36 % | 21.4 | — |
+| OR06 OA 02 | 1 | Examinar un caso ficticio protegido · Distinguir y describir | 23 % | 23 % | 12.7 | — |
+| TE06 OA 06 | 3 | Planificar recursos y seguridad · Usar procesador de textos  | 23 % | 23 % | 14.8 | — |
+| HI06 OA 04 | 3 | Relacionar actores, causas y consecuencias · Investigar sobr | 23 % | 42 % | 12.2 | — |
+| LE06 OA 24 | 5 | Producir una respuesta propia · Textos orales (explicaciones | 23 % | 6 % | 12.8 | — |
+| EN06 OA 08 | 2 | Locate key words and clues · Reaccionar y demostrar interés  | 23 % | 33 % | 12.1 | — |
+| EN06 OA 08 | 3 | Model a communicative strategy · Reaccionar y demostrar inte | 23 % | 33 % | 12.8 | — |
+| LE06 OA 22 | 4 | Comparar interpretaciones o decisiones · Escribir correctame | 23 % | 21 % | 14.9 | — |
+| LE06 OA 20 | 3 | Seleccionar evidencia o recursos · Ampliar su capacidad expr | 24 % | 20 % | 18.0 | — |
+| EN06 OA 06 | 1 | Notice purpose and context · Leer y demostrar comprensión de | 24 % | 27 % | 9.7 | — |
+| LE06 OA 10 | 2 | Modelar una lectura o producción · Asistir habitualmente a l | 24 % | 29 % | 12.7 | — |
+| EF06 OA 01 | 2 | Modelar control y decisión motriz · Demostrar la aplicación  | 24 % | 33 % | 16.1 | — |
+| EN06 OA 12 | 3 | Model a communicative strategy · Participar en diálogos con  | 24 % | 20 % | 34.5 | — |
+| TE06 OA 01 | 3 | Planificar recursos y seguridad · Diseños de objetos y siste | 24 % | 36 % | 15.7 | — |
+| OR06 OA 09 | 1 | Examinar un caso ficticio protegido · Practicar en forma aut | 24 % | 25 % | 14.8 | — |
+| EN06 OA 02 | 3 | Model a communicative strategy · Textos orales acerca de tem | 24 % | 20 % | 14.5 | — |
+| EN06 OA 02 | 1 | Notice purpose and context · Textos orales acerca de temas v | 25 % | 14 % | 14.2 | — |
+| LC06 OA LR02 | 4 | Construir una respuesta atribuida · Expresar oralmente el an | 25 % | 21 % | 16.8 | — |
+| LE06 OA 19 | 2 | Modelar una lectura o producción · Incorporar de manera pert | 25 % | 25 % | 14.4 | — |
+| LE06 OA 23 | 5 | Producir una respuesta propia · Y disfrutar versiones comple | 25 % | 36 % | 15.1 | — |
+| MA06 OA 13 | 1 | Representar y precisar el concepto · Área en cubos y paralel | 25 % | 20 % | 16.6 | — |
+| TE06 OA 03 | 2 | Representar una solución · Elaborar un producto tecnológico  | 25 % | 17 % | 14.2 | — |
+| EN06 OA 05 | 5 | Communicate independently · Leer y comprender textos literar | 26 % | 21 % | 11.4 | — |
+| EN06 OA 15 | 4 | Interact or compose with support · Utilizar los pasos del pr | 26 % | 19 % | 11.4 | — |
+| LE06 OA 22 | 1 | Reconocer propósito y desafío · Escribir correctamente para  | 26 % | 29 % | 15.1 | — |
+| LE06 OA 22 | 2 | Modelar una lectura o producción · Escribir correctamente pa | 26 % | 21 % | 11.2 | — |
+| LE06 OA 22 | 3 | Seleccionar evidencia o recursos · Escribir correctamente pa | 26 % | 21 % | 15.6 | — |
+| EF06 OA 06 | 4 | Resolver una situación nueva · Ejecutar actividades físicas  | 26 % | 15 % | 12.5 | — |
+| LE06 OA 27 | 5 | Producir una respuesta propia · Dialogar para compartir y de | 26 % | 33 % | 17.6 | — |
+| AR06 OA 01 | 6 | Revisar sin perder autoría · Trabajos de arte y diseños a pa | 26 % | 38 % | 14.5 | — |
+| LE06 OA 01 | 3 | Seleccionar evidencia o recursos · Leer de manera fluida tex | 26 % | 29 % | 14.3 | — |
+| EN06 OA 12 | 2 | Locate key words and clues · Participar en diálogos con pare | 27 % | 0 % | 51.0 | — |
+| EN06 OA 12 | 4 | Interact or compose with support · Participar en diálogos co | 27 % | 10 % | 60.7 | — |
+| MA06 OA 11 | 1 | Representar y precisar el concepto · Ecuaciones de primer gr | 27 % | 17 % | 13.3 | — |
+| EF06 OA 09 | 2 | Modelar control y decisión motriz · Practicar actividades fí | 27 % | 14 % | 11.6 | — |
+| MU06 OA 03 | 3 | Interpretar o crear con criterio · Escuchar música en forma  | 27 % | 27 % | 19.9 | — |
+| MA06 OA 14 | 2 | Conectar representaciones y lenguaje matemático · Teselacion | 27 % | 17 % | 16.0 | — |
+| MA06 OA 24 | 2 | Conectar representaciones y lenguaje matemático · Gráficos d | 27 % | 38 % | 18.0 | — |
+| MU06 OA 05 | 2 | Reconocer un rasgo audible · Improvisar y crear ideas musica | 27 % | 27 % | 18.6 | — |
+| MU06 OA 05 | 4 | Ensayar y ajustar desde la escucha · Improvisar y crear idea | 27 % | 27 % | 15.8 | — |
+| EN06 OA 07 | 4 | Interact or compose with support · Usar estrategias para apo | 28 % | 38 % | 9.9 | — |
+| LE06 OA 26 | 2 | Modelar una lectura o producción · Apreciar obras de teatro, | 28 % | 25 % | 11.9 | — |
+| LE06 OA 26 | 5 | Producir una respuesta propia · Apreciar obras de teatro, pe | 28 % | 12 % | 15.5 | — |
+| LE06 OA 29 | 2 | Modelar una lectura o producción · Expresarse de manera clar | 28 % | 9 % | 14.0 | — |
+| TE06 OA 05 | 5 | Probar con evidencia · Usar software para organizar y comuni | 28 % | 9 % | 13.2 | — |
+| HI06 OA 23 | 2 | Interrogar fuentes y procedencia · Participar, mediante acci | 28 % | 31 % | 10.8 | — |
+| MA06 OA 09 | 1 | Representar y precisar el concepto · Relaciones en tablas | 28 % | 40 % | 17.7 | — |
+| LE06 OA 06 | 2 | Modelar una lectura o producción · Leer independientemente y | 28 % | 47 % | 15.6 | — |
+| EF06 OA 01 | 4 | Resolver una situación nueva · Demostrar la aplicación de la | 28 % | 8 % | 18.7 | — |
+| AR06 OA 05 | 4 | Crear una respuesta propia · Evaluar críticamente trabajos d | 29 % | 20 % | 18.0 | — |
+| EN06 OA 14 | 5 | Communicate independently · Escribir para realizar las sigui | 29 % | 33 % | 15.6 | — |
+| HI06 OA 10 | 2 | Interrogar fuentes y procedencia · Identificar elementos con | 29 % | 29 % | 12.0 | — |
+| LE06 OA 06 | 4 | Comparar interpretaciones o decisiones · Leer independientem | 29 % | 47 % | 16.5 | — |
+| LE06 OA 24 | 6 | Revisar para una audiencia · Textos orales (explicaciones, i | 29 % | 13 % | 13.8 | — |
+| LE06 OA 26 | 3 | Seleccionar evidencia o recursos · Apreciar obras de teatro, | 29 % | 25 % | 14.1 | — |
+| MA06 OA 13 | 2 | Conectar representaciones y lenguaje matemático · Área en cu | 29 % | 0 % | 17.2 | — |
+| MA06 OA 22 | 2 | Conectar representaciones y lenguaje matemático · Comparació | 29 % | 14 % | 19.0 | — |
+| OR06 OA 04 | 1 | Examinar un caso ficticio protegido · Practicar en forma aut | 29 % | 14 % | 14.4 | — |
+| OR06 OA 06 | 5 | Practicar comunicación o ayuda · Manifestar actitudes de sol | 29 % | 44 % | 19.1 | — |
+| EF06 OA 11 | 3 | Ensayar con variantes accesibles · Practicar actividades fís | 29 % | 36 % | 17.3 | — |
+| EN06 OA 05 | 4 | Interact or compose with support · Leer y comprender textos  | 29 % | 40 % | 12.2 | — |
+| EN06 OA 13 | 2 | Locate key words and clues · Escribir de acuerdo a un modelo | 29 % | 36 % | 9.9 | — |
+| EN06 OA 13 | 4 | Interact or compose with support · Escribir de acuerdo a un  | 29 % | 36 % | 12.0 | — |
+| MU06 OA 03 | 2 | Reconocer un rasgo audible · Escuchar música en forma abunda | 29 % | 27 % | 20.1 | — |
+| LE06 OA 18 | 4 | Comparar interpretaciones o decisiones · Escribir, revisar y | 29 % | 31 % | 9.8 | — |
+| LE06 OA 29 | 1 | Reconocer propósito y desafío · Expresarse de manera clara y | 29 % | 27 % | 14.6 | — |
+| LE06 OA 12 | 2 | Modelar una lectura o producción · Aplicar estrategias para  | 29 % | 33 % | 15.4 | — |
+| MA06 OA 01 | 1 | Representar y precisar el concepto · Factores, múltiplos y n | 29 % | 43 % | 15.9 | — |
+| MA06 OA 09 | 4 | Resolver un caso con una condición nueva · Relaciones en tab | 29 % | 40 % | 15.8 | — |
+| EN06 OA 15 | 3 | Model a communicative strategy · Utilizar los pasos del proc | 30 % | 19 % | 10.4 | — |
+| LC06 OA LS01 | 4 | Construir una respuesta atribuida · Disfrutar y comprender d | 30 % | 21 % | 13.4 | — |
+| MU06 OA 03 | 1 | Escuchar antes de nombrar · Escuchar música en forma abundan | 30 % | 20 % | 21.8 | — |
+| EN06 OA 14 | 4 | Interact or compose with support · Escribir para realizar la | 30 % | 14 % | 19.4 | — |
+| CN06 OA 08 | 2 | Formular una pregunta o predicción · Que la energía es neces | 30 % | 42 % | 13.5 | — |
+| EF06 OA 08 | 1 | Reconocer meta y seguridad · Determinar la intensidad del es | 30 % | 30 % | 13.7 | — |
+| EN06 OA 04 | 1 | Notice purpose and context · Reaccionar y demostrar interés  | 30 % | 40 % | 18.6 | — |
+| LE06 OA 23 | 2 | Modelar una lectura o producción · Y disfrutar versiones com | 30 % | 18 % | 12.1 | — |
+| LE06 OA 23 | 3 | Seleccionar evidencia o recursos · Y disfrutar versiones com | 30 % | 18 % | 17.4 | — |
+| MA06 OA 18 | 3 | Elegir, ejecutar y justificar una estrategia · Superficie de | 30 % | 14 % | 12.5 | — |
+| MA06 OA 19 | 2 | Conectar representaciones y lenguaje matemático · Volumen de | 30 % | 29 % | 14.2 | — |
+| MA06 OA 24 | 1 | Representar y precisar el concepto · Gráficos de barra doble | 30 % | 43 % | 16.8 | — |
+| OR06 OA 04 | 2 | Distinguir hechos, emociones y límites · Practicar en forma  | 30 % | 11 % | 18.8 | — |
+| TE06 OA 04 | 3 | Planificar recursos y seguridad · Probar y evaluar la calida | 30 % | 30 % | 19.6 | — |
+| LE06 OA 24 | 3 | Seleccionar evidencia o recursos · Textos orales (explicacio | 30 % | 12 % | 12.6 | — |
+| EN06 OA 03 | 4 | Interact or compose with support · Escuchar textos orales y  | 30 % | 18 % | 12.5 | — |
+| LE06 OA 27 | 2 | Modelar una lectura o producción · Dialogar para compartir y | 30 % | 33 % | 15.6 | — |
+| LE06 OA 04 | 5 | Producir una respuesta propia · Aspectos relevantes de las n | 31 % | 22 % | 14.9 | — |
+| MA06 OA 22 | 4 | Resolver un caso con una condición nueva · Comparación de di | 31 % | 33 % | 18.4 | — |
+| MU06 OA 01 | 4 | Ensayar y ajustar desde la escucha · Describir la música esc | 31 % | 29 % | 18.7 | — |
+| MU06 OA 08 | 3 | Interpretar o crear con criterio · Reflexionar sobre sus for | 31 % | 11 % | 18.7 | — |
+| OR06 OA 04 | 3 | Comparar opciones y consecuencias · Practicar en forma autón | 31 % | 38 % | 15.1 | respuesta «depende» en ejercicio cerrado |
+| EN06 OA 06 | 4 | Interact or compose with support · Leer y demostrar comprens | 31 % | 17 % | 10.4 | — |
+| EN06 OA 04 | 5 | Communicate independently · Reaccionar y demostrar interés p | 31 % | 36 % | 13.6 | — |
+| EN06 OA 07 | 2 | Locate key words and clues · Usar estrategias para apoyar la | 31 % | 25 % | 12.8 | — |
+| EN06 OA 05 | 2 | Locate key words and clues · Leer y comprender textos litera | 31 % | 47 % | 11.1 | — |
+| EN06 OA 11 | 2 | Locate key words and clues · Demostrar conocimiento y uso de | 31 % | 38 % | 18.5 | — |
+| EN06 OA 11 | 3 | Model a communicative strategy · Demostrar conocimiento y us | 31 % | 38 % | 12.3 | — |
+| LE06 OA 13 | 2 | Modelar una lectura o producción · Escribir frecuentemente,  | 31 % | 36 % | 12.6 | — |
+| MA06 OA 02 | 1 | Representar y precisar el concepto · Operaciones combinadas  | 31 % | 43 % | 15.2 | — |
+| MA06 OA 08 | 1 | Representar y precisar el concepto · Problemas con fraccione | 31 % | 33 % | 10.9 | — |
+| AR06 OA 04 | 2 | Explorar una variable visual · E interpretar obras de arte y | 32 % | 42 % | 14.4 | — |
+| EF06 OA 04 | 4 | Resolver una situación nueva · Planificar y ejecutar activid | 32 % | 33 % | 18.4 | — |
+| EN06 OA 09 | 4 | Interact or compose with support · Reproducir y producir tex | 32 % | 27 % | 11.9 | — |
+| MU06 OA 02 | 4 | Ensayar y ajustar desde la escucha · Expresar, mostrando gra | 32 % | 43 % | 17.4 | — |
+| OR06 OA 04 | 4 | Elegir una acción segura · Practicar en forma autónoma condu | 32 % | 25 % | 11.5 | — |
+| LE06 OA 18 | 3 | Seleccionar evidencia o recursos · Escribir, revisar y edita | 32 % | 38 % | 11.9 | — |
+| LE06 OA 18 | 5 | Producir una respuesta propia · Escribir, revisar y editar s | 32 % | 38 % | 15.0 | — |
+| EF06 OA 11 | 1 | Reconocer meta y seguridad · Practicar actividades físicas y | 32 % | 42 % | 16.2 | — |
+| EN06 OA 02 | 4 | Interact or compose with support · Textos orales acerca de t | 32 % | 21 % | 13.5 | — |
+| EN06 OA 15 | 2 | Locate key words and clues · Utilizar los pasos del proceso  | 32 % | 31 % | 15.7 | — |
+| HI06 OA 11 | 1 | Ubicar en tiempo y espacio · Caracterizar geográficamente la | 32 % | 40 % | 13.5 | — |
+| LC06 OA LS03 | 5 | Contrastar sin jerarquizar · Textos orales y escritos propio | 32 % | 38 % | 16.8 | — |
+| LE06 OA 06 | 5 | Producir una respuesta propia · Leer independientemente y co | 32 % | 47 % | 15.3 | — |
+| LE06 OA 31 | 1 | Reconocer propósito y desafío · Textos orales espontáneos o  | 32 % | 45 % | 15.4 | — |
+| OR06 OA 03 | 1 | Examinar un caso ficticio protegido · Reconocer y valorar el | 32 % | 30 % | 19.3 | — |
+| OR06 OA 03 | 4 | Elegir una acción segura · Reconocer y valorar el proceso de | 32 % | 20 % | 16.2 | — |
+| EF06 OA 09 | 3 | Ensayar con variantes accesibles · Practicar actividades fís | 32 % | 23 % | 21.4 | — |
+| LE06 OA 04 | 4 | Comparar interpretaciones o decisiones · Aspectos relevantes | 32 % | 44 % | 17.1 | — |
+| EN06 OA 07 | 5 | Communicate independently · Usar estrategias para apoyar la  | 32 % | 43 % | 10.5 | — |
+| EN06 OA 03 | 3 | Model a communicative strategy · Escuchar textos orales y ap | 32 % | 27 % | 15.6 | — |
+| HI06 OA 02 | 2 | Interrogar fuentes y procedencia · El desarrollo del proceso | 32 % | 25 % | 14.0 | — |
+| OR06 OA 09 | 2 | Distinguir hechos, emociones y límites · Practicar en forma  | 32 % | 31 % | 13.1 | — |
+| LE06 OA 24 | 2 | Modelar una lectura o producción · Textos orales (explicacio | 33 % | 25 % | 12.5 | — |
+| MU06 OA 03 | 5 | Comunicar una decisión musical · Escuchar música en forma ab | 33 % | 30 % | 18.5 | — |
+| LE06 OA 04 | 1 | Reconocer propósito y desafío · Aspectos relevantes de las n | 33 % | 33 % | 13.4 | — |
+| LE06 OA 29 | 5 | Producir una respuesta propia · Expresarse de manera clara y | 33 % | 18 % | 15.1 | — |
+| AR06 OA 04 | 5 | Interpretar y fundamentar · E interpretar obras de arte y ob | 33 % | 45 % | 12.8 | — |
+| CN06 OA 03 | 3 | Modelar el sistema o fenómeno · Los efectos de la actividad  | 33 % | 38 % | 14.5 | — |
+| CN06 OA 17 | 4 | Comparar resultados con un criterio · Investigar experimenta | 33 % | 45 % | 13.7 | — |
+| EN06 OA 01 | 1 | Notice purpose and context · Demostrar comprensión de textos | 33 % | 38 % | 12.1 | — |
+| EN06 OA 08 | 1 | Notice purpose and context · Reaccionar y demostrar interés  | 33 % | 33 % | 15.3 | — |
+| EN06 OA 14 | 2 | Locate key words and clues · Escribir para realizar las sigu | 33 % | 14 % | 38.0 | — |
+| EN06 OA 14 | 3 | Model a communicative strategy · Escribir para realizar las  | 33 % | 29 % | 28.6 | — |
+| HI06 OA 03 | 4 | Comparar perspectivas o territorios · Describir algunos hito | 33 % | 36 % | 17.6 | — |
+| HI06 OA 04 | 2 | Interrogar fuentes y procedencia · Investigar sobre algunos  | 33 % | 45 % | 16.6 | — |
+| HI06 OA 06 | 2 | Interrogar fuentes y procedencia · Caracterizar los principa | 33 % | 38 % | 15.8 | — |
+| HI06 OA 07 | 4 | Comparar perspectivas o territorios · Y dar ejemplos de la p | 33 % | 17 % | 16.2 | — |
+| LC06 OA LR01 | 3 | Reconocer relaciones culturales · Disfrutar y comprender dif | 33 % | 23 % | 16.2 | — |
+| LC06 OA LS02 | 2 | Escuchar o leer con límites declarados · Describir oralmente | 33 % | 43 % | 13.9 | — |
+| LE06 OA 04 | 6 | Revisar para una audiencia · Aspectos relevantes de las narr | 33 % | 38 % | 18.5 | — |
+| LE06 OA 19 | 4 | Comparar interpretaciones o decisiones · Incorporar de maner | 33 % | 33 % | 15.4 | — |
+| LE06 OA 24 | 4 | Comparar interpretaciones o decisiones · Textos orales (expl | 33 % | 44 % | 11.9 | — |
+| MA06 OA 15 | 3 | Elegir, ejecutar y justificar una estrategia · Construcción  | 33 % | 43 % | 13.9 | — |
+| MA06 OA 16 | 2 | Conectar representaciones y lenguaje matemático · Ángulos en | 33 % | 29 % | 13.2 | — |
+| MA06 OA 17 | 2 | Conectar representaciones y lenguaje matemático · Suma de án | 33 % | 33 % | 15.4 | — |
+| MA06 OA 18 | 4 | Resolver un caso con una condición nueva · Superficie de cub | 33 % | 33 % | 15.9 | — |
+| OR06 OA 07 | 1 | Examinar un caso ficticio protegido · Conflictos de conviven | 33 % | 33 % | 12.1 | — |
+| OR06 OA 08 | 2 | Distinguir hechos, emociones y límites · Participar activa y | 33 % | 36 % | 14.0 | — |
+| OR06 OA 09 | 3 | Comparar opciones y consecuencias · Practicar en forma autón | 33 % | 25 % | 19.6 | — |
+| TE06 OA 06 | 5 | Probar con evidencia · Usar procesador de textos para crear, | 33 % | 33 % | 14.5 | — |
+| TE06 OA 07 | 1 | Definir necesidad, usuario y criterio · Usar internet y comu | 33 % | 29 % | 16.0 | — |
+| MU06 OA 02 | 3 | Interpretar o crear con criterio · Expresar, mostrando grado | 35 % | 43 % | 23.5 | — |
+| CN06 OA 18 | 4 | Comparar resultados con un criterio · Las consecuencias de l | 36 % | 50 % | 22.4 | — |
+| MU06 OA 08 | 2 | Reconocer un rasgo audible · Reflexionar sobre sus fortaleza | 36 % | 20 % | 22.1 | — |
+| EF06 OA 09 | 4 | Resolver una situación nueva · Practicar actividades físicas | 36 % | 38 % | 20.2 | — |
+| LE06 OA 06 | 3 | Seleccionar evidencia o recursos · Leer independientemente y | 41 % | 47 % | 20.5 | — |
+| CN06 OA 15 | 1 | Observar y separar evidencia de interpretación · Medir e int | 42 % | 42 % | 26.0 | — |
+| CN06 OA 15 | 3 | Modelar el sistema o fenómeno · Medir e interpretar la infor | 42 % | 42 % | 20.8 | — |
+| OR06 OA 05 | 3 | Comparar opciones y consecuencias · Reconocer y describir ca | 46 % | 50 % | 20.4 | — |
+| MA06 OA 15 | 2 | Conectar representaciones y lenguaje matemático · Construcci | 47 % | 29 % | 25.8 | — |
+| LC06 OA LS02 | 4 | Construir una respuesta atribuida · Describir oralmente dife | 50 % | 50 % | 20.5 | — |
+| LE06 OA 28 | 6 | Revisar para una audiencia · Interactuar de acuerdo con las  | 50 % | 38 % | 20.4 | — |
+| MA06 OA 20 | 1 | Representar y precisar el concepto · Estimación y medición d | 50 % | 33 % | 20.1 | — |
+| MU06 OA 02 | 2 | Reconocer un rasgo audible · Expresar, mostrando grados crec | 50 % | 36 % | 29.1 | — |
+| MU06 OA 04 | 2 | Reconocer un rasgo audible · Cantar al unísono y a más voces | 50 % | 62 % | 21.7 | — |
+| MU06 OA 02 | 1 | Escuchar antes de nombrar · Expresar, mostrando grados creci | 53 % | 71 % | 20.4 | — |
+| EF06 OA 05 | 3 | Ensayar con variantes accesibles · Demostrar la correcta eje | 56 % | 62 % | 23.9 | — |
+| HI06 OA 21 | 3 | Relacionar actores, causas y consecuencias · Trabajar en equ | 56 % | 58 % | 14.0 | respuesta «depende» en ejercicio cerrado |
+| EF06 OA 03 | 1 | Reconocer meta y seguridad · Practicar deportes individuales | 57 % | 45 % | 21.6 | — |
+| HI06 OA 14 | 1 | Ubicar en tiempo y espacio · Cómo han influido los desastres | 57 % | 69 % | 23.7 | — |
+| HI06 OA 12 | 1 | Ubicar en tiempo y espacio · Comparar diversos ambientes nat | 58 % | 76 % | 24.4 | — |
+| LC06 OA LF05 | 3 | Reconocer relaciones culturales · El sentido de la revitaliz | 58 % | 67 % | 21.4 | — |
+| TE06 OA 05 | 1 | Definir necesidad, usuario y criterio · Usar software para o | 58 % | 62 % | 21.9 | — |
+| LE06 OA 09 | 1 | Reconocer propósito y desafío · Desarrollar el gusto por la  | 60 % | 60 % | 20.1 | — |
+| LE06 OA 03 | 2 | Modelar una lectura o producción · Leer y familiarizarse con | 62 % | 58 % | 11.0 | respuesta «depende» en ejercicio cerrado |
+| CN06 OA 12 | 2 | Formular una pregunta o predicción · Explicar, a partir de m | 67 % | 70 % | 14.6 | respuesta «depende» en ejercicio cerrado |
+| CN06 OA 15 | 5 | Explicar con evidencia y límites · Medir e interpretar la in | 67 % | 67 % | 14.2 | respuesta «depende» en ejercicio cerrado |
+| EF06 OA 01 | 1 | Reconocer meta y seguridad · Demostrar la aplicación de las  | 67 % | 55 % | 25.3 | — |
+| EF06 OA 04 | 1 | Reconocer meta y seguridad · Planificar y ejecutar actividad | 67 % | 64 % | 23.1 | — |
+| LC06 OA 16 | 1 | Situar pueblo, territorio y fuente · Valorar y expresar a tr | 74 % | 67 % | 26.3 | — |
+| LC06 OA LR03 | 2 | Escuchar o leer con límites declarados · Textos orales y esc | 74 % | 62 % | 21.0 | — |
+| MU06 OA 06 | 4 | Ensayar y ajustar desde la escucha · Presentar su trabajo mu | 75 % | 75 % | 21.7 | — |
+| MU06 OA 08 | 1 | Escuchar antes de nombrar · Reflexionar sobre sus fortalezas | 79 % | 70 % | 26.9 | — |
+| LC06 OA 09 | 1 | Situar pueblo, territorio y fuente · Problematizar la relaci | 93 % | 100 % | 23.0 | — |
+| HI06 OA 17 | 1 | Ubicar en tiempo y espacio · Que todas las personas tienen d | 95 % | 100 % | 21.4 | — |

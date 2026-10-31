@@ -5,6 +5,16 @@
   "updates": [
     {
       "date": "2026-10-31",
+      "title": "6° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
+      "summary": [
+        "Las 876 clases de 6° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 5° básico.",
+        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió afirmaciones falsas o dudosas, ejercicios que citaban un texto no entregado, ejercicios idénticos al ejemplo resuelto, 328 ejercicios A/B con la respuesta siempre en la A, cifras irreales, riesgos de seguridad y de protección en línea, atribuciones culturales inventadas y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron más de 60 enunciados idénticos entre asignaturas.",
+        "El análisis de alineación cubre ahora 1° a 6° básico, y la lista de contenidos para especialistas incluye 6° básico.",
+        "Siguen abiertos: software y programas reales, audio, video y escucha de música, obras de arte y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
+      ]
+    },
+    {
+      "date": "2026-10-31",
       "title": "5° básico: revisión posterior del cuaderno",
       "summary": [
         "Se revisó de nuevo el cuaderno de 5° básico: las 11.817 respuestas con cálculo siguen verificadas por el validador, y se buscaron ejercicios que citan un texto, imagen o tabla que el enunciado no entrega.",
@@ -21,17 +31,6 @@
         "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió afirmaciones falsas (rima asonante, virus y célula, adobe y teja como prueba de lo colonial), unos 190 ejercicios de Lenguaje que citaban un texto no entregado, ejercicios idénticos al ejemplo resuelto, cifras irreales, riesgos de seguridad y de protección en línea, ritos y atribuciones culturales inventados, y estereotipos. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron 53 enunciados de definición idénticos entre asignaturas.",
         "El análisis de alineación cubre ahora 1° a 5° básico, y la lista de contenidos para especialistas incluye 5° básico. A diferencia de 4° básico, no se halló un desajuste entre el texto del OA y los títulos de las clases que obligara a cambiar el contenido.",
         "Siguen abiertos: software y programas reales (hojas de cálculo, geometría, presentaciones), audio, video y escucha de música, obras de arte y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), y decisiones que dependen del programa oficial. Sin revisión profesional humana."
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "title": "4° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
-      "summary": [
-        "Las 811 clases de 4° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 3° básico.",
-        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió respuestas falsas (99 − 45, ruta del nervio óptico, cifras del interior de la Tierra), datos inseguros, ejercicios no enseñados, textos que no se entregaban, aritmética fuera de nivel y riesgos de seguridad. Se cerraron vacíos frente al OA dentro de las clases existentes (ortografía de Lenguaje OA 21, hojas de cálculo de Tecnología OA 05, entre otros) y se reescribieron 70 enunciados de definición idénticos entre asignaturas.",
-        "Se documenta un desajuste del currículo: en Lenguaje (OA 11 a 18) y en Lengua y Cultura (OA 10 a 16) el texto del OA no coincide con los títulos de las clases. No se corrigió; se anota en el análisis de alineación.",
-        "El análisis de alineación cubre ahora 1° a 4° básico, y la lista de contenidos para especialistas incluye 4° básico.",
-        "Siguen abiertos: escucha de al menos 20 músicas, 45 obras de arte al año, textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), software, audio y video, y decisiones que dependen del programa oficial. Sin revisión profesional humana."
       ]
     }
   ]

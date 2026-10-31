@@ -88,7 +88,7 @@ L(
     ],
     context=[ex("Tu curso hará una presentación digital para dar la bienvenida a una visita. ¿Qué escribes como propósito: «dar la bienvenida con una palabra autorizada» o «mostrar fotos de todos»?", "dar la bienvenida con una palabra autorizada", "Es un propósito claro y no expone a nadie.")],
     selfcheck=[
-        ex("¿Qué significa la sigla TIC?", "tecnologías de la información y la comunicación", "Es el nombre de esos aparatos y herramientas."),
+        ex("En Lengua y Cultura: ¿Qué significa la sigla TIC?", "tecnologías de la información y la comunicación", "Es el nombre de esos aparatos y herramientas."),
         ex("¿Quién decide si su voz o su imagen aparecen en un recurso?", "la propia persona", "Nadie puede decidirlo por otra."),
         ex("¿Qué dos cosas debo acordar además de los límites?", "el propósito y la audiencia", "Son las tres partes del acuerdo."),
     ],

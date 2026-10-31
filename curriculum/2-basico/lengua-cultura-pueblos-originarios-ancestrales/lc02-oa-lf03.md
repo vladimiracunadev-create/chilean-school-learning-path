@@ -805,7 +805,7 @@ Respuesta: Digo que no sé qué significa y que lo preguntaré al educador
 *Autoevaluación*
 
 - **E1.** ¿Qué es citar?
-- **E2.** ¿Qué es un límite?
+- **E2.** En Lengua y Cultura: ¿Qué es un límite?
 - **E3.** ¿Qué haces con un resumen después de hacerlo?
 
 **Actividad abierta.** Lee este cuento inventado: «Título: El viento del patio. Texto: Sol siente el viento en el patio. Mueve las hojas y apaga la vela del cumpleaños. Sol sonríe y pide otro deseo». Escribe: 1) una cita (título y que fue inventado para este cuaderno), 2) un resumen de una frase y 3) un límite (algo que te gustaría preguntar a un educador tradicional sobre el viento).

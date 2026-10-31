@@ -60,8 +60,8 @@ register(
     },
     context=[ex("Una familia pasea por la costa de Chile y compra pescado en una caleta. ¿Qué recurso natural usó y de qué tipo es?", "los peces; renovable", "Los peces se renuevan si se pesca con cuidado.")],
     selfcheck=[
-        ex("¿Qué es un recurso renovable?", "uno que se renueva con el tiempo si se usa con cuidado", "Es la definición de la ficha."),
-        ex("¿Qué es un recurso no renovable?", "uno que no se renueva en el tiempo humano", "Se formó en millones de años."),
+        ex("En Historia: ¿Qué es un recurso renovable?", "uno que se renueva con el tiempo si se usa con cuidado", "Es la definición de la ficha."),
+        ex("En Historia: ¿Qué es un recurso no renovable?", "uno que no se renueva en el tiempo humano", "Se formó en millones de años."),
         ex("¿Dónde se extrae sobre todo el cobre en Chile?", "en el norte", "La ficha lo indica."),
     ],
     open_task=task(
@@ -628,7 +628,7 @@ register(
     },
     context=[ex("En un diario ves un mapa sin leyenda con triángulos rojos. ¿Qué harías antes de decir qué recurso representan?", "buscar una leyenda o una explicación del mapa", "Sin leyenda no se sabe qué significan.")],
     selfcheck=[
-        ex("¿Qué es una leyenda?", "la explicación de los símbolos de un mapa", "Dice qué significa cada símbolo."),
+        ex("En Historia: ¿Qué es una leyenda?", "la explicación de los símbolos de un mapa", "Dice qué significa cada símbolo."),
         ex("¿Qué recurso es el triángulo en el mapa de práctica?", "el cobre", "La leyenda lo dice."),
         ex("¿Qué hace más confiable a un mapa?", "tener título, autor, año y leyenda", "Así se puede comprobar."),
     ],

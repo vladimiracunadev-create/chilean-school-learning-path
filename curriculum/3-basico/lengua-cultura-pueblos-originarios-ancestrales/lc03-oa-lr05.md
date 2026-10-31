@@ -177,7 +177,7 @@ Respuesta: B
 
 *Autoevaluación*
 
-- **E1.** ¿Qué significa la sigla TIC?
+- **E1.** En Lengua y Cultura: ¿Qué significa la sigla TIC?
 - **E2.** ¿Quién decide si su voz o su imagen aparecen en un recurso?
 - **E3.** ¿Qué dos cosas debo acordar además de los límites?
 

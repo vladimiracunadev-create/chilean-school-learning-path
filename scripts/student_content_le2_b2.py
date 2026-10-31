@@ -278,7 +278,7 @@ reg(
     ([E("«Tita pidió ayuda a una gaviota. Como la gaviota conocía el camino, le mostró el atajo.» ¿Cuál es la acción de Tita?", "Pedir ayuda a una gaviota", "Es lo que hace el personaje."),
       E("«Tita pidió ayuda a una gaviota. Como la gaviota conocía el camino, le mostró el atajo.» ¿Qué consecuencia tuvo?", "La gaviota le mostró el atajo", "Ocurre a causa de que pidió ayuda."),
       E("¿Qué palabra une «Llovió mucho» con «el río creció» en «Llovió mucho, por eso el río creció»?", "Por eso", "Es el conector entre causa y consecuencia.")],
-     [E("¿Qué es una consecuencia?", "Lo que ocurre a causa de una acción", "Viene después y depende de la acción."),
+     [E("En Lenguaje: ¿Qué es una consecuencia?", "Lo que ocurre a causa de una acción", "Viene después y depende de la acción."),
       E("¿Qué hace un conector?", "Une ideas y muestra su relación", "Ayuda a ver causa y consecuencia."),
       E("Elige el conector: «Tenía sed, ______ bebió agua». a) por eso b) pero", "a", "La sed es la causa de beber.")],
      [E("Une con «por eso»: «Pipo tenía frío» y «se puso un abrigo».", "Pipo tenía frío, por eso se puso un abrigo", "El frío es la causa."),

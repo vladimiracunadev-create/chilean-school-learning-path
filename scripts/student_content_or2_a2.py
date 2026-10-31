@@ -130,7 +130,7 @@ lesson(
         ex("¿Dar una pista es una ayuda?", "Sí", "Ayuda sin quitar el esfuerzo."),
     ],
     U=[
-        ex("¿Qué es la autonomía?", "Poder hacer algo por uno mismo", "Cada persona puede hacer cosas sola."),
+        ex("En Orientación: ¿Qué es la autonomía?", "Poder hacer algo por uno mismo", "Cada persona puede hacer cosas sola."),
         ex("¿Hacerlo todo por el otro siempre es la mejor ayuda?", "No", "A veces le quita la oportunidad de aprender."),
         ex("¿Si alguien está en peligro hay que esperar a que pida ayuda?", "No", "Hay que avisar de inmediato a un adulto."),
     ],

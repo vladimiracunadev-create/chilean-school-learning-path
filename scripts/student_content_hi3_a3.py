@@ -259,7 +259,7 @@ register(
     context=[ex("Para una exposición, un niño escribe la misma frase del libro sin cambiar nada. ¿Qué debe hacer?", "escribir la idea con sus palabras y nombrar la fuente", "Así parafrasea y reconoce la fuente.")],
     selfcheck=[
         ex("¿Qué es copiar?", "escribir las mismas palabras de la fuente", "No es lo mismo que parafrasear."),
-        ex("¿Qué columnas tiene la tabla de registro?", "pregunta, dato, fuente y con mis palabras", "La tabla tiene cuatro columnas."),
+        ex("En Historia: ¿Qué columnas tiene la tabla de registro?", "pregunta, dato, fuente y con mis palabras", "La tabla tiene cuatro columnas."),
         ex("¿Por qué anotamos la fuente?", "para saber de dónde viene el dato", "Así se puede comprobar."),
     ],
     open_task=task(

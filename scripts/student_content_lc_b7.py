@@ -233,7 +233,7 @@ register(
             ex("¿Dices «no lo sé» cuando no lo sabes?", "Sí", "Es una muestra de honestidad."),
         ],
         "understand": [
-            ex("¿Qué es un límite?", "Lo que no sé", "Es reconocer qué falta."),
+            ex("En Lengua y Cultura: ¿Qué es un límite?", "Lo que no sé", "Es reconocer qué falta."),
             ex("¿Por qué no se inventan los significados?", "Porque pueden ser falsos", "Solo la comunidad los conoce."),
             ex("¿Cuáles son las tres partes de la despedida?", "Lo que aprendí, lo que pregunto y gracias", "Esas son las tres partes."),
         ],

@@ -553,7 +553,7 @@ register(
         ],
         "understand": [
             ex("¿Qué muestra un pictograma?", "Datos con símbolos y una clave", "Cada símbolo vale lo que dice la clave."),
-            ex("¿Qué muestra un gráfico de barras?", "Datos con barras de altura igual a la frecuencia", "Compara alturas desde el 0."),
+            ex("En Matemática: ¿Qué muestra un gráfico de barras?", "Datos con barras de altura igual a la frecuencia", "Compara alturas desde el 0."),
             ex("¿Pueden dos gráficos distintos mostrar los mismos datos?", "Sí", "Cambian sólo la forma de mostrarlos."),
         ],
         "apply": [

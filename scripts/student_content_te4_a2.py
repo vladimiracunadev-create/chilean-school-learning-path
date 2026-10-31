@@ -299,7 +299,7 @@ reg(
     ],
     ctx=("Tu plan para un porta-lápices usa cartón de una caja reutilizada y tijeras de punta roma. Ahora no hay tijeras, pero puedes plegar el cartón y usar cinta, y debes guardar 5 lápices. Escribe qué técnica cambiarías y qué comprobarías.", "Cambiaría cortar por plegar el cartón en forma de cajita; comprobaría que guarda 5 lápices y que no tiene puntas", "Adapta la técnica y comprueba el criterio."),
     sc=[
-        ("¿Qué es transferir?", "Usar lo aprendido en una situación nueva", "Permite resolver cambios sin empezar de cero."),
+        ("En Tecnología: ¿Qué es transferir?", "Usar lo aprendido en una situación nueva", "Permite resolver cambios sin empezar de cero."),
         ("¿Qué tres condiciones suelen cambiar?", "Material, herramienta y tiempo", "Son las tres de la clase."),
         ("¿Se justifica un cambio con gustos o con un criterio?", "Con un criterio", "El criterio se puede comprobar."),
     ],

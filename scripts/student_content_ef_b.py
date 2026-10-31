@@ -564,7 +564,7 @@ register(
             ex("Mover las manos como si acariciaras una pluma, ¿es suave o fuerte?", "Suave", "Se hace con poca fuerza."),
         ],
         "understand": [
-            ex("¿Qué es el pulso?", "El latido regular de la música", "Es un golpe constante, como un reloj."),
+            ex("En Educación Física: ¿Qué es el pulso?", "El latido regular de la música", "Es un golpe constante, como un reloj."),
             ex("¿Qué es la energía de un movimiento?", "Cuánta fuerza uso", "Puede ser suave o fuerte."),
             ex("Si te falta el aire al bailar, ¿qué haces?", "Bajar el ritmo y beber agua", "Así te recuperas con calma."),
         ],

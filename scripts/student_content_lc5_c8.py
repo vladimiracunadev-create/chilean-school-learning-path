@@ -199,7 +199,7 @@ L(
     C=[
         ex(CON + " Verdadero o falso: la vecina permitió usar el audio en cualquier lugar.", "Falso", "Solo en la sala del curso."),
         ex(CON + " ¿Qué pidió la vecina para después de fin de año?", "que le devolvieran el audio", "Lo dice la situación."),
-        ex("Cumplir lo prometido, ¿genera confianza o desconfianza?", "confianza", "Las personas confían en quien cumple."),
+        ex("En Lengua y Cultura: Cumplir lo prometido, ¿genera confianza o desconfianza?", "confianza", "Las personas confían en quien cumple."),
     ],
     A=[
         ex("Une cada elemento con su significado: A) consentimiento, B) plazo, C) devolución. Significados: 1) tiempo de validez del permiso, 2) entregar lo registrado a quien lo aportó, 3) el sí informado de la persona. Escribe los tres pares.", "A-3, B-1, C-2", "Cada palabra tiene su sentido visto en la clase."),

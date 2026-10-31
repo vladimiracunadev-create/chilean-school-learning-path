@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-31 · 6° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 876 clases de 6° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 21 bloques de trabajo con el brief ampliado con los defectos hallados en 1° a 5° básico.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió afirmaciones falsas o dudosas, ejercicios que citaban un texto no entregado, ejercicios idénticos al ejemplo resuelto, 328 ejercicios A/B con la respuesta siempre en la A, cifras irreales, riesgos de seguridad y de protección en línea, atribuciones culturales inventadas y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron más de 60 enunciados idénticos entre asignaturas.
+- El análisis de alineación cubre ahora 1° a 6° básico, y la lista de contenidos para especialistas incluye 6° básico.
+- Siguen abiertos: software y programas reales, audio, video y escucha de música, obras de arte y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional.
+
 ## 2026-10-31 · 5° básico: revisión posterior del cuaderno
 
 - Se revisó de nuevo el cuaderno de 5° básico: las 11.817 respuestas con cálculo siguen verificadas por el validador, y se buscaron ejercicios que citan un texto, imagen o tabla que el enunciado no entrega.

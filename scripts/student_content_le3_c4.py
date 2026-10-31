@@ -127,7 +127,7 @@ L(OA23, 3,
   [E("Mañana se leerá el episodio 3 del cuento de Mora. Para recordar el episodio 2, ¿qué pregunta te haces: «¿Quién estaba atrapado?» o «¿Qué color tiene mi lápiz?»", "¿Quién estaba atrapado?", "Esa pregunta recuerda lo importante.")],
   [E("¿Para qué recuerdo lo que pasó antes?", "Para entender mejor el siguiente episodio", "Las partes se conectan."),
    E("¿Qué tres preguntas ayudan: quién, qué pasó y por qué?", "Quién, qué pasó y por qué", "Resumen cada episodio."),
-   E("¿Qué son las palabras clave?", "Palabras que resumen una parte", "Ayudan a recordar.")],
+   E("En Lenguaje: ¿Qué son las palabras clave?", "Palabras que resumen una parte", "Ayudan a recordar.")],
   ("Escucha esta historia en tres partes que lee un adulto. Episodio 1: «Nico perdió su gorro en el parque». Episodio 2: «Un perro lo encontró y lo llevó a una niña». Episodio 3: «La niña buscó a Nico y le devolvió el gorro». Escribe una palabra clave por episodio y, con esas tres palabras, cuenta la historia con tus palabras.", "Palabras clave: gorro, perro, devolvió. «Nico perdió su gorro, un perro lo llevó a una niña y ella se lo devolvió».", ["escribe una palabra clave por episodio", "cuenta la historia en orden", "no inventa partes que no están"], ["tres palabras clave", "resumen oral o escrito"], ["cambiar el orden", "olvidar un episodio"], "Cuéntale la historia a otra persona y pregunta si la entendió."),
   "Antes de escuchar la siguiente parte de un cuento, recuerda en voz alta qué pasó antes.",
   "Escribe tres palabras clave de una historia que conozcas y cuéntala en orden.")

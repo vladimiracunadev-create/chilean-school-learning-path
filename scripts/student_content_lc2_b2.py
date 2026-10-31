@@ -262,7 +262,7 @@ register(
     context=[ex("Quieres contar en la feria escolar el relato que oíste. ¿Qué es lo primero que dices?", "Quién lo contó y que tuve su permiso", "Se reconoce a la fuente.")],
     selfcheck=[
         ex("¿Qué es citar la fuente?", "Decir quién enseñó o contó", "Reconoce a quien enseñó."),
-        ex("¿Qué es un límite?", "Lo que no sé", "Es lo que no entendí o no recuerdo."),
+        ex("En Lengua y Cultura: ¿Qué es un límite?", "Lo que no sé", "Es lo que no entendí o no recuerdo."),
         ex("¿Qué haces si no recuerdas el final?", "Digo que no lo recuerdo", "No se inventa."),
     ],
     open_task=task(

@@ -550,7 +550,7 @@ reg(
     ],
     ctx=("Lía tiene 6 objetos de su pieza: pelota, caja de zapatos, reloj redondo, cuaderno, moneda y pizarra rectangular. Clasifica con la regla de esquinas. ¿Cuántos van con esquinas?", "3", "Caja, cuaderno y pizarra."),
     sc=[
-        ("¿Qué es transferir?", "Usar lo aprendido en otra situación", "Se aplica en lo nuevo."),
+        ("En Tecnología: ¿Qué es transferir?", "Usar lo aprendido en otra situación", "Se aplica en lo nuevo."),
         ("¿Cómo cierras un programa?", "Con el botón de salir", "Se cierra bien."),
         ("¿Descansas la vista? Responde sí o no.", "Sí", "Se hacen pausas."),
     ],

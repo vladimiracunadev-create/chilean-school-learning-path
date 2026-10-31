@@ -142,7 +142,7 @@ reg(
     ([E("Fuente A tiene autora y año. Fuente B no tiene ni autor ni fecha. ¿Cuál es más confiable?", "La A", "Tiene datos que permiten comprobar de dónde viene."),
       E("Dos fuentes dicen lo mismo. ¿El dato es más seguro o menos seguro?", "Más seguro", "Dos fuentes que coinciden se apoyan entre sí."),
       E("En Lenguaje: ¿Qué significa citar la fuente?", "Decir de qué texto y de qué autor sale el dato", "Así se reconoce de dónde viene la información.")],
-     [E("¿Por qué conviene mirar la fecha de una fuente?", "Para saber si la información es actual", "Algunos datos cambian con el tiempo."),
+     [E("En Lenguaje: ¿Por qué conviene mirar la fecha de una fuente?", "Para saber si la información es actual", "Algunos datos cambian con el tiempo."),
       E("Dos fuentes no coinciden. ¿Qué haces: elegir la que te gusta o buscar una tercera?", "Buscar una tercera", "Así se comprueba cuál dice lo correcto."),
       E("Texto: «Las abejas obreras recogen néctar». ¿Cuál lo dice con otras palabras: A) «Las abejas obreras recogen néctar», B) «Las abejas que trabajan juntan jugo dulce de flores»?", "B", "B cambia las palabras y mantiene la idea.")],
      [E("«La fuente A dice que hay una sola reina por colmena y la enciclopedia dice lo mismo. Una página sin autor dice cinco reinas.» ¿Qué dato aceptas?", "Una reina por colmena", "Dos fuentes con autor coinciden."),

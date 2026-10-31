@@ -257,7 +257,7 @@ register(
     context=[ex("Vas a presentar un cartel con palabras de la lengua del pueblo de tu comunidad. ¿Qué agregas para respetar a quien te enseñó?", "Su nombre como fuente", "Se reconoce a quien enseñó.")],
     selfcheck=[
         ex("¿Qué es citar?", "Decir de dónde viene la información", "Es dar la fuente."),
-        ex("¿Qué es un límite?", "Lo que no sé", "Es lo que falta."),
+        ex("En Lengua y Cultura: ¿Qué es un límite?", "Lo que no sé", "Es lo que falta."),
         ex("¿Qué haces con un resumen después de hacerlo?", "Lo muestro a quien enseñó", "Para que lo revise."),
     ],
     open_task=task(

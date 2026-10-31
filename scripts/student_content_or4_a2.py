@@ -249,7 +249,7 @@ lesson(
         ex("¿Todas las personas empiezan la pubertad el mismo día?", "No", "Cada cuerpo empieza en su tiempo."),
     ],
     U=[
-        ex("¿Qué son las hormonas?", "Mensajeros químicos que causan los cambios", "El cuerpo las produce y provocan los cambios."),
+        ex("En Orientación: ¿Qué son las hormonas?", "Mensajeros químicos que causan los cambios", "El cuerpo las produce y provocan los cambios."),
         ex("Si un amigo cambió antes que tú, ¿significa que algo anda mal en ti?", "No", "No hay un calendario único."),
         ex("¿La voz que se hace más grave es un cambio de la pubertad?", "Sí", "Es un cambio físico esperable, sobre todo en los varones."),
     ],
