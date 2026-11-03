@@ -214,7 +214,7 @@ register(
     ],
     tiers=tiers(
         [ex("¿Cuáles son las tres partes de una opinión argumentada?", "Afirmación, evidencia y explicación", "Es la estructura de la clase."),
-         ex("¿Qué es la evidencia?", "Un dato, ejemplo o fuente que apoya la afirmación", "Sostiene la idea principal."),
+         ex("En Historia: ¿Qué es la evidencia?", "Un dato, ejemplo o fuente que apoya la afirmación", "Sostiene la idea principal."),
          ex("«Todos lo piensan», ¿es una buena evidencia?", "No", "No se puede comprobar con un dato.")],
         [ex("¿Para qué sirve la explicación en un argumento?", "Para mostrar por qué la evidencia apoya la afirmación", "Une la evidencia con la idea."),
          ex("¿Qué logra quien responde un contraargumento?", "Hace su opinión más sólida", "Muestra que pensó en la otra razón."),

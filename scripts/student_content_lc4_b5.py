@@ -71,7 +71,7 @@ L(
     context=[ex("Encuentras un papel que dice: «Los invitamos al acto del curso». ¿Qué propósito tiene: «invitar» o «despedirse»?", "«invitar»", "La palabra «invitamos» lo indica.")],
     selfcheck=[
         ex("¿Qué dato dice quién escribió un texto?", "la fuente", "Fuente es el origen."),
-        ex("¿Qué es el propósito?", "para qué se escribió", "Es el motivo del texto."),
+        ex("En Lengua y Cultura: ¿Qué es el propósito?", "para qué se escribió", "Es el motivo del texto."),
         ex("¿Qué palabra de la ficha agradece?", "chaltumay", "Significa gracias en mapuzugun."),
     ],
     task=T(

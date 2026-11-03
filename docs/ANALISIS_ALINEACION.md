@@ -1247,3 +1247,258 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | AR07 OA 06 | 1 | Caracterizar museo, galería, espacio público y plataforma di | 88 % | 100 % | 20.8 | — |
 | LE07 OA 10 | 1 | Formular una necesidad de contexto | 89 % | 100 % | 21.0 | — |
 | AR07 OA 02 | 1 | Definir intención y criterios de sustentabilidad | 93 % | 100 % | 20.3 | — |
+
+## 8.º básico
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 29 | 62 % | 6 |
+| ciencias-naturales | 74 | 51 % | 13 |
+| educacion-fisica-salud | 26 | 48 % | 3 |
+| historia-geografia-ciencias-sociales | 117 | 58 % | 20 |
+| ingles | 80 | 30 % | 55 |
+| ingles-propuesta | 65 | 30 % | 48 |
+| lengua-literatura | 155 | 48 % | 26 |
+| matematica | 77 | 41 % | 7 |
+| musica | 30 | 39 % | 9 |
+| orientacion | 49 | 51 % | 5 |
+| tecnologia | 26 | 42 % | 8 |
+
+**Clases marcadas para lectura prioritaria (8.º básico):** 200 de 728.
+
+### Segunda lectura crítica de las 728 clases
+
+Cada una de las 728 clases de 8.º básico fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta cada ejercicio cerrado y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios. Las fichas de actitud y la asignatura de Lengua Indígena de 8.º son integración transversal y no llevan cuaderno propio.
+
+| Asignatura | Clases | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 77 | Ejemplo cuyo «error» no se veía (cilindro con r = 2 y h = 5 da 62,8 con la fórmula buena y con la mala); respuestas parecidas que confundían (13.000 y 5); definición de percentil que se contradecía con la regla del cuaderno y percentil 100 sin dato i+1; raíz cuadrada, cuadrantes en número romano y fórmula del ángulo interior usados sin enseñar; contar cuadritos del cuadrado inclinado sin pista; «completa la tabla» sin tabla; edades de «personas que conozcas» cambiadas por datos inventados; «interés compuesto» usado cuando la clase solo trata el simple. |
+| Lengua y Literatura | 155 | Clave errada (OA 15: la correcta era la b); aleteos del colibrí, miel por abeja obrera y «las abejas viven en colonias» (hay solitarias); murciélagos que polinizan (los de Chile son insectívoros); conservar alimentos «sin refrigerador»; fragmentos T1 a T5, el «Canto de Ilén» y «El reloj de Elisa» citados en preguntas sin estar en la clase; rima consonante y tópicos verificados; «hubo/hubieron», «entre tú y yo» y subjuntivo revisados; «tal vez» con ambos modos; «Hoy necesito: cuaderno» incorrecto tras verbo; «lápiz» como grave (es esdrújula); voseo «decís». |
+| Ciencias Naturales | 74 | Pared celular «solo vegetal» contra la clase de bacterias; inducción sin quitar la conexión a tierra; mito del celular encendido en la bencinera; lista de los 20 elementos solo en la clase 1 y usada en las clases 3 y 4; promedio ponderado y modelo de Thomson usados sin enseñar; datos de calentamiento del hielo incoherentes con una fuente constante; «los átomos no se ven» demasiado categórico; ejemplo de luz y burbujas que no sigue el inverso del cuadrado, rotulado como patrón de ejemplo. |
+| Historia, Geografía y Ciencias Sociales | 117 | Alta Navarra en 1512 y 1515; «leones» del grabado colonial que podían ser pumas; capitán neerlandés fechado en 1600 (1605); «6 artículos» frente a 8; IDH regional que no calzaba con el promedio ponderado; «más fuentes de soldados» falso (5 y 5); consumo definido contra intercambio; años en miles («1.818»); salmones presentados solo como ventaja; Leonardo y Miguel Ángel (OA 01), Zipoli, autos sacramentales y Sor Juana (OA 09) agregados para cubrir el OA. |
+| Inglés (propuesta EN08) | 65 | «The gym is behind the garden» y otros ordenamientos con más de una respuesta; «Reescribe con I would like to…» pasado a opción múltiple; el sonido inicial de «brother» pedido como /θ/; «I seen» al revés; «fifteen after four» y «ninetieth» de octubre; «by 5 p.m.» contra la voz pasiva; edad calculada que dependía del cumpleaños; «Bees make honey» generalizado; «quite» británico frente a estadounidense. |
+| Inglés (oficial IN08) | 80 | Texto con «three rooms» y cuatro salas; «sea bass» como corvina; «Owls hunt at night» y «Penguins live in cold places» generalizados; «tea bags» en el compost; biblioteca «open every day» y «closed on weekends»; «Paper Boat» que era un gorro; cadenas en las ruedas de una bicicleta; /t/ después de ch; regla «i antes de e» sin excepciones; título repetido con 7.º; colocaciones del OA 08 sin ejercicio, agregadas. |
+| Educación Física y Salud | 26 | Cuerda a la altura de la cabeza y entre sillas; 3 contra 3 con 2 o 3 personas; vóleibol de duplas sin cuatro personas; zonas de 3 m en una cancha de 6 m; meta de 150 minutos contra 30 diarios; «subió de 4 a 6 y bajó a 3»; materiales (globo, pared, caja) no entregados; ejemplos que no cumplían la consigna (2 materiales cuando se piden 3). |
+| Orientación | 49 | «Bórrala» ante una imagen íntima recibida, cambiado por no reenviar ni guardar la imagen y no borrar el chat; orden de pasos ante grooming (decir no, guardar captura, bloquear, contar a un adulto); distractores «911» y «112» que parecían líneas de ayuda (solo se usa el 147); amigo que bebió mucho dejado «solo»; «una vez no genera adicción» imprecisa; «Cesfam» sin definir; supuestos sobre la familia («tu mamá»). |
+| Música | 30 | Pedía qué acorde se siente más cerca del reposo cuando la clase solo enseña I y V; sección B igual a A en una forma ABA; «grados» contados de dos maneras (ahora «escalón»); motivo, puente, cifrados, soprano y bajo usados sin definir; síncopa pedida antes de enseñarse; homenaje a una persona fallecida cambiado; alternativas absurdas reescritas. |
+| Artes Visuales | 29 | Opción «segura» con hilos colgados a la altura de la cabeza; pegamento fuera de la lista de materiales; 2 obras de 70 cm en 360 cm con espacio decimal; ejemplo que cambiaba dos decisiones cuando la consigna dice una; «una instalación es temporal» y «los colores vivos transmiten energía» demasiado categóricos; supuesto de que los adultos mayores no tienen internet; altura de montaje de 150 cm como referencia, no como norma. |
+| Tecnología | 26 | Repartos de piezas por plancha con el cálculo regalado y el área mal contada (6000 ÷ 875 da 6,86); error relativo de 2,67 % fuera de cifras enteras; ejemplo de «impacto medio» cuando la consigna pide alto o bajo; pregunta de encuesta neutra, promedio y citar la fuente usados sin enseñar; 18 alternativas absurdas; tarea con un aparato conectado sin aviso de no abrirlo. |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA de cada asignatura (por ejemplo «Recognize purpose and context», «Definir necesidad, usuario y criterio», «Examinar un caso ficticio…»), y los autores repartieron el contenido del OA entre ellas. Los lectores comprobaron que lo enseñado calza con el OA. En Lengua y Literatura, Historia y Ciencias los títulos coinciden en general con el contenido. La clase 3 de OA 20 de Lengua y Literatura se titula «punto y coma», que no figura en el texto del OA, y se siguió el título del plan. Conviene que el currículo nombre el tema de cada clase; no se hizo aquí porque exige el Programa de Estudio.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Lengua y Literatura (tópicos literarios en OA 05); Historia (capacidad de transformar el mundo y expresiones culturales en OA 01, música y teatro barrocos en OA 09); Inglés oficial (preguntar para clarificar, colocaciones y palabras compuestas del OA 08); Inglés propuesta («I want / don't want» y «a few» en 7.º, y en 8.º la voz pasiva y who/which).
+- **Abiertos:** software educativo, geométrico y de simulación (Matemática OA 07, 09, 10, 12 a 15); audio, video, escucha, canciones y pronunciación real (Inglés, Lengua y Literatura OA 12 y 21, Música); obras completas, epopeyas y comedias reales y el plan lector (Lengua y Literatura OA 02, 06 a 08); ortografía literal completa (OA 20: faltan c/s/z, y/ll, x, mayúsculas, siglas); deícticos por nombre (OA 18); procesador de textos y diccionario en línea (Lengua y Literatura OA 16, Inglés); investigación experimental real y reactivos (Ciencias OA 06); entornos reales de práctica (Educación Física OA 01 y 04); rotaciones en el espacio y poliedros distintos del cubo y los prismas (Matemática OA 14); cuartiles con n impar y valores atípicos (OA 15); evangelización y roles de género con clase propia (Historia OA 11); formación del Estado nacional como clase propia (OA 19); pirámides de población y migración internacional (OA 21); patrimonio de pueblos originarios concreto (Artes OA 04).
+- **Decisiones que dependen del programa oficial:** regla de percentiles y cuartiles (i = p·n/100) y bigotes al mínimo y al máximo; π = 3 y 3,14; tarifa de $200 por kWh; sentido antihorario positivo; 6/8 como dos pulsos; «escalón» frente a grado; escala de esfuerzo 1 a 10 y reglas propias de cada clase en Educación Física; forma de contar «grados» de un intervalo.
+
+### Clases marcadas de 8.º básico
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| CN08 OA 12 | 4 | Investigar relaciones entre variables: evolución de los mode | 11 % | 33 % | 13.5 | — |
+| IN08 OA 01 | 4 | Communicate through an information gap: Global and explicit  | 11 % | 12 % | 10.2 | — |
+| EN08 OA 01 | 3 | Model a useful strategy: Understanding varied literary and f | 12 % | 0 % | 9.6 | — |
+| IN08 OA 09 | 3 | Use a strategy or language function: Global and explicit mea | 12 % | 0 % | 18.6 | — |
+| IN08 OA 08 | 2 | Locate precise evidence: Communicative functions for interac | 13 % | 0 % | 14.0 | — |
+| IN08 OA 09 | 4 | Communicate through an information gap: Global and explicit  | 13 % | 11 % | 15.3 | — |
+| IN08 OA 01 | 3 | Use a strategy or language function: Global and explicit mea | 13 % | 12 % | 13.4 | — |
+| IN08 OA 08 | 1 | Recognize purpose and context: Communicative functions for i | 14 % | 0 % | 15.0 | — |
+| IN08 OA 05 | 4 | Communicate through an information gap: Coherent multimodal  | 14 % | 17 % | 15.9 | — |
+| IN08 OA 01 | 2 | Locate precise evidence: Global and explicit meaning in vari | 16 % | 25 % | 19.7 | — |
+| IN08 OA 02 | 4 | Communicate through an information gap: Key language and int | 16 % | 0 % | 15.0 | — |
+| EN08 OA 01 | 2 | Locate precise evidence: Understanding varied literary and f | 16 % | 25 % | 11.4 | — |
+| EN08 OA 01 | 4 | Communicate through an information gap: Understanding varied | 16 % | 12 % | 14.1 | — |
+| EN08 OA 02 | 4 | Communicate through an information gap: Purpose, detail and  | 16 % | 12 % | 12.0 | — |
+| IN08 OA 07 | 3 | Use a strategy or language function: Personal and critical r | 18 % | 0 % | 14.4 | — |
+| EN08 OA 07 | 3 | Model a useful strategy: Supported response and connection a | 18 % | 12 % | 13.4 | — |
+| EN08 OA 05 | 2 | Locate precise evidence: Reading language functions in meani | 18 % | 0 % | 11.2 | — |
+| EN08 OA 12 | 4 | Communicate through an information gap: Language functions i | 18 % | 14 % | 14.8 | — |
+| IN08 OA 02 | 3 | Use a strategy or language function: Key language and intell | 19 % | 0 % | 17.2 | — |
+| EF08 OA 01 | 3 | Combinar habilidades o decisiones: Habilidades motrices espe | 19 % | 43 % | 18.2 | — |
+| IN08 OA 11 | 4 | Communicate through an information gap: Literary reading: th | 20 % | 12 % | 14.9 | — |
+| IN08 OA 06 | 4 | Communicate through an information gap: Planning, repairing  | 20 % | 12 % | 12.4 | — |
+| IN08 OA 05 | 2 | Locate precise evidence: Coherent multimodal oral presentati | 20 % | 33 % | 13.1 | — |
+| IN08 OA 10 | 2 | Locate precise evidence: Critical reading of functional non- | 20 % | 0 % | 20.7 | — |
+| IN08 OA 16 | 2 | Locate precise evidence: Communicative functions in written  | 20 % | 14 % | 16.8 | — |
+| EN08 OA 05 | 4 | Communicate through an information gap: Reading language fun | 20 % | 12 % | 16.2 | — |
+| IN08 OA 10 | 3 | Use a strategy or language function: Critical reading of fun | 20 % | 14 % | 17.1 | — |
+| CN08 OA 11 | 4 | Investigar relaciones entre variables: calor, temperatura y  | 20 % | 29 % | 18.2 | — |
+| IN08 OA 02 | 1 | Recognize purpose and context: Key language and intelligible | 21 % | 0 % | 18.3 | — |
+| IN08 OA 02 | 2 | Locate precise evidence: Key language and intelligible sound | 21 % | 0 % | 14.4 | — |
+| TE08 OA 06 | 2 | Investigar soluciones y restricciones: Impactos éticos, ambi | 21 % | 38 % | 19.0 | — |
+| IN08 OA 02 | 5 | Respond independently: Key language and intelligible sounds  | 22 % | 0 % | 16.0 | — |
+| IN08 OA 03 | 3 | Use a strategy or language function: Purpose, detail, sequen | 22 % | 12 % | 15.6 | — |
+| IN08 OA 06 | 2 | Locate precise evidence: Planning, repairing and reviewing s | 22 % | 0 % | 7.8 | — |
+| IN08 OA 08 | 3 | Use a strategy or language function: Communicative functions | 22 % | 0 % | 13.8 | — |
+| EN08 OA 12 | 2 | Locate precise evidence: Language functions in written texts | 22 % | 0 % | 11.5 | — |
+| EN08 OA 05 | 1 | Recognize purpose and context: Reading language functions in | 22 % | 0 % | 14.1 | — |
+| IN08 OA 03 | 4 | Communicate through an information gap: Purpose, detail, seq | 22 % | 0 % | 19.9 | — |
+| IN08 OA 10 | 4 | Communicate through an information gap: Critical reading of  | 22 % | 12 % | 14.1 | — |
+| MU08 OA 05 | 3 | Relacionar lenguaje musical y propósito: improvisación, acom | 22 % | 14 % | 18.9 | — |
+| EN08 OA 10 | 2 | Locate precise evidence: Language functions in conversation  | 22 % | 14 % | 14.4 | — |
+| EN08 OA 11 | 3 | Model a useful strategy: Short multimodal texts for real aud | 22 % | 29 % | 9.1 | — |
+| EN08 OA 08 | 3 | Model a useful strategy: Audience-aware multimodal oral pres | 23 % | 43 % | 9.6 | — |
+| CN08 OA 05 | 3 | Construir o contrastar un modelo: interacción de sistemas pa | 24 % | 43 % | 16.6 | — |
+| EN08 OA 06 | 3 | Model a useful strategy: Strategic reading before, during an | 24 % | 14 % | 11.1 | — |
+| MU08 OA 02 | 1 | Escuchar y registrar antes de nombrar: lenguaje musical, com | 24 % | 22 % | 19.5 | — |
+| EN08 OA 10 | 1 | Recognize purpose and context: Language functions in convers | 24 % | 14 % | 13.1 | — |
+| EN08 OA 05 | 3 | Model a useful strategy: Reading language functions in meani | 24 % | 0 % | 10.6 | — |
+| EN08 OA 08 | 4 | Communicate through an information gap: Audience-aware multi | 24 % | 29 % | 10.6 | — |
+| EN08 OA 08 | 5 | Respond independently: Audience-aware multimodal oral presen | 24 % | 33 % | 14.6 | — |
+| IN08 OA 14 | 4 | Communicate through an information gap: Writing process acro | 24 % | 25 % | 18.2 | — |
+| TE08 OA 04 | 2 | Investigar soluciones y restricciones: Comunicación ética de | 24 % | 29 % | 17.1 | — |
+| IN08 OA 06 | 3 | Use a strategy or language function: Planning, repairing and | 24 % | 12 % | 10.5 | — |
+| IN08 OA 05 | 3 | Use a strategy or language function: Coherent multimodal ora | 24 % | 33 % | 15.3 | — |
+| MA08 OA 10 | 3 | Interpretar pendiente e intercepto | 24 % | 100 % | 20.7 | — |
+| EN08 OA 09 | 5 | Respond independently: Strategies for clear and fluent inter | 24 % | 0 % | 19.9 | — |
+| IN08 OA 16 | 3 | Use a strategy or language function: Communicative functions | 24 % | 0 % | 15.7 | — |
+| HI08 OA 21 | 2 | Contextualizar y seleccionar fuentes: conectividad, migració | 25 % | 29 % | 15.7 | — |
+| IN08 OA 09 | 2 | Locate precise evidence: Global and explicit meaning in prin | 25 % | 44 % | 15.8 | — |
+| TE08 OA 03 | 4 | Implementar con seguridad: Evaluación técnica y mejora de pr | 25 % | 33 % | 16.9 | — |
+| EF08 OA 01 | 2 | Seleccionar una respuesta motriz: Habilidades motrices espec | 26 % | 71 % | 25.6 | — |
+| IN08 OA 09 | 1 | Recognize purpose and context: Global and explicit meaning i | 26 % | 33 % | 14.9 | — |
+| EN08 OA 05 | 5 | Respond independently: Reading language functions in meaning | 26 % | 29 % | 12.1 | — |
+| IN08 OA 13 | 2 | Locate precise evidence: Creative multimodal stories and inf | 26 % | 29 % | 19.8 | — |
+| EN08 OA 12 | 3 | Model a useful strategy: Language functions in written texts | 26 % | 14 % | 15.8 | — |
+| EN08 OA 10 | 4 | Communicate through an information gap: Language functions i | 26 % | 43 % | 13.0 | — |
+| IN08 OA 16 | 1 | Recognize purpose and context: Communicative functions in wr | 26 % | 0 % | 15.1 | — |
+| TE08 OA 02 | 3 | Representar y planificar: Diseño sustentable y creación con  | 26 % | 33 % | 14.3 | — |
+| EN08 OA 06 | 5 | Respond independently: Strategic reading before, during and  | 26 % | 0 % | 14.0 | — |
+| IN08 OA 12 | 3 | Use a strategy or language function: Purposeful reading stra | 26 % | 0 % | 11.8 | — |
+| IN08 OA 07 | 5 | Respond independently: Personal and critical response to tex | 27 % | 40 % | 11.3 | — |
+| EN08 OA 09 | 3 | Model a useful strategy: Strategies for clear and fluent int | 27 % | 0 % | 14.5 | — |
+| EN08 OA 07 | 2 | Locate precise evidence: Supported response and connection a | 27 % | 0 % | 12.7 | — |
+| EN08 OA 11 | 4 | Communicate through an information gap: Short multimodal tex | 27 % | 14 % | 16.2 | — |
+| IN08 OA 11 | 2 | Locate precise evidence: Literary reading: theme, character, | 27 % | 25 % | 14.8 | — |
+| IN08 OA 13 | 4 | Communicate through an information gap: Creative multimodal  | 27 % | 17 % | 14.3 | — |
+| EN08 OA 02 | 2 | Locate precise evidence: Purpose, detail and language eviden | 27 % | 14 % | 12.0 | — |
+| EN08 OA 07 | 4 | Communicate through an information gap: Supported response a | 27 % | 12 % | 16.0 | — |
+| IN08 OA 08 | 5 | Respond independently: Communicative functions for interacti | 27 % | 20 % | 14.8 | — |
+| IN08 OA 08 | 4 | Communicate through an information gap: Communicative functi | 28 % | 0 % | 11.9 | — |
+| EN08 OA 04 | 2 | Locate precise evidence: Integrated literary and non-literar | 28 % | 33 % | 11.9 | — |
+| OR08 OA 04 | 4 | Elegir una acción segura: Bienestar cotidiano, vida saludabl | 28 % | 43 % | 21.1 | — |
+| IN08 OA 04 | 3 | Use a strategy or language function: Before, during and afte | 28 % | 0 % | 10.7 | — |
+| IN08 OA 04 | 5 | Respond independently: Before, during and after listening st | 28 % | 0 % | 16.7 | — |
+| TE08 OA 01 | 2 | Investigar soluciones y restricciones: Oportunidades locales | 28 % | 25 % | 13.4 | — |
+| EN08 OA 04 | 4 | Communicate through an information gap: Integrated literary  | 28 % | 17 % | 11.9 | — |
+| LE08 OA 23 | 6 | Revisar desde evidencia de audiencia | 28 % | 100 % | 22.9 | — |
+| EN08 OA 09 | 2 | Locate precise evidence: Strategies for clear and fluent int | 28 % | 14 % | 12.6 | — |
+| EN08 OA 08 | 2 | Locate precise evidence: Audience-aware multimodal oral pres | 29 % | 43 % | 12.3 | — |
+| EN08 OA 02 | 1 | Recognize purpose and context: Purpose, detail and language  | 29 % | 29 % | 19.0 | — |
+| LE08 OA 08 | 4 | Construir una postura | 29 % | 100 % | 21.1 | — |
+| MU08 OA 03 | 1 | Escuchar y registrar antes de nombrar: interpretación expres | 29 % | 38 % | 14.1 | — |
+| EN08 OA 11 | 2 | Locate precise evidence: Short multimodal texts for real aud | 29 % | 29 % | 18.3 | — |
+| EN08 OA 03 | 3 | Model a useful strategy: Strategic listening and clarificati | 29 % | 0 % | 15.3 | — |
+| EN08 OA 03 | 4 | Communicate through an information gap: Strategic listening  | 29 % | 33 % | 16.6 | — |
+| IN08 OA 07 | 2 | Locate precise evidence: Personal and critical response to t | 29 % | 29 % | 15.7 | — |
+| MU08 OA 02 | 2 | Localizar rasgos audibles: lenguaje musical, composición y p | 29 % | 12 % | 17.7 | — |
+| MU08 OA 04 | 3 | Relacionar lenguaje musical y propósito: interpretación a un | 29 % | 43 % | 14.3 | — |
+| MU08 OA 05 | 4 | Interpretar o crear con criterio: improvisación, acompañamie | 29 % | 43 % | 16.1 | — |
+| EN08 OA 02 | 5 | Respond independently: Purpose, detail and language evidence | 30 % | 0 % | 13.4 | — |
+| EN08 OA 12 | 1 | Recognize purpose and context: Language functions in written | 30 % | 0 % | 13.6 | — |
+| IN08 OA 15 | 4 | Communicate through an information gap: Writing to inform, n | 30 % | 0 % | 13.1 | — |
+| LE08 OA 05 | 5 | Distinguir texto y puesta en escena | 30 % | 100 % | 20.8 | — |
+| OR08 OA 05 | 3 | Comparar opciones y consecuencias: Derechos y bienestar en r | 30 % | 38 % | 16.7 | — |
+| IN08 OA 16 | 4 | Communicate through an information gap: Communicative functi | 30 % | 17 % | 12.0 | — |
+| EN08 OA 10 | 3 | Model a useful strategy: Language functions in conversation  | 30 % | 14 % | 13.1 | — |
+| CN08 OA 11 | 2 | Examinar evidencia y representaciones: calor, temperatura y  | 30 % | 43 % | 15.9 | — |
+| IN08 OA 04 | 4 | Communicate through an information gap: Before, during and a | 31 % | 25 % | 15.6 | — |
+| IN08 OA 05 | 5 | Respond independently: Coherent multimodal oral presentation | 31 % | 20 % | 14.2 | — |
+| AR08 OA 03 | 3 | Explorar procedimientos y decisiones visuales: instalación c | 31 % | 38 % | 16.4 | — |
+| AR08 OA 04 | 3 | Explorar procedimientos y decisiones visuales: análisis de m | 31 % | 25 % | 13.1 | — |
+| MU08 OA 07 | 3 | Relacionar lenguaje musical y propósito: música, sociedad y  | 31 % | 43 % | 18.6 | — |
+| EN08 OA 09 | 4 | Communicate through an information gap: Strategies for clear | 31 % | 14 % | 12.8 | — |
+| IN08 OA 06 | 5 | Respond independently: Planning, repairing and reviewing spo | 31 % | 14 % | 17.1 | — |
+| MU08 OA 04 | 4 | Interpretar o crear con criterio: interpretación a una y más | 31 % | 20 % | 14.7 | — |
+| EN08 OA 03 | 2 | Locate precise evidence: Strategic listening and clarificati | 31 % | 0 % | 12.0 | — |
+| CN08 OA 15 | 3 | Construir o contrastar un modelo: elementos químicos frecuen | 32 % | 29 % | 15.4 | — |
+| EN08 OA 12 | 5 | Respond independently: Language functions in written texts | 32 % | 17 % | 11.7 | — |
+| IN08 OA 14 | 3 | Use a strategy or language function: Writing process across  | 32 % | 0 % | 16.3 | — |
+| TE08 OA 04 | 3 | Representar y planificar: Comunicación ética del proceso tec | 32 % | 50 % | 27.3 | — |
+| EN08 OA 10 | 5 | Respond independently: Language functions in conversation an | 32 % | 33 % | 12.1 | — |
+| IN08 OA 01 | 5 | Respond independently: Global and explicit meaning in varied | 32 % | 14 % | 14.1 | — |
+| EN08 OA 02 | 3 | Model a useful strategy: Purpose, detail and language eviden | 32 % | 0 % | 12.9 | — |
+| IN08 OA 09 | 5 | Respond independently: Global and explicit meaning in print  | 32 % | 38 % | 15.1 | — |
+| IN08 OA 03 | 2 | Locate precise evidence: Purpose, detail, sequence, fact and | 32 % | 12 % | 14.4 | — |
+| EN08 OA 11 | 5 | Respond independently: Short multimodal texts for real audie | 32 % | 33 % | 16.7 | — |
+| EN08 OA 09 | 1 | Recognize purpose and context: Strategies for clear and flue | 33 % | 0 % | 14.2 | — |
+| CN08 OA 05 | 1 | Formular una pregunta investigable: interacción de sistemas  | 33 % | 29 % | 14.7 | — |
+| AR08 OA 03 | 4 | Crear una respuesta visual propia: instalación como medio de | 33 % | 38 % | 13.9 | — |
+| CN08 OA 12 | 2 | Examinar evidencia y representaciones: evolución de los mode | 33 % | 33 % | 15.8 | — |
+| EN08 OA 04 | 3 | Model a useful strategy: Integrated literary and non-literar | 33 % | 0 % | 17.7 | — |
+| IN08 OA 15 | 1 | Recognize purpose and context: Writing to inform, narrate an | 33 % | 25 % | 13.2 | — |
+| EN08 OA 07 | 1 | Recognize purpose and context: Supported response and connec | 34 % | 12 % | 15.6 | — |
+| IN08 OA 07 | 1 | Recognize purpose and context: Personal and critical respons | 35 % | 43 % | 21.1 | — |
+| MU08 OA 04 | 1 | Escuchar y registrar antes de nombrar: interpretación a una  | 35 % | 83 % | 20.3 | — |
+| LE08 OA 16 | 5 | Editar ortografía y presentación | 36 % | 100 % | 26.0 | — |
+| OR08 OA 01 | 2 | Distinguir hechos, emociones, derechos y límites: Autoconcep | 36 % | 78 % | 13.9 | respuesta «depende» en ejercicio cerrado |
+| LE08 OA 02 | 6 | Construir una reflexión fundamentada | 38 % | 100 % | 20.7 | — |
+| HI08 OA 14 | 2 | Contextualizar y seleccionar fuentes: ilustración, razón y c | 40 % | 71 % | 20.5 | — |
+| LE08 OA 22 | 5 | Negociar acuerdos parciales | 40 % | 100 % | 21.3 | — |
+| LE08 OA 26 | 3 | Parafrasear con precisión | 41 % | 100 % | 20.7 | — |
+| LE08 OA 08 | 2 | Relacionar experiencia y evidencia sin autobiografía obligat | 42 % | 100 % | 21.5 | — |
+| LE08 OA 04 | 2 | Analizar apelación a los sentidos | 43 % | 100 % | 20.2 | — |
+| AR08 OA 02 | 3 | Explorar procedimientos y decisiones visuales: impresión, pa | 44 % | 78 % | 20.8 | — |
+| MA08 OA 12 | 4 | Aplicar y verificar en problemas | 44 % | 100 % | 28.0 | — |
+| CN08 OA 05 | 2 | Examinar evidencia y representaciones: interacción de sistem | 45 % | 57 % | 20.7 | — |
+| LE08 OA 22 | 1 | Preparar una postura provisional | 45 % | 100 % | 20.5 | — |
+| LE08 OA 04 | 1 | Escuchar y registrar primeras imágenes | 45 % | 100 % | 21.0 | — |
+| MA08 OA 16 | 3 | Detectar escalas manipuladoras | 45 % | 100 % | 23.1 | — |
+| IN08 OA 14 | 5 | Respond independently: Writing process across short genres | 46 % | 43 % | 20.1 | — |
+| MA08 OA 13 | 4 | Relacionar reglas y coordenadas | 47 % | 67 % | 20.6 | — |
+| IN08 OA 03 | 1 | Recognize purpose and context: Purpose, detail, sequence, fa | 47 % | 29 % | 23.3 | — |
+| AR08 OA 01 | 3 | Explorar procedimientos y decisiones visuales: personas, nat | 47 % | 75 % | 20.4 | — |
+| CN08 OA 10 | 2 | Examinar evidencia y representaciones: circuitos eléctricos  | 47 % | 71 % | 22.8 | — |
+| LE08 OA 10 | 3 | Examinar estereotipos y prejuicios | 47 % | 67 % | 21.2 | — |
+| TE08 OA 02 | 4 | Implementar con seguridad: Diseño sustentable y creación con | 47 % | 67 % | 21.1 | — |
+| HI08 OA 22 | 1 | Situar tiempo, espacio y problema: desarrollo regional y sus | 48 % | 43 % | 18.5 | respuesta «depende» en ejercicio cerrado |
+| MA08 OA 03 | 2 | Explicar productos y cocientes de potencias | 50 % | 100 % | 20.4 | — |
+| MA08 OA 11 | 2 | Desplegar redes y derivar el área | 50 % | 33 % | 22.5 | — |
+| TE08 OA 03 | 5 | Probar con evidencia: Evaluación técnica y mejora de product | 50 % | 67 % | 24.5 | — |
+| LE08 OA 04 | 6 | Comparar poemas | 52 % | 100 % | 22.8 | — |
+| OR08 OA 05 | 6 | Transferir sin exposición personal: Derechos y bienestar en  | 52 % | 50 % | 20.1 | — |
+| LE08 OA 18 | 6 | Justificar decisiones de cohesión | 52 % | 100 % | 24.0 | — |
+| CN08 OA 14 | 1 | Formular una pregunta investigable: tabla periódica, patrone | 52 % | 86 % | 20.8 | — |
+| HI08 OA 22 | 3 | Relacionar cambio, continuidad y territorio: desarrollo regi | 52 % | 43 % | 15.4 | respuesta «depende» en ejercicio cerrado |
+| HI08 OA 18 | 2 | Contextualizar y seleccionar fuentes: derechos del hombre, c | 53 % | 75 % | 23.4 | — |
+| LE08 OA 15 | 6 | Publicar y justificar decisiones | 54 % | 100 % | 21.4 | — |
+| LE08 OA 08 | 5 | Vincular obra y visión de mundo | 54 % | 100 % | 23.2 | — |
+| CN08 OA 14 | 3 | Construir o contrastar un modelo: tabla periódica, patrones  | 55 % | 57 % | 25.9 | — |
+| HI08 OA 16 | 1 | Situar tiempo, espacio y problema: independencias hispanoame | 55 % | 100 % | 20.9 | — |
+| CN08 OA 10 | 6 | Evaluar límites, seguridad e implicancias: circuitos eléctri | 55 % | 62 % | 22.2 | — |
+| HI08 OA 01 | 1 | Situar tiempo, espacio y problema: humanismo y renacimiento | 56 % | 83 % | 20.2 | — |
+| LE08 OA 04 | 7 | Construir una interpretación | 56 % | 100 % | 21.8 | — |
+| HI08 OA 13 | 5 | Construir un argumento con evidencia: hacienda y sociedad ru | 58 % | 100 % | 20.7 | — |
+| LE08 OA 10 | 1 | Reconocer propósitos explícitos e implícitos | 58 % | 100 % | 22.8 | — |
+| CN08 OA 14 | 4 | Investigar relaciones entre variables: tabla periódica, patr | 61 % | 86 % | 23.5 | respuesta «depende» en ejercicio cerrado |
+| OR08 OA 02 | 4 | Elegir una acción segura: Sexualidad integral, intimidad, re | 62 % | 67 % | 26.1 | — |
+| LE08 OA 07 | 5 | Interpretar desde su contexto | 62 % | 100 % | 20.2 | — |
+| LE08 OA 10 | 7 | Publicar una evaluación fundamentada | 63 % | 100 % | 22.2 | — |
+| LE08 OA 01 | 6 | Recomendar desde una experiencia situada | 64 % | 100 % | 20.1 | — |
+| HI08 OA 14 | 1 | Situar tiempo, espacio y problema: ilustración, razón y crít | 65 % | 100 % | 23.5 | — |
+| HI08 OA 13 | 1 | Situar tiempo, espacio y problema: hacienda y sociedad rural | 67 % | 100 % | 20.1 | — |
+| HI08 OA 17 | 4 | Contrastar actores, causas y perspectivas: legitimidad de la | 67 % | 75 % | 23.0 | — |
+| LE08 OA 11 | 5 | Comunicar una comprensión enriquecida | 67 % | 100 % | 22.4 | — |
+| LE08 OA 12 | 6 | Evaluar la estrategia utilizada | 71 % | 67 % | 21.1 | respuesta «depende» en ejercicio cerrado |
+| HI08 OA 21 | 5 | Construir un argumento con evidencia: conectividad, migració | 72 % | 86 % | 13.6 | respuesta «depende» en ejercicio cerrado |
+| HI08 OA 14 | 5 | Construir un argumento con evidencia: ilustración, razón y c | 72 % | 86 % | 21.6 | — |
+| HI08 OA 02 | 5 | Construir un argumento con evidencia: de la sociedad medieva | 73 % | 100 % | 16.7 | respuesta «depende» en ejercicio cerrado |
+| LE08 OA 17 | 5 | Revisar oraciones en un texto | 75 % | 100 % | 21.2 | — |
+| HI08 OA 20 | 4 | Contrastar actores, causas y perspectivas: regiones: criteri | 77 % | 62 % | 14.0 | respuesta «depende» en ejercicio cerrado |
+| AR08 OA 05 | 1 | Observar referentes sin copiar: evaluación y revisión de tra | 80 % | 86 % | 20.1 | — |
+| HI08 OA 20 | 1 | Situar tiempo, espacio y problema: regiones: criterios físic | 80 % | 62 % | 15.5 | respuesta «depende» en ejercicio cerrado |
+| HI08 OA 08 | 5 | Construir un argumento con evidencia: ciudad y administració | 81 % | 100 % | 21.6 | — |
+| HI08 OA 16 | 5 | Construir un argumento con evidencia: independencias hispano | 81 % | 100 % | 22.5 | — |
+| EF08 OA 01 | 1 | Explorar con seguridad: Habilidades motrices específicas en  | 81 % | 86 % | 14.1 | respuesta «depende» en ejercicio cerrado |
+| LE08 OA 13 | 1 | Elegir tema, género y destinatario | 82 % | 100 % | 25.3 | — |
+| MA08 OA 08 | 1 | Traducir situaciones a ecuaciones | 86 % | 100 % | 21.0 | — |
+| LE08 OA 11 | 1 | Formular una necesidad de contexto | 89 % | 100 % | 22.7 | — |
+| HI08 OA 06 | 1 | Situar tiempo, espacio y problema: conquista y caída de impe | 91 % | 100 % | 21.2 | — |
+| HI08 OA 09 | 1 | Situar tiempo, espacio y problema: barroco y cultura colonia | 100 % | 100 % | 20.6 | — |

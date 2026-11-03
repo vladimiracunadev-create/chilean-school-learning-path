@@ -252,7 +252,7 @@ register(
     },
     context=[ex("En el recreo, un compañero quiere pisar un nido que encontró. ¿Qué le dices para cuidar la naturaleza?", "Que no lo pise y avise a un adulto", "Los animales y sus nidos se protegen y no se dañan.")],
     selfcheck=[
-        ex("¿Qué es la reciprocidad?", "Dar algo a cambio de lo que se recibe", "Es devolver lo recibido."),
+        ex("En Lengua y Cultura: ¿Qué es la reciprocidad?", "Dar algo a cambio de lo que se recibe", "Es devolver lo recibido."),
         ex("¿Cuáles son dos formas de cuidar?", "Cuidar la naturaleza y respetar a las personas", "Incluye el entorno y a quienes enseñan."),
         ex("¿Qué haces antes de usar el saber de una persona?", "Pedir permiso", "Ella decide si se comparte."),
     ],

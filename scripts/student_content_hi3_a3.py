@@ -64,7 +64,7 @@ register(
     },
     context=[ex("Un niño ve una foto de un teatro griego y quiere investigar. ¿Qué pregunta le sirve más? A) ¿Para qué servían los teatros griegos? B) ¿Los teatros griegos son lindos?", "A", "A se responde con fuentes.")],
     selfcheck=[
-        ex("¿Qué es una pregunta investigable?", "una pregunta que se puede responder con fuentes", "Es clara y no es opinión."),
+        ex("En Historia: ¿Qué es una pregunta investigable?", "una pregunta que se puede responder con fuentes", "Es clara y no es opinión."),
         ex("¿Una pregunta de opinión sirve para investigar?", "no", "Cada persona responde distinto."),
         ex("¿Qué se hace con una pregunta demasiado grande?", "se achica", "Se elige un tema y un lugar."),
     ],

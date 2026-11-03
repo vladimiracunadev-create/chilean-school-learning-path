@@ -129,7 +129,7 @@ lesson(
     ],
     [E("En la sala hay un letrero: «Hagan fila en silencio». Rosa dice que fila significa cola de personas. ¿Tiene razón?", "Sí", "Una fila es una hilera de personas esperando.")],
     [
-        E("¿Qué es un sinónimo?", "Una palabra con significado parecido", "Dice casi lo mismo."),
+        E("En Lenguaje: ¿Qué es un sinónimo?", "Una palabra con significado parecido", "Dice casi lo mismo."),
         E("¿«Diminuto» y «enorme» significan lo mismo? Responde sí o no.", "No", "Tienen significados opuestos."),
         E("¿Qué ayuda a elegir el significado de «cola»?", "El contexto", "Las palabras que la rodean."),
     ],

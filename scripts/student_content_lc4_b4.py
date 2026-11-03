@@ -548,7 +548,7 @@ L(
     context=[ex("En un diálogo, tu compañera dice algo que no entiendes. ¿Qué haces: «le pido que repita más despacio» o «cambio de tema»?", "«le pido que repita más despacio»", "Pedir apoyo es respetuoso.")],
     selfcheck=[
         ex("¿Qué cuatro acciones incluye escuchar?", "esperar mi turno, mirar, responder y preguntar", "Son las acciones de la clase."),
-        ex("¿Qué es parafrasear?", "repetir con mis palabras lo que dijo otro", "Muestra que escuché."),
+        ex("En Lengua y Cultura: ¿Qué es parafrasear?", "repetir con mis palabras lo que dijo otro", "Muestra que escuché."),
         ex("¿Qué hago si no entiendo?", "pregunto", "Pedir apoyo ayuda a entender."),
     ],
     task=T(

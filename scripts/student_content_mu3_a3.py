@@ -447,7 +447,7 @@ L(
         ex("Escribe en una frase el propósito de una presentación para mostrar lo aprendido sobre pulso y acento a otro curso.", "Mostrar al otro curso lo aprendido sobre pulso y acento", "El propósito dice para qué se presenta."),
     ],
     [ex("Un curso organiza una muestra musical para el resto de la escuela. ¿Cuál es la audiencia?", "El resto de la escuela", "La audiencia es quien escucha y ve la presentación.")],
-    [ex("¿Qué es la audiencia?", "Las personas que escuchan y ven", "Es para quien se presenta."), ex("En Música: ¿Qué es un rol?", "Una tarea que cumple cada persona", "Se reparte en el equipo."), ex("¿Qué escribe un plan de presentación?", "Propósito, audiencia, roles y orden", "Con eso todos saben qué hacer.")],
+    [ex("En Música: ¿Qué es la audiencia?", "Las personas que escuchan y ven", "Es para quien se presenta."), ex("En Música: ¿Qué es un rol?", "Una tarea que cumple cada persona", "Se reparte en el equipo."), ex("¿Qué escribe un plan de presentación?", "Propósito, audiencia, roles y orden", "Con eso todos saben qué hacer.")],
     (
         "Escribe el plan de una presentación de tu curso con estas partes: propósito, audiencia, roles (con nombres inventados, no de personas reales) y orden de tres piezas. Calcula cuántos minutos dura si cada pieza dura 2 minutos y cada anuncio, 1 minuto. Puedes presentar solo o en grupo, y puedes elegir un rol que no sea tocar frente al público.",
         "Propósito: mostrar el pulso y el acento. Audiencia: el curso. Roles: Ana presenta, Luis da señales, Sofía trae el material, 4 intérpretes. Orden: pieza 1, 2 y 3. Duración: 3 × (2 + 1) = 9 minutos.",
@@ -508,7 +508,7 @@ L(
         ex("En el siguiente ensayo, el equipo registra A = 0, B = 1 y A final = 0. ¿Cuántos errores fueron en total y mejoró respecto del ensayo 3?", "1 error; mejoró", "El ensayo 3 tuvo 3 errores y este tiene 1."),
     ],
     [ex("Antes de la presentación, el equipo tiene 30 minutos para ensayar. Si cada ensayo dura 10 minutos, ¿cuántos ensayos pueden hacer?", "3", "30 dividido en 10 minutos da 3.")],
-    [ex("¿Qué es un registro de errores?", "Una tabla donde se anotan los errores por sección", "Sirve de evidencia."), ex("¿Qué haces con la sección que más falla?", "La practicas primero", "Así se mejora más rápido."), ex("¿Un error es una falla personal o una pista?", "Una pista", "Indica qué practicar.")],
+    [ex("En Música: ¿Qué es un registro de errores?", "Una tabla donde se anotan los errores por sección", "Sirve de evidencia."), ex("¿Qué haces con la sección que más falla?", "La practicas primero", "Así se mejora más rápido."), ex("¿Un error es una falla personal o una pista?", "Una pista", "Indica qué practicar.")],
     (
         "Usa un registro propio: toca 3 veces una pieza breve (por ejemplo, tu pieza ABA de la clase anterior) y anota cuántos errores tuviste en la sección A, en la B y en la A final cada vez. Escribe cuál sección falló más, cuántos errores hubo en cada ensayo y si los errores bajaron. Si no tienes una pieza, usa el motivo TA – TA – ti-ti repetido 4 veces en cada sección.",
         "Ensayo 1: A 1, B 3, A 0 (4). Ensayo 2: A 0, B 2, A 0 (2). Ensayo 3: A 0, B 1, A 0 (1). La B falló más y los errores bajaron de 4 a 1.",

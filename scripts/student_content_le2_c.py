@@ -225,7 +225,7 @@ reg(
     ],
     [E("Estás escribiendo una nota para tu profesora: «Fui a un lugar bonito y vi una cosa bonita». Cambia las dos palabras repetidas por otras precisas. Por ejemplo, si fuiste a la playa y viste una concha.", "Fui a la playa y vi una concha brillante.", "Se cambia «lugar» por «playa», «cosa» por «concha» y se agrega una palabra exacta, «brillante».")],
     [
-        E("¿Qué es un sinónimo?", "Una palabra que significa casi lo mismo que otra", "Los sinónimos ayudan a no repetir."),
+        E("En Lenguaje: ¿Qué es un sinónimo?", "Una palabra que significa casi lo mismo que otra", "Los sinónimos ayudan a no repetir."),
         E("Para no repetir «grande», ¿sirve «enorme»?", "Sí", "«Enorme» significa muy grande."),
         E("Después de cambiar una palabra, ¿qué debo hacer?", "Releer la frase para ver si tiene sentido", "Así compruebo que la palabra encaja."),
     ],

@@ -139,7 +139,7 @@ reg(
     [("Poner una imagen solo porque es linda.", "Debe ayudar a entender el texto.", "Elige una imagen que muestre lo que dices."), ("Hacer un título largo o confuso.", "El lector no sabe de qué trata.", "Usa pocas palabras claras.")],
     ([E("¿Cuál es mejor título para un artículo sobre las ballenas: «Las ballenas, gigantes del mar» o «Cosas que pasan»?", "Las ballenas, gigantes del mar", "Dice el tema con claridad."),
       E("¿Qué hace un pie de foto?", "Explica la imagen", "Es una frase corta bajo la imagen."),
-      E("¿Para qué sirven los subtítulos?", "Para anunciar cada parte", "Ayudan a ubicar la información.")],
+      E("En Lenguaje: ¿Para qué sirven los subtítulos?", "Para anunciar cada parte", "Ayudan a ubicar la información.")],
      [E("¿Qué debe hacer una imagen en un artículo?", "Aportar algo para entender", "No es solo decoración."),
       E("Una imagen de un auto en un artículo sobre las abejas, ¿aporta?", "No", "No se relaciona con el tema."),
       E("¿Un título puede ser muy largo?", "No conviene", "Un título corto es más claro.")],

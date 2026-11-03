@@ -150,7 +150,7 @@ reg(
         E("¿Antes de hablar, comparo mis palabras o digo cualquiera?", "Comparo mis palabras", "Así elijo la mejor."),
     ],
     [
-        E("¿Qué es un sinónimo?", "Una palabra con significado parecido", "Dice algo semejante."),
+        E("En Lenguaje: ¿Qué es un sinónimo?", "Una palabra con significado parecido", "Dice algo semejante."),
         E("¿Por qué comparar palabras parecidas?", "Para elegir la que mejor dice mi idea", "No todas significan igual."),
         E("¿La palabra más difícil siempre es la mejor?", "No", "La mejor es la que dice lo que quiero."),
     ],
@@ -629,7 +629,7 @@ reg(
         E("«¡Qué alegría!», ¿se dice con voz triste o alegre?", "Alegre", "Combina con el sentido."),
     ],
     [
-        E("¿Qué es la entonación?", "Cómo sube y baja la voz", "Muestra el sentido."),
+        E("En Lenguaje: ¿Qué es la entonación?", "Cómo sube y baja la voz", "Muestra el sentido."),
         E("¿Por qué cambio la voz según el texto?", "Para que se entienda lo que siento", "La voz transmite emociones."),
         E("¿Qué debo cuidar con los gestos?", "Que sean suaves y combinen con el texto", "No deben exagerar."),
     ],

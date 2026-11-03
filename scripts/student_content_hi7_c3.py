@@ -30,7 +30,7 @@ build(
     T=[
         ("En Historia: ¿qué es el calentamiento global?", "El aumento del promedio de la temperatura del planeta", "Es una problemática de escala global."),
         ("¿Qué es un recurso energético? Da un ejemplo.", "Una fuente de energía, como el petróleo o el sol", "Se usa para producir energía."),
-        ("¿Qué es una pregunta investigable?", "Una pregunta acotada que se puede responder con datos", "Debe decir qué, dónde y cuándo."),
+        ("En Historia: ¿Qué es una pregunta investigable?", "Una pregunta acotada que se puede responder con datos", "Debe decir qué, dónde y cuándo."),
         ("¿Cuál es una pregunta investigable? A) «¿Es malo el calor?», B) «¿Cuántos días superaron los 30 °C en el verano pasado en la comuna de Puerto Claro?».", "B", "Tiene lugar, período y medida."),
         ("¿Cuál es el tema y cuál la pregunta? A) «energía solar», B) «¿Cuántas casas de mi barrio tienen paneles solares?».", "A es tema; B es pregunta", "La pregunta está acotada y mide algo."),
         ("Una pregunta empieza con «¿Qué pasa con el planeta...?». ¿Qué le falta para ser investigable a escala local?", "Un lugar, un período y una medida", "Es demasiado amplia."),

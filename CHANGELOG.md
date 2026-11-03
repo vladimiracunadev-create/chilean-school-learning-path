@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-02 · 8° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
+
+- Las 728 clases de 8° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (77), Lengua y Literatura (155), Ciencias Naturales (74), Historia (117), Inglés propuesta (65), Inglés oficial (80), Educación Física (26), Orientación (49), Música (30), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena de 8° son integración transversal y no llevan cuaderno propio.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió datos falsos o dudosos, enunciados imposibles o ambiguos, ejercicios que usaban términos no enseñados o texto no entregado, alternativas absurdas, riesgos de seguridad y de protección en línea, y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron más de 50 enunciados idénticos entre asignaturas.
+- El análisis de alineación cubre ahora 1° a 8° básico, y la lista de contenidos para especialistas incluye 8° básico.
+- Siguen abiertos: software y programas reales, audio, video y escucha, obras y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar, protocolos ante grooming por validar con convivencia escolar y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional.
+
 ## 2026-10-31 · Revisión de 7° básico y balanceo de preguntas de tres alternativas
 
 - Se revisó de nuevo 7° básico: las referencias a «la misma tabla», «el caso anterior» y similares entregan sus datos en el ejercicio vecino, y no se hallaron billetes ni monedas inexistentes.

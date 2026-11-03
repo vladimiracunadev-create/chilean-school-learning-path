@@ -92,7 +92,7 @@ build(
         ("{F} ¿Qué pregunta debes hacer a cualquier fuente?", "quién la hizo, cuándo y para qué", "Permite evaluar su valor."),
     ],
     ctx=("Para un trabajo sobre el clima, un grupo tiene solo el mapa B. ¿Qué otra fuente de la ficha necesitan y por qué?", "el gráfico A, porque el mapa no muestra datos de lluvia", "El mapa B solo muestra límites y nombres."),
-    sc=[("¿Qué muestra un gráfico de barras?", "cantidades, con barras de distinta altura", "Es la definición de la clase."),
+    sc=[("En Historia: ¿Qué muestra un gráfico de barras?", "cantidades, con barras de distinta altura", "Es la definición de la clase."),
         ("{F} ¿Qué ciudad tiene 400 milímetros de lluvia?", "Punta Arenas", "El gráfico lo indica."),
         ("¿Por qué conviene combinar fuentes?", "porque cada una aporta datos distintos y tiene límites", "Una sola fuente no basta.")],
     op=("Haz una ficha con las cuatro fuentes. Anota qué dato da cada una, qué pregunta responde y qué límite tiene. Después, haz un gráfico de barras con las lluvias del gráfico A. {F}",

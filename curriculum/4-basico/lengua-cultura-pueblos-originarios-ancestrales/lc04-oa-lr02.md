@@ -797,7 +797,7 @@ Respuesta: «Tu huerta necesita agua»
 *Autoevaluación*
 
 - **E1.** ¿Qué cuatro acciones incluye escuchar?
-- **E2.** ¿Qué es parafrasear?
+- **E2.** En Lengua y Cultura: ¿Qué es parafrasear?
 - **E3.** ¿Qué hago si no entiendo?
 
 **Actividad abierta.** Escribe un diálogo de seis turnos entre dos personas inventadas que conversan sobre el agua. Incluye un saludo con una palabra de la ficha, una pregunta para entender mejor, una frase que parafrasee lo que dijo el otro y un agradecimiento. Léelo en voz alta con una persona de confianza. Recuerda: lo que es tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.

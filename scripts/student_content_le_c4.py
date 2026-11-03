@@ -416,7 +416,7 @@ reg(
         E("¿Dónde hago una pausa más larga: en la coma o en el punto?", "En el punto", "El punto es una pausa larga."),
     ],
     [
-        E("¿Qué es la entonación?", "El sube y baja de la voz", "Da vida al poema."),
+        E("En Lenguaje: ¿Qué es la entonación?", "El sube y baja de la voz", "Da vida al poema."),
         E("¿Qué logro al hacer pausas al recitar?", "Respirar y que me entiendan", "Ordenan lo que digo."),
         E("En una pregunta, ¿la voz sube o baja al final?", "Sube", "Marca que se pregunta."),
     ],

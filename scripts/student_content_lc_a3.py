@@ -313,7 +313,7 @@ L(
         ex("Si 25 personas participan y 9 son niños, ¿cuántas no son niños?", "16", "25 − 9 = 16."),
     ],
     context=[ex("Una vecina dice: «En mi comunidad los mayores guían y los niños aprenden». ¿Quiénes aprenden según ella?", "Los niños", "Lo dice la frase.")],
-    selfcheck=[ex("¿Qué es el propósito?", "La razón por la que se hace un evento", "Es el para qué."), ex("¿Quiénes participan?", "Niños, jóvenes, personas mayores y quien guía", "Hay distintos roles."), ex("¿Quién explica el sentido?", "La comunidad", "Ellos conocen su sentido.")],
+    selfcheck=[ex("En Lengua y Cultura: ¿Qué es el propósito?", "La razón por la que se hace un evento", "Es el para qué."), ex("¿Quiénes participan?", "Niños, jóvenes, personas mayores y quien guía", "Hay distintos roles."), ex("¿Quién explica el sentido?", "La comunidad", "Ellos conocen su sentido.")],
     task=T("Con la tabla de la clase anterior, elige un evento y escribe: su propósito general (por ejemplo «marcar el año nuevo» o «reunir a la comunidad»), quiénes participan en general (niños, jóvenes, mayores) y una pregunta que le harías a la comunidad sobre el evento. Dibuja un símbolo neutro (un sol, una luna, una planta).",
            "Evento: Tapati Rapa Nui. Propósito: reunir y celebrar su cultura. Participan niños, jóvenes y mayores. Pregunta: ¿cómo participan los niños?",
            ["escribe el propósito general", "nombra participantes sin inventar detalles", "formula una pregunta"], ["texto breve", "dibujo neutro"], ["describir rituales"],

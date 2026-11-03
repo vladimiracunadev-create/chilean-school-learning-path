@@ -61,7 +61,7 @@ reg(
     sc=[
         ("¿Con qué se compara el resultado de la prueba?", "Con el criterio", "Así se sabe si cumple."),
         ("¿Cómo debe ser una prueba entre dos trabajos?", "Con las mismas condiciones", "Así es justa."),
-        ("¿Para qué sirve evaluar?", "Para descubrir cómo mejorar", "No es para castigar."),
+        ("En Tecnología: ¿Para qué sirve evaluar?", "Para descubrir cómo mejorar", "No es para castigar."),
     ],
     open_task=(
         "Escoge un trabajo. Trabajo 1: un colgador de cordel y cartón con criterio «aguanta 400 g durante 1 minuto» y resultados 400 g, 400 g y 300 g. Trabajo 2: una caja de cartón con criterio «se abre y cierra 20 veces» y resultados 20, 19 y 20. Haz la tabla, di si cumple, cuánto falta y una idea de mejora.",

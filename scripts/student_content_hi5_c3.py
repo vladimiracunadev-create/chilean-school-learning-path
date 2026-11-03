@@ -42,7 +42,7 @@ register(
     ],
     tiers=tiers(
         [ex("¿Qué es un periódico?", "Una publicación que informa sobre lo que ocurre", "Puede ser de papel o de internet."),
-         ex("¿Cómo se llama el título corto de una noticia?", "Titular", "Es la primera parte que se lee."),
+         ex("En Historia: ¿Cómo se llama el título corto de una noticia?", "Titular", "Es la primera parte que se lee."),
          ex("¿Qué significan las siglas TIC?", "Tecnologías de la información y la comunicación", "Incluyen internet, radio y televisión.")],
         [ex("¿Qué hace la bajada de una noticia?", "Amplía el titular", "Da un poco más de información."),
          ex("¿Para qué sirven las secciones de un periódico?", "Para ordenar las noticias por tema", "Facilitan encontrar lo que interesa."),

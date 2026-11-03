@@ -27,7 +27,7 @@ lesson(
         M("Creer que probar una sola vez no tiene riesgo.", "Se piensa que el daño solo viene con mucho consumo.", "Algunas sustancias generan dependencia o dañan el cerebro en desarrollo."),
     ],
     R=[
-        ex("¿Qué sustancia del tabaco genera dependencia: la nicotina o el agua?", "La nicotina", "Es la sustancia que hace que el cuerpo la pida."),
+        ex("En Orientación: ¿Qué sustancia del tabaco genera dependencia: la nicotina o el agua?", "La nicotina", "Es la sustancia que hace que el cuerpo la pida."),
         ex("La dependencia, ¿es poder dejar una sustancia cuando uno quiere o dificultad para dejarla?", "Dificultad para dejarla", "El cuerpo la pide aunque la persona quiera dejarla."),
         ex("¿La venta de alcohol a menores de edad está permitida en Chile? Responde sí o no.", "No", "La ley chilena lo prohíbe."),
     ],

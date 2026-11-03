@@ -176,7 +176,7 @@ Respuesta: Invitar a conocer la huerta
 *Autoevaluación*
 
 - **E1.** ¿Qué dato dice quién escribió un texto?
-- **E2.** ¿Qué es el propósito?
+- **E2.** En Lengua y Cultura: ¿Qué es el propósito?
 - **E3.** ¿Qué palabra de la ficha agradece?
 
 **Actividad abierta.** Lee esta invitación inventada: Invitación de práctica (inventada). De: el 4.º A de una escuela de práctica. Para: las familias del curso. Texto: «Los invitamos a conocer nuestra huerta. Habrá una muestra de palabras: antü, ko y mapu. Será el viernes a las 10. Chaltumay por venir.» Escribe quién la escribe, para quién es, su propósito principal y una pista del texto que lo muestra. Luego escribe una pregunta que le harías al educador tradicional sobre cómo se invita a una comunidad. Recuerda: lo que es tradicional lo enseñan el educador o la educadora tradicional y tu comunidad. Consúltales antes de dar tu trabajo por terminado.

@@ -141,7 +141,7 @@ reg(
     [
         E("En «Las hormigas», ¿cuántas hormigas se cuentan en el primer verso: «Una, dos, tres»?", "Tres", "El verso las cuenta hasta tres."),
         E("¿Por qué ajustamos el ritmo al sentido del poema?", "Para que la emoción se escuche", "El ritmo refleja lo que dice."),
-        E("¿Qué es la entonación?", "Subir o bajar el tono de la voz", "Da expresión al poema."),
+        E("En Lenguaje: ¿Qué es la entonación?", "Subir o bajar el tono de la voz", "Da expresión al poema."),
     ],
     [
         E("Quieres decir el verso «paso a paso, despacio,» de «La tortuga». ¿Cómo lo dices: a) lento, con pausa corta en cada coma b) muy rápido?", "a", "El ritmo lento refleja «despacio»."),
