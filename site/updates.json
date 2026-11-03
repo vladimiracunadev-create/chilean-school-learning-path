@@ -5,6 +5,15 @@
   "updates": [
     {
       "date": "2026-11-02",
+      "title": "Revisión de 8° básico",
+      "summary": [
+        "Se revisó de nuevo 8° básico: no hay fuentes citadas sin entregar, las preguntas de «une», «clasifica» y «ordena» conservan su respuesta original, el reparto de la respuesta correcta quedó equilibrado (dos opciones: A 1.285 y B 1.235; tres opciones: A 147, B 196 y C 177) y no hay billetes ni monedas inexistentes.",
+        "Se corrigieron dos preguntas de Música (OA 07, clase 4) que decían «en esa misma encuesta» con los datos dos ejercicios antes: ahora traen sus datos.",
+        "Los chequeos de revisión de cada nivel quedaron en un solo script, `chequeos.py`, guardado fuera del repo junto a los demás scripts de trabajo."
+      ]
+    },
+    {
+      "date": "2026-11-02",
       "title": "8° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
       "summary": [
         "Las 728 clases de 8° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (77), Lengua y Literatura (155), Ciencias Naturales (74), Historia (117), Inglés propuesta (65), Inglés oficial (80), Educación Física (26), Orientación (49), Música (30), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena de 8° son integración transversal y no llevan cuaderno propio.",
@@ -21,17 +30,6 @@
         "En las preguntas de tres alternativas (A, B, C) la correcta caía en la B más de la mitad de las veces. Ahora el registro la reparte entre las tres posiciones, de forma determinista, igual que en las de dos alternativas.",
         "Las preguntas de «une», «clasifica», «ordena» y las que responden con varias letras («a = x, b = y») no se reordenan: ahí las letras son etiquetas de una lista y no alternativas. Esta protección también corrige los casos de ese tipo que el balanceo de dos alternativas pudo haber alterado.",
         "El script de publicación ahora se detiene si las pruebas fallan."
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "title": "7° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica",
-      "summary": [
-        "Las 719 clases de 7° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo. Por primera vez entran como asignaturas propias Lengua y Literatura (147 clases) e Inglés oficial (80 clases), además de Inglés propuesta (65). Las fichas de actitud y Lengua Indígena de 7° son integración transversal y no llevan cuaderno propio.",
-        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió datos falsos o dudosos, enunciados imposibles o ambiguos, ejercicios que usaban términos no enseñados o texto no entregado, alternativas absurdas, riesgos de seguridad y de protección en línea, y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron unos 60 enunciados idénticos entre asignaturas.",
-        "Dos módulos se sobrescribieron por error entre autores (Inglés 6° OA 11 y 12, e Inglés oficial 7° OA 11) y se reescribieron; no quedó contenido perdido.",
-        "El análisis de alineación cubre ahora 1° a 7° básico, y la lista de contenidos para especialistas incluye 7° básico.",
-        "Siguen abiertos: software y programas reales, audio, video y escucha, obras y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar, anticoncepción de emergencia y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
       ]
     }
   ]

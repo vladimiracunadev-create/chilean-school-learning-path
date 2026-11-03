@@ -203,8 +203,8 @@ L(
     ],
     [
         ex("Encuesta de ejemplo de 30 estudiantes: bailar 12, calmarse 8, concentrarse 6, celebrar 4. ¿Cuántos estudiantes usan la música para calmarse?", "8", "Es el dato de esa fila."),
-        ex("En esa misma encuesta, ¿cuál es la función más frecuente?", "Bailar", "Tiene el número mayor: 12."),
-        ex("En esa misma encuesta, ¿cuántas funciones distintas aparecen?", "4", "Son bailar, calmarse, concentrarse y celebrar."),
+        ex("Encuesta de ejemplo de 30 estudiantes: bailar 12, calmarse 8, concentrarse 6, celebrar 4. ¿Cuál es la función más frecuente?", "Bailar", "Tiene el número mayor: 12."),
+        ex("Encuesta de ejemplo de 30 estudiantes: bailar 12, calmarse 8, concentrarse 6, celebrar 4. ¿Cuántas funciones distintas aparecen?", "4", "Son bailar, calmarse, concentrarse y celebrar."),
     ],
     [
         arith("Encuesta de ejemplo: bailar 12, calmarse 8, concentrarse 6, celebrar 4. ¿Cuántos estudiantes usan la música para bailar o celebrar?", "12+4", "Se suman las dos respuestas.", " estudiantes"),

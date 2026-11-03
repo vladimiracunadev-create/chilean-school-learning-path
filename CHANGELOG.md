@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-02 · Revisión de 8° básico
+
+- Se revisó de nuevo 8° básico: no hay fuentes citadas sin entregar, las preguntas de «une», «clasifica» y «ordena» conservan su respuesta original, el reparto de la respuesta correcta quedó equilibrado (dos opciones: A 1.285 y B 1.235; tres opciones: A 147, B 196 y C 177) y no hay billetes ni monedas inexistentes.
+- Se corrigieron dos preguntas de Música (OA 07, clase 4) que decían «en esa misma encuesta» con los datos dos ejercicios antes: ahora traen sus datos.
+- Los chequeos de revisión de cada nivel quedaron en un solo script, `chequeos.py`, guardado fuera del repo junto a los demás scripts de trabajo.
+
 ## 2026-11-02 · 8° básico: cuaderno del estudiante de las 11 asignaturas y segunda lectura crítica
 
 - Las 728 clases de 8° básico tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (77), Lengua y Literatura (155), Ciencias Naturales (74), Historia (117), Inglés propuesta (65), Inglés oficial (80), Educación Física (26), Orientación (49), Música (30), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena de 8° son integración transversal y no llevan cuaderno propio.
