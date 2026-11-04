@@ -1,8 +1,19 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-11-02",
+  "latest_date": "2026-11-04",
   "updates": [
+    {
+      "date": "2026-11-04",
+      "title": "1° medio: cuaderno del estudiante de las 11 asignaturas, segunda lectura crítica y corrección de la puntuación al reordenar opciones",
+      "summary": [
+        "Las 753 clases de 1° medio tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (66), Lengua y Literatura (143), Ciencias Naturales (100), Historia, Geografía y Ciencias Sociales (132), Inglés propuesta (65), Inglés oficial (80), Educación Física (28), Orientación (52), Música (32), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena son integración transversal y no llevan cuaderno propio.",
+        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional). Corrigieron datos históricos y científicos inexactos, unas 150 consignas de Historia que citaban fuentes que no estaban en el enunciado, más de 130 preguntas de recuperación de Orientación que regalaban la definición, unas 60 de Matemática que repetían un ejemplo, errores de ortografía y gramática enseñados, riesgos de seguridad y de protección en línea, supuestos sobre la familia, y solapes de contexto entre Inglés propuesta e Inglés oficial. Se reescribieron 39 enunciados idénticos a los de otros niveles.",
+        "Se corrigió el reordenamiento automático de opciones A/B y A/B/C: cuando una opción traía su propio «?» o «.», la puntuación se duplicaba al final («??», «..») y la opción desplazada quedaba sin su signo. Ahora cada opción conserva su puntuación al cambiar de lugar. Afecta a las preguntas de todos los niveles.",
+        "El análisis de alineación cubre ahora 1° básico a 1° medio, y la lista de contenidos para especialistas incluye 1° medio.",
+        "Siguen abiertos: software y programas reales, audio, video y pronunciación, obras y textos reales con derechos de autor, pueblos originarios (educador tradicional), números de ayuda por verificar, protocolos de protección por validar con convivencia escolar, hechos y fechas históricas por contrastar con una fuente y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
+      ]
+    },
     {
       "date": "2026-11-02",
       "title": "Revisión de 8° básico",
@@ -20,16 +31,6 @@
         "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional) que la contrastó con el OA y el título de la clase, resolvió los ejercicios cerrados y corrigió datos falsos o dudosos, enunciados imposibles o ambiguos, ejercicios que usaban términos no enseñados o texto no entregado, alternativas absurdas, riesgos de seguridad y de protección en línea, y supuestos sobre la familia. Se cerraron vacíos frente al OA dentro de las clases existentes y se reescribieron más de 50 enunciados idénticos entre asignaturas.",
         "El análisis de alineación cubre ahora 1° a 8° básico, y la lista de contenidos para especialistas incluye 8° básico.",
         "Siguen abiertos: software y programas reales, audio, video y escucha, obras y textos reales con derechos de autor, lengua y relatos reales de cada pueblo (educador tradicional), números de ayuda por verificar, protocolos ante grooming por validar con convivencia escolar y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Revisión de 7° básico y balanceo de preguntas de tres alternativas",
-      "summary": [
-        "Se revisó de nuevo 7° básico: las referencias a «la misma tabla», «el caso anterior» y similares entregan sus datos en el ejercicio vecino, y no se hallaron billetes ni monedas inexistentes.",
-        "En las preguntas de tres alternativas (A, B, C) la correcta caía en la B más de la mitad de las veces. Ahora el registro la reparte entre las tres posiciones, de forma determinista, igual que en las de dos alternativas.",
-        "Las preguntas de «une», «clasifica», «ordena» y las que responden con varias letras («a = x, b = y») no se reordenan: ahí las letras son etiquetas de una lista y no alternativas. Esta protección también corrige los casos de ese tipo que el balanceo de dos alternativas pudo haber alterado.",
-        "El script de publicación ahora se detiene si las pruebas fallan."
       ]
     }
   ]

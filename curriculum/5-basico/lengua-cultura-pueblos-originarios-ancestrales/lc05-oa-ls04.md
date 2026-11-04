@@ -577,7 +577,7 @@ Respuesta: cultural, con trato muy respetuoso
 
 - **A1.** Ficha de tono (de práctica): Para una persona adulta o una autoridad, en Chile se usa un trato respetuoso, con «usted» o «señora/señor», como en «le pedimos que nos enseñe». Para compañeros de curso se puede usar un trato cercano, con «tú» o «ustedes», como en «les contamos que habrá una minga». En ambos casos se usan palabras amables como «por favor» y «gracias». Une cada mensaje con su trato: A) a la directora, B) a los compañeros de curso. Tratos: 1) cercano, 2) respetuoso. Escribe los dos pares.
 - **A2.** Un curso escribe 5 mensajes a autoridades y 8 a compañeros. ¿Cuántos mensajes escribe en total?
-- **A3.** Elige la mejor forma de pedir ayuda a una autoridad: A) «Ayúdanos con la minga ahora». Escribe la letra B) «Le pedimos, por favor, que nos ayude con la minga»..
+- **A3.** Elige la mejor forma de pedir ayuda a una autoridad: A) «Ayúdanos con la minga ahora». Escribe la letra. B) «Le pedimos, por favor, que nos ayude con la minga».
 
 *Razonamiento y análisis*
 

@@ -361,12 +361,12 @@ Respuesta: usa un estereotipo en lugar de pistas
 *Comprensión*
 
 - **C1.** Título: «Gracias, educadora». Imagen: una tarjeta con un corazón. ¿Qué anticipas: que alguien agradece o que alguien se despide para siempre?
-- **C2.** ¿Cuál anticipación usa pistas? A) «Trata de lo que todos los indígenas hacen» B) «Trata de agua, porque la imagen tiene una jarra»..
+- **C2.** ¿Cuál anticipación usa pistas? A) «Trata de lo que todos los indígenas hacen». B) «Trata de agua, porque la imagen tiene una jarra».
 - **C3.** Luis dice: «Seguro que los personajes viven en el campo». ¿Qué le falta a su idea: una pista del texto o más imaginación?
 
 *Aplicación*
 
-- **A1.** Cambia el estereotipo por una pregunta: «Todos los indígenas viven en el campo». Elige: A) «Seguro que en el campo» B) «¿Dónde ocurre este texto?»..
+- **A1.** Cambia el estereotipo por una pregunta: «Todos los indígenas viven en el campo». Elige: A) «Seguro que en el campo». B) «¿Dónde ocurre este texto?».
 - **A2.** Título: «La luna y la jarra». Imagen: una luna y una jarra con agua. ¿Cuáles dos cosas anticipas que aparecen en el texto?
 - **A3.** Anticipación: «El texto habla de una visita». Al leer, el texto habla de una visita. ¿Tu anticipación coincidió? Sí o No.
 
@@ -780,11 +780,11 @@ Respuesta: el texto no lo dice
 
 - **C1.** Ficha: «mari mari» es un saludo y «chaltumay» quiere decir «gracias», ambas en mapuzugun. ¿Qué quiere decir la palabra que Lía escribió en la tarjeta?
 - **C2.** Verdadero o falso: una respuesta completa tiene un dato del texto, un saber mío y una razón.
-- **C3.** Si la pregunta es «¿En qué calle vive Lía?», ¿qué respondo? A) «En una calle larga» B) «El texto no lo dice»..
+- **C3.** Si la pregunta es «¿En qué calle vive Lía?», ¿qué respondo? A) «En una calle larga». B) «El texto no lo dice».
 
 *Aplicación*
 
-- **A1.** Pregunta: ¿Por qué Lía escribió «chaltumay»? Elige la respuesta completa. A) «Porque sí» B) «Porque quería agradecer; y «chaltumay» es gracias según la ficha»..
+- **A1.** Pregunta: ¿Por qué Lía escribió «chaltumay»? Elige la respuesta completa. A) «Porque sí». B) «Porque quería agradecer; y «chaltumay» es gracias según la ficha».
 - **A2.** Pregunta: ¿Con qué palabra respondió la visita a todo el curso? Responde con el texto U.
 - **A3.** En el texto U, ¿qué palabra escribió Lía en la tarjeta y qué palabra dijo la visita en voz alta?
 

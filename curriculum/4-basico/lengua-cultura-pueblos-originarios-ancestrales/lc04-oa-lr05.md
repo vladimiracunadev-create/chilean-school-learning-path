@@ -164,7 +164,7 @@ Respuesta: no lo copia y pregunta al educador tradicional
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si el diseño de un textil es bonito, lo copio en mi recurso». ¿Tiene razón? Sí o No.
-- **Z2.** El curso no sabe si puede mostrar el afiche a otros cursos. ¿Qué hace mejor: A) acuerda con el educador tradicional quién lo verá antes de empezar B) lo publica y ve qué pasa.?
+- **Z2.** El curso no sabe si puede mostrar el afiche a otros cursos. ¿Qué hace mejor: A) acuerda con el educador tradicional quién lo verá antes de empezar? B) lo publica y ve qué pasa.
 
 *Desafío*
 
@@ -581,7 +581,7 @@ Respuesta: el dibujo copiado del textil
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Mi diseño tiene diez palabras en lengua indígena, así que es mejor». La lista autorizada trae solo 3. ¿Tiene razón? Sí o No.
-- **Z2.** Dos bocetos: A) título, 8 palabras sin permiso, diseño copiado de un textil. ¿Cuál cumple mejor B) título, 2 palabras autorizadas con significado, dibujo propio, fuente y autores.?
+- **Z2.** Dos bocetos: A) título, 8 palabras sin permiso, diseño copiado de un textil. ¿Cuál cumple mejor? B) título, 2 palabras autorizadas con significado, dibujo propio, fuente y autores.
 
 *Desafío*
 
@@ -994,7 +994,7 @@ Respuesta: No
 
 - **A1.** Datos de un afiche: 1) fuente de las palabras, 2) quiénes lo hicieron, 3) para quién es. ¿Cuántos datos de atribución tiene el afiche si trae solo el 1 y el 2?
 - **A2.** El permiso de la educadora: «solo para familias en la reunión del curso». ¿Quién puede ver el recurso: las familias en la reunión o todo internet?
-- **A3.** Un niño quiere escribir al pie del afiche el nombre y el apellido de un compañero. ¿Qué hacen: A) los ponen sin preguntar B) piden permiso a la persona y a su familia, y usan solo su primer nombre si lo permiten.?
+- **A3.** Un niño quiere escribir al pie del afiche el nombre y el apellido de un compañero. ¿Qué hacen: A) los ponen sin preguntar? B) piden permiso a la persona y a su familia, y usan solo su primer nombre si lo permiten.
 
 *Razonamiento y análisis*
 

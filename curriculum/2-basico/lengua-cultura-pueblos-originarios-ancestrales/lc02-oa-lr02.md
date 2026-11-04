@@ -585,7 +585,7 @@ Respuesta: La a) en una actividad del curso
 *Desafío*
 
 - **D1.** Ordena las palabras y escribe la oración con «ko» entre paréntesis después de «agua»: «agua / el / del / está / río / fría».
-- **D2.** Dos oraciones: A) «Antü calienta mapu». ¿Cuál no inventa gramática B) «El sol (antü) calienta la tierra (mapu)».?
+- **D2.** Dos oraciones: A) «Antü calienta mapu». ¿Cuál no inventa gramática? B) «El sol (antü) calienta la tierra (mapu)».
 
 *Situaciones auténticas*
 

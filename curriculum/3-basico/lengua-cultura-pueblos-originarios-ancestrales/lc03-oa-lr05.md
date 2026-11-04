@@ -158,7 +158,7 @@ Respuesta: B
 *Aplicación*
 
 - **A1.** Un curso escribió el propósito y los límites de su recurso, pero no dijo quiénes lo verán. ¿Qué parte del acuerdo le falta?
-- **A2.** Propósito: enseñar a saludar con «mari mari». ¿Qué límite es mejor? A) usar todas las palabras que encuentre B) usar solo la palabra que autorizó la educadora..
+- **A2.** Propósito: enseñar a saludar con «mari mari». ¿Qué límite es mejor? A) usar todas las palabras que encuentre. B) usar solo la palabra que autorizó la educadora.
 - **A3.** ¿Cuáles son límites? 1) no grabar sin permiso. 2) usar muchos colores. 3) no poner datos personales. 4) no mostrar ceremonias. Escribe los números.
 
 *Razonamiento y análisis*
@@ -368,7 +368,7 @@ Respuesta: no la usamos; la anotamos como pregunta
 
 - **A1.** Un recurso de «saludo y gracias» necesita dos expresiones de la lista autorizada. ¿Cuáles son?
 - **A2.** Candidatas: 1) «chaltumay», que está en la lista. 2) una palabra escuchada en un video, sin fuente. 3) «ko», que está en la lista. ¿Cuáles puedes usar? Escribe los números.
-- **A3.** ¿Qué anotación es completa? A) «ko» B) «ko»: agua (Fuente: lista autorizada de la Escuela Ejemplo)..
+- **A3.** ¿Qué anotación es completa? A) «ko». B) «ko»: agua (Fuente: lista autorizada de la Escuela Ejemplo).
 
 *Razonamiento y análisis*
 
@@ -796,7 +796,7 @@ Respuesta: en castellano
 *Desafío*
 
 - **D1.** Ordena para incluir una palabra con respeto: A) la educadora la graba o la dice en persona. B) pregunto si lo puede hacer y para qué uso. C) yo preparo el espacio en mi recurso. Escribe las letras.
-- **D2.** ¿Cuál recurso es mejor para revitalizar? A) uno que imita las voces de los hablantes B) uno que muestra las palabras con fuente y deja que hablen quienes saben..
+- **D2.** ¿Cuál recurso es mejor para revitalizar? A) uno que imita las voces de los hablantes. B) uno que muestra las palabras con fuente y deja que hablen quienes saben.
 
 *Situaciones auténticas*
 
@@ -1004,7 +1004,7 @@ Respuesta: No
 
 *Desafío*
 
-- **D1.** Créditos completos: A) solo el título. ¿Cuál escribes B) fuente de las palabras, quiénes hicieron el recurso y para qué.?
+- **D1.** Créditos completos: A) solo el título. ¿Cuál escribes? B) fuente de las palabras, quiénes hicieron el recurso y para qué.
 - **D2.** Tres decisiones de acceso: 1) solo el curso. 2) las familias con aviso. 3) abierto a todo internet sin permiso. ¿Cuál no corresponde si no hay permiso?
 
 *Situaciones auténticas*

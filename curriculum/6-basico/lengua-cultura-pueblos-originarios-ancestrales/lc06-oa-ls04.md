@@ -785,7 +785,7 @@ Respuesta: Según una alfarera de la Comunidad Ejemplo, el taller funciona los m
 *Aplicación*
 
 - **A1.** Ordena las cuatro partes del informe. A) límite. B) agradecimiento. C) saludo. D) lo aprendido con «según». Escribe las letras en orden.
-- **A2.** Ficha de la visita (inventada para practicar): Lugar: taller de cerámica de la Comunidad Ejemplo, pueblo mapuche. Persona que recibió al curso: una alfarera. Autorizó contar: que el taller funciona los martes y que las personas aprenden a modelar greda. Saludo autorizado: «mari mari». Agradecimiento autorizado: «chaltumay». Pidió no contar: las conversaciones que se tuvieron dentro del taller. Elige la mejor oración. A) «Todos los talleres de los mapuche funcionan los martes». Escribe la letra B) «Según una alfarera de la Comunidad Ejemplo, el taller funciona los martes»..
+- **A2.** Ficha de la visita (inventada para practicar): Lugar: taller de cerámica de la Comunidad Ejemplo, pueblo mapuche. Persona que recibió al curso: una alfarera. Autorizó contar: que el taller funciona los martes y que las personas aprenden a modelar greda. Saludo autorizado: «mari mari». Agradecimiento autorizado: «chaltumay». Pidió no contar: las conversaciones que se tuvieron dentro del taller. Elige la mejor oración. A) «Todos los talleres de los mapuche funcionan los martes». Escribe la letra. B) «Según una alfarera de la Comunidad Ejemplo, el taller funciona los martes».
 - **A3.** El informe debe tener 4 oraciones y un estudiante escribió 1. ¿Cuántas oraciones le faltan?
 
 *Razonamiento y análisis*

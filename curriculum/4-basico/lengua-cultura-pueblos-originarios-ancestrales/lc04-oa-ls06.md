@@ -164,7 +164,7 @@ Respuesta: no: faltan el propósito, la fuente y la autorización
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si registro en castellano, no necesito decir de dónde vienen las palabras indígenas que usaré». ¿Tiene razón? Sí o No.
-- **Z2.** Un niño quiere agregar una foto de un compañero regando la planta. ¿Qué es mejor: A) subirla igual B) preguntar a él y a su familia y, si no quieren, usar una foto de las manos o la planta.?
+- **Z2.** Un niño quiere agregar una foto de un compañero regando la planta. ¿Qué es mejor: A) subirla igual? B) preguntar a él y a su familia y, si no quieren, usar una foto de las manos o la planta.
 
 *Desafío*
 
@@ -373,7 +373,7 @@ Respuesta: A y D
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «El medio con más puntos es siempre el mejor para cualquier propósito». ¿Tiene razón? Sí o No.
-- **Z2.** Dos razones para elegir el medio D: A) se ve moderno. ¿Cuál es una buena razón B) cumple los cuatro criterios y sirve para contar el huerto.?
+- **Z2.** Dos razones para elegir el medio D: A) se ve moderno. ¿Cuál es una buena razón? B) cumple los cuatro criterios y sirve para contar el huerto.
 
 *Desafío*
 
@@ -791,7 +791,7 @@ Respuesta: sí, se guarda en la carpeta de la sala
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si guardo dos copias, una en la sala y otra en un sitio abierto, igual respeto el permiso». ¿Tiene razón? Sí o No.
-- **Z2.** Dos revisiones: A) lo leo rápido y lo muestro. ¿Cuál cuida mejor el trabajo B) leo el registro y reviso las cuatro preguntas.?
+- **Z2.** Dos revisiones: A) lo leo rápido y lo muestro. ¿Cuál cuida mejor el trabajo? B) leo el registro y reviso las cuatro preguntas.
 
 *Desafío*
 

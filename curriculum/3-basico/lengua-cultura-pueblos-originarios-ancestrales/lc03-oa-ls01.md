@@ -368,7 +368,7 @@ Respuesta: No
 
 - **A1.** Cuatro preguntas para situar un relato: ¿quién lo cuenta?, ¿de qué pueblo y territorio?, ¿puedo compartirlo?, ¿para qué se cuenta? Quieres saber si el relato se puede contar a otros. ¿Cuál pregunta te lo dice?
 - **A2.** Ficha oral C (inventada): Relato: «Gracias». Lo cuenta: la educadora tradicional de la Escuela Ejemplo. Permiso: solo dentro de la sala. Para qué: enseñar una palabra. ¿Puedes contarlo en una radio abierta? Sí o No.
-- **A3.** ¿Qué frase es mejor al contar un relato de práctica? A) «Es un relato de un pueblo antiguo» B) «Lo escuché de mi profesor, que lo inventó»..
+- **A3.** ¿Qué frase es mejor al contar un relato de práctica? A) «Es un relato de un pueblo antiguo». B) «Lo escuché de mi profesor, que lo inventó».
 
 *Razonamiento y análisis*
 
@@ -784,7 +784,7 @@ Respuesta: Según la ficha, «mari mari» es un saludo en mapuzugun.
 
 *Aplicación*
 
-- **A1.** Reescribe para no generalizar: «Todos los pueblos originarios hacen lo mismo en las visitas». Elige: A) «Todos saludan al llegar» B) «Según la educadora, en su comunidad se saluda al llegar»..
+- **A1.** Reescribe para no generalizar: «Todos los pueblos originarios hacen lo mismo en las visitas». Elige: A) «Todos saludan al llegar». B) «Según la educadora, en su comunidad se saluda al llegar».
 - **A2.** Une cada saber con quien lo dijo. 1) «El agua es necesaria». 2) «Me gusta escuchar relatos». Dijeron: Lucía y Diego, respectivamente. ¿Quién dijo la 2?
 - **A3.** Marta dijo que quiere saber más sobre el río del relato. ¿Qué frase atribuye bien ese saber? A) «Marta quiere saber más sobre el río». B) «Todos queremos saber más sobre el río».
 
@@ -987,7 +987,7 @@ Respuesta: «yo pienso que es una palabra amable»
 
 *Comprensión*
 
-- **C1.** Elige la frase con atribución: A) ««Ko» es agua» B) «Aprendí con la educadora que «ko» es agua»..
+- **C1.** Elige la frase con atribución: A) ««Ko» es agua». B) «Aprendí con la educadora que «ko» es agua».
 - **C2.** Verdadero o falso: puedo hablar en nombre de toda una comunidad después de una visita.
 - **C3.** En «Quisiera saber cuándo se dice «mari mari»», ¿qué expresa la frase: un dato o una pregunta?
 

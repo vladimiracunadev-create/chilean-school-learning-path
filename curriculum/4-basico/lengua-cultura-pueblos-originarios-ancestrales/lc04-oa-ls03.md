@@ -790,7 +790,7 @@ Respuesta: B
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «La tarjeta está mal hecha porque no dibujaron el río». ¿Es una opinión fundamentada en el texto? Sí o No.
-- **Z2.** Dos opiniones: A) «Esa cultura es mejor que otras». ¿Cuál es respetuosa y fundamentada B) «Pienso que la tarjeta es respetuosa porque agradece con una palabra de la ficha».?
+- **Z2.** Dos opiniones: A) «Esa cultura es mejor que otras». ¿Cuál es respetuosa y fundamentada? B) «Pienso que la tarjeta es respetuosa porque agradece con una palabra de la ficha».
 
 *Desafío*
 
@@ -988,7 +988,7 @@ Respuesta: No
 
 - **C1.** Texto de práctica D (inventado): «Hoy el curso aprendió que «ñuke» es madre y que «kuyen» es luna. La educadora tradicional dijo que hay muchas formas de decir y escribir las palabras, según cada comunidad, y que para saber cuál usar hay que preguntar. Al final, el curso copió las palabras de la ficha y anotó la fuente.» ¿Qué copió el curso al final?
 - **C2.** Verdadero o falso: un texto breve cuenta toda la cultura de un pueblo.
-- **C3.** Frases que ponen un límite: A) «todos saben que…». ¿Cuál pone un límite B) «el texto no dice…».?
+- **C3.** Frases que ponen un límite: A) «todos saben que…». ¿Cuál pone un límite? B) «el texto no dice…».
 
 *Aplicación*
 
@@ -999,7 +999,7 @@ Respuesta: No
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Según el texto, solo hay una forma correcta de escribir las palabras». ¿Tiene razón? Sí o No.
-- **Z2.** Dos explicaciones: A) «El curso respetó la fuente, porque todos lo hacen». ¿Cuál tiene evidencia B) «El curso respetó la fuente, porque el texto dice que anotó la fuente».?
+- **Z2.** Dos explicaciones: A) «El curso respetó la fuente, porque todos lo hacen». ¿Cuál tiene evidencia? B) «El curso respetó la fuente, porque el texto dice que anotó la fuente».
 
 *Desafío*
 

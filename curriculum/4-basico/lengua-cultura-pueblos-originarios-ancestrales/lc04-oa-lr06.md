@@ -164,7 +164,7 @@ Respuesta: no: faltan el propósito, la fuente y la autorización
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si muchas personas aparecen en el registro, con que una autorice basta». ¿Tiene razón? Sí o No.
-- **Z2.** Un niño quiere registrar con un teléfono una experiencia privada de una familia sin preguntarle. ¿Qué es mejor: A) preguntar antes y registrar solo si la familia lo pide B) registrar y pedir permiso después.?
+- **Z2.** Un niño quiere registrar con un teléfono una experiencia privada de una familia sin preguntarle. ¿Qué es mejor: A) preguntar antes y registrar solo si la familia lo pide? B) registrar y pedir permiso después.
 
 *Desafío*
 
@@ -362,7 +362,7 @@ Respuesta: un texto escrito a mano o un dibujo
 
 - **C1.** Verdadero o falso: un dibujo con rótulos puede ser un registro válido de una experiencia.
 - **C2.** Medios de práctica: A) un texto escrito a mano. B) un dibujo con rótulos. C) un audio grabado con un dispositivo del colegio. D) un video con rostros de estudiantes. ¿Cuál guarda solo la voz, sin mostrar rostros: C o D?
-- **C3.** Un medio accesible es A) el más caro. ¿Cuál es B) el que todos pueden usar.?
+- **C3.** Un medio accesible es A) el más caro. ¿Cuál es? B) el que todos pueden usar.
 
 *Aplicación*
 
@@ -373,7 +373,7 @@ Respuesta: un texto escrito a mano o un dibujo
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si grabo un video, el registro es mejor que un texto». ¿Es siempre cierto? Sí o No.
-- **Z2.** Propósito: guardar la opinión de varios estudiantes sin mostrar sus rostros. Opciones: A) texto escrito con sus iniciales y permiso. ¿Cuál cuida mejor B) video.?
+- **Z2.** Propósito: guardar la opinión de varios estudiantes sin mostrar sus rostros. Opciones: A) texto escrito con sus iniciales y permiso. ¿Cuál cuida mejor? B) video.
 
 *Desafío*
 
@@ -780,18 +780,18 @@ Respuesta: se guardó en un sitio abierto; debe guardarse en la sala
 
 - **C1.** Verdadero o falso: un registro puede guardarse en un sitio abierto si quedó muy bien escrito.
 - **C2.** En el borrador de práctica, ¿qué dato personal aparece: los nombres completos de dos estudiantes o el saludo?
-- **C3.** El contexto de un registro responde A) con qué color se escribió. ¿Cuál es B) cuándo, dónde y para qué.?
+- **C3.** El contexto de un registro responde A) con qué color se escribió. ¿Cuál es? B) cuándo, dónde y para qué.
 
 *Aplicación*
 
 - **A1.** Borrador de práctica (inventado): «Hoy vino una visita. Dijimos mari marí y después chaltumay. Pedro Soto y Ana Rojas hicieron un dibujo. Lo guardamos en un sitio abierto de internet.» Cuenta los problemas: 1) «marí» mal escrito, 2) apellidos, 3) almacenamiento abierto, 4) falta la autoría de la educadora. ¿Cuántos problemas hay en total?
-- **A2.** ¿Cómo queda mejor la parte «Pedro Soto y Ana Rojas hicieron un dibujo» sin datos personales? A) «Pedro y Ana Rojas hicieron un dibujo» B) «El curso hizo un dibujo»..
+- **A2.** ¿Cómo queda mejor la parte «Pedro Soto y Ana Rojas hicieron un dibujo» sin datos personales? A) «Pedro y Ana Rojas hicieron un dibujo». B) «El curso hizo un dibujo».
 - **A3.** Completa la autoría: «Palabras enseñadas por ____. Registro hecho por el curso». Elige: la educadora tradicional o un sitio de internet.
 
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si las palabras están bien escritas, el registro ya está listo». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de guardar: A) en un sitio abierto porque «así lo ven más personas». ¿Cuál respeta el permiso de «solo para guardar en la sala» B) en una carpeta del colegio autorizada.?
+- **Z2.** Dos formas de guardar: A) en un sitio abierto porque «así lo ven más personas». ¿Cuál respeta el permiso de «solo para guardar en la sala»? B) en una carpeta del colegio autorizada.
 
 *Desafío*
 

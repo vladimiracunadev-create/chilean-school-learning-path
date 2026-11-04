@@ -377,7 +377,7 @@ Respuesta: no: es una idea inventada que el cuento no dice
 
 *Desafío*
 
-- **D1.** Cuento 2 (inventado para practicar): En Isla Ejemplo, una cultura ficticia, una familia abre cada mañana la ventana que mira al este y dice una frase de saludo al día. Los niños aprenden la frase escuchando. Cuando alguien de la casa viaja, la familia le entrega un cordón con tres nudos. Cada nudo recuerda a una persona de la casa. Quien regresa devuelve el cordón y cuenta su viaje. La frase de saludo no se enseña a quienes no son de la isla. Elige el mejor resumen. A) «Los habitantes de la isla usan cordones para predecir el clima». Escribe la letra B) «En el cuento inventado de Isla Ejemplo, una familia saluda al día desde la ventana y entrega un cordón con tres nudos a quien viaja; la frase de saludo no se enseña a quienes no son de la isla»..
+- **D1.** Cuento 2 (inventado para practicar): En Isla Ejemplo, una cultura ficticia, una familia abre cada mañana la ventana que mira al este y dice una frase de saludo al día. Los niños aprenden la frase escuchando. Cuando alguien de la casa viaja, la familia le entrega un cordón con tres nudos. Cada nudo recuerda a una persona de la casa. Quien regresa devuelve el cordón y cuenta su viaje. La frase de saludo no se enseña a quienes no son de la isla. Elige el mejor resumen. A) «Los habitantes de la isla usan cordones para predecir el clima». Escribe la letra. B) «En el cuento inventado de Isla Ejemplo, una familia saluda al día desde la ventana y entrega un cordón con tres nudos a quien viaja; la frase de saludo no se enseña a quienes no son de la isla».
 - **D2.** Si una persona de una comunidad real te cuenta un texto y te dice que ciertas partes se guardan, ¿al contarlo las incluyes o las dejas fuera?
 
 *Situaciones auténticas*
@@ -586,7 +586,7 @@ Respuesta: ambos ayudan a mirar con atención el lugar donde se vive
 
 *Desafío*
 
-- **D1.** Cuento 1 (inventado para practicar; Lluvia Ejemplo es un pueblo ficticio): En Lluvia Ejemplo, cada niña y cada niño recibe a los ocho años un canasto vacío. Durante un año llena su canasto con objetos pequeños que encuentra y le gustan: una piedra lisa, una pluma caída, una semilla. Al terminar el año comparte con su familia la historia de cada objeto. La abuela dice que el canasto lleno enseña a mirar con atención el lugar donde se vive. El pueblo no cuenta a los visitantes qué objetos guardan los mayores en sus canastos. Elige la mejor interpretación. A) «El canasto sirve para esconder cosas». Escribe la letra B) «Según la abuela, el canasto lleno enseña a mirar con atención el lugar donde se vive»..
+- **D1.** Cuento 1 (inventado para practicar; Lluvia Ejemplo es un pueblo ficticio): En Lluvia Ejemplo, cada niña y cada niño recibe a los ocho años un canasto vacío. Durante un año llena su canasto con objetos pequeños que encuentra y le gustan: una piedra lisa, una pluma caída, una semilla. Al terminar el año comparte con su familia la historia de cada objeto. La abuela dice que el canasto lleno enseña a mirar con atención el lugar donde se vive. El pueblo no cuenta a los visitantes qué objetos guardan los mayores en sus canastos. Elige la mejor interpretación. A) «El canasto sirve para esconder cosas». Escribe la letra. B) «Según la abuela, el canasto lleno enseña a mirar con atención el lugar donde se vive».
 - **D2.** Quieres vincular el cordón de tres nudos con algo de tu vida y dices «es exactamente igual a mi pulsera». ¿Qué debes cambiar para respetar el texto?
 
 *Situaciones auténticas*

@@ -120,7 +120,13 @@ def _swap_options(item: dict) -> None:
     la, lb = ("a", "b") if lo else ("A", "B")
     ma, mb = first.group(1), second.group(1)
     ca, cb = first.group(3), second.group(3)
-    item["q"] = f"{stem}{ma}{la}{ca} {b_text}{separator} {mb}{lb}{cb} {a_text}{tail}"
+    own_a = re.search(r"[?.!]*$", a_text).group(0)
+    if own_a:
+        # Each option carries its own closing mark, so it travels with its text instead of doubling at the end.
+        a_core = a_text[:len(a_text) - len(own_a)].strip()
+        item["q"] = f"{stem}{ma}{la}{ca} {b_text}{tail}{separator} {mb}{lb}{cb} {a_core}{own_a}"
+    else:
+        item["q"] = f"{stem}{ma}{la}{ca} {b_text}{separator} {mb}{lb}{cb} {a_text}{tail}"
     flipped = ("b" if am.group(2) == "a" else "B") if am.group(2) in "aA" else ("a" if am.group(2) == "b" else "A")
     item["a"] = f"{am.group(1)}{flipped}{am.group(3)}{am.group(4) or ''}"
 
@@ -152,6 +158,13 @@ def _swap_three(item: dict) -> None:
     target = zlib.crc32(key.encode("utf-8")) % 3
     if target == correct:
         return
+    owns = [re.search(r"[?.!]*$", t).group(0) for t in texts]
+    carry = bool(owns[0] or owns[1])
+    if carry:
+        # Options written with their own closing marks keep them when they change place.
+        cores = [t[:len(t) - len(o)].strip() if o else t for t, o in zip(texts, owns)]
+        owns[2] = tail
+        texts = [c + o for c, o in zip(cores, owns)]
     new = list(texts)
     new[correct], new[target] = texts[target], texts[correct]
     stem = q[:marks[0].start()]
@@ -161,7 +174,7 @@ def _swap_three(item: dict) -> None:
         parts.append(f"{mk.group(1)}{mk.group(2)}{mk.group(3)} {new[i]}")
         if i < 2:
             parts.append(seps[i] + " ")
-    item["q"] = "".join(parts) + tail
+    item["q"] = "".join(parts) + ("" if carry else tail)
     letter = ("abc" if am.group(2).islower() else "ABC")[target]
     item["a"] = f"{am.group(1)}{letter}{am.group(3)}{am.group(4) or ''}"
 

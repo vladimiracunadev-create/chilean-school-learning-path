@@ -377,7 +377,7 @@ Respuesta: habla solo por su comunidad
 
 *Desafío*
 
-- **D1.** Exposición oral (inventada para practicar; la lee una persona adulta en voz alta): «Hoy hablaré del pueblo mapuche, que habla mapuzugun y vive sobre todo en el centro y sur de Chile. Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles y cada reunión comienza con un saludo, «mari mari». Ella cree que el taller ayuda a que las niñas y los niños se sientan parte de su comunidad. Aclara que habla solo por su comunidad. Yo pienso que los talleres son una buena forma de aprender.» Elige el mejor resumen. A) «Los mapuche hacen un taller de lengua los miércoles». Escribe la letra B) «Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles; ella habla solo por su comunidad»..
+- **D1.** Exposición oral (inventada para practicar; la lee una persona adulta en voz alta): «Hoy hablaré del pueblo mapuche, que habla mapuzugun y vive sobre todo en el centro y sur de Chile. Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles y cada reunión comienza con un saludo, «mari mari». Ella cree que el taller ayuda a que las niñas y los niños se sientan parte de su comunidad. Aclara que habla solo por su comunidad. Yo pienso que los talleres son una buena forma de aprender.» Elige el mejor resumen. A) «Los mapuche hacen un taller de lengua los miércoles». Escribe la letra. B) «Según una educadora tradicional de la Escuela Ejemplo, en su comunidad hay un taller de lengua los miércoles; ella habla solo por su comunidad».
 - **D2.** Tomaste 12 notas en una exposición. 3 son datos generales, 5 son datos de la fuente y 2 son opiniones. El resto son límites. ¿Cuántas notas son límites?
 
 *Situaciones auténticas*
@@ -1004,7 +1004,7 @@ Respuesta: jerarquiza
 
 *Desafío*
 
-- **D1.** Comunidad A (inventada para practicar), pueblo mapuche: reunión mensual en la sede; taller de lengua los miércoles; programa de radio los sábados. Comunidad B (inventada), pueblo aymara: reunión cada dos meses en la sede; taller de tejido los viernes; programa de radio los domingos. Cultura Ejemplo (inventada, de un país imaginario): feria de oficios el primer domingo del mes; taller de cerámica los jueves; programa de radio los lunes. Elige la mejor frase de cierre. A) «La ficha C es la mejor porque tiene feria». Escribe la letra B) «Las tres fichas tienen un programa de radio; cambian el día de la radio y el taller que ofrecen»..
+- **D1.** Comunidad A (inventada para practicar), pueblo mapuche: reunión mensual en la sede; taller de lengua los miércoles; programa de radio los sábados. Comunidad B (inventada), pueblo aymara: reunión cada dos meses en la sede; taller de tejido los viernes; programa de radio los domingos. Cultura Ejemplo (inventada, de un país imaginario): feria de oficios el primer domingo del mes; taller de cerámica los jueves; programa de radio los lunes. Elige la mejor frase de cierre. A) «La ficha C es la mejor porque tiene feria». Escribe la letra. B) «Las tres fichas tienen un programa de radio; cambian el día de la radio y el taller que ofrecen».
 - **D2.** Quieres comparar una comunidad real que visitaste con la comunidad A de la ficha. ¿Puedes usar los datos de la ficha para hablar de la comunidad real? Sí o No.
 
 *Situaciones auténticas*
@@ -1213,7 +1213,7 @@ Respuesta: dice que no lo sabe y que lo preguntará
 
 *Desafío*
 
-- **D1.** Dos finales posibles para una exposición. A) «Así son todos los pueblos». Escribe cuál respeta mejor los límites B) «Esto vale solo para la comunidad de mi fuente; lo revisé con la educadora tradicional»..
+- **D1.** Dos finales posibles para una exposición. A) «Así son todos los pueblos». Escribe cuál respeta mejor los límites. B) «Esto vale solo para la comunidad de mi fuente; lo revisé con la educadora tradicional».
 - **D2.** Descubres, antes de presentar, que citaste mal una palabra en lengua. ¿Qué haces: la dejas porque casi nadie lo notará o la corriges con ayuda del educador tradicional?
 
 *Situaciones auténticas*

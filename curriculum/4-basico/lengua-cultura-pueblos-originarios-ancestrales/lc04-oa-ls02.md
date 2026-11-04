@@ -373,7 +373,7 @@ Respuesta: el curso
 *Razonamiento y análisis*
 
 - **Z1.** Un niño dice: «Si no pronuncio «mari mari» igual que la visita, no aprendí». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de aprender una pronunciación: A) adivinarla con lo que parece. ¿Cuál es más respetuosa B) pedirle a la educadora tradicional que la enseñe.?
+- **Z2.** Dos formas de aprender una pronunciación: A) adivinarla con lo que parece. ¿Cuál es más respetuosa? B) pedirle a la educadora tradicional que la enseñe.
 
 *Desafío*
 
@@ -785,7 +785,7 @@ Respuesta: «Yo también pienso que el sol es importante, además porque nos da 
 *Aplicación*
 
 - **A1.** Ordena estas tres frases de un diálogo: A) «Gracias por escuchar». B) «Mari mari». C) «¿Tú qué piensas?». Escribe las letras en el orden en que las dirías.
-- **A2.** Tu compañera dice: «Yo pienso que la luna es bonita porque brilla de noche». Tú piensas lo mismo. ¿Qué respuesta usa el marco de apoyo? A) «Eso no importa» B) «Yo también pienso que la luna es bonita porque brilla de noche»..
+- **A2.** Tu compañera dice: «Yo pienso que la luna es bonita porque brilla de noche». Tú piensas lo mismo. ¿Qué respuesta usa el marco de apoyo? A) «Eso no importa». B) «Yo también pienso que la luna es bonita porque brilla de noche».
 - **A3.** Un niño dice «mari mari» al saludar y la visita responde igual. ¿Qué momento del diálogo cumplió: saludar o agradecer?
 
 *Razonamiento y análisis*

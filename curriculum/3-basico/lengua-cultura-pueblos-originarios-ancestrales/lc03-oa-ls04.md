@@ -157,7 +157,7 @@ Respuesta: No: falta la ñ
 
 *Aplicación*
 
-- **A1.** ¿Cuál es la copia correcta del modelo 3 con su significado y su fuente? A) «kuyen», sol, Fuente: ficha de la clase B) «kuyen», luna, Fuente: ficha de la clase..
+- **A1.** ¿Cuál es la copia correcta del modelo 3 con su significado y su fuente? A) «kuyen», sol, Fuente: ficha de la clase. B) «kuyen», luna, Fuente: ficha de la clase.
 - **A2.** Mira los modelos 1 y 3 de la ficha. ¿Qué palabra tiene más letras: «ruka» o «kuyen»?
 - **A3.** Un compañero copió «ruka» como «ruca». ¿Coincide con el modelo de la ficha? Sí o No.
 
@@ -361,7 +361,7 @@ Respuesta: «educadora tradicional» / la persona que visita el curso / Fuente: 
 *Comprensión*
 
 - **C1.** Verdadero o falso: puedo nombrar con una palabra indígena o con una expresión culturalmente significativa en castellano.
-- **C2.** ¿Cuál tarjeta está completa? A) «ko» B) «ko» / el agua del vaso / Fuente: ficha de la clase..
+- **C2.** ¿Cuál tarjeta está completa? A) «ko». B) «ko» / el agua del vaso / Fuente: ficha de la clase.
 - **C3.** La ficha no trae la palabra para el dibujo de un lago. ¿Qué hago con la tarjeta: la dejo en blanco o la invento?
 
 *Aplicación*
@@ -785,7 +785,7 @@ Respuesta: «¿Qué forma usan en su comunidad?»
 *Aplicación*
 
 - **A1.** Tu libro escribe «ruka» y tu cartel escribe «ruca». ¿Qué anotas junto a cada forma?
-- **A2.** Elige la mejor revisión. A) ««Ruca» está mal, la borro» B) «Mi cartel dice «ruka» y mi libro, «ruca»; anoto las dos y pregunto»..
+- **A2.** Elige la mejor revisión. A) ««Ruca» está mal, la borro». B) «Mi cartel dice «ruka» y mi libro, «ruca»; anoto las dos y pregunto».
 - **A3.** Tu copia de «ruka» salió «ruga» y tu modelo dice «ruka». ¿Qué haces: corrijo mi copia o cambio el modelo?
 
 *Razonamiento y análisis*

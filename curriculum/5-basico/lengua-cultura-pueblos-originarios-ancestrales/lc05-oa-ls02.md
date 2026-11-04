@@ -377,7 +377,7 @@ Respuesta: solo cuenta la minga de su barrio y no sabe cómo es en otros
 
 *Desafío*
 
-- **D1.** Diálogo de práctica (inventado). Estudiante 1: «Mari mari. ¿Me cuentas cómo fue la minga de tu barrio?». Estudiante 2: «Mari mari. Fue un sábado: entre todos barrimos la plaza y plantamos flores. Mi vecina dijo que así se cuida el lugar donde vivimos». Estudiante 1: «¿Esa minga se hace igual en otros barrios?». Estudiante 2: «No lo sé: te cuento solo la de mi barrio». Estudiante 1: «Chaltumay por contarme». (Las palabras «mari mari» y «chaltumay» son del mapuzugun y las enseñó la educadora tradicional de la escuela.) Elige la mejor pregunta para aclarar: A) «Tu cultura es rara, ¿verdad?». Escribe la letra B) «¿Quién decidió qué día se hizo la minga?»..
+- **D1.** Diálogo de práctica (inventado). Estudiante 1: «Mari mari. ¿Me cuentas cómo fue la minga de tu barrio?». Estudiante 2: «Mari mari. Fue un sábado: entre todos barrimos la plaza y plantamos flores. Mi vecina dijo que así se cuida el lugar donde vivimos». Estudiante 1: «¿Esa minga se hace igual en otros barrios?». Estudiante 2: «No lo sé: te cuento solo la de mi barrio». Estudiante 1: «Chaltumay por contarme». (Las palabras «mari mari» y «chaltumay» son del mapuzugun y las enseñó la educadora tradicional de la escuela.) Elige la mejor pregunta para aclarar: A) «Tu cultura es rara, ¿verdad?». Escribe la letra. B) «¿Quién decidió qué día se hizo la minga?».
 - **D2.** Una exposición breve dura 2 minutos. Después hay 1 minuto para preguntas. ¿Cuántos minutos son en total?
 
 *Situaciones auténticas*
@@ -786,7 +786,7 @@ Respuesta: faltan el dato con fuente y el límite
 
 - **A1.** Ordena los pasos de la exposición: A) límite. B) tema. C) saludo. D) cierre. E) palabra significativa. F) dato con fuente. Escribe las letras en el orden del esquema.
 - **A2.** Una exposición dura 3 minutos y el saludo, el límite y el cierre usan 1 minuto en total. ¿Cuántos minutos quedan para el tema, el dato y la palabra?
-- **A3.** Esquema de exposición de práctica (inventado): 1) Saludo: «Mari mari». 2) Tema: cómo se organiza una minga en el barrio. 3) Dato con fuente: según una vecina que participó, se juntaron doce personas. 4) Palabra significativa: «minga», trabajo en que varias personas ayudan juntas. 5) Límite: lo que cuento es de mi barrio. 6) Cierre: «Chaltumay por escucharme». Elige el mejor dato con fuente: A) «Se juntó muchísima gente en todos los barrios». Escribe la letra B) «Según una vecina que participó, se juntaron doce personas»..
+- **A3.** Esquema de exposición de práctica (inventado): 1) Saludo: «Mari mari». 2) Tema: cómo se organiza una minga en el barrio. 3) Dato con fuente: según una vecina que participó, se juntaron doce personas. 4) Palabra significativa: «minga», trabajo en que varias personas ayudan juntas. 5) Límite: lo que cuento es de mi barrio. 6) Cierre: «Chaltumay por escucharme». Elige el mejor dato con fuente: A) «Se juntó muchísima gente en todos los barrios». Escribe la letra. B) «Según una vecina que participó, se juntaron doce personas».
 
 *Razonamiento y análisis*
 

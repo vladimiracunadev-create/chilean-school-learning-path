@@ -575,7 +575,7 @@ Respuesta: En mapuzugun, «ko» es agua (Fuente: ficha de la clase).
 
 *Aplicación*
 
-- **A1.** ¿Cuál es la línea contextualizada para «antü» según la ficha? A) En mapuzugun, «antü» es luna (Fuente: ficha de la clase) B) En mapuzugun, «antü» es sol (Fuente: ficha de la clase)..
+- **A1.** ¿Cuál es la línea contextualizada para «antü» según la ficha? A) En mapuzugun, «antü» es luna (Fuente: ficha de la clase). B) En mapuzugun, «antü» es sol (Fuente: ficha de la clase).
 - **A2.** Tu mensaje central es saludar. Escoges «mari mari» y también agregas «ko» sin relación con el mensaje. ¿Qué problema tiene «ko» en tu recurso?
 - **A3.** Mensaje central: cuidar el agua. Ficha de palabras en mapuzugun (de práctica): «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es la casa mapuche, «mapu» es tierra, «ñuke» es madre. ¿Qué palabra de la ficha eliges?
 
@@ -587,7 +587,7 @@ Respuesta: En mapuzugun, «ko» es agua (Fuente: ficha de la clase).
 *Desafío*
 
 - **D1.** Ordena los pasos: A) escribo la línea contextualizada. B) elijo dos palabras. C) repaso mi mensaje central. Escribe las letras.
-- **D2.** Mensaje: saludar y agradecer. Elige las dos palabras: A) «ko» y «antü» B) «mari mari» y «chaltumay»..
+- **D2.** Mensaje: saludar y agradecer. Elige las dos palabras: A) «ko» y «antü». B) «mari mari» y «chaltumay».
 
 *Situaciones auténticas*
 
@@ -780,7 +780,7 @@ Respuesta: la palabra de la ficha con su fuente
 
 - **C1.** Verdadero o falso: puedo usar música de otros en mi recurso si me gusta.
 - **C2.** Elige lo que sí puedo hacer. A) mostrar una palabra con su significado y fuente. B) copiar un símbolo de un pueblo.
-- **C3.** ¿Cuál recurso respeta esta clase? A) un video con disfraces B) dibujos míos y una palabra con fuente..
+- **C3.** ¿Cuál recurso respeta esta clase? A) un video con disfraces. B) dibujos míos y una palabra con fuente.
 
 *Aplicación*
 

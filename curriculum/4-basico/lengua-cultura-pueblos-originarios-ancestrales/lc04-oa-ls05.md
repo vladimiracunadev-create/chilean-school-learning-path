@@ -791,7 +791,7 @@ Respuesta: se apropia
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si la canción es bonita y de una comunidad, puedo usarla en mi obra sin decir de quién es». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de inspirarme: A) copio el diseño de un textil de un libro. ¿Cuál no es apropiarse B) miro el agua del río y escribo versos propios.?
+- **Z2.** Dos formas de inspirarme: A) copio el diseño de un textil de un libro. ¿Cuál no es apropiarse? B) miro el agua del río y escribo versos propios.
 
 *Desafío*
 
@@ -995,7 +995,7 @@ Respuesta: No
 
 - **A1.** Cinco puntos de revisión: atribución, palabras iguales a la ficha, sin datos personales, audiencia, guardado. Un recurso cumple tres. ¿Cuántos puntos faltan por cumplir?
 - **A2.** Atribución A: «Creado por el curso». Atribución B: «Creado por el curso; palabras enseñadas por la educadora tradicional». ¿Cuál está completa?
-- **A3.** Ficha del recurso (inventada): Recurso: afiche «Palabras del agua». Creado por: el curso. Palabras enseñadas por: la educadora tradicional de la Escuela Ejemplo. Audiencia autorizada: las familias en la reunión de la sala. Dónde se guarda: en la sala. Un familiar quiere compartir una foto del afiche en una red social. ¿Qué responde mejor el curso: A) «Claro» B) «Mejor no; la audiencia es la reunión de la sala».?
+- **A3.** Ficha del recurso (inventada): Recurso: afiche «Palabras del agua». Creado por: el curso. Palabras enseñadas por: la educadora tradicional de la Escuela Ejemplo. Audiencia autorizada: las familias en la reunión de la sala. Dónde se guarda: en la sala. Un familiar quiere compartir una foto del afiche en una red social. ¿Qué responde mejor el curso: A) «Claro»? B) «Mejor no; la audiencia es la reunión de la sala».
 
 *Razonamiento y análisis*
 

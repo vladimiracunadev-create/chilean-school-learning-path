@@ -782,7 +782,7 @@ Respuesta: No se apropió
 
 *Aplicación*
 
-- **A1.** Elige la frase respetuosa: A) «Aprendí este símbolo de la comunidad». Escribe la letra B) «Este símbolo lo inventé yo»..
+- **A1.** Elige la frase respetuosa: A) «Aprendí este símbolo de la comunidad». Escribe la letra. B) «Este símbolo lo inventé yo».
 - **A2.** Hay 5 niños. Tres agradecen y dos no. ¿Cuántos agradecen?
 - **A3.** Escribe una frase de agradecimiento para quien mostró el símbolo.
 

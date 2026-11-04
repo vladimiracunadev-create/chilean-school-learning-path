@@ -60,11 +60,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
+**Recurso listo para usar:** Las oraciones y diálogos escritos en cada ejercicio, lápiz y una hoja para anotar; si quieres, una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “recognize purpose and context: first-year secondary communicative functions in speech”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Elige un lugar que conoces y un objeto de tu casa. Escribe en inglés cuatro frases: una con una cantidad (por ejemplo, two thousand), una con crowded o busy, una con interested in o good at y una que describa el objeto con tres adjetivos en orden (por ejemplo, an old wooden chair). Las cifras pueden ser de ejemplo.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** There are two thousand people in my town centre. It is very busy on Saturdays. My father is good at cooking. We have a big old wooden table.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: There are two thousand people in my town centre. It is very busy on Saturdays. My father is good at cooking. We have a big old wooden table. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -88,6 +88,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a expresar cantidades grandes, a describir lugares, personas, ocupaciones y objetos, y a usar palabras compuestas y expresiones comunes. Sirve para hablar con precisión y claridad de lo que me rodea.
+
+**Lo que ya debo saber.** Conozco los números hasta cien y muchos adjetivos simples. Sé construir frases con is y are.
+
+**Explicación.**
+
+Las cantidades grandes se dicen así: one hundred (100), one thousand (1.000), two thousand (2.000), four thousand (4.000) y one million (1.000.000). Para decir si algo alcanza usamos enough (suficiente): We have enough chairs. Para decir que no hay nada usamos no: There is no time. Para enumerar usa first, second, third.
+
+Para describir lugares, personas y ocupaciones: a place can be busy o crowded (con mucha gente). He is interested in robots describe cómo se siente una persona (-ed), y The book is interesting describe la cosa (-ing). She is good at drawing indica habilidad y She is a very organized person describe una cualidad. It's a basketball court es un sustantivo compuesto.
+
+Las palabras compuestas (compound words) se forman con dos palabras: part-time job (trabajo de media jornada), chopstick (palito para comer). Expresiones útiles: apply for a job (postular a un trabajo), talk about (hablar de), for example, What's it like? (¿cómo es?), Why don't we...? (¿por qué no...?) y Nice to meet you. Para describir un objeto, ordena los adjetivos así: opinión, tamaño, edad, forma, material y tipo, y al final el sustantivo: an old wooden musical instrument, a small round metal box.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| enough | suficiente |
+| crowded / busy | con mucha gente / ocupado |
+| interested / interesting | interesado / interesante |
+| good at | bueno para |
+| part-time job | trabajo de media jornada |
+| What's it like? | ¿Cómo es? |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Decir cantidades*
+
+Problema: Escribe en palabras 2.000 y 1.000.000.
+
+1. 2.000 son dos mil.
+2. 1.000.000 es un millón.
+3. En inglés: two thousand y one million.
+
+Respuesta: two thousand; one million
+
+*Ejemplo 2. Distinguir -ed y -ing*
+
+Problema: Completa: «The film is ___. I am ___ in films.» (interesting / interested)
+
+1. El adjetivo de la cosa termina en -ing.
+2. El adjetivo de la persona que siente termina en -ed.
+3. The film is interesting; I am interested.
+
+Respuesta: interesting; interested
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Decir interested para una cosa, como The film is interested. **Por qué ocurre:** Se mezclan los dos adjetivos porque en español es la misma palabra. **Cómo corregirlo:** Usa -ing para la cosa y -ed para quien siente.
+- **Error:** Poner el material antes de la edad, como a wooden old box. **Por qué ocurre:** Se traduce el orden del español. **Cómo corregirlo:** Ordena: edad, material y luego el sustantivo.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Cómo se escribe en cifras four thousand? A) 4.000 B) 40.000
+- **R2.** «We have enough chairs» significa: A) no tenemos sillas B) tenemos sillas suficientes
+- **R3.** ¿Qué palabra describe un lugar con mucha gente? A) crowded B) empty
+
+*Comprensión*
+
+- **C1.** Completa: «The book is ___.» A) interesting B) interested
+- **C2.** Completa: «My sister is ___ in robots.» A) interesting B) interested
+- **C3.** ¿Qué significa «She is good at drawing»? A) le molesta dibujar B) se le da bien dibujar
+
+*Aplicación*
+
+- **A1.** Escribe en palabras 1.000.000.
+- **A2.** Completa: «We have ___ money to buy the tickets.» (Sí alcanza). A) no B) enough
+- **A3.** ¿Qué frase tiene el orden natural de adjetivos? A) an old wooden box B) a wooden old box
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Qué frase es correcta para describir a una persona? A) She is a very organized person. B) She is a very organize person.
+- **Z2.** ¿Qué expresión significa «trabajo de media jornada»? A) part-time job B) job part-time
+
+*Desafío*
+
+- **D1.** Una tienda vende 4.000 cuadernos y 2.000 lápices. ¿Cuántos artículos son en total?
+- **D2.** Describe un objeto: pequeño, redondo y de metal. ¿Qué frase tiene el orden correcto? A) a metal round small box B) a small round metal box
+
+*Situaciones auténticas*
+
+- **S1.** Un aviso dice: «Wanted: part-time job at a library. You must be good at organizing books and interested in reading. Apply for the job this week.» (wanted = se busca, must = debes, organizing = organizar). ¿Qué piden? A) hablar tres idiomas B) ser bueno para organizar libros e interesado en leer
+
+*Autoevaluación*
+
+- **E1.** En Inglés de 1.º medio (OA 8, clase 1): ¿cómo se dice 1.000.000?
+- **E2.** En Inglés de 1.º medio (OA 8, clase 1): ¿cuándo se usa -ing y cuándo -ed en interesting e interested?
+- **E3.** En Inglés de 1.º medio (OA 8, clase 1): ¿qué significa enough?
+
+**Actividad abierta.** Elige un lugar que conoces y un objeto de tu casa. Escribe en inglés cuatro frases: una con una cantidad (por ejemplo, two thousand), una con crowded o busy, una con interested in o good at y una que describa el objeto con tres adjetivos en orden (por ejemplo, an old wooden chair). Las cifras pueden ser de ejemplo.
+
+**Solucionario razonado**
+
+- **R1.** A) 4.000. Four thousand es cuatro mil.
+- **R2.** B) tenemos sillas suficientes. Enough significa suficiente.
+- **R3.** A) crowded. Crowded es lleno de gente; empty es vacío.
+- **C1.** A) interesting. Describe la cosa, por eso termina en -ing.
+- **C2.** B) interested. Describe cómo se siente la persona.
+- **C3.** B) se le da bien dibujar. Good at + -ing indica habilidad.
+- **A1.** one million. Un millón es one million.
+- **A2.** B) enough. Enough dice que es suficiente; no diría que no hay nada.
+- **A3.** A) an old wooden box. La edad va antes del material.
+- **Z1.** A) She is a very organized person.. Organized es el adjetivo.
+- **Z2.** A) part-time job. En un compuesto, la descripción va antes del sustantivo.
+- **D1.** 6.000 artículos. Se suman las dos cantidades. Cálculo: 4000 + 2000 = 6.000.
+- **D2.** B) a small round metal box. El orden natural es tamaño, forma y material antes del sustantivo.
+- **S1.** B) ser bueno para organizar libros e interesado en leer. El aviso usa good at e interested in.
+- **E1.** One million. Es un millón.
+- **E2.** -ing para la cosa y -ed para la persona que siente. Describen cosas o sentimientos.
+- **E3.** Suficiente. Dice que la cantidad alcanza.
+
+**Actividad abierta · ejemplo de respuesta.** There are two thousand people in my town centre. It is very busy on Saturdays. My father is good at cooking. We have a big old wooden table.
+
+**Criterios para evaluarla:** usa una cantidad grande bien escrita; usa crowded o busy; usa good at o interested in; ordena los adjetivos del objeto.
+
+**Evidencias aceptables:** hoja con cuatro frases; lectura en voz alta.
+
+**Errores que conviene detectar:** decir interested para la cosa; poner el material antes de la edad.
+
+**Retroalimentación constructiva:** Reconoce cada función lograda y pide revisar el orden de adjetivos si falla.
+
+**Refuerzo.** Escribe tres cantidades grandes en cifras y en palabras en inglés.
+
+**Profundización.** Describe a un familiar con una cualidad, una habilidad y un interés, usando very, good at e interested in.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -141,11 +270,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
+**Recurso listo para usar:** Las oraciones y diálogos escritos en cada ejercicio, lápiz y una hoja para anotar; si quieres, una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “locate precise evidence: first-year secondary communicative functions in speech”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Escribe en inglés cinco frases sobre tu vida (los datos pueden ser de ejemplo): una con for, una con since, una con ago, una con once a month, twice a week o three times a year, y una con used to. Después subraya el conector de tiempo de cada una.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** I have studied English for six years. I have lived here since 2018. I started school ten years ago. I go to the library once a month. I used to play with toys, but now I play video games.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -159,7 +288,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: I have studied English for six years. I have lived here since 2018. I started school ten years ago. I go to the library once a month. I used to play with toys, but now I play video games. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -169,6 +298,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a señalar frecuencia, grado y tiempo de las acciones y a hablar de hábitos pasados con used to. Sirve para contar cuánto, cada cuánto y desde cuándo hago algo.
+
+**Lo que ya debo saber.** Sé usar el presente y el pasado simple. Conozco palabras como always, never y yesterday.
+
+**Explicación.**
+
+Para hablar del tiempo hay tres palabras clave. For indica cuánto tiempo dura algo: for three years. Since indica desde cuándo: since 2018, since March. Ago indica cuánto tiempo atrás ocurrió algo y va con el pasado simple: I studied French five years ago. Con for y since se usa have o has + participio: He has worked here since 2010 (todavía trabaja).
+
+La frecuencia (frequency) dice cada cuánto: once a month, twice a week, three times a year, every day. Los adverbios always, usually, sometimes y never van antes del verbo: I usually go to the bank. El grado (degree) dice cuánto: a bit, quite (bastante) y really (muy) o very. She is quite shy es menos fuerte que She is really shy.
+
+Used to + verbo habla de un hábito pasado que ya no existe: I used to work at the coffee shop, but now I work at a department store. En pregunta se dice Did you use to...? y en negativo, I didn't use to.... Es distinto de used to + sustantivo o -ing, que significa estar acostumbrado. Aquí solo trabajamos el hábito pasado.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| for / since / ago | durante / desde / hace |
+| once a month | una vez al mes |
+| twice a week | dos veces por semana |
+| quite / really | bastante / muy |
+| used to | solía (ya no) |
+| department store | tienda por departamentos |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir for o since*
+
+Problema: Completa con for o since: «She has lived in Chile ___ 2019 and ___ six years.»
+
+1. Un año de inicio pide since.
+2. Una duración pide for.
+3. Since 2019 y for six years.
+
+Respuesta: since 2019; for six years
+
+*Ejemplo 2. Hablar de un hábito pasado*
+
+Problema: Quieres decir que antes ibas en bus al colegio y ahora vas en bicicleta. ¿Qué frase usas?
+
+1. El hábito pasado se dice con used to.
+2. Agrego el contraste con now.
+3. I used to go by bus, but now I go by bike.
+
+Respuesta: I used to go by bus, but now I go by bike.
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar since con una duración, como since five years. **Por qué ocurre:** Se mezclan duración y punto de inicio. **Cómo corregirlo:** Usa for con la duración y since con el inicio.
+- **Error:** Decir I used to going en vez de I used to go. **Por qué ocurre:** Se confunde con estar acostumbrado. **Cómo corregirlo:** Para hábito pasado usa used to + verbo en base.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Completa: «___ three years.» A) for B) since
+- **R2.** Completa: «___ 2019.» A) for B) since
+- **R3.** Completa: «five years ___» A) for B) ago
+
+*Comprensión*
+
+- **C1.** ¿Qué significa twice a week? A) dos veces por semana B) cada dos semanas
+- **C2.** «She is quite shy» significa: A) es bastante tímida B) no es tímida
+- **C3.** Completa: «I ___ the guitar two years ago.» A) have started B) started
+
+*Aplicación*
+
+- **A1.** Completa: «He has worked here ___ 2010.» A) for B) since
+- **A2.** Completa: «She has lived in Chile ___ six months.» A) since B) for
+- **A3.** Completa: «I ___ to play chess, but now I don't.» A) use B) used
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Qué frase es correcta? A) I have lived here since five years. B) I have lived here for five years.
+- **Z2.** Comparas «She is really shy» y «She is quite shy». ¿Cuál indica más timidez? A) la segunda B) la primera
+
+*Desafío*
+
+- **D1.** Vas al gimnasio three times a week. ¿Cuántas veces vas en 4 semanas?
+- **D2.** «I used to walk to school, but now I take the bus.» ¿Cómo va hoy al colegio? A) en bus B) caminando
+
+*Situaciones auténticas*
+
+- **S1.** Una persona cuenta: «I worked at a bakery two years ago. Now I work in a library. I have worked here since March. I go to the market once a week.» (bakery = panadería, library = biblioteca, market = feria). ¿Qué enunciado es verdadero? A) trabaja en la panadería desde hace dos años B) trabaja en la biblioteca desde marzo
+
+*Autoevaluación*
+
+- **E1.** En Inglés de 1.º medio (OA 8, clase 2): ¿cuándo se usa for?
+- **E2.** En Inglés de 1.º medio (OA 8, clase 2): ¿cuándo se usa since?
+- **E3.** En Inglés de 1.º medio (OA 8, clase 2): ¿qué significa used to + verbo?
+
+**Actividad abierta.** Escribe en inglés cinco frases sobre tu vida (los datos pueden ser de ejemplo): una con for, una con since, una con ago, una con once a month, twice a week o three times a year, y una con used to. Después subraya el conector de tiempo de cada una.
+
+**Solucionario razonado**
+
+- **R1.** A) for. Three years es una duración.
+- **R2.** B) since. 2019 es un punto de inicio.
+- **R3.** B) ago. Ago va después de la duración y con el pasado simple.
+- **C1.** A) dos veces por semana. Twice significa dos veces.
+- **C2.** A) es bastante tímida. Quite significa bastante.
+- **C3.** B) started. Con ago se usa el pasado simple.
+- **A1.** B) since. 2010 es un inicio.
+- **A2.** B) for. Six months es una duración.
+- **A3.** B) used. El hábito pasado es used to.
+- **Z1.** B) I have lived here for five years.. Una duración lleva for.
+- **Z2.** B) la primera. Really es más fuerte que quite.
+- **D1.** 12 veces. Se multiplican las visitas semanales por 4. Cálculo: 3 × 4 = 12.
+- **D2.** A) en bus. Used to walk es el hábito pasado; hoy toma el bus.
+- **S1.** B) trabaja en la biblioteca desde marzo. Since March indica el inicio en la biblioteca; la panadería fue hace dos años.
+- **E1.** Con una duración, como for three years. Dice cuánto tiempo dura algo.
+- **E2.** Con un punto de inicio, como since 2018. Dice desde cuándo.
+- **E3.** Un hábito pasado que ya no ocurre. Contrasta antes y ahora.
+
+**Actividad abierta · ejemplo de respuesta.** I have studied English for six years. I have lived here since 2018. I started school ten years ago. I go to the library once a month. I used to play with toys, but now I play video games.
+
+**Criterios para evaluarla:** usa for y since con el significado correcto; usa ago con el pasado simple; usa used to + verbo para un hábito pasado.
+
+**Evidencias aceptables:** hoja con cinco frases; lectura en voz alta.
+
+**Errores que conviene detectar:** usar since con una duración; usar ago con have.
+
+**Retroalimentación constructiva:** Reconoce lo logrado y revisa con ella qué palabra va con duración y cuál con inicio.
+
+**Refuerzo.** Anota en una tabla cinco hábitos que tienes ahora y cinco que tenías antes, con used to.
+
+**Profundización.** Pregunta a una persona de tu casa How often do you...? y registra su frecuencia con once a month, twice a week o every day.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -222,11 +480,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
+**Recurso listo para usar:** Las oraciones y diálogos escritos en cada ejercicio, lápiz y una hoja para anotar; si quieres, una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “use a strategy or language function: first-year secondary communicative functions in speech”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Entrevista a una persona de tu casa y escribe en inglés tres preguntas con Have you ever...? y una con How long have you...? (por ejemplo, How long have you lived here?). Anota sus respuestas con Yes, I have. / No, I haven't. y con for o since. Los datos pueden ser de ejemplo.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** Have you ever eaten oysters? Have you ever seen a volcano? Have you ever given a speech? How long have you lived here? — No, I haven't. Yes, I have. No, I haven't. For ten years.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -240,7 +498,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Have you ever eaten oysters? Have you ever seen a volcano? Have you ever given a speech? How long have you lived here? — No, I haven't. Yes, I have. No, I haven't. For ten years. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -250,6 +508,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a hablar de acciones pasadas que continúan en el presente o que son experiencias, usando have o has + participio, ever, never y How long. Sirve para contar qué he hecho y desde cuándo.
+
+**Lo que ya debo saber.** Sé usar el pasado simple. Conozco for y since.
+
+**Explicación.**
+
+El present perfect se forma con have o has + participio. El participio regular termina en -ed: saved, studied. Los irregulares hay que aprenderlos: be – been, see – seen, eat – eaten, go – gone, do – done, write – written, take – taken, give – given, know – known. Con I, you, we y they se usa have; con he, she e it se usa has.
+
+Tiene tres usos principales. Una acción que empezó en el pasado y continúa: I have studied for three days. Una experiencia de vida, con ever (alguna vez) y never (nunca): Have you ever eaten insects? I have never seen that program. Una acción con un propósito o resultado actual: I have saved money to buy a bike. No se usa con fechas pasadas concretas, como yesterday o last year; ahí va el pasado simple.
+
+Para preguntar la duración se usa How long have you been friends? y se responde con for (for two years) o since (since 2010). Ojo con been y gone: She has been to Peru significa que fue y ya volvió; She has gone to Peru significa que está allá. Las respuestas cortas son Yes, I have. y No, I haven't.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| have / has + participio | forma del present perfect |
+| ever / never | alguna vez / nunca |
+| How long have you...? | ¿Hace cuánto...? |
+| been / gone | estuvo y volvió / está allá |
+| seen, eaten, done | participios irregulares |
+| Yes, I have. | Sí, he... |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Armar una experiencia*
+
+Problema: Quieres decir que nunca has visto una ballena. ¿Qué frase usas?
+
+1. Experiencia de vida con never.
+2. Uso have + participio de see.
+3. I have never seen a whale.
+
+Respuesta: I have never seen a whale.
+
+*Ejemplo 2. Preguntar una duración*
+
+Problema: Quieres saber hace cuánto tiempo son amigos Ana y Pedro. ¿Qué preguntas?
+
+1. La duración se pregunta con How long.
+2. Uso have con they.
+3. How long have Ana and Pedro been friends?
+
+Respuesta: How long have Ana and Pedro been friends?
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar have con yesterday, como I have eaten yesterday. **Por qué ocurre:** Se mezcla un hecho con fecha concreta con el present perfect. **Cómo corregirlo:** Con yesterday usa el pasado simple: I ate yesterday.
+- **Error:** Decir I have went en vez de I have gone. **Por qué ocurre:** Se usa el pasado simple como participio. **Cómo corregirlo:** Aprende la tabla: go – went – gone.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Cuál es el participio de see? A) saw B) seen
+- **R2.** ¿Cuál es el participio de eat? A) ate B) eaten
+- **R3.** Completa: «She ___ studied for three days.» A) has B) have
+
+*Comprensión*
+
+- **C1.** ¿Qué significa Have you ever eaten fish? A) ¿comiste pescado ayer? B) ¿has comido pescado alguna vez?
+- **C2.** ¿Qué significa «I have never seen that program»? A) nunca he visto ese programa B) vi ese programa ayer
+- **C3.** Completa: «I have saved money ___ buy a bike.» A) to B) for to
+
+*Aplicación*
+
+- **A1.** Completa con for o since: «We have been friends ___ 2018.» A) since B) for
+- **A2.** Completa con for o since: «They have lived here ___ two years.» A) for B) since
+- **A3.** ¿Qué pregunta corresponde a «For two years»? A) Have you ever been friends? B) How long have you been friends?
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Qué frase es correcta? A) I have never went to Peru. B) I have never been to Peru.
+- **Z2.** «Sara has been to Peru» y «Sara has gone to Peru». ¿Cuál indica que ya volvió? A) has been B) has gone
+
+*Desafío*
+
+- **D1.** ¿Qué frase es correcta? A) I have seen that film yesterday. B) I saw that film yesterday.
+- **D2.** Una amiga pregunta «Have you ever visited a museum?» y respondes que no. ¿Qué respuesta corta es correcta? A) No, I haven't. B) No, I didn't.
+
+*Situaciones auténticas*
+
+- **S1.** Un diálogo: «Mia: Have you ever eaten sushi? Leo: No, I haven't. But I have eaten rice with fish.» (sushi = sushi, rice = arroz). ¿Qué es verdadero? A) Leo comió sushi ayer B) Leo nunca ha comido sushi
+
+*Autoevaluación*
+
+- **E1.** En Inglés de 1.º medio (OA 8, clase 3): ¿cómo se forma el present perfect?
+- **E2.** En Inglés de 1.º medio (OA 8, clase 3): ¿qué diferencia hay entre been y gone?
+- **E3.** En Inglés de 1.º medio (OA 8, clase 3): ¿cómo se pregunta una duración?
+
+**Actividad abierta.** Entrevista a una persona de tu casa y escribe en inglés tres preguntas con Have you ever...? y una con How long have you...? (por ejemplo, How long have you lived here?). Anota sus respuestas con Yes, I have. / No, I haven't. y con for o since. Los datos pueden ser de ejemplo.
+
+**Solucionario razonado**
+
+- **R1.** B) seen. Saw es el pasado simple; seen es el participio.
+- **R2.** B) eaten. Ate es el pasado; eaten es el participio.
+- **R3.** A) has. Con she se usa has.
+- **C1.** B) ¿has comido pescado alguna vez?. Ever pregunta por una experiencia de vida.
+- **C2.** A) nunca he visto ese programa. Never significa nunca.
+- **C3.** A) to. To expresa el propósito.
+- **A1.** A) since. 2018 es un inicio.
+- **A2.** A) for. Two years es una duración.
+- **A3.** B) How long have you been friends?. How long pide la duración.
+- **Z1.** B) I have never been to Peru.. El participio de be es been.
+- **Z2.** A) has been. Been indica ida y regreso; gone, que sigue allá.
+- **D1.** B) I saw that film yesterday.. Con yesterday se usa el pasado simple.
+- **D2.** A) No, I haven't.. Se responde con el mismo auxiliar have.
+- **S1.** B) Leo nunca ha comido sushi. Dice No, I haven't a la pregunta con ever.
+- **E1.** Have o has + participio. Has va con he, she e it.
+- **E2.** Been: fue y volvió; gone: sigue allá. Cambia el sentido de la frase.
+- **E3.** How long have/has...?. Se responde con for o since.
+
+**Actividad abierta · ejemplo de respuesta.** Have you ever eaten oysters? Have you ever seen a volcano? Have you ever given a speech? How long have you lived here? — No, I haven't. Yes, I have. No, I haven't. For ten years.
+
+**Criterios para evaluarla:** forma bien tres preguntas con ever; forma bien How long have you...?; responde con las respuestas cortas y for o since.
+
+**Evidencias aceptables:** hoja con preguntas y respuestas; lectura en voz alta.
+
+**Errores que conviene detectar:** usar el pasado simple como participio; usar since con una duración.
+
+**Retroalimentación constructiva:** Reconoce las preguntas bien formadas y revisa los participios irregulares con ella.
+
+**Refuerzo.** Escribe diez participios, cinco regulares y cinco irregulares, y una frase con cada uno.
+
+**Profundización.** Escribe cinco cosas que nunca has hecho con I have never... y una que ya hiciste con I have already....
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -303,11 +690,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
+**Recurso listo para usar:** Las oraciones y diálogos escritos en cada ejercicio, lápiz y una hoja para anotar; si quieres, una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “communicate through an information gap: first-year secondary communicative functions in speech”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Escribe en inglés una conversación de cuatro líneas entre dos amigos sobre el clima del fin de semana (los datos pueden ser de ejemplo). Usa una pregunta de confirmación afirmativa-negativa, otra negativa-afirmativa, will probably o might, y needn't o shall. Léela con una persona de tu casa.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** A: It's sunny today, isn't it? B: Yes, it is. It will probably be warm tomorrow, too. A: You don't have a jacket, do you? B: No, I don't. I needn't bring one.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -321,7 +708,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A: It's sunny today, isn't it? B: Yes, it is. It will probably be warm tomorrow, too. A: You don't have a jacket, do you? B: No, I don't. I needn't bring one. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -331,6 +718,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a expresar predicciones, necesidades, promesas y posibilidades con will probably, might, needn't y shall, y a confirmar información con preguntas de confirmación (question tags). Sirve para conversar con naturalidad y comprobar lo que creo saber.
+
+**Lo que ya debo saber.** Conozco will y el presente simple. Sé responder preguntas de sí o no.
+
+**Explicación.**
+
+Para hablar de lo que puede ocurrir se usan verbos modales. Will probably expresa una predicción bastante segura: It will probably rain tomorrow. Might expresa una posibilidad menos segura: It might snow. Needn't indica que no es necesario: You needn't hurry (no necesitas apurarte). Shall se usa en inglés formal para prometer u ofrecer: I shall call you tomorrow; y para sugerir: Shall we start?
+
+Las preguntas de confirmación (question tags) se agregan al final de una frase para pedir que la otra persona confirme. La regla es: si la frase es afirmativa, la pregunta es negativa, y al revés. It's nice, isn't it? Your brother wasn't at school, was he? You go to the pool on Fridays, don't you? She will come tomorrow, won't she? La pregunta repite el auxiliar de la frase.
+
+Cuando no hay auxiliar en la frase, se usa do, does o did: You like music, don't you? He plays chess, doesn't he? They left early, didn't they? Si estás casi seguro, la voz baja al final; si de verdad no sabes, la voz sube. Los modales no cambian con he, she o it: might, will y shall se usan igual con todos.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| will probably | probablemente |
+| might | podría (posibilidad) |
+| needn't | no necesita |
+| shall | promesa, oferta o sugerencia formal |
+| question tag | pregunta de confirmación |
+| isn't it? / don't you? | ¿no es cierto? |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir la pregunta de confirmación*
+
+Problema: Completa: «You go to the pool on Fridays, ___?»
+
+1. La frase es afirmativa y usa el presente simple con you.
+2. La pregunta es negativa y usa don't.
+3. Es don't you.
+
+Respuesta: don't you
+
+*Ejemplo 2. Expresar posibilidad*
+
+Problema: El pronóstico dice que quizás nieve, pero no es seguro. ¿Qué frase usas? A) It might snow. B) It needn't snow.
+
+1. Es una posibilidad.
+2. Might expresa posibilidad.
+3. Needn't expresa que no es necesario.
+
+Respuesta: A) It might snow.
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar una pregunta de confirmación afirmativa tras una frase afirmativa. **Por qué ocurre:** Se olvida invertir positivo y negativo. **Cómo corregirlo:** Positiva + pregunta negativa; negativa + pregunta positiva.
+- **Error:** Usar needn't para una posibilidad. **Por qué ocurre:** Se piensa que needn't es might negativo. **Cómo corregirlo:** Needn't = no hace falta; might = quizás.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** «It will probably rain tomorrow» expresa: A) una promesa B) una predicción bastante segura
+- **R2.** «You needn't hurry» significa: A) no necesitas apurarte B) debes apurarte
+- **R3.** Completa: «It's nice, ___?» A) is it B) isn't it
+
+*Comprensión*
+
+- **C1.** Completa: «Your brother wasn't at school, ___?» A) was he B) wasn't he
+- **C2.** Completa: «She will come tomorrow, ___?» A) won't she B) will she
+- **C3.** ¿Qué frase expresa una promesa formal? A) I might call you tomorrow. B) I shall call you tomorrow.
+
+*Aplicación*
+
+- **A1.** Completa: «They have finished, ___?» A) don't they B) haven't they
+- **A2.** Completa: «He doesn't like fish, ___?» A) does he B) doesn't he
+- **A3.** Quieres sugerir empezar la reunión. ¿Qué frase usas? A) Shall we start? B) We needn't start.
+
+*Razonamiento y análisis*
+
+- **Z1.** La persona que hace la pregunta «You like music, don't you?» ¿qué espera? A) que le confirmen B) que le expliquen qué es música
+- **Z2.** ¿Cuál frase expresa mayor seguridad? A) It will probably rain. B) It might rain.
+
+*Desafío*
+
+- **D1.** Hay una reunión y el profesor dice «You needn't bring your book». ¿Qué debes hacer? A) debes llevar el libro B) no hace falta llevar el libro
+- **D2.** Completa: «You play football on Saturdays, ___?» A) don't you B) aren't you
+
+*Situaciones auténticas*
+
+- **S1.** Un diálogo: «Ana: It's cold today, isn't it? Leo: Yes, it is. It might snow tonight. Ana: Then you needn't water the garden.» (cold = frío, snow = nevar, water = regar, garden = jardín). ¿Qué dos posibilidades o necesidades aparecen? A) lloverá seguro y hay que regar B) puede nevar y no hace falta regar
+
+*Autoevaluación*
+
+- **E1.** En Inglés de 1.º medio (OA 8, clase 4): ¿cómo se forma una pregunta de confirmación?
+- **E2.** En Inglés de 1.º medio (OA 8, clase 4): ¿qué diferencia hay entre will probably y might?
+- **E3.** En Inglés de 1.º medio (OA 8, clase 4): ¿qué significa needn't?
+
+**Actividad abierta.** Escribe en inglés una conversación de cuatro líneas entre dos amigos sobre el clima del fin de semana (los datos pueden ser de ejemplo). Usa una pregunta de confirmación afirmativa-negativa, otra negativa-afirmativa, will probably o might, y needn't o shall. Léela con una persona de tu casa.
+
+**Solucionario razonado**
+
+- **R1.** B) una predicción bastante segura. Will probably indica una predicción.
+- **R2.** A) no necesitas apurarte. Needn't indica que no es necesario.
+- **R3.** B) isn't it. Frase afirmativa, pregunta negativa.
+- **C1.** A) was he. Frase negativa, pregunta afirmativa.
+- **C2.** A) won't she. Frase afirmativa con will.
+- **C3.** B) I shall call you tomorrow.. Shall expresa una promesa.
+- **A1.** B) haven't they. Repite el auxiliar have.
+- **A2.** A) does he. Frase negativa, pregunta afirmativa con does.
+- **A3.** A) Shall we start?. Shall we...? es una sugerencia.
+- **Z1.** A) que le confirmen. La pregunta de confirmación pide acuerdo.
+- **Z2.** A) It will probably rain.. Will probably es más seguro que might.
+- **D1.** B) no hace falta llevar el libro. Needn't quita la necesidad.
+- **D2.** A) don't you. Presente simple con you: do/don't.
+- **S1.** B) puede nevar y no hace falta regar. Might snow es posibilidad y needn't water, falta de necesidad.
+- **E1.** Se invierte el signo: positiva con negativa y negativa con positiva, repitiendo el auxiliar. Por ejemplo, isn't it?
+- **E2.** Will probably es más seguro; might, una posibilidad menor. Indican distinto grado de certeza.
+- **E3.** No es necesario. Quita la obligación.
+
+**Actividad abierta · ejemplo de respuesta.** A: It's sunny today, isn't it? B: Yes, it is. It will probably be warm tomorrow, too. A: You don't have a jacket, do you? B: No, I don't. I needn't bring one.
+
+**Criterios para evaluarla:** una pregunta de confirmación bien formada con frase afirmativa; otra con frase negativa; un modal de predicción o posibilidad; needn't o shall bien usado.
+
+**Evidencias aceptables:** hoja con el diálogo; lectura en voz alta.
+
+**Errores que conviene detectar:** repetir el mismo signo en la frase y la pregunta; confundir needn't con might.
+
+**Retroalimentación constructiva:** Reconoce lo logrado y revisa que cada tag repita el auxiliar de la frase.
+
+**Refuerzo.** Escribe diez frases con question tags, cinco positivas y cinco negativas, sobre personas de tu curso.
+
+**Profundización.** Habla con una persona de tu casa sobre el día de mañana usando will probably, might y shall.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -384,11 +900,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Information-gap cards for two fictional community projects, planning notes, clarification and repair stems, and a simple audience-purpose card.
+**Recurso listo para usar:** Las oraciones y diálogos escritos en cada ejercicio, lápiz y una hoja para anotar; si quieres, una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “respond independently: first-year secondary communicative functions in speech”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Escribe en inglés seis frases sobre tu colegio o tu barrio: una con who, una con which entre comas, una en voz pasiva con was o is/are, una con although, una con both ... and y una con so that. Los datos pueden ser de ejemplo.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** My friend Pablo, who plays the guitar, is in my class. The library, which is old, is cleaned daily. The patio was painted last year. Although it is small, our school is nice. Both Ana and Lucas are in the choir. We recycle paper so that we can save trees.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -402,7 +918,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: My friend Pablo, who plays the guitar, is in my class. The library, which is old, is cleaned daily. The patio was painted last year. Although it is small, our school is nice. Both Ana and Lucas are in the choir. We recycle paper so that we can save trees. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -412,6 +928,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a dar información esencial o adicional con who y which, a describir acciones con agente desconocido usando la voz pasiva, y a unir ideas con although, both, later, last y so that. Sirve para hablar con más detalle y orden.
+
+**Lo que ya debo saber.** Sé usar el presente y el pasado simple. Conozco conectores como and, but y because.
+
+**Explicación.**
+
+Una oración de relativo (relative clause) agrega información sobre una persona o cosa. Who se usa para personas: Simon is the boy who lives next door. Which se usa para cosas: The science book, which I borrowed from the library, is very interesting. Cuando la información es esencial para saber de quién o de qué hablas, no lleva comas. Cuando es adicional, va entre comas.
+
+La voz pasiva (passive voice) se forma con be + participio y se usa cuando no se sabe quién hizo la acción o no importa: The money was found on the floor; rooms are cleaned daily; plastic is produced from oil. El tiempo lo marca be: was en pasado, is o are en presente. La persona que hace la acción puede aparecer con by, pero a menudo se omite.
+
+Los conectores unen ideas. Although (aunque) opone: Although it's cheap, I'm not sure. Both ... and significa ambos: Both Luis and Tomás are my neighbours. Later (más tarde) y last (por último) ordenan: I'll talk to you later; ...and last he played the piano. So that expresa propósito: He learned English so that he could speak with foreigners.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| who / which | que (personas / cosas) |
+| relative clause | oración de relativo |
+| passive voice | voz pasiva |
+| was found | fue encontrado |
+| although / both | aunque / ambos |
+| so that | para que |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir who o which*
+
+Problema: Completa: «The girl ___ sits next to me is my cousin.»
+
+1. Hablo de una persona.
+2. Para personas se usa who.
+3. The girl who sits next to me.
+
+Respuesta: who
+
+*Ejemplo 2. Formar una pasiva*
+
+Problema: Convierte a pasiva: «Someone found the keys on the table.» (keys = llaves)
+
+1. No se sabe quién las encontró.
+2. Uso was + participio.
+3. The keys were found on the table.
+
+Respuesta: The keys were found on the table.
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar which para una persona. **Por qué ocurre:** Se usa which para todo. **Cómo corregirlo:** Who para personas y which para cosas.
+- **Error:** Olvidar be en la pasiva, como The money found on the floor. **Por qué ocurre:** Se omite el verbo auxiliar. **Cómo corregirlo:** Usa be + participio: was found.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Completa: «The man ___ lives next door is a doctor.» A) who B) which
+- **R2.** Completa: «The book, ___ I borrowed from the library, is long.» A) which B) who
+- **R3.** ¿Qué frase está en pasiva? A) The room is cleaned daily. B) They clean the room.
+
+*Comprensión*
+
+- **C1.** Completa: «Plastic ___ produced from oil.» A) are B) is
+- **C2.** Completa: «The windows ___ cleaned every week.» A) is B) are
+- **C3.** Completa: «Both Ana ___ Luis are my neighbours.» A) and B) or
+
+*Aplicación*
+
+- **A1.** Completa: «___ it's cheap, I'm not sure about it.» A) Although B) So that
+- **A2.** Completa: «He learned English ___ he could speak with foreigners.» A) so that B) although
+- **A3.** Completa: «I'll talk to you ___.» A) last B) later
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Qué frase es correcta? A) The money was found on the floor. B) The money found on the floor.
+- **Z2.** Une las ideas con who: «Simon is the boy. He lives next door.» A) Simon is the boy who lives next door. B) Simon is the boy which lives next door.
+
+*Desafío*
+
+- **D1.** «We played football, then we ate, and last we cleaned.» ¿Qué actividad fue la final? A) comer B) limpiar
+- **D2.** Une las ideas con so that: «She saves money. She wants to buy a laptop.» A) She saves money so that she can buy a laptop. B) She saves money although she can buy a laptop.
+
+*Situaciones auténticas*
+
+- **S1.** En un aviso del colegio: «The library, which is on the second floor, is cleaned daily. Both Mr Díaz and Mrs Rojas work there.» (second floor = segundo piso, daily = a diario). ¿Qué información es adicional? A) que se limpia a diario B) que está en el segundo piso
+
+*Autoevaluación*
+
+- **E1.** En Inglés de 1.º medio (OA 8, clase 5): ¿cuándo se usa who?
+- **E2.** En Inglés de 1.º medio (OA 8, clase 5): ¿cómo se forma la voz pasiva?
+- **E3.** En Inglés de 1.º medio (OA 8, clase 5): ¿qué expresa so that?
+
+**Actividad abierta.** Escribe en inglés seis frases sobre tu colegio o tu barrio: una con who, una con which entre comas, una en voz pasiva con was o is/are, una con although, una con both ... and y una con so that. Los datos pueden ser de ejemplo.
+
+**Solucionario razonado**
+
+- **R1.** A) who. Se habla de una persona.
+- **R2.** A) which. Se habla de una cosa.
+- **R3.** A) The room is cleaned daily.. Es be + participio.
+- **C1.** B) is. Plastic es singular.
+- **C2.** B) are. Windows es plural.
+- **C3.** A) and. Both se completa con and.
+- **A1.** A) Although. Se opone barato con no estar seguro.
+- **A2.** A) so that. Expresa el propósito.
+- **A3.** B) later. Later significa más tarde.
+- **Z1.** A) The money was found on the floor.. La pasiva usa be + participio.
+- **Z2.** A) Simon is the boy who lives next door.. El relativo para personas es who.
+- **D1.** B) limpiar. Last marca la última acción.
+- **D2.** A) She saves money so that she can buy a laptop.. Expresa el propósito de ahorrar.
+- **S1.** B) que está en el segundo piso. Va entre comas, introducida por which.
+- **E1.** Para hablar de personas. Which se usa para cosas.
+- **E2.** Be + participio. Por ejemplo, was found.
+- **E3.** Un propósito: para que. Dice para qué se hace algo.
+
+**Actividad abierta · ejemplo de respuesta.** My friend Pablo, who plays the guitar, is in my class. The library, which is old, is cleaned daily. The patio was painted last year. Although it is small, our school is nice. Both Ana and Lucas are in the choir. We recycle paper so that we can save trees.
+
+**Criterios para evaluarla:** usa who para una persona y which para una cosa; forma una pasiva con be + participio; usa los tres conectores con sentido.
+
+**Evidencias aceptables:** hoja con seis frases; lectura en voz alta.
+
+**Errores que conviene detectar:** usar which para personas; omitir be en la pasiva.
+
+**Retroalimentación constructiva:** Reconoce cada estructura lograda y revisa la concordancia de be con el sujeto.
+
+**Refuerzo.** Convierte cinco frases en voz activa a voz pasiva y subraya el participio.
+
+**Profundización.** Describe a una persona y un objeto de tu casa con una oración de relativo cada uno.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.

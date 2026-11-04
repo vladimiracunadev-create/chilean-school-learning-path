@@ -171,7 +171,7 @@ Respuesta: Rin no representa a ninguna lengua real; cada lengua se describe con 
 
 *Situaciones auténticas*
 
-- **S1.** En una exposición, un compañero dice cómo se arman las palabras de una lengua indígena, pero no dice de dónde lo sabe. ¿Qué le preguntas? A) ¿por qué hablas tan fuerte B) ¿cuál es tu fuente??
+- **S1.** En una exposición, un compañero dice cómo se arman las palabras de una lengua indígena, pero no dice de dónde lo sabe. ¿Qué le preguntas? A) ¿por qué hablas tan fuerte? B) ¿cuál es tu fuente?
 
 *Autoevaluación*
 

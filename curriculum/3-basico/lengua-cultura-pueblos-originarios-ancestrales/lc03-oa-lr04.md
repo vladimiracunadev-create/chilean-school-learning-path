@@ -168,7 +168,7 @@ Respuesta: en la tercera letra
 
 *Desafío*
 
-- **D1.** Copiaste la palabra «ñuke». ¿Cuál copia coincide con el modelo? A) nuke. B) ñuka C) ñuke..
+- **D1.** Copiaste la palabra «ñuke». ¿Cuál copia coincide con el modelo? A) nuke. B) ñuka. C) ñuke.
 - **D2.** Ordena de menos a más letras: «kuyen», «ko», «ruka». Escribe las tres palabras en orden.
 
 *Situaciones auténticas*
@@ -378,7 +378,7 @@ Respuesta: dejo la etiqueta en blanco y pregunto al educador
 *Desafío*
 
 - **D1.** Ordena los pasos para hacer una etiqueta: A) escribo el nombre en castellano y la fuente. B) copio la palabra del modelo. C) busco la palabra en la ficha. Escribe las letras en orden.
-- **D2.** ¿Qué etiqueta está mejor hecha? A) «mapu» sin nada más B) «mapu» y debajo «Fuente: ficha de la clase»..
+- **D2.** ¿Qué etiqueta está mejor hecha? A) «mapu» sin nada más. B) «mapu» y debajo «Fuente: ficha de la clase».
 
 *Situaciones auténticas*
 

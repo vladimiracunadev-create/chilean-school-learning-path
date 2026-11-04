@@ -60,11 +60,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Three original writing briefs for a real-world purpose, each with audience, model chunks, planning grid, source notes and a revision checklist that separates meaning from accuracy.
+**Recurso listo para usar:** Las oraciones y datos escritos en cada ejercicio; lápiz, hojas y una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “recognize purpose and context: language functions in discussion and presentation”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Con estos datos de ejemplo de la biblioteca: lunes 3 libros prestados, martes 40, miércoles 5; el préstamo de revistas ocurre una vez por semana; el director es muy amable (really kind) y el bibliotecario es bastante tímido (quite shy). Escribe en tu hoja cuatro oraciones en inglés: una con few o a few, una con a large number of, una con once a week y una con really o quite.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** Few books were borrowed on Monday. A large number of books were borrowed on Tuesday. Magazines are lent once a week. The principal is really kind.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Few books were borrowed on Monday. A large number of books were borrowed on Tuesday. Magazines are lent once a week. The principal is really kind. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -88,6 +88,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a hablar de cantidad (a few, few, a little, little, a large/small number of), de frecuencia (once a month) y de grado (quite, really). Sirve para describir datos y hábitos con precisión en una conversación.
+
+**Lo que ya debo saber.** Sé qué son los sustantivos contables e incontables. Sé contar y usar los días de la semana.
+
+**Explicación.**
+
+Con sustantivos contables en plural (students, eggs) se usan a few (unos pocos, hay suficientes) y few (muy pocos, casi no hay). Con incontables (sugar, milk) se usan a little (un poco, algo) y little (muy poco, casi nada). Para cantidades grandes o pequeñas de contables se dice a large number of y a small number of: A large number of students joined football; a small number joined painting.
+
+La frecuencia (frequency) se dice con once, twice y three times más un período: once a month, twice a week, three times a year. El grado (degree) se agrega con adverbios antes del adjetivo: quite shy (bastante tímida), really shy (muy tímida). Hay que recordar que few y little (sin a) tienen un sentido casi negativo: sugerencia de que algo falta.
+
+Para elegir bien, hazte dos preguntas: ¿el sustantivo se puede contar?, ¿hay suficiente o casi no hay? Si es contable y casi no hay, usa few; si es incontable y casi no hay, usa little. Si es contable y alcanza, usa a few; si es incontable y alcanza, usa a little.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| a few / few | unos pocos / muy pocos (contables) |
+| a little / little | un poco / muy poco (incontables) |
+| a large number of | una gran cantidad de (contables) |
+| once a month | una vez al mes |
+| quite | bastante |
+| really | muy |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Contable o incontable*
+
+Problema: Inscripciones a talleres (datos de ejemplo): ajedrez 4 estudiantes, fútbol 52, pintura 3, coro 48. Despensa de la cocina del colegio (datos de ejemplo): azúcar, 20 gramos (casi nada); leche, una taza (alcanza para un café); harina, 3 kilos; huevos, 6. Completa: «There is ____ sugar left» (casi nada). ¿Usas few o little?
+
+1. Sugar es incontable.
+2. Con incontables se usa little.
+3. Casi no hay: little.
+
+Respuesta: Little
+
+*Ejemplo 2. Cantidad grande*
+
+Problema: Inscripciones a talleres (datos de ejemplo): ajedrez 4 estudiantes, fútbol 52, pintura 3, coro 48. Completa: «A ____ number of students joined football» (52). ¿Usas large o small?
+
+1. 52 es una cantidad grande.
+2. Con contables se dice a large number of.
+3. La palabra es large.
+
+Respuesta: Large
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar few con sustantivos incontables (few sugar). **Por qué ocurre:** Se olvida que sugar no se cuenta. **Cómo corregirlo:** Con incontables usa little o a little.
+- **Error:** Confundir once a month con once a year. **Por qué ocurre:** No se lee el período. **Cómo corregirlo:** Fíjate en la palabra final: month, week, year.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Inscripciones a talleres (datos de ejemplo): ajedrez 4 estudiantes, fútbol 52, pintura 3, coro 48. Completa: «There are ____ students in the chess club» (4, casi nadie). A) little B) few
+- **R2.** Despensa de la cocina del colegio (datos de ejemplo): azúcar, 20 gramos (casi nada); leche, una taza (alcanza para un café); harina, 3 kilos; huevos, 6. Si en la despensa quedaran solo 2 huevos y la torta pide 6, completa: «There are ____ eggs.» A) little B) few
+- **R3.** Inscripciones a talleres (datos de ejemplo): ajedrez 4 estudiantes, fútbol 52, pintura 3, coro 48. Completa: «A ____ number of students joined the choir» (48). A) large B) small
+
+*Comprensión*
+
+- **C1.** Inscripciones a talleres (datos de ejemplo): ajedrez 4 estudiantes, fútbol 52, pintura 3, coro 48. Completa: «A ____ number of students joined painting» (3). A) large B) small
+- **C2.** Despensa de la cocina del colegio (datos de ejemplo): azúcar, 20 gramos (casi nada); leche, una taza (alcanza para un café); harina, 3 kilos; huevos, 6. Completa: «There is ____ milk, enough for one coffee.» A) a few B) a little
+- **C3.** Despensa de la cocina del colegio (datos de ejemplo): azúcar, 20 gramos (casi nada); leche, una taza (alcanza para un café); harina, 3 kilos; huevos, 6. Completa: «There are ____ eggs, enough for the cake» (6). A) a few B) a little
+
+*Aplicación*
+
+- **A1.** Camila va a la biblioteca doce veces al año. ¿Cuál frase es equivalente? A) She goes once a week B) She goes once a month
+- **A2.** Tomás va al gimnasio tres veces a la semana. ¿Cuántas veces va en 4 semanas?
+- **A3.** Ana es muy tímida. Completa: «Ana is ____ shy.» A) really B) quite
+
+*Razonamiento y análisis*
+
+- **Z1.** Elige la oración correcta. A) There is little salt in the soup B) There is few salt in the soup
+- **Z2.** Elige la oración correcta. A) There are a few girls in the choir B) There are a few girl in the choir
+
+*Desafío*
+
+- **D1.** Inscripciones a talleres (datos de ejemplo): ajedrez 4 estudiantes, fútbol 52, pintura 3, coro 48. ¿Qué frase describe juntos a ajedrez y pintura? A) A small number of students joined chess and painting B) A large number of students joined chess and painting
+- **D2.** Despensa de la cocina del colegio (datos de ejemplo): azúcar, 20 gramos (casi nada); leche, una taza (alcanza para un café); harina, 3 kilos; huevos, 6. Corrige: «There are little eggs.» A) There are a few eggs B) There is a few eggs
+
+*Situaciones auténticas*
+
+- **S1.** Tu curso tiene 36 estudiantes y solo 2 tocan violín. ¿Qué frase es correcta? A) Little students play the violin B) Few students play the violin
+
+*Autoevaluación*
+
+- **E1.** ¿Cuándo se usa little?
+- **E2.** ¿Qué significa twice a week?
+- **E3.** ¿Qué diferencia hay entre quite y really?
+
+**Actividad abierta.** Con estos datos de ejemplo de la biblioteca: lunes 3 libros prestados, martes 40, miércoles 5; el préstamo de revistas ocurre una vez por semana; el director es muy amable (really kind) y el bibliotecario es bastante tímido (quite shy). Escribe en tu hoja cuatro oraciones en inglés: una con few o a few, una con a large number of, una con once a week y una con really o quite.
+
+**Solucionario razonado**
+
+- **R1.** B) few. Students es contable y casi no hay.
+- **R2.** B) few. Eggs es contable y casi no hay.
+- **R3.** A) large. 48 es una cantidad grande.
+- **C1.** B) small. 3 es una cantidad pequeña.
+- **C2.** B) a little. Milk es incontable y alcanza.
+- **C3.** A) a few. Eggs es contable y alcanza.
+- **A1.** B) She goes once a month. Doce veces al año es una vez al mes.
+- **A2.** 12. Se multiplican las veces por semana por las semanas. Cálculo: 3 × 4 = 12.
+- **A3.** A) really. Really significa muy; quite significa bastante.
+- **Z1.** A) There is little salt in the soup. Salt es incontable y pide little.
+- **Z2.** A) There are a few girls in the choir. Después de a few va el plural.
+- **D1.** A) A small number of students joined chess and painting. 4 y 3 son cantidades pequeñas.
+- **D2.** A) There are a few eggs. Eggs es contable y plural: a few y are.
+- **S1.** B) Few students play the violin. Students es contable y casi no hay.
+- **E1.** Con incontables, cuando casi no hay. Por ejemplo, little sugar.
+- **E2.** Dos veces por semana. Twice es dos veces.
+- **E3.** Quite es bastante y really es muy. Cambian la intensidad.
+
+**Actividad abierta · ejemplo de respuesta.** Few books were borrowed on Monday. A large number of books were borrowed on Tuesday. Magazines are lent once a week. The principal is really kind.
+
+**Criterios para evaluarla:** usa correctamente el cuantificador; usa a large number of con un contable; incluye frecuencia y grado.
+
+**Evidencias aceptables:** hoja con cuatro oraciones; nota de la persona oyente.
+
+**Errores que conviene detectar:** usar few con un incontable; confundir quite y really.
+
+**Retroalimentación constructiva:** Valora las oraciones correctas y revisa si el sustantivo es contable o incontable.
+
+**Refuerzo.** Vuelve a leer las oraciones de la despensa y subraya todos los cuantificadores.
+
+**Profundización.** Escribe en español tres datos de tu curso y cómo dirías la cantidad con few, a few o a large number of.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -141,11 +270,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Three original writing briefs for a real-world purpose, each with audience, model chunks, planning grid, source notes and a revision checklist that separates meaning from accuracy.
+**Recurso listo para usar:** Las oraciones y datos escritos en cada ejercicio; lápiz, hojas y una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “locate precise evidence: language functions in discussion and presentation”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Presenta oralmente a una persona de tu casa, y escribe en tu hoja, cuatro oraciones sobre ti: una con have been + -ing, una con for, una con since y una con used to. Por ejemplo, algo que llevas haciendo, desde cuándo y qué hábito tenías antes.
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** I have been learning English for two years. I have been playing football since March. I used to read comics, but now I read novels. How long have you been learning English?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -159,7 +288,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: I have been learning English for two years. I have been playing football since March. I used to read comics, but now I read novels. How long have you been learning English? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -169,6 +298,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a hablar de acciones que empezaron en el pasado y continúan o acaban de terminar (have been + -ing), a preguntar y responder por la duración (How long…? for/since) y a contar hábitos pasados (used to). Sirve para presentarte y contar tu historia en una conversación.
+
+**Lo que ya debo saber.** Sé el presente simple y el pasado simple. Sé el presente continuo.
+
+**Explicación.**
+
+Para hablar de una acción que empezó antes y sigue ahora, o que acaba de terminar, se usa have/has been + verbo -ing: We have been training for three months. She has been working all day, so she is tired. Con I, you, we y they se usa have; con he, she e it se usa has. El resultado de la acción aún se nota: My hands are dirty because I have been painting.
+
+Para preguntar por la duración se usa How long have/has…? y se responde con for + período (for two years, for an hour) o since + punto de inicio (since September, since Monday): How long have you been friends? We have been friends for two years. Nunca se dice since two years. Para los hábitos pasados se usa used to + verbo: I used to work at the coffee shop, but now I work at a department store.
+
+Antes de hablar, decide: ¿la acción continúa o ya no ocurre? Si continúa, usa have been + -ing; si ya no ocurre, usa used to. Y para la duración, pregúntate si tienes un período (for) o un punto de partida (since).
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| have/has been + -ing | acción que empezó antes y continúa |
+| How long…? | ¿Cuánto tiempo…? |
+| for | durante (período) |
+| since | desde (punto de inicio) |
+| used to | solía; hábito pasado |
+| department store | tienda por departamentos |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir have o has*
+
+Problema: Completa: «We ____ been training for three months.» ¿Usas have o has?
+
+1. El sujeto es we.
+2. Con we se usa have.
+3. Queda: We have been training.
+
+Respuesta: Have
+
+*Ejemplo 2. For o since*
+
+Problema: Responde a «How long have you been friends?» con una duración de dos años.
+
+1. Dos años es un período.
+2. Con un período se usa for.
+3. Respondo: For two years.
+
+Respuesta: For two years
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Decir since two years. **Por qué ocurre:** Se mezcla since con un período. **Cómo corregirlo:** Con un período usa for; since es para un punto de inicio.
+- **Error:** Usar used to para algo que continúa. **Por qué ocurre:** Se confunde con el presente. **Cómo corregirlo:** Used to habla de un hábito que ya no ocurre.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Completa. «They ____ been rehearsing for two weeks.» A) has B) have
+- **R2.** Completa. «She ____ been working all day.» A) have B) has
+- **R3.** Completa. «I ____ work at the coffee shop, but now I work at a department store.» A) used to B) use to
+
+*Comprensión*
+
+- **C1.** ¿Cuál es la respuesta correcta a «How long has she been in the choir?» A) Since six months B) For six months
+- **C2.** ¿Cuál es la respuesta correcta a «Since when has he lived here?» A) Since September B) For September
+- **C3.** ¿Cuál oración habla de una acción que acaba de terminar y cuyo resultado se nota? A) I painted yesterday B) My hands are dirty because I have been painting
+
+*Aplicación*
+
+- **A1.** Daniel lleva 3 meses entrenando. Si un mes tiene unas 4 semanas (dato aproximado), ¿cuántas semanas lleva entrenando?
+- **A2.** Elige la oración correcta. A) She used to living in Temuco B) She used to live in Temuco, but now she lives in Osorno
+- **A3.** Completa. «How long ____ they been married?» A) has B) have
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Qué oración muestra que la acción ya no ocurre? A) I have been playing chess B) I used to play chess
+- **Z2.** Corrige: «I am working here since March.» A) I work here for March B) I have been working here since March
+
+*Desafío*
+
+- **D1.** «He has been waiting for an hour.» ¿Qué significa? A) esperó hace años y terminó B) empezó hace una hora y sigue esperando
+- **D2.** Ordena las palabras con letras: A) been B) they C) have D) learning E) English
+
+*Situaciones auténticas*
+
+- **S1.** Un boletín del club dice: «Our president has been leading the club for two years. She used to be a member of the choir.» ¿Qué sigue haciendo la presidenta? A) liderar el club B) cantar en el coro
+
+*Autoevaluación*
+
+- **E1.** ¿Qué pregunta se usa para preguntar duración?
+- **E2.** ¿Qué expresa used to?
+- **E3.** ¿Con qué tipo de expresión de tiempo se usa since?
+
+**Actividad abierta.** Presenta oralmente a una persona de tu casa, y escribe en tu hoja, cuatro oraciones sobre ti: una con have been + -ing, una con for, una con since y una con used to. Por ejemplo, algo que llevas haciendo, desde cuándo y qué hábito tenías antes.
+
+**Solucionario razonado**
+
+- **R1.** B) have. Con they se usa have.
+- **R2.** B) has. Con she se usa has.
+- **R3.** A) used to. Used to expresa un hábito pasado.
+- **C1.** B) For six months. Con un período se usa for.
+- **C2.** A) Since September. September es un punto de inicio.
+- **C3.** B) My hands are dirty because I have been painting. El resultado, las manos sucias, se nota ahora.
+- **A1.** 12. Se multiplican los meses por las semanas de cada mes. Cálculo: 3 × 4 = 12.
+- **A2.** B) She used to live in Temuco, but now she lives in Osorno. Used to va seguido del verbo sin -ing.
+- **A3.** B) have. Con they se usa have.
+- **Z1.** B) I used to play chess. Used to marca un hábito pasado.
+- **Z2.** B) I have been working here since March. Since March es un punto de inicio y la acción continúa.
+- **D1.** B) empezó hace una hora y sigue esperando. Have been + -ing une pasado y presente.
+- **D2.** B, C, A, D, E. La oración correcta es They have been learning English.
+- **S1.** A) liderar el club. Has been leading continúa; used to be ya no.
+- **E1.** How long…?. Se responde con for o since.
+- **E2.** Un hábito pasado que ya no ocurre. Contrasta antes y ahora.
+- **E3.** Con un punto de inicio, como Monday. For se usa con períodos y since con puntos de inicio.
+
+**Actividad abierta · ejemplo de respuesta.** I have been learning English for two years. I have been playing football since March. I used to read comics, but now I read novels. How long have you been learning English?
+
+**Criterios para evaluarla:** usa have/has been + -ing correctamente; distingue for y since; usa used to para un hábito que ya no tiene.
+
+**Evidencias aceptables:** hoja con cuatro oraciones; nota de la persona oyente.
+
+**Errores que conviene detectar:** decir since con un período; usar used to con -ing.
+
+**Retroalimentación constructiva:** Valora las oraciones correctas y practica en voz alta las que tuvieron errores.
+
+**Refuerzo.** Vuelve a leer las respuestas con for y since y agrega una oración propia con cada una.
+
+**Profundización.** Escribe en español tres cosas que llevas haciendo un tiempo y dos hábitos que ya no tienes.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -222,11 +480,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Three original writing briefs for a real-world purpose, each with audience, model chunks, planning grid, source notes and a revision checklist that separates meaning from accuracy.
+**Recurso listo para usar:** Las oraciones y datos escritos en cada ejercicio; lápiz, hojas y una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “model a useful strategy: language functions in discussion and presentation”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Escribe y di en voz alta a una persona de tu casa cinco oraciones sobre tu plan de mañana, cada una con una función distinta: una predicción segura (will probably), una posibilidad (might), algo que no hace falta (needn't), una promesa (I promise I will) y una sugerencia (Shall we…?).
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** It will probably be sunny. We might go to the park. You needn't bring food. I promise I will help you with your homework. Shall we meet at ten?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -240,7 +498,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: It will probably be sunny. We might go to the park. You needn't bring food. I promise I will help you with your homework. Shall we meet at ten? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -250,6 +508,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a hablar de predicciones, necesidades, promesas y posibilidades con will probably, might, shall, needn't y I promise. Sirve para planificar con otras personas y decir cuánta seguridad tienes.
+
+**Lo que ya debo saber.** Sé will para el futuro. Sé que los modales van con el verbo sin to.
+
+**Explicación.**
+
+Will probably expresa una predicción muy probable: Look at the dark clouds; it will probably rain. Might expresa una posibilidad más débil: It might snow in the mountains. Los modales no cambian con la persona (he might, she might) y van seguidos del verbo sin to: He might come, no He might to come.
+
+Needn't significa que no es necesario: You needn't hurry (no hace falta apurarse). No es una prohibición. Una promesa se hace con I promise I will…: I promise I will call you. Shall es un modal formal que se usa con I y we para ofrecer o sugerir (Shall we have lunch at one?) y, en lenguaje formal, para una promesa o decisión firme (He shall be here at six: se asegura de que estará).
+
+Para elegir el modal adecuado, pregúntate cuánta seguridad tienes: casi seguro (will probably), solo posible (might), no necesario (needn't), compromiso (I promise I will) o sugerencia (Shall we…?).
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| will probably | probablemente; casi seguro |
+| might | podría; es posible |
+| needn't | no hace falta |
+| I promise I will… | prometo que… |
+| shall | modal formal: Shall we…? = ¿Y si…? |
+| suggestion | sugerencia |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir la certeza*
+
+Problema: Hay nubes oscuras en el cielo. Completa: «It ____ rain.» (muy probable) ¿will probably o might not?
+
+1. Las nubes oscuras son una pista fuerte.
+2. Es muy probable, no solo posible.
+3. Se usa will probably.
+
+Respuesta: Will probably
+
+*Ejemplo 2. No necesario*
+
+Problema: El bus llegará tarde. Completa: «You ____ hurry.» (no hace falta) ¿needn't o must?
+
+1. No es necesario apurarse.
+2. Needn't expresa ausencia de necesidad.
+3. Must expresaría obligación.
+
+Respuesta: Needn't
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Decir He might to come. **Por qué ocurre:** Se agrega to al modal. **Cómo corregirlo:** Los modales van con el verbo sin to: He might come.
+- **Error:** Entender needn't como una prohibición. **Por qué ocurre:** Se confunde con must not. **Cómo corregirlo:** Needn't = no es necesario.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Completa. «The forecast says sun all day. Tomorrow it ____ be hot.» (muy probable) A) will probably B) might not
+- **R2.** Completa. «It ____ snow in the mountains tonight, but nobody is sure.» A) will B) might
+- **R3.** Completa. «You ____ hurry; the bus is late.» (no hace falta) A) must B) needn't
+
+*Comprensión*
+
+- **C1.** Completa. «I promise I ____ call you tonight.» A) might B) will
+- **C2.** «Shall we have lunch at one?» ¿Qué función tiene? A) una obligación B) una sugerencia
+- **C3.** Une cada idea con su expresión. 1) probablemente 2) quizás 3) no hace falta Expresiones: a) might b) will probably c) needn't
+
+*Aplicación*
+
+- **A1.** Elige la oración correcta. A) You needn't to bring money B) You needn't bring money
+- **A2.** Elige la mejor promesa. A) I promise I will help you B) I promise I might help you
+- **A3.** Completa para una posibilidad débil. «It ____ rain, but I doubt it.» A) might B) will probably
+
+*Razonamiento y análisis*
+
+- **Z1.** ¿Qué es más seguro? A) It will probably rain B) It might rain
+- **Z2.** Tu entrenadora dice «You needn't wear a jacket». ¿Puedes ir sin chaqueta? A) sí, no hace falta B) no, está prohibido
+
+*Desafío*
+
+- **D1.** Elige la mejor predicción para mañana: «Tomorrow ____ sunny.» A) will probably be B) needn't be
+- **D2.** Corrige: «He might to come.» A) He might comes B) He might come
+
+*Situaciones auténticas*
+
+- **S1.** Un cartel dice: «Please speak quietly. The baby might wake up.» ¿Por qué hay que hablar bajo? A) porque el bebé nunca despertará B) porque el bebé podría despertarse
+
+*Autoevaluación*
+
+- **E1.** ¿Qué expresa needn't?
+- **E2.** ¿Con qué modal haces una promesa?
+- **E3.** ¿Cuál es más seguro: will probably o might?
+
+**Actividad abierta.** Escribe y di en voz alta a una persona de tu casa cinco oraciones sobre tu plan de mañana, cada una con una función distinta: una predicción segura (will probably), una posibilidad (might), algo que no hace falta (needn't), una promesa (I promise I will) y una sugerencia (Shall we…?).
+
+**Solucionario razonado**
+
+- **R1.** A) will probably. El pronóstico es una pista fuerte.
+- **R2.** B) might. No hay seguridad: es una posibilidad.
+- **R3.** B) needn't. No es necesario apurarse.
+- **C1.** B) will. Una promesa se hace con will.
+- **C2.** B) una sugerencia. Shall we…? invita a hacer algo.
+- **C3.** 1-b, 2-a, 3-c. Cada expresión marca un grado distinto.
+- **A1.** B) You needn't bring money. Después de needn't va el verbo sin to.
+- **A2.** A) I promise I will help you. Una promesa debe ser firme.
+- **A3.** A) might. Might expresa poca seguridad.
+- **Z1.** A) It will probably rain. Will probably expresa más seguridad.
+- **Z2.** A) sí, no hace falta. Needn't indica que no es necesario.
+- **D1.** A) will probably be. Una predicción usa will probably.
+- **D2.** B) He might come. Los modales van con el verbo sin to ni -s.
+- **S1.** B) porque el bebé podría despertarse. Might expresa una posibilidad.
+- **E1.** Que no es necesario. No es una prohibición.
+- **E2.** Will. I promise I will…
+- **E3.** Will probably. Might es solo posibilidad.
+
+**Actividad abierta · ejemplo de respuesta.** It will probably be sunny. We might go to the park. You needn't bring food. I promise I will help you with your homework. Shall we meet at ten?
+
+**Criterios para evaluarla:** usa los cinco modales pedidos; los usa con el verbo sin to; cada oración tiene su función.
+
+**Evidencias aceptables:** hoja con cinco oraciones; nota de la persona oyente.
+
+**Errores que conviene detectar:** agregar to después del modal; usar needn't como prohibición.
+
+**Retroalimentación constructiva:** Valora la variedad de funciones y corrige el uso de to y -s si hay errores.
+
+**Refuerzo.** Vuelve a leer las oraciones de esta clase y clasifícalas por su grado de certeza.
+
+**Profundización.** Escribe en español tres planes tuyos: uno casi seguro, uno posible y uno que no hace falta hacer.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -303,11 +690,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Three original writing briefs for a real-world purpose, each with audience, model chunks, planning grid, source notes and a revision checklist that separates meaning from accuracy.
+**Recurso listo para usar:** Las oraciones y datos escritos en cada ejercicio; lápiz, hojas y una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “communicate through an information gap: language functions in discussion and presentation”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Imagina que conoces a un compañero nuevo en un taller. Escribe y di en voz alta un minidiálogo de cuatro turnos en inglés con Nice to meet you, Why don't we…?, What's it like? y un for example. Incluye también un conector (although, both… and o so that).
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** A: Nice to meet you. B: Nice to meet you too. A: What's it like, the music workshop? B: It is fun. For example, we play drums. Why don't we go together on Friday?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -321,7 +708,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A: Nice to meet you. B: Nice to meet you too. A: What's it like, the music workshop? B: It is fun. For example, we play drums. Why don't we go together on Friday? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -331,6 +718,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a usar expresiones de uso común (nice to meet you, Why don't we…?, What's it like?, talk about, for example), palabras compuestas (part-time job, chopstick) y conectores (although, both… and, so that, later, last). Sirve para conversar con naturalidad y unir ideas.
+
+**Lo que ya debo saber.** Sé saludar y despedirme en inglés. Sé conectores simples como and y but.
+
+**Explicación.**
+
+Las expresiones de uso común son bloques que se usan en muchas conversaciones. Nice to meet you se dice al conocer a alguien. Why don't we go to the cinema? propone un plan. What's it like? pregunta cómo es algo («¿Cómo es?»). To talk about significa hablar de un tema, y for example introduce un ejemplo. Aprenderlas completas te ayuda a hablar más rápido.
+
+Una palabra compuesta (compound word) une dos palabras para formar un significado nuevo: part-time job (trabajo de media jornada), chopstick (palillo para comer; se escribe con dos palabras unidas: chop + stick). Apply for a job significa postular a un trabajo. Los conectores unen ideas: although (aunque, contraste), both Luis and Tomás (los dos), so that (para que, propósito), later (más tarde) y last (por último). Ejemplo: He learned English so that he could speak with foreigners.
+
+Al hablar, elige el conector según la relación que quieras mostrar: contraste, suma, propósito u orden. Y usa las expresiones comunes para empezar, proponer, preguntar o dar un ejemplo.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| Nice to meet you | Mucho gusto |
+| Why don't we…? | ¿Por qué no…? (propuesta) |
+| What's it like? | ¿Cómo es? |
+| part-time job | trabajo de media jornada |
+| apply for a job | postular a un trabajo |
+| chopstick | palillo para comer |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir la expresión*
+
+Problema: Conoces a alguien nuevo. ¿Qué dices: «Nice to meet you» o «See you later»?
+
+1. Es una presentación.
+2. Nice to meet you se usa al conocer a alguien.
+3. See you later es una despedida.
+
+Respuesta: Nice to meet you
+
+*Ejemplo 2. Palabra compuesta*
+
+Problema: La palabra chopstick está formada por dos palabras. ¿Cuáles son?
+
+1. Separo la palabra en dos.
+2. Chop + stick.
+3. Se refiere a un palito para comer.
+
+Respuesta: Chop y stick
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Usar what is it like para preguntar «qué le gusta». **Por qué ocurre:** Se confunde con like como verbo. **Cómo corregirlo:** What's it like? pregunta cómo es algo.
+- **Error:** Usar although y but juntos en la misma oración. **Por qué ocurre:** Se repite el contraste. **Cómo corregirlo:** Usa solo uno por oración.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Quieres proponer ir al cine. ¿Qué dices? A) Why don't we go to the cinema B) What's it like
+- **R2.** Quieres saber cómo es un lugar. ¿Qué preguntas? A) What's it like B) Nice to meet you
+- **R3.** Quieres decir «por ejemplo» antes de dar un caso. ¿Qué dices? A) later B) for example
+
+*Comprensión*
+
+- **C1.** ¿Qué significa part-time job? A) un trabajo de noche B) un trabajo de media jornada
+- **C2.** ¿Qué significa apply for a job? A) renunciar a un trabajo B) postular a un trabajo
+- **C3.** ¿De qué dos palabras se forma notebook? A) note y book B) not y ebook
+
+*Aplicación*
+
+- **A1.** Completa. «____ it's cheap, I'm not sure.» ¿Qué indica? A) Although, un contraste B) So that, un propósito
+- **A2.** Completa. «Both Luis ____ Tomás are my neighbors.» A) or B) and
+- **A3.** Completa. «I'll talk to you ____.» (más tarde) A) last B) later
+
+*Razonamiento y análisis*
+
+- **Z1.** Elige la oración correcta. A) He learned English although he could speak with foreigners B) He learned English so that he could speak with foreigners
+- **Z2.** «And last he played the piano.» ¿Qué indica last? A) el primer hecho B) el último hecho
+
+*Desafío*
+
+- **D1.** Ordena las palabras con letras: A) apply B) I C) will D) for E) a F) part-time G) job
+- **D2.** «Let's talk about the project; for example, the budget.» ¿Qué expresión introduce el ejemplo? A) talk about B) for example
+
+*Situaciones auténticas*
+
+- **S1.** Un aviso dice: «Part-time job: weekend waiter. Apply for the job by Friday.» (waiter = garzón). ¿Hasta cuándo se puede postular? A) hasta el lunes B) hasta el viernes
+
+*Autoevaluación*
+
+- **E1.** ¿Qué se dice al conocer a alguien?
+- **E2.** ¿Qué indica although?
+- **E3.** ¿Qué es una palabra compuesta?
+
+**Actividad abierta.** Imagina que conoces a un compañero nuevo en un taller. Escribe y di en voz alta un minidiálogo de cuatro turnos en inglés con Nice to meet you, Why don't we…?, What's it like? y un for example. Incluye también un conector (although, both… and o so that).
+
+**Solucionario razonado**
+
+- **R1.** A) Why don't we go to the cinema. Why don't we…? propone un plan.
+- **R2.** A) What's it like. What's it like? pide una descripción.
+- **R3.** B) for example. For example introduce un caso concreto.
+- **C1.** B) un trabajo de media jornada. Part-time significa tiempo parcial.
+- **C2.** B) postular a un trabajo. Apply for es solicitar.
+- **C3.** A) note y book. Es una palabra compuesta.
+- **A1.** A) Although, un contraste. El precio bajo y la duda se oponen.
+- **A2.** B) and. Both va con and.
+- **A3.** B) later. Later significa más tarde.
+- **Z1.** B) He learned English so that he could speak with foreigners. So that introduce el propósito.
+- **Z2.** B) el último hecho. Last significa por último.
+- **D1.** B, C, A, D, E, F, G. La oración correcta es I will apply for a part-time job.
+- **D2.** B) for example. For example introduce un caso concreto.
+- **S1.** B) hasta el viernes. Dice by Friday.
+- **E1.** Nice to meet you. Es la fórmula de saludo al conocerse.
+- **E2.** Un contraste. Une ideas que se oponen.
+- **E3.** Una palabra formada por dos palabras. Por ejemplo, chopstick.
+
+**Actividad abierta · ejemplo de respuesta.** A: Nice to meet you. B: Nice to meet you too. A: What's it like, the music workshop? B: It is fun. For example, we play drums. Why don't we go together on Friday?
+
+**Criterios para evaluarla:** usa las cuatro expresiones pedidas; incluye un conector bien usado; lo dice en voz alta.
+
+**Evidencias aceptables:** hoja con el diálogo; nota de la persona oyente.
+
+**Errores que conviene detectar:** usar what is it like con otro sentido; no incluir el conector.
+
+**Retroalimentación constructiva:** Valora la naturalidad y revisa cada expresión usada.
+
+**Refuerzo.** Vuelve a leer las expresiones de esta clase y escribe una oración con cada una.
+
+**Profundización.** Escribe en español tres palabras compuestas del inglés que conozcas y su significado.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -384,11 +900,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Three original writing briefs for a real-world purpose, each with audience, model chunks, planning grid, source notes and a revision checklist that separates meaning from accuracy.
+**Recurso listo para usar:** Las oraciones y datos escritos en cada ejercicio; lápiz, hojas y una persona de tu casa para practicar en voz alta.
 
-**Consigna exacta:** Work on “respond independently: language functions in discussion and presentation”: identify purpose and audience, use two precise language or visual clues, communicate a complete response and revise one decision after feedback or rereading.
+**Consigna exacta:** Escribe y di en voz alta a una persona de tu casa cuatro oraciones en inglés: dos consejos con If I were you, I would… para estos problemas: «I have too many things to study» y «I feel nervous before speaking in class»; y dos oraciones hipotéticas con if + pasado y would sobre tu vida (por ejemplo, If I had more time, I would…).
 
-**Referencia para modelar y corregir:** A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required.
+**Referencia para modelar y corregir:** If I were you, I would make a study plan. If I were you, I would practice with a friend. If I had more time, I would learn to play the guitar. I would travel to the south if I had a holiday.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -402,7 +918,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: A successful response communicates meaning for the stated audience, supports ideas with accurate clues, uses learned language flexibly and improves content or organization before surface editing; accent imitation is not required. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: If I were you, I would make a study plan. If I were you, I would practice with a friend. If I had more time, I would learn to play the guitar. I would travel to the south if I had a holiday. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -412,6 +928,135 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a describir situaciones hipotéticas o imaginarias y a dar consejos con if + pasado y would, y con If I were you, I would…. Sirve para opinar, recomendar y conversar sobre posibilidades.
+
+**Lo que ya debo saber.** Sé el pasado simple. Sé que would expresa una consecuencia imaginaria.
+
+**Explicación.**
+
+Una situación hipotética es algo imaginario o poco probable. Se forma con if + pasado simple y would + verbo: He would meet more people if he spoke English. El verbo está en pasado, pero habla de una posibilidad del presente o futuro. Con if se usa were para todas las personas: if I were, if she were.
+
+El consejo más típico es If I were you, I would…: If I were you, I would tell her the truth. Con él te pones en el lugar del otro y recomiendas. Para aconsejar a otra persona, elige una acción concreta, posible y respetuosa. Cuando hay un problema serio (por ejemplo, alguien copia tu tarea o te presiona), un buen consejo es hablarlo con una persona adulta de confianza.
+
+Para armar una oración hipotética, haz dos pasos: 1) escribe la condición con if y el verbo en pasado, 2) escribe el resultado con would y el verbo base. Revisa que no uses would en la parte del if.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| if I were you, I would… | si yo fuera tú, yo haría… (consejo) |
+| if + pasado, would + verbo | estructura hipotética |
+| advice | consejo |
+| truth | verdad |
+| condition | condición |
+| result | resultado |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Completar el consejo*
+
+Problema: Completa: «If I ____ you, I would tell her the truth.» ¿were o am?
+
+1. Es un consejo hipotético.
+2. Con if se usa were.
+3. Queda: If I were you.
+
+Respuesta: Were
+
+*Ejemplo 2. Condición y resultado*
+
+Problema: En «He would meet more people if he spoke English», ¿cuál es la condición?
+
+1. La condición va con if.
+2. If he spoke English.
+3. Hablar inglés es la condición.
+
+Respuesta: If he spoke English
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Decir If I would be you. **Por qué ocurre:** Se usa would en la parte del if. **Cómo corregirlo:** En el if va el pasado (were); would va en el resultado.
+- **Error:** Dar consejos que dañan o que no son posibles. **Por qué ocurre:** Se piensa solo en el humor. **Cómo corregirlo:** Aconseja algo concreto, posible y respetuoso.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** Completa. «If I ____ in your place, I would ask for help.» A) were B) am
+- **R2.** Completa. «She would feel better if she ____ more water.» A) drank B) drinks
+- **R3.** ¿Qué frase da un consejo? A) I was sad yesterday B) If I were you, I would apologize
+
+*Comprensión*
+
+- **C1.** Completa. «If we had more time, we ____ visit the museum.» A) will B) would
+- **C2.** Elige el consejo para alguien con mucho sueño. A) If I am you, I would go to bed earlier B) If I were you, I would go to bed earlier
+- **C3.** Une cada problema con su consejo. 1) I forget my homework. 2) I am always late. 3) I cannot save money. Consejos: a) If I were you, I would leave home earlier. b) If I were you, I would use a planner. c) If I were you, I would save a little each week.
+
+*Aplicación*
+
+- **A1.** Completa. «If it ____ cold, I would wear a coat.» A) were B) is
+- **A2.** Elige la oración correcta. A) If she would study more, she passes the test B) If she studied more, she would pass the test
+- **A3.** Completa. «I ____ buy a bike if I had the money.» A) would B) will
+
+*Razonamiento y análisis*
+
+- **Z1.** «If I were you, I would call my cousin.» ¿Quién da el consejo? A) la persona a quien le hablan B) la persona que habla
+- **Z2.** Un compañero dice «If I was you». ¿Qué forma se recomienda en la estructura formal? A) am B) were
+
+*Desafío*
+
+- **D1.** Ordena las palabras con letras: A) would B) faster C) she D) learn E) if F) she G) practiced H) daily
+- **D2.** Un amigo te cuenta que otro compañero copia su tarea. ¿Qué consejo es adecuado? A) If I were you, I would talk to my teacher or an adult I trust B) If I were you, I would shout at him
+
+*Situaciones auténticas*
+
+- **S1.** En un foro, alguien escribe: «I have a big test tomorrow and I'm nervous. What should I do?» ¿Cuál es el mejor consejo? A) If I were you, I would sleep early and review the main ideas B) If I were you, I would not study
+
+*Autoevaluación*
+
+- **E1.** ¿Qué estructura expresa una situación imaginaria?
+- **E2.** ¿Qué verbo se usa con if para todas las personas?
+- **E3.** ¿A quién conviene acudir ante un problema serio?
+
+**Actividad abierta.** Escribe y di en voz alta a una persona de tu casa cuatro oraciones en inglés: dos consejos con If I were you, I would… para estos problemas: «I have too many things to study» y «I feel nervous before speaking in class»; y dos oraciones hipotéticas con if + pasado y would sobre tu vida (por ejemplo, If I had more time, I would…).
+
+**Solucionario razonado**
+
+- **R1.** A) were. Con if se usa were.
+- **R2.** A) drank. Después de if va el pasado simple.
+- **R3.** B) If I were you, I would apologize. La primera usa la estructura de consejo.
+- **C1.** B) would. Con if + pasado va would.
+- **C2.** B) If I were you, I would go to bed earlier. El consejo correcto usa were.
+- **C3.** 1-b, 2-a, 3-c. Cada consejo se relaciona con su problema.
+- **A1.** A) were. Con if + pasado se usa were.
+- **A2.** B) If she studied more, she would pass the test. En la parte del if va el pasado, no would.
+- **A3.** A) would. Es una situación hipotética.
+- **Z1.** B) la persona que habla. I would es la persona que aconseja.
+- **Z2.** B) were. Se usa were para todas las personas.
+- **D1.** C, A, D, B, E, F, G, H. La oración es She would learn faster if she practiced daily.
+- **D2.** A) If I were you, I would talk to my teacher or an adult I trust. Pedir ayuda a una persona adulta de confianza es lo más seguro.
+- **S1.** A) If I were you, I would sleep early and review the main ideas. Es un consejo concreto y útil.
+- **E1.** If + pasado, would + verbo. Une condición y resultado.
+- **E2.** Were. If I were, if she were.
+- **E3.** A una persona adulta de confianza. Es el consejo más seguro.
+
+**Actividad abierta · ejemplo de respuesta.** If I were you, I would make a study plan. If I were you, I would practice with a friend. If I had more time, I would learn to play the guitar. I would travel to the south if I had a holiday.
+
+**Criterios para evaluarla:** usa If I were you, I would… en dos consejos; usa if + pasado y would en dos oraciones; los consejos son concretos y posibles.
+
+**Evidencias aceptables:** hoja con cuatro oraciones; nota de la persona oyente.
+
+**Errores que conviene detectar:** usar would en la parte del if; dar un consejo poco respetuoso.
+
+**Retroalimentación constructiva:** Valora los consejos concretos y corrige were y would si es necesario.
+
+**Refuerzo.** Vuelve a leer los consejos de esta clase y escribe uno nuevo para alguien que no puede dormir.
+
+**Profundización.** Escribe en español dos situaciones imaginarias que te gustaría vivir y cómo las dirías con if + pasado.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.

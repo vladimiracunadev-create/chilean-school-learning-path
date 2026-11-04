@@ -366,7 +366,7 @@ Respuesta: dejo la nota incompleta y pregunto
 
 *Aplicación*
 
-- **A1.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. Escribe la nota de «llama». Elige: A) llama (del mapuzugun): animal de los Andes B) llama (del quechua): animal de los Andes..
+- **A1.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. Escribe la nota de «llama». Elige: A) llama (del mapuzugun): animal de los Andes. B) llama (del quechua): animal de los Andes.
 - **A2.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. Elige la nota correcta de «choclo»: A) choclo (del quechua): maíz tierno. B) choclo: ave.
 - **A3.** Ficha de origen: «choclo» (maíz tierno), «palta» (fruta de pulpa verde), «papa», «guagua» (bebé), «cóndor» (ave grande de los Andes), «puma», «llama» y «pampa» (llanura) vienen del quechua, una lengua de los Andes. «Copihue» (flor roja del sur) y «pudú» (ciervo muy pequeño) vienen del mapuzugun. ¿Qué parte falta en «guagua: bebé»?
 

@@ -785,13 +785,13 @@ Respuesta: Según la ficha de la educadora tradicional de la escuela, en mapuzug
 *Aplicación*
 
 - **A1.** Cuatro frases: 1) «En el relato de práctica, el árbol se cuida cada mañana». 2) «Todos los pueblos nunca pelean». 3) «Según el educador tradicional, su pueblo saluda con «mari mari»». 4) «Los indígenas piensan igual». ¿Cuántas frases generalizan?
-- **A2.** Reescribe con límite: «Los indígenas dicen ko al agua». Elige la mejor: A) «Todos los indígenas dicen «ko» al agua» B) «Según la ficha de la educadora de mi escuela, en mapuzugun «ko» es agua»..
+- **A2.** Reescribe con límite: «Los indígenas dicen ko al agua». Elige la mejor: A) «Todos los indígenas dicen «ko» al agua». B) «Según la ficha de la educadora de mi escuela, en mapuzugun «ko» es agua».
 - **A3.** Un niño escuchó un relato de un pueblo y dice: «Así es todo el mundo indígena». ¿Qué falta: un límite o más volumen?
 
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Si escuché un relato bonito, ya conozco la cosmovisión del pueblo». ¿Tiene razón? Sí o No.
-- **Z2.** Dos formas de compartir: A) «Para los pueblos originarios, el árbol siempre es sagrado». ¿Cuál tiene fuente clara B) «En el relato del árbol, el cuidado da sombra al barrio».?
+- **Z2.** Dos formas de compartir: A) «Para los pueblos originarios, el árbol siempre es sagrado». ¿Cuál tiene fuente clara? B) «En el relato del árbol, el cuidado da sombra al barrio».
 
 *Desafío*
 

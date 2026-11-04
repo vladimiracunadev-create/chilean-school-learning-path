@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 6147 de 8.841 clases desarrolladas tienen cuaderno del estudiante (69,5 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 6900 de 8.841 clases desarrolladas tienen cuaderno del estudiante (78,0 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -20,7 +20,7 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 6.º básico | 952 | 876 | 76 | en curso | 422 | 14.939 | 1.753 | pendiente |
 | 7.º básico | 760 | 719 | 41 | en curso | 515 | 12.250 | 1.438 | pendiente |
 | 8.º básico | 771 | 728 | 43 | en curso | 430 | 12.404 | 1.456 | pendiente |
-| 1.º medio | 753 | 0 | 753 | sin iniciar | 456 | 0 | 0 | pendiente |
+| 1.º medio | 753 | 753 | 0 | completo | 456 | 12.857 | 1.506 | pendiente |
 | 2.º medio | 744 | 0 | 744 | sin iniciar | 456 | 0 | 0 | pendiente |
 | 3.º medio | 495 | 0 | 495 | sin iniciar | 0 | 0 | 0 | pendiente |
 | 4.º medio | 466 | 0 | 466 | sin iniciar | 0 | 0 | 0 | pendiente |
@@ -71,6 +71,12 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | artes-visuales | AR08 OA 04 | 5 | 5 | 85 | 10 |
 | 8.º básico | artes-visuales | AR08 OA 05 | 5 | 5 | 85 | 10 |
 | 8.º básico | artes-visuales | AR08 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º medio | artes-visuales | AR1M OA 01 | 5 | 5 | 85 | 10 |
+| 1.º medio | artes-visuales | AR1M OA 02 | 5 | 5 | 85 | 10 |
+| 1.º medio | artes-visuales | AR1M OA 03 | 5 | 5 | 85 | 10 |
+| 1.º medio | artes-visuales | AR1M OA 04 | 4 | 4 | 68 | 8 |
+| 1.º medio | artes-visuales | AR1M OA 05 | 4 | 4 | 69 | 8 |
+| 1.º medio | artes-visuales | AR1M OA 06 | 6 | 6 | 102 | 12 |
 | 1.º básico | ciencias-naturales | CN01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 03 | 4 | 4 | 68 | 8 |
@@ -189,6 +195,26 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | ciencias-naturales | CN08 OA 13 | 4 | 4 | 68 | 8 |
 | 8.º básico | ciencias-naturales | CN08 OA 14 | 5 | 5 | 85 | 10 |
 | 8.º básico | ciencias-naturales | CN08 OA 15 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 01 | 4 | 4 | 68 | 8 |
+| 1.º medio | ciencias-naturales | CN1M OA 02 | 6 | 6 | 102 | 12 |
+| 1.º medio | ciencias-naturales | CN1M OA 03 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 04 | 6 | 6 | 102 | 12 |
+| 1.º medio | ciencias-naturales | CN1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 06 | 4 | 4 | 68 | 8 |
+| 1.º medio | ciencias-naturales | CN1M OA 07 | 4 | 4 | 68 | 8 |
+| 1.º medio | ciencias-naturales | CN1M OA 08 | 6 | 6 | 102 | 12 |
+| 1.º medio | ciencias-naturales | CN1M OA 09 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 10 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 11 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 12 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 13 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 14 | 6 | 6 | 102 | 12 |
+| 1.º medio | ciencias-naturales | CN1M OA 15 | 5 | 5 | 85 | 10 |
+| 1.º medio | ciencias-naturales | CN1M OA 16 | 6 | 6 | 102 | 12 |
+| 1.º medio | ciencias-naturales | CN1M OA 17 | 6 | 6 | 102 | 12 |
+| 1.º medio | ciencias-naturales | CN1M OA 18 | 4 | 4 | 68 | 8 |
+| 1.º medio | ciencias-naturales | CN1M OA 19 | 4 | 4 | 68 | 8 |
+| 1.º medio | ciencias-naturales | CN1M OA 20 | 4 | 4 | 68 | 8 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 03 | 4 | 4 | 68 | 8 |
@@ -265,6 +291,11 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | educacion-fisica-salud | EF08 OA 03 | 5 | 5 | 90 | 10 |
 | 8.º básico | educacion-fisica-salud | EF08 OA 04 | 5 | 5 | 90 | 10 |
 | 8.º básico | educacion-fisica-salud | EF08 OA 05 | 5 | 5 | 90 | 10 |
+| 1.º medio | educacion-fisica-salud | EF1M OA 01 | 5 | 5 | 91 | 10 |
+| 1.º medio | educacion-fisica-salud | EF1M OA 02 | 6 | 6 | 108 | 12 |
+| 1.º medio | educacion-fisica-salud | EF1M OA 03 | 6 | 6 | 108 | 12 |
+| 1.º medio | educacion-fisica-salud | EF1M OA 04 | 5 | 5 | 92 | 10 |
+| 1.º medio | educacion-fisica-salud | EF1M OA 05 | 6 | 6 | 108 | 12 |
 | 1.º básico | ingles-propuesta | EN01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | ingles-propuesta | EN01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | ingles-propuesta | EN01 OA 03 | 5 | 5 | 85 | 10 |
@@ -377,6 +408,19 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | ingles-propuesta | EN08 OA 11 | 5 | 5 | 85 | 10 |
 | 8.º básico | ingles-propuesta | EN08 OA 12 | 5 | 5 | 85 | 10 |
 | 8.º básico | ingles-propuesta | EN08 OA 13 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 01 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 02 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 03 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 04 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 06 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 07 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 08 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 09 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 10 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 11 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 12 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles-propuesta | EN1M OA 13 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 03 | 4 | 4 | 68 | 8 |
@@ -535,6 +579,31 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | historia-geografia-ciencias-sociales | HI08 OA 20 | 5 | 5 | 85 | 10 |
 | 8.º básico | historia-geografia-ciencias-sociales | HI08 OA 21 | 6 | 6 | 102 | 12 |
 | 8.º básico | historia-geografia-ciencias-sociales | HI08 OA 22 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 01 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 02 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 03 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 04 | 4 | 4 | 68 | 8 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 05 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 06 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 07 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 08 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 09 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 10 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 11 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 12 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 13 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 14 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 15 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 16 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 17 | 4 | 4 | 68 | 8 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 18 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 19 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 20 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 21 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 22 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 23 | 5 | 5 | 85 | 10 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 24 | 6 | 6 | 102 | 12 |
+| 1.º medio | historia-geografia-ciencias-sociales | HI1M OA 25 | 5 | 5 | 85 | 10 |
 | 7.º básico | ingles | IN07 OA 01 | 5 | 5 | 85 | 10 |
 | 7.º básico | ingles | IN07 OA 02 | 5 | 5 | 85 | 10 |
 | 7.º básico | ingles | IN07 OA 03 | 5 | 5 | 85 | 10 |
@@ -567,6 +636,22 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | ingles | IN08 OA 14 | 5 | 5 | 85 | 10 |
 | 8.º básico | ingles | IN08 OA 15 | 5 | 5 | 85 | 10 |
 | 8.º básico | ingles | IN08 OA 16 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 01 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 02 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 03 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 04 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 06 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 07 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 08 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 09 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 10 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 11 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 12 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 13 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 14 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 15 | 5 | 5 | 85 | 10 |
+| 1.º medio | ingles | IN1M OA 16 | 5 | 5 | 85 | 10 |
 | 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 07 | 5 | 5 | 85 | 10 |
 | 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 08 | 4 | 4 | 68 | 8 |
 | 1.º básico | lengua-cultura-pueblos-originarios-ancestrales | LC01 OA 09 | 4 | 4 | 68 | 8 |
@@ -965,6 +1050,30 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | lengua-literatura | LE08 OA 24 | 6 | 6 | 102 | 12 |
 | 8.º básico | lengua-literatura | LE08 OA 25 | 6 | 6 | 102 | 12 |
 | 8.º básico | lengua-literatura | LE08 OA 26 | 5 | 5 | 85 | 10 |
+| 1.º medio | lengua-literatura | LE1M OA 01 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 02 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 03 | 7 | 7 | 119 | 14 |
+| 1.º medio | lengua-literatura | LE1M OA 04 | 7 | 7 | 121 | 14 |
+| 1.º medio | lengua-literatura | LE1M OA 05 | 7 | 7 | 125 | 14 |
+| 1.º medio | lengua-literatura | LE1M OA 06 | 5 | 5 | 90 | 10 |
+| 1.º medio | lengua-literatura | LE1M OA 07 | 5 | 5 | 90 | 10 |
+| 1.º medio | lengua-literatura | LE1M OA 08 | 6 | 6 | 108 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 09 | 7 | 7 | 119 | 14 |
+| 1.º medio | lengua-literatura | LE1M OA 10 | 7 | 7 | 119 | 14 |
+| 1.º medio | lengua-literatura | LE1M OA 11 | 5 | 5 | 85 | 10 |
+| 1.º medio | lengua-literatura | LE1M OA 12 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 13 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 14 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 15 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 16 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 17 | 5 | 5 | 85 | 10 |
+| 1.º medio | lengua-literatura | LE1M OA 18 | 6 | 6 | 103 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 19 | 7 | 7 | 119 | 14 |
+| 1.º medio | lengua-literatura | LE1M OA 20 | 4 | 4 | 68 | 8 |
+| 1.º medio | lengua-literatura | LE1M OA 21 | 5 | 5 | 85 | 10 |
+| 1.º medio | lengua-literatura | LE1M OA 22 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 23 | 6 | 6 | 102 | 12 |
+| 1.º medio | lengua-literatura | LE1M OA 24 | 6 | 6 | 102 | 12 |
 | 1.º básico | matematica | MA01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 03 | 4 | 4 | 68 | 8 |
@@ -1147,6 +1256,21 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | matematica | MA08 OA 15 | 5 | 5 | 85 | 10 |
 | 8.º básico | matematica | MA08 OA 16 | 6 | 6 | 102 | 12 |
 | 8.º básico | matematica | MA08 OA 17 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 01 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 02 | 5 | 5 | 85 | 10 |
+| 1.º medio | matematica | MA1M OA 03 | 5 | 5 | 85 | 10 |
+| 1.º medio | matematica | MA1M OA 04 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | matematica | MA1M OA 06 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 07 | 5 | 5 | 85 | 10 |
+| 1.º medio | matematica | MA1M OA 08 | 5 | 5 | 85 | 10 |
+| 1.º medio | matematica | MA1M OA 09 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 10 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 11 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 12 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 13 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 14 | 4 | 4 | 68 | 8 |
+| 1.º medio | matematica | MA1M OA 15 | 5 | 5 | 85 | 10 |
 | 1.º básico | musica | MU01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | musica | MU01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | musica | MU01 OA 03 | 5 | 5 | 85 | 10 |
@@ -1207,6 +1331,13 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | musica | MU08 OA 05 | 5 | 5 | 85 | 10 |
 | 8.º básico | musica | MU08 OA 06 | 4 | 4 | 68 | 8 |
 | 8.º básico | musica | MU08 OA 07 | 4 | 4 | 68 | 8 |
+| 1.º medio | musica | MU1M OA 01 | 4 | 4 | 68 | 8 |
+| 1.º medio | musica | MU1M OA 02 | 4 | 4 | 67 | 8 |
+| 1.º medio | musica | MU1M OA 03 | 4 | 4 | 68 | 8 |
+| 1.º medio | musica | MU1M OA 04 | 5 | 5 | 85 | 10 |
+| 1.º medio | musica | MU1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | musica | MU1M OA 06 | 5 | 5 | 85 | 10 |
+| 1.º medio | musica | MU1M OA 07 | 5 | 5 | 85 | 10 |
 | 1.º básico | orientacion | OR01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | orientacion | OR01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | orientacion | OR01 OA 03 | 4 | 4 | 68 | 8 |
@@ -1278,6 +1409,16 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | orientacion | OR08 OA 08 | 5 | 5 | 85 | 10 |
 | 8.º básico | orientacion | OR08 OA 09 | 4 | 4 | 68 | 8 |
 | 8.º básico | orientacion | OR08 OA 10 | 5 | 5 | 85 | 10 |
+| 1.º medio | orientacion | OR1M OA 01 | 5 | 5 | 85 | 10 |
+| 1.º medio | orientacion | OR1M OA 02 | 6 | 6 | 102 | 12 |
+| 1.º medio | orientacion | OR1M OA 03 | 6 | 6 | 102 | 12 |
+| 1.º medio | orientacion | OR1M OA 04 | 5 | 5 | 85 | 10 |
+| 1.º medio | orientacion | OR1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | orientacion | OR1M OA 06 | 4 | 4 | 68 | 8 |
+| 1.º medio | orientacion | OR1M OA 07 | 6 | 6 | 102 | 12 |
+| 1.º medio | orientacion | OR1M OA 08 | 5 | 5 | 85 | 10 |
+| 1.º medio | orientacion | OR1M OA 09 | 4 | 4 | 68 | 8 |
+| 1.º medio | orientacion | OR1M OA 10 | 6 | 6 | 102 | 12 |
 | 1.º básico | tecnologia | TE01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | tecnologia | TE01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | tecnologia | TE01 OA 03 | 4 | 4 | 68 | 11 |
@@ -1331,6 +1472,12 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | tecnologia | TE08 OA 04 | 4 | 4 | 68 | 8 |
 | 8.º básico | tecnologia | TE08 OA 05 | 4 | 4 | 68 | 8 |
 | 8.º básico | tecnologia | TE08 OA 06 | 4 | 4 | 68 | 8 |
+| 1.º medio | tecnologia | TE1M OA 01 | 4 | 4 | 68 | 8 |
+| 1.º medio | tecnologia | TE1M OA 02 | 4 | 4 | 68 | 8 |
+| 1.º medio | tecnologia | TE1M OA 03 | 5 | 5 | 85 | 10 |
+| 1.º medio | tecnologia | TE1M OA 04 | 4 | 4 | 68 | 8 |
+| 1.º medio | tecnologia | TE1M OA 05 | 5 | 5 | 85 | 10 |
+| 1.º medio | tecnologia | TE1M OA 06 | 4 | 4 | 68 | 8 |
 
 ## Mínimos exigidos por el validador
 
@@ -1339,6 +1486,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1429 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1530 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

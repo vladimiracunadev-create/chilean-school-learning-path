@@ -587,7 +587,7 @@ Respuesta: alegría
 *Desafío*
 
 - **D1.** Ordena los hechos del texto F: A) La educadora entró. B) Ana entregó la hoja. C) Ana preparó la hoja. D) Ana llegó temprano. Escribe las letras.
-- **D2.** ¿Qué título reúne más información del texto F? A) «Ana prepara un agradecimiento y saluda a una visita» B) «Una visita llega a la sala»..
+- **D2.** ¿Qué título reúne más información del texto F? A) «Ana prepara un agradecimiento y saluda a una visita». B) «Una visita llega a la sala».
 
 *Situaciones auténticas*
 
@@ -795,7 +795,7 @@ Respuesta: con el agua que toma en el recreo
 
 *Desafío*
 
-- **D1.** ¿Cuál reemplaza mejor la pregunta «¿Cuéntanos qué hace tu familia indígena?»? A) «¿Dónde viven tus abuelos?» B) «¿Qué piensas de lo que escuchamos en el texto?»..
+- **D1.** ¿Cuál reemplaza mejor la pregunta «¿Cuéntanos qué hace tu familia indígena?»? A) «¿Dónde viven tus abuelos?». B) «¿Qué piensas de lo que escuchamos en el texto?».
 - **D2.** Ordena para responder con respeto: A) leo la pregunta. B) pienso en lo que sé o siento. C) escribo sin contar datos privados. Escribe las letras en orden.
 
 *Situaciones auténticas*
@@ -994,8 +994,8 @@ Respuesta: Según la ficha, «mari mari» es un saludo; el abuelo lo dijo a los 
 *Aplicación*
 
 - **A1.** Texto K (inventado): «La educadora escribió «ko» en la pizarra y mostró un vaso con agua. Dijo que esa palabra nombra lo que hay en el vaso.» Ficha de palabras en mapuzugun (de práctica): «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es la casa mapuche, «mapu» es tierra, «ñuke» es madre. ¿Qué nombra «ko» en el texto K?
-- **A2.** Texto L (inventado): «Al terminar la clase, la visita dijo «chaltumay» y entregó una carta a cada niño.» Ficha: «mari mari» es un saludo y «chaltumay» quiere decir «gracias», ambas en mapuzugun. ¿Qué explicación es completa? A) «Según la ficha es gracias; la visita lo dijo al terminar la clase» B) «Es una palabra rara»..
-- **A3.** Un profesor dice: «mari mari» significa solo «hola». Según esta clase, ¿qué falta decir? A) Nada, está completo B) Que una traducción no cuenta todo y el educador o la comunidad explican más..
+- **A2.** Texto L (inventado): «Al terminar la clase, la visita dijo «chaltumay» y entregó una carta a cada niño.» Ficha: «mari mari» es un saludo y «chaltumay» quiere decir «gracias», ambas en mapuzugun. ¿Qué explicación es completa? A) «Según la ficha es gracias; la visita lo dijo al terminar la clase». B) «Es una palabra rara».
+- **A3.** Un profesor dice: «mari mari» significa solo «hola». Según esta clase, ¿qué falta decir? A) Nada, está completo. B) Que una traducción no cuenta todo y el educador o la comunidad explican más.
 
 *Razonamiento y análisis*
 

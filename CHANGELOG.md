@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-04 · 1° medio: cuaderno del estudiante de las 11 asignaturas, segunda lectura crítica y corrección de la puntuación al reordenar opciones
+
+- Las 753 clases de 1° medio tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (66), Lengua y Literatura (143), Ciencias Naturales (100), Historia, Geografía y Ciencias Sociales (132), Inglés propuesta (65), Inglés oficial (80), Educación Física (28), Orientación (52), Música (32), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena son integración transversal y no llevan cuaderno propio.
+- Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional). Corrigieron datos históricos y científicos inexactos, unas 150 consignas de Historia que citaban fuentes que no estaban en el enunciado, más de 130 preguntas de recuperación de Orientación que regalaban la definición, unas 60 de Matemática que repetían un ejemplo, errores de ortografía y gramática enseñados, riesgos de seguridad y de protección en línea, supuestos sobre la familia, y solapes de contexto entre Inglés propuesta e Inglés oficial. Se reescribieron 39 enunciados idénticos a los de otros niveles.
+- Se corrigió el reordenamiento automático de opciones A/B y A/B/C: cuando una opción traía su propio «?» o «.», la puntuación se duplicaba al final («??», «..») y la opción desplazada quedaba sin su signo. Ahora cada opción conserva su puntuación al cambiar de lugar. Afecta a las preguntas de todos los niveles.
+- El análisis de alineación cubre ahora 1° básico a 1° medio, y la lista de contenidos para especialistas incluye 1° medio.
+- Siguen abiertos: software y programas reales, audio, video y pronunciación, obras y textos reales con derechos de autor, pueblos originarios (educador tradicional), números de ayuda por verificar, protocolos de protección por validar con convivencia escolar, hechos y fechas históricas por contrastar con una fuente y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional.
+
 ## 2026-11-02 · Revisión de 8° básico
 
 - Se revisó de nuevo 8° básico: no hay fuentes citadas sin entregar, las preguntas de «une», «clasifica» y «ordena» conservan su respuesta original, el reparto de la respuesta correcta quedó equilibrado (dos opciones: A 1.285 y B 1.235; tres opciones: A 147, B 196 y C 177) y no hay billetes ni monedas inexistentes.

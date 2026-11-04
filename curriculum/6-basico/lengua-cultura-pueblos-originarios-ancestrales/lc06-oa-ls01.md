@@ -785,7 +785,7 @@ Respuesta: es lo que piensa quien opina
 *Aplicación*
 
 - **A1.** Ordena las partes de una opinión respetuosa. A) razón con «porque». B) límite. C) lo que dice el relato con «según». D) lo que pienso con «yo pienso». Escribe las letras en orden.
-- **A2.** Valle Ejemplo (relato inventado): las familias se reúnen en la plaza al terminar la cosecha, una abuela cuenta cómo llegó el primer río y cada familia teje una cinta. Elige la mejor razón para la opinión «me gustó que todas las familias participen». A) «porque la gente de allí es muy simpática». Escribe la letra B) «porque cada familia teje una cinta»..
+- **A2.** Valle Ejemplo (relato inventado): las familias se reúnen en la plaza al terminar la cosecha, una abuela cuenta cómo llegó el primer río y cada familia teje una cinta. Elige la mejor razón para la opinión «me gustó que todas las familias participen». A) «porque la gente de allí es muy simpática». Escribe la letra. B) «porque cada familia teje una cinta».
 - **A3.** Una opinión debe tener 4 partes. Un compañero escribió 3 oraciones, cada una con una parte distinta. ¿Cuántas partes le faltan?
 
 *Razonamiento y análisis*
@@ -1004,7 +1004,7 @@ Respuesta: jerarquiza
 
 *Desafío*
 
-- **D1.** Resumen del relato de Valle Ejemplo (inventado): la tierra es como una persona mayor a la que se agradece al terminar la cosecha; se comparte una comida y cada familia teje una cinta. Resumen del relato de Costa Ejemplo (inventado): el mar presta lo que da y hay que devolver con cuidado; las familias comparten pan con quienes no tienen barca y suena un tambor. Elige la mejor frase de cierre. A) «El relato de Valle Ejemplo es mejor». Escribe la letra B) «Los dos relatos expresan cuidado hacia lo que se recibe; uno agradece a la tierra y el otro devuelve al mar; yo pienso que ambos muestran formas respetuosas de vivir»..
+- **D1.** Resumen del relato de Valle Ejemplo (inventado): la tierra es como una persona mayor a la que se agradece al terminar la cosecha; se comparte una comida y cada familia teje una cinta. Resumen del relato de Costa Ejemplo (inventado): el mar presta lo que da y hay que devolver con cuidado; las familias comparten pan con quienes no tienen barca y suena un tambor. Elige la mejor frase de cierre. A) «El relato de Valle Ejemplo es mejor». Escribe la letra. B) «Los dos relatos expresan cuidado hacia lo que se recibe; uno agradece a la tierra y el otro devuelve al mar; yo pienso que ambos muestran formas respetuosas de vivir».
 - **D2.** Quieres comparar el relato de Valle Ejemplo con la fiesta real de una comunidad que visitaste, pero no tienes permiso para contar esa fiesta. ¿Qué haces: la comparas igual o comparas con otra situación que sí puedas contar?
 
 *Situaciones auténticas*

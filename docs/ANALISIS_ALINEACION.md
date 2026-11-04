@@ -1502,3 +1502,305 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | LE08 OA 11 | 1 | Formular una necesidad de contexto | 89 % | 100 % | 22.7 | — |
 | HI08 OA 06 | 1 | Situar tiempo, espacio y problema: conquista y caída de impe | 91 % | 100 % | 21.2 | — |
 | HI08 OA 09 | 1 | Situar tiempo, espacio y problema: barroco y cultura colonia | 100 % | 100 % | 20.6 | — |
+
+## 1.º medio
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 29 | 52 % | 5 |
+| ciencias-naturales | 100 | 42 % | 41 |
+| educacion-fisica-salud | 28 | 45 % | 4 |
+| historia-geografia-ciencias-sociales | 132 | 58 % | 25 |
+| ingles | 80 | 34 % | 43 |
+| ingles-propuesta | 65 | 30 % | 47 |
+| lengua-literatura | 143 | 49 % | 36 |
+| matematica | 66 | 40 % | 16 |
+| musica | 32 | 43 % | 12 |
+| orientacion | 52 | 49 % | 14 |
+| tecnologia | 26 | 47 % | 4 |
+
+**Clases marcadas para lectura prioritaria (1.º medio):** 247 de 753.
+
+### Segunda lectura crítica de las 753 clases
+
+Cada una de las 753 clases de 1.º medio fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios, y dos lectores (Inglés propuesta OA 01 a 10 e Inglés oficial OA 01 a 10) leyeron y comprobaron datos sin resolver cada ejercicio a ciegas. Las fichas de actitud y la asignatura de Lengua Indígena son integración transversal y no llevan cuaderno propio.
+
+| Asignatura | Clases | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 66 | Unos 60 ejercicios que repetían un ejemplo de la explicación o un ejemplo resuelto; error de estudiante mal descrito («2^-3 < 2^-5 porque −3 < −5» es falso); «semejantes» y «eje x» usados antes de enseñarse; pregunta de homotecia que no consideraba las rectas por el centro; «1.º A» con 30 estudiantes contra un ejemplo de 20; «menos de 0 errores»; juego con dinero cambiado por puntos; fila 4 del triángulo de Pascal ambigua. |
+| Lengua y Literatura | 143 | Diptongo «cui-da-do» en la fila equivocada; «ardilla» como diminutivo en -illa; «Completa con b o v» con respuesta g; saludo «Querida Ana,» aceptable pero usado como distractor; «sábado 10 + dos días» llegaba al lunes; mayúscula tras el saludo de una carta formal; unas 35 sumas triviales reemplazadas por ejercicios de contenido; unas 25 consignas abiertas pasadas a opción múltiple; citas de un poema no entregado; «el río se repite» que era falso; «cardal» y otros datos inseguros; termómetro doméstico con mercurio. |
+| Ciencias Naturales | 100 | Ejemplo de coincidencias de rasgos mal contado (0 y 0 donde eran 1 y 1); ala de ave y de murciélago presentadas como homólogas; géneros reales con conteos de especies inventados; tabla de temperatura y volumen que contradecía a otra; explicación de las estaciones con el invierno austral invertido; tabla de hipocentros que no calzaba con el ejercicio; Pitágoras y «infiltración», «kWh» usados sin enseñar; vela encendida en un frasco cerrado, espejo de vidrio y elástico estirado reemplazados por opciones seguras; pregunta sensible de evolución frente a creación reformulada. |
+| Historia, Geografía y Ciencias Sociales | 132 | Unas 150 consignas y contextos que citaban fuentes, cuadros o dossiers «de este cuaderno» sin traerlos; las mujeres «votaron» en 1934 y 1949 (obtuvieron el derecho); tabla con 800 inscritos de los que 500 sabían leer contra una regla que exige saber leer; ferrocarril a Temuco, primer censo de 1854 y «libre tránsito» imprecisos; África con 10 % de control europeo fechada en 1880 (1870); edad del voto de 1874 sin sustento; Brasil omitido en la abolición; «cambio climático» definido como variación natural; «militante comunista» anacrónico en 1905; ejercicio que pedía a un estudiante representar a un pueblo. |
+| Inglés (propuesta EN1M) | 65 | Ejercicios que repetían un ejemplo resuelto; «And ___» que aceptaba last y finally; «Although it is cheap, the bag is not strong» sin contraste real; ejemplos de respuesta que no calzaban con los datos; esquema «de la clase anterior» sin traerlo; shall presentado como futuro seguro; supuestos sobre la familia; texto de «School uniforms» con el mismo tema que el Inglés oficial; una opción A/B con doble coma. |
+| Inglés (oficial IN1M) | 80 | Opción «5–14 January» contra clave «5–16»; /tr/ y /dr/ explicados como si el español no los tuviera; -tion enseñado como /ʧ/ (es /ʃən/); orden de adjetivos usado sin enseñarse; razón errónea sobre «honest» y la h; inglés británico y americano mezclados en un pasaje (unificado en americano); contextos de museo, mercado y bicicletas idénticos a los de Inglés propuesta, cambiados. |
+| Educación Física y Salud | 28 | Pasar de «defensa a atacar» desde 2-2-1 llevaba a 1-2-2, no a 2-1-2; plan de baile que subía a 35 minutos con un máximo de 30; caminar de espaldas y círculos de cuello eliminados; pulso en la muñeca sin presionar el cuello; «me molestó la espalda» como razón para seguir con la plancha; alternativas de alimentación que sugerían restringirse; unas 20 alternativas absurdas. |
+| Orientación | 52 | Unas 130 preguntas de recuperación de tipo «¿X es Y, sí o no?» que regalaban la definición; afirmación de que todo contacto íntimo de un adulto con un menor es delito (no lo es a los 14 a 17 años); protocolo en línea con el orden «bloquear y luego guardar captura» (ahora guardar captura, bloquear, avisar); kiosco del colegio con sellos «ALTO EN»; ejemplo que suponía que Ema ya había pedido orientación; soldadura reemplazada por circuitos con pila y LED; Fono Niños 147 descrito como «atendido por profesionales» sin sustento. |
+| Música | 32 | Ejemplo y ejercicio que cambiaban tempo y volumen a la vez cuando la clase enseña a cambiar un solo rasgo; «la 1» como única respuesta cuando cumplían la 1 y la 4; patrón de golpes repetido del ejemplo resuelto; «compás fuerte» sin definir; «desafinar» usado para la pentatónica; empate de minutos entre dos estudiantes; «funeral» y «persona de la familia» cambiados. |
+| Artes Visuales | 29 | Doce puntos máximos donde dos criterios dan 6 (ahora 9 en tres criterios); cifras de rampa, muro y litros de pintura repetidas del ejemplo; «tallar» la matriz y libro cosido con aguja cambiados por cartón pegado y cordel; ficha de grabado sin tamaño; «saturado» sin definir. |
+| Tecnología | 26 | Ejemplos de respuesta que no calzaban con la consigna (6 criterios pedidos y 3 dados); promedio de 3,875 fuera de cifras enteras; ejercicio trivial «1 o 5»; afirmación categórica sobre derechos de autor suavizada; protocolo de seguridad digital completado con «no se borra el chat ni se reenvía una imagen íntima». |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA de cada asignatura (por ejemplo «Recognize purpose and context», «Definir necesidad, usuario y criterio»), y los autores repartieron el contenido del OA entre ellas. Los lectores comprobaron que lo enseñado calza con el OA. Casos señalados: Tecnología OA 01 avanza hacia priorizar e idear aunque el OA pide identificar oportunidades; los tres entornos de Tecnología OA 05 (natural, construido y digital) y las cuatro «dimensiones de la experiencia humana» de Lengua y Literatura OA 02 son interpretación de los autores, no texto del OA; la clase 6 de Educación Física OA 03 se dedicó a ingesta y gasto calórico.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Inglés oficial (excepción «question» /tʃ/ en OA 02); Inglés propuesta (caracterización del personaje en OA 04); Inglés oficial OA 14 (cuento y resumen).
+- **Abiertos:** software educativo y geometría dinámica (Matemática OA 04, 05, 08, 09, 11, 14 y 15); audio, video, canciones, noticieros y pronunciación real (Inglés, Lengua y Literatura OA 19 y 21, Música); obras completas del programa y plan lector (Lengua y Literatura OA 01, 02, 06 y 07; el Lazarillo de Tormes en OA 03); cuentos, artículos y diario personal (Inglés propuesta OA 11); narraciones y exposiciones orales como formatos (Inglés propuesta OA 01); mitos, leyendas y novelas adaptadas (Inglés propuesta OA 04); técnica real por deporte, RCP y maniobras de atragantamiento (Educación Física OA 01 y 04); segmento circular de 120° (Matemática OA 06, exige trigonometría de 2.º medio); lupa e instrumentos ópticos (Matemática OA 08); aportes de científicos en Ciencias OA 02; salitre y guano como exportaciones (Historia OA 10); flujos del Estado con subsidios y gasto público (Historia OA 19); casos de quechua, colla, diaguita, atacameño, kawéskar y yagán (Historia OA 24); procesador de textos y diccionario en línea (Lengua y Literatura OA 15, Inglés); institutos locales de protección y sexualidad integral más allá de lo general (Orientación OA 02 y 03).
+- **Decisiones que dependen del programa oficial:** notación en unidades de duración (corchea = 1) y términos «compás fuerte» y «densidad» de Música; formato de cita acordado `(Apellido, año, v. N)` de Lengua y Literatura; ortografía de «kawéskar» y «yagán»; fórmulas de pendiente de rampa 1 en 12 y alturas de montaje de 150 cm de Artes Visuales como referencia; rango 60 a 80 % de la frecuencia cardíaca máxima estimada de Educación Física.
+
+### Clases marcadas de 1.º medio
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| IN1M OA 01 | 4 | Communicate through an information gap: Global and explicit  | 9 % | 25 % | 8.7 | — |
+| CN1M OA 16 | 4 | Investigar relaciones entre variables: Astronomía en Chile,  | 11 % | 38 % | 16.8 | — |
+| IN1M OA 09 | 4 | Communicate through an information gap: Global and explicit  | 12 % | 11 % | 14.6 | — |
+| MU1M OA 05 | 4 | Interpretar, improvisar o crear: Improvisación, creación y a | 12 % | 29 % | 16.4 | — |
+| IN1M OA 01 | 2 | Locate precise evidence: Global and explicit meaning in vari | 13 % | 25 % | 16.5 | — |
+| EN1M OA 01 | 3 | Model a useful strategy: Understanding varied literary and f | 14 % | 0 % | 14.3 | — |
+| EN1M OA 01 | 4 | Communicate through an information gap: Understanding varied | 14 % | 25 % | 17.2 | — |
+| EN1M OA 05 | 3 | Model a useful strategy: Language functions interpreted in m | 14 % | 12 % | 14.3 | — |
+| MA1M OA 12 | 3 | Construir una regla o comparación: Distribuciones bivariadas | 14 % | 14 % | 18.8 | — |
+| CN1M OA 11 | 2 | Examinar evidencia y representaciones: Luz, modelos, imágene | 16 % | 17 % | 19.0 | — |
+| EN1M OA 10 | 3 | Model a useful strategy: Language functions in discussion an | 16 % | 0 % | 19.6 | — |
+| EN1M OA 05 | 1 | Recognize purpose and context: Language functions interprete | 16 % | 12 % | 19.4 | — |
+| TE1M OA 02 | 2 | Investigar soluciones y restricciones: Desarrollo ético y se | 17 % | 29 % | 18.1 | — |
+| MA1M OA 07 | 1 | Explorar una construcción: Área y volumen del cono | 18 % | 0 % | 15.1 | — |
+| EN1M OA 01 | 2 | Locate precise evidence: Understanding varied literary and f | 18 % | 25 % | 15.1 | — |
+| IN1M OA 13 | 4 | Communicate through an information gap: Creative multimodal  | 18 % | 14 % | 16.7 | — |
+| MA1M OA 15 | 2 | Representar patrones: Azar, tabla de Galton y paseos aleator | 18 % | 50 % | 21.0 | — |
+| IN1M OA 08 | 3 | Use a strategy or language function: First-year secondary co | 18 % | 14 % | 13.5 | — |
+| IN1M OA 08 | 4 | Communicate through an information gap: First-year secondary | 18 % | 14 % | 11.6 | — |
+| CN1M OA 12 | 3 | Construir o contrastar un modelo: Oído, ojo, espectros y tec | 18 % | 33 % | 18.0 | — |
+| IN1M OA 09 | 2 | Locate precise evidence: Global and explicit meaning in prin | 18 % | 33 % | 16.7 | — |
+| MA1M OA 10 | 4 | Resolver un caso nuevo: Semejanza, proporcionalidad y modelo | 18 % | 33 % | 17.3 | — |
+| EN1M OA 02 | 4 | Communicate through an information gap: Purpose, detail, lan | 19 % | 11 % | 14.6 | — |
+| EN1M OA 04 | 4 | Communicate through an information gap: Integrated literary  | 19 % | 33 % | 17.1 | — |
+| EN1M OA 07 | 4 | Communicate through an information gap: Critical and persona | 19 % | 22 % | 19.1 | — |
+| IN1M OA 02 | 3 | Use a strategy or language function: Key expressions, colloc | 19 % | 14 % | 19.1 | — |
+| IN1M OA 14 | 3 | Use a strategy or language function: Writing process across  | 20 % | 0 % | 22.6 | — |
+| CN1M OA 07 | 4 | Investigar relaciones entre variables: Fotosíntesis, respira | 20 % | 43 % | 16.1 | — |
+| CN1M OA 19 | 2 | Examinar evidencia y representaciones: Compuestos binarios y | 20 % | 38 % | 17.5 | — |
+| CN1M OA 19 | 3 | Construir o contrastar un modelo: Compuestos binarios y tern | 20 % | 25 % | 23.1 | — |
+| IN1M OA 01 | 3 | Use a strategy or language function: Global and explicit mea | 20 % | 25 % | 14.6 | — |
+| EN1M OA 05 | 2 | Locate precise evidence: Language functions interpreted in m | 21 % | 12 % | 16.2 | — |
+| IN1M OA 16 | 4 | Communicate through an information gap: First-year secondary | 21 % | 0 % | 13.1 | — |
+| AR1M OA 06 | 2 | Explorar materiales y referentes: Diseño de difusión artísti | 21 % | 0 % | 17.1 | — |
+| OR1M OA 05 | 4 | Elegir una acción segura: Relaciones constructivas presencia | 21 % | 14 % | 19.4 | — |
+| EN1M OA 05 | 4 | Communicate through an information gap: Language functions i | 21 % | 12 % | 13.2 | — |
+| EN1M OA 12 | 4 | Communicate through an information gap: Language functions i | 21 % | 0 % | 16.7 | — |
+| TE1M OA 04 | 4 | Implementar con seguridad: Comunicación del diseño y desarro | 21 % | 14 % | 15.6 | — |
+| EN1M OA 07 | 5 | Respond independently: Critical and personal response across | 21 % | 29 % | 15.0 | — |
+| IN1M OA 06 | 2 | Locate precise evidence: Planning, repairing and reviewing s | 21 % | 0 % | 13.2 | — |
+| AR1M OA 06 | 3 | Probar decisiones visuales: Diseño de difusión artística par | 22 % | 29 % | 18.4 | — |
+| EN1M OA 09 | 4 | Communicate through an information gap: Strategies for clear | 22 % | 25 % | 13.9 | — |
+| IN1M OA 05 | 2 | Locate precise evidence: Coherent multimodal oral presentati | 22 % | 29 % | 14.5 | — |
+| EN1M OA 10 | 1 | Recognize purpose and context: Language functions in discuss | 22 % | 0 % | 20.1 | — |
+| IN1M OA 05 | 4 | Communicate through an information gap: Coherent multimodal  | 22 % | 43 % | 12.8 | — |
+| MA1M OA 14 | 3 | Construir una regla o comparación: Reglas aditiva y multipli | 22 % | 67 % | 22.1 | — |
+| EN1M OA 12 | 1 | Recognize purpose and context: Language functions in connect | 22 % | 12 % | 13.5 | — |
+| IN1M OA 08 | 2 | Locate precise evidence: First-year secondary communicative  | 22 % | 0 % | 13.4 | — |
+| EN1M OA 05 | 5 | Respond independently: Language functions interpreted in mea | 23 % | 14 % | 15.4 | — |
+| HI1M OA 21 | 2 | Contextualizar y seleccionar fuentes: Ahorro, crédito, inver | 23 % | 50 % | 22.5 | — |
+| LE1M OA 18 | 2 | Investigar y seleccionar insumos: Ortografía y puntuación pa | 23 % | 0 % | 22.4 | — |
+| EN1M OA 08 | 2 | Locate precise evidence: Audience-aware multimodal oral pres | 23 % | 29 % | 17.0 | — |
+| IN1M OA 16 | 3 | Use a strategy or language function: First-year secondary co | 23 % | 0 % | 17.9 | — |
+| LE1M OA 10 | 2 | Localizar evidencias decisivas: Lectura crítica de medios | 24 % | 17 % | 14.2 | — |
+| EN1M OA 03 | 3 | Model a useful strategy: Purposeful listening, inference and | 24 % | 0 % | 13.2 | — |
+| MU1M OA 03 | 3 | Ensayar una decisión musical: Interpretación vocal e instrum | 24 % | 12 % | 17.8 | — |
+| EN1M OA 07 | 2 | Locate precise evidence: Critical and personal response acro | 24 % | 0 % | 17.8 | — |
+| CN1M OA 09 | 4 | Investigar relaciones entre variables: Ondas: energía, propi | 24 % | 29 % | 15.8 | — |
+| IN1M OA 09 | 3 | Use a strategy or language function: Global and explicit mea | 24 % | 11 % | 14.2 | — |
+| CN1M OA 11 | 3 | Construir o contrastar un modelo: Luz, modelos, imágenes y c | 24 % | 20 % | 20.3 | — |
+| EF1M OA 04 | 3 | Combinar habilidades o decisiones: Actividad física regular, | 25 % | 33 % | 16.2 | — |
+| EN1M OA 04 | 3 | Model a useful strategy: Integrated literary and non-literar | 25 % | 0 % | 20.3 | — |
+| EN1M OA 11 | 2 | Locate precise evidence: Modeled multimodal writing for real | 25 % | 29 % | 15.0 | — |
+| IN1M OA 02 | 4 | Communicate through an information gap: Key expressions, col | 25 % | 0 % | 17.8 | — |
+| IN1M OA 10 | 3 | Use a strategy or language function: Purpose, structure and  | 25 % | 14 % | 12.8 | — |
+| MA1M OA 04 | 3 | Construir el procedimiento: Sistemas de ecuaciones lineales  | 25 % | 40 % | 20.1 | — |
+| MA1M OA 10 | 2 | Medir y formular una conjetura: Semejanza, proporcionalidad  | 25 % | 43 % | 19.0 | — |
+| MU1M OA 04 | 3 | Ensayar una decisión musical: Interpretación a una y más voc | 25 % | 43 % | 14.8 | — |
+| EN1M OA 10 | 2 | Locate precise evidence: Language functions in discussion an | 25 % | 14 % | 16.1 | — |
+| IN1M OA 11 | 4 | Communicate through an information gap: Theme, character, se | 26 % | 25 % | 9.9 | — |
+| CN1M OA 17 | 3 | Construir o contrastar un modelo: Evidencias, variables y re | 26 % | 50 % | 21.8 | — |
+| CN1M OA 10 | 2 | Examinar evidencia y representaciones: Sonido, modelo ondula | 26 % | 14 % | 15.8 | — |
+| IN1M OA 16 | 2 | Locate precise evidence: First-year secondary communicative  | 26 % | 12 % | 16.1 | — |
+| OR1M OA 10 | 5 | Practicar comunicación o búsqueda de ayuda: Diseño flexible  | 26 % | 50 % | 21.0 | — |
+| EF1M OA 04 | 4 | Aplicar estrategia o plan: Actividad física regular, autocui | 26 % | 38 % | 16.8 | — |
+| LE1M OA 22 | 4 | Ensayar con retroalimentación: Exposición investigada para u | 26 % | 40 % | 15.4 | — |
+| EN1M OA 10 | 5 | Respond independently: Language functions in discussion and  | 27 % | 17 % | 16.6 | — |
+| IN1M OA 10 | 5 | Respond independently: Purpose, structure and language in no | 27 % | 14 % | 13.5 | — |
+| IN1M OA 16 | 1 | Recognize purpose and context: First-year secondary communic | 27 % | 25 % | 17.4 | — |
+| IN1M OA 08 | 1 | Recognize purpose and context: First-year secondary communic | 27 % | 25 % | 15.1 | — |
+| CN1M OA 06 | 4 | Investigar relaciones entre variables: Ciclos biogeoquímicos | 27 % | 25 % | 16.1 | — |
+| CN1M OA 12 | 1 | Formular una pregunta investigable: Oído, ojo, espectros y t | 27 % | 50 % | 20.6 | — |
+| CN1M OA 12 | 2 | Examinar evidencia y representaciones: Oído, ojo, espectros  | 27 % | 33 % | 17.2 | — |
+| CN1M OA 12 | 4 | Investigar relaciones entre variables: Oído, ojo, espectros  | 27 % | 33 % | 19.5 | — |
+| IN1M OA 01 | 5 | Respond independently: Global and explicit meaning in varied | 27 % | 29 % | 14.5 | — |
+| EN1M OA 08 | 4 | Communicate through an information gap: Audience-aware multi | 27 % | 29 % | 15.8 | — |
+| EN1M OA 08 | 5 | Respond independently: Audience-aware multimodal oral presen | 27 % | 17 % | 15.7 | — |
+| IN1M OA 13 | 2 | Locate precise evidence: Creative multimodal stories and rel | 28 % | 38 % | 17.9 | — |
+| IN1M OA 13 | 3 | Use a strategy or language function: Creative multimodal sto | 28 % | 25 % | 15.8 | — |
+| MA1M OA 15 | 1 | Organizar datos o resultados: Azar, tabla de Galton y paseos | 28 % | 43 % | 17.4 | — |
+| EN1M OA 09 | 2 | Locate precise evidence: Strategies for clear, fluent and re | 28 % | 0 % | 17.3 | — |
+| CN1M OA 20 | 3 | Construir o contrastar un modelo: Estequiometría y relacione | 28 % | 43 % | 13.4 | — |
+| EN1M OA 07 | 1 | Recognize purpose and context: Critical and personal respons | 28 % | 22 % | 22.3 | — |
+| IN1M OA 02 | 1 | Recognize purpose and context: Key expressions, collocations | 28 % | 43 % | 12.5 | — |
+| IN1M OA 02 | 2 | Locate precise evidence: Key expressions, collocations and s | 28 % | 29 % | 12.0 | — |
+| EN1M OA 03 | 4 | Communicate through an information gap: Purposeful listening | 28 % | 25 % | 13.4 | — |
+| IN1M OA 04 | 4 | Communicate through an information gap: Strategic listening, | 28 % | 25 % | 10.3 | — |
+| EN1M OA 11 | 5 | Respond independently: Modeled multimodal writing for real a | 28 % | 33 % | 16.6 | — |
+| CN1M OA 08 | 4 | Investigar relaciones entre variables: Impactos humanos, fen | 29 % | 38 % | 14.9 | — |
+| IN1M OA 11 | 5 | Respond independently: Theme, character, setting and plot in | 29 % | 14 % | 20.8 | — |
+| IN1M OA 07 | 2 | Locate precise evidence: Evidence-based personal response an | 29 % | 0 % | 15.1 | — |
+| EN1M OA 02 | 1 | Recognize purpose and context: Purpose, detail, language and | 29 % | 25 % | 18.0 | — |
+| LE1M OA 04 | 2 | Localizar evidencias decisivas: Análisis de poemas | 29 % | 40 % | 19.7 | — |
+| LE1M OA 15 | 2 | Investigar y seleccionar insumos: Proceso de escritura, revi | 29 % | 14 % | 13.9 | — |
+| AR1M OA 02 | 3 | Probar decisiones visuales: Grabado, pintura mural e investi | 29 % | 44 % | 19.7 | — |
+| LE1M OA 22 | 3 | Modelar una decisión comunicativa: Exposición investigada pa | 29 % | 33 % | 9.8 | — |
+| MU1M OA 04 | 1 | Escuchar y reconocer rasgos: Interpretación a una y más voce | 29 % | 14 % | 15.0 | — |
+| MU1M OA 05 | 3 | Ensayar una decisión musical: Improvisación, creación y arre | 29 % | 43 % | 23.8 | — |
+| EN1M OA 01 | 5 | Respond independently: Understanding varied literary and fun | 30 % | 29 % | 14.7 | — |
+| EN1M OA 12 | 3 | Model a useful strategy: Language functions in connected wri | 30 % | 25 % | 17.6 | — |
+| EN1M OA 06 | 3 | Model a useful strategy: Strategic reading before, during an | 30 % | 0 % | 14.2 | — |
+| CN1M OA 03 | 3 | Construir o contrastar un modelo: Clasificación biológica y  | 30 % | 43 % | 14.1 | — |
+| EN1M OA 09 | 5 | Respond independently: Strategies for clear, fluent and repa | 30 % | 0 % | 22.6 | — |
+| IN1M OA 06 | 4 | Communicate through an information gap: Planning, repairing  | 30 % | 25 % | 14.2 | — |
+| CN1M OA 15 | 3 | Construir o contrastar un modelo: Escalas y propiedades de e | 31 % | 29 % | 21.0 | — |
+| CN1M OA 15 | 4 | Investigar relaciones entre variables: Escalas y propiedades | 31 % | 29 % | 17.5 | — |
+| EN1M OA 11 | 3 | Model a useful strategy: Modeled multimodal writing for real | 31 % | 33 % | 15.5 | — |
+| EN1M OA 02 | 3 | Model a useful strategy: Purpose, detail, language and sound | 31 % | 0 % | 14.2 | — |
+| CN1M OA 09 | 2 | Examinar evidencia y representaciones: Ondas: energía, propi | 31 % | 29 % | 15.6 | — |
+| EN1M OA 12 | 5 | Respond independently: Language functions in connected writt | 31 % | 14 % | 16.1 | — |
+| IN1M OA 09 | 1 | Recognize purpose and context: Global and explicit meaning i | 31 % | 44 % | 14.3 | — |
+| MA1M OA 07 | 3 | Justificar la relación: Área y volumen del cono | 31 % | 33 % | 14.9 | — |
+| MU1M OA 02 | 4 | Interpretar, improvisar o crear: Comparación musical, lengua | 31 % | 44 % | 18.1 | — |
+| AR1M OA 05 | 3 | Probar decisiones visuales: Crítica fundamentada de proyecto | 32 % | 25 % | 14.3 | — |
+| EN1M OA 13 | 4 | Communicate through an information gap: Independent writing  | 32 % | 25 % | 16.1 | — |
+| IN1M OA 10 | 2 | Locate precise evidence: Purpose, structure and language in  | 32 % | 38 % | 13.5 | — |
+| CN1M OA 06 | 2 | Examinar evidencia y representaciones: Ciclos biogeoquímicos | 32 % | 25 % | 16.4 | — |
+| LE1M OA 12 | 5 | Revisar con evidencia de lectura: Escritura flexible en nuev | 32 % | 43 % | 14.5 | — |
+| EN1M OA 10 | 4 | Communicate through an information gap: Language functions i | 32 % | 14 % | 12.1 | — |
+| IN1M OA 06 | 3 | Use a strategy or language function: Planning, repairing and | 32 % | 0 % | 9.6 | — |
+| IN1M OA 15 | 2 | Locate precise evidence: Writing to explain, narrate and exp | 32 % | 12 % | 11.6 | — |
+| IN1M OA 15 | 4 | Communicate through an information gap: Writing to explain,  | 32 % | 0 % | 15.2 | — |
+| OR1M OA 02 | 4 | Elegir una acción segura: Sexualidad, vínculos afectivos, re | 32 % | 50 % | 21.3 | — |
+| CN1M OA 02 | 2 | Examinar evidencia y representaciones: Evidencias de evoluci | 32 % | 33 % | 17.3 | — |
+| IN1M OA 13 | 5 | Respond independently: Creative multimodal stories and relev | 32 % | 43 % | 9.2 | — |
+| MA1M OA 08 | 4 | Resolver un caso nuevo: Homotecia y razón de escala | 32 % | 60 % | 21.8 | — |
+| IN1M OA 03 | 3 | Use a strategy or language function: Purpose, relevant ideas | 32 % | 10 % | 14.1 | — |
+| CN1M OA 11 | 5 | Explicar patrones y mecanismos: Luz, modelos, imágenes y col | 32 % | 33 % | 18.1 | — |
+| IN1M OA 12 | 3 | Use a strategy or language function: Strategic reading befor | 32 % | 14 % | 17.6 | — |
+| LE1M OA 15 | 3 | Planificar decisiones: Proceso de escritura, revisión y edic | 32 % | 33 % | 18.6 | — |
+| CN1M OA 13 | 4 | Investigar relaciones entre variables: Ondas sísmicas, medic | 32 % | 57 % | 23.7 | — |
+| CN1M OA 13 | 5 | Explicar patrones y mecanismos: Ondas sísmicas, medición y c | 32 % | 43 % | 16.5 | — |
+| EF1M OA 04 | 2 | Seleccionar una respuesta motriz: Actividad física regular,  | 32 % | 44 % | 18.2 | — |
+| EN1M OA 03 | 2 | Locate precise evidence: Purposeful listening, inference and | 33 % | 0 % | 14.5 | — |
+| EN1M OA 09 | 3 | Model a useful strategy: Strategies for clear, fluent and re | 33 % | 14 % | 14.5 | — |
+| IN1M OA 05 | 3 | Use a strategy or language function: Coherent multimodal ora | 33 % | 43 % | 14.3 | — |
+| EN1M OA 04 | 2 | Locate precise evidence: Integrated literary and non-literar | 33 % | 33 % | 13.0 | — |
+| CN1M OA 09 | 5 | Explicar patrones y mecanismos: Ondas: energía, propiedades  | 33 % | 43 % | 17.1 | — |
+| CN1M OA 20 | 1 | Formular una pregunta investigable: Estequiometría y relacio | 33 % | 14 % | 19.1 | — |
+| EF1M OA 04 | 1 | Explorar con seguridad y diagnóstico: Actividad física regul | 33 % | 44 % | 16.6 | — |
+| EN1M OA 07 | 3 | Model a useful strategy: Critical and personal response acro | 33 % | 33 % | 18.3 | — |
+| LE1M OA 16 | 2 | Investigar y seleccionar insumos: Estilo directo e indirecto | 33 % | 67 % | 21.6 | — |
+| LE1M OA 19 | 6 | Responder y ajustar: Comprensión y evaluación de textos oral | 33 % | 43 % | 17.1 | — |
+| MA1M OA 03 | 1 | Reconocer variables y restricciones: Productos notables y co | 33 % | 29 % | 17.2 | — |
+| MA1M OA 05 | 3 | Construir el procedimiento: Relaciones lineales en dos varia | 33 % | 40 % | 16.9 | — |
+| MA1M OA 06 | 1 | Explorar una construcción: Sectores y segmentos circulares | 33 % | 40 % | 15.0 | — |
+| OR1M OA 07 | 5 | Practicar comunicación o búsqueda de ayuda: Participación so | 33 % | 12 % | 11.8 | — |
+| LE1M OA 05 | 3 | Analizar recursos y relaciones: Análisis de textos dramático | 34 % | 86 % | 20.7 | — |
+| EN1M OA 04 | 1 | Recognize purpose and context: Integrated literary and non-l | 34 % | 33 % | 24.3 | — |
+| CN1M OA 10 | 4 | Investigar relaciones entre variables: Sonido, modelo ondula | 34 % | 43 % | 21.6 | — |
+| HI1M OA 24 | 4 | Contrastar actores, causas y perspectivas: Conflicto, conviv | 34 % | 89 % | 24.4 | — |
+| CN1M OA 01 | 2 | Examinar evidencia y representaciones: Formación, estratos y | 35 % | 43 % | 21.0 | — |
+| MU1M OA 02 | 2 | Relacionar lenguaje, contexto y propósito: Comparación music | 36 % | 50 % | 20.5 | — |
+| CN1M OA 13 | 3 | Construir o contrastar un modelo: Ondas sísmicas, medición y | 36 % | 29 % | 21.0 | — |
+| EN1M OA 11 | 1 | Recognize purpose and context: Modeled multimodal writing fo | 36 % | 71 % | 21.4 | — |
+| HI1M OA 21 | 5 | Construir un argumento con evidencia: Ahorro, crédito, inver | 36 % | 62 % | 20.8 | — |
+| LE1M OA 05 | 1 | Entrar al texto con propósito: Análisis de textos dramáticos | 37 % | 71 % | 20.2 | — |
+| EN1M OA 02 | 2 | Locate precise evidence: Purpose, detail, language and sound | 37 % | 12 % | 20.8 | — |
+| LE1M OA 13 | 4 | Escribir un primer desarrollo: Escritura explicativa | 38 % | 100 % | 21.4 | — |
+| CN1M OA 14 | 4 | Investigar relaciones entre variables: Sistema Tierra-Luna-S | 38 % | 43 % | 21.9 | — |
+| LE1M OA 18 | 3 | Planificar decisiones: Ortografía y puntuación para facilita | 38 % | 33 % | 24.3 | — |
+| CN1M OA 15 | 2 | Examinar evidencia y representaciones: Escalas y propiedades | 38 % | 0 % | 21.6 | — |
+| LE1M OA 08 | 5 | Situar texto y contexto: Interpretación literaria situada | 38 % | 60 % | 24.0 | respuesta «depende» en ejercicio cerrado |
+| OR1M OA 03 | 4 | Elegir una acción segura: Evaluación de riesgos, protección  | 39 % | 75 % | 22.4 | — |
+| MU1M OA 01 | 3 | Ensayar una decisión musical: Apreciación de músicas de trad | 39 % | 71 % | 20.3 | — |
+| MU1M OA 04 | 2 | Relacionar lenguaje, contexto y propósito: Interpretación a  | 39 % | 50 % | 22.6 | — |
+| LE1M OA 05 | 4 | Contrastar interpretaciones: Análisis de textos dramáticos y | 39 % | 100 % | 22.4 | — |
+| CN1M OA 11 | 1 | Formular una pregunta investigable: Luz, modelos, imágenes y | 39 % | 83 % | 20.5 | — |
+| MU1M OA 03 | 1 | Escuchar y reconocer rasgos: Interpretación vocal e instrume | 40 % | 62 % | 20.3 | — |
+| CN1M OA 16 | 1 | Formular una pregunta investigable: Astronomía en Chile, ins | 41 % | 62 % | 20.9 | — |
+| AR1M OA 02 | 2 | Explorar materiales y referentes: Grabado, pintura mural e i | 41 % | 75 % | 20.9 | — |
+| OR1M OA 06 | 4 | Elegir una acción segura: Resolución de conflictos en un mar | 41 % | 57 % | 20.5 | — |
+| CN1M OA 14 | 3 | Construir o contrastar un modelo: Sistema Tierra-Luna-Sol, e | 41 % | 29 % | 23.2 | — |
+| IN1M OA 14 | 4 | Communicate through an information gap: Writing process acro | 41 % | 25 % | 20.4 | — |
+| LE1M OA 05 | 7 | Revisar y transferir: Análisis de textos dramáticos y puesta | 42 % | 100 % | 25.9 | — |
+| LE1M OA 03 | 6 | Formular una lectura propia: Análisis de narraciones | 42 % | 60 % | 20.8 | respuesta «depende» en ejercicio cerrado |
+| CN1M OA 18 | 3 | Construir o contrastar un modelo: Conservación de átomos y m | 43 % | 33 % | 20.6 | — |
+| OR1M OA 02 | 6 | Transferir sin exposición personal: Sexualidad, vínculos afe | 44 % | 50 % | 22.4 | — |
+| MA1M OA 09 | 4 | Resolver un caso nuevo: Teorema de Tales desde la homotecia | 44 % | 60 % | 21.4 | — |
+| LE1M OA 17 | 3 | Planificar decisiones: Correferencia con metáfora y metonimi | 45 % | 60 % | 25.0 | — |
+| LE1M OA 18 | 5 | Revisar con evidencia de lectura: Ortografía y puntuación pa | 45 % | 43 % | 28.0 | — |
+| LE1M OA 07 | 1 | Entrar al texto con propósito: Romanticismo y visión de mund | 46 % | 67 % | 22.1 | — |
+| MA1M OA 12 | 2 | Representar patrones: Distribuciones bivariadas y nubes de p | 46 % | 33 % | 20.1 | — |
+| OR1M OA 10 | 4 | Elegir una acción segura: Diseño flexible y responsable de p | 46 % | 86 % | 23.9 | — |
+| HI1M OA 24 | 3 | Relacionar cambio, continuidad y territorio: Conflicto, conv | 46 % | 89 % | 21.3 | — |
+| LE1M OA 04 | 5 | Situar texto y contexto: Análisis de poemas | 47 % | 80 % | 23.3 | — |
+| TE1M OA 06 | 2 | Investigar soluciones y restricciones: Efectos sociales de l | 47 % | 43 % | 22.1 | — |
+| OR1M OA 03 | 2 | Distinguir hechos, derechos y límites: Evaluación de riesgos | 47 % | 78 % | 21.0 | — |
+| LE1M OA 10 | 3 | Analizar recursos y relaciones: Lectura crítica de medios | 47 % | 50 % | 13.7 | respuesta «depende» en ejercicio cerrado |
+| LE1M OA 03 | 7 | Revisar y transferir: Análisis de narraciones | 47 % | 100 % | 21.6 | — |
+| HI1M OA 25 | 3 | Relacionar cambio, continuidad y territorio: Industrializaci | 47 % | 75 % | 23.6 | — |
+| OR1M OA 09 | 2 | Distinguir hechos, derechos y límites: Opciones académicas y | 47 % | 62 % | 19.1 | respuesta «depende» en ejercicio cerrado |
+| LE1M OA 08 | 3 | Analizar recursos y relaciones: Interpretación literaria sit | 48 % | 67 % | 33.6 | — |
+| LE1M OA 05 | 5 | Situar texto y contexto: Análisis de textos dramáticos y pue | 49 % | 71 % | 21.0 | — |
+| CN1M OA 14 | 1 | Formular una pregunta investigable: Sistema Tierra-Luna-Sol, | 50 % | 57 % | 22.3 | — |
+| HI1M OA 10 | 2 | Contextualizar y seleccionar fuentes: Chile, mercados atlánt | 50 % | 62 % | 22.6 | — |
+| HI1M OA 13 | 6 | Evaluar proyecciones y límites: Ocupación austral, inmigraci | 50 % | 88 % | 20.4 | — |
+| LE1M OA 06 | 3 | Analizar recursos y relaciones: Tragedia, conflicto humano y | 50 % | 57 % | 24.5 | — |
+| LE1M OA 24 | 3 | Evaluar fuentes: Investigación sobre lenguaje y literatura | 50 % | 100 % | 13.8 | respuesta «depende» en ejercicio cerrado |
+| HI1M OA 19 | 1 | Situar tiempo, espacio y problema: Escasez, necesidades y ci | 52 % | 62 % | 20.9 | — |
+| OR1M OA 04 | 1 | Examinar un caso ficticio protegido: Acciones autónomas para | 52 % | 67 % | 22.4 | — |
+| OR1M OA 08 | 4 | Elegir una acción segura: Iniciativas de justicia, buen trat | 52 % | 71 % | 24.1 | — |
+| MU1M OA 06 | 2 | Relacionar lenguaje, contexto y propósito: Fortalezas, creci | 52 % | 67 % | 20.3 | — |
+| OR1M OA 09 | 4 | Elegir una acción segura: Opciones académicas y laborales pa | 53 % | 71 % | 21.4 | — |
+| CN1M OA 18 | 1 | Formular una pregunta investigable: Conservación de átomos y | 53 % | 83 % | 20.3 | — |
+| CN1M OA 15 | 5 | Explicar patrones y mecanismos: Escalas y propiedades de est | 54 % | 71 % | 21.2 | — |
+| LE1M OA 14 | 1 | Reconocer género, propósito y audiencia: Escritura persuasiv | 55 % | 100 % | 21.6 | — |
+| MA1M OA 09 | 2 | Medir y formular una conjetura: Teorema de Tales desde la ho | 55 % | 100 % | 20.4 | — |
+| HI1M OA 18 | 1 | Situar tiempo, espacio y problema: Cuestión social, actores  | 55 % | 62 % | 22.4 | — |
+| TE1M OA 04 | 2 | Investigar soluciones y restricciones: Comunicación del dise | 55 % | 50 % | 26.4 | — |
+| CN1M OA 20 | 4 | Investigar relaciones entre variables: Estequiometría y rela | 59 % | 50 % | 20.5 | — |
+| HI1M OA 10 | 4 | Contrastar actores, causas y perspectivas: Chile, mercados a | 59 % | 78 % | 20.3 | respuesta «depende» en ejercicio cerrado |
+| HI1M OA 22 | 1 | Situar tiempo, espacio y problema: Consumo informado, derech | 60 % | 50 % | 22.4 | — |
+| LE1M OA 04 | 7 | Revisar y transferir: Análisis de poemas | 60 % | 100 % | 23.7 | — |
+| HI1M OA 21 | 1 | Situar tiempo, espacio y problema: Ahorro, crédito, inversió | 61 % | 56 % | 22.7 | — |
+| OR1M OA 03 | 6 | Transferir sin exposición personal: Evaluación de riesgos, p | 61 % | 75 % | 21.1 | — |
+| LE1M OA 23 | 3 | Modelar una decisión comunicativa: Efectos de recursos lingü | 62 % | 57 % | 17.3 | respuesta «depende» en ejercicio cerrado |
+| LE1M OA 06 | 1 | Entrar al texto con propósito: Tragedia, conflicto humano y  | 62 % | 71 % | 34.1 | — |
+| LE1M OA 08 | 6 | Formular una lectura propia: Interpretación literaria situad | 63 % | 67 % | 27.7 | — |
+| HI1M OA 25 | 1 | Situar tiempo, espacio y problema: Industrialización, ambien | 65 % | 88 % | 23.1 | — |
+| HI1M OA 11 | 5 | Construir un argumento con evidencia: Opinión pública, educa | 65 % | 100 % | 21.1 | — |
+| CN1M OA 19 | 4 | Investigar relaciones entre variables: Compuestos binarios y | 67 % | 75 % | 20.2 | — |
+| LE1M OA 17 | 4 | Escribir un primer desarrollo: Correferencia con metáfora y  | 67 % | 67 % | 22.4 | — |
+| HI1M OA 16 | 6 | Evaluar proyecciones y límites: Orden liberal y parlamentari | 69 % | 86 % | 20.7 | — |
+| HI1M OA 11 | 1 | Situar tiempo, espacio y problema: Opinión pública, educació | 71 % | 67 % | 21.8 | — |
+| HI1M OA 23 | 1 | Situar tiempo, espacio y problema: Respuestas políticas ante | 71 % | 100 % | 29.0 | — |
+| HI1M OA 24 | 1 | Situar tiempo, espacio y problema: Conflicto, convivencia y  | 72 % | 78 % | 24.1 | — |
+| MU1M OA 07 | 5 | Registrar y contrastar versiones: Música, identidad, cultura | 73 % | 100 % | 22.0 | — |
+| LE1M OA 23 | 4 | Ensayar con retroalimentación: Efectos de recursos lingüísti | 75 % | 83 % | 18.7 | respuesta «depende» en ejercicio cerrado |
+| HI1M OA 12 | 1 | Situar tiempo, espacio y problema: Exploración estatal, cien | 76 % | 56 % | 21.9 | — |
+| HI1M OA 19 | 2 | Contextualizar y seleccionar fuentes: Escasez, necesidades y | 76 % | 71 % | 22.2 | — |
+| HI1M OA 10 | 5 | Construir un argumento con evidencia: Chile, mercados atlánt | 77 % | 100 % | 20.6 | — |
+| HI1M OA 23 | 2 | Contextualizar y seleccionar fuentes: Respuestas políticas a | 77 % | 71 % | 21.4 | — |
+| HI1M OA 10 | 1 | Situar tiempo, espacio y problema: Chile, mercados atlántico | 78 % | 56 % | 20.9 | — |
+| HI1M OA 23 | 5 | Construir un argumento con evidencia: Respuestas políticas a | 82 % | 100 % | 22.9 | — |
+| HI1M OA 23 | 4 | Contrastar actores, causas y perspectivas: Respuestas políti | 83 % | 100 % | 25.0 | respuesta «depende» en ejercicio cerrado |
+| LE1M OA 23 | 1 | Escuchar o preparar con propósito: Efectos de recursos lingü | 85 % | 86 % | 23.0 | — |

@@ -328,11 +328,43 @@ MANUAL_8 = [
     "",
 ]
 
+MANUAL_M1 = [
+    "### Segunda lectura crítica de las 753 clases",
+    "",
+    "Cada una de las 753 clases de 1.º medio fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios, y dos lectores (Inglés propuesta OA 01 a 10 e Inglés oficial OA 01 a 10) leyeron y comprobaron datos sin resolver cada ejercicio a ciegas. Las fichas de actitud y la asignatura de Lengua Indígena son integración transversal y no llevan cuaderno propio.",
+    "",
+    "| Asignatura | Clases | Defectos corregidos (resumen de los informes) |",
+    "|---|---:|---|",
+    "| Matemática | 66 | Unos 60 ejercicios que repetían un ejemplo de la explicación o un ejemplo resuelto; error de estudiante mal descrito («2^-3 < 2^-5 porque −3 < −5» es falso); «semejantes» y «eje x» usados antes de enseñarse; pregunta de homotecia que no consideraba las rectas por el centro; «1.º A» con 30 estudiantes contra un ejemplo de 20; «menos de 0 errores»; juego con dinero cambiado por puntos; fila 4 del triángulo de Pascal ambigua. |",
+    "| Lengua y Literatura | 143 | Diptongo «cui-da-do» en la fila equivocada; «ardilla» como diminutivo en -illa; «Completa con b o v» con respuesta g; saludo «Querida Ana,» aceptable pero usado como distractor; «sábado 10 + dos días» llegaba al lunes; mayúscula tras el saludo de una carta formal; unas 35 sumas triviales reemplazadas por ejercicios de contenido; unas 25 consignas abiertas pasadas a opción múltiple; citas de un poema no entregado; «el río se repite» que era falso; «cardal» y otros datos inseguros; termómetro doméstico con mercurio. |",
+    "| Ciencias Naturales | 100 | Ejemplo de coincidencias de rasgos mal contado (0 y 0 donde eran 1 y 1); ala de ave y de murciélago presentadas como homólogas; géneros reales con conteos de especies inventados; tabla de temperatura y volumen que contradecía a otra; explicación de las estaciones con el invierno austral invertido; tabla de hipocentros que no calzaba con el ejercicio; Pitágoras y «infiltración», «kWh» usados sin enseñar; vela encendida en un frasco cerrado, espejo de vidrio y elástico estirado reemplazados por opciones seguras; pregunta sensible de evolución frente a creación reformulada. |",
+    "| Historia, Geografía y Ciencias Sociales | 132 | Unas 150 consignas y contextos que citaban fuentes, cuadros o dossiers «de este cuaderno» sin traerlos; las mujeres «votaron» en 1934 y 1949 (obtuvieron el derecho); tabla con 800 inscritos de los que 500 sabían leer contra una regla que exige saber leer; ferrocarril a Temuco, primer censo de 1854 y «libre tránsito» imprecisos; África con 10 % de control europeo fechada en 1880 (1870); edad del voto de 1874 sin sustento; Brasil omitido en la abolición; «cambio climático» definido como variación natural; «militante comunista» anacrónico en 1905; ejercicio que pedía a un estudiante representar a un pueblo. |",
+    "| Inglés (propuesta EN1M) | 65 | Ejercicios que repetían un ejemplo resuelto; «And ___» que aceptaba last y finally; «Although it is cheap, the bag is not strong» sin contraste real; ejemplos de respuesta que no calzaban con los datos; esquema «de la clase anterior» sin traerlo; shall presentado como futuro seguro; supuestos sobre la familia; texto de «School uniforms» con el mismo tema que el Inglés oficial; una opción A/B con doble coma. |",
+    "| Inglés (oficial IN1M) | 80 | Opción «5–14 January» contra clave «5–16»; /tr/ y /dr/ explicados como si el español no los tuviera; -tion enseñado como /ʧ/ (es /ʃən/); orden de adjetivos usado sin enseñarse; razón errónea sobre «honest» y la h; inglés británico y americano mezclados en un pasaje (unificado en americano); contextos de museo, mercado y bicicletas idénticos a los de Inglés propuesta, cambiados. |",
+    "| Educación Física y Salud | 28 | Pasar de «defensa a atacar» desde 2-2-1 llevaba a 1-2-2, no a 2-1-2; plan de baile que subía a 35 minutos con un máximo de 30; caminar de espaldas y círculos de cuello eliminados; pulso en la muñeca sin presionar el cuello; «me molestó la espalda» como razón para seguir con la plancha; alternativas de alimentación que sugerían restringirse; unas 20 alternativas absurdas. |",
+    "| Orientación | 52 | Unas 130 preguntas de recuperación de tipo «¿X es Y, sí o no?» que regalaban la definición; afirmación de que todo contacto íntimo de un adulto con un menor es delito (no lo es a los 14 a 17 años); protocolo en línea con el orden «bloquear y luego guardar captura» (ahora guardar captura, bloquear, avisar); kiosco del colegio con sellos «ALTO EN»; ejemplo que suponía que Ema ya había pedido orientación; soldadura reemplazada por circuitos con pila y LED; Fono Niños 147 descrito como «atendido por profesionales» sin sustento. |",
+    "| Música | 32 | Ejemplo y ejercicio que cambiaban tempo y volumen a la vez cuando la clase enseña a cambiar un solo rasgo; «la 1» como única respuesta cuando cumplían la 1 y la 4; patrón de golpes repetido del ejemplo resuelto; «compás fuerte» sin definir; «desafinar» usado para la pentatónica; empate de minutos entre dos estudiantes; «funeral» y «persona de la familia» cambiados. |",
+    "| Artes Visuales | 29 | Doce puntos máximos donde dos criterios dan 6 (ahora 9 en tres criterios); cifras de rampa, muro y litros de pintura repetidas del ejemplo; «tallar» la matriz y libro cosido con aguja cambiados por cartón pegado y cordel; ficha de grabado sin tamaño; «saturado» sin definir. |",
+    "| Tecnología | 26 | Ejemplos de respuesta que no calzaban con la consigna (6 criterios pedidos y 3 dados); promedio de 3,875 fuera de cifras enteras; ejercicio trivial «1 o 5»; afirmación categórica sobre derechos de autor suavizada; protocolo de seguridad digital completado con «no se borra el chat ni se reenvía una imagen íntima». |",
+    "",
+    "#### Desajuste entre el texto del OA y los títulos de las clases",
+    "",
+    "Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA de cada asignatura (por ejemplo «Recognize purpose and context», «Definir necesidad, usuario y criterio»), y los autores repartieron el contenido del OA entre ellas. Los lectores comprobaron que lo enseñado calza con el OA. Casos señalados: Tecnología OA 01 avanza hacia priorizar e idear aunque el OA pide identificar oportunidades; los tres entornos de Tecnología OA 05 (natural, construido y digital) y las cuatro «dimensiones de la experiencia humana» de Lengua y Literatura OA 02 son interpretación de los autores, no texto del OA; la clase 6 de Educación Física OA 03 se dedicó a ingesta y gasto calórico.",
+    "",
+    "#### Vacíos de cobertura frente al OA",
+    "",
+    "- **Cerrados dentro de las clases existentes:** Inglés oficial (excepción «question» /tʃ/ en OA 02); Inglés propuesta (caracterización del personaje en OA 04); Inglés oficial OA 14 (cuento y resumen).",
+    "- **Abiertos:** software educativo y geometría dinámica (Matemática OA 04, 05, 08, 09, 11, 14 y 15); audio, video, canciones, noticieros y pronunciación real (Inglés, Lengua y Literatura OA 19 y 21, Música); obras completas del programa y plan lector (Lengua y Literatura OA 01, 02, 06 y 07; el Lazarillo de Tormes en OA 03); cuentos, artículos y diario personal (Inglés propuesta OA 11); narraciones y exposiciones orales como formatos (Inglés propuesta OA 01); mitos, leyendas y novelas adaptadas (Inglés propuesta OA 04); técnica real por deporte, RCP y maniobras de atragantamiento (Educación Física OA 01 y 04); segmento circular de 120° (Matemática OA 06, exige trigonometría de 2.º medio); lupa e instrumentos ópticos (Matemática OA 08); aportes de científicos en Ciencias OA 02; salitre y guano como exportaciones (Historia OA 10); flujos del Estado con subsidios y gasto público (Historia OA 19); casos de quechua, colla, diaguita, atacameño, kawéskar y yagán (Historia OA 24); procesador de textos y diccionario en línea (Lengua y Literatura OA 15, Inglés); institutos locales de protección y sexualidad integral más allá de lo general (Orientación OA 02 y 03).",
+    "- **Decisiones que dependen del programa oficial:** notación en unidades de duración (corchea = 1) y términos «compás fuerte» y «densidad» de Música; formato de cita acordado `(Apellido, año, v. N)` de Lengua y Literatura; ortografía de «kawéskar» y «yagán»; fórmulas de pendiente de rampa 1 en 12 y alturas de montaje de 150 cm de Artes Visuales como referencia; rango 60 a 80 % de la frecuencia cardíaca máxima estimada de Educación Física.",
+    "",
+]
 
-LEVELS = (("1-basico", 1, MANUAL_1), ("2-basico", 2, MANUAL_2), ("3-basico", 3, MANUAL_3), ("4-basico", 4, MANUAL_4), ("5-basico", 5, MANUAL_5), ("6-basico", 6, MANUAL_6), ("7-basico", 7, MANUAL_7), ("8-basico", 8, MANUAL_8))
+
+LEVELS = (("1-basico", 1, MANUAL_1), ("2-basico", 2, MANUAL_2), ("3-basico", 3, MANUAL_3), ("4-basico", 4, MANUAL_4), ("5-basico", 5, MANUAL_5), ("6-basico", 6, MANUAL_6), ("7-basico", 7, MANUAL_7), ("8-basico", 8, MANUAL_8), ("1-medio", 9, MANUAL_M1))
 
 
 def section(level_prefix: str, grade: int, manual: list[str]) -> list[str]:
+    label = f"{grade}.º básico" if grade <= 8 else f"{grade - 8}.º medio"
     rows = analyse(level_prefix)
     limit = MAX_SENTENCE_WORDS.get(grade, 20)
     flagged = [r for r in rows if (r["coverage"] < LOW_OA and r["title_cov"] < MIN_COVERAGE) or r["sentence"] > limit or r["smells"]]
@@ -340,7 +372,7 @@ def section(level_prefix: str, grade: int, manual: list[str]) -> list[str]:
     for row in rows:
         by_subject.setdefault(row["subject"], []).append(row)
     out = [
-        f"## {grade}.º básico",
+        f"## {label}",
         "",
         f"Criterio de marca: cobertura del OA menor que {int(LOW_OA * 100)} % **y** del título menor que {int(MIN_COVERAGE * 100)} %, o explicación con oraciones de más de {limit} palabras en promedio, o respuestas «depende» en ejercicios cerrados.",
         "",
@@ -353,10 +385,10 @@ def section(level_prefix: str, grade: int, manual: list[str]) -> list[str]:
         mean = 100 * sum(r["coverage"] for r in items) / len(items)
         marked = sum(1 for r in items if r in flagged)
         out.append(f"| {subject} | {len(items)} | {f'{mean:.0f}'} % | {marked} |")
-    out += ["", f"**Clases marcadas para lectura prioritaria ({grade}.º básico):** {len(flagged)} de {len(rows)}.", ""]
+    out += ["", f"**Clases marcadas para lectura prioritaria ({label}):** {len(flagged)} de {len(rows)}.", ""]
     out += manual
     if flagged:
-        out += [f"### Clases marcadas de {grade}.º básico", "", "| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |", "|---|---:|---|---:|---:|---:|---|"]
+        out += [f"### Clases marcadas de {label}", "", "| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |", "|---|---:|---|---:|---:|---:|---|"]
         for row in sorted(flagged, key=lambda r: (r["coverage"], r["code"])):
             out.append(f"| {row['code']} | {row['number']} | {row['title'][:60]} | {100 * row['coverage']:.0f} % | {100 * row['title_cov']:.0f} % | {row['sentence']:.1f} | {'; '.join(row['smells']) or '—'} |")
         out.append("")

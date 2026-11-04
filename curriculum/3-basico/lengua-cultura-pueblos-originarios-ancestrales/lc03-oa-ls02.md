@@ -164,7 +164,7 @@ Respuesta: No
 *Razonamiento y análisis*
 
 - **Z1.** Sofía dice: «Es segura porque es divertida». ¿Alcanza con ser divertida? Sí o No.
-- **Z2.** Un compañero no quiere actuar. ¿Qué haces: A) le ofrezco otra forma de participar, como escribir su idea B) lo obligo..
+- **Z2.** Un compañero no quiere actuar. ¿Qué haces: A) le ofrezco otra forma de participar, como escribir su idea. B) lo obligo.
 
 *Desafío*
 
@@ -796,7 +796,7 @@ Respuesta: ¿Qué significa?
 *Desafío*
 
 - **D1.** Ordena los turnos: A) Tomás: «Chaltumay por contarme». B) Pía: «Mari mari». C) Tomás: «¿Qué significa?». D) Pía: «Según la ficha, es agua». Escribe las letras.
-- **D2.** Elige el cierre más respetuoso de un diálogo. A) «Lo dijiste mal, otra vez» B) «Chaltumay por contarme»..
+- **D2.** Elige el cierre más respetuoso de un diálogo. A) «Lo dijiste mal, otra vez». B) «Chaltumay por contarme».
 
 *Situaciones auténticas*
 
@@ -995,7 +995,7 @@ Respuesta: la de usar cada palabra donde corresponde
 
 - **A1.** En tu diálogo cumpliste todas las preguntas de la lista menos «¿Usé cada palabra donde corresponde?». ¿Qué debes mejorar?
 - **A2.** Diálogo: A dice «Chaltumay» al llegar. B responde «Mari mari» al recibir un regalo. ¿Cuántos usos están fuera de contexto según la ficha?
-- **A3.** Elige la mejor revisión: A) «Me turné, pero usé «mari mari» fuera de contexto; lo corrijo» B) «Mi diálogo estuvo perfecto, no reviso nada»..
+- **A3.** Elige la mejor revisión: A) «Me turné, pero usé «mari mari» fuera de contexto; lo corrijo». B) «Mi diálogo estuvo perfecto, no reviso nada».
 
 *Razonamiento y análisis*
 

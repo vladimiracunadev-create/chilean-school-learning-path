@@ -373,7 +373,7 @@ Respuesta: kuyen (luna), fuente: educadora de la Escuela Ejemplo
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Rotulé la luna como «antü» porque suena más bonito». ¿Su rótulo es correcto? Sí o No.
-- **Z2.** Un rótulo dice «ko» sin significado ni fuente. Opciones: A) le faltan el significado y la fuente. ¿Cuál es cierta B) está completo porque tiene la palabra.?
+- **Z2.** Un rótulo dice «ko» sin significado ni fuente. Opciones: A) le faltan el significado y la fuente. ¿Cuál es cierta? B) está completo porque tiene la palabra.
 
 *Desafío*
 
@@ -780,7 +780,7 @@ Respuesta: marca la duda y se la pregunta a la educadora tradicional
 
 - **C1.** Modelo: «kuyen». Escrito: «kuyen». ¿Coinciden? Sí o No.
 - **C2.** Verdadero o falso: puedo agregar una tilde que el modelo no trae si me parece que se ve mejor.
-- **C3.** Una fuente válida es A) lo que me enseñó el educador tradicional. ¿Cuál es B) un texto sin autor que vi suelto.?
+- **C3.** Una fuente válida es A) lo que me enseñó el educador tradicional. ¿Cuál es? B) un texto sin autor que vi suelto.
 
 *Aplicación*
 

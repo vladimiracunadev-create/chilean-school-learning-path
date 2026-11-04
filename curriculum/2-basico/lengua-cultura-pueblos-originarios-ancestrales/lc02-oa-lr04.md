@@ -577,7 +577,7 @@ Respuesta: mayúscula al inicio y punto al final
 
 - **A1.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Completa la frase: «De noche veo la «____» en el cielo». Elige la palabra de la ficha que significa luna.
 - **A2.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Ordena las palabras para formar una frase: «brilla» / «El» / «antü». Escribe la frase con «antü» entre comillas.
-- **A3.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Elige la frase correcta: A) «Plantamos un árbol en el «ko»» B) «Plantamos un árbol en la «mapu»»..
+- **A3.** Ficha de palabras en mapuzugun: «ko» es agua, «antü» es sol, «kuyen» es luna, «ruka» es casa, «mapu» es tierra, «ñuke» es madre. Elige la frase correcta: A) «Plantamos un árbol en el «ko»». B) «Plantamos un árbol en la «mapu»».
 
 *Razonamiento y análisis*
 

@@ -368,12 +368,12 @@ Respuesta: mapu (tierra), fuente: educadora de la Escuela Ejemplo
 
 - **A1.** Banco de palabras autorizado (inventado para practicar): la educadora tradicional de la Escuela Ejemplo autoriza «ko» (agua), «antü» (sol), «kuyen» (luna), «ruka» (casa mapuche) y «mapu» (tierra), todas en mapuzugun. Contexto de uso: rótulos y frases cortas de la sala. Tres dibujos: 1) el agua de un vaso, 2) el sol, 3) la luna. Escribe los rótulos en orden, solo con las palabras.
 - **A2.** Un niño rotuló el dibujo del sol como «kuyen (sol)». ¿Qué está mal: la palabra o el significado entre paréntesis?
-- **A3.** Dibujo: un cerro. El banco no tiene palabra para cerro. ¿Qué haces: A) inventas una palabra B) escribes «cerro» en castellano y preguntas a la educadora.?
+- **A3.** Dibujo: un cerro. El banco no tiene palabra para cerro. ¿Qué haces: A) inventas una palabra? B) escribes «cerro» en castellano y preguntas a la educadora.
 
 *Razonamiento y análisis*
 
 - **Z1.** Una niña dice: «Escribí «mapu (agua)» porque me gustó». ¿Su rótulo es correcto? Sí o No.
-- **Z2.** Un rótulo dice «ruka» sin significado ni fuente. Opciones: A) le faltan significado y fuente. ¿Cuál es cierta B) está completo porque trae la palabra.?
+- **Z2.** Un rótulo dice «ruka» sin significado ni fuente. Opciones: A) le faltan significado y fuente. ¿Cuál es cierta? B) está completo porque trae la palabra.
 
 *Desafío*
 

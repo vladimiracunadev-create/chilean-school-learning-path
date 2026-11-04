@@ -377,7 +377,7 @@ Respuesta: es la versión que ella escuchó y otras familias lo cuentan distinto
 
 *Desafío*
 
-- **D1.** Relato de práctica D (inventado; no es de ningún pueblo): Dicen las personas mayores de un valle inventado que el primer sol salió de una laguna. Cuando salió, el valle se llenó de luz y los animales despertaron. Desde entonces, cuentan, la gente saluda al día con respeto. Una abuela inventada aclara: «Así me lo contaron a mí; otras familias lo cuentan de otra manera». Elige el mejor resumen: A) «El relato prueba que el sol es sagrado». Escribe la letra B) «Según el relato D, el primer sol salió de una laguna, el valle se llenó de luz y desde entonces la gente saluda al día; la abuela aclara que otras familias lo cuentan distinto»..
+- **D1.** Relato de práctica D (inventado; no es de ningún pueblo): Dicen las personas mayores de un valle inventado que el primer sol salió de una laguna. Cuando salió, el valle se llenó de luz y los animales despertaron. Desde entonces, cuentan, la gente saluda al día con respeto. Una abuela inventada aclara: «Así me lo contaron a mí; otras familias lo cuentan de otra manera». Elige el mejor resumen: A) «El relato prueba que el sol es sagrado». Escribe la letra. B) «Según el relato D, el primer sol salió de una laguna, el valle se llenó de luz y desde entonces la gente saluda al día; la abuela aclara que otras familias lo cuentan distinto».
 - **D2.** Un compañero cuenta el relato D cambiando «laguna» por «mar». ¿Qué es lo correcto: A) aceptar el cambio porque da igual o B) corregirle con respeto según el texto?
 
 *Situaciones auténticas*

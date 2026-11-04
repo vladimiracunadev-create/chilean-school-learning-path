@@ -577,7 +577,7 @@ Respuesta: el espacio pierde a una persona que practicaba
 
 - **A1.** Ficha de actitudes (de práctica): Actitudes que valoran la lengua: escuchar con atención, pedir permiso para anotar o grabar, agradecer a quien enseña, usar solo las palabras que la fuente enseñó, respetar el ritmo de quien está aprendiendo. Actitudes que no la valoran: burlarse de cómo alguien habla, exigir que alguien hable o hablarlo en su lugar, usar palabras sin permiso, decir que alguien no pertenece por hablar poco. Clasifica con V (valora) o N (no valora): 1) respetar el ritmo de quien aprende. 2) exigir que alguien hable. 3) agradecer a quien enseña. Escribe las tres letras.
 - **A2.** La ficha nombra 5 actitudes que valoran y 4 que no valoran. ¿Cuántas actitudes nombra en total?
-- **A3.** Elige la acción que cuida la transmisión: A) un niño se burla de cómo dice el saludo. Escribe la letra B) una abuela inventada enseña un saludo y un niño lo practica con paciencia..
+- **A3.** Elige la acción que cuida la transmisión: A) un niño se burla de cómo dice el saludo. Escribe la letra. B) una abuela inventada enseña un saludo y un niño lo practica con paciencia.
 
 *Razonamiento y análisis*
 

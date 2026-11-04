@@ -377,7 +377,7 @@ Respuesta: «¿Cómo deciden los mayores el orden de la cosecha?»
 
 *Desafío*
 
-- **D1.** Tus notas dicen: claves (familias, canastos, orden), glosario (mari mari), reservado (reunión de cierre). ¿Qué pregunta es adecuada? A) ¿Cómo se turnan las familias para llevar canastos B) ¿Qué hacen en la reunión de cierre??
+- **D1.** Tus notas dicen: claves (familias, canastos, orden), glosario (mari mari), reservado (reunión de cierre). ¿Qué pregunta es adecuada? A) ¿Cómo se turnan las familias para llevar canastos? B) ¿Qué hacen en la reunión de cierre?
 - **D2.** Anotaste 4 palabras clave, 2 palabras de glosario y 1 reservado. ¿Cuántas anotaciones tienes en total?
 
 *Situaciones auténticas*
@@ -993,7 +993,7 @@ Respuesta: Ambas incluyen familias; en A, además, los mayores indican el orden.
 
 *Aplicación*
 
-- **A1.** Exposición C (Roca Blanca): «Los jóvenes cargan los sacos». Elige una pregunta para comprender. A) ¿Por qué no ayudan los mayores B) ¿Cómo se organizan los jóvenes para cargarlos??
+- **A1.** Exposición C (Roca Blanca): «Los jóvenes cargan los sacos». Elige una pregunta para comprender. A) ¿Por qué no ayudan los mayores? B) ¿Cómo se organizan los jóvenes para cargarlos?
 - **A2.** Clasifica en SEMEJANZA o DIFERENCIA: a) en ambas hay familias que participan b) en una los mayores indican el orden.
 - **A3.** Resume con «según»: Campo Abierto, los mayores indican; Pasto Alto, cada familia trae sus tijeras. Completa: «Según don Gaspar, cada familia…»
 
