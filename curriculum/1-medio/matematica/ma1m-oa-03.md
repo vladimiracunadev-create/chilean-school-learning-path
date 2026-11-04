@@ -145,11 +145,11 @@ Respuesta: x² − 3x − 4
 
 - **R1.** Desarrolla (x + 4)(x + 1).
 - **R2.** Desarrolla (x + 2)(x + 5).
-- **R3.** Desarrolla (x − 1)(x + 6).
+- **R3.** Desarrolla (x − 2)(x + 7).
 
 *Comprensión*
 
-- **C1.** ¿Cuántos términos tiene el binomio 5x − 7?
+- **C1.** Reduce términos semejantes: 3x² + 2x − x² + 5x.
 - **C2.** Un rectángulo tiene lados x + 3 y x + 2. ¿Cuál es el área del rectángulo pequeño de lados x y 2?
 - **C3.** Reduce términos semejantes: 4x + 3 + 2x − 5.
 
@@ -185,8 +185,8 @@ Respuesta: x² − 3x − 4
 
 - **R1.** x² + 5x + 4. x·x = x², los cruzados dan x y 4x, y 4·1 = 4.
 - **R2.** x² + 7x + 10. Los cruzados son 5x y 2x, que suman 7x; 2·5 = 10.
-- **R3.** x² + 5x − 6. Los cruzados son 6x y −x, que suman 5x; (−1)·6 = −6.
-- **C1.** 2. Un binomio tiene dos términos: 5x y −7.
+- **R3.** x² + 5x − 14. Los cruzados son 7x y −2x, que suman 5x; (−2)·7 = −14.
+- **C1.** 2x² + 7x. 3x² − x² = 2x² y 2x + 5x = 7x; x² y x no se juntan.
 - **C2.** 2x. El área es la multiplicación x·2.
 - **C3.** 6x − 2. 4x + 2x = 6x y 3 − 5 = −2.
 - **A1.** x² + 9x + 18. Se multiplican los binomios: los cruzados son 3x y 6x, y 6·3 = 18.
@@ -352,12 +352,12 @@ Respuesta: 4x² − 4x + 1
 *Recuperación*
 
 - **R1.** Desarrolla (x + 7)².
-- **R2.** Desarrolla (x − 4)².
+- **R2.** Desarrolla (x − 8)².
 - **R3.** Desarrolla (3x + 1)².
 
 *Comprensión*
 
-- **C1.** ¿Cuál es el término del medio en el desarrollo de (x + 6)²?
+- **C1.** ¿Cuál es el término del medio en el desarrollo de (x + 11)²?
 - **C2.** Desarrolla (2x − 3)².
 - **C3.** ¿Es cierto que (x + 3)² = x² + 9? Prueba con x = 1. A) No B) Sí
 
@@ -392,9 +392,9 @@ Respuesta: 4x² − 4x + 1
 **Solucionario razonado**
 
 - **R1.** x² + 14x + 49. a² = x², 2ab = 14x y b² = 49.
-- **R2.** x² − 8x + 16. a² = x², 2ab = −8x y b² = 16.
+- **R2.** x² − 16x + 64. a² = x², 2ab = −16x y b² = 64.
 - **R3.** 9x² + 6x + 1. a² = 9x², 2ab = 6x y b² = 1.
-- **C1.** 12x. Es el doble producto 2·x·6.
+- **C1.** 22x. Es el doble producto 2·x·11.
 - **C2.** 4x² − 12x + 9. a² = 4x², 2ab = −12x y b² = 9.
 - **C3.** A. (1 + 3)² = 16, pero 1 + 9 = 10.
 - **A1.** x² + 16x + 64. El área es el lado al cuadrado: x² + 2·8x + 64.
@@ -587,7 +587,7 @@ Respuesta: (x + 3)(x + 5)
 
 *Situaciones auténticas*
 
-- **S1.** De un cuadrado de ejemplo de lado x m se recorta un cuadrado de 5 m de lado en una esquina. El área que queda es x² − 25. Escribe esa área como un producto de dos binomios.
+- **S1.** De un cuadrado de ejemplo de lado x m se recorta un cuadrado de 3 m de lado en una esquina. El área que queda es x² − 9. Escribe esa área como un producto de dos binomios.
 
 *Autoevaluación*
 
@@ -612,7 +612,7 @@ Respuesta: (x + 3)(x + 5)
 - **Z2.** B. Desarrollado queda x² − 25.
 - **D1.** (2x + 7)(2x − 7). 4x² = (2x)² y 49 = 7².
 - **D2.** 99.999.999. 10.000² − 1² = 100.000.000 − 1.
-- **S1.** (x + 5)(x − 5). x² − 25 es una diferencia de cuadrados.
+- **S1.** (x + 3)(x − 3). x² − 9 es una diferencia de cuadrados: x² − 3².
 - **E1.** x² − 64. Es x² − 8².
 - **E2.** (x + 3)(x + 7). 3·7 = 21 y 3 + 7 = 10.
 - **E3.** (x − 2)(x − 4). (−2)(−4) = 8 y −2 + (−4) = −6.
@@ -786,7 +786,7 @@ Respuesta: Coinciden, ambos valen 15
 
 *Razonamiento y análisis*
 
-- **Z1.** Dani dice que (x − 3)² − (x + 3)² = 0. Desarrolla y escribe el resultado correcto.
+- **Z1.** Dani dice que (x − 5)² − (x + 5)² = 0. Desarrolla y escribe el resultado correcto.
 - **Z2.** Al reducir (x + 1)² − (x − 1)² salió 4x. Comprueba con x = 2. ¿Coinciden ambos valores?
 
 *Desafío*
@@ -817,7 +817,7 @@ Respuesta: Coinciden, ambos valen 15
 - **A1.** 4x + 1. 4x² + 4x + 1 − 4x² deja 4x + 1.
 - **A2.** 3x² + 12x. 3(x² + 4x + 4) − 12 = 3x² + 12x + 12 − 12.
 - **A3.** 4xy. Los términos x² y y² se anulan y quedan 2xy + 2xy.
-- **Z1.** −12x. (x² − 6x + 9) − (x² + 6x + 9) = −12x.
+- **Z1.** −20x. (x² − 10x + 25) − (x² + 10x + 25) = −20x.
 - **Z2.** Sí, ambos valen 8. (3)² − (1)² = 8 y 4·2 = 8.
 - **D1.** 4x − 13. x² − 9 − (x² − 4x + 4) = 4x − 13.
 - **D2.** 3. x² + 8x + 16 = x² + 40 → 8x = 24.

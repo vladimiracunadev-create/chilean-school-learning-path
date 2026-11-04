@@ -584,7 +584,7 @@ Respuesta: No, las ideas no se relacionan con un tema central
 *Desafío*
 
 - **D1.** Un ensayo tiene 6 párrafos y quieres un conector que una cada par consecutivo. ¿Cuántos conectores entre párrafos necesitas?
-- **D2.** Elige la oración más claramente organizada. A) «Los estudiantes que llegan tarde pierden la primera clase» B) «Que tarde llegan los estudiantes la pierden clase primera»
+- **D2.** Elige la oración más claramente organizada. A) «Los estudiantes que llegan tarde pierden la primera clase» B) «Pierden la primera clase que llegan tarde los estudiantes»
 
 *Situaciones auténticas*
 
@@ -612,7 +612,7 @@ Respuesta: No, las ideas no se relacionan con un tema central
 - **Z1.** A) no se muestran causas ni contrastes entre las ideas. Todos los enlaces son iguales y no señalan la relación.
 - **Z2.** No. Falta tema central.
 - **D1.** 5. Hay cinco uniones entre seis párrafos.
-- **D2.** A) «Los estudiantes que llegan tarde pierden la primera clase». Tiene orden sintáctico claro.
+- **D2.** A) «Los estudiantes que llegan tarde pierden la primera clase». Tiene orden claro: sujeto, verbo y complemento; en la B el orden confunde qué es lo que se pierde.
 - **S1.** B) sí. Todas desarrollan la utilidad de la biblioteca.
 - **E1.** Los conectores. Señalan relaciones entre secciones.
 - **E2.** La que tiene un orden claro. Se entiende sin esfuerzo.
@@ -688,7 +688,7 @@ Respuesta: No, las ideas no se relacionan con un tema central
 
 **Consigna exacta:** Reescribe este borrador de ejemplo cambiando las palabras comodín y las repeticiones: «Hicimos una cosa para la feria. Fue una cosa buena. Hicimos otra cosa que también fue buena». Entrega una versión de tres oraciones.
 
-**Referencia para modelar y corregir:** Organizamos un stand para la feria. Fue una iniciativa exitosa. Además, elaboramos un afiche que resultó atractivo.
+**Referencia para modelar y corregir:** Organizamos un puesto para la feria. Fue una iniciativa exitosa. Además, elaboramos un afiche que resultó atractivo.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -702,7 +702,7 @@ Respuesta: No, las ideas no se relacionan con un tema central
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Organizamos un stand para la feria. Fue una iniciativa exitosa. Además, elaboramos un afiche que resultó atractivo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Organizamos un puesto para la feria. Fue una iniciativa exitosa. Además, elaboramos un afiche que resultó atractivo. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -826,7 +826,7 @@ Respuesta: Compramos cartulinas, plumones y cinta para la feria
 - **E2.** Sí, si es intencional. Puede dar cohesión.
 - **E3.** Que calce con el contexto. Evita cambiar el sentido.
 
-**Actividad abierta · ejemplo de respuesta.** Organizamos un stand para la feria. Fue una iniciativa exitosa. Además, elaboramos un afiche que resultó atractivo.
+**Actividad abierta · ejemplo de respuesta.** Organizamos un puesto para la feria. Fue una iniciativa exitosa. Además, elaboramos un afiche que resultó atractivo.
 
 **Criterios para evaluarla:** reemplaza comodines; varía los verbos; mantiene el sentido.
 
@@ -1192,7 +1192,7 @@ Respuesta: Porque «haber» existe, pero debió ser «a ver»; el corrector no r
 
 - **C1.** Completa: «Dijo que ____ puedes venir». A) tú B) tu
 - **C2.** Completa: «Voy ____ no hay más remedio». A) porque B) por qué
-- **C3.** Elige la puntuación correcta. A) «Estimada directora: Solicito la sala.» B) «Estimada directora, solicito la sala.»
+- **C3.** Elige la puntuación correcta. A) «Estimada directora: Solicito la sala.» B) «Estimada directora. solicito la sala.»
 
 *Aplicación*
 
@@ -1229,7 +1229,7 @@ Respuesta: Porque «haber» existe, pero debió ser «a ver»; el corrector no r
 - **R3.** No. Solo detecta palabras inexistentes o mal escritas.
 - **C1.** A) tú. Es el pronombre sujeto.
 - **C2.** A) porque. Introduce una causa.
-- **C3.** A) «Estimada directora: Solicito la sala.». Tras el saludo formal se usan dos puntos y el texto parte con mayúscula.
+- **C3.** A) «Estimada directora: Solicito la sala.». Tras el saludo formal se usan dos puntos y el texto parte con mayúscula; un punto seguido de minúscula es incorrecto.
 - **A1.** D, X, X. Falta tilde en «tú» y el «sí» afirmativo.
 - **A2.** B) buscar y reemplazar. Cambia todas las apariciones de una vez; el corrector solo marca posibles errores.
 - **A3.** B) estilos de título. Marcan las secciones.

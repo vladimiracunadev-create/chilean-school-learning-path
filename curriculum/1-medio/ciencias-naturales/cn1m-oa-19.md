@@ -592,7 +592,7 @@ Respuesta: Sulfato de sodio
 
 *Situaciones auténticas*
 
-- **S1.** Chile exportó salitre, formado principalmente por NaNO3. ¿Cómo se llama ese compuesto?
+- **S1.** El salitre que Chile exportó es principalmente nitrato de sodio. Con Na+ y NO3−, ¿cuál es su fórmula?
 
 *Autoevaluación*
 
@@ -617,7 +617,7 @@ Respuesta: Sulfato de sodio
 - **Z2.** Na2CO3. Tiene un ion poliatómico con oxígeno.
 - **D1.** 9 átomos. Hay 1 Ca, 2 N y 6 O. Cálculo: 1 + 2 + 2 × 3 = 9.
 - **D2.** 3+, hidróxido de hierro (III). Tres iones OH− suman 3−, que el hierro compensa con 3+.
-- **S1.** Nitrato de sodio. NO3− es el ion nitrato.
+- **S1.** NaNO3. Na+ y NO3− tienen cargas 1+ y 1−, así que se combinan 1 a 1.
 - **E1.** Un grupo de átomos unidos que actúa como un ion. Tiene una carga total.
 - **E2.** H2SO4, ácido sulfúrico. Contiene hidrógeno, azufre y oxígeno.
 - **E3.** Para multiplicar un ion poliatómico completo. El subíndice afecta a todo el grupo.
@@ -786,7 +786,7 @@ Respuesta: El KCl
 
 *Aplicación*
 
-- **A1.** ¿Cuántos iones Cl− hay por cada Ca2+ en el CaCl2?
+- **A1.** ¿Cuántos iones hay en total en 2 unidades de Al2O3 (cada unidad tiene 2 iones Al3+ y 3 iones O2−)?
 - **A2.** Sustancia X, de ejemplo: funde a 1.100 °C y conduce disuelta. Sustancia Y: funde a 50 °C y no conduce. ¿Cuál tiene enlace iónico?
 - **A3.** ¿Cuál es la fórmula del sulfato de potasio, formado por K+ y SO4 2−?
 
@@ -820,7 +820,7 @@ Respuesta: El KCl
 - **C1.** A. La atracción entre iones es fuerte.
 - **C2.** 3. Un Mg2+ y dos Cl−.
 - **C3.** CO2. Une dos no metales que comparten electrones.
-- **A1.** 2. Dos iones Cl− compensan un Ca2+.
+- **A1.** 10 iones. Cada unidad tiene 5 iones y hay 2 unidades. Cálculo: 2 × (2 + 3) = 10.
 - **A2.** La X. Alto punto de fusión y conducción son típicos de los compuestos iónicos.
 - **A3.** K2SO4. Dos K+ compensan un SO4 2−.
 - **Z1.** A. Para ser iónico se necesita un metal.

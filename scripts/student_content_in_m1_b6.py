@@ -26,8 +26,8 @@ lesson(
     [
         ("Escribir números en palabras", "Escribe en inglés con palabras: 4,000 y 1,000,000.",
          ["4,000 tiene el dígito 4 y mil: four thousand.", "1,000,000 es un millón: one million.", "Thousand no lleva -s con un número exacto."], "four thousand y one million"),
-        ("Interested o interesting", "Completa: «The film is very ___. I am ___ in films.»",
-         ["La película es una cosa que llama la atención: interesting.", "Yo soy una persona que siente interés: interested.", "La oración queda: The film is very interesting. I am interested in films."], "interesting; interested"),
+        ("Interested o interesting", "Completa: «The movie is very ___. I am ___ in movies.»",
+         ["La película es una cosa que llama la atención: interesting.", "Yo soy una persona que siente interés: interested.", "La oración queda: The movie is very interesting. I am interested in movies."], "interesting; interested"),
     ],
     [
         ("Escribir «four thousands students».", "Con un número exacto, thousand no lleva -s.", "Escribe four thousand students."),
@@ -109,7 +109,7 @@ lesson(
         mc("¿Cuál palabra es el sinónimo más cercano de enormous? (enormous = enorme)", "huge", ["tiny", "quiet"], "Huge y enormous significan muy grande."),
     ],
     [
-        mc("Una estudiante escribe «According to me, the film is boring». ¿Qué corrección haces?", "In my opinion, the film is boring", ["According to the film, I am boring", "Nothing, it is correct"], "Para opiniones propias se usa in my opinion."),
+        mc("Una estudiante escribe «According to me, the movie is boring». ¿Qué corrección haces?", "In my opinion, the movie is boring", ["According to the film, I am boring", "Nothing, it is correct"], "Para opiniones propias se usa in my opinion."),
         mc("¿Cuál oración da el dato de otra fuente?", "According to the museum website, it opens at 9:00", ["In my opinion, the museum is great", "I think museums are quiet"], "Cita una fuente."),
     ],
     [
@@ -128,7 +128,7 @@ lesson(
          ["tres oraciones numeradas en la hoja"],
          ["escribir according to me", "poner madera antes de tamaño"],
          "Pide que cambie el objeto por otro y vuelva a ordenar los adjetivos."),
-    "Copia las cuatro categorías de adjetivos en orden y escribe un ejemplo de cada una.",
+    "Copia las cinco categorías de adjetivos en orden y escribe un ejemplo de cada una.",
     "Describe en inglés un objeto de tu casa con cuatro adjetivos en orden y una opinión con In my opinion.",
 )
 
@@ -161,7 +161,7 @@ lesson(
     [
         mc("¿Cuál oración ubica bien el adverbio?", "She is always late", ["She always is late", "Always she is late"], "Después de to be."),
         mc("Completa: «I studied French five years ___.»", "ago", ["since", "for"], "Ago se usa con el pasado simple."),
-        mc("Completa: «She is ___ shy, but not extremely shy.»", "quite", ["never", "twice"], "Quite expresa un grado medio."),
+        mc("Completa: «She is ___ shy, but not extremely shy.»", "quite", ["often", "once"], "Quite expresa un grado medio."),
     ],
     [
         mc("Completa: «When I was little, I ___ play with toy cars. Now I play video games.»", "used to", ["use to", "am used to"], "Describe un hábito pasado."),
@@ -225,7 +225,7 @@ lesson(
     [
         mc("Completa: «She ___ lived here for two years.»", "has", ["have", "is"], "She va con has."),
         mc("Completa: «I ___ saved money to buy a bike.»", "have", ["has", "had to"], "I va con have."),
-        mc("Completa: «They ___ not seen the film.»", "have", ["has", "are"], "They va con have."),
+        mc("Completa: «They ___ not seen the movie.»", "have", ["has", "are"], "They va con have."),
     ],
     [
         mc(f"Tarjetas: {CQ} {CR} {GC} ¿Qué oración escribes como respuesta a la pregunta (1)?", "Nico has played the guitar since March", ["Nico played the guitar since March", "Nico has played the guitar for March"], "March es un punto de inicio y la acción continúa."),
@@ -263,10 +263,10 @@ lesson(
     ["Sé usar conectores como and, but, because y so.", "Conozco el pasado simple y los participios."],
     [
         "Las cláusulas relativas (relative clauses) agregan información. Who se usa para personas y which para cosas. La información esencial identifica de quién o de qué hablas y no lleva comas: Simon is the boy who lives next door. La información adicional agrega un dato y va entre comas: The science book, which I borrowed from the library, is very interesting. Si quitas la información adicional, la oración sigue teniendo sentido.",
-        "Para unir ideas: although introduce un contraste (although it's cheap, I'm not sure); so that indica propósito (come early so that we can talk); both… and une dos elementos (both Luis and Tomás are my neighbors); and lastly o and finally cierra una lista de acciones. Elige el conector según la relación entre las ideas.",
+        "Para unir ideas: although introduce un contraste (although it's cheap, I'm not sure); so that indica propósito (come early so that we can talk); both… and une dos elementos (both Luis and Tomás are my neighbors); and lastly o and finally cierra una lista de acciones; as a result (como resultado) introduce una consecuencia de lo que se dijo antes: The road was closed. As a result, the bus used another route. Elige el conector según la relación entre las ideas.",
         "La voz pasiva (passive voice) se usa cuando no se conoce o no importa quién hace la acción. Se forma con be + participio pasado: The money was found on the floor; Rooms are cleaned daily; Plastic is produced from oil. En presente se usa am, is o are, y en pasado was o were. El foco está en lo que ocurre, no en quién lo hace.",
     ],
-    [("who / which", "quien / el cual (personas / cosas)"), ("relative clause", "cláusula relativa"), ("although", "aunque"), ("so that", "para que"), ("both… and…", "tanto… como…"), ("passive voice", "voz pasiva: be + participio"), ("agent", "quien hace la acción")],
+    [("who / which", "quien / el cual (personas / cosas)"), ("relative clause", "cláusula relativa"), ("although", "aunque"), ("so that", "para que"), ("both… and…", "tanto… como…"), ("and lastly / as a result", "por último / como resultado"), ("passive voice", "voz pasiva: be + participio"), ("agent", "quien hace la acción")],
     [
         ("Unir con who", "Une las dos oraciones con who: «I have a neighbor. He plays the drums.» (neighbor = vecino; drums = batería)",
          ["La segunda oración habla de una persona: he.", "Reemplazo he por who.", "Queda: I have a neighbor who plays the drums."], "I have a neighbor who plays the drums"),
@@ -290,7 +290,7 @@ lesson(
     [
         mc("Completa: «Come early ___ we can talk.»", "so that", ["although", "both"], "Indica el propósito."),
         mc("Completa: «___ Luis and Tomás are my neighbors.»", "Both", ["Although", "Which"], "Both une dos personas."),
-        mc("Completa: «Plastic ___ produced from oil.»", "is", ["are", "were"], "Plastic es singular y es un hecho general."),
+        mc("Completa la lista de acciones de Ana: «First, she made a list. Then she bought apples. And ___, she cooked dinner.»", "lastly", ["although", "both"], "And lastly cierra una lista de acciones: marca la última."),
     ],
     [
         mc("¿En qué oración se usan correctamente las comas?", "The science book, which I borrowed from the library, is very interesting", ["The science book which, I borrowed from the library is very interesting", "The science book which I borrowed from the library, is very interesting"], "El dato adicional va entre comas."),
@@ -298,7 +298,7 @@ lesson(
     ],
     [
         mc("Une las ideas: «It's cheap. I'm not sure.»", "Although it's cheap, I'm not sure", ["Although it's cheap, but I'm not sure", "Because it's cheap, I'm not sure"], "Although expresa contraste y no se usa con but."),
-        mc("Reescribe sin agente: «Someone cleans the rooms daily».", "The rooms are cleaned daily", ["The rooms cleans daily", "The rooms is cleaned daily"], "Rooms es plural y lleva are."),
+        mc("Completa: «The road was closed for repairs. ___, the bus used a different route.» (route = ruta)", "As a result", ["For example", "Although"], "El cambio de ruta es la consecuencia de que el camino estuviera cerrado."),
     ],
     [mc("En un aviso del hotel del curso de turismo se lee: «Rooms are cleaned daily. Towels are changed every two days.» (towels = toallas; changed = cambiadas) ¿Qué información da y por qué no importa quién lo hace?", "Cuándo se limpia y se cambia; interesa el servicio, no la persona", ["Quién limpia; interesa el nombre de la persona", "Que las habitaciones no se limpian"], "La voz pasiva se usa cuando el agente no importa.")],
     [
@@ -312,6 +312,6 @@ lesson(
          ["cuatro oraciones numeradas en la hoja"],
          ["usar which para personas", "escribir although con but"],
          "Pide que subraye en cada oración la palabra clave (who, although, is cleaned, both... and)."),
-    "Copia los siete términos y escribe una oración con cada uno.",
+    "Copia los ocho términos y escribe una oración con cada uno.",
     "Escribe en inglés una oración con who, otra con which, otra con although y otra en voz pasiva sobre tu colegio.",
 )

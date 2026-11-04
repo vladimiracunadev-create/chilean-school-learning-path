@@ -119,7 +119,7 @@ Para identificar el formato mira primero la forma: títulos, menús, saludos, es
 
 *Ejemplo 1. Reconocer un correo*
 
-Problema: Correo: «Subject: Volleyball practice. Hi team, practice is moved to Thursday at 5 pm in the gym. Please bring water. Coach Vera.» (subject = asunto, practice = entrenamiento, moved = cambiado, gym = gimnasio, bring = traigan) ¿Qué formato es y cuál es su propósito?
+Problema: «Subject: Volleyball practice. Hi team, practice is moved to Thursday at 5 pm in the gym. Please bring water. Coach Vera.» (subject = asunto, practice = entrenamiento, moved = cambiado, gym = gimnasio, bring = traigan) ¿Qué formato es y cuál es su propósito?
 
 1. Tiene asunto, saludo y firma: es un correo.
 2. Avisa un cambio de día y hora de un entrenamiento.
@@ -129,7 +129,7 @@ Respuesta: Es un correo; su propósito es informar un cambio de entrenamiento
 
 *Ejemplo 2. Reconocer una página web*
 
-Problema: Página web: «Home | Courses | Contact. Learn photography online! Join our beginner course. Sign up before May 15 and get a discount.» (courses = cursos, beginner = principiante, sign up = inscríbete, discount = descuento) ¿Qué pistas muestran que es una página web y qué busca?
+Problema: «Home | Courses | Contact. Learn photography online! Join our beginner course. Sign up before May 15 and get a discount.» (courses = cursos, beginner = principiante, sign up = inscríbete, discount = descuento) ¿Qué pistas muestran que es una página web y qué busca?
 
 1. Tiene menús: Home, Courses, Contact.
 2. Dice Sign up y habla de un descuento.
@@ -146,31 +146,31 @@ Respuesta: Es una página web; busca que la persona se inscriba al curso
 
 *Recuperación*
 
-- **R1.** Correo: «Subject: Uniform change. Dear parents, from next Monday, students can wear the school tracksuit on Wednesdays. The change is for the whole term. Best regards, Ms Paredes, secretary.» (parents = apoderados, tracksuit = buzo, whole term = todo el semestre, best regards = saludos cordiales) ¿Qué formato es? A) un aviso de pared B) un correo
-- **R2.** Aviso: «NOTICE: The computer lab will be closed on Friday for maintenance. It will open again on Monday at eight. Sorry for the problem.» (notice = aviso, lab = laboratorio, closed = cerrado, maintenance = mantención, sorry = disculpe) ¿Qué formato es? A) un aviso B) una reseña
-- **R3.** Reseña: «The cafeteria's new menu is varied and cheap. However, the lines are long. I give it four stars out of five.» (review = reseña, cafeteria = casino, varied = variado, cheap = barato, lines = filas, stars = estrellas) ¿Qué formato es? A) un artículo científico B) una reseña
+- **R1.** «Subject: Uniform change. Dear parents, from next Monday, students can wear the school tracksuit on Wednesdays. The change is for the whole term. Best regards, Ms Paredes, secretary.» (parents = apoderados, tracksuit = buzo, whole term = todo el semestre, best regards = saludos cordiales) ¿Qué formato es? A) un correo B) un aviso de pared
+- **R2.** «NOTICE: The computer lab will be closed on Friday for maintenance. It will open again on Monday at eight. Sorry for the problem.» (notice = aviso, lab = laboratorio, closed = cerrado, maintenance = mantención, sorry = disculpe) ¿Qué formato es? A) una reseña B) un aviso
+- **R3.** «The cafeteria's new menu is varied and cheap. However, the lines are long. I give it four stars out of five.» (review = reseña, cafeteria = casino, varied = variado, cheap = barato, lines = filas, stars = estrellas) ¿Qué formato es? A) una reseña B) un artículo científico
 
 *Comprensión*
 
-- **C1.** Correo: «Subject: Uniform change. Dear parents, from next Monday, students can wear the school tracksuit on Wednesdays. The change is for the whole term. Best regards, Ms Paredes, secretary.» (parents = apoderados, tracksuit = buzo, whole term = todo el semestre, best regards = saludos cordiales) ¿Cuál es el propósito? A) informar un cambio de uniforme B) invitar a una fiesta
-- **C2.** Artículo de revista: «Why do we yawn? Scientists still do not know exactly. Some think yawning helps us wake up, and others think it cools the brain.» (yawn = bostezar, scientists = científicos, wake up = despertar, cools = enfría, brain = cerebro) ¿Cuál es el propósito? A) vender un producto B) explicar un tema sin una respuesta única
-- **C3.** Página web: «School Fair | Home | Schedule | Contact. Join us on Saturday! Games, food and music. Entry is free.» (fair = feria, schedule = programa, games = juegos, entry = entrada, free = gratis) ¿Cuál es el propósito? A) pedir dinero para un viaje B) invitar a una feria escolar
+- **C1.** «Subject: Uniform change. Dear parents, from next Monday, students can wear the school tracksuit on Wednesdays. The change is for the whole term. Best regards, Ms Paredes, secretary.» (parents = apoderados, tracksuit = buzo, whole term = todo el semestre, best regards = saludos cordiales) ¿Cuál es el propósito? A) invitar a una fiesta B) informar un cambio de uniforme
+- **C2.** «Why do we yawn? Scientists still do not know exactly. Some think yawning helps us wake up, and others think it cools the brain.» (yawn = bostezar, scientists = científicos, wake up = despertar, cools = enfría, brain = cerebro) ¿Cuál es el propósito? A) explicar un tema sin una respuesta única B) vender un producto
+- **C3.** «School Fair | Home | Schedule | Contact. Join us on Saturday! Games, food and music. Entry is free.» (fair = feria, schedule = programa, games = juegos, entry = entrada, free = gratis) ¿Cuál es el propósito? A) invitar a una feria escolar B) pedir dinero para un viaje
 
 *Aplicación*
 
-- **A1.** Aviso: «NOTICE: The computer lab will be closed on Friday for maintenance. It will open again on Monday at eight. Sorry for the problem.» (notice = aviso, lab = laboratorio, closed = cerrado, maintenance = mantención, sorry = disculpe) ¿Dónde esperarías leer este texto? A) en un pizarrón o puerta del colegio B) en un libro de cuentos
-- **A2.** Reseña: «The cafeteria's new menu is varied and cheap. However, the lines are long. I give it four stars out of five.» (review = reseña, cafeteria = casino, varied = variado, cheap = barato, lines = filas, stars = estrellas) ¿Quién escribe y para quién? A) la directora, para los apoderados B) una persona que probó el casino, para otros estudiantes
-- **A3.** Página web. Un texto con menú Home | Courses | Contact, ¿dónde se publica? A) en una pared sin conexión B) en internet
+- **A1.** «NOTICE: The computer lab will be closed on Friday for maintenance. It will open again on Monday at eight. Sorry for the problem.» (notice = aviso, lab = laboratorio, closed = cerrado, maintenance = mantención, sorry = disculpe) ¿Dónde esperarías leer este texto? A) en un libro de cuentos B) en un pizarrón o puerta del colegio
+- **A2.** «The cafeteria's new menu is varied and cheap. However, the lines are long. I give it four stars out of five.» (review = reseña, cafeteria = casino, varied = variado, cheap = barato, lines = filas, stars = estrellas) ¿Quién escribe y para quién? A) una persona que probó el casino, para otros estudiantes B) la directora, para los apoderados
+- **A3.** Un texto tiene un menú Home | Courses | Contact y un botón Sign up. ¿Dónde se publica? A) en internet B) en un periódico impreso
 
 *Razonamiento y análisis*
 
-- **Z1.** Artículo de revista: «Why do we yawn? Scientists still do not know exactly. Some think yawning helps us wake up, and others think it cools the brain.» (yawn = bostezar, scientists = científicos, wake up = despertar, cools = enfría, brain = cerebro) Un compañero dice que es un aviso. ¿Qué pista lo contradice? A) empieza con una pregunta y explica un tema B) usa mayúsculas y habla de un cierre
-- **Z2.** Reseña: «The cafeteria's new menu is varied and cheap. However, the lines are long. I give it four stars out of five.» (review = reseña, cafeteria = casino, varied = variado, cheap = barato, lines = filas, stars = estrellas) Un compañero dice que solo informa que hay un menú. ¿Qué pista muestra que hay opinión? A) The cafeteria's new menu B) I give it four stars out of five
+- **Z1.** «Why do we yawn? Scientists still do not know exactly. Some think yawning helps us wake up, and others think it cools the brain.» (yawn = bostezar, scientists = científicos, wake up = despertar, cools = enfría, brain = cerebro) Un compañero dice que es un aviso. ¿Qué pista lo contradice? A) usa mayúsculas y habla de un cierre B) empieza con una pregunta y explica un tema
+- **Z2.** «The cafeteria's new menu is varied and cheap. However, the lines are long. I give it four stars out of five.» (review = reseña, cafeteria = casino, varied = variado, cheap = barato, lines = filas, stars = estrellas) Un compañero dice que solo informa que hay un menú. ¿Qué pista muestra que hay opinión? A) The cafeteria's new menu B) I give it four stars out of five
 
 *Desafío*
 
-- **D1.** Página web: «School Fair | Home | Schedule | Contact. Join us on Saturday! Games, food and music. Entry is free.» (fair = feria, schedule = programa, games = juegos, entry = entrada, free = gratis) ¿Qué dato de la página web invita a participar sin pagar? A) Entry is free B) Home | Schedule | Contact
-- **D2.** Correo: «Subject: Uniform change. Dear parents, from next Monday, students can wear the school tracksuit on Wednesdays. The change is for the whole term. Best regards, Ms Paredes, secretary.» (parents = apoderados, tracksuit = buzo, whole term = todo el semestre, best regards = saludos cordiales) ¿Hasta cuándo dura el cambio de buzo? A) solo un miércoles B) todo el semestre
+- **D1.** «School Fair | Home | Schedule | Contact. Join us on Saturday! Games, food and music. Entry is free.» (fair = feria, schedule = programa, games = juegos, entry = entrada, free = gratis) ¿Qué dato de la página web invita a participar sin pagar? A) Entry is free B) Games, food and music
+- **D2.** «Subject: Uniform change. Dear parents, from next Monday, students can wear the school tracksuit on Wednesdays. The change is for the whole term. Best regards, Ms Paredes, secretary.» (parents = apoderados, tracksuit = buzo, whole term = todo el semestre, best regards = saludos cordiales) ¿Hasta cuándo dura el cambio de buzo? A) todo el semestre B) solo un miércoles
 
 *Situaciones auténticas*
 
@@ -186,19 +186,19 @@ Respuesta: Es una página web; busca que la persona se inscriba al curso
 
 **Solucionario razonado**
 
-- **R1.** B) un correo. Tiene asunto, saludo y despedida.
-- **R2.** A) un aviso. Entrega una información breve y urgente.
-- **R3.** B) una reseña. Tiene una evaluación con estrellas.
-- **C1.** A) informar un cambio de uniforme. Dice que los miércoles se puede usar el buzo.
-- **C2.** B) explicar un tema sin una respuesta única. Dice que los científicos no saben con exactitud.
-- **C3.** B) invitar a una feria escolar. Dice Join us y que la entrada es gratis.
-- **A1.** A) en un pizarrón o puerta del colegio. Es un aviso de uso público.
-- **A2.** B) una persona que probó el casino, para otros estudiantes. Da su opinión con I give it four stars.
-- **A3.** B) en internet. Los menús y enlaces son propios de las páginas web.
-- **Z1.** A) empieza con una pregunta y explica un tema. Un artículo explica; un aviso informa algo urgente.
+- **R1.** A) un correo. Tiene asunto, saludo y despedida.
+- **R2.** B) un aviso. Entrega una información breve y urgente.
+- **R3.** A) una reseña. Tiene una evaluación con estrellas.
+- **C1.** B) informar un cambio de uniforme. Dice que los miércoles se puede usar el buzo.
+- **C2.** A) explicar un tema sin una respuesta única. Dice que los científicos no saben con exactitud.
+- **C3.** A) invitar a una feria escolar. Dice Join us y que la entrada es gratis.
+- **A1.** B) en un pizarrón o puerta del colegio. Es un aviso de uso público.
+- **A2.** A) una persona que probó el casino, para otros estudiantes. Da su opinión con I give it four stars.
+- **A3.** A) en internet. Los menús y enlaces son propios de las páginas web.
+- **Z1.** B) empieza con una pregunta y explica un tema. Un artículo explica; un aviso informa algo urgente.
 - **Z2.** B) I give it four stars out of five. Las estrellas son una evaluación personal.
 - **D1.** A) Entry is free. Dice que la entrada es gratis.
-- **D2.** B) todo el semestre. Dice for the whole term.
+- **D2.** A) todo el semestre. Dice for the whole term.
 - **S1.** A) pedir que se devuelvan los libros. Dice please return your books before Friday.
 - **E1.** Asunto, saludo, cuerpo y despedida. Son sus partes.
 - **E2.** Un texto que da una opinión con una evaluación. Por ejemplo, estrellas.
@@ -379,7 +379,7 @@ Respuesta: Desde compras de más de 25.000 pesos
 
 *Desafío*
 
-- **D1.** Programa de talleres (de ejemplo): «Monday 4:00 pm – Drawing, Room 2. Tuesday 4:30 pm – Chess, Library. Wednesday 4:00 pm – Robotics, Lab. Friday 5:00 pm – Theatre, Gym. All workshops are free. Registration closes on March 3.» (workshops = talleres, room = sala, registration = inscripción, closes = cierra) Las clases de ajedrez empiezan a las 4:30 y las de teatro a las 5:00. ¿Cuántos minutos más tarde empieza el teatro?
+- **D1.** Programa de talleres (de ejemplo): «Monday 4:00 pm – Drawing, Room 2. Tuesday 4:30 pm – Chess, Library. Wednesday 4:00 pm – Robotics, Lab. Friday 5:00 pm – Theatre, Gym. All workshops are free. Registration closes on March 3.» (workshops = talleres, room = sala, registration = inscripción, closes = cierra) ¿Cuántos minutos más tarde empieza el teatro que el ajedrez?
 - **D2.** «Backpack Trek: price 18,990 pesos, weight 700 g, colours: blue, green and black. Free delivery on orders over 25,000 pesos.» (price = precio, weight = peso, colours = colores, free delivery = despacho gratis, orders = compras) ¿Cuántos colores tiene la mochila? A) tres B) dos
 
 *Situaciones auténticas*
@@ -407,7 +407,7 @@ Respuesta: Desde compras de más de 25.000 pesos
 - **A3.** A) de seis de la mañana a diez de la noche. Dice from six in the morning to ten at night.
 - **Z1.** B) no: el teatro es el viernes en el gimnasio. La biblioteca es del ajedrez.
 - **Z2.** B) 5–14 January y ten days. El texto dice diez días.
-- **D1.** 30 minutos. De 4:30 a 5:00 pasa media hora, es decir, treinta minutos.
+- **D1.** 30 minutos. El ajedrez es a las 4:30 y el teatro a las 5:00: pasa media hora, es decir, treinta minutos.
 - **D2.** A) tres. Hay blue, green y black.
 - **S1.** B) no: cierra a las diez de la noche. El horario termina a las diez de la noche.
 - **E1.** Leer solo para encontrar un dato concreto. Se busca una palabra o número.
@@ -584,13 +584,13 @@ Respuesta: A) personas que acompañan y cuentan historias
 
 *Razonamiento y análisis*
 
-- **Z1.** Un compañero lee «actually» como «actualmente». ¿Qué significa en realidad? A) actualmente B) en realidad
+- **Z1.** En «I actually like this song», ¿qué significa actually? A) actualmente B) en realidad, de hecho
 - **Z2.** En un texto no entiendes la palabra bookshop, pero ves «he is going to study in a library, not in a bookshop». ¿Qué te dice el contexto? A) es un lugar distinto de una biblioteca B) es lo mismo que library
 
 *Desafío*
 
-- **D1.** Un texto tiene el título «How bees help plants». Haces skimming. ¿Qué esperas leer? A) cómo las abejas ayudan a las plantas B) cómo se hace una torta
-- **D2.** Foro digital: «Menu | Search | Log in. Topic: Best apps for learning English? Reply from Tina: I use a vocabulary app and a podcast. It is a practical way to practise every day. Read more.» (log in = iniciar sesión, search = buscar, reply = respuesta, podcast = podcast, practical = práctico, practise = practicar, read more = leer más) ¿Qué recomienda Tina? A) viajar a otro país B) una aplicación de vocabulario y un podcast
+- **D1.** Un texto tiene el título «How bees help plants». Haces skimming. ¿Qué esperas leer? A) por qué las abejas pican a las personas B) cómo las abejas ayudan a las plantas
+- **D2.** Foro digital: «Menu | Search | Log in. Topic: Best apps for learning English? Reply from Tina: I use a vocabulary app and a podcast. It is a practical way to practise every day. Read more.» (log in = iniciar sesión, search = buscar, reply = respuesta, podcast = podcast, practical = práctico, practise = practicar, read more = leer más) ¿Qué recomienda Tina? A) una aplicación de vocabulario y un podcast B) tomar clases presenciales
 
 *Situaciones auténticas*
 
@@ -615,10 +615,10 @@ Respuesta: A) personas que acompañan y cuentan historias
 - **A1.** B) la selección jugará dos partidos el próximo mes. Dice will play two matches next month.
 - **A2.** A) un menú, un buscador y un enlace Read more. Aparecen Menu, Search y Read more.
 - **A3.** B) exposición. Se parece a exposición y el contexto confirma que es una muestra.
-- **Z1.** B) en realidad. Es un falso amigo de actual.
+- **Z1.** B) en realidad, de hecho. Es un falso amigo: se parece a actualmente, pero significa en realidad.
 - **Z2.** A) es un lugar distinto de una biblioteca. Not in a bookshop los separa.
-- **D1.** A) cómo las abejas ayudan a las plantas. El título anticipa el tema.
-- **D2.** B) una aplicación de vocabulario y un podcast. Dice I use a vocabulary app and a podcast.
+- **D1.** B) cómo las abejas ayudan a las plantas. El título anticipa el tema.
+- **D2.** A) una aplicación de vocabulario y un podcast. Dice I use a vocabulary app and a podcast.
 - **S1.** B) para ver más información sobre una noticia o curso. Es un enlace que abre más texto.
 - **E1.** Leer rápido para captar la idea general. Se mira el título y la primera frase.
 - **E2.** Una palabra que se parece al español pero significa otra cosa, como library. Library no es librería.
@@ -799,12 +799,12 @@ Respuesta: How long will it take?
 
 *Desafío*
 
-- **D1.** Afiche: «Painting Contest for teenagers! Theme: My town. Bring your painting to the library before April 10.» (contest = concurso, painting = pintura, theme = tema, bring = lleva) Mensaje de texto de Ben: «The painting contest has a prize: a set of art materials for the winner. Entry is free. The winner is announced on April 20.» (prize = premio, set = set, winner = ganador, entry = participación, announced = se anuncia) Si quieres saber en qué sala de la biblioteca se entrega la pintura, ¿qué pregunta harías? A) How old are you? B) Which room in the library?
-- **D2.** Afiche: «Painting Contest for teenagers! Theme: My town. Bring your painting to the library before April 10.» (contest = concurso, painting = pintura, theme = tema, bring = lleva) Mensaje de texto de Ben: «The painting contest has a prize: a set of art materials for the winner. Entry is free. The winner is announced on April 20.» (prize = premio, set = set, winner = ganador, entry = participación, announced = se anuncia) Para participar, ¿qué dos condiciones debes cumplir según los textos? A) pagar entrada y ser adulto B) ser adolescente y entregar antes del 10 de abril
+- **D1.** Afiche: «Painting Contest for teenagers! Theme: My town. Bring your painting to the library before April 10.» (contest = concurso, painting = pintura, theme = tema, bring = lleva) Mensaje de texto de Ben: «The painting contest has a prize: a set of art materials for the winner. Entry is free. The winner is announced on April 20.» (prize = premio, set = set, winner = ganador, entry = participación, announced = se anuncia) Si quieres saber en qué sala de la biblioteca se entrega la pintura, ¿qué pregunta harías? A) What is the prize? B) Which room in the library?
+- **D2.** Afiche: «Painting Contest for teenagers! Theme: My town. Bring your painting to the library before April 10.» (contest = concurso, painting = pintura, theme = tema, bring = lleva) Mensaje de texto de Ben: «The painting contest has a prize: a set of art materials for the winner. Entry is free. The winner is announced on April 20.» (prize = premio, set = set, winner = ganador, entry = participación, announced = se anuncia) Para participar, ¿qué dos condiciones debes cumplir según los textos? A) pagar la participación y entregar el 20 de abril B) ser adolescente y entregar antes del 10 de abril
 
 *Situaciones auténticas*
 
-- **S1.** Correo de Lola a Sam: «Hi Sam, I'm inviting you to my cousin's concert on Saturday. It starts at seven. See you there! Lola.» (inviting = invitando, concert = concierto, cousin = prima o primo) Página web del concierto: «Spring Concert – Saturday – Town Hall, Park Street. Doors open at six. Tickets: 4,000 pesos each. Children under ten enter free.» (town hall = sala municipal, doors open = abren las puertas, tickets = entradas, each = cada una) Sam quiere llegar al inicio de las puertas. ¿A qué hora debe llegar? A) a las siete B) a las seis
+- **S1.** Correo de Lola a Sam: «Hi Sam, I'm inviting you to my cousin's concert on Saturday. It starts at seven. See you there! Lola.» (inviting = invitando, concert = concierto, cousin = prima o primo) Página web del concierto: «Spring Concert – Saturday – Town Hall, Park Street. Doors open at six. Tickets: 4,000 pesos each. Children under ten enter free.» (town hall = sala municipal, doors open = abren las puertas, tickets = entradas, each = cada una) Sam quiere llegar cuando abren las puertas. ¿A qué hora debe llegar? A) a las siete B) a las seis
 
 *Autoevaluación*
 
@@ -1000,7 +1000,7 @@ Respuesta: Vivía en el faro y mantenía la luz funcionando
 
 - **A1.** Artículo: «Tool libraries: how do they work? In some towns, people can borrow a tool from a library, use it at home, and return it. First, you register at the front desk. Then you choose a tool from the catalogue. The first week is usually free, but longer loans cost a small fee. Although tool libraries are popular, some tools are often out on loan, so users must check the catalogue before they go.» (tool library = biblioteca de herramientas, borrow = pedir prestado, return = devolver, register = registrarse, front desk = recepción, catalogue = catálogo, loan = préstamo, fee = tarifa, out on loan = prestadas, users = usuarios) ¿Qué debe hacer el usuario antes de ir? A) pagar un año completo B) revisar el catálogo para ver qué herramientas hay disponibles
 - **A2.** Correo: «Subject: Trip to the science park. Dear parents, we will visit the science park on 14 June. The bus leaves at eight and returns at four. Please send lunch and a water bottle. The cost is six thousand pesos. Payment is due by 7 June. Ms Ríos.» (science park = parque científico, returns = regresa, lunch = almuerzo, water bottle = botella de agua, cost = costo, payment = pago, due by = hasta el) ¿Qué deben enviar las familias? A) almuerzo y una botella de agua B) dinero en efectivo y celular
-- **A3.** Artículo: «Lighthouses help ships find their way at night. A strong light turns and sends beams across the sea. In the past, a keeper lived in the lighthouse and kept the light working. Today, most lighthouses are automatic, but some have a small exhibition that visitors can enter.» (lighthouses = faros, ships = barcos, beams = haces de luz, sea = mar, keeper = farero, automatic = automáticos, exhibition = exposición) ¿Qué pueden hacer hoy los visitantes en algunos faros? A) entrar a una pequeña exposición B) vivir una semana
+- **A3.** Artículo: «Lighthouses help ships find their way at night. A strong light turns and sends beams across the sea. In the past, a keeper lived in the lighthouse and kept the light working. Today, most lighthouses are automatic, but some have a small exhibition that visitors can enter.» (lighthouses = faros, ships = barcos, beams = haces de luz, sea = mar, keeper = farero, automatic = automáticos, exhibition = exposición) ¿Qué pueden hacer hoy los visitantes en algunos faros? A) entrar a una pequeña exposición B) encender la luz del faro
 
 *Razonamiento y análisis*
 

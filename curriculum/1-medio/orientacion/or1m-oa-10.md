@@ -368,7 +368,7 @@ Respuesta: Hecho: 5,2; deseo: 6,0
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué una meta sin plazo es difícil de cumplir?
-- **Z2.** Un joven dice: «Mi meta es ser famoso». ¿Qué le falta para ser una buena meta? A) Nada B) Hacerla específica, medible, realista y con plazo.
+- **Z2.** Un joven dice: «Mi meta es ser famoso». ¿Qué le falta para ser una buena meta? A) Hacerla específica, medible, realista y con plazo B) Contarla a más personas para que se haga famosa.
 
 *Desafío*
 
@@ -399,7 +399,7 @@ Respuesta: Hecho: 5,2; deseo: 6,0
 - **A2.** 4. 5,6 menos 5,2 son 4 décimos.
 - **A3.** A. Se ajusta a su limitación de tiempo.
 - **Z1.** Porque no hay un momento para revisarla ni exigirse. Sin fecha, se posterga.
-- **Z2.** B. Sin esos rasgos no se puede planificar.
+- **Z2.** A. Sin esos rasgos no se puede planificar.
 - **D1.** 120. Se multiplican páginas por semanas. Cálculo: 24 × 5 = 120.
 - **D2.** 5.000 pesos. Se divide la meta por los meses. Cálculo: 45000 ÷ 9 = 5.000.
 - **S1.** A. Tiene qué, cuánto y plazo.
@@ -778,7 +778,7 @@ Respuesta: Registrar qué falló y ajustar el plan
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué anotar los avances ayuda a perseverar?
-- **Z2.** Un joven dice: «Si pido ayuda, no soy esforzado». ¿Qué falta? A) Que pedir ayuda es parte de un esfuerzo responsable B) Nada.
+- **Z2.** Un joven dice: «Si pido ayuda, no soy esforzado». ¿Qué falta? A) Que pedir ayuda es parte de un esfuerzo responsable B) Que el esfuerzo se mide por cuánto se aguanta sin ayuda.
 
 *Desafío*
 

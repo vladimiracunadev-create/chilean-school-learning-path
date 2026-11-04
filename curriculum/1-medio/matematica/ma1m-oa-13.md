@@ -270,7 +270,7 @@ Respuesta: Un estudiante de 1.º A que lee 30 minutos al día leyó 4 libros
 
 **Recurso listo para usar:** Cuaderno cuadriculado, lápiz, regla y, si quieres, una calculadora. Todos los datos que necesitas están escritos en cada ejercicio.
 
-**Consigna exacta:** Compara estos dos grupos de ejemplo (kilómetros recorridos en bicicleta en el mes, minutos que tarda una vuelta al parque). Grupo F: (20, 12), (40, 11), (60, 9), (80, 8). Grupo G: (20, 15), (40, 13), (60, 12), (80, 10). Dibuja los dos grupos con símbolos distintos y escribe tres frases: dirección de cada nube, cuál queda más arriba y cuánto vale la diferencia en y cuando x = 60. Usa «tiende a».
+**Consigna exacta:** Compara estos dos grupos de ejemplo (kilómetros recorridos en bicicleta en el mes, minutos que tarda una vuelta al parque). Grupo F: (20, 12), (40, 11), (60, 9), (80, 8). Grupo G: (20, 15), (40, 13), (60, 12), (80, 10). Dibuja los dos grupos con símbolos distintos y escribe frases breves que digan la dirección de cada nube, cuál queda más arriba y cuánto vale la diferencia en y cuando x = 60, y una conclusión con «tiende a».
 
 **Referencia para modelar y corregir:** Ambas nubes bajan (asociación negativa). El grupo G queda más arriba. Con x = 60, G tiene 12 minutos y F tiene 9: la diferencia es 3 minutos. En esta muestra, a igual cantidad de kilómetros, G tiende a tardar más.
 
@@ -359,7 +359,7 @@ Respuesta: 3 errores más
 
 - **C1.** Modelo 1: (6, 20), (12, 18), (18, 15), (24, 13), (30, 10). Modelo 2: (6, 26), (12, 24), (18, 20), (24, 19), (30, 16). ¿Las dos nubes tienen la misma dirección? Responde sí o no.
 - **C2.** A los 30 meses de uso, el modelo 1 tiene 10 horas de batería y el modelo 2 tiene 16 horas. ¿Cuántas horas más tiene el modelo 2?
-- **C3.** ¿Cuál es una comparación correcta de las nubes? A) El modelo 1 tiene más puntos que el modelo 2 porque está más abajo. B) El modelo 2 siempre dura más en cualquier celular del mundo. C) A igual tiempo de uso, el modelo 2 tiende a tener más horas de batería.
+- **C3.** ¿Cuál es una comparación correcta de las nubes? A) El modelo 1 es mejor porque su nube queda más abajo. B) El modelo 2 siempre dura más en cualquier celular del mundo. C) A igual tiempo de uso, el modelo 2 tiende a tener más horas de batería.
 
 *Aplicación*
 
@@ -375,7 +375,7 @@ Respuesta: 3 errores más
 *Desafío*
 
 - **D1.** Modelo 1: (6, 20), (12, 18), (18, 15), (24, 13), (30, 10). Modelo 2: (6, 26), (12, 24), (18, 20), (24, 19), (30, 16). Un modelo 3 tiene 18 horas de batería a los 18 meses de uso. ¿Entre cuáles dos nubes queda ese punto? A) Por encima de las dos. B) Por debajo de las dos. C) Entre la del modelo 1 y la del modelo 2.
-- **D2.** A los 6 meses el modelo 1 tiene 20 horas de batería y a los 30 meses tiene 10. ¿Qué porcentaje de la batería inicial le queda a los 30 meses?
+- **D2.** A los 6 meses el modelo 1 tiene 20 horas de batería y a los 30 meses tiene 10. ¿Qué porcentaje de la batería que tenía a los 6 meses le queda a los 30 meses?
 
 *Situaciones auténticas*
 
@@ -387,7 +387,7 @@ Respuesta: 3 errores más
 - **E2.** Para comparar dos grupos, ¿se usa el mismo valor de x? Responde sí o no.
 - **E3.** El grupo rojo tiene 15 en x = 10 y el azul tiene 9 en x = 10. ¿Cuál es la diferencia?
 
-**Actividad abierta.** Compara estos dos grupos de ejemplo (kilómetros recorridos en bicicleta en el mes, minutos que tarda una vuelta al parque). Grupo F: (20, 12), (40, 11), (60, 9), (80, 8). Grupo G: (20, 15), (40, 13), (60, 12), (80, 10). Dibuja los dos grupos con símbolos distintos y escribe tres frases: dirección de cada nube, cuál queda más arriba y cuánto vale la diferencia en y cuando x = 60. Usa «tiende a».
+**Actividad abierta.** Compara estos dos grupos de ejemplo (kilómetros recorridos en bicicleta en el mes, minutos que tarda una vuelta al parque). Grupo F: (20, 12), (40, 11), (60, 9), (80, 8). Grupo G: (20, 15), (40, 13), (60, 12), (80, 10). Dibuja los dos grupos con símbolos distintos y escribe frases breves que digan la dirección de cada nube, cuál queda más arriba y cuánto vale la diferencia en y cuando x = 60, y una conclusión con «tiende a».
 
 **Solucionario razonado**
 
@@ -403,7 +403,7 @@ Respuesta: 3 errores más
 - **Z1.** No. Si las nubes se superponen, hay casos que contradicen la afirmación.
 - **Z2.** No. Los dos puntos tienen meses de uso distintos, así que no se comparan en igualdad de condiciones.
 - **D1.** C. A los 18 meses el modelo 1 tiene 15 horas y el modelo 2 tiene 20; 18 queda entre ambas.
-- **D2.** 50%. Se divide lo que queda, 10, por lo que tenía al inicio, 20, y se multiplica por 100. Cálculo: 10 × 100 ÷ 20 = 50.
+- **D2.** 50%. Se divide lo que queda, 10, por lo que tenía a los 6 meses, 20, y se multiplica por 100. Cálculo: 10 × 100 ÷ 20 = 50.
 - **S1.** 5. 20 − 15 = 5 minutos más con el mismo valor x.
 - **E1.** Posición, dirección o dispersión. Esas tres características describen cómo se ven y se comparan las nubes.
 - **E2.** Sí. Así se comparan en igualdad de condiciones.
@@ -413,13 +413,13 @@ Respuesta: 3 errores más
 
 **Criterios para evaluarla:** gráfico con los dos grupos y leyenda; dirección de cada nube; comparación con el mismo x; diferencia correcta; usa «tiende a».
 
-**Evidencias aceptables:** gráfico dibujado; tres frases; diferencia calculada.
+**Evidencias aceptables:** gráfico dibujado; frases pedidas; diferencia calculada.
 
 **Errores que conviene detectar:** comparar puntos con distinto x; decir que G siempre tarda más; no indicar la dirección.
 
 **Retroalimentación constructiva:** Pide que señale en el gráfico los dos puntos con x = 60. Reconoce que use «tiende a» y limite la conclusión a la muestra.
 
-**Refuerzo.** Con las nubes del curso A y del curso B, calcula la diferencia de errores cuando x = 5.
+**Refuerzo.** Curso A (horas de práctica, errores): (1, 9), (2, 7), (3, 6), (5, 4), (6, 2). Curso B: (1, 6), (2, 5), (4, 3), (5, 2), (7, 1). Calcula la diferencia de errores entre A y B cuando x = 5.
 
 **Profundización.** Describe dos grupos de datos reales de tu entorno que cruzarías en un gráfico xy y qué compararías.
 
@@ -774,14 +774,14 @@ Respuesta: Se parece a los rojos; es una predicción, no una certeza
 
 *Comprensión*
 
-- **C1.** Rojos: (1, 4), (2, 6), (3, 5), (4, 8), (5, 7), (6, 9), (7, 6), (8, 10), (3, 8), (5, 9). Azules: (2, 1), (3, 2), (4, 3), (5, 3), (6, 5), (7, 4), (8, 5), (9, 7), (1, 0), (6, 2). Con la recta y = 5, 8 rojos quedan arriba y 7 azules quedan abajo. ¿Cuántos puntos quedan bien clasificados?
+- **C1.** Rojos: (1, 4), (2, 6), (3, 5), (4, 8), (5, 7), (6, 9), (7, 6), (8, 10), (3, 8), (5, 9). Azules: (2, 1), (3, 2), (4, 3), (5, 3), (6, 5), (7, 4), (8, 5), (9, 7), (1, 0), (6, 2). Con la recta y = 5, 8 rojos quedan arriba y 7 azules quedan abajo. ¿Cuántos puntos quedan mal clasificados? (Incluye los que están sobre la recta.)
 - **C2.** Una recta clasifica bien 15 de 20 puntos. ¿Qué porcentaje de aciertos tiene?
 - **C3.** Una recta tiene 100 % de aciertos en una muestra de 6 puntos. ¿Qué se puede afirmar? A) Que acertará siempre con elementos nuevos. B) Que el valor de x causa el grupo. C) Que en esa muestra no se equivoca, pero con 6 puntos la conclusión es débil.
 
 *Aplicación*
 
 - **A1.** Con los mismos datos (rojos: (1, 4), (2, 6), (3, 5), (4, 8), (5, 7), (6, 9), (7, 6), (8, 10), (3, 8), (5, 9); azules: (2, 1), (3, 2), (4, 3), (5, 3), (6, 5), (7, 4), (8, 5), (9, 7), (1, 0), (6, 2)) y la recta y = x + 2, 6 rojos quedan arriba y los 10 azules quedan abajo. ¿Cuál es el porcentaje de aciertos?
-- **A2.** Tres rectas tienen 95 %, 75 % y 80 % de aciertos en los mismos 20 puntos. ¿Cuál es la mejor? A) La de 75 %. B) La de 80 %. C) La de 95 %.
+- **A2.** La recta P clasifica bien 17 de 20 puntos de una muestra. La recta Q clasifica bien 24 de 30 puntos de otra muestra. ¿Cuál tiene mayor porcentaje de aciertos? A) La recta P. B) La recta Q. C) Tienen el mismo porcentaje.
 - **A3.** Un elemento nuevo queda justo sobre la recta que separa dos grupos. ¿Se puede predecir su grupo con seguridad? Responde sí o no.
 
 *Razonamiento y análisis*
@@ -811,11 +811,11 @@ Respuesta: Se parece a los rojos; es una predicción, no una certeza
 - **R1.** Los puntos bien clasificados. Los aciertos son los puntos que quedaron del lado correcto.
 - **R2.** 2 puntos. Se restan los bien clasificados del total. Cálculo: 20 − 18 = 2.
 - **R3.** Rojo. Se parece al grupo que queda de ese lado de la recta.
-- **C1.** 15 puntos. Se suman los rojos que quedan arriba y los azules que quedan abajo. Cálculo: 8 + 7 = 15.
+- **C1.** 5 puntos. Hay 20 puntos y 8 + 7 = 15 están bien clasificados; los otros 5 quedan mal o sobre la recta. Cálculo: 20 − 8 − 7 = 5.
 - **C2.** 75%. Se divide 15 por 20 y se multiplica por 100. Cálculo: 15 × 100 ÷ 20 = 75.
 - **C3.** C. El resultado describe solo la muestra y 6 puntos son pocos para generalizar.
 - **A1.** 80%. Los aciertos son 6 + 10 = 16 de 20. Cálculo: (6 + 10) × 100 ÷ 20 = 80.
-- **A2.** C. La mejor es la que acierta más puntos.
+- **A2.** A. P tiene 17 ÷ 20 = 85 % y Q tiene 24 ÷ 30 = 80 %; Q acierta más puntos, pero sobre más puntos.
 - **A3.** No. Sobre la recta no queda de ningún lado, así que la predicción es incierta.
 - **Z1.** Sí. La recta trazada de forma intuitiva no es única.
 - **Z2.** No. La recta describe dónde están los puntos, pero no demuestra una causa.

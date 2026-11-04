@@ -364,7 +364,7 @@ Respuesta: No, porque no se relaciona con el barrio
 
 - **C1.** Guion de una exposición (ordenado al azar): 1) «To sum up, my neighborhood is quiet and friendly.» 2) «Good morning, everyone. Today I will talk about my neighborhood.» 3) «Second, there is a small market with fresh fruit.» 4) «Thank you for listening. Do you have any questions?» 5) «First, it has a big park where families play on weekends.» 6) «Third, the neighbors are friendly and help each other.» (neighborhood = barrio, park = parque, market = feria, fresh = fresca, neighbors = vecinos, each other = unos a otros, to sum up = en resumen) ¿Cuántas ideas tiene el desarrollo? A) dos B) tres
 - **C2.** Guion de una exposición (ordenado al azar): 1) «To sum up, my neighborhood is quiet and friendly.» 2) «Good morning, everyone. Today I will talk about my neighborhood.» 3) «Second, there is a small market with fresh fruit.» 4) «Thank you for listening. Do you have any questions?» 5) «First, it has a big park where families play on weekends.» 6) «Third, the neighbors are friendly and help each other.» (neighborhood = barrio, park = parque, market = feria, fresh = fresca, neighbors = vecinos, each other = unos a otros, to sum up = en resumen) ¿Qué palabra introduce el resumen? A) Third B) To sum up
-- **C3.** Guion de una exposición (ordenado al azar): 1) «To sum up, my neighborhood is quiet and friendly.» 2) «Good morning, everyone. Today I will talk about my neighborhood.» 3) «Second, there is a small market with fresh fruit.» 4) «Thank you for listening. Do you have any questions?» 5) «First, it has a big park where families play on weekends.» 6) «Third, the neighbors are friendly and help each other.» (neighborhood = barrio, park = parque, market = feria, fresh = fresca, neighbors = vecinos, each other = unos a otros, to sum up = en resumen) ¿Qué hacen las familias en el parque? A) trabajan B) juegan los fines de semana
+- **C3.** Guion de una exposición (ordenado al azar): 1) «To sum up, my neighborhood is quiet and friendly.» 2) «Good morning, everyone. Today I will talk about my neighborhood.» 3) «Second, there is a small market with fresh fruit.» 4) «Thank you for listening. Do you have any questions?» 5) «First, it has a big park where families play on weekends.» 6) «Third, the neighbors are friendly and help each other.» (neighborhood = barrio, park = parque, market = feria, fresh = fresca, neighbors = vecinos, each other = unos a otros, to sum up = en resumen) ¿Qué hacen las familias en el parque? A) corren una maratón B) juegan los fines de semana
 
 *Aplicación*
 
@@ -380,7 +380,7 @@ Respuesta: No, porque no se relaciona con el barrio
 *Desafío*
 
 - **D1.** Guion de una exposición (ordenado al azar): 1) «To sum up, my neighborhood is quiet and friendly.» 2) «Good morning, everyone. Today I will talk about my neighborhood.» 3) «Second, there is a small market with fresh fruit.» 4) «Thank you for listening. Do you have any questions?» 5) «First, it has a big park where families play on weekends.» 6) «Third, the neighbors are friendly and help each other.» (neighborhood = barrio, park = parque, market = feria, fresh = fresca, neighbors = vecinos, each other = unos a otros, to sum up = en resumen) Una persona del público pregunta: «Do the neighbors help each other?» ¿Qué respondes con tu guion? A) Yes, they do; the third idea says so B) No, they don't
-- **D2.** Un estudiante empieza con «Today I will talk about my neighborhood» pero no dice su nombre ni saluda. ¿Qué mejora la apertura? A) quitar el tema B) agregar Good morning, everyone
+- **D2.** Un estudiante empieza con «Today I will talk about my neighborhood» pero no dice su nombre ni saluda. ¿Qué mejora la apertura? A) quitar el nombre del barrio B) agregar Good morning, everyone
 
 *Situaciones auténticas*
 
@@ -584,7 +584,7 @@ Respuesta: Un gráfico de barras
 
 *Razonamiento y análisis*
 
-- **Z1.** Diapositiva B: tiene el título «Plastic Bottles», un dibujo grande de una botella y tres palabras: collect, clean, reuse. Durante la exposición, ¿qué gesto refuerza la imagen de la botella? A) darle la espalda a la audiencia B) mostrar la imagen con la mano y mirar a la audiencia
+- **Z1.** Diapositiva B: tiene el título «Plastic Bottles», un dibujo grande de una botella y tres palabras: collect, clean, reuse. Durante la exposición, ¿qué gesto refuerza la imagen de la botella? A) mostrar la imagen con la mano y mirar a la audiencia B) mirar solo la pantalla mientras se señala
 - **Z2.** Datos de ejemplo: botellas plásticas recolectadas por curso: 1.º A 24, 1.º B 31, 1.º C 18. (bottles = botellas, collected = recolectadas) Un compañero dice que 1.º A recolectó más que 1.º B. ¿Cómo lo corriges con el gráfico? A) 1.º B recolectó 31 y 1.º A, 24 B) 1.º A recolectó 31
 
 *Desafío*
@@ -615,7 +615,7 @@ Respuesta: Un gráfico de barras
 - **A1.** A) un diagrama con flechas. Los diagramas muestran procesos.
 - **A2.** B) imágenes con rótulos. Asocian palabra e imagen.
 - **A3.** 1-b, 2-a, 3-c. Cada recurso cumple una función distinta.
-- **Z1.** B) mostrar la imagen con la mano y mirar a la audiencia. El gesto dirige la atención y mantiene el contacto.
+- **Z1.** A) mostrar la imagen con la mano y mirar a la audiencia. El gesto dirige la atención y mantiene el contacto.
 - **Z2.** A) 1.º B recolectó 31 y 1.º A, 24. La tabla muestra lo contrario.
 - **D1.** A) reducir el texto a tres palabras clave y agregar una imagen grande. Se acerca al modelo de la diapositiva B.
 - **D2.** B) tres cajas con dibujos grandes y objetos reales limpios. Es visual y concreto para esa edad.
@@ -784,7 +784,7 @@ Respuesta: Resumir
 
 - **C1.** Datos del festival cultural (de ejemplo): lugar, el gimnasio; día, sábado; hora, 4 de la tarde; entradas, 2.000 pesos; voluntarios, 15; atracciones, danza, teatro y comida tradicional. (festival = festival, gym = gimnasio, volunteers = voluntarios, dance = danza, theater = teatro) Una persona pregunta «When is the festival?». ¿Qué respondes? A) It is in the gym B) It is on Saturday at four
 - **C2.** Datos del festival cultural (de ejemplo): lugar, el gimnasio; día, sábado; hora, 4 de la tarde; entradas, 2.000 pesos; voluntarios, 15; atracciones, danza, teatro y comida tradicional. (festival = festival, gym = gimnasio, volunteers = voluntarios, dance = danza, theater = teatro) ¿Qué palabra en inglés designa a las personas que ayudan sin recibir pago? A) volunteers B) tickets
-- **C3.** Datos del festival cultural (de ejemplo): lugar, el gimnasio; día, sábado; hora, 4 de la tarde; entradas, 2.000 pesos; voluntarios, 15; atracciones, danza, teatro y comida tradicional. (festival = festival, gym = gimnasio, volunteers = voluntarios, dance = danza, theater = teatro) ¿Qué atracciones hay? A) danza, teatro y comida tradicional B) fútbol y cine
+- **C3.** Datos del festival cultural (de ejemplo): lugar, el gimnasio; día, sábado; hora, 4 de la tarde; entradas, 2.000 pesos; voluntarios, 15; atracciones, danza, teatro y comida tradicional. (festival = festival, gym = gimnasio, volunteers = voluntarios, dance = danza, theater = teatro) ¿Qué atracciones hay? A) danza, teatro y artesanía B) danza, teatro y comida tradicional
 
 *Aplicación*
 
@@ -821,7 +821,7 @@ Respuesta: Resumir
 - **R3.** A) Today I'm going to talk about the school festival. Abre con saludo y tema.
 - **C1.** B) It is on Saturday at four. Responde a When con día y hora.
 - **C2.** A) volunteers. Voluntarios se dice volunteers.
-- **C3.** A) danza, teatro y comida tradicional. Es lo que dice el dato de atracciones.
+- **C3.** B) danza, teatro y comida tradicional. Es lo que dice el dato de atracciones.
 - **A1.** 1-b, 2-a, 3-c. Cada frase hace algo distinto en la exposición.
 - **A2.** B) There are fifteen volunteers. El dato dice voluntarios, 15.
 - **A3.** A) Yes, there is traditional food. El dato incluye comida tradicional.
@@ -902,7 +902,7 @@ Respuesta: Resumir
 
 **Recurso listo para usar:** Los esquemas, diapositivas descritas y textos escritos en cada ejercicio; lápiz, hojas y una persona de tu casa como audiencia.
 
-**Consigna exacta:** Lee en voz alta, frente a una persona de tu casa, este guion original: «Good morning. This year I visited a train station. There was a tree near the entrance. Yesterday I read the information board. Then I drank a drink and sat on a seat.» (entrance = entrada, board = panel). En tu hoja marca: las palabras con -tion, con tr, con dr y con /j/, y una palabra con vocal larga.
+**Consigna exacta:** Lee en voz alta, frente a una persona de tu casa, este guion original: «Good morning. This year I visited a train station. There was a tree near the entrance. Yesterday I read the information board. Then I drank a drink and sat on a seat.» (entrance = entrada, board = panel). En tu hoja marca: las palabras con -tion, las que empiezan con tr, las que empiezan con dr, las que empiezan con /j/, y una palabra con vocal larga.
 
 **Referencia para modelar y corregir:** Con -tion: station, information. Con tr: train, tree. Con dr: drank, drink. Con /j/: year, yesterday. Vocal larga: seat o tree.
 
@@ -1022,7 +1022,7 @@ Respuesta: Year y yellow
 - **E2.** ¿Qué sonido empieza year?
 - **E3.** ¿Qué haces si te equivocas al hablar?
 
-**Actividad abierta.** Lee en voz alta, frente a una persona de tu casa, este guion original: «Good morning. This year I visited a train station. There was a tree near the entrance. Yesterday I read the information board. Then I drank a drink and sat on a seat.» (entrance = entrada, board = panel). En tu hoja marca: las palabras con -tion, con tr, con dr y con /j/, y una palabra con vocal larga.
+**Actividad abierta.** Lee en voz alta, frente a una persona de tu casa, este guion original: «Good morning. This year I visited a train station. There was a tree near the entrance. Yesterday I read the information board. Then I drank a drink and sat on a seat.» (entrance = entrada, board = panel). En tu hoja marca: las palabras con -tion, las que empiezan con tr, las que empiezan con dr, las que empiezan con /j/, y una palabra con vocal larga.
 
 **Solucionario razonado**
 

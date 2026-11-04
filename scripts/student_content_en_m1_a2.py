@@ -41,9 +41,9 @@ lesson(
         (ADULT + BIKE + " ¿Qué medio de transporte se menciona?", "La bicicleta", "El texto empieza con Why are more people using bicycles?"),
     ],
     [
-        (ADULT + PODCAST + " ¿Cuál es el propósito principal? A) convencer de dormir más B) informar cuántos teléfonos hay en el colegio", "A) convencer de dormir más", "Termina con una recomendación: put your phone away before bed."),
+        (ADULT + PODCAST + " ¿Cuál es el propósito principal? A) convencer de dormir más B) entretener con una historia sobre un teléfono perdido", "A) convencer de dormir más", "Termina con una recomendación: put your phone away before bed."),
         (ADULT + DESERT + " ¿Para qué piden caminar solo por los senderos?", "Para proteger las flores", "El guion dice walk only on the paths to protect the flowers."),
-        (ADULT + BIKE + " ¿Qué plan anuncia la ciudad? A) construir nuevas ciclovías el próximo año B) cobrar un permiso a los ciclistas", "A) construir nuevas ciclovías el próximo año", "El guion dice The city plans to build new lanes next year."),
+        (ADULT + BIKE + " ¿Qué plan anuncia la ciudad? A) construir nuevas ciclovías el próximo año B) prohibir las bicicletas en el centro", "A) construir nuevas ciclovías el próximo año", "El guion dice The city plans to build new lanes next year."),
     ],
     [
         (ADULT + PODCAST + " ¿Cuántas horas de sueño necesita un adolescente según el guion?", "Entre 8 y 10 horas", "Dice between eight and ten hours."),
@@ -56,7 +56,7 @@ lesson(
     ],
     [
         (ADULT + BIKE + " However introduce un contraste. ¿Qué dos ideas contrasta? A) las ventajas de la bicicleta y la falta de ciclovías seguras B) la bicicleta y el tren", "A) las ventajas de la bicicleta y la falta de ciclovías seguras", "Antes de however hay ventajas y después una falta."),
-        (ADULT + DESERT + " ¿Qué dos ideas relevantes tiene el texto? A) el desierto florece con más lluvia y los visitantes deben cuidar las flores B) el desierto es muy caluroso y el agua es salada", "A) el desierto florece con más lluvia y los visitantes deben cuidar las flores", "Son las ideas que sostienen el mensaje; el resto no se dice."),
+        (ADULT + DESERT + " ¿Qué dos ideas relevantes tiene el texto? A) el desierto florece con más lluvia y los visitantes deben cuidar las flores B) el desierto florece todos los años y los turistas pueden caminar donde quieran", "A) el desierto florece con más lluvia y los visitantes deben cuidar las flores", "Son las ideas que sostienen el mensaje; el resto no se dice."),
     ],
     [(ADULT + SWAP + " ¿Qué pueden hacer con la ropa que ya no usan?", "Llevarla a la feria de intercambio del barrio", "El guion dice bring them to a swap fair.")],
     [
@@ -104,7 +104,7 @@ lesson(
         (ADULT + OPIN + " ¿Qué opina Tomás del ajedrez? A) que es lento B) que es tranquilo", "A) que es lento", "Tomás dice But chess is slow."),
     ],
     [
-        arith(ADULT + GARDEN + " La lechuga creció bien después de dos semanas. Si cada semana tiene 7 días, ¿cuántos días pasaron?", "2*7", "Se multiplican las semanas por los días de cada semana."),
+        (ADULT + GARDEN + " ¿Qué resultado se vio después de dos semanas de recoger los caracoles?", "La lechuga creció bien", "El guion cierra con After two weeks, the lettuce grew well."),
         (ADULT + FAIR + " ¿Quién da el discurso de apertura?", "La Sra. Rivas", "Dice Ms. Rivas will give the opening speech."),
         (ADULT + BUSLATE + " ¿Por qué se atrasa el bus?", "A causa de la lluvia", "El guion dice because of the rain."),
     ],
@@ -168,7 +168,7 @@ lesson(
         (ADULT + CHORE + " ¿Qué dos personas ayudaron? A) su hermano y su hermana B) su madre y su padre", "A) su hermano y su hermana", "El guion dice Both my brother and my sister."),
     ],
     [
-        ("Elige el modismo que significa «muy fácil»: A) a piece of cake B) a slice of bread", "A) a piece of cake", "Solo la primera se usa con ese sentido figurado."),
+        ("Elige el modismo que significa «muy fácil»: A) a piece of cake B) a piece of pie", "A) a piece of cake", "Solo la primera se usa con ese sentido figurado."),
         ("Completa: «____ it was raining, we played football.» A) Although B) So that", "A) Although", "Hay un contraste entre la lluvia y jugar; so that no tiene sentido."),
     ],
     [(ADULT + "«Last night my cousins arrived from Osorno. Both Emilia and Joaquín brought gifts. We cooked dinner together so that everyone could rest early. Although it was late, we talked for an hour.» (cousins = primos, brought = trajeron, gifts = regalos, rest = descansar, late = tarde). ¿Para qué cocinaron juntos?", "Para que todos descansaran temprano", "So that introduce el propósito.")],

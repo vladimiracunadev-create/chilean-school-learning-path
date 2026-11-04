@@ -41,7 +41,7 @@ build(
         ("{F} ¿Qué hecho muestra un conflicto armado interno? A) Las revoluciones de 1851 y 1859 B) El Estrecho de Magallanes", "A) Las revoluciones de 1851 y 1859", "Fueron levantamientos contra el gobierno."),
         ("{F} ¿Por qué se dice que el voto censitario limitaba la república?", "Porque solo una minoría de hombres con renta o propiedad votaba", "El resto no participaba."),
         ("{F} Un compañero dice: «Entre 1831 y 1861 no hubo conflictos». Corrígelo.", "Hubo revoluciones en 1851 y 1859", "La consolidación tuvo conflictos."),
-        ("{F} ¿Cuál es la mejor pregunta histórica? A) ¿Cómo se consolidó la república y qué debates y conflictos aparecieron? B) ¿Qué presidente tenía mejor sombrero?", "A) ¿Cómo se consolidó la república y qué debates y conflictos aparecieron?", "La A se responde con hechos."),
+        ("{F} ¿Cuál es la mejor pregunta histórica? A) ¿Cómo se consolidó la república y qué debates y conflictos aparecieron? B) ¿Qué presidente fue el mejor de todos?", "A) ¿Cómo se consolidó la república y qué debates y conflictos aparecieron?", "La A se responde con hechos."),
         ("{F} Una línea de tiempo usa 1 cm = 10 años y va de 1830 a 1870. ¿Cuántos centímetros mide?", "4 cm", "Se divide el tramo de 40 años por 10."),
     ],
     ctx=("Un afiche escolar titula «La consolidación republicana: 30 años sin ningún problema». ¿Cómo lo corriges? A) Hubo orden institucional, pero también revoluciones y críticas al centralismo B) Es correcto", "A) Hubo orden institucional, pero también revoluciones y críticas al centralismo", "La ficha muestra conflictos en 1851 y 1859."),
@@ -67,7 +67,7 @@ build(
     prior=["Sé qué visiones había sobre el poder.", "Sé contextualizar una fuente.", "Sé separar descripción de interpretación."],
     explain=[
         "Un editorial opositor expresa la crítica de un periódico al gobierno. Un discurso parlamentario muestra el debate político dentro de las instituciones. Una ley electoral es una fuente normativa: fija reglas sobre quién puede votar. Cada una informa algo distinto, y juntas muestran que el debate político se había institucionalizado.",
-        "Para comparar, se contextualiza cada fuente. El editorial de 1850 critica que el gobierno decide todo y pide elecciones libres. El discurso de 1858 defiende un Ejecutivo fuerte por su experiencia de paz. La ley de 1874 amplía el voto: ya no pide renta o propiedad, sino saber leer y escribir. Esto muestra que el sistema cambió con las presiones.",
+        "Para comparar, se contextualiza cada fuente. El editorial de 1850 critica que el gobierno decide todo y pide elecciones libres. El discurso de 1858 defiende un Ejecutivo fuerte por su experiencia de paz. La ley de 1874 amplía el voto: en la práctica reemplaza el requisito de renta o propiedad por saber leer y escribir. Esto muestra que el sistema cambió con las presiones.",
         "Cada fuente tiene límites: las dos primeras expresan la postura de grupos, y la tercera describe una regla, no cuántos votaron en la práctica. Una conclusión debe ser proporcional: mostrar los argumentos del debate y reconocer que faltan voces, por ejemplo las de quienes no podían votar.",
     ],
     vocab=[("oficialista", "que apoya al gobierno"), ("opositor", "que se opone al gobierno"), ("anarquía", "ausencia de autoridad que genera desorden"), ("ley electoral", "ley que regula quién vota y cómo se elige"), ("alfabetismo", "capacidad de leer y escribir")],
@@ -86,7 +86,7 @@ build(
         ("{F} ¿Qué fuente es oficialista? A) La Fuente B B) La Fuente A", "A) La Fuente B", "Defiende el orden vigente."),
         ("{F} ¿Qué fuente es normativa? A) La Fuente C B) La Fuente A", "A) La Fuente C", "Fija reglas electorales."),
         ("{F} ¿Qué frase describe la Fuente C? A) Votan hombres adultos que sepan leer y escribir B) Votan todas las personas adultas", "A) Votan hombres adultos que sepan leer y escribir", "El resumen lo indica."),
-        ("{F} ¿Qué cambió en la ley de 1874 respecto al voto censitario? A) Ya no pide renta o propiedad, sino saber leer y escribir B) Pide más renta", "A) Ya no pide renta o propiedad, sino saber leer y escribir", "El requisito económico se reemplaza por el alfabetismo."),
+        ("{F} ¿Qué cambió en la ley de 1874 respecto al voto censitario? A) Ya no pide renta o propiedad, sino saber leer y escribir B) Exige tener propiedades y saber leer", "A) Ya no pide renta o propiedad, sino saber leer y escribir", "El requisito económico se reemplaza por el alfabetismo."),
         ("{F} ¿Por qué el discurso del senador no prueba que todos estaban conformes?", "Porque expresa la postura de los oficialistas y hay críticas como la del editorial", "Es la voz de un grupo."),
         ("{F} Un compañero concluye: «Con la ley de 1874 todos podían votar». ¿Qué corrección haces?", "La ley exigía ser hombre adulto y saber leer y escribir", "Seguían excluidas las mujeres y quienes no sabían leer."),
         ("{F} ¿Qué voz falta en las tres fuentes? A) La de quienes no podían votar B) La de otro senador", "A) La de quienes no podían votar", "Ninguna fuente las incluye."),
@@ -106,7 +106,7 @@ build(
 
 # ---------------------------------------------------------------- clase 3
 F = ("Ficha 3 (cuadro de cambio, continuidad y territorio; cifras de ejemplo redondeadas). "
-     "Voto: en 1833 votaban hombres con renta o propiedad que sabían leer; en 1874 bastaba ser hombre adulto y saber leer y escribir. "
+     "Voto: en 1833 votaban hombres con renta o propiedad que sabían leer; en 1874 bastaba, en la práctica, ser hombre adulto y saber leer y escribir. "
      "Cifras de ejemplo: en una elección de 1860, 20.000 personas inscritas para votar en un país de 1.500.000 habitantes. "
      "Territorio: Chile defendió su soberanía en el sur al tomar posesión del Estrecho de Magallanes en 1843 y enfrentó a la Confederación Perú-Boliviana en el norte, 1836–1839. "
      "Centralismo: las decisiones importantes se tomaban en Santiago; en 1851 hubo levantamientos, entre ellos uno que surgió en Concepción, y en 1859 otro en el norte, en Atacama y Coquimbo.")
@@ -188,7 +188,7 @@ build(
         ("{F} Un compañero dice: «Todos aceptaban el poder del Ejecutivo». Refútalo.", "El liberal quería limitarlo y el provinciano criticaba el centralismo", "Hubo críticas al poder del Ejecutivo."),
         ("{F} ¿Qué voz falta para completar la perspectiva de los excluidos del voto? A) La de una mujer que no podía votar B) La de otro gobernante", "A) La de una mujer que no podía votar", "Ningún actor de la ficha es mujer."),
         ("{F} ¿Qué conclusión es más equilibrada? A) Los conflictos mostraron visiones distintas sobre el poder, el territorio y el voto B) Todos tenían el mismo interés", "A) Los conflictos mostraron visiones distintas sobre el poder, el territorio y el voto", "Reúne las cuatro voces."),
-        ("{F} ¿Qué pregunta ayuda a contrastar actores? A) ¿Qué quiere, qué le conviene y qué teme cada uno? B) ¿Quién escribía mejor?", "A) ¿Qué quiere, qué le conviene y qué teme cada uno?", "Es el método de contraste."),
+        ("{F} ¿Qué pregunta ayuda a contrastar actores? A) ¿Qué quiere, qué le conviene y qué teme cada uno? B) ¿Qué actor tiene la razón y cuál se equivoca?", "A) ¿Qué quiere, qué le conviene y qué teme cada uno?", "Es el método de contraste."),
     ],
     ctx=("En un debate escolar, un grupo defiende un presidente con más poder y otro defiende un Congreso más fuerte. ¿Qué voz usa el segundo grupo? A) La del liberal opositor B) La del gobernante conservador", "A) La del liberal opositor", "Pide limitar al Ejecutivo."),
     sc=[("En el debate sobre el Ejecutivo y el Legislativo, ¿a qué se llama atribuciones de un presidente?", "A los poderes que la ley le da", "Así se aplica el término en la clase."),

@@ -162,7 +162,7 @@ Respuesta: P(cara y par) = 1/4
 
 *Razonamiento y análisis*
 
-- **Z1.** Julia dice: «Al lanzar dos monedas hay 3 resultados, 0, 1 o 2 caras, así que la probabilidad de una cara es 1/3». ¿Tiene razón? Responde sí o no.
+- **Z1.** Julia dice: «Al lanzar dos dados la suma puede ser 2, 3, …, 12, o sea 11 resultados, así que la probabilidad de sumar 7 es 1/11». ¿Tiene razón? Responde sí o no.
 - **Z2.** Daniel dice que la probabilidad de sacar una ficha roja de una bolsa con 3 rojas y 5 azules es 1/2 porque «o sale roja o no sale». ¿Tiene razón? Responde sí o no.
 
 *Desafío*
@@ -193,7 +193,7 @@ Respuesta: P(cara y par) = 1/4
 - **A1.** 1/4. Los múltiplos de 3 son 3 y 6, o sea 2 de 8.
 - **A2.** 5/36. Hay 5 favorables de 36 posibles y la fracción ya no se simplifica.
 - **A3.** 1/3. El espacio muestral tiene 6 resultados; favorables: cara-rojo y cara-verde, o sea 2.
-- **Z1.** No. Hay 4 resultados igualmente probables (CC, CS, SC, SS) y «una cara» son 2 de ellos, o sea 1/2.
+- **Z1.** No. Las 11 sumas no son igualmente probables: sumar 7 ocurre de 6 formas entre los 36 pares posibles, o sea 1/6.
 - **Z2.** No. Los dos resultados no son igualmente probables: hay más fichas azules que rojas.
 - **D1.** 3/4. Hay 12 − 5 − 4 = 3 verdes, así que no verdes son 9 de 12, que es 3/4.
 - **D2.** 2. Con 2 más hay 5 rojas de 10 fichas, que es 1/2.
@@ -271,7 +271,7 @@ Respuesta: P(cara y par) = 1/4
 
 **Recurso listo para usar:** Cuaderno cuadriculado, lápiz, regla y, si quieres, una calculadora. Todos los datos que necesitas están escritos en cada ejercicio.
 
-**Consigna exacta:** Una bolsa de ejemplo tiene 10 fichas numeradas del 1 al 10. Sin sacar ninguna, escribe los resultados favorables y la probabilidad de cada uno de estos eventos: «número par o mayor que 7» y «número menor que 3 o mayor que 8». Indica en cada caso si los eventos son incompatibles y qué regla usaste. Si quieres comprobar, anota los números en papeles, sácalos de uno en uno con reposición 20 veces y compara.
+**Consigna exacta:** Una bolsa de ejemplo tiene 10 fichas numeradas del 1 al 10. Sin sacar ninguna, escribe los resultados favorables y la probabilidad de cada uno de estos eventos: «número par o mayor que 7» y «número menor que 3 o mayor que 8». Indica en cada caso si los eventos son incompatibles y qué regla usaste. Si quieres comprobar, anota los números en papeles, sácalos de uno en uno, devolviendo cada papel antes de sacar el siguiente, 20 veces y compara.
 
 **Referencia para modelar y corregir:** «Par o mayor que 7»: par {2, 4, 6, 8, 10}, mayor que 7 {8, 9, 10}, comparten 8 y 10. P = 5/10 + 3/10 − 2/10 = 6/10 = 3/5; no son incompatibles. «Menor que 3 o mayor que 8»: {1, 2} y {9, 10}, incompatibles: P = 2/10 + 2/10 = 4/10 = 2/5.
 
@@ -389,7 +389,7 @@ Respuesta: P(par o mayor que 4) = 2/3
 - **E2.** Se lanza un dado. ¿Cuál es la probabilidad de obtener 3, 4 o 5? Responde como fracción irreductible.
 - **E3.** Si dos eventos son incompatibles, ¿cuánto vale P(A y B)?
 
-**Actividad abierta.** Una bolsa de ejemplo tiene 10 fichas numeradas del 1 al 10. Sin sacar ninguna, escribe los resultados favorables y la probabilidad de cada uno de estos eventos: «número par o mayor que 7» y «número menor que 3 o mayor que 8». Indica en cada caso si los eventos son incompatibles y qué regla usaste. Si quieres comprobar, anota los números en papeles, sácalos de uno en uno con reposición 20 veces y compara.
+**Actividad abierta.** Una bolsa de ejemplo tiene 10 fichas numeradas del 1 al 10. Sin sacar ninguna, escribe los resultados favorables y la probabilidad de cada uno de estos eventos: «número par o mayor que 7» y «número menor que 3 o mayor que 8». Indica en cada caso si los eventos son incompatibles y qué regla usaste. Si quieres comprobar, anota los números en papeles, sácalos de uno en uno, devolviendo cada papel antes de sacar el siguiente, 20 veces y compara.
 
 **Solucionario razonado**
 
@@ -789,7 +789,7 @@ Respuesta: P(una de cada color) = 12/25
 *Razonamiento y análisis*
 
 - **Z1.** En 20 lanzamientos de dos monedas salió dos caras 8 veces (40 %). Ariel dice: «Esto prueba que la probabilidad teórica 1/4 está mal». ¿Tiene razón? Responde sí o no.
-- **Z2.** Claudia calcula P(al menos una cara en dos lanzamientos) como 1/2 + 1/2 = 1. ¿Está bien? Responde sí o no.
+- **Z2.** Claudia calcula la probabilidad de obtener al menos un 6 en dos lanzamientos de un dado como 1/6 + 1/6 = 1/3. ¿Está bien? Responde sí o no.
 
 *Desafío*
 
@@ -820,7 +820,7 @@ Respuesta: P(una de cada color) = 12/25
 - **A2.** 25 veces. La cuarta parte de 100 lanzamientos. Cálculo: 100 ÷ 4 = 25.
 - **A3.** 35%. Se divide 7 por 20: 7 ÷ 20 = 0,35, o sea 35 %.
 - **Z1.** No. Con solo 20 repeticiones es normal que el resultado varíe respecto de 25 %.
-- **Z2.** No. Sumó dos eventos que pueden ocurrir juntos sin restar lo común; el valor correcto es 3/4.
+- **Z2.** No. Sumó dos eventos que pueden ocurrir juntos sin restar lo común; el valor correcto es 1 − 25/36 = 11/36.
 - **D1.** 3/8. Hay tres caminos (CSS, SCS, SSC) con probabilidad 1/8 cada uno; se suman: 3/8.
 - **D2.** 7/15. Rojo-rojo: 4/10 × 3/9 = 12/90. Azul-azul: 6/10 × 5/9 = 30/90. Se suman: 42/90, o sea 7/15.
 - **S1.** 15/16. Perder es obtener cuatro caras: 1/16. Ganar es el complemento: 15/16.

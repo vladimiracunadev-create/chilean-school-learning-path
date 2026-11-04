@@ -62,7 +62,7 @@ lesson(
         mc(f"El texto {PODC} tiene una sección llamada What you need. Solo quieres saber qué equipo comprar. ¿Qué propósito y qué estrategia eliges?", "Encontrar un dato: ir directo a la sección What you need", ["Leer cada palabra desde el inicio sin saltar", "Leer solo la última línea"], "Solo necesitas un dato, así que vas a la sección que lo contiene."),
     ],
     [
-        mc(f"Ves: {STARS} {GSTARS} Luis predice: «The text will teach how to cook beans.» Ema predice: «The text will explain why the desert sky is clear for watching stars.» ¿Quién tiene más apoyo en las pistas?", "Ema, porque el título, el subtítulo y la imagen hablan de estrellas y de un cielo despejado", ["Luis, porque los frijoles se cocinan en el norte", "Ninguno, porque no se puede predecir"], "Las pistas del texto apoyan el tema del cielo."),
+        mc(f"Ves: {STARS} {GSTARS} Luis predice: «The text will teach how to cook beans.» Ema predice: «The text will explain why the desert sky is clear for watching stars.» ¿Quién tiene más apoyo en las pistas?", "Ema, porque el título, el subtítulo y la imagen hablan de estrellas y de un cielo despejado", ["Luis, porque en el norte se cocinan muchos porotos", "Ninguno, porque no se puede predecir"], "Las pistas del texto apoyan el tema del cielo."),
         mc(f"Predijiste que el texto {STARS} hablaría de telescopios muy caros. El primer párrafo dice que se puede mirar el cielo sin telescopio. ¿Qué haces?", "Cambio mi predicción con la nueva evidencia", ["Mantengo mi predicción igual", "Dejo de leer"], "La estrategia exige revisar la predicción cuando el texto la contradice."),
     ],
     [
@@ -166,13 +166,13 @@ GUMB = "(umbrella = paraguas; rain jacket = chaqueta de lluvia; leaving = salir;
 ENV = "«Lola opened the envelope and read the first line. She froze. Then she laughed and hugged her sister. The letter said: Dear Lola, you won the school drawing contest!»"
 GENV = "(envelope = sobre; froze = se quedó inmóvil; hugged = abrazó; won = ganaste; contest = concurso)"
 REST = "«The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.»"
-GREST = "(restaurant = restaurante; waiter = camarero; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró)"
+GREST = "(restaurant = restaurante; waiter = garzón; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró)"
 LIST = "«Gonzalo's hands were shaking. He read the list on the wall three times, then smiled and shouted: Yes! He ran to call his mother.»"
 GLIST = "(shaking = temblando; list = lista; wall = muro; shouted = gritó; ran = corrió)"
 SWIM = "«Camila's room was full of medals and photos of swimming pools. A towel was still wet on the chair.»"
 GSWIM = "(medals = medallas; swimming pools = piscinas; towel = toalla; wet = mojada)"
-FILM = "«Carlos was holding two tickets and checking the clock. His friend arrived and said, Sorry I am late. Carlos sighed: The film started ten minutes ago.»"
-GFILM = "(tickets = entradas; clock = reloj de pared; film = película; started = empezó; ago = hace)"
+FILM = "«Carlos was holding two tickets and checking the clock. His friend arrived and said, Sorry I am late. Carlos sighed: The movie started ten minutes ago.»"
+GFILM = "(tickets = entradas; clock = reloj de pared; movie = película; started = empezó; ago = hace)"
 GATE = "«Notice: the school bus will leave from the north gate today because the main gate is closed for repairs. Please bring your card.»"
 GGATE = "(notice = aviso; gate = portón; closed = cerrado; repairs = reparaciones; card = tarjeta)"
 KITCH = "«Julia walked into the kitchen. The oven was on, the table had flour on it, and her grandfather was wearing an apron. Julia smiled and said, It smells wonderful.»"
@@ -204,7 +204,7 @@ lesson(
         mc("Probably significa", "probablemente", ["rápidamente", "nunca"], "Probably expresa una inferencia con buenas pistas."),
     ],
     [
-        mc(f"Lee: {REST} {GREST} ¿Qué se puede inferir del restaurante?", "Probablemente han llegado pocos clientes", ["El restaurante está cerrado para siempre", "El cocinero está enojado con el camarero"], "Está casi vacío, el camarero mira la puerta y el cocinero suspira."),
+        mc(f"Lee: {REST} {GREST} ¿Qué se puede inferir del restaurante?", "Probablemente han llegado pocos clientes", ["El restaurante está cerrado para siempre", "El cocinero está enojado con el garzón"], "Está casi vacío, el garzón mira la puerta y el cocinero suspira."),
         mc(f"Lee: {REST} {GREST} ¿Qué pista apoya mejor la inferencia de que hay pocos clientes?", "The restaurant was almost empty at lunch time", ["The cook came out of the kitchen", "The tray had fresh bread"], "Casi vacío a la hora del almuerzo es la pista más directa."),
         mc(f"Lee: {REST} {GREST} ¿Qué oración expresa la inferencia con evidencia?", "The restaurant is probably quiet today, because it is almost empty", ["The restaurant is a big building", "The cook is always sad"], "Une probably con la pista del texto."),
     ],
@@ -215,7 +215,7 @@ lesson(
     ],
     [
         mc(f"Lee: {SWIM} {GSWIM} ¿Cuál inferencia tiene mejor apoyo?", "Camila probablemente nada, porque hay medallas y fotos de piscinas", ["Camila odia el agua", "Camila es profesora"], "Las medallas y las piscinas apoyan la idea de que nada."),
-        mc(f"Dos lectores leen: {SWIM} Lector 1: «Camila swam today, because the towel is still wet.» Lector 2: «Camila swam last week.» ¿Quién tiene mejor apoyo?", "El lector 1, porque una toalla todavía mojada indica algo reciente", ["El lector 2, porque hay medallas", "Ninguno, porque el texto no lo dice"], "Una toalla mojada se seca con rapidez, así que lo ocurrido es reciente."),
+        mc(f"Dos lectores leen: {SWIM} Lector 1: «Camila probably swam today, because the towel is still wet.» Lector 2: «Camila swam last week.» ¿Quién tiene mejor apoyo?", "El lector 1, porque una toalla todavía mojada indica algo reciente", ["El lector 2, porque hay medallas", "Ninguno, porque el texto no lo dice"], "Una toalla mojada se seca con rapidez, así que lo ocurrido es reciente."),
     ],
     [
         mc(f"Lee: {FILM} {GFILM} ¿Qué se puede inferir?", "Probablemente ya se perdieron el comienzo de la película", ["La película ya terminó", "Carlos está enojado con las entradas"], "La película empezó hace diez minutos y recién llegó el amigo."),
@@ -351,7 +351,7 @@ lesson(
     [
         mc(f"Lee: {LIBW} {GLIBW} ¿Qué inferencia tiene mejor apoyo sobre por qué aumentó el número de niños?", "Probablemente el servicio es útil y los niños lo disfrutan", ["El bus se hizo más grande", "Hay menos aldeas"], "Subió de diez a ochenta y hay voluntarios que leen cuentos."),
         mc(f"Un compañero resume {LIBW} así: «Mr. Soto has a restaurant in Coquimbo.» ¿Qué corrección haces?", "Mr. Soto es un profesor jubilado que tiene una biblioteca móvil", ["Está bien, porque Coquimbo es una ciudad", "Mr. Soto vive en Valparaíso"], "El restaurante no aparece en el texto."),
-        mc(f"Lee: {LIBW} {GLIBW} ¿Qué ocurrió primero, según el párrafo 3?", "Al comienzo llegaron solo diez niños", ["Los voluntarios leyeron cuentos en voz alta a ochenta niños", "El bus visitó seis aldeas"], "Los tres hechos aparecen en el párrafo 3 en orden: At first, y luego Now."),
+        mc(f"Lee: {LIBW} {GLIBW} ¿Qué ocurrió primero, según el párrafo 3?", "Al comienzo llegaron solo diez niños", ["Ahora ochenta niños visitan el bus cada semana", "Los voluntarios leen cuentos en voz alta"], "El párrafo 3 usa At first para el comienzo (diez niños) y Now para lo de hoy (ochenta niños)."),
     ],
     [
         arith(f"Lee: {LIBW} Si ahora son 80 niños por semana y al comienzo eran 10, ¿cuántos niños más llegan ahora?", "80-10", "Se resta la cantidad inicial a la actual.", " niños"),

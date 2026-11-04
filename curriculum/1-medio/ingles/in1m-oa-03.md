@@ -148,19 +148,19 @@ Respuesta: Convencer de comprar; ofrece un cable gratis
 
 - **R1.** Un adulto lee en voz alta (tapa el guion): «Hello, everyone. In my talk I will explain why cities plant trees along the streets. Trees give shade, clean the air a little and make streets calmer. They also give homes to birds. So I believe every neighbourhood needs more trees.» (shade = sombra, clean = limpian, calmer = más tranquilas, birds = aves, neighbourhood = barrio, I believe = creo) ¿Cuál es el tema? A) cómo se pintan las bancas B) por qué se plantan árboles en las calles
 - **R2.** Un adulto lee en voz alta (tapa el guion): «Do you have old books at home? Bring them to the school library next week. We will send them to a rural school that needs books. Every book makes a difference.» (old = viejos, bring = trae, rural = rural, needs = necesita, makes a difference = hace una diferencia) ¿Cuál es el propósito? A) invitar a donar libros B) vender libros usados
-- **R3.** Un adulto lee en voz alta (tapa el guion): «Lucas: We need to choose a topic for the science project. Emma: What about solar energy? Lucas: Good idea, but we need a model. Emma: We can build a small one with cardboard and foil. Lucas: Great, let's start on Monday.» (topic = tema, solar energy = energía solar, model = maqueta, cardboard = cartón, foil = papel de aluminio) ¿Quiénes hablan y de qué? A) dos estudiantes que planifican un proyecto de ciencias B) un profesor que explica una lección
+- **R3.** Un adulto lee en voz alta (tapa el guion): «Lucas: We need to choose a topic for the science project. Emma: What about solar energy? Lucas: Good idea, but we need a model. Emma: We can build a small one with cardboard and foil. Lucas: Great, let's start on Monday.» (topic = tema, solar energy = energía solar, model = maqueta, cardboard = cartón, foil = papel de aluminio) ¿Quiénes hablan y de qué? A) dos estudiantes que discuten la fecha de entrega B) dos estudiantes que planifican un proyecto de ciencias
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Hello, everyone. In my talk I will explain why cities plant trees along the streets. Trees give shade, clean the air a little and make streets calmer. They also give homes to birds. So I believe every neighbourhood needs more trees.» (shade = sombra, clean = limpian, calmer = más tranquilas, birds = aves, neighbourhood = barrio, I believe = creo) ¿Cuál de estas ideas es relevante para el tema? A) los árboles dan sombra y hogar a las aves B) las calles se pintan de verde
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Hello, everyone. In my talk I will explain why cities plant trees along the streets. Trees give shade, clean the air a little and make streets calmer. They also give homes to birds. So I believe every neighbourhood needs more trees.» (shade = sombra, clean = limpian, calmer = más tranquilas, birds = aves, neighbourhood = barrio, I believe = creo) ¿Cuál de estas ideas es relevante para el tema? A) los árboles dan sombra y hogar a las aves B) los autos hacen ruido en las calles
 - **C2.** Un adulto lee en voz alta (tapa el guion): «The city council announced that the main square will be closed on Sunday for a cleaning day. Volunteers will paint benches and plant flowers. Cars cannot enter the square from eight to four.» (city council = municipalidad, announced = anunció, square = plaza, benches = bancas, plant = plantar, enter = entrar) ¿Cuál es el propósito? A) contar una anécdota B) informar un cambio de uso de la plaza
-- **C3.** Un adulto lee en voz alta (tapa el guion): «Lucas: We need to choose a topic for the science project. Emma: What about solar energy? Lucas: Good idea, but we need a model. Emma: We can build a small one with cardboard and foil. Lucas: Great, let's start on Monday.» (topic = tema, solar energy = energía solar, model = maqueta, cardboard = cartón, foil = papel de aluminio) ¿Qué idea es relevante para el plan? A) construir una maqueta pequeña con cartón y papel de aluminio B) elegir el tema de otro curso
+- **C3.** Un adulto lee en voz alta (tapa el guion): «Lucas: We need to choose a topic for the science project. Emma: What about solar energy? Lucas: Good idea, but we need a model. Emma: We can build a small one with cardboard and foil. Lucas: Great, let's start on Monday.» (topic = tema, solar energy = energía solar, model = maqueta, cardboard = cartón, foil = papel de aluminio) ¿Qué idea es relevante para el plan? A) que el proyecto será sobre energía eólica B) construir una maqueta pequeña con cartón y papel de aluminio
 
 *Aplicación*
 
-- **A1.** Un adulto lee en voz alta (tapa el guion): «Hello, everyone. In my talk I will explain why cities plant trees along the streets. Trees give shade, clean the air a little and make streets calmer. They also give homes to birds. So I believe every neighbourhood needs more trees.» (shade = sombra, clean = limpian, calmer = más tranquilas, birds = aves, neighbourhood = barrio, I believe = creo) ¿Cuál es el propósito principal? A) explicar y convencer B) entretener con un cuento
+- **A1.** Un adulto lee en voz alta (tapa el guion): «Hello, everyone. In my talk I will explain why cities plant trees along the streets. Trees give shade, clean the air a little and make streets calmer. They also give homes to birds. So I believe every neighbourhood needs more trees.» (shade = sombra, clean = limpian, calmer = más tranquilas, birds = aves, neighbourhood = barrio, I believe = creo) ¿Cuál es el propósito principal? A) informar un cambio de la municipalidad B) explicar y convencer
 - **A2.** Un adulto lee en voz alta (tapa el guion): «The city council announced that the main square will be closed on Sunday for a cleaning day. Volunteers will paint benches and plant flowers. Cars cannot enter the square from eight to four.» (city council = municipalidad, announced = anunció, square = plaza, benches = bancas, plant = plantar, enter = entrar) ¿Qué dos ideas son relevantes para alguien que quiere ir en auto el domingo? A) la plaza está cerrada a los autos y es de ocho a cuatro B) los voluntarios plantan flores
-- **A3.** Un adulto lee en voz alta (tapa el guion): «Do you have old books at home? Bring them to the school library next week. We will send them to a rural school that needs books. Every book makes a difference.» (old = viejos, bring = trae, rural = rural, needs = necesita, makes a difference = hace una diferencia) ¿Cuál sería un buen título? A) Cómo hacer una biblioteca de cartón B) Dona tus libros viejos
+- **A3.** Un adulto lee en voz alta (tapa el guion): «Do you have old books at home? Bring them to the school library next week. We will send them to a rural school that needs books. Every book makes a difference.» (old = viejos, bring = trae, rural = rural, needs = necesita, makes a difference = hace una diferencia) ¿Cuál sería un buen título? A) Una biblioteca nueva para la escuela rural B) Dona tus libros viejos
 
 *Razonamiento y análisis*
 
@@ -169,12 +169,12 @@ Respuesta: Convencer de comprar; ofrece un cable gratis
 
 *Desafío*
 
-- **D1.** Un adulto lee en voz alta (tapa el guion): «Today I want to tell you about my pet turtle. She is twelve years old, eats lettuce and sleeps under a lamp. Turtles can live a very long time, so I have to take care of her for many years.» (turtle = tortuga, lettuce = lechuga, lamp = lámpara, live = vivir, take care of = cuidar) ¿Cuál es el tema? A) la historia de las tortugas marinas B) cómo cuidar a su tortuga
+- **D1.** Un adulto lee en voz alta (tapa el guion): «Today I want to tell you about my pet turtle. She is twelve years old, eats lettuce and sleeps under a lamp. Turtles can live a very long time, so I have to take care of her for many years.» (turtle = tortuga, lettuce = lechuga, lamp = lámpara, live = vivir, take care of = cuidar) ¿Cuál es el tema? A) su tortuga mascota y los cuidados que necesita B) cuánto viven las tortugas en la naturaleza
 - **D2.** Un adulto lee en voz alta (tapa el guion): «Today I want to tell you about my pet turtle. She is twelve years old, eats lettuce and sleeps under a lamp. Turtles can live a very long time, so I have to take care of her for many years.» (turtle = tortuga, lettuce = lechuga, lamp = lámpara, live = vivir, take care of = cuidar) ¿Qué idea es un detalle y no la idea central? A) tiene doce años B) hay que cuidarla por muchos años
 
 *Situaciones auténticas*
 
-- **S1.** Un adulto lee en voz alta (tapa el guion): «Good morning, students. Tomorrow is Free Colours Day. Wear your favourite colours and bring one thousand pesos for the class trip fund.» (free colours day = día de colores libres, wear = usa, favourite = favoritos, fund = fondo) ¿Cuál es el propósito? A) avisar una actividad y pedir un aporte en dinero B) vender uniformes
+- **S1.** Un adulto lee en voz alta (tapa el guion): «Good morning, students. Tomorrow is Free Colours Day. Wear your favourite colours and bring one thousand pesos for the class trip fund.» (free colours day = día de colores libres, wear = usa, favourite = favoritos, fund = fondo) ¿Cuál es el propósito? A) pedir que todos usen el uniforme B) avisar una actividad y pedir un aporte en dinero
 
 *Autoevaluación*
 
@@ -188,18 +188,18 @@ Respuesta: Convencer de comprar; ofrece un cable gratis
 
 - **R1.** B) por qué se plantan árboles en las calles. La frase why cities plant trees along the streets anuncia el tema.
 - **R2.** A) invitar a donar libros. Dice Bring them to the school library para enviarlos a una escuela rural.
-- **R3.** A) dos estudiantes que planifican un proyecto de ciencias. Se turnan para decidir el tema y la maqueta.
+- **R3.** B) dos estudiantes que planifican un proyecto de ciencias. Se turnan para decidir el tema y la maqueta.
 - **C1.** A) los árboles dan sombra y hogar a las aves. Son razones que apoyan por qué se plantan árboles.
 - **C2.** B) informar un cambio de uso de la plaza. Anuncia que el domingo la plaza estará cerrada a los autos.
-- **C3.** A) construir una maqueta pequeña con cartón y papel de aluminio. Es lo que acuerdan para el proyecto sobre energía solar.
-- **A1.** A) explicar y convencer. Explica razones y termina con So I believe every neighbourhood needs more trees.
+- **C3.** B) construir una maqueta pequeña con cartón y papel de aluminio. Es lo que acuerdan para el proyecto sobre energía solar.
+- **A1.** B) explicar y convencer. Explica razones y termina con So I believe every neighbourhood needs more trees.
 - **A2.** A) la plaza está cerrada a los autos y es de ocho a cuatro. Son las restricciones que cambian lo que esa persona puede hacer.
 - **A3.** B) Dona tus libros viejos. Resume el propósito y el tema.
 - **Z1.** A) no: la idea principal es donar libros para una escuela rural. La biblioteca es solo el lugar de entrega.
 - **Z2.** B) no: informa un cierre y una actividad de limpieza. No hay órdenes de compra ni promesas: solo información.
-- **D1.** B) cómo cuidar a su tortuga. Cuenta qué come, dónde duerme y por qué debe cuidarla.
+- **D1.** A) su tortuga mascota y los cuidados que necesita. Cuenta qué come, dónde duerme y por qué debe cuidarla.
 - **D2.** A) tiene doce años. La edad es un dato; la razón de cuidarla muchos años sostiene el mensaje final.
-- **S1.** A) avisar una actividad y pedir un aporte en dinero. Anuncia el día de colores libres y pide mil pesos para el paseo.
+- **S1.** B) avisar una actividad y pedir un aporte en dinero. Anuncia el día de colores libres y pide mil pesos para el paseo.
 - **E1.** La razón por la que se habla, como explicar, convencer o invitar. Responde para qué se dice.
 - **E2.** Es la que sostiene el tema: si se saca, el texto cambia. No es un detalle secundario.
 - **E3.** De qué trata, dicho en pocas palabras. Se resume en una frase corta.
@@ -572,14 +572,14 @@ Respuesta: Los gustos de Ana (verano) y de su hermano (invierno)
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Online classes are flexible. On the other hand, students can feel alone. Face-to-face classes are good for making friends, although they need travel time.» (online = en línea, flexible = flexibles, on the other hand = por otro lado, alone = solos, face-to-face = presenciales, travel time = tiempo de viaje) ¿Cuál es una ventaja de las clases en línea? A) son flexibles B) hacen perder amigos
-- **C2.** Un adulto lee en voz alta (tapa el guion): «Online classes are flexible. On the other hand, students can feel alone. Face-to-face classes are good for making friends, although they need travel time.» (online = en línea, flexible = flexibles, on the other hand = por otro lado, alone = solos, face-to-face = presenciales, travel time = tiempo de viaje) ¿Qué contraste hay con las clases presenciales? A) son siempre más baratas B) sirven para hacer amigos, aunque requieren tiempo de viaje
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Online classes are flexible. On the other hand, students can feel alone. Face-to-face classes are good for making friends, although they need travel time.» (online = en línea, flexible = flexibles, on the other hand = por otro lado, alone = solos, face-to-face = presenciales, travel time = tiempo de viaje) ¿Cuál es una ventaja de las clases en línea? A) son flexibles B) permiten hacer amigos más fácilmente
+- **C2.** Un adulto lee en voz alta (tapa el guion): «Online classes are flexible. On the other hand, students can feel alone. Face-to-face classes are good for making friends, although they need travel time.» (online = en línea, flexible = flexibles, on the other hand = por otro lado, alone = solos, face-to-face = presenciales, travel time = tiempo de viaje) ¿Qué contraste hay con las clases presenciales? A) sirven para hacer amigos, aunque requieren tiempo de viaje B) son flexibles, aunque requieren tiempo de viaje
 - **C3.** Un adulto lee en voz alta (tapa el guion): «The weather forecast said it would be sunny. However, in the afternoon, dark clouds arrived, and it rained. Instead of the picnic, we ate at home.» (forecast = pronóstico, sunny = soleado, clouds = nubes, rained = llovió, picnic = picnic) ¿Qué dijo el pronóstico y qué ocurrió? A) soleado, pero llovió B) lluvia, pero salió el sol
 
 *Aplicación*
 
-- **A1.** Un adulto lee en voz alta (tapa el guion): «My cousin Leo loves spicy food, while I can only eat mild flavours. Instead of ordering the hot sauce, we shared a mild soup.» (spicy = picante, mild = suave, flavours = sabores, ordering = pedir, sauce = salsa, shared = compartimos, soup = sopa) ¿En lugar de qué compartieron una sopa suave? A) de pedir la salsa picante B) de pedir un postre
-- **A2.** Un adulto lee en voz alta (tapa el guion): «The weather forecast said it would be sunny. However, in the afternoon, dark clouds arrived, and it rained. Instead of the picnic, we ate at home.» (forecast = pronóstico, sunny = soleado, clouds = nubes, rained = llovió, picnic = picnic) ¿Qué hicieron en lugar del picnic? A) comieron en casa B) fueron al cine
+- **A1.** Un adulto lee en voz alta (tapa el guion): «My cousin Leo loves spicy food, while I can only eat mild flavours. Instead of ordering the hot sauce, we shared a mild soup.» (spicy = picante, mild = suave, flavours = sabores, ordering = pedir, sauce = salsa, shared = compartimos, soup = sopa) ¿En lugar de qué compartieron una sopa suave? A) de pedir la salsa picante B) de pedir otra sopa
+- **A2.** Un adulto lee en voz alta (tapa el guion): «The weather forecast said it would be sunny. However, in the afternoon, dark clouds arrived, and it rained. Instead of the picnic, we ate at home.» (forecast = pronóstico, sunny = soleado, clouds = nubes, rained = llovió, picnic = picnic) ¿Qué hicieron en lugar del picnic? A) comieron en casa B) comieron en un restaurante
 - **A3.** Un adulto lee en voz alta (tapa el guion): «My cousin Leo loves spicy food, while I can only eat mild flavours. Instead of ordering the hot sauce, we shared a mild soup.» (spicy = picante, mild = suave, flavours = sabores, ordering = pedir, sauce = salsa, shared = compartimos, soup = sopa) ¿Qué palabra compara los gustos de Leo y del narrador? A) instead B) while
 
 *Razonamiento y análisis*
@@ -610,7 +610,7 @@ Respuesta: Los gustos de Ana (verano) y de su hermano (invierno)
 - **R2.** A) but. But une lo bueno (rápido) con la desventaja (cuesta más).
 - **R3.** A) sabores suaves. Dice I can only eat mild flavours.
 - **C1.** A) son flexibles. Dice Online classes are flexible.
-- **C2.** B) sirven para hacer amigos, aunque requieren tiempo de viaje. Although marca la desventaja de viajar.
+- **C2.** A) sirven para hacer amigos, aunque requieren tiempo de viaje. Although marca la desventaja de viajar.
 - **C3.** A) soleado, pero llovió. However marca el cambio entre lo esperado y lo ocurrido.
 - **A1.** A) de pedir la salsa picante. Instead of ordering the hot sauce.
 - **A2.** A) comieron en casa. Dice Instead of the picnic, we ate at home.
@@ -618,7 +618,7 @@ Respuesta: Los gustos de Ana (verano) y de su hermano (invierno)
 - **Z1.** B) son cómodos. Los zapatos baratos son los que no son cómodos; los caros sí.
 - **Z2.** A) On the other hand, students can feel alone. Presenta el otro lado: el estudiante puede sentirse solo.
 - **D1.** B) no son cómodos. Dice they are not comfortable; que cuesten menos es una ventaja.
-- **D2.** B) un gato, porque su departamento es pequeño. However introduce la razón: her flat is small.
+- **D2.** B) un gato, porque su departamento es pequeño. Instead of a dog significa en lugar de un perro; la razón sigue a so: her flat is small.
 - **S1.** A) porque era más pequeña. La azul era demasiado grande; la roja, más pequeña.
 - **E1.** Sin embargo. Introduce una idea que contrasta con la anterior.
 - **E2.** Para comparar sus diferencias: mientras que. Opone dos gustos o acciones.
@@ -776,9 +776,9 @@ Respuesta: Se agotó la batería; un compañero prestó un cargador
 
 *Recuperación*
 
-- **R1.** Un adulto lee en voz alta (tapa el guion): «Nico: I can't sleep early because I use my phone in bed. Mara: Why don't you leave it in another room? Nico: Good idea. I'll try tonight.» (sleep = dormir, early = temprano, bed = cama, leave = deja, another room = otra pieza, try = probar) ¿Cuál es el problema de Nico? A) perdió su teléfono B) no puede dormir temprano
+- **R1.** Un adulto lee en voz alta (tapa el guion): «Nico: I can't sleep early because I use my phone in bed. Mara: Why don't you leave it in another room? Nico: Good idea. I'll try tonight.» (sleep = dormir, early = temprano, bed = cama, leave = deja, another room = otra pieza, try = probar) ¿Cuál es el problema de Nico? A) su teléfono está roto B) no puede dormir temprano
 - **R2.** Un adulto lee en voz alta (tapa el guion): «Nico: I can't sleep early because I use my phone in bed. Mara: Why don't you leave it in another room? Nico: Good idea. I'll try tonight.» (sleep = dormir, early = temprano, bed = cama, leave = deja, another room = otra pieza, try = probar) ¿Qué solución propone Mara? A) dejar el teléfono en otra pieza B) comprar un teléfono nuevo
-- **R3.** Un adulto lee en voz alta (tapa el guion): «Elena: I'm nervous about my English presentation. Teacher: Practise in front of a mirror and record yourself. Elena: I'll do that, thanks.» (nervous = nerviosa, presentation = presentación, practise = practica, mirror = espejo, record = grábate) ¿Cuál es el problema de Elena? A) está nerviosa por su presentación en inglés B) llegó tarde a clases
+- **R3.** Un adulto lee en voz alta (tapa el guion): «Elena: I'm nervous about my English presentation. Teacher: Practise in front of a mirror and record yourself. Elena: I'll do that, thanks.» (nervous = nerviosa, presentation = presentación, practise = practica, mirror = espejo, record = grábate) ¿Cuál es el problema de Elena? A) no tiene tema para su presentación B) está nerviosa por su presentación en inglés
 
 *Comprensión*
 
@@ -804,7 +804,7 @@ Respuesta: Se agotó la batería; un compañero prestó un cargador
 
 *Situaciones auténticas*
 
-- **S1.** Un adulto lee en voz alta (tapa el guion): «Mari: My bike has a flat tyre, and I'm late for school. Dad: Take the bus today, and we'll fix it tonight.» (flat tyre = rueda pinchada, late = atrasada, fix = arreglar, tonight = esta noche). ¿Cuál es la solución inmediata? A) caminar en la noche B) tomar el bus hoy
+- **S1.** Un adulto lee en voz alta (tapa el guion): «Mari: My bike has a flat tyre, and I'm late for school. Dad: Take the bus today, and we'll fix it tonight.» (flat tyre = rueda pinchada, late = atrasada, fix = arreglar, tonight = esta noche). ¿Cuál es la solución inmediata? A) tomar el bus hoy B) arreglar la bicicleta esta noche
 
 *Autoevaluación*
 
@@ -818,7 +818,7 @@ Respuesta: Se agotó la batería; un compañero prestó un cargador
 
 - **R1.** B) no puede dormir temprano. Dice I can't sleep early.
 - **R2.** A) dejar el teléfono en otra pieza. Why don't you leave it in another room?
-- **R3.** A) está nerviosa por su presentación en inglés. Dice I'm nervous about my English presentation.
+- **R3.** B) está nerviosa por su presentación en inglés. Dice I'm nervous about my English presentation.
 - **C1.** A) la llave está rota. Dice no water because the tap is broken.
 - **C2.** B) porque el paradero está lejos del colegio. Dice the bus stops far from school.
 - **C3.** A) mover el paradero más cerca del portón. Dice decided to move the bus stop closer to the main gate.
@@ -829,7 +829,7 @@ Respuesta: Se agotó la batería; un compañero prestó un cargador
 - **Z2.** B) que la causa es que el paradero queda lejos. El texto dice that the bus stops far from school.
 - **D1.** B) exceso de agua. Dice Too much water can hurt them.
 - **D2.** B) regarlas solo dos veces por semana. Dice Water them only twice a week.
-- **S1.** B) tomar el bus hoy. Take the bus today es la solución inmediata; arreglar la bici será después.
+- **S1.** A) tomar el bus hoy. Take the bus today es la solución inmediata; arreglar la bici será después.
 - **E1.** Una dificultad y la propuesta para resolverla. Se reconoce por frases como Why don't you...? o We can....
 - **E2.** Because. Dice por qué ocurre algo.
 - **E3.** Why don't you...?. Es una forma de proponer una solución.
@@ -942,7 +942,7 @@ Cuando el tema es nuevo, no necesitas entender todas las palabras para captar la
 
 Después busca los detalles que pide la pregunta. Usa lo que ya sabes: cifras, nombres, lugares y marcas de contraste (although, however, while) o de problema y solución (decided to, because). Si una palabra impide entender, usa el contexto: lo que se dice antes y después. No trates de traducirla; intenta adivinar su tipo, como una persona, un animal o un lugar.
 
-Para cerrar, resume en una frase: El texto trata de... y dice que... Luego compruébalo con una idea relevante del texto. Si tu resumen incluye un detalle que no estaba, corrígelo. En estos textos, algunas ideas son hechos que el hablante afirma; otras son opiniones. Distínguelas: Scientists say es un hecho atribuido; I think es una opinión.
+Para cerrar, resume en una frase: El texto trata de... y dice que... Luego compruébalo con una idea relevante del texto. Si tu resumen incluye un detalle que no estaba, corrígelo. En estos textos, algunas ideas son hechos que el hablante afirma; otras son opiniones. Distínguelas: Scientists say es un hecho atribuido; I think y In my opinion marcan una opinión.
 
 **Palabras importantes**
 
@@ -988,7 +988,7 @@ Respuesta: Un hecho atribuido a los científicos
 
 - **R1.** Un adulto lee en voz alta (tapa el guion): «Today I will tell you about octopuses. An octopus has three hearts and eight arms. Although it has no bones, it can pass through very small spaces. Scientists say octopuses are good at solving problems, for example, opening jars.» (octopus = pulpo, hearts = corazones, arms = brazos, bones = huesos, pass through = pasar por, spaces = espacios, jars = frascos) ¿Cuántos corazones tiene un pulpo según el texto? A) ocho B) tres
 - **R2.** Un adulto lee en voz alta (tapa el guion): «In many countries, people have special traditions for New Year. In Chile, some people eat lentils at midnight to wish for luck. In other places, people eat twelve grapes. Although the foods are different, the wish is the same: a good year.» (traditions = tradiciones, New Year = Año Nuevo, lentils = lentejas, midnight = medianoche, luck = suerte, grapes = uvas, wish = deseo) ¿Qué comen algunas personas en Chile a medianoche según el texto? A) uvas B) lentejas
-- **R3.** Un adulto lee en voz alta (tapa el guion): «Last winter, our school had a problem: the classrooms were very cold. Some students wanted to buy heaters, while others wanted to seal the windows better. In the end, the school fixed the windows because it was cheaper and safer.» (winter = invierno, classrooms = salas, heaters = estufas, seal = sellar, windows = ventanas, fixed = arregló, cheaper = más barato, safer = más seguro) ¿Cuál era el problema del colegio? A) las salas estaban muy frías B) faltaban estufas en bodega
+- **R3.** Un adulto lee en voz alta (tapa el guion): «Last winter, our school had a problem: the classrooms were very cold. Some students wanted to buy heaters, while others wanted to seal the windows better. In the end, the school fixed the windows because it was cheaper and safer.» (winter = invierno, classrooms = salas, heaters = estufas, seal = sellar, windows = ventanas, fixed = arregló, cheaper = más barato, safer = más seguro) ¿Cuál era el problema del colegio? A) las estufas del colegio estaban rotas B) las salas estaban muy frías
 
 *Comprensión*
 
@@ -1005,7 +1005,7 @@ Respuesta: Un hecho atribuido a los científicos
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «In many countries, people have special traditions for New Year. In Chile, some people eat lentils at midnight to wish for luck. In other places, people eat twelve grapes. Although the foods are different, the wish is the same: a good year.» (traditions = tradiciones, New Year = Año Nuevo, lentils = lentejas, midnight = medianoche, luck = suerte, grapes = uvas, wish = deseo) Un compañero dice que el texto muestra que una tradición es mejor que otra. ¿Qué respondes? A) sí: el texto elige una tradición B) no: dice que los alimentos son distintos pero el deseo es el mismo
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Today I will tell you about octopuses. An octopus has three hearts and eight arms. Although it has no bones, it can pass through very small spaces. Scientists say octopuses are good at solving problems, for example, opening jars.» (octopus = pulpo, hearts = corazones, arms = brazos, bones = huesos, pass through = pasar por, spaces = espacios, jars = frascos) ¿Qué ejemplo da el texto de que los pulpos resuelven problemas? A) nadan muy rápido B) abren frascos
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Today I will tell you about octopuses. An octopus has three hearts and eight arms. Although it has no bones, it can pass through very small spaces. Scientists say octopuses are good at solving problems, for example, opening jars.» (octopus = pulpo, hearts = corazones, arms = brazos, bones = huesos, pass through = pasar por, spaces = espacios, jars = frascos) ¿Qué ejemplo da el texto de que los pulpos resuelven problemas? A) abren frascos B) tienen tres corazones
 
 *Desafío*
 
@@ -1028,7 +1028,7 @@ Respuesta: Un hecho atribuido a los científicos
 
 - **R1.** B) tres. Dice three hearts; eight se refiere a los brazos.
 - **R2.** B) lentejas. Dice In Chile, some people eat lentils.
-- **R3.** A) las salas estaban muy frías. Dice the classrooms were very cold.
+- **R3.** B) las salas estaban muy frías. Dice the classrooms were very cold.
 - **C1.** A) porque no tiene huesos. Although it has no bones, it can pass through very small spaces.
 - **C2.** B) el deseo de un buen año. Dice the wish is the same: a good year.
 - **C3.** B) arreglar bien las ventanas. Dice the school fixed the windows.
@@ -1036,7 +1036,7 @@ Respuesta: Un hecho atribuido a los científicos
 - **A2.** A) hoy se estudia la ruta, pero no se conocen todos los detalles. However marca lo que todavía no se sabe.
 - **A3.** B) cómo se encontraron las culturas. Dice people study that route to learn how cultures met.
 - **Z1.** B) no: dice que los alimentos son distintos pero el deseo es el mismo. Although marca la diferencia sin juzgar.
-- **Z2.** B) abren frascos. Dice for example, opening jars.
+- **Z2.** A) abren frascos. Dice for example, opening jars.
 - **D1.** A) telas, especias e ideas. Dice They exchanged cloth, spices and ideas.
 - **D2.** A) unos comprar estufas, otros sellar mejor las ventanas. While une las dos posiciones.
 - **S1.** B) en invierno es difícil cultivar, y usan invernaderos. Dice harder to grow food in winter, so they use greenhouses.

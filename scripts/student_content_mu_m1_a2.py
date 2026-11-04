@@ -97,12 +97,12 @@ L(
     ],
     [
         ex("Una pieza tiene la forma A B A. ¿Cuántas ideas distintas tiene? A) Dos. B) Tres.", "A", "Las letras distintas son solo A y B; A vuelve al final."),
-        ex("Una voz canta una frase y otra voz la repite con las mismas notas dos compases después. ¿Qué procedimiento es? A) Un canon. B) Un contraste.", "A", "La segunda voz imita completamente a la primera, entrando más tarde."),
+        ex("Una voz canta una frase y otra voz la repite con las mismas notas dos compases después. ¿Qué procedimiento es? A) Un canon. B) Una pregunta y respuesta.", "A", "La segunda voz imita completamente a la primera, entrando más tarde."),
         ex("Una frase queda abierta, como una pregunta, y la siguiente la responde. ¿Cómo se llama ese procedimiento? A) Pregunta y respuesta. B) Ostinato.", "A", "Una frase abierta seguida de una que responde es pregunta y respuesta."),
     ],
     [
         ex(f"{ESQ}. Si se marca la forma con letras, ¿cuál es la forma de la melodía? Considera que el compás 3 es una variación. Usa A y A'.", "A A A' A", "Los compases 1 y 2 son iguales, el 3 es variación y el 4 vuelve a la idea inicial."),
-        ex("Una segunda frase termina igual que la primera, pero con la última nota cambiada. ¿Es repetición, variación o contraste?", "Variación", "Se reconoce la idea original, con un cambio pequeño."),
+        ex("Una segunda frase empieza igual que la primera, pero con la última nota cambiada. ¿Es repetición, variación o contraste?", "Variación", "Se reconoce la idea original, con un cambio pequeño."),
     ],
     [
         ex("Dos piezas de ejemplo tienen el mismo tempo y el mismo modo. La primera tiene la forma A B A y la segunda A A' A''. ¿Por qué siguen siendo distintas? A) Porque la primera contrasta y la segunda solo varía la misma idea. B) Porque cambia el volumen.", "A", "Una introduce una idea nueva (B) y la otra solo transforma la misma idea."),
@@ -159,8 +159,8 @@ L(
         ex("Si cambia el propósito de una música, ¿qué debe cambiar en la comparación? A) La elección de la pieza más adecuada. B) El nombre de las notas.", "A", "La mejor elección depende de lo que la música busca lograr."),
     ],
     [
-        arith(f"{FPQ}. ¿Cuántos compases suenan en un minuto de la pieza P?", "140//2", "Se dividen los pulsos por minuto entre los pulsos de cada compás.", " compases"),
-        arith(f"{FPQ}. ¿Cuántos compases suenan en un minuto de la pieza Q?", "56//4", "Se dividen los pulsos por minuto entre los pulsos de cada compás.", " compases"),
+        arith(f"{FPQ}. ¿Cuántos compases suenan en 2 minutos de la pieza P?", "140*2//2", "Se dividen los pulsos por minuto entre los pulsos de cada compás.", " compases"),
+        arith(f"{FPQ}. ¿Cuántos compases suenan en 3 minutos de la pieza Q?", "56*3//4", "Se dividen los pulsos por minuto entre los pulsos de cada compás.", " compases"),
         ex(f"{FPQ}. Una persona dice que Q no sirve para un homenaje porque «es muy lenta». ¿Qué respuesta usa un criterio válido? A) Que su lentitud y su volumen suave dan solemnidad, adecuada para recordar. B) Que Q no tiene percusión.", "A", "El tempo lento y el volumen suave encajan con el propósito del homenaje."),
     ],
     [
@@ -172,7 +172,7 @@ L(
         ex(f"{FPQ}. Para una ceremonia de recuerdo de una persona querida, un liceo debe elegir entre P y Q. ¿Qué pieza conviene y por qué razón? A) Q, porque su tempo lento y su volumen suave dan solemnidad. B) P, porque su coro y su percusión animan al público.", "A", "El propósito de recordar con respeto pide solemnidad, que Q ofrece."),
     ],
     [ex("Un curso debe elegir una música para animar la salida a un patio con juegos. Compara una pieza de 60 pulsos por minuto y suave con otra de 130 y fuerte. ¿Cuál conviene? A) La de 130 pulsos por minuto y fuerte. B) La de 60 pulsos por minuto y suave.", "A", "Para animar se necesita movimiento y energía.")],
-    [ex("¿Para qué se toca la pieza P de ejemplo?", "Para una celebración pública", "Así lo dice su ficha."), ex("Una pieza de 56 pulsos por minuto con 4 pulsos por compás ¿cuántos compases tiene por minuto?", "14", "Se divide 56 entre 4."), ex("¿Cuál es la última parte de una frase de comparación: el dato, el efecto o el propósito?", "El propósito", "Se termina diciendo para qué sirve.")],
+    [ex("¿Para qué se toca la pieza P de ejemplo?", "Para una celebración pública", "Así lo dice su ficha."), ex("Una pieza de ejemplo va a 90 pulsos por minuto con 3 pulsos por compás. ¿Cuántos compases suenan en 1 minuto?", "30", "Se divide 90 entre 3."), ex("¿Cuál es la última parte de una frase de comparación: el dato, el efecto o el propósito?", "El propósito", "Se termina diciendo para qué sirve.")],
     (
         "Usa las fichas de ejemplo P y Q. Escribe tres frases de comparación, cada una con dato, efecto y propósito (una sobre el tempo, otra sobre el modo y otra sobre el volumen). Después escribe qué elemento de Q cambiarías para que sirviera a una fiesta, y qué efecto esperas.",
         "Tempo: P va a 140 pulsos por minuto y Q a 56; P da movimiento para celebrar y Q da calma para recordar. Cambio: subiría el tempo de Q a unos 120 pulsos por minuto, para que se sintiera más animada, aunque seguiría suave.",

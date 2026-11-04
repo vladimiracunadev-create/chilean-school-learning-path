@@ -130,15 +130,15 @@ lesson(
         ex("Para tu obra tienes una ficha de ejemplo: tierra de color (origen natural, uso como pigmento, descarte se devuelve a la tierra) y un colorante en spray (origen sintético, uso fácil, descarte difícil). Quieres decidir con origen y descarte. ¿Cuál eliges?", "La tierra de color", "Su origen es natural y su descarte es simple; el spray tiene descarte difícil."),
         arith("Una matriz de 15 cm de lado se recorta de una hoja de cartón de 45 cm de lado. ¿Cuántas matrices cuadradas caben en una fila de la hoja?", "45 // 15", "Se divide el lado de la hoja entre el lado de la matriz.", " matrices"),
     ],
-    ex("Tu curso tiene una caja de cartón, restos de papel de diario, un envase de plástico limpio y tierra de color. Debes hacer una prueba de grabado y una de mural con lo que hay, sin comprar nada. ¿Qué haces con cada uno? A. Matriz con el cartón, papel de diario para probar la impresión, el envase para mezclar el pigmento B. Compro placas nuevas y botarlo todo.", "A", "Usa solo lo disponible y reutilizable; comprar y botar no es sustentable."),
+    ex("Tu curso tiene una caja de cartón, restos de papel de diario, un envase de plástico limpio y tierra de color. Debes hacer una prueba de grabado y una de mural con lo que hay, sin comprar nada. ¿Qué haces con cada uno? A. Matriz con el cartón, papel de diario para probar la impresión, el envase para mezclar el pigmento B. Compro placas y pintura nuevas para empezar de cero y boto lo que hay.", "A", "Usa solo lo disponible y reutilizable; comprar y botar no es sustentable."),
     [
         ex("¿Qué tres datos tiene la ficha de un material en esta clase?", "Origen, uso y descarte", "Con ellos se decide si el material es sustentable."),
         ex("Verdadero o falso: un material barato siempre es sustentable.", "Falso", "El precio no dice nada de su origen ni de su descarte."),
         ex("¿Cuál es una unión reversible? A. Cinta de papel B. Pegamento fuerte.", "A", "La cinta de papel se despega sin dañar las piezas."),
     ],
     task(
-        "Elige UN material de ejemplo. A) Cartón de caja usada. B) Papel de diario. C) Un envase de plástico limpio. Completa una ficha con origen, uso y descarte (si falta un dato, márcalo pendiente). Luego haz dos pruebas pequeñas con él: una de textura para grabado (frotar con lápiz sobre el cartón o el papel) y otra de color (mezclar tierra de color, harina y agua en el envase). Decide si lo usarías en tu obra y justifica.",
-        "Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de tierra cubre bien. Lo usaría porque es reutilizado y se puede reciclar.",
+        "Elige UN material de ejemplo. A) Cartón de caja usada. B) Papel de diario. C) Un envase de plástico limpio. Completa una ficha con origen, uso y descarte (si falta un dato, márcalo pendiente). Luego haz dos pruebas pequeñas con él: una de textura para grabado (frotar con lápiz sobre el cartón o el papel) y otra de color (mezclar harina, agua y un poco de témpera en el envase). Decide si lo usarías en tu obra y justifica.",
+        "Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de témpera con harina cubre bien. Lo usaría porque es reutilizado y se puede reciclar.",
         ["completa origen, uso y descarte", "marca como pendiente un dato que falta", "hace dos pruebas distintas", "decide con las pruebas y la ficha"],
         ["ficha de material", "dos pruebas pequeñas", "decisión justificada"],
         ["inventar datos de la ficha", "juzgar solo por el precio"],
@@ -181,7 +181,7 @@ lesson(
     [
         arith("En el boceto, una ventana mide 3 cm de ancho y el factor de ampliación es 15. ¿Cuántos centímetros medirá en el muro?", "3 * 15", "Cada medida del boceto se multiplica por el factor.", " cm"),
         ex("Quieres que en la copia impresa se lea «LUZ». ¿Qué haces en la matriz? A. Pego las letras invertidas, en espejo B. Las pego igual que se leen.", "A", "Al imprimir se invierten; si se tallan invertidas, salen al derecho."),
-        ex("Con demasiada tinta, la copia queda con las líneas finas tapadas. ¿Qué haces en la prueba siguiente? A. Entintar con una capa más delgada B. Aumentar la tinta.", "A", "El exceso de tinta empasta los detalles; reducirla los recupera."),
+        ex("Con demasiada tinta, la copia queda con las líneas finas tapadas. ¿Qué haces en la prueba siguiente? A. Entintar con una capa más delgada B. Presionar más fuerte con la cuchara.", "A", "El exceso de tinta empasta los detalles; reducirla los recupera."),
     ],
     [
         ex("Una compañera amplía un boceto de 20 cm a un muro de 340 cm, pero dibuja en el muro una puerta de 4 cm de ancho, la misma medida del boceto. Con el factor correcto, ¿cuánto debe medir la puerta en el muro?", "68 cm", "El factor es 340 ÷ 20 = 17 y 4 × 17 = 68 cm; 4 cm no cambia de tamaño."),
@@ -252,7 +252,7 @@ lesson(
         arith("Un grupo pinta un mural de 24 m² con pintura de rendimiento 8 m² por litro y dos manos. ¿Cuántos litros necesita?", "24 * 2 // 8", "Se multiplica por las manos y se divide por el rendimiento.", " litros"),
         ex("Un grupo calcula que necesita 6 litros de pintura en total y ya tiene 3 litros sobrantes de otra obra. ¿Cuántos litros más debe conseguir? A. 3 B. 6.", "A", "Necesita 6 litros y ya tiene 3, entonces le faltan 6 − 3 = 3."),
     ],
-    ex("Tu liceo te da un muro de 5 m por 3 m y una caja de cartón. Quieres una propuesta del tema «mi barrio de noche»: o un mural de planos grandes en dos colores o un grabado de 12 cm con trazos finos. Con los datos de ejemplo (pintura que rinde 5 m² por litro, dos manos), ¿cuántos litros necesitas para el mural? A. 6 litros B. 3 litros.", "A", "El área es 15 m², con dos manos son 30 m² y 30 ÷ 5 = 6 litros."),
+    ex("Tu liceo te da un muro de 5 m por 3 m y una caja de cartón. Quieres una propuesta del tema «mi barrio de noche»: o un mural de planos grandes en dos colores o un grabado de 12 cm con trazos finos. Con los datos de ejemplo (pintura que rinde 6 m² por litro, dos manos), ¿cuántos litros necesitas para el mural? A. 5 litros B. 15 litros.", "A", "El área es 15 m², con dos manos son 30 m² y 30 ÷ 6 = 5 litros; 15 litros ignora el rendimiento."),
     [
         ex("¿Qué se suma a las copias finales al calcular el papel de una edición?", "Las pruebas de estado", "También usan papel."),
         ex("Verdadero o falso: puedo calcular la pintura con el área sin considerar las manos.", "Falso", "Cada mano cubre el muro y gasta pintura."),
@@ -313,7 +313,7 @@ lesson(
         arith("Un grupo reúne 4 grabados de 12 cm y quiere exponerlos en una tira de cartulina con 3 cm de espacio entre cada uno y 3 cm en cada extremo. ¿Cuántos centímetros debe medir la tira?", "4 * 12 + 3 * 3 + 2 * 3", "Son 4 grabados, 3 espacios entre ellos y 2 extremos de 3 cm.", " cm"),
         ex("Dos propuestas empatan en 11 puntos. La A tiene cuidado del lugar 1 y la B tiene cuidado del lugar 3. El muro pertenece a una escuela que aún no autoriza. ¿Cuál conviene defender?", "La B", "Con el mismo total, el criterio que depende del permiso del lugar pesa más para poder realizarla."),
     ],
-    ex("Tu curso decide cuál de dos propuestas para el patio se hará. La propuesta del grupo A suma coherencia 3, calidad 3, sustentabilidad 2 y cuidado 3. La del grupo B suma 3, 2, 3 y 3. ¿Cuál tiene más puntos y por cuánto?", "Ninguna, empatan en 11", "A suma 3 + 3 + 2 + 3 = 11 y B suma 3 + 2 + 3 + 3 = 11."),
+    ex("Tu curso decide cuál de dos propuestas para el patio se hará. La propuesta del grupo A suma coherencia 3, calidad 3, sustentabilidad 2 y cuidado 3. La del grupo B suma 3, 2, 3 y 3. ¿Cuál tiene más puntos o empatan? Di el total de cada una.", "Empatan en 11", "A suma 3 + 3 + 2 + 3 = 11 y B suma 3 + 2 + 3 + 3 = 11."),
     [
         ex("¿Qué cuatro criterios se usan para contrastar propuestas en esta clase?", "Coherencia, calidad de la técnica, sustentabilidad y cuidado del lugar", "Juntos revisan la obra, el ambiente y el lugar."),
         ex("Verdadero o falso: se puede comparar propuestas con escalas distintas sin ajustarlas.", "Falso", "Las medidas no coinciden si las escalas son distintas."),

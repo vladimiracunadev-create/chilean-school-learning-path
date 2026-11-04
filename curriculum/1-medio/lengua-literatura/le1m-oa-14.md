@@ -146,7 +146,7 @@ Respuesta: «El poema sostiene que se puede insistir aunque la marea borre el es
 
 - **R1.** ¿Qué es una hipótesis en un ensayo?
 - **R2.** ¿Un ensayo persuasivo busca convencer o solo describir?
-- **R3.** ¿Un tema contingente es de actualidad o de la Edad Media?
+- **R3.** ¿Cuál es un tema contingente para un ensayo? A) la vida de un poeta del siglo XVII B) el uso del celular en las salas de clases este año
 
 *Comprensión*
 
@@ -186,7 +186,7 @@ Respuesta: «El poema sostiene que se puede insistir aunque la marea borre el es
 
 - **R1.** Una afirmación discutible que se busca sostener. Requiere argumentos que la sostengan.
 - **R2.** Convencer. Defiende una hipótesis.
-- **R3.** De actualidad. Contingente significa de interés presente.
+- **R3.** B) el uso del celular en las salas de clases este año. Contingente significa de actualidad o de interés presente; el segundo es un tema del pasado.
 - **C1.** A) «Las pausas activas mejoran la atención en clases». Es discutible; la otra es un dato.
 - **C2.** B) la conclusión. Cierra el texto.
 - **C3.** A) formal y claro. Se dirige a un lector informado.

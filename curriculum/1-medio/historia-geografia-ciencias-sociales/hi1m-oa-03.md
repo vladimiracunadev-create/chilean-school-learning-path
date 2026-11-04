@@ -572,7 +572,7 @@ Respuesta: Fragmentación
 *Aplicación*
 
 - **A1.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. ¿Qué continuidad señala la ficha en América española? A) Se borraron todos los límites B) Muchas fronteras siguieron límites coloniales
-- **A2.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. Un Estado italiano antes de 1861 era el Reino de las Dos Sicilias. Después de 1861, ¿qué cambió para él? A) Pasó a formar parte del reino de Italia B) Se convirtió en Alemania
+- **A2.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. Un Estado italiano antes de 1861 era el Reino de las Dos Sicilias. Después de 1861, ¿qué cambió para él? A) Se dividió en tres países, como la Gran Colombia B) Pasó a formar parte del reino de Italia
 - **A3.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. En 1850, ¿existía el imperio alemán? A) Sí B) No, se proclama en 1871
 
 *Razonamiento y análisis*
@@ -583,7 +583,7 @@ Respuesta: Fragmentación
 *Desafío*
 
 - **D1.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. ¿Qué dos cambios de territorio de la ficha muestran procesos opuestos? A) Unificación de Italia y fragmentación de la Gran Colombia B) Dos unificaciones
-- **D2.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. ¿Qué conclusión es más ajustada? A) En el siglo XIX el mapa no cambió B) En el siglo XIX el mapa cambió por unificación en Europa y por fragmentación en América Latina, con continuidades heredadas
+- **D2.** Ficha 3 (cuadro de cambio territorial). Italia: antes de 1861 estaba dividida en varios Estados, entre ellos el Reino de Piamonte-Cerdeña, el Reino de las Dos Sicilias y los Estados Pontificios; el reino de Italia se proclama en 1861. Alemania: antes de 1871 había decenas de Estados alemanes agrupados en la Confederación Germánica; el imperio alemán se proclama en 1871. Gran Colombia: creada en 1819, se disuelve en 1831 y da origen a Colombia, Venezuela y Ecuador. América española: en muchas fronteras se siguieron los límites de las antiguas divisiones coloniales. ¿Qué conclusión es más ajustada? A) En el siglo XIX el mapa solo se unificó, en Europa y en América por igual B) En el siglo XIX el mapa cambió por unificación en Europa y por fragmentación en América Latina, con continuidades heredadas
 
 *Situaciones auténticas*
 
@@ -606,7 +606,7 @@ Respuesta: Fragmentación
 - **C2.** A) Unificación. Reunieron Estados más pequeños en uno.
 - **C3.** B) Fragmentación. Un Estado se dividió en tres.
 - **A1.** B) Muchas fronteras siguieron límites coloniales. Es el principio de límites heredados.
-- **A2.** A) Pasó a formar parte del reino de Italia. La ficha dice que Italia unió varios Estados.
+- **A2.** B) Pasó a formar parte del reino de Italia. La ficha dice que Italia unió varios Estados.
 - **A3.** B) No, se proclama en 1871. La ficha fija la proclamación en 1871.
 - **Z1.** Porque en América Latina hubo fragmentación de imperios coloniales. El proceso fue distinto en cada región.
 - **Z2.** Muchas fronteras siguieron límites de divisiones coloniales. Hay una continuidad respecto de la colonia.
@@ -1003,7 +1003,7 @@ Respuesta: Dato 2
 
 *Situaciones auténticas*
 
-- **S1.** Un diario escolar publica: «Alemania e Italia se unificaron porque todos hablaban igual». ¿Qué evidencia de la ficha usarías para matizar? A) El dato 3, que muestra una causa económica B) El dato 4 solo
+- **S1.** Un diario escolar publica: «Alemania e Italia se unificaron porque todos hablaban igual». ¿Qué evidencia de la ficha usarías para matizar? A) El dato 3, que muestra una causa económica B) El dato 2, que muestra escuelas con lengua común
 
 *Autoevaluación*
 
@@ -1211,7 +1211,7 @@ Respuesta: Costo: a veces ignoró las lenguas de los pueblos originarios
 
 *Situaciones auténticas*
 
-- **S1.** Una escuela de ejemplo en una zona con otra lengua enseña solo la lengua oficial. ¿Qué podría hacer para ser más inclusiva? A) Valorar también la lengua local y enseñar su historia B) Prohibir la lengua local
+- **S1.** Una escuela de ejemplo en una zona con otra lengua enseña solo la lengua oficial. ¿Qué podría hacer para ser más inclusiva? A) Valorar también la lengua local y enseñar su historia B) Enseñar solo la lengua oficial para que todos sean iguales
 
 *Autoevaluación*
 

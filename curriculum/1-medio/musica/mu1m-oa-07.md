@@ -368,7 +368,7 @@ Respuesta: Cuida el vínculo con quien se va del pueblo
 
 *Razonamiento y análisis*
 
-- **Z1.** Comunidad de ejemplo «Playa Azul» (inventada). Música A: canto de trabajo de la pesca; se canta con palabras del oficio; ritmo regular de remo, 72 pulsos por minuto; solo con voz y palmas. Música B: baile de fiesta del pueblo; se baila en pareja; ritmo animado, 120 pulsos por minuto; guitarra, tambor y voces. Música C: canción de despedida a quien se va del pueblo; lenta, 60 pulsos por minuto; una guitarra y voces suaves. Un grupo escolar adapta la música A y la toca a 120 pulsos por minuto con guitarra eléctrica. ¿Qué rasgo del significado pierde? A) Las palabras del oficio. B) El ritmo regular del remo y su relación con el trabajo.
+- **Z1.** Comunidad de ejemplo «Playa Azul» (inventada). Música A: canto de trabajo de la pesca; se canta con palabras del oficio; ritmo regular de remo, 72 pulsos por minuto; solo con voz y palmas. Música B: baile de fiesta del pueblo; se baila en pareja; ritmo animado, 120 pulsos por minuto; guitarra, tambor y voces. Música C: canción de despedida a quien se va del pueblo; lenta, 60 pulsos por minuto; una guitarra y voces suaves. Un grupo escolar adapta la música A y la toca a 120 pulsos por minuto con guitarra eléctrica. ¿Qué pierde? A) La relación del tempo de 72 pulsos por minuto con el remo y el trabajo. B) Las palabras del oficio.
 - **Z2.** Comunidad de ejemplo «Playa Azul» (inventada). Música A: canto de trabajo de la pesca; se canta con palabras del oficio; ritmo regular de remo, 72 pulsos por minuto; solo con voz y palmas. Música B: baile de fiesta del pueblo; se baila en pareja; ritmo animado, 120 pulsos por minuto; guitarra, tambor y voces. Música C: canción de despedida a quien se va del pueblo; lenta, 60 pulsos por minuto; una guitarra y voces suaves. La jornada de pesca dura 4 horas y en ella hay 1 hora de pausas. Si la música A se canta solo mientras se trabaja, ¿cuántos minutos suena?
 
 *Desafío*
@@ -382,7 +382,7 @@ Respuesta: Cuida el vínculo con quien se va del pueblo
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es una generalización?
+- **E1.** En Música y cultura: ¿qué es una generalización?
 - **E2.** ¿Qué se hace cuando no se conoce una tradición?
 - **E3.** Comunidad de ejemplo «Playa Azul» (inventada). Música A: canto de trabajo de la pesca; se canta con palabras del oficio; ritmo regular de remo, 72 pulsos por minuto; solo con voz y palmas. Música B: baile de fiesta del pueblo; se baila en pareja; ritmo animado, 120 pulsos por minuto; guitarra, tambor y voces. Música C: canción de despedida a quien se va del pueblo; lenta, 60 pulsos por minuto; una guitarra y voces suaves. ¿A cuántos pulsos por minuto va la música C?
 
@@ -399,7 +399,7 @@ Respuesta: Cuida el vínculo con quien se va del pueblo
 - **A1.** 48 pulsos. Se restan los pulsos de la música A a los de la B. Cálculo: 120 − 72 = 48.
 - **A2.** 360 pulsos. Se multiplican los pulsos por minuto por los minutos. Cálculo: 120 × 3 = 360.
 - **A3.** No. La despedida usa un tempo lento de 60 pulsos por minuto y voces suaves para cuidar el vínculo.
-- **Z1.** B. El tempo regular se relaciona con el remo.
+- **Z1.** A. El tempo de 72 acompaña el remo; las palabras no se cambiaron.
 - **Z2.** 180 minutos. Se restan las horas de pausa y se pasa a minutos. Cálculo: (4 − 1) × 60 = 180.
 - **D1.** A. Las personas portadoras son la fuente más confiable.
 - **D2.** 23 minutos. Se suman los minutos de cada música. Cálculo: 2 × 3 + 3 × 4 + 5 = 23.
@@ -776,7 +776,7 @@ Respuesta: Respeta su decisión y no graba
 
 *Aplicación*
 
-- **A1.** Plan de ejemplo de una «cápsula de memoria sonora» de 12 minutos: 1) entrevista breve a una persona de tu casa (con su permiso) sobre una canción que le importa: 3 minutos; 2) cantar o tararear la canción dos veces: 2 minutos; 3) anotar la letra y rasgos audibles: 3 minutos; 4) escribir qué significa y cómo se transmitió: 2 minutos; 5) pedir permiso para compartirla con el curso: 2 minutos. Si la cápsula se presenta a 4 compañeros, uno por uno, y cada presentación dura 12 minutos, ¿cuántos minutos se necesitan en total?
+- **A1.** Plan de ejemplo de una «cápsula de memoria sonora» de 12 minutos: 1) entrevista breve a una persona de tu casa (con su permiso) sobre una canción que le importa: 3 minutos; 2) cantar o tararear la canción dos veces: 2 minutos; 3) anotar la letra y rasgos audibles: 3 minutos; 4) escribir qué significa y cómo se transmitió: 2 minutos; 5) pedir permiso para compartirla con el curso: 2 minutos. Una estudiante repite el plan completo con 4 personas distintas, una después de otra. ¿Cuántos minutos necesita en total?
 - **A2.** Una persona entrevistada cuenta que aprendió una canción de su abuela y la cantó 3 veces en la entrevista. ¿Cuántas veces conviene registrar la canción en la ficha? A) Una vez, con una nota de que se cantó 3 veces. B) Escribirla 3 veces con cambios.
 - **A3.** Un estudiante quiere subir la cápsula a una red pública. La persona entrevistada solo aceptó que se compartiera con el curso. ¿Qué hace? A) La sube igual. B) Respeta el acuerdo y la comparte solo con el curso.
 
@@ -810,7 +810,7 @@ Respuesta: Respeta su decisión y no graba
 - **C1.** B. Los datos personales no se anotan.
 - **C2.** A. La persona decide qué compartir.
 - **C3.** A. El curso no inventa ni modifica la tradición.
-- **A1.** 48 minutos. Se multiplican los minutos de una presentación por las presentaciones. Cálculo: 12 × 4 = 48.
+- **A1.** 48 minutos. Se multiplican los minutos del plan por las personas. Cálculo: 12 × 4 = 48.
 - **A2.** A. La ficha registra la canción una vez, con su contexto.
 - **A3.** B. El permiso se limita a lo acordado.
 - **Z1.** 36 minutos. Se multiplican los minutos de una cápsula por las tres cápsulas. Cálculo: 12 × 3 = 36.

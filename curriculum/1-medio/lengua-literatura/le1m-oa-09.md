@@ -366,7 +366,7 @@ Respuesta: La (a)
 
 - **A1.** Tesis de ejemplo: «El liceo debería abrir el gimnasio en los recreos». Evidencias: (a) «En los recreos, 200 estudiantes se quedan sin actividad en el patio». (b) «El gimnasio tiene un lindo piso». ¿Cuál apoya mejor la tesis?
 - **A2.** Lee y clasifica con H u O: 1) «El curso 1.º C ganó el torneo con 5 puntos de ventaja». 2) «Fue el mejor torneo de la historia». 3) «El torneo duró tres jornadas». Escribe las letras en orden.
-- **A3.** Entre estas evidencias de un texto sobre dormir más, ¿cuál es una cita de experto? A) «Según la kinesióloga Paula Rojas, dormir menos de 7 horas reduce la atención» B) «Todos duermen mal» C) «Yo me levanto a las 6:00»
+- **A3.** Entre estas evidencias de un texto de ejemplo sobre dormir más, ¿cuál es una cita de experto? A) «Yo me levanto a las 6:00 y estoy bien» B) «Todos duermen mal, dicen por ahí» C) «Según la doctora Paula Rojas, especialista en sueño (personaje de ejemplo), dormir pocas horas reduce la atención»
 
 *Razonamiento y análisis*
 
@@ -400,7 +400,7 @@ Respuesta: La (a)
 - **C3.** A) el reglamento prohíbe los gorros. La prohibición se puede comprobar; «injusto» es la opinión.
 - **A1.** (a) En los recreos, 200 estudiantes se quedan sin actividad en el patio. Muestra la necesidad; el piso bonito no justifica abrirlo.
 - **A2.** H, O, H. Hay cifras comprobables en 1 y 3; en 2 aparece «el mejor», una valoración.
-- **A3.** A) «Según la kinesióloga Paula Rojas, dormir menos de 7 horas reduce la atención». Atribuye la afirmación a una persona especialista con nombre, no a un grupo vago ni al propio autor.
+- **A3.** C) «Según la doctora Paula Rojas, especialista en sueño (personaje de ejemplo), dormir pocas horas reduce la atención». Atribuye la afirmación a una persona especialista con nombre y oficio, no a un grupo vago ni al propio autor.
 - **Z1.** No; es una opinión porque valora con «vergüenza». Un hecho se puede comprobar por cualquiera; «vergüenza» es un juicio personal.
 - **Z2.** 1-1. Que hay 24 computadores es comprobable y «pésimo» es una valoración.
 - **D1.** Evidencia: hay 3 contenedores y se llenan cada semana; opinión: es una moda tonta. La cifra y lo que sucede se pueden comprobar; «tonta» valora.
@@ -781,7 +781,7 @@ Respuesta: Es pertinente pero insuficiente
 
 *Aplicación*
 
-- **A1.** Tesis de ejemplo: «Hay que tener un huerto en el liceo». Evidencias: (a) «Algunos estudiantes miran series». ¿Cuál es pertinente? (b) «El liceo tiene un terreno sin uso de 40 metros cuadrados».
+- **A1.** Tesis de ejemplo: «Hay que tener un huerto en el liceo». Evidencias: (a) «El liceo tiene un terreno sin uso de 40 metros cuadrados». (b) «El liceo tiene una biblioteca con 3.000 libros». ¿Cuál es pertinente?
 - **A2.** Tesis de ejemplo: «Los jueves deben ser sin tareas». Evidencia única: «Pedro dice que se cansa». ¿Es suficiente?
 - **A3.** Dos lectores leen la frase «Cerraron la biblioteca por una semana». Lectura 1: «La biblioteca estuvo cerrada siete días». Lectura 2: «Los estudiantes no quieren leer». ¿Cuál se apoya mejor en el texto?
 
@@ -792,7 +792,7 @@ Respuesta: Es pertinente pero insuficiente
 
 *Desafío*
 
-- **D1.** Tesis de ejemplo: «El liceo debería poner un horno microondas». Evidencias: (1) «De 600 estudiantes, 150 traen almuerzo». (2) «El casino tiene mesas nuevas». (3) «Hay 2 microondas rotos en la sala de profesores». ¿Cuáles son pertinentes? Escribe los números.
+- **D1.** Tesis de ejemplo: «El liceo debería poner un horno microondas». Evidencias: (1) «De 600 estudiantes, 150 traen almuerzo». (2) «El casino tiene mesas nuevas». (3) «En invierno, 90 estudiantes comen el almuerzo frío porque no hay dónde calentarlo». ¿Cuáles son pertinentes? Escribe los números.
 - **D2.** Dos estudiantes evalúan una columna con un solo ejemplo. Una dice: «Es insuficiente». Otro: «Es falso». ¿Cuál afirma algo que se puede sostener solo con lo leído?
 
 *Situaciones auténticas*
@@ -815,12 +815,12 @@ Respuesta: Es pertinente pero insuficiente
 - **C1.** Pertinente. Señala la necesidad de más tiempo en el taller, que es lo que se propone.
 - **C2.** B) generalización apresurada. Afirma algo sobre todas las escaleras a partir de un caso.
 - **C3.** B) que sea bastante y variada para sostener la tesis. La suficiencia depende de lo que aporta al argumento, no del largo.
-- **A1.** (b) El liceo tiene un terreno sin uso de 40 metros cuadrados. Muestra la factibilidad; las series no se relacionan.
+- **A1.** (a) El liceo tiene un terreno sin uso de 40 metros cuadrados. Muestra la factibilidad; las series no se relacionan.
 - **A2.** No. Es una impresión de una persona, sin datos adicionales.
 - **A3.** La lectura 1. La lectura 2 agrega algo que la frase no dice.
 - **Z1.** B) pasa de la mayoría a todos. El dato apoya una preferencia mayoritaria, no una obligación para todos.
 - **Z2.** Que está bien sostenida. La evidencia apoya la tesis, aunque eso no demuestra que sea cierta para siempre.
-- **D1.** 1 y 3. Tratan de quienes traen comida y de equipos para calentarla; las mesas no.
+- **D1.** 1 y 3. Hablan de quienes traen comida y de la necesidad de calentarla; las mesas nuevas no se relacionan con la tesis.
 - **D2.** La que dice que es insuficiente. Con un solo ejemplo se puede decir que falta evidencia, pero no que la tesis sea falsa.
 - **S1.** A) cuántos estudiantes tienen molestias en un registro de la enfermería. Un dato más general respalda la tesis; el color no se relaciona.
 - **E1.** Que se relaciona con la tesis. Viene al caso del tema.
@@ -996,7 +996,7 @@ Respuesta: Audiencia: el director; tono: formal
 *Razonamiento y análisis*
 
 - **Z1.** Un afiche dice: «Hoy, todos a votar por la lista Verde». No indica quién lo hizo ni dónde se publicó. ¿Qué dos datos de contexto faltan? A) la audiencia y el momento B) el autor y el medio
-- **Z2.** Un autor defiende cobrar entrada a la feria y es el organizador. ¿Qué haces para evaluar su argumento: aceptas todo, o revisas los datos con otra fuente?
+- **Z2.** Un autor defiende cobrar entrada a la feria y es el organizador. ¿Qué haces para evaluar su argumento? A) reviso sus datos con otra fuente, sin descartar el texto B) descarto el texto porque es el organizador C) acepto todo porque conoce bien la feria
 
 *Desafío*
 
@@ -1027,7 +1027,7 @@ Respuesta: Audiencia: el director; tono: formal
 - **A2.** La empresa de bebidas. Vende el producto que recomienda.
 - **A3.** B) la audiencia. Autor, fecha y medio ya están; falta el destinatario.
 - **Z1.** B) el autor y el medio. El texto habla a todos (audiencia) y dice «hoy» (momento); no dice quién escribe ni dónde se publica.
-- **Z2.** Reviso los datos con otra fuente. Su interés pide contrastar sin descartar.
+- **Z2.** A) reviso sus datos con otra fuente, sin descartar el texto. Su interés pide contrastar; descartarlo o creerle sin revisar son errores.
 - **D1.** A) un registro de ventas del casino o un informe de salud. Es una fuente independiente; el otro texto repite el mismo interés.
 - **D2.** El autor. Aparecen los vecinos (audiencia) y el 15 de mayo (fecha), pero no se dice quién habla.
 - **S1.** B) revisar si hay otro motivo además del interés. Hay un posible interés; conviene contrastar sin descartar.
@@ -1313,7 +1313,7 @@ Respuesta: No sirve porque no se apoya en el texto
 
 **Consigna exacta:** Lee esta columna de ejemplo: «Los estudiantes de 1.º medio deberían dar su opinión en el consejo del liceo. Hoy el consejo tiene 8 adultos y ningún estudiante. ¿Es justo decidir sobre nosotros sin nosotros? Ojalá nos escuchen. Tal vez un representante bastaría». Evalúa el texto con la lista: 1) tesis, 2) un hecho y una opinión, 3) los tres recursos, 4) si la evidencia basta, 5) tu postura con una razón.
 
-**Referencia para modelar y corregir:** 1) Los estudiantes deberían participar en el consejo. 2) Hecho: el consejo tiene 8 adultos y ningún estudiante; opinión: «es injusto». 3) Retórica: «¿Es justo…?»; desiderativa: «Ojalá nos escuchen»; dubitativa: «Tal vez un representante bastaría». 4) Hay un dato pertinente, pero falta más evidencia. 5) Estoy de acuerdo en parte porque el dato es pertinente, pero faltan ejemplos.
+**Referencia para modelar y corregir:** 1) Los estudiantes deberían participar en el consejo. 2) Hecho: el consejo tiene 8 adultos y ningún estudiante; opinión: que decidir sin los estudiantes es injusto, idea que sugiere la pregunta. 3) Retórica: «¿Es justo…?»; desiderativa: «Ojalá nos escuchen»; dubitativa: «Tal vez un representante bastaría». 4) Hay un dato pertinente, pero falta más evidencia. 5) Estoy de acuerdo en parte porque el dato es pertinente, pero faltan ejemplos.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -1327,7 +1327,7 @@ Respuesta: No sirve porque no se apoya en el texto
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: 1) Los estudiantes deberían participar en el consejo. 2) Hecho: el consejo tiene 8 adultos y ningún estudiante; opinión: «es injusto». 3) Retórica: «¿Es justo…?»; desiderativa: «Ojalá nos escuchen»; dubitativa: «Tal vez un representante bastaría». 4) Hay un dato pertinente, pero falta más evidencia. 5) Estoy de acuerdo en parte porque el dato es pertinente, pero faltan ejemplos. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: 1) Los estudiantes deberían participar en el consejo. 2) Hecho: el consejo tiene 8 adultos y ningún estudiante; opinión: que decidir sin los estudiantes es injusto, idea que sugiere la pregunta. 3) Retórica: «¿Es justo…?»; desiderativa: «Ojalá nos escuchen»; dubitativa: «Tal vez un representante bastaría». 4) Hay un dato pertinente, pero falta más evidencia. 5) Estoy de acuerdo en parte porque el dato es pertinente, pero faltan ejemplos. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -1452,7 +1452,7 @@ Respuesta: «La carta es convincente porque cita un dato pertinente: llegan tard
 - **E2.** Sí. Así sostiene la tesis.
 - **E3.** La postura propia con razones. Cierra la lectura crítica.
 
-**Actividad abierta · ejemplo de respuesta.** 1) Los estudiantes deberían participar en el consejo. 2) Hecho: el consejo tiene 8 adultos y ningún estudiante; opinión: «es injusto». 3) Retórica: «¿Es justo…?»; desiderativa: «Ojalá nos escuchen»; dubitativa: «Tal vez un representante bastaría». 4) Hay un dato pertinente, pero falta más evidencia. 5) Estoy de acuerdo en parte porque el dato es pertinente, pero faltan ejemplos.
+**Actividad abierta · ejemplo de respuesta.** 1) Los estudiantes deberían participar en el consejo. 2) Hecho: el consejo tiene 8 adultos y ningún estudiante; opinión: que decidir sin los estudiantes es injusto, idea que sugiere la pregunta. 3) Retórica: «¿Es justo…?»; desiderativa: «Ojalá nos escuchen»; dubitativa: «Tal vez un representante bastaría». 4) Hay un dato pertinente, pero falta más evidencia. 5) Estoy de acuerdo en parte porque el dato es pertinente, pero faltan ejemplos.
 
 **Criterios para evaluarla:** identifica los elementos pedidos; justifica con frases del texto; declara una postura fundamentada.
 

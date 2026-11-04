@@ -785,7 +785,7 @@ Respuesta: 2 g por mm
 
 *Razonamiento y análisis*
 
-- **Z1.** Un estudiante dice: «Con 350 mm hay 700 g; entonces con 1.000 mm habrá 2.000 g». ¿Cuál es la crítica? A) 1.000 mm no existe; B) Está fuera del rango medido y no se sabe si la relación se mantiene.
+- **Z1.** Un estudiante dice: «Con 350 mm hay 700 g; entonces con 1.000 mm habrá 2.000 g». ¿Cuál es la crítica? A) Está fuera del rango medido y no se sabe si la relación se mantiene; B) La relación deja de cumplirse apenas se supera la lluvia medida.
 - **Z2.** Tabla de ejemplo: año 1, lluvia 300 mm, guanacos 80; año 2, lluvia 200 mm, guanacos 60; año 3, lluvia 100 mm, guanacos 40. ¿Qué conclusión es prudente? A) La lluvia produce guanacos directamente; B) Los guanacos aumentan con la lluvia en estos tres años, pero faltan datos para asegurar la causa.
 
 *Desafío*
@@ -816,7 +816,7 @@ Respuesta: 2 g por mm
 - **A1.** 2. 300 dividido por 150 es 2, y se mantiene en cada fila.
 - **A2.** 440. Se multiplica la razón por la lluvia. Cálculo: 2 × 220 = 440.
 - **A3.** 5 días. Se divide el pasto disponible entre el consumo diario. Cálculo: 15000 ÷ 3000 = 5.
-- **Z1.** B. Extrapolar es dudoso.
+- **Z1.** A. Extrapolar es dudoso.
 - **Z2.** B. La relación es positiva; la causa necesita el mecanismo del pasto.
 - **D1.** 40. 80 menos 40 es 40.
 - **D2.** B. El dato rompe la proporcionalidad y exige buscar otro factor.

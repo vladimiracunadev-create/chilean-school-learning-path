@@ -575,7 +575,7 @@ Respuesta: La figura es grande, pero las tres pequeñas oscuras atraen la mirada
 *Aplicación*
 
 - **A1.** Afirmación: «El color guía la mirada». Evidencia: «el único objeto rojo está en el centro». Criterio: ¿cuál une ambos? A. Un color único en un fondo apagado atrae la mirada B. El rojo es un color bonito.
-- **A2.** Un juicio tiene 1 evidencia en la primera versión y se refuerza hasta tener 3. ¿Cuántas evidencias se agregaron?
+- **A2.** Afirmación: «el rojo guía la mirada». Tres anotaciones: 1) «el único objeto rojo está en el centro», 2) «el fondo es gris y apagado», 3) «la autora es muy famosa». ¿Cuántas son evidencias visibles de la obra?
 - **A3.** «Es realista». ¿Cuándo es un criterio pertinente? A. Siempre, en cualquier obra B. Cuando el propósito de la obra era parecerse a la realidad.
 
 *Razonamiento y análisis*
@@ -585,7 +585,7 @@ Respuesta: La figura es grande, pero las tres pequeñas oscuras atraen la mirada
 
 *Desafío*
 
-- **D1.** Tu afirmación es «el rojo guía la mirada». Quieres reforzarla con una segunda evidencia observable. ¿Cuál sirve? A. «El rojo es el color favorito de mi familia» B. «El fondo es gris y apagado alrededor del rojo».
+- **D1.** Tu afirmación es «el rojo guía la mirada». Quieres reforzarla con una segunda evidencia observable. ¿Cuál sirve? A. «El rojo es mi color favorito» B. «El fondo es gris y apagado alrededor del rojo».
 - **D2.** Dos juicios sobre la misma obra: J1 usa una evidencia y un criterio pertinente; J2 usa tres evidencias, un criterio pertinente y responde un contraargumento. ¿Cuál se sostiene mejor?
 
 *Situaciones auténticas*
@@ -609,7 +609,7 @@ Respuesta: La figura es grande, pero las tres pequeñas oscuras atraen la mirada
 - **C2.** B. Más evidencias hacen más fuerte un juicio; el énfasis no.
 - **C3.** Generaliza a todo el siglo a partir de una obra. Una obra no representa todo un periodo.
 - **A1.** A. Relaciona el rasgo con el efecto; el segundo es un gusto.
-- **A2.** 2 evidencias. Se resta la cantidad inicial de la final. Cálculo: 3 − 1 = 2.
+- **A2.** 2. La 1 y la 2 se ven en la obra; la fama no es un rasgo visible ni estético.
 - **A3.** B. Un criterio solo vale si calza con el propósito.
 - **Z1.** B. Responde con un rasgo comprobable; la otra opción repite el gusto.
 - **Z2.** A. Una afirmación absoluta sin evidencia no se puede sostener.

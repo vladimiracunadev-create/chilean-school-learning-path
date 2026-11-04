@@ -482,7 +482,7 @@ Respuesta: Elijo la guía porque es divulgación científica y su muestra define
 
 **Consigna exacta:** Con este índice de ejemplo: Capítulo 1: Qué es el tiempo atmosférico (pág. 7). Capítulo 2: Qué es el clima (pág. 21). Capítulo 3: Climas de Chile (pág. 45). Capítulo 4: Cambios del clima (pág. 70). y esta contraportada de ejemplo: «Un recorrido por ciudades, caminos y fronteras, contado en cartas que mezclan datos de cada lugar con anécdotas de viaje.» escribe dos oraciones: en la primera, qué capítulo leerías primero si quieres entender qué es el clima, y en la segunda, qué otro texto de las fichas («El faro de piedra», «Pasos sobre la nieve», «Voces del puerto») te serviría como segunda lectura y por qué relación (tema, género o autor).
 
-**Referencia para modelar y corregir:** Leería primero el capítulo 2, «Qué es el clima», en la página 21. Como segunda lectura elegiría «Voces del puerto», porque su tema es el mar y el puerto, un paisaje que se relaciona con el clima y los lugares de la crónica de viajes.
+**Referencia para modelar y corregir:** Leería primero el capítulo 2, «Qué es el clima», en la página 21. Como segunda lectura elegiría «Voces del puerto», porque, por su título, trata de un lugar (un puerto), y eso la relaciona por tema con la crónica, que recorre lugares.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -496,7 +496,7 @@ Respuesta: Elijo la guía porque es divulgación científica y su muestra define
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Leería primero el capítulo 2, «Qué es el clima», en la página 21. Como segunda lectura elegiría «Voces del puerto», porque su tema es el mar y el puerto, un paisaje que se relaciona con el clima y los lugares de la crónica de viajes. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Leería primero el capítulo 2, «Qué es el clima», en la página 21. Como segunda lectura elegiría «Voces del puerto», porque, por su título, trata de un lugar (un puerto), y eso la relaciona por tema con la crónica, que recorre lugares. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -580,13 +580,13 @@ Respuesta: Novela de misterio; el desafío es seguir las pistas de un enigma
 
 *Razonamiento y análisis*
 
-- **Z1.** Contraportada 1: «Un faro sin guardián. Una luz que cada noche cambia de color. Y una joven que decide averiguar quién la enciende.» Contraportada 2: «Un recorrido por ciudades, caminos y fronteras, contado en cartas que mezclan datos de cada lugar con anécdotas de viaje.» Una persona quiere unir una lectura de misterio con una de viajes. ¿Qué relación entre ambos textos podría armar? A) los dos podrían tratar de recorrer lugares y descubrir cosas B) los dos son obras de teatro
-- **Z2.** Ana arma su trayectoria: 1) «Guía para entender el clima», 2) «Cartas desde el sur», 3) un cuento de misterio. ¿Qué relación temática une a los dos primeros textos? A) ambos entregan información sobre lugares y su clima o costumbres B) ambos son poesía
+- **Z1.** Contraportada 1: «Un faro sin guardián. Una luz que cada noche cambia de color. Y una joven que decide averiguar quién la enciende.» Contraportada 2: «Un recorrido por ciudades, caminos y fronteras, contado en cartas que mezclan datos de cada lugar con anécdotas de viaje.» Una persona quiere unir una lectura de misterio con una de viajes. ¿Qué relación entre ambos textos podría armar? A) los dos podrían tratar de recorrer lugares y descubrir cosas B) los dos son del mismo autor, porque ambos hablan de lugares
+- **Z2.** Ana arma su trayectoria: 1) «Guía para entender el clima», 2) «Cartas desde el sur», 3) un cuento de misterio. ¿Qué relación temática une a los dos primeros textos? A) ambos entregan información sobre lugares y su clima o costumbres B) ambos son textos narrativos de ficción
 
 *Desafío*
 
 - **D1.** Índice: Capítulo 1: Qué es el tiempo atmosférico (pág. 7). Capítulo 2: Qué es el clima (pág. 21). Capítulo 3: Climas de Chile (pág. 45). Capítulo 4: Cambios del clima (pág. 70). Un lector quiere entender la diferencia entre clima y tiempo atmosférico. ¿Qué capítulos le sirven más? A) los capítulos 1 y 2 B) los capítulos 3 y 4
-- **D2.** Un lector sigue el orden: novela de misterio, otra novela del mismo autor, y luego un cuento de otro autor con el mismo tema. Describe esa trayectoria en una frase de relación: por autor y luego por tema. ¿Qué dos relaciones usó? Escribe «autor y tema».
+- **D2.** Un lector lee una novela de misterio, luego un poemario del mismo autor y después un cuento de otro autor sobre el mismo tema que el poemario. ¿Qué relaciones usó, en ese orden? A) por género y luego por autor B) por autor y luego por tema
 
 *Situaciones auténticas*
 
@@ -614,13 +614,13 @@ Respuesta: Novela de misterio; el desafío es seguir las pistas de un enigma
 - **Z1.** A) los dos podrían tratar de recorrer lugares y descubrir cosas. Ambos plantean explorar: uno un enigma, el otro un recorrido; una relación temática posible es la exploración.
 - **Z2.** A) ambos entregan información sobre lugares y su clima o costumbres. La guía informa sobre el clima y la crónica entrega datos de lugares: un vínculo por tema.
 - **D1.** A) los capítulos 1 y 2. El capítulo 1 trata del tiempo atmosférico y el 2 del clima; el 3 y el 4 tratan de los climas de Chile y de sus cambios.
-- **D2.** autor y tema. Primero siguió a la misma persona que escribe, después buscó el mismo tema en otra obra.
+- **D2.** B) por autor y luego por tema. Del primer al segundo texto cambia el género pero no la persona que escribe; del segundo al tercero cambia el autor pero se mantiene el tema.
 - **S1.** A) «Cartas desde el sur» porque entrega datos de lugares. La crónica comparte con la guía el tema de lugares y paisaje; el poemario es de otro género y trata otro tema.
 - **E1.** B) la contraportada. La contraportada contiene el resumen.
 - **E2.** A) el índice. El índice lista las partes con su página; el prólogo explica cómo leer la obra.
 - **E3.** A) el tema. No se dice que sean del mismo autor, pero sí que tratan del mismo tema.
 
-**Actividad abierta · ejemplo de respuesta.** Leería primero el capítulo 2, «Qué es el clima», en la página 21. Como segunda lectura elegiría «Voces del puerto», porque su tema es el mar y el puerto, un paisaje que se relaciona con el clima y los lugares de la crónica de viajes.
+**Actividad abierta · ejemplo de respuesta.** Leería primero el capítulo 2, «Qué es el clima», en la página 21. Como segunda lectura elegiría «Voces del puerto», porque, por su título, trata de un lugar (un puerto), y eso la relaciona por tema con la crónica, que recorre lugares.
 
 **Criterios para evaluarla:** usa el índice para decidir; nombra una relación entre textos; justifica la relación.
 

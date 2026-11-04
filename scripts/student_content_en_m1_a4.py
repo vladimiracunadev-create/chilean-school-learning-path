@@ -34,13 +34,13 @@ lesson(
     ],
     [
         (STORY + " ¿Qué muestra que Tomás es un personaje prudente al final? A) revisa el clima antes de salir B) pesca todos los domingos", "A) revisa el clima antes de salir", "Revisar el clima es una acción cuidadosa; pescar los domingos es solo su costumbre."),
-        (STORY + " ¿Dónde ocurre la historia? A) en una caleta junto al mar B) en un desierto", "A) en una caleta junto al mar", "Dice his village y menciona la coast y las rocas."),
+        (STORY + " ¿Dónde ocurre la historia? A) en una caleta junto al mar B) en una ciudad grande del interior", "A) en una caleta junto al mar", "Dice his village y menciona la coast y las rocas."),
         (STORY + " ¿Qué día pescaba Tomás habitualmente?", "Los domingos", "El texto dice Every Sunday."),
     ],
     [
         (STORY + " ¿Qué hizo Tomás para volver a casa? A) remó despacio hacia la luz del faro B) esperó quieto a que el viento parara", "A) remó despacio hacia la luz del faro", "El texto dice He rowed slowly toward the light."),
         (STORY + " ¿Qué sentimiento tiene Tomás cuando el bote se aleja?", "Miedo", "El texto dice Tomás was afraid."),
-        (STORY + " ¿Cuándo llegó Tomás a casa? A) de noche B) al mediodía", "A) de noche", "El texto dice At night, he arrived home safe."),
+        (STORY + " ¿Cuándo llegó Tomás a casa? A) de noche B) al amanecer", "A) de noche", "El texto dice At night, he arrived home safe."),
     ],
     [
         (STORY + " Ordena los hechos con letras. A) The wind pushed Luna away. B) Tomás fished near the rocks. C) He arrived home safe. D) He rowed toward the light.", "B, A, D, C", "Primero pesca, luego el viento, después rema y al final llega."),
@@ -61,7 +61,7 @@ lesson(
         ("¿Qué partes tiene la trama?", "Inicio, desarrollo y final", "Muestran los hechos en orden."),
         ("¿Qué es el entorno?", "El lugar y el tiempo de la historia", "Responde dónde y cuándo."),
     ],
-    task("Lee este cuento breve original: «Valentina was nervous about her first day in a new school. In the yard, she did not know anyone. A girl named Isidora offered her a seat on the bench. They shared an apple and talked about music. At the end of the day, Valentina smiled. Tomorrow, she would find a friend for another new student.» (nervous = nerviosa, offered = ofreció, bench = banca, shared = compartieron, smiled = sonrió). En tu hoja escribe: personajes, entorno, conflicto, final y tema.", "Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere ayudar a otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse.", ["nombra personajes y entorno correctos", "identifica el conflicto y el final", "formula un tema como idea general"], ["hoja con cinco respuestas", "subrayado del texto"], ["dar un hecho suelto como tema", "mezclar entorno y personajes"], "Reconoce los elementos acertados y ayuda a reformular el tema como una idea general."),
+    task("Lee este cuento breve original: «Valentina was nervous about her first day in a new school. In the yard, she did not know anyone. A girl named Isidora offered her a seat on the bench. They shared an apple and talked about music. At the end of the day, Valentina smiled. Tomorrow, she will sit with another new student.» (nervous = nerviosa, offered = ofreció, bench = banca, shared = compartieron, smiled = sonrió). En tu hoja escribe: personajes, entorno, conflicto, final y tema.", "Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere sentarse con otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse.", ["nombra personajes y entorno correctos", "identifica el conflicto y el final", "formula un tema como idea general"], ["hoja con cinco respuestas", "subrayado del texto"], ["dar un hecho suelto como tema", "mezclar entorno y personajes"], "Reconoce los elementos acertados y ayuda a reformular el tema como una idea general."),
     "Vuelve a leer el cuento de Tomás y subraya con un color los personajes y con otro el entorno.",
     "Escribe en español el inicio, el desarrollo y el final de un cuento propio de cuatro líneas.",
 )
@@ -94,13 +94,13 @@ lesson(
         (SCREEN + " ¿Qué día hay menos horas de pantalla?", "El martes, con 2 horas", "Es el valor más bajo de la tabla."),
     ],
     [
-        (ART + " ¿Cuál es el problema que plantea? A) estudiar horas sin descanso no ayuda B) los adolescentes duermen demasiado", "A) estudiar horas sin descanso no ayuda", "Es la primera idea del artículo."),
+        (ART + " ¿Cuál es el problema que plantea? A) estudiar horas sin descanso no ayuda B) los adolescentes estudian muy poco", "A) estudiar horas sin descanso no ayuda", "Es la primera idea del artículo."),
         (ART + " ¿Cuál es el propósito del texto? A) informar y recomendar B) contar un cuento", "A) informar y recomendar", "Explica un tema y propone ideas."),
         (SCREEN + " ¿Qué día tuvo 4 horas de pantalla?", "El miércoles", "Es el valor 4 de la tabla."),
     ],
     [
         arith(SCREEN + " ¿Cuántas horas de pantalla suma la semana de lunes a viernes?", "3+2+4+3+5", "Se suman los cinco valores."),
-        (ART + " ¿Qué hacen muchos estudiantes durante la pausa y por qué es un problema? A) revisan el celular y el cerebro no descansa B) duermen y no estudian", "A) revisan el celular y el cerebro no descansa", "Lo dice la frase que sigue a However."),
+        (ART + " ¿Qué hacen muchos estudiantes durante la pausa y por qué es un problema? A) revisan el celular y el cerebro no descansa B) conversan con amigos y se cansan más", "A) revisan el celular y el cerebro no descansa", "Lo dice la frase que sigue a However."),
         arith(SCREEN + " ¿Cuántas horas más de pantalla hay el viernes que el martes?", "5-2", "Se resta el valor más bajo del más alto."),
     ],
     [
@@ -161,7 +161,7 @@ lesson(
         ("Lee: «Both Camila and Fabián are artists.» ¿Cuántas personas son artistas? A) dos B) una", "A) dos", "Both se refiere a las dos personas nombradas."),
     ],
     [
-        ("Lee: «Although the weather was cold, the waitress smiled.» ¿Qué contraste hay? A) hacía frío y ella sonrió B) hacía calor y ella lloró", "A) hacía frío y ella sonrió", "Although opone el frío a la sonrisa."),
+        ("Lee: «Although the weather was cold, the waitress smiled.» ¿Qué contraste hay? A) hacía frío y ella sonrió B) hacía calor y ella sonrió", "A) hacía frío y ella sonrió", "Although opone el frío a la sonrisa."),
         ("¿Cuál de estas palabras NO está formada con un prefijo de negación? A) disagree B) careful", "B) careful", "Careful lleva el sufijo -ful, no un prefijo de negación."),
     ],
     [("En un anuncio leíste: «We need a helpful waiter or waitress for the weekend. Do not be irresponsible: we start at nine.» (weekend = fin de semana, start = empezar). ¿Qué cualidad piden?", "Que sea servicial o útil", "Helpful es help + ful.")],

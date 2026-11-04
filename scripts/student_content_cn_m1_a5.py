@@ -52,7 +52,7 @@ L(OA9, 1,
   ],
   und=[
       ("Un corcho sube y baja al pasar una ola. ¿Qué indica esto? A) Que el agua no viaja con la ola, sino que oscila; B) Que el corcho es más liviano que el aire.", "A", "El corcho muestra el movimiento del medio."),
-      ("¿Por qué una ola grande mueve objetos pesados? A) Porque transporta más energía; B) Porque tiene más agua en un mismo lugar para siempre.", "A", "A mayor energía, mayor efecto."),
+      ("¿Por qué una ola grande mueve objetos pesados? A) Porque transporta más energía; B) Porque el agua de la ola viaja más lejos que la de una ola chica.", "A", "A mayor energía, mayor efecto."),
       ("¿Qué es un pulso?", "Una sola perturbación que recorre un medio", "Es una onda corta y única."),
   ],
   app=[
@@ -295,7 +295,7 @@ L(OA10, 1,
   app=[
       arith("Un trueno de ejemplo llega 5 segundos después del rayo. Con 340 m/s, ¿a cuántos metros cayó el rayo?", "340*5", "Se multiplica la rapidez por el tiempo.", " m"),
       ("¿Cuál es una pregunta investigable? A) ¿Cuántos segundos tarda el eco de una palmada en volver desde una pared a 34 m?; B) ¿Es hermoso el eco?", "A", "Se contesta midiendo el tiempo."),
-      arith("El sonido recorre 340 metros en 1 segundo. ¿Cuántos metros recorre en 4 segundos?", "340*4", "Se multiplica por el tiempo.", " m"),
+      arith("En 3 segundos, ¿cuántos metros más recorre el sonido en el agua (1.500 m/s) que en el aire (340 m/s)?", "1500*3-340*3", "Se calcula la distancia en cada medio y se restan.", " m"),
   ],
   rea=[
       ("Un astronauta golpea una herramienta en el espacio vacío. Su compañero, a 2 metros, no oye nada directamente. ¿Por qué? A) No hay medio material para el sonido; B) La herramienta no vibra.", "A", "El sonido necesita medio."),
@@ -342,7 +342,7 @@ L(OA10, 2,
   app=[
       ("Dos sonidos de ejemplo: el A de 200 Hz y el B de 800 Hz. ¿Cuál es más agudo?", "El B", "Tiene mayor frecuencia."),
       arith("Un ultrasonido de ejemplo tiene 40.000 Hz. ¿Cuántos Hz más que 20.000 Hz tiene?", "40000-20000", "Se resta el límite superior del rango humano.", " Hz"),
-      ("Una conversación suena a 60 dB y el tráfico intenso a 80 dB. ¿Cuál tiene mayor intensidad?", "El tráfico intenso", "80 dB es mayor que 60 dB."),
+      arith("Con los valores de referencia, ¿cuántos dB más intenso es un concierto fuerte (110 dB) que una conversación (60 dB)?", "110-60", "Se resta el valor de la conversación al del concierto.", " dB"),
   ],
   rea=[
       ("Un estudiante dice que el timbre depende de la frecuencia. ¿Qué corrección haces? A) El tono depende de la frecuencia y el timbre de la forma de la onda; B) Tiene razón.", "A", "Son cualidades distintas."),
@@ -401,7 +401,7 @@ L(OA10, 3,
   ],
   context=[arith("Una banda de ejemplo tiene 3 guitarras de 6 cuerdas cada una. ¿Cuántas cuerdas vibran en total?", "3*6", "Se multiplica el número de guitarras por las cuerdas.")],
   selfcheck=[("¿Cómo cambia el tono si se acorta una cuerda?", "Sube", "Aumenta su frecuencia."), ("¿Qué es la resonancia?", "Una vibración de gran amplitud cuando coincide la frecuencia", "Amplifica el sonido."), ("¿Qué vibra en las cuerdas vocales?", "Pliegues de la laringe", "Se mueven al pasar el aire.")],
-  open_task=task("Con un elástico grande estirado entre dos dedos, pulsa el elástico en tres situaciones y anota si el tono es más agudo o más grave: (1) estirado poco; (2) estirado bastante, sin llegar al máximo; (3) estirado igual que en (2) y acortado con un dedo a la mitad. Hazlo con cuidado: no lo apuntes hacia ninguna persona y protege tus ojos. Si no tienes elástico, usa estos datos de ejemplo: (1) grave; (2) agudo; (3) muy agudo. Escribe una conclusión sobre la tensión y la longitud.", "Más tensión aumenta el tono; menos longitud también. Orden de grave a agudo: (1), (2), (3).", ["anota tres observaciones", "relaciona tensión y longitud con tono", "conclusión coherente"], ["tabla y conclusión"], ["relacionar tensión con tono grave", "no registrar los casos"], "Pregunta qué pasaría con un elástico más grueso."),
+  open_task=task("Con un elástico grande estirado entre dos dedos, pulsa el elástico en tres situaciones y anota si el tono es más agudo o más grave: (1) estirado poco; (2) estirado bastante, sin llegar al máximo; (3) estirado igual que en (2) y acortado con un dedo a la mitad. Hazlo con cuidado y, si es posible, con una persona adulta cerca: usa un elástico nuevo, no lo estires hasta el máximo ni cerca de la cara, no lo apuntes hacia ninguna persona y protege tus ojos. Si no tienes elástico, usa estos datos de ejemplo: (1) grave; (2) agudo; (3) muy agudo. Escribe una conclusión sobre la tensión y la longitud.", "Más tensión aumenta el tono; menos longitud también. Orden de grave a agudo: (1), (2), (3).", ["anota tres observaciones", "relaciona tensión y longitud con tono", "conclusión coherente"], ["tabla y conclusión"], ["relacionar tensión con tono grave", "no registrar los casos"], "Pregunta qué pasaría con un elástico más grueso."),
   reinforce="Explica por qué una guitarra tiene cuerdas de distinto grosor.",
   extend="Explica por qué la resonancia exige que la frecuencia de la onda coincida con la frecuencia natural del cuerpo.")
 
@@ -436,7 +436,7 @@ L(OA10, 4,
   app=[
       arith("Un eco tarda 6 segundos en volver desde un acantilado. Con 340 m/s, ¿a qué distancia está?", "340*6//2", "Se multiplica la rapidez por el tiempo y se divide entre 2.", " m"),
       arith("Un sonar de ejemplo recibe el eco del fondo del mar a los 2 segundos. Con 1.500 m/s, ¿qué profundidad tiene?", "1500*2//2", "Se multiplica por el tiempo y se divide entre 2.", " m"),
-      ("Una bocina emite 500 Hz siempre. Cuando se acerca, una persona oye 540 Hz. ¿Cuál es la frecuencia que se emite? A) 500 Hz; B) 540 Hz.", "A", "La fuente no cambia su frecuencia; cambia la que se percibe."),
+      ("Una bocina emite siempre la misma frecuencia. Una persona quieta la oye a 540 Hz mientras se acerca y a 470 Hz mientras se aleja. ¿Cuál puede ser la frecuencia que emite? A) 500 Hz; B) 600 Hz.", "A", "Al acercarse se oye más aguda y al alejarse más grave, así que la real queda entre 470 y 540 Hz."),
   ],
   rea=[
       ("Una persona dice: «La ambulancia cambia su sirena cuando pasa». ¿Qué evidencia lo contradice? A) El conductor oye siempre el mismo tono, y solo cambia para el observador que está quieto; B) La ambulancia no tiene sirena.", "A", "El cambio depende del movimiento relativo."),
@@ -482,7 +482,7 @@ L(OA10, 5,
   ],
   app=[
       ("Escalas aproximadas: susurro 30 dB, conversación 60 dB, tráfico intenso 80 dB, concierto fuerte 110 dB. ¿Cuál de esas fuentes supera los 85 dB?", "El concierto fuerte", "Es la única con más de 85 dB."),
-      arith("Una persona escucha 2 horas diarias de música con audífonos durante 5 días a la semana. ¿Cuántas horas escucha en una semana?", "2*5", "Se multiplican las horas diarias por los días."),
+      arith("Una persona escucha música a 100 dB con audífonos 2 horas diarias durante 5 días a la semana. ¿Cuántas horas a la semana se expone a un nivel sobre los 85 dB?", "2*5", "Se multiplican las horas diarias por los días."),
       ("Una escuela instala paneles en un gimnasio ruidoso. ¿Qué fenómeno aprovechan para reducir el ruido? A) Absorción del sonido; B) Refracción de la luz.", "A", "Los paneles transforman energía sonora."),
   ],
   rea=[

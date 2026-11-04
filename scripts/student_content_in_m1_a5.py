@@ -54,11 +54,11 @@ lesson(
     [
         ("«Good morning, everyone. Today I will explain how to take care of a plant.» ¿Cuál es el propósito? A) explicar B) vender plantas", "A) explicar", "I will explain anuncia el propósito."),
         ("«Let me tell you about the day I met a famous swimmer.» ¿Qué propósito tiene? A) contar una experiencia B) dar instrucciones", "A) contar una experiencia", "Let me tell you about... introduce un relato."),
-        ("Tienes dos minutos para presentar. ¿Cuántas ideas principales conviene preparar? A) dos o tres B) diez", "A) dos o tres", "Con poco tiempo se explican pocas ideas con ejemplo."),
+        ("Tienes dos minutos para presentar. ¿Cuántas ideas principales conviene preparar? A) dos o tres B) siete u ocho", "A) dos o tres", "Con poco tiempo se explican pocas ideas con ejemplo."),
     ],
     [
         ("Hablarás en una reunión de madres, padres y apoderados. ¿Qué saludo eliges? A) Good evening, everyone. Thank you for coming. B) Hi, kids! Let's play!", "A) Good evening, everyone. Thank you for coming.", "El saludo se adapta a una audiencia adulta."),
-        ("Tu propósito es mostrar tu proyecto de ciencias. ¿Qué frase usas al comienzo? A) I'd like to show you my science project. B) I would like to buy a science project.", "A) I'd like to show you my science project.", "Show es mostrar y coincide con el propósito."),
+        ("Tu propósito es mostrar tu proyecto de ciencias. ¿Qué frase usas al comienzo? A) I'd like to show you my science project. B) I'd like to tell you a story.", "A) I'd like to show you my science project.", "Show es mostrar y coincide con el propósito."),
         ("Terminas una presentación para convencer. ¿Qué cierre es mejor? A) Please vote for the new recycling point. Thank you! B) That's all, I forgot the rest.", "A) Please vote for the new recycling point. Thank you!", "Repite la petición y agradece."),
     ],
     [
@@ -153,26 +153,26 @@ lesson(
         ("Poner texto muy pequeño o una imagen borrosa.", "No se revisa cómo se ve desde el fondo.", "Prueba tu recurso a distancia antes de presentar."),
     ],
     [
-        ("Quieres comparar cantidades. ¿Qué recurso eliges? A) un gráfico de barras B) una canción", "A) un gráfico de barras", "Muestra diferencias de tamaño con claridad."),
+        ("Quieres comparar cantidades. ¿Qué recurso eliges? A) un gráfico de barras B) una foto de un paisaje", "A) un gráfico de barras", "Muestra diferencias de tamaño con claridad."),
         ("Quieres mostrar cómo es un casco de bicicleta. ¿Qué recurso eliges? A) una imagen o el objeto B) una lista de números", "A) una imagen o el objeto", "Se ve su forma directamente."),
-        ("Quieres indicar tres ideas con un gesto. ¿Qué haces? A) levantar tres dedos B) cruzar los brazos", "A) levantar tres dedos", "El gesto coincide con la cantidad."),
+        ("Quieres indicar tres ideas con un gesto. ¿Qué haces? A) levantar tres dedos B) abrir la mano completa", "A) levantar tres dedos", "El gesto coincide con la cantidad."),
     ],
     [
         ("Una diapositiva tiene seis líneas largas de texto. ¿Qué es mejor? A) dejar solo tres palabras clave y explicar oralmente B) leerla completa", "A) dejar solo tres palabras clave y explicar oralmente", "El recurso refuerza; la explicación va en la voz."),
         ("Terminas una idea importante. ¿Qué haces con la voz? A) una pausa breve B) hablar más rápido", "A) una pausa breve", "La pausa da tiempo a la audiencia para procesar."),
-        ("«Never read the slide» significa que debes: A) explicar con tus palabras usando las palabras clave B) apagar el proyector", "A) explicar con tus palabras usando las palabras clave", "La diapositiva es un apoyo, no un guion."),
+        ("«Never read the slide» significa que debes: A) explicar con tus palabras usando las palabras clave B) no usar nunca diapositivas", "A) explicar con tus palabras usando las palabras clave", "La diapositiva es un apoyo, no un guion."),
     ],
     [
         ("Quieres mostrar los pasos de un proceso en orden de tiempo. ¿Qué recurso sirve? A) una línea de tiempo B) una foto única", "A) una línea de tiempo", "Muestra una secuencia de hechos."),
-        ("Quieres expresar un contraste entre dos ideas. ¿Qué gesto ayuda? A) mostrar una mano para una idea y la otra mano para la segunda B) esconder las manos", "A) mostrar una mano para una idea y la otra mano para la segunda", "El gesto separa visualmente las dos ideas."),
+        ("Quieres expresar un contraste entre dos ideas. ¿Qué gesto ayuda? A) mostrar una mano para una idea y la otra mano para la segunda B) mover las manos sin parar", "A) mostrar una mano para una idea y la otra mano para la segunda", "El gesto separa visualmente las dos ideas."),
         ("Presentas ante un grupo pequeño en una sala sin proyector. ¿Qué alternativa mantiene el apoyo visual? A) un cartel de cartulina con imágenes y palabras clave B) leer un texto largo", "A) un cartel de cartulina con imágenes y palabras clave", "Es un recurso visual sin tecnología."),
     ],
     [
-        ("Una foto tiene letras tan pequeñas que no se leen desde el fondo. ¿Qué cambias? A) hacerlas más grandes o dejar solo una palabra clave B) agregar más letras pequeñas", "A) hacerlas más grandes o dejar solo una palabra clave", "El recurso debe verse desde el fondo."),
+        ("Una foto tiene letras tan pequeñas que no se leen desde el fondo. ¿Qué cambias? A) hacerlas más grandes o dejar solo una palabra clave B) cambiar el color por uno más pálido", "A) hacerlas más grandes o dejar solo una palabra clave", "El recurso debe verse desde el fondo."),
         ("Un compañero pone en la diapositiva las mismas frases que dice y las lee a la misma velocidad. ¿Qué mejora? A) la diapositiva muestra palabras clave y él explica con sus palabras B) más texto en la diapositiva", "A) la diapositiva muestra palabras clave y él explica con sus palabras", "Así el recurso suma información en vez de repetirla."),
     ],
     [
-        ("Datos de ejemplo de una encuesta a 24 estudiantes: ir a pie 10, bus 8, bicicleta 6. ¿Qué gráfico muestra mejor cómo llegan al colegio? A) uno de barras con tres barras B) uno con una sola barra enorme", "A) uno de barras con tres barras", "Tres categorías comparables se muestran con tres barras."),
+        ("Datos de ejemplo de una encuesta a 24 estudiantes: ir a pie 10, bus 8, bicicleta 6. ¿Qué gráfico muestra mejor cómo llegan al colegio? A) uno de barras con tres barras B) una foto de estudiantes caminando", "A) uno de barras con tres barras", "Tres categorías comparables se muestran con tres barras."),
         ("En una charla sobre el reciclaje, el estudiante muestra un tarro de latas reales. ¿Qué cumple ese objeto? A) refuerza lo que dice, porque la audiencia ve de qué habla B) reemplaza la explicación", "A) refuerza lo que dice, porque la audiencia ve de qué habla", "Un objeto concreto apoya el mensaje."),
     ],
     [("Hablas con una persona de tu casa como audiencia y quieres que recuerde tres ideas. ¿Qué recurso combinado es mejor? A) tres palabras clave en un cartel, tres dedos y una pausa tras cada idea B) un texto largo y hablar muy rápido", "A) tres palabras clave en un cartel, tres dedos y una pausa tras cada idea", "Combina palabra, gesto y voz para reforzar el mensaje.")],
@@ -216,13 +216,13 @@ lesson(
         ("¿Cuál es la frase completa mejor para la nota «Topic: book swap»? A) I'd like to talk about our book swap. B) Topic book swap.", "A) I'd like to talk about our book swap.", "Convierte la nota en una oración con verbo."),
     ],
     [
-        ("Con las notas del book swap (A: «Dates: 3 to 7 June. Where: the library.» B: «You bring one book and take one book. No money.»), ¿qué frase para la presentación es correcta? A) The book swap is in the library from 3 to 7 June, and it is free. B) The book swap costs a lot of money.", "A) The book swap is in the library from 3 to 7 June, and it is free.", "Junta lugar, fechas y no money de ambos compañeros."),
+        ("Con las notas del book swap (A: «Dates: 3 to 7 June. Where: the library.» B: «You bring one book and take one book. No money.»), ¿qué frase para la presentación es correcta? A) The book swap is in the library from 3 to 7 June, and it is free. B) The book swap is in the library from 3 to 7 July, and it is free.", "A) The book swap is in the library from 3 to 7 June, and it is free.", "Junta lugar, fechas y no money de ambos compañeros."),
         ("En «The young trainer drew a tree for the information desk», ¿cuántas palabras empiezan con /tr/? A) 2 B) 3", "A) 2", "Trainer y tree empiezan con /tr/; drew empieza con /dr/."),
         ("Notas de A: «Show: robots. Day: Thursday.» Notas de B: «Place: lab two. Entry: free.» ¿Qué dato aporta B? A) el lugar y que la entrada es gratis B) el día de la muestra", "A) el lugar y que la entrada es gratis", "Place: lab two y Entry: free son de B."),
     ],
     [
-        ("Notas de A: «Project: school garden. Where: behind the gym.» Notas de B: «Plants: lettuce and tomatoes. Since: March.» ¿Qué frase junta los datos de ambos? A) The school garden is behind the gym, and we have grown lettuce and tomatoes since March. B) The school garden is in the library.", "A) The school garden is behind the gym, and we have grown lettuce and tomatoes since March.", "Une lugar, plantas y fecha de inicio."),
-        ("¿Qué pregunta le haces a B si A no dijo cuántos son en el equipo? A) How many students are in the team? B) Where is the gym?", "A) How many students are in the team?", "How many pregunta por la cantidad."),
+        ("Notas de A: «Project: school garden. Where: behind the gym.» Notas de B: «Plants: lettuce and tomatoes. Since: March.» ¿Qué frase junta los datos de ambos? A) The school garden is behind the gym, and we have grown lettuce and tomatoes since March. B) The school garden is behind the gym, and we have grown lettuce and tomatoes since April.", "A) The school garden is behind the gym, and we have grown lettuce and tomatoes since March.", "Une lugar, plantas y fecha de inicio."),
+        ("¿Qué pregunta le haces a B si A no dijo cuántos son en el equipo? A) How many students are in the team? B) Where is the school garden?", "A) How many students are in the team?", "How many pregunta por la cantidad."),
     ],
     [
         ("La nota de A dice «Day: Friday» y la de B dice «Time: five o'clock». ¿Qué frase junta ambos datos? A) The meeting is on Friday at five o'clock. B) The meeting is at Friday five.", "A) The meeting is on Friday at five o'clock.", "Se usa on con el día y at con la hora."),
@@ -270,7 +270,7 @@ lesson(
     ],
     [
         ("Una presentación usa tres palabras clave en un cartel, habla claro, cumple el tiempo y no tiene conclusión. ¿Qué meta propones? A) agregar una conclusión que resuma la idea principal B) usar más carteles", "A) agregar una conclusión que resuma la idea principal", "Es lo único que falta de la estructura."),
-        ("Un compañero te da este comentario: «Your idea is good, but add one example after each idea.» ¿Qué acción corresponde? A) agregar un ejemplo después de cada idea B) quitar las ideas", "A) agregar un ejemplo después de cada idea", "Así aplicas el comentario."),
+        ("Un compañero te da este comentario: «Your idea is good, but add one example after each idea.» ¿Qué acción corresponde? A) agregar un ejemplo después de cada idea B) agregar una idea más a la presentación", "A) agregar un ejemplo después de cada idea", "Así aplicas el comentario."),
         arith("Una presentación de ejemplo dura 2 minutos y tiene 200 palabras. ¿Cuántas palabras por minuto habla, en promedio?", "200//2", "Se divide el total de palabras por los minutos.", " palabras por minuto"),
     ],
     [

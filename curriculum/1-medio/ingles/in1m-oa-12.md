@@ -165,7 +165,7 @@ Respuesta: Propósito: encontrar un dato; busco directamente la hora de cierre
 
 *Razonamiento y análisis*
 
-- **Z1.** Ves: «Title: Atacama Stars: Astronomy for Beginners. Subtitle: Why the northern desert has some of the clearest skies. Image: a telescope under a night sky.» (clearest = más despejados; skies = cielos; telescope = telescopio; night sky = cielo nocturno) Luis predice: «The text will teach how to cook beans.» Ema predice: «The text will explain why the desert sky is clear for watching stars.» ¿Quién tiene más apoyo en las pistas? A) Luis, porque los frijoles se cocinan en el norte B) Ema, porque el título, el subtítulo y la imagen hablan de estrellas y de un cielo despejado C) Ninguno, porque no se puede predecir
+- **Z1.** Ves: «Title: Atacama Stars: Astronomy for Beginners. Subtitle: Why the northern desert has some of the clearest skies. Image: a telescope under a night sky.» (clearest = más despejados; skies = cielos; telescope = telescopio; night sky = cielo nocturno) Luis predice: «The text will teach how to cook beans.» Ema predice: «The text will explain why the desert sky is clear for watching stars.» ¿Quién tiene más apoyo en las pistas? A) Ninguno, porque no se puede predecir B) Luis, porque en el norte se cocinan muchos porotos C) Ema, porque el título, el subtítulo y la imagen hablan de estrellas y de un cielo despejado
 - **Z2.** Predijiste que el texto «Title: Atacama Stars: Astronomy for Beginners. Subtitle: Why the northern desert has some of the clearest skies. Image: a telescope under a night sky.» hablaría de telescopios muy caros. El primer párrafo dice que se puede mirar el cielo sin telescopio. ¿Qué haces? A) Cambio mi predicción con la nueva evidencia B) Mantengo mi predicción igual C) Dejo de leer
 
 *Desafío*
@@ -196,7 +196,7 @@ Respuesta: Propósito: encontrar un dato; busco directamente la hora de cierre
 - **A1.** A) Aprender los pasos y seguirlos. El subtítulo promete pasos para principiantes.
 - **A2.** A) El texto traerá cinco pasos explicados de forma sencilla. Five steps y beginners anuncian una guía corta para empezar.
 - **A3.** A) Encontrar un dato: ir directo a la sección What you need. Solo necesitas un dato, así que vas a la sección que lo contiene.
-- **Z1.** B) Ema, porque el título, el subtítulo y la imagen hablan de estrellas y de un cielo despejado. Las pistas del texto apoyan el tema del cielo.
+- **Z1.** C) Ema, porque el título, el subtítulo y la imagen hablan de estrellas y de un cielo despejado. Las pistas del texto apoyan el tema del cielo.
 - **Z2.** A) Cambio mi predicción con la nueva evidencia. La estrategia exige revisar la predicción cuando el texto la contradice.
 - **D1.** A) 1 leer con cuidado para entender las ideas; 2 buscar un dato; 3 leer por placer. Una charla pide comprender ideas, un horario pide un dato y un cuento se disfruta.
 - **D2.** C) Reviso mi conocimiento previo, porque el título lo contradice. Un conocimiento previo se puede corregir con nueva información.
@@ -575,9 +575,9 @@ Respuesta: Porque ganó el concurso de dibujo
 
 *Comprensión*
 
-- **C1.** Lee: «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» (restaurant = restaurante; waiter = camarero; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró) ¿Qué se puede inferir del restaurante? A) El cocinero está enojado con el camarero B) El restaurante está cerrado para siempre C) Probablemente han llegado pocos clientes
-- **C2.** Lee: «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» (restaurant = restaurante; waiter = camarero; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró) ¿Qué pista apoya mejor la inferencia de que hay pocos clientes? A) The restaurant was almost empty at lunch time B) The cook came out of the kitchen C) The tray had fresh bread
-- **C3.** Lee: «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» (restaurant = restaurante; waiter = camarero; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró) ¿Qué oración expresa la inferencia con evidencia? A) The cook is always sad B) The restaurant is a big building C) The restaurant is probably quiet today, because it is almost empty
+- **C1.** Lee: «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» (restaurant = restaurante; waiter = garzón; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró) ¿Qué se puede inferir del restaurante? A) Probablemente han llegado pocos clientes B) El restaurante está cerrado para siempre C) El cocinero está enojado con el garzón
+- **C2.** Lee: «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» (restaurant = restaurante; waiter = garzón; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró) ¿Qué pista apoya mejor la inferencia de que hay pocos clientes? A) The restaurant was almost empty at lunch time B) The cook came out of the kitchen C) The tray had fresh bread
+- **C3.** Lee: «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» (restaurant = restaurante; waiter = garzón; checking = revisando; watch = reloj; cook = cocinero; tray = bandeja; sighed = suspiró) ¿Qué oración expresa la inferencia con evidencia? A) The restaurant is a big building B) The restaurant is probably quiet today, because it is almost empty C) The cook is always sad
 
 *Aplicación*
 
@@ -588,11 +588,11 @@ Respuesta: Porque ganó el concurso de dibujo
 *Razonamiento y análisis*
 
 - **Z1.** Lee: «Camila's room was full of medals and photos of swimming pools. A towel was still wet on the chair.» (medals = medallas; swimming pools = piscinas; towel = toalla; wet = mojada) ¿Cuál inferencia tiene mejor apoyo? A) Camila es profesora B) Camila odia el agua C) Camila probablemente nada, porque hay medallas y fotos de piscinas
-- **Z2.** Dos lectores leen: «Camila's room was full of medals and photos of swimming pools. A towel was still wet on the chair.» Lector 1: «Camila swam today, because the towel is still wet.» Lector 2: «Camila swam last week.» ¿Quién tiene mejor apoyo? A) Ninguno, porque el texto no lo dice B) El lector 2, porque hay medallas C) El lector 1, porque una toalla todavía mojada indica algo reciente
+- **Z2.** Dos lectores leen: «Camila's room was full of medals and photos of swimming pools. A towel was still wet on the chair.» Lector 1: «Camila probably swam today, because the towel is still wet.» Lector 2: «Camila swam last week.» ¿Quién tiene mejor apoyo? A) El lector 1, porque una toalla todavía mojada indica algo reciente B) El lector 2, porque hay medallas C) Ninguno, porque el texto no lo dice
 
 *Desafío*
 
-- **D1.** Lee: «Carlos was holding two tickets and checking the clock. His friend arrived and said, Sorry I am late. Carlos sighed: The film started ten minutes ago.» (tickets = entradas; clock = reloj de pared; film = película; started = empezó; ago = hace) ¿Qué se puede inferir? A) Probablemente ya se perdieron el comienzo de la película B) La película ya terminó C) Carlos está enojado con las entradas
+- **D1.** Lee: «Carlos was holding two tickets and checking the clock. His friend arrived and said, Sorry I am late. Carlos sighed: The movie started ten minutes ago.» (tickets = entradas; clock = reloj de pared; movie = película; started = empezó; ago = hace) ¿Qué se puede inferir? A) Carlos está enojado con las entradas B) La película ya terminó C) Probablemente ya se perdieron el comienzo de la película
 - **D2.** En el texto «The restaurant was almost empty at lunch time. The waiter kept looking at the door and checking his watch. The cook came out of the kitchen with a tray of fresh bread, put it on a table and sighed.» alguien infiere que el cocinero está triste porque el restaurante está vacío. ¿Por qué esa inferencia es más débil que «hay pocos clientes»? A) Porque suspirar es algo alegre B) Porque los cocineros nunca se ponen tristes C) Porque el texto solo dice que suspiró, no por qué
 
 *Situaciones auténticas*
@@ -612,15 +612,15 @@ Respuesta: Porque ganó el concurso de dibujo
 - **R1.** B) una idea que deduzco con pistas del texto y lo que ya sé. La inferencia no está escrita pero se apoya en evidencia.
 - **R2.** B) comprobar o corregir lo que entendí. Releer ayuda a comprender mejor.
 - **R3.** A) probablemente. Probably expresa una inferencia con buenas pistas.
-- **C1.** C) Probablemente han llegado pocos clientes. Está casi vacío, el camarero mira la puerta y el cocinero suspira.
+- **C1.** A) Probablemente han llegado pocos clientes. Está casi vacío, el garzón mira la puerta y el cocinero suspira.
 - **C2.** A) The restaurant was almost empty at lunch time. Casi vacío a la hora del almuerzo es la pista más directa.
-- **C3.** C) The restaurant is probably quiet today, because it is almost empty. Une probably con la pista del texto.
+- **C3.** B) The restaurant is probably quiet today, because it is almost empty. Une probably con la pista del texto.
 - **A1.** C) Su nombre aparece en la lista. Sonríe y grita Yes! después de leer la lista.
 - **A2.** B) His hands were shaking. Las manos temblando son una pista de nervios.
 - **A3.** C) Probablemente contará la noticia a su familia. Corre a llamar a su mamá.
 - **Z1.** C) Camila probablemente nada, porque hay medallas y fotos de piscinas. Las medallas y las piscinas apoyan la idea de que nada.
-- **Z2.** C) El lector 1, porque una toalla todavía mojada indica algo reciente. Una toalla mojada se seca con rapidez, así que lo ocurrido es reciente.
-- **D1.** A) Probablemente ya se perdieron el comienzo de la película. La película empezó hace diez minutos y recién llegó el amigo.
+- **Z2.** A) El lector 1, porque una toalla todavía mojada indica algo reciente. Una toalla mojada se seca con rapidez, así que lo ocurrido es reciente.
+- **D1.** C) Probablemente ya se perdieron el comienzo de la película. La película empezó hace diez minutos y recién llegó el amigo.
 - **D2.** C) Porque el texto solo dice que suspiró, no por qué. El texto no explica el motivo del suspiro.
 - **S1.** C) Esperar el bus en el portón norte. El portón principal está cerrado por reparaciones.
 - **E1.** A) Probably. Probably expresa probabilidad.
@@ -1004,7 +1004,7 @@ Respuesta: Un jubilado convirtió un bus en una biblioteca móvil que visita sei
 
 - **A1.** Lee: «Title: A Library on Wheels. Subtitle: How an old bus brings books to the hills. Paragraph 1: In the hills above Coquimbo, many families live far from a library. Mr. Soto, a retired teacher, turned an old bus into a mobile library. Paragraph 2: Every Saturday the bus visits six villages. Children borrow up to three books and return them the next week. Paragraph 3: At first only ten children came. Now eighty visit each week, and volunteers read stories aloud. (Texto de ejemplo.)» (wheels = ruedas; hills = cerros; retired = jubilado; mobile = móvil; villages = aldeas; borrow = pedir prestado; return = devolver; volunteers = voluntarios; aloud = en voz alta) ¿Qué inferencia tiene mejor apoyo sobre por qué aumentó el número de niños? A) Hay menos aldeas B) El bus se hizo más grande C) Probablemente el servicio es útil y los niños lo disfrutan
 - **A2.** Un compañero resume «Title: A Library on Wheels. Subtitle: How an old bus brings books to the hills. Paragraph 1: In the hills above Coquimbo, many families live far from a library. Mr. Soto, a retired teacher, turned an old bus into a mobile library. Paragraph 2: Every Saturday the bus visits six villages. Children borrow up to three books and return them the next week. Paragraph 3: At first only ten children came. Now eighty visit each week, and volunteers read stories aloud. (Texto de ejemplo.)» así: «Mr. Soto has a restaurant in Coquimbo.» ¿Qué corrección haces? A) Mr. Soto es un profesor jubilado que tiene una biblioteca móvil B) Está bien, porque Coquimbo es una ciudad C) Mr. Soto vive en Valparaíso
-- **A3.** Lee: «Title: A Library on Wheels. Subtitle: How an old bus brings books to the hills. Paragraph 1: In the hills above Coquimbo, many families live far from a library. Mr. Soto, a retired teacher, turned an old bus into a mobile library. Paragraph 2: Every Saturday the bus visits six villages. Children borrow up to three books and return them the next week. Paragraph 3: At first only ten children came. Now eighty visit each week, and volunteers read stories aloud. (Texto de ejemplo.)» (wheels = ruedas; hills = cerros; retired = jubilado; mobile = móvil; villages = aldeas; borrow = pedir prestado; return = devolver; volunteers = voluntarios; aloud = en voz alta) ¿Qué ocurrió primero, según el párrafo 3? A) Los voluntarios leyeron cuentos en voz alta a ochenta niños B) Al comienzo llegaron solo diez niños C) El bus visitó seis aldeas
+- **A3.** Lee: «Title: A Library on Wheels. Subtitle: How an old bus brings books to the hills. Paragraph 1: In the hills above Coquimbo, many families live far from a library. Mr. Soto, a retired teacher, turned an old bus into a mobile library. Paragraph 2: Every Saturday the bus visits six villages. Children borrow up to three books and return them the next week. Paragraph 3: At first only ten children came. Now eighty visit each week, and volunteers read stories aloud. (Texto de ejemplo.)» (wheels = ruedas; hills = cerros; retired = jubilado; mobile = móvil; villages = aldeas; borrow = pedir prestado; return = devolver; volunteers = voluntarios; aloud = en voz alta) ¿Qué ocurrió primero, según el párrafo 3? A) Ahora ochenta niños visitan el bus cada semana B) Al comienzo llegaron solo diez niños C) Los voluntarios leen cuentos en voz alta
 
 *Razonamiento y análisis*
 
@@ -1038,7 +1038,7 @@ Respuesta: Un jubilado convirtió un bus en una biblioteca móvil que visita sei
 - **C3.** B) Every Saturday. Está en el párrafo 2.
 - **A1.** C) Probablemente el servicio es útil y los niños lo disfrutan. Subió de diez a ochenta y hay voluntarios que leen cuentos.
 - **A2.** A) Mr. Soto es un profesor jubilado que tiene una biblioteca móvil. El restaurante no aparece en el texto.
-- **A3.** B) Al comienzo llegaron solo diez niños. Los tres hechos aparecen en el párrafo 3 en orden: At first, y luego Now.
+- **A3.** B) Al comienzo llegaron solo diez niños. El párrafo 3 usa At first para el comienzo (diez niños) y Now para lo de hoy (ochenta niños).
 - **Z1.** 70 niños. Se resta la cantidad inicial a la actual. Cálculo: 80 − 10 = 70.
 - **Z2.** C) No se confirmó, porque cada vez van más niños. El texto cuenta que el número creció.
 - **D1.** C) El 1, porque todos sus datos están en el texto. El resumen 2 inventa treinta libros; el texto dice up to three.

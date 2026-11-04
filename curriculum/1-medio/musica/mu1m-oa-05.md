@@ -377,7 +377,7 @@ Respuesta: Uso sonidos largos y suaves porque el mar en calma se mueve despacio
 *Desafío*
 
 - **D1.** Una profesora pide una música que represente una despedida. Un grupo propone un ritmo muy rápido y estruendoso. Otro grupo propone sonidos lentos y suaves con pausas. ¿Cuál sugiere mejor una despedida emotiva? A) El segundo grupo. B) El primero.
-- **D2.** Un grupo de 5 estudiantes crea una escena de 4 tramos y cada estudiante hace sonidos en 2 tramos distintos. ¿Cuántos «turnos» de sonido hay en total?
+- **D2.** Una escena de ejemplo tiene 4 tramos de 8 pulsos cada uno y se toca a 96 pulsos por minuto. ¿Cuántos segundos dura?
 
 *Situaciones auténticas*
 
@@ -405,7 +405,7 @@ Respuesta: Uso sonidos largos y suaves porque el mar en calma se mueve despacio
 - **Z1.** Volumen fuerte. La tormenta es la parte más intensa de la lluvia.
 - **Z2.** 12 pulsos. Los tramos 2 y 3 suman 12 pulsos. Cálculo: 2 × 6 = 12.
 - **D1.** A. Lo lento y suave con pausas transmite emoción tranquila.
-- **D2.** 10 turnos. Se multiplican los estudiantes por los tramos de cada uno. Cálculo: 5 × 2 = 10.
+- **D2.** 20 segundos. Hay 32 pulsos; a 96 por minuto, 32 × 60 ÷ 96 = 20. Cálculo: 4 × 8 × 60 ÷ 96 = 20.
 - **S1.** B. El final es calmado: la lluvia cesa y se aquieta.
 - **E1.** Extramusical. Viene de fuera de la música.
 - **E2.** La idea. La idea guía las decisiones.
@@ -974,7 +974,7 @@ Respuesta: La versión 2
 
 *Recuperación*
 
-- **R1.** Versión 1 (de ejemplo) de una improvisación: 12 notas, de las cuales 4 repiten el motivo 1 2 3 5; termina en la nota 2; 80 pulsos por minuto; 16 compases de 4 pulsos. Versión 2: 14 notas, de las cuales 8 repiten el motivo 1 2 3 5; termina en la nota 1; 96 pulsos por minuto; 16 compases de 4 pulsos. ¿Cuántas notas tiene la versión 1?
+- **R1.** Versión 1 (de ejemplo) de una improvisación: 12 notas, de las cuales 4 repiten el motivo 1 2 3 5; termina en la nota 2; 80 pulsos por minuto; 16 compases de 4 pulsos. Versión 2: 14 notas, de las cuales 8 repiten el motivo 1 2 3 5; termina en la nota 1; 96 pulsos por minuto; 16 compases de 4 pulsos. ¿Cuántas notas más tiene la versión 2 que la versión 1?
 - **R2.** Versión 1 (de ejemplo) de una improvisación: 12 notas, de las cuales 4 repiten el motivo 1 2 3 5; termina en la nota 2; 80 pulsos por minuto; 16 compases de 4 pulsos. Versión 2: 14 notas, de las cuales 8 repiten el motivo 1 2 3 5; termina en la nota 1; 96 pulsos por minuto; 16 compases de 4 pulsos. ¿A cuántos pulsos por minuto se toca la versión 2?
 - **R3.** ¿Qué se necesita antes de grabar a un grupo?
 
@@ -1014,7 +1014,7 @@ Respuesta: La versión 2
 
 **Solucionario razonado**
 
-- **R1.** 12. Así lo indica la ficha.
+- **R1.** 2 notas. Se restan las notas de la versión 1 a las de la 2. Cálculo: 14 − 12 = 2.
 - **R2.** 96. Así lo indica la ficha.
 - **R3.** El permiso de todas las personas. Es una norma de respeto.
 - **C1.** B. 80 pulsos por minuto es menos que 96.

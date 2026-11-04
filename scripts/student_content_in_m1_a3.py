@@ -57,27 +57,27 @@ lesson(
     [
         (ADULT + TREES + " ¿Cuál es el tema? A) por qué se plantan árboles en las calles B) cómo se pintan las bancas", "A) por qué se plantan árboles en las calles", "La frase why cities plant trees along the streets anuncia el tema."),
         (ADULT + BOOKS + " ¿Cuál es el propósito? A) invitar a donar libros B) vender libros usados", "A) invitar a donar libros", "Dice Bring them to the school library para enviarlos a una escuela rural."),
-        (ADULT + PROJ + " ¿Quiénes hablan y de qué? A) dos estudiantes que planifican un proyecto de ciencias B) un profesor que explica una lección", "A) dos estudiantes que planifican un proyecto de ciencias", "Se turnan para decidir el tema y la maqueta."),
+        (ADULT + PROJ + " ¿Quiénes hablan y de qué? A) dos estudiantes que planifican un proyecto de ciencias B) dos estudiantes que discuten la fecha de entrega", "A) dos estudiantes que planifican un proyecto de ciencias", "Se turnan para decidir el tema y la maqueta."),
     ],
     [
-        (ADULT + TREES + " ¿Cuál de estas ideas es relevante para el tema? A) los árboles dan sombra y hogar a las aves B) las calles se pintan de verde", "A) los árboles dan sombra y hogar a las aves", "Son razones que apoyan por qué se plantan árboles."),
+        (ADULT + TREES + " ¿Cuál de estas ideas es relevante para el tema? A) los árboles dan sombra y hogar a las aves B) los autos hacen ruido en las calles", "A) los árboles dan sombra y hogar a las aves", "Son razones que apoyan por qué se plantan árboles."),
         (ADULT + SQUARE + " ¿Cuál es el propósito? A) informar un cambio de uso de la plaza B) contar una anécdota", "A) informar un cambio de uso de la plaza", "Anuncia que el domingo la plaza estará cerrada a los autos."),
-        (ADULT + PROJ + " ¿Qué idea es relevante para el plan? A) construir una maqueta pequeña con cartón y papel de aluminio B) elegir el tema de otro curso", "A) construir una maqueta pequeña con cartón y papel de aluminio", "Es lo que acuerdan para el proyecto sobre energía solar."),
+        (ADULT + PROJ + " ¿Qué idea es relevante para el plan? A) construir una maqueta pequeña con cartón y papel de aluminio B) que el proyecto será sobre energía eólica", "A) construir una maqueta pequeña con cartón y papel de aluminio", "Es lo que acuerdan para el proyecto sobre energía solar."),
     ],
     [
-        (ADULT + TREES + " ¿Cuál es el propósito principal? A) explicar y convencer B) entretener con un cuento", "A) explicar y convencer", "Explica razones y termina con So I believe every neighbourhood needs more trees."),
+        (ADULT + TREES + " ¿Cuál es el propósito principal? A) explicar y convencer B) informar un cambio de la municipalidad", "A) explicar y convencer", "Explica razones y termina con So I believe every neighbourhood needs more trees."),
         (ADULT + SQUARE + " ¿Qué dos ideas son relevantes para alguien que quiere ir en auto el domingo? A) la plaza está cerrada a los autos y es de ocho a cuatro B) los voluntarios plantan flores", "A) la plaza está cerrada a los autos y es de ocho a cuatro", "Son las restricciones que cambian lo que esa persona puede hacer."),
-        (ADULT + BOOKS + " ¿Cuál sería un buen título? A) Dona tus libros viejos B) Cómo hacer una biblioteca de cartón", "A) Dona tus libros viejos", "Resume el propósito y el tema."),
+        (ADULT + BOOKS + " ¿Cuál sería un buen título? A) Dona tus libros viejos B) Una biblioteca nueva para la escuela rural", "A) Dona tus libros viejos", "Resume el propósito y el tema."),
     ],
     [
         (ADULT + BOOKS + " Un compañero dice que la idea principal es que la biblioteca está vieja. ¿Qué respondes? A) no: la idea principal es donar libros para una escuela rural B) sí: la biblioteca es lo central", "A) no: la idea principal es donar libros para una escuela rural", "La biblioteca es solo el lugar de entrega."),
         (ADULT + SQUARE + " Un compañero dice que el propósito es convencer de comprar algo. ¿Qué respondes? A) no: informa un cierre y una actividad de limpieza B) sí: dice comprar", "A) no: informa un cierre y una actividad de limpieza", "No hay órdenes de compra ni promesas: solo información."),
     ],
     [
-        (ADULT + TURTLE + " ¿Cuál es el tema? A) cómo cuidar a su tortuga B) la historia de las tortugas marinas", "A) cómo cuidar a su tortuga", "Cuenta qué come, dónde duerme y por qué debe cuidarla."),
+        (ADULT + TURTLE + " ¿Cuál es el tema? A) su tortuga mascota y los cuidados que necesita B) cuánto viven las tortugas en la naturaleza", "A) su tortuga mascota y los cuidados que necesita", "Cuenta qué come, dónde duerme y por qué debe cuidarla."),
         (ADULT + TURTLE + " ¿Qué idea es un detalle y no la idea central? A) tiene doce años B) hay que cuidarla por muchos años", "A) tiene doce años", "La edad es un dato; la razón de cuidarla muchos años sostiene el mensaje final."),
     ],
-    [(ADULT + UNIFORM + " ¿Cuál es el propósito? A) avisar una actividad y pedir un aporte en dinero B) vender uniformes", "A) avisar una actividad y pedir un aporte en dinero", "Anuncia el día de colores libres y pide mil pesos para el paseo.")],
+    [(ADULT + UNIFORM + " ¿Cuál es el propósito? A) avisar una actividad y pedir un aporte en dinero B) pedir que todos usen el uniforme", "A) avisar una actividad y pedir un aporte en dinero", "Anuncia el día de colores libres y pide mil pesos para el paseo.")],
     [
         ("En Inglés de 1.º medio (OA 3, clase 1): ¿qué es el propósito de un texto oral?", "La razón por la que se habla, como explicar, convencer o invitar", "Responde para qué se dice."),
         ("En Inglés de 1.º medio (OA 3, clase 1): ¿cómo reconoces una idea relevante?", "Es la que sostiene el tema: si se saca, el texto cambia", "No es un detalle secundario."),
@@ -182,13 +182,13 @@ lesson(
         (ADULT + FOOD + " ¿Qué prefiere el narrador? A) sabores suaves B) comida picante", "A) sabores suaves", "Dice I can only eat mild flavours."),
     ],
     [
-        (ADULT + CLASSES + " ¿Cuál es una ventaja de las clases en línea? A) son flexibles B) hacen perder amigos", "A) son flexibles", "Dice Online classes are flexible."),
-        (ADULT + CLASSES + " ¿Qué contraste hay con las clases presenciales? A) sirven para hacer amigos, aunque requieren tiempo de viaje B) son siempre más baratas", "A) sirven para hacer amigos, aunque requieren tiempo de viaje", "Although marca la desventaja de viajar."),
+        (ADULT + CLASSES + " ¿Cuál es una ventaja de las clases en línea? A) son flexibles B) permiten hacer amigos más fácilmente", "A) son flexibles", "Dice Online classes are flexible."),
+        (ADULT + CLASSES + " ¿Qué contraste hay con las clases presenciales? A) sirven para hacer amigos, aunque requieren tiempo de viaje B) son flexibles, aunque requieren tiempo de viaje", "A) sirven para hacer amigos, aunque requieren tiempo de viaje", "Although marca la desventaja de viajar."),
         (ADULT + FORECAST + " ¿Qué dijo el pronóstico y qué ocurrió? A) soleado, pero llovió B) lluvia, pero salió el sol", "A) soleado, pero llovió", "However marca el cambio entre lo esperado y lo ocurrido."),
     ],
     [
-        (ADULT + FOOD + " ¿En lugar de qué compartieron una sopa suave? A) de pedir la salsa picante B) de pedir un postre", "A) de pedir la salsa picante", "Instead of ordering the hot sauce."),
-        (ADULT + FORECAST + " ¿Qué hicieron en lugar del picnic? A) comieron en casa B) fueron al cine", "A) comieron en casa", "Dice Instead of the picnic, we ate at home."),
+        (ADULT + FOOD + " ¿En lugar de qué compartieron una sopa suave? A) de pedir la salsa picante B) de pedir otra sopa", "A) de pedir la salsa picante", "Instead of ordering the hot sauce."),
+        (ADULT + FORECAST + " ¿Qué hicieron en lugar del picnic? A) comieron en casa B) comieron en un restaurante", "A) comieron en casa", "Dice Instead of the picnic, we ate at home."),
         (ADULT + FOOD + " ¿Qué palabra compara los gustos de Leo y del narrador? A) while B) instead", "A) while", "While une dos preferencias distintas: picante y suave."),
     ],
     [
@@ -197,7 +197,7 @@ lesson(
     ],
     [
         (ADULT + SHOES + " Un amigo dice que los zapatos baratos son mejores en todo. ¿Qué dato lo contradice? A) no son cómodos B) cuestan menos", "A) no son cómodos", "Dice they are not comfortable; que cuesten menos es una ventaja."),
-        (ADULT + "«Maya wanted a pet dog. However, her flat is small, so she adopted a cat instead of a dog. Although the cat is calm, Maya still dreams about a dog.» (pet = mascota, flat = departamento, small = pequeño, adopted = adoptó, calm = tranquilo, dreams about = sueña con). ¿Qué adoptó en lugar de un perro y por qué? A) un gato, porque su departamento es pequeño B) un conejo, porque es más barato", "A) un gato, porque su departamento es pequeño", "However introduce la razón: her flat is small."),
+        (ADULT + "«Maya wanted a pet dog. However, her flat is small, so she adopted a cat instead of a dog. Although the cat is calm, Maya still dreams about a dog.» (pet = mascota, flat = departamento, small = pequeño, adopted = adoptó, calm = tranquilo, dreams about = sueña con). ¿Qué adoptó en lugar de un perro y por qué? A) un gato, porque su departamento es pequeño B) un conejo, porque es más barato", "A) un gato, porque su departamento es pequeño", "Instead of a dog significa en lugar de un perro; la razón sigue a so: her flat is small."),
     ],
     [(ADULT + "«I wanted to buy the blue jacket, but it was too big. The red one was smaller, so I bought it.» (jacket = chaqueta, too big = demasiado grande, smaller = más pequeña). ¿Por qué compró la roja? A) porque era más pequeña B) porque era azul", "A) porque era más pequeña", "La azul era demasiado grande; la roja, más pequeña.")],
     [
@@ -238,9 +238,9 @@ lesson(
         ("Mezclar la causa con la solución.", "Las dos ideas aparecen cerca en el texto y se confunden.", "Marca because para la causa y can o decided para la solución."),
     ],
     [
-        (ADULT + SLEEP + " ¿Cuál es el problema de Nico? A) no puede dormir temprano B) perdió su teléfono", "A) no puede dormir temprano", "Dice I can't sleep early."),
+        (ADULT + SLEEP + " ¿Cuál es el problema de Nico? A) no puede dormir temprano B) su teléfono está roto", "A) no puede dormir temprano", "Dice I can't sleep early."),
         (ADULT + SLEEP + " ¿Qué solución propone Mara? A) dejar el teléfono en otra pieza B) comprar un teléfono nuevo", "A) dejar el teléfono en otra pieza", "Why don't you leave it in another room?"),
-        (ADULT + MIRROR + " ¿Cuál es el problema de Elena? A) está nerviosa por su presentación en inglés B) llegó tarde a clases", "A) está nerviosa por su presentación en inglés", "Dice I'm nervous about my English presentation."),
+        (ADULT + MIRROR + " ¿Cuál es el problema de Elena? A) está nerviosa por su presentación en inglés B) no tiene tema para su presentación", "A) está nerviosa por su presentación en inglés", "Dice I'm nervous about my English presentation."),
     ],
     [
         (ADULT + TAP + " ¿Cuál es la causa de que el huerto no tenga agua? A) la llave está rota B) los vecinos no quieren ayudar", "A) la llave está rota", "Dice no water because the tap is broken."),
@@ -260,7 +260,7 @@ lesson(
         (ADULT + "«Bea: My plants always die. Joel: Do you give them water every day? Bea: Yes, every morning and evening. Joel: Maybe that is the problem. Too much water can hurt them. Water them only twice a week.» (plants = plantas, die = se mueren, evening = tarde-noche, hurt = dañar, twice = dos veces). ¿Qué causa propone Joel? A) exceso de agua B) falta de sol", "A) exceso de agua", "Dice Too much water can hurt them."),
         (ADULT + "«Bea: My plants always die. Joel: Do you give them water every day? Bea: Yes, every morning and evening. Joel: Maybe that is the problem. Too much water can hurt them. Water them only twice a week.» (plants = plantas, die = se mueren, hurt = dañar, twice = dos veces). ¿Qué solución propone Joel? A) regarlas solo dos veces por semana B) regarlas de noche", "A) regarlas solo dos veces por semana", "Dice Water them only twice a week."),
     ],
-    [(ADULT + "«Mari: My bike has a flat tyre, and I'm late for school. Dad: Take the bus today, and we'll fix it tonight.» (flat tyre = rueda pinchada, late = atrasada, fix = arreglar, tonight = esta noche). ¿Cuál es la solución inmediata? A) tomar el bus hoy B) caminar en la noche", "A) tomar el bus hoy", "Take the bus today es la solución inmediata; arreglar la bici será después.")],
+    [(ADULT + "«Mari: My bike has a flat tyre, and I'm late for school. Dad: Take the bus today, and we'll fix it tonight.» (flat tyre = rueda pinchada, late = atrasada, fix = arreglar, tonight = esta noche). ¿Cuál es la solución inmediata? A) tomar el bus hoy B) arreglar la bicicleta esta noche", "A) tomar el bus hoy", "Take the bus today es la solución inmediata; arreglar la bici será después.")],
     [
         ("En Inglés de 1.º medio (OA 3, clase 4): ¿qué es una relación problema-solución?", "Una dificultad y la propuesta para resolverla", "Se reconoce por frases como Why don't you...? o We can...."),
         ("En Inglés de 1.º medio (OA 3, clase 4): ¿qué palabra introduce una causa?", "Because", "Dice por qué ocurre algo."),
@@ -284,7 +284,7 @@ lesson(
     [
         "Cuando el tema es nuevo, no necesitas entender todas las palabras para captar la idea general. Primero identifica el propósito y el tema con ayuda de las palabras que se repiten y de las que conoces. En un texto sobre pulpos, aunque no conozcas jars, puedes entender que habla de cómo es un animal y qué puede hacer.",
         "Después busca los detalles que pide la pregunta. Usa lo que ya sabes: cifras, nombres, lugares y marcas de contraste (although, however, while) o de problema y solución (decided to, because). Si una palabra impide entender, usa el contexto: lo que se dice antes y después. No trates de traducirla; intenta adivinar su tipo, como una persona, un animal o un lugar.",
-        "Para cerrar, resume en una frase: El texto trata de... y dice que... Luego compruébalo con una idea relevante del texto. Si tu resumen incluye un detalle que no estaba, corrígelo. En estos textos, algunas ideas son hechos que el hablante afirma; otras son opiniones. Distínguelas: Scientists say es un hecho atribuido; I think es una opinión.",
+        "Para cerrar, resume en una frase: El texto trata de... y dice que... Luego compruébalo con una idea relevante del texto. Si tu resumen incluye un detalle que no estaba, corrígelo. En estos textos, algunas ideas son hechos que el hablante afirma; otras son opiniones. Distínguelas: Scientists say es un hecho atribuido; I think y In my opinion marcan una opinión.",
     ],
     [("general idea", "idea general"), ("context", "contexto: lo que rodea a una palabra"), ("fact", "hecho: algo que se afirma como cierto"), ("scientists say", "los científicos dicen"), ("tradition", "tradición"), ("summary", "resumen")],
     [
@@ -298,7 +298,7 @@ lesson(
     [
         (ADULT + OCTO + " ¿Cuántos corazones tiene un pulpo según el texto? A) tres B) ocho", "A) tres", "Dice three hearts; eight se refiere a los brazos."),
         (ADULT + NEWYEAR + " ¿Qué comen algunas personas en Chile a medianoche según el texto? A) lentejas B) uvas", "A) lentejas", "Dice In Chile, some people eat lentils."),
-        (ADULT + COLD + " ¿Cuál era el problema del colegio? A) las salas estaban muy frías B) faltaban estufas en bodega", "A) las salas estaban muy frías", "Dice the classrooms were very cold."),
+        (ADULT + COLD + " ¿Cuál era el problema del colegio? A) las salas estaban muy frías B) las estufas del colegio estaban rotas", "A) las salas estaban muy frías", "Dice the classrooms were very cold."),
     ],
     [
         (ADULT + OCTO + " ¿Por qué un pulpo puede pasar por espacios muy pequeños? A) porque no tiene huesos B) porque tiene tres corazones", "A) porque no tiene huesos", "Although it has no bones, it can pass through very small spaces."),
@@ -312,7 +312,7 @@ lesson(
     ],
     [
         (ADULT + NEWYEAR + " Un compañero dice que el texto muestra que una tradición es mejor que otra. ¿Qué respondes? A) no: dice que los alimentos son distintos pero el deseo es el mismo B) sí: el texto elige una tradición", "A) no: dice que los alimentos son distintos pero el deseo es el mismo", "Although marca la diferencia sin juzgar."),
-        (ADULT + OCTO + " ¿Qué ejemplo da el texto de que los pulpos resuelven problemas? A) abren frascos B) nadan muy rápido", "A) abren frascos", "Dice for example, opening jars."),
+        (ADULT + OCTO + " ¿Qué ejemplo da el texto de que los pulpos resuelven problemas? A) abren frascos B) tienen tres corazones", "A) abren frascos", "Dice for example, opening jars."),
     ],
     [
         (ADULT + SILK + " ¿Qué intercambiaban los comerciantes? A) telas, especias e ideas B) solo oro y plata", "A) telas, especias e ideas", "Dice They exchanged cloth, spices and ideas."),

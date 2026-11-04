@@ -40,7 +40,7 @@ build(
         ("=", "{F} ¿Cuántos años pasaron entre la batalla de Lircay y la Constitución de 1833?", "1833-1830", "Se resta el año de Lircay al de la Constitución.", " años"),
         ("{F} ¿Qué hito es posterior? A) Constitución de 1833 B) Batalla de Maipú", "A) Constitución de 1833", "1833 es posterior a 1818."),
         ("{F} Un grupo propone que cada provincia decida sus asuntos internos. ¿Qué visión representa? A) Federalista B) Pelucona", "A) Federalista", "Querían autonomía provincial."),
-        ("{F} Un grupo quiere un presidente con muchas atribuciones para mantener el orden. ¿Qué visión representa? A) Pelucona B) Pipiola", "A) Pelucona", "Querían un Ejecutivo fuerte."),
+        ("{F} Un grupo quiere un presidente con mucho poder para mantener el orden. ¿Qué visión representa? A) Pelucona B) Pipiola", "A) Pelucona", "Querían un Ejecutivo fuerte."),
         ("{F} ¿Qué etapa corresponde a 1822–1828? A) Ensayos constitucionales que no lograron estabilidad B) El orden conservador", "A) Ensayos constitucionales que no lograron estabilidad", "La ficha lo dice."),
         ("{F} ¿Por qué se dice que la Constitución de 1833 dio relativa estabilidad?", "Porque rigió 92 años, hasta 1925", "Duró mucho más que los textos anteriores."),
         ("{F} Un compañero dice: «Después de 1818 el país quedó organizado». Corrígelo.", "Hubo ensayos constitucionales entre 1822 y 1828 y una guerra civil antes de 1833", "La organización fue un proceso."),
@@ -89,7 +89,7 @@ build(
         ("{F} ¿Qué fuente es normativa? A) La Fuente C B) La Fuente B", "A) La Fuente C", "Fija las reglas del poder."),
         ("{F} ¿Qué fuente defiende un gobierno fuerte? A) La Fuente B B) La Fuente A", "A) La Fuente B", "La carta del hacendado."),
         ("{F} ¿Qué frase describe la Fuente C? A) Votan los hombres que cumplan requisitos de renta o propiedad y sepan leer B) Todos los habitantes votan", "A) Votan los hombres que cumplan requisitos de renta o propiedad y sepan leer", "El resumen lo indica."),
-        ("{F} ¿Qué rasgo de la Fuente C se relaciona con las ideas conservadoras? A) El presidente con cinco años reelegible y religión oficial B) Elecciones sin límites", "A) El presidente con cinco años reelegible y religión oficial", "Dan estabilidad al Ejecutivo y a la tradición."),
+        ("{F} ¿Qué rasgo de la Fuente C se relaciona con las ideas conservadoras? A) El presidente con cinco años reelegible y religión oficial B) Voto abierto a todos los adultos", "A) El presidente con cinco años reelegible y religión oficial", "Dan estabilidad al Ejecutivo y a la tradición."),
         ("{F} ¿Por qué el editorial no prueba lo que pensaban todos los chilenos?", "Porque expresa la postura de un periódico liberal", "Es la voz de un grupo."),
         ("{F} Un compañero concluye: «Con la Constitución de 1833 todos votaban». ¿Qué corrección haces?", "El resumen dice que votaban solo los hombres con renta o propiedad que sabían leer", "El voto era limitado."),
         ("{F} ¿Qué voz falta en las tres fuentes? A) La de personas que no podían votar B) La de otro hacendado", "A) La de personas que no podían votar", "Ninguna fuente las incluye."),
@@ -191,7 +191,7 @@ build(
         ("{F} Un compañero dice: «Todos aceptaban la Constitución de 1833». Refútalo con la ficha.", "Los liberales y federalistas tenían visiones distintas y las mujeres no podían votar", "Hubo grupos con otras ideas."),
         ("{F} ¿Qué voz falta para entender la república? A) La de un campesino sin tierras B) La de otro político", "A) La de un campesino sin tierras", "Completa la perspectiva de los excluidos."),
         ("{F} ¿Qué conclusión es más equilibrada? A) La república se formó entre visiones distintas y la victoria conservadora impuso su proyecto, dejando fuera a algunos grupos B) Todos pensaban igual", "A) La república se formó entre visiones distintas y la victoria conservadora impuso su proyecto, dejando fuera a algunos grupos", "Reúne las cuatro voces."),
-        ("{F} ¿Qué pregunta ayuda a contrastar actores? A) ¿Qué quiere, qué le conviene y qué teme cada uno? B) ¿Quién era más famoso?", "A) ¿Qué quiere, qué le conviene y qué teme cada uno?", "Es el método de contraste."),
+        ("{F} ¿Qué pregunta ayuda a contrastar actores? A) ¿Qué quiere, qué le conviene y qué teme cada uno? B) ¿Qué actor tiene la razón y cuál se equivoca?", "A) ¿Qué quiere, qué le conviene y qué teme cada uno?", "Es el método de contraste."),
     ],
     ctx=("En un debate escolar, un grupo defiende el Ejecutivo fuerte y otro la autonomía de las provincias. ¿Qué voz usa el segundo grupo? A) La del federalista B) La del conservador", "A) La del federalista", "Pide decidir en cada provincia."),
     sc=[("¿Qué es la libertad de prensa?", "El derecho a publicar opiniones sin censura previa", "Así se define."),
@@ -211,7 +211,7 @@ F = ("Ficha 5 (datos para construir un argumento). "
      "Dato 1: la Constitución de 1833 estableció un presidente con amplias atribuciones, elegido por cinco años y reelegible una vez. "
      "Dato 2: un grupo dirigente cohesionado, formado por hacendados, comerciantes y mineros, apoyaba el orden. "
      "Dato 3: la economía creció con la minería y el comercio por Valparaíso. "
-     "Dato 4: el ejército quedó subordinado al poder civil y existió una Guardia Nacional. "
+     "Dato 4: el ejército quedó, en general, subordinado al poder civil (hubo levantamientos, como los de 1851 y 1859) y existió una Guardia Nacional. "
      "Dato 5: la Constitución regía por 92 años (hasta 1925) y el voto estaba restringido a hombres con renta o propiedad que sabían leer.")
 build(
     OA, 5, F,

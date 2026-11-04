@@ -578,7 +578,7 @@ Respuesta: 1/4
 
 *Razonamiento y análisis*
 
-- **Z1.** Raúl calculó 2/3 ÷ 4/5 = 8/15 multiplicando en línea recta. ¿Cuál es el resultado correcto?
+- **Z1.** Raúl calculó 2/3 ÷ 4/5 = 8/15 multiplicando sin invertir la segunda fracción. ¿Cuál es el resultado correcto?
 - **Z2.** ¿Existe un número que multiplicado por 0 dé 1? A) No, ninguno B) Sí, el 1
 
 *Desafío*
@@ -764,7 +764,7 @@ Respuesta: $11.250
 **Errores frecuentes y cómo reconocerlos**
 
 - **Error:** Calcular 1/2 + 1/3·3 como (5/6)·3. **Por qué ocurre:** Se sumó antes de multiplicar, saltándose el orden de las operaciones. **Cómo corregirlo:** Primero 1/3·3 = 1, y después 1/2 + 1 = 3/2.
-- **Error:** Redondear 7/8 + 9/10 a 3 al estimar. **Por qué ocurre:** Se redondeó cada fracción hacia arriba en exceso. **Cómo corregirlo:** 7/8 y 9/10 están cerca de 1, así que la estimación es 2.
+- **Error:** Redondear 7/8 + 9/10 a 3 al estimar. **Por qué ocurre:** Se redondeó cada fracción a 1,5 en vez de al entero más cercano. **Cómo corregirlo:** 7/8 y 9/10 están cerca de 1, así que la estimación es 2.
 
 **Ejercicios**
 
@@ -777,7 +777,7 @@ Respuesta: $11.250
 *Comprensión*
 
 - **C1.** Calcula −3/4 + 2/3·(−3/2).
-- **C2.** ¿Qué se calcula primero en 5/6 − 1/2·4/3? A) La multiplicación B) La resta
+- **C2.** Calcula 5/6 − 1/2·4/3.
 - **C3.** Estima 4,1·(−1/2) redondeando 4,1 a 4.
 
 *Aplicación*
@@ -811,10 +811,10 @@ Respuesta: $11.250
 **Solucionario razonado**
 
 - **R1.** 1. Primero el producto, que vale 1; luego la resta.
-- **R2.** 1. El paréntesis vale 1/6 y dividir un número por sí mismo da 1.
+- **R2.** 1. El paréntesis vale 3/6 − 2/6; luego se multiplica por el inverso de 1/6.
 - **R3.** 3/4. 0,5 = 2/4, entonces 2/4 + 1/4.
 - **C1.** −7/4. El producto vale −1 y luego se suma −3/4 + (−1).
-- **C2.** A. La multiplicación tiene prioridad sobre la resta si no hay paréntesis.
+- **C2.** 1/6. Primero el producto 1/2·4/3 = 2/3; luego 5/6 − 4/6.
 - **C3.** −2. La mitad de 4 es 2 y el producto es negativo.
 - **A1.** 2.000 pesos. Ahorra $5.000 y 2/5 de $5.000 es $2.000.
 - **A2.** 1/2. Queda 3/4 de lo que tenía: 3/4·2/3.

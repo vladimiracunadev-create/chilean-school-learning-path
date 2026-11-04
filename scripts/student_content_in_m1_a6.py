@@ -64,8 +64,8 @@ lesson(
         ("Tu tema es «plants» y quieres conectarlo con Ciencias. ¿Qué frase sirve? A) In Science, we learned that plants need light. B) In Music, we learned a new song.", "A) In Science, we learned that plants need light.", "Relaciona el tema con Ciencias."),
     ],
     [
-        ("Un diagrama tiene el texto completo de la presentación en cada rama. ¿Por qué es poco útil? A) porque no se lee rápido y no ayuda a recordar B) porque ocupa menos espacio", "A) porque no se lee rápido y no ayuda a recordar", "Las ramas deben ser breves para servir de pista."),
-        arith("Ensayas tres veces en voz alta una presentación de 2 minutos. ¿Cuántos minutos practicas en total?", "3*2", "Tres ensayos de 2 minutos cada uno.", " minutos"),
+        ("Un diagrama tiene el texto completo de la presentación en cada rama. ¿Por qué es poco útil? A) porque no se lee rápido y no ayuda a recordar B) porque no incluye el tema central", "A) porque no se lee rápido y no ayuda a recordar", "Las ramas deben ser breves para servir de pista."),
+        arith("Ensayas tres veces en voz alta una presentación de 2 minutos y descansas 1 minuto entre un ensayo y el siguiente. ¿Cuántos minutos dura toda la sesión?", "3*2+2*1", "Tres ensayos de 2 minutos y dos descansos de 1 minuto.", " minutos"),
     ],
     [
         ("Ordena con letras los pasos para prepararte: (a) ensayar en voz alta (b) elegir el tema y la idea central (c) escribir las ramas con palabras clave (d) agregar una conexión con tu experiencia.", "b, c, d, a", "Se planifica antes de ensayar."),
@@ -112,17 +112,17 @@ lesson(
         ("Olvidaste la palabra umbrella. ¿Qué descripción ayuda? A) It's what you open when it rains. B) It's what you wear on your feet.", "A) It's what you open when it rains.", "Describe para qué se usa."),
     ],
     [
-        ("Cambia glad por un sinónimo en «She is glad today.» A) She is happy today. B) She is tall today.", "A) She is happy today.", "Glad y happy son sinónimos."),
+        ("Cambia glad por un sinónimo en «She is glad today.» A) She is happy today. B) She is sad today.", "A) She is happy today.", "Glad y happy son sinónimos."),
         ("¿Qué significa kind of en «The film was kind of long»? A) más o menos, algo B) muy corta", "A) más o menos, algo", "Kind of suaviza la descripción."),
         ("¿Qué frase usa bien el chunk a lot of? A) A lot of students like music. B) A lot students like music.", "A) A lot of students like music.", "El chunk lleva of."),
     ],
     [
         ("Quieres decir «The test was easy» de otra manera. ¿Qué paráfrasis sirve? A) The test was simple. B) The test was complicated.", "A) The test was simple.", "Easy y simple son sinónimos."),
-        ("No recuerdas ruler y dices «the thing for drawing straight lines». ¿Qué estrategia usaste? A) describir el objeto B) quedarte en silencio", "A) describir el objeto", "Es un circunloquio: describir para qué sirve."),
+        ("No recuerdas calculator y dices «the machine for doing maths». ¿Qué estrategia usaste? A) describir el objeto B) quedarte en silencio", "A) describir el objeto", "Es un circunloquio: describir para qué sirve."),
     ],
     [
         ("Reemplaza la repetición en «The park is nice. The weather is nice. The people are nice.» ¿Cuál es la mejor versión? A) The park is nice. The weather is pleasant. The people are friendly. B) The park is nice. The weather is nice. The people are nice.", "A) The park is nice. The weather is pleasant. The people are friendly.", "Se usan palabras distintas con sentido parecido."),
-        ("¿Cuál frase usa un chunk para dar una opinión? A) In my opinion, the park needs more trees. B) The park trees more needs.", "A) In my opinion, the park needs more trees.", "In my opinion es un chunk para opinar."),
+        ("¿Cuál frase usa un chunk para dar una opinión? A) In my opinion, the park needs more trees. B) Finally, the park needs more trees.", "A) In my opinion, the park needs more trees.", "In my opinion es un chunk para opinar."),
     ],
     [("En una entrevista olvidas la palabra backpack (mochila). ¿Qué dices? A) It's the bag we carry on our back to school. B) I don't know, sorry.", "A) It's the bag we carry on our back to school.", "Describir mantiene la conversación.")],
     [
@@ -147,7 +147,7 @@ lesson(
     ],
     [("Well...", "Bueno..."), ("Let me think...", "Déjame pensar..."), ("I mean...", "Quiero decir..."), ("I see...", "Ya veo..., entiendo"), ("sorry, I mean...", "perdón, quiero decir..."), ("self-correct", "corregirse")],
     [
-        ("Usar un relleno para pensar", "Te preguntan «Where were you last weekend?» y necesitas pensar. ¿Qué empiezas diciendo? A) Well... let me think... B) Because and then.", ["Necesito unos segundos.", "Well y Let me think son rellenos.", "Después sigo con la respuesta."], "A) Well... let me think..."),
+        ("Usar un relleno para pensar", "Te preguntan «Where were you last weekend?» y necesitas pensar. ¿Qué empiezas diciendo? A) Well... let me think... B) I see... thanks.", ["Necesito unos segundos.", "Well y Let me think son rellenos.", "Después sigo con la respuesta."], "A) Well... let me think..."),
         ("Corregirte", "Dijiste «I go to the park yesterday» y notas el error. ¿Qué puedes decir? A) Sorry, I went to the park yesterday. B) I go to the park yesterday.", ["Noto que yesterday pide pasado.", "Uso Sorry para corregirme.", "Repito con went."], "A) Sorry, I went to the park yesterday."),
     ],
     [
@@ -155,13 +155,13 @@ lesson(
         ("Detenerse por completo al notar un error.", "Se cree que corregirse interrumpe todo.", "Di Sorry, I mean... y sigue."),
     ],
     [
-        ("¿Qué significa Let me think...? A) déjame pensar B) quiero comer", "A) déjame pensar", "Gana tiempo para elegir la respuesta."),
-        ("En «It's on Monday, I mean Tuesday», ¿para qué sirve I mean? A) para corregir un dato B) para saludar", "A) para corregir un dato", "Cambia Monday por Tuesday."),
+        ("¿Qué significa Let me think...? A) déjame pensar B) déjame hablar", "A) déjame pensar", "Gana tiempo para elegir la respuesta."),
+        ("En «It's on Monday, I mean Tuesday», ¿para qué sirve I mean? A) para corregir un dato B) para agregar una razón", "A) para corregir un dato", "Cambia Monday por Tuesday."),
         ("¿Qué conector da una razón? A) because B) but", "A) because", "Because explica por qué."),
     ],
     [
-        ("Alguien te cuenta que su perro se perdió y respondes «I see...». ¿Qué significa tu reacción? A) entiendo lo que me cuentas B) tengo un perro", "A) entiendo lo que me cuentas", "I see... reacciona mostrando comprensión."),
-        ("Completa con un conector: «I like football, ___ I also like swimming.» A) but B) because", "A) but", "El conector agrega un contraste suave con also."),
+        ("Alguien te cuenta que su perro se perdió y respondes «I see...». ¿Qué significa tu reacción? A) entiendo lo que me cuentas B) estoy de acuerdo con tu opinión", "A) entiendo lo que me cuentas", "I see... reacciona mostrando comprensión."),
+        ("Completa con un conector: «I like football, ___ I also like swimming.» A) and B) because", "A) and", "And agrega otra actividad que también le gusta; because daría una razón."),
         ("Completa con un conector: «It was raining, ___ we stayed at home.» A) so B) but", "A) so", "So da la consecuencia."),
     ],
     [
@@ -210,9 +210,9 @@ lesson(
         ("Corregir diez errores a la vez.", "Se pierde el foco y no se recuerda ninguno.", "Elige uno o dos errores como meta."),
     ],
     [
-        ("¿Qué es una debilidad en la revisión de una presentación? A) algo que no salió bien y puedes mejorar B) un premio que ganaste", "A) algo que no salió bien y puedes mejorar", "Se identifica para trabajarla."),
-        ("¿Qué columnas tiene un registro de errores? A) lo que dije, la forma correcta y el consejo B) solo la fecha", "A) lo que dije, la forma correcta y el consejo", "Así el error se vuelve aprendizaje."),
-        ("¿Qué recurso sirve para revisar palabras? A) un diccionario B) un reloj", "A) un diccionario", "Muestra significado y uso."),
+        ("¿Qué es una debilidad en la revisión de una presentación? A) algo que no salió bien y puedes mejorar B) algo que hiciste muy bien", "A) algo que no salió bien y puedes mejorar", "Se identifica para trabajarla."),
+        ("¿Qué columnas tiene un registro de errores? A) lo que dije, la forma correcta y el consejo B) solo lo que dije y la nota que recibí", "A) lo que dije, la forma correcta y el consejo", "Así el error se vuelve aprendizaje."),
+        ("¿Qué recurso sirve para revisar palabras? A) un diccionario B) un diagrama de ideas", "A) un diccionario", "Muestra significado y uso."),
     ],
     [
         (LOG + " ¿Cuál es la forma correcta del error (3)? A) She doesn't like pizza. B) She don't likes pizza.", "A) She doesn't like pizza.", "Con she se usa doesn't y el verbo va sin s."),
@@ -229,7 +229,7 @@ lesson(
         ("Escuchas tu grabación y notas que dijiste «I am agree». ¿Qué corrección corresponde? A) I agree. B) I am agreed.", "A) I agree.", "Agree es un verbo y no lleva am."),
     ],
     [
-        ("Una grabación te ayuda a revisar. ¿Qué haces con ella? A) la escuchas y anotas frases con errores B) la borras sin escucharla", "A) la escuchas y anotas frases con errores", "Escucharte permite detectar errores reales."),
+        ("Una grabación te ayuda a revisar. ¿Qué haces con ella? A) la escuchas y anotas frases con errores B) la usas solo para medir cuánto duró", "A) la escuchas y anotas frases con errores", "Escucharte permite detectar errores reales."),
         ("Tu registro dice: «I make homework → I do homework». ¿Qué consejo anotas en la tercera columna? A) homework va con do B) usar siempre make", "A) homework va con do", "Es la collocation correcta."),
     ],
     [("Un estudiante escribe como meta «Be perfect». ¿Cómo la mejoras? A) Use because and so in two sentences next time. B) Never make mistakes.", "A) Use because and so in two sentences next time.", "Una meta mejor es concreta, alcanzable y se puede comprobar.")],
@@ -266,7 +266,7 @@ lesson(
     ],
     [
         ("¿Qué estrategia se usa antes de hablar? A) hacer un diagrama de ideas B) corregirte con Sorry", "A) hacer un diagrama de ideas", "Es una estrategia de planificación."),
-        ("¿Qué estrategia se usa mientras hablas si olvidas una palabra? A) describirla B) borrarla de la mente", "A) describirla", "Mantiene el mensaje."),
+        ("¿Qué estrategia se usa mientras hablas si olvidas una palabra? A) describirla B) cambiar de tema", "A) describirla", "Mantiene el mensaje."),
         ("¿Qué estrategia se usa después de hablar? A) registrar errores y fijar una meta B) ensayar antes", "A) registrar errores y fijar una meta", "Es la revisión posterior."),
     ],
     [
@@ -277,10 +277,10 @@ lesson(
     [
         ("Después de hablar notas que dijiste «She go to school». ¿Qué registras? A) She goes to school (con she el verbo lleva s) B) She go to school (está bien)", "A) She goes to school (con she el verbo lleva s)", "Se anota el error y la forma correcta."),
         ("Quieres mejorar tu fluidez. ¿Qué plan completo es mejor? A) diagrama, ensayo, rellenos en la presentación y registro de errores B) leer el texto una vez y no revisar", "A) diagrama, ensayo, rellenos en la presentación y registro de errores", "Cubre antes, durante y después."),
-        ("Olvidaste la palabra wallet (billetera). ¿Qué frase te ayuda? A) It's the small thing for money and cards. B) It's an animal.", "A) It's the small thing for money and cards.", "Describe función y uso."),
+        ("Olvidaste la palabra wallet (billetera). ¿Qué frase te ayuda? A) It's the small thing for money and cards. B) It's the thing you wear on your wrist.", "A) It's the small thing for money and cards.", "Describe función y uso."),
     ],
     [
-        ("Tienes dos intentos de la misma presentación. En el primero usaste 0 rellenos y en el segundo 2. ¿Qué cambió? A) ganó fluidez con rellenos B) disminuyó la fluidez", "A) ganó fluidez con rellenos", "Los rellenos dieron tiempo para pensar."),
+        ("Tienes dos intentos de la misma presentación. En el primero usaste 0 rellenos y en el segundo 2. ¿Qué cambió entre los intentos? A) en el segundo usó rellenos para ganar tiempo B) en el segundo dejó de usar rellenos", "A) en el segundo usó rellenos para ganar tiempo", "Pasó de 0 a 2 rellenos."),
         ("Registras «I made a plan» y «I make a plan yesterday». ¿Cuál necesita corrección? A) I make a plan yesterday B) I made a plan", "A) I make a plan yesterday", "Con yesterday el verbo va en pasado: made."),
     ],
     [

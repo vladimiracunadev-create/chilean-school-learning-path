@@ -151,7 +151,7 @@ Respuesta: «¿Cuántos segundos tarda un pulso en recorrer 4 metros de cuerda?�
 *Comprensión*
 
 - **C1.** Un corcho sube y baja al pasar una ola. ¿Qué indica esto? A) Que el corcho es más liviano que el aire; B) Que el agua no viaja con la ola, sino que oscila.
-- **C2.** ¿Por qué una ola grande mueve objetos pesados? A) Porque transporta más energía; B) Porque tiene más agua en un mismo lugar para siempre.
+- **C2.** ¿Por qué una ola grande mueve objetos pesados? A) Porque transporta más energía; B) Porque el agua de la ola viaja más lejos que la de una ola chica.
 - **C3.** ¿Qué es un pulso?
 
 *Aplicación*

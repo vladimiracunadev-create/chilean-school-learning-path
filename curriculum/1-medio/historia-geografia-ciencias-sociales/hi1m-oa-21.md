@@ -516,7 +516,7 @@ Respuesta: El número de cuotas y el costo total
 
 Las formas de ahorrar y de endeudarse han cambiado. Antes, muchas familias guardaban el dinero en efectivo en la casa, lo que implica riesgo de pérdida o robo y no paga interés. Hoy existen libretas, cuentas y cajas vecinas que permiten depositar y retirar sin guardar billetes en el hogar. Lo que continúa es que cualquier instrumento mantiene alguna forma de riesgo o costo.
 
-El territorio influye en el acceso. En localidades rurales o alejadas puede no haber sucursales cercanas, y llegar hasta una cuesta tiempo y dinero. Las cajas vecinas acercan los servicios financieros, pero no resuelven todo: suelen permitir operaciones pequeñas. Por eso se dice que el acceso desigual es un desafío en regiones apartadas.
+El territorio influye en el acceso. En localidades rurales o alejadas puede no haber sucursales cercanas, y llegar hasta ella cuesta tiempo y dinero. Las cajas vecinas acercan los servicios financieros, pero no resuelven todo: suelen permitir operaciones pequeñas. Por eso se dice que el acceso desigual es un desafío en regiones apartadas.
 
 Otro cambio es el efecto de la inflación sobre el ahorro. Si el interés que paga una libreta es menor que la inflación, el dinero ahorrado pierde poder de compra, es decir, alcanza para comprar menos cosas que antes. Para evaluar un ahorro se compara su interés con la inflación del mismo período.
 
@@ -572,7 +572,7 @@ Respuesta: Perdió poder de compra
 *Aplicación*
 
 - **A1.** Datos de ejemplo. Localidad rural ficticia «Valle Alto»: la sucursal bancaria más cercana está a 80 km y viajar a ella cuesta $6.000 ida y vuelta. Desde hace un año hay una caja vecina en el almacén del pueblo, donde se pueden depositar y retirar montos pequeños sin viajar. Antes, muchas familias guardaban el dinero en efectivo en la casa. Una libreta de ahorro paga 3 % de interés al año y la inflación del año fue de 4 %. Con una inflación de 4 % sobre $200.000, ¿cuánto dinero adicional se necesitaría para comprar lo mismo (en pesos)?
-- **A2.** Datos de ejemplo. Localidad rural ficticia «Valle Alto»: la sucursal bancaria más cercana está a 80 km y viajar a ella cuesta $6.000 ida y vuelta. Desde hace un año hay una caja vecina en el almacén del pueblo, donde se pueden depositar y retirar montos pequeños sin viajar. Antes, muchas familias guardaban el dinero en efectivo en la casa. Una libreta de ahorro paga 3 % de interés al año y la inflación del año fue de 4 %. Con $200.000 ahorrados, ¿cuánto menos gana el interés que lo necesario para igualar la inflación (en pesos)?
+- **A2.** Datos de ejemplo. Localidad rural ficticia «Valle Alto»: la sucursal bancaria más cercana está a 80 km y viajar a ella cuesta $6.000 ida y vuelta. Desde hace un año hay una caja vecina en el almacén del pueblo, donde se pueden depositar y retirar montos pequeños sin viajar. Antes, muchas familias guardaban el dinero en efectivo en la casa. Una libreta de ahorro paga 3 % de interés al año y la inflación del año fue de 4 %. Con $200.000 ahorrados, ¿cuánto le falta al interés de la libreta para igualar el aumento de precios (en pesos)?
 - **A3.** Datos de ejemplo. Localidad rural ficticia «Valle Alto»: la sucursal bancaria más cercana está a 80 km y viajar a ella cuesta $6.000 ida y vuelta. Desde hace un año hay una caja vecina en el almacén del pueblo, donde se pueden depositar y retirar montos pequeños sin viajar. Antes, muchas familias guardaban el dinero en efectivo en la casa. Una libreta de ahorro paga 3 % de interés al año y la inflación del año fue de 4 %. Con los datos de interés e inflación, ¿el ahorro en la libreta gana o pierde poder de compra? A) gana, B) pierde.
 
 *Razonamiento y análisis*
@@ -994,7 +994,7 @@ Respuesta: $30.000 más
 *Razonamiento y análisis*
 
 - **Z1.** Dossier de ejemplo, «¿Cómo comprar una lavadora de $240.000?» Opción 1: ahorrar $20.000 al mes durante 12 meses y comprarla al contado; la lavadora actual se dañó y mientras tanto se lava a mano. Opción 2: comprarla hoy con crédito, en 12 cuotas de $25.000. Dato 3: el ingreso mensual de la familia es de $600.000. Dato 4: la familia ya paga cuotas de otras deudas por $100.000 al mes. Guía de ejemplo: conviene que todas las cuotas juntas no pasen de un cuarto del ingreso. ¿La opción 2 respeta la guía de ejemplo? A) sí, porque 125.000 no supera 150.000, B) no, porque supera 150.000.
-- **Z2.** Dossier de ejemplo, «¿Cómo comprar una lavadora de $240.000?» Opción 1: ahorrar $20.000 al mes durante 12 meses y comprarla al contado; la lavadora actual se dañó y mientras tanto se lava a mano. Opción 2: comprarla hoy con crédito, en 12 cuotas de $25.000. Dato 3: el ingreso mensual de la familia es de $600.000. Dato 4: la familia ya paga cuotas de otras deudas por $100.000 al mes. Guía de ejemplo: conviene que todas las cuotas juntas no pasen de un cuarto del ingreso. Una objeción a la opción 1 es que la familia lava a mano mientras tanto. ¿Qué respuesta la atiende? A) ignorar la objeción, B) ahorrar un monto mayor al mes para acortar el tiempo si es posible.
+- **Z2.** Dossier de ejemplo, «¿Cómo comprar una lavadora de $240.000?» Opción 1: ahorrar $20.000 al mes durante 12 meses y comprarla al contado; la lavadora actual se dañó y mientras tanto se lava a mano. Opción 2: comprarla hoy con crédito, en 12 cuotas de $25.000. Dato 3: el ingreso mensual de la familia es de $600.000. Dato 4: la familia ya paga cuotas de otras deudas por $100.000 al mes. Guía de ejemplo: conviene que todas las cuotas juntas no pasen de un cuarto del ingreso. Una objeción a la opción 1 es que la familia lava a mano mientras tanto. ¿Qué respuesta la atiende? A) ahorrar un monto mayor al mes para acortar el tiempo si es posible, B) decir que lavar a mano no es un problema real.
 
 *Desafío*
 
@@ -1025,7 +1025,7 @@ Respuesta: $30.000 más
 - **A2.** 150.000. Un cuarto de 600.000 es 150.000. Cálculo: 600000 ÷ 4 = 150.000.
 - **A3.** 25.000. Se resta el total de cuotas al límite de un cuarto del ingreso. Cálculo: 600000 ÷ 4 − (100000 + 25000) = 25.000.
 - **Z1.** A. Las cuotas quedarían bajo el límite.
-- **Z2.** B. Reconoce el problema y propone una alternativa.
+- **Z2.** A. Reconoce el problema y propone una alternativa.
 - **D1.** A. El crédito suma 300.000 y el contado cuesta 240.000.
 - **D2.** 8. Se divide el precio por el ahorro mensual. Cálculo: 240000 ÷ 30000 = 8.
 - **S1.** A. Un cuarto de 300.000 es 75.000.

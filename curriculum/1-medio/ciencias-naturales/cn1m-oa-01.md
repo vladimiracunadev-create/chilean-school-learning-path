@@ -147,7 +147,7 @@ Respuesta: «¿Cuántas huellas de cada tamaño hay en una roca de 1 m²?»
 
 - **R1.** ¿Qué es un fósil?
 - **R2.** Verdadero o falso: las partes duras, como conchas y huesos, se fosilizan con más facilidad que las partes blandas.
-- **R3.** Completa: un organismo muerto se fosiliza mejor si lo cubren rápido con ______ (sedimentos o aire).
+- **R3.** ¿Qué material, como barro o arena, debe cubrir rápido a un organismo muerto para que pueda fosilizarse?
 
 *Comprensión*
 
@@ -157,7 +157,7 @@ Respuesta: «¿Cuántas huellas de cada tamaño hay en una roca de 1 m²?»
 
 *Aplicación*
 
-- **A1.** Para saber si las conchas se conservan mejor que las medusas, ¿qué dato necesita el equipo? A) Contar cuántos fósiles de cada tipo hay en las mismas rocas; B) Preguntar a la gente cuál animal le parece más famoso.
+- **A1.** Para saber si las conchas se conservan mejor que las medusas, ¿qué dato necesita una investigadora? A) Preguntar a la gente cuál animal le parece más famoso; B) Contar cuántos fósiles de cada tipo hay en las mismas rocas.
 - **A2.** En una cantera de ejemplo se contaron 48 fósiles de conchas, 15 de huesos y 3 de huellas. ¿Cuántos fósiles se contaron en total?
 - **A3.** Dos lugares de ejemplo: en uno, un lago calmo cubre el fondo con barro fino; en el otro, un río rápido arrastra los restos. ¿Dónde es más probable que se conserve una hoja delicada? Responde lago o río.
 
@@ -191,7 +191,7 @@ Respuesta: «¿Cuántas huellas de cada tamaño hay en una roca de 1 m²?»
 - **C1.** B. La huella está en la roca y es de un organismo del pasado; la concha de hoy no lo es.
 - **C2.** B. El sedimento aísla los restos y retrasa su destrucción.
 - **C3.** Molde. El molde conserva la forma aunque ya no esté la concha.
-- **A1.** A. Una pregunta investigable se contesta contando observaciones.
+- **A1.** B. Una pregunta investigable se contesta contando observaciones.
 - **A2.** 66. Se suman las tres cantidades contadas. Cálculo: 48 + 15 + 3 = 66.
 - **A3.** Lago. El barro fino la cubre sin romperla; el río rápido la destruye o la arrastra.
 - **Z1.** A. Que sea un resto no basta: el concepto exige conservación en roca por un proceso largo.
@@ -775,7 +775,7 @@ Respuesta: No, hay que verificar primero el efecto de la falla
 
 *Comprensión*
 
-- **C1.** ¿Por qué el cálculo de años a partir del espesor es solo una estimación? A) Porque los milímetros no se pueden dividir; B) Porque la tasa de sedimentación cambia según el lugar y la época.
+- **C1.** ¿Por qué el cálculo de años a partir del espesor es solo una estimación? A) Porque la tasa de sedimentación cambia según el lugar y la época; B) Porque el espesor de una capa no se puede medir con una regla.
 - **C2.** Un pliegue invierte las capas de un corte. ¿Qué pasa con la regla «lo de abajo es más antiguo»? A) Deja de cumplirse en la parte invertida; B) Se cumple siempre sin excepción.
 - **C3.** Tabla de ejemplo: estrato a 2 m, fósil F; estrato a 5 m, fósil G; estrato a 9 m, fósil H. ¿Qué fósil es el más antiguo si no hay alteraciones?
 
@@ -812,7 +812,7 @@ Respuesta: No, hay que verificar primero el efecto de la falla
 - **R1.** Mayor. Lo más profundo se depositó primero.
 - **R2.** Falla. Una falla puede alterar el orden de las capas.
 - **R3.** Verdadero. Eso deja una secuencia incompleta.
-- **C1.** B. Una tasa distinta cambiaría el resultado.
+- **C1.** A. Una tasa distinta cambiaría el resultado.
 - **C2.** A. Al invertirse las capas, lo de abajo puede ser más joven.
 - **C3.** H. Es el estrato más profundo, a 9 m.
 - **A1.** 18 años. Se divide el espesor entre lo que se acumula por año. Cálculo: 54 ÷ 3 = 18.

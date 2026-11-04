@@ -792,7 +792,7 @@ Respuesta: La versión alterada: comienza con una escena que plantea preguntas
 *Desafío*
 
 - **D1.** Texto de ejemplo: «Empezó a llover. Esa misma tarde, un año antes, Camila había prometido volver». ¿Cuántos momentos distintos aparecen y cuál es el orden de narración? A) dos momentos; primero el presente y luego un recuerdo B) un solo momento
-- **D2.** Una lectora afirma: «En la versión que comienza con el final, ya sabemos que no habrá tragedia, así que el interés disminuye». ¿Qué parte de su afirmación puede discutirse? A) que existe una versión B) que el interés disminuye, porque podría aumentar la curiosidad por el cómo
+- **D2.** Una lectora afirma: «En la versión que comienza con el final, ya sabemos cómo termina, así que el interés disminuye». ¿Qué parte de su afirmación puede discutirse? A) que existe una versión B) que el interés disminuye, porque podría aumentar la curiosidad por el cómo
 
 *Situaciones auténticas*
 
@@ -1208,7 +1208,7 @@ Respuesta: Tempus fugit
 *Desafío*
 
 - **D1.** Texto: «Leonor llegó al taller antes del alba, como cada día de aquel otoño. Don Anselmo, su maestro, había reparado el reloj de la plaza, y todos lo felicitaban. Pero ella, al limpiar la mesa, encontró un engranaje sobrante: el reloj atrasaba, y él no lo sabía. «Si lo digo, lo avergüenzo —pensó—; si callo, el pueblo llegará tarde a todo». Esa noche subió sola a la torre.» Una lectora propone: «El engranaje simboliza una verdad incómoda». ¿Qué cita puede apoyar su lectura? A) «Si lo digo, lo avergüenzo; si callo, el pueblo llegará tarde a todo» B) «antes del alba»
-- **D2.** Texto de ejemplo: «“Aprovecha esta mañana, que no volverá”, dijo la abuela, y salió a bailar al patio». ¿Qué tópico se manifiesta? A) tempus fugit B) carpe diem
+- **D2.** Texto de ejemplo: «“Aprovecha esta mañana”, dijo la abuela, y salió a bailar al patio». ¿Qué tópico se manifiesta? A) carpe diem B) tempus fugit
 
 *Situaciones auténticas*
 
@@ -1236,7 +1236,7 @@ Respuesta: Tempus fugit
 - **Z1.** A) sí, porque el reloj depende de esa pieza. El texto vincula el engranaje con el atraso del reloj.
 - **Z2.** A) sí, porque muestra que el error afecta a todos. Relaciona el atraso con las consecuencias para la comunidad.
 - **D1.** A) «Si lo digo, lo avergüenzo; si callo, el pueblo llegará tarde a todo». Muestra la dificultad de decir la verdad.
-- **D2.** B) carpe diem. Invita a aprovechar el momento presente; tempus fugit habla de que el tiempo huye, no de actuar para disfrutarlo.
+- **D2.** A) carpe diem. Invita a aprovechar el momento presente; tempus fugit habla de que el tiempo huye, no de actuar para disfrutarlo.
 - **S1.** A) la continuidad del tiempo y de la memoria familiar. Sigue funcionando aunque cambien las personas.
 - **E1.** A) un tema repetido en la historia de la literatura. Aparece en muchas obras.
 - **E2.** A) el contexto y el texto. La interpretación debe apoyarse en evidencia.

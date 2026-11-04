@@ -66,7 +66,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Consigna exacta:** Lee esta descripción de ejemplo: «Un entrenador dice a su equipo antes de un partido: “Hoy [pausa] vamos a jugar [pausa] JUNTOS. Juntos defendemos, juntos atacamos, juntos ganamos”. Mira a cada jugador a los ojos, apoya una mano en el hombro de uno y levanta el puño». Haz una tabla con tres columnas (lingüísticos, paralingüísticos, no lingüísticos), anota dos recursos en cada una y escribe el posible efecto de uno de ellos.
 
-**Referencia para modelar y corregir:** Lingüísticos: repetición de «juntos»; paralelismo («juntos defendemos, atacamos, ganamos»). Paralingüísticos: pausas antes de la idea clave; énfasis en JUNTOS. No lingüísticos: contacto visual; mano en el hombro y puño en alto. Posible efecto de la repetición de «juntos»: refuerza el sentido de equipo y motiva.
+**Referencia para modelar y corregir:** Lingüísticos: repetición de «juntos»; enumeración de acciones («defendemos, atacamos, ganamos»). Paralingüísticos: pausas antes de la idea clave; énfasis en JUNTOS. No lingüísticos: contacto visual; mano en el hombro y puño en alto. Posible efecto de la repetición de «juntos»: refuerza el sentido de equipo y motiva.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -80,7 +80,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Lingüísticos: repetición de «juntos»; paralelismo («juntos defendemos, atacamos, ganamos»). Paralingüísticos: pausas antes de la idea clave; énfasis en JUNTOS. No lingüísticos: contacto visual; mano en el hombro y puño en alto. Posible efecto de la repetición de «juntos»: refuerza el sentido de equipo y motiva. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Lingüísticos: repetición de «juntos»; enumeración de acciones («defendemos, atacamos, ganamos»). Paralingüísticos: pausas antes de la idea clave; énfasis en JUNTOS. No lingüísticos: contacto visual; mano en el hombro y puño en alto. Posible efecto de la repetición de «juntos»: refuerza el sentido de equipo y motiva. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -204,7 +204,7 @@ Respuesta: Describo pausas, voz quebrada y mirada baja; el posible efecto es emo
 - **E2.** Sí. No usa palabras ni voz.
 - **E3.** Sí. Depende del contexto.
 
-**Actividad abierta · ejemplo de respuesta.** Lingüísticos: repetición de «juntos»; paralelismo («juntos defendemos, atacamos, ganamos»). Paralingüísticos: pausas antes de la idea clave; énfasis en JUNTOS. No lingüísticos: contacto visual; mano en el hombro y puño en alto. Posible efecto de la repetición de «juntos»: refuerza el sentido de equipo y motiva.
+**Actividad abierta · ejemplo de respuesta.** Lingüísticos: repetición de «juntos»; enumeración de acciones («defendemos, atacamos, ganamos»). Paralingüísticos: pausas antes de la idea clave; énfasis en JUNTOS. No lingüísticos: contacto visual; mano en el hombro y puño en alto. Posible efecto de la repetición de «juntos»: refuerza el sentido de equipo y motiva.
 
 **Criterios para evaluarla:** clasifica cada recurso en su categoría; anota dos por columna; propone un efecto con razón.
 
@@ -690,7 +690,7 @@ Respuesta: La primera niega que yo lo haya dicho; la segunda niega que fuera eso
 
 **Consigna exacta:** Observa una de estas dos escenas de ejemplo y analízala. Escena A: [Un vendedor de frutas saluda sonriendo, se inclina un poco, muestra una fruta en la mano, y habla con voz cálida]. Escena B: [Un estudiante lee un informe con la cabeza baja, sin mirar a nadie, con las manos en los bolsillos]. Para la escena que elijas escribe: 1) una descripción de tres recursos no lingüísticos; 2) el posible efecto de cada uno; 3) una condición del contexto que podría cambiar tu interpretación.
 
-**Referencia para modelar y corregir:** Escena A: sonrisa (amabilidad), inclinación (cortesía), fruta en la mano (muestra el producto). Efectos: cercanía y confianza. Contexto: si el vendedor sonríe de modo forzado o presiona, podría percibirse insistente. Escena B: cabeza baja (inseguridad), sin contacto visual (falta de conexión), manos en los bolsillos (descuido). Si el estudiante tiene timidez extrema o está resfriado, la interpretación cambia.
+**Referencia para modelar y corregir:** Escena A: sonrisa (amabilidad), inclinación (cortesía), fruta en la mano (muestra el producto). Efectos: cercanía y confianza. Contexto: si el vendedor sonríe de modo forzado o presiona, podría percibirse insistente. Escena B: cabeza baja (inseguridad), sin contacto visual (falta de conexión), manos en los bolsillos (descuido). Si es su primera exposición y está muy nervioso, la interpretación cambia.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -704,7 +704,7 @@ Respuesta: La primera niega que yo lo haya dicho; la segunda niega que fuera eso
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Escena A: sonrisa (amabilidad), inclinación (cortesía), fruta en la mano (muestra el producto). Efectos: cercanía y confianza. Contexto: si el vendedor sonríe de modo forzado o presiona, podría percibirse insistente. Escena B: cabeza baja (inseguridad), sin contacto visual (falta de conexión), manos en los bolsillos (descuido). Si el estudiante tiene timidez extrema o está resfriado, la interpretación cambia. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Escena A: sonrisa (amabilidad), inclinación (cortesía), fruta en la mano (muestra el producto). Efectos: cercanía y confianza. Contexto: si el vendedor sonríe de modo forzado o presiona, podría percibirse insistente. Escena B: cabeza baja (inseguridad), sin contacto visual (falta de conexión), manos en los bolsillos (descuido). Si es su primera exposición y está muy nervioso, la interpretación cambia. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -828,7 +828,7 @@ Respuesta: Se describe y se considera el contexto antes de interpretar
 - **E2.** No. Su sentido depende del contexto.
 - **E3.** Sí. Así se evitan juicios apresurados.
 
-**Actividad abierta · ejemplo de respuesta.** Escena A: sonrisa (amabilidad), inclinación (cortesía), fruta en la mano (muestra el producto). Efectos: cercanía y confianza. Contexto: si el vendedor sonríe de modo forzado o presiona, podría percibirse insistente. Escena B: cabeza baja (inseguridad), sin contacto visual (falta de conexión), manos en los bolsillos (descuido). Si el estudiante tiene timidez extrema o está resfriado, la interpretación cambia.
+**Actividad abierta · ejemplo de respuesta.** Escena A: sonrisa (amabilidad), inclinación (cortesía), fruta en la mano (muestra el producto). Efectos: cercanía y confianza. Contexto: si el vendedor sonríe de modo forzado o presiona, podría percibirse insistente. Escena B: cabeza baja (inseguridad), sin contacto visual (falta de conexión), manos en los bolsillos (descuido). Si es su primera exposición y está muy nervioso, la interpretación cambia.
 
 **Criterios para evaluarla:** describe con precisión; propone un efecto para cada recurso; señala una condición que cambia la interpretación.
 
@@ -1142,7 +1142,7 @@ Respuesta: Está nervioso aunque diga que está tranquilo
 
 Un análisis completo de una situación comunicativa sigue una secuencia. 1) Define la situación: quién habla, a quién, para qué y dónde. 2) Describe con precisión los recursos de los tres tipos, citando frases, marcas de voz y gestos. 3) Propón el posible efecto de cada recurso y del conjunto, con una razón. 4) Evalúa si los recursos ayudan al propósito. 5) Sugiere ajustes si no es así.
 
-Un análisis sólido usa evidencia: cita lo que dijo («Juntos lo lograremos»), describe la voz ([lento], [voz baja]) y el cuerpo (se acerca al público). También reconoce límites: no sabemos qué siente realmente el hablante, solo cómo se muestra. Por eso usa expresiones como «probablemente», «puede transmitir» o «parece». Finalmente, relaciona con el propósito: para una exposición informativa, conviene claridad y ritmo moderado; para una arenga, se busca energía.
+Un análisis sólido usa evidencia: cita lo que dijo («Juntos lo lograremos»), describe la voz ([lento], [voz baja]) y el cuerpo (se acerca al público). También reconoce límites: no sabemos qué siente realmente el hablante, solo cómo se muestra. Por eso usa expresiones como «probablemente», «puede transmitir» o «parece». Finalmente, relaciona con el propósito: para una exposición informativa, conviene claridad y ritmo moderado; para una arenga (un discurso que anima a actuar), se busca energía.
 
 Los ajustes deben ser concretos y observables: «bajar el ritmo en los datos importantes», «mirar a distintas partes del público», «reemplazar la muletilla por una pausa», «cambiar el registro informal por uno más cuidado». Una buena retroalimentación nombra primero un logro («tu pregunta retórica captó la atención») y luego una mejora específica, para que quien habla sepa qué conservar y qué cambiar.
 

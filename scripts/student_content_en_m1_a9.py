@@ -46,7 +46,7 @@ lesson(
     [
         ("Une cada idea con su conexión. 1) market 2) school 3) park Conexiones: a) teacher b) fruit c) families", "1-b, 2-a, 3-c", "Cada lugar se relaciona con personas o alimentos."),
         (DIAG + " Un estudiante dice: «In the market, the neighbors buy bread and fruit.» ¿Qué conexión hace? A) Places con People y Food B) solo Food", "A) Places con People y Food", "Une market, neighbors, bread y fruit."),
-        (DIAG + " Quieres añadir una cuarta rama. ¿Cuál se relaciona con el tema? A) Festivals B) Volcanoes of Mars", "A) Festivals", "Los festivales se relacionan con un pueblo."),
+        (DIAG + " Quieres añadir una cuarta rama. ¿Cuál se relaciona con el tema? A) Festivals B) Sports in another country", "A) Festivals", "Los festivales se relacionan con un pueblo."),
     ],
     [
         ("Ordena con letras los pasos de preparación. A) hablar con tus frases usando el diagrama B) practicar en voz alta C) escribir palabras clave en un diagrama", "C, B, A", "Primero organizas, luego practicas y después hablas."),
@@ -164,7 +164,7 @@ lesson(
     ],
     [
         (FILL + " Luis dice «No, but I... sorry, I played football». ¿Qué hace con «sorry»? A) se interrumpe para corregir su respuesta B) se disculpa por faltar", "A) se interrumpe para corregir su respuesta", "Sorry marca que cambia lo que iba a decir."),
-        (FILL + " ¿Cuántas veces se corrige Luis a sí mismo? A) dos veces B) una vez", "A) dos veces", "Se corrige con I mean (I go → I went) y con sorry (cambia lo que iba a decir)."),
+        (FILL + " ¿Qué verbo corrige Luis con la frase I mean? A) cambia go por went B) cambia swim por swam", "A) cambia go por went", "Dice I go... I mean, I went to the beach."),
     ],
     [("Dices «I eat breakfast... I mean, I ate breakfast at seven.» ¿Qué corriges?", "El tiempo del verbo: de presente a pasado", "Cambias eat por ate para hablar del pasado.")],
     [
@@ -265,7 +265,7 @@ lesson(
         (ERR + " ¿En cuál error el problema es el verbo en tercera persona? A) She go to school B) I have 15 years", "A) She go to school", "Con she, el verbo lleva -s."),
     ],
     [
-        arith(ERR + " Un estudiante registra 5 errores y corrige 3 en la semana. ¿Cuántos le quedan por corregir?", "5-3", "Se resta lo corregido de lo registrado."),
+        ("Un estudiante registra «She have two brothers». ¿Cuál es la forma correcta? A) She has two brothers. B) She haves two brothers.", "A) She has two brothers.", "Con she, have cambia a has; haves no existe."),
         ("Une cada error con su corrección. 1) I am agree. 2) People is. 3) She go. Correcciones: a) She goes. b) I agree. c) People are.", "1-b, 2-c, 3-a", "Cada corrección cambia la forma incorrecta."),
         ("Ordena los pasos de la pos hablada con letras. A) corregir con un recurso B) registrar el error C) identificar una debilidad", "C, B, A", "Primero identificas, luego registras y después corriges."),
     ],

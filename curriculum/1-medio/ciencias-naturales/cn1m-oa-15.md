@@ -188,7 +188,7 @@ Respuesta: Hace 8 años
 - **R2.** Verdadero. Es la definición de unidad astronómica.
 - **R3.** Un año luz. Un año luz son unos 9,5 billones de km y una UA, 150 millones de km.
 - **C1.** El año luz. Las distancias entre estrellas son enormes incluso en UA.
-- **C2.** B. La luz tarda 8 años en llegar.
+- **C2.** B. La luz tarda 12 años en recorrer 12 años luz.
 - **C3.** Luna, Tierra, Sol. La Luna mide 3.500 km, la Tierra 12.700 km y el Sol 1.400.000 km.
 - **A1.** 390 veces. Se divide la distancia al Sol por la distancia a la Luna. Cálculo: 150000000 ÷ 384000 = 390.
 - **A2.** 110 veces. Se divide el diámetro del Sol por el de la Tierra. Cálculo: 1400000 ÷ 12700 = 110.
@@ -783,7 +783,7 @@ Respuesta: 24.000 años luz
 
 *Aplicación*
 
-- **A1.** La Vía Láctea mide unos 100.000 años luz de diámetro y la Gran Nube de Magallanes está a unos 160.000 años luz. ¿Cuántos años luz más que ese diámetro hay hasta la Nube?
+- **A1.** El Grupo Local mide unos 10.000.000 años luz de lado (dato aproximado) y la Vía Láctea, unos 100.000 años luz de diámetro. ¿Cuántos diámetros de la Vía Láctea caben a lo largo del Grupo Local?
 - **A2.** Una galaxia de forma ovalada, sin brazos y con estrellas viejas rojizas. ¿Qué tipo es?
 - **A3.** Un grupo de ejemplo tiene 30 galaxias y cada una tiene 50 mil millones de estrellas. ¿Cuántos miles de millones de estrellas hay en total?
 
@@ -817,7 +817,7 @@ Respuesta: 24.000 años luz
 - **C1.** Espiral con barra central. Tiene brazos y una barra en el centro.
 - **C2.** A. De la nube nacen estrellas nuevas.
 - **C3.** Muchas galaxias unidas por la gravedad. Pueden ser decenas o miles.
-- **A1.** 60.000 años luz. Se resta el diámetro a la distancia. Cálculo: 160000 − 100000 = 60.000.
+- **A1.** 100 diámetros. Se divide el tamaño del grupo por el diámetro de la galaxia. Cálculo: 10000000/100000 = 100.
 - **A2.** Elíptica. Las elípticas son ovaladas y sin brazos.
 - **A3.** 1.500 miles de millones. Se multiplica el número de galaxias por las estrellas de cada una. Cálculo: 30 × 50 = 1.500.
 - **Z1.** A. Hay muchas más galaxias.

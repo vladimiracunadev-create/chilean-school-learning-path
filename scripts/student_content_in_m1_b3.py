@@ -326,7 +326,7 @@ lesson(
     [
         mc(f"Revisa esta diapositiva nueva: «Image: a bar chart with Group A: 20 and Group B: 28. Text: We collected 60 bottles.» ¿Qué corriges?", "El total debe ser 48, no 60", ["El color del gráfico", "Las barras deben ser rojas"], "20 + 28 = 48."),
         mc(f"Lee: {DRAFT} Tu profesor pide agregar una diapositiva con una fecha exacta de la visita. ¿Qué haces?", "Preguntar la fecha, porque no aparece en el borrador", ["Inventar una fecha que suene bien", "Copiar la fecha de otro afiche"], "Los datos deben tener evidencia."),
-        mc(f"Lee: {DRAFT} Quieres un pie de foto para la diapositiva 1 que coincida con la imagen. ¿Cuál eliges?", "A river in the morning, before the clean-up", ["A big soccer stadium at night", "A kitchen with plastic bottles"], "La imagen es un río en la mañana."),
+        mc(f"Lee: {DRAFT} Quieres un pie de foto para la diapositiva 1 que coincida con la imagen. ¿Cuál eliges?", "A river in the morning", ["A big soccer stadium at night", "A kitchen with plastic bottles"], "La imagen es un río en la mañana."),
     ],
     [
         mc("Un compañero escribe para una foto de estudiantes ordenando una biblioteca: «Students clean a beach.» ¿Cuál es el problema principal?", "El texto no coincide con la imagen", ["Falta un verbo", "No tiene titular"], "La imagen y las palabras deben decir lo mismo."),
@@ -343,7 +343,7 @@ lesson(
         ("Escribe en inglés la palabra que significa «borrador».", "Draft", "Draft es la primera versión que se puede mejorar."),
     ],
     task(f"Crea en tu hoja un afiche con estos datos: {SPORT} {GSPORT} Escribe: (1) un titular, (2) tres pies de foto en inglés para tres imágenes (races, tug of war, relay), (3) una invitación final, (4) la audiencia a la que va dirigido.",
-         "(1) Sports Day is coming! (2) Students run a race. Two teams pull the rope. Four friends pass the baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio.",
+         "(1) Sports Day is coming! (2) Students run a race. Students pull a rope in a tug of war. Students pass a baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio.",
          ["el titular es corto y llamativo", "cada pie de foto coincide con una imagen", "la invitación usa los datos del enunciado", "nombra la audiencia"],
          ["afiche con titular, tres imágenes y pies de foto, invitación y audiencia"],
          ["cambiar el día o la hora", "escribir pies de foto que no coinciden con las imágenes"],

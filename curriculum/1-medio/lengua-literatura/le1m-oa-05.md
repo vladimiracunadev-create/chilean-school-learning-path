@@ -171,7 +171,7 @@ Respuesta: Interés personal frente a deber público: abrir las compuertas salva
 *Desafío*
 
 - **D1.** Fragmento de ejemplo: «(Una oficina con una ventana al río. Es de noche y llueve. RAMIRO, de pie, mira unos papeles; ISABEL entra con el abrigo mojado.) ISABEL.— El río ha subido otra vez, papá. RAMIRO.— (Sin mirarla.) Lo sé. Desde las siete. ISABEL.— Don Tomás dice que hay que abrir las compuertas. RAMIRO.— Si las abro, mis campos quedan bajo el agua. ISABEL.— Y si no las abres, el agua llega a la plaza. (RAMIRO guarda silencio. Afuera, un trueno.)» Si reemplazaras la acotación (Sin mirarla.) por (Mirándola a los ojos.), ¿qué cambiaría? A) nada cambiaría B) Ramiro enfrentaría la conversación en vez de evitarla
-- **D2.** Fragmento de ejemplo: «(Una oficina con una ventana al río. Es de noche y llueve. RAMIRO, de pie, mira unos papeles; ISABEL entra con el abrigo mojado.) ISABEL.— El río ha subido otra vez, papá. RAMIRO.— (Sin mirarla.) Lo sé. Desde las siete. ISABEL.— Don Tomás dice que hay que abrir las compuertas. RAMIRO.— Si las abro, mis campos quedan bajo el agua. ISABEL.— Y si no las abres, el agua llega a la plaza. (RAMIRO guarda silencio. Afuera, un trueno.)» Escribe el nombre del personaje que no aparece en el fragmento pero es mencionado y apoya abrir las compuertas.
+- **D2.** Fragmento de ejemplo: «(Una oficina con una ventana al río. Es de noche y llueve. RAMIRO, de pie, mira unos papeles; ISABEL entra con el abrigo mojado.) ISABEL.— El río ha subido otra vez, papá. RAMIRO.— (Sin mirarla.) Lo sé. Desde las siete. ISABEL.— Don Tomás dice que hay que abrir las compuertas. RAMIRO.— Si las abro, mis campos quedan bajo el agua. ISABEL.— Y si no las abres, el agua llega a la plaza. (RAMIRO guarda silencio. Afuera, un trueno.)» ¿Qué personaje no habla en el fragmento, pero es mencionado y apoya abrir las compuertas? A) don Tomás B) un vecino de la plaza
 
 *Situaciones auténticas*
 
@@ -200,7 +200,7 @@ Respuesta: Interés personal frente a deber público: abrir las compuertas salva
 - **Z2.** A) la tensión entre el interés propio y el bien de la comunidad. Es lo que enfrenta Ramiro.
 - **Z3.** réplica, escena, acto. La réplica es lo más pequeño; varias forman una escena y varias escenas, un acto.
 - **D1.** B) Ramiro enfrentaría la conversación en vez de evitarla. La acotación define su actitud.
-- **D2.** Tomás. Isabel dice «Don Tomás dice que hay que abrir las compuertas».
+- **D2.** A) don Tomás. Isabel dice «Don Tomás dice que hay que abrir las compuertas».
 - **S1.** A) una tensión entre hermanos. Ella evita mirarlo y responde con ironía.
 - **E1.** A) un fragmento determinado por los personajes que están presentes. Cambia cuando entran o salen personajes.
 - **E2.** B) información sobre gestos, sonidos o luces. Complementa el diálogo.
@@ -583,7 +583,7 @@ Respuesta: Aumentan la presión moral y de tiempo sobre Ramiro
 *Razonamiento y análisis*
 
 - **Z1.** Fragmentos de ejemplo: «(Acto I) RAMIRO.— Mis campos son lo único que tengo. (Acto II) RAMIRO.— (Al público.) Si abro, pierdo todo; si callo, pierdo al pueblo. (Acto III) RAMIRO.— (A Tomás.) Abramos. Que el río se lleve lo que tenga que llevarse.» Un lector dice: «Ramiro no cambia». ¿Qué evidencia lo contradice? A) pasa de defender sus campos a decir «Abramos» B) siempre mira el río
-- **Z2.** Un lector afirma: «Isabel solo estorba». ¿Qué papel cumple, según la escena inicial? A) pone a Ramiro frente a la consecuencia colectiva B) distrae al público
+- **Z2.** Un lector afirma: «Isabel solo estorba». ¿Qué papel cumple su réplica «Y si no las abres, el agua llega a la plaza»? A) distrae al público B) pone a Ramiro frente a la consecuencia colectiva
 - **Z3.** Escena de ejemplo: «TOMÁS.— Mi abuelo decía que quien guarda el agua guarda también la culpa. RAMIRO.— ¿Y tú qué piensas, viejo? TOMÁS.— Que el río no espera a que uno termine de pensar. (Se oye una campana lejana. RAMIRO toma la llave de las compuertas y la deja caer.)» ¿Qué relación tiene Tomás con Ramiro? A) lo ignora B) lo confronta con experiencia y le recuerda el deber
 
 *Desafío*
@@ -615,7 +615,7 @@ Respuesta: Aumentan la presión moral y de tiempo sobre Ramiro
 - **A2.** B) una decisión tomada con peso emocional. La voz baja sugiere gravedad.
 - **A3.** A) que llegó tarde. Lo dice en su réplica.
 - **Z1.** A) pasa de defender sus campos a decir «Abramos». Hay un cambio visible de postura.
-- **Z2.** A) pone a Ramiro frente a la consecuencia colectiva. Su réplica expone el costo de no abrir.
+- **Z2.** B) pone a Ramiro frente a la consecuencia colectiva. Su réplica expone el costo de no abrir.
 - **Z3.** B) lo confronta con experiencia y le recuerda el deber. Su réplica lo interpela.
 - **D1.** B) un monólogo que muestra su inseguridad. Habla solo y expresa sus temores.
 - **D2.** A) pasa de dudar a decidir abrir. En el acto II duda entre dos pérdidas y en el acto III dice «Abramos».
@@ -1177,7 +1177,7 @@ Respuesta: El río que sube, el trueno, la campana, la advertencia de Tomás y l
 
 *Ejemplo 2. Causa y anuncio*
 
-Problema: Fragmento de ejemplo: «(RAMIRO levanta la llave y abre las compuertas. El agua suena con fuerza.) RAMIRO.— (En voz baja.) Ya está. TOMÁS.— Llegó tarde, alcalde. El camino de la plaza ya estaba cubierto. (Silencio. La luz se apaga lentamente.)» ¿Qué hecho gatilló la tragedia: el trueno o la demora de Ramiro?
+Problema: Fragmento de ejemplo: «(RAMIRO levanta la llave y abre las compuertas. El agua suena con fuerza.) RAMIRO.— (En voz baja.) Ya está. TOMÁS.— Llegó tarde, alcalde. El camino de la plaza ya estaba cubierto. (Silencio. La luz se apaga lentamente.)» ¿Qué hecho gatilló la tragedia? A) la demora de Ramiro B) el trueno
 
 1. El trueno solo anuncia una tormenta.
 2. El texto dice que llegó tarde porque el camino ya estaba cubierto.
@@ -1324,7 +1324,7 @@ Respuesta: La demora de Ramiro
 
 **Consigna exacta:** Lee la escena de ejemplo: «(Un andén. MATÍAS espera un tren que ya partió. Un anciano le dice: “Siempre llega el último”. MATÍAS lo mira, guarda silencio y no se mueve.)» Escribe un análisis de 6 a 8 líneas con: el conflicto, un personaje con cita, un elemento de puesta en escena que propondrías, un anuncio o símbolo y una posible relación con otra obra o mito (o indica que no la ves). Revísalo con la pauta y corrige una cosa.
 
-**Referencia para modelar y corregir:** Conflicto: Matías duda entre esperar un tren que ya partió o seguir adelante. El anciano, que dice «Siempre llega el último», funciona como un confidente que ofrece una esperanza. Puesta en escena: iluminaría el andén con una luz tenue y pondría un sonido lejano de silbato. El tren que partió es un símbolo de una oportunidad perdida. No veo una relación clara con un mito. Revisión: agregué la cita del anciano para respaldar su rol.
+**Referencia para modelar y corregir:** Conflicto: Matías duda entre esperar un tren que ya partió o seguir adelante. El anciano, que dice «Siempre llega el último», funciona como una voz de experiencia que ofrece una esperanza. Puesta en escena: iluminaría el andén con una luz tenue y pondría un sonido lejano de silbato. El tren que partió es un símbolo de una oportunidad perdida. No veo una relación clara con un mito. Revisión: agregué la cita del anciano para respaldar su rol.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -1338,7 +1338,7 @@ Respuesta: La demora de Ramiro
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Conflicto: Matías duda entre esperar un tren que ya partió o seguir adelante. El anciano, que dice «Siempre llega el último», funciona como un confidente que ofrece una esperanza. Puesta en escena: iluminaría el andén con una luz tenue y pondría un sonido lejano de silbato. El tren que partió es un símbolo de una oportunidad perdida. No veo una relación clara con un mito. Revisión: agregué la cita del anciano para respaldar su rol. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Conflicto: Matías duda entre esperar un tren que ya partió o seguir adelante. El anciano, que dice «Siempre llega el último», funciona como una voz de experiencia que ofrece una esperanza. Puesta en escena: iluminaría el andén con una luz tenue y pondría un sonido lejano de silbato. El tren que partió es un símbolo de una oportunidad perdida. No veo una relación clara con un mito. Revisión: agregué la cita del anciano para respaldar su rol. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -1464,7 +1464,7 @@ Respuesta: Le faltan una tesis, citas y dos aspectos del análisis
 - **E2.** A) qué hace la obra con lo aludido. Hay que dar sentido.
 - **E3.** B) mejorar el análisis. Detecta lo que falta.
 
-**Actividad abierta · ejemplo de respuesta.** Conflicto: Matías duda entre esperar un tren que ya partió o seguir adelante. El anciano, que dice «Siempre llega el último», funciona como un confidente que ofrece una esperanza. Puesta en escena: iluminaría el andén con una luz tenue y pondría un sonido lejano de silbato. El tren que partió es un símbolo de una oportunidad perdida. No veo una relación clara con un mito. Revisión: agregué la cita del anciano para respaldar su rol.
+**Actividad abierta · ejemplo de respuesta.** Conflicto: Matías duda entre esperar un tren que ya partió o seguir adelante. El anciano, que dice «Siempre llega el último», funciona como una voz de experiencia que ofrece una esperanza. Puesta en escena: iluminaría el andén con una luz tenue y pondría un sonido lejano de silbato. El tren que partió es un símbolo de una oportunidad perdida. No veo una relación clara con un mito. Revisión: agregué la cita del anciano para respaldar su rol.
 
 **Criterios para evaluarla:** analiza varios aspectos; usa cita; revisa con la pauta.
 

@@ -155,7 +155,7 @@ Respuesta: Narra; usa pasado, personajes y una secuencia de hechos
 
 - **C1.** Lee: «In my opinion, schools should start later. Teenagers feel tired in the morning, so they cannot concentrate. For this reason, nine o'clock is better than eight.» (opinion = opinión; schools = colegios; should = deberían; start = empezar; later = más tarde; teenagers = adolescentes; concentrate = concentrarse; reason = razón) ¿Cuál es el propósito del texto? A) Explicar cómo se forma la lluvia B) Narrar un viaje C) Dar una opinión
 - **C2.** Lee: «In my opinion, schools should start later. Teenagers feel tired in the morning, so they cannot concentrate. For this reason, nine o'clock is better than eight.» (opinion = opinión; schools = colegios; should = deberían; start = empezar; later = más tarde; teenagers = adolescentes; concentrate = concentrarse; reason = razón) ¿Qué frase introduce la opinión? A) In my opinion B) Teenagers feel C) For this reason
-- **C3.** Lee: «In my opinion, schools should start later. Teenagers feel tired in the morning, so they cannot concentrate. For this reason, nine o'clock is better than eight.» (opinion = opinión; schools = colegios; should = deberían; start = empezar; later = más tarde; teenagers = adolescentes; concentrate = concentrarse; reason = razón) ¿Cuál es la razón que apoya la opinión? A) Schools have eight classrooms B) Teenagers feel tired in the morning and cannot concentrate C) Nine is a number
+- **C3.** Lee: «In my opinion, schools should start later. Teenagers feel tired in the morning, so they cannot concentrate. For this reason, nine o'clock is better than eight.» (opinion = opinión; schools = colegios; should = deberían; start = empezar; later = más tarde; teenagers = adolescentes; concentrate = concentrarse; reason = razón) ¿Cuál es la razón que apoya la opinión? A) Schools have eight classrooms B) Teenagers feel tired in the morning and cannot concentrate C) Eight o'clock is the usual time for lunch
 
 *Aplicación*
 
@@ -311,9 +311,9 @@ Respuesta: Narra; usa pasado, personajes y una secuencia de hechos
 
 Los conectores (connectors) unen ideas y muestran la relación entre ellas. Para sumar: and, also, in addition. Para contrastar: but, however, although. Para la causa (por qué ocurre): because. Para el resultado (qué ocurre después): so, as a result. Para dar un ejemplo: for example. Para ordenar: first, then, after that, finally. Para una alternativa: or.
 
-Cada conector tiene su lugar. But y so van en medio de una oración, después de una coma: It was cold, so we wore jackets. However va al comienzo de una oración nueva, con coma después: It was cheap. However, I did not buy it. Although introduce la idea más débil y no se usa con but: Although it was cheap, I did not buy it. Because explica la causa: She stayed home because she was ill.
+Cada conector tiene su lugar. But y so van en medio de una oración, después de una coma: It was cold, so we wore jackets. However va al comienzo de una oración nueva, con coma después: It was cheap. However, I did not buy it. Although introduce la idea más débil y no se usa con but: Although it was cheap, I did not buy it. Because explica la causa: She stayed home because she was sick.
 
-Para elegir el conector, pregúntate qué relación hay entre las dos ideas. ¿La segunda es una causa, un resultado, un contraste, un ejemplo o un paso más? Si cambias el conector, cambia el significado: He is tired because he stayed up late no es lo mismo que He stayed up late, so he is tired, aunque ambas oraciones expresan la misma relación desde dos lados.
+Para elegir el conector, pregúntate qué relación hay entre las dos ideas. ¿La segunda es una causa, un resultado, un contraste, un ejemplo o un paso más? He is tired because he stayed up late y He stayed up late, so he is tired dicen lo mismo desde dos lados: con because la causa va al final; con so, la causa va primero y el resultado después. Si eliges el conector equivocado, la oración cambia de sentido o deja de tener sentido.
 
 **Palabras importantes**
 
@@ -381,7 +381,7 @@ Respuesta: so
 
 *Desafío*
 
-- **D1.** Completa los dos espacios: «It was late, ___ we hurried. We got to the theater; ___, the film had already started.» (film = película; hurried = nos apuramos; theater = cine) A) but ... because B) because ... so C) so ... however
+- **D1.** Completa los dos espacios: «It was late, ___ we hurried. We got to the theater; ___, the movie had already started.» (movie = película; hurried = nos apuramos; theater = cine) A) because ... so B) so ... however C) but ... because
 - **D2.** Elige el párrafo con los conectores en orden lógico. A) First, Ana made a list. Then she bought apples. Finally, she cooked B) Finally, Ana made a list. Then she cooked. First, she bought apples C) Then, Ana cooked. First, she made a list. Finally, she bought apples
 
 *Situaciones auténticas*
@@ -409,7 +409,7 @@ Respuesta: so
 - **A3.** C) Although. Hay un contraste: llovía y aun así jugaron.
 - **Z1.** A) Although it was cheap, I did not buy it. Con although no se usa but.
 - **Z2.** C) In addition. In addition suma una idea del mismo tipo.
-- **D1.** C) so ... however. Primero hay un resultado y después un contraste.
+- **D1.** B) so ... however. Primero hay un resultado y después un contraste.
 - **D2.** A) First, Ana made a list. Then she bought apples. Finally, she cooked. First, then y finally siguen el orden real de las acciones.
 - **S1.** C) However. Pequeño e interesante se oponen.
 - **E1.** B) So. So introduce el resultado.
@@ -568,15 +568,15 @@ Respuesta: Luis is tired, but he goes to soccer practice anyway
 
 *Recuperación*
 
-- **R1.** Un sinónimo (synonym) de big es A) slow B) tiny C) huge
+- **R1.** Un sinónimo (synonym) de big es A) huge B) tiny C) heavy
 - **R2.** «Said» puede cambiarse por una palabra más precisa cuando alguien habla muy bajo:  A) ran B) shouted C) whispered
 - **R3.** Para unir dos ideas que se suman se puede usar A) and B) although C) yesterday
 
 *Comprensión*
 
-- **C1.** La mejor forma de decir «very tired» con más precisión es A) friendly B) tiny C) exhausted
-- **C2.** Reemplaza «nice» en «The teacher is nice» por una palabra que describa su forma de ser. A) tiny B) expensive C) friendly
-- **C3.** Completa con la palabra más precisa: «Don't shout in the library,» she ___ quietly. A) whispered B) ran C) painted
+- **C1.** La mejor forma de decir «very tired» con más precisión es A) delighted B) exhausted C) enormous
+- **C2.** Reemplaza «nice» en «The teacher is nice» por una palabra que describa su forma de ser. A) friendly B) expensive C) noisy
+- **C3.** Completa con la palabra más precisa: «Don't shout in the library,» she ___ quietly. A) ran B) whispered C) shouted
 
 *Aplicación*
 
@@ -586,17 +586,17 @@ Respuesta: Luis is tired, but he goes to soccer practice anyway
 
 *Razonamiento y análisis*
 
-- **Z1.** Un párrafo empieza así: «I woke up. I had breakfast. I went to school. I saw my friend.» ¿Qué cambio mejora la variedad? A) Escribir cuatro veces I woke up B) Empezar con «On Saturday morning, I woke up early and had breakfast» C) Quitar todas las palabras
+- **Z1.** Un párrafo empieza así: «I woke up. I had breakfast. I went to school. I saw my friend.» ¿Qué cambio mejora la variedad? A) Escribir cuatro veces I woke up B) Empezar con «On Saturday morning, I woke up early and had breakfast» C) Empezar cada oración con I y no cambiar nada más
 - **Z2.** ¿Cuál oración con if está bien escrita? A) If it will rain tomorrow, we will study at home B) If it rains tomorrow, we will study at home C) If it rained tomorrow, we study at home
 
 *Desafío*
 
 - **D1.** ¿Cuál versión enriquece más «The girl walked.»? A) The girl walked the girl walked B) The girl walked and walked C) The shy girl walked slowly into the crowded classroom
-- **D2.** ¿Qué versión evita la repetición y mantiene el significado de «The park is nice. The park is nice and big»? (pleasant = agradable; spacious = amplio) A) The park is nice and nice B) The park is pleasant and spacious C) The park park is
+- **D2.** ¿Qué versión evita la repetición y mantiene el significado de «The park is nice. The park is nice and big»? (pleasant = agradable; spacious = amplio) A) The park is nice and nice B) The park is pleasant and spacious C) The park is nice, nice and big
 
 *Situaciones auténticas*
 
-- **S1.** Escribes una reseña de un restaurante. Tu borrador dice: «The food was good, the waiter was good and the music was good.» (waiter = camarero) ¿Cuál es la mejor versión? A) The food was good, the waiter was good and the music was good B) The food was delicious, the waiter was friendly and the music was pleasant C) The food, the waiter and the music good
+- **S1.** Escribes una reseña de un restaurante. Tu borrador dice: «The food was good, the waiter was good and the music was good.» (waiter = garzón) ¿Cuál es la mejor versión? A) The food was good, the waiter was good and the music was good B) The food was delicious, the waiter was friendly and the music was pleasant C) The food, the waiter and the music good
 
 *Autoevaluación*
 
@@ -608,12 +608,12 @@ Respuesta: Luis is tired, but he goes to soccer practice anyway
 
 **Solucionario razonado**
 
-- **R1.** C) huge. Huge significa muy grande.
+- **R1.** A) huge. Huge significa muy grande.
 - **R2.** C) whispered. Whispered significa susurró.
 - **R3.** A) and. And suma ideas.
-- **C1.** C) exhausted. Exhausted significa agotado.
-- **C2.** C) friendly. Friendly describe a una persona amable.
-- **C3.** A) whispered. Whispered calza con quietly.
+- **C1.** B) exhausted. Exhausted significa agotado.
+- **C2.** A) friendly. Friendly describe a una persona amable.
+- **C3.** B) whispered. Whispered calza con quietly.
 - **A1.** A) Ana is happy because she won the contest. La segunda idea es la causa de la primera.
 - **A2.** A) Because it was raining, we stayed home. Because introduce la causa y va primero.
 - **A3.** A) I like tennis, but my brother likes soccer. Los gustos se oponen.

@@ -167,7 +167,7 @@ Respuesta: Tema: el deseo de partir; objeto lírico: las barcas en el puerto
 
 *Desafío*
 
-- **D1.** Poema de ejemplo: «Todavía guardo tu silla junto a la ventana, / todavía riego el limonero que plantaste. / La tarde entra sin avisar, como siempre, / y se sienta en tu lugar, y no pregunta. / Todavía, todavía, repite el reloj. / Y yo le respondo: ya vendrás, ya vendrás.» En la tercera lectura, ¿qué palabra repetida llama la atención? Escribe la palabra.
+- **D1.** Poema de ejemplo: «Todavía guardo tu silla junto a la ventana, / todavía riego el limonero que plantaste. / La tarde entra sin avisar, como siempre, / y se sienta en tu lugar, y no pregunta. / Todavía, todavía, repite el reloj. / Y yo le respondo: ya vendrás, ya vendrás.» En la tercera lectura, ¿qué palabra con significado se repite más veces? Escribe la palabra.
 - **D2.** Poema de ejemplo: «Pinté de azul las paredes de la casa nueva. / Colgué tu foto en el pasillo, no en el centro. / La tarde entra y la dejo pasar. / Aprendí que guardar no es detener: / el limonero también florece en otro patio.» ¿Cuántas veces aparece la palabra «limonero»?
 
 *Situaciones auténticas*
@@ -783,7 +783,7 @@ Respuesta: Aliteración de la s: imita el susurro del viento
 *Aplicación*
 
 - **A1.** Versos de ejemplo: «Pasa el tren, pasa la noche, pasa el miedo». ¿Qué efecto produce el paralelismo? A) da ritmo y sugiere que todo pasa B) indica que el tren es lento
-- **A2.** Verso de ejemplo: «El rumor de los remos rompe el río». ¿Qué sonido consonántico se repite más? A) la t B) la r
+- **A2.** Verso de ejemplo: «El rumor de los remos rompe el río». ¿Qué sonido consonántico se repite más? A) la r B) la m
 - **A3.** Estribillo de ejemplo: «Ya vendrás, ya vendrás». Aparece al final de cada estrofa de un poema de tres estrofas. ¿Cuántas veces se escucha el estribillo completo?
 
 *Razonamiento y análisis*
@@ -818,7 +818,7 @@ Respuesta: Aliteración de la s: imita el susurro del viento
 - **C2.** A) todavía. Abre el primer y el segundo verso, y vuelve en el quinto.
 - **C3.** A) una anáfora y un paralelismo con «corre». Repite la palabra y la estructura al comienzo de cada parte.
 - **A1.** A) da ritmo y sugiere que todo pasa. La estructura repetida refuerza la idea de lo pasajero.
-- **A2.** B) la r. Aparece en «rumor», «remos», «rompe», «río».
+- **A2.** A) la r. Aparece en «rumor», «remos», «rompe», «río».
 - **A3.** 3. Una vez en cada estrofa: tres en total.
 - **Z1.** B) sí, si cada una se apoya en el texto. El poema admite más de una lectura con evidencia.
 - **Z2.** A) evidencia; el poema sugiere más bien cercanía y gratitud. Versos como «el invierno fue un abrigo» no expresan enojo.
@@ -982,7 +982,7 @@ Respuesta: Usa el símbolo de la paz, pero lo matiza: es una paz dañada o incom
 
 - **R1.** ¿Qué es un símbolo en poesía? A) la firma del poeta B) un elemento concreto que representa una idea más amplia
 - **R2.** La paloma blanca suele asociarse con... A) la paz B) el miedo
-- **R3.** Poema de ejemplo: «El río de mi calle / no tiene puente ni nombre; / lo cruzo cada mañana / y el agua me cambia el rostro». ¿Qué elemento concreto es el eje del poema? Escribe la palabra.
+- **R3.** Poema de ejemplo: «El río de mi calle / no tiene puente ni nombre; / lo cruzo cada mañana / y el agua me cambia el rostro». ¿Qué elemento concreto es el eje del poema? A) el río B) la calle
 
 *Comprensión*
 
@@ -1022,7 +1022,7 @@ Respuesta: Usa el símbolo de la paz, pero lo matiza: es una paz dañada o incom
 
 - **R1.** B) un elemento concreto que representa una idea más amplia. Va más allá de su sentido literal.
 - **R2.** A) la paz. Es un símbolo cultural frecuente.
-- **R3.** río. El poema parte del río de la calle y todo lo demás ocurre al cruzarlo.
+- **R3.** A) el río. El poema parte del río de la calle y todo lo demás ocurre al cruzarlo.
 - **C1.** B) «el agua me cambia el rostro». Dice que cruzar el río transforma al hablante.
 - **C2.** A) una oportunidad o una barrera ante algo nuevo. El hablante duda y escucha lo que hay detrás.
 - **C3.** A) las decisiones de la vida. La bifurcación plantea elegir entre dos rumbos.

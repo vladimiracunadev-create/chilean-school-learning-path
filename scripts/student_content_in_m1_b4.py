@@ -12,8 +12,8 @@ from student_lessons import arith, ex
 OA = "IN1M OA 14"
 
 # ============================================================ clase 1: géneros, propósito y audiencia
-EMAIL = "«Dear Ms. Rojas, I am writing to ask if I can hand in my science project on Friday. I was ill on Monday. Thank you for your time. Best regards, Camila»"
-GEMAIL = "(hand in = entregar; project = trabajo; ill = enferma; thank you for your time = gracias por su tiempo; best regards = saludos cordiales)"
+EMAIL = "«Dear Ms. Rojas, I am writing to ask if I can turn in my science project on Friday. I was sick on Monday. Thank you for your time. Best regards, Camila»"
+GEMAIL = "(turn in = entregar; project = trabajo; sick = enferma; thank you for your time = gracias por su tiempo; best regards = saludos cordiales)"
 JOUR = "«Tuesday, 7 p.m. Today I finally learned to ride my bike without help! I was scared at first, but then I felt proud. Tomorrow I want to ride to the park.»"
 GJOUR = "(learned = aprendí; ride = andar; without help = sin ayuda; scared = con miedo; proud = orgulloso)"
 BROCH = "«Visit the Butterfly House! Open every day from 10:00 to 17:00. Free for children under 12. Walk among hundreds of colorful butterflies. Come and see!»"
@@ -53,7 +53,7 @@ lesson(
     ],
     [
         mc("Las instrucciones (instructions) enseñan", "pasos para hacer algo, en orden", ["la vida de una persona", "qué sintió alguien hoy"], "Usan first, next, then y finally."),
-        mc("Una biografía (biography) cuenta", "la vida de una persona real", ["una receta", "un chiste"], "Lleva fechas y logros."),
+        mc("Lee: «One night, Teo heard a noise in the attic. He took a flashlight and climbed the stairs. It was only the wind, and Teo laughed.» (attic = entretecho; flashlight = linterna; climbed = subió; stairs = escalera; wind = viento) ¿Qué género es?", "Un cuento, porque narra hechos con un personaje", ["Una descripción, porque dice cómo es un lugar", "Un artículo, porque informa un hecho real"], "Narra una secuencia de hechos con un personaje, Teo, que sube la escalera y se ríe."),
         mc("Un diario personal (journal) se escribe en", "primera persona y con la fecha", ["tercera persona sin fecha", "un registro formal de empresa"], "Cuenta lo que vive el autor."),
     ],
     [
@@ -77,7 +77,7 @@ lesson(
     [mc(f"Encuentras tres notas en la cartelera. {THANKS} {NOTE2} {NOTE3} {GNOTES} ¿Cuál es una carta que pide permiso?", "La nota 1", ["La nota 2", "La nota 3"], "La nota 1 saluda, pide permiso y se despide.")],
     [
         mc("¿Qué género usa saludo y despedida?", "Un correo o una carta", ["Una rima"], "Dear y Best regards son marcas de correo."),
-        mc("Un resumen (summary) es un texto que", "cuenta lo más importante de otro texto en pocas palabras", ["copia el texto original completo"], "Un resumen es breve y conserva las ideas principales."),
+        mc("Original: «A small library in our town has a free reading club for children. Volunteers read stories aloud every Saturday. At first, ten children came, and now fifty come each week.» (volunteers = voluntarios; aloud = en voz alta) ¿Cuál es el mejor resumen (summary)?", "A town library's free reading club grew from ten to fifty children", ["Volunteers read stories aloud every Saturday", "The town library is very big and has many books for adults"], "Un resumen dice la idea principal sin agregar datos; la segunda opción es solo un detalle y la tercera inventa información."),
         ("Escribe en inglés la palabra que significa «folleto».", "Brochure", "Brochure es un folleto informativo."),
     ],
     task("Lee estos cuatro textos y escribe el género de cada uno y una pista: Texto A: «First, wash your hands. Next, wet them with water. Then rub them with soap. Finally, rinse and dry.» Texto B: «Dear Ana, thank you for the invitation. See you on Saturday! Love, Eva» Texto C: «The beach is wide and quiet. The sand is warm and the waves are gentle.» Texto D: «Pablo Neruda was born in 1904. He was a poet from Chile.» (wash = lavar; rub = frotar; soap = jabón; rinse = enjuagar; dry = secar; wide = ancha; waves = olas; gentle = suaves)",
@@ -87,7 +87,7 @@ lesson(
          ["confundir una descripción con instrucciones", "dar el género sin ninguna pista"],
          "Pide que cambie el propósito de un texto y diga cómo cambiaría el género."),
     "Copia los once géneros con su propósito y dibuja un símbolo para cada uno.",
-    "Escribe en español qué género usarías para pedir permiso al jefe de tu curso y qué saludo pondrías.",
+    "Elige un género que no practicaste (cuento, rima, biografía, resumen o artículo) y escribe en inglés tres o cuatro oraciones o versos con sus rasgos.",
 )
 
 # ============================================================ clase 2: organizar ideas y redactar
@@ -339,7 +339,7 @@ lesson(
         mc("Un correo informal tiene siete oraciones y la cuarta no tiene relación con el propósito: «I like blue cars.» (cars = autos). ¿Qué haces al revisar?", "La quito, porque no aporta al propósito", ["La dejo porque me gusta", "Elimino el saludo"], "Cada oración debe servir al propósito."),
         mc("Ya planeaste, redactaste y revisaste el contenido de tu correo. ¿Qué pasos te faltan?", "Editar la forma y publicar", ["Solo publicar", "Planear y redactar"], "Después de revisar el contenido se edita la forma y luego se publica."),
     ],
-    [mc("Antes de publicar en la página del curso, revisas un texto con estas líneas: título, saludo, tres datos generales, una pregunta y el nombre «Sofía». ¿Qué decides?", "Publicarlo, porque cumple el criterio y no incluye datos privados", ["No publicarlo, porque tiene nombre", "No publicarlo, porque tiene una pregunta"], "Un nombre de pila y datos generales son aceptables.")],
+    [mc("Antes de publicar en la página del curso, revisas un texto con estas líneas: título, saludo, tres datos generales, una pregunta y una despedida con el nombre «Sofía». ¿Qué decides?", "Publicarlo, porque cumple el criterio y no incluye datos privados", ["No publicarlo, porque tiene nombre", "No publicarlo, porque tiene una pregunta"], "Un nombre de pila y datos generales son aceptables.")],
     [
         mc("¿Cuál es el último paso del proceso de escritura?", "Publicar", ["Planear"], "Publicar es compartir la versión final."),
         mc("¿Qué se compara punto por punto al revisar?", "El texto con el criterio", ["El texto con otro idioma"], "Así se detecta lo que falta."),

@@ -60,7 +60,7 @@ lesson(
     [
         ("Completa con few o a few: «We have ___ volunteers, but they are enough to clean the yard.»", "a few", "Alcanzan para limpiar el patio, así que el sentido es positivo."),
         ("Completa con a little o little: «There is ___ time left, but we can still finish one more song.»", "a little", "Se puede cantar una canción más, así que el sentido es positivo."),
-        ("Completa con un ordinal: «There are three steps. ___, open the book. Second, read. Third, write.»", "First", "El ordinal que abre la lista es First."),
+        ("Completa la pregunta con la palabra de cantidad correcta: «How ___ water is there in the bottle?» A) much B) many", "A", "Water es no contable y con no contables se pregunta How much."),
     ],
     [
         ("Termina con la conclusión que calza: «There are few buses on Sundays, so ___.» A) it is hard to travel by bus B) it is easy to travel by bus", "A", "Few indica que casi no hay buses y por eso es difícil."),
@@ -76,7 +76,7 @@ lesson(
         ("¿Qué palabra de cantidad significa «unos pocos» con sentido positivo y sirve para sustantivos contables?", "a few", "A few indica que hay lo suficiente."),
         ("¿Cuál es el ordinal de «tercero» en inglés?", "Third", "First, second, third."),
     ],
-    task("Lee este encargo: escribe un informe de entre cinco y siete oraciones sobre la sala de clases ficticia 1.º F, usando estos datos de ejemplo. Hay 24 sillas para 30 estudiantes (no alcanzan); queda un poco de pegamento en 2 frascos; hay 8 marcadores (alcanzan para los grupos); no hay casi hojas de colores. Usa al menos cuatro palabras de cantidad distintas (many, a few, few, a little, little) y enumera con First, Second y Finally lo que hay que comprar. Revisa si cada sustantivo es contable.", "In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little coloured paper. First, buy chairs. Second, buy paper. Finally, buy markers.", ["usa al menos cuatro palabras de cantidad distintas", "cada palabra calza con un sustantivo contable o no contable", "enumera con First, Second y Finally"], ["hoja con el informe y la lista de compras"], ["usar much con contables", "confundir few con a few"], "Lee tu informe a una persona de tu casa y pregunta qué cosa falta, a partir de las palabras de cantidad."),
+    task("Lee este encargo: escribe un informe de entre cinco y siete oraciones sobre la sala de clases ficticia 1.º F, usando estos datos de ejemplo. Hay 24 sillas para 30 estudiantes (no alcanzan); queda un poco de pegamento en 2 frascos; hay 8 marcadores (alcanzan para los grupos); no hay casi hojas de colores. Usa al menos cuatro palabras de cantidad distintas (many, a few, few, a little, little) y enumera con First, Second y Finally lo que hay que comprar. Revisa si cada sustantivo es contable.", "In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little colored paper. First, buy chairs. Second, buy paper. Finally, buy markers.", ["usa al menos cuatro palabras de cantidad distintas", "cada palabra calza con un sustantivo contable o no contable", "enumera con First, Second y Finally"], ["hoja con el informe y la lista de compras"], ["usar much con contables", "confundir few con a few"], "Lee tu informe a una persona de tu casa y pregunta qué cosa falta, a partir de las palabras de cantidad."),
     "Escribe cuatro oraciones con objetos de tu mochila usando a few, few, a little y little.",
     "Escribe dos oraciones iguales con a few y con few y explica en español qué cambia en el sentido.",
 )
@@ -143,7 +143,7 @@ lesson(
     ["Sé usar because y but.", "Conozco I think y I like."],
     [
         "Para dar tu propia opinión (opinion) por escrito se usa In my opinion, seguido de una coma: In my opinion, the park is clean. Para referirte a lo que dicen otros se usa According to + fuente, con coma: According to the teacher, the test is on Friday. No se dice «according to me» ni «according to my opinion». Una opinión es un juicio personal (boring, good); un hecho (fact) se puede comprobar (the library closes at 6 p.m.).",
-        "Los conectores (connectors) unen ideas. Although (aunque) introduce un contraste y no se combina con but en la misma oración: Although it is cheap, I am not sure. So that (para que) expresa un propósito: Come early so that we can talk. Both … and (tanto … como) une dos personas o cosas con un verbo en plural: Both Luis and Tomás are my neighbours. Para cerrar una lista se usa And last después de First y Second.",
+        "Los conectores (connectors) unen ideas. Although (aunque) introduce un contraste y no se combina con but en la misma oración: Although it is cheap, I am not sure. So that (para que) expresa un propósito: Come early so that we can talk. Both … and (tanto … como) une dos personas o cosas con un verbo en plural: Both Luis and Tomás are my neighbors. Para cerrar una lista se usa And last después de First y Second.",
         "Antes de escribir, define el propósito (purpose) del párrafo y a quién va dirigido. Luego revisa: ¿marqué qué es opinión y qué es hecho?, ¿cité la fuente con According to?, ¿cada conector tiene sentido y la puntuación correcta? Una coma separa la parte con Although del resto: Although it was cold, we played outside.",
     ],
     [("In my opinion", "en mi opinión"), ("According to", "según (una fuente)"), ("although", "aunque"), ("so that", "para que"), ("both … and", "tanto … como"), ("And last", "y por último"), ("fact", "hecho que se puede comprobar"), ("connector", "conector: palabra que une ideas")],
@@ -162,7 +162,7 @@ lesson(
     ],
     [
         ("«Come early so that we can talk.» ¿Qué expresa so that? A) un propósito B) un contraste", "A", "So that indica para qué se llega temprano."),
-        ("«Both Luis and Tomás are my neighbours.» ¿Cuántas personas son vecinos?", "2", "Both … and une a dos personas."),
+        ("«Both Luis and Tomás are my neighbors.» ¿Cuántas personas son vecinos?", "2", "Both … and une a dos personas."),
         ("«According to the poster, the museum opens at 9 a.m.» ¿Quién da el dato del horario? A) the poster B) the writer", "A", "La fuente nombrada después de According to es el afiche."),
     ],
     [
@@ -184,7 +184,7 @@ lesson(
         ("¿Qué conector significa «para que»?", "so that", "Expresa el propósito de una acción."),
         ("¿Qué se usa para citar una fuente?", "According to", "Seguido de la fuente y una coma."),
     ],
-    task("Lee este encargo: escribe en una hoja un párrafo de siete oraciones sobre si tu colegio debería abrir la biblioteca los sábados. Datos de ejemplo: según una encuesta ficticia, 18 de 25 estudiantes dicen que sí; el costo es bajo; algunas personas dicen que es mucho trabajo. Incluye In my opinion, According to, Although, so that y una lista con First, Second y And last. Revisa la puntuación de cada conector.", "In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is free.", ["usa In my opinion y According to correctamente", "usa Although y so that con sentido y sin but", "lista con First, Second y And last"], ["hoja con el párrafo y los conectores subrayados"], ["mezclar although con but", "usar according to me"], "Lee tu párrafo a una persona de tu casa y pregunta cuál es hecho y cuál es opinión."),
+    task("Lee este encargo: escribe en una hoja un párrafo de siete oraciones sobre si tu colegio debería abrir la biblioteca los sábados. Datos de ejemplo: según una encuesta ficticia, 18 de 25 estudiantes dicen que sí; el costo es bajo; algunas personas dicen que es mucho trabajo. Incluye In my opinion, According to, Although, so that y una lista con First, Second y And last. Revisa la puntuación de cada conector.", "In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is cheap.", ["usa In my opinion y According to correctamente", "usa Although y so that con sentido y sin but", "lista con First, Second y And last"], ["hoja con el párrafo y los conectores subrayados"], ["mezclar although con but", "usar according to me"], "Lee tu párrafo a una persona de tu casa y pregunta cuál es hecho y cuál es opinión."),
     "Escribe una oración con In my opinion y otra con According to sobre el mismo tema.",
     "Escribe dos oraciones con both … and sobre amigos o compañeros que comparten una habilidad.",
 )
@@ -202,7 +202,7 @@ lesson(
     ],
     [("have/has been + -ing", "forma del presente perfecto continuo"), ("for", "durante (una duración: for two hours)"), ("since", "desde (un punto de partida: since March)"), ("How long?", "¿cuánto tiempo?"), ("just", "recién, hace poco"), ("train", "entrenar"), ("wait", "esperar"), ("all day", "todo el día")],
     [
-        ("Escoger have o has", "Completa con have o has: «Our neighbours ___ been painting the fence since 9 a.m.»", ["Neighbours es plural, como they.", "Con plural se usa have.", "Queda have been painting."], "have"),
+        ("Escoger have o has", "Completa con have o has: «Our neighbors ___ been painting the fence since 9 a.m.»", ["Neighbours es plural, como they.", "Con plural se usa have.", "Queda have been painting."], "have"),
         ("Escoger for o since", "Completa con for o since: «Nico has been studying ___ 6 p.m.»", ["6 p.m. es un punto de partida.", "Un punto de partida se marca con since.", "Queda since 6 p.m."], "since"),
     ],
     [
@@ -232,13 +232,13 @@ lesson(
         arith("Empezamos a entrenar el 1 de septiembre. Hoy es 1 de diciembre. Completa el número de meses: «We have been training for ___ months.» (diciembre es el mes 12 y septiembre el 9)", "12-9", "Se resta el mes de inicio al mes actual."),
         ("Completa la pregunta: «How long ___ you ___ learning English?»", "have, been", "Con you se usa have y luego been."),
     ],
-    [("La banda de un colegio ficticio empezó a ensayar en marzo y hoy sigue ensayando. ¿Qué oración lo cuenta bien? A) Our band has been practising since March B) Our band is practising for March.", "A", "March es el punto de partida y la acción continúa.")],
+    [("La banda de un colegio ficticio empezó a ensayar en marzo y hoy sigue ensayando. ¿Qué oración lo cuenta bien? A) Our band has been practicing since March B) Our band is practicing for March.", "A", "March es el punto de partida y la acción continúa.")],
     [
         ("¿Cómo se forma el presente perfecto continuo?", "have/has + been + verbo con -ing", "Esa es la estructura completa."),
         ("¿Qué se usa con una duración: for o since?", "for", "For acompaña a cuánto tiempo."),
         ("¿Qué se usa con un punto de partida: for o since?", "since", "Since marca desde cuándo."),
     ],
-    task("Lee este encargo: escribe en una hoja un párrafo de seis oraciones sobre un club ficticio de ciclismo del colegio. Datos de ejemplo: los integrantes entrenan desde abril; la capitana, Laura, practica hace dos años; hoy llevan una hora pedaleando y están cansados; esperan la lluvia desde las 3 p.m. Usa al menos tres veces have/has been + -ing, for y since, y una oración en que se vea un resultado.", "The cycling club has been training since April. Laura has been practising for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practising too.", ["usa have/has been + -ing con el sujeto correcto", "usa for con duración y since con un punto de partida", "incluye una oración con resultado visible"], ["hoja con el párrafo y las frases de tiempo subrayadas"], ["omitir been", "usar since con una duración"], "Cuenta a una persona de tu casa algo que llevas haciendo desde hace tiempo, usando for y since."),
+    task("Lee este encargo: escribe en una hoja un párrafo de seis oraciones sobre un club ficticio de ciclismo del colegio. Datos de ejemplo: los integrantes entrenan desde abril; la capitana, Laura, practica hace dos años; hoy llevan una hora pedaleando y están cansados; esperan la lluvia desde las 3 p.m. Usa al menos tres veces have/has been + -ing, for y since, y una oración en que se vea un resultado.", "The cycling club has been training since April. Laura has been practicing for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practicing too.", ["usa have/has been + -ing con el sujeto correcto", "usa for con duración y since con un punto de partida", "incluye una oración con resultado visible"], ["hoja con el párrafo y las frases de tiempo subrayadas"], ["omitir been", "usar since con una duración"], "Cuenta a una persona de tu casa algo que llevas haciendo desde hace tiempo, usando for y since."),
     "Escribe tres oraciones sobre algo que haces desde hace tiempo con for y since.",
     "Escribe tres preguntas con How long have you been … para entrevistar a un compañero.",
 )
@@ -251,10 +251,10 @@ lesson(
     ["Sé usar el pasado simple.", "Conozco should y can para consejos."],
     [
         "Las situaciones hipotéticas (hypothetical) hablan de algo irreal o poco probable en el presente. La estructura es If + pasado simple, would + verbo en forma base: If she studied more, she would pass the test (pero no estudia más). Aunque if va con pasado simple, el tiempo es presente o futuro imaginario. Con el verbo be se usa were para todas las personas: If I were you, If he were here.",
-        "El mismo molde sirve para dar consejos (advice): If I were you, I would talk to the teacher. Significa «yo, en tu lugar, hablaría con la profesora». No se dice If I would be you ni If I will study. Para algo posible, no imaginario, se usa will: If it rains tomorrow, we will stay home. Para cortesía, would suaviza una orden: I would apologise (yo pediría disculpas).",
+        "El mismo molde sirve para dar consejos (advice): If I were you, I would talk to the teacher. Significa «yo, en tu lugar, hablaría con la profesora». No se dice If I would be you ni If I will study. Para algo posible, no imaginario, se usa will: If it rains tomorrow, we will stay home. Para cortesía, would suaviza una orden: I would apologize (yo pediría disculpas).",
         "Al escribir consejos, el propósito (purpose) es ayudar sin mandar. Revisa: ¿es una situación irreal o un plan posible?, ¿usé If + pasado y would + verbo?, ¿empleé were con I? Un consejo es más útil si propone una acción concreta: If I were you, I would plan my time with a list.",
     ],
-    [("If I were you", "si yo fuera tú (para dar consejo)"), ("would + verb", "forma del condicional para lo imaginario"), ("hypothetical", "hipotético: imaginario"), ("advice", "consejo"), ("were", "forma de be con todas las personas en lo imaginario"), ("apologise", "pedir disculpas"), ("plan", "planificar"), ("pass", "aprobar")],
+    [("If I were you", "si yo fuera tú (para dar consejo)"), ("would + verb", "forma del condicional para lo imaginario"), ("hypothetical", "hipotético: imaginario"), ("advice", "consejo"), ("were", "forma de be con todas las personas en lo imaginario"), ("apologize", "pedir disculpas"), ("plan", "planificar"), ("pass", "aprobar")],
     [
         ("Completar un consejo", "Completa: «If I ___ you, I would study today.» (opciones: were / was)", ["En lo hipotético con I se usa were.", "Es un consejo con If I were you.", "Queda were."], "were"),
         ("Formar una oración hipotética", "Completa: «If they trained every day, they ___ win the match.»", ["Después de If + pasado simple va would + verbo.", "Falta would.", "Queda would win."], "would"),
@@ -266,7 +266,7 @@ lesson(
     [
         ("«If I were you, I would talk to the teacher.» es A) un consejo B) un hecho del pasado", "A", "If I were you, I would… es la fórmula para dar un consejo."),
         ("Completa el consejo: «If I ___ you, I would ask for help.» A) were B) will be", "A", "La forma correcta de be en lo hipotético es were."),
-        ("Completa con would + verbo: «If Pedro practised more, he ___ improve.»", "would", "Después de la parte con pasado va would."),
+        ("Completa con would + verbo: «If Pedro practiced more, he ___ improve.»", "would", "Después de la parte con pasado va would."),
     ],
     [
         ("«If I had a car, I would drive to school.» ¿Qué significa? A) No tengo un auto B) Tengo un auto", "A", "La estructura habla de una situación imaginaria, que no es real."),
@@ -284,7 +284,7 @@ lesson(
     ],
     [
         ("Texto: «If Ana lived near the school, she would arrive on time.» ¿Qué dice la oración sobre la realidad? A) Ana no vive cerca del colegio B) Ana vive cerca del colegio.", "A", "La oración imaginaria revela lo contrario de la realidad."),
-        ("Ordena las palabras y escribe el consejo: were / I / would / If / you, / I / apologise", "If I were you, I would apologise.", "La estructura es If + sujeto + were + you, I would + verbo."),
+        ("Ordena las palabras y escribe el consejo: were / I / would / If / you, / I / apologize", "If I were you, I would apologize.", "La estructura es If + sujeto + were + you, I would + verbo."),
     ],
     [("Una columna de consejos ficticia: Mateo no termina las tareas a tiempo porque juega videojuegos hasta tarde. ¿Qué consejo es adecuado? A) If I were you, I would plan my time and play only after finishing B) If I were you, I would do the homework tomorrow.", "A", "Propone una acción concreta y útil, expresada con respeto.")],
     [
@@ -292,7 +292,7 @@ lesson(
         ("¿Con qué se completa la segunda parte: would + ?", "Un verbo en forma base", "Would plan, would call."),
         ("¿Para qué sirve If I were you, I would…?", "Dar un consejo", "Es la fórmula del consejo."),
     ],
-    task("Lee este encargo: responde en una hoja con cuatro consejos escritos a Lía, una estudiante ficticia. Datos de ejemplo: le cuesta madrugar, olvida sus útiles, tiene vergüenza de hablar inglés en clase, y está nerviosa antes de una prueba. Usa If I were you, I would… en dos consejos, y If + pasado simple, would + verbo en otros dos. Escribe también una oración hipotética sobre qué haría Lía con un día libre.", "If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practised in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park.", ["usa If I were you, I would en dos consejos", "usa If + pasado simple y would en otros dos", "los consejos son concretos y respetuosos"], ["hoja con los cuatro consejos y la oración hipotética"], ["usar would en la parte con if", "mezclar will con el molde hipotético"], "Dale uno de tus consejos a una persona de tu casa y pregunta si lo encontró útil."),
+    task("Lee este encargo: responde en una hoja con cuatro consejos escritos a Lía, una estudiante ficticia. Datos de ejemplo: le cuesta madrugar, olvida sus útiles, tiene vergüenza de hablar inglés en clase, y está nerviosa antes de una prueba. Usa If I were you, I would… en dos consejos, y If + pasado simple, would + verbo en otros dos. Escribe también una oración hipotética sobre qué haría Lía con un día libre.", "If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practiced in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park.", ["usa If I were you, I would en dos consejos", "usa If + pasado simple y would en otros dos", "los consejos son concretos y respetuosos"], ["hoja con los cuatro consejos y la oración hipotética"], ["usar would en la parte con if", "mezclar will con el molde hipotético"], "Dale uno de tus consejos a una persona de tu casa y pregunta si lo encontró útil."),
     "Escribe tres consejos para un compañero que se aburre en clases usando If I were you, I would.",
     "Escribe cuatro oraciones sobre qué harías si tuvieras una semana libre, usando If + pasado y would.",
 )

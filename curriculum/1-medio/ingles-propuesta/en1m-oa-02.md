@@ -152,9 +152,9 @@ Respuesta: Más gente usa bicicleta, pero faltan ciclovías seguras y la ciudad 
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Welcome to Teen Voices. Today I want to talk about sleep. Some students sleep only six hours on school days, but teenagers need between eight and ten hours. Sleep helps memory and mood. So tonight, put your phone away thirty minutes before bed.» (sleep = dormir, memory = memoria, mood = ánimo, put away = guardar, before bed = antes de dormir) ¿Cuál es el propósito principal? A) convencer de dormir más B) informar cuántos teléfonos hay en el colegio
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Welcome to Teen Voices. Today I want to talk about sleep. Some students sleep only six hours on school days, but teenagers need between eight and ten hours. Sleep helps memory and mood. So tonight, put your phone away thirty minutes before bed.» (sleep = dormir, memory = memoria, mood = ánimo, put away = guardar, before bed = antes de dormir) ¿Cuál es el propósito principal? A) convencer de dormir más B) entretener con una historia sobre un teléfono perdido
 - **C2.** Un adulto lee en voz alta (tapa el guion): «The flowering desert is a natural event in northern Chile. It happens in some years, when there is more rain than usual. Seeds under the sand wake up, and the desert fills with flowers. Many tourists visit it, so visitors must walk only on the paths to protect the flowers.» (flowering = florido, event = fenómeno, seeds = semillas, sand = arena, wake up = despiertan, paths = senderos, protect = proteger) ¿Para qué piden caminar solo por los senderos?
-- **C3.** Un adulto lee en voz alta (tapa el guion): «Why are more people using bicycles in the city? Cyclists say that it is cheap, fast and good for health. However, they also say that there are not enough safe lanes. The city plans to build new lanes next year.» (cheap = barato, health = salud, however = sin embargo, lanes = ciclovías, plans = planea, build = construir) ¿Qué plan anuncia la ciudad? A) cobrar un permiso a los ciclistas B) construir nuevas ciclovías el próximo año
+- **C3.** Un adulto lee en voz alta (tapa el guion): «Why are more people using bicycles in the city? Cyclists say that it is cheap, fast and good for health. However, they also say that there are not enough safe lanes. The city plans to build new lanes next year.» (cheap = barato, health = salud, however = sin embargo, lanes = ciclovías, plans = planea, build = construir) ¿Qué plan anuncia la ciudad? A) construir nuevas ciclovías el próximo año B) prohibir las bicicletas en el centro
 
 *Aplicación*
 
@@ -170,7 +170,7 @@ Respuesta: Más gente usa bicicleta, pero faltan ciclovías seguras y la ciudad 
 *Desafío*
 
 - **D1.** Un adulto lee en voz alta (tapa el guion): «Why are more people using bicycles in the city? Cyclists say that it is cheap, fast and good for health. However, they also say that there are not enough safe lanes. The city plans to build new lanes next year.» (cheap = barato, health = salud, however = sin embargo, lanes = ciclovías, plans = planea, build = construir) However introduce un contraste. ¿Qué dos ideas contrasta? A) la bicicleta y el tren B) las ventajas de la bicicleta y la falta de ciclovías seguras
-- **D2.** Un adulto lee en voz alta (tapa el guion): «The flowering desert is a natural event in northern Chile. It happens in some years, when there is more rain than usual. Seeds under the sand wake up, and the desert fills with flowers. Many tourists visit it, so visitors must walk only on the paths to protect the flowers.» (flowering = florido, event = fenómeno, seeds = semillas, sand = arena, wake up = despiertan, paths = senderos, protect = proteger) ¿Qué dos ideas relevantes tiene el texto? A) el desierto florece con más lluvia y los visitantes deben cuidar las flores B) el desierto es muy caluroso y el agua es salada
+- **D2.** Un adulto lee en voz alta (tapa el guion): «The flowering desert is a natural event in northern Chile. It happens in some years, when there is more rain than usual. Seeds under the sand wake up, and the desert fills with flowers. Many tourists visit it, so visitors must walk only on the paths to protect the flowers.» (flowering = florido, event = fenómeno, seeds = semillas, sand = arena, wake up = despiertan, paths = senderos, protect = proteger) ¿Qué dos ideas relevantes tiene el texto? A) el desierto florece con más lluvia y los visitantes deben cuidar las flores B) el desierto florece todos los años y los turistas pueden caminar donde quieran
 
 *Situaciones auténticas*
 
@@ -191,7 +191,7 @@ Respuesta: Más gente usa bicicleta, pero faltan ciclovías seguras y la ciudad 
 - **R3.** La bicicleta. El texto empieza con Why are more people using bicycles?
 - **C1.** A) convencer de dormir más. Termina con una recomendación: put your phone away before bed.
 - **C2.** Para proteger las flores. El guion dice walk only on the paths to protect the flowers.
-- **C3.** B) construir nuevas ciclovías el próximo año. El guion dice The city plans to build new lanes next year.
+- **C3.** A) construir nuevas ciclovías el próximo año. El guion dice The city plans to build new lanes next year.
 - **A1.** Entre 8 y 10 horas. Dice between eight and ten hours.
 - **A2.** 2. Se resta lo que duerme de lo que necesita. Cálculo: 8 − 6 = 2.
 - **A3.** 3. Dicen que es barata, rápida y buena para la salud.
@@ -368,7 +368,7 @@ Respuesta: Tomás: el fútbol es emocionante. Marina: el ajedrez es tranquilo
 
 *Aplicación*
 
-- **A1.** Un adulto lee en voz alta (tapa el guion): «At our school, snails were eating the lettuce in the garden. This was a big problem for the first-year class. The students tried watering at night, but it made things worse. Then they collected the snails by hand every morning and took them to a far corner of the yard. Rocío said, It is boring, but it works. After two weeks, the lettuce grew well.» (snails = caracoles, lettuce = lechuga, watering = regar, worse = peor, collected = recogieron, far corner = rincón lejano, grew = creció) La lechuga creció bien después de dos semanas. Si cada semana tiene 7 días, ¿cuántos días pasaron?
+- **A1.** Un adulto lee en voz alta (tapa el guion): «At our school, snails were eating the lettuce in the garden. This was a big problem for the first-year class. The students tried watering at night, but it made things worse. Then they collected the snails by hand every morning and took them to a far corner of the yard. Rocío said, It is boring, but it works. After two weeks, the lettuce grew well.» (snails = caracoles, lettuce = lechuga, watering = regar, worse = peor, collected = recogieron, far corner = rincón lejano, grew = creció) ¿Qué resultado se vio después de dos semanas de recoger los caracoles?
 - **A2.** Un adulto lee en voz alta (tapa el guion): «The science fair is on Wednesday at ten in the gym. Ms. Rivas will give the opening speech. Students from the first year will present their experiments in room three, and students from the second year in room four.» (science fair = feria científica, opening speech = discurso de apertura, experiments = experimentos, room = sala) ¿Quién da el discurso de apertura?
 - **A3.** Un adulto lee en voz alta (tapa el guion): «Attention, passengers. The bus to the airport is late because of the rain. The new departure time is ten past six. Please wait in the main hall.» (late = atrasado, because of = a causa de, departure = salida, main hall = sala principal) ¿Por qué se atrasa el bus?
 
@@ -402,7 +402,7 @@ Respuesta: Tomás: el fútbol es emocionante. Marina: el ajedrez es tranquilo
 - **C1.** A) a un rincón lejano del patio. El guion dice took them to a far corner of the yard.
 - **C2.** A) en la sala tres. El guion dice first year… in room three.
 - **C3.** A) que es lento. Tomás dice But chess is slow.
-- **A1.** 14. Se multiplican las semanas por los días de cada semana. Cálculo: 2 × 7 = 14.
+- **A1.** La lechuga creció bien. El guion cierra con After two weeks, the lettuce grew well.
 - **A2.** La Sra. Rivas. Dice Ms. Rivas will give the opening speech.
 - **A3.** A causa de la lluvia. El guion dice because of the rain.
 - **Z1.** A) but. But opone la lentitud con la ventaja de no lastimarse.
@@ -589,7 +589,7 @@ Respuesta: Took (take a break)
 
 *Desafío*
 
-- **D1.** Elige el modismo que significa «muy fácil»: A) a piece of cake B) a slice of bread
+- **D1.** Elige el modismo que significa «muy fácil»: A) a piece of cake B) a piece of pie
 - **D2.** Completa: «____ it was raining, we played football.» A) So that B) Although
 
 *Situaciones auténticas*

@@ -535,7 +535,7 @@ Respuesta: 5 puntos
 
 *Ejemplo 2. Un criterio que pesa más*
 
-Problema: La propuesta B tiene 4 puntos, pero excluye a las estudiantes. La C tiene 3 y excluye a nadie. ¿Cuál conviene?
+Problema: La propuesta B tiene 4 puntos, pero excluye a las estudiantes. La C tiene 3 y no excluye a nadie. ¿Cuál conviene?
 
 1. Excluir vulnera la dignidad y la inclusión.
 2. C es aceptable.
@@ -762,7 +762,7 @@ Respuesta: La opción A
 *Comprensión*
 
 - **C1.** ¿Qué acción es pacífica? A) Tomarse el patio sin avisar B) Pedir una reunión con el Centro de Estudiantes.
-- **C2.** ¿Quién puede ayudar si hay un conflicto al llevar adelante una propuesta? A) El profesor jefe B) Nadie, es un secreto.
+- **C2.** ¿Quién puede ayudar si hay un conflicto al llevar adelante una propuesta? A) Nadie, porque los adultos no deben intervenir en iniciativas de estudiantes B) El profesor jefe.
 - **C3.** ¿Qué debe tener una acción una vez elegida? A) Solo entusiasmo B) Responsables, plazo y revisión.
 
 *Aplicación*
@@ -799,7 +799,7 @@ Respuesta: La opción A
 - **R2.** B. Protege la privacidad.
 - **R3.** A. Ordena a las personas e instancias que pueden ayudar.
 - **C1.** B. Respeta los canales y no daña.
-- **C2.** A. Un adulto acompaña y media.
+- **C2.** B. Un adulto acompaña y media.
 - **C3.** B. Así se puede cumplir.
 - **A1.** 5. Curso, directiva, profesor jefe, dirección y Centro de Estudiantes.
 - **A2.** S, N, S. La 1 y la 3 usan canales formales; la 2 es una toma sin aviso.

@@ -151,7 +151,7 @@ Respuesta: Favorece que las personas se junten y conversen a la sombra
 
 *Comprensión*
 
-- **C1.** La banca circular de la plaza rodea un árbol. ¿Qué propósito se relaciona mejor con esa forma? A. Que las personas se sienten mirándose y se junten B. Que las personas pasen rápido sin detenerse.
+- **C1.** Una plaza de ejemplo tiene una explanada grande de piso liso, sin bancas ni árboles. ¿Qué uso favorece mejor esa forma? A. Que personas lean sentadas a la sombra B. Reunir a mucha gente de pie, como en una feria.
 - **C2.** Rasgos de la ficha: 1) banca de hormigón, 2) piso de adoquines, 3) árbol de copa ancha, 4) rampa. ¿Cuántos nombran un material de construcción?
 - **C3.** ¿Cuál es una relación con el contexto bien escrita? A. La zona de juegos queda junto a una escuela, por eso la usan niños y niñas B. La banca es de hormigón.
 
@@ -188,7 +188,7 @@ Respuesta: Favorece que las personas se junten y conversen a la sombra
 - **R1.** B. El lenguaje visual describe cómo se ve el espacio; las otras opciones son datos externos u opiniones.
 - **R2.** Por la norte. La rampa permite avanzar sin peldaños; la escalera lo impide.
 - **R3.** De contexto. Habla de lo que rodea a la plaza, no de sus formas ni materiales.
-- **C1.** A. El círculo pone a las personas frente a frente; no está pensado para el paso rápido.
+- **C1.** B. Un piso amplio y libre deja espacio para muchas personas de pie; sin bancas ni sombra no invita a quedarse sentado.
 - **C2.** 2. Hormigón y adoquines son materiales; el árbol es vegetación y la rampa es una forma.
 - **C3.** A. Conecta un rasgo del lugar con su entorno; la otra frase solo describe un material.
 - **A1.** 3. La 1, la 3 y la 4 se ven; «horrible» es una opinión.
@@ -377,12 +377,12 @@ Respuesta: Tiras de cartón en relieve con un patrón propio, citando el muro de
 
 *Desafío*
 
-- **D1.** Una banca de metal de ejemplo se calienta mucho al sol del patio. ¿Qué cambio mejora su temperatura sin cambiar el material? A. Pintarla de negro B. Pintarla de un color claro y ponerle sombra.
+- **D1.** Una banca de metal de ejemplo se calienta mucho al sol del patio. ¿Qué cambio mejora su temperatura sin cambiar el material? A. Cambiarle la forma del respaldo B. Pintarla de un color claro y ponerle sombra.
 - **D2.** Para una muestra tienes 38 tapas limpias y cada patrón de ejemplo usa 6 tapas. ¿Cuántos patrones completos puedes armar?
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso arma una muestra de materiales para un proyecto de paradero. Tienes 3 materiales de ejemplo con sus notas: hormigón (dura mucho y casi no pide mantención; retiene calor, pero a la sombra no quema), madera tratada (cálida, pide mantención) y metal pintado (liviano, se calienta al sol). Necesitas un asiento que no queme y casi no requiera cuidados. ¿Cuál eliges y por qué? A. Hormigón, porque dura mucho aunque retenga calor, y se puede sombrear con un techo B. Metal pintado, porque pesa poco.
+- **S1.** Tu curso arma una muestra de materiales para un proyecto de paradero. Tienes 3 materiales de ejemplo con sus notas: hormigón (dura mucho y casi no pide mantención; retiene calor, pero a la sombra no quema), madera tratada (cálida, pide mantención) y metal pintado (liviano, se calienta al sol). Necesitas un asiento que no queme y casi no requiera cuidados. ¿Cuál eliges y por qué? A. Metal pintado, porque pesa poco y se instala fácil B. Hormigón, porque dura mucho aunque retenga calor, y se puede sombrear con un techo.
 
 *Autoevaluación*
 
@@ -405,9 +405,9 @@ Respuesta: Tiras de cartón en relieve con un patrón propio, citando el muro de
 - **A3.** 20 hileras. Se divide la altura total entre la altura de cada hilera. Cálculo: 300 ÷ 15 = 20.
 - **Z1.** Temperatura. Lo que importa es cuánto se calienta el asiento al sol; el ritmo y la escala no cambian eso.
 - **Z2.** Apertura, porque deja ver el interior. El vidrio es transparente y permite ver a través de él.
-- **D1.** B. Un color claro y la sombra absorben y reciben menos calor; el negro absorbe más.
+- **D1.** B. Un color claro y la sombra reducen el calor que recibe; la forma del respaldo no cambia cuánto se calienta el asiento.
 - **D2.** 6 patrones. Se divide el total de tapas entre las que usa cada patrón y se cuentan solo los completos. Cálculo: 38 ÷ 6 = 6.
-- **S1.** A. Con un techo que dé sombra, el hormigón cumple en durabilidad y casi no necesita mantención; el peso liviano no responde a ninguna necesidad.
+- **S1.** B. Con un techo que dé sombra, el hormigón cumple en durabilidad y casi no necesita mantención; el metal pintado se calienta al sol y que sea liviano no responde a la necesidad.
 - **E1.** Durabilidad, temperatura, mantención y cómo se ve. Juntos muestran el efecto y el costo de uso del material.
 - **E2.** Falso. Se toma un recurso y se cambia el resto; anotar el nombre no basta.
 - **E3.** Quién lo hizo, dónde está y qué se sabe con certeza. Eso permite citarlo y distinguir dato de suposición.
@@ -482,7 +482,7 @@ Respuesta: Tiras de cartón en relieve con un patrón propio, citando el muro de
 
 **Consigna exacta:** Elige UN lugar de ejemplo. A) Un paradero: 3 m de largo por 1,5 m de ancho, con una banca de 2 m. B) Un rincón de patio de 4 m por 3 m donde caben tres bancas de 1,5 m. C) Una vereda de 12 m de largo por 2 m de ancho con un árbol a los 6 m. Elige una escala (1:50 o 1:100), dibuja dos plantas distintas del lugar con esa misma escala, compara A y B con UN criterio (circulación, sombra o visibilidad) y decide. Anota qué ajustarías en una segunda versión.
 
-**Referencia para modelar y corregir:** Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm, banca de 4 cm. Planta 1: banca al fondo, pasillo libre de 2 cm. Planta 2: banca al costado, pasillo libre de 3 cm. Criterio: circulación. Elijo la 2. En una segunda versión ensancharía un poco más la entrada.
+**Referencia para modelar y corregir:** Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm (con banca de 50 cm de ancho). La banca mide 4 cm por 1 cm. Planta 1: banca en el centro, con pasillos libres de 1 cm a cada lado. Planta 2: banca pegada a un costado, con un solo pasillo libre de 2 cm. Criterio: circulación. Elijo la 2 porque el pasillo es más ancho. En una segunda versión ensancharía un poco más la entrada.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -496,7 +496,7 @@ Respuesta: Tiras de cartón en relieve con un patrón propio, citando el muro de
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm, banca de 4 cm. Planta 1: banca al fondo, pasillo libre de 2 cm. Planta 2: banca al costado, pasillo libre de 3 cm. Criterio: circulación. Elijo la 2. En una segunda versión ensancharía un poco más la entrada. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm (con banca de 50 cm de ancho). La banca mide 4 cm por 1 cm. Planta 1: banca en el centro, con pasillos libres de 1 cm a cada lado. Planta 2: banca pegada a un costado, con un solo pasillo libre de 2 cm. Criterio: circulación. Elijo la 2 porque el pasillo es más ancho. En una segunda versión ensancharía un poco más la entrada. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -576,7 +576,7 @@ Respuesta: La B, con un pasillo real de 300 cm
 *Aplicación*
 
 - **A1.** En el plano de una plaza a escala 1:50, un camino dibujado mide 18 cm de largo. ¿Cuántos metros mide el camino real? (100 cm = 1 m)
-- **A2.** Un pasillo debe medir al menos 120 cm para que pasen dos personas lado a lado. En un plano a escala 1:50, tu pasillo dibujado mide 2 cm. ¿Cumple? A. No, porque 2 × 50 = 100 cm y es menos de 120 B. Sí, porque 2 cm es un número pequeño.
+- **A2.** Un pasillo debe medir al menos 120 cm (cifra de referencia de ejemplo) para que pasen dos personas lado a lado. En un plano a escala 1:50, tu pasillo dibujado mide 2 cm. ¿Cumple? A. No, porque 2 × 50 = 100 cm y es menos de 120 B. Sí, porque 2 cm es un número pequeño.
 - **A3.** Para estudiar la sombra de un edificio de ejemplo necesitas ver su altura. ¿Qué dibujo usas? A. Una elevación B. Una planta.
 
 *Razonamiento y análisis*
@@ -621,7 +621,7 @@ Respuesta: La B, con un pasillo real de 300 cm
 - **E2.** La misma escala y un criterio claro. Así se comparan cosas equivalentes.
 - **E3.** Falso. Eso lo muestra la planta; la elevación muestra alturas.
 
-**Actividad abierta · ejemplo de respuesta.** Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm, banca de 4 cm. Planta 1: banca al fondo, pasillo libre de 2 cm. Planta 2: banca al costado, pasillo libre de 3 cm. Criterio: circulación. Elijo la 2. En una segunda versión ensancharía un poco más la entrada.
+**Actividad abierta · ejemplo de respuesta.** Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm (con banca de 50 cm de ancho). La banca mide 4 cm por 1 cm. Planta 1: banca en el centro, con pasillos libres de 1 cm a cada lado. Planta 2: banca pegada a un costado, con un solo pasillo libre de 2 cm. Criterio: circulación. Elijo la 2 porque el pasillo es más ancho. En una segunda versión ensancharía un poco más la entrada.
 
 **Criterios para evaluarla:** usa la misma escala en las dos plantas; calcula las medidas del dibujo con la escala; compara con un criterio nombrado; decide y propone un ajuste.
 
@@ -691,7 +691,7 @@ Respuesta: La B, con un pasillo real de 300 cm
 
 **Consigna exacta:** Elige UN problema de ejemplo. A) Una esquina con paradero sin techo ni banca y un escalón de 15 cm en la vereda. B) Un sitio vacío entre dos casas usado como basural. C) Un patio de liceo donde 30 estudiantes esperan al sol. Escribe el problema, el propósito (para qué y para quién) y tres decisiones: una de forma, una de materialidad y una de acceso. Dibuja una planta con leyenda, indica la escala y escribe qué cambiarías en una segunda versión.
 
-**Referencia para modelar y corregir:** Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de 15 cm de alto y 180 cm de largo. Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo.
+**Referencia para modelar y corregir:** Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de ejemplo de 15 cm de alto y 180 cm de largo (1 en 12). Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -705,7 +705,7 @@ Respuesta: La B, con un pasillo real de 300 cm
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de 15 cm de alto y 180 cm de largo. Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de ejemplo de 15 cm de alto y 180 cm de largo (1 en 12). Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -727,7 +727,7 @@ Respuesta: La B, con un pasillo real de 300 cm
 
 Una propuesta propia comienza con un problema observable, por ejemplo «no hay dónde sentarse a la sombra». De ahí sale un propósito: para qué y para quién será mi intervención. Luego tomo tres tipos de decisiones: de forma (cómo se ve y se distribuye), de materialidad (con qué se hace) y de acceso (quién puede usarlo y cómo). Cada decisión debe poder justificarse con el problema.
 
-El acceso universal significa que el espacio pueda ser usado por la mayor cantidad posible de personas, incluidas quienes usan silla de ruedas, bastón, coche o tienen dificultad para ver. Una rampa suave, un piso sin desniveles y señales con buen contraste ayudan. La pendiente de una rampa se calcula dividiendo la altura que sube entre el largo del recorrido. En un ejemplo, subir 30 cm en 360 cm de largo da una pendiente de 1 en 12.
+El acceso universal significa que el espacio pueda ser usado por la mayor cantidad posible de personas, incluidas quienes usan silla de ruedas, bastón, coche o tienen dificultad para ver. Una rampa suave, un piso sin desniveles y señales con buen contraste ayudan. La pendiente de una rampa se dice «1 en N»: N es cuántas veces cabe la altura que sube en el largo del recorrido (largo ÷ altura). Mientras mayor es N, más suave es la rampa. En un ejemplo, subir 30 cm en 360 cm de largo da una pendiente de 1 en 12 (cifra de ejemplo, no una norma).
 
 Mi propuesta se expresa en una maqueta o un plano con una leyenda: qué es cada cosa y a qué escala está. Después reviso con una pauta: ¿resuelve el problema?, ¿se puede construir con los materiales indicados?, ¿pensé en quién la usa? Dejo anotado qué cambiaría en una versión siguiente. La propuesta es mía solo si cada decisión importante tiene una razón mía y no un copiado de un referente.
 
@@ -800,12 +800,12 @@ Respuesta: Pendiente de 1 en 12
 
 *Situaciones auténticas*
 
-- **S1.** Un liceo de ejemplo quiere una zona de espera para el transporte escolar: 30 estudiantes a la vez, patio sin sombra, un escalón de 15 cm en la entrada. Elige la propuesta que responde mejor. A. Una escultura grande en la entrada para decorar B. Techo para todos, banca larga y una rampa en el escalón.
+- **S1.** Un liceo de ejemplo quiere una zona de espera para el transporte escolar: 30 estudiantes a la vez, patio sin sombra, un escalón de 15 cm en la entrada. Elige la propuesta que responde mejor. A. Un cartel con el horario del bus y una banca pequeña al sol B. Techo para todos, banca larga y una rampa en el escalón.
 
 *Autoevaluación*
 
 - **E1.** ¿Qué tres tipos de decisiones se toman en una propuesta propia?
-- **E2.** Verdadero o falso: la pendiente de una rampa se calcula dividiendo la altura entre el largo del recorrido.
+- **E2.** Verdadero o falso: una rampa de ejemplo de 1 en 12 es más suave que una de 1 en 8 que sube lo mismo.
 - **E3.** ¿Qué tres preguntas se hacen al revisar una propuesta?
 
 **Actividad abierta.** Elige UN problema de ejemplo. A) Una esquina con paradero sin techo ni banca y un escalón de 15 cm en la vereda. B) Un sitio vacío entre dos casas usado como basural. C) Un patio de liceo donde 30 estudiantes esperan al sol. Escribe el problema, el propósito (para qué y para quién) y tres decisiones: una de forma, una de materialidad y una de acceso. Dibuja una planta con leyenda, indica la escala y escribe qué cambiarías en una segunda versión.
@@ -825,12 +825,12 @@ Respuesta: Pendiente de 1 en 12
 - **Z2.** A. La propuesta debe poder construirse con los materiales indicados; hay que ajustarla.
 - **D1.** La X. Su largo es 288 ÷ 24 = 12 veces la altura, y el de Y es 192 ÷ 24 = 8 veces; más largo para la misma altura da menos pendiente.
 - **D2.** 216 cm. El largo es la altura multiplicada por 12. Cálculo: 18 × 12 = 216.
-- **S1.** B. Resuelve sombra, asiento y acceso, que son los problemas observados; la escultura no responde a ninguno.
+- **S1.** B. Resuelve sombra, asiento y acceso, que son los problemas observados; el cartel y una banca al sol dejan sin resolver la sombra y el escalón.
 - **E1.** De forma, de materialidad y de acceso. Cada una debe justificarse con el problema.
-- **E2.** Verdadero. Compara cuánto sube con cuánto avanza.
+- **E2.** Verdadero. Con 1 en 12 el largo es mayor para la misma altura, así que la rampa es más suave.
 - **E3.** Si resuelve el problema, si se puede construir y si pensó en quién la usa. Esa pauta permite decidir qué cambiar.
 
-**Actividad abierta · ejemplo de respuesta.** Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de 15 cm de alto y 180 cm de largo. Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo.
+**Actividad abierta · ejemplo de respuesta.** Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de ejemplo de 15 cm de alto y 180 cm de largo (1 en 12). Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo.
 
 **Criterios para evaluarla:** parte de un problema observable; define propósito, forma, materialidad y acceso; dibuja planta con leyenda y escala; propone un ajuste para una segunda versión.
 
@@ -995,7 +995,7 @@ Respuesta: Pedir consentimiento o recortar al compañero, dar crédito al artist
 *Aplicación*
 
 - **A1.** Propuesta A: banca y techo con rampa, puntajes uso 3, acceso 2, memoria 1 e impacto 2. Propuesta B: mural sin cambios de acceso, puntajes uso 1, acceso 0, memoria 3 e impacto 1. ¿Cuál tiene mayor total y cuánto es?
-- **A2.** En el ejemplo anterior, ¿qué puede hacer la propuesta A para mejorar su criterio más bajo?
+- **A2.** Una propuesta A tiene uso 3, acceso 2, memoria 1 e impacto 2. ¿Qué criterio tiene el puntaje más bajo y cómo podría subirlo?
 - **A3.** Una compañera dice: «Mi propuesta es la mejor porque tiene más color». ¿Qué frase la corrige mejor? A. «Tiene más puntaje en uso y acceso, porque incluye banca y rampa» B. «Todas las propuestas son igual de buenas».
 
 *Razonamiento y análisis*
@@ -1029,7 +1029,7 @@ Respuesta: Pedir consentimiento o recortar al compañero, dar crédito al artist
 - **C2.** B. Los tres rasgos permiten que más personas usen el lugar.
 - **C3.** A. El permiso y el crédito respetan la autoría; cambiar el título no.
 - **A1.** A, con 8 puntos. A suma 3 + 2 + 1 + 2 = 8; B suma 1 + 0 + 3 + 1 = 5.
-- **A2.** Incluir algo que respete la memoria del lugar, como conservar el árbol antiguo. Su puntaje más bajo es memoria; conservar un elemento significativo la sube.
+- **A2.** Memoria; conservando algo que los vecinos valoran del lugar. El puntaje más bajo es memoria; conservar un elemento significativo del lugar la sube.
 - **A3.** A. Justifica con criterios y rasgos observables; la otra frase evita comparar.
 - **Z1.** B. El consentimiento y el crédito se resuelven antes de difundir, no después.
 - **Z2.** B. No se interviene un espacio sin permiso; el color es un asunto posterior.

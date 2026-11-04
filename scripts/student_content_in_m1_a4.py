@@ -46,7 +46,7 @@ lesson(
     ],
     [("predict", "predecir: imaginar qué dirá el texto"), ("prior knowledge", "conocimientos previos"), ("purpose for listening", "propósito de escucha: qué busco"), ("confirm", "confirmar: comprobar si era cierto"), ("title", "título"), ("special", "plato del día")],
     [
-        ("Predecir con el título", W_LOST.split(". Guion")[0] + ". ¿Qué palabras esperas oír? A) lost, color, bus B) recipe, oven, flour", ["El título habla de objetos perdidos.", "En ese lugar se describe lo perdido y dónde se perdió.", "Las palabras esperables son lost, color y bus."], "A) lost, color, bus"),
+        ("Predecir con el título", W_LOST.split(". Guion")[0] + ". ¿Qué palabras esperas oír? A) lost, color, bus B) ticket, platform, passenger", ["El título habla de objetos perdidos.", "En ese lugar se describe lo perdido y dónde se perdió.", "Las palabras esperables son lost, color y bus."], "A) lost, color, bus"),
         ("Escuchar con un propósito", ADULT + W_TRIP + " Escuchas para saber cuánto dinero llevar. ¿Qué dato buscas?", ["El propósito es saber un monto.", "Busco un número junto a pesos.", "Dice five thousand pesos."], "5.000 pesos"),
     ],
     [
@@ -54,9 +54,9 @@ lesson(
         ("Escuchar todo con la misma atención aunque se busque un dato.", "No se decidió el propósito antes de escuchar.", "Define qué dato buscas y atiéndelo."),
     ],
     [
-        ("Título: «A day at the beach». ¿Qué palabras esperas oír? A) sand, waves, sunscreen B) keyboard, printer, screen", "A) sand, waves, sunscreen", "Son palabras del tema playa: arena, olas y bloqueador."),
-        ("Vas a escuchar un menú. ¿En qué debes fijarte si quieres saber cuánto gastarás? A) números y precios B) colores y formas", "A) números y precios", "El propósito es el costo."),
-        ("Antes de escuchar el menú de la cafetería, ¿qué pregunta te ayuda a escuchar con propósito? A) ¿Cuánto cuesta el plato del día? B) ¿Quién ganó el partido?", "A) ¿Cuánto cuesta el plato del día?", "Es una pregunta relacionada con el título del texto."),
+        ("Título: «A day at the beach». ¿Qué palabras esperas oír? A) sand, waves, sunscreen B) snow, coat, gloves", "A) sand, waves, sunscreen", "Son palabras del tema playa: arena, olas y bloqueador."),
+        ("Vas a escuchar un menú. ¿En qué debes fijarte si quieres saber cuánto gastarás? A) números y precios B) horarios y días", "A) números y precios", "El propósito es el costo."),
+        ("Antes de escuchar el menú de la cafetería, ¿qué pregunta te ayuda a escuchar con propósito? A) ¿Cuánto cuesta el plato del día? B) ¿A qué hora sale el bus?", "A) ¿Cuánto cuesta el plato del día?", "Es una pregunta relacionada con el título del texto."),
     ],
     [
         (ADULT + CAFE + " ¿Cuánto cuesta el plato del día? A) 3.500 pesos B) 5.300 pesos", "A) 3.500 pesos", "Dice three thousand five hundred pesos."),
@@ -70,13 +70,13 @@ lesson(
     ],
     [
         ("Predijiste para «Winter clothes sale» las palabras discounts, jackets y scarves. Oyes: «Everything is half price this weekend: coats, gloves and scarves.» (half price = mitad de precio, coats = abrigos, gloves = guantes). ¿Se confirma tu predicción? A) sí, en lo central: ofertas de ropa de invierno B) no, habla de ropa de verano", "A) sí, en lo central: ofertas de ropa de invierno", "Half price equivale a discounts y coats, gloves y scarves son ropa de invierno."),
-        ("Sabes que en una biblioteca se pide silencio. ¿Qué frase esperas oír de la bibliotecaria? A) Please speak quietly. B) Please sing louder.", "A) Please speak quietly.", "Tus conocimientos previos de una biblioteca anticipan esa norma."),
+        ("Sabes que en una biblioteca se pide silencio. ¿Qué frase esperas oír de la bibliotecaria? A) Please speak quietly. B) Please speak louder.", "A) Please speak quietly.", "Tus conocimientos previos de una biblioteca anticipan esa norma."),
     ],
     [
         (ADULT + CONTEST + " ¿Qué grupo gana el viaje? A) el que reúne más peso B) el que termina primero", "A) el que reúne más peso", "Dice The group with the most weight wins."),
         (ADULT + CONTEST + " ¿Cuántos días dura el concurso, contando lunes y viernes? A) 5 B) 4", "A) 5", "Lunes, martes, miércoles, jueves y viernes son cinco días."),
     ],
-    [(ADULT + "Estás en la estación y oyes: «Passengers for Valdivia, your bus leaves from platform four at ten past nine.» (passengers = pasajeros, platform = andén, ten past nine = nueve y diez). Tu propósito es saber la hora de salida. ¿A qué hora sale? A) 9:10 B) 10:09", "A) 9:10", "Ten past nine significa nueve y diez.")],
+    [(ADULT + "Estás en la estación y oyes: «Passengers for Valdivia, your bus leaves from platform four at ten past nine.» (passengers = pasajeros, platform = andén, past = y (en la hora)). Tu propósito es saber la hora de salida. ¿A qué hora sale? A) 9:10 B) 10:09", "A) 9:10", "Ten past nine significa nueve y diez.")],
     [
         ("En Inglés de 1.º medio (OA 4, clase 1): ¿qué es predecir antes de escuchar?", "Imaginar de qué hablará el texto usando el título, el formato o una imagen", "Es una hipótesis que se confirma después."),
         ("En Inglés de 1.º medio (OA 4, clase 1): ¿qué es escuchar con un propósito?", "Decidir qué dato buscas antes de escuchar", "Así atiendes lo que necesitas."),
@@ -117,14 +117,14 @@ lesson(
         ("Ignorar las pistas visuales cuando se infiere.", "Se atiende solo a las palabras.", "Revisa gestos y objetos descritos entre paréntesis."),
     ],
     [
-        (ADULT + COURT + " ¿Dónde están? A) en un recinto deportivo B) en una biblioteca", "A) en un recinto deportivo", "Llevan raquetas y bolsos y hablan de una cancha libre."),
+        (ADULT + COURT + " ¿Dónde están? A) en un recinto deportivo B) en una tienda de ropa", "A) en un recinto deportivo", "Llevan raquetas y bolsos y hablan de una cancha libre."),
         (ADULT + PARTY + " ¿Qué función tiene la voz que sube en la pregunta de Luis? A) pide confirmar algo B) da una orden", "A) pide confirmar algo", "La entonación ascendente marca una pregunta de confirmación."),
         (ADULT + PASTA + " ¿Qué palabra tiene acento? A) PASTA B) wanted", "A) PASTA", "Se dice con más fuerza para contrastar con pizza."),
     ],
     [
         (ADULT + PASTA + " ¿Qué quería realmente Teo? A) pasta B) pizza", "A) pasta", "El acento en PASTA corrige lo que dijo su mamá."),
         (ADULT + TIRED + " ¿Qué dijo Beto de ella? A) que estaba cansada, no atrasada B) que llegó tarde", "A) que estaba cansada, no atrasada", "El acento en TIRED corrige late."),
-        (ADULT + RIBS + " ¿Qué clase es? A) una clase de ciencias del cuerpo humano B) una clase de música", "A) una clase de ciencias del cuerpo humano", "Hay delantal blanco, un esqueleto y costillas."),
+        (ADULT + RIBS + " ¿Qué clase es? A) una clase de ciencias del cuerpo humano B) una consulta con un médico", "A) una clase de ciencias del cuerpo humano", "Hay delantal blanco, un esqueleto y costillas."),
     ],
     [
         (ADULT + PRESENT + " ¿En qué frase present significa regalo? A) en la frase 2, porque la fuerza está en la primera sílaba B) en la frase 1, porque la fuerza está en la segunda sílaba", "A) en la frase 2, porque la fuerza está en la primera sílaba", "PREsent con fuerza inicial es el sustantivo regalo."),
@@ -133,7 +133,7 @@ lesson(
     ],
     [
         (ADULT + PASTA + " Un oyente entendió que Teo no quería comer nada. ¿Qué pista de acento lo corrige? A) el acento en PASTA muestra lo que sí quería B) la voz sube al final", "A) el acento en PASTA muestra lo que sí quería", "El acento marca la alternativa que sí quería."),
-        (ADULT + RIBS + " ¿Qué pista visual apoya que habla sobre el cuerpo humano? A) el modelo de esqueleto B) el delantal blanco solamente", "A) el modelo de esqueleto", "Un esqueleto se relaciona con costillas y pulmones; un delantal solo no define el tema."),
+        (ADULT + RIBS + " ¿Qué pista visual apoya que habla sobre el cuerpo humano? A) el modelo de esqueleto B) que la persona habla en inglés", "A) el modelo de esqueleto", "Un esqueleto se relaciona con costillas y pulmones; el idioma no dice el tema."),
     ],
     [
         (ADULT + "«Teacher: Good job, Tom ↗?» (La profesora levanta las cejas.) (good job = buen trabajo, eyebrows = cejas). ¿Qué puedes inferir? A) que muestra duda o sorpresa B) que lo felicita sin dudas", "A) que muestra duda o sorpresa", "La voz que sube y las cejas levantadas indican duda; una felicitación firme baja la voz."),
@@ -181,15 +181,15 @@ lesson(
     [
         (ADULT + RULES + " ¿Qué frase anuncia la regla más importante? A) The most important rule B) First of all", "A) The most important rule", "Es la frase clave que presenta la idea principal."),
         (ADULT + RULES + " ¿Qué frase cierra el texto? A) In conclusion B) For example", "A) In conclusion", "In conclusion introduce la idea final."),
-        (ADULT + RECIPE + " ¿Qué hace in other words? A) explica con palabras más simples B) cuenta algo del pasado", "A) explica con palabras más simples", "Reformula: la receta es simple porque solo requiere tres ingredientes."),
+        (ADULT + RECIPE + " ¿Qué hace in other words? A) explica con palabras más simples B) da un ejemplo", "A) explica con palabras más simples", "Reformula: la receta es simple porque solo requiere tres ingredientes."),
     ],
     [
         (ADULT + STOPS + " ¿Cuántas paradas hay? A) tres B) dos", "A) tres", "Dice three stops y levanta tres dedos."),
         (ADULT + FOLDER + " ¿Qué carpeta pide la persona? A) la azul B) la roja", "A) la azul", "Dice the blue one y la señala."),
-        (ADULT + WON + " ¿Cómo se siente el hablante? A) muy contento B) enojado", "A) muy contento", "Salta, sonríe y repite We won."),
+        (ADULT + WON + " ¿Cómo se siente el hablante? A) muy contento B) sorprendido y asustado", "A) muy contento", "Salta, sonríe y repite We won."),
     ],
     [
-        (ADULT + RULES + " ¿Qué ejemplo da para mantener ordenada la sala? A) poner las mochilas bajo la mesa B) cerrar las ventanas", "A) poner las mochilas bajo la mesa", "For example introduce ese ejemplo."),
+        (ADULT + RULES + " ¿Qué ejemplo da para mantener ordenada la sala? A) poner las mochilas bajo la mesa B) ayudar todos para terminar rápido", "A) poner las mochilas bajo la mesa", "For example introduce ese ejemplo."),
         (ADULT + DIR + " ¿Qué hay que hacer después de girar a la izquierda? A) seguir derecho dos cuadras B) girar a la derecha", "A) seguir derecho dos cuadras", "Dice go straight for two blocks."),
         (ADULT + RECIPE + " ¿Cuántos ingredientes necesita la receta? A) tres B) dos", "A) tres", "In other words la receta solo necesita three ingredients."),
     ],
@@ -199,7 +199,7 @@ lesson(
     ],
     [
         (ADULT + "«First of all, I want to say hello to everyone. The most important thing about this park is that it is free. For example, anybody can play football there. In conclusion, it is a place for all.» (anybody = cualquiera, football = fútbol, free = gratuito, hello = saludo). ¿Cuál es la idea principal? A) que el parque es gratuito B) que se juega fútbol", "A) que el parque es gratuito", "Se anuncia con The most important thing."),
-        (ADULT + "«(The speaker puts a finger over her lips.) Shh! Please be quiet. The baby is sleeping.» (finger = dedo, lips = labios, quiet = silencio, baby = bebé, sleeping = durmiendo). ¿Qué pide el gesto? A) silencio B) más ruido", "A) silencio", "El dedo sobre los labios y Shh piden silencio."),
+        (ADULT + "«(The speaker puts a finger over her lips.) Shh! Please be quiet. The baby is sleeping.» (finger = dedo, lips = labios, quiet = silencio, baby = bebé, sleeping = durmiendo). ¿Qué pide el gesto? A) silencio B) que alguien tenga una pregunta", "A) silencio", "El dedo sobre los labios y Shh piden silencio."),
     ],
     [(ADULT + "«(The speaker counts on her fingers.) First, the invitation. Second, the music. Third, the food.» (invitation = invitación, music = música, food = comida). ¿Cuántas cosas hay en la lista? A) tres B) cuatro", "A) tres", "Cuenta con los dedos y dice First, Second, Third.")],
     [
@@ -240,9 +240,9 @@ lesson(
         ("Repetir lo entendido sin pedir confirmación.", "Se asume que la interpretación es correcta.", "Termina con Did I understand correctly? o Is that right?"),
     ],
     [
-        ("No entendiste lo que dijo tu compañero porque habló rápido. ¿Qué dices? A) Could you speak more slowly, please? B) Where is the bus?", "A) Could you speak more slowly, please?", "Pide hablar más despacio."),
-        ("Quieres saber el significado de una palabra nueva. ¿Qué preguntas? A) What does this word mean? B) How old are you?", "A) What does this word mean?", "Es la frase para preguntar el significado."),
-        ("Quieres confirmar lo que entendiste. ¿Cómo terminas? A) Did I understand correctly? B) See you tomorrow.", "A) Did I understand correctly?", "Pide confirmar lo entendido."),
+        ("No entendiste lo que dijo tu compañero porque habló rápido. ¿Qué dices? A) Could you speak more slowly, please? B) Could you speak louder, please?", "A) Could you speak more slowly, please?", "Pide hablar más despacio."),
+        ("Quieres saber el significado de una palabra nueva. ¿Qué preguntas? A) What does this word mean? B) How do you spell this word?", "A) What does this word mean?", "Es la frase para preguntar el significado."),
+        ("Quieres confirmar lo que entendiste. ¿Cómo terminas? A) Did I understand correctly? B) Could you repeat that, please?", "A) Did I understand correctly?", "Pide confirmar lo entendido."),
     ],
     [
         (ADULT + STREET + " ¿Qué dudó Nora? A) si era la segunda o la tercera calle B) si era a la izquierda", "A) si era la segunda o la tercera calle", "Preguntó second or third."),
@@ -260,7 +260,7 @@ lesson(
     ],
     [
         (ADULT + "«Ema: The concert starts at seven. Fer: Sorry, did you say seven or eleven? Ema: Seven. Fer: So, seven in the evening. Is that right? Ema: Yes, that is right.» (concert = concierto, starts = empieza, evening = tarde-noche). ¿Qué dato aclaró Fer? A) la hora, siete u once B) el lugar del concierto", "A) la hora, siete u once", "Preguntó seven or eleven para no confundir los números parecidos."),
-        (ADULT + "«Sam: Please bring a spare charger. Mika: What does spare mean? Sam: Extra. One you don't use every day.» (spare = de repuesto, charger = cargador, extra = adicional). ¿Qué significa spare? A) de repuesto, adicional B) caro", "A) de repuesto, adicional", "Sam lo explica con extra."),
+        (ADULT + "«Sam: Please bring a spare charger. Mika: What does spare mean? Sam: Extra. One you don't use every day.» (spare = de repuesto, charger = cargador, extra = adicional). ¿Qué significa spare? A) de repuesto, adicional B) roto o dañado", "A) de repuesto, adicional", "Sam lo explica con extra."),
     ],
     [(ADULT + "«Coach: Practice moves to Wednesday at five. Player: Sorry, do you mean this Wednesday, not next? Coach: Yes, this Wednesday.» (practice = entrenamiento, moves = se cambia, this = este, next = próximo). ¿Qué dato se aclara? A) el miércoles de esta semana B) el miércoles de la próxima semana", "A) el miércoles de esta semana", "El entrenador confirma this Wednesday, not next.")],
     [
@@ -290,7 +290,7 @@ lesson(
     ],
     [("summarize", "resumir"), ("confirm a prediction", "confirmar una predicción"), ("main points", "ideas principales"), ("The text doesn't say.", "El texto no lo dice."), ("support", "apoyo: pista o dato que respalda"), ("check understanding", "comprobar la comprensión")],
     [
-        ("Confirmar una predicción", "Título: «A new student». Predices: new school, friends, feelings. " + ADULT + DANI + " ¿Qué predicción se confirma más claramente?", ["El texto habla de mudarse y de sentirse sola.", "También de nuevos amigos.", "Por eso se confirman new school, friends y feelings."], "Las tres: nuevo lugar, amigos y sentimientos"),
+        ("Confirmar una predicción", "Título: «A new student». Predices: new school, friends, feelings. " + ADULT + DANI + " ¿Se confirman tus predicciones?", ["El texto habla de mudarse y de sentirse sola.", "También de nuevos amigos.", "Por eso se confirman new school, friends y feelings."], "Las tres: nuevo lugar, amigos y sentimientos"),
         ("Resumir", ADULT + DANI + " Resume el texto en una frase.", ["Quién: Daniela.", "Qué: se mudó, se sintió sola, entró al club de teatro.", "Para qué: hoy tiene amigos y prepara una obra."], "Daniela se mudó, se sintió sola, entró al teatro y ahora tiene amigos"),
     ],
     [
@@ -305,16 +305,16 @@ lesson(
     [
         (ADULT + VOLC + " ¿Qué se recomienda llevar? A) zapatos resistentes y agua B) un paraguas", "A) zapatos resistentes y agua", "Dice Wear strong shoes and bring water."),
         (ADULT + MARKET + " ¿Por qué cerrará la biblioteca? A) por reparaciones B) por un feriado", "A) por reparaciones", "Dice will close for repairs."),
-        (ADULT + RADIO + " ¿Qué opinan los adolescentes del trabajo? A) que es difícil, pero entretenido B) que es aburrido", "A) que es difícil, pero entretenido", "Dice hard work, but it is also fun."),
+        (ADULT + RADIO + " ¿Qué opinan los adolescentes del trabajo? A) que es difícil, pero entretenido B) que es difícil y nada entretenido", "A) que es difícil, pero entretenido", "Dice hard work, but it is also fun."),
     ],
     [
-        (ADULT + VOLC + " ¿Cuál es el resumen más fiel? A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes B) el sendero es plano y no necesita preparación", "A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes", "Reúne los datos principales del texto."),
-        (ADULT + MARKET + " ¿Qué solución se ofrece? A) pedir libros en las mesas de la plaza B) esperar en casa", "A) pedir libros en las mesas de la plaza", "Es la solución al cierre por reparaciones."),
+        (ADULT + VOLC + " ¿Cuál es el resumen más fiel? A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes B) el sendero dura dos horas y es empinado hasta el final", "A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes", "Reúne los datos principales del texto."),
+        (ADULT + MARKET + " ¿Qué solución se ofrece? A) pedir libros en las mesas de la plaza B) abrir la biblioteca solo por la tarde", "A) pedir libros en las mesas de la plaza", "Es la solución al cierre por reparaciones."),
         (ADULT + RADIO + " ¿Qué debe hacer quien quiera unirse? A) llamar al número del sitio web B) ir al río el lunes", "A) llamar al número del sitio web", "Dice call the number on our website."),
     ],
     [
         (ADULT + RADIO + " Un compañero dice que el texto no explica cuándo limpian el río. ¿Es cierto? A) no: dice every month, cada mes B) sí: no hay ningún dato de tiempo", "A) no: dice every month, cada mes", "Hay un dato de frecuencia."),
-        (ADULT + DANI + " Un compañero dice que Daniela vive en Santiago. ¿Qué respondes? A) el texto dice Concepción, no Santiago B) sí, por la ciudad grande", "A) el texto dice Concepción, no Santiago", "No se debe agregar información que no aparece."),
+        (ADULT + DANI + " Un compañero dice que Daniela vive en Santiago. ¿Qué respondes? A) el texto dice Concepción, no Santiago B) sí, porque se mudó a una ciudad grande", "A) el texto dice Concepción, no Santiago", "No se debe agregar información que no aparece."),
     ],
     [
         (ADULT + DANI + " ¿Cuál es el mejor resumen? A) Daniela se mudó, se sintió sola, entró al teatro y ahora tiene amigos B) Daniela vive en Concepción y estudia teatro desde niña", "A) Daniela se mudó, se sintió sola, entró al teatro y ahora tiene amigos", "El resumen sigue lo que dice el texto; la otra opción agrega datos que no aparecen."),

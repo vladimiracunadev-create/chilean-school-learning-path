@@ -362,14 +362,14 @@ Respuesta: Agacharse (drop), cubrirse (cover) y afirmarse (hold on)
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Remember, team: the match is on Saturday at four. The key is to pass the ball quickly. Don't forget your water bottle. And above all, have fun.» (match = partido, pass = pasar, key = la clave, bottle = botella, above all = sobre todo) ¿Cuál es la clave del juego según el entrenador? A) pasar la pelota rápido B) correr solo
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Remember, team: the match is on Saturday at four. The key is to pass the ball quickly. Don't forget your water bottle. And above all, have fun.» (match = partido, pass = pasar, key = la clave, bottle = botella, above all = sobre todo) ¿Cuál es la clave del juego según el entrenador? A) pasar la pelota rápido B) lanzar siempre al arco sin pasar
 - **C2.** Un adulto lee en voz alta (tapa el guion): «For the exam, my main advice is to sleep well. Also, practice with old tests. Do not study only the night before. In conclusion, start early and rest.» (exam = prueba, advice = consejo, old tests = pruebas antiguas, in conclusion = en conclusión) ¿Qué frase anuncia el cierre del mensaje? A) Also B) In conclusion
 - **C3.** Un adulto lee en voz alta (tapa el guion): «Today we will practice the earthquake drill. Remember that you must not run outside during the shaking. The most important thing is to protect your head. First drop to the floor, then cover under a table, and hold on until it stops. After that, follow the teacher to the safe zone. Do not use the elevator.» (earthquake drill = simulacro de sismo, shaking = remezón, protect = proteger, head = cabeza, drop = agacharse, cover = cubrirse, hold on = afirmarse, safe zone = zona segura, elevator = ascensor) ¿Adónde se va después de que el remezón se detiene?
 
 *Aplicación*
 
 - **A1.** Un adulto lee en voz alta (tapa el guion): «Remember, team: the match is on Saturday at four. The key is to pass the ball quickly. Don't forget your water bottle. And above all, have fun.» (match = partido, pass = pasar, key = la clave, bottle = botella, above all = sobre todo) ¿Qué no debe olvidar cada jugador? A) un paraguas B) una botella de agua
-- **A2.** Un adulto lee en voz alta (tapa el guion): «For the exam, my main advice is to sleep well. Also, practice with old tests. Do not study only the night before. In conclusion, start early and rest.» (exam = prueba, advice = consejo, old tests = pruebas antiguas, in conclusion = en conclusión) ¿Qué recomienda hacer con las pruebas antiguas? A) botarlas B) practicar con ellas
+- **A2.** Un adulto lee en voz alta (tapa el guion): «For the exam, my main advice is to sleep well. Also, practice with old tests. Do not study only the night before. In conclusion, start early and rest.» (exam = prueba, advice = consejo, old tests = pruebas antiguas, in conclusion = en conclusión) ¿Qué recomienda hacer con las pruebas antiguas? A) practicar con ellas B) leerlas solo la noche anterior
 - **A3.** Un adulto lee en voz alta (tapa el guion): «Today we will practice the earthquake drill. Remember that you must not run outside during the shaking. The most important thing is to protect your head. First drop to the floor, then cover under a table, and hold on until it stops. After that, follow the teacher to the safe zone. Do not use the elevator.» (earthquake drill = simulacro de sismo, shaking = remezón, protect = proteger, head = cabeza, drop = agacharse, cover = cubrirse, hold on = afirmarse, safe zone = zona segura, elevator = ascensor) ¿Qué significa «Remember that you must not run outside»? A) conviene correr hacia afuera B) hay que recordar no salir corriendo
 
 *Razonamiento y análisis*
@@ -403,7 +403,7 @@ Respuesta: Agacharse (drop), cubrirse (cover) y afirmarse (hold on)
 - **C2.** B) In conclusion. In conclusion se usa para cerrar.
 - **C3.** A la zona segura, siguiendo a la profesora. El guion dice follow the teacher to the safe zone.
 - **A1.** B) una botella de agua. El guion dice Don't forget your water bottle.
-- **A2.** B) practicar con ellas. Dice practice with old tests.
+- **A2.** A) practicar con ellas. Dice practice with old tests.
 - **A3.** B) hay que recordar no salir corriendo. Remember that avisa algo importante y must not prohíbe.
 - **Z1.** B) Do not study only the night before. La negación fuerte contradice su idea.
 - **Z2.** B) And above all, have fun. Above all introduce lo más importante.
@@ -992,7 +992,7 @@ Respuesta: Está preocupado o triste: lo muestran su voz baja y que su abuela es
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Customer: [frowns, looks at the shoes] These shoes are... interesting. Seller: [smiles] They are very comfortable. Customer: [puts them back on the shelf, voice goes down] How much are they? Seller: Forty thousand pesos. Customer: [shakes head] Maybe next time.» (frowns = frunce el ceño, shoes = zapatos, shelf = estante, shakes head = niega con la cabeza, maybe next time = quizás la próxima vez) ¿Qué se infiere del cliente? A) que no quiere comprar los zapatos B) que quiere comprar dos pares
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Customer: [frowns, looks at the shoes] These shoes are... interesting. Seller: [smiles] They are very comfortable. Customer: [puts them back on the shelf, voice goes down] How much are they? Seller: Forty thousand pesos. Customer: [shakes head] Maybe next time.» (frowns = frunce el ceño, shoes = zapatos, shelf = estante, shakes head = niega con la cabeza, maybe next time = quizás la próxima vez) ¿Qué se infiere del cliente? A) que no quiere comprar los zapatos B) que está muy entusiasmado con ellos
 - **C2.** Un adulto lee en voz alta (tapa el guion): «Manuel: [slow, low voice] I don't think I can go on the trip. Teacher: What's wrong? Manuel: My grandmother is in the hospital. Teacher: [softly] I'm sorry. Of course you can stay. Let me know if you need anything.» (trip = salida, hospital = hospital, softly = con voz suave, let me know = avísame) ¿Qué pista de voz usa la profesora? A) grita B) habla suave
 - **C3.** Un adulto lee en voz alta (tapa el guion): «Customer: [frowns, looks at the shoes] These shoes are... interesting. Seller: [smiles] They are very comfortable. Customer: [puts them back on the shelf, voice goes down] How much are they? Seller: Forty thousand pesos. Customer: [shakes head] Maybe next time.» (frowns = frunce el ceño, shoes = zapatos, shelf = estante, shakes head = niega con la cabeza, maybe next time = quizás la próxima vez) ¿Cuánto cuestan los zapatos?
 
@@ -1005,11 +1005,11 @@ Respuesta: Está preocupado o triste: lo muestran su voz baja y que su abuela es
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «Customer: [frowns, looks at the shoes] These shoes are... interesting. Seller: [smiles] They are very comfortable. Customer: [puts them back on the shelf, voice goes down] How much are they? Seller: Forty thousand pesos. Customer: [shakes head] Maybe next time.» (frowns = frunce el ceño, shoes = zapatos, shelf = estante, shakes head = niega con la cabeza, maybe next time = quizás la próxima vez) Un compañero infiere que al cliente le encantaron los zapatos. ¿Qué pista lo corrige? A) pregunta el precio B) los pone de vuelta en el estante y niega con la cabeza
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Sofía: [fast, high voice] I got the scholarship! Dad: [hugs her, voice breaks] I am so proud of you.» (scholarship = beca, hugs = abraza, voice breaks = se le quiebra la voz, proud = orgulloso). ¿Qué infieres del padre? A) que está enojado B) que está emocionado
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Sofía: [fast, high voice] I got the scholarship! Dad: [hugs her, voice breaks] I am so proud of you.» (scholarship = beca, hugs = abraza, voice breaks = se le quiebra la voz, proud = orgulloso). ¿Qué infieres del padre? A) que está emocionado B) que está decepcionado
 
 *Desafío*
 
-- **D1.** Un adulto lee en voz alta (tapa el guion): «This week at the community center: Monday, painting class at four. Wednesday, English club at five thirty. Friday, film night at seven; the film is a comedy. Entrance is free for all activities.» (painting = pintura, club = taller, film = película, comedy = comedia, entrance = entrada, free = gratis) ¿Qué propósito tiene el aviso? A) informar y atraer a la gente B) pedir dinero
+- **D1.** Un adulto lee en voz alta (tapa el guion): «This week at the community center: Monday, painting class at four. Wednesday, English club at five thirty. Friday, film night at seven; the film is a comedy. Entrance is free for all activities.» (painting = pintura, club = taller, film = película, comedy = comedia, entrance = entrada, free = gratis) ¿Qué propósito tiene el aviso? A) vender entradas a los vecinos B) informar y atraer a la gente
 - **D2.** Un adulto lee en voz alta (tapa el guion): «Girl: [looks at the sky, hugs her arms] It's cold. Boy: [takes off his jacket] Here, take mine.» (sky = cielo, hugs her arms = se abraza los brazos, takes off = se saca). ¿Qué hace el chico y por qué? A) le presta su chaqueta porque ella tiene frío B) se va porque tiene frío
 
 *Situaciones auténticas*
@@ -1036,8 +1036,8 @@ Respuesta: Está preocupado o triste: lo muestran su voz baja y que su abuela es
 - **A2.** B) Manuel no puede ir a la salida porque su abuela está en el hospital, y la profesora lo comprende. Incluye quién, qué y por qué sin inventar.
 - **A3.** A) tres: lunes, miércoles y viernes. El guion nombra pintura, inglés y cine en esos días.
 - **Z1.** B) los pone de vuelta en el estante y niega con la cabeza. Esos gestos contradicen su idea.
-- **Z2.** B) que está emocionado. Abraza a su hija y se le quiebra la voz de orgullo.
-- **D1.** A) informar y atraer a la gente. Resume actividades y dice que son gratis.
+- **Z2.** A) que está emocionado. Abraza a su hija y se le quiebra la voz de orgullo.
+- **D1.** B) informar y atraer a la gente. Resume actividades y dice que son gratis.
 - **D2.** A) le presta su chaqueta porque ella tiene frío. Las pistas son el gesto de ella y la frase Take mine.
 - **S1.** Nervioso o apurado. Mira su reloj y habla rápido porque podría perder la entrevista.
 - **E1.** Una conclusión que se saca de pistas. El texto no la dice directamente.

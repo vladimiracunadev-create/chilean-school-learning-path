@@ -578,7 +578,7 @@ Respuesta: A'(−6, −8)
 *Razonamiento y análisis*
 
 - **Z1.** Pablo dice que con k = −2 la longitud de un segmento se multiplica por −2. Un segmento de 4 cm, ¿cuánto mide su imagen?
-- **Z2.** Con k = −1, ¿qué ocurre con la figura? A) La imagen es igual y queda girada 180° alrededor del centro B) La imagen es más grande
+- **Z2.** Con k = −1, ¿qué ocurre con la figura? A) La imagen es igual y queda del mismo lado del centro B) La imagen es igual y queda girada 180° alrededor del centro
 
 *Desafío*
 
@@ -609,7 +609,7 @@ Respuesta: A'(−6, −8)
 - **A2.** 10. A'(2, 0), B'(2, 10).
 - **A3.** 45 cm². El área se multiplica por k² = 9.
 - **Z1.** 8 cm. Una longitud se multiplica por |k| = 2.
-- **Z2.** A. |k| = 1 conserva el tamaño y el signo negativo la lleva al lado opuesto.
+- **Z2.** B. |k| = 1 conserva el tamaño y el signo negativo la lleva al lado opuesto.
 - **D1.** 15. Se multiplica 10·1,5.
 - **D2.** (−4, 2). (8, −4) y luego (−4, 2).
 - **S1.** 10 cm. Se multiplica 25·0,4.
@@ -993,7 +993,7 @@ Respuesta: No son homotéticos
 
 *Razonamiento y análisis*
 
-- **Z1.** Rita dice que un rectángulo de 4 por 6 cm y otro de 6 por 8 cm son homotéticos porque ambos lados aumentaron 2 cm. ¿Tiene razón? A) No B) Sí
+- **Z1.** Rita dice que un rectángulo de 5 por 7 cm y otro de 7 por 9 cm son homotéticos porque ambos lados aumentaron 2 cm. ¿Tiene razón? A) No B) Sí
 - **Z2.** Se trazan las rectas AA' y BB' y se cortan en O. ¿Qué es O?
 
 *Desafío*
@@ -1024,7 +1024,7 @@ Respuesta: No son homotéticos
 - **A1.** 45 cm². k = 1,5 y el área se multiplica por 2,25.
 - **A2.** −2. −4 ÷ 2 = −2.
 - **A3.** 150 cm². El área original 24 se multiplica por 6,25.
-- **Z1.** A. 6/4 = 1,5 pero 8/6 no es 1,5.
+- **Z1.** A. 7/5 = 1,4 pero 9/7 no es 1,4.
 - **Z2.** El centro de la homotecia. El centro está en todas las rectas que unen puntos correspondientes.
 - **D1.** 1/15. 30 ÷ 450.
 - **D2.** 80 cm. 4.000 cm ÷ 50.

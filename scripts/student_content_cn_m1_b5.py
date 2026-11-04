@@ -49,7 +49,7 @@ L(OA, 1,
   ],
   und=[
       ("Para medir la distancia entre dos estrellas, ¿qué unidad es más cómoda: el metro, la UA o el año luz?", "El año luz", "Las distancias entre estrellas son enormes incluso en UA."),
-      ("Una estrella está a 12 años luz. La luz que vemos hoy salió de ella hace: A) 12 años B) 12 días", "A", "La luz tarda 8 años en llegar."),
+      ("Una estrella está a 12 años luz. La luz que vemos hoy salió de ella hace: A) 12 años B) 12 días", "A", "La luz tarda 12 años en recorrer 12 años luz."),
       ("Ordena de menor a mayor diámetro: Sol, Luna, Tierra.", "Luna, Tierra, Sol", "La Luna mide 3.500 km, la Tierra 12.700 km y el Sol 1.400.000 km."),
   ],
   app=[
@@ -194,7 +194,7 @@ L(OA, 4,
       ("¿Qué contiene un cúmulo de galaxias?", "Muchas galaxias unidas por la gravedad", "Pueden ser decenas o miles."),
   ],
   app=[
-      arith("La Vía Láctea mide unos 100.000 años luz de diámetro y la Gran Nube de Magallanes está a unos 160.000 años luz. ¿Cuántos años luz más que ese diámetro hay hasta la Nube?", "160000-100000", "Se resta el diámetro a la distancia.", " años luz"),
+      arith("El Grupo Local mide unos 10.000.000 años luz de lado (dato aproximado) y la Vía Láctea, unos 100.000 años luz de diámetro. ¿Cuántos diámetros de la Vía Láctea caben a lo largo del Grupo Local?", "10000000/100000", "Se divide el tamaño del grupo por el diámetro de la galaxia.", " diámetros"),
       ("Una galaxia de forma ovalada, sin brazos y con estrellas viejas rojizas. ¿Qué tipo es?", "Elíptica", "Las elípticas son ovaladas y sin brazos."),
       arith("Un grupo de ejemplo tiene 30 galaxias y cada una tiene 50 mil millones de estrellas. ¿Cuántos miles de millones de estrellas hay en total?", "30*50", "Se multiplica el número de galaxias por las estrellas de cada una.", " miles de millones"),
   ],

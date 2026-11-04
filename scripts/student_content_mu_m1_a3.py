@@ -33,7 +33,7 @@ L(
         ("Creer que acertar las notas basta.", "Un estilo también exige articulación, fraseo, tempo y dinámica propios.", "Revisa cada rasgo del estilo antes de interpretar."),
     ],
     [
-        ex(f"{EST}. ¿Cuántos pulsos por minuto tiene el estilo X?", "120", "Así lo dice su ficha."),
+        ex(f"{EST}. Una canción usa palmas marcando el pulso y notas cortas y separadas. ¿Con qué estilo coincide: X o Y?", "X", "Esos rasgos están en la ficha del estilo X."),
         ex("Notas unidas y fluidas, sin cortes entre ellas: ¿legato o staccato?", "Legato", "Legato significa sonidos unidos."),
         ex("Notas cortas y separadas, con pequeños silencios entre ellas: ¿legato o staccato?", "Staccato", "Staccato significa sonidos cortos y separados."),
     ],
@@ -56,7 +56,7 @@ L(
         ex(f"{EST}. En las fichas aparecen cuatro rasgos: la duración de las notas, el tempo, la voz y el acompañamiento. ¿Cuántos de ellos cambia un grupo al pasar de cantar X a cantar Y?", "4", "Los cuatro rasgos son distintos en las dos fichas."),
     ],
     [ex(f"{EST}. Te piden cantar en un cumpleaños una canción de estilo X. ¿Qué decisión de interpretación conviene? A) Notas cortas, voz abierta y palmas marcando el pulso. B) Notas largas y unidas, voz muy suave.", "A", "Esos son los rasgos del estilo X de la ficha.")],
-    [ex("¿Qué es el estilo de una música?", "El conjunto de rasgos que la hace reconocible", "Incluye articulación, fraseo, tempo y dinámica."), ex("¿Qué articulación tiene notas unidas?", "Legato", "Legato significa unidas y fluidas."), ex("¿Qué significa «fraseo»?", "Agrupar las notas en frases", "Cada frase tiene inicio, avance y un pequeño descanso.")],
+    [ex("En Música: ¿qué es el estilo de una pieza?", "El conjunto de rasgos que la hace reconocible", "Incluye articulación, fraseo, tempo y dinámica."), ex("¿Qué articulación tiene notas unidas?", "Legato", "Legato significa unidas y fluidas."), ex("¿Qué significa «fraseo»?", "Agrupar las notas en frases", "Cada frase tiene inicio, avance y un pequeño descanso.")],
     (
         "Elige el estilo X o el estilo Y de las fichas de ejemplo. Escribe: a) tres rasgos del estilo que vas a respetar, b) cómo cantarías o tocarías la frase «la tarde ya llegó» (que repites dos veces) en ese estilo, con articulación, volumen y tempo, c) una acción para cuidar tu voz. Si quieres, pruébalo tarareando.",
         "Estilo Y. a) Notas largas y unidas, voz suave, 66 pulsos por minuto. b) La frase en legato, volumen suave y tempo lento, con una respiración entre las dos repeticiones. c) Tomar agua y no cantar más fuerte de lo cómodo.",
@@ -111,7 +111,7 @@ L(
         arith(f"{CORO}. Si 3 contraltos y 2 bajos faltan al ensayo, ¿cuántas personas quedan en el coro?", "20-3-2", "Se restan las personas que faltan del total.", " personas"),
     ],
     [
-        ex(f"{CORO}. Un coro de 20 personas se divide en dos grupos iguales para ensayar. ¿Cuántas personas hay en cada grupo?", "10", "Se reparten las 20 personas en dos grupos iguales."),
+        arith(f"{CORO}. ¿Cuántas personas cantan las voces más graves del coro (tenores y bajos)?", "4+3", "Hay 4 tenores y 3 bajos (20 − 8 − 5 − 4).", " personas"),
         ex("Dos guitarristas deben tocar juntos una pieza. Uno toca la melodía y el otro la armonía. Para que la melodía se oiga, ¿quién baja el volumen? A) El que toca la armonía. B) El que toca la melodía.", "A", "La armonía acompaña y no debe tapar la melodía."),
     ],
     [ex(f"{CORO}. Estás en la cuerda de los tenores. ¿Con qué grupo tienes más cosas en común para ensayar tu parte? A) Con los otros 3 tenores. B) Con las 8 sopranos.", "A", "Una cuerda comparte la misma parte; los tenores son 4 en total y tú eres uno.")],
@@ -151,7 +151,7 @@ L(
         ("Practicar solo la noche antes.", "Un esfuerzo constante rinde más que uno concentrado en un solo día.", "Practica poco, pero cada día."),
     ],
     [
-        ex(f"{PLAN}. ¿Cuántos minutos dura el ensayo completo?", "30", "Así lo indica el plan de ejemplo."),
+        ex(f"{PLAN}. ¿Cuántos minutos del ensayo se dedican a trabajar con la pieza completa unida, no por frases?", "5", "Solo los 5 minutos finales unen todas las frases."),
         ex(f"{PLAN}. ¿Para qué sirven los 5 minutos finales?", "Para unir las frases y anotar qué mejorar", "Así lo dice el plan."),
         ex("¿Cuál acción cumple un compromiso con el grupo? A) Llegar a tiempo al ensayo sabiendo mi parte. B) Llegar tarde y pedir que repitan todo para mí.", "A", "El compromiso es cumplir lo que se acordó con el grupo."),
     ],
@@ -174,7 +174,7 @@ L(
         arith("Para llegar de 60 a 120 pulsos por minuto subiendo de 20 en 20, ¿cuántas etapas de subida hay?", "(120-60)//20", "Se divide la diferencia entre el tamaño de cada subida.", " etapas"),
     ],
     [ex(f"{PLAN}. Un integrante avisa que no puede asistir al ensayo y envía su parte grabada al grupo, que lo había acordado. ¿Qué compromiso cumple? A) Avisar con anticipación y aportar su parte. B) Faltar sin avisar.", "A", "Avisar y colaborar es parte de cumplir con el grupo.")],
-    [ex("¿Cuántos minutos se dedican a cada frase en el plan de ejemplo?", "5", "20 minutos divididos entre 4 frases."), ex("¿Qué se hace antes de ensayar: calentar o gritar?", "Calentar", "Es la preparación del cuerpo o la voz."), ex("¿Qué es una meta de ensayo?", "Un objetivo concreto que se quiere lograr", "Orienta el siguiente ensayo.")],
+    [ex("Otro plan de ejemplo dura 40 minutos: 5 de calentamiento, 30 para 5 frases con el mismo tiempo cada una y 5 de unión final. ¿Cuántos minutos se dedican a cada frase?", "6", "Se dividen los 30 minutos entre las 5 frases."), ex("Una frase sale mal dentro de la pieza completa. ¿Qué conviene: ensayarla aislada y más lenta, o repetir toda la pieza sin parar?", "Aislada y más lenta", "Así se corrige el error sin repetirlo."), ex("¿Qué es una meta de ensayo?", "Un objetivo concreto que se quiere lograr", "Orienta el siguiente ensayo.")],
     (
         "Planifica un ensayo de 30 minutos para esta pieza de ejemplo: «una canción de 3 frases, cada frase de 4 compases». Escribe: a) el reparto de minutos (calentamiento, cada frase, unión final), b) el tempo con que empiezas y los pasos de subida (por ejemplo, de 60 a 80), c) una meta para el siguiente ensayo, d) un compromiso que cumplirás con el grupo.",
         "a) 5 minutos de calentamiento, 6 minutos para cada una de las 3 frases (18), 7 minutos para unir y anotar. b) Empiezo a 60 y subo a 70 y 80 cuando la frase sale bien tres veces seguidas. c) Cantar la frase 2 sin errores a 80. d) Llegar a tiempo y saber mi parte.",
@@ -211,7 +211,7 @@ L(
     ],
     [
         ex(f"{PAUTA}. ¿Cuántos criterios tiene la pauta?", "5", "Están numerados del 1 al 5."),
-        ex(f"{PAUTA}. ¿Cuál es el puntaje máximo de un criterio?", "2", "Cada criterio vale de 0 a 2 puntos."),
+        ex(f"{PAUTA}. ¿Qué criterio revisa si el grupo ensayó según su plan?", "Compromiso", "El criterio 5 trata del ensayo según el plan."),
         ex("Una persona se equivoca en una nota durante una presentación. ¿Qué hace el grupo: sigue con calma o se detiene a empezar de nuevo?", "Sigue con calma", "Seguir mantiene el pulso y el propósito de la pieza."),
     ],
     [
@@ -225,7 +225,7 @@ L(
         ex("Dos comentarios sobre una presentación. A) «Aceleramos en la segunda frase: de 90 a 110 por minuto.» B) «Nos salió horrible.» ¿Cuál es evidencia observable?", "A", "Da un dato que se oyó y se puede comprobar."),
     ],
     [
-        arith(f"{PAUTA}. Un grupo sacó 8 puntos de 10 en una presentación y 5 puntos de 10 en otra. ¿Cuántos puntos subió?", "8-5", "Se restan los puntos de la primera presentación a los de la segunda.", " puntos"),
+        arith(f"{PAUTA}. Un grupo sacó 5 puntos de 10 en su primera presentación y 8 puntos de 10 en la segunda. ¿Cuántos puntos subió?", "8-5", "Se restan los puntos de la primera presentación a los de la segunda.", " puntos"),
         ex("Una compañera dice «yo sé que nunca voy a cantar bien». ¿Qué respuesta ayuda más? A) Mirar la pauta, elegir un criterio con evidencia y proponer una mejora concreta. B) Decirle que algunas personas no tienen talento para la música.", "A", "La pauta convierte la impresión en pasos concretos."),
     ],
     [

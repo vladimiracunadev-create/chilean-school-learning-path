@@ -479,9 +479,9 @@ Respuesta: Estudió 7 horas y obtuvo 75 puntos
 
 **Recurso listo para usar:** Cuaderno cuadriculado, lápiz, regla y, si quieres, una calculadora. Todos los datos que necesitas están escritos en cada ejercicio.
 
-**Consigna exacta:** Estos son los datos de seis estudiantes de ejemplo, como (horas de sueño por noche, minutos que tardan en resolver una tarea): (6, 50), (7, 44), (8, 40), (9, 33), (10, 31), (8, 45). Dibuja la nube, escribe si la asociación es positiva, negativa o no hay, di si es fuerte o débil y estima cuántos minutos tardaría, aproximadamente, alguien que duerme 9 horas.
+**Consigna exacta:** Estos son los datos de seis estudiantes de ejemplo, como (horas de sueño por noche, minutos que tardan en resolver una tarea): (6, 50), (7, 44), (8, 40), (9, 33), (10, 31), (8, 45). Dibuja la nube, escribe si la asociación es positiva, negativa o no hay, di si es fuerte o débil y estima cuántos minutos tardaría, aproximadamente, alguien que duerme 8,5 horas.
 
-**Referencia para modelar y corregir:** Los puntos bajan de izquierda a derecha: asociación negativa y bastante fuerte. Para 9 horas, el dato más cercano es (9, 33); se estima unos 33 minutos.
+**Referencia para modelar y corregir:** Los puntos bajan de izquierda a derecha: asociación negativa y bastante fuerte. Para 8,5 horas, que está entre 8 horas (40 o 45 minutos) y 9 horas (33 minutos), se estima unos 38 minutos, un valor entre 33 y 45.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -495,7 +495,7 @@ Respuesta: Estudió 7 horas y obtuvo 75 puntos
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Los puntos bajan de izquierda a derecha: asociación negativa y bastante fuerte. Para 9 horas, el dato más cercano es (9, 33); se estima unos 33 minutos. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Los puntos bajan de izquierda a derecha: asociación negativa y bastante fuerte. Para 8,5 horas, que está entre 8 horas (40 o 45 minutos) y 9 horas (33 minutos), se estima unos 38 minutos, un valor entre 33 y 45. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -583,7 +583,7 @@ Respuesta: Asociación negativa
 *Desafío*
 
 - **D1.** Datos de ejemplo (años del auto, precio en millones): (2, 11), (4, 9), (6, 7), (8, 5), (10, 3), todos sobre una línea. ¿Cuántos millones baja el precio por cada año más de antigüedad?
-- **D2.** En 12 estudiantes de ejemplo, en 9 de ellos la nota sube al aumentar las horas de estudio y en 3 no. ¿Qué porcentaje de los casos sigue la tendencia?
+- **D2.** En una nube de 12 estudiantes de ejemplo, 9 puntos siguen la tendencia (más horas de estudio, más puntos) y 3 se alejan de ella. ¿Qué porcentaje de los puntos sigue la tendencia?
 
 *Situaciones auténticas*
 
@@ -595,7 +595,7 @@ Respuesta: Asociación negativa
 - **E2.** ¿Cómo se llama un punto muy alejado del resto de la nube?
 - **E3.** ¿Una asociación positiva se cumple en todos los casos sin excepción? Responde sí o no.
 
-**Actividad abierta.** Estos son los datos de seis estudiantes de ejemplo, como (horas de sueño por noche, minutos que tardan en resolver una tarea): (6, 50), (7, 44), (8, 40), (9, 33), (10, 31), (8, 45). Dibuja la nube, escribe si la asociación es positiva, negativa o no hay, di si es fuerte o débil y estima cuántos minutos tardaría, aproximadamente, alguien que duerme 9 horas.
+**Actividad abierta.** Estos son los datos de seis estudiantes de ejemplo, como (horas de sueño por noche, minutos que tardan en resolver una tarea): (6, 50), (7, 44), (8, 40), (9, 33), (10, 31), (8, 45). Dibuja la nube, escribe si la asociación es positiva, negativa o no hay, di si es fuerte o débil y estima cuántos minutos tardaría, aproximadamente, alguien que duerme 8,5 horas.
 
 **Solucionario razonado**
 
@@ -617,17 +617,17 @@ Respuesta: Asociación negativa
 - **E2.** Atípico. Atípico es el punto que se aleja de la tendencia.
 - **E3.** No. Es una tendencia general y puede haber excepciones.
 
-**Actividad abierta · ejemplo de respuesta.** Los puntos bajan de izquierda a derecha: asociación negativa y bastante fuerte. Para 9 horas, el dato más cercano es (9, 33); se estima unos 33 minutos.
+**Actividad abierta · ejemplo de respuesta.** Los puntos bajan de izquierda a derecha: asociación negativa y bastante fuerte. Para 8,5 horas, que está entre 8 horas (40 o 45 minutos) y 9 horas (33 minutos), se estima unos 38 minutos, un valor entre 33 y 45.
 
-**Criterios para evaluarla:** nube bien dibujada; describe la dirección de los puntos; usa la palabra tendencia; estima dentro del rango de los datos.
+**Criterios para evaluarla:** nube bien dibujada; describe la dirección de los puntos; usa la palabra tendencia; estima entre los valores de los datos vecinos.
 
 **Evidencias aceptables:** nube dibujada; frase sobre la asociación; estimación con su explicación.
 
-**Errores que conviene detectar:** invertir los ejes; decir positiva solo por haber más horas de sueño; estimar fuera del rango de los datos.
+**Errores que conviene detectar:** invertir los ejes; decir positiva solo por haber más horas de sueño; estimar fuera de los valores medidos.
 
-**Retroalimentación constructiva:** Pide que explique por qué la asociación no es perfecta. Reconoce que estime con el rango.
+**Retroalimentación constructiva:** Pide que explique por qué la asociación no es perfecta. Reconoce que estime con los puntos vecinos.
 
-**Refuerzo.** Con los datos del auto, indica cuántos años de antigüedad tiene el auto más barato de la lista y cuánto cuesta.
+**Refuerzo.** Con los datos de ejemplo (años del auto, precio en millones) (1, 12), (3, 10), (5, 9), (8, 6), (10, 5), (12, 3), indica cuántos años de antigüedad tiene el auto más barato y cuánto cuesta.
 
 **Profundización.** Inventa una nube de siete puntos con asociación positiva débil y otra con asociación negativa fuerte y explica la diferencia.
 
@@ -775,14 +775,14 @@ Respuesta: Sí, en esta muestra la tendencia aparece; no prueba que dormir cause
 *Comprensión*
 
 - **C1.** Una nube muestra que quienes estudiaron más horas tienden a tener más puntos. ¿Qué conclusión está respaldada? A) Estudiar más horas siempre asegura más puntos. B) Cada hora de estudio causa exactamente 10 puntos más. C) En esta muestra, quienes estudiaron más horas tendieron a tener más puntos.
-- **C2.** Se observa que las ciudades con más bomberos tienen más incendios grandes. ¿Qué característica puede explicar ambas cosas? A) El tamaño de la ciudad. B) Que los bomberos provocan incendios. C) El color de los camiones.
+- **C2.** Se observa que las ciudades con más bomberos tienen más incendios grandes. ¿Qué característica puede explicar ambas cosas? A) Que los bomberos provocan los incendios. B) El tamaño de la ciudad. C) Que los incendios grandes causan que haya más bomberos.
 - **C3.** Una nube cubre edades de 6 a 15 años. Julia la usa para decir la estatura que tendrá una persona a los 40 años. ¿Es una conclusión confiable? Responde sí o no.
 
 *Aplicación*
 
 - **A1.** De 40 estudiantes que viven a menos de 1 km del colegio, 32 llegan puntuales (datos de ejemplo). ¿Qué porcentaje de ese grupo llega puntual?
 - **A2.** De 20 estudiantes que viven a más de 1 km del colegio, 10 llegan puntuales (datos de ejemplo). ¿Qué porcentaje de ese grupo llega puntual?
-- **A3.** Con 80 % de puntualidad entre quienes viven a menos de 1 km y 50 % entre quienes viven a más de 1 km, ¿qué se puede afirmar? A) Vivir cerca causa llegar puntual. B) En esta muestra hay asociación, pero no se prueba que la distancia sea la única causa. C) No existe ninguna relación entre distancia y puntualidad.
+- **A3.** Con 80 % de puntualidad entre quienes viven a menos de 1 km y 50 % entre quienes viven a más de 1 km, ¿qué se puede afirmar? A) Vivir cerca causa llegar puntual. B) En esta muestra hay asociación, pero no se prueba que la distancia sea la causa. C) No existe ninguna relación entre distancia y puntualidad.
 
 *Razonamiento y análisis*
 
@@ -792,16 +792,16 @@ Respuesta: Sí, en esta muestra la tendencia aparece; no prueba que dormir cause
 *Desafío*
 
 - **D1.** Datos de ejemplo (horas de práctica, errores cometidos): (1, 9), (2, 8), (4, 6), (5, 5), (7, 3), (9, 1). Afirmaciones: I) Quienes practican más tienden a cometer menos errores. II) Con 20 horas de práctica nadie cometerá ningún error. III) Hay un estudiante con 5 horas y 5 errores. ¿Cuántas afirmaciones están respaldadas por los datos?
-- **D2.** En una nube de 50 estudiantes, el 80 % de los puntos queda sobre la línea de 60 puntos. ¿Cuántos estudiantes tienen más de 60 puntos?
+- **D2.** En una nube de 50 estudiantes, el 80 % de los puntos queda por encima de los 60 puntos. ¿Cuántos estudiantes quedan en 60 puntos o menos?
 
 *Situaciones auténticas*
 
-- **S1.** Un diario titula: «Los jóvenes que andan en bicicleta son más felices». La encuesta fue a 12 estudiantes de un solo colegio. ¿Cuál es su limitación principal? A) La muestra es pequeña y de un solo colegio. B) Que la bicicleta es muy cara. C) Que los jóvenes no andan en bicicleta.
+- **S1.** Un diario titula: «Los jóvenes que andan en bicicleta son más felices». La encuesta fue a 12 estudiantes de un solo colegio. ¿Cuál es su limitación principal? A) Que se preguntó a jóvenes que andan en bicicleta. B) La muestra es pequeña y de un solo colegio. C) Que la felicidad no se puede medir con números en ningún caso.
 
 *Autoevaluación*
 
 - **E1.** ¿Qué palabras de cautela conviene usar al concluir: «siempre» o «tiende a»?
-- **E2.** ¿Cuál es una razón por la que no se puede concluir causa solo con una nube de puntos? A) Las nubes de puntos no sirven para ningún análisis. B) Puede haber una tercera característica que influya en las dos. C) Los puntos siempre deben unirse con una línea.
+- **E2.** ¿Cuál es una razón por la que no se puede concluir causa solo con una nube de puntos? A) Puede haber una tercera característica que influya en las dos. B) Las nubes de puntos no sirven para ningún análisis. C) Los puntos de una nube siempre quedan sobre una línea recta.
 - **E3.** Una muestra tiene 40 estudiantes y el 25 % tiene lentes. ¿Cuántos tienen lentes?
 
 **Actividad abierta.** Lee esta afirmación de ejemplo: «En un colegio, los cursos que tienen más computadores en la sala tienen mejores notas, así que comprar computadores sube las notas». Escribe en tres frases: qué asociación podría haber detrás, otra característica que explique ambas, y cómo cambiarías la afirmación para que sea correcta, usando «en esta muestra» y «tiende a».
@@ -812,7 +812,7 @@ Respuesta: Sí, en esta muestra la tendencia aparece; no prueba que dormir cause
 - **R2.** El frío. El frío influye en las dos ventas, por eso suben juntas, sin que una cause la otra.
 - **R3.** No. Es una muestra pequeña y de un solo grupo; no representa a toda la población.
 - **C1.** C. La nube solo muestra una tendencia en la muestra; no asegura casos ni causas exactas.
-- **C2.** A. Una ciudad más grande necesita más bomberos y también tiene más incendios; es una variable de fondo.
+- **C2.** B. Una ciudad más grande necesita más bomberos y también tiene más incendios; es una variable de fondo.
 - **C3.** No. 40 años está fuera del rango de los datos y no se sabe si la tendencia continúa.
 - **A1.** 80%. Se divide 32 por 40 y se multiplica por 100. Cálculo: 32 × 100 ÷ 40 = 80.
 - **A2.** 50%. Se divide 10 por 20 y se multiplica por 100. Cálculo: 10 × 100 ÷ 20 = 50.
@@ -820,10 +820,10 @@ Respuesta: Sí, en esta muestra la tendencia aparece; no prueba que dormir cause
 - **Z1.** B. Una muestra más grande tiene menos probabilidad de deberse a coincidencias.
 - **Z2.** No. La nube muestra asociación, no causa, y no habla de un cambio en una persona en particular.
 - **D1.** 2. I se ve en la nube y III es el par (5, 5); II está fuera del rango de los datos (1 a 9 horas) y no se puede asegurar.
-- **D2.** 40 estudiantes. El 80 % de 50 se calcula como 50 × 80 ÷ 100. Cálculo: 50 × 80 ÷ 100 = 40.
-- **S1.** A. Con 12 estudiantes de un solo colegio no se puede generalizar a todos los jóvenes.
+- **D2.** 10 estudiantes. El 80 % de 50 es 40, y los otros 10 están en 60 puntos o menos. Cálculo: 50 − 50 × 80 ÷ 100 = 10.
+- **S1.** B. Con 12 estudiantes de un solo colegio no se puede generalizar a todos los jóvenes.
 - **E1.** Tiende a. La asociación es una tendencia y no se cumple en todos los casos.
-- **E2.** B. La asociación puede venir de una variable de fondo o de una coincidencia.
+- **E2.** A. La asociación puede venir de una variable de fondo o de una coincidencia.
 - **E3.** 10 estudiantes. El 25 % de 40 es 40 × 25 ÷ 100. Cálculo: 40 × 25 ÷ 100 = 10.
 
 **Actividad abierta · ejemplo de respuesta.** Hay una asociación positiva entre computadores y notas. Los colegios con más recursos tienen más computadores y también más apoyo, lo que puede explicar las notas. Correcto: «En esta muestra, los cursos con más computadores tienden a tener mejores notas».
@@ -836,7 +836,7 @@ Respuesta: Sí, en esta muestra la tendencia aparece; no prueba que dormir cause
 
 **Retroalimentación constructiva:** Pide que justifique por qué el otro factor podría influir en las dos características. Reconoce el uso de palabras de cautela.
 
-**Refuerzo.** Escribe una afirmación correcta sobre los 40 estudiantes que viven a menos de 1 km usando 80 % y las palabras «en esta muestra».
+**Refuerzo.** Escribe una afirmación correcta sobre 40 estudiantes de ejemplo que viven a menos de 1 km, de los cuales 32 llegan puntuales (80 %), usando las palabras «en esta muestra».
 
 **Profundización.** Busca una asociación cotidiana en que una tercera característica explique las otras dos y descríbela en dos frases.
 

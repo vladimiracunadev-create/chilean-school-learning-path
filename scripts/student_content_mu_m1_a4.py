@@ -115,10 +115,10 @@ L(
         ex("Para abrir el acto de aniversario del liceo, un grupo debe elegir una manera de cantar. Quiere que el público sienta potencia y unidad. ¿Qué disposición conviene? A) Unísono. B) Una voz sola.", "A", "Varias voces cantando lo mismo dan potencia y sentido de grupo."),
     ],
     [ex(f"{FORM}. Estás en la voz 3 del canon. ¿Qué haces mientras esperas tu entrada en el compás 5? A) Escuchar las otras voces y contar los compases. B) Cantar desde el compás 1 para no olvidar.", "A", "Contar los compases asegura una entrada justa.")],
-    [ex("¿Qué es un canon?", "La misma melodía entrando en cada voz con unos compases de diferencia", "Es una imitación completa entre las voces."), ex("¿Qué disposición suena más potente: una voz sola o un unísono?", "El unísono", "Hay más voces cantando lo mismo."), ex("En el canon de la clase, ¿cada cuántos compases entra una voz?", "Cada 2 compases", "Así dice la disposición 4.")],
+    [ex("En Música: ¿qué es un canon?", "La misma melodía entrando en cada voz con unos compases de diferencia", "Es una imitación completa entre las voces."), ex("¿Qué disposición suena más potente: una voz sola o un unísono?", "El unísono", "Hay más voces cantando lo mismo."), ex("En el canon de la clase, ¿cada cuántos compases entra una voz?", "Cada 2 compases", "Así dice la disposición 4.")],
     (
         "Elige una de las cuatro disposiciones de ejemplo para una presentación en tu curso con este propósito: «dar la bienvenida con alegría y unidad». Escribe: a) qué disposición eliges, b) dos razones, c) cómo cuidarás tu parte (afinación, entrada y volumen), d) qué harás si te pierdes.",
-        "a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás fuerte, sin detener al grupo.",
+        "a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás, sin detener al grupo.",
         ["elige según el propósito", "da razones relacionadas con el sonido", "incluye un plan para cuando se pierde"],
         ["cuatro respuestas a) a d)", "razones apoyadas en lo que se oye"],
         ["elegir sin justificar", "no cuidar el volumen"],
@@ -151,7 +151,7 @@ L(
         ("Interrumpir a quien se equivoca con burlas.", "El ensayo avanza mejor con respeto y escucha.", "Ofrece ayuda y repite la parte."),
     ],
     [
-        ex(f"{ENS}. ¿Cuántas voces tiene el trío?", "3", "Son las voces A, B y C."),
+        ex(f"{ENS}. En la etapa 1, ¿cuántas voces suenan a la vez: una, dos o tres?", "Una", "Cada voz ensaya sola."),
         ex(f"{ENS}. ¿En qué etapa se juntan las tres voces?", "En la etapa 3", "Así lo dice el plan."),
         ex("¿Qué es un metrónomo?", "Un aparato o aplicación que marca pulsos regulares", "Sirve de pulso común para el grupo."),
     ],
@@ -176,8 +176,8 @@ L(
     [ex(f"{ENS}. En tu liceo, la profesora dice que solo tienen 10 minutos para el ensayo. ¿Qué etapa no conviene saltarse? A) La de cada voz sola, porque asegura la precisión de la parte propia. B) La de subir el tempo, porque es la más corta.", "A", "Sin precisión individual, las etapas siguientes arrastran los errores.")],
     [ex("¿Cuál es la primera etapa del ensayo a varias voces?", "Cada voz sola", "Se aprende primero la parte propia."), ex("A 60 pulsos por minuto, ¿cuántos pulsos hay por segundo?", "1", "60 pulsos entre 60 segundos."), ex("Si el error nace al juntar dos voces, ¿a qué etapa se vuelve?", "A la etapa 2", "Se revisa cómo se coordinan las dos voces.")],
     (
-        "Usa el plan de ejemplo (trío, 12 compases de 4 pulsos, etapas 1 a 4). Escribe: a) cuántos segundos dura la pieza en la etapa 1 (a 60 pulsos por minuto), b) un horario de 24 minutos con tiempo para las cuatro etapas (la suma debe dar 24), c) una regla de respeto que cumplirá el grupo, d) qué harás si tu voz es la que se equivoca.",
-        "a) 48 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces.",
+        "Usa el plan de ejemplo (trío, 12 compases de 4 pulsos, etapas 1 a 4). Escribe: a) cuántos segundos dura la pieza en la etapa 4 (a 80 pulsos por minuto), b) un horario de 24 minutos con tiempo para las cuatro etapas (la suma debe dar 24), c) una regla de respeto que cumplirá el grupo, d) qué harás si tu voz es la que se equivoca.",
+        "a) 36 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces.",
         ["la suma de minutos da 24", "incluye una regla de respeto", "propone una acción concreta ante un error propio"],
         ["cuatro respuestas a) a d)", "horario con total correcto"],
         ["repartos que no suman 24", "no incluir norma de respeto"],
@@ -287,7 +287,7 @@ L(
         ex("Un grupo anota en su bitácora: ensayo 1, 6 errores; ensayo 2, 4 errores; ensayo 3, 4 errores. ¿Qué conclusión se apoya en los datos? A) Mejoró del ensayo 1 al 2, pero no del 2 al 3. B) Mejoró siempre.", "A", "Los errores bajaron de 6 a 4 y luego se mantuvieron en 4."),
     ],
     [
-        arith(f"{PROG}. El programa empieza a las 18:00 horas. Si no se retrasa, ¿cuántos minutos después de las 18:00 termina?", "3+1+4+1+5", "Se suman las tres piezas y las dos pausas.", " minutos después de las 18:00"),
+        arith(f"{PROG}. El programa empieza a las 18:00 horas, pero la pieza 2 dura 6 minutos en lugar de 4. ¿Cuántos minutos después de las 18:00 termina?", "3+1+6+1+5", "Se suman las tres piezas (con la pieza 2 de 6 minutos) y las dos pausas.", " minutos después de las 18:00"),
         ex("Una persona sube una grabación de un compañero a una red social sin su permiso. El compañero se siente mal. ¿Qué debe hacer el compañero? A) Guardar una captura, pedir que la retiren y avisar a una persona adulta de confianza. B) Borrar el chat y no contárselo a nadie.", "A", "Es un protocolo seguro: evidencia, solicitud de retiro y apoyo adulto."),
     ],
     [ex(f"{PROG}. Quieres imprimir un programa de mano. ¿Qué datos debe tener? A) Nombre de las piezas, orden y duración. B) Dirección de las casas de los integrantes.", "A", "No se incluyen datos personales; solo la información de la presentación.")],

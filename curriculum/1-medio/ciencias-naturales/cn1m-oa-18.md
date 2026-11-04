@@ -158,7 +158,7 @@ Respuesta: Escaparon como gas
 
 - **A1.** Una botella abierta tenía 420 g y después de la reacción tiene 416 g. ¿Cuántos gramos de gas escaparon?
 - **A2.** Una lana de acero de 20 g se oxida y pasa a 26 g. ¿Cuántos gramos de oxígeno incorporó?
-- **A3.** En una botella cerrada se mezclan 150 g de reactantes y 100 g de agua. ¿Cuántos gramos tendrá el sistema después de la reacción?
+- **A3.** En una botella cerrada se mezclan 150 g de reactantes y 120 g de agua. ¿Cuántos gramos tendrá el sistema después de la reacción?
 
 *Razonamiento y análisis*
 
@@ -192,7 +192,7 @@ Respuesta: Escaparon como gas
 - **C3.** Un sistema donde no entra ni sale materia. Se puede mantener tapado.
 - **A1.** 4 g. Se resta la masa final a la inicial. Cálculo: 420 − 416 = 4.
 - **A2.** 6 g. Se resta la masa inicial a la final. Cálculo: 26 − 20 = 6.
-- **A3.** 250 g. La masa total se conserva. Cálculo: 150 + 100 = 250.
+- **A3.** 270 g. La masa total se conserva. Cálculo: 150 + 120 = 270.
 - **Z1.** B. La masa no se destruye: se encuentra en los gases.
 - **Z2.** A. Es el sistema completo el que conserva la masa.
 - **D1.** No. La diferencia está dentro de la incertidumbre de la balanza.

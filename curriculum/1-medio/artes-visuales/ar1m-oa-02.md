@@ -270,9 +270,9 @@ Respuesta: Es una inferencia sin respaldo en la ficha
 
 **Recurso listo para usar:** Hojas, lápiz de mina, cartón y papel limpios, y un envase limpio de plástico. Las fichas de materiales de ejemplo están escritas en esta clase; no necesitas comprar nada.
 
-**Consigna exacta:** Elige UN material de ejemplo. A) Cartón de caja usada. B) Papel de diario. C) Un envase de plástico limpio. Completa una ficha con origen, uso y descarte (si falta un dato, márcalo pendiente). Luego haz dos pruebas pequeñas con él: una de textura para grabado (frotar con lápiz sobre el cartón o el papel) y otra de color (mezclar tierra de color, harina y agua en el envase). Decide si lo usarías en tu obra y justifica.
+**Consigna exacta:** Elige UN material de ejemplo. A) Cartón de caja usada. B) Papel de diario. C) Un envase de plástico limpio. Completa una ficha con origen, uso y descarte (si falta un dato, márcalo pendiente). Luego haz dos pruebas pequeñas con él: una de textura para grabado (frotar con lápiz sobre el cartón o el papel) y otra de color (mezclar harina, agua y un poco de témpera en el envase). Decide si lo usarías en tu obra y justifica.
 
-**Referencia para modelar y corregir:** Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de tierra cubre bien. Lo usaría porque es reutilizado y se puede reciclar.
+**Referencia para modelar y corregir:** Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de témpera con harina cubre bien. Lo usaría porque es reutilizado y se puede reciclar.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -286,7 +286,7 @@ Respuesta: Es una inferencia sin respaldo en la ficha
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de tierra cubre bien. Lo usaría porque es reutilizado y se puede reciclar. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de témpera con harina cubre bien. Lo usaría porque es reutilizado y se puede reciclar. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -381,7 +381,7 @@ Respuesta: Engrudo de harina y agua, porque es reversible
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso tiene una caja de cartón, restos de papel de diario, un envase de plástico limpio y tierra de color. Debes hacer una prueba de grabado y una de mural con lo que hay, sin comprar nada. ¿Qué haces con cada uno? A. Matriz con el cartón, papel de diario para probar la impresión, el envase para mezclar el pigmento B. Compro placas nuevas y botarlo todo.
+- **S1.** Tu curso tiene una caja de cartón, restos de papel de diario, un envase de plástico limpio y tierra de color. Debes hacer una prueba de grabado y una de mural con lo que hay, sin comprar nada. ¿Qué haces con cada uno? A. Matriz con el cartón, papel de diario para probar la impresión, el envase para mezclar el pigmento B. Compro placas y pintura nuevas para empezar de cero y boto lo que hay.
 
 *Autoevaluación*
 
@@ -389,7 +389,7 @@ Respuesta: Engrudo de harina y agua, porque es reversible
 - **E2.** Verdadero o falso: un material barato siempre es sustentable.
 - **E3.** ¿Cuál es una unión reversible? A. Pegamento fuerte B. Cinta de papel.
 
-**Actividad abierta.** Elige UN material de ejemplo. A) Cartón de caja usada. B) Papel de diario. C) Un envase de plástico limpio. Completa una ficha con origen, uso y descarte (si falta un dato, márcalo pendiente). Luego haz dos pruebas pequeñas con él: una de textura para grabado (frotar con lápiz sobre el cartón o el papel) y otra de color (mezclar tierra de color, harina y agua en el envase). Decide si lo usarías en tu obra y justifica.
+**Actividad abierta.** Elige UN material de ejemplo. A) Cartón de caja usada. B) Papel de diario. C) Un envase de plástico limpio. Completa una ficha con origen, uso y descarte (si falta un dato, márcalo pendiente). Luego haz dos pruebas pequeñas con él: una de textura para grabado (frotar con lápiz sobre el cartón o el papel) y otra de color (mezclar harina, agua y un poco de témpera en el envase). Decide si lo usarías en tu obra y justifica.
 
 **Solucionario razonado**
 
@@ -411,7 +411,7 @@ Respuesta: Engrudo de harina y agua, porque es reversible
 - **E2.** Falso. El precio no dice nada de su origen ni de su descarte.
 - **E3.** B. La cinta de papel se despega sin dañar las piezas.
 
-**Actividad abierta · ejemplo de respuesta.** Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de tierra cubre bien. Lo usaría porque es reutilizado y se puede reciclar.
+**Actividad abierta · ejemplo de respuesta.** Elegí A, cartón de caja usada. Origen: reutilizado. Uso: matriz de grabado en relieve. Descarte: reciclable si queda limpio. Prueba de textura: al frotar con lápiz se marca bien la superficie corrugada. Prueba de color: la mezcla de témpera con harina cubre bien. Lo usaría porque es reutilizado y se puede reciclar.
 
 **Criterios para evaluarla:** completa origen, uso y descarte; marca como pendiente un dato que falta; hace dos pruebas distintas; decide con las pruebas y la ficha.
 
@@ -575,7 +575,7 @@ Respuesta: Factor 20; la casa mide 80 cm
 
 - **A1.** En el boceto, una ventana mide 3 cm de ancho y el factor de ampliación es 15. ¿Cuántos centímetros medirá en el muro?
 - **A2.** Quieres que en la copia impresa se lea «LUZ». ¿Qué haces en la matriz? A. Pego las letras invertidas, en espejo B. Las pego igual que se leen.
-- **A3.** Con demasiada tinta, la copia queda con las líneas finas tapadas. ¿Qué haces en la prueba siguiente? A. Entintar con una capa más delgada B. Aumentar la tinta.
+- **A3.** Con demasiada tinta, la copia queda con las líneas finas tapadas. ¿Qué haces en la prueba siguiente? A. Entintar con una capa más delgada B. Presionar más fuerte con la cuchara.
 
 *Razonamiento y análisis*
 
@@ -798,7 +798,7 @@ Respuesta: 11 hojas
 
 *Situaciones auténticas*
 
-- **S1.** Tu liceo te da un muro de 5 m por 3 m y una caja de cartón. Quieres una propuesta del tema «mi barrio de noche»: o un mural de planos grandes en dos colores o un grabado de 12 cm con trazos finos. Con los datos de ejemplo (pintura que rinde 5 m² por litro, dos manos), ¿cuántos litros necesitas para el mural? A. 6 litros B. 3 litros.
+- **S1.** Tu liceo te da un muro de 5 m por 3 m y una caja de cartón. Quieres una propuesta del tema «mi barrio de noche»: o un mural de planos grandes en dos colores o un grabado de 12 cm con trazos finos. Con los datos de ejemplo (pintura que rinde 6 m² por litro, dos manos), ¿cuántos litros necesitas para el mural? A. 5 litros B. 15 litros.
 
 *Autoevaluación*
 
@@ -823,7 +823,7 @@ Respuesta: 11 hojas
 - **Z2.** A. Sustentable se justifica con origen, uso y descarte; el color no cambia eso.
 - **D1.** 6 litros. Se multiplica por las manos y se divide por el rendimiento. Cálculo: 24 × 2 ÷ 8 = 6.
 - **D2.** A. Necesita 6 litros y ya tiene 3, entonces le faltan 6 − 3 = 3.
-- **S1.** A. El área es 15 m², con dos manos son 30 m² y 30 ÷ 5 = 6 litros.
+- **S1.** A. El área es 15 m², con dos manos son 30 m² y 30 ÷ 6 = 5 litros; 15 litros ignora el rendimiento.
 - **E1.** Las pruebas de estado. También usan papel.
 - **E2.** Falso. Cada mano cubre el muro y gasta pintura.
 - **E3.** Qué imagen, con qué técnica, con qué materiales y cuánto se necesita. Así la propuesta se puede realizar.
@@ -1007,7 +1007,7 @@ Respuesta: Sustentabilidad 1 y cuidado del lugar 0
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso decide cuál de dos propuestas para el patio se hará. La propuesta del grupo A suma coherencia 3, calidad 3, sustentabilidad 2 y cuidado 3. La del grupo B suma 3, 2, 3 y 3. ¿Cuál tiene más puntos y por cuánto?
+- **S1.** Tu curso decide cuál de dos propuestas para el patio se hará. La propuesta del grupo A suma coherencia 3, calidad 3, sustentabilidad 2 y cuidado 3. La del grupo B suma 3, 2, 3 y 3. ¿Cuál tiene más puntos o empatan? Di el total de cada una.
 
 *Autoevaluación*
 
@@ -1032,7 +1032,7 @@ Respuesta: Sustentabilidad 1 y cuidado del lugar 0
 - **Z2.** A. Aunque la obra sea tuya, el recurso viene de otra persona y debe declararse.
 - **D1.** 63 cm. Son 4 grabados, 3 espacios entre ellos y 2 extremos de 3 cm. Cálculo: 4 × 12 + 3 × 3 + 2 × 3 = 63.
 - **D2.** La B. Con el mismo total, el criterio que depende del permiso del lugar pesa más para poder realizarla.
-- **S1.** Ninguna, empatan en 11. A suma 3 + 3 + 2 + 3 = 11 y B suma 3 + 2 + 3 + 3 = 11.
+- **S1.** Empatan en 11. A suma 3 + 3 + 2 + 3 = 11 y B suma 3 + 2 + 3 + 3 = 11.
 - **E1.** Coherencia, calidad de la técnica, sustentabilidad y cuidado del lugar. Juntos revisan la obra, el ambiente y el lugar.
 - **E2.** Falso. Las medidas no coinciden si las escalas son distintas.
 - **E3.** La parte más fuerte, la más débil y un cambio concreto. Eso permite mejorarla.

@@ -59,7 +59,7 @@ lesson(
     [
         arith("Otra imagen digital de ejemplo mide 20 píxeles de ancho por 20 de alto. ¿Cuántos píxeles tiene en total?", "20 * 20", "El total de una cuadrícula es ancho por alto.", " píxeles"),
         arith("Una tira de 84 cm se pliega en paneles de 12 cm. ¿Cuántos paneles tiene?", "84 // 12", "Se divide el largo de la tira entre el largo de cada panel.", " paneles"),
-        ex("Un libro se toca y se guarda; una imagen digital se comparte con facilidad. Quieres que un familiar lejano vea tu obra esta semana. ¿Qué formato facilita eso? A. Una imagen digital B. Un libro único.", "A", "Una imagen digital se envía sin viajar; el libro único exige llevarlo."),
+        ex("Un libro se toca y se guarda; una imagen digital se comparte con facilidad. Quieres que una persona que vive en otra ciudad vea tu obra esta semana. ¿Qué formato facilita eso? A. Una imagen digital B. Un libro único.", "A", "Una imagen digital se envía sin viajar; el libro único exige llevarlo."),
     ],
     [
         ex("Tienes una sola hoja y ningún computador. Quieres mostrar una secuencia de seis momentos. ¿Qué formato eliges? A. Un acordeón de seis paneles B. Una imagen digital de tres versiones.", "A", "El acordeón se hace con papel y permite seis momentos; sin computador no puedes hacer la digital."),
@@ -127,7 +127,7 @@ lesson(
         ex("Un libro con papel delgado y translúcido y otro con papel grueso. Quieres expresar fragilidad. ¿Cuál eliges y por qué?", "El papel delgado, porque se ve liviano y translúcido", "La materialidad del papel comunica fragilidad."),
     ],
     [
-        arith("Tu libro de ejemplo tiene 16 páginas y cada hoja doblada aporta 4 páginas. ¿Cuántas hojas necesitas?", "16 // 4", "Se divide el total de páginas entre las que aporta cada hoja.", " hojas"),
+        arith("Tu libro de ejemplo tiene 16 páginas y cada hoja doblada por la mitad aporta 4 páginas (dos por cada lado). ¿Cuántas hojas necesitas?", "16 // 4", "Se divide el total de páginas entre las que aporta cada hoja.", " hojas"),
         ex("Quieres usar la foto de un amigo en tu obra digital porque se ve muy bien. ¿Qué haces primero? A. Pedirle autorización a él y anotar el crédito B. Usarla y avisarle después.", "A", "El permiso se pide antes de usar su imagen."),
     ],
     ex("Para una muestra del liceo debes explorar en papel una obra con tres cambios de color en el cielo. Tienes una cuadrícula de 8 por 8 y otra de 24 por 24. Quieres incluir nubes con forma y un horizonte. ¿Cuál usas? A. La de 24 por 24 B. La de 8 por 8.", "A", "Las nubes con forma y un horizonte necesitan más píxeles; 8 por 8 es muy baja."),
@@ -179,7 +179,7 @@ lesson(
         ex("Para probar bien dos versiones del mismo cuadro, ¿cuántas cosas debes cambiar entre una y otra? A. Una B. Todas las que pueda.", "A", "Si cambias una sola, sabes qué produjo la diferencia."),
     ],
     [
-        ex("Probaste tres versiones de una secuencia de seis cuadros con cinco personas que no conocen tu idea. Entendieron el orden: 1 persona con la P1 (diez colores), 4 con la P2 (tres colores) y 2 con la P3 (cinco colores). Tu criterio es claridad. ¿Cuál eliges?", "La P2", "Fue la que más personas entendieron, y ese es el criterio elegido."),
+        ex("Probaste tres versiones de una secuencia de seis cuadros con cinco personas que no conocen tu idea; cada persona vio una sola versión. Entendieron el orden: 1 persona con la P1 (diez colores), 3 con la P2 (tres colores) y 1 con la P3 (cinco colores). Tu criterio es claridad. ¿Cuál eliges?", "La P2", "Fue la que más personas entendieron, y ese es el criterio elegido."),
         arith("Un acordeón de ejemplo tiene 8 paneles y cada panel mide 12 cm. ¿Cuántos centímetros mide la tira abierta?", "8 * 12", "El largo total es el número de paneles por el largo de cada panel.", " cm"),
         ex("Una persona mira tu storyboard y dice que entiende el orden de los cuadros 1 al 4, pero no el 5 y el 6. ¿Qué haces? A. Reviso el encuadre y el orden de los cuadros 5 y 6 B. Cambio los cuadros 1 al 4.", "A", "El problema está en los cuadros que no se entienden."),
     ],
@@ -266,7 +266,7 @@ lesson(
         ["no probar antes de la versión final", "usar datos personales"],
         "Pregunta cómo hizo cada cálculo y qué datos personales quitó de su obra.",
     ),
-    "Cuenta a una persona de tu casa cuántas tiras de 30 cm necesitas para un acordeón de 6 paneles de 15 cm.",
+    "Cuenta a una persona de tu casa cuántas tiras de 30 cm necesitas para un acordeón de 5 paneles de 12 cm.",
     "Elige una imagen de tu imaginario y escribe tres datos personales que quitarías antes de mostrarla.",
 )
 

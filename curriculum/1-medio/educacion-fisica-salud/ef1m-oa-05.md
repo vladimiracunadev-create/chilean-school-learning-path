@@ -174,7 +174,7 @@ Respuesta: El horario
 *Situaciones auténticas*
 
 - **S1.** Con la oferta de ejemplo, el taller de baile tiene 20 cupos y se inscriben 26 estudiantes. ¿Cuántos quedan sin cupo?
-- **S2.** Los 6 estudiantes sin cupo quieren hacer actividad física. ¿Qué opción de la oferta de ejemplo es gratuita y de acceso abierto: A) el gimnasio privado, que cobra mensualidad; B) la ciclovía junto al río?
+- **S2.** Los 6 estudiantes sin cupo quieren hacer actividad física. ¿Qué opción es gratuita y de acceso abierto: A) la ciclovía junto al río, que no cobra; B) el gimnasio privado, que cobra $25.000 al mes?
 
 *Autoevaluación*
 
@@ -200,7 +200,7 @@ Respuesta: El horario
 - **D1.** 8 sesiones. Se multiplican las sesiones semanales por las semanas. Cálculo: 2 × 4 = 8.
 - **D2.** 24.000 pesos. Se multiplica el valor mensual por los meses. Cálculo: 6 × 4000 = 24.000.
 - **S1.** 6. 26 menos 20 son 6.
-- **S2.** B. La ciclovía no cobra y es de acceso abierto.
+- **S2.** A. La ciclovía no cobra y es de acceso abierto.
 - **E1.** Una razón que impide participar. Es la definición de la clase.
 - **E2.** Respeto su privacidad y no anoto nombres. La privacidad se cuida en el diagnóstico.
 - **E3.** No participo y aviso a una persona adulta. La seguridad va primero.
@@ -385,7 +385,7 @@ Respuesta: Ajustes de inclusión
 *Situaciones auténticas*
 
 - **S1.** Evalúa con esta matriz de ejemplo. Ciclovía: costo 2, horario 2, cercanía 1, inclusión 1. Club de fútbol: costo 1, horario 1, cercanía 1, inclusión 1. ¿Cuál suma más puntos?
-- **S2.** Si el club de fútbol mejora su costo de 1 a 2 y su inclusión de 1 a 2, ¿cuántos puntos suma?
+- **S2.** El club de fútbol tiene costo 1, horario 1, cercanía 1 e inclusión 1. Si mejora su costo de 1 a 2 y su inclusión de 1 a 2, ¿cuántos puntos suma?
 
 *Autoevaluación*
 
@@ -960,7 +960,7 @@ Un ajuste debe ser concreto, medible y pequeño: cambiar una estación, mover el
 
 **Ejemplos resueltos paso a paso**
 
-*Ejemplo 1. Leer una tendencia*
+*Ejemplo 1. Sumar la asistencia*
 
 Problema: Asistencia de ejemplo por semana: 18, 25, 22 y 30 estudiantes. ¿Cuántos participaron en total en las cuatro semanas?
 
@@ -1214,7 +1214,7 @@ Respuesta: Le pregunto qué ajuste le sirve y adapto la estación con movimiento
 
 - **A1.** Una sala mide 8 m por 5 m. ¿Cuántos metros cuadrados tiene?
 - **A2.** En esa sala caben 4 estaciones con 5 estudiantes por estación. ¿Cuántos estudiantes caben a la vez?
-- **A3.** Si 18 estudiantes quieren participar a la vez, ¿cuántos quedarían esperando en esa sala de 20 cupos?
+- **A3.** Si 23 estudiantes quieren participar a la vez, ¿cuántos quedarían esperando en una sala con 20 cupos?
 
 *Razonamiento y análisis*
 
@@ -1224,7 +1224,7 @@ Respuesta: Le pregunto qué ajuste le sirve y adapto la estación con movimiento
 *Desafío*
 
 - **D1.** En una plaza se organiza una actividad de 45 minutos con 3 bloques iguales y 1 minuto de pausa antes de cada bloque. ¿Cuántos minutos tiene cada bloque?
-- **D2.** En una actividad de 45 minutos con 3 bloques iguales y 1 minuto de pausa antes de cada bloque, ¿cuántos minutos se dedican en total a las pausas?
+- **D2.** En una actividad de 45 minutos con 3 bloques iguales y 1 minuto de pausa antes de cada bloque, ¿cuántos minutos de la actividad son de movimiento y no de pausa?
 
 *Situaciones auténticas*
 
@@ -1249,11 +1249,11 @@ Respuesta: Le pregunto qué ajuste le sirve y adapto la estación con movimiento
 - **C3.** A. La participación es voluntaria.
 - **A1.** 40 m². El área se calcula multiplicando largo por ancho. Cálculo: 8 × 5 = 40.
 - **A2.** 20 estudiantes. Se multiplican las estaciones por los estudiantes de cada una. Cálculo: 4 × 5 = 20.
-- **A3.** 0. Hay 20 cupos y 18 estudiantes, así que nadie espera.
+- **A3.** 3. 23 menos 20 son 3 estudiantes.
 - **Z1.** A. La inclusión es un criterio básico.
 - **Z2.** B. Cambia el entorno y se deben revisar los riesgos.
 - **D1.** 14 minutos. Se restan las 3 pausas y se divide el tiempo restante entre los bloques. Cálculo: (45 − 3) ÷ 3 = 14.
-- **D2.** 3. Hay una pausa antes de cada uno de los 3 bloques.
+- **D2.** 42. Son 45 minutos menos 3 minutos de pausa.
 - **S1.** 8. 32 dividido en 4 salas son 8 estudiantes por sala.
 - **S2.** 4 estudiantes. Los 8 estudiantes de cada sala se reparten entre 2 estaciones. Cálculo: 8 ÷ 2 = 4.
 - **E1.** Usar una idea en un contexto nuevo. Es la definición de la clase.

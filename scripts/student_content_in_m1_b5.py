@@ -52,7 +52,7 @@ lesson(
     [
         mc(f"Lee: {OP1} {GOP1} ¿Cuál es el propósito del texto?", "Dar una opinión", ["Narrar un viaje", "Explicar cómo se forma la lluvia"], "Usa In my opinion y un deseo de cambio."),
         mc(f"Lee: {OP1} {GOP1} ¿Qué frase introduce la opinión?", "In my opinion", ["Teenagers feel", "For this reason"], "Es la frase que muestra el punto de vista."),
-        mc(f"Lee: {OP1} {GOP1} ¿Cuál es la razón que apoya la opinión?", "Teenagers feel tired in the morning and cannot concentrate", ["Schools have eight classrooms", "Nine is a number"], "La razón explica por qué conviene empezar más tarde."),
+        mc(f"Lee: {OP1} {GOP1} ¿Cuál es la razón que apoya la opinión?", "Teenagers feel tired in the morning and cannot concentrate", ["Schools have eight classrooms", "Eight o'clock is the usual time for lunch"], "La razón explica por qué conviene empezar más tarde."),
     ],
     [
         mc(f"Lee: {EXP2} {GEXP2} ¿Qué propósito tiene?", "Explicar cómo se forma la lluvia", ["Narrar un viaje", "Dar una opinión sobre el clima"], "Describe un proceso en presente."),
@@ -90,8 +90,8 @@ lesson(
     ["Sé usar and, but, because y so en oraciones simples.", "Conozco first, then y finally."],
     [
         "Los conectores (connectors) unen ideas y muestran la relación entre ellas. Para sumar: and, also, in addition. Para contrastar: but, however, although. Para la causa (por qué ocurre): because. Para el resultado (qué ocurre después): so, as a result. Para dar un ejemplo: for example. Para ordenar: first, then, after that, finally. Para una alternativa: or.",
-        "Cada conector tiene su lugar. But y so van en medio de una oración, después de una coma: It was cold, so we wore jackets. However va al comienzo de una oración nueva, con coma después: It was cheap. However, I did not buy it. Although introduce la idea más débil y no se usa con but: Although it was cheap, I did not buy it. Because explica la causa: She stayed home because she was ill.",
-        "Para elegir el conector, pregúntate qué relación hay entre las dos ideas. ¿La segunda es una causa, un resultado, un contraste, un ejemplo o un paso más? Si cambias el conector, cambia el significado: He is tired because he stayed up late no es lo mismo que He stayed up late, so he is tired, aunque ambas oraciones expresan la misma relación desde dos lados.",
+        "Cada conector tiene su lugar. But y so van en medio de una oración, después de una coma: It was cold, so we wore jackets. However va al comienzo de una oración nueva, con coma después: It was cheap. However, I did not buy it. Although introduce la idea más débil y no se usa con but: Although it was cheap, I did not buy it. Because explica la causa: She stayed home because she was sick.",
+        "Para elegir el conector, pregúntate qué relación hay entre las dos ideas. ¿La segunda es una causa, un resultado, un contraste, un ejemplo o un paso más? He is tired because he stayed up late y He stayed up late, so he is tired dicen lo mismo desde dos lados: con because la causa va al final; con so, la causa va primero y el resultado después. Si eliges el conector equivocado, la oración cambia de sentido o deja de tener sentido.",
     ],
     [("connector", "conector: palabra que une ideas"), ("because", "porque: causa"), ("so / as a result", "así que / como resultado: resultado"), ("but / however / although", "pero / sin embargo / aunque: contraste"), ("for example", "por ejemplo"), ("in addition / also", "además"), ("or", "o: alternativa")],
     [
@@ -124,7 +124,7 @@ lesson(
         mc("«Cycling is healthy. ___, it is cheap.» ¿Qué conector agrega una segunda ventaja?", "In addition", ["However", "Although"], "In addition suma una idea del mismo tipo."),
     ],
     [
-        mc("Completa los dos espacios: «It was late, ___ we hurried. We got to the theater; ___, the film had already started.» (film = película; hurried = nos apuramos; theater = cine)", "so ... however", ["because ... so", "but ... because"], "Primero hay un resultado y después un contraste."),
+        mc("Completa los dos espacios: «It was late, ___ we hurried. We got to the theater; ___, the movie had already started.» (movie = película; hurried = nos apuramos; theater = cine)", "so ... however", ["because ... so", "but ... because"], "Primero hay un resultado y después un contraste."),
         mc("Elige el párrafo con los conectores en orden lógico.", "First, Ana made a list. Then she bought apples. Finally, she cooked", ["Finally, Ana made a list. Then she cooked. First, she bought apples", "Then, Ana cooked. First, she made a list. Finally, she bought apples"], "First, then y finally siguen el orden real de las acciones."),
     ],
     [mc("En un correo a un amigo escribes: «The museum was small. ___, it was very interesting.» ¿Qué conector es el mejor?", "However", ["Because", "So"], "Pequeño e interesante se oponen.")],
@@ -165,14 +165,14 @@ lesson(
         ("Escribir «If it will rain tomorrow, we will study at home».", "En la cláusula con if no se usa will.", "Escribe If it rains tomorrow, we will study at home."),
     ],
     [
-        mc("Un sinónimo (synonym) de big es", "huge", ["tiny", "slow"], "Huge significa muy grande."),
+        mc("Un sinónimo (synonym) de big es", "huge", ["tiny", "heavy"], "Huge significa muy grande."),
         mc("«Said» puede cambiarse por una palabra más precisa cuando alguien habla muy bajo: ", "whispered", ["shouted", "ran"], "Whispered significa susurró."),
         mc("Para unir dos ideas que se suman se puede usar", "and", ["although", "yesterday"], "And suma ideas."),
     ],
     [
-        mc("La mejor forma de decir «very tired» con más precisión es", "exhausted", ["tiny", "friendly"], "Exhausted significa agotado."),
-        mc("Reemplaza «nice» en «The teacher is nice» por una palabra que describa su forma de ser.", "friendly", ["expensive", "tiny"], "Friendly describe a una persona amable."),
-        mc("Completa con la palabra más precisa: «Don't shout in the library,» she ___ quietly.", "whispered", ["ran", "painted"], "Whispered calza con quietly."),
+        mc("La mejor forma de decir «very tired» con más precisión es", "exhausted", ["delighted", "enormous"], "Exhausted significa agotado."),
+        mc("Reemplaza «nice» en «The teacher is nice» por una palabra que describa su forma de ser.", "friendly", ["expensive", "noisy"], "Friendly describe a una persona amable."),
+        mc("Completa con la palabra más precisa: «Don't shout in the library,» she ___ quietly.", "whispered", ["ran", "shouted"], "Whispered calza con quietly."),
     ],
     [
         mc("Une las dos ideas: «Ana is happy. She won the contest.»", "Ana is happy because she won the contest", ["Ana is happy but she won the contest", "Ana is happy or she won the contest"], "La segunda idea es la causa de la primera."),
@@ -180,14 +180,14 @@ lesson(
         mc("Une las dos ideas: «I like tennis. My brother likes soccer.»", "I like tennis, but my brother likes soccer", ["I like tennis, so my brother likes soccer", "I like tennis because my brother likes soccer"], "Los gustos se oponen."),
     ],
     [
-        mc("Un párrafo empieza así: «I woke up. I had breakfast. I went to school. I saw my friend.» ¿Qué cambio mejora la variedad?", "Empezar con «On Saturday morning, I woke up early and had breakfast»", ["Escribir cuatro veces I woke up", "Quitar todas las palabras"], "Unir ideas y agregar un tiempo hace más rica la redacción."),
+        mc("Un párrafo empieza así: «I woke up. I had breakfast. I went to school. I saw my friend.» ¿Qué cambio mejora la variedad?", "Empezar con «On Saturday morning, I woke up early and had breakfast»", ["Escribir cuatro veces I woke up", "Empezar cada oración con I y no cambiar nada más"], "Unir ideas y agregar un tiempo hace más rica la redacción."),
         mc("¿Cuál oración con if está bien escrita?", "If it rains tomorrow, we will study at home", ["If it will rain tomorrow, we will study at home", "If it rained tomorrow, we study at home"], "En el bloque con if va el presente simple."),
     ],
     [
         mc("¿Cuál versión enriquece más «The girl walked.»?", "The shy girl walked slowly into the crowded classroom", ["The girl walked and walked", "The girl walked the girl walked"], "Agrega adjetivos, un adverbio y un lugar."),
-        mc("¿Qué versión evita la repetición y mantiene el significado de «The park is nice. The park is nice and big»? (pleasant = agradable; spacious = amplio)", "The park is pleasant and spacious", ["The park is nice and nice", "The park park is"], "Usa dos palabras distintas con el mismo sentido."),
+        mc("¿Qué versión evita la repetición y mantiene el significado de «The park is nice. The park is nice and big»? (pleasant = agradable; spacious = amplio)", "The park is pleasant and spacious", ["The park is nice and nice", "The park is nice, nice and big"], "Usa dos palabras distintas con el mismo sentido."),
     ],
-    [mc("Escribes una reseña de un restaurante. Tu borrador dice: «The food was good, the waiter was good and the music was good.» (waiter = camarero) ¿Cuál es la mejor versión?", "The food was delicious, the waiter was friendly and the music was pleasant", ["The food was good, the waiter was good and the music was good", "The food, the waiter and the music good"], "Cambia cada good por un sinónimo preciso.")],
+    [mc("Escribes una reseña de un restaurante. Tu borrador dice: «The food was good, the waiter was good and the music was good.» (waiter = garzón) ¿Cuál es la mejor versión?", "The food was delicious, the waiter was friendly and the music was pleasant", ["The food was good, the waiter was good and the music was good", "The food, the waiter and the music good"], "Cambia cada good por un sinónimo preciso.")],
     [
         mc("Un sinónimo es una palabra", "de significado parecido a otra", ["que rima con otra"], "Sirve para no repetir."),
         mc("Un adverbio como quickly dice", "cómo ocurre una acción", ["quién la hace"], "Quickly es rápidamente."),

@@ -376,7 +376,7 @@ Respuesta: Decide pedir y tomar agua; el apoyo es para las compras
 
 *Situaciones auténticas*
 
-- **S1.** En el kiosco del barrio, casi todo tiene sellos «ALTO EN» (dato de ejemplo). Un curso quiere hacer una campaña para informar a sus compañeros. ¿Qué conviene hacer? A) Presentar una propuesta con datos al Consejo de Curso B) Dejar de comer.
+- **S1.** En el kiosco del barrio, casi todo tiene sellos «ALTO EN» (dato de ejemplo). Un curso quiere hacer una campaña para informar a sus compañeros. ¿Qué conviene hacer? A) Pedir que cierren el kiosco sin presentar datos B) Presentar una propuesta con datos al Consejo de Curso.
 
 *Autoevaluación*
 
@@ -401,7 +401,7 @@ Respuesta: Decide pedir y tomar agua; el apoyo es para las compras
 - **Z2.** A. Hay variación entre personas.
 - **D1.** 53. Se suman las horas de días de semana y las del fin de semana. Cálculo: 7 × 5 + 9 × 2 = 53.
 - **D2.** 15. Al total se le restan los que sí tienen sello. Cálculo: 40 − 25 = 15.
-- **S1.** A. Es una acción colectiva pacífica y con datos.
+- **S1.** B. Es una acción colectiva pacífica y con datos.
 - **E1.** Sí. Es una etiqueta para decidir mejor.
 - **E2.** No. Hay condiciones que requieren apoyo.
 - **E3.** Sí. Protege la cabeza.
@@ -580,7 +580,7 @@ Respuesta: La opción 2
 
 *Situaciones auténticas*
 
-- **S1.** La semana anterior a las pruebas, un curso decide organizarse en grupos de estudio de 45 minutos con pausas. ¿Qué ventaja tiene? A) Distribuye el esfuerzo y acompaña B) Estudian más rápido sin necesidad de dormir.
+- **S1.** La semana anterior a las pruebas, un curso decide organizarse en grupos de estudio de 45 minutos con pausas. ¿Qué ventaja tiene? A) Distribuye el esfuerzo y acompaña B) Estudian en grupo sin pausas hasta terminar todo.
 
 *Autoevaluación*
 
@@ -968,7 +968,7 @@ Respuesta: Escucharlo, decirle que importa y acompañarlo con un adulto
 
 *Comprensión*
 
-- **C1.** ¿Qué partes tiene una frase para pedir ayuda emocional? A) Solo un chiste B) Lo que sientes, desde cuándo y qué necesitas.
+- **C1.** ¿Qué partes tiene una frase para pedir ayuda emocional? A) Solo lo que quieres que cambien los demás B) Lo que sientes, desde cuándo y qué necesitas.
 - **C2.** ¿Qué hace un buen amigo ante alguien que se siente muy mal? A) Contarlo al curso B) Escuchar sin juzgar y acompañarlo a pedir ayuda.
 - **C3.** Alguien siente tristeza intensa por semanas. ¿Cómo se entiende mejor esa situación? A) Es una debilidad que conviene ocultar B) Es una señal de salud que se cuida, no una culpa
 

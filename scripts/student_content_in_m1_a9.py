@@ -13,6 +13,11 @@ OA = "IN1M OA 09"
 MAT = "Los textos escritos en cada ejercicio (correos, avisos, páginas web, tablas), lápiz y una hoja para anotar."
 
 
+def U(texto):
+    """Quita la etiqueta de formato («Correo:», «Aviso:»…) para que el estudiante deba reconocerlo."""
+    return texto.split(": ", 1)[1]
+
+
 def E(rows):
     return [r if isinstance(r, dict) else ex(*r) for r in rows]
 
@@ -47,35 +52,35 @@ lesson(
     ],
     [("email", "correo electrónico"), ("notice", "aviso"), ("web page", "página web"), ("magazine article", "artículo de revista"), ("review", "reseña: opinión con evaluación"), ("purpose", "propósito: para qué se escribe")],
     [
-        ("Reconocer un correo", W_MAIL + " ¿Qué formato es y cuál es su propósito?", ["Tiene asunto, saludo y firma: es un correo.", "Avisa un cambio de día y hora de un entrenamiento.", "Su propósito es informar."], "Es un correo; su propósito es informar un cambio de entrenamiento"),
-        ("Reconocer una página web", W_WEB + " ¿Qué pistas muestran que es una página web y qué busca?", ["Tiene menús: Home, Courses, Contact.", "Dice Sign up y habla de un descuento.", "Busca que alguien se inscriba."], "Es una página web; busca que la persona se inscriba al curso"),
+        ("Reconocer un correo", U(W_MAIL) + " ¿Qué formato es y cuál es su propósito?", ["Tiene asunto, saludo y firma: es un correo.", "Avisa un cambio de día y hora de un entrenamiento.", "Su propósito es informar."], "Es un correo; su propósito es informar un cambio de entrenamiento"),
+        ("Reconocer una página web", U(W_WEB) + " ¿Qué pistas muestran que es una página web y qué busca?", ["Tiene menús: Home, Courses, Contact.", "Dice Sign up y habla de un descuento.", "Busca que alguien se inscriba."], "Es una página web; busca que la persona se inscriba al curso"),
     ],
     [
         ("Decidir el formato solo por el tema.", "Se mira de qué trata y no cómo se presenta el texto.", "Mira primero títulos, menús, saludos y despedidas."),
         ("Creer que una reseña informa sin opinar.", "Se confunde con una noticia.", "Busca una evaluación, como estrellas o palabras como good o bad."),
     ],
     [
-        (SECRE + " ¿Qué formato es? A) un correo B) un aviso de pared", "A) un correo", "Tiene asunto, saludo y despedida."),
-        (LAB + " ¿Qué formato es? A) un aviso B) una reseña", "A) un aviso", "Entrega una información breve y urgente."),
-        (REVIEW + " ¿Qué formato es? A) una reseña B) un artículo científico", "A) una reseña", "Tiene una evaluación con estrellas."),
+        (U(SECRE) + " ¿Qué formato es? A) un correo B) un aviso de pared", "A) un correo", "Tiene asunto, saludo y despedida."),
+        (U(LAB) + " ¿Qué formato es? A) un aviso B) una reseña", "A) un aviso", "Entrega una información breve y urgente."),
+        (U(REVIEW) + " ¿Qué formato es? A) una reseña B) un artículo científico", "A) una reseña", "Tiene una evaluación con estrellas."),
     ],
     [
-        (SECRE + " ¿Cuál es el propósito? A) informar un cambio de uniforme B) invitar a una fiesta", "A) informar un cambio de uniforme", "Dice que los miércoles se puede usar el buzo."),
-        (YAWN + " ¿Cuál es el propósito? A) explicar un tema sin una respuesta única B) vender un producto", "A) explicar un tema sin una respuesta única", "Dice que los científicos no saben con exactitud."),
-        (FAIR + " ¿Cuál es el propósito? A) invitar a una feria escolar B) pedir dinero para un viaje", "A) invitar a una feria escolar", "Dice Join us y que la entrada es gratis."),
+        (U(SECRE) + " ¿Cuál es el propósito? A) informar un cambio de uniforme B) invitar a una fiesta", "A) informar un cambio de uniforme", "Dice que los miércoles se puede usar el buzo."),
+        (U(YAWN) + " ¿Cuál es el propósito? A) explicar un tema sin una respuesta única B) vender un producto", "A) explicar un tema sin una respuesta única", "Dice que los científicos no saben con exactitud."),
+        (U(FAIR) + " ¿Cuál es el propósito? A) invitar a una feria escolar B) pedir dinero para un viaje", "A) invitar a una feria escolar", "Dice Join us y que la entrada es gratis."),
     ],
     [
-        (LAB + " ¿Dónde esperarías leer este texto? A) en un pizarrón o puerta del colegio B) en un libro de cuentos", "A) en un pizarrón o puerta del colegio", "Es un aviso de uso público."),
-        (REVIEW + " ¿Quién escribe y para quién? A) una persona que probó el casino, para otros estudiantes B) la directora, para los apoderados", "A) una persona que probó el casino, para otros estudiantes", "Da su opinión con I give it four stars."),
-        (W_WEB.split(": ")[0] + ". Un texto con menú Home | Courses | Contact, ¿dónde se publica? A) en internet B) en una pared sin conexión", "A) en internet", "Los menús y enlaces son propios de las páginas web."),
+        (U(LAB) + " ¿Dónde esperarías leer este texto? A) en un pizarrón o puerta del colegio B) en un libro de cuentos", "A) en un pizarrón o puerta del colegio", "Es un aviso de uso público."),
+        (U(REVIEW) + " ¿Quién escribe y para quién? A) una persona que probó el casino, para otros estudiantes B) la directora, para los apoderados", "A) una persona que probó el casino, para otros estudiantes", "Da su opinión con I give it four stars."),
+        ("Un texto tiene un menú Home | Courses | Contact y un botón Sign up. ¿Dónde se publica? A) en internet B) en un periódico impreso", "A) en internet", "Los menús y enlaces son propios de las páginas web."),
     ],
     [
-        (YAWN + " Un compañero dice que es un aviso. ¿Qué pista lo contradice? A) empieza con una pregunta y explica un tema B) usa mayúsculas y habla de un cierre", "A) empieza con una pregunta y explica un tema", "Un artículo explica; un aviso informa algo urgente."),
-        (REVIEW + " Un compañero dice que solo informa que hay un menú. ¿Qué pista muestra que hay opinión? A) I give it four stars out of five B) The cafeteria's new menu", "A) I give it four stars out of five", "Las estrellas son una evaluación personal."),
+        (U(YAWN) + " Un compañero dice que es un aviso. ¿Qué pista lo contradice? A) empieza con una pregunta y explica un tema B) usa mayúsculas y habla de un cierre", "A) empieza con una pregunta y explica un tema", "Un artículo explica; un aviso informa algo urgente."),
+        (U(REVIEW) + " Un compañero dice que solo informa que hay un menú. ¿Qué pista muestra que hay opinión? A) I give it four stars out of five B) The cafeteria's new menu", "A) I give it four stars out of five", "Las estrellas son una evaluación personal."),
     ],
     [
-        (FAIR + " ¿Qué dato de la página web invita a participar sin pagar? A) Entry is free B) Home | Schedule | Contact", "A) Entry is free", "Dice que la entrada es gratis."),
-        (SECRE + " ¿Hasta cuándo dura el cambio de buzo? A) todo el semestre B) solo un miércoles", "A) todo el semestre", "Dice for the whole term."),
+        (U(FAIR) + " ¿Qué dato de la página web invita a participar sin pagar? A) Entry is free B) Games, food and music", "A) Entry is free", "Dice que la entrada es gratis."),
+        (U(SECRE) + " ¿Hasta cuándo dura el cambio de buzo? A) todo el semestre B) solo un miércoles", "A) todo el semestre", "Dice for the whole term."),
     ],
     [("Recibes en tu correo: «Subject: Library books. Dear students, please return your books before Friday. Thank you. Mrs Soto, librarian.» (return = devuelvan, librarian = bibliotecaria). ¿Cuál es el propósito? A) pedir que se devuelvan los libros B) invitar a una charla", "A) pedir que se devuelvan los libros", "Dice please return your books before Friday.")],
     [
@@ -132,7 +137,7 @@ lesson(
         (CAMP + " Un compañero dice que el campamento dura un mes. ¿Qué dato lo corrige? A) 5–14 January y ten days B) Apply before 20 December", "A) 5–14 January y ten days", "El texto dice diez días."),
     ],
     [
-        (SCHED + " Las clases de ajedrez empiezan a las 4:30 y las de teatro a las 5:00. ¿Cuántos minutos más tarde empieza el teatro?", "30 minutos", "De 4:30 a 5:00 pasa media hora, es decir, treinta minutos."),
+        (SCHED + " ¿Cuántos minutos más tarde empieza el teatro que el ajedrez?", "30 minutos", "El ajedrez es a las 4:30 y el teatro a las 5:00: pasa media hora, es decir, treinta minutos."),
         (W_SHOP + " ¿Cuántos colores tiene la mochila? A) tres B) dos", "A) tres", "Hay blue, green y black."),
     ],
     [(LANE + " Quieres cruzar la pasarela a las 11 de la noche. ¿Se puede? A) no: cierra a las diez de la noche B) sí: abre las 24 horas", "A) no: cierra a las diez de la noche", "El horario termina a las diez de la noche.")],
@@ -187,12 +192,12 @@ lesson(
         (MUSEUM + " ¿Qué significa exhibition por cognado? A) exposición B) exhibición de comida", "A) exposición", "Se parece a exposición y el contexto confirma que es una muestra."),
     ],
     [
-        ("Un compañero lee «actually» como «actualmente». ¿Qué significa en realidad? A) en realidad B) actualmente", "A) en realidad", "Es un falso amigo de actual."),
+        ("En «I actually like this song», ¿qué significa actually? A) en realidad, de hecho B) actualmente", "A) en realidad, de hecho", "Es un falso amigo: se parece a actualmente, pero significa en realidad."),
         ("En un texto no entiendes la palabra bookshop, pero ves «he is going to study in a library, not in a bookshop». ¿Qué te dice el contexto? A) es un lugar distinto de una biblioteca B) es lo mismo que library", "A) es un lugar distinto de una biblioteca", "Not in a bookshop los separa."),
     ],
     [
-        ("Un texto tiene el título «How bees help plants». Haces skimming. ¿Qué esperas leer? A) cómo las abejas ayudan a las plantas B) cómo se hace una torta", "A) cómo las abejas ayudan a las plantas", "El título anticipa el tema."),
-        (FORUM + " ¿Qué recomienda Tina? A) una aplicación de vocabulario y un podcast B) viajar a otro país", "A) una aplicación de vocabulario y un podcast", "Dice I use a vocabulary app and a podcast."),
+        ("Un texto tiene el título «How bees help plants». Haces skimming. ¿Qué esperas leer? A) cómo las abejas ayudan a las plantas B) por qué las abejas pican a las personas", "A) cómo las abejas ayudan a las plantas", "El título anticipa el tema."),
+        (FORUM + " ¿Qué recomienda Tina? A) una aplicación de vocabulario y un podcast B) tomar clases presenciales", "A) una aplicación de vocabulario y un podcast", "Dice I use a vocabulary app and a podcast."),
     ],
     [("En una página web para aprender inglés ves los enlaces «Login», «Courses» y «Read more». ¿Para qué sirve Read more? A) para ver más información sobre una noticia o curso B) para cerrar la página", "A) para ver más información sobre una noticia o curso", "Es un enlace que abre más texto.")],
     [
@@ -250,10 +255,10 @@ lesson(
         (POST + " " + TXT + " ¿Qué dato no entrega ninguno de los dos textos? A) el tema de la pintura B) cuántas personas participan", "B) cuántas personas participan", "El tema está en el afiche (My town); la cantidad de participantes no aparece."),
     ],
     [
-        (POST + " " + TXT + " Si quieres saber en qué sala de la biblioteca se entrega la pintura, ¿qué pregunta harías? A) Which room in the library? B) How old are you?", "A) Which room in the library?", "El dato falta en ambos textos."),
-        (POST + " " + TXT + " Para participar, ¿qué dos condiciones debes cumplir según los textos? A) ser adolescente y entregar antes del 10 de abril B) pagar entrada y ser adulto", "A) ser adolescente y entregar antes del 10 de abril", "Teenagers viene del afiche y la fecha, también."),
+        (POST + " " + TXT + " Si quieres saber en qué sala de la biblioteca se entrega la pintura, ¿qué pregunta harías? A) Which room in the library? B) What is the prize?", "A) Which room in the library?", "El dato falta en ambos textos."),
+        (POST + " " + TXT + " Para participar, ¿qué dos condiciones debes cumplir según los textos? A) ser adolescente y entregar antes del 10 de abril B) pagar la participación y entregar el 20 de abril", "A) ser adolescente y entregar antes del 10 de abril", "Teenagers viene del afiche y la fecha, también."),
     ],
-    [(MAIL + " " + CONC + " Sam quiere llegar al inicio de las puertas. ¿A qué hora debe llegar? A) a las seis B) a las siete", "A) a las seis", "La página dice Doors open at six.")],
+    [(MAIL + " " + CONC + " Sam quiere llegar cuando abren las puertas. ¿A qué hora debe llegar? A) a las seis B) a las siete", "A) a las seis", "La página dice Doors open at six.")],
     [
         ("En Inglés de 1.º medio (OA 9, clase 4): ¿qué haces si cada texto tiene una parte de la información?", "Combinas los datos de los dos y anotas de qué texto viene cada uno", "Así se completa el mensaje."),
         ("En Inglés de 1.º medio (OA 9, clase 4): ¿qué haces si falta un dato en ambos textos?", "Lo señalas o formulas una pregunta", "No inventas el dato."),
@@ -300,7 +305,7 @@ lesson(
     [
         (TOOLS + " ¿Qué debe hacer el usuario antes de ir? A) revisar el catálogo para ver qué herramientas hay disponibles B) pagar un año completo", "A) revisar el catálogo para ver qué herramientas hay disponibles", "Dice users must check the catalogue before they go."),
         (SCHOOLTRIP + " ¿Qué deben enviar las familias? A) almuerzo y una botella de agua B) dinero en efectivo y celular", "A) almuerzo y una botella de agua", "Dice Please send lunch and a water bottle."),
-        (LIGHT + " ¿Qué pueden hacer hoy los visitantes en algunos faros? A) entrar a una pequeña exposición B) vivir una semana", "A) entrar a una pequeña exposición", "Dice some have a small exhibition that visitors can enter."),
+        (LIGHT + " ¿Qué pueden hacer hoy los visitantes en algunos faros? A) entrar a una pequeña exposición B) encender la luz del faro", "A) entrar a una pequeña exposición", "Dice some have a small exhibition that visitors can enter."),
     ],
     [
         (TOOLS + " Un compañero dice que el texto critica las bibliotecas de herramientas. ¿Qué respondes? A) no: menciona un problema, pero dice que son populares B) sí: dice que nadie las usa", "A) no: menciona un problema, pero dice que son populares", "Although marca un contraste, no una crítica total."),

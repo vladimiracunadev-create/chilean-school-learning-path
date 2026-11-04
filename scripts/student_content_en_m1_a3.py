@@ -97,13 +97,13 @@ lesson(
         (ADULT + EXAM + " ¿Qué consejo principal da? A) dormir bien B) estudiar toda la noche", "A) dormir bien", "My main advice es dormir bien."),
     ],
     [
-        (ADULT + COACH + " ¿Cuál es la clave del juego según el entrenador? A) pasar la pelota rápido B) correr solo", "A) pasar la pelota rápido", "The key is to pass the ball quickly."),
+        (ADULT + COACH + " ¿Cuál es la clave del juego según el entrenador? A) pasar la pelota rápido B) lanzar siempre al arco sin pasar", "A) pasar la pelota rápido", "The key is to pass the ball quickly."),
         (ADULT + EXAM + " ¿Qué frase anuncia el cierre del mensaje? A) In conclusion B) Also", "A) In conclusion", "In conclusion se usa para cerrar."),
         (ADULT + DRILL + " ¿Adónde se va después de que el remezón se detiene?", "A la zona segura, siguiendo a la profesora", "El guion dice follow the teacher to the safe zone."),
     ],
     [
         (ADULT + COACH + " ¿Qué no debe olvidar cada jugador? A) una botella de agua B) un paraguas", "A) una botella de agua", "El guion dice Don't forget your water bottle."),
-        (ADULT + EXAM + " ¿Qué recomienda hacer con las pruebas antiguas? A) practicar con ellas B) botarlas", "A) practicar con ellas", "Dice practice with old tests."),
+        (ADULT + EXAM + " ¿Qué recomienda hacer con las pruebas antiguas? A) practicar con ellas B) leerlas solo la noche anterior", "A) practicar con ellas", "Dice practice with old tests."),
         (ADULT + DRILL + " ¿Qué significa «Remember that you must not run outside»? A) hay que recordar no salir corriendo B) conviene correr hacia afuera", "A) hay que recordar no salir corriendo", "Remember that avisa algo importante y must not prohíbe."),
     ],
     [
@@ -268,7 +268,7 @@ lesson(
         (ADULT + TRIP + " ¿Qué le dice la profesora a Manuel? A) que puede quedarse B) que debe ir", "A) que puede quedarse", "Dice Of course you can stay."),
     ],
     [
-        (ADULT + SHOP + " ¿Qué se infiere del cliente? A) que no quiere comprar los zapatos B) que quiere comprar dos pares", "A) que no quiere comprar los zapatos", "Niega con la cabeza y dice Maybe next time."),
+        (ADULT + SHOP + " ¿Qué se infiere del cliente? A) que no quiere comprar los zapatos B) que está muy entusiasmado con ellos", "A) que no quiere comprar los zapatos", "Niega con la cabeza y dice Maybe next time."),
         (ADULT + TRIP + " ¿Qué pista de voz usa la profesora? A) habla suave B) grita", "A) habla suave", "El guion dice softly."),
         (ADULT + SHOP + " ¿Cuánto cuestan los zapatos?", "40.000 pesos", "El vendedor dice forty thousand pesos."),
     ],
@@ -279,10 +279,10 @@ lesson(
     ],
     [
         (ADULT + SHOP + " Un compañero infiere que al cliente le encantaron los zapatos. ¿Qué pista lo corrige? A) los pone de vuelta en el estante y niega con la cabeza B) pregunta el precio", "A) los pone de vuelta en el estante y niega con la cabeza", "Esos gestos contradicen su idea."),
-        (ADULT + "«Sofía: [fast, high voice] I got the scholarship! Dad: [hugs her, voice breaks] I am so proud of you.» (scholarship = beca, hugs = abraza, voice breaks = se le quiebra la voz, proud = orgulloso). ¿Qué infieres del padre? A) que está emocionado B) que está enojado", "A) que está emocionado", "Abraza a su hija y se le quiebra la voz de orgullo."),
+        (ADULT + "«Sofía: [fast, high voice] I got the scholarship! Dad: [hugs her, voice breaks] I am so proud of you.» (scholarship = beca, hugs = abraza, voice breaks = se le quiebra la voz, proud = orgulloso). ¿Qué infieres del padre? A) que está emocionado B) que está decepcionado", "A) que está emocionado", "Abraza a su hija y se le quiebra la voz de orgullo."),
     ],
     [
-        (ADULT + CENTER + " ¿Qué propósito tiene el aviso? A) informar y atraer a la gente B) pedir dinero", "A) informar y atraer a la gente", "Resume actividades y dice que son gratis."),
+        (ADULT + CENTER + " ¿Qué propósito tiene el aviso? A) informar y atraer a la gente B) vender entradas a los vecinos", "A) informar y atraer a la gente", "Resume actividades y dice que son gratis."),
         (ADULT + "«Girl: [looks at the sky, hugs her arms] It's cold. Boy: [takes off his jacket] Here, take mine.» (sky = cielo, hugs her arms = se abraza los brazos, takes off = se saca). ¿Qué hace el chico y por qué? A) le presta su chaqueta porque ella tiene frío B) se va porque tiene frío", "A) le presta su chaqueta porque ella tiene frío", "Las pistas son el gesto de ella y la frase Take mine."),
     ],
     [(ADULT + "«Man: [looks at his watch, speaks fast] The bus is late again. I will miss the interview. Woman: [calmly] Do not worry. There is another bus in ten minutes.» (watch = reloj de pulsera, miss = perder, interview = entrevista, calmly = con calma). ¿Cómo se siente el hombre?", "Nervioso o apurado", "Mira su reloj y habla rápido porque podría perder la entrevista.")],

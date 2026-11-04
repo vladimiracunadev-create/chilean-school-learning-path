@@ -182,7 +182,7 @@ lesson(
     ],
     [
         ex("Afirmación: «El color guía la mirada». Evidencia: «el único objeto rojo está en el centro». Criterio: ¿cuál une ambos? A. Un color único en un fondo apagado atrae la mirada B. El rojo es un color bonito.", "A", "Relaciona el rasgo con el efecto; el segundo es un gusto."),
-        arith("Un juicio tiene 1 evidencia en la primera versión y se refuerza hasta tener 3. ¿Cuántas evidencias se agregaron?", "3 - 1", "Se resta la cantidad inicial de la final.", " evidencias"),
+        ex("Afirmación: «el rojo guía la mirada». Tres anotaciones: 1) «el único objeto rojo está en el centro», 2) «el fondo es gris y apagado», 3) «la autora es muy famosa». ¿Cuántas son evidencias visibles de la obra?", "2", "La 1 y la 2 se ven en la obra; la fama no es un rasgo visible ni estético."),
         ex("«Es realista». ¿Cuándo es un criterio pertinente? A. Cuando el propósito de la obra era parecerse a la realidad B. Siempre, en cualquier obra.", "A", "Un criterio solo vale si calza con el propósito."),
     ],
     [
@@ -190,7 +190,7 @@ lesson(
         ex("Tu juicio dice que una obra es «la mejor de todas». ¿Qué problema tiene? A. No es comprobable y exagera sin evidencia B. Es muy corto.", "A", "Una afirmación absoluta sin evidencia no se puede sostener."),
     ],
     [
-        ex("Tu afirmación es «el rojo guía la mirada». Quieres reforzarla con una segunda evidencia observable. ¿Cuál sirve? A. «El fondo es gris y apagado alrededor del rojo» B. «El rojo es el color favorito de mi familia».", "A", "Es un rasgo visible de la obra; la preferencia de una familia no está en la obra."),
+        ex("Tu afirmación es «el rojo guía la mirada». Quieres reforzarla con una segunda evidencia observable. ¿Cuál sirve? A. «El fondo es gris y apagado alrededor del rojo» B. «El rojo es mi color favorito».", "A", "Es un rasgo visible de la obra; la preferencia de una familia no está en la obra."),
         ex("Dos juicios sobre la misma obra: J1 usa una evidencia y un criterio pertinente; J2 usa tres evidencias, un criterio pertinente y responde un contraargumento. ¿Cuál se sostiene mejor?", "J2", "Tiene más evidencias y anticipa la objeción."),
     ],
     ex("En la muestra del liceo alguien dice de una pintura de ejemplo: «Está mal porque es famosa y yo no la entiendo». Tu respuesta justa es... A. «Dime qué rasgo ves y por qué no logra su propósito» B. «Tienes razón, entonces es mala».", "A", "Pide evidencia y criterio; fama y falta de comprensión no son razones estéticas."),
@@ -357,7 +357,7 @@ lesson(
     [
         ex("¿Qué tres partes tiene la fórmula de retroalimentación de esta clase?", "Pregunta, fortaleza y sugerencia", "Ordena lo que se dice."),
         ex("«Las piezas de la maqueta se mueven». ¿Es una preferencia o un criterio de oficio?", "Un criterio de oficio", "Describe un rasgo comprobable del cuidado de las uniones."),
-        ex("¿Qué tipo de matices permite el lápiz grafito? A. Variaciones suaves de tono B. Colores brillantes.", "A", "El grafito da grises de distinta intensidad."),
+        ex("¿Qué tipo de matices permite el lápiz grafito? A. Variaciones suaves de tono B. Relieves que se pueden tocar.", "A", "El grafito da grises de distinta intensidad; no crea relieve."),
     ],
     [
         ex("¿Cuál es una pregunta honesta para entender? A. «¿Qué querías mostrar con el azul?» B. «¿Por qué hiciste eso tan raro?».", "A", "La primera busca entender; la segunda juzga."),
@@ -404,7 +404,7 @@ lesson(
     ["Sé dar retroalimentación con pregunta, fortaleza y sugerencia.", "Sé separar preferencia de criterio."],
     [
         "Una crítica sirve cuando cambio algo y compruebo qué pasó. Primero ordeno las sugerencias que recibí. Elijo una que sea concreta, que acerque el trabajo a mi propósito y que pueda hacer con el tiempo y los materiales que tengo. Después hago una versión corta, a veces en un boceto pequeño, cambiando solo esa cosa. Comparar antes y después con los mismos criterios me muestra si el cambio funcionó.",
-        "Para priorizar uso dos preguntas: ¿cuánto mejora el propósito? y ¿cuánto esfuerzo requiere? Si le doy puntos de 1 a 3 a cada una, una sugerencia con impacto 3 y esfuerzo 1 conviene mucho. Ejemplo con datos de ejemplo: S1, aumentar el texto del afiche (impacto 3, esfuerzo 1); S2, rehacer todo el fondo (impacto 2, esfuerzo 3); S3, cambiar el marco (impacto 1, esfuerzo 1). El orden sensato es S1, luego S3 y S2 si sobra tiempo.",
+        "Para priorizar uso dos preguntas: ¿cuánto mejora el propósito? y ¿cuánto esfuerzo requiere? Si le doy puntos de 1 a 3 a cada una, una sugerencia con impacto 3 y esfuerzo 1 conviene mucho. Una medida simple de conveniencia es impacto menos esfuerzo: 3 − 1 = 2. Ejemplo con datos de ejemplo: S1, aumentar el texto del afiche (impacto 3, esfuerzo 1); S2, rehacer todo el fondo (impacto 2, esfuerzo 3); S3, cambiar el marco (impacto 1, esfuerzo 1). El orden sensato es S1, luego S3 y S2 si sobra tiempo.",
         "No toda crítica debo seguirla. Si una sugerencia va contra mi propósito, la agradezco y explico por qué no la uso. Conservo la versión anterior para poder volver. Cuando comparo, escribo el cambio, el criterio usado y el resultado: «cambié el tamaño del texto de 2 cm a 5 cm; criterio: legibilidad a dos metros; resultado: se lee mejor». Así mi proceso queda documentado y mi autoría clara.",
     ],
     [("priorizar", "ordenar lo que se va a hacer según su importancia"), ("impacto", "cuánto mejora una sugerencia el propósito del trabajo"), ("esfuerzo", "tiempo y materiales que requiere hacer un cambio"), ("versión anterior", "copia del trabajo antes del cambio"), ("documentar el proceso", "anotar qué se cambió, con qué criterio y qué resultó")],
@@ -439,7 +439,7 @@ lesson(
         arith("Una sugerencia tiene impacto 3 y esfuerzo 2; otra, impacto 1 y esfuerzo 3. Si restas el esfuerzo del impacto, ¿cuál es el resultado de la primera?", "3 - 2", "Impacto menos esfuerzo da una medida simple de conveniencia.", ""),
         ex("Con esa resta, la primera sugerencia (impacto 3, esfuerzo 2) da 1 y la segunda (impacto 1, esfuerzo 3) da −2. ¿Cuál es más conveniente?", "La primera", "Su resultado es 1 y el de la segunda es −2."),
     ],
-    ex("Tu compañera te sugiere dos cambios para tu afiche: aumentar el texto (impacto 3, esfuerzo 1) y cambiar el tema por uno que a ella le gusta más (impacto 0 en tu propósito, esfuerzo 3). ¿Qué haces? A. Aplico el primero y agradezco el segundo explicando mi propósito B. Aplico los dos.", "A", "El segundo no mejora tu propósito y cuesta mucho."),
+    ex("Tu compañera te sugiere dos cambios para tu afiche: aumentar el texto (impacto 3, esfuerzo 1) y cambiar el tema por uno que a ella le gusta más (impacto 1, porque va contra tu propósito, y esfuerzo 3). ¿Qué haces? A. Aplico el primero y agradezco el segundo explicando mi propósito B. Aplico los dos.", "A", "El segundo apenas aporta, va contra tu propósito y cuesta mucho."),
     [
         ex("¿Qué dos preguntas se usan para priorizar sugerencias?", "Cuánto mejora el propósito y cuánto esfuerzo requiere", "Ayudan a ordenar los cambios."),
         ex("Verdadero o falso: debo seguir todas las críticas que recibo.", "Falso", "Solo las que ayudan a mi propósito."),

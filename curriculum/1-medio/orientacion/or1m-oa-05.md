@@ -171,7 +171,7 @@ Respuesta: Hecho: 3 memes; emoción: humillación
 
 *Situaciones auténticas*
 
-- **S1.** En el curso circulan memes sobre cómo habla Nicolás. Una compañera propone un chat de apoyo para quien lo necesite. ¿Qué efecto tiene? A) Construye una relación más inclusiva B) Aumenta las burlas.
+- **S1.** En el curso circulan memes sobre cómo habla Nicolás. Una compañera propone un chat de apoyo para quien lo necesite. ¿Qué efecto tiene? A) Construye una relación más inclusiva B) Evita que Nicolás se entere de los memes.
 
 *Autoevaluación*
 
@@ -573,7 +573,7 @@ Respuesta: La segunda
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué responder con otra burla pública no resuelve el problema?
-- **Z2.** Un compañero dice: «Yo solo miré». ¿Qué le falta considerar? A) Que mirar es lo mejor B) Que mirar sin hacer nada deja sola a la persona.
+- **Z2.** Un compañero dice: «Yo solo miré». ¿Qué le falta considerar? A) Que mirar sin participar nunca tiene efecto B) Que mirar sin hacer nada deja sola a la persona.
 
 *Desafío*
 
@@ -677,7 +677,7 @@ Respuesta: La segunda
 
 **Recurso listo para usar:** Una hoja y un lápiz. Los mensajes del chat de un juego, de Isidora (inventada) y de un perfil adulto, están escritos en los ejercicios.
 
-**Consigna exacta:** Lee los cinco mensajes inventados de un perfil desconocido a Joaquín: «Hola, vi tu partida»; «Eres muy bueno, mejor que todos»; «Te regalo unos juegos si me das tu número»; «No se lo cuentes a tus papás, es un secreto»; «Mándame una foto tuya». Subraya dos señales de alerta, escribe los cinco pasos del protocolo en orden y una frase que usarías con un adulto.
+**Consigna exacta:** Lee los cinco mensajes inventados de un perfil desconocido a Joaquín: «Hola, vi tu partida»; «Eres muy bueno, mejor que todos»; «Te regalo unos juegos si me das tu número»; «No se lo cuentes a tu familia, es un secreto»; «Mándame una foto tuya». Subraya dos señales de alerta, escribe los cinco pasos del protocolo en orden y una frase que usarías con un adulto.
 
 **Referencia para modelar y corregir:** Señales: el pedido de secreto y la foto. Pasos: no responder, guardar capturas, bloquear, avisar a un adulto, no borrar el chat. Frase: «Un perfil desconocido me pidió un secreto y una foto; quiero que veas los mensajes».
 
@@ -797,7 +797,7 @@ Respuesta: No responder, capturas, bloquear y avisar
 - **E2.** ¿Se debe reenviar una imagen íntima de otra persona?
 - **E3.** ¿Es correcto avisar a un adulto de confianza?
 
-**Actividad abierta.** Lee los cinco mensajes inventados de un perfil desconocido a Joaquín: «Hola, vi tu partida»; «Eres muy bueno, mejor que todos»; «Te regalo unos juegos si me das tu número»; «No se lo cuentes a tus papás, es un secreto»; «Mándame una foto tuya». Subraya dos señales de alerta, escribe los cinco pasos del protocolo en orden y una frase que usarías con un adulto.
+**Actividad abierta.** Lee los cinco mensajes inventados de un perfil desconocido a Joaquín: «Hola, vi tu partida»; «Eres muy bueno, mejor que todos»; «Te regalo unos juegos si me das tu número»; «No se lo cuentes a tu familia, es un secreto»; «Mándame una foto tuya». Subraya dos señales de alerta, escribe los cinco pasos del protocolo en orden y una frase que usarías con un adulto.
 
 **Solucionario razonado**
 
@@ -979,7 +979,7 @@ Respuesta: «Me equivoqué, lo borré y lamento el daño.»
 
 - **A1.** Clasifica con R (respeta) o H (hiere): 1) «Me gustaría que no compartieras mi audio.» 2) «JAJA qué ridícula saliste.» 3) «Gracias por avisarme, lo borro.» Escribe las letras en orden.
 - **A2.** Un conflicto entre dos amigas por mensajes ya lleva 12 mensajes y cada vez se entienden menos. ¿Qué conviene? A) Hablar en persona con apoyo de un adulto si es necesario B) Seguir escribiendo más rápido.
-- **A3.** Marcela escribe: «Qué gracioso tu corte de pelo, jaja, no es chiste». ¿Qué problema tiene el mensaje? A) Puede entenderse como una burla B) Es demasiado largo.
+- **A3.** Marcela escribe: «Qué gracioso tu corte de pelo, jaja». ¿Qué problema tiene el mensaje? A) Puede entenderse como una burla B) Es demasiado largo.
 
 *Razonamiento y análisis*
 

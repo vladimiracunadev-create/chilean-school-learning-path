@@ -64,7 +64,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Consigna exacta:** Lee el perfil inventado de Mateo: le gusta cocinar para su familia, es ordenado, se pone nervioso al hablar en público, no le gustan mucho las matemáticas y vive a 30 minutos en bus de la ciudad. Escribe: tres habilidades o intereses, dos caminos posibles (uno de estudio y otro laboral) y una pregunta que le harías a una persona que trabaje en algo relacionado.
 
-**Referencia para modelar y corregir:** Habilidades e intereses: cocinar, orden, trabajo en equipo. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo?
+**Referencia para modelar y corregir:** Habilidades e intereses: cocinar, orden, preocuparse por su familia. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Habilidades e intereses: cocinar, orden, trabajo en equipo. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo? |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Habilidades e intereses: cocinar, orden, preocuparse por su familia. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -171,7 +171,7 @@ Respuesta: No, sigue siendo una opción
 
 *Situaciones auténticas*
 
-- **S1.** En una feria del colegio hay stands de un liceo técnico, de un instituto y de una universidad. ¿Qué conviene hacer en cada stand? A) Preguntar qué se estudia, cuánto dura y qué habilidades piden B) Pedir solo regalos.
+- **S1.** En una feria del colegio hay stands de un liceo técnico, de un instituto y de una universidad. ¿Qué conviene hacer en cada stand? A) Preguntar qué se estudia, cuánto dura y qué habilidades piden B) Elegir el stand que tenga la fila más corta.
 
 *Autoevaluación*
 
@@ -201,7 +201,7 @@ Respuesta: No, sigue siendo una opción
 - **E2.** No. Depende de intereses y condiciones.
 - **E3.** Sí. Evita decisiones basadas en rumores.
 
-**Actividad abierta · ejemplo de respuesta.** Habilidades e intereses: cocinar, orden, trabajo en equipo. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo?
+**Actividad abierta · ejemplo de respuesta.** Habilidades e intereses: cocinar, orden, preocuparse por su familia. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo?
 
 **Criterios para evaluarla:** identifica tres habilidades o intereses; propone dos caminos; formula una pregunta abierta; no descarta caminos sin información.
 
@@ -349,7 +349,7 @@ Respuesta: Un límite aparente
 
 - **R1.** «Esa carrera es solo de hombres», ¿es un hecho o un estereotipo?
 - **R2.** Camilo no puede pagar la matrícula este año, pero existe una ayuda económica para estudiar. ¿Cómo se llama? A) Prueba de acceso B) Beca
-- **R3.** ¿Qué institución forma técnicos de nivel superior? A) Un centro de formación técnica B) Una biblioteca pública
+- **R3.** ¿Qué institución forma técnicos de nivel superior? A) Un instituto profesional B) Un centro de formación técnica
 
 *Comprensión*
 
@@ -366,7 +366,7 @@ Respuesta: Un límite aparente
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué no se debe decir que un camino es «mejor» para todos?
-- **Z2.** Un joven descarta estudiar porque «es muy caro». ¿Qué debería hacer antes? A) Nada B) Averiguar becas, créditos y alternativas.
+- **Z2.** Un joven descarta estudiar porque «es muy caro». ¿Qué debería hacer antes? A) Descartar estudiar, porque el costo no va a cambiar B) Averiguar becas, créditos y alternativas.
 
 *Desafío*
 
@@ -389,7 +389,7 @@ Respuesta: Un límite aparente
 
 - **R1.** Un estereotipo. Generaliza sin considerar a cada persona.
 - **R2.** B. La beca es una ayuda económica.
-- **R3.** A. Es una institución de educación superior que forma técnicos.
+- **R3.** B. Es una institución de educación superior que forma técnicos.
 - **C1.** A. La primera es una duración habitual; la segunda es un mito.
 - **C2.** A. No se puede cambiar con esfuerzo.
 - **C3.** A. Evita decidir con información falsa.

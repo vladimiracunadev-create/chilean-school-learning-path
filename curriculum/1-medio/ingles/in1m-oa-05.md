@@ -154,12 +154,12 @@ Respuesta: A) Good morning, Mrs Rojas. Thank you for your time.
 
 - **C1.** «Good morning, everyone. Today I will explain how to take care of a plant.» ¿Cuál es el propósito? A) explicar B) vender plantas
 - **C2.** «Let me tell you about the day I met a famous swimmer.» ¿Qué propósito tiene? A) contar una experiencia B) dar instrucciones
-- **C3.** Tienes dos minutos para presentar. ¿Cuántas ideas principales conviene preparar? A) diez B) dos o tres
+- **C3.** Tienes dos minutos para presentar. ¿Cuántas ideas principales conviene preparar? A) dos o tres B) siete u ocho
 
 *Aplicación*
 
 - **A1.** Hablarás en una reunión de madres, padres y apoderados. ¿Qué saludo eliges? A) Good evening, everyone. Thank you for coming. B) Hi, kids! Let's play!
-- **A2.** Tu propósito es mostrar tu proyecto de ciencias. ¿Qué frase usas al comienzo? A) I would like to buy a science project. B) I'd like to show you my science project.
+- **A2.** Tu propósito es mostrar tu proyecto de ciencias. ¿Qué frase usas al comienzo? A) I'd like to tell you a story. B) I'd like to show you my science project.
 - **A3.** Terminas una presentación para convencer. ¿Qué cierre es mejor? A) That's all, I forgot the rest. B) Please vote for the new recycling point. Thank you!
 
 *Razonamiento y análisis*
@@ -191,7 +191,7 @@ Respuesta: A) Good morning, Mrs Rojas. Thank you for your time.
 - **R3.** B) Rain is water that falls from the clouds.. Usa palabras que conocen y una idea simple.
 - **C1.** A) explicar. I will explain anuncia el propósito.
 - **C2.** A) contar una experiencia. Let me tell you about... introduce un relato.
-- **C3.** B) dos o tres. Con poco tiempo se explican pocas ideas con ejemplo.
+- **C3.** A) dos o tres. Con poco tiempo se explican pocas ideas con ejemplo.
 - **A1.** A) Good evening, everyone. Thank you for coming.. El saludo se adapta a una audiencia adulta.
 - **A2.** B) I'd like to show you my science project.. Show es mostrar y coincide con el propósito.
 - **A3.** B) Please vote for the new recycling point. Thank you!. Repite la petición y agradece.
@@ -566,30 +566,30 @@ Respuesta: A) Water – Light – Air
 
 *Recuperación*
 
-- **R1.** Quieres comparar cantidades. ¿Qué recurso eliges? A) una canción B) un gráfico de barras
+- **R1.** Quieres comparar cantidades. ¿Qué recurso eliges? A) un gráfico de barras B) una foto de un paisaje
 - **R2.** Quieres mostrar cómo es un casco de bicicleta. ¿Qué recurso eliges? A) una imagen o el objeto B) una lista de números
-- **R3.** Quieres indicar tres ideas con un gesto. ¿Qué haces? A) cruzar los brazos B) levantar tres dedos
+- **R3.** Quieres indicar tres ideas con un gesto. ¿Qué haces? A) levantar tres dedos B) abrir la mano completa
 
 *Comprensión*
 
 - **C1.** Una diapositiva tiene seis líneas largas de texto. ¿Qué es mejor? A) dejar solo tres palabras clave y explicar oralmente B) leerla completa
 - **C2.** Terminas una idea importante. ¿Qué haces con la voz? A) una pausa breve B) hablar más rápido
-- **C3.** «Never read the slide» significa que debes: A) explicar con tus palabras usando las palabras clave B) apagar el proyector
+- **C3.** «Never read the slide» significa que debes: A) no usar nunca diapositivas B) explicar con tus palabras usando las palabras clave
 
 *Aplicación*
 
 - **A1.** Quieres mostrar los pasos de un proceso en orden de tiempo. ¿Qué recurso sirve? A) una foto única B) una línea de tiempo
-- **A2.** Quieres expresar un contraste entre dos ideas. ¿Qué gesto ayuda? A) mostrar una mano para una idea y la otra mano para la segunda B) esconder las manos
+- **A2.** Quieres expresar un contraste entre dos ideas. ¿Qué gesto ayuda? A) mover las manos sin parar B) mostrar una mano para una idea y la otra mano para la segunda
 - **A3.** Presentas ante un grupo pequeño en una sala sin proyector. ¿Qué alternativa mantiene el apoyo visual? A) leer un texto largo B) un cartel de cartulina con imágenes y palabras clave
 
 *Razonamiento y análisis*
 
-- **Z1.** Una foto tiene letras tan pequeñas que no se leen desde el fondo. ¿Qué cambias? A) agregar más letras pequeñas B) hacerlas más grandes o dejar solo una palabra clave
+- **Z1.** Una foto tiene letras tan pequeñas que no se leen desde el fondo. ¿Qué cambias? A) hacerlas más grandes o dejar solo una palabra clave B) cambiar el color por uno más pálido
 - **Z2.** Un compañero pone en la diapositiva las mismas frases que dice y las lee a la misma velocidad. ¿Qué mejora? A) la diapositiva muestra palabras clave y él explica con sus palabras B) más texto en la diapositiva
 
 *Desafío*
 
-- **D1.** Datos de ejemplo de una encuesta a 24 estudiantes: ir a pie 10, bus 8, bicicleta 6. ¿Qué gráfico muestra mejor cómo llegan al colegio? A) uno con una sola barra enorme B) uno de barras con tres barras
+- **D1.** Datos de ejemplo de una encuesta a 24 estudiantes: ir a pie 10, bus 8, bicicleta 6. ¿Qué gráfico muestra mejor cómo llegan al colegio? A) uno de barras con tres barras B) una foto de estudiantes caminando
 - **D2.** En una charla sobre el reciclaje, el estudiante muestra un tarro de latas reales. ¿Qué cumple ese objeto? A) refuerza lo que dice, porque la audiencia ve de qué habla B) reemplaza la explicación
 
 *Situaciones auténticas*
@@ -606,18 +606,18 @@ Respuesta: A) Water – Light – Air
 
 **Solucionario razonado**
 
-- **R1.** B) un gráfico de barras. Muestra diferencias de tamaño con claridad.
+- **R1.** A) un gráfico de barras. Muestra diferencias de tamaño con claridad.
 - **R2.** A) una imagen o el objeto. Se ve su forma directamente.
-- **R3.** B) levantar tres dedos. El gesto coincide con la cantidad.
+- **R3.** A) levantar tres dedos. El gesto coincide con la cantidad.
 - **C1.** A) dejar solo tres palabras clave y explicar oralmente. El recurso refuerza; la explicación va en la voz.
 - **C2.** A) una pausa breve. La pausa da tiempo a la audiencia para procesar.
-- **C3.** A) explicar con tus palabras usando las palabras clave. La diapositiva es un apoyo, no un guion.
+- **C3.** B) explicar con tus palabras usando las palabras clave. La diapositiva es un apoyo, no un guion.
 - **A1.** B) una línea de tiempo. Muestra una secuencia de hechos.
-- **A2.** A) mostrar una mano para una idea y la otra mano para la segunda. El gesto separa visualmente las dos ideas.
+- **A2.** B) mostrar una mano para una idea y la otra mano para la segunda. El gesto separa visualmente las dos ideas.
 - **A3.** B) un cartel de cartulina con imágenes y palabras clave. Es un recurso visual sin tecnología.
-- **Z1.** B) hacerlas más grandes o dejar solo una palabra clave. El recurso debe verse desde el fondo.
+- **Z1.** A) hacerlas más grandes o dejar solo una palabra clave. El recurso debe verse desde el fondo.
 - **Z2.** A) la diapositiva muestra palabras clave y él explica con sus palabras. Así el recurso suma información en vez de repetirla.
-- **D1.** B) uno de barras con tres barras. Tres categorías comparables se muestran con tres barras.
+- **D1.** A) uno de barras con tres barras. Tres categorías comparables se muestran con tres barras.
 - **D2.** A) refuerza lo que dice, porque la audiencia ve de qué habla. Un objeto concreto apoya el mensaje.
 - **S1.** B) tres palabras clave en un cartel, tres dedos y una pausa tras cada idea. Combina palabra, gesto y voz para reforzar el mensaje.
 - **E1.** Un medio que refuerza el mensaje además de las palabras, como imagen, gráfico, gesto o voz. Refuerza, no reemplaza.
@@ -788,14 +788,14 @@ Respuesta: Young (/j/) e information (-tion)
 
 *Aplicación*
 
-- **A1.** Con las notas del book swap (A: «Dates: 3 to 7 June. Where: the library.» B: «You bring one book and take one book. No money.»), ¿qué frase para la presentación es correcta? A) The book swap costs a lot of money. B) The book swap is in the library from 3 to 7 June, and it is free.
+- **A1.** Con las notas del book swap (A: «Dates: 3 to 7 June. Where: the library.» B: «You bring one book and take one book. No money.»), ¿qué frase para la presentación es correcta? A) The book swap is in the library from 3 to 7 July, and it is free. B) The book swap is in the library from 3 to 7 June, and it is free.
 - **A2.** En «The young trainer drew a tree for the information desk», ¿cuántas palabras empiezan con /tr/? A) 3 B) 2
 - **A3.** Notas de A: «Show: robots. Day: Thursday.» Notas de B: «Place: lab two. Entry: free.» ¿Qué dato aporta B? A) el lugar y que la entrada es gratis B) el día de la muestra
 
 *Razonamiento y análisis*
 
-- **Z1.** Notas de A: «Project: school garden. Where: behind the gym.» Notas de B: «Plants: lettuce and tomatoes. Since: March.» ¿Qué frase junta los datos de ambos? A) The school garden is in the library. B) The school garden is behind the gym, and we have grown lettuce and tomatoes since March.
-- **Z2.** ¿Qué pregunta le haces a B si A no dijo cuántos son en el equipo? A) Where is the gym? B) How many students are in the team?
+- **Z1.** Notas de A: «Project: school garden. Where: behind the gym.» Notas de B: «Plants: lettuce and tomatoes. Since: March.» ¿Qué frase junta los datos de ambos? A) The school garden is behind the gym, and we have grown lettuce and tomatoes since March. B) The school garden is behind the gym, and we have grown lettuce and tomatoes since April.
+- **Z2.** ¿Qué pregunta le haces a B si A no dijo cuántos son en el equipo? A) How many students are in the team? B) Where is the school garden?
 
 *Desafío*
 
@@ -825,8 +825,8 @@ Respuesta: Young (/j/) e information (-tion)
 - **A1.** B) The book swap is in the library from 3 to 7 June, and it is free.. Junta lugar, fechas y no money de ambos compañeros.
 - **A2.** B) 2. Trainer y tree empiezan con /tr/; drew empieza con /dr/.
 - **A3.** A) el lugar y que la entrada es gratis. Place: lab two y Entry: free son de B.
-- **Z1.** B) The school garden is behind the gym, and we have grown lettuce and tomatoes since March.. Une lugar, plantas y fecha de inicio.
-- **Z2.** B) How many students are in the team?. How many pregunta por la cantidad.
+- **Z1.** A) The school garden is behind the gym, and we have grown lettuce and tomatoes since March.. Une lugar, plantas y fecha de inicio.
+- **Z2.** A) How many students are in the team?. How many pregunta por la cantidad.
 - **D1.** A) The meeting is on Friday at five o'clock.. Se usa on con el día y at con la hora.
 - **D2.** B) young (/j/) e information (-tion). Son las palabras con los sonidos trabajados en esta unidad.
 - **S1.** B) presentation e information. Ambas terminan en -tion /ʃən/.
@@ -999,7 +999,7 @@ Respuesta: Unas 200 palabras
 *Aplicación*
 
 - **A1.** Una presentación usa tres palabras clave en un cartel, habla claro, cumple el tiempo y no tiene conclusión. ¿Qué meta propones? A) usar más carteles B) agregar una conclusión que resuma la idea principal
-- **A2.** Un compañero te da este comentario: «Your idea is good, but add one example after each idea.» ¿Qué acción corresponde? A) quitar las ideas B) agregar un ejemplo después de cada idea
+- **A2.** Un compañero te da este comentario: «Your idea is good, but add one example after each idea.» ¿Qué acción corresponde? A) agregar una idea más a la presentación B) agregar un ejemplo después de cada idea
 - **A3.** Una presentación de ejemplo dura 2 minutos y tiene 200 palabras. ¿Cuántas palabras por minuto habla, en promedio?
 
 *Razonamiento y análisis*

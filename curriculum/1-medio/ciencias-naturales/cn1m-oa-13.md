@@ -587,7 +587,7 @@ Respuesta: Por su inercia
 
 *Desafío*
 
-- **D1.** ¿Cuántas veces es mayor la amplitud de un sismo de magnitud 9 que la de uno de magnitud 6?
+- **D1.** ¿Cuántas veces es mayor la amplitud de las ondas de un sismo de magnitud 8 que la de uno de magnitud 3?
 - **D2.** Tres estaciones calculan distancias al epicentro de 50 km, 80 km y 100 km. ¿Dónde está el epicentro?
 
 *Situaciones auténticas*
@@ -615,7 +615,7 @@ Respuesta: Por su inercia
 - **A3.** B. La intensidad depende del lugar, y lejos de la fuente es menor.
 - **Z1.** A. Cada unidad multiplica por 10; cuatro unidades dan 10 × 10 × 10 × 10.
 - **Z2.** La que registró 10 mm. La amplitud disminuye con la distancia.
-- **D1.** 1.000 veces. Hay 3 unidades de diferencia. Cálculo: 10 × 10 × 10 = 1.000.
+- **D1.** 100.000 veces. Hay 5 unidades de diferencia y cada una multiplica por 10. Cálculo: 10 × 10 × 10 × 10 × 10 = 100.000.
 - **D2.** En el punto donde se cruzan las tres circunferencias. Cada distancia da una circunferencia y solo un punto cumple las tres.
 - **S1.** 100 veces. Hay 2 unidades de diferencia. Cálculo: 10 × 10 = 100.
 - **E1.** El movimiento del suelo. El resultado es un sismograma.
@@ -994,7 +994,7 @@ Respuesta: Que una placa se hunde hacia el este
 
 *Aplicación*
 
-- **A1.** El radio de la Tierra es de unos 6.400 km y el manto llega a unos 2.900 km de profundidad (valores redondeados). ¿Cuál es el radio aproximado del núcleo completo?
+- **A1.** El radio de la Tierra es de unos 6.400 km y el manto llega a unos 2.900 km de profundidad (valores redondeados). ¿Cuál es el radio aproximado del núcleo completo (núcleo externo e interno juntos)?
 - **A2.** Profundidad de los hipocentros de ejemplo: costa, 10 km; 100 km al este, 60 km; 200 km al este, 110 km; 300 km al este, 160 km. ¿Cuántos kilómetros aumenta la profundidad por cada 100 km hacia el este?
 - **A3.** Las estaciones registran un cambio brusco en la rapidez de las ondas sísmicas a unos 2.900 km de profundidad. ¿Qué indica?
 

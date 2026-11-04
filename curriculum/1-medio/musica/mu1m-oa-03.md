@@ -143,7 +143,7 @@ Respuesta: Pierde las notas unidas (legato) y la voz suave
 
 *Recuperación*
 
-- **R1.** Estilo X (de ejemplo, canto de fiesta): notas cortas y separadas, 120 pulsos por minuto, voz abierta y fuerte, palmas marcando el pulso. Estilo Y (de ejemplo, balada): notas largas y unidas, 66 pulsos por minuto, voz suave, guitarra que acompaña. ¿Cuántos pulsos por minuto tiene el estilo X?
+- **R1.** Estilo X (de ejemplo, canto de fiesta): notas cortas y separadas, 120 pulsos por minuto, voz abierta y fuerte, palmas marcando el pulso. Estilo Y (de ejemplo, balada): notas largas y unidas, 66 pulsos por minuto, voz suave, guitarra que acompaña. Una canción usa palmas marcando el pulso y notas cortas y separadas. ¿Con qué estilo coincide: X o Y?
 - **R2.** Notas unidas y fluidas, sin cortes entre ellas: ¿legato o staccato?
 - **R3.** Notas cortas y separadas, con pequeños silencios entre ellas: ¿legato o staccato?
 
@@ -175,7 +175,7 @@ Respuesta: Pierde las notas unidas (legato) y la voz suave
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es el estilo de una música?
+- **E1.** En Música: ¿qué es el estilo de una pieza?
 - **E2.** ¿Qué articulación tiene notas unidas?
 - **E3.** ¿Qué significa «fraseo»?
 
@@ -183,7 +183,7 @@ Respuesta: Pierde las notas unidas (legato) y la voz suave
 
 **Solucionario razonado**
 
-- **R1.** 120. Así lo dice su ficha.
+- **R1.** X. Esos rasgos están en la ficha del estilo X.
 - **R2.** Legato. Legato significa sonidos unidos.
 - **R3.** Staccato. Staccato significa sonidos cortos y separados.
 - **C1.** B. La ficha de Y indica voz suave y guitarra de acompañamiento.
@@ -373,7 +373,7 @@ Respuesta: Acompaña marcando el pulso
 
 *Desafío*
 
-- **D1.** Coro de ejemplo de 20 personas: 8 sopranos (voz aguda), 5 contraltos (voz media-aguda), 4 tenores (voz media-grave) y el resto bajos (voz grave). En la pieza de ejemplo, la melodía principal la canta la voz 1; la voz 2 canta una segunda melodía más grave y la guitarra marca el pulso. Un coro de 20 personas se divide en dos grupos iguales para ensayar. ¿Cuántas personas hay en cada grupo?
+- **D1.** Coro de ejemplo de 20 personas: 8 sopranos (voz aguda), 5 contraltos (voz media-aguda), 4 tenores (voz media-grave) y el resto bajos (voz grave). En la pieza de ejemplo, la melodía principal la canta la voz 1; la voz 2 canta una segunda melodía más grave y la guitarra marca el pulso. ¿Cuántas personas cantan las voces más graves del coro (tenores y bajos)?
 - **D2.** Dos guitarristas deben tocar juntos una pieza. Uno toca la melodía y el otro la armonía. Para que la melodía se oiga, ¿quién baja el volumen? A) El que toca la armonía. B) El que toca la melodía.
 
 *Situaciones auténticas*
@@ -401,7 +401,7 @@ Respuesta: Acompaña marcando el pulso
 - **A3.** A. Entrar juntas exige mirarse y escucharse.
 - **Z1.** B. Expresividad también es equilibrio, no solo volumen.
 - **Z2.** 15 personas. Se restan las personas que faltan del total. Cálculo: 20 − 3 − 2 = 15.
-- **D1.** 10. Se reparten las 20 personas en dos grupos iguales.
+- **D1.** 7 personas. Hay 4 tenores y 3 bajos (20 − 8 − 5 − 4). Cálculo: 4 + 3 = 7.
 - **D2.** A. La armonía acompaña y no debe tapar la melodía.
 - **S1.** B. Una cuerda comparte la misma parte; los tenores son 4 en total y tú eres uno.
 - **E1.** La soprano. El orden de aguda a grave empieza por soprano.
@@ -557,7 +557,7 @@ Respuesta: 3 etapas
 
 *Recuperación*
 
-- **R1.** Plan de ejemplo de un ensayo de 30 minutos: 5 minutos de calentamiento; 20 minutos para la pieza dividida en 4 frases, con el mismo tiempo para cada frase; 5 minutos para unir todas las frases y anotar qué mejorar. ¿Cuántos minutos dura el ensayo completo?
+- **R1.** Plan de ejemplo de un ensayo de 30 minutos: 5 minutos de calentamiento; 20 minutos para la pieza dividida en 4 frases, con el mismo tiempo para cada frase; 5 minutos para unir todas las frases y anotar qué mejorar. ¿Cuántos minutos del ensayo se dedican a trabajar con la pieza completa unida, no por frases?
 - **R2.** Plan de ejemplo de un ensayo de 30 minutos: 5 minutos de calentamiento; 20 minutos para la pieza dividida en 4 frases, con el mismo tiempo para cada frase; 5 minutos para unir todas las frases y anotar qué mejorar. ¿Para qué sirven los 5 minutos finales?
 - **R3.** ¿Cuál acción cumple un compromiso con el grupo? A) Llegar tarde y pedir que repitan todo para mí. B) Llegar a tiempo al ensayo sabiendo mi parte.
 
@@ -589,15 +589,15 @@ Respuesta: 3 etapas
 
 *Autoevaluación*
 
-- **E1.** ¿Cuántos minutos se dedican a cada frase en el plan de ejemplo?
-- **E2.** ¿Qué se hace antes de ensayar: calentar o gritar?
+- **E1.** Otro plan de ejemplo dura 40 minutos: 5 de calentamiento, 30 para 5 frases con el mismo tiempo cada una y 5 de unión final. ¿Cuántos minutos se dedican a cada frase?
+- **E2.** Una frase sale mal dentro de la pieza completa. ¿Qué conviene: ensayarla aislada y más lenta, o repetir toda la pieza sin parar?
 - **E3.** ¿Qué es una meta de ensayo?
 
 **Actividad abierta.** Planifica un ensayo de 30 minutos para esta pieza de ejemplo: «una canción de 3 frases, cada frase de 4 compases». Escribe: a) el reparto de minutos (calentamiento, cada frase, unión final), b) el tempo con que empiezas y los pasos de subida (por ejemplo, de 60 a 80), c) una meta para el siguiente ensayo, d) un compromiso que cumplirás con el grupo.
 
 **Solucionario razonado**
 
-- **R1.** 30. Así lo indica el plan de ejemplo.
+- **R1.** 5. Solo los 5 minutos finales unen todas las frases.
 - **R2.** Para unir las frases y anotar qué mejorar. Así lo dice el plan.
 - **R3.** B. El compromiso es cumplir lo que se acordó con el grupo.
 - **C1.** A. Con un tempo cómodo se aprende bien la frase y luego se sube.
@@ -611,8 +611,8 @@ Respuesta: 3 etapas
 - **D1.** 12. Son 3 repeticiones por 4 etapas.
 - **D2.** 3 etapas. Se divide la diferencia entre el tamaño de cada subida. Cálculo: (120 − 60) ÷ 20 = 3.
 - **S1.** A. Avisar y colaborar es parte de cumplir con el grupo.
-- **E1.** 5. 20 minutos divididos entre 4 frases.
-- **E2.** Calentar. Es la preparación del cuerpo o la voz.
+- **E1.** 6. Se dividen los 30 minutos entre las 5 frases.
+- **E2.** Aislada y más lenta. Así se corrige el error sin repetirlo.
 - **E3.** Un objetivo concreto que se quiere lograr. Orienta el siguiente ensayo.
 
 **Actividad abierta · ejemplo de respuesta.** a) 5 minutos de calentamiento, 6 minutos para cada una de las 3 frases (18), 7 minutos para unir y anotar. b) Empiezo a 60 y subo a 70 y 80 cuando la frase sale bien tres veces seguidas. c) Cantar la frase 2 sin errores a 80. d) Llegar a tiempo y saber mi parte.
@@ -765,7 +765,7 @@ Respuesta: Que el pulso se mantuvo aunque hubo un error de nota
 *Recuperación*
 
 - **R1.** Pauta de ejemplo (cada criterio vale de 0 a 2 puntos): 1) pulso estable; 2) entrada en el momento justo; 3) estilo respetado (articulación y volumen); 4) expresividad: transmite el propósito de la pieza; 5) compromiso: ensayó según el plan. ¿Cuántos criterios tiene la pauta?
-- **R2.** Pauta de ejemplo (cada criterio vale de 0 a 2 puntos): 1) pulso estable; 2) entrada en el momento justo; 3) estilo respetado (articulación y volumen); 4) expresividad: transmite el propósito de la pieza; 5) compromiso: ensayó según el plan. ¿Cuál es el puntaje máximo de un criterio?
+- **R2.** Pauta de ejemplo (cada criterio vale de 0 a 2 puntos): 1) pulso estable; 2) entrada en el momento justo; 3) estilo respetado (articulación y volumen); 4) expresividad: transmite el propósito de la pieza; 5) compromiso: ensayó según el plan. ¿Qué criterio revisa si el grupo ensayó según su plan?
 - **R3.** Una persona se equivoca en una nota durante una presentación. ¿Qué hace el grupo: sigue con calma o se detiene a empezar de nuevo?
 
 *Comprensión*
@@ -782,7 +782,7 @@ Respuesta: Que el pulso se mantuvo aunque hubo un error de nota
 
 *Razonamiento y análisis*
 
-- **Z1.** Pauta de ejemplo (cada criterio vale de 0 a 2 puntos): 1) pulso estable; 2) entrada en el momento justo; 3) estilo respetado (articulación y volumen); 4) expresividad: transmite el propósito de la pieza; 5) compromiso: ensayó según el plan. Un grupo sacó 8 puntos de 10 en una presentación y 5 puntos de 10 en otra. ¿Cuántos puntos subió?
+- **Z1.** Pauta de ejemplo (cada criterio vale de 0 a 2 puntos): 1) pulso estable; 2) entrada en el momento justo; 3) estilo respetado (articulación y volumen); 4) expresividad: transmite el propósito de la pieza; 5) compromiso: ensayó según el plan. Un grupo sacó 5 puntos de 10 en su primera presentación y 8 puntos de 10 en la segunda. ¿Cuántos puntos subió?
 - **Z2.** Una compañera dice «yo sé que nunca voy a cantar bien». ¿Qué respuesta ayuda más? A) Decirle que algunas personas no tienen talento para la música. B) Mirar la pauta, elegir un criterio con evidencia y proponer una mejora concreta.
 
 *Desafío*
@@ -805,7 +805,7 @@ Respuesta: Que el pulso se mantuvo aunque hubo un error de nota
 **Solucionario razonado**
 
 - **R1.** 5. Están numerados del 1 al 5.
-- **R2.** 2. Cada criterio vale de 0 a 2 puntos.
+- **R2.** Compromiso. El criterio 5 trata del ensayo según el plan.
 - **R3.** Sigue con calma. Seguir mantiene el pulso y el propósito de la pieza.
 - **C1.** A. La evidencia permite comprobar el puntaje.
 - **C2.** A. La articulación y la voz no corresponden al estilo.

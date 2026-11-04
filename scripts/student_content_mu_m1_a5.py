@@ -113,7 +113,7 @@ L(
     ],
     [
         ex("Una profesora pide una música que represente una despedida. Un grupo propone un ritmo muy rápido y estruendoso. Otro grupo propone sonidos lentos y suaves con pausas. ¿Cuál sugiere mejor una despedida emotiva? A) El segundo grupo. B) El primero.", "A", "Lo lento y suave con pausas transmite emoción tranquila."),
-        arith("Un grupo de 5 estudiantes crea una escena de 4 tramos y cada estudiante hace sonidos en 2 tramos distintos. ¿Cuántos «turnos» de sonido hay en total?", "5*2", "Se multiplican los estudiantes por los tramos de cada uno.", " turnos"),
+        arith("Una escena de ejemplo tiene 4 tramos de 8 pulsos cada uno y se toca a 96 pulsos por minuto. ¿Cuántos segundos dura?", "4*8*60//96", "Hay 32 pulsos; a 96 por minuto, 32 × 60 ÷ 96 = 20.", " segundos"),
     ],
     [ex(f"{IDEAS}. Te piden música para una escena escolar de un día de lluvia que termina con sol. ¿Qué decisión representa el final? A) Sonidos suaves y largos al final. B) Golpes cortos y fuertes al final.", "A", "El final es calmado: la lluvia cesa y se aquieta.")],
     [ex("¿Una historia es una idea musical o extramusical?", "Extramusical", "Viene de fuera de la música."), ex("¿Qué se hace primero: la idea o los sonidos?", "La idea", "La idea guía las decisiones."), ex("¿Cómo justificas una decisión?", "Con una razón, usando «porque»", "Se explica la relación con la idea.")],
@@ -270,7 +270,7 @@ L(
         ("Compartir una grabación sin permiso.", "Se necesita el acuerdo de todas las personas grabadas.", "Pide permiso y explica para qué será."),
     ],
     [
-        ex(f"{VER}. ¿Cuántas notas tiene la versión 1?", "12", "Así lo indica la ficha."),
+        arith(f"{VER}. ¿Cuántas notas más tiene la versión 2 que la versión 1?", "14-12", "Se restan las notas de la versión 1 a las de la 2.", " notas"),
         ex(f"{VER}. ¿A cuántos pulsos por minuto se toca la versión 2?", "96", "Así lo indica la ficha."),
         ex("¿Qué se necesita antes de grabar a un grupo?", "El permiso de todas las personas", "Es una norma de respeto."),
     ],

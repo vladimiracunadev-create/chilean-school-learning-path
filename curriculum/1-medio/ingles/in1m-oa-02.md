@@ -152,7 +152,7 @@ Respuesta: Take a break y make a cup of tea
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Before the school play, Ana says to Ben: Break a leg! Ben smiles and says: Thanks, I have learned my lines.» (school play = obra de teatro del colegio, break a leg = frase para desear buena suerte, lines = diálogos) ¿Qué le desea Ana a Ben con Break a leg? A) buena suerte B) que se lastime
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Before the school play, Ana says to Ben: Break a leg! Ben smiles and says: Thanks, I have learned my lines.» (school play = obra de teatro del colegio, break a leg = frase para desear buena suerte, lines = diálogos) ¿Qué le desea Ana a Ben con Break a leg? A) que tenga cuidado de no caerse en el escenario B) buena suerte
 - **C2.** Un adulto lee en voz alta (tapa el guion): «It was raining cats and dogs, so we stayed at home. We made popcorn, watched a film and had a good time.» (raining cats and dogs = llover muchísimo, stayed = nos quedamos, popcorn = cabritas, film = película) ¿Cómo estaba el tiempo? A) llovía muchísimo B) había animales en la calle
 - **C3.** Un adulto lee en voz alta (tapa el guion): «I go to the cinema once in a blue moon, because I prefer to watch films at home.» (cinema = cine, once in a blue moon = muy rara vez, prefer = prefiero) ¿Con qué frecuencia va al cine? A) todas las noches de luna llena B) muy rara vez
 
@@ -160,7 +160,7 @@ Respuesta: Take a break y make a cup of tea
 
 - **A1.** Un adulto lee en voz alta (tapa el guion): «We made a plan for the weekend, did our homework and had a good time.» (plan = plan, weekend = fin de semana). Anota las tres collocations en el orden en que aparecen.
 - **A2.** Alguien te dice «Nice to meet you». ¿Qué respuesta habitual da otra persona? A) Nice to meet you too. B) You're welcome.
-- **A3.** Un amigo dice «Why don't we study together?». ¿Qué función cumple? A) hace una sugerencia B) cuenta algo que pasó ayer
+- **A3.** Un amigo dice «Why don't we study together?». ¿Qué función cumple? A) hace una sugerencia B) pregunta por qué no estudian juntos
 
 *Razonamiento y análisis*
 
@@ -189,7 +189,7 @@ Respuesta: Take a break y make a cup of tea
 - **R1.** B) make. Se dice make a decision.
 - **R2.** B) take. La combinación habitual es take a photo.
 - **R3.** A) Pay. La combinación habitual es pay attention.
-- **C1.** A) buena suerte. Break a leg es una expresión idiomática que desea suerte antes de actuar.
+- **C1.** B) buena suerte. Break a leg es una expresión idiomática que desea suerte antes de actuar.
 - **C2.** A) llovía muchísimo. Raining cats and dogs es una expresión idiomática para lluvia fuerte.
 - **C3.** B) muy rara vez. Once in a blue moon significa casi nunca.
 - **A1.** made a plan, did our homework, had a good time. Son tres combinaciones habituales: make a plan, do homework, have a good time.
@@ -363,13 +363,13 @@ Respuesta: Ana y Julia; practican para cantar bien en el concierto
 *Comprensión*
 
 - **C1.** Un adulto lee en voz alta (tapa el guion): «I started my morning with a quick walk. Later I studied for an hour, and last I called my grandmother. Although I was tired, I felt happy.» (quick = corta, studied = estudié, called = llamé, grandmother = abuela, tired = cansado, felt = me sentí) ¿Qué hizo por último? A) llamó a su abuela B) salió a caminar
-- **C2.** Un adulto lee en voz alta (tapa el guion): «I started my morning with a quick walk. Later I studied for an hour, and last I called my grandmother. Although I was tired, I felt happy.» (quick = corta, studied = estudié, called = llamé, grandmother = abuela, tired = cansado, felt = me sentí) ¿Cómo se sentía a pesar del cansancio? A) enojada B) feliz
-- **C3.** Un adulto lee en voz alta (tapa el guion): «My brother saves money so that he can buy a laptop. Although the laptop is expensive, he is not worried. Both my parents and I help him with small jobs.» (saves = ahorra, laptop = computador portátil, expensive = caro, worried = preocupado, jobs = trabajitos) ¿Para qué ahorra el hermano? A) para comprar un computador B) para viajar
+- **C2.** Un adulto lee en voz alta (tapa el guion): «I started my morning with a quick walk. Later I studied for an hour, and last I called my grandmother. Although I was tired, I felt happy.» (quick = corta, studied = estudié, called = llamé, grandmother = abuela, tired = cansado, felt = me sentí) ¿Cómo se sentía a pesar del cansancio? A) feliz B) tan cansado que no pudo disfrutar el día
+- **C3.** Un adulto lee en voz alta (tapa el guion): «My brother saves money so that he can buy a laptop. Although the laptop is expensive, he is not worried. Both my parents and I help him with small jobs.» (saves = ahorra, laptop = computador portátil, expensive = caro, worried = preocupado, jobs = trabajitos) ¿Para qué ahorra el hermano? A) para ayudar a sus padres con los trabajitos B) para comprar un computador
 
 *Aplicación*
 
 - **A1.** Un adulto lee en voz alta (tapa el guion): «Marta and Tomás are both volunteers. They collect food so that families can eat well. Last Saturday, they worked for six hours, although it rained all day.» (volunteers = voluntarios, collect = recolectan, food = comida, families = familias, rained = llovió, all day = todo el día) ¿Para qué recogen comida? A) para vender en la feria B) para que las familias coman bien
-- **A2.** Un adulto lee en voz alta (tapa el guion): «The film was long, although it was exciting. Later, we ate pizza. Both of us loved the ending.» (film = película, exciting = emocionante, ending = final) ¿Qué contraste hay en la película? A) era larga pero emocionante B) era corta y aburrida
+- **A2.** Un adulto lee en voz alta (tapa el guion): «The film was long, although it was exciting. Later, we ate pizza. Both of us loved the ending.» (film = película, exciting = emocionante, ending = final) ¿Qué contraste hay en la película? A) era larga pero emocionante B) era emocionante y por eso larga
 - **A3.** Un adulto lee en voz alta (tapa el guion): «Marta and Tomás are both volunteers. They collect food so that families can eat well. Last Saturday, they worked for six hours, although it rained all day.» (volunteers = voluntarios, collect = recolectan, food = comida, families = familias, rained = llovió, all day = todo el día) ¿Quiénes son voluntarios? A) solo Marta B) Marta y Tomás
 
 *Razonamiento y análisis*
@@ -384,7 +384,7 @@ Respuesta: Ana y Julia; practican para cantar bien en el concierto
 
 *Situaciones auténticas*
 
-- **S1.** Un adulto lee en voz alta (tapa el guion): «Hi Dani. Although the bus is slow, I will be there at six. Later we can have dinner together.» (slow = lento, dinner = cena, together = juntos) ¿Qué podrán hacer más tarde? A) cenar juntos B) tomar el bus lento
+- **S1.** Un adulto lee en voz alta (tapa el guion): «Hi Dani. Although the bus is slow, I will be there at six. Later we can have dinner together.» (slow = lento, dinner = cena, together = juntos) ¿Qué podrán hacer más tarde? A) cenar juntos B) llegar a las seis
 
 *Autoevaluación*
 
@@ -400,8 +400,8 @@ Respuesta: Ana y Julia; practican para cantar bien en el concierto
 - **R2.** A) que fue la última acción. Last cierra la secuencia.
 - **R3.** A) para que (propósito). Introduce el propósito de ahorrar.
 - **C1.** A) llamó a su abuela. Last I called my grandmother marca la última acción.
-- **C2.** B) feliz. Although I was tired, I felt happy: contraste entre cansancio y alegría.
-- **C3.** A) para comprar un computador. Saves money so that he can buy a laptop.
+- **C2.** A) feliz. Although I was tired, I felt happy: contraste entre cansancio y alegría.
+- **C3.** B) para comprar un computador. Saves money so that he can buy a laptop.
 - **A1.** B) para que las familias coman bien. So that families can eat well expresa el propósito.
 - **A2.** A) era larga pero emocionante. The film was long, although it was exciting.
 - **A3.** B) Marta y Tomás. Both significa ambos: Marta and Tomás are both volunteers.
@@ -518,7 +518,7 @@ Respuesta: Ana y Julia; practican para cantar bien en el concierto
 
 **Explicación.**
 
-En inglés, la duración de la vocal cambia el significado. La vocal larga se escribe /iː/ y suena más alargada y tensa, como en feet (pies), seat (asiento), sheep (oveja), leave (irse) y cheap (barato). La vocal corta se escribe /ɪ/ y es breve y relajada, como en fit (calzar), sit (sentarse), ship (barco), live (vivir) y chip (papa frita o fichita). En español solo tenemos una i, por eso cuesta oír la diferencia.
+En inglés, la duración de la vocal cambia el significado. La vocal larga se escribe /iː/ y suena más alargada y tensa, como en feet (pies), seat (asiento), sheep (oveja), leave (irse), heat (calor) y cheap (barato). La vocal corta se escribe /ɪ/ y es breve y relajada, como en fit (calzar), sit (sentarse), ship (barco), live (vivir), hit (golpear) y chip (papa frita o fichita). En español solo tenemos una i, por eso cuesta oír la diferencia.
 
 Ocurre algo parecido con /uː/ y /ʊ/. La vocal larga está en pool (piscina), fool (tonto), food (comida) y Luke; la vocal corta está en pull (tirar), full (lleno), foot (pie) y look (mirar). La escritura ayuda, pero no es una regla: ee y ea suelen dar la vocal larga, como en green y beach, y la i sola suele dar la corta, como en grin y fit.
 
@@ -589,8 +589,8 @@ Respuesta: Ship (vocal corta)
 
 *Desafío*
 
-- **D1.** Eva dice «Where is the pool?» y Sam entiende «Where is the pull?». ¿Qué malentendido ocurrió? A) se oyó una vocal corta en lugar de la larga de pool B) Eva no conocía la ciudad
-- **D2.** Un cartel en el verano dice «Keep away from the heat». ¿Qué significa heat? A) golpe B) calor
+- **D1.** Eva dice «Where is the pool?» y Sam entiende «Where is the pull?». ¿Qué malentendido ocurrió? A) Eva cambió la consonante final de pool B) se oyó una vocal corta en lugar de la larga de pool
+- **D2.** Un cartel en el verano dice «Keep away from the heat» (keep away = mantente lejos). ¿Qué significa heat? A) golpe B) calor
 
 *Situaciones auténticas*
 
@@ -617,7 +617,7 @@ Respuesta: Ship (vocal corta)
 - **A3.** A) pool. Pool, con vocal larga, es piscina; pull es tirar.
 - **Z1.** B) la longitud de la vocal. Leave tiene /iː/ y live tiene /ɪ/; la consonante final es la misma.
 - **Z2.** B) pronunció la vocal larga de green como corta. Green tiene /iː/; grin tiene /ɪ/; las demás letras son iguales.
-- **D1.** A) se oyó una vocal corta en lugar de la larga de pool. Pool tiene /uː/ y pull tiene /ʊ/.
+- **D1.** B) se oyó una vocal corta en lugar de la larga de pool. Pool tiene /uː/ y pull tiene /ʊ/.
 - **D2.** B) calor. Heat, con vocal larga, es calor; hit, con vocal corta, es golpe.
 - **S1.** A) cheap. Cheap tiene /iː/; chips tiene /ɪ/.
 - **E1.** Dos palabras que se diferencian solo por un sonido, como sheep y ship. Sirve para practicar un contraste de sonidos.
@@ -794,7 +794,7 @@ Respuesta: Sí, empieza con /j/
 
 *Razonamiento y análisis*
 
-- **Z1.** Alguien dice «I want to dry this idea» y otro entiende «I want to try this idea». ¿Qué cambió? A) la vocal final B) la primera consonante
+- **Z1.** Alguien dice «I want to try this shirt» y otro entiende «I want to dry this shirt». ¿Qué cambió? A) la primera consonante B) la vocal final
 - **Z2.** En la frase «Yesterday, the young driver drank orange juice and drew a tree», ¿cuántas palabras empiezan con /dr/? A) 3 B) 1
 
 *Desafío*
@@ -825,7 +825,7 @@ Respuesta: Sí, empieza con /j/
 - **A1.** 2 (tree y truck). Draw y dress empiezan con /dr/; page no tiene ese grupo.
 - **A2.** B) try. Try es probar; dry es secar.
 - **A3.** train, true. Train y true empiezan con /tr/.
-- **Z1.** B) la primera consonante. Dry empieza con d y try con t; el resto es igual.
+- **Z1.** A) la primera consonante. Dry empieza con d y try con t; el resto es igual.
 - **Z2.** A) 3. Driver, drank y drew empiezan con /dr/.
 - **D1.** Yesterday y young. Juice empieza con otro sonido, no con /j/.
 - **D2.** yellow, young, yoga. Jam no empieza con /j/; las otras sí.
@@ -1000,11 +1000,11 @@ Respuesta: La segunda sílaba: va-CA-tion
 
 - **A1.** En «Excuse me, where is the train station? I need some information about vacation tickets», ¿cuántas palabras terminan en -tion?
 - **A2.** Escribe en inglés la palabra para «conversación».
-- **A3.** ¿Cuál de estas palabras no termina en -tion? A) vacation B) vacant
+- **A3.** ¿Cuál de estas palabras NO termina con el sonido /ʃən/? A) station B) question
 
 *Razonamiento y análisis*
 
-- **Z1.** Un amigo dice que education se dice con una t fuerte como en español. ¿Qué le corriges? A) que la t se dice como d B) que termina en /ʃən/ y la fuerza cae antes de -tion
+- **Z1.** Un amigo dice que education se dice con una t fuerte como en español. ¿Qué le corriges? A) que termina en /ʃən/ y la fuerza cae antes de -tion B) que se dice ti-on, en dos sílabas
 - **Z2.** Alguien lee vacation como VA-ca-tion. ¿Qué cambia si lo dice bien? A) pone la fuerza en la segunda sílaba: va-CA-tion B) pone la fuerza en tion
 
 *Desafío*
@@ -1034,8 +1034,8 @@ Respuesta: La segunda sílaba: va-CA-tion
 - **C3.** A) -ca-. Es ed-u-CA-tion, con la fuerza antes de -tion.
 - **A1.** 3 (station, information y vacation). Cada una termina en -tion.
 - **A2.** conversation. Cambia -ción por -tion: conversation.
-- **A3.** B) vacant. Vacant termina en -ant; vacation termina en -tion.
-- **Z1.** B) que termina en /ʃən/ y la fuerza cae antes de -tion. En education el final es /ʃən/ y se acentúa -ca-.
+- **A3.** B) question. Question es la excepción: termina en /tʃən/; station termina en /ʃən/.
+- **Z1.** A) que termina en /ʃən/ y la fuerza cae antes de -tion. En education el final es /ʃən/ y se acentúa -ca-.
 - **Z2.** A) pone la fuerza en la segunda sílaba: va-CA-tion. La fuerza cae justo antes de -tion.
 - **D1.** vacation, station, information. Las tres terminan en -tion.
 - **D2.** year y young. Son las dos únicas con /j/ inicial.

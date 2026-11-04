@@ -360,7 +360,7 @@ Respuesta: No: se avisa a un adulto
 *Aplicación*
 
 - **A1.** Clasifica con D (derecho) o L (límite cruzado): 1) Javiera pide ser escuchada; 2) Matías amenaza con publicar una foto; 3) Javiera propone buscar un acuerdo. Escribe las letras en orden.
-- **A2.** Dos estudiantes discuten por turnos de la cancha. Uno dice «tengo derecho a jugar tanto como tú». ¿Qué principio usa? A) Igualdad B) Privacidad.
+- **A2.** Dos estudiantes discuten por turnos de la cancha. Uno dice «tengo derecho a jugar tanto como tú». ¿Qué principio usa? A) Que ambos tienen el mismo derecho B) Que la privacidad se protege.
 - **A3.** Marta quiere decir lo que piensa de la propuesta de un compañero. ¿Cuál es respetuoso? A) «No creo que alcance el tiempo; propongo otra opción.» B) «Tu idea es una porquería.»
 
 *Razonamiento y análisis*

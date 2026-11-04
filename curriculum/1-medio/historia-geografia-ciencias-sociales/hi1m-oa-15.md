@@ -155,8 +155,8 @@ Respuesta: Porque hubo otras causas además del salitre
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1874, tratado de límites entre Chile y Bolivia, que fija la frontera en el paralelo 24; 1878, Bolivia crea un impuesto a las exportaciones de una empresa chilena de salitre; 14 de febrero de 1879, tropas chilenas ocupan Antofagasta; 5 de abril de 1879, Chile declara la guerra a Bolivia y a Perú; 21 de mayo de 1879, combate naval de Iquique; 8 de octubre de 1879, combate naval de Angamos; 7 de junio de 1880, toma del Morro de Arica; enero de 1881, ocupación de Lima; 1883, tratado de Ancón con Perú; 1884, pacto de tregua con Bolivia. ¿Cuántos años pasaron entre la declaración de guerra de 1879 y el tratado de Ancón?
-- **A2.** Línea de tiempo: 1874, tratado de límites entre Chile y Bolivia, que fija la frontera en el paralelo 24; 1878, Bolivia crea un impuesto a las exportaciones de una empresa chilena de salitre; 14 de febrero de 1879, tropas chilenas ocupan Antofagasta; 5 de abril de 1879, Chile declara la guerra a Bolivia y a Perú; 21 de mayo de 1879, combate naval de Iquique; 8 de octubre de 1879, combate naval de Angamos; 7 de junio de 1880, toma del Morro de Arica; enero de 1881, ocupación de Lima; 1883, tratado de Ancón con Perú; 1884, pacto de tregua con Bolivia. ¿Cuántos años pasaron entre el impuesto boliviano de 1878 y el pacto de tregua con Bolivia?
+- **A1.** Línea de tiempo: 1874, tratado de límites entre Chile y Bolivia, que fija la frontera en el paralelo 24; 1878, Bolivia crea un impuesto a las exportaciones de una empresa chilena de salitre; 14 de febrero de 1879, tropas chilenas ocupan Antofagasta; 5 de abril de 1879, Chile declara la guerra a Bolivia y a Perú; 21 de mayo de 1879, combate naval de Iquique; 8 de octubre de 1879, combate naval de Angamos; 7 de junio de 1880, toma del Morro de Arica; enero de 1881, ocupación de Lima; 1883, tratado de Ancón con Perú; 1884, pacto de tregua con Bolivia. Ordena de más antiguo a más reciente: combate naval de Angamos, ocupación de Antofagasta, tratado de Ancón y toma del Morro de Arica.
+- **A2.** Línea de tiempo: 1874, tratado de límites entre Chile y Bolivia, que fija la frontera en el paralelo 24; 1878, Bolivia crea un impuesto a las exportaciones de una empresa chilena de salitre; 14 de febrero de 1879, tropas chilenas ocupan Antofagasta; 5 de abril de 1879, Chile declara la guerra a Bolivia y a Perú; 21 de mayo de 1879, combate naval de Iquique; 8 de octubre de 1879, combate naval de Angamos; 7 de junio de 1880, toma del Morro de Arica; enero de 1881, ocupación de Lima; 1883, tratado de Ancón con Perú; 1884, pacto de tregua con Bolivia. ¿Qué hecho de 1878 hizo que Chile considerara roto el tratado de 1874?
 - **A3.** Línea de tiempo: 1874, tratado de límites entre Chile y Bolivia, que fija la frontera en el paralelo 24; 1878, Bolivia crea un impuesto a las exportaciones de una empresa chilena de salitre; 14 de febrero de 1879, tropas chilenas ocupan Antofagasta; 5 de abril de 1879, Chile declara la guerra a Bolivia y a Perú; 21 de mayo de 1879, combate naval de Iquique; 8 de octubre de 1879, combate naval de Angamos; 7 de junio de 1880, toma del Morro de Arica; enero de 1881, ocupación de Lima; 1883, tratado de Ancón con Perú; 1884, pacto de tregua con Bolivia. Una compañera dice: «La guerra empezó porque Chile y Perú se declararon la guerra en 1874». ¿Qué corrección haces con la línea?
 
 *Razonamiento y análisis*
@@ -189,8 +189,8 @@ Respuesta: Porque hubo otras causas además del salitre
 - **C1.** Un acuerdo entre países para ayudarse en caso de guerra. Perú y Bolivia estaban aliados.
 - **C2.** B. La línea lo indica.
 - **C3.** 1-b, 2-c, 3-a. Cada país tuvo un papel distinto.
-- **A1.** 4. Se restan ambas fechas. Cálculo: 1883 − 1879 = 4.
-- **A2.** 6. Se restan las dos fechas de la línea. Cálculo: 1884 − 1878 = 6.
+- **A1.** Ocupación de Antofagasta, combate de Angamos, toma del Morro de Arica, tratado de Ancón. Se ordenan por sus fechas: febrero de 1879, octubre de 1879, junio de 1880 y 1883.
+- **A2.** Que Bolivia creó un impuesto a las exportaciones de una empresa chilena de salitre. El tratado limitaba los impuestos a las empresas chilenas.
 - **A3.** En 1874 hubo un tratado con Bolivia; la guerra se declaró en 1879. Mezcla fechas y países.
 - **Z1.** Iquique (21 de mayo de 1879) y Angamos (8 de octubre de 1879). La línea los menciona.
 - **Z2.** Porque ocurrió en una zona con grandes depósitos de salitre que se exportaba a los mercados del mundo y había impuestos y empresas en disputa. El recurso y sus impuestos estaban en el centro.
@@ -363,7 +363,7 @@ Respuesta: 50.000 toneladas
 
 *Aplicación*
 
-- **A1.** En otra tabla de ejemplo, el salitre exportado pasó de 80.000 a 120.000 toneladas. ¿Cuántas toneladas aumentó?
+- **A1.** Fuente A (cláusula de tratado, texto de ejemplo): «Los impuestos a las empresas de la otra parte no se aumentarán durante veinticinco años.» Fuente B (proclama oficial chilena, texto de ejemplo): «Chile defiende sus derechos y la libertad del comercio en el desierto.» Fuente C (carta de un soldado, texto de ejemplo): «Hemos marchado por arenales sin agua; la sed pesa más que el fusil.» Fuente D (periódico peruano, texto de ejemplo): «El país se prepara para defender su territorio y sus recursos.» Fuente E (tabla de ejemplo): el salitre exportado pasó de 100.000 toneladas en un año a 150.000 toneladas cinco años después. ¿Qué muestra la Fuente E sobre el salitre exportado y qué no dice?
 - **A2.** Fuente A (cláusula de tratado, texto de ejemplo): «Los impuestos a las empresas de la otra parte no se aumentarán durante veinticinco años.» Fuente B (proclama oficial chilena, texto de ejemplo): «Chile defiende sus derechos y la libertad del comercio en el desierto.» Fuente C (carta de un soldado, texto de ejemplo): «Hemos marchado por arenales sin agua; la sed pesa más que el fusil.» Fuente D (periódico peruano, texto de ejemplo): «El país se prepara para defender su territorio y sus recursos.» Fuente E (tabla de ejemplo): el salitre exportado pasó de 100.000 toneladas en un año a 150.000 toneladas cinco años después. ¿Qué porcentaje aumentó el salitre exportado entre las dos cifras de la Fuente E?
 - **A3.** Fuente A (cláusula de tratado, texto de ejemplo): «Los impuestos a las empresas de la otra parte no se aumentarán durante veinticinco años.» Fuente B (proclama oficial chilena, texto de ejemplo): «Chile defiende sus derechos y la libertad del comercio en el desierto.» Fuente C (carta de un soldado, texto de ejemplo): «Hemos marchado por arenales sin agua; la sed pesa más que el fusil.» Fuente D (periódico peruano, texto de ejemplo): «El país se prepara para defender su territorio y sus recursos.» Fuente E (tabla de ejemplo): el salitre exportado pasó de 100.000 toneladas en un año a 150.000 toneladas cinco años después. ¿Qué fuente aporta la experiencia personal de la guerra? A) la A, B) la E, C) la C.
 
@@ -397,7 +397,7 @@ Respuesta: 50.000 toneladas
 - **C1.** La sed. La carta lo dice.
 - **C2.** B. El enunciado de la fuente indica periódico peruano.
 - **C3.** Una proclama justifica y motiva; no prueba las causas reales del conflicto. Tiene propósito político.
-- **A1.** 40.000. Se resta la cifra inicial de la final. Cálculo: 120000 − 80000 = 40.000.
+- **A1.** Que aumentó de 100.000 a 150.000 toneladas; no dice quién se benefició. La tabla da cantidades, no beneficiarios.
 - **A2.** 50. Se divide el aumento entre la cifra inicial. Cálculo: (150000 − 100000) × 100 ÷ 100000 = 50.
 - **A3.** C. La carta de un soldado es un testimonio.
 - **Z1.** Porque cada país presenta la guerra desde su perspectiva y contrastarlas da una visión más completa. La contrastación reduce el sesgo.
@@ -571,8 +571,8 @@ Respuesta: Nacional: territorio e ingresos; local: costos para las familias
 
 *Aplicación*
 
-- **A1.** Un regimiento de ejemplo salió con 900 hombres y regresó con 640. ¿Cuántos no regresaron?
-- **A2.** El Estado recibía 4 millones de pesos de ejemplo por impuestos antes de la guerra y 10 millones después. ¿Cuántos millones más recibe?
+- **A1.** Explica por qué el reclutamiento de miles de hombres es un cambio social y no territorial.
+- **A2.** Cuadro de ejemplo. Cambio: Chile incorporó las provincias de Tarapacá y Antofagasta, ricas en salitre; Bolivia quedó sin costa marítima; el Estado aumentó sus ingresos por los impuestos a la exportación de salitre; miles de hombres fueron reclutados y volvieron muchos heridos; mujeres colaboraron como cantineras y enfermeras; crecieron las ciudades del norte. Continuidad: el desierto seguía siendo una zona de difícil acceso; la economía chilena seguía dependiendo de exportar recursos naturales; la hacienda y la minería continuaron en el centro y el norte chico; las fronteras con Argentina seguían por precisar. ¿Qué cambio económico para el Estado muestra el cuadro?
 - **A3.** Une cada dato con su ámbito: 1) nuevas provincias, 2) impuestos al salitre, 3) reclutamiento de soldados. a) social, b) económico, c) territorial. Escribe las parejas.
 
 *Razonamiento y análisis*
@@ -605,8 +605,8 @@ Respuesta: Nacional: territorio e ingresos; local: costos para las familias
 - **C1.** Cambio. Es una consecuencia nueva de la guerra.
 - **C2.** Continuidad. El cuadro lo lista como continuidad.
 - **C3.** B. Describe la participación de personas en la sociedad.
-- **A1.** 260. Se resta los que regresaron del total. Cálculo: 900 − 640 = 260.
-- **A2.** 6. Se restan los ingresos antiguos. Cálculo: 10 − 4 = 6.
+- **A1.** Porque afectó a las personas y a sus familias, no a la superficie del país. El ámbito social se refiere a la vida de las personas.
+- **A2.** Aumentaron sus ingresos por los impuestos a la exportación de salitre. El cuadro lo lista como cambio.
 - **A3.** 1-c, 2-b, 3-a. Cada dato corresponde a un ámbito.
 - **Z1.** Porque también cambió la economía del Estado, la vida de las familias y la participación de las mujeres. Hubo cambios en varios ámbitos.
 - **Z2.** La economía seguía dependiendo de exportar recursos naturales como el salitre. Hay continuidad en el modelo.
@@ -779,8 +779,8 @@ Respuesta: El presidente, de política y comercio; el soldado, de su deber y su 
 
 *Aplicación*
 
-- **A1.** En un campamento de ejemplo hay 600 soldados y 25 cantineras. ¿Cuántas personas hay en total?
-- **A2.** Una oficina salitrera de ejemplo emplea 1.200 trabajadores y 300 se enrolan como soldados. ¿Cuántos siguen trabajando?
+- **A1.** Voces de ejemplo, redactadas para este cuaderno. Presidente de Chile: «El tratado de 1874 se ha roto y debemos proteger el comercio y las inversiones.» Empresario del salitre: «Necesitamos que no suban los impuestos para seguir produciendo.» Soldado: «Marcho porque me reclutaron y espero regresar con mi familia.» Cantinera: «Llevo agua y alimentos y cuido a los heridos.» Gobernante boliviano: «Nuestro Estado necesita recursos y debe cobrar impuestos.» Periodista peruano: «Nuestro país está comprometido a defender su alianza.» ¿Qué actor expresa una necesidad fiscal y cuál una preocupación por su familia?
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Presidente de Chile: «El tratado de 1874 se ha roto y debemos proteger el comercio y las inversiones.» Empresario del salitre: «Necesitamos que no suban los impuestos para seguir produciendo.» Soldado: «Marcho porque me reclutaron y espero regresar con mi familia.» Cantinera: «Llevo agua y alimentos y cuido a los heridos.» Gobernante boliviano: «Nuestro Estado necesita recursos y debe cobrar impuestos.» Periodista peruano: «Nuestro país está comprometido a defender su alianza.» Explica en qué coinciden el presidente de Chile y el empresario del salitre según sus voces.
 - **A3.** Una compañera dice: «La guerra fue solo por la ambición de los empresarios». Menciona otra causa que lo complete.
 
 *Razonamiento y análisis*
@@ -813,8 +813,8 @@ Respuesta: El presidente, de política y comercio; el soldado, de su deber y su 
 - **C1.** Regresar con su familia. Su voz lo dice.
 - **C2.** 1-c, 2-b, 3-a. Cada voz expresa un interés distinto.
 - **C3.** C. Ella apoya a las tropas sin combatir.
-- **A1.** 625. Se suman ambos grupos. Cálculo: 600 + 25 = 625.
-- **A2.** 900. Se resta los enrolados del total. Cálculo: 1200 − 300 = 900.
+- **A1.** El gobernante boliviano expresa la necesidad fiscal; el soldado, la preocupación por su familia. Cada voz habla desde su lugar.
+- **A2.** Ambos quieren proteger la producción y el comercio del salitre frente a nuevos impuestos. Sus intereses económicos se parecen.
 - **A3.** El desacuerdo sobre el tratado de 1874 o la alianza entre Perú y Bolivia. La multicausalidad incluye otras razones.
 - **Z1.** Porque influyeron el salitre, los impuestos, el tratado, la alianza y los límites poco claros. Varias causas se combinaron.
 - **Z2.** El soldado habla de deber y familia; el empresario, de producción y costos. Sus lugares son distintos.
@@ -982,13 +982,13 @@ Respuesta: Porque hubo costos sociales además de beneficios
 *Comprensión*
 
 - **C1.** Dossier de ejemplo. Dato 1: el tratado de 1874 fijó el paralelo 24 y limitó los impuestos a empresas chilenas; en 1878 Bolivia creó un nuevo impuesto. Dato 2: el salitre del desierto de Atacama se exportaba a los mercados del mundo. Dato 3: la guerra (1879-1884) terminó con el tratado de Ancón con Perú (1883) y el pacto de tregua con Bolivia (1884). Dato 4: Chile incorporó Tarapacá y Antofagasta y aumentaron sus ingresos fiscales. Dato 5: miles de hombres fueron reclutados y las mujeres colaboraron como cantineras y enfermeras. ¿Con qué país se firmó el tratado de Ancón según el dato 3?
-- **C2.** Elige la tesis mejor formulada. A) El conflicto en torno al salitre y los impuestos desencadenó una guerra que amplió el territorio y los ingresos de Chile, con costos sociales, B) La guerra fue solo heroísmo, C) Los países vecinos son malos.
+- **C2.** Elige la tesis mejor formulada. A) El conflicto en torno al salitre y los impuestos desencadenó una guerra que amplió el territorio y los ingresos de Chile, con costos sociales, B) La guerra fue solo heroísmo y no tuvo causas económicas, C) La guerra la causó únicamente la ambición de los empresarios, sin tratados ni impuestos en juego.
 - **C3.** Una compañera usa solo el dato 4 para decir que «la guerra solo trajo beneficios». ¿Qué dato le falta considerar?
 
 *Aplicación*
 
-- **A1.** Dossier de ejemplo. Dato 1: el tratado de 1874 fijó el paralelo 24 y limitó los impuestos a empresas chilenas; en 1878 Bolivia creó un nuevo impuesto. Dato 2: el salitre del desierto de Atacama se exportaba a los mercados del mundo. Dato 3: la guerra (1879-1884) terminó con el tratado de Ancón con Perú (1883) y el pacto de tregua con Bolivia (1884). Dato 4: Chile incorporó Tarapacá y Antofagasta y aumentaron sus ingresos fiscales. Dato 5: miles de hombres fueron reclutados y las mujeres colaboraron como cantineras y enfermeras. Si el dossier tiene 5 datos y 2 sostienen la causa económica (1 y 2), ¿cuántos datos quedan para otros temas?
-- **A2.** Un grupo escribe un texto de 16 líneas: 2 de tesis, 10 de evidencias y el resto de límite. ¿Cuántas líneas son de límite?
+- **A1.** Dossier de ejemplo. Dato 1: el tratado de 1874 fijó el paralelo 24 y limitó los impuestos a empresas chilenas; en 1878 Bolivia creó un nuevo impuesto. Dato 2: el salitre del desierto de Atacama se exportaba a los mercados del mundo. Dato 3: la guerra (1879-1884) terminó con el tratado de Ancón con Perú (1883) y el pacto de tregua con Bolivia (1884). Dato 4: Chile incorporó Tarapacá y Antofagasta y aumentaron sus ingresos fiscales. Dato 5: miles de hombres fueron reclutados y las mujeres colaboraron como cantineras y enfermeras. ¿Qué dato del dossier ubica el fin de la guerra y con qué países?
+- **A2.** Un grupo escribe una tesis y cita tres datos, pero no explica qué demuestra cada uno. ¿Qué debe agregar?
 - **A3.** Dossier de ejemplo. Dato 1: el tratado de 1874 fijó el paralelo 24 y limitó los impuestos a empresas chilenas; en 1878 Bolivia creó un nuevo impuesto. Dato 2: el salitre del desierto de Atacama se exportaba a los mercados del mundo. Dato 3: la guerra (1879-1884) terminó con el tratado de Ancón con Perú (1883) y el pacto de tregua con Bolivia (1884). Dato 4: Chile incorporó Tarapacá y Antofagasta y aumentaron sus ingresos fiscales. Dato 5: miles de hombres fueron reclutados y las mujeres colaboraron como cantineras y enfermeras. Con los datos 4 y 5, redacta una conclusión proporcional.
 
 *Razonamiento y análisis*
@@ -1021,8 +1021,8 @@ Respuesta: Porque hubo costos sociales además de beneficios
 - **C1.** Perú. El dato lo señala.
 - **C2.** A. Es defendible con el dossier.
 - **C3.** El dato 5, que muestra los costos sociales. La evidencia es parcial.
-- **A1.** 3. Se restan los datos usados. Cálculo: 5 − 2 = 3.
-- **A2.** 4. Se restan tesis y evidencias del total. Cálculo: 16 − 2 − 10 = 4.
+- **A1.** El dato 3: el tratado de Ancón con Perú y el pacto de tregua con Bolivia. Resume los acuerdos finales.
+- **A2.** Una frase como «esto muestra que…» después de cada dato. Las evidencias deben explicarse.
 - **A3.** Chile incorporó territorio y aumentó sus ingresos, pero miles de hombres fueron reclutados y las mujeres colaboraron en la guerra. Une beneficios y costos.
 - **Z1.** Porque el salitre y los impuestos estuvieron en el origen del conflicto. Los datos 1 y 2 lo muestran.
 - **Z2.** Es un estereotipo sin evidencia y traslada el conflicto histórico a la actualidad. El dossier habla de gobiernos del siglo XIX.
@@ -1195,8 +1195,8 @@ Respuesta: No: el fallo es jurídico y no mide opiniones
 
 *Aplicación*
 
-- **A1.** Resumen de ejemplo para evaluar proyecciones. 1883: tratado de Ancón, por el que Perú cede Tarapacá, mientras Tacna y Arica quedan bajo administración chilena por diez años. 1884: pacto de tregua con Bolivia. 1904: tratado de paz y amistad con Bolivia, que reconoce el territorio chileno y asegura libre tránsito de mercaderías bolivianas por puertos chilenos. 1929: tratado de Lima, que deja Arica en Chile y Tacna en Perú. 2014: la Corte Internacional de Justicia fija el límite marítimo entre Chile y Perú. 2018: la Corte Internacional de Justicia concluye que Chile no tiene la obligación de negociar un acceso soberano al mar para Bolivia. ¿Cuántos años pasaron entre el tratado de paz con Bolivia de 1904 y el fallo de 2018?
-- **A2.** Resumen de ejemplo para evaluar proyecciones. 1883: tratado de Ancón, por el que Perú cede Tarapacá, mientras Tacna y Arica quedan bajo administración chilena por diez años. 1884: pacto de tregua con Bolivia. 1904: tratado de paz y amistad con Bolivia, que reconoce el territorio chileno y asegura libre tránsito de mercaderías bolivianas por puertos chilenos. 1929: tratado de Lima, que deja Arica en Chile y Tacna en Perú. 2014: la Corte Internacional de Justicia fija el límite marítimo entre Chile y Perú. 2018: la Corte Internacional de Justicia concluye que Chile no tiene la obligación de negociar un acceso soberano al mar para Bolivia. ¿Cuántos años pasaron entre el pacto de tregua con Bolivia de 1884 y el tratado de Lima?
+- **A1.** Resumen de ejemplo para evaluar proyecciones. 1883: tratado de Ancón, por el que Perú cede Tarapacá, mientras Tacna y Arica quedan bajo administración chilena por diez años. 1884: pacto de tregua con Bolivia. 1904: tratado de paz y amistad con Bolivia, que reconoce el territorio chileno y asegura libre tránsito de mercaderías bolivianas por puertos chilenos. 1929: tratado de Lima, que deja Arica en Chile y Tacna en Perú. 2014: la Corte Internacional de Justicia fija el límite marítimo entre Chile y Perú. 2018: la Corte Internacional de Justicia concluye que Chile no tiene la obligación de negociar un acceso soberano al mar para Bolivia. Ordena de más antiguo a más reciente: fallo de 2018, tratado de Lima, tratado de Ancón y fallo de 2014.
+- **A2.** Resumen de ejemplo para evaluar proyecciones. 1883: tratado de Ancón, por el que Perú cede Tarapacá, mientras Tacna y Arica quedan bajo administración chilena por diez años. 1884: pacto de tregua con Bolivia. 1904: tratado de paz y amistad con Bolivia, que reconoce el territorio chileno y asegura libre tránsito de mercaderías bolivianas por puertos chilenos. 1929: tratado de Lima, que deja Arica en Chile y Tacna en Perú. 2014: la Corte Internacional de Justicia fija el límite marítimo entre Chile y Perú. 2018: la Corte Internacional de Justicia concluye que Chile no tiene la obligación de negociar un acceso soberano al mar para Bolivia. ¿Qué aseguró a Bolivia el tratado de 1904?
 - **A3.** Une cada tratado o fallo con su resultado: 1) Ancón (1883), 2) paz con Bolivia (1904), 3) Lima (1929). a) libre tránsito de mercaderías, b) Tarapacá cedida y administración de Tacna y Arica, c) Arica en Chile y Tacna en Perú. Escribe las parejas.
 
 *Razonamiento y análisis*
@@ -1229,8 +1229,8 @@ Respuesta: No: el fallo es jurídico y no mide opiniones
 - **C1.** C. El resumen lo dice.
 - **C2.** El límite marítimo entre Chile y Perú. El resumen lo dice.
 - **C3.** Que Chile no tiene la obligación de negociar un acceso soberano al mar. El resumen lo dice.
-- **A1.** 114. Se restan ambas fechas. Cálculo: 2018 − 1904 = 114.
-- **A2.** 45. Se restan las fechas del resumen. Cálculo: 1929 − 1884 = 45.
+- **A1.** Tratado de Ancón, tratado de Lima, fallo de 2014, fallo de 2018. Se ordenan por sus años: 1883, 1929, 2014 y 2018.
+- **A2.** Libre tránsito de mercaderías bolivianas por puertos chilenos. El resumen lo indica.
 - **A3.** 1-b, 2-a, 3-c. Cada tratado tuvo un resultado propio.
 - **Z1.** Porque sus resultados territoriales y los tratados posteriores siguen presentes en temas como el acceso al mar y los límites. Sus proyecciones llegan hasta hoy.
 - **Z2.** Hoy las diferencias entre Estados se resuelven en instancias internacionales, como la Corte, y no se puede generalizar sobre los pueblos. Los fallos de 2014 y 2018 lo muestran.

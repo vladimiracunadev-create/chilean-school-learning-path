@@ -150,13 +150,13 @@ Respuesta: Acción militar, fundación de ciudades, ferrocarril y repartición d
 *Comprensión*
 
 - **C1.** En Historia: ¿qué es una reducción?
-- **C2.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. ¿Qué medio de transporte llegó a Temuco durante la década de 1890? A) el metro, B) el avión, C) el ferrocarril.
+- **C2.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. ¿Qué medio de transporte llegó a Temuco durante la década de 1890? A) el ferrocarril, B) los barcos de vapor, C) las carretas.
 - **C3.** Une cada acción con su tipo: 1) avance de fuertes, 2) fundación de Angol y Temuco, 3) entrega de títulos de merced. a) reparto de tierras, b) acción militar, c) fundación de ciudades. Escribe las parejas.
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. ¿Cuántos años pasaron entre la refundación de Angol y el término de la ocupación militar en 1883?
-- **A2.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. ¿Cuántos años pasaron entre la ley de 1866 y el inicio de la Comisión Radicadora?
+- **A1.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. Ordena de más antiguo a más reciente: fundación de Temuco, plan de Saavedra hasta el Malleco, llegada del ferrocarril a Temuco y término de la ocupación militar.
+- **A2.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. ¿Qué hecho de 1866 facilitó que colonos recibieran tierras?
 - **A3.** Línea de tiempo: 1861, el coronel Cornelio Saavedra propone avanzar con fuertes y poblados hasta la ribera del río Malleco; 1862, se refunda Angol y se funda Mulchén; 1866, ley sobre fundación de pueblos y entrega de tierras a colonos; 1881, levantamiento mapuche y fundación de Temuco; 1883, se refunda Villarrica y termina la ocupación militar; 1884, comienza a funcionar la Comisión Radicadora de Indígenas, que entrega títulos de merced; durante la década de 1890, el ferrocarril llega a Temuco. Una compañera dice: «La ocupación fue un acuerdo amistoso entre iguales». ¿Qué hecho de la línea muestra que no fue solo eso?
 
 *Razonamiento y análisis*
@@ -187,10 +187,10 @@ Respuesta: Acción militar, fundación de ciudades, ferrocarril y repartición d
 - **R2.** 1881. La línea de tiempo lo indica.
 - **R3.** Títulos de merced. La línea lo señala.
 - **C1.** Un terreno limitado en que se radicó a población mapuche. Es la forma en que quedó la tierra mapuche.
-- **C2.** C. La línea lo menciona.
+- **C2.** A. La línea lo menciona.
 - **C3.** 1-b, 2-c, 3-a. Cada acción corresponde a un tipo distinto.
-- **A1.** 21. Se restan ambas fechas. Cálculo: 1883 − 1862 = 21.
-- **A2.** 18. Se restan las dos fechas de la línea. Cálculo: 1884 − 1866 = 18.
+- **A1.** Plan de Saavedra, fundación de Temuco, término de la ocupación militar, llegada del ferrocarril a Temuco. Se ordenan por sus años: 1861, 1881, 1883 y década de 1890.
+- **A2.** La ley sobre fundación de pueblos y entrega de tierras a colonos. La línea de tiempo la señala como base legal del reparto.
 - **A3.** El avance de fuertes y tropas y el levantamiento mapuche de 1881. Hubo acción militar y resistencia.
 - **Z1.** Porque los títulos reconocían extensiones limitadas, mucho menores que el territorio que las comunidades usaban. Los títulos fijaban reducciones.
 - **Z2.** Porque combinó acción militar, fundación de ciudades, ferrocarril y reparto de tierras planificados por el Estado durante años. Fue organizada y sostenida.
@@ -364,7 +364,7 @@ Respuesta: La décima parte, es decir, el 10 %
 
 *Aplicación*
 
-- **A1.** Fuente A (informe oficial, texto de ejemplo): «El ejército ha avanzado y ha pacificado la frontera; se fundarán pueblos y se repartirán terrenos a los colonos.» Fuente B (ley, texto de ejemplo): «Los terrenos que no tengan títulos serán considerados fiscales y se rematarán en subasta.» Fuente C (relato de una comunidad mapuche, de ejemplo): «Nuestras familias cuidaban estas tierras; después nos dieron un pedazo pequeño y el resto fue vendido.» Fuente D (tabla de ejemplo): una comunidad de ejemplo ocupaba 4.000 hectáreas y recibió título de merced por 400 hectáreas. Fuente E (historiador actual, texto de ejemplo): «La palabra pacificación suaviza una realidad de violencia y pérdida de tierras.» ¿Cuántas hectáreas menos tiene la comunidad con su título de merced que las que ocupaba antes?
+- **A1.** Fuente A (informe oficial, texto de ejemplo): «El ejército ha avanzado y ha pacificado la frontera; se fundarán pueblos y se repartirán terrenos a los colonos.» Fuente B (ley, texto de ejemplo): «Los terrenos que no tengan títulos serán considerados fiscales y se rematarán en subasta.» Fuente C (relato de una comunidad mapuche, de ejemplo): «Nuestras familias cuidaban estas tierras; después nos dieron un pedazo pequeño y el resto fue vendido.» Fuente D (tabla de ejemplo): una comunidad de ejemplo ocupaba 4.000 hectáreas y recibió título de merced por 400 hectáreas. Fuente E (historiador actual, texto de ejemplo): «La palabra pacificación suaviza una realidad de violencia y pérdida de tierras.» Según la Fuente D, ¿la comunidad conservó la mayor parte o una pequeña parte de las tierras que ocupaba?
 - **A2.** Otra comunidad de ejemplo ocupaba 2.000 hectáreas y recibió un título de merced por 500. ¿Qué porcentaje de sus tierras conservó?
 - **A3.** Fuente A (informe oficial, texto de ejemplo): «El ejército ha avanzado y ha pacificado la frontera; se fundarán pueblos y se repartirán terrenos a los colonos.» Fuente B (ley, texto de ejemplo): «Los terrenos que no tengan títulos serán considerados fiscales y se rematarán en subasta.» Fuente C (relato de una comunidad mapuche, de ejemplo): «Nuestras familias cuidaban estas tierras; después nos dieron un pedazo pequeño y el resto fue vendido.» Fuente D (tabla de ejemplo): una comunidad de ejemplo ocupaba 4.000 hectáreas y recibió título de merced por 400 hectáreas. Fuente E (historiador actual, texto de ejemplo): «La palabra pacificación suaviza una realidad de violencia y pérdida de tierras.» ¿Qué fuente aporta la experiencia de quienes perdieron la tierra? A) la A, B) la B, C) la C.
 
@@ -398,7 +398,7 @@ Respuesta: La décima parte, es decir, el 10 %
 - **C1.** Secundaria. La escribe un historiador actual.
 - **C2.** A. La tabla lo indica.
 - **C3.** La Fuente A es un informe oficial que usa el término «pacificado» y no demuestra que no hubiera violencia. Es la voz del Estado.
-- **A1.** 3.600. Se restan las hectáreas del título de las anteriores. Cálculo: 4000 − 400 = 3.600.
+- **A1.** Una pequeña parte: 400 de 4.000 hectáreas. 400 es muy poco frente a 4.000.
 - **A2.** 25. Se calcula la proporción respecto del total. Cálculo: 500 × 100 ÷ 2000 = 25.
 - **A3.** C. La Fuente C es el relato de una comunidad.
 - **Z1.** Porque el informe muestra la mirada del Estado y el relato muestra la experiencia de una comunidad. Se complementan y se corrigen.
@@ -572,8 +572,8 @@ Respuesta: Nacional: integración del Estado; local: pérdida de tierras
 
 *Aplicación*
 
-- **A1.** Una reducción de ejemplo tiene 300 hectáreas y 60 familias. ¿Cuántas hectáreas corresponden a cada familia si se reparten por igual?
-- **A2.** Un fundo de ejemplo ocupa 1.200 hectáreas y una reducción vecina 150. ¿Cuántas veces cabe la reducción en el fundo?
+- **A1.** Cuadro de ejemplo. Cambio: pasaron al control del Estado las tierras al sur del Biobío; se fundaron ciudades (Angol, Temuco, Villarrica); llegó el ferrocarril; colonos chilenos y extranjeros recibieron o compraron terrenos; las comunidades mapuche fueron radicadas en reducciones con una fracción de su territorio. Continuidad: las comunidades mapuche mantuvieron su lengua, sus vínculos familiares y sus formas de organización; siguió habiendo demandas por tierras; la agricultura y la ganadería continuaron como actividades en el campo. ¿Qué cambio en la propiedad de la tierra muestra el cuadro?
+- **A2.** Cuadro de ejemplo. Cambio: pasaron al control del Estado las tierras al sur del Biobío; se fundaron ciudades (Angol, Temuco, Villarrica); llegó el ferrocarril; colonos chilenos y extranjeros recibieron o compraron terrenos; las comunidades mapuche fueron radicadas en reducciones con una fracción de su territorio. Continuidad: las comunidades mapuche mantuvieron su lengua, sus vínculos familiares y sus formas de organización; siguió habiendo demandas por tierras; la agricultura y la ganadería continuaron como actividades en el campo. ¿Qué actividad del campo continuó, aunque con otros dueños y otras reglas?
 - **A3.** Explica por qué decir que «los mapuche desaparecieron» tras la ocupación es inexacto.
 
 *Razonamiento y análisis*
@@ -606,8 +606,8 @@ Respuesta: Nacional: integración del Estado; local: pérdida de tierras
 - **C1.** Cambio. Es una novedad en la propiedad.
 - **C2.** Continuidad. El cuadro lo lista como continuidad.
 - **C3.** C. Las otras son cambios.
-- **A1.** 5. Se divide el total entre las familias. Cálculo: 300 ÷ 60 = 5.
-- **A2.** 8. Se divide el fundo entre la reducción. Cálculo: 1200 ÷ 150 = 8.
+- **A1.** Las tierras pasaron al control del Estado y colonos las recibieron o compraron. El cuadro lo presenta como cambio.
+- **A2.** La agricultura y la ganadería. El cuadro la lista entre las continuidades.
 - **A3.** Porque las comunidades mantuvieron su lengua, sus familias y sus formas de organización, y siguieron demandando tierras. Perdieron tierras, no dejaron de existir.
 - **Z1.** Las comunidades mapuche fueron radicadas con una fracción de su territorio. Los efectos fueron desiguales.
 - **Z2.** La pérdida de tierras de cada comunidad. La escala local muestra los efectos concretos.
@@ -780,8 +780,8 @@ Respuesta: Uno busca un terreno propio; el otro compró en un remate
 
 *Aplicación*
 
-- **A1.** En un remate de ejemplo se ofrecen 8 lotes de 150 hectáreas cada uno. ¿Cuántas hectáreas se ofrecen en total?
-- **A2.** Una comunidad de ejemplo reclamaba 2.400 hectáreas y obtuvo 600. ¿Cuántas hectáreas faltaron?
+- **A1.** Voces de ejemplo, redactadas para este cuaderno. Oficial del ejército: «Mi tarea es avanzar la línea de fuertes y proteger a los pobladores que lleguen.» Colono chileno pobre: «Llegué para obtener un terreno propio y trabajarlo.» Colono extranjero: «Compré tierras en un remate y busco cultivarlas.» Lonko de una comunidad: «Defendimos nuestras tierras, y después pedimos que se reconocieran nuestros límites.» Mujer de una comunidad: «Seguimos tejiendo, sembrando y transmitiendo nuestra lengua en la reducción.» ¿Qué acción de la mujer de la comunidad muestra que la cultura mapuche continuaba en la reducción?
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Oficial del ejército: «Mi tarea es avanzar la línea de fuertes y proteger a los pobladores que lleguen.» Colono chileno pobre: «Llegué para obtener un terreno propio y trabajarlo.» Colono extranjero: «Compré tierras en un remate y busco cultivarlas.» Lonko de una comunidad: «Defendimos nuestras tierras, y después pedimos que se reconocieran nuestros límites.» Mujer de una comunidad: «Seguimos tejiendo, sembrando y transmitiendo nuestra lengua en la reducción.» Explica qué muestra el lonko al decir que pidieron que se reconocieran sus límites.
 - **A3.** Voces de ejemplo, redactadas para este cuaderno. Oficial del ejército: «Mi tarea es avanzar la línea de fuertes y proteger a los pobladores que lleguen.» Colono chileno pobre: «Llegué para obtener un terreno propio y trabajarlo.» Colono extranjero: «Compré tierras en un remate y busco cultivarlas.» Lonko de una comunidad: «Defendimos nuestras tierras, y después pedimos que se reconocieran nuestros límites.» Mujer de una comunidad: «Seguimos tejiendo, sembrando y transmitiendo nuestra lengua en la reducción.» Una compañera dice que las comunidades mapuche no hicieron nada frente a la ocupación. Responde con un dato de las voces de ejemplo.
 
 *Razonamiento y análisis*
@@ -814,8 +814,8 @@ Respuesta: Uno busca un terreno propio; el otro compró en un remate
 - **C1.** Las compró en un remate. Su voz lo dice.
 - **C2.** 1-b, 2-c, 3-a. Cada voz expresa una acción distinta.
 - **C3.** C. Resistir es defenderse de la imposición.
-- **A1.** 1.200. Se multiplica el número de lotes por su tamaño. Cálculo: 8 × 150 = 1.200.
-- **A2.** 1.800. Se resta lo obtenido de lo reclamado. Cálculo: 2400 − 600 = 1.800.
+- **A1.** Seguir tejiendo, sembrando y transmitiendo la lengua. Son prácticas culturales que se mantuvieron.
+- **A2.** Que las comunidades también negociaron y pidieron al Estado reconocimiento, además de defenderse. La agencia incluye petición y negociación.
 - **A3.** El lonko dice que defendieron sus tierras y pidieron el reconocimiento de sus límites. Hay agencia en su acción.
 - **Z1.** Porque influyeron la integración del territorio, la búsqueda de tierras agrícolas, el ferrocarril y la expansión de la economía. Se combinaron razones políticas y económicas.
 - **Z2.** El oficial ve proteger y avanzar; el lonko ve defender las tierras de su comunidad. Miran el mismo hecho desde posiciones opuestas.
@@ -989,7 +989,7 @@ Respuesta: El 90 %
 
 *Aplicación*
 
-- **A1.** Otra comunidad de ejemplo ocupaba 3.000 hectáreas y recibió un título de merced por 600. ¿Cuántas hectáreas perdió?
+- **A1.** Dossier de ejemplo. Dato 1: entre 1861 y 1883 el Estado avanzó con fuertes y tropas, y fundó ciudades como Angol y Temuco. Dato 2: el ferrocarril llegó a Temuco durante la década de 1890. Dato 3: los terrenos sin títulos se consideraron fiscales y se remataron a colonos. Dato 4: una comunidad de ejemplo pasó de ocupar 4.000 hectáreas a tener un título de merced por 400. Dato 5: las comunidades defendieron sus tierras, pidieron reconocimiento de límites y mantuvieron su lengua. Además del dato 3, ¿qué datos sirven para sostener que la ocupación fue una política de Estado planificada?
 - **A2.** Esa otra comunidad de 3.000 hectáreas, que recibió título por 600, ¿qué porcentaje de sus tierras perdió?
 - **A3.** Dossier de ejemplo. Dato 1: entre 1861 y 1883 el Estado avanzó con fuertes y tropas, y fundó ciudades como Angol y Temuco. Dato 2: el ferrocarril llegó a Temuco durante la década de 1890. Dato 3: los terrenos sin títulos se consideraron fiscales y se remataron a colonos. Dato 4: una comunidad de ejemplo pasó de ocupar 4.000 hectáreas a tener un título de merced por 400. Dato 5: las comunidades defendieron sus tierras, pidieron reconocimiento de límites y mantuvieron su lengua. Con los datos 3 y 5, redacta una conclusión proporcional.
 
@@ -1023,7 +1023,7 @@ Respuesta: El 90 %
 - **C1.** El dato 5. Habla de defensa, reconocimiento de límites y lengua.
 - **C2.** B. Es defendible con el dossier.
 - **C3.** El dato 4 es un caso de ejemplo y no prueba lo que pasó en todas las comunidades. No se puede generalizar.
-- **A1.** 2.400. Se resta lo que conservó de lo que ocupaba. Cálculo: 3000 − 600 = 2.400.
+- **A1.** Los datos 1 y 2. Muestran avance militar, ciudades y ferrocarril.
 - **A2.** 80. Se divide la pérdida entre el total y se pasa a porcentaje. Cálculo: (3000 − 600) × 100 ÷ 3000 = 80.
 - **A3.** Los terrenos sin títulos se remataron, y las comunidades defendieron sus tierras y mantuvieron su lengua. Une despojo y agencia.
 - **Z1.** Porque nombrar el despojo describe con precisión la pérdida de tierras y evita suavizar los hechos. La precisión evita ocultar la violencia.

@@ -119,7 +119,7 @@ Después de escuchar, confirma tu predicción (confirm your prediction): ¿lo qu
 
 *Ejemplo 1. Predecir con el título*
 
-Problema: Título: «At the lost-and-found office». ¿Qué palabras esperas oír? A) lost, color, bus B) recipe, oven, flour
+Problema: Título: «At the lost-and-found office». ¿Qué palabras esperas oír? A) lost, color, bus B) ticket, platform, passenger
 
 1. El título habla de objetos perdidos.
 2. En ese lugar se describe lo perdido y dónde se perdió.
@@ -146,9 +146,9 @@ Respuesta: 5.000 pesos
 
 *Recuperación*
 
-- **R1.** Título: «A day at the beach». ¿Qué palabras esperas oír? A) keyboard, printer, screen B) sand, waves, sunscreen
-- **R2.** Vas a escuchar un menú. ¿En qué debes fijarte si quieres saber cuánto gastarás? A) números y precios B) colores y formas
-- **R3.** Antes de escuchar el menú de la cafetería, ¿qué pregunta te ayuda a escuchar con propósito? A) ¿Quién ganó el partido? B) ¿Cuánto cuesta el plato del día?
+- **R1.** Título: «A day at the beach». ¿Qué palabras esperas oír? A) snow, coat, gloves B) sand, waves, sunscreen
+- **R2.** Vas a escuchar un menú. ¿En qué debes fijarte si quieres saber cuánto gastarás? A) números y precios B) horarios y días
+- **R3.** Antes de escuchar el menú de la cafetería, ¿qué pregunta te ayuda a escuchar con propósito? A) ¿A qué hora sale el bus? B) ¿Cuánto cuesta el plato del día?
 
 *Comprensión*
 
@@ -165,7 +165,7 @@ Respuesta: 5.000 pesos
 *Razonamiento y análisis*
 
 - **Z1.** Predijiste para «Winter clothes sale» las palabras discounts, jackets y scarves. Oyes: «Everything is half price this weekend: coats, gloves and scarves.» (half price = mitad de precio, coats = abrigos, gloves = guantes). ¿Se confirma tu predicción? A) sí, en lo central: ofertas de ropa de invierno B) no, habla de ropa de verano
-- **Z2.** Sabes que en una biblioteca se pide silencio. ¿Qué frase esperas oír de la bibliotecaria? A) Please speak quietly. B) Please sing louder.
+- **Z2.** Sabes que en una biblioteca se pide silencio. ¿Qué frase esperas oír de la bibliotecaria? A) Please speak louder. B) Please speak quietly.
 
 *Desafío*
 
@@ -174,7 +174,7 @@ Respuesta: 5.000 pesos
 
 *Situaciones auténticas*
 
-- **S1.** Un adulto lee en voz alta (tapa el guion): Estás en la estación y oyes: «Passengers for Valdivia, your bus leaves from platform four at ten past nine.» (passengers = pasajeros, platform = andén, ten past nine = nueve y diez). Tu propósito es saber la hora de salida. ¿A qué hora sale? A) 9:10 B) 10:09
+- **S1.** Un adulto lee en voz alta (tapa el guion): Estás en la estación y oyes: «Passengers for Valdivia, your bus leaves from platform four at ten past nine.» (passengers = pasajeros, platform = andén, past = y (en la hora)). Tu propósito es saber la hora de salida. ¿A qué hora sale? A) 9:10 B) 10:09
 
 *Autoevaluación*
 
@@ -196,7 +196,7 @@ Respuesta: 5.000 pesos
 - **A2.** 3 puntos. El rojo tiene 21 y el azul 18. Cálculo: 21 − 18 = 3.
 - **A3.** A) el verde. Dice The green team came third.
 - **Z1.** A) sí, en lo central: ofertas de ropa de invierno. Half price equivale a discounts y coats, gloves y scarves son ropa de invierno.
-- **Z2.** A) Please speak quietly.. Tus conocimientos previos de una biblioteca anticipan esa norma.
+- **Z2.** B) Please speak quietly.. Tus conocimientos previos de una biblioteca anticipan esa norma.
 - **D1.** A) el que reúne más peso. Dice The group with the most weight wins.
 - **D2.** B) 5. Lunes, martes, miércoles, jueves y viernes son cinco días.
 - **S1.** A) 9:10. Ten past nine significa nueve y diez.
@@ -356,7 +356,7 @@ Respuesta: Que compró la azul, no la verde
 
 *Recuperación*
 
-- **R1.** Un adulto lee en voz alta (tapa el guion): «(Two people carry rackets and sports bags.) Lena: The court is free now. Ready? Marco: Let's go!» (rackets = raquetas, sports bags = bolsos deportivos, court = cancha, free = libre) ¿Dónde están? A) en una biblioteca B) en un recinto deportivo
+- **R1.** Un adulto lee en voz alta (tapa el guion): «(Two people carry rackets and sports bags.) Lena: The court is free now. Ready? Marco: Let's go!» (rackets = raquetas, sports bags = bolsos deportivos, court = cancha, free = libre) ¿Dónde están? A) en una tienda de ropa B) en un recinto deportivo
 - **R2.** Un adulto lee en voz alta (tapa el guion): «Luis: You are coming to the party ↗? Ana: Yes, I am ↘.» (↗ = la voz sube al final, ↘ = la voz baja al final; party = fiesta) ¿Qué función tiene la voz que sube en la pregunta de Luis? A) pide confirmar algo B) da una orden
 - **R3.** Un adulto lee en voz alta (tapa el guion): «Dad: Mum said you wanted pizza. Teo: No, I wanted PASTA.» (la palabra con mayúsculas se dice con más fuerza; wanted = quería) ¿Qué palabra tiene acento? A) PASTA B) wanted
 
@@ -364,7 +364,7 @@ Respuesta: Que compró la azul, no la verde
 
 - **C1.** Un adulto lee en voz alta (tapa el guion): «Dad: Mum said you wanted pizza. Teo: No, I wanted PASTA.» (la palabra con mayúsculas se dice con más fuerza; wanted = quería) ¿Qué quería realmente Teo? A) pasta B) pizza
 - **C2.** Un adulto lee en voz alta (tapa el guion): «Beto: I didn't say she was late. I said she was TIRED.» (la palabra con mayúsculas se dice con más fuerza; late = atrasada, tired = cansada) ¿Qué dijo Beto de ella? A) que llegó tarde B) que estaba cansada, no atrasada
-- **C3.** Un adulto lee en voz alta (tapa el guion): «(The speaker wears a white coat and points to a skeleton model.) Teacher: These are the ribs. They protect the lungs.» (white coat = delantal blanco, skeleton = esqueleto, ribs = costillas, protect = protegen, lungs = pulmones) ¿Qué clase es? A) una clase de música B) una clase de ciencias del cuerpo humano
+- **C3.** Un adulto lee en voz alta (tapa el guion): «(The speaker wears a white coat and points to a skeleton model.) Teacher: These are the ribs. They protect the lungs.» (white coat = delantal blanco, skeleton = esqueleto, ribs = costillas, protect = protegen, lungs = pulmones) ¿Qué clase es? A) una clase de ciencias del cuerpo humano B) una consulta con un médico
 
 *Aplicación*
 
@@ -375,7 +375,7 @@ Respuesta: Que compró la azul, no la verde
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «Dad: Mum said you wanted pizza. Teo: No, I wanted PASTA.» (la palabra con mayúsculas se dice con más fuerza; wanted = quería) Un oyente entendió que Teo no quería comer nada. ¿Qué pista de acento lo corrige? A) el acento en PASTA muestra lo que sí quería B) la voz sube al final
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «(The speaker wears a white coat and points to a skeleton model.) Teacher: These are the ribs. They protect the lungs.» (white coat = delantal blanco, skeleton = esqueleto, ribs = costillas, protect = protegen, lungs = pulmones) ¿Qué pista visual apoya que habla sobre el cuerpo humano? A) el modelo de esqueleto B) el delantal blanco solamente
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «(The speaker wears a white coat and points to a skeleton model.) Teacher: These are the ribs. They protect the lungs.» (white coat = delantal blanco, skeleton = esqueleto, ribs = costillas, protect = protegen, lungs = pulmones) ¿Qué pista visual apoya que habla sobre el cuerpo humano? A) el modelo de esqueleto B) que la persona habla en inglés
 
 *Desafío*
 
@@ -401,12 +401,12 @@ Respuesta: Que compró la azul, no la verde
 - **R3.** A) PASTA. Se dice con más fuerza para contrastar con pizza.
 - **C1.** A) pasta. El acento en PASTA corrige lo que dijo su mamá.
 - **C2.** B) que estaba cansada, no atrasada. El acento en TIRED corrige late.
-- **C3.** B) una clase de ciencias del cuerpo humano. Hay delantal blanco, un esqueleto y costillas.
+- **C3.** A) una clase de ciencias del cuerpo humano. Hay delantal blanco, un esqueleto y costillas.
 - **A1.** A) en la frase 2, porque la fuerza está en la primera sílaba. PREsent con fuerza inicial es el sustantivo regalo.
 - **A2.** B) molesta o cansada de otra prueba. La voz baja y el suspiro contradicen las palabras Great.
 - **A3.** A) confirma que va. Yes, I am ↘ es una respuesta firme.
 - **Z1.** A) el acento en PASTA muestra lo que sí quería. El acento marca la alternativa que sí quería.
-- **Z2.** A) el modelo de esqueleto. Un esqueleto se relaciona con costillas y pulmones; un delantal solo no define el tema.
+- **Z2.** A) el modelo de esqueleto. Un esqueleto se relaciona con costillas y pulmones; el idioma no dice el tema.
 - **D1.** A) que muestra duda o sorpresa. La voz que sube y las cejas levantadas indican duda; una felicitación firme baja la voz.
 - **D2.** B) que cree que va a llover. El cielo oscuro y el paraguas son pistas de lluvia.
 - **S1.** B) que se le hace tarde para tomar el bus. Mira el reloj, corre y menciona el bus.
@@ -568,17 +568,17 @@ Respuesta: Lo importante es llegar temprano; el ejemplo es el bus que sale a las
 
 - **R1.** Un adulto lee en voz alta (tapa el guion): «First of all, thank you for coming. The most important rule is to keep the room tidy. For example, put your bags under the table. In conclusion, if we all help, we will finish quickly.» (rule = regla, tidy = ordenada, bags = mochilas, in conclusion = en conclusión, finish = terminar) ¿Qué frase anuncia la regla más importante? A) First of all B) The most important rule
 - **R2.** Un adulto lee en voz alta (tapa el guion): «First of all, thank you for coming. The most important rule is to keep the room tidy. For example, put your bags under the table. In conclusion, if we all help, we will finish quickly.» (rule = regla, tidy = ordenada, bags = mochilas, in conclusion = en conclusión, finish = terminar) ¿Qué frase cierra el texto? A) In conclusion B) For example
-- **R3.** Un adulto lee en voz alta (tapa el guion): «The recipe is simple. In other words, you only need three ingredients.» (recipe = receta, in other words = en otras palabras, ingredients = ingredientes) ¿Qué hace in other words? A) cuenta algo del pasado B) explica con palabras más simples
+- **R3.** Un adulto lee en voz alta (tapa el guion): «The recipe is simple. In other words, you only need three ingredients.» (recipe = receta, in other words = en otras palabras, ingredients = ingredientes) ¿Qué hace in other words? A) explica con palabras más simples B) da un ejemplo
 
 *Comprensión*
 
 - **C1.** Un adulto lee en voz alta (tapa el guion): «(The guide holds up three fingers.) We have three stops today: the tower, the fountain and the park.» (guide = guía, holds up = levanta, fingers = dedos, stops = paradas, tower = torre, fountain = fuente) ¿Cuántas paradas hay? A) dos B) tres
 - **C2.** Un adulto lee en voz alta (tapa el guion): «(The speaker shakes her head and points to the blue folder.) No, not that one. This one, the blue one.» (shakes her head = mueve la cabeza, folder = carpeta, blue = azul) ¿Qué carpeta pide la persona? A) la roja B) la azul
-- **C3.** Un adulto lee en voz alta (tapa el guion): «(The speaker jumps and smiles.) We won! We really won!» (jumps = salta, smiles = sonríe, won = ganamos) ¿Cómo se siente el hablante? A) enojado B) muy contento
+- **C3.** Un adulto lee en voz alta (tapa el guion): «(The speaker jumps and smiles.) We won! We really won!» (jumps = salta, smiles = sonríe, won = ganamos) ¿Cómo se siente el hablante? A) muy contento B) sorprendido y asustado
 
 *Aplicación*
 
-- **A1.** Un adulto lee en voz alta (tapa el guion): «First of all, thank you for coming. The most important rule is to keep the room tidy. For example, put your bags under the table. In conclusion, if we all help, we will finish quickly.» (rule = regla, tidy = ordenada, bags = mochilas, in conclusion = en conclusión, finish = terminar) ¿Qué ejemplo da para mantener ordenada la sala? A) poner las mochilas bajo la mesa B) cerrar las ventanas
+- **A1.** Un adulto lee en voz alta (tapa el guion): «First of all, thank you for coming. The most important rule is to keep the room tidy. For example, put your bags under the table. In conclusion, if we all help, we will finish quickly.» (rule = regla, tidy = ordenada, bags = mochilas, in conclusion = en conclusión, finish = terminar) ¿Qué ejemplo da para mantener ordenada la sala? A) poner las mochilas bajo la mesa B) ayudar todos para terminar rápido
 - **A2.** Un adulto lee en voz alta (tapa el guion): «(The speaker points to the left, then straight ahead.) Turn left at the corner, then go straight for two blocks.» (corner = esquina, straight = derecho, blocks = cuadras) ¿Qué hay que hacer después de girar a la izquierda? A) seguir derecho dos cuadras B) girar a la derecha
 - **A3.** Un adulto lee en voz alta (tapa el guion): «The recipe is simple. In other words, you only need three ingredients.» (recipe = receta, in other words = en otras palabras, ingredients = ingredientes) ¿Cuántos ingredientes necesita la receta? A) dos B) tres
 
@@ -590,7 +590,7 @@ Respuesta: Lo importante es llegar temprano; el ejemplo es el bus que sale a las
 *Desafío*
 
 - **D1.** Un adulto lee en voz alta (tapa el guion): «First of all, I want to say hello to everyone. The most important thing about this park is that it is free. For example, anybody can play football there. In conclusion, it is a place for all.» (anybody = cualquiera, football = fútbol, free = gratuito, hello = saludo). ¿Cuál es la idea principal? A) que se juega fútbol B) que el parque es gratuito
-- **D2.** Un adulto lee en voz alta (tapa el guion): «(The speaker puts a finger over her lips.) Shh! Please be quiet. The baby is sleeping.» (finger = dedo, lips = labios, quiet = silencio, baby = bebé, sleeping = durmiendo). ¿Qué pide el gesto? A) más ruido B) silencio
+- **D2.** Un adulto lee en voz alta (tapa el guion): «(The speaker puts a finger over her lips.) Shh! Please be quiet. The baby is sleeping.» (finger = dedo, lips = labios, quiet = silencio, baby = bebé, sleeping = durmiendo). ¿Qué pide el gesto? A) silencio B) que alguien tenga una pregunta
 
 *Situaciones auténticas*
 
@@ -608,17 +608,17 @@ Respuesta: Lo importante es llegar temprano; el ejemplo es el bus que sale a las
 
 - **R1.** B) The most important rule. Es la frase clave que presenta la idea principal.
 - **R2.** A) In conclusion. In conclusion introduce la idea final.
-- **R3.** B) explica con palabras más simples. Reformula: la receta es simple porque solo requiere tres ingredientes.
+- **R3.** A) explica con palabras más simples. Reformula: la receta es simple porque solo requiere tres ingredientes.
 - **C1.** B) tres. Dice three stops y levanta tres dedos.
 - **C2.** B) la azul. Dice the blue one y la señala.
-- **C3.** B) muy contento. Salta, sonríe y repite We won.
+- **C3.** A) muy contento. Salta, sonríe y repite We won.
 - **A1.** A) poner las mochilas bajo la mesa. For example introduce ese ejemplo.
 - **A2.** A) seguir derecho dos cuadras. Dice go straight for two blocks.
 - **A3.** B) tres. In other words la receta solo necesita three ingredients.
 - **Z1.** A) señalar la carpeta azul. El gesto de señalar indica la elegida.
 - **Z2.** A) no: es un ejemplo de mantener la sala ordenada. For example introduce un ejemplo, no la regla.
 - **D1.** B) que el parque es gratuito. Se anuncia con The most important thing.
-- **D2.** B) silencio. El dedo sobre los labios y Shh piden silencio.
+- **D2.** A) silencio. El dedo sobre los labios y Shh piden silencio.
 - **S1.** B) tres. Cuenta con los dedos y dice First, Second, Third.
 - **E1.** La idea principal. Es una frase clave.
 - **E2.** Para decir lo mismo con palabras más simples. Reformula una idea.
@@ -776,9 +776,9 @@ Respuesta: What does submit mean?; significa entregar
 
 *Recuperación*
 
-- **R1.** No entendiste lo que dijo tu compañero porque habló rápido. ¿Qué dices? A) Could you speak more slowly, please? B) Where is the bus?
-- **R2.** Quieres saber el significado de una palabra nueva. ¿Qué preguntas? A) How old are you? B) What does this word mean?
-- **R3.** Quieres confirmar lo que entendiste. ¿Cómo terminas? A) See you tomorrow. B) Did I understand correctly?
+- **R1.** No entendiste lo que dijo tu compañero porque habló rápido. ¿Qué dices? A) Could you speak more slowly, please? B) Could you speak louder, please?
+- **R2.** Quieres saber el significado de una palabra nueva. ¿Qué preguntas? A) What does this word mean? B) How do you spell this word?
+- **R3.** Quieres confirmar lo que entendiste. ¿Cómo terminas? A) Did I understand correctly? B) Could you repeat that, please?
 
 *Comprensión*
 
@@ -800,7 +800,7 @@ Respuesta: What does submit mean?; significa entregar
 *Desafío*
 
 - **D1.** Un adulto lee en voz alta (tapa el guion): «Ema: The concert starts at seven. Fer: Sorry, did you say seven or eleven? Ema: Seven. Fer: So, seven in the evening. Is that right? Ema: Yes, that is right.» (concert = concierto, starts = empieza, evening = tarde-noche). ¿Qué dato aclaró Fer? A) el lugar del concierto B) la hora, siete u once
-- **D2.** Un adulto lee en voz alta (tapa el guion): «Sam: Please bring a spare charger. Mika: What does spare mean? Sam: Extra. One you don't use every day.» (spare = de repuesto, charger = cargador, extra = adicional). ¿Qué significa spare? A) caro B) de repuesto, adicional
+- **D2.** Un adulto lee en voz alta (tapa el guion): «Sam: Please bring a spare charger. Mika: What does spare mean? Sam: Extra. One you don't use every day.» (spare = de repuesto, charger = cargador, extra = adicional). ¿Qué significa spare? A) roto o dañado B) de repuesto, adicional
 
 *Situaciones auténticas*
 
@@ -817,8 +817,8 @@ Respuesta: What does submit mean?; significa entregar
 **Solucionario razonado**
 
 - **R1.** A) Could you speak more slowly, please?. Pide hablar más despacio.
-- **R2.** B) What does this word mean?. Es la frase para preguntar el significado.
-- **R3.** B) Did I understand correctly?. Pide confirmar lo entendido.
+- **R2.** A) What does this word mean?. Es la frase para preguntar el significado.
+- **R3.** A) Did I understand correctly?. Pide confirmar lo entendido.
 - **C1.** A) si era la segunda o la tercera calle. Preguntó second or third.
 - **C2.** B) que hablara más despacio. Dice Could you speak more slowly, please?
 - **C3.** B) que era mediodía y no medianoche. Preguntó Do you mean tomorrow at midday, not at midnight?
@@ -959,7 +959,7 @@ Para confirmar tu comprensión puedes preguntar Did I understand correctly that.
 
 *Ejemplo 1. Confirmar una predicción*
 
-Problema: Título: «A new student». Predices: new school, friends, feelings. Un adulto lee en voz alta (tapa el guion): «Hi, I'm Daniela. I moved to Concepción last month. At first I felt lonely, but my teacher introduced me to the drama club. Now I have new friends, and next month we will perform a play.» (moved = me mudé, lonely = sola, introduced = presentó, drama club = taller de teatro, perform = presentar, play = obra de teatro) ¿Qué predicción se confirma más claramente?
+Problema: Título: «A new student». Predices: new school, friends, feelings. Un adulto lee en voz alta (tapa el guion): «Hi, I'm Daniela. I moved to Concepción last month. At first I felt lonely, but my teacher introduced me to the drama club. Now I have new friends, and next month we will perform a play.» (moved = me mudé, lonely = sola, introduced = presentó, drama club = taller de teatro, perform = presentar, play = obra de teatro) ¿Se confirman tus predicciones?
 
 1. El texto habla de mudarse y de sentirse sola.
 2. También de nuevos amigos.
@@ -994,18 +994,18 @@ Respuesta: Daniela se mudó, se sintió sola, entró al teatro y ahora tiene ami
 
 - **C1.** Un adulto lee en voz alta (tapa el guion): «Welcome, visitors. The volcano trail takes about two hours. It is steep at the beginning, but easier after the first bridge. Wear strong shoes and bring water. Do not leave the path.» (trail = sendero, steep = empinado, bridge = puente, strong shoes = zapatos resistentes, path = camino) ¿Qué se recomienda llevar? A) un paraguas B) zapatos resistentes y agua
 - **C2.** Un adulto lee en voz alta (tapa el guion): «Dear readers, the public library will close for repairs next Monday. Instead, you can borrow books at the tables in the square. Thank you for your patience.» (readers = lectores, public library = biblioteca pública, repairs = reparaciones, borrow = pedir prestado, square = plaza, patience = paciencia) ¿Por qué cerrará la biblioteca? A) por un feriado B) por reparaciones
-- **C3.** Un adulto lee en voz alta (tapa el guion): «Good morning, listeners. Today we talk about volunteering. A group of teenagers cleans the river every month. They say it is hard work, but it is also fun. If you want to join, call the number on our website.» (listeners = oyentes, volunteering = voluntariado, teenagers = adolescentes, river = río, join = unirse, website = sitio web) ¿Qué opinan los adolescentes del trabajo? A) que es difícil, pero entretenido B) que es aburrido
+- **C3.** Un adulto lee en voz alta (tapa el guion): «Good morning, listeners. Today we talk about volunteering. A group of teenagers cleans the river every month. They say it is hard work, but it is also fun. If you want to join, call the number on our website.» (listeners = oyentes, volunteering = voluntariado, teenagers = adolescentes, river = río, join = unirse, website = sitio web) ¿Qué opinan los adolescentes del trabajo? A) que es difícil y nada entretenido B) que es difícil, pero entretenido
 
 *Aplicación*
 
-- **A1.** Un adulto lee en voz alta (tapa el guion): «Welcome, visitors. The volcano trail takes about two hours. It is steep at the beginning, but easier after the first bridge. Wear strong shoes and bring water. Do not leave the path.» (trail = sendero, steep = empinado, bridge = puente, strong shoes = zapatos resistentes, path = camino) ¿Cuál es el resumen más fiel? A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes B) el sendero es plano y no necesita preparación
-- **A2.** Un adulto lee en voz alta (tapa el guion): «Dear readers, the public library will close for repairs next Monday. Instead, you can borrow books at the tables in the square. Thank you for your patience.» (readers = lectores, public library = biblioteca pública, repairs = reparaciones, borrow = pedir prestado, square = plaza, patience = paciencia) ¿Qué solución se ofrece? A) esperar en casa B) pedir libros en las mesas de la plaza
+- **A1.** Un adulto lee en voz alta (tapa el guion): «Welcome, visitors. The volcano trail takes about two hours. It is steep at the beginning, but easier after the first bridge. Wear strong shoes and bring water. Do not leave the path.» (trail = sendero, steep = empinado, bridge = puente, strong shoes = zapatos resistentes, path = camino) ¿Cuál es el resumen más fiel? A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes B) el sendero dura dos horas y es empinado hasta el final
+- **A2.** Un adulto lee en voz alta (tapa el guion): «Dear readers, the public library will close for repairs next Monday. Instead, you can borrow books at the tables in the square. Thank you for your patience.» (readers = lectores, public library = biblioteca pública, repairs = reparaciones, borrow = pedir prestado, square = plaza, patience = paciencia) ¿Qué solución se ofrece? A) abrir la biblioteca solo por la tarde B) pedir libros en las mesas de la plaza
 - **A3.** Un adulto lee en voz alta (tapa el guion): «Good morning, listeners. Today we talk about volunteering. A group of teenagers cleans the river every month. They say it is hard work, but it is also fun. If you want to join, call the number on our website.» (listeners = oyentes, volunteering = voluntariado, teenagers = adolescentes, river = río, join = unirse, website = sitio web) ¿Qué debe hacer quien quiera unirse? A) llamar al número del sitio web B) ir al río el lunes
 
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «Good morning, listeners. Today we talk about volunteering. A group of teenagers cleans the river every month. They say it is hard work, but it is also fun. If you want to join, call the number on our website.» (listeners = oyentes, volunteering = voluntariado, teenagers = adolescentes, river = río, join = unirse, website = sitio web) Un compañero dice que el texto no explica cuándo limpian el río. ¿Es cierto? A) sí: no hay ningún dato de tiempo B) no: dice every month, cada mes
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Hi, I'm Daniela. I moved to Concepción last month. At first I felt lonely, but my teacher introduced me to the drama club. Now I have new friends, and next month we will perform a play.» (moved = me mudé, lonely = sola, introduced = presentó, drama club = taller de teatro, perform = presentar, play = obra de teatro) Un compañero dice que Daniela vive en Santiago. ¿Qué respondes? A) sí, por la ciudad grande B) el texto dice Concepción, no Santiago
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Hi, I'm Daniela. I moved to Concepción last month. At first I felt lonely, but my teacher introduced me to the drama club. Now I have new friends, and next month we will perform a play.» (moved = me mudé, lonely = sola, introduced = presentó, drama club = taller de teatro, perform = presentar, play = obra de teatro) Un compañero dice que Daniela vive en Santiago. ¿Qué respondes? A) el texto dice Concepción, no Santiago B) sí, porque se mudó a una ciudad grande
 
 *Desafío*
 
@@ -1031,12 +1031,12 @@ Respuesta: Daniela se mudó, se sintió sola, entró al teatro y ahora tiene ami
 - **R3.** A) el voluntariado de adolescentes que limpian un río. Dice Today we talk about volunteering.
 - **C1.** B) zapatos resistentes y agua. Dice Wear strong shoes and bring water.
 - **C2.** B) por reparaciones. Dice will close for repairs.
-- **C3.** A) que es difícil, pero entretenido. Dice hard work, but it is also fun.
+- **C3.** B) que es difícil, pero entretenido. Dice hard work, but it is also fun.
 - **A1.** A) el sendero dura unas dos horas, empieza empinado y exige zapatos resistentes. Reúne los datos principales del texto.
 - **A2.** B) pedir libros en las mesas de la plaza. Es la solución al cierre por reparaciones.
 - **A3.** A) llamar al número del sitio web. Dice call the number on our website.
 - **Z1.** B) no: dice every month, cada mes. Hay un dato de frecuencia.
-- **Z2.** B) el texto dice Concepción, no Santiago. No se debe agregar información que no aparece.
+- **Z2.** A) el texto dice Concepción, no Santiago. No se debe agregar información que no aparece.
 - **D1.** B) Daniela se mudó, se sintió sola, entró al teatro y ahora tiene amigos. El resumen sigue lo que dice el texto; la otra opción agrega datos que no aparecen.
 - **D2.** A) sí avisa: es empinado al inicio y más fácil después del primer puente. Dice steep at the beginning, but easier after the first bridge.
 - **S1.** A) la calle se cierra a los autos de nueve a una. Es un horario y una regla del día.

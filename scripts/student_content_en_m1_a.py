@@ -151,7 +151,7 @@ lesson(
     ],
     [
         (ADULT + STREET + " ¿Dónde toca la banda local? A) en un escenario al final de la calle B) en el puesto de libros", "A) en un escenario al final de la calle", "Dice At the end of the street there is a small stage."),
-        (ADULT + NEWS + " ¿Quién anunció el horario de la biblioteca? A) el alcalde B) la profesora", "A) el alcalde", "El guion dice The mayor said."),
+        (ADULT + NEWS + " ¿Quién anunció el horario de la biblioteca? A) el alcalde B) la directora del colegio", "A) el alcalde", "El guion dice The mayor said."),
     ],
     [
         (ADULT + PHONE + " ¿Cómo se llama la profesora?", "Sra. Vidal", "Dice The teacher is Mrs. Vidal."),
@@ -208,7 +208,7 @@ lesson(
     ],
     [
         (ADULT + GAME + " Una jugadora da vuelta dos cartas y no coinciden. ¿Qué pasa? A) juega la siguiente persona B) se queda con las cartas", "A) juega la siguiente persona", "El guion dice If not, the next player has a turn."),
-        arith(ADULT + RECIPE + " ¿Cuántas frutas se lavan en total en el primer paso, contando manzanas y plátano?", "2+1", "Se suman las dos manzanas y el plátano."),
+        (ADULT + RECIPE + " Si una persona termina de mezclar la ensalada a las 4:00 de la tarde y sigue el último paso al pie de la letra, ¿a qué hora la sirve?", "A las 4:10 de la tarde", "Finally pide esperar diez minutos y recién entonces servir."),
     ],
     [
         (ADULT + PHOTO + " ¿Cuántos pasos numerados tiene? Cuenta First, Second, Third, Fourth y Last.", "5", "Son cinco palabras de orden, o sea cinco pasos."),
@@ -248,7 +248,7 @@ lesson(
         ("Mezclar el dato de un hablante con el del otro.", "No se anota quién habla.", "Marca iniciales y escribe cada dato junto a su hablante."),
     ],
     [
-        (ADULT + INTV + " ¿Dónde está la huerta? A) en el techo del centro comunitario B) en un colegio", "A) en el techo del centro comunitario", "Dice on the roof of the community center."),
+        (ADULT + INTV + " ¿Dónde está la huerta? A) en el techo del centro comunitario B) en el patio de un colegio", "A) en el techo del centro comunitario", "Dice on the roof of the community center."),
         (ADULT + INTV + " ¿Cuándo se reúnen los vecinos?", "Los sábados a las diez", "El guion dice every Saturday at ten."),
         (ADULT + PLAN + " ¿A qué hora sale el bus?", "A las ocho", "Elena dice The bus leaves at eight."),
     ],
@@ -282,7 +282,7 @@ lesson(
 )
 
 # ---------------------------------------------------------------- clase 5: canción original y respuesta independiente
-SONG = "«Verse: Morning light on the window, / Bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar)"
+SONG = "«Verse: Morning light on the window, / The bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar)"
 ANEC2 = "«Last April, our school team lost the basketball final. We cried a little in the locker room. Then our coach said, We lost the game, but we learned a lot. This year we practiced harder, and we won the cup.» (lost = perdimos, final = final, locker room = camarín, coach = entrenador, practiced harder = practicamos más duro, won = ganamos, cup = copa)"
 WEATHER = "«Good morning. Here is the weather. In the north, it will be hot and dry, with thirty-one degrees. In the center, cloudy with some rain in the evening. In the south, it will be cold and windy. Remember to take an umbrella if you are in the center.» (weather = el tiempo, hot = caluroso, dry = seco, cloudy = nublado, windy = ventoso, umbrella = paraguas)"
 
@@ -317,7 +317,7 @@ lesson(
     [
         (ADULT + WEATHER + " ¿Cómo estará el centro? A) nublado con algo de lluvia B) soleado y seco", "A) nublado con algo de lluvia", "El guion dice In the center, cloudy with some rain."),
         (ADULT + ANEC2 + " ¿Dónde lloraron un poco? A) en el camarín B) en la cancha", "A) en el camarín", "Dice We cried a little in the locker room."),
-        (ADULT + SONG + " ¿Quiénes esperan a quien canta? A) sus amigos B) su entrenador", "A) sus amigos", "El tercer verso dice my friends are waiting."),
+        (ADULT + SONG + " ¿Quiénes esperan a quien canta? A) sus amigos B) sus profesores", "A) sus amigos", "El tercer verso dice my friends are waiting."),
     ],
     [
         (ADULT + ANEC2 + " ¿Cuándo perdió el equipo la final? A) el abril pasado B) el marzo pasado", "A) el abril pasado", "El guion dice Last April, our school team lost the basketball final."),

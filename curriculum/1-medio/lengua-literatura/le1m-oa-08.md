@@ -368,7 +368,7 @@ Respuesta: El final es eficaz porque no explica el cambio del pueblo y deja que 
 
 *Aplicación*
 
-- **A1.** Texto de ejemplo: «Después de la sequía, Amalia salió al cerro con un cántaro vacío. En la cima encontró un manantial y, junto a él, un anciano que le dijo: «Puedes llevarte toda el agua, pero el manantial se secará». Amalia llenó solo medio cántaro. De vuelta, el pueblo la acusó de egoísta: «¡Había tanta agua!». Ella no respondió. Al año siguiente, el manantial seguía vivo y el pueblo, sin saber por qué, la miró distinto.» Un estudiante escribe: «El relato critica el egoísmo del pueblo». ¿Qué cita puede respaldar esa idea? A) «con un cántaro vacío» B) «la acusó de egoísta»
+- **A1.** Texto de ejemplo: «Después de la sequía, Amalia salió al cerro con un cántaro vacío. En la cima encontró un manantial y, junto a él, un anciano que le dijo: «Puedes llevarte toda el agua, pero el manantial se secará». Amalia llenó solo medio cántaro. De vuelta, el pueblo la acusó de egoísta: «¡Había tanta agua!». Ella no respondió. Al año siguiente, el manantial seguía vivo y el pueblo, sin saber por qué, la miró distinto.» Un estudiante escribe: «El relato critica la dureza del pueblo». ¿Qué cita puede respaldar esa idea? A) «con un cántaro vacío» B) «la acusó de egoísta»
 - **A2.** Texto de ejemplo: «Después de la sequía, Amalia salió al cerro con un cántaro vacío. En la cima encontró un manantial y, junto a él, un anciano que le dijo: «Puedes llevarte toda el agua, pero el manantial se secará». Amalia llenó solo medio cántaro. De vuelta, el pueblo la acusó de egoísta: «¡Había tanta agua!». Ella no respondió. Al año siguiente, el manantial seguía vivo y el pueblo, sin saber por qué, la miró distinto.» Crítica: «El silencio de Amalia es un acierto». ¿Qué ejemplo lo sustenta? A) «Ella no respondió» B) «Después de la sequía»
 - **A3.** Frase: «El relato es malo porque sí». ¿Qué falta? A) criterios y ejemplos B) más puntos
 
@@ -486,7 +486,7 @@ Respuesta: El final es eficaz porque no explica el cambio del pueblo y deja que 
 
 **Consigna exacta:** Lee los relatos de ejemplo «Dos hermanos heredaron un huerto. El menor cultivaba flores; el mayor, papas. Cuando las flores ganaron el premio de la feria, el mayor, ciego de envidia, arrancó el rosal en la oscuridad. Al amanecer, el menor preguntó: «¿Viste quién se llevó mi rosal?». «¿Acaso me toca cuidarte?», respondió el mayor, sin mirarlo.», «Marisol sacó una chispa del taller cerrado de la fábrica y con ella encendió la estufa del barrio durante el invierno. Desde entonces, la empresa la declaró culpable; pero en las noches de helada, todos guardaban un trozo de brasa.» y «La niña de la capa roja cruzó la plaza hacia la casa de su abuela. El señor del abrigo gris, que dirigía el banco, le sonrió demasiado: «¿A dónde vas tan sola?». Ella apretó la canasta y siguió caminando sin mirarlo.». Elige uno y escribe cinco líneas: a qué relato remite, dos rasgos que lo prueban, qué cambia la obra nueva y qué sentido agrega.
 
-**Referencia para modelar y corregir:** Elijo «La niña de la capa roja…»: remite a Caperucita Roja. Los rasgos: la niña de capa roja con una canasta y un personaje que la aborda con una sonrisa excesiva. La obra cambia el lobo por el director de un banco. Agrega la idea de que el peligro puede venir de personas con poder en la ciudad.
+**Referencia para modelar y corregir:** Elijo el relato de la niña de la capa roja: remite a Caperucita Roja. Los rasgos: la niña de capa roja con una canasta y un personaje que la aborda con una sonrisa excesiva. La obra cambia el lobo por el director de un banco. Agrega la idea de que el peligro puede venir de personas con poder en la ciudad.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -500,7 +500,7 @@ Respuesta: El final es eficaz porque no explica el cambio del pueblo y deja que 
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elijo «La niña de la capa roja…»: remite a Caperucita Roja. Los rasgos: la niña de capa roja con una canasta y un personaje que la aborda con una sonrisa excesiva. La obra cambia el lobo por el director de un banco. Agrega la idea de que el peligro puede venir de personas con poder en la ciudad. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Elijo el relato de la niña de la capa roja: remite a Caperucita Roja. Los rasgos: la niña de capa roja con una canasta y un personaje que la aborda con una sonrisa excesiva. La obra cambia el lobo por el director de un banco. Agrega la idea de que el peligro puede venir de personas con poder en la ciudad. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -626,7 +626,7 @@ Respuesta: Al mito de Prometeo; sugiere que compartir un bien puede ser castigad
 - **E2.** A) descubrir sentidos nuevos. Enriquece la interpretación.
 - **E3.** A) obra literaria y herencia cultural. Se aborda con respeto y análisis.
 
-**Actividad abierta · ejemplo de respuesta.** Elijo «La niña de la capa roja…»: remite a Caperucita Roja. Los rasgos: la niña de capa roja con una canasta y un personaje que la aborda con una sonrisa excesiva. La obra cambia el lobo por el director de un banco. Agrega la idea de que el peligro puede venir de personas con poder en la ciudad.
+**Actividad abierta · ejemplo de respuesta.** Elijo el relato de la niña de la capa roja: remite a Caperucita Roja. Los rasgos: la niña de capa roja con una canasta y un personaje que la aborda con una sonrisa excesiva. La obra cambia el lobo por el director de un banco. Agrega la idea de que el peligro puede venir de personas con poder en la ciudad.
 
 **Criterios para evaluarla:** identifica el relato; dos rasgos; explica el cambio y el sentido.
 
@@ -788,7 +788,7 @@ Respuesta: Sí, se complementan: una mira a Amalia y la otra al pueblo
 
 *Aplicación*
 
-- **A1.** Texto de ejemplo: «Después de la sequía, Amalia salió al cerro con un cántaro vacío. En la cima encontró un manantial y, junto a él, un anciano que le dijo: «Puedes llevarte toda el agua, pero el manantial se secará». Amalia llenó solo medio cántaro. De vuelta, el pueblo la acusó de egoísta: «¡Había tanta agua!». Ella no respondió. Al año siguiente, el manantial seguía vivo y el pueblo, sin saber por qué, la miró distinto.» Hipótesis 1: «La obra defiende el cuidado de los bienes comunes aunque cueste ser incomprendido». Hipótesis 2: «La obra critica la falta de empatía de una comunidad que juzga sin conocer razones». ¿Qué hipótesis explica el cambio de mirada del pueblo al final? A) la 2, porque habla de cómo juzga y cambia la comunidad B) ninguna puede relacionarse
+- **A1.** Texto de ejemplo: «Después de la sequía, Amalia salió al cerro con un cántaro vacío. En la cima encontró un manantial y, junto a él, un anciano que le dijo: «Puedes llevarte toda el agua, pero el manantial se secará». Amalia llenó solo medio cántaro. De vuelta, el pueblo la acusó de egoísta: «¡Había tanta agua!». Ella no respondió. Al año siguiente, el manantial seguía vivo y el pueblo, sin saber por qué, la miró distinto.» Hipótesis 1: «La obra defiende el cuidado de los bienes comunes aunque cueste ser incomprendido». Hipótesis 2: «La obra critica la falta de empatía de una comunidad que juzga sin conocer razones». ¿Qué hipótesis se centra en la reacción del pueblo ante Amalia? A) la 2, porque habla de cómo juzga la comunidad B) la 1, porque habla de cómo juzga la comunidad
 - **A2.** Texto de ejemplo: «Después de la sequía, Amalia salió al cerro con un cántaro vacío. En la cima encontró un manantial y, junto a él, un anciano que le dijo: «Puedes llevarte toda el agua, pero el manantial se secará». Amalia llenó solo medio cántaro. De vuelta, el pueblo la acusó de egoísta: «¡Había tanta agua!». Ella no respondió. Al año siguiente, el manantial seguía vivo y el pueblo, sin saber por qué, la miró distinto.» Hipótesis 1: «La obra defiende el cuidado de los bienes comunes aunque cueste ser incomprendido». Hipótesis 3: «La obra muestra que el anciano es un engañador que castiga a Amalia». ¿Cuál tiene mayor alcance? A) la 3 B) la 1, porque explica el medio cántaro, la acusación y el final
 - **A3.** Dos lectores. X: «Es una crítica al pueblo». Y: «Es una defensa de Amalia». ¿Cómo pueden relacionarse? A) como una contradicción absoluta B) como lecturas compatibles de un mismo hecho
 
@@ -823,7 +823,7 @@ Respuesta: Sí, se complementan: una mira a Amalia y la otra al pueblo
 - **C1.** A) «el manantial seguía vivo». Confirma que la advertencia era cierta.
 - **C2.** A) «el pueblo la acusó de egoísta». Muestra el juicio sin conocer razones.
 - **C3.** A) «Amalia llenó solo medio cántaro». Muestra una acción de cuidado.
-- **A1.** A) la 2, porque habla de cómo juzga y cambia la comunidad. Se centra en la reacción del pueblo.
+- **A1.** A) la 2, porque habla de cómo juzga la comunidad. Se centra en la reacción del pueblo.
 - **A2.** B) la 1, porque explica el medio cántaro, la acusación y el final. Integra más partes.
 - **A3.** B) como lecturas compatibles de un mismo hecho. Critican y defienden desde ángulos que se complementan.
 - **Z1.** B) ignora que otras pueden sostenerse con evidencia. Los textos literarios admiten más de una lectura.

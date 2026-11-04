@@ -102,7 +102,7 @@ La tecnología cambia la vida de las personas, y esos cambios se llaman efectos.
 
 Los efectos pueden ser directos, si recaen en quien usa el producto, o indirectos, si llegan a otras personas o a la sociedad. Pueden ser previstos, cuando se buscaban, o no previstos, cuando nadie los esperaba. Y pueden ocurrir a corto plazo, que es pronto, o a largo plazo, que es mucho después.
 
-Para clasificar un efecto se pregunta: ¿qué cambió?, ¿a quién afecta?, ¿es una mejora o un daño para esa persona? y ¿cuándo ocurre? Lo que es positivo para un grupo puede ser negativo para otro. Por eso la pregunta clave es siempre «¿para quién?».
+Para clasificar un efecto se pregunta: ¿qué cambió?, ¿a quién afecta?, ¿es una mejora o un daño para esa persona? y ¿cuándo ocurre? Lo que es positivo para un grupo puede ser negativo para otro. Por eso la pregunta clave es siempre «¿para quién?». Si se cuentan personas de dos grupos que se cruzan, se suman los grupos y se resta una vez a quienes están en ambos.
 
 **Palabras importantes**
 

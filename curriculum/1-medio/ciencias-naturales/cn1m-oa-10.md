@@ -157,7 +157,7 @@ Respuesta: 1.020 m
 
 - **A1.** Un trueno de ejemplo llega 5 segundos después del rayo. Con 340 m/s, ¿a cuántos metros cayó el rayo?
 - **A2.** ¿Cuál es una pregunta investigable? A) ¿Es hermoso el eco?; B) ¿Cuántos segundos tarda el eco de una palmada en volver desde una pared a 34 m?
-- **A3.** El sonido recorre 340 metros en 1 segundo. ¿Cuántos metros recorre en 4 segundos?
+- **A3.** En 3 segundos, ¿cuántos metros más recorre el sonido en el agua (1.500 m/s) que en el aire (340 m/s)?
 
 *Razonamiento y análisis*
 
@@ -191,7 +191,7 @@ Respuesta: 1.020 m
 - **C3.** Una zona donde las partículas están más juntas. Alterna con zonas más separadas.
 - **A1.** 1.700 m. Se multiplica la rapidez por el tiempo. Cálculo: 340 × 5 = 1.700.
 - **A2.** B. Se contesta midiendo el tiempo.
-- **A3.** 1.360 m. Se multiplica por el tiempo. Cálculo: 340 × 4 = 1.360.
+- **A3.** 3.480 m. Se calcula la distancia en cada medio y se restan. Cálculo: 1500 × 3 − 340 × 3 = 3.480.
 - **Z1.** B. El sonido necesita medio.
 - **Z2.** B. En los sólidos la rapidez suele ser mayor.
 - **D1.** 3.000 m. Se multiplica la rapidez por el tiempo. Cálculo: 1500 × 2 = 3.000.
@@ -365,7 +365,7 @@ Respuesta: No, es ultrasonido
 
 - **A1.** Dos sonidos de ejemplo: el A de 200 Hz y el B de 800 Hz. ¿Cuál es más agudo?
 - **A2.** Un ultrasonido de ejemplo tiene 40.000 Hz. ¿Cuántos Hz más que 20.000 Hz tiene?
-- **A3.** Una conversación suena a 60 dB y el tráfico intenso a 80 dB. ¿Cuál tiene mayor intensidad?
+- **A3.** Con los valores de referencia, ¿cuántos dB más intenso es un concierto fuerte (110 dB) que una conversación (60 dB)?
 
 *Razonamiento y análisis*
 
@@ -399,7 +399,7 @@ Respuesta: No, es ultrasonido
 - **C3.** De unos 20 a 20.000 Hz. Fuera de ese rango son infrasonido o ultrasonido.
 - **A1.** El B. Tiene mayor frecuencia.
 - **A2.** 20.000 Hz. Se resta el límite superior del rango humano. Cálculo: 40000 − 20000 = 20.000.
-- **A3.** El tráfico intenso. 80 dB es mayor que 60 dB.
+- **A3.** 50 dB. Se resta el valor de la conversación al del concierto. Cálculo: 110 − 60 = 50.
 - **Z1.** B. Son cualidades distintas.
 - **Z2.** A. Mayor amplitud significa mayor intensidad.
 - **D1.** 250. 500 dividido por 2 es 250.
@@ -478,7 +478,7 @@ Respuesta: No, es ultrasonido
 
 **Recurso listo para usar:** Un elástico, una regla y un vaso de plástico. Si no tienes, usa las descripciones de los ejercicios.
 
-**Consigna exacta:** Con un elástico grande estirado entre dos dedos, pulsa el elástico en tres situaciones y anota si el tono es más agudo o más grave: (1) estirado poco; (2) estirado bastante, sin llegar al máximo; (3) estirado igual que en (2) y acortado con un dedo a la mitad. Hazlo con cuidado: no lo apuntes hacia ninguna persona y protege tus ojos. Si no tienes elástico, usa estos datos de ejemplo: (1) grave; (2) agudo; (3) muy agudo. Escribe una conclusión sobre la tensión y la longitud.
+**Consigna exacta:** Con un elástico grande estirado entre dos dedos, pulsa el elástico en tres situaciones y anota si el tono es más agudo o más grave: (1) estirado poco; (2) estirado bastante, sin llegar al máximo; (3) estirado igual que en (2) y acortado con un dedo a la mitad. Hazlo con cuidado y, si es posible, con una persona adulta cerca: usa un elástico nuevo, no lo estires hasta el máximo ni cerca de la cara, no lo apuntes hacia ninguna persona y protege tus ojos. Si no tienes elástico, usa estos datos de ejemplo: (1) grave; (2) agudo; (3) muy agudo. Escribe una conclusión sobre la tensión y la longitud.
 
 **Referencia para modelar y corregir:** Más tensión aumenta el tono; menos longitud también. Orden de grave a agudo: (1), (2), (3).
 
@@ -595,7 +595,7 @@ Respuesta: La cuerda gruesa
 - **E2.** ¿Qué es la resonancia?
 - **E3.** ¿Qué vibra en las cuerdas vocales?
 
-**Actividad abierta.** Con un elástico grande estirado entre dos dedos, pulsa el elástico en tres situaciones y anota si el tono es más agudo o más grave: (1) estirado poco; (2) estirado bastante, sin llegar al máximo; (3) estirado igual que en (2) y acortado con un dedo a la mitad. Hazlo con cuidado: no lo apuntes hacia ninguna persona y protege tus ojos. Si no tienes elástico, usa estos datos de ejemplo: (1) grave; (2) agudo; (3) muy agudo. Escribe una conclusión sobre la tensión y la longitud.
+**Actividad abierta.** Con un elástico grande estirado entre dos dedos, pulsa el elástico en tres situaciones y anota si el tono es más agudo o más grave: (1) estirado poco; (2) estirado bastante, sin llegar al máximo; (3) estirado igual que en (2) y acortado con un dedo a la mitad. Hazlo con cuidado y, si es posible, con una persona adulta cerca: usa un elástico nuevo, no lo estires hasta el máximo ni cerca de la cara, no lo apuntes hacia ninguna persona y protege tus ojos. Si no tienes elástico, usa estos datos de ejemplo: (1) grave; (2) agudo; (3) muy agudo. Escribe una conclusión sobre la tensión y la longitud.
 
 **Solucionario razonado**
 
@@ -781,7 +781,7 @@ Respuesta: Más agudo
 
 - **A1.** Un eco tarda 6 segundos en volver desde un acantilado. Con 340 m/s, ¿a qué distancia está?
 - **A2.** Un sonar de ejemplo recibe el eco del fondo del mar a los 2 segundos. Con 1.500 m/s, ¿qué profundidad tiene?
-- **A3.** Una bocina emite 500 Hz siempre. Cuando se acerca, una persona oye 540 Hz. ¿Cuál es la frecuencia que se emite? A) 540 Hz; B) 500 Hz.
+- **A3.** Una bocina emite siempre la misma frecuencia. Una persona quieta la oye a 540 Hz mientras se acerca y a 470 Hz mientras se aleja. ¿Cuál puede ser la frecuencia que emite? A) 500 Hz; B) 600 Hz.
 
 *Razonamiento y análisis*
 
@@ -815,7 +815,7 @@ Respuesta: Más agudo
 - **C3.** Unos 1.500 m/s. Es mayor que en el aire.
 - **A1.** 1.020 m. Se multiplica la rapidez por el tiempo y se divide entre 2. Cálculo: 340 × 6 ÷ 2 = 1.020.
 - **A2.** 1.500 m. Se multiplica por el tiempo y se divide entre 2. Cálculo: 1500 × 2 ÷ 2 = 1.500.
-- **A3.** B. La fuente no cambia su frecuencia; cambia la que se percibe.
+- **A3.** A. Al acercarse se oye más aguda y al alejarse más grave, así que la real queda entre 470 y 540 Hz.
 - **Z1.** A. El cambio depende del movimiento relativo.
 - **Z2.** A. Hace falta un retraso mayor a unos 0,1 segundos.
 - **D1.** 3.000 m. Se calculan ambas distancias y se restan. Cálculo: 1500 × 12 ÷ 2 − 1500 × 8 ÷ 2 = 3.000.
@@ -988,7 +988,7 @@ Respuesta: Ecógrafo
 *Aplicación*
 
 - **A1.** Escalas aproximadas: susurro 30 dB, conversación 60 dB, tráfico intenso 80 dB, concierto fuerte 110 dB. ¿Cuál de esas fuentes supera los 85 dB?
-- **A2.** Una persona escucha 2 horas diarias de música con audífonos durante 5 días a la semana. ¿Cuántas horas escucha en una semana?
+- **A2.** Una persona escucha música a 100 dB con audífonos 2 horas diarias durante 5 días a la semana. ¿Cuántas horas a la semana se expone a un nivel sobre los 85 dB?
 - **A3.** Una escuela instala paneles en un gimnasio ruidoso. ¿Qué fenómeno aprovechan para reducir el ruido? A) Absorción del sonido; B) Refracción de la luz.
 
 *Razonamiento y análisis*

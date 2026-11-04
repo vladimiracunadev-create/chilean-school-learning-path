@@ -144,19 +144,19 @@ Respuesta: Dices que el recreo debe alargarse para tener tiempo de comer
 
 *Recuperación*
 
-- **R1.** En un diálogo sobre dónde hacer la fiesta de fin de año, ¿qué frase es una desviación? A) Prefiero hacerla en el gimnasio B) «Por cierto, ¿alguien tiene un cargador?» C) Propongo hacerla en la tarde
-- **R2.** En un diálogo sobre dónde hacer la fiesta de fin de año, alguien se desvía hacia un partido de fútbol. ¿Qué frase ayuda a volver al foco? A) Cambiemos de tema B) «Volviendo a la fiesta, ¿en qué horario la hacemos?» C) No me interesa
+- **R1.** En un diálogo sobre dónde hacer la fiesta de fin de año, ¿qué frase es una desviación? A) «Propongo hacerla en la tarde.» B) «Prefiero hacerla en el gimnasio.» C) «Por cierto, ¿alguien tiene un cargador?»
+- **R2.** En un diálogo sobre dónde hacer la fiesta de fin de año, alguien se desvía hacia un partido de fútbol. ¿Qué frase ayuda a volver al foco? A) «No me interesa.» B) «Cambiemos de tema.» C) «Volviendo a la fiesta, ¿en qué horario la hacemos?»
 - **R3.** «Si entendí bien, propones hacer la fiesta en el gimnasio». ¿Qué hace quien dice esto? A) cambia de tema B) se despide C) parafrasea
 
 *Comprensión*
 
 - **C1.** ¿Para qué sirve parafrasear? A) para cambiar la idea del otro B) para repetir exactamente las mismas palabras C) para comprobar que entendí y mostrarlo al otro
 - **C2.** Alguien dice: «Prefiero votar en la mañana porque hay menos filas». ¿Cuál es la paráfrasis fiel? A) Dices que no quieres votar B) Dices que votar en la mañana es mejor porque hay menos filas C) Dices que las filas son buenas
-- **C3.** ¿Cuál frase pide aclaración? A) «¿A qué te refieres con «más cómodo»?» B) Estoy de acuerdo C) No importa
+- **C3.** ¿Cuál frase pide aclaración? A) «¿A qué te refieres con “más cómodo”?» B) «Estoy de acuerdo.» C) «No importa.»
 
 *Aplicación*
 
-- **A1.** Diálogo de ejemplo. Lucas: «Propongo un campeonato de ajedrez». Mía: «¿Cómo? ¿De qué trata eso? Además, ayer vi una serie genial». ¿Qué debería decir Lucas para mantener el foco? A) Mejor no hablemos B) Cuéntame de la serie C) «Volvamos al campeonato: ¿en qué horario les parece?»
+- **A1.** Diálogo de ejemplo. Lucas: «Propongo un campeonato de ajedrez». Mía: «¿Cómo? ¿De qué trata eso? Además, ayer vi una serie genial». ¿Qué debería decir Lucas para mantener el foco? A) «Mejor no hablemos.» B) «Cuéntame de la serie.» C) «Volvamos al campeonato: ¿en qué horario les parece?»
 - **A2.** Alguien dice: «Hay que cambiar el reglamento de las canchas, porque los de primero casi no pueden jugar». ¿Cuál es la paráfrasis más fiel? A) Dices que los de primero no deben jugar B) Dices que todo el reglamento está malo C) Propones modificar el reglamento porque los de primero tienen poco acceso a las canchas
 - **A3.** En un grupo se han dado tres propuestas: radio, ajedrez y huerto. ¿Qué frase resume? A) Todas son malas B) Hasta ahora hay tres propuestas: radio, ajedrez y huerto C) Yo prefiero la radio
 
@@ -168,7 +168,7 @@ Respuesta: Dices que el recreo debe alargarse para tener tiempo de comer
 *Desafío*
 
 - **D1.** Diálogo de ejemplo. Marta: «Propongo hacer el campeonato en el patio». Luis: «El patio es muy chico». Marta: «¿Quieres decir que el patio no tiene espacio para las mesas?». Luis: «Sí, exacto». ¿Qué estrategia usa Marta? A) interrumpe B) cambia de tema C) parafrasea en forma de pregunta para confirmar
-- **D2.** En un diálogo sobre un viaje de curso, ¿cuál de estas intervenciones mantiene el foco y demuestra comprensión? A) «Si entendí bien, prefieres el museo porque es más barato; ¿cuánto costaría?» B) «Qué lindo día, ¿no?» C) Yo nunca he ido a ningún museo, jamás
+- **D2.** En un diálogo sobre un viaje de curso, ¿cuál de estas intervenciones mantiene el foco y demuestra comprensión? A) «Si entendí bien, prefieres el museo porque es más barato; ¿cuánto costaría?» B) «Qué lindo día, ¿no?» C) «Yo nunca he ido a ningún museo, jamás.»
 
 *Situaciones auténticas*
 
@@ -184,12 +184,12 @@ Respuesta: Dices que el recreo debe alargarse para tener tiempo de comer
 
 **Solucionario razonado**
 
-- **R1.** B) «Por cierto, ¿alguien tiene un cargador?». Cambia de tema.
-- **R2.** B) «Volviendo a la fiesta, ¿en qué horario la hacemos?». Retoma el tema central.
+- **R1.** C) «Por cierto, ¿alguien tiene un cargador?». Cambia de tema.
+- **R2.** C) «Volviendo a la fiesta, ¿en qué horario la hacemos?». Retoma el tema central.
 - **R3.** C) parafrasea. Dice con sus palabras lo que escuchó.
 - **C1.** C) para comprobar que entendí y mostrarlo al otro. Demuestra comprensión de lo escuchado.
 - **C2.** B) Dices que votar en la mañana es mejor porque hay menos filas. Mantiene la idea y la razón.
-- **C3.** A) «¿A qué te refieres con «más cómodo»?». Pregunta por una parte poco clara.
+- **C3.** A) «¿A qué te refieres con “más cómodo”?». Pregunta por una parte poco clara.
 - **A1.** C) «Volvamos al campeonato: ¿en qué horario les parece?». Recupera el foco sin ofender.
 - **A2.** C) Propones modificar el reglamento porque los de primero tienen poco acceso a las canchas. No exagera ni cambia lo dicho.
 - **A3.** B) Hasta ahora hay tres propuestas: radio, ajedrez y huerto. Reúne las ideas dichas sin opinar.
@@ -353,7 +353,7 @@ Respuesta: ¿En qué te basas para decir que todos lo quieren?
 *Recuperación*
 
 - **R1.** ¿Cuál de estas afirmaciones se basa en evidencia? A) Todos saben que va a fallar B) Dicen que a nadie le gusta C) Según la lista de inscripción, 36 estudiantes se anotaron
-- **R2.** ¿Qué pregunta pide evidencia sin atacar? A) «¿Cómo puedes ser tan ignorante?» B) «¿De dónde sacaste ese dato?» C) Eso es mentira
+- **R2.** ¿Qué pregunta pide evidencia sin atacar? A) «Eso es mentira.» B) «¿Cómo puedes ser tan ignorante?» C) «¿De dónde sacaste ese dato?»
 - **R3.** ¿Qué es la evidencia? A) una opinión muy fuerte B) un dato, observación o fuente que respalda una afirmación C) una frase repetida
 
 *Comprensión*
@@ -365,7 +365,7 @@ Respuesta: ¿En qué te basas para decir que todos lo quieren?
 *Aplicación*
 
 - **A1.** En un diálogo se debate si el curso debe visitar un museo. Alguien dice: «Hay que ir, porque según el folleto la entrada es gratis para estudiantes». ¿Qué parte es la evidencia? A) según el folleto, la entrada es gratis para estudiantes B) hay que ir C) porque
-- **A2.** Alguien afirma: «El nuevo horario es peor». ¿Cuál es la mejor forma de pedir evidencia? A) «¿Peor en qué sentido, y qué datos o ejemplos tienes?» B) No digas tonterías C) Entonces todo está mal
+- **A2.** Alguien afirma: «El nuevo horario es peor». ¿Cuál es la mejor forma de pedir evidencia? A) «No digas tonterías.» B) «¿Peor en qué sentido, y qué datos o ejemplos tienes?» C) «Entonces todo está mal.»
 - **A3.** Alguien dice: «Todo el mundo sabe que ese libro es aburrido». ¿Cómo se transforma en una afirmación con evidencia? A) Ese libro es aburridísimo B) Todos lo dicen C) Leí los primeros tres capítulos y encontré pocas escenas de acción
 
 *Razonamiento y análisis*
@@ -393,13 +393,13 @@ Respuesta: ¿En qué te basas para decir que todos lo quieren?
 **Solucionario razonado**
 
 - **R1.** C) Según la lista de inscripción, 36 estudiantes se anotaron. Indica una fuente comprobable.
-- **R2.** B) «¿De dónde sacaste ese dato?». Pide la fuente con respeto.
+- **R2.** C) «¿De dónde sacaste ese dato?». Pide la fuente con respeto.
 - **R3.** B) un dato, observación o fuente que respalda una afirmación. Es lo que se puede comprobar.
 - **C1.** B) Porque no indica una fuente comprobable. «Dicen que» no identifica de dónde viene.
 - **C2.** A) Los estudiantes necesitan alimentos que den energía en la tarde. Explica por qué la postura es conveniente.
 - **C3.** C) En el registro, 40 estudiantes esperaron turno el lunes (dato de ejemplo). Es un dato comprobable relacionado con la postura.
 - **A1.** A) según el folleto, la entrada es gratis para estudiantes. Cita una fuente concreta.
-- **A2.** A) «¿Peor en qué sentido, y qué datos o ejemplos tienes?». Invita a precisar y a mostrar pruebas.
+- **A2.** B) «¿Peor en qué sentido, y qué datos o ejemplos tienes?». Invita a precisar y a mostrar pruebas.
 - **A3.** C) Leí los primeros tres capítulos y encontré pocas escenas de acción. Describe una observación propia.
 - **Z1.** C) la de Ema. Ema entrega una observación concreta.
 - **Z2.** B) Porque hasta comprobarlo no puede usarse como prueba. Una prueba debe poder comprobarse.
@@ -560,7 +560,7 @@ Respuesta: Me refería al horario del recreo: por ejemplo, 15 minutos no alcanza
 
 *Recuperación*
 
-- **R1.** ¿Cuál es una pregunta de aclaración? A) «¿Y tú qué sabes?» B) «¿Qué quieres decir con «mejorar el patio»?» C) «¿Cuándo es el recreo?»
+- **R1.** ¿Cuál es una pregunta de aclaración? A) «¿Cuándo es el recreo?» B) «¿Y tú qué sabes?» C) «¿Qué quieres decir con “mejorar el patio”?»
 - **R2.** ¿Cuál es una pregunta de profundización? A) «¿Qué pasaría si todos los cursos lo hicieran?» B) «¿Ya terminaste?» C) «¿Quién tiene lápiz?»
 - **R3.** ¿Qué comentario aporta algo nuevo? A) Además, podríamos medir cuántas personas usan la cancha B) Yo también C) No estoy de acuerdo
 
@@ -600,7 +600,7 @@ Respuesta: Me refería al horario del recreo: por ejemplo, 15 minutos no alcanza
 
 **Solucionario razonado**
 
-- **R1.** B) «¿Qué quieres decir con «mejorar el patio»?». Pide precisar una expresión del otro.
+- **R1.** C) «¿Qué quieres decir con “mejorar el patio”?». Pide precisar una expresión del otro.
 - **R2.** A) «¿Qué pasaría si todos los cursos lo hicieran?». Invita a pensar en consecuencias.
 - **R3.** A) Además, podríamos medir cuántas personas usan la cancha. Propone una acción adicional.
 - **C1.** A) «¿En qué te basas para decir eso?». Pregunta por la fuente de la afirmación.
@@ -769,20 +769,20 @@ Respuesta: Espera su turno y anota su idea
 *Recuperación*
 
 - **R1.** En un diálogo entre personas que piensan distinto, ¿qué es negociar? A) buscar un acuerdo entre posturas distintas B) ganar una discusión C) evitar hablar
-- **R2.** ¿Cuál frase abre la conversación? A) «¿Qué te parece si probamos una semana?» B) Es mi última palabra C) Nunca
+- **R2.** ¿Cuál frase abre la conversación? A) «¿Qué te parece si probamos una semana?» B) «Es mi última palabra.» C) «Nunca.»
 - **R3.** ¿Qué debes hacer mientras otra persona habla? A) esperar y escuchar hasta que termine B) hablar encima C) cambiar de tema
 
 *Comprensión*
 
 - **C1.** En una negociación, ¿qué es una concesión? A) renunciar a algo para llegar a un acuerdo B) negarse a hablar C) repetir la propuesta
 - **C2.** ¿Cuándo se justifica una interrupción breve? A) para ganar tiempo B) para hablar de otra cosa C) para aclarar un dato que no se entendió
-- **C3.** Después de acordar, ¿qué frase confirma el acuerdo? A) «Entonces acordamos alternar los días, ¿están de acuerdo?» B) Ya veremos C) Como quieran
+- **C3.** Después de acordar, ¿qué frase confirma el acuerdo? A) «Como quieran.» B) «Ya veremos.» C) «Entonces acordamos alternar los días, ¿están de acuerdo?»
 
 *Aplicación*
 
 - **A1.** Dos grupos quieren usar la sala el mismo viernes: uno para ensayar teatro y otro para una charla. ¿Cuál es la mejor propuesta de acuerdo? A) Alternar: teatro de 15:00 a 16:30 y charla de 16:30 a 18:00 B) Que gane el grupo más numeroso C) Que nadie use la sala
-- **A2.** Un estudiante levanta la mano mientras otro habla. ¿Qué hace el moderador? A) le da el turno cuando el otro termina B) le quita la palabra al que habla C) ignora la mano
-- **A3.** Tomás casi no ha hablado en la reunión. ¿Qué frase lo incluye? A) Tomás, mejor no hables B) «Tomás, ¿tú qué piensas?» C) Sigamos sin Tomás
+- **A2.** Un estudiante levanta la mano mientras otro habla. ¿Qué conviene hacer? A) ignorar la mano B) quitarle la palabra al que habla C) darle el turno cuando el otro termine
+- **A3.** Tomás casi no ha hablado en la reunión. ¿Qué frase lo incluye? A) «Sigamos sin Tomás.» B) «Tomás, mejor no hables.» C) «Tomás, ¿tú qué piensas?»
 
 *Razonamiento y análisis*
 
@@ -813,10 +813,10 @@ Respuesta: Espera su turno y anota su idea
 - **R3.** A) esperar y escuchar hasta que termine. Es la base de los turnos.
 - **C1.** A) renunciar a algo para llegar a un acuerdo. Es una cesión parcial.
 - **C2.** C) para aclarar un dato que no se entendió. Ayuda a comprender sin quitar el turno.
-- **C3.** A) «Entonces acordamos alternar los días, ¿están de acuerdo?». Hace explícito lo que se decidió.
+- **C3.** C) «Entonces acordamos alternar los días, ¿están de acuerdo?». Hace explícito lo que se decidió.
 - **A1.** A) Alternar: teatro de 15:00 a 16:30 y charla de 16:30 a 18:00. Reparte el tiempo y satisface a ambos.
-- **A2.** A) le da el turno cuando el otro termina. Respeta el orden.
-- **A3.** B) «Tomás, ¿tú qué piensas?». Le da un turno de forma respetuosa.
+- **A2.** C) darle el turno cuando el otro termine. Respeta el orden.
+- **A3.** C) «Tomás, ¿tú qué piensas?». Le da un turno de forma respetuosa.
 - **Z1.** B) cierra la posibilidad de acuerdo. Es una postura sin flexibilidad.
 - **Z2.** A) buscar un punto en común, como ampliar solo cinco minutos. Busca una solución intermedia.
 - **D1.** B) que monopoliza la palabra. Los demás casi no hablaron.
@@ -896,7 +896,7 @@ Respuesta: Espera su turno y anota su idea
 
 **Consigna exacta:** Participa en un diálogo de ejemplo con otra persona de tu casa o con quien quieras sobre esta pregunta: «¿Conviene que el colegio tenga una hora de lectura silenciosa al día?». Antes, prepara tu postura, dos razones, una evidencia (puedes usar un dato que observes) y una objeción con su respuesta. Después de conversar 8 minutos, completa la pauta con los criterios: foco, comprensión, fundamentación, avance y acuerdos/turnos; elige un nivel y escribe una evidencia para cada uno, y fija una meta de mejora.
 
-**Referencia para modelar y corregir:** Preparación: Postura: sí conviene. Razones: mejora la concentración; crea el hábito de leer. Evidencia: en mi curso, 10 de 28 leen solo en clase (dato de ejemplo). Objeción: quita tiempo de clase; respuesta: 20 minutos no afectan el currículo. Pauta: Foco: logrado, dije «volviendo a la lectura». Comprensión: logrado, parafraseé «Si entendí bien…». Fundamentación: en desarrollo, mi evidencia fue débil. Avance: logrado, pregunté «¿qué pasaría si fuera 10 minutos?». Acuerdos: logrado, resumimos que probaríamos una semana. Meta: buscar un dato más sólido.
+**Referencia para modelar y corregir:** Preparación: Postura: sí conviene. Razones: mejora la concentración; crea el hábito de leer. Evidencia: en mi curso, 10 de 28 leen solo en clase (dato de ejemplo). Objeción: quita tiempo de clase; respuesta: son solo 20 minutos y se compensan con mayor concentración. Pauta: Foco: logrado, dije «volviendo a la lectura». Comprensión: logrado, parafraseé «Si entendí bien…». Fundamentación: en desarrollo, mi evidencia fue débil. Avance: logrado, pregunté «¿qué pasaría si fuera 10 minutos?». Acuerdos: logrado, resumimos que probaríamos una semana. Meta: buscar un dato más sólido.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -910,7 +910,7 @@ Respuesta: Espera su turno y anota su idea
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Preparación: Postura: sí conviene. Razones: mejora la concentración; crea el hábito de leer. Evidencia: en mi curso, 10 de 28 leen solo en clase (dato de ejemplo). Objeción: quita tiempo de clase; respuesta: 20 minutos no afectan el currículo. Pauta: Foco: logrado, dije «volviendo a la lectura». Comprensión: logrado, parafraseé «Si entendí bien…». Fundamentación: en desarrollo, mi evidencia fue débil. Avance: logrado, pregunté «¿qué pasaría si fuera 10 minutos?». Acuerdos: logrado, resumimos que probaríamos una semana. Meta: buscar un dato más sólido. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Preparación: Postura: sí conviene. Razones: mejora la concentración; crea el hábito de leer. Evidencia: en mi curso, 10 de 28 leen solo en clase (dato de ejemplo). Objeción: quita tiempo de clase; respuesta: son solo 20 minutos y se compensan con mayor concentración. Pauta: Foco: logrado, dije «volviendo a la lectura». Comprensión: logrado, parafraseé «Si entendí bien…». Fundamentación: en desarrollo, mi evidencia fue débil. Avance: logrado, pregunté «¿qué pasaría si fuera 10 minutos?». Acuerdos: logrado, resumimos que probaríamos una semana. Meta: buscar un dato más sólido. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -965,7 +965,7 @@ Problema: Tienes que defender «La radio escolar debe emitir en el segundo recre
 2. Una razón con evidencia.
 3. Una objeción posible y respuesta.
 
-Respuesta: Postura: la radio debe emitir en el segundo recreo. Razón: el primer recreo es corto, y la encuesta indica que 20 de 28 prefieren el segundo. Objeción: hay mucho ruido; respuesta: se puede usar el patio techado.
+Respuesta: Postura: la radio debe emitir en el segundo recreo. Razón: el primer recreo es corto, y una encuesta de ejemplo indica que 20 de 28 prefieren el segundo. Objeción: hay mucho ruido; respuesta: se puede usar el patio techado.
 
 **Errores frecuentes y cómo reconocerlos**
 
@@ -990,7 +990,7 @@ Respuesta: Postura: la radio debe emitir en el segundo recreo. Razón: el primer
 
 - **A1.** Diálogo de ejemplo. Luz: «Propongo plantar árboles en el patio». Ema: «Los árboles ensucian». Luz: «Entiendo que preocupe barrer. ¿Y si cada curso se encarga de una zona?». ¿Qué estrategia usa Luz? A) cambia de tema B) ignora la objeción C) reconoce la objeción y propone una alternativa
 - **A2.** Una estudiante prepara: «Postura: crear una biblioteca de aula. Razón: facilita leer. Evidencia: en el curso, 15 de 30 no tienen libros en casa (dato de ejemplo). Objeción: falta espacio. Respuesta: un estante pequeño». ¿Qué parte falta en una preparación completa? A) la postura B) nada: tiene postura, razón, evidencia y objeción C) la evidencia
-- **A3.** Dos estudiantes discuten por qué actividad hacer. ¿Cuál es el mejor cierre? A) «Resumimos: el curso hará juegos en la mañana y charla en la tarde; ¿estamos de acuerdo?» B) Bueno, hagamos lo que sea C) Ya me cansé
+- **A3.** Dos estudiantes discuten por qué actividad hacer. ¿Cuál es el mejor cierre? A) «Resumimos: el curso hará juegos en la mañana y charla en la tarde; ¿estamos de acuerdo?» B) «Bueno, hagamos lo que sea.» C) «Ya me cansé.»
 
 *Razonamiento y análisis*
 
@@ -1034,7 +1034,7 @@ Respuesta: Postura: la radio debe emitir en el segundo recreo. Razón: el primer
 - **E2.** Sí. Así preparas una respuesta.
 - **E3.** Sí. Respalda el juicio.
 
-**Actividad abierta · ejemplo de respuesta.** Preparación: Postura: sí conviene. Razones: mejora la concentración; crea el hábito de leer. Evidencia: en mi curso, 10 de 28 leen solo en clase (dato de ejemplo). Objeción: quita tiempo de clase; respuesta: 20 minutos no afectan el currículo. Pauta: Foco: logrado, dije «volviendo a la lectura». Comprensión: logrado, parafraseé «Si entendí bien…». Fundamentación: en desarrollo, mi evidencia fue débil. Avance: logrado, pregunté «¿qué pasaría si fuera 10 minutos?». Acuerdos: logrado, resumimos que probaríamos una semana. Meta: buscar un dato más sólido.
+**Actividad abierta · ejemplo de respuesta.** Preparación: Postura: sí conviene. Razones: mejora la concentración; crea el hábito de leer. Evidencia: en mi curso, 10 de 28 leen solo en clase (dato de ejemplo). Objeción: quita tiempo de clase; respuesta: son solo 20 minutos y se compensan con mayor concentración. Pauta: Foco: logrado, dije «volviendo a la lectura». Comprensión: logrado, parafraseé «Si entendí bien…». Fundamentación: en desarrollo, mi evidencia fue débil. Avance: logrado, pregunté «¿qué pasaría si fuera 10 minutos?». Acuerdos: logrado, resumimos que probaríamos una semana. Meta: buscar un dato más sólido.
 
 **Criterios para evaluarla:** prepara postura, razones y objeción; usa los cinco criterios con evidencia; fija una meta concreta.
 

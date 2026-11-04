@@ -62,14 +62,14 @@ lesson(
         ("Completa: ___ attention to the teacher. A) Pay B) Make", "A) Pay", "La combinación habitual es pay attention."),
     ],
     [
-        (ADULT + PLAY + " ¿Qué le desea Ana a Ben con Break a leg? A) buena suerte B) que se lastime", "A) buena suerte", "Break a leg es una expresión idiomática que desea suerte antes de actuar."),
+        (ADULT + PLAY + " ¿Qué le desea Ana a Ben con Break a leg? A) buena suerte B) que tenga cuidado de no caerse en el escenario", "A) buena suerte", "Break a leg es una expresión idiomática que desea suerte antes de actuar."),
         (ADULT + RAIN + " ¿Cómo estaba el tiempo? A) llovía muchísimo B) había animales en la calle", "A) llovía muchísimo", "Raining cats and dogs es una expresión idiomática para lluvia fuerte."),
         (ADULT + MOON + " ¿Con qué frecuencia va al cine? A) muy rara vez B) todas las noches de luna llena", "A) muy rara vez", "Once in a blue moon significa casi nunca."),
     ],
     [
         (ADULT + "«We made a plan for the weekend, did our homework and had a good time.» (plan = plan, weekend = fin de semana). Anota las tres collocations en el orden en que aparecen.", "made a plan, did our homework, had a good time", "Son tres combinaciones habituales: make a plan, do homework, have a good time."),
         ("Alguien te dice «Nice to meet you». ¿Qué respuesta habitual da otra persona? A) Nice to meet you too. B) You're welcome.", "A) Nice to meet you too.", "Se responde repitiendo el saludo con too."),
-        ("Un amigo dice «Why don't we study together?». ¿Qué función cumple? A) hace una sugerencia B) cuenta algo que pasó ayer", "A) hace una sugerencia", "Why don't we...? es una forma de proponer un plan."),
+        ("Un amigo dice «Why don't we study together?». ¿Qué función cumple? A) hace una sugerencia B) pregunta por qué no estudian juntos", "A) hace una sugerencia", "Why don't we...? es una forma de proponer un plan."),
     ],
     [
         ("Tu compañero dice «I did a mistake». ¿Cuál es la forma natural en inglés? A) I made a mistake. B) I did a mistake.", "A) I made a mistake.", "La collocation de mistake es con make."),
@@ -124,12 +124,12 @@ lesson(
     ],
     [
         (ADULT + MORN + " ¿Qué hizo por último? A) llamó a su abuela B) salió a caminar", "A) llamó a su abuela", "Last I called my grandmother marca la última acción."),
-        (ADULT + MORN + " ¿Cómo se sentía a pesar del cansancio? A) feliz B) enojada", "A) feliz", "Although I was tired, I felt happy: contraste entre cansancio y alegría."),
-        (ADULT + LAPTOP + " ¿Para qué ahorra el hermano? A) para comprar un computador B) para viajar", "A) para comprar un computador", "Saves money so that he can buy a laptop."),
+        (ADULT + MORN + " ¿Cómo se sentía a pesar del cansancio? A) feliz B) tan cansado que no pudo disfrutar el día", "A) feliz", "Although I was tired, I felt happy: contraste entre cansancio y alegría."),
+        (ADULT + LAPTOP + " ¿Para qué ahorra el hermano? A) para comprar un computador B) para ayudar a sus padres con los trabajitos", "A) para comprar un computador", "Saves money so that he can buy a laptop."),
     ],
     [
         (ADULT + VOLS + " ¿Para qué recogen comida? A) para que las familias coman bien B) para vender en la feria", "A) para que las familias coman bien", "So that families can eat well expresa el propósito."),
-        (ADULT + FILM + " ¿Qué contraste hay en la película? A) era larga pero emocionante B) era corta y aburrida", "A) era larga pero emocionante", "The film was long, although it was exciting."),
+        (ADULT + FILM + " ¿Qué contraste hay en la película? A) era larga pero emocionante B) era emocionante y por eso larga", "A) era larga pero emocionante", "The film was long, although it was exciting."),
         (ADULT + VOLS + " ¿Quiénes son voluntarios? A) Marta y Tomás B) solo Marta", "A) Marta y Tomás", "Both significa ambos: Marta and Tomás are both volunteers."),
     ],
     [
@@ -140,7 +140,7 @@ lesson(
         (ADULT + "«A friend says although means because. Another friend says although shows a contrast.» (friend = amigo, shows = muestra). Con tus conocimientos, ¿quién tiene razón? A) el segundo, porque although indica contraste B) el primero, porque although indica causa", "A) el segundo, porque although indica contraste", "Because es la causa; although es aunque."),
         (ADULT + VOLS + " ¿Qué pasó el sábado a pesar de la lluvia? A) trabajaron seis horas B) se suspendió el trabajo", "A) trabajaron seis horas", "Although it rained all day introduce una dificultad que no los detuvo."),
     ],
-    [(ADULT + UMB + " ¿Qué podrán hacer más tarde? A) cenar juntos B) tomar el bus lento", "A) cenar juntos", "Later we can have dinner together.")],
+    [(ADULT + UMB + " ¿Qué podrán hacer más tarde? A) cenar juntos B) llegar a las seis", "A) cenar juntos", "Later we can have dinner together.")],
     [
         ("En Inglés de 1.º medio (OA 2, clase 2): ¿qué relación expresa although?", "Un contraste: aunque", "Une una dificultad con lo que ocurre igual."),
         ("En Inglés de 1.º medio (OA 2, clase 2): ¿qué relación expresa so that?", "Un propósito: para que", "Dice para qué se hace algo."),
@@ -157,7 +157,7 @@ lesson(
     "Aprenderé a distinguir vocales largas y cortas en pares como feet y fit, y a elegir la palabra correcta al escuchar. Sirve para que no cambie el significado de lo que digo ni de lo que entiendo.",
     ["Sé leer palabras cortas en inglés.", "Conozco palabras como sit, ship y green."],
     [
-        "En inglés, la duración de la vocal cambia el significado. La vocal larga se escribe /iː/ y suena más alargada y tensa, como en feet (pies), seat (asiento), sheep (oveja), leave (irse) y cheap (barato). La vocal corta se escribe /ɪ/ y es breve y relajada, como en fit (calzar), sit (sentarse), ship (barco), live (vivir) y chip (papa frita o fichita). En español solo tenemos una i, por eso cuesta oír la diferencia.",
+        "En inglés, la duración de la vocal cambia el significado. La vocal larga se escribe /iː/ y suena más alargada y tensa, como en feet (pies), seat (asiento), sheep (oveja), leave (irse), heat (calor) y cheap (barato). La vocal corta se escribe /ɪ/ y es breve y relajada, como en fit (calzar), sit (sentarse), ship (barco), live (vivir), hit (golpear) y chip (papa frita o fichita). En español solo tenemos una i, por eso cuesta oír la diferencia.",
         "Ocurre algo parecido con /uː/ y /ʊ/. La vocal larga está en pool (piscina), fool (tonto), food (comida) y Luke; la vocal corta está en pull (tirar), full (lleno), foot (pie) y look (mirar). La escritura ayuda, pero no es una regla: ee y ea suelen dar la vocal larga, como en green y beach, y la i sola suele dar la corta, como en grin y fit.",
         "Para practicar, junta pares mínimos (minimal pairs): palabras que solo se diferencian por un sonido. Sheep y ship, seat y sit, pool y pull. Di el par en voz alta, alarga la primera y acorta la segunda, y pide a otra persona que adivine cuál dijiste. Si cambias el sonido, cambias el mensaje: I want to leave here no es lo mismo que I want to live here.",
     ],
@@ -190,8 +190,8 @@ lesson(
         ("Una persona pide «a green peach» y le dan «a grin peach». ¿Qué error de sonido hubo? A) pronunció la vocal larga de green como corta B) cambió la consonante inicial", "A) pronunció la vocal larga de green como corta", "Green tiene /iː/; grin tiene /ɪ/; las demás letras son iguales."),
     ],
     [
-        ("Eva dice «Where is the pool?» y Sam entiende «Where is the pull?». ¿Qué malentendido ocurrió? A) se oyó una vocal corta en lugar de la larga de pool B) Eva no conocía la ciudad", "A) se oyó una vocal corta en lugar de la larga de pool", "Pool tiene /uː/ y pull tiene /ʊ/."),
-        ("Un cartel en el verano dice «Keep away from the heat». ¿Qué significa heat? A) calor B) golpe", "A) calor", "Heat, con vocal larga, es calor; hit, con vocal corta, es golpe."),
+        ("Eva dice «Where is the pool?» y Sam entiende «Where is the pull?». ¿Qué malentendido ocurrió? A) se oyó una vocal corta en lugar de la larga de pool B) Eva cambió la consonante final de pool", "A) se oyó una vocal corta en lugar de la larga de pool", "Pool tiene /uː/ y pull tiene /ʊ/."),
+        ("Un cartel en el verano dice «Keep away from the heat» (keep away = mantente lejos). ¿Qué significa heat? A) calor B) golpe", "A) calor", "Heat, con vocal larga, es calor; hit, con vocal corta, es golpe."),
     ],
     [("La palabra cheap (barato) y chip (papa frita) se diferencian por la vocal. En un cartel aparece «Cheap chips». ¿Cuál es la palabra que tiene vocal larga? A) cheap B) chips", "A) cheap", "Cheap tiene /iː/; chips tiene /ɪ/.")],
     [
@@ -239,7 +239,7 @@ lesson(
         ("Clasifica por sonido inicial: train, dream, yellow, jam, drive, young, true, yoga. Escribe las dos palabras con /tr/.", "train, true", "Train y true empiezan con /tr/."),
     ],
     [
-        ("Alguien dice «I want to dry this idea» y otro entiende «I want to try this idea». ¿Qué cambió? A) la primera consonante B) la vocal final", "A) la primera consonante", "Dry empieza con d y try con t; el resto es igual."),
+        ("Alguien dice «I want to try this shirt» y otro entiende «I want to dry this shirt». ¿Qué cambió? A) la primera consonante B) la vocal final", "A) la primera consonante", "Dry empieza con d y try con t; el resto es igual."),
         ("En la frase «Yesterday, the young driver drank orange juice and drew a tree», ¿cuántas palabras empiezan con /dr/? A) 3 B) 1", "A) 3", "Driver, drank y drew empiezan con /dr/."),
     ],
     [
@@ -289,10 +289,10 @@ lesson(
     [
         ("En «Excuse me, where is the train station? I need some information about vacation tickets», ¿cuántas palabras terminan en -tion?", "3 (station, information y vacation)", "Cada una termina en -tion."),
         ("Escribe en inglés la palabra para «conversación».", "conversation", "Cambia -ción por -tion: conversation."),
-        ("¿Cuál de estas palabras no termina en -tion? A) vacant B) vacation", "A) vacant", "Vacant termina en -ant; vacation termina en -tion."),
+        ("¿Cuál de estas palabras NO termina con el sonido /ʃən/? A) question B) station", "A) question", "Question es la excepción: termina en /tʃən/; station termina en /ʃən/."),
     ],
     [
-        ("Un amigo dice que education se dice con una t fuerte como en español. ¿Qué le corriges? A) que termina en /ʃən/ y la fuerza cae antes de -tion B) que la t se dice como d", "A) que termina en /ʃən/ y la fuerza cae antes de -tion", "En education el final es /ʃən/ y se acentúa -ca-."),
+        ("Un amigo dice que education se dice con una t fuerte como en español. ¿Qué le corriges? A) que termina en /ʃən/ y la fuerza cae antes de -tion B) que se dice ti-on, en dos sílabas", "A) que termina en /ʃən/ y la fuerza cae antes de -tion", "En education el final es /ʃən/ y se acentúa -ca-."),
         ("Alguien lee vacation como VA-ca-tion. ¿Qué cambia si lo dice bien? A) pone la fuerza en la segunda sílaba: va-CA-tion B) pone la fuerza en tion", "A) pone la fuerza en la segunda sílaba: va-CA-tion", "La fuerza cae justo antes de -tion."),
     ],
     [

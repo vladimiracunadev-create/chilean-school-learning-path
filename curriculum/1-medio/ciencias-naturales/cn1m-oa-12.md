@@ -159,7 +159,7 @@ Respuesta: Sí, porque se contesta midiendo distancias
 
 - **A1.** Gritas frente a una pared y escuchas el eco 2 segundos después. El sonido viaja a 340 m/s en el aire. ¿A cuántos metros está la pared?
 - **A2.** En un cerro, una persona siente presión en el oído al subir en un vehículo. ¿Qué parte del oído iguala esa presión?
-- **A3.** Se hacen sonar dos timbres idénticos, uno en el aire y otro dentro del agua. ¿Qué es necesario para que el sonido llegue al oído en ambos casos? A) Que haya vacío B) Que exista un medio material
+- **A3.** Se hacen sonar dos timbres idénticos, uno en el aire y otro dentro del agua. ¿Qué es necesario para que el sonido llegue al oído en ambos casos? A) Que el medio sea siempre aire B) Que exista un medio material que transmita la vibración
 
 *Razonamiento y análisis*
 
@@ -213,7 +213,7 @@ Respuesta: Sí, porque se contesta midiendo distancias
 
 **Retroalimentación constructiva:** Pregunta qué parte falla si el sonido llega al tímpano pero no se genera la señal nerviosa.
 
-**Refuerzo.** Escribe en orden las seis estructuras por las que pasa el sonido hasta llegar al nervio auditivo.
+**Refuerzo.** Escribe en orden las seis estructuras de la ruta del sonido, desde el pabellón auricular hasta el nervio auditivo, sin mirar el ejemplo resuelto.
 
 **Profundización.** Explica por qué el oído medio necesita huesecillos y no solo un tímpano.
 

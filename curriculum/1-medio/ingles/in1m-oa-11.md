@@ -128,7 +128,7 @@ Problema: Texto: «The old lighthouse stands alone / Above the cold and windy se
 
 Respuesta: Es un poema; su tema es que ser constante y guiar a otros es valioso
 
-*Ejemplo 2. Reconocer una leyenda y su tema*
+*Ejemplo 2. Reconocer un cuento y su tema*
 
 Problema: Texto: «A small silver fox lived near a lake. Every night it cried because it had no friends. One night a girl heard it and left some bread by the water. After that, the fox stayed near the village and guarded the children when they played near the lake.» (fox = zorro; silver = plateado; cried = lloraba; heard = oyó; left = dejó; guarded = cuidaba; village = aldea) ¿Qué tipo de texto es y cuál es su tema?
 
@@ -367,7 +367,7 @@ Respuesta: Es tímida (never raises her hand) y amable (runs to help Pablo)
 
 - **C1.** Lee: «It was late evening in a small library on an island. Nora, the librarian, put the last book on the shelf. She was curious about everything, so she opened an old box in the corner. Inside, she found a letter with a drawing of her own village.» (librarian = bibliotecaria; shelf = estante; curious = curiosa; corner = rincón; letter = carta; drawing = dibujo) ¿Cuándo ocurre la escena? A) Long ago B) In the morning C) Late evening
 - **C2.** Lee: «It was late evening in a small library on an island. Nora, the librarian, put the last book on the shelf. She was curious about everything, so she opened an old box in the corner. Inside, she found a letter with a drawing of her own village.» (librarian = bibliotecaria; shelf = estante; curious = curiosa; corner = rincón; letter = carta; drawing = dibujo) ¿Qué acción de Nora muestra su curiosidad? A) She is a librarian B) She put the last book on the shelf C) She opened an old box in the corner
-- **C3.** Lee: «I will not wear a coat, said Ian. Even if it is cold! His mother held out the coat again. Ian, it is snowing. I do not care, he said. He walked out with his arms crossed.» (coat = abrigo; held out = extendió; snowing = nevando; care = importar; arms crossed = brazos cruzados) ¿Cómo es Ian? A) Stubborn, porque rechaza el abrigo aunque su mamá le avisa que nieva B) Shy, porque camina con los brazos cruzados C) Generous, porque su mamá le ofrece algo
+- **C3.** Lee: «I will not wear a coat, said Ian. Even if it is cold! His mother held out the coat again. Ian, it is snowing. I do not care, he said. He walked out with his arms crossed.» (coat = abrigo; held out = extendió; snowing = nevando; care = importar; arms crossed = brazos cruzados) ¿Cómo es Ian? A) Shy, porque no quiere hablar con su mamá B) Stubborn, porque rechaza el abrigo aunque su mamá le avisa que nieva C) Generous, porque su mamá le ofrece un abrigo
 
 *Aplicación*
 
@@ -377,7 +377,7 @@ Respuesta: Es tímida (never raises her hand) y amable (runs to help Pablo)
 
 *Razonamiento y análisis*
 
-- **Z1.** Dos lectores leen: «I will not wear a coat, said Ian. Even if it is cold! His mother held out the coat again. Ian, it is snowing. I do not care, he said. He walked out with his arms crossed.» Lector 1: Ian es valiente porque sale a la nieve. Lector 2: Ian es terco porque rechaza el abrigo aunque le avisan que nieva. ¿Quién usa mejor la evidencia? A) El lector 1, porque la nieve es fría B) El lector 2, porque se apoya en sus palabras y en su actitud C) Ninguno, porque en una historia no se puede probar un rasgo
+- **Z1.** Dos lectores leen: «I will not wear a coat, said Ian. Even if it is cold! His mother held out the coat again. Ian, it is snowing. I do not care, he said. He walked out with his arms crossed.» Lector 1: Ian es valiente porque sale a la nieve. Lector 2: Ian es terco porque rechaza el abrigo aunque le avisan que nieva. ¿Quién usa mejor la evidencia? A) El lector 1, porque la nieve es fría B) El lector 2, porque se apoya en sus palabras y en su actitud C) Los dos, porque cualquier rasgo se puede defender sin pruebas
 - **Z2.** Lee: «In the summer of the big drought, Rita lived on a small farm near a dry river. She was honest. When the shop owner gave her too much change, she walked back two kilometers to return it.» Si la historia ocurriera en una primavera lluviosa, en vez de «the summer of the big drought», ¿qué detalle del texto dejaría de calzar? A) Walked back two kilometers B) Honest C) A dry river
 
 *Desafío*
@@ -404,7 +404,7 @@ Respuesta: Es tímida (never raises her hand) y amable (runs to help Pablo)
 - **R3.** B) On a farm in the south. El lugar dice dónde ocurre la acción; Rita es el personaje y fed the hens es la acción.
 - **C1.** C) Late evening. El texto abre con It was late evening.
 - **C2.** C) She opened an old box in the corner. Abrir la caja vieja es la acción que el texto une con su curiosidad (so she opened).
-- **C3.** A) Stubborn, porque rechaza el abrigo aunque su mamá le avisa que nieva. Dice I will not wear a coat y I do not care, así que no cambia de idea.
+- **C3.** B) Stubborn, porque rechaza el abrigo aunque su mamá le avisa que nieva. Dice I will not wear a coat y I do not care, así que no cambia de idea.
 - **A1.** B) On a small farm near a dry river. El lugar aparece en la primera oración.
 - **A2.** C) Honest, porque camina dos kilómetros para devolver el vuelto de más. El texto dice honest y lo prueba con su acción de devolver el dinero.
 - **A3.** A) Lazy. No terminar la tarea y dormir en clase son acciones de una persona floja.
@@ -599,7 +599,7 @@ Respuesta: 2, 3, 1
 
 *Situaciones auténticas*
 
-- **S1.** En el club de lectura debes elegir el mejor resumen de este microcuento: «Joaquín's grandmother had a small shop in Castro. When a big supermarket opened, fewer people came. Joaquín made a simple website with photos of her homemade jam. Soon people from other cities ordered it.» (shop = tienda; fewer = menos; website = sitio web; homemade jam = mermelada casera; ordered = pidieron) A) Problema: llegan menos clientes. Solución: vender la mermelada por un sitio web B) Problema: Castro es una ciudad grande. Solución: abrir un supermercado C) Problema: la abuela no sabe hacer mermelada. Solución: aprender
+- **S1.** En el club de lectura debes elegir el mejor resumen de este microcuento: «Joaquín's grandmother had a small shop in Castro. When a big supermarket opened, fewer people came. Joaquín made a simple website with photos of her homemade jam. Soon people from other cities ordered it.» (shop = tienda; fewer = menos; website = sitio web; homemade jam = mermelada casera; ordered = pidieron) A) Problema: llegan menos clientes. Solución: vender la mermelada por un sitio web B) Problema: la abuela vende mermelada. Solución: cerrar la tienda de Castro C) Problema: llegan menos clientes. Solución: abrir otro supermercado en la ciudad
 
 *Autoevaluación*
 
@@ -1010,7 +1010,7 @@ Respuesta: Hacer que el grupo se relaje y se comunique
 
 *Aplicación*
 
-- **A1.** Lee: «Sunday in the market of Temuco. At the stall, customers asked for the price of apples. Today is a bargain, said the seller, a kilo for one thousand pesos. Cristina went there once in a blue moon, but today she bought two kilos.» (stall = puesto; customers = clientes; price = precio; bargain = ganga; seller = vendedor; once in a blue moon = muy rara vez) ¿A qué campo temático pertenecen stall, customers, price y seller? A) El mar B) El mercado C) La montaña
+- **A1.** Lee: «Sunday in the market of Temuco. At the stall, customers asked for the price of apples. Today is a bargain, said the seller, a kilo for one thousand pesos. Cristina went there once in a blue moon, but today she bought two kilos.» (stall = puesto; customers = clientes; price = precio; bargain = ganga; seller = vendedor; once in a blue moon = muy rara vez) ¿A qué campo temático pertenecen stall, customers, price y seller? A) La montaña B) La escuela C) El mercado
 - **A2.** Lee: «Sunday in the market of Temuco. At the stall, customers asked for the price of apples. Today is a bargain, said the seller, a kilo for one thousand pesos. Cristina went there once in a blue moon, but today she bought two kilos.» (stall = puesto; customers = clientes; price = precio; bargain = ganga; seller = vendedor; once in a blue moon = muy rara vez) ¿Qué significa «bargain» aquí? A) Un kilo de manzanas B) Un puesto grande C) Un buen precio
 - **A3.** Lee: «Sunday in the market of Temuco. At the stall, customers asked for the price of apples. Today is a bargain, said the seller, a kilo for one thousand pesos. Cristina went there once in a blue moon, but today she bought two kilos.» (stall = puesto; customers = clientes; price = precio; bargain = ganga; seller = vendedor; once in a blue moon = muy rara vez) ¿Qué significa «once in a blue moon»? A) Muy rara vez B) Todas las noches C) Cada fin de semana
 
@@ -1044,7 +1044,7 @@ Respuesta: Hacer que el grupo se relaje y se comunique
 - **C1.** C) Un poco enferma. Ana tiene una prueba y el texto dice que el lunes ya estaba bien otra vez.
 - **C2.** A) Estudiar con esfuerzo. Tiene una prueba el lunes y estudia el sábado.
 - **C3.** B) Porque quiere que Dani guarde el secreto de la fiesta. Se trata de una fiesta sorpresa que no debe contarse.
-- **A1.** B) El mercado. Todas son palabras de comprar y vender.
+- **A1.** C) El mercado. Todas son palabras de comprar y vender.
 - **A2.** C) Un buen precio. El vendedor dice que el kilo cuesta mil pesos y lo llama bargain.
 - **A3.** A) Muy rara vez. El contraste es que hoy Cristina sí compró.
 - **Z1.** A) Ana tiene una prueba el lunes y lo hace el sábado en la mañana. La prueba explica que el verbo se refiere a estudiar.
@@ -1066,7 +1066,7 @@ Respuesta: Hacer que el grupo se relaje y se comunique
 
 **Retroalimentación constructiva:** Pide que explique por qué su significado calza con la historia.
 
-**Refuerzo.** Copia las seis expresiones idiomáticas con su significado y dibuja una escena para tres de ellas.
+**Refuerzo.** Copia las siete expresiones idiomáticas del vocabulario con su significado y dibuja una escena para tres de ellas.
 
 **Profundización.** Escribe en español una situación de tu vida diaria que podrías describir con «a piece of cake» y otra con «under the weather».
 

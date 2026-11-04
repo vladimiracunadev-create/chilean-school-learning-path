@@ -28,7 +28,7 @@ OA8 = "CN1M OA 08"
 # ---------------------------------------------------------------- OA 07
 
 L(OA7, 1,
-  materials="Este cuaderno y lápiz. Las ecuaciones y los casos están escritos en los ejercicios; no necesitas laboratorio.",
+  materials="Este cuaderno y lápiz. Las ecuaciones y los casos están escritos en los ejercicios; no necesitas laboratorio ni montar experimentos. Nunca acerques una lámpara enchufada al agua.",
   use="Aprenderé qué ocurre en la fotosíntesis y en la respiración celular y cómo formular preguntas investigables sobre ambas. Sirve para entender el flujo de energía y el ciclo de la materia en un ecosistema.",
   prior=["Sé que las plantas son productores.", "Sé qué es el dióxido de carbono y el oxígeno."],
   explain=[
@@ -70,12 +70,12 @@ L(OA7, 1,
   ],
   context=[arith("En un acuario de ejemplo hay 6 plantas y cada una libera 15 burbujas por minuto. ¿Cuántas burbujas por minuto libera el acuario?", "6*15", "Se multiplica el número de plantas por las burbujas de cada una.")],
   selfcheck=[("¿Dónde ocurre la fotosíntesis?", "En los cloroplastos", "Allí está la clorofila que capta la luz."), ("¿Qué productos tiene la respiración celular?", "CO2, agua y energía", "Se libera el CO2 y el agua."), ("¿Qué hace investigable a una pregunta?", "Que indica qué se mide", "Se contesta con observaciones o conteos.")],
-  open_task=task("Completa en una hoja una tabla de dos columnas, fotosíntesis y respiración celular, con estas filas: dónde ocurre, qué usa, qué produce, qué energía interviene. Después escribe dos preguntas investigables sobre una planta acuática y una lámpara de escritorio (por ejemplo, qué mides y qué cambias).", "Fotosíntesis: cloroplasto; usa CO2, agua y luz; produce glucosa y oxígeno; la luz pasa a energía química. Respiración: mitocondria; usa glucosa y oxígeno; produce CO2, agua y ATP. Preguntas: «¿Cuántas burbujas por minuto libera la planta a 10 cm y a 40 cm de la lámpara?» y «¿Cuántas burbujas libera en 5 minutos con la lámpara encendida y con la lámpara apagada?».", ["tabla completa y correcta", "dos preguntas con algo que medir", "no confunde reactantes y productos"], ["tabla y dos preguntas"], ["invertir reactantes y productos", "preguntas de opinión"], "Pregunta qué materiales de casa usarías para medir una de tus preguntas."),
+  open_task=task("Completa en una hoja una tabla de dos columnas, fotosíntesis y respiración celular, con estas filas: dónde ocurre, qué usa, qué produce, qué energía interviene. Después escribe dos preguntas investigables sobre una planta acuática y una lámpara de escritorio (por ejemplo, qué mides y qué cambias). Solo las planteas por escrito: no montes el experimento sin una persona adulta y mantén la lámpara enchufada lejos del agua.", "Fotosíntesis: cloroplasto; usa CO2, agua y luz; produce glucosa y oxígeno; la luz pasa a energía química. Respiración: mitocondria; usa glucosa y oxígeno; produce CO2, agua y ATP. Preguntas: «¿Cuántas burbujas por minuto libera la planta a 10 cm y a 40 cm de la lámpara?» y «¿Cuántas burbujas libera en 5 minutos con la lámpara encendida y con la lámpara apagada?».", ["tabla completa y correcta", "dos preguntas con algo que medir", "no confunde reactantes y productos"], ["tabla y dos preguntas"], ["invertir reactantes y productos", "preguntas de opinión"], "Pregunta qué materiales de casa usarías para medir una de tus preguntas."),
   reinforce="Escribe en palabras la ecuación de la fotosíntesis.",
   extend="Explica por qué la fotosíntesis y la respiración celular se complementan.")
 
 L(OA7, 2,
-  materials="Este cuaderno y lápiz. Los datos del experimento de la planta acuática son de ejemplo y están escritos en los ejercicios.",
+  materials="Este cuaderno y lápiz. Los datos del experimento de la planta acuática son de ejemplo y están escritos en los ejercicios; no necesitas montarlo. Si alguna vez lo haces, una persona adulta debe supervisarlo y la lámpara enchufada debe quedar lejos del agua.",
   use="Aprenderé a examinar los datos de un experimento de fotosíntesis y respiración, a distinguir grupo control y variable cambiada. Sirve para sacar conclusiones con evidencia.",
   prior=["Sé qué ocurre en la fotosíntesis y en la respiración celular.", "Sé leer tablas."],
   explain=[
@@ -103,7 +103,7 @@ L(OA7, 2,
       ("¿Qué es un grupo control?", "Una condición de comparación", "Permite ver el efecto de cambiar la variable."),
   ],
   app=[
-      ("Tabla de ejemplo: lámpara a 15 cm, 20 burbujas por minuto; a 30 cm, 10; a 60 cm, 5. ¿Cuántas burbujas por minuto se registran a 30 cm?", "10", "Es el dato de la fila de 30 cm."),
+      ("Tabla de ejemplo: lámpara a 15 cm, 20 burbujas por minuto; a 30 cm, 10; a 60 cm, 5. ¿A qué distancia de la lámpara ocurre más fotosíntesis?", "15 cm", "Es la fila con más burbujas de oxígeno por minuto."),
       arith("Con la misma tabla (a 15 cm, 20; a 30 cm, 10; a 60 cm, 5), ¿cuántas burbujas más hay a 15 cm que a 60 cm?", "20-5", "Se resta el valor menor al mayor."),
       ("Tres mediciones de ejemplo a 20 cm: 14, 16 y 18 burbujas por minuto. ¿Cuál es el promedio? A) 16; B) 18.", "A", "La suma es 48 y 48 dividido por 3 es 16."),
   ],
@@ -175,7 +175,7 @@ L(OA7, 4,
   use="Aprenderé a relacionar la rapidez de la fotosíntesis con la luz, la temperatura y el CO2, e interpretar un gráfico con un límite de saturación. Sirve para predecir cómo reaccionan los cultivos.",
   prior=["Sé leer tablas y gráficos de líneas.", "Sé controlar variables en un experimento."],
   explain=[
-      "La rapidez de la fotosíntesis depende de varios factores. Con más luz, aumenta, hasta un punto de saturación: desde allí, aunque haya más luz, no sube porque otro factor limita el proceso (por ejemplo, el CO2 o las enzimas). La temperatura también influye: sube la rapidez con el calor moderado, pero baja si es demasiado alta.",
+      "La rapidez de la fotosíntesis depende de varios factores. Con más luz, aumenta, hasta un punto de saturación: desde allí, aunque haya más luz, no sube porque otro factor limita el proceso (por ejemplo, el CO2 o las enzimas, que son proteínas que aceleran las reacciones de la célula). La temperatura también influye: sube la rapidez con el calor moderado, pero baja si es demasiado alta.",
       "En un gráfico de líneas, el eje horizontal muestra la variable independiente (luz, temperatura) y el eje vertical muestra la dependiente (rapidez de fotosíntesis). Una curva que sube y luego se aplana indica saturación. Una curva que sube y luego baja indica un óptimo, es decir, un valor donde el proceso es máximo.",
       "Un factor limitante es el que, por ser escaso, determina la rapidez máxima. Si el CO2 es escaso, más luz no ayuda. Por eso en invernaderos se controlan la luz, la temperatura y el CO2. Los datos se usan para predecir dentro del rango medido; fuera de él, la predicción es dudosa.",
   ],
@@ -497,6 +497,6 @@ L(OA8, 6,
   ],
   context=[arith("Una escuela de ejemplo recicla 18 kg de papel por semana. ¿Cuántos kg recicla en 10 semanas?", "18*10", "Se multiplica el reciclaje semanal por las semanas.")],
   selfcheck=[("¿Cuáles son los tres criterios para evaluar una medida?", "Ambiental, social y económico", "Se evalúan juntos."), ("Da un ejemplo de energía renovable.", "La energía solar o la del viento", "Se reponen continuamente."), ("¿Por qué hay que declarar los límites de los datos?", "Porque pueden faltar efectos o años por medir", "Así se decide con prudencia.")],
-  open_task=task("Elige una medida de ejemplo: (A) paneles solares en la escuela; (B) reciclar papel; (C) reforestar con árboles nativos una ladera. Evalúala con los tres criterios (ambiental, social y económico) en una frase cada uno y escribe un límite de los datos. Si quieres, calcula un ahorro con números de ejemplo (por ejemplo, 12 kg de papel por semana en 8 semanas).", "Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 10 semanas. Cálculo: 12 por 8 son 96 kg.", ["tres criterios evaluados", "declara un límite", "usa un cálculo coherente si lo hace"], ["evaluación escrita"], ["evaluar con un solo criterio", "omitir el límite"], "Pregunta qué medida complementaria agregarías."),
+  open_task=task("Elige una medida de ejemplo: (A) paneles solares en la escuela; (B) reciclar papel; (C) reforestar con árboles nativos una ladera. Evalúala con los tres criterios (ambiental, social y económico) en una frase cada uno y escribe un límite de los datos. Si quieres, calcula un ahorro con números de ejemplo (por ejemplo, 12 kg de papel por semana en 8 semanas).", "Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 8 semanas. Cálculo: 12 por 8 son 96 kg.", ["tres criterios evaluados", "declara un límite", "usa un cálculo coherente si lo hace"], ["evaluación escrita"], ["evaluar con un solo criterio", "omitir el límite"], "Pregunta qué medida complementaria agregarías."),
   reinforce="Escribe una medida de ahorro de agua en tu casa y calcula cuántos litros ahorra a la semana.",
   extend="Explica por qué las decisiones ambientales conviene discutirlas con la comunidad y con especialistas.")

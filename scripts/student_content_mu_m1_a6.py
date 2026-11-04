@@ -86,7 +86,7 @@ L(
     [("rol", "tarea que una persona cumple en el grupo"), ("aporte", "lo que una persona agrega al trabajo del grupo"), ("apoyo", "ayuda que se da o se pide para mejorar"), ("colectivo", "relativo al grupo"), ("acuerdo", "decisión tomada entre todas las personas del grupo")],
     [
         ("Asignar un rol según la fortaleza", f"{GRUPO}. ¿Quién conviene que marque el pulso con palmas suaves durante el ensayo?", ["Dani tiene como fortaleza mantener el pulso.", "El rol aprovecha esa fortaleza."], "Dani"),
-        ("Pensar un apoyo", f"{GRUPO}. Eli tiene como área de crecimiento entrar a tiempo. ¿Quién puede apoyarla y cómo?", ["Dani mantiene el pulso.", "Puede darle una señal de entrada con la cabeza."], "Dani, con una señal de entrada"),
+        ("Pensar un apoyo", f"{GRUPO}. Eli tiene como área de crecimiento entrar a tiempo. ¿Qué integrante, por su fortaleza en el pulso, puede apoyarla y cómo?", ["Dani mantiene el pulso.", "Puede darle una señal de entrada con la cabeza."], "Dani, con una señal de entrada"),
     ],
     [
         ("Dejar siempre la parte difícil a la misma persona.", "No permite que otras personas practiquen su área de crecimiento.", "Rota las partes y ofrece apoyo."),
@@ -161,7 +161,7 @@ L(
         ex(f"{META}. Si después de 2 semanas Hugo sigue con 6 errores, ¿qué conviene hacer? A) Revisar el plan y cambiar una acción. B) Abandonar la meta.", "A", "Un avance menor al esperado es información para ajustar."),
     ],
     [
-        arith(f"{META}. ¿Cuántos minutos practica Hugo en una semana?", "15*5", "Se multiplican los minutos diarios por los días.", " minutos"),
+        arith(f"{META}. ¿Cuántos minutos practica Hugo en 2 semanas si cumple todas las sesiones?", "15*5*2", "Se multiplican los minutos diarios por los días y por las semanas.", " minutos"),
         arith(f"{META}. Si Hugo cumple 4 de las 5 sesiones de una semana, ¿cuántos minutos practicó esa semana?", "15*4", "Se multiplican los minutos de cada sesión por las sesiones cumplidas.", " minutos"),
         ex(f"{META}. Hugo mide cantando la frase tres veces: tuvo 6, 5 y 7 errores. ¿Cuál es la menor cantidad de errores de las tres?", "5", "Es el valor más bajo de la lista."),
     ],
@@ -174,7 +174,7 @@ L(
         ex("Una estudiante tiene 10 minutos al día, 3 días a la semana, durante 4 semanas. Quiere practicar al menos 90 minutos en total. ¿Alcanza el tiempo? Responde sí o no.", "Sí", "Dispone de 10 × 3 × 4 = 120 minutos, que son más que 90."),
     ],
     [ex(f"{META}. El jueves Hugo no puede practicar porque tiene una actividad familiar. ¿Qué es una buena decisión? A) Recuperar 15 minutos el sábado y anotarlo. B) Dejar la meta.", "A", "Un ajuste razonable mantiene el plan.")],
-    [ex("¿Cuáles son las tres características de una buena meta?", "Específica, medible y con plazo", "Permiten saber si se logró."), ex("¿Qué haces si el plan no da resultado?", "Reviso el plan y cambio una acción", "Se usa la evidencia para ajustar."), ex("Si una meta baja 4 errores en 4 semanas, ¿cuántos baja por semana?", "1", "4 dividido en 4.")],
+    [ex("¿Cuáles son las tres características de una buena meta?", "Específica, medible y con plazo", "Permiten saber si se logró."), ex("¿Qué haces si el plan no da resultado?", "Reviso el plan y cambio una acción", "Se usa la evidencia para ajustar."), ex("Una meta baja 9 errores en 3 semanas, la misma cantidad cada semana. ¿Cuántos errores baja por semana?", "3", "9 dividido en 3.")],
     (
         "Elige un área de crecimiento (por ejemplo, entrar a tiempo, afinar, mantener el pulso o improvisar) y escribe un plan de mejora con datos que inventes: a) meta específica, medible y con plazo, b) tiempo disponible por semana y total, c) dos acciones concretas, d) cómo medirás el avance cada semana, e) quién puede apoyarte.",
         "a) Entrar a tiempo en 4 de 4 ensayos en 3 semanas (hoy entro a tiempo 1 de 4). b) 15 minutos por día, 4 días: 60 minutos por semana; 180 en 3 semanas. c) Contar mentalmente 4 pulsos antes de entrar; practicar la entrada con palmas. d) Cada semana anotaré en cuántos de 4 ensayos entré a tiempo. e) Mi compañera Eli me da la señal.",
@@ -210,7 +210,7 @@ L(
         ("Pensar que cambiar de plan es fracasar.", "Cambiar el plan con datos es parte de mejorar.", "Prepara un plan B antes de empezar."),
     ],
     [
-        ex(f"{RESTR}. ¿Cuántos minutos al día tiene Ines para practicar?", "12", "Así lo dice la situación."),
+        arith(f"{RESTR}. ¿Cuántos minutos tiene Ines para practicar en 5 días?", "12*5", "Se multiplican los minutos diarios por los días.", " minutos"),
         ex(f"{RESTR}. ¿Qué área quiere mejorar Ines?", "El pulso", "Así lo dice la situación."),
         ex(f"{RESTR}. ¿Por qué la alternativa 2 no es posible para Ines?", "Porque no tiene recursos para comprar un instrumento caro", "No cumple el criterio de recursos."),
     ],
@@ -279,7 +279,7 @@ L(
         ex(f"{AV}. Joaquín dice: «Mejoré mucho, soy un genio». ¿Qué le falta a esa afirmación? A) Los datos que sostienen la mejora. B) Más adjetivos.", "A", "Una conclusión se apoya en datos del registro."),
     ],
     [
-        arith(f"{AV}. ¿Cuál es el promedio de errores de la semana 1? Suma 6, 7 y 5 y divide entre 3.", "(6+7+5)//3", "La suma es 18 y se divide entre 3.", " errores"),
+        arith(f"{AV}. ¿Cuántos errores de afinación sumó Joaquín en total en sus tres cantos de la semana 1?", "6+7+5", "Se suman los errores de los tres cantos.", " errores"),
         arith(f"{AV}. ¿Cuántos pulsos por minuto subió el tempo entre la semana 1 y la 4?", "80-70", "Se restan los pulsos de la semana 1 a los de la 4.", " pulsos por minuto"),
         ex(f"{AV}. Un compañero concluye: «Mejoró en todo, para siempre». ¿Qué límite tiene su conclusión? A) Son pocos datos de dos semanas. B) Nunca se pueden usar datos.", "A", "La evidencia disponible no asegura el futuro."),
     ],

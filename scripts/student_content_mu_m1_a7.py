@@ -109,7 +109,7 @@ L(
         ex(f"{PLAYA}. Si la música C se tocara rápido y fuerte, ¿seguiría sirviendo para despedir con afecto, según lo que cuenta su ficha? Responde sí o no.", "No", "La despedida usa un tempo lento de 60 pulsos por minuto y voces suaves para cuidar el vínculo."),
     ],
     [
-        ex(f"{PLAYA}. Un grupo escolar adapta la música A y la toca a 120 pulsos por minuto con guitarra eléctrica. ¿Qué rasgo del significado pierde? A) El ritmo regular del remo y su relación con el trabajo. B) Las palabras del oficio.", "A", "El tempo regular se relaciona con el remo."),
+        ex(f"{PLAYA}. Un grupo escolar adapta la música A y la toca a 120 pulsos por minuto con guitarra eléctrica. ¿Qué pierde? A) La relación del tempo de 72 pulsos por minuto con el remo y el trabajo. B) Las palabras del oficio.", "A", "El tempo de 72 acompaña el remo; las palabras no se cambiaron."),
         arith(f"{PLAYA}. La jornada de pesca dura 4 horas y en ella hay 1 hora de pausas. Si la música A se canta solo mientras se trabaja, ¿cuántos minutos suena?", "(4-1)*60", "Se restan las horas de pausa y se pasa a minutos.", " minutos"),
     ],
     [
@@ -117,7 +117,7 @@ L(
         arith(f"{PLAYA}. En una celebración se tocan 2 veces la música A (3 minutos cada vez), 3 veces la B (4 minutos cada vez) y 1 vez la C (5 minutos). ¿Cuántos minutos de música hay?", "2*3+3*4+5", "Se suman los minutos de cada música.", " minutos"),
     ],
     [ex(f"{PLAYA}. Una profesora quiere comparar los significados de las músicas A y B en un cuadro. ¿Qué dato incluye en la fila «función»? A) Coordinar el trabajo (A) y reunir al pueblo en la fiesta (B). B) El precio de los instrumentos.", "A", "La función se refiere a lo que cumple cada música en la comunidad.")],
-    [ex("¿Qué es una generalización?", "Afirmar algo de todo un grupo sin pruebas", "Suele ser falsa."), ex("¿Qué se hace cuando no se conoce una tradición?", "Se pregunta a quienes la portan", "Ellos son la fuente más confiable."), ex(f"{PLAYA}. ¿A cuántos pulsos por minuto va la música C?", "60", "Así lo indica la ficha.")],
+    [ex("En Música y cultura: ¿qué es una generalización?", "Afirmar algo de todo un grupo sin pruebas", "Suele ser falsa."), ex("¿Qué se hace cuando no se conoce una tradición?", "Se pregunta a quienes la portan", "Ellos son la fuente más confiable."), ex(f"{PLAYA}. ¿A cuántos pulsos por minuto va la música C?", "60", "Así lo indica la ficha.")],
     (
         "Usa la comunidad de ejemplo «Playa Azul». Escribe un cuadro con tres filas (A, B y C) y tres columnas: contexto, rasgos audibles y significado. Luego escribe una frase que explique por qué la música C es relevante para la comunidad, con un rasgo audible, y una frase de respeto hacia otra cultura que cumplirías al hablar de ella.",
         "A: pesca; ritmo regular a 72 y solo voces y palmas; coordina y da identidad de oficio. B: fiesta; ritmo animado a 120; reúne al pueblo. C: despedida; lenta a 60 y voces suaves; cuida el vínculo. Frase: «La música C es relevante porque, con su tempo lento de 60 pulsos por minuto, permite despedir con afecto». Respeto: no diré que una música es más atrasada que otra.",
@@ -222,7 +222,7 @@ L(
         ex("¿Quién enseña la forma tradicional de una música de un pueblo originario? A) El educador o educadora tradicional o la comunidad. B) El curso a partir de lo que cree.", "A", "El curso no inventa ni modifica la tradición."),
     ],
     [
-        arith(f"{CAPS}. Si la cápsula se presenta a 4 compañeros, uno por uno, y cada presentación dura 12 minutos, ¿cuántos minutos se necesitan en total?", "12*4", "Se multiplican los minutos de una presentación por las presentaciones.", " minutos"),
+        arith(f"{CAPS}. Una estudiante repite el plan completo con 4 personas distintas, una después de otra. ¿Cuántos minutos necesita en total?", "12*4", "Se multiplican los minutos del plan por las personas.", " minutos"),
         ex("Una persona entrevistada cuenta que aprendió una canción de su abuela y la cantó 3 veces en la entrevista. ¿Cuántas veces conviene registrar la canción en la ficha? A) Una vez, con una nota de que se cantó 3 veces. B) Escribirla 3 veces con cambios.", "A", "La ficha registra la canción una vez, con su contexto."),
         ex("Un estudiante quiere subir la cápsula a una red pública. La persona entrevistada solo aceptó que se compartiera con el curso. ¿Qué hace? A) Respeta el acuerdo y la comparte solo con el curso. B) La sube igual.", "A", "El permiso se limita a lo acordado."),
     ],

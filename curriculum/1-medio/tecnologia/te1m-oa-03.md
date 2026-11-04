@@ -366,7 +366,7 @@ Respuesta: 80 %
 
 - **A1.** Tiempos de respuesta de una prueba de ejemplo, en horas: 4, 10, 6, 2, 8 y 6. ¿Cuál es el promedio?
 - **A2.** Con los tiempos 4, 10, 6, 2, 8 y 6 horas, ¿cuál es el rango?
-- **A3.** Notas de satisfacción de ejemplo (1 a 5) de 10 usuarios: 5, 5, 4, 4, 4, 3, 5, 2, 4 y 4. Ocho dieron 4 o 5. ¿Qué porcentaje es?
+- **A3.** Notas de satisfacción de ejemplo (1 a 5) de 10 usuarios: 5, 5, 4, 4, 4, 3, 5, 2, 4 y 4. ¿Qué porcentaje dio nota 4 o 5?
 
 *Razonamiento y análisis*
 
@@ -768,7 +768,7 @@ Respuesta: La equidad
 *Recuperación*
 
 - **R1.** El valor de que todos puedan acceder aunque no tengan internet es A) la equidad B) la rapidez
-- **R2.** Pedir permiso antes de usar la foto de alguien protege su… A) puntualidad B) privacidad
+- **R2.** Pedir permiso antes de usar la foto de alguien protege su… A) privacidad B) equidad
 - **R3.** Un servicio promete una cosa y entrega otra. ¿Qué valor falla?
 
 *Comprensión*
@@ -808,7 +808,7 @@ Respuesta: La equidad
 **Solucionario razonado**
 
 - **R1.** A. Busca que nadie quede fuera por su situación.
-- **R2.** B. La imagen es un dato personal.
+- **R2.** A. La imagen es un dato personal.
 - **R3.** La honestidad. Se dijo algo que no se cumplió.
 - **C1.** A. Se puede comprobar con hechos.
 - **C2.** A. Cumplir uno afecta al otro.

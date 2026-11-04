@@ -368,7 +368,7 @@ Respuesta: For two years
 
 *Aplicación*
 
-- **A1.** Daniel lleva 3 meses entrenando. Si un mes tiene unas 4 semanas (dato aproximado), ¿cuántas semanas lleva entrenando?
+- **A1.** Elige la oración correcta. A) We are waiting since twenty minutes B) We have been waiting for twenty minutes
 - **A2.** Elige la oración correcta. A) She used to living in Temuco B) She used to live in Temuco, but now she lives in Osorno
 - **A3.** Completa. «How long ____ they been married?» A) has B) have
 
@@ -402,7 +402,7 @@ Respuesta: For two years
 - **C1.** B) For six months. Con un período se usa for.
 - **C2.** A) Since September. September es un punto de inicio.
 - **C3.** B) My hands are dirty because I have been painting. El resultado, las manos sucias, se nota ahora.
-- **A1.** 12. Se multiplican los meses por las semanas de cada mes. Cálculo: 3 × 4 = 12.
+- **A1.** B) We have been waiting for twenty minutes. Veinte minutos es un período: se usa for con have been + -ing.
 - **A2.** B) She used to live in Temuco, but now she lives in Osorno. Used to va seguido del verbo sin -ing.
 - **A3.** B) have. Con they se usa have.
 - **Z1.** B) I used to play chess. Used to marca un hábito pasado.
@@ -520,7 +520,7 @@ Respuesta: For two years
 
 Will probably expresa una predicción muy probable: Look at the dark clouds; it will probably rain. Might expresa una posibilidad más débil: It might snow in the mountains. Los modales no cambian con la persona (he might, she might) y van seguidos del verbo sin to: He might come, no He might to come.
 
-Needn't significa que no es necesario: You needn't hurry (no hace falta apurarse). No es una prohibición. Una promesa se hace con I promise I will…: I promise I will call you. Shall es un modal formal que se usa con I y we para ofrecer o sugerir (Shall we have lunch at one?) y, en lenguaje formal, para una promesa o decisión firme (He shall be here at six: se asegura de que estará).
+Needn't significa que no es necesario: You needn't hurry (no hace falta apurarse). No es una prohibición. Una promesa se hace con I promise I will…: I promise I will call you. Shall se usa con I y we para ofrecer o sugerir (Shall we have lunch at one?): propone un plan y espera respuesta. Para anunciar algo que se hará, se usa will (He will be here at six).
 
 Para elegir el modal adecuado, pregúntate cuánta seguridad tienes: casi seguro (will probably), solo posible (might), no necesario (needn't), compromiso (I promise I will) o sugerencia (Shall we…?).
 
@@ -532,7 +532,7 @@ Para elegir el modal adecuado, pregúntate cuánta seguridad tienes: casi seguro
 | might | podría; es posible |
 | needn't | no hace falta |
 | I promise I will… | prometo que… |
-| shall | modal formal: Shall we…? = ¿Y si…? |
+| shall | modal para sugerir: Shall we…? = ¿Y si…? |
 | suggestion | sugerencia |
 
 **Ejemplos resueltos paso a paso**
@@ -594,7 +594,7 @@ Respuesta: Needn't
 
 *Situaciones auténticas*
 
-- **S1.** Un cartel dice: «Please speak quietly. The baby might wake up.» ¿Por qué hay que hablar bajo? A) porque el bebé nunca despertará B) porque el bebé podría despertarse
+- **S1.** Un cartel dice: «Please speak quietly. The baby might wake up.» ¿Por qué hay que hablar bajo? A) porque el bebé podría despertarse B) porque el bebé ya está despierto
 
 *Autoevaluación*
 
@@ -619,7 +619,7 @@ Respuesta: Needn't
 - **Z2.** A) sí, no hace falta. Needn't indica que no es necesario.
 - **D1.** A) will probably be. Una predicción usa will probably.
 - **D2.** B) He might come. Los modales van con el verbo sin to ni -s.
-- **S1.** B) porque el bebé podría despertarse. Might expresa una posibilidad.
+- **S1.** A) porque el bebé podría despertarse. Might expresa una posibilidad.
 - **E1.** Que no es necesario. No es una prohibición.
 - **E2.** Will. I promise I will…
 - **E3.** Will probably. Might es solo posibilidad.
@@ -784,7 +784,7 @@ Respuesta: Chop y stick
 
 - **C1.** ¿Qué significa part-time job? A) un trabajo de noche B) un trabajo de media jornada
 - **C2.** ¿Qué significa apply for a job? A) renunciar a un trabajo B) postular a un trabajo
-- **C3.** ¿De qué dos palabras se forma notebook? A) note y book B) not y ebook
+- **C3.** ¿De qué dos palabras se forma notebook? A) note y book B) not y book
 
 *Aplicación*
 
@@ -795,7 +795,7 @@ Respuesta: Chop y stick
 *Razonamiento y análisis*
 
 - **Z1.** Elige la oración correcta. A) He learned English although he could speak with foreigners B) He learned English so that he could speak with foreigners
-- **Z2.** «And last he played the piano.» ¿Qué indica last? A) el primer hecho B) el último hecho
+- **Z2.** «Last, he played the piano.» ¿Qué indica last? A) el primer hecho B) el último hecho
 
 *Desafío*
 
@@ -1010,11 +1010,11 @@ Respuesta: If he spoke English
 *Desafío*
 
 - **D1.** Ordena las palabras con letras: A) would B) faster C) she D) learn E) if F) she G) practiced H) daily
-- **D2.** Un amigo te cuenta que otro compañero copia su tarea. ¿Qué consejo es adecuado? A) If I were you, I would talk to my teacher or an adult I trust B) If I were you, I would shout at him
+- **D2.** Un amigo te cuenta que otro compañero copia su tarea. ¿Qué consejo es adecuado? A) If I were you, I would talk to my teacher or an adult I trust B) If I were you, I would say nothing and keep it secret
 
 *Situaciones auténticas*
 
-- **S1.** En un foro, alguien escribe: «I have a big test tomorrow and I'm nervous. What should I do?» ¿Cuál es el mejor consejo? A) If I were you, I would sleep early and review the main ideas B) If I were you, I would not study
+- **S1.** En un foro, alguien escribe: «I have a big test tomorrow and I'm nervous. What should I do?» ¿Cuál es el mejor consejo? A) If I were you, I would study all night without sleeping B) If I were you, I would sleep early and review the main ideas
 
 *Autoevaluación*
 
@@ -1039,7 +1039,7 @@ Respuesta: If he spoke English
 - **Z2.** B) were. Se usa were para todas las personas.
 - **D1.** C, A, D, B, E, F, G, H. La oración es She would learn faster if she practiced daily.
 - **D2.** A) If I were you, I would talk to my teacher or an adult I trust. Pedir ayuda a una persona adulta de confianza es lo más seguro.
-- **S1.** A) If I were you, I would sleep early and review the main ideas. Es un consejo concreto y útil.
+- **S1.** B) If I were you, I would sleep early and review the main ideas. Es un consejo concreto y útil.
 - **E1.** If + pasado, would + verbo. Une condición y resultado.
 - **E2.** Were. If I were, if she were.
 - **E3.** A una persona adulta de confianza. Es el consejo más seguro.

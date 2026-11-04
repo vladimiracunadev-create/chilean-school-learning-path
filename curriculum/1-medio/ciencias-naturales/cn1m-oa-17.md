@@ -365,7 +365,7 @@ Respuesta: Cambio de color y de textura
 
 *Aplicación*
 
-- **A1.** En la ecuación «glucosa → etanol + dióxido de carbono», ¿cuántos productos hay?
+- **A1.** En la ecuación «hierro + oxígeno → óxido de hierro», ¿cuántos reactantes y cuántos productos hay?
 - **A2.** Una reja de hierro de un jardín se cubre de manchas anaranjadas después de un invierno lluvioso. ¿Qué reacción ocurre y con qué sustancia del aire?
 - **A3.** Una masa de 500 g se hornea y el pan resultante pesa 450 g (valores de ejemplo). ¿Cuántos gramos salieron como gas y vapor?
 
@@ -377,7 +377,7 @@ Respuesta: Cambio de color y de textura
 *Desafío*
 
 - **D1.** Un brasero encendido dentro de una pieza cerrada. ¿Por qué es peligroso?
-- **D2.** Sin hacerlo en casa, predice qué le pasaría a la llama de una vela si se tapara con un vaso grande. ¿Qué ocurre y por qué? A) Se apaga cuando se consume el oxígeno B) Se hace más intensa
+- **D2.** Sin hacerlo en casa, predice qué le pasaría a la llama de una vela si se tapara con un vaso grande. ¿Qué ocurre y por qué? A) Se apaga cuando falta oxígeno B) Se hace más intensa
 
 *Situaciones auténticas*
 
@@ -399,7 +399,7 @@ Respuesta: Cambio de color y de textura
 - **C1.** B. Con oxígeno suficiente el carbono y el hidrógeno forman estos productos.
 - **C2.** A. El gas forma burbujas en la masa.
 - **C3.** Para evitar monóxido de carbono por falta de oxígeno. El monóxido es tóxico y no se huele.
-- **A1.** 2. Son el etanol y el dióxido de carbono.
+- **A1.** 2 reactantes y 1 producto. Reaccionan el hierro y el oxígeno, y se forma una sola sustancia: el óxido de hierro.
 - **A2.** Oxidación, con oxígeno. El hierro reacciona con el oxígeno.
 - **A3.** 50 g. Se resta la masa final a la inicial. Cálculo: 500 − 450 = 50.
 - **Z1.** A. Tiene otras propiedades que el hierro original.
@@ -423,7 +423,7 @@ Respuesta: Cambio de color y de textura
 
 **Refuerzo.** Escribe los reactantes y los productos de la combustión del metano.
 
-**Profundización.** Explica por qué la fermentación de la masa deja de ser útil si se hornea durante demasiado tiempo.
+**Profundización.** Explica por qué la levadura deja de producir gas cuando el horno calienta la masa a más de unos 60 °C.
 
 
 **Apoyo en el mismo OA:** Reduce variables, ofrece tabla visual y modela una observación sin revelar la conclusión; ajusta manipulación o forma de registro manteniendo la pregunta científica.
@@ -785,7 +785,7 @@ Respuesta: Levadura, azúcar, agua y tiempo
 
 - **A1.** En la tabla A, ¿cuántos mL más de gas se obtienen con 3 cucharaditas que con 1?
 - **A2.** Con 2 cucharaditas de levadura a 30 °C se produjeron 8 mL de gas en 10 minutos. Si el ritmo se mantiene, ¿cuántos mL se producen en 30 minutos?
-- **A3.** Quieres comparar el efecto de la cantidad de azúcar. ¿Qué dos variables mantienes iguales?
+- **A3.** Quieres comparar el efecto de la cantidad de azúcar en el gas producido. ¿Cuál de estas variables debes mantener igual en todas las pruebas? A) La temperatura del agua B) La cantidad de azúcar
 
 *Razonamiento y análisis*
 
@@ -819,7 +819,7 @@ Respuesta: Levadura, azúcar, agua y tiempo
 - **C3.** La cantidad de levadura. Es la que se cambia entre pruebas.
 - **A1.** 8 mL. Se resta el gas de 1 cucharadita al de 3. Cálculo: 12 − 4 = 8.
 - **A2.** 24 mL. En 30 minutos hay 3 períodos de 10 minutos. Cálculo: 8 × 3 = 24.
-- **A3.** La temperatura y la cantidad de levadura. Solo debe cambiar el azúcar.
+- **A3.** A. Solo debe cambiar el azúcar; la temperatura es una variable controlada.
 - **Z1.** A. La levadura tiene un límite de temperatura.
 - **Z2.** A. Las partículas están más cerca.
 - **D1.** 20 mL. Se multiplica el gas por cucharadita por el número de cucharaditas. Cálculo: 4 × 5 = 20.

@@ -98,11 +98,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Explicación.**
 
-Leer bien empieza antes de la primera línea. Primero fija un propósito de lectura (reading purpose): ¿para qué leo? Puedes leer para saber por qué un animal está en peligro, para hacer una tarea o para elegir un libro. El propósito decide qué buscar: si quieres saber las causas del peligro, buscarás palabras como danger o because.
+Leer bien empieza antes de la primera línea. Primero fija un propósito de lectura (reading purpose): ¿para qué leo? Puedes leer para saber por qué algo está en peligro, para hacer una tarea o para elegir un libro. El propósito decide qué buscar: si quieres saber las causas del peligro, buscarás palabras como danger o because.
 
-Luego haz una predicción (prediction): imagina qué tratará el texto usando el título, el subtítulo, las imágenes y los datos de la portada. «Why Bees Matter» sugiere un texto que explica la importancia de las abejas. «Small insects, big job» refuerza la idea: insectos pequeños con un trabajo importante. Tu predicción puede ser parcial o equivocada; lo importante es comprobarla después.
+Luego haz una predicción (prediction): imagina qué tratará el texto usando el título, el subtítulo, las imágenes y los datos de la portada. «Why Dark Skies Matter» sugiere un texto que explica por qué importan los cielos oscuros. «Seeing the stars in northern Chile» precisa el lugar y el tema: observar las estrellas en el norte del país. Tu predicción puede ser parcial o equivocada; lo importante es comprobarla después.
 
-También activa tus conocimientos previos: lo que ya sabes de las abejas (hacen miel, viven en colmenas, pican) te ayuda a entender el vocabulario. Cuando lees, compara lo que sabías con lo nuevo. Esas tres acciones (propósito, predicción y conocimientos previos) forman la pre lectura (pre-reading).
+También activa tus conocimientos previos: lo que ya sabes de la noche en el campo o en el desierto (se ven más estrellas lejos de la ciudad) te ayuda a entender el vocabulario. Cuando lees, compara lo que sabías con lo nuevo. Esas tres acciones (propósito, predicción y conocimientos previos) forman la pre lectura (pre-reading).
 
 **Palabras importantes**
 
@@ -119,23 +119,23 @@ También activa tus conocimientos previos: lo que ya sabes de las abejas (hacen 
 
 *Ejemplo 1. Predecir con el título*
 
-Problema: Lees solo el título «Why Bees Matter» y el subtítulo «Small insects, big job». ¿De qué crees que tratará el texto?
+Problema: Lees solo el título «Why Dark Skies Matter» y el subtítulo «Seeing the stars in northern Chile». ¿De qué crees que tratará el texto?
 
-1. El título habla de bees y matter (importar).
-2. El subtítulo habla de insectos pequeños con un trabajo grande.
-3. Predigo que explica por qué las abejas son importantes.
+1. El título habla de dark skies y matter (importar).
+2. El subtítulo habla de ver las estrellas en el norte de Chile.
+3. Predigo que explica por qué importa mantener oscuro el cielo.
 
-Respuesta: De por qué las abejas son importantes aunque sean pequeñas
+Respuesta: De por qué importan los cielos oscuros para ver las estrellas en el norte de Chile
 
 *Ejemplo 2. Propósito de lectura*
 
-Problema: Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) Quieres saber por qué las abejas están en peligro. ¿Qué palabras buscas?
+Problema: Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) Quieres saber por qué los cielos oscuros están en peligro. ¿Qué palabras buscas?
 
 1. Mi propósito son las causas del peligro.
-2. Busco danger, because y pesticides.
+2. Busco danger y because.
 3. Las encuentro en la última oración.
 
-Respuesta: Danger, because, pesticides y loss of flowers
+Respuesta: Danger, because, city lights y growth of towns
 
 **Errores frecuentes y cómo reconocerlos**
 
@@ -147,30 +147,30 @@ Respuesta: Danger, because, pesticides y loss of flowers
 *Recuperación*
 
 - **R1.** Lees el título «Save the Water» y el subtítulo «Ten ways to use less at home». ¿De qué es más probable que trate? A) de la historia de los ríos del mundo B) de formas de gastar menos agua en casa
-- **R2.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Qué lleva la abeja de flor en flor?
-- **R3.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Cuál es el subtítulo?
+- **R2.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Qué usan los astrónomos en el norte de Chile para estudiar estrellas y planetas?
+- **R3.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Cuál es el subtítulo?
 
 *Comprensión*
 
-- **C1.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Cuál es el propósito del texto? A) vender miel B) informar sobre las abejas
-- **C2.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Qué pasaría sin las abejas?
-- **C3.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Qué propósito de lectura es adecuado para saber cómo ayudan a las plantas? A) leer solo el subtítulo B) buscar la parte de pollen y fruit
+- **C1.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Cuál es el propósito del texto? A) informar sobre el valor de los cielos oscuros B) vender telescopios
+- **C2.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Qué hacen algunos pueblos para que el cielo siga oscuro?
+- **C3.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Qué propósito de lectura es adecuado para saber quién usa el cielo del norte? A) buscar las partes con astronomers y visitors B) leer solo el título
 
 *Aplicación*
 
-- **A1.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) Predijiste que el texto hablaría solo de miel. Después de leer, ¿se confirma? A) sí, solo de miel B) no del todo: habla de polen, cosechas y peligro
-- **A2.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Para qué ponen colmenas cerca de los campos algunos agricultores? A) para que la cosecha sea mayor B) para vender abejas
-- **A3.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) ¿Cuántas amenazas para las abejas nombra el texto? A) dos B) tres
+- **A1.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) Predijiste que el texto hablaría solo de telescopios. Después de leer, ¿se confirma? A) no del todo: habla también de visitantes, pueblos y peligro B) sí, solo de telescopios
+- **A2.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Para qué apagan luces algunos pueblos? A) para que el cielo siga oscuro B) para gastar menos en postes
+- **A3.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) ¿Cuántas amenazas para los cielos oscuros nombra el texto? A) dos B) tres
 
 *Razonamiento y análisis*
 
-- **Z1.** Conocimiento previo: sabes que las abejas viven en colmenas. ¿Qué dato nuevo agrega el texto? A) que las abejas viven en colmenas B) que llevan polen y ayudan a las plantas a hacer frutos
-- **Z2.** Ana lee «Why Bees Matter» para una tarea de agricultura y Bruno para una receta de pan. ¿Quién tiene un propósito más conectado con el texto? A) Bruno B) Ana
+- **Z1.** Conocimiento previo: sabes que en el campo se ven más estrellas que en la ciudad. ¿Qué dato nuevo agrega el texto? A) que en la ciudad se ven menos estrellas B) que astrónomos y visitantes viajan al norte de Chile por su cielo oscuro
+- **Z2.** Ana lee «Why Dark Skies Matter» para una tarea de astronomía y Bruno para una receta de pan. ¿Quién tiene un propósito más conectado con el texto? A) Bruno B) Ana
 
 *Desafío*
 
-- **D1.** ¿Qué predicción es mejor para el subtítulo «Small insects, big job»? A) el texto hablará de animales grandes B) el texto explicará la importancia de un insecto pequeño
-- **D2.** Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida) Un compañero dice que sin abejas no habría manzanas. ¿Qué dato corrige? A) habría menos manzanas B) habría más manzanas
+- **D1.** ¿Qué predicción es mejor para el subtítulo «Seeing the stars in northern Chile»? A) el texto hablará de cocinar en el sur B) el texto hablará de observar las estrellas en el norte del país
+- **D2.** Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento) Un compañero dice que el cielo del norte de Chile está cubierto de luces. ¿Qué dato lo corrige? A) el cielo es muy brillante de noche B) el cielo es muy claro y oscuro
 
 *Situaciones auténticas*
 
@@ -187,18 +187,18 @@ Respuesta: Danger, because, pesticides y loss of flowers
 **Solucionario razonado**
 
 - **R1.** B) de formas de gastar menos agua en casa. Save the water y use less at home hablan de ahorrar agua en la casa.
-- **R2.** Polen. El texto dice Bees carry pollen.
-- **R3.** Small insects, big job. Está después del título.
-- **C1.** B) informar sobre las abejas. Explica su función y su peligro.
-- **C2.** Habría menos manzanas, almendras y bayas. El texto dice we would have fewer apples, almonds and berries.
-- **C3.** B) buscar la parte de pollen y fruit. Esa parte explica cómo ayudan.
-- **A1.** B) no del todo: habla de polen, cosechas y peligro. Ninguna oración habla de miel.
-- **A2.** A) para que la cosecha sea mayor. Dice so that the harvest is bigger.
-- **A3.** A) dos. Nombra los pesticidas y la pérdida de flores.
-- **Z1.** B) que llevan polen y ayudan a las plantas a hacer frutos. Lo de las colmenas ya lo sabías; el texto agrega cómo ayudan a las plantas.
-- **Z2.** B) Ana. El texto habla de cultivos y cosechas.
-- **D1.** B) el texto explicará la importancia de un insecto pequeño. Small insects y big job se refieren a un insecto pequeño con una tarea importante.
-- **D2.** A) habría menos manzanas. El texto dice fewer apples.
+- **R2.** Grandes telescopios. El texto dice Astronomers use big telescopes there.
+- **R3.** Seeing the stars in northern Chile. Está después del título.
+- **C1.** A) informar sobre el valor de los cielos oscuros. Explica para qué se usan y qué los amenaza.
+- **C2.** Apagan las luces sobrantes. El texto dice Some towns turn off extra lights.
+- **C3.** A) buscar las partes con astronomers y visitors. Esas oraciones nombran a quienes lo usan.
+- **A1.** A) no del todo: habla también de visitantes, pueblos y peligro. Además de los telescopios hay visitantes, pueblos que apagan luces y una amenaza.
+- **A2.** A) para que el cielo siga oscuro. Dice so that the sky stays dark.
+- **A3.** A) dos. Nombra las luces de la ciudad y el crecimiento de los pueblos.
+- **Z1.** B) que astrónomos y visitantes viajan al norte de Chile por su cielo oscuro. Lo de la ciudad ya lo sabías; el texto agrega quiénes viajan y por qué.
+- **Z2.** B) Ana. El texto habla de estrellas y telescopios.
+- **D1.** B) el texto hablará de observar las estrellas en el norte del país. Stars y northern Chile señalan el tema y el lugar.
+- **D2.** B) el cielo es muy claro y oscuro. El texto dice very clear and dark.
 - **S1.** Guantes y una bolsa. El subtítulo lo dice.
 - **E1.** Saber para qué leo. Dirige qué busco en el texto.
 - **E2.** El título, el subtítulo y las imágenes. Dan pistas del tema.
@@ -214,7 +214,7 @@ Respuesta: Danger, because, pesticides y loss of flowers
 
 **Retroalimentación constructiva:** Valora la predicción y ayuda a la persona a confirmar con el texto.
 
-**Refuerzo.** Vuelve a leer el título y subtítulo de «Why Bees Matter» y escribe dos predicciones distintas.
+**Refuerzo.** Vuelve a leer el título y subtítulo de «Why Dark Skies Matter» y escribe dos predicciones distintas.
 
 **Profundización.** Escribe en español un propósito de lectura para un texto sobre tu deporte preferido.
 
@@ -310,7 +310,7 @@ Respuesta: Danger, because, pesticides y loss of flowers
 
 La lectura rápida (skimming) consiste en mirar con rapidez el título, el subtítulo, el primer párrafo y las palabras destacadas para saber de qué trata el texto. Responde a «¿qué es esto?». La lectura focalizada (scanning) consiste en pasar los ojos buscando una palabra o un número exacto, sin leer todo. Responde a «¿dónde está este dato?». Se usa para horarios, precios y fechas.
 
-Los elementos organizacionales (organizational features) ayudan a ubicarte: el título dice el tema, el subtítulo lo precisa, los cuadros muestran datos ordenados y los diagramas explican procesos con números y flechas. En el programa del festival, el cuadro agrupa los datos por día; en el ciclo del agua, los números 1 a 4 muestran el orden del proceso. Leerlos primero ahorra tiempo.
+Los elementos organizacionales (organizational features) ayudan a ubicarte: el título dice el tema, el subtítulo lo precisa, los cuadros muestran datos ordenados y los diagramas explican procesos con números y flechas. En el programa del festival, el cuadro agrupa los datos por día; en el diagrama de la revista, los números 1 a 4 muestran el orden del proceso. Leerlos primero ahorra tiempo.
 
 Elige la estrategia según tu propósito: si quieres saber de qué trata el texto, hojea (skim); si quieres saber a qué hora es el planetario, rastrea (scan) la palabra planetarium y lee solo esa línea. Después de encontrar el dato, léelo con calma para no confundir horas parecidas.
 
@@ -339,13 +339,13 @@ Respuesta: A las 3 (15:00)
 
 *Ejemplo 2. Orden en un diagrama*
 
-Problema: Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación) ¿Qué paso va justo después de la condensación?
+Problema: Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo) ¿Qué paso va justo después del borrador (draft)?
 
 1. Miro los números del diagrama.
-2. Condensation es el número 2.
-3. El número 3 es precipitation.
+2. Draft es el número 2.
+3. El número 3 es review.
 
-Respuesta: La precipitación (lluvia o nieve)
+Respuesta: La revisión (review)
 
 **Errores frecuentes y cómo reconocerlos**
 
@@ -358,29 +358,29 @@ Respuesta: La precipitación (lluvia o nieve)
 
 - **R1.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) ¿Cuántos días dura el festival?
 - **R2.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) ¿Cuánto cuesta la entrada?
-- **R3.** Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación) ¿Cuántos pasos tiene el ciclo del agua? A) cuatro B) seis
+- **R3.** Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo) ¿Cuántos pasos tiene el proceso de la revista? A) cuatro B) seis
 
 *Comprensión*
 
 - **C1.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) ¿Qué estrategia usas para saber de qué trata el texto? A) leer línea por línea B) skimming del título y subtítulo
 - **C2.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) ¿Qué hay el domingo a las diez? A) experimentos en familia B) charla del espacio
-- **C3.** Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación) ¿Qué ocurre en la etapa 4? A) el agua llega a ríos y mares B) el vapor sube
+- **C3.** Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo) ¿Qué ocurre en la etapa 4? A) la revista se imprime y se reparte B) se elige el tema
 
 *Aplicación*
 
 - **A1.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) ¿Qué niños no pagan entrada? A) los menores de ocho años B) los mayores de ocho
-- **A2.** Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación) ¿Qué paso explica que se formen nubes? A) precipitation B) condensation
+- **A2.** Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo) ¿Qué paso explica que otra persona lea el texto y proponga cambios? A) review B) draft
 - **A3.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) Una familia compra 4 entradas para un día. ¿Cuántos pesos paga? (todas pagan entrada completa)
 
 *Razonamiento y análisis*
 
 - **Z1.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) ¿Qué dos actividades hay el día 1? A) chemistry show y robots workshop B) planetarium visit y closing ceremony
-- **Z2.** Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación) ¿Qué paso del ciclo depende del calor del sol? A) evaporation B) collection
+- **Z2.** Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo) ¿Qué paso es el primero del proceso? A) publication B) idea
 
 *Desafío*
 
 - **D1.** Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas) Un lector dice que la clausura es el sábado. ¿Qué parte lo corrige? A) Day 3 (Sunday): closing ceremony at 1 B) Day 2 (Saturday): space talk
-- **D2.** Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación) Un compañero dice que la precipitación va antes de la evaporación. ¿Cómo lo corriges? A) la precipitación es 1 B) la evaporación es 1 y la precipitación es 3
+- **D2.** Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo) Un compañero dice que la publicación va antes del borrador. ¿Cómo lo corriges? A) la publicación es 1 B) el borrador es 2 y la publicación es 4
 
 *Situaciones auténticas*
 
@@ -401,14 +401,14 @@ Respuesta: La precipitación (lluvia o nieve)
 - **R3.** A) cuatro. El diagrama numera del 1 al 4.
 - **C1.** B) skimming del título y subtítulo. El título y el subtítulo resumen el tema.
 - **C2.** A) experimentos en familia. El cuadro dice Day 3: family experiments at 10.
-- **C3.** A) el agua llega a ríos y mares. Collection es el paso final del diagrama.
+- **C3.** A) la revista se imprime y se reparte. Publication es el paso final del diagrama.
 - **A1.** A) los menores de ocho años. Dice children under 8 free.
-- **A2.** B) condensation. El vapor se enfría y forma nubes.
+- **A2.** A) review. En el paso 3 una profesora y un compañero la leen y proponen cambios.
 - **A3.** 12.000. Se multiplica el valor de cada entrada por cuatro. Cálculo: 4 × 3000 = 12.000.
 - **Z1.** A) chemistry show y robots workshop. El cuadro del día 1 incluye el show de química y el taller de robots.
-- **Z2.** A) evaporation. El diagrama dice que el sol calienta el agua en el paso 1.
+- **Z2.** B) idea. El diagrama numera la elección del tema como paso 1.
 - **D1.** A) Day 3 (Sunday): closing ceremony at 1. La clausura figura el día 3, el domingo.
-- **D2.** B) la evaporación es 1 y la precipitación es 3. Los números del diagrama marcan el orden.
+- **D2.** B) el borrador es 2 y la publicación es 4. Los números del diagrama marcan el orden.
 - **S1.** El domingo. La línea del horario dice Sunday: closed.
 - **E1.** De qué trata el texto. Se hojea para tener la idea general.
 - **E2.** Un dato exacto. Palabra o número específico.
@@ -566,7 +566,7 @@ Respuesta: No, llegará tarde porque necesita 30 minutos y solo tiene 20
 
 *Recuperación*
 
-- **R1.** «Daniel looked at the sky and closed his notebook. He took his umbrella from the bag and put it next to his jacket. Then he ran to the bus stop. Behind him, the street lights were already on.» (looked at the sky = miró el cielo, notebook = cuaderno, umbrella = paraguas, bus stop = paradero, street lights = faroles, already = ya) ¿Qué lleva Daniel? A) una pelota B) un paraguas
+- **R1.** «Daniel looked at the sky and closed his notebook. He took his umbrella from the bag and put it next to his jacket. Then he ran to the bus stop. Behind him, the street lights were already on.» (looked at the sky = miró el cielo, notebook = cuaderno, umbrella = paraguas, bus stop = paradero, street lights = faroles, already = ya) ¿Qué lleva Daniel? A) un abrigo grueso B) un paraguas
 - **R2.** «Daniel looked at the sky and closed his notebook. He took his umbrella from the bag and put it next to his jacket. Then he ran to the bus stop. Behind him, the street lights were already on.» (looked at the sky = miró el cielo, notebook = cuaderno, umbrella = paraguas, bus stop = paradero, street lights = faroles, already = ya) ¿Adónde corre?
 - **R3.** «Mara checked her phone again. It was ten past five. The game started at five thirty, and the stadium was thirty minutes away by bus. She grabbed her scarf and ran out without her lunch.» (checked = revisó, stadium = estadio, away = lejos, grabbed = tomó, scarf = bufanda, without = sin) ¿Qué dejó Mara al salir? A) su almuerzo B) su celular
 
@@ -580,7 +580,7 @@ Respuesta: No, llegará tarde porque necesita 30 minutos y solo tiene 20
 
 - **A1.** «Mara checked her phone again. It was ten past five. The game started at five thirty, and the stadium was thirty minutes away by bus. She grabbed her scarf and ran out without her lunch.» (checked = revisó, stadium = estadio, away = lejos, grabbed = tomó, scarf = bufanda, without = sin) Son las 5:10 y el partido es a las 5:30. ¿Cuántos minutos le quedan para llegar?
 - **A2.** «Mara checked her phone again. It was ten past five. The game started at five thirty, and the stadium was thirty minutes away by bus. She grabbed her scarf and ran out without her lunch.» (checked = revisó, stadium = estadio, away = lejos, grabbed = tomó, scarf = bufanda, without = sin) Si el viaje dura 30 minutos y le quedan 20, ¿cuántos minutos llegará tarde? A) 20 B) 10
-- **A3.** «Daniel looked at the sky and closed his notebook. He took his umbrella from the bag and put it next to his jacket. Then he ran to the bus stop. Behind him, the street lights were already on.» (looked at the sky = miró el cielo, notebook = cuaderno, umbrella = paraguas, bus stop = paradero, street lights = faroles, already = ya) ¿Qué conclusión se apoya en dos pistas? A) va a nevar porque corre B) va a llover porque miró el cielo y sacó el paraguas
+- **A3.** «Daniel looked at the sky and closed his notebook. He took his umbrella from the bag and put it next to his jacket. Then he ran to the bus stop. Behind him, the street lights were already on.» (looked at the sky = miró el cielo, notebook = cuaderno, umbrella = paraguas, bus stop = paradero, street lights = faroles, already = ya) ¿Qué conclusión se apoya en dos pistas? A) va a llegar tarde porque corre B) va a llover porque miró el cielo y sacó el paraguas
 
 *Razonamiento y análisis*
 
@@ -782,14 +782,14 @@ Respuesta: A las 4 de la tarde
 
 *Comprensión*
 
-- **C1.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) ¿Qué organizador sirve para ordenar sus actividades? A) una línea de tiempo B) un mapa del barrio
+- **C1.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) ¿Qué organizador sirve para ordenar sus actividades? A) un diagrama de Venn B) una línea de tiempo
 - **C2.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) ¿A qué hora vende el último pan?
 - **C3.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) ¿Qué hace justo antes de volver a casa? A) hornea pan B) limpia la tienda y prepara masa
 
 *Aplicación*
 
 - **A1.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) Elisa se levanta a las 4 y vuelve a casa a las 16. ¿Cuántas horas pasan entre ambos momentos?
-- **A2.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) ¿Cuál es el mejor resumen? A) Elisa limpia una escuela B) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde
+- **A2.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Parte B: «At noon, Elisa sells the last loaf. In the afternoon she cleans the shop and prepares the dough for the next day. She goes home at four and sleeps early.» (sells = vende, loaf = pan, cleans = limpia, prepares = prepara, goes home = vuelve a casa) ¿Cuál es el mejor resumen? A) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde B) Elisa vende pan solo en la tarde
 - **A3.** Parte A: «Elisa works in a bakery. She wakes up at four every morning. At five she makes the dough and puts the bread in the oven. At seven the first customers arrive.» (bakery = panadería, wakes up = se levanta, dough = masa, oven = horno, customers = clientes) Predijiste que el texto hablaría de un restaurante. Tras leer la parte A, ¿se confirma? A) sí B) no, trata de una panadería
 
 *Razonamiento y análisis*
@@ -819,11 +819,11 @@ Respuesta: A las 4 de la tarde
 - **R1.** A las cuatro. Dice wakes up at four.
 - **R2.** El pan. Dice puts the bread in the oven.
 - **R3.** La masa del día siguiente. Dice prepares the dough for the next day.
-- **C1.** A) una línea de tiempo. Las actividades siguen un orden en el tiempo.
+- **C1.** B) una línea de tiempo. Las actividades siguen un orden en el tiempo.
 - **C2.** Al mediodía. Dice At noon, Elisa sells the last loaf.
 - **C3.** B) limpia la tienda y prepara masa. Son las actividades de la tarde antes de las cuatro.
 - **A1.** 12. Se resta la hora de levantarse de la hora de volver. Cálculo: 16 − 4 = 12.
-- **A2.** B) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde. Reúne las ideas de ambas partes.
+- **A2.** A) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde. Reúne las ideas de ambas partes.
 - **A3.** B) no, trata de una panadería. El texto dice Elisa works in a bakery.
 - **Z1.** B) la lectora de la parte A. El dato está en la parte A: At seven.
 - **Z2.** B) sleeps early. La parte B dice que duerme temprano.
@@ -940,7 +940,7 @@ Respuesta: A las 4 de la tarde
 
 Leer de manera estratégica es un ciclo. Antes de leer: fijas un propósito, predices con el título y activas lo que sabes. Durante la lectura: haces lectura rápida (skimming) para la idea general, lectura focalizada (scanning) para un dato, infieres con pistas y relees las partes confusas. Después de leer: confirmas tus predicciones, completas un organizador, resumes y haces preguntas para comprobar tu comprensión.
 
-En «From Bottle to Shirt», el título y el subtítulo predicen un texto sobre el reciclaje de botellas. Las palabras First, Second, Third y Last señalan una secuencia de cuatro pasos. However marca un problema al final: poco reciclaje porque no se separa la basura. Un buen resumen respeta esa estructura: pasos y problema.
+En «From Sheep to Sweater», el título y el subtítulo predicen un texto sobre cómo la lana de la oveja se convierte en ropa. Las palabras First, Second, Third y Last señalan una secuencia de cuatro pasos. However marca un problema al final: la ropa de lana es cara porque el trabajo toma muchas horas. Un buen resumen respeta esa estructura: pasos y problema.
 
 Para preguntar y confirmar, formula preguntas que se respondan con datos del texto: «¿Cuántos pasos tiene el proceso?», «¿Qué se hace en el paso tres?». Si alguien responde, comprueba su respuesta en el texto. Así verificas que tu comprensión coincide con la información real.
 
@@ -950,32 +950,32 @@ Para preguntar y confirmar, formula preguntas que se respondan con datos del tex
 |---|---|
 | cycle | ciclo: serie de pasos que se repite |
 | sequence | secuencia: pasos en orden |
-| shred | triturar |
-| melt | derretir |
-| waste | basura, residuos |
+| thread | hilo |
+| knit | tejer |
+| wool | lana |
 | however | sin embargo |
 
 **Ejemplos resueltos paso a paso**
 
 *Ejemplo 1. Secuencia*
 
-Problema: Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Qué ocurre en el paso tres?
+Problema: Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Qué ocurre en el paso tres?
 
 1. Busco Third en el texto.
-2. Dice machines shred them into small pieces.
-3. Las máquinas trituran las botellas.
+2. Dice machines turn it into thread.
+3. Las máquinas convierten la lana en hilo.
 
-Respuesta: Las máquinas trituran las botellas en trozos pequeños
+Respuesta: Las máquinas convierten la lana en hilo
 
 *Ejemplo 2. Problema final*
 
-Problema: Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Cuál es el problema que señala el texto y qué palabra lo anuncia?
+Problema: Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Cuál es el problema que señala el texto y qué palabra lo anuncia?
 
 1. Busco However.
-2. Dice recycling is low because people do not separate waste.
-3. El problema es el poco reciclaje.
+2. Dice woolen clothes are expensive because the work takes many hours.
+3. El problema es el precio alto.
 
-Respuesta: Se recicla poco porque la gente no separa su basura; lo anuncia However
+Respuesta: La ropa de lana es cara porque el trabajo toma muchas horas; lo anuncia However
 
 **Errores frecuentes y cómo reconocerlos**
 
@@ -986,31 +986,31 @@ Respuesta: Se recicla poco porque la gente no separa su basura; lo anuncia Howev
 
 *Recuperación*
 
-- **R1.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Cuántos pasos tiene el proceso? A) tres B) cuatro
-- **R2.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Qué se hace en el primer paso?
-- **R3.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Qué se hace con los trozos al final? A) se derriten y se fabrican nuevos productos B) se botan
+- **R1.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Cuántos pasos tiene el proceso? A) cuatro B) tres
+- **R2.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Qué se hace en el primer paso?
+- **R3.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Qué se hace con el hilo al final? A) se lava otra vez y se guarda B) se teje en chompas, bufandas y gorros
 
 *Comprensión*
 
-- **C1.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Qué productos se mencionan? A) bolsas, ropa y botellas nuevas B) autos y casas
-- **C2.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Qué predicción es más probable con el título «From Bottle to Shirt»? A) una botella se convierte en ropa B) una polera se convierte en botella
-- **C3.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Cuál es el propósito del texto? A) convencer de comprar ropa nueva B) informar sobre un proceso
+- **C1.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Qué productos se mencionan? A) mantas, zapatos y guantes B) chompas, bufandas y gorros
+- **C2.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Qué predicción es más probable con el título «From Sheep to Sweater»? A) la lana de una oveja se convierte en ropa B) una chompa vieja se convierte en lana nueva
+- **C3.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Cuál es el propósito del texto? A) informar sobre un proceso B) convencer de comprar ropa nueva
 
 *Aplicación*
 
-- **A1.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) Ordena los pasos con letras. A) shred the bottles B) clean the bottles C) melt the pieces D) collect the bottles
-- **A2.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) Pregunta para confirmar: «¿Quién limpia las botellas?» ¿Cuál es la respuesta? A) los trabajadores B) las máquinas
-- **A3.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) ¿Qué palabra anuncia el problema? A) However B) First
+- **A1.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) Ordena los pasos con letras. A) turn the wool into thread B) wash the wool C) knit the thread D) cut the wool
+- **A2.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) Pregunta para confirmar: «¿Quién lava la lana?» ¿Cuál es la respuesta? A) los trabajadores B) las máquinas
+- **A3.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) ¿Qué palabra anuncia el problema? A) However B) First
 
 *Razonamiento y análisis*
 
-- **Z1.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) Un compañero dice que el reciclaje es alto en todos lados. ¿Qué parte lo corrige? A) people collect them B) in many places recycling is low
-- **Z2.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) Un resumen de una frase. ¿Cuál es el mejor? A) Las botellas son de plástico B) Las botellas se reciclan en cuatro pasos, pero se recicla poco porque no se separa la basura
+- **Z1.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) Un compañero dice que la ropa de lana es barata en todas partes. ¿Qué parte lo corrige? A) farmers cut the wool B) in many places woolen clothes are expensive
+- **Z2.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) Un resumen de una frase. ¿Cuál es el mejor? A) Las ovejas viven en el campo B) La lana se convierte en ropa en cuatro pasos, pero la ropa de lana suele ser cara porque el trabajo toma muchas horas
 
 *Desafío*
 
-- **D1.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) Haz una inferencia: ¿qué podría hacer una persona para mejorar el reciclaje? A) tirar todo junto B) separar su basura en casa
-- **D2.** Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar) Relee el final: ¿qué palabra explica la causa del poco reciclaje? A) so that B) because
+- **D1.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) Haz una inferencia: ¿por qué una bufanda tejida a mano puede costar más? A) porque hacerla toma muchas horas de trabajo B) porque se vende solo en invierno
+- **D2.** Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro) Relee el final: ¿qué palabra explica la causa del precio alto? A) so that B) because
 
 *Situaciones auténticas*
 
@@ -1026,19 +1026,19 @@ Respuesta: Se recicla poco porque la gente no separa su basura; lo anuncia Howev
 
 **Solucionario razonado**
 
-- **R1.** B) cuatro. El texto dice in four steps.
-- **R2.** La gente recolecta las botellas y las lleva a un centro de reciclaje. Dice First, people collect them.
-- **R3.** A) se derriten y se fabrican nuevos productos. Dice the pieces are melted and made into new products.
-- **C1.** A) bolsas, ropa y botellas nuevas. Dice bags, clothes and new bottles.
-- **C2.** A) una botella se convierte en ropa. From Bottle to Shirt marca el sentido de la transformación.
-- **C3.** B) informar sobre un proceso. Explica el proceso paso a paso.
-- **A1.** D, B, A, C. Primero se recolecta, luego se limpia, después se tritura y al final se derrite.
-- **A2.** A) los trabajadores. Dice Second, workers clean the bottles.
+- **R1.** A) cuatro. El texto dice in four steps.
+- **R2.** Los agricultores cortan la lana de la oveja. Dice First, farmers cut the wool from the sheep.
+- **R3.** B) se teje en chompas, bufandas y gorros. Dice the thread is knitted into products.
+- **C1.** B) chompas, bufandas y gorros. Dice sweaters, scarves and hats.
+- **C2.** A) la lana de una oveja se convierte en ropa. From Sheep to Sweater marca el sentido de la transformación.
+- **C3.** A) informar sobre un proceso. Explica el proceso paso a paso.
+- **A1.** D, B, A, C. Primero se corta, luego se lava, después se hace hilo y al final se teje.
+- **A2.** A) los trabajadores. Dice Second, workers wash the wool.
 - **A3.** A) However. However introduce un contraste con lo anterior.
-- **Z1.** B) in many places recycling is low. El texto dice que en muchos lugares se recicla poco.
-- **Z2.** B) Las botellas se reciclan en cuatro pasos, pero se recicla poco porque no se separa la basura. Incluye los pasos y el problema.
-- **D1.** B) separar su basura en casa. El texto dice que el problema es no separar la basura.
-- **D2.** B) because. Dice low because people do not separate their waste.
+- **Z1.** B) in many places woolen clothes are expensive. El texto dice que en muchos lugares la ropa de lana es cara.
+- **Z2.** B) La lana se convierte en ropa en cuatro pasos, pero la ropa de lana suele ser cara porque el trabajo toma muchas horas. Incluye los pasos y el problema.
+- **D1.** A) porque hacerla toma muchas horas de trabajo. El texto da como causa del precio las muchas horas de trabajo.
+- **D2.** B) because. Dice expensive because the work takes many hours.
 - **S1.** Scanning. Buscas el dato exacto de la hora.
 - **E1.** Antes, durante y después de leer. Cada momento tiene estrategias.
 - **E2.** Comprobar la respuesta en el texto. Verifica la comprensión.
@@ -1054,7 +1054,7 @@ Respuesta: Se recicla poco porque la gente no separa su basura; lo anuncia Howev
 
 **Retroalimentación constructiva:** Valora el uso del ciclo completo y revisa la pregunta con el texto.
 
-**Refuerzo.** Vuelve a leer «From Bottle to Shirt» y escribe tres preguntas que se respondan con el texto.
+**Refuerzo.** Vuelve a leer «From Sheep to Sweater» y escribe tres preguntas que se respondan con el texto.
 
 **Profundización.** Escribe en español qué estrategia de lectura usarías para buscar un número de teléfono y cuál para entender de qué trata un artículo.
 

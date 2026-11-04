@@ -131,7 +131,7 @@ build(
         ("=", "{F} ¿Cuántos habitantes aumentó la ciudad entre 1800 y 1850?", "240000-80000", "Se resta la población de 1800 a la de 1850.", " habitantes"),
         ("=", "{F} ¿Cuántas veces mayor es la población de 1900 que la de 1800?", "720000/80000", "Se divide la población de 1900 entre la de 1800.", " veces"),
         ("{F} ¿Qué periodo tuvo un aumento mayor de población? A) 1850 a 1900 B) 1800 a 1850", "A) 1850 a 1900", "Aumentó 480.000 frente a 160.000."),
-        ("{F} ¿Cuál es una causa de la explosión demográfica urbana según la ficha? A) La migración desde el campo B) El cierre de las fábricas", "A) La migración desde el campo", "La ficha lo señala."),
+        ("{F} ¿Cuál es una causa de la explosión demográfica urbana según la ficha? A) La migración desde el campo B) El regreso de las personas al campo", "A) La migración desde el campo", "La ficha lo señala."),
         ("{F} ¿Qué barrio muestra marginalidad? A) Uno sin agua potable ni alcantarillado B) Uno con buenos servicios", "A) Uno sin agua potable ni alcantarillado", "Es la definición de la ficha."),
         ("{F} ¿Qué medio de transporte acortó los viajes? A) El ferrocarril B) La carreta", "A) El ferrocarril", "La ficha dice que acorta los viajes."),
         ("{F} ¿Qué relación hay entre las fábricas y el crecimiento de la ciudad?", "Las fábricas atraían a personas del campo que buscaban trabajo", "La migración fue una causa."),

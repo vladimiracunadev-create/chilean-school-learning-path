@@ -580,7 +580,7 @@ Respuesta: Rosa dice que tiene hambre
 
 *Razonamiento y análisis*
 
-- **Z1.** Un compañero escribe: «Dijo que mañana vendría». El hecho es que habló ayer. ¿Qué corrige? A) cambiar «vendría» por «vendrá» B) cambiar «mañana» por «al día siguiente»
+- **Z1.** Un compañero cuenta lo que Eva dijo hace una semana y escribe: «Dijo que mañana vendría». ¿Qué corrige? A) cambiar «mañana» por «al día siguiente» B) cambiar «vendría» por «vendrá»
 - **Z2.** Directo: «Dice: “Soy de Chile”». Un estudiante escribe «Dice que era de Chile». ¿Es correcto? Responde sí o no y por qué.
 
 *Desafío*
@@ -611,7 +611,7 @@ Respuesta: Rosa dice que tiene hambre
 - **A1.** 1-b, 2-a, 3-c. Presente→imperfecto, perfecto→pluscuamperfecto, futuro→condicional.
 - **A2.** B) Rita dijo que había comprado pan el día anterior. Cambian el tiempo y la expresión temporal.
 - **A3.** A) Pedro dijo que él había traído su cuaderno. Cambian la persona y el posesivo.
-- **Z1.** B) cambiar «mañana» por «al día siguiente». La expresión depende del momento en que se habló; el condicional ya es el tiempo correcto.
+- **Z1.** A) cambiar «mañana» por «al día siguiente». Según la regla de la clase, «mañana» pasa a «al día siguiente» cuando se cuenta desde otro momento; el condicional ya es el tiempo correcto.
 - **Z2.** No; el verbo de habla está en presente y no cambia el tiempo. Debe ser «es de Chile».
 - **D1.** A) Gael dijo que al día siguiente se verían allí. Cambian la persona, el tiempo y las expresiones de tiempo y lugar.
 - **D2.** A) Noa dijo que esa semana había estudiado mucho. Cambian el demostrativo y el tiempo: «he estudiado» pasa a «había estudiado».

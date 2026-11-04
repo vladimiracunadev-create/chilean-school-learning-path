@@ -171,7 +171,7 @@ Respuesta: Hecho: 15 mensajes; emoción: agobio
 
 *Situaciones auténticas*
 
-- **S1.** En el curso se comenta que una pareja de 1.º medio se pelea a gritos y uno de los dos quedó llorando. ¿Qué es lo más responsable que puede hacer un compañero? A) Comentarla en redes con una foto B) Avisar a una persona adulta del colegio.
+- **S1.** En el curso se comenta que una pareja de 1.º medio se pelea a gritos y uno de los dos quedó llorando. ¿Qué es lo más responsable que puede hacer un compañero? A) Escribirle a la pareja para que lo arreglen solos sin avisar a nadie B) Avisar a una persona adulta del colegio.
 
 *Autoevaluación*
 
@@ -376,7 +376,7 @@ Respuesta: No debe ir; puede retirar su consentimiento
 
 *Situaciones auténticas*
 
-- **S1.** En una red social inventada, alguien manda a Camila: «Si me quieres, mándame una foto sin ropa». ¿Qué respuesta protege su intimidad? A) «Bueno, pero no se la muestres a nadie.» B) «No, no lo haré», y contárselo a una persona adulta de confianza
+- **S1.** En una red social inventada, alguien manda a Camila: «Si me quieres, mándame una foto íntima». ¿Qué respuesta protege su intimidad? A) «Bueno, pero no se la muestres a nadie.» B) «No, no lo haré», y contárselo a una persona adulta de confianza
 
 *Autoevaluación*
 
@@ -765,7 +765,7 @@ Respuesta: Escucha, no juzga y lo anima a pedir ayuda adulta
 
 - **C1.** ¿Qué debe hacer primero alguien a quien presionan para enviar una foto íntima? A) Enviarla con la cara tapada B) Decir «no» y avisar a un adulto de confianza.
 - **C2.** Si un amigo te cuenta algo grave, ¿qué es lo correcto? A) Contarlo al curso B) Escucharlo y animarlo a hablar con un adulto.
-- **C3.** ¿Para qué sirve el Fono Niños 147? A) Para pedir ayuda y orientación cuando algo te preocupa o te hace daño B) Para consultar notas y horarios del colegio
+- **C3.** ¿Para qué sirve el Fono Niños 147? A) Para pedir ayuda y orientación cuando algo te preocupa o te hace daño B) Para reemplazar la conversación con una persona adulta de confianza
 
 *Aplicación*
 
@@ -982,7 +982,7 @@ Respuesta: Qué, desde cuándo y qué hizo
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué no es necesario justificar un «no»?
-- **Z2.** ¿Por qué conviene guardar las capturas de un chat que te incomoda? A) Porque permiten mostrar a un adulto qué pasó B) Para reenviarlas al curso.
+- **Z2.** ¿Por qué conviene guardar las capturas de un chat que te incomoda? A) Porque permiten mostrar a un adulto qué pasó B) Para publicarlas y que todos sepan quién es.
 
 *Desafío*
 
@@ -991,7 +991,7 @@ Respuesta: Qué, desde cuándo y qué hizo
 
 *Situaciones auténticas*
 
-- **S1.** Lucía recibe en el recreo comentarios sexuales de un compañero. ¿Qué serie de pasos es la más segura? A) Gritarle y pegarle B) Decir «para, no me gusta», alejarse y avisar a un adulto.
+- **S1.** Lucía recibe en el recreo comentarios sexuales de un compañero. ¿Qué serie de pasos es la más segura? A) Decir «para, no me gusta», alejarse y avisar a un adulto B) Responderle con otra burla para que se detenga.
 
 *Autoevaluación*
 
@@ -1016,7 +1016,7 @@ Respuesta: Qué, desde cuándo y qué hizo
 - **Z2.** A. Son evidencia; reenviarlas expone a otros.
 - **D1.** 20. Se multiplican estudiantes por jornadas. Cálculo: 5 × 4 = 20.
 - **D2.** 18. Se divide el total entre los 2 integrantes de cada pareja. Cálculo: 36 ÷ 2 = 18.
-- **S1.** B. Pone un límite sin violencia y busca ayuda.
+- **S1.** A. Pone un límite sin violencia y busca ayuda.
 - **E1.** Sí. Se entiende mejor.
 - **E2.** No. Basta contar lo que pasó.
 - **E3.** Sí. Es una forma de cuidarte.
@@ -1186,7 +1186,7 @@ Respuesta: «Hablamos sin insultos y aceptamos un no.»
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué un rumor sobre la intimidad de una persona hace daño aunque sea cierto?
-- **Z2.** Un curso revisa su acuerdo de respeto cada mes. ¿Qué ventaja tiene? A) Ajusta lo que no funciona B) Hace más largas las clases.
+- **Z2.** Un curso revisa su acuerdo de respeto cada mes. ¿Qué ventaja tiene? A) Ajusta lo que no funciona B) Evita que el curso vuelva a conversar del tema.
 
 *Desafío*
 

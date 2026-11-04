@@ -359,13 +359,13 @@ Respuesta: 6 compases
 *Comprensión*
 
 - **C1.** Una pieza tiene la forma A B A. ¿Cuántas ideas distintas tiene? A) Dos. B) Tres.
-- **C2.** Una voz canta una frase y otra voz la repite con las mismas notas dos compases después. ¿Qué procedimiento es? A) Un canon. B) Un contraste.
+- **C2.** Una voz canta una frase y otra voz la repite con las mismas notas dos compases después. ¿Qué procedimiento es? A) Un canon. B) Una pregunta y respuesta.
 - **C3.** Una frase queda abierta, como una pregunta, y la siguiente la responde. ¿Cómo se llama ese procedimiento? A) Ostinato. B) Pregunta y respuesta.
 
 *Aplicación*
 
 - **A1.** Melodía de ejemplo, un compás entre barras (1 = do, 2 = re, 3 = mi, 5 = sol): | 1 2 3 1 | 1 2 3 1 | 1 2 3 5 | 1 2 3 1 |. Si se marca la forma con letras, ¿cuál es la forma de la melodía? Considera que el compás 3 es una variación. Usa A y A'.
-- **A2.** Una segunda frase termina igual que la primera, pero con la última nota cambiada. ¿Es repetición, variación o contraste?
+- **A2.** Una segunda frase empieza igual que la primera, pero con la última nota cambiada. ¿Es repetición, variación o contraste?
 
 *Razonamiento y análisis*
 
@@ -570,8 +570,8 @@ Respuesta: No: se parece más a un homenaje que a una celebración
 
 *Aplicación*
 
-- **A1.** Pieza P (de ejemplo): se toca en una celebración pública; 140 pulsos por minuto, 2 pulsos por compás, modo mayor, coro y percusión, volumen fuerte. Pieza Q (de ejemplo): se toca en un homenaje; 56 pulsos por minuto, 4 pulsos por compás, modo menor, cuarteto de cuerdas, volumen suave. ¿Cuántos compases suenan en un minuto de la pieza P?
-- **A2.** Pieza P (de ejemplo): se toca en una celebración pública; 140 pulsos por minuto, 2 pulsos por compás, modo mayor, coro y percusión, volumen fuerte. Pieza Q (de ejemplo): se toca en un homenaje; 56 pulsos por minuto, 4 pulsos por compás, modo menor, cuarteto de cuerdas, volumen suave. ¿Cuántos compases suenan en un minuto de la pieza Q?
+- **A1.** Pieza P (de ejemplo): se toca en una celebración pública; 140 pulsos por minuto, 2 pulsos por compás, modo mayor, coro y percusión, volumen fuerte. Pieza Q (de ejemplo): se toca en un homenaje; 56 pulsos por minuto, 4 pulsos por compás, modo menor, cuarteto de cuerdas, volumen suave. ¿Cuántos compases suenan en 2 minutos de la pieza P?
+- **A2.** Pieza P (de ejemplo): se toca en una celebración pública; 140 pulsos por minuto, 2 pulsos por compás, modo mayor, coro y percusión, volumen fuerte. Pieza Q (de ejemplo): se toca en un homenaje; 56 pulsos por minuto, 4 pulsos por compás, modo menor, cuarteto de cuerdas, volumen suave. ¿Cuántos compases suenan en 3 minutos de la pieza Q?
 - **A3.** Pieza P (de ejemplo): se toca en una celebración pública; 140 pulsos por minuto, 2 pulsos por compás, modo mayor, coro y percusión, volumen fuerte. Pieza Q (de ejemplo): se toca en un homenaje; 56 pulsos por minuto, 4 pulsos por compás, modo menor, cuarteto de cuerdas, volumen suave. Una persona dice que Q no sirve para un homenaje porque «es muy lenta». ¿Qué respuesta usa un criterio válido? A) Que su lentitud y su volumen suave dan solemnidad, adecuada para recordar. B) Que Q no tiene percusión.
 
 *Razonamiento y análisis*
@@ -591,7 +591,7 @@ Respuesta: No: se parece más a un homenaje que a una celebración
 *Autoevaluación*
 
 - **E1.** ¿Para qué se toca la pieza P de ejemplo?
-- **E2.** Una pieza de 56 pulsos por minuto con 4 pulsos por compás ¿cuántos compases tiene por minuto?
+- **E2.** Una pieza de ejemplo va a 90 pulsos por minuto con 3 pulsos por compás. ¿Cuántos compases suenan en 1 minuto?
 - **E3.** ¿Cuál es la última parte de una frase de comparación: el dato, el efecto o el propósito?
 
 **Actividad abierta.** Usa las fichas de ejemplo P y Q. Escribe tres frases de comparación, cada una con dato, efecto y propósito (una sobre el tempo, otra sobre el modo y otra sobre el volumen). Después escribe qué elemento de Q cambiarías para que sirviera a una fiesta, y qué efecto esperas.
@@ -604,8 +604,8 @@ Respuesta: No: se parece más a un homenaje que a una celebración
 - **C1.** B. Se une lo que se oye con lo que produce y con su finalidad.
 - **C2.** A. El primero da un dato, un efecto y un propósito; el segundo es un juicio sin razón.
 - **C3.** A. La mejor elección depende de lo que la música busca lograr.
-- **A1.** 70 compases. Se dividen los pulsos por minuto entre los pulsos de cada compás. Cálculo: 140 ÷ 2 = 70.
-- **A2.** 14 compases. Se dividen los pulsos por minuto entre los pulsos de cada compás. Cálculo: 56 ÷ 4 = 14.
+- **A1.** 140 compases. Se dividen los pulsos por minuto entre los pulsos de cada compás. Cálculo: 140 × 2 ÷ 2 = 140.
+- **A2.** 42 compases. Se dividen los pulsos por minuto entre los pulsos de cada compás. Cálculo: 56 × 3 ÷ 4 = 42.
 - **A3.** A. El tempo lento y el volumen suave encajan con el propósito del homenaje.
 - **Z1.** 420 pulsos. Se multiplican los pulsos por minuto por los 3 minutos. Cálculo: 140 × 3 = 420.
 - **Z2.** B. Cada elemento tomado se justifica por el efecto que produce.
@@ -613,7 +613,7 @@ Respuesta: No: se parece más a un homenaje que a una celebración
 - **D2.** A. El propósito de recordar con respeto pide solemnidad, que Q ofrece.
 - **S1.** B. Para animar se necesita movimiento y energía.
 - **E1.** Para una celebración pública. Así lo dice su ficha.
-- **E2.** 14. Se divide 56 entre 4.
+- **E2.** 30. Se divide 90 entre 3.
 - **E3.** El propósito. Se termina diciendo para qué sirve.
 
 **Actividad abierta · ejemplo de respuesta.** Tempo: P va a 140 pulsos por minuto y Q a 56; P da movimiento para celebrar y Q da calma para recordar. Cambio: subiría el tempo de Q a unos 120 pulsos por minuto, para que se sintiera más animada, aunque seguiría suave.

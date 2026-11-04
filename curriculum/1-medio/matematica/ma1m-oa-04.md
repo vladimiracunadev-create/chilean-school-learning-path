@@ -151,7 +151,7 @@ Respuesta: Sí, cumple las dos
 
 - **C1.** ¿Es (6, 1) solución de x + y = 7 y 2x − y = 11?
 - **C2.** En x + y = 10, si x = 4, ¿cuánto vale y?
-- **C3.** ¿Cuántas ecuaciones y cuántas incógnitas tiene un sistema 2×2?
+- **C3.** ¿Es (2, 3) solución de x + y = 5 y 2x − y = 2?
 
 *Aplicación*
 
@@ -188,7 +188,7 @@ Respuesta: Sí, cumple las dos
 - **R3.** x + y = 15. La suma de las dos incógnitas es 15.
 - **C1.** Sí. 6 + 1 = 7 y 12 − 1 = 11.
 - **C2.** 6. 4 + y = 10.
-- **C3.** Dos ecuaciones y dos incógnitas. El nombre 2×2 indica 2 ecuaciones por 2 incógnitas.
+- **C3.** No. 2 + 3 = 5, pero 2·2 − 3 = 1 y no 2.
 - **A1.** x + y = 12 y x = 2y. El total es la suma y la relación del doble es x = 2y.
 - **A2.** A. El número de entradas suma 10 y el dinero suma $21.000.
 - **A3.** 12 y 8. 12 + 8 = 20 y 12 − 8 = 4.
@@ -353,7 +353,7 @@ Respuesta: Ninguna
 *Recuperación*
 
 - **R1.** En x + y = 8, si x = 3, ¿cuánto vale y?
-- **R2.** Dos tablas de valores comparten el par (2, 5). ¿Cuál es el punto de corte de las rectas?
+- **R2.** Tabla de y = x + 3: (0, 3), (1, 4), (2, 5). Tabla de y = 2x + 1: (0, 1), (1, 3), (2, 5). ¿Cuál es el punto de corte de las rectas?
 - **R3.** ¿En qué punto la recta y = 2x + 3 corta al eje y?
 
 *Comprensión*
@@ -393,7 +393,7 @@ Respuesta: Ninguna
 **Solucionario razonado**
 
 - **R1.** 5. 3 + y = 8.
-- **R2.** (2, 5). Un par común está en ambas rectas.
+- **R2.** (2, 5). El par que aparece en las dos tablas está en ambas rectas.
 - **R3.** (0, 3). Con x = 0 se obtiene y = 3.
 - **C1.** Son paralelas. Tienen pendiente 1 pero cortan el eje y en puntos distintos.
 - **C2.** Coinciden. Al dividir 2y = 4x entre 2 queda y = 2x.
@@ -561,7 +561,7 @@ Respuesta: x = 3, y = 2
 
 *Recuperación*
 
-- **R1.** Al sumar x + y = 9 y x − y = 1, ¿cuánto vale 2x?
+- **R1.** Al sumar x + y = 11 y x − y = 3, ¿cuánto vale 2x?
 - **R2.** Si y = x + 5 y x + y = 11, reemplaza y: ¿cuánto vale x?
 - **R3.** Resuelve x + y = 12 y x − y = 4.
 
@@ -575,7 +575,7 @@ Respuesta: x = 3, y = 2
 
 - **A1.** Resuelve x + 2y = 11 y x − y = 2 restando las ecuaciones.
 - **A2.** Resuelve 3x + 2y = 16 y x + y = 6, multiplicando la segunda por 2.
-- **A3.** Resuelve y = x − 1 y 4x + y = 14.
+- **A3.** Resuelve y = x − 2 y 4x + y = 13.
 
 *Razonamiento y análisis*
 
@@ -601,7 +601,7 @@ Respuesta: x = 3, y = 2
 
 **Solucionario razonado**
 
-- **R1.** 10. Sumando los lados izquierdos queda 2x y los derechos 9 + 1.
+- **R1.** 14. Sumando los lados izquierdos queda 2x y los derechos 11 + 3.
 - **R2.** 3. x + (x + 5) = 11 → 2x = 6.
 - **R3.** x = 8, y = 4. Sumando: 2x = 16, x = 8, y = 4.
 - **C1.** x = 5, y = 10. x + 2x = 15, entonces x = 5.
@@ -609,7 +609,7 @@ Respuesta: x = 3, y = 2
 - **C3.** x = 4, y = 3. Sumando: 3x = 12, x = 4, y = 3.
 - **A1.** x = 5, y = 3. Restando: 3y = 9, y = 3 y x = 5.
 - **A2.** x = 4, y = 2. 2x + 2y = 12; restando: x = 4, y = 2.
-- **A3.** x = 3, y = 2. 4x + x − 1 = 14 → 5x = 15.
+- **A3.** x = 3, y = 1. 4x + x − 2 = 13 → 5x = 15.
 - **Z1.** x = 5, y = 2. 2x = 10 → x = 5 y luego y = 2.
 - **Z2.** Sí. 6 + 2 = 8 y 3 + 6 = 9.
 - **D1.** x = 2, y = 3. Sumando: 6x = 12 y x = 2.

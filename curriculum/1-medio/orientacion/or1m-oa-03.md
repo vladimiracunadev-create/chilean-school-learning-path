@@ -162,7 +162,7 @@ Respuesta: Probable y grave: riesgo alto
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué el alcohol aumenta el riesgo de conductas sexuales sin consentimiento?
-- **Z2.** ¿Qué es mejor para evaluar un caso? A) Culpar al personaje de lo que le pasó B) Separar hechos y factores sin juzgar a nadie.
+- **Z2.** ¿Qué es mejor para evaluar un caso? A) Buscar qué hizo mal el personaje para evitarlo B) Separar hechos y factores sin juzgar a nadie.
 
 *Desafío*
 
@@ -570,7 +570,7 @@ Respuesta: El daño continúa y puede crecer
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué aceptar una sustancia «solo esta vez» puede tener consecuencias aunque no pase nada de inmediato?
-- **Z2.** Un joven dice: «Mejor no hago nada, así no me meto en problemas». ¿Qué le falta considerar? A) Que siempre hay que enfrentar con gritos B) Que no hacer nada también tiene consecuencias.
+- **Z2.** Un joven dice: «Mejor no hago nada, así no me meto en problemas». ¿Qué le falta considerar? A) Que conviene enfrentar al agresor para resolverlo solo B) Que no hacer nada también tiene consecuencias.
 
 *Desafío*
 
@@ -776,7 +776,7 @@ Respuesta: Avisar a un adulto del colegio
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué no se debe dejar solo a alguien que consumió mucho alcohol y duerme?
-- **Z2.** ¿Por qué una acción segura no incluye enfrentar a quien daña? A) Porque puede ponerte en peligro; mejor avisar a un adulto B) Porque nadie hace daño.
+- **Z2.** ¿Por qué una acción segura no incluye enfrentar a quien daña? A) Porque puede ponerte en peligro; mejor avisar a un adulto B) Porque quien daña siempre se arrepiente si lo enfrentan.
 
 *Desafío*
 
@@ -981,7 +981,7 @@ Respuesta: Sí, cumple las señales
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué conviene tener más de una persona en tu red de apoyo?
-- **Z2.** ¿Por qué conviene revisar la fecha de una página de salud? A) Porque la fecha la hace más bonita B) Porque la información puede cambiar.
+- **Z2.** ¿Por qué conviene revisar la fecha de una página de salud? A) Porque una página con fecha siempre es verdadera B) Porque la información puede cambiar.
 
 *Desafío*
 
@@ -1185,7 +1185,7 @@ Respuesta: «Si alguien está en riesgo, avisamos a un adulto del colegio.»
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué un protocolo corto es mejor que uno largo?
-- **Z2.** Un compañero dice: «No avisemos, que se resuelva solo». ¿Qué falta en su idea? A) Que el riesgo puede crecer sin ayuda adulta B) Que siempre hay que grabar.
+- **Z2.** Un compañero dice: «No avisemos, que se resuelva solo». ¿Qué falta en su idea? A) Que el riesgo puede crecer sin ayuda adulta B) Que basta con que lo resuelvan los involucrados.
 
 *Desafío*
 

@@ -97,7 +97,7 @@ lesson(
         ("¿Cuál oración habla de una acción que acaba de terminar y cuyo resultado se nota? A) My hands are dirty because I have been painting. B) I painted yesterday.", "A) My hands are dirty because I have been painting.", "El resultado, las manos sucias, se nota ahora."),
     ],
     [
-        arith("Daniel lleva 3 meses entrenando. Si un mes tiene unas 4 semanas (dato aproximado), ¿cuántas semanas lleva entrenando?", "3*4", "Se multiplican los meses por las semanas de cada mes."),
+        ("Elige la oración correcta. A) We have been waiting for twenty minutes. B) We are waiting since twenty minutes.", "A) We have been waiting for twenty minutes.", "Veinte minutos es un período: se usa for con have been + -ing."),
         ("Elige la oración correcta. A) She used to live in Temuco, but now she lives in Osorno. B) She used to living in Temuco.", "A) She used to live in Temuco, but now she lives in Osorno.", "Used to va seguido del verbo sin -ing."),
         ("Completa. «How long ____ they been married?» A) have B) has", "A) have", "Con they se usa have."),
     ],
@@ -127,10 +127,10 @@ lesson(
     ["Sé will para el futuro.", "Sé que los modales van con el verbo sin to."],
     [
         "Will probably expresa una predicción muy probable: Look at the dark clouds; it will probably rain. Might expresa una posibilidad más débil: It might snow in the mountains. Los modales no cambian con la persona (he might, she might) y van seguidos del verbo sin to: He might come, no He might to come.",
-        "Needn't significa que no es necesario: You needn't hurry (no hace falta apurarse). No es una prohibición. Una promesa se hace con I promise I will…: I promise I will call you. Shall es un modal formal que se usa con I y we para ofrecer o sugerir (Shall we have lunch at one?) y, en lenguaje formal, para una promesa o decisión firme (He shall be here at six: se asegura de que estará).",
+        "Needn't significa que no es necesario: You needn't hurry (no hace falta apurarse). No es una prohibición. Una promesa se hace con I promise I will…: I promise I will call you. Shall se usa con I y we para ofrecer o sugerir (Shall we have lunch at one?): propone un plan y espera respuesta. Para anunciar algo que se hará, se usa will (He will be here at six).",
         "Para elegir el modal adecuado, pregúntate cuánta seguridad tienes: casi seguro (will probably), solo posible (might), no necesario (needn't), compromiso (I promise I will) o sugerencia (Shall we…?).",
     ],
-    [("will probably", "probablemente; casi seguro"), ("might", "podría; es posible"), ("needn't", "no hace falta"), ("I promise I will…", "prometo que…"), ("shall", "modal formal: Shall we…? = ¿Y si…?"), ("suggestion", "sugerencia")],
+    [("will probably", "probablemente; casi seguro"), ("might", "podría; es posible"), ("needn't", "no hace falta"), ("I promise I will…", "prometo que…"), ("shall", "modal para sugerir: Shall we…? = ¿Y si…?"), ("suggestion", "sugerencia")],
     [
         ("Elegir la certeza", "Hay nubes oscuras en el cielo. Completa: «It ____ rain.» (muy probable) ¿will probably o might not?", ["Las nubes oscuras son una pista fuerte.", "Es muy probable, no solo posible.", "Se usa will probably."], "Will probably"),
         ("No necesario", "El bus llegará tarde. Completa: «You ____ hurry.» (no hace falta) ¿needn't o must?", ["No es necesario apurarse.", "Needn't expresa ausencia de necesidad.", "Must expresaría obligación."], "Needn't"),
@@ -162,7 +162,7 @@ lesson(
         ("Elige la mejor predicción para mañana: «Tomorrow ____ sunny.» A) will probably be B) needn't be", "A) will probably be", "Una predicción usa will probably."),
         ("Corrige: «He might to come.» A) He might come. B) He might comes.", "A) He might come.", "Los modales van con el verbo sin to ni -s."),
     ],
-    [("Un cartel dice: «Please speak quietly. The baby might wake up.» ¿Por qué hay que hablar bajo? A) porque el bebé podría despertarse B) porque el bebé nunca despertará", "A) porque el bebé podría despertarse", "Might expresa una posibilidad.")],
+    [("Un cartel dice: «Please speak quietly. The baby might wake up.» ¿Por qué hay que hablar bajo? A) porque el bebé podría despertarse B) porque el bebé ya está despierto", "A) porque el bebé podría despertarse", "Might expresa una posibilidad.")],
     [
         ("¿Qué expresa needn't?", "Que no es necesario", "No es una prohibición."),
         ("¿Con qué modal haces una promesa?", "Will", "I promise I will…"),
@@ -200,7 +200,7 @@ lesson(
     [
         ("¿Qué significa part-time job? A) un trabajo de media jornada B) un trabajo de noche", "A) un trabajo de media jornada", "Part-time significa tiempo parcial."),
         ("¿Qué significa apply for a job? A) postular a un trabajo B) renunciar a un trabajo", "A) postular a un trabajo", "Apply for es solicitar."),
-        ("¿De qué dos palabras se forma notebook? A) note y book B) not y ebook", "A) note y book", "Es una palabra compuesta."),
+        ("¿De qué dos palabras se forma notebook? A) note y book B) not y book", "A) note y book", "Es una palabra compuesta."),
     ],
     [
         ("Completa. «____ it's cheap, I'm not sure.» ¿Qué indica? A) Although, un contraste B) So that, un propósito", "A) Although, un contraste", "El precio bajo y la duda se oponen."),
@@ -209,7 +209,7 @@ lesson(
     ],
     [
         ("Elige la oración correcta. A) He learned English so that he could speak with foreigners. B) He learned English although he could speak with foreigners.", "A) He learned English so that he could speak with foreigners.", "So that introduce el propósito."),
-        ("«And last he played the piano.» ¿Qué indica last? A) el último hecho B) el primer hecho", "A) el último hecho", "Last significa por último."),
+        ("«Last, he played the piano.» ¿Qué indica last? A) el último hecho B) el primer hecho", "A) el último hecho", "Last significa por último."),
     ],
     [
         ("Ordena las palabras con letras: A) apply B) I C) will D) for E) a F) part-time G) job", "B, C, A, D, E, F, G", "La oración correcta es I will apply for a part-time job."),
@@ -266,9 +266,9 @@ lesson(
     ],
     [
         ("Ordena las palabras con letras: A) would B) faster C) she D) learn E) if F) she G) practiced H) daily", "C, A, D, B, E, F, G, H", "La oración es She would learn faster if she practiced daily."),
-        ("Un amigo te cuenta que otro compañero copia su tarea. ¿Qué consejo es adecuado? A) If I were you, I would talk to my teacher or an adult I trust. B) If I were you, I would shout at him.", "A) If I were you, I would talk to my teacher or an adult I trust.", "Pedir ayuda a una persona adulta de confianza es lo más seguro."),
+        ("Un amigo te cuenta que otro compañero copia su tarea. ¿Qué consejo es adecuado? A) If I were you, I would talk to my teacher or an adult I trust. B) If I were you, I would say nothing and keep it secret.", "A) If I were you, I would talk to my teacher or an adult I trust.", "Pedir ayuda a una persona adulta de confianza es lo más seguro."),
     ],
-    [("En un foro, alguien escribe: «I have a big test tomorrow and I'm nervous. What should I do?» ¿Cuál es el mejor consejo? A) If I were you, I would sleep early and review the main ideas. B) If I were you, I would not study.", "A) If I were you, I would sleep early and review the main ideas.", "Es un consejo concreto y útil.")],
+    [("En un foro, alguien escribe: «I have a big test tomorrow and I'm nervous. What should I do?» ¿Cuál es el mejor consejo? A) If I were you, I would sleep early and review the main ideas. B) If I were you, I would study all night without sleeping.", "A) If I were you, I would sleep early and review the main ideas.", "Es un consejo concreto y útil.")],
     [
         ("¿Qué estructura expresa una situación imaginaria?", "If + pasado, would + verbo", "Une condición y resultado."),
         ("¿Qué verbo se usa con if para todas las personas?", "Were", "If I were, if she were."),

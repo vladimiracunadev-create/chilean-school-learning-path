@@ -62,9 +62,9 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Recurso listo para usar:** Los textos y tablas escritos en cada ejercicio; lápiz y hoja para subrayar y anotar.
 
-**Consigna exacta:** Lee este cuento breve original: «Valentina was nervous about her first day in a new school. In the yard, she did not know anyone. A girl named Isidora offered her a seat on the bench. They shared an apple and talked about music. At the end of the day, Valentina smiled. Tomorrow, she would find a friend for another new student.» (nervous = nerviosa, offered = ofreció, bench = banca, shared = compartieron, smiled = sonrió). En tu hoja escribe: personajes, entorno, conflicto, final y tema.
+**Consigna exacta:** Lee este cuento breve original: «Valentina was nervous about her first day in a new school. In the yard, she did not know anyone. A girl named Isidora offered her a seat on the bench. They shared an apple and talked about music. At the end of the day, Valentina smiled. Tomorrow, she will sit with another new student.» (nervous = nerviosa, offered = ofreció, bench = banca, shared = compartieron, smiled = sonrió). En tu hoja escribe: personajes, entorno, conflicto, final y tema.
 
-**Referencia para modelar y corregir:** Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere ayudar a otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse.
+**Referencia para modelar y corregir:** Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere sentarse con otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere ayudar a otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere sentarse con otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -147,14 +147,14 @@ Respuesta: Conflicto: el viento aleja el bote. Final: llega a casa a salvo
 *Recuperación*
 
 - **R1.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Qué muestra que Tomás es un personaje prudente al final? A) revisa el clima antes de salir B) pesca todos los domingos
-- **R2.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Dónde ocurre la historia? A) en un desierto B) en una caleta junto al mar
+- **R2.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Dónde ocurre la historia? A) en una ciudad grande del interior B) en una caleta junto al mar
 - **R3.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Qué día pescaba Tomás habitualmente?
 
 *Comprensión*
 
 - **C1.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Qué hizo Tomás para volver a casa? A) esperó quieto a que el viento parara B) remó despacio hacia la luz del faro
 - **C2.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Qué sentimiento tiene Tomás cuando el bote se aleja?
-- **C3.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Cuándo llegó Tomás a casa? A) al mediodía B) de noche
+- **C3.** «Tomás had a small boat named Luna. Every Sunday he fished near the rocks of his village. One cloudy day, a strong wind pushed Luna away from the coast. Tomás was afraid, but he remembered his grandfather's advice: Stay calm and follow the lighthouse. He rowed slowly toward the light. At night, he arrived home safe. From that day, he always checked the weather before going out.» (boat = bote, fished = pescaba, rocks = rocas, village = caleta, cloudy = nublado, wind = viento, afraid = con miedo, advice = consejo, lighthouse = faro, rowed = remó, safe = a salvo, checked = revisaba) ¿Cuándo llegó Tomás a casa? A) de noche B) al amanecer
 
 *Aplicación*
 
@@ -182,7 +182,7 @@ Respuesta: Conflicto: el viento aleja el bote. Final: llega a casa a salvo
 - **E2.** ¿Qué partes tiene la trama?
 - **E3.** ¿Qué es el entorno?
 
-**Actividad abierta.** Lee este cuento breve original: «Valentina was nervous about her first day in a new school. In the yard, she did not know anyone. A girl named Isidora offered her a seat on the bench. They shared an apple and talked about music. At the end of the day, Valentina smiled. Tomorrow, she would find a friend for another new student.» (nervous = nerviosa, offered = ofreció, bench = banca, shared = compartieron, smiled = sonrió). En tu hoja escribe: personajes, entorno, conflicto, final y tema.
+**Actividad abierta.** Lee este cuento breve original: «Valentina was nervous about her first day in a new school. In the yard, she did not know anyone. A girl named Isidora offered her a seat on the bench. They shared an apple and talked about music. At the end of the day, Valentina smiled. Tomorrow, she will sit with another new student.» (nervous = nerviosa, offered = ofreció, bench = banca, shared = compartieron, smiled = sonrió). En tu hoja escribe: personajes, entorno, conflicto, final y tema.
 
 **Solucionario razonado**
 
@@ -191,7 +191,7 @@ Respuesta: Conflicto: el viento aleja el bote. Final: llega a casa a salvo
 - **R3.** Los domingos. El texto dice Every Sunday.
 - **C1.** B) remó despacio hacia la luz del faro. El texto dice He rowed slowly toward the light.
 - **C2.** Miedo. El texto dice Tomás was afraid.
-- **C3.** B) de noche. El texto dice At night, he arrived home safe.
+- **C3.** A) de noche. El texto dice At night, he arrived home safe.
 - **A1.** B, A, D, C. Primero pesca, luego el viento, después rema y al final llega.
 - **A2.** Mantener la calma y seguir el faro. El texto dice Stay calm and follow the lighthouse.
 - **A3.** Revisó siempre el clima antes de salir. Dice he always checked the weather.
@@ -204,7 +204,7 @@ Respuesta: Conflicto: el viento aleja el bote. Final: llega a casa a salvo
 - **E2.** Inicio, desarrollo y final. Muestran los hechos en orden.
 - **E3.** El lugar y el tiempo de la historia. Responde dónde y cuándo.
 
-**Actividad abierta · ejemplo de respuesta.** Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere ayudar a otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse.
+**Actividad abierta · ejemplo de respuesta.** Personajes: Valentina e Isidora. Entorno: el patio de un colegio nuevo, el primer día. Conflicto: Valentina no conoce a nadie y está nerviosa. Final: sonríe y quiere sentarse con otro estudiante nuevo. Tema: un gesto amable ayuda a integrarse.
 
 **Criterios para evaluarla:** nombra personajes y entorno correctos; identifica el conflicto y el final; formula un tema como idea general.
 
@@ -362,14 +362,14 @@ Respuesta: El viernes, con 5 horas
 
 *Comprensión*
 
-- **C1.** «Why teenagers need breaks. Studying for hours without rest does not help. The brain works better after a short break. For example, a ten-minute walk after fifty minutes of study can improve focus. However, many students check their phones during the break, and this does not rest the brain. A better idea is to stretch, drink water or look out of the window.» (breaks = pausas, rest = descanso, focus = concentración, check = revisar, stretch = estirarse, look out = mirar por) ¿Cuál es el problema que plantea? A) los adolescentes duermen demasiado B) estudiar horas sin descanso no ayuda
+- **C1.** «Why teenagers need breaks. Studying for hours without rest does not help. The brain works better after a short break. For example, a ten-minute walk after fifty minutes of study can improve focus. However, many students check their phones during the break, and this does not rest the brain. A better idea is to stretch, drink water or look out of the window.» (breaks = pausas, rest = descanso, focus = concentración, check = revisar, stretch = estirarse, look out = mirar por) ¿Cuál es el problema que plantea? A) los adolescentes estudian muy poco B) estudiar horas sin descanso no ayuda
 - **C2.** «Why teenagers need breaks. Studying for hours without rest does not help. The brain works better after a short break. For example, a ten-minute walk after fifty minutes of study can improve focus. However, many students check their phones during the break, and this does not rest the brain. A better idea is to stretch, drink water or look out of the window.» (breaks = pausas, rest = descanso, focus = concentración, check = revisar, stretch = estirarse, look out = mirar por) ¿Cuál es el propósito del texto? A) informar y recomendar B) contar un cuento
 - **C3.** Tiempo diario de pantalla de un curso (datos de ejemplo): lunes 3 horas, martes 2 horas, miércoles 4 horas, jueves 3 horas, viernes 5 horas. ¿Qué día tuvo 4 horas de pantalla?
 
 *Aplicación*
 
 - **A1.** Tiempo diario de pantalla de un curso (datos de ejemplo): lunes 3 horas, martes 2 horas, miércoles 4 horas, jueves 3 horas, viernes 5 horas. ¿Cuántas horas de pantalla suma la semana de lunes a viernes?
-- **A2.** «Why teenagers need breaks. Studying for hours without rest does not help. The brain works better after a short break. For example, a ten-minute walk after fifty minutes of study can improve focus. However, many students check their phones during the break, and this does not rest the brain. A better idea is to stretch, drink water or look out of the window.» (breaks = pausas, rest = descanso, focus = concentración, check = revisar, stretch = estirarse, look out = mirar por) ¿Qué hacen muchos estudiantes durante la pausa y por qué es un problema? A) revisan el celular y el cerebro no descansa B) duermen y no estudian
+- **A2.** «Why teenagers need breaks. Studying for hours without rest does not help. The brain works better after a short break. For example, a ten-minute walk after fifty minutes of study can improve focus. However, many students check their phones during the break, and this does not rest the brain. A better idea is to stretch, drink water or look out of the window.» (breaks = pausas, rest = descanso, focus = concentración, check = revisar, stretch = estirarse, look out = mirar por) ¿Qué hacen muchos estudiantes durante la pausa y por qué es un problema? A) revisan el celular y el cerebro no descansa B) conversan con amigos y se cansan más
 - **A3.** Tiempo diario de pantalla de un curso (datos de ejemplo): lunes 3 horas, martes 2 horas, miércoles 4 horas, jueves 3 horas, viernes 5 horas. ¿Cuántas horas más de pantalla hay el viernes que el martes?
 
 *Razonamiento y análisis*
@@ -589,7 +589,7 @@ Respuesta: Con cuidado, cuidadoso
 
 *Desafío*
 
-- **D1.** Lee: «Although the weather was cold, the waitress smiled.» ¿Qué contraste hay? A) hacía calor y ella lloró B) hacía frío y ella sonrió
+- **D1.** Lee: «Although the weather was cold, the waitress smiled.» ¿Qué contraste hay? A) hacía frío y ella sonrió B) hacía calor y ella sonrió
 - **D2.** ¿Cuál de estas palabras NO está formada con un prefijo de negación? A) careful B) disagree
 
 *Situaciones auténticas*
@@ -617,7 +617,7 @@ Respuesta: Con cuidado, cuidadoso
 - **A3.** B) make. En inglés se dice make a decision.
 - **Z1.** A) para que los pasajeros se sientan seguros. So that introduce el propósito.
 - **Z2.** B) dos. Both se refiere a las dos personas nombradas.
-- **D1.** B) hacía frío y ella sonrió. Although opone el frío a la sonrisa.
+- **D1.** A) hacía frío y ella sonrió. Although opone el frío a la sonrisa.
 - **D2.** A) careful. Careful lleva el sufijo -ful, no un prefijo de negación.
 - **S1.** Que sea servicial o útil. Helpful es help + ful.
 - **E1.** Lo contrario. Cambia el sentido al opuesto.

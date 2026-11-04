@@ -141,7 +141,7 @@ Respuesta: No se sabe: el texto es ambiguo hasta que se repite «La tía»
 **Errores frecuentes y cómo reconocerlos**
 
 - **Error:** Cambiar la palabra en cada mención aunque se pierda claridad. **Por qué ocurre:** Se cree que repetir siempre es malo. **Cómo corregirlo:** Reemplaza solo si el lector identifica el referente sin dudar.
-- **Error:** Pensar que repetir una palabra siempre es un error. **Por qué ocurre:** Se confunde cohesión con variedad. **Cómo corregirlo:** Repetir es válido cuando evita la ambigüedad.
+- **Error:** Pensar que repetir una palabra siempre es un error. **Por qué ocurre:** Se confunde repetir con escribir mal. **Cómo corregirlo:** Repetir es válido cuando evita la ambigüedad.
 
 **Ejercicios**
 
@@ -154,7 +154,7 @@ Respuesta: No se sabe: el texto es ambiguo hasta que se repite «La tía»
 *Comprensión*
 
 - **C1.** En «La luna salió. El satélite natural iluminó el mar.», ¿a qué se refiere «el satélite natural»? A) a la luna B) al mar C) a la noche
-- **C2.** En «El gato persiguió al ratón por la cocina. El animal se escondió bajo la mesa.», ¿por qué «El animal» es problemático? A) Repite la palabra «zorro» B) Es una palabra inventada C) Puede referirse al gato o al ratón
+- **C2.** En «El gato persiguió al ratón por la cocina. El animal se escondió bajo la mesa.», ¿por qué «El animal» es problemático? A) Puede referirse al gato o al ratón B) Es una palabra inventada C) Es un hipónimo del gato y del ratón
 - **C3.** «La capital de Chile» usada en lugar de «Santiago» es un caso de… A) descripción B) repetición C) hipónimo
 
 *Aplicación*
@@ -191,7 +191,7 @@ Respuesta: No se sabe: el texto es ambiguo hasta que se repite «La tía»
 - **R2.** C) ave. «Ave» incluye al gorrión; «golondrina» es otra ave y «vuelo» es una acción.
 - **R3.** 3. Son Lucía, la estudiante y la joven.
 - **C1.** A) a la luna. Es una descripción de la luna, que ya fue nombrada.
-- **C2.** C) Puede referirse al gato o al ratón. Ambos son animales y el texto no indica cuál se escondió.
+- **C2.** A) Puede referirse al gato o al ratón. Ambos son animales y el texto no indica cuál se escondió.
 - **C3.** A) descripción. Nombra a Santiago por una característica suya.
 - **A1.** C) El puerto. «El puerto» describe a Valparaíso; «el cerro» es solo una parte y «la región» es un territorio mayor.
 - **A2.** 3. Son «El volcán», «La montaña» y «el volcán».
@@ -565,7 +565,7 @@ Respuesta: «La Corona decidió»
 
 - **R1.** En «Leímos a Cervantes en clase», ¿qué se leyó? A) las obras de Cervantes B) la ciudad de Cervantes C) los apuntes de la profesora
 - **R2.** En «La Moneda anunció un nuevo plan», ¿quién anunció? A) la ciudad de Santiago B) el edificio como objeto C) el gobierno que trabaja en esa sede
-- **R3.** En «Pedro se tomó un vaso de agua fría», ¿qué relación hay entre «vaso» y lo que se toma? A) contenedor por contenido B) causa por efecto C) parte por el todo
+- **R3.** En «Pedro se tomó un vaso de agua fría», ¿qué relación hay entre «vaso» y lo que se toma? A) instrumento por quien lo usa B) autor por obra C) contenedor por contenido
 
 *Comprensión*
 
@@ -591,7 +591,7 @@ Respuesta: «La Corona decidió»
 
 *Situaciones auténticas*
 
-- **S1.** En un editorial se lee: «Los vecinos pidieron una plaza más segura. El municipio respondió con luminarias nuevas.» ¿Qué relación usa «El municipio»? A) una institución nombrada por sus autoridades B) una semejanza con un animal C) una repetición exacta
+- **S1.** En un editorial se lee: «Los vecinos pidieron una plaza más segura. El municipio respondió con luminarias nuevas.» ¿Qué relación usa «El municipio»? A) una repetición exacta B) una semejanza con un animal C) se nombra la institución para referirse a quienes la dirigen
 
 *Autoevaluación*
 
@@ -605,7 +605,7 @@ Respuesta: «La Corona decidió»
 
 - **R1.** A) las obras de Cervantes. Se nombra al autor para referirse a sus libros.
 - **R2.** C) el gobierno que trabaja en esa sede. Los edificios no anuncian: se nombra a los que trabajan en él.
-- **R3.** A) contenedor por contenido. Se nombra el recipiente en vez del agua que contiene.
+- **R3.** C) contenedor por contenido. Se nombra el recipiente en vez del agua que contiene.
 - **C1.** A) barcos. Una parte del barco se usa para nombrar todo el barco.
 - **C2.** A) en una relación de cercanía entre dos cosas. La semejanza corresponde a la metáfora.
 - **C3.** B) a la monarquía que gobierna. El símbolo del poder real nombra a quienes lo ejercen.
@@ -616,7 +616,7 @@ Respuesta: «La Corona decidió»
 - **Z2.** B) metonimia: el instrumento por quien pinta. Hay una relación real entre el pincel y la pintora, no una semejanza.
 - **D1.** C) Un gigante de roca vigilaba el valle. Aquí la roca se identifica con un gigante por semejanza: es metáfora.
 - **D2.** B) El gobierno chileno informó. La expresión literal no exige conocimientos locales.
-- **S1.** A) una institución nombrada por sus autoridades. Se nombra la institución para referirse a quienes decidieron en ella.
+- **S1.** C) se nombra la institución para referirse a quienes la dirigen. Se nombra la institución para referirse a quienes decidieron en ella.
 - **E1.** Sí. Esa es la diferencia con la metáfora.
 - **E2.** Sí. Se piensa en la audiencia.
 - **E3.** Sí. Se nombra el recipiente y no el líquido.
@@ -789,7 +789,7 @@ Respuesta: los manifestantes
 
 *Razonamiento y análisis*
 
-- **Z1.** Un plan nombra al mismo lugar así: «la cuna del saber», «el faro del barrio», «el corazón de la comuna» y «el motor del pueblo». ¿Qué problema tiene? A) Demasiadas metáforas de campos distintos dificultan seguir el referente B) No usa ninguna palabra literal C) Es demasiado corto
+- **Z1.** Un plan nombra al mismo lugar así: «la cuna del saber», «el faro del barrio», «el corazón de la comuna» y «el motor del pueblo». ¿Qué problema tiene? A) Es demasiado corto B) No usa ninguna palabra literal C) Demasiadas metáforas de ámbitos distintos (saber, luz, cuerpo, máquina) dificultan seguir el referente
 - **Z2.** Una circular a madres, padres y apoderados informa la fecha de una reunión. ¿Es adecuado nombrar al colegio «el hogar del saber»? A) Sí, porque toda circular lleva metáforas B) No, porque una circular debe ser clara y directa C) Sí, porque así se evita repetir
 
 *Desafío*
@@ -820,7 +820,7 @@ Respuesta: los manifestantes
 - **A1.** A) el incendio, el siniestro, el fuego. Las tres expresiones del primer grupo son literales.
 - **A2.** B) el humedal, el pulmón del valle, el refugio de las aves. Resalta su valor y apoya el propósito.
 - **A3.** B) La compañera de cuatro patas. Solo la perra tiene cuatro patas; las otras opciones nombran a la vecina.
-- **Z1.** A) Demasiadas metáforas de campos distintos dificultan seguir el referente. Las imágenes se acumulan sin una pista que las aclare.
+- **Z1.** C) Demasiadas metáforas de ámbitos distintos (saber, luz, cuerpo, máquina) dificultan seguir el referente. Las imágenes se acumulan sin una pista que las aclare.
 - **Z2.** B) No, porque una circular debe ser clara y directa. El propósito es informar con precisión.
 - **D1.** A) el taller, el grupo de teatro, los participantes. Son expresiones literales que no valoran ni confunden.
 - **D2.** A) la biblioteca, el tesoro de la comuna, el espacio de lectura. Combina un elogio con una expresión literal y es coherente.
@@ -981,7 +981,7 @@ Respuesta: Se unifica el campo de imágenes
 
 - **R1.** Lee: «Marta le dio el libro a Inés. La señora lo guardó.» ¿Qué problema tiene el texto? A) Falta una tilde B) No se sabe a quién se refiere «la señora» C) Sobra la coma
 - **R2.** Lee: «Hablé con mi abuelo. El sabio del cerro me aconsejó tomar la ruta del sur.» ¿Cómo se corrige si el lector no conoce al abuelo como «sabio del cerro»? A) Repetir tres veces «el abuelo» B) Eliminar toda la oración C) Presentar antes que el abuelo es el sabio del cerro
-- **R3.** ¿Cuál es una pregunta de la lista de control de correferencia? A) «¿Está escrito con lápiz?» B) «¿Cuántas hojas ocupa el texto?» C) «¿Se entiende siempre de quién se habla?»
+- **R3.** ¿Cuál es una pregunta de la lista de control de correferencia? A) «¿Se entiende siempre de quién se habla?» B) «¿Hay una metáfora en cada oración?» C) «¿Cada oración repite el nombre del referente?»
 
 *Comprensión*
 
@@ -1021,7 +1021,7 @@ Respuesta: Se unifica el campo de imágenes
 
 - **R1.** B) No se sabe a quién se refiere «la señora». La expresión puede retomar a cualquiera de las dos.
 - **R2.** C) Presentar antes que el abuelo es el sabio del cerro. La metáfora necesita una pista previa.
-- **R3.** C) «¿Se entiende siempre de quién se habla?». Es la primera pregunta para revisar la cadena.
+- **R3.** A) «¿Se entiende siempre de quién se habla?». Es la primera pregunta para revisar la cadena.
 - **C1.** B) Las imágenes de caballo y serpiente no combinan. Se mezclan campos de imágenes: animal de monte y reptil.
 - **C2.** A) Usar «el colegio» o «el establecimiento». Una circular necesita expresiones literales.
 - **C3.** A) Justificó el cambio con el propósito. Una revisión argumentada se apoya en el propósito.

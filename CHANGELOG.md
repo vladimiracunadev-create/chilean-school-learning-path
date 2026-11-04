@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-04 · 1° medio: tercera lectura crítica de las 11 asignaturas
+
+- Una tercera pasada independiente (asistida por IA, no revisión profesional) releyó los 19 bloques de 1° medio, resolviendo cada ejercicio cerrado, y corrigió unas 800 ediciones puntuales: unos 95 ejercicios triviales de Historia reemplazados por preguntas de contenido, más de 150 distractores absurdos reescritos como errores plausibles de estudiante, ejercicios que regalaban la respuesta o repetían un ejemplo resuelto, preguntas con más de una respuesta válida, términos usados antes de enseñarse y datos inseguros suavizados.
+- Defectos relevantes: en Lengua y Literatura una opción con « » delataba la respuesta correcta en 13 preguntas; una tabla de Historia (OA 16 clase 2) quedó incoherente tras una corrección previa y se rehízo; Inglés propuesta y oficial dejaron de compartir temas (abejas, reciclaje, huerto, ciclo del agua); `shall` en tercera persona pasó a `will`; en Inglés oficial se agregaron «and lastly» y «as a result» y se reforzó el reconocimiento de géneros; en Ciencias se acotaron experimentos con lámpara, vidrio y elástico; en Orientación se reemplazaron ejercicios de sí/no por casos con alternativas plausibles; en Educación Física se corrigió un dato imposible de porcentajes.
+- Siguen abiertos, sin cambios: software, audio y pronunciación reales, obras y fuentes reales, pueblos originarios con educador tradicional, hechos y fechas sin contraste con fuente externa y decisiones que dependen del programa oficial.
+
 ## 2026-11-04 · 1° medio: cuaderno del estudiante de las 11 asignaturas, segunda lectura crítica y corrección de la puntuación al reordenar opciones
 
 - Las 753 clases de 1° medio tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (66), Lengua y Literatura (143), Ciencias Naturales (100), Historia, Geografía y Ciencias Sociales (132), Inglés propuesta (65), Inglés oficial (80), Educación Física (28), Orientación (52), Música (32), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena son integración transversal y no llevan cuaderno propio.

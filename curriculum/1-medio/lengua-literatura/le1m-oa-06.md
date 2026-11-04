@@ -374,7 +374,7 @@ Respuesta: Juramento, búsqueda del culpable, reconocimiento de que es el hijo, 
 
 *Razonamiento y análisis*
 
-- **Z1.** Fragmento de ejemplo: «Cleón cumple su juramento y destierra a su hijo. La ciudad se salva del hambre, pero el palacio queda vacío. Cleón, solo, dice: «Ahora sé lo que no supe oír». El Coro canta: «Teme el que gobierna y compadece el que mira y aprende».» Un lector dice: «Cleón actuó solo por orgullo». ¿Qué evidencia matiza su idea? A) cumple el juramento para salvar a la ciudad del hambre B) no hay evidencia
+- **Z1.** Fragmento de ejemplo: «Cleón cumple su juramento y destierra a su hijo. La ciudad se salva del hambre, pero el palacio queda vacío. Cleón, solo, dice: «Ahora sé lo que no supe oír». El Coro canta: «Teme el que gobierna y compadece el que mira y aprende».» Un lector dice: «Cleón actuó solo por orgullo». ¿Qué evidencia matiza su idea? A) cumple el juramento aunque eso le cuesta su propio hijo B) no hay evidencia
 - **Z2.** Fragmento de ejemplo: «Se descubre que quien escondió el trigo fue Dámaris, hijo de Cleón, para salvar a una familia hambrienta. Cleón comprende que su juramento lo obliga a desterrarlo. El Coro canta: «Quien se cree por encima de los dioses cae más hondo».» ¿Qué visión de mundo se refleja en «Quien se cree por encima de los dioses cae más hondo»? A) que los dioses no importan B) que existe un orden superior que no se debe desafiar
 - **Z3.** Fragmento de ejemplo: «Cleón cumple su juramento y destierra a su hijo. La ciudad se salva del hambre, pero el palacio queda vacío. Cleón, solo, dice: «Ahora sé lo que no supe oír». El Coro canta: «Teme el que gobierna y compadece el que mira y aprende».» ¿Qué relación hay entre la advertencia del adivino y la frase final de Cleón? A) no hay relación B) la última frase reconoce que debió escucharlo
 
@@ -406,7 +406,7 @@ Respuesta: Juramento, búsqueda del culpable, reconocimiento de que es el hijo, 
 - **A1.** B) el descubrimiento de que el culpable es Dámaris. El juramento se aplica a su hijo.
 - **A2.** A) la pérdida de su hijo. El palacio queda vacío.
 - **A3.** 2, 3, 4, 1. Primero el juramento, luego el descubrimiento, el destierro y el resultado.
-- **Z1.** A) cumple el juramento para salvar a la ciudad del hambre. Hay un motivo de bien común.
+- **Z1.** A) cumple el juramento aunque eso le cuesta su propio hijo. Acepta un sacrificio personal, algo que no se explica solo por orgullo.
 - **Z2.** B) que existe un orden superior que no se debe desafiar. Advierte el castigo de la hybris.
 - **Z3.** B) la última frase reconoce que debió escucharlo. «Lo que no supe oír» se refiere a la advertencia.
 - **D1.** B) citar rasgos como hybris, error trágico y caída. La tristeza no define la tragedia.
@@ -944,7 +944,7 @@ La tragedia nació en la antigua Grecia. En Atenas, en el siglo V a. C., se repr
 
 La visión de mundo griega daba gran importancia a un orden superior: los dioses y el destino fijaban límites, y desafiarlos (hybris) traía castigo. La ciudad (polis) y las leyes también eran centrales; los conflictos entre la ley humana y los deberes familiares o divinos eran frecuentes. Por eso una tragedia como «El juramento de Cleón», inspirada en ese modelo, muestra un juramento solemne, un adivino y un coro.
 
-Siglos después, en Inglaterra, a fines del siglo XVI y comienzos del XVII, autores como Shakespeare escribieron tragedias en teatros públicos donde asistían personas de distintos grupos sociales. Allí la caída del héroe se explicaba más por sus pasiones y decisiones personales (celos, ambición, indecisión) que por un destino divino. El contexto cambia la visión: la tragedia griega acentúa el orden superior; la isabelina, el carácter individual. Situar significa entender esas diferencias sin inventar datos ni asumir que todos pensaban igual.
+Siglos después, en Inglaterra, a fines del siglo XVI y comienzos del XVII, autores como Shakespeare escribieron tragedias (el teatro de esa época suele llamarse isabelino, por la reina Isabel I) en teatros públicos donde asistían personas de distintos grupos sociales. Allí la caída del héroe se explicaba más por sus pasiones y decisiones personales (celos, ambición, indecisión) que por un destino divino. El contexto cambia la visión: la tragedia griega acentúa el orden superior; la isabelina, el carácter individual. Situar significa entender esas diferencias sin inventar datos ni asumir que todos pensaban igual.
 
 **Palabras importantes**
 
@@ -988,7 +988,7 @@ Respuesta: De un orden superior que castiga el desafío a las pasiones y decisio
 
 - **R1.** La tragedia nació en... A) la Edad Media B) la antigua Grecia
 - **R2.** Los festivales atenienses en que se representaban tragedias eran de carácter... A) religioso B) deportivo
-- **R3.** Un autor famoso de la tragedia griega es... A) Sófocles B) Neruda
+- **R3.** Un autor famoso de la tragedia griega es... A) Shakespeare B) Sófocles
 
 *Comprensión*
 
@@ -1006,7 +1006,7 @@ Respuesta: De un orden superior que castiga el desafío a las pasiones y decisio
 
 - **Z1.** Un estudiante dice: «Como la tragedia griega es antigua, no habla de nada actual». ¿Qué respuesta es válida? A) tiene razón B) el contexto es antiguo, pero el problema humano de las consecuencias de nuestras decisiones persiste
 - **Z2.** Un lector escribe: «En el teatro isabelino todos los espectadores pensaban lo mismo». ¿Qué problema tiene? A) cita a Shakespeare B) generaliza sin evidencia
-- **Z3.** Dato de ejemplo: «Los actores griegos usaban máscaras». ¿Qué efecto puede tener? A) permite representar muchos personajes y que se vea desde lejos B) oculta la actuación
+- **Z3.** Dato de ejemplo: «Los actores griegos usaban máscaras». ¿Qué efecto puede tener? A) oculta la actuación B) permite que un mismo actor represente distintos personajes
 
 *Desafío*
 
@@ -1029,7 +1029,7 @@ Respuesta: De un orden superior que castiga el desafío a las pasiones y decisio
 
 - **R1.** B) la antigua Grecia. Se representaba en Atenas.
 - **R2.** A) religioso. Honraban al dios Dioniso.
-- **R3.** A) Sófocles. Es uno de los tres grandes trágicos.
+- **R3.** B) Sófocles. Es uno de los tres grandes trágicos.
 - **C1.** A) siglo V a. C.. Se sitúa antes de nuestra era.
 - **C2.** B) el coro. Comentaba la acción.
 - **C3.** A) Shakespeare. Escribió en Inglaterra.
@@ -1038,7 +1038,7 @@ Respuesta: De un orden superior que castiga el desafío a las pasiones y decisio
 - **A3.** A) experiencia colectiva y cívica. Se veía en festivales públicos.
 - **Z1.** B) el contexto es antiguo, pero el problema humano de las consecuencias de nuestras decisiones persiste. Hay vigencia del problema.
 - **Z2.** B) generaliza sin evidencia. Los públicos eran diversos.
-- **Z3.** A) permite representar muchos personajes y que se vea desde lejos. Es una convención teatral.
+- **Z3.** B) permite que un mismo actor represente distintos personajes. Es una convención teatral.
 - **D1.** B) situar la obra en su contexto de producción. Se considera público y finalidad.
 - **D2.** A) X, griega; Y, isabelina. La griega acentúa lo divino; la isabelina, el carácter.
 - **S1.** B) no afirmarlo si no está comprobado. Debe usar solo información segura.

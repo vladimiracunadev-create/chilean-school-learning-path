@@ -906,7 +906,7 @@ Respuesta: Then a small plant grows leaves
 
 **Consigna exacta:** Crea en tu hoja un afiche con estos datos: «Sports Day. Next Friday at 10:00 in the school yard. Races, tug of war and a relay.» (sports day = día del deporte; races = carreras; tug of war = cuerda de tracción; relay = posta) Escribe: (1) un titular, (2) tres pies de foto en inglés para tres imágenes (races, tug of war, relay), (3) una invitación final, (4) la audiencia a la que va dirigido.
 
-**Referencia para modelar y corregir:** (1) Sports Day is coming! (2) Students run a race. Two teams pull the rope. Four friends pass the baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio.
+**Referencia para modelar y corregir:** (1) Sports Day is coming! (2) Students run a race. Students pull a rope in a tug of war. Students pass a baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -920,7 +920,7 @@ Respuesta: Then a small plant grows leaves
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (1) Sports Day is coming! (2) Students run a race. Two teams pull the rope. Four friends pass the baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (1) Sports Day is coming! (2) Students run a race. Students pull a rope in a tug of war. Students pass a baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -1002,7 +1002,7 @@ Respuesta: Sí: 20 + 28 = 48
 
 - **A1.** Revisa esta diapositiva nueva: «Image: a bar chart with Group A: 20 and Group B: 28. Text: We collected 60 bottles.» ¿Qué corriges? A) Las barras deben ser rojas B) El color del gráfico C) El total debe ser 48, no 60
 - **A2.** Lee: «Digital story draft (de ejemplo). Slide 1: Image: a river in the morning. Text: Our class visited the river. Slide 2: Image: students with gloves collecting plastic bottles. Text: We collected 48 bottles. Slide 3: Image: a bar chart with Group A: 20 and Group B: 28. Text: Group B collected more bottles than the other group. Slide 4: Image: a clean river bank. Text: Please keep our river clean!» Tu profesor pide agregar una diapositiva con una fecha exacta de la visita. ¿Qué haces? A) Inventar una fecha que suene bien B) Preguntar la fecha, porque no aparece en el borrador C) Copiar la fecha de otro afiche
-- **A3.** Lee: «Digital story draft (de ejemplo). Slide 1: Image: a river in the morning. Text: Our class visited the river. Slide 2: Image: students with gloves collecting plastic bottles. Text: We collected 48 bottles. Slide 3: Image: a bar chart with Group A: 20 and Group B: 28. Text: Group B collected more bottles than the other group. Slide 4: Image: a clean river bank. Text: Please keep our river clean!» Quieres un pie de foto para la diapositiva 1 que coincida con la imagen. ¿Cuál eliges? A) A big soccer stadium at night B) A river in the morning, before the clean-up C) A kitchen with plastic bottles
+- **A3.** Lee: «Digital story draft (de ejemplo). Slide 1: Image: a river in the morning. Text: Our class visited the river. Slide 2: Image: students with gloves collecting plastic bottles. Text: We collected 48 bottles. Slide 3: Image: a bar chart with Group A: 20 and Group B: 28. Text: Group B collected more bottles than the other group. Slide 4: Image: a clean river bank. Text: Please keep our river clean!» Quieres un pie de foto para la diapositiva 1 que coincida con la imagen. ¿Cuál eliges? A) A river in the morning B) A big soccer stadium at night C) A kitchen with plastic bottles
 
 *Razonamiento y análisis*
 
@@ -1036,7 +1036,7 @@ Respuesta: Sí: 20 + 28 = 48
 - **C3.** C) No, porque el gráfico dice que el grupo B recolectó 28 y el grupo A 20. El texto debe seguir los datos del gráfico.
 - **A1.** C) El total debe ser 48, no 60. 20 + 28 = 48.
 - **A2.** B) Preguntar la fecha, porque no aparece en el borrador. Los datos deben tener evidencia.
-- **A3.** B) A river in the morning, before the clean-up. La imagen es un río en la mañana.
+- **A3.** A) A river in the morning. La imagen es un río en la mañana.
 - **Z1.** A) El texto no coincide con la imagen. La imagen y las palabras deben decir lo mismo.
 - **Z2.** 8 botellas. Se resta lo del grupo A a lo del grupo B. Cálculo: 28 − 20 = 8.
 - **D1.** C) No, porque muestra el resultado y la historia empieza con la visita al río. El orden de una historia sigue la secuencia: visita, trabajo, gráfico y resultado.
@@ -1046,7 +1046,7 @@ Respuesta: Sí: 20 + 28 = 48
 - **E2.** A) apoya una oración. La coherencia entre imagen y texto es la clave.
 - **E3.** Draft. Draft es la primera versión que se puede mejorar.
 
-**Actividad abierta · ejemplo de respuesta.** (1) Sports Day is coming! (2) Students run a race. Two teams pull the rope. Four friends pass the baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio.
+**Actividad abierta · ejemplo de respuesta.** (1) Sports Day is coming! (2) Students run a race. Students pull a rope in a tug of war. Students pass a baton in a relay. (3) Join us next Friday at 10:00! (4) Estudiantes del colegio.
 
 **Criterios para evaluarla:** el titular es corto y llamativo; cada pie de foto coincide con una imagen; la invitación usa los datos del enunciado; nombra la audiencia.
 

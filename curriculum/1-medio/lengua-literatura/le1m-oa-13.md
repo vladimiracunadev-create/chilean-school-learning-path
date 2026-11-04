@@ -686,7 +686,7 @@ Respuesta: Cada oración retoma lo anterior y agrega algo nuevo
 
 **Recurso listo para usar:** Este cuaderno, lápiz y los textos escritos en cada ejercicio. No necesitas libros especiales ni internet.
 
-**Consigna exacta:** Escribe un párrafo de cuatro oraciones sobre el ciclo del agua que incluya: una anáfora con pronombre, una con sinónimo, dos conectores distintos y un ejemplo.
+**Consigna exacta:** Escribe un párrafo de cuatro oraciones sobre el ciclo del agua que incluya: una anáfora con pronombre, una con sinónimo o palabra general que resuma, dos conectores distintos y un ejemplo.
 
 **Referencia para modelar y corregir:** El agua de los ríos llega al mar. Allí, el sol la calienta y se evapora. Este proceso, además, ocurre en lagos. Por ejemplo, un charco se seca bajo el sol.
 
@@ -804,7 +804,7 @@ Respuesta: «Por eso»
 - **E2.** ¿Qué conector expresa adición?
 - **E3.** ¿En el cuaderno de Lengua y Literatura de 1.º medio, qué es un sinónimo?
 
-**Actividad abierta.** Escribe un párrafo de cuatro oraciones sobre el ciclo del agua que incluya: una anáfora con pronombre, una con sinónimo, dos conectores distintos y un ejemplo.
+**Actividad abierta.** Escribe un párrafo de cuatro oraciones sobre el ciclo del agua que incluya: una anáfora con pronombre, una con sinónimo o palabra general que resuma, dos conectores distintos y un ejemplo.
 
 **Solucionario razonado**
 

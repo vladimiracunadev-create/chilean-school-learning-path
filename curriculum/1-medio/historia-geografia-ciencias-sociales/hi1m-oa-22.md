@@ -145,7 +145,7 @@ Respuesta: El derecho a información veraz y oportuna
 
 - **R1.** En Economía: ¿qué es un presupuesto?
 - **R2.** Presupuesto mensual de ejemplo de una familia: ingresos, $800.000. Gastos: arriendo, $300.000; alimentación, $250.000; transporte, $80.000; cuentas básicas, $70.000; cuota de una deuda, $60.000. ¿Cuánto suman los gastos del presupuesto (en pesos)?
-- **R3.** En Economía: ¿qué es una boleta? A) un comprobante de una compra, B) un crédito.
+- **R3.** En Economía: ¿qué es una boleta? A) un comprobante de una compra, B) una garantía de tres meses.
 
 *Comprensión*
 
@@ -365,7 +365,7 @@ Respuesta: La boleta
 
 - **A1.** Aviso A (de ejemplo, publicidad en una vitrina): «Notebook en 12 cuotas de $45.000. ¡Cuotas bajas!» Ficha B (de ejemplo, letra chica del contrato): precio al contado, $450.000; compra a crédito, 12 cuotas de $45.000. Boleta C (de ejemplo): compra al contado de un cargador, $12.000; garantía de ejemplo de 3 meses. ¿Qué porcentaje del precio al contado representa el costo extra del crédito?
 - **A2.** Aviso A (de ejemplo, publicidad en una vitrina): «Notebook en 12 cuotas de $45.000. ¡Cuotas bajas!» Ficha B (de ejemplo, letra chica del contrato): precio al contado, $450.000; compra a crédito, 12 cuotas de $45.000. Boleta C (de ejemplo): compra al contado de un cargador, $12.000; garantía de ejemplo de 3 meses. El aviso A dice «cuotas bajas». ¿Qué dato de la ficha B permite evaluar esa afirmación? A) el total a crédito, B) el precio del cargador de la boleta C.
-- **A3.** Aviso A (de ejemplo, publicidad en una vitrina): «Notebook en 12 cuotas de $45.000. ¡Cuotas bajas!» Ficha B (de ejemplo, letra chica del contrato): precio al contado, $450.000; compra a crédito, 12 cuotas de $45.000. Boleta C (de ejemplo): compra al contado de un cargador, $12.000; garantía de ejemplo de 3 meses. Si el cargador de la boleta C falla a los 2 meses, ¿qué puede hacer el comprador? A) no hacer nada, B) usar la garantía de 3 meses con la boleta.
+- **A3.** Aviso A (de ejemplo, publicidad en una vitrina): «Notebook en 12 cuotas de $45.000. ¡Cuotas bajas!» Ficha B (de ejemplo, letra chica del contrato): precio al contado, $450.000; compra a crédito, 12 cuotas de $45.000. Boleta C (de ejemplo): compra al contado de un cargador, $12.000; garantía de ejemplo de 3 meses. Si el cargador de la boleta C falla a los 2 meses, ¿qué puede hacer el comprador? A) usar la garantía de 3 meses con la boleta, B) pagar uno nuevo, porque la garantía ya terminó.
 
 *Razonamiento y análisis*
 
@@ -399,7 +399,7 @@ Respuesta: La boleta
 - **C3.** A. Es un aviso publicitario.
 - **A1.** 20%. Se divide el costo extra por el precio al contado y se multiplica por 100. Cálculo: (12 × 45000 − 450000) × 100 ÷ 450000 = 20.
 - **A2.** A. Se compara con el contado.
-- **A3.** B. Está dentro del plazo.
+- **A3.** A. Está dentro del plazo.
 - **Z1.** El aviso busca vender y destaca la cuota; la ficha entrega precios y condiciones comparables. Sus propósitos son distintos.
 - **Z2.** B. Cada boleta prueba su compra.
 - **D1.** 36.000. Se multiplica el precio por 3. Cálculo: 3 × 12000 = 36.000.
@@ -603,7 +603,7 @@ Respuesta: Cambia dónde se compra; continúa el derecho a información
 - **R2.** $50.000. El dato aparece en la ficha.
 - **R3.** B. Eso lo dice la ficha.
 - **C1.** 57.000. Se suma el envío al precio. Cálculo: 50000 + 7000 = 57.000.
-- **C2.** 7.000. Se resta el precio presencial al total en línea. Cálculo: 50000 + 7000 − 50000 = 7.000.
+- **C2.** 7.000. Se resta el precio presencial al total en línea. Cálculo: 57000 − 50000 = 7.000.
 - **C3.** A. El comercio en línea es nuevo.
 - **A1.** A. La ficha lo dice.
 - **A2.** 11. Se suman los días de espera. Cálculo: 3 + 8 = 11.
@@ -999,7 +999,7 @@ Respuesta: Está bajo el límite
 *Desafío*
 
 - **D1.** Dossier de ejemplo, «¿Debe Matías comprar un televisor de $400.000 al contado o en 12 cuotas de $40.000?» Matías es un adulto ficticio. Dato 1: su ingreso mensual es de $700.000. Dato 2: sus gastos fijos, sin contar deudas, son de $520.000 al mes. Dato 3: ya paga una cuota de otra deuda de $90.000 al mes. Dato 4: su televisor actual funciona bien. Guía de ejemplo: conviene que todas las cuotas juntas no pasen de un cuarto del ingreso. Matías ahorra $40.000 al mes en vez de pagar cuotas. ¿En cuántos meses reúne el precio al contado?
-- **D2.** Dossier de ejemplo, «¿Debe Matías comprar un televisor de $400.000 al contado o en 12 cuotas de $40.000?» Matías es un adulto ficticio. Dato 1: su ingreso mensual es de $700.000. Dato 2: sus gastos fijos, sin contar deudas, son de $520.000 al mes. Dato 3: ya paga una cuota de otra deuda de $90.000 al mes. Dato 4: su televisor actual funciona bien. Guía de ejemplo: conviene que todas las cuotas juntas no pasen de un cuarto del ingreso. Una objeción a esperar 10 meses es que hay una oferta que podría acabarse. ¿Qué respuesta es razonable? A) comprar de inmediato sin pensar, B) las ofertas suelen repetirse y el televisor actual sirve mientras tanto.
+- **D2.** Dossier de ejemplo, «¿Debe Matías comprar un televisor de $400.000 al contado o en 12 cuotas de $40.000?» Matías es un adulto ficticio. Dato 1: su ingreso mensual es de $700.000. Dato 2: sus gastos fijos, sin contar deudas, son de $520.000 al mes. Dato 3: ya paga una cuota de otra deuda de $90.000 al mes. Dato 4: su televisor actual funciona bien. Guía de ejemplo: conviene que todas las cuotas juntas no pasen de un cuarto del ingreso. Una objeción a esperar 10 meses es que hay una oferta que podría acabarse. ¿Qué respuesta es razonable? A) las ofertas suelen repetirse y el televisor actual sirve mientras tanto, B) que una oferta es razón suficiente para comprar a crédito sin calcular.
 
 *Situaciones auténticas*
 
@@ -1027,7 +1027,7 @@ Respuesta: Está bajo el límite
 - **Z1.** A. Las cuotas quedarían bajo el límite.
 - **Z2.** B. Hay un costo extra y no hay urgencia.
 - **D1.** 10. 400.000 dividido en 40.000 da 10. Cálculo: 400000 ÷ 40000 = 10.
-- **D2.** B. Responde a la objeción con un dato del dossier.
+- **D2.** A. Responde a la objeción con un dato del dossier.
 - **S1.** A. Un cuarto de 250.000 es 62.500 y la cuota es 22.000.
 - **E1.** El ingreso, los gastos fijos y las demás cuotas. Con ellos se calcula el saldo.
 - **E2.** Porque un gasto inesperado puede dejar sin dinero para pagar las cuotas. Así se evita no poder pagar las cuotas.

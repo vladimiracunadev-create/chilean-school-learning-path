@@ -150,7 +150,7 @@ Respuesta: 4 metros cuadrados por persona
 *Comprensión*
 
 - **C1.** Ficha de ejemplo, ciudad industrial ficticia hacia 1900: jornada de trabajo, 12 horas al día durante 6 días a la semana; salario de un obrero, 3 unidades de dinero de la época por día trabajado (dato de ejemplo); gasto mínimo de alimentación de una familia, 4 unidades por día, los 7 días de la semana; vivienda típica, una pieza de conventillo (casa de piezas pequeñas alrededor de un patio) de 12 metros cuadrados donde viven 6 personas; no existía seguro obligatorio por enfermedad ni por vejez. ¿Qué tipo de problemas muestra la ficha? A) solo problemas de transporte, B) laborales, de vivienda y de protección ante la enfermedad.
-- **C2.** ¿Qué proceso trajo población del campo a las ciudades industriales? A) la urbanización, B) la deflación.
+- **C2.** ¿Qué proceso trajo población del campo a las ciudades industriales? A) la importación de maquinaria, B) la urbanización.
 - **C3.** Ficha de ejemplo, ciudad industrial ficticia hacia 1900: jornada de trabajo, 12 horas al día durante 6 días a la semana; salario de un obrero, 3 unidades de dinero de la época por día trabajado (dato de ejemplo); gasto mínimo de alimentación de una familia, 4 unidades por día, los 7 días de la semana; vivienda típica, una pieza de conventillo (casa de piezas pequeñas alrededor de un patio) de 12 metros cuadrados donde viven 6 personas; no existía seguro obligatorio por enfermedad ni por vejez. Un empresario afirma: «Si no alcanza el dinero, es porque los obreros no saben ahorrar». ¿Qué dato de la ficha contradice la idea? A) el gasto de alimentación era mayor que el salario, B) la pieza tenía 12 metros cuadrados.
 
 *Aplicación*
@@ -171,7 +171,7 @@ Respuesta: 4 metros cuadrados por persona
 
 *Situaciones auténticas*
 
-- **S1.** Un museo de ejemplo presenta una vitrina: «Salario diario de una costurera, 2 unidades; pan diario de su familia, 3 unidades». ¿Qué problema de la cuestión social muestra? A) un exceso de dinero para gastar, B) un ingreso insuficiente para cubrir la alimentación.
+- **S1.** Un museo de ejemplo presenta una vitrina: «Salario diario de una costurera, 2 unidades; pan diario de su familia, 3 unidades». ¿Qué problema de la cuestión social muestra? A) una jornada laboral demasiado corta, B) un ingreso insuficiente para cubrir la alimentación.
 
 *Autoevaluación*
 
@@ -187,7 +187,7 @@ Respuesta: 4 metros cuadrados por persona
 - **R2.** 72. Se multiplican las horas diarias por los días. Cálculo: 12 × 6 = 72.
 - **R3.** B. Era una vivienda popular de la ciudad.
 - **C1.** B. Habla de jornada, pieza y falta de seguros.
-- **C2.** A. Es el crecimiento de las ciudades por la llegada de población.
+- **C2.** B. Es el crecimiento de las ciudades por la llegada de población.
 - **C3.** A. El salario diario era menor que el gasto de alimentación.
 - **A1.** 2. Se divide el espacio entre las personas. Cálculo: 12 ÷ 6 = 2.
 - **A2.** 18. Se multiplica el salario diario por los días. Cálculo: 3 × 6 = 18.
@@ -374,7 +374,7 @@ Respuesta: Es una descripción
 
 *Desafío*
 
-- **D1.** Cuatro textos de ejemplo, escritos para este ejercicio como resúmenes de ideas de distintas corrientes (no son citas reales; en la vida real hay que verificar autor, fecha y lugar). Texto A: «El progreso nace de la libertad: cada persona debe poder trabajar y contratar sin que el Estado intervenga; con más producción y comercio, los salarios irán subiendo.» Texto B: «Los trabajadores deben organizarse en sindicatos y partidos para conseguir leyes que reduzcan la jornada y protejan el salario.» Texto C: «El trabajo no es una mercancía cualquiera: el salario debe permitir vivir con dignidad a la familia, y patrones y obreros deben colaborar con justicia.» Texto D: «No hace falta un gobierno que mande: los trabajadores pueden organizar la producción por acuerdo libre entre ellos.» Una persona resume el texto A como «los liberales no se preocupaban de nadie». ¿Qué problema tiene ese resumen? A) es correcto, B) es una caricatura, porque el texto dice que más producción subiría los salarios.
+- **D1.** Cuatro textos de ejemplo, escritos para este ejercicio como resúmenes de ideas de distintas corrientes (no son citas reales; en la vida real hay que verificar autor, fecha y lugar). Texto A: «El progreso nace de la libertad: cada persona debe poder trabajar y contratar sin que el Estado intervenga; con más producción y comercio, los salarios irán subiendo.» Texto B: «Los trabajadores deben organizarse en sindicatos y partidos para conseguir leyes que reduzcan la jornada y protejan el salario.» Texto C: «El trabajo no es una mercancía cualquiera: el salario debe permitir vivir con dignidad a la familia, y patrones y obreros deben colaborar con justicia.» Texto D: «No hace falta un gobierno que mande: los trabajadores pueden organizar la producción por acuerdo libre entre ellos.» Una persona resume el texto A como «los liberales no se preocupaban de nadie». ¿Qué problema tiene ese resumen? A) es una caricatura, porque el texto dice que más producción subiría los salarios, B) es correcto, porque el texto rechaza la intervención del Estado.
 - **D2.** Cuatro textos de ejemplo, escritos para este ejercicio como resúmenes de ideas de distintas corrientes (no son citas reales; en la vida real hay que verificar autor, fecha y lugar). Texto A: «El progreso nace de la libertad: cada persona debe poder trabajar y contratar sin que el Estado intervenga; con más producción y comercio, los salarios irán subiendo.» Texto B: «Los trabajadores deben organizarse en sindicatos y partidos para conseguir leyes que reduzcan la jornada y protejan el salario.» Texto C: «El trabajo no es una mercancía cualquiera: el salario debe permitir vivir con dignidad a la familia, y patrones y obreros deben colaborar con justicia.» Texto D: «No hace falta un gobierno que mande: los trabajadores pueden organizar la producción por acuerdo libre entre ellos.» Elige la conclusión mejor sostenida. A) los textos prueban cuál corriente tenía razón, B) los textos muestran distintas soluciones a un mismo problema.
 
 *Situaciones auténticas*
@@ -402,7 +402,7 @@ Respuesta: Es una descripción
 - **A3.** Que el texto C defiende la colaboración entre patrones y obreros y un salario justo, que es socialcristianismo. Hablar de obreros no basta para clasificar la corriente.
 - **Z1.** A. El texto B menciona la jornada.
 - **Z2.** Quién los escribió, cuándo y en qué lugar. Es lo que se pregunta a toda fuente.
-- **D1.** B. Atribuye una intención que el texto no dice.
+- **D1.** A. Atribuye una intención que el texto no dice.
 - **D2.** B. Los textos no alcanzan para decidir cuál era la mejor.
 - **S1.** B. Expresa la dignidad del trabajador y la colaboración.
 - **E1.** Más igualdad mediante la organización de los trabajadores y cambios en las leyes o la propiedad. Es su idea central.
@@ -578,11 +578,11 @@ Respuesta: Cambió el contrato escrito; continuaron los salarios bajos
 *Razonamiento y análisis*
 
 - **Z1.** Línea de tiempo con hechos reales, resumida: 1891, el papa León XIII publica la encíclica Rerum Novarum sobre la situación de los trabajadores; 1906, en Chile se aprueba una ley sobre habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique, durante una huelga de trabajadores del salitre en el norte de Chile; 1912, Luis Emilio Recabarren funda en Iquique el Partido Obrero Socialista; 1924, se aprueban en Chile las llamadas leyes sociales, con normas sobre contrato de trabajo, seguro obrero y organización sindical. ¿Por qué la zona del salitre fue un escenario especial del conflicto? Responde con una frase.
-- **Z2.** Línea de tiempo con hechos reales, resumida: 1891, el papa León XIII publica la encíclica Rerum Novarum sobre la situación de los trabajadores; 1906, en Chile se aprueba una ley sobre habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique, durante una huelga de trabajadores del salitre en el norte de Chile; 1912, Luis Emilio Recabarren funda en Iquique el Partido Obrero Socialista; 1924, se aprueban en Chile las llamadas leyes sociales, con normas sobre contrato de trabajo, seguro obrero y organización sindical. ¿Qué dos actores distintos aparecen respondiendo a la cuestión social? A) la Iglesia y los trabajadores organizados, B) solo los empresarios.
+- **Z2.** Línea de tiempo con hechos reales, resumida: 1891, el papa León XIII publica la encíclica Rerum Novarum sobre la situación de los trabajadores; 1906, en Chile se aprueba una ley sobre habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique, durante una huelga de trabajadores del salitre en el norte de Chile; 1912, Luis Emilio Recabarren funda en Iquique el Partido Obrero Socialista; 1924, se aprueban en Chile las llamadas leyes sociales, con normas sobre contrato de trabajo, seguro obrero y organización sindical. ¿Qué actor respondió con leyes como las de 1906 y 1924? A) el Estado chileno, B) la Iglesia católica.
 
 *Desafío*
 
-- **D1.** Una ciudad de ejemplo tenía 10.000 habitantes en 1890 y 25.000 en 1920. ¿Cuántos habitantes más tenía en 1920 y qué problema social puede explicar? A) 5.000 más; exceso de viviendas, B) 15.000 más; falta de viviendas.
+- **D1.** Una ciudad de ejemplo tenía 10.000 habitantes en 1890 y 25.000 en 1920. ¿Cuántos habitantes más tenía en 1920 y qué problema social puede explicar? A) 15.000 más; falta de viviendas, B) 15.000 más; exceso de viviendas.
 - **D2.** Línea de tiempo con hechos reales, resumida: 1891, el papa León XIII publica la encíclica Rerum Novarum sobre la situación de los trabajadores; 1906, en Chile se aprueba una ley sobre habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique, durante una huelga de trabajadores del salitre en el norte de Chile; 1912, Luis Emilio Recabarren funda en Iquique el Partido Obrero Socialista; 1924, se aprueban en Chile las llamadas leyes sociales, con normas sobre contrato de trabajo, seguro obrero y organización sindical. ¿Cuántos años abarca la línea de tiempo completa, desde el primer hecho hasta el último?
 
 *Situaciones auténticas*
@@ -609,8 +609,8 @@ Respuesta: Cambió el contrato escrito; continuaron los salarios bajos
 - **A2.** B. Es una organización creada por trabajadores.
 - **A3.** B. Una ley no resuelve todo de inmediato.
 - **Z1.** Porque los trabajadores vivían lejos de las ciudades, dependían de las empresas y allí se realizó una gran huelga. El territorio influyó en cómo se vivió el conflicto.
-- **Z2.** A. Rerum Novarum y el partido de 1912 lo muestran.
-- **D1.** B. 25.000 menos 10.000 son 15.000 más.
+- **Z2.** A. Las leyes las aprueba el Estado; Rerum Novarum es un documento de la Iglesia.
+- **D1.** A. 25.000 menos 10.000 son 15.000 más.
 - **D2.** 33. Se resta el primer año al último. Cálculo: 1924 − 1891 = 33.
 - **S1.** B. 1906 es el año más antiguo.
 - **E1.** La muerte de trabajadores del salitre y sus familias durante una huelga en 1907. Muestra la dureza del conflicto social.
@@ -795,7 +795,7 @@ Respuesta: Liberalismo
 
 *Situaciones auténticas*
 
-- **S1.** Dos hechos de ejemplo en una ciudad ficticia: aumentaron las huelgas y aumentó la venta de helados. Una persona dice que uno causa el otro. ¿Qué concepto del vocabulario describe mejor el error? A) correlación sin causa, B) quiebra.
+- **S1.** Dos hechos de ejemplo en una ciudad ficticia: aumentaron las huelgas y aumentó la venta de helados. Una persona dice que uno causa el otro. ¿Cuál es el error? A) confundir una coincidencia en el tiempo con una causa, B) probar una causa directa porque ocurrieron en el mismo período.
 
 *Autoevaluación*
 
@@ -993,17 +993,17 @@ Respuesta: Que puede demorar o ser costoso para el Estado
 
 *Razonamiento y análisis*
 
-- **Z1.** Dossier de ejemplo, «¿Cómo responder al alza de los arriendos en la ciudad ficticia de Puerto Nuevo?» Dato 1: en dos años el arriendo promedio subió de $250.000 a $350.000 al mes. Dato 2: el ingreso promedio de las familias de la ciudad es de $700.000 al mes. Dato 3: construir viviendas privadas nuevas demora en promedio 3 años. Respuesta A (inspirada en el liberalismo): facilitar los permisos para que más empresas construyan y la mayor oferta baje los precios. Respuesta B (inspirada en el socialismo): construir viviendas públicas de arriendo a bajo costo. Respuesta C (inspirada en el socialcristianismo): subsidios y acuerdos entre propietarios, autoridades y organizaciones vecinales para lograr arriendos justos. Una persona concluye: «La respuesta B es la mejor porque es del Estado». ¿Qué problema tiene la conclusión? A) no usa datos ni compara efectos, B) es muy larga.
+- **Z1.** Dossier de ejemplo, «¿Cómo responder al alza de los arriendos en la ciudad ficticia de Puerto Nuevo?» Dato 1: en dos años el arriendo promedio subió de $250.000 a $350.000 al mes. Dato 2: el ingreso promedio de las familias de la ciudad es de $700.000 al mes. Dato 3: construir viviendas privadas nuevas demora en promedio 3 años. Respuesta A (inspirada en el liberalismo): facilitar los permisos para que más empresas construyan y la mayor oferta baje los precios. Respuesta B (inspirada en el socialismo): construir viviendas públicas de arriendo a bajo costo. Respuesta C (inspirada en el socialcristianismo): subsidios y acuerdos entre propietarios, autoridades y organizaciones vecinales para lograr arriendos justos. Una persona concluye: «La respuesta B es la mejor porque es del Estado». ¿Qué problema tiene la conclusión? A) usa demasiados datos, B) no usa datos ni compara efectos.
 - **Z2.** Dossier de ejemplo, «¿Cómo responder al alza de los arriendos en la ciudad ficticia de Puerto Nuevo?» Dato 1: en dos años el arriendo promedio subió de $250.000 a $350.000 al mes. Dato 2: el ingreso promedio de las familias de la ciudad es de $700.000 al mes. Dato 3: construir viviendas privadas nuevas demora en promedio 3 años. Respuesta A (inspirada en el liberalismo): facilitar los permisos para que más empresas construyan y la mayor oferta baje los precios. Respuesta B (inspirada en el socialismo): construir viviendas públicas de arriendo a bajo costo. Respuesta C (inspirada en el socialcristianismo): subsidios y acuerdos entre propietarios, autoridades y organizaciones vecinales para lograr arriendos justos. ¿Qué dato muestra que el alza de arriendos es un problema social y no solo individual? Responde con una frase.
 
 *Desafío*
 
-- **D1.** Dossier de ejemplo, «¿Cómo responder al alza de los arriendos en la ciudad ficticia de Puerto Nuevo?» Dato 1: en dos años el arriendo promedio subió de $250.000 a $350.000 al mes. Dato 2: el ingreso promedio de las familias de la ciudad es de $700.000 al mes. Dato 3: construir viviendas privadas nuevas demora en promedio 3 años. Respuesta A (inspirada en el liberalismo): facilitar los permisos para que más empresas construyan y la mayor oferta baje los precios. Respuesta B (inspirada en el socialismo): construir viviendas públicas de arriendo a bajo costo. Respuesta C (inspirada en el socialcristianismo): subsidios y acuerdos entre propietarios, autoridades y organizaciones vecinales para lograr arriendos justos. La respuesta C propone acuerdos entre sectores. ¿Cuál puede ser un límite de esta respuesta? A) no se sabe si los propietarios aceptarían, B) no tiene ninguna ventaja.
+- **D1.** Dossier de ejemplo, «¿Cómo responder al alza de los arriendos en la ciudad ficticia de Puerto Nuevo?» Dato 1: en dos años el arriendo promedio subió de $250.000 a $350.000 al mes. Dato 2: el ingreso promedio de las familias de la ciudad es de $700.000 al mes. Dato 3: construir viviendas privadas nuevas demora en promedio 3 años. Respuesta A (inspirada en el liberalismo): facilitar los permisos para que más empresas construyan y la mayor oferta baje los precios. Respuesta B (inspirada en el socialismo): construir viviendas públicas de arriendo a bajo costo. Respuesta C (inspirada en el socialcristianismo): subsidios y acuerdos entre propietarios, autoridades y organizaciones vecinales para lograr arriendos justos. La respuesta C propone acuerdos entre sectores. ¿Cuál puede ser un límite de esta respuesta? A) no se sabe si los propietarios aceptarían, B) los propietarios siempre aceptan.
 - **D2.** Dossier de ejemplo, «¿Cómo responder al alza de los arriendos en la ciudad ficticia de Puerto Nuevo?» Dato 1: en dos años el arriendo promedio subió de $250.000 a $350.000 al mes. Dato 2: el ingreso promedio de las familias de la ciudad es de $700.000 al mes. Dato 3: construir viviendas privadas nuevas demora en promedio 3 años. Respuesta A (inspirada en el liberalismo): facilitar los permisos para que más empresas construyan y la mayor oferta baje los precios. Respuesta B (inspirada en el socialismo): construir viviendas públicas de arriendo a bajo costo. Respuesta C (inspirada en el socialcristianismo): subsidios y acuerdos entre propietarios, autoridades y organizaciones vecinales para lograr arriendos justos. Elige la mejor conclusión. A) una respuesta es perfecta, B) las tres respuestas tienen ventajas y límites, y falta información sobre sus costos.
 
 *Situaciones auténticas*
 
-- **S1.** En un barrio de ejemplo se discute cómo responder a la falta de cupos en una sala cuna. Propuestas: A) que el municipio la construya con recursos públicos, B) que empresas privadas ofrezcan el servicio con precios libres. ¿Qué dato necesitas para evaluar mejor ambas? A) el costo y las familias que podrían pagar, B) el año en que se fundó el barrio.
+- **S1.** En un barrio de ejemplo se discute cómo responder a la falta de cupos en una sala cuna. Propuestas: A) que el municipio la construya con recursos públicos, B) que empresas privadas ofrezcan el servicio con precios libres. ¿Qué dato necesitas para evaluar mejor ambas? A) el costo y las familias que podrían pagar, B) el número de comercios del barrio.
 
 *Autoevaluación*
 
@@ -1024,7 +1024,7 @@ Respuesta: Que puede demorar o ser costoso para el Estado
 - **A1.** A. Es la propuesta inspirada en el socialismo.
 - **A2.** 450.000. Se suma el alza de dos años al arriendo actual. Cálculo: 350000 + 2 × 50000 = 450.000.
 - **A3.** B. Dice cuánto demora construir.
-- **Z1.** A. Falta evidencia de los efectos.
+- **Z1.** B. Falta evidencia de los efectos.
 - **Z2.** Que el arriendo pasó a ser la mitad del ingreso promedio de la ciudad, es decir, afecta a muchas familias. 350.000 es la mitad de 700.000.
 - **D1.** A. Depende de que las partes acepten.
 - **D2.** B. La evidencia no basta para decidir con certeza.

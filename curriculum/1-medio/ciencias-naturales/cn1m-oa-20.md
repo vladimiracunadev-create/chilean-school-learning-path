@@ -150,7 +150,7 @@ Respuesta: 88 g
 
 *Comprensión*
 
-- **C1.** ¿Cuál es la masa molar del NaOH (Na = 23, O = 16, H = 1)?
+- **C1.** ¿Cuál es la masa molar del Na2SO4 (Na = 23, S = 32, O = 16)?
 - **C2.** En n = m ÷ M, ¿qué representa M?
 - **C3.** ¿Qué tiene más partículas: 1 mol de H2O o 1 mol de CO2?
 
@@ -158,12 +158,12 @@ Respuesta: 88 g
 
 - **A1.** ¿Cuántos mol hay en 54 g de agua (M = 18 g/mol)?
 - **A2.** ¿Cuántos gramos son 4 mol de O2 (M = 32 g/mol)?
-- **A3.** ¿Cuál es la masa molar del CaCO3 (Ca = 40, C = 12, O = 16)?
+- **A3.** ¿Cuál es la masa molar del óxido de hierro (III), Fe2O3 (Fe = 56, O = 16)?
 
 *Razonamiento y análisis*
 
 - **Z1.** Un estudiante dice que 1 mol de agua pesa lo mismo que 1 mol de CO2. ¿Qué respuesta es correcta? A) Falso: tienen igual número de partículas, pero masas de 18 g y 44 g B) Verdadero, porque ambos son un mol
-- **Z2.** ¿Por qué se usa el mol y no se cuentan las partículas una a una? A) Porque el mol es más barato B) Porque son tan pequeñas y numerosas que no se pueden contar
+- **Z2.** ¿Por qué se usa el mol y no se cuentan las partículas una a una? A) Porque son tan pequeñas y numerosas que no se pueden contar B) Porque el mol es otra forma de medir la masa en gramos
 
 *Desafío*
 
@@ -187,14 +187,14 @@ Respuesta: 88 g
 - **R1.** En mol. Es la unidad de cantidad de partículas.
 - **R2.** Verdadero. Es el número de Avogadro.
 - **R3.** 32 g/mol. 2 × 16 = 32.
-- **C1.** 40 g/mol. 23 + 16 + 1 = 40.
+- **C1.** 142 g/mol. 2 × 23 + 32 + 4 × 16 = 46 + 32 + 64 = 142.
 - **C2.** La masa de 1 mol de la sustancia. Es la masa molar en g/mol.
 - **C3.** Tienen igual cantidad. Un mol siempre tiene el mismo número de partículas.
 - **A1.** 3 mol. Se divide la masa por la masa molar. Cálculo: 54/18 = 3.
 - **A2.** 128 g. Se multiplica la cantidad de sustancia por la masa molar. Cálculo: 4 × 32 = 128.
-- **A3.** 100 g/mol. Se suman las masas atómicas de todos los átomos de la fórmula. Cálculo: 40 + 12 + 3 × 16 = 100.
+- **A3.** 160 g/mol. Se suman las masas atómicas de todos los átomos de la fórmula: 2 de hierro y 3 de oxígeno. Cálculo: 2 × 56 + 3 × 16 = 160.
 - **Z1.** A. La masa molar depende de la sustancia.
-- **Z2.** B. El mol agrupa un número muy grande de partículas.
+- **Z2.** A. El mol agrupa un número muy grande de partículas.
 - **D1.** 6 mol. Se divide la masa por la masa molar. Cálculo: 264/44 = 6.
 - **D2.** 2 mol. Se divide la masa por la masa molar. Cálculo: 360/180 = 2.
 - **S1.** 4 mol. Se divide la masa por 18 g/mol. Cálculo: 72/18 = 4.
@@ -212,7 +212,7 @@ Respuesta: 88 g
 
 **Retroalimentación constructiva:** Pregunta cuántos gramos tendrían 5 mol de cada sustancia.
 
-**Refuerzo.** Calcula los mol que hay en 36 g de agua.
+**Refuerzo.** Calcula los mol que hay en 126 g de agua.
 
 **Profundización.** Explica con una analogía por qué el mol no es una unidad de masa.
 

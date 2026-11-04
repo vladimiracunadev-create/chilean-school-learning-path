@@ -68,7 +68,7 @@ L(
     [ex("¿Qué se necesita para leer una música de tradición escrita?", "Una partitura", "Es la escritura que fija las notas y los ritmos."), ex("¿Cómo se llama cada versión algo distinta de una misma canción de tradición oral?", "Variante", "Nace porque cada persona la recuerda a su modo."), ex("¿Por qué medios circula la música popular?", "Radio, grabaciones y plataformas", "Son medios de difusión masiva.")],
     (
         "Elige una de estas tres músicas de ejemplo. Pieza 1: arrullo cantado por una sola voz, aprendido de una persona mayor, con palabras algo distintas en cada casa. Pieza 2: obra para cuarteto de cuerdas, escrita en partitura por una compositora conocida. Pieza 3: canción de una banda, difundida por radio y plataformas. Escribe: a) a qué tradición pertenece, b) dos rasgos que lo prueban, c) una frase «Esta música cumple el papel de… porque…».",
-        "Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de conservar un cuidado familiar, porque pasa de voz en voz.",
+        "Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de acompañar el sueño de un bebé, porque se canta en la casa y pasa de voz en voz.",
         ["clasifica con un criterio de transmisión o de difusión", "da al menos dos rasgos tomados de la descripción", "no dice que una tradición sea mejor que otra"],
         ["ficha con a), b) y c)", "frase final con «porque»"],
         ["clasificar por «suena antiguo»", "decir que la música oral vale menos"],
@@ -109,7 +109,7 @@ L(
     [
         ex("¿Qué rasgo del arrullo ayuda a calmar a un bebé? A) Notas largas y volumen suave. B) Bombo fuerte y vientos.", "A", "Lo suave y lo largo transmiten calma; lo fuerte se parece a una marcha."),
         ex("¿Por qué la marcha tiene un pulso fuerte y regular? A) Porque sirve para ordenar el paso de un grupo. B) Porque busca dormir al público.", "A", "El propósito de ordenar el paso exige un pulso que se escuche claro."),
-        ex("Una música alegre para bailar cambia su ritmo por uno casi sin marcar. ¿Qué pasa con su propósito? A) Se vuelve difícil bailarla con el grupo. B) Mejora porque es más suave.", "A", "Sin ritmo marcado, la gente pierde el apoyo para moverse juntas."),
+        ex("Una música alegre para bailar cambia su ritmo por uno casi sin marcar. ¿Qué pasa con su propósito? A) Se vuelve difícil bailarla con el grupo. B) Mejora porque es más suave.", "A", "Sin ritmo marcado, las personas pierden el apoyo para moverse juntas."),
     ],
     [
         arith(f"Tabla: {CTX}. ¿Cuántos pulsos más por minuto tiene la canción de baile que el arrullo?", "120-60", "Se resta el tempo del arrullo al de la canción de baile.", " pulsos"),
@@ -160,13 +160,13 @@ L(
     ],
     [
         ex("En el método de ensayo, ¿cuántos rasgos se cambian de una versión a la otra?", "Uno", "Se cambia un solo rasgo para saber qué produjo el efecto."),
-        ex("Una canción pasa de 80 a 100 pulsos por minuto. ¿Se siente más animada o más tranquila?", "Más animada", "Un tempo mayor da una sensación de más movimiento."),
+        ex("Una canción pasa de 90 a 120 pulsos por minuto. ¿Se siente más animada o más tranquila?", "Más animada", "Un tempo mayor da una sensación de más movimiento."),
         ex("¿Qué se escribe después de comparar las dos versiones: qué cambié, qué se oye distinto y qué versión sirve mejor al propósito, o solo cuál me gustó más?", "Qué cambié, qué se oye distinto y qué versión sirve mejor", "La decisión se apoya en el cambio, el efecto y el propósito."),
     ],
     [
-        ex("Un grupo cambia en la versión 2 el tempo, el volumen y el instrumento. ¿Qué problema tiene su ensayo? A) No sabrán cuál de los cambios produjo el efecto. B) La música será demasiado corta.", "A", "Cuando cambian tres rasgos a la vez, no se puede asignar el efecto a ninguno."),
-        ex("Una música debe acompañar un desfile. Versión 1: 70 pulsos por minuto. Versión 2: 100 pulsos por minuto. Las dos tienen el mismo volumen fuerte y el mismo bombo. ¿Cuál sirve mejor? A) Versión 1. B) Versión 2.", "B", "Un desfile pide un pulso animado y regular que oriente el paso; solo cambia el tempo."),
-        ex("Un estudiante escribe: «Elijo la versión 2 porque me gusta más». ¿Qué le falta a su decisión? A) Relacionarla con el propósito y con lo que se oye. B) Hacerla más larga.", "A", "El gusto no basta: debe mostrar qué efecto produce el cambio."),
+        ex("Un grupo cambia en la versión 2 el tempo, el volumen y el instrumento. ¿Qué problema tiene su ensayo? A) No sabrán cuál de los cambios produjo el efecto. B) La versión 2 será necesariamente más lenta que la versión 1.", "A", "Cuando cambian tres rasgos a la vez, no se puede asignar el efecto a ninguno."),
+        ex("Una música debe acompañar a un grupo que desfila con paso enérgico. Versión 1: 70 pulsos por minuto. Versión 2: 110 pulsos por minuto. Las dos tienen el mismo volumen fuerte y el mismo bombo. ¿Cuál sirve mejor? A) Versión 1. B) Versión 2.", "B", "Un paso enérgico pide un pulso animado y regular que oriente el paso; solo cambia el tempo."),
+        ex("Un estudiante escribe: «Elijo la versión 2 porque me gusta más». ¿Qué le falta a su decisión? A) Relacionarla con el propósito y con lo que se oye. B) Agregar cuánto dura la canción.", "A", "El gusto no basta: debe mostrar qué efecto produce el cambio."),
     ],
     [
         arith("Una canción de ejemplo va a 80 pulsos por minuto. Para la versión 2 se sube a 100. ¿Cuántos pulsos por minuto se agregaron?", "100-80", "Se resta el tempo inicial al tempo final.", " pulsos por minuto"),
@@ -218,7 +218,7 @@ L(
     [
         ex("¿Cuáles son los cuatro medios para expresar una apreciación?", "Verbal, visual, sonoro y corporal", "Son las formas de responder de la clase."),
         ex("La melodía de un fragmento baja de nota en nota. ¿Qué línea dibujas: una que baja o una que sube?", "Una que baja", "El dibujo copia la dirección de la melodía."),
-        ex("¿Se puede empujar a una persona al responder con el cuerpo? Responde sí o no.", "No", "La respuesta corporal se hace con seguridad y sin empujar."),
+        ex("Respondes a un fragmento con un dibujo de líneas y colores. ¿Qué medio de expresión usaste: verbal, visual, sonoro o corporal?", "Visual", "Las líneas, formas y colores son el medio visual."),
     ],
     [
         ex("Un fragmento tiene notas muy cortas y separadas. ¿Qué respuesta sonora es coherente? A) Golpecitos cortos con los dedos. B) Un sonido largo y continuo con la voz.", "A", "Los sonidos cortos copian las notas cortas."),
@@ -235,7 +235,7 @@ L(
         ex("Un estudiante escribió: «El fragmento sube de suave a fuerte. Sirve para un cierre festivo». ¿Qué paso de la apreciación le falta?", "Valorar con una razón", "Tiene la descripción y la relación con el propósito, pero no dice por qué es eficaz."),
     ],
     [
-        ex("Un fragmento de ejemplo tiene un tramo de 20 segundos suave y otro de 20 segundos fuerte. Dibujas un trazo por segundo. ¿Cuántos trazos finos y cuántos gruesos dibujas?", "20 finos y 20 gruesos", "Cada tramo dura 20 segundos y hay un trazo por segundo."),
+        ex("Un fragmento de ejemplo tiene un tramo de 20 segundos suave y otro de 20 segundos fuerte. Dibujas un trazo por segundo, fino si el tramo es suave y grueso si es fuerte. ¿Cuántos trazos finos y cuántos gruesos dibujas?", "20 finos y 20 gruesos", "Cada tramo dura 20 segundos y hay un trazo por segundo."),
         arith("Un fragmento dura 120 segundos y lo divides en 4 tramos iguales; en cada tramo respondes con un medio distinto. ¿Cuántos segundos dura cada tramo?", "120//4", "Se reparten los 120 segundos entre los 4 tramos.", " segundos"),
     ],
     [ex("En el acto de tu liceo suena un fragmento de ejemplo: melodía que sube, volumen que crece, notas cortas. Quieres responder con el medio sonoro. ¿Cuál es coherente? A) Palmadas cortas que suben de volumen. B) Un silbido largo y siempre suave.", "A", "Las palmadas cortas copian las notas cortas y el aumento de volumen copia el crecimiento del fragmento.")],

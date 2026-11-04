@@ -573,7 +573,7 @@ Respuesta: B
 
 *Comprensión*
 
-- **C1.** Un equipo juega 2-2-1, pierde y quedan 2 minutos. ¿Qué cambio responde a esa situación: A) pasar una persona de apoyo al ataque; B) pasar la delantera a defender?
+- **C1.** Un equipo juega 2-2-1, pierde 2 a 1 y quedan 3 minutos. ¿Qué cambio responde a esa situación: A) pasar una persona de apoyo al ataque; B) pasar la delantera a defender?
 - **C2.** El rival ataca casi siempre por la derecha. ¿Qué cambio conviene: A) reforzar la defensa de ese lado; B) mover a todo el equipo al lado contrario?
 - **C3.** ¿Qué hace una persona antes de cambiar de función: A) avisa en voz alta y mira si el espacio está libre; B) cambia sin mirar?
 
@@ -806,7 +806,7 @@ Respuesta: Sin oposición
 
 *Situaciones auténticas*
 
-- **S1.** Tienes tres objetos para marcar el triángulo en el piso: la portadora, un apoyo a 3 m a su derecha y otro apoyo a 3 m más adelante. Si cada pase mide 3 m, ¿cuántos metros recorre el balón si hace dos pases seguidos?
+- **S1.** Un grupo marca con tres objetos un triángulo de lados iguales de 3 m. El balón da una vuelta completa de tres pases, uno por cada lado. ¿Cuántos metros recorre?
 - **S2.** Una tarde practicas 3 etapas de 4 minutos cada una, con 1 minuto de pausa entre ellas. ¿Cuántos minutos dura todo?
 
 *Autoevaluación*
@@ -832,7 +832,7 @@ Respuesta: Sin oposición
 - **Z2.** A. Si el pase es siempre igual, el rival lo anticipa.
 - **D1.** 9 ataques. Se suman los ataques logrados de las dos etapas. Cálculo: 6 + 3 = 9.
 - **D2.** En la etapa dos. 5 es mayor que 3 con el mismo total de ataques.
-- **S1.** 6 m. Dos pases de 3 m suman 6 m.
+- **S1.** 9 m. Son tres pases de 3 m cada uno.
 - **S2.** 14 minutos. Se suman los minutos de las etapas y las dos pausas. Cálculo: 3 × 4 + 2 × 1 = 14.
 - **E1.** Un acuerdo sobre dónde se ubica cada persona para atacar. Es la definición de la clase.
 - **E2.** Pasar al apoyo que queda libre. Así usa la opción que no está marcada.
@@ -972,9 +972,9 @@ Respuesta: Sí, de 40 % a 60 %
 
 *Ejemplo 2. Decidir*
 
-Problema: Una táctica mejoró de 50 % a 52 % en 10 jugadas. ¿Mantienes, modificas o descartas?
+Problema: Una táctica pasó de 10 logros en 20 jugadas a 11 logros en 20 jugadas. ¿Mantienes, modificas o descartas?
 
-1. La mejora es mínima.
+1. De 50 % a 55 %: la mejora es pequeña.
 2. Conviene cambiar una sola cosa y volver a registrar.
 3. Se modifica.
 
@@ -1229,13 +1229,13 @@ Respuesta: Problema, táctica, indicador y ajuste
 
 *Situaciones auténticas*
 
-- **S1.** Cuentas con esta situación de un deporte nuevo, el hándbol escolar: tu equipo recibe goles porque queda un lado sin cubrir. ¿Qué principio del fútbol que conoces sirve: A) alternar pelotas cortas y largas; B) ocupar el espacio libre del lado descubierto?
+- **S1.** Cuentas con esta situación de un deporte nuevo, el hándbol escolar: tu equipo recibe goles porque queda un lado sin cubrir. ¿Qué principio de la clase sirve: A) ocupar espacios libres para recibir un pase; B) cambiar la posición o la función de alguien para cubrir ese lado?
 - **S2.** Pruebas el plan en 4 rondas de 5 jugadas y anotas 7 jugadas en que el problema reaparece. ¿En cuántas jugadas no reaparece?
 
 *Autoevaluación*
 
 - **E1.** ¿Qué cambia entre un deporte y otro: A) el principio de ocupar espacios libres; B) el tamaño de la cancha y las reglas?
-- **E2.** ¿Qué incluye un plan completo?
+- **E2.** En un plan propio, ¿qué paso responde a la pregunta «¿qué cuentas?»?
 - **E3.** ¿Qué haces si sientes dolor durante la práctica?
 
 **Actividad abierta.** Elige uno de estos tres problemas de ejemplo y escribe un plan de cuatro pasos: (a) en tenis de mesa, el rival te gana los puntos cuando la pelota rebota corta; (b) en básquetbol escolar, tu equipo pierde la pelota porque todos se paran en la misma zona; (c) en vóleibol escolar, la pelota cae siempre en el mismo lugar de tu cancha. Escribe el problema, la táctica que propones y el principio que transfieres, el indicador con el que lo medirás en 10 jugadas y el ajuste si no mejora. Después practica 5 minutos una versión reducida en casa, sin contacto, y anota el dato.
@@ -1255,10 +1255,10 @@ Respuesta: Problema, táctica, indicador y ajuste
 - **Z2.** B. El número de jugadores cambia de un deporte a otro.
 - **D1.** 21 jugadas. Se calculan las jugadas totales y se restan las pérdidas. Cálculo: 3 × 10 − 9 = 21.
 - **D2.** Pedir el pase con una llamada breve o recibir en otro espacio. Cambia una sola condición y mantiene la idea de la táctica.
-- **S1.** B. Cubrir los espacios es un principio defensivo de varios deportes.
+- **S1.** B. Cambiar de función según la situación resuelve un lado sin cubrir; desmarcarse es un principio de ataque.
 - **S2.** 13 jugadas. Se calculan las jugadas totales y se restan las que reaparecen. Cálculo: 4 × 5 − 7 = 13.
 - **E1.** B. Los principios se repiten; lo que cambia es el contexto.
-- **E2.** Problema, táctica, indicador y ajuste. Esa es la estructura de la clase.
+- **E2.** El indicador. El indicador es el dato que se cuenta.
 - **E3.** Me detengo y aviso a una persona adulta. El dolor indica que debes detener la práctica.
 
 **Actividad abierta · ejemplo de respuesta.** Elegí (b). Problema: todos se paran en la misma zona y se pierde la pelota. Táctica: ocupar espacios libres con tres posiciones distintas. Principio: ocupar espacios libres, que conozco del fútbol. Indicador: pérdidas por cada 10 jugadas. Ajuste: si no mejora, cambiar la posición de una sola persona. En la práctica reducida perdí 3 de 10.

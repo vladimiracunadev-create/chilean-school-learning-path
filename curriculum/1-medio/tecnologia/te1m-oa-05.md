@@ -722,7 +722,7 @@ Respuesta: El cambio del entorno construido impulsó un servicio nuevo
 
 **Explicación.**
 
-Para analizar con datos cómo evolucionó un producto se arma una tabla de características con una fila por cada versión. Después se calcula cuánto cambió cada característica. La diferencia es valor nuevo menos valor antiguo. La variación porcentual es diferencia × 100 ÷ valor antiguo, y siempre se calcula sobre el valor antiguo. Si un valor pasa de 4 a 8 se duplicó; si pasa de 4 a 12 se triplicó.
+Para analizar con datos cómo evolucionó un producto se arma una tabla de características con una fila por cada versión. Después se calcula cuánto cambió cada característica. La diferencia es valor nuevo menos valor antiguo. La variación porcentual es diferencia × 100 ÷ valor antiguo, y siempre se calcula sobre el valor antiguo. Si un valor pasa de 4 a 8 se duplicó; si pasa de 4 a 12 se triplicó; si pasa de 4 a 16 se cuadruplicó.
 
 A veces se calcula una razón, que compara dos cantidades: el precio por hora de duración es el precio dividido entre las horas que dura. Una razón permite comparar productos distintos con justicia. Una tendencia es la dirección en que cambia una característica de una versión a otra: sube, baja o se mantiene.
 

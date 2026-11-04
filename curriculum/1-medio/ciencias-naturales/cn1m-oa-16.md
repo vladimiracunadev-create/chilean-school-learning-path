@@ -575,7 +575,7 @@ Respuesta: Porque la atmósfera los absorbe
 
 *Aplicación*
 
-- **A1.** Las bandas y si llegan al suelo son: radio, sí; infrarrojo, parcialmente; visible, sí; ultravioleta, no; rayos X, no; rayos gamma, no. ¿Cuántas bandas llegan completamente al suelo?
+- **A1.** Tres equipos quieren observar un mismo astro: uno en ondas de radio, otro en luz visible y otro en rayos X. ¿Cuántos de los tres equipos necesitan un telescopio espacial?
 - **A2.** El telescopio Hubble orbita a unos 540 km de altura (dato aproximado) y se considera que la atmósfera útil termina cerca de los 100 km. ¿Cuántos kilómetros por encima de ese límite orbita?
 - **A3.** Quieres estudiar la materia que cae hacia un agujero negro y emite rayos X. ¿Dónde pones el telescopio? A) En el desierto B) En el espacio
 
@@ -609,7 +609,7 @@ Respuesta: Porque la atmósfera los absorbe
 - **C1.** A. Esa materia fría emite en esas bandas.
 - **C2.** B. Menos vapor significa más señal.
 - **C3.** B. Los rayos X indican gas muy caliente o procesos violentos.
-- **A1.** 2. Solo la radio y la visible pasan casi completas.
+- **A1.** 1. Solo los rayos X son bloqueados por la atmósfera; la radio y la luz visible llegan al suelo.
 - **A2.** 440 km. Se resta el límite de la atmósfera a la altura de la órbita. Cálculo: 540 − 100 = 440.
 - **A3.** B. La atmósfera absorbe los rayos X.
 - **Z1.** B. El ojo es sensible a una pequeña parte del espectro.
@@ -1145,7 +1145,7 @@ Respuesta: La que se ve más débil
 
 **Explicación.**
 
-La astronomía trae beneficios: descubrimientos científicos, tecnologías nuevas, educación, empleo y astroturismo, que es el turismo para observar el cielo con guías. También tiene costos: usa agua y energía en un desierto, genera residuos y ocupa territorios donde viven comunidades locales y pueblos originarios, que deben ser consultadas y respetadas.
+La astronomía trae beneficios: descubrimientos científicos, tecnologías nuevas, educación, empleo y astroturismo, que es el turismo para observar el cielo con guías. También tiene costos: usa agua y energía en un desierto, genera residuos y ocupa territorios donde viven comunidades locales y pueblos originarios, que deben ser consultadas y respetadas. Por eso, antes de construir un proyecto grande se hace una evaluación de impacto ambiental, que estudia sus efectos y incluye la consulta a las comunidades.
 
 Hay amenazas para la observación. La contaminación lumínica es el exceso de luz artificial; se reduce con luminarias que apuntan hacia abajo, luz cálida y apagado de luces innecesarias. La contaminación radioeléctrica es la interferencia de celulares y antenas con los radiotelescopios; por eso hay zonas de silencio radioeléctrico. Las constelaciones de satélites artificiales reflejan luz y dejan trazos en las imágenes. También afectan los sismos, las obras cercanas y el polvo.
 
@@ -1197,15 +1197,15 @@ Respuesta: Comparando beneficios y costos con datos y consulta a las comunidades
 
 *Comprensión*
 
-- **C1.** Las constelaciones de satélites afectan a la astronomía porque: A) reflejan luz y dejan trazos en las imágenes B) emiten gases
-- **C2.** ¿Por qué puede haber mal de altura a 5.000 m? A) Hay más oxígeno B) Hay menos oxígeno por cada respiración
-- **C3.** El astroturismo es: A) turismo para observar el cielo con guías B) viajar a la Luna
+- **C1.** Las constelaciones de satélites afectan a la astronomía porque: A) reflejan luz y dejan trazos en las imágenes B) calientan la atmósfera y producen turbulencia
+- **C2.** ¿Por qué puede haber mal de altura a 5.000 m? A) Los gases del aire cambian y a esa altura ya no hay oxígeno B) Hay menos oxígeno por cada respiración porque el aire es menos denso
+- **C3.** El astroturismo es: A) turismo para observar el cielo con guías B) turismo para fotografiar paisajes de día
 
 *Aplicación*
 
 - **A1.** Un pueblo tenía 200 luminarias que apuntaban hacia arriba y reemplazó 150 por luminarias dirigidas hacia abajo. ¿Cuántas siguen apuntando hacia arriba?
 - **A2.** Un observatorio recibe 1.200 visitantes al año repartidos en 4 grupos iguales. ¿Cuántos visitantes tiene cada grupo?
-- **A3.** Antes de construir una planta cerca de un observatorio, ¿qué estudio corresponde?
+- **A3.** Antes de construir una planta cerca de un observatorio, ¿qué evaluación corresponde?
 
 *Razonamiento y análisis*
 
@@ -1239,7 +1239,7 @@ Respuesta: Comparando beneficios y costos con datos y consulta a las comunidades
 - **C3.** A. Se hace en lugares con cielos oscuros.
 - **A1.** 50 luminarias. Se resta lo reemplazado del total. Cálculo: 200 − 150 = 50.
 - **A2.** 300 visitantes. Se divide el total por el número de grupos. Cálculo: 1200/4 = 300.
-- **A3.** Un estudio de impacto ambiental con consulta a las comunidades. Permite evaluar efectos y escuchar a las personas afectadas.
+- **A3.** Una evaluación de impacto ambiental con consulta a las comunidades. Permite evaluar efectos y escuchar a las personas afectadas.
 - **Z1.** B. El cielo oscuro es un recurso con valor científico y cultural.
 - **Z2.** A. Se reduce la interferencia.
 - **D1.** B. La cantidad de oxígeno depende de la presión.

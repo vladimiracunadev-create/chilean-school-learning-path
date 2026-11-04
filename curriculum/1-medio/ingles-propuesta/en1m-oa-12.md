@@ -64,7 +64,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Consigna exacta:** Lee este encargo: escribe un informe de entre cinco y siete oraciones sobre la sala de clases ficticia 1.º F, usando estos datos de ejemplo. Hay 24 sillas para 30 estudiantes (no alcanzan); queda un poco de pegamento en 2 frascos; hay 8 marcadores (alcanzan para los grupos); no hay casi hojas de colores. Usa al menos cuatro palabras de cantidad distintas (many, a few, few, a little, little) y enumera con First, Second y Finally lo que hay que comprar. Revisa si cada sustantivo es contable.
 
-**Referencia para modelar y corregir:** In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little coloured paper. First, buy chairs. Second, buy paper. Finally, buy markers.
+**Referencia para modelar y corregir:** In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little colored paper. First, buy chairs. Second, buy paper. Finally, buy markers.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little coloured paper. First, buy chairs. Second, buy paper. Finally, buy markers. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little colored paper. First, buy chairs. Second, buy paper. Finally, buy markers. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -162,7 +162,7 @@ Respuesta: little
 
 - **A1.** Completa con few o a few: «We have ___ volunteers, but they are enough to clean the yard.»
 - **A2.** Completa con a little o little: «There is ___ time left, but we can still finish one more song.»
-- **A3.** Completa con un ordinal: «There are three steps. ___, open the book. Second, read. Third, write.»
+- **A3.** Completa la pregunta con la palabra de cantidad correcta: «How ___ water is there in the bottle?» A) much B) many
 
 *Razonamiento y análisis*
 
@@ -196,7 +196,7 @@ Respuesta: little
 - **C3.** A. Little, sin a, indica que casi no queda.
 - **A1.** a few. Alcanzan para limpiar el patio, así que el sentido es positivo.
 - **A2.** a little. Se puede cantar una canción más, así que el sentido es positivo.
-- **A3.** First. El ordinal que abre la lista es First.
+- **A3.** A. Water es no contable y con no contables se pregunta How much.
 - **Z1.** B. Few indica que casi no hay buses y por eso es difícil.
 - **Z2.** There is little sugar in the bowl.. Sugar es no contable y casi no queda, así que se usa little.
 - **D1.** little. Tables es contable y debería llevar few o a few, no little.
@@ -206,7 +206,7 @@ Respuesta: little
 - **E2.** a few. A few indica que hay lo suficiente.
 - **E3.** Third. First, second, third.
 
-**Actividad abierta · ejemplo de respuesta.** In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little coloured paper. First, buy chairs. Second, buy paper. Finally, buy markers.
+**Actividad abierta · ejemplo de respuesta.** In 1F, there are few chairs: only 24 for 30 students. There is a little glue left in 2 jars. There are a few markers: 8, enough for the groups. There is little colored paper. First, buy chairs. Second, buy paper. Finally, buy markers.
 
 **Criterios para evaluarla:** usa al menos cuatro palabras de cantidad distintas; cada palabra calza con un sustantivo contable o no contable; enumera con First, Second y Finally.
 
@@ -488,7 +488,7 @@ Respuesta: illegal
 
 **Consigna exacta:** Lee este encargo: escribe en una hoja un párrafo de siete oraciones sobre si tu colegio debería abrir la biblioteca los sábados. Datos de ejemplo: según una encuesta ficticia, 18 de 25 estudiantes dicen que sí; el costo es bajo; algunas personas dicen que es mucho trabajo. Incluye In my opinion, According to, Although, so that y una lista con First, Second y And last. Revisa la puntuación de cada conector.
 
-**Referencia para modelar y corregir:** In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is free.
+**Referencia para modelar y corregir:** In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is cheap.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -502,7 +502,7 @@ Respuesta: illegal
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is free. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is cheap. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -524,7 +524,7 @@ Respuesta: illegal
 
 Para dar tu propia opinión (opinion) por escrito se usa In my opinion, seguido de una coma: In my opinion, the park is clean. Para referirte a lo que dicen otros se usa According to + fuente, con coma: According to the teacher, the test is on Friday. No se dice «according to me» ni «according to my opinion». Una opinión es un juicio personal (boring, good); un hecho (fact) se puede comprobar (the library closes at 6 p.m.).
 
-Los conectores (connectors) unen ideas. Although (aunque) introduce un contraste y no se combina con but en la misma oración: Although it is cheap, I am not sure. So that (para que) expresa un propósito: Come early so that we can talk. Both … and (tanto … como) une dos personas o cosas con un verbo en plural: Both Luis and Tomás are my neighbours. Para cerrar una lista se usa And last después de First y Second.
+Los conectores (connectors) unen ideas. Although (aunque) introduce un contraste y no se combina con but en la misma oración: Although it is cheap, I am not sure. So that (para que) expresa un propósito: Come early so that we can talk. Both … and (tanto … como) une dos personas o cosas con un verbo en plural: Both Luis and Tomás are my neighbors. Para cerrar una lista se usa And last después de First y Second.
 
 Antes de escribir, define el propósito (purpose) del párrafo y a quién va dirigido. Luego revisa: ¿marqué qué es opinión y qué es hecho?, ¿cité la fuente con According to?, ¿cada conector tiene sentido y la puntuación correcta? Una coma separa la parte con Although del resto: Although it was cold, we played outside.
 
@@ -579,7 +579,7 @@ Respuesta: Although the bag is cheap, it is strong.
 *Comprensión*
 
 - **C1.** «Come early so that we can talk.» ¿Qué expresa so that? A) un contraste B) un propósito
-- **C2.** «Both Luis and Tomás are my neighbours.» ¿Cuántas personas son vecinos?
+- **C2.** «Both Luis and Tomás are my neighbors.» ¿Cuántas personas son vecinos?
 - **C3.** «According to the poster, the museum opens at 9 a.m.» ¿Quién da el dato del horario? A) the writer B) the poster
 
 *Aplicación*
@@ -630,7 +630,7 @@ Respuesta: Although the bag is cheap, it is strong.
 - **E2.** so that. Expresa el propósito de una acción.
 - **E3.** According to. Seguido de la fuente y una coma.
 
-**Actividad abierta · ejemplo de respuesta.** In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is free.
+**Actividad abierta · ejemplo de respuesta.** In my opinion, the library should open on Saturdays. According to a survey, 18 of 25 students say yes. Although some people say it is a lot of work, the cost is low. The library should open so that students can study. First, it is useful. Second, it is quiet. And last, it is cheap.
 
 **Criterios para evaluarla:** usa In my opinion y According to correctamente; usa Although y so that con sentido y sin but; lista con First, Second y And last.
 
@@ -700,7 +700,7 @@ Respuesta: Although the bag is cheap, it is strong.
 
 **Consigna exacta:** Lee este encargo: escribe en una hoja un párrafo de seis oraciones sobre un club ficticio de ciclismo del colegio. Datos de ejemplo: los integrantes entrenan desde abril; la capitana, Laura, practica hace dos años; hoy llevan una hora pedaleando y están cansados; esperan la lluvia desde las 3 p.m. Usa al menos tres veces have/has been + -ing, for y since, y una oración en que se vea un resultado.
 
-**Referencia para modelar y corregir:** The cycling club has been training since April. Laura has been practising for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practising too.
+**Referencia para modelar y corregir:** The cycling club has been training since April. Laura has been practicing for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practicing too.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -714,7 +714,7 @@ Respuesta: Although the bag is cheap, it is strong.
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: The cycling club has been training since April. Laura has been practising for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practising too. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: The cycling club has been training since April. Laura has been practicing for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practicing too. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -757,7 +757,7 @@ Para escribir bien: 1) elige have o has según el sujeto; 2) agrega been; 3) pon
 
 *Ejemplo 1. Escoger have o has*
 
-Problema: Completa con have o has: «Our neighbours ___ been painting the fence since 9 a.m.»
+Problema: Completa con have o has: «Our neighbors ___ been painting the fence since 9 a.m.»
 
 1. Neighbours es plural, como they.
 2. Con plural se usa have.
@@ -812,7 +812,7 @@ Respuesta: since
 
 *Situaciones auténticas*
 
-- **S1.** La banda de un colegio ficticio empezó a ensayar en marzo y hoy sigue ensayando. ¿Qué oración lo cuenta bien? A) Our band has been practising since March B) Our band is practising for March.
+- **S1.** La banda de un colegio ficticio empezó a ensayar en marzo y hoy sigue ensayando. ¿Qué oración lo cuenta bien? A) Our band is practicing for March B) Our band has been practicing since March.
 
 *Autoevaluación*
 
@@ -837,12 +837,12 @@ Respuesta: since
 - **Z2.** A. Twenty minutes es una duración y requiere for.
 - **D1.** 3. Se resta el mes de inicio al mes actual. Cálculo: 12 − 9 = 3.
 - **D2.** have, been. Con you se usa have y luego been.
-- **S1.** A. March es el punto de partida y la acción continúa.
+- **S1.** B. March es el punto de partida y la acción continúa.
 - **E1.** have/has + been + verbo con -ing. Esa es la estructura completa.
 - **E2.** for. For acompaña a cuánto tiempo.
 - **E3.** since. Since marca desde cuándo.
 
-**Actividad abierta · ejemplo de respuesta.** The cycling club has been training since April. Laura has been practising for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practising too.
+**Actividad abierta · ejemplo de respuesta.** The cycling club has been training since April. Laura has been practicing for two years. We have been riding for an hour, so we are tired. We have been waiting for the rain since 3 p.m. They have been learning the route. I have been practicing too.
 
 **Criterios para evaluarla:** usa have/has been + -ing con el sujeto correcto; usa for con duración y since con un punto de partida; incluye una oración con resultado visible.
 
@@ -912,7 +912,7 @@ Respuesta: since
 
 **Consigna exacta:** Lee este encargo: responde en una hoja con cuatro consejos escritos a Lía, una estudiante ficticia. Datos de ejemplo: le cuesta madrugar, olvida sus útiles, tiene vergüenza de hablar inglés en clase, y está nerviosa antes de una prueba. Usa If I were you, I would… en dos consejos, y If + pasado simple, would + verbo en otros dos. Escribe también una oración hipotética sobre qué haría Lía con un día libre.
 
-**Referencia para modelar y corregir:** If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practised in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park.
+**Referencia para modelar y corregir:** If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practiced in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -926,7 +926,7 @@ Respuesta: since
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practised in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practiced in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -948,7 +948,7 @@ Respuesta: since
 
 Las situaciones hipotéticas (hypothetical) hablan de algo irreal o poco probable en el presente. La estructura es If + pasado simple, would + verbo en forma base: If she studied more, she would pass the test (pero no estudia más). Aunque if va con pasado simple, el tiempo es presente o futuro imaginario. Con el verbo be se usa were para todas las personas: If I were you, If he were here.
 
-El mismo molde sirve para dar consejos (advice): If I were you, I would talk to the teacher. Significa «yo, en tu lugar, hablaría con la profesora». No se dice If I would be you ni If I will study. Para algo posible, no imaginario, se usa will: If it rains tomorrow, we will stay home. Para cortesía, would suaviza una orden: I would apologise (yo pediría disculpas).
+El mismo molde sirve para dar consejos (advice): If I were you, I would talk to the teacher. Significa «yo, en tu lugar, hablaría con la profesora». No se dice If I would be you ni If I will study. Para algo posible, no imaginario, se usa will: If it rains tomorrow, we will stay home. Para cortesía, would suaviza una orden: I would apologize (yo pediría disculpas).
 
 Al escribir consejos, el propósito (purpose) es ayudar sin mandar. Revisa: ¿es una situación irreal o un plan posible?, ¿usé If + pasado y would + verbo?, ¿empleé were con I? Un consejo es más útil si propone una acción concreta: If I were you, I would plan my time with a list.
 
@@ -961,7 +961,7 @@ Al escribir consejos, el propósito (purpose) es ayudar sin mandar. Revisa: ¿es
 | hypothetical | hipotético: imaginario |
 | advice | consejo |
 | were | forma de be con todas las personas en lo imaginario |
-| apologise | pedir disculpas |
+| apologize | pedir disculpas |
 | plan | planificar |
 | pass | aprobar |
 
@@ -998,7 +998,7 @@ Respuesta: would
 
 - **R1.** «If I were you, I would talk to the teacher.» es A) un consejo B) un hecho del pasado
 - **R2.** Completa el consejo: «If I ___ you, I would ask for help.» A) were B) will be
-- **R3.** Completa con would + verbo: «If Pedro practised more, he ___ improve.»
+- **R3.** Completa con would + verbo: «If Pedro practiced more, he ___ improve.»
 
 *Comprensión*
 
@@ -1020,7 +1020,7 @@ Respuesta: would
 *Desafío*
 
 - **D1.** Texto: «If Ana lived near the school, she would arrive on time.» ¿Qué dice la oración sobre la realidad? A) Ana no vive cerca del colegio B) Ana vive cerca del colegio.
-- **D2.** Ordena las palabras y escribe el consejo: were / I / would / If / you, / I / apologise
+- **D2.** Ordena las palabras y escribe el consejo: were / I / would / If / you, / I / apologize
 
 *Situaciones auténticas*
 
@@ -1048,13 +1048,13 @@ Respuesta: would
 - **Z1.** A. La primera usa If + pasado y would y trata una situación improbable.
 - **Z2.** If we had more time, we would visit the park.. En la parte con if va el pasado simple, no would.
 - **D1.** A. La oración imaginaria revela lo contrario de la realidad.
-- **D2.** If I were you, I would apologise.. La estructura es If + sujeto + were + you, I would + verbo.
+- **D2.** If I were you, I would apologize.. La estructura es If + sujeto + were + you, I would + verbo.
 - **S1.** B. Propone una acción concreta y útil, expresada con respeto.
 - **E1.** were. Se usa were en lo hipotético con I.
 - **E2.** Un verbo en forma base. Would plan, would call.
 - **E3.** Dar un consejo. Es la fórmula del consejo.
 
-**Actividad abierta · ejemplo de respuesta.** If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practised in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park.
+**Actividad abierta · ejemplo de respuesta.** If I were you, I would go to bed earlier. If I were you, I would make a checklist. If you practiced in a small group, you would feel braver. If you studied a little every day, you would feel calm. If Lía had a free day, she would go to the park.
 
 **Criterios para evaluarla:** usa If I were you, I would en dos consejos; usa If + pasado simple y would en otros dos; los consejos son concretos y respetuosos.
 

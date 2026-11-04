@@ -146,35 +146,35 @@ Respuesta: You need, pasos numerados y verbos en orden
 
 *Recuperación*
 
-- **R1.** Descripción: «My town is small and quiet. It has a main square with an old fountain, a fair on Saturdays and a library. Around the town there are green hills.» (main square = plaza, fountain = fuente, fair = feria, library = biblioteca) ¿Qué tipo de texto es? A) un procedimiento B) una descripción
-- **R2.** Procedimiento: «How to make a paper bookmark. You need: coloured paper, scissors and a ruler. Step 1: Cut a strip of paper. Step 2: Draw a pattern. Step 3: Decorate it with colours.» (bookmark = marcapáginas, scissors = tijeras, ruler = regla, strip = tira, pattern = diseño, decorate = decora) ¿Qué tipo de texto es? A) un catálogo B) un procedimiento
-- **R3.** Catálogo: «Desk lamp, white, 12,990 pesos. Notebook set (three notebooks), 4,500 pesos. Pencil case, blue, 3,200 pesos.» (catalogue = catálogo, desk lamp = lámpara de escritorio, set = set, pencil case = estuche) ¿Qué tipo de texto es? A) una biografía B) un catálogo
+- **R1.** «My town is small and quiet. It has a main square with an old fountain, a fair on Saturdays and a library. Around the town there are green hills.» (main square = plaza, fountain = fuente, fair = feria, library = biblioteca) ¿Qué tipo de texto es? A) un procedimiento B) una descripción
+- **R2.** «How to make a paper bookmark. You need: coloured paper, scissors and a ruler. Step 1: Cut a strip of paper. Step 2: Draw a pattern. Step 3: Decorate it with colours.» (bookmark = marcapáginas, scissors = tijeras, ruler = regla, strip = tira, pattern = diseño, decorate = decora) ¿Qué tipo de texto es? A) un catálogo B) un procedimiento
+- **R3.** «Desk lamp, white, 12,990 pesos. Notebook set (three notebooks), 4,500 pesos. Pencil case, blue, 3,200 pesos.» (catalogue = catálogo, desk lamp = lámpara de escritorio, set = set, pencil case = estuche) ¿Qué tipo de texto es? A) un catálogo B) una biografía
 
 *Comprensión*
 
-- **C1.** Biografía (datos de ejemplo): «María Gómez was born in a small village in 1990. She studied music and became a pianist. In 2015 she gave her first concert abroad. Today she teaches young musicians.» (biography = biografía, was born = nació, village = aldea, became = se convirtió en, abroad = en el extranjero, teaches = enseña) ¿Cuál es el propósito? A) enseñar a tocar piano B) contar la vida y la carrera de una persona
-- **C2.** Gráfico (datos de ejemplo): «Students who read books each month. Grade 7: 12. Grade 8: 15. Grade 9: 18. Grade 10: 20.» (graph = gráfico, grade = curso, each month = cada mes) ¿Qué compara el gráfico? A) cuánto cuestan los libros B) cuántos estudiantes leen libros por curso
-- **C3.** Noticia: «Heavy rain flooded two streets in the south of the city on Tuesday. Firefighters pumped the water out. No one was hurt. The city says it will clean the drains this week.» (flooded = inundó, firefighters = bomberos, pumped out = sacaron con bomba, hurt = herido, drains = desagües) ¿Cuál es el propósito? A) convencer de comprar algo B) informar un hecho reciente
+- **C1.** (datos de ejemplo) «María Gómez was born in a small village in 1990. She studied music and became a pianist. In 2015 she gave her first concert abroad. Today she teaches young musicians.» (biography = biografía, was born = nació, village = aldea, became = se convirtió en, abroad = en el extranjero, teaches = enseña) ¿Cuál es el propósito? A) enseñar a tocar piano B) contar la vida y la carrera de una persona
+- **C2.** (datos de ejemplo) «Students who read books each month. Grade 7: 12. Grade 8: 15. Grade 9: 18. Grade 10: 20.» (graph = gráfico, grade = curso, each month = cada mes) ¿Qué compara el gráfico? A) cuántos estudiantes leen libros por curso B) cuánto cuestan los libros
+- **C3.** «Heavy rain flooded two streets in the south of the city on Tuesday. Firefighters pumped the water out. No one was hurt. The city says it will clean the drains this week.» (flooded = inundó, firefighters = bomberos, pumped out = sacaron con bomba, hurt = herido, drains = desagües) ¿Cuál es el propósito? A) informar un hecho reciente B) convencer de comprar algo
 
 *Aplicación*
 
-- **A1.** Catálogo: «Desk lamp, white, 12,990 pesos. Notebook set (three notebooks), 4,500 pesos. Pencil case, blue, 3,200 pesos.» (catalogue = catálogo, desk lamp = lámpara de escritorio, set = set, pencil case = estuche) Si compras la lámpara, el set de cuadernos y el estuche, ¿cuántos pesos pagas en total?
-- **A2.** Diálogo: «Customer: Excuse me, how much is this jacket? Shop assistant: It's twenty-five thousand pesos. Customer: That is too expensive for me. Do you have a cheaper one?» (customer = cliente, shop assistant = vendedor, jacket = chaqueta, too expensive = demasiado caro, cheaper = más barato) ¿Qué pide el cliente? A) una chaqueta más grande B) una chaqueta más barata
-- **A3.** Procedimiento: «How to make a paper bookmark. You need: coloured paper, scissors and a ruler. Step 1: Cut a strip of paper. Step 2: Draw a pattern. Step 3: Decorate it with colours.» (bookmark = marcapáginas, scissors = tijeras, ruler = regla, strip = tira, pattern = diseño, decorate = decora) ¿Qué materiales se necesitan? A) papel de color, tijeras y regla B) pegamento y pinceles
+- **A1.** «Desk lamp, white, 12,990 pesos. Notebook set (three notebooks), 4,500 pesos. Pencil case, blue, 3,200 pesos.» (catalogue = catálogo, desk lamp = lámpara de escritorio, set = set, pencil case = estuche) Si compras la lámpara, el set de cuadernos y el estuche, ¿cuántos pesos pagas en total?
+- **A2.** «Customer: Excuse me, how much is this jacket? Shop assistant: It's twenty-five thousand pesos. Customer: That is too expensive for me. Do you have a cheaper one?» (customer = cliente, shop assistant = vendedor, jacket = chaqueta, too expensive = demasiado caro, cheaper = más barato) ¿Qué pide el cliente? A) una chaqueta más grande B) una chaqueta más barata
+- **A3.** «How to make a paper bookmark. You need: coloured paper, scissors and a ruler. Step 1: Cut a strip of paper. Step 2: Draw a pattern. Step 3: Decorate it with colours.» (bookmark = marcapáginas, scissors = tijeras, ruler = regla, strip = tira, pattern = diseño, decorate = decora) ¿Qué materiales se necesitan? A) papel de color, tijeras y regla B) pegamento y pinceles
 
 *Razonamiento y análisis*
 
-- **Z1.** Biografía (datos de ejemplo): «María Gómez was born in a small village in 1990. She studied music and became a pianist. In 2015 she gave her first concert abroad. Today she teaches young musicians.» (biography = biografía, was born = nació, village = aldea, became = se convirtió en, abroad = en el extranjero, teaches = enseña) Un compañero dice que es una noticia. ¿Qué pista lo contradice? A) tiene un titular B) cuenta la vida de una persona desde su nacimiento
-- **Z2.** Gráfico (datos de ejemplo): «Students who read books each month. Grade 7: 12. Grade 8: 15. Grade 9: 18. Grade 10: 20.» (graph = gráfico, grade = curso, each month = cada mes) Un compañero dice que es un procedimiento porque tiene números. ¿Qué respondes? A) sí: los números indican pasos B) no: no da pasos, muestra datos por curso
+- **Z1.** (datos de ejemplo) «María Gómez was born in a small village in 1990. She studied music and became a pianist. In 2015 she gave her first concert abroad. Today she teaches young musicians.» (biography = biografía, was born = nació, village = aldea, became = se convirtió en, abroad = en el extranjero, teaches = enseña) Un compañero dice que es una noticia. ¿Qué pista lo contradice? A) cuenta la vida de una persona desde su nacimiento B) tiene un titular
+- **Z2.** (datos de ejemplo) «Students who read books each month. Grade 7: 12. Grade 8: 15. Grade 9: 18. Grade 10: 20.» (graph = gráfico, grade = curso, each month = cada mes) Un compañero dice que es un procedimiento porque tiene números. ¿Qué respondes? A) no: no da pasos, muestra datos por curso B) sí: los números indican pasos
 
 *Desafío*
 
-- **D1.** Noticia: «Heavy rain flooded two streets in the south of the city on Tuesday. Firefighters pumped the water out. No one was hurt. The city says it will clean the drains this week.» (flooded = inundó, firefighters = bomberos, pumped out = sacaron con bomba, hurt = herido, drains = desagües) ¿Qué dato muestra que la noticia es reciente? A) heavy rain B) on Tuesday y this week
-- **D2.** Gráfico (datos de ejemplo): «Students who read books each month. Grade 7: 12. Grade 8: 15. Grade 9: 18. Grade 10: 20.» (graph = gráfico, grade = curso, each month = cada mes) ¿Qué curso lee más? A) Grade 7 B) Grade 10
+- **D1.** «Heavy rain flooded two streets in the south of the city on Tuesday. Firefighters pumped the water out. No one was hurt. The city says it will clean the drains this week.» (flooded = inundó, firefighters = bomberos, pumped out = sacaron con bomba, hurt = herido, drains = desagües) ¿Qué dato muestra que la noticia es reciente? A) heavy rain B) on Tuesday y this week
+- **D2.** (datos de ejemplo) «Students who read books each month. Grade 7: 12. Grade 8: 15. Grade 9: 18. Grade 10: 20.» (graph = gráfico, grade = curso, each month = cada mes) ¿Qué curso lee más? A) Grade 10 B) Grade 7
 
 *Situaciones auténticas*
 
-- **S1.** Diálogo: «Customer: Excuse me, how much is this jacket? Shop assistant: It's twenty-five thousand pesos. Customer: That is too expensive for me. Do you have a cheaper one?» (customer = cliente, shop assistant = vendedor, jacket = chaqueta, too expensive = demasiado caro, cheaper = más barato) ¿Dónde se escucha un texto así? A) en una biblioteca B) en una tienda
+- **S1.** «Customer: Excuse me, how much is this jacket? Shop assistant: It's twenty-five thousand pesos. Customer: That is too expensive for me. Do you have a cheaper one?» (customer = cliente, shop assistant = vendedor, jacket = chaqueta, too expensive = demasiado caro, cheaper = más barato) ¿Dónde se escucha un texto así? A) en una tienda B) en una biblioteca
 
 *Autoevaluación*
 
@@ -188,18 +188,18 @@ Respuesta: You need, pasos numerados y verbos en orden
 
 - **R1.** B) una descripción. Dice cómo es el pueblo.
 - **R2.** B) un procedimiento. Tiene materiales y pasos numerados.
-- **R3.** B) un catálogo. Lista productos con precios.
+- **R3.** A) un catálogo. Lista productos con precios.
 - **C1.** B) contar la vida y la carrera de una persona. Tiene años y hechos de su vida.
-- **C2.** B) cuántos estudiantes leen libros por curso. Cada curso tiene un número de lectores.
-- **C3.** B) informar un hecho reciente. Cuenta qué pasó, dónde y cuándo.
+- **C2.** A) cuántos estudiantes leen libros por curso. Cada curso tiene un número de lectores.
+- **C3.** A) informar un hecho reciente. Cuenta qué pasó, dónde y cuándo.
 - **A1.** 20.690 pesos. Se suman los tres precios del catálogo. Cálculo: 12990 + 4500 + 3200 = 20.690.
 - **A2.** B) una chaqueta más barata. Dice Do you have a cheaper one?
 - **A3.** A) papel de color, tijeras y regla. Lo dice la línea You need.
-- **Z1.** B) cuenta la vida de una persona desde su nacimiento. Una biografía sigue la vida; una noticia informa un hecho reciente.
-- **Z2.** B) no: no da pasos, muestra datos por curso. Los números son cantidades, no pasos.
+- **Z1.** A) cuenta la vida de una persona desde su nacimiento. Una biografía sigue la vida; una noticia informa un hecho reciente.
+- **Z2.** A) no: no da pasos, muestra datos por curso. Los números son cantidades, no pasos.
 - **D1.** B) on Tuesday y this week. Son marcas de tiempo cercanas.
-- **D2.** B) Grade 10. Grade 10 tiene 20, el número más alto.
-- **S1.** B) en una tienda. El cliente pregunta el precio de una chaqueta.
+- **D2.** A) Grade 10. Grade 10 tiene 20, el número más alto.
+- **S1.** A) en una tienda. El cliente pregunta el precio de una chaqueta.
 - **E1.** Una lista de materiales y pasos numerados. Se reconoce por You need y Step 1..
 - **E2.** Cuenta la vida de una persona con hechos y años. Sigue el orden de su vida.
 - **E3.** Para mostrar datos por categoría. Permite comparar los números.
@@ -356,9 +356,9 @@ Respuesta: Es un detalle que apoya la idea principal
 
 *Recuperación*
 
-- **R1.** «Urban gardens are becoming popular. They use small spaces such as roofs and balconies. People grow herbs and vegetables for their families. Gardens also help neighbours meet. However, plants need regular care.» (urban = urbano, roofs = techos, balconies = balcones, grow = cultivan, herbs = hierbas, neighbours = vecinos, regular = regular, care = cuidado) ¿Cuál es la idea principal? A) los techos son pequeños B) los huertos urbanos son cada vez más populares
+- **R1.** «Urban gardens are becoming popular. They use small spaces such as roofs and balconies. People grow herbs and vegetables for their families. Gardens also help neighbours meet. However, plants need regular care.» (urban = urbano, roofs = techos, balconies = balcones, grow = cultivan, herbs = hierbas, neighbours = vecinos, regular = regular, care = cuidado) ¿Cuál es la idea principal? A) las plantas necesitan cuidado regular B) los huertos urbanos son cada vez más populares
 - **R2.** «Teenagers need enough sleep. At this age, the body is growing and the brain is learning many things. Many teenagers go to bed late because of phones and homework. Experts suggest a regular bedtime and no screens one hour before sleeping.» (enough = suficiente, brain = cerebro, bedtime = hora de acostarse, experts = expertos, suggest = sugieren, screens = pantallas) ¿Cuál es la idea principal? A) los adolescentes necesitan dormir lo suficiente B) los teléfonos son malos
-- **R3.** «Learning a new language has many benefits. It improves memory and helps you meet people from other cultures. Some people learn with apps, others with classes or with friends. The most important thing is to practise a little every day.» (benefits = beneficios, improves = mejora, memory = memoria, cultures = culturas, apps = aplicaciones, practise = practicar) ¿Cuál es la idea principal? A) aprender un idioma nuevo tiene muchos beneficios B) las aplicaciones son gratis
+- **R3.** «Learning a new language has many benefits. It improves memory and helps you meet people from other cultures. Some people learn with apps, others with classes or with friends. The most important thing is to practise a little every day.» (benefits = beneficios, improves = mejora, memory = memoria, cultures = culturas, apps = aplicaciones, practise = practicar) ¿Cuál es la idea principal? A) aprender un idioma nuevo tiene muchos beneficios B) las aplicaciones son la mejor forma de aprender
 
 *Comprensión*
 
@@ -384,7 +384,7 @@ Respuesta: Es un detalle que apoya la idea principal
 
 *Situaciones auténticas*
 
-- **S1.** «Teenagers need enough sleep. At this age, the body is growing and the brain is learning many things. Many teenagers go to bed late because of phones and homework. Experts suggest a regular bedtime and no screens one hour before sleeping.» (enough = suficiente, brain = cerebro, bedtime = hora de acostarse, experts = expertos, suggest = sugieren, screens = pantallas) Quieres dormir mejor. ¿Qué dos consejos aplican según el texto? A) más tareas y más café B) hora regular y sin pantallas una hora antes
+- **S1.** «Teenagers need enough sleep. At this age, the body is growing and the brain is learning many things. Many teenagers go to bed late because of phones and homework. Experts suggest a regular bedtime and no screens one hour before sleeping.» (enough = suficiente, brain = cerebro, bedtime = hora de acostarse, experts = expertos, suggest = sugieren, screens = pantallas) Quieres dormir mejor. ¿Qué dos consejos aplican según el texto? A) más tareas y dormir con el teléfono cerca B) hora regular y sin pantallas una hora antes
 
 *Autoevaluación*
 
@@ -585,7 +585,7 @@ Respuesta: Problema: ruido; solución: una regla de silencio y trabajo en grupo 
 *Razonamiento y análisis*
 
 - **Z1.** «Living in a big city has advantages and disadvantages. On the one hand, there are many jobs and activities. On the other hand, the traffic is heavy and the air is not clean.» (advantages = ventajas, disadvantages = desventajas, jobs = trabajos, activities = actividades, traffic = tráfico, heavy = pesado, air = aire) Un compañero dice que la ciudad solo tiene desventajas. ¿Qué dato lo contradice? A) hay muchos trabajos y actividades B) el tráfico es pesado
-- **Z2.** «The school library has a problem: it is too noisy at lunch time. Students cannot study, so many go home. The librarian made a new rule: lunch time is quiet time, and group work is in the room next door.» (library = biblioteca, noisy = ruidosa, librarian = bibliotecario, rule = regla, quiet = silencio, group work = trabajo en grupo, next door = al lado) Un compañero dice que la solución no sirve porque hay otro problema. ¿Cuál es el que atiende la regla? A) la falta de libros B) el ruido que impide estudiar
+- **Z2.** «The school library has a problem: it is too noisy at lunch time. Students cannot study, so many go home. The librarian made a new rule: lunch time is quiet time, and group work is in the room next door.» (library = biblioteca, noisy = ruidosa, librarian = bibliotecario, rule = regla, quiet = silencio, group work = trabajo en grupo, next door = al lado) Un compañero dice que la solución no sirve porque hay otro problema. ¿Qué problema atiende la regla? A) la falta de libros B) el ruido que impide estudiar
 
 *Desafío*
 
@@ -795,12 +795,12 @@ Respuesta: El festival siguió y miles de personas bailaron
 *Razonamiento y análisis*
 
 - **Z1.** Fragmento A: «Before the school project, we did research on the topic. First, we made a list of questions.» Fragmento B: «Then we had a look at three websites. Last, we made a decision: we would present a poster.» (research = investigación, topic = tema, have a look = echar un vistazo, make a decision = tomar una decisión, poster = afiche) ¿Qué decidieron al final? A) presentar un afiche B) escribir un libro
-- **Z2.** Fragmento A: «Strong coffee is popular in many countries. Some people eat fast food and drink coffee for breakfast.» Fragmento B: «However, experts say that a healthy breakfast helps you stay alert at school or work.» (strong coffee = café cargado, popular = popular, fast food = comida rápida, breakfast = desayuno, alert = atento) ¿Qué marca el fragmento B con However? A) una receta B) una opinión de expertos que contrasta con la costumbre
+- **Z2.** Fragmento A: «Strong coffee is popular in many countries. Some people eat fast food and drink coffee for breakfast.» Fragmento B: «However, experts say that a healthy breakfast helps you stay alert at school or work.» (strong coffee = café cargado, popular = popular, fast food = comida rápida, breakfast = desayuno, alert = atento) ¿Qué marca el fragmento B con However? A) una opinión de expertos que contrasta con la costumbre B) un ejemplo de lo que come la gente
 
 *Desafío*
 
 - **D1.** Fragmento A: «Strong coffee is popular in many countries. Some people eat fast food and drink coffee for breakfast.» Fragmento B: «However, experts say that a healthy breakfast helps you stay alert at school or work.» (strong coffee = café cargado, popular = popular, fast food = comida rápida, breakfast = desayuno, alert = atento) ¿Qué recomiendan los expertos? A) un desayuno saludable para mantenerse atento B) café y comida rápida
-- **D2.** Fragmento A: «Heavy traffic is a common problem in big cities. Many people take part in a campaign to use public transport.» Fragmento B: «The campaign makes progress every year. More people choose the bus so that the streets are less crowded.» (heavy traffic = tráfico pesado, take part in = participar en, campaign = campaña, make progress = avanzar, so that = para que, crowded = llenas) ¿Qué problema se menciona en A y qué propone B? A) tráfico pesado; elegir el bus B) tráfico pesado; no salir de casa
+- **D2.** Fragmento A: «Heavy traffic is a common problem in big cities. Many people take part in a campaign to use public transport.» Fragmento B: «The campaign makes progress every year. More people choose the bus so that the streets are less crowded.» (heavy traffic = tráfico pesado, take part in = participar en, campaign = campaña, make progress = avanzar, so that = para que, crowded = llenas) ¿Qué problema se menciona en A y qué propone B? A) tráfico pesado; elegir el bus B) tráfico pesado; comprar más autos
 
 *Situaciones auténticas*
 
@@ -826,7 +826,7 @@ Respuesta: El festival siguió y miles de personas bailaron
 - **A2.** A) la campaña. Dice makes progress every year.
 - **A3.** A) una lista de preguntas. Dice First, we made a list of questions.
 - **Z1.** A) presentar un afiche. Dice we would present a poster.
-- **Z2.** B) una opinión de expertos que contrasta con la costumbre. However opone el desayuno saludable con comer comida rápida.
+- **Z2.** A) una opinión de expertos que contrasta con la costumbre. However opone el desayuno saludable con comer comida rápida.
 - **D1.** A) un desayuno saludable para mantenerse atento. Lo dice el fragmento B.
 - **D2.** A) tráfico pesado; elegir el bus. Cada fragmento aporta una parte.
 - **S1.** B) do research, have a look y make a decision. Son las combinaciones usadas en el texto.
@@ -979,7 +979,7 @@ Respuesta: teacher; pianist; actress
 
 **Errores frecuentes y cómo reconocerlos**
 
-- **Error:** Usar dis- antes de una palabra que comienza con r. **Por qué ocurre:** Se aplica un solo prefijo para todo. **Cómo corregirlo:** Antes de r se usa ir-: irregular, irresponsible.
+- **Error:** Decir disregular en vez de irregular. **Por qué ocurre:** Se aplica un solo prefijo para todas las palabras. **Cómo corregirlo:** Con regular y responsible se usa ir-; con like y agree se usa dis-. Aprende cada palabra completa.
 - **Error:** Agregar -ful a cualquier palabra sin comprobar que existe. **Por qué ocurre:** Se supone que siempre funciona. **Cómo corregirlo:** Aprende las combinaciones: helpful, careful, colourful.
 
 **Ejercicios**
@@ -987,7 +987,7 @@ Respuesta: teacher; pianist; actress
 *Recuperación*
 
 - **R1.** ¿Qué palabra significa «no regular»? A) irregular B) disregular
-- **R2.** ¿Qué palabra significa «no estar de acuerdo»? A) disagree B) irgree
+- **R2.** ¿Qué palabra significa «no estar de acuerdo»? A) disagree B) unagree
 - **R3.** ¿Qué palabra significa «lleno de color»? A) colourful B) colourous
 
 *Comprensión*
@@ -1010,11 +1010,11 @@ Respuesta: teacher; pianist; actress
 *Desafío*
 
 - **D1.** Un afiche dice: «Join our colourful festival!» ¿Qué tipo de festival promete? A) uno sin color B) uno lleno de color
-- **D2.** En «The tourist was careful with the map», ¿qué palabras tienen sufijo? A) map y with B) tourist y careful
+- **D2.** En «The tourist was careful with the map», ¿qué palabras tienen sufijo? A) tourist y careful B) tourist y map
 
 *Situaciones auténticas*
 
-- **S1.** Lees en un aviso: «Dear tourists, the history centre has a helpful guide. Please be careful with the old pieces.» (history centre = centro de historia, tourists = turistas, helpful = servicial, careful = cuidadoso, pieces = piezas). ¿Qué piden y qué ofrecen? A) piden silencio y ofrecen comida B) piden cuidado y ofrecen un guía servicial
+- **S1.** Lees en un aviso: «Dear tourists, the history centre has a helpful guide. Please be careful with the old pieces.» (history centre = centro de historia, tourists = turistas, helpful = servicial, careful = cuidadoso, pieces = piezas). ¿Qué piden y qué ofrecen? A) piden ayuda y ofrecen un guía cuidadoso B) piden cuidado y ofrecen un guía servicial
 
 *Autoevaluación*
 
@@ -1026,7 +1026,7 @@ Respuesta: teacher; pianist; actress
 
 **Solucionario razonado**
 
-- **R1.** A) irregular. Antes de r se usa ir-.
+- **R1.** A) irregular. Regular forma irregular; disregular no existe.
 - **R2.** A) disagree. Dis- forma el opuesto de agree.
 - **R3.** A) colourful. -ful significa lleno de.
 - **C1.** A) persona que canta. -er indica quien hace la acción.
@@ -1038,7 +1038,7 @@ Respuesta: teacher; pianist; actress
 - **Z1.** B) dishonest. Dishonest se forma con dis-; ir- se usa solo antes de r.
 - **Z2.** B) She is an actress.. La forma es actress.
 - **D1.** B) uno lleno de color. Colourful significa lleno de color.
-- **D2.** B) tourist y careful. Tourist lleva -ist y careful lleva -ful.
+- **D2.** A) tourist y careful. Tourist lleva -ist y careful lleva -ful.
 - **S1.** B) piden cuidado y ofrecen un guía servicial. Careful y helpful se explican por -ful.
 - **E1.** Un significado opuesto o negativo. Por ejemplo, dislike.
 - **E2.** Antes de palabras que empiezan con r, como irregular. Forma un opuesto.

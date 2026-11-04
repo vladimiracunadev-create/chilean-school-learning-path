@@ -124,7 +124,7 @@ Para elegir el género, pregúntate para qué escribes y para quién. Un correo 
 
 *Ejemplo 1. Reconocer un correo formal*
 
-Problema: Texto: «Dear Ms. Rojas, I am writing to ask if I can hand in my science project on Friday. I was ill on Monday. Thank you for your time. Best regards, Camila» (hand in = entregar; project = trabajo; ill = enferma; thank you for your time = gracias por su tiempo; best regards = saludos cordiales) ¿Qué género es, cuál es su propósito y por qué es formal?
+Problema: Texto: «Dear Ms. Rojas, I am writing to ask if I can turn in my science project on Friday. I was sick on Monday. Thank you for your time. Best regards, Camila» (turn in = entregar; project = trabajo; sick = enferma; thank you for your time = gracias por su tiempo; best regards = saludos cordiales) ¿Qué género es, cuál es su propósito y por qué es formal?
 
 1. Empieza con Dear Ms. Rojas y termina con Best regards.
 2. Pide permiso para entregar un trabajo otro día: eso es el propósito.
@@ -152,7 +152,7 @@ Respuesta: Fecha, primera persona y sentimientos personales
 *Recuperación*
 
 - **R1.** Las instrucciones (instructions) enseñan A) la vida de una persona B) pasos para hacer algo, en orden C) qué sintió alguien hoy
-- **R2.** Una biografía (biography) cuenta A) la vida de una persona real B) una receta C) un chiste
+- **R2.** Lee: «One night, Teo heard a noise in the attic. He took a flashlight and climbed the stairs. It was only the wind, and Teo laughed.» (attic = entretecho; flashlight = linterna; climbed = subió; stairs = escalera; wind = viento) ¿Qué género es? A) Una descripción, porque dice cómo es un lugar B) Un cuento, porque narra hechos con un personaje C) Un artículo, porque informa un hecho real
 - **R3.** Un diario personal (journal) se escribe en A) un registro formal de empresa B) tercera persona sin fecha C) primera persona y con la fecha
 
 *Comprensión*
@@ -184,7 +184,7 @@ Respuesta: Fecha, primera persona y sentimientos personales
 *Autoevaluación*
 
 - **E1.** ¿Qué género usa saludo y despedida? A) Una rima B) Un correo o una carta
-- **E2.** Un resumen (summary) es un texto que A) copia el texto original completo B) cuenta lo más importante de otro texto en pocas palabras
+- **E2.** Original: «A small library in our town has a free reading club for children. Volunteers read stories aloud every Saturday. At first, ten children came, and now fifty come each week.» (volunteers = voluntarios; aloud = en voz alta) ¿Cuál es el mejor resumen (summary)? A) Volunteers read stories aloud every Saturday B) A town library's free reading club grew from ten to fifty children C) The town library is very big and has many books for adults
 - **E3.** Escribe en inglés la palabra que significa «folleto».
 
 **Actividad abierta.** Lee estos cuatro textos y escribe el género de cada uno y una pista: Texto A: «First, wash your hands. Next, wet them with water. Then rub them with soap. Finally, rinse and dry.» Texto B: «Dear Ana, thank you for the invitation. See you on Saturday! Love, Eva» Texto C: «The beach is wide and quiet. The sand is warm and the waves are gentle.» Texto D: «Pablo Neruda was born in 1904. He was a poet from Chile.» (wash = lavar; rub = frotar; soap = jabón; rinse = enjuagar; dry = secar; wide = ancha; waves = olas; gentle = suaves)
@@ -192,7 +192,7 @@ Respuesta: Fecha, primera persona y sentimientos personales
 **Solucionario razonado**
 
 - **R1.** B) pasos para hacer algo, en orden. Usan first, next, then y finally.
-- **R2.** A) la vida de una persona real. Lleva fechas y logros.
+- **R2.** B) Un cuento, porque narra hechos con un personaje. Narra una secuencia de hechos con un personaje, Teo, que sube la escalera y se ríe.
 - **R3.** C) primera persona y con la fecha. Cuenta lo que vive el autor.
 - **C1.** C) Un folleto. Invita a visitar, con horario y datos prácticos.
 - **C2.** B) Invitar a las personas a visitar la casa de mariposas. Dice Come and see! e incluye horario y precio.
@@ -206,7 +206,7 @@ Respuesta: Fecha, primera persona y sentimientos personales
 - **D2.** A) Dear diary, I feel sleepy today. Es una frase de diario, no de folleto.
 - **S1.** B) La nota 1. La nota 1 saluda, pide permiso y se despide.
 - **E1.** B) Un correo o una carta. Dear y Best regards son marcas de correo.
-- **E2.** B) cuenta lo más importante de otro texto en pocas palabras. Un resumen es breve y conserva las ideas principales.
+- **E2.** B) A town library's free reading club grew from ten to fifty children. Un resumen dice la idea principal sin agregar datos; la segunda opción es solo un detalle y la tercera inventa información.
 - **E3.** Brochure. Brochure es un folleto informativo.
 
 **Actividad abierta · ejemplo de respuesta.** A: instrucciones (first, next, then, finally). B: carta o correo informal (Dear Ana, Love). C: descripción (adjetivos como wide, quiet, warm). D: biografía (nació en 1904, tercera persona).
@@ -221,7 +221,7 @@ Respuesta: Fecha, primera persona y sentimientos personales
 
 **Refuerzo.** Copia los once géneros con su propósito y dibuja un símbolo para cada uno.
 
-**Profundización.** Escribe en español qué género usarías para pedir permiso al jefe de tu curso y qué saludo pondrías.
+**Profundización.** Elige un género que no practicaste (cuento, rima, biografía, resumen o artículo) y escribe en inglés tres o cuatro oraciones o versos con sus rasgos.
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -1024,7 +1024,7 @@ Respuesta: Faltan un dato, una pregunta, la despedida con nombre y la edición (
 
 *Situaciones auténticas*
 
-- **S1.** Antes de publicar en la página del curso, revisas un texto con estas líneas: título, saludo, tres datos generales, una pregunta y el nombre «Sofía». ¿Qué decides? A) No publicarlo, porque tiene nombre B) Publicarlo, porque cumple el criterio y no incluye datos privados C) No publicarlo, porque tiene una pregunta
+- **S1.** Antes de publicar en la página del curso, revisas un texto con estas líneas: título, saludo, tres datos generales, una pregunta y una despedida con el nombre «Sofía». ¿Qué decides? A) No publicarlo, porque tiene una pregunta B) No publicarlo, porque tiene nombre C) Publicarlo, porque cumple el criterio y no incluye datos privados
 
 *Autoevaluación*
 
@@ -1049,7 +1049,7 @@ Respuesta: Faltan un dato, una pregunta, la despedida con nombre y la edición (
 - **Z2.** B) El borrador 1. El borrador 2 no tiene tres datos ni pregunta.
 - **D1.** A) La quito, porque no aporta al propósito. Cada oración debe servir al propósito.
 - **D2.** C) Editar la forma y publicar. Después de revisar el contenido se edita la forma y luego se publica.
-- **S1.** B) Publicarlo, porque cumple el criterio y no incluye datos privados. Un nombre de pila y datos generales son aceptables.
+- **S1.** C) Publicarlo, porque cumple el criterio y no incluye datos privados. Un nombre de pila y datos generales son aceptables.
 - **E1.** A) Publicar. Publicar es compartir la versión final.
 - **E2.** A) El texto con el criterio. Así se detecta lo que falta.
 - **E3.** Greeting. Greeting es la frase con que se empieza un correo.

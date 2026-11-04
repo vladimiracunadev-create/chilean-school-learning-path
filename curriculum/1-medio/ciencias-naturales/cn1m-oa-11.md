@@ -194,7 +194,7 @@ Respuesta: 2 s
 - **C3.** cuaderno, papel mantequilla, vidrio limpio. El cuaderno es opaco, el papel es translúcido y el vidrio limpio es transparente.
 - **A1.** 10 cm. Se multiplica el tamaño por la distancia a la pantalla y se divide por la distancia al objeto. Cálculo: 2 × 50/10 = 10.
 - **A2.** 500 s. El tiempo se obtiene dividiendo la distancia por la rapidez. Cálculo: 150000000/300000 = 500.
-- **A3.** 25 cm. Al acercar el objeto a la lámpara, la sombra crece según la misma relación. Cálculo: 5 × 50/10 = 25.
+- **A3.** 25 cm. Con la misma pantalla y la misma distancia al objeto, un objeto más grande da una sombra proporcionalmente mayor. Cálculo: 5 × 50/10 = 25.
 - **Z1.** B. En un cuarto totalmente oscuro no vemos nada: hace falta luz que llegue al ojo.
 - **Z2.** B. Se puede medir el ancho de la sombra; la belleza es opinión.
 - **D1.** 15 cm. Se despeja la distancia lámpara–objeto de la misma regla de proporción. Cálculo: 3 × 90/18 = 15.
@@ -424,7 +424,7 @@ Respuesta: 4 m
 
 **Retroalimentación constructiva:** Pregunta cómo cambiaría el dibujo si el lápiz estuviera a 8 cm del espejo.
 
-**Refuerzo.** Escribe la distancia a la imagen cuando un objeto está a 7 cm de un espejo plano.
+**Refuerzo.** Un objeto está a 7 cm de un espejo plano. Escribe a qué distancia detrás del espejo queda su imagen y cuántos centímetros hay entre el objeto y su imagen.
 
 **Profundización.** Explica por qué un espejo cóncavo usado como espejo de maquillaje amplía el rostro solo si estás muy cerca de él.
 
@@ -730,7 +730,7 @@ Respuesta: Lente convergente, con el texto más cerca que el foco
 
 El modelo corpuscular imagina la luz como un chorro de partículas diminutas que viajan en línea recta. Explica bien la reflexión y las sombras nítidas. El modelo ondulatorio imagina la luz como una onda con longitud de onda y frecuencia. Explica además la refracción, la difracción y la interferencia. La física actual acepta que la luz se comporta como onda en unos experimentos y como partículas, llamadas fotones, en otros.
 
-La difracción es el curvado y la apertura de una onda al pasar por una rendija u orificio de tamaño parecido a su longitud de onda. La interferencia ocurre cuando dos ondas se superponen. Si coinciden cresta con cresta, la interferencia es constructiva y las amplitudes se suman. Si coincide cresta con valle, la interferencia es destructiva y las amplitudes se restan. Dos rendijas muy finas producen en una pantalla franjas claras y oscuras, evidencia de que la luz se comporta como onda. Los colores de una pompa de jabón también nacen de interferencia.
+La difracción es el curvado y la apertura de una onda al pasar por una rendija u orificio de tamaño parecido a su longitud de onda. La interferencia ocurre cuando dos ondas se superponen. Si coinciden cresta con cresta (se dice que las ondas están en fase), la interferencia es constructiva y las amplitudes se suman. Si coincide cresta con valle (se dice que las ondas están en oposición), la interferencia es destructiva y las amplitudes se restan. Dos rendijas muy finas producen en una pantalla franjas claras y oscuras, evidencia de que la luz se comporta como onda. Los colores de una pompa de jabón también nacen de interferencia.
 
 El efecto Doppler es el cambio de la frecuencia que percibe un observador cuando la fuente y el observador se acercan o se alejan. Una ambulancia suena más aguda al acercarse y más grave al alejarse. Con la luz ocurre algo parecido: si una galaxia se aleja, sus líneas de color se corren hacia longitudes de onda mayores (desplazamiento al rojo); si se acerca, se corren hacia longitudes menores (al azul). El radar de velocidad usa este efecto con ondas de radio.
 

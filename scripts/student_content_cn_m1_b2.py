@@ -55,7 +55,7 @@ L(OA, 1,
   app=[
       arith("Gritas frente a una pared y escuchas el eco 2 segundos después. El sonido viaja a 340 m/s en el aire. ¿A cuántos metros está la pared?", "340*2/2", "El sonido recorre ida y vuelta, así que la distancia a la pared es la mitad de lo recorrido.", " m"),
       ("En un cerro, una persona siente presión en el oído al subir en un vehículo. ¿Qué parte del oído iguala esa presión?", "La trompa de Eustaquio", "Conecta el oído medio con la garganta para equilibrar la presión."),
-      ("Se hacen sonar dos timbres idénticos, uno en el aire y otro dentro del agua. ¿Qué es necesario para que el sonido llegue al oído en ambos casos? A) Que exista un medio material B) Que haya vacío", "A", "El sonido solo se propaga por un medio."),
+      ("Se hacen sonar dos timbres idénticos, uno en el aire y otro dentro del agua. ¿Qué es necesario para que el sonido llegue al oído en ambos casos? A) Que exista un medio material que transmita la vibración B) Que el medio sea siempre aire", "A", "El sonido solo se propaga por un medio."),
   ],
   rea=[
       ("Una compañera dice que los canales semicirculares ayudan a oír los sonidos graves. ¿Es correcto? A) No: se relacionan con el equilibrio B) Sí: forman parte de la cóclea", "A", "Los canales semicirculares no participan de la audición."),
@@ -68,7 +68,7 @@ L(OA, 1,
   context=[ex("Después de un resfrío, un estudiante oye menos porque tiene líquido detrás del tímpano. Si sientes dolor de oído, avisa a una persona adulta. ¿En qué parte del oído hay líquido que no debería estar? A) En el oído medio B) En el oído externo", "A", "El tímpano separa el oído externo del medio; el líquido queda detrás de él.")],
   selfcheck=[("¿Por qué el sonido no viaja en el vacío?", "Porque necesita un medio material", "Las ondas sonoras hacen vibrar partículas."), ("¿Qué hacen los huesecillos?", "Transmiten y amplifican la vibración del tímpano", "Llevan la vibración al oído interno."), ("¿Qué parte del oído tiene células ciliadas?", "La cóclea", "Allí se generan las señales nerviosas.")],
   open_task=task("En tu cuaderno dibuja tres recuadros: oído externo, oído medio y oído interno. Ubica en ellos: pabellón auricular, conducto auditivo, tímpano, martillo, yunque, estribo, cóclea, nervio auditivo y trompa de Eustaquio. Con flechas, muestra por dónde viaja el sonido. Escribe una pregunta investigable sobre cómo se oye un reloj de pulsera a distintas distancias.", "Externo: pabellón y conducto. Medio: tímpano, martillo, yunque, estribo y trompa de Eustaquio. Interno: cóclea y nervio auditivo. Pregunta: «¿A cuántos metros deja de oírse un reloj de pulsera en una pieza silenciosa?»", ["ubica las nueve estructuras en el recuadro correcto", "flechas en el orden de la ruta", "pregunta con una medición"], ["dibujo con rótulos", "pregunta escrita"], ["poner la cóclea en el oído medio", "escribir una pregunta de opinión"], "Pregunta qué parte falla si el sonido llega al tímpano pero no se genera la señal nerviosa."),
-  reinforce="Escribe en orden las seis estructuras por las que pasa el sonido hasta llegar al nervio auditivo.",
+  reinforce="Escribe en orden las seis estructuras de la ruta del sonido, desde el pabellón auricular hasta el nervio auditivo, sin mirar el ejemplo resuelto.",
   extend="Explica por qué el oído medio necesita huesecillos y no solo un tímpano.")
 
 L(OA, 2,

@@ -160,7 +160,7 @@ Respuesta: «park», porque es una palabra clave
 
 - **A1.** Une cada idea con su conexión. 1) market 2) school 3) park Conexiones: a) teacher b) fruit c) families
 - **A2.** Diagrama de ideas (de ejemplo). Centro: «My Town». Rama 1, Places: park, market, school. Rama 2, People: neighbors, teacher. Rama 3, Food: bread, fruit. (town = pueblo, neighbors = vecinos, bread = pan) Un estudiante dice: «In the market, the neighbors buy bread and fruit.» ¿Qué conexión hace? A) Places con People y Food B) solo Food
-- **A3.** Diagrama de ideas (de ejemplo). Centro: «My Town». Rama 1, Places: park, market, school. Rama 2, People: neighbors, teacher. Rama 3, Food: bread, fruit. (town = pueblo, neighbors = vecinos, bread = pan) Quieres añadir una cuarta rama. ¿Cuál se relaciona con el tema? A) Festivals B) Volcanoes of Mars
+- **A3.** Diagrama de ideas (de ejemplo). Centro: «My Town». Rama 1, Places: park, market, school. Rama 2, People: neighbors, teacher. Rama 3, Food: bread, fruit. (town = pueblo, neighbors = vecinos, bread = pan) Quieres añadir una cuarta rama. ¿Cuál se relaciona con el tema? A) Festivals B) Sports in another country
 
 *Razonamiento y análisis*
 
@@ -590,7 +590,7 @@ Respuesta: Let me think
 *Desafío*
 
 - **D1.** Diálogo (de ejemplo). Ana: «What did you do yesterday?» Luis: «Well... I go... I mean, I went to the beach. It was... let me think... very windy.» Ana: «I see. Did you swim?» Luis: «No, but I... sorry, I played football on the sand. Then, after that, I had ice cream.» (windy = ventoso, sand = arena, ice cream = helado) Luis dice «No, but I... sorry, I played football». ¿Qué hace con «sorry»? A) se disculpa por faltar B) se interrumpe para corregir su respuesta
-- **D2.** Diálogo (de ejemplo). Ana: «What did you do yesterday?» Luis: «Well... I go... I mean, I went to the beach. It was... let me think... very windy.» Ana: «I see. Did you swim?» Luis: «No, but I... sorry, I played football on the sand. Then, after that, I had ice cream.» (windy = ventoso, sand = arena, ice cream = helado) ¿Cuántas veces se corrige Luis a sí mismo? A) una vez B) dos veces
+- **D2.** Diálogo (de ejemplo). Ana: «What did you do yesterday?» Luis: «Well... I go... I mean, I went to the beach. It was... let me think... very windy.» Ana: «I see. Did you swim?» Luis: «No, but I... sorry, I played football on the sand. Then, after that, I had ice cream.» (windy = ventoso, sand = arena, ice cream = helado) ¿Qué verbo corrige Luis con la frase I mean? A) cambia swim por swam B) cambia go por went
 
 *Situaciones auténticas*
 
@@ -618,7 +618,7 @@ Respuesta: Let me think
 - **Z1.** B) usar I mean y corregir el dato. Corregir mantiene la conversación.
 - **Z2.** B) un relleno y una pausa corta. La moderación hace el discurso natural.
 - **D1.** B) se interrumpe para corregir su respuesta. Sorry marca que cambia lo que iba a decir.
-- **D2.** B) dos veces. Se corrige con I mean (I go → I went) y con sorry (cambia lo que iba a decir).
+- **D2.** B) cambia go por went. Dice I go... I mean, I went to the beach.
 - **S1.** El tiempo del verbo: de presente a pasado. Cambias eat por ate para hablar del pasado.
 - **E1.** Para ganar tiempo al pensar. Evitan silencios largos.
 - **E2.** I mean…. Introduce la forma correcta.
@@ -998,7 +998,7 @@ Respuesta: I have lived here for five years.
 
 *Aplicación*
 
-- **A1.** Registro de errores de ejemplo (frases dichas por un estudiante): 1) «I have 15 years.» 2) «She go to school at eight.» 3) «I am agree with you.» 4) «People is happy.» 5) «I live here since five years.» (years = años, agree = estar de acuerdo, happy = contentos, since = desde, for = durante) Un estudiante registra 5 errores y corrige 3 en la semana. ¿Cuántos le quedan por corregir?
+- **A1.** Un estudiante registra «She have two brothers». ¿Cuál es la forma correcta? A) She has two brothers B) She haves two brothers
 - **A2.** Une cada error con su corrección. 1) I am agree. 2) People is. 3) She go. Correcciones: a) She goes. b) I agree. c) People are.
 - **A3.** Ordena los pasos de la pos hablada con letras. A) corregir con un recurso B) registrar el error C) identificar una debilidad
 
@@ -1032,7 +1032,7 @@ Respuesta: I have lived here for five years.
 - **C1.** A) People are happy. People es plural.
 - **C2.** A) un diccionario. Muestra cómo se usa la palabra.
 - **C3.** B) She go to school. Con she, el verbo lleva -s.
-- **A1.** 2. Se resta lo corregido de lo registrado. Cálculo: 5 − 3 = 2.
+- **A1.** A) She has two brothers. Con she, have cambia a has; haves no existe.
 - **A2.** 1-b, 2-c, 3-a. Cada corrección cambia la forma incorrecta.
 - **A3.** C, B, A. Primero identificas, luego registras y después corriges.
 - **Z1.** B) Hay que decir: I have lived here since 2020. Con since y un punto de inicio se usa el presente perfecto.

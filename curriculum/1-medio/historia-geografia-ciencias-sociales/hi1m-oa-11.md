@@ -155,8 +155,8 @@ Respuesta: Sociedad de la Igualdad: movilización política; Escuela Normal: sis
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1827, aparece El Mercurio de Valparaíso; 1830, comienza a circular El Araucano, periódico del gobierno; 1842, se funda la Universidad de Chile, con Andrés Bello como primer rector, y la Escuela Normal de Preceptores; 1850, nace la Sociedad de la Igualdad; 1860, Ley de Instrucción Primaria; 1877, el decreto Amunátegui permite el ingreso de mujeres a la universidad. ¿Cuántos años pasaron entre la ley de instrucción primaria y el decreto que permitió a las mujeres entrar a la universidad?
-- **A2.** Línea de tiempo: 1827, aparece El Mercurio de Valparaíso; 1830, comienza a circular El Araucano, periódico del gobierno; 1842, se funda la Universidad de Chile, con Andrés Bello como primer rector, y la Escuela Normal de Preceptores; 1850, nace la Sociedad de la Igualdad; 1860, Ley de Instrucción Primaria; 1877, el decreto Amunátegui permite el ingreso de mujeres a la universidad. ¿Cuántos años pasaron entre la aparición de El Mercurio de Valparaíso y la Sociedad de la Igualdad?
+- **A1.** Línea de tiempo: 1827, aparece El Mercurio de Valparaíso; 1830, comienza a circular El Araucano, periódico del gobierno; 1842, se funda la Universidad de Chile, con Andrés Bello como primer rector, y la Escuela Normal de Preceptores; 1850, nace la Sociedad de la Igualdad; 1860, Ley de Instrucción Primaria; 1877, el decreto Amunátegui permite el ingreso de mujeres a la universidad. Ordena de más antiguo a más reciente estos hechos de la línea: Ley de Instrucción Primaria, aparición de El Mercurio de Valparaíso, fundación de la Universidad de Chile y decreto Amunátegui.
+- **A2.** Línea de tiempo: 1827, aparece El Mercurio de Valparaíso; 1830, comienza a circular El Araucano, periódico del gobierno; 1842, se funda la Universidad de Chile, con Andrés Bello como primer rector, y la Escuela Normal de Preceptores; 1850, nace la Sociedad de la Igualdad; 1860, Ley de Instrucción Primaria; 1877, el decreto Amunátegui permite el ingreso de mujeres a la universidad. ¿Qué dos hechos de la línea ocurren en 1842 y a qué sistema pertenecen?
 - **A3.** Clasifica estos dos espacios: A) un periódico que discute leyes, B) una escuela que enseña a leer. ¿Cuál es de opinión pública?
 
 *Razonamiento y análisis*
@@ -189,8 +189,8 @@ Respuesta: Sociedad de la Igualdad: movilización política; Escuela Normal: sis
 - **C1.** El decreto Amunátegui. La línea lo menciona con ese nombre.
 - **C2.** A. Son conceptos distintos y complementarios.
 - **C3.** El acceso fue desigual: muchas personas no sabían leer y las mujeres entraron recién en 1877. La educación creció, pero con exclusiones.
-- **A1.** 17. Se restan las dos fechas de la línea. Cálculo: 1877 − 1860 = 17.
-- **A2.** 23. Se restan las fechas de ambos hitos. Cálculo: 1850 − 1827 = 23.
+- **A1.** El Mercurio de Valparaíso, Universidad de Chile, Ley de Instrucción Primaria, decreto Amunátegui. Se ordenan por sus años: 1827, 1842, 1860 y 1877.
+- **A2.** La Universidad de Chile y la Escuela Normal de Preceptores; ambos son del sistema educacional. Los dos son instituciones de enseñanza.
 - **A3.** A. El periódico discute asuntos comunes; la escuela forma.
 - **Z1.** La Escuela Normal de Preceptores en 1842, porque preparaba a quienes enseñarían en las escuelas. Su función es formar docentes.
 - **Z2.** Porque muchas personas no sabían leer ni escribir y mujeres, pobres y pueblos originarios tenían menos acceso a esos espacios. Los espacios de opinión y educación eran desiguales.
@@ -364,8 +364,8 @@ Respuesta: Hay interés en educar, pero el acceso era desigual por territorio
 
 *Aplicación*
 
-- **A1.** Fuente A (editorial de un periódico, texto de ejemplo): «Quien sabe leer participa en los asuntos de la República; abramos escuelas para que ninguna familia quede sin el beneficio de las letras.» Fuente B (registro de una escuela rural, texto de ejemplo): «De 40 niños inscritos asisten 22 en invierno; los caminos están cortados por la lluvia.» Fuente C (tabla de ejemplo): en una ciudad de ejemplo saben leer 45 de cada 100 habitantes; en una zona rural de ejemplo, 12 de cada 100. Fuente D (historiadora actual, texto de ejemplo): «La expansión escolar fue real, pero desigual según territorio y género.» ¿Cuántos niños inscritos en la escuela de la Fuente B no asisten en invierno?
-- **A2.** Fuente A (editorial de un periódico, texto de ejemplo): «Quien sabe leer participa en los asuntos de la República; abramos escuelas para que ninguna familia quede sin el beneficio de las letras.» Fuente B (registro de una escuela rural, texto de ejemplo): «De 40 niños inscritos asisten 22 en invierno; los caminos están cortados por la lluvia.» Fuente C (tabla de ejemplo): en una ciudad de ejemplo saben leer 45 de cada 100 habitantes; en una zona rural de ejemplo, 12 de cada 100. Fuente D (historiadora actual, texto de ejemplo): «La expansión escolar fue real, pero desigual según territorio y género.» ¿Cuántos puntos de diferencia hay entre la alfabetización de la ciudad (45 por cada 100) y la zona rural (12 por cada 100)?
+- **A1.** Fuente A (editorial de un periódico, texto de ejemplo): «Quien sabe leer participa en los asuntos de la República; abramos escuelas para que ninguna familia quede sin el beneficio de las letras.» Fuente B (registro de una escuela rural, texto de ejemplo): «De 40 niños inscritos asisten 22 en invierno; los caminos están cortados por la lluvia.» Fuente C (tabla de ejemplo): en una ciudad de ejemplo saben leer 45 de cada 100 habitantes; en una zona rural de ejemplo, 12 de cada 100. Fuente D (historiadora actual, texto de ejemplo): «La expansión escolar fue real, pero desigual según territorio y género.» En invierno, ¿asiste más de la mitad o menos de la mitad de los niños inscritos en la escuela de la Fuente B?
+- **A2.** Fuente A (editorial de un periódico, texto de ejemplo): «Quien sabe leer participa en los asuntos de la República; abramos escuelas para que ninguna familia quede sin el beneficio de las letras.» Fuente B (registro de una escuela rural, texto de ejemplo): «De 40 niños inscritos asisten 22 en invierno; los caminos están cortados por la lluvia.» Fuente C (tabla de ejemplo): en una ciudad de ejemplo saben leer 45 de cada 100 habitantes; en una zona rural de ejemplo, 12 de cada 100. Fuente D (historiadora actual, texto de ejemplo): «La expansión escolar fue real, pero desigual según territorio y género.» ¿Cuál de las Fuentes A o C permite comparar la alfabetización entre ciudad y campo?
 - **A3.** Fuente A (editorial de un periódico, texto de ejemplo): «Quien sabe leer participa en los asuntos de la República; abramos escuelas para que ninguna familia quede sin el beneficio de las letras.» Fuente B (registro de una escuela rural, texto de ejemplo): «De 40 niños inscritos asisten 22 en invierno; los caminos están cortados por la lluvia.» Fuente C (tabla de ejemplo): en una ciudad de ejemplo saben leer 45 de cada 100 habitantes; en una zona rural de ejemplo, 12 de cada 100. Fuente D (historiadora actual, texto de ejemplo): «La expansión escolar fue real, pero desigual según territorio y género.» Según la Fuente C, ¿en cuál de los dos territorios sabe leer una proporción menor de habitantes?
 
 *Razonamiento y análisis*
@@ -398,8 +398,8 @@ Respuesta: Hay interés en educar, pero el acceso era desigual por territorio
 - **C1.** A. El editorial defiende ampliar la educación.
 - **C2.** Los caminos están cortados por la lluvia. El registro lo indica.
 - **C3.** Porque un editorial expresa una petición o postura y no prueba que se cumpliera. El editorial tiene intención, no es registro de hechos.
-- **A1.** 18. Se restan los que asisten de los inscritos. Cálculo: 40 − 22 = 18.
-- **A2.** 33. Se restan las dos cifras de la tabla. Cálculo: 45 − 12 = 33.
+- **A1.** Más de la mitad, porque asisten 22 de 40 y la mitad son 20. 22 supera a 20, que es la mitad de 40.
+- **A2.** La Fuente C, porque trae cifras para ambos territorios. El editorial no trae datos de comparación.
 - **A3.** En la zona rural. Su cifra es 12 de cada 100.
 - **Z1.** Porque el editorial muestra lo que se pedía y el registro muestra lo que sucedía en una escuela rural. Contrastar revela la distancia entre lo declarado y lo ocurrido.
 - **Z2.** La expansión escolar fue real, pero desigual entre ciudad y campo. Une el dato y la interpretación.
@@ -572,8 +572,8 @@ Respuesta: Porque faltaban escuelas cercanas y el acceso dependía de distancia,
 
 *Aplicación*
 
-- **A1.** Una zona rural de ejemplo tiene 5 escuelas para 1.200 niños en edad escolar. ¿Cuántos niños hay en promedio por escuela?
-- **A2.** En una ciudad de ejemplo hay 12 escuelas para 1.200 niños. ¿Cuántos niños hay en promedio por escuela?
+- **A1.** Explica por qué, en una zona rural, una ley de escuelas gratuitas puede no lograr que los niños asistan.
+- **A2.** ¿Qué diferencia hay entre una ley que dispone escuelas gratuitas y una ley que hace la escuela obligatoria?
 - **A3.** Explica por qué la misma ley de 1860 pudo tener efectos distintos en ciudad y campo.
 
 *Razonamiento y análisis*
@@ -606,8 +606,8 @@ Respuesta: Porque faltaban escuelas cercanas y el acceso dependía de distancia,
 - **C1.** Cambio. El cuadro lo presenta como novedad.
 - **C2.** Continuidad. El cuadro lo lista como lo que se mantuvo.
 - **C3.** B. Gratuita no es lo mismo que obligatoria.
-- **A1.** 240. Se reparte el total entre las escuelas. Cálculo: 1200 ÷ 5 = 240.
-- **A2.** 100. Se reparte el total entre las escuelas. Cálculo: 1200 ÷ 12 = 100.
+- **A1.** Porque faltan escuelas cercanas y la distancia, el clima y el trabajo de la familia dificultan asistir. La gratuidad no elimina los obstáculos de territorio.
+- **A2.** La gratuita no cobra, pero no obliga a asistir; la obligatoria exige que las familias envíen a los niños. Gratuita y obligatoria son conceptos distintos.
 - **A3.** Porque en las ciudades había más escuelas y en el campo la distancia, el clima y el trabajo dificultaban asistir. El territorio condiciona la aplicación de una ley.
 - **Z1.** Que las mujeres tardaron décadas en acceder a la universidad, pese a la expansión. La exclusión de género continuó.
 - **Z2.** Las mujeres solo pudieron ingresar en 1877 y muchas personas del campo no sabían leer. Hay datos de continuidad de la exclusión.
@@ -723,7 +723,7 @@ Respuesta: Porque faltaban escuelas cercanas y el acceso dependía de distancia,
 
 **Explicación.**
 
-Los espacios de opinión pública y de educación no se crearon solos. El Estado impulsó la Universidad de Chile, la Escuela Normal y la ley de instrucción primaria para formar ciudadanos y profesores. Intelectuales como Andrés Bello, Domingo Faustino Sarmiento y José Victorino Lastarria participaron en la universidad, en la escuela normal y en la Sociedad Literaria; los historiadores escribieron relatos del pasado nacional.
+Los espacios de opinión pública y de educación no se crearon solos. El Estado impulsó la Universidad de Chile, la Escuela Normal y la ley de instrucción primaria para formar ciudadanos y profesores. Intelectuales como Andrés Bello y José Victorino Lastarria participaron en la universidad y en la Sociedad Literaria; los historiadores escribieron relatos del pasado nacional.
 
 También actuaron grupos de la sociedad. Artesanos y trabajadores formaron organizaciones, como la Sociedad de la Igualdad, para participar en la vida pública. Hubo debates sobre quién debía dirigir la educación: el Estado, la Iglesia o ambos. Las mujeres pidieron poder estudiar y obtuvieron el decreto Amunátegui en 1877. Cada actor tenía intereses distintos: formar ciudadanos, difundir una cultura, ganar participación o abrir derechos.
 
@@ -781,8 +781,8 @@ Respuesta: El ministro habla del proyecto; la maestra, de las condiciones reales
 
 *Aplicación*
 
-- **A1.** En una escuela de ejemplo hay 60 alumnos y 20 libros de lectura. ¿Cuántos alumnos hay por cada libro?
-- **A2.** Una sociedad de artesanos de ejemplo tiene 90 socios; 35 saben leer y el resto no. ¿Cuántos socios no saben leer?
+- **A1.** Voces de ejemplo, redactadas para este cuaderno. Ministro de educación: «Las escuelas formarán ciudadanos que conozcan las leyes de la República.» Maestra de una escuela primaria: «Mis alumnos aprenden a leer, pero faltan libros y bancas.» Escritor de la Sociedad Literaria: «Necesitamos una literatura que hable de Chile y de su gente.» Artesano de la Sociedad de la Igualdad: «Queremos que los trabajadores también participen en la vida pública.» Mujer que desea estudiar: «Pido poder rendir los exámenes de la universidad.» ¿Qué diferencia hay entre lo que dice el ministro y lo que describe la maestra?
+- **A2.** Según la explicación, ¿por qué el Estado quería escuelas y universidad?
 - **A3.** Voces de ejemplo, redactadas para este cuaderno. Ministro de educación: «Las escuelas formarán ciudadanos que conozcan las leyes de la República.» Maestra de una escuela primaria: «Mis alumnos aprenden a leer, pero faltan libros y bancas.» Escritor de la Sociedad Literaria: «Necesitamos una literatura que hable de Chile y de su gente.» Artesano de la Sociedad de la Igualdad: «Queremos que los trabajadores también participen en la vida pública.» Mujer que desea estudiar: «Pido poder rendir los exámenes de la universidad.» Explica por qué la nación no era la misma idea para el ministro y para el artesano.
 
 *Razonamiento y análisis*
@@ -815,8 +815,8 @@ Respuesta: El ministro habla del proyecto; la maestra, de las condiciones reales
 - **C1.** B. Describe una limitación material de la escuela.
 - **C2.** 1-b, 2-a, 3-c. Cada voz expresa un interés distinto.
 - **C3.** A. El decreto Amunátegui abrió la universidad a las mujeres.
-- **A1.** 3. Se divide el número de alumnos entre los libros. Cálculo: 60 ÷ 20 = 3.
-- **A2.** 55. Se resta los que saben leer del total. Cálculo: 90 − 35 = 55.
+- **A1.** El ministro habla del proyecto de formar ciudadanos y la maestra de la falta de libros y bancas en el aula. Uno habla del plan y la otra de la práctica.
+- **A2.** Para formar ciudadanos, profesores y difundir la idea de nación. El Estado buscaba organizar la nación.
 - **A3.** El ministro pensaba en formar ciudadanos desde el Estado y el artesano pedía participación de los trabajadores. Sus intereses y poderes eran distintos.
 - **Z1.** La demanda de personas que querían leer y participar o el crecimiento de las ciudades. La multicausalidad incluye demanda social.
 - **Z2.** El ministro decide el proyecto y la maestra lo aplica con pocos recursos. Sus posiciones en el sistema son distintas.
@@ -985,13 +985,13 @@ Respuesta: Porque usa «todos» y el dossier no prueba lo que pensaba cada perso
 *Comprensión*
 
 - **C1.** Dossier de ejemplo. Dato 1: se fundó la Universidad de Chile (1842) y la Escuela Normal de Preceptores (1842). Dato 2: la Ley de Instrucción Primaria de 1860 fijó escuelas gratuitas. Dato 3: la prensa y la historiografía difundieron relatos comunes sobre el pasado de Chile. Dato 4: en el campo había menos escuelas y las mujeres solo ingresaron a la universidad en 1877. ¿Qué dato muestra espacios de opinión pública y de relatos comunes?
-- **C2.** Elige la tesis mejor formulada. A) La educación fue un invento sin importancia, B) La prensa y la educación ayudaron a difundir una idea común de nación, aunque con exclusiones, C) Todos pensaban igual.
+- **C2.** Elige la tesis mejor formulada. A) La educación llegó por igual a todos los chilenos, B) La prensa y la educación ayudaron a difundir una idea común de nación, aunque con exclusiones, C) Se fundó la Universidad de Chile en 1842.
 - **C3.** Una compañera usa solo el dato 1 para decir que «la educación llegó a todos». ¿Qué le falta?
 
 *Aplicación*
 
-- **A1.** Dossier de ejemplo. Dato 1: se fundó la Universidad de Chile (1842) y la Escuela Normal de Preceptores (1842). Dato 2: la Ley de Instrucción Primaria de 1860 fijó escuelas gratuitas. Dato 3: la prensa y la historiografía difundieron relatos comunes sobre el pasado de Chile. Dato 4: en el campo había menos escuelas y las mujeres solo ingresaron a la universidad en 1877. Si el dossier tiene 4 datos y 2 muestran expansión (1 y 2), ¿cuántos datos quedan para otros temas?
-- **A2.** Un grupo de ejemplo escribe un texto de 12 líneas: 2 de tesis, 6 de evidencia y el resto de límite. ¿Cuántas líneas son de límite?
+- **A1.** Dossier de ejemplo. Dato 1: se fundó la Universidad de Chile (1842) y la Escuela Normal de Preceptores (1842). Dato 2: la Ley de Instrucción Primaria de 1860 fijó escuelas gratuitas. Dato 3: la prensa y la historiografía difundieron relatos comunes sobre el pasado de Chile. Dato 4: en el campo había menos escuelas y las mujeres solo ingresaron a la universidad en 1877. ¿Qué dos datos del dossier sirven para mostrar la expansión de la educación?
+- **A2.** Un grupo escribe una tesis y cita el dato 1 sin explicar qué demuestra. ¿Qué debe agregar?
 - **A3.** Dossier de ejemplo. Dato 1: se fundó la Universidad de Chile (1842) y la Escuela Normal de Preceptores (1842). Dato 2: la Ley de Instrucción Primaria de 1860 fijó escuelas gratuitas. Dato 3: la prensa y la historiografía difundieron relatos comunes sobre el pasado de Chile. Dato 4: en el campo había menos escuelas y las mujeres solo ingresaron a la universidad en 1877. Con los datos 2 y 4, redacta una conclusión proporcional.
 
 *Razonamiento y análisis*
@@ -1024,8 +1024,8 @@ Respuesta: Porque usa «todos» y el dossier no prueba lo que pensaba cada perso
 - **C1.** El dato 3. Menciona prensa e historiografía.
 - **C2.** B. Es defendible con datos y reconoce un límite.
 - **C3.** El dato 4, que muestra que el campo y las mujeres tenían menos acceso. La evidencia es parcial.
-- **A1.** 2. Se restan los datos usados. Cálculo: 4 − 2 = 2.
-- **A2.** 4. Se restan tesis y evidencias del total. Cálculo: 12 − 2 − 6 = 4.
+- **A1.** Los datos 1 y 2. Hablan de la universidad, la escuela normal y la ley de 1860.
+- **A2.** Una explicación de qué demuestra ese dato sobre la tesis. No basta con citar: hay que explicar.
 - **A3.** La ley de 1860 fijó escuelas gratuitas, pero el acceso fue menor en el campo y las mujeres tardaron en llegar a la universidad. Une expansión y exclusión sin exagerar.
 - **Z1.** Porque evita afirmar más de lo que los datos permiten. El límite protege de la exageración.
 - **Z2.** Afirma «todas» sin evidencia; el dato 4 muestra desigualdades que continuaron. Hay datos contrarios.

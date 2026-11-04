@@ -12,21 +12,21 @@ OA6 = "EN1M OA 06"
 MATR = "Los textos escritos en cada ejercicio; lápiz, resaltador o lápices de colores y hoja."
 
 # ================================================================ OA 06 · clase 1: antes de leer
-BEE = "Título: «Why Bees Matter». Subtítulo: «Small insects, big job». Texto: «Bees carry pollen from flower to flower. This helps plants make fruit and seeds. Without bees, we would have fewer apples, almonds and berries. Some farmers place hives near their fields so that the harvest is bigger. Bees are in danger because of pesticides and the loss of flowers.» (bees = abejas, matter = importar, pollen = polen, fewer = menos, hives = colmenas, harvest = cosecha, pesticides = pesticidas, loss = pérdida)"
+BEE = "Título: «Why Dark Skies Matter». Subtítulo: «Seeing the stars in northern Chile». Texto: «In the north of Chile the night sky is very clear and dark. Astronomers use big telescopes there to study stars and planets. Visitors also travel to the desert to look at the stars. Some towns turn off extra lights so that the sky stays dark. Dark skies are in danger because of city lights and the growth of towns.» (dark = oscuro, sky = cielo, astronomers = astrónomos, telescopes = telescopios, study = estudiar, turn off = apagar, extra = sobrantes, danger = peligro, growth = crecimiento)"
 
 lesson(
     OA6, 1, MATR,
     "Aprenderé a prepararme antes de leer: fijar un propósito, hacer predicciones con el título y el subtítulo y usar lo que ya sé. Sirve para leer más rápido y entender mejor un texto en inglés.",
     ["Sé que el título resume el tema.", "Sé leer palabras que se parecen al español."],
     [
-        "Leer bien empieza antes de la primera línea. Primero fija un propósito de lectura (reading purpose): ¿para qué leo? Puedes leer para saber por qué un animal está en peligro, para hacer una tarea o para elegir un libro. El propósito decide qué buscar: si quieres saber las causas del peligro, buscarás palabras como danger o because.",
-        "Luego haz una predicción (prediction): imagina qué tratará el texto usando el título, el subtítulo, las imágenes y los datos de la portada. «Why Bees Matter» sugiere un texto que explica la importancia de las abejas. «Small insects, big job» refuerza la idea: insectos pequeños con un trabajo importante. Tu predicción puede ser parcial o equivocada; lo importante es comprobarla después.",
-        "También activa tus conocimientos previos: lo que ya sabes de las abejas (hacen miel, viven en colmenas, pican) te ayuda a entender el vocabulario. Cuando lees, compara lo que sabías con lo nuevo. Esas tres acciones (propósito, predicción y conocimientos previos) forman la pre lectura (pre-reading).",
+        "Leer bien empieza antes de la primera línea. Primero fija un propósito de lectura (reading purpose): ¿para qué leo? Puedes leer para saber por qué algo está en peligro, para hacer una tarea o para elegir un libro. El propósito decide qué buscar: si quieres saber las causas del peligro, buscarás palabras como danger o because.",
+        "Luego haz una predicción (prediction): imagina qué tratará el texto usando el título, el subtítulo, las imágenes y los datos de la portada. «Why Dark Skies Matter» sugiere un texto que explica por qué importan los cielos oscuros. «Seeing the stars in northern Chile» precisa el lugar y el tema: observar las estrellas en el norte del país. Tu predicción puede ser parcial o equivocada; lo importante es comprobarla después.",
+        "También activa tus conocimientos previos: lo que ya sabes de la noche en el campo o en el desierto (se ven más estrellas lejos de la ciudad) te ayuda a entender el vocabulario. Cuando lees, compara lo que sabías con lo nuevo. Esas tres acciones (propósito, predicción y conocimientos previos) forman la pre lectura (pre-reading).",
     ],
     [("reading purpose", "propósito de lectura: para qué leo"), ("prediction", "predicción: lo que imagino que dirá el texto"), ("prior knowledge", "conocimientos previos"), ("title", "título"), ("subtitle", "subtítulo"), ("pre-reading", "pre lectura: lo que hago antes de leer")],
     [
-        ("Predecir con el título", "Lees solo el título «Why Bees Matter» y el subtítulo «Small insects, big job». ¿De qué crees que tratará el texto?", ["El título habla de bees y matter (importar).", "El subtítulo habla de insectos pequeños con un trabajo grande.", "Predigo que explica por qué las abejas son importantes."], "De por qué las abejas son importantes aunque sean pequeñas"),
-        ("Propósito de lectura", BEE + " Quieres saber por qué las abejas están en peligro. ¿Qué palabras buscas?", ["Mi propósito son las causas del peligro.", "Busco danger, because y pesticides.", "Las encuentro en la última oración."], "Danger, because, pesticides y loss of flowers"),
+        ("Predecir con el título", "Lees solo el título «Why Dark Skies Matter» y el subtítulo «Seeing the stars in northern Chile». ¿De qué crees que tratará el texto?", ["El título habla de dark skies y matter (importar).", "El subtítulo habla de ver las estrellas en el norte de Chile.", "Predigo que explica por qué importa mantener oscuro el cielo."], "De por qué importan los cielos oscuros para ver las estrellas en el norte de Chile"),
+        ("Propósito de lectura", BEE + " Quieres saber por qué los cielos oscuros están en peligro. ¿Qué palabras buscas?", ["Mi propósito son las causas del peligro.", "Busco danger y because.", "Las encuentro en la última oración."], "Danger, because, city lights y growth of towns"),
     ],
     [
         ("Leer sin fijar un propósito.", "Se lee todo igual, sin saber qué buscar.", "Antes de leer, escribe para qué lees."),
@@ -34,26 +34,26 @@ lesson(
     ],
     [
         ("Lees el título «Save the Water» y el subtítulo «Ten ways to use less at home». ¿De qué es más probable que trate? A) de formas de gastar menos agua en casa B) de la historia de los ríos del mundo", "A) de formas de gastar menos agua en casa", "Save the water y use less at home hablan de ahorrar agua en la casa."),
-        (BEE + " ¿Qué lleva la abeja de flor en flor?", "Polen", "El texto dice Bees carry pollen."),
-        (BEE + " ¿Cuál es el subtítulo?", "Small insects, big job", "Está después del título."),
+        (BEE + " ¿Qué usan los astrónomos en el norte de Chile para estudiar estrellas y planetas?", "Grandes telescopios", "El texto dice Astronomers use big telescopes there."),
+        (BEE + " ¿Cuál es el subtítulo?", "Seeing the stars in northern Chile", "Está después del título."),
     ],
     [
-        (BEE + " ¿Cuál es el propósito del texto? A) informar sobre las abejas B) vender miel", "A) informar sobre las abejas", "Explica su función y su peligro."),
-        (BEE + " ¿Qué pasaría sin las abejas?", "Habría menos manzanas, almendras y bayas", "El texto dice we would have fewer apples, almonds and berries."),
-        (BEE + " ¿Qué propósito de lectura es adecuado para saber cómo ayudan a las plantas? A) buscar la parte de pollen y fruit B) leer solo el subtítulo", "A) buscar la parte de pollen y fruit", "Esa parte explica cómo ayudan."),
+        (BEE + " ¿Cuál es el propósito del texto? A) informar sobre el valor de los cielos oscuros B) vender telescopios", "A) informar sobre el valor de los cielos oscuros", "Explica para qué se usan y qué los amenaza."),
+        (BEE + " ¿Qué hacen algunos pueblos para que el cielo siga oscuro?", "Apagan las luces sobrantes", "El texto dice Some towns turn off extra lights."),
+        (BEE + " ¿Qué propósito de lectura es adecuado para saber quién usa el cielo del norte? A) buscar las partes con astronomers y visitors B) leer solo el título", "A) buscar las partes con astronomers y visitors", "Esas oraciones nombran a quienes lo usan."),
     ],
     [
-        (BEE + " Predijiste que el texto hablaría solo de miel. Después de leer, ¿se confirma? A) no del todo: habla de polen, cosechas y peligro B) sí, solo de miel", "A) no del todo: habla de polen, cosechas y peligro", "Ninguna oración habla de miel."),
-        (BEE + " ¿Para qué ponen colmenas cerca de los campos algunos agricultores? A) para que la cosecha sea mayor B) para vender abejas", "A) para que la cosecha sea mayor", "Dice so that the harvest is bigger."),
-        (BEE + " ¿Cuántas amenazas para las abejas nombra el texto? A) dos B) tres", "A) dos", "Nombra los pesticidas y la pérdida de flores."),
+        (BEE + " Predijiste que el texto hablaría solo de telescopios. Después de leer, ¿se confirma? A) no del todo: habla también de visitantes, pueblos y peligro B) sí, solo de telescopios", "A) no del todo: habla también de visitantes, pueblos y peligro", "Además de los telescopios hay visitantes, pueblos que apagan luces y una amenaza."),
+        (BEE + " ¿Para qué apagan luces algunos pueblos? A) para que el cielo siga oscuro B) para gastar menos en postes", "A) para que el cielo siga oscuro", "Dice so that the sky stays dark."),
+        (BEE + " ¿Cuántas amenazas para los cielos oscuros nombra el texto? A) dos B) tres", "A) dos", "Nombra las luces de la ciudad y el crecimiento de los pueblos."),
     ],
     [
-        ("Conocimiento previo: sabes que las abejas viven en colmenas. ¿Qué dato nuevo agrega el texto? A) que llevan polen y ayudan a las plantas a hacer frutos B) que las abejas viven en colmenas", "A) que llevan polen y ayudan a las plantas a hacer frutos", "Lo de las colmenas ya lo sabías; el texto agrega cómo ayudan a las plantas."),
-        ("Ana lee «Why Bees Matter» para una tarea de agricultura y Bruno para una receta de pan. ¿Quién tiene un propósito más conectado con el texto? A) Ana B) Bruno", "A) Ana", "El texto habla de cultivos y cosechas."),
+        ("Conocimiento previo: sabes que en el campo se ven más estrellas que en la ciudad. ¿Qué dato nuevo agrega el texto? A) que astrónomos y visitantes viajan al norte de Chile por su cielo oscuro B) que en la ciudad se ven menos estrellas", "A) que astrónomos y visitantes viajan al norte de Chile por su cielo oscuro", "Lo de la ciudad ya lo sabías; el texto agrega quiénes viajan y por qué."),
+        ("Ana lee «Why Dark Skies Matter» para una tarea de astronomía y Bruno para una receta de pan. ¿Quién tiene un propósito más conectado con el texto? A) Ana B) Bruno", "A) Ana", "El texto habla de estrellas y telescopios."),
     ],
     [
-        ("¿Qué predicción es mejor para el subtítulo «Small insects, big job»? A) el texto explicará la importancia de un insecto pequeño B) el texto hablará de animales grandes", "A) el texto explicará la importancia de un insecto pequeño", "Small insects y big job se refieren a un insecto pequeño con una tarea importante."),
-        (BEE + " Un compañero dice que sin abejas no habría manzanas. ¿Qué dato corrige? A) habría menos manzanas B) habría más manzanas", "A) habría menos manzanas", "El texto dice fewer apples."),
+        ("¿Qué predicción es mejor para el subtítulo «Seeing the stars in northern Chile»? A) el texto hablará de observar las estrellas en el norte del país B) el texto hablará de cocinar en el sur", "A) el texto hablará de observar las estrellas en el norte del país", "Stars y northern Chile señalan el tema y el lugar."),
+        (BEE + " Un compañero dice que el cielo del norte de Chile está cubierto de luces. ¿Qué dato lo corrige? A) el cielo es muy claro y oscuro B) el cielo es muy brillante de noche", "A) el cielo es muy claro y oscuro", "El texto dice very clear and dark."),
     ],
     [("Un cartel dice: Título: «Beach Clean-up Day». Subtítulo: «Bring gloves and a bag». ¿Qué debes llevar según el subtítulo? (gloves = guantes, bag = bolsa)", "Guantes y una bolsa", "El subtítulo lo dice.")],
     [
@@ -62,13 +62,13 @@ lesson(
         ("¿Qué hago con una predicción después de leer?", "La comparo con el texto", "Se confirma o se corrige."),
     ],
     task("Lee este título y subtítulo originales: «The Night Market. Where food, music and friends meet.» (market = feria, meet = se encuentran). Antes de leer el texto, escribe en tu hoja: tu propósito de lectura, tres palabras que predices, y qué conocimiento previo sobre ferias nocturnas usarías. Después lee el texto y confirma: «The Night Market opens every Friday at six. There are food stands, live music and handmade crafts. Entrance is free.» (opens = abre, stands = puestos, crafts = artesanías).", "Propósito: saber cuándo abre y qué hay. Predicción: food, music, stands. Conocimiento previo: las ferias tienen comida y música. Confirmado: abre los viernes a las seis, hay puestos de comida, música en vivo y artesanías.", ["escribe propósito, predicción y conocimiento previo antes de leer", "confirma con datos del texto", "corrige o ajusta si algo no se cumple"], ["hoja con tres columnas", "nota de confirmación"], ["predecir sin conectar con el texto", "no confirmar después"], "Valora la predicción y ayuda a la persona a confirmar con el texto."),
-    "Vuelve a leer el título y subtítulo de «Why Bees Matter» y escribe dos predicciones distintas.",
+    "Vuelve a leer el título y subtítulo de «Why Dark Skies Matter» y escribe dos predicciones distintas.",
     "Escribe en español un propósito de lectura para un texto sobre tu deporte preferido.",
 )
 
 # ---------------------------------------------------------------- clase 2: lectura rápida y focalizada, elementos organizacionales
 FEST = "Título: «Youth Science Festival». Subtítulo: «Three days of experiments». Cuadro del programa: «Day 1 (Friday): chemistry show at 10; robots workshop at 12. Day 2 (Saturday): space talk at 11; planetarium visit at 3. Day 3 (Sunday): family experiments at 10; closing ceremony at 1. Tickets: 3,000 pesos; children under 8 free.» (festival = festival, show = show, workshop = taller, talk = charla, planetarium = planetario, closing = clausura, tickets = entradas)"
-CYCLE = "Título: «The Water Cycle». Diagrama con cuatro rótulos numerados: 1 Evaporation (el sol calienta el agua y sube como vapor) → 2 Condensation (el vapor se enfría y forma nubes) → 3 Precipitation (cae lluvia o nieve) → 4 Collection (el agua llega a ríos y mares). (cycle = ciclo, evaporation = evaporación, condensation = condensación, precipitation = precipitación, collection = acumulación)"
+CYCLE = "Título: «From Idea to School Magazine». Diagrama con cuatro rótulos numerados: 1 Idea (el equipo elige un tema) → 2 Draft (los estudiantes escriben la primera versión) → 3 Review (una profesora y un compañero la leen y proponen cambios) → 4 Publication (la revista se imprime y se reparte). (idea = idea, draft = borrador, review = revisión, publication = publicación, team = equipo)"
 
 lesson(
     OA6, 2, MATR,
@@ -76,13 +76,13 @@ lesson(
     ["Sé fijar un propósito de lectura.", "Sé qué es un título y un subtítulo."],
     [
         "La lectura rápida (skimming) consiste en mirar con rapidez el título, el subtítulo, el primer párrafo y las palabras destacadas para saber de qué trata el texto. Responde a «¿qué es esto?». La lectura focalizada (scanning) consiste en pasar los ojos buscando una palabra o un número exacto, sin leer todo. Responde a «¿dónde está este dato?». Se usa para horarios, precios y fechas.",
-        "Los elementos organizacionales (organizational features) ayudan a ubicarte: el título dice el tema, el subtítulo lo precisa, los cuadros muestran datos ordenados y los diagramas explican procesos con números y flechas. En el programa del festival, el cuadro agrupa los datos por día; en el ciclo del agua, los números 1 a 4 muestran el orden del proceso. Leerlos primero ahorra tiempo.",
+        "Los elementos organizacionales (organizational features) ayudan a ubicarte: el título dice el tema, el subtítulo lo precisa, los cuadros muestran datos ordenados y los diagramas explican procesos con números y flechas. En el programa del festival, el cuadro agrupa los datos por día; en el diagrama de la revista, los números 1 a 4 muestran el orden del proceso. Leerlos primero ahorra tiempo.",
         "Elige la estrategia según tu propósito: si quieres saber de qué trata el texto, hojea (skim); si quieres saber a qué hora es el planetario, rastrea (scan) la palabra planetarium y lee solo esa línea. Después de encontrar el dato, léelo con calma para no confundir horas parecidas.",
     ],
     [("skimming", "lectura rápida: mirar para saber de qué trata"), ("scanning", "lectura focalizada: buscar un dato exacto"), ("organizational feature", "elemento organizacional: título, subtítulo, cuadro, diagrama"), ("diagram", "diagrama"), ("caption", "pie de imagen"), ("keyword", "palabra clave")],
     [
         ("Scanning", FEST + " ¿A qué hora es la visita al planetario?", ["Hago scanning de la palabra planetarium.", "Está en el día 2: planetarium visit at 3.", "La hora es las 3."], "A las 3 (15:00)"),
-        ("Orden en un diagrama", CYCLE + " ¿Qué paso va justo después de la condensación?", ["Miro los números del diagrama.", "Condensation es el número 2.", "El número 3 es precipitation."], "La precipitación (lluvia o nieve)"),
+        ("Orden en un diagrama", CYCLE + " ¿Qué paso va justo después del borrador (draft)?", ["Miro los números del diagrama.", "Draft es el número 2.", "El número 3 es review."], "La revisión (review)"),
     ],
     [
         ("Leer todo el texto para buscar una hora.", "Se pierde tiempo sin necesidad.", "Usa scanning: busca la palabra y mira el número cercano."),
@@ -91,25 +91,25 @@ lesson(
     [
         (FEST + " ¿Cuántos días dura el festival?", "Tres días", "El subtítulo dice Three days of experiments."),
         (FEST + " ¿Cuánto cuesta la entrada?", "3.000 pesos", "El cuadro dice Tickets: 3,000 pesos."),
-        (CYCLE + " ¿Cuántos pasos tiene el ciclo del agua? A) cuatro B) seis", "A) cuatro", "El diagrama numera del 1 al 4."),
+        (CYCLE + " ¿Cuántos pasos tiene el proceso de la revista? A) cuatro B) seis", "A) cuatro", "El diagrama numera del 1 al 4."),
     ],
     [
         (FEST + " ¿Qué estrategia usas para saber de qué trata el texto? A) skimming del título y subtítulo B) leer línea por línea", "A) skimming del título y subtítulo", "El título y el subtítulo resumen el tema."),
         (FEST + " ¿Qué hay el domingo a las diez? A) experimentos en familia B) charla del espacio", "A) experimentos en familia", "El cuadro dice Day 3: family experiments at 10."),
-        (CYCLE + " ¿Qué ocurre en la etapa 4? A) el agua llega a ríos y mares B) el vapor sube", "A) el agua llega a ríos y mares", "Collection es el paso final del diagrama."),
+        (CYCLE + " ¿Qué ocurre en la etapa 4? A) la revista se imprime y se reparte B) se elige el tema", "A) la revista se imprime y se reparte", "Publication es el paso final del diagrama."),
     ],
     [
         (FEST + " ¿Qué niños no pagan entrada? A) los menores de ocho años B) los mayores de ocho", "A) los menores de ocho años", "Dice children under 8 free."),
-        (CYCLE + " ¿Qué paso explica que se formen nubes? A) condensation B) precipitation", "A) condensation", "El vapor se enfría y forma nubes."),
+        (CYCLE + " ¿Qué paso explica que otra persona lea el texto y proponga cambios? A) review B) draft", "A) review", "En el paso 3 una profesora y un compañero la leen y proponen cambios."),
         arith(FEST + " Una familia compra 4 entradas para un día. ¿Cuántos pesos paga? (todas pagan entrada completa)", "4*3000", "Se multiplica el valor de cada entrada por cuatro."),
     ],
     [
         (FEST + " ¿Qué dos actividades hay el día 1? A) chemistry show y robots workshop B) planetarium visit y closing ceremony", "A) chemistry show y robots workshop", "El cuadro del día 1 incluye el show de química y el taller de robots."),
-        (CYCLE + " ¿Qué paso del ciclo depende del calor del sol? A) evaporation B) collection", "A) evaporation", "El diagrama dice que el sol calienta el agua en el paso 1."),
+        (CYCLE + " ¿Qué paso es el primero del proceso? A) idea B) publication", "A) idea", "El diagrama numera la elección del tema como paso 1."),
     ],
     [
         (FEST + " Un lector dice que la clausura es el sábado. ¿Qué parte lo corrige? A) Day 3 (Sunday): closing ceremony at 1 B) Day 2 (Saturday): space talk", "A) Day 3 (Sunday): closing ceremony at 1", "La clausura figura el día 3, el domingo."),
-        (CYCLE + " Un compañero dice que la precipitación va antes de la evaporación. ¿Cómo lo corriges? A) la evaporación es 1 y la precipitación es 3 B) la precipitación es 1", "A) la evaporación es 1 y la precipitación es 3", "Los números del diagrama marcan el orden."),
+        (CYCLE + " Un compañero dice que la publicación va antes del borrador. ¿Cómo lo corriges? A) el borrador es 2 y la publicación es 4 B) la publicación es 1", "A) el borrador es 2 y la publicación es 4", "Los números del diagrama marcan el orden."),
     ],
     [("Lee este horario de biblioteca: «Title: Opening hours. Monday to Friday: 9 a.m. to 7 p.m. Saturday: 10 a.m. to 2 p.m. Sunday: closed.» ¿Qué día está cerrada? (opening hours = horario, closed = cerrada)", "El domingo", "La línea del horario dice Sunday: closed.")],
     [
@@ -145,7 +145,7 @@ lesson(
         ("No releer cuando los datos parecen contradecirse.", "Se confía en la primera lectura.", "Vuelve a la parte dudosa y compara los datos."),
     ],
     [
-        (UMB + " ¿Qué lleva Daniel? A) un paraguas B) una pelota", "A) un paraguas", "El texto dice He took his umbrella."),
+        (UMB + " ¿Qué lleva Daniel? A) un paraguas B) un abrigo grueso", "A) un paraguas", "El texto dice He took his umbrella."),
         (UMB + " ¿Adónde corre?", "Al paradero de buses", "El texto dice he ran to the bus stop."),
         (MARA + " ¿Qué dejó Mara al salir? A) su almuerzo B) su celular", "A) su almuerzo", "El texto dice without her lunch."),
     ],
@@ -157,7 +157,7 @@ lesson(
     [
         arith(MARA + " Son las 5:10 y el partido es a las 5:30. ¿Cuántos minutos le quedan para llegar?", "30-10", "Se restan los minutos que han pasado de la media hora."),
         (MARA + " Si el viaje dura 30 minutos y le quedan 20, ¿cuántos minutos llegará tarde? A) 10 B) 20", "A) 10", "30 − 20 = 10 minutos."),
-        (UMB + " ¿Qué conclusión se apoya en dos pistas? A) va a llover porque miró el cielo y sacó el paraguas B) va a nevar porque corre", "A) va a llover porque miró el cielo y sacó el paraguas", "Las dos pistas apoyan la lluvia."),
+        (UMB + " ¿Qué conclusión se apoya en dos pistas? A) va a llover porque miró el cielo y sacó el paraguas B) va a llegar tarde porque corre", "A) va a llover porque miró el cielo y sacó el paraguas", "Las dos pistas apoyan la lluvia."),
     ],
     [
         (MARA + " Una lectora infiere que Mara tiene mucho tiempo. ¿Qué parte del texto la contradice? A) ran out without her lunch B) she grabbed her scarf", "A) ran out without her lunch", "Salir corriendo sin almuerzo muestra apuro."),
@@ -206,13 +206,13 @@ lesson(
         (PARTB + " ¿Qué prepara en la tarde?", "La masa del día siguiente", "Dice prepares the dough for the next day."),
     ],
     [
-        (PARTA + " " + PARTB + " ¿Qué organizador sirve para ordenar sus actividades? A) una línea de tiempo B) un mapa del barrio", "A) una línea de tiempo", "Las actividades siguen un orden en el tiempo."),
+        (PARTA + " " + PARTB + " ¿Qué organizador sirve para ordenar sus actividades? A) una línea de tiempo B) un diagrama de Venn", "A) una línea de tiempo", "Las actividades siguen un orden en el tiempo."),
         (PARTA + " " + PARTB + " ¿A qué hora vende el último pan?", "Al mediodía", "Dice At noon, Elisa sells the last loaf."),
         (PARTA + " " + PARTB + " ¿Qué hace justo antes de volver a casa? A) limpia la tienda y prepara masa B) hornea pan", "A) limpia la tienda y prepara masa", "Son las actividades de la tarde antes de las cuatro."),
     ],
     [
         arith(PARTA + " " + PARTB + " Elisa se levanta a las 4 y vuelve a casa a las 16. ¿Cuántas horas pasan entre ambos momentos?", "16-4", "Se resta la hora de levantarse de la hora de volver."),
-        (PARTA + " " + PARTB + " ¿Cuál es el mejor resumen? A) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde B) Elisa limpia una escuela", "A) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde", "Reúne las ideas de ambas partes."),
+        (PARTA + " " + PARTB + " ¿Cuál es el mejor resumen? A) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde B) Elisa vende pan solo en la tarde", "A) Elisa es panadera: hornea al amanecer, atiende clientes y limpia por la tarde", "Reúne las ideas de ambas partes."),
         (PARTA + " Predijiste que el texto hablaría de un restaurante. Tras leer la parte A, ¿se confirma? A) no, trata de una panadería B) sí", "A) no, trata de una panadería", "El texto dice Elisa works in a bakery."),
     ],
     [
@@ -235,7 +235,7 @@ lesson(
 )
 
 # ---------------------------------------------------------------- clase 5: ciclo completo de lectura estratégica
-RECY = "Título: «From Bottle to Shirt». Subtítulo: «How plastic bottles can be recycled». Texto: «Plastic bottles can be recycled in four steps. First, people collect them and take them to a recycling center. Second, workers clean the bottles. Third, machines shred them into small pieces. Last, the pieces are melted and made into new products, such as bags, clothes and new bottles. However, in many places recycling is low because people do not separate their waste.» (bottle = botella, shirt = polera, recycled = reciclados, collect = recolectan, recycling center = centro de reciclaje, shred = triturar, melted = derretidos, waste = basura, separate = separar)"
+RECY = "Título: «From Sheep to Sweater». Subtítulo: «How wool becomes clothes». Texto: «Wool becomes clothes in four steps. First, farmers cut the wool from the sheep once a year. Second, workers wash the wool. Third, machines turn it into thread. Last, the thread is knitted into products, such as sweaters, scarves and hats. However, in many places woolen clothes are expensive because the work takes many hours.» (wool = lana, sheep = oveja, farmers = agricultores, thread = hilo, knitted = tejido, sweater = chompa, scarves = bufandas, hats = gorros, expensive = caro)"
 
 lesson(
     OA6, 5, MATR,
@@ -243,13 +243,13 @@ lesson(
     ["Sé skimming y scanning.", "Sé hacer inferencias y organizadores."],
     [
         "Leer de manera estratégica es un ciclo. Antes de leer: fijas un propósito, predices con el título y activas lo que sabes. Durante la lectura: haces lectura rápida (skimming) para la idea general, lectura focalizada (scanning) para un dato, infieres con pistas y relees las partes confusas. Después de leer: confirmas tus predicciones, completas un organizador, resumes y haces preguntas para comprobar tu comprensión.",
-        "En «From Bottle to Shirt», el título y el subtítulo predicen un texto sobre el reciclaje de botellas. Las palabras First, Second, Third y Last señalan una secuencia de cuatro pasos. However marca un problema al final: poco reciclaje porque no se separa la basura. Un buen resumen respeta esa estructura: pasos y problema.",
+        "En «From Sheep to Sweater», el título y el subtítulo predicen un texto sobre cómo la lana de la oveja se convierte en ropa. Las palabras First, Second, Third y Last señalan una secuencia de cuatro pasos. However marca un problema al final: la ropa de lana es cara porque el trabajo toma muchas horas. Un buen resumen respeta esa estructura: pasos y problema.",
         "Para preguntar y confirmar, formula preguntas que se respondan con datos del texto: «¿Cuántos pasos tiene el proceso?», «¿Qué se hace en el paso tres?». Si alguien responde, comprueba su respuesta en el texto. Así verificas que tu comprensión coincide con la información real.",
     ],
-    [("cycle", "ciclo: serie de pasos que se repite"), ("sequence", "secuencia: pasos en orden"), ("shred", "triturar"), ("melt", "derretir"), ("waste", "basura, residuos"), ("however", "sin embargo")],
+    [("cycle", "ciclo: serie de pasos que se repite"), ("sequence", "secuencia: pasos en orden"), ("thread", "hilo"), ("knit", "tejer"), ("wool", "lana"), ("however", "sin embargo")],
     [
-        ("Secuencia", RECY + " ¿Qué ocurre en el paso tres?", ["Busco Third en el texto.", "Dice machines shred them into small pieces.", "Las máquinas trituran las botellas."], "Las máquinas trituran las botellas en trozos pequeños"),
-        ("Problema final", RECY + " ¿Cuál es el problema que señala el texto y qué palabra lo anuncia?", ["Busco However.", "Dice recycling is low because people do not separate waste.", "El problema es el poco reciclaje."], "Se recicla poco porque la gente no separa su basura; lo anuncia However"),
+        ("Secuencia", RECY + " ¿Qué ocurre en el paso tres?", ["Busco Third en el texto.", "Dice machines turn it into thread.", "Las máquinas convierten la lana en hilo."], "Las máquinas convierten la lana en hilo"),
+        ("Problema final", RECY + " ¿Cuál es el problema que señala el texto y qué palabra lo anuncia?", ["Busco However.", "Dice woolen clothes are expensive because the work takes many hours.", "El problema es el precio alto."], "La ropa de lana es cara porque el trabajo toma muchas horas; lo anuncia However"),
     ],
     [
         ("Saltarse los pasos y leer solo la última parte.", "Se pierde la secuencia.", "Sigue las palabras First, Second, Third y Last."),
@@ -257,26 +257,26 @@ lesson(
     ],
     [
         (RECY + " ¿Cuántos pasos tiene el proceso? A) cuatro B) tres", "A) cuatro", "El texto dice in four steps."),
-        (RECY + " ¿Qué se hace en el primer paso?", "La gente recolecta las botellas y las lleva a un centro de reciclaje", "Dice First, people collect them."),
-        (RECY + " ¿Qué se hace con los trozos al final? A) se derriten y se fabrican nuevos productos B) se botan", "A) se derriten y se fabrican nuevos productos", "Dice the pieces are melted and made into new products."),
+        (RECY + " ¿Qué se hace en el primer paso?", "Los agricultores cortan la lana de la oveja", "Dice First, farmers cut the wool from the sheep."),
+        (RECY + " ¿Qué se hace con el hilo al final? A) se teje en chompas, bufandas y gorros B) se lava otra vez y se guarda", "A) se teje en chompas, bufandas y gorros", "Dice the thread is knitted into products."),
     ],
     [
-        (RECY + " ¿Qué productos se mencionan? A) bolsas, ropa y botellas nuevas B) autos y casas", "A) bolsas, ropa y botellas nuevas", "Dice bags, clothes and new bottles."),
-        (RECY + " ¿Qué predicción es más probable con el título «From Bottle to Shirt»? A) una botella se convierte en ropa B) una polera se convierte en botella", "A) una botella se convierte en ropa", "From Bottle to Shirt marca el sentido de la transformación."),
+        (RECY + " ¿Qué productos se mencionan? A) chompas, bufandas y gorros B) mantas, zapatos y guantes", "A) chompas, bufandas y gorros", "Dice sweaters, scarves and hats."),
+        (RECY + " ¿Qué predicción es más probable con el título «From Sheep to Sweater»? A) la lana de una oveja se convierte en ropa B) una chompa vieja se convierte en lana nueva", "A) la lana de una oveja se convierte en ropa", "From Sheep to Sweater marca el sentido de la transformación."),
         (RECY + " ¿Cuál es el propósito del texto? A) informar sobre un proceso B) convencer de comprar ropa nueva", "A) informar sobre un proceso", "Explica el proceso paso a paso."),
     ],
     [
-        (RECY + " Ordena los pasos con letras. A) shred the bottles B) clean the bottles C) melt the pieces D) collect the bottles", "D, B, A, C", "Primero se recolecta, luego se limpia, después se tritura y al final se derrite."),
-        (RECY + " Pregunta para confirmar: «¿Quién limpia las botellas?» ¿Cuál es la respuesta? A) los trabajadores B) las máquinas", "A) los trabajadores", "Dice Second, workers clean the bottles."),
+        (RECY + " Ordena los pasos con letras. A) turn the wool into thread B) wash the wool C) knit the thread D) cut the wool", "D, B, A, C", "Primero se corta, luego se lava, después se hace hilo y al final se teje."),
+        (RECY + " Pregunta para confirmar: «¿Quién lava la lana?» ¿Cuál es la respuesta? A) los trabajadores B) las máquinas", "A) los trabajadores", "Dice Second, workers wash the wool."),
         (RECY + " ¿Qué palabra anuncia el problema? A) However B) First", "A) However", "However introduce un contraste con lo anterior."),
     ],
     [
-        (RECY + " Un compañero dice que el reciclaje es alto en todos lados. ¿Qué parte lo corrige? A) in many places recycling is low B) people collect them", "A) in many places recycling is low", "El texto dice que en muchos lugares se recicla poco."),
-        (RECY + " Un resumen de una frase. ¿Cuál es el mejor? A) Las botellas se reciclan en cuatro pasos, pero se recicla poco porque no se separa la basura B) Las botellas son de plástico", "A) Las botellas se reciclan en cuatro pasos, pero se recicla poco porque no se separa la basura", "Incluye los pasos y el problema."),
+        (RECY + " Un compañero dice que la ropa de lana es barata en todas partes. ¿Qué parte lo corrige? A) in many places woolen clothes are expensive B) farmers cut the wool", "A) in many places woolen clothes are expensive", "El texto dice que en muchos lugares la ropa de lana es cara."),
+        (RECY + " Un resumen de una frase. ¿Cuál es el mejor? A) La lana se convierte en ropa en cuatro pasos, pero la ropa de lana suele ser cara porque el trabajo toma muchas horas B) Las ovejas viven en el campo", "A) La lana se convierte en ropa en cuatro pasos, pero la ropa de lana suele ser cara porque el trabajo toma muchas horas", "Incluye los pasos y el problema."),
     ],
     [
-        (RECY + " Haz una inferencia: ¿qué podría hacer una persona para mejorar el reciclaje? A) separar su basura en casa B) tirar todo junto", "A) separar su basura en casa", "El texto dice que el problema es no separar la basura."),
-        (RECY + " Relee el final: ¿qué palabra explica la causa del poco reciclaje? A) because B) so that", "A) because", "Dice low because people do not separate their waste."),
+        (RECY + " Haz una inferencia: ¿por qué una bufanda tejida a mano puede costar más? A) porque hacerla toma muchas horas de trabajo B) porque se vende solo en invierno", "A) porque hacerla toma muchas horas de trabajo", "El texto da como causa del precio las muchas horas de trabajo."),
+        (RECY + " Relee el final: ¿qué palabra explica la causa del precio alto? A) because B) so that", "A) because", "Dice expensive because the work takes many hours."),
     ],
     [("Lee un anuncio: «Title: Library Book Sale. Subtitle: Save up to 70%. Saturday 10 to 4. All proceeds help buy new books.» (sale = venta, proceeds = dinero recaudado). ¿Qué estrategia usas para saber a qué hora es la venta? (skimming o scanning)", "Scanning", "Buscas el dato exacto de la hora.")],
     [
@@ -285,6 +285,6 @@ lesson(
         ("¿Qué palabra anuncia un problema al final de un texto?", "However", "Introduce un contraste."),
     ],
     task("Lee este texto original: Título: «Learning to Cook». Subtítulo: «Three easy dishes for beginners». Texto: «Pasta with tomato sauce takes twenty minutes. A cheese sandwich takes five minutes. Rice with vegetables takes thirty minutes. However, beginners often forget to wash the vegetables. A simple solution is to wash them first.» (dishes = platos, takes = demora, beginners = principiantes, forget = olvidar, simple solution = solución simple). En tu hoja escribe: tu predicción antes de leer, qué plato demora menos (scanning), el problema y la solución, y una pregunta para confirmar.", "Predicción: recetas fáciles. Demora menos el sándwich de queso (cinco minutos). Problema: los principiantes olvidan lavar las verduras. Solución: lavarlas primero. Pregunta: ¿Cuánto demora el arroz con verduras?", ["escribe una predicción antes de leer", "usa scanning para un dato exacto", "separa problema y solución y formula una pregunta"], ["hoja con cinco respuestas", "subrayado del texto"], ["leer sin predicción", "preguntar algo que no se responde con el texto"], "Valora el uso del ciclo completo y revisa la pregunta con el texto."),
-    "Vuelve a leer «From Bottle to Shirt» y escribe tres preguntas que se respondan con el texto.",
+    "Vuelve a leer «From Sheep to Sweater» y escribe tres preguntas que se respondan con el texto.",
     "Escribe en español qué estrategia de lectura usarías para buscar un número de teléfono y cuál para entender de qué trata un artículo.",
 )

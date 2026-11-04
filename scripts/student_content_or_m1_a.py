@@ -194,7 +194,7 @@ lesson(
         M("Hacer algo arriesgado sin avisar porque «es mi decisión».", "Se confunde autonomía con soledad.", "Avisa a una persona adulta de confianza; es parte de una acción segura."),
     ],
     R=[
-        ex("Joaquín anota: «Algún día voy a hacer algo con la electrónica». ¿Qué le falta a ese paso para ser una acción segura? A) Ser concreto: decir qué hará y cuándo B) Ser más grande y arriesgado", "A", "Una acción segura dice qué se hace y para cuándo."),
+        ex("Joaquín anota: «Algún día voy a hacer algo con la electrónica». ¿Qué le falta a ese paso para ser una acción segura? A) Ser concreto: decir qué hará y cuándo B) Abarcar muchas metas a la vez para avanzar más rápido", "A", "Una acción segura dice qué se hace y para cuándo."),
         ex("Si un paso puede cambiarse sin perder mucho, ¿es reversible o irreversible?", "Reversible", "Se puede deshacer o ajustar."),
         ex("Joaquín quiere mostrar que visitó el taller. ¿Cuál es una evidencia? A) Una nota con la fecha y tres cosas que vio B) Decir que fue", "A", "Una nota con datos se puede mostrar; decirlo no deja prueba."),
     ],
@@ -315,7 +315,7 @@ lesson(
         arith("En una lista de ejemplo hay 20 conductas de pololeo. 8 son señales de respeto y 5 son de alerta. El resto no sirve para decidir. ¿Cuántas quedan sin clasificar?", "20-8-5", "Al total se le restan las ya clasificadas."),
         arith("Bruno manda 18 mensajes a Antonia en 3 horas, repartidos en partes iguales. ¿Cuántos mensajes manda por hora?", "18//3", "Se divide el total de mensajes entre las horas."),
     ],
-    context=[ex("En el curso se comenta que una pareja de 1.º medio se pelea a gritos y uno de los dos quedó llorando. ¿Qué es lo más responsable que puede hacer un compañero? A) Avisar a una persona adulta del colegio B) Comentarla en redes con una foto.", "A", "Pedir ayuda adulta protege a ambos y no los expone.")],
+    context=[ex("En el curso se comenta que una pareja de 1.º medio se pelea a gritos y uno de los dos quedó llorando. ¿Qué es lo más responsable que puede hacer un compañero? A) Avisar a una persona adulta del colegio B) Escribirle a la pareja para que lo arreglen solos sin avisar a nadie.", "A", "Pedir ayuda adulta protege a ambos y no los expone.")],
     selfcheck=[ex("En Orientación: ¿respetar es aceptar las decisiones del otro?", "Sí", "Reconoce su dignidad."), ex("¿Controlar el celular de la pareja es una señal de alerta?", "Sí", "Invade su intimidad."), ex("¿Una persona que sufre falta de respeto es culpable de lo que le pasa?", "No", "La responsabilidad es de quien presiona.")],
     task=T("Lee este caso inventado: Antonia y Bruno son pareja desde hace tres meses. Bruno le pide a Antonia que elimine a sus amigos de la red social, le revisa el celular y se enoja si no le contesta enseguida. Antonia dice que a veces tiene miedo de decirle que no. Escribe: dos señales de alerta, un derecho de Antonia y una persona adulta de confianza a quien podría pedir ayuda.", "Señales: le pide eliminar a sus amigos y le revisa el celular. Derecho: intimidad o decidir sobre sus amistades. Persona adulta: la orientadora o una persona de su casa.", ["nombra dos señales de alerta del caso", "nombra un derecho", "nombra a quién pedir ayuda", "no moraliza ni culpa a Antonia"], ["texto escrito", "tabla de hechos y derechos"], ["culpar a Antonia", "no nombrar a una persona adulta"], "Reconoce las señales bien identificadas y pregunta cuál derecho se ve más afectado."),
     reinforce="Escribe dos señales de respeto en una amistad, con personajes inventados.",
@@ -364,7 +364,7 @@ lesson(
         arith("En una encuesta inventada de 50 estudiantes, 35 conocen las condiciones del consentimiento. ¿Cuántos no las conocen?", "50-35", "Al total se le resta el grupo que sí las conoce."),
         arith("Una lista tiene 4 condiciones del consentimiento. Un curso de 36 estudiantes forma equipos de 4 para explicar una condición cada equipo. ¿Cuántos equipos hay?", "36//4", "Se divide el total de estudiantes entre los integrantes de cada equipo."),
     ],
-    context=[ex("En una red social inventada, alguien manda a Camila: «Si me quieres, mándame una foto sin ropa». ¿Qué respuesta protege su intimidad? A) «No, no lo haré», y contárselo a una persona adulta de confianza B) «Bueno, pero no se la muestres a nadie.»", "A", "Un «no» firme y avisar a un adulto protegen; enviarla pone su intimidad en riesgo.")],
+    context=[ex("En una red social inventada, alguien manda a Camila: «Si me quieres, mándame una foto íntima». ¿Qué respuesta protege su intimidad? A) «No, no lo haré», y contárselo a una persona adulta de confianza B) «Bueno, pero no se la muestres a nadie.»", "A", "Un «no» firme y avisar a un adulto protegen; enviarla pone su intimidad en riesgo.")],
     selfcheck=[ex("En Orientación: ¿el consentimiento debe ser libre?", "Sí", "Sin presión ni amenaza."), ex("¿Puedes retirar tu consentimiento después de haberlo dado?", "Sí", "Tienes derecho a cambiar de opinión."), ex("¿Es culpable una persona menor cuando un adulto la presiona?", "No", "La responsabilidad es del adulto.")],
     task=T("Lee tres casos inventados: (a) Rocío acepta tomarse de la mano con Esteban; (b) Nicolás insiste siete veces a Paz para que le mande una foto íntima; (c) Sofía acepta ir a una fiesta y luego decide no ir. Indica en cuáles hay consentimiento, cuáles son presión y qué podría hacer cada persona. Usa las palabras libre, específico y retirar.", "(a) Hay consentimiento específico para tomarse de la mano. (b) Es presión: Paz puede decir «no» y avisar a una persona adulta. (c) Puede retirar su consentimiento sin dar explicaciones largas.", ["analiza los tres casos", "usa las tres palabras pedidas", "propone una acción segura", "no moraliza ni culpa a quien dice no"], ["texto escrito", "tarjetas de consentimiento"], ["confundir silencio con sí", "olvidar que se puede retirar"], "Reconoce el caso bien analizado y pregunta qué palabra faltó en el menos claro."),
     reinforce="Escribe una frase de «no» respetuosa y firme, con un personaje inventado.",
@@ -447,7 +447,7 @@ lesson(
     U=[
         ex("¿Qué debe hacer primero alguien a quien presionan para enviar una foto íntima? A) Decir «no» y avisar a un adulto de confianza B) Enviarla con la cara tapada.", "A", "Enviarla expone su intimidad aunque tape la cara."),
         ex("Si un amigo te cuenta algo grave, ¿qué es lo correcto? A) Escucharlo y animarlo a hablar con un adulto B) Contarlo al curso.", "A", "Contarlo al curso lo expone."),
-        ex("¿Para qué sirve el Fono Niños 147? A) Para pedir ayuda y orientación cuando algo te preocupa o te hace daño B) Para consultar notas y horarios del colegio", "A", "Es una línea de ayuda para niños, niñas y adolescentes."),
+        ex("¿Para qué sirve el Fono Niños 147? A) Para pedir ayuda y orientación cuando algo te preocupa o te hace daño B) Para reemplazar la conversación con una persona adulta de confianza", "A", "Es una línea de ayuda para niños, niñas y adolescentes."),
     ],
     A=[
         ex("Caso: un tío mayor le toca la espalda a Isidora y ella se siente incómoda. Pasos posibles: 1) alejarse, 2) avisar a un adulto de confianza, 3) dejar que pase. ¿Qué dos pasos corresponden?", "1 y 2", "Alejarse y avisar protegen; dejar que pase la deja en riesgo."),
@@ -505,13 +505,13 @@ lesson(
     ],
     Z=[
         ex("¿Por qué no es necesario justificar un «no»?", "Porque tienes derecho a decidir sobre tu cuerpo sin explicar", "El límite es un derecho y no depende de aprobación."),
-        ex("¿Por qué conviene guardar las capturas de un chat que te incomoda? A) Porque permiten mostrar a un adulto qué pasó B) Para reenviarlas al curso.", "A", "Son evidencia; reenviarlas expone a otros."),
+        ex("¿Por qué conviene guardar las capturas de un chat que te incomoda? A) Porque permiten mostrar a un adulto qué pasó B) Para publicarlas y que todos sepan quién es.", "A", "Son evidencia; reenviarlas expone a otros."),
     ],
     D=[
         arith("Una orientadora inventada atiende 5 estudiantes por jornada, en 4 jornadas a la semana. ¿Cuántos estudiantes atiende por semana?", "5*4", "Se multiplican estudiantes por jornadas."),
         arith("En una actividad, 36 estudiantes practican frases de límite en parejas. ¿Cuántas parejas se forman?", "36//2", "Se divide el total entre los 2 integrantes de cada pareja."),
     ],
-    context=[ex("Lucía recibe en el recreo comentarios sexuales de un compañero. ¿Qué serie de pasos es la más segura? A) Decir «para, no me gusta», alejarse y avisar a un adulto B) Gritarle y pegarle.", "A", "Pone un límite sin violencia y busca ayuda.")],
+    context=[ex("Lucía recibe en el recreo comentarios sexuales de un compañero. ¿Qué serie de pasos es la más segura? A) Decir «para, no me gusta», alejarse y avisar a un adulto B) Responderle con otra burla para que se detenga.", "A", "Pone un límite sin violencia y busca ayuda.")],
     selfcheck=[ex("En Orientación: ¿un límite debe ser claro y breve?", "Sí", "Se entiende mejor."), ex("¿Hay que tener todas las pruebas antes de pedir ayuda?", "No", "Basta contar lo que pasó."), ex("¿Puedes bloquear y avisar a un adulto si alguien te presiona por chat?", "Sí", "Es una forma de cuidarte.")],
     task=T("Lee las tres situaciones inventadas: (a) un compañero te hace bromas sexuales en el pasillo; (b) un chat desconocido te pide una foto; (c) una amiga te cuenta que su pololo le revisa el celular y se enoja. Escribe una frase de límite para (a), tres pasos de protección para (b) y una frase para ayudar a tu amiga en (c).", "(a) «Me incomoda. Para, por favor.» (b) Guardar captura, bloquear, avisar a un adulto. (c) «Lo que cuentas es importante, vamos a hablar con la orientadora».", ["escribe una frase de límite", "escribe tres pasos para el chat", "ofrece apoyo a la amiga", "no usa casos propios"], ["frases escritas", "juego de roles"], ["frase larga con excusas", "olvidar al adulto"], "Reconoce las frases firmes y pregunta cuál paso es el primero en el chat."),
     reinforce="Escribe dos frases cortas de límite para usar con un compañero que te molesta.",
@@ -554,7 +554,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué un rumor sobre la intimidad de una persona hace daño aunque sea cierto?", "Porque expone su intimidad sin que ella lo decida", "La intimidad es un derecho y no se difunde."),
-        ex("Un curso revisa su acuerdo de respeto cada mes. ¿Qué ventaja tiene? A) Ajusta lo que no funciona B) Hace más largas las clases.", "A", "La revisión mejora los acuerdos."),
+        ex("Un curso revisa su acuerdo de respeto cada mes. ¿Qué ventaja tiene? A) Ajusta lo que no funciona B) Evita que el curso vuelva a conversar del tema.", "A", "La revisión mejora los acuerdos."),
     ],
     D=[
         arith("Un curso de 40 estudiantes forma 5 equipos iguales para redactar acuerdos. ¿Cuántos estudiantes tiene cada equipo?", "40//5", "Se divide el total entre el número de equipos."),

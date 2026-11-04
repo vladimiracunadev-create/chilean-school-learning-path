@@ -568,7 +568,7 @@ Respuesta: 4π cm
 
 - **C1.** ¿Qué figura es un segmento circular de 180°?
 - **C2.** Calcula el área del segmento de 90° y radio 2 cm.
-- **C3.** ¿Qué se suma para obtener el perímetro de un segmento circular?
+- **C3.** Calcula el perímetro del segmento de 60° y radio 3 cm.
 
 *Aplicación*
 
@@ -605,7 +605,7 @@ Respuesta: 4π cm
 - **R3.** 12,5 cm². Base por altura dividido entre 2: 5·5/2.
 - **C1.** Un semicírculo. La cuerda es el diámetro.
 - **C2.** π − 2 cm². Sector π y triángulo 2·2/2.
-- **C3.** El arco y la cuerda. Esos dos lados cierran la región.
+- **C3.** 3 + π cm. Cuerda = r = 3 y arco = (1/6)·6π = π.
 - **A1.** 16π − 32 cm². Sector 16π y triángulo 8·8/2 = 32.
 - **A2.** 5 + 5π/3 cm. Cuerda = r = 5 y arco = (1/6)·10π = 5π/3.
 - **A3.** 28,5 cm². Sector 78,5 y triángulo 50.
@@ -770,7 +770,7 @@ Respuesta: 18 + 3π cm
 
 - **R1.** Calcula el área de un sector de 180° y radio 10 cm.
 - **R2.** Calcula el arco de un sector de 90° y radio 12 cm.
-- **R3.** ¿Cuánto mide la cuerda de un segmento de 60° y radio 7 cm?
+- **R3.** ¿Cuánto mide la cuerda de un segmento de 60° y radio 11 cm?
 
 *Comprensión*
 
@@ -810,7 +810,7 @@ Respuesta: 18 + 3π cm
 
 - **R1.** 50π cm². El círculo mide 100π y la mitad es 50π.
 - **R2.** 6π cm. La circunferencia mide 24π y un cuarto es 6π.
-- **R3.** 7 cm. El triángulo del sector es equilátero y la cuerda es igual al radio.
+- **R3.** 11 cm. El triángulo del sector es equilátero y la cuerda es igual al radio.
 - **C1.** 27π cm². El círculo mide 81π y un tercio es 27π.
 - **C2.** 12 + 3π cm. Arco 3π y dos radios 12.
 - **C3.** 18 cm². Base por altura dividido entre 2: 6·6/2.

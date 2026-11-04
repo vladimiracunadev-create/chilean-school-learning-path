@@ -62,7 +62,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Recurso listo para usar:** Este cuaderno y lápiz. Todos los datos están escritos en los ejercicios.
 
-**Consigna exacta:** Elige uno de estos ciclos: agua, carbono, nitrógeno o fósforo. Escribe (a) una frase sobre su importancia para los seres vivos y (b) dos preguntas investigables que podrías contestar con datos, por ejemplo midiendo el nivel de agua de un vaso o contando cuántas gotas se forman en una tapa en 1 hora. Para el ciclo del agua, usa un vaso con tapa y otro sin tapa.
+**Consigna exacta:** Elige uno de estos ciclos: agua, carbono, nitrógeno o fósforo. Escribe (a) una frase sobre su importancia para los seres vivos y (b) dos preguntas investigables que podrías contestar con datos, por ejemplo midiendo el nivel de agua de un vaso o contando cuántas gotas se forman en una tapa en 1 hora. Para el ciclo del agua, usa un vaso de plástico con tapa y otro sin tapa, y no uses vasos de vidrio.
 
 **Referencia para modelar y corregir:** Agua: participa en casi todas las reacciones de las células. Preguntas: «¿Cuánto baja el nivel de un vaso destapado en 24 horas?» y «¿Cuántas gotas aparecen en la tapa en 1 hora?».
 
@@ -171,7 +171,7 @@ Respuesta: «¿Cuántos milímetros baja el nivel de agua de un vaso destapado e
 *Desafío*
 
 - **D1.** Un estudio de ejemplo mide el agua evaporada: vaso con tapa pierde 1 mm y vaso sin tapa pierde 4 mm en 24 horas. ¿Cuántos mm más pierde el vaso sin tapa?
-- **D2.** Un bosque de ejemplo pierde su vegetación por un incendio. ¿Qué ciclo se altera más inmediatamente en esa zona? A) El del fósforo, que desaparece; B) El del agua, porque sin plantas hay menos transpiración y más escurrimiento.
+- **D2.** Un bosque de ejemplo pierde su vegetación. ¿Cómo cambia el ciclo del agua en esa zona? A) Hay más transpiración y más infiltración; B) Hay menos transpiración y más escurrimiento.
 
 *Situaciones auténticas*
 
@@ -183,7 +183,7 @@ Respuesta: «¿Cuántos milímetros baja el nivel de agua de un vaso destapado e
 - **E2.** ¿Para qué sirve el carbono?
 - **E3.** ¿Qué hace investigable a una pregunta sobre un ciclo?
 
-**Actividad abierta.** Elige uno de estos ciclos: agua, carbono, nitrógeno o fósforo. Escribe (a) una frase sobre su importancia para los seres vivos y (b) dos preguntas investigables que podrías contestar con datos, por ejemplo midiendo el nivel de agua de un vaso o contando cuántas gotas se forman en una tapa en 1 hora. Para el ciclo del agua, usa un vaso con tapa y otro sin tapa.
+**Actividad abierta.** Elige uno de estos ciclos: agua, carbono, nitrógeno o fósforo. Escribe (a) una frase sobre su importancia para los seres vivos y (b) dos preguntas investigables que podrías contestar con datos, por ejemplo midiendo el nivel de agua de un vaso o contando cuántas gotas se forman en una tapa en 1 hora. Para el ciclo del agua, usa un vaso de plástico con tapa y otro sin tapa, y no uses vasos de vidrio.
 
 **Solucionario razonado**
 

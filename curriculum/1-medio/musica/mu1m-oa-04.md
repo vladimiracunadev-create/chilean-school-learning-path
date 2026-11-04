@@ -271,7 +271,7 @@ Respuesta: Falta 1 unidad, o sea una corchea
 
 **Consigna exacta:** Elige una de las cuatro disposiciones de ejemplo para una presentación en tu curso con este propósito: «dar la bienvenida con alegría y unidad». Escribe: a) qué disposición eliges, b) dos razones, c) cómo cuidarás tu parte (afinación, entrada y volumen), d) qué harás si te pierdes.
 
-**Referencia para modelar y corregir:** a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás fuerte, sin detener al grupo.
+**Referencia para modelar y corregir:** a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás, sin detener al grupo.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -285,7 +285,7 @@ Respuesta: Falta 1 unidad, o sea una corchea
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás fuerte, sin detener al grupo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás, sin detener al grupo. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -382,7 +382,7 @@ Respuesta: Unísono
 
 *Autoevaluación*
 
-- **E1.** ¿Qué es un canon?
+- **E1.** En Música: ¿qué es un canon?
 - **E2.** ¿Qué disposición suena más potente: una voz sola o un unísono?
 - **E3.** En el canon de la clase, ¿cada cuántos compases entra una voz?
 
@@ -408,7 +408,7 @@ Respuesta: Unísono
 - **E2.** El unísono. Hay más voces cantando lo mismo.
 - **E3.** Cada 2 compases. Así dice la disposición 4.
 
-**Actividad abierta · ejemplo de respuesta.** a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás fuerte, sin detener al grupo.
+**Actividad abierta · ejemplo de respuesta.** a) Unísono. b) Suena potente y muestra unidad; todas cantan la misma melodía y es más fácil seguirla. c) Afinar con atención a la nota inicial, entrar con la señal de la directora y cantar sin tapar a nadie. d) Seguir con calma en el siguiente compás, sin detener al grupo.
 
 **Criterios para evaluarla:** elige según el propósito; da razones relacionadas con el sonido; incluye un plan para cuando se pierde.
 
@@ -476,9 +476,9 @@ Respuesta: Unísono
 
 **Recurso listo para usar:** Lápiz y papel; palmas suaves. Plan de ejemplo, que se repite en los ejercicios: Plan de ejemplo para un trío (voz A, voz B y voz C) de una pieza de 12 compases de 4 pulsos: 1) cada voz ensaya sola a 60 pulsos por minuto; 2) se juntan de a dos voces; 3) se juntan las tres a 60 pulsos por minuto; 4) se sube a 80 pulsos por minuto.
 
-**Consigna exacta:** Usa el plan de ejemplo (trío, 12 compases de 4 pulsos, etapas 1 a 4). Escribe: a) cuántos segundos dura la pieza en la etapa 1 (a 60 pulsos por minuto), b) un horario de 24 minutos con tiempo para las cuatro etapas (la suma debe dar 24), c) una regla de respeto que cumplirá el grupo, d) qué harás si tu voz es la que se equivoca.
+**Consigna exacta:** Usa el plan de ejemplo (trío, 12 compases de 4 pulsos, etapas 1 a 4). Escribe: a) cuántos segundos dura la pieza en la etapa 4 (a 80 pulsos por minuto), b) un horario de 24 minutos con tiempo para las cuatro etapas (la suma debe dar 24), c) una regla de respeto que cumplirá el grupo, d) qué harás si tu voz es la que se equivoca.
 
-**Referencia para modelar y corregir:** a) 48 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces.
+**Referencia para modelar y corregir:** a) 36 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -492,7 +492,7 @@ Respuesta: Unísono
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: a) 48 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: a) 36 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -557,7 +557,7 @@ Respuesta: En la etapa 2, al juntar de a dos voces
 
 *Recuperación*
 
-- **R1.** Plan de ejemplo para un trío (voz A, voz B y voz C) de una pieza de 12 compases de 4 pulsos: 1) cada voz ensaya sola a 60 pulsos por minuto; 2) se juntan de a dos voces; 3) se juntan las tres a 60 pulsos por minuto; 4) se sube a 80 pulsos por minuto. ¿Cuántas voces tiene el trío?
+- **R1.** Plan de ejemplo para un trío (voz A, voz B y voz C) de una pieza de 12 compases de 4 pulsos: 1) cada voz ensaya sola a 60 pulsos por minuto; 2) se juntan de a dos voces; 3) se juntan las tres a 60 pulsos por minuto; 4) se sube a 80 pulsos por minuto. En la etapa 1, ¿cuántas voces suenan a la vez: una, dos o tres?
 - **R2.** Plan de ejemplo para un trío (voz A, voz B y voz C) de una pieza de 12 compases de 4 pulsos: 1) cada voz ensaya sola a 60 pulsos por minuto; 2) se juntan de a dos voces; 3) se juntan las tres a 60 pulsos por minuto; 4) se sube a 80 pulsos por minuto. ¿En qué etapa se juntan las tres voces?
 - **R3.** ¿Qué es un metrónomo?
 
@@ -593,11 +593,11 @@ Respuesta: En la etapa 2, al juntar de a dos voces
 - **E2.** A 60 pulsos por minuto, ¿cuántos pulsos hay por segundo?
 - **E3.** Si el error nace al juntar dos voces, ¿a qué etapa se vuelve?
 
-**Actividad abierta.** Usa el plan de ejemplo (trío, 12 compases de 4 pulsos, etapas 1 a 4). Escribe: a) cuántos segundos dura la pieza en la etapa 1 (a 60 pulsos por minuto), b) un horario de 24 minutos con tiempo para las cuatro etapas (la suma debe dar 24), c) una regla de respeto que cumplirá el grupo, d) qué harás si tu voz es la que se equivoca.
+**Actividad abierta.** Usa el plan de ejemplo (trío, 12 compases de 4 pulsos, etapas 1 a 4). Escribe: a) cuántos segundos dura la pieza en la etapa 4 (a 80 pulsos por minuto), b) un horario de 24 minutos con tiempo para las cuatro etapas (la suma debe dar 24), c) una regla de respeto que cumplirá el grupo, d) qué harás si tu voz es la que se equivoca.
 
 **Solucionario razonado**
 
-- **R1.** 3. Son las voces A, B y C.
+- **R1.** Una. Cada voz ensaya sola.
 - **R2.** En la etapa 3. Así lo dice el plan.
 - **R3.** Un aparato o aplicación que marca pulsos regulares. Sirve de pulso común para el grupo.
 - **C1.** A. El plan sube el tempo al final.
@@ -615,7 +615,7 @@ Respuesta: En la etapa 2, al juntar de a dos voces
 - **E2.** 1. 60 pulsos entre 60 segundos.
 - **E3.** A la etapa 2. Se revisa cómo se coordinan las dos voces.
 
-**Actividad abierta · ejemplo de respuesta.** a) 48 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces.
+**Actividad abierta · ejemplo de respuesta.** a) 36 segundos. b) Etapa 1: 6 minutos; etapa 2: 6 minutos; etapa 3: 6 minutos; etapa 4: 6 minutos; total 24. c) No interrumpir con burlas; esperar el turno de hablar. d) Pedir repetir mi parte sola más despacio y volver a juntarme con las otras voces.
 
 **Criterios para evaluarla:** la suma de minutos da 24; incluye una regla de respeto; propone una acción concreta ante un error propio.
 
@@ -996,7 +996,7 @@ Respuesta: Bajaron 2 errores
 
 *Desafío*
 
-- **D1.** Programa de ejemplo de una presentación: pieza 1, solo de voz, 3 minutos; pieza 2, canon a tres voces, 4 minutos; pieza 3, unísono con percusión suave, 5 minutos; entre una pieza y otra, 1 minuto de pausa y de presentación hablada. El programa empieza a las 18:00 horas. Si no se retrasa, ¿cuántos minutos después de las 18:00 termina?
+- **D1.** Programa de ejemplo de una presentación: pieza 1, solo de voz, 3 minutos; pieza 2, canon a tres voces, 4 minutos; pieza 3, unísono con percusión suave, 5 minutos; entre una pieza y otra, 1 minuto de pausa y de presentación hablada. El programa empieza a las 18:00 horas, pero la pieza 2 dura 6 minutos en lugar de 4. ¿Cuántos minutos después de las 18:00 termina?
 - **D2.** Una persona sube una grabación de un compañero a una red social sin su permiso. El compañero se siente mal. ¿Qué debe hacer el compañero? A) Guardar una captura, pedir que la retiren y avisar a una persona adulta de confianza. B) Borrar el chat y no contárselo a nadie.
 
 *Situaciones auténticas*
@@ -1024,7 +1024,7 @@ Respuesta: Bajaron 2 errores
 - **A3.** B. Con errores y tempo se puede comprobar si mejoró.
 - **Z1.** 12 minutos. Se multiplican los minutos de cada versión por el número de versiones. Cálculo: 4 × 3 = 12.
 - **Z2.** A. Los errores bajaron de 6 a 4 y luego se mantuvieron en 4.
-- **D1.** 14 minutos después de las 18:00. Se suman las tres piezas y las dos pausas. Cálculo: 3 + 1 + 4 + 1 + 5 = 14.
+- **D1.** 16 minutos después de las 18:00. Se suman las tres piezas (con la pieza 2 de 6 minutos) y las dos pausas. Cálculo: 3 + 1 + 6 + 1 + 5 = 16.
 - **D2.** A. Es un protocolo seguro: evidencia, solicitud de retiro y apoyo adulto.
 - **S1.** A. No se incluyen datos personales; solo la información de la presentación.
 - **E1.** Para anotar datos de cada ensayo y comparar versiones. Registra fecha, tempo, errores y mejoras.

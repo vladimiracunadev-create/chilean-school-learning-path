@@ -67,11 +67,11 @@ lesson(
         ("¿Qué frase es correcta? A) I used to collect stamps, but now I don't. B) I use to collect stamps, but now I don't.", "A) I used to collect stamps, but now I don't.", "En pasado se dice used to."),
     ],
     [
-        (BEES + " Un compañero responde «I like colours». ¿Por qué no es buena conexión? A) no se relaciona con lo que dice el texto B) está en inglés", "A) no se relaciona con lo que dice el texto", "Una conexión parte de una idea del texto."),
+        (BEES + " Un compañero responde «I like colours». ¿Por qué no es buena conexión? A) no se relaciona con lo que dice el texto B) no usa have", "A) no se relaciona con lo que dice el texto", "Una conexión parte de una idea del texto."),
         ("Tu compañero dice «I have visited the beach yesterday». ¿Qué problema tiene? A) con yesterday se usa el pasado: I visited the beach yesterday B) falta used to", "A) con yesterday se usa el pasado: I visited the beach yesterday", "Yesterday es una fecha concreta del pasado."),
     ],
     [
-        (FIESTA + " ¿Qué respuesta combina cultura propia y comparación? A) In my family, we eat empanadas, and other countries also have special food on holidays. B) Holidays are long.", "A) In my family, we eat empanadas, and other countries also have special food on holidays.", "Une una costumbre propia con la idea del texto."),
+        (FIESTA + " ¿Qué respuesta combina cultura propia y comparación? A) In my family, we eat empanadas, and other countries also have special food on holidays. B) Other countries have holidays too.", "A) In my family, we eat empanadas, and other countries also have special food on holidays.", "Une una costumbre propia con la idea del texto."),
         arith(SPAIN + " Tu trayecto al colegio dura 15 minutos y el de la adolescente, 10. ¿Cuántos minutos más dura el tuyo?", "15-10", "Se resta 10 a 15.", " minutos"),
     ],
     [("En clase te preguntan «How does the text about bees connect with your life?». ¿Cuál es la mejor respuesta? A) In Science, we learned that bees help plants, and I have seen bees in my garden. B) I don't know.", "A) In Science, we learned that bees help plants, and I have seen bees in my garden.", "Combina Ciencias y una experiencia personal.")],
@@ -123,7 +123,7 @@ lesson(
         arith("«First, I walk 6 minutes to the bus stop. Then I ride the bus for 14 minutes. Finally, I walk 4 minutes to school.» ¿Cuántos minutos dura en total el camino?", "6+14+4", "Se suman los tres tramos de la secuencia.", " minutos"),
     ],
     [
-        ("Compara: «Although I am tired, I will study» y «Because I am tired, I will study». ¿Qué cambia? A) la primera muestra contraste; la segunda, una razón B) no cambia nada", "A) la primera muestra contraste; la segunda, una razón", "El conector cambia el sentido de la relación."),
+        ("Compara: «Although I am tired, I will study» y «Because I am tired, I will study». ¿Qué cambia? A) la primera muestra contraste; la segunda, una razón B) la primera muestra una razón; la segunda, un contraste", "A) la primera muestra contraste; la segunda, una razón", "El conector cambia el sentido de la relación."),
         ("Un compañero escribe: «Finally, we met at the cinema. First, we bought tickets.» ¿Qué error tiene? A) el orden de los conectores no coincide con el orden lógico B) falta una coma", "A) el orden de los conectores no coincide con el orden lógico", "First debe ir al inicio y Finally al final."),
     ],
     [
@@ -168,7 +168,7 @@ lesson(
         ("¿Qué significa According to the survey? A) según la encuesta B) en mi opinión", "A) según la encuesta", "Atribuye el dato a una fuente."),
     ],
     [
-        ("¿Qué significa I agree? A) estoy de acuerdo B) no entiendo", "A) estoy de acuerdo", "Expresa estar de acuerdo."),
+        ("¿Qué significa I agree? A) estoy de acuerdo B) estoy en desacuerdo", "A) estoy de acuerdo", "Expresa estar de acuerdo."),
         (SURVEY + " ¿Qué frase atribuye el dato a la fuente? A) According to the survey, 4 students go by car. B) I believe 4 students go by car.", "A) According to the survey, 4 students go by car.", "Nombra la encuesta como fuente."),
         ("¿Qué frase expresa un sentimiento? A) I feel proud. B) I read a book.", "A) I feel proud.", "I feel + adjetivo expresa un sentimiento."),
     ],
@@ -185,7 +185,7 @@ lesson(
         ("¿Qué frase expresa un sentimiento hacia un texto? A) The story made me feel sad because the dog was alone. B) The story has a dog.", "A) The story made me feel sad because the dog was alone.", "Expresa un sentimiento con razón."),
         ("«The bus often arrives late.» Un estudiante dice «Maybe the driver is lazy». ¿Qué problema tiene? A) es una suposición sin evidencia B) es un hecho de la encuesta", "A) es una suposición sin evidencia", "El texto no da razón de la demora."),
     ],
-    [("En una discusión sobre si se permiten celulares en clase, ¿qué opinión usa una frase y una razón? A) In my opinion, phones can help because we can look up words, but we should use them only when the teacher asks. B) Phones are phones.", "A) In my opinion, phones can help because we can look up words, but we should use them only when the teacher asks.", "Usa una frase de opinión, una razón y un matiz.")],
+    [("En una discusión sobre si se permiten celulares en clase, ¿qué opinión usa una frase y una razón? A) In my opinion, phones can help because we can look up words, but we should use them only when the teacher asks. B) In my opinion, phones are bad.", "A) In my opinion, phones can help because we can look up words, but we should use them only when the teacher asks.", "Usa una frase de opinión, una razón y un matiz.")],
     [
         ("En Inglés de 1.º medio (OA 7, clase 3): ¿qué significa according to...?", "Según...: atribuye un dato a una fuente", "Distingue un hecho de una opinión."),
         ("En Inglés de 1.º medio (OA 7, clase 3): ¿qué frase usas para discrepar con respeto?", "I see your point, but I disagree because...", "Reconoce al otro y explica tu razón."),
@@ -231,8 +231,8 @@ lesson(
         ("Ordena las palabras: lived / has / how long / he / here", "How long has he lived here?", "La estructura es how long + has + sujeto + participio."),
     ],
     [
-        ("Compañero A: «Nora has a new pet.» Compañero B: «It is small and sleeps a lot.» ¿Qué hipótesis se apoya en ambas pistas? A) Maybe it is a cat, because it is small and sleeps a lot. B) Maybe it is a horse, because it is small.", "A) Maybe it is a cat, because it is small and sleeps a lot.", "Las pistas apoyan a un gato, no a un caballo."),
-        ("A te dice «Nora has had her pet.» y no dice cuánto tiempo. ¿Qué preguntas para completar? A) How long has she had it? B) Where is the pet?", "A) How long has she had it?", "Pregunta por la duración."),
+        ("Compañero A: «Nora has a new pet.» Compañero B: «It is small and sleeps a lot.» ¿Qué hipótesis se apoya en ambas pistas? A) Maybe it is a cat, because it is small and sleeps a lot. B) Maybe it is a fish, because it is small.", "A) Maybe it is a cat, because it is small and sleeps a lot.", "Las pistas apoyan a un gato, no a un caballo."),
+        ("A te dice «Nora has had her pet.» y no dice cuánto tiempo. ¿Qué pregunta haces para completar? A) How long has she had it? B) Where is the pet?", "A) How long has she had it?", "Pregunta por la duración."),
     ],
     [
         ("Pistas: hay migas en la mesa y el plato está vacío. ¿Qué hipótesis es mejor? A) Maybe someone ate here, because there are crumbs and an empty plate. B) Maybe someone slept here.", "A) Maybe someone ate here, because there are crumbs and an empty plate.", "Las pistas apoyan que alguien comió."),
@@ -271,7 +271,7 @@ lesson(
         ("No escuchar y repetir una opinión ya dicha.", "La atención está en el turno propio.", "Responde a lo que dijo la otra persona con I agree o I see your point, but...."),
     ],
     [
-        (UNI + " ¿Cuál es la idea principal del texto? A) hay distintas opiniones sobre los uniformes B) todos los colegios prohíben los uniformes", "A) hay distintas opiniones sobre los uniformes", "El texto presenta razones a favor y en contra."),
+        (UNI + " ¿Cuál es la idea principal del texto? A) hay distintas opiniones sobre los uniformes B) los uniformes son obligatorios en todos los colegios", "A) hay distintas opiniones sobre los uniformes", "El texto presenta razones a favor y en contra."),
         (UNI + " ¿Qué razón dan quienes apoyan los uniformes? A) que los estudiantes se ven iguales y sienten que pertenecen al grupo B) que son baratos", "A) que los estudiantes se ven iguales y sienten que pertenecen al grupo", "Dice students look equal and feel part of a group."),
         ("¿Qué pregunta invita a otra persona a opinar? A) What do you think? B) I think.", "A) What do you think?", "Es una pregunta abierta."),
     ],

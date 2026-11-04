@@ -334,7 +334,7 @@ Respuesta: Dani
 
 *Ejemplo 2. Pensar un apoyo*
 
-Problema: Grupo de ejemplo de cuatro estudiantes que prepara una pieza. Dani: su fortaleza es mantener el pulso; su área de crecimiento es leer partituras. Eli: su fortaleza es afinar; su área de crecimiento es entrar a tiempo. Fran: su fortaleza es proponer ideas para arreglar; su área de crecimiento es terminar lo que propone. Gabi: su fortaleza es explicar y anotar lo que ocurre en el ensayo; su área de crecimiento es tocar con volumen suave cuando acompaña. Eli tiene como área de crecimiento entrar a tiempo. ¿Quién puede apoyarla y cómo?
+Problema: Grupo de ejemplo de cuatro estudiantes que prepara una pieza. Dani: su fortaleza es mantener el pulso; su área de crecimiento es leer partituras. Eli: su fortaleza es afinar; su área de crecimiento es entrar a tiempo. Fran: su fortaleza es proponer ideas para arreglar; su área de crecimiento es terminar lo que propone. Gabi: su fortaleza es explicar y anotar lo que ocurre en el ensayo; su área de crecimiento es tocar con volumen suave cuando acompaña. Eli tiene como área de crecimiento entrar a tiempo. ¿Qué integrante, por su fortaleza en el pulso, puede apoyarla y cómo?
 
 1. Dani mantiene el pulso.
 2. Puede darle una señal de entrada con la cabeza.
@@ -569,7 +569,7 @@ Respuesta: 1 error por semana
 
 *Aplicación*
 
-- **A1.** Situación de ejemplo: Hugo tiene 6 errores de afinación en una frase de 8 compases y quiere bajar a 2 en 4 semanas. Dispone de 15 minutos al día, 5 días a la semana, y de su voz. ¿Cuántos minutos practica Hugo en una semana?
+- **A1.** Situación de ejemplo: Hugo tiene 6 errores de afinación en una frase de 8 compases y quiere bajar a 2 en 4 semanas. Dispone de 15 minutos al día, 5 días a la semana, y de su voz. ¿Cuántos minutos practica Hugo en 2 semanas si cumple todas las sesiones?
 - **A2.** Situación de ejemplo: Hugo tiene 6 errores de afinación en una frase de 8 compases y quiere bajar a 2 en 4 semanas. Dispone de 15 minutos al día, 5 días a la semana, y de su voz. Si Hugo cumple 4 de las 5 sesiones de una semana, ¿cuántos minutos practicó esa semana?
 - **A3.** Situación de ejemplo: Hugo tiene 6 errores de afinación en una frase de 8 compases y quiere bajar a 2 en 4 semanas. Dispone de 15 minutos al día, 5 días a la semana, y de su voz. Hugo mide cantando la frase tres veces: tuvo 6, 5 y 7 errores. ¿Cuál es la menor cantidad de errores de las tres?
 
@@ -591,7 +591,7 @@ Respuesta: 1 error por semana
 
 - **E1.** ¿Cuáles son las tres características de una buena meta?
 - **E2.** ¿Qué haces si el plan no da resultado?
-- **E3.** Si una meta baja 4 errores en 4 semanas, ¿cuántos baja por semana?
+- **E3.** Una meta baja 9 errores en 3 semanas, la misma cantidad cada semana. ¿Cuántos errores baja por semana?
 
 **Actividad abierta.** Elige un área de crecimiento (por ejemplo, entrar a tiempo, afinar, mantener el pulso o improvisar) y escribe un plan de mejora con datos que inventes: a) meta específica, medible y con plazo, b) tiempo disponible por semana y total, c) dos acciones concretas, d) cómo medirás el avance cada semana, e) quién puede apoyarte.
 
@@ -603,7 +603,7 @@ Respuesta: 1 error por semana
 - **C1.** B. Tiene qué mejorar, un número y un plazo.
 - **C2.** B. Es una acción que se puede realizar y medir.
 - **C3.** A. Un avance menor al esperado es información para ajustar.
-- **A1.** 75 minutos. Se multiplican los minutos diarios por los días. Cálculo: 15 × 5 = 75.
+- **A1.** 150 minutos. Se multiplican los minutos diarios por los días y por las semanas. Cálculo: 15 × 5 × 2 = 150.
 - **A2.** 60 minutos. Se multiplican los minutos de cada sesión por las sesiones cumplidas. Cálculo: 15 × 4 = 60.
 - **A3.** 5. Es el valor más bajo de la lista.
 - **Z1.** 100 minutos. Se suman los minutos de práctica diaria y los de audición. Cálculo: 15 × 5 + 25 = 100.
@@ -613,7 +613,7 @@ Respuesta: 1 error por semana
 - **S1.** A. Un ajuste razonable mantiene el plan.
 - **E1.** Específica, medible y con plazo. Permiten saber si se logró.
 - **E2.** Reviso el plan y cambio una acción. Se usa la evidencia para ajustar.
-- **E3.** 1. 4 dividido en 4.
+- **E3.** 3. 9 dividido en 3.
 
 **Actividad abierta · ejemplo de respuesta.** a) Entrar a tiempo en 4 de 4 ensayos en 3 semanas (hoy entro a tiempo 1 de 4). b) 15 minutos por día, 4 días: 60 minutos por semana; 180 en 3 semanas. c) Contar mentalmente 4 pulsos antes de entrar; practicar la entrada con palmas. d) Cada semana anotaré en cuántos de 4 ensayos entré a tiempo. e) Mi compañera Eli me da la señal.
 
@@ -764,7 +764,7 @@ Respuesta: Las alternativas 1 y 4
 
 *Recuperación*
 
-- **R1.** Situación de ejemplo: Ines quiere mejorar su pulso, pero en su casa no tiene instrumentos ni un lugar donde hacer ruido, y solo dispone de 12 minutos al día. Alternativas: 1) marcar el pulso con palmas suaves a 80 pulsos por minuto mientras oye una canción con auriculares a volumen bajo; 2) comprar un instrumento caro; 3) ensayar con volumen muy alto; 4) tararear y caminar al pulso en un lugar seguro. ¿Cuántos minutos al día tiene Ines para practicar?
+- **R1.** Situación de ejemplo: Ines quiere mejorar su pulso, pero en su casa no tiene instrumentos ni un lugar donde hacer ruido, y solo dispone de 12 minutos al día. Alternativas: 1) marcar el pulso con palmas suaves a 80 pulsos por minuto mientras oye una canción con auriculares a volumen bajo; 2) comprar un instrumento caro; 3) ensayar con volumen muy alto; 4) tararear y caminar al pulso en un lugar seguro. ¿Cuántos minutos tiene Ines para practicar en 5 días?
 - **R2.** Situación de ejemplo: Ines quiere mejorar su pulso, pero en su casa no tiene instrumentos ni un lugar donde hacer ruido, y solo dispone de 12 minutos al día. Alternativas: 1) marcar el pulso con palmas suaves a 80 pulsos por minuto mientras oye una canción con auriculares a volumen bajo; 2) comprar un instrumento caro; 3) ensayar con volumen muy alto; 4) tararear y caminar al pulso en un lugar seguro. ¿Qué área quiere mejorar Ines?
 - **R3.** Situación de ejemplo: Ines quiere mejorar su pulso, pero en su casa no tiene instrumentos ni un lugar donde hacer ruido, y solo dispone de 12 minutos al día. Alternativas: 1) marcar el pulso con palmas suaves a 80 pulsos por minuto mientras oye una canción con auriculares a volumen bajo; 2) comprar un instrumento caro; 3) ensayar con volumen muy alto; 4) tararear y caminar al pulso en un lugar seguro. ¿Por qué la alternativa 2 no es posible para Ines?
 
@@ -804,7 +804,7 @@ Respuesta: Las alternativas 1 y 4
 
 **Solucionario razonado**
 
-- **R1.** 12. Así lo dice la situación.
+- **R1.** 60 minutos. Se multiplican los minutos diarios por los días. Cálculo: 12 × 5 = 60.
 - **R2.** El pulso. Así lo dice la situación.
 - **R3.** Porque no tiene recursos para comprar un instrumento caro. No cumple el criterio de recursos.
 - **C1.** A. Un volumen muy alto daña el oído y molesta.
@@ -984,7 +984,7 @@ Respuesta: Entró a tiempo 2 veces más
 
 *Aplicación*
 
-- **A1.** Registro de ejemplo de Joaquín, semana 1 y semana 4, en la misma frase de 8 compases cantada tres veces. Semana 1: errores de afinación 6, 7 y 5; entró a tiempo 1 de 3 veces; 70 pulsos por minuto. Semana 4: errores de afinación 4, 3 y 2; entró a tiempo 3 de 3 veces; 80 pulsos por minuto. ¿Cuál es el promedio de errores de la semana 1? Suma 6, 7 y 5 y divide entre 3.
+- **A1.** Registro de ejemplo de Joaquín, semana 1 y semana 4, en la misma frase de 8 compases cantada tres veces. Semana 1: errores de afinación 6, 7 y 5; entró a tiempo 1 de 3 veces; 70 pulsos por minuto. Semana 4: errores de afinación 4, 3 y 2; entró a tiempo 3 de 3 veces; 80 pulsos por minuto. ¿Cuántos errores de afinación sumó Joaquín en total en sus tres cantos de la semana 1?
 - **A2.** Registro de ejemplo de Joaquín, semana 1 y semana 4, en la misma frase de 8 compases cantada tres veces. Semana 1: errores de afinación 6, 7 y 5; entró a tiempo 1 de 3 veces; 70 pulsos por minuto. Semana 4: errores de afinación 4, 3 y 2; entró a tiempo 3 de 3 veces; 80 pulsos por minuto. ¿Cuántos pulsos por minuto subió el tempo entre la semana 1 y la 4?
 - **A3.** Registro de ejemplo de Joaquín, semana 1 y semana 4, en la misma frase de 8 compases cantada tres veces. Semana 1: errores de afinación 6, 7 y 5; entró a tiempo 1 de 3 veces; 70 pulsos por minuto. Semana 4: errores de afinación 4, 3 y 2; entró a tiempo 3 de 3 veces; 80 pulsos por minuto. Un compañero concluye: «Mejoró en todo, para siempre». ¿Qué límite tiene su conclusión? A) Nunca se pueden usar datos. B) Son pocos datos de dos semanas.
 
@@ -1018,7 +1018,7 @@ Respuesta: Entró a tiempo 2 veces más
 - **C1.** B. En la semana 4 tuvo 4, 3 y 2, valores menores que 6, 7 y 5.
 - **C2.** A. Si cambia la frase, cambia la dificultad y la comparación falla.
 - **C3.** B. Una conclusión se apoya en datos del registro.
-- **A1.** 6 errores. La suma es 18 y se divide entre 3. Cálculo: (6 + 7 + 5) ÷ 3 = 6.
+- **A1.** 18 errores. Se suman los errores de los tres cantos. Cálculo: 6 + 7 + 5 = 18.
 - **A2.** 10 pulsos por minuto. Se restan los pulsos de la semana 1 a los de la 4. Cálculo: 80 − 70 = 10.
 - **A3.** B. La evidencia disponible no asegura el futuro.
 - **Z1.** 3 errores. Se restan los promedios de la semana 4 a los de la semana 1. Cálculo: 6 − 3 = 3.

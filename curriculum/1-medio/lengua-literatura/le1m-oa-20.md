@@ -204,7 +204,7 @@ Respuesta: «Se dirá que»
 
 **Actividad abierta · ejemplo de respuesta.** Tesis: incluir fruta todos los días (señal: «Mi postura es»). Argumentos: da energía para la tarde (señal: «En primer lugar»); crea buenos hábitos, con el dato de 20 de 28 (señal: «Además»). Contraargumento: la fruta se echa a perder; respuesta: una caja ventilada la conserva (señales: «Se dirá que», «Sin embargo»). Conclusión: incorporar fruta diaria y votar hoy (señal: «En conclusión»).
 
-**Criterios para evaluarla:** identifica las cinco partes; cita las señales; separa objeción y respuesta.
+**Criterios para evaluarla:** identifica tesis, argumentos, contraargumento y conclusión; cita las señales; separa objeción y respuesta.
 
 **Evidencias aceptables:** esquema con señales.
 
@@ -331,7 +331,7 @@ Problema: Discurso de ejemplo: «Mi postura es que los recreos deben ser de vein
 2. Reformulo cada parte sin ejemplos ni detalles.
 3. Escribo con verbos del orador.
 
-Respuesta: El orador sostiene que los recreos deben durar veinte minutos porque comer y descansar requiere tiempo, y pocos alcanzan a comer en quince. Reconoce que se pierde tiempo de clases, pero afirma que quienes descansan rinden mejor. Concluye pidiendo ampliar el recreo.
+Respuesta: El orador sostiene que los recreos deben durar veinte minutos porque comer y descansar requiere tiempo, y menos de la mitad alcanza a comer en quince minutos. Reconoce que se pierde tiempo de clases, pero afirma que quienes descansan rinden mejor. Concluye pidiendo ampliar el recreo.
 
 *Ejemplo 2. Detectar una opinión intrusa*
 
@@ -480,7 +480,7 @@ Respuesta: Se elimina «Me parece una excelente idea»
 
 **Consigna exacta:** Lee este discurso de ejemplo: «Mi postura es que el curso adopte el uso de bicicletas para ir al colegio. Primero, según un entrenador deportivo, andar en bicicleta fortalece las piernas. Segundo, andar en bicicleta es como caminar, pero más rápido. Tercero, mi vecino lo hace y está feliz. Además, todos los cursos del colegio ya van en bicicleta. Se dirá que es peligroso; no le hagan caso a quienes dicen eso, porque tienen miedo a todo». Clasifica cada argumento (autoridad, analogía, ejemplo, apelación a la mayoría, ataque a la persona), evalúa uno con los tres criterios y señala cuál es el más débil y por qué.
 
-**Referencia para modelar y corregir:** 1) Autoridad (entrenador deportivo): pertinente y confiable si es especialista. 2) Analogía: débil, la comparación es superficial. 3) Ejemplo (el vecino): insuficiente, es un solo caso. 4) Apelación a la mayoría («todos los cursos»): no es una prueba y probablemente es falso. 5) Ataque a la persona («tienen miedo a todo»): no responde a la objeción. El más débil es el ataque a la persona, porque no responde a la objeción y desvía la atención.
+**Referencia para modelar y corregir:** 1) Autoridad (entrenador deportivo): pertinente y confiable si se identifica a un especialista, pero insuficiente si es la única prueba. 2) Analogía: débil, la comparación es superficial. 3) Ejemplo (el vecino): insuficiente, es un solo caso. 4) Apelación a la mayoría («todos los cursos»): no es una prueba y probablemente es falso. 5) Ataque a la persona («tienen miedo a todo»): no responde a la objeción. El más débil es el ataque a la persona, porque no responde a la objeción y desvía la atención.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -494,7 +494,7 @@ Respuesta: Se elimina «Me parece una excelente idea»
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: 1) Autoridad (entrenador deportivo): pertinente y confiable si es especialista. 2) Analogía: débil, la comparación es superficial. 3) Ejemplo (el vecino): insuficiente, es un solo caso. 4) Apelación a la mayoría («todos los cursos»): no es una prueba y probablemente es falso. 5) Ataque a la persona («tienen miedo a todo»): no responde a la objeción. El más débil es el ataque a la persona, porque no responde a la objeción y desvía la atención. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: 1) Autoridad (entrenador deportivo): pertinente y confiable si se identifica a un especialista, pero insuficiente si es la única prueba. 2) Analogía: débil, la comparación es superficial. 3) Ejemplo (el vecino): insuficiente, es un solo caso. 4) Apelación a la mayoría («todos los cursos»): no es una prueba y probablemente es falso. 5) Ataque a la persona («tienen miedo a todo»): no responde a la objeción. El más débil es el ataque a la persona, porque no responde a la objeción y desvía la atención. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -618,7 +618,7 @@ Respuesta: Ataque a la persona
 - **E2.** No. Desvía la atención.
 - **E3.** Sí. Puede comprobarse con facilidad.
 
-**Actividad abierta · ejemplo de respuesta.** 1) Autoridad (entrenador deportivo): pertinente y confiable si es especialista. 2) Analogía: débil, la comparación es superficial. 3) Ejemplo (el vecino): insuficiente, es un solo caso. 4) Apelación a la mayoría («todos los cursos»): no es una prueba y probablemente es falso. 5) Ataque a la persona («tienen miedo a todo»): no responde a la objeción. El más débil es el ataque a la persona, porque no responde a la objeción y desvía la atención.
+**Actividad abierta · ejemplo de respuesta.** 1) Autoridad (entrenador deportivo): pertinente y confiable si se identifica a un especialista, pero insuficiente si es la única prueba. 2) Analogía: débil, la comparación es superficial. 3) Ejemplo (el vecino): insuficiente, es un solo caso. 4) Apelación a la mayoría («todos los cursos»): no es una prueba y probablemente es falso. 5) Ataque a la persona («tienen miedo a todo»): no responde a la objeción. El más débil es el ataque a la persona, porque no responde a la objeción y desvía la atención.
 
 **Criterios para evaluarla:** clasifica los argumentos; evalúa con los tres criterios; justifica el más débil.
 

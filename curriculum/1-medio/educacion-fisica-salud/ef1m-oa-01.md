@@ -1020,7 +1020,7 @@ Respuesta: Aumento un poco la fuerza o acerco la caja
 
 *Situaciones auténticas*
 
-- **S1.** Evaluación de ejemplo: lanzaste 10 veces un calcetín a una caja a 2 m y 3 entraron. Las 7 que fallaron cayeron cortas. ¿Qué ajuste eliges: A) acercar la caja un paso o aumentar un poco la fuerza; B) cambiar de mano y de distancia a la vez?
+- **S1.** Evaluación de ejemplo: lanzaste 10 veces un calcetín a una caja a 2 m y 3 entraron. Las 7 que fallaron cayeron cortas. ¿Qué ajuste eliges: A) acercar la caja un paso; B) cambiar de mano y de distancia a la vez?
 - **S2.** Tras el ajuste anterior, entran 5 de 10. ¿Cuál es el porcentaje de logro?
 
 *Autoevaluación*

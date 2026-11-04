@@ -164,7 +164,7 @@ Respuesta: Dice: evaporación, enfriamiento, gotas. Pienso: qué pasa después
 
 *Razonamiento y análisis*
 
-- **Z1.** ¿Cuál de las dos versiones busca persuadir? A) «¡No te pierdas la feria del libro! ¡Tus próximas aventuras te esperan!» B) El sábado habrá una feria del libro en la plaza, de 10 a 18 horas
+- **Z1.** ¿Cuál de las dos versiones busca persuadir? A) «El sábado habrá una feria del libro en la plaza, de 10 a 18 horas.» B) «¡No te pierdas la feria del libro! ¡Tus próximas aventuras te esperan!»
 - **Z2.** ¿Por qué una explicación sobre el reciclaje cambia entre una charla para niños de 8 años y una para jóvenes de 15? A) Porque la audiencia determina el vocabulario y los ejemplos B) Porque el reciclaje cambia según la edad C) Porque los niños no pueden escuchar
 
 *Desafío*
@@ -195,7 +195,7 @@ Respuesta: Dice: evaporación, enfriamiento, gotas. Pienso: qué pasa después
 - **A1.** C) exposición. Alguien explica un tema paso a paso.
 - **A2.** B) Firmen hoy la petición. Es una orden dirigida a la audiencia.
 - **A3.** B) informar sobre la naturaleza y mostrar su belleza. Presenta un fenómeno natural.
-- **Z1.** A) «¡No te pierdas la feria del libro! ¡Tus próximas aventuras te esperan!». Usa exclamaciones y una invitación directa.
+- **Z1.** B) «¡No te pierdas la feria del libro! ¡Tus próximas aventuras te esperan!». Usa exclamaciones y una invitación directa.
 - **Z2.** A) Porque la audiencia determina el vocabulario y los ejemplos. El emisor adecúa el mensaje a quien lo recibe.
 - **D1.** A) agradecer y reconocer. El emisor destaca el esfuerzo del grupo.
 - **D2.** A) «¿Qué marca de zapatillas usa el emisor?». La marca de zapatillas no explica la situación comunicativa.
@@ -361,7 +361,7 @@ Respuesta: «Recuerden esto»
 *Comprensión*
 
 - **C1.** Lee: «El reciclaje reduce la basura que llega a los rellenos. Por ejemplo, el papel puede reutilizarse. En mi casa usamos cajas azules». ¿Cuál es la idea principal? A) En mi casa usamos cajas azules B) El papel puede reutilizarse C) El reciclaje reduce la basura que llega a los rellenos
-- **C2.** Lee: «El reciclaje reduce la basura que llega a los rellenos. Por ejemplo, el papel puede reutilizarse. En mi casa usamos cajas azules». ¿Qué se puede eliminar sin perder el mensaje central? A) En mi casa usamos cajas azules B) El reciclaje reduce la basura C) Por ejemplo, el papel puede reutilizarse
+- **C2.** Lee: «El reciclaje reduce la basura que llega a los rellenos. Por ejemplo, el papel puede reutilizarse. En mi casa usamos cajas azules». ¿Cuál es solo un detalle personal, que no explica ni apoya la idea principal? A) Por ejemplo, el papel puede reutilizarse B) El reciclaje reduce la basura C) En mi casa usamos cajas azules
 - **C3.** En un noticiario, un titular en pantalla dice «Sube la demanda de bicicletas». ¿Qué función cumple? A) reemplaza el sonido B) resume la idea principal de la noticia C) agrega un detalle sin importancia
 
 *Aplicación*
@@ -398,7 +398,7 @@ Respuesta: «Recuerden esto»
 - **R2.** A) una idea que apoya o explica la principal. Sirve para sostener la idea principal.
 - **R3.** A) introduce un ejemplo. Los ejemplos apoyan una idea mayor.
 - **C1.** C) El reciclaje reduce la basura que llega a los rellenos. Las otras dos apoyan o ilustran.
-- **C2.** A) En mi casa usamos cajas azules. Es un detalle personal.
+- **C2.** C) En mi casa usamos cajas azules. Cuenta una costumbre de quien habla; no explica el reciclaje.
 - **C3.** B) resume la idea principal de la noticia. Los titulares sintetizan el tema.
 - **A1.** A) que abre de lunes a domingo, de 8:00 a 20:00. Responde si se puede ir el domingo y a qué hora.
 - **A2.** A) Muchos peces migran para alimentarse y reproducirse. Reúne los ejemplos y la razón.
@@ -690,7 +690,7 @@ Respuesta: La segunda
 
 **Consigna exacta:** Lee la transcripción de ejemplo de un programa de radio: «Los adolescentes solo piensan en el celular. Siempre andan distraídos y nunca ayudan en nada. En fin, el tiempo es oro, y ellos lo pierden». Marca dos generalizaciones (las que usan «siempre» o «nunca»), un estereotipo y un cliché. Luego reescribe el mensaje en dos oraciones más precisas, agregando un dato de ejemplo.
 
-**Referencia para modelar y corregir:** Generalizaciones: «siempre andan distraídos», «nunca ayudan en nada». Estereotipo: «Los adolescentes solo piensan en el celular». Cliché: «el tiempo es oro». Reescritura: «Algunos adolescentes usan el celular varias horas al día, según una encuesta de ejemplo. Muchos también participan en actividades de ayuda en su barrio».
+**Referencia para modelar y corregir:** Generalizaciones: «siempre andan distraídos», «nunca ayudan en nada». Estereotipo: «Los adolescentes solo piensan en el celular». Cliché: «el tiempo es oro». Reescritura: «Según una encuesta de ejemplo, 6 de cada 10 adolescentes usan el celular más de tres horas al día. Muchos también participan en actividades de ayuda en su barrio».
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -704,7 +704,7 @@ Respuesta: La segunda
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Generalizaciones: «siempre andan distraídos», «nunca ayudan en nada». Estereotipo: «Los adolescentes solo piensan en el celular». Cliché: «el tiempo es oro». Reescritura: «Algunos adolescentes usan el celular varias horas al día, según una encuesta de ejemplo. Muchos también participan en actividades de ayuda en su barrio». |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Generalizaciones: «siempre andan distraídos», «nunca ayudan en nada». Estereotipo: «Los adolescentes solo piensan en el celular». Cliché: «el tiempo es oro». Reescritura: «Según una encuesta de ejemplo, 6 de cada 10 adolescentes usan el celular más de tres horas al día. Muchos también participan en actividades de ayuda en su barrio». |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -828,7 +828,7 @@ Respuesta: Según una encuesta de ejemplo, 3 de cada 10 jóvenes leen menos de u
 - **E2.** Sí. Esa es su definición.
 - **E3.** No. No aporta datos comprobables.
 
-**Actividad abierta · ejemplo de respuesta.** Generalizaciones: «siempre andan distraídos», «nunca ayudan en nada». Estereotipo: «Los adolescentes solo piensan en el celular». Cliché: «el tiempo es oro». Reescritura: «Algunos adolescentes usan el celular varias horas al día, según una encuesta de ejemplo. Muchos también participan en actividades de ayuda en su barrio».
+**Actividad abierta · ejemplo de respuesta.** Generalizaciones: «siempre andan distraídos», «nunca ayudan en nada». Estereotipo: «Los adolescentes solo piensan en el celular». Cliché: «el tiempo es oro». Reescritura: «Según una encuesta de ejemplo, 6 de cada 10 adolescentes usan el celular más de tres horas al día. Muchos también participan en actividades de ayuda en su barrio».
 
 **Criterios para evaluarla:** identifica los cuatro elementos; evita generalizar; agrega un dato de ejemplo.
 

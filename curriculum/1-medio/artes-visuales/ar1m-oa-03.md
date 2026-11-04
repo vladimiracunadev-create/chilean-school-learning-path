@@ -158,7 +158,7 @@ Respuesta: No, es una inferencia sin respaldo en la ficha
 
 - **A1.** Otra imagen digital de ejemplo mide 20 píxeles de ancho por 20 de alto. ¿Cuántos píxeles tiene en total?
 - **A2.** Una tira de 84 cm se pliega en paneles de 12 cm. ¿Cuántos paneles tiene?
-- **A3.** Un libro se toca y se guarda; una imagen digital se comparte con facilidad. Quieres que un familiar lejano vea tu obra esta semana. ¿Qué formato facilita eso? A. Una imagen digital B. Un libro único.
+- **A3.** Un libro se toca y se guarda; una imagen digital se comparte con facilidad. Quieres que una persona que vive en otra ciudad vea tu obra esta semana. ¿Qué formato facilita eso? A. Una imagen digital B. Un libro único.
 
 *Razonamiento y análisis*
 
@@ -376,7 +376,7 @@ Respuesta: La de 32 por 32
 
 *Desafío*
 
-- **D1.** Tu libro de ejemplo tiene 16 páginas y cada hoja doblada aporta 4 páginas. ¿Cuántas hojas necesitas?
+- **D1.** Tu libro de ejemplo tiene 16 páginas y cada hoja doblada por la mitad aporta 4 páginas (dos por cada lado). ¿Cuántas hojas necesitas?
 - **D2.** Quieres usar la foto de un amigo en tu obra digital porque se ve muy bien. ¿Qué haces primero? A. Usarla y avisarle después B. Pedirle autorización a él y anotar el crédito.
 
 *Situaciones auténticas*
@@ -574,7 +574,7 @@ Respuesta: V2, porque deja claro que la persona es el centro
 
 *Aplicación*
 
-- **A1.** Probaste tres versiones de una secuencia de seis cuadros con cinco personas que no conocen tu idea. Entendieron el orden: 1 persona con la P1 (diez colores), 4 con la P2 (tres colores) y 2 con la P3 (cinco colores). Tu criterio es claridad. ¿Cuál eliges?
+- **A1.** Probaste tres versiones de una secuencia de seis cuadros con cinco personas que no conocen tu idea; cada persona vio una sola versión. Entendieron el orden: 1 persona con la P1 (diez colores), 3 con la P2 (tres colores) y 1 con la P3 (cinco colores). Tu criterio es claridad. ¿Cuál eliges?
 - **A2.** Un acordeón de ejemplo tiene 8 paneles y cada panel mide 12 cm. ¿Cuántos centímetros mide la tira abierta?
 - **A3.** Una persona mira tu storyboard y dice que entiende el orden de los cuadros 1 al 4, pero no el 5 y el 6. ¿Qué haces? A. Reviso el encuadre y el orden de los cuadros 5 y 6 B. Cambio los cuadros 1 al 4.
 
@@ -839,7 +839,7 @@ Respuesta: Dibujo propio, foto del amigo con permiso y crédito anotado
 
 **Retroalimentación constructiva:** Pregunta cómo hizo cada cálculo y qué datos personales quitó de su obra.
 
-**Refuerzo.** Cuenta a una persona de tu casa cuántas tiras de 30 cm necesitas para un acordeón de 6 paneles de 15 cm.
+**Refuerzo.** Cuenta a una persona de tu casa cuántas tiras de 30 cm necesitas para un acordeón de 5 paneles de 12 cm.
 
 **Profundización.** Elige una imagen de tu imaginario y escribe tres datos personales que quitarías antes de mostrarla.
 

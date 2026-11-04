@@ -154,7 +154,7 @@ Respuesta: ¿Por qué Camilo cambió de decisión al ponerse en el lugar del otr
 
 - **C1.** Texto: «La abuela repasaba las fotos y decía: «Nada de esto es ayer, y sin embargo estoy aquí». Luego cerraba el álbum con cuidado, como quien cierra una puerta que no quiere trabar.» ¿Qué dimensión destaca? A) la existencial B) la ética
 - **C2.** Texto: «Camilo vio caer un billete del bolsillo de un desconocido. Lo levantó, lo guardó y caminó dos cuadras. Entonces pensó en lo que él habría sentido al perderlo, y dio la vuelta.» ¿Qué dimensión destaca? A) la afectiva B) la ética
-- **C3.** Texto: «En la feria del barrio, don Ramón dejó de cobrar la verdura a los vecinos que el invierno dejó sin trabajo. Nadie lo comentó en voz alta; al mes siguiente, tres de ellos le armaron el toldo.» ¿Cuál es una acción del texto que muestra solidaridad? A) don Ramón deja de cobrar la verdura B) la feria tiene un toldo
+- **C3.** Texto: «En la feria del barrio, don Ramón dejó de cobrar la verdura a los vecinos que el invierno dejó sin trabajo. Nadie lo comentó en voz alta; al mes siguiente, tres de ellos le armaron el toldo.» ¿Cuál es una acción del texto que muestra solidaridad? A) don Ramón deja de cobrar la verdura B) nadie lo comentó en voz alta
 
 *Aplicación*
 
@@ -164,13 +164,13 @@ Respuesta: ¿Por qué Camilo cambió de decisión al ponerse en el lugar del otr
 
 *Razonamiento y análisis*
 
-- **Z1.** Texto: «Camilo vio caer un billete del bolsillo de un desconocido. Lo levantó, lo guardó y caminó dos cuadras. Entonces pensó en lo que él habría sentido al perderlo, y dio la vuelta.» Un compañero afirma: «El texto trata de la dimensión social, porque hay un desconocido». ¿Qué le responderías? A) que lo central es la decisión de Camilo, es decir, ética B) que hay que dejar de leer
+- **Z1.** Texto: «Camilo vio caer un billete del bolsillo de un desconocido. Lo levantó, lo guardó y caminó dos cuadras. Entonces pensó en lo que él habría sentido al perderlo, y dio la vuelta.» Un compañero afirma: «El texto trata de la dimensión social, porque hay un desconocido». ¿Qué le responderías? A) que tiene razón, porque la dimensión social se define por la cantidad de personajes B) que lo central es la decisión de Camilo, es decir, ética
 - **Z2.** Texto: «Elisa guardó el último mensaje de su amigo sin responderlo. Cada vez que abría el teléfono, el mensaje seguía ahí, y cada vez sentía que contestar era admitir que la mudanza ya había ocurrido.» ¿Puede el texto también tocar la dimensión existencial? A) no, porque solo habla del teléfono B) sí, porque habla de que algo ya cambió y no vuelve
 
 *Desafío*
 
 - **D1.** Tienes cuatro textos breves: «Elisa guardó el último mensaje de su amigo sin responderlo. Cada vez que abría el teléfono, el mensaje seguía ahí, y cada vez sentía que contestar era admitir que la mudanza ya había ocurrido.»; «En la feria del barrio, don Ramón dejó de cobrar la verdura a los vecinos que el invierno dejó sin trabajo. Nadie lo comentó en voz alta; al mes siguiente, tres de ellos le armaron el toldo.»; «Camilo vio caer un billete del bolsillo de un desconocido. Lo levantó, lo guardó y caminó dos cuadras. Entonces pensó en lo que él habría sentido al perderlo, y dio la vuelta.»; «La abuela repasaba las fotos y decía: «Nada de esto es ayer, y sin embargo estoy aquí». Luego cerraba el álbum con cuidado, como quien cierra una puerta que no quiere trabar.». Quieres uno para reflexionar sobre la solidaridad en una comunidad. ¿Cuál? Escribe el nombre del personaje principal.
-- **D2.** Las cuatro lecturas anteriores corresponden en orden a: afectiva, social, ética, existencial. Un lector asocia la ética al texto de la abuela con las fotos. ¿Cuál es el error? A) la abuela refleja la dimensión existencial, no la ética B) la ética no existe
+- **D2.** Un lector asocia la dimensión ética al texto de la abuela: «La abuela repasaba las fotos y decía: «Nada de esto es ayer, y sin embargo estoy aquí». Luego cerraba el álbum con cuidado, como quien cierra una puerta que no quiere trabar.» ¿Cuál es el error? A) la abuela refleja la dimensión existencial, no la ética B) la abuela refleja la dimensión social, no la ética
 
 *Situaciones auténticas*
 
@@ -191,11 +191,11 @@ Respuesta: ¿Por qué Camilo cambió de decisión al ponerse en el lugar del otr
 - **R3.** A) pregunta qué muestra el hecho sobre las personas. Reflexionar es dar un paso más allá de contar lo ocurrido.
 - **C1.** A) la existencial. Trata del paso del tiempo y de estar presente, es decir, del sentido de vivir.
 - **C2.** B) la ética. El eje es una decisión sobre qué es correcto hacer con algo ajeno.
-- **C3.** A) don Ramón deja de cobrar la verdura. Es un acto de ayuda hacia otros; el toldo es solo un objeto.
+- **C3.** A) don Ramón deja de cobrar la verdura. Es un acto de ayuda hacia otros; que nadie lo comente es solo un detalle del ambiente.
 - **A1.** B) ¿Por qué Elisa siente que responder sería aceptar la mudanza?. Apunta al sentido emocional del hecho; contar mensajes no lo hace.
 - **A2.** A) sí. Parte de la imagen del álbum y la conecta con una idea que le importa, sin necesidad de contar intimidades.
 - **A3.** 2. El texto de don Ramón muestra ayuda entre vecinos; los otros tratan de un vínculo que se aleja y del paso del tiempo.
-- **Z1.** A) que lo central es la decisión de Camilo, es decir, ética. La dimensión se define por el eje del conflicto, no solo por los personajes que aparecen.
+- **Z1.** B) que lo central es la decisión de Camilo, es decir, ética. La dimensión se define por el eje del conflicto, no solo por los personajes que aparecen.
 - **Z2.** B) sí, porque habla de que algo ya cambió y no vuelve. La idea de que la mudanza ya ocurrió remite al paso del tiempo; un texto puede combinar dimensiones.
 - **D1.** don Ramón. El texto de la feria muestra solidaridad comunitaria.
 - **D2.** A) la abuela refleja la dimensión existencial, no la ética. El texto trata del tiempo y de estar presente, no de una decisión sobre lo correcto.
@@ -354,7 +354,7 @@ Respuesta: Es una suposición
 
 *Recuperación*
 
-- **R1.** Texto: «El mercado todavía olía a café cuando Inés bajó la reja. Contó las monedas dos veces y las guardó. Después de mirar la calle vacía, desplegó una silla afuera y le sirvió un té al vendedor de diarios, que estaba temblando de frío. «Hoy no vendí nada», dijo él. «Yo tampoco», respondió ella, y se quedaron tomando té en silencio.» ¿Cuál es una acción de Inés? A) bajó la reja B) hizo mucho frío
+- **R1.** Texto: «El mercado todavía olía a café cuando Inés bajó la reja. Contó las monedas dos veces y las guardó. Después de mirar la calle vacía, desplegó una silla afuera y le sirvió un té al vendedor de diarios, que estaba temblando de frío. «Hoy no vendí nada», dijo él. «Yo tampoco», respondió ella, y se quedaron tomando té en silencio.» ¿Cuál es una acción de Inés? A) bajó la reja B) el vendedor de diarios temblaba de frío
 - **R2.** ¿Qué es una cita? A) una frase copiada del texto entre comillas B) un resumen del texto con otras palabras
 - **R3.** Idea sin evidencia: «El personaje es egoísta». ¿Qué falta? A) una cita o dato del texto que lo respalde B) otra opinión más fuerte
 
@@ -367,7 +367,7 @@ Respuesta: Es una suposición
 *Aplicación*
 
 - **A1.** Texto: «El mercado todavía olía a café cuando Inés bajó la reja. Contó las monedas dos veces y las guardó. Después de mirar la calle vacía, desplegó una silla afuera y le sirvió un té al vendedor de diarios, que estaba temblando de frío. «Hoy no vendí nada», dijo él. «Yo tampoco», respondió ella, y se quedaron tomando té en silencio.» Dos estudiantes escriben. Ana: «Inés es generosa porque sirve un té a otro vendedor, a pesar de no haber vendido nada.» Beto: «Inés es generosa porque es buena persona.» ¿Quién usa evidencia del texto? A) Beto B) Ana
-- **A2.** Texto: «El mercado todavía olía a café cuando Inés bajó la reja. Contó las monedas dos veces y las guardó. Después de mirar la calle vacía, desplegó una silla afuera y le sirvió un té al vendedor de diarios, que estaba temblando de frío. «Hoy no vendí nada», dijo él. «Yo tampoco», respondió ella, y se quedaron tomando té en silencio.» ¿Qué imagen del texto sugiere frío y soledad? A) «el café» B) «la calle vacía»
+- **A2.** Texto: «El mercado todavía olía a café cuando Inés bajó la reja. Contó las monedas dos veces y las guardó. Después de mirar la calle vacía, desplegó una silla afuera y le sirvió un té al vendedor de diarios, que estaba temblando de frío. «Hoy no vendí nada», dijo él. «Yo tampoco», respondió ella, y se quedaron tomando té en silencio.» ¿Qué imagen del texto sugiere soledad? A) «el café» B) «la calle vacía»
 - **A3.** Texto: «El mercado todavía olía a café cuando Inés bajó la reja. Contó las monedas dos veces y las guardó. Después de mirar la calle vacía, desplegó una silla afuera y le sirvió un té al vendedor de diarios, que estaba temblando de frío. «Hoy no vendí nada», dijo él. «Yo tampoco», respondió ella, y se quedaron tomando té en silencio.» Una estudiante dice: «El vendedor de diarios está muy enfermo». ¿Es una afirmación respaldada por el texto? A) no, el texto solo dice que temblaba de frío B) sí, porque tiembla
 
 *Razonamiento y análisis*
@@ -394,7 +394,7 @@ Respuesta: Es una suposición
 
 **Solucionario razonado**
 
-- **R1.** A) bajó la reja. Es algo que ella hace; el frío no es una acción suya.
+- **R1.** A) bajó la reja. Es algo que ella hace; temblar de frío lo hace el vendedor.
 - **R2.** A) una frase copiada del texto entre comillas. La cita reproduce el texto con exactitud.
 - **R3.** A) una cita o dato del texto que lo respalde. Una idea necesita evidencia, no más énfasis.
 - **C1.** B) «se quedaron tomando té en silencio». Nombra explícitamente el silencio; la otra frase es un gesto personal de Inés.
@@ -568,9 +568,9 @@ Respuesta: Muestra tristeza por la ausencia de ella a través del camino que se 
 
 *Comprensión*
 
-- **C1.** Frase: «La casa estaba tan silenciosa que se oía el tic del reloj». ¿Qué efecto produce? A) indica que hay una fiesta B) refuerza la sensación de vacío
+- **C1.** Frase: «La casa estaba tan silenciosa que se oía el tic del reloj». ¿Qué efecto produce? A) refuerza la sensación de vacío B) indica que el reloj está descompuesto
 - **C2.** Frase: «Guardó su carta en un cajón y cerró con llave, como quien guarda un trueno». ¿Qué sugiere la comparación? A) que la carta contiene algo fuerte y peligroso B) que la carta es muy ligera
-- **C3.** Fragmento: «Yo conté los pasos desde la estación hasta la casa: ciento doce. Antes eran menos, pero desde que se fue ella el camino se alargó.» ¿Qué experiencia humana ilustra? A) la ausencia de alguien querido B) la alegría de una fiesta
+- **C3.** Fragmento: «Yo conté los pasos desde la estación hasta la casa: ciento doce. Antes eran menos, pero desde que se fue ella el camino se alargó.» ¿Qué experiencia humana ilustra? A) la ausencia de alguien querido B) la emoción de estrenar un camino nuevo
 
 *Aplicación*
 
@@ -605,7 +605,7 @@ Respuesta: Muestra tristeza por la ausencia de ella a través del camino que se 
 - **R1.** B) primera persona. Dice «yo conté» y habla de sí mismo.
 - **R2.** B) tercera persona. Dice «él contó» y mira desde fuera.
 - **R3.** B) el uso de palabras con un sentido distinto del literal. Permite expresar emociones o ideas con imágenes.
-- **C1.** B) refuerza la sensación de vacío. El silencio tan grande que se oye un reloj comunica soledad.
+- **C1.** A) refuerza la sensación de vacío. El silencio tan grande que se oye un reloj comunica soledad.
 - **C2.** A) que la carta contiene algo fuerte y peligroso. El trueno es fuerte; compararla con eso resalta su carga emocional.
 - **C3.** A) la ausencia de alguien querido. Habla de que el camino se alargó desde que ella se fue.
 - **A1.** 16. Se resta la cantidad antigua de la actual. Cálculo: 112 − 96 = 16.
@@ -770,13 +770,13 @@ Respuesta: Sí, ambas son posibles porque se basan en la misma evidencia
 
 *Recuperación*
 
-- **R1.** Texto A: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella no respondió, pero esa noche dejó la luz del patio encendida durante todo el invierno». Texto B: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella respondió que mejor no esperara y esa misma noche apagó la luz del patio y cerró la puerta». ¿Qué tema comparten? A) la fiesta B) la despedida
+- **R1.** Texto A: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella no respondió, pero esa noche dejó la luz del patio encendida durante todo el invierno». Texto B: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella respondió que mejor no esperara y esa misma noche apagó la luz del patio y cerró la puerta». ¿Qué tema comparten? A) la despedida B) una pelea entre amigos
 - **R2.** Texto A: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella no respondió, pero esa noche dejó la luz del patio encendida durante todo el invierno». ¿Qué recurso muestra la espera? A) la luz del patio encendida B) la estación
 - **R3.** Texto B: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella respondió que mejor no esperara y esa misma noche apagó la luz del patio y cerró la puerta». ¿Qué recurso muestra que cierra el vínculo? A) apagó la luz y cerró la puerta B) mencionó la estación
 
 *Comprensión*
 
-- **C1.** Texto A: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella no respondió, pero esa noche dejó la luz del patio encendida durante todo el invierno». Texto B: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella respondió que mejor no esperara y esa misma noche apagó la luz del patio y cerró la puerta». ¿Qué diferencia hay en la actitud de ella? A) en A espera; en B pide que no la esperen B) en A discute; en B se ríe
+- **C1.** Texto A: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella no respondió, pero esa noche dejó la luz del patio encendida durante todo el invierno». Texto B: «Cuando se despidieron en la estación, él dijo que volvería pronto. Ella respondió que mejor no esperara y esa misma noche apagó la luz del patio y cerró la puerta». ¿Qué diferencia hay en la actitud de ella? A) en A espera; en B pide que no la esperen B) en A rechaza a quien se va; en B lo espera
 - **C2.** Lectura 1: «La luz encendida simboliza la esperanza». Lectura 2: «La luz encendida muestra que la protagonista olvidó al que se fue». ¿Cuál contradice el texto de A? A) la lectura 1 B) la lectura 2
 - **C3.** ¿Qué criterio de comparación se refiere a cómo reacciona el personaje? A) la actitud B) la cantidad de palabras
 
@@ -793,7 +793,7 @@ Respuesta: Sí, ambas son posibles porque se basan en la misma evidencia
 
 *Desafío*
 
-- **D1.** Redacta (elige la mejor opción) la comparación de A y B: A) «Ambos textos presentan una despedida en una estación; en A la protagonista espera, y en B cierra el vínculo.» B) «Ambos textos son iguales.»
+- **D1.** Redacta (elige la mejor opción) la comparación de A y B: A) «Ambos textos presentan una despedida en una estación; en A la protagonista espera, y en B cierra el vínculo.» B) «Ambos textos tratan la despedida de la misma manera.»
 - **D2.** Ordena los pasos para contrastar dos textos: 1) formular una semejanza y una diferencia, 2) elegir criterios de comparación, 3) buscar evidencia en cada texto. Escribe los números en orden.
 
 *Situaciones auténticas*
@@ -810,7 +810,7 @@ Respuesta: Sí, ambas son posibles porque se basan en la misma evidencia
 
 **Solucionario razonado**
 
-- **R1.** B) la despedida. Ambas situaciones parten de una despedida en una estación.
+- **R1.** A) la despedida. Ambas situaciones parten de una despedida en una estación.
 - **R2.** A) la luz del patio encendida. El gesto de dejar la luz encendida simboliza esperar.
 - **R3.** A) apagó la luz y cerró la puerta. Son acciones de cierre.
 - **C1.** A) en A espera; en B pide que no la esperen. Se ve en lo que hace y dice en cada texto.
@@ -1193,19 +1193,19 @@ Respuesta: La opción 2
 *Comprensión*
 
 - **C1.** Texto: «En la feria del barrio, don Ramón dejó de cobrar la verdura a los vecinos que el invierno dejó sin trabajo. Nadie lo comentó en voz alta; al mes siguiente, tres de ellos le armaron el toldo.» ¿Cuál es una tesis defendible? A) don Ramón es dueño de la feria B) la ayuda entre vecinos se devuelve de formas inesperadas
-- **C2.** Texto: «En la feria del barrio, don Ramón dejó de cobrar la verdura a los vecinos que el invierno dejó sin trabajo. Nadie lo comentó en voz alta; al mes siguiente, tres de ellos le armaron el toldo.» ¿Qué cita respalda la tesis de la pregunta anterior? A) «la feria del barrio» B) «tres de ellos le armaron el toldo»
+- **C2.** Texto: «En la feria del barrio, don Ramón dejó de cobrar la verdura a los vecinos que el invierno dejó sin trabajo. Nadie lo comentó en voz alta; al mes siguiente, tres de ellos le armaron el toldo.» Tesis: «la ayuda entre vecinos se devuelve de formas inesperadas». ¿Qué cita la respalda? A) «tres de ellos le armaron el toldo» B) «la feria del barrio»
 - **C3.** Texto: «Camilo vio caer un billete del bolsillo de un desconocido. Lo levantó, lo guardó y caminó dos cuadras. Entonces pensó en lo que él habría sentido al perderlo, y dio la vuelta.» Tesis: «Ponerse en el lugar del otro cambia las decisiones». ¿Qué cita la respalda? A) «pensó en lo que él habría sentido al perderlo, y dio la vuelta» B) «caminó dos cuadras»
 
 *Aplicación*
 
-- **A1.** Una estudiante escribe: «La abuela del texto me recuerda a la mía, que se llama María y vive en Valparaíso». ¿Qué debería corregir? A) agregar el apellido B) quitar nombre y lugar y dejar una situación general
+- **A1.** Una estudiante escribe: «La abuela del texto me recuerda a la mía, que se llama María y vive en Valparaíso». ¿Qué debería corregir? A) quitar nombre y lugar y dejar una situación general B) dejar el nombre y quitar solo la ciudad
 - **A2.** Texto: «La abuela repasaba las fotos y decía: «Nada de esto es ayer, y sin embargo estoy aquí». Luego cerraba el álbum con cuidado, como quien cierra una puerta que no quiere trabar.» Elige la mejor reflexión final. A) la abuela tiene un álbum B) la abuela muestra que el tiempo no vuelve, pero el recuerdo permite sentirlo cerca
 - **A3.** ¿Qué pregunta de revisión corresponde a una lectura propia? A) ¿Mi texto es más largo que el original? B) ¿Cada cita respalda mi idea?
 
 *Razonamiento y análisis*
 
 - **Z1.** Lectura 1: «El texto trata de amistad». Lectura 2: «El texto muestra que los vínculos se miden también por lo que cuesta soltarlos». ¿Cuál es una tesis más interesante y defendible? A) la 2 B) la 1
-- **Z2.** Texto: «Elisa guardó el último mensaje de su amigo sin responderlo. Cada vez que abría el teléfono, el mensaje seguía ahí, y cada vez sentía que contestar era admitir que la mudanza ya había ocurrido.» ¿Qué conexión con otra experiencia es adecuada? A) mi número de teléfono B) situaciones en que se posterga una respuesta por temor a un cambio
+- **Z2.** Texto: «Elisa guardó el último mensaje de su amigo sin responderlo. Cada vez que abría el teléfono, el mensaje seguía ahí, y cada vez sentía que contestar era admitir que la mudanza ya había ocurrido.» ¿Qué conexión con otra experiencia es adecuada? A) el nombre completo de un familiar y dónde vive B) situaciones en que se posterga una respuesta por temor a un cambio
 
 *Desafío*
 
@@ -1230,9 +1230,9 @@ Respuesta: La opción 2
 - **R2.** B) tesis, evidencias y reflexión. Son la estructura mínima.
 - **R3.** A) no exponer datos personales. La privacidad se protege usando situaciones generales.
 - **C1.** B) la ayuda entre vecinos se devuelve de formas inesperadas. Se apoya en que los vecinos le armaron el toldo; lo otro no está en el texto.
-- **C2.** B) «tres de ellos le armaron el toldo». Muestra la devolución del favor.
+- **C2.** A) «tres de ellos le armaron el toldo». Muestra la devolución del favor.
 - **C3.** A) «pensó en lo que él habría sentido al perderlo, y dio la vuelta». Muestra el cambio de decisión.
-- **A1.** B) quitar nombre y lugar y dejar una situación general. Se evita exponer datos personales.
+- **A1.** A) quitar nombre y lugar y dejar una situación general. Se evita exponer datos personales.
 - **A2.** B) la abuela muestra que el tiempo no vuelve, pero el recuerdo permite sentirlo cerca. Interpreta el gesto; la otra solo describe.
 - **A3.** B) ¿Cada cita respalda mi idea?. Revisar la relación entre idea y evidencia es clave.
 - **Z1.** A) la 2. Dice algo sobre el sentido del texto; la primera solo nombra un tema.

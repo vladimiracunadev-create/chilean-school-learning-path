@@ -355,7 +355,7 @@ Respuesta: Es una preferencia
 
 - **R1.** ¿Qué tres partes tiene la fórmula de retroalimentación de esta clase?
 - **R2.** «Las piezas de la maqueta se mueven». ¿Es una preferencia o un criterio de oficio?
-- **R3.** ¿Qué tipo de matices permite el lápiz grafito? A. Colores brillantes B. Variaciones suaves de tono.
+- **R3.** ¿Qué tipo de matices permite el lápiz grafito? A. Relieves que se pueden tocar B. Variaciones suaves de tono.
 
 *Comprensión*
 
@@ -396,7 +396,7 @@ Respuesta: Es una preferencia
 
 - **R1.** Pregunta, fortaleza y sugerencia. Ordena lo que se dice.
 - **R2.** Un criterio de oficio. Describe un rasgo comprobable del cuidado de las uniones.
-- **R3.** B. El grafito da grises de distinta intensidad.
+- **R3.** B. El grafito da grises de distinta intensidad; no crea relieve.
 - **C1.** A. La primera busca entender; la segunda juzga.
 - **C2.** Fortaleza. Dice qué funciona y da evidencia.
 - **C3.** A. Propone un cambio concreto.
@@ -519,7 +519,7 @@ Respuesta: Es una preferencia
 
 Una crítica sirve cuando cambio algo y compruebo qué pasó. Primero ordeno las sugerencias que recibí. Elijo una que sea concreta, que acerque el trabajo a mi propósito y que pueda hacer con el tiempo y los materiales que tengo. Después hago una versión corta, a veces en un boceto pequeño, cambiando solo esa cosa. Comparar antes y después con los mismos criterios me muestra si el cambio funcionó.
 
-Para priorizar uso dos preguntas: ¿cuánto mejora el propósito? y ¿cuánto esfuerzo requiere? Si le doy puntos de 1 a 3 a cada una, una sugerencia con impacto 3 y esfuerzo 1 conviene mucho. Ejemplo con datos de ejemplo: S1, aumentar el texto del afiche (impacto 3, esfuerzo 1); S2, rehacer todo el fondo (impacto 2, esfuerzo 3); S3, cambiar el marco (impacto 1, esfuerzo 1). El orden sensato es S1, luego S3 y S2 si sobra tiempo.
+Para priorizar uso dos preguntas: ¿cuánto mejora el propósito? y ¿cuánto esfuerzo requiere? Si le doy puntos de 1 a 3 a cada una, una sugerencia con impacto 3 y esfuerzo 1 conviene mucho. Una medida simple de conveniencia es impacto menos esfuerzo: 3 − 1 = 2. Ejemplo con datos de ejemplo: S1, aumentar el texto del afiche (impacto 3, esfuerzo 1); S2, rehacer todo el fondo (impacto 2, esfuerzo 3); S3, cambiar el marco (impacto 1, esfuerzo 1). El orden sensato es S1, luego S3 y S2 si sobra tiempo.
 
 No toda crítica debo seguirla. Si una sugerencia va contra mi propósito, la agradezco y explico por qué no la uso. Conservo la versión anterior para poder volver. Cuando comparo, escribo el cambio, el criterio usado y el resultado: «cambié el tamaño del texto de 2 cm a 5 cm; criterio: legibilidad a dos metros; resultado: se lee mejor». Así mi proceso queda documentado y mi autoría clara.
 
@@ -592,7 +592,7 @@ Respuesta: Cambié el texto de 2 cm a 5 cm; criterio: legibilidad a dos metros; 
 
 *Situaciones auténticas*
 
-- **S1.** Tu compañera te sugiere dos cambios para tu afiche: aumentar el texto (impacto 3, esfuerzo 1) y cambiar el tema por uno que a ella le gusta más (impacto 0 en tu propósito, esfuerzo 3). ¿Qué haces? A. Aplico los dos B. Aplico el primero y agradezco el segundo explicando mi propósito.
+- **S1.** Tu compañera te sugiere dos cambios para tu afiche: aumentar el texto (impacto 3, esfuerzo 1) y cambiar el tema por uno que a ella le gusta más (impacto 1, porque va contra tu propósito, y esfuerzo 3). ¿Qué haces? A. Aplico el primero y agradezco el segundo explicando mi propósito B. Aplico los dos.
 
 *Autoevaluación*
 
@@ -617,7 +617,7 @@ Respuesta: Cambié el texto de 2 cm a 5 cm; criterio: legibilidad a dos metros; 
 - **Z2.** A. S5 cuesta mucho y aporta poco; S4 y S6 aportan más con menos esfuerzo.
 - **D1.** 1. Impacto menos esfuerzo da una medida simple de conveniencia. Cálculo: 3 − 2 = 1.
 - **D2.** La primera. Su resultado es 1 y el de la segunda es −2.
-- **S1.** B. El segundo no mejora tu propósito y cuesta mucho.
+- **S1.** A. El segundo apenas aporta, va contra tu propósito y cuesta mucho.
 - **E1.** Cuánto mejora el propósito y cuánto esfuerzo requiere. Ayudan a ordenar los cambios.
 - **E2.** Falso. Solo las que ayudan a mi propósito.
 - **E3.** El cambio, el criterio y el resultado. Así el proceso queda claro.

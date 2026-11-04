@@ -155,8 +155,8 @@ Respuesta: Censo: caracterizar la población; Oficina Hidrográfica: conocer cos
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1830, el Estado contrata al naturalista francés Claudio Gay para estudiar el territorio; 1842, se funda la Universidad de Chile; 1853-1854, el alemán Rodulfo Amando Philippi explora el desierto de Atacama; 1854, primer censo general moderno de población; 1874, se crea la Oficina Hidrográfica; 1881, tratado de límites con Argentina. ¿Cuántos años pasaron entre la fundación de la Universidad de Chile y el tratado de límites con Argentina?
-- **A2.** Línea de tiempo: 1830, el Estado contrata al naturalista francés Claudio Gay para estudiar el territorio; 1842, se funda la Universidad de Chile; 1853-1854, el alemán Rodulfo Amando Philippi explora el desierto de Atacama; 1854, primer censo general moderno de población; 1874, se crea la Oficina Hidrográfica; 1881, tratado de límites con Argentina. ¿Cuántos años pasaron entre el censo de 1854 y la creación de la Oficina Hidrográfica?
+- **A1.** Línea de tiempo: 1830, el Estado contrata al naturalista francés Claudio Gay para estudiar el territorio; 1842, se funda la Universidad de Chile; 1853-1854, el alemán Rodulfo Amando Philippi explora el desierto de Atacama; 1854, primer censo general moderno de población; 1874, se crea la Oficina Hidrográfica; 1881, tratado de límites con Argentina. Ordena de más antiguo a más reciente: Oficina Hidrográfica, censo general de 1854, contratación de Claudio Gay y tratado de límites con Argentina.
+- **A2.** Línea de tiempo: 1830, el Estado contrata al naturalista francés Claudio Gay para estudiar el territorio; 1842, se funda la Universidad de Chile; 1853-1854, el alemán Rodulfo Amando Philippi explora el desierto de Atacama; 1854, primer censo general moderno de población; 1874, se crea la Oficina Hidrográfica; 1881, tratado de límites con Argentina. ¿Qué hecho de la línea corresponde al propósito de delimitar las fronteras?
 - **A3.** Una compañera dice: «Como Claudio Gay recorrió el país, el Estado ya controlaba todo el territorio». ¿Qué corrección haces?
 
 *Razonamiento y análisis*
@@ -189,8 +189,8 @@ Respuesta: Censo: caracterizar la población; Oficina Hidrográfica: conocer cos
 - **C1.** La línea que separa el territorio de dos Estados. Es un concepto de delimitación territorial.
 - **C2.** C. La línea lo menciona.
 - **C3.** 1-b, 2-a, 3-c. Cada acción responde a un propósito.
-- **A1.** 39. Se restan ambas fechas. Cálculo: 1881 − 1842 = 39.
-- **A2.** 20. Se restan las dos fechas de la línea. Cálculo: 1874 − 1854 = 20.
+- **A1.** Contratación de Claudio Gay, censo de 1854, Oficina Hidrográfica, tratado de límites con Argentina. Se ordenan por sus años: 1830, 1854, 1874 y 1881.
+- **A2.** El tratado de límites con Argentina de 1881. Un tratado de límites fija hasta dónde llega cada Estado.
 - **A3.** Recorrer y describir no es ocupar ni controlar; el Estado aún no administraba todos los lugares. Explorar y controlar son cosas distintas.
 - **Z1.** La Oficina Hidrográfica de 1874, porque estudiaba costas y canales. Su función era marítima.
 - **Z2.** Porque el territorio estaba habitado por pueblos que ya lo conocían, aunque el Estado no lo hubiera registrado. Desconocer no es lo mismo que estar vacío.
@@ -365,8 +365,8 @@ Respuesta: Desconocida para el Estado, no para quienes vivían allí
 
 *Aplicación*
 
-- **A1.** Fuente A (tabla de censo, de ejemplo): en una provincia de ejemplo se contaron 30.000 habitantes, clasificados por sexo, edad, oficio y si sabían leer; no hay una categoría para pertenencia a pueblos originarios. Fuente B (diario de un científico viajero, texto de ejemplo): «Recorrí el valle durante dos semanas; hallé minas abandonadas y pocas casas; mis guías conocían cada sendero.» Fuente C (mapa de ejemplo del Estado): marca como «desconocido» una zona del sur donde viven familias que no figuran. Fuente D (historiadora actual, texto de ejemplo): «Los mapas del siglo XIX informan y también expresan los intereses del Estado que los encargó.» Si en la provincia de ejemplo 12.000 de los 30.000 habitantes saben leer, ¿cuántos no saben leer?
-- **A2.** En un diario de ejemplo, un viajero recorre 15 kilómetros por día durante 14 días. ¿Cuántos kilómetros recorrió en total?
+- **A1.** Fuente A (tabla de censo, de ejemplo): en una provincia de ejemplo se contaron 30.000 habitantes, clasificados por sexo, edad, oficio y si sabían leer; no hay una categoría para pertenencia a pueblos originarios. Fuente B (diario de un científico viajero, texto de ejemplo): «Recorrí el valle durante dos semanas; hallé minas abandonadas y pocas casas; mis guías conocían cada sendero.» Fuente C (mapa de ejemplo del Estado): marca como «desconocido» una zona del sur donde viven familias que no figuran. Fuente D (historiadora actual, texto de ejemplo): «Los mapas del siglo XIX informan y también expresan los intereses del Estado que los encargó.» ¿Podría usarse el censo de la Fuente A para saber cuántas personas de esa provincia pertenecían a pueblos originarios? Justifica.
+- **A2.** Fuente A (tabla de censo, de ejemplo): en una provincia de ejemplo se contaron 30.000 habitantes, clasificados por sexo, edad, oficio y si sabían leer; no hay una categoría para pertenencia a pueblos originarios. Fuente B (diario de un científico viajero, texto de ejemplo): «Recorrí el valle durante dos semanas; hallé minas abandonadas y pocas casas; mis guías conocían cada sendero.» Fuente C (mapa de ejemplo del Estado): marca como «desconocido» una zona del sur donde viven familias que no figuran. Fuente D (historiadora actual, texto de ejemplo): «Los mapas del siglo XIX informan y también expresan los intereses del Estado que los encargó.» ¿Qué describe el diario de la Fuente B sobre el valle que recorrió el científico?
 - **A3.** Fuente A (tabla de censo, de ejemplo): en una provincia de ejemplo se contaron 30.000 habitantes, clasificados por sexo, edad, oficio y si sabían leer; no hay una categoría para pertenencia a pueblos originarios. Fuente B (diario de un científico viajero, texto de ejemplo): «Recorrí el valle durante dos semanas; hallé minas abandonadas y pocas casas; mis guías conocían cada sendero.» Fuente C (mapa de ejemplo del Estado): marca como «desconocido» una zona del sur donde viven familias que no figuran. Fuente D (historiadora actual, texto de ejemplo): «Los mapas del siglo XIX informan y también expresan los intereses del Estado que los encargó.» ¿Qué dos fuentes se oponen en cuanto a quién conoce la zona del sur? A) ninguna, B) la Fuente A y la Fuente D, C) la Fuente C y la Fuente B.
 
 *Razonamiento y análisis*
@@ -399,8 +399,8 @@ Respuesta: Desconocida para el Estado, no para quienes vivían allí
 - **C1.** Primaria. Es un diario escrito por un viajero de la época.
 - **C2.** Cada sendero del valle. El diario lo dice.
 - **C3.** No incluye una categoría para pertenencia a pueblos originarios, así que ese grupo queda invisible. Las categorías limitan lo que se cuenta.
-- **A1.** 18.000. Al total se le restan los que saben leer. Cálculo: 30000 − 12000 = 18.000.
-- **A2.** 210. Se multiplica la distancia diaria por los días. Cálculo: 15 × 14 = 210.
+- **A1.** No, porque no tiene una categoría para esa pertenencia. Lo que no se pregunta no se cuenta.
+- **A2.** Minas abandonadas y pocas casas. Es lo que el viajero observó y anotó.
 - **A3.** C. El mapa la llama desconocida y el diario muestra a guías que la conocen.
 - **Z1.** Porque selecciona qué marca y cómo nombra según los intereses de quien lo encargó. La Fuente D lo afirma como idea central.
 - **Z2.** El Estado consideraba desconocida una zona donde los guías conocían los senderos. Une las dos fuentes con cuidado.
@@ -573,8 +573,8 @@ Respuesta: El conocimiento avanzó, pero el control del sur seguía incompleto
 
 *Aplicación*
 
-- **A1.** Cuadro de ejemplo. Cambio: hacia 1830 el Estado tenía mapas parciales; hacia 1880 contaba con cartas más completas, censos regulares (1854, 1865, 1875), una Oficina Hidrográfica (1874) y acuerdos de límites (1881). Continuidad: al sur del río Biobío había territorios mapuche que el Estado aún no controlaba; en el norte y los canales australes vivían pueblos que el Estado solo conocía en parte; muchos territorios se administraban desde lejos. ¿Cuántos años separan el primer censo (1854) del tercero (1875)?
-- **A2.** Una carta de ejemplo del año 1830 mostraba 25 puertos y la de 1880 mostraba 40. ¿Cuántos puertos más mostraba la de 1880?
+- **A1.** Cuadro de ejemplo. Cambio: hacia 1830 el Estado tenía mapas parciales; hacia 1880 contaba con cartas más completas, censos regulares (1854, 1865, 1875), una Oficina Hidrográfica (1874) y acuerdos de límites (1881). Continuidad: al sur del río Biobío había territorios mapuche que el Estado aún no controlaba; en el norte y los canales australes vivían pueblos que el Estado solo conocía en parte; muchos territorios se administraban desde lejos. ¿Qué cambio muestra el cuadro entre 1830 y 1880 en los mapas que tenía el Estado?
+- **A2.** Una historiadora estudia el mapa de un solo valle. ¿A qué escala trabaja: local, regional o nacional?
 - **A3.** Une cada dato con su escala: 1) un censo de todo el país, 2) una carta de la costa del norte, 3) el mapa de un solo valle. a) escala local, b) escala nacional, c) escala regional. Escribe las parejas.
 
 *Razonamiento y análisis*
@@ -607,8 +607,8 @@ Respuesta: El conocimiento avanzó, pero el control del sur seguía incompleto
 - **C1.** La capacidad del Estado de ejercer autoridad en un lugar. No es lo mismo que conocerlo.
 - **C2.** Cambio. Es una novedad del periodo.
 - **C3.** Continuidad. El cuadro dice que se mantenían.
-- **A1.** 21. Se restan las dos fechas. Cálculo: 1875 − 1854 = 21.
-- **A2.** 15. Se restan los puertos de la carta antigua. Cálculo: 40 − 25 = 15.
+- **A1.** Pasó de mapas parciales a cartas más completas. El cuadro contrasta mapas parciales con cartas más completas.
+- **A2.** A escala local. Un valle es un espacio pequeño y puntual.
 - **A3.** 1-b, 2-c, 3-a. El tamaño del espacio define la escala.
 - **Z1.** Porque conocer es describir y controlar es ejercer autoridad, y en el sur y otros lugares había territorios que no controlaba. Conocimiento y control son cosas distintas.
 - **Z2.** Al sur del Biobío había territorios mapuche que el Estado aún no controlaba. El cuadro muestra una continuidad.
@@ -782,8 +782,8 @@ Respuesta: Porque conocía los pasos y sin él el viaje sería difícil
 
 *Aplicación*
 
-- **A1.** Un viaje de ejemplo incluye 3 científicos, 5 guías locales y 4 arrieros. ¿Cuántas personas viajan?
-- **A2.** En un informe de ejemplo, de 40 mapas encargados por el Estado, 28 se entregaron. ¿Cuántos faltan?
+- **A1.** Voces de ejemplo, redactadas para este cuaderno. Ministro: «Necesitamos mapas y censos para cobrar impuestos y planificar caminos.» Científico extranjero contratado: «Mi tarea es describir la geología y las plantas del territorio.» Profesor de la Universidad de Chile: «Formamos ingenieros y naturalistas chilenos.» Guía local: «Conozco los pasos de la cordillera desde niño.» Autoridad de una zona de frontera: «Necesitamos saber hasta dónde llega nuestro territorio frente al país vecino.» ¿Qué voz representa el saber local y cuál el interés por la frontera?
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Ministro: «Necesitamos mapas y censos para cobrar impuestos y planificar caminos.» Científico extranjero contratado: «Mi tarea es describir la geología y las plantas del territorio.» Profesor de la Universidad de Chile: «Formamos ingenieros y naturalistas chilenos.» Guía local: «Conozco los pasos de la cordillera desde niño.» Autoridad de una zona de frontera: «Necesitamos saber hasta dónde llega nuestro territorio frente al país vecino.» Explica con las voces de ejemplo por qué el Estado combinó propósitos científicos y fiscales.
 - **A3.** Una compañera dice: «Los guías no importaban porque los científicos tenían los conocimientos». Responde con un dato de las voces de ejemplo.
 
 *Razonamiento y análisis*
@@ -816,8 +816,8 @@ Respuesta: Porque conocía los pasos y sin él el viaje sería difícil
 - **C1.** El guía local. Su voz lo dice.
 - **C2.** 1-c, 2-b, 3-a. Cada voz expresa un propósito.
 - **C3.** A. El impuesto es un ingreso fiscal.
-- **A1.** 12. Se suman los tres grupos. Cálculo: 3 + 5 + 4 = 12.
-- **A2.** 12. Se resta lo entregado del total. Cálculo: 40 − 28 = 12.
+- **A1.** El guía local y la autoridad de una zona de frontera. Cada voz expresa un propósito y un lugar distinto.
+- **A2.** Contrató científicos para describir el territorio y quería mapas y censos para cobrar impuestos. Había varios propósitos a la vez.
 - **A3.** El guía conocía los pasos de la cordillera desde niño, un saber que el científico necesitaba. El saber local era indispensable.
 - **Z1.** Porque había varios propósitos a la vez: fiscales, económicos, científicos y de frontera. Ninguna causa sola lo explica.
 - **Z2.** El ministro ve recursos y administración; el guía lo ve como su lugar de vida y trabajo. Sus perspectivas parten de lugares distintos.
@@ -985,13 +985,13 @@ Respuesta: Excede porque el dossier no prueba que fueran falsos
 *Comprensión*
 
 - **C1.** Dossier de ejemplo. Dato 1: el Estado contrató científicos (Gay, Philippi, Pissis) y financió misiones de exploración. Dato 2: el censo de 1854 y los siguientes contaron a la población según categorías definidas por el Estado. Dato 3: la Universidad de Chile formó profesionales y la Oficina Hidrográfica estudió costas y canales. Dato 4: el tratado de límites de 1881 fijó la frontera con Argentina por las altas cumbres que dividen aguas. Dato 5: había territorios habitados por pueblos que el Estado conocía solo en parte. ¿Qué institución estudió costas y canales según el dato 3?
-- **C2.** Elige la tesis mejor formulada. A) La ciencia no sirvió, B) El territorio siempre fue un espacio vacío, C) El Estado usó la ciencia para conocer, administrar y delimitar el territorio, aunque ese conocimiento no era neutral ni completo.
+- **C2.** Elige la tesis mejor formulada. A) El Estado conoció todo su territorio gracias a los censos, B) Los científicos extranjeros trabajaron por su cuenta, sin relación con el Estado, C) El Estado usó la ciencia para conocer, administrar y delimitar el territorio, aunque ese conocimiento no era neutral ni completo.
 - **C3.** Una compañera usa solo el dato 3 para afirmar que «el Estado conocía todo el territorio». ¿Qué dato le falta considerar?
 
 *Aplicación*
 
-- **A1.** Dossier de ejemplo. Dato 1: el Estado contrató científicos (Gay, Philippi, Pissis) y financió misiones de exploración. Dato 2: el censo de 1854 y los siguientes contaron a la población según categorías definidas por el Estado. Dato 3: la Universidad de Chile formó profesionales y la Oficina Hidrográfica estudió costas y canales. Dato 4: el tratado de límites de 1881 fijó la frontera con Argentina por las altas cumbres que dividen aguas. Dato 5: había territorios habitados por pueblos que el Estado conocía solo en parte. Si el dossier tiene 5 datos y 3 apoyan el propósito estatal (1, 2 y 4), ¿cuántos datos quedan para otros temas?
-- **A2.** Un grupo escribe un texto de 14 líneas: 2 de tesis, 8 de evidencias y el resto de límite. ¿Cuántas líneas son de límite?
+- **A1.** Dossier de ejemplo. Dato 1: el Estado contrató científicos (Gay, Philippi, Pissis) y financió misiones de exploración. Dato 2: el censo de 1854 y los siguientes contaron a la población según categorías definidas por el Estado. Dato 3: la Universidad de Chile formó profesionales y la Oficina Hidrográfica estudió costas y canales. Dato 4: el tratado de límites de 1881 fijó la frontera con Argentina por las altas cumbres que dividen aguas. Dato 5: había territorios habitados por pueblos que el Estado conocía solo en parte. ¿Qué dato del dossier muestra un límite del conocimiento estatal?
+- **A2.** Un grupo escribe una tesis con tres datos, pero ninguna frase de límite. ¿Qué podría agregar?
 - **A3.** Dossier de ejemplo. Dato 1: el Estado contrató científicos (Gay, Philippi, Pissis) y financió misiones de exploración. Dato 2: el censo de 1854 y los siguientes contaron a la población según categorías definidas por el Estado. Dato 3: la Universidad de Chile formó profesionales y la Oficina Hidrográfica estudió costas y canales. Dato 4: el tratado de límites de 1881 fijó la frontera con Argentina por las altas cumbres que dividen aguas. Dato 5: había territorios habitados por pueblos que el Estado conocía solo en parte. Con los datos 2 y 5, redacta una conclusión proporcional.
 
 *Razonamiento y análisis*
@@ -1024,8 +1024,8 @@ Respuesta: Excede porque el dossier no prueba que fueran falsos
 - **C1.** La Oficina Hidrográfica. El dato la nombra.
 - **C2.** C. Es defendible con el dossier.
 - **C3.** El dato 5, que muestra pueblos conocidos solo en parte. La evidencia es parcial.
-- **A1.** 2. Se restan los datos usados. Cálculo: 5 − 3 = 2.
-- **A2.** 4. Se restan tesis y evidencias del total. Cálculo: 14 − 2 − 8 = 4.
+- **A1.** El dato 5. Dice que había pueblos que el Estado conocía solo en parte.
+- **A2.** Una frase que diga qué no se puede afirmar con esos datos, como lo que pensaban los pueblos que vivían allí. El límite señala lo que la evidencia no permite afirmar.
 - **A3.** El censo contaba según categorías del Estado y había pueblos que el Estado conocía solo en parte. Une el dato y su límite.
 - **Z1.** Porque la ciencia produjo conocimiento útil, pero respondió a propósitos del Estado y dejó vacíos. Evita los extremos en la conclusión.
 - **Z2.** «Exacta» y «todos» exceden la evidencia, porque el censo usa categorías del Estado. Es una afirmación absoluta.

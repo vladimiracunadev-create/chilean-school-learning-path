@@ -56,13 +56,13 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | Desempeño individual | 25 min | Cada estudiante analiza un caso nuevo para formular una pregunta investigable: Fotosíntesis, respiración y funcionamiento del ecosistema. Debe usar una tabla, diagrama o modelo pertinente, citar la evidencia decisiva y declarar una limitación. |
 | Cierre | 10 min | Escribe una conclusión en dos oraciones: una con la evidencia que la sostiene y otra con el límite que impide exagerarla. |
 
-**Materiales y preparación:** Prepare o proyecte este insumo: Este cuaderno y lápiz. Las ecuaciones y los casos están escritos en los ejercicios; no necesitas laboratorio. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
+**Materiales y preparación:** Prepare o proyecte este insumo: Este cuaderno y lápiz. Las ecuaciones y los casos están escritos en los ejercicios; no necesitas laboratorio ni montar experimentos. Nunca acerques una lámpara enchufada al agua. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Este cuaderno y lápiz. Las ecuaciones y los casos están escritos en los ejercicios; no necesitas laboratorio.
+**Recurso listo para usar:** Este cuaderno y lápiz. Las ecuaciones y los casos están escritos en los ejercicios; no necesitas laboratorio ni montar experimentos. Nunca acerques una lámpara enchufada al agua.
 
-**Consigna exacta:** Completa en una hoja una tabla de dos columnas, fotosíntesis y respiración celular, con estas filas: dónde ocurre, qué usa, qué produce, qué energía interviene. Después escribe dos preguntas investigables sobre una planta acuática y una lámpara de escritorio (por ejemplo, qué mides y qué cambias).
+**Consigna exacta:** Completa en una hoja una tabla de dos columnas, fotosíntesis y respiración celular, con estas filas: dónde ocurre, qué usa, qué produce, qué energía interviene. Después escribe dos preguntas investigables sobre una planta acuática y una lámpara de escritorio (por ejemplo, qué mides y qué cambias). Solo las planteas por escrito: no montes el experimento sin una persona adulta y mantén la lámpara enchufada lejos del agua.
 
 **Referencia para modelar y corregir:** Fotosíntesis: cloroplasto; usa CO2, agua y luz; produce glucosa y oxígeno; la luz pasa a energía química. Respiración: mitocondria; usa glucosa y oxígeno; produce CO2, agua y ATP. Preguntas: «¿Cuántas burbujas por minuto libera la planta a 10 cm y a 40 cm de la lámpara?» y «¿Cuántas burbujas libera en 5 minutos con la lámpara encendida y con la lámpara apagada?».
 
@@ -180,7 +180,7 @@ Respuesta: «¿Cuántas burbujas por minuto libera una planta acuática bajo una
 - **E2.** ¿Qué productos tiene la respiración celular?
 - **E3.** ¿Qué hace investigable a una pregunta?
 
-**Actividad abierta.** Completa en una hoja una tabla de dos columnas, fotosíntesis y respiración celular, con estas filas: dónde ocurre, qué usa, qué produce, qué energía interviene. Después escribe dos preguntas investigables sobre una planta acuática y una lámpara de escritorio (por ejemplo, qué mides y qué cambias).
+**Actividad abierta.** Completa en una hoja una tabla de dos columnas, fotosíntesis y respiración celular, con estas filas: dónde ocurre, qué usa, qué produce, qué energía interviene. Después escribe dos preguntas investigables sobre una planta acuática y una lámpara de escritorio (por ejemplo, qué mides y qué cambias). Solo las planteas por escrito: no montes el experimento sin una persona adulta y mantén la lámpara enchufada lejos del agua.
 
 **Solucionario razonado**
 
@@ -265,11 +265,11 @@ Respuesta: «¿Cuántas burbujas por minuto libera una planta acuática bajo una
 | Desempeño individual | 25 min | Cada estudiante analiza un caso nuevo para examinar evidencia y representaciones: Fotosíntesis, respiración y funcionamiento del ecosistema. Debe usar una tabla, diagrama o modelo pertinente, citar la evidencia decisiva y declarar una limitación. |
 | Cierre | 10 min | Escribe una conclusión en dos oraciones: una con la evidencia que la sostiene y otra con el límite que impide exagerarla. |
 
-**Materiales y preparación:** Prepare o proyecte este insumo: Este cuaderno y lápiz. Los datos del experimento de la planta acuática son de ejemplo y están escritos en los ejercicios. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
+**Materiales y preparación:** Prepare o proyecte este insumo: Este cuaderno y lápiz. Los datos del experimento de la planta acuática son de ejemplo y están escritos en los ejercicios; no necesitas montarlo. Si alguna vez lo haces, una persona adulta debe supervisarlo y la lámpara enchufada debe quedar lejos del agua. Añada pizarra, cuaderno y una copia de la consigna; compruebe legibilidad, seguridad, procedencia y una alternativa sin conectividad.
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Este cuaderno y lápiz. Los datos del experimento de la planta acuática son de ejemplo y están escritos en los ejercicios.
+**Recurso listo para usar:** Este cuaderno y lápiz. Los datos del experimento de la planta acuática son de ejemplo y están escritos en los ejercicios; no necesitas montarlo. Si alguna vez lo haces, una persona adulta debe supervisarlo y la lámpara enchufada debe quedar lejos del agua.
 
 **Consigna exacta:** Con esta tabla de ejemplo de una planta acuática, calcula el promedio de cada distancia y escribe una conclusión de dos oraciones con una limitación. Tabla: 10 cm: 40, 42, 38 burbujas por minuto; 20 cm: 20, 22, 18; 40 cm: 10, 9, 11.
 
@@ -364,7 +364,7 @@ Respuesta: A 10 cm de la lámpara
 
 *Aplicación*
 
-- **A1.** Tabla de ejemplo: lámpara a 15 cm, 20 burbujas por minuto; a 30 cm, 10; a 60 cm, 5. ¿Cuántas burbujas por minuto se registran a 30 cm?
+- **A1.** Tabla de ejemplo: lámpara a 15 cm, 20 burbujas por minuto; a 30 cm, 10; a 60 cm, 5. ¿A qué distancia de la lámpara ocurre más fotosíntesis?
 - **A2.** Con la misma tabla (a 15 cm, 20; a 30 cm, 10; a 60 cm, 5), ¿cuántas burbujas más hay a 15 cm que a 60 cm?
 - **A3.** Tres mediciones de ejemplo a 20 cm: 14, 16 y 18 burbujas por minuto. ¿Cuál es el promedio? A) 18; B) 16.
 
@@ -398,7 +398,7 @@ Respuesta: A 10 cm de la lámpara
 - **C1.** B. Es una variable controlada.
 - **C2.** A. Las burbujas son oxígeno de la fotosíntesis.
 - **C3.** Una condición de comparación. Permite ver el efecto de cambiar la variable.
-- **A1.** 10. Es el dato de la fila de 30 cm.
+- **A1.** 15 cm. Es la fila con más burbujas de oxígeno por minuto.
 - **A2.** 15. Se resta el valor menor al mayor. Cálculo: 20 − 5 = 15.
 - **A3.** B. La suma es 48 y 48 dividido por 3 es 16.
 - **Z1.** B. Debe cambiar una sola variable.
@@ -723,7 +723,7 @@ Respuesta: Se pierde como calor
 
 **Explicación.**
 
-La rapidez de la fotosíntesis depende de varios factores. Con más luz, aumenta, hasta un punto de saturación: desde allí, aunque haya más luz, no sube porque otro factor limita el proceso (por ejemplo, el CO2 o las enzimas). La temperatura también influye: sube la rapidez con el calor moderado, pero baja si es demasiado alta.
+La rapidez de la fotosíntesis depende de varios factores. Con más luz, aumenta, hasta un punto de saturación: desde allí, aunque haya más luz, no sube porque otro factor limita el proceso (por ejemplo, el CO2 o las enzimas, que son proteínas que aceleran las reacciones de la célula). La temperatura también influye: sube la rapidez con el calor moderado, pero baja si es demasiado alta.
 
 En un gráfico de líneas, el eje horizontal muestra la variable independiente (luz, temperatura) y el eje vertical muestra la dependiente (rapidez de fotosíntesis). Una curva que sube y luego se aplana indica saturación. Una curva que sube y luego baja indica un óptimo, es decir, un valor donde el proceso es máximo.
 

@@ -323,7 +323,7 @@ reg(
     ],
     open_task=(
         "Escoge un servicio. A: préstamo de libros del curso. B: reparto de apuntes a quienes faltaron. C: ayuda para subir compras en un edificio. Dibuja o escribe el flujo con al menos 5 pasos (incluye solicitud, registro, atención, entrega y seguimiento), un rombo con una decisión de sí o no, el rol de cada paso, un tiempo de ejemplo para cada uno, el cuello de botella con cuántas solicitudes por hora se completan y un plan B si falla el medio digital.",
-        "B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí o no, copiar (6 min, encargada o encargado), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel",
+        "B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí: copiar (6 min, encargada o encargado); no: avisar a quien pidió (1 min), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel",
         ["incluye las cinco etapas", "pone un rombo con ambas salidas", "asigna un rol a cada paso", "calcula el cuello de botella", "propone un plan B"],
         ["flujo escrito o dibujado con cálculos"],
         ["rombo con una sola salida", "pasos sin responsable"],
@@ -437,7 +437,7 @@ reg(
         arith("Puntajes de ejemplo: los impactos positivos suman 5, 4 y 3, y los negativos suman 2 y 6. ¿Cuál es el balance?", "5+4+3-2-6", "Balance = positivos menos negativos.", " puntos"),
         arith("Un servicio tiene balance 4. Con una medida, un impacto negativo baja de 6 a 2 puntos. ¿Cuál es el nuevo balance?", "4+6-2", "Los negativos bajan 4 puntos, así que el balance sube 4.", " puntos"),
     ],
-    ctx=ex("Un servicio vecinal de ejemplo presta escaleras plegables: 15 familias dejaron de comprar una de $20.000. ¿Cuánto dinero evitaron gastar y de qué tipo es el impacto?", "300.000 pesos; económico positivo", "15 × 20.000 = 300.000 y se trata de dinero.", calc="15*20000"),
+    ctx=ex("Un servicio vecinal de ejemplo presta mesas plegables: 15 familias dejaron de comprar una de $20.000. ¿Cuánto dinero evitaron gastar y de qué tipo es el impacto?", "300.000 pesos; económico positivo", "15 × 20.000 = 300.000 y se trata de dinero.", calc="15*20000"),
     sc=[
         ("¿Qué es un impacto indirecto?", "El que llega a otras personas o más tarde", "No recae enseguida en el usuario."),
         ("Un servicio genera muchos residuos, ¿qué tipo de impacto es?", "Ambiental negativo", "Afecta los recursos y el ambiente."),
@@ -462,7 +462,7 @@ reg(
     use="Aprenderé a aplicar normas de cuidado y seguridad digital y presencial, a probar el servicio con un piloto y a actuar con un protocolo ante un problema. Sirve para prestar el servicio sin poner en riesgo a nadie.",
     prior=["Sé cuidar datos personales.", "Sé anticipar impactos.", "Sé calcular porcentajes."],
     explain=[
-        "La seguridad digital protege a las personas y a sus datos. Se usan contraseñas largas, distintas para cada cuenta y que no se comparten ni se escriben en el chat. Al terminar en un equipo compartido se cierra la sesión. No se abren enlaces dudosos. Los datos se guardan en un lugar con acceso limitado y, cuando se puede, se usan recursos que no exigen cuenta.",
+        "La seguridad digital protege a las personas y a sus datos. Se usan contraseñas largas, distintas para cada cuenta y que no se comparten ni se escriben en el chat. Al terminar en un equipo compartido se cierra la sesión. No se abren enlaces dudosos. Nunca se pide ni se anota la clave de un usuario: si hay que ingresar a su cuenta, lo hace él o ella. Los datos se guardan en un lugar con acceso limitado y, cuando se puede, se usan recursos que no exigen cuenta.",
         "La seguridad física importa si el servicio es presencial: se presta en un lugar visible, con otras personas del equipo presentes y con el permiso de la escuela o de una persona adulta responsable. Nadie atiende solo a una persona desconocida. Al usar pantallas se hacen pausas y se cuida la postura.",
         "Cuando ocurre un problema se sigue un protocolo, que es una secuencia acordada de pasos: no responder a quien ofende o presiona, guardar evidencia (por ejemplo una captura), bloquear si corresponde y avisar a una persona adulta responsable. No se borra el chat y nunca se guarda ni se reenvía una imagen íntima de nadie. Nunca se enfrenta solo a alguien ni se guarda un secreto. Antes de abrir el servicio a todos se hace una prueba piloto con un grupo pequeño para descubrir fallas y riesgos.",
     ],
@@ -506,7 +506,7 @@ reg(
     ],
     open_task=(
         "Escribe el manual de cuidado y seguridad de este servicio de ejemplo: «ayuda presencial con trámites en línea para adultos mayores del barrio, en la sede vecinal, los sábados». Incluye (a) tres normas de seguridad digital, (b) tres normas de seguridad física, (c) un protocolo de cuatro pasos ante un mensaje ofensivo en el chat del servicio y (d) cómo harías una prueba piloto con 5 personas y qué medirías.",
-        "(a) Claves largas y distintas; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción",
+        "(a) Claves largas y distintas, sin pedir ni anotar las de los usuarios; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción",
         ["tres normas digitales", "tres normas físicas", "protocolo con avisar a una persona adulta", "piloto con algo medible"],
         ["manual de una hoja"],
         ["protocolo que enfrenta al agresor", "piloto sin medición"],

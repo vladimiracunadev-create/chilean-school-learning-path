@@ -759,7 +759,7 @@ Respuesta: Tres pasos con evidencia y un adulto
 
 *Recuperación*
 
-- **R1.** Joaquín anota: «Algún día voy a hacer algo con la electrónica». ¿Qué le falta a ese paso para ser una acción segura? A) Ser más grande y arriesgado B) Ser concreto: decir qué hará y cuándo
+- **R1.** Joaquín anota: «Algún día voy a hacer algo con la electrónica». ¿Qué le falta a ese paso para ser una acción segura? A) Ser concreto: decir qué hará y cuándo B) Abarcar muchas metas a la vez para avanzar más rápido
 - **R2.** Si un paso puede cambiarse sin perder mucho, ¿es reversible o irreversible?
 - **R3.** Joaquín quiere mostrar que visitó el taller. ¿Cuál es una evidencia? A) Decir que fue B) Una nota con la fecha y tres cosas que vio
 
@@ -799,7 +799,7 @@ Respuesta: Tres pasos con evidencia y un adulto
 
 **Solucionario razonado**
 
-- **R1.** B. Una acción segura dice qué se hace y para cuándo.
+- **R1.** A. Una acción segura dice qué se hace y para cuándo.
 - **R2.** Reversible. Se puede deshacer o ajustar.
 - **R3.** B. Una nota con datos se puede mostrar; decirlo no deja prueba.
 - **C1.** B. Es pequeña, reversible y acompañada.

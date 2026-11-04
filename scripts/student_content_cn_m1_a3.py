@@ -204,7 +204,7 @@ L(OA5, 4,
       arith("Un guanaco de ejemplo necesita 3.000 g de pasto por día. Si el pasto de un campo es de 15.000 g, ¿para cuántos días alcanza para un guanaco?", "15000//3000", "Se divide el pasto disponible entre el consumo diario.", " días"),
   ],
   rea=[
-      ("Un estudiante dice: «Con 350 mm hay 700 g; entonces con 1.000 mm habrá 2.000 g». ¿Cuál es la crítica? A) Está fuera del rango medido y no se sabe si la relación se mantiene; B) 1.000 mm no existe.", "A", "Extrapolar es dudoso."),
+      ("Un estudiante dice: «Con 350 mm hay 700 g; entonces con 1.000 mm habrá 2.000 g». ¿Cuál es la crítica? A) Está fuera del rango medido y no se sabe si la relación se mantiene; B) La relación deja de cumplirse apenas se supera la lluvia medida.", "A", "Extrapolar es dudoso."),
       ("Tabla de ejemplo: año 1, lluvia 300 mm, guanacos 80; año 2, lluvia 200 mm, guanacos 60; año 3, lluvia 100 mm, guanacos 40. ¿Qué conclusión es prudente? A) Los guanacos aumentan con la lluvia en estos tres años, pero faltan datos para asegurar la causa; B) La lluvia produce guanacos directamente.", "A", "La relación es positiva; la causa necesita el mecanismo del pasto."),
   ],
   cha=[
@@ -305,11 +305,11 @@ L(OA6, 1,
   ],
   cha=[
       ("Un estudio de ejemplo mide el agua evaporada: vaso con tapa pierde 1 mm y vaso sin tapa pierde 4 mm en 24 horas. ¿Cuántos mm más pierde el vaso sin tapa?", "3", "4 menos 1 es 3."),
-      ("Un bosque de ejemplo pierde su vegetación por un incendio. ¿Qué ciclo se altera más inmediatamente en esa zona? A) El del agua, porque sin plantas hay menos transpiración y más escurrimiento; B) El del fósforo, que desaparece.", "A", "Las plantas participan en el ciclo del agua."),
+      ("Un bosque de ejemplo pierde su vegetación. ¿Cómo cambia el ciclo del agua en esa zona? A) Hay menos transpiración y más escurrimiento; B) Hay más transpiración y más infiltración.", "A", "Las plantas participan en el ciclo del agua."),
   ],
   context=[arith("Una familia de ejemplo recoge agua lluvia en 3 baldes y cada uno junta 8 litros. ¿Cuántos litros recoge en total?", "3*8", "Se multiplica el número de baldes por los litros de cada uno.")],
   selfcheck=[("¿Qué circula en los ciclos y qué fluye en un solo sentido?", "La materia circula y la energía fluye", "Es una diferencia básica."), ("¿Para qué sirve el carbono?", "Forma las moléculas de los seres vivos", "Es la base de azúcares y proteínas."), ("¿Qué hace investigable a una pregunta sobre un ciclo?", "Que indica qué se mide", "Se contesta con datos.")],
-  open_task=task("Elige uno de estos ciclos: agua, carbono, nitrógeno o fósforo. Escribe (a) una frase sobre su importancia para los seres vivos y (b) dos preguntas investigables que podrías contestar con datos, por ejemplo midiendo el nivel de agua de un vaso o contando cuántas gotas se forman en una tapa en 1 hora. Para el ciclo del agua, usa un vaso con tapa y otro sin tapa.", "Agua: participa en casi todas las reacciones de las células. Preguntas: «¿Cuánto baja el nivel de un vaso destapado en 24 horas?» y «¿Cuántas gotas aparecen en la tapa en 1 hora?».", ["frase de importancia correcta", "dos preguntas con algo que medir", "no son de opinión"], ["frase y dos preguntas"], ["preguntas de opinión", "frase sin elemento"], "Pregunta qué materiales de casa usarías para medir una de tus preguntas."),
+  open_task=task("Elige uno de estos ciclos: agua, carbono, nitrógeno o fósforo. Escribe (a) una frase sobre su importancia para los seres vivos y (b) dos preguntas investigables que podrías contestar con datos, por ejemplo midiendo el nivel de agua de un vaso o contando cuántas gotas se forman en una tapa en 1 hora. Para el ciclo del agua, usa un vaso de plástico con tapa y otro sin tapa, y no uses vasos de vidrio.", "Agua: participa en casi todas las reacciones de las células. Preguntas: «¿Cuánto baja el nivel de un vaso destapado en 24 horas?» y «¿Cuántas gotas aparecen en la tapa en 1 hora?».", ["frase de importancia correcta", "dos preguntas con algo que medir", "no son de opinión"], ["frase y dos preguntas"], ["preguntas de opinión", "frase sin elemento"], "Pregunta qué materiales de casa usarías para medir una de tus preguntas."),
   reinforce="Escribe para qué sirve el fósforo y para qué sirve el nitrógeno.",
   extend="Explica por qué la materia puede reciclarse pero la energía no.")
 

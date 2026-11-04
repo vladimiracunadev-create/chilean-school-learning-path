@@ -753,7 +753,7 @@ Si una persona no responde y no respira normalmente, es una emergencia. Pide ayu
 
 *Ejemplo 1. Aplicar la secuencia PAS*
 
-Problema: Un compañero se cae del patio y se queja de dolor intenso en el tobillo. ¿Qué haces primero?
+Problema: Un compañero se cae del patio y se queja de dolor intenso en el tobillo. ¿Qué tres pasos sigues y en qué orden?
 
 1. Primero compruebo que el lugar sea seguro.
 2. Luego pido ayuda a una persona adulta.
@@ -809,7 +809,7 @@ Respuesta: 30 compresiones
 *Situaciones auténticas*
 
 - **S1.** Practicas con un cojín: 2 compresiones por segundo. Un compañero cuenta 20 segundos con un reloj. ¿Cuántas compresiones tendrías al final?
-- **S2.** En un caso de ejemplo, un compañero se golpea la ceja con una puerta del gimnasio y sangra poco. ¿Qué haces primero: A) aviso a una persona adulta y le paso una gasa limpia para presionar con suavidad; B) le doy un remedio?
+- **S2.** En un caso de ejemplo, un compañero se golpea la ceja con una puerta del gimnasio y sangra poco. ¿Qué haces primero: A) le doy un remedio; B) aviso a una persona adulta y le paso un paño limpio para presionar con suavidad?
 
 *Autoevaluación*
 
@@ -835,7 +835,7 @@ Respuesta: 30 compresiones
 - **D1.** 90 compresiones. Se multiplican las series por las compresiones de cada una. Cálculo: 3 × 30 = 90.
 - **D2.** 2. Entre 3 series hay 2 pausas.
 - **S1.** 40. 20 por 2 son 40.
-- **S2.** A. Se alerta a un adulto y se hace solo lo básico.
+- **S2.** B. Se alerta a un adulto y se hace solo lo básico.
 - **E1.** Proteger, alertar y socorrer. Son los pasos de la clase.
 - **E2.** Pido ayuda de inmediato. Es una emergencia que necesita ayuda profesional.
 - **E3.** Darle remedios. Solo se hace la ayuda básica aprendida.

@@ -69,7 +69,7 @@ lesson(
         arith("En un chat inventado de 32 personas, 8 reaccionan con burlas a un mensaje ofensivo y 3 piden respeto. ¿Cuántas personas no reaccionan?", "32-8-3", "Al total se le restan quienes reaccionan con burlas y quienes piden respeto."),
         arith("Una compañera recibió 5 mensajes ofensivos por día durante 4 días. ¿Cuántos mensajes recibió?", "5*4", "Se multiplican mensajes por días."),
     ],
-    context=[ex("En el curso circulan memes sobre cómo habla Nicolás. Una compañera propone un chat de apoyo para quien lo necesite. ¿Qué efecto tiene? A) Construye una relación más inclusiva B) Aumenta las burlas.", "A", "Ofrece apoyo en vez de burla.")],
+    context=[ex("En el curso circulan memes sobre cómo habla Nicolás. Una compañera propone un chat de apoyo para quien lo necesite. ¿Qué efecto tiene? A) Construye una relación más inclusiva B) Evita que Nicolás se entere de los memes.", "A", "Ofrece apoyo en vez de burla.")],
     selfcheck=[ex("En Orientación: ¿la dignidad vale también en las redes sociales?", "Sí", "Los derechos no desaparecen en línea."), ex("¿Excluir a alguien por su apariencia es discriminación?", "Sí", "Trata peor por una característica."), ex("¿Un mensaje en línea puede difundirse rápido?", "Sí", "Se copia y reenvía.")],
     task=T("Lee este chat inventado: Mati: «¿Alguien me pasa los apuntes de ayer?». Cata: «Yo, te los mando». Beto: «Jaja, Mati siempre faltando, qué flojo». Dani: «Uf, no sean así». Fran: sube un sticker burlesco con la cara de Mati. Escribe una tabla con dos mensajes constructivos, dos que dañan, la emoción posible de Mati y una acción que podría hacer Dani.", "Constructivos: el de Cata y el de Dani. Dañan: el de Beto y el sticker de Fran. Emoción: vergüenza o rabia. Acción de Dani: pedir que borren el sticker y apoyar a Mati.", ["identifica dos mensajes constructivos", "identifica dos que dañan", "nombra una emoción posible", "propone una acción respetuosa"], ["tabla escrita", "texto oral"], ["culpar a Mati", "confundir broma con burla"], "Reconoce los mensajes bien clasificados y pregunta qué principio se vulnera en cada uno."),
     reinforce="Escribe dos mensajes de un chat que construyan una relación respetuosa.",
@@ -161,7 +161,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué responder con otra burla pública no resuelve el problema?", "Porque aumenta el conflicto y el daño", "Se suma otra agresión y no repara."),
-        ex("Un compañero dice: «Yo solo miré». ¿Qué le falta considerar? A) Que mirar sin hacer nada deja sola a la persona B) Que mirar es lo mejor.", "A", "Los observadores pueden ayudar."),
+        ex("Un compañero dice: «Yo solo miré». ¿Qué le falta considerar? A) Que mirar sin hacer nada deja sola a la persona B) Que mirar sin participar nunca tiene efecto.", "A", "Los observadores pueden ayudar."),
     ],
     D=[
         arith("De 30 integrantes de un chat inventado, 18 no reaccionan al meme, 7 se ríen y el resto defiende a Ignacio. ¿Cuántos lo defienden?", "30-18-7", "Al total se le restan quienes no reaccionan y quienes se ríen."),
@@ -218,7 +218,7 @@ lesson(
     ],
     context=[ex("Tu compañera Inés recibe mensajes de un perfil que dice ser un joven famoso y le pide fotos. ¿Qué es lo más seguro? A) Bloquear, guardar capturas y avisar a un adulto B) Seguir la conversación para saber quién es.", "A", "No debe seguir el contacto con un perfil dudoso.")],
     selfcheck=[ex("En Orientación: ¿el grooming es un engaño de un adulto a un menor?", "Sí", "Es su definición."), ex("¿Se debe reenviar una imagen íntima de otra persona?", "No", "Daña gravemente a la persona."), ex("¿Es correcto avisar a un adulto de confianza?", "Sí", "Es el paso final del protocolo.")],
-    task=T("Lee los cinco mensajes inventados de un perfil desconocido a Joaquín: «Hola, vi tu partida»; «Eres muy bueno, mejor que todos»; «Te regalo unos juegos si me das tu número»; «No se lo cuentes a tus papás, es un secreto»; «Mándame una foto tuya». Subraya dos señales de alerta, escribe los cinco pasos del protocolo en orden y una frase que usarías con un adulto.", "Señales: el pedido de secreto y la foto. Pasos: no responder, guardar capturas, bloquear, avisar a un adulto, no borrar el chat. Frase: «Un perfil desconocido me pidió un secreto y una foto; quiero que veas los mensajes».", ["identifica dos señales", "ordena los pasos del protocolo", "escribe una frase para el adulto", "no reproduce datos personales"], ["lista escrita", "texto oral"], ["omitir avisar al adulto", "borrar el chat"], "Reconoce las señales y pregunta qué paso sigue después de guardar capturas."),
+    task=T("Lee los cinco mensajes inventados de un perfil desconocido a Joaquín: «Hola, vi tu partida»; «Eres muy bueno, mejor que todos»; «Te regalo unos juegos si me das tu número»; «No se lo cuentes a tu familia, es un secreto»; «Mándame una foto tuya». Subraya dos señales de alerta, escribe los cinco pasos del protocolo en orden y una frase que usarías con un adulto.", "Señales: el pedido de secreto y la foto. Pasos: no responder, guardar capturas, bloquear, avisar a un adulto, no borrar el chat. Frase: «Un perfil desconocido me pidió un secreto y una foto; quiero que veas los mensajes».", ["identifica dos señales", "ordena los pasos del protocolo", "escribe una frase para el adulto", "no reproduce datos personales"], ["lista escrita", "texto oral"], ["omitir avisar al adulto", "borrar el chat"], "Reconoce las señales y pregunta qué paso sigue después de guardar capturas."),
     reinforce="Escribe los cinco pasos del protocolo con tus palabras.",
     extend="Explica por qué la víctima de un engaño en línea nunca es culpable.",
 )
@@ -255,7 +255,7 @@ lesson(
     A=[
         ex("Clasifica con R (respeta) o H (hiere): 1) «Me gustaría que no compartieras mi audio.» 2) «JAJA qué ridícula saliste.» 3) «Gracias por avisarme, lo borro.» Escribe las letras en orden.", "R, H, R", "La 1 y la 3 son respetuosas; la 2 se burla."),
         ex("Un conflicto entre dos amigas por mensajes ya lleva 12 mensajes y cada vez se entienden menos. ¿Qué conviene? A) Hablar en persona con apoyo de un adulto si es necesario B) Seguir escribiendo más rápido.", "A", "En persona se aclaran tono e intención."),
-        ex("Marcela escribe: «Qué gracioso tu corte de pelo, jaja, no es chiste». ¿Qué problema tiene el mensaje? A) Puede entenderse como una burla B) Es demasiado largo.", "A", "La ironía puede herir."),
+        ex("Marcela escribe: «Qué gracioso tu corte de pelo, jaja». ¿Qué problema tiene el mensaje? A) Puede entenderse como una burla B) Es demasiado largo.", "A", "La ironía puede herir."),
     ],
     Z=[
         ex("¿Por qué esperar unos minutos antes de responder con enojo ayuda?", "Porque evita decir algo que luego dañe", "La calma permite escribir con respeto."),
@@ -353,7 +353,7 @@ lesson(
     ],
     A=[
         ex("Clasifica con D (derecho) o L (límite cruzado): 1) Javiera pide ser escuchada; 2) Matías amenaza con publicar una foto; 3) Javiera propone buscar un acuerdo. Escribe las letras en orden.", "D, L, D", "La 1 y la 3 ejercen derechos; la 2 cruza un límite."),
-        ex("Dos estudiantes discuten por turnos de la cancha. Uno dice «tengo derecho a jugar tanto como tú». ¿Qué principio usa? A) Igualdad B) Privacidad.", "A", "Pide el mismo trato para ambos."),
+        ex("Dos estudiantes discuten por turnos de la cancha. Uno dice «tengo derecho a jugar tanto como tú». ¿Qué principio usa? A) Que ambos tienen el mismo derecho B) Que la privacidad se protege.", "A", "Pide el mismo trato para ambos."),
         ex("Marta quiere decir lo que piensa de la propuesta de un compañero. ¿Cuál es respetuoso? A) «No creo que alcance el tiempo; propongo otra opción.» B) «Tu idea es una porquería.»", "A", "Critica la idea sin humillar a la persona."),
     ],
     Z=[

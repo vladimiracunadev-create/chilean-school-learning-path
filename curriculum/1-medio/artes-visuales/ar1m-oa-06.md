@@ -173,7 +173,7 @@ Respuesta: «La escalera», autoría de la estudiante, grabado en cartón, tinta
 
 *Situaciones auténticas*
 
-- **S1.** Tu liceo quiere mostrar los trabajos del curso a los apoderados y a los vecinos. Opciones de ejemplo: A) pasillo del liceo en horario de clases; B) sala con aforo de 30 personas, abierta tres tardes con rampa y entrada libre. Los apoderados llegan después de las 17:00. ¿Qué eliges? A. La sala de tarde con rampa B. El pasillo en horario de clases.
+- **S1.** Tu liceo quiere mostrar los trabajos del curso a los apoderados y a los vecinos. Opciones de ejemplo: A) pasillo del liceo en horario de clases; B) sala con aforo de 30 personas, abierta tres tardes de 17:00 a 19:00, con rampa y entrada libre. Los apoderados llegan después de las 17:00. ¿Qué eliges? A. La sala de tarde con rampa B. El pasillo en horario de clases.
 
 *Autoevaluación*
 
@@ -307,7 +307,7 @@ Respuesta: «La escalera», autoría de la estudiante, grabado en cartón, tinta
 
 **Explicación.**
 
-El montaje es la forma de ubicar y sostener las obras en un espacio. Una regla simple de altura es que el centro de la obra quede alrededor de 150 cm del suelo, a la altura de los ojos de la mayoría. Si una obra mide 40 cm de alto, el borde inferior queda a 150 − 20 = 130 cm. En una muestra para niños o para personas en silla de ruedas se baja la altura. Un soporte es lo que sostiene la obra: un muro, una repisa, un panel de cartón o un cordel con clips.
+El montaje es la forma de ubicar y sostener las obras en un espacio. Una cifra de referencia, de ejemplo y no una norma, es que el centro de la obra quede alrededor de 150 cm del suelo, cerca de la altura de los ojos de muchas personas adultas. Si una obra mide 40 cm de alto, el borde inferior queda a 150 − 20 = 130 cm. En una muestra para niños o para personas en silla de ruedas se baja la altura. Un soporte es lo que sostiene la obra: un muro, una repisa, un panel de cartón o un cordel con clips.
 
 El cuidado de las obras y del lugar viene primero. Uso cinta de papel o clips que se retiran sin dañar el muro ni la obra; no clavo ni pego nada sin permiso de quien administra el lugar; no cuelgo cosas pesadas en altura sin ayuda de una persona adulta ni subo a sillas o mesas inestables. La luz debe iluminar sin encandilar, y la luz directa del sol puede desteñir colores. Las obras frágiles van protegidas del roce y de la humedad.
 
@@ -590,7 +590,7 @@ Respuesta: El recorrido B
 
 *Situaciones auténticas*
 
-- **S1.** Tu curso tiene un muro de 720 cm en el pasillo y 3 grabados enmarcados de 120 cm de ancho cada uno. Quieres huecos iguales. ¿Cuántos centímetros separan cada obra del extremo y de las demás? A. 120 cm B. 90 cm.
+- **S1.** Tu curso tiene un muro de 780 cm en el pasillo y 3 grabados enmarcados de 100 cm de ancho cada uno. Quieres huecos iguales. ¿Cuántos centímetros separan cada obra del extremo y de las demás? A. 120 cm B. 160 cm.
 
 *Autoevaluación*
 
@@ -615,7 +615,7 @@ Respuesta: El recorrido B
 - **Z2.** B. Sin criterio no hay forma de decidir.
 - **D1.** 50 cm. Se resta el ancho total de las obras y se divide por los seis huecos. Cálculo: (800 − 5 × 100) ÷ (5 + 1) = 50.
 - **D2.** 100 cm. 2 × 50 = 100 cm.
-- **S1.** B. (720 − 360) ÷ 4 = 90 cm; dividir por 3 olvida un hueco.
+- **S1.** A. (780 − 300) ÷ 4 = 120 cm; 160 cm resulta de dividir por 3 y olvida un hueco.
 - **E1.** 4. Obras más uno.
 - **E2.** Falso. Se elige con un criterio.
 - **E3.** Lejos del paso o en una vitrina. Se evita el roce.

@@ -177,7 +177,7 @@ Respuesta: 9 y −9
 
 - **E1.** Calcula (−2)^5.
 - **E2.** Calcula (3/2)^2.
-- **E3.** ¿Cuál es la base en (−7/3)^4?
+- **E3.** Calcula (−2/5)^3.
 
 **Actividad abierta.** Un cuadrado de lado 2/3 m y un cubo de arista 2/3 m: calcula el área del cuadrado (lado al cuadrado) y el volumen del cubo (arista al cubo). Luego calcula (−2/3)^2 y (−2/3)^3 y explica cómo cambia el signo.
 
@@ -199,7 +199,7 @@ Respuesta: 9 y −9
 - **S1.** 1/4. Áreas: 1/16 m² y 1/4 m²; 1/16 dividido por 1/4.
 - **E1.** −32. Exponente impar: resultado negativo.
 - **E2.** 9/4. Se elevan numerador y denominador.
-- **E3.** −7/3. La base es lo que está dentro del paréntesis.
+- **E3.** −8/125. Exponente impar: queda negativo, y 2^3 = 8 sobre 5^3 = 125.
 
 **Actividad abierta · ejemplo de respuesta.** Área: (2/3)^2 = 4/9 m². Volumen: (2/3)^3 = 8/27 m³. (−2/3)^2 = 4/9 y (−2/3)^3 = −8/27: exponente par positivo, impar negativo.
 

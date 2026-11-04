@@ -131,11 +131,11 @@ Respuesta: four thousand y one million
 
 *Ejemplo 2. Interested o interesting*
 
-Problema: Completa: «The film is very ___. I am ___ in films.»
+Problema: Completa: «The movie is very ___. I am ___ in movies.»
 
 1. La película es una cosa que llama la atención: interesting.
 2. Yo soy una persona que siente interés: interested.
-3. La oración queda: The film is very interesting. I am interested in films.
+3. La oración queda: The movie is very interesting. I am interested in movies.
 
 Respuesta: interesting; interested
 
@@ -377,7 +377,7 @@ Respuesta: According to
 
 *Razonamiento y análisis*
 
-- **Z1.** Una estudiante escribe «According to me, the film is boring». ¿Qué corrección haces? A) In my opinion, the film is boring B) According to the film, I am boring C) Nothing, it is correct
+- **Z1.** Una estudiante escribe «According to me, the movie is boring». ¿Qué corrección haces? A) Nothing, it is correct B) According to the film, I am boring C) In my opinion, the movie is boring
 - **Z2.** ¿Cuál oración da el dato de otra fuente? A) In my opinion, the museum is great B) According to the museum website, it opens at 9:00 C) I think museums are quiet
 
 *Desafío*
@@ -408,7 +408,7 @@ Respuesta: According to
 - **A1.** B) a big old wooden table. El orden es tamaño, edad y material.
 - **A2.** A) apply. Apply for a job es una colocación habitual.
 - **A3.** A) huge. Huge y enormous significan muy grande.
-- **Z1.** A) In my opinion, the film is boring. Para opiniones propias se usa in my opinion.
+- **Z1.** C) In my opinion, the movie is boring. Para opiniones propias se usa in my opinion.
 - **Z2.** B) According to the museum website, it opens at 9:00. Cita una fuente.
 - **D1.** A) a small new silver metal watch. Tamaño, edad, color y material.
 - **D2.** B) a beautiful old wooden box. La opinión va antes que la edad y el material.
@@ -427,7 +427,7 @@ Respuesta: According to
 
 **Retroalimentación constructiva:** Pide que cambie el objeto por otro y vuelva a ordenar los adjetivos.
 
-**Refuerzo.** Copia las cuatro categorías de adjetivos en orden y escribe un ejemplo de cada una.
+**Refuerzo.** Copia las cinco categorías de adjetivos en orden y escribe un ejemplo de cada una.
 
 **Profundización.** Describe en inglés un objeto de tu casa con cuatro adjetivos en orden y una opinión con In my opinion.
 
@@ -578,7 +578,7 @@ Respuesta: I used to walk to school, but now I take the bus
 
 - **C1.** ¿Cuál oración ubica bien el adverbio? A) She is always late B) She always is late C) Always she is late
 - **C2.** Completa: «I studied French five years ___.» A) for B) since C) ago
-- **C3.** Completa: «She is ___ shy, but not extremely shy.» A) never B) quite C) twice
+- **C3.** Completa: «She is ___ shy, but not extremely shy.» A) once B) often C) quite
 
 *Aplicación*
 
@@ -615,7 +615,7 @@ Respuesta: I used to walk to school, but now I take the bus
 - **R3.** C) bastante tímida. Quite es bastante.
 - **C1.** A) She is always late. Después de to be.
 - **C2.** C) ago. Ago se usa con el pasado simple.
-- **C3.** B) quite. Quite expresa un grado medio.
+- **C3.** C) quite. Quite expresa un grado medio.
 - **A1.** C) used to. Describe un hábito pasado.
 - **A2.** C) He didn't use to like fish. Después de didn't va la forma use.
 - **A3.** C) ago. Two weeks ago es hace dos semanas.
@@ -789,7 +789,7 @@ Respuesta: I have saved money for three months
 
 - **C1.** Completa: «She ___ lived here for two years.» A) is B) have C) has
 - **C2.** Completa: «I ___ saved money to buy a bike.» A) has B) have C) had to
-- **C3.** Completa: «They ___ not seen the film.» A) has B) have C) are
+- **C3.** Completa: «They ___ not seen the movie.» A) are B) has C) have
 
 *Aplicación*
 
@@ -826,7 +826,7 @@ Respuesta: I have saved money for three months
 - **R3.** C) un punto de inicio, como Monday. Since dice desde cuándo.
 - **C1.** C) has. She va con has.
 - **C2.** B) have. I va con have.
-- **C3.** B) have. They va con have.
+- **C3.** C) have. They va con have.
 - **A1.** B) Nico has played the guitar since March. March es un punto de inicio y la acción continúa.
 - **A2.** C) for. Two years es una duración.
 - **A3.** A) since. Last Monday es el inicio.
@@ -945,7 +945,7 @@ Respuesta: I have saved money for three months
 
 Las cláusulas relativas (relative clauses) agregan información. Who se usa para personas y which para cosas. La información esencial identifica de quién o de qué hablas y no lleva comas: Simon is the boy who lives next door. La información adicional agrega un dato y va entre comas: The science book, which I borrowed from the library, is very interesting. Si quitas la información adicional, la oración sigue teniendo sentido.
 
-Para unir ideas: although introduce un contraste (although it's cheap, I'm not sure); so that indica propósito (come early so that we can talk); both… and une dos elementos (both Luis and Tomás are my neighbors); and lastly o and finally cierra una lista de acciones. Elige el conector según la relación entre las ideas.
+Para unir ideas: although introduce un contraste (although it's cheap, I'm not sure); so that indica propósito (come early so that we can talk); both… and une dos elementos (both Luis and Tomás are my neighbors); and lastly o and finally cierra una lista de acciones; as a result (como resultado) introduce una consecuencia de lo que se dijo antes: The road was closed. As a result, the bus used another route. Elige el conector según la relación entre las ideas.
 
 La voz pasiva (passive voice) se usa cuando no se conoce o no importa quién hace la acción. Se forma con be + participio pasado: The money was found on the floor; Rooms are cleaned daily; Plastic is produced from oil. En presente se usa am, is o are, y en pasado was o were. El foco está en lo que ocurre, no en quién lo hace.
 
@@ -958,6 +958,7 @@ La voz pasiva (passive voice) se usa cuando no se conoce o no importa quién hac
 | although | aunque |
 | so that | para que |
 | both… and… | tanto… como… |
+| and lastly / as a result | por último / como resultado |
 | passive voice | voz pasiva: be + participio |
 | agent | quien hace la acción |
 
@@ -1006,7 +1007,7 @@ Respuesta: The rooms are cleaned every day
 
 - **A1.** Completa: «Come early ___ we can talk.» A) although B) so that C) both
 - **A2.** Completa: «___ Luis and Tomás are my neighbors.» A) Which B) Although C) Both
-- **A3.** Completa: «Plastic ___ produced from oil.» A) are B) is C) were
+- **A3.** Completa la lista de acciones de Ana: «First, she made a list. Then she bought apples. And ___, she cooked dinner.» A) lastly B) although C) both
 
 *Razonamiento y análisis*
 
@@ -1016,7 +1017,7 @@ Respuesta: The rooms are cleaned every day
 *Desafío*
 
 - **D1.** Une las ideas: «It's cheap. I'm not sure.» A) Although it's cheap, I'm not sure B) Although it's cheap, but I'm not sure C) Because it's cheap, I'm not sure
-- **D2.** Reescribe sin agente: «Someone cleans the rooms daily». A) The rooms are cleaned daily B) The rooms cleans daily C) The rooms is cleaned daily
+- **D2.** Completa: «The road was closed for repairs. ___, the bus used a different route.» (route = ruta) A) For example B) As a result C) Although
 
 *Situaciones auténticas*
 
@@ -1040,11 +1041,11 @@ Respuesta: The rooms are cleaned every day
 - **C3.** B) are. Rooms es plural y la acción es habitual.
 - **A1.** B) so that. Indica el propósito.
 - **A2.** C) Both. Both une dos personas.
-- **A3.** B) is. Plastic es singular y es un hecho general.
+- **A3.** A) lastly. And lastly cierra una lista de acciones: marca la última.
 - **Z1.** B) The science book, which I borrowed from the library, is very interesting. El dato adicional va entre comas.
 - **Z2.** C) The money was found on the floor. Was found es be + participio.
 - **D1.** A) Although it's cheap, I'm not sure. Although expresa contraste y no se usa con but.
-- **D2.** A) The rooms are cleaned daily. Rooms es plural y lleva are.
+- **D2.** B) As a result. El cambio de ruta es la consecuencia de que el camino estuviera cerrado.
 - **S1.** A) Cuándo se limpia y se cambia; interesa el servicio, no la persona. La voz pasiva se usa cuando el agente no importa.
 - **E1.** B) The book, which I borrowed, is old. Which I borrowed es un dato extra.
 - **E2.** A) So that. So that dice para qué.
@@ -1060,7 +1061,7 @@ Respuesta: The rooms are cleaned every day
 
 **Retroalimentación constructiva:** Pide que subraye en cada oración la palabra clave (who, although, is cleaned, both... and).
 
-**Refuerzo.** Copia los siete términos y escribe una oración con cada uno.
+**Refuerzo.** Copia los ocho términos y escribe una oración con cada uno.
 
 **Profundización.** Escribe en inglés una oración con who, otra con which, otra con although y otra en voz pasiva sobre tu colegio.
 

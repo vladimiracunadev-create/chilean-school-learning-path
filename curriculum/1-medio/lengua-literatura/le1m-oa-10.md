@@ -163,7 +163,7 @@ Respuesta: Noticia; su propósito es informar
 
 *Razonamiento y análisis*
 
-- **Z1.** Un titular dice «Más de 1.000 estudiantes ya se inscribieron». ¿Cuál puede ser el propósito implícito: dar confianza para que otros se inscriban o relatar una historia familiar?
+- **Z1.** Un titular dice «Más de 1.000 estudiantes ya se inscribieron». ¿Cuál puede ser el propósito implícito? A) explicar los requisitos de la inscripción B) dar confianza para que otros también se inscriban
 - **Z2.** Un afiche informa horarios de un taller, pero destaca con letras grandes «¡Cupos limitados!». ¿Qué propósito declara y cuál sugiere?
 
 *Desafío*
@@ -194,7 +194,7 @@ Respuesta: Noticia; su propósito es informar
 - **A1.** I, P, V. El primero entrega un dato; el segundo pide votar; el tercero ofrece un producto.
 - **A2.** A) orden temporal con mirada personal. Se cuenta en orden y en primera persona.
 - **A3.** A) preocupación y culpa. Apela al deber familiar para empujar a comprar.
-- **Z1.** Dar confianza para que otros se inscriban. Muestra que muchos lo hacen para estimular la imitación.
+- **Z1.** B) dar confianza para que otros también se inscriban. Muestra que muchos lo hacen para estimular la imitación.
 - **Z2.** Declara informar; sugiere apurar la inscripción. La información es el propósito explícito y «cupos limitados» crea urgencia.
 - **D1.** El texto 1. Entrega día, lugar y horario; el 2 busca entusiasmar.
 - **D2.** B) vender asociando el jugo con energía. Promete un beneficio sin evidencia para convencer de comprar.
@@ -573,7 +573,7 @@ Respuesta: Dan urgencia y dirigen la mirada
 
 *Aplicación*
 
-- **A1.** Aviso de ejemplo: «Todos tus compañeros ya lo tienen. ¿Tú no?». ¿Qué estrategia usa: presión del grupo o dato científico?
+- **A1.** Aviso de ejemplo: «Todos tus compañeros ya lo tienen. ¿Tú no?». ¿Qué estrategia usa: presión del grupo o cita de un experto?
 - **A2.** Clasifica con H (humor), E (estereotipo) o S (sentimientos): 1) «Los niños tecnológicos nunca juegan afuera». 2) Un perrito rescatado mira a la cámara con música suave. 3) Un chiste del actor que se resbala con el producto. Escribe las letras en orden.
 - **A3.** Afiche de ejemplo para una campaña del agua: azul suave, una gota grande y la frase «Cuidemos cada gota». ¿Qué evoca el azul y la gota? A) velocidad B) agua y calma
 
@@ -777,7 +777,7 @@ Respuesta: Buscar una tercera fuente, porque las cifras no coinciden
 
 - **C1.** Dos medios informan una misma reunión de estudiantes con la dirección. Medio A: «Estudiantes protestan por el casino». Medio B: «Estudiantes conversan con la dirección sobre el casino». ¿Qué cambia entre ambos? A) el verbo, que da otra imagen del hecho B) el hecho, que es distinto
 - **C2.** Medio A cita al director. Medio B cita a un estudiante. ¿Qué diferencia hay en las voces? A) distinta fuente B) igual fuente
-- **C3.** Medio A menciona 3 heridos. Medio B no habla de heridos. ¿Qué diferencia es? A) humor B) omisión
+- **C3.** Medio A menciona 3 heridos. Medio B no habla de heridos. ¿Qué diferencia es? A) apelación a los sentimientos B) omisión
 
 *Aplicación*
 
@@ -895,7 +895,7 @@ Respuesta: Buscar una tercera fuente, porque las cifras no coinciden
 
 **Recurso listo para usar:** Este cuaderno, lápiz y los textos escritos en cada ejercicio. No necesitas libros especiales ni internet.
 
-**Consigna exacta:** Elige entre estos cuatro hechos de ejemplo: a) hoy se corta el agua por 6 horas; b) quieres opinar sobre el estado del patio; c) quieres investigar por qué los almuerzos suben de precio; d) viviste un día de lluvia en el liceo. Para cada uno escribe el género (noticia, carta al director, reportaje, crónica) y una razón.
+**Consigna exacta:** Lee estos cuatro hechos de ejemplo: a) hoy se corta el agua por 6 horas; b) quieres opinar sobre el estado del patio; c) quieres investigar por qué los almuerzos suben de precio; d) viviste un día de lluvia en el liceo. Para cada uno escribe el género (noticia, carta al director, reportaje, crónica) y una razón.
 
 **Referencia para modelar y corregir:** a) Noticia, porque informa un hecho reciente. b) Carta al director, para opinar. c) Reportaje, para investigar con varias fuentes. d) Crónica, para relatar una experiencia.
 
@@ -984,7 +984,7 @@ Respuesta: Propaganda; el contexto es una elección
 
 - **C1.** Texto de ejemplo: «Ayer se inauguró el nuevo gimnasio del liceo; asistieron 300 personas». ¿Qué género es? A) crónica B) noticia
 - **C2.** Texto de ejemplo: «Llegué temprano al gimnasio; olía a madera nueva y todos mirábamos el techo». ¿Qué género es? A) reportaje B) crónica
-- **C3.** Un afiche de partido dice: «Vota por la Lista Azul». ¿Qué género es? A) noticia B) propaganda
+- **C3.** Un afiche de campaña electoral dice: «Vota por la Lista Azul». ¿Qué género es? A) noticia B) propaganda
 
 *Aplicación*
 
@@ -1012,7 +1012,7 @@ Respuesta: Propaganda; el contexto es una elección
 - **E2.** ¿La crónica incluye la mirada del autor: sí o no?
 - **E3.** ¿La propaganda es un texto neutral?
 
-**Actividad abierta.** Elige entre estos cuatro hechos de ejemplo: a) hoy se corta el agua por 6 horas; b) quieres opinar sobre el estado del patio; c) quieres investigar por qué los almuerzos suben de precio; d) viviste un día de lluvia en el liceo. Para cada uno escribe el género (noticia, carta al director, reportaje, crónica) y una razón.
+**Actividad abierta.** Lee estos cuatro hechos de ejemplo: a) hoy se corta el agua por 6 horas; b) quieres opinar sobre el estado del patio; c) quieres investigar por qué los almuerzos suben de precio; d) viviste un día de lluvia en el liceo. Para cada uno escribe el género (noticia, carta al director, reportaje, crónica) y una razón.
 
 **Solucionario razonado**
 

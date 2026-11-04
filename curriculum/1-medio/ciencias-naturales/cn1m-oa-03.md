@@ -357,7 +357,7 @@ Respuesta: X y Z
 
 *Comprensión*
 
-- **C1.** ¿Por qué una clave dicotómica tiene solo dos opciones por paso? A) Para decidir con un rasgo claro entre dos alternativas; B) Para que sea más larga.
+- **C1.** ¿Por qué una clave dicotómica tiene solo dos opciones por paso? A) Para decidir con un rasgo claro entre dos alternativas; B) Porque con tres opciones la clave no se podría seguir.
 - **C2.** ¿Qué rasgo agrupa mejor a los animales: «tiene columna vertebral» o «es simpático»? A) Tiene columna vertebral; B) Es simpático.
 - **C3.** En una tabla, si dos organismos tienen el mismo rasgo en 1, ¿qué se puede decir de ellos?
 
@@ -742,12 +742,12 @@ Para analizar la relación entre variables, ordena los datos: variable 1 (númer
 
 *Ejemplo 1. Contar coincidencias*
 
-Problema: W = 110100 y X = 110110 (cada cifra es un rasgo; 1 presente, 0 ausente). ¿En cuántos rasgos coinciden?
+Problema: K = 100110 y L = 101010 (cada cifra es un rasgo; 1 presente, 0 ausente). ¿En cuántos rasgos coinciden?
 
-1. Comparo cifra por cifra: 1-1, 1-1, 0-0, 1-1, 0-1, 0-0.
-2. Coinciden 5 de 6.
+1. Comparo cifra por cifra: 1-1, 0-0, 0-1, 1-0, 1-1, 0-0.
+2. Coinciden 4 de 6.
 
-Respuesta: 5 rasgos
+Respuesta: 4 rasgos
 
 *Ejemplo 2. Detectar convergencia*
 
@@ -773,7 +773,7 @@ Respuesta: No, es una convergencia
 
 *Comprensión*
 
-- **C1.** ¿Por qué es mejor usar varios rasgos y el ADN que un solo rasgo? A) Porque un rasgo aislado puede deberse a convergencia; B) Porque los rasgos no sirven.
+- **C1.** ¿Por qué es mejor usar varios rasgos y el ADN que un solo rasgo? A) Porque el ADN es más fácil de dibujar que un rasgo; B) Porque un rasgo aislado puede deberse a convergencia.
 - **C2.** El ala del insecto y el ala del ave sirven para volar. ¿Es una semejanza por parentesco cercano? A) Sí, comparten el plan de huesos; B) No, es convergencia.
 - **C3.** Si al aumentar las coincidencias de rasgos aumenta la cercanía del parentesco, ¿qué se observa entre las variables?
 
@@ -810,7 +810,7 @@ Respuesta: No, es una convergencia
 - **R1.** Un parentesco más cercano. Se heredaron del ancestro común.
 - **R2.** Convergencia. No implica ancestro común cercano.
 - **R3.** Falso. Es una convergencia.
-- **C1.** A. Varios datos independientes reducen el riesgo de error.
+- **C1.** B. Varios datos independientes reducen el riesgo de error.
 - **C2.** B. Tienen distinto origen.
 - **C3.** Una relación. Las dos cambian juntas.
 - **A1.** 5. Solo difiere el primer rasgo.

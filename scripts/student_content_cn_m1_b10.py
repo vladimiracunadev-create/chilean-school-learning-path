@@ -48,18 +48,18 @@ L(OA, 1,
       ("¿Cuál es la masa molar del O2 (O = 16)?", "32 g/mol", "2 × 16 = 32."),
   ],
   und=[
-      ("¿Cuál es la masa molar del NaOH (Na = 23, O = 16, H = 1)?", "40 g/mol", "23 + 16 + 1 = 40."),
+      ("¿Cuál es la masa molar del Na2SO4 (Na = 23, S = 32, O = 16)?", "142 g/mol", "2 × 23 + 32 + 4 × 16 = 46 + 32 + 64 = 142."),
       ("En n = m ÷ M, ¿qué representa M?", "La masa de 1 mol de la sustancia", "Es la masa molar en g/mol."),
       ("¿Qué tiene más partículas: 1 mol de H2O o 1 mol de CO2?", "Tienen igual cantidad", "Un mol siempre tiene el mismo número de partículas."),
   ],
   app=[
       arith("¿Cuántos mol hay en 54 g de agua (M = 18 g/mol)?", "54/18", "Se divide la masa por la masa molar.", " mol"),
       arith("¿Cuántos gramos son 4 mol de O2 (M = 32 g/mol)?", "4*32", "Se multiplica la cantidad de sustancia por la masa molar.", " g"),
-      arith("¿Cuál es la masa molar del CaCO3 (Ca = 40, C = 12, O = 16)?", "40+12+3*16", "Se suman las masas atómicas de todos los átomos de la fórmula.", " g/mol"),
+      arith("¿Cuál es la masa molar del óxido de hierro (III), Fe2O3 (Fe = 56, O = 16)?", "2*56+3*16", "Se suman las masas atómicas de todos los átomos de la fórmula: 2 de hierro y 3 de oxígeno.", " g/mol"),
   ],
   rea=[
       ("Un estudiante dice que 1 mol de agua pesa lo mismo que 1 mol de CO2. ¿Qué respuesta es correcta? A) Falso: tienen igual número de partículas, pero masas de 18 g y 44 g B) Verdadero, porque ambos son un mol", "A", "La masa molar depende de la sustancia."),
-      ("¿Por qué se usa el mol y no se cuentan las partículas una a una? A) Porque son tan pequeñas y numerosas que no se pueden contar B) Porque el mol es más barato", "A", "El mol agrupa un número muy grande de partículas."),
+      ("¿Por qué se usa el mol y no se cuentan las partículas una a una? A) Porque son tan pequeñas y numerosas que no se pueden contar B) Porque el mol es otra forma de medir la masa en gramos", "A", "El mol agrupa un número muy grande de partículas."),
   ],
   cha=[
       arith("¿Cuántos mol hay en 264 g de CO2 (M = 44 g/mol)?", "264/44", "Se divide la masa por la masa molar.", " mol"),
@@ -68,7 +68,7 @@ L(OA, 1,
   context=[arith("Un vaso contiene 72 g de agua. ¿Cuántos mol de agua hay?", "72/18", "Se divide la masa por 18 g/mol.", " mol")],
   selfcheck=[("¿Qué es un mol?", "Una cantidad fija de partículas, 6,02 × 10 elevado a 23", "Es el número de Avogadro."), ("¿Cómo se calcula la masa molar?", "Sumando las masas atómicas de los átomos de la fórmula", "Se expresa en g/mol."), ("¿Cómo se pasa de masa a mol?", "Dividiendo por la masa molar", "n = m ÷ M.")],
   open_task=task("Completa una tabla con H2O, CO2, NH3, NaOH y CaCO3. Primero calcula la masa molar de cada una. Luego calcula los mol de estas masas: 108 g de H2O, 88 g de CO2, 51 g de NH3, 120 g de NaOH y 200 g de CaCO3. Escribe una frase que explique por qué 1 mol de cada sustancia tiene distinta masa.", "Masas molares: 18, 44, 17, 40 y 100 g/mol. Cantidades: 6 mol de H2O, 2 mol de CO2, 3 mol de NH3, 3 mol de NaOH y 2 mol de CaCO3. Cada sustancia tiene partículas de distinta masa, aunque haya la misma cantidad de partículas en un mol.", ["cinco masas molares", "cinco cantidades en mol", "explicación de la diferencia de masa"], ["tabla de cinco filas y una frase"], ["dividir por el número de átomos", "usar una masa atómica incorrecta"], "Pregunta cuántos gramos tendrían 5 mol de cada sustancia."),
-  reinforce="Calcula los mol que hay en 36 g de agua.",
+  reinforce="Calcula los mol que hay en 126 g de agua.",
   extend="Explica con una analogía por qué el mol no es una unidad de masa.")
 
 L(OA, 2,

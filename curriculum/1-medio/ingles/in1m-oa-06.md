@@ -164,8 +164,8 @@ Respuesta: 120 segundos, es decir, 2 minutos
 
 *Razonamiento y análisis*
 
-- **Z1.** Un diagrama tiene el texto completo de la presentación en cada rama. ¿Por qué es poco útil? A) porque ocupa menos espacio B) porque no se lee rápido y no ayuda a recordar
-- **Z2.** Ensayas tres veces en voz alta una presentación de 2 minutos. ¿Cuántos minutos practicas en total?
+- **Z1.** Un diagrama tiene el texto completo de la presentación en cada rama. ¿Por qué es poco útil? A) porque no se lee rápido y no ayuda a recordar B) porque no incluye el tema central
+- **Z2.** Ensayas tres veces en voz alta una presentación de 2 minutos y descansas 1 minuto entre un ensayo y el siguiente. ¿Cuántos minutos dura toda la sesión?
 
 *Desafío*
 
@@ -195,8 +195,8 @@ Respuesta: 120 segundos, es decir, 2 minutos
 - **A1.** B) my cousin's birthday. No es un deporte escolar.
 - **A2.** 120 segundos. Se multiplican las ramas por 20 segundos. Cálculo: 6 × 20 = 120.
 - **A3.** A) In Science, we learned that plants need light.. Relaciona el tema con Ciencias.
-- **Z1.** B) porque no se lee rápido y no ayuda a recordar. Las ramas deben ser breves para servir de pista.
-- **Z2.** 6 minutos. Tres ensayos de 2 minutos cada uno. Cálculo: 3 × 2 = 6.
+- **Z1.** A) porque no se lee rápido y no ayuda a recordar. Las ramas deben ser breves para servir de pista.
+- **Z2.** 8 minutos. Tres ensayos de 2 minutos y dos descansos de 1 minuto. Cálculo: 3 × 2 + 2 × 1 = 8.
 - **D1.** b, c, d, a. Se planifica antes de ensayar.
 - **D2.** A) I have walked my dog every day since March. Es una experiencia propia que se relaciona con el tema.
 - **S1.** B) hacer un diagrama de tres ramas y ensayar dos veces en voz alta. Combina planificación y práctica oral.
@@ -368,19 +368,19 @@ Respuesta: A) It's the thing you use to draw straight lines.
 
 *Aplicación*
 
-- **A1.** Cambia glad por un sinónimo en «She is glad today.» A) She is tall today. B) She is happy today.
+- **A1.** Cambia glad por un sinónimo en «She is glad today.» A) She is happy today. B) She is sad today.
 - **A2.** ¿Qué significa kind of en «The film was kind of long»? A) más o menos, algo B) muy corta
 - **A3.** ¿Qué frase usa bien el chunk a lot of? A) A lot of students like music. B) A lot students like music.
 
 *Razonamiento y análisis*
 
 - **Z1.** Quieres decir «The test was easy» de otra manera. ¿Qué paráfrasis sirve? A) The test was simple. B) The test was complicated.
-- **Z2.** No recuerdas ruler y dices «the thing for drawing straight lines». ¿Qué estrategia usaste? A) describir el objeto B) quedarte en silencio
+- **Z2.** No recuerdas calculator y dices «the machine for doing maths». ¿Qué estrategia usaste? A) describir el objeto B) quedarte en silencio
 
 *Desafío*
 
 - **D1.** Reemplaza la repetición en «The park is nice. The weather is nice. The people are nice.» ¿Cuál es la mejor versión? A) The park is nice. The weather is pleasant. The people are friendly. B) The park is nice. The weather is nice. The people are nice.
-- **D2.** ¿Cuál frase usa un chunk para dar una opinión? A) In my opinion, the park needs more trees. B) The park trees more needs.
+- **D2.** ¿Cuál frase usa un chunk para dar una opinión? A) Finally, the park needs more trees. B) In my opinion, the park needs more trees.
 
 *Situaciones auténticas*
 
@@ -402,13 +402,13 @@ Respuesta: A) It's the thing you use to draw straight lines.
 - **C1.** A) I. El chunk completo es as far as I know.
 - **C2.** B) depends. It depends on... lleva s con it.
 - **C3.** B) It's what you open when it rains.. Describe para qué se usa.
-- **A1.** B) She is happy today.. Glad y happy son sinónimos.
+- **A1.** A) She is happy today.. Glad y happy son sinónimos.
 - **A2.** A) más o menos, algo. Kind of suaviza la descripción.
 - **A3.** A) A lot of students like music.. El chunk lleva of.
 - **Z1.** A) The test was simple.. Easy y simple son sinónimos.
 - **Z2.** A) describir el objeto. Es un circunloquio: describir para qué sirve.
 - **D1.** A) The park is nice. The weather is pleasant. The people are friendly.. Se usan palabras distintas con sentido parecido.
-- **D2.** A) In my opinion, the park needs more trees.. In my opinion es un chunk para opinar.
+- **D2.** B) In my opinion, the park needs more trees.. In my opinion es un chunk para opinar.
 - **S1.** A) It's the bag we carry on our back to school.. Describir mantiene la conversación.
 - **E1.** Decir lo mismo con otras palabras. Evita quedarse sin palabra.
 - **E2.** Un grupo de palabras de uso frecuente que se aprende como una unidad. Por ejemplo, a lot of.
@@ -539,7 +539,7 @@ Autocorregirse (to self-correct) es notar tu error y arreglarlo mientras hablas.
 
 *Ejemplo 1. Usar un relleno para pensar*
 
-Problema: Te preguntan «Where were you last weekend?» y necesitas pensar. ¿Qué empiezas diciendo? A) Well... let me think... B) Because and then.
+Problema: Te preguntan «Where were you last weekend?» y necesitas pensar. ¿Qué empiezas diciendo? A) Well... let me think... B) I see... thanks.
 
 1. Necesito unos segundos.
 2. Well y Let me think son rellenos.
@@ -566,14 +566,14 @@ Respuesta: A) Sorry, I went to the park yesterday.
 
 *Recuperación*
 
-- **R1.** ¿Qué significa Let me think...? A) quiero comer B) déjame pensar
-- **R2.** En «It's on Monday, I mean Tuesday», ¿para qué sirve I mean? A) para corregir un dato B) para saludar
+- **R1.** ¿Qué significa Let me think...? A) déjame hablar B) déjame pensar
+- **R2.** En «It's on Monday, I mean Tuesday», ¿para qué sirve I mean? A) para agregar una razón B) para corregir un dato
 - **R3.** ¿Qué conector da una razón? A) but B) because
 
 *Comprensión*
 
-- **C1.** Alguien te cuenta que su perro se perdió y respondes «I see...». ¿Qué significa tu reacción? A) entiendo lo que me cuentas B) tengo un perro
-- **C2.** Completa con un conector: «I like football, ___ I also like swimming.» A) but B) because
+- **C1.** Alguien te cuenta que su perro se perdió y respondes «I see...». ¿Qué significa tu reacción? A) entiendo lo que me cuentas B) estoy de acuerdo con tu opinión
+- **C2.** Completa con un conector: «I like football, ___ I also like swimming.» A) and B) because
 - **C3.** Completa con un conector: «It was raining, ___ we stayed at home.» A) but B) so
 
 *Aplicación*
@@ -607,10 +607,10 @@ Respuesta: A) Sorry, I went to the park yesterday.
 **Solucionario razonado**
 
 - **R1.** B) déjame pensar. Gana tiempo para elegir la respuesta.
-- **R2.** A) para corregir un dato. Cambia Monday por Tuesday.
+- **R2.** B) para corregir un dato. Cambia Monday por Tuesday.
 - **R3.** B) because. Because explica por qué.
 - **C1.** A) entiendo lo que me cuentas. I see... reacciona mostrando comprensión.
-- **C2.** A) but. El conector agrega un contraste suave con also.
+- **C2.** A) and. And agrega otra actividad que también le gusta; because daría una razón.
 - **C3.** B) so. So da la consecuencia.
 - **A1.** B) Repites: I went to the park yesterday.. Aceptas la ayuda y dices la forma correcta.
 - **A2.** B) because, but, also. Son los de la frase original.
@@ -776,9 +776,9 @@ Respuesta: I went yesterday
 
 *Recuperación*
 
-- **R1.** ¿Qué es una debilidad en la revisión de una presentación? A) un premio que ganaste B) algo que no salió bien y puedes mejorar
-- **R2.** ¿Qué columnas tiene un registro de errores? A) solo la fecha B) lo que dije, la forma correcta y el consejo
-- **R3.** ¿Qué recurso sirve para revisar palabras? A) un reloj B) un diccionario
+- **R1.** ¿Qué es una debilidad en la revisión de una presentación? A) algo que hiciste muy bien B) algo que no salió bien y puedes mejorar
+- **R2.** ¿Qué columnas tiene un registro de errores? A) solo lo que dije y la nota que recibí B) lo que dije, la forma correcta y el consejo
+- **R3.** ¿Qué recurso sirve para revisar palabras? A) un diagrama de ideas B) un diccionario
 
 *Comprensión*
 
@@ -799,7 +799,7 @@ Respuesta: I went yesterday
 
 *Desafío*
 
-- **D1.** Una grabación te ayuda a revisar. ¿Qué haces con ella? A) la escuchas y anotas frases con errores B) la borras sin escucharla
+- **D1.** Una grabación te ayuda a revisar. ¿Qué haces con ella? A) la usas solo para medir cuánto duró B) la escuchas y anotas frases con errores
 - **D2.** Tu registro dice: «I make homework → I do homework». ¿Qué consejo anotas en la tercera columna? A) usar siempre make B) homework va con do
 
 *Situaciones auténticas*
@@ -827,7 +827,7 @@ Respuesta: I went yesterday
 - **A3.** A) hablaste claro. Los ejemplos son la debilidad que mejorar.
 - **Z1.** A) 2. I go yesterday e I have 15 years son dos errores distintos.
 - **Z2.** A) I agree.. Agree es un verbo y no lleva am.
-- **D1.** A) la escuchas y anotas frases con errores. Escucharte permite detectar errores reales.
+- **D1.** B) la escuchas y anotas frases con errores. Escucharte permite detectar errores reales.
 - **D2.** B) homework va con do. Es la collocation correcta.
 - **S1.** A) Use because and so in two sentences next time.. Una meta mejor es concreta, alcanzable y se puede comprobar.
 - **E1.** Una tabla con lo que dije, la forma correcta y un consejo. Sirve para aprender de los errores.
@@ -987,7 +987,7 @@ Respuesta: Corrigió I go por I went con sorry
 *Recuperación*
 
 - **R1.** ¿Qué estrategia se usa antes de hablar? A) hacer un diagrama de ideas B) corregirte con Sorry
-- **R2.** ¿Qué estrategia se usa mientras hablas si olvidas una palabra? A) describirla B) borrarla de la mente
+- **R2.** ¿Qué estrategia se usa mientras hablas si olvidas una palabra? A) cambiar de tema B) describirla
 - **R3.** ¿Qué estrategia se usa después de hablar? A) ensayar antes B) registrar errores y fijar una meta
 
 *Comprensión*
@@ -1000,11 +1000,11 @@ Respuesta: Corrigió I go por I went con sorry
 
 - **A1.** Después de hablar notas que dijiste «She go to school». ¿Qué registras? A) She goes to school (con she el verbo lleva s) B) She go to school (está bien)
 - **A2.** Quieres mejorar tu fluidez. ¿Qué plan completo es mejor? A) leer el texto una vez y no revisar B) diagrama, ensayo, rellenos en la presentación y registro de errores
-- **A3.** Olvidaste la palabra wallet (billetera). ¿Qué frase te ayuda? A) It's an animal. B) It's the small thing for money and cards.
+- **A3.** Olvidaste la palabra wallet (billetera). ¿Qué frase te ayuda? A) It's the thing you wear on your wrist. B) It's the small thing for money and cards.
 
 *Razonamiento y análisis*
 
-- **Z1.** Tienes dos intentos de la misma presentación. En el primero usaste 0 rellenos y en el segundo 2. ¿Qué cambió? A) disminuyó la fluidez B) ganó fluidez con rellenos
+- **Z1.** Tienes dos intentos de la misma presentación. En el primero usaste 0 rellenos y en el segundo 2. ¿Qué cambió entre los intentos? A) en el segundo usó rellenos para ganar tiempo B) en el segundo dejó de usar rellenos
 - **Z2.** Registras «I made a plan» y «I make a plan yesterday». ¿Cuál necesita corrección? A) I made a plan B) I make a plan yesterday
 
 *Desafío*
@@ -1027,7 +1027,7 @@ Respuesta: Corrigió I go por I went con sorry
 **Solucionario razonado**
 
 - **R1.** A) hacer un diagrama de ideas. Es una estrategia de planificación.
-- **R2.** A) describirla. Mantiene el mensaje.
+- **R2.** B) describirla. Mantiene el mensaje.
 - **R3.** B) registrar errores y fijar una meta. Es la revisión posterior.
 - **C1.** B) 2. Aparecen Well y let me think.
 - **C2.** A) but y so. Dice but I was tired, so I went home.
@@ -1035,7 +1035,7 @@ Respuesta: Corrigió I go por I went con sorry
 - **A1.** A) She goes to school (con she el verbo lleva s). Se anota el error y la forma correcta.
 - **A2.** B) diagrama, ensayo, rellenos en la presentación y registro de errores. Cubre antes, durante y después.
 - **A3.** B) It's the small thing for money and cards.. Describe función y uso.
-- **Z1.** B) ganó fluidez con rellenos. Los rellenos dieron tiempo para pensar.
+- **Z1.** A) en el segundo usó rellenos para ganar tiempo. Pasó de 0 a 2 rellenos.
 - **Z2.** B) I make a plan yesterday. Con yesterday el verbo va en pasado: made.
 - **D1.** A) sí: usaste went en pasado. Went es el pasado de go.
 - **D2.** B) antes de hablar. Es una preparación.

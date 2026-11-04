@@ -100,7 +100,7 @@ L(OA, 2,
       ("¿Por qué un calefactor necesita ventilación?", "Para evitar monóxido de carbono por falta de oxígeno", "El monóxido es tóxico y no se huele."),
   ],
   app=[
-      ("En la ecuación «glucosa → etanol + dióxido de carbono», ¿cuántos productos hay?", "2", "Son el etanol y el dióxido de carbono."),
+      ("En la ecuación «hierro + oxígeno → óxido de hierro», ¿cuántos reactantes y cuántos productos hay?", "2 reactantes y 1 producto", "Reaccionan el hierro y el oxígeno, y se forma una sola sustancia: el óxido de hierro."),
       ("Una reja de hierro de un jardín se cubre de manchas anaranjadas después de un invierno lluvioso. ¿Qué reacción ocurre y con qué sustancia del aire?", "Oxidación, con oxígeno", "El hierro reacciona con el oxígeno."),
       arith("Una masa de 500 g se hornea y el pan resultante pesa 450 g (valores de ejemplo). ¿Cuántos gramos salieron como gas y vapor?", "500-450", "Se resta la masa final a la inicial.", " g"),
   ],
@@ -110,13 +110,13 @@ L(OA, 2,
   ],
   cha=[
       ("Un brasero encendido dentro de una pieza cerrada. ¿Por qué es peligroso?", "Porque produce monóxido de carbono al faltar oxígeno", "La combustión incompleta forma un gas tóxico."),
-      ("Sin hacerlo en casa, predice qué le pasaría a la llama de una vela si se tapara con un vaso grande. ¿Qué ocurre y por qué? A) Se apaga cuando se consume el oxígeno B) Se hace más intensa", "A", "La combustión necesita oxígeno."),
+      ("Sin hacerlo en casa, predice qué le pasaría a la llama de una vela si se tapara con un vaso grande. ¿Qué ocurre y por qué? A) Se apaga cuando falta oxígeno B) Se hace más intensa", "A", "La combustión necesita oxígeno."),
   ],
   context=[ex("Una persona con un calefactor encendido siente dolor de cabeza y mareo. ¿Qué debe hacer primero? A) Salir a un lugar con aire fresco y avisar a una persona adulta B) Cerrar más la pieza para guardar el calor", "A", "Puede ser monóxido de carbono; hay que ventilar y pedir ayuda.")],
   selfcheck=[("¿Qué reacción permite que el pan crezca?", "La fermentación", "Produce dióxido de carbono."), ("¿Qué libera una combustión?", "Calor y luz", "Es una reacción que libera energía."), ("¿Cómo se protege el hierro de la oxidación?", "Con pintura, aceite o zinc", "Se aísla del oxígeno y de la humedad.")],
   open_task=task("Completa una tabla de tres filas (fermentación, combustión y oxidación) con las columnas reactantes, productos, evidencias y un uso o riesgo, con estos datos: glucosa → etanol + dióxido de carbono; metano + oxígeno → dióxido de carbono + agua; hierro + oxígeno → óxido de hierro. Añade una medida de seguridad para el calefactor.", "Fermentación: glucosa; etanol y dióxido de carbono; gas; pan o yogur. Combustión: metano y oxígeno; dióxido de carbono y agua; calor y luz; riesgo de monóxido si falta ventilación. Oxidación: hierro y oxígeno; óxido de hierro; color y textura; corrosión. Seguridad: ventilar la pieza y avisar a una persona adulta si hay mareo.", ["tres filas completas", "evidencias coherentes", "una medida de seguridad"], ["tabla completa y una frase"], ["poner el agua como reactante de la fermentación", "olvidar la ventilación"], "Pregunta qué cambia si falta oxígeno en la combustión."),
   reinforce="Escribe los reactantes y los productos de la combustión del metano.",
-  extend="Explica por qué la fermentación de la masa deja de ser útil si se hornea durante demasiado tiempo.")
+  extend="Explica por qué la levadura deja de producir gas cuando el horno calienta la masa a más de unos 60 °C.")
 
 L(OA, 3,
   materials="Este cuaderno y lápiz. Para el modelo de átomos puedes usar bolitas o botones de tres colores, pero no es obligatorio: todo se puede dibujar.",
@@ -196,7 +196,7 @@ L(OA, 4,
   app=[
       arith("En la tabla A, ¿cuántos mL más de gas se obtienen con 3 cucharaditas que con 1?", "12-4", "Se resta el gas de 1 cucharadita al de 3.", " mL"),
       arith("Con 2 cucharaditas de levadura a 30 °C se produjeron 8 mL de gas en 10 minutos. Si el ritmo se mantiene, ¿cuántos mL se producen en 30 minutos?", "8*3", "En 30 minutos hay 3 períodos de 10 minutos.", " mL"),
-      ("Quieres comparar el efecto de la cantidad de azúcar. ¿Qué dos variables mantienes iguales?", "La temperatura y la cantidad de levadura", "Solo debe cambiar el azúcar."),
+      ("Quieres comparar el efecto de la cantidad de azúcar en el gas producido. ¿Cuál de estas variables debes mantener igual en todas las pruebas? A) La temperatura del agua B) La cantidad de azúcar", "A", "Solo debe cambiar el azúcar; la temperatura es una variable controlada."),
   ],
   rea=[
       ("Una compañera dice: «A más temperatura, siempre más rápido». ¿Qué responde la tabla B? A) No siempre: a 60 °C no hubo gas porque la levadura murió B) Sí: a 60 °C hubo más gas", "A", "La levadura tiene un límite de temperatura."),

@@ -63,7 +63,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué el alcohol aumenta el riesgo de conductas sexuales sin consentimiento?", "Porque altera el juicio y la capacidad de decidir con libertad", "Bajo sus efectos, es difícil decir que no o entender lo que ocurre."),
-        ex("¿Qué es mejor para evaluar un caso? A) Separar hechos y factores sin juzgar a nadie B) Culpar al personaje de lo que le pasó.", "A", "Analizar permite proponer acciones; culpar no ayuda."),
+        ex("¿Qué es mejor para evaluar un caso? A) Separar hechos y factores sin juzgar a nadie B) Buscar qué hizo mal el personaje para evitarlo.", "A", "Analizar permite proponer acciones; culpar no ayuda."),
     ],
     D=[
         arith("En una fiesta inventada hay 7 factores de riesgo y 4 de protección. ¿Cuántos factores de riesgo hay de más?", "7-4", "Se resta el número de factores de protección."),
@@ -161,7 +161,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué aceptar una sustancia «solo esta vez» puede tener consecuencias aunque no pase nada de inmediato?", "Porque puede generar dependencia o riesgos que no se ven enseguida", "Los efectos pueden aparecer más tarde."),
-        ex("Un joven dice: «Mejor no hago nada, así no me meto en problemas». ¿Qué le falta considerar? A) Que no hacer nada también tiene consecuencias B) Que siempre hay que enfrentar con gritos.", "A", "Quedarse callado puede mantener el daño."),
+        ex("Un joven dice: «Mejor no hago nada, así no me meto en problemas». ¿Qué le falta considerar? A) Que no hacer nada también tiene consecuencias B) Que conviene enfrentar al agresor para resolverlo solo.", "A", "Quedarse callado puede mantener el daño."),
     ],
     D=[
         arith("En un caso inventado, Josefa escribe 3 consecuencias de ceder, 4 de enfrentar con gritos y 2 de pedir ayuda. ¿Cuántas consecuencias anotó en total?", "3+4+2", "Se suman las de cada opción."),
@@ -210,7 +210,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué no se debe dejar solo a alguien que consumió mucho alcohol y duerme?", "Porque su estado puede empeorar sin que nadie lo note", "Podría necesitar ayuda urgente."),
-        ex("¿Por qué una acción segura no incluye enfrentar a quien daña? A) Porque puede ponerte en peligro; mejor avisar a un adulto B) Porque nadie hace daño.", "A", "La seguridad propia también cuenta."),
+        ex("¿Por qué una acción segura no incluye enfrentar a quien daña? A) Porque puede ponerte en peligro; mejor avisar a un adulto B) Porque quien daña siempre se arrepiente si lo enfrentan.", "A", "La seguridad propia también cuenta."),
     ],
     D=[
         arith("En un taller inventado, 4 grupos de 5 estudiantes practican los pasos de una acción segura. ¿Cuántos estudiantes hay?", "4*5", "Se multiplican grupos por integrantes."),
@@ -259,7 +259,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué conviene tener más de una persona en tu red de apoyo?", "Porque si una no puede ayudar, otra sí puede", "Varias personas dan más posibilidades de ayuda."),
-        ex("¿Por qué conviene revisar la fecha de una página de salud? A) Porque la información puede cambiar B) Porque la fecha la hace más bonita.", "A", "Los datos de salud se actualizan."),
+        ex("¿Por qué conviene revisar la fecha de una página de salud? A) Porque la información puede cambiar B) Porque una página con fecha siempre es verdadera.", "A", "Los datos de salud se actualizan."),
     ],
     D=[
         arith("La red de apoyo de un estudiante inventado tiene 2 personas de su casa, 3 adultos del colegio, 1 centro de salud y 1 línea de ayuda. ¿Cuántos apoyos tiene en total?", "2+3+1+1", "Se suman los apoyos de cada tipo."),
@@ -308,7 +308,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué un protocolo corto es mejor que uno largo?", "Porque se recuerda y se usa cuando hay urgencia", "En una emergencia hay poco tiempo para leer."),
-        ex("Un compañero dice: «No avisemos, que se resuelva solo». ¿Qué falta en su idea? A) Que el riesgo puede crecer sin ayuda adulta B) Que siempre hay que grabar.", "A", "Dejar pasar el tiempo puede aumentar el daño."),
+        ex("Un compañero dice: «No avisemos, que se resuelva solo». ¿Qué falta en su idea? A) Que el riesgo puede crecer sin ayuda adulta B) Que basta con que lo resuelvan los involucrados.", "A", "Dejar pasar el tiempo puede aumentar el daño."),
     ],
     D=[
         arith("Un protocolo inventado tiene 5 pasos y 12 equipos del colegio lo revisan. Si cada equipo anota 2 mejoras por paso, ¿cuántas mejoras anotan en total?", "12*5*2", "Se multiplican equipos, pasos y mejoras."),
@@ -413,7 +413,7 @@ lesson(
         arith("Una persona de ejemplo duerme 7 horas de lunes a viernes y 9 horas sábado y domingo. ¿Cuántas horas duerme en la semana?", "7*5+9*2", "Se suman las horas de días de semana y las del fin de semana."),
         arith("Un kiosco de ejemplo vende 40 productos y 25 tienen sello «ALTO EN». ¿Cuántos no tienen sello?", "40-25", "Al total se le restan los que sí tienen sello."),
     ],
-    context=[ex("En el kiosco del barrio, casi todo tiene sellos «ALTO EN» (dato de ejemplo). Un curso quiere hacer una campaña para informar a sus compañeros. ¿Qué conviene hacer? A) Presentar una propuesta con datos al Consejo de Curso B) Dejar de comer.", "A", "Es una acción colectiva pacífica y con datos.")],
+    context=[ex("En el kiosco del barrio, casi todo tiene sellos «ALTO EN» (dato de ejemplo). Un curso quiere hacer una campaña para informar a sus compañeros. ¿Qué conviene hacer? A) Presentar una propuesta con datos al Consejo de Curso B) Pedir que cierren el kiosco sin presentar datos.", "A", "Es una acción colectiva pacífica y con datos.")],
     selfcheck=[ex("En Orientación: ¿el sello «ALTO EN» avisa de un exceso?", "Sí", "Es una etiqueta para decidir mejor."), ex("¿Todo depende solo de la voluntad?", "No", "Hay condiciones que requieren apoyo."), ex("¿Usar casco es una medida de seguridad?", "Sí", "Protege la cabeza.")],
     task=T("Lee los datos de ejemplo de una semana: Camila duerme 6 horas por noche; en el kiosco del barrio hay galletas con sello «ALTO EN azúcares», fruta y yogur; en su barrio hay una ciclovía y ella tiene bicicleta sin casco. Separa: dos hechos, una cosa que depende de ella, una que requiere apoyo y una medida de seguridad que debería tomar.", "Hechos: duerme 6 horas; hay galletas con sello. Depende de ella: elegir fruta o yogur. Requiere apoyo: conseguir un casco. Seguridad: usar casco al andar en bicicleta.", ["separa hechos", "nombra lo que depende de ella", "nombra lo que requiere apoyo", "propone una medida de seguridad"], ["lista escrita", "texto oral"], ["culpar a Camila", "confundir hecho con opinión"], "Reconoce los hechos bien identificados y pregunta qué apoyo pediría y a quién."),
     reinforce="Anota dos sellos «ALTO EN» y qué exceso avisa cada uno.",
@@ -462,7 +462,7 @@ lesson(
         arith("Tomás estudia 25 minutos y descansa 5, y repite 4 veces. ¿Cuántos minutos dura todo el ciclo?", "(25+5)*4", "Se suma estudio y descanso y se multiplica por las repeticiones.", " minutos"),
         arith("Valentina duerme 8 horas, está 7 en el colegio, 3 en tareas y 2 en traslados. ¿Cuántas horas libres le quedan de 24?", "24-8-7-3-2", "Al total se le restan las horas ocupadas."),
     ],
-    context=[ex("La semana anterior a las pruebas, un curso decide organizarse en grupos de estudio de 45 minutos con pausas. ¿Qué ventaja tiene? A) Distribuye el esfuerzo y acompaña B) Estudian más rápido sin necesidad de dormir.", "A", "Reparte la carga y da apoyo.")],
+    context=[ex("La semana anterior a las pruebas, un curso decide organizarse en grupos de estudio de 45 minutos con pausas. ¿Qué ventaja tiene? A) Distribuye el esfuerzo y acompaña B) Estudian en grupo sin pausas hasta terminar todo.", "A", "Reparte la carga y da apoyo.")],
     selfcheck=[ex("En Orientación: ¿una pausa activa es una estrategia sana?", "Sí", "Descansa con movimiento."), ex("¿Aislarse ayuda a manejar el estrés?", "No", "Suele empeorar el malestar."), ex("¿Combinar actividades en el ocio equilibra mejor?", "Sí", "Reparte el tiempo entre varias cosas.")],
     task=T("Lee el caso inventado: Ignacio tiene dos pruebas el jueves y una tarea el miércoles. Duerme poco y siente dolor de cabeza. Escribe un plan de tres días (lunes a miércoles) con dos estrategias de manejo del estrés y una actividad de ocio positiva, y explica una consecuencia de cumplir el plan.", "Lunes: estudiar 30 minutos y caminar 15. Martes: estudiar 30 minutos y hacer una pausa de respiración. Miércoles: terminar la tarea y tocar música 30 minutos. Consecuencia: llega con más descanso y menos tensión.", ["escribe un plan de tres días", "incluye dos estrategias sanas", "incluye una actividad de ocio positiva", "explica una consecuencia"], ["plan escrito", "tabla"], ["plan irreal", "usar sustancias"], "Reconoce el plan realista y pregunta qué ajustaría si no alcanza el tiempo."),
     reinforce="Escribe dos estrategias para un personaje inventado que tiene una exposición mañana.",
@@ -543,7 +543,7 @@ lesson(
         ex("Un compañero cuenta que hace semanas se siente muy decaído. ¿Cuál respuesta escucha sin juzgar? A) «Gracias por contarme, estoy contigo.» B) «Anímate, no es para tanto.»", "A", "Valida lo que siente y abre la posibilidad de buscar ayuda."),
     ],
     U=[
-        ex("¿Qué partes tiene una frase para pedir ayuda emocional? A) Lo que sientes, desde cuándo y qué necesitas B) Solo un chiste.", "A", "Esas tres partes hacen clara la petición."),
+        ex("¿Qué partes tiene una frase para pedir ayuda emocional? A) Lo que sientes, desde cuándo y qué necesitas B) Solo lo que quieres que cambien los demás.", "A", "Esas tres partes hacen clara la petición."),
         ex("¿Qué hace un buen amigo ante alguien que se siente muy mal? A) Escuchar sin juzgar y acompañarlo a pedir ayuda B) Contarlo al curso.", "A", "Cuida la privacidad y ayuda."),
         ex("Alguien siente tristeza intensa por semanas. ¿Cómo se entiende mejor esa situación? A) Es una señal de salud que se cuida, no una culpa B) Es una debilidad que conviene ocultar", "A", "Se cuida igual que la salud del cuerpo."),
     ],

@@ -158,7 +158,7 @@ Respuesta: interesting; interested
 
 *Aplicación*
 
-- **A1.** Escribe en palabras 1.000.000.
+- **A1.** Escribe en palabras 3.000.
 - **A2.** Completa: «We have ___ money to buy the tickets.» (Sí alcanza). A) no B) enough
 - **A3.** ¿Qué frase tiene el orden natural de adjetivos? A) an old wooden box B) a wooden old box
 
@@ -192,7 +192,7 @@ Respuesta: interesting; interested
 - **C1.** A) interesting. Describe la cosa, por eso termina en -ing.
 - **C2.** B) interested. Describe cómo se siente la persona.
 - **C3.** B) se le da bien dibujar. Good at + -ing indica habilidad.
-- **A1.** one million. Un millón es one million.
+- **A1.** three thousand. Tres mil se dice three thousand.
 - **A2.** B) enough. Enough dice que es suficiente; no diría que no hay nada.
 - **A3.** A) an old wooden box. La edad va antes del material.
 - **Z1.** A) She is a very organized person.. Organized es el adjetivo.
@@ -636,7 +636,7 @@ Respuesta: How long have Ana and Pedro been friends?
 
 **Refuerzo.** Escribe diez participios, cinco regulares y cinco irregulares, y una frase con cada uno.
 
-**Profundización.** Escribe cinco cosas que nunca has hecho con I have never... y una que ya hiciste con I have already....
+**Profundización.** Escribe cinco cosas que nunca has hecho con I have never... y una que sí hiciste con I have....
 
 
 **Apoyo en el mismo OA:** Keep images and chunks visible, allow choral and paired rehearsal, reduce length and provide wait time; do not penalize accent, initial language mixing or self-correction.
@@ -794,7 +794,7 @@ Respuesta: A) It might snow.
 
 *Razonamiento y análisis*
 
-- **Z1.** La persona que hace la pregunta «You like music, don't you?» ¿qué espera? A) que le confirmen B) que le expliquen qué es música
+- **Z1.** Alguien pregunta «You like music, don't you?» ¿qué espera? A) que le digan qué música le gusta B) que le confirmen
 - **Z2.** ¿Cuál frase expresa mayor seguridad? A) It will probably rain. B) It might rain.
 
 *Desafío*
@@ -825,7 +825,7 @@ Respuesta: A) It might snow.
 - **A1.** B) haven't they. Repite el auxiliar have.
 - **A2.** A) does he. Frase negativa, pregunta afirmativa con does.
 - **A3.** A) Shall we start?. Shall we...? es una sugerencia.
-- **Z1.** A) que le confirmen. La pregunta de confirmación pide acuerdo.
+- **Z1.** B) que le confirmen. La pregunta de confirmación pide acuerdo.
 - **Z2.** A) It will probably rain.. Will probably es más seguro que might.
 - **D1.** B) no hace falta llevar el libro. Needn't quita la necesidad.
 - **D2.** A) don't you. Presente simple con you: do/don't.
@@ -940,9 +940,9 @@ Respuesta: A) It might snow.
 
 Una oración de relativo (relative clause) agrega información sobre una persona o cosa. Who se usa para personas: Simon is the boy who lives next door. Which se usa para cosas: The science book, which I borrowed from the library, is very interesting. Cuando la información es esencial para saber de quién o de qué hablas, no lleva comas. Cuando es adicional, va entre comas.
 
-La voz pasiva (passive voice) se forma con be + participio y se usa cuando no se sabe quién hizo la acción o no importa: The money was found on the floor; rooms are cleaned daily; plastic is produced from oil. El tiempo lo marca be: was en pasado, is o are en presente. La persona que hace la acción puede aparecer con by, pero a menudo se omite.
+La voz pasiva (passive voice) se forma con be + participio y se usa cuando no se sabe quién hizo la acción o no importa: The money was found on the floor; rooms are cleaned daily; plastic is produced from oil (oil = petróleo). El tiempo lo marca be: was en pasado, is o are en presente. La persona que hace la acción puede aparecer con by, pero a menudo se omite.
 
-Los conectores unen ideas. Although (aunque) opone: Although it's cheap, I'm not sure. Both ... and significa ambos: Both Luis and Tomás are my neighbours. Later (más tarde) y last (por último) ordenan: I'll talk to you later; ...and last he played the piano. So that expresa propósito: He learned English so that he could speak with foreigners.
+Los conectores unen ideas. Although (aunque) opone: Although it's cheap, I'm not sure. Both ... and significa ambos: Both Luis and Tomás are my neighbours. Later (más tarde) y last (por último) ordenan: I'll talk to you later; ...and last he played the piano. So that expresa propósito: He learned English so that he could speak with foreigners (extranjeros).
 
 **Palabras importantes**
 
@@ -987,7 +987,7 @@ Respuesta: The keys were found on the table.
 *Recuperación*
 
 - **R1.** Completa: «The man ___ lives next door is a doctor.» A) who B) which
-- **R2.** Completa: «The book, ___ I borrowed from the library, is long.» A) which B) who
+- **R2.** Completa: «The book, ___ I borrowed (pedí prestado) from the library, is long.» A) who B) which
 - **R3.** ¿Qué frase está en pasiva? A) The room is cleaned daily. B) They clean the room.
 
 *Comprensión*
@@ -999,13 +999,13 @@ Respuesta: The keys were found on the table.
 *Aplicación*
 
 - **A1.** Completa: «___ it's cheap, I'm not sure about it.» A) Although B) So that
-- **A2.** Completa: «He learned English ___ he could speak with foreigners.» A) so that B) although
+- **A2.** Completa: «He learned English ___ he could speak with foreigners (extranjeros).» A) although B) so that
 - **A3.** Completa: «I'll talk to you ___.» A) last B) later
 
 *Razonamiento y análisis*
 
 - **Z1.** ¿Qué frase es correcta? A) The money was found on the floor. B) The money found on the floor.
-- **Z2.** Une las ideas con who: «Simon is the boy. He lives next door.» A) Simon is the boy who lives next door. B) Simon is the boy which lives next door.
+- **Z2.** Une las ideas con who: «The girl is my cousin. She plays the violin.» A) The girl who plays the violin is my cousin. B) The girl which plays the violin is my cousin.
 
 *Desafío*
 
@@ -1027,16 +1027,16 @@ Respuesta: The keys were found on the table.
 **Solucionario razonado**
 
 - **R1.** A) who. Se habla de una persona.
-- **R2.** A) which. Se habla de una cosa.
+- **R2.** B) which. Se habla de una cosa.
 - **R3.** A) The room is cleaned daily.. Es be + participio.
 - **C1.** B) is. Plastic es singular.
 - **C2.** B) are. Windows es plural.
 - **C3.** A) and. Both se completa con and.
 - **A1.** A) Although. Se opone barato con no estar seguro.
-- **A2.** A) so that. Expresa el propósito.
+- **A2.** B) so that. Expresa el propósito.
 - **A3.** B) later. Later significa más tarde.
 - **Z1.** A) The money was found on the floor.. La pasiva usa be + participio.
-- **Z2.** A) Simon is the boy who lives next door.. El relativo para personas es who.
+- **Z2.** A) The girl who plays the violin is my cousin.. El relativo para personas es who.
 - **D1.** B) limpiar. Last marca la última acción.
 - **D2.** A) She saves money so that she can buy a laptop.. Expresa el propósito de ahorrar.
 - **S1.** B) que está en el segundo piso. Va entre comas, introducida por which.

@@ -12,7 +12,7 @@ OA7 = "EN1M OA 07"
 MATR = "Los textos escritos en cada ejercicio; lápiz y hoja para escribir tus reacciones."
 
 # ================================================================ OA 07 · clase 1: hacer conexiones
-KITE = "«Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene)"
+KITE = "«Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene)"
 
 lesson(
     OA7, 1, MATR,
@@ -35,7 +35,7 @@ lesson(
     [
         (KITE + " ¿Cómo se llaman los kites en Chile?", "Volantines", "El texto dice kites are called volantines."),
         (KITE + " ¿En qué mes muchas familias vuelan volantines en Chile?", "Septiembre", "El texto dice in September."),
-        (KITE + " ¿Qué empuja al volantín hacia arriba? A) el viento B) el hilo", "A) el viento", "El texto dice the wind pushes it up."),
+        (KITE + " ¿Qué empuja al volantín hacia arriba? A) el viento B) el hilo", "A) el viento", "El texto dice the wind lifts it up."),
     ],
     [
         ("Elige la oración que conecta el texto con Ciencias. A) Moving air can push objects, like a kite. B) Kites are sold in many shops.", "A) Moving air can push objects, like a kite.", "Relaciona el texto con una idea científica."),
@@ -90,7 +90,7 @@ lesson(
     [
         (UNI + " ¿Qué palabra abre la secuencia? A) First B) Finally", "A) First", "First introduce la primera razón."),
         (UNI + " ¿Qué ejemplo da el texto sobre el tiempo extra?", "Diez minutos más cada día suman cincuenta minutos a la semana", "Dice ten extra minutes every day add up to fifty minutes a week."),
-        (UNI + " ¿Qué decidió la clase al final? A) pedir un mes de prueba al director B) eliminar las clases de la tarde", "A) pedir un mes de prueba al director", "Dice Finally, the class decided to ask the principal for a trial month."),
+        (UNI + " ¿Qué decidió la clase al final? A) pedir un mes de prueba al director B) hacer una encuesta a los profesores", "A) pedir un mes de prueba al director", "Dice Finally, the class decided to ask the principal for a trial month."),
     ],
     [
         (UNI + " ¿Qué ventaja del recreo largo se nombra primero? A) ayuda a relajarse y hablar con amigos B) mejora las notas de inmediato", "A) ayuda a relajarse y hablar con amigos", "Dice First, a longer break helps them relax and talk with friends."),
@@ -165,7 +165,7 @@ lesson(
         (PHONE3 + " Un lector dice que el texto prohíbe los celulares. ¿Qué frase lo corrige? A) use phones only when the teacher says so B) five students say that phones distract them", "A) use phones only when the teacher says so", "El texto no los prohíbe: propone usarlos con una regla."),
         (PHONE3 + " ¿Con qué conector introduce el texto una crítica? A) However B) According to", "A) However", "However marca un contraste con la opinión anterior."),
     ],
-    [("Lee: «I feel worried because the exam is tomorrow. I am happy because I studied.» (exam = prueba, studied = estudié). ¿Qué dos sentimientos expresa quien escribe? A) preocupación y alegría B) enojo y sorpresa", "A) preocupación y alegría", "Worried es preocupado y happy es contento.")],
+    [("Lee: «I feel worried because the exam is tomorrow. I am happy because I studied.» (exam = prueba, studied = estudié). ¿Qué dos sentimientos expresa quien escribe? A) preocupación y alegría B) tristeza y sorpresa", "A) preocupación y alegría", "Worried es preocupado y happy es contento.")],
     [
         ("En Inglés: ¿Qué diferencia hay entre hecho y opinión?", "El hecho se puede comprobar; la opinión es lo que alguien piensa", "Se escriben con frases distintas."),
         ("¿Para qué sirve according to?", "Para decir la fuente de un dato", "Evita confundirlo con una opinión."),
@@ -177,49 +177,49 @@ lesson(
 )
 
 # ---------------------------------------------------------------- clase 4: resumir y sintetizar
-GARDEN2A = "Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece)"
-GARDEN2B = "Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno)"
+RADIOA = "Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias)"
+RADIOB = "Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director)"
 
 lesson(
     OA7, 4, "Dos fuentes escritas en cada ejercicio (fuente A y fuente B); lápiz y hoja para escribir resúmenes y síntesis.",
     "Aprenderé a resumir y a sintetizar información: reducir un texto a lo esencial y unir las ideas de dos fuentes en una sola idea. Sirve para preparar un informe, una exposición o un trabajo con varios textos.",
     ["Sé encontrar la idea principal.", "Sé conectores como and, but y however."],
     [
-        "Resumir (to summarize) es decir con pocas palabras las ideas principales de un solo texto. No se incluyen ejemplos ni detalles menores, y no se agregan datos nuevos. Un resumen de la fuente A: «Un huerto comunitario entrega verduras frescas, une a los vecinos y enseña cómo crecen las plantas».",
-        "Sintetizar (to synthesize) es unir las ideas de dos o más fuentes en un solo mensaje coherente. No es copiar una fuente y luego la otra: es relacionar. La síntesis de A y B podría ser: «Un huerto comunitario ofrece verduras y une a los vecinos, pero necesita agua, herramientas, voluntarios y a veces permiso de la ciudad». Se usan conectores como but y however para unir ventajas y condiciones.",
+        "Resumir (to summarize) es decir con pocas palabras las ideas principales de un solo texto. No se incluyen ejemplos ni detalles menores, y no se agregan datos nuevos. Un resumen de la fuente A: «Una radio escolar da voz a los estudiantes, les enseña a hablar y a usar equipos, y comparte noticias con el colegio».",
+        "Sintetizar (to synthesize) es unir las ideas de dos o más fuentes en un solo mensaje coherente. No es copiar una fuente y luego la otra: es relacionar. La síntesis de A y B podría ser: «Una radio escolar da voz a los estudiantes y comparte noticias, pero necesita micrófono, una sala tranquila, voluntarios y a veces permiso de la dirección». Se usan conectores como but y however para unir ventajas y condiciones.",
         "Para resumir y sintetizar: 1) subraya las ideas principales de cada fuente, 2) elimina los ejemplos y los detalles, 3) une las ideas con conectores y 4) revisa que no agregaste datos que no estaban. Si un dato aparece en una fuente y se contradice con la otra, indícalo en tu síntesis.",
     ],
     [("summarize", "resumir: reducir un texto a lo esencial"), ("synthesize", "sintetizar: unir ideas de varias fuentes"), ("source", "fuente: de dónde viene la información"), ("main idea", "idea principal"), ("detail", "detalle"), ("volunteer", "voluntario")],
     [
-        ("Resumir una fuente", GARDEN2A + " Resume la fuente en una frase.", ["Subrayo las ideas principales: verduras, vecinos, plantas.", "Elimino los detalles.", "Uno las ideas en una frase."], "Un huerto comunitario entrega verduras frescas, une a los vecinos y enseña cómo crecen las plantas"),
-        ("Sintetizar", GARDEN2A + " " + GARDEN2B + " Escribe una frase que una las dos fuentes.", ["La fuente A da ventajas.", "La fuente B da requisitos.", "Los uno con but."], "Un huerto comunitario da verduras y une a los vecinos, pero necesita agua, herramientas y voluntarios"),
+        ("Resumir una fuente", RADIOA + " Resume la fuente en una frase.", ["Subrayo las ideas principales: voz, práctica y noticias.", "Elimino los detalles.", "Uno las ideas en una frase."], "Una radio escolar da voz a los estudiantes, les enseña a hablar y a usar equipos, y comparte noticias con el colegio"),
+        ("Sintetizar", RADIOA + " " + RADIOB + " Escribe una frase que una las dos fuentes.", ["La fuente A da ventajas.", "La fuente B da requisitos.", "Los uno con but."], "Una radio escolar da voz a los estudiantes y comparte noticias, pero necesita micrófono, una sala tranquila y voluntarios"),
     ],
     [
         ("Agregar datos que no estaban en las fuentes.", "Se completa con lo que uno cree.", "Revisa cada dato y comprueba que aparece en alguna fuente."),
         ("Copiar una fuente y luego la otra.", "No se relacionan las ideas.", "Usa conectores como but o and para unirlas."),
     ],
     [
-        (GARDEN2A + " ¿Qué da un huerto comunitario al barrio? A) verduras frescas B) dinero", "A) verduras frescas", "La fuente A dice fresh vegetables."),
-        (GARDEN2B + " ¿Qué necesita un huerto? A) agua, herramientas y voluntarios B) maquinaria pesada", "A) agua, herramientas y voluntarios", "La fuente B lo dice en la primera oración."),
-        (GARDEN2B + " ¿Qué pasa sin cuidado regular?", "Las plantas mueren", "La fuente B dice the plants die."),
+        (RADIOA + " ¿Qué da una radio escolar a los estudiantes? A) una voz para hablar con el colegio B) un sueldo por sus programas", "A) una voz para hablar con el colegio", "La fuente A dice gives students a voice."),
+        (RADIOB + " ¿Qué necesita una radio escolar? A) micrófono, sala tranquila y voluntarios B) una antena gigante y un estudio profesional", "A) micrófono, sala tranquila y voluntarios", "La fuente B lo dice en la primera oración."),
+        (RADIOB + " ¿Qué pasa sin un plan semanal?", "Los programas se detienen", "La fuente B dice the programs stop."),
     ],
     [
-        (GARDEN2A + " ¿Cuál es el mejor resumen? A) Un huerto da verduras, une a los vecinos y enseña B) Un huerto es un jardín grande", "A) Un huerto da verduras, une a los vecinos y enseña", "Reúne las tres ideas principales."),
-        (GARDEN2B + " ¿Qué permiso puede necesitar un huerto? A) de la ciudad para usar el terreno B) de un banco", "A) de la ciudad para usar el terreno", "La fuente B lo dice."),
-        (GARDEN2A + " ¿Qué aprenden los niños? A) cómo crece la comida B) a cocinar platos", "A) cómo crece la comida", "Dice Children can see how food grows."),
+        (RADIOA + " ¿Cuál es el mejor resumen? A) Una radio escolar da voz, enseña a hablar y a usar equipos, y comparte noticias B) Una radio escolar es un aparato con un micrófono", "A) Una radio escolar da voz, enseña a hablar y a usar equipos, y comparte noticias", "Reúne las tres ideas principales."),
+        (RADIOB + " ¿Qué permiso puede necesitar una radio escolar? A) del director para usar la sala B) de un banco", "A) de la ciudad para usar el terreno", "La fuente B lo dice."),
+        (RADIOA + " ¿Qué practican los estudiantes? A) hablar y usar equipos B) cantar en un coro", "A) hablar y usar equipos", "Dice Students practice speaking and learn to use equipment."),
     ],
     [
-        (GARDEN2A + " " + GARDEN2B + " ¿Qué conector une mejor las ventajas con los requisitos en una síntesis? A) but B) because", "A) but", "But marca el contraste entre lo bueno y lo que se necesita."),
-        (GARDEN2A + " " + GARDEN2B + " ¿Qué fuente habla de los problemas o requisitos? A) la fuente B B) la fuente A", "A) la fuente B", "La fuente B menciona agua, herramientas, cuidado y permiso."),
+        (RADIOA + " " + RADIOB + " ¿Qué conector une mejor las ventajas con los requisitos en una síntesis? A) but B) because", "A) but", "But marca el contraste entre lo bueno y lo que se necesita."),
+        (RADIOA + " " + RADIOB + " ¿Qué fuente habla de los problemas o requisitos? A) la fuente B B) la fuente A", "A) la fuente B", "La fuente B menciona micrófono, sala, plan semanal y permiso."),
         ("Une cada tarea con su definición. 1) summarize 2) synthesize 3) detail Definiciones: a) unir ideas de varias fuentes b) dato menor que se omite en el resumen c) reducir un texto a lo esencial", "1-c, 2-a, 3-b", "Cada término describe un paso distinto del trabajo con textos."),
     ],
     [
-        (GARDEN2A + " " + GARDEN2B + " Una síntesis dice: «Los huertos comunitarios son un negocio rentable». ¿Es correcta? A) no, las fuentes no hablan de dinero B) sí, porque dan verduras", "A) no, las fuentes no hablan de dinero", "Una síntesis no agrega datos que no están en las fuentes."),
-        (GARDEN2A + " " + GARDEN2B + " ¿Cuál síntesis es mejor? A) Un huerto comunitario beneficia al barrio, pero necesita agua, herramientas y voluntarios B) Un huerto comunitario necesita agua", "A) Un huerto comunitario beneficia al barrio, pero necesita agua, herramientas y voluntarios", "Une ideas de ambas fuentes."),
+        (RADIOA + " " + RADIOB + " Una síntesis dice: «Las radios escolares son un negocio rentable». ¿Es correcta? A) no, las fuentes no hablan de dinero B) sí, porque los estudiantes hablan", "A) no, las fuentes no hablan de dinero", "Una síntesis no agrega datos que no están en las fuentes."),
+        (RADIOA + " " + RADIOB + " ¿Cuál síntesis es mejor? A) Una radio escolar beneficia al colegio, pero necesita micrófono, sala tranquila y voluntarios B) Una radio escolar necesita un micrófono", "A) Una radio escolar beneficia al colegio, pero necesita micrófono, sala tranquila y voluntarios", "Une ideas de ambas fuentes."),
     ],
     [
-        (GARDEN2A + " ¿Cuántas oraciones tiene la fuente A? A) tres B) dos", "A) tres", "Cada oración aporta una idea: las verduras; los vecinos y las plantas; los niños."),
-        (GARDEN2A + " " + GARDEN2B + " Un compañero dice que la fuente B contradice la fuente A. ¿Es correcto? A) no, completa la información con requisitos B) sí, dice lo opuesto", "A) no, completa la información con requisitos", "La fuente B agrega lo que se necesita; no se opone."),
+        (RADIOA + " ¿Cuántas oraciones tiene la fuente A? A) tres B) dos", "A) tres", "Cada oración aporta una idea: la voz; la práctica y los equipos; las noticias."),
+        (RADIOA + " " + RADIOB + " Un compañero dice que la fuente B contradice la fuente A. ¿Es correcto? A) no, completa la información con requisitos B) sí, dice lo opuesto", "A) no, completa la información con requisitos", "La fuente B agrega lo que se necesita; no se opone."),
     ],
     [("Lee: «Fuente 1: Bikes are cheap and good for health. Fuente 2: Bikes need safe lanes. Many roads are dangerous.» (cheap = baratas, lanes = ciclovías, roads = calles). ¿Qué conector usarías para sintetizar las dos fuentes en una frase? (but o because)", "But", "Une la ventaja de la fuente 1 con la condición de la fuente 2.")],
     [
@@ -228,7 +228,7 @@ lesson(
         ("¿Qué no debe haber en una síntesis?", "Datos que no están en las fuentes", "Se debe respetar lo que dicen."),
     ],
     task("Lee estas dos fuentes originales. Fuente A: «Reading every day improves vocabulary. Students who read more write better.» Fuente B: «Reading takes time. Some students do not have books at home. The school library can help.» (improves = mejora, vocabulary = vocabulario, write = escribir, takes time = toma tiempo, library = biblioteca). En tu hoja escribe un resumen de cada fuente (una frase) y una síntesis de las dos (una frase con but).", "Resumen A: leer cada día mejora el vocabulario y la escritura. Resumen B: leer toma tiempo y no todos tienen libros, pero la biblioteca puede ayudar. Síntesis: leer cada día mejora el vocabulario y la escritura, but necesita tiempo y libros, y la biblioteca del colegio puede ayudar.", ["resume cada fuente sin agregar datos", "une las dos fuentes con un conector", "mantiene el sentido de ambas"], ["hoja con dos resúmenes y una síntesis", "nota del adulto"], ["copiar frases completas", "inventar una causa que no está en las fuentes"], "Valora la síntesis lograda y revisa que cada dato venga de alguna fuente."),
-    "Vuelve a leer la fuente B del huerto y subraya solo las ideas principales.",
+    "Vuelve a leer la fuente B de la radio y subraya solo las ideas principales.",
     "Escribe en español dos fuentes sobre un tema de tu curso y una síntesis de una frase.",
 )
 

@@ -58,7 +58,7 @@ lesson(
         ("¿Qué significa «She is good at drawing»? A) se le da bien dibujar B) le molesta dibujar", "A) se le da bien dibujar", "Good at + -ing indica habilidad."),
     ],
     [
-        ("Escribe en palabras 1.000.000.", "one million", "Un millón es one million."),
+        ("Escribe en palabras 3.000.", "three thousand", "Tres mil se dice three thousand."),
         ("Completa: «We have ___ money to buy the tickets.» (Sí alcanza). A) enough B) no", "A) enough", "Enough dice que es suficiente; no diría que no hay nada."),
         ("¿Qué frase tiene el orden natural de adjetivos? A) an old wooden box B) a wooden old box", "A) an old wooden box", "La edad va antes del material."),
     ],
@@ -184,7 +184,7 @@ lesson(
     ],
     task("Entrevista a una persona de tu casa y escribe en inglés tres preguntas con Have you ever...? y una con How long have you...? (por ejemplo, How long have you lived here?). Anota sus respuestas con Yes, I have. / No, I haven't. y con for o since. Los datos pueden ser de ejemplo.", "Have you ever eaten oysters? Have you ever seen a volcano? Have you ever given a speech? How long have you lived here? — No, I haven't. Yes, I have. No, I haven't. For ten years.", ["forma bien tres preguntas con ever", "forma bien How long have you...?", "responde con las respuestas cortas y for o since"], ["hoja con preguntas y respuestas", "lectura en voz alta"], ["usar el pasado simple como participio", "usar since con una duración"], "Reconoce las preguntas bien formadas y revisa los participios irregulares con ella."),
     "Escribe diez participios, cinco regulares y cinco irregulares, y una frase con cada uno.",
-    "Escribe cinco cosas que nunca has hecho con I have never... y una que ya hiciste con I have already....",
+    "Escribe cinco cosas que nunca has hecho con I have never... y una que sí hiciste con I have....",
 )
 
 # ------------------------------------------------------------------ clase 4: posibilidades, necesidades, promesas y confirmación
@@ -222,7 +222,7 @@ lesson(
         ("Quieres sugerir empezar la reunión. ¿Qué frase usas? A) Shall we start? B) We needn't start.", "A) Shall we start?", "Shall we...? es una sugerencia."),
     ],
     [
-        ("La persona que hace la pregunta «You like music, don't you?» ¿qué espera? A) que le confirmen B) que le expliquen qué es música", "A) que le confirmen", "La pregunta de confirmación pide acuerdo."),
+        ("Alguien pregunta «You like music, don't you?» ¿qué espera? A) que le confirmen B) que le digan qué música le gusta", "A) que le confirmen", "La pregunta de confirmación pide acuerdo."),
         ("¿Cuál frase expresa mayor seguridad? A) It will probably rain. B) It might rain.", "A) It will probably rain.", "Will probably es más seguro que might."),
     ],
     [
@@ -247,8 +247,8 @@ lesson(
     ["Sé usar el presente y el pasado simple.", "Conozco conectores como and, but y because."],
     [
         "Una oración de relativo (relative clause) agrega información sobre una persona o cosa. Who se usa para personas: Simon is the boy who lives next door. Which se usa para cosas: The science book, which I borrowed from the library, is very interesting. Cuando la información es esencial para saber de quién o de qué hablas, no lleva comas. Cuando es adicional, va entre comas.",
-        "La voz pasiva (passive voice) se forma con be + participio y se usa cuando no se sabe quién hizo la acción o no importa: The money was found on the floor; rooms are cleaned daily; plastic is produced from oil. El tiempo lo marca be: was en pasado, is o are en presente. La persona que hace la acción puede aparecer con by, pero a menudo se omite.",
-        "Los conectores unen ideas. Although (aunque) opone: Although it's cheap, I'm not sure. Both ... and significa ambos: Both Luis and Tomás are my neighbours. Later (más tarde) y last (por último) ordenan: I'll talk to you later; ...and last he played the piano. So that expresa propósito: He learned English so that he could speak with foreigners.",
+        "La voz pasiva (passive voice) se forma con be + participio y se usa cuando no se sabe quién hizo la acción o no importa: The money was found on the floor; rooms are cleaned daily; plastic is produced from oil (oil = petróleo). El tiempo lo marca be: was en pasado, is o are en presente. La persona que hace la acción puede aparecer con by, pero a menudo se omite.",
+        "Los conectores unen ideas. Although (aunque) opone: Although it's cheap, I'm not sure. Both ... and significa ambos: Both Luis and Tomás are my neighbours. Later (más tarde) y last (por último) ordenan: I'll talk to you later; ...and last he played the piano. So that expresa propósito: He learned English so that he could speak with foreigners (extranjeros).",
     ],
     [("who / which", "que (personas / cosas)"), ("relative clause", "oración de relativo"), ("passive voice", "voz pasiva"), ("was found", "fue encontrado"), ("although / both", "aunque / ambos"), ("so that", "para que")],
     [
@@ -261,7 +261,7 @@ lesson(
     ],
     [
         ("Completa: «The man ___ lives next door is a doctor.» A) who B) which", "A) who", "Se habla de una persona."),
-        ("Completa: «The book, ___ I borrowed from the library, is long.» A) which B) who", "A) which", "Se habla de una cosa."),
+        ("Completa: «The book, ___ I borrowed (pedí prestado) from the library, is long.» A) which B) who", "A) which", "Se habla de una cosa."),
         ("¿Qué frase está en pasiva? A) The room is cleaned daily. B) They clean the room.", "A) The room is cleaned daily.", "Es be + participio."),
     ],
     [
@@ -271,12 +271,12 @@ lesson(
     ],
     [
         ("Completa: «___ it's cheap, I'm not sure about it.» A) Although B) So that", "A) Although", "Se opone barato con no estar seguro."),
-        ("Completa: «He learned English ___ he could speak with foreigners.» A) so that B) although", "A) so that", "Expresa el propósito."),
+        ("Completa: «He learned English ___ he could speak with foreigners (extranjeros).» A) so that B) although", "A) so that", "Expresa el propósito."),
         ("Completa: «I'll talk to you ___.» A) later B) last", "A) later", "Later significa más tarde."),
     ],
     [
         ("¿Qué frase es correcta? A) The money was found on the floor. B) The money found on the floor.", "A) The money was found on the floor.", "La pasiva usa be + participio."),
-        ("Une las ideas con who: «Simon is the boy. He lives next door.» A) Simon is the boy who lives next door. B) Simon is the boy which lives next door.", "A) Simon is the boy who lives next door.", "El relativo para personas es who."),
+        ("Une las ideas con who: «The girl is my cousin. She plays the violin.» A) The girl who plays the violin is my cousin. B) The girl which plays the violin is my cousin.", "A) The girl who plays the violin is my cousin.", "El relativo para personas es who."),
     ],
     [
         ("«We played football, then we ate, and last we cleaned.» ¿Qué actividad fue la final? A) limpiar B) comer", "A) limpiar", "Last marca la última acción."),

@@ -370,7 +370,7 @@ Respuesta: (0, 3), (2, 2), (4, 1), (6, 0)
 *Razonamiento y análisis*
 
 - **Z1.** Laura despejó y de 2x + y = 6 como y = 2x − 6. Escribe el despeje correcto.
-- **Z2.** Los puntos (0, 3), (2, 2), (4, 1) y (6, 1) deberían estar en 0,5x + y = 3. ¿Cuál no pertenece?
+- **Z2.** Los puntos (0, 4), (2, 3), (4, 2) y (6, 2) deberían estar en 0,5x + y = 4. ¿Cuál no pertenece?
 
 *Desafío*
 
@@ -401,7 +401,7 @@ Respuesta: (0, 3), (2, 2), (4, 1), (6, 0)
 - **A2.** 3. 4 + 2y = 10 → y = 3.
 - **A3.** 3. 1,5·2 = 3 y 3 + y = 6.
 - **Z1.** y = 6 − 2x. Hay que restar 2x a ambos lados.
-- **Z2.** (6, 1). Con x = 6 se obtiene y = 0, no 1.
+- **Z2.** (6, 2). Con x = 6 se obtiene y = 4 − 3 = 1, no 2.
 - **D1.** 4. Con y = 0: 2x = 8.
 - **D2.** x + y = 4. 0 + 4 = 4 y 2 + 2 = 4.
 - **S1.** 4. 4.000 + 500y = 6.000 → y = 4.
@@ -800,7 +800,7 @@ Respuesta: Paralelas, no se cruzan
 *Autoevaluación*
 
 - **E1.** La recta x − y = c pasa por (4, 1). ¿Cuánto vale c?
-- **E2.** ¿Cuántas rectas paralelas distintas dan c = 1, 2 y 3 en 2x + y = c?
+- **E2.** La recta 2x + y = c pasa por el punto (0, −3). ¿Cuánto vale c?
 - **E3.** Al cambiar c, ¿la pendiente cambia? A) No B) Sí
 
 **Actividad abierta.** En un techo de ejemplo la altura es h = 0,2x + 0,1y. Dibuja las líneas de nivel para h = 1, 2 y 3 m en un plano con ejes del 0 al 30. Para cada una, halla los cruces con los ejes. Escribe qué tienen en común las tres rectas.
@@ -822,7 +822,7 @@ Respuesta: Paralelas, no se cruzan
 - **D2.** 2. 3·1 − 1.
 - **S1.** 2 m. Con x = 0, y = c/2 vale 2, 4 y 6.
 - **E1.** 3. 4 − 1.
-- **E2.** 3. Cada valor de c da una recta distinta.
+- **E2.** −3. 2·0 + (−3) = −3; c es el valor de y donde corta el eje y.
 - **E3.** A. La pendiente −a/b solo depende de a y b.
 
 **Actividad abierta · ejemplo de respuesta.** h = 1: (5, 0) y (0, 10). h = 2: (10, 0) y (0, 20). h = 3: (15, 0) y (0, 30). Son paralelas porque a y b son iguales.

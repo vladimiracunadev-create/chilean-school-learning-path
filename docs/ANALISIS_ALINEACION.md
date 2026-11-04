@@ -1527,7 +1527,7 @@ Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 5
 
 ### Segunda lectura crítica de las 753 clases
 
-Cada una de las 753 clases de 1.º medio fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios, y dos lectores (Inglés propuesta OA 01 a 10 e Inglés oficial OA 01 a 10) leyeron y comprobaron datos sin resolver cada ejercicio a ciegas. Las fichas de actitud y la asignatura de Lengua Indígena son integración transversal y no llevan cuaderno propio.
+Cada una de las 753 clases de 1.º medio fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió por su cuenta los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios, y dos lectores (Inglés propuesta OA 01 a 10 e Inglés oficial OA 01 a 10) leyeron y comprobaron datos sin resolver cada ejercicio a ciegas; una tercera lectura independiente de los 19 bloques resolvió de nuevo cada ejercicio cerrado y corrigió unas 800 ediciones puntuales (ejercicios triviales, distractores absurdos, respuestas que se delataban, preguntas con más de una respuesta y solapes entre los dos Ingleses). Las fichas de actitud y la asignatura de Lengua Indígena son integración transversal y no llevan cuaderno propio.
 
 | Asignatura | Clases | Defectos corregidos (resumen de los informes) |
 |---|---:|---|
@@ -1564,12 +1564,13 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | IN1M OA 01 | 2 | Locate precise evidence: Global and explicit meaning in vari | 13 % | 25 % | 16.5 | — |
 | EN1M OA 01 | 3 | Model a useful strategy: Understanding varied literary and f | 14 % | 0 % | 14.3 | — |
 | EN1M OA 01 | 4 | Communicate through an information gap: Understanding varied | 14 % | 25 % | 17.2 | — |
-| EN1M OA 05 | 3 | Model a useful strategy: Language functions interpreted in m | 14 % | 12 % | 14.3 | — |
+| EN1M OA 05 | 3 | Model a useful strategy: Language functions interpreted in m | 14 % | 12 % | 13.1 | — |
 | MA1M OA 12 | 3 | Construir una regla o comparación: Distribuciones bivariadas | 14 % | 14 % | 18.8 | — |
+| EN1M OA 10 | 3 | Model a useful strategy: Language functions in discussion an | 15 % | 0 % | 16.9 | — |
 | CN1M OA 11 | 2 | Examinar evidencia y representaciones: Luz, modelos, imágene | 16 % | 17 % | 19.0 | — |
-| EN1M OA 10 | 3 | Model a useful strategy: Language functions in discussion an | 16 % | 0 % | 19.6 | — |
 | EN1M OA 05 | 1 | Recognize purpose and context: Language functions interprete | 16 % | 12 % | 19.4 | — |
 | TE1M OA 02 | 2 | Investigar soluciones y restricciones: Desarrollo ético y se | 17 % | 29 % | 18.1 | — |
+| EN1M OA 07 | 4 | Communicate through an information gap: Critical and persona | 17 % | 11 % | 20.1 | — |
 | MA1M OA 07 | 1 | Explorar una construcción: Área y volumen del cono | 18 % | 0 % | 15.1 | — |
 | EN1M OA 01 | 2 | Locate precise evidence: Understanding varied literary and f | 18 % | 25 % | 15.1 | — |
 | IN1M OA 13 | 4 | Communicate through an information gap: Creative multimodal  | 18 % | 14 % | 16.7 | — |
@@ -1581,16 +1582,13 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | MA1M OA 10 | 4 | Resolver un caso nuevo: Semejanza, proporcionalidad y modelo | 18 % | 33 % | 17.3 | — |
 | EN1M OA 02 | 4 | Communicate through an information gap: Purpose, detail, lan | 19 % | 11 % | 14.6 | — |
 | EN1M OA 04 | 4 | Communicate through an information gap: Integrated literary  | 19 % | 33 % | 17.1 | — |
-| EN1M OA 07 | 4 | Communicate through an information gap: Critical and persona | 19 % | 22 % | 19.1 | — |
-| IN1M OA 02 | 3 | Use a strategy or language function: Key expressions, colloc | 19 % | 14 % | 19.1 | — |
+| IN1M OA 02 | 3 | Use a strategy or language function: Key expressions, colloc | 19 % | 14 % | 19.5 | — |
 | IN1M OA 14 | 3 | Use a strategy or language function: Writing process across  | 20 % | 0 % | 22.6 | — |
-| CN1M OA 07 | 4 | Investigar relaciones entre variables: Fotosíntesis, respira | 20 % | 43 % | 16.1 | — |
 | CN1M OA 19 | 2 | Examinar evidencia y representaciones: Compuestos binarios y | 20 % | 38 % | 17.5 | — |
 | CN1M OA 19 | 3 | Construir o contrastar un modelo: Compuestos binarios y tern | 20 % | 25 % | 23.1 | — |
 | IN1M OA 01 | 3 | Use a strategy or language function: Global and explicit mea | 20 % | 25 % | 14.6 | — |
 | EN1M OA 05 | 2 | Locate precise evidence: Language functions interpreted in m | 21 % | 12 % | 16.2 | — |
 | IN1M OA 16 | 4 | Communicate through an information gap: First-year secondary | 21 % | 0 % | 13.1 | — |
-| AR1M OA 06 | 2 | Explorar materiales y referentes: Diseño de difusión artísti | 21 % | 0 % | 17.1 | — |
 | OR1M OA 05 | 4 | Elegir una acción segura: Relaciones constructivas presencia | 21 % | 14 % | 19.4 | — |
 | EN1M OA 05 | 4 | Communicate through an information gap: Language functions i | 21 % | 12 % | 13.2 | — |
 | EN1M OA 12 | 4 | Communicate through an information gap: Language functions i | 21 % | 0 % | 16.7 | — |
@@ -1605,7 +1603,6 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | MA1M OA 14 | 3 | Construir una regla o comparación: Reglas aditiva y multipli | 22 % | 67 % | 22.1 | — |
 | EN1M OA 12 | 1 | Recognize purpose and context: Language functions in connect | 22 % | 12 % | 13.5 | — |
 | IN1M OA 08 | 2 | Locate precise evidence: First-year secondary communicative  | 22 % | 0 % | 13.4 | — |
-| EN1M OA 05 | 5 | Respond independently: Language functions interpreted in mea | 23 % | 14 % | 15.4 | — |
 | HI1M OA 21 | 2 | Contextualizar y seleccionar fuentes: Ahorro, crédito, inver | 23 % | 50 % | 22.5 | — |
 | LE1M OA 18 | 2 | Investigar y seleccionar insumos: Ortografía y puntuación pa | 23 % | 0 % | 22.4 | — |
 | EN1M OA 08 | 2 | Locate precise evidence: Audience-aware multimodal oral pres | 23 % | 29 % | 17.0 | — |
@@ -1615,11 +1612,13 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | MU1M OA 03 | 3 | Ensayar una decisión musical: Interpretación vocal e instrum | 24 % | 12 % | 17.8 | — |
 | EN1M OA 07 | 2 | Locate precise evidence: Critical and personal response acro | 24 % | 0 % | 17.8 | — |
 | CN1M OA 09 | 4 | Investigar relaciones entre variables: Ondas: energía, propi | 24 % | 29 % | 15.8 | — |
+| EN1M OA 05 | 5 | Respond independently: Language functions interpreted in mea | 24 % | 14 % | 15.4 | — |
 | IN1M OA 09 | 3 | Use a strategy or language function: Global and explicit mea | 24 % | 11 % | 14.2 | — |
 | CN1M OA 11 | 3 | Construir o contrastar un modelo: Luz, modelos, imágenes y c | 24 % | 20 % | 20.3 | — |
+| AR1M OA 06 | 2 | Explorar materiales y referentes: Diseño de difusión artísti | 25 % | 14 % | 17.5 | — |
 | EF1M OA 04 | 3 | Combinar habilidades o decisiones: Actividad física regular, | 25 % | 33 % | 16.2 | — |
 | EN1M OA 04 | 3 | Model a useful strategy: Integrated literary and non-literar | 25 % | 0 % | 20.3 | — |
-| EN1M OA 11 | 2 | Locate precise evidence: Modeled multimodal writing for real | 25 % | 29 % | 15.0 | — |
+| EN1M OA 11 | 2 | Locate precise evidence: Modeled multimodal writing for real | 25 % | 29 % | 15.1 | — |
 | IN1M OA 02 | 4 | Communicate through an information gap: Key expressions, col | 25 % | 0 % | 17.8 | — |
 | IN1M OA 10 | 3 | Use a strategy or language function: Purpose, structure and  | 25 % | 14 % | 12.8 | — |
 | MA1M OA 04 | 3 | Construir el procedimiento: Sistemas de ecuaciones lineales  | 25 % | 40 % | 20.1 | — |
@@ -1634,9 +1633,9 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | EF1M OA 04 | 4 | Aplicar estrategia o plan: Actividad física regular, autocui | 26 % | 38 % | 16.8 | — |
 | LE1M OA 22 | 4 | Ensayar con retroalimentación: Exposición investigada para u | 26 % | 40 % | 15.4 | — |
 | EN1M OA 10 | 5 | Respond independently: Language functions in discussion and  | 27 % | 17 % | 16.6 | — |
+| CN1M OA 07 | 4 | Investigar relaciones entre variables: Fotosíntesis, respira | 27 % | 43 % | 17.1 | — |
 | IN1M OA 10 | 5 | Respond independently: Purpose, structure and language in no | 27 % | 14 % | 13.5 | — |
 | IN1M OA 16 | 1 | Recognize purpose and context: First-year secondary communic | 27 % | 25 % | 17.4 | — |
-| IN1M OA 08 | 1 | Recognize purpose and context: First-year secondary communic | 27 % | 25 % | 15.1 | — |
 | CN1M OA 06 | 4 | Investigar relaciones entre variables: Ciclos biogeoquímicos | 27 % | 25 % | 16.1 | — |
 | CN1M OA 12 | 1 | Formular una pregunta investigable: Oído, ojo, espectros y t | 27 % | 50 % | 20.6 | — |
 | CN1M OA 12 | 2 | Examinar evidencia y representaciones: Oído, ojo, espectros  | 27 % | 33 % | 17.2 | — |
@@ -1654,6 +1653,7 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | IN1M OA 02 | 2 | Locate precise evidence: Key expressions, collocations and s | 28 % | 29 % | 12.0 | — |
 | EN1M OA 03 | 4 | Communicate through an information gap: Purposeful listening | 28 % | 25 % | 13.4 | — |
 | IN1M OA 04 | 4 | Communicate through an information gap: Strategic listening, | 28 % | 25 % | 10.3 | — |
+| IN1M OA 08 | 1 | Recognize purpose and context: First-year secondary communic | 28 % | 25 % | 15.1 | — |
 | EN1M OA 11 | 5 | Respond independently: Modeled multimodal writing for real a | 28 % | 33 % | 16.6 | — |
 | CN1M OA 08 | 4 | Investigar relaciones entre variables: Impactos humanos, fen | 29 % | 38 % | 14.9 | — |
 | IN1M OA 11 | 5 | Respond independently: Theme, character, setting and plot in | 29 % | 14 % | 20.8 | — |
@@ -1670,7 +1670,6 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | EN1M OA 06 | 3 | Model a useful strategy: Strategic reading before, during an | 30 % | 0 % | 14.2 | — |
 | CN1M OA 03 | 3 | Construir o contrastar un modelo: Clasificación biológica y  | 30 % | 43 % | 14.1 | — |
 | EN1M OA 09 | 5 | Respond independently: Strategies for clear, fluent and repa | 30 % | 0 % | 22.6 | — |
-| IN1M OA 06 | 4 | Communicate through an information gap: Planning, repairing  | 30 % | 25 % | 14.2 | — |
 | CN1M OA 15 | 3 | Construir o contrastar un modelo: Escalas y propiedades de e | 31 % | 29 % | 21.0 | — |
 | CN1M OA 15 | 4 | Investigar relaciones entre variables: Escalas y propiedades | 31 % | 29 % | 17.5 | — |
 | EN1M OA 11 | 3 | Model a useful strategy: Modeled multimodal writing for real | 31 % | 33 % | 15.5 | — |
@@ -1686,8 +1685,7 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | CN1M OA 06 | 2 | Examinar evidencia y representaciones: Ciclos biogeoquímicos | 32 % | 25 % | 16.4 | — |
 | LE1M OA 12 | 5 | Revisar con evidencia de lectura: Escritura flexible en nuev | 32 % | 43 % | 14.5 | — |
 | EN1M OA 10 | 4 | Communicate through an information gap: Language functions i | 32 % | 14 % | 12.1 | — |
-| IN1M OA 06 | 3 | Use a strategy or language function: Planning, repairing and | 32 % | 0 % | 9.6 | — |
-| IN1M OA 15 | 2 | Locate precise evidence: Writing to explain, narrate and exp | 32 % | 12 % | 11.6 | — |
+| IN1M OA 15 | 2 | Locate precise evidence: Writing to explain, narrate and exp | 32 % | 12 % | 11.9 | — |
 | IN1M OA 15 | 4 | Communicate through an information gap: Writing to explain,  | 32 % | 0 % | 15.2 | — |
 | OR1M OA 02 | 4 | Elegir una acción segura: Sexualidad, vínculos afectivos, re | 32 % | 50 % | 21.3 | — |
 | CN1M OA 02 | 2 | Examinar evidencia y representaciones: Evidencias de evoluci | 32 % | 33 % | 17.3 | — |
@@ -1703,11 +1701,14 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | EN1M OA 03 | 2 | Locate precise evidence: Purposeful listening, inference and | 33 % | 0 % | 14.5 | — |
 | EN1M OA 09 | 3 | Model a useful strategy: Strategies for clear, fluent and re | 33 % | 14 % | 14.5 | — |
 | IN1M OA 05 | 3 | Use a strategy or language function: Coherent multimodal ora | 33 % | 43 % | 14.3 | — |
+| IN1M OA 06 | 4 | Communicate through an information gap: Planning, repairing  | 33 % | 25 % | 14.2 | — |
+| EN1M OA 04 | 1 | Recognize purpose and context: Integrated literary and non-l | 33 % | 33 % | 24.3 | — |
 | EN1M OA 04 | 2 | Locate precise evidence: Integrated literary and non-literar | 33 % | 33 % | 13.0 | — |
 | CN1M OA 09 | 5 | Explicar patrones y mecanismos: Ondas: energía, propiedades  | 33 % | 43 % | 17.1 | — |
 | CN1M OA 20 | 1 | Formular una pregunta investigable: Estequiometría y relacio | 33 % | 14 % | 19.1 | — |
 | EF1M OA 04 | 1 | Explorar con seguridad y diagnóstico: Actividad física regul | 33 % | 44 % | 16.6 | — |
 | EN1M OA 07 | 3 | Model a useful strategy: Critical and personal response acro | 33 % | 33 % | 18.3 | — |
+| IN1M OA 04 | 1 | Recognize purpose and context: Strategic listening, clarific | 33 % | 38 % | 13.8 | — |
 | LE1M OA 16 | 2 | Investigar y seleccionar insumos: Estilo directo e indirecto | 33 % | 67 % | 21.6 | — |
 | LE1M OA 19 | 6 | Responder y ajustar: Comprensión y evaluación de textos oral | 33 % | 43 % | 17.1 | — |
 | MA1M OA 03 | 1 | Reconocer variables y restricciones: Productos notables y co | 33 % | 29 % | 17.2 | — |
@@ -1715,7 +1716,6 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | MA1M OA 06 | 1 | Explorar una construcción: Sectores y segmentos circulares | 33 % | 40 % | 15.0 | — |
 | OR1M OA 07 | 5 | Practicar comunicación o búsqueda de ayuda: Participación so | 33 % | 12 % | 11.8 | — |
 | LE1M OA 05 | 3 | Analizar recursos y relaciones: Análisis de textos dramático | 34 % | 86 % | 20.7 | — |
-| EN1M OA 04 | 1 | Recognize purpose and context: Integrated literary and non-l | 34 % | 33 % | 24.3 | — |
 | CN1M OA 10 | 4 | Investigar relaciones entre variables: Sonido, modelo ondula | 34 % | 43 % | 21.6 | — |
 | HI1M OA 24 | 4 | Contrastar actores, causas y perspectivas: Conflicto, conviv | 34 % | 89 % | 24.4 | — |
 | CN1M OA 01 | 2 | Examinar evidencia y representaciones: Formación, estratos y | 35 % | 43 % | 21.0 | — |
@@ -1751,7 +1751,7 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | LE1M OA 07 | 1 | Entrar al texto con propósito: Romanticismo y visión de mund | 46 % | 67 % | 22.1 | — |
 | MA1M OA 12 | 2 | Representar patrones: Distribuciones bivariadas y nubes de p | 46 % | 33 % | 20.1 | — |
 | OR1M OA 10 | 4 | Elegir una acción segura: Diseño flexible y responsable de p | 46 % | 86 % | 23.9 | — |
-| HI1M OA 24 | 3 | Relacionar cambio, continuidad y territorio: Conflicto, conv | 46 % | 89 % | 21.3 | — |
+| HI1M OA 24 | 3 | Relacionar cambio, continuidad y territorio: Conflicto, conv | 46 % | 89 % | 22.3 | — |
 | LE1M OA 04 | 5 | Situar texto y contexto: Análisis de poemas | 47 % | 80 % | 23.3 | — |
 | TE1M OA 06 | 2 | Investigar soluciones y restricciones: Efectos sociales de l | 47 % | 43 % | 22.1 | — |
 | OR1M OA 03 | 2 | Distinguir hechos, derechos y límites: Evaluación de riesgos | 47 % | 78 % | 21.0 | — |
@@ -1797,7 +1797,7 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | MU1M OA 07 | 5 | Registrar y contrastar versiones: Música, identidad, cultura | 73 % | 100 % | 22.0 | — |
 | LE1M OA 23 | 4 | Ensayar con retroalimentación: Efectos de recursos lingüísti | 75 % | 83 % | 18.7 | respuesta «depende» en ejercicio cerrado |
 | HI1M OA 12 | 1 | Situar tiempo, espacio y problema: Exploración estatal, cien | 76 % | 56 % | 21.9 | — |
-| HI1M OA 19 | 2 | Contextualizar y seleccionar fuentes: Escasez, necesidades y | 76 % | 71 % | 22.2 | — |
+| HI1M OA 19 | 2 | Contextualizar y seleccionar fuentes: Escasez, necesidades y | 76 % | 71 % | 22.8 | — |
 | HI1M OA 10 | 5 | Construir un argumento con evidencia: Chile, mercados atlánt | 77 % | 100 % | 20.6 | — |
 | HI1M OA 23 | 2 | Contextualizar y seleccionar fuentes: Respuestas políticas a | 77 % | 71 % | 21.4 | — |
 | HI1M OA 10 | 1 | Situar tiempo, espacio y problema: Chile, mercados atlántico | 78 % | 56 % | 20.9 | — |

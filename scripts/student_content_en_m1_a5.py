@@ -40,7 +40,7 @@ lesson(
     ],
     [
         (SURVEY + " ¿Quién es quite shy? A) Daniel B) Camila", "A) Daniel", "El texto lo dice de Daniel."),
-        arith(SURVEY + " ¿Cuántos estudiantes son llevados por un familiar? Calcula 40 − 28 − 7 − 2.", "40-28-7-2", "Se restan del total los que caminan, van en bus y en bicicleta."),
+        arith(SURVEY + " ¿Cuántos estudiantes del curso NO caminan a la escuela?", "40-28", "Se resta del total de 40 los 28 que caminan."),
         (SURVEY + " ¿Qué visita la mayoría una vez por semana? A) la biblioteca B) el gimnasio", "A) la biblioteca", "Dice Most students visit the library once a week."),
     ],
     [
@@ -99,7 +99,7 @@ lesson(
         (SWIM + " ¿Qué anunció el entrenador?", "Un nuevo horario", "Dice a new schedule."),
     ],
     [
-        arith(SWIM + " Lucas lleva tres años nadando. Si cada año tiene 12 meses, ¿cuántos meses lleva nadando?", "3*12", "Se multiplican los años por los meses de cada año."),
+        (SWIM + " ¿Qué hace Lucas todos los días desde marzo?", "Entrena", "El texto dice He has been training every day since March."),
         (SWIM + " ¿Qué forma indica que la acción empezó y continúa? A) has been swimming B) used to play", "A) has been swimming", "Have been + -ing une pasado y presente."),
         (SWIM + " ¿Cuál es la mejor traducción de «used to play volleyball»? A) solía jugar vóleibol B) juega vóleibol ahora", "A) solía jugar vóleibol", "Used to habla de un hábito pasado."),
     ],
@@ -123,7 +123,7 @@ lesson(
 )
 
 # ---------------------------------------------------------------- clase 3: predicciones, necesidad, promesas y posibilidades
-PLAN2 = "«Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir)"
+PLAN2 = "«Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir)"
 
 lesson(
     OA5, 3, MATR,
@@ -131,10 +131,10 @@ lesson(
     ["Sé will para el futuro.", "Sé que can y must son verbos modales."],
     [
         "Los verbos modales son auxiliares que añaden un matiz de certeza, necesidad o permiso. Will probably expresa una predicción muy probable (casi segura). Might expresa una posibilidad: puede pasar o no. La diferencia es de grado: en «it will probably rain», hay mucha probabilidad; en «we might move the match», hay una posibilidad. Si se compara, will probably es más seguro que might.",
-        "Needn't (o don't need to) significa que algo no es necesario: «You needn't bring a ball» quiere decir que no hace falta llevar pelota. No es una prohibición: es la ausencia de obligación. Una promesa (promise) se hace con I promise I will…: compromete a quien habla. Shall es un modal formal: Shall we meet…? es una sugerencia o invitación, y «Mr. Lagos shall be here» es un uso formal que expresa una promesa o una decisión firme: se asegura de que él estará ahí.",
+        "Needn't (o don't need to) significa que algo no es necesario: «You needn't bring a ball» quiere decir que no hace falta llevar pelota. No es una prohibición: es la ausencia de obligación. Una promesa (promise) se hace con I promise I will…: compromete a quien habla. Shall es un modal formal: Shall we meet…? es una sugerencia o invitación: propone un plan y espera respuesta. Con will, en cambio, se anuncia algo que se hará: «Mr. Lagos will be here at nine».",
         "Al leer un mensaje de planes, subraya los modales y clasifícalos: seguro (will), muy probable (will probably), posible (might), no necesario (needn't), compromiso (I promise), sugerencia (Shall we…?). Eso te dice qué debes preparar y qué debes esperar.",
     ],
-    [("will probably", "probablemente; casi seguro"), ("might", "podría; es posible"), ("needn't", "no hace falta, no es necesario"), ("promise", "promesa"), ("shall", "modal formal; Shall we…? = ¿Y si…?"), ("possibility", "posibilidad")],
+    [("will probably", "probablemente; casi seguro"), ("might", "podría; es posible"), ("needn't", "no hace falta, no es necesario"), ("promise", "promesa"), ("shall", "modal para sugerir: Shall we…? = ¿Y si…?"), ("possibility", "posibilidad")],
     [
         ("Grado de certeza", PLAN2 + " ¿Qué es más probable: la lluvia o el cambio de partido al domingo?", ["La lluvia usa will probably.", "El cambio usa might.", "Will probably es más seguro que might."], "La lluvia, porque dice will probably; el cambio solo es posible (might)"),
         ("No necesidad", PLAN2 + " ¿Hay que llevar pelota?", ["Busco needn't bring a ball.", "Needn't indica que no hace falta.", "El colegio tiene muchas."], "No, porque el colegio tiene muchas"),
@@ -145,11 +145,11 @@ lesson(
     ],
     [
         (PLAN2 + " ¿Qué promete la persona que escribe? A) enviar el nuevo horario esta noche B) llevar una pelota", "A) enviar el nuevo horario esta noche", "Dice I promise I will send the new schedule tonight."),
-        (PLAN2 + " ¿A qué hora llegará el Sr. Lagos?", "A las nueve", "Dice shall be here at nine."),
-        (PLAN2 + " ¿Qué sugiere con Shall we meet at the gym at ten? A) juntarse en el gimnasio a las diez B) cerrar el gimnasio", "A) juntarse en el gimnasio a las diez", "Shall we…? propone un plan."),
+        (PLAN2 + " ¿A qué hora llegará el Sr. Lagos?", "A las nueve", "Dice will be here at nine."),
+        (PLAN2 + " ¿Qué sugiere con Shall we meet at the gym at ten? A) juntarse en el gimnasio a las diez B) cambiar el gimnasio por la cancha", "A) juntarse en el gimnasio a las diez", "Shall we…? propone un plan."),
     ],
     [
-        (PLAN2 + " ¿Qué podría hacer el equipo con el partido? A) cambiarlo al domingo B) cancelarlo para siempre", "A) cambiarlo al domingo", "Dice we might move the match to Sunday."),
+        (PLAN2 + " ¿Qué podría hacer el equipo con el partido? A) cambiarlo al domingo B) adelantarlo al viernes", "A) cambiarlo al domingo", "Dice we might move the match to Sunday."),
         (PLAN2 + " ¿Cuándo es probable que llueva?", "En la tarde de mañana", "Dice Tomorrow it will probably rain in the afternoon."),
         (PLAN2 + " ¿Qué abre el Sr. Lagos? A) las puertas B) las ventanas", "A) las puertas", "Dice to open the doors."),
     ],
@@ -164,7 +164,7 @@ lesson(
     ],
     [
         (PLAN2 + " Un compañero entendió que es obligatorio llevar pelota. ¿Qué frase lo corrige? A) You needn't bring a ball B) Tomorrow it will probably rain", "A) You needn't bring a ball", "Needn't significa que no es necesario."),
-        (PLAN2 + " Un compañero dice que seguro habrá partido el sábado. ¿Qué frase muestra duda? A) we might move the match B) the school has many", "A) we might move the match", "Might expresa posibilidad."),
+        (PLAN2 + " Un compañero dice que seguro habrá partido mañana. ¿Qué frase muestra duda? A) we might move the match B) the school has many", "A) we might move the match", "Might expresa posibilidad."),
     ],
     [("Lee: «The bus might be late. It will probably arrive at five. I promise I will wait for you.» ¿Qué hace quien escribe? A) promete esperar B) llega tarde", "A) promete esperar", "Dice I promise I will wait.")],
     [
@@ -263,17 +263,17 @@ lesson(
     ],
     [
         (ADV + " ¿Qué pasaría si practicara con pruebas antiguas? A) se sentiría más tranquilo B) se sentiría más cansado", "A) se sentiría más tranquilo", "Dice You would feel calmer."),
-        (ENG + " ¿Qué haría quien escribe si fuera Tomás? A) iría al taller el viernes B) cambiaría de colegio", "A) iría al taller el viernes", "Dice If I were Tomás, I would go to the club on Friday."),
-        (ENG + " ¿Qué lograría Tomás si se uniera al taller? A) haría nuevos amigos B) perdería amigos", "A) haría nuevos amigos", "Dice he would make new friends."),
+        (ENG + " ¿Qué haría quien escribe si fuera Tomás? A) iría al taller el viernes B) se quedaría en casa", "A) iría al taller el viernes", "Dice If I were Tomás, I would go to the club on Friday."),
+        (ENG + " ¿Qué lograría Tomás si se uniera al taller? A) haría nuevos amigos B) hablaría menos inglés", "A) haría nuevos amigos", "Dice he would make new friends."),
     ],
     [
-        (ADV + " ¿Qué ocurriría si la persona tuviera menos miedo a los errores? A) aprendería más rápido B) olvidaría todo", "A) aprendería más rápido", "Dice you would learn faster."),
+        (ADV + " ¿Qué ocurriría si la persona tuviera menos miedo a los errores? A) aprendería más rápido B) se pondría más nervioso", "A) aprendería más rápido", "Dice you would learn faster."),
         (ENG + " ¿Qué significa «He would meet more people»? A) conocería a más gente B) conoció a más gente ayer", "A) conocería a más gente", "Would + verbo expresa una consecuencia imaginaria."),
         ("Une cada expresión con su función. 1) If I were you, I would… 2) You should… 3) Why don't you…? Funciones: a) sugerencia en forma de pregunta b) consejo desde el lugar del otro c) consejo directo", "1-b, 2-c, 3-a", "Cada fórmula da el consejo de modo distinto."),
     ],
     [
         (ADV + " ¿Cuál es la condición en «If you practiced with old tests, you would feel calmer»? A) practicar con pruebas antiguas B) sentirse más tranquilo", "A) practicar con pruebas antiguas", "La parte con if es la condición."),
-        (ENG + " ¿Por qué se usa were en «If I were Tomás»? A) porque con if se usa were para todas las personas B) porque Tomás es plural", "A) porque con if se usa were para todas las personas", "Es una regla de la estructura hipotética."),
+        (ENG + " ¿Por qué se usa were en «If I were Tomás»? A) porque con if se usa were para todas las personas B) porque la acción ya ocurrió en el pasado", "A) porque con if se usa were para todas las personas", "Es una regla de la estructura hipotética."),
     ],
     [
         (ADV + " Un lector dice que la persona sí estudia poco. ¿Qué dato lo corrige? A) I study a lot B) Good luck", "A) I study a lot", "La persona dice que estudia mucho pero olvida todo."),

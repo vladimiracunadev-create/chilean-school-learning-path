@@ -60,28 +60,28 @@ lesson(
     ],
     [
         (ADULT + NEWS1 + " ¿Qué formato es? A) una noticia B) un aviso publicitario", "A) una noticia", "Informa un hecho reciente: la biblioteca abrió una sala ayer."),
-        (ADULT + AD1 + " ¿Qué formato es? A) un aviso publicitario B) una entrevista", "A) un aviso publicitario", "Usa preguntas y órdenes (Try, Download) para convencer de usar un servicio."),
-        (ADULT + INT1 + " ¿Qué pista muestra que es una entrevista? A) el presentador pregunta y Javier responde B) se explican los pasos de una receta", "A) el presentador pregunta y Javier responde", "Las preguntas y respuestas por turnos son la marca de una entrevista."),
+        (ADULT + AD1 + " ¿Qué formato es? A) un aviso publicitario B) una noticia", "A) un aviso publicitario", "Usa preguntas y órdenes (Try, Download) para convencer de usar un servicio."),
+        (ADULT + INT1 + " ¿Qué pista muestra que es una entrevista? A) el presentador pregunta y Javier responde por turnos B) una sola persona cuenta lo que le pasó, en pasado", "A) el presentador pregunta y Javier responde por turnos", "Las preguntas y respuestas por turnos son la marca de una entrevista."),
     ],
     [
-        (ADULT + PROC1 + " ¿Cuál es el propósito? A) enseñar a guardar un documento B) contar una experiencia", "A) enseñar a guardar un documento", "Usa first, next, then y finally para ordenar los pasos."),
-        (ADULT + ANEC1 + " ¿Cuál es el propósito? A) compartir una experiencia personal B) anunciar un servicio", "A) compartir una experiencia personal", "El hablante cuenta lo que le pasó, en pasado."),
+        (ADULT + PROC1 + " ¿Cuál es el propósito? A) enseñar a guardar un documento B) convencer de usar un programa nuevo", "A) enseñar a guardar un documento", "Usa first, next, then y finally para ordenar los pasos."),
+        (ADULT + ANEC1 + " ¿Cuál es el propósito? A) compartir una experiencia personal B) enseñar pasos para hacer algo", "A) compartir una experiencia personal", "El hablante cuenta lo que le pasó, en pasado."),
         (ADULT + NARR1 + " ¿Por qué es una narración? A) cuenta una historia de ficción y empieza con Once upon a time B) informa un hecho real de hoy", "A) cuenta una historia de ficción y empieza con Once upon a time", "Un robot que cuenta estrellas es ficción, y esa frase abre muchos cuentos."),
     ],
     [
         (ADULT + "Tres mensajes. M1: «Attention, please. The library closes at six today.» M2: «Last week I found a wallet and I returned it to its owner.» M3: «First, add water. Then add the rice. Finally, wait twenty minutes.» (attention = atención, closes = cierra, wallet = billetera, owner = dueño, returned = devolví, add = agrega, wait = espera). Clasifica cada mensaje: aviso público, anécdota o procedimiento.", "M1 aviso público, M2 anécdota, M3 procedimiento", "M1 informa un cierre, M2 cuenta algo pasado y M3 ordena pasos."),
-        (ADULT + AD1 + " ¿A quién se dirige principalmente? A) a personas que caminan a la escuela y podrían arrendar una bicicleta B) a conductores de camión", "A) a personas que caminan a la escuela y podrían arrendar una bicicleta", "La pregunta inicial habla de caminar a la escuela."),
-        (ADULT + NEWS1 + " ¿Cuál es la idea general? A) la biblioteca abrió una sala de lectura para adolescentes B) el alcalde viajó a otra ciudad", "A) la biblioteca abrió una sala de lectura para adolescentes", "Es lo esencial; los computadores y el horario son detalles."),
+        (ADULT + AD1 + " ¿A quién se dirige principalmente? A) a personas que caminan a la escuela y podrían arrendar una bicicleta B) a personas que ya tienen bicicleta y quieren repararla", "A) a personas que caminan a la escuela y podrían arrendar una bicicleta", "La pregunta inicial habla de caminar a la escuela."),
+        (ADULT + NEWS1 + " ¿Cuál es la idea general? A) la biblioteca abrió una sala de lectura para adolescentes B) la sala tiene cuarenta computadores y abre hasta las ocho", "A) la biblioteca abrió una sala de lectura para adolescentes", "Es lo esencial; los computadores y el horario son detalles."),
     ],
     [
         ("Un amigo dice que el texto de las bicicletas es una noticia porque trae un precio. ¿Quién tiene razón? " + ADULT + AD1 + " A) no: usa órdenes como Try y Download para convencer B) sí: todo texto con precios informa un hecho", "A) no: usa órdenes como Try y Download para convencer", "El precio es un dato de apoyo; el propósito es persuadir."),
         (ADULT + INT1 + " Otro oyente dice que es una anécdota porque Javier habla de sí mismo. ¿Cuál es la mejor respuesta? A) es una entrevista porque un presentador pregunta y Javier responde por turnos B) es una anécdota porque se habla en primera persona", "A) es una entrevista porque un presentador pregunta y Javier responde por turnos", "El formato se decide por la estructura de preguntas y respuestas."),
     ],
     [
-        (ADULT + "«Hello, I am calling about your ad. Is the guitar still for sale? I can come tomorrow at four and pay in cash.» (ad = aviso, still = todavía, for sale = en venta, pay in cash = pagar en efectivo). ¿Cuál es el propósito de quien llama? A) preguntar si un objeto sigue en venta y acordar una visita B) informar una noticia de la ciudad", "A) preguntar si un objeto sigue en venta y acordar una visita", "Pregunta por la guitarra y propone una hora para ir."),
-        (ADULT + "Un oyente solo entendió las palabras first, next, finally y click. ¿Qué formato podría ser? A) un procedimiento B) una entrevista", "A) un procedimiento", "Esas palabras ordenan pasos y click es una acción."),
+        (ADULT + "«Hello, I am calling about your ad. Is the guitar still for sale? I can come tomorrow at four and pay in cash.» (ad = aviso, still = todavía, for sale = en venta, pay in cash = pagar en efectivo). ¿Cuál es el propósito de quien llama? A) preguntar si un objeto sigue en venta y acordar una visita B) ofrecer una guitarra en venta", "A) preguntar si un objeto sigue en venta y acordar una visita", "Pregunta por la guitarra y propone una hora para ir."),
+        (ADULT + "«First, click File. Next, click Print. Finally, press Enter.» (click = hacer clic, print = imprimir, press = presiona). ¿Qué formato es? A) un procedimiento B) un aviso publicitario", "A) un procedimiento", "First, next y finally ordenan pasos; las órdenes no intentan vender nada."),
     ],
-    [(ADULT + "Estás en una estación y escuchas: «Attention, please. Line two is closed between Central Station and Park Station. Please use the buses outside.» (line = línea, closed = cerrada, between = entre, outside = afuera). ¿Cuál es el propósito? A) avisar un cambio y pedir que uses los buses B) contar una anécdota de viaje", "A) avisar un cambio y pedir que uses los buses", "Informa un cierre y pide una acción con Please use.")],
+    [(ADULT + "Estás en una estación y escuchas: «Attention, please. Line two is closed between Central Station and Park Station. Please use the buses outside.» (line = línea, closed = cerrada, between = entre, outside = afuera). ¿Cuál es el propósito? A) avisar un cambio y pedir que uses los buses B) invitar a comprar pasajes de bus", "A) avisar un cambio y pedir que uses los buses", "Informa un cierre y pide una acción con Please use.")],
     [
         ("En Inglés de 1.º medio (OA 1, clase 1): ¿qué es el propósito de un texto oral?", "La razón por la que se habla: informar, convencer, enseñar, contar o entretener", "Responde para qué se dice el texto."),
         ("En Inglés de 1.º medio (OA 1, clase 1): ¿qué palabras ordenan los pasos de un procedimiento oral?", "First, next, then y finally", "Marcan el orden de las acciones."),
@@ -196,7 +196,7 @@ lesson(
         (ADULT + ELISA + " ¿Cuál frase resume mejor el texto? A) Elisa cuenta cambios en su vida y un plan de viaje B) Elisa enseña cómo estudiar inglés", "A) Elisa cuenta cambios en su vida y un plan de viaje", "Mezcla un antes (used to), un hábito de estudio y un plan, sin dar pasos."),
     ],
     [
-        (ADULT + MUSIC + " ¿Qué dato es verdadero? A) coleccionar estampillas es algo que hace desde hace tres años B) coleccionó estampillas solo el mes pasado", "A) coleccionar estampillas es algo que hace desde hace tres años", "Dice have collected stamps for three years."),
+        (ADULT + MUSIC + " ¿Qué dato es verdadero? A) colecciona estampillas desde hace tres años B) empezó a coleccionar estampillas el mes pasado", "A) colecciona estampillas desde hace tres años", "Dice have collected stamps for three years."),
         (ADULT + MUSIC + " ¿Cuál es la idea general? A) cuenta cómo cambió su forma de conseguir estampillas y qué hará con una antigua B) enseña pasos para pegar una estampilla en una carta", "A) cuenta cómo cambió su forma de conseguir estampillas y qué hará con una antigua", "Mezcla pasado (used to), presente y futuro (later), sin dar pasos."),
     ],
     [
@@ -240,9 +240,9 @@ lesson(
         ("Mezclar el día de una actividad con el de otra.", "Los datos se anotan sin etiqueta y luego se asocian mal.", "Anota cada dato junto a su actividad."),
     ],
     [
-        (ADULT + SCI + " ¿Qué día es la feria de ciencias? A) el jueves B) el viernes", "A) el jueves", "Persona A dice on Thursday."),
+        (ADULT + SCI + " ¿Qué día es la feria de ciencias? A) el jueves B) el martes", "A) el jueves", "Persona A dice on Thursday."),
         (ADULT + SCI + " ¿A qué hora empieza? A) a las cuatro B) a las siete", "A) a las cuatro", "Persona B dice It starts at four o'clock; las siete es la hora de término."),
-        (ADULT + BEACH + " ¿Dónde se juntan los voluntarios? A) en el muelle B) en la playa grande", "A) en el muelle", "Persona B dice Meet at the pier."),
+        (ADULT + BEACH + " ¿Dónde se juntan los voluntarios? A) en el muelle B) en la playa, donde es la limpieza", "A) en el muelle", "Persona B dice Meet at the pier."),
     ],
     [
         (ADULT + SCI + " ¿Qué información entrega solo Persona B? A) la hora de inicio y término, y qué llevar B) el día y el lugar", "A) la hora de inicio y término, y qué llevar", "El día y el lugar los dijo Persona A."),
@@ -251,18 +251,18 @@ lesson(
     ],
     [
         (ADULT + COOK + " Si solo hubieras escuchado a Persona A, ¿qué pregunta harías para saber dónde es la clase? A) Where is the class? B) How much is the class?", "A) Where is the class?", "Where pregunta por el lugar."),
-        (ADULT + BIKE + " ¿Qué pasa si llueve el domingo? A) el paseo se hace el lunes B) el paseo se cancela para siempre", "A) el paseo se hace el lunes", "Dice If it rains, we will ride on Monday."),
+        (ADULT + BIKE + " ¿Qué pasa si llueve el domingo? A) el paseo se hace el lunes B) el paseo se hace igual el domingo, con lluvia", "A) el paseo se hace el lunes", "Dice If it rains, we will ride on Monday."),
         arith(ADULT + SCI + " ¿Cuántas horas dura la feria de ciencias?", "7-4", "Empieza a las 4 y termina a las 7.", " horas"),
     ],
     [
         arith(ADULT + COOK + " Tres amigos van a la clase de cocina. ¿Cuántos pesos pagan entre todos?", "3*6000", "Se multiplican tres personas por 6.000 pesos.", " pesos"),
-        (ADULT + BIKE + " Un amigo anotó: domingo, nueve de la mañana, portón del parque, veinte kilómetros. ¿Qué dato de Persona B falta en su nota? A) llevar agua y casco B) la hora de llegada", "A) llevar agua y casco", "Su nota solo tiene lo que dijo A."),
+        (ADULT + BIKE + " Un amigo anotó: domingo, nueve de la mañana, portón del parque, veinte kilómetros. ¿Qué dato de Persona B falta en su nota? A) llevar agua y casco B) el lugar de encuentro", "A) llevar agua y casco", "Su nota solo tiene lo que dijo A."),
     ],
     [
         (ADULT + BEACH + " Alguien que solo escuchó a Persona B cree que la limpieza es en la tarde. ¿Qué dato de Persona A lo corrige? A) que es el sábado en la mañana B) que se entregan guantes gratis", "A) que es el sábado en la mañana", "Persona A dice Saturday morning; los guantes no hablan del horario."),
         (ADULT + "Persona A: «The film club meets on Fridays.» Persona B: «We watch a short film at five o'clock in the library. Entry is two thousand pesos.» (film club = club de cine, short film = cortometraje, library = biblioteca). ¿Cuánto cuestan las entradas de dos amigos? A) 4.000 pesos B) 2.000 pesos", "A) 4.000 pesos", "Cada entrada cuesta 2.000 y son dos amigos: 2 × 2.000."),
     ],
-    [arith(ADULT + "Persona A: «The bake sale is on Friday in the school patio.» Persona B: «Every cake costs one thousand pesos, and the money is for a school trip.» (bake sale = venta de pasteles, patio = patio, cake = pastel, trip = paseo). Compras 3 pasteles. ¿Cuántos pesos pagas?", "3*1000", "Cada pastel cuesta 1.000 pesos.", " pesos")],
+    [arith(ADULT + "Persona A: «The bake sale is on Friday in the school patio.» Persona B: «Every cake costs one thousand pesos, and the money is for a school trip.» (bake sale = venta de pasteles, patio = patio, cake = pastel, trip = paseo; vuelto = lo que te devuelven). Compras 3 pasteles y pagas con un billete de $5.000. ¿Cuántos pesos de vuelto recibes?", "5000-3*1000", "Se resta el costo de 3 pasteles (3 × 1.000) a los 5.000 que entregas.", " pesos")],
     [
         ("En Inglés de 1.º medio (OA 1, clase 4): ¿qué es una brecha de información?", "Una situación en que cada persona sabe solo una parte del mensaje", "Hay que combinar lo que dicen ambas."),
         ("En Inglés de 1.º medio (OA 1, clase 4): ¿qué se dice para pedir que repitan?", "Could you repeat that, please?", "Es la frase para pedir repetición."),
@@ -299,13 +299,13 @@ lesson(
     ],
     [
         (ADULT + WALK + " ¿Qué cambió en las calles? A) hay menos tráfico B) hay más autos", "A) hay menos tráfico", "Dice Now there is less traffic."),
-        (ADULT + SONG + " ¿Cuál es la palabra más repetida? A) together B) singing", "A) together", "Aparece tres veces en el último verso."),
+        (ADULT + SONG + " ¿Cuál es la palabra más repetida? A) together B) singing", "A) together", "Aparece tres veces en la última línea."),
         (ADULT + LOST + " ¿Dónde estaban las llaves? A) las tenía un conductor del bus B) estaban en el bolsillo", "A) las tenía un conductor del bus", "Dice a driver had them."),
     ],
     [
-        (ADULT + SONG + " ¿De qué trata principalmente la canción? A) de caminar juntos y sentirse fuertes B) de un viaje en avión", "A) de caminar juntos y sentirse fuertes", "Walking, together y strong dan el tema."),
-        (ADULT + LOST + " ¿Qué decidió hacer al final? A) comprar un llavero con su nombre B) dejar de usar el bus", "A) comprar un llavero con su nombre", "Dice I decided to buy a key ring with my name."),
-        (ADULT + PODCAST + " ¿Qué aprendió Camila? A) que los pasos pequeños ayudan B) que debe practicar solo los fines de semana", "A) que los pasos pequeños ayudan", "Dice I have learned that small steps help."),
+        (ADULT + SONG + " ¿De qué trata principalmente la canción? A) de caminar juntos y sentirse fuertes B) de lo largo y cansador que es un día", "A) de caminar juntos y sentirse fuertes", "Walking, together y strong dan el tema."),
+        (ADULT + LOST + " ¿Qué decidió hacer al final? A) comprar un llavero con su nombre B) llamar otra vez a la empresa de buses", "A) comprar un llavero con su nombre", "Dice I decided to buy a key ring with my name."),
+        (ADULT + PODCAST + " ¿Qué aprendió Camila? A) que los pasos pequeños ayudan B) que practicar dos horas seguidas es mejor", "A) que los pasos pequeños ayudan", "Dice I have learned that small steps help."),
     ],
     [
         (ADULT + PODCAST + " ¿Cómo practica ahora Camila? A) treinta minutos cada día B) dos horas una vez a la semana", "A) treinta minutos cada día", "Used to practise two hours once a week es el pasado; now habla del presente."),
@@ -314,11 +314,11 @@ lesson(
     ],
     [
         (ADULT + WALK + " Un apoderado dice que el bus a pie es mala idea porque toma más tiempo. ¿Su opinión tiene apoyo en el texto? A) sí, porque some parents say it takes more time B) no, porque el texto no habla de tiempo", "A) sí, porque some parents say it takes more time", "La razón aparece al final del texto."),
-        (ADULT + PODCAST + " ¿Cuál es el propósito de la entrevista? A) mostrar cómo una joven mantiene su práctica de violín B) vender clases de violín", "A) mostrar cómo una joven mantiene su práctica de violín", "Las preguntas y respuestas hablan de su rutina, sin invitar a comprar."),
+        (ADULT + PODCAST + " ¿Cuál es el propósito de la entrevista? A) mostrar cómo una joven mantiene su práctica de violín B) enseñar a tocar violín con pasos", "A) mostrar cómo una joven mantiene su práctica de violín", "Las preguntas y respuestas hablan de su rutina; no hay pasos ni órdenes."),
     ],
     [
         (ADULT + LOST + " ¿Qué enunciado es verdadero? A) perdió las llaves camino a casa y las recuperó B) perdió las llaves en el colegio y no las encontró", "A) perdió las llaves camino a casa y las recuperó", "Dice on the way home y a driver had them."),
-        (ADULT + SONG + " Un oyente dice que la canción es triste. ¿Qué palabras lo contradicen? A) sun is up y strong B) tired y lost", "A) sun is up y strong", "El sol arriba y sentirse fuertes muestran un tono alegre."),
+        (ADULT + SONG + " Un oyente dice que la canción es triste. ¿Qué palabras lo contradicen? A) sun is up y we are strong B) the day is long y we are walking", "A) sun is up y we are strong", "El sol arriba y sentirse fuertes muestran un tono alegre; lo largo del día y caminar no son tristes."),
     ],
     [(ADULT + "«Today I want to talk about plastic bottles. At home we used to throw them away. Now we use one big bottle and refill it. Because of that, we have thrown away fewer bottles this year.» (plastic = plástico, throw away = botar, refill = rellenar, fewer = menos, because of that = por eso). ¿Qué cambió? A) pasaron de botar botellas a rellenar una grande B) compraron más botellas pequeñas", "A) pasaron de botar botellas a rellenar una grande", "Used to throw them away describe el antes; now we use one big bottle, el ahora.")],
     [

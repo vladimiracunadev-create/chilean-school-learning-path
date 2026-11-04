@@ -695,7 +695,7 @@ Respuesta: 206 pulsaciones por minuto
 
 **Recurso listo para usar:** Lápiz y papel, tu plan de la clase anterior o uno de ejemplo, un reloj, un espacio libre con piso seco, zapatillas atadas y agua. Una tabla con semanas del 1 al 4 en tu cuaderno.
 
-**Consigna exacta:** Completa este registro de ejemplo y decide la semana 4. Semana 1: 3 sesiones de 20 minutos, esfuerzo 4, todas logradas. Semana 2: 3 sesiones de 25 minutos, esfuerzo 5, todas logradas. Semana 3: 3 sesiones de 30 minutos, esfuerzo 7, se lograron 2 de 3 y quedaste muy cansado. Calcula los minutos de cada semana, di cuál variable subió, decide si la semana 4 sube, repite o baja y justifica con un dato. Si puedes, aplica una semana corta de tu propio plan y anótala.
+**Consigna exacta:** Completa este registro de ejemplo y decide la semana 4. Semana 1: 3 sesiones de 20 minutos, esfuerzo 4, todas logradas. Semana 2: 3 sesiones de 25 minutos, esfuerzo 5, todas logradas. Semana 3: 3 sesiones de 30 minutos, esfuerzo 7, se lograron 2 de 3 y quedaste muy cansado. Calcula los minutos de cada semana (en la semana 3, los planificados y los realmente hechos), di cuáles variables subieron, decide si la semana 4 sube, repite o baja y justifica con un dato. Si puedes, aplica una semana corta de tu propio plan y anótala.
 
 **Referencia para modelar y corregir:** Semana 1: 60 minutos. Semana 2: 75 minutos. Semana 3: 90 minutos si se hubieran logrado las 3, pero se hicieron 60. Subió el tiempo y el esfuerzo a la vez. Para la semana 4 bajo a la carga de la semana 2: 25 minutos por sesión, porque en la 3 el esfuerzo subió a 7 y quedé muy cansado.
 
@@ -780,7 +780,7 @@ Respuesta: Repito la semana
 
 - **R1.** En Educación Física: ¿qué es la progresión de un plan?
 - **R2.** Para subir la carga, ¿cuántas variables cambias a la vez: una o varias?
-- **R3.** Un plan dura entre 4 y 6 semanas. ¿Un plan de 5 semanas cumple ese rango: sí o no?
+- **R3.** ¿Qué se hace en la última semana de un plan de 4 a 6 semanas: A) el ajuste o la evaluación final; B) el mayor aumento de carga de todo el plan?
 
 *Comprensión*
 
@@ -802,7 +802,7 @@ Respuesta: Repito la semana
 *Desafío*
 
 - **D1.** Durante 4 semanas haces 3 sesiones por semana. Si te faltaron 2 sesiones, ¿cuántas sesiones hiciste?
-- **D2.** Con esas 10 sesiones hechas de 12 planificadas, ¿cuántas faltaron?
+- **D2.** Tu plan de 5 semanas tiene 3 sesiones por semana y llevas 11 sesiones hechas. ¿Cuántas te faltan para completarlo?
 
 *Situaciones auténticas*
 
@@ -815,13 +815,13 @@ Respuesta: Repito la semana
 - **E2.** ¿Qué anotas en el registro de cada sesión?
 - **E3.** ¿Qué haces si tienes una señal de exceso?
 
-**Actividad abierta.** Completa este registro de ejemplo y decide la semana 4. Semana 1: 3 sesiones de 20 minutos, esfuerzo 4, todas logradas. Semana 2: 3 sesiones de 25 minutos, esfuerzo 5, todas logradas. Semana 3: 3 sesiones de 30 minutos, esfuerzo 7, se lograron 2 de 3 y quedaste muy cansado. Calcula los minutos de cada semana, di cuál variable subió, decide si la semana 4 sube, repite o baja y justifica con un dato. Si puedes, aplica una semana corta de tu propio plan y anótala.
+**Actividad abierta.** Completa este registro de ejemplo y decide la semana 4. Semana 1: 3 sesiones de 20 minutos, esfuerzo 4, todas logradas. Semana 2: 3 sesiones de 25 minutos, esfuerzo 5, todas logradas. Semana 3: 3 sesiones de 30 minutos, esfuerzo 7, se lograron 2 de 3 y quedaste muy cansado. Calcula los minutos de cada semana (en la semana 3, los planificados y los realmente hechos), di cuáles variables subieron, decide si la semana 4 sube, repite o baja y justifica con un dato. Si puedes, aplica una semana corta de tu propio plan y anótala.
 
 **Solucionario razonado**
 
 - **R1.** Aumentar el esfuerzo de a poco. Es la definición de la clase.
 - **R2.** Una. Cambiar una sola permite adaptarse y ver qué funciona.
-- **R3.** Sí. 5 está entre 4 y 6.
+- **R3.** A. La última semana sirve para ajustar o evaluar, no para subir mucho la carga.
 - **C1.** A. Cumpliste y puedes progresar de a poco.
 - **C2.** B. El dolor persistente es una señal de exceso.
 - **C3.** B. La progresión es pequeña y gradual.
@@ -831,7 +831,7 @@ Respuesta: Repito la semana
 - **Z1.** B. La progresión es gradual.
 - **Z2.** A. La adaptación necesita su tiempo.
 - **D1.** 10 sesiones. Se calculan las sesiones planificadas y se restan las que faltaron. Cálculo: 4 × 3 − 2 = 10.
-- **D2.** 2. 12 menos 10 son 2 sesiones.
+- **D2.** 4 sesiones. Se calculan las sesiones del plan y se restan las hechas. Cálculo: 5 × 3 − 11 = 4.
 - **S1.** 18 sesiones. Se multiplican las semanas por las sesiones semanales. Cálculo: 6 × 3 = 18.
 - **S2.** 75 minutos. Se suman los minutos de las tres sesiones. Cálculo: 20 + 25 + 30 = 75.
 - **E1.** Pequeño y gradual. El cuerpo necesita tiempo para adaptarse.
@@ -1214,7 +1214,7 @@ Respuesta: El baile
 
 - **A1.** Con valores de ejemplo, trotar suave 20 minutos gasta 160 kcal. Si lo haces 4 veces, ¿cuántas kcal gastas?
 - **A2.** Con valores de ejemplo, en un día entran 2.400 kcal y el cuerpo gasta 2.100 kcal. ¿Cuántas kcal más entraron que las gastadas?
-- **A3.** Con valores de ejemplo, si entran 1.800 kcal y se gastan 1.800 kcal, ¿el balance está equilibrado: sí o no?
+- **A3.** Con valores de ejemplo, si entran 1.800 kcal y se gastan 1.800 kcal, ¿hay exceso, déficit o ninguno de los dos?
 
 *Razonamiento y análisis*
 
@@ -1249,7 +1249,7 @@ Respuesta: El baile
 - **C3.** A. Pedir apoyo es lo más seguro.
 - **A1.** 640 kcal. Se multiplica el gasto de una sesión por las sesiones. Cálculo: 4 × 160 = 640.
 - **A2.** 300 kcal. Se resta el gasto a la ingesta. Cálculo: 2400 − 2100 = 300.
-- **A3.** Sí. Entra igual que lo que se gasta.
+- **A3.** Ninguno de los dos. Entra lo mismo que se gasta.
 - **Z1.** A. Restringir la comida sin guía profesional puede ser dañino.
 - **Z2.** B. Las decisiones de alimentación se toman con apoyo adulto.
 - **D1.** 780 kcal. Se suma el gasto de cada tipo de sesión. Cálculo: 3 × 180 + 2 × 120 = 780.

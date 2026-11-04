@@ -567,7 +567,7 @@ Respuesta: Como vimos, el sonido viaja en ondas; por eso, cuando chocan con un c
 *Comprensión*
 
 - **C1.** «Hubo mucho calor; ___, el hielo se derritió». ¿Qué conector corresponde? A) por lo tanto B) sin embargo C) en cambio
-- **C2.** «Los planetas giran alrededor del Sol. ___, la Luna gira alrededor de la Tierra». ¿Qué conector corresponde? A) Además B) Sin embargo C) Por lo tanto
+- **C2.** «El Sol entrega luz a la Tierra. ___, le entrega calor». ¿Qué conector corresponde? A) Además B) Sin embargo C) Por lo tanto
 - **C3.** «Me gusta el mate frío; ___, mi vecino lo toma caliente». ¿Qué conector corresponde? A) finalmente B) porque C) en cambio
 
 *Aplicación*
@@ -896,7 +896,7 @@ Respuesta: La condensación es cuando el vapor se convierte en gotas de agua, co
 
 **Consigna exacta:** Diseña en papel dos láminas para una exposición de tres minutos sobre cómo se forma el arcoíris: una con el título y el mensaje principal, y otra con un esquema (dibuja o describe con flechas la luz del sol, la gota de lluvia y los colores). Debajo de cada una escribe: a) qué dirás mientras la muestras; b) qué eliminaste y por qué; c) una revisión con las tres preguntas (¿responde a lo que digo?, ¿se entiende en cinco segundos?, ¿qué eliminaría?).
 
-**Referencia para modelar y corregir:** Lámina 1: título «El arcoíris: luz que se separa en colores». Lámina 2: sol → gota de lluvia → luz que se separa en colores. a) Diré: «Cuando la luz del sol entra en una gota, se separa en colores». b) Eliminé un párrafo largo y una foto de paisaje porque no explicaban el proceso. c) Responde a lo que digo: sí; se entiende en cinco segundos: sí; eliminaría el sol decorativo.
+**Referencia para modelar y corregir:** Lámina 1: título «El arcoíris: luz que se separa en colores». Lámina 2: sol → gota de lluvia → luz que se separa en colores. a) Diré: «Cuando la luz del sol entra en una gota, se separa en colores». b) Eliminé un párrafo largo y una foto de paisaje porque no explicaban el proceso. c) Responde a lo que digo: sí; se entiende en cinco segundos: sí; eliminaría los adornos que rodean el esquema.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -910,7 +910,7 @@ Respuesta: La condensación es cuando el vapor se convierte en gotas de agua, co
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Lámina 1: título «El arcoíris: luz que se separa en colores». Lámina 2: sol → gota de lluvia → luz que se separa en colores. a) Diré: «Cuando la luz del sol entra en una gota, se separa en colores». b) Eliminé un párrafo largo y una foto de paisaje porque no explicaban el proceso. c) Responde a lo que digo: sí; se entiende en cinco segundos: sí; eliminaría el sol decorativo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Lámina 1: título «El arcoíris: luz que se separa en colores». Lámina 2: sol → gota de lluvia → luz que se separa en colores. a) Diré: «Cuando la luz del sol entra en una gota, se separa en colores». b) Eliminé un párrafo largo y una foto de paisaje porque no explicaban el proceso. c) Responde a lo que digo: sí; se entiende en cinco segundos: sí; eliminaría los adornos que rodean el esquema. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -1034,7 +1034,7 @@ Respuesta: Un gráfico de líneas
 - **E2.** Sí. Lo importante es la claridad.
 - **E3.** No. Distrae a la audiencia.
 
-**Actividad abierta · ejemplo de respuesta.** Lámina 1: título «El arcoíris: luz que se separa en colores». Lámina 2: sol → gota de lluvia → luz que se separa en colores. a) Diré: «Cuando la luz del sol entra en una gota, se separa en colores». b) Eliminé un párrafo largo y una foto de paisaje porque no explicaban el proceso. c) Responde a lo que digo: sí; se entiende en cinco segundos: sí; eliminaría el sol decorativo.
+**Actividad abierta · ejemplo de respuesta.** Lámina 1: título «El arcoíris: luz que se separa en colores». Lámina 2: sol → gota de lluvia → luz que se separa en colores. a) Diré: «Cuando la luz del sol entra en una gota, se separa en colores». b) Eliminé un párrafo largo y una foto de paisaje porque no explicaban el proceso. c) Responde a lo que digo: sí; se entiende en cinco segundos: sí; eliminaría los adornos que rodean el esquema.
 
 **Criterios para evaluarla:** mensaje principal en cada lámina; esquema pertinente; revisión con preguntas.
 

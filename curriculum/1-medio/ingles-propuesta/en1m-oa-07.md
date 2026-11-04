@@ -119,7 +119,7 @@ Una buena conexión es específica y se relaciona con una idea del texto. «I li
 
 *Ejemplo 1. Conexión personal*
 
-Problema: «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene) Escribe una conexión personal con I used to.
+Problema: «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene) Escribe una conexión personal con I used to.
 
 1. Pienso en un hábito pasado relacionado con volantines.
 2. Uso I used to + verbo.
@@ -129,7 +129,7 @@ Respuesta: I used to fly kites with my cousins (solía volar volantines con mis 
 
 *Ejemplo 2. Conexión con Ciencias*
 
-Problema: «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene) ¿Qué idea de Ciencias conecta con el texto?
+Problema: «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene) ¿Qué idea de Ciencias conecta con el texto?
 
 1. El texto dice que el viento empuja el volantín.
 2. En Ciencias, el viento es aire en movimiento y puede empujar objetos.
@@ -146,9 +146,9 @@ Respuesta: Que el viento es aire en movimiento y puede empujar un objeto
 
 *Recuperación*
 
-- **R1.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene) ¿Cómo se llaman los kites en Chile?
-- **R2.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene) ¿En qué mes muchas familias vuelan volantines en Chile?
-- **R3.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene) ¿Qué empuja al volantín hacia arriba? A) el viento B) el hilo
+- **R1.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene) ¿Cómo se llaman los kites en Chile?
+- **R2.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene) ¿En qué mes muchas familias vuelan volantines en Chile?
+- **R3.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene) ¿Qué empuja al volantín hacia arriba? A) el hilo B) el viento
 
 *Comprensión*
 
@@ -170,7 +170,7 @@ Respuesta: Que el viento es aire en movimiento y puede empujar un objeto
 *Desafío*
 
 - **D1.** Rosa dice: «I used to fly kites every September, but now I study on holidays». ¿Sigue volando volantines? A) no, used to marca un hábito pasado B) sí, todos los años
-- **D2.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind pushes it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, pushes = empuja, string = hilo, keeps = mantiene) ¿Cuál conexión NO se relaciona con el texto? A) I like pizza. B) I have seen kites on the beach.
+- **D2.** «Flying kites is a tradition in many countries. In Chile, kites are called volantines, and many families fly them in September. A kite flies because the wind lifts it up and the string keeps it in place.» (kite = volantín, tradition = tradición, wind = viento, lifts = levanta, string = hilo, keeps = mantiene) ¿Cuál conexión NO se relaciona con el texto? A) I like pizza. B) I have seen kites on the beach.
 
 *Situaciones auténticas*
 
@@ -188,7 +188,7 @@ Respuesta: Que el viento es aire en movimiento y puede empujar un objeto
 
 - **R1.** Volantines. El texto dice kites are called volantines.
 - **R2.** Septiembre. El texto dice in September.
-- **R3.** A) el viento. El texto dice the wind pushes it up.
+- **R3.** B) el viento. El texto dice the wind lifts it up.
 - **C1.** B) Moving air can push objects, like a kite. Relaciona el texto con una idea científica.
 - **C2.** A) I used to build paper kites with my sister. Cuenta algo vivido por quien habla.
 - **C3.** A) In Chile, flying kites is a family tradition in September. Habla de una tradición del país.
@@ -358,7 +358,7 @@ Respuesta: Más estudiantes se sentirían tranquilos
 
 - **R1.** «Longer breaks: yes or no? First, many students say that a longer break helps them relax and talk with friends. Then, teachers say that a longer break leaves less time for classes. For example, ten extra minutes every day add up to fifty minutes a week (example data). Although classes would be shorter, a longer break could help students pay attention. If the school gave fifteen more minutes, more students would feel calm. Finally, the class decided to ask the principal for a trial month.» (break = recreo, relax = relajarse, less time = menos tiempo, add up = sumar, pay attention = poner atención, calm = tranquilos, trial = de prueba, principal = director) ¿Qué palabra abre la secuencia? A) Finally B) First
 - **R2.** «Longer breaks: yes or no? First, many students say that a longer break helps them relax and talk with friends. Then, teachers say that a longer break leaves less time for classes. For example, ten extra minutes every day add up to fifty minutes a week (example data). Although classes would be shorter, a longer break could help students pay attention. If the school gave fifteen more minutes, more students would feel calm. Finally, the class decided to ask the principal for a trial month.» (break = recreo, relax = relajarse, less time = menos tiempo, add up = sumar, pay attention = poner atención, calm = tranquilos, trial = de prueba, principal = director) ¿Qué ejemplo da el texto sobre el tiempo extra?
-- **R3.** «Longer breaks: yes or no? First, many students say that a longer break helps them relax and talk with friends. Then, teachers say that a longer break leaves less time for classes. For example, ten extra minutes every day add up to fifty minutes a week (example data). Although classes would be shorter, a longer break could help students pay attention. If the school gave fifteen more minutes, more students would feel calm. Finally, the class decided to ask the principal for a trial month.» (break = recreo, relax = relajarse, less time = menos tiempo, add up = sumar, pay attention = poner atención, calm = tranquilos, trial = de prueba, principal = director) ¿Qué decidió la clase al final? A) pedir un mes de prueba al director B) eliminar las clases de la tarde
+- **R3.** «Longer breaks: yes or no? First, many students say that a longer break helps them relax and talk with friends. Then, teachers say that a longer break leaves less time for classes. For example, ten extra minutes every day add up to fifty minutes a week (example data). Although classes would be shorter, a longer break could help students pay attention. If the school gave fifteen more minutes, more students would feel calm. Finally, the class decided to ask the principal for a trial month.» (break = recreo, relax = relajarse, less time = menos tiempo, add up = sumar, pay attention = poner atención, calm = tranquilos, trial = de prueba, principal = director) ¿Qué decidió la clase al final? A) hacer una encuesta a los profesores B) pedir un mes de prueba al director
 
 *Comprensión*
 
@@ -398,7 +398,7 @@ Respuesta: Más estudiantes se sentirían tranquilos
 
 - **R1.** B) First. First introduce la primera razón.
 - **R2.** Diez minutos más cada día suman cincuenta minutos a la semana. Dice ten extra minutes every day add up to fifty minutes a week.
-- **R3.** A) pedir un mes de prueba al director. Dice Finally, the class decided to ask the principal for a trial month.
+- **R3.** B) pedir un mes de prueba al director. Dice Finally, the class decided to ask the principal for a trial month.
 - **C1.** A) ayuda a relajarse y hablar con amigos. Dice First, a longer break helps them relax and talk with friends.
 - **C2.** A) un ejemplo de que quita tiempo de clases. Concreta la idea con un caso.
 - **C3.** 1-b, 2-c, 3-a. Cada conector organiza ideas de un modo distinto.
@@ -594,7 +594,7 @@ Respuesta: According to the school survey
 
 *Situaciones auténticas*
 
-- **S1.** Lee: «I feel worried because the exam is tomorrow. I am happy because I studied.» (exam = prueba, studied = estudié). ¿Qué dos sentimientos expresa quien escribe? A) preocupación y alegría B) enojo y sorpresa
+- **S1.** Lee: «I feel worried because the exam is tomorrow. I am happy because I studied.» (exam = prueba, studied = estudié). ¿Qué dos sentimientos expresa quien escribe? A) tristeza y sorpresa B) preocupación y alegría
 
 *Autoevaluación*
 
@@ -619,7 +619,7 @@ Respuesta: According to the school survey
 - **Z2.** A) que los celulares son útiles para buscar palabras. El dato se relaciona con el uso para buscar palabras.
 - **D1.** B) use phones only when the teacher says so. El texto no los prohíbe: propone usarlos con una regla.
 - **D2.** B) However. However marca un contraste con la opinión anterior.
-- **S1.** A) preocupación y alegría. Worried es preocupado y happy es contento.
+- **S1.** B) preocupación y alegría. Worried es preocupado y happy es contento.
 - **E1.** El hecho se puede comprobar; la opinión es lo que alguien piensa. Se escriben con frases distintas.
 - **E2.** Para decir la fuente de un dato. Evita confundirlo con una opinión.
 - **E3.** I disagree. Es la forma contraria de I agree.
@@ -728,9 +728,9 @@ Respuesta: According to the school survey
 
 **Explicación.**
 
-Resumir (to summarize) es decir con pocas palabras las ideas principales de un solo texto. No se incluyen ejemplos ni detalles menores, y no se agregan datos nuevos. Un resumen de la fuente A: «Un huerto comunitario entrega verduras frescas, une a los vecinos y enseña cómo crecen las plantas».
+Resumir (to summarize) es decir con pocas palabras las ideas principales de un solo texto. No se incluyen ejemplos ni detalles menores, y no se agregan datos nuevos. Un resumen de la fuente A: «Una radio escolar da voz a los estudiantes, les enseña a hablar y a usar equipos, y comparte noticias con el colegio».
 
-Sintetizar (to synthesize) es unir las ideas de dos o más fuentes en un solo mensaje coherente. No es copiar una fuente y luego la otra: es relacionar. La síntesis de A y B podría ser: «Un huerto comunitario ofrece verduras y une a los vecinos, pero necesita agua, herramientas, voluntarios y a veces permiso de la ciudad». Se usan conectores como but y however para unir ventajas y condiciones.
+Sintetizar (to synthesize) es unir las ideas de dos o más fuentes en un solo mensaje coherente. No es copiar una fuente y luego la otra: es relacionar. La síntesis de A y B podría ser: «Una radio escolar da voz a los estudiantes y comparte noticias, pero necesita micrófono, una sala tranquila, voluntarios y a veces permiso de la dirección». Se usan conectores como but y however para unir ventajas y condiciones.
 
 Para resumir y sintetizar: 1) subraya las ideas principales de cada fuente, 2) elimina los ejemplos y los detalles, 3) une las ideas con conectores y 4) revisa que no agregaste datos que no estaban. Si un dato aparece en una fuente y se contradice con la otra, indícalo en tu síntesis.
 
@@ -749,23 +749,23 @@ Para resumir y sintetizar: 1) subraya las ideas principales de cada fuente, 2) e
 
 *Ejemplo 1. Resumir una fuente*
 
-Problema: Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Resume la fuente en una frase.
+Problema: Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Resume la fuente en una frase.
 
-1. Subrayo las ideas principales: verduras, vecinos, plantas.
+1. Subrayo las ideas principales: voz, práctica y noticias.
 2. Elimino los detalles.
 3. Uno las ideas en una frase.
 
-Respuesta: Un huerto comunitario entrega verduras frescas, une a los vecinos y enseña cómo crecen las plantas
+Respuesta: Una radio escolar da voz a los estudiantes, les enseña a hablar y a usar equipos, y comparte noticias con el colegio
 
 *Ejemplo 2. Sintetizar*
 
-Problema: Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) Escribe una frase que una las dos fuentes.
+Problema: Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) Escribe una frase que una las dos fuentes.
 
 1. La fuente A da ventajas.
 2. La fuente B da requisitos.
 3. Los uno con but.
 
-Respuesta: Un huerto comunitario da verduras y une a los vecinos, pero necesita agua, herramientas y voluntarios
+Respuesta: Una radio escolar da voz a los estudiantes y comparte noticias, pero necesita micrófono, una sala tranquila y voluntarios
 
 **Errores frecuentes y cómo reconocerlos**
 
@@ -776,31 +776,31 @@ Respuesta: Un huerto comunitario da verduras y une a los vecinos, pero necesita 
 
 *Recuperación*
 
-- **R1.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) ¿Qué da un huerto comunitario al barrio? A) verduras frescas B) dinero
-- **R2.** Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) ¿Qué necesita un huerto? A) maquinaria pesada B) agua, herramientas y voluntarios
-- **R3.** Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) ¿Qué pasa sin cuidado regular?
+- **R1.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) ¿Qué da una radio escolar a los estudiantes? A) un sueldo por sus programas B) una voz para hablar con el colegio
+- **R2.** Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) ¿Qué necesita una radio escolar? A) una antena gigante y un estudio profesional B) micrófono, sala tranquila y voluntarios
+- **R3.** Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) ¿Qué pasa sin un plan semanal?
 
 *Comprensión*
 
-- **C1.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) ¿Cuál es el mejor resumen? A) Un huerto da verduras, une a los vecinos y enseña B) Un huerto es un jardín grande
-- **C2.** Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) ¿Qué permiso puede necesitar un huerto? A) de un banco B) de la ciudad para usar el terreno
-- **C3.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) ¿Qué aprenden los niños? A) a cocinar platos B) cómo crece la comida
+- **C1.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) ¿Cuál es el mejor resumen? A) Una radio escolar es un aparato con un micrófono B) Una radio escolar da voz, enseña a hablar y a usar equipos, y comparte noticias
+- **C2.** Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) ¿Qué permiso puede necesitar una radio escolar? A) del director para usar la sala B) de un banco
+- **C3.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) ¿Qué practican los estudiantes? A) cantar en un coro B) hablar y usar equipos
 
 *Aplicación*
 
-- **A1.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) ¿Qué conector une mejor las ventajas con los requisitos en una síntesis? A) but B) because
-- **A2.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) ¿Qué fuente habla de los problemas o requisitos? A) la fuente A B) la fuente B
+- **A1.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) ¿Qué conector une mejor las ventajas con los requisitos en una síntesis? A) but B) because
+- **A2.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) ¿Qué fuente habla de los problemas o requisitos? A) la fuente A B) la fuente B
 - **A3.** Une cada tarea con su definición. 1) summarize 2) synthesize 3) detail Definiciones: a) unir ideas de varias fuentes b) dato menor que se omite en el resumen c) reducir un texto a lo esencial
 
 *Razonamiento y análisis*
 
-- **Z1.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) Una síntesis dice: «Los huertos comunitarios son un negocio rentable». ¿Es correcta? A) no, las fuentes no hablan de dinero B) sí, porque dan verduras
-- **Z2.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) ¿Cuál síntesis es mejor? A) Un huerto comunitario necesita agua B) Un huerto comunitario beneficia al barrio, pero necesita agua, herramientas y voluntarios
+- **Z1.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) Una síntesis dice: «Las radios escolares son un negocio rentable». ¿Es correcta? A) no, las fuentes no hablan de dinero B) sí, porque los estudiantes hablan
+- **Z2.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) ¿Cuál síntesis es mejor? A) Una radio escolar beneficia al colegio, pero necesita micrófono, sala tranquila y voluntarios B) Una radio escolar necesita un micrófono
 
 *Desafío*
 
-- **D1.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) ¿Cuántas oraciones tiene la fuente A? A) tres B) dos
-- **D2.** Fuente A: «A community garden gives fresh vegetables to the neighborhood. Neighbors work together and learn about plants. Children can see how food grows.» (community garden = huerto comunitario, vegetables = verduras, neighbors = vecinos, grows = crece) Fuente B: «A community garden needs water, tools and volunteers. Without regular care, the plants die. Some gardens also need permission from the city to use the land.» (tools = herramientas, volunteers = voluntarios, regular care = cuidado regular, die = mueren, permission = permiso, land = terreno) Un compañero dice que la fuente B contradice la fuente A. ¿Es correcto? A) no, completa la información con requisitos B) sí, dice lo opuesto
+- **D1.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) ¿Cuántas oraciones tiene la fuente A? A) tres B) dos
+- **D2.** Fuente A: «A school radio gives students a voice. Students practice speaking and learn to use equipment. They also share news with the school.» (school radio = radio escolar, voice = voz, practice = practicar, equipment = equipos, share = compartir, news = noticias) Fuente B: «A school radio needs a microphone, a quiet room and volunteers. Without a weekly plan, the programs stop. Some schools also need permission from the principal to use the room.» (microphone = micrófono, quiet = tranquila, volunteers = voluntarios, weekly = semanal, stop = se detienen, permission = permiso, principal = director) Un compañero dice que la fuente B contradice la fuente A. ¿Es correcto? A) no, completa la información con requisitos B) sí, dice lo opuesto
 
 *Situaciones auténticas*
 
@@ -816,18 +816,18 @@ Respuesta: Un huerto comunitario da verduras y une a los vecinos, pero necesita 
 
 **Solucionario razonado**
 
-- **R1.** A) verduras frescas. La fuente A dice fresh vegetables.
-- **R2.** B) agua, herramientas y voluntarios. La fuente B lo dice en la primera oración.
-- **R3.** Las plantas mueren. La fuente B dice the plants die.
-- **C1.** A) Un huerto da verduras, une a los vecinos y enseña. Reúne las tres ideas principales.
-- **C2.** B) de la ciudad para usar el terreno. La fuente B lo dice.
-- **C3.** B) cómo crece la comida. Dice Children can see how food grows.
+- **R1.** B) una voz para hablar con el colegio. La fuente A dice gives students a voice.
+- **R2.** B) micrófono, sala tranquila y voluntarios. La fuente B lo dice en la primera oración.
+- **R3.** Los programas se detienen. La fuente B dice the programs stop.
+- **C1.** B) Una radio escolar da voz, enseña a hablar y a usar equipos, y comparte noticias. Reúne las tres ideas principales.
+- **C2.** A) de la ciudad para usar el terreno. La fuente B lo dice.
+- **C3.** B) hablar y usar equipos. Dice Students practice speaking and learn to use equipment.
 - **A1.** A) but. But marca el contraste entre lo bueno y lo que se necesita.
-- **A2.** B) la fuente B. La fuente B menciona agua, herramientas, cuidado y permiso.
+- **A2.** B) la fuente B. La fuente B menciona micrófono, sala, plan semanal y permiso.
 - **A3.** 1-c, 2-a, 3-b. Cada término describe un paso distinto del trabajo con textos.
 - **Z1.** A) no, las fuentes no hablan de dinero. Una síntesis no agrega datos que no están en las fuentes.
-- **Z2.** B) Un huerto comunitario beneficia al barrio, pero necesita agua, herramientas y voluntarios. Une ideas de ambas fuentes.
-- **D1.** A) tres. Cada oración aporta una idea: las verduras; los vecinos y las plantas; los niños.
+- **Z2.** A) Una radio escolar beneficia al colegio, pero necesita micrófono, sala tranquila y voluntarios. Une ideas de ambas fuentes.
+- **D1.** A) tres. Cada oración aporta una idea: la voz; la práctica y los equipos; las noticias.
 - **D2.** A) no, completa la información con requisitos. La fuente B agrega lo que se necesita; no se opone.
 - **S1.** But. Une la ventaja de la fuente 1 con la condición de la fuente 2.
 - **E1.** Se reducen las ideas principales de un texto. Se omiten detalles.
@@ -844,7 +844,7 @@ Respuesta: Un huerto comunitario da verduras y une a los vecinos, pero necesita 
 
 **Retroalimentación constructiva:** Valora la síntesis lograda y revisa que cada dato venga de alguna fuente.
 
-**Refuerzo.** Vuelve a leer la fuente B del huerto y subraya solo las ideas principales.
+**Refuerzo.** Vuelve a leer la fuente B de la radio y subraya solo las ideas principales.
 
 **Profundización.** Escribe en español dos fuentes sobre un tema de tu curso y una síntesis de una frase.
 

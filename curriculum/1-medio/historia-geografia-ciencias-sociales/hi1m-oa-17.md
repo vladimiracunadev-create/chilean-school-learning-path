@@ -151,13 +151,13 @@ Respuesta: Por el impuesto a la exportación que financiaba obras y educación
 *Comprensión*
 
 - **C1.** En Historia: ¿qué es un ingreso fiscal?
-- **C2.** Línea de tiempo: 1879-1884, guerra del Pacífico, tras la cual Chile controla las provincias salitreras de Tarapacá y Antofagasta; 1883, se crea la Sociedad de Fomento Fabril, que reúne a industriales; 1886-1891, gobierno de Balmaceda, con fuerte impulso a obras públicas, ferrocarriles y liceos; 1889, se funda el Instituto Pedagógico para formar profesores de enseñanza media; desde las primeras décadas del siglo XX, el salitre natural pierde mercado frente al salitre sintético fabricado en Europa. ¿Qué provincias salitreras pasó a controlar Chile? A) Chiloé y Magallanes, B) Valdivia y Llanquihue, C) Tarapacá y Antofagasta.
+- **C2.** Línea de tiempo: 1879-1884, guerra del Pacífico, tras la cual Chile controla las provincias salitreras de Tarapacá y Antofagasta; 1883, se crea la Sociedad de Fomento Fabril, que reúne a industriales; 1886-1891, gobierno de Balmaceda, con fuerte impulso a obras públicas, ferrocarriles y liceos; 1889, se funda el Instituto Pedagógico para formar profesores de enseñanza media; desde las primeras décadas del siglo XX, el salitre natural pierde mercado frente al salitre sintético fabricado en Europa. ¿Qué provincias salitreras pasó a controlar Chile? A) Biobío y Arauco, B) Atacama y Coquimbo, C) Tarapacá y Antofagasta.
 - **C3.** Une cada obra con su tipo: 1) ferrocarril, 2) liceo, 3) puerto. a) obra para educar, b) obra que lleva carga y pasajeros por tierra sobre rieles, c) obra donde los barcos cargan y descargan. Escribe las parejas.
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1879-1884, guerra del Pacífico, tras la cual Chile controla las provincias salitreras de Tarapacá y Antofagasta; 1883, se crea la Sociedad de Fomento Fabril, que reúne a industriales; 1886-1891, gobierno de Balmaceda, con fuerte impulso a obras públicas, ferrocarriles y liceos; 1889, se funda el Instituto Pedagógico para formar profesores de enseñanza media; desde las primeras décadas del siglo XX, el salitre natural pierde mercado frente al salitre sintético fabricado en Europa. ¿Cuántos años pasaron entre el término de la guerra (1884) y la fundación del Instituto Pedagógico?
-- **A2.** Línea de tiempo: 1879-1884, guerra del Pacífico, tras la cual Chile controla las provincias salitreras de Tarapacá y Antofagasta; 1883, se crea la Sociedad de Fomento Fabril, que reúne a industriales; 1886-1891, gobierno de Balmaceda, con fuerte impulso a obras públicas, ferrocarriles y liceos; 1889, se funda el Instituto Pedagógico para formar profesores de enseñanza media; desde las primeras décadas del siglo XX, el salitre natural pierde mercado frente al salitre sintético fabricado en Europa. ¿Cuántos años pasaron entre la creación de la Sociedad de Fomento Fabril y el inicio del gobierno de Balmaceda?
+- **A1.** Línea de tiempo: 1879-1884, guerra del Pacífico, tras la cual Chile controla las provincias salitreras de Tarapacá y Antofagasta; 1883, se crea la Sociedad de Fomento Fabril, que reúne a industriales; 1886-1891, gobierno de Balmaceda, con fuerte impulso a obras públicas, ferrocarriles y liceos; 1889, se funda el Instituto Pedagógico para formar profesores de enseñanza media; desde las primeras décadas del siglo XX, el salitre natural pierde mercado frente al salitre sintético fabricado en Europa. Ordena de más antiguo a más reciente: fundación del Instituto Pedagógico, inicio del gobierno de Balmaceda, creación de la Sociedad de Fomento Fabril y término de la guerra del Pacífico.
+- **A2.** Línea de tiempo: 1879-1884, guerra del Pacífico, tras la cual Chile controla las provincias salitreras de Tarapacá y Antofagasta; 1883, se crea la Sociedad de Fomento Fabril, que reúne a industriales; 1886-1891, gobierno de Balmaceda, con fuerte impulso a obras públicas, ferrocarriles y liceos; 1889, se funda el Instituto Pedagógico para formar profesores de enseñanza media; desde las primeras décadas del siglo XX, el salitre natural pierde mercado frente al salitre sintético fabricado en Europa. ¿Qué obras impulsó el gobierno de Balmaceda según la línea de tiempo?
 - **A3.** Una compañera dice: «El Estado chileno era dueño de todas las oficinas salitreras». ¿Qué corrección haces?
 
 *Razonamiento y análisis*
@@ -190,8 +190,8 @@ Respuesta: Por el impuesto a la exportación que financiaba obras y educación
 - **C1.** El dinero que recibe el Estado, por ejemplo por impuestos. El impuesto salitrero lo aumentó.
 - **C2.** C. La línea lo señala.
 - **C3.** 1-b, 2-a, 3-c. Cada obra corresponde a un uso de la inversión.
-- **A1.** 5. Se restan ambas fechas. Cálculo: 1889 − 1884 = 5.
-- **A2.** 3. Se restan las fechas de la línea. Cálculo: 1886 − 1883 = 3.
+- **A1.** Sociedad de Fomento Fabril, término de la guerra, gobierno de Balmaceda, Instituto Pedagógico. Se ordenan por sus años: 1883, 1884, 1886 y 1889.
+- **A2.** Obras públicas, ferrocarriles y liceos. La línea las nombra junto a su gobierno.
 - **A3.** Las oficinas eran de empresas; el Estado cobraba un impuesto a la exportación. La explicación distingue propiedad e impuesto.
 - **Z1.** La aparición del salitre sintético fabricado en Europa. Redujo el mercado del salitre natural.
 - **Z2.** Porque si el producto perdía mercado, como el salitre frente al sintético, los ingresos del Estado y del país caían. La dependencia hace vulnerable la economía.
@@ -364,7 +364,7 @@ Respuesta: No prueba que se hicieran las obras ni a quiénes beneficiaron
 
 *Aplicación*
 
-- **A1.** En otro año de ejemplo, de 80 millones de ingresos fiscales, 32 vinieron del salitre. ¿Cuántos millones vinieron de otras fuentes?
+- **A1.** Fuente A (tabla de ejemplo): ingresos fiscales de un año de ejemplo, 100 millones de pesos, de los cuales 45 millones provienen de impuestos al salitre y 55 millones de otras fuentes. Fuente B (informe de una autoridad, texto de ejemplo): «Con las rentas del salitre se construirán caminos, puentes y escuelas en todo el país.» Fuente C (testimonio de un obrero salitrero, de ejemplo): «Trabajamos al sol; nos pagan con fichas que solo valen en la pulpería de la oficina.» Fuente D (informe de un visitante extranjero, de ejemplo): «El comercio del puerto ha crecido y llegan muchos barcos.» Fuente E (historiadora actual, texto de ejemplo): «El auge salitrero fortaleció al Estado, pero mantuvo desigualdades.» ¿Permite la Fuente A saber cuántos obreros trabajaban en el salitre? Justifica.
 - **A2.** Fuente A (tabla de ejemplo): ingresos fiscales de un año de ejemplo, 100 millones de pesos, de los cuales 45 millones provienen de impuestos al salitre y 55 millones de otras fuentes. Fuente B (informe de una autoridad, texto de ejemplo): «Con las rentas del salitre se construirán caminos, puentes y escuelas en todo el país.» Fuente C (testimonio de un obrero salitrero, de ejemplo): «Trabajamos al sol; nos pagan con fichas que solo valen en la pulpería de la oficina.» Fuente D (informe de un visitante extranjero, de ejemplo): «El comercio del puerto ha crecido y llegan muchos barcos.» Fuente E (historiadora actual, texto de ejemplo): «El auge salitrero fortaleció al Estado, pero mantuvo desigualdades.» Si el año siguiente los ingresos por salitre fueron 60 millones de un total de 120, ¿qué porcentaje es el salitre?
 - **A3.** Fuente A (tabla de ejemplo): ingresos fiscales de un año de ejemplo, 100 millones de pesos, de los cuales 45 millones provienen de impuestos al salitre y 55 millones de otras fuentes. Fuente B (informe de una autoridad, texto de ejemplo): «Con las rentas del salitre se construirán caminos, puentes y escuelas en todo el país.» Fuente C (testimonio de un obrero salitrero, de ejemplo): «Trabajamos al sol; nos pagan con fichas que solo valen en la pulpería de la oficina.» Fuente D (informe de un visitante extranjero, de ejemplo): «El comercio del puerto ha crecido y llegan muchos barcos.» Fuente E (historiadora actual, texto de ejemplo): «El auge salitrero fortaleció al Estado, pero mantuvo desigualdades.» ¿Qué fuente muestra las condiciones de trabajo de los obreros? A) la A, B) la D, C) la C.
 
@@ -398,7 +398,7 @@ Respuesta: No prueba que se hicieran las obras ni a quiénes beneficiaron
 - **C1.** Secundaria. La escribe una historiadora actual.
 - **C2.** C. El informe lo dice.
 - **C3.** La Fuente B es una promesa de obras y no muestra la vida de los obreros. Es un anuncio, no una prueba.
-- **A1.** 48. Se resta el salitre del total. Cálculo: 80 − 32 = 48.
+- **A1.** No, porque solo muestra ingresos fiscales. Es un límite de la tabla.
 - **A2.** 50. Se divide el salitre entre el total y se pasa a porcentaje. Cálculo: 60 × 100 ÷ 120 = 50.
 - **A3.** C. El testimonio obrero lo hace.
 - **Z1.** Porque la tabla muestra los ingresos del Estado y el testimonio muestra cómo vivían los obreros que producían esa riqueza. Una es dato general y otra experiencia.
@@ -572,8 +572,8 @@ Respuesta: Condiciones de vida con pocos servicios
 
 *Aplicación*
 
-- **A1.** Una ciudad del norte de ejemplo tenía 8.000 habitantes y pasó a 20.000. ¿Cuántos habitantes más tiene?
-- **A2.** Un ferrocarril de ejemplo recorre 240 kilómetros en 8 horas con velocidad constante. ¿Cuántos kilómetros recorre por hora?
+- **A1.** Cuadro de ejemplo. Cambio: aumentaron los ingresos fiscales; se construyeron ferrocarriles, puertos, puentes y edificios públicos; se abrieron más escuelas y liceos; crecieron las ciudades del norte, la industria y el comercio. Continuidad: el centro del país seguía con haciendas; la economía dependía de exportar un solo producto; muchas personas vivían en conventillos o en campamentos mineros con pocos servicios; el voto seguía restringido a un grupo. ¿Qué sectores productivos crecieron según el cuadro?
+- **A2.** Cuadro de ejemplo. Cambio: aumentaron los ingresos fiscales; se construyeron ferrocarriles, puertos, puentes y edificios públicos; se abrieron más escuelas y liceos; crecieron las ciudades del norte, la industria y el comercio. Continuidad: el centro del país seguía con haciendas; la economía dependía de exportar un solo producto; muchas personas vivían en conventillos o en campamentos mineros con pocos servicios; el voto seguía restringido a un grupo. ¿Qué condiciones de vida continuaron para muchas personas según el cuadro?
 - **A3.** Explica por qué decir que «la modernización llegó a todos por igual» es inexacto.
 
 *Razonamiento y análisis*
@@ -606,8 +606,8 @@ Respuesta: Condiciones de vida con pocos servicios
 - **C1.** Cambio. Es una ampliación de la educación.
 - **C2.** Continuidad. El cuadro lo lista como continuidad.
 - **C3.** B. Las otras son cambios.
-- **A1.** 12.000. Se resta la población antigua de la nueva. Cálculo: 20000 − 8000 = 12.000.
-- **A2.** 30. Se divide la distancia entre las horas. Cálculo: 240 ÷ 8 = 30.
+- **A1.** La industria y el comercio. El cuadro los menciona entre los cambios.
+- **A2.** Vivían en conventillos o en campamentos mineros con pocos servicios. El cuadro lo lista como continuidad.
 - **A3.** Porque hubo lugares y grupos con pocos servicios, como campamentos y conventillos. La modernización fue desigual.
 - **Z1.** El cuadro dice que el centro del país seguía con haciendas. La continuidad rural se mantiene.
 - **Z2.** Que la economía era vulnerable si el producto perdía mercado. La dependencia hace frágil al país.
@@ -780,8 +780,8 @@ Respuesta: El capital extranjero y chileno y la migración de trabajadores
 
 *Aplicación*
 
-- **A1.** En una oficina de ejemplo trabajan 900 obreros; 150 son de la zona y el resto migró desde el sur. ¿Cuántos migraron?
-- **A2.** Un taller de ejemplo vende 40 herramientas por semana a las oficinas. ¿Cuántas vende en 6 semanas?
+- **A1.** Voces de ejemplo, redactadas para este cuaderno. Ministro de Hacienda: «Con los impuestos al salitre podemos financiar escuelas y ferrocarriles.» Empresario salitrero: «Mi empresa produce y exporta; necesito que los impuestos sean razonables.» Hacendado del valle central: «Vendo carne y trigo a las oficinas del norte.» Obrero salitrero: «Mi pago son fichas y trabajo sin descanso.» Empleado de una oficina pública: «El Estado crece y necesita más funcionarios.» Dueño de un taller de la ciudad: «Mi industria vende herramientas y ropa a los trabajadores del norte.» ¿Qué actor vende herramientas y ropa a los trabajadores del norte?
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Ministro de Hacienda: «Con los impuestos al salitre podemos financiar escuelas y ferrocarriles.» Empresario salitrero: «Mi empresa produce y exporta; necesito que los impuestos sean razonables.» Hacendado del valle central: «Vendo carne y trigo a las oficinas del norte.» Obrero salitrero: «Mi pago son fichas y trabajo sin descanso.» Empleado de una oficina pública: «El Estado crece y necesita más funcionarios.» Dueño de un taller de la ciudad: «Mi industria vende herramientas y ropa a los trabajadores del norte.» Explica por qué el hacendado del valle central se beneficiaba del salitre aunque no trabajaba en el norte.
 - **A3.** Voces de ejemplo, redactadas para este cuaderno. Ministro de Hacienda: «Con los impuestos al salitre podemos financiar escuelas y ferrocarriles.» Empresario salitrero: «Mi empresa produce y exporta; necesito que los impuestos sean razonables.» Hacendado del valle central: «Vendo carne y trigo a las oficinas del norte.» Obrero salitrero: «Mi pago son fichas y trabajo sin descanso.» Empleado de una oficina pública: «El Estado crece y necesita más funcionarios.» Dueño de un taller de la ciudad: «Mi industria vende herramientas y ropa a los trabajadores del norte.» Una compañera dice que el obrero y el empresario tenían el mismo interés. Explica por qué es discutible.
 
 *Razonamiento y análisis*
@@ -814,8 +814,8 @@ Respuesta: El capital extranjero y chileno y la migración de trabajadores
 - **C1.** Más funcionarios. Su voz lo dice.
 - **C2.** 1-c, 2-a, 3-b. Cada voz expresa un interés distinto.
 - **C3.** A. Su voz lo dice.
-- **A1.** 750. Se resta los locales del total. Cálculo: 900 − 150 = 750.
-- **A2.** 240. Se multiplica por las semanas. Cálculo: 40 × 6 = 240.
+- **A1.** El dueño de un taller de la ciudad. Su voz lo dice.
+- **A2.** Porque vendía carne y trigo a las oficinas del norte, que eran un mercado para sus productos. El auge del norte creó demanda de alimentos.
 - **A3.** Porque el empresario busca ganancias y bajos costos mientras el obrero busca mejores pagos y condiciones. Sus intereses chocaban.
 - **Z1.** Porque influyeron la demanda mundial, los impuestos, el capital y la mano de obra que migró. Varias causas se combinaron.
 - **Z2.** El ministro ve recursos para el país; el obrero ve trabajo duro y pagos en fichas. Sus lugares son distintos.

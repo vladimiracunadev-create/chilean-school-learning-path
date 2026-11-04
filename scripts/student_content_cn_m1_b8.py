@@ -55,7 +55,7 @@ L(OA, 1,
   app=[
       arith("Una botella abierta tenía 420 g y después de la reacción tiene 416 g. ¿Cuántos gramos de gas escaparon?", "420-416", "Se resta la masa final a la inicial.", " g"),
       arith("Una lana de acero de 20 g se oxida y pasa a 26 g. ¿Cuántos gramos de oxígeno incorporó?", "26-20", "Se resta la masa inicial a la final.", " g"),
-      arith("En una botella cerrada se mezclan 150 g de reactantes y 100 g de agua. ¿Cuántos gramos tendrá el sistema después de la reacción?", "150+100", "La masa total se conserva.", " g"),
+      arith("En una botella cerrada se mezclan 150 g de reactantes y 120 g de agua. ¿Cuántos gramos tendrá el sistema después de la reacción?", "150+120", "La masa total se conserva.", " g"),
   ],
   rea=[
       ("Un compañero dice que, al quemar papel, la masa desaparece. ¿Qué corrección es correcta? A) Los gases y las cenizas, sumados, igualan la masa del papel más el oxígeno usado; los gases escapan B) Tiene razón, la masa se destruye", "A", "La masa no se destruye: se encuentra en los gases."),

@@ -157,8 +157,8 @@ Respuesta: Chile se insertó en el mercado mundial sin industrializarse plenamen
 
 *Aplicación*
 
-- **A1.** De cada 100 pesos exportados en un año de ejemplo, 60 fueron minerales (plata y cobre) y 25 fueron trigo. ¿Cuántos pesos de cada 100 corresponden a otros productos?
-- **A2.** En un contrato de ejemplo (cifras inventadas para practicar), un inquilino debe trabajar 200 días al año para la hacienda. ¿Cuántos días del año (365) le quedan para su propio terreno y descanso?
+- **A1.** Clasifica como exportación o importación de Chile en el siglo XIX: plata en barras, una locomotora comprada a una fábrica extranjera, sacos de trigo y rollos de tela.
+- **A2.** En el inquilinaje, ¿qué entrega el dueño de la hacienda y qué entrega la familia inquilina?
 - **A3.** Clasifica estos dos rasgos: A) hacienda con inquilinos, B) fábrica con máquinas de vapor. ¿Cuál es el rasgo de la economía rural tradicional?
 
 *Razonamiento y análisis*
@@ -191,8 +191,8 @@ Respuesta: Chile se insertó en el mercado mundial sin industrializarse plenamen
 - **C1.** La zona central, en haciendas. El mapa-resumen une trigo, zona central y hacienda.
 - **C2.** A. La economía exportadora chilena se basaba en recursos naturales.
 - **C3.** Era importante porque era el puerto principal por donde salían las exportaciones y entraban las importaciones. Su papel era comercial, no fabril.
-- **A1.** 15. Al total se le restan las dos partes conocidas. Cálculo: 100 − 60 − 25 = 15.
-- **A2.** 165. Se resta el trabajo para la hacienda del total de días. Cálculo: 365 − 200 = 165.
+- **A1.** Exportación: plata y trigo; importación: locomotora y telas. Los recursos naturales salían del país y las manufacturas entraban.
+- **A2.** El dueño entrega casa y tierra; la familia entrega su trabajo. Es el intercambio que define el inquilinaje.
 - **A3.** A. La hacienda con inquilinos es el rasgo tradicional y rural.
 - **Z1.** Muestra recursos naturales y haciendas de trigo, no fábricas. Los datos del mapa son extracción y agricultura.
 - **Z2.** La hacienda podía producir trigo con trabajo de inquilinos y venderlo en mercados externos. El comercio externo y el trabajo tradicional no se excluyen.
@@ -331,7 +331,7 @@ Ninguna fuente lo dice todo. Cada una tiene límites: el informe del comerciante
 Problema: Se tiene un contrato de ejemplo entre un hacendado y un inquilino, firmado en el siglo XIX. ¿Es fuente primaria o secundaria, y quién tiene más voz en ella?
 
 1. El contrato nació en la época estudiada: es primaria.
-2. Lo redactan las condiciones que impone la hacienda.
+2. Lo redactó el dueño de la hacienda, que impone las condiciones.
 3. Por eso la voz del dueño pesa más que la del inquilino.
 
 Respuesta: Fuente primaria; predomina la perspectiva del dueño
@@ -368,7 +368,7 @@ Respuesta: No permite conocer la vida de las familias del campo
 *Aplicación*
 
 - **A1.** Fuente A (informe de un comerciante extranjero a su empresa, texto de ejemplo): «El puerto envía trigo y cobre y recibe telas y herramientas; los campos son extensos y los inquilinos viven en la hacienda.» Fuente B (contrato de ejemplo): «Se entrega al inquilino una casa y una parcela; a cambio trabajará para la hacienda cuando se le ordene.» Fuente C (tabla estatal de ejemplo): exportaciones del año, 60 % minerales, 25 % trigo, 15 % otros. Fuente D (libro de un historiador actual, texto de ejemplo): «La economía chilena creció hacia afuera sin transformar su estructura rural.» Si el valor total exportado fue 200 millones de pesos de ejemplo, ¿cuántos millones corresponden al 25 % de trigo según la Fuente C?
-- **A2.** Fuente A (informe de un comerciante extranjero a su empresa, texto de ejemplo): «El puerto envía trigo y cobre y recibe telas y herramientas; los campos son extensos y los inquilinos viven en la hacienda.» Fuente B (contrato de ejemplo): «Se entrega al inquilino una casa y una parcela; a cambio trabajará para la hacienda cuando se le ordene.» Fuente C (tabla estatal de ejemplo): exportaciones del año, 60 % minerales, 25 % trigo, 15 % otros. Fuente D (libro de un historiador actual, texto de ejemplo): «La economía chilena creció hacia afuera sin transformar su estructura rural.» Si en la tabla los minerales son el 60 % y el trigo el 25 %, ¿qué porcentaje suman los dos?
+- **A2.** Fuente A (informe de un comerciante extranjero a su empresa, texto de ejemplo): «El puerto envía trigo y cobre y recibe telas y herramientas; los campos son extensos y los inquilinos viven en la hacienda.» Fuente B (contrato de ejemplo): «Se entrega al inquilino una casa y una parcela; a cambio trabajará para la hacienda cuando se le ordene.» Fuente C (tabla estatal de ejemplo): exportaciones del año, 60 % minerales, 25 % trigo, 15 % otros. Fuente D (libro de un historiador actual, texto de ejemplo): «La economía chilena creció hacia afuera sin transformar su estructura rural.» Según la Fuente C, ¿qué categoría tuvo la menor participación en las exportaciones del año y qué porcentaje?
 - **A3.** Fuente A (informe de un comerciante extranjero a su empresa, texto de ejemplo): «El puerto envía trigo y cobre y recibe telas y herramientas; los campos son extensos y los inquilinos viven en la hacienda.» Fuente B (contrato de ejemplo): «Se entrega al inquilino una casa y una parcela; a cambio trabajará para la hacienda cuando se le ordene.» Fuente C (tabla estatal de ejemplo): exportaciones del año, 60 % minerales, 25 % trigo, 15 % otros. Fuente D (libro de un historiador actual, texto de ejemplo): «La economía chilena creció hacia afuera sin transformar su estructura rural.» Según la Fuente A, ¿qué productos entran al puerto desde afuera?
 
 *Razonamiento y análisis*
@@ -402,7 +402,7 @@ Respuesta: No permite conocer la vida de las familias del campo
 - **C2.** A. El contrato plantea intercambio de vivienda y tierra por trabajo.
 - **C3.** Que la tabla la hizo el Estado y muestra lo que decidió contar y cómo lo clasificó. Toda fuente tiene autor y criterios.
 - **A1.** 50. El 25 % de 200 es la cuarta parte. Cálculo: 200 × 25 ÷ 100 = 50.
-- **A2.** 85. Se suman los porcentajes de ambas categorías. Cálculo: 60 + 25 = 85.
+- **A2.** Otros productos, con 15 %. El 15 % es el menor de los tres valores de la tabla.
 - **A3.** Telas y herramientas. El comerciante los menciona como productos que recibe el puerto.
 - **Z1.** C. La tabla solo cuantifica exportaciones.
 - **Z2.** Porque el contrato muestra la relación concreta de la hacienda y el historiador la interpreta en el conjunto de la economía. Una fuente primaria y una secundaria se complementan.
@@ -576,8 +576,8 @@ Respuesta: Porque conectaba la zona central con su puerto
 
 *Aplicación*
 
-- **A1.** En un problema de ejemplo (cifras inventadas para practicar), un viaje de carga entre Santiago y Valparaíso tardaba 48 horas por camino y 12 horas por tren. ¿Cuántas horas se ahorraban?
-- **A2.** En una hacienda de ejemplo había 40 familias inquilinas; 6 se fueron a trabajar a una mina. ¿Cuántas familias inquilinas quedaron?
+- **A1.** Un dueño de hacienda de la zona central quiere enviar trigo al extranjero. Ordena los pasos según lo aprendido: 1) el trigo llega al puerto de Valparaíso, 2) se cosecha en la hacienda, 3) se embarca hacia otro país, 4) viaja por tren o camino.
+- **A2.** Explica por qué el ferrocarril entre Santiago y Valparaíso es un cambio y la hacienda con inquilinos es una continuidad.
 - **A3.** Cuadro de ejemplo, siglo XIX. Cambio: antes los puertos recibían pocos barcos; después, el comercio con Europa y Estados Unidos creció, llegó el ferrocarril entre Santiago y Valparaíso en 1863 y se exportó plata, cobre, trigo y carbón. Continuidad: en la zona central las haciendas seguían siendo la gran unidad agrícola y las familias inquilinas trabajaban a cambio de casa y tierra. Una compañera dice: «Con el ferrocarril, toda la economía rural dejó de ser tradicional». ¿Qué evidencia del cuadro la contradice?
 
 *Razonamiento y análisis*
@@ -610,8 +610,8 @@ Respuesta: Porque conectaba la zona central con su puerto
 - **C1.** Cambio. Es parte de la conexión con mercados nuevos.
 - **C2.** Continuidad. El cuadro lo describe como práctica que sigue.
 - **C3.** 1-c, 2-a, 3-b. Cada recurso se ubica en su zona.
-- **A1.** 36. El ahorro es la diferencia entre ambos tiempos. Cálculo: 48 − 12 = 36.
-- **A2.** 34. Se resta las que se fueron. Cálculo: 40 − 6 = 34.
+- **A1.** 2, 4, 1, 3. Primero se cosecha, luego se transporta al puerto y por último se embarca.
+- **A2.** Porque el ferrocarril era algo nuevo en esa época y la hacienda con inquilinos seguía como antes. Cambio es lo que se transforma; continuidad es lo que se mantiene.
 - **A3.** Las haciendas y el inquilinaje continuaban en la zona central. La continuidad rural sigue en el cuadro.
 - **Z1.** Porque ellas seguían bajo relaciones de poder tradicionales con el dueño aunque llegara el comercio. El trabajo del campo no cambió al mismo ritmo.
 - **Z2.** B. Combina cambio comercial y continuidad rural.
@@ -785,8 +785,8 @@ Respuesta: Demanda del mundo atlántico y puertos y barcos
 
 *Aplicación*
 
-- **A1.** En una hacienda de ejemplo, de 50 familias, 35 son inquilinas y el resto son peones sin tierra. ¿Cuántas son peones?
-- **A2.** Una mina de ejemplo emplea 120 mineros; 30 son extranjeros. ¿Cuántos mineros no son extranjeros?
+- **A1.** Ordena de mayor a menor autoridad sobre el trabajo en una hacienda, según lo explicado: A) la familia inquilina, B) el hacendado. ¿Quién da las órdenes y quién las cumple?
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Hacendado: «Los precios del trigo suben; necesito más trabajo en la cosecha.» Comerciante del puerto: «Compro trigo y cobre y vendo telas.» Familia inquilina: «Tenemos casa y tierra, pero debemos trabajar cuando la hacienda lo ordena.» Minero del norte: «El trabajo en la mina es duro y se paga según el mineral que se saque.» ¿Qué dos actores del cuadro de voces compran o venden productos en el puerto y cuáles trabajan directamente la tierra o la mina?
 - **A3.** Una compañera dice que «el éxito del trigo se debe solo a la voluntad de los hacendados». Según lo explicado en la clase, menciona una causa distinta que lo complete.
 
 *Razonamiento y análisis*
@@ -819,8 +819,8 @@ Respuesta: Demanda del mundo atlántico y puertos y barcos
 - **C1.** El hacendado. Su voz lo dice.
 - **C2.** 1-c, 2-b, 3-a. Cada voz expresa un interés propio.
 - **C3.** A. Su lugar en la economía es distinto.
-- **A1.** 15. El total menos las inquilinas. Cálculo: 50 − 35 = 15.
-- **A2.** 90. Se resta el grupo extranjero del total. Cálculo: 120 − 30 = 90.
+- **A1.** El hacendado da las órdenes y la familia inquilina las cumple. Muestra la relación de poder desigual de la hacienda.
+- **A2.** Venden o compran: hacendado y comerciante; trabajan: familia inquilina y minero. Distingue a quienes negocian de quienes realizan el trabajo directo.
 - **A3.** La demanda de compradores en mercados externos. El trigo se vendió por la demanda externa.
 - **Z1.** Porque el hacendado buscaba trabajo y ganancias mientras la familia buscaba conservar casa y tierra bajo órdenes. Las posiciones de poder eran desiguales.
 - **Z2.** La familia depende del permiso del dueño para trabajar y vivir; el comerciante vive de comprar y vender. Una relación es de dependencia y la otra de intercambio.
@@ -989,13 +989,13 @@ Respuesta: Es excesiva porque el dossier no prueba que no existiera ninguna fáb
 *Comprensión*
 
 - **C1.** Dossier de ejemplo. Dato 1: la exportación de trigo, cobre y carbón creció en el siglo XIX gracias a mercados externos. Dato 2: Chile compraba textiles y maquinaria fabricados afuera. Dato 3: en la zona central la hacienda y el inquilinaje continuaron organizando el trabajo. Dato 4: el ferrocarril entre Santiago y Valparaíso abrió en 1863. ¿Qué dato del dossier se relaciona con la persistencia de la economía rural? A) dato 1, B) dato 3, C) dato 4.
-- **C2.** Elige la tesis mejor formulada. A) Chile era un país bonito, B) Chile se insertó en el mercado mundial como exportador de materias primas sin industrializarse plenamente, C) Hubo muchos barcos.
+- **C2.** Elige la afirmación que sirve como tesis para responder «¿Se industrializó Chile en el siglo XIX?». A) Chile exportó trigo en el siglo XIX, B) La hacienda es una gran propiedad agrícola, C) Chile se insertó en el mercado mundial como exportador de materias primas sin industrializarse plenamente.
 - **C3.** Una compañera usa como evidencia «el ferrocarril abrió en 1863» para sostener que la hacienda desapareció. ¿Por qué no es pertinente?
 
 *Aplicación*
 
-- **A1.** Dossier de ejemplo. Dato 1: la exportación de trigo, cobre y carbón creció en el siglo XIX gracias a mercados externos. Dato 2: Chile compraba textiles y maquinaria fabricados afuera. Dato 3: en la zona central la hacienda y el inquilinaje continuaron organizando el trabajo. Dato 4: el ferrocarril entre Santiago y Valparaíso abrió en 1863. Si el dossier tiene 4 datos y 2 apoyan la inserción exportadora, ¿cuántos datos quedan para otras ideas?
-- **A2.** Un grupo escribe 5 líneas: 1 de tesis, 3 de evidencia y el resto de límite. ¿Cuántas líneas son de límite?
+- **A1.** Dossier de ejemplo. Dato 1: la exportación de trigo, cobre y carbón creció en el siglo XIX gracias a mercados externos. Dato 2: Chile compraba textiles y maquinaria fabricados afuera. Dato 3: en la zona central la hacienda y el inquilinaje continuaron organizando el trabajo. Dato 4: el ferrocarril entre Santiago y Valparaíso abrió en 1863. ¿Qué dato del dossier muestra un cambio en la conexión de Chile con el mundo y cuál una continuidad en el campo?
+- **A2.** Un grupo escribe una tesis y la apoya solo con el dato «el puerto de Valparaíso se llenó de barcos». ¿Qué falta para que sea un argumento completo?
 - **A3.** Dossier de ejemplo. Dato 1: la exportación de trigo, cobre y carbón creció en el siglo XIX gracias a mercados externos. Dato 2: Chile compraba textiles y maquinaria fabricados afuera. Dato 3: en la zona central la hacienda y el inquilinaje continuaron organizando el trabajo. Dato 4: el ferrocarril entre Santiago y Valparaíso abrió en 1863. Con los datos 3 y 4, ¿qué conclusión proporcional puedes escribir?
 
 *Razonamiento y análisis*
@@ -1026,10 +1026,10 @@ Respuesta: Es excesiva porque el dossier no prueba que no existiera ninguna fáb
 - **R2.** Un dato o fuente que apoya una tesis. Sostiene lo que se afirma.
 - **R3.** El dato 2. Menciona textiles y maquinaria.
 - **C1.** B. El dato 3 habla de hacienda e inquilinaje.
-- **C2.** B. Es una afirmación defendible con datos.
+- **C2.** C. Es una afirmación defendible con datos.
 - **C3.** Porque el ferrocarril no prueba que la hacienda desapareciera. El dato no se relaciona con esa tesis.
-- **A1.** 2. Se restan los datos usados. Cálculo: 4 − 2 = 2.
-- **A2.** 1. Se restan tesis y evidencia del total. Cálculo: 5 − 1 − 3 = 1.
+- **A1.** Cambio: el dato 4 (ferrocarril); continuidad: el dato 3 (hacienda e inquilinaje). El ferrocarril es nuevo; la hacienda continúa.
+- **A2.** Más de una evidencia pertinente y un límite. Un argumento completo requiere varias evidencias y reconocer lo que no se puede afirmar.
 - **A3.** Que el ferrocarril mejoró la conexión, pero el campo central siguió con hacienda e inquilinaje. Une cambio y continuidad sin exagerar.
 - **Z1.** Porque evita afirmar más de lo que la evidencia permite. El límite da honestidad intelectual.
 - **Z2.** Afirma «nada» y «todos» sin evidencia suficiente. Los absolutos rara vez se sostienen.

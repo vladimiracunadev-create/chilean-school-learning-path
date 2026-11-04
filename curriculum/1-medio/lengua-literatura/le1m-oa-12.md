@@ -378,7 +378,7 @@ Respuesta: El horario y la norma de silencio
 *Desafío*
 
 - **D1.** Quieres investigar el género «cartel». Modelos: 1) título grande, imagen, horario. 2) título grande, imagen, lugar. ¿Cuáles son rasgos comunes? A) título grande e imagen B) horario y lugar
-- **D2.** Tienes 10 datos pero el género solo permite 5 líneas. ¿Qué haces: seleccionas los cinco más pertinentes o los reduces todos a una sola palabra?
+- **D2.** Tienes 10 datos pero el género solo permite 5 líneas. ¿Qué haces? A) selecciono los cinco más pertinentes B) escribo los diez con letra más chica para que quepan
 
 *Situaciones auténticas*
 
@@ -406,7 +406,7 @@ Respuesta: El horario y la norma de silencio
 - **Z1.** A) que debe llevar solo lo útil para el propósito. El género es breve y práctico; el exceso no cabe y confunde.
 - **Z2.** No necesariamente. No aparece en los dos modelos.
 - **D1.** A) título grande e imagen. Están en ambos modelos.
-- **D2.** Selecciono los cinco más pertinentes. Elegir mantiene el sentido.
+- **D2.** A) selecciono los cinco más pertinentes. Elegir mantiene el sentido y la extensión del género; la letra chica perjudica la lectura.
 - **S1.** A) «Solicito una reunión». Es lo que pide el autor.
 - **E1.** Investigar modelos. Permite conocer sus rasgos.
 - **E2.** Quedarse con los datos que sirven al propósito. Se descartan los demás.
@@ -590,7 +590,7 @@ Respuesta: En la parte de la petición, después del motivo
 
 *Situaciones auténticas*
 
-- **S1.** Tu pódcast de ejemplo tiene tres segmentos: noticia (2 min), entrevista (3 min) y cierre (1 min). ¿Cuánto dura en total?
+- **S1.** Tu pódcast de ejemplo debe durar 7 minutos. Ya planificaste la noticia (2 min) y la entrevista (3 min). ¿Cuántos minutos le quedan al cierre?
 
 *Autoevaluación*
 
@@ -615,7 +615,7 @@ Respuesta: En la parte de la petición, después del motivo
 - **Z2.** El A. Tiene las partes de una carta formal.
 - **D1.** B) el orden no ayuda a la lectura, porque los datos prácticos deben ir antes de la invitación final. La invitación cierra el folleto; si va antes, el lector llega a los datos sin guía.
 - **D2.** B) cortesía y cierre. La despedida cierra con respeto; la petición sigue en el plan.
-- **S1.** 6. 2 más 3 más 1 son 6 minutos.
+- **S1.** 2. 7 menos 2 menos 3 deja 2 minutos para el cierre.
 - **E1.** Estructura, datos, registro y extensión. Permite escribir con orden.
 - **E2.** Sí. Se ajusta si mejora el texto.
 - **E3.** La despedida. Concluye con cortesía.
@@ -1001,7 +1001,7 @@ Respuesta: La mitad de los estudiantes (300 de 600) usa la biblioteca
 
 *Desafío*
 
-- **D1.** Fuente de ejemplo: «La biblioteca abre de 15:00 a 17:30». Borrador: «La biblioteca abre por la tarde». ¿Cuántas horas y minutos abre? Escribe en minutos.
+- **D1.** Fuente de ejemplo: «La biblioteca abre de 15:00 a 17:30». Borrador: «La biblioteca abre por la tarde». ¿Cuántos minutos abre en total?
 - **D2.** Borrador: «Hay normas. Cumple las normas. Las normas son importantes». ¿Qué falta para dar información útil? A) repetir «normas» B) decir cuáles son las normas
 
 *Situaciones auténticas*

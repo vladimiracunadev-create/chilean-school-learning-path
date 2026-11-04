@@ -105,7 +105,7 @@ build(
 # ---------------------------------------------------------------- clase 3
 F = ("Ficha 3 (cuadro de cambio y continuidad; territorios). "
      "Imperios que desaparecen al terminar la guerra: Imperio alemán, Imperio austrohúngaro, Imperio ruso e Imperio otomano. "
-     "Estados nuevos o restaurados en Europa tras la guerra: Polonia, Checoslovaquia, Yugoslavia (entonces llamada Reino de los serbios, croatas y eslovenos), Finlandia, Estonia, Letonia y Lituania. "
+     "Estados nuevos o restaurados en Europa hacia el final de la guerra y después de ella: Polonia, Checoslovaquia, Yugoslavia (entonces llamada Reino de los serbios, croatas y eslovenos), Finlandia, Estonia, Letonia y Lituania. "
      "URSS: la Revolución rusa de 1917 lleva a la creación de la Unión de Repúblicas Socialistas Soviéticas en 1922. "
      "Estados Unidos: entra en la guerra en 1917; después de la guerra es una potencia económica con créditos a países europeos. "
      "Continuidades: las colonias de Gran Bretaña y Francia se mantienen; parte de las colonias alemanas pasan a ser administradas por vencedores.")
@@ -133,8 +133,8 @@ build(
         ("{F} Cuenta los Estados nuevos o restaurados que nombra la ficha y escribe el número.", "7", "Son Polonia, Checoslovaquia, Yugoslavia, Finlandia, Estonia, Letonia y Lituania."),
         ("{F} ¿Qué es un cambio? A) Desaparecieron cuatro imperios B) Gran Bretaña y Francia mantuvieron sus colonias", "A) Desaparecieron cuatro imperios", "La B es una continuidad."),
         ("{F} ¿Qué es una continuidad? A) Gran Bretaña y Francia mantuvieron sus colonias B) Surgió la URSS", "A) Gran Bretaña y Francia mantuvieron sus colonias", "Es algo que se mantuvo."),
-        ("{F} ¿Qué Estado nuevo surgió en el territorio del Imperio ruso? A) Finlandia B) Francia", "A) Finlandia", "La ficha lo incluye entre los Estados nuevos."),
-        ("{F} ¿Qué región cambió su papel después de la guerra? A) Estados Unidos, que pasó a ser potencia económica B) Francia, que dejó de existir", "A) Estados Unidos, que pasó a ser potencia económica", "Prestó dinero a Europa."),
+        ("{F} ¿Cuál de estos países no figura entre los Estados nuevos o restaurados de la ficha? A) Francia B) Polonia", "A) Francia", "Polonia está en la lista de la ficha; Francia ya existía antes de la guerra."),
+        ("{F} ¿Qué región cambió su papel después de la guerra? A) Estados Unidos, que pasó a ser potencia económica B) Francia, que perdió todas sus colonias", "A) Estados Unidos, que pasó a ser potencia económica", "Prestó dinero a Europa."),
         ("{F} ¿Por qué se dice que el centro del poder mundial empezó a moverse?", "Porque Estados Unidos y la URSS ganaron importancia frente a las potencias europeas", "Surgieron nuevas potencias."),
         ("{F} Un compañero dice: «Con la guerra, todos los pueblos colonizados lograron la independencia». Refútalo.", "La ficha señala que Gran Bretaña y Francia mantuvieron sus colonias", "Hubo continuidad colonial."),
         ("{F} ¿Qué problema pudo quedar en los nuevos Estados? A) Minorías dentro de sus fronteras B) Ninguno", "A) Minorías dentro de sus fronteras", "Las fronteras no coincidían siempre con las identidades."),
@@ -182,13 +182,13 @@ build(
         ("{F} ¿Qué reclama el habitante de la colonia?", "Que lo llevan a combatir en una guerra que no es suya y sin prometerle nada", "Su voz lo dice."),
         ("{F} ¿Qué actor teme morir en el frente? A) El soldado B) El gobernante", "A) El soldado", "Ve morir a sus compañeros."),
         ("{F} ¿Qué actor señala una desigualdad de género? A) La mujer obrera B) El soldado", "A) La mujer obrera", "Dice que le pagan menos que a los hombres."),
-        ("{F} ¿Qué actor representa a la sociedad civil movilizada? A) La mujer obrera B) El pacifista", "A) La mujer obrera", "Trabaja en la fábrica para sostener la guerra."),
+        ("{F} ¿Qué actor representa a la sociedad civil movilizada? A) La mujer obrera B) El soldado", "A) La mujer obrera", "Trabaja en la fábrica para sostener la guerra."),
         ("{F} ¿Qué actor quiere sostener la guerra? A) El gobernante B) El pacifista", "A) El gobernante", "Pide colaboración de todos."),
         ("{F} ¿Por qué el soldado y el gobernante ven distinto la guerra?", "Porque el soldado vive la muerte y el gobernante busca mantener la guerra", "Sus posiciones son distintas."),
         ("{F} Un compañero dice: «Todos estaban de acuerdo con la guerra». Refútalo con la ficha.", "El pacifista pidió negociar y el habitante de la colonia dice que no era su guerra", "Hubo voces contrarias."),
         ("{F} ¿Qué voz falta para completar la perspectiva de la sociedad civil? A) La de un niño que sufrió hambre por el racionamiento B) La de otro gobernante", "A) La de un niño que sufrió hambre por el racionamiento", "Es otra vivencia civil."),
         ("{F} ¿Qué conclusión es más equilibrada? A) La guerra involucró a soldados, trabajadoras, gobernantes y colonias, con visiones y costos distintos B) La guerra fue aceptada por todos igual", "A) La guerra involucró a soldados, trabajadoras, gobernantes y colonias, con visiones y costos distintos", "Reúne las cinco voces."),
-        ("{F} ¿Qué pregunta ayuda a contrastar actores? A) ¿Qué quiere, qué le conviene y qué teme cada uno? B) ¿Quién fue el más famoso?", "A) ¿Qué quiere, qué le conviene y qué teme cada uno?", "Es el método de contraste."),
+        ("{F} ¿Qué pregunta ayuda a contrastar actores? A) ¿Qué quiere, qué le conviene y qué teme cada uno? B) ¿Qué actor tiene la razón y cuál se equivoca?", "A) ¿Qué quiere, qué le conviene y qué teme cada uno?", "Es el método de contraste."),
     ],
     ctx=("Para un debate escolar, un grupo defiende la guerra y otro la critica. ¿Qué voz de la ficha usaría el segundo grupo? A) La del pacifista B) La del gobernante", "A) La del pacifista", "Pide negociar la paz."),
     sc=[("¿Qué es un pacifista?", "Una persona que rechaza la guerra y busca la paz", "Así se define."),
@@ -233,7 +233,7 @@ build(
         ("=", "{F} ¿Cuántos años después del voto en Gran Bretaña (1918) llegó el voto femenino en Estados Unidos?", "1920-1918", "Se resta el año británico al de Estados Unidos.", " años"),
         ("{F} ¿Qué afirmación responde la pregunta? A) La guerra transformó la sociedad y rediseñó el orden mundial B) La guerra no cambió nada", "A) La guerra transformó la sociedad y rediseñó el orden mundial", "Se apoya en los cinco datos."),
         ("{F} ¿Qué dato sirve de límite a la idea de que todas las mujeres obtuvieron el voto? A) El dato 2, que señala que en Gran Bretaña solo mayores de 30 años B) El dato 4", "A) El dato 2, que señala que en Gran Bretaña solo mayores de 30 años", "Muestra una restricción."),
-        ("{F} Completa el razonamiento: «El dato 5 apoya el cambio de mentalidad porque…» A) la ciencia y la técnica se usaron para matar B) se inventó el teléfono", "A) la ciencia y la técnica se usaron para matar", "Puso en duda el progreso."),
+        ("{F} Completa el razonamiento: «El dato 5 apoya el cambio de mentalidad porque…» A) la ciencia y la técnica se usaron para matar B) las mujeres entraron a las fábricas", "A) la ciencia y la técnica se usaron para matar", "Puso en duda el progreso."),
         ("{F} Un compañero escribe: «La guerra no afectó a la población civil». ¿Qué dato lo contradice?", "El dato 1, la movilización general de la economía y la población civil", "La sociedad quedó al servicio de la guerra."),
         ("{F} ¿Por qué el dato 2 es una evidencia parcial?", "Porque el voto femenino no llegó a todas las mujeres ni a todos los países en esas fechas", "La ficha muestra restricciones y fechas distintas."),
         ("{F} ¿Qué palabra hace más proporcional la conclusión? A) «en varios países» B) «en todo el mundo»", "A) «en varios países»", "Se limita a la evidencia."),
@@ -283,7 +283,7 @@ build(
         ("=", "{F} ¿Cuántos años pasaron entre el armisticio de 1918 y el inicio de la Segunda Guerra Mundial?", "1939-1918", "Se resta el año del armisticio al del inicio.", " años"),
         ("=", "{F} ¿Cuántos años pasaron entre la Sociedad de Naciones y el inicio de la Segunda Guerra Mundial?", "1939-1920", "Se resta el año de la Sociedad al del inicio.", " años"),
         ("{F} ¿Qué efecto tuvo el regreso de los hombres en el trabajo de las mujeres? A) Muchas perdieron los trabajos que ocupaban B) Todas conservaron sus trabajos", "A) Muchas perdieron los trabajos que ocupaban", "La ficha lo señala."),
-        ("{F} ¿Cómo vieron muchos alemanes el Tratado? A) Como una humillación B) Como un premio", "A) Como una humillación", "La ficha lo dice."),
+        ("{F} ¿Cómo vieron muchos alemanes el Tratado? A) Como una humillación B) Como un acuerdo justo que aceptaron sin reclamos", "A) Como una humillación", "La ficha lo dice."),
         ("{F} ¿Qué límite tuvo el nuevo orden para las colonias? A) No obtuvieron la independencia B) Se independizaron todas", "A) No obtuvieron la independencia", "La ficha lo señala."),
         ("{F} ¿Qué relación puede plantearse entre Versalles y la Segunda Guerra? A) Contribuyó a tensiones que influyeron, junto a otros factores B) Fue la única causa", "A) Contribuyó a tensiones que influyeron, junto a otros factores", "La explicación pide matizar."),
         ("{F} ¿Por qué la ausencia de Estados Unidos debilitó a la Sociedad de Naciones?", "Porque era una potencia importante y no formó parte de la organización", "Sin esa potencia, tenía menos poder."),

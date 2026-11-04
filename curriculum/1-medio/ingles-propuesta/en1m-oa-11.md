@@ -64,7 +64,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Consigna exacta:** Lee este encargo: el diario del colegio necesita una noticia sobre una feria de ciencias. Datos de ejemplo: jueves; 40 estudiantes de 1.º medio; presentaron 12 proyectos en el gimnasio; una asistente dijo: «I loved the solar oven». Escribe en una hoja el titular, el lead, el cuerpo, la cita y un pie de foto para una foto imaginaria. Revisa con los cinco criterios y marca cada uno.
 
-**Referencia para modelar y corregir:** Headline: Students show 12 science projects. Lead: On Thursday, 40 students from first year of high school presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors.
+**Referencia para modelar y corregir:** Headline: Students show 12 science projects. Lead: On Thursday, 40 first-year students presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Headline: Students show 12 science projects. Lead: On Thursday, 40 students from first year of high school presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Headline: Students show 12 science projects. Lead: On Thursday, 40 first-year students presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -149,13 +149,13 @@ Respuesta: Class 2A plants trees
 *Recuperación*
 
 - **R1.** En una noticia, ¿cómo se llama el título corto? A) caption B) headline
-- **R2.** ¿Qué cuatro preguntas responde el lead de una noticia? Escríbelas en inglés, separadas por comas.
+- **R2.** ¿Qué cuatro preguntas responde el lead de una noticia? Escríbelas en inglés, separadas por comas y en el orden de la explicación.
 - **R3.** El titular «Students plant 60 saplings» usa A) presente simple B) pasado simple
 
 *Comprensión*
 
 - **C1.** Lead: «On Monday, the school band played in the main square.» ¿Dónde ocurrió el hecho? Responde en español.
-- **C2.** ¿Cuál de estas oraciones es el lead de una noticia? A) Everybody enjoyed the music B) On Monday, the school band played in the main square C) «We practised for a month,» said Lía.
+- **C2.** ¿Cuál de estas oraciones es el lead de una noticia? A) Everybody enjoyed the music B) «We practiced for a month,» said Lía C) On Monday, the school band played in the main square.
 - **C3.** Una foto muestra a estudiantes plantando árboles. ¿Qué pie de foto agrega un dato nuevo? A) Volunteers planted 40 young trees on Saturday B) Students plant trees.
 
 *Aplicación*
@@ -166,7 +166,7 @@ Respuesta: Class 2A plants trees
 
 *Razonamiento y análisis*
 
-- **Z1.** Lead: «On Saturday, 15 neighbours repaired a fence.» ¿Qué dato de who, what, where y when falta? Responde con una palabra en inglés.
+- **Z1.** Lead: «On Saturday, 15 neighbors repaired a fence.» ¿Qué dato de who, what, where y when falta? Responde con una palabra en inglés.
 - **Z2.** Noticia borrador. Headline: Big day at school! Lead: On Thursday, the choir of Class 3C sang at the town library. Body: They sang six songs for 80 people. Quote: «We were nervous but happy,» said Eva. Caption: The choir at the library. Con los cinco criterios de la clase, ¿cuántos cumple? Responde con un número.
 
 *Desafío*
@@ -192,7 +192,7 @@ Respuesta: Class 2A plants trees
 - **R2.** who, what, where, when. Son los cuatro datos que el lector necesita en la primera oración.
 - **R3.** A. Plant, sin -ed, es presente simple; así se escriben los titulares.
 - **C1.** En la plaza principal. La frase in the main square da el lugar.
-- **C2.** B. Responde who, what, where y when; las otras son una opinión y una cita.
+- **C2.** C. Responde who, what, where y when; las otras son una opinión y una cita.
 - **C3.** A. Agrega número y día; el otro solo repite lo que ya se ve.
 - **A1.** b, a, d, c. El orden del modelo es titular, lead, cuerpo y cita.
 - **A2.** collected. Es un verbo regular: collect más -ed.
@@ -206,7 +206,7 @@ Respuesta: Class 2A plants trees
 - **E2.** said. Said va después de la cita y antes o después del nombre.
 - **E3.** Un dato nuevo. No debe repetir lo que ya dice la noticia.
 
-**Actividad abierta · ejemplo de respuesta.** Headline: Students show 12 science projects. Lead: On Thursday, 40 students from first year of high school presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors.
+**Actividad abierta · ejemplo de respuesta.** Headline: Students show 12 science projects. Lead: On Thursday, 40 first-year students presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors.
 
 **Criterios para evaluarla:** titular corto con verbo en presente simple; lead con who, what, where y when; cuerpo en pasado simple con un dato, cita con said y pie de foto con dato nuevo.
 
@@ -276,7 +276,7 @@ Respuesta: Class 2A plants trees
 
 **Consigna exacta:** Lee este encargo: elige una de estas dos instrucciones y escríbela en una hoja con título How to, materiales con dos puntos y de cuatro a seis pasos numerados, con palabras de secuencia y un ícono descrito entre corchetes en cada paso. Opción 1: cómo organizar la mochila para mañana. Opción 2: cómo preparar un horario semanal de estudio. Revisa con los cinco criterios y marca cada uno.
 
-**Referencia para modelar y corregir:** How to pack your backpack. Materials: your timetable, your backpack. First, read tomorrow's timetable [calendar icon]. Next, put the notebooks in the backpack [notebook icon]. Then add a pencil case [pencil icon]. Finally, check the bag [check icon].
+**Referencia para modelar y corregir:** How to pack your backpack. Materials: your timetable, your backpack. 1. First, read tomorrow's timetable [calendar icon]. 2. Next, put the notebooks in the backpack [notebook icon]. 3. Then add a pencil case [pencil icon]. 4. Finally, check the bag [check icon].
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -290,7 +290,7 @@ Respuesta: Class 2A plants trees
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: How to pack your backpack. Materials: your timetable, your backpack. First, read tomorrow's timetable [calendar icon]. Next, put the notebooks in the backpack [notebook icon]. Then add a pencil case [pencil icon]. Finally, check the bag [check icon]. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: How to pack your backpack. Materials: your timetable, your backpack. 1. First, read tomorrow's timetable [calendar icon]. 2. Next, put the notebooks in the backpack [notebook icon]. 3. Then add a pencil case [pencil icon]. 4. Finally, check the bag [check icon]. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -314,7 +314,7 @@ Las instrucciones (instructions) explican cómo hacer algo y su propósito (purp
 
 Las palabras de secuencia ordenan los pasos: First, Next, Then, After that y Finally. Para advertir de un error posible se usa Don't + verbo: Don't press hard. Para dar un dato útil, Remember to + verbo. El recurso multimodal son los íconos: un dibujo simple junto a cada paso, como un reloj para el tiempo o un lápiz para escribir, que apoya el texto y ayuda a quien lee con prisa. Un ícono no reemplaza al verbo.
 
-Criterios: 1) título con How to; 2) materiales con dos puntos; 3) cada paso comienza con un verbo en imperativo; 4) pasos en orden, con palabras de secuencia, una acción por paso; 5) un ícono o dibujo por paso, descrito entre corchetes. Modelo: «How to make a study timer. Materials: a phone or clock, a pencil, a sheet. First, write your task on the sheet [pencil icon]. Next, set the clock for 25 minutes [clock icon]. Finally, stop and rest for 5 minutes [chair icon]».
+Criterios: 1) título con How to; 2) materiales con dos puntos; 3) cada paso comienza con un verbo en imperativo; 4) pasos en orden, numerados o con palabras de secuencia, una acción por paso; 5) un ícono o dibujo por paso, descrito entre corchetes. Modelo: «How to make a study timer. Materials: a phone or clock, a pencil, a sheet. First, write your task on the sheet [pencil icon]. Next, set the clock for 25 minutes [clock icon]. Finally, stop and rest for 5 minutes [chair icon]».
 
 **Palabras importantes**
 
@@ -360,7 +360,7 @@ Respuesta: Write the date on the sheet.
 
 *Recuperación*
 
-- **R1.** ¿Con qué empieza el título de unas instrucciones? A) How to B) Dear
+- **R1.** ¿Con qué empieza el título de unas instrucciones? A) All about B) How to
 - **R2.** ¿Cuál empieza como un paso de instrucciones? A) You are folding the sheet B) Fold the sheet in half.
 - **R3.** ¿Qué palabra de secuencia cierra la lista de pasos? Escríbela en inglés.
 
@@ -384,7 +384,7 @@ Respuesta: Write the date on the sheet.
 *Desafío*
 
 - **D1.** Pasos: 1. Write the title. 2. Choose a picture. 3. Print the page. 4. Stick the page on the wall. Un paso inventado dice: «Check the picture is clear.» ¿Entre qué números debe ir para que tenga sentido, antes de imprimir? Responde con los números.
-- **D2.** Para el paso «Put the poster on the wall» necesitas un aviso. ¿Cuál es mejor? A) Don't use tape on the paint B) Put the tape on the paint.
+- **D2.** Para el paso «Put the poster on the wall» necesitas un aviso. ¿Cuál es mejor? A) Don't use tape on the paint B) Remember to buy more tape.
 
 *Situaciones auténticas*
 
@@ -400,7 +400,7 @@ Respuesta: Write the date on the sheet.
 
 **Solucionario razonado**
 
-- **R1.** A. How to anuncia que se explicará cómo hacer algo; Dear es de un correo.
+- **R1.** B. How to anuncia que se explicará cómo hacer algo; All about presenta un tema, pero no pasos.
 - **R2.** B. Un paso comienza con el verbo en forma base.
 - **R3.** Finally. Finally indica el último paso.
 - **C1.** B. Remember to + verbo recuerda algo importante al lector.
@@ -412,13 +412,13 @@ Respuesta: Write the date on the sheet.
 - **Z1.** A. El título es correcto, pero no hay íconos entre corchetes en los pasos.
 - **Z2.** A. Separa las acciones y usa secuencia.
 - **D1.** Entre 2 y 3. Se revisa la imagen elegida antes de imprimir.
-- **D2.** A. Don't advierte de un daño posible a la pared; la otra opción es un paso, no una advertencia.
+- **D2.** A. Don't advierte de un daño posible a la pared; Remember to da un dato útil, pero no avisa de un daño.
 - **S1.** A. Los pasos numerados con íconos se siguen más rápido.
 - **E1.** Con un verbo en imperativo. Fold, Write y Close son ejemplos.
 - **E2.** Dos puntos. Los dos puntos anuncian la lista.
 - **E3.** Una. Un paso, una acción.
 
-**Actividad abierta · ejemplo de respuesta.** How to pack your backpack. Materials: your timetable, your backpack. First, read tomorrow's timetable [calendar icon]. Next, put the notebooks in the backpack [notebook icon]. Then add a pencil case [pencil icon]. Finally, check the bag [check icon].
+**Actividad abierta · ejemplo de respuesta.** How to pack your backpack. Materials: your timetable, your backpack. 1. First, read tomorrow's timetable [calendar icon]. 2. Next, put the notebooks in the backpack [notebook icon]. 3. Then add a pencil case [pencil icon]. 4. Finally, check the bag [check icon].
 
 **Criterios para evaluarla:** título con How to y materiales con dos puntos; cada paso empieza con un verbo y lleva una sola acción; pasos en orden con palabras de secuencia y un ícono por paso.
 
@@ -700,7 +700,7 @@ Respuesta: Rosa won a school science fair in 2008.
 
 **Consigna exacta:** Lee este encargo: escribe el texto de un folleto para el evento ficticio «Concierto de otoño del taller de música». Datos: sábado a las 7 p.m.; en el patio techado; entrada: $2.000; 10 canciones. Escribe en una hoja un título llamativo, subtítulos con viñetas (What, When, Where y Price), una imagen descrita entre corchetes y una invitación final. Revisa con los cinco criterios.
 
-**Referencia para modelar y corregir:** Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen!
+**Referencia para modelar y corregir:** Join our Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen!
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -714,7 +714,7 @@ Respuesta: Rosa won a school science fair in 2008.
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen! |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Join our Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen! |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -784,20 +784,20 @@ Respuesta: Where: in the main hall.
 
 *Recuperación*
 
-- **R1.** Un folleto es una hoja A) con una sola cita B) plegada que informa e invita
+- **R1.** Un folleto es una hoja A) que solo cuenta una historia en pasado B) plegada que informa e invita
 - **R2.** ¿Qué significa free en la sección Price? Responde en español.
-- **R3.** ¿Cuál es un llamado a la acción? A) It was a cold day B) Join us!
+- **R3.** ¿Cuál es un llamado a la acción? A) Price: free B) Join us!
 
 *Comprensión*
 
-- **C1.** Folleto: «What: board games. When: on Saturday at 11 a.m. Where: in the community centre. Price: $2.000.» ¿Cuánto cuesta y dónde es?
+- **C1.** Folleto: «What: board games. When: on Saturday at 11 a.m. Where: in the community center. Price: $2.000.» ¿Cuánto cuesta y dónde es?
 - **C2.** ¿Cuál es el subtítulo que indica el lugar del evento? A) Price B) Where
 - **C3.** Elige la preposición correcta: «The party is ___ Friday.» A) on B) at
 
 *Aplicación*
 
 - **A1.** Completa con on o at: «The workshop is ___ Thursday ___ 5 p.m.»
-- **A2.** Escribe la viñeta de lugar con estos datos, empezando con Where: el gimnasio del colegio.
+- **A2.** Escribe la viñeta de lugar con estos datos, empezando con Where: y usando at: el gimnasio del colegio.
 - **A3.** Cuenta las palabras de la viñeta «When: on Friday at 4 p.m.» (sin contar los signos). Responde con el número.
 
 *Razonamiento y análisis*
@@ -826,7 +826,7 @@ Respuesta: Where: in the main hall.
 
 - **R1.** B. Un folleto informa y también invita.
 - **R2.** Gratis. Free indica que no cuesta dinero.
-- **R3.** B. Join us! invita al lector a participar.
+- **R3.** B. Join us! invita al lector a participar; Price: free es un dato, no una invitación.
 - **C1.** $2.000; en el centro comunitario. Price da $2.000 y Where da el lugar.
 - **C2.** B. Where pregunta dónde; Price indica cuánto cuesta.
 - **C3.** A. Con días de la semana se usa on.
@@ -842,7 +842,7 @@ Respuesta: Where: in the main hall.
 - **E2.** 10. El criterio 4 lo pide.
 - **E3.** Call to action. Es el llamado a la acción.
 
-**Actividad abierta · ejemplo de respuesta.** Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen!
+**Actividad abierta · ejemplo de respuesta.** Join our Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen!
 
 **Criterios para evaluarla:** título llamativo e invitación final; subtítulos con viñetas de máximo 10 palabras; datos what, when, where y price correctos, e imagen descrita.
 
@@ -910,7 +910,7 @@ Respuesta: Where: in the main hall.
 
 **Recurso listo para usar:** El texto, los criterios y los datos escritos en cada ejercicio, lápiz y una hoja. Sin materiales especiales.
 
-**Consigna exacta:** Lee este texto ficticio y escribe un resumen. Texto: «The school radio starts at 8 a.m. Students read the news for five minutes. Then they play a short song and share the weather. Last month, 30 students asked to join the team. The team meets every Tuesday to practise». El texto tiene 40 palabras, así que tu resumen puede tener como máximo 13. Escribe en una hoja un resumen con la idea principal y un detalle, sin opiniones, y añade un esquema de tres cajas. Revisa con los cinco criterios.
+**Consigna exacta:** Lee este texto ficticio y escribe un resumen. Texto: «The school radio starts at 8 a.m. Students read the news for five minutes. Then they play a short song and share the weather. Last month, 30 students asked to join the team. The team meets every Tuesday to practice». El texto tiene 40 palabras, así que tu resumen puede tener como máximo 13. Escribe en una hoja un resumen con la idea principal y dos detalles, sin opiniones, y añade un esquema de tres cajas. Revisa con los cinco criterios.
 
 **Referencia para modelar y corregir:** The school radio shares news, a song and the weather at 8 a.m. Diagram: [news] [song] [weather].
 
@@ -1003,7 +1003,7 @@ Respuesta: 14 palabras
 *Comprensión*
 
 - **C1.** Texto: «Sofía's club plants a mint garden. The club meets every Monday. Students water the plants and sell small bags of mint. They give the money to a pet shelter». ¿Cuál es la idea principal? A) The club meets on Monday B) The club plants a mint garden and sells mint for a shelter.
-- **C2.** En el texto anterior, ¿qué dato es un detalle clave sobre el dinero? Responde en español.
+- **C2.** Texto: «Sofía's club plants a mint garden. The club meets every Monday. Students water the plants and sell small bags of mint. They give the money to a pet shelter». ¿Qué dato es un detalle clave sobre el dinero? Responde en español.
 - **C3.** ¿Cuál reescribe con otras palabras «The club meets every Monday»? A) Members get together on Mondays B) The club meets every Monday.
 
 *Aplicación*
@@ -1014,8 +1014,8 @@ Respuesta: 14 palabras
 
 *Razonamiento y análisis*
 
-- **Z1.** Resumen borrador del texto Bike to School Week: «Bike to School Week takes place every April. Students go to school by bike. I think the week is great.» Revisa solo los criterios 1 a 4. ¿Qué criterio falla? Responde con su número.
-- **Z2.** Un resumen ya cumple los criterios 1 a 4 y mide menos de un tercio del original. ¿Qué le falta para cumplir el criterio 5? A) Un esquema o ícono B) Una opinión
+- **Z1.** Resumen borrador del texto Bike to School Week: «Bike to School Week takes place every April. Students go to school by bike. Last year, 220 students joined. The town painted a bike lane. I think the week is great.» Revisa solo los criterios 1 a 4. ¿Qué criterio falla? Responde con su número.
+- **Z2.** Un resumen ya cumple los criterios 1 a 4 y mide menos de un tercio del original. ¿Qué le falta para cumplir el criterio 5? A) Un ejemplo copiado del original B) Un esquema o ícono
 
 *Desafío*
 
@@ -1024,7 +1024,7 @@ Respuesta: 14 palabras
 
 *Situaciones auténticas*
 
-- **S1.** La profesora pide resumir en una sola oración este texto ficticio: «The town lake is small and clean. Volunteers clean it every year. Last Sunday, 60 neighbours picked up litter. Now ducks and fish live there». ¿Qué oración es el mejor resumen? A) Volunteers clean the town lake every year, so ducks and fish live there B) Last Sunday, 60 neighbours picked up litter.
+- **S1.** La profesora pide resumir en una sola oración este texto ficticio: «The town lake is small and clean. Volunteers clean it every year. Last Sunday, 60 neighbors picked up litter. Now ducks and fish live there». ¿Qué oración es el mejor resumen? A) Last Sunday, 60 neighbors picked up litter B) Volunteers clean the town lake every year, so ducks and fish live there.
 
 *Autoevaluación*
 
@@ -1032,7 +1032,7 @@ Respuesta: 14 palabras
 - **E2.** ¿Se pueden incluir opiniones en un resumen?
 - **E3.** ¿Cuánto puede medir como máximo?
 
-**Actividad abierta.** Lee este texto ficticio y escribe un resumen. Texto: «The school radio starts at 8 a.m. Students read the news for five minutes. Then they play a short song and share the weather. Last month, 30 students asked to join the team. The team meets every Tuesday to practise». El texto tiene 40 palabras, así que tu resumen puede tener como máximo 13. Escribe en una hoja un resumen con la idea principal y un detalle, sin opiniones, y añade un esquema de tres cajas. Revisa con los cinco criterios.
+**Actividad abierta.** Lee este texto ficticio y escribe un resumen. Texto: «The school radio starts at 8 a.m. Students read the news for five minutes. Then they play a short song and share the weather. Last month, 30 students asked to join the team. The team meets every Tuesday to practice». El texto tiene 40 palabras, así que tu resumen puede tener como máximo 13. Escribe en una hoja un resumen con la idea principal y dos detalles, sin opiniones, y añade un esquema de tres cajas. Revisa con los cinco criterios.
 
 **Solucionario razonado**
 
@@ -1046,17 +1046,17 @@ Respuesta: 14 palabras
 - **A2.** B. Also suma un dato del mismo texto; however marcaría un contraste que no existe.
 - **A3.** No. 21 supera el máximo de 20 palabras.
 - **Z1.** 4. I think the week is great es una opinión personal.
-- **Z2.** A. El criterio 5 pide un esquema que acompañe el texto.
+- **Z2.** B. El criterio 5 pide un esquema que acompañe el texto.
 - **D1.** B. Responden para qué sirve y cuándo está abierta; las cifras de muebles son menos importantes.
 - **D2.** 18. The library has a quiet room open from 2 p.m. to 5 p.m. suman 13 y Students use it before exams suman 5.
-- **S1.** A. Resume el hecho central con su causa; la otra opción es solo un detalle.
+- **S1.** B. Resume el hecho central con su causa; la otra opción es solo un detalle.
 - **E1.** La idea principal. Dice de qué trata todo el texto.
 - **E2.** No. Un resumen solo informa.
 - **E3.** Un tercio del original. El criterio 5 fija ese límite.
 
 **Actividad abierta · ejemplo de respuesta.** The school radio shares news, a song and the weather at 8 a.m. Diagram: [news] [song] [weather].
 
-**Criterios para evaluarla:** la primera oración da la idea principal; incluye un detalle clave con tus propias palabras y sin opiniones; tiene 13 palabras o menos y un esquema.
+**Criterios para evaluarla:** la primera oración da la idea principal; incluye dos detalles clave con tus propias palabras y sin opiniones; tiene 13 palabras o menos y un esquema.
 
 **Evidencias aceptables:** hoja con el resumen, el esquema y los cinco criterios marcados.
 

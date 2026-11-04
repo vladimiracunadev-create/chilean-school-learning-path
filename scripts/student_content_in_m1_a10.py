@@ -14,6 +14,12 @@ OA = "IN1M OA 10"
 MAT = "Los textos, gráficos y tablas escritos en cada ejercicio, lápiz y una hoja para anotar."
 
 
+def U(texto):
+    """Quita la etiqueta de tipo de texto («Noticia:», «Diálogo:»…) para que el estudiante deba reconocerlo."""
+    cabeza, resto = texto.split(": ", 1)
+    return ("(datos de ejemplo) " if "ejemplo" in cabeza else "") + resto
+
+
 def E(rows):
     return [r if isinstance(r, dict) else ex(*r) for r in rows]
 
@@ -58,29 +64,29 @@ lesson(
         ("Confundir un catálogo con un procedimiento porque ambos son listas.", "Se mira solo la forma de lista.", "Pregunta si la lista da pasos o productos con precio."),
     ],
     [
-        (TOWN + " ¿Qué tipo de texto es? A) una descripción B) un procedimiento", "A) una descripción", "Dice cómo es el pueblo."),
-        (PAPER + " ¿Qué tipo de texto es? A) un procedimiento B) un catálogo", "A) un procedimiento", "Tiene materiales y pasos numerados."),
-        (CATAL + " ¿Qué tipo de texto es? A) un catálogo B) una biografía", "A) un catálogo", "Lista productos con precios."),
+        (U(TOWN) + " ¿Qué tipo de texto es? A) una descripción B) un procedimiento", "A) una descripción", "Dice cómo es el pueblo."),
+        (U(PAPER) + " ¿Qué tipo de texto es? A) un procedimiento B) un catálogo", "A) un procedimiento", "Tiene materiales y pasos numerados."),
+        (U(CATAL) + " ¿Qué tipo de texto es? A) un catálogo B) una biografía", "A) un catálogo", "Lista productos con precios."),
     ],
     [
-        (BIO + " ¿Cuál es el propósito? A) contar la vida y la carrera de una persona B) enseñar a tocar piano", "A) contar la vida y la carrera de una persona", "Tiene años y hechos de su vida."),
-        (GRAPH + " ¿Qué compara el gráfico? A) cuántos estudiantes leen libros por curso B) cuánto cuestan los libros", "A) cuántos estudiantes leen libros por curso", "Cada curso tiene un número de lectores."),
-        (NEWS + " ¿Cuál es el propósito? A) informar un hecho reciente B) convencer de comprar algo", "A) informar un hecho reciente", "Cuenta qué pasó, dónde y cuándo."),
+        (U(BIO) + " ¿Cuál es el propósito? A) contar la vida y la carrera de una persona B) enseñar a tocar piano", "A) contar la vida y la carrera de una persona", "Tiene años y hechos de su vida."),
+        (U(GRAPH) + " ¿Qué compara el gráfico? A) cuántos estudiantes leen libros por curso B) cuánto cuestan los libros", "A) cuántos estudiantes leen libros por curso", "Cada curso tiene un número de lectores."),
+        (U(NEWS) + " ¿Cuál es el propósito? A) informar un hecho reciente B) convencer de comprar algo", "A) informar un hecho reciente", "Cuenta qué pasó, dónde y cuándo."),
     ],
     [
-        arith(CATAL + " Si compras la lámpara, el set de cuadernos y el estuche, ¿cuántos pesos pagas en total?", "12990+4500+3200", "Se suman los tres precios del catálogo.", " pesos"),
-        (DIAL + " ¿Qué pide el cliente? A) una chaqueta más barata B) una chaqueta más grande", "A) una chaqueta más barata", "Dice Do you have a cheaper one?"),
-        (PAPER + " ¿Qué materiales se necesitan? A) papel de color, tijeras y regla B) pegamento y pinceles", "A) papel de color, tijeras y regla", "Lo dice la línea You need."),
+        arith(U(CATAL) + " Si compras la lámpara, el set de cuadernos y el estuche, ¿cuántos pesos pagas en total?", "12990+4500+3200", "Se suman los tres precios del catálogo.", " pesos"),
+        (U(DIAL) + " ¿Qué pide el cliente? A) una chaqueta más barata B) una chaqueta más grande", "A) una chaqueta más barata", "Dice Do you have a cheaper one?"),
+        (U(PAPER) + " ¿Qué materiales se necesitan? A) papel de color, tijeras y regla B) pegamento y pinceles", "A) papel de color, tijeras y regla", "Lo dice la línea You need."),
     ],
     [
-        (BIO + " Un compañero dice que es una noticia. ¿Qué pista lo contradice? A) cuenta la vida de una persona desde su nacimiento B) tiene un titular", "A) cuenta la vida de una persona desde su nacimiento", "Una biografía sigue la vida; una noticia informa un hecho reciente."),
-        (GRAPH + " Un compañero dice que es un procedimiento porque tiene números. ¿Qué respondes? A) no: no da pasos, muestra datos por curso B) sí: los números indican pasos", "A) no: no da pasos, muestra datos por curso", "Los números son cantidades, no pasos."),
+        (U(BIO) + " Un compañero dice que es una noticia. ¿Qué pista lo contradice? A) cuenta la vida de una persona desde su nacimiento B) tiene un titular", "A) cuenta la vida de una persona desde su nacimiento", "Una biografía sigue la vida; una noticia informa un hecho reciente."),
+        (U(GRAPH) + " Un compañero dice que es un procedimiento porque tiene números. ¿Qué respondes? A) no: no da pasos, muestra datos por curso B) sí: los números indican pasos", "A) no: no da pasos, muestra datos por curso", "Los números son cantidades, no pasos."),
     ],
     [
-        (NEWS + " ¿Qué dato muestra que la noticia es reciente? A) on Tuesday y this week B) heavy rain", "A) on Tuesday y this week", "Son marcas de tiempo cercanas."),
-        (GRAPH + " ¿Qué curso lee más? A) Grade 10 B) Grade 7", "A) Grade 10", "Grade 10 tiene 20, el número más alto."),
+        (U(NEWS) + " ¿Qué dato muestra que la noticia es reciente? A) on Tuesday y this week B) heavy rain", "A) on Tuesday y this week", "Son marcas de tiempo cercanas."),
+        (U(GRAPH) + " ¿Qué curso lee más? A) Grade 10 B) Grade 7", "A) Grade 10", "Grade 10 tiene 20, el número más alto."),
     ],
-    [(DIAL + " ¿Dónde se escucha un texto así? A) en una tienda B) en una biblioteca", "A) en una tienda", "El cliente pregunta el precio de una chaqueta.")],
+    [(U(DIAL) + " ¿Dónde se escucha un texto así? A) en una tienda B) en una biblioteca", "A) en una tienda", "El cliente pregunta el precio de una chaqueta.")],
     [
         ("En Inglés de 1.º medio (OA 10, clase 1): ¿qué partes tiene un procedimiento?", "Una lista de materiales y pasos numerados", "Se reconoce por You need y Step 1.."),
         ("En Inglés de 1.º medio (OA 10, clase 1): ¿qué hace una biografía?", "Cuenta la vida de una persona con hechos y años", "Sigue el orden de su vida."),
@@ -117,9 +123,9 @@ lesson(
         ("Resumir copiando frases completas.", "Se confunde resumir con copiar.", "Une idea principal y detalles con tus palabras."),
     ],
     [
-        (GARDEN + " ¿Cuál es la idea principal? A) los huertos urbanos son cada vez más populares B) los techos son pequeños", "A) los huertos urbanos son cada vez más populares", "Es la primera frase y resume el texto."),
+        (GARDEN + " ¿Cuál es la idea principal? A) los huertos urbanos son cada vez más populares B) las plantas necesitan cuidado regular", "A) los huertos urbanos son cada vez más populares", "Es la primera frase y resume el texto."),
         (SLEEP + " ¿Cuál es la idea principal? A) los adolescentes necesitan dormir lo suficiente B) los teléfonos son malos", "A) los adolescentes necesitan dormir lo suficiente", "Es la frase temática del primer renglón."),
-        (LANGS + " ¿Cuál es la idea principal? A) aprender un idioma nuevo tiene muchos beneficios B) las aplicaciones son gratis", "A) aprender un idioma nuevo tiene muchos beneficios", "Resume el texto completo."),
+        (LANGS + " ¿Cuál es la idea principal? A) aprender un idioma nuevo tiene muchos beneficios B) las aplicaciones son la mejor forma de aprender", "A) aprender un idioma nuevo tiene muchos beneficios", "Resume el texto completo."),
     ],
     [
         (GARDEN + " ¿Qué se cultiva en los huertos urbanos? A) hierbas y verduras B) árboles frutales", "A) hierbas y verduras", "Dice People grow herbs and vegetables."),
@@ -139,7 +145,7 @@ lesson(
         (LANGS + " ¿Cuál es el mejor resumen? A) Aprender un idioma mejora la memoria y permite conocer otras culturas; lo importante es practicar cada día B) Los idiomas se aprenden solo con aplicaciones", "A) Aprender un idioma mejora la memoria y permite conocer otras culturas; lo importante es practicar cada día", "Une la idea principal con los detalles clave."),
         (MARKET + " ¿Qué dato no aparece en el texto? A) el nombre del organizador de la feria B) la hora de cierre", "A) el nombre del organizador de la feria", "El texto no lo menciona."),
     ],
-    [(SLEEP + " Quieres dormir mejor. ¿Qué dos consejos aplican según el texto? A) hora regular y sin pantallas una hora antes B) más tareas y más café", "A) hora regular y sin pantallas una hora antes", "Son las sugerencias del texto.")],
+    [(SLEEP + " Quieres dormir mejor. ¿Qué dos consejos aplican según el texto? A) hora regular y sin pantallas una hora antes B) más tareas y dormir con el teléfono cerca", "A) hora regular y sin pantallas una hora antes", "Son las sugerencias del texto.")],
     [
         ("En Inglés de 1.º medio (OA 10, clase 2): ¿qué es la idea principal?", "Lo más importante que dice el texto", "Todo lo demás la desarrolla."),
         ("En Inglés de 1.º medio (OA 10, clase 2): ¿qué palabras anuncian ejemplos?", "For example y such as", "Anuncian los detalles."),
@@ -193,7 +199,7 @@ lesson(
     ],
     [
         (W_CITY + " Un compañero dice que la ciudad solo tiene desventajas. ¿Qué dato lo contradice? A) hay muchos trabajos y actividades B) el tráfico es pesado", "A) hay muchos trabajos y actividades", "Es la ventaja del primer lado del contraste."),
-        (NOISE + " Un compañero dice que la solución no sirve porque hay otro problema. ¿Cuál es el que atiende la regla? A) el ruido que impide estudiar B) la falta de libros", "A) el ruido que impide estudiar", "La regla de silencio responde al ruido."),
+        (NOISE + " Un compañero dice que la solución no sirve porque hay otro problema. ¿Qué problema atiende la regla? A) el ruido que impide estudiar B) la falta de libros", "A) el ruido que impide estudiar", "La regla de silencio responde al ruido."),
     ],
     [
         (BIKES + " ¿Qué marca introduce lo que pasa mientras tanto? A) Meanwhile B) Because", "A) Meanwhile", "Meanwhile significa mientras tanto."),
@@ -252,11 +258,11 @@ lesson(
     ],
     [
         (RESEARCH + " ¿Qué decidieron al final? A) presentar un afiche B) escribir un libro", "A) presentar un afiche", "Dice we would present a poster."),
-        (COFFEE + " ¿Qué marca el fragmento B con However? A) una opinión de expertos que contrasta con la costumbre B) una receta", "A) una opinión de expertos que contrasta con la costumbre", "However opone el desayuno saludable con comer comida rápida."),
+        (COFFEE + " ¿Qué marca el fragmento B con However? A) una opinión de expertos que contrasta con la costumbre B) un ejemplo de lo que come la gente", "A) una opinión de expertos que contrasta con la costumbre", "However opone el desayuno saludable con comer comida rápida."),
     ],
     [
         (COFFEE + " ¿Qué recomiendan los expertos? A) un desayuno saludable para mantenerse atento B) café y comida rápida", "A) un desayuno saludable para mantenerse atento", "Lo dice el fragmento B."),
-        (TRAFF + " ¿Qué problema se menciona en A y qué propone B? A) tráfico pesado; elegir el bus B) tráfico pesado; no salir de casa", "A) tráfico pesado; elegir el bus", "Cada fragmento aporta una parte."),
+        (TRAFF + " ¿Qué problema se menciona en A y qué propone B? A) tráfico pesado; elegir el bus B) tráfico pesado; comprar más autos", "A) tráfico pesado; elegir el bus", "Cada fragmento aporta una parte."),
     ],
     [(RESEARCH + " ¿Qué collocations aparecen? A) do research, have a look y make a decision B) take a break y pay attention", "A) do research, have a look y make a decision", "Son las combinaciones usadas en el texto.")],
     [
@@ -285,12 +291,12 @@ lesson(
         ("Formar ocupaciones", "¿Cómo se llaman la persona que enseña, la que toca el piano y la que trabaja como actriz en inglés?", ["Teach + -er da teacher.", "Piano + -ist da pianist.", "Act + -ess da actress."], "teacher; pianist; actress"),
     ],
     [
-        ("Usar dis- antes de una palabra que comienza con r.", "Se aplica un solo prefijo para todo.", "Antes de r se usa ir-: irregular, irresponsible."),
+        ("Decir disregular en vez de irregular.", "Se aplica un solo prefijo para todas las palabras.", "Con regular y responsible se usa ir-; con like y agree se usa dis-. Aprende cada palabra completa."),
         ("Agregar -ful a cualquier palabra sin comprobar que existe.", "Se supone que siempre funciona.", "Aprende las combinaciones: helpful, careful, colourful."),
     ],
     [
-        ("¿Qué palabra significa «no regular»? A) irregular B) disregular", "A) irregular", "Antes de r se usa ir-."),
-        ("¿Qué palabra significa «no estar de acuerdo»? A) disagree B) irgree", "A) disagree", "Dis- forma el opuesto de agree."),
+        ("¿Qué palabra significa «no regular»? A) irregular B) disregular", "A) irregular", "Regular forma irregular; disregular no existe."),
+        ("¿Qué palabra significa «no estar de acuerdo»? A) disagree B) unagree", "A) disagree", "Dis- forma el opuesto de agree."),
         ("¿Qué palabra significa «lleno de color»? A) colourful B) colourous", "A) colourful", "-ful significa lleno de."),
     ],
     [
@@ -309,9 +315,9 @@ lesson(
     ],
     [
         ("Un afiche dice: «Join our colourful festival!» ¿Qué tipo de festival promete? A) uno lleno de color B) uno sin color", "A) uno lleno de color", "Colourful significa lleno de color."),
-        ("En «The tourist was careful with the map», ¿qué palabras tienen sufijo? A) tourist y careful B) map y with", "A) tourist y careful", "Tourist lleva -ist y careful lleva -ful."),
+        ("En «The tourist was careful with the map», ¿qué palabras tienen sufijo? A) tourist y careful B) tourist y map", "A) tourist y careful", "Tourist lleva -ist y careful lleva -ful."),
     ],
-    [("Lees en un aviso: «Dear tourists, the history centre has a helpful guide. Please be careful with the old pieces.» (history centre = centro de historia, tourists = turistas, helpful = servicial, careful = cuidadoso, pieces = piezas). ¿Qué piden y qué ofrecen? A) piden cuidado y ofrecen un guía servicial B) piden silencio y ofrecen comida", "A) piden cuidado y ofrecen un guía servicial", "Careful y helpful se explican por -ful.")],
+    [("Lees en un aviso: «Dear tourists, the history centre has a helpful guide. Please be careful with the old pieces.» (history centre = centro de historia, tourists = turistas, helpful = servicial, careful = cuidadoso, pieces = piezas). ¿Qué piden y qué ofrecen? A) piden cuidado y ofrecen un guía servicial B) piden ayuda y ofrecen un guía cuidadoso", "A) piden cuidado y ofrecen un guía servicial", "Careful y helpful se explican por -ful.")],
     [
         ("En Inglés de 1.º medio (OA 10, clase 5): ¿qué significa el prefijo dis-?", "Un significado opuesto o negativo", "Por ejemplo, dislike."),
         ("En Inglés de 1.º medio (OA 10, clase 5): ¿cuándo se usa ir-?", "Antes de palabras que empiezan con r, como irregular", "Forma un opuesto."),

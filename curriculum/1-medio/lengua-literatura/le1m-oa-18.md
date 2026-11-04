@@ -365,7 +365,7 @@ Respuesta: Tú sabes que tu perro es más rápido que él.
 
 *Aplicación*
 
-- **A1.** Completa: «No sé si ___ vendrás». A) tú B) tu C) tù
+- **A1.** Completa: «No sé si ___ vendrás». A) tú B) tu C) te
 - **A2.** Completa: «Este regalo es para ___». A) me B) mi C) mí
 - **A3.** Completa: «Dime ___ quieres comer». A) quién B) que C) qué
 
@@ -621,7 +621,7 @@ Respuesta: estuve
 
 **Actividad abierta · ejemplo de respuesta.** 1) recibir (verbo en -bir, no es excepción). 2) hielo (hie- lleva h). 3) mensaje (-aje). 4) lápices (z cambia a c). 5) ardilla (-illa). 6) invierno (después de n, v). 7) tuve (pretérito de tener). 8) protección (-ción, relacionada con «protector»). 9) elegir (verbo en -gir, no es excepción). 10) activa (-iva).
 
-**Criterios para evaluarla:** completa las diez palabras; nombra la regla de cada una; señala una excepción conocida.
+**Criterios para evaluarla:** completa las diez palabras; nombra la regla de cada una; distingue letras de sonido parecido (b/v, g/j, c/s).
 
 **Evidencias aceptables:** lista completa con reglas.
 
@@ -794,7 +794,7 @@ Respuesta: por qué
 *Desafío*
 
 - **D1.** ¿Cuál es la oración correcta? A) Aver si vienes mañana B) Haber si vienes mañana C) A ver si vienes mañana
-- **D2.** En «Quiero ___ un video de la obra», ¿cuál se usa? (grabar = registrar; gravar = poner un impuesto) A) grabar B) gravar
+- **D2.** En «Quiero ___ un video de la obra», ¿cuál se usa? A) grabar B) gravar
 
 *Situaciones auténticas*
 
@@ -980,7 +980,7 @@ Respuesta: Camila, ven acá.
 *Recuperación*
 
 - **R1.** ¿Cuál está bien puntuada? A) Mateo ven a, comer B) Mateo ven, a comer C) Mateo, ven a comer
-- **R2.** «Trajimos manzanas, peras, uvas y naranjas». ¿Cuántas comas hay en la versión correcta?
+- **R2.** «Trajimos manzanas peras uvas y naranjas». ¿Cuántas comas necesita en la versión correcta?
 - **R3.** ¿Qué signo anuncia una lista? A) los dos puntos B) el punto y seguido C) la coma
 
 *Comprensión*
@@ -1189,12 +1189,12 @@ Respuesta: La RAE (Real Academia Española) publica el diccionario.
 
 - **R1.** ¿Qué signo introduce la intervención de un personaje en un diálogo narrativo? A) la raya B) el paréntesis C) las comillas
 - **R2.** ¿Cuántos puntos tienen los puntos suspensivos? A) tres B) dos C) cuatro
-- **R3.** ¿Qué signos encierran una aclaración como «(abreviado ONU)»? A) las rayas B) los paréntesis C) los dos puntos
+- **R3.** ¿Qué signos encierran una aclaración como «(Organización de las Naciones Unidas)»? A) las rayas B) los paréntesis C) los dos puntos
 
 *Comprensión*
 
 - **C1.** En «Compré pan, leche, huevos…», ¿para qué sirven los puntos suspensivos? A) indican una pregunta B) indican que la enumeración continúa C) cierran el párrafo
-- **C2.** En «Mi hermana leyó el poema «Nubes de abril»», ¿qué función cumplen las comillas? A) indican duda B) indican una cita de un diálogo C) marcan el título de un poema
+- **C2.** En «Mi hermana leyó el poema “Nubes de abril”», ¿qué función cumplen las comillas? A) marcan el título de un poema B) indican una cita de un diálogo C) indican duda
 - **C3.** En «—Ven —dijo Ana—. Te espero.», ¿cuál es el comentario del narrador? A) Te espero B) dijo Ana C) Ven
 
 *Aplicación*
@@ -1231,7 +1231,7 @@ Respuesta: La RAE (Real Academia Española) publica el diccionario.
 - **R2.** A) tres. Siempre son tres.
 - **R3.** B) los paréntesis. Los paréntesis marcan datos aclaratorios.
 - **C1.** B) indican que la enumeración continúa. Dejan abierta la lista.
-- **C2.** C) marcan el título de un poema. Los títulos de poemas y artículos se escriben entre comillas.
+- **C2.** A) marcan el título de un poema. Los títulos de poemas y artículos se escriben entre comillas.
 - **C3.** B) dijo Ana. Es la parte entre rayas que aclara quién habla.
 - **A1.** A) —¿Vamos al cine? —preguntó Mateo. Usa raya pegada y el comentario del narrador.
 - **A2.** A) Leí un libro (en realidad, dos). Luego dormí. El punto va después del paréntesis de cierre.

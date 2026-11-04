@@ -166,12 +166,12 @@ Respuesta: narrar
 
 *Razonamiento y análisis*
 
-- **Z1.** Esquema para informar sobre una salida: date: Friday; place: science museum; cost: $3.000; my favourite colour is blue. ¿Qué idea sobra?
+- **Z1.** Esquema para informar sobre una salida: date: Friday; place: science museum; cost: $3.000; my favorite color is blue. ¿Qué idea sobra?
 - **Z2.** Texto para los apoderados en el sitio del colegio. ¿Qué tono corresponde? A) formal, con fechas completas B) con apodos y bromas
 
 *Desafío*
 
-- **D1.** Una lluvia de ideas trae 9 ideas: 2 no pertenecen al tema y 3 repiten otras ideas. ¿Cuántas ideas distintas y pertinentes quedan?
+- **D1.** Una lluvia de ideas trae 9 ideas: 2 no pertenecen al tema y otras 3 repiten ideas ya anotadas. ¿Cuántas ideas distintas y pertinentes quedan?
 - **D2.** Esquema. Topic sentence: Our school needs more bike racks. Point 1: 40 students ride bikes. Point 2: racks protect bikes. Conclusion: we should buy them. ¿Qué propósito sugiere? A) explicar un proceso B) expresar una opinión
 
 *Situaciones auténticas*
@@ -197,7 +197,7 @@ Respuesta: narrar
 - **A1.** b, c, d, a. Se parte con la oración de tema y se cierra con la conclusión.
 - **A2.** 11. Se suman la oración de tema, los puntos, los detalles y la conclusión. Cálculo: 1 + 3 + 3 × 2 + 1 = 11.
 - **A3.** B. Resume los tres puntos y no solo una preferencia.
-- **Z1.** my favourite colour is blue. No es un dato de la salida.
+- **Z1.** my favorite color is blue. No es un dato de la salida.
 - **Z2.** A. Los apoderados son una audiencia formal.
 - **D1.** 4. Se restan las ideas que no sirven. Cálculo: 9 − 2 − 3 = 4.
 - **D2.** B. Needs y should muestran una postura personal.
@@ -487,9 +487,9 @@ Respuesta: The mountain was huge and the lake was big.
 
 **Recurso listo para usar:** Los borradores, listas de verificación y comentarios escritos en cada ejercicio, lápiz y una hoja. Sin materiales especiales.
 
-**Consigna exacta:** Lee este borrador ficticio: «last friday we goes to the museum. we saw old tools. the museum is in the city centre. we had lunch. we saw a huge map at noon.» Propósito: informar sobre la visita. Escribe en una hoja: primero una revisión (qué moverías o agregarías, con dos cambios), luego la versión editada con mayúsculas, punto y verbo corregidos, y por último un comentario con las tres partes de feedback.
+**Consigna exacta:** Lee este borrador ficticio: «last friday we goes to the museum. we saw old tools. the museum is in the city center. we had lunch. we saw a huge map at noon.» Propósito: informar sobre la visita. Escribe en una hoja: primero una revisión (qué moverías o agregarías, con dos cambios), luego la versión editada con mayúsculas, punto y verbo corregidos, y por último un comentario con las tres partes de feedback.
 
-**Referencia para modelar y corregir:** Revision: move the sentence about the city centre to the start; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city centre. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit.
+**Referencia para modelar y corregir:** Revision: move the sentence about the city center next to the first sentence; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city center. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -503,7 +503,7 @@ Respuesta: The mountain was huge and the lake was big.
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Revision: move the sentence about the city centre to the start; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city centre. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Revision: move the sentence about the city center next to the first sentence; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city center. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -579,7 +579,7 @@ Respuesta: We visited the library on Tuesday.
 
 *Comprensión*
 
-- **C1.** Un compañero escribe: «I like your text. A question: what was your favourite tool? A suggestion: add the day.» ¿Qué parte es la sugerencia? Responde con las palabras de la sugerencia.
+- **C1.** Un compañero escribe: «I like your text. A question: what was your favorite tool? A suggestion: add the day.» ¿Qué parte es la sugerencia? Responde con las palabras de la sugerencia.
 - **C2.** ¿Qué comentario es más útil? A) It is good B) A suggestion: add one detail about the old tools.
 - **C3.** «She go to school» tiene un error de A) contenido B) gramática
 
@@ -609,7 +609,7 @@ Respuesta: We visited the library on Tuesday.
 - **E2.** ¿Cuántas partes tiene la fórmula de feedback de la clase?
 - **E3.** ¿Qué va primero: revisar o editar?
 
-**Actividad abierta.** Lee este borrador ficticio: «last friday we goes to the museum. we saw old tools. the museum is in the city centre. we had lunch. we saw a huge map at noon.» Propósito: informar sobre la visita. Escribe en una hoja: primero una revisión (qué moverías o agregarías, con dos cambios), luego la versión editada con mayúsculas, punto y verbo corregidos, y por último un comentario con las tres partes de feedback.
+**Actividad abierta.** Lee este borrador ficticio: «last friday we goes to the museum. we saw old tools. the museum is in the city center. we had lunch. we saw a huge map at noon.» Propósito: informar sobre la visita. Escribe en una hoja: primero una revisión (qué moverías o agregarías, con dos cambios), luego la versión editada con mayúsculas, punto y verbo corregidos, y por último un comentario con las tres partes de feedback.
 
 **Solucionario razonado**
 
@@ -631,7 +631,7 @@ Respuesta: We visited the library on Tuesday.
 - **E2.** 3. I like, a question y a suggestion.
 - **E3.** Revisar. Se arregla el contenido antes que la forma.
 
-**Actividad abierta · ejemplo de respuesta.** Revision: move the sentence about the city centre to the start; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city centre. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit.
+**Actividad abierta · ejemplo de respuesta.** Revision: move the sentence about the city center next to the first sentence; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city center. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit.
 
 **Criterios para evaluarla:** hace al menos dos cambios de contenido antes de editar; corrige mayúsculas, punto y la forma verbal; escribe feedback con las tres partes.
 
@@ -701,7 +701,7 @@ Respuesta: We visited the library on Tuesday.
 
 **Consigna exacta:** Lee este texto ficticio: «Its the childrens birthday and theyre happy. The teachers room (la sala de todos los profesores) is full of balloons. My favourite colour is red but Ana's favorite color is green.» Escribe en una hoja la versión corregida con los apóstrofes, mantén una sola variante de ortografía y anota una lista de los tres errores que más te costaron.
 
-**Referencia para modelar y corregir:** It's the children's birthday and they're happy. The teachers' room is full of balloons. My favourite colour is red but Ana's favourite colour is green. Hard errors: its/it's; children's; keeping favourite/colour.
+**Referencia para modelar y corregir:** It's the children's birthday and they're happy. The teachers' room is full of balloons. My favorite color is red but Ana's favorite color is green. Hard errors: its/it's; children's; keeping favorite/color.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -715,7 +715,7 @@ Respuesta: We visited the library on Tuesday.
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: It's the children's birthday and they're happy. The teachers' room is full of balloons. My favourite colour is red but Ana's favourite colour is green. Hard errors: its/it's; children's; keeping favourite/colour. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: It's the children's birthday and they're happy. The teachers' room is full of balloons. My favorite color is red but Ana's favorite color is green. Hard errors: its/it's; children's; keeping favorite/color. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -825,7 +825,7 @@ Respuesta: Sofia's notebook
 
 **Solucionario razonado**
 
-- **R1.** B. La contracción reemplaza la o de not.
+- **R1.** B. La contracción omite la o de not.
 - **R2.** B. El 's indica posesión.
 - **R3.** A. La contracción de it is lleva apóstrofo.
 - **C1.** There. Indica la existencia de algo en un lugar: there are.
@@ -841,9 +841,9 @@ Respuesta: Sofia's notebook
 - **S1.** B. Usa los apóstrofes correctos en it's, students' y they're.
 - **E1.** Reemplazar por it is. Si la frase funciona con it is, se escribe it's.
 - **E2.** No. Es two apples, no apple's.
-- **E3.** Mantener la misma ortografía en todo el texto. No mezclar color con colour.
+- **E3.** Mantener la misma ortografía en todo el texto. No mezclar colour con color.
 
-**Actividad abierta · ejemplo de respuesta.** It's the children's birthday and they're happy. The teachers' room is full of balloons. My favourite colour is red but Ana's favourite colour is green. Hard errors: its/it's; children's; keeping favourite/colour.
+**Actividad abierta · ejemplo de respuesta.** It's the children's birthday and they're happy. The teachers' room is full of balloons. My favorite color is red but Ana's favorite color is green. Hard errors: its/it's; children's; keeping favorite/color.
 
 **Criterios para evaluarla:** corrige it's, children's, they're y teachers'; mantiene una sola variante de ortografía; anota los errores más difíciles.
 
@@ -997,14 +997,14 @@ Respuesta: It is a huge park.
 
 *Recuperación*
 
-- **R1.** ¿Cuál es el último paso del proceso de escritura? A) publicar B) organizar ideas
+- **R1.** ¿Cuál es el último paso del proceso de escritura? A) publicar B) editar
 - **R2.** Entrada: «reply (verb): to answer. Example: She replied quickly.» Reply es A) un verbo B) un adjetivo
 - **R3.** Si el corrector subraya en rojo una palabra, A) está siempre bien escrita B) puede estar mal escrita
 
 *Comprensión*
 
 - **C1.** ¿Qué herramienta permite que un compañero sugiera cambios sin modificar el texto? Responde en inglés.
-- **C2.** El corrector no subraya «Their are five books». ¿Por qué? A) Porque there y their son palabras reales B) Porque la oración es correcta
+- **C2.** El corrector no subraya «Their are five books». ¿Por qué? A) Porque los correctores ignoran las palabras cortas B) Porque there y their son palabras reales
 - **C3.** ¿Por qué conviene guardar como PDF? A) Para mantener el formato al compartir B) Para cambiar la ortografía
 
 *Aplicación*
@@ -1016,7 +1016,7 @@ Respuesta: It is a huge park.
 *Razonamiento y análisis*
 
 - **Z1.** Texto: «We are going to the beech on Saturday.» El corrector no marca beech. ¿Qué palabra corriges?
-- **Z2.** ¿Qué dato del diccionario ayuda más a usar bien una palabra nueva? A) El número de página B) Una oración de ejemplo
+- **Z2.** ¿Qué dato del diccionario ayuda más a usar bien una palabra nueva? A) Una oración de ejemplo B) El número de letras de la palabra
 
 *Desafío*
 
@@ -1041,13 +1041,13 @@ Respuesta: It is a huge park.
 - **R2.** A. Entre paréntesis dice verb.
 - **R3.** B. El subrayado avisa que no la reconoce.
 - **C1.** comments. Los comentarios se escriben en el margen.
-- **C2.** A. El corrector no ve que se eligió la palabra equivocada.
+- **C2.** B. El corrector no ve que se eligió la palabra equivocada.
 - **C3.** A. Un PDF se ve igual en cualquier dispositivo.
 - **A1.** replied. El pasado de reply es replied.
 - **A2.** We were delighted with the result.. Delighted reemplaza a very happy.
 - **A3.** b, c, a, d. Se lee, se corrige, se guarda y se comparte.
 - **Z1.** beech. Debe ser beach, pero beech existe, por eso no se marca.
-- **Z2.** B. Muestra el uso real de la palabra.
+- **Z2.** A. Muestra el uso real de la palabra.
 - **D1.** 30 palabras. Se resta el texto actual al límite. Cálculo: 150 − 120 = 30.
 - **D2.** A. Una audiencia amplia necesita letra grande.
 - **S1.** B. La lista pide agregar el nombre y la fecha antes de compartir.

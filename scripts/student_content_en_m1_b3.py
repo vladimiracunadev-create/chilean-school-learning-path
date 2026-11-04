@@ -63,11 +63,11 @@ lesson(
         ("Puntos del esquema: grow vegetables; share the work; learn to wait. ¿Qué oración de tema los cubre a los tres? A) School gardens teach food and teamwork B) I like gardens.", "A", "Resume los tres puntos y no solo una preferencia."),
     ],
     [
-        ("Esquema para informar sobre una salida: date: Friday; place: science museum; cost: $3.000; my favourite colour is blue. ¿Qué idea sobra?", "my favourite colour is blue", "No es un dato de la salida."),
+        ("Esquema para informar sobre una salida: date: Friday; place: science museum; cost: $3.000; my favorite color is blue. ¿Qué idea sobra?", "my favorite color is blue", "No es un dato de la salida."),
         ("Texto para los apoderados en el sitio del colegio. ¿Qué tono corresponde? A) formal, con fechas completas B) con apodos y bromas", "A", "Los apoderados son una audiencia formal."),
     ],
     [
-        arith("Una lluvia de ideas trae 9 ideas: 2 no pertenecen al tema y 3 repiten otras ideas. ¿Cuántas ideas distintas y pertinentes quedan?", "9-2-3", "Se restan las ideas que no sirven."),
+        arith("Una lluvia de ideas trae 9 ideas: 2 no pertenecen al tema y otras 3 repiten ideas ya anotadas. ¿Cuántas ideas distintas y pertinentes quedan?", "9-2-3", "Se restan las ideas que no sirven."),
         ("Esquema. Topic sentence: Our school needs more bike racks. Point 1: 40 students ride bikes. Point 2: racks protect bikes. Conclusion: we should buy them. ¿Qué propósito sugiere? A) explicar un proceso B) expresar una opinión", "B", "Needs y should muestran una postura personal."),
     ],
     [("La radio escolar ficticia necesita un texto para informar a los estudiantes sobre un taller. Notas: club meets Tuesday; it is free; bring a pencil; my dog is called Rocky. ¿Qué idea no va en el texto? A) bring a pencil B) my dog is called Rocky", "B", "No es un dato del taller.")],
@@ -161,7 +161,7 @@ lesson(
         ("Mover una oración a otro párrafo es A) revisar B) editar", "A", "Cambia la organización del texto."),
     ],
     [
-        ("Un compañero escribe: «I like your text. A question: what was your favourite tool? A suggestion: add the day.» ¿Qué parte es la sugerencia? Responde con las palabras de la sugerencia.", "add the day", "Después de A suggestion va lo que se propone cambiar."),
+        ("Un compañero escribe: «I like your text. A question: what was your favorite tool? A suggestion: add the day.» ¿Qué parte es la sugerencia? Responde con las palabras de la sugerencia.", "add the day", "Después de A suggestion va lo que se propone cambiar."),
         ("¿Qué comentario es más útil? A) It is good B) A suggestion: add one detail about the old tools.", "B", "Indica qué cambiar y dónde."),
         ("«She go to school» tiene un error de A) gramática B) contenido", "A", "Con she el verbo lleva -s: goes."),
     ],
@@ -184,7 +184,7 @@ lesson(
         ("¿Cuántas partes tiene la fórmula de feedback de la clase?", "3", "I like, a question y a suggestion."),
         ("¿Qué va primero: revisar o editar?", "Revisar", "Se arregla el contenido antes que la forma."),
     ],
-    task("Lee este borrador ficticio: «last friday we goes to the museum. we saw old tools. the museum is in the city centre. we had lunch. we saw a huge map at noon.» Propósito: informar sobre la visita. Escribe en una hoja: primero una revisión (qué moverías o agregarías, con dos cambios), luego la versión editada con mayúsculas, punto y verbo corregidos, y por último un comentario con las tres partes de feedback.", "Revision: move the sentence about the city centre to the start; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city centre. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit.", ["hace al menos dos cambios de contenido antes de editar", "corrige mayúsculas, punto y la forma verbal", "escribe feedback con las tres partes"], ["hoja con revisión, texto editado y comentario"], ["editar antes de revisar", "comentar solo «it is good»"], "Pide a una persona de tu casa que lea tu versión final y diga si el orden de las ideas le parece lógico."),
+    task("Lee este borrador ficticio: «last friday we goes to the museum. we saw old tools. the museum is in the city center. we had lunch. we saw a huge map at noon.» Propósito: informar sobre la visita. Escribe en una hoja: primero una revisión (qué moverías o agregarías, con dos cambios), luego la versión editada con mayúsculas, punto y verbo corregidos, y por último un comentario con las tres partes de feedback.", "Revision: move the sentence about the city center next to the first sentence; add one detail about the tools. Edited: Last Friday we went to the museum. It is in the city center. We saw old tools. We saw a huge map at noon. We had lunch. Feedback: I like the huge map. A question: how old were the tools? A suggestion: add the time of the visit.", ["hace al menos dos cambios de contenido antes de editar", "corrige mayúsculas, punto y la forma verbal", "escribe feedback con las tres partes"], ["hoja con revisión, texto editado y comentario"], ["editar antes de revisar", "comentar solo «it is good»"], "Pide a una persona de tu casa que lea tu versión final y diga si el orden de las ideas le parece lógico."),
     "Escribe tres oraciones con errores de mayúsculas y pásalas a la forma correcta.",
     "Revisa un párrafo tuyo con la lista de cinco criterios y anota cuántos cumple.",
 )
@@ -210,7 +210,7 @@ lesson(
         ("Escribir «Its a lovely day».", "Se confunde its con it's.", "Se prueba con it is: It's a lovely day."),
     ],
     [
-        ("Don't significa A) do not B) does not", "A", "La contracción reemplaza la o de not."),
+        ("Don't significa A) do not B) does not", "A", "La contracción omite la o de not."),
         ("«Ana's bag» significa A) la mochila de Ana B) Ana es una mochila", "A", "El 's indica posesión."),
         ("It's es la contracción de A) it is B) it was", "A", "La contracción de it is lleva apóstrofo."),
     ],
@@ -236,9 +236,9 @@ lesson(
     [
         ("¿Qué prueba te ayuda a decidir entre its e it's?", "Reemplazar por it is", "Si la frase funciona con it is, se escribe it's."),
         ("¿Se usa apóstrofe en un plural simple?", "No", "Es two apples, no apple's."),
-        ("¿Qué significa ser consistente?", "Mantener la misma ortografía en todo el texto", "No mezclar color con colour."),
+        ("¿Qué significa ser consistente?", "Mantener la misma ortografía en todo el texto", "No mezclar colour con color."),
     ],
-    task("Lee este texto ficticio: «Its the childrens birthday and theyre happy. The teachers room (la sala de todos los profesores) is full of balloons. My favourite colour is red but Ana's favorite color is green.» Escribe en una hoja la versión corregida con los apóstrofes, mantén una sola variante de ortografía y anota una lista de los tres errores que más te costaron.", "It's the children's birthday and they're happy. The teachers' room is full of balloons. My favourite colour is red but Ana's favourite colour is green. Hard errors: its/it's; children's; keeping favourite/colour.", ["corrige it's, children's, they're y teachers'", "mantiene una sola variante de ortografía", "anota los errores más difíciles"], ["hoja con el texto corregido y la lista de tres errores"], ["usar apóstrofe en plurales simples", "mezclar variantes de ortografía"], "Pide a una persona de tu casa que dicte tres frases con it's/its y compruébalas contigo."),
+    task("Lee este texto ficticio: «Its the childrens birthday and theyre happy. The teachers room (la sala de todos los profesores) is full of balloons. My favourite colour is red but Ana's favorite color is green.» Escribe en una hoja la versión corregida con los apóstrofes, mantén una sola variante de ortografía y anota una lista de los tres errores que más te costaron.", "It's the children's birthday and they're happy. The teachers' room is full of balloons. My favorite color is red but Ana's favorite color is green. Hard errors: its/it's; children's; keeping favorite/color.", ["corrige it's, children's, they're y teachers'", "mantiene una sola variante de ortografía", "anota los errores más difíciles"], ["hoja con el texto corregido y la lista de tres errores"], ["usar apóstrofe en plurales simples", "mezclar variantes de ortografía"], "Pide a una persona de tu casa que dicte tres frases con it's/its y compruébalas contigo."),
     "Escribe cinco contracciones y su forma completa.",
     "Escribe dos oraciones con posesivo de un solo dueño y dos con varios dueños.",
 )
@@ -264,13 +264,13 @@ lesson(
         ("Copiar la primera definición del diccionario sin leer el ejemplo.", "Se supone que una palabra tiene un solo uso.", "Lee la definición y la oración de ejemplo para elegir la palabra adecuada."),
     ],
     [
-        ("¿Cuál es el último paso del proceso de escritura? A) publicar B) organizar ideas", "A", "Publicar es compartir el texto final."),
+        ("¿Cuál es el último paso del proceso de escritura? A) publicar B) editar", "A", "Publicar es compartir el texto final."),
         ("Entrada: «reply (verb): to answer. Example: She replied quickly.» Reply es A) un verbo B) un adjetivo", "A", "Entre paréntesis dice verb."),
         ("Si el corrector subraya en rojo una palabra, A) puede estar mal escrita B) está siempre bien escrita", "A", "El subrayado avisa que no la reconoce."),
     ],
     [
         ("¿Qué herramienta permite que un compañero sugiera cambios sin modificar el texto? Responde en inglés.", "comments", "Los comentarios se escriben en el margen."),
-        ("El corrector no subraya «Their are five books». ¿Por qué? A) Porque there y their son palabras reales B) Porque la oración es correcta", "A", "El corrector no ve que se eligió la palabra equivocada."),
+        ("El corrector no subraya «Their are five books». ¿Por qué? A) Porque there y their son palabras reales B) Porque los correctores ignoran las palabras cortas", "A", "El corrector no ve que se eligió la palabra equivocada."),
         ("¿Por qué conviene guardar como PDF? A) Para mantener el formato al compartir B) Para cambiar la ortografía", "A", "Un PDF se ve igual en cualquier dispositivo."),
     ],
     [
@@ -280,7 +280,7 @@ lesson(
     ],
     [
         ("Texto: «We are going to the beech on Saturday.» El corrector no marca beech. ¿Qué palabra corriges?", "beech", "Debe ser beach, pero beech existe, por eso no se marca."),
-        ("¿Qué dato del diccionario ayuda más a usar bien una palabra nueva? A) Una oración de ejemplo B) El número de página", "A", "Muestra el uso real de la palabra."),
+        ("¿Qué dato del diccionario ayuda más a usar bien una palabra nueva? A) Una oración de ejemplo B) El número de letras de la palabra", "A", "Muestra el uso real de la palabra."),
     ],
     [
         arith("Un texto tiene 120 palabras y el límite es 150. ¿Cuántas palabras puedes agregar antes de pasarte?", "150-120", "Se resta el texto actual al límite.", " palabras"),

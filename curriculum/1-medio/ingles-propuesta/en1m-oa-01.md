@@ -375,7 +375,7 @@ Respuesta: Libros y discos antiguos
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «The street market in my town is open on Sundays. On the left there are fruit and vegetable stands. On the right there are stands with books and old records. At the end of the street there is a small stage where a local band plays at noon.» (street market = feria, stands = puestos, records = discos, stage = escenario, plays = toca, noon = mediodía) ¿Dónde toca la banda local? A) en el puesto de libros B) en un escenario al final de la calle
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Good evening. This is the eight o'clock news. A new library opened today in the south of the city. It has two floors and room for eighty readers. The mayor said that the library will open from nine to seven. Tomorrow will be sunny, with a high of twenty-six degrees.» (news = noticias, opened = abrió, floors = pisos, room for = capacidad para, mayor = alcalde, sunny = soleado, high = máxima, degrees = grados) ¿Quién anunció el horario de la biblioteca? A) la profesora B) el alcalde
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Good evening. This is the eight o'clock news. A new library opened today in the south of the city. It has two floors and room for eighty readers. The mayor said that the library will open from nine to seven. Tomorrow will be sunny, with a high of twenty-six degrees.» (news = noticias, opened = abrió, floors = pisos, room for = capacidad para, mayor = alcalde, sunny = soleado, high = máxima, degrees = grados) ¿Quién anunció el horario de la biblioteca? A) la directora del colegio B) el alcalde
 
 *Desafío*
 
@@ -585,7 +585,7 @@ Respuesta: 12 cartas
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «To play the memory game, you need twelve cards. Put them face down on the table. The first player turns two cards. If the cards match, the player keeps them and plays again. If not, the next player has a turn. The winner has the most pairs.» (face down = boca abajo, turns = da vuelta, match = coinciden, keeps = se queda con, turn = turno, pairs = pares) Una jugadora da vuelta dos cartas y no coinciden. ¿Qué pasa? A) juega la siguiente persona B) se queda con las cartas
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Today I will show you how to make a simple fruit salad. First, wash two apples and one banana. Then cut them into small pieces. Next, put the pieces in a bowl and add the juice of one orange. After that, mix everything with a spoon. Finally, wait ten minutes and serve it cold.» (wash = lavar, cut = cortar, pieces = trozos, bowl = bol, add = agregar, juice = jugo, mix = mezclar, spoon = cuchara, serve = servir) ¿Cuántas frutas se lavan en total en el primer paso, contando manzanas y plátano?
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Today I will show you how to make a simple fruit salad. First, wash two apples and one banana. Then cut them into small pieces. Next, put the pieces in a bowl and add the juice of one orange. After that, mix everything with a spoon. Finally, wait ten minutes and serve it cold.» (wash = lavar, cut = cortar, pieces = trozos, bowl = bol, add = agregar, juice = jugo, mix = mezclar, spoon = cuchara, serve = servir) Si una persona termina de mezclar la ensalada a las 4:00 de la tarde y sigue el último paso al pie de la letra, ¿a qué hora la sirve?
 
 *Desafío*
 
@@ -616,7 +616,7 @@ Respuesta: 12 cartas
 - **A2.** Last. El quinto paso empieza con Last, press send.
 - **A3.** B) se las queda y juega otra vez. El guion dice the player keeps them and plays again.
 - **Z1.** A) juega la siguiente persona. El guion dice If not, the next player has a turn.
-- **Z2.** 3. Se suman las dos manzanas y el plátano. Cálculo: 2 + 1 = 3.
+- **Z2.** A las 4:10 de la tarde. Finally pide esperar diez minutos y recién entonces servir.
 - **D1.** 5. Son cinco palabras de orden, o sea cinco pasos.
 - **D2.** A) After that, mix everything, que viene después de cortar. Cortar es el paso Then y mezclar es After that.
 - **S1.** 8. El guion dice eight characters.
@@ -776,7 +776,7 @@ Respuesta: A la playa
 
 *Recuperación*
 
-- **R1.** Un adulto lee en voz alta (tapa el guion): «Reporter: Tell me about your garden, Ms. Parra. Ms. Parra: It is on the roof of the community center. Reporter: What do you grow? Ms. Parra: Tomatoes, lettuce and herbs. Reporter: Who helps you? Ms. Parra: Twelve neighbors. We meet every Saturday at ten.» (roof = techo, community center = centro comunitario, grow = cultivar, herbs = hierbas, neighbors = vecinos, meet = nos reunimos) ¿Dónde está la huerta? A) en el techo del centro comunitario B) en un colegio
+- **R1.** Un adulto lee en voz alta (tapa el guion): «Reporter: Tell me about your garden, Ms. Parra. Ms. Parra: It is on the roof of the community center. Reporter: What do you grow? Ms. Parra: Tomatoes, lettuce and herbs. Reporter: Who helps you? Ms. Parra: Twelve neighbors. We meet every Saturday at ten.» (roof = techo, community center = centro comunitario, grow = cultivar, herbs = hierbas, neighbors = vecinos, meet = nos reunimos) ¿Dónde está la huerta? A) en el patio de un colegio B) en el techo del centro comunitario
 - **R2.** Un adulto lee en voz alta (tapa el guion): «Reporter: Tell me about your garden, Ms. Parra. Ms. Parra: It is on the roof of the community center. Reporter: What do you grow? Ms. Parra: Tomatoes, lettuce and herbs. Reporter: Who helps you? Ms. Parra: Twelve neighbors. We meet every Saturday at ten.» (roof = techo, community center = centro comunitario, grow = cultivar, herbs = hierbas, neighbors = vecinos, meet = nos reunimos) ¿Cuándo se reúnen los vecinos?
 - **R3.** Un adulto lee en voz alta (tapa el guion): «Joaquín: Where do you want to go on Friday? Elena: Let's go to the beach. Joaquín: Hmm, I prefer the mountains. Elena: But it is going to rain in the mountains. Joaquín: Really? Then the beach is a better idea. Elena: Great. The bus leaves at eight.» (prefer = prefiero, going to rain = va a llover, Really? = ¿En serio?, better = mejor, leaves = sale) ¿A qué hora sale el bus?
 
@@ -816,7 +816,7 @@ Respuesta: A la playa
 
 **Solucionario razonado**
 
-- **R1.** A) en el techo del centro comunitario. Dice on the roof of the community center.
+- **R1.** B) en el techo del centro comunitario. Dice on the roof of the community center.
 - **R2.** Los sábados a las diez. El guion dice every Saturday at ten.
 - **R3.** A las ocho. Elena dice The bus leaves at eight.
 - **C1.** B) tomates, lechuga y hierbas. Ms. Parra responde Tomatoes, lettuce and herbs.
@@ -959,7 +959,7 @@ Trabajar de forma independiente significa no depender de que te digan qué hacer
 
 *Ejemplo 1. Idea del estribillo*
 
-Problema: Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / Bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué idea repite el estribillo?
+Problema: Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / The bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué idea repite el estribillo?
 
 1. Busco la parte que se repite: Together, together.
 2. Dice We walk through the rain y We sing it again.
@@ -986,7 +986,7 @@ Respuesta: Aprendieron, practicaron más y ganaron la copa
 
 *Recuperación*
 
-- **R1.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / Bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué pasa por la ventana? A) entra luz de la mañana B) llueve fuerte
+- **R1.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / The bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué pasa por la ventana? A) llueve fuerte B) entra luz de la mañana
 - **R2.** Un adulto lee en voz alta (tapa el guion): «Good morning. Here is the weather. In the north, it will be hot and dry, with thirty-one degrees. In the center, cloudy with some rain in the evening. In the south, it will be cold and windy. Remember to take an umbrella if you are in the center.» (weather = el tiempo, hot = caluroso, dry = seco, cloudy = nublado, windy = ventoso, umbrella = paraguas) ¿Cómo estará el sur? A) frío y ventoso B) caluroso y seco
 - **R3.** Un adulto lee en voz alta (tapa el guion): «Last April, our school team lost the basketball final. We cried a little in the locker room. Then our coach said, We lost the game, but we learned a lot. This year we practiced harder, and we won the cup.» (lost = perdimos, final = final, locker room = camarín, coach = entrenador, practiced harder = practicamos más duro, won = ganamos, cup = copa) ¿En qué deporte perdieron la final?
 
@@ -994,18 +994,18 @@ Respuesta: Aprendieron, practicaron más y ganaron la copa
 
 - **C1.** Un adulto lee en voz alta (tapa el guion): «Good morning. Here is the weather. In the north, it will be hot and dry, with thirty-one degrees. In the center, cloudy with some rain in the evening. In the south, it will be cold and windy. Remember to take an umbrella if you are in the center.» (weather = el tiempo, hot = caluroso, dry = seco, cloudy = nublado, windy = ventoso, umbrella = paraguas) ¿Cuántos grados habrá en el norte?
 - **C2.** Un adulto lee en voz alta (tapa el guion): «Good morning. Here is the weather. In the north, it will be hot and dry, with thirty-one degrees. In the center, cloudy with some rain in the evening. In the south, it will be cold and windy. Remember to take an umbrella if you are in the center.» (weather = el tiempo, hot = caluroso, dry = seco, cloudy = nublado, windy = ventoso, umbrella = paraguas) ¿Quién debe llevar paraguas? A) quien esté en el norte B) quien esté en el centro
-- **C3.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / Bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué dos palabras riman al final de los versos 2 y 4? A) window y friends B) street y beat
+- **C3.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / The bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué dos palabras riman al final de los versos 2 y 4? A) window y friends B) street y beat
 
 *Aplicación*
 
 - **A1.** Un adulto lee en voz alta (tapa el guion): «Good morning. Here is the weather. In the north, it will be hot and dry, with thirty-one degrees. In the center, cloudy with some rain in the evening. In the south, it will be cold and windy. Remember to take an umbrella if you are in the center.» (weather = el tiempo, hot = caluroso, dry = seco, cloudy = nublado, windy = ventoso, umbrella = paraguas) ¿Cómo estará el centro? A) soleado y seco B) nublado con algo de lluvia
 - **A2.** Un adulto lee en voz alta (tapa el guion): «Last April, our school team lost the basketball final. We cried a little in the locker room. Then our coach said, We lost the game, but we learned a lot. This year we practiced harder, and we won the cup.» (lost = perdimos, final = final, locker room = camarín, coach = entrenador, practiced harder = practicamos más duro, won = ganamos, cup = copa) ¿Dónde lloraron un poco? A) en la cancha B) en el camarín
-- **A3.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / Bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Quiénes esperan a quien canta? A) su entrenador B) sus amigos
+- **A3.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / The bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Quiénes esperan a quien canta? A) sus profesores B) sus amigos
 
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «Last April, our school team lost the basketball final. We cried a little in the locker room. Then our coach said, We lost the game, but we learned a lot. This year we practiced harder, and we won the cup.» (lost = perdimos, final = final, locker room = camarín, coach = entrenador, practiced harder = practicamos más duro, won = ganamos, cup = copa) ¿Cuándo perdió el equipo la final? A) el abril pasado B) el marzo pasado
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / Bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué sentimiento transmite el estribillo? A) compañía y alegría B) miedo y soledad
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Verse: Morning light on the window, / The bus is coming down the street. / Hurry up, my friends are waiting, / We are walking to the beat. / Chorus: Together, together, / We walk through the rain. / Together, together, / We sing it again.» (morning light = luz de la mañana, window = ventana, hurry up = apúrate, beat = ritmo, rain = lluvia, sing = cantar) ¿Qué sentimiento transmite el estribillo? A) compañía y alegría B) miedo y soledad
 
 *Desafío*
 
@@ -1026,7 +1026,7 @@ Respuesta: Aprendieron, practicaron más y ganaron la copa
 
 **Solucionario razonado**
 
-- **R1.** A) entra luz de la mañana. El primer verso dice Morning light on the window.
+- **R1.** B) entra luz de la mañana. El primer verso dice Morning light on the window.
 - **R2.** A) frío y ventoso. El guion dice In the south, it will be cold and windy.
 - **R3.** Básquetbol. Dice lost the basketball final.
 - **C1.** 31. El guion dice thirty-one degrees.

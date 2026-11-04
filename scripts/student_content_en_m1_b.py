@@ -49,12 +49,12 @@ lesson(
     ],
     [
         ("En una noticia, ¿cómo se llama el título corto? A) headline B) caption", "A", "Headline es el titular; caption es el pie de foto."),
-        ("¿Qué cuatro preguntas responde el lead de una noticia? Escríbelas en inglés, separadas por comas.", "who, what, where, when", "Son los cuatro datos que el lector necesita en la primera oración."),
+        ("¿Qué cuatro preguntas responde el lead de una noticia? Escríbelas en inglés, separadas por comas y en el orden de la explicación.", "who, what, where, when", "Son los cuatro datos que el lector necesita en la primera oración."),
         ("El titular «Students plant 60 saplings» usa A) presente simple B) pasado simple", "A", "Plant, sin -ed, es presente simple; así se escriben los titulares."),
     ],
     [
         ("Lead: «On Monday, the school band played in the main square.» ¿Dónde ocurrió el hecho? Responde en español.", "En la plaza principal", "La frase in the main square da el lugar."),
-        ("¿Cuál de estas oraciones es el lead de una noticia? A) Everybody enjoyed the music B) On Monday, the school band played in the main square C) «We practised for a month,» said Lía.", "B", "Responde who, what, where y when; las otras son una opinión y una cita."),
+        ("¿Cuál de estas oraciones es el lead de una noticia? A) Everybody enjoyed the music B) On Monday, the school band played in the main square C) «We practiced for a month,» said Lía.", "B", "Responde who, what, where y when; las otras son una opinión y una cita."),
         ("Una foto muestra a estudiantes plantando árboles. ¿Qué pie de foto agrega un dato nuevo? A) Students plant trees B) Volunteers planted 40 young trees on Saturday.", "B", "Agrega número y día; el otro solo repite lo que ya se ve."),
     ],
     [
@@ -63,7 +63,7 @@ lesson(
         ("Escribe la cita con said para estas palabras de Eva: «We were nervous but happy». Respuesta con el formato del modelo.", "«We were nervous but happy,» said Eva.", "La cita va entre comillas y la sigue said con el nombre."),
     ],
     [
-        ("Lead: «On Saturday, 15 neighbours repaired a fence.» ¿Qué dato de who, what, where y when falta? Responde con una palabra en inglés.", "where", "No dice dónde está la reja, que es el dato where."),
+        ("Lead: «On Saturday, 15 neighbors repaired a fence.» ¿Qué dato de who, what, where y when falta? Responde con una palabra en inglés.", "where", "No dice dónde está la reja, que es el dato where."),
         ("Noticia borrador. Headline: Big day at school! Lead: On Thursday, the choir of Class 3C sang at the town library. Body: They sang six songs for 80 people. Quote: «We were nervous but happy,» said Eva. Caption: The choir at the library. Con los cinco criterios de la clase, ¿cuántos cumple? Responde con un número.", "3", "Falla el titular, que no tiene verbo, y el pie de foto, que no agrega dato nuevo; cumple lead, cuerpo y cita."),
     ],
     [
@@ -76,7 +76,7 @@ lesson(
         ("¿Qué verbo introduce una cita?", "said", "Said va después de la cita y antes o después del nombre."),
         ("¿Qué debe agregar el pie de foto respecto del texto?", "Un dato nuevo", "No debe repetir lo que ya dice la noticia."),
     ],
-    task("Lee este encargo: el diario del colegio necesita una noticia sobre una feria de ciencias. Datos de ejemplo: jueves; 40 estudiantes de 1.º medio; presentaron 12 proyectos en el gimnasio; una asistente dijo: «I loved the solar oven». Escribe en una hoja el titular, el lead, el cuerpo, la cita y un pie de foto para una foto imaginaria. Revisa con los cinco criterios y marca cada uno.", "Headline: Students show 12 science projects. Lead: On Thursday, 40 students from first year of high school presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors.", ["titular corto con verbo en presente simple", "lead con who, what, where y when", "cuerpo en pasado simple con un dato, cita con said y pie de foto con dato nuevo"], ["hoja con la noticia y los cinco criterios marcados"], ["escribir el titular en pasado", "repetir el lead en el pie de foto"], "Lee tu noticia a una persona de tu casa y pregunta si entiende qué pasó, dónde y cuándo sin ver la foto."),
+    task("Lee este encargo: el diario del colegio necesita una noticia sobre una feria de ciencias. Datos de ejemplo: jueves; 40 estudiantes de 1.º medio; presentaron 12 proyectos en el gimnasio; una asistente dijo: «I loved the solar oven». Escribe en una hoja el titular, el lead, el cuerpo, la cita y un pie de foto para una foto imaginaria. Revisa con los cinco criterios y marca cada uno.", "Headline: Students show 12 science projects. Lead: On Thursday, 40 first-year students presented 12 projects in the school gym. Body: Families visited every table and asked questions. Quote: «I loved the solar oven,» said a visitor. Caption: Two students explain their project to a group of visitors.", ["titular corto con verbo en presente simple", "lead con who, what, where y when", "cuerpo en pasado simple con un dato, cita con said y pie de foto con dato nuevo"], ["hoja con la noticia y los cinco criterios marcados"], ["escribir el titular en pasado", "repetir el lead en el pie de foto"], "Lee tu noticia a una persona de tu casa y pregunta si entiende qué pasó, dónde y cuándo sin ver la foto."),
     "Escribe tres titulares de una palabra de acción cada uno sobre hechos del colegio, con el verbo en presente simple.",
     "Escribe una segunda noticia sobre el mismo hecho para un público de apoderados y cambia el tono de una oración.",
 )
@@ -90,7 +90,7 @@ lesson(
     [
         "Las instrucciones (instructions) explican cómo hacer algo y su propósito (purpose) es que el lector actúe sin ayuda. Tienen un título que comienza con How to, una lista de materiales con dos puntos y pasos numerados. Cada paso empieza con un verbo en imperativo, es decir, la forma base del verbo sin sujeto: Write the date. Un paso lleva una sola acción.",
         "Las palabras de secuencia ordenan los pasos: First, Next, Then, After that y Finally. Para advertir de un error posible se usa Don't + verbo: Don't press hard. Para dar un dato útil, Remember to + verbo. El recurso multimodal son los íconos: un dibujo simple junto a cada paso, como un reloj para el tiempo o un lápiz para escribir, que apoya el texto y ayuda a quien lee con prisa. Un ícono no reemplaza al verbo.",
-        "Criterios: 1) título con How to; 2) materiales con dos puntos; 3) cada paso comienza con un verbo en imperativo; 4) pasos en orden, con palabras de secuencia, una acción por paso; 5) un ícono o dibujo por paso, descrito entre corchetes. Modelo: «How to make a study timer. Materials: a phone or clock, a pencil, a sheet. First, write your task on the sheet [pencil icon]. Next, set the clock for 25 minutes [clock icon]. Finally, stop and rest for 5 minutes [chair icon]».",
+        "Criterios: 1) título con How to; 2) materiales con dos puntos; 3) cada paso comienza con un verbo en imperativo; 4) pasos en orden, numerados o con palabras de secuencia, una acción por paso; 5) un ícono o dibujo por paso, descrito entre corchetes. Modelo: «How to make a study timer. Materials: a phone or clock, a pencil, a sheet. First, write your task on the sheet [pencil icon]. Next, set the clock for 25 minutes [clock icon]. Finally, stop and rest for 5 minutes [chair icon]».",
     ],
     [("instructions", "instrucciones: pasos para hacer algo"), ("imperative", "imperativo: verbo en forma base para dar una orden o un paso"), ("sequence word", "palabra de secuencia: First, Next, Then, Finally"), ("Don't + verb", "no hagas… (advertencia)"), ("Remember to + verb", "recuerda… (dato útil)"), ("materials", "materiales: lo que se necesita"), ("icon", "ícono: dibujo simple que apoya el texto"), ("step", "paso")],
     [
@@ -102,7 +102,7 @@ lesson(
         ("Escribir «You should maybe think about the sheet» como un paso.", "No dice una acción concreta que se pueda hacer.", "Usa un verbo de acción: Fold the sheet in half."),
     ],
     [
-        ("¿Con qué empieza el título de unas instrucciones? A) How to B) Dear", "A", "How to anuncia que se explicará cómo hacer algo; Dear es de un correo."),
+        ("¿Con qué empieza el título de unas instrucciones? A) How to B) All about", "A", "How to anuncia que se explicará cómo hacer algo; All about presenta un tema, pero no pasos."),
         ("¿Cuál empieza como un paso de instrucciones? A) Fold the sheet in half B) You are folding the sheet.", "A", "Un paso comienza con el verbo en forma base."),
         ("¿Qué palabra de secuencia cierra la lista de pasos? Escríbela en inglés.", "Finally", "Finally indica el último paso."),
     ],
@@ -122,7 +122,7 @@ lesson(
     ],
     [
         ("Pasos: 1. Write the title. 2. Choose a picture. 3. Print the page. 4. Stick the page on the wall. Un paso inventado dice: «Check the picture is clear.» ¿Entre qué números debe ir para que tenga sentido, antes de imprimir? Responde con los números.", "Entre 2 y 3", "Se revisa la imagen elegida antes de imprimir."),
-        ("Para el paso «Put the poster on the wall» necesitas un aviso. ¿Cuál es mejor? A) Don't use tape on the paint B) Put the tape on the paint.", "A", "Don't advierte de un daño posible a la pared; la otra opción es un paso, no una advertencia."),
+        ("Para el paso «Put the poster on the wall» necesitas un aviso. ¿Cuál es mejor? A) Don't use tape on the paint B) Remember to buy more tape.", "A", "Don't advierte de un daño posible a la pared; Remember to da un dato útil, pero no avisa de un daño."),
     ],
     [("El taller de periodismo escolar quiere un afiche para enseñar a subir un trabajo a la plataforma del colegio. Eligen entre un párrafo largo y una lista de cinco pasos numerados, cada uno con verbo y un ícono. ¿Qué opción es mejor? A) La lista de cinco pasos con íconos B) El párrafo sin números ni dibujos", "A", "Los pasos numerados con íconos se siguen más rápido.")],
     [
@@ -130,7 +130,7 @@ lesson(
         ("¿Qué signo se escribe después de Materials?", "Dos puntos", "Los dos puntos anuncian la lista."),
         ("¿Cuántas acciones lleva un paso?", "Una", "Un paso, una acción."),
     ],
-    task("Lee este encargo: elige una de estas dos instrucciones y escríbela en una hoja con título How to, materiales con dos puntos y de cuatro a seis pasos numerados, con palabras de secuencia y un ícono descrito entre corchetes en cada paso. Opción 1: cómo organizar la mochila para mañana. Opción 2: cómo preparar un horario semanal de estudio. Revisa con los cinco criterios y marca cada uno.", "How to pack your backpack. Materials: your timetable, your backpack. First, read tomorrow's timetable [calendar icon]. Next, put the notebooks in the backpack [notebook icon]. Then add a pencil case [pencil icon]. Finally, check the bag [check icon].", ["título con How to y materiales con dos puntos", "cada paso empieza con un verbo y lleva una sola acción", "pasos en orden con palabras de secuencia y un ícono por paso"], ["hoja con las instrucciones y los cinco criterios marcados"], ["poner dos acciones en un paso", "olvidar el ícono o la lista de materiales"], "Pide a una persona de tu casa que siga tus pasos sin ayudarte y anota dónde se confundió."),
+    task("Lee este encargo: elige una de estas dos instrucciones y escríbela en una hoja con título How to, materiales con dos puntos y de cuatro a seis pasos numerados, con palabras de secuencia y un ícono descrito entre corchetes en cada paso. Opción 1: cómo organizar la mochila para mañana. Opción 2: cómo preparar un horario semanal de estudio. Revisa con los cinco criterios y marca cada uno.", "How to pack your backpack. Materials: your timetable, your backpack. 1. First, read tomorrow's timetable [calendar icon]. 2. Next, put the notebooks in the backpack [notebook icon]. 3. Then add a pencil case [pencil icon]. 4. Finally, check the bag [check icon].", ["título con How to y materiales con dos puntos", "cada paso empieza con un verbo y lleva una sola acción", "pasos en orden con palabras de secuencia y un ícono por paso"], ["hoja con las instrucciones y los cinco criterios marcados"], ["poner dos acciones en un paso", "olvidar el ícono o la lista de materiales"], "Pide a una persona de tu casa que siga tus pasos sin ayudarte y anota dónde se confundió."),
     "Escribe cinco verbos en forma base que sirvan para pasos de unas instrucciones sobre cuidar tus útiles.",
     "Agrega a tus instrucciones dos advertencias con Don't y explica en español qué error evita cada una.",
 )
@@ -210,18 +210,18 @@ lesson(
         ("Poner un párrafo largo en cada sección.", "El lector rápido no encuentra los datos.", "Usa viñetas cortas con un dato cada una."),
     ],
     [
-        ("Un folleto es una hoja A) plegada que informa e invita B) con una sola cita", "A", "Un folleto informa y también invita."),
+        ("Un folleto es una hoja A) plegada que informa e invita B) que solo cuenta una historia en pasado", "A", "Un folleto informa y también invita."),
         ("¿Qué significa free en la sección Price? Responde en español.", "Gratis", "Free indica que no cuesta dinero."),
-        ("¿Cuál es un llamado a la acción? A) Join us! B) It was a cold day", "A", "Join us! invita al lector a participar."),
+        ("¿Cuál es un llamado a la acción? A) Join us! B) Price: free", "A", "Join us! invita al lector a participar; Price: free es un dato, no una invitación."),
     ],
     [
-        ("Folleto: «What: board games. When: on Saturday at 11 a.m. Where: in the community centre. Price: $2.000.» ¿Cuánto cuesta y dónde es?", "$2.000; en el centro comunitario", "Price da $2.000 y Where da el lugar."),
+        ("Folleto: «What: board games. When: on Saturday at 11 a.m. Where: in the community center. Price: $2.000.» ¿Cuánto cuesta y dónde es?", "$2.000; en el centro comunitario", "Price da $2.000 y Where da el lugar."),
         ("¿Cuál es el subtítulo que indica el lugar del evento? A) Where B) Price", "A", "Where pregunta dónde; Price indica cuánto cuesta."),
         ("Elige la preposición correcta: «The party is ___ Friday.» A) on B) at", "A", "Con días de la semana se usa on."),
     ],
     [
         ("Completa con on o at: «The workshop is ___ Thursday ___ 5 p.m.»", "on, at", "Con el día se usa on y con la hora, at."),
-        ("Escribe la viñeta de lugar con estos datos, empezando con Where: el gimnasio del colegio.", "Where: at the school gym.", "El subtítulo Where va seguido del lugar con at."),
+        ("Escribe la viñeta de lugar con estos datos, empezando con Where: y usando at: el gimnasio del colegio.", "Where: at the school gym.", "El subtítulo Where va seguido del lugar con at."),
         ("Cuenta las palabras de la viñeta «When: on Friday at 4 p.m.» (sin contar los signos). Responde con el número.", "6", "When, on, Friday, at, 4 y p.m. suman 6."),
     ],
     [
@@ -238,7 +238,7 @@ lesson(
         ("¿Cuántas palabras como máximo tiene una viñeta?", "10", "El criterio 4 lo pide."),
         ("¿Cómo se llama la invitación final?", "Call to action", "Es el llamado a la acción."),
     ],
-    task("Lee este encargo: escribe el texto de un folleto para el evento ficticio «Concierto de otoño del taller de música». Datos: sábado a las 7 p.m.; en el patio techado; entrada: $2.000; 10 canciones. Escribe en una hoja un título llamativo, subtítulos con viñetas (What, When, Where y Price), una imagen descrita entre corchetes y una invitación final. Revisa con los cinco criterios.", "Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen!", ["título llamativo e invitación final", "subtítulos con viñetas de máximo 10 palabras", "datos what, when, where y price correctos, e imagen descrita"], ["hoja con el folleto y los cinco criterios marcados"], ["olvidar el lugar o el precio", "escribir párrafos largos"], "Muestra tu folleto a una persona de tu casa y pregunta qué dato encontró primero."),
+    task("Lee este encargo: escribe el texto de un folleto para el evento ficticio «Concierto de otoño del taller de música». Datos: sábado a las 7 p.m.; en el patio techado; entrada: $2.000; 10 canciones. Escribe en una hoja un título llamativo, subtítulos con viñetas (What, When, Where y Price), una imagen descrita entre corchetes y una invitación final. Revisa con los cinco criterios.", "Join our Autumn Concert! What: 10 songs by the music workshop. When: on Saturday at 7 p.m. Where: in the covered yard. Price: $2.000. [photo: students with guitars] Come and listen!", ["título llamativo e invitación final", "subtítulos con viñetas de máximo 10 palabras", "datos what, when, where y price correctos, e imagen descrita"], ["hoja con el folleto y los cinco criterios marcados"], ["olvidar el lugar o el precio", "escribir párrafos largos"], "Muestra tu folleto a una persona de tu casa y pregunta qué dato encontró primero."),
     "Escribe tres títulos llamativos para folletos de actividades del colegio.",
     "Traduce a inglés las cuatro viñetas del evento con el mismo formato y compáralas con el modelo.",
 )
@@ -270,7 +270,7 @@ lesson(
     ],
     [
         ("Texto: «Sofía's club plants a mint garden. The club meets every Monday. Students water the plants and sell small bags of mint. They give the money to a pet shelter». ¿Cuál es la idea principal? A) The club plants a mint garden and sells mint for a shelter B) The club meets on Monday.", "A", "Resume el tema completo del texto."),
-        ("En el texto anterior, ¿qué dato es un detalle clave sobre el dinero? Responde en español.", "Lo dan a un refugio de mascotas", "Dice que dan el dinero a un pet shelter."),
+        ("Texto: «Sofía's club plants a mint garden. The club meets every Monday. Students water the plants and sell small bags of mint. They give the money to a pet shelter». ¿Qué dato es un detalle clave sobre el dinero? Responde en español.", "Lo dan a un refugio de mascotas", "Dice que dan el dinero a un pet shelter."),
         ("¿Cuál reescribe con otras palabras «The club meets every Monday»? A) Members get together on Mondays B) The club meets every Monday.", "A", "A cambia las palabras y mantiene el sentido; B copia la frase."),
     ],
     [
@@ -279,20 +279,20 @@ lesson(
         ("Resumen de 21 palabras para un texto de 60 palabras. Un tercio de 60 es 20. ¿Cumple el criterio 5? Responde sí o no.", "No", "21 supera el máximo de 20 palabras."),
     ],
     [
-        ("Resumen borrador del texto Bike to School Week: «Bike to School Week takes place every April. Students go to school by bike. I think the week is great.» Revisa solo los criterios 1 a 4. ¿Qué criterio falla? Responde con su número.", "4", "I think the week is great es una opinión personal."),
-        ("Un resumen ya cumple los criterios 1 a 4 y mide menos de un tercio del original. ¿Qué le falta para cumplir el criterio 5? A) Un esquema o ícono B) Una opinión", "A", "El criterio 5 pide un esquema que acompañe el texto."),
+        ("Resumen borrador del texto Bike to School Week: «Bike to School Week takes place every April. Students go to school by bike. Last year, 220 students joined. The town painted a bike lane. I think the week is great.» Revisa solo los criterios 1 a 4. ¿Qué criterio falla? Responde con su número.", "4", "I think the week is great es una opinión personal."),
+        ("Un resumen ya cumple los criterios 1 a 4 y mide menos de un tercio del original. ¿Qué le falta para cumplir el criterio 5? A) Un esquema o ícono B) Un ejemplo copiado del original", "A", "El criterio 5 pide un esquema que acompañe el texto."),
     ],
     [
         ("Texto: «The school library opened a quiet room. It has 12 desks and 4 lamps. Students use it before exams. It is open from 2 p.m. to 5 p.m.» ¿Qué dos detalles clave pondrías en un resumen de dos oraciones, además de la idea principal? A) El horario y que se usa antes de los exámenes B) El número de lámparas y de escritorios", "A", "Responden para qué sirve y cuándo está abierta; las cifras de muebles son menos importantes."),
         ("Resumen de práctica: «The library has a quiet room open from 2 p.m. to 5 p.m. Students use it before exams.» Cuenta las palabras y escribe el número, contando 2, 5 y p.m. como palabras separadas.", "18", "The library has a quiet room open from 2 p.m. to 5 p.m. suman 13 y Students use it before exams suman 5."),
     ],
-    [("La profesora pide resumir en una sola oración este texto ficticio: «The town lake is small and clean. Volunteers clean it every year. Last Sunday, 60 neighbours picked up litter. Now ducks and fish live there». ¿Qué oración es el mejor resumen? A) Volunteers clean the town lake every year, so ducks and fish live there B) Last Sunday, 60 neighbours picked up litter.", "A", "Resume el hecho central con su causa; la otra opción es solo un detalle.")],
+    [("La profesora pide resumir en una sola oración este texto ficticio: «The town lake is small and clean. Volunteers clean it every year. Last Sunday, 60 neighbors picked up litter. Now ducks and fish live there». ¿Qué oración es el mejor resumen? A) Volunteers clean the town lake every year, so ducks and fish live there B) Last Sunday, 60 neighbors picked up litter.", "A", "Resume el hecho central con su causa; la otra opción es solo un detalle.")],
     [
         ("¿Qué incluye la primera oración de un resumen?", "La idea principal", "Dice de qué trata todo el texto."),
         ("¿Se pueden incluir opiniones en un resumen?", "No", "Un resumen solo informa."),
         ("¿Cuánto puede medir como máximo?", "Un tercio del original", "El criterio 5 fija ese límite."),
     ],
-    task("Lee este texto ficticio y escribe un resumen. Texto: «The school radio starts at 8 a.m. Students read the news for five minutes. Then they play a short song and share the weather. Last month, 30 students asked to join the team. The team meets every Tuesday to practise». El texto tiene 40 palabras, así que tu resumen puede tener como máximo 13. Escribe en una hoja un resumen con la idea principal y un detalle, sin opiniones, y añade un esquema de tres cajas. Revisa con los cinco criterios.", "The school radio shares news, a song and the weather at 8 a.m. Diagram: [news] [song] [weather].", ["la primera oración da la idea principal", "incluye un detalle clave con tus propias palabras y sin opiniones", "tiene 13 palabras o menos y un esquema"], ["hoja con el resumen, el esquema y los cinco criterios marcados"], ["copiar frases enteras", "agregar una opinión personal"], "Cuenta a una persona de tu casa el contenido del texto usando solo tu resumen y pregunta si entendió."),
+    task("Lee este texto ficticio y escribe un resumen. Texto: «The school radio starts at 8 a.m. Students read the news for five minutes. Then they play a short song and share the weather. Last month, 30 students asked to join the team. The team meets every Tuesday to practice». El texto tiene 40 palabras, así que tu resumen puede tener como máximo 13. Escribe en una hoja un resumen con la idea principal y dos detalles, sin opiniones, y añade un esquema de tres cajas. Revisa con los cinco criterios.", "The school radio shares news, a song and the weather at 8 a.m. Diagram: [news] [song] [weather].", ["la primera oración da la idea principal", "incluye dos detalles clave con tus propias palabras y sin opiniones", "tiene 13 palabras o menos y un esquema"], ["hoja con el resumen, el esquema y los cinco criterios marcados"], ["copiar frases enteras", "agregar una opinión personal"], "Cuenta a una persona de tu casa el contenido del texto usando solo tu resumen y pregunta si entendió."),
     "Subraya en un texto breve de otro curso la idea principal y dos detalles clave.",
     "Resume el mismo texto en una sola oración y compara qué detalle dejaste fuera.",
 )

@@ -95,7 +95,7 @@ lesson(
     [
         (NEIGH + " ¿Cuántas ideas tiene el desarrollo? A) tres B) dos", "A) tres", "Son First, Second y Third."),
         (NEIGH + " ¿Qué palabra introduce el resumen? A) To sum up B) Third", "A) To sum up", "Resume el mensaje final."),
-        (NEIGH + " ¿Qué hacen las familias en el parque? A) juegan los fines de semana B) trabajan", "A) juegan los fines de semana", "Dice families play on weekends."),
+        (NEIGH + " ¿Qué hacen las familias en el parque? A) juegan los fines de semana B) corren una maratón", "A) juegan los fines de semana", "Dice families play on weekends."),
     ],
     [
         ("Ordena con letras las partes de una exposición. A) closing B) body C) opening", "C, B, A", "Primero apertura, luego desarrollo y al final cierre."),
@@ -108,7 +108,7 @@ lesson(
     ],
     [
         (NEIGH + " Una persona del público pregunta: «Do the neighbors help each other?» ¿Qué respondes con tu guion? A) Yes, they do; the third idea says so B) No, they don't", "A) Yes, they do; the third idea says so", "El guion dice que los vecinos se ayudan."),
-        ("Un estudiante empieza con «Today I will talk about my neighborhood» pero no dice su nombre ni saluda. ¿Qué mejora la apertura? A) agregar Good morning, everyone B) quitar el tema", "A) agregar Good morning, everyone", "La apertura lleva saludo y tema."),
+        ("Un estudiante empieza con «Today I will talk about my neighborhood» pero no dice su nombre ni saluda. ¿Qué mejora la apertura? A) agregar Good morning, everyone B) quitar el nombre del barrio", "A) agregar Good morning, everyone", "La apertura lleva saludo y tema."),
     ],
     [("Una exposición dice: «First, plastic bottles are everywhere. Second, they take years to break down. Finally, we can use water bottles again.» (break down = descomponerse, again = de nuevo). ¿Qué conector abre la última idea?", "Finally", "Introduce la última idea.")],
     [
@@ -160,7 +160,7 @@ lesson(
         ("Une cada necesidad con su recurso. 1) comparar cantidades 2) mostrar un proceso 3) enseñar vocabulario Recursos: a) diagrama b) gráfico de barras c) imágenes con rótulos", "1-b, 2-a, 3-c", "Cada recurso cumple una función distinta."),
     ],
     [
-        (SLIDEB + " Durante la exposición, ¿qué gesto refuerza la imagen de la botella? A) mostrar la imagen con la mano y mirar a la audiencia B) darle la espalda a la audiencia", "A) mostrar la imagen con la mano y mirar a la audiencia", "El gesto dirige la atención y mantiene el contacto."),
+        (SLIDEB + " Durante la exposición, ¿qué gesto refuerza la imagen de la botella? A) mostrar la imagen con la mano y mirar a la audiencia B) mirar solo la pantalla mientras se señala", "A) mostrar la imagen con la mano y mirar a la audiencia", "El gesto dirige la atención y mantiene el contacto."),
         (BOT + " Un compañero dice que 1.º A recolectó más que 1.º B. ¿Cómo lo corriges con el gráfico? A) 1.º B recolectó 31 y 1.º A, 24 B) 1.º A recolectó 31", "A) 1.º B recolectó 31 y 1.º A, 24", "La tabla muestra lo contrario."),
     ],
     [
@@ -207,7 +207,7 @@ lesson(
     [
         (FEST2 + " Una persona pregunta «When is the festival?». ¿Qué respondes? A) It is on Saturday at four. B) It is in the gym.", "A) It is on Saturday at four.", "Responde a When con día y hora."),
         (FEST2 + " ¿Qué palabra en inglés designa a las personas que ayudan sin recibir pago? A) volunteers B) tickets", "A) volunteers", "Voluntarios se dice volunteers."),
-        (FEST2 + " ¿Qué atracciones hay? A) danza, teatro y comida tradicional B) fútbol y cine", "A) danza, teatro y comida tradicional", "Es lo que dice el dato de atracciones."),
+        (FEST2 + " ¿Qué atracciones hay? A) danza, teatro y comida tradicional B) danza, teatro y artesanía", "A) danza, teatro y comida tradicional", "Es lo que dice el dato de atracciones."),
     ],
     [
         ("Une cada función con su frase. 1) agradecer 2) ejemplificar 3) pasar a otra idea Frases: a) For example… b) Thank you for listening. c) Now let's move to…", "1-b, 2-a, 3-c", "Cada frase hace algo distinto en la exposición."),
@@ -283,7 +283,7 @@ lesson(
         ("¿Qué sonido empieza year?", "/j/, como la y de yo", "No es jet."),
         ("¿Qué haces si te equivocas al hablar?", "Me corrijo y sigo", "Autocorregirse es parte de hablar bien."),
     ],
-    task("Lee en voz alta, frente a una persona de tu casa, este guion original: «Good morning. This year I visited a train station. There was a tree near the entrance. Yesterday I read the information board. Then I drank a drink and sat on a seat.» (entrance = entrada, board = panel). En tu hoja marca: las palabras con -tion, con tr, con dr y con /j/, y una palabra con vocal larga.", "Con -tion: station, information. Con tr: train, tree. Con dr: drank, drink. Con /j/: year, yesterday. Vocal larga: seat o tree.", ["marca cada grupo correctamente", "lee con la persona y pide que oiga los sonidos", "se autocorrige si se equivoca"], ["hoja con palabras marcadas", "nota de la persona oyente"], ["pronunciar tion con t", "separar la t o la d de la r"], "Valora los sonidos logrados y practica solo los difíciles tres veces más."),
+    task("Lee en voz alta, frente a una persona de tu casa, este guion original: «Good morning. This year I visited a train station. There was a tree near the entrance. Yesterday I read the information board. Then I drank a drink and sat on a seat.» (entrance = entrada, board = panel). En tu hoja marca: las palabras con -tion, las que empiezan con tr, las que empiezan con dr, las que empiezan con /j/, y una palabra con vocal larga.", "Con -tion: station, information. Con tr: train, tree. Con dr: drank, drink. Con /j/: year, yesterday. Vocal larga: seat o tree.", ["marca cada grupo correctamente", "lee con la persona y pide que oiga los sonidos", "se autocorrige si se equivoca"], ["hoja con palabras marcadas", "nota de la persona oyente"], ["pronunciar tion con t", "separar la t o la d de la r"], "Valora los sonidos logrados y practica solo los difíciles tres veces más."),
     "Vuelve a leer el guion de las vacaciones y marca las palabras con -tion y con /j/.",
     "Escribe en español tres palabras del inglés que te cuesten pronunciar y cómo las practicarás.",
 )

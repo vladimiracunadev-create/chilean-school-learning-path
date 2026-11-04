@@ -64,7 +64,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Consigna exacta:** Escoge un servicio. A: préstamo de libros del curso. B: reparto de apuntes a quienes faltaron. C: ayuda para subir compras en un edificio. Dibuja o escribe el flujo con al menos 5 pasos (incluye solicitud, registro, atención, entrega y seguimiento), un rombo con una decisión de sí o no, el rol de cada paso, un tiempo de ejemplo para cada uno, el cuello de botella con cuántas solicitudes por hora se completan y un plan B si falla el medio digital.
 
-**Referencia para modelar y corregir:** B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí o no, copiar (6 min, encargada o encargado), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel
+**Referencia para modelar y corregir:** B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí: copiar (6 min, encargada o encargado); no: avisar a quien pidió (1 min), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí o no, copiar (6 min, encargada o encargado), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí: copiar (6 min, encargada o encargado); no: avisar a quien pidió (1 min), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -202,7 +202,7 @@ Respuesta: Preparar; se completan 10 solicitudes por hora
 - **E2.** La función que cumple cada persona del equipo. Asigna responsables a los pasos.
 - **E3.** El más lento. Es el cuello de botella.
 
-**Actividad abierta · ejemplo de respuesta.** B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí o no, copiar (6 min, encargada o encargado), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel
+**Actividad abierta · ejemplo de respuesta.** B: solicitud por formulario (1 min, delegada o delegado), registro en planilla (1 min, secretaria o secretario), ¿hay apuntes? sí: copiar (6 min, encargada o encargado); no: avisar a quien pidió (1 min), entregar (2 min), seguimiento (1 min). Cuello de botella: copiar, 10 solicitudes por hora. Plan B: formulario en papel
 
 **Criterios para evaluarla:** incluye las cinco etapas; pone un rombo con ambas salidas; asigna un rol a cada paso; calcula el cuello de botella; propone un plan B.
 
@@ -588,7 +588,7 @@ Respuesta: Ambiental positivo
 
 *Situaciones auténticas*
 
-- **S1.** Un servicio vecinal de ejemplo presta escaleras plegables: 15 familias dejaron de comprar una de $20.000. ¿Cuánto dinero evitaron gastar y de qué tipo es el impacto?
+- **S1.** Un servicio vecinal de ejemplo presta mesas plegables: 15 familias dejaron de comprar una de $20.000. ¿Cuánto dinero evitaron gastar y de qué tipo es el impacto?
 
 *Autoevaluación*
 
@@ -688,7 +688,7 @@ Respuesta: Ambiental positivo
 
 **Consigna exacta:** Escribe el manual de cuidado y seguridad de este servicio de ejemplo: «ayuda presencial con trámites en línea para adultos mayores del barrio, en la sede vecinal, los sábados». Incluye (a) tres normas de seguridad digital, (b) tres normas de seguridad física, (c) un protocolo de cuatro pasos ante un mensaje ofensivo en el chat del servicio y (d) cómo harías una prueba piloto con 5 personas y qué medirías.
 
-**Referencia para modelar y corregir:** (a) Claves largas y distintas; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción
+**Referencia para modelar y corregir:** (a) Claves largas y distintas, sin pedir ni anotar las de los usuarios; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -702,7 +702,7 @@ Respuesta: Ambiental positivo
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) Claves largas y distintas; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: (a) Claves largas y distintas, sin pedir ni anotar las de los usuarios; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -722,7 +722,7 @@ Respuesta: Ambiental positivo
 
 **Explicación.**
 
-La seguridad digital protege a las personas y a sus datos. Se usan contraseñas largas, distintas para cada cuenta y que no se comparten ni se escriben en el chat. Al terminar en un equipo compartido se cierra la sesión. No se abren enlaces dudosos. Los datos se guardan en un lugar con acceso limitado y, cuando se puede, se usan recursos que no exigen cuenta.
+La seguridad digital protege a las personas y a sus datos. Se usan contraseñas largas, distintas para cada cuenta y que no se comparten ni se escriben en el chat. Al terminar en un equipo compartido se cierra la sesión. No se abren enlaces dudosos. Nunca se pide ni se anota la clave de un usuario: si hay que ingresar a su cuenta, lo hace él o ella. Los datos se guardan en un lugar con acceso limitado y, cuando se puede, se usan recursos que no exigen cuenta.
 
 La seguridad física importa si el servicio es presencial: se presta en un lugar visible, con otras personas del equipo presentes y con el permiso de la escuela o de una persona adulta responsable. Nadie atiende solo a una persona desconocida. Al usar pantallas se hacen pausas y se cuida la postura.
 
@@ -826,7 +826,7 @@ Respuesta: No entrega datos, guarda evidencia, bloquea y avisa a una persona adu
 - **E2.** Para detectar fallas y riesgos con un grupo pequeño. Se corrige antes de abrir el servicio a todos.
 - **E3.** Avisas a una persona adulta de confianza. Nunca se enfrenta ni se guarda el secreto.
 
-**Actividad abierta · ejemplo de respuesta.** (a) Claves largas y distintas; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción
+**Actividad abierta · ejemplo de respuesta.** (a) Claves largas y distintas, sin pedir ni anotar las de los usuarios; no abrir enlaces dudosos; cerrar sesión al terminar. (b) Lugar visible; al menos dos integrantes por atención; permiso de la sede y de una persona adulta responsable. (c) No responder, guardar captura, bloquear, avisar a una persona adulta responsable. (d) 5 atenciones; medir fallas de seguridad detectadas y satisfacción
 
 **Criterios para evaluarla:** tres normas digitales; tres normas físicas; protocolo con avisar a una persona adulta; piloto con algo medible.
 

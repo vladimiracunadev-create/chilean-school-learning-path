@@ -147,20 +147,20 @@ Respuesta: Es un aviso publicitario; su propósito es convencer de unirse al clu
 *Recuperación*
 
 - **R1.** Un adulto lee en voz alta (tapa el guion): «Good morning. The town library opened a new reading room for teenagers yesterday. Mayor Ruiz said it will have forty computers and a quiet corner. Visitors can use it every day until eight in the evening.» (library = biblioteca, reading room = sala de lectura, mayor = alcalde, quiet = tranquilo, corner = rincón, visitors = visitantes) ¿Qué formato es? A) un aviso publicitario B) una noticia
-- **R2.** Un adulto lee en voz alta (tapa el guion): «Tired of walking to school? Try the new city bikes! Rent a bike for only five hundred pesos an hour. Download the app and ride today!» (tired of = cansado de, rent = arrendar, only = solo, download = descargar, ride = andar en bicicleta) ¿Qué formato es? A) una entrevista B) un aviso publicitario
-- **R3.** Un adulto lee en voz alta (tapa el guion): «Presenter: Today we meet Javier, a volunteer at an animal shelter. Javier, why do you volunteer? Javier: Because I love dogs, and they need help. Presenter: How often do you go? Javier: Every Saturday morning.» (presenter = presentador, volunteer = voluntario, shelter = refugio, need = necesitan, often = con qué frecuencia) ¿Qué pista muestra que es una entrevista? A) se explican los pasos de una receta B) el presentador pregunta y Javier responde
+- **R2.** Un adulto lee en voz alta (tapa el guion): «Tired of walking to school? Try the new city bikes! Rent a bike for only five hundred pesos an hour. Download the app and ride today!» (tired of = cansado de, rent = arrendar, only = solo, download = descargar, ride = andar en bicicleta) ¿Qué formato es? A) un aviso publicitario B) una noticia
+- **R3.** Un adulto lee en voz alta (tapa el guion): «Presenter: Today we meet Javier, a volunteer at an animal shelter. Javier, why do you volunteer? Javier: Because I love dogs, and they need help. Presenter: How often do you go? Javier: Every Saturday morning.» (presenter = presentador, volunteer = voluntario, shelter = refugio, need = necesitan, often = con qué frecuencia) ¿Qué pista muestra que es una entrevista? A) el presentador pregunta y Javier responde por turnos B) una sola persona cuenta lo que le pasó, en pasado
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «To save a document on a computer, first click File. Next, choose Save as. Then write a name for your document. Finally, press Enter.» (save = guardar, choose = elige, name = nombre, press = presiona) ¿Cuál es el propósito? A) enseñar a guardar un documento B) contar una experiencia
-- **C2.** Un adulto lee en voz alta (tapa el guion): «Last year, I joined the school radio club. On my first day, I was so nervous that I dropped my notes. My friend Paz laughed and helped me pick them up. Now we present the news together every Friday.» (joined = me uní a, nervous = nervioso, dropped = se me cayeron, notes = apuntes, laughed = se rió, pick up = recoger, together = juntos) ¿Cuál es el propósito? A) compartir una experiencia personal B) anunciar un servicio
+- **C1.** Un adulto lee en voz alta (tapa el guion): «To save a document on a computer, first click File. Next, choose Save as. Then write a name for your document. Finally, press Enter.» (save = guardar, choose = elige, name = nombre, press = presiona) ¿Cuál es el propósito? A) enseñar a guardar un documento B) convencer de usar un programa nuevo
+- **C2.** Un adulto lee en voz alta (tapa el guion): «Last year, I joined the school radio club. On my first day, I was so nervous that I dropped my notes. My friend Paz laughed and helped me pick them up. Now we present the news together every Friday.» (joined = me uní a, nervous = nervioso, dropped = se me cayeron, notes = apuntes, laughed = se rió, pick up = recoger, together = juntos) ¿Cuál es el propósito? A) enseñar pasos para hacer algo B) compartir una experiencia personal
 - **C3.** Un adulto lee en voz alta (tapa el guion): «Once upon a time a tiny robot lived in an old clock tower. Every night it counted the stars. One night, it counted one star too many, and it found a new comet.» (tiny = diminuto, clock tower = torre del reloj, counted = contaba, stars = estrellas, comet = cometa) ¿Por qué es una narración? A) cuenta una historia de ficción y empieza con Once upon a time B) informa un hecho real de hoy
 
 *Aplicación*
 
 - **A1.** Un adulto lee en voz alta (tapa el guion): Tres mensajes. M1: «Attention, please. The library closes at six today.» M2: «Last week I found a wallet and I returned it to its owner.» M3: «First, add water. Then add the rice. Finally, wait twenty minutes.» (attention = atención, closes = cierra, wallet = billetera, owner = dueño, returned = devolví, add = agrega, wait = espera). Clasifica cada mensaje: aviso público, anécdota o procedimiento.
-- **A2.** Un adulto lee en voz alta (tapa el guion): «Tired of walking to school? Try the new city bikes! Rent a bike for only five hundred pesos an hour. Download the app and ride today!» (tired of = cansado de, rent = arrendar, only = solo, download = descargar, ride = andar en bicicleta) ¿A quién se dirige principalmente? A) a personas que caminan a la escuela y podrían arrendar una bicicleta B) a conductores de camión
-- **A3.** Un adulto lee en voz alta (tapa el guion): «Good morning. The town library opened a new reading room for teenagers yesterday. Mayor Ruiz said it will have forty computers and a quiet corner. Visitors can use it every day until eight in the evening.» (library = biblioteca, reading room = sala de lectura, mayor = alcalde, quiet = tranquilo, corner = rincón, visitors = visitantes) ¿Cuál es la idea general? A) el alcalde viajó a otra ciudad B) la biblioteca abrió una sala de lectura para adolescentes
+- **A2.** Un adulto lee en voz alta (tapa el guion): «Tired of walking to school? Try the new city bikes! Rent a bike for only five hundred pesos an hour. Download the app and ride today!» (tired of = cansado de, rent = arrendar, only = solo, download = descargar, ride = andar en bicicleta) ¿A quién se dirige principalmente? A) a personas que caminan a la escuela y podrían arrendar una bicicleta B) a personas que ya tienen bicicleta y quieren repararla
+- **A3.** Un adulto lee en voz alta (tapa el guion): «Good morning. The town library opened a new reading room for teenagers yesterday. Mayor Ruiz said it will have forty computers and a quiet corner. Visitors can use it every day until eight in the evening.» (library = biblioteca, reading room = sala de lectura, mayor = alcalde, quiet = tranquilo, corner = rincón, visitors = visitantes) ¿Cuál es la idea general? A) la sala tiene cuarenta computadores y abre hasta las ocho B) la biblioteca abrió una sala de lectura para adolescentes
 
 *Razonamiento y análisis*
 
@@ -169,12 +169,12 @@ Respuesta: Es un aviso publicitario; su propósito es convencer de unirse al clu
 
 *Desafío*
 
-- **D1.** Un adulto lee en voz alta (tapa el guion): «Hello, I am calling about your ad. Is the guitar still for sale? I can come tomorrow at four and pay in cash.» (ad = aviso, still = todavía, for sale = en venta, pay in cash = pagar en efectivo). ¿Cuál es el propósito de quien llama? A) preguntar si un objeto sigue en venta y acordar una visita B) informar una noticia de la ciudad
-- **D2.** Un adulto lee en voz alta (tapa el guion): Un oyente solo entendió las palabras first, next, finally y click. ¿Qué formato podría ser? A) un procedimiento B) una entrevista
+- **D1.** Un adulto lee en voz alta (tapa el guion): «Hello, I am calling about your ad. Is the guitar still for sale? I can come tomorrow at four and pay in cash.» (ad = aviso, still = todavía, for sale = en venta, pay in cash = pagar en efectivo). ¿Cuál es el propósito de quien llama? A) preguntar si un objeto sigue en venta y acordar una visita B) ofrecer una guitarra en venta
+- **D2.** Un adulto lee en voz alta (tapa el guion): «First, click File. Next, click Print. Finally, press Enter.» (click = hacer clic, print = imprimir, press = presiona). ¿Qué formato es? A) un aviso publicitario B) un procedimiento
 
 *Situaciones auténticas*
 
-- **S1.** Un adulto lee en voz alta (tapa el guion): Estás en una estación y escuchas: «Attention, please. Line two is closed between Central Station and Park Station. Please use the buses outside.» (line = línea, closed = cerrada, between = entre, outside = afuera). ¿Cuál es el propósito? A) contar una anécdota de viaje B) avisar un cambio y pedir que uses los buses
+- **S1.** Un adulto lee en voz alta (tapa el guion): Estás en una estación y escuchas: «Attention, please. Line two is closed between Central Station and Park Station. Please use the buses outside.» (line = línea, closed = cerrada, between = entre, outside = afuera). ¿Cuál es el propósito? A) invitar a comprar pasajes de bus B) avisar un cambio y pedir que uses los buses
 
 *Autoevaluación*
 
@@ -187,10 +187,10 @@ Respuesta: Es un aviso publicitario; su propósito es convencer de unirse al clu
 **Solucionario razonado**
 
 - **R1.** B) una noticia. Informa un hecho reciente: la biblioteca abrió una sala ayer.
-- **R2.** B) un aviso publicitario. Usa preguntas y órdenes (Try, Download) para convencer de usar un servicio.
-- **R3.** B) el presentador pregunta y Javier responde. Las preguntas y respuestas por turnos son la marca de una entrevista.
+- **R2.** A) un aviso publicitario. Usa preguntas y órdenes (Try, Download) para convencer de usar un servicio.
+- **R3.** A) el presentador pregunta y Javier responde por turnos. Las preguntas y respuestas por turnos son la marca de una entrevista.
 - **C1.** A) enseñar a guardar un documento. Usa first, next, then y finally para ordenar los pasos.
-- **C2.** A) compartir una experiencia personal. El hablante cuenta lo que le pasó, en pasado.
+- **C2.** B) compartir una experiencia personal. El hablante cuenta lo que le pasó, en pasado.
 - **C3.** A) cuenta una historia de ficción y empieza con Once upon a time. Un robot que cuenta estrellas es ficción, y esa frase abre muchos cuentos.
 - **A1.** M1 aviso público, M2 anécdota, M3 procedimiento. M1 informa un cierre, M2 cuenta algo pasado y M3 ordena pasos.
 - **A2.** A) a personas que caminan a la escuela y podrían arrendar una bicicleta. La pregunta inicial habla de caminar a la escuela.
@@ -198,7 +198,7 @@ Respuesta: Es un aviso publicitario; su propósito es convencer de unirse al clu
 - **Z1.** B) no: usa órdenes como Try y Download para convencer. El precio es un dato de apoyo; el propósito es persuadir.
 - **Z2.** A) es una entrevista porque un presentador pregunta y Javier responde por turnos. El formato se decide por la estructura de preguntas y respuestas.
 - **D1.** A) preguntar si un objeto sigue en venta y acordar una visita. Pregunta por la guitarra y propone una hora para ir.
-- **D2.** A) un procedimiento. Esas palabras ordenan pasos y click es una acción.
+- **D2.** B) un procedimiento. First, next y finally ordenan pasos; las órdenes no intentan vender nada.
 - **S1.** B) avisar un cambio y pedir que uses los buses. Informa un cierre y pide una acción con Please use.
 - **E1.** La razón por la que se habla: informar, convencer, enseñar, contar o entretener. Responde para qué se dice el texto.
 - **E2.** First, next, then y finally. Marcan el orden de las acciones.
@@ -584,7 +584,7 @@ Respuesta: Se visita la sala de ciencias
 
 *Razonamiento y análisis*
 
-- **Z1.** Un adulto lee en voz alta (tapa el guion): «I have collected stamps for three years. I used to buy them in shops, but now I trade with friends. Last month I found a very old stamp from my grandmother's house. Later I will show it at the school club.» (collected = he coleccionado, stamps = estampillas, trade = intercambiar, shops = tiendas, found = encontré, old = antigua, show = mostrar) ¿Qué dato es verdadero? A) coleccionar estampillas es algo que hace desde hace tres años B) coleccionó estampillas solo el mes pasado
+- **Z1.** Un adulto lee en voz alta (tapa el guion): «I have collected stamps for three years. I used to buy them in shops, but now I trade with friends. Last month I found a very old stamp from my grandmother's house. Later I will show it at the school club.» (collected = he coleccionado, stamps = estampillas, trade = intercambiar, shops = tiendas, found = encontré, old = antigua, show = mostrar) ¿Qué dato es verdadero? A) empezó a coleccionar estampillas el mes pasado B) colecciona estampillas desde hace tres años
 - **Z2.** Un adulto lee en voz alta (tapa el guion): «I have collected stamps for three years. I used to buy them in shops, but now I trade with friends. Last month I found a very old stamp from my grandmother's house. Later I will show it at the school club.» (collected = he coleccionado, stamps = estampillas, trade = intercambiar, shops = tiendas, found = encontré, old = antigua, show = mostrar) ¿Cuál es la idea general? A) cuenta cómo cambió su forma de conseguir estampillas y qué hará con una antigua B) enseña pasos para pegar una estampilla en una carta
 
 *Desafío*
@@ -615,7 +615,7 @@ Respuesta: Se visita la sala de ciencias
 - **A1.** b, d, a, c. Las marcas first, then, later y last dan el orden.
 - **A2.** A) que caminar era buen ejercicio. Dice he says walking was good exercise.
 - **A3.** B) Elisa cuenta cambios en su vida y un plan de viaje. Mezcla un antes (used to), un hábito de estudio y un plan, sin dar pasos.
-- **Z1.** A) coleccionar estampillas es algo que hace desde hace tres años. Dice have collected stamps for three years.
+- **Z1.** B) colecciona estampillas desde hace tres años. Dice have collected stamps for three years.
 - **Z2.** A) cuenta cómo cambió su forma de conseguir estampillas y qué hará con una antigua. Mezcla pasado (used to), presente y futuro (later), sin dar pasos.
 - **D1.** A) diez años. Used to live in Peru for ten years; los dos años son en Chile.
 - **D2.** A) en bicicleta. Used to go by bus es el pasado; hoy dice I ride my bike.
@@ -776,9 +776,9 @@ Respuesta: What time does it start?
 
 *Recuperación*
 
-- **R1.** Un adulto lee en voz alta (tapa el guion): Persona A: «The science fair is on Thursday, and it is in the gym. Entry is free.» Persona B: «It starts at four o'clock and finishes at seven. Bring your student card.» (science fair = feria de ciencias, gym = gimnasio, entry = entrada, finishes = termina, student card = credencial de estudiante) ¿Qué día es la feria de ciencias? A) el jueves B) el viernes
+- **R1.** Un adulto lee en voz alta (tapa el guion): Persona A: «The science fair is on Thursday, and it is in the gym. Entry is free.» Persona B: «It starts at four o'clock and finishes at seven. Bring your student card.» (science fair = feria de ciencias, gym = gimnasio, entry = entrada, finishes = termina, student card = credencial de estudiante) ¿Qué día es la feria de ciencias? A) el martes B) el jueves
 - **R2.** Un adulto lee en voz alta (tapa el guion): Persona A: «The science fair is on Thursday, and it is in the gym. Entry is free.» Persona B: «It starts at four o'clock and finishes at seven. Bring your student card.» (science fair = feria de ciencias, gym = gimnasio, entry = entrada, finishes = termina, student card = credencial de estudiante) ¿A qué hora empieza? A) a las cuatro B) a las siete
-- **R3.** Un adulto lee en voz alta (tapa el guion): Persona A: «The beach clean-up is on Saturday morning. Volunteers get free gloves.» Persona B: «Meet at the pier at eight. Wear old shoes and a hat.» (clean-up = limpieza, volunteers = voluntarios, gloves = guantes, pier = muelle, wear = usa, hat = sombrero) ¿Dónde se juntan los voluntarios? A) en el muelle B) en la playa grande
+- **R3.** Un adulto lee en voz alta (tapa el guion): Persona A: «The beach clean-up is on Saturday morning. Volunteers get free gloves.» Persona B: «Meet at the pier at eight. Wear old shoes and a hat.» (clean-up = limpieza, volunteers = voluntarios, gloves = guantes, pier = muelle, wear = usa, hat = sombrero) ¿Dónde se juntan los voluntarios? A) en el muelle B) en la playa, donde es la limpieza
 
 *Comprensión*
 
@@ -789,13 +789,13 @@ Respuesta: What time does it start?
 *Aplicación*
 
 - **A1.** Un adulto lee en voz alta (tapa el guion): Persona A: «The cooking class is on Tuesday at five. It costs six thousand pesos.» Persona B: «The class is in the school kitchen. You need an apron and a clean towel.» (cooking class = clase de cocina, costs = cuesta, kitchen = cocina, apron = delantal, towel = toalla) Si solo hubieras escuchado a Persona A, ¿qué pregunta harías para saber dónde es la clase? A) Where is the class? B) How much is the class?
-- **A2.** Un adulto lee en voz alta (tapa el guion): Persona A: «We will meet at the park gate on Sunday at nine. The route is twenty kilometres.» Persona B: «Bring water and a helmet. If it rains, we will ride on Monday.» (gate = portón, route = ruta, helmet = casco, rains = llueve, ride = andar en bicicleta) ¿Qué pasa si llueve el domingo? A) el paseo se hace el lunes B) el paseo se cancela para siempre
+- **A2.** Un adulto lee en voz alta (tapa el guion): Persona A: «We will meet at the park gate on Sunday at nine. The route is twenty kilometres.» Persona B: «Bring water and a helmet. If it rains, we will ride on Monday.» (gate = portón, route = ruta, helmet = casco, rains = llueve, ride = andar en bicicleta) ¿Qué pasa si llueve el domingo? A) el paseo se hace igual el domingo, con lluvia B) el paseo se hace el lunes
 - **A3.** Un adulto lee en voz alta (tapa el guion): Persona A: «The science fair is on Thursday, and it is in the gym. Entry is free.» Persona B: «It starts at four o'clock and finishes at seven. Bring your student card.» (science fair = feria de ciencias, gym = gimnasio, entry = entrada, finishes = termina, student card = credencial de estudiante) ¿Cuántas horas dura la feria de ciencias?
 
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): Persona A: «The cooking class is on Tuesday at five. It costs six thousand pesos.» Persona B: «The class is in the school kitchen. You need an apron and a clean towel.» (cooking class = clase de cocina, costs = cuesta, kitchen = cocina, apron = delantal, towel = toalla) Tres amigos van a la clase de cocina. ¿Cuántos pesos pagan entre todos?
-- **Z2.** Un adulto lee en voz alta (tapa el guion): Persona A: «We will meet at the park gate on Sunday at nine. The route is twenty kilometres.» Persona B: «Bring water and a helmet. If it rains, we will ride on Monday.» (gate = portón, route = ruta, helmet = casco, rains = llueve, ride = andar en bicicleta) Un amigo anotó: domingo, nueve de la mañana, portón del parque, veinte kilómetros. ¿Qué dato de Persona B falta en su nota? A) llevar agua y casco B) la hora de llegada
+- **Z2.** Un adulto lee en voz alta (tapa el guion): Persona A: «We will meet at the park gate on Sunday at nine. The route is twenty kilometres.» Persona B: «Bring water and a helmet. If it rains, we will ride on Monday.» (gate = portón, route = ruta, helmet = casco, rains = llueve, ride = andar en bicicleta) Un amigo anotó: domingo, nueve de la mañana, portón del parque, veinte kilómetros. ¿Qué dato de Persona B falta en su nota? A) el lugar de encuentro B) llevar agua y casco
 
 *Desafío*
 
@@ -804,7 +804,7 @@ Respuesta: What time does it start?
 
 *Situaciones auténticas*
 
-- **S1.** Un adulto lee en voz alta (tapa el guion): Persona A: «The bake sale is on Friday in the school patio.» Persona B: «Every cake costs one thousand pesos, and the money is for a school trip.» (bake sale = venta de pasteles, patio = patio, cake = pastel, trip = paseo). Compras 3 pasteles. ¿Cuántos pesos pagas?
+- **S1.** Un adulto lee en voz alta (tapa el guion): Persona A: «The bake sale is on Friday in the school patio.» Persona B: «Every cake costs one thousand pesos, and the money is for a school trip.» (bake sale = venta de pasteles, patio = patio, cake = pastel, trip = paseo; vuelto = lo que te devuelven). Compras 3 pasteles y pagas con un billete de $5.000. ¿Cuántos pesos de vuelto recibes?
 
 *Autoevaluación*
 
@@ -816,20 +816,20 @@ Respuesta: What time does it start?
 
 **Solucionario razonado**
 
-- **R1.** A) el jueves. Persona A dice on Thursday.
+- **R1.** B) el jueves. Persona A dice on Thursday.
 - **R2.** A) a las cuatro. Persona B dice It starts at four o'clock; las siete es la hora de término.
 - **R3.** A) en el muelle. Persona B dice Meet at the pier.
 - **C1.** A) la hora de inicio y término, y qué llevar. El día y el lugar los dijo Persona A.
 - **C2.** B) el día, la hora y el precio. Tuesday, five y six thousand pesos son de A; kitchen y apron son de B.
 - **C3.** B) zapatos viejos y sombrero. Persona B pide old shoes and a hat; los guantes los entregan.
 - **A1.** A) Where is the class?. Where pregunta por el lugar.
-- **A2.** A) el paseo se hace el lunes. Dice If it rains, we will ride on Monday.
+- **A2.** B) el paseo se hace el lunes. Dice If it rains, we will ride on Monday.
 - **A3.** 3 horas. Empieza a las 4 y termina a las 7. Cálculo: 7 − 4 = 3.
 - **Z1.** 18.000 pesos. Se multiplican tres personas por 6.000 pesos. Cálculo: 3 × 6000 = 18.000.
-- **Z2.** A) llevar agua y casco. Su nota solo tiene lo que dijo A.
+- **Z2.** B) llevar agua y casco. Su nota solo tiene lo que dijo A.
 - **D1.** A) que es el sábado en la mañana. Persona A dice Saturday morning; los guantes no hablan del horario.
 - **D2.** B) 4.000 pesos. Cada entrada cuesta 2.000 y son dos amigos: 2 × 2.000.
-- **S1.** 3.000 pesos. Cada pastel cuesta 1.000 pesos. Cálculo: 3 × 1000 = 3.000.
+- **S1.** 2.000 pesos. Se resta el costo de 3 pasteles (3 × 1.000) a los 5.000 que entregas. Cálculo: 5000 − 3 × 1000 = 2.000.
 - **E1.** Una situación en que cada persona sabe solo una parte del mensaje. Hay que combinar lo que dicen ambas.
 - **E2.** Could you repeat that, please?. Es la frase para pedir repetición.
 - **E3.** How much is it?. How much pregunta cuánto cuesta algo.
@@ -992,9 +992,9 @@ Respuesta: Sí, porque hay menos tráfico (otra respuesta válida: no, porque to
 
 *Comprensión*
 
-- **C1.** Un adulto lee en voz alta (tapa el guion): «Chorus: We are walking, we are singing, the sun is up, the day is long. Together, together, together we are strong!» (chorus = coro, sun = sol, long = largo, together = juntos, strong = fuertes) ¿De qué trata principalmente la canción? A) de un viaje en avión B) de caminar juntos y sentirse fuertes
-- **C2.** Un adulto lee en voz alta (tapa el guion): «Last Tuesday, I lost my keys on the way home. I looked in my bag, in my pockets and at the bus stop. Then I called the bus company, and a driver had them! I was happy, but I decided to buy a key ring with my name.» (lost = perdí, keys = llaves, pockets = bolsillos, bus stop = paradero, driver = conductor, key ring = llavero) ¿Qué decidió hacer al final? A) dejar de usar el bus B) comprar un llavero con su nombre
-- **C3.** Un adulto lee en voz alta (tapa el guion): «Hello and welcome to Teen Voices. Today we talk to Camila, who has studied violin for five years. Camila, what is the hardest part? Camila: Practising every day, even when I am tired. But I have learned that small steps help. I used to practise for two hours once a week; now I practise thirty minutes every day.» (teen voices = voces jóvenes, violin = violín, hardest = lo más difícil, tired = cansada, small steps = pasos pequeños, once a week = una vez por semana) ¿Qué aprendió Camila? A) que debe practicar solo los fines de semana B) que los pasos pequeños ayudan
+- **C1.** Un adulto lee en voz alta (tapa el guion): «Chorus: We are walking, we are singing, the sun is up, the day is long. Together, together, together we are strong!» (chorus = coro, sun = sol, long = largo, together = juntos, strong = fuertes) ¿De qué trata principalmente la canción? A) de lo largo y cansador que es un día B) de caminar juntos y sentirse fuertes
+- **C2.** Un adulto lee en voz alta (tapa el guion): «Last Tuesday, I lost my keys on the way home. I looked in my bag, in my pockets and at the bus stop. Then I called the bus company, and a driver had them! I was happy, but I decided to buy a key ring with my name.» (lost = perdí, keys = llaves, pockets = bolsillos, bus stop = paradero, driver = conductor, key ring = llavero) ¿Qué decidió hacer al final? A) comprar un llavero con su nombre B) llamar otra vez a la empresa de buses
+- **C3.** Un adulto lee en voz alta (tapa el guion): «Hello and welcome to Teen Voices. Today we talk to Camila, who has studied violin for five years. Camila, what is the hardest part? Camila: Practising every day, even when I am tired. But I have learned that small steps help. I used to practise for two hours once a week; now I practise thirty minutes every day.» (teen voices = voces jóvenes, violin = violín, hardest = lo más difícil, tired = cansada, small steps = pasos pequeños, once a week = una vez por semana) ¿Qué aprendió Camila? A) que practicar dos horas seguidas es mejor B) que los pasos pequeños ayudan
 
 *Aplicación*
 
@@ -1005,12 +1005,12 @@ Respuesta: Sí, porque hay menos tráfico (otra respuesta válida: no, porque to
 *Razonamiento y análisis*
 
 - **Z1.** Un adulto lee en voz alta (tapa el guion): «In the town of Lomas, a group of parents started a walking bus: children walk to school together with an adult every morning. Before, many families used to drive, and the streets were crowded. Now there is less traffic, but some parents say it takes more time.» (walking bus = bus a pie, parents = apoderados, drive = ir en auto, crowded = llenas, traffic = tráfico, takes more time = toma más tiempo) Un apoderado dice que el bus a pie es mala idea porque toma más tiempo. ¿Su opinión tiene apoyo en el texto? A) sí, porque some parents say it takes more time B) no, porque el texto no habla de tiempo
-- **Z2.** Un adulto lee en voz alta (tapa el guion): «Hello and welcome to Teen Voices. Today we talk to Camila, who has studied violin for five years. Camila, what is the hardest part? Camila: Practising every day, even when I am tired. But I have learned that small steps help. I used to practise for two hours once a week; now I practise thirty minutes every day.» (teen voices = voces jóvenes, violin = violín, hardest = lo más difícil, tired = cansada, small steps = pasos pequeños, once a week = una vez por semana) ¿Cuál es el propósito de la entrevista? A) mostrar cómo una joven mantiene su práctica de violín B) vender clases de violín
+- **Z2.** Un adulto lee en voz alta (tapa el guion): «Hello and welcome to Teen Voices. Today we talk to Camila, who has studied violin for five years. Camila, what is the hardest part? Camila: Practising every day, even when I am tired. But I have learned that small steps help. I used to practise for two hours once a week; now I practise thirty minutes every day.» (teen voices = voces jóvenes, violin = violín, hardest = lo más difícil, tired = cansada, small steps = pasos pequeños, once a week = una vez por semana) ¿Cuál es el propósito de la entrevista? A) enseñar a tocar violín con pasos B) mostrar cómo una joven mantiene su práctica de violín
 
 *Desafío*
 
 - **D1.** Un adulto lee en voz alta (tapa el guion): «Last Tuesday, I lost my keys on the way home. I looked in my bag, in my pockets and at the bus stop. Then I called the bus company, and a driver had them! I was happy, but I decided to buy a key ring with my name.» (lost = perdí, keys = llaves, pockets = bolsillos, bus stop = paradero, driver = conductor, key ring = llavero) ¿Qué enunciado es verdadero? A) perdió las llaves camino a casa y las recuperó B) perdió las llaves en el colegio y no las encontró
-- **D2.** Un adulto lee en voz alta (tapa el guion): «Chorus: We are walking, we are singing, the sun is up, the day is long. Together, together, together we are strong!» (chorus = coro, sun = sol, long = largo, together = juntos, strong = fuertes) Un oyente dice que la canción es triste. ¿Qué palabras lo contradicen? A) sun is up y strong B) tired y lost
+- **D2.** Un adulto lee en voz alta (tapa el guion): «Chorus: We are walking, we are singing, the sun is up, the day is long. Together, together, together we are strong!» (chorus = coro, sun = sol, long = largo, together = juntos, strong = fuertes) Un oyente dice que la canción es triste. ¿Qué palabras lo contradicen? A) the day is long y we are walking B) sun is up y we are strong
 
 *Situaciones auténticas*
 
@@ -1027,18 +1027,18 @@ Respuesta: Sí, porque hay menos tráfico (otra respuesta válida: no, porque to
 **Solucionario razonado**
 
 - **R1.** B) hay menos tráfico. Dice Now there is less traffic.
-- **R2.** B) together. Aparece tres veces en el último verso.
+- **R2.** B) together. Aparece tres veces en la última línea.
 - **R3.** A) las tenía un conductor del bus. Dice a driver had them.
 - **C1.** B) de caminar juntos y sentirse fuertes. Walking, together y strong dan el tema.
-- **C2.** B) comprar un llavero con su nombre. Dice I decided to buy a key ring with my name.
+- **C2.** A) comprar un llavero con su nombre. Dice I decided to buy a key ring with my name.
 - **C3.** B) que los pasos pequeños ayudan. Dice I have learned that small steps help.
 - **A1.** B) treinta minutos cada día. Used to practise two hours once a week es el pasado; now habla del presente.
 - **A2.** b, c, a. Primero el bolso y los bolsillos, luego el paradero y por último la llamada con Then.
 - **A3.** A) iban al colegio en auto. Dice many families used to drive.
 - **Z1.** A) sí, porque some parents say it takes more time. La razón aparece al final del texto.
-- **Z2.** A) mostrar cómo una joven mantiene su práctica de violín. Las preguntas y respuestas hablan de su rutina, sin invitar a comprar.
+- **Z2.** B) mostrar cómo una joven mantiene su práctica de violín. Las preguntas y respuestas hablan de su rutina; no hay pasos ni órdenes.
 - **D1.** A) perdió las llaves camino a casa y las recuperó. Dice on the way home y a driver had them.
-- **D2.** A) sun is up y strong. El sol arriba y sentirse fuertes muestran un tono alegre.
+- **D2.** B) sun is up y we are strong. El sol arriba y sentirse fuertes muestran un tono alegre; lo largo del día y caminar no son tristes.
 - **S1.** B) pasaron de botar botellas a rellenar una grande. Used to throw them away describe el antes; now we use one big bottle, el ahora.
 - **E1.** Con I think... because... y un dato del texto. La razón debe salir de lo que se escuchó.
 - **E2.** El tema central. La repetición destaca la idea principal.

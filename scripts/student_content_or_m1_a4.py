@@ -138,7 +138,7 @@ lesson(
     [("criterio", "regla para comparar propuestas"), ("factible", "que se puede realizar con los recursos disponibles"), ("equidad de género", "oportunidades justas y parejas para mujeres y hombres"), ("bienestar", "sensación de estar bien en el colegio"), ("consecuencia", "lo que ocurre después de aplicar una propuesta")],
     [
         W("Puntuar una propuesta", "Propuesta: un campeonato mixto de fútbol. Dignidad sí, inclusión sí, equidad de género sí, bienestar sí, factible sí. ¿Cuántos puntos tiene?", ["Se cuenta 1 punto por criterio cumplido.", "Cumple los 5."], "5 puntos"),
-        W("Un criterio que pesa más", "La propuesta B tiene 4 puntos, pero excluye a las estudiantes. La C tiene 3 y excluye a nadie. ¿Cuál conviene?", ["Excluir vulnera la dignidad y la inclusión.", "C es aceptable."], "La propuesta C"),
+        W("Un criterio que pesa más", "La propuesta B tiene 4 puntos, pero excluye a las estudiantes. La C tiene 3 y no excluye a nadie. ¿Cuál conviene?", ["Excluir vulnera la dignidad y la inclusión.", "C es aceptable."], "La propuesta C"),
     ],
     [
         M("Elegir solo por la propuesta más barata.", "Se mira solo la factibilidad.", "Considera todos los criterios y las personas afectadas."),
@@ -200,7 +200,7 @@ lesson(
     ],
     U=[
         ex("¿Qué acción es pacífica? A) Pedir una reunión con el Centro de Estudiantes B) Tomarse el patio sin avisar.", "A", "Respeta los canales y no daña."),
-        ex("¿Quién puede ayudar si hay un conflicto al llevar adelante una propuesta? A) El profesor jefe B) Nadie, es un secreto.", "A", "Un adulto acompaña y media."),
+        ex("¿Quién puede ayudar si hay un conflicto al llevar adelante una propuesta? A) El profesor jefe B) Nadie, porque los adultos no deben intervenir en iniciativas de estudiantes.", "A", "Un adulto acompaña y media."),
         ex("¿Qué debe tener una acción una vez elegida? A) Responsables, plazo y revisión B) Solo entusiasmo.", "A", "Así se puede cumplir."),
     ],
     A=[
@@ -407,7 +407,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué un ataque personal no ayuda a decidir bien?", "Porque no da razones sobre la idea", "Desvía la atención de la propuesta."),
-        ex("Un debate se vuelve muy tenso. ¿Qué hace el moderador? A) Pide volver al respeto y a las reglas B) Gritar más fuerte.", "A", "Mantiene el diálogo."),
+        ex("Un debate se vuelve muy tenso. ¿Qué hace el moderador? A) Pide volver al respeto y a las reglas B) Deja que cada postura se imponga hasta que una se canse.", "A", "Mantiene el diálogo."),
     ],
     D=[
         arith("En un debate de ejemplo hay 6 intervenciones de 2 minutos y 3 de 3 minutos. ¿Cuántos minutos duran en total?", "6*2+3*3", "Se suman los minutos de ambos tipos."),
@@ -544,7 +544,7 @@ lesson(
     ],
     U=[
         ex("¿Qué frase reconoce a la otra persona sin renunciar a la propia opinión? A) «Entiendo tu punto, y yo veo que…» B) «Estás equivocado.»", "A", "Respeta y expone la propia idea."),
-        ex("¿Qué se prepara antes de hablar en un debate? A) Tesis, dos argumentos y un dato por argumento B) Solo una broma.", "A", "Da orden y fuerza a la intervención."),
+        ex("¿Qué se prepara antes de hablar en un debate? A) Tesis, dos argumentos y un dato por argumento B) Solo una frase fuerte que impresione al público.", "A", "Da orden y fuerza a la intervención."),
         ex("¿Qué se hace si alguien se enoja? A) Se hace una pausa breve B) Se grita más fuerte.", "A", "Permite que todos se calmen."),
     ],
     A=[

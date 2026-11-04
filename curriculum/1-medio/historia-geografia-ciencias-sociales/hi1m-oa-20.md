@@ -162,7 +162,7 @@ Respuesta: Excedente de 40 unidades
 *Razonamiento y análisis*
 
 - **Z1.** Tabla de ejemplo, mercado de tomates de una feria, cajas por día según el precio por caja: precio $400, los compradores quieren 90 y los productores ofrecen 10; precio $600, quieren 70 y ofrecen 30; precio $800, quieren 50 y ofrecen 50; precio $1.000, quieren 30 y ofrecen 70; precio $1.200, quieren 10 y ofrecen 90. Los vendedores quieren vender todo y los compradores quieren comprar lo que necesitan. ¿A qué precio se logra eso sin que sobre ni falte producto?
-- **Z2.** En una feria de ejemplo hay un solo vendedor de sandías. ¿Por qué no se cumple bien el modelo de oferta y demanda con competencia? A) porque ese vendedor puede influir en el precio por sí solo, B) porque las sandías son baratas.
+- **Z2.** En una feria de ejemplo hay un solo vendedor de sandías. ¿Por qué no se cumple bien el modelo de oferta y demanda con competencia? A) porque ese vendedor puede influir en el precio por sí solo, B) porque en una feria no puede haber oferta y demanda.
 
 *Desafío*
 
@@ -370,7 +370,7 @@ Respuesta: Le falta evidencia de oferta y demanda
 *Razonamiento y análisis*
 
 - **Z1.** Fuente A (de ejemplo, registro de precios de una feria): la caja de tomates costó $900 en septiembre y $1.350 en octubre. Fuente B (de ejemplo, nota de prensa de una cooperativa de agricultores): «Una helada destruyó la tercera parte de la cosecha de tomates de la zona; hay menos cajas para vender.» Fuente C (de ejemplo, opinión en una red social): «Los feriantes suben los precios porque son abusivos.» Un compañero dice que el alza se explica solo con la fuente C. ¿Qué le responderías con las fuentes A y B? Responde con una frase.
-- **Z2.** Al comparar las tres fuentes, ¿cuál es la combinación más útil para explicar el alza? A) la C sola, porque es la más reciente, B) la A y la B, porque entregan el dato del cambio y una causa.
+- **Z2.** Al comparar las tres fuentes, ¿cuál es la combinación más útil para explicar el alza? A) la C sola, porque es la que más gente lee, B) la A y la B, porque entregan el dato del cambio y una causa.
 
 *Desafío*
 
@@ -516,7 +516,7 @@ Respuesta: Le falta evidencia de oferta y demanda
 
 La inflación es un aumento general y sostenido de los precios; la deflación es una baja general y sostenida. No se trata de que un solo producto suba, sino de que el nivel de precios de muchos bienes cambie. Para medirlo se usa el índice de precios al consumidor, abreviado IPC, que sigue el costo de una canasta de bienes y servicios que consumen las familias a lo largo del tiempo.
 
-La variación de un valor se calcula con la fórmula: aumento ÷ valor inicial × 100. Si una canasta pasa de $100.000 a $104.000, el aumento es de $4.000 y la variación, de 4 %. Con inflación, el mismo dinero compra menos cosas, es decir, baja el poder de compra. Con deflación, el mismo dinero compra más, pero una baja general de precios puede indicar que la gente consume menos.
+La variación de un valor se calcula con la fórmula: aumento ÷ valor inicial × 100. Si una canasta pasa de $100.000 a $104.000, el aumento es de $4.000 y la variación, de 4 %. Con inflación, el mismo dinero compra menos cosas, es decir, baja el poder de compra. Si el valor baja, la misma fórmula da la baja en porcentaje. Con deflación, el mismo dinero compra más, pero una baja general de precios puede indicar que la gente consume menos.
 
 El territorio también influye en los precios. Un producto cuesta más lejos de donde se produce porque el transporte y el almacenamiento suben los costos. Por eso una misma caja de manzanas puede valer distinto en dos ciudades. Describir bien un cambio de precios exige indicar el período, el lugar y la fuente de los datos, y distinguir lo que cambió de lo que se mantuvo.
 
@@ -582,7 +582,7 @@ Respuesta: El costo de transportar el producto
 
 *Desafío*
 
-- **D1.** Datos de ejemplo. País A: la canasta de bienes de una familia costaba $100.000 en 2020, $104.000 en 2021 y $109.000 en 2022. País B (ficticio): un índice de la canasta marcaba 100 en 2020, 98 en 2021 y 95 en 2022. Precio de una caja de manzanas en dos ciudades ficticias el mismo día: ciudad costera cercana al valle, $8.000; ciudad aislada del valle, $9.600. Un diario dice: «Los precios bajaron en el país B, así que su economía va perfecta». ¿Qué falta para sostener eso? A) más páginas del diario, B) saber por qué bajan los precios.
+- **D1.** Datos de ejemplo. País A: la canasta de bienes de una familia costaba $100.000 en 2020, $104.000 en 2021 y $109.000 en 2022. País B (ficticio): un índice de la canasta marcaba 100 en 2020, 98 en 2021 y 95 en 2022. Precio de una caja de manzanas en dos ciudades ficticias el mismo día: ciudad costera cercana al valle, $8.000; ciudad aislada del valle, $9.600. Un diario dice: «Los precios bajaron en el país B, así que su economía va perfecta». ¿Qué falta para sostener eso? A) nada más, porque cualquier baja de precios prueba que la economía va bien, B) saber por qué bajan los precios.
 - **D2.** Datos de ejemplo. País A: la canasta de bienes de una familia costaba $100.000 en 2020, $104.000 en 2021 y $109.000 en 2022. País B (ficticio): un índice de la canasta marcaba 100 en 2020, 98 en 2021 y 95 en 2022. Precio de una caja de manzanas en dos ciudades ficticias el mismo día: ciudad costera cercana al valle, $8.000; ciudad aislada del valle, $9.600. Si la canasta del país A siguiera subiendo $5.000 por año, ¿cuánto costaría en 2023 (en pesos)?
 
 *Situaciones auténticas*
@@ -791,7 +791,7 @@ Respuesta: $5.500
 *Desafío*
 
 - **D1.** Casos de ejemplo. Caso 1: en un pueblo ficticio hay una sola empresa de agua potable, sin competidoras; sube su tarifa 20 %. Caso 2: las tres empresas de buses de una ciudad ficticia acuerdan en secreto cobrar el mismo pasaje alto y no competir. Caso 3: una autoridad de ejemplo fija un precio máximo para el pan de $1.000 por kilo, cuando el precio de equilibrio era $1.500. Caso 4: un país ficticio pone un arancel de 20 % a los zapatos importados que costaban $10.000 en la aduana. ¿Qué pregunta ayuda a verificar el caso 2? A) ¿cuántos buses tiene cada una?, B) ¿hubo un acuerdo entre las tres empresas para fijar el pasaje?
-- **D2.** En el caso 1, una autoridad de ejemplo quiere impedir que el monopolio abuse. ¿Qué medida puede aplicar? A) regular la tarifa o abrir el mercado a competidores, B) prohibir que otras empresas entren al mercado.
+- **D2.** En el caso 1, una autoridad de ejemplo quiere impedir que el monopolio abuse. ¿Qué medida puede aplicar? A) dejar que el monopolio fije el precio libremente, porque el mercado se corrige solo, B) regular la tarifa o abrir el mercado a competidores.
 
 *Situaciones auténticas*
 
@@ -819,7 +819,7 @@ Respuesta: $5.500
 - **Z1.** 12.000. El 20 % de 10.000 es 2.000 y se suma a la tarifa. Cálculo: 10000 + 10000 × 20 ÷ 100 = 12.000.
 - **Z2.** B. El arancel sube el precio de lo importado.
 - **D1.** B. La colusión exige probar un acuerdo.
-- **D2.** A. Se busca limitar el poder de un único vendedor.
+- **D2.** B. Se busca limitar el poder de un único vendedor.
 - **S1.** A. Un alza simultánea no prueba por sí sola un acuerdo.
 - **E1.** Un impuesto que se cobra a los productos importados. Sube el precio de lo importado.
 - **E2.** Se genera un faltante. Se demanda más de lo que se ofrece.
@@ -930,7 +930,7 @@ Respuesta: $5.500
 
 **Explicación.**
 
-Para decidir si conviene una medida sobre los precios no basta con intuiciones. Se parte de un modelo: se comparan la oferta y la demanda a cada precio y se calcula qué ocurriría con la medida. Si un precio máximo queda bajo el equilibrio, aumenta la cantidad demandada y baja la ofrecida, y aparece un faltante. Si queda sobre el equilibrio, la medida casi no tiene efecto.
+Para decidir si conviene una medida sobre los precios no basta con intuiciones. Se parte de un modelo: se comparan la oferta y la demanda a cada precio y se calcula qué ocurriría con la medida. Si un precio máximo queda bajo el equilibrio, aumenta la cantidad demandada y baja la ofrecida, y aparece un faltante. Si queda sobre el equilibrio, la medida casi no tiene efecto. Cuando hay faltante, solo se vende lo que los productores ofrecen.
 
 El modelo tiene límites. Supone competencia y que se pueda producir más o menos con facilidad. Además hay valores en juego: la autoridad puede querer proteger a las familias con menos ingresos aunque exista un faltante, y proponer subsidios o programas para atenuarlo. Por eso un buen argumento nombra los efectos y las alternativas, y no solo condena o defiende la medida.
 
@@ -998,7 +998,7 @@ Respuesta: Priorizar a las familias pobres es el valor
 
 *Desafío*
 
-- **D1.** Dossier de ejemplo, «¿Debe fijarse un precio máximo al pan?». Mercado del pan, kilos por día según el precio por kilo: $1.000, demanda 150 y oferta 60; $1.500, demanda 110 y oferta 110; $2.000, demanda 70 y oferta 160. Voz 1 (de ejemplo, una familia): «Con el pan caro apenas nos alcanza.» Voz 2 (de ejemplo, una panadería): «Si nos obligan a vender a $1.000, produciremos menos.» Voz 3 (de ejemplo, una autoridad): «Queremos proteger a las familias sin dejar al barrio sin pan.» Una conclusión dice: «El precio máximo de $1.000 es bueno porque el pan queda barato». ¿Qué le falta? A) más adjetivos, B) mencionar el faltante de 90 kilos por día.
+- **D1.** Dossier de ejemplo, «¿Debe fijarse un precio máximo al pan?». Mercado del pan, kilos por día según el precio por kilo: $1.000, demanda 150 y oferta 60; $1.500, demanda 110 y oferta 110; $2.000, demanda 70 y oferta 160. Voz 1 (de ejemplo, una familia): «Con el pan caro apenas nos alcanza.» Voz 2 (de ejemplo, una panadería): «Si nos obligan a vender a $1.000, produciremos menos.» Voz 3 (de ejemplo, una autoridad): «Queremos proteger a las familias sin dejar al barrio sin pan.» Una conclusión dice: «El precio máximo de $1.000 es bueno porque el pan queda barato». ¿Qué le falta? A) repetir que el pan queda barato con más ejemplos de precios, B) mencionar el faltante de 90 kilos por día.
 - **D2.** Dossier de ejemplo, «¿Debe fijarse un precio máximo al pan?». Mercado del pan, kilos por día según el precio por kilo: $1.000, demanda 150 y oferta 60; $1.500, demanda 110 y oferta 110; $2.000, demanda 70 y oferta 160. Voz 1 (de ejemplo, una familia): «Con el pan caro apenas nos alcanza.» Voz 2 (de ejemplo, una panadería): «Si nos obligan a vender a $1.000, produciremos menos.» Voz 3 (de ejemplo, una autoridad): «Queremos proteger a las familias sin dejar al barrio sin pan.» Con un precio máximo de $1.000, ¿cuántos kilos de pan se venden realmente por día, si solo se vende lo que se ofrece?
 
 *Situaciones auténticas*

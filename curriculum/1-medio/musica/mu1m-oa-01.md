@@ -64,7 +64,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 **Consigna exacta:** Elige una de estas tres músicas de ejemplo. Pieza 1: arrullo cantado por una sola voz, aprendido de una persona mayor, con palabras algo distintas en cada casa. Pieza 2: obra para cuarteto de cuerdas, escrita en partitura por una compositora conocida. Pieza 3: canción de una banda, difundida por radio y plataformas. Escribe: a) a qué tradición pertenece, b) dos rasgos que lo prueban, c) una frase «Esta música cumple el papel de… porque…».
 
-**Referencia para modelar y corregir:** Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de conservar un cuidado familiar, porque pasa de voz en voz.
+**Referencia para modelar y corregir:** Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de acompañar el sueño de un bebé, porque se canta en la casa y pasa de voz en voz.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de conservar un cuidado familiar, porque pasa de voz en voz. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de acompañar el sueño de un bebé, porque se canta en la casa y pasa de voz en voz. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -201,7 +201,7 @@ Respuesta: Con la oral y la popular
 - **E2.** Variante. Nace porque cada persona la recuerda a su modo.
 - **E3.** Radio, grabaciones y plataformas. Son medios de difusión masiva.
 
-**Actividad abierta · ejemplo de respuesta.** Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de conservar un cuidado familiar, porque pasa de voz en voz.
+**Actividad abierta · ejemplo de respuesta.** Pieza 1. a) Oral. b) Se aprende de una persona mayor y tiene palabras distintas en cada casa. c) Esta música cumple el papel de acompañar el sueño de un bebé, porque se canta en la casa y pasa de voz en voz.
 
 **Criterios para evaluarla:** clasifica con un criterio de transmisión o de difusión; da al menos dos rasgos tomados de la descripción; no dice que una tradición sea mejor que otra.
 
@@ -395,7 +395,7 @@ Respuesta: 200 pasos
 - **R3.** En una fiesta. Así lo dice la descripción de esa música.
 - **C1.** B. Lo suave y lo largo transmiten calma; lo fuerte se parece a una marcha.
 - **C2.** B. El propósito de ordenar el paso exige un pulso que se escuche claro.
-- **C3.** B. Sin ritmo marcado, la gente pierde el apoyo para moverse juntas.
+- **C3.** B. Sin ritmo marcado, las personas pierden el apoyo para moverse juntas.
 - **A1.** 60 pulsos. Se resta el tempo del arrullo al de la canción de baile. Cálculo: 120 − 60 = 60.
 - **A2.** No. En 3 minutos hay 300 pulsos y, por lo tanto, 300 pasos, no 250.
 - **A3.** 30 pulsos. Medio minuto tiene la mitad de los pulsos de un minuto. Cálculo: 60 ÷ 2 = 30.
@@ -558,14 +558,14 @@ Respuesta: La versión 1
 *Recuperación*
 
 - **R1.** En el método de ensayo, ¿cuántos rasgos se cambian de una versión a la otra?
-- **R2.** Una canción pasa de 80 a 100 pulsos por minuto. ¿Se siente más animada o más tranquila?
+- **R2.** Una canción pasa de 90 a 120 pulsos por minuto. ¿Se siente más animada o más tranquila?
 - **R3.** ¿Qué se escribe después de comparar las dos versiones: qué cambié, qué se oye distinto y qué versión sirve mejor al propósito, o solo cuál me gustó más?
 
 *Comprensión*
 
-- **C1.** Un grupo cambia en la versión 2 el tempo, el volumen y el instrumento. ¿Qué problema tiene su ensayo? A) No sabrán cuál de los cambios produjo el efecto. B) La música será demasiado corta.
-- **C2.** Una música debe acompañar un desfile. Versión 1: 70 pulsos por minuto. Versión 2: 100 pulsos por minuto. Las dos tienen el mismo volumen fuerte y el mismo bombo. ¿Cuál sirve mejor? A) Versión 1. B) Versión 2.
-- **C3.** Un estudiante escribe: «Elijo la versión 2 porque me gusta más». ¿Qué le falta a su decisión? A) Relacionarla con el propósito y con lo que se oye. B) Hacerla más larga.
+- **C1.** Un grupo cambia en la versión 2 el tempo, el volumen y el instrumento. ¿Qué problema tiene su ensayo? A) No sabrán cuál de los cambios produjo el efecto. B) La versión 2 será necesariamente más lenta que la versión 1.
+- **C2.** Una música debe acompañar a un grupo que desfila con paso enérgico. Versión 1: 70 pulsos por minuto. Versión 2: 110 pulsos por minuto. Las dos tienen el mismo volumen fuerte y el mismo bombo. ¿Cuál sirve mejor? A) Versión 1. B) Versión 2.
+- **C3.** Un estudiante escribe: «Elijo la versión 2 porque me gusta más». ¿Qué le falta a su decisión? A) Agregar cuánto dura la canción. B) Relacionarla con el propósito y con lo que se oye.
 
 *Aplicación*
 
@@ -601,8 +601,8 @@ Respuesta: La versión 1
 - **R2.** Más animada. Un tempo mayor da una sensación de más movimiento.
 - **R3.** Qué cambié, qué se oye distinto y qué versión sirve mejor. La decisión se apoya en el cambio, el efecto y el propósito.
 - **C1.** A. Cuando cambian tres rasgos a la vez, no se puede asignar el efecto a ninguno.
-- **C2.** B. Un desfile pide un pulso animado y regular que oriente el paso; solo cambia el tempo.
-- **C3.** A. El gusto no basta: debe mostrar qué efecto produce el cambio.
+- **C2.** B. Un paso enérgico pide un pulso animado y regular que oriente el paso; solo cambia el tempo.
+- **C3.** B. El gusto no basta: debe mostrar qué efecto produce el cambio.
 - **A1.** 20 pulsos por minuto. Se resta el tempo inicial al tempo final. Cálculo: 100 − 80 = 20.
 - **A2.** 120 pulsos. Se multiplican los pulsos por minuto por los minutos. Cálculo: 60 × 2 = 120.
 - **A3.** El volumen. Es el único rasgo que cambió entre las versiones.
@@ -767,7 +767,7 @@ Respuesta: Es lenta y de pulso fuerte; sirve al homenaje; me parece eficaz porqu
 
 - **R1.** ¿Cuáles son los cuatro medios para expresar una apreciación?
 - **R2.** La melodía de un fragmento baja de nota en nota. ¿Qué línea dibujas: una que baja o una que sube?
-- **R3.** ¿Se puede empujar a una persona al responder con el cuerpo? Responde sí o no.
+- **R3.** Respondes a un fragmento con un dibujo de líneas y colores. ¿Qué medio de expresión usaste: verbal, visual, sonoro o corporal?
 
 *Comprensión*
 
@@ -788,7 +788,7 @@ Respuesta: Es lenta y de pulso fuerte; sirve al homenaje; me parece eficaz porqu
 
 *Desafío*
 
-- **D1.** Un fragmento de ejemplo tiene un tramo de 20 segundos suave y otro de 20 segundos fuerte. Dibujas un trazo por segundo. ¿Cuántos trazos finos y cuántos gruesos dibujas?
+- **D1.** Un fragmento de ejemplo tiene un tramo de 20 segundos suave y otro de 20 segundos fuerte. Dibujas un trazo por segundo, fino si el tramo es suave y grueso si es fuerte. ¿Cuántos trazos finos y cuántos gruesos dibujas?
 - **D2.** Un fragmento dura 120 segundos y lo divides en 4 tramos iguales; en cada tramo respondes con un medio distinto. ¿Cuántos segundos dura cada tramo?
 
 *Situaciones auténticas*
@@ -807,7 +807,7 @@ Respuesta: Es lenta y de pulso fuerte; sirve al homenaje; me parece eficaz porqu
 
 - **R1.** Verbal, visual, sonoro y corporal. Son las formas de responder de la clase.
 - **R2.** Una que baja. El dibujo copia la dirección de la melodía.
-- **R3.** No. La respuesta corporal se hace con seguridad y sin empujar.
+- **R3.** Visual. Las líneas, formas y colores son el medio visual.
 - **C1.** B. Los sonidos cortos copian las notas cortas.
 - **C2.** A. Hay cuatro medios y cualquiera de ellos es una respuesta válida.
 - **C3.** A. Valorar exige explicar con evidencia, no solo decir que gusta.

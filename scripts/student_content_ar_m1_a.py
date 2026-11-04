@@ -52,7 +52,7 @@ lesson(
         ex("La ficha dice que la plaza queda junto a una escuela y un consultorio. ¿Ese dato es de contexto o de lenguaje visual?", "De contexto", "Habla de lo que rodea a la plaza, no de sus formas ni materiales."),
     ],
     [
-        ex("La banca circular de la plaza rodea un árbol. ¿Qué propósito se relaciona mejor con esa forma? A. Que las personas se sienten mirándose y se junten B. Que las personas pasen rápido sin detenerse.", "A", "El círculo pone a las personas frente a frente; no está pensado para el paso rápido."),
+        ex("Una plaza de ejemplo tiene una explanada grande de piso liso, sin bancas ni árboles. ¿Qué uso favorece mejor esa forma? A. Reunir a mucha gente de pie, como en una feria B. Que personas lean sentadas a la sombra.", "A", "Un piso amplio y libre deja espacio para muchas personas de pie; sin bancas ni sombra no invita a quedarse sentado."),
         ex("Rasgos de la ficha: 1) banca de hormigón, 2) piso de adoquines, 3) árbol de copa ancha, 4) rampa. ¿Cuántos nombran un material de construcción?", "2", "Hormigón y adoquines son materiales; el árbol es vegetación y la rampa es una forma."),
         ex("¿Cuál es una relación con el contexto bien escrita? A. La zona de juegos queda junto a una escuela, por eso la usan niños y niñas B. La banca es de hormigón.", "A", "Conecta un rasgo del lugar con su entorno; la otra frase solo describe un material."),
     ],
@@ -127,10 +127,10 @@ lesson(
         ex("Un muro de ejemplo combina ladrillo (textura) y vidrio (apertura). ¿Cuál es la sensación que aporta el vidrio?", "Apertura, porque deja ver el interior", "El vidrio es transparente y permite ver a través de él."),
     ],
     [
-        ex("Una banca de metal de ejemplo se calienta mucho al sol del patio. ¿Qué cambio mejora su temperatura sin cambiar el material? A. Pintarla de un color claro y ponerle sombra B. Pintarla de negro.", "A", "Un color claro y la sombra absorben y reciben menos calor; el negro absorbe más."),
+        ex("Una banca de metal de ejemplo se calienta mucho al sol del patio. ¿Qué cambio mejora su temperatura sin cambiar el material? A. Pintarla de un color claro y ponerle sombra B. Cambiarle la forma del respaldo.", "A", "Un color claro y la sombra reducen el calor que recibe; la forma del respaldo no cambia cuánto se calienta el asiento."),
         arith("Para una muestra tienes 38 tapas limpias y cada patrón de ejemplo usa 6 tapas. ¿Cuántos patrones completos puedes armar?", "38 // 6", "Se divide el total de tapas entre las que usa cada patrón y se cuentan solo los completos.", " patrones"),
     ],
-    ex("Tu curso arma una muestra de materiales para un proyecto de paradero. Tienes 3 materiales de ejemplo con sus notas: hormigón (dura mucho y casi no pide mantención; retiene calor, pero a la sombra no quema), madera tratada (cálida, pide mantención) y metal pintado (liviano, se calienta al sol). Necesitas un asiento que no queme y casi no requiera cuidados. ¿Cuál eliges y por qué? A. Hormigón, porque dura mucho aunque retenga calor, y se puede sombrear con un techo B. Metal pintado, porque pesa poco.", "A", "Con un techo que dé sombra, el hormigón cumple en durabilidad y casi no necesita mantención; el peso liviano no responde a ninguna necesidad."),
+    ex("Tu curso arma una muestra de materiales para un proyecto de paradero. Tienes 3 materiales de ejemplo con sus notas: hormigón (dura mucho y casi no pide mantención; retiene calor, pero a la sombra no quema), madera tratada (cálida, pide mantención) y metal pintado (liviano, se calienta al sol). Necesitas un asiento que no queme y casi no requiera cuidados. ¿Cuál eliges y por qué? A. Hormigón, porque dura mucho aunque retenga calor, y se puede sombrear con un techo B. Metal pintado, porque pesa poco y se instala fácil.", "A", "Con un techo que dé sombra, el hormigón cumple en durabilidad y casi no necesita mantención; el metal pintado se calienta al sol y que sea liviano no responde a la necesidad."),
     [
         ex("¿Qué criterios se comparan al elegir un material para el espacio público?", "Durabilidad, temperatura, mantención y cómo se ve", "Juntos muestran el efecto y el costo de uso del material."),
         ex("Verdadero o falso: al tomar un recurso de un referente puedo copiar todo si anoto el nombre.", "Falso", "Se toma un recurso y se cambia el resto; anotar el nombre no basta."),
@@ -180,7 +180,7 @@ lesson(
     ],
     [
         arith("En el plano de una plaza a escala 1:50, un camino dibujado mide 18 cm de largo. ¿Cuántos metros mide el camino real? (100 cm = 1 m)", "18 * 50 // 100", "Primero se pasa a centímetros reales y luego a metros.", " m"),
-        ex("Un pasillo debe medir al menos 120 cm para que pasen dos personas lado a lado. En un plano a escala 1:50, tu pasillo dibujado mide 2 cm. ¿Cumple? A. No, porque 2 × 50 = 100 cm y es menos de 120 B. Sí, porque 2 cm es un número pequeño.", "A", "Se convierte a medida real: 100 cm no alcanza para el mínimo de 120 cm."),
+        ex("Un pasillo debe medir al menos 120 cm (cifra de referencia de ejemplo) para que pasen dos personas lado a lado. En un plano a escala 1:50, tu pasillo dibujado mide 2 cm. ¿Cumple? A. No, porque 2 × 50 = 100 cm y es menos de 120 B. Sí, porque 2 cm es un número pequeño.", "A", "Se convierte a medida real: 100 cm no alcanza para el mínimo de 120 cm."),
         ex("Para estudiar la sombra de un edificio de ejemplo necesitas ver su altura. ¿Qué dibujo usas? A. Una elevación B. Una planta.", "A", "La elevación muestra alturas porque es una vista de frente; la planta no las muestra."),
     ],
     [
@@ -199,7 +199,7 @@ lesson(
     ],
     task(
         "Elige UN lugar de ejemplo. A) Un paradero: 3 m de largo por 1,5 m de ancho, con una banca de 2 m. B) Un rincón de patio de 4 m por 3 m donde caben tres bancas de 1,5 m. C) Una vereda de 12 m de largo por 2 m de ancho con un árbol a los 6 m. Elige una escala (1:50 o 1:100), dibuja dos plantas distintas del lugar con esa misma escala, compara A y B con UN criterio (circulación, sombra o visibilidad) y decide. Anota qué ajustarías en una segunda versión.",
-        "Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm, banca de 4 cm. Planta 1: banca al fondo, pasillo libre de 2 cm. Planta 2: banca al costado, pasillo libre de 3 cm. Criterio: circulación. Elijo la 2. En una segunda versión ensancharía un poco más la entrada.",
+        "Elegí el lugar A con escala 1:50. Paradero de 6 cm por 3 cm (con banca de 50 cm de ancho). La banca mide 4 cm por 1 cm. Planta 1: banca en el centro, con pasillos libres de 1 cm a cada lado. Planta 2: banca pegada a un costado, con un solo pasillo libre de 2 cm. Criterio: circulación. Elijo la 2 porque el pasillo es más ancho. En una segunda versión ensancharía un poco más la entrada.",
         ["usa la misma escala en las dos plantas", "calcula las medidas del dibujo con la escala", "compara con un criterio nombrado", "decide y propone un ajuste"],
         ["dos plantas a escala", "cálculos de medidas", "decisión con criterio y ajuste"],
         ["no aplicar la escala", "elegir por gusto sin criterio"],
@@ -217,7 +217,7 @@ lesson(
     ["Sé dibujar una planta a escala y comparar dos pruebas con un criterio.", "Sé elegir un material por durabilidad, temperatura y mantención."],
     [
         "Una propuesta propia comienza con un problema observable, por ejemplo «no hay dónde sentarse a la sombra». De ahí sale un propósito: para qué y para quién será mi intervención. Luego tomo tres tipos de decisiones: de forma (cómo se ve y se distribuye), de materialidad (con qué se hace) y de acceso (quién puede usarlo y cómo). Cada decisión debe poder justificarse con el problema.",
-        "El acceso universal significa que el espacio pueda ser usado por la mayor cantidad posible de personas, incluidas quienes usan silla de ruedas, bastón, coche o tienen dificultad para ver. Una rampa suave, un piso sin desniveles y señales con buen contraste ayudan. La pendiente de una rampa se calcula dividiendo la altura que sube entre el largo del recorrido. En un ejemplo, subir 30 cm en 360 cm de largo da una pendiente de 1 en 12.",
+        "El acceso universal significa que el espacio pueda ser usado por la mayor cantidad posible de personas, incluidas quienes usan silla de ruedas, bastón, coche o tienen dificultad para ver. Una rampa suave, un piso sin desniveles y señales con buen contraste ayudan. La pendiente de una rampa se dice «1 en N»: N es cuántas veces cabe la altura que sube en el largo del recorrido (largo ÷ altura). Mientras mayor es N, más suave es la rampa. En un ejemplo, subir 30 cm en 360 cm de largo da una pendiente de 1 en 12 (cifra de ejemplo, no una norma).",
         "Mi propuesta se expresa en una maqueta o un plano con una leyenda: qué es cada cosa y a qué escala está. Después reviso con una pauta: ¿resuelve el problema?, ¿se puede construir con los materiales indicados?, ¿pensé en quién la usa? Dejo anotado qué cambiaría en una versión siguiente. La propuesta es mía solo si cada decisión importante tiene una razón mía y no un copiado de un referente.",
     ],
     [("propuesta", "idea de intervención con un problema, un propósito y decisiones justificadas"), ("acceso universal", "diseño que permite usar un espacio a la mayor cantidad posible de personas"), ("pendiente", "cuánto sube una superficie en relación con su largo"), ("leyenda", "lista que explica qué significa cada símbolo o color de un plano"), ("intervención", "acción de cambiar o mejorar un lugar")],
@@ -252,15 +252,15 @@ lesson(
         ex("Dos rampas de ejemplo suben lo mismo, 24 cm. La X tiene 288 cm de largo y la Y tiene 192 cm de largo. ¿Cuál es más suave?", "La X", "Su largo es 288 ÷ 24 = 12 veces la altura, y el de Y es 192 ÷ 24 = 8 veces; más largo para la misma altura da menos pendiente."),
         arith("Una rampa de ejemplo con pendiente de 1 en 12 debe subir 18 cm. ¿Cuántos centímetros de largo necesita?", "18 * 12", "El largo es la altura multiplicada por 12.", " cm"),
     ],
-    ex("Un liceo de ejemplo quiere una zona de espera para el transporte escolar: 30 estudiantes a la vez, patio sin sombra, un escalón de 15 cm en la entrada. Elige la propuesta que responde mejor. A. Techo para todos, banca larga y una rampa en el escalón B. Una escultura grande en la entrada para decorar.", "A", "Resuelve sombra, asiento y acceso, que son los problemas observados; la escultura no responde a ninguno."),
+    ex("Un liceo de ejemplo quiere una zona de espera para el transporte escolar: 30 estudiantes a la vez, patio sin sombra, un escalón de 15 cm en la entrada. Elige la propuesta que responde mejor. A. Techo para todos, banca larga y una rampa en el escalón B. Un cartel con el horario del bus y una banca pequeña al sol.", "A", "Resuelve sombra, asiento y acceso, que son los problemas observados; el cartel y una banca al sol dejan sin resolver la sombra y el escalón."),
     [
         ex("¿Qué tres tipos de decisiones se toman en una propuesta propia?", "De forma, de materialidad y de acceso", "Cada una debe justificarse con el problema."),
-        ex("Verdadero o falso: la pendiente de una rampa se calcula dividiendo la altura entre el largo del recorrido.", "Verdadero", "Compara cuánto sube con cuánto avanza."),
+        ex("Verdadero o falso: una rampa de ejemplo de 1 en 12 es más suave que una de 1 en 8 que sube lo mismo.", "Verdadero", "Con 1 en 12 el largo es mayor para la misma altura, así que la rampa es más suave."),
         ex("¿Qué tres preguntas se hacen al revisar una propuesta?", "Si resuelve el problema, si se puede construir y si pensó en quién la usa", "Esa pauta permite decidir qué cambiar."),
     ],
     task(
         "Elige UN problema de ejemplo. A) Una esquina con paradero sin techo ni banca y un escalón de 15 cm en la vereda. B) Un sitio vacío entre dos casas usado como basural. C) Un patio de liceo donde 30 estudiantes esperan al sol. Escribe el problema, el propósito (para qué y para quién) y tres decisiones: una de forma, una de materialidad y una de acceso. Dibuja una planta con leyenda, indica la escala y escribe qué cambiarías en una segunda versión.",
-        "Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de 15 cm de alto y 180 cm de largo. Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo.",
+        "Elegí el problema A. Propósito: que quienes esperan el bus estén protegidos y puedan subir a la vereda sin ayuda. Forma: techo curvo sobre la banca. Materialidad: madera tratada para la banca porque no quema al sol. Acceso: rampa de ejemplo de 15 cm de alto y 180 cm de largo (1 en 12). Dibujé la planta a escala 1:50 con leyenda. En una segunda versión probaría un techo más largo.",
         ["parte de un problema observable", "define propósito, forma, materialidad y acceso", "dibuja planta con leyenda y escala", "propone un ajuste para una segunda versión"],
         ["texto con problema y propósito", "planta con leyenda y escala"],
         ["elegir la forma antes del problema", "olvidar el acceso"],
@@ -302,7 +302,7 @@ lesson(
     ],
     [
         ex("Propuesta A: banca y techo con rampa, puntajes uso 3, acceso 2, memoria 1 e impacto 2. Propuesta B: mural sin cambios de acceso, puntajes uso 1, acceso 0, memoria 3 e impacto 1. ¿Cuál tiene mayor total y cuánto es?", "A, con 8 puntos", "A suma 3 + 2 + 1 + 2 = 8; B suma 1 + 0 + 3 + 1 = 5."),
-        ex("En el ejemplo anterior, ¿qué puede hacer la propuesta A para mejorar su criterio más bajo?", "Incluir algo que respete la memoria del lugar, como conservar el árbol antiguo", "Su puntaje más bajo es memoria; conservar un elemento significativo la sube."),
+        ex("Una propuesta A tiene uso 3, acceso 2, memoria 1 e impacto 2. ¿Qué criterio tiene el puntaje más bajo y cómo podría subirlo?", "Memoria; conservando algo que los vecinos valoran del lugar", "El puntaje más bajo es memoria; conservar un elemento significativo del lugar la sube."),
         ex("Una compañera dice: «Mi propuesta es la mejor porque tiene más color». ¿Qué frase la corrige mejor? A. «Tiene más puntaje en uso y acceso, porque incluye banca y rampa» B. «Todas las propuestas son igual de buenas».", "A", "Justifica con criterios y rasgos observables; la otra frase evita comparar."),
     ],
     [

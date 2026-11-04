@@ -1105,7 +1105,7 @@ Respuesta: Líquenes, arbustos, árboles
 
 **Consigna exacta:** Elige una medida de ejemplo: (A) paneles solares en la escuela; (B) reciclar papel; (C) reforestar con árboles nativos una ladera. Evalúala con los tres criterios (ambiental, social y económico) en una frase cada uno y escribe un límite de los datos. Si quieres, calcula un ahorro con números de ejemplo (por ejemplo, 12 kg de papel por semana en 8 semanas).
 
-**Referencia para modelar y corregir:** Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 10 semanas. Cálculo: 12 por 8 son 96 kg.
+**Referencia para modelar y corregir:** Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 8 semanas. Cálculo: 12 por 8 son 96 kg.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -1119,7 +1119,7 @@ Respuesta: Líquenes, arbustos, árboles
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 10 semanas. Cálculo: 12 por 8 son 96 kg. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 8 semanas. Cálculo: 12 por 8 son 96 kg. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -1242,7 +1242,7 @@ Respuesta: 48 litros
 - **E2.** La energía solar o la del viento. Se reponen continuamente.
 - **E3.** Porque pueden faltar efectos o años por medir. Así se decide con prudencia.
 
-**Actividad abierta · ejemplo de respuesta.** Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 10 semanas. Cálculo: 12 por 8 son 96 kg.
+**Actividad abierta · ejemplo de respuesta.** Medida B: ambiental, evita talar más árboles; social, involucra al curso; económico, ahorra compras de papel nuevo. Límite: se midieron solo 8 semanas. Cálculo: 12 por 8 son 96 kg.
 
 **Criterios para evaluarla:** tres criterios evaluados; declara un límite; usa un cálculo coherente si lo hace.
 

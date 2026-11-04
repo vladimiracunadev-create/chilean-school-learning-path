@@ -69,7 +69,7 @@ lesson(
         arith("En una galería virtual de ejemplo se suben 12 obras y cada una necesita una tarjeta de 5 líneas. ¿Cuántas líneas se escriben?", "12 * 5", "Se multiplica la cantidad de obras por las líneas de cada tarjeta.", " líneas"),
         ex("Una obra de la muestra usa un referente de ejemplo. ¿Qué debe decir la tarjeta? A. El crédito del referente B. Nada, porque es una obra propia.", "A", "Se reconoce el referente aunque la obra sea propia."),
     ],
-    ex("Tu liceo quiere mostrar los trabajos del curso a los apoderados y a los vecinos. Opciones de ejemplo: A) pasillo del liceo en horario de clases; B) sala con aforo de 30 personas, abierta tres tardes con rampa y entrada libre. Los apoderados llegan después de las 17:00. ¿Qué eliges? A. La sala de tarde con rampa B. El pasillo en horario de clases.", "A", "Coincide con el horario de los apoderados y tiene acceso."),
+    ex("Tu liceo quiere mostrar los trabajos del curso a los apoderados y a los vecinos. Opciones de ejemplo: A) pasillo del liceo en horario de clases; B) sala con aforo de 30 personas, abierta tres tardes de 17:00 a 19:00, con rampa y entrada libre. Los apoderados llegan después de las 17:00. ¿Qué eliges? A. La sala de tarde con rampa B. El pasillo en horario de clases.", "A", "Coincide con el horario de los apoderados y tiene acceso."),
     [
         ex("¿Qué cuatro cosas se miran antes de elegir un espacio de difusión?", "Audiencia, acceso, propósito y cuidado", "Orientan la decisión."),
         ex("Verdadero o falso: una galería virtual llega a todas las personas.", "Falso", "Deja fuera a quienes no tienen conexión."),
@@ -94,7 +94,7 @@ lesson(
     "Aprenderé a elegir soportes, alturas, luz y cuidados para montar una muestra, y a preparar una versión virtual con crédito y sin datos personales. Sirve para que las obras se vean bien y queden protegidas.",
     ["Sé leer un espacio de difusión con audiencia, acceso, propósito y cuidado.", "Sé escribir la tarjeta de una obra."],
     [
-        "El montaje es la forma de ubicar y sostener las obras en un espacio. Una regla simple de altura es que el centro de la obra quede alrededor de 150 cm del suelo, a la altura de los ojos de la mayoría. Si una obra mide 40 cm de alto, el borde inferior queda a 150 − 20 = 130 cm. En una muestra para niños o para personas en silla de ruedas se baja la altura. Un soporte es lo que sostiene la obra: un muro, una repisa, un panel de cartón o un cordel con clips.",
+        "El montaje es la forma de ubicar y sostener las obras en un espacio. Una cifra de referencia, de ejemplo y no una norma, es que el centro de la obra quede alrededor de 150 cm del suelo, cerca de la altura de los ojos de muchas personas adultas. Si una obra mide 40 cm de alto, el borde inferior queda a 150 − 20 = 130 cm. En una muestra para niños o para personas en silla de ruedas se baja la altura. Un soporte es lo que sostiene la obra: un muro, una repisa, un panel de cartón o un cordel con clips.",
         "El cuidado de las obras y del lugar viene primero. Uso cinta de papel o clips que se retiran sin dañar el muro ni la obra; no clavo ni pego nada sin permiso de quien administra el lugar; no cuelgo cosas pesadas en altura sin ayuda de una persona adulta ni subo a sillas o mesas inestables. La luz debe iluminar sin encandilar, y la luz directa del sol puede desteñir colores. Las obras frágiles van protegidas del roce y de la humedad.",
         "En una muestra virtual el montaje es digital. Cada imagen va con su tarjeta, un orden de recorrido y un crédito. Solo subo imágenes propias o autorizadas, sin rostros ni datos de ubicación. Reviso que el texto sea legible en una pantalla pequeña. Además dejo una alternativa para quien no tiene conexión: una hoja impresa o una lectura en voz alta. Un montaje bien pensado cuida a las obras, a las personas y al lugar.",
     ],
@@ -191,7 +191,7 @@ lesson(
         arith("Un muro de 800 cm tendrá 5 obras de 100 cm de ancho cada una, con huecos iguales entre ellas y en los extremos. ¿Cuánto mide cada hueco?", "(800 - 5 * 100) // (5 + 1)", "Se resta el ancho total de las obras y se divide por los seis huecos.", " cm"),
         ex("En un plano a escala 1:50, ¿cuántos centímetros reales representa un hueco dibujado de 2 cm?", "100 cm", "2 × 50 = 100 cm."),
     ],
-    ex("Tu curso tiene un muro de 720 cm en el pasillo y 3 grabados enmarcados de 120 cm de ancho cada uno. Quieres huecos iguales. ¿Cuántos centímetros separan cada obra del extremo y de las demás? A. 90 cm B. 120 cm.", "A", "(720 − 360) ÷ 4 = 90 cm; dividir por 3 olvida un hueco."),
+    ex("Tu curso tiene un muro de 780 cm en el pasillo y 3 grabados enmarcados de 100 cm de ancho cada uno. Quieres huecos iguales. ¿Cuántos centímetros separan cada obra del extremo y de las demás? A. 120 cm B. 160 cm.", "A", "(780 − 300) ÷ 4 = 120 cm; 160 cm resulta de dividir por 3 y olvida un hueco."),
     [
         ex("¿Cuántos huecos hay en un muro con 3 obras, contando los extremos?", "4", "Obras más uno."),
         ex("Verdadero o falso: elijo la distribución más llamativa en el plano aunque no la compare con un criterio.", "Falso", "Se elige con un criterio."),

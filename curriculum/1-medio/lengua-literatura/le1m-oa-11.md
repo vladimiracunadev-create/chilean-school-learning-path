@@ -798,7 +798,7 @@ Respuesta: No, el dato explica el tema pero no convierte todo en autobiografía
 
 *Situaciones auténticas*
 
-- **S1.** Un lector dice que el cuento de la estación abandonada solo habla de trenes. Otro dice que habla de despedidas. El cuento dice: «Elena guardó el pasaje y no respondió». ¿Qué lectura se apoya mejor? A) trenes B) despedidas
+- **S1.** Un lector dice que el cuento de ejemplo «El último tren a Villa Cardal» solo habla de horarios de trenes. Otro dice que habla de abandono y despedida. El cuento incluye: «el silbato sonó por última vez», «un reloj parado y una maleta sin dueño» y «Ya no vuelve nadie». ¿Qué lectura se apoya mejor? A) abandono y despedida B) horarios de trenes
 
 *Autoevaluación*
 
@@ -823,7 +823,7 @@ Respuesta: No, el dato explica el tema pero no convierte todo en autobiografía
 - **Z2.** La apoya. Ayuda, pero no la reemplaza.
 - **D1.** A) A. Guardar el pasaje sin usarlo sugiere que se queda.
 - **D2.** B) ¿qué pasaje apoya cada una?. Pone la evidencia en el centro.
-- **S1.** B) despedidas. El gesto de guardar el pasaje y callar sugiere despedida.
+- **S1.** A) abandono y despedida. El último silbato, el reloj parado y «ya no vuelve nadie» muestran abandono; ninguna frase habla de horarios.
 - **E1.** El apoyo en pasajes. Se basa en la obra.
 - **E2.** No. Hay temas que van más allá de la vida del autor.
 - **E3.** Opinión. Valora la obra.
@@ -985,14 +985,14 @@ Respuesta: No, porque no es pertinente
 *Comprensión*
 
 - **C1.** Quieres contextualizar un poema sobre un faro. Tienes una nota de un historiador sobre faros y un folleto de turismo del mismo faro. ¿Cuál tiene más riesgo de mostrar solo lo agradable? A) el folleto B) la nota del historiador
-- **C2.** Una nota fue escrita en 1950 sobre la población de un pueblo y el poema trata de 2010. ¿Qué riesgo hay? A) ser demasiado nueva B) estar desactualizada
+- **C2.** Una nota fue escrita en 1950 sobre la población de un pueblo y el poema trata de 2010. ¿Qué riesgo hay? A) estar desactualizada B) ser demasiado breve
 - **C3.** Un texto no trae autor ni fecha. ¿Cuál de estas ausencias impide más saber quién respalda lo que dice? A) la falta de fecha B) la falta de autor
 
 *Aplicación*
 
 - **A1.** Clasifica cada fuente como F (fiable) o D (dudosa): 1) enciclopedia con autor y fecha. 2) cadena de mensajes sin autor. 3) artículo de un archivo histórico con firma. Escribe las letras en orden.
 - **A2.** Para un cuento sobre una escuela rural, ¿qué fuente es pertinente? A) una nota sobre la matrícula en escuelas rurales B) un texto sobre autos de carrera
-- **A3.** Fuente de ejemplo: nota de 2020 que dice que el ramal cerró en 1975. Otra nota de 2021 dice que cerró en 1976. ¿Qué haces? A) elegir al azar B) buscar una tercera fuente
+- **A3.** Fuente de ejemplo: nota de 2020 que dice que el ramal cerró en 1975. Otra nota de 2021 dice que cerró en 1976. ¿Qué haces? A) buscar una tercera fuente B) quedarme con la más reciente porque es más nueva
 
 *Razonamiento y análisis*
 
@@ -1001,7 +1001,7 @@ Respuesta: No, porque no es pertinente
 
 *Desafío*
 
-- **D1.** Registro de ejemplo: «Nota histórica sobre el ramal, 2012». Según la definición de registro de fuente, ¿qué dos datos faltan? A) autor y lugar de publicación B) número de páginas y precio
+- **D1.** Registro de ejemplo: «Nota histórica sobre el ramal, 2012». Según la definición de registro de fuente, ¿qué dos datos faltan? A) autor y lugar de publicación B) título y fecha
 - **D2.** Tienes tres fuentes sobre el cierre del ramal: archivo (1975), mensaje anónimo y una reseña de 2018. Para un dato histórico exacto, ¿cuál es la mejor primera opción?
 
 *Situaciones auténticas*
@@ -1022,11 +1022,11 @@ Respuesta: No, porque no es pertinente
 - **R2.** Que se relaciona con el tema y la obra. Una fuente pertinente aporta al caso.
 - **R3.** Autor, título y fecha. Permite volver a ella.
 - **C1.** A) el folleto. Su propósito es atraer visitantes.
-- **C2.** B) estar desactualizada. Puede no reflejar la situación posterior.
+- **C2.** A) estar desactualizada. Puede no reflejar la situación posterior.
 - **C3.** B) la falta de autor. Sin autor no se sabe quién responde por el texto; la fecha ayuda a ver si está desactualizado.
 - **A1.** F, D, F. Las fuentes con autor, fecha o institución se pueden verificar.
 - **A2.** A) una nota sobre la matrícula en escuelas rurales. Se relaciona con el tema.
-- **A3.** B) buscar una tercera fuente. Hay una discrepancia que debe resolverse.
+- **A3.** A) buscar una tercera fuente. Hay una discrepancia que debe resolverse.
 - **Z1.** A) el folleto busca atraer visitantes y puede omitir lo negativo. Su propósito condiciona el contenido; lo vistoso no lo hace más fiable.
 - **Z2.** No. No se relaciona con la obra.
 - **D1.** A) autor y lugar de publicación. El registro lleva autor, título, fecha y lugar de publicación; aquí ya están el título y la fecha.

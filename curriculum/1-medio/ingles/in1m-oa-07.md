@@ -164,12 +164,12 @@ Respuesta: I used to throw bottles away, but now I recycle.
 
 *Razonamiento y análisis*
 
-- **Z1.** «Bees are very important for fruit and vegetables because they carry pollen from flower to flower. In some places, the number of bees is falling.» (bees = abejas, pollen = polen, flower = flor, falling = bajando) Un compañero responde «I like colours». ¿Por qué no es buena conexión? A) no se relaciona con lo que dice el texto B) está en inglés
+- **Z1.** «Bees are very important for fruit and vegetables because they carry pollen from flower to flower. In some places, the number of bees is falling.» (bees = abejas, pollen = polen, flower = flor, falling = bajando) Un compañero responde «I like colours». ¿Por qué no es buena conexión? A) no se relaciona con lo que dice el texto B) no usa have
 - **Z2.** Tu compañero dice «I have visited the beach yesterday». ¿Qué problema tiene? A) con yesterday se usa el pasado: I visited the beach yesterday B) falta used to
 
 *Desafío*
 
-- **D1.** «In Chile, many families celebrate Fiestas Patrias with traditional food such as empanadas and with dances. Other countries also have national holidays with special food and music.» (celebrate = celebrar, traditional = tradicional, dances = bailes, national holidays = fiestas nacionales) ¿Qué respuesta combina cultura propia y comparación? A) In my family, we eat empanadas, and other countries also have special food on holidays. B) Holidays are long.
+- **D1.** «In Chile, many families celebrate Fiestas Patrias with traditional food such as empanadas and with dances. Other countries also have national holidays with special food and music.» (celebrate = celebrar, traditional = tradicional, dances = bailes, national holidays = fiestas nacionales) ¿Qué respuesta combina cultura propia y comparación? A) Other countries have holidays too. B) In my family, we eat empanadas, and other countries also have special food on holidays.
 - **D2.** «A teenager in Spain says she walks to school every day because it is only ten minutes from her house. In many cities, students take the bus or the metro.» (teenager = adolescente, walks = camina, take the bus = toma el bus, metro = metro) Tu trayecto al colegio dura 15 minutos y el de la adolescente, 10. ¿Cuántos minutos más dura el tuyo?
 
 *Situaciones auténticas*
@@ -197,7 +197,7 @@ Respuesta: I used to throw bottles away, but now I recycle.
 - **A3.** A) I used to collect stamps, but now I don't.. En pasado se dice used to.
 - **Z1.** A) no se relaciona con lo que dice el texto. Una conexión parte de una idea del texto.
 - **Z2.** A) con yesterday se usa el pasado: I visited the beach yesterday. Yesterday es una fecha concreta del pasado.
-- **D1.** A) In my family, we eat empanadas, and other countries also have special food on holidays.. Une una costumbre propia con la idea del texto.
+- **D1.** B) In my family, we eat empanadas, and other countries also have special food on holidays.. Une una costumbre propia con la idea del texto.
 - **D2.** 5 minutos. Se resta 10 a 15. Cálculo: 15 − 10 = 5.
 - **S1.** B) In Science, we learned that bees help plants, and I have seen bees in my garden.. Combina Ciencias y una experiencia personal.
 - **E1.** Para hablar de un hábito pasado que ya no existe. Contrasta antes y ahora.
@@ -374,7 +374,7 @@ Respuesta: Contraste: although; condición: if
 
 *Razonamiento y análisis*
 
-- **Z1.** Compara: «Although I am tired, I will study» y «Because I am tired, I will study». ¿Qué cambia? A) la primera muestra contraste; la segunda, una razón B) no cambia nada
+- **Z1.** Compara: «Although I am tired, I will study» y «Because I am tired, I will study». ¿Qué cambia? A) la primera muestra contraste; la segunda, una razón B) la primera muestra una razón; la segunda, un contraste
 - **Z2.** Un compañero escribe: «Finally, we met at the cinema. First, we bought tickets.» ¿Qué error tiene? A) el orden de los conectores no coincide con el orden lógico B) falta una coma
 
 *Desafío*
@@ -572,7 +572,7 @@ Respuesta: A) In my opinion, walking is good because it is free and healthy.
 
 *Comprensión*
 
-- **C1.** ¿Qué significa I agree? A) no entiendo B) estoy de acuerdo
+- **C1.** ¿Qué significa I agree? A) estoy de acuerdo B) estoy en desacuerdo
 - **C2.** Encuesta de ejemplo a 30 estudiantes: 18 caminan al colegio, 8 usan bus y 4 van en auto. ¿Qué frase atribuye el dato a la fuente? A) I believe 4 students go by car. B) According to the survey, 4 students go by car.
 - **C3.** ¿Qué frase expresa un sentimiento? A) I read a book. B) I feel proud.
 
@@ -594,7 +594,7 @@ Respuesta: A) In my opinion, walking is good because it is free and healthy.
 
 *Situaciones auténticas*
 
-- **S1.** En una discusión sobre si se permiten celulares en clase, ¿qué opinión usa una frase y una razón? A) Phones are phones. B) In my opinion, phones can help because we can look up words, but we should use them only when the teacher asks.
+- **S1.** En una discusión sobre si se permiten celulares en clase, ¿qué opinión usa una frase y una razón? A) In my opinion, phones are bad. B) In my opinion, phones can help because we can look up words, but we should use them only when the teacher asks.
 
 *Autoevaluación*
 
@@ -609,7 +609,7 @@ Respuesta: A) In my opinion, walking is good because it is free and healthy.
 - **R1.** A) en mi opinión. Marca un punto de vista propio.
 - **R2.** B) The gym is beautiful.. Beautiful es un juicio personal; la cantidad se puede comprobar.
 - **R3.** A) según la encuesta. Atribuye el dato a una fuente.
-- **C1.** B) estoy de acuerdo. Expresa estar de acuerdo.
+- **C1.** A) estoy de acuerdo. Expresa estar de acuerdo.
 - **C2.** B) According to the survey, 4 students go by car.. Nombra la encuesta como fuente.
 - **C3.** B) I feel proud.. I feel + adjetivo expresa un sentimiento.
 - **A1.** 26 estudiantes. Se suman los dos grupos. Cálculo: 18 + 8 = 26.
@@ -794,8 +794,8 @@ Respuesta: A) Maybe it rained at night, because the streets are wet.
 
 *Razonamiento y análisis*
 
-- **Z1.** Compañero A: «Nora has a new pet.» Compañero B: «It is small and sleeps a lot.» ¿Qué hipótesis se apoya en ambas pistas? A) Maybe it is a cat, because it is small and sleeps a lot. B) Maybe it is a horse, because it is small.
-- **Z2.** A te dice «Nora has had her pet.» y no dice cuánto tiempo. ¿Qué preguntas para completar? A) Where is the pet? B) How long has she had it?
+- **Z1.** Compañero A: «Nora has a new pet.» Compañero B: «It is small and sleeps a lot.» ¿Qué hipótesis se apoya en ambas pistas? A) Maybe it is a fish, because it is small. B) Maybe it is a cat, because it is small and sleeps a lot.
+- **Z2.** A te dice «Nora has had her pet.» y no dice cuánto tiempo. ¿Qué pregunta haces para completar? A) Where is the pet? B) How long has she had it?
 
 *Desafío*
 
@@ -825,7 +825,7 @@ Respuesta: A) Maybe it rained at night, because the streets are wet.
 - **A1.** B) has. Con she se usa has.
 - **A2.** A) Have. Con they se usa have.
 - **A3.** How long has he lived here?. La estructura es how long + has + sujeto + participio.
-- **Z1.** A) Maybe it is a cat, because it is small and sleeps a lot.. Las pistas apoyan a un gato, no a un caballo.
+- **Z1.** B) Maybe it is a cat, because it is small and sleeps a lot.. Las pistas apoyan a un gato, no a un caballo.
 - **Z2.** B) How long has she had it?. Pregunta por la duración.
 - **D1.** B) Maybe someone ate here, because there are crumbs and an empty plate.. Las pistas apoyan que alguien comió.
 - **D2.** A) How long has Lucía played the piano?. For six years responde a how long.
@@ -986,7 +986,7 @@ Respuesta: 18 estudiantes
 
 *Recuperación*
 
-- **R1.** «Some schools require uniforms because they believe students look equal and feel part of a group. Other people say uniforms limit personal style. In a class survey, 12 of 30 students liked uniforms.» (uniforms = uniformes, require = exigen, equal = iguales, group = grupo, limit = limitan, style = estilo, survey = encuesta) ¿Cuál es la idea principal del texto? A) todos los colegios prohíben los uniformes B) hay distintas opiniones sobre los uniformes
+- **R1.** «Some schools require uniforms because they believe students look equal and feel part of a group. Other people say uniforms limit personal style. In a class survey, 12 of 30 students liked uniforms.» (uniforms = uniformes, require = exigen, equal = iguales, group = grupo, limit = limitan, style = estilo, survey = encuesta) ¿Cuál es la idea principal del texto? A) hay distintas opiniones sobre los uniformes B) los uniformes son obligatorios en todos los colegios
 - **R2.** «Some schools require uniforms because they believe students look equal and feel part of a group. Other people say uniforms limit personal style. In a class survey, 12 of 30 students liked uniforms.» (uniforms = uniformes, require = exigen, equal = iguales, group = grupo, limit = limitan, style = estilo, survey = encuesta) ¿Qué razón dan quienes apoyan los uniformes? A) que los estudiantes se ven iguales y sienten que pertenecen al grupo B) que son baratos
 - **R3.** ¿Qué pregunta invita a otra persona a opinar? A) What do you think? B) I think.
 
@@ -1026,7 +1026,7 @@ Respuesta: 18 estudiantes
 
 **Solucionario razonado**
 
-- **R1.** B) hay distintas opiniones sobre los uniformes. El texto presenta razones a favor y en contra.
+- **R1.** A) hay distintas opiniones sobre los uniformes. El texto presenta razones a favor y en contra.
 - **R2.** A) que los estudiantes se ven iguales y sienten que pertenecen al grupo. Dice students look equal and feel part of a group.
 - **R3.** A) What do you think?. Es una pregunta abierta.
 - **C1.** B) In my school, we have a uniform and I feel comfortable with it.. Relaciona el tema con la vida personal.

@@ -166,7 +166,7 @@ Respuesta: OA' = 15
 
 *Desafío*
 
-- **D1.** OA = 4, OA' = 6 (A y A' del mismo lado de O) y OB = 10. ¿Cuánto mide BB'?
+- **D1.** OA = 8, OA' = 12 (A y A' del mismo lado de O) y OB = 14. ¿Cuánto mide BB'?
 - **D2.** OA = 16, OB = 24 y OA' = 12. ¿Cuánto mide OB'?
 
 *Situaciones auténticas*
@@ -194,7 +194,7 @@ Respuesta: OA' = 15
 - **A3.** 14. OB = OB' ÷ 0,5.
 - **Z1.** 10. A'B' = 2·AB = 2·5.
 - **Z2.** A. Ambas valen k.
-- **D1.** 5. OB' = 15 y 15 − 10.
+- **D1.** 7. k = 12/8 = 1,5, OB' = 21 y 21 − 14.
 - **D2.** 18. k = 12/16 = 3/4 y 24·3/4.
 - **S1.** 90 cm. k = 6/2 = 3 y 30·3.
 - **E1.** 4. 12 ÷ 3.

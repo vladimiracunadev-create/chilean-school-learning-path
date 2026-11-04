@@ -69,9 +69,9 @@ lesson(
         arith("Un liceo inventado tiene 4 especialidades técnicas y cada una tiene 3 cursos. ¿Cuántos cursos técnicos tiene?", "4*3", "Se multiplican especialidades por cursos."),
         arith("De 120 estudiantes de 1.º medio de un colegio inventado, 45 dicen que quieren estudiar en una universidad. ¿Cuántos no lo dicen?", "120-45", "Al total se le restan los que sí lo dicen."),
     ],
-    context=[ex("En una feria del colegio hay stands de un liceo técnico, de un instituto y de una universidad. ¿Qué conviene hacer en cada stand? A) Preguntar qué se estudia, cuánto dura y qué habilidades piden B) Pedir solo regalos.", "A", "Se obtiene información útil para decidir.")],
+    context=[ex("En una feria del colegio hay stands de un liceo técnico, de un instituto y de una universidad. ¿Qué conviene hacer en cada stand? A) Preguntar qué se estudia, cuánto dura y qué habilidades piden B) Elegir el stand que tenga la fila más corta.", "A", "Se obtiene información útil para decidir.")],
     selfcheck=[ex("En Orientación: ¿en 3.º y 4.º medio hay tres modalidades?", "Sí", "Humanístico-científica, técnico-profesional y artística."), ex("¿Un solo camino sirve para todas las personas?", "No", "Depende de intereses y condiciones."), ex("¿Es importante informarse antes de descartar un camino?", "Sí", "Evita decisiones basadas en rumores.")],
-    task=T("Lee el perfil inventado de Mateo: le gusta cocinar para su familia, es ordenado, se pone nervioso al hablar en público, no le gustan mucho las matemáticas y vive a 30 minutos en bus de la ciudad. Escribe: tres habilidades o intereses, dos caminos posibles (uno de estudio y otro laboral) y una pregunta que le harías a una persona que trabaje en algo relacionado.", "Habilidades e intereses: cocinar, orden, trabajo en equipo. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo?", ["identifica tres habilidades o intereses", "propone dos caminos", "formula una pregunta abierta", "no descarta caminos sin información"], ["lista escrita", "texto oral"], ["descartar sin informarse", "ignorar las condiciones"], "Reconoce los caminos relacionados con el perfil y pregunta qué dato faltaría."),
+    task=T("Lee el perfil inventado de Mateo: le gusta cocinar para su familia, es ordenado, se pone nervioso al hablar en público, no le gustan mucho las matemáticas y vive a 30 minutos en bus de la ciudad. Escribe: tres habilidades o intereses, dos caminos posibles (uno de estudio y otro laboral) y una pregunta que le harías a una persona que trabaje en algo relacionado.", "Habilidades e intereses: cocinar, orden, preocuparse por su familia. Caminos: carrera técnica en gastronomía; trabajar en una cocina y capacitarse. Pregunta: ¿cómo es un día normal en tu trabajo?", ["identifica tres habilidades o intereses", "propone dos caminos", "formula una pregunta abierta", "no descarta caminos sin información"], ["lista escrita", "texto oral"], ["descartar sin informarse", "ignorar las condiciones"], "Reconoce los caminos relacionados con el perfil y pregunta qué dato faltaría."),
     reinforce="Anota tres habilidades de un personaje inventado y un camino que se relacione con cada una.",
     extend="Explica por qué un camino puede cambiar con el tiempo.",
 )
@@ -98,7 +98,7 @@ lesson(
     R=[
         ex("«Esa carrera es solo de hombres», ¿es un hecho o un estereotipo?", "Un estereotipo", "Generaliza sin considerar a cada persona."),
         ex("Camilo no puede pagar la matrícula este año, pero existe una ayuda económica para estudiar. ¿Cómo se llama? A) Beca B) Prueba de acceso", "A", "La beca es una ayuda económica."),
-        ex("¿Qué institución forma técnicos de nivel superior? A) Un centro de formación técnica B) Una biblioteca pública", "A", "Es una institución de educación superior que forma técnicos."),
+        ex("¿Qué institución forma técnicos de nivel superior? A) Un centro de formación técnica B) Un instituto profesional", "A", "Es una institución de educación superior que forma técnicos."),
     ],
     U=[
         ex("¿Cuál es un hecho? A) Las carreras técnicas de nivel superior suelen durar cerca de dos años B) Solo la universidad da futuro.", "A", "La primera es una duración habitual; la segunda es un mito."),
@@ -112,7 +112,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué no se debe decir que un camino es «mejor» para todos?", "Porque depende de los intereses, habilidades y condiciones de cada persona", "Cada persona tiene un contexto distinto."),
-        ex("Un joven descarta estudiar porque «es muy caro». ¿Qué debería hacer antes? A) Averiguar becas, créditos y alternativas B) Nada.", "A", "El costo puede tener soluciones."),
+        ex("Un joven descarta estudiar porque «es muy caro». ¿Qué debería hacer antes? A) Averiguar becas, créditos y alternativas B) Descartar estudiar, porque el costo no va a cambiar.", "A", "El costo puede tener soluciones."),
     ],
     D=[
         arith("Una carrera dura 8 semestres. Ya cursó 5. ¿Cuántos semestres le faltan?", "8-5", "A la duración se le restan los semestres cursados."),
@@ -309,7 +309,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué una meta sin plazo es difícil de cumplir?", "Porque no hay un momento para revisarla ni exigirse", "Sin fecha, se posterga."),
-        ex("Un joven dice: «Mi meta es ser famoso». ¿Qué le falta para ser una buena meta? A) Hacerla específica, medible, realista y con plazo B) Nada.", "A", "Sin esos rasgos no se puede planificar."),
+        ex("Un joven dice: «Mi meta es ser famoso». ¿Qué le falta para ser una buena meta? A) Hacerla específica, medible, realista y con plazo B) Contarla a más personas para que se haga famosa.", "A", "Sin esos rasgos no se puede planificar."),
     ],
     D=[
         arith("Una meta pide leer 24 páginas por semana durante 5 semanas. ¿Cuántas páginas serán en total?", "24*5", "Se multiplican páginas por semanas."),
@@ -407,7 +407,7 @@ lesson(
     ],
     Z=[
         ex("¿Por qué anotar los avances ayuda a perseverar?", "Porque muestra el progreso y mantiene la motivación", "Ver lo logrado anima a seguir."),
-        ex("Un joven dice: «Si pido ayuda, no soy esforzado». ¿Qué falta? A) Que pedir ayuda es parte de un esfuerzo responsable B) Nada.", "A", "El apoyo ayuda a no abandonar."),
+        ex("Un joven dice: «Si pido ayuda, no soy esforzado». ¿Qué falta? A) Que pedir ayuda es parte de un esfuerzo responsable B) Que el esfuerzo se mide por cuánto se aguanta sin ayuda.", "A", "El apoyo ayuda a no abandonar."),
     ],
     D=[
         arith("Daniela estudia 40 minutos al día, 5 días por semana, durante 4 semanas. ¿Cuántos minutos estudia en total?", "40*5*4", "Se multiplican minutos por días por semanas.", " minutos"),

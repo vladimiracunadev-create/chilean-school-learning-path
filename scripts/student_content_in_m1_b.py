@@ -75,7 +75,7 @@ lesson(
     [
         ("Reconocer un poema y su tema", f"Texto: {LH} {GLH} ¿Qué tipo de texto es y cuál es su tema?",
          ["Está escrito en versos cortos que riman (sea con me, alone con moan).", "Es un poema. El faro no se mueve ni se queja, y muestra el camino.", "La idea general: alguien constante puede guiar a los demás sin pedir nada."], "Es un poema; su tema es que ser constante y guiar a otros es valioso"),
-        ("Reconocer una leyenda y su tema", f"Texto: {FOXL} {GFOXL} ¿Qué tipo de texto es y cuál es su tema?",
+        ("Reconocer un cuento y su tema", f"Texto: {FOXL} {GFOXL} ¿Qué tipo de texto es y cuál es su tema?",
          ["Es un relato breve con personajes y un cambio: el zorro deja de estar solo.", "Es un cuento breve de animales, con un cambio al final: el zorro ya no está solo.", "El asunto es un zorro; el tema es que un gesto amable puede crear una amistad."], "Es un cuento breve; su tema es que un gesto amable puede crear una amistad"),
     ],
     [
@@ -169,7 +169,7 @@ lesson(
     [
         mc(f"Lee: {LIB} {GLIB} ¿Cuándo ocurre la escena?", "Late evening", ["In the morning", "Long ago"], "El texto abre con It was late evening."),
         mc(f"Lee: {LIB} {GLIB} ¿Qué acción de Nora muestra su curiosidad?", "She opened an old box in the corner", ["She put the last book on the shelf", "She is a librarian"], "Abrir la caja vieja es la acción que el texto une con su curiosidad (so she opened)."),
-        mc(f"Lee: {IAN} {GIAN} ¿Cómo es Ian?", "Stubborn, porque rechaza el abrigo aunque su mamá le avisa que nieva", ["Shy, porque camina con los brazos cruzados", "Generous, porque su mamá le ofrece algo"], "Dice I will not wear a coat y I do not care, así que no cambia de idea."),
+        mc(f"Lee: {IAN} {GIAN} ¿Cómo es Ian?", "Stubborn, porque rechaza el abrigo aunque su mamá le avisa que nieva", ["Shy, porque no quiere hablar con su mamá", "Generous, porque su mamá le ofrece un abrigo"], "Dice I will not wear a coat y I do not care, así que no cambia de idea."),
     ],
     [
         mc(f"Lee: {FARM} {GFARM} ¿Dónde vive Rita?", "On a small farm near a dry river", ["In a big city", "In a school"], "El lugar aparece en la primera oración."),
@@ -177,7 +177,7 @@ lesson(
         mc("Lee: «Marco never finished his homework, and he slept in class.» (homework = tarea; slept = durmió) ¿Qué rasgo muestran estas acciones?", "Lazy", ["Brave", "Curious"], "No terminar la tarea y dormir en clase son acciones de una persona floja."),
     ],
     [
-        mc(f"Dos lectores leen: {IAN} Lector 1: Ian es valiente porque sale a la nieve. Lector 2: Ian es terco porque rechaza el abrigo aunque le avisan que nieva. ¿Quién usa mejor la evidencia?", "El lector 2, porque se apoya en sus palabras y en su actitud", ["El lector 1, porque la nieve es fría", "Ninguno, porque en una historia no se puede probar un rasgo"], "Lo que Ian dice y hace dos veces apoya mejor terco que valiente."),
+        mc(f"Dos lectores leen: {IAN} Lector 1: Ian es valiente porque sale a la nieve. Lector 2: Ian es terco porque rechaza el abrigo aunque le avisan que nieva. ¿Quién usa mejor la evidencia?", "El lector 2, porque se apoya en sus palabras y en su actitud", ["El lector 1, porque la nieve es fría", "Los dos, porque cualquier rasgo se puede defender sin pruebas"], "Lo que Ian dice y hace dos veces apoya mejor terco que valiente."),
         mc(f"Lee: {FARM} Si la historia ocurriera en una primavera lluviosa, en vez de «the summer of the big drought», ¿qué detalle del texto dejaría de calzar?", "A dry river", ["Honest", "Walked back two kilometers"], "En una primavera lluviosa el río no estaría seco; el tiempo explica el río."),
     ],
     [
@@ -261,7 +261,7 @@ lesson(
         mc(f"Lee: {WELL} {GWELL} ¿Qué acción causó la solución?", "They cleaned the old stone channel", ["People walked two hours to a river", "The well was empty in March"], "Después de limpiar el canal, el pozo se llenó otra vez."),
         mc(f"Lee: {BUS} {GBUS} Elena resume la historia así: «Problem: the bus. End: she is late.» ¿Qué parte de su resumen falla frente al texto?", "El final: llegó justo a tiempo", ["El problema: el bus no vino", "No falla nada"], "El texto termina con She arrived just in time, no tarde."),
     ],
-    [mc(f"En el club de lectura debes elegir el mejor resumen de este microcuento: {SHOP} {GSHOP}", "Problema: llegan menos clientes. Solución: vender la mermelada por un sitio web", ["Problema: Castro es una ciudad grande. Solución: abrir un supermercado", "Problema: la abuela no sabe hacer mermelada. Solución: aprender"], "El supermercado trajo menos clientes y Joaquín abrió una vía nueva de venta.")],
+    [mc(f"En el club de lectura debes elegir el mejor resumen de este microcuento: {SHOP} {GSHOP}", "Problema: llegan menos clientes. Solución: vender la mermelada por un sitio web", ["Problema: la abuela vende mermelada. Solución: cerrar la tienda de Castro", "Problema: llegan menos clientes. Solución: abrir otro supermercado en la ciudad"], "El supermercado trajo menos clientes y Joaquín abrió una vía nueva de venta.")],
     [
         mc("¿Qué palabra anuncia una solución?", "Finally", ["Cannot"], "Finally marca que algo se resuelve; cannot muestra un problema."),
         mc("¿Cuál es la palabra que comúnmente anuncia un problema?", "But", ["Soon", "Now"], "But introduce una dificultad."),
@@ -402,7 +402,7 @@ lesson(
         mc(f"Lee: {PARTY} {GPARTY} ¿Por qué Tito dice «do not spill the beans»?", "Porque quiere que Dani guarde el secreto de la fiesta", ["Porque tiene hambre", "Porque quiere cocinar"], "Se trata de una fiesta sorpresa que no debe contarse."),
     ],
     [
-        mc(f"Lee: {MARKET} {GMARKET} ¿A qué campo temático pertenecen stall, customers, price y seller?", "El mercado", ["El mar", "La montaña"], "Todas son palabras de comprar y vender."),
+        mc(f"Lee: {MARKET} {GMARKET} ¿A qué campo temático pertenecen stall, customers, price y seller?", "El mercado", ["La escuela", "La montaña"], "Todas son palabras de comprar y vender."),
         mc(f"Lee: {MARKET} {GMARKET} ¿Qué significa «bargain» aquí?", "Un buen precio", ["Un puesto grande", "Un kilo de manzanas"], "El vendedor dice que el kilo cuesta mil pesos y lo llama bargain."),
         mc(f"Lee: {MARKET} {GMARKET} ¿Qué significa «once in a blue moon»?", "Muy rara vez", ["Todas las noches", "Cada fin de semana"], "El contraste es que hoy Cristina sí compró."),
     ],
@@ -426,6 +426,6 @@ lesson(
          ["tres significados y tres subrayados en la hoja"],
          ["traducir literalmente", "dar el mismo significado a dos expresiones distintas"],
          "Pide que explique por qué su significado calza con la historia."),
-    "Copia las seis expresiones idiomáticas con su significado y dibuja una escena para tres de ellas.",
+    "Copia las siete expresiones idiomáticas del vocabulario con su significado y dibuja una escena para tres de ellas.",
     "Escribe en español una situación de tu vida diaria que podrías describir con «a piece of cake» y otra con «under the weather».",
 )

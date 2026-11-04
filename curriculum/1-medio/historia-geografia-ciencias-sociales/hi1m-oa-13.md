@@ -155,8 +155,8 @@ Respuesta: Por ser una ruta entre dos océanos y afirmar la soberanía
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1826, Chiloé se incorpora a la República de Chile; 1843, se funda el Fuerte Bulnes en el estrecho de Magallanes; 1845, ley que autoriza traer colonos extranjeros; 1846, llegan las primeras familias alemanas a la zona de Valdivia; 1848, se funda Punta Arenas; 1852-1853, comienza la colonización de Llanquihue y se funda Puerto Montt. ¿Cuántos años pasaron entre la incorporación de Chiloé y la fundación del Fuerte Bulnes?
-- **A2.** Línea de tiempo: 1826, Chiloé se incorpora a la República de Chile; 1843, se funda el Fuerte Bulnes en el estrecho de Magallanes; 1845, ley que autoriza traer colonos extranjeros; 1846, llegan las primeras familias alemanas a la zona de Valdivia; 1848, se funda Punta Arenas; 1852-1853, comienza la colonización de Llanquihue y se funda Puerto Montt. ¿Cuántos años pasaron entre la ley de 1845 y la fundación de Puerto Montt en 1853?
+- **A1.** Línea de tiempo: 1826, Chiloé se incorpora a la República de Chile; 1843, se funda el Fuerte Bulnes en el estrecho de Magallanes; 1845, ley que autoriza traer colonos extranjeros; 1846, llegan las primeras familias alemanas a la zona de Valdivia; 1848, se funda Punta Arenas; 1852-1853, comienza la colonización de Llanquihue y se funda Puerto Montt. Ordena de más antiguo a más reciente: fundación de Punta Arenas, incorporación de Chiloé, ley que autoriza traer colonos y llegada de familias alemanas a Valdivia.
+- **A2.** Línea de tiempo: 1826, Chiloé se incorpora a la República de Chile; 1843, se funda el Fuerte Bulnes en el estrecho de Magallanes; 1845, ley que autoriza traer colonos extranjeros; 1846, llegan las primeras familias alemanas a la zona de Valdivia; 1848, se funda Punta Arenas; 1852-1853, comienza la colonización de Llanquihue y se funda Puerto Montt. ¿Qué ciudad se funda al comenzar la colonización de Llanquihue?
 - **A3.** Une cada lugar con una razón de su valor: 1) estrecho de Magallanes, 2) Valdivia y Llanquihue, 3) Chiloé. a) tierras para agricultura y madera, b) ruta entre océanos, c) isla ya poblada que se incorporó en 1826. Escribe las parejas.
 
 *Razonamiento y análisis*
@@ -189,8 +189,8 @@ Respuesta: Por ser una ruta entre dos océanos y afirmar la soberanía
 - **C1.** Una persona que se instala en un territorio para poblarlo y trabajarlo. Es el término para quienes llegaban a poblar.
 - **C2.** A. La línea lo indica.
 - **C3.** Importaba además como ruta marítima entre el Atlántico y el Pacífico y para afirmar la soberanía. Su importancia era estratégica y marítima.
-- **A1.** 17. Se restan las dos fechas. Cálculo: 1843 − 1826 = 17.
-- **A2.** 8. Se restan las dos fechas. Cálculo: 1853 − 1845 = 8.
+- **A1.** Incorporación de Chiloé, ley de 1845, llegada de familias alemanas a Valdivia, fundación de Punta Arenas. Se ordenan por sus años: 1826, 1845, 1846 y 1848.
+- **A2.** Puerto Montt. La línea une la colonización de Llanquihue con esa fundación.
 - **A3.** 1-b, 2-a, 3-c. Cada lugar se asocia a una razón distinta.
 - **Z1.** La ley de 1845 que autoriza traer colonos extranjeros. La ley es la base legal de la inmigración.
 - **Z2.** Porque esos lugares estaban habitados por pueblos originarios como los huilliche, kawésqar, selk'nam, yagán y aónikenk. No eran lugares sin población.
@@ -363,8 +363,8 @@ Respuesta: Porque representa una comunidad y no a todos los pueblos
 
 *Aplicación*
 
-- **A1.** Fuente A (texto de ejemplo basado en el tipo de leyes de la época): «El gobierno podrá conceder tierras a colonos extranjeros que se establezcan en las provincias del sur.» Fuente B (carta de un colono, de ejemplo): «Llegamos a la orilla del lago; hay que despejar el bosque con hacha y construir una casa antes del invierno.» Fuente C (tabla de ejemplo): en una localidad del sur se registraron 120 familias colonas y 60 familias de pobladores locales, entre ellas familias chilotas que trabajaban en el despeje del bosque. Fuente D (relato de ejemplo atribuido a una comunidad huilliche): «Nuestras familias vivían aquí desde antes; después se nos fue reduciendo la tierra.» ¿Cuántas familias hay en total en la localidad de la Fuente C?
-- **A2.** Fuente A (texto de ejemplo basado en el tipo de leyes de la época): «El gobierno podrá conceder tierras a colonos extranjeros que se establezcan en las provincias del sur.» Fuente B (carta de un colono, de ejemplo): «Llegamos a la orilla del lago; hay que despejar el bosque con hacha y construir una casa antes del invierno.» Fuente C (tabla de ejemplo): en una localidad del sur se registraron 120 familias colonas y 60 familias de pobladores locales, entre ellas familias chilotas que trabajaban en el despeje del bosque. Fuente D (relato de ejemplo atribuido a una comunidad huilliche): «Nuestras familias vivían aquí desde antes; después se nos fue reduciendo la tierra.» De las 180 familias de la localidad, ¿cuántas más son colonas que locales?
+- **A1.** Fuente A (texto de ejemplo basado en el tipo de leyes de la época): «El gobierno podrá conceder tierras a colonos extranjeros que se establezcan en las provincias del sur.» Fuente B (carta de un colono, de ejemplo): «Llegamos a la orilla del lago; hay que despejar el bosque con hacha y construir una casa antes del invierno.» Fuente C (tabla de ejemplo): en una localidad del sur se registraron 120 familias colonas y 60 familias de pobladores locales, entre ellas familias chilotas que trabajaban en el despeje del bosque. Fuente D (relato de ejemplo atribuido a una comunidad huilliche): «Nuestras familias vivían aquí desde antes; después se nos fue reduciendo la tierra.» ¿Qué dos tipos de familias registra la tabla de la Fuente C?
+- **A2.** Fuente A (texto de ejemplo basado en el tipo de leyes de la época): «El gobierno podrá conceder tierras a colonos extranjeros que se establezcan en las provincias del sur.» Fuente B (carta de un colono, de ejemplo): «Llegamos a la orilla del lago; hay que despejar el bosque con hacha y construir una casa antes del invierno.» Fuente C (tabla de ejemplo): en una localidad del sur se registraron 120 familias colonas y 60 familias de pobladores locales, entre ellas familias chilotas que trabajaban en el despeje del bosque. Fuente D (relato de ejemplo atribuido a una comunidad huilliche): «Nuestras familias vivían aquí desde antes; después se nos fue reduciendo la tierra.» Según la tabla, ¿hay más familias colonas o más familias locales? ¿Qué no permite saber la tabla?
 - **A3.** Fuente A (texto de ejemplo basado en el tipo de leyes de la época): «El gobierno podrá conceder tierras a colonos extranjeros que se establezcan en las provincias del sur.» Fuente B (carta de un colono, de ejemplo): «Llegamos a la orilla del lago; hay que despejar el bosque con hacha y construir una casa antes del invierno.» Fuente C (tabla de ejemplo): en una localidad del sur se registraron 120 familias colonas y 60 familias de pobladores locales, entre ellas familias chilotas que trabajaban en el despeje del bosque. Fuente D (relato de ejemplo atribuido a una comunidad huilliche): «Nuestras familias vivían aquí desde antes; después se nos fue reduciendo la tierra.» ¿Qué fuente permite evitar atribuir todo el resultado a los colonos europeos? A) la A, B) la B, C) la C.
 
 *Razonamiento y análisis*
@@ -397,8 +397,8 @@ Respuesta: Porque representa una comunidad y no a todos los pueblos
 - **C1.** 120. La tabla lo indica.
 - **C2.** A. El relato lo afirma.
 - **C3.** La ley no dice si estaban vacías; solo muestra la intención de conceder tierras. Una ley no describe el estado previo.
-- **A1.** 180. Se suman colonas y locales. Cálculo: 120 + 60 = 180.
-- **A2.** 60. Se resta el número de familias locales del de colonas. Cálculo: 120 − 60 = 60.
+- **A1.** Familias colonas y familias de pobladores locales, entre ellas chilotas. La tabla distingue colonos y pobladores locales.
+- **A2.** Hay más colonas (120 frente a 60); no dice qué tierras usaba cada grupo antes. Los números comparan grupos, pero no explican su historia.
 - **A3.** C. La tabla incluye pobladores locales y chilotes.
 - **Z1.** Porque la ley muestra la política estatal y el relato muestra cómo la vivió una comunidad que ya habitaba el lugar. Una es voz oficial y otra voz comunitaria.
 - **Z2.** En la zona había colonos que despejaban el bosque y también familias locales y chilotas que trabajaban en ello. Une la carta y la tabla con cuidado.
@@ -571,8 +571,8 @@ Respuesta: Por las grandes extensiones abiertas de Magallanes
 
 *Aplicación*
 
-- **A1.** En una estancia de ejemplo había 2.000 ovejas y nacieron 500 corderos. ¿Cuántos animales hay en total?
-- **A2.** Un grupo de 250 familias llega a una localidad del sur y 90 se van a otra zona. ¿Cuántas quedan?
+- **A1.** Cuadro de ejemplo. Cambio: en Valdivia y Llanquihue se instalaron familias colonas, se despejaron bosques, se fundaron pueblos como Puerto Montt y se desarrollaron cultivos, ganadería y pequeñas industrias; en Magallanes se fundaron Fuerte Bulnes y Punta Arenas y creció la ganadería ovina. Continuidad: Chiloé siguió siendo una isla con población campesina y marinera; la presencia de pueblos originarios continuó, aunque con menos tierra; los caminos eran escasos y el tiempo de viaje era largo. ¿Qué cambio económico ocurre en Magallanes según el cuadro?
+- **A2.** Cuadro de ejemplo. Cambio: en Valdivia y Llanquihue se instalaron familias colonas, se despejaron bosques, se fundaron pueblos como Puerto Montt y se desarrollaron cultivos, ganadería y pequeñas industrias; en Magallanes se fundaron Fuerte Bulnes y Punta Arenas y creció la ganadería ovina. Continuidad: Chiloé siguió siendo una isla con población campesina y marinera; la presencia de pueblos originarios continuó, aunque con menos tierra; los caminos eran escasos y el tiempo de viaje era largo. Explica por qué en Valdivia y Llanquihue fue importante despejar bosques.
 - **A3.** Explica por qué hablar de «un único sur» es impreciso.
 
 *Razonamiento y análisis*
@@ -605,8 +605,8 @@ Respuesta: Por las grandes extensiones abiertas de Magallanes
 - **C1.** Cambio. El paisaje se transformó.
 - **C2.** Continuidad. El cuadro dice que su presencia continuó.
 - **C3.** B. El cuadro asocia Magallanes a puerto y ovejas.
-- **A1.** 2.500. Se suman los nacidos a las ovejas existentes. Cálculo: 2000 + 500 = 2.500.
-- **A2.** 160. Se restan las que se van. Cálculo: 250 − 90 = 160.
+- **A1.** Creció la ganadería ovina. El cuadro lo lista entre los cambios.
+- **A2.** Porque había que abrir campos para los cultivos, la ganadería y los pueblos. El bosque cubría el terreno que se quería poblar y trabajar.
 - **A3.** Porque Valdivia, Llanquihue, Chiloé y Magallanes tuvieron procesos distintos según su clima y territorio. El territorio genera diferencias.
 - **Z1.** Chiloé mantuvo su población campesina y marinera y los pueblos originarios continuaron. Hay continuidades claras.
 - **Z2.** Muchas localidades vivían aisladas. El cuadro lo señala como continuidad.
@@ -779,8 +779,8 @@ Respuesta: El Estado, como poblamiento; el huilliche, como pérdida de tierras
 
 *Aplicación*
 
-- **A1.** En una localidad de ejemplo trabajan 80 chilotes, 45 colonos y 15 funcionarios. ¿Cuántas personas son en total?
-- **A2.** En un contrato de ejemplo, un grupo despeja 36 hectáreas en 4 días con igual ritmo cada día. ¿Cuántas hectáreas despeja por día?
+- **A1.** Voces de ejemplo, redactadas para este cuaderno. Agente del Estado: «Queremos poblar el sur con familias que trabajen la tierra y fortalezcan nuestra presencia.» Colono alemán: «Dejé mi aldea en busca de tierra y seguridad; el trabajo aquí es duro.» Trabajador chilote: «Mi labor es despejar el bosque y construir; me pagan según el trabajo realizado.» Dirigente huilliche: «Esta tierra la usaban nuestras familias antes que llegaran los colonos y hoy tenemos menos.» Comerciante de Punta Arenas: «Los barcos que pasan por el estrecho necesitan carbón y alimentos.» ¿Qué actor ofrece mano de obra y cuál busca poblar para fortalecer la presencia estatal?
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Agente del Estado: «Queremos poblar el sur con familias que trabajen la tierra y fortalezcan nuestra presencia.» Colono alemán: «Dejé mi aldea en busca de tierra y seguridad; el trabajo aquí es duro.» Trabajador chilote: «Mi labor es despejar el bosque y construir; me pagan según el trabajo realizado.» Dirigente huilliche: «Esta tierra la usaban nuestras familias antes que llegaran los colonos y hoy tenemos menos.» Comerciante de Punta Arenas: «Los barcos que pasan por el estrecho necesitan carbón y alimentos.» Explica por qué el comerciante de Punta Arenas se interesa en el estrecho.
 - **A3.** Una compañera dice: «El éxito del poblamiento fue solo de los alemanes». Menciona otro actor que contradiga esa frase.
 
 *Razonamiento y análisis*
@@ -813,8 +813,8 @@ Respuesta: El Estado, como poblamiento; el huilliche, como pérdida de tierras
 - **C1.** Que sus familias la usaban antes y hoy tienen menos. Su voz lo dice.
 - **C2.** 1-b, 2-c, 3-a. Cada voz expresa un interés distinto.
 - **C3.** A. Lo dice en su voz.
-- **A1.** 140. Se suman los tres grupos. Cálculo: 80 + 45 + 15 = 140.
-- **A2.** 9. Se divide el total entre los días. Cálculo: 36 ÷ 4 = 9.
+- **A1.** El trabajador chilote ofrece mano de obra; el agente del Estado busca poblar. Cada voz expresa un papel distinto.
+- **A2.** Porque los barcos que pasan necesitan carbón y alimentos que él puede vender. Su interés es comercial.
 - **A3.** Los trabajadores chilotes que despejaban el bosque y construían. Otros actores aportaron trabajo.
 - **Z1.** Porque influyeron la soberanía, las tierras, la inmigración, el comercio marítimo y el trabajo, y no una sola causa. Varias causas se combinaron.
 - **Z2.** El colono ve una oportunidad con esfuerzo y el dirigente ve una pérdida de tierras. Sus experiencias fueron opuestas.
@@ -982,13 +982,13 @@ Respuesta: El dato 4
 *Comprensión*
 
 - **C1.** Dossier de ejemplo. Dato 1: una ley de 1845 autorizó traer colonos extranjeros; llegaron familias alemanas a Valdivia (1846) y a Llanquihue. Dato 2: el Estado fundó Fuerte Bulnes (1843) y Punta Arenas (1848) en el estrecho de Magallanes. Dato 3: trabajadores chilotes despejaron bosques y construyeron. Dato 4: familias de pueblos originarios vieron reducidas sus tierras. Dato 5: el estrecho era una ruta entre el Atlántico y el Pacífico. ¿Qué dato muestra un costo para pueblos originarios?
-- **C2.** Elige la tesis mejor formulada. A) El Estado ocupó el sur por razones estratégicas con inmigración y trabajo de varios grupos, y con un costo para los pueblos originarios, B) El sur estaba vacío y los alemanes lo poblaron, C) Nada cambió en el sur.
+- **C2.** Elige la tesis mejor formulada. A) El sur estaba vacío y los alemanes lo poblaron, B) El Estado ocupó el sur solo por la agricultura, sin ningún interés estratégico, C) El Estado ocupó el sur por razones estratégicas con inmigración y trabajo de varios grupos, y con un costo para los pueblos originarios.
 - **C3.** Una compañera dice que el dato 1 prueba que «los alemanes hicieron todo». ¿Qué dato lo contradice?
 
 *Aplicación*
 
-- **A1.** Dossier de ejemplo. Dato 1: una ley de 1845 autorizó traer colonos extranjeros; llegaron familias alemanas a Valdivia (1846) y a Llanquihue. Dato 2: el Estado fundó Fuerte Bulnes (1843) y Punta Arenas (1848) en el estrecho de Magallanes. Dato 3: trabajadores chilotes despejaron bosques y construyeron. Dato 4: familias de pueblos originarios vieron reducidas sus tierras. Dato 5: el estrecho era una ruta entre el Atlántico y el Pacífico. Si el dossier tiene 5 datos y 2 se refieren al estrecho (2 y 5), ¿cuántos datos hablan de otros temas?
-- **A2.** Un grupo escribe un texto de 15 líneas: 2 de tesis, 9 de evidencias y el resto de límite. ¿Cuántas líneas son de límite?
+- **A1.** Dossier de ejemplo. Dato 1: una ley de 1845 autorizó traer colonos extranjeros; llegaron familias alemanas a Valdivia (1846) y a Llanquihue. Dato 2: el Estado fundó Fuerte Bulnes (1843) y Punta Arenas (1848) en el estrecho de Magallanes. Dato 3: trabajadores chilotes despejaron bosques y construyeron. Dato 4: familias de pueblos originarios vieron reducidas sus tierras. Dato 5: el estrecho era una ruta entre el Atlántico y el Pacífico. ¿Qué dato del dossier muestra una acción del Estado para poblar el sur?
+- **A2.** Dossier de ejemplo. Dato 1: una ley de 1845 autorizó traer colonos extranjeros; llegaron familias alemanas a Valdivia (1846) y a Llanquihue. Dato 2: el Estado fundó Fuerte Bulnes (1843) y Punta Arenas (1848) en el estrecho de Magallanes. Dato 3: trabajadores chilotes despejaron bosques y construyeron. Dato 4: familias de pueblos originarios vieron reducidas sus tierras. Dato 5: el estrecho era una ruta entre el Atlántico y el Pacífico. Un grupo escribe: «Los alemanes poblaron solos el sur». ¿Qué datos del dossier muestran que es excesivo?
 - **A3.** Dossier de ejemplo. Dato 1: una ley de 1845 autorizó traer colonos extranjeros; llegaron familias alemanas a Valdivia (1846) y a Llanquihue. Dato 2: el Estado fundó Fuerte Bulnes (1843) y Punta Arenas (1848) en el estrecho de Magallanes. Dato 3: trabajadores chilotes despejaron bosques y construyeron. Dato 4: familias de pueblos originarios vieron reducidas sus tierras. Dato 5: el estrecho era una ruta entre el Atlántico y el Pacífico. Con los datos 3 y 4, redacta una conclusión proporcional.
 
 *Razonamiento y análisis*
@@ -1019,10 +1019,10 @@ Respuesta: El dato 4
 - **R2.** A. El dato 1 menciona colonos alemanes.
 - **R3.** El dato 3. Menciona a los trabajadores chilotes.
 - **C1.** El dato 4. Habla de tierras reducidas.
-- **C2.** A. Es defendible con el dossier.
+- **C2.** C. Es defendible con el dossier.
 - **C3.** El dato 3, que muestra el trabajo de los chilotes. Otros grupos también trabajaron.
-- **A1.** 3. Se restan los datos del estrecho. Cálculo: 5 − 2 = 3.
-- **A2.** 4. Se restan tesis y evidencias del total. Cálculo: 15 − 2 − 9 = 4.
+- **A1.** El dato 1, la ley de 1845 que autorizó traer colonos extranjeros. La ley es una medida estatal.
+- **A2.** Los datos 3 y 4: hubo trabajadores chilotes y familias de pueblos originarios afectadas. Había otros grupos presentes.
 - **A3.** Trabajadores chilotes despejaron bosques y construyeron, mientras familias de pueblos originarios vieron reducidas sus tierras. Une dos procesos del dossier.
 - **Z1.** Porque el proceso redujo sus tierras y omitirlo mostraría una versión incompleta. El dato 4 es parte central del proceso.
 - **Z2.** «Todos» excede la evidencia, porque el dato 4 muestra tierras reducidas para algunos. Es una afirmación absoluta.
@@ -1195,8 +1195,8 @@ Respuesta: Porque faltan cifras y registros
 
 *Aplicación*
 
-- **A1.** En una comunidad de ejemplo, antes tenía 1.000 hectáreas y hoy conserva 350. ¿Cuántas hectáreas perdió?
-- **A2.** Una población de ejemplo de 800 personas disminuyó a 200 en cierto periodo. ¿Cuántas personas menos hay?
+- **A1.** Resumen de ejemplo para evaluar proyecciones. Huellas visibles: ciudades y pueblos fundados en el siglo XIX en el sur; presencia de apellidos y tradiciones de origen europeo; ganadería ovina en Magallanes; Chiloé con trabajadores que migraron a otras zonas. Huellas menos visibles: pérdida de tierras de familias huilliche y de otros pueblos; gran disminución de la población de pueblos australes como los selk'nam por la violencia, las enfermedades y el desplazamiento; demandas de tierras que continuaron en el tiempo. Explica por qué las demandas de tierras son una huella menos visible.
+- **A2.** Resumen de ejemplo para evaluar proyecciones. Huellas visibles: ciudades y pueblos fundados en el siglo XIX en el sur; presencia de apellidos y tradiciones de origen europeo; ganadería ovina en Magallanes; Chiloé con trabajadores que migraron a otras zonas. Huellas menos visibles: pérdida de tierras de familias huilliche y de otros pueblos; gran disminución de la población de pueblos australes como los selk'nam por la violencia, las enfermedades y el desplazamiento; demandas de tierras que continuaron en el tiempo. Un compañero dice: «Los selk'nam ya no existen». ¿Qué corrección haces con el resumen?
 - **A3.** Explica por qué evaluar la ocupación solo como progreso es insuficiente.
 
 *Razonamiento y análisis*
@@ -1229,8 +1229,8 @@ Respuesta: Porque faltan cifras y registros
 - **C1.** Violencia, enfermedades y desplazamiento. El resumen las nombra.
 - **C2.** Visible. Se ven en el paisaje.
 - **C3.** Menos visible. Es un proceso social.
-- **A1.** 650. Se resta lo que conserva a lo que tenía. Cálculo: 1000 − 350 = 650.
-- **A2.** 600. Se resta la población final de la inicial. Cálculo: 800 − 200 = 600.
+- **A1.** Porque son un proceso social que no se ve en el paisaje ni en un monumento. Las huellas visibles se ven en el paisaje y la economía.
+- **A2.** El resumen habla de una gran disminución de su población, no de que hayan desaparecido; hay descendientes que mantienen su identidad. Disminuir mucho no es lo mismo que desaparecer.
 - **A3.** Porque deja fuera costos como la pérdida de tierras y la disminución de población de pueblos originarios. Una evaluación equilibrada incluye costos.
 - **Z1.** Hay demandas de tierras que continuaron en el tiempo. El resumen habla de continuidad de demandas.
 - **Z2.** No entrega cifras ni la voz de cada comunidad. Es un vacío de la fuente.

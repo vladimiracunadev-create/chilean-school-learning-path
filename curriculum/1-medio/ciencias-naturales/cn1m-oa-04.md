@@ -156,7 +156,7 @@ Respuesta: 4 guanacos por km²
 *Aplicación*
 
 - **A1.** En una estepa de ejemplo de 15 km² viven 90 guanacos. ¿Cuántos guanacos hay por km²?
-- **A2.** Una laguna costera de ejemplo tiene 200 aves de una especie, 50 peces de una especie, 30 cangrejos de una especie y plantas acuáticas. ¿Cuántas poblaciones se mencionan como animales? A) 280 poblaciones; B) 3 poblaciones (aves, peces y cangrejos).
+- **A2.** Una laguna costera de ejemplo tiene 200 aves de una especie, 50 peces de una especie, 30 cangrejos de una especie y plantas acuáticas. ¿Cuántas poblaciones se mencionan como animales? A) 3 poblaciones (aves, peces y cangrejos); B) 2 poblaciones, porque solo se cuentan los animales grandes.
 - **A3.** Para saber cuántos zorros culpeo hay en un parque, ¿qué dato se debe medir? A) El color de las flores del parque; B) El número de zorros que se cuentan en un área conocida.
 
 *Razonamiento y análisis*
@@ -190,7 +190,7 @@ Respuesta: 4 guanacos por km²
 - **C2.** B. Es el nivel que integra lo vivo y lo no vivo.
 - **C3.** Organismo. Un individuo es un organismo.
 - **A1.** 6 por km². Se divide el número de individuos entre el área. Cálculo: 90 ÷ 15 = 6.
-- **A2.** B. Cada especie es una población distinta.
+- **A2.** A. Cada especie es una población distinta.
 - **A3.** B. El tamaño de la población se obtiene contando individuos en un área.
 - **Z1.** B. Incluye comunidades y ambiente.
 - **Z2.** A. El A tiene 4 por km² y el B tiene 3 por km².
@@ -363,8 +363,8 @@ Respuesta: Mutualismo
 
 *Aplicación*
 
-- **A1.** Tabla de ejemplo: caso 1, un zorro culpeo se come un conejo; caso 2, un musgo crece sobre una roca sin dañarla; caso 3, una garrapata se alimenta de la sangre de un perro; caso 4, un picaflor poliniza una flor. ¿En qué caso hay parasitismo?
-- **A2.** Con la misma tabla (caso 1, un zorro culpeo se come un conejo; caso 2, un musgo crece sobre una roca sin dañarla; caso 3, una garrapata se alimenta de la sangre de un perro; caso 4, un picaflor poliniza una flor), ¿en qué caso hay comensalismo?
+- **A1.** Tabla de ejemplo: caso 1, un zorro culpeo se come un conejo; caso 2, un musgo crece sobre el tronco de un árbol vivo sin dañarlo; caso 3, una garrapata se alimenta de la sangre de un perro; caso 4, un picaflor poliniza una flor. ¿En qué caso hay parasitismo?
+- **A2.** Con la misma tabla (caso 1, un zorro culpeo se come un conejo; caso 2, un musgo crece sobre el tronco de un árbol vivo sin dañarlo; caso 3, una garrapata se alimenta de la sangre de un perro; caso 4, un picaflor poliniza una flor), ¿en qué caso hay comensalismo?
 - **A3.** En una tabla de ejemplo se anotaron 7 casos de depredación, 4 de competencia y 3 de mutualismo. ¿Cuántos casos se anotaron en total?
 
 *Razonamiento y análisis*
@@ -375,7 +375,7 @@ Respuesta: Mutualismo
 *Desafío*
 
 - **D1.** Un cuadro de ejemplo clasifica 20 interacciones. 8 son mutualismo, 5 son depredación y el resto parasitismo. ¿Cuántas son parasitismo?
-- **D2.** Un estudiante observa a un pájaro que come insectos de la piel de una vaca. El pájaro se alimenta y la vaca se libra de insectos. ¿Qué interacción es probable? A) Mutualismo; B) Depredación.
+- **D2.** Un estudiante observa a un pájaro que come insectos de la piel de una vaca. El pájaro se alimenta y la vaca se libra de insectos. ¿Qué interacción es probable entre el pájaro y la vaca? A) Mutualismo; B) Depredación.
 
 *Situaciones auténticas*
 
@@ -398,7 +398,7 @@ Respuesta: Mutualismo
 - **C2.** A. Ambas pierden por usar un mismo recurso.
 - **C3.** Mutualismo. Ambos organismos ganan algo.
 - **A1.** Caso 3. La garrapata se beneficia y el perro sufre daño.
-- **A2.** Caso 2. El musgo gana y la roca no cambia.
+- **A2.** Caso 2. El musgo gana y el árbol no cambia.
 - **A3.** 14. Se suman los casos de cada tipo. Cálculo: 7 + 4 + 3 = 14.
 - **Z1.** A. El ave gana y la presa pierde.
 - **Z2.** A. Uno gana y el otro ni gana ni pierde.
@@ -1201,13 +1201,13 @@ Respuesta: No lo toca y avisa a una persona adulta
 
 *Razonamiento y análisis*
 
-- **Z1.** Un grupo propone liberar depredadores de otro país para controlar una plaga. ¿Qué riesgo tiene esa medida? A) Los depredadores nuevos podrían volverse invasores; B) No habría plaga.
+- **Z1.** Un grupo propone liberar depredadores de otro país para controlar una plaga. ¿Qué riesgo tiene esa medida? A) Los depredadores nuevos podrían volverse invasores; B) Ninguno, porque los depredadores nuevos solo comerían la plaga.
 - **Z2.** Un folleto dice que todas las especies introducidas son dañinas. ¿Qué respuesta es mejor? A) Tiene razón, sin excepciones; B) Algunas no se establecen o no causan daño, pero las invasoras sí, y se evalúa caso a caso.
 
 *Desafío*
 
 - **D1.** Datos de ejemplo: en un humedal había 90 aves nativas por km²; tras la invasión de una especie, bajaron a 54. ¿En qué porcentaje bajó la densidad? Responde con el número de porcentaje.
-- **D2.** Una medida de control propone cazar a la especie invasora. ¿Qué evidencia se necesita para evaluarla? A) Solo la opinión de una persona; B) Cuántos individuos hay, cuánto daño causan y qué efectos tendría la medida.
+- **D2.** Una medida de control propone cazar a la especie invasora. ¿Qué evidencia se necesita para evaluarla? A) Cuántos individuos hay, cuánto daño causan y qué efectos tendría la medida; B) Solo cuántos individuos hay, sin medir el daño que causan.
 
 *Situaciones auténticas*
 
@@ -1235,7 +1235,7 @@ Respuesta: No lo toca y avisa a una persona adulta
 - **Z1.** A. Introducir especies puede crear nuevos problemas.
 - **Z2.** B. Se necesita evidencia en cada caso.
 - **D1.** 40. La baja es de 36 sobre 90, que equivale a 40 de cada 100.
-- **D2.** B. La decisión debe apoyarse en datos y no solo en opiniones.
+- **D2.** A. La decisión debe apoyarse en datos y no solo en opiniones.
 - **S1.** 32. Se suman las observaciones de la mañana y de la tarde. Cálculo: 18 + 14 = 32.
 - **E1.** Una especie introducida que daña el ecosistema. Puede competir con las nativas.
 - **E2.** Mantener la distancia, no alimentar ni tocar. Protegen a las personas y a los animales.

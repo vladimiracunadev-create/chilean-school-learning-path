@@ -162,7 +162,7 @@ Respuesta: Se esperaban 8 veces; salió 6, o sea 15 %
 
 *Razonamiento y análisis*
 
-- **Z1.** Pedro dice: «Salió cara 5 veces seguidas, ahora toca sello». ¿Tiene razón? Responde sí o no.
+- **Z1.** Rosa lanzó una moneda 10 veces y salieron 7 caras. Dice: «En los próximos 10 lanzamientos saldrán 3 caras, para compensar». ¿Tiene razón? Responde sí o no.
 - **Z2.** En 10 lanzamientos de una moneda salieron 7 caras. Luisa dice: «Esa moneda está cargada». ¿Se puede asegurar con solo 10 lanzamientos? Responde sí o no.
 
 *Desafío*
@@ -193,7 +193,7 @@ Respuesta: Se esperaban 8 veces; salió 6, o sea 15 %
 - **A1.** 54%. En total salieron 27 caras de 50 lanzamientos. Cálculo: (7 + 4 + 6 + 5 + 5) × 100 ÷ 50 = 54.
 - **A2.** 17 caras. Se suman las caras de los tres bloques. Cálculo: 7 + 4 + 6 = 17.
 - **A3.** 4 veces. Lo esperado es 1/4 de 60, o sea 15, y salió 11. Cálculo: 60 ÷ 4 − 11 = 4.
-- **Z1.** No. Los lanzamientos son independientes y la probabilidad de sello sigue siendo 1/2.
+- **Z1.** No. Los lanzamientos son independientes: la moneda no compensa y los próximos 10 pueden dar cualquier cantidad de caras.
 - **Z2.** No. Con pocas repeticiones esa variación es normal en una moneda justa.
 - **D1.** 56%. Se divide 84 por 150 y se multiplica por 100. Cálculo: 84 × 100 ÷ 150 = 56.
 - **D2.** 6 veces. Lo esperado es 20 veces y salió 26. Cálculo: 26 − 120 ÷ 6 = 6.
@@ -839,7 +839,7 @@ Respuesta: Sí, 5 % está respaldado por los datos
 
 **Refuerzo.** Calcula cuántas bolitas se esperan en cada casillero de una tabla de 3 filas si se sueltan 160.
 
-**Profundización.** Explica por qué 5 bolitas de 16 en los extremos es menos preocupante que 50 de 160 fuera de lo esperado.
+**Profundización.** Explica por qué 5 bolitas de 16 en los extremos (se esperaban 2) es menos preocupante que 50 bolitas de 160 en los extremos (se esperaban 20).
 
 
 **Apoyo en el mismo OA:** Reduce temporalmente el rango o la cantidad, conserva la relación matemática y permite material concreto, tabla, recta o dibujo antes del símbolo; después retorna al desafío original.
@@ -1012,7 +1012,7 @@ Respuesta: La simulación es consistente con la teoría; se dicen el tamaño de 
 
 - **E1.** Al comunicar un resultado de azar, ¿qué dos cosas conviene decir además de la probabilidad?
 - **E2.** ¿Qué palabra es más prudente para una conclusión de azar: «seguro» o «es probable»?
-- **E3.** Un juego da 1/2 de ganar a cada jugador. ¿Es un juego justo? Responde sí o no.
+- **E3.** Un juego da probabilidad 1/3 de ganar al jugador A y 2/3 al jugador B. ¿Es un juego justo? Responde sí o no.
 
 **Actividad abierta.** Escribe un mini informe de cuatro frases sobre este caso de ejemplo: una prueba de 10 preguntas con 5 alternativas cada una se responde completamente al azar. Incluye (1) el modelo y su supuesto, (2) la probabilidad de acertar una pregunta, (3) cuántos aciertos esperarías a la larga y (4) una advertencia sobre por qué el resultado de una persona puede ser distinto.
 
@@ -1034,7 +1034,7 @@ Respuesta: La simulación es consistente con la teoría; se dicen el tamaño de 
 - **S1.** 40%. 12 ÷ 30 = 0,40, o sea 40 %.
 - **E1.** El supuesto del modelo y la limitación de la muestra. Así se ve hasta dónde llega la conclusión.
 - **E2.** Es probable. El azar no permite certezas sobre un caso.
-- **E3.** Sí. Ambos tienen la misma probabilidad de ganar.
+- **E3.** No. Un juego justo da a todos la misma probabilidad de ganar, y aquí B tiene el doble que A.
 
 **Actividad abierta · ejemplo de respuesta.** Supongo que cada respuesta se elige al azar entre 5 alternativas. La probabilidad de acertar una es 1/5. A la larga se esperarían 2 aciertos en 10 preguntas. Una persona puede acertar más o menos que 2, porque el azar produce variación.
 

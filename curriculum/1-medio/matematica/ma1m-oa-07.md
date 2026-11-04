@@ -553,7 +553,7 @@ Respuesta: α = 120°; área 12π cm²
 **Errores frecuentes y cómo reconocerlos**
 
 - **Error:** Calcular el área lateral como π·r·h. **Por qué ocurre:** Se usó la altura en lugar de la generatriz. **Cómo corregirlo:** El sector tiene radio g: A_lateral = π·r·g.
-- **Error:** Dar el área lateral como el área total. **Por qué ocurre:** Se agregó el círculo de la base sin que fuera pedido. **Cómo corregirlo:** Solo suma πr² si piden el área total.
+- **Error:** Dar el área total cuando piden solo el área lateral. **Por qué ocurre:** Se agregó el círculo de la base sin que fuera pedido. **Cómo corregirlo:** Solo suma πr² si piden el área total.
 
 **Ejercicios**
 
@@ -1009,7 +1009,7 @@ Respuesta: 72π cm³ (4 veces)
 
 - **E1.** Si la altura de un cono se divide por 2 y el radio no cambia, ¿por cuánto se multiplica el volumen?
 - **E2.** Un cono mide 9π cm³ y otro con triple altura y la misma base, ¿cuánto mide?
-- **E3.** ¿En qué unidad se expresa el volumen de un cono medido en centímetros?
+- **E3.** Un cono de radio 3 cm y altura 4 cm tiene volumen 12π cm³. Si su radio se triplica y la altura no cambia, ¿cuál es el nuevo volumen?
 
 **Actividad abierta.** Un vendedor de ejemplo tiene dos vasos cónicos de papel: el vaso A con radio 3 cm y altura 8 cm, y el vaso B con radio 4 cm y altura 6 cm. Calcula el volumen de cada uno, decide cuál contiene más y por cuánto, y comprueba con la estimación π ≈ 3. Escribe qué ocurriría con el volumen de A si su altura se duplica.
 
@@ -1031,7 +1031,7 @@ Respuesta: 72π cm³ (4 veces)
 - **S1.** 6,28 m³. El volumen es 2π ≈ 6,28.
 - **E1.** 1/2. El volumen es proporcional a la altura.
 - **E2.** 27π cm³. Triple altura, triple volumen.
-- **E3.** cm³. El volumen usa unidades cúbicas.
+- **E3.** 108π cm³. El radio está al cuadrado: se multiplica por 3² = 9, y 12π·9 = 108π.
 
 **Actividad abierta · ejemplo de respuesta.** A: (1/3)·9π·8 = 24π cm³ y B: (1/3)·16π·6 = 32π cm³. B contiene 8π cm³ más. Estimación con π ≈ 3: A ≈ 72 y B ≈ 96. Si la altura de A se duplica, su volumen pasa a 48π cm³.
 

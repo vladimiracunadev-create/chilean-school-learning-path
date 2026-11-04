@@ -153,7 +153,7 @@ Respuesta: Es bastante tímido y va una vez al mes
 *Comprensión*
 
 - **C1.** «Report of a class survey (example data). In 1°B there are 40 students. A large number of students, 28, walk to school. A few students, 7, come by bus. Few students, 2, ride a bike, because there is little space to leave bicycles at school. Three students are driven by a family member. Most students visit the library once a week, but Daniel goes only once a month. Camila is really talkative, and Daniel is quite shy.» (survey = encuesta, walk = caminar, ride a bike = andar en bicicleta, space = espacio, driven = llevados en auto, once a week = una vez por semana, talkative = conversadora, shy = tímido) ¿Quién es quite shy? A) Camila B) Daniel
-- **C2.** «Report of a class survey (example data). In 1°B there are 40 students. A large number of students, 28, walk to school. A few students, 7, come by bus. Few students, 2, ride a bike, because there is little space to leave bicycles at school. Three students are driven by a family member. Most students visit the library once a week, but Daniel goes only once a month. Camila is really talkative, and Daniel is quite shy.» (survey = encuesta, walk = caminar, ride a bike = andar en bicicleta, space = espacio, driven = llevados en auto, once a week = una vez por semana, talkative = conversadora, shy = tímido) ¿Cuántos estudiantes son llevados por un familiar? Calcula 40 − 28 − 7 − 2.
+- **C2.** «Report of a class survey (example data). In 1°B there are 40 students. A large number of students, 28, walk to school. A few students, 7, come by bus. Few students, 2, ride a bike, because there is little space to leave bicycles at school. Three students are driven by a family member. Most students visit the library once a week, but Daniel goes only once a month. Camila is really talkative, and Daniel is quite shy.» (survey = encuesta, walk = caminar, ride a bike = andar en bicicleta, space = espacio, driven = llevados en auto, once a week = una vez por semana, talkative = conversadora, shy = tímido) ¿Cuántos estudiantes del curso NO caminan a la escuela?
 - **C3.** «Report of a class survey (example data). In 1°B there are 40 students. A large number of students, 28, walk to school. A few students, 7, come by bus. Few students, 2, ride a bike, because there is little space to leave bicycles at school. Three students are driven by a family member. Most students visit the library once a week, but Daniel goes only once a month. Camila is really talkative, and Daniel is quite shy.» (survey = encuesta, walk = caminar, ride a bike = andar en bicicleta, space = espacio, driven = llevados en auto, once a week = una vez por semana, talkative = conversadora, shy = tímido) ¿Qué visita la mayoría una vez por semana? A) el gimnasio B) la biblioteca
 
 *Aplicación*
@@ -190,7 +190,7 @@ Respuesta: Es bastante tímido y va una vez al mes
 - **R2.** Porque hay poco espacio para dejar bicicletas. Dice because there is little space.
 - **R3.** A) una vez al mes. Month es mes y once es una vez.
 - **C1.** B) Daniel. El texto lo dice de Daniel.
-- **C2.** 3. Se restan del total los que caminan, van en bus y en bicicleta. Cálculo: 40 − 28 − 7 − 2 = 3.
+- **C2.** 12. Se resta del total de 40 los 28 que caminan. Cálculo: 40 − 28 = 12.
 - **C3.** B) la biblioteca. Dice Most students visit the library once a week.
 - **A1.** 40. El texto dice In 1°B there are 40 students.
 - **A2.** A) muy conversadora. Really intensifica el adjetivo talkative.
@@ -368,7 +368,7 @@ Respuesta: No, antes jugaba pero ahora juega tenis
 
 *Aplicación*
 
-- **A1.** «Profile (fictional). Lucas has been swimming for three years. He has been training every day since March. He is tired now because he has been practicing for two hours. His sister Marta used to play volleyball, but now she plays tennis. Lucas and his friend Gaspar have been friends for eight years. Their coach has just announced a new schedule.» (swimming = nadando, training = entrenando, since = desde, practicing = practicando, used to = solía, friends = amigos, coach = entrenador, has just announced = acaba de anunciar, schedule = horario) Lucas lleva tres años nadando. Si cada año tiene 12 meses, ¿cuántos meses lleva nadando?
+- **A1.** «Profile (fictional). Lucas has been swimming for three years. He has been training every day since March. He is tired now because he has been practicing for two hours. His sister Marta used to play volleyball, but now she plays tennis. Lucas and his friend Gaspar have been friends for eight years. Their coach has just announced a new schedule.» (swimming = nadando, training = entrenando, since = desde, practicing = practicando, used to = solía, friends = amigos, coach = entrenador, has just announced = acaba de anunciar, schedule = horario) ¿Qué hace Lucas todos los días desde marzo?
 - **A2.** «Profile (fictional). Lucas has been swimming for three years. He has been training every day since March. He is tired now because he has been practicing for two hours. His sister Marta used to play volleyball, but now she plays tennis. Lucas and his friend Gaspar have been friends for eight years. Their coach has just announced a new schedule.» (swimming = nadando, training = entrenando, since = desde, practicing = practicando, used to = solía, friends = amigos, coach = entrenador, has just announced = acaba de anunciar, schedule = horario) ¿Qué forma indica que la acción empezó y continúa? A) has been swimming B) used to play
 - **A3.** «Profile (fictional). Lucas has been swimming for three years. He has been training every day since March. He is tired now because he has been practicing for two hours. His sister Marta used to play volleyball, but now she plays tennis. Lucas and his friend Gaspar have been friends for eight years. Their coach has just announced a new schedule.» (swimming = nadando, training = entrenando, since = desde, practicing = practicando, used to = solía, friends = amigos, coach = entrenador, has just announced = acaba de anunciar, schedule = horario) ¿Cuál es la mejor traducción de «used to play volleyball»? A) solía jugar vóleibol B) juega vóleibol ahora
 
@@ -402,7 +402,7 @@ Respuesta: No, antes jugaba pero ahora juega tenis
 - **C1.** B) porque ha estado practicando dos horas. El texto dice he has been practicing for two hours.
 - **C2.** B) acaba de anunciar. Just señala una acción muy reciente.
 - **C3.** Un nuevo horario. Dice a new schedule.
-- **A1.** 36. Se multiplican los años por los meses de cada año. Cálculo: 3 × 12 = 36.
+- **A1.** Entrena. El texto dice He has been training every day since March.
 - **A2.** A) has been swimming. Have been + -ing une pasado y presente.
 - **A3.** A) solía jugar vóleibol. Used to habla de un hábito pasado.
 - **Z1.** A) He has been training since March. Since va con un punto en el tiempo, no con un período.
@@ -520,7 +520,7 @@ Respuesta: No, antes jugaba pero ahora juega tenis
 
 Los verbos modales son auxiliares que añaden un matiz de certeza, necesidad o permiso. Will probably expresa una predicción muy probable (casi segura). Might expresa una posibilidad: puede pasar o no. La diferencia es de grado: en «it will probably rain», hay mucha probabilidad; en «we might move the match», hay una posibilidad. Si se compara, will probably es más seguro que might.
 
-Needn't (o don't need to) significa que algo no es necesario: «You needn't bring a ball» quiere decir que no hace falta llevar pelota. No es una prohibición: es la ausencia de obligación. Una promesa (promise) se hace con I promise I will…: compromete a quien habla. Shall es un modal formal: Shall we meet…? es una sugerencia o invitación, y «Mr. Lagos shall be here» es un uso formal que expresa una promesa o una decisión firme: se asegura de que él estará ahí.
+Needn't (o don't need to) significa que algo no es necesario: «You needn't bring a ball» quiere decir que no hace falta llevar pelota. No es una prohibición: es la ausencia de obligación. Una promesa (promise) se hace con I promise I will…: compromete a quien habla. Shall es un modal formal: Shall we meet…? es una sugerencia o invitación: propone un plan y espera respuesta. Con will, en cambio, se anuncia algo que se hará: «Mr. Lagos will be here at nine».
 
 Al leer un mensaje de planes, subraya los modales y clasifícalos: seguro (will), muy probable (will probably), posible (might), no necesario (needn't), compromiso (I promise), sugerencia (Shall we…?). Eso te dice qué debes preparar y qué debes esperar.
 
@@ -532,14 +532,14 @@ Al leer un mensaje de planes, subraya los modales y clasifícalos: seguro (will)
 | might | podría; es posible |
 | needn't | no hace falta, no es necesario |
 | promise | promesa |
-| shall | modal formal; Shall we…? = ¿Y si…? |
+| shall | modal para sugerir: Shall we…? = ¿Y si…? |
 | possibility | posibilidad |
 
 **Ejemplos resueltos paso a paso**
 
 *Ejemplo 1. Grado de certeza*
 
-Problema: «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Qué es más probable: la lluvia o el cambio de partido al domingo?
+Problema: «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Qué es más probable: la lluvia o el cambio de partido al domingo?
 
 1. La lluvia usa will probably.
 2. El cambio usa might.
@@ -549,7 +549,7 @@ Respuesta: La lluvia, porque dice will probably; el cambio solo es posible (migh
 
 *Ejemplo 2. No necesidad*
 
-Problema: «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Hay que llevar pelota?
+Problema: «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Hay que llevar pelota?
 
 1. Busco needn't bring a ball.
 2. Needn't indica que no hace falta.
@@ -566,15 +566,15 @@ Respuesta: No, porque el colegio tiene muchas
 
 *Recuperación*
 
-- **R1.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Qué promete la persona que escribe? A) llevar una pelota B) enviar el nuevo horario esta noche
-- **R2.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿A qué hora llegará el Sr. Lagos?
-- **R3.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Qué sugiere con Shall we meet at the gym at ten? A) juntarse en el gimnasio a las diez B) cerrar el gimnasio
+- **R1.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Qué promete la persona que escribe? A) llevar una pelota B) enviar el nuevo horario esta noche
+- **R2.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿A qué hora llegará el Sr. Lagos?
+- **R3.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Qué sugiere con Shall we meet at the gym at ten? A) juntarse en el gimnasio a las diez B) cambiar el gimnasio por la cancha
 
 *Comprensión*
 
-- **C1.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Qué podría hacer el equipo con el partido? A) cancelarlo para siempre B) cambiarlo al domingo
-- **C2.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Cuándo es probable que llueva?
-- **C3.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) ¿Qué abre el Sr. Lagos? A) las ventanas B) las puertas
+- **C1.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Qué podría hacer el equipo con el partido? A) cambiarlo al domingo B) adelantarlo al viernes
+- **C2.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Cuándo es probable que llueva?
+- **C3.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) ¿Qué abre el Sr. Lagos? A) las puertas B) las ventanas
 
 *Aplicación*
 
@@ -589,8 +589,8 @@ Respuesta: No, porque el colegio tiene muchas
 
 *Desafío*
 
-- **D1.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) Un compañero entendió que es obligatorio llevar pelota. ¿Qué frase lo corrige? A) You needn't bring a ball B) Tomorrow it will probably rain
-- **D2.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos shall be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = verbo modal formal para futuro u ofrecimiento, meet = juntarnos, open = abrir) Un compañero dice que seguro habrá partido el sábado. ¿Qué frase muestra duda? A) we might move the match B) the school has many
+- **D1.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) Un compañero entendió que es obligatorio llevar pelota. ¿Qué frase lo corrige? A) You needn't bring a ball B) Tomorrow it will probably rain
+- **D2.** «Message from the coach (example). Tomorrow it will probably rain in the afternoon, so we might move the match to Sunday. You needn't bring a ball: the school has many. I promise I will send the new schedule tonight. Shall we meet at the gym at ten? Remember that Mr. Lagos will be here at nine to open the doors.» (probably = probablemente, might = podría, move = cambiar, needn't = no necesitas, promise = prometo, shall = modal para ofrecer o sugerir (Shall we…?), meet = juntarnos, open = abrir) Un compañero dice que seguro habrá partido mañana. ¿Qué frase muestra duda? A) the school has many B) we might move the match
 
 *Situaciones auténticas*
 
@@ -607,18 +607,18 @@ Respuesta: No, porque el colegio tiene muchas
 **Solucionario razonado**
 
 - **R1.** B) enviar el nuevo horario esta noche. Dice I promise I will send the new schedule tonight.
-- **R2.** A las nueve. Dice shall be here at nine.
+- **R2.** A las nueve. Dice will be here at nine.
 - **R3.** A) juntarse en el gimnasio a las diez. Shall we…? propone un plan.
-- **C1.** B) cambiarlo al domingo. Dice we might move the match to Sunday.
+- **C1.** A) cambiarlo al domingo. Dice we might move the match to Sunday.
 - **C2.** En la tarde de mañana. Dice Tomorrow it will probably rain in the afternoon.
-- **C3.** B) las puertas. Dice to open the doors.
+- **C3.** A) las puertas. Dice to open the doors.
 - **A1.** 1-b, 2-a, 3-c. Might = posible, needn't = no hace falta y promise = compromiso.
 - **A2.** A) él. Will probably es más seguro que might.
 - **A3.** A) que no hace falta abrigo. Needn't indica ausencia de necesidad, no prohibición.
 - **Z1.** B) no limpiar los pinceles. Needn't indica que no hace falta; must not prohíbe tocar.
 - **Z2.** A) seguro: la promesa; posible: la dificultad. I promise compromete y might solo es posibilidad.
 - **D1.** A) You needn't bring a ball. Needn't significa que no es necesario.
-- **D2.** A) we might move the match. Might expresa posibilidad.
+- **D2.** B) we might move the match. Might expresa posibilidad.
 - **S1.** A) promete esperar. Dice I promise I will wait.
 - **E1.** Will probably. Might indica solo posibilidad.
 - **E2.** No hace falta. No es una prohibición.
@@ -993,19 +993,19 @@ Respuesta: Condición: hablar inglés en el taller. Resultado: conocería a más
 *Comprensión*
 
 - **C1.** «Dear Alex, I am always nervous before tests. I study a lot, but I forget everything. What should I do? — Nervous in Osorno. Reply: Dear Nervous, if I were you, I would sleep eight hours and I would take short breaks while studying. You would feel calmer if you practiced with old tests. If you were less afraid of mistakes, you would learn faster. Good luck!» (nervous = nervioso, forget = olvidar, calmer = más tranquilo, practiced = practicaras, afraid = con miedo, mistakes = errores, faster = más rápido) ¿Qué pasaría si practicara con pruebas antiguas? A) se sentiría más cansado B) se sentiría más tranquilo
-- **C2.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Qué haría quien escribe si fuera Tomás? A) iría al taller el viernes B) cambiaría de colegio
-- **C3.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Qué lograría Tomás si se uniera al taller? A) perdería amigos B) haría nuevos amigos
+- **C2.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Qué haría quien escribe si fuera Tomás? A) iría al taller el viernes B) se quedaría en casa
+- **C3.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Qué lograría Tomás si se uniera al taller? A) haría nuevos amigos B) hablaría menos inglés
 
 *Aplicación*
 
-- **A1.** «Dear Alex, I am always nervous before tests. I study a lot, but I forget everything. What should I do? — Nervous in Osorno. Reply: Dear Nervous, if I were you, I would sleep eight hours and I would take short breaks while studying. You would feel calmer if you practiced with old tests. If you were less afraid of mistakes, you would learn faster. Good luck!» (nervous = nervioso, forget = olvidar, calmer = más tranquilo, practiced = practicaras, afraid = con miedo, mistakes = errores, faster = más rápido) ¿Qué ocurriría si la persona tuviera menos miedo a los errores? A) olvidaría todo B) aprendería más rápido
+- **A1.** «Dear Alex, I am always nervous before tests. I study a lot, but I forget everything. What should I do? — Nervous in Osorno. Reply: Dear Nervous, if I were you, I would sleep eight hours and I would take short breaks while studying. You would feel calmer if you practiced with old tests. If you were less afraid of mistakes, you would learn faster. Good luck!» (nervous = nervioso, forget = olvidar, calmer = más tranquilo, practiced = practicaras, afraid = con miedo, mistakes = errores, faster = más rápido) ¿Qué ocurriría si la persona tuviera menos miedo a los errores? A) aprendería más rápido B) se pondría más nervioso
 - **A2.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Qué significa «He would meet more people»? A) conoció a más gente ayer B) conocería a más gente
 - **A3.** Une cada expresión con su función. 1) If I were you, I would… 2) You should… 3) Why don't you…? Funciones: a) sugerencia en forma de pregunta b) consejo desde el lugar del otro c) consejo directo
 
 *Razonamiento y análisis*
 
 - **Z1.** «Dear Alex, I am always nervous before tests. I study a lot, but I forget everything. What should I do? — Nervous in Osorno. Reply: Dear Nervous, if I were you, I would sleep eight hours and I would take short breaks while studying. You would feel calmer if you practiced with old tests. If you were less afraid of mistakes, you would learn faster. Good luck!» (nervous = nervioso, forget = olvidar, calmer = más tranquilo, practiced = practicaras, afraid = con miedo, mistakes = errores, faster = más rápido) ¿Cuál es la condición en «If you practiced with old tests, you would feel calmer»? A) practicar con pruebas antiguas B) sentirse más tranquilo
-- **Z2.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Por qué se usa were en «If I were Tomás»? A) porque con if se usa were para todas las personas B) porque Tomás es plural
+- **Z2.** «My neighbor Tomás is shy. He would meet more people if he spoke English at the school club. If I were Tomás, I would go to the club on Friday. Also, if he joined, he would make new friends.» (neighbor = vecino, club = taller, joined = se uniera, make friends = hacer amigos) ¿Por qué se usa were en «If I were Tomás»? A) porque con if se usa were para todas las personas B) porque la acción ya ocurrió en el pasado
 
 *Desafío*
 
@@ -1031,8 +1031,8 @@ Respuesta: Condición: hablar inglés en el taller. Resultado: conocería a más
 - **R3.** A) Tomás. El texto dice Tomás is shy.
 - **C1.** B) se sentiría más tranquilo. Dice You would feel calmer.
 - **C2.** A) iría al taller el viernes. Dice If I were Tomás, I would go to the club on Friday.
-- **C3.** B) haría nuevos amigos. Dice he would make new friends.
-- **A1.** B) aprendería más rápido. Dice you would learn faster.
+- **C3.** A) haría nuevos amigos. Dice he would make new friends.
+- **A1.** A) aprendería más rápido. Dice you would learn faster.
 - **A2.** B) conocería a más gente. Would + verbo expresa una consecuencia imaginaria.
 - **A3.** 1-b, 2-c, 3-a. Cada fórmula da el consejo de modo distinto.
 - **Z1.** A) practicar con pruebas antiguas. La parte con if es la condición.

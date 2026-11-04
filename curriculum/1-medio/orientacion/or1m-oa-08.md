@@ -367,7 +367,7 @@ Respuesta: «Propongo turnos porque así todos pueden jugar; hoy solo juega un c
 *Razonamiento y análisis*
 
 - **Z1.** ¿Por qué un ataque personal no ayuda a decidir bien?
-- **Z2.** Un debate se vuelve muy tenso. ¿Qué hace el moderador? A) Pide volver al respeto y a las reglas B) Gritar más fuerte.
+- **Z2.** Un debate se vuelve muy tenso. ¿Qué hace el moderador? A) Deja que cada postura se imponga hasta que una se canse B) Pide volver al respeto y a las reglas.
 
 *Desafío*
 
@@ -398,7 +398,7 @@ Respuesta: «Propongo turnos porque así todos pueden jugar; hoy solo juega un c
 - **A2.** A. No dice quiénes ni por qué.
 - **A3.** A. Debe esperar su turno.
 - **Z1.** Porque no da razones sobre la idea. Desvía la atención de la propuesta.
-- **Z2.** A. Mantiene el diálogo.
+- **Z2.** B. Mantiene el diálogo.
 - **D1.** 21. Se suman los minutos de ambos tipos. Cálculo: 6 × 2 + 3 × 3 = 21.
 - **D2.** 8. Al total se le restan los que no interrumpen. Cálculo: 30 − 22 = 8.
 - **S1.** B. No analiza la propuesta.
@@ -970,7 +970,7 @@ Respuesta: «Entiendo la preocupación; propongo recortar 5 minutos de la hora d
 *Comprensión*
 
 - **C1.** ¿Qué frase reconoce a la otra persona sin renunciar a la propia opinión? A) «Entiendo tu punto, y yo veo que…» B) «Estás equivocado.»
-- **C2.** ¿Qué se prepara antes de hablar en un debate? A) Solo una broma B) Tesis, dos argumentos y un dato por argumento.
+- **C2.** ¿Qué se prepara antes de hablar en un debate? A) Tesis, dos argumentos y un dato por argumento B) Solo una frase fuerte que impresione al público.
 - **C3.** ¿Qué se hace si alguien se enoja? A) Se grita más fuerte B) Se hace una pausa breve.
 
 *Aplicación*
@@ -1007,7 +1007,7 @@ Respuesta: «Entiendo la preocupación; propongo recortar 5 minutos de la hora d
 - **R2.** A. Su función es dar la palabra y cuidar las reglas.
 - **R3.** B. Cada persona piensa de manera propia.
 - **C1.** A. Respeta y expone la propia idea.
-- **C2.** B. Da orden y fuerza a la intervención.
+- **C2.** A. Da orden y fuerza a la intervención.
 - **C3.** B. Permite que todos se calmen.
 - **A1.** 6. 3 + 2 + 1 son 6 minutos.
 - **A2.** R, I, R. La 2 humilla; las otras dialogan.

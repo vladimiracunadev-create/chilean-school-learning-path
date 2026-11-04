@@ -1191,9 +1191,9 @@ Respuesta: No se puede concluir que el grupo no existía
 
 *Comprensión*
 
-- **C1.** ¿Qué ancestro tienen humanos y chimpancés? A) El uno del otro; B) Uno común.
+- **C1.** ¿Qué ancestro tienen humanos y chimpancés? A) Uno común; B) Los chimpancés son el ancestro de los humanos.
 - **C2.** ¿Por qué «evoluciona el más fuerte» es un malentendido? A) Porque la fuerza nunca sirve; B) Porque sobrevive el que tiene el rasgo más ventajoso en ese ambiente.
-- **C3.** Una limitación del registro fósil es que ______ (pocos organismos se fosilizan o los fósiles se mueven solos).
+- **C3.** Una limitación del registro fósil es que ______ (pocos organismos se fosilizan o todos los organismos se fosilizan).
 
 *Aplicación*
 
@@ -1228,7 +1228,7 @@ Respuesta: No se puede concluir que el grupo no existía
 - **R1.** No. La selección natural no tiene dirección ni meta.
 - **R2.** Incompleto. Pocos organismos se fosilizan.
 - **R3.** Falso. Una teoría es una explicación respaldada por muchas evidencias.
-- **C1.** B. Ambos descienden de una especie ancestral común.
+- **C1.** A. Ambos descienden de una especie ancestral común.
 - **C2.** B. La ventaja depende del ambiente.
 - **C3.** Pocos organismos se fosilizan. Hay lagunas en la secuencia.
 - **A1.** A. La ausencia en un lugar no prueba la ausencia en el mundo.

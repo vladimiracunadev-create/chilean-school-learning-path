@@ -145,7 +145,7 @@ Respuesta: (−3, 2)
 
 - **R1.** Con v = (4, −1), ¿cuánto es 3·v?
 - **R2.** Con v = (5, −2), ¿cuánto es −1·v?
-- **R3.** ¿Qué es un escalar en el producto k·v?
+- **R3.** Con v = (−3, 7), ¿cuánto es 2·v?
 
 *Comprensión*
 
@@ -185,7 +185,7 @@ Respuesta: (−3, 2)
 
 - **R1.** (12, −3). Se multiplican ambas componentes por 3.
 - **R2.** (−5, 2). El signo menos invierte ambas componentes.
-- **R3.** Un número. Es el número que multiplica al vector.
+- **R3.** (−6, 14). 2·(−3) = −6 y 2·7 = 14.
 - **C1.** (4, −3). La mitad de cada componente.
 - **C2.** Invierte. Un escalar negativo cambia el sentido.
 - **C3.** (2,5; 5). 1·2,5 y 2·2,5.
@@ -359,7 +359,7 @@ Respuesta: 15
 
 - **C1.** Si v = (8, 15), ¿cuánto vale |2·v|?
 - **C2.** Si |v| = 7, ¿cuánto vale |−3·v|?
-- **C3.** ¿Es el vector (10, −4) paralelo a (5, −2)? A) Sí B) No
+- **C3.** ¿Es el vector (6, −9) paralelo a (4, −6)? A) Sí B) No
 
 *Aplicación*
 
@@ -396,7 +396,7 @@ Respuesta: 15
 - **R3.** 20. √(144 + 256) = √400.
 - **C1.** 34. |v| = 17 y |2v| = 2·17.
 - **C2.** 21. Se calcula: 3·7.
-- **C3.** A. (10, −4) es el doble de (5, −2).
+- **C3.** A. (6, −9) = 1,5·(4, −6): uno es múltiplo del otro.
 - **A1.** 5. Se calcula: 0,5·10.
 - **A2.** 25. |v| = 10 y |−2,5·v| = 2,5·10.
 - **A3.** 5. |v| = 15 y 15 ÷ 3.

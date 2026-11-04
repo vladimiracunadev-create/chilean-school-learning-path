@@ -155,8 +155,8 @@ Respuesta: Una sociedad de socorros mutuos
 
 *Aplicación*
 
-- **A1.** Línea de tiempo: 1853, se funda la Sociedad Tipográfica de Socorros Mutuos; 1887, nace el Partido Demócrata; 1903, huelga de portuarios en Valparaíso; 1905, protestas en Santiago por el precio de la carne; 1906, ley de habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique; 1909, se funda la Federación Obrera de Chile; 1912, Luis Emilio Recabarren funda el Partido Obrero Socialista; 1920, Arturo Alessandri gana la elección presidencial; 1924, se aprueban leyes sociales. ¿Cuántos años pasaron entre la fundación de la Federación Obrera de Chile y la del Partido Obrero Socialista?
-- **A2.** Línea de tiempo: 1853, se funda la Sociedad Tipográfica de Socorros Mutuos; 1887, nace el Partido Demócrata; 1903, huelga de portuarios en Valparaíso; 1905, protestas en Santiago por el precio de la carne; 1906, ley de habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique; 1909, se funda la Federación Obrera de Chile; 1912, Luis Emilio Recabarren funda el Partido Obrero Socialista; 1920, Arturo Alessandri gana la elección presidencial; 1924, se aprueban leyes sociales. ¿Cuántos años pasaron entre las protestas por la carne de 1905 y las leyes sociales de 1924?
+- **A1.** Línea de tiempo: 1853, se funda la Sociedad Tipográfica de Socorros Mutuos; 1887, nace el Partido Demócrata; 1903, huelga de portuarios en Valparaíso; 1905, protestas en Santiago por el precio de la carne; 1906, ley de habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique; 1909, se funda la Federación Obrera de Chile; 1912, Luis Emilio Recabarren funda el Partido Obrero Socialista; 1920, Arturo Alessandri gana la elección presidencial; 1924, se aprueban leyes sociales. Ordena de más antiguo a más reciente: Partido Obrero Socialista, Partido Demócrata, Federación Obrera de Chile y matanza de la Escuela Santa María de Iquique.
+- **A2.** Línea de tiempo: 1853, se funda la Sociedad Tipográfica de Socorros Mutuos; 1887, nace el Partido Demócrata; 1903, huelga de portuarios en Valparaíso; 1905, protestas en Santiago por el precio de la carne; 1906, ley de habitaciones obreras; 1907, matanza en la Escuela Santa María de Iquique; 1909, se funda la Federación Obrera de Chile; 1912, Luis Emilio Recabarren funda el Partido Obrero Socialista; 1920, Arturo Alessandri gana la elección presidencial; 1924, se aprueban leyes sociales. ¿Qué protestas de 1905 se mencionan en la línea de tiempo?
 - **A3.** Una compañera dice: «La cuestión social fue solo un problema de pobreza de algunas familias». ¿Qué corrección haces?
 
 *Razonamiento y análisis*
@@ -189,8 +189,8 @@ Respuesta: Una sociedad de socorros mutuos
 - **C1.** Luis Emilio Recabarren. La línea lo señala.
 - **C2.** A. La línea lo señala.
 - **C3.** 1-b, 2-a, 3-c. Cada organización tiene un fin distinto.
-- **A1.** 3. Se restan las dos fechas. Cálculo: 1912 − 1909 = 3.
-- **A2.** 19. Se restan las fechas de la línea. Cálculo: 1924 − 1905 = 19.
+- **A1.** Partido Demócrata, matanza de Iquique, Federación Obrera de Chile, Partido Obrero Socialista. Se ordenan por sus años: 1887, 1907, 1909 y 1912.
+- **A2.** Las protestas en Santiago por el precio de la carne. La línea las señala.
 - **A3.** Tuvo causas económicas, sociales y políticas, como el crecimiento urbano y la poca intervención del Estado. No se reduce a causas individuales.
 - **Z1.** La matanza en la Escuela Santa María de Iquique. Es un ejemplo de represión.
 - **Z2.** Porque crearon organizaciones, hicieron huelgas y formaron partidos para exigir cambios. Tuvieron capacidad de actuar.
@@ -363,8 +363,8 @@ Respuesta: La de quienes defienden el orden público
 
 *Aplicación*
 
-- **A1.** Fuente A (descripción de un conventillo, texto de ejemplo): «En un patio de ejemplo viven 40 personas en 10 piezas; hay un solo grifo de agua y las habitaciones tienen poca ventilación.» Fuente B (petición de una mancomunal, texto de ejemplo): «Solicitamos jornadas más cortas, salarios justos y que no se nos pague con fichas.» Fuente C (editorial de un periódico, texto de ejemplo): «Las huelgas alteran el orden público; el gobierno debe restablecerlo.» Fuente D (tabla de ejemplo): de cada 1.000 niños nacidos en un barrio de ejemplo, murieron 300 antes de cumplir un año. Fuente E (historiadora actual, texto de ejemplo): «Las organizaciones populares fueron actores políticos y no solo víctimas.» ¿Cuántas personas hay por pieza en el patio de la Fuente A?
-- **A2.** En otro barrio de ejemplo, de cada 1.000 niños nacidos murieron 180 antes del año. ¿Cuántos sobrevivieron?
+- **A1.** Fuente A (descripción de un conventillo, texto de ejemplo): «En un patio de ejemplo viven 40 personas en 10 piezas; hay un solo grifo de agua y las habitaciones tienen poca ventilación.» Fuente B (petición de una mancomunal, texto de ejemplo): «Solicitamos jornadas más cortas, salarios justos y que no se nos pague con fichas.» Fuente C (editorial de un periódico, texto de ejemplo): «Las huelgas alteran el orden público; el gobierno debe restablecerlo.» Fuente D (tabla de ejemplo): de cada 1.000 niños nacidos en un barrio de ejemplo, murieron 300 antes de cumplir un año. Fuente E (historiadora actual, texto de ejemplo): «Las organizaciones populares fueron actores políticos y no solo víctimas.» ¿Qué problemas de vivienda muestra la Fuente A?
+- **A2.** Fuente A (descripción de un conventillo, texto de ejemplo): «En un patio de ejemplo viven 40 personas en 10 piezas; hay un solo grifo de agua y las habitaciones tienen poca ventilación.» Fuente B (petición de una mancomunal, texto de ejemplo): «Solicitamos jornadas más cortas, salarios justos y que no se nos pague con fichas.» Fuente C (editorial de un periódico, texto de ejemplo): «Las huelgas alteran el orden público; el gobierno debe restablecerlo.» Fuente D (tabla de ejemplo): de cada 1.000 niños nacidos en un barrio de ejemplo, murieron 300 antes de cumplir un año. Fuente E (historiadora actual, texto de ejemplo): «Las organizaciones populares fueron actores políticos y no solo víctimas.» ¿Qué no puede responder la Fuente D: cuántos niños murieron o por qué murieron?
 - **A3.** Fuente A (descripción de un conventillo, texto de ejemplo): «En un patio de ejemplo viven 40 personas en 10 piezas; hay un solo grifo de agua y las habitaciones tienen poca ventilación.» Fuente B (petición de una mancomunal, texto de ejemplo): «Solicitamos jornadas más cortas, salarios justos y que no se nos pague con fichas.» Fuente C (editorial de un periódico, texto de ejemplo): «Las huelgas alteran el orden público; el gobierno debe restablecerlo.» Fuente D (tabla de ejemplo): de cada 1.000 niños nacidos en un barrio de ejemplo, murieron 300 antes de cumplir un año. Fuente E (historiadora actual, texto de ejemplo): «Las organizaciones populares fueron actores políticos y no solo víctimas.» ¿Qué fuente muestra las demandas de los trabajadores? A) la A, B) la B, C) la C.
 
 *Razonamiento y análisis*
@@ -397,8 +397,8 @@ Respuesta: La de quienes defienden el orden público
 - **C1.** Secundaria. La escribe una historiadora actual.
 - **C2.** A. La petición lo indica.
 - **C3.** La Fuente C es un editorial que expresa la postura de un diario que defiende el orden público. No es la voz de los trabajadores.
-- **A1.** 4. Se divide el total entre las piezas. Cálculo: 40 ÷ 10 = 4.
-- **A2.** 820. Se resta los fallecidos del total. Cálculo: 1000 − 180 = 820.
+- **A1.** Hacinamiento (40 personas en 10 piezas), un solo grifo de agua y poca ventilación. La descripción los enumera.
+- **A2.** Por qué murieron, porque la tabla solo da cifras. Es un límite de la tabla.
 - **A3.** B. La petición de la mancomunal las expresa.
 - **Z1.** Porque la petición muestra lo que querían los trabajadores y el editorial muestra la postura de quienes defendían el orden. Dos perspectivas opuestas sobre la huelga.
 - **Z2.** El hacinamiento y la alta mortalidad infantil formaron parte de los problemas de vivienda y salud de un barrio de ejemplo. Une vivienda y salud.
@@ -571,8 +571,8 @@ Respuesta: Norte: campamentos y fichas; Valparaíso: conventillos y talleres
 
 *Aplicación*
 
-- **A1.** Un conventillo de ejemplo tenía 12 piezas con 5 personas cada una. ¿Cuántas personas vivían en total?
-- **A2.** Una ley de ejemplo redujo la jornada de 12 a 10 horas. ¿Cuántas horas menos se trabajaba por día?
+- **A1.** Cuadro de ejemplo. Cambio: crecieron las ciudades y los campamentos mineros; surgieron mancomunales, sindicatos y partidos obreros; se hicieron huelgas importantes; se aprobaron las primeras leyes sociales (habitaciones obreras, descanso dominical, accidentes del trabajo); crecieron los sectores medios de empleados y profesionales. Continuidad: los conventillos seguían hacinados; los salarios eran bajos; el voto seguía restringido; las autoridades respondían a veces con represión; las mujeres seguían sin derecho a voto. ¿Qué cambio en la organización de los trabajadores muestra el cuadro?
+- **A2.** Cuadro de ejemplo. Cambio: crecieron las ciudades y los campamentos mineros; surgieron mancomunales, sindicatos y partidos obreros; se hicieron huelgas importantes; se aprobaron las primeras leyes sociales (habitaciones obreras, descanso dominical, accidentes del trabajo); crecieron los sectores medios de empleados y profesionales. Continuidad: los conventillos seguían hacinados; los salarios eran bajos; el voto seguía restringido; las autoridades respondían a veces con represión; las mujeres seguían sin derecho a voto. ¿Qué continuidad muestra que el conflicto entre trabajadores y autoridades seguía?
 - **A3.** Explica por qué las leyes sociales fueron un primer paso y no una solución completa.
 
 *Razonamiento y análisis*
@@ -605,8 +605,8 @@ Respuesta: Norte: campamentos y fichas; Valparaíso: conventillos y talleres
 - **C1.** Cambio. Son organizaciones nuevas.
 - **C2.** Continuidad. El cuadro lo lista como continuidad.
 - **C3.** C. Las otras son continuidades.
-- **A1.** 60. Se multiplica el número de piezas por las personas. Cálculo: 12 × 5 = 60.
-- **A2.** 2. Se resta la jornada nueva de la antigua. Cálculo: 12 − 10 = 2.
+- **A1.** Surgieron mancomunales, sindicatos y partidos obreros. El cuadro lo lista entre los cambios.
+- **A2.** Las autoridades respondían a veces con represión. El cuadro la lista como continuidad.
 - **A3.** Porque los conventillos seguían hacinados, los salarios eran bajos y el voto seguía restringido. Los problemas continuaban.
 - **Z1.** Hubo huelgas importantes y a veces las autoridades respondieron con represión. El conflicto continuó.
 - **Z2.** En el norte había campamentos y pulperías y en el campo haciendas e inquilinaje. La cuestión social tenía rostros distintos.
@@ -779,8 +779,8 @@ Respuesta: La falta de protección legal y la poca intervención del Estado
 
 *Aplicación*
 
-- **A1.** Un salario de ejemplo era de 100 pesos y los precios subieron de modo que ahora alcanza para comprar solo 80 pesos de bienes. ¿Cuántos pesos de poder de compra se perdieron?
-- **A2.** En una escuela de ejemplo hay 45 alumnos por profesora y 4 profesoras. ¿Cuántos alumnos hay en total?
+- **A1.** Explica con un ejemplo qué significa que el salario real baje.
+- **A2.** Voces de ejemplo, redactadas para este cuaderno. Obrero portuario: «Pedimos mejores sueldos y jornadas más cortas.» Dirigente de una mancomunal: «Nos unimos para defendernos y ayudarnos entre trabajadores.» Industrial: «Si suben los sueldos, mis costos aumentan.» Médico de la época: «En los conventillos las enfermedades se propagan por el hacinamiento.» Profesora de una escuela pública: «Mis alumnos asisten con hambre y frío.» Político radical: «El Estado debe proteger a los trabajadores y ampliar la educación.» ¿Qué situación de los alumnos describe la profesora y qué muestra sobre las condiciones de vida de las familias?
 - **A3.** Voces de ejemplo, redactadas para este cuaderno. Obrero portuario: «Pedimos mejores sueldos y jornadas más cortas.» Dirigente de una mancomunal: «Nos unimos para defendernos y ayudarnos entre trabajadores.» Industrial: «Si suben los sueldos, mis costos aumentan.» Médico de la época: «En los conventillos las enfermedades se propagan por el hacinamiento.» Profesora de una escuela pública: «Mis alumnos asisten con hambre y frío.» Político radical: «El Estado debe proteger a los trabajadores y ampliar la educación.» Una compañera dice que los trabajadores no hicieron nada frente a sus problemas. Responde con un dato de las voces de ejemplo.
 
 *Razonamiento y análisis*
@@ -813,8 +813,8 @@ Respuesta: La falta de protección legal y la poca intervención del Estado
 - **C1.** Por el hacinamiento. Su voz lo dice.
 - **C2.** 1-b, 2-a, 3-c. Cada voz expresa un interés distinto.
 - **C3.** C. Los profesores forman parte de los sectores medios.
-- **A1.** 20. Se resta el poder de compra actual del anterior. Cálculo: 100 − 80 = 20.
-- **A2.** 180. Se multiplica alumnos por profesoras. Cálculo: 45 × 4 = 180.
+- **A1.** Que el salario alcanza para comprar menos bienes, aunque el monto en pesos sea el mismo. El salario real mide el poder de compra.
+- **A2.** Asisten con hambre y frío, lo que muestra malas condiciones de vida. Su voz describe un efecto de la cuestión social.
 - **A3.** El dirigente de la mancomunal dice que se unieron para defenderse y ayudarse. Hay agencia en la organización.
 - **Z1.** Porque influyeron el crecimiento urbano, la minería, los salarios, la falta de protección legal y las ideas sobre el papel del Estado. Varias causas se combinaron.
 - **Z2.** El industrial teme el aumento de costos y el obrero pide mejores sueldos y jornadas. Sus intereses chocan.
@@ -982,13 +982,13 @@ Respuesta: Porque el dato 4 muestra también respuestas legales
 *Comprensión*
 
 - **C1.** Dossier de ejemplo. Dato 1: el crecimiento de Santiago, Valparaíso y los campamentos mineros produjo conventillos hacinados, salarios bajos y alta mortalidad infantil. Dato 2: los trabajadores crearon sociedades de socorros mutuos, mancomunales, sindicatos y partidos, y realizaron huelgas, como la de portuarios en Valparaíso (1903). Dato 3: en 1907 la protesta de trabajadores salitreros en Iquique terminó en una matanza. Dato 4: entre 1906 y 1924 se aprobaron leyes sociales sobre habitaciones, descanso dominical y accidentes del trabajo. Dato 5: los sectores medios crecieron y el Partido Radical y otros grupos defendieron reformas sociales. ¿Qué dato menciona la represión?
-- **C2.** Elige la tesis mejor formulada. A) La cuestión social llevó a los trabajadores a organizarse y a presionar por leyes y reformas, con respuestas del Estado, B) Los trabajadores no hicieron nada, C) Los problemas se resolvieron en 1906.
+- **C2.** Elige la tesis mejor formulada. A) La cuestión social fue solo un problema de pobreza individual, B) La cuestión social llevó a los trabajadores a organizarse y a presionar por leyes y reformas, con respuestas del Estado, C) Los problemas se resolvieron en 1906.
 - **C3.** Una compañera usa solo el dato 3 para decir que «el Estado solo reprimió». ¿Qué dato lo contradice?
 
 *Aplicación*
 
-- **A1.** Dossier de ejemplo. Dato 1: el crecimiento de Santiago, Valparaíso y los campamentos mineros produjo conventillos hacinados, salarios bajos y alta mortalidad infantil. Dato 2: los trabajadores crearon sociedades de socorros mutuos, mancomunales, sindicatos y partidos, y realizaron huelgas, como la de portuarios en Valparaíso (1903). Dato 3: en 1907 la protesta de trabajadores salitreros en Iquique terminó en una matanza. Dato 4: entre 1906 y 1924 se aprobaron leyes sociales sobre habitaciones, descanso dominical y accidentes del trabajo. Dato 5: los sectores medios crecieron y el Partido Radical y otros grupos defendieron reformas sociales. Si el dossier tiene 5 datos y 2 se refieren a los trabajadores (2 y 3), ¿cuántos datos hablan de otros temas?
-- **A2.** Un grupo escribe un texto de 18 líneas: 2 de tesis, 11 de evidencias y el resto de límite. ¿Cuántas líneas son de límite?
+- **A1.** Dossier de ejemplo. Dato 1: el crecimiento de Santiago, Valparaíso y los campamentos mineros produjo conventillos hacinados, salarios bajos y alta mortalidad infantil. Dato 2: los trabajadores crearon sociedades de socorros mutuos, mancomunales, sindicatos y partidos, y realizaron huelgas, como la de portuarios en Valparaíso (1903). Dato 3: en 1907 la protesta de trabajadores salitreros en Iquique terminó en una matanza. Dato 4: entre 1906 y 1924 se aprobaron leyes sociales sobre habitaciones, descanso dominical y accidentes del trabajo. Dato 5: los sectores medios crecieron y el Partido Radical y otros grupos defendieron reformas sociales. ¿Qué dato del dossier muestra el protagonismo de los sectores medios?
+- **A2.** Un grupo escribe una tesis con cinco datos y ningún límite. ¿Qué límite podría agregar según el dossier?
 - **A3.** Dossier de ejemplo. Dato 1: el crecimiento de Santiago, Valparaíso y los campamentos mineros produjo conventillos hacinados, salarios bajos y alta mortalidad infantil. Dato 2: los trabajadores crearon sociedades de socorros mutuos, mancomunales, sindicatos y partidos, y realizaron huelgas, como la de portuarios en Valparaíso (1903). Dato 3: en 1907 la protesta de trabajadores salitreros en Iquique terminó en una matanza. Dato 4: entre 1906 y 1924 se aprobaron leyes sociales sobre habitaciones, descanso dominical y accidentes del trabajo. Dato 5: los sectores medios crecieron y el Partido Radical y otros grupos defendieron reformas sociales. Con los datos 4 y 5, redacta una conclusión proporcional.
 
 *Razonamiento y análisis*
@@ -1019,10 +1019,10 @@ Respuesta: Porque el dato 4 muestra también respuestas legales
 - **R2.** A. El dato 4 habla de leyes sociales.
 - **R3.** El dato 1. Habla de hacinamiento, salarios bajos y mortalidad infantil.
 - **C1.** El dato 3. Habla de la matanza de 1907.
-- **C2.** A. Es defendible con el dossier.
+- **C2.** B. Es defendible con el dossier.
 - **C3.** El dato 4, que muestra leyes sociales entre 1906 y 1924. Hubo también respuestas legales.
-- **A1.** 3. Se restan los datos usados. Cálculo: 5 − 2 = 3.
-- **A2.** 5. Se restan tesis y evidencias del total. Cálculo: 18 − 2 − 11 = 5.
+- **A1.** El dato 5. Menciona su crecimiento y las reformas sociales que defendieron.
+- **A2.** Que el dossier no mide cuántos trabajadores se organizaron ni el efecto de cada ley. El límite señala lo que no se puede afirmar.
 - **A3.** Se aprobaron leyes sociales y crecieron los sectores medios, cuyos partidos defendieron reformas. Une leyes y actores.
 - **Z1.** Porque se organizaron, hicieron huelgas y formaron partidos para exigir cambios. El dato 2 muestra su agencia.
 - **Z2.** «Se resolvió» excede la evidencia, porque los problemas continuaban y el dato 3 muestra conflictos posteriores. Las leyes fueron un primer paso.
@@ -1195,8 +1195,8 @@ Respuesta: No: depende de que se aplique
 
 *Aplicación*
 
-- **A1.** Resumen de ejemplo para evaluar proyecciones. En 1920 Arturo Alessandri ganó la elección presidencial con apoyo de sectores medios y populares y prometió reformas sociales. En 1924 se aprobaron leyes sociales sobre contrato de trabajo, accidentes y organización sindical. En 1922 el Partido Obrero Socialista, fundado en 1912, pasó a llamarse Partido Comunista de Chile. En 1925 una nueva Constitución restableció el régimen presidencial. Los conventillos siguieron existiendo y los conflictos laborales continuaron en las décadas siguientes. Las mujeres obtuvieron el derecho a votar en elecciones municipales en 1934. ¿Cuántos años pasaron entre la fundación del Partido Obrero Socialista (1912) y su cambio de nombre en 1922?
-- **A2.** Resumen de ejemplo para evaluar proyecciones. En 1920 Arturo Alessandri ganó la elección presidencial con apoyo de sectores medios y populares y prometió reformas sociales. En 1924 se aprobaron leyes sociales sobre contrato de trabajo, accidentes y organización sindical. En 1922 el Partido Obrero Socialista, fundado en 1912, pasó a llamarse Partido Comunista de Chile. En 1925 una nueva Constitución restableció el régimen presidencial. Los conventillos siguieron existiendo y los conflictos laborales continuaron en las décadas siguientes. Las mujeres obtuvieron el derecho a votar en elecciones municipales en 1934. ¿Cuántos años pasaron entre las leyes sociales de 1924 y el voto municipal femenino?
+- **A1.** Resumen de ejemplo para evaluar proyecciones. En 1920 Arturo Alessandri ganó la elección presidencial con apoyo de sectores medios y populares y prometió reformas sociales. En 1924 se aprobaron leyes sociales sobre contrato de trabajo, accidentes y organización sindical. En 1922 el Partido Obrero Socialista, fundado en 1912, pasó a llamarse Partido Comunista de Chile. En 1925 una nueva Constitución restableció el régimen presidencial. Los conventillos siguieron existiendo y los conflictos laborales continuaron en las décadas siguientes. Las mujeres obtuvieron el derecho a votar en elecciones municipales en 1934. Ordena de más antiguo a más reciente: Constitución de 1925, elección de Alessandri, voto municipal femenino y cambio de nombre a Partido Comunista.
+- **A2.** Resumen de ejemplo para evaluar proyecciones. En 1920 Arturo Alessandri ganó la elección presidencial con apoyo de sectores medios y populares y prometió reformas sociales. En 1924 se aprobaron leyes sociales sobre contrato de trabajo, accidentes y organización sindical. En 1922 el Partido Obrero Socialista, fundado en 1912, pasó a llamarse Partido Comunista de Chile. En 1925 una nueva Constitución restableció el régimen presidencial. Los conventillos siguieron existiendo y los conflictos laborales continuaron en las décadas siguientes. Las mujeres obtuvieron el derecho a votar en elecciones municipales en 1934. ¿Qué leyes de 1924 se mencionan y sobre qué temas?
 - **A3.** Resumen de ejemplo para evaluar proyecciones. En 1920 Arturo Alessandri ganó la elección presidencial con apoyo de sectores medios y populares y prometió reformas sociales. En 1924 se aprobaron leyes sociales sobre contrato de trabajo, accidentes y organización sindical. En 1922 el Partido Obrero Socialista, fundado en 1912, pasó a llamarse Partido Comunista de Chile. En 1925 una nueva Constitución restableció el régimen presidencial. Los conventillos siguieron existiendo y los conflictos laborales continuaron en las décadas siguientes. Las mujeres obtuvieron el derecho a votar en elecciones municipales en 1934. Explica por qué la elección de Alessandri en 1920 muestra el peso de los sectores medios y populares.
 
 *Razonamiento y análisis*
@@ -1229,8 +1229,8 @@ Respuesta: No: depende de que se aplique
 - **C1.** C. El resumen lo señala.
 - **C2.** El derecho a voto municipal. El resumen lo indica.
 - **C3.** 1-a, 2-b, 3-c. Cada proyección toca un ámbito.
-- **A1.** 10. Se restan ambas fechas. Cálculo: 1922 − 1912 = 10.
-- **A2.** 10. Se restan las fechas del resumen. Cálculo: 1934 − 1924 = 10.
+- **A1.** Elección de Alessandri, Partido Comunista, Constitución de 1925, voto municipal femenino. Se ordenan por sus años: 1920, 1922, 1925 y 1934.
+- **A2.** Leyes sociales sobre contrato de trabajo, accidentes y organización sindical. El resumen las describe.
 - **A3.** Porque ganó con apoyo de ambos y prometió reformas sociales. El resumen lo señala.
 - **Z1.** Los conventillos siguieron existiendo y los conflictos laborales continuaron. Hay continuidades claras.
 - **Z2.** No muestra cuánto se aplicaron ni cómo cambió la vida de las familias. Es un vacío de la fuente.

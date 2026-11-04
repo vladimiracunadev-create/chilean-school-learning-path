@@ -106,7 +106,7 @@ reg(
     A=[
         arith("Tiempos de respuesta de una prueba de ejemplo, en horas: 4, 10, 6, 2, 8 y 6. ¿Cuál es el promedio?", "(4+10+6+2+8+6)//6", "Se suman los seis datos y se divide entre 6.", " horas"),
         arith("Con los tiempos 4, 10, 6, 2, 8 y 6 horas, ¿cuál es el rango?", "10-2", "El máximo es 10 y el mínimo es 2.", " horas"),
-        arith("Notas de satisfacción de ejemplo (1 a 5) de 10 usuarios: 5, 5, 4, 4, 4, 3, 5, 2, 4 y 4. Ocho dieron 4 o 5. ¿Qué porcentaje es?", "8*100//10", "Se calcula cuántos de cada 100 dieron 4 o 5.", " %"),
+        arith("Notas de satisfacción de ejemplo (1 a 5) de 10 usuarios: 5, 5, 4, 4, 4, 3, 5, 2, 4 y 4. ¿Qué porcentaje dio nota 4 o 5?", "8*100//10", "Se calcula cuántos de cada 100 dieron 4 o 5.", " %"),
     ],
     Z=[
         ("Un equipo informa «el tiempo promedio fue de 4 horas», pero los tiempos de cinco solicitudes fueron 1, 1, 1, 1 y 16. ¿Por qué el promedio puede engañar?", "Un solo dato de 16 horas lo sube; cuatro de cinco se atendieron en 1 hora", "La suma es 20 y 20 ÷ 5 = 4, pero ese valor no describe a ninguna solicitud típica."),
@@ -217,7 +217,7 @@ reg(
     ],
     R=[
         ("El valor de que todos puedan acceder aunque no tengan internet es A) la equidad B) la rapidez", "A", "Busca que nadie quede fuera por su situación."),
-        ("Pedir permiso antes de usar la foto de alguien protege su… A) privacidad B) puntualidad", "A", "La imagen es un dato personal."),
+        ("Pedir permiso antes de usar la foto de alguien protege su… A) privacidad B) equidad", "A", "La imagen es un dato personal."),
         ("Un servicio promete una cosa y entrega otra. ¿Qué valor falla?", "La honestidad", "Se dijo algo que no se cumplió."),
     ],
     C=[
