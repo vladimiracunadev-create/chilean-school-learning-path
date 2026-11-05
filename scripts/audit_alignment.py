@@ -359,8 +359,39 @@ MANUAL_M1 = [
     "",
 ]
 
+MANUAL_M2 = [
+    "### Segunda lectura crítica de las 744 clases",
+    "",
+    "Cada una de las 744 clases de 2.º medio fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió o verificó los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios, y los lectores de Historia, Inglés oficial y Lenguaje trabajaron con ayudantes y con control más ligero en algunos tramos. Las fichas de actitud y la asignatura de Lengua Indígena son integración transversal y no llevan cuaderno propio.",
+    "",
+    "| Asignatura | Clases | Defectos corregidos (resumen de los informes) |",
+    "|---|---:|---|",
+    "| Matemática | 55 | Enunciado de rondas de una noticia compartida con dos lecturas (acumulado o nuevas); alternativas absurdas en raíces; error común de racionalización con resultado incoherente; prerrequisito que contradecía el error común; «ángulos alternos internos» usado sin enseñarse; justificaciones que dependían del orden de las opciones. |",
+    "| Lengua y Literatura | 146 | Sesgo de longitud: la correcta era la más larga en 70 a 88 % de las preguntas de OA 04 a 08 y 10 (unas 1.200 preguntas reescritas con distractores de largo similar); unas 60 justificaciones tipo «la primera»; textos citados y no entregados; erratas («réplex», comillas anidadas, raya mal puntuada); explicación de «hierba» con la regla de la h; cálculo de páginas por semana que no calzaba. |",
+    "| Ciencias Naturales | 85 | Unos 50 cambios: reflejos atribuidos a la médula (el estornudo es del tronco encefálico); ovulación en el día 15 de un ciclo de 30; golpe de pelota de 1 s; tabla de descenso crioscópico del azúcar al doble de lo real; porcentajes y variable independiente usados sin enseñarse; unos 25 distractores absurdos; justificaciones atadas al orden de las opciones. |",
+    "| Historia, Geografía y Ciencias Sociales | 142 | Más de 100 restas de años triviales reemplazadas; unos 150 distractores absurdos; ejercicios de «nombra dos…» con respuesta abierta pasados a opción cerrada; voto femenino municipal (1934) y primera votación (1935); afirmación falsa sobre las iglesias antes de 1973; fuentes citadas y no entregadas; equilibrio de interpretaciones en dictadura y derechos humanos con informes Rettig y Valech como respaldo; definiciones con prefijo «En Historia:». |",
+    "| Inglés (propuesta EN2M) | 66 | «Neither John nor Susan are» (concuerda con el sujeto más cercano); pasado perfecto sin segundo hecho; estilo indirecto sin retroceso de tiempo; acentuación de «designer»; orden de una secuencia al revés; conteo erróneo (cuatro oraciones eran tres); segundo condicional adelantado de 3.º medio; distractores absurdos. |",
+    "| Inglés (oficial IN2M) | 81 | Sesgo de longitud (56 a 74 % de las correctas eran las más largas; ahora 35 a 40 %, con dos desvíos sin corregir); conteo de palabras con /st/ (eran cinco); encuesta que sumaba 180 de 200; etiquetas internas del autor («texto V1», «Q1») visibles al estudiante; «would join… unless I had» corregido; unos 15 contextos repetidos con Inglés propuesta cambiados. |",
+    "| Educación Física y Salud | 28 | Persona desmayada sin llamar a emergencias y con riesgo de darle de beber; señal de alarma por dolor de pecho o desmayo agregada; campaña de ejemplo que contradecía las guías de salud; datos «de la tabla anterior» no entregados; unos 45 distractores absurdos; comparación entre personas contraria al principio de la clase. |",
+    "| Orientación | 52 | Protocolo de imágenes íntimas que pedía guardar captura de una imagen de una menor (ahora no guardar, no reenviar, no borrar el chat y avisar); orden de pasos ante un chantaje con más de una secuencia válida; tablas pedidas sin datos; ejemplos que no calzaban; frase de aviso a una persona adulta ante pensamientos de hacerse daño. |",
+    "| Música | 31 | Comparación de 32 contra 36 pulsos con la clave equivocada; clave que marcaba la postura de copiar al artista como conciencia estilística; sesión de 20 minutos con datos contradictorios; explicación de canon desfasada por un compás; unos 60 distractores absurdos. |",
+    "| Artes Visuales | 30 | Unos 28 ejercicios de aritmética de relleno reemplazados por contenido del OA; «imperativo» cambiado por «frase de orden»; letras de 3 cm a 5 m, banca de 90 cm y pintura al agua para exterior, corregidas o rotuladas «de ejemplo»; unos 22 distractores absurdos; ejemplo con 10/10 que pedía mejorar un criterio. |",
+    "| Tecnología | 28 | Ruta de «2 + 3 + 1 = 7 horas» (son 6); justificaciones atadas al orden de las opciones; «matriz» y «puntos porcentuales» usados sin enseñarse; protocolo en línea completado (bloquear, no guardar imágenes íntimas); asociación de brecha digital con «personas mayores» reescrita. |",
+    "",
+    "#### Desajuste entre el texto del OA y los títulos de las clases",
+    "",
+    "Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA de cada asignatura (por ejemplo «Entrar al texto con propósito», «Definir necesidad, usuario y criterio»), y los autores repartieron el contenido del OA entre ellas. Los lectores comprobaron que lo enseñado calza con el OA. Los textos del OA de Inglés oficial 2.º medio traen erratas («-tion /ʧ/», «as son as», «/ sp /») y piden «sonido /o/ (usually)» que se trabajó como /ʒ/; debe confirmarlo un docente.",
+    "",
+    "#### Vacíos de cobertura frente al OA",
+    "",
+    "- **Cerrados dentro de las clases existentes:** Ciencias (formación de estrellas y galaxias en OA 14; solubilidad y transporte de la glucosa en OA 18); Historia (perfeccionar el sistema político en OA 24, consenso por la democracia representativa en OA 20, rearticulación política en OA 19, artículos transitorios en OA 18, Plan Laboral en OA 17); Lenguaje (selección de páginas web en OA 24); Inglés oficial (enumerar, sinónimos y compuestas en OA 08; géneros en OA 14).",
+    "- **Abiertos:** software educativo, gráficos y hoja de cálculo (Matemática OA 03, 05, 06, 07 y 08); herramientas TIC colaborativas reales (Tecnología OA 02 y 04); software de edición, multimedia interactiva y montaje real (Artes OA 03 y 06); audio, video, pronunciación y práctica oral real (Inglés, Lenguaje OA 19 a 23, Música); obras completas del plan lector y del Siglo de Oro (Lenguaje OA 02 y 04 a 08); práctica motriz real, mediciones de condición física, RCP y atragantamiento, y cálculo de calorías (Educación Física OA 01, 03 y 04); diversidad, orientación sexual, identidad de género y derechos sexuales (Ciencias OA 03); adopción (Ciencias OA 05); casos reales, cifras y series estadísticas de Chile en OA 10 a 17 y 21 a 25 de Historia; ejecución real de iniciativas y participación en el Consejo de Curso (Orientación OA 07 y 08); uso real del procesador de textos y el diccionario en línea (Lenguaje OA 15, Inglés).",
+    "- **Decisiones que dependen del programa oficial:** formato de referencia bibliográfica propio de Lenguaje; notación de pulsos «ta / ti-ti / sh» de Música; alturas de montaje y medidas de legibilidad de Artes; fórmula de recuperación y costo por uso de Tecnología; regla de recuperación entre sesiones de fuerza de Educación Física.",
+    "",
+]
 
-LEVELS = (("1-basico", 1, MANUAL_1), ("2-basico", 2, MANUAL_2), ("3-basico", 3, MANUAL_3), ("4-basico", 4, MANUAL_4), ("5-basico", 5, MANUAL_5), ("6-basico", 6, MANUAL_6), ("7-basico", 7, MANUAL_7), ("8-basico", 8, MANUAL_8), ("1-medio", 9, MANUAL_M1))
+
+LEVELS = (("1-basico", 1, MANUAL_1), ("2-basico", 2, MANUAL_2), ("3-basico", 3, MANUAL_3), ("4-basico", 4, MANUAL_4), ("5-basico", 5, MANUAL_5), ("6-basico", 6, MANUAL_6), ("7-basico", 7, MANUAL_7), ("8-basico", 8, MANUAL_8), ("1-medio", 9, MANUAL_M1), ("2-medio", 10, MANUAL_M2))
 
 
 def section(level_prefix: str, grade: int, manual: list[str]) -> list[str]:

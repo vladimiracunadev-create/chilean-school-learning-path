@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-11-04",
+  "latest_date": "2026-11-05",
   "updates": [
+    {
+      "date": "2026-11-05",
+      "title": "2° medio: cuaderno del estudiante de las 11 asignaturas, con segunda lectura crítica",
+      "summary": [
+        "Las 744 clases de 2° medio tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios): Matemática (55), Lengua y Literatura (146), Ciencias Naturales (85), Historia, Geografía y Ciencias Sociales (142), Inglés propuesta (66), Inglés oficial (81), Educación Física (28), Orientación (52), Música (31), Artes Visuales (30) y Tecnología (28). Las fichas de actitud y Lengua Indígena son integración transversal y no llevan cuaderno propio.",
+        "Se trabajó una asignatura a la vez (máximo dos): un autor y luego un lector independiente (asistido por IA, no revisión profesional) que resolvió o verificó los ejercicios y corrigió en el mismo archivo. Entre lo corregido: unas 1.200 preguntas de Lenguaje y las de Inglés oficial donde la respuesta correcta era la más larga, respuestas erróneas (pulsos en Música, conteos en Inglés, una ruta de horas en Tecnología), más de 100 restas de años triviales y datos históricos imprecisos en Historia, un protocolo de imágenes íntimas que pedía guardar la imagen (Orientación), indicaciones de primeros auxilios incompletas (Educación Física), y regla de «neither…nor» y estilo indirecto mal enseñados en Inglés. Se reescribieron 5 enunciados idénticos a los de otras asignaturas.",
+        "El análisis de alineación cubre ahora 1° básico a 2° medio, y la lista de contenidos para especialistas incluye 2° medio.",
+        "Siguen abiertos: software y programas reales, audio, video y pronunciación, obras y textos reales con derechos de autor, pueblos originarios (educador tradicional), números de ayuda por verificar, protocolos de protección por validar con convivencia escolar, hechos y fechas históricas por contrastar con una fuente y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
+      ]
+    },
     {
       "date": "2026-11-04",
       "title": "1° medio: tercera lectura crítica de las 11 asignaturas",
@@ -21,15 +31,6 @@
         "Se corrigió el reordenamiento automático de opciones A/B y A/B/C: cuando una opción traía su propio «?» o «.», la puntuación se duplicaba al final («??», «..») y la opción desplazada quedaba sin su signo. Ahora cada opción conserva su puntuación al cambiar de lugar. Afecta a las preguntas de todos los niveles.",
         "El análisis de alineación cubre ahora 1° básico a 1° medio, y la lista de contenidos para especialistas incluye 1° medio.",
         "Siguen abiertos: software y programas reales, audio, video y pronunciación, obras y textos reales con derechos de autor, pueblos originarios (educador tradicional), números de ayuda por verificar, protocolos de protección por validar con convivencia escolar, hechos y fechas históricas por contrastar con una fuente y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "title": "Revisión de 8° básico",
-      "summary": [
-        "Se revisó de nuevo 8° básico: no hay fuentes citadas sin entregar, las preguntas de «une», «clasifica» y «ordena» conservan su respuesta original, el reparto de la respuesta correcta quedó equilibrado (dos opciones: A 1.285 y B 1.235; tres opciones: A 147, B 196 y C 177) y no hay billetes ni monedas inexistentes.",
-        "Se corrigieron dos preguntas de Música (OA 07, clase 4) que decían «en esa misma encuesta» con los datos dos ejercicios antes: ahora traen sus datos.",
-        "Los chequeos de revisión de cada nivel quedaron en un solo script, `chequeos.py`, guardado fuera del repo junto a los demás scripts de trabajo."
       ]
     }
   ]

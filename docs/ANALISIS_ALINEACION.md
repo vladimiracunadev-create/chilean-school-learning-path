@@ -1804,3 +1804,319 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | HI1M OA 23 | 5 | Construir un argumento con evidencia: Respuestas políticas a | 82 % | 100 % | 22.9 | — |
 | HI1M OA 23 | 4 | Contrastar actores, causas y perspectivas: Respuestas políti | 83 % | 100 % | 25.0 | respuesta «depende» en ejercicio cerrado |
 | LE1M OA 23 | 1 | Escuchar o preparar con propósito: Efectos de recursos lingü | 85 % | 86 % | 23.0 | — |
+
+## 2.º medio
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| artes-visuales | 30 | 51 % | 5 |
+| ciencias-naturales | 85 | 43 % | 19 |
+| educacion-fisica-salud | 28 | 42 % | 5 |
+| historia-geografia-ciencias-sociales | 142 | 52 % | 27 |
+| ingles | 81 | 33 % | 52 |
+| ingles-propuesta | 66 | 31 % | 47 |
+| lengua-literatura | 146 | 54 % | 64 |
+| matematica | 55 | 36 % | 15 |
+| musica | 31 | 50 % | 11 |
+| orientacion | 52 | 49 % | 6 |
+| tecnologia | 28 | 45 % | 10 |
+
+**Clases marcadas para lectura prioritaria (2.º medio):** 261 de 744.
+
+### Segunda lectura crítica de las 744 clases
+
+Cada una de las 744 clases de 2.º medio fue releída por un segundo lector (asistido por IA, distinto de quien la escribió) que la contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió o verificó los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios, y los lectores de Historia, Inglés oficial y Lenguaje trabajaron con ayudantes y con control más ligero en algunos tramos. Las fichas de actitud y la asignatura de Lengua Indígena son integración transversal y no llevan cuaderno propio.
+
+| Asignatura | Clases | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 55 | Enunciado de rondas de una noticia compartida con dos lecturas (acumulado o nuevas); alternativas absurdas en raíces; error común de racionalización con resultado incoherente; prerrequisito que contradecía el error común; «ángulos alternos internos» usado sin enseñarse; justificaciones que dependían del orden de las opciones. |
+| Lengua y Literatura | 146 | Sesgo de longitud: la correcta era la más larga en 70 a 88 % de las preguntas de OA 04 a 08 y 10 (unas 1.200 preguntas reescritas con distractores de largo similar); unas 60 justificaciones tipo «la primera»; textos citados y no entregados; erratas («réplex», comillas anidadas, raya mal puntuada); explicación de «hierba» con la regla de la h; cálculo de páginas por semana que no calzaba. |
+| Ciencias Naturales | 85 | Unos 50 cambios: reflejos atribuidos a la médula (el estornudo es del tronco encefálico); ovulación en el día 15 de un ciclo de 30; golpe de pelota de 1 s; tabla de descenso crioscópico del azúcar al doble de lo real; porcentajes y variable independiente usados sin enseñarse; unos 25 distractores absurdos; justificaciones atadas al orden de las opciones. |
+| Historia, Geografía y Ciencias Sociales | 142 | Más de 100 restas de años triviales reemplazadas; unos 150 distractores absurdos; ejercicios de «nombra dos…» con respuesta abierta pasados a opción cerrada; voto femenino municipal (1934) y primera votación (1935); afirmación falsa sobre las iglesias antes de 1973; fuentes citadas y no entregadas; equilibrio de interpretaciones en dictadura y derechos humanos con informes Rettig y Valech como respaldo; definiciones con prefijo «En Historia:». |
+| Inglés (propuesta EN2M) | 66 | «Neither John nor Susan are» (concuerda con el sujeto más cercano); pasado perfecto sin segundo hecho; estilo indirecto sin retroceso de tiempo; acentuación de «designer»; orden de una secuencia al revés; conteo erróneo (cuatro oraciones eran tres); segundo condicional adelantado de 3.º medio; distractores absurdos. |
+| Inglés (oficial IN2M) | 81 | Sesgo de longitud (56 a 74 % de las correctas eran las más largas; ahora 35 a 40 %, con dos desvíos sin corregir); conteo de palabras con /st/ (eran cinco); encuesta que sumaba 180 de 200; etiquetas internas del autor («texto V1», «Q1») visibles al estudiante; «would join… unless I had» corregido; unos 15 contextos repetidos con Inglés propuesta cambiados. |
+| Educación Física y Salud | 28 | Persona desmayada sin llamar a emergencias y con riesgo de darle de beber; señal de alarma por dolor de pecho o desmayo agregada; campaña de ejemplo que contradecía las guías de salud; datos «de la tabla anterior» no entregados; unos 45 distractores absurdos; comparación entre personas contraria al principio de la clase. |
+| Orientación | 52 | Protocolo de imágenes íntimas que pedía guardar captura de una imagen de una menor (ahora no guardar, no reenviar, no borrar el chat y avisar); orden de pasos ante un chantaje con más de una secuencia válida; tablas pedidas sin datos; ejemplos que no calzaban; frase de aviso a una persona adulta ante pensamientos de hacerse daño. |
+| Música | 31 | Comparación de 32 contra 36 pulsos con la clave equivocada; clave que marcaba la postura de copiar al artista como conciencia estilística; sesión de 20 minutos con datos contradictorios; explicación de canon desfasada por un compás; unos 60 distractores absurdos. |
+| Artes Visuales | 30 | Unos 28 ejercicios de aritmética de relleno reemplazados por contenido del OA; «imperativo» cambiado por «frase de orden»; letras de 3 cm a 5 m, banca de 90 cm y pintura al agua para exterior, corregidas o rotuladas «de ejemplo»; unos 22 distractores absurdos; ejemplo con 10/10 que pedía mejorar un criterio. |
+| Tecnología | 28 | Ruta de «2 + 3 + 1 = 7 horas» (son 6); justificaciones atadas al orden de las opciones; «matriz» y «puntos porcentuales» usados sin enseñarse; protocolo en línea completado (bloquear, no guardar imágenes íntimas); asociación de brecha digital con «personas mayores» reescrita. |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA de cada asignatura (por ejemplo «Entrar al texto con propósito», «Definir necesidad, usuario y criterio»), y los autores repartieron el contenido del OA entre ellas. Los lectores comprobaron que lo enseñado calza con el OA. Los textos del OA de Inglés oficial 2.º medio traen erratas («-tion /ʧ/», «as son as», «/ sp /») y piden «sonido /o/ (usually)» que se trabajó como /ʒ/; debe confirmarlo un docente.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** Ciencias (formación de estrellas y galaxias en OA 14; solubilidad y transporte de la glucosa en OA 18); Historia (perfeccionar el sistema político en OA 24, consenso por la democracia representativa en OA 20, rearticulación política en OA 19, artículos transitorios en OA 18, Plan Laboral en OA 17); Lenguaje (selección de páginas web en OA 24); Inglés oficial (enumerar, sinónimos y compuestas en OA 08; géneros en OA 14).
+- **Abiertos:** software educativo, gráficos y hoja de cálculo (Matemática OA 03, 05, 06, 07 y 08); herramientas TIC colaborativas reales (Tecnología OA 02 y 04); software de edición, multimedia interactiva y montaje real (Artes OA 03 y 06); audio, video, pronunciación y práctica oral real (Inglés, Lenguaje OA 19 a 23, Música); obras completas del plan lector y del Siglo de Oro (Lenguaje OA 02 y 04 a 08); práctica motriz real, mediciones de condición física, RCP y atragantamiento, y cálculo de calorías (Educación Física OA 01, 03 y 04); diversidad, orientación sexual, identidad de género y derechos sexuales (Ciencias OA 03); adopción (Ciencias OA 05); casos reales, cifras y series estadísticas de Chile en OA 10 a 17 y 21 a 25 de Historia; ejecución real de iniciativas y participación en el Consejo de Curso (Orientación OA 07 y 08); uso real del procesador de textos y el diccionario en línea (Lenguaje OA 15, Inglés).
+- **Decisiones que dependen del programa oficial:** formato de referencia bibliográfica propio de Lenguaje; notación de pulsos «ta / ti-ti / sh» de Música; alturas de montaje y medidas de legibilidad de Artes; fórmula de recuperación y costo por uso de Tecnología; regla de recuperación entre sesiones de fuerza de Educación Física.
+
+### Clases marcadas de 2.º medio
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| CN2M OA 16 | 2 | Examinar datos y representaciones: Propiedades coligativas e | 9 % | 14 % | 15.2 | — |
+| IN2M OA 01 | 2 | Locate meaning and language evidence: Global and explicit me | 10 % | 12 % | 15.1 | — |
+| CN2M OA 14 | 4 | Investigar relaciones entre variables: Gravitación, leyes de | 11 % | 12 % | 21.6 | — |
+| EN2M OA 01 | 2 | Locate meaning and language evidence: Understanding varied l | 12 % | 22 % | 13.8 | — |
+| IN2M OA 01 | 3 | Interpret relationships and unstated meaning: Global and exp | 13 % | 12 % | 11.8 | — |
+| EN2M OA 01 | 5 | Produce for a defined audience: Understanding varied literar | 13 % | 0 % | 12.2 | — |
+| EN2M OA 05 | 2 | Locate meaning and language evidence: Language functions int | 13 % | 0 % | 14.4 | — |
+| IN2M OA 01 | 4 | Rehearse a purposeful response: Global and explicit meaning  | 15 % | 25 % | 12.6 | — |
+| IN2M OA 10 | 5 | Produce for a defined audience: Purpose, structure and langu | 16 % | 0 % | 14.7 | — |
+| CN2M OA 08 | 3 | Construir o contrastar un modelo: Manipulación genética, apl | 17 % | 14 % | 14.1 | — |
+| IN2M OA 02 | 2 | Locate meaning and language evidence: Key expressions, collo | 17 % | 11 % | 13.4 | — |
+| IN2M OA 02 | 4 | Rehearse a purposeful response: Key expressions, collocation | 18 % | 0 % | 14.8 | — |
+| IN2M OA 07 | 4 | Rehearse a purposeful response: Evidence-based response, que | 18 % | 14 % | 13.1 | — |
+| EN2M OA 07 | 4 | Rehearse a purposeful response: Critical response, synthesis | 18 % | 14 % | 16.2 | — |
+| IN2M OA 05 | 1 | Notice purpose and activate prior knowledge: Coherent multim | 18 % | 33 % | 11.1 | — |
+| MA2M OA 11 | 2 | Representar patrones: Permutaciones, combinatoria y probabil | 18 % | 20 % | 10.2 | — |
+| EN2M OA 05 | 3 | Interpret relationships and unstated meaning: Language funct | 19 % | 14 % | 21.1 | — |
+| CN2M OA 18 | 2 | Examinar datos y representaciones: Estereoquímica e isomería | 19 % | 29 % | 13.0 | — |
+| IN2M OA 01 | 5 | Produce for a defined audience: Global and explicit meaning  | 19 % | 0 % | 15.6 | — |
+| EN2M OA 02 | 5 | Produce for a defined audience: Purpose, detail, collocation | 19 % | 0 % | 16.2 | — |
+| IN2M OA 02 | 1 | Notice purpose and activate prior knowledge: Key expressions | 19 % | 20 % | 12.3 | — |
+| TE2M OA 01 | 2 | Investigar soluciones y restricciones: Necesidades energétic | 20 % | 29 % | 16.5 | — |
+| IN2M OA 05 | 3 | Interpret relationships and unstated meaning: Coherent multi | 20 % | 12 % | 15.2 | — |
+| CN2M OA 01 | 2 | Examinar datos y representaciones: Sistema nervioso, respues | 21 % | 38 % | 15.2 | — |
+| EF2M OA 01 | 2 | Seleccionar una respuesta motriz: Precisión en habilidades m | 21 % | 33 % | 15.9 | — |
+| CN2M OA 03 | 2 | Examinar datos y representaciones: Sexualidad humana, dimens | 21 % | 43 % | 15.1 | — |
+| IN2M OA 08 | 4 | Rehearse a purposeful response: Second-year communicative fu | 21 % | 0 % | 11.3 | — |
+| EN2M OA 12 | 5 | Produce for a defined audience: Second-year language functio | 21 % | 12 % | 14.0 | — |
+| IN2M OA 14 | 4 | Rehearse a purposeful response: Independent writing process  | 21 % | 12 % | 18.2 | — |
+| TE2M OA 04 | 3 | Representar y planificar: Escenarios, audiencias y comunicac | 21 % | 29 % | 16.0 | — |
+| IN2M OA 06 | 2 | Locate meaning and language evidence: Planning, repairing an | 22 % | 0 % | 16.7 | — |
+| EN2M OA 01 | 3 | Interpret relationships and unstated meaning: Understanding  | 22 % | 22 % | 16.7 | — |
+| EN2M OA 07 | 2 | Locate meaning and language evidence: Critical response, syn | 22 % | 22 % | 22.9 | — |
+| IN2M OA 02 | 5 | Produce for a defined audience: Key expressions, collocation | 22 % | 0 % | 16.8 | — |
+| MA2M OA 05 | 2 | Representar la relación: Función inversa como proceso y refl | 23 % | 33 % | 18.6 | — |
+| EN2M OA 09 | 3 | Interpret relationships and unstated meaning: Strategies for | 24 % | 0 % | 14.2 | — |
+| EN2M OA 09 | 4 | Rehearse a purposeful response: Strategies for clear, fluent | 24 % | 0 % | 15.4 | — |
+| EN2M OA 05 | 4 | Rehearse a purposeful response: Language functions interpret | 24 % | 12 % | 10.5 | — |
+| AR2M OA 06 | 3 | Probar decisiones visuales: Difusión artística y aporte a la | 24 % | 29 % | 16.3 | — |
+| IN2M OA 06 | 4 | Rehearse a purposeful response: Planning, repairing and revi | 24 % | 0 % | 14.9 | — |
+| MA2M OA 03 | 3 | Construir el procedimiento: Función cuadrática y sus represe | 24 % | 20 % | 17.0 | — |
+| EN2M OA 04 | 1 | Notice purpose and activate prior knowledge: Integrated lite | 24 % | 12 % | 13.1 | — |
+| EF2M OA 01 | 3 | Combinar habilidades o decisiones: Precisión en habilidades  | 24 % | 33 % | 16.9 | — |
+| EN2M OA 12 | 4 | Rehearse a purposeful response: Second-year language functio | 24 % | 0 % | 14.5 | — |
+| IN2M OA 16 | 4 | Rehearse a purposeful response: Second-year communicative fu | 24 % | 0 % | 10.6 | — |
+| EN2M OA 11 | 2 | Locate meaning and language evidence: Modeled multimodal wri | 24 % | 38 % | 18.8 | — |
+| IN2M OA 04 | 3 | Interpret relationships and unstated meaning: Strategic list | 24 % | 0 % | 10.1 | — |
+| EN2M OA 10 | 2 | Locate meaning and language evidence: Second-year language f | 25 % | 0 % | 13.5 | — |
+| CN2M OA 14 | 2 | Examinar datos y representaciones: Gravitación, leyes de Kep | 25 % | 38 % | 15.2 | — |
+| EN2M OA 09 | 2 | Locate meaning and language evidence: Strategies for clear,  | 25 % | 11 % | 16.0 | — |
+| HI2M OA 21 | 3 | Comparar perspectivas y escalas: Sociedad chilena desde la r | 25 % | 43 % | 17.0 | — |
+| IN2M OA 14 | 2 | Locate meaning and language evidence: Independent writing pr | 25 % | 0 % | 14.7 | — |
+| MA2M OA 09 | 1 | Explorar una construcción: Trigonometría, vectores y proyecc | 25 % | 40 % | 16.4 | — |
+| MA2M OA 09 | 3 | Justificar la relación: Trigonometría, vectores y proyeccion | 25 % | 40 % | 21.6 | — |
+| MA2M OA 09 | 4 | Resolver un caso nuevo: Trigonometría, vectores y proyeccion | 25 % | 40 % | 20.1 | — |
+| TE2M OA 03 | 2 | Investigar soluciones y restricciones: Evaluación ética, leg | 25 % | 38 % | 14.8 | — |
+| TE2M OA 05 | 2 | Investigar soluciones y restricciones: Innovaciones actuales | 25 % | 14 % | 15.6 | — |
+| EN2M OA 12 | 3 | Interpret relationships and unstated meaning: Second-year la | 25 % | 0 % | 15.7 | — |
+| IN2M OA 15 | 1 | Notice purpose and activate prior knowledge: Writing to anal | 26 % | 20 % | 12.0 | — |
+| IN2M OA 16 | 1 | Notice purpose and activate prior knowledge: Second-year com | 26 % | 22 % | 13.9 | — |
+| EN2M OA 02 | 4 | Rehearse a purposeful response: Purpose, detail, collocation | 26 % | 12 % | 23.7 | — |
+| IN2M OA 04 | 2 | Locate meaning and language evidence: Strategic listening, n | 26 % | 11 % | 16.5 | — |
+| IN2M OA 08 | 2 | Locate meaning and language evidence: Second-year communicat | 26 % | 0 % | 13.2 | — |
+| EN2M OA 04 | 5 | Produce for a defined audience: Integrated literary and non- | 27 % | 0 % | 18.1 | — |
+| IN2M OA 07 | 5 | Produce for a defined audience: Evidence-based response, que | 27 % | 38 % | 14.7 | — |
+| IN2M OA 08 | 5 | Produce for a defined audience: Second-year communicative fu | 27 % | 14 % | 14.2 | — |
+| EN2M OA 03 | 5 | Produce for a defined audience: Purposeful listening, infere | 27 % | 12 % | 14.2 | — |
+| OR2M OA 07 | 5 | Practicar comunicación o búsqueda de ayuda: Participación, e | 27 % | 38 % | 13.9 | — |
+| EN2M OA 11 | 3 | Interpret relationships and unstated meaning: Modeled multim | 28 % | 38 % | 18.3 | — |
+| IN2M OA 02 | 3 | Interpret relationships and unstated meaning: Key expression | 28 % | 11 % | 9.0 | — |
+| IN2M OA 13 | 2 | Locate meaning and language evidence: Creative multimodal st | 28 % | 22 % | 13.1 | — |
+| MA2M OA 01 | 5 | Comprobar y transferir: Operaciones, estimación y descomposi | 28 % | 33 % | 16.0 | — |
+| MU2M OA 04 | 2 | Relacionar lenguaje, contexto y propósito: Interpretación, r | 28 % | 25 % | 17.4 | — |
+| TE2M OA 06 | 2 | Investigar soluciones y restricciones: Proyección de impacto | 28 % | 43 % | 20.9 | — |
+| EN2M OA 07 | 5 | Produce for a defined audience: Critical response, synthesis | 28 % | 25 % | 11.4 | — |
+| CN2M OA 05 | 2 | Examinar datos y representaciones: Regulación de la fertilid | 29 % | 43 % | 15.5 | — |
+| CN2M OA 14 | 1 | Plantear una pregunta o problema: Gravitación, leyes de Kepl | 29 % | 38 % | 19.6 | — |
+| EN2M OA 06 | 4 | Rehearse a purposeful response: Strategic reading before, du | 29 % | 38 % | 13.2 | — |
+| EN2M OA 10 | 3 | Interpret relationships and unstated meaning: Second-year la | 29 % | 12 % | 15.8 | — |
+| IN2M OA 13 | 5 | Produce for a defined audience: Creative multimodal stories  | 29 % | 25 % | 19.6 | — |
+| OR2M OA 03 | 5 | Practicar comunicación o búsqueda de ayuda: Evaluación de ri | 29 % | 25 % | 15.5 | — |
+| IN2M OA 07 | 2 | Locate meaning and language evidence: Evidence-based respons | 29 % | 25 % | 18.8 | — |
+| EN2M OA 01 | 4 | Rehearse a purposeful response: Understanding varied literar | 29 % | 12 % | 16.7 | — |
+| EN2M OA 05 | 5 | Produce for a defined audience: Language functions interpret | 29 % | 0 % | 16.5 | — |
+| MA2M OA 05 | 1 | Reconocer variables y restricciones: Función inversa como pr | 29 % | 29 % | 12.6 | — |
+| EN2M OA 10 | 1 | Notice purpose and activate prior knowledge: Second-year lan | 29 % | 11 % | 15.5 | — |
+| MA2M OA 01 | 1 | Representar y estimar: Operaciones, estimación y descomposic | 29 % | 40 % | 17.2 | — |
+| MU2M OA 04 | 1 | Escuchar y reconocer rasgos: Interpretación, registro y difu | 29 % | 43 % | 17.4 | — |
+| EN2M OA 04 | 4 | Rehearse a purposeful response: Integrated literary and non- | 29 % | 33 % | 16.1 | — |
+| EN2M OA 03 | 3 | Interpret relationships and unstated meaning: Purposeful lis | 30 % | 22 % | 11.6 | — |
+| IN2M OA 11 | 2 | Locate meaning and language evidence: Theme, character, sett | 30 % | 40 % | 14.6 | — |
+| IN2M OA 14 | 3 | Interpret relationships and unstated meaning: Independent wr | 30 % | 20 % | 16.0 | — |
+| IN2M OA 08 | 3 | Interpret relationships and unstated meaning: Second-year co | 30 % | 0 % | 9.2 | — |
+| EN2M OA 08 | 1 | Notice purpose and activate prior knowledge: Audience-aware  | 30 % | 33 % | 14.6 | — |
+| IN2M OA 10 | 2 | Locate meaning and language evidence: Purpose, structure and | 30 % | 12 % | 14.7 | — |
+| EF2M OA 04 | 3 | Combinar habilidades o decisiones: Práctica regular, segurid | 30 % | 25 % | 13.2 | — |
+| TE2M OA 04 | 1 | Definir necesidad, usuario y criterio: Escenarios, audiencia | 30 % | 44 % | 16.1 | — |
+| EN2M OA 08 | 2 | Locate meaning and language evidence: Audience-aware multimo | 30 % | 38 % | 14.5 | — |
+| IN2M OA 14 | 5 | Produce for a defined audience: Independent writing process  | 30 % | 22 % | 16.1 | — |
+| IN2M OA 09 | 2 | Locate meaning and language evidence: Global and explicit me | 30 % | 11 % | 14.6 | — |
+| EN2M OA 05 | 1 | Notice purpose and activate prior knowledge: Language functi | 30 % | 30 % | 16.7 | — |
+| CN2M OA 16 | 1 | Plantear una pregunta o problema: Propiedades coligativas en | 30 % | 43 % | 19.9 | — |
+| IN2M OA 08 | 1 | Notice purpose and activate prior knowledge: Second-year com | 30 % | 11 % | 16.4 | — |
+| EN2M OA 10 | 5 | Produce for a defined audience: Second-year language functio | 30 % | 0 % | 16.3 | — |
+| EN2M OA 02 | 1 | Notice purpose and activate prior knowledge: Purpose, detail | 31 % | 40 % | 16.0 | — |
+| IN2M OA 16 | 5 | Produce for a defined audience: Second-year communicative fu | 31 % | 14 % | 16.6 | — |
+| HI2M OA 17 | 5 | Construir una interpretación documentada: Modelo neoliberal  | 31 % | 88 % | 21.8 | — |
+| EN2M OA 02 | 3 | Interpret relationships and unstated meaning: Purpose, detai | 31 % | 10 % | 12.4 | — |
+| EN2M OA 01 | 1 | Notice purpose and activate prior knowledge: Understanding v | 31 % | 10 % | 14.3 | — |
+| IN2M OA 09 | 3 | Interpret relationships and unstated meaning: Global and exp | 31 % | 11 % | 18.7 | — |
+| EN2M OA 10 | 4 | Rehearse a purposeful response: Second-year language functio | 31 % | 29 % | 10.9 | — |
+| HI2M OA 03 | 1 | Situar el problema y sus actores: Segunda Guerra Mundial, ge | 31 % | 67 % | 22.2 | — |
+| IN2M OA 09 | 1 | Notice purpose and activate prior knowledge: Global and expl | 31 % | 18 % | 16.5 | — |
+| IN2M OA 16 | 3 | Interpret relationships and unstated meaning: Second-year co | 31 % | 0 % | 18.4 | — |
+| AR2M OA 05 | 2 | Explorar materiales y referentes: Evaluación fundamentada de | 32 % | 43 % | 14.6 | — |
+| LE2M OA 10 | 2 | Localizar evidencias decisivas: Medios, persuasión y recurso | 32 % | 43 % | 21.5 | — |
+| HI2M OA 22 | 5 | Construir una interpretación documentada: Derechos humanos e | 32 % | 43 % | 16.7 | — |
+| IN2M OA 11 | 3 | Interpret relationships and unstated meaning: Theme, charact | 32 % | 30 % | 12.0 | — |
+| IN2M OA 05 | 5 | Produce for a defined audience: Coherent multimodal oral pre | 32 % | 33 % | 12.0 | — |
+| IN2M OA 06 | 3 | Interpret relationships and unstated meaning: Planning, repa | 32 % | 0 % | 13.4 | — |
+| LE2M OA 19 | 5 | Comunicar ante una audiencia: Comprensión crítica de discurs | 32 % | 33 % | 17.3 | — |
+| MA2M OA 03 | 4 | Comparar estrategias: Función cuadrática y sus representacio | 32 % | 40 % | 18.5 | — |
+| EN2M OA 08 | 3 | Interpret relationships and unstated meaning: Audience-aware | 32 % | 25 % | 21.9 | — |
+| EF2M OA 01 | 4 | Aplicar estrategia o plan: Precisión en habilidades motrices | 32 % | 33 % | 19.9 | — |
+| HI2M OA 21 | 5 | Construir una interpretación documentada: Sociedad chilena d | 32 % | 43 % | 15.6 | — |
+| IN2M OA 13 | 3 | Interpret relationships and unstated meaning: Creative multi | 32 % | 33 % | 13.4 | — |
+| EN2M OA 02 | 2 | Locate meaning and language evidence: Purpose, detail, collo | 32 % | 11 % | 16.6 | — |
+| LE2M OA 22 | 2 | Reconstruir ideas y recursos: Exposición investigada y gradu | 32 % | 43 % | 19.5 | — |
+| EN2M OA 11 | 4 | Rehearse a purposeful response: Modeled multimodal writing f | 32 % | 43 % | 25.0 | — |
+| EN2M OA 13 | 3 | Interpret relationships and unstated meaning: Independent wr | 32 % | 11 % | 14.8 | — |
+| IN2M OA 12 | 3 | Interpret relationships and unstated meaning: Strategic read | 32 % | 11 % | 13.4 | — |
+| EN2M OA 03 | 4 | Rehearse a purposeful response: Purposeful listening, infere | 33 % | 14 % | 17.4 | — |
+| IN2M OA 11 | 4 | Rehearse a purposeful response: Theme, character, setting an | 33 % | 22 % | 11.0 | — |
+| EN2M OA 04 | 2 | Locate meaning and language evidence: Integrated literary an | 33 % | 0 % | 16.5 | — |
+| CN2M OA 09 | 1 | Plantear una pregunta o problema: Movimiento rectilíneo, vel | 33 % | 29 % | 18.2 | — |
+| EF2M OA 01 | 1 | Explorar con seguridad y diagnóstico: Precisión en habilidad | 33 % | 43 % | 16.2 | — |
+| EN2M OA 07 | 3 | Interpret relationships and unstated meaning: Critical respo | 33 % | 33 % | 20.7 | — |
+| HI2M OA 08 | 6 | Debatir consecuencias y límites: Guerra Fría, amenaza nuclea | 33 % | 75 % | 21.9 | — |
+| IN2M OA 05 | 4 | Rehearse a purposeful response: Coherent multimodal oral pre | 33 % | 29 % | 14.6 | — |
+| IN2M OA 10 | 1 | Notice purpose and activate prior knowledge: Purpose, struct | 33 % | 22 % | 11.8 | — |
+| IN2M OA 16 | 2 | Locate meaning and language evidence: Second-year communicat | 33 % | 0 % | 16.1 | — |
+| LE2M OA 02 | 4 | Contrastar interpretaciones: Literatura, herencias culturale | 33 % | 43 % | 13.2 | — |
+| MU2M OA 03 | 2 | Relacionar lenguaje, contexto y propósito: Selección, interp | 33 % | 12 % | 15.5 | — |
+| OR2M OA 05 | 5 | Practicar comunicación o búsqueda de ayuda: Relaciones const | 33 % | 38 % | 15.0 | — |
+| EN2M OA 12 | 1 | Notice purpose and activate prior knowledge: Second-year lan | 34 % | 0 % | 16.6 | — |
+| LE2M OA 15 | 6 | Editar, publicar y justificar: Planificación, revisión y edi | 35 % | 43 % | 24.6 | — |
+| MA2M OA 05 | 4 | Comparar estrategias: Función inversa como proceso y reflexi | 35 % | 50 % | 20.7 | — |
+| MU2M OA 03 | 4 | Interpretar, improvisar o crear: Selección, interpretación y | 35 % | 33 % | 20.1 | — |
+| LE2M OA 05 | 4 | Contrastar interpretaciones: Drama, atmósfera y puesta en es | 36 % | 67 % | 21.2 | — |
+| LE2M OA 06 | 3 | Analizar recursos y relaciones: Siglo de Oro, obra y context | 36 % | 80 % | 24.9 | — |
+| MA2M OA 08 | 4 | Resolver un caso nuevo: Seno, coseno y tangente en triángulo | 37 % | 67 % | 21.6 | — |
+| OR2M OA 04 | 4 | Elegir una acción segura: Acciones autónomas para una vida s | 37 % | 80 % | 20.7 | — |
+| LE2M OA 22 | 5 | Comunicar ante una audiencia: Exposición investigada y gradu | 38 % | 50 % | 20.5 | — |
+| EN2M OA 12 | 2 | Locate meaning and language evidence: Second-year language f | 39 % | 0 % | 20.1 | — |
+| LE2M OA 05 | 1 | Entrar al texto con propósito: Drama, atmósfera y puesta en  | 39 % | 86 % | 23.5 | — |
+| LE2M OA 19 | 7 | Evaluar el efecto: Comprensión crítica de discursos audiovis | 39 % | 83 % | 24.6 | — |
+| LE2M OA 10 | 6 | Formular una lectura propia: Medios, persuasión y recursos m | 40 % | 29 % | 27.7 | respuesta «depende» en ejercicio cerrado |
+| LE2M OA 10 | 4 | Contrastar interpretaciones: Medios, persuasión y recursos m | 40 % | 50 % | 22.3 | — |
+| MA2M OA 08 | 3 | Justificar la relación: Seno, coseno y tangente en triángulo | 41 % | 67 % | 21.8 | — |
+| HI2M OA 12 | 6 | Debatir consecuencias y límites: Pobreza, migración campo-ci | 41 % | 100 % | 12.7 | respuesta «depende» en ejercicio cerrado |
+| LE2M OA 14 | 2 | Investigar y seleccionar insumos: Ensayo persuasivo, evidenc | 41 % | 43 % | 22.9 | — |
+| LE2M OA 08 | 2 | Localizar evidencias decisivas: Interpretación literaria his | 41 % | 38 % | 20.9 | — |
+| LE2M OA 22 | 4 | Ensayar con retroalimentación: Exposición investigada y grad | 42 % | 50 % | 24.0 | — |
+| MU2M OA 03 | 3 | Ensayar una decisión musical: Selección, interpretación y di | 42 % | 57 % | 22.0 | — |
+| IN2M OA 11 | 1 | Notice purpose and activate prior knowledge: Theme, characte | 42 % | 18 % | 14.6 | respuesta «depende» en ejercicio cerrado |
+| AR2M OA 03 | 5 | Contrastar con criterios: Video, multimedia y creación conte | 43 % | 67 % | 20.1 | — |
+| CN2M OA 05 | 1 | Plantear una pregunta o problema: Regulación de la fertilida | 43 % | 71 % | 22.0 | — |
+| LE2M OA 21 | 5 | Comunicar ante una audiencia: Diálogo constructivo, parafras | 43 % | 83 % | 23.2 | — |
+| LE2M OA 05 | 2 | Localizar evidencias decisivas: Drama, atmósfera y puesta en | 43 % | 71 % | 22.2 | — |
+| LE2M OA 08 | 4 | Contrastar interpretaciones: Interpretación literaria histór | 44 % | 83 % | 20.6 | — |
+| CN2M OA 10 | 3 | Construir o contrastar un modelo: Fuerza neta, leyes de Newt | 44 % | 50 % | 25.2 | — |
+| MU2M OA 06 | 3 | Ensayar una decisión musical: Evaluación musical y plan pers | 44 % | 83 % | 22.5 | — |
+| MA2M OA 08 | 5 | Comprobar y transferir: Seno, coseno y tangente en triángulo | 44 % | 83 % | 23.0 | — |
+| LE2M OA 12 | 6 | Editar, publicar y justificar: Escritura creativa y flexible | 45 % | 50 % | 21.9 | — |
+| LE2M OA 18 | 4 | Escribir un primer desarrollo: Ortografía y puntuación al se | 45 % | 71 % | 28.2 | — |
+| LE2M OA 22 | 1 | Escuchar o preparar con propósito: Exposición investigada y  | 46 % | 86 % | 23.1 | — |
+| HI2M OA 18 | 6 | Debatir consecuencias y límites: Constitución de 1980, cambi | 46 % | 67 % | 20.7 | — |
+| LE2M OA 13 | 5 | Revisar con evidencia de lectura: Escritura explicativa con  | 46 % | 100 % | 20.7 | — |
+| CN2M OA 01 | 6 | Evaluar límites, seguridad e implicancias: Sistema nervioso, | 47 % | 67 % | 20.1 | — |
+| CN2M OA 04 | 5 | Explicar mecanismos con evidencia: Fecundación, desarrollo e | 47 % | 50 % | 21.5 | — |
+| LE2M OA 20 | 5 | Comunicar ante una audiencia: Punto de vista, razonamiento y | 47 % | 17 % | 20.3 | — |
+| LE2M OA 05 | 6 | Formular una lectura propia: Drama, atmósfera y puesta en es | 47 % | 100 % | 25.4 | — |
+| IN2M OA 12 | 2 | Locate meaning and language evidence: Strategic reading befo | 48 % | 33 % | 22.6 | — |
+| HI2M OA 22 | 3 | Comparar perspectivas y escalas: Derechos humanos e instituc | 48 % | 100 % | 14.9 | respuesta «depende» en ejercicio cerrado |
+| HI2M OA 04 | 2 | Interrogar fuentes con procedencia: Posguerra, descolonizaci | 48 % | 86 % | 20.8 | — |
+| HI2M OA 04 | 3 | Comparar perspectivas y escalas: Posguerra, descolonización, | 48 % | 86 % | 20.6 | — |
+| LE2M OA 19 | 3 | Modelar una decisión comunicativa: Comprensión crítica de di | 49 % | 86 % | 20.8 | — |
+| LE2M OA 18 | 3 | Planificar decisiones: Ortografía y puntuación al servicio d | 50 % | 67 % | 23.2 | — |
+| LE2M OA 20 | 1 | Escuchar o preparar con propósito: Punto de vista, razonamie | 50 % | 71 % | 23.8 | — |
+| MA2M OA 10 | 2 | Representar patrones: Variables aleatorias finitas y distrib | 50 % | 50 % | 20.7 | — |
+| MU2M OA 03 | 1 | Escuchar y reconocer rasgos: Selección, interpretación y dir | 50 % | 57 % | 22.9 | — |
+| TE2M OA 05 | 1 | Definir necesidad, usuario y criterio: Innovaciones actuales | 50 % | 50 % | 20.1 | — |
+| LE2M OA 03 | 5 | Situar texto y contexto: Narraciones, personajes tipo y arqu | 51 % | 71 % | 22.3 | — |
+| LE2M OA 03 | 7 | Revisar y transferir: Narraciones, personajes tipo y arquite | 51 % | 83 % | 28.7 | respuesta «depende» en ejercicio cerrado |
+| LE2M OA 04 | 2 | Localizar evidencias decisivas: Poesía, soneto, símbolos y v | 51 % | 83 % | 19.0 | respuesta «depende» en ejercicio cerrado |
+| HI2M OA 18 | 2 | Interrogar fuentes con procedencia: Constitución de 1980, ca | 52 % | 67 % | 20.4 | — |
+| LE2M OA 08 | 6 | Formular una lectura propia: Interpretación literaria histór | 52 % | 62 % | 22.2 | — |
+| LE2M OA 05 | 5 | Situar texto y contexto: Drama, atmósfera y puesta en escena | 53 % | 71 % | 26.2 | — |
+| LE2M OA 05 | 7 | Revisar y transferir: Drama, atmósfera y puesta en escena | 53 % | 100 % | 25.4 | — |
+| LE2M OA 13 | 4 | Escribir un primer desarrollo: Escritura explicativa con pro | 53 % | 100 % | 31.0 | — |
+| MU2M OA 05 | 1 | Escuchar y reconocer rasgos: Improvisación, innovación y arr | 53 % | 43 % | 20.4 | — |
+| LE2M OA 14 | 4 | Escribir un primer desarrollo: Ensayo persuasivo, evidencia  | 53 % | 86 % | 21.7 | — |
+| HI2M OA 09 | 1 | Situar el problema y sus actores: Bienestar, consumo, derech | 54 % | 75 % | 20.5 | — |
+| TE2M OA 03 | 3 | Representar y planificar: Evaluación ética, legal, económica | 54 % | 71 % | 21.0 | — |
+| LE2M OA 14 | 6 | Editar, publicar y justificar: Ensayo persuasivo, evidencia  | 54 % | 86 % | 20.2 | — |
+| LE2M OA 07 | 3 | Analizar recursos y relaciones: Cuento latinoamericano moder | 55 % | 71 % | 22.7 | — |
+| LE2M OA 09 | 5 | Situar texto y contexto: Argumentación, modalizadores y fall | 56 % | 43 % | 13.1 | respuesta «depende» en ejercicio cerrado |
+| LE2M OA 10 | 7 | Revisar y transferir: Medios, persuasión y recursos multimod | 56 % | 83 % | 26.4 | — |
+| MU2M OA 05 | 4 | Interpretar, improvisar o crear: Improvisación, innovación y | 56 % | 67 % | 24.6 | — |
+| MU2M OA 01 | 1 | Escuchar y reconocer rasgos: Valoración crítica de músicas d | 57 % | 88 % | 22.4 | — |
+| MU2M OA 07 | 4 | Interpretar, improvisar o crear: Registro, transmisión y evo | 57 % | 57 % | 22.8 | — |
+| HI2M OA 01 | 4 | Relacionar causas, cambios y continuidades: Vanguardias y cu | 58 % | 100 % | 20.5 | — |
+| LE2M OA 12 | 5 | Revisar con evidencia de lectura: Escritura creativa y flexi | 59 % | 62 % | 20.7 | — |
+| HI2M OA 18 | 1 | Situar el problema y sus actores: Constitución de 1980, camb | 59 % | 67 % | 20.7 | — |
+| HI2M OA 18 | 3 | Comparar perspectivas y escalas: Constitución de 1980, cambi | 59 % | 83 % | 22.9 | — |
+| LE2M OA 06 | 4 | Contrastar interpretaciones: Siglo de Oro, obra y contexto | 60 % | 100 % | 23.9 | — |
+| LE2M OA 06 | 5 | Situar texto y contexto: Siglo de Oro, obra y contexto | 60 % | 100 % | 25.0 | — |
+| OR2M OA 03 | 2 | Distinguir hechos, derechos y límites: Evaluación de riesgos | 60 % | 75 % | 23.4 | — |
+| LE2M OA 04 | 6 | Formular una lectura propia: Poesía, soneto, símbolos y voz | 63 % | 67 % | 20.8 | — |
+| HI2M OA 20 | 4 | Relacionar causas, cambios y continuidades: Plebiscito, tran | 63 % | 78 % | 24.4 | — |
+| HI2M OA 14 | 1 | Situar el problema y sus actores: Crisis, polarización y qui | 64 % | 88 % | 26.0 | — |
+| LE2M OA 24 | 2 | Diseñar una búsqueda: Investigación sobre lenguaje y literat | 64 % | 100 % | 21.2 | — |
+| LE2M OA 01 | 5 | Situar texto y contexto: Trayectoria lectora autónoma y sost | 64 % | 71 % | 20.8 | — |
+| HI2M OA 22 | 1 | Situar el problema y sus actores: Derechos humanos e institu | 65 % | 71 % | 15.8 | respuesta «depende» en ejercicio cerrado |
+| LE2M OA 18 | 5 | Revisar con evidencia de lectura: Ortografía y puntuación al | 65 % | 71 % | 22.5 | — |
+| HI2M OA 17 | 1 | Situar el problema y sus actores: Modelo neoliberal y consec | 67 % | 100 % | 23.4 | — |
+| LE2M OA 01 | 2 | Localizar evidencias decisivas: Trayectoria lectora autónoma | 67 % | 71 % | 21.9 | — |
+| LE2M OA 16 | 5 | Revisar con evidencia de lectura: Estilo directo e indirecto | 67 % | 88 % | 20.1 | — |
+| LE2M OA 22 | 6 | Responder y ajustar: Exposición investigada y graduación de  | 67 % | 100 % | 20.4 | — |
+| TE2M OA 01 | 1 | Definir necesidad, usuario y criterio: Necesidades energétic | 67 % | 71 % | 21.9 | — |
+| HI2M OA 02 | 3 | Comparar perspectivas y escalas: Crisis liberal, Gran Depres | 68 % | 75 % | 21.8 | — |
+| CN2M OA 14 | 5 | Explicar mecanismos con evidencia: Gravitación, leyes de Kep | 70 % | 88 % | 21.7 | — |
+| IN2M OA 14 | 1 | Notice purpose and activate prior knowledge: Independent wri | 70 % | 40 % | 24.3 | — |
+| LE2M OA 24 | 6 | Comunicar resultados y límites: Investigación sobre lenguaje | 70 % | 83 % | 21.2 | — |
+| AR2M OA 04 | 1 | Observar contexto, lenguaje y propósito: Criterios estéticos | 71 % | 78 % | 20.7 | — |
+| LE2M OA 02 | 1 | Entrar al texto con propósito: Literatura, herencias cultura | 71 % | 100 % | 21.7 | — |
+| LE2M OA 12 | 2 | Investigar y seleccionar insumos: Escritura creativa y flexi | 71 % | 75 % | 21.1 | — |
+| HI2M OA 04 | 4 | Relacionar causas, cambios y continuidades: Posguerra, desco | 73 % | 100 % | 23.1 | — |
+| LE2M OA 06 | 1 | Entrar al texto con propósito: Siglo de Oro, obra y contexto | 73 % | 100 % | 23.7 | — |
+| CN2M OA 10 | 4 | Investigar relaciones entre variables: Fuerza neta, leyes de | 73 % | 100 % | 21.6 | — |
+| LE2M OA 04 | 7 | Revisar y transferir: Poesía, soneto, símbolos y voz | 74 % | 100 % | 21.9 | — |
+| CN2M OA 03 | 1 | Plantear una pregunta o problema: Sexualidad humana, dimensi | 74 % | 71 % | 23.9 | — |
+| TE2M OA 06 | 1 | Definir necesidad, usuario y criterio: Proyección de impacto | 74 % | 62 % | 18.5 | respuesta «depende» en ejercicio cerrado |
+| HI2M OA 10 | 5 | Construir una interpretación documentada: Revolución, reform | 74 % | 100 % | 13.4 | respuesta «depende» en ejercicio cerrado |
+| HI2M OA 01 | 1 | Situar el problema y sus actores: Vanguardias y cultura de m | 75 % | 83 % | 20.2 | — |
+| LE2M OA 18 | 1 | Reconocer género, propósito y audiencia: Ortografía y puntua | 75 % | 88 % | 21.5 | — |
+| LE2M OA 23 | 2 | Reconstruir ideas y recursos: Efectos lingüísticos, paraling | 75 % | 67 % | 21.7 | — |
+| CN2M OA 08 | 5 | Explicar mecanismos con evidencia: Manipulación genética, ap | 76 % | 86 % | 20.7 | — |
+| AR2M OA 06 | 1 | Observar contexto, lenguaje y propósito: Difusión artística  | 77 % | 88 % | 22.7 | — |
+| LE2M OA 01 | 4 | Contrastar interpretaciones: Trayectoria lectora autónoma y  | 79 % | 83 % | 20.2 | — |
+| LE2M OA 11 | 2 | Localizar evidencias decisivas: Textos no literarios para co | 80 % | 100 % | 26.3 | — |
+| LE2M OA 07 | 1 | Entrar al texto con propósito: Cuento latinoamericano modern | 82 % | 100 % | 20.5 | — |
+| LE2M OA 23 | 4 | Ensayar con retroalimentación: Efectos lingüísticos, paralin | 82 % | 80 % | 25.0 | — |
+| HI2M OA 14 | 4 | Relacionar causas, cambios y continuidades: Crisis, polariza | 82 % | 89 % | 21.4 | — |
+| HI2M OA 07 | 1 | Situar el problema y sus actores: Nuevos actores, cultura de | 85 % | 100 % | 21.1 | — |
+| OR2M OA 08 | 1 | Examinar un caso ficticio protegido: Iniciativas democrática | 86 % | 86 % | 20.1 | — |
+| LE2M OA 11 | 5 | Situar texto y contexto: Textos no literarios para contextua | 88 % | 100 % | 20.6 | — |
+| LE2M OA 11 | 1 | Entrar al texto con propósito: Textos no literarios para con | 89 % | 83 % | 21.1 | — |
+| LE2M OA 11 | 4 | Contrastar interpretaciones: Textos no literarios para conte | 89 % | 100 % | 21.5 | — |
+| HI2M OA 16 | 1 | Situar el problema y sus actores: Dictadura, supresión del E | 90 % | 75 % | 20.4 | — |
+| LE2M OA 23 | 5 | Comunicar ante una audiencia: Efectos lingüísticos, paraling | 100 % | 100 % | 16.2 | respuesta «depende» en ejercicio cerrado |
