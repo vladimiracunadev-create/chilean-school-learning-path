@@ -1,0 +1,137 @@
+"""Cuaderno del estudiante, Lengua y Literatura 3.º medio FG, OA 01 (interpretación literaria, recursos e intertextualidad), clases 1 a 3.
+
+Todos los textos son originales e inventados («de ejemplo»); cada ejercicio trae escritos los textos que usa.
+Las obras reales para practicar quedan para el docente.
+"""
+from __future__ import annotations
+
+from fg_leli_c_common import P
+
+OA = "FG-LELI-3M-OAC-01"
+
+CU = "«Mateo llegó al pueblo con una maleta vacía. Cada tarde, la vecina le dejaba pan en la puerta y él nunca preguntó quién lo enviaba. El día que se fue, dejó en el umbral de ella la maleta llena de piedras del río.»"
+
+# ------------------------------------------------------------------ clase 1
+P(OA, 1,
+  "Aprenderé a formular una hipótesis interpretativa sobre una obra, a apoyarla en huellas del texto y a revisarla cuando aparece nueva evidencia.",
+  ["Resumo un texto narrativo.", "Distingo un hecho del texto de una opinión personal."],
+  ["Interpretar una obra es proponer qué sentido tiene, más allá de lo que cuenta. Una hipótesis interpretativa es esa proposición: una idea sobre el sentido del texto que se apoya en huellas (palabras, acciones, imágenes) y que puede corregirse. No es un resumen, que cuenta lo que pasa, ni una opinión, que dice si el texto gustó o no. «Mateo deja piedras» es resumen; «no me gustó el final» es opinión.",
+   "Una hipótesis bien formulada tiene tres partes: una afirmación sobre el sentido, una o más huellas del texto que la respaldan y una razón que une ambas. Se redacta con prudencia, con verbos como «sugiere», «parece indicar» o «puede leerse como». Ese tono es una señal de que la hipótesis es revisable: si una huella nueva la contradice, se ajusta o se cambia.",
+   "Revisar no es fracasar, es el método del lector crítico. Primero lees y anotas huellas; luego formulas una hipótesis provisoria; después vuelves al texto a buscar lo que la respalda y lo que la complica. Si el texto muestra algo que tu idea no explica, la reformulas. Así tu interpretación queda anclada en la obra y no en tu estado de ánimo."],
+  [("interpretar", "proponer el sentido de una obra a partir de lo que dice y de cómo lo dice"), ("hipótesis interpretativa", "idea provisoria sobre el sentido de un texto, apoyada en huellas y revisable"), ("huella", "palabra, acción o imagen del texto que sirve de evidencia"), ("revisable", "que puede ajustarse si aparece nueva evidencia")],
+  [("Distinguir resumen, opinión e hipótesis", f"Texto de ejemplo: {CU} Clasifica «Mateo se va y deja piedras» y «Las piedras sugieren que Mateo devuelve lo recibido con lo que tiene a mano».",
+    ["Pregunto si la frase cuenta, valora o propone un sentido.", "La primera cuenta lo que ocurre: es un resumen.", "La segunda propone qué significan las piedras y se apoya en el pan recibido: es una hipótesis."],
+    "La primera es resumen; la segunda es hipótesis"),
+   ("Buscar la huella que respalda", "Hipótesis de ejemplo sobre otro cuento: «La protagonista evita su pasado». Huellas: (1) «Cruzó la calle para no pasar frente a su antigua escuela.» (2) «Compró pan y volvió a casa.» ¿Cuál huella la respalda?",
+    ["Busco la acción que muestre evitación.", "Cruzar la calle para no pasar frente a la escuela es evitar un lugar del pasado.", "Comprar pan es una acción neutra."],
+    "La huella 1")],
+  [("Formular como hipótesis lo que es solo un resumen.", "Contar lo que pasa no propone ningún sentido.", "Agrega una idea sobre qué significa lo que ocurre y apóyala en una huella."),
+   ("Defender una interpretación con «así lo siento».", "La reacción personal no es evidencia del texto.", "Cita una palabra o una acción del texto que respalde la idea.")],
+  [(f"Texto: {CU} ¿Cuál es una hipótesis interpretativa? A) El cuento sugiere que la gratitud puede expresarse sin palabras. B) Mateo llegó al pueblo con una maleta vacía y se fue dejándola llena.", "A) El cuento sugiere que la gratitud puede expresarse sin palabras.", "Propone un sentido; la otra frase solo repite un dato del texto."),
+   ("Una hipótesis interpretativa es revisable porque… A) puede ajustarse si aparece nueva evidencia B) cada lector puede cambiarla sin justificar", "A) puede ajustarse si aparece nueva evidencia", "Se corrige con razones del texto, no por capricho."),
+   ("Clasifica con R (resumen), O (opinión) o H (hipótesis): 1) «El texto narra un viaje en tren.» 2) «Me aburrió el comienzo.» 3) «El viaje sugiere un cambio de vida.» Responde con tres letras en orden.", "R, O, H", "Cuenta, valora y propone un sentido, respectivamente."),
+   (f"Hipótesis de ejemplo: «Mateo es una persona sin posesiones». Texto: {CU} ¿Qué huella la respalda? A) «llegó al pueblo con una maleta vacía» B) «nunca preguntó quién lo enviaba»", "A) «llegó al pueblo con una maleta vacía»", "La maleta vacía muestra que no trae bienes; la otra huella habla de su actitud."),
+   ("¿Qué redacción es más adecuada para una hipótesis? A) El poema parece indicar que la nostalgia se mezcla con alivio, porque el hablante celebra lo que pierde. B) El poema trata de la nostalgia y esa es la única lectura que puede aceptarse, sin discusión.", "A) El poema parece indicar que la nostalgia se mezcla con alivio, porque el hablante celebra lo que pierde.", "Es prudente y trae una razón; la otra cierra la discusión sin evidencia."),
+   ("Una estudiante escribe: «El cuento es sobre un pueblo y un hombre». ¿Qué le falta para que sea hipótesis? A) una idea sobre el sentido, apoyada en huellas B) más adjetivos para describir el pueblo", "A) una idea sobre el sentido, apoyada en huellas", "Describe el contenido, pero no propone qué significa."),
+   (f"Hipótesis de ejemplo: «La vecina cuida a Mateo sin esperar nada». Texto: {CU} Se agrega esta línea: «Cuando Mateo se fue, la vecina guardó una piedra en la repisa». ¿Qué efecto tiene la línea nueva? A) la refuerza, pues la vecina valora el gesto recibido B) la contradice, pues muestra que guarda rencor", "A) la refuerza, pues la vecina valora el gesto recibido", "Guardar la piedra muestra aprecio, coherente con un cuidado desinteresado."),
+   ("Alguien dice: «Mi hipótesis es que el cuento es triste porque a mí me dio pena». ¿Qué problema tiene? A) se apoya en su reacción y no en huellas del texto B) la tristeza no puede ser tema de un cuento", "A) se apoya en su reacción y no en huellas del texto", "Una hipótesis necesita evidencia del texto, no solo una emoción."),
+   ("Acabas de formular una hipótesis sobre un cuento. ¿Qué paso sigue? A) volver al texto a buscar lo que la respalda y lo que la complica B) copiarla en limpio y darla por cerrada, sin volver a leer", "A) volver al texto a buscar lo que la respalda y lo que la complica", "La revisión es parte del método."),
+   (f"Texto: {CU} H1: «La vecina es una figura de cuidado silencioso». H2: «El cuento critica la desconfianza hacia los forasteros». ¿Cuál tiene más respaldo en el texto? A) H1 B) H2", "A) H1", "El pan dejado cada tarde sin pedir nada respalda H1; el texto no muestra desconfianza."),
+   ("¿Qué verbo es más prudente para abrir una hipótesis? A) «sugiere» B) «demuestra sin lugar a dudas»", "A) «sugiere»", "Deja abierta la revisión si aparece otra evidencia."),
+   ("¿Cuál de estas hipótesis puede revisarse con el texto? A) «Las piedras funcionan como un pago simbólico.» B) «Todas las lecturas posibles deben coincidir con la mía.»", "A) «Las piedras funcionan como un pago simbólico.»", "Se puede contrastar con huellas; la otra no deja nada por comprobar."),
+   (f"Texto: {CU} Una lectora propone la hipótesis «Mateo es ingrato» porque se va sin despedirse. ¿Qué huella la complica? A) deja en el umbral la maleta llena de piedras del río, un gesto de devolución B) al llegar al pueblo no traía nada más que una maleta vacía", "A) deja en el umbral la maleta llena de piedras del río, un gesto de devolución", "Ese gesto sugiere agradecimiento y obliga a reformular la hipótesis.")],
+  (f"Texto: {CU} ¿Cuál es una hipótesis más sólida? A) Las piedras que deja Mateo sugieren que devuelve lo recibido con lo que tiene a mano. B) Las piedras son un adorno que Mateo deja porque le parecieron bonitas.", "A) Las piedras que deja Mateo sugieren que devuelve lo recibido con lo que tiene a mano.", "Se apoya en el pan recibido y en el gesto final."),
+  [("Una huella es… A) una palabra o acción del texto que sirve de evidencia B) la impresión general que el lector se forma después de leer", "A) una palabra o acción del texto que sirve de evidencia", "Está en el texto y se puede citar."),
+   ("Un resumen… A) cuenta lo que ocurre B) propone el sentido de la obra", "A) cuenta lo que ocurre", "No interpreta, solo relata."),
+   ("Una hipótesis revisable se ajusta cuando… A) aparece evidencia que no explica B) alguien la critica sin razones", "A) aparece evidencia que no explica", "El cambio se justifica con el texto.")],
+  ("Lee este cuento de ejemplo: «Julia cuidaba un limonero que nunca daba limones. Cada invierno lo cubría con una manta vieja. Cuando se mudó, se llevó una rama pequeña en una maceta.» Escribe: 1) una hipótesis interpretativa en una oración prudente, 2) dos huellas del texto que la respalden, 3) una huella o idea que podría complicarla.",
+   "1) El cuento sugiere que Julia cuida lo que no da frutos porque valora el vínculo más que el resultado. 2) «Cada invierno lo cubría con una manta vieja»; «se llevó una rama pequeña». 3) El limonero nunca daba limones: podría pensarse que Julia se aferra a algo inútil.",
+   ["hipótesis sobre el sentido y no resumen", "dos huellas citadas del texto", "una complicación pertinente", "tono prudente"], ["tres respuestas en el cuaderno"], ["resumir en vez de interpretar", "no citar huellas", "no considerar lo que la complica"],
+   "Subraya cada huella en el cuento y revisa que respalde tu idea."),
+  "Elige un texto breve que conozcas y escribe una hipótesis sobre su sentido con una huella.",
+  "Reformula una hipótesis tuya después de agregar una huella que la complique.")
+
+# ------------------------------------------------------------------ clase 2
+NAR = "«Yo no vi llegar a Mateo; lo supe por la maleta que apareció junto a su puerta. Dicen que era callado, pero a mí, que lo miraba pasar cada tarde, me hablaba con los pasos que no dio.»"
+VER = "«El reloj de la plaza nos miró sin prisa; / solo nosotros, bajo su sombra, / aprendimos a contar en voz baja / las tardes que no vuelven.»"
+
+P(OA, 2,
+  "Aprenderé a analizar cómo el narrador, los personajes, los tópicos literarios y el lenguaje (con sus figuras) construyen el sentido de una obra.",
+  ["Distingo narrador y autor.", "Reconozco metáforas y comparaciones."],
+  ["Los recursos literarios son las decisiones con que una obra construye su sentido. El narrador es la voz que cuenta: en primera persona dice «yo» y participa o presencia los hechos (narrador testigo si solo observa); en tercera persona cuenta desde fuera, y si conoce los pensamientos de todos se llama omnisciente. Un mismo hecho cambia de sentido según quién lo cuente y cuánto sepa. Los personajes se conocen por lo que hacen, dicen y callan.",
+   "Un tópico literario es un tema o motivo que se repite en muchas épocas y obras, como el paso del tiempo («tempus fugit», el tiempo vuela) o el aprovechar el presente («carpe diem»). Las figuras literarias son usos especiales del lenguaje: la metáfora identifica una cosa con otra («la tarde es una ceniza»); la comparación usa «como» o «parece»; la personificación da rasgos humanos a lo que no lo es; la antítesis opone ideas contrarias.",
+   "Analizar un recurso no es solo nombrarlo. Se nombra, se cita y se explica qué efecto o sentido aporta: «El narrador en primera persona es un vecino que solo infiere lo ocurrido; por eso el lector comparte su incertidumbre». Esa última parte, la explicación, es la que construye la interpretación."],
+  [("narrador testigo", "narrador en primera persona que cuenta lo que observa de otro personaje"), ("narrador omnisciente", "narrador en tercera persona que conoce los pensamientos de todos los personajes"), ("tópico literario", "tema o motivo que se repite a lo largo de la literatura, como el paso del tiempo"), ("personificación", "figura que atribuye rasgos humanos a lo que no es humano")],
+  [("Analizar un narrador", f"Fragmento de ejemplo: {NAR} ¿Qué tipo de narrador es y qué efecto produce?",
+    ["Veo el pronombre «yo»: narra en primera persona.", "El narrador no vio llegar a Mateo: lo supo por la maleta, solo lo observa pasar.", "Por eso el lector conoce a Mateo solo por inferencias."],
+    "Narrador testigo en primera persona; el lector conoce a Mateo solo por lo que el vecino infiere"),
+   ("Reconocer un tópico y una figura", f"Fragmento de ejemplo: {VER} ¿Qué tópico aparece y qué figura hay en «el reloj nos miró sin prisa»?",
+    ["Aprender a contar las tardes que no vuelven habla del paso del tiempo.", "El tópico es tempus fugit.", "Mirar es una acción humana atribuida a un reloj: personificación."],
+    "Tópico del paso del tiempo; personificación del reloj")],
+  [("Nombrar la figura y no explicar qué aporta.", "Un nombre no interpreta.", "Agrega la cita y el efecto sobre el sentido."),
+   ("Confundir al narrador con el autor.", "El narrador es una voz creada dentro del texto.", "Habla del «narrador» y no del «autor» al explicar cómo se cuenta.")],
+  [(f"En el fragmento {NAR} ¿qué pronombre muestra la primera persona? A) «yo» B) «Mateo»", "A) «yo»", "«Yo» señala que el narrador cuenta desde dentro; Mateo es otro personaje."),
+   ("La personificación consiste en… A) atribuir rasgos humanos a lo que no es humano B) comparar dos cosas distintas usando «como» o «parece»", "A) atribuir rasgos humanos a lo que no es humano", "La comparación es la figura que usa «como»."),
+   ("El tópico «carpe diem» invita a… A) aprovechar el presente B) lamentar el pasado", "A) aprovechar el presente", "Su idea central es vivir el momento."),
+   (f"En {VER} ¿qué tópico aparece? A) el paso del tiempo B) el amor imposible", "A) el paso del tiempo", "Hablar de «las tardes que no vuelven» remite al tiempo que se va."),
+   ("«Tu silencio es una puerta cerrada». ¿Qué figura es? A) metáfora B) comparación", "A) metáfora", "Identifica el silencio con una puerta sin usar «como»."),
+   ("«Tu silencio parece una puerta cerrada». ¿Qué figura es? A) comparación B) antítesis", "A) comparación", "Usa «parece» para unir silencio y puerta."),
+   (f"Fragmento: {NAR} ¿Qué efecto produce que el narrador solo infiera lo ocurrido? A) el lector comparte su incertidumbre sobre Mateo B) el lector sabe todo lo que piensa Mateo", "A) el lector comparte su incertidumbre sobre Mateo", "Si el narrador no ve los hechos, tampoco los ve el lector."),
+   ("Un narrador en tercera persona conoce lo que piensa cada personaje. ¿Cómo se llama? A) omnisciente B) testigo", "A) omnisciente", "El testigo solo cuenta lo que observa."),
+   ("Un análisis dice solamente: «Hay una metáfora». ¿Qué le falta para ser análisis? A) citar la metáfora y explicar qué sentido aporta B) agregar el nombre de otra figura que aparezca en el texto", "A) citar la metáfora y explicar qué sentido aporta", "Nombrar no basta: hay que explicar el efecto."),
+   ("«Estoy en paz y en guerra con mi casa vacía». ¿Qué figura opone ideas contrarias? A) antítesis B) personificación", "A) antítesis", "«Paz» y «guerra» se oponen."),
+   (f"Dos lecturas de {VER} L1: «El poema sugiere resignación ante el tiempo». L2: «El poema sugiere alegría por el paso del tiempo». ¿Cuál tiene más respaldo? A) L1, por «aprendimos a contar en voz baja las tardes que no vuelven» B) L2, por «el reloj nos miró sin prisa», que sugiere calma y gusto", "A) L1, por «aprendimos a contar en voz baja las tardes que no vuelven»", "La voz baja y las tardes que no vuelven transmiten aceptación melancólica; la otra cita no expresa alegría."),
+   ("Un poema dice: «El mar escucha, el muelle suspira». ¿Qué recurso predomina? A) personificación, porque el mar y el muelle actúan como personas B) antítesis, porque el mar y el muelle se oponen entre sí", "A) personificación, porque el mar y el muelle actúan como personas", "Escuchar y suspirar son acciones humanas atribuidas a cosas."),
+   ("Una estudiante dice que un personaje es egoísta porque «a mí me cae mal». ¿Qué falta? A) una acción o dicho del personaje que lo muestre B) una definición de «egoísmo» sacada del diccionario", "A) una acción o dicho del personaje que lo muestre", "Los personajes se conocen por lo que hacen, dicen y callan.")],
+  (f"Fragmento de ejemplo: {NAR} ¿Qué análisis explica el efecto de «con los pasos que no dio»? A) une una ausencia con un mensaje y sugiere una relación hecha de silencios que, aun así, comunica B) el verbo «dio» indica que Mateo regalaba cosas a la vecina cada tarde", "A) une una ausencia con un mensaje y sugiere una relación hecha de silencios que, aun así, comunica", "Hablar con pasos que no dio une ausencia y mensaje."),
+  [("El narrador testigo… A) cuenta lo que observa de otro personaje B) conoce todos los pensamientos", "A) cuenta lo que observa de otro personaje", "Su saber es limitado."),
+   ("Una figura literaria… A) crea imágenes o énfasis con el lenguaje B) corrige los errores de ortografía y puntuación de un texto", "A) crea imágenes o énfasis con el lenguaje", "Es un uso especial del lenguaje."),
+   ("Para analizar un recurso hay que… A) nombrarlo, citarlo y explicar su efecto B) nombrarlo y señalar en qué línea aparece", "A) nombrarlo, citarlo y explicar su efecto", "La explicación aporta a la interpretación.")],
+  ("Lee este fragmento de ejemplo: «Cuando mi abuelo cerró la tienda, la persiana cayó como un párpado cansado. Yo lo vi desde la esquina; él no miró atrás.» Escribe: 1) el tipo de narrador y una cita que lo muestre, 2) una figura con su cita, 3) una oración que explique qué aporta al sentido.",
+   "1) Narrador testigo en primera persona: «Yo lo vi desde la esquina». 2) Comparación: «cayó como un párpado cansado». 3) La comparación sugiere que el fin de la tienda es un cansancio acumulado, y el narrador, que solo mira, deja ver la distancia entre nieto y abuelo.",
+   ["identifica narrador con cita", "reconoce una figura con cita", "explica el efecto en el sentido"], ["tres respuestas en el cuaderno"], ["nombrar sin explicar", "confundir narrador y autor"],
+   "Revisa que cada cita esté tal como aparece en el fragmento."),
+  "Busca en algo que leas hoy una comparación o una metáfora y anótala con su efecto.",
+  "Reescribe el fragmento de la tienda con narrador en tercera persona y explica qué cambia.")
+
+# ------------------------------------------------------------------ clase 3
+CT = "«I. Ana barría la escuela vacía cada tarde. II. Un día encontró un cuaderno sin nombre y lo guardó. III. Durante meses le escribió a un autor desconocido sus dudas. IV. El último día dejó el cuaderno abierto sobre un pupitre y se fue sin mirar.»"
+
+P(OA, 3,
+  "Aprenderé a relacionar la forma de una obra, un pasaje y la obra completa para interpretar con coherencia.",
+  ["Formulo hipótesis interpretativas con huellas.", "Reconozco inicio, desarrollo y final de un relato."],
+  ["Un pasaje es un fragmento de una obra. Para interpretarlo hay que mirarlo de dos maneras: por sí solo (qué dice y cómo lo dice) y dentro de la totalidad (qué lugar ocupa en el conjunto). Un mismo pasaje puede tener sentidos distintos según el lugar que ocupe: el gesto de cerrar una puerta no significa lo mismo al principio de un relato que al final.",
+   "La forma es el modo en que la obra está organizada: partes o capítulos, orden de los hechos, repeticiones, cambios de voz, cantidad de versos o estrofas en un poema. La forma no es un adorno: participa del sentido. Si un cuento repite una acción al comienzo y al final, esa repetición pide ser explicada. Si un poema acorta sus versos al terminar, quizá imita un silencio.",
+   "Una buena interpretación es coherente con la totalidad. Si tu hipótesis explica un pasaje pero contradice otros, no es suficiente: hay que ajustarla. La pregunta guía es: ¿mi idea explica este pasaje y también el comienzo, el desarrollo y el final? Si la respuesta es no, vuelve a leer y reformula."],
+  [("pasaje", "fragmento de una obra"), ("totalidad", "la obra completa, considerada como conjunto"), ("forma", "modo en que la obra está organizada: partes, orden, repeticiones, versos"), ("coherencia", "relación sin contradicciones entre la interpretación y el conjunto de la obra")],
+  [("Situar un pasaje en la totalidad", f"Cuento de ejemplo: {CT} ¿Qué lugar ocupa el pasaje III y qué aporta?",
+    ["Ubico el pasaje: es el desarrollo.", "Muestra una relación que crece: durante meses le escribe sus dudas.", "Prepara el final, donde Ana deja el cuaderno abierto."],
+    "Es el desarrollo; muestra la relación a distancia que luego se cierra"),
+   ("Probar la coherencia", f"Cuento de ejemplo: {CT} Hipótesis: «Ana encuentra compañía en la escritura». ¿Explica los cuatro pasajes?",
+    ["Pasaje I: la soledad inicial. Pasaje II: el hallazgo. Pasaje III: la escritura sostenida.", "Pasaje IV: deja el cuaderno abierto para otro lector, como si compartiera esa compañía.", "La hipótesis calza con todos."],
+    "Sí, explica los cuatro pasajes")],
+  [("Interpretar un pasaje sin considerar el resto de la obra.", "Puede contradecir lo que ocurre después.", "Pregunta qué lugar ocupa y si tu idea explica el comienzo y el final."),
+   ("Tratar la forma como un adorno.", "La organización de la obra también construye el sentido.", "Observa repeticiones, orden y cambios de voz y explica su efecto.")],
+  [(f"En {CT} ¿qué pasaje funciona como inicio? A) I B) IV", "A) I", "Presenta a Ana y su rutina antes de que cambie algo."),
+   ("La totalidad de una obra es… A) la obra completa vista como conjunto B) el fragmento más importante", "A) la obra completa vista como conjunto", "Se opone a mirar un pasaje aislado."),
+   ("La forma de una obra incluye… A) partes, orden de los hechos y repeticiones B) únicamente el título y el nombre de la autora", "A) partes, orden de los hechos y repeticiones", "Son rasgos de organización."),
+   (f"Cuento: {CT} ¿Qué se repite entre el comienzo y el final? A) un gesto en la escuela: barrer al inicio, dejar el cuaderno en un pupitre al final B) un diálogo entre Ana y otro personaje, que aparece al comienzo y al final", "A) un gesto en la escuela: barrer al inicio, dejar el cuaderno en un pupitre al final", "Ambos pasajes ocurren en el mismo espacio escolar."),
+   ("Un poema tiene cuatro estrofas de cuatro versos y una última de un solo verso. ¿Qué rasgo de forma destaca? A) el verso final aislado B) el número de estrofas iguales", "A) el verso final aislado", "La ruptura de la regularidad llama la atención."),
+   ("Una lectora interpreta un gesto de despedida sin haber leído el final. ¿Qué riesgo corre? A) que el final lo contradiga B) que el gesto sea demasiado corto", "A) que el final lo contradiga", "Sin la totalidad, el sentido puede ser parcial."),
+   (f"Cuento: {CT} Hipótesis: «Ana se vuelve hostil con los demás». ¿Qué pasaje la complica más? A) IV, porque deja el cuaderno abierto para otro lector B) I, porque barre la escuela vacía, sola", "A) IV, porque deja el cuaderno abierto para otro lector", "Ese gesto es de apertura, no de hostilidad."),
+   ("En un cuento, una puerta se cierra con fuerza al comienzo y queda entreabierta al final. ¿Qué relación puede interpretarse? A) un cambio en la actitud del personaje B) una descripción del clima", "A) un cambio en la actitud del personaje", "El mismo objeto cambia de estado y sugiere evolución."),
+   ("Un estudiante dice: «Este pasaje es triste, así que el cuento es triste». ¿Qué falla? A) toma un pasaje por la obra completa B) un pasaje no puede ser triste", "A) toma un pasaje por la obra completa", "Falta revisar si el resto confirma esa interpretación."),
+   (f"Cuento: {CT} ¿Qué cambia entre el pasaje I y el IV en la relación de Ana con otras personas? A) pasa de la soledad a una apertura hacia un lector desconocido B) pasa de la amistad con sus compañeros a la soledad", "A) pasa de la soledad a una apertura hacia un lector desconocido", "Barre sola al comienzo; al final deja el cuaderno para otro."),
+   ("Una hipótesis explica el pasaje 1 y el 3, pero contradice el 2. ¿Qué conviene hacer? A) reformularla para que explique también el 2 B) omitir el pasaje 2, que no calza con la idea", "A) reformularla para que explique también el 2", "La coherencia exige explicar el conjunto."),
+   (f"Cuento: {CT} H1: «El cuaderno simboliza una conversación que se hereda». H2: «El cuaderno simboliza el miedo a la escuela». ¿Cuál es más coherente con la totalidad? A) H1, por II, III y IV B) H2, por I", "A) H1, por II, III y IV", "El cuaderno se encuentra, se usa para conversar y se deja para otro."),
+   ("Un poema acorta sus versos hacia el final hasta dejar uno de una sola palabra. Una lectora dice que imita un silencio. ¿Qué evidencia de forma la respalda? A) la reducción progresiva de los versos B) la rima de los versos pares", "A) la reducción progresiva de los versos", "La forma apoya la idea de que el poema se va apagando.")],
+  (f"Cuento: {CT} Quieres interpretar solo el pasaje IV. ¿Qué conviene hacer primero? A) relacionarlo con el pasaje I, donde Ana barre sola, para ver qué cambió B) buscar otro cuento con un final parecido y compararlos", "A) relacionarlo con el pasaje I, donde Ana barre sola, para ver qué cambió", "La interpretación del final depende del punto de partida."),
+  [("Un pasaje es… A) un fragmento de la obra B) la obra completa", "A) un fragmento de la obra", "La totalidad es la obra completa."),
+   ("La coherencia pide que mi hipótesis… A) no contradiga otros pasajes B) se base solo en el final", "A) no contradiga otros pasajes", "Debe explicar el conjunto."),
+   ("Una repetición en un cuento… A) puede aportar sentido B) siempre es un error", "A) puede aportar sentido", "La forma participa del significado.")],
+  ("Lee este cuento de ejemplo: «I. Tomás plantaba tomates en un patio sin sol. II. Los tomates no maduraban, pero él los regaba igual. III. Un vecino le regaló una maceta con flores y Tomás la puso al fondo, donde llegaba la luz. IV. Esa tarde, por primera vez, abrió la ventana.» Escribe: 1) una hipótesis, 2) cómo la respalda el pasaje I y cómo el IV, 3) una repetición o cambio de forma que observes.",
+   "1) El cuento sugiere que Tomás aprende a aceptar ayuda y luz. 2) En I trabaja solo en un patio sin sol; en IV abre la ventana, gesto de apertura. 3) Se repite el tema de la luz: patio sin sol al comienzo, luz de la maceta y ventana abierta al final.",
+   ["hipótesis coherente", "relaciona dos pasajes", "observa un rasgo de forma"], ["tres respuestas en el cuaderno"], ["interpretar un solo pasaje", "no explicar el cambio"],
+   "Comprueba que tu hipótesis explique los cuatro pasajes."),
+  "Elige una escena de un relato que conozcas y explica qué lugar ocupa en la historia.",
+  "Escribe un cuento de cuatro pasajes breves y una hipótesis que los explique.")

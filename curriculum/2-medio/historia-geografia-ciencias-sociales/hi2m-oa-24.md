@@ -177,7 +177,7 @@ Respuesta: 1.000 hogares
 *Autoevaluación*
 
 - **E1.** ¿Qué es un desafío pendiente?
-- **E2.** ¿Qué es una política pública?
+- **E2.** En Historia: ¿Qué es una política pública?
 - **E3.** En 2.000 hogares de ejemplo el 15 % vive en pobreza. ¿Cuántos hogares son?
 
 **Actividad abierta.** Dibuja una tabla con tres columnas: desafío, deber del Estado y qué puede hacer una persona. Completa dos filas con estos desafíos: (a) desarrollo sustentable; (b) derechos de los grupos discriminados. Ficha 1 (desafíos de ejemplo; las cifras son de ejemplo y no son datos reales de Chile). Desafíos pendientes que suelen discutirse en el país: (1) reducir la pobreza y la desigualdad; (2) garantizar los derechos de los grupos discriminados; (3) lograr un desarrollo sustentable, que satisface las necesidades de hoy sin comprometer las de las generaciones futuras; (4) perfeccionar el sistema político; (5) fortalecer la relación con los países vecinos. Actores: el Estado, que tiene deberes; las empresas; las organizaciones sociales; las familias; cada persona. Dato de ejemplo: en una región ficticia el 20 % de 5.000 hogares vive en pobreza.

@@ -61,7 +61,7 @@ def check_module(name: str) -> list[str]:
             key = item["q"].strip().lower()
             if key in seen and seen[key] != (oa_code, number):
                 other = seen[key]
-                same_subject = other[0].split()[0][:2] == oa_code.split()[0][:2]
+                same_subject = validator.subject_of(other[0]) == validator.subject_of(oa_code)
                 if not same_subject:
                     errors.append(f"{oa_code} clase {number}: enunciado idéntico a {other}: {item['q'][:50]}")
             seen[key] = (oa_code, number)
@@ -75,7 +75,7 @@ def missing(subject_path: str) -> list[str]:
     gaps = []
     for path in sorted((ROOT / "curriculum" / level / subject).glob("*.md")):
         text = path.read_text(encoding="utf-8")
-        match = re.match(r"# (\S+ OA [A-Z]*\s?\d+) ", text)
+        match = re.match(r"# (\S+ OA [A-Z]*\s?\d+) ", text) or re.match(r"# (FG-\S+-OAC-\d+) ", text)
         if not match or re.search(r"OA[HA] ", text.split("\n")[0]):
             continue
         code = match.group(1)

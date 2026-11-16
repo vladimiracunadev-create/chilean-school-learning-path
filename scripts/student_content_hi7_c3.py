@@ -223,7 +223,7 @@ build(
     ],
     T=[
         ("En Historia: ¿qué es una propuesta fundamentada?", "Una solución apoyada en evidencia, con responsables y límites", "No es una opinión sin datos."),
-        ("¿Qué es un indicador?", "Un dato que se mide para saber si una medida funcionó", "Permite evaluar la propuesta."),
+        ("En Historia: ¿Qué es un indicador?", "Un dato que se mide para saber si una medida funcionó", "Permite evaluar la propuesta."),
         ("Nombra las cinco partes de una propuesta fundamentada.", "Problema, evidencia, medida, responsables y límites", "Son las partes de la explicación."),
         ("¿Cuál frase es más precisa? A) «Hay muchísimo humo», B) «En el invierno pasado hubo 35 días con humo denso en la comuna, según el informe municipal».", "B", "Da cifra, período y fuente."),
         ("Un problema es el humo de leña húmeda. ¿Qué medida es coherente? A) enseñar a secar la leña y apoyar la compra de leña seca, B) limpiar más seguido las veredas.", "A", "Ataca la causa."),

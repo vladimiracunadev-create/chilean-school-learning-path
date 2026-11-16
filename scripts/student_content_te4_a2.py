@@ -177,7 +177,7 @@ reg(
     ],
     ctx=("Plan para un lapicero: A) pegar el tubo a la base, B) cortar la base, C) cortar el tubo, D) probar que el tubo queda parado, E) decorar. Escribe un orden que funcione y señala el punto de control.", "B, C, A, D, E. Punto de control: D, antes de decorar", "Primero cortes, luego unir, probar y decorar."),
     sc=[
-        ("¿Qué es una dependencia entre tareas?", "Una tarea que necesita que otra esté hecha antes", "Marca el orden de las tareas."),
+        ("En Tecnología: ¿Qué es una dependencia entre tareas?", "Una tarea que necesita que otra esté hecha antes", "Marca el orden de las tareas."),
         ("¿Para qué sirve un punto de control?", "Para revisar antes de seguir", "Evita rehacer todo al final."),
         ("¿Dos tareas independientes se pueden hacer a la vez?", "Sí", "No dependen una de la otra."),
     ],

@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 7644 de 8.841 clases desarrolladas tienen cuaderno del estudiante (86,5 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 8605 de 8.841 clases desarrolladas tienen cuaderno del estudiante (97,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -22,8 +22,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 8.º básico | 771 | 728 | 43 | en curso | 430 | 12.404 | 1.456 | pendiente |
 | 1.º medio | 753 | 753 | 0 | completo | 456 | 12.857 | 1.506 | pendiente |
 | 2.º medio | 744 | 744 | 0 | completo | 456 | 12.678 | 1.488 | pendiente |
-| 3.º medio | 495 | 0 | 495 | sin iniciar | 0 | 0 | 0 | pendiente |
-| 4.º medio | 466 | 0 | 466 | sin iniciar | 0 | 0 | 0 | pendiente |
+| 3.º medio | 495 | 495 | 0 | completo | 0 | 8.415 | 990 | pendiente |
+| 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -463,6 +463,195 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | ingles-propuesta | EN2M OA 11 | 5 | 5 | 85 | 10 |
 | 2.º medio | ingles-propuesta | EN2M OA 12 | 5 | 5 | 85 | 10 |
 | 2.º medio | ingles-propuesta | EN2M OA 13 | 6 | 6 | 102 | 12 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio | artes-visuales | FG-ARTE-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 4.º medio | artes-visuales | FG-ARTE-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 3.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio | chile-region-latinoamericana | FG-CHLA-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio | ambiente-sostenibilidad | FG-CIAS-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio | ambiente-sostenibilidad | FG-CIAS-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio | ambiente-sostenibilidad | FG-CIAS-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio | ambiente-sostenibilidad | FG-CIAS-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio | ambiente-sostenibilidad | FG-CIAS-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | ambiente-sostenibilidad | FG-CIAS-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | bienestar-salud | FG-CIBS-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 4.º medio | bienestar-salud | FG-CIBS-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 3.º medio | bienestar-salud | FG-CIBS-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio | bienestar-salud | FG-CIBS-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | bienestar-salud | FG-CIBS-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio | bienestar-salud | FG-CIBS-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio | seguridad-prevencion-autocuidado | FG-CISA-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 4.º medio | seguridad-prevencion-autocuidado | FG-CISA-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 3.º medio | seguridad-prevencion-autocuidado | FG-CISA-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio | seguridad-prevencion-autocuidado | FG-CISA-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio | seguridad-prevencion-autocuidado | FG-CISA-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio | seguridad-prevencion-autocuidado | FG-CISA-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio | tecnologia-sociedad | FG-CITS-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio | tecnologia-sociedad | FG-CITS-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio | tecnologia-sociedad | FG-CITS-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio | tecnologia-sociedad | FG-CITS-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | tecnologia-sociedad | FG-CITS-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | tecnologia-sociedad | FG-CITS-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | danza | FG-DANZ-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | danza | FG-DANZ-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | danza | FG-DANZ-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio | danza | FG-DANZ-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio | danza | FG-DANZ-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | danza | FG-DANZ-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | danza | FG-DANZ-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio | danza | FG-DANZ-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio | danza | FG-DANZ-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | danza | FG-DANZ-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio | danza | FG-DANZ-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio | danza | FG-DANZ-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-ciudadana-3-medio | FG-ECIU-3M-OAC-08 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-06 | 6 | 6 | 102 | 12 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-ciudadana-4-medio | FG-ECIU-4M-OAC-08 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 4.º medio | educacion-fisica-salud-1 | FG-EFS1-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 3.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 4.º medio | educacion-fisica-salud-2 | FG-EFS2-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 3.º medio | filosofia-3-medio | FG-FILO-3M-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-3-medio | FG-FILO-3M-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | filosofia-3-medio | FG-FILO-3M-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-3-medio | FG-FILO-3M-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-3-medio | FG-FILO-3M-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-3-medio | FG-FILO-3M-OAC-06 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-05 | 6 | 6 | 102 | 12 |
+| 4.º medio | filosofia-4o-medio | FG-FILO-4M-OAC-05 | 6 | 6 | 102 | 12 |
+| 3.º medio | ingles-3o-medio | FG-INGL-3M-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | ingles-3o-medio | FG-INGL-3M-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | ingles-3o-medio | FG-INGL-3M-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio | ingles-3o-medio | FG-INGL-3M-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio | ingles-4o-medio | FG-INGL-4M-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | ingles-4o-medio | FG-INGL-4M-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio | ingles-4o-medio | FG-INGL-4M-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio | ingles-4o-medio | FG-INGL-4M-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-01 | 6 | 6 | 102 | 12 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-03 | 7 | 7 | 119 | 14 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-04 | 7 | 7 | 119 | 14 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-05 | 7 | 7 | 119 | 14 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-06 | 7 | 7 | 119 | 14 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-07 | 7 | 7 | 119 | 14 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-08 | 6 | 6 | 102 | 12 |
+| 3.º medio | lengua-literatura-3o-medio | FG-LELI-3M-OAC-09 | 6 | 6 | 102 | 12 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-01 | 6 | 6 | 102 | 12 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-03 | 7 | 7 | 119 | 14 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-04 | 7 | 7 | 119 | 14 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-05 | 7 | 7 | 119 | 14 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-06 | 7 | 7 | 119 | 14 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-07 | 6 | 6 | 102 | 12 |
+| 4.º medio | lengua-literatura-4o-medio | FG-LELI-4M-OAC-08 | 7 | 7 | 119 | 14 |
+| 3.º medio | matematica-3o-medio | FG-MATE-3M-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | matematica-3o-medio | FG-MATE-3M-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio | matematica-3o-medio | FG-MATE-3M-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | matematica-3o-medio | FG-MATE-3M-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio | matematica-4o-medio | FG-MATE-4M-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | matematica-4o-medio | FG-MATE-4M-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio | matematica-4o-medio | FG-MATE-4M-OAC-03 | 5 | 5 | 86 | 10 |
+| 4.º medio | matematica-4o-medio | FG-MATE-4M-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 3.º medio | mundo-global | FG-MGLO-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio | mundo-global | FG-MGLO-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio | musica | FG-MUSI-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 4.º medio | musica | FG-MUSI-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 3.º medio | teatro | FG-TEAT-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio | teatro | FG-TEAT-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio | teatro | FG-TEAT-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio | teatro | FG-TEAT-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio | teatro | FG-TEAT-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio | teatro | FG-TEAT-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio | teatro | FG-TEAT-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio | teatro | FG-TEAT-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio | teatro | FG-TEAT-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio | teatro | FG-TEAT-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio | teatro | FG-TEAT-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio | teatro | FG-TEAT-3y4-OAC-06 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 03 | 4 | 4 | 68 | 8 |
@@ -1628,6 +1817,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1676 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1692 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

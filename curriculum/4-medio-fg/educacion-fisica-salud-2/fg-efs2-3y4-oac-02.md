@@ -60,11 +60,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Juego reducido tres contra tres, tablero magnético, zonas de apoyo y reglas de contacto; pausas breves para observar antes de un segundo intento.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, fichas y datos están escritos en cada ejercicio (son inventados «de ejemplo» para este cuaderno); no necesitas video ni internet. Si tu docente organiza práctica, usa un espacio despejado, ropa y calzado cómodos, agua a mano y balones blandos o implementos livianos, sin cargas máximas, sin retener la respiración ni exigir el cuerpo al límite. Haz siempre un calentamiento general antes y un enfriamiento después, con pausas. Ante dolor, mareo o malestar, detente y avisa a una persona adulta. Nadie comenta ni compara los cuerpos de otras personas. La prueba del habla, la escala de esfuerzo de 1 a 10 con zona de 4 a 6, las duraciones y la referencia de una hora diaria de actividad son orientaciones generales de ejemplo, no indicaciones personales ni médicas.
 
-**Consigna exacta:** Practica «diagnosticar de forma privada y segura: organización de estrategias y tácticas para un juego inteligente»: elige una variante segura, realiza dos intentos, registra una decisión motriz y ajusta solo una condición según una señal corporal, espacial o reglamentaria.
+**Consigna exacta:** Imagina un juego de 3 contra 3 con una pelota blanda en un patio, sin contacto. Define tres roles, anota una estrategia de tres reglas y registra de ejemplo 10 pases (cuántos completos y por qué fallaron los otros). Elige la causa más frecuente y propón un criterio de decisión. Detente ante dolor o mareo y avisa a una persona adulta.
 
-**Referencia para modelar y corregir:** Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo.
+**Referencia para modelar y corregir:** Roles: organizadora, apoyo y profundidad. Estrategia: rotar roles cada 4 minutos, mirar primero a una compañera libre y jugar sin contacto. Registro: 7 de 10 completos; de 3 fallos, 2 fueron hacia compañeras marcadas. Criterio: mirar la marca antes de pasar.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Roles: organizadora, apoyo y profundidad. Estrategia: rotar roles cada 4 minutos, mirar primero a una compañera libre y jugar sin contacto. Registro: 7 de 10 completos; de 3 fallos, 2 fueron hacia compañeras marcadas. Criterio: mirar la marca antes de pasar. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -88,6 +88,132 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a diagnosticar un juego colectivo: leer el espacio, el tiempo, a las compañeras y a las rivales, distinguir estrategia de táctica y detectar con datos qué decisión del equipo conviene mejorar.
+
+**Lo que ya debo saber.** Sé que cada decisión motriz se elige según la situación. Sé registrar aciertos sobre intentos. Sé que el registro es respetuoso y no compara cuerpos.
+
+**Explicación.**
+
+Un juego inteligente es aquel en que las personas deciden con información: miran el espacio libre, el tiempo que tienen, dónde están sus compañeras y qué hacen las rivales, y luego eligen qué hacer. No gana por fuerza ni por velocidad, sino por tomar buenas decisiones. Diagnosticar un juego es observarlo con datos para saber qué decisiones se repiten y cuáles conviene cambiar.
+
+La estrategia es el plan general que el equipo acuerda antes de jugar (por ejemplo, rotar los roles cada cierto tiempo y buscar siempre el espacio libre). La táctica es la decisión del momento: ante esta situación concreta, ¿apoyo, me desmarco o cambio de lado? La estrategia orienta, la táctica resuelve. Cada persona tiene un rol (organizadora, apoyo, profundidad) con tareas distintas, y los roles se rotan para que todas jueguen todos.
+
+Un diagnóstico con datos usa cifras simples: pases completos sobre intentados y la causa de los pases fallidos. Si 4 de 8 pases fallidos fueron hacia una compañera marcada, el problema no es la fuerza del pase, sino la lectura del juego. El diagnóstico describe decisiones, no personas ni cuerpos. Se juega sin contacto, con calentamiento y pausas; ante dolor, mareo o malestar se detiene y se avisa a una persona adulta.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| juego inteligente | juego en que se decide leyendo el espacio, el tiempo, a compañeras y a rivales |
+| estrategia | plan general acordado antes del juego |
+| táctica | decisión que se toma durante el juego según la situación |
+| rol | tarea que una persona cumple en el equipo |
+| espacio libre | zona de la cancha sin rivales cerca |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Calcular el porcentaje de pases completos*
+
+Problema: Con los datos de ejemplo, ¿qué porcentaje de pases fue completo?
+
+1. Pases completos: 12 de 20 intentados.
+2. Porcentaje: 12 ÷ 20 × 100 = 60.
+
+Respuesta: 60 % de pases completos
+
+*Ejemplo 2. Encontrar la causa dominante de los fallos*
+
+Problema: De los 8 pases fallidos, 4 fueron hacia una compañera marcada. ¿Qué proporción es y qué sugiere?
+
+1. La proporción es 4 de 8, es decir 50 %: la mitad de los fallos tiene la misma causa.
+2. Sugiere trabajar la lectura del juego: buscar compañeras sin marca antes de pasar.
+
+Respuesta: 4 de 8 fallos (la mitad): conviene mejorar la lectura del espacio libre
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Culpar a la persona que falló el pase: «fue su culpa». **Por qué ocurre:** Habla del cuerpo o de la persona y no de la decisión que se puede cambiar. **Cómo corregirlo:** Describe la decisión: «pasó hacia una compañera con marca encima».
+- **Error:** Confundir estrategia con táctica y decir que el plan previo resuelve cada jugada. **Por qué ocurre:** El plan orienta, pero cada situación exige una decisión del momento. **Cómo corregirlo:** Usa la estrategia como guía y decide la táctica según lo que ocurre.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Educación Física, ¿qué distingue a un juego inteligente? A) Se decide leyendo el espacio, el tiempo, a compañeras y a rivales antes de actuar B) Se gana siempre porque se juega con mucha más fuerza y velocidad que el resto C) Se repite la misma jugada ensayada sin mirar lo que hacen las rivales
+- **R2.** Ficha 1 (partido de ejemplo, inventado). Juego de 4 contra 4 con disco blando, en una cancha de 30 por 20 metros, sin contacto físico y sin eliminar a nadie. Cada equipo tiene tres roles que rotan: organizadora (reparte el juego), apoyo (se ofrece cerca de quien tiene el disco) y profundidad (se ofrece lejos, hacia el espacio libre). Datos del primer partido de ejemplo de un equipo: 20 pases intentados, 12 completos; de los 8 pases fallidos, 4 fueron hacia una compañera que tenía una marca encima. Estrategia: plan general acordado antes del juego. Táctica: decisión que se toma durante el juego según la situación. ¿Qué rol se ofrece lejos, hacia el espacio libre? A) Apoyo B) Profundidad C) Organizadora
+- **R3.** ¿Cuál es la diferencia entre estrategia y táctica? A) La estrategia es el plan acordado antes; la táctica es la decisión del momento B) La estrategia es la decisión del momento y la táctica es el plan previo C) Son lo mismo y se pueden usar sin distinción en cualquier juego colectivo, según lo que diga la entrenadora
+
+*Comprensión*
+
+- **C1.** Ficha 1 (partido de ejemplo, inventado). Juego de 4 contra 4 con disco blando, en una cancha de 30 por 20 metros, sin contacto físico y sin eliminar a nadie. Cada equipo tiene tres roles que rotan: organizadora (reparte el juego), apoyo (se ofrece cerca de quien tiene el disco) y profundidad (se ofrece lejos, hacia el espacio libre). Datos del primer partido de ejemplo de un equipo: 20 pases intentados, 12 completos; de los 8 pases fallidos, 4 fueron hacia una compañera que tenía una marca encima. Estrategia: plan general acordado antes del juego. Táctica: decisión que se toma durante el juego según la situación. ¿Qué porcentaje de los pases intentados falló por una causa distinta de pasar a una compañera marcada?
+- **C2.** Ficha 1 (partido de ejemplo, inventado). Juego de 4 contra 4 con disco blando, en una cancha de 30 por 20 metros, sin contacto físico y sin eliminar a nadie. Cada equipo tiene tres roles que rotan: organizadora (reparte el juego), apoyo (se ofrece cerca de quien tiene el disco) y profundidad (se ofrece lejos, hacia el espacio libre). Datos del primer partido de ejemplo de un equipo: 20 pases intentados, 12 completos; de los 8 pases fallidos, 4 fueron hacia una compañera que tenía una marca encima. Estrategia: plan general acordado antes del juego. Táctica: decisión que se toma durante el juego según la situación. Cuatro de los ocho pases fallidos fueron hacia una compañera marcada. ¿Qué decisión del equipo conviene diagnosticar como débil? A) La lectura del juego: elegir a quién pasar según la marca B) La fuerza del pase, porque faltó potencia en todos C) La resistencia física, porque el equipo se cansó antes del final del partido
+- **C3.** Un comentario del equipo dice: «Perdimos el disco por culpa de Sofía». ¿Cómo se reformula como diagnóstico? A) Sofía no debería jugar de organizadora, porque no tiene el ritmo del resto del equipo B) Pasó el disco hacia una compañera con marca encima y se perdió C) Sofía necesita entrenar el doble que las demás para alcanzar a las rivales
+
+*Aplicación*
+
+- **A1.** Antes del partido el equipo acuerda rotar los roles cada 4 minutos. ¿Eso es una estrategia o una táctica? A) Ninguna, porque rotar roles no es parte de un juego B) Una táctica, porque se aplica durante todo el partido y no solo al comienzo C) Una estrategia, porque es un plan acordado antes de jugar
+- **A2.** Ficha 1 (partido de ejemplo, inventado). Juego de 4 contra 4 con disco blando, en una cancha de 30 por 20 metros, sin contacto físico y sin eliminar a nadie. Cada equipo tiene tres roles que rotan: organizadora (reparte el juego), apoyo (se ofrece cerca de quien tiene el disco) y profundidad (se ofrece lejos, hacia el espacio libre). Datos del primer partido de ejemplo de un equipo: 20 pases intentados, 12 completos; de los 8 pases fallidos, 4 fueron hacia una compañera que tenía una marca encima. Estrategia: plan general acordado antes del juego. Táctica: decisión que se toma durante el juego según la situación. Si en el segundo partido de ejemplo el equipo intenta 25 pases y completa 18, ¿cuántos puntos porcentuales subió el porcentaje de pases completos respecto del primer partido?
+- **A3.** La organizadora tiene el disco y ve a una compañera libre a 10 metros y a otra marcada a 3. ¿Cuál es la decisión más inteligente? A) Pasar a la compañera marcada, porque está más cerca y es un pase seguro B) Pasar a la compañera libre, aunque esté más lejos C) Esperar a que se desmarque la marcada sin mover el disco
+
+*Razonamiento y análisis*
+
+- **Z1.** Un equipo ganó 5 a 3, pero 6 de sus 9 pases fallidos fueron hacia compañeras marcadas. ¿Qué lectura es más completa? A) Como hubo fallos, el equipo en realidad perdió, aunque el marcador diga otra cosa B) Como ganó, no hay nada que diagnosticar ni mejorar en las decisiones C) Ganar no prueba que decidió bien: el diagnóstico de los pases muestra una decisión por mejorar
+- **Z2.** Una compañera siente un tirón en la pierna durante el juego. ¿Qué corresponde? A) Pedirle que se quede quieta en una esquina de la cancha hasta el final del partido B) Detener el juego para ella, dejarla descansar y avisar a una persona adulta C) Seguir jugando, porque el tirón desaparece si se calienta más con el juego y se evita parar al equipo
+
+*Desafío*
+
+- **D1.** Ficha 1 (partido de ejemplo, inventado). Juego de 4 contra 4 con disco blando, en una cancha de 30 por 20 metros, sin contacto físico y sin eliminar a nadie. Cada equipo tiene tres roles que rotan: organizadora (reparte el juego), apoyo (se ofrece cerca de quien tiene el disco) y profundidad (se ofrece lejos, hacia el espacio libre). Datos del primer partido de ejemplo de un equipo: 20 pases intentados, 12 completos; de los 8 pases fallidos, 4 fueron hacia una compañera que tenía una marca encima. Estrategia: plan general acordado antes del juego. Táctica: decisión que se toma durante el juego según la situación. En un segundo partido de ejemplo, de 10 pases fallidos solo 2 fueron hacia compañeras marcadas. ¿Cuántos puntos porcentuales bajó la proporción de fallos hacia marcadas respecto del primer partido?
+- **D2.** En el segundo partido el porcentaje de pases completos subió, pero hubo 3 faltas por empujar (contacto prohibido). ¿Qué conclusión es la más adecuada? A) El resultado manda: si los pases mejoraron, las faltas no importan para el diagnóstico B) Mejoró la lectura del juego, pero el juego limpio sigue pendiente y debe trabajarse como acuerdo del equipo C) Hay que prohibir los pases cortos para evitar nuevas faltas durante el partido y el contacto
+
+*Situaciones auténticas*
+
+- **S1.** En un partido de ejemplo con disco, el equipo A hace 20 pases, completa 12 y pierde 4 por pasar a compañeras marcadas. Luego decide que en el próximo partido cada persona mirará primero si hay una compañera libre. ¿Qué es esa decisión? A) Una forma de evitar los pases, porque jugar sin pasar es más seguro y evita las pérdidas B) Un castigo para quienes fallaron, porque se les obliga a mirar más antes de pasar el disco C) Una estrategia: un criterio de decisión acordado antes, que luego se aplica con tácticas en cada jugada
+
+*Autoevaluación*
+
+- **E1.** En Educación Física: ¿qué es la estrategia de un equipo?
+- **E2.** ¿Qué es la táctica?
+- **E3.** ¿Se evalúa el cuerpo de una compañera en un diagnóstico de juego?
+
+**Actividad abierta.** Imagina un juego de 3 contra 3 con una pelota blanda en un patio, sin contacto. Define tres roles, anota una estrategia de tres reglas y registra de ejemplo 10 pases (cuántos completos y por qué fallaron los otros). Elige la causa más frecuente y propón un criterio de decisión. Detente ante dolor o mareo y avisa a una persona adulta.
+
+**Solucionario razonado**
+
+- **R1.** A) Se decide leyendo el espacio, el tiempo, a compañeras y a rivales antes de actuar. La inteligencia de juego es decidir con información de la situación, no fuerza ni repetición.
+- **R2.** B) Profundidad. La ficha define la profundidad como el rol que se ofrece lejos y hacia el espacio libre.
+- **R3.** A) La estrategia es el plan acordado antes; la táctica es la decisión del momento. La estrategia se acuerda antes; la táctica se decide durante el juego.
+- **C1.** 20 %. Se restan los pases completos y los fallidos hacia marcadas de los intentados, y se calcula qué parte son. Cálculo: (20 − 12 − 4)/20 × 100 = 20.
+- **C2.** A) La lectura del juego: elegir a quién pasar según la marca. Pasar hacia compañeras marcadas es un fallo de decisión, no de fuerza ni de resistencia.
+- **C3.** B) Pasó el disco hacia una compañera con marca encima y se perdió. El diagnóstico describe la decisión observada; no juzga a la persona ni a su cuerpo.
+- **A1.** C) Una estrategia, porque es un plan acordado antes de jugar. Lo que se acuerda antes y orienta todo el partido es estrategia.
+- **A2.** 12 puntos porcentuales. Se comparan 72 por ciento y 60 por ciento de pases completos de los dos partidos. Cálculo: 18/25 × 100 − 12/20 × 100 = 12.
+- **A3.** B) Pasar a la compañera libre, aunque esté más lejos. Un pase corto a una compañera marcada tiene alto riesgo; el espacio libre mejora la jugada.
+- **Z1.** C) Ganar no prueba que decidió bien: el diagnóstico de los pases muestra una decisión por mejorar. El marcador mide el resultado; el diagnóstico de decisiones muestra qué se puede mejorar aunque se gane.
+- **Z2.** B) Detener el juego para ella, dejarla descansar y avisar a una persona adulta. Una molestia es señal de detención; seguir o asignarle otra tarea sin avisar es riesgoso.
+- **D1.** 30 puntos porcentuales. Se comparan la mitad de los fallos del primer partido y la quinta parte del segundo. Cálculo: 4/8 × 100 − 2/10 × 100 = 30.
+- **D2.** B) Mejoró la lectura del juego, pero el juego limpio sigue pendiente y debe trabajarse como acuerdo del equipo. El diagnóstico incluye decisiones y juego limpio; mejorar una cosa no borra la otra.
+- **S1.** C) Una estrategia: un criterio de decisión acordado antes, que luego se aplica con tácticas en cada jugada. Mirar antes de pasar es un criterio de decisión acordado; se aplica en cada jugada según la situación.
+- **E1.** El plan general acordado antes del juego. Orienta las decisiones que luego se toman durante el partido.
+- **E2.** La decisión que se toma durante el juego según la situación. Depende de lo que ocurre en cada jugada.
+- **E3.** No: se evalúan decisiones y acciones observables. Evaluar cuerpos no enseña nada y falta el respeto.
+
+**Actividad abierta · ejemplo de respuesta.** Roles: organizadora, apoyo y profundidad. Estrategia: rotar roles cada 4 minutos, mirar primero a una compañera libre y jugar sin contacto. Registro: 7 de 10 completos; de 3 fallos, 2 fueron hacia compañeras marcadas. Criterio: mirar la marca antes de pasar.
+
+**Criterios para evaluarla:** tres roles definidos; porcentaje de pases completos y causa de fallos; criterio de decisión derivado de los datos.
+
+**Evidencias aceptables:** registro de 10 pases con una causa dominante y un criterio de decisión.
+
+**Errores que conviene detectar:** confundir estrategia con táctica; culpar a una persona o a su cuerpo; no relacionar el criterio con los datos.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué dato muestra esa debilidad?». Si responde con una opinión, pide volver al registro.
+
+**Refuerzo.** Observa un juego de pases en tu entorno y anota dos decisiones de equipo con la situación que las explica, sin comentar cuerpos.
+
+**Profundización.** Explica por qué un equipo puede ganar un partido y aun así tener decisiones tácticas por mejorar.
 
 
 **Apoyo en el mismo OA:** Ajusta espacio, velocidad, contacto, implemento, rol o forma de registro; conserva la habilidad y evita comparaciones corporales.
@@ -138,11 +264,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Juego reducido tres contra tres, tablero magnético, zonas de apoyo y reglas de contacto; pausas breves para observar antes de un segundo intento.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, fichas y datos están escritos en cada ejercicio (son inventados «de ejemplo» para este cuaderno); no necesitas video ni internet. Si tu docente organiza práctica, usa un espacio despejado, ropa y calzado cómodos, agua a mano y balones blandos o implementos livianos, sin cargas máximas, sin retener la respiración ni exigir el cuerpo al límite. Haz siempre un calentamiento general antes y un enfriamiento después, con pausas. Ante dolor, mareo o malestar, detente y avisa a una persona adulta. Nadie comenta ni compara los cuerpos de otras personas. La prueba del habla, la escala de esfuerzo de 1 a 10 con zona de 4 a 6, las duraciones y la referencia de una hora diaria de actividad son orientaciones generales de ejemplo, no indicaciones personales ni médicas.
 
-**Consigna exacta:** Practica «elegir una respuesta motriz: organización de estrategias y tácticas para un juego inteligente»: elige una variante segura, realiza dos intentos, registra una decisión motriz y ajusta solo una condición según una señal corporal, espacial o reglamentaria.
+**Consigna exacta:** Imagina un juego 3 contra 3 con una pelota blanda, sin contacto, en un patio despejado. Describe dos situaciones de ejemplo (marcas, espacio libre, tiempo), elige para cada una una respuesta táctica con dos criterios y di qué haría tu equipo si una compañera siente dolor o mareo. Detente y avisa a una persona adulta si ocurre.
 
-**Referencia para modelar y corregir:** Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo.
+**Referencia para modelar y corregir:** Situación 1: tengo el balón con una marca y una compañera libre a 3 metros. Respuesta: apoyo con pase corto, porque es seguro y mantiene el control. Situación 2: perdimos el balón. Respuesta: repliegue, porque protege el espacio propio. Si alguien siente dolor, paramos y avisamos a un adulto.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -156,7 +282,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Situación 1: tengo el balón con una marca y una compañera libre a 3 metros. Respuesta: apoyo con pase corto, porque es seguro y mantiene el control. Situación 2: perdimos el balón. Respuesta: repliegue, porque protege el espacio propio. Si alguien siente dolor, paramos y avisamos a un adulto. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -166,6 +292,132 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a elegir una respuesta táctica según la situación (apoyo, desmarque, cambio de lado o repliegue) y a justificarla con lo que se ve en la cancha: espacio libre, rivales cercanas y tiempo.
+
+**Lo que ya debo saber.** Sé distinguir estrategia y táctica. Sé leer el espacio libre. Sé que el juego se hace sin contacto y con respeto.
+
+**Explicación.**
+
+Elegir una respuesta táctica es decidir qué hacer en una situación concreta. Cuatro respuestas frecuentes son: apoyo (ofrecerse cerca de quien tiene el disco para darle una opción segura), desmarque (moverse hacia el espacio libre para recibir lejos de las rivales), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio cuando se perdió el disco).
+
+Para decidir se mira primero la situación: ¿dónde hay espacio libre?, ¿quién me marca?, ¿cuánto tiempo tengo?, ¿qué opciones tiene mi compañera? Después se compara cada respuesta con un criterio: ¿mejora la opción de pase?, ¿es segura?, ¿protege el espacio? Una misma situación puede tener varias respuestas válidas, y se elige la que cumple más criterios.
+
+Elegir bien incluye jugar limpio: sin contacto, sin empujar ni retener, respetando las reglas acordadas aunque se vaya perdiendo. En un espacio resbaladizo o con mucha gente se evitan las carreras. Ante dolor, mareo o malestar se detiene la práctica y se avisa a una persona adulta.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| apoyo | ofrecerse cerca de quien tiene el disco para darle una opción |
+| desmarque | moverse hacia el espacio libre para recibir |
+| cambio de lado | pasar al lado de la cancha donde hay más espacio |
+| repliegue | volver a posición para proteger el espacio propio |
+| juego limpio | jugar con respeto a reglas, rivales y compañeras |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Elegir con criterios*
+
+Problema: Con la situación A de ejemplo, ¿qué respuesta eliges para una compañera que no tiene el disco y está sin marca?
+
+1. Criterio: darle una opción segura a Ana, que tiene dos marcas.
+2. Una compañera sin marca a 4 metros ya está bien ubicada: el apoyo es ofrecerse y el pase corto es la decisión de Ana.
+
+Respuesta: Apoyo: ofrecerse a Ana para recibir un pase corto
+
+*Ejemplo 2. Cambiar de lado*
+
+Problema: En la situación B, el lado derecho está libre. ¿Cuál es la respuesta que aprovecha ese espacio?
+
+1. Se compara con la respuesta de apoyo: el apoyo está en el lado con rivales.
+2. El cambio de lado lleva el disco hacia donde no hay rivales.
+
+Respuesta: Cambio de lado hacia la derecha
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Pedir siempre el disco, sin importar dónde estoy. **Por qué ocurre:** Desde una posición marcada no se ofrece una opción de pase útil. **Cómo corregirlo:** Desmárcate hacia el espacio libre antes de pedirlo.
+- **Error:** Quedarse a mirar cuando se perdió el disco. **Por qué ocurre:** Se deja sin protección el espacio propio. **Cómo corregirlo:** Repliégate y ocupa tu posición mientras el equipo se reorganiza.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Educación Física, ¿qué es el desmarque? A) Pasar el disco a la persona más cercana sin mirar si está marcada B) Quedarse quieta junto a la rival para no perderla de vista C) Moverse hacia el espacio libre para poder recibir lejos de las rivales
+- **R2.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). ¿Qué respuesta describe «ofrecerse cerca de quien tiene el disco»? A) Cambio de lado B) Repliegue C) Apoyo
+- **R3.** ¿Qué se mira primero para elegir una respuesta táctica? A) La respuesta que más se parece a la del último partido B) La situación: espacio libre, marcas, tiempo y opciones de pase C) La respuesta que hace la jugadora que mejor juega del equipo y que siempre acierta
+
+*Comprensión*
+
+- **C1.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). En la situación B, el lado derecho está libre. ¿Qué respuesta aprovecha mejor ese espacio? A) Repliegue hacia el centro de la cancha propia B) Cambio de lado hacia la derecha C) Apoyo al lado de la jugadora que tiene tres marcas encima
+- **C2.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). En la situación C, las rivales avanzan después de perder el disco. ¿Qué respuesta táctica es prioritaria? A) Apoyo a la jugadora rival que tiene el disco B) Desmarque hacia el área rival, esperando un pase de alguien que ya no tiene el disco C) Repliegue: volver a posición para proteger el espacio propio
+- **C3.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). En un registro de ejemplo de 30 jugadas, el equipo eligió el cambio de lado en 12 y el desmarque en 9. ¿Qué porcentaje de las 30 jugadas usó alguna de esas dos respuestas?
+
+*Aplicación*
+
+- **A1.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). En la situación A, Ana tiene dos marcas. ¿Qué decisión de la compañera sin marca ayuda más? A) Alejarse del juego para dejarle más espacio a Ana B) Pedirle un pase largo por encima de las dos rivales C) Apoyarla con un pase corto sin marca encima
+- **A2.** Una jugadora pide el disco de forma insistente estando marcada de cerca. ¿Cuál es el fallo táctico? A) Ninguno, porque pedir el disco siempre ayuda al equipo B) Pide recibir sin desmarcarse, así que no ofrece una opción real de pase C) Pide el disco muy tarde, porque debería gritar más fuerte desde el inicio
+- **A3.** Durante el partido una jugadora empuja a una rival para recibir el disco. ¿Qué corresponde? A) Seguir, porque empujar es táctica de apoyo cuando se juega con intensidad B) Detener la jugada, respetar la regla de no contacto y repetir sin contacto C) Responder empujando a la rival para equilibrar
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). Un equipo hace 40 jugadas. Elige el repliegue en 8 de ellas, que es el 20 % de las jugadas. Si en un segundo partido de 50 jugadas mantiene la misma proporción, ¿cuántos repliegues hará?
+- **Z2.** Dos jugadoras discuten: una dice «siempre hay que cambiar de lado» y la otra «nunca hay que cambiarlo». ¿Qué respuesta es más razonable? A) Depende de dónde haya más espacio libre y de cuánta marca haya en cada lado B) La primera, porque cambiar de lado siempre confunde a las rivales C) La segunda, porque cambiar de lado cuesta mucho esfuerzo
+
+*Desafío*
+
+- **D1.** Con las tres situaciones de la ficha, un equipo debe elegir una sola táctica para practicar primero. Sus datos de ejemplo: en 10 jugadas tipo A hubo 6 pérdidas, en 10 tipo B hubo 2 y en 10 tipo C hubo 3. ¿Cuál conviene practicar primero? A) La respuesta a la situación A, porque es donde más se pierde el disco B) La respuesta a la situación C, porque las rivales avanzan y hay que proteger el espacio propio C) La respuesta a la situación B, porque es la más fácil
+- **D2.** Ficha 2 (tres situaciones de ejemplo, inventadas), juego 4 contra 4 con disco blando, sin contacto. Situación A: Ana tiene el disco y dos rivales la marcan a 2 metros; una compañera está sin marca a 4 metros, a su lado. Situación B: el lado derecho de la cancha está sin rivales y nadie del equipo está ahí. Situación C: el equipo perdió el disco y las rivales avanzan; hay tres rivales y tres compañeras cerca. Respuestas tácticas: apoyo (ofrecerse cerca para recibir), desmarque (moverse hacia el espacio libre para recibir), cambio de lado (pasar al lado donde hay más espacio) y repliegue (volver a posición para proteger el espacio propio). En un entrenamiento de ejemplo, el equipo practica 3 respuestas en estaciones de 6 minutos, con 2 minutos de pausa entre estaciones (sin pausa al final). ¿Cuántos minutos dura la práctica?
+
+*Situaciones auténticas*
+
+- **S1.** En el partido de ejemplo, tu equipo está en la situación A: Ana tiene el disco y dos rivales la marcan; hay una compañera sin marca a 4 metros y el lado derecho está libre. ¿Qué plan táctico es más completo? A) Apoyar con un pase corto a la compañera sin marca y, desde ahí, cambiar de lado hacia la derecha B) Pedir el disco a Ana aunque tenga dos marcas, porque insistir cansa a las rivales C) Replegarse hacia el fondo de la cancha sin mover el disco, para ganar tiempo y esperar a las rivales
+
+*Autoevaluación*
+
+- **E1.** En Educación Física: ¿qué es el repliegue?
+- **E2.** ¿Qué se mira primero para decidir una táctica?
+- **E3.** ¿Es el empujón una táctica válida en un juego sin contacto?
+
+**Actividad abierta.** Imagina un juego 3 contra 3 con una pelota blanda, sin contacto, en un patio despejado. Describe dos situaciones de ejemplo (marcas, espacio libre, tiempo), elige para cada una una respuesta táctica con dos criterios y di qué haría tu equipo si una compañera siente dolor o mareo. Detente y avisa a una persona adulta si ocurre.
+
+**Solucionario razonado**
+
+- **R1.** C) Moverse hacia el espacio libre para poder recibir lejos de las rivales. El desmarque busca recibir en un espacio sin rivales, no quedarse inmóvil.
+- **R2.** C) Apoyo. La ficha define apoyo como ofrecerse cerca para recibir.
+- **R3.** B) La situación: espacio libre, marcas, tiempo y opciones de pase. La táctica parte de la situación; la costumbre o la imitación no son criterios.
+- **C1.** B) Cambio de lado hacia la derecha. El cambio de lado lleva el disco hacia el espacio libre, donde no hay rivales.
+- **C2.** C) Repliegue: volver a posición para proteger el espacio propio. Sin el disco y con rivales avanzando, protegerse es prioritario; el desmarque ofensivo no tiene a quién recibir.
+- **C3.** 70 %. Se suman las jugadas con cambio de lado y con desmarque y se calcula qué porcentaje son sobre treinta. Cálculo: (12 + 9)/30 × 100 = 70.
+- **A1.** C) Apoyarla con un pase corto sin marca encima. Una opción cercana sin marca es la salida más segura; alejarse deja a Ana sin pase.
+- **A2.** B) Pide recibir sin desmarcarse, así que no ofrece una opción real de pase. Sin desmarque, la rival intercepta el pase; gritar más no cambia la posición.
+- **A3.** B) Detener la jugada, respetar la regla de no contacto y repetir sin contacto. El juego es sin contacto: el empujón es falta y no una táctica.
+- **Z1.** 10 repliegues. Se mantiene la misma proporción: ocho de cuarenta equivalen a un quinto de las jugadas. Cálculo: 50 × 8/40 = 10.
+- **Z2.** A) Depende de dónde haya más espacio libre y de cuánta marca haya en cada lado. Una táctica se elige según la situación; ninguna regla absoluta la reemplaza.
+- **D1.** A) La respuesta a la situación A, porque es donde más se pierde el disco. La mayor cantidad de pérdidas está en A, por lo que ahí se gana más al mejorar.
+- **D2.** 22 minutos. Se suman tres estaciones de seis minutos y dos pausas de dos minutos entre ellas. Cálculo: 3 × 6 + 2 × 2 = 22.
+- **S1.** A) Apoyar con un pase corto a la compañera sin marca y, desde ahí, cambiar de lado hacia la derecha. Primero se asegura una salida corta y luego se usa el espacio libre del lado derecho.
+- **E1.** Volver a posición para proteger el espacio propio al perder el disco. Protege el espacio cuando el equipo no tiene el disco.
+- **E2.** La situación: espacio, marcas, tiempo y opciones de pase. La decisión parte de lo que ocurre en la cancha.
+- **E3.** No: es falta y rompe el juego limpio. El juego sin contacto protege a todas las personas.
+
+**Actividad abierta · ejemplo de respuesta.** Situación 1: tengo el balón con una marca y una compañera libre a 3 metros. Respuesta: apoyo con pase corto, porque es seguro y mantiene el control. Situación 2: perdimos el balón. Respuesta: repliegue, porque protege el espacio propio. Si alguien siente dolor, paramos y avisamos a un adulto.
+
+**Criterios para evaluarla:** dos situaciones con datos; respuestas con dos criterios; mención de seguridad y juego limpio.
+
+**Evidencias aceptables:** texto con dos situaciones, respuestas y criterios.
+
+**Errores que conviene detectar:** elegir una respuesta sin mirar la situación; aceptar contacto como táctica; culpar a personas en vez de a decisiones.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué criterio de la situación te hizo elegir esa respuesta?». Si responde «me gusta», pide otra razón.
+
+**Refuerzo.** Observa dos jugadas de cualquier deporte de equipo y nombra la respuesta táctica que se usó y qué criterio la justifica.
+
+**Profundización.** Explica por qué no existe una respuesta táctica correcta en todas las situaciones.
 
 
 **Apoyo en el mismo OA:** Ajusta espacio, velocidad, contacto, implemento, rol o forma de registro; conserva la habilidad y evita comparaciones corporales.
@@ -216,11 +468,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Juego reducido tres contra tres, tablero magnético, zonas de apoyo y reglas de contacto; pausas breves para observar antes de un segundo intento.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, fichas y datos están escritos en cada ejercicio (son inventados «de ejemplo» para este cuaderno); no necesitas video ni internet. Si tu docente organiza práctica, usa un espacio despejado, ropa y calzado cómodos, agua a mano y balones blandos o implementos livianos, sin cargas máximas, sin retener la respiración ni exigir el cuerpo al límite. Haz siempre un calentamiento general antes y un enfriamiento después, con pausas. Ante dolor, mareo o malestar, detente y avisa a una persona adulta. Nadie comenta ni compara los cuerpos de otras personas. La prueba del habla, la escala de esfuerzo de 1 a 10 con zona de 4 a 6, las duraciones y la referencia de una hora diaria de actividad son orientaciones generales de ejemplo, no indicaciones personales ni médicas.
 
-**Consigna exacta:** Practica «aplicar estrategia o plan: organización de estrategias y tácticas para un juego inteligente»: elige una variante segura, realiza dos intentos, registra una decisión motriz y ajusta solo una condición según una señal corporal, espacial o reglamentaria.
+**Consigna exacta:** Arma un plan para un juego de 5 contra 5 con pelota blanda, sin contacto, para 7 personas por equipo. Define roles, reparte el tiempo en 2 tiempos de 6 minutos con un esquema de sustituciones que calcule los minutos de cada persona, escribe tres reglas de juego limpio y una adaptación para que todas participen. Detente ante dolor o mareo y avisa a una persona adulta.
 
-**Referencia para modelar y corregir:** Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo.
+**Referencia para modelar y corregir:** Roles: 2 organizadoras, 2 apoyos, 1 profundidad. Tiempo: 2 × 6 = 12 minutos × 5 plazas = 60 minutos de participación, 60 ÷ 7 es unos 8,5 minutos por persona. Sustituir cada 3 minutos. Reglas: sin contacto, respetar a quien arbitra, saludar al final. Adaptación: rol de organizadora con poco desplazamiento.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -234,7 +486,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Roles: 2 organizadoras, 2 apoyos, 1 profundidad. Tiempo: 2 × 6 = 12 minutos × 5 plazas = 60 minutos de participación, 60 ÷ 7 es unos 8,5 minutos por persona. Sustituir cada 3 minutos. Reglas: sin contacto, respetar a quien arbitra, saludar al final. Adaptación: rol de organizadora con poco desplazamiento. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -244,6 +496,132 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a organizar y aplicar un plan colectivo: asignar roles y tareas, rotarlos con justicia, acordar reglas de juego limpio y adaptar la tarea para que todas las personas puedan participar.
+
+**Lo que ya debo saber.** Sé distinguir estrategia y táctica. Sé elegir una respuesta táctica según la situación. Sé que se juega sin contacto y con respeto.
+
+**Explicación.**
+
+Aplicar un plan colectivo significa convertir la estrategia en tareas concretas para cada persona. Primero se define cuántas personas juegan y cuántas descansan, luego los roles (organizadoras, apoyos, profundidad) y las reglas de rotación. Un buen plan responde tres preguntas: ¿quién hace qué?, ¿cuándo rotamos? y ¿qué hacemos cuando algo sale mal?
+
+Rotar con justicia significa que todas las personas jueguen una cantidad similar de tiempo y prueben distintos roles. Por eso se calculan los tiempos antes del partido: por ejemplo, con 8 personas y 6 plazas, las sustituciones se reparten para que nadie quede siempre en el banco. Las tareas se adaptan: cada rol puede cumplirse con más o menos desplazamiento, y las instrucciones se dan de forma oral y visual.
+
+El juego limpio es parte del plan: respetar las reglas, aceptar las decisiones de quien arbitra, saludar a las rivales y no burlarse de nadie. Si una persona siente dolor, mareo o malestar, se detiene su participación, se avisa a una persona adulta y el equipo se reorganiza sin presionar. Un buen plan no depende de la fuerza de una sola persona.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| plan colectivo | organización de roles, tiempos y reglas acordada por el equipo |
+| rotación | cambio por turnos de personas o de roles |
+| sustitución | cambio de quien juega por quien descansa |
+| adaptación | ajuste de una tarea para que más personas participen |
+| juego limpio | jugar con respeto a reglas, rivales y compañeras |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Repartir el tiempo de juego*
+
+Problema: Con la ficha, ¿cuántos minutos juega cada una de las 8 personas si cada tiempo dura 8 minutos, hay 2 tiempos, y juegan 6 por vez?
+
+1. Tiempo total de cancha: 2 tiempos × 8 minutos = 16 minutos con 6 plazas, que son 96 minutos de participación.
+2. Reparto equitativo: 96 ÷ 8 = 12 minutos por persona.
+
+Respuesta: 12 minutos de juego por persona
+
+*Ejemplo 2. Adaptar una tarea*
+
+Problema: Una compañera prefiere desplazarse menos. ¿Qué rol del plan puede cumplir de modo que juegue plenamente?
+
+1. La organizadora reparte el juego desde una zona central con poco desplazamiento.
+2. Se acuerda con ella y el equipo, y puede rotar a otro rol si quiere.
+
+Respuesta: Organizadora, acordado con ella y con opción de rotar
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Dejar siempre en el banco a quien se considera menos hábil. **Por qué ocurre:** Excluye y rompe el acuerdo de justicia en el tiempo de juego. **Cómo corregirlo:** Reparte las sustituciones para que todas jueguen una cantidad similar.
+- **Error:** Explicar las reglas una sola vez y solo en voz alta. **Por qué ocurre:** Algunas personas necesitan apoyo visual o repetición. **Cómo corregirlo:** Explica con palabras y con un dibujo, y comprueba que todas entendieron.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Educación Física, ¿qué responde un buen plan colectivo? A) Cuántos puntos hay que anotar para ganar sin importar cómo se juegue B) Quién es la jugadora más importante del equipo y siempre la misma C) Quién hace qué, cuándo se rota y qué se hace cuando algo sale mal
+- **R2.** Ficha 3 (plan de equipo de ejemplo, inventado). Juego de 6 contra 6 con disco blando, en dos tiempos de 8 minutos con 2 minutos de pausa entre ellos, sin contacto. Cada equipo tiene 8 personas: 6 juegan y 2 descansan, y las sustituciones se hacen cada 4 minutos para que todas jueguen la misma cantidad. Roles de campo: 2 organizadoras, 2 apoyos y 2 de profundidad. Estrategia de tres reglas: 1) mirar primero si hay una compañera libre, 2) cambiar de lado cuando hay más espacio en el otro, 3) jugar limpio. Acuerdos de inclusión: cada rol se puede cumplir con distinta cantidad de desplazamiento; se explican las reglas con palabras y con un dibujo en una pizarra. ¿Por qué las sustituciones se hacen cada 4 minutos y no solo al final de cada tiempo? A) Para que las personas más rápidas jueguen en los momentos decisivos B) Para que el equipo cambie de táctica cada vez que se sustituye a alguien C) Para que las dos personas que descansan también jueguen y los minutos de juego sean parejos
+- **R3.** ¿Qué significa rotar con justicia? A) Que cada persona elija el rol que quiera sin acordar nada con el equipo B) Que las personas más hábiles jueguen más para ganar con mayor seguridad en los momentos importantes del partido C) Que todas jueguen una cantidad de tiempo similar y prueben distintos roles
+
+*Comprensión*
+
+- **C1.** Ficha 3 (plan de equipo de ejemplo, inventado). Juego de 6 contra 6 con disco blando, en dos tiempos de 8 minutos con 2 minutos de pausa entre ellos, sin contacto. Cada equipo tiene 8 personas: 6 juegan y 2 descansan, y las sustituciones se hacen cada 4 minutos para que todas jueguen la misma cantidad. Roles de campo: 2 organizadoras, 2 apoyos y 2 de profundidad. Estrategia de tres reglas: 1) mirar primero si hay una compañera libre, 2) cambiar de lado cuando hay más espacio en el otro, 3) jugar limpio. Acuerdos de inclusión: cada rol se puede cumplir con distinta cantidad de desplazamiento; se explican las reglas con palabras y con un dibujo en una pizarra. Con 12 personas en el equipo y 6 plazas en cancha durante 2 tiempos de 8 minutos, ¿cuántos minutos juega cada persona si se reparte el tiempo de forma equitativa?
+- **C2.** Ficha 3 (plan de equipo de ejemplo, inventado). Juego de 6 contra 6 con disco blando, en dos tiempos de 8 minutos con 2 minutos de pausa entre ellos, sin contacto. Cada equipo tiene 8 personas: 6 juegan y 2 descansan, y las sustituciones se hacen cada 4 minutos para que todas jueguen la misma cantidad. Roles de campo: 2 organizadoras, 2 apoyos y 2 de profundidad. Estrategia de tres reglas: 1) mirar primero si hay una compañera libre, 2) cambiar de lado cuando hay más espacio en el otro, 3) jugar limpio. Acuerdos de inclusión: cada rol se puede cumplir con distinta cantidad de desplazamiento; se explican las reglas con palabras y con un dibujo en una pizarra. Con sustituciones cada 4 minutos y dos tiempos de 8 minutos, ¿cuántos bloques de 4 minutos debe descansar cada persona para jugar los 12 minutos de reparto equitativo?
+- **C3.** Una compañera prefiere desplazarse menos. ¿Qué respuesta del equipo es coherente con la inclusión? A) Acordar con ella un rol de menos desplazamiento y darle opción de rotar B) Dejarla en el banco para que no se complique el juego del resto C) Pedirle que juegue como las demás sin cambios, para que no se sienta distinta
+
+*Aplicación*
+
+- **A1.** Dos jugadoras discuten un tanto. Una grita a la otra «eres un estorbo». ¿Qué corresponde según el juego limpio? A) Ignorar el comentario y repetir la jugada sin hablar con nadie B) Seguir gritando, porque en el partido todo comentario es parte de la competencia C) Pedir disculpas, volver a las reglas y avisar a quien arbitra si no se detiene
+- **A2.** Ficha 3 (plan de equipo de ejemplo, inventado). Juego de 6 contra 6 con disco blando, en dos tiempos de 8 minutos con 2 minutos de pausa entre ellos, sin contacto. Cada equipo tiene 8 personas: 6 juegan y 2 descansan, y las sustituciones se hacen cada 4 minutos para que todas jueguen la misma cantidad. Roles de campo: 2 organizadoras, 2 apoyos y 2 de profundidad. Estrategia de tres reglas: 1) mirar primero si hay una compañera libre, 2) cambiar de lado cuando hay más espacio en el otro, 3) jugar limpio. Acuerdos de inclusión: cada rol se puede cumplir con distinta cantidad de desplazamiento; se explican las reglas con palabras y con un dibujo en una pizarra. Si el partido se extiende con un tercer tiempo de 8 minutos y otra pausa de 2 minutos antes de él, ¿cuántos minutos dura el partido completo con tres tiempos y dos pausas?
+- **A3.** Ficha 3 (plan de equipo de ejemplo, inventado). Juego de 6 contra 6 con disco blando, en dos tiempos de 8 minutos con 2 minutos de pausa entre ellos, sin contacto. Cada equipo tiene 8 personas: 6 juegan y 2 descansan, y las sustituciones se hacen cada 4 minutos para que todas jueguen la misma cantidad. Roles de campo: 2 organizadoras, 2 apoyos y 2 de profundidad. Estrategia de tres reglas: 1) mirar primero si hay una compañera libre, 2) cambiar de lado cuando hay más espacio en el otro, 3) jugar limpio. Acuerdos de inclusión: cada rol se puede cumplir con distinta cantidad de desplazamiento; se explican las reglas con palabras y con un dibujo en una pizarra. Una compañera no entiende la regla de cambio de lado. ¿Qué haces? A) Cambiar la regla para que solo la use quien la entiende mejor B) Decirle que mire cómo juegan las demás y que lo aprenda sola, porque es parte de aprender un deporte C) Explicarla con palabras y con un dibujo en la pizarra, y comprobar que la entiende
+
+*Razonamiento y análisis*
+
+- **Z1.** Un equipo asigna tareas según el desempeño del último partido: los que anotaron juegan de nuevo y los demás, no. ¿Qué problema tiene el plan? A) Reparte el tiempo por resultados y no con justicia, así que algunas personas quedan sin jugar y sin práctica B) Ninguno, porque ganar es el objetivo principal del juego colectivo y los resultados dependen mucho de quienes anotan C) Que debería reunirse con las rivales antes del partido
+- **Z2.** Una persona del equipo siente mareo durante el segundo tiempo y quiere seguir porque faltan dos minutos. ¿Qué corresponde? A) Detener su participación, ofrecerle descanso y agua, avisar a una persona adulta y reorganizar B) Dejar que siga hasta el final y que descanse después, porque faltan solo dos minutos C) Pedirle que cambie a un rol con menos carrera pero sin avisar a nadie más
+
+*Desafío*
+
+- **D1.** Ficha 3 (plan de equipo de ejemplo, inventado). Juego de 6 contra 6 con disco blando, en dos tiempos de 8 minutos con 2 minutos de pausa entre ellos, sin contacto. Cada equipo tiene 8 personas: 6 juegan y 2 descansan, y las sustituciones se hacen cada 4 minutos para que todas jueguen la misma cantidad. Roles de campo: 2 organizadoras, 2 apoyos y 2 de profundidad. Estrategia de tres reglas: 1) mirar primero si hay una compañera libre, 2) cambiar de lado cuando hay más espacio en el otro, 3) jugar limpio. Acuerdos de inclusión: cada rol se puede cumplir con distinta cantidad de desplazamiento; se explican las reglas con palabras y con un dibujo en una pizarra. Con las 8 personas de la ficha y 6 plazas, pero en 3 tiempos de 8 minutos, ¿cuántos minutos juega cada persona con reparto equitativo?
+- **D2.** Un equipo ve que solo una persona organiza siempre. Su registro de ejemplo: 5 de 6 pases salen de ella y el equipo pierde cuando está marcada. ¿Cuál es el mejor cambio del plan? A) Pedirle que juegue más rápido para que no la marquen B) Rotar el rol de organizadora y repartir las tareas para que el equipo no dependa de una sola persona C) Asignarle una marca fija sobre una rival para impedir que la marquen durante todo el partido y que no rote
+
+*Situaciones auténticas*
+
+- **S1.** Tu curso de ejemplo organiza un torneo de disco blando. Hay 14 estudiantes. Una persona prefiere un rol con poco desplazamiento, otra prefiere no correr y un grupo quiere jugar solo con sus amigos. ¿Qué plan respeta mejor el juego inteligente y la inclusión? A) Armar el equipo más fuerte con los amigos y dejar a las demás personas como espectadoras del torneo B) Armar equipos mixtos con roles de menos y más desplazamiento, rotar tareas y explicar reglas con palabras y dibujo C) Cancelar el torneo, porque con diferencias así no se puede jugar bien ni de forma justa
+
+*Autoevaluación*
+
+- **E1.** En Educación Física: ¿qué es una sustitución?
+- **E2.** En Educación Física 2: ¿Por qué se rotan los roles?
+- **E3.** ¿Qué se hace si una compañera siente dolor o mareo en el partido?
+
+**Actividad abierta.** Arma un plan para un juego de 5 contra 5 con pelota blanda, sin contacto, para 7 personas por equipo. Define roles, reparte el tiempo en 2 tiempos de 6 minutos con un esquema de sustituciones que calcule los minutos de cada persona, escribe tres reglas de juego limpio y una adaptación para que todas participen. Detente ante dolor o mareo y avisa a una persona adulta.
+
+**Solucionario razonado**
+
+- **R1.** C) Quién hace qué, cuándo se rota y qué se hace cuando algo sale mal. Un plan organiza tareas, rotación y respuesta a los problemas; no jerarquiza personas.
+- **R2.** C) Para que las dos personas que descansan también jueguen y los minutos de juego sean parejos. Sustituir con frecuencia reparte el tiempo de juego; no se hace por táctica ni para favorecer a nadie.
+- **R3.** C) Que todas jueguen una cantidad de tiempo similar y prueben distintos roles. La justicia se logra repartiendo tiempo y roles, no reservando lugares.
+- **C1.** 8 minutos. Se calculan los minutos totales de participación y se reparten entre las doce personas. Cálculo: 2 × 8 × 6/12 = 8.
+- **C2.** 1 bloque. Los dieciséis minutos son cuatro bloques de cuatro minutos y jugar doce minutos son tres bloques, por lo que se descansa uno. Cálculo: (2 × 8)/4 − 12/4 = 1.
+- **C3.** A) Acordar con ella un rol de menos desplazamiento y darle opción de rotar. Se adapta la tarea para que participe; excluirla o ignorar su necesidad no incluye.
+- **A1.** C) Pedir disculpas, volver a las reglas y avisar a quien arbitra si no se detiene. El juego limpio no admite insultos; se corrige y se avisa si se repite.
+- **A2.** 28 minutos. Se suman tres tiempos de ocho minutos y dos pausas de dos minutos entre ellos. Cálculo: 3 × 8 + 2 × 2 = 28.
+- **A3.** C) Explicarla con palabras y con un dibujo en la pizarra, y comprobar que la entiende. El acuerdo de inclusión pide explicar con más de un medio y comprobar la comprensión.
+- **Z1.** A) Reparte el tiempo por resultados y no con justicia, así que algunas personas quedan sin jugar y sin práctica. La rotación debe repartir práctica; premiar solo a quienes anotan excluye y no ayuda a aprender.
+- **Z2.** A) Detener su participación, ofrecerle descanso y agua, avisar a una persona adulta y reorganizar. El mareo es señal de detención; el equipo se reorganiza sin presionar.
+- **D1.** 18 minutos. Se multiplican los tres tiempos por las plazas y se reparten los minutos entre las ocho personas. Cálculo: 3 × 8 × 6/8 = 18.
+- **D2.** B) Rotar el rol de organizadora y repartir las tareas para que el equipo no dependa de una sola persona. Un plan sólido reparte la responsabilidad; depender de una sola persona es un riesgo táctico.
+- **S1.** B) Armar equipos mixtos con roles de menos y más desplazamiento, rotar tareas y explicar reglas con palabras y dibujo. Un plan inclusivo adapta roles y reparte tareas; excluir o cancelar renuncia al objetivo del juego colectivo.
+- **E1.** El cambio de quien juega por quien descansa. Permite que todas las personas jueguen y descansen.
+- **E2.** Para que todas prueben distintos roles y jueguen de forma justa. La rotación reparte el tiempo y los aprendizajes.
+- **E3.** Se detiene su participación, se descansa y se avisa a una persona adulta. La seguridad va antes del resultado.
+
+**Actividad abierta · ejemplo de respuesta.** Roles: 2 organizadoras, 2 apoyos, 1 profundidad. Tiempo: 2 × 6 = 12 minutos × 5 plazas = 60 minutos de participación, 60 ÷ 7 es unos 8,5 minutos por persona. Sustituir cada 3 minutos. Reglas: sin contacto, respetar a quien arbitra, saludar al final. Adaptación: rol de organizadora con poco desplazamiento.
+
+**Criterios para evaluarla:** roles definidos y rotación calculada; tres reglas de juego limpio; una adaptación que incluya a todas las personas.
+
+**Evidencias aceptables:** plan escrito con tiempos, reglas y adaptación.
+
+**Errores que conviene detectar:** no repartir el tiempo de forma justa; reglas que no se pueden observar; adaptar sin acordarlo con la persona.
+
+**Retroalimentación constructiva:** Pregunta: «¿cómo sabes que todas jugarán cantidades similares?». Si no hay cálculo, pide repartir los minutos.
+
+**Refuerzo.** Con un grupo pequeño, calcula cuántos minutos juega cada persona en un juego que conozcas y revisa si el reparto es justo.
+
+**Profundización.** Explica por qué un plan que reparte roles y tiempos mejora tanto el juego como la convivencia del equipo.
 
 
 **Apoyo en el mismo OA:** Ajusta espacio, velocidad, contacto, implemento, rol o forma de registro; conserva la habilidad y evita comparaciones corporales.
@@ -294,11 +672,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Juego reducido tres contra tres, tablero magnético, zonas de apoyo y reglas de contacto; pausas breves para observar antes de un segundo intento.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, fichas y datos están escritos en cada ejercicio (son inventados «de ejemplo» para este cuaderno); no necesitas video ni internet. Si tu docente organiza práctica, usa un espacio despejado, ropa y calzado cómodos, agua a mano y balones blandos o implementos livianos, sin cargas máximas, sin retener la respiración ni exigir el cuerpo al límite. Haz siempre un calentamiento general antes y un enfriamiento después, con pausas. Ante dolor, mareo o malestar, detente y avisa a una persona adulta. Nadie comenta ni compara los cuerpos de otras personas. La prueba del habla, la escala de esfuerzo de 1 a 10 con zona de 4 a 6, las duraciones y la referencia de una hora diaria de actividad son orientaciones generales de ejemplo, no indicaciones personales ni médicas.
 
-**Consigna exacta:** Practica «registrar regulación y resultado: organización de estrategias y tácticas para un juego inteligente»: elige una variante segura, realiza dos intentos, registra una decisión motriz y ajusta solo una condición según una señal corporal, espacial o reglamentaria.
+**Consigna exacta:** Imagina que juegas 2 tiempos de 6 minutos de un juego de pelota blanda sin contacto con 5 personas. Registra de ejemplo pases intentados y completos en cada tiempo, pases a compañeras marcadas y faltas, calcula el porcentaje de pases completos, escribe una conclusión que separe marcador y calidad y decide un ajuste. Detente ante dolor o mareo y avisa a una persona adulta.
 
-**Referencia para modelar y corregir:** Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo.
+**Referencia para modelar y corregir:** Tiempo 1: 20 intentados, 11 completos (55 %), 4 a marcadas, 1 falta. Tiempo 2: 22 intentados, 16 completos (cerca de 73 %), 2 a marcadas, 0 faltas. Marcador: ganamos 3 a 2. Conclusión: mejoró la calidad. Ajuste: ofrecerse más como apoyo corto.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -312,7 +690,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Mantiene control y seguridad, participa sin excluir ni comparar cuerpos, explica el ajuste desde evidencia propia y detiene la práctica ante una señal de riesgo. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Tiempo 1: 20 intentados, 11 completos (55 %), 4 a marcadas, 1 falta. Tiempo 2: 22 intentados, 16 completos (cerca de 73 %), 2 a marcadas, 0 faltas. Marcador: ganamos 3 a 2. Conclusión: mejoró la calidad. Ajuste: ofrecerse más como apoyo corto. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -322,6 +700,132 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a registrar un partido con datos de decisiones y de juego limpio, a comparar dos tiempos, a distinguir el marcador de la calidad del juego y a decidir el próximo ajuste táctico del equipo.
+
+**Lo que ya debo saber.** Sé hacer un diagnóstico de decisiones. Sé elegir una respuesta táctica. Sé calcular porcentajes y diferencias.
+
+**Explicación.**
+
+Un registro de partido ordena la información para decidir. Anota qué ocurrió (pases intentados y completos, pérdidas, causas), cómo se jugó (juego limpio, faltas) y qué se acordó cambiar. Se hace con datos observables y breves, sin adjetivos ni juicios sobre las personas. Un buen registro permite comparar dos momentos, por ejemplo el primer y el segundo tiempo, para ver si el ajuste funcionó.
+
+El marcador y la calidad del juego son cosas distintas. Un equipo puede perder y haber mejorado sus decisiones, o ganar con muchas decisiones por mejorar. Por eso se mira más de un dato: porcentaje de pases completos, pases a compañeras marcadas, faltas y cumplimiento de la estrategia. Una comparación honesta advierte su límite: pocos pases, un solo partido, distintas rivales.
+
+Con el registro se decide el siguiente ajuste: uno solo, medible y acordado por el equipo. En lo colectivo, el registro es del equipo, y los datos individuales son de cada persona. No se publican rankings ni se comparan cuerpos. Si alguien siente dolor, mareo o malestar durante el juego, se detiene y se avisa a una persona adulta.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| registro de partido | anotación ordenada de datos del juego |
+| calidad del juego | qué tan buenas fueron las decisiones, más allá del marcador |
+| ajuste | cambio que responde a un dato del registro |
+| límite de la comparación | razón por la que un dato no permite concluir con certeza |
+| cumplimiento de la estrategia | cuánto se aplicó lo acordado antes del juego |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Comparar dos tiempos*
+
+Problema: Con la ficha, ¿qué porcentaje de pases fue completo en cada tiempo?
+
+1. Primer tiempo: 12 ÷ 20 × 100 = 60 %.
+2. Segundo tiempo: 20 ÷ 25 × 100 = 80 %.
+
+Respuesta: 60 % en el primer tiempo y 80 % en el segundo
+
+*Ejemplo 2. Separar marcador y calidad*
+
+Problema: El equipo perdió 4 a 5. ¿Significa que el ajuste no funcionó?
+
+1. El marcador mide el resultado final; los datos de decisiones mejoraron (más pases completos, menos pases a marcadas y sin faltas).
+2. El ajuste sí mejoró la calidad del juego, aunque el resultado no se haya dado.
+
+Respuesta: No: el ajuste mejoró la calidad del juego, aunque el equipo perdió
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Concluir «jugamos mal» solo por perder. **Por qué ocurre:** Mezcla marcador con calidad del juego y no mira los datos de decisiones. **Cómo corregirlo:** Mira pases completos, pases a marcadas y faltas antes de concluir.
+- **Error:** Cambiar tres cosas a la vez entre un tiempo y otro. **Por qué ocurre:** No se sabe qué cambio produjo la mejora. **Cómo corregirlo:** Acuerda un solo ajuste medible y compara con los mismos datos.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** En Educación Física, ¿qué debe incluir un registro de partido? A) Datos observables de decisiones, de juego limpio y el ajuste acordado B) Una opinión sobre quién jugó mejor y quién peor en cada tiempo C) Solo el marcador final, porque es lo que importa
+- **R2.** Ficha 4 (registro de partido de ejemplo, inventado). Un equipo de 6 personas juega dos tiempos de 8 minutos de disco blando. Primer tiempo: 20 pases intentados, 12 completos, 5 pases a compañeras marcadas, 1 falta de juego limpio (contacto). Los pases a compañeras marcadas fueron todos fallidos. Segundo tiempo (después de acordar el ajuste «mirar primero a una compañera libre»): 25 pases intentados, 20 completos, 2 pases a compañeras marcadas, 0 faltas. Marcador: el equipo perdió 4 a 5. Un registro útil anota resultado, decisiones observables, juego limpio y el ajuste siguiente. ¿Qué dato de la ficha corresponde al juego limpio y no a las decisiones de pase? A) El número de pases a compañeras marcadas B) Los pases completos C) Las faltas por contacto
+- **R3.** ¿Por qué el marcador no basta para evaluar un partido? A) Porque no muestra si las decisiones, el juego limpio y la estrategia mejoraron B) Porque el marcador siempre se registra mal en juegos sin contacto C) Porque ganar nunca es un objetivo en Educación Física, por lo que no importa en ningún caso
+
+*Comprensión*
+
+- **C1.** Ficha 4 (registro de partido de ejemplo, inventado). Un equipo de 6 personas juega dos tiempos de 8 minutos de disco blando. Primer tiempo: 20 pases intentados, 12 completos, 5 pases a compañeras marcadas, 1 falta de juego limpio (contacto). Los pases a compañeras marcadas fueron todos fallidos. Segundo tiempo (después de acordar el ajuste «mirar primero a una compañera libre»): 25 pases intentados, 20 completos, 2 pases a compañeras marcadas, 0 faltas. Marcador: el equipo perdió 4 a 5. Un registro útil anota resultado, decisiones observables, juego limpio y el ajuste siguiente. ¿Cuántos puntos porcentuales subió el porcentaje de pases completos del primer al segundo tiempo?
+- **C2.** Ficha 4 (registro de partido de ejemplo, inventado). Un equipo de 6 personas juega dos tiempos de 8 minutos de disco blando. Primer tiempo: 20 pases intentados, 12 completos, 5 pases a compañeras marcadas, 1 falta de juego limpio (contacto). Los pases a compañeras marcadas fueron todos fallidos. Segundo tiempo (después de acordar el ajuste «mirar primero a una compañera libre»): 25 pases intentados, 20 completos, 2 pases a compañeras marcadas, 0 faltas. Marcador: el equipo perdió 4 a 5. Un registro útil anota resultado, decisiones observables, juego limpio y el ajuste siguiente. ¿Qué dato muestra que el ajuste «mirar primero a una compañera libre» funcionó? A) Los pases a compañeras marcadas bajaron de 5 a 2 B) El marcador final del partido fue 4 a 5 en contra del equipo C) Se intentaron 26 pases en el segundo tiempo
+- **C3.** Un grupo escribe «el segundo tiempo estuvo mucho mejor». ¿Cómo se vuelve observable? A) Agregando que se vio mucho mejor a simple vista de todo el equipo y de quien arbitraba B) Con datos: pases completos de 60 % a 80 % y pases a marcadas de 5 a 2 C) Cambiando «mejor» por «excelente» para que suene más fuerte
+
+*Aplicación*
+
+- **A1.** Ficha 4 (registro de partido de ejemplo, inventado). Un equipo de 6 personas juega dos tiempos de 8 minutos de disco blando. Primer tiempo: 20 pases intentados, 12 completos, 5 pases a compañeras marcadas, 1 falta de juego limpio (contacto). Los pases a compañeras marcadas fueron todos fallidos. Segundo tiempo (después de acordar el ajuste «mirar primero a una compañera libre»): 25 pases intentados, 20 completos, 2 pases a compañeras marcadas, 0 faltas. Marcador: el equipo perdió 4 a 5. Un registro útil anota resultado, decisiones observables, juego limpio y el ajuste siguiente. Si el equipo mantiene el porcentaje de pases completos del segundo tiempo y en un tercer tiempo intenta 30 pases, ¿cuántos pases completos se esperan?
+- **A2.** Tras perder 4 a 5, una compañera dice: «mejoramos y perdimos igual, entonces no sirve». ¿Qué respuesta es más adecuada? A) Sirvió, porque la calidad del juego mejoró aunque el marcador haya sido distinto B) Tiene razón, porque si no ganamos el ajuste fue inútil y hay que descartarlo C) Habría que cambiar el ajuste por otro sin mirar los datos
+- **A3.** Para el tercer tiempo, un grupo propone cambiar tres cosas: la regla de pases, los roles y la distancia de la cancha. ¿Qué problema tiene? A) Que los roles no pueden cambiar durante un partido B) Ninguno, porque cuantos más cambios, mayor la mejora que se espera obtener en el tercer tiempo C) No se sabrá cuál cambio produjo la mejora, porque se cambiaron tres a la vez
+
+*Razonamiento y análisis*
+
+- **Z1.** El segundo tiempo mostró 0 faltas, y el primero, una. ¿Qué lectura sobre juego limpio es más honesta? A) Mejoró, pero con una sola falta registrada es pronto para afirmar que el cambio se mantiene B) Es perfecto: el equipo jugará limpio en todos los partidos desde ahora y no hará falta registrar nada más C) No es relevante, porque una falta no cambia el partido
+- **Z2.** Una jugadora se queja de que su nombre aparece al lado de las pérdidas en el registro colgado en el muro. ¿Qué corresponde? A) Mantenerlos para que todas sepan quién debe mejorar y se esfuercen más B) Retirar los nombres y registrar al equipo, dejando los datos individuales a cada persona C) Cambiar su nombre por un apodo en el muro para que no se note
+
+*Desafío*
+
+- **D1.** Ficha 4 (registro de partido de ejemplo, inventado). Un equipo de 6 personas juega dos tiempos de 8 minutos de disco blando. Primer tiempo: 20 pases intentados, 12 completos, 5 pases a compañeras marcadas, 1 falta de juego limpio (contacto). Los pases a compañeras marcadas fueron todos fallidos. Segundo tiempo (después de acordar el ajuste «mirar primero a una compañera libre»): 25 pases intentados, 20 completos, 2 pases a compañeras marcadas, 0 faltas. Marcador: el equipo perdió 4 a 5. Un registro útil anota resultado, decisiones observables, juego limpio y el ajuste siguiente. En el segundo tiempo, ¿qué porcentaje de los pases fallidos fue hacia compañeras marcadas?
+- **D2.** Un equipo debe escoger un único ajuste para el próximo partido. Registro: 80 % de pases completos, 2 pases a marcadas, 0 faltas, y 4 pérdidas por pases largos sin opción cercana. ¿Cuál es el ajuste más razonable? A) Ofrecerse más como apoyo corto para evitar los pases largos sin opción, y medir las pérdidas otra vez B) Subir la fuerza de los pases largos para que lleguen más lejos y no se pierdan por falta de potencia ni de opciones C) No ajustar nada, porque 80 % ya es perfecto
+
+*Situaciones auténticas*
+
+- **S1.** Después de un partido de ejemplo, el equipo ve: pases completos 60 % y 80 % en los dos tiempos, pases a marcadas 5 y 2, faltas 1 y 0, y perdió 4 a 5. Debe escribir una conclusión para el diario de equipo. ¿Cuál es la mejor? A) El ajuste mejoró pases y juego limpio; perdimos por poco y seguiremos midiendo B) Perdimos, así que el ajuste no sirvió y hay que dejarlo de lado para probar otro distinto C) Jugamos mal porque perdimos, aunque los pases mejoraron un poco
+
+*Autoevaluación*
+
+- **E1.** En Educación Física: ¿qué se registra además del marcador?
+- **E2.** ¿Por qué conviene un solo ajuste por vez?
+- **E3.** ¿Se publican nombres con pérdidas en el muro?
+
+**Actividad abierta.** Imagina que juegas 2 tiempos de 6 minutos de un juego de pelota blanda sin contacto con 5 personas. Registra de ejemplo pases intentados y completos en cada tiempo, pases a compañeras marcadas y faltas, calcula el porcentaje de pases completos, escribe una conclusión que separe marcador y calidad y decide un ajuste. Detente ante dolor o mareo y avisa a una persona adulta.
+
+**Solucionario razonado**
+
+- **R1.** A) Datos observables de decisiones, de juego limpio y el ajuste acordado. Un registro útil incluye datos de decisiones y de juego limpio, no solo el marcador ni opiniones.
+- **R2.** C) Las faltas por contacto. Las faltas registran cómo se juega; los pases registran decisiones.
+- **R3.** A) Porque no muestra si las decisiones, el juego limpio y la estrategia mejoraron. El marcador mide el resultado; la calidad del juego se ve en otros datos.
+- **C1.** 20 puntos porcentuales. Se restan el porcentaje de pases completos del segundo tiempo y el del primero. Cálculo: 20/25 × 100 − 12/20 × 100 = 20.
+- **C2.** A) Los pases a compañeras marcadas bajaron de 5 a 2. El ajuste apunta a elegir compañeras libres; menos pases a marcadas es la evidencia directa.
+- **C3.** B) Con datos: pases completos de 60 % a 80 % y pases a marcadas de 5 a 2. Una afirmación se vuelve evidencia al darle cifras comparables.
+- **A1.** 24 pases. Se aplica la proporción de veinte pases completos de veinticinco al total de treinta intentados. Cálculo: 30 × 20/25 = 24.
+- **A2.** A) Sirvió, porque la calidad del juego mejoró aunque el marcador haya sido distinto. El marcador es un resultado entre muchos; los datos de decisiones muestran que el ajuste mejoró el juego.
+- **A3.** C) No se sabrá cuál cambio produjo la mejora, porque se cambiaron tres a la vez. Con varios cambios simultáneos no se puede atribuir la mejora a uno de ellos.
+- **Z1.** A) Mejoró, pero con una sola falta registrada es pronto para afirmar que el cambio se mantiene. Un dato mínimo muestra tendencia, no certeza; se mide de nuevo.
+- **Z2.** B) Retirar los nombres y registrar al equipo, dejando los datos individuales a cada persona. El registro colectivo no debe exponer a personas; cada cual conserva el suyo.
+- **D1.** 40 %. Los pases fallidos son los intentados menos los completos, y se calcula qué parte fue hacia marcadas. Cálculo: 2/(25 − 20) × 100 = 40.
+- **D2.** A) Ofrecerse más como apoyo corto para evitar los pases largos sin opción, y medir las pérdidas otra vez. Se ajusta el dato débil más frecuente; subir la fuerza o no cambiar nada no lo corrige.
+- **S1.** A) El ajuste mejoró pases y juego limpio; perdimos por poco y seguiremos midiendo. La conclusión se apoya en todos los datos y propone seguir midiendo.
+- **E1.** Decisiones observables y juego limpio. El marcador no muestra la calidad del juego.
+- **E2.** Porque así se sabe qué cambio produjo la mejora. Con varios cambios no se puede atribuir el efecto.
+- **E3.** No: el registro colectivo no expone a personas. Se cuida la privacidad de cada persona.
+
+**Actividad abierta · ejemplo de respuesta.** Tiempo 1: 20 intentados, 11 completos (55 %), 4 a marcadas, 1 falta. Tiempo 2: 22 intentados, 16 completos (cerca de 73 %), 2 a marcadas, 0 faltas. Marcador: ganamos 3 a 2. Conclusión: mejoró la calidad. Ajuste: ofrecerse más como apoyo corto.
+
+**Criterios para evaluarla:** datos de dos tiempos con porcentajes; conclusión que separa marcador y calidad; un único ajuste medible.
+
+**Evidencias aceptables:** tabla de dos tiempos con conclusión y ajuste.
+
+**Errores que conviene detectar:** concluir solo por el marcador; cambiar varios aspectos a la vez; exponer nombres en el registro colectivo.
+
+**Retroalimentación constructiva:** Pregunta: «¿qué dato apoya esa conclusión?». Si no hay uno, pide volver a la tabla.
+
+**Refuerzo.** Registra un partido breve de pelota blanda con tus compañeras o con personas de tu casa y compara dos tiempos. Detente si sientes dolor o mareo.
+
+**Profundización.** Explica por qué la calidad del juego puede mejorar aunque el marcador no cambie.
 
 
 **Apoyo en el mismo OA:** Ajusta espacio, velocidad, contacto, implemento, rol o forma de registro; conserva la habilidad y evita comparaciones corporales.

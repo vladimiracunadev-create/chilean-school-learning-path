@@ -50,7 +50,10 @@ def lesson_totals() -> dict[str, int]:
 
 
 def subject_of(code: str) -> str:
-    return code.split()[0][:2]
+    head = code.split()[0]
+    if head.startswith("FG-"):
+        return head.split("-")[1]
+    return head[:2]
 
 
 def repeat_allowed(where: str, oa_code: str, old_answer: str, new_answer: str) -> bool:
@@ -120,17 +123,18 @@ def report() -> str:
     for (oa_code, number), content in sl.REGISTRY.items():
         by_oa.setdefault(oa_code, []).append((number, content))
     for oa_code, lessons in sorted(by_oa.items()):
-        path = curriculum_file(oa_code)
-        level = path.relative_to(ROOT).parts[1]
-        subject = path.relative_to(ROOT).parts[2]
-        count = totals[path.relative_to(ROOT).as_posix()]
-        exercises = sum(len(sl.all_questions(content)) for _n, content in lessons)
-        worked = sum(len(content["worked"]) for _n, content in lessons)
-        row = per_level[level]
-        row["student"] += len(lessons)
-        row["exercises"] += exercises
-        row["worked"] += worked
-        rows_oa.append((level, subject, oa_code, len(lessons), count, exercises, worked))
+        slug = oa_code.lower().replace(" ", "-")
+        for path in sorted((ROOT / "curriculum").glob(f"*/*/{slug}.md")):
+            level = path.relative_to(ROOT).parts[1]
+            subject = path.relative_to(ROOT).parts[2]
+            count = totals[path.relative_to(ROOT).as_posix()]
+            exercises = sum(len(sl.all_questions(content)) for _n, content in lessons)
+            worked = sum(len(content["worked"]) for _n, content in lessons)
+            row = per_level[level]
+            row["student"] += len(lessons)
+            row["exercises"] += exercises
+            row["worked"] += worked
+            rows_oa.append((level, subject, oa_code, len(lessons), count, exercises, worked))
     developed = developed_by_level()
     total_dev = sum(developed.values())
     total_student = sum(v["student"] for v in per_level.values())

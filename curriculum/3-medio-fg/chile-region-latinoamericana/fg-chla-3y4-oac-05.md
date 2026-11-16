@@ -60,11 +60,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Dossier comparativo con dos mapas de escala declarada, cronología, serie de indicadores, documento institucional y dos voces públicas contextualizadas de territorios diferentes; ficha de autoría, fecha, perspectiva y límite para cada fuente.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, textos y datos están escritos en cada ejercicio (son casos de ejemplo, inventados para este cuaderno); no necesitas libros ni internet.
 
-**Consigna exacta:** Para «contextualizar actores, tiempo y espacio: medioambiente y sustentabilidad en chile y américa latina», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+**Consigna exacta:** Usa la Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. Escribe un párrafo de cinco oraciones: nombra tres actividades humanas de la cuenca y el recurso que usa cada una; distingue un recurso renovable de uno no renovable; señala un cambio reciente; indica un actor y qué dimensión de la sustentabilidad le corresponde cuidar.
 
-**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+**Referencia para modelar y corregir:** En la cuenca hay agricultura de riego (agua), minería (cobre) y una ciudad (leña y vehículos). El agua es renovable y el cobre no. Un cambio reciente es que llueve menos y el caudal bajó. El municipio es un actor y debe cuidar la dimensión social, atendiendo el acceso al agua. La mesa del agua ayuda a equilibrar los usos.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -78,7 +78,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: En la cuenca hay agricultura de riego (agua), minería (cobre) y una ciudad (leña y vehículos). El agua es renovable y el cobre no. Un cambio reciente es que llueve menos y el caudal bajó. El municipio es un actor y debe cuidar la dimensión social, atendiendo el acceso al agua. La mesa del agua ayuda a equilibrar los usos. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -88,6 +88,131 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a describir el estado del medioambiente de Chile y América Latina, reconociendo las actividades humanas que lo afectan, sus actores y la idea de sustentabilidad.
+
+**Lo que ya debo saber.** Sé leer una tabla o un texto breve y sacar de él una idea principal. Sé distinguir un hecho de una opinión. Conozco lo básico de la organización del Estado y de las regiones del continente.
+
+**Explicación.**
+
+El medioambiente es el conjunto de elementos naturales (agua, aire, suelo, plantas y animales) y sociales con los que viven las personas. Los recursos naturales son elementos de la naturaleza que usamos: los renovables, como el agua y los bosques, pueden recuperarse si se usan con cuidado; los no renovables, como los minerales, no se regeneran en un tiempo humano. La biodiversidad es la variedad de seres vivos de un lugar. Las actividades humanas, como la agricultura, la minería, la energía, la pesca, la industria y las ciudades, usan recursos y pueden producir contaminación o pérdida de ecosistemas.
+
+La sustentabilidad consiste en satisfacer las necesidades de hoy sin comprometer las de las generaciones futuras; considera a la vez lo ambiental, lo económico y lo social. Para analizar un problema ambiental conviene ubicar actores (comunidades, empresas, Estado, científicos), tiempo (desde cuándo ocurre) y espacio y escala (una cuenca, un país o el planeta). América Latina tiene una gran biodiversidad y también desafíos: contaminación del aire en ciudades, escasez de agua en algunas zonas y pérdida de bosques, entre otros. La situación varía mucho entre lugares.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| medioambiente | conjunto de elementos naturales y sociales con los que viven las personas |
+| recurso renovable | recurso que se recupera si se usa con cuidado, como el agua o los bosques |
+| recurso no renovable | recurso que no se regenera en un tiempo humano, como un mineral |
+| biodiversidad | variedad de seres vivos de un lugar |
+| sustentabilidad | satisfacer las necesidades de hoy sin comprometer las de las generaciones futuras |
+| cuenca | territorio cuyas aguas desembocan en un mismo río o lago |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Clasificar recursos*
+
+Problema: En una región de ejemplo se usa agua de un río, madera de un bosque y cobre de una mina. ¿Cuáles son renovables?
+
+1. El agua y el bosque pueden recuperarse si se manejan bien.
+2. El mineral no se regenera en un tiempo humano.
+
+Respuesta: Agua y bosque; el cobre es no renovable
+
+*Ejemplo 2. Aplicar sustentabilidad*
+
+Problema: Una comunidad de ejemplo tala todos los árboles de un bosque para vender madera en un año. ¿Es sustentable?
+
+1. Satisface una necesidad actual.
+2. Compromete el recurso para el futuro, así que no es sustentable.
+
+Respuesta: No es sustentable
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Creer que sustentabilidad es solo proteger la naturaleza. **Por qué ocurre:** Incluye también lo económico y lo social. **Cómo corregirlo:** Considera las tres dimensiones: ambiental, económica y social.
+- **Error:** Pensar que cualquier recurso renovable es inagotable. **Por qué ocurre:** Se agota si se usa más rápido de lo que se recupera. **Cómo corregirlo:** Compara el ritmo de uso con el ritmo de recuperación.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Qué es un recurso renovable? A) Uno que no se agota aunque se use sin cuidado B) Uno que se recupera si se usa con cuidado y sin exceso C) Uno que solo se encuentra en zonas de desierto
+- **R2.** ¿Qué es la biodiversidad? A) Las actividades económicas de una región B) La cantidad de agua que fluye por un río C) La variedad de seres vivos que habitan un lugar
+- **R3.** ¿Qué es la sustentabilidad? A) Producir lo más posible hoy aunque se agoten los recursos B) Satisfacer las necesidades de hoy sin comprometer el futuro C) Dejar de usar todos los recursos naturales del lugar
+
+*Comprensión*
+
+- **C1.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Cuál de estas actividades de la ficha usa un recurso no renovable? A) La mina de cobre B) La agricultura de riego C) Los paneles solares
+- **C2.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Qué cambio reciente muestra la ficha respecto del agua? A) Llueve menos y el caudal del río ha bajado B) Llueve más y el caudal del río ha subido C) El caudal del río no ha cambiado en los últimos años
+- **C3.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Qué actor estudia instalar paneles solares? A) El municipio B) Las comunidades de la cuenca C) Una empresa eléctrica
+
+*Aplicación*
+
+- **A1.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Qué actividad de la ficha puede afectar la calidad del aire de la ciudad? A) La existencia del parque protegido B) La instalación de paneles solares C) El uso de leña y de vehículos en la ciudad
+- **A2.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Qué espacio y escala corresponde a este caso? A) El planeta completo, escala global B) Una cuenca, es decir, una escala regional C) Una sola vivienda, escala individual
+- **A3.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Por qué el bosque nativo con parque protegido aporta a la sustentabilidad? A) Porque conserva biodiversidad y ayuda a mantener el agua B) Porque produce madera para vender en un solo año C) Porque impide cualquier uso del territorio por las comunidades
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. Alguien dice: «La sequía del río solo se debe a la agricultura». ¿Qué respuesta es más precisa? A) Hay menos lluvia y varios usos del agua; no es un solo factor B) Es cierto, porque la agricultura es la única actividad que usa agua C) No es posible, porque la agricultura no usa agua del río
+- **Z2.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. ¿Por qué la mesa del agua es relevante para la sustentabilidad? A) Porque asegura que solo la mina podrá usar el agua en toda la cuenca del río B) Porque reúne actores distintos para decidir el uso del agua C) Porque elimina la necesidad de estudiar el caudal del río y la lluvia
+
+*Desafío*
+
+- **D1.** Una empresa de ejemplo propone talar un bosque y replantar la misma cantidad de árboles en 10 años. ¿Qué pregunta de sustentabilidad se debe hacer? A) ¿Cuántos camiones harán falta para transportar la madera? B) ¿Cuánto dinero ganará la empresa con la venta de la madera? C) ¿Se recupera el bosque al ritmo de uso y se protege la biodiversidad?
+- **D2.** Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. Si la empresa eléctrica instala los paneles sin hablar con las comunidades cercanas, ¿qué dimensión de la sustentabilidad se descuida? A) La ambiental, porque los paneles dañan siempre el aire de la zona cercana B) La social, porque no se considera a los afectados C) La económica, porque los paneles nunca generan energía eléctrica útil
+
+*Situaciones auténticas*
+
+- **S1.** Una ciudad de ejemplo consume cada año más agua de la que su río recupera con la lluvia. ¿Qué se puede decir sobre su uso del recurso? A) Es sustentable, porque el agua es siempre un recurso renovable y se repone sola B) No es sustentable: usa más de lo que el río recupera C) Es sustentable, porque la ciudad tiene muchos habitantes y mucha demanda
+
+*Autoevaluación*
+
+- **E1.** En Chile y la región, ¿qué diferencia hay entre recurso renovable y no renovable?
+- **E2.** Nombra las tres dimensiones de la sustentabilidad.
+- **E3.** ¿Qué es una cuenca?
+
+**Actividad abierta.** Usa la Ficha 1 (región ficticia de ejemplo, Cuenca del Río Claro). Hay cuatro actividades principales: agricultura de riego con agua del río, una mina de cobre ficticia, una ciudad que usa leña y vehículos, y un bosque nativo con un parque protegido. En los últimos años llueve menos y el caudal del río ha bajado. Una empresa eléctrica estudia instalar paneles solares en una zona desértica. Las comunidades de la cuenca, el municipio, el Estado y las empresas participan en una mesa del agua. Escribe un párrafo de cinco oraciones: nombra tres actividades humanas de la cuenca y el recurso que usa cada una; distingue un recurso renovable de uno no renovable; señala un cambio reciente; indica un actor y qué dimensión de la sustentabilidad le corresponde cuidar.
+
+**Solucionario razonado**
+
+- **R1.** B) Uno que se recupera si se usa con cuidado y sin exceso. Renovable no significa inagotable: depende de que el uso no supere su recuperación.
+- **R2.** C) La variedad de seres vivos que habitan un lugar. La biodiversidad se refiere a la variedad de plantas, animales y otros seres vivos.
+- **R3.** B) Satisfacer las necesidades de hoy sin comprometer el futuro. La sustentabilidad busca equilibrio entre presente y futuro, no el uso total ni el no uso.
+- **C1.** A) La mina de cobre. El cobre es un mineral que no se regenera; el agua del río y el sol son renovables.
+- **C2.** A) Llueve menos y el caudal del río ha bajado. La ficha indica menos lluvia y menor caudal.
+- **C3.** C) Una empresa eléctrica. La ficha dice que una empresa eléctrica estudia instalarlos.
+- **A1.** C) El uso de leña y de vehículos en la ciudad. Quemar leña y usar vehículos emite contaminantes al aire.
+- **A2.** B) Una cuenca, es decir, una escala regional. La ficha se ubica en la Cuenca del Río Claro, una escala regional.
+- **A3.** A) Porque conserva biodiversidad y ayuda a mantener el agua. Un bosque protegido conserva especies y contribuye a los ciclos del agua.
+- **Z1.** A) Hay menos lluvia y varios usos del agua; no es un solo factor. La ficha menciona menos lluvia y varios usos del agua; atribuir todo a un solo factor sin datos es una simplificación.
+- **Z2.** B) Porque reúne actores distintos para decidir el uso del agua. Una mesa con varios actores ayuda a equilibrar usos presentes y futuros.
+- **D1.** C) ¿Se recupera el bosque al ritmo de uso y se protege la biodiversidad?. La sustentabilidad exige comparar el uso con la capacidad de recuperación y los efectos en la biodiversidad.
+- **D2.** B) La social, porque no se considera a los afectados. Aunque la energía solar sea renovable, el proyecto debe considerar a las comunidades.
+- **S1.** B) No es sustentable: usa más de lo que el río recupera. Un recurso renovable deja de serlo si se consume más rápido de lo que se recupera.
+- **E1.** El renovable se recupera con buen manejo; el no renovable no se regenera en tiempo humano. El agua y los bosques son renovables; los minerales no lo son.
+- **E2.** Ambiental, económica y social. La sustentabilidad considera esas tres dimensiones a la vez.
+- **E3.** Un territorio cuyas aguas desembocan en un mismo río o lago. Es una unidad geográfica útil para analizar el uso del agua.
+
+**Actividad abierta · ejemplo de respuesta.** En la cuenca hay agricultura de riego (agua), minería (cobre) y una ciudad (leña y vehículos). El agua es renovable y el cobre no. Un cambio reciente es que llueve menos y el caudal bajó. El municipio es un actor y debe cuidar la dimensión social, atendiendo el acceso al agua. La mesa del agua ayuda a equilibrar los usos.
+
+**Criterios para evaluarla:** nombra tres actividades con sus recursos; distingue renovable de no renovable; relaciona un actor con una dimensión.
+
+**Evidencias aceptables:** párrafo de cinco oraciones.
+
+**Errores que conviene detectar:** confundir renovable con inagotable; usar datos que no están en la ficha.
+
+**Retroalimentación constructiva:** Revisa que cada afirmación se apoye en una frase de la ficha.
+
+**Refuerzo.** Explica con un ejemplo por qué un recurso renovable puede agotarse.
+
+**Profundización.** Observa tu comuna y anota una actividad que use un recurso natural y otra que lo cuide.
 
 
 **Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
@@ -138,11 +263,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Dossier comparativo con dos mapas de escala declarada, cronología, serie de indicadores, documento institucional y dos voces públicas contextualizadas de territorios diferentes; ficha de autoría, fecha, perspectiva y límite para cada fuente.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, textos y datos están escritos en cada ejercicio (son casos de ejemplo, inventados para este cuaderno); no necesitas libros ni internet.
 
-**Consigna exacta:** Para «interrogar fuentes e indicadores: medioambiente y sustentabilidad en chile y américa latina», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+**Consigna exacta:** Usa la Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. Escribe un informe de cinco oraciones: aire frente a la norma (con el exceso), variación del bosque (con el porcentaje), porcentaje de área protegida, un límite de las fuentes y una pregunta para investigar las causas. No inventes datos.
 
-**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+**Referencia para modelar y corregir:** El promedio de partículas es 35 y la norma 20: excede en 15 unidades. El bosque pasó de 800 a 760 mil hectáreas, una pérdida de 5 %. El 15 % de la cuenca es área protegida. Ninguna estación de aire está en la periferia. Pregunta: ¿qué actividades explican la pérdida de bosque entre el año 1 y el año 2?
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -156,7 +281,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: El promedio de partículas es 35 y la norma 20: excede en 15 unidades. El bosque pasó de 800 a 760 mil hectáreas, una pérdida de 5 %. El 15 % de la cuenca es área protegida. Ninguna estación de aire está en la periferia. Pregunta: ¿qué actividades explican la pérdida de bosque entre el año 1 y el año 2? |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -166,6 +291,130 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a leer y calcular indicadores ambientales, como la calidad del aire, la superficie de bosque y las áreas protegidas, y a interrogar las fuentes que los entregan.
+
+**Lo que ya debo saber.** Sé leer una tabla o un texto breve y sacar de él una idea principal. Sé distinguir un hecho de una opinión. Conozco lo básico de la organización del Estado y de las regiones del continente.
+
+**Explicación.**
+
+Los indicadores ambientales resumen el estado del medioambiente. Algunos ejemplos son la concentración de partículas en el aire (que se compara con una norma), la superficie de bosque nativo, la disponibilidad de agua y el porcentaje del territorio protegido. Un porcentaje se calcula dividiendo la parte por el total y multiplicando por 100. Una variación se calcula restando el valor inicial al final; si es negativa, hubo disminución.
+
+Las fuentes son estaciones de monitoreo, imágenes de satélite, estudios de universidades, informes de ministerios, organizaciones de la sociedad civil y relatos de las comunidades. Cada una se interroga: ¿qué mide?, ¿dónde y cuándo?, ¿con qué método?, ¿qué deja fuera? Por ejemplo, si todas las estaciones de aire están en el centro, los datos pueden no representar a la periferia. Los datos de ejemplo de esta ficha son inventados y no describen a ninguna ciudad real.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| indicador ambiental | dato que resume el estado de un aspecto del medioambiente |
+| norma | límite o regla fijada por la ley para proteger algo, por ejemplo la calidad del aire |
+| monitoreo | medición periódica de una variable |
+| área protegida | territorio resguardado por la ley para conservar su naturaleza |
+| variación | diferencia entre un valor final y uno inicial |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Comparar con la norma*
+
+Problema: En una ciudad de ejemplo, la medición es 30 y la norma es 25. ¿Cuántas unidades excede?
+
+1. Se resta la norma a la medición.
+2. 30 − 25 = 5.
+
+Respuesta: Excede en 5 unidades
+
+*Ejemplo 2. Calcular la variación*
+
+Problema: Un bosque de ejemplo pasa de 500 a 450 mil hectáreas. ¿Cuál es la variación?
+
+1. Se resta el valor inicial al final.
+2. 450 − 500 da −50.
+
+Respuesta: −50 mil hectáreas (disminución)
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Tomar la medición de una estación como la de toda la ciudad. **Por qué ocurre:** Una estación mide solo su zona. **Cómo corregirlo:** Revisa dónde están las estaciones y qué zonas quedan sin medir.
+- **Error:** Confundir la variación con el porcentaje de variación. **Por qué ocurre:** La primera es una diferencia absoluta; el porcentaje la compara con el valor inicial. **Cómo corregirlo:** Calcula primero la diferencia y luego, si piden porcentaje, divide por el valor inicial.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Qué es una norma ambiental? A) Una medición hecha por una estación en un solo día B) Una opinión de una organización social C) Un límite fijado por ley para proteger, como el del aire
+- **R2.** ¿Qué es el monitoreo ambiental? A) La decisión de cerrar una actividad productiva B) La medición periódica de una variable, como el aire C) El reparto del agua entre los usos de una cuenca
+- **R3.** ¿Qué es un área protegida? A) Un territorio donde está prohibido que viva cualquier persona o comunidad B) Un territorio resguardado por ley para conservar su naturaleza C) Un territorio donde solo se pueden realizar actividades mineras o industriales
+
+*Comprensión*
+
+- **C1.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Cuántas unidades por sobre la norma está el promedio anual de partículas del aire?
+- **C2.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Cuál es la variación de la superficie de bosque nativo entre el año 1 y el año 2 (en miles de hectáreas)?
+- **C3.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Qué porcentaje de la cuenca es área protegida?
+
+*Aplicación*
+
+- **A1.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Qué porcentaje del bosque del año 1 se perdió hasta el año 2 (40 mil de 800 mil)?
+- **A2.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Qué limitación tiene la medición del aire de la ficha? A) Se midió el aire solo en el interior de las casas B) Hay demasiadas estaciones para una ciudad pequeña C) Ninguna de las 4 estaciones está en la zona de la periferia
+- **A3.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Qué tipo de fuente es el estudio de una universidad junto a imágenes de satélite? A) Una fuente oficial que fija la norma del aire B) Una fuente científica que mide la superficie del bosque C) Una opinión personal sin datos ni método
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. Un diario afirma: «El aire de toda la ciudad está dentro de la norma». ¿Qué corresponde decir? A) Falso en estos datos: el promedio supera la norma B) Verdadero, porque 35 es menor que 20 C) No se puede saber, porque 35 y 20 no se pueden comparar
+- **Z2.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. ¿Qué se puede afirmar sobre el bosque nativo con estos datos? A) Aumentó, porque ambos años tienen cifras en miles de hectáreas medidas B) Disminuyó, pero no se conoce la causa C) Disminuyó por causa de la agricultura de riego de toda la cuenca
+
+*Desafío*
+
+- **D1.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. Un ministerio dice: «La cuenca está bien protegida porque tiene 15 % de áreas protegidas». ¿Qué falta para evaluarlo? A) Nada, porque 15 % siempre es una cifra suficiente para proteger una cuenca B) Qué se protege y si la protección se cumple en la práctica C) Solo el nombre de la persona que firmó el informe del ministerio
+- **D2.** Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. Para evaluar mejor el aire de la periferia, ¿qué sería útil? A) Quitar las estaciones de la zona central de la ciudad B) Instalar una estación de medición en la periferia C) Usar solo el promedio de los últimos cinco días
+
+*Situaciones auténticas*
+
+- **S1.** En una ciudad de ejemplo la norma de partículas es 25 y se miden 40 unidades. ¿Cuántas unidades por sobre la norma y qué porcentaje de la norma es ese exceso? A) 15 unidades, que es 60 % de la norma B) 15 unidades, que es 15 % de la norma C) 65 unidades, que es 160 % de la norma
+
+*Autoevaluación*
+
+- **E1.** Nombra dos fuentes para conocer el estado del medioambiente.
+- **E2.** Un bosque de ejemplo pasa de 600 a 570 mil hectáreas. ¿Cuántas mil hectáreas se perdieron?
+- **E3.** ¿Por qué importa saber dónde están las estaciones de medición?
+
+**Actividad abierta.** Usa la Ficha 2 (datos de ejemplo, inventados; ciudad ficticia de Aire Norte y región ficticia de Cuenca del Río Claro). Aire: promedio anual de partículas finas en el aire de la ciudad: 35 unidades; el límite de la norma de ejemplo es 20 unidades. Bosque nativo: 800 mil hectáreas en el año 1 y 760 mil hectáreas en el año 2. Áreas protegidas: 150 mil de las 1.000 mil hectáreas de la cuenca. Fuentes: las mediciones del aire vienen de 4 estaciones fijas, ninguna en la zona de la periferia; el dato del bosque viene de imágenes de satélite y de un estudio de una universidad; la cifra de áreas protegidas viene de un informe de un ministerio. Escribe un informe de cinco oraciones: aire frente a la norma (con el exceso), variación del bosque (con el porcentaje), porcentaje de área protegida, un límite de las fuentes y una pregunta para investigar las causas. No inventes datos.
+
+**Solucionario razonado**
+
+- **R1.** C) Un límite fijado por ley para proteger, como el del aire. La norma es un límite legal con el que se comparan las mediciones.
+- **R2.** B) La medición periódica de una variable, como el aire. Monitorear es medir con regularidad para seguir cambios.
+- **R3.** B) Un territorio resguardado por ley para conservar su naturaleza. Las áreas protegidas buscan conservar naturaleza y regulan los usos, no impiden todo uso humano.
+- **C1.** 15 unidades. Se resta la norma a la medición. Cálculo: 35 − 20 = 15.
+- **C2.** -40 mil hectáreas. Se resta el valor inicial al final; el resultado negativo indica disminución. Cálculo: 760 − 800 = -40.
+- **C3.** 15 %. Se divide la superficie protegida por la total y se multiplica por 100. Cálculo: 150 × 100 ÷ 1000 = 15.
+- **A1.** 5 %. Se divide la pérdida por la superficie inicial y se multiplica por 100. Cálculo: 40 × 100 ÷ 800 = 5.
+- **A2.** C) Ninguna de las 4 estaciones está en la zona de la periferia. La ficha dice que ninguna estación está en la periferia, por lo que esa zona puede no estar representada.
+- **A3.** B) Una fuente científica que mide la superficie del bosque. Combina imágenes y análisis para medir el bosque; no fija normas ni es una opinión.
+- **Z1.** A) Falso en estos datos: el promedio supera la norma. Con la norma en 20 y el promedio en 35, el promedio excede el límite.
+- **Z2.** B) Disminuyó, pero no se conoce la causa. Los datos muestran la disminución, pero no explican por qué ocurrió.
+- **D1.** B) Qué se protege y si la protección se cumple en la práctica. El porcentaje es una cifra de superficie; la calidad de la protección requiere más información.
+- **D2.** B) Instalar una estación de medición en la periferia. Más puntos de medición permiten conocer la calidad del aire donde hoy no hay datos.
+- **S1.** A) 15 unidades, que es 60 % de la norma. El exceso es 40 − 25 = 15 y 15 ÷ 25 × 100 = 60.
+- **E1.** Por ejemplo, estaciones de monitoreo e imágenes de satélite. También sirven estudios de universidades e informes de ministerios.
+- **E2.** 30 mil hectáreas. Se resta la superficie final a la inicial. Cálculo: 600 − 570 = 30.
+- **E3.** Porque pueden no representar las zonas sin estación. Una estación mide solo su entorno.
+
+**Actividad abierta · ejemplo de respuesta.** El promedio de partículas es 35 y la norma 20: excede en 15 unidades. El bosque pasó de 800 a 760 mil hectáreas, una pérdida de 5 %. El 15 % de la cuenca es área protegida. Ninguna estación de aire está en la periferia. Pregunta: ¿qué actividades explican la pérdida de bosque entre el año 1 y el año 2?
+
+**Criterios para evaluarla:** calcula tres indicadores; menciona un límite de fuente; formula una pregunta de causa.
+
+**Evidencias aceptables:** informe de cinco oraciones.
+
+**Errores que conviene detectar:** afirmar causas sin datos; no mencionar el límite.
+
+**Retroalimentación constructiva:** Revisa si cada cifra tiene unidad y fuente.
+
+**Refuerzo.** Calcula un porcentaje de bosque perdido con cifras inventadas.
+
+**Profundización.** Busca con tu docente dónde se publican mediciones de aire o de agua de tu zona y anota el nombre de la fuente.
 
 
 **Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
@@ -216,11 +465,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Dossier comparativo con dos mapas de escala declarada, cronología, serie de indicadores, documento institucional y dos voces públicas contextualizadas de territorios diferentes; ficha de autoría, fecha, perspectiva y límite para cada fuente.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, textos y datos están escritos en cada ejercicio (son casos de ejemplo, inventados para este cuaderno); no necesitas libros ni internet.
 
-**Consigna exacta:** Para «comparar causas y perspectivas: medioambiente y sustentabilidad en chile y américa latina», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+**Consigna exacta:** Usa la Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. Arma un cuadro con las cuatro voces: qué necesita cada una, qué causa destaca y qué evidencia pedirías. Cierra con una propuesta de dos oraciones que atienda a más de un actor.
 
-**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+**Referencia para modelar y corregir:** Voz 1: agua de riego; evidencia: caudal que necesita. Voz 2: empleo y agua; evidencia: agua por tonelada. Voz 3: aire respirable y calefacción accesible; evidencia: mediciones de partículas en invierno. Voz 4: ajustar usos; evidencia: balance entre lluvia y consumo. Propuesta: acordar en la mesa del agua una meta de uso según lo que el río recupera y apoyar con subsidios la calefacción menos contaminante.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -234,7 +483,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Voz 1: agua de riego; evidencia: caudal que necesita. Voz 2: empleo y agua; evidencia: agua por tonelada. Voz 3: aire respirable y calefacción accesible; evidencia: mediciones de partículas en invierno. Voz 4: ajustar usos; evidencia: balance entre lluvia y consumo. Propuesta: acordar en la mesa del agua una meta de uso según lo que el río recupera y apoyar con subsidios la calefacción menos contaminante. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -244,6 +493,130 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a comparar causas y perspectivas de distintos actores frente a problemas ambientales, reconociendo que la sustentabilidad busca equilibrar lo ambiental, lo económico y lo social.
+
+**Lo que ya debo saber.** Sé leer una tabla o un texto breve y sacar de él una idea principal. Sé distinguir un hecho de una opinión. Conozco lo básico de la organización del Estado y de las regiones del continente.
+
+**Explicación.**
+
+Los problemas ambientales tienen causas naturales y humanas que se combinan. Por ejemplo, una sequía puede depender de que llueve menos y también de cuánta agua usan las actividades. La contaminación del aire en invierno puede relacionarse con la calefacción a leña, el tránsito de vehículos y el clima del lugar. Para comprender un problema hay que preguntar qué causas son más importantes, con qué evidencia y qué actores pueden actuar sobre cada una.
+
+Los actores miran el problema desde su lugar: quienes producen defienden su actividad y su empleo; las comunidades, su acceso al agua y a un aire limpio; los científicos, la evidencia; el Estado, el equilibrio entre intereses y la ley. Estas perspectivas pueden tener puntos en común: casi todos quieren agua y aire para el futuro. Una buena comparación identifica quién habla, qué necesita y qué evidencia presenta, y no se queda con la perspectiva que más conviene. La sustentabilidad busca equilibrar las necesidades, no eliminar ninguna.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| causa natural | causa que no depende de las personas, como el clima |
+| causa humana | causa que depende de actividades de las personas |
+| perspectiva | punto de vista de un actor según su lugar y sus necesidades |
+| equilibrar | buscar un punto intermedio que atienda varias necesidades |
+| evidencia | dato o fuente que respalda una afirmación |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Separar causas*
+
+Problema: En una zona de ejemplo baja el caudal de un río porque llueve menos y porque aumenta el riego. ¿Qué causa es natural y cuál humana?
+
+1. Llover menos depende del clima: es natural.
+2. El aumento del riego depende de las personas: es humana.
+
+Respuesta: Natural: menos lluvia. Humana: más riego
+
+*Ejemplo 2. Encontrar un punto en común*
+
+Problema: Un agricultor y una científica de ejemplo discuten sobre el río. Ambos quieren que el agua alcance en el futuro. ¿Qué coincidencia hay?
+
+1. Los dos desean agua para el futuro.
+2. Esa coincidencia puede ser base de un acuerdo.
+
+Respuesta: Quieren que el agua no se agote
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Culpar a un solo actor sin evidencia. **Por qué ocurre:** Los problemas ambientales suelen tener varias causas y varios actores. **Cómo corregirlo:** Pregunta qué datos muestran la contribución de cada actor.
+- **Error:** Descartar la perspectiva de quien produce o de quien contamina. **Por qué ocurre:** Todas las perspectivas aportan información sobre necesidades y límites. **Cómo corregirlo:** Escucha todas y contrástalas con evidencia.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Qué es una causa natural de un problema ambiental? A) Una que depende de las decisiones de una empresa B) Una que no depende de las personas, como el clima o la lluvia C) Una que se produce solo por actividades de la ciudad
+- **R2.** ¿Qué significa equilibrar necesidades en sustentabilidad? A) Atender solo la necesidad más urgente de las empresas de la región B) Atender a la vez necesidades ambientales, económicas y sociales C) Eliminar todas las actividades económicas que usen recursos naturales
+- **R3.** ¿Qué es la evidencia en un debate ambiental? A) La opinión más repetida entre los participantes B) Datos o fuentes que respaldan una afirmación C) La postura de quien tiene el cargo más alto
+
+*Comprensión*
+
+- **C1.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Qué prioridad plantea la Voz 1? A) Mantener agua de riego para producir alimentos B) Cerrar la mina por completo para cuidar el agua C) Prohibir el uso de leña en todas las viviendas
+- **C2.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Qué reconoce la Voz 2 sobre el uso del agua? A) Que la mina no usa agua para funcionar B) Que la mina necesita agua, aunque busca usar menos C) Que la mina no tiene relación con el empleo
+- **C3.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Por qué mucha gente usa leña, según la Voz 3? A) Porque la leña no produce humo ni contaminación B) Porque calefaccionar de otro modo es caro C) Porque la ciudad no tiene ningún acceso a otro combustible
+
+*Aplicación*
+
+- **A1.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Qué causas menciona la Voz 4 para el problema del agua? A) Menos lluvia y más usos que lo que recupera el río B) Solo el aumento de las temperaturas en verano C) Únicamente el uso del agua de los hogares
+- **A2.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿En qué coinciden las Voces 1 y 2? A) Ambas necesitan agua para sostener su actividad B) Ambas piden eliminar el uso de leña C) Ambas niegan que haya problemas de agua
+- **A3.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Qué relación hay entre la Voz 3 y la calidad del aire? A) El humo de la leña mejora la calidad del aire en invierno B) El humo de la leña dificulta respirar en invierno C) La leña no tiene relación alguna con el aire de la ciudad
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. Alguien afirma: «La sequía se debe solo a la mina». ¿Qué corrección es más precisa? A) Es verdad, porque la mina es el único actor que usa agua B) Hay menos lluvia y varios usos del agua, no solo la mina C) Es falso, porque la mina no usa agua del río
+- **Z2.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Qué medida atiende a la vez la Voz 3 y la calidad del aire? A) Prohibir la calefacción en las viviendas durante todo el invierno B) Subsidiar el cambio a una calefacción menos contaminante C) Aumentar el precio de todas las formas de calefacción disponibles
+
+*Desafío*
+
+- **D1.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. ¿Cómo se podría equilibrar la Voz 1, la Voz 2 y la Voz 4? A) Dar toda el agua a la actividad que más empleo dé B) Ajustar los usos del agua a lo que el río recupera C) Esperar a que llueva más sin tomar ninguna medida
+- **D2.** Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. Para comparar bien estas cuatro voces, ¿qué conviene hacer? A) Descartar las voces de quienes obtienen ganancias de la actividad B) Elegir la voz que coincide con lo que uno piensa C) Identificar quién habla, qué necesita y qué evidencia presenta
+
+*Situaciones auténticas*
+
+- **S1.** En un pueblo de ejemplo, una fábrica emplea a muchas personas y vierte desechos a un río donde pesca la comunidad. ¿Qué enfoque de sustentabilidad es el más adecuado? A) Cerrar la fábrica de inmediato sin considerar a quienes trabajan en ella B) Reducir los desechos y mantener el empleo C) Permitir los desechos para proteger los empleos sin ningún límite
+
+*Autoevaluación*
+
+- **E1.** Nombra una causa natural y una humana de la escasez de agua.
+- **E2.** ¿Por qué conviene escuchar a todos los actores?
+- **E3.** ¿Qué significa buscar puntos en común entre perspectivas distintas?
+
+**Actividad abierta.** Usa la Ficha 3 (caso de ejemplo, inventado; Cuenca del Río Claro). Cuatro voces hablan del problema del agua y del aire. Voz 1, una agricultora: sin agua de riego no se puede producir alimentos, y el riego ya está tecnificado. Voz 2, un ingeniero de la mina: la mina da empleo y trabaja para usar menos agua por tonelada, pero necesita agua para funcionar. Voz 3, un vecino de la ciudad: en invierno el humo de la leña hace difícil respirar y mucha gente la usa porque calefaccionar de otro modo es caro. Voz 4, una científica: llueve menos y las actividades usan más agua de la que el río recupera; hay que ajustar los usos. Arma un cuadro con las cuatro voces: qué necesita cada una, qué causa destaca y qué evidencia pedirías. Cierra con una propuesta de dos oraciones que atienda a más de un actor.
+
+**Solucionario razonado**
+
+- **R1.** B) Una que no depende de las personas, como el clima o la lluvia. Las causas naturales ocurren sin intervención humana directa.
+- **R2.** B) Atender a la vez necesidades ambientales, económicas y sociales. Equilibrar es compatibilizar varias necesidades sin sacrificar del todo ninguna.
+- **R3.** B) Datos o fuentes que respaldan una afirmación. La evidencia respalda lo que se dice; la repetición o el cargo no.
+- **C1.** A) Mantener agua de riego para producir alimentos. La agricultora defiende el agua de riego para la producción de alimentos.
+- **C2.** B) Que la mina necesita agua, aunque busca usar menos. El ingeniero reconoce la necesidad de agua y el esfuerzo por reducir su uso.
+- **C3.** B) Porque calefaccionar de otro modo es caro. El vecino explica que la alternativa es más cara, no que la leña no contamine.
+- **A1.** A) Menos lluvia y más usos que lo que recupera el río. La científica combina una causa natural y una humana.
+- **A2.** A) Ambas necesitan agua para sostener su actividad. La agricultora y el ingeniero dependen del agua para trabajar.
+- **A3.** B) El humo de la leña dificulta respirar en invierno. El vecino relaciona la leña con dificultad para respirar.
+- **Z1.** B) Hay menos lluvia y varios usos del agua, no solo la mina. Hay causas naturales y de varios usos; atribuirlo solo a la mina carece de evidencia.
+- **Z2.** B) Subsidiar el cambio a una calefacción menos contaminante. Un subsidio reduce el costo para las familias y baja la contaminación.
+- **D1.** B) Ajustar los usos del agua a lo que el río recupera. La Voz 4 propone ajustar usos; con datos compartidos se pueden repartir cargas.
+- **D2.** C) Identificar quién habla, qué necesita y qué evidencia presenta. Todas las voces aportan información, pero se contrastan con evidencia.
+- **S1.** B) Reducir los desechos y mantener el empleo. La sustentabilidad busca compatibilizar lo ambiental, lo económico y lo social.
+- **E1.** Natural: menos lluvia; humana: más usos del agua. Ambas pueden combinarse en un mismo problema.
+- **E2.** Porque cada uno aporta una parte de la información y de las necesidades. La comparación con evidencia permite una decisión más justa.
+- **E3.** Encontrar objetivos compartidos que permitan acordar. Muchos actores comparten el interés por un futuro con agua y aire limpios.
+
+**Actividad abierta · ejemplo de respuesta.** Voz 1: agua de riego; evidencia: caudal que necesita. Voz 2: empleo y agua; evidencia: agua por tonelada. Voz 3: aire respirable y calefacción accesible; evidencia: mediciones de partículas en invierno. Voz 4: ajustar usos; evidencia: balance entre lluvia y consumo. Propuesta: acordar en la mesa del agua una meta de uso según lo que el río recupera y apoyar con subsidios la calefacción menos contaminante.
+
+**Criterios para evaluarla:** resume cada voz; propone evidencia posible; propone algo que atiende a varios actores.
+
+**Evidencias aceptables:** cuadro de cuatro filas; propuesta de dos oraciones.
+
+**Errores que conviene detectar:** culpar a un solo actor; no pedir evidencia.
+
+**Retroalimentación constructiva:** Revisa si tu propuesta toma en cuenta lo ambiental, lo económico y lo social.
+
+**Refuerzo.** Explica con tus palabras por qué la sustentabilidad busca equilibrar necesidades.
+
+**Profundización.** Conversa con una persona de tu casa sobre un problema ambiental de tu comuna y anota una causa que mencione.
 
 
 **Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
@@ -294,11 +667,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Dossier comparativo con dos mapas de escala declarada, cronología, serie de indicadores, documento institucional y dos voces públicas contextualizadas de territorios diferentes; ficha de autoría, fecha, perspectiva y límite para cada fuente.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, textos y datos están escritos en cada ejercicio (son casos de ejemplo, inventados para este cuaderno); no necesitas libros ni internet.
 
-**Consigna exacta:** Para «explicar relaciones y consecuencias: medioambiente y sustentabilidad en chile y américa latina», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+**Consigna exacta:** Usa la Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. Escribe una cadena de cinco eslabones desde las actividades que emiten gases de efecto invernadero hasta una consecuencia en los hogares. Incluye al menos una cifra de la ficha y marca con «probable» lo que no es seguro.
 
-**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+**Referencia para modelar y corregir:** Quemar combustibles y talar bosques emite gases de efecto invernadero → sube la temperatura → hay años más secos → la producción de maíz baja 30 % (de 100 a 70 toneladas) → el kilo sube a 12 u.m. y los hogares con menos ingresos gastan más (probable).
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -312,7 +685,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Quemar combustibles y talar bosques emite gases de efecto invernadero → sube la temperatura → hay años más secos → la producción de maíz baja 30 % (de 100 a 70 toneladas) → el kilo sube a 12 u.m. y los hogares con menos ingresos gastan más (probable). |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -322,6 +695,130 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a explicar relaciones y consecuencias entre actividades humanas, cambio climático, agua, producción de alimentos y salud en Chile y América Latina.
+
+**Lo que ya debo saber.** Sé leer una tabla o un texto breve y sacar de él una idea principal. Sé distinguir un hecho de una opinión. Conozco lo básico de la organización del Estado y de las regiones del continente.
+
+**Explicación.**
+
+El cambio climático es el cambio de largo plazo del clima del planeta. Hoy se explica principalmente por actividades humanas que emiten gases de efecto invernadero, como quemar petróleo, carbón y gas, o talar bosques. Esos gases retienen calor y aumentan la temperatura media. Sus consecuencias pueden ser sequías, olas de calor, incendios más intensos, derretimiento de glaciares y cambios en las lluvias. No ocurren igual en todos los lugares: dependen de la geografía y de cómo se prepare cada sociedad.
+
+Los problemas ambientales se relacionan en cadena con la economía y la salud. Menos agua puede bajar la producción agrícola y subir los precios de los alimentos; la contaminación del aire puede aumentar las enfermedades respiratorias; perder bosques reduce la biodiversidad y la protección del suelo. Al explicar una cadena, conviene separar lo que muestran los datos de lo que es probable, y decir qué tan grande es el efecto. Una variación se mide con una resta y un porcentaje con una división.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| cambio climático | cambio de largo plazo del clima del planeta, explicado hoy sobre todo por actividades humanas |
+| gases de efecto invernadero | gases que retienen calor en la atmósfera |
+| sequía | período con falta de lluvia que afecta al agua disponible |
+| incendio forestal | fuego que se propaga en un bosque o pastizal |
+| erosión | pérdida de suelo por viento o agua |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Calcular una variación*
+
+Problema: Una cosecha de ejemplo baja de 80 a 60 toneladas. ¿En cuántas toneladas y qué porcentaje?
+
+1. Se resta: 80 − 60 = 20.
+2. 20 sobre 80 es 25 %.
+
+Respuesta: 20 toneladas, 25 %
+
+*Ejemplo 2. Seguir una cadena*
+
+Problema: En una zona de ejemplo hay sequía, se produce menos trigo y el precio de la harina sube. ¿Qué consecuencia es probable en los hogares?
+
+1. Si el precio sube, comprar la misma cantidad cuesta más.
+2. Los hogares con menos ingresos sufren más.
+
+Respuesta: Gastan más en alimentos; se ven más afectados los hogares con menos ingresos
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Atribuir un solo hecho, como un incendio, al cambio climático sin datos. **Por qué ocurre:** Cada hecho tiene varias causas, y el clima puede ser una de ellas. **Cómo corregirlo:** Distingue tendencias de largo plazo de eventos puntuales.
+- **Error:** Creer que el cambio climático afecta igual a todos los lugares. **Por qué ocurre:** Depende de la geografía y de la capacidad de adaptación. **Cómo corregirlo:** Describe el efecto en cada lugar con sus datos.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Qué es el cambio climático? A) Un cambio de largo plazo del clima del planeta B) Un cambio del tiempo de un solo día C) Un cambio de estación del año
+- **R2.** ¿Qué son los gases de efecto invernadero? A) Gases que retienen calor en la atmósfera B) Gases que enfrían el planeta cuando se acumulan C) Gases que solo existen en el interior de los invernaderos
+- **R3.** ¿Qué es la erosión del suelo? A) El aumento de plantas en un terreno agrícola B) La pérdida de suelo que arrastran el viento o el agua C) La construcción de casas en terrenos con pendiente
+
+*Comprensión*
+
+- **C1.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿En cuántas toneladas bajó la producción de maíz en el año seco?
+- **C2.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿Qué porcentaje bajó la producción de maíz en el año seco?
+- **C3.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. Un comprador necesita 50 kilos de maíz. ¿Cuánto más paga en el año seco que en el normal?
+
+*Aplicación*
+
+- **A1.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿Cuántos días más con alerta de mala calidad del aire hubo?
+- **A2.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿Qué cadena describe mejor lo que muestra la ficha sobre el maíz? A) Más calor, menos lluvia, menos producción y mayor precio B) Más lluvia, mayor producción y un precio más bajo C) Menos calor, menor producción y un precio más alto
+- **A3.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿Qué actividad humana mencionan los científicos de ejemplo como fuente de gases de efecto invernadero? A) Quemar combustibles y talar bosques B) Plantar árboles en zonas desérticas C) Medir la calidad del aire con estaciones
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. Alguien dice: «El incendio forestal prueba por sí solo que hay cambio climático». ¿Qué corrección es más precisa? A) Un evento puntual no prueba una tendencia de largo plazo B) Es cierto, porque cada incendio forestal tiene como única causa el clima C) Es falso, porque los incendios nunca se relacionan con el clima de la zona
+- **Z2.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿A quiénes afecta más el alza del precio del maíz? A) A los hogares con menos ingresos, que gastan más en alimentos B) A los hogares con más ingresos, que compran lo mismo C) A nadie, porque el precio no influye en el gasto
+
+*Desafío*
+
+- **D1.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. ¿Qué dato de la ficha relaciona la contaminación del aire con la salud? A) Los días de alerta de aire pasaron de 10 a 25 B) La producción de maíz bajó de 100 a 70 toneladas al año C) El kilo de maíz subió de 10 a 12 u.m. en el año seco
+- **D2.** Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. Si el país quisiera reducir los riesgos de la sequía para la agricultura, ¿qué acción sería coherente? A) Mejorar el riego y proteger las fuentes de agua B) Aumentar la tala de bosques cercanos a la zona C) Usar más agua cada año sin medir el caudal
+
+*Situaciones auténticas*
+
+- **S1.** Un país de ejemplo pierde cada año parte de sus bosques cerca de un río. Llueve fuerte y el suelo se desliza hacia el río. ¿Qué relación se observa? A) La pérdida de bosque aumenta la erosión del suelo B) La pérdida de bosque aumenta la protección del suelo C) La lluvia fuerte siempre mejora el suelo
+
+*Autoevaluación*
+
+- **E1.** En Chile y la región, ¿cómo se relaciona la sequía con los alimentos?
+- **E2.** La producción de un cultivo de ejemplo baja de 200 a 150 toneladas. ¿En cuántas toneladas bajó?
+- **E3.** ¿Por qué un evento puntual no basta para hablar de cambio climático?
+
+**Actividad abierta.** Usa la Ficha 4 (datos de ejemplo, inventados; país ficticio Costa Alta). Un año normal, la zona agrícola produce 100 toneladas de maíz y el kilo se vende a 10 u.m. En un año seco, con temperaturas más altas y menos lluvia, la producción baja a 70 toneladas y el kilo sube a 12 u.m. Los días con alerta de mala calidad del aire en la ciudad pasaron de 10 a 25 por año. Un incendio forestal destruyó parte de un bosque cercano. Los científicos de ejemplo señalan que el calentamiento se asocia a gases de efecto invernadero, que se emiten al quemar combustibles y al talar bosques. Escribe una cadena de cinco eslabones desde las actividades que emiten gases de efecto invernadero hasta una consecuencia en los hogares. Incluye al menos una cifra de la ficha y marca con «probable» lo que no es seguro.
+
+**Solucionario razonado**
+
+- **R1.** A) Un cambio de largo plazo del clima del planeta. El cambio climático es de largo plazo; el tiempo diario o las estaciones son variaciones normales.
+- **R2.** A) Gases que retienen calor en la atmósfera. Esos gases retienen calor y contribuyen al calentamiento.
+- **R3.** B) La pérdida de suelo que arrastran el viento o el agua. La erosión desgasta el suelo; sin cobertura vegetal se acelera.
+- **C1.** 30 toneladas. Se resta la producción del año seco a la del año normal. Cálculo: 100 − 70 = 30.
+- **C2.** 30 %. Se divide la baja por la producción normal y se multiplica por 100. Cálculo: (100 − 70) × 100 ÷ 100 = 30.
+- **C3.** 100 u.m.. Se calcula el costo con cada precio y se restan. Cálculo: 50 × 12 − 50 × 10 = 100.
+- **A1.** 15 días. Se resta el valor inicial al final. Cálculo: 25 − 10 = 15.
+- **A2.** A) Más calor, menos lluvia, menos producción y mayor precio. La ficha describe un año seco y caluroso, con menos producción y precio mayor.
+- **A3.** A) Quemar combustibles y talar bosques. La ficha indica esas dos actividades como emisoras de gases.
+- **Z1.** A) Un evento puntual no prueba una tendencia de largo plazo. El cambio climático se identifica con tendencias de muchos años; un incendio puede tener varias causas.
+- **Z2.** A) A los hogares con menos ingresos, que gastan más en alimentos. Un mismo aumento pesa más en quienes destinan mayor parte de sus ingresos a comer.
+- **D1.** A) Los días de alerta de aire pasaron de 10 a 25. Las alertas por aire de mala calidad indican riesgo para la salud respiratoria.
+- **D2.** A) Mejorar el riego y proteger las fuentes de agua. Usar mejor el agua y proteger sus fuentes reduce la vulnerabilidad.
+- **S1.** A) La pérdida de bosque aumenta la erosión del suelo. Sin árboles que sujeten el suelo, la lluvia arrastra tierra: es erosión.
+- **E1.** Menos agua puede bajar la producción y subir los precios. Es una relación de causa y consecuencia que depende de cada lugar.
+- **E2.** 50 toneladas. Se resta la producción final a la inicial. Cálculo: 200 − 150 = 50.
+- **E3.** Porque el cambio climático se mide con tendencias de largo plazo. Hay que mirar muchos años de datos.
+
+**Actividad abierta · ejemplo de respuesta.** Quemar combustibles y talar bosques emite gases de efecto invernadero → sube la temperatura → hay años más secos → la producción de maíz baja 30 % (de 100 a 70 toneladas) → el kilo sube a 12 u.m. y los hogares con menos ingresos gastan más (probable).
+
+**Criterios para evaluarla:** cinco eslabones; usa una cifra de la ficha; marca lo probable.
+
+**Evidencias aceptables:** cadena de cinco eslabones.
+
+**Errores que conviene detectar:** afirmar certezas sin evidencia; saltar eslabones.
+
+**Retroalimentación constructiva:** Pregunta qué dato nuevo comprobaría un eslabón.
+
+**Refuerzo.** Dibuja una cadena causal con tres eslabones sobre bosque, suelo y río.
+
+**Profundización.** Pregunta a una persona de tu casa qué cambios en el clima ha notado en tu zona y anota una observación sin datos privados.
 
 
 **Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.
@@ -372,11 +869,11 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 
 ### Insumo concreto y consigna
 
-**Recurso listo para usar:** Dossier comparativo con dos mapas de escala declarada, cronología, serie de indicadores, documento institucional y dos voces públicas contextualizadas de territorios diferentes; ficha de autoría, fecha, perspectiva y límite para cada fuente.
+**Recurso listo para usar:** Lápiz y papel. Todos los casos, textos y datos están escritos en cada ejercicio (son casos de ejemplo, inventados para este cuaderno); no necesitas libros ni internet.
 
-**Consigna exacta:** Para «evaluar alternativas: medioambiente y sustentabilidad en chile y américa latina», contextualiza dos fuentes, compara actores o territorios, explica una relación causal o institucional y formula una conclusión con contrapunto y límite.
+**Consigna exacta:** Usa la Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. Redacta una recomendación de seis líneas: qué acción o combinación elegirías, con su costo por tonelada; qué criterio pesó más; a quién podría afectar negativamente; cómo lo compensarías; y cómo se relaciona con el acuerdo internacional.
 
-**Referencia para modelar y corregir:** La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única.
+**Referencia para modelar y corregir:** Recomiendo combinar B y C. B cuesta 4 por tonelada y C cuesta 2. Pesó el efecto sobre la salud y la equidad. El impuesto podría afectar a hogares de menos ingresos si sube los precios. Usaría parte del impuesto para financiar el subsidio de B. Así el país avanza en el compromiso del acuerdo internacional de reducir emisiones.
 
 **Lista de preparación docente:**
 - [ ] Preparar el insumo concreto sin datos personales ni material sin autorización.
@@ -390,7 +887,7 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 |---|---|
 | Aún no observable | No produce evidencia suficiente o responde sin relacionarla con la consigna. |
 | En desarrollo | Responde parcialmente y necesita apoyo para usar el criterio o la evidencia. |
-| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: La respuesta ubica tiempo, territorio y escala, cita evidencia identificable, reconoce relaciones de poder y perspectivas, y evita generalizaciones, anacronismos o explicaciones de causa única. |
+| Logrado | Responde la consigna, usa el criterio central y deja una evidencia comprensible. Referencia de esta clase: Recomiendo combinar B y C. B cuesta 4 por tonelada y C cuesta 2. Pesó el efecto sobre la salud y la equidad. El impuesto podría afectar a hogares de menos ingresos si sube los precios. Usaría parte del impuesto para financiar el subsidio de B. Así el país avanza en el compromiso del acuerdo internacional de reducir emisiones. |
 | Profundizado | Justifica, contrasta o transfiere la decisión a una condición nueva. |
 
 | Distribución de 45 minutos | Acción imprescindible |
@@ -400,6 +897,130 @@ La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala re
 | 12 min | Primer intento guiado y retroalimentación según un criterio. |
 | 15 min | Desempeño individual con evidencia atribuible. |
 | 5 min | Ticket, clasificación del nivel y decisión posterior. |
+
+
+### Cuaderno del estudiante
+
+**Lo que aprenderé y para qué sirve.** Aprenderé a evaluar acciones que los Estados de la región emprenden para avanzar en sustentabilidad, con criterios de efecto ambiental, costo, plazo y equidad.
+
+**Lo que ya debo saber.** Sé leer una tabla o un texto breve y sacar de él una idea principal. Sé distinguir un hecho de una opinión. Conozco lo básico de la organización del Estado y de las regiones del continente.
+
+**Explicación.**
+
+Los Estados de América Latina emprenden distintas acciones para avanzar en sustentabilidad: crean y amplían áreas protegidas, fijan normas de calidad del aire y del agua, promueven las energías renovables, cobran impuestos a las emisiones, ofrecen subsidios y firman acuerdos internacionales sobre cambio climático y biodiversidad. Para evaluarlas se usan criterios: el efecto ambiental (cuánto reduce el problema), el costo, el plazo, la equidad (quién paga y quién se beneficia) y la capacidad de ser cumplida y fiscalizada.
+
+Un cálculo útil es el costo por unidad de efecto, por ejemplo, el costo por tonelada reducida o absorbida: costo total dividido por toneladas. Sirve para comparar, pero no decide por sí solo: una acción cara puede traer beneficios de salud o sociales que el número no recoge, y una barata puede cargar costos en las personas con menos ingresos. Por eso se evalúan varios criterios, se explican los supuestos y se considera a las comunidades afectadas. Los datos de esta ficha son de ejemplo.
+
+**Palabras importantes**
+
+| Palabra | Qué significa |
+|---|---|
+| acuerdo internacional | compromiso entre países para actuar frente a un problema común |
+| subsidio | ayuda económica del Estado para facilitar una acción |
+| impuesto a las emisiones | pago que se cobra por cada cantidad de gases emitidos |
+| fiscalizar | controlar que se cumpla una norma |
+| costo por tonelada | costo total dividido por las toneladas reducidas |
+
+**Ejemplos resueltos paso a paso**
+
+*Ejemplo 1. Costo por tonelada*
+
+Problema: Una acción de ejemplo cuesta 400 y reduce 80 toneladas. ¿Cuál es el costo por tonelada?
+
+1. Se divide el costo total por las toneladas.
+2. 400 ÷ 80 = 5.
+
+Respuesta: 5
+
+*Ejemplo 2. Revisar quién paga*
+
+Problema: Un impuesto de ejemplo a las emisiones puede subir el precio de la energía. ¿Qué efecto social hay que mirar?
+
+1. Los hogares con menos ingresos gastan una parte mayor en energía.
+2. Se podría compensar con ayudas.
+
+Respuesta: Impacto en hogares con menos ingresos
+
+**Errores frecuentes y cómo reconocerlos**
+
+- **Error:** Elegir la acción de menor costo sin mirar quién paga. **Por qué ocurre:** Puede cargar los costos en personas con menos ingresos. **Cómo corregirlo:** Incluye la equidad entre los criterios.
+- **Error:** Creer que un acuerdo internacional cumple solo el problema. **Por qué ocurre:** Un acuerdo necesita acciones nacionales y fiscalización. **Cómo corregirlo:** Revisa si hay medidas concretas para cumplirlo.
+
+**Ejercicios**
+
+*Recuperación*
+
+- **R1.** ¿Qué es un subsidio? A) Una ayuda económica del Estado para facilitar algo B) Un impuesto que se cobra a quien contamina más C) Una multa por no cumplir una norma ambiental
+- **R2.** ¿Qué significa fiscalizar una norma? A) Controlar que la norma se cumpla en la práctica B) Escribir una nueva norma en una ley C) Eliminar la norma porque es difícil de cumplir
+- **R3.** ¿Qué es un impuesto a las emisiones? A) Un pago que se cobra según los gases emitidos B) Un pago que se entrega a quien planta árboles C) Un pago que se cobra por entrar a un parque protegido
+
+*Comprensión*
+
+- **C1.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Cuál es el costo por tonelada de la Acción A?
+- **C2.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Cuál es el costo por tonelada de la Acción B?
+- **C3.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Cuál es el costo por tonelada de la Acción C?
+
+*Aplicación*
+
+- **A1.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. Si solo se mira el costo por tonelada, ¿qué acción es la más barata? A) La Acción A B) La Acción C C) La Acción B
+- **A2.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Qué beneficio adicional señala la ficha para la Acción B? A) Aumenta las áreas protegidas B) Mejora la salud de las personas en invierno C) Genera ingresos para el Estado
+- **A3.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Qué riesgo social menciona la ficha para la Acción C? A) Que se pierdan áreas protegidas B) Que se cierren las grandes empresas C) Que los costos pasen a los precios
+
+*Razonamiento y análisis*
+
+- **Z1.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. Un funcionario dice: «La Acción C es la mejor, porque es la más barata». ¿Qué objeción es más sólida? A) No tiene ningún efecto sobre las emisiones de las empresas B) Es la que más cuesta por cada tonelada que logra reducir C) Reduce menos toneladas y puede afectar a hogares pobres
+- **Z2.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Qué acción da el mayor efecto ambiental anual según la ficha? A) La Acción B, con 200 toneladas B) La Acción A, con 100 toneladas C) La Acción C, con 50 toneladas
+
+*Desafío*
+
+- **D1.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. ¿Cómo podrían combinarse acciones para cumplir el acuerdo internacional y cuidar la equidad? A) Elegir solo la acción de menor costo sin otra medida B) Combinar B y C, financiando el subsidio con el impuesto C) Esperar a que el acuerdo se cumpla solo
+- **D2.** Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. Antes de decidir, ¿qué dato nuevo aportaría más? A) La cantidad de reuniones que hubo sobre el tema en el último año B) El nombre del ministro que firmó el acuerdo internacional C) Quién paga y quién se beneficia con cada acción
+
+*Situaciones auténticas*
+
+- **S1.** Una acción de ejemplo cuesta 600 y reduce 150 toneladas; otra cuesta 500 y reduce 100. ¿Cuál tiene menor costo por tonelada y cuánto es? A) La primera, con 4 por tonelada B) La segunda, con 5 por tonelada C) La primera, con 6 por tonelada
+
+*Autoevaluación*
+
+- **E1.** Nombra dos criterios para evaluar una acción ambiental del Estado.
+- **E2.** Una acción de ejemplo cuesta 900 y reduce 300 toneladas. ¿Cuál es el costo por tonelada?
+- **E3.** ¿Por qué un acuerdo internacional necesita acciones nacionales?
+
+**Actividad abierta.** Usa la Ficha 5 (datos de ejemplo, inventados; país ficticio Costa Alta). Tres acciones posibles del Estado para avanzar en sustentabilidad. Acción A: ampliar las áreas protegidas; cuesta 300 millones de u.m. y protegería ecosistemas que absorben 100 toneladas de gases al año; efecto de largo plazo. Acción B: subsidiar el cambio de calefactores a leña por equipos menos contaminantes; cuesta 800 millones y evita 200 toneladas de emisiones al año; mejora la salud en invierno. Acción C: cobrar un impuesto a las emisiones de las grandes empresas; cuesta 100 millones de administración y reduciría 50 toneladas al año; los costos pueden pasar a los precios. Existe además un acuerdo internacional sobre cambio climático en el que el país se comprometió a reducir emisiones. Redacta una recomendación de seis líneas: qué acción o combinación elegirías, con su costo por tonelada; qué criterio pesó más; a quién podría afectar negativamente; cómo lo compensarías; y cómo se relaciona con el acuerdo internacional.
+
+**Solucionario razonado**
+
+- **R1.** A) Una ayuda económica del Estado para facilitar algo. El subsidio es una ayuda; el impuesto y la multa son cobros.
+- **R2.** A) Controlar que la norma se cumpla en la práctica. Fiscalizar es controlar el cumplimiento de la norma.
+- **R3.** A) Un pago que se cobra según los gases emitidos. Cobra por emitir; busca desincentivar la contaminación.
+- **C1.** 3 millones de u.m.. Se divide el costo total por las toneladas. Cálculo: 300 ÷ 100 = 3.
+- **C2.** 4 millones de u.m.. Se divide el costo total por las toneladas. Cálculo: 800 ÷ 200 = 4.
+- **C3.** 2 millones de u.m.. Se divide el costo total por las toneladas. Cálculo: 100 ÷ 50 = 2.
+- **A1.** B) La Acción C. C cuesta 2 por tonelada, A cuesta 3 y B cuesta 4.
+- **A2.** B) Mejora la salud de las personas en invierno. La ficha indica que la Acción B mejora la salud en invierno.
+- **A3.** C) Que los costos pasen a los precios. El impuesto puede trasladarse a los precios que pagan los hogares.
+- **Z1.** C) Reduce menos toneladas y puede afectar a hogares pobres. Menor costo por tonelada no implica el mayor efecto ni el más equitativo.
+- **Z2.** A) La Acción B, con 200 toneladas. B reduce 200 toneladas al año, más que A y C.
+- **D1.** B) Combinar B y C, financiando el subsidio con el impuesto. Una combinación puede ampliar el efecto y compensar a los hogares.
+- **D2.** C) Quién paga y quién se beneficia con cada acción. Los efectos distributivos permiten evaluar la equidad.
+- **S1.** A) La primera, con 4 por tonelada. Se calcula 600 ÷ 150 = 4 y 500 ÷ 100 = 5; la primera cuesta menos por tonelada.
+- **E1.** Por ejemplo, el efecto ambiental y el costo. También sirven el plazo, la equidad y la capacidad de fiscalizar.
+- **E2.** 3 millones de u.m.. Se divide el costo por las toneladas. Cálculo: 900 ÷ 300 = 3.
+- **E3.** Porque los compromisos se cumplen con medidas concretas de cada país. Un acuerdo sin medidas ni fiscalización no reduce emisiones.
+
+**Actividad abierta · ejemplo de respuesta.** Recomiendo combinar B y C. B cuesta 4 por tonelada y C cuesta 2. Pesó el efecto sobre la salud y la equidad. El impuesto podría afectar a hogares de menos ingresos si sube los precios. Usaría parte del impuesto para financiar el subsidio de B. Así el país avanza en el compromiso del acuerdo internacional de reducir emisiones.
+
+**Criterios para evaluarla:** calcula costos por tonelada; reconoce a quién afecta; relaciona con el acuerdo.
+
+**Evidencias aceptables:** recomendación de seis líneas.
+
+**Errores que conviene detectar:** decidir solo por costo; no mencionar la equidad.
+
+**Retroalimentación constructiva:** Pregunta cómo cambiaría tu decisión si el objetivo principal fuera proteger biodiversidad.
+
+**Refuerzo.** Calcula el costo por tonelada de dos acciones inventadas y compáralas.
+
+**Profundización.** Averigua con tu docente si tu comuna tiene una norma ambiental local y cuál es.
 
 
 **Apoyo en el mismo OA:** Ofrece fragmentos breves, mapa conceptual o argumental, vocabulario y respuesta oral o gráfica; no asigna posiciones personales.

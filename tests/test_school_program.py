@@ -367,7 +367,7 @@ class SchoolProgramTests(unittest.TestCase):
             "curriculum/3-medio-fg/ambiente-sostenibilidad/fg-cias-3y4-oac-03.md": ("cambio climático", "modelo", "Fuente oficial del OA"),
             "curriculum/3-medio-fg/educacion-ciudadana-3-medio/fg-eciu-3m-oac-02.md": ("Acceso a la justicia", "caso público", "Currículum Nacional"),
             "curriculum/3-medio-fg/filosofia-3-medio/fg-filo-3m-oac-06.md": ("Argumentación", "premisa", "objeción"),
-            "curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-01.md": ("Today I will", "original writing briefs", "accent imitation is not required"),
+            "curriculum/3-medio-fg/ingles-3o-medio/fg-ingl-3m-oac-01.md": ("Today I will", "central information", "Fuente oficial del OA"),
             "curriculum/3-medio-fg/seguridad-prevencion-autocuidado/fg-cisa-3y4-oac-01.md": ("Sustancias químicas", "riesgo", "sin manipular"),
         }
         for relative, tokens in samples.items():

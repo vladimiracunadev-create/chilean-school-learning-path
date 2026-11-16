@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-11-05",
+  "latest_date": "2026-11-16",
   "updates": [
+    {
+      "date": "2026-11-16",
+      "title": "3° y 4° medio (Formación General): cuaderno del estudiante de 17 asignaturas, con segunda lectura crítica",
+      "summary": [
+        "Las clases de 3° medio (495) y 4° medio (466) de Formación General tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios). Como los OA con código «3y4» son idénticos en ambos niveles (67 OA, 339 clases), un solo cuaderno sirve a los dos: son 622 cuadernos únicos de Matemática, Inglés, Lengua y Literatura, Educación Ciudadana, Chile y la región latinoamericana, Mundo global, Filosofía, Seguridad y autocuidado, Bienestar y salud, Ambiente y sostenibilidad, Tecnología y sociedad, Educación Física y Salud 1 y 2, Música, Teatro, Artes Visuales y Danza.",
+        "Se trabajó una asignatura a la vez (máximo dos): un autor y luego un lector independiente (asistido por IA, no revisión profesional) que resolvió o verificó los ejercicios y corrigió en el mismo archivo. Entre lo corregido: unos 770 ítems de Lenguaje y unos 215 de Inglés con la respuesta correcta más larga, unas 1.300 justificaciones de Educación Ciudadana, enunciados imposibles o con más de una respuesta en Danza, Filosofía y Educación Física, ejercicios de mirar el Sol y de puntero láser en Tecnología, afirmaciones de salud e institucionales inseguras y sugerencias corporales inadecuadas. Se reescribieron 67 enunciados idénticos a los de otras asignaturas y niveles.",
+        "Las herramientas de verificación reconocen ahora los códigos de Formación General (por ejemplo FG-FILO-3M-OAC-01) y cuentan los OA compartidos en los dos niveles.",
+        "Siguen abiertos: audio, video, mapas, imágenes y software reales; obras, textos y casos reales con derechos de autor; pueblos originarios (educador tradicional); hechos, normas y datos de salud y seguridad por contrastar con una fuente; protocolos de protección por validar con convivencia escolar; decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
+      ]
+    },
     {
       "date": "2026-11-05",
       "title": "2° medio: cuaderno del estudiante de las 11 asignaturas, con segunda lectura crítica",
@@ -20,17 +30,6 @@
         "Una tercera pasada independiente (asistida por IA, no revisión profesional) releyó los 19 bloques de 1° medio, resolviendo cada ejercicio cerrado, y corrigió unas 800 ediciones puntuales: unos 95 ejercicios triviales de Historia reemplazados por preguntas de contenido, más de 150 distractores absurdos reescritos como errores plausibles de estudiante, ejercicios que regalaban la respuesta o repetían un ejemplo resuelto, preguntas con más de una respuesta válida, términos usados antes de enseñarse y datos inseguros suavizados.",
         "Defectos relevantes: en Lengua y Literatura una opción con « » delataba la respuesta correcta en 13 preguntas; una tabla de Historia (OA 16 clase 2) quedó incoherente tras una corrección previa y se rehízo; Inglés propuesta y oficial dejaron de compartir temas (abejas, reciclaje, huerto, ciclo del agua); `shall` en tercera persona pasó a `will`; en Inglés oficial se agregaron «and lastly» y «as a result» y se reforzó el reconocimiento de géneros; en Ciencias se acotaron experimentos con lámpara, vidrio y elástico; en Orientación se reemplazaron ejercicios de sí/no por casos con alternativas plausibles; en Educación Física se corrigió un dato imposible de porcentajes.",
         "Siguen abiertos, sin cambios: software, audio y pronunciación reales, obras y fuentes reales, pueblos originarios con educador tradicional, hechos y fechas sin contraste con fuente externa y decisiones que dependen del programa oficial."
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "title": "1° medio: cuaderno del estudiante de las 11 asignaturas, segunda lectura crítica y corrección de la puntuación al reordenar opciones",
-      "summary": [
-        "Las 753 clases de 1° medio tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios), escritas en 19 bloques de trabajo: Matemática (66), Lengua y Literatura (143), Ciencias Naturales (100), Historia, Geografía y Ciencias Sociales (132), Inglés propuesta (65), Inglés oficial (80), Educación Física (28), Orientación (52), Música (32), Artes Visuales (29) y Tecnología (26). Las fichas de actitud y Lengua Indígena son integración transversal y no llevan cuaderno propio.",
-        "Cada clase fue releída por un segundo lector independiente (asistido por IA, no revisión profesional). Corrigieron datos históricos y científicos inexactos, unas 150 consignas de Historia que citaban fuentes que no estaban en el enunciado, más de 130 preguntas de recuperación de Orientación que regalaban la definición, unas 60 de Matemática que repetían un ejemplo, errores de ortografía y gramática enseñados, riesgos de seguridad y de protección en línea, supuestos sobre la familia, y solapes de contexto entre Inglés propuesta e Inglés oficial. Se reescribieron 39 enunciados idénticos a los de otros niveles.",
-        "Se corrigió el reordenamiento automático de opciones A/B y A/B/C: cuando una opción traía su propio «?» o «.», la puntuación se duplicaba al final («??», «..») y la opción desplazada quedaba sin su signo. Ahora cada opción conserva su puntuación al cambiar de lugar. Afecta a las preguntas de todos los niveles.",
-        "El análisis de alineación cubre ahora 1° básico a 1° medio, y la lista de contenidos para especialistas incluye 1° medio.",
-        "Siguen abiertos: software y programas reales, audio, video y pronunciación, obras y textos reales con derechos de autor, pueblos originarios (educador tradicional), números de ayuda por verificar, protocolos de protección por validar con convivencia escolar, hechos y fechas históricas por contrastar con una fuente y decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
       ]
     }
   ]

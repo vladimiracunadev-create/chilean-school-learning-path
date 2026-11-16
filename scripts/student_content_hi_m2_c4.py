@@ -343,7 +343,7 @@ build(
     ],
     ctx=("En una comuna ficticia faltan áreas verdes, una parte de los hogares tiene bajos ingresos y los vecinos pelean por un terreno. ¿Qué actor puede aportar a la solución? A) El municipio, las organizaciones de vecinos y cada persona B) Solo el Presidente", "A) El municipio, las organizaciones de vecinos y cada persona", "Los desafíos exigen varios actores, según la ficha."),
     sc=[("¿Qué es un desafío pendiente?", "Un problema importante que aún no se resuelve del todo", "Así se define en el vocabulario."),
-        ("¿Qué es una política pública?", "Una decisión del Estado para resolver un problema colectivo", "Así se define en la clase."),
+        ("En Historia: ¿Qué es una política pública?", "Una decisión del Estado para resolver un problema colectivo", "Así se define en la clase."),
         ("=", "En 2.000 hogares de ejemplo el 15 % vive en pobreza. ¿Cuántos hogares son?", "2000*0.15", "Se calcula el 15 % de 2.000.", " hogares")],
     op=("Dibuja una tabla con tres columnas: desafío, deber del Estado y qué puede hacer una persona. Completa dos filas con estos desafíos: (a) desarrollo sustentable; (b) derechos de los grupos discriminados. {F}",
         "(a) Desarrollo sustentable: el Estado regula el uso de recursos; una persona puede cuidar el agua y separar residuos. (b) Derechos de grupos discriminados: el Estado crea leyes y servicios accesibles; una persona puede tratar con respeto y no discriminar.",

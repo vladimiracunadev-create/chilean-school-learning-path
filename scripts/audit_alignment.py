@@ -390,8 +390,52 @@ MANUAL_M2 = [
     "",
 ]
 
+MANUAL_M3 = [
+    "### Segunda lectura crítica de las 622 clases únicas de 3.º y 4.º medio (Formación General)",
+    "",
+    "Los OA de 3.º y 4.º medio con código «3y4» son idénticos en ambos niveles (67 OA, 339 clases), por lo que un solo cuaderno sirve a los dos: 622 cuadernos únicos cubren las 495 clases de 3.º medio y las 466 de 4.º medio. Cada uno fue releído por un segundo lector (asistido por IA, distinto de quien lo escribió) que lo contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió o verificó los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios; los lectores de Lenguaje y Filosofía trabajaron con ayudantes y con control más ligero en algunos tramos.",
+    "",
+    "| Asignatura | Clases únicas | Defectos corregidos (resumen de los informes) |",
+    "|---|---:|---|",
+    "| Matemática | 34 | Cerca de 70 ítems: «imaginario puro» que incluía el cero, listas con coma decimal ambigua, regla de división de potencias y regla empírica usadas sin enseñarse, ejemplos con temperatura en °C para el coeficiente de variación, distractores absurdos y sesgo de posición de la correcta. |",
+    "| Inglés | 36 | Unas 265 ediciones: sesgo de largo (la correcta era la más larga en la mayoría), variables internas del autor visibles al estudiante, ejercicios sin sus textos, respuestas modelo que no calzaban con el recuento pedido, fechas «sixteenth / sixtieth» y falsos amigos dudosos. |",
+    "| Lengua y Literatura | 112 | Unos 770 ítems con sesgo de largo (la correcta era la más larga en 80 a 84 %), unos 25 términos usados sin enseñarse, unas 35 consignas ambiguas, 3 claves con evidencia débil, textos citados y no entregados y una clase agregada sobre el posicionamiento del enunciador. |",
+    "| Educación Ciudadana | 76 | Unas 1.300 justificaciones reescritas, unos 800 ítems de 2 a 3 opciones, matrices de decisión con empate, porcentajes no enteros, unidades mezcladas y términos jurídicos agregados a la explicación. |",
+    "| Chile y la región latinoamericana | 36 | Largo de la correcta (en 293 de 434 era la más corta), enunciados repetidos entre clases, datos que no calzaban con la ficha y términos sin enseñar. |",
+    "| Mundo global | 36 | Hogar que no podía pagar nada con el ingreso dado, fichas sin datos, unos 45 distractores absurdos, afirmaciones inseguras sobre IPCC, refugiados y Marco de Sendai rotuladas «en términos generales» y 83 preguntas con opciones en la ficha que quedaban todas con clave A. |",
+    "| Seguridad, prevención y autocuidado | 18 | Cuatro puntos de seguridad (pruebas con sustancias, calefacción, obras en terreno), un modelo de calefacción ambiguo, alturas de tsunami rotuladas como inventadas y largo de la correcta (18 a 34 %). |",
+    "| Música | 34 | Unos 190 ítems: largo de la correcta, nueve ejercicios triviales, términos usados antes de enseñarse, datos que contradecían la ficha, y armonía agregada porque ninguna clase la enseñaba. |",
+    "| Teatro | 31 | Unas 45 ediciones: datos que no coincidían con la ficha, ejercicios triviales, fichas ausentes en seis enunciados y afirmaciones demasiado categóricas. |",
+    "| Artes Visuales | 35 | Unos 85 cambios: claves o justificaciones que no calzaban, unos 12 términos sin enseñar (paleta, encuadre, plano fijo, montaje, cartela), alternativas absurdas y un teléfono con formato real. |",
+    "| Danza | 28 | Unos 38 cambios: enunciados imposibles (9 puntos con «el de 8 más seguro»), sala sin espacio, sugerencia de «bajar de peso» y pauta insegura ante imágenes íntimas. |",
+    "| Bienestar y salud | 17 | Unos 60 cambios: errores de dato en justificaciones, afirmación sobre etiquetado de transgénicos que no se pudo contrastar, 14 ejercicios triviales y uso del Fono Niños 147 como ayuda inmediata. |",
+    "| Ambiente y sostenibilidad | 16 | Unos 120 ítems: explicación contraria a lo enseñado, ejemplos de respuesta que no calzaban, distractor que se confundía con un gas de efecto invernadero y tratamiento de aguas agregado al OA 02. |",
+    "| Tecnología y sociedad | 15 | Unas 30 ediciones: ejercicios de mirar el Sol, eclipse y puntero láser reemplazados, saldos negativos con «valor sin signo» reformulados y distractores con relleno artificial. |",
+    "| Educación Física y Salud 1 | 24 | Unas 70 intervenciones: cuentas de un paso, datos incoherentes (10 completos de 20 con 6 pérdidas), comparaciones de cuerpos y supuestos sobre la familia. |",
+    "| Educación Física y Salud 2 | 25 | Unas 120 ediciones: cuentas de un paso o iguales al ejemplo resuelto, términos sin definir, comentarios corporales y «plancha» como objetivo por posible apnea. |",
+    "| Filosofía | 49 | Unas 150 ediciones: unas 15 preguntas con más de una respuesta defendible, unos 75 distractores absurdos, términos lógicos usados sin definirse y cierres de seguridad agregados. |",
+    "",
+    "#### Desajuste entre el texto del OA y los títulos de las clases",
+    "",
+    "Los títulos de clase del plan son etapas genéricas y repetidas en todos los OA de cada asignatura (por ejemplo «Delimitar pregunta y sistema», «Problematizar una situación»); los autores repartieron el contenido del OA entre ellas y los lectores comprobaron que lo enseñado calza con el OA.",
+    "",
+    "#### Vacíos de cobertura frente al OA",
+    "",
+    "- **Cerrados dentro de las clases existentes:** armonía (Música OA 02), tratamiento y reutilización de aguas servidas (Ambiente OA 02), alcohol y drogas y escala local, nacional y mundial (Bienestar y salud OA 01 y 03), posicionamiento del enunciador (Lengua y Literatura 4.º OA 03), inversa gráfica de exponencial y logaritmo (Matemática 3.º OA 03), mercado financiero con bolsa y acciones (Mundo global OA 02).",
+    "- **Abiertos:** audio, video, mapas, imágenes y software reales (Artes, Música, Teatro, Danza, Inglés, Tecnología y Matemática); obras literarias, textos filosóficos y obras artísticas reales con sus derechos; casos reales de Chile y de la región, cifras y series estadísticas (Chile y la región, Mundo global, Educación Ciudadana, Ambiente, Bienestar y salud); práctica motriz y escénica real; escepticismo, empirismo y racionalismo, silogismo categórico, Kant y Aristóteles y argumentación escrita larga (Filosofía); género y diversidad sexual como tema propio; conservación de ecosistemas y otros ecosistemas (Ambiente); astronomía y perspectiva de salud (Tecnología y sociedad); autocuidado y proyectos socioculturales explícitos (Educación Física 2).",
+    "- **Decisiones que dependen del programa oficial:** modelo de ponderaciones y matrices de decisión, formato de cita simplificado, escala de esfuerzo 1–10 y «prueba del habla», cifras de ejemplo de finanzas personales.",
+    "",
+]
 
-LEVELS = (("1-basico", 1, MANUAL_1), ("2-basico", 2, MANUAL_2), ("3-basico", 3, MANUAL_3), ("4-basico", 4, MANUAL_4), ("5-basico", 5, MANUAL_5), ("6-basico", 6, MANUAL_6), ("7-basico", 7, MANUAL_7), ("8-basico", 8, MANUAL_8), ("1-medio", 9, MANUAL_M1), ("2-medio", 10, MANUAL_M2))
+MANUAL_M4 = [
+    "### Cuadernos de 4.º medio (Formación General)",
+    "",
+    "Los 67 OA con código «3y4» (339 clases) comparten cuaderno con 3.º medio; los OA de 4.º medio con código «4M» (Matemática, Inglés, Lengua y Literatura, Educación Ciudadana y Filosofía) tienen cuaderno propio. La segunda lectura crítica, los defectos corregidos y los vacíos están en la sección de 3.º medio, que describe las 622 clases únicas de ambos niveles.",
+    "",
+]
+
+
+LEVELS = (("1-basico", 1, MANUAL_1), ("2-basico", 2, MANUAL_2), ("3-basico", 3, MANUAL_3), ("4-basico", 4, MANUAL_4), ("5-basico", 5, MANUAL_5), ("6-basico", 6, MANUAL_6), ("7-basico", 7, MANUAL_7), ("8-basico", 8, MANUAL_8), ("1-medio", 9, MANUAL_M1), ("2-medio", 10, MANUAL_M2), ("3-medio-fg", 11, MANUAL_M3), ("4-medio-fg", 12, MANUAL_M4))
 
 
 def section(level_prefix: str, grade: int, manual: list[str]) -> list[str]:

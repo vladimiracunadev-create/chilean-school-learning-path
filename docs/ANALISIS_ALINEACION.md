@@ -2120,3 +2120,343 @@ Los títulos de clase del plan son etapas genéricas, repetidas en todos los OA 
 | LE2M OA 11 | 4 | Contrastar interpretaciones: Textos no literarios para conte | 89 % | 100 % | 21.5 | — |
 | HI2M OA 16 | 1 | Situar el problema y sus actores: Dictadura, supresión del E | 90 % | 75 % | 20.4 | — |
 | LE2M OA 23 | 5 | Comunicar ante una audiencia: Efectos lingüísticos, paraling | 100 % | 100 % | 16.2 | respuesta «depende» en ejercicio cerrado |
+
+## 3.º medio
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| ambiente-sostenibilidad | 16 | 56 % | 5 |
+| artes-visuales | 35 | 61 % | 4 |
+| bienestar-salud | 17 | 57 % | 10 |
+| chile-region-latinoamericana | 36 | 59 % | 22 |
+| danza | 28 | 48 % | 14 |
+| educacion-ciudadana-3-medio | 37 | 53 % | 5 |
+| educacion-fisica-salud-1 | 24 | 59 % | 11 |
+| educacion-fisica-salud-2 | 25 | 59 % | 13 |
+| filosofia-3-medio | 25 | 54 % | 16 |
+| filosofia-4o-medio | 24 | 51 % | 13 |
+| ingles-3o-medio | 18 | 37 % | 9 |
+| lengua-literatura-3o-medio | 59 | 45 % | 17 |
+| matematica-3o-medio | 17 | 43 % | 4 |
+| mundo-global | 36 | 61 % | 19 |
+| musica | 34 | 51 % | 14 |
+| seguridad-prevencion-autocuidado | 18 | 55 % | 17 |
+| teatro | 31 | 54 % | 11 |
+| tecnologia-sociedad | 15 | 56 % | 10 |
+
+**Clases marcadas para lectura prioritaria (3.º medio):** 214 de 495.
+
+### Segunda lectura crítica de las 622 clases únicas de 3.º y 4.º medio (Formación General)
+
+Los OA de 3.º y 4.º medio con código «3y4» son idénticos en ambos niveles (67 OA, 339 clases), por lo que un solo cuaderno sirve a los dos: 622 cuadernos únicos cubren las 495 clases de 3.º medio y las 466 de 4.º medio. Cada uno fue releído por un segundo lector (asistido por IA, distinto de quien lo escribió) que lo contrastó con el texto del OA y el título de la clase en la ficha del repositorio, resolvió o verificó los ejercicios cerrados y corrigió los defectos en el mismo archivo. **No es revisión profesional humana**, y no se abrieron los enlaces del Currículum Nacional. Los autores declararon que no resolvieron uno por uno todos sus ejercicios; los lectores de Lenguaje y Filosofía trabajaron con ayudantes y con control más ligero en algunos tramos.
+
+| Asignatura | Clases únicas | Defectos corregidos (resumen de los informes) |
+|---|---:|---|
+| Matemática | 34 | Cerca de 70 ítems: «imaginario puro» que incluía el cero, listas con coma decimal ambigua, regla de división de potencias y regla empírica usadas sin enseñarse, ejemplos con temperatura en °C para el coeficiente de variación, distractores absurdos y sesgo de posición de la correcta. |
+| Inglés | 36 | Unas 265 ediciones: sesgo de largo (la correcta era la más larga en la mayoría), variables internas del autor visibles al estudiante, ejercicios sin sus textos, respuestas modelo que no calzaban con el recuento pedido, fechas «sixteenth / sixtieth» y falsos amigos dudosos. |
+| Lengua y Literatura | 112 | Unos 770 ítems con sesgo de largo (la correcta era la más larga en 80 a 84 %), unos 25 términos usados sin enseñarse, unas 35 consignas ambiguas, 3 claves con evidencia débil, textos citados y no entregados y una clase agregada sobre el posicionamiento del enunciador. |
+| Educación Ciudadana | 76 | Unas 1.300 justificaciones reescritas, unos 800 ítems de 2 a 3 opciones, matrices de decisión con empate, porcentajes no enteros, unidades mezcladas y términos jurídicos agregados a la explicación. |
+| Chile y la región latinoamericana | 36 | Largo de la correcta (en 293 de 434 era la más corta), enunciados repetidos entre clases, datos que no calzaban con la ficha y términos sin enseñar. |
+| Mundo global | 36 | Hogar que no podía pagar nada con el ingreso dado, fichas sin datos, unos 45 distractores absurdos, afirmaciones inseguras sobre IPCC, refugiados y Marco de Sendai rotuladas «en términos generales» y 83 preguntas con opciones en la ficha que quedaban todas con clave A. |
+| Seguridad, prevención y autocuidado | 18 | Cuatro puntos de seguridad (pruebas con sustancias, calefacción, obras en terreno), un modelo de calefacción ambiguo, alturas de tsunami rotuladas como inventadas y largo de la correcta (18 a 34 %). |
+| Música | 34 | Unos 190 ítems: largo de la correcta, nueve ejercicios triviales, términos usados antes de enseñarse, datos que contradecían la ficha, y armonía agregada porque ninguna clase la enseñaba. |
+| Teatro | 31 | Unas 45 ediciones: datos que no coincidían con la ficha, ejercicios triviales, fichas ausentes en seis enunciados y afirmaciones demasiado categóricas. |
+| Artes Visuales | 35 | Unos 85 cambios: claves o justificaciones que no calzaban, unos 12 términos sin enseñar (paleta, encuadre, plano fijo, montaje, cartela), alternativas absurdas y un teléfono con formato real. |
+| Danza | 28 | Unos 38 cambios: enunciados imposibles (9 puntos con «el de 8 más seguro»), sala sin espacio, sugerencia de «bajar de peso» y pauta insegura ante imágenes íntimas. |
+| Bienestar y salud | 17 | Unos 60 cambios: errores de dato en justificaciones, afirmación sobre etiquetado de transgénicos que no se pudo contrastar, 14 ejercicios triviales y uso del Fono Niños 147 como ayuda inmediata. |
+| Ambiente y sostenibilidad | 16 | Unos 120 ítems: explicación contraria a lo enseñado, ejemplos de respuesta que no calzaban, distractor que se confundía con un gas de efecto invernadero y tratamiento de aguas agregado al OA 02. |
+| Tecnología y sociedad | 15 | Unas 30 ediciones: ejercicios de mirar el Sol, eclipse y puntero láser reemplazados, saldos negativos con «valor sin signo» reformulados y distractores con relleno artificial. |
+| Educación Física y Salud 1 | 24 | Unas 70 intervenciones: cuentas de un paso, datos incoherentes (10 completos de 20 con 6 pérdidas), comparaciones de cuerpos y supuestos sobre la familia. |
+| Educación Física y Salud 2 | 25 | Unas 120 ediciones: cuentas de un paso o iguales al ejemplo resuelto, términos sin definir, comentarios corporales y «plancha» como objetivo por posible apnea. |
+| Filosofía | 49 | Unas 150 ediciones: unas 15 preguntas con más de una respuesta defendible, unos 75 distractores absurdos, términos lógicos usados sin definirse y cierres de seguridad agregados. |
+
+#### Desajuste entre el texto del OA y los títulos de las clases
+
+Los títulos de clase del plan son etapas genéricas y repetidas en todos los OA de cada asignatura (por ejemplo «Delimitar pregunta y sistema», «Problematizar una situación»); los autores repartieron el contenido del OA entre ellas y los lectores comprobaron que lo enseñado calza con el OA.
+
+#### Vacíos de cobertura frente al OA
+
+- **Cerrados dentro de las clases existentes:** armonía (Música OA 02), tratamiento y reutilización de aguas servidas (Ambiente OA 02), alcohol y drogas y escala local, nacional y mundial (Bienestar y salud OA 01 y 03), posicionamiento del enunciador (Lengua y Literatura 4.º OA 03), inversa gráfica de exponencial y logaritmo (Matemática 3.º OA 03), mercado financiero con bolsa y acciones (Mundo global OA 02).
+- **Abiertos:** audio, video, mapas, imágenes y software reales (Artes, Música, Teatro, Danza, Inglés, Tecnología y Matemática); obras literarias, textos filosóficos y obras artísticas reales con sus derechos; casos reales de Chile y de la región, cifras y series estadísticas (Chile y la región, Mundo global, Educación Ciudadana, Ambiente, Bienestar y salud); práctica motriz y escénica real; escepticismo, empirismo y racionalismo, silogismo categórico, Kant y Aristóteles y argumentación escrita larga (Filosofía); género y diversidad sexual como tema propio; conservación de ecosistemas y otros ecosistemas (Ambiente); astronomía y perspectiva de salud (Tecnología y sociedad); autocuidado y proyectos socioculturales explícitos (Educación Física 2).
+- **Decisiones que dependen del programa oficial:** modelo de ponderaciones y matrices de decisión, formato de cita simplificado, escala de esfuerzo 1–10 y «prueba del habla», cifras de ejemplo de finanzas personales.
+
+### Clases marcadas de 3.º medio
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| FG-DANZ-3y4-OAC-03 | 3 | Componer una frase propia: Creación individual y colectiva d | 17 % | 29 % | 16.7 | — |
+| FG-INGL-3M-OAC-04 | 2 | Notice central meaning and clues: Fluent interaction, worldv | 17 % | 12 % | 17.8 | — |
+| FG-MUSI-3y4-OAC-03 | 4 | Interpretar, crear o analizar: Interpretación de repertorios | 17 % | 17 % | 18.4 | — |
+| FG-DANZ-3y4-OAC-06 | 3 | Componer una frase propia: Gestión y difusión de proyectos d | 21 % | 43 % | 17.6 | — |
+| FG-INGL-3M-OAC-03 | 3 | Rehearse useful language: Language resources for critical co | 23 % | 14 % | 12.1 | — |
+| FG-CISA-3y4-OAC-03 | 4 | Analizar evidencia: Riesgos locales, prevención, mitigación  | 24 % | 43 % | 24.7 | — |
+| FG-DANZ-3y4-OAC-06 | 2 | Combinar espacio, tiempo y energía: Gestión y difusión de pr | 25 % | 38 % | 18.7 | — |
+| FG-EFS2-3y4-OAC-02 | 2 | Elegir una respuesta motriz: Organización de estrategias y t | 25 % | 50 % | 21.1 | respuesta «depende» en ejercicio cerrado |
+| FG-INGL-3M-OAC-03 | 2 | Notice central meaning and clues: Language resources for cri | 25 % | 11 % | 19.9 | — |
+| FG-INGL-3M-OAC-04 | 1 | Activate purpose and prior knowledge: Fluent interaction, wo | 25 % | 25 % | 13.2 | — |
+| FG-MUSI-3y4-OAC-04 | 3 | Ensayar una decisión musical: Análisis de propósitos expresi | 25 % | 43 % | 17.1 | — |
+| FG-INGL-3M-OAC-04 | 3 | Rehearse useful language: Fluent interaction, worldviews and | 26 % | 14 % | 16.2 | — |
+| FG-MUSI-3y4-OAC-06 | 2 | Explorar recursos de producción: Evaluación crítica de proce | 26 % | 25 % | 17.9 | — |
+| FG-LELI-3M-OAC-06 | 4 | Elaborar una versión completa coherente y cohesionada | 27 % | 100 % | 21.3 | — |
+| FG-ECIU-3M-OAC-03 | 2 | Investigar un caso público: Riesgos contemporáneos para la d | 28 % | 40 % | 18.7 | — |
+| FG-CISA-3y4-OAC-02 | 2 | Evaluar fuentes y variables: Soluciones para reducir amenaza | 28 % | 38 % | 19.8 | — |
+| FG-MGLO-3y4-OAC-04 | 6 | Comunicar una conclusión situada: Desastres socionaturales,  | 28 % | 62 % | 21.4 | — |
+| FG-INGL-3M-OAC-03 | 1 | Activate purpose and prior knowledge: Language resources for | 29 % | 22 % | 19.2 | — |
+| FG-CITS-3y4-OAC-03 | 2 | Investigar alternativas y restricciones: Riesgos, beneficios | 29 % | 43 % | 18.8 | — |
+| FG-MUSI-3y4-OAC-02 | 4 | Interpretar, crear o analizar: Creación musical, emociones e | 30 % | 29 % | 21.4 | — |
+| FG-FILO-4M-OAC-04 | 1 | Problematizar una situación: Evaluación de argumentos, valid | 30 % | 67 % | 20.5 | — |
+| FG-INGL-3M-OAC-01 | 3 | Rehearse useful language: Central information and cultural p | 32 % | 14 % | 11.2 | — |
+| FG-INGL-3M-OAC-01 | 4 | Communicate a critical position: Central information and cul | 32 % | 43 % | 15.5 | respuesta «depende» en ejercicio cerrado |
+| FG-MUSI-3y4-OAC-02 | 2 | Explorar recursos de producción: Creación musical, emociones | 32 % | 29 % | 17.1 | — |
+| FG-FILO-4M-OAC-05 | 4 | Formular y evaluar argumentos: Impacto actual de ideas ontol | 32 % | 44 % | 17.2 | — |
+| FG-DANZ-3y4-OAC-06 | 4 | Interpretar propósito y contexto: Gestión y difusión de proy | 33 % | 43 % | 13.7 | — |
+| FG-FILO-4M-OAC-03 | 4 | Formular y evaluar argumentos: Diálogo filosófico sobre étic | 33 % | 62 % | 20.8 | — |
+| FG-MUSI-3y4-OAC-03 | 3 | Ensayar una decisión musical: Interpretación de repertorios  | 33 % | 33 % | 15.3 | — |
+| FG-CISA-3y4-OAC-02 | 3 | Construir o interpretar un modelo: Soluciones para reducir a | 35 % | 50 % | 26.0 | — |
+| FG-FILO-4M-OAC-04 | 3 | Reconstruir una perspectiva: Evaluación de argumentos, valid | 35 % | 67 % | 20.5 | — |
+| FG-EFS2-3y4-OAC-04 | 5 | Evaluar y ajustar: Evaluación de programas comunitarios de b | 35 % | 60 % | 20.1 | — |
+| FG-LELI-3M-OAC-02 | 1 | Describir un efecto estético mediante huellas precisas del t | 36 % | 100 % | 19.3 | respuesta «depende» en ejercicio cerrado |
+| FG-FILO-4M-OAC-03 | 1 | Problematizar una situación: Diálogo filosófico sobre ética  | 36 % | 86 % | 26.2 | — |
+| FG-CHLA-3y4-OAC-04 | 5 | Evaluar alternativas: Pueblos indígenas y relaciones con los | 36 % | 100 % | 24.5 | — |
+| FG-MATE-3M-OAC-03 | 5 | Comunicar predicciones, supuestos, dominio y límites del mod | 37 % | 100 % | 20.4 | — |
+| FG-DANZ-3y4-OAC-04 | 3 | Componer una frase propia: Interpretación estética y context | 37 % | 25 % | 20.5 | — |
+| FG-DANZ-3y4-OAC-04 | 4 | Interpretar propósito y contexto: Interpretación estética y  | 38 % | 67 % | 25.3 | — |
+| FG-LELI-3M-OAC-07 | 5 | Ajustar gesto, voz, encuadre y ritmo a la situación | 38 % | 100 % | 27.4 | — |
+| FG-MGLO-3y4-OAC-02 | 6 | Comunicar una conclusión situada: Economía global, trabajo,  | 38 % | 75 % | 23.7 | — |
+| FG-TEAT-3y4-OAC-04 | 2 | Construir situación y personaje: Propósitos expresivos y con | 38 % | 62 % | 21.7 | — |
+| FG-EFS2-3y4-OAC-04 | 3 | Aplicar estrategia o plan: Evaluación de programas comunitar | 38 % | 100 % | 21.7 | — |
+| FG-INGL-3M-OAC-02 | 5 | Repair and revise meaning: Clear texts and respectful critic | 38 % | 38 % | 30.9 | — |
+| FG-FILO-3M-OAC-02 | 5 | Responder objeciones: Perspectivas filosóficas, vida cotidia | 39 % | 57 % | 12.8 | respuesta «depende» en ejercicio cerrado |
+| FG-CIBS-3y4-OAC-01 | 4 | Analizar evidencia: Factores biológicos, ambientales y socia | 40 % | 57 % | 21.2 | — |
+| FG-CIBS-3y4-OAC-03 | 4 | Analizar evidencia: Transmisión de agentes infecciosos y pre | 40 % | 57 % | 22.1 | — |
+| FG-FILO-3M-OAC-06 | 3 | Reconstruir una perspectiva: Argumentación, validez y razona | 40 % | 83 % | 20.3 | — |
+| FG-CIBS-3y4-OAC-03 | 2 | Evaluar fuentes y variables: Transmisión de agentes infeccio | 41 % | 44 % | 23.8 | — |
+| FG-MATE-3M-OAC-04 | 2 | Justificar relaciones entre cuerdas, secantes y tangentes | 41 % | 100 % | 24.3 | — |
+| FG-LELI-3M-OAC-04 | 2 | Analizar posicionamiento, rol y relación con la audiencia | 41 % | 100 % | 25.9 | — |
+| FG-CHLA-3y4-OAC-03 | 2 | Interrogar fuentes e indicadores: Desafíos económicos y soci | 42 % | 29 % | 22.1 | — |
+| FG-FILO-3M-OAC-02 | 4 | Formular y evaluar argumentos: Perspectivas filosóficas, vid | 42 % | 75 % | 20.1 | respuesta «depende» en ejercicio cerrado |
+| FG-FILO-4M-OAC-03 | 5 | Responder objeciones: Diálogo filosófico sobre ética y polít | 42 % | 57 % | 21.8 | — |
+| FG-TEAT-3y4-OAC-03 | 6 | Presentar o difundir con consentimiento: Interpretación teat | 42 % | 86 % | 21.8 | — |
+| FG-LELI-3M-OAC-06 | 7 | Editar, publicar y explicar decisiones de autoría | 42 % | 100 % | 23.0 | — |
+| FG-LELI-3M-OAC-04 | 6 | Deliberar sobre consecuencias y respuestas seguras sin ampli | 43 % | 100 % | 23.1 | — |
+| FG-ARTE-3y4-OAC-04 | 6 | Montar, atribuir y difundir: Interpretación de propósitos ex | 43 % | 57 % | 22.3 | — |
+| FG-CHLA-3y4-OAC-01 | 5 | Evaluar alternativas: Migraciones, urbanización, diversidad  | 43 % | 100 % | 21.9 | — |
+| FG-CHLA-3y4-OAC-04 | 6 | Comunicar una conclusión situada: Pueblos indígenas y relaci | 43 % | 71 % | 23.1 | — |
+| FG-CHLA-3y4-OAC-07 | 2 | Interrogar fuentes e indicadores: Propuestas locales para de | 44 % | 57 % | 21.4 | — |
+| FG-EFS2-3y4-OAC-01 | 4 | Registrar regulación y resultado: Evaluación de habilidades  | 44 % | 57 % | 22.0 | — |
+| FG-CISA-3y4-OAC-02 | 4 | Analizar evidencia: Soluciones para reducir amenazas en hoga | 44 % | 71 % | 21.5 | respuesta «depende» en ejercicio cerrado |
+| FG-CIBS-3y4-OAC-01 | 2 | Evaluar fuentes y variables: Factores biológicos, ambientale | 44 % | 75 % | 22.3 | — |
+| FG-CITS-3y4-OAC-02 | 1 | Definir necesidad, usuario y criterio: Avances tecnológicos  | 44 % | 67 % | 24.9 | — |
+| FG-EFS1-3y4-OAC-04 | 4 | Registrar regulación y resultado: Proyectos comunitarios de  | 45 % | 71 % | 23.2 | — |
+| FG-CHLA-3y4-OAC-04 | 2 | Interrogar fuentes e indicadores: Pueblos indígenas y relaci | 45 % | 86 % | 26.8 | — |
+| FG-LELI-3M-OAC-03 | 4 | Verificar datos y distinguir fuente primaria, secundaria y o | 45 % | 100 % | 15.9 | respuesta «depende» en ejercicio cerrado |
+| FG-CHLA-3y4-OAC-06 | 2 | Interrogar fuentes e indicadores: Integración y cooperación  | 46 % | 83 % | 21.0 | — |
+| FG-FILO-3M-OAC-01 | 1 | Problematizar una situación: Origen, sentido y preguntas del | 46 % | 57 % | 21.5 | — |
+| FG-FILO-4M-OAC-03 | 2 | Definir conceptos: Diálogo filosófico sobre ética y política | 46 % | 71 % | 17.3 | respuesta «depende» en ejercicio cerrado |
+| FG-CIAS-3y4-OAC-03 | 5 | Comparar soluciones: Modelación del cambio climático en ecos | 47 % | 67 % | 21.0 | respuesta «depende» en ejercicio cerrado |
+| FG-DANZ-3y4-OAC-06 | 1 | Explorar movimiento con conciencia: Gestión y difusión de pr | 47 % | 57 % | 23.8 | — |
+| FG-FILO-3M-OAC-04 | 3 | Reconstruir una perspectiva: Preguntas epistemológicas sobre | 47 % | 71 % | 22.0 | — |
+| FG-MUSI-3y4-OAC-07 | 1 | Escuchar y reconocer rasgos: Gestión y difusión de obras e i | 47 % | 50 % | 15.4 | respuesta «depende» en ejercicio cerrado |
+| FG-CITS-3y4-OAC-03 | 4 | Probar o modelar con seguridad: Riesgos, beneficios y límite | 47 % | 86 % | 20.4 | — |
+| FG-LELI-3M-OAC-09 | 1 | Delimitar una pregunta investigable y criterios de suficienc | 47 % | 100 % | 22.0 | — |
+| FG-DANZ-3y4-OAC-02 | 4 | Interpretar propósito y contexto: Comunicación de ideas y em | 48 % | 57 % | 19.7 | respuesta «depende» en ejercicio cerrado |
+| FG-DANZ-3y4-OAC-05 | 1 | Explorar movimiento con conciencia: Evaluación crítica de pr | 48 % | 50 % | 15.6 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-3M-OAC-04 | 5 | Distinguir crítica, descalificación, acoso y discriminación | 48 % | 100 % | 21.8 | — |
+| FG-TEAT-3y4-OAC-03 | 2 | Construir situación y personaje: Interpretación teatral para | 48 % | 71 % | 20.2 | — |
+| FG-CHLA-3y4-OAC-02 | 2 | Interrogar fuentes e indicadores: Democracias, transiciones  | 48 % | 67 % | 23.0 | — |
+| FG-MGLO-3y4-OAC-04 | 3 | Comparar causas y perspectivas: Desastres socionaturales, vu | 48 % | 62 % | 15.0 | respuesta «depende» en ejercicio cerrado |
+| FG-CHLA-3y4-OAC-05 | 3 | Comparar causas y perspectivas: Medioambiente y sustentabili | 50 % | 50 % | 20.1 | respuesta «depende» en ejercicio cerrado |
+| FG-CISA-3y4-OAC-01 | 5 | Comparar soluciones: Sustancias químicas cotidianas, riesgos | 50 % | 71 % | 24.7 | — |
+| FG-CISA-3y4-OAC-03 | 5 | Comparar soluciones: Riesgos locales, prevención, mitigación | 50 % | 86 % | 23.4 | — |
+| FG-DANZ-3y4-OAC-01 | 4 | Interpretar propósito y contexto: Conciencia corporal y leng | 50 % | 57 % | 20.3 | — |
+| FG-DANZ-3y4-OAC-03 | 1 | Explorar movimiento con conciencia: Creación individual y co | 50 % | 86 % | 20.7 | — |
+| FG-ECIU-3M-OAC-04 | 3 | Contrastar perspectivas y evidencia: Relaciones entre Estado | 50 % | 88 % | 19.2 | respuesta «depende» en ejercicio cerrado |
+| FG-EFS1-3y4-OAC-01 | 2 | Elegir una respuesta motriz: Habilidades motrices especializ | 50 % | 71 % | 23.2 | — |
+| FG-EFS1-3y4-OAC-03 | 2 | Elegir una respuesta motriz: Diseño y aplicación de un plan  | 50 % | 33 % | 21.7 | — |
+| FG-FILO-3M-OAC-05 | 2 | Definir conceptos: Diálogo sobre problemas ontológicos y epi | 50 % | 83 % | 17.3 | respuesta «depende» en ejercicio cerrado |
+| FG-FILO-4M-OAC-02 | 3 | Reconstruir una perspectiva: Preguntas éticas sobre justicia | 50 % | 86 % | 14.5 | respuesta «depende» en ejercicio cerrado |
+| FG-FILO-4M-OAC-05 | 3 | Reconstruir una perspectiva: Impacto actual de ideas ontológ | 50 % | 50 % | 23.0 | — |
+| FG-MATE-3M-OAC-04 | 1 | Conjeturar relaciones entre ángulos centrales, inscritos y a | 50 % | 100 % | 20.4 | — |
+| FG-CISA-3y4-OAC-01 | 3 | Construir o interpretar un modelo: Sustancias químicas cotid | 52 % | 75 % | 22.5 | — |
+| FG-FILO-4M-OAC-05 | 6 | Comunicar una posición revisable: Impacto actual de ideas on | 52 % | 44 % | 21.9 | — |
+| FG-TEAT-3y4-OAC-02 | 5 | Evaluar y revisar: Creación de ejercicios dramáticos individ | 52 % | 57 % | 25.5 | — |
+| FG-LELI-3M-OAC-06 | 1 | Definir propósito, tema, audiencia y género discursivo | 53 % | 100 % | 23.2 | — |
+| FG-DANZ-3y4-OAC-01 | 2 | Combinar espacio, tiempo y energía: Conciencia corporal y le | 53 % | 75 % | 20.3 | — |
+| FG-MUSI-3y4-OAC-05 | 4 | Interpretar, crear o analizar: Juicios estéticos musicales f | 53 % | 29 % | 22.9 | — |
+| FG-CISA-3y4-OAC-03 | 3 | Construir o interpretar un modelo: Riesgos locales, prevenci | 53 % | 100 % | 23.1 | — |
+| FG-CISA-3y4-OAC-03 | 6 | Comunicar límites y decisión: Riesgos locales, prevención, m | 53 % | 100 % | 21.9 | — |
+| FG-CITS-3y4-OAC-01 | 2 | Investigar alternativas y restricciones: Proyectos tecnológi | 53 % | 75 % | 20.2 | respuesta «depende» en ejercicio cerrado |
+| FG-CITS-3y4-OAC-01 | 4 | Probar o modelar con seguridad: Proyectos tecnológicos para  | 53 % | 75 % | 21.0 | — |
+| FG-FILO-4M-OAC-01 | 1 | Problematizar una situación: Alcances, límites y fines de la | 53 % | 100 % | 14.7 | respuesta «depende» en ejercicio cerrado |
+| FG-CIBS-3y4-OAC-01 | 5 | Comparar soluciones: Factores biológicos, ambientales y soci | 54 % | 57 % | 20.8 | — |
+| FG-TEAT-3y4-OAC-06 | 4 | Interpretar propósito y contexto: Gestión y difusión de proy | 54 % | 86 % | 20.3 | — |
+| FG-CISA-3y4-OAC-02 | 5 | Comparar soluciones: Soluciones para reducir amenazas en hog | 54 % | 67 % | 23.6 | — |
+| FG-LELI-3M-OAC-05 | 5 | Comparar el efecto de cambiar un recurso conservando el cont | 55 % | 100 % | 21.6 | respuesta «depende» en ejercicio cerrado |
+| FG-ECIU-3M-OAC-06 | 4 | Deliberar con razones: Participación, bien común y tradicion | 55 % | 100 % | 26.0 | — |
+| FG-CIAS-3y4-OAC-02 | 5 | Comparar soluciones: Proyectos locales para el uso sostenibl | 56 % | 83 % | 18.1 | respuesta «depende» en ejercicio cerrado |
+| FG-ARTE-3y4-OAC-07 | 2 | Explorar soportes y procedimientos: Gestión y difusión de ob | 56 % | 62 % | 20.1 | — |
+| FG-CIAS-3y4-OAC-03 | 2 | Evaluar fuentes y variables: Modelación del cambio climático | 56 % | 100 % | 19.8 | respuesta «depende» en ejercicio cerrado |
+| FG-MGLO-3y4-OAC-07 | 3 | Comparar causas y perspectivas: Propuestas locales frente a  | 56 % | 88 % | 20.6 | — |
+| FG-MUSI-3y4-OAC-05 | 3 | Ensayar una decisión musical: Juicios estéticos musicales fu | 56 % | 67 % | 24.6 | — |
+| FG-CISA-3y4-OAC-01 | 2 | Evaluar fuentes y variables: Sustancias químicas cotidianas, | 57 % | 88 % | 20.2 | respuesta «depende» en ejercicio cerrado |
+| FG-CISA-3y4-OAC-01 | 6 | Comunicar límites y decisión: Sustancias químicas cotidianas | 57 % | 100 % | 21.2 | — |
+| FG-LELI-3M-OAC-04 | 1 | Caracterizar una comunidad digital mediante prácticas y cont | 57 % | 100 % | 23.6 | — |
+| FG-LELI-3M-OAC-07 | 1 | Definir el posicionamiento y la relación ética con la audien | 57 % | 100 % | 24.4 | — |
+| FG-CITS-3y4-OAC-01 | 3 | Representar y planificar: Proyectos tecnológicos para proble | 57 % | 86 % | 20.6 | — |
+| FG-DANZ-3y4-OAC-01 | 1 | Explorar movimiento con conciencia: Conciencia corporal y le | 57 % | 83 % | 22.1 | — |
+| FG-FILO-3M-OAC-01 | 2 | Definir conceptos: Origen, sentido y preguntas del quehacer  | 57 % | 100 % | 22.3 | — |
+| FG-FILO-3M-OAC-01 | 3 | Reconstruir una perspectiva: Origen, sentido y preguntas del | 57 % | 86 % | 20.3 | — |
+| FG-MGLO-3y4-OAC-01 | 5 | Evaluar alternativas: Migraciones contemporáneas, causas e i | 57 % | 50 % | 21.9 | — |
+| FG-TEAT-3y4-OAC-04 | 3 | Ensayar decisiones escénicas: Propósitos expresivos y contex | 57 % | 75 % | 19.3 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-3M-OAC-05 | 7 | Comunicar un análisis multimodal con evidencia precisa | 58 % | 100 % | 21.7 | — |
+| FG-EFS1-3y4-OAC-02 | 2 | Elegir una respuesta motriz: Evaluación de estrategias y tác | 58 % | 50 % | 21.3 | — |
+| FG-CHLA-3y4-OAC-01 | 4 | Explicar relaciones y consecuencias: Migraciones, urbanizaci | 58 % | 100 % | 24.6 | — |
+| FG-MGLO-3y4-OAC-05 | 2 | Interrogar fuentes e indicadores: Transformaciones contempor | 59 % | 86 % | 15.9 | respuesta «depende» en ejercicio cerrado |
+| FG-CHLA-3y4-OAC-04 | 4 | Explicar relaciones y consecuencias: Pueblos indígenas y rel | 59 % | 100 % | 20.4 | — |
+| FG-EFS2-3y4-OAC-05 | 3 | Aplicar estrategia o plan: Oportunidades sociales para una v | 59 % | 67 % | 21.0 | — |
+| FG-LELI-3M-OAC-02 | 2 | Relacionar experiencia lectora y problemática humana sin imp | 59 % | 86 % | 20.2 | — |
+| FG-CHLA-3y4-OAC-03 | 5 | Evaluar alternativas: Desafíos económicos y sociales latinoa | 60 % | 67 % | 22.7 | — |
+| FG-CITS-3y4-OAC-02 | 4 | Probar o modelar con seguridad: Avances tecnológicos y ampli | 60 % | 88 % | 20.1 | — |
+| FG-EFS1-3y4-OAC-03 | 3 | Aplicar estrategia o plan: Diseño y aplicación de un plan pe | 60 % | 75 % | 22.0 | — |
+| FG-EFS2-3y4-OAC-01 | 3 | Aplicar estrategia o plan: Evaluación de habilidades motrice | 60 % | 67 % | 20.6 | — |
+| FG-EFS2-3y4-OAC-03 | 3 | Aplicar estrategia o plan: Aplicación responsable de un plan | 60 % | 67 % | 21.6 | — |
+| FG-FILO-3M-OAC-05 | 4 | Formular y evaluar argumentos: Diálogo sobre problemas ontol | 60 % | 100 % | 22.6 | — |
+| FG-FILO-4M-OAC-01 | 2 | Definir conceptos: Alcances, límites y fines de la filosofía | 60 % | 67 % | 20.7 | — |
+| FG-TEAT-3y4-OAC-03 | 3 | Ensayar decisiones escénicas: Interpretación teatral para un | 60 % | 86 % | 20.9 | — |
+| FG-TEAT-3y4-OAC-03 | 4 | Interpretar propósito y contexto: Interpretación teatral par | 60 % | 100 % | 20.9 | — |
+| FG-TEAT-3y4-OAC-05 | 4 | Interpretar propósito y contexto: Evaluación crítica de proc | 60 % | 75 % | 27.0 | — |
+| FG-EFS2-3y4-OAC-05 | 2 | Elegir una respuesta motriz: Oportunidades sociales para una | 61 % | 86 % | 23.5 | — |
+| FG-CHLA-3y4-OAC-05 | 5 | Evaluar alternativas: Medioambiente y sustentabilidad en Chi | 61 % | 57 % | 27.2 | — |
+| FG-EFS1-3y4-OAC-04 | 3 | Aplicar estrategia o plan: Proyectos comunitarios de bienest | 61 % | 83 % | 20.4 | — |
+| FG-TEAT-3y4-OAC-05 | 3 | Ensayar decisiones escénicas: Evaluación crítica de procesos | 62 % | 100 % | 23.4 | — |
+| FG-CHLA-3y4-OAC-07 | 3 | Comparar causas y perspectivas: Propuestas locales para desa | 62 % | 71 % | 20.4 | — |
+| FG-EFS1-3y4-OAC-01 | 1 | Diagnosticar de forma privada y segura: Habilidades motrices | 62 % | 86 % | 21.1 | — |
+| FG-FILO-4M-OAC-02 | 1 | Problematizar una situación: Preguntas éticas sobre justicia | 62 % | 86 % | 22.3 | — |
+| FG-MGLO-3y4-OAC-02 | 4 | Explicar relaciones y consecuencias: Economía global, trabaj | 62 % | 75 % | 20.4 | — |
+| FG-MGLO-3y4-OAC-04 | 5 | Evaluar alternativas: Desastres socionaturales, vulnerabilid | 62 % | 71 % | 21.7 | — |
+| FG-ARTE-3y4-OAC-05 | 2 | Explorar soportes y procedimientos: Juicios estéticos sobre  | 63 % | 57 % | 21.3 | respuesta «depende» en ejercicio cerrado |
+| FG-CIBS-3y4-OAC-03 | 5 | Comparar soluciones: Transmisión de agentes infecciosos y pr | 64 % | 75 % | 23.9 | — |
+| FG-FILO-3M-OAC-03 | 4 | Formular y evaluar argumentos: Preguntas ontológicas sobre e | 64 % | 100 % | 20.9 | — |
+| FG-LELI-3M-OAC-03 | 1 | Reconocer género, propósito, enunciador, audiencia y context | 64 % | 100 % | 21.2 | — |
+| FG-CIBS-3y4-OAC-03 | 1 | Delimitar pregunta y sistema: Transmisión de agentes infecci | 65 % | 67 % | 25.4 | — |
+| FG-CISA-3y4-OAC-01 | 1 | Delimitar pregunta y sistema: Sustancias químicas cotidianas | 65 % | 100 % | 21.7 | respuesta «depende» en ejercicio cerrado |
+| FG-MGLO-3y4-OAC-04 | 1 | Contextualizar actores, tiempo y espacio: Desastres socionat | 65 % | 89 % | 18.2 | respuesta «depende» en ejercicio cerrado |
+| FG-CHLA-3y4-OAC-03 | 1 | Contextualizar actores, tiempo y espacio: Desafíos económico | 67 % | 50 % | 18.3 | respuesta «depende» en ejercicio cerrado |
+| FG-FILO-3M-OAC-02 | 1 | Problematizar una situación: Perspectivas filosóficas, vida  | 67 % | 100 % | 29.2 | respuesta «depende» en ejercicio cerrado |
+| FG-MUSI-3y4-OAC-02 | 1 | Escuchar y reconocer rasgos: Creación musical, emociones e i | 67 % | 86 % | 25.8 | respuesta «depende» en ejercicio cerrado |
+| FG-TEAT-3y4-OAC-01 | 1 | Explorar cuerpo, gesto y voz: Cuerpo, gesto y voz en la expr | 67 % | 100 % | 21.7 | — |
+| FG-MGLO-3y4-OAC-06 | 4 | Explicar relaciones y consecuencias: Conflictos internaciona | 68 % | 100 % | 20.8 | — |
+| FG-CHLA-3y4-OAC-04 | 3 | Comparar causas y perspectivas: Pueblos indígenas y relacion | 68 % | 86 % | 23.0 | — |
+| FG-LELI-3M-OAC-01 | 2 | Analizar narrador, personajes, tópicos y lenguaje como recur | 68 % | 100 % | 22.3 | — |
+| FG-MGLO-3y4-OAC-01 | 1 | Contextualizar actores, tiempo y espacio: Migraciones contem | 68 % | 86 % | 21.9 | — |
+| FG-MGLO-3y4-OAC-01 | 4 | Explicar relaciones y consecuencias: Migraciones contemporán | 68 % | 71 % | 21.9 | respuesta «depende» en ejercicio cerrado |
+| FG-MGLO-3y4-OAC-03 | 2 | Interrogar fuentes e indicadores: Cambio climático, controve | 68 % | 86 % | 23.5 | — |
+| FG-FILO-3M-OAC-05 | 3 | Reconstruir una perspectiva: Diálogo sobre problemas ontológ | 69 % | 100 % | 16.5 | respuesta «depende» en ejercicio cerrado |
+| FG-EFS1-3y4-OAC-05 | 2 | Elegir una respuesta motriz: Factores que favorecen estilos  | 70 % | 86 % | 21.7 | — |
+| FG-EFS1-3y4-OAC-05 | 6 | Transferir con autonomía e inclusión: Factores que favorecen | 70 % | 100 % | 27.6 | — |
+| FG-EFS2-3y4-OAC-05 | 1 | Diagnosticar de forma privada y segura: Oportunidades social | 70 % | 100 % | 25.1 | — |
+| FG-CISA-3y4-OAC-03 | 2 | Evaluar fuentes y variables: Riesgos locales, prevención, mi | 70 % | 75 % | 23.6 | — |
+| FG-FILO-3M-OAC-02 | 3 | Reconstruir una perspectiva: Perspectivas filosóficas, vida  | 71 % | 100 % | 17.5 | respuesta «depende» en ejercicio cerrado |
+| FG-MGLO-3y4-OAC-07 | 1 | Contextualizar actores, tiempo y espacio: Propuestas locales | 71 % | 78 % | 22.2 | — |
+| FG-MUSI-3y4-OAC-05 | 1 | Escuchar y reconocer rasgos: Juicios estéticos musicales fun | 71 % | 100 % | 24.9 | — |
+| FG-CHLA-3y4-OAC-05 | 1 | Contextualizar actores, tiempo y espacio: Medioambiente y su | 71 % | 89 % | 23.0 | — |
+| FG-FILO-3M-OAC-03 | 1 | Problematizar una situación: Preguntas ontológicas sobre el  | 71 % | 100 % | 20.8 | respuesta «depende» en ejercicio cerrado |
+| FG-FILO-3M-OAC-03 | 3 | Reconstruir una perspectiva: Preguntas ontológicas sobre el  | 71 % | 100 % | 18.1 | respuesta «depende» en ejercicio cerrado |
+| FG-CITS-3y4-OAC-03 | 1 | Definir necesidad, usuario y criterio: Riesgos, beneficios y | 72 % | 50 % | 24.5 | — |
+| FG-FILO-3M-OAC-02 | 2 | Definir conceptos: Perspectivas filosóficas, vida cotidiana  | 72 % | 100 % | 19.9 | respuesta «depende» en ejercicio cerrado |
+| FG-EFS2-3y4-OAC-04 | 6 | Transferir con autonomía e inclusión: Evaluación de programa | 73 % | 100 % | 24.1 | — |
+| FG-CHLA-3y4-OAC-03 | 4 | Explicar relaciones y consecuencias: Desafíos económicos y s | 73 % | 86 % | 18.2 | respuesta «depende» en ejercicio cerrado |
+| FG-MUSI-3y4-OAC-01 | 1 | Escuchar y reconocer rasgos: Experimentación con estilos y p | 73 % | 100 % | 26.1 | — |
+| FG-MUSI-3y4-OAC-03 | 1 | Escuchar y reconocer rasgos: Interpretación de repertorios y | 74 % | 100 % | 22.2 | — |
+| FG-EFS2-3y4-OAC-05 | 6 | Transferir con autonomía e inclusión: Oportunidades sociales | 74 % | 100 % | 23.6 | — |
+| FG-CITS-3y4-OAC-01 | 1 | Definir necesidad, usuario y criterio: Proyectos tecnológico | 75 % | 89 % | 21.3 | — |
+| FG-MUSI-3y4-OAC-04 | 2 | Explorar recursos de producción: Análisis de propósitos expr | 76 % | 100 % | 17.4 | respuesta «depende» en ejercicio cerrado |
+| FG-MGLO-3y4-OAC-03 | 4 | Explicar relaciones y consecuencias: Cambio climático, contr | 76 % | 57 % | 21.7 | — |
+| FG-CHLA-3y4-OAC-06 | 1 | Contextualizar actores, tiempo y espacio: Integración y coop | 77 % | 100 % | 24.4 | — |
+| FG-CISA-3y4-OAC-02 | 6 | Comunicar límites y decisión: Soluciones para reducir amenaz | 77 % | 75 % | 23.9 | — |
+| FG-MGLO-3y4-OAC-06 | 1 | Contextualizar actores, tiempo y espacio: Conflictos interna | 77 % | 75 % | 20.3 | — |
+| FG-EFS2-3y4-OAC-04 | 1 | Diagnosticar de forma privada y segura: Evaluación de progra | 77 % | 100 % | 22.2 | — |
+| FG-ARTE-3y4-OAC-03 | 1 | Observar referentes y propósito: Creación desde referentes a | 79 % | 83 % | 21.3 | — |
+| FG-CIBS-3y4-OAC-02 | 1 | Delimitar pregunta y sistema: Comparación informada de siste | 79 % | 100 % | 21.1 | — |
+| FG-CISA-3y4-OAC-02 | 1 | Delimitar pregunta y sistema: Soluciones para reducir amenaz | 80 % | 88 % | 25.2 | — |
+| FG-MATE-3M-OAC-02 | 4 | Tomar una decisión bajo incerteza declarando supuestos y lím | 80 % | 100 % | 23.3 | — |
+| FG-CITS-3y4-OAC-03 | 3 | Representar y planificar: Riesgos, beneficios y límites de l | 81 % | 83 % | 21.2 | — |
+| FG-MGLO-3y4-OAC-05 | 4 | Explicar relaciones y consecuencias: Transformaciones contem | 81 % | 86 % | 18.6 | respuesta «depende» en ejercicio cerrado |
+| FG-CIAS-3y4-OAC-03 | 1 | Delimitar pregunta y sistema: Modelación del cambio climátic | 82 % | 100 % | 20.9 | — |
+| FG-CHLA-3y4-OAC-04 | 1 | Contextualizar actores, tiempo y espacio: Pueblos indígenas  | 83 % | 100 % | 18.9 | respuesta «depende» en ejercicio cerrado |
+| FG-ECIU-3M-OAC-01 | 1 | Precisar conceptos y derechos: Fundamentos de democracia, ci | 83 % | 71 % | 22.1 | — |
+| FG-EFS1-3y4-OAC-03 | 1 | Diagnosticar de forma privada y segura: Diseño y aplicación  | 83 % | 83 % | 25.0 | — |
+| FG-EFS2-3y4-OAC-03 | 1 | Diagnosticar de forma privada y segura: Aplicación responsab | 83 % | 80 % | 22.4 | — |
+| FG-MGLO-3y4-OAC-05 | 1 | Contextualizar actores, tiempo y espacio: Transformaciones c | 83 % | 100 % | 18.0 | respuesta «depende» en ejercicio cerrado |
+| FG-CIBS-3y4-OAC-02 | 3 | Construir o interpretar un modelo: Comparación informada de  | 84 % | 100 % | 23.0 | — |
+| FG-MGLO-3y4-OAC-06 | 3 | Comparar causas y perspectivas: Conflictos internacionales y | 85 % | 86 % | 21.3 | — |
+| FG-EFS1-3y4-OAC-05 | 5 | Evaluar y ajustar: Factores que favorecen estilos de vida ac | 86 % | 83 % | 26.3 | — |
+| FG-CHLA-3y4-OAC-07 | 1 | Contextualizar actores, tiempo y espacio: Propuestas locales | 88 % | 88 % | 21.2 | — |
+| FG-CHLA-3y4-OAC-02 | 1 | Contextualizar actores, tiempo y espacio: Democracias, trans | 88 % | 90 % | 23.4 | — |
+| FG-CIBS-3y4-OAC-01 | 1 | Delimitar pregunta y sistema: Factores biológicos, ambiental | 89 % | 100 % | 20.5 | respuesta «depende» en ejercicio cerrado |
+| FG-CISA-3y4-OAC-03 | 1 | Delimitar pregunta y sistema: Riesgos locales, prevención, m | 90 % | 100 % | 23.2 | respuesta «depende» en ejercicio cerrado |
+| FG-ECIU-3M-OAC-04 | 1 | Precisar conceptos y derechos: Relaciones entre Estado, merc | 91 % | 88 % | 14.7 | respuesta «depende» en ejercicio cerrado |
+| FG-CIAS-3y4-OAC-01 | 1 | Delimitar pregunta y sistema: Ciclo de vida y consumo sosten | 94 % | 100 % | 22.4 | — |
+| FG-DANZ-3y4-OAC-04 | 2 | Combinar espacio, tiempo y energía: Interpretación estética  | 95 % | 89 % | 20.1 | — |
+
+## 4.º medio
+
+Criterio de marca: cobertura del OA menor que 34 % **y** del título menor que 50 %, o explicación con oraciones de más de 20 palabras en promedio, o respuestas «depende» en ejercicios cerrados.
+
+### Resumen por asignatura
+
+| Asignatura | Clases | Cobertura media del OA y título | Clases marcadas |
+|---|---:|---:|---:|
+| educacion-ciudadana-4-medio | 39 | 53 % | 7 |
+| ingles-4o-medio | 18 | 41 % | 4 |
+| lengua-literatura-4o-medio | 53 | 54 % | 15 |
+| matematica-4o-medio | 17 | 30 % | 8 |
+
+**Clases marcadas para lectura prioritaria (4.º medio):** 34 de 127.
+
+### Cuadernos de 4.º medio (Formación General)
+
+Los 67 OA con código «3y4» (339 clases) comparten cuaderno con 3.º medio; los OA de 4.º medio con código «4M» (Matemática, Inglés, Lengua y Literatura, Educación Ciudadana y Filosofía) tienen cuaderno propio. La segunda lectura crítica, los defectos corregidos y los vacíos están en la sección de 3.º medio, que describe las 622 clases únicas de ambos niveles.
+
+### Clases marcadas de 4.º medio
+
+| OA | Clase | Título planificado | Cobertura OA | Cobertura título | Oración media | Señales |
+|---|---:|---|---:|---:|---:|---|
+| FG-INGL-4M-OAC-01 | 2 | Notice central meaning and clues: Relevant information for a | 17 % | 30 % | 14.5 | — |
+| FG-MATE-4M-OAC-03 | 3 | Desarrollar una estrategia: Modelos de crecimiento, decrecim | 18 % | 33 % | 20.8 | — |
+| FG-MATE-4M-OAC-01 | 3 | Desarrollar una estrategia: Decisiones financieras mediante  | 20 % | 29 % | 19.9 | — |
+| FG-INGL-4M-OAC-01 | 3 | Rehearse useful language: Relevant information for a specifi | 22 % | 11 % | 22.4 | — |
+| FG-INGL-4M-OAC-03 | 3 | Rehearse useful language: Strategic English knowledge for cr | 22 % | 0 % | 14.9 | — |
+| FG-MATE-4M-OAC-02 | 2 | Representar de dos maneras: Decisiones bajo incerteza con mo | 23 % | 43 % | 16.9 | — |
+| FG-MATE-4M-OAC-02 | 3 | Desarrollar una estrategia: Decisiones bajo incerteza con mo | 23 % | 29 % | 22.8 | — |
+| FG-LELI-4M-OAC-06 | 5 | Planificar una respuesta para una audiencia: Recursos lingüí | 24 % | 43 % | 16.5 | — |
+| FG-MATE-4M-OAC-04 | 2 | Representar de dos maneras: Rectas y circunferencias mediant | 25 % | 40 % | 20.1 | — |
+| FG-ECIU-4M-OAC-04 | 5 | Diseñar una acción democrática: Derechos laborales, instituc | 30 % | 75 % | 20.1 | — |
+| FG-ECIU-4M-OAC-06 | 2 | Investigar un caso público: Medios, tecnologías, participaci | 32 % | 33 % | 13.8 | — |
+| FG-ECIU-4M-OAC-03 | 5 | Diseñar una acción democrática: Modelos de desarrollo, polít | 33 % | 33 % | 16.2 | — |
+| FG-INGL-4M-OAC-03 | 2 | Notice central meaning and clues: Strategic English knowledg | 33 % | 20 % | 13.5 | — |
+| FG-LELI-4M-OAC-08 | 3 | Analizar recursos y evidencia: Investigación ética para enri | 36 % | 57 % | 20.5 | — |
+| FG-MATE-4M-OAC-02 | 4 | Justificar relaciones: Decisiones bajo incerteza con modelos | 38 % | 57 % | 20.8 | — |
+| FG-MATE-4M-OAC-04 | 4 | Justificar relaciones: Rectas y circunferencias mediante rep | 38 % | 67 % | 20.6 | — |
+| FG-MATE-4M-OAC-01 | 4 | Justificar relaciones: Decisiones financieras mediante porce | 40 % | 57 % | 20.8 | — |
+| FG-ECIU-4M-OAC-04 | 1 | Precisar conceptos y derechos: Derechos laborales, instituci | 41 % | 86 % | 24.3 | — |
+| FG-ECIU-4M-OAC-06 | 5 | Diseñar una acción democrática: Medios, tecnologías, partici | 41 % | 57 % | 22.4 | — |
+| FG-LELI-4M-OAC-04 | 5 | Planificar una respuesta para una audiencia: Recursos multim | 45 % | 62 % | 19.3 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-4M-OAC-05 | 4 | Contrastar interpretaciones o discursos: Producción coherent | 46 % | 33 % | 20.8 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-4M-OAC-06 | 4 | Contrastar interpretaciones o discursos: Recursos lingüístic | 48 % | 83 % | 15.2 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-4M-OAC-04 | 6 | Producir, revisar y editar: Recursos multimodales, posiciona | 50 % | 75 % | 22.5 | — |
+| FG-LELI-4M-OAC-08 | 5 | Planificar una respuesta para una audiencia: Investigación é | 54 % | 62 % | 20.2 | — |
+| FG-LELI-4M-OAC-07 | 1 | Situar corpus, género y propósito: Diálogo argumentativo par | 59 % | 80 % | 21.7 | — |
+| FG-LELI-4M-OAC-03 | 1 | Situar corpus, género y propósito: Evaluación crítica de dis | 61 % | 78 % | 14.7 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-4M-OAC-07 | 6 | Producir, revisar y editar: Diálogo argumentativo para const | 64 % | 78 % | 21.8 | — |
+| FG-LELI-4M-OAC-03 | 4 | Contrastar interpretaciones o discursos: Evaluación crítica  | 66 % | 71 % | 23.2 | — |
+| FG-LELI-4M-OAC-02 | 4 | Contrastar interpretaciones o discursos: Interpretaciones mú | 75 % | 57 % | 25.7 | — |
+| FG-LELI-4M-OAC-04 | 1 | Situar corpus, género y propósito: Recursos multimodales, po | 76 % | 67 % | 20.7 | respuesta «depende» en ejercicio cerrado |
+| FG-ECIU-4M-OAC-01 | 1 | Precisar conceptos y derechos: Institucionalidad democrática | 82 % | 88 % | 20.2 | — |
+| FG-ECIU-4M-OAC-08 | 1 | Precisar conceptos y derechos: Principios éticos, virtudes p | 88 % | 78 % | 25.1 | respuesta «depende» en ejercicio cerrado |
+| FG-LELI-4M-OAC-02 | 1 | Situar corpus, género y propósito: Interpretaciones múltiple | 90 % | 89 % | 20.8 | — |
+| FG-LELI-4M-OAC-01 | 1 | Situar corpus, género y propósito: Interpretación comparada  | 92 % | 100 % | 21.0 | — |

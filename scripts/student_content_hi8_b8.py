@@ -198,7 +198,7 @@ lesson(
         ("¿En qué año aprobó la ONU la Declaración Universal de Derechos Humanos?", "En 1948", "Se dice en el tercer párrafo."),
     ],
     [
-        ("¿Qué es la dignidad?", "El valor que tiene toda persona por el hecho de serlo", "Está en el vocabulario."),
+        ("En Historia: ¿Qué es la dignidad?", "El valor que tiene toda persona por el hecho de serlo", "Está en el vocabulario."),
         ("¿Por qué las ideas de Sepúlveda se basaban en prejuicios?", "Porque suponía que algunos pueblos eran inferiores sin conocerlos bien", "Se explicó en el segundo párrafo."),
         ("¿Qué decía Las Casas sobre la evangelización?", "Que debía hacerse por persuasión y no por la fuerza", "Se dice en el primer párrafo."),
     ],
