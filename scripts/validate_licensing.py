@@ -38,7 +38,7 @@ ASSET_SUFFIXES = {
     ".webp", ".woff", ".woff2",
 }
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
-IGNORED_PARTS = {".git", ".venv", ".idea", ".vscode", "__pycache__"}
+IGNORED_PARTS = {".git", ".venv", ".idea", ".vscode", "__pycache__", ".claude"}
 
 
 def relative(path: Path, root: Path) -> str:

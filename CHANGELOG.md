@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-16 · Diccionarios de español e inglés de 1° básico a 4° medio
+
+- Nueva carpeta `docs/diccionarios/` con un diccionario de español y uno de inglés por cada uno de los 12 niveles, enlazada desde el README principal y con un índice que muestra el vocabulario nuevo y acumulado por nivel.
+- Español: sílabas, clase, significado sencillo, sinónimos, antónimos y ejemplo; los verbos traen presente, pasado (ayer) y futuro (mañana). Total: 7.095 palabras y 1.154 verbos.
+- Inglés: traducción, IPA, cómo suena para hispanohablantes, significado en español y ejemplo traducido; los verbos traen pasado, y en los niveles altos incluyen verbos compuestos (phrasal verbs). Total: 4.334 palabras y 762 verbos.
+- Cada nivel trae solo palabras nuevas y no repite ninguna de los anteriores (validado por `scripts/generate_dictionaries.py`, que además comprueba que las sílabas reconstruyan la palabra); pruebas en `tests/test_dictionaries.py`.
+- Límites declarados: selecciones propias (no son listados oficiales ni reemplazan a la RAE o a un diccionario de inglés), escritas con asistencia de IA y sin revisión de especialistas en lingüística o idiomas; los IPA y las pronunciaciones escritas salen de memoria del autor y no se cotejaron con una fuente; no hay audio; conjugaciones irregulares y silabeo sin segunda lectura humana.
+
 ## 2026-11-16 · 3° y 4° medio (Formación General): cuaderno del estudiante de 17 asignaturas, con segunda lectura crítica
 
 - Las clases de 3° medio (495) y 4° medio (466) de Formación General tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios). Como los OA con código «3y4» son idénticos en ambos niveles (67 OA, 339 clases), un solo cuaderno sirve a los dos: son 622 cuadernos únicos de Matemática, Inglés, Lengua y Literatura, Educación Ciudadana, Chile y la región latinoamericana, Mundo global, Filosofía, Seguridad y autocuidado, Bienestar y salud, Ambiente y sostenibilidad, Tecnología y sociedad, Educación Física y Salud 1 y 2, Música, Teatro, Artes Visuales y Danza.
