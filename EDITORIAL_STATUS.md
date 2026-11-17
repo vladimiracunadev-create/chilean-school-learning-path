@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 14.557 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 14.557 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 14.677 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 14.677 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 10.401 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 10.521 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 14.557 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 14.677 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -249,13 +249,25 @@ Las diecisiete denominaciones cuentan con [índice de nivel](docs/4-medio/README
 
 Los 165 OA son los mismos en 3° y 4° medio y cuentan en los dos niveles. Cada electivo tiene su ficha oficial por OA, cuaderno del estudiante y [índice](docs/electivos-hc/README.md). El desarrollo interno está completo y la revisión humana sigue pendiente.
 
+<!-- TP:estado -->
+## 3° y 4° medio · Formación técnico-profesional (publicada por lotes de sectores)
+
+| Sector | Especialidad | Riesgo físico | OA | Clases |
+|---|---|---|---:|---:|
+| Administración | Administración | bajo | 15 | 62 |
+| Administración | Contabilidad | bajo | 7 | 58 |
+| **Total** | **2 especialidades** | | **22** | **120** |
+
+Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación Diferenciada Técnico-Profesional (Decreto Supremo de Educación N.º 452/2013 según el propio documento, edición 2016; las bases no traen módulos). Las especialidades sin mención comparten cuaderno entre 3° y 4° medio; en las con menciones, el tronco va en 3° y las menciones en 4°. Cada especialidad tiene [guía propia](docs/formacion-tp/README.md). Solo conceptos y casos en papel: nada de taller, laboratorio ni práctica; en las especialidades de riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Revisión humana pendiente. Avance completo de la fase en [AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
+
+<!-- /TP:estado -->
 ## Cobertura publicada
 
-- 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC de 3° y 4° medio.
-- 62 asignaturas o denominaciones curriculares (35 de formación general y 27 electivos HC).
-- 3.153 Objetivos de Aprendizaje.
+- 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC y especialidades técnico-profesionales de 3° y 4° medio.
+- 66 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC y 4 de formación técnico-profesional, contando las menciones como denominaciones propias).
+- 3.182 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 3.153 páginas HTML de OA con anclas estables para 14.557 registros pedagógicos: 10.401 clases y 4.156 experiencias integradas.
+- 3.182 páginas HTML de OA con anclas estables para 14.677 registros pedagógicos: 10.521 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

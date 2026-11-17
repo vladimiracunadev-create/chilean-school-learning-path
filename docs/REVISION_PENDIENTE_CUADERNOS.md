@@ -260,3 +260,14 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura cr�
 - **Filosofía:** resúmenes de posturas asociadas a Weber, Arendt, Foucault, Rawls, Nozick, Berlin, Mill, Bentham, Aristóteles, Beauvoir y Gilligan; definiciones de «lo sublime», catarsis, mímesis, validez frente a solidez y falacias; rótulos propios de posturas.
 - **Artes:** terminología de planos y montaje, pautas de accesibilidad con medidas de ejemplo y nada que habilite a construir (Diseño y arquitectura); teoría musical básica y derechos de autor, solo generalidades (Música); estilos y tradiciones de danza y teatro, y condiciones laborales, solo en términos generales; seguridad y cuidado de la voz.
 - **Educación física y salud:** zonas de intensidad, pulsos y pruebas de condición física con cifras de ejemplo; ayudas ergogénicas y dopaje solo conceptuales; terminología de factores de movimiento (tradición de Laban simplificada); «60 minutos diarios» como referencia general. Ante dolor, mareo o lesión el cuaderno remite a una persona adulta o a un profesional.
+
+<!-- TP:rev -->
+## Formación técnico-profesional (especialidades TP)
+
+Estado: cada clase tuvo autor, validación automática y una segunda lectura independiente asistida por IA (ver [Avance de las asignaturas nuevas](AVANCE_ASIGNATURAS_NUEVAS.md)). Eso no es revisión profesional. Nada se contrastó con los programas de estudio de la especialidad ni con normativa sectorial; las bases no traen módulos.
+
+- **Todas:** los títulos de clase son una derivación mecánica del objetivo; no hay taller, laboratorio, equipos, software ni práctica en terreno reales (declarado como pendiente); empresas, personas e importes son de ejemplo; normas, tasas, plazos y valores legales se remiten a «la norma vigente» o van rotulados «de ejemplo».
+- **Especialistas necesarios:** un docente o profesional de cada especialidad debe revisar terminología, tasas de ejemplo y definiciones simplificadas; en riesgo medio o alto, además, que no se haya filtrado ningún procedimiento operativo.
+- **Administración** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/administracion.md).
+- **Contabilidad** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/contabilidad.md).
+<!-- /TP:rev -->

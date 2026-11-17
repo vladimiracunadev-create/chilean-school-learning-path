@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-17 · Fase B (lote): sector Administración (Administración con sus menciones Logística y Recursos Humanos, y Contabilidad)
+
+- Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.677 registros (10.521 clases y 4.156 integradas) y 3.182 OA. Total TP publicado: 120 clases en 2 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).
+- Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
+
 ## 2026-11-16 · Fase A: 27 electivos de 3° y 4° medio (Formación Diferenciada Humanístico-Científica)
 
 - Se incorporan al catálogo los 27 electivos humanístico-científicos de 3° y 4° medio del Currículum Nacional (consultados el 16-nov-2026; 4° medio ofrece los mismos 27 con los mismos OA «3y4»): 165 OA, que cuentan en los dos niveles, y 1.560 clases (780 por nivel). Cursos nuevos `3-medio-hc` y `4-medio-hc`, con cobertura `formacion-diferenciada-hc`. Catálogo: 14.557 registros (10.401 clases y 4.156 integradas) y 3.153 OA.

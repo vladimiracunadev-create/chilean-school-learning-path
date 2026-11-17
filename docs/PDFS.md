@@ -4,7 +4,7 @@ Las **64 compilaciones PDF** se generan desde las guías canónicas del reposito
 
 Cada portada y sus metadatos muestran el corte documental tomado de la primera entrada fechada de `CHANGELOG.md`. La CI comprueba inventario, versión, metadatos, fuentes únicas, enlaces y lectura de cada PDF. No compara sus bytes entre sistemas operativos: el motor tipográfico puede producir contenedores distintos con el mismo contenido, incluso con dependencias fijadas.
 
-> Los PDF compilan índices y guías pedagógicas. Las 3.153 fichas OA detalladas permanecen como fuente canónica en Markdown y HTML; cada entrada del PDF enlaza a su ficha para evitar duplicar el repositorio completo en cada agrupación.
+> Los PDF compilan índices y guías pedagógicas. Las 3.182 fichas OA detalladas permanecen como fuente canónica en Markdown y HTML; cada entrada del PDF enlaza a su ficha para evitar duplicar el repositorio completo en cada agrupación.
 
 ## Compilaciones generales
 

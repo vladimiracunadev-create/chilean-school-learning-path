@@ -1,8 +1,16 @@
 {
   "schema_version": 1,
   "source": "CHANGELOG.md",
-  "latest_date": "2026-11-16",
+  "latest_date": "2026-11-17",
   "updates": [
+    {
+      "date": "2026-11-17",
+      "title": "Fase B (lote): sector Administración (Administración con sus menciones Logística y Recursos Humanos, y Contabilidad)",
+      "summary": [
+        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.677 registros (10.521 clases y 4.156 integradas) y 3.182 OA. Total TP publicado: 120 clases en 2 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
+        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
+      ]
+    },
     {
       "date": "2026-11-16",
       "title": "Fase A: 27 electivos de 3° y 4° medio (Formación Diferenciada Humanístico-Científica)",
@@ -24,16 +32,6 @@
         "Inglés: traducción, IPA, cómo suena para hispanohablantes, significado en español y ejemplo traducido; los verbos traen pasado, y en los niveles altos incluyen verbos compuestos (phrasal verbs). Total: 4.334 palabras y 762 verbos.",
         "Cada nivel trae solo palabras nuevas y no repite ninguna de los anteriores (validado por `scripts/generate_dictionaries.py`, que además comprueba que las sílabas reconstruyan la palabra); pruebas en `tests/test_dictionaries.py`.",
         "Límites declarados: selecciones propias (no son listados oficiales ni reemplazan a la RAE o a un diccionario de inglés), escritas con asistencia de IA y sin revisión de especialistas en lingüística o idiomas; los IPA y las pronunciaciones escritas salen de memoria del autor y no se cotejaron con una fuente; no hay audio; conjugaciones irregulares y silabeo sin segunda lectura humana."
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "title": "3° y 4° medio (Formación General): cuaderno del estudiante de 17 asignaturas, con segunda lectura crítica",
-      "summary": [
-        "Las clases de 3° medio (495) y 4° medio (466) de Formación General tienen cuaderno del estudiante (explicación, ejemplos resueltos, ejercicios con solucionario, actividad abierta con criterios). Como los OA con código «3y4» son idénticos en ambos niveles (67 OA, 339 clases), un solo cuaderno sirve a los dos: son 622 cuadernos únicos de Matemática, Inglés, Lengua y Literatura, Educación Ciudadana, Chile y la región latinoamericana, Mundo global, Filosofía, Seguridad y autocuidado, Bienestar y salud, Ambiente y sostenibilidad, Tecnología y sociedad, Educación Física y Salud 1 y 2, Música, Teatro, Artes Visuales y Danza.",
-        "Se trabajó una asignatura a la vez (máximo dos): un autor y luego un lector independiente (asistido por IA, no revisión profesional) que resolvió o verificó los ejercicios y corrigió en el mismo archivo. Entre lo corregido: unos 770 ítems de Lenguaje y unos 215 de Inglés con la respuesta correcta más larga, unas 1.300 justificaciones de Educación Ciudadana, enunciados imposibles o con más de una respuesta en Danza, Filosofía y Educación Física, ejercicios de mirar el Sol y de puntero láser en Tecnología, afirmaciones de salud e institucionales inseguras y sugerencias corporales inadecuadas. Se reescribieron 67 enunciados idénticos a los de otras asignaturas y niveles.",
-        "Las herramientas de verificación reconocen ahora los códigos de Formación General (por ejemplo FG-FILO-3M-OAC-01) y cuentan los OA compartidos en los dos niveles.",
-        "Siguen abiertos: audio, video, mapas, imágenes y software reales; obras, textos y casos reales con derechos de autor; pueblos originarios (educador tradicional); hechos, normas y datos de salud y seguridad por contrastar con una fuente; protocolos de protección por validar con convivencia escolar; decisiones que dependen del programa oficial. Sin revisión profesional humana ni contraste con el sitio oficial del Currículum Nacional."
       ]
     }
   ]

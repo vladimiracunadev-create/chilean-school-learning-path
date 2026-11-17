@@ -299,6 +299,7 @@ STAGES = {
     "music": ("Escuchar y reconocer rasgos", "Explorar recursos de producción", "Ensayar una decisión musical", "Interpretar, crear o analizar", "Registrar y ajustar", "Evaluar, atribuir y difundir"),
     "theater": ("Explorar cuerpo, gesto y voz", "Construir situación y personaje", "Ensayar decisiones escénicas", "Interpretar propósito y contexto", "Evaluar y revisar", "Presentar o difundir con consentimiento"),
     "technology": ("Definir necesidad, usuario y criterio", "Investigar alternativas y restricciones", "Representar y planificar", "Probar o modelar con seguridad", "Evaluar impactos y límites", "Mejorar y comunicar"),
+    "trabajo": ("Situar el contexto laboral, la norma y el riesgo", "Reconocer conceptos, documentos y roles del oficio", "Analizar un caso de trabajo en papel", "Aplicar un criterio técnico con datos de ejemplo", "Comparar alternativas y verificar la calidad", "Registrar y comunicar el resultado", "Reconocer los límites de la formación y los pasos que exigen instructor"),
 }
 
 VOCABULARY = {
@@ -315,6 +316,7 @@ VOCABULARY = {
     "music": "ritmo, melodía, armonía, timbre, textura, forma, estilo, técnica, propósito, evidencia audible",
     "theater": "cuerpo, gesto, voz, personaje, conflicto, acción, espacio, puesta en escena, audiencia, propósito",
     "technology": "necesidad, usuario, criterio, restricción, modelo, prototipo, prueba, accesibilidad, riesgo, impacto",
+    "trabajo": "perfil de egreso, competencia, norma, documento técnico, registro, calidad, riesgo, prevención, equipo de trabajo, responsabilidad",
 }
 
 MISCONCEPTIONS = {
@@ -331,6 +333,7 @@ MISCONCEPTIONS = {
     "music": ("confundir calidad con volumen o velocidad", "imitar sin decidir", "opinar sin evidencia audible"),
     "theater": ("confundir personaje con identidad personal", "usar volumen como único recurso", "evaluar exposición y no decisión escénica"),
     "technology": ("construir antes de definir el problema", "evaluar solo apariencia o novedad", "ignorar privacidad, acceso e impacto"),
+    "trabajo": ("creer que un cuaderno habilita para ejecutar tareas que exigen instructor, norma y autorización", "aplicar una regla sin revisar la norma vigente ni los datos del caso", "dar por bueno un resultado sin registro, verificación ni responsable"),
 }
 
 
@@ -462,6 +465,16 @@ def _lesson(record: dict, index: int, profile: dict) -> dict:
         extension = "Change speaker, worldview, audience or purpose and adapt language while preserving the central message."
         evidence = f"Comprehensible individual response for «{focus.lower()}» with input evidence, purposeful language and revision."
         coordination = "El docente modela inglés comprensible y culturalmente situado; los apoyos facilitan acceso sin sustituir la intención comunicativa."
+    elif domain == "trabajo":
+        opening = f"Presenta {anchor} como una situación de trabajo escrita, con datos de ejemplo rotulados como tales. Cada estudiante anota qué se pide, qué documento o norma interviene y qué riesgo o responsabilidad hay que considerar."
+        model = f"Modela en el pizarrón cómo {action}: nombra el criterio técnico, cita el tipo de documento o registro que respalda la decisión, verifica con los datos de ejemplo y corrige «{misconception}»."
+        guided = f"Parejas resuelven en papel una variante de {record['topic'].lower()}; intercambian hojas, buscan en la del compañero un dato mal usado y una omisión de seguridad o de registro."
+        independent = f"Cada estudiante desarrolla {action} en un caso nuevo con datos ficticios; deja el resultado, el registro que lo respalda y el límite de lo que el cuaderno permite concluir."
+        ticket = "Escribe la decisión técnica central, el registro o documento que la respalda y una situación en que debería pedir instructor, norma o autorización antes de actuar."
+        support = "Ofrece glosario, un caso resuelto parcial y una lista de verificación; conserva la decisión técnica y no completa el registro por el estudiante."
+        extension = "Cambia un dato, un rol o una condición del caso y examina qué parte del criterio, del registro o de la prevención debe revisarse."
+        evidence = f"Ficha de trabajo individual de «{focus.lower()}» con criterio técnico, datos de ejemplo, registro y límite de seguridad declarado."
+        coordination = "El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente."
     else:
         opening = f"Presenta {anchor} como desafío. Antes de idear soluciones, cada estudiante define necesidad, usuario, criterio y restricción."
         model = f"Modela cómo {action}: representa la alternativa, anticipa una prueba segura y revisa «{misconception}» junto con accesibilidad, privacidad e impacto."

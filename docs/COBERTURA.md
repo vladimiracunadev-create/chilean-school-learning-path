@@ -1,6 +1,6 @@
 # Cobertura completa y navegable
 
-El catálogo cubre 12 niveles, 3.153 Objetivos de Aprendizaje (OA) y 14.557 registros pedagógicos: 10.401 clases disciplinares y 4.156 experiencias de integración transversal. Estas experiencias no son clases independientes. El [índice curricular Markdown](../CURRICULUM.md) permite abrir cada OA sin mezclar la navegación del sitio HTML.
+El catálogo cubre 12 niveles, 3.182 Objetivos de Aprendizaje (OA) y 14.677 registros pedagógicos: 10.521 clases disciplinares y 4.156 experiencias de integración transversal. Estas experiencias no son clases independientes. El [índice curricular Markdown](../CURRICULUM.md) permite abrir cada OA sin mezclar la navegación del sitio HTML.
 
 | Nivel | OA | Propuestas | Desarrolladas | Integradas | Borradores |
 |---|---:|---:|---:|---:|---:|
@@ -18,7 +18,11 @@ El catálogo cubre 12 niveles, 3.153 Objetivos de Aprendizaje (OA) y 14.557 regi
 | 4° medio · Formación General | 91 | 466 | 466 | 0 | 0 |
 | 3° medio · Electivos HC | 165 | 780 | 780 | 0 | 0 |
 | 4° medio · Electivos HC | 165 | 780 | 780 | 0 | 0 |
-| **Total** | **3.153** | **14.557** | **10.401** | **4.156** | **0** |
+<!-- TP:cob -->
+| 3° medio · Especialidades TP | 13 | 55 | 55 | 0 | 0 |
+| 4° medio · Especialidades TP | 16 | 65 | 65 | 0 | 0 |
+<!-- /TP:cob -->
+| **Total** | **3.182** | **14.677** | **10.521** | **4.156** | **0** |
 
 “Secuenciada” significa que la clase tiene posición y dosificación. “Desarrollada” exige contenido pedagógico completo. “Revisada” exige evidencia humana registrada; actualmente hay 0 clases revisadas. Estas categorías no son equivalentes.
 

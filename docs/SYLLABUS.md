@@ -6,7 +6,7 @@
 
 **1°: 691 desarrolladas + 343 integradas · 2°: 721 + 351 · 3°: 757 + 379 · 4°: 811 + 384 · 5°: 920 + 420 · 6°: 952 + 422 · 7°: 760 + 515 · 8°: 771 + 430 · 1° medio: 753 + 456 · 2° medio: 744 + 456 · 3° medio: 495 desarrolladas · 4° medio: 466 desarrolladas**
 
-> El catálogo reúne **3.153 OA y 14.557 registros pedagógicos**: 10.401 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
+> El catálogo reúne **3.182 OA y 14.677 registros pedagógicos**: 10.521 clases disciplinares y 4.156 experiencias de integración transversal que no son clases adicionales. Los doce niveles tienen desarrollo interno completo y permanecen pendientes de revisión humana especializada.
 
 ---
 
@@ -279,6 +279,12 @@ Las doce denominaciones curriculares tienen desarrollo interno completo; habilid
 | Teatro | 6 | 31 | [Leer](4-medio/teatro.md) |
 | Tecnología y sociedad | 3 | 15 | [Leer](4-medio/tecnologia-sociedad.md) |
 
+<!-- TP:syl -->
+### 3° y 4° medio · Formación técnico-profesional (especialidades publicadas)
+
+2 especialidades de los sectores Administración, con los objetivos de las Bases Curriculares TP (sin módulos) y 120 clases con cuaderno del estudiante, en papel y sin taller ni práctica. Detalle en el [índice de especialidades](formacion-tp/README.md).
+
+<!-- /TP:syl -->
 ### 3° y 4° medio · Electivos HC (Formación Diferenciada Humanístico-Científica)
 
 Veintisiete electivos con 165 OA compartidos entre 3° y 4° medio y 1.560 clases (780 por nivel), cada una con cuaderno del estudiante. Se eligen además de la Formación General. Detalle por electivo en el [índice de electivos HC](electivos-hc/README.md).

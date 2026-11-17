@@ -4,7 +4,7 @@
   "source_url": "https://www.curriculumnacional.cl/curriculum/cursos-y-niveles",
   "verified_at": "2026-09-24",
   "rights_notice": "Los códigos, metadatos y textos oficiales conservan los derechos de sus titulares; la licencia de contenido del proyecto solo cubre la elaboración pedagógica original.",
-  "scope": "1° básico a 4° medio, formación general; electivos HC de 3° y 4° medio; coberturas optativas identificadas",
+  "scope": "1° básico a 4° medio, formación general; electivos HC de 3° y 4° medio; 35 especialidades técnico-profesionales (EMTP) de 3° y 4° medio; coberturas optativas identificadas",
   "records": [
     {
       "course": "1° básico",
@@ -28076,6 +28076,279 @@
           "axis": "Objetivos de aprendizaje",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/curriculum/3o-4o-medio/taller-literatura/4-medio-hc/ll-tali-3y4-oac-06"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Administración",
+      "subject_slug": "administracion",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ADMI-3-OAE-01",
+          "description": "Leer y utilizar información contable básica acerca de la marcha de la empresa, incluida información sobre importaciones y/o exportaciones, de acuerdo a las normas internacionales de contabilidad (NIC) y de información financiera (NIIF) y a la legislación tributaria vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMI-3-OAE-02",
+          "description": "Elaborar un programa de actividades operativas de un departamento o área de una empresa, de acuerdo a orientaciones de la jefatura y/o del plan estratégico de gestión, considerando recursos humanos, insumos, equipamiento, distribución temporal y proyección de resultados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMI-3-OAE-03",
+          "description": "Hacer seguimiento y elaborar informes del desarrollo de un programa operativo de un departamento o área de una empresa, sobre la base de evidencias, aplicando técnicas apropiadas, considerando todos los elementos del programa.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMI-3-OAE-04",
+          "description": "Atender a clientes internos y externos de la empresa, de acuerdo a sus necesidades y demandas, aplicando técnicas de relaciones públicas, de comunicación oral y escrita, en forma presencial o a distancia, vía teléfono, fax, correo electrónico u otro medio.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMI-3-OAE-05",
+          "description": "Organizar y ordenar el lugar de trabajo, de acuerdo a técnicas y procedimientos que permitan disponer y recuperar información u objetos de manera oportuna para el desarrollo de las tareas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADMI-3-OAE-06",
+          "description": "Utilizar los equipos y herramientas tecnológicas utilizadas en la gestión administrativa, considerando un uso eficiente de la energía, de los materiales y de los insumos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Contabilidad",
+      "subject_slug": "contabilidad",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-CONT-3y4-OAE-01",
+          "description": "Leer y utilizar información contable sobre la marcha de la empresa, de acuerdo a las normas internacionales de contabilidad y a la legislación tributaria vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-02",
+          "description": "Procesar información contable sobre la marcha de la empresa, utilizando los sistemas contables de uso frecuente en las empresas y los correspondientes software de la especialidad: cuadrar registros de auxiliares, estructurar plan de cuentas, realizar los asientos de apertura, preparar los análisis de cuentas, participar en la elaboración de balances, efectuar controles de existencia, manejo de efectivo, arqueos de caja, pago de facturas, control de inventarios, control de activo fijo y corrección monetaria, considerando las normas internacionales de contabilidad (NIC) y de información financiera (NIIF).",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-03",
+          "description": "Realizar llenado, tramitación y registro de documentación contable, nacional e internacional, de materias tributarias de una empresa, de acuerdo a la legislación vigente y a las normas internacionales de contabilidad, utilizando los formularios apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-04",
+          "description": "Registrar hechos económicos u operaciones de comercio nacional e internacional, ordenados cronológicamente, en libros y sistemas contables, elaborando los asientos de ajuste y saldos contables correspondientes de una empresa.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-05",
+          "description": "Comunicar y presentar información contable básica para usos internos de la empresa, considerando técnicas y formatos establecidos de presentación de la información.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-06",
+          "description": "Organizar y ordenar el lugar de trabajo, de acuerdo a técnicas y procedimientos que permitan disponer y recuperar información y/u objetos de manera oportuna para el desarrollo de las tareas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-07",
+          "description": "Atender a clientes internos y externos de la empresa, de acuerdo a sus necesidades y demandas, aplicando técnicas de relaciones públicas, de comunicación oral y escrita, en forma presencial o a distancia, vía teléfono, fax, correo electrónico u otro medio.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Administración · mención Logística",
+      "subject_slug": "administracion-mencion-logistica",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ADLO-4-OAM-01",
+          "description": "Controlar la entrada y salida de productos, revisando el stock disponible y confirmando la recepción y despacho de manera computacional y/o manual, utilizando instrumentos de registro apropiados y la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADLO-4-OAM-02",
+          "description": "Controlar las operaciones de almacenamiento y manejo de existencias de acuerdo a métodos establecidos, detectando el estado cualitativo y cuantitativo de los productos, asignando ubicaciones y sistemas de localización inmediata, de manera manual y digital.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADLO-4-OAM-03",
+          "description": "Cubicar los productos, materiales e insumos que requieren almacenaje y los espacios de bodegaje, para lograr una disposición eficiente de los primeros y la optimización de los segundos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADLO-4-OAM-04",
+          "description": "Informar y comunicar datos de almacenaje y de entrada y salida de productos, mediante diversos sistemas, tales como radiofrecuencia y computación.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADLO-4-OAM-05",
+          "description": "Prevenir riesgos de accidentes laborales, mediante la aplicación de normas básicas de seguridad en zonas de almacenamiento y distribución, y el reconocimiento de la rotulación internacional de sustancias peligrosas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Administración · mención Recursos Humanos",
+      "subject_slug": "administracion-mencion-recursos-humanos",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ADRH-4-OAM-01",
+          "description": "Realizar llenado y tramitación de contratos de trabajo, remuneraciones y finiquito, de acuerdo a la legislación vigente y a las normas internacionales de contabilidad (NIC).",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADRH-4-OAM-02",
+          "description": "Calcular remuneraciones y finiquitos, obligaciones tributarias y previsionales del personal de una empresa, de acuerdo a los contratos de trabajo, la legislación vigente y las NIC.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADRH-4-OAM-03",
+          "description": "Ingresar, archivar y presentar información sobre bienestar y desarrollo de las personas, ascensos, promociones, transferencias, capacitación, desempeños, evaluaciones, entre otros, para la toma de decisiones de las jefaturas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ADRH-4-OAM-04",
+          "description": "Ejecutar tareas sistemáticas de descripción de cargos, de reclutamiento e inducción básica de personal, de acuerdo a las necesidades de una empresa, a los procedimientos establecidos y a la normativa vigente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Contabilidad",
+      "subject_slug": "contabilidad",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-CONT-3y4-OAE-01",
+          "description": "Leer y utilizar información contable sobre la marcha de la empresa, de acuerdo a las normas internacionales de contabilidad y a la legislación tributaria vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-02",
+          "description": "Procesar información contable sobre la marcha de la empresa, utilizando los sistemas contables de uso frecuente en las empresas y los correspondientes software de la especialidad: cuadrar registros de auxiliares, estructurar plan de cuentas, realizar los asientos de apertura, preparar los análisis de cuentas, participar en la elaboración de balances, efectuar controles de existencia, manejo de efectivo, arqueos de caja, pago de facturas, control de inventarios, control de activo fijo y corrección monetaria, considerando las normas internacionales de contabilidad (NIC) y de información financiera (NIIF).",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-03",
+          "description": "Realizar llenado, tramitación y registro de documentación contable, nacional e internacional, de materias tributarias de una empresa, de acuerdo a la legislación vigente y a las normas internacionales de contabilidad, utilizando los formularios apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-04",
+          "description": "Registrar hechos económicos u operaciones de comercio nacional e internacional, ordenados cronológicamente, en libros y sistemas contables, elaborando los asientos de ajuste y saldos contables correspondientes de una empresa.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-05",
+          "description": "Comunicar y presentar información contable básica para usos internos de la empresa, considerando técnicas y formatos establecidos de presentación de la información.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-06",
+          "description": "Organizar y ordenar el lugar de trabajo, de acuerdo a técnicas y procedimientos que permitan disponer y recuperar información y/u objetos de manera oportuna para el desarrollo de las tareas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONT-3y4-OAE-07",
+          "description": "Atender a clientes internos y externos de la empresa, de acuerdo a sus necesidades y demandas, aplicando técnicas de relaciones públicas, de comunicación oral y escrita, en forma presencial o a distancia, vía teléfono, fax, correo electrónico u otro medio.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
         }
       ]
     }
