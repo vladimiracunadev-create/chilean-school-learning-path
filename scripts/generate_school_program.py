@@ -211,7 +211,7 @@ def official_alignment_html(item):
  return f'''<section class="sources-panel official-alignment"><div><p class="eyebrow">Alineación curricular</p><h2>Fuente y progresión utilizada</h2><p>Esta secuencia conserva la ficha oficial y explicita el origen de sus criterios de diseño.</p></div><div><h3>{unit_heading}</h3><ul>{units}</ul>{unit_note}<h3>{indicator_heading}</h3><ul>{indicators}</ul>{indicator_note}<p><a href="{source}" rel="noopener">Consultar fuente oficial</a></p></div></section>'''
 
 def hc_markdown_nav(item,previous_item,next_item):
- slug=item["subject_slug"];links=[f"[📘 Guía del electivo](../../../docs/electivos-hc/{slug}.md)"]
+ slug=item["subject_slug"];links=[f"[📘 Guía de la especialidad](../../../docs/formacion-tp/{slug.split('-mencion-')[0]}.md)"] if item["course_order"]>=15 else [f"[📘 Guía del electivo](../../../docs/electivos-hc/{slug}.md)"]
  if previous_item:links.append(f"[← OA anterior ({previous_item['oa_code']})]({slugify(previous_item['oa_code'])}.md)")
  if next_item:links.append(f"[OA siguiente ({next_item['oa_code']}) →]({slugify(next_item['oa_code'])}.md)")
  index=" · ".join(f"[Clase {n}](#{code.lower()})" for n,code in enumerate(item["codes"],1))
@@ -1758,7 +1758,7 @@ def lesson_page(item, previous_item=None, next_item=None):
    elif _next:_links.append(f'<a href="{_name(_next)}.html#{esc(_next["codes"][0].lower())}">Primera clase del OA siguiente →</a>')
    if _links:sessions[_n]=sessions[_n].replace("</article>",f'<nav class="class-nav" aria-label="Navegación entre clases">{" ".join(_links)}</nav></article>')
   _index="".join(f'<a href="#{esc(c.lower())}">Clase {n}</a>' for n,c in enumerate(_codes,1))
-  _top=[f'<a href="../../../docs/electivos-hc/{esc(item["subject_slug"])}.html">📘 Guía del electivo</a>']
+  _top=[f'<a href="../../../docs/formacion-tp/{esc(item["subject_slug"].split("-mencion-")[0])}.html">📘 Guía de la especialidad</a>'] if item["course_order"]>=15 else [f'<a href="../../../docs/electivos-hc/{esc(item["subject_slug"])}.html">📘 Guía del electivo</a>']
   if _prev:_top.append(f'<a href="{_name(_prev)}.html">← OA anterior ({esc(_prev["oa_code"])})</a>')
   if _next:_top.append(f'<a href="{_name(_next)}.html">OA siguiente ({esc(_next["oa_code"])}) →</a>')
   sessions.insert(0,f'<nav class="class-index" aria-label="Clases de este OA"><strong>Clases de este OA:</strong> {_index}<span>{" ".join(_top)}</span></nav>')
