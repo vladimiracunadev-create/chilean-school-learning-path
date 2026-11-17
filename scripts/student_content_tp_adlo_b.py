@@ -51,7 +51,7 @@ build(
     ctx=("abc", "La jefatura pregunta cuántas cajas de H caben en el sector si se usa el 70 % del espacio. ¿Qué responde un buen cálculo?", "1.400 cajas aproximadamente, según el cálculo teórico de ejemplo", "2.000 cajas exactas", "No se puede calcular", "El cálculo usa el volumen utilizable y se declara como aproximado."),
     sc=[
         ("En Logística: ¿cómo se calcula el volumen de una caja?", "Largo por ancho por alto", "Se multiplican las tres medidas para obtener el volumen."),
-        ("¿Cuántos cm³ tiene 1 m³?", "1.000.000", "Un metro cúbico equivale a un millón de cm³."),
+        ("En bodega: ¿cuántos cm³ tiene 1 m³ de volumen de carga?", "1.000.000", "Un metro cúbico equivale a un millón de cm³."),
         ("¿Quién fija los límites de apilado?", "El fabricante y la norma vigente", "No se improvisan en la bodega."),
     ],
     op=("Con la Ficha 35, escribe una hoja de cubicaje con: volumen de una caja, volumen del sector, cajas teóricas, cajas con el 70 % utilizable y una frase sobre los límites de seguridad que consultarías.\n{F}",

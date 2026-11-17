@@ -147,7 +147,7 @@ build(
     sc=[
         ("En Programación: ¿qué síntoma produce un conflicto de direcciones?", "Pérdidas intermitentes de conexión", "Los equipos se pelean por la misma dirección."),
         ("¿Qué síntoma produce una puerta de enlace incorrecta?", "El equipo no sale al exterior", "Aún se comunica con su red local."),
-        ("¿Qué se anota al corregir?", "El valor anterior, el nuevo y quién autorizó", "Así se puede revisar y volver atrás."),
+        ("¿Qué se anota en el registro al corregir un error de un programa?", "El valor anterior, el nuevo y quién autorizó", "Así se puede revisar y volver atrás."),
     ],
     op=("Red de ejemplo: 192.168.10.0, máscara 255.255.255.0, puerta 192.168.10.1. Tabla: A (192.168.10.60, puerta .1), B (192.168.10.61, puerta .1), C (192.168.10.61, puerta .1), D (192.168.15.62, puerta .1), E (192.168.10.63, puerta .7). Encuentra los errores, indica el síntoma de cada uno y qué corregirías con registro.",
         "B y C tienen la misma dirección (.61): conflicto y pérdidas de conexión. D está en la red 192.168.15 y no ve a los demás. E tiene puerta .7 y no sale a internet. A está bien. Corregiría una dirección de B o C, cambiaría D a la red 192.168.10 y E a la puerta .1, con autorización y anotando el antes y el después.",
