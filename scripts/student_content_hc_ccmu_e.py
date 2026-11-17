@@ -50,7 +50,7 @@ build(
     sc=[
         ("En Composición musical: ¿qué es un gusto personal?", "Una preferencia que no da razones", "El gusto personal expresa lo que se prefiere sin razonar."),
         ('abc', 'Las tres partes de un juicio estético argumentado son:', 'Afirmación de valor, razón y evidencia', 'Título, autor y fecha de la obra que se está valorando', 'Tempo, compás y tonalidad con que está escrita la obra', 'Valor, razón y evidencia forman el argumento.'),
-        ("¿Qué diferencia hay entre describir e interpretar?", "Describir anota rasgos comprobables; interpretar propone el efecto que producen", "La interpretación va un paso más allá de lo que se oye."),
+        ("En Creación y composición musical: ¿Qué diferencia hay entre describir e interpretar?", "Describir anota rasgos comprobables; interpretar propone el efecto que producen", "La interpretación va un paso más allá de lo que se oye."),
     ],
     op=("Con la {F}, escribe un juicio estético argumentado sobre «Ceniza» (positivo o negativo) con una afirmación de valor, una razón y una evidencia de la ficha. Después rotula cada parte.",
         "Afirmación: «Ceniza» tiene valor. Razón: logra la sensación de apagarse que busca. Evidencia: la melodía desciende y se repite tres veces cada vez más suave. Juicio completo: «Ceniza» tiene valor porque, con una melodía que desciende y se repite cada vez más suave, logra la sensación de apagarse que busca.",

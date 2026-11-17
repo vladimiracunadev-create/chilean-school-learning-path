@@ -111,7 +111,7 @@ build(
     ctx=("abc", "Un museo comunitario ficticio quiere explicar por qué hay tantas obras religiosas en su sala y pocas de la vida diaria. ¿Qué concepto le ayuda a explicarlo mejor?", "Mecenazgo, porque quienes encargaban y pagaban obras eran instituciones religiosas", "Reproducción técnica, porque había una prensa", "Secularización, porque ya no había religión", "El tipo de encargo que financiaba las obras explica su temática."),
     sc=[
         ("En Estética: ¿qué es el mecenazgo?", "El apoyo económico de una persona o institución poderosa a quien crea", "Influye en qué obras se hacen."),
-        ("¿Qué es un canon?", "Un conjunto de obras que una sociedad considera ejemplares", "Se arma por decisiones de personas e instituciones."),
+        ("En Estética: ¿Qué es un canon?", "Un conjunto de obras que una sociedad considera ejemplares", "Se arma por decisiones de personas e instituciones."),
         ("¿Qué es la reproducción técnica?", "Hacer varias copias de una obra con un procedimiento", "Cambia quién tiene acceso a las obras."),
     ],
     op=("Elige una de estas situaciones ficticias: (1) un empresario financia un teatro en un pueblo, (2) una escuela de música decide qué piezas deben estudiar los alumnos, (3) una imprenta barata produce afiches de pintura. "
@@ -397,7 +397,7 @@ build(
     ctx=("abc", "En un liceo ficticio, un afiche para una campaña de reciclaje muestra solo imágenes alegres y no deja ver ningún problema. ¿Cómo podría hacerse menos propagandístico y más abierto al debate?", "Incluir datos de ejemplo rotulados y una pregunta para conversar", "Quitar el afiche", "Aumentar las imágenes alegres", "Dar información y preguntas deja espacio a la duda."),
     sc=[
         ("En Arte y política: ¿qué es el arte comprometido?", "Arte que busca intervenir en un problema social o político", "No siempre tiene un mensaje explícito."),
-        ("¿Qué es la censura?", "Prohibir o limitar una obra por su contenido", "Se distingue de la crítica, que solo opina."),
+        ("En Estética: ¿Qué es la censura?", "Prohibir o limitar una obra por su contenido", "Se distingue de la crítica, que solo opina."),
         ("¿Qué distingue a la propaganda?", "Busca persuadir y ganar apoyo más que abrir un debate", "Su finalidad principal es persuadir y ganar apoyo."),
     ],
     op=("Elige dos de estos casos ficticios y clasifícalos con un concepto de la clase, explicando con una razón: (1) un cartel que muestra solo ventajas de un proyecto, (2) una obra que muestra una injusticia y deja preguntas abiertas, (3) un colegio que decide no exhibir un mural por un tema delicado, (4) una melodía instrumental que se valora solo por su forma. "

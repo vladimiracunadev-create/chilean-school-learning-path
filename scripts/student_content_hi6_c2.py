@@ -77,7 +77,7 @@ build(
     ],
     T=[
         ("En Historia: ¿Qué es una fuente confiable?", "Una fuente cuyo autor, fecha y método se pueden revisar", "Se puede comprobar."),
-        ("¿Qué es un sesgo?", "Una inclinación que muestra solo una parte de la realidad", "Distorsiona la información."),
+        ("En Historia: ¿Qué es un sesgo?", "Una inclinación que muestra solo una parte de la realidad", "Distorsiona la información."),
         ("¿Qué es un testimonio?", "El relato de alguien que vio o vivió un hecho", "Es una mirada personal."),
         ("¿Por qué una publicidad de un jugo no es buena fuente para opinar sobre alimentación sana?", "Porque busca vender el producto", "Su propósito la inclina a mostrar solo lo bueno."),
         ("¿Qué ventaja tiene contrastar dos fuentes?", "Se pueden comprobar datos y detectar errores o sesgos", "Comparar permite revisar."),

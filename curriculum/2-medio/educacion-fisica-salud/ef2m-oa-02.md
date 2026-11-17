@@ -1022,7 +1022,7 @@ Respuesta: El resultado fue bueno, pero hay que ajustar la comunicación en la f
 
 *Autoevaluación*
 
-- **E1.** En Educación Física: ¿qué es un indicador?
+- **E1.** En Educación Física: En Educación Física: ¿qué es un indicador?
 - **E2.** ¿Cuántos partidos conviene comparar antes de decidir: uno o varios?
 - **E3.** ¿Sobre qué se hace la evaluación: la estrategia o una persona?
 

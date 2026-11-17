@@ -7,13 +7,13 @@
 **Alcance Git inspeccionado:** historial completo disponible hasta `f0e09d2b`
 **Naturaleza:** auditoría técnica y documental; no es asesoría jurídica.
 
-> **Nota terminológica posterior:** esta auditoría histórica usó “12.997 clases” para el total del catálogo. La terminología vigente distingue 8.841 clases disciplinares y 4.156 experiencias de integración transversal, es decir, 12.997 registros pedagógicos. Las cifras históricas de ejecución que siguen se conservan como evidencia de la fecha de corte.
+> **Nota terminológica posterior:** esta auditoría histórica usó “14.557 clases” para el total del catálogo. La terminología vigente distingue 10.401 clases disciplinares y 4.156 experiencias de integración transversal, es decir, 14.557 registros pedagógicos. Las cifras históricas de ejecución que siguen se conservan como evidencia de la fecha de corte.
 
 ## 1. Estado encontrado
 
 El repositorio ya aplicaba correctamente un modelo por capas: MIT para software original; CC BY-NC-SA 4.0 para contenido educativo original; políticas específicas para datos y activos; conservación de derechos de terceros; y exclusión de marcas. El árbol estaba limpio, `main` coincidía con `origin/main` y no existían ramas locales auxiliares ni otros worktrees.
 
-El riesgo material estaba en las salidas mixtas. Las 2.823 fichas curriculares reproducían código y redacción oficial de OA junto con elaboración pedagógica original, mientras el pie HTML resumía toda la página como “contenido original CC BY-NC-SA 4.0”. La política general excluía documentos oficiales, pero el aviso de la salida podía inducir a una interpretación más amplia.
+El riesgo material estaba en las salidas mixtas. Las 3.153 fichas curriculares reproducían código y redacción oficial de OA junto con elaboración pedagógica original, mientras el pie HTML resumía toda la página como “contenido original CC BY-NC-SA 4.0”. La política general excluía documentos oficiales, pero el aviso de la salida podía inducir a una interpretación más amplia.
 
 ## 2. Archivos y superficies auditadas
 
@@ -54,7 +54,7 @@ Se revisaron `LICENSE`, `LICENSE-CONTENT.md`, `LICENSING.md`, `DATA-LICENSE.md`,
 
 ## 6. Material MINEDUC detectado
 
-El snapshot contiene 2.823 objetivos con código, descripción oficial, eje y URL, organizados en 149 registros de nivel/asignatura, con verificación declarada el 24 de septiembre de 2026. También registra 595 enlaces de lectura asociados. La auditoría clasifica los identificadores y campos factuales separadamente de la redacción oficial. El proyecto no afirma autoría, patrocinio ministerial ni una licencia abierta sobre esa redacción.
+El snapshot contiene 3.153 objetivos con código, descripción oficial, eje y URL, organizados en 149 registros de nivel/asignatura, con verificación declarada el 24 de septiembre de 2026. También registra 595 enlaces de lectura asociados. La auditoría clasifica los identificadores y campos factuales separadamente de la redacción oficial. El proyecto no afirma autoría, patrocinio ministerial ni una licencia abierta sobre esa redacción.
 
 ## 7. Otros terceros
 
@@ -84,7 +84,7 @@ Se detectaron enlaces a Currículum Nacional, Biblioteca del Congreso Nacional, 
 Resultados locales del 25 de septiembre de 2026:
 
 - `generate_development_plan.py`: 153 OA disciplinares de 1° básico generados;
-- `generate_school_program.py`: 12.997 clases, 2.823 OA, 12 niveles, 35 asignaturas y 595 enlaces de lectura;
+- `generate_school_program.py`: 14.557 clases, 3.153 OA, 12 niveles, 35 asignaturas y 595 enlaces de lectura;
 - segunda generación: 5.702 artefactos comparados por SHA-256, sin diferencias;
 - `validate_school_program.py`: aprobado;
 - `validate_licensing.py`: aprobado;

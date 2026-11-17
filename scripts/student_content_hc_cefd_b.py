@@ -250,7 +250,7 @@ build(
     sc=[
         ("En Ciencias del ejercicio: ¿qué se hace si la meta se cumple solo en parte?", "Se evalúa el avance y se ajusta una condición", "El avance parcial también es información."),
         ("¿Quién decide si un registro personal se comparte?", "La persona dueña del registro", "Los registros son propios y se mantienen privados."),
-        ("¿Qué se hace si alguien siente dolor o mareo?", "Se detiene su participación y se avisa a una persona adulta o a un profesional de la salud", "La seguridad de todas las personas va primero siempre."),
+        ("En Ciencias del ejercicio físico y deportivo: ¿Qué se hace si alguien siente dolor o mareo?", "Se detiene su participación y se avisa a una persona adulta o a un profesional de la salud", "La seguridad de todas las personas va primero siempre."),
     ],
     op=("Imagina que organizas entrenamientos con dos personas ficticias que parten de líneas de base distintas (una trota 6 minutos continuos y otra 12) y tienen 3 días por semana. Define roles, dos reglas de respeto y privacidad, dos variantes (suave y exigente) y qué ajustarías si una persona avanza el 50 % de su meta. Incluye una señal de detención.",
         "Roles que rotan: guía, observadora y registradora. Reglas: no comentar cuerpos y registros privados. Variantes: trote de 6 minutos con pausas caminando y trote de 12 con ritmo estable. Si alguien avanza 50 %, mantengo su carga una semana más y vuelvo a medir. Señal: dolor o mareo, paro y aviso.",
@@ -301,7 +301,7 @@ build(
     ctx=('abc', 'En otro colegio de ejemplo, el grupo C (practicó 8 semanas) bajó su tiempo promedio de 420 a 405 segundos, y el grupo D (no practicó) de 420 a 419 segundos. ¿Qué es lo más razonable decir?', 'La práctica se asocia a una mejora mayor, aunque faltan datos para generalizar', 'La práctica no sirve, porque el grupo D también bajó su tiempo promedio', 'El grupo D es mejor porque cambió menos que el grupo que practicó', 'El grupo que practicó mejoró 15 segundos y el otro 1, con el mismo inicio.'),
     sc=[
         ("En Ciencias del ejercicio: ¿para qué sirve un grupo de comparación?", "Para ver qué ocurre sin el cambio estudiado", "Así se interpreta mejor el efecto."),
-        ("¿Cómo se calcula un promedio?", "Sumando los valores y dividiendo por la cantidad", "El promedio resume al grupo con un número."),
+        ("En Ciencias del ejercicio físico y deportivo: ¿Cómo se calcula un promedio?", "Sumando los valores y dividiendo por la cantidad", "El promedio resume al grupo con un número."),
         ("¿Qué haces si sientes dolor o mareo al practicar?", "Detenerte y avisar a una persona adulta o a un profesional de la salud", "La seguridad va antes que cualquier análisis."),
     ],
     op=("Con estos datos de ejemplo: el grupo X (8 estudiantes ficticios) practicó 3 veces por semana y bajó su tiempo promedio de 410 a 395 segundos en 8 semanas; el grupo Y (8 estudiantes ficticios) no cambió su rutina y bajó de 410 a 409. Calcula las bajas, compara con cuidado y escribe una conclusión y una limitación. Incluye una medida de seguridad al practicar.",
@@ -454,7 +454,7 @@ build(
     ctx=('abc', 'Un aviso de ejemplo dice: «El 90 % de quienes lo usan rinde más». Solo informa el aviso de la empresa; no indica cuántas personas fueron ni si hubo comparación. ¿Qué conviene hacer?', 'Pedir datos de muestra, comparación e independencia y consultar a un profesional', 'Creerlo, porque 90 % es un número muy alto y viene de la empresa', 'Comprarlo y compartirlo con el equipo para que todos lo prueben', 'Sin esos datos no se puede evaluar la afirmación.'),
     sc=[
         ("En Ciencias del ejercicio: ¿qué tres preguntas ayudan a analizar una afirmación?", "Quién la dice, a cuántas personas se estudió y si hubo comparación", "Con ellas se evalúa el respaldo."),
-        ("¿Qué es una señal de alerta?", "Un rasgo que invita a desconfiar, como una promesa absoluta", "Puede indicar publicidad que no tiene evidencia."),
+        ("En Ciencias del ejercicio físico y deportivo: ¿Qué es una señal de alerta?", "Un rasgo que invita a desconfiar, como una promesa absoluta", "Puede indicar publicidad que no tiene evidencia."),
         ("¿Quién decide si una persona menor de edad usa un producto?", "No decide sola: consulta a una persona adulta y a un profesional", "Es una decisión de salud que requiere consulta."),
     ],
     op=("Analiza esta afirmación de ejemplo: «Con la barra Q, 9 de 10 corredores bajaron su tiempo. Estudio realizado por la empresa que la vende, con 10 personas, sin grupo de comparación». Responde: porcentaje, quién informa, cuántas personas, si hubo comparación, qué señal de alerta ves y qué harías antes de decidir.",

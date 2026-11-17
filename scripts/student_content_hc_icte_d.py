@@ -373,7 +373,7 @@ build(
     ctx=('abc', 'Un curso investiga «teatro y comunidad». Un grupo cita un sitio de una organización con fecha y autoría; otro cita un post sin fuente. ¿Cuál es mejor base para decidir qué incluir en su informe?', 'El sitio con autoría y fecha, y contrastarlo con otra fuente', 'El post, porque es más reciente', 'Ninguno, porque nada se puede investigar en línea', 'Las fuentes con autoría y fecha son mejores y se contrastan.'),
     sc=[
         ("En Teatro: ¿qué son los honorarios?", "El pago por un servicio o proyecto, sin contrato laboral permanente", "Es una forma común de pago en trabajos por proyecto."),
-        ("¿Qué se hace con una cifra sin fuente?", "Se trata como hipótesis y se busca una fuente confiable", "No se afirman cifras sin respaldo."),
+        ("En Interpretación y creación en teatro: ¿Qué se hace con una cifra sin fuente?", "Se trata como hipótesis y se busca una fuente confiable", "No se afirman cifras sin respaldo."),
         ("¿Qué se pide antes de entrevistar a una persona?", "Su consentimiento", "Se respeta su voluntad y privacidad."),
     ],
     op=("Elige un oficio relacionado con el teatro (por ejemplo, regiduría, mediación cultural, dramaturgia o producción). Escribe una ficha de investigación con qué hace, en qué campo está, qué formación suele pedir (según una fuente que describas como de ejemplo), dos fuentes con su confiabilidad y una pregunta que quedaría pendiente. No inventes cifras de ingresos.",

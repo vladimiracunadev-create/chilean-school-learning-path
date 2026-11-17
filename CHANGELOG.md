@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-16 · Fase A: 27 electivos de 3° y 4° medio (Formación Diferenciada Humanístico-Científica)
+
+- Se incorporan al catálogo los 27 electivos humanístico-científicos de 3° y 4° medio del Currículum Nacional (consultados el 16-nov-2026; 4° medio ofrece los mismos 27 con los mismos OA «3y4»): 165 OA, que cuentan en los dos niveles, y 1.560 clases (780 por nivel). Cursos nuevos `3-medio-hc` y `4-medio-hc`, con cobertura `formacion-diferenciada-hc`. Catálogo: 14.557 registros (10.401 clases y 4.156 integradas) y 3.153 OA.
+- Las 1.560 clases tienen cuaderno del estudiante (explicación, ejemplos resueltos, 13 ejercicios cerrados en tramos 3/3/3/2/2, actividad abierta con rúbrica); como los OA son compartidos, hay 780 cuadernos únicos que sirven a ambos niveles. Se trabajó un electivo a la vez (máximo dos): un autor y luego un lector independiente (ambos asistidos por IA, no revisión profesional) que resolvió los ejercicios y corrigió en el mismo archivo; 28 enunciados idénticos entre asignaturas se desambiguaron.
+- Área por área: Matemática (4 electivos, 184 clases), Lengua y literatura (3, 168), Ciencias (5, 286), Historia (3, 186), Filosofía (3, 164), Artes (6, 428) y Educación física y salud (3, 144). Índice en [docs/electivos-hc/README.md](docs/electivos-hc/README.md) y seguimiento en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
+- Las herramientas de verificación reconocen los códigos de los electivos (por ejemplo MA-GE3D-3y4-OAC-01) y cuentan los OA compartidos en los dos niveles; las cifras fijas de validadores y pruebas se actualizaron.
+- Siguen abiertos: sin audio, video, imágenes, laboratorio ni software reales (todo se describe por escrito); obras, textos y fuentes reales con derechos, a cargo del docente; los títulos de las clases son una derivación mecánica del OA y no unidades oficiales; ningún cuaderno tiene revisión profesional humana ni se contrastó con la web oficial más allá del texto de los OA; la lectura independiente de Geografía, territorio y desafíos socioambientales no fue del todo a ciegas (el lector vio las claves). Los contenidos para especialistas están en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md).
+
 ## 2026-11-16 · Diccionarios de español e inglés de 1° básico a 4° medio
 
 - Nueva carpeta `docs/diccionarios/` con un diccionario de español y uno de inglés por cada uno de los 12 niveles, enlazada desde el README principal y con un índice que muestra el vocabulario nuevo y acumulado por nivel.

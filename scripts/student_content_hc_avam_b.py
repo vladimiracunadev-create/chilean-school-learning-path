@@ -257,7 +257,7 @@ build(
     ctx=('abc', 'En una muestra, 12 de 16 personas marcan «sí» a «¿se entendió el propósito?». Quienes comentaron dicen que no vieron el proceso. ¿Qué mejora es coherente?', 'Agregar un panel de proceso visible y revisar de nuevo con el mismo cuestionario', 'Eliminar la pregunta del cuestionario', 'Borrar los comentarios que no gustan', '12 de 16 es 75 %, y el comentario señala que falta mostrar el proceso.'),
     sc=[
         ("En Artes: ¿qué es un presupuesto?", "El máximo de dinero disponible para un proyecto", "Los gastos se comparan con ese máximo."),
-        ("¿Qué porcentaje es 10 de 20?", "50 %", "10 de 20 equivale a 50 de cada 100."),
+        ("En Artes visuales, audiovisuales y multimediales: ¿Qué porcentaje es 10 de 20?", "50 %", "10 de 20 equivale a 50 de cada 100."),
         ("¿Qué se pide antes de fotografiar a un visitante?", "Su permiso", "Es parte del respeto a su imagen."),
     ],
     op=("Planifica una muestra pequeña de tu curso: escribe 3 roles con responsable, tres gastos con su suma y una pregunta de sí o no para el público. Después inventa 10 respuestas de ejemplo y calcula el porcentaje.",
@@ -310,7 +310,7 @@ build(
     sc=[
         ("En Artes: ¿qué es una interpretación?", "Una propuesta de significado apoyada en detalles", "Debe poder comprobarse en la obra."),
         ("¿Qué orden sigue un análisis?", "Describir, interpretar y juzgar", "El análisis parte de lo observable y recién después interpreta."),
-        ("¿Qué es el contraste?", "Una diferencia marcada entre dos elementos", "Ayuda a destacar partes de la obra."),
+        ("En Artes visuales, audiovisuales y multimediales: ¿Qué es el contraste?", "Una diferencia marcada entre dos elementos", "Ayuda a destacar partes de la obra."),
     ],
     op=("Elige una obra inventada tuya o una escena de tu entorno y escribe tres párrafos breves: descripción (3 frases), interpretación (2 frases con un detalle) y juicio (2 frases con una razón).",
         "Obra: un cuaderno abierto sobre una mesa vacía. Descripción: hay un cuaderno de tapa roja, abierto, con una página en blanco, sobre una mesa clara. Interpretación: la página en blanco podría sugerir un comienzo, porque no tiene marcas. Juicio: la obra comunica calma por su simplicidad.",

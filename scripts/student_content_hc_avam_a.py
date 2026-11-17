@@ -152,7 +152,7 @@ build(
     sc=[
         ("En Artes visuales: ¿qué es una matriz de decisión?", "Una tabla que compara ideas según criterios con pesos", "La matriz ordena la comparación, pero no decide sola."),
         ("¿Cómo se calcula el puntaje total de una idea?", "Multiplicando cada puntaje por su peso y sumando", "Así los criterios importantes pesan más."),
-        ("¿Qué incluye una buena justificación?", "Criterio, evidencia y efecto", "Eso conecta la decisión con el propósito."),
+        ("En Artes visuales, audiovisuales y multimediales: ¿Qué incluye una buena justificación?", "Criterio, evidencia y efecto", "Eso conecta la decisión con el propósito."),
     ],
     op=("Elige un desafío breve y escribe tres criterios con pesos (1 a 3). Propón dos ideas y puntúalas de 1 a 3. Calcula el puntaje total y escribe una justificación de una frase que use criterio, evidencia y efecto.",
         "Desafío: ilustración para una invitación. Criterios: se entiende rápido (peso 3), cabe en A5 (peso 2), usa dos colores (peso 1). Idea 1: 3, 3, 2 = 9+6+2 = 17. Idea 2: 2, 3, 3 = 6+6+3 = 15. Elijo la idea 1 porque se entiende rápido (3) y mantiene el formato.",

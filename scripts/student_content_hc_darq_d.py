@@ -206,7 +206,7 @@ build(
     ctx=('abc', 'Una estudiante escribe: «Meta: probar si me interesa el paisajismo. Cada semana, 2 horas de dibujo y 3 de portafolio (5 horas); cada mes, una entrevista de 1 hora. Indicador: un proyecto terminado cada dos meses. Revisión: en el mes 3». ¿Qué hace bien?', 'Define meta, tiempos, indicador y revisión realistas', 'No dice cuándo revisará', 'Planea 40 horas semanales sin descanso', 'El plan es medible, realista y revisable.'),
     sc=[
         ("En Diseño y arquitectura: ¿qué es un portafolio?", "Una selección de trabajos con evidencia de proceso y evaluación", "Muestra cómo se piensa y se mejora."),
-        ("¿Qué es un indicador?", "Un dato medible que muestra si se avanza hacia la meta", "Permite revisar el plan a mitad de camino."),
+        ("En Diseño y arquitectura: ¿Qué es un indicador?", "Un dato medible que muestra si se avanza hacia la meta", "Permite revisar el plan a mitad de camino."),
         ("¿Dónde se consultan los requisitos de formación vigentes?", "En fuentes oficiales y con una persona orientadora", "Los requisitos y costos cambian con el tiempo."),
     ],
     op=("Escribe tu propio plan de desarrollo personal de un mes (o inventa uno de ejemplo) para explorar un campo de diseño o arquitectura. Incluye una meta, tres acciones con horas por semana (que sumen no más de 6 horas), una entrevista con permiso, una fuente para consultar rutas de formación, un indicador y la fecha de revisión. Calcula las horas del mes con 4 semanas.",

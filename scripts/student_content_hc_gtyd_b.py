@@ -111,7 +111,7 @@ build(
     ],
     ctx=("abc", "Un concejo comunal ficticio debe elegir dónde ubicar un nuevo parque. El promedio comunal de áreas verdes es de 4 metros cuadrados por habitante, pero un sector tiene 1 y otro 7. ¿Qué criterio conviene aplicar?", "Priorizar el sector con menos áreas verdes por habitante", "Ubicarlo donde ya hay más áreas verdes", "No construirlo, porque el promedio es suficiente", "El promedio esconde desigualdades; priorizar donde hay menos es un criterio de justicia."),
     sc=[
-        ("En Geografía: ¿qué es la conectividad?", "El grado en que los lugares están enlazados por vías y transporte", "Depende de rutas, frecuencia y alternativas."),
+        ("En Geografía, territorio y desafíos socioambientales: En Geografía: ¿qué es la conectividad?", "El grado en que los lugares están enlazados por vías y transporte", "Depende de rutas, frecuencia y alternativas."),
         ("¿Qué significa desagregar un indicador?", "Separarlo por sectores o grupos", "Así se ven las diferencias que un promedio esconde."),
         ("¿Cómo se calculan las áreas verdes por habitante?", "Dividiendo la superficie de áreas verdes entre el número de habitantes", "Es una razón entre metros cuadrados y personas."),
     ],
@@ -334,7 +334,7 @@ build(
     ctx=("abc", "Un grupo de estudiantes ficticios presenta ante un concejo comunal un informe sobre el uso de una plaza. ¿Qué cierre es más adecuado?", "Una conclusión con lugar, criterios, datos, perspectivas, límites y recomendación", "Una frase que dice que todo está bien", "Una opinión personal sin datos", "El concejo necesita una conclusión situada y respaldada."),
     sc=[
         ("En Geografía: ¿qué es una conclusión situada?", "Una afirmación fundamentada que indica lugar, escala, actores, criterios, datos y límites", "No generaliza más allá del caso estudiado."),
-        ("¿Qué significa generalizar?", "Extender sin evidencia lo observado en un caso a todos los casos", "Es un error frecuente en las conclusiones."),
+        ("En Geografía, territorio y desafíos socioambientales: ¿Qué significa generalizar?", "Extender sin evidencia lo observado en un caso a todos los casos", "Es un error frecuente en las conclusiones."),
         ("¿Para qué sirve declarar los límites?", "Para decir qué no se pudo medir ni comprobar", "Así otros pueden revisar y completar la evidencia."),
     ],
     op=("Elige uno de estos casos ficticios: (1) en la comuna de Puerto Claro, 2.000 habitantes, la costanera quedó dañada tras un temporal y se propone reconstruirla igual o mover las casas; (2) en la comuna de Valle Sur, 3.000 habitantes, se propone ampliar el vertedero o cerrar y llevar los residuos a otra comuna. "
@@ -444,7 +444,7 @@ build(
     sc=[
         ("En Geografía: ¿qué muestra un mapa de amenaza?", "Dónde puede ocurrir un fenómeno dañino", "No muestra por sí solo cuántas personas viven allí."),
         ("¿Qué mide un indicador de exposición?", "Cuántas personas o viviendas están en zona de amenaza", "Se compara con el total para obtener un porcentaje."),
-        ("¿Qué es una vía de evacuación?", "Una ruta para salir de una zona de amenaza hacia un lugar seguro", "Permite el desplazamiento hacia zonas altas o seguras."),
+        ("En Geografía, territorio y desafíos socioambientales: ¿Qué es una vía de evacuación?", "Una ruta para salir de una zona de amenaza hacia un lugar seguro", "Permite el desplazamiento hacia zonas altas o seguras."),
     ],
     op=("Elige un caso ficticio. Caso 1: una población de 300 viviendas, con 90 en zona inundable, 1 vía de salida y una alarma que no funciona; fuentes: catastro municipal y un relato vecinal que dice «el agua llegó rápido». Caso 2: una villa de 500 viviendas, con 100 en zona de incendio forestal, 2 vías de salida y simulacros anuales; fuentes: registro comunal y un folleto de una empresa forestal que dice «bosques seguros». "
         "Calcula el porcentaje de viviendas expuestas, indica un dato de vulnerabilidad y uno de capacidad, interroga una fuente (quién, para qué, qué deja fuera) y escribe una pregunta que haría falta responder para completar el diagnóstico.",
@@ -554,7 +554,7 @@ build(
     ctx=("abc", "Una escuela ficticia está en una zona de tsunami y debe definir su plan. ¿Qué paso es más adecuado?", "Elegir una ruta hacia una zona alta, señalizarla y practicarla con simulacros, siguiendo las indicaciones oficiales", "Esperar a que ocurra el tsunami", "Elegir una ruta que pase por la playa porque es más corta", "El plan combina una ruta hacia lo alto, señalética y práctica."),
     sc=[
         ("En Geografía: ¿qué es la prevención en gestión del riesgo?", "Evitar crear nuevo riesgo", "Por ejemplo, no autorizar viviendas en zonas de amenaza."),
-        ("¿Qué es la recuperación?", "La reconstrucción en condiciones más seguras", "No es volver a lo mismo, sino reducir el riesgo."),
+        ("En Geografía, territorio y desafíos socioambientales: ¿Qué es la recuperación?", "La reconstrucción en condiciones más seguras", "No es volver a lo mismo, sino reducir el riesgo."),
         ("¿Se reparten por igual las consecuencias de un desastre?", "No", "Afectan más a quienes tienen menos recursos."),
     ],
     op=("Dibuja un croquis con cuadrícula (6 columnas por 4 filas, cuadro de 100 metros) de un barrio ficticio con una quebrada, un puente, viviendas y un punto de reunión seguro. Marca dos rutas desde una vivienda, calcula sus largos en metros y escribe cuál recomiendas y por qué, qué acción de prevención y qué acción de preparación agregarías.",
@@ -609,7 +609,7 @@ build(
     ctx=("abc", "Una junta de vecinos ficticia recibe un mapa de riesgo sin título, sin escala y sin fuente. ¿Qué conviene hacer antes de usarlo?", "Pedir los datos que faltan y comprobar quién lo hizo y para qué", "Usarlo como si fuera exacto", "Descartarlo sin mirarlo", "Un mapa sin escala ni fuente no permite medir ni evaluar su confiabilidad."),
     sc=[
         ("En Geografía: ¿qué es la escala cartográfica?", "La relación entre una medida en el mapa y la medida real", "Permite convertir distancias del mapa en distancias del terreno."),
-        ("¿Para qué sirve la leyenda?", "Para explicar los símbolos y colores del mapa", "Sin ella no se pueden interpretar los símbolos."),
+        ("En Geografía, territorio y desafíos socioambientales: ¿Para qué sirve la leyenda?", "Para explicar los símbolos y colores del mapa", "Sin ella no se pueden interpretar los símbolos."),
         ("¿Qué distancia real representan 2 centímetros en un mapa a 1:50.000?", "1.000 metros", "Cada centímetro representa 500 metros, así que 2 centímetros son 1.000."),
     ],
     op=("Dibuja un mapa sencillo de tu colegio y sus alrededores (o de un lugar ficticio) con título, leyenda de al menos cuatro símbolos, indicación del norte, una escala gráfica (por ejemplo, 1 centímetro = 20 metros) y fuente. "
@@ -719,7 +719,7 @@ build(
     ctx=("abc", "Un colegio ficticio quiere conocer cómo llegan sus estudiantes al colegio. Una alumna propone encuestar solo a su curso. ¿Qué conviene hacer?", "Encuestar a estudiantes de distintos cursos y declarar cuántos respondieron", "Usar solo su curso y afirmar que vale para todo el colegio", "No hacer encuesta", "Una muestra diversa se parece más al universo; declarar su tamaño ayuda a leer los resultados."),
     sc=[
         ("En Geografía: ¿qué es el universo en una encuesta?", "El grupo completo que se quiere conocer", "La muestra es solo una parte de él."),
-        ("¿Qué es un sesgo?", "Una distorsión en los resultados por cómo se eligió la muestra o se hizo la pregunta", "Un sesgo puede llevar a conclusiones erradas sobre el universo."),
+        ("En Geografía, territorio y desafíos socioambientales: ¿Qué es un sesgo?", "Una distorsión en los resultados por cómo se eligió la muestra o se hizo la pregunta", "Un sesgo puede llevar a conclusiones erradas sobre el universo."),
         ("¿Cómo se calcula un porcentaje de respuestas?", "Dividiendo las respuestas de una alternativa entre el total y multiplicando por 100", "Así se comparan alternativas con distintos totales."),
     ],
     op=("Diseña una mini encuesta ficticia de tres preguntas sobre el uso de un espacio de tu barrio o colegio (una cerrada con tres alternativas, una cerrada con dos alternativas y una abierta). Inventa los resultados de 40 respuestas para las cerradas (que sumen 40), calcula dos porcentajes, indica tu universo y tu muestra, un posible sesgo y una regla ética que aplicarías.",

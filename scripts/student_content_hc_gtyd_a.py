@@ -107,7 +107,7 @@ build(
     ],
     ctx=("abc", "Un diario escolar ficticio quiere publicar «El barrio mejoró mucho». Tiene dos datos: las áreas verdes subieron de 2 a 4 y los robos denunciados subieron de 10 a 14. ¿Qué conviene hacer?", "Informar ambos indicadores y explicar qué mide cada uno", "Publicar solo el de áreas verdes, porque es positivo", "Publicar solo el de robos, porque es más importante", "Cada indicador muestra un aspecto distinto; ocultar uno entregaría una imagen incompleta."),
     sc=[
-        ("En Geografía: ¿qué es un indicador?", "Un dato que mide un aspecto de un proceso", "Mide, por ejemplo, población, superficie o servicios."),
+        ("En Geografía, territorio y desafíos socioambientales: En Geografía: ¿qué es un indicador?", "Un dato que mide un aspecto de un proceso", "Mide, por ejemplo, población, superficie o servicios."),
         ("¿Qué dos preguntas básicas se hacen a una fuente sobre su producción?", "Quién la produjo y para qué", "Saber quién la hizo y con qué propósito permite entender su perspectiva."),
         ("Para calcular un porcentaje de aumento, ¿qué se divide por el valor inicial?", "El aumento", "El aumento dividido por el valor inicial y multiplicado por 100 da el porcentaje."),
     ],

@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 12.997 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 12.997 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 14.557 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 14.557 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 8.841 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 10.401 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 12.997 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 14.557 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -234,13 +234,28 @@ Las dieciocho denominaciones cuentan con [índice de nivel](docs/3-medio/README.
 
 Las diecisiete denominaciones cuentan con [índice de nivel](docs/4-medio/README.md), guías propias, fichas oficiales por OA y criterios pedagógicos internos rotulados. El desarrollo interno de toda la trayectoria está completo y la revisión humana sigue pendiente.
 
+## 3° y 4° medio · Electivos HC (Formación Diferenciada Humanístico-Científica)
+
+| Área | Electivos | OA | Clases por nivel | Clases en ambos niveles | Pendientes |
+|---|---:|---:|---:|---:|---:|
+| Matemática | 4 | 20 | 92 | 184 | 0 |
+| Lengua y literatura | 3 | 18 | 84 | 168 | 0 |
+| Ciencias | 5 | 30 | 143 | 286 | 0 |
+| Historia, geografía y ciencias sociales | 3 | 19 | 93 | 186 | 0 |
+| Filosofía | 3 | 18 | 82 | 164 | 0 |
+| Artes | 6 | 44 | 214 | 428 | 0 |
+| Educación física y salud | 3 | 16 | 72 | 144 | 0 |
+| **Estado de los electivos** | **27** | **165** | **780** | **1.560** | **0** |
+
+Los 165 OA son los mismos en 3° y 4° medio y cuentan en los dos niveles. Cada electivo tiene su ficha oficial por OA, cuaderno del estudiante y [índice](docs/electivos-hc/README.md). El desarrollo interno está completo y la revisión humana sigue pendiente.
+
 ## Cobertura publicada
 
-- 12 niveles, desde 1° básico hasta 4° medio.
-- 35 asignaturas o denominaciones curriculares.
-- 2.823 Objetivos de Aprendizaje.
+- 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC de 3° y 4° medio.
+- 62 asignaturas o denominaciones curriculares (35 de formación general y 27 electivos HC).
+- 3.153 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 2.823 páginas HTML de OA con anclas estables para 12.997 registros pedagógicos: 8.841 clases y 4.156 experiencias integradas.
+- 3.153 páginas HTML de OA con anclas estables para 14.557 registros pedagógicos: 10.401 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

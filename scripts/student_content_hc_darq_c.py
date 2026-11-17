@@ -420,7 +420,7 @@ build(
     ctx=('abc', 'Una estudiante resume: «Equipo 14 y par 11 de 16. Diferencia mayor en R3 (4 y 2): se trabó 2 de 10 veces. Acuerdo: R3 = 3 y repetir la prueba con 20 plegados». ¿Qué hace bien?', 'Contrasta puntajes con evidencia, acuerda un puntaje y propone una prueba nueva', 'Elige el puntaje más alto sin discutir', 'Ignora los datos de la prueba', 'Usa la diferencia y los datos para acordar y planear.'),
     sc=[
         ("En Diseño y arquitectura: ¿qué es un descriptor de una rúbrica?", "El texto que explica qué se observa en cada nivel", "Permite puntuar con el mismo criterio."),
-        ("¿Qué diferencia hay entre autoevaluación y coevaluación?", "La primera la hace el equipo y la segunda un par", "Ambas aportan miradas distintas y se complementan."),
+        ("En Diseño y arquitectura: ¿Qué diferencia hay entre autoevaluación y coevaluación?", "La primera la hace el equipo y la segunda un par", "Ambas aportan miradas distintas y se complementan."),
         ("¿Qué límite tiene un dato de pocas pruebas?", "Da un indicio, pero no una certeza general", "Hay que declarar el tamaño de la muestra."),
     ],
     op=("Proyecto de ejemplo (inventado): «Estante Flexible». Autoevaluación del equipo con la rúbrica de la ficha: R1 3, R2 4, R3 3, R4 4. Un par evalúa: R1 3, R2 3, R3 1, R4 3. Prueba de uso: 12 intentos de armado, 9 sin ayuda y 3 con ayuda. Calcula los totales, el criterio con mayor diferencia, el porcentaje de armados sin ayuda y escribe un acuerdo con una acción de mejora.",

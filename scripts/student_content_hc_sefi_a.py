@@ -109,7 +109,7 @@ build(
     sc=[
         ("En Seminario de filosofía: ¿qué tres rasgos tiene la definición clásica de conocimiento?", "Creencia, verdad y justificación", "Son los tres rasgos de D3 en la ficha."),
         ("¿Qué muestra un caso de certeza con error?", "Que la certeza no basta para saber", "La persona está segura, pero lo creído es falso."),
-        ("¿Cuándo una definición es demasiado estrecha?", "Cuando deja fuera casos que sí deberían entrar", "Excluye algo que cuenta como el concepto."),
+        ("En Seminario de filosofía: ¿Cuándo una definición es demasiado estrecha?", "Cuando deja fuera casos que sí deberían entrar", "Excluye algo que cuenta como el concepto."),
     ],
     op=("Elige uno de estos conceptos: «mentir», «promesa» o «aprender». Escribe una definición de dos o tres rasgos, un caso que la cumpla, un caso que ponga a prueba si es amplia o estrecha y, si hace falta, una versión corregida. "
         "Indica qué rasgos serían condiciones necesarias.",

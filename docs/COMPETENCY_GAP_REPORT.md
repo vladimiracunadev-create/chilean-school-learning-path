@@ -10,7 +10,7 @@
 
 La auditoría cubrió `README.md`, `CURRICULUM.md`, `METHODOLOGY.md`, `TEACHING_GUIDE.md`, `EDITORIAL_STATUS.md`, `OFFICIAL_REFERENCES.md`, `QUALITY_STANDARD.md`, `VALIDATION_REPORT.md`, `ROADMAP.md`, `docs/`, `curriculum/`, `content/`, `sources/`, `reviews/`, `scripts/`, `tests/`, el portal `site/`, las salidas PDF y `.github/workflows/pages.yml`.
 
-La fuente curricular canónica es `sources/mineduc-curriculum-snapshot.json`; `scripts/generate_school_program.py` produce catálogo, Markdown, HTML, malla y sitemap; `scripts/validate_school_program.py`, `scripts/validate_licensing.py` y 56 pruebas estructurales controlan la salida. La línea base contiene 2.823 OA, 12.997 registros pedagógicos, 12 niveles, 35 denominaciones de asignatura y 149 guías. La publicación no equivale a revisión humana: `reviews/` conserva esquemas de revisión y pilotaje, pero todavía no contiene registros aprobados.
+La fuente curricular canónica es `sources/mineduc-curriculum-snapshot.json`; `scripts/generate_school_program.py` produce catálogo, Markdown, HTML, malla y sitemap; `scripts/validate_school_program.py`, `scripts/validate_licensing.py` y 56 pruebas estructurales controlan la salida. La línea base contiene 3.153 OA, 14.557 registros pedagógicos, 12 niveles, 35 denominaciones de asignatura y 149 guías. La publicación no equivale a revisión humana: `reviews/` conserva esquemas de revisión y pilotaje, pero todavía no contiene registros aprobados.
 
 ## Matriz de brechas obligatoria
 

@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 8605 de 8.841 clases desarrolladas tienen cuaderno del estudiante (97,3 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 10165 de 10.401 clases desarrolladas tienen cuaderno del estudiante (97,7 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -24,11 +24,101 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | 744 | 744 | 0 | completo | 456 | 12.678 | 1.488 | pendiente |
 | 3.º medio | 495 | 495 | 0 | completo | 0 | 8.415 | 990 | pendiente |
 | 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
+| 3.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
+| 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 
 ## Objetivos con cuaderno
 
 | Nivel | Asignatura | OA | Clases con cuaderno | Clases del OA | Ejercicios y preguntas | Ejemplos resueltos |
 |---|---|---|---:|---:|---:|---:|
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | artes-visuales-audiovisuales-multimediales | AR-AVAM-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | creacion-composicion-musical | AR-CCMU-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | diseno-arquitectura | AR-DARQ-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-08 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | interpretacion-creacion-danza | AR-ICDA-3y4-OAC-08 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-08 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | interpretacion-creacion-teatro | AR-ICTE-3y4-OAC-08 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | interpretacion-musical | AR-IMUS-3y4-OAC-07 | 4 | 4 | 68 | 8 |
 | 1.º básico | artes-visuales | AR01 OA 01 | 6 | 6 | 102 | 12 |
 | 1.º básico | artes-visuales | AR01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | artes-visuales | AR01 OA 03 | 5 | 5 | 85 | 10 |
@@ -83,6 +173,66 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | artes-visuales | AR2M OA 04 | 5 | 5 | 85 | 10 |
 | 2.º medio | artes-visuales | AR2M OA 05 | 5 | 5 | 85 | 10 |
 | 2.º medio | artes-visuales | AR2M OA 06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-celular-molecular | CN-BCMO-3y4-OAC-07 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | biologia-ecosistemas | CN-BECO-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-salud | CN-CSAL-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | fisica | CN-FISI-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | fisica | CN-FISI-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | fisica | CN-FISI-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | fisica | CN-FISI-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | fisica | CN-FISI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | fisica | CN-FISI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | fisica | CN-FISI-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | fisica | CN-FISI-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | fisica | CN-FISI-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | fisica | CN-FISI-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | fisica | CN-FISI-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | fisica | CN-FISI-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | quimica | CN-QUIM-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | quimica | CN-QUIM-3y4-OAC-07 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | ciencias-naturales | CN01 OA 03 | 4 | 4 | 68 | 8 |
@@ -239,6 +389,38 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | ciencias-naturales | CN2M OA 16 | 5 | 5 | 85 | 10 |
 | 2.º medio | ciencias-naturales | CN2M OA 17 | 5 | 5 | 85 | 10 |
 | 2.º medio | ciencias-naturales | CN2M OA 18 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | ciencias-ejercicio-fisico-deportivo | EF-CEFD-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | expresion-corporal | EF-EXCO-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | promocion-estilos-vida-activos-saludables | EF-PVAS-3y4-OAC-06 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 01 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | educacion-fisica-salud | EF01 OA 03 | 4 | 4 | 68 | 8 |
@@ -652,6 +834,80 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio | teatro | FG-TEAT-3y4-OAC-05 | 5 | 5 | 85 | 10 |
 | 3.º medio | teatro | FG-TEAT-3y4-OAC-06 | 5 | 5 | 85 | 10 |
 | 4.º medio | teatro | FG-TEAT-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | estetica | FI-ESTE-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | estetica | FI-ESTE-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | filosofia-politica | FI-FIPO-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | seminario-filosofia | FI-SEFI-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-01 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | comprension-historica-presente | HI-CHDP-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-08 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | economia-sociedad | HI-ECSO-3y4-OAC-08 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-04 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-06 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | geografia-territorio-desafios-socioambientales | HI-GTYD-3y4-OAC-06 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 02 | 5 | 5 | 85 | 10 |
 | 1.º básico | historia-geografia-ciencias-sociales | HI01 OA 03 | 4 | 4 | 68 | 8 |
@@ -1370,6 +1626,82 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 2.º medio | lengua-literatura | LE2M OA 22 | 6 | 6 | 102 | 12 |
 | 2.º medio | lengua-literatura | LE2M OA 23 | 6 | 6 | 102 | 12 |
 | 2.º medio | lengua-literatura | LE2M OA 24 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | lectura-escritura-especializadas | LL-LEES-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-01 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-03 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | participacion-argumentacion-democracia | LL-PADM-3y4-OAC-07 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | taller-literatura | LL-TALI-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | taller-literatura | LL-TALI-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | taller-literatura | LL-TALI-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | taller-literatura | LL-TALI-3y4-OAC-02 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | taller-literatura | LL-TALI-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | taller-literatura | LL-TALI-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | taller-literatura | LL-TALI-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | taller-literatura | LL-TALI-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | taller-literatura | LL-TALI-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | taller-literatura | LL-TALI-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | taller-literatura | LL-TALI-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | taller-literatura | LL-TALI-3y4-OAC-06 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | geometria-3d | MA-GE3D-3y4-OAC-05 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-02 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-03 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-04 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 4.º medio HC | limites-derivadas-integrales | MA-LIDI-3y4-OAC-05 | 6 | 6 | 102 | 12 |
+| 3.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-05 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | pensamiento-computacional-programacion | MA-PCPR-3y4-OAC-06 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-01 | 5 | 5 | 85 | 10 |
+| 3.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-02 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 4.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-03 | 4 | 4 | 68 | 8 |
+| 3.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-04 | 5 | 5 | 85 | 10 |
+| 4.º medio HC | probabilidades-estadistica-descriptiva-inferencial | MA-PEDI-3y4-OAC-04 | 5 | 5 | 85 | 10 |
 | 1.º básico | matematica | MA01 OA 01 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 02 | 4 | 4 | 68 | 8 |
 | 1.º básico | matematica | MA01 OA 03 | 4 | 4 | 68 | 8 |
@@ -1817,6 +2149,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1692 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1699 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

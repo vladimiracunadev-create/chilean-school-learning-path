@@ -97,7 +97,7 @@ build(
     ctx=('abc', 'Un logotipo tiene un vértice en (2, 5). Se dibuja un patrón con rotaciones sucesivas de 90° antihorarias respecto del origen. ¿Dónde queda ese vértice tras 3 rotaciones seguidas?', '(5, −2)', '(−5, 2)', '(−2, −5)', 'Los giros dan (−5, 2), luego (−2, −5) y luego (5, −2); (−5, 2) es solo la primera rotación.'),
     sc=[
         ("En Geometría: ¿qué coordenada cambia de signo en la reflexión en el eje x?", "La coordenada y", "El eje x queda fijo, así que x se mantiene."),
-        ("¿Qué transformación invierte la orientación de una figura?", "La reflexión", "Traslación y rotación conservan el sentido del recorrido."),
+        ("En Geometría 3D: ¿Qué transformación invierte la orientación de una figura?", "La reflexión", "Traslación y rotación conservan el sentido del recorrido."),
         ("¿Basta comprobar que dos puntos están a igual distancia del centro para validar una rotación?", "No", "También hay que revisar el sentido y el ángulo del giro."),
     ],
     op=("Elige una figura: el segmento de extremos (1, 2) y (3, 6) o el triángulo de vértices (2, 0), (5, 0) y (2, 4). Aplícale una reflexión en el eje y y después una rotación de 90° antihoraria con centro en el origen. Escribe todas las imágenes y comprueba con una longitud que la figura final es congruente con la original.",

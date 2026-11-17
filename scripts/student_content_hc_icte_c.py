@@ -315,7 +315,7 @@ build(
     ctx=('abc', 'Antes de una función, un curso decide anotar en una hoja, sin firma, cómo llegó cada persona (con sueño, con hambre, con ganas) y cualquier vínculo con el elenco. ¿Para qué sirve?', 'Para reconocer sesgos posibles al analizar los juicios después', 'Para decidir quiénes no pueden opinar sobre la obra porque tienen una amistad con el elenco', 'Para saber quién merece una nota más alta en la actividad de análisis del curso', 'Reconocer sesgos ayuda a valorar con honestidad.'),
     sc=[
         ("En Teatro: ¿qué es un juicio estético?", "Una valoración de la obra apoyada en criterios y evidencia", "Se diferencia de la reacción y del gusto."),
-        ("¿Qué es un sesgo?", "Un factor que inclina el juicio sin que se note", "Se reconoce para valorar con honestidad."),
+        ("En Interpretación y creación en teatro: ¿Qué es un sesgo?", "Un factor que inclina el juicio sin que se note", "Se reconoce para valorar con honestidad."),
         ("¿Se puede valorar bien una obra que no es de nuestro gusto?", "Sí, porque el juicio se apoya en criterios y no en el gusto", "Gusto y juicio son cosas distintas."),
     ],
     op=("Escribe una bitácora de espectador sobre una escena de ejemplo (puede ser inventada o una situación cotidiana). Anota en tres columnas tu reacción, dos rasgos de la escena que la provocaron y un posible sesgo tuyo. Después redacta una frase de juicio que use un criterio y uno de esos rasgos.",

@@ -302,7 +302,7 @@ build(
     ctx=('abc', 'Tomás, persona ficticia, anota: durmió bien, tiene buena técnica, siente mucha presión de su grupo de amistades por «ganar siempre» y su tiempo empeoró. ¿Qué tipo de factor parece destacar en el caso y qué conviene?', 'Psicológico y sociológico, la presión; se conversa con una persona adulta', 'Fisiológico, la falta de sueño, porque es lo que más afecta el tiempo', 'Biomecánico, la técnica, porque siempre explica un cambio en el tiempo', 'Los datos de sueño y técnica son favorables; destaca la presión, que se conversa y se ajusta.'),
     sc=[
         ("En Ciencias del ejercicio: ¿cuáles son los cuatro tipos de factores del rendimiento?", "Fisiológicos, biomecánicos, psicológicos y sociológicos", "Cada tipo mira un aspecto distinto."),
-        ("¿Qué es un estereotipo?", "Una idea fija y simplificada sobre un grupo de personas", "No es un dato y puede limitar la participación."),
+        ("En Ciencias del ejercicio físico y deportivo: ¿Qué es un estereotipo?", "Una idea fija y simplificada sobre un grupo de personas", "No es un dato y puede limitar la participación."),
         ("¿Qué haces si un nerviosismo o malestar es fuerte y persistente?", "Hablarlo con una persona adulta de confianza o con un profesional", "Un malestar intenso no se enfrenta en soledad."),
     ],
     op=("Con este caso de ejemplo: una estudiante ficticia lanza una pelota blanda a un blanco y su puntaje baja de 8 a 5 aciertos de 10. Anota: durmió mal, su brazo se mueve tenso, se siente observada y nerviosa, y su grupo comenta que «eso no es para ella». Clasifica cada dato en uno de los cuatro tipos de factor, explica cómo se podrían relacionar y propone un ajuste de un solo factor.",

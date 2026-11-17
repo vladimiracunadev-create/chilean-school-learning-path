@@ -228,7 +228,7 @@ build(
     sc=[
         ("En Seminario de filosofía: ¿qué es un sesgo en una muestra?", "Una distorsión que favorece una conclusión sin razón suficiente", "Hace que la muestra no represente al grupo."),
         ("¿Qué criterios evalúan una generalización?", "Tamaño, representatividad y casos contrarios", "Son los tres criterios de la explicación."),
-        ("¿Qué es una explicación alternativa?", "Otra explicación posible del mismo hecho", "Hay que descartarlas para fortalecer una inferencia a la mejor explicación."),
+        ("En Seminario de filosofía: ¿Qué es una explicación alternativa?", "Otra explicación posible del mismo hecho", "Hay que descartarlas para fortalecer una inferencia a la mejor explicación."),
     ],
     op=("Elige uno de estos argumentos de ejemplo. Opción 1: «Todos mis vecinos que tienen perro son simpáticos, así que las personas con perro son simpáticas». Opción 2: «El cerebro es como un computador: ambos procesan información; por lo tanto, el cerebro funciona con programas». Opción 3: «Hoy hay muchos jóvenes cansados; la mejor explicación es que las clases empiezan temprano». "
         "Evalúalo con los criterios de la clase (indica cuál) y propón una forma de fortalecerlo.",

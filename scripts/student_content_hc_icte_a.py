@@ -316,7 +316,7 @@ build(
     ctx=('abc', 'Para un tema sobre la migración, un grupo crea un personaje que llega a una ciudad nueva. Un integrante propone «hacerlo llorar todo el tiempo para que se note». ¿Qué conviene responder?', 'Construir una curva con etapas distintas, como curiosidad, cansancio y esperanza, y acciones concretas en cada una', 'Aceptar la propuesta porque el llanto es la forma más clara de mostrar la migración al público', 'Evitar el tema completamente porque nadie del grupo ha migrado nunca de ciudad', 'Un personaje tiene recorrido y matices; reducirlo a una sola emoción lo estereotipa.'),
     sc=[
         ("En Teatro: ¿qué se anota en cada etapa de una curva emocional?", "La emoción, su intensidad y cómo se muestra con gesto y voz", "Así la etapa se puede ensayar y comparar."),
-        ("¿Qué es un estereotipo?", "Una imagen simplificada de un grupo de personas", "Reduce personas reales a una caricatura."),
+        ("En Interpretación y creación en teatro: ¿Qué es un estereotipo?", "Una imagen simplificada de un grupo de personas", "Reduce personas reales a una caricatura."),
         ("¿Qué se hace si un ejercicio emocional te hace sentir mal?", "Se detiene y se avisa a una persona adulta de confianza", "El bienestar va antes de la escena."),
     ],
     op=("Crea la curva emocional de un monólogo ficticio de cuatro etapas sobre un tema que te interese (por ejemplo, esperar una respuesta, despedirse de un lugar o preparar una presentación). Para cada etapa escribe emoción con matiz, intensidad de 0 a 10, un gesto y un recurso de voz. Agrega tu pregunta tema. Evita estereotipos y recuerdos personales dolorosos.",

@@ -473,7 +473,7 @@ build(
     sc=[
         ("En Diseño y arquitectura: ¿qué estados puede tener una necesidad en la lista de revisión?", "Cumple, cumple en parte o no cumple", "Cada estado se apoya en una medida o un conteo."),
         ("¿Qué correcciones se priorizan primero?", "Las de acceso y seguridad", "Dejan personas fuera del espacio si no se resuelven."),
-        ("¿Qué se hace después de corregir?", "Registrar la versión y volver a comprobar", "Un cambio sin comprobar no demuestra una mejora."),
+        ("En Diseño y arquitectura: ¿Qué se hace después de corregir?", "Registrar la versión y volver a comprobar", "Un cambio sin comprobar no demuestra una mejora."),
     ],
     op=("Un mesón de atención de ejemplo debe cumplir: M1 tramo bajo de 80 cm de alto para personas en silla de ruedas, M2 costo máximo de 150.000 pesos, M3 al menos la mitad de los materiales reutilizados, M4 cubrirse de la lluvia. Estado: tramo más bajo de 95 cm, costo estimado de 140.000 pesos, 2 de 6 materiales reutilizados, tiene techo. Haz la lista de revisión (cumple, en parte o no), ordena las correcciones por prioridad y escribe qué cambiarías en la versión 2.",
         "M1: no cumple (95 cm es más alto que 80). M2: cumple, sobran 10.000 pesos. M3: no cumple (2 de 6 es menos de la mitad, que son 3 de 6). M4: cumple. Prioridad: primero M1 por acceso, luego M3. Versión 2: bajar el tramo a 80 cm y reemplazar un material por uno reutilizado, sin pasar de 150.000 pesos.",

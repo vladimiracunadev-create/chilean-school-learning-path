@@ -47,7 +47,7 @@ build(
     sc=[
         ("En Teatro: ¿qué es un referente?", "Una obra, compañía, estilo o texto que sirve de modelo o punto de partida", "Se investiga para aprender decisiones, no para copiar."),
         ("¿Qué datos de una fuente se revisan para saber si es confiable?", "Autoría, fecha, procedencia, evidencia y coincidencia con otras fuentes", "Permiten verificar y contrastar la información."),
-        ("¿Qué es plagio?", "Presentar como propio algo ajeno", "El plagio ocurre aunque se cambien algunas palabras."),
+        ("En Interpretación y creación en teatro: ¿Qué es plagio?", "Presentar como propio algo ajeno", "El plagio ocurre aunque se cambien algunas palabras."),
     ],
     op=("Imagina un referente de ejemplo (puede ser una obra ficticia que describes tú). Completa una ficha de referente con título, autoría, año de ejemplo, procedencia, estilo, dos rasgos observados, dos fuentes con su tipo (primaria o secundaria) y una nota sobre su confiabilidad. Termina con dos columnas: qué tomarás y qué transformarás. No uses obras reales con derechos.",
         "Referente de ejemplo: «Hilos de agua», compañía ficticia La Ribera, estilo teatro de objetos. Rasgos: usa botellas y telas como personajes; casi no hay texto. Fuentes: programa de la función (primaria, con fecha) y una reseña firmada (secundaria). Confiabilidad: ambas con autoría y fecha. Tomaré: el uso de objetos como personajes (citado). Transformaré: usaré objetos de mi casa y un texto breve propio.",
