@@ -62,74 +62,74 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Especialidad | OA / objetivos | Clases totales | Clases escritas | Cerradas (lectura independiente) | Publicadas en `main` | % |
 |---|---:|---:|---:|---:|---:|---:|
 | **Administración** | | | | | | |
-| Administración (con 2 menciones: Logística, Recursos Humanos) | 15 | 62 | 62 | 62 | 0 | 100 % |
-| Contabilidad | 7 | 58 | 58 | 58 | 0 | 100 % |
-| *Subtotal Administración* | 22 | 120 | 120 | 120 | 0 | 100 % |
+| Administración (con 2 menciones: Logística, Recursos Humanos) | 15 | 62 | 62 | 62 | 62 | 100 % |
+| Contabilidad | 7 | 58 | 58 | 58 | 58 | 100 % |
+| *Subtotal Administración* | 22 | 120 | 120 | 120 | 120 | 100 % |
 | **Agropecuario** | | | | | | |
-| Agropecuaria (con 3 menciones: Agricultura, Pecuaria, Vitivinícola) | 26 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Agropecuario* | 26 | 0 | 0 | 0 | 0 | — |
+| Agropecuaria (con 3 menciones: Agricultura, Pecuaria, Vitivinícola) | 26 | 109 | 0 | 0 | 0 | 0 % |
+| *Subtotal Agropecuario* | 26 | 109 | 0 | 0 | 0 | 0 % |
 | **Alimentación** | | | | | | |
-| Elaboración Industrial de Alimentos | 8 | 0 | 0 | 0 | 0 | — |
-| Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Alimentación* | 22 | 0 | 0 | 0 | 0 | — |
+| Elaboración Industrial de Alimentos | 8 | 68 | 0 | 0 | 0 | 0 % |
+| Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 57 | 0 | 0 | 0 | 0 % |
+| *Subtotal Alimentación* | 22 | 125 | 0 | 0 | 0 | 0 % |
 | **Confección** | | | | | | |
-| Vestuario y Confección Textil | 8 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Confección* | 8 | 0 | 0 | 0 | 0 | — |
+| Vestuario y Confección Textil | 8 | 66 | 0 | 0 | 0 | 0 % |
+| *Subtotal Confección* | 8 | 66 | 0 | 0 | 0 | 0 % |
 | **Construcción** | | | | | | |
-| Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 0 | 0 | 0 | 0 | — |
-| Instalaciones Sanitarias | 8 | 0 | 0 | 0 | 0 | — |
-| Montaje Industrial | 10 | 0 | 0 | 0 | 0 | — |
-| Refrigeración y Climatización | 9 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Construcción* | 54 | 0 | 0 | 0 | 0 | — |
+| Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 116 | 0 | 0 | 0 | 0 % |
+| Instalaciones Sanitarias | 8 | 74 | 0 | 0 | 0 | 0 % |
+| Montaje Industrial | 10 | 86 | 0 | 0 | 0 | 0 % |
+| Refrigeración y Climatización | 9 | 82 | 0 | 0 | 0 | 0 % |
+| *Subtotal Construcción* | 54 | 358 | 0 | 0 | 0 | 0 % |
 | **Electricidad** | | | | | | |
-| Electricidad | 8 | 0 | 0 | 0 | 0 | — |
-| Electrónica | 7 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Electricidad* | 15 | 0 | 0 | 0 | 0 | — |
+| Electricidad | 8 | 70 | 0 | 0 | 0 | 0 % |
+| Electrónica | 7 | 58 | 0 | 0 | 0 | 0 % |
+| *Subtotal Electricidad* | 15 | 128 | 0 | 0 | 0 | 0 % |
 | **Gráfico** | | | | | | |
-| Dibujo Técnico | 9 | 0 | 0 | 0 | 0 | — |
-| Gráfica | 7 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Gráfico* | 16 | 0 | 0 | 0 | 0 | — |
+| Dibujo Técnico | 9 | 82 | 16 | 0 | 0 | 0 % |
+| Gráfica | 7 | 60 | 0 | 0 | 0 | 0 % |
+| *Subtotal Gráfico* | 16 | 142 | 16 | 0 | 0 | 0 % |
 | **Hotelería y Turismo** | | | | | | |
-| Servicios de Hotelería | 9 | 0 | 0 | 0 | 0 | — |
-| Servicios de Turismo | 7 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Hotelería y Turismo* | 16 | 0 | 0 | 0 | 0 | — |
+| Servicios de Hotelería | 9 | 82 | 0 | 0 | 0 | 0 % |
+| Servicios de Turismo | 7 | 66 | 0 | 0 | 0 | 0 % |
+| *Subtotal Hotelería y Turismo* | 16 | 148 | 0 | 0 | 0 | 0 % |
 | **Maderero** | | | | | | |
-| Forestal | 10 | 0 | 0 | 0 | 0 | — |
-| Muebles y Terminaciones en Madera | 10 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Maderero* | 20 | 0 | 0 | 0 | 0 | — |
+| Forestal | 10 | 92 | 0 | 0 | 0 | 0 % |
+| Muebles y Terminaciones en Madera | 10 | 84 | 0 | 0 | 0 | 0 % |
+| *Subtotal Maderero* | 20 | 176 | 0 | 0 | 0 | 0 % |
 | **Marítimo** | | | | | | |
-| Acuicultura | 8 | 0 | 0 | 0 | 0 | — |
-| Operaciones Portuarias | 7 | 0 | 0 | 0 | 0 | — |
-| Pesquería | 7 | 0 | 0 | 0 | 0 | — |
-| Tripulación de Naves Mercantes y Especiales | 9 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Marítimo* | 31 | 0 | 0 | 0 | 0 | — |
+| Acuicultura | 8 | 72 | 0 | 0 | 0 | 0 % |
+| Operaciones Portuarias | 7 | 68 | 0 | 0 | 0 | 0 % |
+| Pesquería | 7 | 68 | 0 | 0 | 0 | 0 % |
+| Tripulación de Naves Mercantes y Especiales | 9 | 88 | 0 | 0 | 0 | 0 % |
+| *Subtotal Marítimo* | 31 | 296 | 0 | 0 | 0 | 0 % |
 | **Metalmecánica** | | | | | | |
-| Construcciones Metálicas | 9 | 0 | 0 | 0 | 0 | — |
-| Mecánica Automotriz | 8 | 0 | 0 | 0 | 0 | — |
-| Mecánica de Mantenimiento de Aeronaves | 7 | 0 | 0 | 0 | 0 | — |
-| Mecánica Industrial (con 3 menciones: Mantenimiento Electromecánico, Máquinas-Herramientas, Matricería) | 23 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Metalmecánica* | 47 | 0 | 0 | 0 | 0 | — |
+| Construcciones Metálicas | 9 | 76 | 0 | 0 | 0 | 0 % |
+| Mecánica Automotriz | 8 | 70 | 0 | 0 | 0 | 0 % |
+| Mecánica de Mantenimiento de Aeronaves | 7 | 64 | 0 | 0 | 0 | 0 % |
+| Mecánica Industrial (con 3 menciones: Mantenimiento Electromecánico, Máquinas-Herramientas, Matricería) | 23 | 98 | 0 | 0 | 0 | 0 % |
+| *Subtotal Metalmecánica* | 47 | 308 | 0 | 0 | 0 | 0 % |
 | **Minero** | | | | | | |
-| Asistencia en Geología | 8 | 0 | 0 | 0 | 0 | — |
-| Explotación Minera | 8 | 0 | 0 | 0 | 0 | — |
-| Metalurgia Extractiva | 8 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Minero* | 24 | 0 | 0 | 0 | 0 | — |
+| Asistencia en Geología | 8 | 66 | 0 | 0 | 0 | 0 % |
+| Explotación Minera | 8 | 70 | 0 | 0 | 0 | 0 % |
+| Metalurgia Extractiva | 8 | 72 | 0 | 0 | 0 | 0 % |
+| *Subtotal Minero* | 24 | 208 | 0 | 0 | 0 | 0 % |
 | **Química e Industria** | | | | | | |
-| Química Industrial (con 2 menciones: Laboratorio Químico, Planta Química) | 13 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Química e Industria* | 13 | 0 | 0 | 0 | 0 | — |
+| Química Industrial (con 2 menciones: Laboratorio Químico, Planta Química) | 13 | 61 | 0 | 0 | 0 | 0 % |
+| *Subtotal Química e Industria* | 13 | 61 | 0 | 0 | 0 | 0 % |
 | **Salud y Educación** | | | | | | |
-| Atención de Enfermería (con 2 menciones: Adulto Mayor, Enfermería) | 15 | 0 | 0 | 0 | 0 | — |
-| Atención de Párvulos | 10 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Salud y Educación* | 25 | 0 | 0 | 0 | 0 | — |
+| Atención de Enfermería (con 2 menciones: Adulto Mayor, Enfermería) | 15 | 68 | 0 | 0 | 0 | 0 % |
+| Atención de Párvulos | 10 | 86 | 0 | 0 | 0 | 0 % |
+| *Subtotal Salud y Educación* | 25 | 154 | 0 | 0 | 0 | 0 % |
 | **Tecnología y Comunicaciones** | | | | | | |
-| Conectividad y Redes | 11 | 0 | 0 | 0 | 0 | — |
-| Programación | 10 | 0 | 0 | 0 | 0 | — |
-| Telecomunicaciones | 10 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Tecnología y Comunicaciones* | 31 | 0 | 0 | 0 | 0 | — |
+| Conectividad y Redes | 11 | 88 | 88 | 88 | 0 | 100 % |
+| Programación | 10 | 80 | 80 | 80 | 0 | 100 % |
+| Telecomunicaciones | 10 | 82 | 82 | 82 | 0 | 100 % |
+| *Subtotal Tecnología y Comunicaciones* | 31 | 250 | 250 | 250 | 0 | 100 % |
 | **Transversal** | | | | | | |
-| Objetivos genéricos A-L (comunes a las 35) | 12 | 0 | 0 | 0 | 0 | — |
-| *Subtotal Transversal* | 12 | 0 | 0 | 0 | 0 | — |
-| **TOTAL FASE B** | 382 | 120 | 120 | 120 | 0 | **100 %** |
+| Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 0 | 0 | 0 | 0 % |
+| *Subtotal Transversal* | 12 | 96 | 0 | 0 | 0 | 0 % |
+| **TOTAL FASE B** | 382 | 2745 | 386 | 370 | 120 | **13 %** |
 
 ## Fase C · EPJA
 
