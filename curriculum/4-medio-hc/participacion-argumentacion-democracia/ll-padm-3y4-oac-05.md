@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Participación y argumentación en democracia | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/participacion-argumentacion-democracia.md) · [← OA anterior (LL-PADM-3y4-OAC-04)](ll-padm-3y4-oac-04.md) · [OA siguiente (LL-PADM-3y4-OAC-06) →](ll-padm-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Utilizar formas de argumentación y de legitimación del conocimiento pertinentes al ámbito de participación, a la comunidad discursiva y a los propósitos de sus argumentaciones.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14391) · [Clase 2](#cl-14392) · [Clase 3](#cl-14393) · [Clase 4](#cl-14394)
 
 ### Clase 1 de 4: Precisar conceptos y derechos: Utilizar formas de argumentación y de legitimación del conocimiento pertinentes al… {#cl-14391}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Registro formal con datos verificables
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](ll-padm-3y4-oac-04.md#cl-14390) · [Clase siguiente →](#cl-14392)
+
 ### Clase 2 de 4: Investigar un caso público: Utilizar formas de argumentación y de legitimación del conocimiento pertinentes al… {#cl-14392}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 70 % de las 30 familias consultadas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14391) · [Clase siguiente →](#cl-14393)
 
 ### Clase 3 de 4: Contrastar perspectivas y evidencia: Utilizar formas de argumentación y de legitimación del conocimiento pertinentes al… {#cl-14393}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Es fuerte si no hay diferencias importantes entre ambas situaciones
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14392) · [Clase siguiente →](#cl-14394)
+
 ### Clase 4 de 4: Deliberar con razones: Utilizar formas de argumentación y de legitimación del conocimiento pertinentes al… {#cl-14394}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: «Según una consulta de ejemplo, 65 % de los 120 estudiantes consult
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14393) · [Primera clase del OA siguiente →](ll-padm-3y4-oac-06.md#cl-14395)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Expresión corporal | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/expresion-corporal.md) · [← OA anterior (EF-EXCO-3y4-OAC-03)](ef-exco-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Manejar la conciencia de su propia corporalidad, a partir del desarrollo de la condición física y su eficiencia en la acción motriz.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13319) · [Clase 2](#cl-13320) · [Clase 3](#cl-13321) · [Clase 4](#cl-13322)
 
 ### Clase 1 de 4: Explorar movimiento con conciencia: Manejar la conciencia de su propia corporalidad, a partir del desarrollo de la… {#cl-13319}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: El dolor agudo en la rodilla
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ef-exco-3y4-oac-03.md#cl-13318) · [Clase siguiente →](#cl-13320)
+
 ### Clase 2 de 4: Combinar espacio, tiempo y energía: Manejar la conciencia de su propia corporalidad, a partir del desarrollo de la… {#cl-13320}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Pasar a 3 minutos y registrar el esfuerzo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13319) · [Clase siguiente →](#cl-13321)
 
 ### Clase 3 de 4: Componer una frase propia: Manejar la conciencia de su propia corporalidad, a partir del desarrollo de la… {#cl-13321}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Soltar primero los hombros y después la mandíbula, en ensayos separ
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13320) · [Clase siguiente →](#cl-13322)
+
 ### Clase 4 de 4: Interpretar propósito y contexto: Manejar la conciencia de su propia corporalidad, a partir del desarrollo de la… {#cl-13322}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: Volver a la duración anterior
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13321)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

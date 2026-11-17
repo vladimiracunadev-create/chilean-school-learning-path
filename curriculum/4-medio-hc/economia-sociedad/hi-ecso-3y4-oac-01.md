@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [OA siguiente (HI-ECSO-3y4-OAC-02) →](hi-ecso-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Explicar la economía como una ciencia social que estudia las decisiones que toman las personas en su vida cotidiana, así como la familia, el sector privado y el Estado para enfrentar la escasez, considerando su método científico (supuestos y experiencias económicas), principios fundamentales y el análisis positivo y normativo.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14011) · [Clase 2](#cl-14012) · [Clase 3](#cl-14013) · [Clase 4](#cl-14014) · [Clase 5](#cl-14015)
 
 ### Clase 1 de 5: Contextualizar actores, tiempo y espacio: Explicar la economía como una ciencia social que estudia las decisiones que toman las… {#cl-14011}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sector privado; escasea el horno; el costo de oportunidad son los pas
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[Clase siguiente →](#cl-14012)
+
 ### Clase 2 de 5: Interrogar fuentes e indicadores: Explicar la economía como una ciencia social que estudia las decisiones que toman las… {#cl-14012}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Sí la apoyan, con la salvedad de que son pocos datos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14011) · [Clase siguiente →](#cl-14013)
 
 ### Clase 3 de 5: Comparar causas y perspectivas: Explicar la economía como una ciencia social que estudia las decisiones que toman las… {#cl-14013}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Incentivos: se espera mayor puntualidad
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14012) · [Clase siguiente →](#cl-14014)
+
 ### Clase 4 de 5: Explicar relaciones y consecuencias: Explicar la economía como una ciencia social que estudia las decisiones que toman las… {#cl-14014}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Primera parte positiva, segunda normativa
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14013) · [Clase siguiente →](#cl-14015)
+
 ### Clase 5 de 5: Evaluar alternativas: Explicar la economía como una ciencia social que estudia las decisiones que toman las… {#cl-14015}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Criterio: beneficiarios; valor: llegar a más personas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14014) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-02.md#cl-14016)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

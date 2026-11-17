@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Comprensión histórica del presente | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/comprension-historica-presente.md) · [← OA anterior (HI-CHDP-3y4-OAC-01)](hi-chdp-3y4-oac-01.md) · [OA siguiente (HI-CHDP-3y4-OAC-03) →](hi-chdp-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Analizar diversas perspectivas historiográficas sobre procesos de la historia reciente, considerando la importancia del conocimiento histórico en la sociedad y el protagonismo de individuos y grupos en cuanto sujetos históricos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13146) · [Clase 2](#cl-13147) · [Clase 3](#cl-13148) · [Clase 4](#cl-13149) · [Clase 5](#cl-13150)
 
 ### Clase 1 de 5: Contextualizar actores, tiempo y espacio: Analizar diversas perspectivas historiográficas sobre procesos de la historia… {#cl-13146}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sí: es pasado cercano con testigos vivos
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-chdp-3y4-oac-01.md#cl-13145) · [Clase siguiente →](#cl-13147)
+
 ### Clase 2 de 5: Interrogar fuentes e indicadores: Analizar diversas perspectivas historiográficas sobre procesos de la historia… {#cl-13147}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Busca una tercera fuente y declara el rango de 150 a 200
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13146) · [Clase siguiente →](#cl-13148)
 
 ### Clase 3 de 5: Comparar causas y perspectivas: Analizar diversas perspectivas historiográficas sobre procesos de la historia… {#cl-13148}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Historia de la vida cotidiana
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13147) · [Clase siguiente →](#cl-13149)
+
 ### Clase 4 de 5: Explicar relaciones y consecuencias: Analizar diversas perspectivas historiográficas sobre procesos de la historia… {#cl-13149}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Anacronismo: exige un recurso que no existía entonces
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13148) · [Clase siguiente →](#cl-13150)
+
 ### Clase 5 de 5: Evaluar alternativas: Analizar diversas perspectivas historiográficas sobre procesos de la historia… {#cl-13150}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: La propuesta 1: es pertinente y respetuosa
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13149) · [Primera clase del OA siguiente →](hi-chdp-3y4-oac-03.md#cl-13151)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

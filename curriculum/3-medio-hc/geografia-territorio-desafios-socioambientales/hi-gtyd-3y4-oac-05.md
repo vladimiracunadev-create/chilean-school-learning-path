@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Geografía, territorio y desafíos socioambientales | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geografia-territorio-desafios-socioambientales.md) · [← OA anterior (HI-GTYD-3y4-OAC-04)](hi-gtyd-3y4-oac-04.md) · [OA siguiente (HI-GTYD-3y4-OAC-06) →](hi-gtyd-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Reconocer el carácter social del riesgo de desastres que caracteriza a la geografía de Chile, considerando los diferentes usos del espacio y sus condiciones territoriales y ambientales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13399) · [Clase 2](#cl-13400) · [Clase 3](#cl-13401) · [Clase 4](#cl-13402)
 
 ### Clase 1 de 4: Contextualizar actores, tiempo y espacio: Reconocer el carácter social del riesgo de desastres que caracteriza a la geografía de… {#cl-13399}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Diferencias de exposición, vulnerabilidad y capacidad, no de la amen
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-gtyd-3y4-oac-04.md#cl-13398) · [Clase siguiente →](#cl-13400)
+
 ### Clase 2 de 4: Interrogar fuentes e indicadores: Reconocer el carácter social del riesgo de desastres que caracteriza a la geografía de… {#cl-13400}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: El primero, porque combina amenaza alta con exposición
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13399) · [Clase siguiente →](#cl-13401)
 
 ### Clase 3 de 4: Comparar causas y perspectivas: Reconocer el carácter social del riesgo de desastres que caracteriza a la geografía de… {#cl-13401}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Son complementarias: una explica el disparo y la otra la condición p
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13400) · [Clase siguiente →](#cl-13402)
+
 ### Clase 4 de 4: Explicar relaciones y consecuencias: Reconocer el carácter social del riesgo de desastres que caracteriza a la geografía de… {#cl-13402}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: 600 metros
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13401) · [Primera clase del OA siguiente →](hi-gtyd-3y4-oac-06.md#cl-13403)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

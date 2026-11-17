@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Taller de literatura | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/taller-literatura.md) · [← OA anterior (LL-TALI-3y4-OAC-04)](ll-tali-3y4-oac-04.md) · [OA siguiente (LL-TALI-3y4-OAC-06) →](ll-tali-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Construir trayectorias de lectura que surjan de sus propios intereses, gustos literarios e inquietudes, explicitando criterios de selección de obras y compartiendo dichas trayectorias con sus pares.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13768) · [Clase 2](#cl-13769) · [Clase 3](#cl-13770) · [Clase 4](#cl-13771)
 
 ### Clase 1 de 4: Situar corpus, género y propósito: Construir trayectorias de lectura que surjan de sus propios intereses, gustos… {#cl-13768}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -248,6 +252,9 @@ Respuesta: No: falta un hilo y razones
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Última clase del OA anterior](ll-tali-3y4-oac-04.md#cl-13767) · [Clase siguiente →](#cl-13769)
+
 ### Clase 2 de 4: Formular una lectura o problema: Construir trayectorias de lectura que surjan de sus propios intereses, gustos… {#cl-13769}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: Elijo esta novela porque su tema, el mar, me interesa
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13768) · [Clase siguiente →](#cl-13770)
 
 ### Clase 3 de 4: Analizar recursos y evidencia: Construir trayectorias de lectura que surjan de sus propios intereses, gustos… {#cl-13770}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -661,6 +671,9 @@ Respuesta: 4 géneros distintos
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13769) · [Clase siguiente →](#cl-13771)
+
 ### Clase 4 de 4: Contrastar interpretaciones o discursos: Construir trayectorias de lectura que surjan de sus propios intereses, gustos… {#cl-13771}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -865,6 +878,9 @@ Respuesta: Misma cantidad de obras y narrativa breve, pero hilos distintos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13770) · [Primera clase del OA siguiente →](ll-tali-3y4-oac-06.md#cl-13772)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

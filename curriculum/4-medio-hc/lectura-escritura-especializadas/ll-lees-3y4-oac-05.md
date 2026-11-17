@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Lectura y escritura especializadas | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/lectura-escritura-especializadas.md) · [← OA anterior (LL-LEES-3y4-OAC-04)](ll-lees-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Buscar, evaluar y seleccionar rigurosamente fuentes disponibles en soportes impresos y digitales, considerando la validez, veracidad y responsabilidad de su autoría.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14342) · [Clase 2](#cl-14343) · [Clase 3](#cl-14344) · [Clase 4](#cl-14345) · [Clase 5](#cl-14346)
 
 ### Clase 1 de 5: Situar corpus, género y propósito: Buscar, evaluar y seleccionar rigurosamente fuentes disponibles en soportes impresos y… {#cl-14342}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Sirve como postura, no como dato
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Última clase del OA anterior](ll-lees-3y4-oac-04.md#cl-14341) · [Clase siguiente →](#cl-14343)
+
 ### Clase 2 de 5: Formular una lectura o problema: Buscar, evaluar y seleccionar rigurosamente fuentes disponibles en soportes impresos y… {#cl-14343}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Excluye los resultados que contengan «recetas»
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14342) · [Clase siguiente →](#cl-14344)
 
 ### Clase 3 de 5: Analizar recursos y evidencia: Buscar, evaluar y seleccionar rigurosamente fuentes disponibles en soportes impresos y… {#cl-14344}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Hay conflicto de interés
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14343) · [Clase siguiente →](#cl-14345)
+
 ### Clase 4 de 5: Contrastar interpretaciones o discursos: Buscar, evaluar y seleccionar rigurosamente fuentes disponibles en soportes impresos y… {#cl-14345}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Aumenta la confianza en el dato
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14344) · [Clase siguiente →](#cl-14346)
+
 ### Clase 5 de 5: Planificar una respuesta para una audiencia: Buscar, evaluar y seleccionar rigurosamente fuentes disponibles en soportes impresos y… {#cl-14346}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Descartarla, porque no cumple los criterios mínimos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14345)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Lectura y escritura especializadas | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/lectura-escritura-especializadas.md) · [← OA anterior (LL-LEES-3y4-OAC-03)](ll-lees-3y4-oac-03.md) · [OA siguiente (LL-LEES-3y4-OAC-05) →](ll-lees-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Utilizar diversas estrategias para construir y transformar el conocimiento por escrito, en coherencia con los temas, los propósitos comunicativos y las convenciones discursivas de los textos que producirán.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14337) · [Clase 2](#cl-14338) · [Clase 3](#cl-14339) · [Clase 4](#cl-14340) · [Clase 5](#cl-14341)
 
 ### Clase 1 de 5: Situar corpus, género y propósito: Utilizar diversas estrategias para construir y transformar el conocimiento por… {#cl-14337}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Cuadro completo con las tres columnas
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Última clase del OA anterior](ll-lees-3y4-oac-03.md#cl-14336) · [Clase siguiente →](#cl-14338)
+
 ### Clase 2 de 5: Formular una lectura o problema: Utilizar diversas estrategias para construir y transformar el conocimiento por… {#cl-14338}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Es irrelevante y se descarta
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14337) · [Clase siguiente →](#cl-14339)
 
 ### Clase 3 de 5: Analizar recursos y evidencia: Utilizar diversas estrategias para construir y transformar el conocimiento por… {#cl-14339}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -655,6 +665,9 @@ Respuesta: por lo tanto
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14338) · [Clase siguiente →](#cl-14340)
+
 ### Clase 4 de 5: Contrastar interpretaciones o discursos: Utilizar diversas estrategias para construir y transformar el conocimiento por… {#cl-14340}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -859,6 +872,9 @@ Respuesta: «En dos semanas, 40 estudiantes promediaron 7 horas de sueño, y qui
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14339) · [Clase siguiente →](#cl-14341)
+
 ### Clase 5 de 5: Planificar una respuesta para una audiencia: Utilizar diversas estrategias para construir y transformar el conocimiento por… {#cl-14341}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1062,6 +1078,9 @@ Respuesta: Primero la afirmación exagerada (contenido)
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14340) · [Primera clase del OA siguiente →](ll-lees-3y4-oac-05.md#cl-14342)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

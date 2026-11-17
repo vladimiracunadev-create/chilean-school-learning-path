@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Comprensión histórica del presente | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/comprension-historica-presente.md) · [← OA anterior (HI-CHDP-3y4-OAC-02)](hi-chdp-3y4-oac-02.md) · [OA siguiente (HI-CHDP-3y4-OAC-04) →](hi-chdp-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Elaborar preguntas y explicaciones históricas a partir de problemas o tópicos del presente en el contexto local y nacional, considerando categorías y metodologías propias de la disciplina.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13931) · [Clase 2](#cl-13932) · [Clase 3](#cl-13933) · [Clase 4](#cl-13934)
 
 ### Clase 1 de 4: Contextualizar actores, tiempo y espacio: Elaborar preguntas y explicaciones históricas a partir de problemas o tópicos del… {#cl-13931}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: No: no es abierta, ni acotada ni investigable
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-chdp-3y4-oac-02.md#cl-13930) · [Clase siguiente →](#cl-13932)
+
 ### Clase 2 de 4: Interrogar fuentes e indicadores: Elaborar preguntas y explicaciones históricas a partir de problemas o tópicos del… {#cl-13932}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Se reformula la hipótesis y se buscan otros factores
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13931) · [Clase siguiente →](#cl-13933)
 
 ### Clase 3 de 4: Comparar causas y perspectivas: Elaborar preguntas y explicaciones históricas a partir de problemas o tópicos del… {#cl-13933}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Etapa 1: hasta 2012; etapa 2: desde 2012, con el criterio de la insta
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13932) · [Clase siguiente →](#cl-13934)
+
 ### Clase 4 de 4: Explicar relaciones y consecuencias: Elaborar preguntas y explicaciones históricas a partir de problemas o tópicos del… {#cl-13934}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Dato: aumento de 20 %; valoración: la gente es más trabajadora
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13933) · [Primera clase del OA siguiente →](hi-chdp-3y4-oac-04.md#cl-13935)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

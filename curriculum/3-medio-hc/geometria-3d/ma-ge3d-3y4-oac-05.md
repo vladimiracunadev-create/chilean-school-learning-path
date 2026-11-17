@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Geometría 3D | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geometria-3d.md) · [← OA anterior (MA-GE3D-3y4-OAC-04)](ma-ge3d-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Diseñar propuestas y resolver problemas relacionados con perspectiva, proyección paralela y central, puntos de fuga y elevaciones, tanto en arte como en arquitectura, diseño o construcción, aplicando conceptos y procedimientos de la geometría 3D.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13425) · [Clase 2](#cl-13426) · [Clase 3](#cl-13427) · [Clase 4](#cl-13428) · [Clase 5](#cl-13429)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Diseñar propuestas y resolver problemas relacionados con perspectiva, proyección… {#cl-13425}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Proyección paralela
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-ge3d-3y4-oac-04.md#cl-13424) · [Clase siguiente →](#cl-13426)
+
 ### Clase 2 de 5: Representar de dos maneras: Diseñar propuestas y resolver problemas relacionados con perspectiva, proyección… {#cl-13426}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: El punto de fuga es (2, 0)
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13425) · [Clase siguiente →](#cl-13427)
 
 ### Clase 3 de 5: Desarrollar una estrategia: Diseñar propuestas y resolver problemas relacionados con perspectiva, proyección… {#cl-13427}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Sí, están alineados
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13426) · [Clase siguiente →](#cl-13428)
+
 ### Clase 4 de 5: Justificar relaciones: Diseñar propuestas y resolver problemas relacionados con perspectiva, proyección… {#cl-13428}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: 20 cm en la planta y 5 m reales
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13427) · [Clase siguiente →](#cl-13429)
+
 ### Clase 5 de 5: Comprobar y comparar: Diseñar propuestas y resolver problemas relacionados con perspectiva, proyección… {#cl-13429}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Una vista isométrica (proyección paralela)
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13428)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

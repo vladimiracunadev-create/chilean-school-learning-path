@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Probabilidades y estadística descriptiva e inferencial | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/probabilidades-estadistica-descriptiva-inferencial.md) · [← OA anterior (MA-PEDI-3y4-OAC-01)](ma-pedi-3y4-oac-01.md) · [OA siguiente (MA-PEDI-3y4-OAC-03) →](ma-pedi-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Resolver problemas que involucren los conceptos de media muestral, desviación estándar, varianza, coeficiente de variación y correlación muestral entre dos variables, tanto de forma manuscrita como haciendo uso de herramientas tecnológicas digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14436) · [Clase 2](#cl-14437) · [Clase 3](#cl-14438) · [Clase 4](#cl-14439)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Resolver problemas que involucren los conceptos de media muestral, desviación… {#cl-14436}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: El cuarto dato es 8
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-pedi-3y4-oac-01.md#cl-14435) · [Clase siguiente →](#cl-14437)
+
 ### Clase 2 de 4: Representar de dos maneras: Resolver problemas que involucren los conceptos de media muestral, desviación… {#cl-14437}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: s² = 16 y s = 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14436) · [Clase siguiente →](#cl-14438)
 
 ### Clase 3 de 4: Desarrollar una estrategia: Resolver problemas que involucren los conceptos de media muestral, desviación… {#cl-14438}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: El precio varía más en proporción (8 % frente a 5 %)
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14437) · [Clase siguiente →](#cl-14439)
+
 ### Clase 4 de 4: Justificar relaciones: Resolver problemas que involucren los conceptos de media muestral, desviación… {#cl-14439}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Casi no hay relación lineal entre ambas variables
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14438) · [Primera clase del OA siguiente →](ma-pedi-3y4-oac-03.md#cl-14440)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

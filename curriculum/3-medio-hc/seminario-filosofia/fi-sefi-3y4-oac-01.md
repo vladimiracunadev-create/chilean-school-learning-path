@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Seminario de filosofía | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/seminario-filosofia.md) · [OA siguiente (FI-SEFI-3y4-OAC-02) →](fi-sefi-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Explicar textos filosóficos que aborden un problema presente en la historia de la filosofía, considerando sus antecedentes, principales planteamientos, supuestos y contexto sociocultural.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13728) · [Clase 2](#cl-13729) · [Clase 3](#cl-13730) · [Clase 4](#cl-13731)
 
 ### Clase 1 de 4: Problematizar una situación: Explicar textos filosóficos que aborden un problema presente en la historia de la… {#cl-13728}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: «¿Podemos confiar en los sentidos como fuente de conocimiento segur
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[Clase siguiente →](#cl-13729)
+
 ### Clase 2 de 4: Definir conceptos: Explicar textos filosóficos que aborden un problema presente en la historia de la… {#cl-13729}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: El Caso X: cumple D2 y, sin justificación, no parece saber; por eso 
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13728) · [Clase siguiente →](#cl-13730)
+
 ### Clase 3 de 4: Reconstruir una perspectiva: Explicar textos filosóficos que aborden un problema presente en la historia de la… {#cl-13730}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -656,6 +666,9 @@ Respuesta: Falacia genética: confunde el origen de la idea con su verdad
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13729) · [Clase siguiente →](#cl-13731)
 
 ### Clase 4 de 4: Formular y evaluar argumentos: Explicar textos filosóficos que aborden un problema presente en la historia de la… {#cl-13731}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -863,6 +876,9 @@ Respuesta: No es válido: afirma el consecuente, porque hay otras causas posible
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13730) · [Primera clase del OA siguiente →](fi-sefi-3y4-oac-02.md#cl-13732)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

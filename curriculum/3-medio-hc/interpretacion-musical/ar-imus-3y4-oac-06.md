@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-musical.md) · [← OA anterior (AR-IMUS-3y4-OAC-05)](ar-imus-3y4-oac-05.md) · [OA siguiente (AR-IMUS-3y4-OAC-07) →](ar-imus-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Evaluar críticamente procesos y resultados de trabajos de interpretación musical personales y de sus pares, considerando propósitos expresivos y aspectos estéticos, y decisiones tomadas durante el proceso.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13456) · [Clase 2](#cl-13457) · [Clase 3](#cl-13458) · [Clase 4](#cl-13459) · [Clase 5](#cl-13460)
 
 ### Clase 1 de 5: Escuchar y reconocer rasgos: Evaluar críticamente procesos y resultados de trabajos de interpretación musical… {#cl-13456}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: No cumple: tempo rápido y fuerza alta no transmiten calma
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-imus-3y4-oac-05.md#cl-13455) · [Clase siguiente →](#cl-13457)
+
 ### Clase 2 de 5: Explorar recursos de producción: Evaluar críticamente procesos y resultados de trabajos de interpretación musical… {#cl-13457}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Total 12 puntos y promedio 3
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13456) · [Clase siguiente →](#cl-13458)
 
 ### Clase 3 de 5: Ensayar una decisión musical: Evaluar críticamente procesos y resultados de trabajos de interpretación musical… {#cl-13458}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Sí, porque probó con evidencia y revisó
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13457) · [Clase siguiente →](#cl-13459)
+
 ### Clase 4 de 5: Interpretar, crear o analizar: Evaluar críticamente procesos y resultados de trabajos de interpretación musical… {#cl-13459}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: «La guitarra entró un pulso tarde en 2 de 4 pasadas; sugiero contar
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13458) · [Clase siguiente →](#cl-13460)
+
 ### Clase 5 de 5: Registrar y ajustar: Evaluar críticamente procesos y resultados de trabajos de interpretación musical… {#cl-13460}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Falta el control de salud: se corrige con sesiones cortas y pausas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13459) · [Primera clase del OA siguiente →](ar-imus-3y4-oac-07.md#cl-13461)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

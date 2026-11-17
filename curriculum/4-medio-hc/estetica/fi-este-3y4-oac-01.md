@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Estética | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/estetica.md) · [OA siguiente (FI-ESTE-3y4-OAC-02) →](fi-este-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Analizar textos filosóficos referidos a conceptos y problemas estéticos fundamentales, como la belleza, la demarcación del arte, la experiencia estética, la percepción sensible, los propósitos de la creación artística, entre otros.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14053) · [Clase 2](#cl-14054) · [Clase 3](#cl-14055) · [Clase 4](#cl-14056) · [Clase 5](#cl-14057)
 
 ### Clase 1 de 5: Problematizar una situación: Analizar textos filosóficos referidos a conceptos y problemas estéticos fundamentales,… {#cl-14053}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Objetivismo estético
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[Clase siguiente →](#cl-14054)
+
 ### Clase 2 de 5: Definir conceptos: Analizar textos filosóficos referidos a conceptos y problemas estéticos fundamentales,… {#cl-14054}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: Percepción: la línea roja que cruza la hoja; interpretación o reac
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14053) · [Clase siguiente →](#cl-14055)
+
 ### Clase 3 de 5: Reconstruir una perspectiva: Analizar textos filosóficos referidos a conceptos y problemas estéticos fundamentales,… {#cl-14055}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -655,6 +665,9 @@ Respuesta: Tesis: una obra es arte cuando transmite un sentimiento; razón: el a
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14054) · [Clase siguiente →](#cl-14056)
 
 ### Clase 4 de 5: Formular y evaluar argumentos: Analizar textos filosóficos referidos a conceptos y problemas estéticos fundamentales,… {#cl-14056}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -862,6 +875,9 @@ Respuesta: Ataque a la persona
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14055) · [Clase siguiente →](#cl-14057)
+
 ### Clase 5 de 5: Responder objeciones: Analizar textos filosóficos referidos a conceptos y problemas estéticos fundamentales,… {#cl-14057}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1066,6 +1082,9 @@ Respuesta: Acepto la objeción y agrego que sea hecho por una persona con intenc
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14056) · [Primera clase del OA siguiente →](fi-este-3y4-oac-02.md#cl-14058)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

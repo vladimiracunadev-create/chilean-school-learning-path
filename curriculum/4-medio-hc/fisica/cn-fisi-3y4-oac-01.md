@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Física | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/fisica.md) · [OA siguiente (CN-FISI-3y4-OAC-02) →](cn-fisi-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio climático global, considerando los patrones observados, sus causas probables, efectos actuales y posibles consecuencias futuras sobre la Tierra, los sistemas naturales y la sociedad.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14130) · [Clase 2](#cl-14131) · [Clase 3](#cl-14132) · [Clase 4](#cl-14133) · [Clase 5](#cl-14134) · [Clase 6](#cl-14135)
 
 ### Clase 1 de 6: Delimitar pregunta y sistema: Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio… {#cl-14130}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: «¿Aumentó la temperatura media anual de la estación Norte entre l
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[Clase siguiente →](#cl-14131)
+
 ### Clase 2 de 6: Evaluar fuentes y variables: Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio… {#cl-14131}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No: es correlación; el calor causa el uso de ventiladores
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14130) · [Clase siguiente →](#cl-14132)
 
 ### Clase 3 de 6: Construir o interpretar un modelo: Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio… {#cl-14132}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 90 unidades
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14131) · [Clase siguiente →](#cl-14133)
+
 ### Clase 4 de 6: Analizar evidencia: Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio… {#cl-14133}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: No: por sí sola no explica el aumento
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14132) · [Clase siguiente →](#cl-14134)
 
 ### Clase 5 de 6: Comparar soluciones: Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio… {#cl-14134}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Es adaptación
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14133) · [Clase siguiente →](#cl-14135)
+
 ### Clase 6 de 6: Comunicar límites y decisión: Analizar, con base en datos científicos actuales e históricos, el fenómeno del cambio… {#cl-14135}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: 40 cm, y se informa el rango completo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14134) · [Primera clase del OA siguiente →](cn-fisi-3y4-oac-02.md#cl-14136)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

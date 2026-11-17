@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-musical.md) · [← OA anterior (AR-IMUS-3y4-OAC-04)](ar-imus-3y4-oac-04.md) · [OA siguiente (AR-IMUS-3y4-OAC-06) →](ar-imus-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Argumentar juicios críticos de obras y manifestaciones musicales de diferentes épocas y procedencias, a partir de análisis estéticos y apreciaciones personales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14231) · [Clase 2](#cl-14232) · [Clase 3](#cl-14233) · [Clase 4](#cl-14234) · [Clase 5](#cl-14235)
 
 ### Clase 1 de 5: Escuchar y reconocer rasgos: Argumentar juicios críticos de obras y manifestaciones musicales de diferentes épocas… {#cl-14231}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Afirmación: da energía; evidencia: 140 pulsos y ritmo repetido; raz
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-imus-3y4-oac-04.md#cl-14230) · [Clase siguiente →](#cl-14232)
+
 ### Clase 2 de 5: Explorar recursos de producción: Argumentar juicios críticos de obras y manifestaciones musicales de diferentes épocas… {#cl-14232}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: «El pasaje de 8 segundos está desafinado»
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14231) · [Clase siguiente →](#cl-14233)
 
 ### Clase 3 de 5: Ensayar una decisión musical: Argumentar juicios críticos de obras y manifestaciones musicales de diferentes épocas… {#cl-14233}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Se debilita y se ajusta la conclusión
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14232) · [Clase siguiente →](#cl-14234)
+
 ### Clase 4 de 5: Interpretar, crear o analizar: Argumentar juicios críticos de obras y manifestaciones musicales de diferentes épocas… {#cl-14234}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Sí, ambas son válidas si su evidencia es verdadera
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14233) · [Clase siguiente →](#cl-14235)
+
 ### Clase 5 de 5: Registrar y ajustar: Argumentar juicios críticos de obras y manifestaciones musicales de diferentes épocas… {#cl-14235}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: «El pasaje agudo del estribillo se oyó inseguro»
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14234) · [Primera clase del OA siguiente →](ar-imus-3y4-oac-06.md#cl-14236)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

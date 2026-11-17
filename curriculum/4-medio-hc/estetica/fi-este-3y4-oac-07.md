@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Estética | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/estetica.md) · [← OA anterior (FI-ESTE-3y4-OAC-06)](fi-este-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Elaborar una visión personal respecto de la influencia de la sociedad y la cultura actual en la experiencia y sensibilidad de los seres humanos, considerando diversas perspectivas filosóficas y utilizando diversas formas de expresión.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14082) · [Clase 2](#cl-14083) · [Clase 3](#cl-14084) · [Clase 4](#cl-14085)
 
 ### Clase 1 de 4: Problematizar una situación: Elaborar una visión personal respecto de la influencia de la sociedad y la cultura… {#cl-14082}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -244,6 +248,9 @@ Respuesta: ¿Cómo cambia lo que se percibe según el ritmo y la cantidad de est
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Última clase del OA anterior](fi-este-3y4-oac-06.md#cl-14081) · [Clase siguiente →](#cl-14083)
 
 ### Clase 2 de 4: Definir conceptos: Elaborar una visión personal respecto de la influencia de la sociedad y la cultura… {#cl-14083}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -450,6 +457,9 @@ Respuesta: La que sostiene que amplía el acceso y permite nuevas creaciones
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14082) · [Clase siguiente →](#cl-14084)
+
 ### Clase 3 de 4: Reconstruir una perspectiva: Elaborar una visión personal respecto de la influencia de la sociedad y la cultura… {#cl-14084}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -654,6 +664,9 @@ Respuesta: Educar la sensibilidad para elegir mejor
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14083) · [Clase siguiente →](#cl-14085)
+
 ### Clase 4 de 4: Formular y evaluar argumentos: Elaborar una visión personal respecto de la influencia de la sociedad y la cultura… {#cl-14085}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: Sí, si explica que la melodía abre otra experiencia y no que la pan
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14084)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Ciencias de la salud | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/ciencias-salud.md) · [← OA anterior (CN-CSAL-3y4-OAC-03)](cn-csal-3y4-oac-03.md) · [OA siguiente (CN-CSAL-3y4-OAC-05) →](cn-csal-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Investigar y comunicar la relación entre la calidad del aire, las aguas y los suelos con la salud humana, así como los mecanismos biológicos subyacentes.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13881) · [Clase 2](#cl-13882) · [Clase 3](#cl-13883) · [Clase 4](#cl-13884) · [Clase 5](#cl-13885)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Investigar y comunicar la relación entre la calidad del aire, las aguas y los suelos… {#cl-13881}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Riesgo muy bajo mientras no haya vía de exposición
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-csal-3y4-oac-03.md#cl-13880) · [Clase siguiente →](#cl-13882)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Investigar y comunicar la relación entre la calidad del aire, las aguas y los suelos… {#cl-13882}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: No se puede asegurar
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13881) · [Clase siguiente →](#cl-13883)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Investigar y comunicar la relación entre la calidad del aire, las aguas y los suelos… {#cl-13883}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: En los pulmones, en los alvéolos
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13882) · [Clase siguiente →](#cl-13884)
+
 ### Clase 4 de 5: Analizar evidencia: Investigar y comunicar la relación entre la calidad del aire, las aguas y los suelos… {#cl-13884}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Variable confusora
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13883) · [Clase siguiente →](#cl-13885)
+
 ### Clase 5 de 5: Comparar soluciones: Investigar y comunicar la relación entre la calidad del aire, las aguas y los suelos… {#cl-13885}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Mejorar el calefactor
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13884) · [Primera clase del OA siguiente →](cn-csal-3y4-oac-05.md#cl-13886)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

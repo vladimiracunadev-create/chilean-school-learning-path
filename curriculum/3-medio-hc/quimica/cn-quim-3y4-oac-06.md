@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Química | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/quimica.md) · [← OA anterior (CN-QUIM-3y4-OAC-05)](cn-quim-3y4-oac-05.md) · [OA siguiente (CN-QUIM-3y4-OAC-07) →](cn-quim-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Evaluar la contribución de la química y sus aplicaciones tecnológicas en el entendimiento, la prevención y mitigación de efectos derivados del cambio climático y la restauración de los sistemas naturales afectados.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13719) · [Clase 2](#cl-13720) · [Clase 3](#cl-13721) · [Clase 4](#cl-13722) · [Clase 5](#cl-13723)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Evaluar la contribución de la química y sus aplicaciones tecnológicas en el… {#cl-13719}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: 132 g de CO2
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-quim-3y4-oac-05.md#cl-13718) · [Clase siguiente →](#cl-13720)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Evaluar la contribución de la química y sus aplicaciones tecnológicas en el… {#cl-13720}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: La mezcla eléctrica
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13719) · [Clase siguiente →](#cl-13721)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Evaluar la contribución de la química y sus aplicaciones tecnológicas en el… {#cl-13721}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -659,6 +669,9 @@ Respuesta: 33 toneladas de CO2
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13720) · [Clase siguiente →](#cl-13722)
+
 ### Clase 4 de 5: Analizar evidencia: Evaluar la contribución de la química y sus aplicaciones tecnológicas en el… {#cl-13722}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -865,6 +878,9 @@ Respuesta: 250 toneladas
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13721) · [Clase siguiente →](#cl-13723)
+
 ### Clase 5 de 5: Comparar soluciones: Evaluar la contribución de la química y sus aplicaciones tecnológicas en el… {#cl-13723}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1070,6 +1086,9 @@ Respuesta: 6 puntos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13722) · [Primera clase del OA siguiente →](cn-quim-3y4-oac-07.md#cl-13724)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

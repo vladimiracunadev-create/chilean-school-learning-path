@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Biología celular y molecular | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-celular-molecular.md) · [← OA anterior (CN-BCMO-3y4-OAC-06)](cn-bcmo-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Analizar aplicaciones biotecnológicas en diversas áreas, como tratamientos para el cáncer, preservación y uso de células madre, y producción de organismos transgénicos, entre otros, y evaluar sus implicancias éticas, sociales y legales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13839) · [Clase 2](#cl-13840) · [Clase 3](#cl-13841) · [Clase 4](#cl-13842) · [Clase 5](#cl-13843)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Analizar aplicaciones biotecnológicas en diversas áreas, como tratamientos para el… {#cl-13839}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Dimensión ética
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-bcmo-3y4-oac-06.md#cl-13838) · [Clase siguiente →](#cl-13840)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Analizar aplicaciones biotecnológicas en diversas áreas, como tratamientos para el… {#cl-13840}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: No: aporta evidencia, pero no decide el tratamiento de cada persona
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13839) · [Clase siguiente →](#cl-13841)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Analizar aplicaciones biotecnológicas en diversas áreas, como tratamientos para el… {#cl-13841}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: 40 unidades
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13840) · [Clase siguiente →](#cl-13842)
+
 ### Clase 4 de 5: Analizar evidencia: Analizar aplicaciones biotecnológicas en diversas áreas, como tratamientos para el… {#cl-13842}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: No: son insuficientes para eso
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13841) · [Clase siguiente →](#cl-13843)
+
 ### Clase 5 de 5: Comparar soluciones: Analizar aplicaciones biotecnológicas en diversas áreas, como tratamientos para el… {#cl-13843}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: 50 tratadas y 25 beneficiadas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13842)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

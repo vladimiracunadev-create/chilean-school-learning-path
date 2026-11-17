@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Límites, derivadas e integrales | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/limites-derivadas-integrales.md) · [← OA anterior (MA-LIDI-3y4-OAC-04)](ma-lidi-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo la curva en contextos matemáticos, de las ciencias y de la vida diaria, en forma manuscrita y utilizando herramientas tecnológicas digitales, y evaluar la necesidad eventual de ajustar el modelo obtenido.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14367) · [Clase 2](#cl-14368) · [Clase 3](#cl-14369) · [Clase 4](#cl-14370) · [Clase 5](#cl-14371) · [Clase 6](#cl-14372)
 
 ### Clase 1 de 6: Precisar condiciones y objetos: Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo… {#cl-14367}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: El área es 50, es decir, ∫₀¹⁰ x dx = 50
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-lidi-3y4-oac-04.md#cl-14366) · [Clase siguiente →](#cl-14368)
+
 ### Clase 2 de 6: Representar de dos maneras: Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo… {#cl-14368}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: La suma derecha es 6, y el área real (triángulo 4,5) queda entre 3 
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14367) · [Clase siguiente →](#cl-14369)
 
 ### Clase 3 de 6: Desarrollar una estrategia: Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo… {#cl-14369}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: ∫₀² x dx = 2
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14368) · [Clase siguiente →](#cl-14370)
+
 ### Clase 4 de 6: Justificar relaciones: Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo… {#cl-14370}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: Sí, x³/3 es una antiderivada de x²
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14369) · [Clase siguiente →](#cl-14371)
 
 ### Clase 5 de 6: Comprobar y comparar: Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo… {#cl-14371}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1061,6 +1077,9 @@ Respuesta: La integral vale −2: toda la región está bajo el eje
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14370) · [Clase siguiente →](#cl-14372)
+
 ### Clase 6 de 6: Modelar o transferir con límites: Modelar situaciones o fenómenos que involucren el concepto de integral como área bajo… {#cl-14372}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1264,6 +1283,9 @@ Respuesta: Conviene ajustar el modelo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14371)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Taller de literatura | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/taller-literatura.md) · [← OA anterior (LL-TALI-3y4-OAC-01)](ll-tali-3y4-oac-01.md) · [OA siguiente (LL-TALI-3y4-OAC-03) →](ll-tali-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Producir textos pertenecientes a diversos géneros discursivos de la literatura que den cuenta de sus proyectos personales y creativos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13755) · [Clase 2](#cl-13756) · [Clase 3](#cl-13757) · [Clase 4](#cl-13758) · [Clase 5](#cl-13759)
 
 ### Clase 1 de 5: Situar corpus, género y propósito: Producir textos pertenecientes a diversos géneros discursivos de la literatura que den… {#cl-13755}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: El poema condensa una imagen; el drama pone voces en conflicto o conv
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Última clase del OA anterior](ll-tali-3y4-oac-01.md#cl-13754) · [Clase siguiente →](#cl-13756)
 
 ### Clase 2 de 5: Formular una lectura o problema: Producir textos pertenecientes a diversos géneros discursivos de la literatura que den… {#cl-13756}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -452,6 +459,9 @@ Respuesta: Mostrar el conflicto con diálogo, gestos y objetos
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13755) · [Clase siguiente →](#cl-13757)
+
 ### Clase 3 de 5: Analizar recursos y evidencia: Producir textos pertenecientes a diversos géneros discursivos de la literatura que den… {#cl-13757}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -656,6 +666,9 @@ Respuesta: Humaniza el piano y sugiere cuidado y despedida
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13756) · [Clase siguiente →](#cl-13758)
 
 ### Clase 4 de 5: Contrastar interpretaciones o discursos: Producir textos pertenecientes a diversos géneros discursivos de la literatura que den… {#cl-13758}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -864,6 +877,9 @@ Respuesta: Reemplazarlo por un detalle propio como la hora y un sonido
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13757) · [Clase siguiente →](#cl-13759)
+
 ### Clase 5 de 5: Planificar una respuesta para una audiencia: Producir textos pertenecientes a diversos géneros discursivos de la literatura que den… {#cl-13759}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1069,6 +1085,9 @@ Respuesta: Detecta lo que falta y se corrige
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13758) · [Primera clase del OA siguiente →](ll-tali-3y4-oac-03.md#cl-13760)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

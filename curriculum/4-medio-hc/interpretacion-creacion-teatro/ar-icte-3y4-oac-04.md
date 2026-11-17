@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [← OA anterior (AR-ICTE-3y4-OAC-03)](ar-icte-3y4-oac-03.md) · [OA siguiente (AR-ICTE-3y4-OAC-05) →](ar-icte-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos teatrales para públicos específicos, para comunicar propósitos, aspectos del proceso y resultados de sus creaciones e interpretaciones teatrales, empleando diversidad de medios, recursos y tecnologías tradicionales y emergentes.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14298) · [Clase 2](#cl-14299) · [Clase 3](#cl-14300) · [Clase 4](#cl-14301) · [Clase 5](#cl-14302) · [Clase 6](#cl-14303)
 
 ### Clase 1 de 6: Explorar cuerpo, gesto y voz: Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos… {#cl-14298}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -244,6 +248,9 @@ Respuesta: Duración más breve y participación desde el asiento, con el mismo 
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Última clase del OA anterior](ar-icte-3y4-oac-03.md#cl-14297) · [Clase siguiente →](#cl-14299)
 
 ### Clase 2 de 6: Construir situación y personaje: Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos… {#cl-14299}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -450,6 +457,9 @@ Respuesta: El día 19
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14298) · [Clase siguiente →](#cl-14300)
+
 ### Clase 3 de 6: Ensayar decisiones escénicas: Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos… {#cl-14300}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -653,6 +663,9 @@ Respuesta: Mover el cable fuera de la zona de paso o cubrirlo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14299) · [Clase siguiente →](#cl-14301)
 
 ### Clase 4 de 6: Interpretar propósito y contexto: Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos… {#cl-14301}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -858,6 +871,9 @@ Respuesta: Aviso breve y sobrio en el programa
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14300) · [Clase siguiente →](#cl-14302)
+
 ### Clase 5 de 6: Evaluar y revisar: Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos… {#cl-14302}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1062,6 +1078,9 @@ Respuesta: El cable cruzado en el pasillo
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14301) · [Clase siguiente →](#cl-14303)
+
 ### Clase 6 de 6: Presentar o difundir con consentimiento: Diseñar y gestionar, personal o colectivamente, montajes de obras y proyectos… {#cl-14303}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1265,6 +1284,9 @@ Respuesta: Retirar la foto o pedir consentimiento de la persona y de su apoderad
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14302) · [Primera clase del OA siguiente →](ar-icte-3y4-oac-05.md#cl-14304)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

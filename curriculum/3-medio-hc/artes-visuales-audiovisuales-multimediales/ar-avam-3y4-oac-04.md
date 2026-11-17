@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Artes visuales, audiovisuales y multimediales | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/artes-visuales-audiovisuales-multimediales.md) · [← OA anterior (AR-AVAM-3y4-OAC-03)](ar-avam-3y4-oac-03.md) · [OA siguiente (AR-AVAM-3y4-OAC-05) →](ar-avam-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Analizar estéticamente obras visuales, audiovisuales y multimediales de diferentes épocas y procedencias, relacionando tratamiento de los lenguajes artísticos, elementos simbólicos y contextos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13012) · [Clase 2](#cl-13013) · [Clase 3](#cl-13014) · [Clase 4](#cl-13015) · [Clase 5](#cl-13016)
 
 ### Clase 1 de 5: Observar referentes y propósito: Analizar estéticamente obras visuales, audiovisuales y multimediales de diferentes… {#cl-13012}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Fondo azul oscuro, escalera blanca en diagonal, figura amarilla peque
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-avam-3y4-oac-03.md#cl-13011) · [Clase siguiente →](#cl-13013)
+
 ### Clase 2 de 5: Explorar soportes y procedimientos: Analizar estéticamente obras visuales, audiovisuales y multimediales de diferentes… {#cl-13013}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: 12 segundos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13012) · [Clase siguiente →](#cl-13014)
+
 ### Clase 3 de 5: Tomar una decisión visual: Analizar estéticamente obras visuales, audiovisuales y multimediales de diferentes… {#cl-13014}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -654,6 +664,9 @@ Respuesta: La luz cálida y el camino al fondo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13013) · [Clase siguiente →](#cl-13015)
 
 ### Clase 4 de 5: Desarrollar una propuesta propia: Analizar estéticamente obras visuales, audiovisuales y multimediales de diferentes… {#cl-13015}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -859,6 +872,9 @@ Respuesta: Comete anacronismo: exige a un cartel de calle algo que no era parte 
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13014) · [Clase siguiente →](#cl-13016)
+
 ### Clase 5 de 5: Criticar y revisar con criterios: Analizar estéticamente obras visuales, audiovisuales y multimediales de diferentes… {#cl-13016}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1062,6 +1078,9 @@ Respuesta: No explica qué comunica ni usa evidencia
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13015) · [Primera clase del OA siguiente →](ar-avam-3y4-oac-05.md#cl-13017)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

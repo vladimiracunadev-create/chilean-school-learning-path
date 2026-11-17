@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Taller de literatura | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/taller-literatura.md) · [OA siguiente (LL-TALI-3y4-OAC-02) →](ll-tali-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Producir diversos géneros escritos y audiovisuales para desarrollar y comunicar sus interpretaciones de las obras leídas.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13750) · [Clase 2](#cl-13751) · [Clase 3](#cl-13752) · [Clase 4](#cl-13753) · [Clase 5](#cl-13754)
 
 ### Clase 1 de 5: Situar corpus, género y propósito: Producir diversos géneros escritos y audiovisuales para desarrollar y comunicar sus… {#cl-13750}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Una interpretación explícita y un pasaje de evidencia
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[Clase siguiente →](#cl-13751)
+
 ### Clase 2 de 5: Formular una lectura o problema: Producir diversos géneros escritos y audiovisuales para desarrollar y comunicar sus… {#cl-13751}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -453,6 +460,9 @@ Respuesta: No: el texto la contradice; hay que ajustarla
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13750) · [Clase siguiente →](#cl-13752)
+
 ### Clase 3 de 5: Analizar recursos y evidencia: Producir diversos géneros escritos y audiovisuales para desarrollar y comunicar sus… {#cl-13752}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -657,6 +667,9 @@ Respuesta: Comparación; hace que el golpe suene a pregunta sin respuesta
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13751) · [Clase siguiente →](#cl-13753)
 
 ### Clase 4 de 5: Contrastar interpretaciones o discursos: Producir diversos géneros escritos y audiovisuales para desarrollar y comunicar sus… {#cl-13753}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -864,6 +877,9 @@ Respuesta: Descartarla: agrega un hecho sin evidencia
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13752) · [Clase siguiente →](#cl-13754)
+
 ### Clase 5 de 5: Planificar una respuesta para una audiencia: Producir diversos géneros escritos y audiovisuales para desarrollar y comunicar sus… {#cl-13754}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1068,6 +1084,9 @@ Respuesta: Aporta el motivo del gesto y se mantiene
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13753) · [Primera clase del OA siguiente →](ll-tali-3y4-oac-02.md#cl-13755)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

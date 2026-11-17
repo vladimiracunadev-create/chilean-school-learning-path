@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-musical.md) · [← OA anterior (AR-IMUS-3y4-OAC-06)](ar-imus-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Relacionar, a partir de investigaciones, las habilidades y conocimientos de la asignatura con diferentes contextos laborales, profesionales y de desarrollo personal.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13461) · [Clase 2](#cl-13462) · [Clase 3](#cl-13463) · [Clase 4](#cl-13464)
 
 ### Clase 1 de 4: Escuchar y reconocer rasgos: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13461}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Registrar un proceso; evidencia: bitácora semanal; contexto: enseña
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-imus-3y4-oac-06.md#cl-13460) · [Clase siguiente →](#cl-13462)
+
 ### Clase 2 de 4: Explorar recursos de producción: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13462}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: La entrevista, porque es una fuente primaria
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13461) · [Clase siguiente →](#cl-13463)
 
 ### Clase 3 de 4: Ensayar una decisión musical: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13463}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Exponer un proyecto, enseñar o producir un evento
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13462) · [Clase siguiente →](#cl-13464)
+
 ### Clase 4 de 4: Interpretar, crear o analizar: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13464}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Pedir permiso y, si no acepta, no incluirla
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13463)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

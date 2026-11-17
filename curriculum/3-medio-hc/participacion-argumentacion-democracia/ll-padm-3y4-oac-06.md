@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Participación y argumentación en democracia | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/participacion-argumentacion-democracia.md) · [← OA anterior (LL-PADM-3y4-OAC-05)](ll-padm-3y4-oac-05.md) · [OA siguiente (LL-PADM-3y4-OAC-07) →](ll-padm-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad, enfocándose en los alcances que tienen en la comunidad, su pertinencia al tema analizado y al propósito perseguido, la legitimidad de las evidencias proporcionadas y las relaciones lógicas establecidas.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13615) · [Clase 2](#cl-13616) · [Clase 3](#cl-13617) · [Clase 4](#cl-13618) · [Clase 5](#cl-13619) · [Clase 6](#cl-13620)
 
 ### Clase 1 de 6: Precisar conceptos y derechos: Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad,… {#cl-13615}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: A quienes trabajan en el kiosco y a quienes compran otros productos
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](ll-padm-3y4-oac-05.md#cl-13614) · [Clase siguiente →](#cl-13616)
+
 ### Clase 2 de 6: Investigar un caso público: Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad,… {#cl-13616}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No relaciona la duración con los conflictos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13615) · [Clase siguiente →](#cl-13617)
 
 ### Clase 3 de 6: Contrastar perspectivas y evidencia: Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad,… {#cl-13617}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Volver a las razones de la propuesta
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13616) · [Clase siguiente →](#cl-13618)
+
 ### Clase 4 de 6: Deliberar con razones: Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad,… {#cl-13618}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Porque la emoción acompaña a una evidencia
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13617) · [Clase siguiente →](#cl-13619)
 
 ### Clase 5 de 6: Diseñar una acción democrática: Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad,… {#cl-13619}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: ¿Hay algún aviso oficial del municipio que lo respalde?
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13618) · [Clase siguiente →](#cl-13620)
+
 ### Clase 6 de 6: Evaluar efectos y límites: Evaluar críticamente argumentaciones surgidas en distintos ámbitos de la sociedad,… {#cl-13620}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Porque su alto alcance exige más escrutinio
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13619) · [Primera clase del OA siguiente →](ll-padm-3y4-oac-07.md#cl-13621)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

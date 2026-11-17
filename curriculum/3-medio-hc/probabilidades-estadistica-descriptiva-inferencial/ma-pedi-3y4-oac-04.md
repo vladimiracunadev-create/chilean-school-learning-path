@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Probabilidades y estadística descriptiva e inferencial | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/probabilidades-estadistica-descriptiva-inferencial.md) · [← OA anterior (MA-PEDI-3y4-OAC-03)](ma-pedi-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Argumentar inferencias acerca de parámetros (media y varianza) o características de una población, a partir de datos de una muestra aleatoria, bajo el supuesto de normalidad y aplicando procedimientos con base en intervalos de confianza o pruebas de hipótesis.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13664) · [Clase 2](#cl-13665) · [Clase 3](#cl-13666) · [Clase 4](#cl-13667) · [Clase 5](#cl-13668)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Argumentar inferencias acerca de parámetros (media y varianza) o características de… {#cl-13664}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: P(x̄ > 53) = 0,0668
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-pedi-3y4-oac-03.md#cl-13663) · [Clase siguiente →](#cl-13665)
+
 ### Clase 2 de 5: Representar de dos maneras: Argumentar inferencias acerca de parámetros (media y varianza) o características de… {#cl-13665}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: x̄ = 42 y E = 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13664) · [Clase siguiente →](#cl-13666)
 
 ### Clase 3 de 5: Desarrollar una estrategia: Argumentar inferencias acerca de parámetros (media y varianza) o características de… {#cl-13666}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: No se rechaza H0: los datos no dan evidencia suficiente en su contra
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13665) · [Clase siguiente →](#cl-13667)
+
 ### Clase 4 de 5: Justificar relaciones: Argumentar inferencias acerca de parámetros (media y varianza) o características de… {#cl-13667}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: p = 0,1336: no se rechaza H0
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13666) · [Clase siguiente →](#cl-13668)
+
 ### Clase 5 de 5: Comprobar y comparar: Argumentar inferencias acerca de parámetros (media y varianza) o características de… {#cl-13668}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: IC al 95 % para σ²: [4,106; 33,028]
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13667)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

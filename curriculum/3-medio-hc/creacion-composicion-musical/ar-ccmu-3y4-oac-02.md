@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Creación y composición musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/creacion-composicion-musical.md) · [← OA anterior (AR-CCMU-3y4-OAC-01)](ar-ccmu-3y4-oac-01.md) · [OA siguiente (AR-CCMU-3y4-OAC-03) →](ar-ccmu-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Crear obras musicales de diversos estilos y formatos, basados en la investigación con elementos del lenguaje musical, procedimientos compositivos, la experimentación con recursos de producción musical (voz, objetos sonoros, instrumentos musicales y tecnologías) y la investigación de referentes nacionales e internacionales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13167) · [Clase 2](#cl-13168) · [Clase 3](#cl-13169) · [Clase 4](#cl-13170) · [Clase 5](#cl-13171) · [Clase 6](#cl-13172)
 
 ### Clase 1 de 6: Escuchar y reconocer rasgos: Crear obras musicales de diversos estilos y formatos, basados en la investigación con… {#cl-13167}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Coro a voces, lento, compás de 4 pulsos, tres estrofas, notas largas
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-ccmu-3y4-oac-01.md#cl-13166) · [Clase siguiente →](#cl-13168)
+
 ### Clase 2 de 6: Explorar recursos de producción: Crear obras musicales de diversos estilos y formatos, basados en la investigación con… {#cl-13168}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 24 segundos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13167) · [Clase siguiente →](#cl-13169)
 
 ### Clase 3 de 6: Ensayar una decisión musical: Crear obras musicales de diversos estilos y formatos, basados en la investigación con… {#cl-13169}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: . . X . . . X .
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13168) · [Clase siguiente →](#cl-13170)
+
 ### Clase 4 de 6: Interpretar, crear o analizar: Crear obras musicales de diversos estilos y formatos, basados en la investigación con… {#cl-13170}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: ABA
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13169) · [Clase siguiente →](#cl-13171)
 
 ### Clase 5 de 6: Registrar y ajustar: Crear obras musicales de diversos estilos y formatos, basados en la investigación con… {#cl-13171}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Primero (a), los compases con pulsos incorrectos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13170) · [Clase siguiente →](#cl-13172)
+
 ### Clase 6 de 6: Evaluar, atribuir y difundir: Crear obras musicales de diversos estilos y formatos, basados en la investigación con… {#cl-13172}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Patrón inspirado en la idea general de «Luz», de Ana Rojas (ejempl
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13171) · [Primera clase del OA siguiente →](ar-ccmu-3y4-oac-03.md#cl-13173)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

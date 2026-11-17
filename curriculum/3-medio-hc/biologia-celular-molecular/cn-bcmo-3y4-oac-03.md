@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Biología celular y molecular | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-celular-molecular.md) · [← OA anterior (CN-BCMO-3y4-OAC-02)](cn-bcmo-3y4-oac-02.md) · [OA siguiente (CN-BCMO-3y4-OAC-04) →](cn-bcmo-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Analizar críticamente el significado biológico del dogma central de la biología molecular en relación con el flujo de la información genética en células desde el ADN al ARN y a las proteínas.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13041) · [Clase 2](#cl-13042) · [Clase 3](#cl-13043) · [Clase 4](#cl-13044) · [Clase 5](#cl-13045)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Analizar críticamente el significado biológico del dogma central de la biología… {#cl-13041}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: CTAAG
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-bcmo-3y4-oac-02.md#cl-13040) · [Clase siguiente →](#cl-13042)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Analizar críticamente el significado biológico del dogma central de la biología… {#cl-13042}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: UAC
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13041) · [Clase siguiente →](#cl-13043)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Analizar críticamente el significado biológico del dogma central de la biología… {#cl-13043}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Sin sentido; la proteína queda más corta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13042) · [Clase siguiente →](#cl-13044)
+
 ### Clase 4 de 5: Analizar evidencia: Analizar críticamente el significado biológico del dogma central de la biología… {#cl-13044}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: 8 moléculas, 2 con hebra original
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13043) · [Clase siguiente →](#cl-13045)
+
 ### Clase 5 de 5: Comparar soluciones: Analizar críticamente el significado biológico del dogma central de la biología… {#cl-13045}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Sí: no contradice a la versión 2
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13044) · [Primera clase del OA siguiente →](cn-bcmo-3y4-oac-04.md#cl-13046)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

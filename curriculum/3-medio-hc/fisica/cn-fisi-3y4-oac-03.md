@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Física | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/fisica.md) · [← OA anterior (CN-FISI-3y4-OAC-02)](cn-fisi-3y4-oac-02.md) · [OA siguiente (CN-FISI-3y4-OAC-04) →](cn-fisi-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Analizar el movimiento de cuerpos bajo la acción de una fuerza central en diversas situaciones cotidianas o fenómenos naturales, con base en conceptos y modelos de la mecánica clásica.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13360) · [Clase 2](#cl-13361) · [Clase 3](#cl-13362) · [Clase 4](#cl-13363) · [Clase 5](#cl-13364)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Analizar el movimiento de cuerpos bajo la acción de una fuerza central en diversas… {#cl-13360}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sigue en línea recta, tangente al círculo en P
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-fisi-3y4-oac-02.md#cl-13359) · [Clase siguiente →](#cl-13361)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Analizar el movimiento de cuerpos bajo la acción de una fuerza central en diversas… {#cl-13361}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: La fuerza se reduce a un tercio
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13360) · [Clase siguiente →](#cl-13362)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Analizar el movimiento de cuerpos bajo la acción de una fuerza central en diversas… {#cl-13362}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 30 N
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13361) · [Clase siguiente →](#cl-13363)
+
 ### Clase 4 de 5: Analizar evidencia: Analizar el movimiento de cuerpos bajo la acción de una fuerza central en diversas… {#cl-13363}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: T = 125 años
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13362) · [Clase siguiente →](#cl-13364)
+
 ### Clase 5 de 5: Comparar soluciones: Analizar el movimiento de cuerpos bajo la acción de una fuerza central en diversas… {#cl-13364}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: No cumple: el límite de 9 m/s es demasiado alto
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13363) · [Primera clase del OA siguiente →](cn-fisi-3y4-oac-04.md#cl-13365)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

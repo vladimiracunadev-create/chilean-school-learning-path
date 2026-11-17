@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Lectura y escritura especializadas | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/lectura-escritura-especializadas.md) · [← OA anterior (LL-LEES-3y4-OAC-01)](ll-lees-3y4-oac-01.md) · [OA siguiente (LL-LEES-3y4-OAC-03) →](ll-lees-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Participar de manera activa en procesos colaborativos de producción de textos especializados -como autor, lector, revisor- al interior de una comunidad de "pares especialistas" que leen, escriben y aprenden sobre un tema en particular.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13548) · [Clase 2](#cl-13549) · [Clase 3](#cl-13550) · [Clase 4](#cl-13551)
 
 ### Clase 1 de 4: Situar corpus, género y propósito: Participar de manera activa en procesos colaborativos de producción de textos… {#cl-13548}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -244,6 +248,9 @@ Respuesta: Se reescribe sobre el texto, con criterio y lugar
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Última clase del OA anterior](ll-lees-3y4-oac-01.md#cl-13547) · [Clase siguiente →](#cl-13549)
 
 ### Clase 2 de 4: Formular una lectura o problema: Participar de manera activa en procesos colaborativos de producción de textos… {#cl-13549}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -450,6 +457,9 @@ Respuesta: «Criterio organización: la conclusión aparece en el párrafo 2; co
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13548) · [Clase siguiente →](#cl-13550)
+
 ### Clase 3 de 4: Analizar recursos y evidencia: Participar de manera activa en procesos colaborativos de producción de textos… {#cl-13550}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -654,6 +664,9 @@ Respuesta: Aceptar parcialmente: pedir al revisor qué le preocupa y mejorar el 
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13549) · [Clase siguiente →](#cl-13551)
+
 ### Clase 4 de 4: Contrastar interpretaciones o discursos: Participar de manera activa en procesos colaborativos de producción de textos… {#cl-13551}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Se elige un único estilo de cita y todos lo aplican
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13550) · [Primera clase del OA siguiente →](ll-lees-3y4-oac-03.md#cl-13552)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

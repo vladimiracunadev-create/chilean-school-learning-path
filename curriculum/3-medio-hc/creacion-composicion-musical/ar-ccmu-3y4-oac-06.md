@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Creación y composición musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/creacion-composicion-musical.md) · [← OA anterior (AR-CCMU-3y4-OAC-05)](ar-ccmu-3y4-oac-05.md) · [OA siguiente (AR-CCMU-3y4-OAC-07) →](ar-ccmu-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Evaluar críticamente procesos y resultados de obras y proyectos musicales personales y de sus pares, considerando la relación entre propósitos expresivos o comunicativos, aspectos estéticos y decisiones tomadas durante el proceso.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13189) · [Clase 2](#cl-13190) · [Clase 3](#cl-13191) · [Clase 4](#cl-13192) · [Clase 5](#cl-13193)
 
 ### Clase 1 de 5: Escuchar y reconocer rasgos: Evaluar críticamente procesos y resultados de obras y proyectos musicales personales y… {#cl-13189}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 12 puntos; faltan 3
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-ccmu-3y4-oac-05.md#cl-13188) · [Clase siguiente →](#cl-13190)
+
 ### Clase 2 de 5: Explorar recursos de producción: Evaluar críticamente procesos y resultados de obras y proyectos musicales personales y… {#cl-13190}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 60 minutos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13189) · [Clase siguiente →](#cl-13191)
 
 ### Clase 3 de 5: Ensayar una decisión musical: Evaluar críticamente procesos y resultados de obras y proyectos musicales personales y… {#cl-13191}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 15 minutos más
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13190) · [Clase siguiente →](#cl-13192)
+
 ### Clase 4 de 5: Interpretar, crear o analizar: Evaluar críticamente procesos y resultados de obras y proyectos musicales personales y… {#cl-13192}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: 18 segundos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13191) · [Clase siguiente →](#cl-13193)
+
 ### Clase 5 de 5: Registrar y ajustar: Evaluar críticamente procesos y resultados de obras y proyectos musicales personales y… {#cl-13193}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: 35 minutos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13192) · [Primera clase del OA siguiente →](ar-ccmu-3y4-oac-07.md#cl-13194)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

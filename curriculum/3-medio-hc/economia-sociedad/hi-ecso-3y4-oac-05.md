@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [← OA anterior (HI-ECSO-3y4-OAC-04)](hi-ecso-3y4-oac-04.md) · [OA siguiente (HI-ECSO-3y4-OAC-06) →](hi-ecso-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Analizar críticamente las imperfecciones inherentes del mercado como monopolios, oligopolios, colusión, competencia monopolística y externalidades negativas considerando la dimensión ética y el rol del Estado como un ente regulador.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13252) · [Clase 2](#cl-13253) · [Clase 3](#cl-13254) · [Clase 4](#cl-13255) · [Clase 5](#cl-13256)
 
 ### Clase 1 de 5: Contextualizar actores, tiempo y espacio: Analizar críticamente las imperfecciones inherentes del mercado como monopolios,… {#cl-13252}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 30 unidades menos
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-ecso-3y4-oac-04.md#cl-13251) · [Clase siguiente →](#cl-13253)
+
 ### Clase 2 de 5: Interrogar fuentes e indicadores: Analizar críticamente las imperfecciones inherentes del mercado como monopolios,… {#cl-13253}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Oligopolio
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13252) · [Clase siguiente →](#cl-13254)
 
 ### Clase 3 de 5: Comparar causas y perspectivas: Analizar críticamente las imperfecciones inherentes del mercado como monopolios,… {#cl-13254}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Sí, es colusión
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13253) · [Clase siguiente →](#cl-13255)
+
 ### Clase 4 de 5: Explicar relaciones y consecuencias: Analizar críticamente las imperfecciones inherentes del mercado como monopolios,… {#cl-13255}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: $10.000 por lote
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13254) · [Clase siguiente →](#cl-13256)
+
 ### Clase 5 de 5: Evaluar alternativas: Analizar críticamente las imperfecciones inherentes del mercado como monopolios,… {#cl-13256}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Información insuficiente y posible captura
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13255) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-06.md#cl-13257)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación y creación en danza | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-danza.md) · [← OA anterior (AR-ICDA-3y4-OAC-05)](ar-icda-3y4-oac-05.md) · [OA siguiente (AR-ICDA-3y4-OAC-07) →](ar-icda-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Argumentar juicios estéticos de obras y manifestaciones de danza de diferentes épocas y procedencias, a partir de análisis estéticos y apreciaciones personales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13490) · [Clase 2](#cl-13491) · [Clase 3](#cl-13492) · [Clase 4](#cl-13493) · [Clase 5](#cl-13494)
 
 ### Clase 1 de 5: Explorar movimiento con conciencia: Argumentar juicios estéticos de obras y manifestaciones de danza de diferentes épocas… {#cl-13490}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Afirmación: la sección 3 es coherente; criterio: coherencia; eviden
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icda-3y4-oac-05.md#cl-13489) · [Clase siguiente →](#cl-13491)
+
 ### Clase 2 de 5: Combinar espacio, tiempo y energía: Argumentar juicios estéticos de obras y manifestaciones de danza de diferentes épocas… {#cl-13491}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Se agrega una evidencia concreta, como la espiral que cambia de senti
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13490) · [Clase siguiente →](#cl-13492)
 
 ### Clase 3 de 5: Componer una frase propia: Argumentar juicios estéticos de obras y manifestaciones de danza de diferentes épocas… {#cl-13492}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Improvisación
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13491) · [Clase siguiente →](#cl-13493)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Argumentar juicios estéticos de obras y manifestaciones de danza de diferentes épocas… {#cl-13493}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: El recurso es conocido, pero en esta obra se combina de una forma pro
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13492) · [Clase siguiente →](#cl-13494)
+
 ### Clase 5 de 5: Evaluar y revisar el proceso: Argumentar juicios estéticos de obras y manifestaciones de danza de diferentes épocas… {#cl-13494}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Observo que no citaron una evidencia; esto produce dudas; me pregunto
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13493) · [Primera clase del OA siguiente →](ar-icda-3y4-oac-07.md#cl-13495)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

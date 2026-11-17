@@ -142,3 +142,4 @@ main{width:min(1240px,calc(100% - 40px));margin:auto}.level-feature{display:grid
 .exercise-code{display:inline-block;min-width:2rem;margin-right:.4rem;font:800 .75rem ui-monospace,monospace;color:var(--coral)}
 .answer-key{margin-top:.9rem;padding:.7rem 1rem;border:1px dashed var(--teal);background:var(--surface)}
 .answer-key summary{cursor:pointer;font-weight:800}
+.class-nav{display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;margin:1.2rem 0 0;padding-top:.9rem;border-top:1px solid var(--line);font-size:.85rem;font-weight:700}.class-index{display:flex;flex-wrap:wrap;gap:.6rem 1rem;align-items:center;margin:0 0 1rem;padding:.8rem 1rem;border:1px solid var(--line);background:var(--surface);font-size:.85rem}.class-index span{display:flex;flex-wrap:wrap;gap:.6rem 1rem;margin-left:auto}

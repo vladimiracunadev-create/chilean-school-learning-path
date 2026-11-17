@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Filosofía política | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/filosofia-politica.md) · [OA siguiente (FI-FIPO-3y4-OAC-02) →](fi-fipo-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Formular preguntas e hipótesis acerca de un problema político a partir de la lectura de textos filosóficos fundamentales, considerando diversas perspectivas y métodos propios de la disciplina.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13323) · [Clase 2](#cl-13324) · [Clase 3](#cl-13325) · [Clase 4](#cl-13326)
 
 ### Clase 1 de 4: Problematizar una situación: Formular preguntas e hipótesis acerca de un problema político a partir de la lectura… {#cl-13323}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: «¿Es justo restringir de noche el uso de un espacio común para pro
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[Clase siguiente →](#cl-13324)
+
 ### Clase 2 de 4: Definir conceptos: Formular preguntas e hipótesis acerca de un problema político a partir de la lectura… {#cl-13324}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: Sí, tiene autoridad en el ámbito del club
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13323) · [Clase siguiente →](#cl-13325)
 
 ### Clase 3 de 4: Reconstruir una perspectiva: Formular preguntas e hipótesis acerca de un problema político a partir de la lectura… {#cl-13325}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -657,6 +667,9 @@ Respuesta: No: ataca a la persona y no la tesis
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13324) · [Clase siguiente →](#cl-13326)
+
 ### Clase 4 de 4: Formular y evaluar argumentos: Formular preguntas e hipótesis acerca de un problema político a partir de la lectura… {#cl-13326}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Un experimento mental
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13325) · [Primera clase del OA siguiente →](fi-fipo-3y4-oac-02.md#cl-13327)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

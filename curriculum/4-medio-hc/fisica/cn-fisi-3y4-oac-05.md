@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Física | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/fisica.md) · [← OA anterior (CN-FISI-3y4-OAC-04)](cn-fisi-3y4-oac-04.md) · [OA siguiente (CN-FISI-3y4-OAC-06) →](cn-fisi-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Investigar y aplicar conocimientos de la física (como mecánica de fluidos, electromagnetismo y termodinámica) para la comprensión de fenómenos y procesos que ocurren en sistemas naturales, tales como los océanos, el interior de la Tierra, la atmósfera, las aguas dulces y los suelos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14150) · [Clase 2](#cl-14151) · [Clase 3](#cl-14152) · [Clase 4](#cl-14153) · [Clase 5](#cl-14154) · [Clase 6](#cl-14155)
 
 ### Clase 1 de 6: Delimitar pregunta y sistema: Investigar y aplicar conocimientos de la física (como mecánica de fluidos,… {#cl-14150}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 400.000 Pa
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-fisi-3y4-oac-04.md#cl-14149) · [Clase siguiente →](#cl-14151)
+
 ### Clase 2 de 6: Evaluar fuentes y variables: Investigar y aplicar conocimientos de la física (como mecánica de fluidos,… {#cl-14151}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 80 %
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14150) · [Clase siguiente →](#cl-14152)
 
 ### Clase 3 de 6: Construir o interpretar un modelo: Investigar y aplicar conocimientos de la física (como mecánica de fluidos,… {#cl-14152}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Del mar hacia la tierra
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14151) · [Clase siguiente →](#cl-14153)
+
 ### Clase 4 de 6: Analizar evidencia: Investigar y aplicar conocimientos de la física (como mecánica de fluidos,… {#cl-14153}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: La capa es líquida
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14152) · [Clase siguiente →](#cl-14154)
 
 ### Clase 5 de 6: Comparar soluciones: Investigar y aplicar conocimientos de la física (como mecánica de fluidos,… {#cl-14154}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: 120.000 W
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14153) · [Clase siguiente →](#cl-14155)
+
 ### Clase 6 de 6: Comunicar límites y decisión: Investigar y aplicar conocimientos de la física (como mecánica de fluidos,… {#cl-14155}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: La mecánica de fluidos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14154) · [Primera clase del OA siguiente →](cn-fisi-3y4-oac-06.md#cl-14156)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

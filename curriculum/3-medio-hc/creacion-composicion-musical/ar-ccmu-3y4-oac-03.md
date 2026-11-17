@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Creación y composición musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/creacion-composicion-musical.md) · [← OA anterior (AR-CCMU-3y4-OAC-02)](ar-ccmu-3y4-oac-02.md) · [OA siguiente (AR-CCMU-3y4-OAC-04) →](ar-ccmu-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos para comunicar propósitos, aspectos del proceso y resultados de sus creaciones y composiciones musicales, empleando diversidad de medios, recursos y tecnologías tradicionales y emergentes.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13173) · [Clase 2](#cl-13174) · [Clase 3](#cl-13175) · [Clase 4](#cl-13176) · [Clase 5](#cl-13177) · [Clase 6](#cl-13178)
 
 ### Clase 1 de 6: Escuchar y reconocer rasgos: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-13173}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 3 piezas completas
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-ccmu-3y4-oac-02.md#cl-13172) · [Clase siguiente →](#cl-13174)
+
 ### Clase 2 de 6: Explorar recursos de producción: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-13174}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 1.200 pesos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13173) · [Clase siguiente →](#cl-13175)
 
 ### Clase 3 de 6: Ensayar una decisión musical: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-13175}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Alba, Camino, Fiesta
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13174) · [Clase siguiente →](#cl-13176)
+
 ### Clase 4 de 6: Interpretar, crear o analizar: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-13176}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Eva, flauta; Luis, percusión; Mario, presentador
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13175) · [Clase siguiente →](#cl-13177)
 
 ### Clase 5 de 6: Registrar y ajustar: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-13177}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Lee los títulos en voz alta
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13176) · [Clase siguiente →](#cl-13178)
+
 ### Clase 6 de 6: Evaluar, atribuir y difundir: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-13178}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: No publica con esa persona hasta que ella autorice
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13177) · [Primera clase del OA siguiente →](ar-ccmu-3y4-oac-04.md#cl-13179)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

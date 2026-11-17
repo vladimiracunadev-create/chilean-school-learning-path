@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Expresión corporal | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/expresion-corporal.md) · [← OA anterior (EF-EXCO-3y4-OAC-02)](ef-exco-3y4-oac-02.md) · [OA siguiente (EF-EXCO-3y4-OAC-04) →](ef-exco-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Utilizar las leyes del movimiento y las fuerzas externas, como tiempo, espacio, peso, flujo y energía, para crear a través de su corporalidad, diferentes posibilidades de movimiento.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13314) · [Clase 2](#cl-13315) · [Clase 3](#cl-13316) · [Clase 4](#cl-13317) · [Clase 5](#cl-13318)
 
 ### Clase 1 de 5: Explorar movimiento con conciencia: Utilizar las leyes del movimiento y las fuerzas externas, como tiempo, espacio, peso,… {#cl-13314}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Peso liviano
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ef-exco-3y4-oac-02.md#cl-13313) · [Clase siguiente →](#cl-13315)
+
 ### Clase 2 de 5: Combinar espacio, tiempo y energía: Utilizar las leyes del movimiento y las fuerzas externas, como tiempo, espacio, peso,… {#cl-13315}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: 4 combinaciones
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13314) · [Clase siguiente →](#cl-13316)
 
 ### Clase 3 de 5: Componer una frase propia: Utilizar las leyes del movimiento y las fuerzas externas, como tiempo, espacio, peso,… {#cl-13316}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: 12 tiempos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13315) · [Clase siguiente →](#cl-13317)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Utilizar las leyes del movimiento y las fuerzas externas, como tiempo, espacio, peso,… {#cl-13317}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: 6 personas
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13316) · [Clase siguiente →](#cl-13318)
+
 ### Clase 5 de 5: Evaluar y revisar el proceso: Utilizar las leyes del movimiento y las fuerzas externas, como tiempo, espacio, peso,… {#cl-13318}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Probablemente el cambio de tiempo empeora la lectura; conviene repeti
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13317) · [Primera clase del OA siguiente →](ef-exco-3y4-oac-04.md#cl-13319)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

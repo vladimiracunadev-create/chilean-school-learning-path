@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Biología de los ecosistemas | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-ecosistemas.md) · [← OA anterior (CN-BECO-3y4-OAC-03)](cn-beco-3y4-oac-03.md) · [OA siguiente (CN-BECO-3y4-OAC-05) →](cn-beco-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Investigar y comunicar cómo la sociedad, mediante la ciencia y la tecnología, puede prevenir, mitigar o reparar los efectos del cambio climático sobre los componentes y procesos biológicos de los sistemas naturales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13077) · [Clase 2](#cl-13078) · [Clase 3](#cl-13079) · [Clase 4](#cl-13080) · [Clase 5](#cl-13081)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Investigar y comunicar cómo la sociedad, mediante la ciencia y la tecnología, puede… {#cl-13077}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: La segunda pregunta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-beco-3y4-oac-03.md#cl-13076) · [Clase siguiente →](#cl-13078)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Investigar y comunicar cómo la sociedad, mediante la ciencia y la tecnología, puede… {#cl-13078}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: 60 %
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13077) · [Clase siguiente →](#cl-13079)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Investigar y comunicar cómo la sociedad, mediante la ciencia y la tecnología, puede… {#cl-13079}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: El supuesto falla
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13078) · [Clase siguiente →](#cl-13080)
+
 ### Clase 4 de 5: Analizar evidencia: Investigar y comunicar cómo la sociedad, mediante la ciencia y la tecnología, puede… {#cl-13080}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Sí, pero la recuperación es parcial
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13079) · [Clase siguiente →](#cl-13081)
 
 ### Clase 5 de 5: Comparar soluciones: Investigar y comunicar cómo la sociedad, mediante la ciencia y la tecnología, puede… {#cl-13081}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1062,6 +1078,9 @@ Respuesta: Que la decisión es frágil
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13080) · [Primera clase del OA siguiente →](cn-beco-3y4-oac-05.md#cl-13082)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

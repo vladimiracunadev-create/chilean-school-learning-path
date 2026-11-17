@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Estética | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/estetica.md) · [← OA anterior (FI-ESTE-3y4-OAC-03)](fi-este-3y4-oac-03.md) · [OA siguiente (FI-ESTE-3y4-OAC-05) →](fi-este-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Investigar relaciones entre el arte, la moral y la política, considerando el análisis de textos filosóficos y obras artísticas que aborden este problema.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13288) · [Clase 2](#cl-13289) · [Clase 3](#cl-13290) · [Clase 4](#cl-13291) · [Clase 5](#cl-13292)
 
 ### Clase 1 de 5: Problematizar una situación: Investigar relaciones entre el arte, la moral y la política, considerando el análisis… {#cl-13288}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: ¿Qué razones se han dado a favor y en contra de limitar obras que c
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-este-3y4-oac-03.md#cl-13287) · [Clase siguiente →](#cl-13289)
+
 ### Clase 2 de 5: Definir conceptos: Investigar relaciones entre el arte, la moral y la política, considerando el análisis… {#cl-13289}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Autonomismo
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13288) · [Clase siguiente →](#cl-13290)
+
 ### Clase 3 de 5: Reconstruir una perspectiva: Investigar relaciones entre el arte, la moral y la política, considerando el análisis… {#cl-13290}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -651,6 +661,9 @@ Respuesta: M: la obra misma; C: también lo que muestra o calla
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13289) · [Clase siguiente →](#cl-13291)
 
 ### Clase 4 de 5: Formular y evaluar argumentos: Investigar relaciones entre el arte, la moral y la política, considerando el análisis… {#cl-13291}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -856,6 +869,9 @@ Respuesta: Es poco pertinente porque no ofrece razones
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13290) · [Clase siguiente →](#cl-13292)
+
 ### Clase 5 de 5: Responder objeciones: Investigar relaciones entre el arte, la moral y la política, considerando el análisis… {#cl-13292}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1058,6 +1074,9 @@ Respuesta: Responder con crítica y debate al desacuerdo; admitir medidas solo a
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13291) · [Primera clase del OA siguiente →](fi-este-3y4-oac-05.md#cl-13293)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

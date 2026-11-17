@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Promoción de estilos de vida activos y saludables | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/promocion-estilos-vida-activos-saludables.md) · [← OA anterior (EF-PVAS-3y4-OAC-03)](ef-pvas-3y4-oac-03.md) · [OA siguiente (EF-PVAS-3y4-OAC-05) →](ef-pvas-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Evaluar el impacto que produce el ejercicio físico en la salud y el bienestar personal y social.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14461) · [Clase 2](#cl-14462) · [Clase 3](#cl-14463) · [Clase 4](#cl-14464) · [Clase 5](#cl-14465)
 
 ### Clase 1 de 5: Diagnosticar de forma privada y segura: Evaluar el impacto que produce el ejercicio físico en la salud y el bienestar personal… {#cl-14461}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: No se acepta; se usa un indicador como la energía de 1 a 5
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Última clase del OA anterior](ef-pvas-3y4-oac-03.md#cl-14460) · [Clase siguiente →](#cl-14462)
+
 ### Clase 2 de 5: Elegir una respuesta motriz: Evaluar el impacto que produce el ejercicio físico en la salud y el bienestar personal… {#cl-14462}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Observación del recreo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14461) · [Clase siguiente →](#cl-14463)
 
 ### Clase 3 de 5: Aplicar estrategia o plan: Evaluar el impacto que produce el ejercicio físico en la salud y el bienestar personal… {#cl-14463}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: 30 puntos porcentuales
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Clase anterior](#cl-14462) · [Clase siguiente →](#cl-14464)
+
 ### Clase 4 de 5: Registrar regulación y resultado: Evaluar el impacto que produce el ejercicio físico en la salud y el bienestar personal… {#cl-14464}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: 20 puntos porcentuales más; orienta pero no prueba
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Clase anterior](#cl-14463) · [Clase siguiente →](#cl-14465)
+
 ### Clase 5 de 5: Evaluar y ajustar: Evaluar el impacto que produce el ejercicio físico en la salud y el bienestar personal… {#cl-14465}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Con la barrera de 9 menciones
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14464) · [Primera clase del OA siguiente →](ef-pvas-3y4-oac-05.md#cl-14466)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Estética | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/estetica.md) · [← OA anterior (FI-ESTE-3y4-OAC-01)](fi-este-3y4-oac-01.md) · [OA siguiente (FI-ESTE-3y4-OAC-03) →](fi-este-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Evaluar posiciones de filósofos y escuelas de filosofía respecto de las principales cuestiones de la estética, contrastando sus métodos de razonamiento e implicancias en la vida cotidiana.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13278) · [Clase 2](#cl-13279) · [Clase 3](#cl-13280) · [Clase 4](#cl-13281) · [Clase 5](#cl-13282)
 
 ### Clase 1 de 5: Problematizar una situación: Evaluar posiciones de filósofos y escuelas de filosofía respecto de las principales… {#cl-13278}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Consultaría a personas con experiencia en arte, además de a la comu
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-este-3y4-oac-01.md#cl-13277) · [Clase siguiente →](#cl-13279)
+
 ### Clase 2 de 5: Definir conceptos: Evaluar posiciones de filósofos y escuelas de filosofía respecto de las principales… {#cl-13279}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Puede quedar lejos de los casos reales
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13278) · [Clase siguiente →](#cl-13280)
+
 ### Clase 3 de 5: Reconstruir una perspectiva: Evaluar posiciones de filósofos y escuelas de filosofía respecto de las principales… {#cl-13280}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -651,6 +661,9 @@ Respuesta: Propondría ver y comparar muchas obras con orientación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13279) · [Clase siguiente →](#cl-13281)
 
 ### Clase 4 de 5: Formular y evaluar argumentos: Evaluar posiciones de filósofos y escuelas de filosofía respecto de las principales… {#cl-13281}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -856,6 +869,9 @@ Respuesta: La Posición E no cumple del todo el criterio de poder explicativo po
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13280) · [Clase siguiente →](#cl-13282)
+
 ### Clase 5 de 5: Responder objeciones: Evaluar posiciones de filósofos y escuelas de filosofía respecto de las principales… {#cl-13282}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1058,6 +1074,9 @@ Respuesta: El gusto es personal, pero se pueden comparar las razones
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13281) · [Primera clase del OA siguiente →](fi-este-3y4-oac-03.md#cl-13283)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Promoción de estilos de vida activos y saludables | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/promocion-estilos-vida-activos-saludables.md) · [← OA anterior (EF-PVAS-3y4-OAC-05)](ef-pvas-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Diseñar y aplicar una variedad de acciones y estrategias, utilizando las posibilidades que ofrecen la tecnología y el entorno, para adquirir un estilo de vida activo saludable.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14470) · [Clase 2](#cl-14471) · [Clase 3](#cl-14472) · [Clase 4](#cl-14473) · [Clase 5](#cl-14474)
 
 ### Clase 1 de 5: Diagnosticar de forma privada y segura: Diseñar y aplicar una variedad de acciones y estrategias, utilizando las posibilidades… {#cl-14470}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: No publicar el recorrido ni la ubicación
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Última clase del OA anterior](ef-pvas-3y4-oac-05.md#cl-14469) · [Clase siguiente →](#cl-14471)
+
 ### Clase 2 de 5: Elegir una respuesta motriz: Diseñar y aplicar una variedad de acciones y estrategias, utilizando las posibilidades… {#cl-14471}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: No dice la intensidad ni la salud
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14470) · [Clase siguiente →](#cl-14472)
 
 ### Clase 3 de 5: Aplicar estrategia o plan: Diseñar y aplicar una variedad de acciones y estrategias, utilizando las posibilidades… {#cl-14472}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: No: se elige la ruta segura aunque sea más larga
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Clase anterior](#cl-14471) · [Clase siguiente →](#cl-14473)
+
 ### Clase 4 de 5: Registrar regulación y resultado: Diseñar y aplicar una variedad de acciones y estrategias, utilizando las posibilidades… {#cl-14473}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Se anotan los 45 minutos de bicicleta aparte
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Clase anterior](#cl-14472) · [Clase siguiente →](#cl-14474)
+
 ### Clase 5 de 5: Evaluar y ajustar: Diseñar y aplicar una variedad de acciones y estrategias, utilizando las posibilidades… {#cl-14474}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Mover el taller a un horario posible, como las 18:00
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14473)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

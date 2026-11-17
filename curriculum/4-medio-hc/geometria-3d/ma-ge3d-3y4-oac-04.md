@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Geometría 3D | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geometria-3d.md) · [← OA anterior (MA-GE3D-3y4-OAC-03)](ma-ge3d-3y4-oac-03.md) · [OA siguiente (MA-GE3D-3y4-OAC-05) →](ma-ge3d-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Formular y verificar conjeturas acerca de la forma, área y volumen de figuras 3D generadas por rotación o traslación de figuras planas en el espacio, incluyendo el uso de herramientas tecnológicas digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14201) · [Clase 2](#cl-14202) · [Clase 3](#cl-14203) · [Clase 4](#cl-14204)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Formular y verificar conjeturas acerca de la forma, área y volumen de figuras 3D… {#cl-14201}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 24 cm³, que coincide con área de la base por altura
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-ge3d-3y4-oac-03.md#cl-14200) · [Clase siguiente →](#cl-14202)
+
 ### Clase 2 de 4: Representar de dos maneras: Formular y verificar conjeturas acerca de la forma, área y volumen de figuras 3D… {#cl-14202}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Falso: 24π ≠ 72π, así que el eje importa
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14201) · [Clase siguiente →](#cl-14203)
 
 ### Clase 3 de 4: Desarrollar una estrategia: Formular y verificar conjeturas acerca de la forma, área y volumen de figuras 3D… {#cl-14203}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: La estimación 76π está cerca de 72π
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14202) · [Clase siguiente →](#cl-14204)
+
 ### Clase 4 de 4: Justificar relaciones: Formular y verificar conjeturas acerca de la forma, área y volumen de figuras 3D… {#cl-14204}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Falsa: el volumen se multiplica por 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14203) · [Primera clase del OA siguiente →](ma-ge3d-3y4-oac-05.md#cl-14205)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

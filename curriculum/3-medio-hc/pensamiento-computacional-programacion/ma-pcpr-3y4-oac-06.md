@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Pensamiento computacional y programación | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/pensamiento-computacional-programacion.md) · [← OA anterior (MA-PCPR-3y4-OAC-05)](ma-pcpr-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Utilizar la tecnología digital y la información personal y privada que esta contiene, de una forma creativa, respetuosa y responsable.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13647) · [Clase 2](#cl-13648) · [Clase 3](#cl-13649) · [Clase 4](#cl-13650)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Utilizar la tecnología digital y la información personal y privada que esta contiene,… {#cl-13647}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Nombre, curso y un medio de contacto
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-pcpr-3y4-oac-05.md#cl-13646) · [Clase siguiente →](#cl-13648)
+
 ### Clase 2 de 4: Representar de dos maneras: Utilizar la tecnología digital y la información personal y privada que esta contiene,… {#cl-13648}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: La de 6 dígitos tiene 100 veces más combinaciones
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13647) · [Clase siguiente →](#cl-13649)
 
 ### Clase 3 de 4: Desarrollar una estrategia: Utilizar la tecnología digital y la información personal y privada que esta contiene,… {#cl-13649}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Avisar de inmediato a una persona adulta responsable y cerrar el acce
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13648) · [Clase siguiente →](#cl-13650)
+
 ### Clase 4 de 4: Justificar relaciones: Utilizar la tecnología digital y la información personal y privada que esta contiene,… {#cl-13650}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Pedir el consentimiento de las personas que salen
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13649)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

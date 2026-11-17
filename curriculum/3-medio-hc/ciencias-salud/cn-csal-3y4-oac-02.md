@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Ciencias de la salud | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/ciencias-salud.md) · [← OA anterior (CN-CSAL-3y4-OAC-01)](cn-csal-3y4-oac-01.md) · [OA siguiente (CN-CSAL-3y4-OAC-03) →](cn-csal-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Explicar cómo la interacción entre genoma y ambiente determina patologías y condiciones de la salud humana.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13092) · [Clase 2](#cl-13093) · [Clase 3](#cl-13094) · [Clase 4](#cl-13095)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Explicar cómo la interacción entre genoma y ambiente determina patologías y… {#cl-13092}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -244,6 +248,9 @@ Respuesta: No: es multifactorial
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Última clase del OA anterior](cn-csal-3y4-oac-01.md#cl-13091) · [Clase siguiente →](#cl-13093)
 
 ### Clase 2 de 4: Evaluar fuentes y variables: Explicar cómo la interacción entre genoma y ambiente determina patologías y… {#cl-13093}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -451,6 +458,9 @@ Respuesta: Los genes aportan, pero no explican todo
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13092) · [Clase siguiente →](#cl-13094)
+
 ### Clase 3 de 4: Construir o interpretar un modelo: Explicar cómo la interacción entre genoma y ambiente determina patologías y… {#cl-13094}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -657,6 +667,9 @@ Respuesta: 25 %
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13093) · [Clase siguiente →](#cl-13095)
+
 ### Clase 4 de 4: Analizar evidencia: Explicar cómo la interacción entre genoma y ambiente determina patologías y… {#cl-13095}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Sí, hay interacción
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13094) · [Primera clase del OA siguiente →](cn-csal-3y4-oac-03.md#cl-13096)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Promoción de estilos de vida activos y saludables | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/promocion-estilos-vida-activos-saludables.md) · [← OA anterior (EF-PVAS-3y4-OAC-02)](ef-pvas-3y4-oac-02.md) · [OA siguiente (EF-PVAS-3y4-OAC-04) →](ef-pvas-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Implementar programas de entrenamiento para mejorar la condición física asociada a la salud (resistencia, fuerza, flexibilidad, composición corporal).
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14457) · [Clase 2](#cl-14458) · [Clase 3](#cl-14459) · [Clase 4](#cl-14460)
 
 ### Clase 1 de 4: Diagnosticar de forma privada y segura: Implementar programas de entrenamiento para mejorar la condición física asociada a la… {#cl-14457}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Es su línea de base de resistencia
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Última clase del OA anterior](ef-pvas-3y4-oac-02.md#cl-14456) · [Clase siguiente →](#cl-14458)
+
 ### Clase 2 de 4: Elegir una respuesta motriz: Implementar programas de entrenamiento para mejorar la condición física asociada a la… {#cl-14458}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Hasta 35 minutos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14457) · [Clase siguiente →](#cl-14459)
 
 ### Clase 3 de 4: Aplicar estrategia o plan: Implementar programas de entrenamiento para mejorar la condición física asociada a la… {#cl-14459}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: Cambiar a apoyos inclinados en la pared y avisar si continúa
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Clase anterior](#cl-14458) · [Clase siguiente →](#cl-14460)
+
 ### Clase 4 de 4: Registrar regulación y resultado: Implementar programas de entrenamiento para mejorar la condición física asociada a la… {#cl-14460}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Anotar el calor y repetir la prueba en condiciones parecidas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14459) · [Primera clase del OA siguiente →](ef-pvas-3y4-oac-04.md#cl-14461)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

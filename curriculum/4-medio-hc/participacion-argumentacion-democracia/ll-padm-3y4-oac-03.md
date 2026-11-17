@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Participación y argumentación en democracia | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/participacion-argumentacion-democracia.md) · [← OA anterior (LL-PADM-3y4-OAC-02)](ll-padm-3y4-oac-02.md) · [OA siguiente (LL-PADM-3y4-OAC-04) →](ll-padm-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos (investigación científica, autoridad, experiencia personal, entre otras), a partir del análisis crítico de sus modos de generación y su aceptabilidad, suficiencia y pertinencia al ámbito de participación, a la comunidad discursiva, al tema y a los propósitos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14381) · [Clase 2](#cl-14382) · [Clase 3](#cl-14383) · [Clase 4](#cl-14384) · [Clase 5](#cl-14385) · [Clase 6](#cl-14386)
 
 ### Clase 1 de 6: Precisar conceptos y derechos: Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos… {#cl-14381}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: No es suficiente: es un solo caso
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](ll-padm-3y4-oac-02.md#cl-14380) · [Clase siguiente →](#cl-14382)
+
 ### Clase 2 de 6: Investigar un caso público: Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos… {#cl-14382}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Tiene sesgo de selección y no abarca todo el liceo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14381) · [Clase siguiente →](#cl-14383)
 
 ### Clase 3 de 6: Contrastar perspectivas y evidencia: Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos… {#cl-14383}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Aporta una vivencia, pero no prueba el efecto del pavimento
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14382) · [Clase siguiente →](#cl-14384)
+
 ### Clase 4 de 6: Deliberar con razones: Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos… {#cl-14384}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Es pertinente al tema y propósito de la conversación familiar, no d
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14383) · [Clase siguiente →](#cl-14385)
 
 ### Clase 5 de 6: Diseñar una acción democrática: Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos… {#cl-14385}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Registro de conflictos antes y después, más entrevistas
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14384) · [Clase siguiente →](#cl-14386)
+
 ### Clase 6 de 6: Evaluar efectos y límites: Evaluar diversas formas en que se legitima el conocimiento contenido en los discursos… {#cl-14386}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Es correlación; no se puede afirmar causa
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14385) · [Primera clase del OA siguiente →](ll-padm-3y4-oac-04.md#cl-14387)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

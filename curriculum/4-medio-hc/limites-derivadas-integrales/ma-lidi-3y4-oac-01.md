@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Límites, derivadas e integrales | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/limites-derivadas-integrales.md) · [OA siguiente (MA-LIDI-3y4-OAC-02) →](ma-lidi-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Utilizar diversas formar de representación al argumentar acerca de la resultante de la composición de funciones y la existencia de la función inversa de una función dada.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14347) · [Clase 2](#cl-14348) · [Clase 3](#cl-14349) · [Clase 4](#cl-14350) · [Clase 5](#cl-14351)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Utilizar diversas formar de representación al argumentar acerca de la resultante de la… {#cl-14347}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: (p∘q)(x) = (x − 3)²
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[Clase siguiente →](#cl-14348)
+
 ### Clase 2 de 5: Representar de dos maneras: Utilizar diversas formar de representación al argumentar acerca de la resultante de la… {#cl-14348}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: (f∘g)(x) = 6x + 4, y ambas vías dan 16
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14347) · [Clase siguiente →](#cl-14349)
 
 ### Clase 3 de 5: Desarrollar una estrategia: Utilizar diversas formar de representación al argumentar acerca de la resultante de la… {#cl-14349}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: m = v∘u, con u(x) = x + 6 y v(t) = t³
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14348) · [Clase siguiente →](#cl-14350)
+
 ### Clase 4 de 5: Justificar relaciones: Utilizar diversas formar de representación al argumentar acerca de la resultante de la… {#cl-14350}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -858,6 +871,9 @@ Respuesta: m⁻¹(y) = (y + 8)/4
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14349) · [Clase siguiente →](#cl-14351)
+
 ### Clase 5 de 5: Comprobar y comparar: Utilizar diversas formar de representación al argumentar acerca de la resultante de la… {#cl-14351}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1061,6 +1077,9 @@ Respuesta: El punto (7, 2)
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14350) · [Primera clase del OA siguiente →](ma-lidi-3y4-oac-02.md#cl-14352)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Taller de literatura | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/taller-literatura.md) · [← OA anterior (LL-TALI-3y4-OAC-05)](ll-tali-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos y sobre diversas temáticas del mundo y del ser humano, surgidas de las interpretaciones de las obras leídas, de sus trayectorias de lectura personales y de los criterios de selección para estas.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14552) · [Clase 2](#cl-14553) · [Clase 3](#cl-14554) · [Clase 4](#cl-14555) · [Clase 5](#cl-14556) · [Clase 6](#cl-14557)
 
 ### Clase 1 de 6: Situar corpus, género y propósito: Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos… {#cl-14552}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Carta
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Última clase del OA anterior](ll-tali-3y4-oac-05.md#cl-14551) · [Clase siguiente →](#cl-14553)
+
 ### Clase 2 de 6: Formular una lectura o problema: Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos… {#cl-14553}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: Guardar es una forma de aplazar una despedida
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14552) · [Clase siguiente →](#cl-14554)
 
 ### Clase 3 de 6: Analizar recursos y evidencia: Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos… {#cl-14554}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -659,6 +669,9 @@ Respuesta: Un ejemplo general, sin nombre ni asunto íntimo
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14553) · [Clase siguiente →](#cl-14555)
+
 ### Clase 4 de 6: Contrastar interpretaciones o discursos: Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos… {#cl-14555}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -865,6 +878,9 @@ Respuesta: Se plantea la razón contraria y se responde con el pasaje
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14554) · [Clase siguiente →](#cl-14556)
+
 ### Clase 5 de 6: Planificar una respuesta para una audiencia: Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos… {#cl-14556}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1069,6 +1085,9 @@ Respuesta: No incluirlo en el mural
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14555) · [Clase siguiente →](#cl-14557)
 
 ### Clase 6 de 6: Producir, revisar y editar: Producir textos y otras producciones que den cuenta de sus reflexiones sobre sí mismos… {#cl-14557}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1278,6 +1297,9 @@ Respuesta: Algunas personas guardan cosas para no despedirse
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14556)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

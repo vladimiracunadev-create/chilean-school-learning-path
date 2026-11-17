@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-musical.md) · [← OA anterior (AR-IMUS-3y4-OAC-02)](ar-imus-3y4-oac-02.md) · [OA siguiente (AR-IMUS-3y4-OAC-04) →](ar-imus-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos, aspectos del proceso de interpretación y ejecución, y resultados de proyectos de interpretación musical, empleando diversidad de medios, recursos y tecnologías tradicionales y emergentes.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14220) · [Clase 2](#cl-14221) · [Clase 3](#cl-14222) · [Clase 4](#cl-14223) · [Clase 5](#cl-14224) · [Clase 6](#cl-14225)
 
 ### Clase 1 de 6: Escuchar y reconocer rasgos: Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos,… {#cl-14220}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sobran 2 minutos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-imus-3y4-oac-02.md#cl-14219) · [Clase siguiente →](#cl-14221)
+
 ### Clase 2 de 6: Explorar recursos de producción: Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos,… {#cl-14221}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Un programa impreso o anunciar el título en voz alta
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14220) · [Clase siguiente →](#cl-14222)
 
 ### Clase 3 de 6: Ensayar una decisión musical: Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos,… {#cl-14222}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: No cumple ninguna de las dos reglas
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14221) · [Clase siguiente →](#cl-14223)
+
 ### Clase 4 de 6: Interpretar, crear o analizar: Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos,… {#cl-14223}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Una persona tiene dos roles, repartidos con cuidado y anotados
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14222) · [Clase siguiente →](#cl-14224)
 
 ### Clase 5 de 6: Registrar y ajustar: Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos,… {#cl-14224}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Dejar las sillas listas antes del acto, sin cambiar otros elementos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14223) · [Clase siguiente →](#cl-14225)
+
 ### Clase 6 de 6: Evaluar, atribuir y difundir: Diseñar y gestionar presentaciones a públicos específicos para comunicar propósitos,… {#cl-14225}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Publicar solo con quienes aceptaron, sin incluir a quien dijo que no
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14224) · [Primera clase del OA siguiente →](ar-imus-3y4-oac-04.md#cl-14226)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

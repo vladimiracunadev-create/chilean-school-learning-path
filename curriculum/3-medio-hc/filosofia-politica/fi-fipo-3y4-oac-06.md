@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Filosofía política | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/filosofia-politica.md) · [← OA anterior (FI-FIPO-3y4-OAC-05)](fi-fipo-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Distinguir argumentos válidos o falaces, a fin de comparar razonamientos filosóficos relativos al poder y la política desde diversas corrientes de pensamiento filosófico y posicionarse de modo consistente frente a ellos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13346) · [Clase 2](#cl-13347) · [Clase 3](#cl-13348) · [Clase 4](#cl-13349)
 
 ### Clase 1 de 4: Problematizar una situación: Distinguir argumentos válidos o falaces, a fin de comparar razonamientos filosóficos… {#cl-13346}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: P1 y P2 apoyan la conclusión de que el reglamento no obliga con just
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-fipo-3y4-oac-05.md#cl-13345) · [Clase siguiente →](#cl-13347)
+
 ### Clase 2 de 4: Definir conceptos: Distinguir argumentos válidos o falaces, a fin de comparar razonamientos filosóficos… {#cl-13347}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Es inválido: un acuerdo puede hacerse público sin haberse firmado
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13346) · [Clase siguiente →](#cl-13348)
 
 ### Clase 3 de 4: Reconstruir una perspectiva: Distinguir argumentos válidos o falaces, a fin de comparar razonamientos filosóficos… {#cl-13348}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Porque la autoridad pertenece al tema y aporta una razón evaluable
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13347) · [Clase siguiente →](#cl-13349)
+
 ### Clase 4 de 4: Formular y evaluar argumentos: Distinguir argumentos válidos o falaces, a fin de comparar razonamientos filosóficos… {#cl-13349}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Es un doble estándar sin diferencia relevante
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13348)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

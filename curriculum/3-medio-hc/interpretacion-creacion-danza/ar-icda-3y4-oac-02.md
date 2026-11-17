@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación y creación en danza | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-danza.md) · [← OA anterior (AR-ICDA-3y4-OAC-01)](ar-icda-3y4-oac-01.md) · [OA siguiente (AR-ICDA-3y4-OAC-03) →](ar-icda-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Expresar sensaciones, emociones y temas de su interés, basados en diversas fuentes de inspiración (sonidos, músicas, relatos, imágenes, elementos culturales, entre otros) a través del cuerpo, el movimiento y recursos de la puesta en escena.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13470) · [Clase 2](#cl-13471) · [Clase 3](#cl-13472) · [Clase 4](#cl-13473)
 
 ### Clase 1 de 4: Explorar movimiento con conciencia: Expresar sensaciones, emociones y temas de su interés, basados en diversas fuentes de… {#cl-13470}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sensación: pecho apretado; emoción: curiosidad con miedo; tema: lo 
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icda-3y4-oac-01.md#cl-13469) · [Clase siguiente →](#cl-13471)
+
 ### Clase 2 de 4: Combinar espacio, tiempo y energía: Expresar sensaciones, emociones y temas de su interés, basados en diversas fuentes de… {#cl-13471}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 4 movimientos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13470) · [Clase siguiente →](#cl-13472)
 
 ### Clase 3 de 4: Componer una frase propia: Expresar sensaciones, emociones y temas de su interés, basados en diversas fuentes de… {#cl-13472}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 28 tiempos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13471) · [Clase siguiente →](#cl-13473)
+
 ### Clase 4 de 4: Interpretar propósito y contexto: Expresar sensaciones, emociones y temas de su interés, basados en diversas fuentes de… {#cl-13473}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: 6 personas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13472) · [Primera clase del OA siguiente →](ar-icda-3y4-oac-03.md#cl-13474)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Química | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/quimica.md) · [OA siguiente (CN-QUIM-3y4-OAC-02) →](cn-quim-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Evaluar el desarrollo del conocimiento científico y tecnológico en nanoquímica y química de polímeros, considerando sus aplicaciones y consecuencias en ámbitos tales como el ambiental, médico, agrícola e industrial.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13695) · [Clase 2](#cl-13696) · [Clase 3](#cl-13697) · [Clase 4](#cl-13698) · [Clase 5](#cl-13699)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Evaluar el desarrollo del conocimiento científico y tecnológico en nanoquímica y… {#cl-13695}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: 5.600 g/mol
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[Clase siguiente →](#cl-13696)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Evaluar el desarrollo del conocimiento científico y tecnológico en nanoquímica y… {#cl-13696}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: 40 puntos porcentuales
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13695) · [Clase siguiente →](#cl-13697)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Evaluar el desarrollo del conocimiento científico y tecnológico en nanoquímica y… {#cl-13697}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -659,6 +669,9 @@ Respuesta: 666 g/mol
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13696) · [Clase siguiente →](#cl-13698)
+
 ### Clase 4 de 5: Analizar evidencia: Evaluar el desarrollo del conocimiento científico y tecnológico en nanoquímica y… {#cl-13698}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -865,6 +878,9 @@ Respuesta: 7 gramos
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13697) · [Clase siguiente →](#cl-13699)
+
 ### Clase 5 de 5: Comparar soluciones: Evaluar el desarrollo del conocimiento científico y tecnológico en nanoquímica y… {#cl-13699}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1070,6 +1086,9 @@ Respuesta: Sube 6 puntos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13698) · [Primera clase del OA siguiente →](cn-quim-3y4-oac-02.md#cl-13700)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

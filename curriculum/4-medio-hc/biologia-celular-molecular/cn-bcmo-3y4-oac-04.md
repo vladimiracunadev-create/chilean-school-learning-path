@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Biología celular y molecular | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-celular-molecular.md) · [← OA anterior (CN-BCMO-3y4-OAC-03)](cn-bcmo-3y4-oac-03.md) · [OA siguiente (CN-BCMO-3y4-OAC-05) →](cn-bcmo-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Describir, sobre la base de evidencia, los mecanismos de regulación génica y explicar su relación con los procesos de diferenciación y proliferación celular en respuesta a estímulos ambientales, el envejecimiento y las enfermedades como el cáncer.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13826) · [Clase 2](#cl-13827) · [Clase 3](#cl-13828) · [Clase 4](#cl-13829)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Describir, sobre la base de evidencia, los mecanismos de regulación génica y explicar… {#cl-13826}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Sí, lo tiene pero no lo expresa
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-bcmo-3y4-oac-03.md#cl-13825) · [Clase siguiente →](#cl-13827)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Describir, sobre la base de evidencia, los mecanismos de regulación génica y explicar… {#cl-13827}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Condición 3 frente a condición 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13826) · [Clase siguiente →](#cl-13828)
 
 ### Clase 3 de 4: Construir o interpretar un modelo: Describir, sobre la base de evidencia, los mecanismos de regulación génica y explicar… {#cl-13828}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Una producción baja, cercana a la de 25 °C
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13827) · [Clase siguiente →](#cl-13829)
+
 ### Clase 4 de 4: Analizar evidencia: Describir, sobre la base de evidencia, los mecanismos de regulación génica y explicar… {#cl-13829}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: 20 %
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13828) · [Primera clase del OA siguiente →](cn-bcmo-3y4-oac-05.md#cl-13830)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

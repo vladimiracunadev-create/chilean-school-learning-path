@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Biología de los ecosistemas | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-ecosistemas.md) · [OA siguiente (CN-BECO-3y4-OAC-02) →](cn-beco-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Explicar el estado de la biodiversidad actual a partir de teorías y evidencias científicas sobre el origen de la vida, la evolución y la intervención humana.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13844) · [Clase 2](#cl-13845) · [Clase 3](#cl-13846) · [Clase 4](#cl-13847)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Explicar el estado de la biodiversidad actual a partir de teorías y evidencias… {#cl-13844}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: La segunda pregunta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[Clase siguiente →](#cl-13845)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Explicar el estado de la biodiversidad actual a partir de teorías y evidencias… {#cl-13845}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -453,6 +460,9 @@ Respuesta: La especie M
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13844) · [Clase siguiente →](#cl-13846)
+
 ### Clase 3 de 4: Construir o interpretar un modelo: Explicar el estado de la biodiversidad actual a partir de teorías y evidencias… {#cl-13846}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -658,6 +668,9 @@ Respuesta: Aumenta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13845) · [Clase siguiente →](#cl-13847)
+
 ### Clase 4 de 4: Analizar evidencia: Explicar el estado de la biodiversidad actual a partir de teorías y evidencias… {#cl-13847}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -862,6 +875,9 @@ Respuesta: No, con esos datos no se puede culpar solo al camino
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13846) · [Primera clase del OA siguiente →](cn-beco-3y4-oac-02.md#cl-13848)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

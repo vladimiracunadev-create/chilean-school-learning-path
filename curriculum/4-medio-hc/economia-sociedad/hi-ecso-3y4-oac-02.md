@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [← OA anterior (HI-ECSO-3y4-OAC-01)](hi-ecso-3y4-oac-01.md) · [OA siguiente (HI-ECSO-3y4-OAC-03) →](hi-ecso-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Analizar críticamente la manera en que los economistas estudian la toma de decisiones de los agentes, considerando incentivos, escasez, costos y beneficios marginales y sociales y los aportes de la economía del comportamiento.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14016) · [Clase 2](#cl-14017) · [Clase 3](#cl-14018) · [Clase 4](#cl-14019) · [Clase 5](#cl-14020)
 
 ### Clase 1 de 5: Contextualizar actores, tiempo y espacio: Analizar críticamente la manera en que los economistas estudian la toma de decisiones… {#cl-14016}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Un incentivo perverso: premia llamadas, no ventas
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-ecso-3y4-oac-01.md#cl-14015) · [Clase siguiente →](#cl-14017)
+
 ### Clase 2 de 5: Interrogar fuentes e indicadores: Analizar críticamente la manera en que los economistas estudian la toma de decisiones… {#cl-14017}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Dos tandas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14016) · [Clase siguiente →](#cl-14018)
 
 ### Clase 3 de 5: Comparar causas y perspectivas: Analizar críticamente la manera en que los economistas estudian la toma de decisiones… {#cl-14018}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Conviene al taller, pero no a la sociedad
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14017) · [Clase siguiente →](#cl-14019)
+
 ### Clase 4 de 5: Explicar relaciones y consecuencias: Analizar críticamente la manera en que los economistas estudian la toma de decisiones… {#cl-14019}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Un empujón (nudge)
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14018) · [Clase siguiente →](#cl-14020)
+
 ### Clase 5 de 5: Evaluar alternativas: Analizar críticamente la manera en que los economistas estudian la toma de decisiones… {#cl-14020}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Replicabilidad: puede no repetirse en otros barrios
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14019) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-03.md#cl-14021)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

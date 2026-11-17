@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Diseño y arquitectura | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/diseno-arquitectura.md) · [← OA anterior (AR-DARQ-3y4-OAC-03)](ar-darq-3y4-oac-03.md) · [OA siguiente (AR-DARQ-3y4-OAC-05) →](ar-darq-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Analizar estéticamente piezas de diseño y obras de arquitectura de diferentes épocas y procedencias, relacionando materialidades, tratamiento de los lenguajes artísticos, elementos simbólicos, contextos y funcionalidad.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13992) · [Clase 2](#cl-13993) · [Clase 3](#cl-13994) · [Clase 4](#cl-13995) · [Clase 5](#cl-13996)
 
 ### Clase 1 de 5: Observar referentes y propósito: Analizar estéticamente piezas de diseño y obras de arquitectura de diferentes épocas y… {#cl-13992}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 36 m
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-darq-3y4-oac-03.md#cl-13991) · [Clase siguiente →](#cl-13993)
+
 ### Clase 2 de 5: Explorar soportes y procedimientos: Analizar estéticamente piezas de diseño y obras de arquitectura de diferentes épocas y… {#cl-13993}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: 30 m³
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13992) · [Clase siguiente →](#cl-13994)
 
 ### Clase 3 de 5: Tomar una decisión visual: Analizar estéticamente piezas de diseño y obras de arquitectura de diferentes épocas y… {#cl-13994}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: 72 cm
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13993) · [Clase siguiente →](#cl-13995)
+
 ### Clase 4 de 5: Desarrollar una propuesta propia: Analizar estéticamente piezas de diseño y obras de arquitectura de diferentes épocas y… {#cl-13995}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -858,6 +871,9 @@ Respuesta: Mejora el confort con aire renovado
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13994) · [Clase siguiente →](#cl-13996)
+
 ### Clase 5 de 5: Criticar y revisar con criterios: Analizar estéticamente piezas de diseño y obras de arquitectura de diferentes épocas y… {#cl-13996}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1061,6 +1077,9 @@ Respuesta: 24 m
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13995) · [Primera clase del OA siguiente →](ar-darq-3y4-oac-05.md#cl-13997)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

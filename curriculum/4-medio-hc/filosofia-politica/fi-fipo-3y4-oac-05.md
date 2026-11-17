@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Filosofía política | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/filosofia-politica.md) · [← OA anterior (FI-FIPO-3y4-OAC-04)](fi-fipo-3y4-oac-04.md) · [OA siguiente (FI-FIPO-3y4-OAC-06) →](fi-fipo-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Investigar problemas sociales relacionados con sus contextos y la desigualdad de género, considerando diversas perspectivas filosóficas, cuidando la rigurosidad argumentativa, proponiendo soluciones para su mejora y utilizando diferentes formas de expresión.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14121) · [Clase 2](#cl-14122) · [Clase 3](#cl-14123) · [Clase 4](#cl-14124) · [Clase 5](#cl-14125)
 
 ### Clase 1 de 5: Problematizar una situación: Investigar problemas sociales relacionados con sus contextos y la desigualdad de… {#cl-14121}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: ¿Qué factores influyen en que menos mujeres ocupen cargos de coordi
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-fipo-3y4-oac-04.md#cl-14120) · [Clase siguiente →](#cl-14122)
+
 ### Clase 2 de 5: Definir conceptos: Investigar problemas sociales relacionados con sus contextos y la desigualdad de… {#cl-14122}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Un estereotipo de género
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14121) · [Clase siguiente →](#cl-14123)
 
 ### Clase 3 de 5: Reconstruir una perspectiva: Investigar problemas sociales relacionados con sus contextos y la desigualdad de… {#cl-14123}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: ¿Hay evidencia de barreras o las personas eligieron libremente esas 
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14122) · [Clase siguiente →](#cl-14124)
+
 ### Clase 4 de 5: Formular y evaluar argumentos: Investigar problemas sociales relacionados con sus contextos y la desigualdad de… {#cl-14124}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: No lo prueba; hace falta evidencia sobre las causas
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14123) · [Clase siguiente →](#cl-14125)
+
 ### Clase 5 de 5: Responder objeciones: Investigar problemas sociales relacionados con sus contextos y la desigualdad de… {#cl-14125}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Igualdad de derechos no es lo mismo que igualdad de oportunidades rea
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14124) · [Primera clase del OA siguiente →](fi-fipo-3y4-oac-06.md#cl-14126)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

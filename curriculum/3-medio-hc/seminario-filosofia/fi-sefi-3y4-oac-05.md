@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Seminario de filosofía | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/seminario-filosofia.md) · [← OA anterior (FI-SEFI-3y4-OAC-04)](fi-sefi-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Formular una tesis filosófica con respecto a un problema relevante para su contexto, a partir de una investigación sobre diversas perspectivas filosóficas presentes en la historia de la filosofía.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13746) · [Clase 2](#cl-13747) · [Clase 3](#cl-13748) · [Clase 4](#cl-13749)
 
 ### Clase 1 de 4: Problematizar una situación: Formular una tesis filosófica con respecto a un problema relevante para su contexto, a… {#cl-13746}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Porque está delimitada, es relevante y es investigable
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-sefi-3y4-oac-04.md#cl-13745) · [Clase siguiente →](#cl-13747)
+
 ### Clase 2 de 4: Definir conceptos: Formular una tesis filosófica con respecto a un problema relevante para su contexto, a… {#cl-13747}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Las fuentes A y D
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13746) · [Clase siguiente →](#cl-13748)
 
 ### Clase 3 de 4: Reconstruir una perspectiva: Formular una tesis filosófica con respecto a un problema relevante para su contexto, a… {#cl-13748}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: En si todo valor del tiempo es instrumental o puede ser intrínseco
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13747) · [Clase siguiente →](#cl-13749)
+
 ### Clase 4 de 4: Formular y evaluar argumentos: Formular una tesis filosófica con respecto a un problema relevante para su contexto, a… {#cl-13749}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Porque es discutible, precisa, fundamentada y considera una objeción
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13748)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

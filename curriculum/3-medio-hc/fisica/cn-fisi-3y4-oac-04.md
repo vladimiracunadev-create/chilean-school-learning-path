@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Física | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/fisica.md) · [← OA anterior (CN-FISI-3y4-OAC-03)](cn-fisi-3y4-oac-03.md) · [OA siguiente (CN-FISI-3y4-OAC-05) →](cn-fisi-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Evaluar la contribución de la física moderna y sus teorías estructuradoras (como relatividad y mecánica cuántica) al debate sobre la naturaleza de la realidad, así como su impacto sobre la sociedad, la tecnología y los sistemas naturales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13365) · [Clase 2](#cl-13366) · [Clase 3](#cl-13367) · [Clase 4](#cl-13368) · [Clase 5](#cl-13369)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Evaluar la contribución de la física moderna y sus teorías estructuradoras (como… {#cl-13365}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: «¿Qué predice la relatividad especial sobre el tiempo medido por o
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-fisi-3y4-oac-03.md#cl-13364) · [Clase siguiente →](#cl-13366)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Evaluar la contribución de la física moderna y sus teorías estructuradoras (como… {#cl-13366}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 9 años
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13365) · [Clase siguiente →](#cl-13367)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Evaluar la contribución de la física moderna y sus teorías estructuradoras (como… {#cl-13367}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 4 eV
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13366) · [Clase siguiente →](#cl-13368)
+
 ### Clase 4 de 5: Analizar evidencia: Evaluar la contribución de la física moderna y sus teorías estructuradoras (como… {#cl-13368}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: 3.000 m
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13367) · [Clase siguiente →](#cl-13369)
+
 ### Clase 5 de 5: Comparar soluciones: Evaluar la contribución de la física moderna y sus teorías estructuradoras (como… {#cl-13369}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Mecánica clásica
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13368) · [Primera clase del OA siguiente →](cn-fisi-3y4-oac-05.md#cl-13370)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
