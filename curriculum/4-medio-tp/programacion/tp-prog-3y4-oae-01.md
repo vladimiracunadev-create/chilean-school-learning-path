@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14847) · [Clase 2](#cl-14848) · [Clase 3](#cl-14849) · [Clase 4](#cl-14850)
+**Clases de este OA:** [Clase 1](#cl-15063) · [Clase 2](#cl-15064) · [Clase 3](#cl-15065) · [Clase 4](#cl-15066)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-14847}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-15063}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras a través de situar el contexto laboral, la norma y el riesgo: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Nombre y teléfono
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-14848)
+[Clase siguiente →](#cl-15064)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-14848}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-15064}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras a través de reconocer conceptos, documentos y roles del oficio: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Luis
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14847) · [Clase siguiente →](#cl-14849)
+[← Clase anterior](#cl-15063) · [Clase siguiente →](#cl-15065)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-14849}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-15065}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras a través de analizar un caso de trabajo en papel: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: 2
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14848) · [Clase siguiente →](#cl-14850)
+[← Clase anterior](#cl-15064) · [Clase siguiente →](#cl-15066)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-14850}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras {#cl-15066}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras a través de aplicar un criterio técnico con datos de ejemplo: Desarrollar programas y rutinas de baja y mediana complejidad que involucren estructuras, con una experiencia disciplinar específica, segura y revisable.
@@ -878,7 +878,7 @@ Respuesta: Que sea un número y que no sea negativo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14849) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-02.md#cl-14851)
+[← Clase anterior](#cl-15065) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-02.md#cl-15067)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

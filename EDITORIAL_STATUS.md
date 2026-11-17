@@ -4,13 +4,13 @@ Fecha de corte: **2026-10-02**. Los conteos provienen de `curriculum/catalog.jso
 
 | Estado | Clases | Significado |
 |---|---:|---|
-| Inventariada | 14.927 | OA, nivel, asignatura, eje y fuente oficial identificados |
-| Secuenciada | 14.927 | posición, fase y duración propuestas dentro del OA |
+| Inventariada | 15.217 | OA, nivel, asignatura, eje y fuente oficial identificados |
+| Secuenciada | 15.217 | posición, fase y duración propuestas dentro del OA |
 | Borrador | 0 | no quedan borradores |
-| Desarrollada | 10.771 | contenido disciplinar específico validado contra el contrato estructural |
+| Desarrollada | 11.061 | contenido disciplinar específico validado contra el contrato estructural |
 | Integrada | 4.156 | habilidades o actitudes incorporadas dentro de las clases de contenido |
 | Revisada | 0 | control pedagógico, disciplinar, documental y técnico humano |
-| Publicada | 14.927 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
+| Publicada | 15.217 | Markdown y HTML accesibles, enlazados y verificados automáticamente |
 
 “Publicada” describe disponibilidad técnica; no sustituye “desarrollada” ni “revisada”. **Desde 1° básico hasta 4° medio, los doce niveles tienen desarrollo interno completo**. La revisión humana permanece separada y pendiente.
 
@@ -256,10 +256,14 @@ Los 165 OA son los mismos en 3° y 4° medio y cuentan en los dos niveles. Cada 
 |---|---|---|---:|---:|
 | Administración | Administración | bajo | 15 | 62 |
 | Administración | Contabilidad | bajo | 7 | 58 |
+| Gráfico | Dibujo Técnico | bajo | 9 | 82 |
+| Gráfico | Gráfica | bajo | 7 | 60 |
+| Hotelería y Turismo | Servicios de Hotelería | bajo | 9 | 82 |
+| Hotelería y Turismo | Servicios de Turismo | bajo | 7 | 66 |
 | Tecnología y Comunicaciones | Conectividad y Redes | bajo | 11 | 88 |
 | Tecnología y Comunicaciones | Programación | bajo | 10 | 80 |
 | Tecnología y Comunicaciones | Telecomunicaciones | bajo | 10 | 82 |
-| **Total** | **5 especialidades** | | **53** | **370** |
+| **Total** | **9 especialidades** | | **85** | **660** |
 
 Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación Diferenciada Técnico-Profesional (Decreto Supremo de Educación N.º 452/2013 según el propio documento, edición 2016; las bases no traen módulos). Las especialidades sin mención comparten cuaderno entre 3° y 4° medio; en las con menciones, el tronco va en 3° y las menciones en 4°. Cada especialidad tiene [guía propia](docs/formacion-tp/README.md). Solo conceptos y casos en papel: nada de taller, laboratorio ni práctica; en las especialidades de riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Revisión humana pendiente. Avance completo de la fase en [AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
 
@@ -267,10 +271,10 @@ Los objetivos son los perfiles de egreso de las Bases Curriculares de Formación
 ## Cobertura publicada
 
 - 12 niveles, desde 1° básico hasta 4° medio, más 27 electivos HC y especialidades técnico-profesionales de 3° y 4° medio.
-- 69 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC y 7 de formación técnico-profesional, contando las menciones como denominaciones propias).
-- 3.244 Objetivos de Aprendizaje.
+- 73 asignaturas o denominaciones curriculares (35 de formación general, 27 electivos HC y 11 de formación técnico-profesional, contando las menciones como denominaciones propias).
+- 3.308 Objetivos de Aprendizaje.
 - 595 vínculos de lectura asociados por MINEDUC.
-- 3.244 páginas HTML de OA con anclas estables para 14.927 registros pedagógicos: 10.771 clases y 4.156 experiencias integradas.
+- 3.308 páginas HTML de OA con anclas estables para 15.217 registros pedagógicos: 11.061 clases y 4.156 experiencias integradas.
 
 ## Próximo gate editorial
 

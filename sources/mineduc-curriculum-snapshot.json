@@ -28294,6 +28294,146 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Dibujo Técnico",
+      "subject_slug": "dibujo-tecnico",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-DITE-3y4-OAE-01",
+          "description": "Leer y utilizar información técnica consignada en manuales, planos, croquis, informes, instrucciones entregados por los usuarios, detectando errores y relevando los datos necesarios para desarrollar proyectos de dibujo técnico en general.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-02",
+          "description": "Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles, y croquis de piezas y conjuntos mecánicos, de acuerdo a la información técnica levantada y especificaciones del mandante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-03",
+          "description": "Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y urbanismo, en diferentes plantas, fachadas y secciones, con los niveles de detalle requeridos, conforme a las reglamentaciones vigentes, que permitan la elaboración de expedientes de obras municipales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-04",
+          "description": "Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de alcantarillado, agua potable, electricidad y gas de viviendas, según las normativas vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-05",
+          "description": "Dibujar en forma gráfica digital piezas, partes y objetos mecánicos, tales como elementos que conforman herramientas o ensamblan una máquina, detallando con claridad las características esenciales para su comprensión y fabricación, conforme a normas y criterios técnicos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-06",
+          "description": "Dibujar en forma gráfica digital planos de montaje industrial, así como los elementos que conforman proyectos estructurales de ingeniería de obras civiles en madera, hormigón, albañilerías y acero conforme a normativas, manuales y catálogos de fabricación estandarizados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-07",
+          "description": "Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, elementos, maquetas y detalles constructivos de proyectos arquitectónicos y de ingeniería de obras civiles, aplicando texturas, renderizados, iluminación y animación audiovisuales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-08",
+          "description": "Imprimir y reproducir las representaciones gráficas digitales elaboradas, definiendo los parámetros de los equipos de impresión y reproducción para garantizar reproducciones ajustadas a estándares de calidad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-09",
+          "description": "Cubicar manual y digitalmente, volúmenes, superficies, elementos, materiales, considerando diversos sistemas de medida, utilizando los programas computacionales apropiados a los requerimientos del proyecto.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Gráfica",
+      "subject_slug": "grafica",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GRAF-3y4-OAE-01",
+          "description": "Diagramar y editar imágenes y textos originales, utilizando software gráficos, verificando el cumplimiento de las exigencias del diseño y acorde a los requerimientos técnicos de los diversos procesos en las áreas gráficas establecidos en la orden de trabajo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-02",
+          "description": "Obtener una prueba de color, película, matriz de impresión e impreso digital, aplicando controles de calidad de acuerdo a normas vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-03",
+          "description": "Seleccionar y acondicionar las materias primas e insumos (tintas, tipo y tamaño de sustrato, entre otros) de acuerdo a la orden de trabajo, manuales técnicos del fabricante y estándares de calidad establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-04",
+          "description": "Regular máquinas de impresión (tipográficas, offset de pliego y bobinas, flexo- y serigráficas) de acuerdo a la orden de trabajo, manuales técnicos del fabricante, materias primas, insumos y estándares de calidad y seguridad establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-05",
+          "description": "Realizar la impresión del producto, controlando la calidad, limpieza y color, así como los ajustes de la máquina impresora y la salida del producto hasta obtener las condiciones exigidas en la orden de trabajo, según estándares establecidos y normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-06",
+          "description": "Realizar la postimpresión de los productos, operando máquinas de terminación y de corte de sustratos, procesando el material impreso para que cumpla con la orden de trabajo, con los estándares de calidad y las normas de seguridad requeridos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-07",
+          "description": "Realizar operaciones de mantenimiento básico, limpieza, lubricación y reemplazo de elementos fungibles, a diferentes tipos de máquinas o equipos de preimpresión, impresión y postimpresión, de acuerdo con los manuales de los fabricantes y las normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Programación",
       "subject_slug": "programacion",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28367,6 +28507,146 @@
         {
           "code": "TP-PROG-3y4-OAE-10",
           "description": "Instalar software de productividad y programas utilitarios en un equipo personal, de acuerdo a los requerimientos de los usuarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Servicios de Hotelería",
+      "subject_slug": "servicios-de-hoteleria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-SEHO-3y4-OAE-01",
+          "description": "Atender clientes de acuerdo a sus necesidades, deseos y demandas, aplicando técnicas de comunicación efectiva, interactuando en idioma inglés básico cuando fuese necesario, orientando e informando de manera clara y precisa sobre los servicios del establecimiento, cumpliendo estándares definidos de presentación y aseo personal.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-02",
+          "description": "Orientar e informar al turista sobre atractivos turísticos de la zona y su correspondiente normativa de conservación, seleccionando información relevante sobre aspectos históricos, culturales, geográficos, económicos, de contingencia, requerimientos sanitarios, disposiciones legales vigentes, según corresponda, de acuerdo a las necesidades, deseos y demandas del turista, respetando los protocolos existentes y utilizando técnicas de comunicación efectiva en español e inglés básico.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-03",
+          "description": "Realizar reservas, check in y check out20 de clientes, utilizando software de administración hotelera, de acuerdo a los protocolos e informando con claridad sobre los servicios, condiciones de pago, costos y otros aspectos, aplicando la normativa de protección al consumidor. 20 Referido a entrada y salida de la habitación de un servicio hotelero.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-04",
+          "description": "Supervisar las actividades de servicio de habitaciones, cuidando que se realicen de acuerdo a los procedimientos y estándares establecidos, y elaborar informes diarios de estado de habitaciones.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-05",
+          "description": "Atender el centro de negocios con amabilidad y discreción, en español e inglés básico, para responder a los requerimientos de clientes, utilizando los equipos y sistemas de comunicación, siguiendo los protocolos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-06",
+          "description": "Preparar el cierre de cuenta en los tiempos establecidos, notificando los cobros de cada servicio en las monedas que correspondan, utilizando documentación comercial y registrando toda la información requerida para cada transacción, de acuerdo a normativa tributaria y de protección al consumidor y haciendo uso de las TIC.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-07",
+          "description": "Organizar y realizar actividades de animación y recreativas, utilizando técnicas comunicativas y de la especialidad, recursos necesarios de acuerdo a las características y requerimientos de cada grupo de turistas, y aplicando normas de seguridad y prevención de riesgos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-08",
+          "description": "Realizar montaje de eventos y servicios, disponiendo los espacios, equipos, implementos y ornamentos de acuerdo a los objetivos y el programa del evento y orientaciones del cliente, y considerando normativa sanitaria, de seguridad y prevención de riesgos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-09",
+          "description": "Comunicarse en inglés básico con los turistas, atendiendo sus necesidades y requerimientos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Servicios de Turismo",
+      "subject_slug": "servicios-de-turismo",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-SETU-3y4-OAE-01",
+          "description": "Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional, ingresando los datos en sistemas digitales, de acuerdo a los requerimientos del turista, a la normativa legal y a los estándares de calidad vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-02",
+          "description": "Atender a los turistas de acuerdo a sus necesidades, deseos y demandas, aplicando un trato amable y técnicas de comunicación efectiva, interactuando en idioma inglés básico cuando fuese necesario, orientando e informando de manera clara y precisa sobre los servicios turísticos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-03",
+          "description": "Orientar e informar al turista sobre atractivos turísticos de la zona, seleccionando información relevante sobre aspectos históricos, culturales, geográficos, económicos, de contingencia, sociales, flora y fauna, de acuerdo a las necesidades, deseos y demandas del turista, a los requerimientos sanitarios, disposiciones legales vigentes, medidas de protección del ambiente y del patrimonio nacional según corresponda respetando los protocolos existentes y utilizando técnicas de comunicación efectiva en español e inglés.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-04",
+          "description": "Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, usando técnicas de comunicación efectiva en inglés o español, la tecnología, implementos y equipos de seguridad, de acuerdo al tipo de programa, con un trato respetuoso, amable y acorde a las características de cada grupo, aplicando normas de cuidado del medio ambiente, de seguridad y prevención de riesgos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-05",
+          "description": "Manejar situaciones imprevistas, tales como asistir al turista en caso de pérdidas o robo, enfermedad o accidente, extravío, descontrol conductual por motivos diversos, asegurando el cumplimiento de los protocolos establecidos, resguardando la seguridad individual y del grupo y utilizando técnicas de comunicación efectiva en inglés y español.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-06",
+          "description": "Elaborar propuestas de programas turísticos básicos, de acuerdo a los contextos locales, a los atractivos existentes y a las características de los turistas a quienes se orienta, e incorporando información relevante (costos, accesos, transportes, alojamientos, servicios de alimentación, actividades posibles de realizar, entre otros), considerando las normativas y regulaciones vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-07",
+          "description": "Comunicarse en inglés básico con los turistas, atendiendo sus necesidades y requerimientos.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -28707,6 +28987,146 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Dibujo Técnico",
+      "subject_slug": "dibujo-tecnico",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-DITE-3y4-OAE-01",
+          "description": "Leer y utilizar información técnica consignada en manuales, planos, croquis, informes, instrucciones entregados por los usuarios, detectando errores y relevando los datos necesarios para desarrollar proyectos de dibujo técnico en general.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-02",
+          "description": "Dibujar manualmente planos de levantamiento de arquitectura e ingeniería de obras civiles, y croquis de piezas y conjuntos mecánicos, de acuerdo a la información técnica levantada y especificaciones del mandante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-03",
+          "description": "Dibujar de manera gráfica digital los planos de proyectos arquitectónicos de viviendas y urbanismo, en diferentes plantas, fachadas y secciones, con los niveles de detalle requeridos, conforme a las reglamentaciones vigentes, que permitan la elaboración de expedientes de obras municipales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-04",
+          "description": "Dibujar en forma gráfica digital los proyectos de instalaciones de redes interiores de alcantarillado, agua potable, electricidad y gas de viviendas, según las normativas vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-05",
+          "description": "Dibujar en forma gráfica digital piezas, partes y objetos mecánicos, tales como elementos que conforman herramientas o ensamblan una máquina, detallando con claridad las características esenciales para su comprensión y fabricación, conforme a normas y criterios técnicos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-06",
+          "description": "Dibujar en forma gráfica digital planos de montaje industrial, así como los elementos que conforman proyectos estructurales de ingeniería de obras civiles en madera, hormigón, albañilerías y acero conforme a normativas, manuales y catálogos de fabricación estandarizados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-07",
+          "description": "Generar dibujos digitales en 3D que permitan la representación volumétrica de objetos, elementos, maquetas y detalles constructivos de proyectos arquitectónicos y de ingeniería de obras civiles, aplicando texturas, renderizados, iluminación y animación audiovisuales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-08",
+          "description": "Imprimir y reproducir las representaciones gráficas digitales elaboradas, definiendo los parámetros de los equipos de impresión y reproducción para garantizar reproducciones ajustadas a estándares de calidad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-DITE-3y4-OAE-09",
+          "description": "Cubicar manual y digitalmente, volúmenes, superficies, elementos, materiales, considerando diversos sistemas de medida, utilizando los programas computacionales apropiados a los requerimientos del proyecto.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Gráfica",
+      "subject_slug": "grafica",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-GRAF-3y4-OAE-01",
+          "description": "Diagramar y editar imágenes y textos originales, utilizando software gráficos, verificando el cumplimiento de las exigencias del diseño y acorde a los requerimientos técnicos de los diversos procesos en las áreas gráficas establecidos en la orden de trabajo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-02",
+          "description": "Obtener una prueba de color, película, matriz de impresión e impreso digital, aplicando controles de calidad de acuerdo a normas vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-03",
+          "description": "Seleccionar y acondicionar las materias primas e insumos (tintas, tipo y tamaño de sustrato, entre otros) de acuerdo a la orden de trabajo, manuales técnicos del fabricante y estándares de calidad establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-04",
+          "description": "Regular máquinas de impresión (tipográficas, offset de pliego y bobinas, flexo- y serigráficas) de acuerdo a la orden de trabajo, manuales técnicos del fabricante, materias primas, insumos y estándares de calidad y seguridad establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-05",
+          "description": "Realizar la impresión del producto, controlando la calidad, limpieza y color, así como los ajustes de la máquina impresora y la salida del producto hasta obtener las condiciones exigidas en la orden de trabajo, según estándares establecidos y normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-06",
+          "description": "Realizar la postimpresión de los productos, operando máquinas de terminación y de corte de sustratos, procesando el material impreso para que cumpla con la orden de trabajo, con los estándares de calidad y las normas de seguridad requeridos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-GRAF-3y4-OAE-07",
+          "description": "Realizar operaciones de mantenimiento básico, limpieza, lubricación y reemplazo de elementos fungibles, a diferentes tipos de máquinas o equipos de preimpresión, impresión y postimpresión, de acuerdo con los manuales de los fabricantes y las normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Programación",
       "subject_slug": "programacion",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28780,6 +29200,146 @@
         {
           "code": "TP-PROG-3y4-OAE-10",
           "description": "Instalar software de productividad y programas utilitarios en un equipo personal, de acuerdo a los requerimientos de los usuarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Servicios de Hotelería",
+      "subject_slug": "servicios-de-hoteleria",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-SEHO-3y4-OAE-01",
+          "description": "Atender clientes de acuerdo a sus necesidades, deseos y demandas, aplicando técnicas de comunicación efectiva, interactuando en idioma inglés básico cuando fuese necesario, orientando e informando de manera clara y precisa sobre los servicios del establecimiento, cumpliendo estándares definidos de presentación y aseo personal.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-02",
+          "description": "Orientar e informar al turista sobre atractivos turísticos de la zona y su correspondiente normativa de conservación, seleccionando información relevante sobre aspectos históricos, culturales, geográficos, económicos, de contingencia, requerimientos sanitarios, disposiciones legales vigentes, según corresponda, de acuerdo a las necesidades, deseos y demandas del turista, respetando los protocolos existentes y utilizando técnicas de comunicación efectiva en español e inglés básico.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-03",
+          "description": "Realizar reservas, check in y check out20 de clientes, utilizando software de administración hotelera, de acuerdo a los protocolos e informando con claridad sobre los servicios, condiciones de pago, costos y otros aspectos, aplicando la normativa de protección al consumidor. 20 Referido a entrada y salida de la habitación de un servicio hotelero.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-04",
+          "description": "Supervisar las actividades de servicio de habitaciones, cuidando que se realicen de acuerdo a los procedimientos y estándares establecidos, y elaborar informes diarios de estado de habitaciones.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-05",
+          "description": "Atender el centro de negocios con amabilidad y discreción, en español e inglés básico, para responder a los requerimientos de clientes, utilizando los equipos y sistemas de comunicación, siguiendo los protocolos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-06",
+          "description": "Preparar el cierre de cuenta en los tiempos establecidos, notificando los cobros de cada servicio en las monedas que correspondan, utilizando documentación comercial y registrando toda la información requerida para cada transacción, de acuerdo a normativa tributaria y de protección al consumidor y haciendo uso de las TIC.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-07",
+          "description": "Organizar y realizar actividades de animación y recreativas, utilizando técnicas comunicativas y de la especialidad, recursos necesarios de acuerdo a las características y requerimientos de cada grupo de turistas, y aplicando normas de seguridad y prevención de riesgos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-08",
+          "description": "Realizar montaje de eventos y servicios, disponiendo los espacios, equipos, implementos y ornamentos de acuerdo a los objetivos y el programa del evento y orientaciones del cliente, y considerando normativa sanitaria, de seguridad y prevención de riesgos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SEHO-3y4-OAE-09",
+          "description": "Comunicarse en inglés básico con los turistas, atendiendo sus necesidades y requerimientos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Servicios de Turismo",
+      "subject_slug": "servicios-de-turismo",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-SETU-3y4-OAE-01",
+          "description": "Tomar reservas de distintos tipos de servicios y programas turísticos a nivel nacional, ingresando los datos en sistemas digitales, de acuerdo a los requerimientos del turista, a la normativa legal y a los estándares de calidad vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-02",
+          "description": "Atender a los turistas de acuerdo a sus necesidades, deseos y demandas, aplicando un trato amable y técnicas de comunicación efectiva, interactuando en idioma inglés básico cuando fuese necesario, orientando e informando de manera clara y precisa sobre los servicios turísticos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-03",
+          "description": "Orientar e informar al turista sobre atractivos turísticos de la zona, seleccionando información relevante sobre aspectos históricos, culturales, geográficos, económicos, de contingencia, sociales, flora y fauna, de acuerdo a las necesidades, deseos y demandas del turista, a los requerimientos sanitarios, disposiciones legales vigentes, medidas de protección del ambiente y del patrimonio nacional según corresponda respetando los protocolos existentes y utilizando técnicas de comunicación efectiva en español e inglés.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-04",
+          "description": "Conducir grupos de turistas a través de las rutas establecidas y en distintos entornos, usando técnicas de comunicación efectiva en inglés o español, la tecnología, implementos y equipos de seguridad, de acuerdo al tipo de programa, con un trato respetuoso, amable y acorde a las características de cada grupo, aplicando normas de cuidado del medio ambiente, de seguridad y prevención de riesgos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-05",
+          "description": "Manejar situaciones imprevistas, tales como asistir al turista en caso de pérdidas o robo, enfermedad o accidente, extravío, descontrol conductual por motivos diversos, asegurando el cumplimiento de los protocolos establecidos, resguardando la seguridad individual y del grupo y utilizando técnicas de comunicación efectiva en inglés y español.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-06",
+          "description": "Elaborar propuestas de programas turísticos básicos, de acuerdo a los contextos locales, a los atractivos existentes y a las características de los turistas a quienes se orienta, e incorporando información relevante (costos, accesos, transportes, alojamientos, servicios de alimentación, actividades posibles de realizar, entre otros), considerando las normativas y regulaciones vigentes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-SETU-3y4-OAE-07",
+          "description": "Comunicarse en inglés básico con los turistas, atendiendo sus necesidades y requerimientos.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"

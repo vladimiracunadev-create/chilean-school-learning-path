@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14895) · [Clase 2](#cl-14896) · [Clase 3](#cl-14897) · [Clase 4](#cl-14898)
+**Clases de este OA:** [Clase 1](#cl-15185) · [Clase 2](#cl-15186) · [Clase 3](#cl-15187) · [Clase 4](#cl-15188)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-14895}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-15185}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y/o configurar sistemas operativos en computadores o servidores a través de situar el contexto laboral, la norma y el riesgo: Instalar y/o configurar sistemas operativos en computadores o servidores, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Datos personales
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-02.md#cl-14894) · [Clase siguiente →](#cl-14896)
+[← Última clase del OA anterior](tp-tele-3y4-oae-02.md#cl-15184) · [Clase siguiente →](#cl-15186)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-14896}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-15186}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y/o configurar sistemas operativos en computadores o servidores a través de reconocer conceptos, documentos y roles del oficio: Instalar y/o configurar sistemas operativos en computadores o servidores, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Conflicto de direcciones: una IP repetida
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14895) · [Clase siguiente →](#cl-14897)
+[← Clase anterior](#cl-15185) · [Clase siguiente →](#cl-15187)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-14897}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-15187}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y/o configurar sistemas operativos en computadores o servidores a través de analizar un caso de trabajo en papel: Instalar y/o configurar sistemas operativos en computadores o servidores, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Cortafuegos desactivado: riesgo de seguridad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14896) · [Clase siguiente →](#cl-14898)
+[← Clase anterior](#cl-15186) · [Clase siguiente →](#cl-15188)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-14898}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y/o configurar sistemas operativos en computadores o servidores {#cl-15188}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y/o configurar sistemas operativos en computadores o servidores a través de aplicar un criterio técnico con datos de ejemplo: Instalar y/o configurar sistemas operativos en computadores o servidores, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 6 direcciones
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14897) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-04.md#cl-14899)
+[← Clase anterior](#cl-15187) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-04.md#cl-15189)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -5,6 +5,14 @@
   "updates": [
     {
       "date": "2026-11-17",
+      "title": "Fase B (lote): sectores Gráfico (Dibujo Técnico y Gráfica) y Hotelería y Turismo (Servicios de Hotelería y Servicios de Turismo)",
+      "summary": [
+        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 15.217 registros (11.061 clases y 4.156 integradas) y 3.308 OA. Total TP publicado: 660 clases en 9 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
+        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
+      ]
+    },
+    {
+      "date": "2026-11-17",
       "title": "Fase B (lote): sector Tecnología y Comunicaciones (Programación, Conectividad y Redes y Telecomunicaciones)",
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.927 registros (10.521 clases y 4.156 integradas) y 3.244 OA. Total TP publicado: 370 clases en 5 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
@@ -17,18 +25,6 @@
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.677 registros (10.521 clases y 4.156 integradas) y 3.182 OA. Total TP publicado: 120 clases en 2 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
         "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Fase A: 27 electivos de 3° y 4° medio (Formación Diferenciada Humanístico-Científica)",
-      "summary": [
-        "Se incorporan al catálogo los 27 electivos humanístico-científicos de 3° y 4° medio del Currículum Nacional (consultados el 16-nov-2026; 4° medio ofrece los mismos 27 con los mismos OA «3y4»): 165 OA, que cuentan en los dos niveles, y 1.560 clases (780 por nivel). Cursos nuevos `3-medio-hc` y `4-medio-hc`, con cobertura `formacion-diferenciada-hc`. Catálogo: 14.557 registros (10.401 clases y 4.156 integradas) y 3.153 OA.",
-        "Las 1.560 clases tienen cuaderno del estudiante (explicación, ejemplos resueltos, 13 ejercicios cerrados en tramos 3/3/3/2/2, actividad abierta con rúbrica); como los OA son compartidos, hay 780 cuadernos únicos que sirven a ambos niveles. Se trabajó un electivo a la vez (máximo dos): un autor y luego un lector independiente (ambos asistidos por IA, no revisión profesional) que resolvió los ejercicios y corrigió en el mismo archivo; 28 enunciados idénticos entre asignaturas se desambiguaron.",
-        "Área por área: Matemática (4 electivos, 184 clases), Lengua y literatura (3, 168), Ciencias (5, 286), Historia (3, 186), Filosofía (3, 164), Artes (6, 428) y Educación física y salud (3, 144). Índice en [docs/electivos-hc/README.md](docs/electivos-hc/README.md) y seguimiento en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md).",
-        "Las herramientas de verificación reconocen los códigos de los electivos (por ejemplo MA-GE3D-3y4-OAC-01) y cuentan los OA compartidos en los dos niveles; las cifras fijas de validadores y pruebas se actualizaron.",
-        "Guías y navegación: cada electivo tiene su guía en `docs/electivos-hc/<asignatura>.md` (qué se aprende en cada clase, OA por OA, límites y fuentes) y el índice enlaza a esas guías. Las fichas y páginas de clase de los electivos traen índice de clases del OA, «Clase anterior» y «Clase siguiente», paso al OA vecino y enlace a la guía.",
-        "Siguen abiertos: sin audio, video, imágenes, laboratorio ni software reales (todo se describe por escrito); obras, textos y fuentes reales con derechos, a cargo del docente; los títulos de las clases son una derivación mecánica del OA y no unidades oficiales; ningún cuaderno tiene revisión profesional humana ni se contrastó con la web oficial más allá del texto de los OA; la lectura independiente de Geografía, territorio y desafíos socioambientales no fue del todo a ciegas (el lector vio las claves). Los contenidos para especialistas están en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md)."
       ]
     }
   ]

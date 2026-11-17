@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14904) · [Clase 2](#cl-14905) · [Clase 3](#cl-14906) · [Clase 4](#cl-14907)
+**Clases de este OA:** [Clase 1](#cl-15194) · [Clase 2](#cl-15195) · [Clase 3](#cl-15196) · [Clase 4](#cl-15197)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-14904}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-15194}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red de telefonía (tradicional o ip) en una organización a través de situar el contexto laboral, la norma y el riesgo: Instalar y configurar una red de telefonía (tradicional o IP) en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 3 llamadas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-04.md#cl-14903) · [Clase siguiente →](#cl-14905)
+[← Última clase del OA anterior](tp-tele-3y4-oae-04.md#cl-15193) · [Clase siguiente →](#cl-15195)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-14905}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-15195}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red de telefonía (tradicional o ip) en una organización a través de reconocer conceptos, documentos y roles del oficio: Instalar y configurar una red de telefonía (tradicional o IP) en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: El jitter
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14904) · [Clase siguiente →](#cl-14906)
+[← Clase anterior](#cl-15194) · [Clase siguiente →](#cl-15196)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-14906}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-15196}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red de telefonía (tradicional o ip) en una organización a través de analizar un caso de trabajo en papel: Instalar y configurar una red de telefonía (tradicional o IP) en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 2 llamadas sin troncal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14905) · [Clase siguiente →](#cl-14907)
+[← Clase anterior](#cl-15195) · [Clase siguiente →](#cl-15197)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-14907}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar y configurar una red de telefonía (tradicional o IP) en una organización {#cl-15197}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar y configurar una red de telefonía (tradicional o ip) en una organización a través de aplicar un criterio técnico con datos de ejemplo: Instalar y configurar una red de telefonía (tradicional o IP) en una organización, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 6 troncales
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14906) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-06.md#cl-14908)
+[← Clase anterior](#cl-15196) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-06.md#cl-15198)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

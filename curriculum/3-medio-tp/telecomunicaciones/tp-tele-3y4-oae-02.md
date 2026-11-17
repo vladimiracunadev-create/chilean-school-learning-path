@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14701) · [Clase 2](#cl-14702) · [Clase 3](#cl-14703) · [Clase 4](#cl-14704)
+**Clases de este OA:** [Clase 1](#cl-14846) · [Clase 2](#cl-14847) · [Clase 3](#cl-14848) · [Clase 4](#cl-14849)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14701}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14846}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y sistemas de telecomunicaciones de generación a través de situar el contexto laboral, la norma y el riesgo: Instalar equipos y sistemas de telecomunicaciones de generación, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Un repetidor o un amplificador
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-01.md#cl-14700) · [Clase siguiente →](#cl-14702)
+[← Última clase del OA anterior](tp-tele-3y4-oae-01.md#cl-14845) · [Clase siguiente →](#cl-14847)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14702}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14847}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y sistemas de telecomunicaciones de generación a través de reconocer conceptos, documentos y roles del oficio: Instalar equipos y sistemas de telecomunicaciones de generación, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 2.000 kHz
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14701) · [Clase siguiente →](#cl-14703)
+[← Clase anterior](#cl-14846) · [Clase siguiente →](#cl-14848)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14703}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14848}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y sistemas de telecomunicaciones de generación a través de analizar un caso de trabajo en papel: Instalar equipos y sistemas de telecomunicaciones de generación, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 23 dB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14702) · [Clase siguiente →](#cl-14704)
+[← Clase anterior](#cl-14847) · [Clase siguiente →](#cl-14849)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14704}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar equipos y sistemas de telecomunicaciones de generación {#cl-14849}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar equipos y sistemas de telecomunicaciones de generación a través de aplicar un criterio técnico con datos de ejemplo: Instalar equipos y sistemas de telecomunicaciones de generación, con una experiencia disciplinar específica, segura y revisable.
@@ -875,7 +875,7 @@ Respuesta: No falta amplificador
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14703) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-03.md#cl-14705)
+[← Clase anterior](#cl-14848) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-03.md#cl-14850)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

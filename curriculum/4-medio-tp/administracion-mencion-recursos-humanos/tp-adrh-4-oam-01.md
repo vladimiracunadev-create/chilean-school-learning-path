@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14758) · [Clase 2](#cl-14759) · [Clase 3](#cl-14760) · [Clase 4](#cl-14761)
+**Clases de este OA:** [Clase 1](#cl-14903) · [Clase 2](#cl-14904) · [Clase 3](#cl-14905) · [Clase 4](#cl-14906)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar llenado y tramitación de contratos de trabajo {#cl-14758}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar llenado y tramitación de contratos de trabajo {#cl-14903}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado y tramitación de contratos de trabajo a través de situar el contexto laboral, la norma y el riesgo: Realizar llenado y tramitación de contratos de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 47 (caso ficticio). «Servicios Quillay Ltda.» contrata a Marcela Soto (n
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-14759)
+[Clase siguiente →](#cl-14904)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar llenado y tramitación de contratos de trabajo {#cl-14759}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar llenado y tramitación de contratos de trabajo {#cl-14904}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado y tramitación de contratos de trabajo a través de reconocer conceptos, documentos y roles del oficio: Realizar llenado y tramitación de contratos de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 48 (documentos y roles de ejemplo, inventados) de «Servicios Quillay Ltda
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14758) · [Clase siguiente →](#cl-14760)
+[← Clase anterior](#cl-14903) · [Clase siguiente →](#cl-14905)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar llenado y tramitación de contratos de trabajo {#cl-14760}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar llenado y tramitación de contratos de trabajo {#cl-14905}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado y tramitación de contratos de trabajo a través de analizar un caso de trabajo en papel: Realizar llenado y tramitación de contratos de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 49 (documentos de ejemplo con errores, inventados) de «Servicios Quillay 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14759) · [Clase siguiente →](#cl-14761)
+[← Clase anterior](#cl-14904) · [Clase siguiente →](#cl-14906)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar llenado y tramitación de contratos de trabajo {#cl-14761}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar llenado y tramitación de contratos de trabajo {#cl-14906}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar llenado y tramitación de contratos de trabajo a través de aplicar un criterio técnico con datos de ejemplo: Realizar llenado y tramitación de contratos de trabajo, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 50 (datos de ejemplo, inventados) de «Servicios Quillay Ltda.». Remunera
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14760) · [Primera clase del OA siguiente →](tp-adrh-4-oam-02.md#cl-14762)
+[← Clase anterior](#cl-14905) · [Primera clase del OA siguiente →](tp-adrh-4-oam-02.md#cl-14907)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
