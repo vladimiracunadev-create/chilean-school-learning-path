@@ -11,7 +11,7 @@ from urllib.parse import unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXCLUDED_PARTS = {".git", ".venv", "node_modules", "__pycache__"}
+EXCLUDED_PARTS = {".git", ".venv", "node_modules", "__pycache__", ".claude"}
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]]*)\]\(([^)]+)\)")
 HTML_LINK_RE = re.compile(r'href=["\']([^"\']+)["\']', re.IGNORECASE)
 HEADING_RE = re.compile(r"^(#{1,6})\s+\S")
