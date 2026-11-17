@@ -53,9 +53,83 @@ Fuente: [curriculumnacional.cl, 3.º medio HC](https://www.curriculumnacional.cl
 
 > Los 165 OA se cuentan una vez por nivel (330 combinaciones OA-nivel). Cerradas = 1.560 clases = 780 cuadernos × 2 niveles.
 
-## Fase B · Formación Técnico-Profesional
+## Fase B · Formación Diferenciada Técnico-Profesional (3.º y 4.º medio)
 
-Por contar (primer paso de la fase: analizar perfiles y módulos de las 35 especialidades). Sin avance.
+Fuente: [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (PDF oficial; el propio documento declara el Decreto Supremo de Educación N.º 452/2013, edición 2016; el sitio la rotula «Ministerio de Educación 2013»). Consultada el 17-nov-2026. No se pudo confirmar en el sitio una actualización pendiente de estas bases.
+
+Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un perfil de egreso por especialidad/mención (objetivos de aprendizaje numerados) más 12 objetivos genéricos comunes (A-L). **No incluyen módulos** (eso es de los programas de estudio, no publicados en este documento). Los objetivos de la especialidad se desarrollan en 3.º y 4.º medio; en las 7 especialidades con menciones, el tronco común va en 3.º y las menciones en 4.º. «Clases totales» suma ambos niveles (un OA `3y4` cuenta en los dos). Índice: [Formación TP](formacion-tp/README.md).
+
+| Especialidad | OA / objetivos | Clases totales | Clases escritas | Cerradas (lectura independiente) | Publicadas en `main` | % |
+|---|---:|---:|---:|---:|---:|---:|
+| **Administración** | | | | | | |
+| Administración (con 2 menciones: Logística, Recursos Humanos) | 15 | 62 | 0 | 0 | 0 | 0 % |
+| Contabilidad | 7 | 58 | 0 | 0 | 0 | 0 % |
+| *Subtotal Administración* | 22 | 120 | 0 | 0 | 0 | 0 % |
+| **Agropecuario** | | | | | | |
+| Agropecuaria (con 3 menciones: Agricultura, Pecuaria, Vitivinícola) | 26 | 109 | 0 | 0 | 0 | 0 % |
+| *Subtotal Agropecuario* | 26 | 109 | 0 | 0 | 0 | 0 % |
+| **Alimentación** | | | | | | |
+| Elaboración Industrial de Alimentos | 8 | 68 | 0 | 0 | 0 | 0 % |
+| Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 57 | 0 | 0 | 0 | 0 % |
+| *Subtotal Alimentación* | 22 | 125 | 0 | 0 | 0 | 0 % |
+| **Confección** | | | | | | |
+| Vestuario y Confección Textil | 8 | 66 | 0 | 0 | 0 | 0 % |
+| *Subtotal Confección* | 8 | 66 | 0 | 0 | 0 | 0 % |
+| **Construcción** | | | | | | |
+| Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 116 | 0 | 0 | 0 | 0 % |
+| Instalaciones Sanitarias | 8 | 74 | 0 | 0 | 0 | 0 % |
+| Montaje Industrial | 10 | 86 | 0 | 0 | 0 | 0 % |
+| Refrigeración y Climatización | 9 | 82 | 0 | 0 | 0 | 0 % |
+| *Subtotal Construcción* | 54 | 358 | 0 | 0 | 0 | 0 % |
+| **Electricidad** | | | | | | |
+| Electricidad | 8 | 70 | 0 | 0 | 0 | 0 % |
+| Electrónica | 7 | 58 | 0 | 0 | 0 | 0 % |
+| *Subtotal Electricidad* | 15 | 128 | 0 | 0 | 0 | 0 % |
+| **Gráfico** | | | | | | |
+| Dibujo Técnico | 9 | 82 | 0 | 0 | 0 | 0 % |
+| Gráfica | 7 | 60 | 0 | 0 | 0 | 0 % |
+| *Subtotal Gráfico* | 16 | 142 | 0 | 0 | 0 | 0 % |
+| **Hotelería y Turismo** | | | | | | |
+| Servicios de Hotelería | 9 | 82 | 0 | 0 | 0 | 0 % |
+| Servicios de Turismo | 7 | 66 | 0 | 0 | 0 | 0 % |
+| *Subtotal Hotelería y Turismo* | 16 | 148 | 0 | 0 | 0 | 0 % |
+| **Maderero** | | | | | | |
+| Forestal | 10 | 92 | 0 | 0 | 0 | 0 % |
+| Muebles y Terminaciones en Madera | 10 | 84 | 0 | 0 | 0 | 0 % |
+| *Subtotal Maderero* | 20 | 176 | 0 | 0 | 0 | 0 % |
+| **Marítimo** | | | | | | |
+| Acuicultura | 8 | 72 | 0 | 0 | 0 | 0 % |
+| Operaciones Portuarias | 7 | 68 | 0 | 0 | 0 | 0 % |
+| Pesquería | 7 | 68 | 0 | 0 | 0 | 0 % |
+| Tripulación de Naves Mercantes y Especiales | 9 | 88 | 0 | 0 | 0 | 0 % |
+| *Subtotal Marítimo* | 31 | 296 | 0 | 0 | 0 | 0 % |
+| **Metalmecánica** | | | | | | |
+| Construcciones Metálicas | 9 | 76 | 0 | 0 | 0 | 0 % |
+| Mecánica Automotriz | 8 | 70 | 0 | 0 | 0 | 0 % |
+| Mecánica de Mantenimiento de Aeronaves | 7 | 64 | 0 | 0 | 0 | 0 % |
+| Mecánica Industrial (con 3 menciones: Mantenimiento Electromecánico, Máquinas-Herramientas, Matricería) | 23 | 98 | 0 | 0 | 0 | 0 % |
+| *Subtotal Metalmecánica* | 47 | 308 | 0 | 0 | 0 | 0 % |
+| **Minero** | | | | | | |
+| Asistencia en Geología | 8 | 66 | 0 | 0 | 0 | 0 % |
+| Explotación Minera | 8 | 70 | 0 | 0 | 0 | 0 % |
+| Metalurgia Extractiva | 8 | 72 | 0 | 0 | 0 | 0 % |
+| *Subtotal Minero* | 24 | 208 | 0 | 0 | 0 | 0 % |
+| **Química e Industria** | | | | | | |
+| Química Industrial (con 2 menciones: Laboratorio Químico, Planta Química) | 13 | 61 | 0 | 0 | 0 | 0 % |
+| *Subtotal Química e Industria* | 13 | 61 | 0 | 0 | 0 | 0 % |
+| **Salud y Educación** | | | | | | |
+| Atención de Enfermería (con 2 menciones: Adulto Mayor, Enfermería) | 15 | 68 | 0 | 0 | 0 | 0 % |
+| Atención de Párvulos | 10 | 86 | 0 | 0 | 0 | 0 % |
+| *Subtotal Salud y Educación* | 25 | 154 | 0 | 0 | 0 | 0 % |
+| **Tecnología y Comunicaciones** | | | | | | |
+| Conectividad y Redes | 11 | 88 | 0 | 0 | 0 | 0 % |
+| Programación | 10 | 80 | 0 | 0 | 0 | 0 % |
+| Telecomunicaciones | 10 | 82 | 0 | 0 | 0 | 0 % |
+| *Subtotal Tecnología y Comunicaciones* | 31 | 250 | 0 | 0 | 0 | 0 % |
+| **Transversal** | | | | | | |
+| Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 0 | 0 | 0 | 0 % |
+| *Subtotal Transversal* | 12 | 96 | 0 | 0 | 0 | 0 % |
+| **TOTAL FASE B** | 382 | 2745 | 0 | 0 | 0 | **0 %** |
 
 ## Fase C · EPJA
 

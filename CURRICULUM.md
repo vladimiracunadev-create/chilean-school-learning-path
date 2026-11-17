@@ -1,8 +1,8 @@
 # Planificación curricular chilena
 
-## 10.401 clases · 4.156 experiencias integradas · 3.153 OA · 12 niveles
+## 13.146 clases · 4.156 experiencias integradas · 3.784 OA · 12 niveles
 
-El catálogo contiene 14.557 registros pedagógicos: 10.401 clases disciplinares y 4.156 experiencias de integración transversal. Las experiencias integradas no son clases independientes.
+El catálogo contiene 17.302 registros pedagógicos: 13.146 clases disciplinares y 4.156 experiencias de integración transversal. Las experiencias integradas no son clases independientes.
 
 > Formación común, propuestas, asignaturas según contexto y electivos se distinguen; no representan una carga simultánea.
 

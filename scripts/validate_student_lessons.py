@@ -25,6 +25,7 @@ LEVEL_NAMES = {
     "5-basico": "5.º básico", "6-basico": "6.º básico", "7-basico": "7.º básico", "8-basico": "8.º básico",
     "1-medio": "1.º medio", "2-medio": "2.º medio", "3-medio-fg": "3.º medio", "4-medio-fg": "4.º medio",
     "3-medio-hc": "3.º medio HC", "4-medio-hc": "4.º medio HC",
+    "3-medio-tp": "3.º medio TP", "4-medio-tp": "4.º medio TP",
 }
 
 
@@ -54,7 +55,7 @@ def lesson_totals() -> dict[str, int]:
 
 def subject_of(code: str) -> str:
     head = code.split()[0]
-    if "-OAC-" in head.upper():
+    if re.search(r"-OA[CEMG]-", head.upper()):
         return head.split("-")[1]
     return head[:2]
 
