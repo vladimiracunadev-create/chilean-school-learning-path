@@ -297,7 +297,7 @@ build(
     sc=[
         ("En Contabilidad: ¿qué es un archivo correlativo?", "Uno ordenado por número creciente", "Es el criterio típico para facturas y comprobantes."),
         ("¿Qué datos lleva el rótulo de una caja?", "Tipo de documento, período y rango de números", "Así se encuentra el contenido sin abrirla."),
-        ("¿Dónde se guarda la copia de seguridad?", "En otro lugar seguro, separado del original", "Así se recupera la información si el original se daña."),
+        ("¿Dónde se guarda la copia de seguridad de los comprobantes contables?", "En otro lugar seguro, separado del original", "Así se recupera la información si el original se daña."),
     ],
     op=("Ordena estas boletas de ejemplo en orden correlativo creciente: N.º 205, 202, 204, 201, 203. Luego escribe el rótulo de la caja que las guarda para el mes de agosto y explica en dos líneas cómo evitarías que alguien guarde la copia de seguridad en el mismo lugar del original.",
         "Orden: 201, 202, 203, 204, 205. Rótulo: «Boletas de venta, agosto, N.º 201 al 205». Copia de seguridad: la guardo en otro lugar seguro y separado, para que si el lugar del original se daña, se pueda recuperar la información.",

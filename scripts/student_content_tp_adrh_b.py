@@ -204,7 +204,7 @@ build(
     ctx=("abc", "La jefatura de operaciones pregunta cómo le fue a su equipo en capacitación. ¿Qué respuesta resumida entrega RR.HH.?", "Promedio de 20 horas y 60 % de cumplimiento de la meta, con personas identificadas por número", "Todas las fichas personales", "No hay datos", "Se entrega un resumen con totales y sin datos personales."),
     sc=[
         ("En Recursos Humanos: ¿cómo se calcula el porcentaje de cumplimiento?", "Personas que cumplen por cien dividido por el total", "Compara los que cumplen con el total."),
-        ("¿Cómo se calcula un promedio?", "Se suman los valores y se divide por la cantidad", "El promedio resume varios datos en uno."),
+        ("¿Cómo se calcula el promedio de las evaluaciones de desempeño de un equipo?", "Se suman los valores y se divide por la cantidad", "El promedio resume varios datos en uno."),
         ("¿Cómo se presentan las personas en un resumen?", "Con números o iniciales, sin datos innecesarios", "Con ello se protege la privacidad de las personas."),
     ],
     op=("Con la Ficha 58, escribe un resumen de seis líneas para la jefatura: promedio de horas, porcentaje de cumplimiento, promedio de evaluación, movimientos del año, una conclusión y una decisión que podría apoyar. Identifica a las personas solo con números.\n{F}",

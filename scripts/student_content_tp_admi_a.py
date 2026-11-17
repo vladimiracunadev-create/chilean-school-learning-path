@@ -405,7 +405,7 @@ build(
     ctx=("abc", "Una asistente nota que la semana 6 tiene la capacitación y que un vendedor tiene visitas programadas el mismo día. ¿Qué hallazgo anota?", "Superposición de actividades de una misma persona", "Falta de insumos", "Error de digitación en el nombre de la empresa", "Dos actividades de la misma persona en el mismo horario son una superposición."),
     sc=[
         ("En Administración: ¿cómo se detecta una sobrecarga?", "Comparando horas asignadas con horas disponibles de cada persona", "Se calcula la carga de cada persona por separado."),
-        ("¿Qué es un hallazgo?", "Un problema encontrado al revisar el programa", "Cada hallazgo lleva una propuesta de ajuste."),
+        ("¿Qué es un hallazgo en el seguimiento de un programa de actividades?", "Un problema encontrado al revisar el programa", "Cada hallazgo lleva una propuesta de ajuste."),
         ("¿Quién aprueba los ajustes?", "La jefatura", "El analista propone; la jefatura decide."),
     ],
     op=("Con la Ficha 8, escribe un informe de análisis de cinco líneas: (1) capacidad del equipo, (2) horas asignadas por semana, (3) horas libres, (4) un hallazgo con su propuesta de ajuste y (5) qué indicador falta para medir la meta.\n{F}",
