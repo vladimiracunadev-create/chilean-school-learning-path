@@ -30,9 +30,9 @@
 [![4° medio](https://img.shields.io/badge/4%C2%B0%20medio-466%20clases%20%C2%B7%2017%20denominaciones-6d28d9?style=for-the-badge)](docs/4-medio/README.md)
 [![Electivos HC](https://img.shields.io/badge/electivos%20HC%203%C2%B0%20y%204%C2%B0%20medio-1.560%20clases%20%C2%B7%2027%20asignaturas-0f766e?style=for-the-badge)](docs/electivos-hc/README.md)
 <!-- TP:badge -->
-[![Formación técnico-profesional](https://img.shields.io/badge/formaci%C3%B3n%20t%C3%A9cnico--profesional-967%20clases%20%C2%B7%2012%20especialidades-b45309?style=for-the-badge)](docs/formacion-tp/README.md)
+[![Formación técnico-profesional](https://img.shields.io/badge/formaci%C3%B3n%20t%C3%A9cnico--profesional-1.317%20clases%20%C2%B7%2017%20especialidades-b45309?style=for-the-badge)](docs/formacion-tp/README.md)
 <!-- /TP:badge -->
-[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-11.368%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
+[![Total desarrollado](https://img.shields.io/badge/total%20desarrollado-11.718%20clases-7c5cff?style=for-the-badge)](EDITORIAL_STATUS.md)
 
 [![Currículo](https://img.shields.io/badge/mapa%20curricular-12%20niveles-blue?style=flat-square)](docs/COBERTURA.md)
 [![Markdown](https://img.shields.io/badge/formato-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](docs/FORMATOS.md)
@@ -85,10 +85,10 @@ Este repositorio ofrece hoy los siguientes recorridos, expresados sin mezclar cl
 - **Usar 4° medio completo:** ofrece 466 clases en diecisiete denominaciones, con fuentes oficiales, continuidad desde 3° medio y autonomía de egreso.
 - **Usar los electivos de 3° y 4° medio:** ofrece 1.560 clases (780 por nivel) en 27 asignaturas de la Formación Diferenciada Humanístico-Científica, con 165 OA compartidos entre ambos niveles y cuaderno del estudiante en cada clase; ver el [índice de electivos](docs/electivos-hc/README.md) y el [avance de las asignaturas nuevas](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
 <!-- TP:bullet -->
-- **Usar la formación técnico-profesional de 3° y 4° medio:** publica 967 clases (467 en 3° y 500 en 4° medio) de 12 especialidades de los sectores Administración, Alimentación, Gráfico, Hotelería y Turismo, Salud y Educación, Tecnología y Comunicaciones, Transversal, con los objetivos de aprendizaje de las Bases Curriculares (Decreto Supremo de Educación N.º 452/2013 según el propio documento) y cuaderno del estudiante en cada clase; solo conceptos y casos en papel, sin taller ni práctica, y no habilita para trabajar. Ver el [índice de especialidades](docs/formacion-tp/README.md) y el [avance de las asignaturas nuevas](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
+- **Usar la formación técnico-profesional de 3° y 4° medio:** publica 1.317 clases (642 en 3° y 675 en 4° medio) de 17 especialidades de los sectores Administración, Alimentación, Confección, Construcción, Electricidad, Gráfico, Hotelería y Turismo, Salud y Educación, Tecnología y Comunicaciones, Transversal, con los objetivos de aprendizaje de las Bases Curriculares (Decreto Supremo de Educación N.º 452/2013 según el propio documento) y cuaderno del estudiante en cada clase; solo conceptos y casos en papel, sin taller ni práctica, y no habilita para trabajar. Ver el [índice de especialidades](docs/formacion-tp/README.md) y el [avance de las asignaturas nuevas](docs/AVANCE_ASIGNATURAS_NUEVAS.md).
 <!-- /TP:bullet -->
-- **Consultar el currículo:** organiza 3.382 OA oficiales desde 1° básico hasta 4° medio.
-- **Recorrer la trayectoria completa:** los 15.524 registros están desarrollados o integrados; no quedan propuestas solo secuenciadas ni borradores.
+- **Consultar el currículo:** organiza 3.462 OA oficiales desde 1° básico hasta 4° medio.
+- **Recorrer la trayectoria completa:** los 15.874 registros están desarrollados o integrados; no quedan propuestas solo secuenciadas ni borradores.
 
 Si vienes a preparar clases, abre el mapa de **[1°](docs/1-basico/README.md)**, **[2°](docs/2-basico/README.md)**, **[3°](docs/3-basico/README.md)**, **[4°](docs/4-basico/README.md)**, **[5°](docs/5-basico/README.md)**, **[6°](docs/6-basico/README.md)**, **[7°](docs/7-basico/README.md)**, **[8° básico completo](docs/8-basico/README.md)**, **[1° medio](docs/1-medio/README.md)**, **[2° medio](docs/2-medio/README.md)**, **[3° medio](docs/3-medio/README.md)** o **[4° medio](docs/4-medio/README.md)** y comprueba el estado de cada ficha antes de usarla. Si necesitas revisar el alcance, consulta la **[cobertura editorial](docs/COBERTURA.md)**.
 
@@ -180,9 +180,9 @@ El registro curricular fue comprobado el **2026-09-24** y conserva 595 enlaces d
 
 **4° medio completo:** las diecisiete denominaciones tienen sus 91 OA resueltos en 466 clases. Sus guías explican cada OA en lenguaje pedagógico —significado para la enseñanza, punto de entrada, conceptos, progresión, evidencia y fuente oficial—. Cada clase incluye recursos, evaluación, apoyos, profundización y continuidad desde 3° medio. Quedan **0 propuestas pendientes** en toda la trayectoria.
 
-### Lo que significa “15.524”
+### Lo que significa “15.874”
 
-Es la suma de todos los **espacios de clase e integración inventariados** del mapa curricular. Están resueltos como 11.368 clases disciplinares y 4.156 experiencias transversales integradas; estas últimas no constituyen clases independientes. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
+Es la suma de todos los **espacios de clase e integración inventariados** del mapa curricular. Están resueltos como 11.718 clases disciplinares y 4.156 experiencias transversales integradas; estas últimas no constituyen clases independientes. El detalle auditable vive en [Estado editorial](EDITORIAL_STATUS.md), no en una cifra promocional.
 
 ## 🧒 1° básico · desarrollo OA por OA
 
@@ -506,7 +506,7 @@ La entrada recomendada para una persona docente es la [guía de competencias, di
 | Ciclo de evidencia | Un ejemplo sintético completo | [Ciclo de evidencia](docs/EVIDENCE_CYCLE.md) | Separa observación, patrón, hipótesis, intervención, práctica y reevaluación. |
 | Marcos de evaluación | PAES, SIMCE, PISA, TIMSS, PIRLS e interno | [Qué se hizo con cada marco](docs/ASSESSMENT_FRAMEWORKS.md) | Son vistas desacopladas; nunca modifican los OA ni se presentan como currículo. |
 
-Los siete dominios son **competencia lectora** (20 habilidades), **matemática** (14), **científica** (11), **pensamiento crítico** (11), **alfabetización de datos** (10), **escritura y comunicación** (10) y **competencia digital e informacional** (10). La primera versión desarrolla seis trayectorias demostrativas: inferencia y evidencia, resolución matemática, evidencia científica, alfabetización de datos, escritura argumentativa y evaluación de fuentes digitales. Esto es una base extensible, **no un mapeo exhaustivo de los 3.382 OA**.
+Los siete dominios son **competencia lectora** (20 habilidades), **matemática** (14), **científica** (11), **pensamiento crítico** (11), **alfabetización de datos** (10), **escritura y comunicación** (10) y **competencia digital e informacional** (10). La primera versión desarrolla seis trayectorias demostrativas: inferencia y evidencia, resolución matemática, evidencia científica, alfabetización de datos, escritura argumentativa y evaluación de fuentes digitales. Esto es una base extensible, **no un mapeo exhaustivo de los 3.462 OA**.
 
 ### Cómo se conecta realmente con una clase existente
 
@@ -628,7 +628,7 @@ Consulta [Formatos](docs/FORMATOS.md) para entender la correspondencia, abre el 
 
 La cobertura se entiende en dos capas:
 
-- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio de Formación General, y 780 de 3° medio y 780 de 4° medio de electivos HC, y 467 de 3° medio y 500 de 4° medio de especialidades técnico-profesionales: 11.368 en total.
+- **Contenido desarrollado:** 691 clases de 1° básico, 721 de 2°, 757 de 3°, 811 de 4°, 920 de 5°, 952 de 6°, 760 de 7°, 771 de 8°, 753 de 1° medio, 744 de 2° medio, 495 de 3° medio y 466 de 4° medio de Formación General, y 780 de 3° medio y 780 de 4° medio de electivos HC, y 642 de 3° medio y 675 de 4° medio de especialidades técnico-profesionales: 11.718 en total.
 - **Contenido integrado:** 343 experiencias de 1° básico, 351 de 2°, 379 de 3°, 384 de 4°, 420 de 5°, 422 de 6°, 515 de 7°, 430 de 8°, 456 de 1° medio y 456 de 2° medio: 4.156 en total; no constituyen clases independientes.
 - **Contenido pendiente:** 0 propuestas desde 1° básico hasta 4° medio.
 
@@ -670,7 +670,7 @@ Los workflows verificables están en [Calidad](.github/workflows/ci.yml), [Pages
 
 ### ✅ Sí es
 
-- un desarrollo pedagógico interno transparente desde 1° básico hasta 4° medio, con 11.368 clases disciplinares;
+- un desarrollo pedagógico interno transparente desde 1° básico hasta 4° medio, con 11.718 clases disciplinares;
 - 4.156 experiencias de integración transversal incorporadas en las secuencias; no son clases adicionales;
 - un mapa trazable de los OA chilenos desde 1° básico hasta 4° medio;
 - una caja de herramientas para docentes, especialistas, equipos de apoyo y familias;

@@ -272,6 +272,11 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Contabilidad** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/contabilidad.md).
 - **Elaboración Industrial de Alimentos** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/elaboracion-industrial-de-alimentos.md).
 - **Gastronomía** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/gastronomia.md).
+- **Vestuario y Confección Textil** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/vestuario-y-confeccion-textil.md).
+- **Instalaciones Sanitarias** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/instalaciones-sanitarias.md).
+- **Refrigeración y Climatización** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/refrigeracion-y-climatizacion.md).
+- **Electricidad** (alto): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/electricidad.md).
+- **Electrónica** (medio): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/electronica.md).
 - **Dibujo Técnico** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/dibujo-tecnico.md).
 - **Gráfica** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/grafica.md).
 - **Servicios de Hotelería** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/servicios-de-hoteleria.md).

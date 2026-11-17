@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15087) · [Clase 2](#cl-15088) · [Clase 3](#cl-15089) · [Clase 4](#cl-15090)
+**Clases de este OA:** [Clase 1](#cl-15262) · [Clase 2](#cl-15263) · [Clase 3](#cl-15264) · [Clase 4](#cl-15265)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar peso y talla de los niños y niñas {#cl-15087}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Controlar peso y talla de los niños y niñas {#cl-15262}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar peso y talla de los niños y niñas a través de situar el contexto laboral, la norma y el riesgo: Controlar peso y talla de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: 48 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-06.md#cl-15086) · [Clase siguiente →](#cl-15088)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-06.md#cl-15261) · [Clase siguiente →](#cl-15263)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar peso y talla de los niños y niñas {#cl-15088}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Controlar peso y talla de los niños y niñas {#cl-15263}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar peso y talla de los niños y niñas a través de reconocer conceptos, documentos y roles del oficio: Controlar peso y talla de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 9.600 gramos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15087) · [Clase siguiente →](#cl-15089)
+[← Clase anterior](#cl-15262) · [Clase siguiente →](#cl-15264)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar peso y talla de los niños y niñas {#cl-15089}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Controlar peso y talla de los niños y niñas {#cl-15264}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar peso y talla de los niños y niñas a través de analizar un caso de trabajo en papel: Controlar peso y talla de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: Informar a la educadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15088) · [Clase siguiente →](#cl-15090)
+[← Clase anterior](#cl-15263) · [Clase siguiente →](#cl-15265)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar peso y talla de los niños y niñas {#cl-15090}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Controlar peso y talla de los niños y niñas {#cl-15265}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar controlar peso y talla de los niños y niñas a través de aplicar un criterio técnico con datos de ejemplo: Controlar peso y talla de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: Entregarla a la educadora y guardarla fuera de la vista
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15089) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-08.md#cl-15091)
+[← Clase anterior](#cl-15264) · [Primera clase del OA siguiente →](tp-atpa-3y4-oae-08.md#cl-15266)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

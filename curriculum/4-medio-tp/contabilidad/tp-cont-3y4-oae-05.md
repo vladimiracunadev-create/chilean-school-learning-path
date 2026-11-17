@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15165) · [Clase 2](#cl-15166) · [Clase 3](#cl-15167) · [Clase 4](#cl-15168)
+**Clases de este OA:** [Clase 1](#cl-15340) · [Clase 2](#cl-15341) · [Clase 3](#cl-15342) · [Clase 4](#cl-15343)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15165}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15340}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y presentar información contable básica para usos internos de la empresa a través de situar el contexto laboral, la norma y el riesgo: Comunicar y presentar información contable básica para usos internos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Título, período, unidad, fuente y conclusión
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cont-3y4-oae-04.md#cl-15164) · [Clase siguiente →](#cl-15166)
+[← Última clase del OA anterior](tp-cont-3y4-oae-04.md#cl-15339) · [Clase siguiente →](#cl-15341)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15166}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15341}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y presentar información contable básica para usos internos de la empresa a través de reconocer conceptos, documentos y roles del oficio: Comunicar y presentar información contable básica para usos internos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: $200.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15165) · [Clase siguiente →](#cl-15167)
+[← Clase anterior](#cl-15340) · [Clase siguiente →](#cl-15342)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15167}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15342}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y presentar información contable básica para usos internos de la empresa a través de analizar un caso de trabajo en papel: Comunicar y presentar información contable básica para usos internos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: En el período las ventas cubrieron costos y gastos, con un resultado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15166) · [Clase siguiente →](#cl-15168)
+[← Clase anterior](#cl-15341) · [Clase siguiente →](#cl-15343)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15168}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Comunicar y presentar información contable básica para usos internos de la empresa {#cl-15343}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar comunicar y presentar información contable básica para usos internos de la empresa a través de aplicar un criterio técnico con datos de ejemplo: Comunicar y presentar información contable básica para usos internos de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Ventas 10 % sobre el presupuesto y gastos 5 % sobre el presupuesto; s
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15167) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-06.md#cl-15169)
+[← Clase anterior](#cl-15342) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-06.md#cl-15344)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

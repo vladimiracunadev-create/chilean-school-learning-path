@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15264) · [Clase 2](#cl-15265) · [Clase 3](#cl-15266) · [Clase 4](#cl-15267)
+**Clases de este OA:** [Clase 1](#cl-15503) · [Clase 2](#cl-15504) · [Clase 3](#cl-15505) · [Clase 4](#cl-15506)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15264}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15503}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o a través de situar el contexto laboral, la norma y el riesgo: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: A una versión baja en sal
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gaco-4-oam-03.md#cl-15263) · [Clase siguiente →](#cl-15265)
+[← Última clase del OA anterior](tp-gaco-4-oam-03.md#cl-15502) · [Clase siguiente →](#cl-15504)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15265}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15504}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o a través de reconocer conceptos, documentos y roles del oficio: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: 40 puntos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15264) · [Clase siguiente →](#cl-15266)
+[← Clase anterior](#cl-15503) · [Clase siguiente →](#cl-15505)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15266}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15505}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o a través de analizar un caso de trabajo en papel: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o, con una experiencia disciplinar específica, segura y revisable.
@@ -663,9 +663,9 @@ Respuesta: La B
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15265) · [Clase siguiente →](#cl-15267)
+[← Clase anterior](#cl-15504) · [Clase siguiente →](#cl-15506)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15267}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o {#cl-15506}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o a través de aplicar un criterio técnico con datos de ejemplo: Introducir variaciones en las recetas de productos gastronómicos de la cocina básica y/o, con una experiencia disciplinar específica, segura y revisable.
@@ -869,7 +869,7 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15266) · [Primera clase del OA siguiente →](tp-gaco-4-oam-05.md#cl-15268)
+[← Clase anterior](#cl-15505) · [Primera clase del OA siguiente →](tp-gaco-4-oam-05.md#cl-15507)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -81,7 +81,7 @@ class CompetencySystemTests(unittest.TestCase):
             "OA oficial LE04 OA 04",
             "Tarea “El recreo bajo la lluvia”",
             "Qué relación es oficial y cuál no",
-            "no un mapeo exhaustivo de los 3.382 OA",
+            "no un mapeo exhaustivo de los 3.462 OA",
         ):
             self.assertIn(token, readme)
 

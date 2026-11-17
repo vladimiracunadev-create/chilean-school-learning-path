@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15243) · [Clase 2](#cl-15244) · [Clase 3](#cl-15245) · [Clase 4](#cl-15246)
+**Clases de este OA:** [Clase 1](#cl-15418) · [Clase 2](#cl-15419) · [Clase 3](#cl-15420) · [Clase 4](#cl-15421)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Rotular y etiquetar las materias primas {#cl-15243}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Rotular y etiquetar las materias primas {#cl-15418}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar rotular y etiquetar las materias primas a través de situar el contexto laboral, la norma y el riesgo: Rotular y etiquetar las materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El código de lote
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eial-3y4-oae-06.md#cl-15242) · [Clase siguiente →](#cl-15244)
+[← Última clase del OA anterior](tp-eial-3y4-oae-06.md#cl-15417) · [Clase siguiente →](#cl-15419)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Rotular y etiquetar las materias primas {#cl-15244}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Rotular y etiquetar las materias primas {#cl-15419}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar rotular y etiquetar las materias primas a través de reconocer conceptos, documentos y roles del oficio: Rotular y etiquetar las materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: Envase secundario o embalaje
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15243) · [Clase siguiente →](#cl-15245)
+[← Clase anterior](#cl-15418) · [Clase siguiente →](#cl-15420)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Rotular y etiquetar las materias primas {#cl-15245}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Rotular y etiquetar las materias primas {#cl-15420}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar rotular y etiquetar las materias primas a través de analizar un caso de trabajo en papel: Rotular y etiquetar las materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: La omisión del alérgeno
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15244) · [Clase siguiente →](#cl-15246)
+[← Clase anterior](#cl-15419) · [Clase siguiente →](#cl-15421)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Rotular y etiquetar las materias primas {#cl-15246}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Rotular y etiquetar las materias primas {#cl-15421}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar rotular y etiquetar las materias primas a través de aplicar un criterio técnico con datos de ejemplo: Rotular y etiquetar las materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: 2 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15245) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-08.md#cl-15247)
+[← Clase anterior](#cl-15420) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-08.md#cl-15422)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

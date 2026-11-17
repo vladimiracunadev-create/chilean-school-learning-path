@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15116) · [Clase 2](#cl-15117) · [Clase 3](#cl-15118) · [Clase 4](#cl-15119)
+**Clases de este OA:** [Clase 1](#cl-15291) · [Clase 2](#cl-15292) · [Clase 3](#cl-15293) · [Clase 4](#cl-15294)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar pruebas de conexión y señal en equipos y redes {#cl-15116}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar pruebas de conexión y señal en equipos y redes {#cl-15291}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar pruebas de conexión y señal en equipos y redes a través de situar el contexto laboral, la norma y el riesgo: Realizar pruebas de conexión y señal en equipos y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Prueba de conexión
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-03.md#cl-15115) · [Clase siguiente →](#cl-15117)
+[← Última clase del OA anterior](tp-core-3y4-oae-03.md#cl-15290) · [Clase siguiente →](#cl-15292)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar pruebas de conexión y señal en equipos y redes {#cl-15117}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar pruebas de conexión y señal en equipos y redes {#cl-15292}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar pruebas de conexión y señal en equipos y redes a través de reconocer conceptos, documentos y roles del oficio: Realizar pruebas de conexión y señal en equipos y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 3 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15116) · [Clase siguiente →](#cl-15118)
+[← Clase anterior](#cl-15291) · [Clase siguiente →](#cl-15293)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar pruebas de conexión y señal en equipos y redes {#cl-15118}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar pruebas de conexión y señal en equipos y redes {#cl-15293}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar pruebas de conexión y señal en equipos y redes a través de analizar un caso de trabajo en papel: Realizar pruebas de conexión y señal en equipos y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Corregir y probar de nuevo, sin alterar el registro
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15117) · [Clase siguiente →](#cl-15119)
+[← Clase anterior](#cl-15292) · [Clase siguiente →](#cl-15294)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar pruebas de conexión y señal en equipos y redes {#cl-15119}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar pruebas de conexión y señal en equipos y redes {#cl-15294}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar pruebas de conexión y señal en equipos y redes a través de aplicar un criterio técnico con datos de ejemplo: Realizar pruebas de conexión y señal en equipos y redes, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: En el enlace de 10 Mbps
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15118) · [Primera clase del OA siguiente →](tp-core-3y4-oae-05.md#cl-15120)
+[← Clase anterior](#cl-15293) · [Primera clase del OA siguiente →](tp-core-3y4-oae-05.md#cl-15295)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

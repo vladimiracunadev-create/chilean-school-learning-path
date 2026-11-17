@@ -16,6 +16,14 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Alimentación** | | | | |
 | Elaboración Industrial de Alimentos | medio | 8 | 68 | [📘 Leer guía](elaboracion-industrial-de-alimentos.md) |
 | Gastronomía | medio | 14 | 57 | [📘 Leer guía](gastronomia.md) |
+| **Confección** | | | | |
+| Vestuario y Confección Textil | medio | 8 | 66 | [📘 Leer guía](vestuario-y-confeccion-textil.md) |
+| **Construcción** | | | | |
+| Instalaciones Sanitarias | alto | 8 | 74 | [📘 Leer guía](instalaciones-sanitarias.md) |
+| Refrigeración y Climatización | alto | 9 | 82 | [📘 Leer guía](refrigeracion-y-climatizacion.md) |
+| **Electricidad** | | | | |
+| Electricidad | alto | 8 | 70 | [📘 Leer guía](electricidad.md) |
+| Electrónica | medio | 7 | 58 | [📘 Leer guía](electronica.md) |
 | **Gráfico** | | | | |
 | Dibujo Técnico | bajo | 9 | 82 | [📘 Leer guía](dibujo-tecnico.md) |
 | Gráfica | bajo | 7 | 60 | [📘 Leer guía](grafica.md) |
@@ -31,7 +39,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **129** | **967** | |
+| **Total publicado** | | **169** | **1317** | |
 
 ## Lo que no cubren
 

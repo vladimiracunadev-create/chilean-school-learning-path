@@ -28525,6 +28525,139 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Electricidad",
+      "subject_slug": "electricidad",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ELEC-3y4-OAE-01",
+          "description": "Leer y utilizar especificaciones técnicas, planos, diagramas y proyectos de instalación eléctricos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-02",
+          "description": "Dibujar circuitos eléctricos con software de CAD, en planos de plantas libres, aplicando la normativa eléctrica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-03",
+          "description": "Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia instalada total, sin alimentadores, aplicando la normativa eléctrica vigente, de acuerdo a planos, memoria de cálculo y presupuestos con cubicación de materiales y mano de obra.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-04",
+          "description": "Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con un máximo de 5 kW de potencia total instalada, sin alimentadores, aplicando la normativa eléctrica vigente, de acuerdo a planos, memoria de cálculo y presupuestos con cubicación de materiales y mano de obra.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-05",
+          "description": "Cubicar materiales e insumos para instalaciones eléctricas de baja tensión, de acuerdo a planos y especificaciones técnicas y aplicando los principios matemáticos que corresponda.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-06",
+          "description": "Mantener y reemplazar componentes, equipos y sistemas eléctricos monofásicos y trifásicos, utilizando las herramientas, instrumentos e insumos apropiados, considerando las pautas de mantenimiento, procedimientos, especificaciones técnicas, recomendaciones de los fabricantes, normativa y estándares de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-07",
+          "description": "Ejecutar sistemas de control, fuerza y protecciones eléctricas de máquinas, equipos e instalaciones eléctricas según requerimientos del proyecto y especificaciones del fabricante, respetando la normativa eléctrica y de control del medio ambiente vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-08",
+          "description": "Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos utilizados en control de procesos, según requerimientos operacionales del equipo o planta y la normativa eléctrica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Electrónica",
+      "subject_slug": "electronica",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ELTR-3y4-OAE-01",
+          "description": "Leer y utilizar información técnica consignada en manuales, planos, croquis, instrucciones y proyectos de instalación electrónicos, relevando los datos necesarios para desarrollar correctamente su trabajo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-02",
+          "description": "Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos, equipos y sistemas electrónicos industriales, con o sin control automático, con referencia a las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-03",
+          "description": "Armar y ensamblar circuitos electrónicos básicos, analógicos y digitales, y repararlos cuando corresponda, de acuerdo a manuales de procedimiento.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-04",
+          "description": "Instalar y montar equipos y sistemas electrónicos industriales y otros, de acuerdo al diseño y las características técnicas del proyecto, utilizando las herramientas e instrumentos adecuados, respetando la normativa eléctrica, ambiental y de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-05",
+          "description": "Mantener preventiva y correctivamente equipos, sistemas, dispositivos y componentes electrónicos, utilizando instrumentos y materiales apropiados, de acuerdo a la normativa de seguridad, especificaciones técnicas y planes de mantenimiento.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-06",
+          "description": "Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, tales como equipos de domótica, ascensores, portones eléctricos, riego automatizado, iluminación y otros, de acuerdo a los requerimientos del proyecto y las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-07",
+          "description": "Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos utilizados en control de procesos, según requerimientos operacionales del equipo o planta y la normativa eléctrica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Gastronomía",
       "subject_slug": "gastronomia",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28619,6 +28752,76 @@
         {
           "code": "TP-GRAF-3y4-OAE-07",
           "description": "Realizar operaciones de mantenimiento básico, limpieza, lubricación y reemplazo de elementos fungibles, a diferentes tipos de máquinas o equipos de preimpresión, impresión y postimpresión, de acuerdo con los manuales de los fabricantes y las normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Instalaciones Sanitarias",
+      "subject_slug": "instalaciones-sanitarias",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-INSA-3y4-OAE-01",
+          "description": "Leer y utilizar planos de redes de gas, aguas y evacuación, identificando simbología y nomenclaturas, extrayendo información para realizar mediciones y controles de verificación de distintas magnitudes en la ejecución de trabajos en obras de construcción.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-02",
+          "description": "Cubicar digitalmente elementos y materiales, utilizando los programas computacionales apropiados a los requerimientos del proyecto, de acuerdo a longitudes, superficies y volúmenes determinados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-03",
+          "description": "Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas públicos de redes, de acuerdo a los planos correspondientes, determinando puntos de referencia (P. R.), fijando niveles y replanteo, utilizando los equipos e instrumentos apropiados, respetando las normas de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-04",
+          "description": "Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, tanto licuado y natural como de ciudad, en terrenos, casas y edificios, de acuerdo a planos y especificaciones técnicas del proyecto, utilizando maquinarias, equipos y herramientas apropiadas y cumpliendo las normas de la SEC, de seguridad, de prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-05",
+          "description": "Mantener y reparar artefactos, redes y empalmes, de gas licuado y de ciudad y de agua potable, utilizando maquinarias, equipos y herramientas apropiadas, de acuerdo a las especificaciones técnicas de los fabricantes, a las normas de la SEC, sanitarias, de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-06",
+          "description": "Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación en terrenos, casas y edificios, de acuerdo a planos y especificaciones técnicas del proyecto, utilizando maquinarias, equipos y herramientas apropiadas, cumpliendo la normativa sanitaria, de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-07",
+          "description": "Instalar artefactos sanitarios, cámaras y empalmes de agua, utilizando maquinarias, equipos y herramientas apropiadas, posibilitando la evacuación de gases y aguas servidas, de acuerdo a las indicaciones de los fabricantes, a las normas de la SISS, de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-08",
+          "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -28801,6 +29004,83 @@
         {
           "code": "TP-PROG-3y4-OAE-10",
           "description": "Instalar software de productividad y programas utilitarios en un equipo personal, de acuerdo a los requerimientos de los usuarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Refrigeración y Climatización",
+      "subject_slug": "refrigeracion-y-climatizacion",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-RECL-3y4-OAE-01",
+          "description": "Leer y utilizar planos de redes de cañería y redes de ductos, simbología y especificaciones técnicas de proyectos de refrigeración y climatización, verificando su adecuación a las condiciones reales de la obra que facilitarían u obstaculizarían la realización del proyecto.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-02",
+          "description": "Cubicar elementos y materiales, de acuerdo a volúmenes y superficies, para la elaboración de proyectos de refrigeración, climatización, calefacción y ventilación, utilizando programas computacionales apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-03",
+          "description": "Realizar mediciones y controles de verificación de distintas magnitudes relacionadas con el proyecto, de acuerdo a especificaciones técnicas, normas de seguridad, prevención de riesgos y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-04",
+          "description": "Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, aire, agua y fluidos especiales para los sistemas de refrigeración, ventilación, climatización y calefacción, realizando uniones soldadas que aseguren la hermeticidad, de acuerdo a la norma chilena 3241 de buenas prácticas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-05",
+          "description": "Instalar equipos y componentes de sistemas de refrigeración, calefacción, climatización y ventilación de energías diversas, incluidos los dispositivos electrónicos de control automático, de acuerdo a las especificaciones técnicas del proyecto y las orientaciones del profesional encargado, considerando la norma chilena 3241 de buenas prácticas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-06",
+          "description": "Cargar fluidos y poner en marcha sistemas de refrigeración, climatización, calefacción y ventilación, considerando las presiones y fuerzas indicadas por los fabricantes, el uso de refrigerantes amigables con el medio ambiente y la norma chilena 3241 de buenas prácticas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-07",
+          "description": "Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración, climatización, calefacción y ventilación, respecto de las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-08",
+          "description": "Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración, climatización, calefacción y ventilación, considerando los parámetros establecidos en los manuales de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-09",
+          "description": "Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y climatización, utilizando las herramientas y equipos apropiados para una manipulación adecuada y segura y los contenedores aprobados para la operación, de acuerdo a la norma chilena 3241 de buenas prácticas.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -29025,6 +29305,76 @@
         {
           "code": "TP-TELE-3y4-OAE-10",
           "description": "Determinar los equipos y sistemas de comunicación necesarios para una conectividad efectiva y eficiente de acuerdo a los requerimientos de los usuarios. Bases Curriculares Formación Diferenciada Técnico-Profesional Ministerio de Educación 201 6.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Vestuario y Confección Textil",
+      "subject_slug": "vestuario-y-confeccion-textil",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-VCTE-3y4-OAE-01",
+          "description": "Elaborar diseños básicos de artículos textiles y de vestuario, utilizando herramientas manuales e informáticas de diseño, aplicando cánones de figura humana según sexo y edad, tendencias de la moda e innovaciones con tipos de tela, colores, insumos y productos requeridos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-02",
+          "description": "Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y digital de acuerdo con fichas técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-03",
+          "description": "Marcar y cortar telas en forma manual o con máquina, considerando la ficha técnica el modelo, tipo de tela, rendimiento, eficiencia del consumo del textil, normas de calidad y seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-04",
+          "description": "Coser, cortar, fusionar, planchar, utilizando diferentes tipos de máquinas, industriales y semiindustriales, de acuerdo con el manual de operaciones y aplicando normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-05",
+          "description": "Realizar mantenimiento y regulación de máquinas de coser, de cortar y de planchar para asegurar el funcionamiento óptimo, de acuerdo con instrucciones del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-06",
+          "description": "Confeccionar artículos textiles y de vestuario de acuerdo con la secuencia de operaciones definidas en la ficha técnica y los insumos requeridos, utilizando la maquinaria apropiada, controlando la calidad y la seguridad durante el proceso.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-07",
+          "description": "Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir, utilizando la maquinaria apropiada, seleccionando los insumos y definiendo la secuencia óptima de acuerdo con la ficha técnica.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-08",
+          "description": "Realizar el control de calidad de los productos, considerando el formato estándar y las especificaciones técnicas de éstos.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -29512,6 +29862,139 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Electricidad",
+      "subject_slug": "electricidad",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ELEC-3y4-OAE-01",
+          "description": "Leer y utilizar especificaciones técnicas, planos, diagramas y proyectos de instalación eléctricos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-02",
+          "description": "Dibujar circuitos eléctricos con software de CAD, en planos de plantas libres, aplicando la normativa eléctrica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-03",
+          "description": "Ejecutar instalaciones de alumbrado en baja tensión con un máximo de 10 kW de potencia instalada total, sin alimentadores, aplicando la normativa eléctrica vigente, de acuerdo a planos, memoria de cálculo y presupuestos con cubicación de materiales y mano de obra.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-04",
+          "description": "Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con un máximo de 5 kW de potencia total instalada, sin alimentadores, aplicando la normativa eléctrica vigente, de acuerdo a planos, memoria de cálculo y presupuestos con cubicación de materiales y mano de obra.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-05",
+          "description": "Cubicar materiales e insumos para instalaciones eléctricas de baja tensión, de acuerdo a planos y especificaciones técnicas y aplicando los principios matemáticos que corresponda.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-06",
+          "description": "Mantener y reemplazar componentes, equipos y sistemas eléctricos monofásicos y trifásicos, utilizando las herramientas, instrumentos e insumos apropiados, considerando las pautas de mantenimiento, procedimientos, especificaciones técnicas, recomendaciones de los fabricantes, normativa y estándares de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-07",
+          "description": "Ejecutar sistemas de control, fuerza y protecciones eléctricas de máquinas, equipos e instalaciones eléctricas según requerimientos del proyecto y especificaciones del fabricante, respetando la normativa eléctrica y de control del medio ambiente vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELEC-3y4-OAE-08",
+          "description": "Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos utilizados en control de procesos, según requerimientos operacionales del equipo o planta y la normativa eléctrica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Electrónica",
+      "subject_slug": "electronica",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-ELTR-3y4-OAE-01",
+          "description": "Leer y utilizar información técnica consignada en manuales, planos, croquis, instrucciones y proyectos de instalación electrónicos, relevando los datos necesarios para desarrollar correctamente su trabajo.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-02",
+          "description": "Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos, equipos y sistemas electrónicos industriales, con o sin control automático, con referencia a las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-03",
+          "description": "Armar y ensamblar circuitos electrónicos básicos, analógicos y digitales, y repararlos cuando corresponda, de acuerdo a manuales de procedimiento.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-04",
+          "description": "Instalar y montar equipos y sistemas electrónicos industriales y otros, de acuerdo al diseño y las características técnicas del proyecto, utilizando las herramientas e instrumentos adecuados, respetando la normativa eléctrica, ambiental y de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-05",
+          "description": "Mantener preventiva y correctivamente equipos, sistemas, dispositivos y componentes electrónicos, utilizando instrumentos y materiales apropiados, de acuerdo a la normativa de seguridad, especificaciones técnicas y planes de mantenimiento.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-06",
+          "description": "Configurar el funcionamiento automático de sistemas y equipos electrónicos simples, tales como equipos de domótica, ascensores, portones eléctricos, riego automatizado, iluminación y otros, de acuerdo a los requerimientos del proyecto y las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-ELTR-3y4-OAE-07",
+          "description": "Modificar programas y parámetros en equipos y sistemas eléctricos y electrónicos utilizados en control de procesos, según requerimientos operacionales del equipo o planta y la normativa eléctrica vigente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Gastronomía · mención Cocina",
       "subject_slug": "gastronomia-mencion-cocina",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -29662,6 +30145,76 @@
         {
           "code": "TP-GRAF-3y4-OAE-07",
           "description": "Realizar operaciones de mantenimiento básico, limpieza, lubricación y reemplazo de elementos fungibles, a diferentes tipos de máquinas o equipos de preimpresión, impresión y postimpresión, de acuerdo con los manuales de los fabricantes y las normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Instalaciones Sanitarias",
+      "subject_slug": "instalaciones-sanitarias",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-INSA-3y4-OAE-01",
+          "description": "Leer y utilizar planos de redes de gas, aguas y evacuación, identificando simbología y nomenclaturas, extrayendo información para realizar mediciones y controles de verificación de distintas magnitudes en la ejecución de trabajos en obras de construcción.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-02",
+          "description": "Cubicar digitalmente elementos y materiales, utilizando los programas computacionales apropiados a los requerimientos del proyecto, de acuerdo a longitudes, superficies y volúmenes determinados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-03",
+          "description": "Trazar redes de gas y redes de agua y evacuación en obras de construcción y sistemas públicos de redes, de acuerdo a los planos correspondientes, determinando puntos de referencia (P. R.), fijando niveles y replanteo, utilizando los equipos e instrumentos apropiados, respetando las normas de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-04",
+          "description": "Armar e instalar artefactos y redes de gas y de evacuación de gases en baja presión, tanto licuado y natural como de ciudad, en terrenos, casas y edificios, de acuerdo a planos y especificaciones técnicas del proyecto, utilizando maquinarias, equipos y herramientas apropiadas y cumpliendo las normas de la SEC, de seguridad, de prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-05",
+          "description": "Mantener y reparar artefactos, redes y empalmes, de gas licuado y de ciudad y de agua potable, utilizando maquinarias, equipos y herramientas apropiadas, de acuerdo a las especificaciones técnicas de los fabricantes, a las normas de la SEC, sanitarias, de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-06",
+          "description": "Armar e instalar redes de agua potable de riego agrícola y habitacional y de evacuación en terrenos, casas y edificios, de acuerdo a planos y especificaciones técnicas del proyecto, utilizando maquinarias, equipos y herramientas apropiadas, cumpliendo la normativa sanitaria, de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-07",
+          "description": "Instalar artefactos sanitarios, cámaras y empalmes de agua, utilizando maquinarias, equipos y herramientas apropiadas, posibilitando la evacuación de gases y aguas servidas, de acuerdo a las indicaciones de los fabricantes, a las normas de la SISS, de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-INSA-3y4-OAE-08",
+          "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -29844,6 +30397,83 @@
         {
           "code": "TP-PROG-3y4-OAE-10",
           "description": "Instalar software de productividad y programas utilitarios en un equipo personal, de acuerdo a los requerimientos de los usuarios.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Refrigeración y Climatización",
+      "subject_slug": "refrigeracion-y-climatizacion",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-RECL-3y4-OAE-01",
+          "description": "Leer y utilizar planos de redes de cañería y redes de ductos, simbología y especificaciones técnicas de proyectos de refrigeración y climatización, verificando su adecuación a las condiciones reales de la obra que facilitarían u obstaculizarían la realización del proyecto.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-02",
+          "description": "Cubicar elementos y materiales, de acuerdo a volúmenes y superficies, para la elaboración de proyectos de refrigeración, climatización, calefacción y ventilación, utilizando programas computacionales apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-03",
+          "description": "Realizar mediciones y controles de verificación de distintas magnitudes relacionadas con el proyecto, de acuerdo a especificaciones técnicas, normas de seguridad, prevención de riesgos y protección del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-04",
+          "description": "Armar, instalar y aislar redes de ductos y cañerías para el flujo de refrigerantes, aire, agua y fluidos especiales para los sistemas de refrigeración, ventilación, climatización y calefacción, realizando uniones soldadas que aseguren la hermeticidad, de acuerdo a la norma chilena 3241 de buenas prácticas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-05",
+          "description": "Instalar equipos y componentes de sistemas de refrigeración, calefacción, climatización y ventilación de energías diversas, incluidos los dispositivos electrónicos de control automático, de acuerdo a las especificaciones técnicas del proyecto y las orientaciones del profesional encargado, considerando la norma chilena 3241 de buenas prácticas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-06",
+          "description": "Cargar fluidos y poner en marcha sistemas de refrigeración, climatización, calefacción y ventilación, considerando las presiones y fuerzas indicadas por los fabricantes, el uso de refrigerantes amigables con el medio ambiente y la norma chilena 3241 de buenas prácticas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-07",
+          "description": "Inspeccionar y diagnosticar fallas del funcionamiento de los sistemas de refrigeración, climatización, calefacción y ventilación, respecto de las especificaciones técnicas del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-08",
+          "description": "Realizar el mantenimiento preventivo y correctivo de los sistemas de refrigeración, climatización, calefacción y ventilación, considerando los parámetros establecidos en los manuales de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-RECL-3y4-OAE-09",
+          "description": "Recuperar, reciclar y almacenar refrigerantes de los sistemas de refrigeración y climatización, utilizando las herramientas y equipos apropiados para una manipulación adecuada y segura y los contenedores aprobados para la operación, de acuerdo a la norma chilena 3241 de buenas prácticas.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -30068,6 +30698,76 @@
         {
           "code": "TP-TELE-3y4-OAE-10",
           "description": "Determinar los equipos y sistemas de comunicación necesarios para una conectividad efectiva y eficiente de acuerdo a los requerimientos de los usuarios. Bases Curriculares Formación Diferenciada Técnico-Profesional Ministerio de Educación 201 6.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Vestuario y Confección Textil",
+      "subject_slug": "vestuario-y-confeccion-textil",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-VCTE-3y4-OAE-01",
+          "description": "Elaborar diseños básicos de artículos textiles y de vestuario, utilizando herramientas manuales e informáticas de diseño, aplicando cánones de figura humana según sexo y edad, tendencias de la moda e innovaciones con tipos de tela, colores, insumos y productos requeridos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-02",
+          "description": "Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y digital de acuerdo con fichas técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-03",
+          "description": "Marcar y cortar telas en forma manual o con máquina, considerando la ficha técnica el modelo, tipo de tela, rendimiento, eficiencia del consumo del textil, normas de calidad y seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-04",
+          "description": "Coser, cortar, fusionar, planchar, utilizando diferentes tipos de máquinas, industriales y semiindustriales, de acuerdo con el manual de operaciones y aplicando normas de seguridad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-05",
+          "description": "Realizar mantenimiento y regulación de máquinas de coser, de cortar y de planchar para asegurar el funcionamiento óptimo, de acuerdo con instrucciones del fabricante.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-06",
+          "description": "Confeccionar artículos textiles y de vestuario de acuerdo con la secuencia de operaciones definidas en la ficha técnica y los insumos requeridos, utilizando la maquinaria apropiada, controlando la calidad y la seguridad durante el proceso.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-07",
+          "description": "Ejecutar terminaciones, planchado y empaquetado de artículos textiles y prendas de vestir, utilizando la maquinaria apropiada, seleccionando los insumos y definiendo la secuencia óptima de acuerdo con la ficha técnica.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-VCTE-3y4-OAE-08",
+          "description": "Realizar el control de calidad de los productos, considerando el formato estándar y las especificaciones técnicas de éstos.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"

@@ -73,18 +73,18 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Gastronomía (con 2 menciones: Cocina, Pastelería y Repostería) | 14 | 57 | 57 | 57 | 57 | 100 % |
 | *Subtotal Alimentación* | 22 | 125 | 125 | 125 | 125 | 100 % |
 | **Confección** | | | | | | |
-| Vestuario y Confección Textil | 8 | 66 | 20 | 0 | 0 | 0 % |
-| *Subtotal Confección* | 8 | 66 | 20 | 0 | 0 | 0 % |
+| Vestuario y Confección Textil | 8 | 66 | 66 | 66 | 66 | 100 % |
+| *Subtotal Confección* | 8 | 66 | 66 | 66 | 66 | 100 % |
 | **Construcción** | | | | | | |
 | Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 116 | 0 | 0 | 0 | 0 % |
-| Instalaciones Sanitarias | 8 | 74 | 0 | 0 | 0 | 0 % |
-| Montaje Industrial | 10 | 86 | 0 | 0 | 0 | 0 % |
-| Refrigeración y Climatización | 9 | 82 | 0 | 0 | 0 | 0 % |
-| *Subtotal Construcción* | 54 | 358 | 0 | 0 | 0 | 0 % |
+| Instalaciones Sanitarias | 8 | 74 | 74 | 74 | 74 | 100 % |
+| Montaje Industrial | 10 | 86 | 52 | 0 | 0 | 0 % |
+| Refrigeración y Climatización | 9 | 82 | 82 | 82 | 82 | 100 % |
+| *Subtotal Construcción* | 54 | 358 | 208 | 156 | 156 | 44 % |
 | **Electricidad** | | | | | | |
-| Electricidad | 8 | 70 | 0 | 0 | 0 | 0 % |
-| Electrónica | 7 | 58 | 16 | 0 | 0 | 0 % |
-| *Subtotal Electricidad* | 15 | 128 | 16 | 0 | 0 | 0 % |
+| Electricidad | 8 | 70 | 70 | 70 | 70 | 100 % |
+| Electrónica | 7 | 58 | 58 | 58 | 58 | 100 % |
+| *Subtotal Electricidad* | 15 | 128 | 128 | 128 | 128 | 100 % |
 | **Gráfico** | | | | | | |
 | Dibujo Técnico | 9 | 82 | 82 | 82 | 82 | 100 % |
 | Gráfica | 7 | 60 | 60 | 60 | 60 | 100 % |
@@ -129,7 +129,7 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
 | *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
-| **TOTAL FASE B** | 382 | 2745 | 1003 | 967 | 967 | **35 %** |
+| **TOTAL FASE B** | 382 | 2745 | 1369 | 1317 | 1317 | **48 %** |
 
 ## Fase C · EPJA
 
