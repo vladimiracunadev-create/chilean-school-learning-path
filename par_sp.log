@@ -1,0 +1,28 @@
+..FF...............................................
+======================================================================
+FAIL: test_catalog_truth (test_school_program.SchoolProgramTests.test_catalog_truth)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\dev\chilean-school-learning-path\.claude\worktrees\fases-a-e-asignaturas-dc79d2\tests\test_school_program.py", line 58, in test_catalog_truth
+    self.assertEqual(self.catalog["subject_count"], 35)
+AssertionError: 62 != 35
+
+======================================================================
+FAIL: test_class_ids_and_codes_are_unique (test_school_program.SchoolProgramTests.test_class_ids_and_codes_are_unique)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\dev\chilean-school-learning-path\.claude\worktrees\fases-a-e-asignaturas-dc79d2\tests\test_school_program.py", line 1445, in test_class_ids_and_codes_are_unique
+    self.assertEqual([item["id"] for item in classes], list(range(1, 12998)))
+AssertionError: Lists differ: [1, 2[79862 chars]12997, 12998, 12999, 13000, 13001, 13002, 1300[10875 chars]4557] != [1, 2[79862 chars]12997]
+
+First list contains 1560 additional elements.
+First extra element 12997:
+12998
+
+Diff is 134496 characters long. Set self.maxDiff to None to see it.
+
+----------------------------------------------------------------------
+Ran 51 tests in 53.404s
+
+FAILED (failures=2)
+exit=1

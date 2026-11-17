@@ -1,0 +1,17 @@
+t_test_competency_system.log: exit=0
+t_test_content_presentation.log: exit=1
+t_test_dictionaries.log: exit=0
+t_test_licensing.log: exit=0
+t_test_pdf_exports.log: exit=1
+t_test_school_program.log: exit=1
+t_test_student_lessons.log: exit=0
+v_audit_alignment.log: exit=0
+v_audit_content.log: exit=0
+v_compile.log: exit=0
+v_mojibake.log: exit=0
+v_validate_competency_system.log: exit=0
+v_validate_content_presentation.log: exit=0
+v_validate_licensing.log: exit=0
+v_validate_school_program.log: exit=0
+v_validate_student_lessons.log: exit=0
+PAR-DONE

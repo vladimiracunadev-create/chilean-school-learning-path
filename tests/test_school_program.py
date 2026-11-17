@@ -55,7 +55,7 @@ class SchoolProgramTests(unittest.TestCase):
         self.assertEqual(self.catalog["class_count"], 14557)
         self.assertEqual(self.catalog["objective_count"], 3153)
         self.assertEqual(self.catalog["course_count"], 12)
-        self.assertEqual(self.catalog["subject_count"], 35)
+        self.assertEqual(self.catalog["subject_count"], 62)
         self.assertEqual(len(self.catalog["classes"]), 14557)
         self.assertEqual(self.catalog["schema_version"], 8)
         self.assertEqual(self.catalog["editorial_counts"]["borrador"], 0)
@@ -1442,7 +1442,7 @@ class SchoolProgramTests(unittest.TestCase):
 
     def test_class_ids_and_codes_are_unique(self):
         classes = self.catalog["classes"]
-        self.assertEqual([item["id"] for item in classes], list(range(1, 12998)))
+        self.assertEqual([item["id"] for item in classes], list(range(1, 14558)))
         self.assertEqual(len({item["class_code"] for item in classes}), 14557)
 
     def test_every_class_has_public_page_and_anchor(self):

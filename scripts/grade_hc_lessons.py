@@ -11,7 +11,10 @@ import json
 import re
 from pathlib import Path
 
-import grade_three_middle_remaining_lessons as base
+try:
+    import grade_three_middle_remaining_lessons as base
+except ImportError:  # importado como paquete (tests)
+    from scripts import grade_three_middle_remaining_lessons as base
 
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = json.loads((ROOT / "sources/mineduc-curriculum-snapshot.json").read_text(encoding="utf-8"))
