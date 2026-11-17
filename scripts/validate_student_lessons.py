@@ -6,6 +6,7 @@ professional review: nothing here states that a human specialist reviewed a less
 """
 from __future__ import annotations
 
+import functools
 import re
 import sys
 from collections import Counter
@@ -34,6 +35,7 @@ def template(question: str) -> str:
     return re.sub(r"\s+", " ", flat).strip()
 
 
+@functools.lru_cache(maxsize=None)
 def curriculum_file(oa_code: str) -> Path | None:
     slug = oa_code.lower().replace(" ", "-")
     found = sorted((ROOT / "curriculum").glob(f"*/*/{slug}.md"))
