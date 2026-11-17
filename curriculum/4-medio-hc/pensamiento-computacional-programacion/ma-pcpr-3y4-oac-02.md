@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Pensamiento computacional y programación | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/pensamiento-computacional-programacion.md) · [← OA anterior (MA-PCPR-3y4-OAC-01)](ma-pcpr-3y4-oac-01.md) · [OA siguiente (MA-PCPR-3y4-OAC-03) →](ma-pcpr-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Representar diferentes tipos de datos en una variedad de formas que incluya textos, sonidos, imágenes y números.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14410) · [Clase 2](#cl-14411) · [Clase 3](#cl-14412) · [Clase 4](#cl-14413)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Representar diferentes tipos de datos en una variedad de formas que incluya textos,… {#cl-14410}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -244,6 +248,9 @@ Respuesta: 37 se escribe 00100101
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Última clase del OA anterior](ma-pcpr-3y4-oac-01.md#cl-14409) · [Clase siguiente →](#cl-14411)
 
 ### Clase 2 de 4: Representar de dos maneras: Representar diferentes tipos de datos en una variedad de formas que incluya textos,… {#cl-14411}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -450,6 +457,9 @@ Respuesta: d vale 100 y D vale 68
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14410) · [Clase siguiente →](#cl-14412)
+
 ### Clase 3 de 4: Desarrollar una estrategia: Representar diferentes tipos de datos en una variedad de formas que incluya textos,… {#cl-14412}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -654,6 +664,9 @@ Respuesta: Ocupa 1.440.000 bytes
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14411) · [Clase siguiente →](#cl-14413)
+
 ### Clase 4 de 4: Justificar relaciones: Representar diferentes tipos de datos en una variedad de formas que incluya textos,… {#cl-14413}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: El tamaño se duplica: 1.280.000 bits
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14412) · [Primera clase del OA siguiente →](ma-pcpr-3y4-oac-03.md#cl-14414)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

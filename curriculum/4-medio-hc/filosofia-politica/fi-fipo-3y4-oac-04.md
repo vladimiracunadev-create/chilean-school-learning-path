@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Filosofía política | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/filosofia-politica.md) · [← OA anterior (FI-FIPO-3y4-OAC-03)](fi-fipo-3y4-oac-03.md) · [OA siguiente (FI-FIPO-3y4-OAC-05) →](fi-fipo-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Participar activamente en diálogos filosóficos acerca de las formas de organización del poder en la sociedad, sus fundamentos y finalidades, tomando en cuenta diversas posiciones acerca del Estado, los actores sociales y las instituciones.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14117) · [Clase 2](#cl-14118) · [Clase 3](#cl-14119) · [Clase 4](#cl-14120)
 
 ### Clase 1 de 4: Problematizar una situación: Participar activamente en diálogos filosóficos acerca de las formas de organización… {#cl-14117}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: «¿Qué entiendes por Estado?»
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-fipo-3y4-oac-03.md#cl-14116) · [Clase siguiente →](#cl-14118)
+
 ### Clase 2 de 4: Definir conceptos: Participar activamente en diálogos filosóficos acerca de las formas de organización… {#cl-14118}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Finalidad: la seguridad. Fundamento: el acuerdo de las personas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14117) · [Clase siguiente →](#cl-14119)
 
 ### Clase 3 de 4: Reconstruir una perspectiva: Participar activamente en diálogos filosóficos acerca de las formas de organización… {#cl-14119}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Ningún acuerdo real fue firmado por cada persona
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14118) · [Clase siguiente →](#cl-14120)
+
 ### Clase 4 de 4: Formular y evaluar argumentos: Participar activamente en diálogos filosóficos acerca de las formas de organización… {#cl-14120}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Etiqueta a la persona; se devuelve a la idea aclarando lo dicho y pid
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14119) · [Primera clase del OA siguiente →](fi-fipo-3y4-oac-05.md#cl-14121)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Diseño y arquitectura | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/diseno-arquitectura.md) · [← OA anterior (AR-DARQ-3y4-OAC-06)](ar-darq-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Relacionar, a partir de investigaciones, las habilidades y conocimientos de la asignatura con diferentes contextos laborales, profesionales y de desarrollo personal.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13227) · [Clase 2](#cl-13228) · [Clase 3](#cl-13229) · [Clase 4](#cl-13230)
 
 ### Clase 1 de 4: Observar referentes y propósito: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13227}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: 35 casillas
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-darq-3y4-oac-06.md#cl-13226) · [Clase siguiente →](#cl-13228)
+
 ### Clase 2 de 4: Explorar soportes y procedimientos: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13228}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Una opinión
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13227) · [Clase siguiente →](#cl-13229)
 
 ### Clase 3 de 4: Tomar una decisión visual: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13229}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: 8 puntos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13228) · [Clase siguiente →](#cl-13230)
+
 ### Clase 4 de 4: Desarrollar una propuesta propia: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13230}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: 40 horas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13229)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

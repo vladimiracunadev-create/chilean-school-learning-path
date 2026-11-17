@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación y creación en danza | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-danza.md) · [← OA anterior (AR-ICDA-3y4-OAC-06)](ar-icda-3y4-oac-06.md) · [OA siguiente (AR-ICDA-3y4-OAC-08) →](ar-icda-3y4-oac-08.md)
+
 ## Qué se debe aprender
 > Evaluar críticamente procesos y resultados de obras de danza, tanto propios como de sus pares, considerando relaciones entre propósitos expresivos, aspectos estéticos y decisiones tomadas durante el proceso.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13495) · [Clase 2](#cl-13496) · [Clase 3](#cl-13497) · [Clase 4](#cl-13498) · [Clase 5](#cl-13499)
 
 ### Clase 1 de 5: Explorar movimiento con conciencia: Evaluar críticamente procesos y resultados de obras de danza, tanto propios como de… {#cl-13495}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Resultado logrado; proceso con poca evidencia
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icda-3y4-oac-06.md#cl-13494) · [Clase siguiente →](#cl-13496)
+
 ### Clase 2 de 5: Combinar espacio, tiempo y energía: Evaluar críticamente procesos y resultados de obras de danza, tanto propios como de… {#cl-13496}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 3 de 5
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13495) · [Clase siguiente →](#cl-13497)
 
 ### Clase 3 de 5: Componer una frase propia: Evaluar críticamente procesos y resultados de obras de danza, tanto propios como de… {#cl-13497}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Incorporar la primera y revisar la segunda con razones
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13496) · [Clase siguiente →](#cl-13498)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Evaluar críticamente procesos y resultados de obras de danza, tanto propios como de… {#cl-13498}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: 1 punto
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13497) · [Clase siguiente →](#cl-13499)
+
 ### Clase 5 de 5: Evaluar y revisar el proceso: Evaluar críticamente procesos y resultados de obras de danza, tanto propios como de… {#cl-13499}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: La mejora Y
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13498) · [Primera clase del OA siguiente →](ar-icda-3y4-oac-08.md#cl-13500)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

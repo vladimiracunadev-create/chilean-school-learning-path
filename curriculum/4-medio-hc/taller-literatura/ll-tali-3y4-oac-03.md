@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Taller de literatura | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/taller-literatura.md) · [← OA anterior (LL-TALI-3y4-OAC-02)](ll-tali-3y4-oac-02.md) · [OA siguiente (LL-TALI-3y4-OAC-04) →](ll-tali-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Contribuir con sus comentarios, sugerencias, interpretaciones y críticas a los procesos de lectura colectiva y de escritura creativa de sus pares.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14540) · [Clase 2](#cl-14541) · [Clase 3](#cl-14542) · [Clase 4](#cl-14543)
 
 ### Clase 1 de 4: Situar corpus, género y propósito: Contribuir con sus comentarios, sugerencias, interpretaciones y críticas a los… {#cl-14540}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Descalifica a la persona y no es específico
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Última clase del OA anterior](ll-tali-3y4-oac-02.md#cl-14539) · [Clase siguiente →](#cl-14541)
 
 ### Clase 2 de 4: Formular una lectura o problema: Contribuir con sus comentarios, sugerencias, interpretaciones y críticas a los… {#cl-14541}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -454,6 +461,9 @@ Respuesta: No: es un juicio de gusto
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14540) · [Clase siguiente →](#cl-14542)
+
 ### Clase 3 de 4: Analizar recursos y evidencia: Contribuir con sus comentarios, sugerencias, interpretaciones y críticas a los… {#cl-14542}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -660,6 +670,9 @@ Respuesta: Gusto
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-14541) · [Clase siguiente →](#cl-14543)
+
 ### Clase 4 de 4: Contrastar interpretaciones o discursos: Contribuir con sus comentarios, sugerencias, interpretaciones y críticas a los… {#cl-14543}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -864,6 +877,9 @@ Respuesta: Con reconocimiento y un pasaje que respalde tu otra lectura
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-14542) · [Primera clase del OA siguiente →](ll-tali-3y4-oac-04.md#cl-14544)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

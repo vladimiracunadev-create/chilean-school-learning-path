@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Filosofía política | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/filosofia-politica.md) · [← OA anterior (FI-FIPO-3y4-OAC-01)](fi-fipo-3y4-oac-01.md) · [OA siguiente (FI-FIPO-3y4-OAC-03) →](fi-fipo-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Evaluar críticamente, desde el horizonte del bien común, las relaciones de poder y su expresión tanto en la institucionalidad política como entre los individuos de una sociedad en contextos de la vida cotidiana.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14107) · [Clase 2](#cl-14108) · [Clase 3](#cl-14109) · [Clase 4](#cl-14110) · [Clase 5](#cl-14111)
 
 ### Clase 1 de 5: Problematizar una situación: Evaluar críticamente, desde el horizonte del bien común, las relaciones de poder y su… {#cl-14107}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: ¿Con qué derecho cobra el directorio? ¿Por qué no consultó a las
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-fipo-3y4-oac-01.md#cl-14106) · [Clase siguiente →](#cl-14108)
+
 ### Clase 2 de 5: Definir conceptos: Evaluar críticamente, desde el horizonte del bien común, las relaciones de poder y su… {#cl-14108}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: El vecino expresa el poder como imposición y la vecina el poder como
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14107) · [Clase siguiente →](#cl-14109)
 
 ### Clase 3 de 5: Reconstruir una perspectiva: Evaluar críticamente, desde el horizonte del bien común, las relaciones de poder y su… {#cl-14109}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Deja en segundo plano la acción conjunta, que muestra mejor la persp
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14108) · [Clase siguiente →](#cl-14110)
+
 ### Clase 4 de 5: Formular y evaluar argumentos: Evaluar críticamente, desde el horizonte del bien común, las relaciones de poder y su… {#cl-14110}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Si una decisión debe considerar a quienes dependen del bien afectado
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14109) · [Clase siguiente →](#cl-14111)
+
 ### Clase 5 de 5: Responder objeciones: Evaluar críticamente, desde el horizonte del bien común, las relaciones de poder y su… {#cl-14111}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Existen jerarquías, pero conviene evaluar si cada una está justific
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14110) · [Primera clase del OA siguiente →](fi-fipo-3y4-oac-03.md#cl-14112)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

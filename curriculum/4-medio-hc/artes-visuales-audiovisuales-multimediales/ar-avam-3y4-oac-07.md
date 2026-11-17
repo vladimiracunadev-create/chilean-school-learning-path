@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Artes visuales, audiovisuales y multimediales | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/artes-visuales-audiovisuales-multimediales.md) · [← OA anterior (AR-AVAM-3y4-OAC-06)](ar-avam-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Relacionar, a partir de investigaciones, las habilidades y conocimientos de la asignatura con diferentes contextos laborales, profesionales y de desarrollo personal.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13807) · [Clase 2](#cl-13808) · [Clase 3](#cl-13809) · [Clase 4](#cl-13810)
 
 ### Clase 1 de 4: Observar referentes y propósito: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13807}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Permite cumplir la fecha de apertura
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-avam-3y4-oac-06.md#cl-13806) · [Clase siguiente →](#cl-13808)
+
 ### Clase 2 de 4: Explorar soportes y procedimientos: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13808}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Lenguaje audiovisual: planos y montaje
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13807) · [Clase siguiente →](#cl-13809)
 
 ### Clase 3 de 4: Tomar una decisión visual: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13809}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: No es abierta
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13808) · [Clase siguiente →](#cl-13810)
+
 ### Clase 4 de 4: Desarrollar una propuesta propia: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13810}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Sí, con su autorización escrita y sin datos personales
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13809)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

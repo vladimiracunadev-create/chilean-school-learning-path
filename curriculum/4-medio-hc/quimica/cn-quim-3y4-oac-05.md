@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Química | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/quimica.md) · [← OA anterior (CN-QUIM-3y4-OAC-04)](cn-quim-3y4-oac-04.md) · [OA siguiente (CN-QUIM-3y4-OAC-06) →](cn-quim-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Analizar el origen, las vías de exposición, los efectos y las propiedades de contaminantes químicos provenientes de actividades domésticas e industriales (como minería, agricultura y desarrollo urbano) sobre los sistemas naturales y los servicios ecosistémicos que estos brindan a las personas y a la sociedad.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14493) · [Clase 2](#cl-14494) · [Clase 3](#cl-14495) · [Clase 4](#cl-14496) · [Clase 5](#cl-14497) · [Clase 6](#cl-14498)
 
 ### Clase 1 de 6: Delimitar pregunta y sistema: Analizar el origen, las vías de exposición, los efectos y las propiedades de… {#cl-14493}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: 400 mg/s
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-quim-3y4-oac-04.md#cl-14492) · [Clase siguiente →](#cl-14494)
+
 ### Clase 2 de 6: Evaluar fuentes y variables: Analizar el origen, las vías de exposición, los efectos y las propiedades de… {#cl-14494}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: Inhalación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14493) · [Clase siguiente →](#cl-14495)
 
 ### Clase 3 de 6: Construir o interpretar un modelo: Analizar el origen, las vías de exposición, los efectos y las propiedades de… {#cl-14495}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -659,6 +669,9 @@ Respuesta: Baja el oxígeno disuelto
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14494) · [Clase siguiente →](#cl-14496)
+
 ### Clase 4 de 6: Analizar evidencia: Analizar el origen, las vías de exposición, los efectos y las propiedades de… {#cl-14496}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -864,6 +877,9 @@ Respuesta: Aumentó 130 µg/L
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14495) · [Clase siguiente →](#cl-14497)
 
 ### Clase 5 de 6: Comparar soluciones: Analizar el origen, las vías de exposición, los efectos y las propiedades de… {#cl-14497}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1071,6 +1087,9 @@ Respuesta: 50 µg/L
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14496) · [Clase siguiente →](#cl-14498)
+
 ### Clase 6 de 6: Comunicar límites y decisión: Analizar el origen, las vías de exposición, los efectos y las propiedades de… {#cl-14498}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1276,6 +1295,9 @@ Respuesta: 30 unidades por familia
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14497) · [Primera clase del OA siguiente →](cn-quim-3y4-oac-06.md#cl-14499)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

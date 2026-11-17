@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Física | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/fisica.md) · [← OA anterior (CN-FISI-3y4-OAC-05)](cn-fisi-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Valorar la importancia de la integración de los conocimientos de la física con otras ciencias para el análisis y la propuesta de soluciones a problemas actuales, considerando las implicancias éticas, sociales y ambientales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14156) · [Clase 2](#cl-14157) · [Clase 3](#cl-14158) · [Clase 4](#cl-14159)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Valorar la importancia de la integración de los conocimientos de la física con otras… {#cl-14156}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: «¿Cuántos kWh por mes ahorra el gimnasio con la caldera nueva?»
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-fisi-3y4-oac-05.md#cl-14155) · [Clase siguiente →](#cl-14157)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Valorar la importancia de la integración de los conocimientos de la física con otras… {#cl-14157}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No lo uso como evidencia hasta contrastarlo con una fuente independie
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14156) · [Clase siguiente →](#cl-14158)
 
 ### Clase 3 de 4: Construir o interpretar un modelo: Valorar la importancia de la integración de los conocimientos de la física con otras… {#cl-14158}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 1,2 kWh
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-14157) · [Clase siguiente →](#cl-14159)
+
 ### Clase 4 de 4: Analizar evidencia: Valorar la importancia de la integración de los conocimientos de la física con otras… {#cl-14159}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: 16 puntos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-14158)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-musical.md) · [OA siguiente (AR-IMUS-3y4-OAC-02) →](ar-imus-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Innovar al resolver desafíos de la interpretación musical, considerando procedimientos expresivos (fraseo, ritmo, armonía, otros), aspectos de la ejecución y la evaluación crítica personal y de otros.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14210) · [Clase 2](#cl-14211) · [Clase 3](#cl-14212) · [Clase 4](#cl-14213)
 
 ### Clase 1 de 4: Escuchar y reconocer rasgos: Innovar al resolver desafíos de la interpretación musical, considerando procedimientos… {#cl-14210}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Parte suave, sube poco a poco en el compás 2 y llega a fuerte en el 
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[Clase siguiente →](#cl-14211)
+
 ### Clase 2 de 4: Explorar recursos de producción: Innovar al resolver desafíos de la interpretación musical, considerando procedimientos… {#cl-14211}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: Toma: tempo 90 en vez de 70; se conservan notas, ritmo y dinámica; e
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14210) · [Clase siguiente →](#cl-14212)
 
 ### Clase 3 de 4: Ensayar una decisión musical: Innovar al resolver desafíos de la interpretación musical, considerando procedimientos… {#cl-14212}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -657,6 +667,9 @@ Respuesta: Hay la mitad del tiempo para respirar, así que conviene revisar el p
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14211) · [Clase siguiente →](#cl-14213)
+
 ### Clase 4 de 4: Interpretar, crear o analizar: Innovar al resolver desafíos de la interpretación musical, considerando procedimientos… {#cl-14213}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Alargó el último sonido sobre el silencio; la dinámica final fue c
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14212) · [Primera clase del OA siguiente →](ar-imus-3y4-oac-02.md#cl-14214)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

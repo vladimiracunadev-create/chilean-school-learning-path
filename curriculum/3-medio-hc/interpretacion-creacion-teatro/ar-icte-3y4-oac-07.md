@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [← OA anterior (AR-ICTE-3y4-OAC-06)](ar-icte-3y4-oac-06.md) · [OA siguiente (AR-ICTE-3y4-OAC-08) →](ar-icte-3y4-oac-08.md)
+
 ## Qué se debe aprender
 > Evaluar críticamente procesos y resultados de obras teatrales, tanto propios como de sus pares, considerando relaciones entre propósitos expresivos, aspectos estéticos y decisiones tomadas durante el proceso.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13534) · [Clase 2](#cl-13535) · [Clase 3](#cl-13536) · [Clase 4](#cl-13537) · [Clase 5](#cl-13538)
 
 ### Clase 1 de 5: Explorar cuerpo, gesto y voz: Evaluar críticamente procesos y resultados de obras teatrales, tanto propios como de… {#cl-13534}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Sin evidencia suficiente; se observará en el siguiente ensayo
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icte-3y4-oac-06.md#cl-13533) · [Clase siguiente →](#cl-13535)
+
 ### Clase 2 de 5: Construir situación y personaje: Evaluar críticamente procesos y resultados de obras teatrales, tanto propios como de… {#cl-13535}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: 3,4 de 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13534) · [Clase siguiente →](#cl-13536)
 
 ### Clase 3 de 5: Ensayar decisiones escénicas: Evaluar críticamente procesos y resultados de obras teatrales, tanto propios como de… {#cl-13536}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Efecto halo
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13535) · [Clase siguiente →](#cl-13537)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Evaluar críticamente procesos y resultados de obras teatrales, tanto propios como de… {#cl-13537}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: No se puede generalizar a todo el público
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13536) · [Clase siguiente →](#cl-13538)
+
 ### Clase 5 de 5: Evaluar y revisar: Evaluar críticamente procesos y resultados de obras teatrales, tanto propios como de… {#cl-13538}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Meta con acción, responsable, plazo y verificación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13537) · [Primera clase del OA siguiente →](ar-icte-3y4-oac-08.md#cl-13539)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

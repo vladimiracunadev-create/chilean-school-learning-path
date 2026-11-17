@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en danza | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-danza.md) · [OA siguiente (AR-ICDA-3y4-OAC-02) →](ar-icda-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Experimentar con los elementos y recursos del lenguaje de la danza (aspectos técnicos, espacio, flujo, energía, entre otros) de manera consciente, a través de la investigación corporal y aplicándolos en la interpretación de propósitos expresivos personales y colectivos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14245) · [Clase 2](#cl-14246) · [Clase 3](#cl-14247) · [Clase 4](#cl-14248) · [Clase 5](#cl-14249)
 
 ### Clase 1 de 5: Explorar movimiento con conciencia: Experimentar con los elementos y recursos del lenguaje de la danza (aspectos técnicos,… {#cl-14245}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: La variable es la posición de los brazos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[Clase siguiente →](#cl-14246)
+
 ### Clase 2 de 5: Combinar espacio, tiempo y energía: Experimentar con los elementos y recursos del lenguaje de la danza (aspectos técnicos,… {#cl-14246}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 16 combinaciones
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14245) · [Clase siguiente →](#cl-14247)
 
 ### Clase 3 de 5: Componer una frase propia: Experimentar con los elementos y recursos del lenguaje de la danza (aspectos técnicos,… {#cl-14247}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 36 segundos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14246) · [Clase siguiente →](#cl-14248)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Experimentar con los elementos y recursos del lenguaje de la danza (aspectos técnicos,… {#cl-14248}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: En el tiempo 10
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14247) · [Clase siguiente →](#cl-14249)
+
 ### Clase 5 de 5: Evaluar y revisar el proceso: Experimentar con los elementos y recursos del lenguaje de la danza (aspectos técnicos,… {#cl-14249}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Sí, porque fue el único cambio
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14248) · [Primera clase del OA siguiente →](ar-icda-3y4-oac-02.md#cl-14250)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

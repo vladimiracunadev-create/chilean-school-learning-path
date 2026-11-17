@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Ciencias de la salud | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/ciencias-salud.md) · [OA siguiente (CN-CSAL-3y4-OAC-02) →](cn-csal-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Analizar desde una perspectiva sistémica problemas complejos en materia de salud pública que afectan a la sociedad a escala local y global, tales como transmisión de infecciones, consumo de drogas, infecciones de transmisión sexual, desequilibrios alimentarios y enfermedades profesionales/laborales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13866) · [Clase 2](#cl-13867) · [Clase 3](#cl-13868) · [Clase 4](#cl-13869) · [Clase 5](#cl-13870) · [Clase 6](#cl-13871)
 
 ### Clase 1 de 6: Delimitar pregunta y sistema: Analizar desde una perspectiva sistémica problemas complejos en materia de salud… {#cl-13866}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: La segunda pregunta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[Clase siguiente →](#cl-13867)
+
 ### Clase 2 de 6: Evaluar fuentes y variables: Analizar desde una perspectiva sistémica problemas complejos en materia de salud… {#cl-13867}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: Una variable confusora
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13866) · [Clase siguiente →](#cl-13868)
 
 ### Clase 3 de 6: Construir o interpretar un modelo: Analizar desde una perspectiva sistémica problemas complejos en materia de salud… {#cl-13868}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -658,6 +668,9 @@ Respuesta: 9 casos con 3 contagios, 1 caso con 1 contagio por caso
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13867) · [Clase siguiente →](#cl-13869)
+
 ### Clase 4 de 6: Analizar evidencia: Analizar desde una perspectiva sistémica problemas complejos en materia de salud… {#cl-13869}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -864,6 +877,9 @@ Respuesta: 25 casos por cada 10.000 jóvenes
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13868) · [Clase siguiente →](#cl-13870)
+
 ### Clase 5 de 6: Comparar soluciones: Analizar desde una perspectiva sistémica problemas complejos en materia de salud… {#cl-13870}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1069,6 +1085,9 @@ Respuesta: Empate en 7 puntos
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13869) · [Clase siguiente →](#cl-13871)
+
 ### Clase 6 de 6: Comunicar límites y decisión: Analizar desde una perspectiva sistémica problemas complejos en materia de salud… {#cl-13871}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1273,6 +1292,9 @@ Respuesta: La segunda frase
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13870) · [Primera clase del OA siguiente →](cn-csal-3y4-oac-02.md#cl-13872)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

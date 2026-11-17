@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Límites, derivadas e integrales | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/limites-derivadas-integrales.md) · [← OA anterior (MA-LIDI-3y4-OAC-02)](ma-lidi-3y4-oac-02.md) · [OA siguiente (MA-LIDI-3y4-OAC-04) →](ma-lidi-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Modelar situaciones o fenómenos que involucren rapidez instantánea de cambio y evaluar la necesidad eventual de ajustar el modelo obtenido.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13578) · [Clase 2](#cl-13579) · [Clase 3](#cl-13580) · [Clase 4](#cl-13581) · [Clase 5](#cl-13582)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Modelar situaciones o fenómenos que involucren rapidez instantánea de cambio y evaluar… {#cl-13578}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: La rapidez instantánea en t = 3 se acerca a 30 m/s
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-lidi-3y4-oac-02.md#cl-13577) · [Clase siguiente →](#cl-13579)
+
 ### Clase 2 de 5: Representar de dos maneras: Modelar situaciones o fenómenos que involucren rapidez instantánea de cambio y evaluar… {#cl-13579}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: La pendiente de la tangente en x = 2 es 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13578) · [Clase siguiente →](#cl-13580)
 
 ### Clase 3 de 5: Desarrollar una estrategia: Modelar situaciones o fenómenos que involucren rapidez instantánea de cambio y evaluar… {#cl-13580}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: r'(x) = 4, la pendiente de la recta
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13579) · [Clase siguiente →](#cl-13581)
+
 ### Clase 4 de 5: Justificar relaciones: Modelar situaciones o fenómenos que involucren rapidez instantánea de cambio y evaluar… {#cl-13581}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: A los 3 minutos la taza se enfría a 6 °C por minuto
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13580) · [Clase siguiente →](#cl-13582)
+
 ### Clase 5 de 5: Comprobar y comparar: Modelar situaciones o fenómenos que involucren rapidez instantánea de cambio y evaluar… {#cl-13582}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: El modelo A no refleja que la taza se enfría cada vez más lento
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13581) · [Primera clase del OA siguiente →](ma-lidi-3y4-oac-04.md#cl-13583)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

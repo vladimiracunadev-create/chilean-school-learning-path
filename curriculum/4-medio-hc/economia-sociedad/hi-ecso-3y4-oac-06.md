@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [← OA anterior (HI-ECSO-3y4-OAC-05)](hi-ecso-3y4-oac-05.md) · [OA siguiente (HI-ECSO-3y4-OAC-07) →](hi-ecso-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Analizar el comercio internacional considerando ventajas comparativas, términos de intercambio, alianzas y tratados a las que subscriben los países, el impacto en las economías locales y nacionales y los desafíos que enfrentan al insertarse en el mercado global.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14037) · [Clase 2](#cl-14038) · [Clase 3](#cl-14039) · [Clase 4](#cl-14040) · [Clase 5](#cl-14041) · [Clase 6](#cl-14042)
 
 ### Clase 1 de 6: Contextualizar actores, tiempo y espacio: Analizar el comercio internacional considerando ventajas comparativas, términos de… {#cl-14037}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Diferencias de recursos y clima
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-ecso-3y4-oac-05.md#cl-14036) · [Clase siguiente →](#cl-14038)
+
 ### Clase 2 de 6: Interrogar fuentes e indicadores: Analizar el comercio internacional considerando ventajas comparativas, términos de… {#cl-14038}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: País X
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14037) · [Clase siguiente →](#cl-14039)
 
 ### Clase 3 de 6: Comparar causas y perspectivas: Analizar el comercio internacional considerando ventajas comparativas, términos de… {#cl-14039}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 150: mejoraron
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14038) · [Clase siguiente →](#cl-14040)
+
 ### Clase 4 de 6: Explicar relaciones y consecuencias: Analizar el comercio internacional considerando ventajas comparativas, términos de… {#cl-14040}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: 350 unidades
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14039) · [Clase siguiente →](#cl-14041)
 
 ### Clase 5 de 6: Evaluar alternativas: Analizar el comercio internacional considerando ventajas comparativas, términos de… {#cl-14041}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Balance nacional positivo; pérdida local concentrada
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14040) · [Clase siguiente →](#cl-14042)
+
 ### Clase 6 de 6: Comunicar una conclusión situada: Analizar el comercio internacional considerando ventajas comparativas, términos de… {#cl-14042}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: 70
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14041) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-07.md#cl-14043)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

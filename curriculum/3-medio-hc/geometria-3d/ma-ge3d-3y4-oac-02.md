@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Geometría 3D | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geometria-3d.md) · [← OA anterior (MA-GE3D-3y4-OAC-01)](ma-ge3d-3y4-oac-01.md) · [OA siguiente (MA-GE3D-3y4-OAC-03) →](ma-ge3d-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Resolver problemas que involucren puntos, rectas y planos en el espacio 3D, haciendo uso de vectores e incluyendo representaciones digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13413) · [Clase 2](#cl-13414) · [Clase 3](#cl-13415) · [Clase 4](#cl-13416)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Resolver problemas que involucren puntos, rectas y planos en el espacio 3D, haciendo… {#cl-13413}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: El punto medio es (1, 4, 4)
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-ge3d-3y4-oac-01.md#cl-13412) · [Clase siguiente →](#cl-13414)
+
 ### Clase 2 de 4: Representar de dos maneras: Resolver problemas que involucren puntos, rectas y planos en el espacio 3D, haciendo… {#cl-13414}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Sí, con t = 3 en las tres coordenadas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13413) · [Clase siguiente →](#cl-13415)
 
 ### Clase 3 de 4: Desarrollar una estrategia: Resolver problemas que involucren puntos, rectas y planos en el espacio 3D, haciendo… {#cl-13415}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Sí, Q pertenece al plano
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13414) · [Clase siguiente →](#cl-13416)
+
 ### Clase 4 de 4: Justificar relaciones: Resolver problemas que involucren puntos, rectas y planos en el espacio 3D, haciendo… {#cl-13416}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: La distancia es 3 unidades
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13415) · [Primera clase del OA siguiente →](ma-ge3d-3y4-oac-03.md#cl-13417)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

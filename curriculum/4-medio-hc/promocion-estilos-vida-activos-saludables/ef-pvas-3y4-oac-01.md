@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Promoción de estilos de vida activos y saludables | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/promocion-estilos-vida-activos-saludables.md) · [OA siguiente (EF-PVAS-3y4-OAC-02) →](ef-pvas-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Practicar una variedad de actividades físicas de intensidad moderada a vigorosa que sean de su interés, para adquirir un estilo de vida activo saludable.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14449) · [Clase 2](#cl-14450) · [Clase 3](#cl-14451) · [Clase 4](#cl-14452)
 
 ### Clase 1 de 4: Diagnosticar de forma privada y segura: Practicar una variedad de actividades físicas de intensidad moderada a vigorosa que… {#cl-14449}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Baile en casa, 30 minutos, esfuerzo 6 a 7
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[Clase siguiente →](#cl-14450)
+
 ### Clase 2 de 4: Elegir una respuesta motriz: Practicar una variedad de actividades físicas de intensidad moderada a vigorosa que… {#cl-14450}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No: tiene un solo tipo; le faltan dos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14449) · [Clase siguiente →](#cl-14451)
 
 ### Clase 3 de 4: Aplicar estrategia o plan: Practicar una variedad de actividades físicas de intensidad moderada a vigorosa que… {#cl-14451}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: No cuenta: el bloque es menor de 10 minutos
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
 
+
+[← Clase anterior](#cl-14450) · [Clase siguiente →](#cl-14452)
+
 ### Clase 4 de 4: Registrar regulación y resultado: Practicar una variedad de actividades físicas de intensidad moderada a vigorosa que… {#cl-14452}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -859,6 +872,9 @@ Respuesta: Bajar el esfuerzo a 6 o 7 la próxima sesión
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente conduce progresión y seguridad; educación diferencial acuerda variantes y salud escolar actúa por protocolo, sin diagnosticar ni publicar datos corporales.
+
+
+[← Clase anterior](#cl-14451) · [Primera clase del OA siguiente →](ef-pvas-3y4-oac-02.md#cl-14453)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

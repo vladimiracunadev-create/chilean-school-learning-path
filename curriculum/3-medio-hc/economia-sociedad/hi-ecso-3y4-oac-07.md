@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [← OA anterior (HI-ECSO-3y4-OAC-06)](hi-ecso-3y4-oac-06.md) · [OA siguiente (HI-ECSO-3y4-OAC-08) →](hi-ecso-3y4-oac-08.md)
+
 ## Qué se debe aprender
 > Explicar políticas económicas relacionadas al crecimiento y desarrollo en Chile en el contexto de la necesidad pública a la que responden, aplicando conceptos de la macroeconomía.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13263) · [Clase 2](#cl-13264) · [Clase 3](#cl-13265) · [Clase 4](#cl-13266)
 
 ### Clase 1 de 4: Contextualizar actores, tiempo y espacio: Explicar políticas económicas relacionadas al crecimiento y desarrollo en Chile en el… {#cl-13263}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 150
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-ecso-3y4-oac-06.md#cl-13262) · [Clase siguiente →](#cl-13264)
+
 ### Clase 2 de 4: Interrogar fuentes e indicadores: Explicar políticas económicas relacionadas al crecimiento y desarrollo en Chile en el… {#cl-13264}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Revisar si la baja se debe a personas que dejaron de buscar trabajo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13263) · [Clase siguiente →](#cl-13265)
 
 ### Clase 3 de 4: Comparar causas y perspectivas: Explicar políticas económicas relacionadas al crecimiento y desarrollo en Chile en el… {#cl-13265}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Crédito más caro y menor demanda
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13264) · [Clase siguiente →](#cl-13266)
+
 ### Clase 4 de 4: Explicar relaciones y consecuencias: Explicar políticas económicas relacionadas al crecimiento y desarrollo en Chile en el… {#cl-13266}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: $200.000 por persona
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13265) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-08.md#cl-13267)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

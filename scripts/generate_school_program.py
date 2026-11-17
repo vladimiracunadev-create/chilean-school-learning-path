@@ -210,8 +210,22 @@ def official_alignment_html(item):
  indicator_note=f'<p><strong>Origen:</strong> {html.escape(data["indicator_origin"])}</p>' if data.get("indicator_origin") else ""
  return f'''<section class="sources-panel official-alignment"><div><p class="eyebrow">Alineación curricular</p><h2>Fuente y progresión utilizada</h2><p>Esta secuencia conserva la ficha oficial y explicita el origen de sus criterios de diseño.</p></div><div><h3>{unit_heading}</h3><ul>{units}</ul>{unit_note}<h3>{indicator_heading}</h3><ul>{indicators}</ul>{indicator_note}<p><a href="{source}" rel="noopener">Consultar fuente oficial</a></p></div></section>'''
 
-def plan(item):
+def hc_markdown_nav(item,previous_item,next_item):
+ slug=item["subject_slug"];links=[f"[📘 Guía del electivo](../../../docs/electivos-hc/{slug}.md)"]
+ if previous_item:links.append(f"[← OA anterior ({previous_item['oa_code']})]({slugify(previous_item['oa_code'])}.md)")
+ if next_item:links.append(f"[OA siguiente ({next_item['oa_code']}) →]({slugify(next_item['oa_code'])}.md)")
+ index=" · ".join(f"[Clase {n}](#{code.lower()})" for n,code in enumerate(item["codes"],1))
+ return " · ".join(links),index
+def hc_class_nav(item,i,previous_item,next_item):
+ codes=item["codes"];links=[]
+ if i>1:links.append(f"[← Clase anterior](#{codes[i-2].lower()})")
+ elif previous_item:links.append(f"[← Última clase del OA anterior]({slugify(previous_item['oa_code'])}.md#{previous_item['codes'][-1].lower()})")
+ if i<len(codes):links.append(f"[Clase siguiente →](#{codes[i].lower()})")
+ elif next_item:links.append(f"[Primera clase del OA siguiente →]({slugify(next_item['oa_code'])}.md#{next_item['codes'][0].lower()})")
+ return "\n\n"+" · ".join(links)+"\n" if links else ""
+def plan(item,previous_item=None,next_item=None):
  vocab,product,errors=discipline(item["subject_slug"]);parts=[]
+ hc=item["course_order"]>=13
  content=item.get("developed") or item.get("integration") or item.get("draft")
  developed_content=item.get("developed") or {}
  if developed_content.get("pedagogical_explanation"):
@@ -223,7 +237,7 @@ def plan(item):
  for i,(code,(title,focus)) in enumerate(zip(item["codes"],item["phases"]),1):
   if content:
    lesson=content["lessons"][i-1]
-   parts.append(f"### Clase {i} de {len(item['phases'])}: {lesson['title']} {{#{code.lower()}}}\n**Estado editorial:** {content_status}.\n\n"+developed_block(lesson))
+   parts.append(f"### Clase {i} de {len(item['phases'])}: {lesson['title']} {{#{code.lower()}}}\n**Estado editorial:** {content_status}.\n\n"+developed_block(lesson)+(hc_class_nav(item,i,previous_item,next_item) if hc else ""))
    continue
   oa_excerpt=item["oa_text"].rstrip(".")
   parts.append(f"""### Clase {i} de {len(item['phases'])}: {title} {{#{code.lower()}}}
@@ -243,13 +257,16 @@ def plan(item):
 
 **Errores previsibles:** {errors}. **Evidencia:** {product} que responda al verbo del OA y muestre razonamiento. **Criterios de éxito:** aborda el OA, usa evidencia pertinente, explica una decisión y revisa el resultado. Reenseña errores comunes; forma un grupo breve ante errores puntuales; ofrece transferencia cuando exista dominio. En 45 minutos conserva meta, modelado, práctica y ticket.
 """)
+ hc_top="";hc_index=""
+ if hc:
+  _top,_idx=hc_markdown_nav(item,previous_item,next_item);hc_top="\n"+_top+"\n";hc_index="\n**Clases de este OA:** "+_idx+"\n"
  reads=item["readings"]
  reading="\n".join(f"- [{r['title']}]({r['url']}) — lectura vinculada por MINEDUC." for r in reads) if reads else "La ficha oficial no registra una lectura específica. Selecciona un texto pertinente del plan lector del establecimiento o de recursos oficiales."
  return f"""# {item['oa_code']} — {item['topic']}
 | Nivel | Asignatura | Tema/eje | Cobertura | Dosificación |
 |---|---|---|---|---|
 | {item['course']} | {item['subject']} | {item['axis']} | {item['coverage']} | {len(item['phases'])} clases de 90 min |
-
+{hc_top}
 ## Qué se debe aprender
 > {item['oa_text']}
 
@@ -268,7 +285,7 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
-
+{hc_index}
 {chr(10).join(parts)}
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
@@ -279,6 +296,11 @@ Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/
 - Snapshot: {item['verified_at']}
 - [Volver a la malla](../../../CURRICULUM.md)
 """
+
+def hc_neighbor(objs,index,step):
+ j=index+step
+ if 0<=j<len(objs) and objs[j]["course_slug"]==objs[index]["course_slug"] and objs[j]["subject_slug"]==objs[index]["subject_slug"]:return objs[j]
+ return None
 
 def page_path(item):
  return f"classes/{item['course_slug']}/{item['subject_slug']}/{slugify(item['oa_code'])}.html"
@@ -1724,6 +1746,22 @@ def lesson_page(item, previous_item=None, next_item=None):
 <div class="support-grid"><p><strong>Apoyo:</strong> anticipa {esc(vocab)}, muestra un ejemplo resuelto y admite distintas formas de respuesta sin reducir el OA.</p><p><strong>Profundización:</strong> compara otra estrategia, examina un caso límite y transfiere el aprendizaje a una situación nueva.</p></div>
 <p class="success-criteria"><strong>Criterios de éxito:</strong> responde al OA, usa evidencia pertinente, explica una decisión y revisa el resultado.</p>
 </article>''')
+ if item["course_order"]>=13:
+  _same=lambda other:other and other["course_slug"]==item["course_slug"] and other["subject_slug"]==item["subject_slug"]
+  _prev=previous_item if _same(previous_item) else None;_next=next_item if _same(next_item) else None
+  _codes=item["codes"];_name=lambda other:slugify(other["oa_code"])
+  for _n in range(len(sessions)):
+   _links=[]
+   if _n>0:_links.append(f'<a href="#{esc(_codes[_n-1].lower())}">← Clase anterior</a>')
+   elif _prev:_links.append(f'<a href="{_name(_prev)}.html#{esc(_prev["codes"][-1].lower())}">← Última clase del OA anterior</a>')
+   if _n+1<len(sessions):_links.append(f'<a href="#{esc(_codes[_n+1].lower())}">Clase siguiente →</a>')
+   elif _next:_links.append(f'<a href="{_name(_next)}.html#{esc(_next["codes"][0].lower())}">Primera clase del OA siguiente →</a>')
+   if _links:sessions[_n]=sessions[_n].replace("</article>",f'<nav class="class-nav" aria-label="Navegación entre clases">{" ".join(_links)}</nav></article>')
+  _index="".join(f'<a href="#{esc(c.lower())}">Clase {n}</a>' for n,c in enumerate(_codes,1))
+  _top=[f'<a href="../../../docs/electivos-hc/{esc(item["subject_slug"])}.html">📘 Guía del electivo</a>']
+  if _prev:_top.append(f'<a href="{_name(_prev)}.html">← OA anterior ({esc(_prev["oa_code"])})</a>')
+  if _next:_top.append(f'<a href="{_name(_next)}.html">OA siguiente ({esc(_next["oa_code"])}) →</a>')
+  sessions.insert(0,f'<nav class="class-index" aria-label="Clases de este OA"><strong>Clases de este OA:</strong> {_index}<span>{" ".join(_top)}</span></nav>')
  editorial="Desarrollada" if item.get("developed") else "Integración transversal" if item.get("integration") else "Borrador estructurado" if item.get("draft") else "Secuenciada"
  editorial_note="Contenido disciplinar específico; pendiente de revisión humana." if item.get("developed") else "Habilidad o actitud incorporada dentro de las 83 clases de contenido; no se cuenta como clase independiente." if item.get("integration") else "Plantilla navegable pendiente de desarrollo disciplinar específico." if item.get("draft") else "No equivale aún a una clase disciplinar revisada."
  alignment_html=official_alignment_html(item)
@@ -1895,7 +1933,7 @@ def main():
  if pages_root.exists():
   shutil.rmtree(pages_root)
  for index,item in enumerate(objs):
-  target=ROOT/item["path"];target.parent.mkdir(parents=True,exist_ok=True);target.write_text(plan(item),encoding="utf-8")
+  target=ROOT/item["path"];target.parent.mkdir(parents=True,exist_ok=True);target.write_text(plan(item,hc_neighbor(objs,index,-1),hc_neighbor(objs,index,1)),encoding="utf-8")
   web_target=ROOT/"site"/page_path(item);web_target.parent.mkdir(parents=True,exist_ok=True)
   web_target.write_text(lesson_page(item,objs[index-1] if index else None,objs[index+1] if index+1<len(objs) else None),encoding="utf-8")
  levels_root=ROOT/"site"/"levels";levels_root.mkdir(parents=True,exist_ok=True)

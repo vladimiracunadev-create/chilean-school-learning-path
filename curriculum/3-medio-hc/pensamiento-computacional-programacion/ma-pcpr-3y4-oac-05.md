@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Pensamiento computacional y programación | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/pensamiento-computacional-programacion.md) · [← OA anterior (MA-PCPR-3y4-OAC-04)](ma-pcpr-3y4-oac-04.md) · [OA siguiente (MA-PCPR-3y4-OAC-06) →](ma-pcpr-3y4-oac-06.md)
+
 ## Qué se debe aprender
 > Desarrollar aplicaciones para dispositivos móviles y para dispositivos provistos de sensores y mecanismos de control.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13643) · [Clase 2](#cl-13644) · [Clase 3](#cl-13645) · [Clase 4](#cl-13646)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Desarrollar aplicaciones para dispositivos móviles y para dispositivos provistos de… {#cl-13643}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Entradas: sensor y botón; salidas: bomba y pantalla
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-pcpr-3y4-oac-04.md#cl-13642) · [Clase siguiente →](#cl-13644)
+
 ### Clase 2 de 4: Representar de dos maneras: Desarrollar aplicaciones para dispositivos móviles y para dispositivos provistos de… {#cl-13644}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: Casi completa: falta definir un evento en un estado
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13643) · [Clase siguiente →](#cl-13645)
+
 ### Clase 3 de 4: Desarrollar una estrategia: Desarrollar aplicaciones para dispositivos móviles y para dispositivos provistos de… {#cl-13645}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -654,6 +664,9 @@ Respuesta: Estados: 1, 1, 1, 1, 1, 1, 0
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13644) · [Clase siguiente →](#cl-13646)
 
 ### Clase 4 de 4: Justificar relaciones: Desarrollar aplicaciones para dispositivos móviles y para dispositivos provistos de… {#cl-13646}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -859,6 +872,9 @@ Respuesta: Ninguno: pedirlos viola el principio de mínimo permiso
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13645) · [Primera clase del OA siguiente →](ma-pcpr-3y4-oac-06.md#cl-13647)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

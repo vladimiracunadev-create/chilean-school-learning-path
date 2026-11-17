@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Biología celular y molecular | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-celular-molecular.md) · [← OA anterior (CN-BCMO-3y4-OAC-05)](cn-bcmo-3y4-oac-05.md) · [OA siguiente (CN-BCMO-3y4-OAC-07) →](cn-bcmo-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Analizar el desarrollo del conocimiento de biología celular y molecular en Chile y el mundo, considerando diversas líneas de investigación y la relación entre ciencia, tecnología y sociedad.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13834) · [Clase 2](#cl-13835) · [Clase 3](#cl-13836) · [Clase 4](#cl-13837) · [Clase 5](#cl-13838)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Analizar el desarrollo del conocimiento de biología celular y molecular en Chile y el… {#cl-13834}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Estructura y función de proteínas de membrana
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-bcmo-3y4-oac-05.md#cl-13833) · [Clase siguiente →](#cl-13835)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Analizar el desarrollo del conocimiento de biología celular y molecular en Chile y el… {#cl-13835}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: No se puede afirmar la causalidad solo con esos datos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13834) · [Clase siguiente →](#cl-13836)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Analizar el desarrollo del conocimiento de biología celular y molecular en Chile y el… {#cl-13836}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: 12 años
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13835) · [Clase siguiente →](#cl-13837)
+
 ### Clase 4 de 5: Analizar evidencia: Analizar el desarrollo del conocimiento de biología celular y molecular en Chile y el… {#cl-13837}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: No permite concluir sobre la cantidad o calidad de la investigación
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13836) · [Clase siguiente →](#cl-13838)
+
 ### Clase 5 de 5: Comparar soluciones: Analizar el desarrollo del conocimiento de biología celular y molecular en Chile y el… {#cl-13838}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: El método 2
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13837) · [Primera clase del OA siguiente →](cn-bcmo-3y4-oac-07.md#cl-13839)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

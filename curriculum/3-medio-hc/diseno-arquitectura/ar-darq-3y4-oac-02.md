@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Diseño y arquitectura | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/diseno-arquitectura.md) · [← OA anterior (AR-DARQ-3y4-OAC-01)](ar-darq-3y4-oac-01.md) · [OA siguiente (AR-DARQ-3y4-OAC-03) →](ar-darq-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Crear proyectos de diseño y arquitectura que respondan a necesidades de las personas y el contexto, basados en la investigación con materiales, herramientas y procedimientos, y de referentes artísticos nacionales e internacionales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13202) · [Clase 2](#cl-13203) · [Clase 3](#cl-13204) · [Clase 4](#cl-13205) · [Clase 5](#cl-13206)
 
 ### Clase 1 de 5: Observar referentes y propósito: Crear proyectos de diseño y arquitectura que respondan a necesidades de las personas y… {#cl-13202}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 45 estudiantes
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-darq-3y4-oac-01.md#cl-13201) · [Clase siguiente →](#cl-13203)
+
 ### Clase 2 de 5: Explorar soportes y procedimientos: Crear proyectos de diseño y arquitectura que respondan a necesidades de las personas y… {#cl-13203}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: 10.000 pesos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13202) · [Clase siguiente →](#cl-13204)
 
 ### Clase 3 de 5: Tomar una decisión visual: Crear proyectos de diseño y arquitectura que respondan a necesidades de las personas y… {#cl-13204}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: 10 m²
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13203) · [Clase siguiente →](#cl-13205)
+
 ### Clase 4 de 5: Desarrollar una propuesta propia: Crear proyectos de diseño y arquitectura que respondan a necesidades de las personas y… {#cl-13205}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -858,6 +871,9 @@ Respuesta: 10 m²
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13204) · [Clase siguiente →](#cl-13206)
+
 ### Clase 5 de 5: Criticar y revisar con criterios: Crear proyectos de diseño y arquitectura que respondan a necesidades de las personas y… {#cl-13206}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1061,6 +1077,9 @@ Respuesta: Cumple, con 20.000 pesos de margen
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13205) · [Primera clase del OA siguiente →](ar-darq-3y4-oac-03.md#cl-13207)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

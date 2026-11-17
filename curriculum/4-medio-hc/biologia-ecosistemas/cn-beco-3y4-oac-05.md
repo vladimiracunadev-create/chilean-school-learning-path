@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Biología de los ecosistemas | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-ecosistemas.md) · [← OA anterior (CN-BECO-3y4-OAC-04)](cn-beco-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Valorar la importancia de la integración de los conocimientos de la biología con otras ciencias para el análisis y la propuesta de soluciones a problemas actuales presentes en sistemas naturales, considerando las implicancias éticas, sociales y ambientales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13862) · [Clase 2](#cl-13863) · [Clase 3](#cl-13864) · [Clase 4](#cl-13865)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Valorar la importancia de la integración de los conocimientos de la biología con otras… {#cl-13862}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: El lago y su cuenca durante los últimos diez años
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-beco-3y4-oac-04.md#cl-13861) · [Clase siguiente →](#cl-13863)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Valorar la importancia de la integración de los conocimientos de la biología con otras… {#cl-13863}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Evidencia de percepción, útil como pista pero insuficiente por sí 
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13862) · [Clase siguiente →](#cl-13864)
 
 ### Clase 3 de 4: Construir o interpretar un modelo: Valorar la importancia de la integración de los conocimientos de la biología con otras… {#cl-13864}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: Será más lenta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13863) · [Clase siguiente →](#cl-13865)
+
 ### Clase 4 de 4: Analizar evidencia: Valorar la importancia de la integración de los conocimientos de la biología con otras… {#cl-13865}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: La equidad
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13864)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

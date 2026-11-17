@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [← OA anterior (HI-ECSO-3y4-OAC-03)](hi-ecso-3y4-oac-03.md) · [OA siguiente (HI-ECSO-3y4-OAC-05) →](hi-ecso-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Investigar los distintos sistemas económicos, de mercado, mixto y centralizado, considerando las teorías que los sustentan, las maneras como resuelven el problema económico y las relaciones que establecen entre los distintos agentes económicos y algunas experiencias de su implementación.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13246) · [Clase 2](#cl-13247) · [Clase 3](#cl-13248) · [Clase 4](#cl-13249) · [Clase 5](#cl-13250) · [Clase 6](#cl-13251)
 
 ### Clase 1 de 6: Contextualizar actores, tiempo y espacio: Investigar los distintos sistemas económicos, de mercado, mixto y centralizado,… {#cl-13246}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Economía centralizada
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-ecso-3y4-oac-03.md#cl-13245) · [Clase siguiente →](#cl-13247)
+
 ### Clase 2 de 6: Interrogar fuentes e indicadores: Investigar los distintos sistemas económicos, de mercado, mixto y centralizado,… {#cl-13247}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No, solo muestra una correlación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13246) · [Clase siguiente →](#cl-13248)
 
 ### Clase 3 de 6: Comparar causas y perspectivas: Investigar los distintos sistemas económicos, de mercado, mixto y centralizado,… {#cl-13248}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Critica la economía centralizada; problema de información
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13247) · [Clase siguiente →](#cl-13249)
+
 ### Clase 4 de 6: Explicar relaciones y consecuencias: Investigar los distintos sistemas económicos, de mercado, mixto y centralizado,… {#cl-13249}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Centralizada; el plan define la relación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13248) · [Clase siguiente →](#cl-13250)
 
 ### Clase 5 de 6: Evaluar alternativas: Investigar los distintos sistemas económicos, de mercado, mixto y centralizado,… {#cl-13250}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: 15
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13249) · [Clase siguiente →](#cl-13251)
+
 ### Clase 6 de 6: Comunicar una conclusión situada: Investigar los distintos sistemas económicos, de mercado, mixto y centralizado,… {#cl-13251}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Le faltan evidencia, criterios y límites
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13250) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-05.md#cl-13252)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Física | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/fisica.md) · [← OA anterior (CN-FISI-3y4-OAC-01)](cn-fisi-3y4-oac-01.md) · [OA siguiente (CN-FISI-3y4-OAC-03) →](cn-fisi-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Comprender, basándose en el estudio historiográfico, las explicaciones científicas sobre el origen y la evolución del universo.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13356) · [Clase 2](#cl-13357) · [Clase 3](#cl-13358) · [Clase 4](#cl-13359)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Comprender, basándose en el estudio historiográfico, las explicaciones científicas… {#cl-13356}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Geocéntrico, heliocéntrico, expansión
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-fisi-3y4-oac-01.md#cl-13355) · [Clase siguiente →](#cl-13357)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Comprender, basándose en el estudio historiográfico, las explicaciones científicas… {#cl-13357}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 70 Mpc
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13356) · [Clase siguiente →](#cl-13358)
 
 ### Clase 3 de 4: Construir o interpretar un modelo: Comprender, basándose en el estudio historiográfico, las explicaciones científicas… {#cl-13358}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Hace 15 segundos
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13357) · [Clase siguiente →](#cl-13359)
+
 ### Clase 4 de 4: Analizar evidencia: Comprender, basándose en el estudio historiográfico, las explicaciones científicas… {#cl-13359}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: 300 kg
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13358) · [Primera clase del OA siguiente →](cn-fisi-3y4-oac-03.md#cl-13360)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

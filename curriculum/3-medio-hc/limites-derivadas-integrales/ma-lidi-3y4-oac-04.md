@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Límites, derivadas e integrales | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/limites-derivadas-integrales.md) · [← OA anterior (MA-LIDI-3y4-OAC-03)](ma-lidi-3y4-oac-03.md) · [OA siguiente (MA-LIDI-3y4-OAC-05) →](ma-lidi-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Resolver problemas que involucren crecimiento o decrecimiento, concavidad, puntos máximos, mínimos o de inflexión de una función, a partir del cálculo de la primera y segunda derivada, en forma manuscrita y utilizando herramientas tecnológicas digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13583) · [Clase 2](#cl-13584) · [Clase 3](#cl-13585) · [Clase 4](#cl-13586)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Resolver problemas que involucren crecimiento o decrecimiento, concavidad, puntos… {#cl-13583}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: q'(x) = 4x³ − 6x y q''(x) = 12x² − 6
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-lidi-3y4-oac-03.md#cl-13582) · [Clase siguiente →](#cl-13584)
+
 ### Clase 2 de 4: Representar de dos maneras: Resolver problemas que involucren crecimiento o decrecimiento, concavidad, puntos… {#cl-13584}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: El mínimo local vale −8 en x = 3
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13583) · [Clase siguiente →](#cl-13585)
 
 ### Clase 3 de 4: Desarrollar una estrategia: Resolver problemas que involucren crecimiento o decrecimiento, concavidad, puntos… {#cl-13585}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Hay un punto de inflexión en x = 1
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13584) · [Clase siguiente →](#cl-13586)
+
 ### Clase 4 de 4: Justificar relaciones: Resolver problemas que involucren crecimiento o decrecimiento, concavidad, puntos… {#cl-13586}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: x entre 0 y 18
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13585) · [Primera clase del OA siguiente →](ma-lidi-3y4-oac-05.md#cl-13587)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

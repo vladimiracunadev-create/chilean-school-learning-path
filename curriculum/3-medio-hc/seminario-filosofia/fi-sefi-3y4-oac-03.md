@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Seminario de filosofía | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/seminario-filosofia.md) · [← OA anterior (FI-SEFI-3y4-OAC-02)](fi-sefi-3y4-oac-02.md) · [OA siguiente (FI-SEFI-3y4-OAC-04) →](fi-sefi-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Analizar el devenir de un problema filosófico presente en la historia de la filosofía, considerando sus continuidades, cambios e impactos en la sociedad, y utilizando diversas formas de expresión.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13737) · [Clase 2](#cl-13738) · [Clase 3](#cl-13739) · [Clase 4](#cl-13740) · [Clase 5](#cl-13741)
 
 ### Clase 1 de 5: Problematizar una situación: Analizar el devenir de un problema filosófico presente en la historia de la filosofía,… {#cl-13737}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Pediría a los estudiantes responder por sus actos, por ejemplo con e
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-sefi-3y4-oac-02.md#cl-13736) · [Clase siguiente →](#cl-13738)
+
 ### Clase 2 de 5: Definir conceptos: Analizar el devenir de un problema filosófico presente en la historia de la filosofía,… {#cl-13738}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: Porque no elige según sus razones, sino según el azar
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13737) · [Clase siguiente →](#cl-13739)
+
 ### Clase 3 de 5: Reconstruir una perspectiva: Analizar el devenir de un problema filosófico presente en la historia de la filosofía,… {#cl-13739}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -654,6 +664,9 @@ Respuesta: Relacionan lo que causa los actos con cómo corresponde tratar a las 
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13738) · [Clase siguiente →](#cl-13740)
 
 ### Clase 4 de 5: Formular y evaluar argumentos: Analizar el devenir de un problema filosófico presente en la historia de la filosofía,… {#cl-13740}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -859,6 +872,9 @@ Respuesta: Porque conocer las causas no prueba por sí solo que la persona no de
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13739) · [Clase siguiente →](#cl-13741)
+
 ### Clase 5 de 5: Responder objeciones: Analizar el devenir de un problema filosófico presente en la historia de la filosofía,… {#cl-13741}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1062,6 +1078,9 @@ Respuesta: Una línea de tiempo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13740) · [Primera clase del OA siguiente →](fi-sefi-3y4-oac-04.md#cl-13742)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Geografía, territorio y desafíos socioambientales | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geografia-territorio-desafios-socioambientales.md) · [← OA anterior (HI-GTYD-3y4-OAC-02)](hi-gtyd-3y4-oac-02.md) · [OA siguiente (HI-GTYD-3y4-OAC-04) →](hi-gtyd-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Analizar las decisiones políticas, económicas y sociales que se toman en torno a los espacios geográficos locales y nacionales, considerando los distintos actores que participan de ellas y el impacto que tienen en el entorno natural.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14168) · [Clase 2](#cl-14169) · [Clase 3](#cl-14170) · [Clase 4](#cl-14171) · [Clase 5](#cl-14172)
 
 ### Clase 1 de 5: Contextualizar actores, tiempo y espacio: Analizar las decisiones políticas, económicas y sociales que se toman en torno a los… {#cl-14168}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Escala comunal; participan actores locales
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-gtyd-3y4-oac-02.md#cl-14167) · [Clase siguiente →](#cl-14169)
+
 ### Clase 2 de 5: Interrogar fuentes e indicadores: Analizar las decisiones políticas, económicas y sociales que se toman en torno a los… {#cl-14169}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Cuántos empleos son permanentes y por cuánto tiempo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14168) · [Clase siguiente →](#cl-14170)
 
 ### Clase 3 de 5: Comparar causas y perspectivas: Analizar las decisiones políticas, económicas y sociales que se toman en torno a los… {#cl-14170}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Una económica y una política
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14169) · [Clase siguiente →](#cl-14171)
+
 ### Clase 4 de 5: Explicar relaciones y consecuencias: Analizar las decisiones políticas, económicas y sociales que se toman en torno a los… {#cl-14171}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Beneficio para los trabajadores y costo para las familias pescadoras
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14170) · [Clase siguiente →](#cl-14172)
+
 ### Clase 5 de 5: Evaluar alternativas: Analizar las decisiones políticas, económicas y sociales que se toman en torno a los… {#cl-14172}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: 8 puntos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14171) · [Primera clase del OA siguiente →](hi-gtyd-3y4-oac-04.md#cl-14173)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

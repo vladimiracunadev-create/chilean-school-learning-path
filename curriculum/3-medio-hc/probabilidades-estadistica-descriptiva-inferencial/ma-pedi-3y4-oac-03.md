@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Probabilidades y estadística descriptiva e inferencial | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/probabilidades-estadistica-descriptiva-inferencial.md) · [← OA anterior (MA-PEDI-3y4-OAC-02)](ma-pedi-3y4-oac-02.md) · [OA siguiente (MA-PEDI-3y4-OAC-04) →](ma-pedi-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Modelar fenómenos o situaciones cotidianas del ámbito científico y del ámbito social que requieran el cálculo de probabilidades y la aplicación de las distribuciones binomial y normal.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13660) · [Clase 2](#cl-13661) · [Clase 3](#cl-13662) · [Clase 4](#cl-13663)
 
 ### Clase 1 de 4: Precisar condiciones y objetos: Modelar fenómenos o situaciones cotidianas del ámbito científico y del ámbito social… {#cl-13660}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: P(X = 1) = 0,384
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-pedi-3y4-oac-02.md#cl-13659) · [Clase siguiente →](#cl-13661)
+
 ### Clase 2 de 4: Representar de dos maneras: Modelar fenómenos o situaciones cotidianas del ámbito científico y del ámbito social… {#cl-13661}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: μ = 2 y σ² = 1,8
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13660) · [Clase siguiente →](#cl-13662)
 
 ### Clase 3 de 4: Desarrollar una estrategia: Modelar fenómenos o situaciones cotidianas del ámbito científico y del ámbito social… {#cl-13662}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: P(90 < X < 125) = 0,8351
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13661) · [Clase siguiente →](#cl-13663)
+
 ### Clase 4 de 4: Justificar relaciones: Modelar fenómenos o situaciones cotidianas del ámbito científico y del ámbito social… {#cl-13663}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: P(X ≤ 19) ≈ 0,6915
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13662) · [Primera clase del OA siguiente →](ma-pedi-3y4-oac-04.md#cl-13664)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

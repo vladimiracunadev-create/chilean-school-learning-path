@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Geografía, territorio y desafíos socioambientales | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geografia-territorio-desafios-socioambientales.md) · [← OA anterior (HI-GTYD-3y4-OAC-03)](hi-gtyd-3y4-oac-03.md) · [OA siguiente (HI-GTYD-3y4-OAC-05) →](hi-gtyd-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Evaluar la organización territorial y ambiental del país y los instrumentos de planificación que la regulan, considerando criterios tales como accesibilidad, conectividad, conservación, preservación, reducción de riesgos, sustentabilidad ambiental y justicia socioespacial.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13393) · [Clase 2](#cl-13394) · [Clase 3](#cl-13395) · [Clase 4](#cl-13396) · [Clase 5](#cl-13397) · [Clase 6](#cl-13398)
 
 ### Clase 1 de 6: Contextualizar actores, tiempo y espacio: Evaluar la organización territorial y ambiental del país y los instrumentos de… {#cl-13393}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Escala regional; estrategia regional de desarrollo
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-gtyd-3y4-oac-03.md#cl-13392) · [Clase siguiente →](#cl-13394)
+
 ### Clase 2 de 6: Interrogar fuentes e indicadores: Evaluar la organización territorial y ambiental del país y los instrumentos de… {#cl-13394}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Buena accesibilidad y baja conectividad
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13393) · [Clase siguiente →](#cl-13395)
 
 ### Clase 3 de 6: Comparar causas y perspectivas: Evaluar la organización territorial y ambiental del país y los instrumentos de… {#cl-13395}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Justicia socioespacial
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13394) · [Clase siguiente →](#cl-13396)
+
 ### Clase 4 de 6: Explicar relaciones y consecuencias: Evaluar la organización territorial y ambiental del país y los instrumentos de… {#cl-13396}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: ¿Se compromete la capacidad futura de producir alimentos?
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13395) · [Clase siguiente →](#cl-13397)
 
 ### Clase 5 de 6: Evaluar alternativas: Evaluar la organización territorial y ambiental del país y los instrumentos de… {#cl-13397}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1061,6 +1077,9 @@ Respuesta: No recomendarla sin cambios que reduzcan el riesgo
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13396) · [Clase siguiente →](#cl-13398)
+
 ### Clase 6 de 6: Comunicar una conclusión situada: Evaluar la organización territorial y ambiental del país y los instrumentos de… {#cl-13398}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1264,6 +1283,9 @@ Respuesta: En el humedal comunal, que perdió 15 de 60 hectáreas (25 %), convie
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13397) · [Primera clase del OA siguiente →](hi-gtyd-3y4-oac-05.md#cl-13399)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

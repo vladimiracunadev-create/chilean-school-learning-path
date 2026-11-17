@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Comprensión histórica del presente | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/comprension-historica-presente.md) · [← OA anterior (HI-CHDP-3y4-OAC-03)](hi-chdp-3y4-oac-03.md) · [OA siguiente (HI-CHDP-3y4-OAC-05) →](hi-chdp-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Proponer iniciativas que contribuyan al mejoramiento de la sociedad en la que viven, considerando antecedentes y fundamentos históricos en el marco de una sociedad democrática e inclusiva.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13935) · [Clase 2](#cl-13936) · [Clase 3](#cl-13937) · [Clase 4](#cl-13938)
 
 ### Clase 1 de 4: Contextualizar actores, tiempo y espacio: Proponer iniciativas que contribuyan al mejoramiento de la sociedad en la que viven,… {#cl-13935}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: No cumple: falta participación y deliberación
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-chdp-3y4-oac-03.md#cl-13934) · [Clase siguiente →](#cl-13936)
+
 ### Clase 2 de 4: Interrogar fuentes e indicadores: Proponer iniciativas que contribuyan al mejoramiento de la sociedad en la que viven,… {#cl-13936}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No representa a quienes no asisten a la junta
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13935) · [Clase siguiente →](#cl-13937)
 
 ### Clase 3 de 4: Comparar causas y perspectivas: Proponer iniciativas que contribuyan al mejoramiento de la sociedad en la que viven,… {#cl-13937}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Y suma 7 y X suma 6
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13936) · [Clase siguiente →](#cl-13938)
+
 ### Clase 4 de 4: Explicar relaciones y consecuencias: Proponer iniciativas que contribuyan al mejoramiento de la sociedad en la que viven,… {#cl-13938}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Revisar causas con las personas y ajustar la iniciativa
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13937) · [Primera clase del OA siguiente →](hi-chdp-3y4-oac-05.md#cl-13939)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

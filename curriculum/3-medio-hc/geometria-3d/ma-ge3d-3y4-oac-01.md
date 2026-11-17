@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Geometría 3D | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geometria-3d.md) · [OA siguiente (MA-GE3D-3y4-OAC-02) →](ma-ge3d-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Argumentar acerca de la validez de soluciones a situaciones que involucren isometrías y homotecias en el plano, haciendo uso de vectores y de representaciones digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13408) · [Clase 2](#cl-13409) · [Clase 3](#cl-13410) · [Clase 4](#cl-13411) · [Clase 5](#cl-13412)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Argumentar acerca de la validez de soluciones a situaciones que involucren isometrías… {#cl-13408}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sí es válido: los dos puntos usan el mismo vector (5, 2)
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[Clase siguiente →](#cl-13409)
+
 ### Clase 2 de 5: Representar de dos maneras: Argumentar acerca de la validez de soluciones a situaciones que involucren isometrías… {#cl-13409}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: No: la imagen correcta es (−5, 2)
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13408) · [Clase siguiente →](#cl-13410)
 
 ### Clase 3 de 5: Desarrollar una estrategia: Argumentar acerca de la validez de soluciones a situaciones que involucren isometrías… {#cl-13410}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: P′ = (5, 3)
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13409) · [Clase siguiente →](#cl-13411)
+
 ### Clase 4 de 5: Justificar relaciones: Argumentar acerca de la validez de soluciones a situaciones que involucren isometrías… {#cl-13411}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: No: (8, 0) ≠ (5, 0), el orden importa
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13410) · [Clase siguiente →](#cl-13412)
+
 ### Clase 5 de 5: Comprobar y comparar: Argumentar acerca de la validez de soluciones a situaciones que involucren isometrías… {#cl-13412}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: No es válida: A no llega a (0, 4)
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13411) · [Primera clase del OA siguiente →](ma-ge3d-3y4-oac-02.md#cl-13413)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

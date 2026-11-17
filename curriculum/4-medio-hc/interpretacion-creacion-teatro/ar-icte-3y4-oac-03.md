@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [← OA anterior (AR-ICTE-3y4-OAC-02)](ar-icte-3y4-oac-02.md) · [OA siguiente (AR-ICTE-3y4-OAC-04) →](ar-icte-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Crear o adaptar obras teatrales de diferentes estilos, aplicando elementos y recursos del lenguaje teatral, la experimentación con recursos de la puesta en escena y la investigación de referentes o textos dramáticos nacionales e internacionales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14293) · [Clase 2](#cl-14294) · [Clase 3](#cl-14295) · [Clase 4](#cl-14296) · [Clase 5](#cl-14297)
 
 ### Clase 1 de 5: Explorar cuerpo, gesto y voz: Crear o adaptar obras teatrales de diferentes estilos, aplicando elementos y recursos… {#cl-14293}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Contrastarla con una fuente firmada y fechada
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icte-3y4-oac-02.md#cl-14292) · [Clase siguiente →](#cl-14294)
+
 ### Clase 2 de 5: Construir situación y personaje: Crear o adaptar obras teatrales de diferentes estilos, aplicando elementos y recursos… {#cl-14294}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Dar la información a través de una acción o petición
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14293) · [Clase siguiente →](#cl-14295)
+
 ### Clase 3 de 5: Ensayar decisiones escénicas: Crear o adaptar obras teatrales de diferentes estilos, aplicando elementos y recursos… {#cl-14295}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -653,6 +663,9 @@ Respuesta: Pedir autorización y citar la fuente
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14294) · [Clase siguiente →](#cl-14296)
 
 ### Clase 4 de 5: Interpretar propósito y contexto: Crear o adaptar obras teatrales de diferentes estilos, aplicando elementos y recursos… {#cl-14296}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -859,6 +872,9 @@ Respuesta: Narración al público, cartel y propósito de reflexión
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14295) · [Clase siguiente →](#cl-14297)
+
 ### Clase 5 de 5: Evaluar y revisar: Crear o adaptar obras teatrales de diferentes estilos, aplicando elementos y recursos… {#cl-14297}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1062,6 +1078,9 @@ Respuesta: v2: línea 3 por acción; línea 5 eliminada por repetir la 4
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14296) · [Primera clase del OA siguiente →](ar-icte-3y4-oac-04.md#cl-14298)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

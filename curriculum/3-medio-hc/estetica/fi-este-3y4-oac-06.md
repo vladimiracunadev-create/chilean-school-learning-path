@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Estética | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/estetica.md) · [← OA anterior (FI-ESTE-3y4-OAC-05)](fi-este-3y4-oac-05.md) · [OA siguiente (FI-ESTE-3y4-OAC-07) →](fi-este-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Dialogar, a partir de conceptos filosóficos, sobre la función del arte y la experiencia estética en la cultura y la sociedad, procurando el desarrollo de visiones personales y colectivas.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13298) · [Clase 2](#cl-13299) · [Clase 3](#cl-13300) · [Clase 4](#cl-13301)
 
 ### Clase 1 de 4: Problematizar una situación: Dialogar, a partir de conceptos filosóficos, sobre la función del arte y la… {#cl-13298}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Que el arte tiene valor intrínseco
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-este-3y4-oac-05.md#cl-13297) · [Clase siguiente →](#cl-13299)
+
 ### Clase 2 de 4: Definir conceptos: Dialogar, a partir de conceptos filosóficos, sobre la función del arte y la… {#cl-13299}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Si entiendo bien, dices que el arte nos permite sacar lo que sentimos
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13298) · [Clase siguiente →](#cl-13300)
+
 ### Clase 3 de 4: Reconstruir una perspectiva: Dialogar, a partir de conceptos filosóficos, sobre la función del arte y la… {#cl-13300}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -652,6 +662,9 @@ Respuesta: Un mural pintado por el taller, con visitas al museo para inspirarse
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-13299) · [Clase siguiente →](#cl-13301)
+
 ### Clase 4 de 4: Formular y evaluar argumentos: Dialogar, a partir de conceptos filosóficos, sobre la función del arte y la… {#cl-13301}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -854,6 +867,9 @@ Respuesta: ¿Qué hace de un festival una obra de arte?
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-13300) · [Primera clase del OA siguiente →](fi-este-3y4-oac-07.md#cl-13302)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

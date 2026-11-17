@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [← OA anterior (AR-ICTE-3y4-OAC-05)](ar-icte-3y4-oac-05.md) · [OA siguiente (AR-ICTE-3y4-OAC-07) →](ar-icte-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Argumentar juicios estéticos de obras y manifestaciones teatrales de diferentes épocas y procedencias, a partir de análisis estéticos y apreciaciones personales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13529) · [Clase 2](#cl-13530) · [Clase 3](#cl-13531) · [Clase 4](#cl-13532) · [Clase 5](#cl-13533)
 
 ### Clase 1 de 5: Explorar cuerpo, gesto y voz: Argumentar juicios estéticos de obras y manifestaciones teatrales de diferentes épocas… {#cl-13529}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: El vínculo con el elenco; se declara y se usa evidencia
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icte-3y4-oac-05.md#cl-13528) · [Clase siguiente →](#cl-13530)
+
 ### Clase 2 de 5: Construir situación y personaje: Argumentar juicios estéticos de obras y manifestaciones teatrales de diferentes épocas… {#cl-13530}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Criterio y matiz
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13529) · [Clase siguiente →](#cl-13531)
 
 ### Clase 3 de 5: Ensayar decisiones escénicas: Argumentar juicios estéticos de obras y manifestaciones teatrales de diferentes épocas… {#cl-13531}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: Reconocer, limitar y matizar la tesis
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13530) · [Clase siguiente →](#cl-13532)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Argumentar juicios estéticos de obras y manifestaciones teatrales de diferentes épocas… {#cl-13532}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -858,6 +871,9 @@ Respuesta: Juicio anacrónico
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13531) · [Clase siguiente →](#cl-13533)
+
 ### Clase 5 de 5: Evaluar y revisar: Argumentar juicios estéticos de obras y manifestaciones teatrales de diferentes épocas… {#cl-13533}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1061,6 +1077,9 @@ Respuesta: Síntesis, análisis, juicio y cierre
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13532) · [Primera clase del OA siguiente →](ar-icte-3y4-oac-07.md#cl-13534)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Ciencias de la salud | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/ciencias-salud.md) · [← OA anterior (CN-CSAL-3y4-OAC-04)](cn-csal-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Evaluar cómo el desarrollo científico y tecnológico, a través de innovaciones en biotecnología, nanomedicina, medicina nuclear, imagenología y farmacología, entre otras, influyen en la calidad de vida de las personas.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13886) · [Clase 2](#cl-13887) · [Clase 3](#cl-13888) · [Clase 4](#cl-13889) · [Clase 5](#cl-13890)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Evaluar cómo el desarrollo científico y tecnológico, a través de innovaciones en… {#cl-13886}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: La segunda pregunta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-csal-3y4-oac-04.md#cl-13885) · [Clase siguiente →](#cl-13887)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Evaluar cómo el desarrollo científico y tecnológico, a través de innovaciones en… {#cl-13887}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: 300 personas
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13886) · [Clase siguiente →](#cl-13888)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Evaluar cómo el desarrollo científico y tecnológico, a través de innovaciones en… {#cl-13888}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Radiografía
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13887) · [Clase siguiente →](#cl-13889)
+
 ### Clase 4 de 5: Analizar evidencia: Evaluar cómo el desarrollo científico y tecnológico, a través de innovaciones en… {#cl-13889}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: 6 personas más por cada 100
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13888) · [Clase siguiente →](#cl-13890)
+
 ### Clase 5 de 5: Comparar soluciones: Evaluar cómo el desarrollo científico y tecnológico, a través de innovaciones en… {#cl-13890}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1060,6 +1076,9 @@ Respuesta: Lo que se renuncia al elegir esa opción
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13889)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Biología de los ecosistemas | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-ecosistemas.md) · [← OA anterior (CN-BECO-3y4-OAC-02)](cn-beco-3y4-oac-02.md) · [OA siguiente (CN-BECO-3y4-OAC-04) →](cn-beco-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Explicar los efectos del cambio climático sobre la biodiversidad, la productividad biológica y la resiliencia de los ecosistemas, así como sus consecuencias sobre los recursos naturales, las personas y el desarrollo sostenible.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13853) · [Clase 2](#cl-13854) · [Clase 3](#cl-13855) · [Clase 4](#cl-13856)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Explicar los efectos del cambio climático sobre la biodiversidad, la productividad… {#cl-13853}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: La segunda pregunta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-beco-3y4-oac-02.md#cl-13852) · [Clase siguiente →](#cl-13854)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Explicar los efectos del cambio climático sobre la biodiversidad, la productividad… {#cl-13854}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Puede sobreestimar la temperatura por el calor del asfalto
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13853) · [Clase siguiente →](#cl-13855)
 
 ### Clase 3 de 4: Construir o interpretar un modelo: Explicar los efectos del cambio climático sobre la biodiversidad, la productividad… {#cl-13855}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: Menos pasto
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13854) · [Clase siguiente →](#cl-13856)
+
 ### Clase 4 de 4: Analizar evidencia: Explicar los efectos del cambio climático sobre la biodiversidad, la productividad… {#cl-13856}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -858,6 +871,9 @@ Respuesta: No, con esos datos no se puede atribuir solo al clima
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13855) · [Primera clase del OA siguiente →](cn-beco-3y4-oac-04.md#cl-13857)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Geografía, territorio y desafíos socioambientales | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/geografia-territorio-desafios-socioambientales.md) · [OA siguiente (HI-GTYD-3y4-OAC-02) →](hi-gtyd-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Explicar el espacio geográfico como una construcción social producto de las interacciones entre los grupos humanos y el medio, que influyen en las múltiples dimensiones de la vida en sociedad.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14160) · [Clase 2](#cl-14161) · [Clase 3](#cl-14162) · [Clase 4](#cl-14163)
 
 ### Clase 1 de 4: Contextualizar actores, tiempo y espacio: Explicar el espacio geográfico como una construcción social producto de las… {#cl-14160}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: La dimensión económica (con un componente social, porque se organiz
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[Clase siguiente →](#cl-14161)
+
 ### Clase 2 de 4: Interrogar fuentes e indicadores: Explicar el espacio geográfico como una construcción social producto de las… {#cl-14161}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Hay más centros, pero cada uno atiende a los mismos 4.000 habitantes
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14160) · [Clase siguiente →](#cl-14162)
 
 ### Clase 3 de 4: Comparar causas y perspectivas: Explicar el espacio geográfico como una construcción social producto de las… {#cl-14162}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Ambas ven efectos reales pero distintos; se necesita evidencia para v
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14161) · [Clase siguiente →](#cl-14163)
+
 ### Clase 4 de 4: Explicar relaciones y consecuencias: Explicar el espacio geográfico como una construcción social producto de las… {#cl-14163}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: Cambio: las grúas; continuidad: la fiesta anual
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14162) · [Primera clase del OA siguiente →](hi-gtyd-3y4-oac-02.md#cl-14164)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

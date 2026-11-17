@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Creación y composición musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/creacion-composicion-musical.md) · [OA siguiente (AR-CCMU-3y4-OAC-02) →](ar-ccmu-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Innovar al resolver desafíos durante el proceso creativo, considerando aspectos expresivos y técnicos, procedimientos compositivos (repetición, variación, contraste) y la evaluación crítica personal y de otros.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13163) · [Clase 2](#cl-13164) · [Clase 3](#cl-13165) · [Clase 4](#cl-13166)
 
 ### Clase 1 de 4: Escuchar y reconocer rasgos: Innovar al resolver desafíos durante el proceso creativo, considerando aspectos… {#cl-13163}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 16 pulsos, es decir, 4 compases
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[Clase siguiente →](#cl-13164)
+
 ### Clase 2 de 4: Explorar recursos de producción: Innovar al resolver desafíos durante el proceso creativo, considerando aspectos… {#cl-13164}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Prueba: tempo más rápido; se conservan notas y dinámica; efecto: m
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13163) · [Clase siguiente →](#cl-13165)
 
 ### Clase 3 de 4: Ensayar una decisión musical: Innovar al resolver desafíos durante el proceso creativo, considerando aspectos… {#cl-13165}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: | Do Mi Fa Sol |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13164) · [Clase siguiente →](#cl-13166)
+
 ### Clase 4 de 4: Interpretar, crear o analizar: Innovar al resolver desafíos durante el proceso creativo, considerando aspectos… {#cl-13166}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Sí, porque usa una nota larga y un silencio
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13165) · [Primera clase del OA siguiente →](ar-ccmu-3y4-oac-02.md#cl-13167)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

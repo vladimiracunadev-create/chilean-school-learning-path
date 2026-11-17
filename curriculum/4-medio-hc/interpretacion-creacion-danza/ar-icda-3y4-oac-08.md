@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en danza | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-danza.md) · [← OA anterior (AR-ICDA-3y4-OAC-07)](ar-icda-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Relacionar, a partir de investigaciones, las habilidades y conocimientos de la asignatura con diferentes contextos laborales, profesionales y de desarrollo personal.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14280) · [Clase 2](#cl-14281) · [Clase 3](#cl-14282) · [Clase 4](#cl-14283)
 
 ### Clase 1 de 4: Explorar movimiento con conciencia: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-14280}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Producción técnica y difusión o mediación
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icda-3y4-oac-07.md#cl-14279) · [Clase siguiente →](#cl-14281)
+
 ### Clase 2 de 4: Combinar espacio, tiempo y energía: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-14281}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Coordinar turnos de un equipo en un evento
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14280) · [Clase siguiente →](#cl-14282)
 
 ### Clase 3 de 4: Componer una frase propia: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-14282}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Buscar una tercera fuente o aclarar si son programas distintos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14281) · [Clase siguiente →](#cl-14283)
+
 ### Clase 4 de 4: Interpretar propósito y contexto: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-14283}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Sí, caben con 15 minutos libres
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14282)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

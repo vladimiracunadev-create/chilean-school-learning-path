@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Artes visuales, audiovisuales y multimediales | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/artes-visuales-audiovisuales-multimediales.md) · [← OA anterior (AR-AVAM-3y4-OAC-01)](ar-avam-3y4-oac-01.md) · [OA siguiente (AR-AVAM-3y4-OAC-03) →](ar-avam-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Crear obras y proyectos que respondan a necesidades de expresión y comunicación personales o grupales, basados en la investigación con soportes, materiales y procedimientos, y en referentes artísticos nacionales e internacionales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13002) · [Clase 2](#cl-13003) · [Clase 3](#cl-13004) · [Clase 4](#cl-13005) · [Clase 5](#cl-13006)
 
 ### Clase 1 de 5: Observar referentes y propósito: Crear obras y proyectos que respondan a necesidades de expresión y comunicación… {#cl-13002}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Separar el papel limpio y llevarlo al punto de reciclaje es fácil
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-avam-3y4-oac-01.md#cl-13001) · [Clase siguiente →](#cl-13003)
+
 ### Clase 2 de 5: Explorar soportes y procedimientos: Crear obras y proyectos que respondan a necesidades de expresión y comunicación… {#cl-13003}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Sí: $4.700 cabe en $5.000
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13002) · [Clase siguiente →](#cl-13004)
 
 ### Clase 3 de 5: Tomar una decisión visual: Crear obras y proyectos que respondan a necesidades de expresión y comunicación… {#cl-13004}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Entre comillas y con atribución a Marta Elgueta
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13003) · [Clase siguiente →](#cl-13005)
+
 ### Clase 4 de 5: Desarrollar una propuesta propia: Crear obras y proyectos que respondan a necesidades de expresión y comunicación… {#cl-13005}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: 3.500 cm²
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13004) · [Clase siguiente →](#cl-13006)
+
 ### Clase 5 de 5: Criticar y revisar con criterios: Crear obras y proyectos que respondan a necesidades de expresión y comunicación… {#cl-13006}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1063,6 +1079,9 @@ Respuesta: Criterio 5; agregar las atribuciones
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13005) · [Primera clase del OA siguiente →](ar-avam-3y4-oac-03.md#cl-13007)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

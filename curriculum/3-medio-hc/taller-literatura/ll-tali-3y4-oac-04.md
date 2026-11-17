@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Taller de literatura | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/taller-literatura.md) · [← OA anterior (LL-TALI-3y4-OAC-03)](ll-tali-3y4-oac-03.md) · [OA siguiente (LL-TALI-3y4-OAC-05) →](ll-tali-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Revisar y reescribir sus propias producciones (escritas, orales o audiovisuales) a la luz de los comentarios, críticas y sugerencias de sus pares, para enriquecer su producción creativa.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13764) · [Clase 2](#cl-13765) · [Clase 3](#cl-13766) · [Clase 4](#cl-13767)
 
 ### Clase 1 de 4: Situar corpus, género y propósito: Revisar y reescribir sus propias producciones (escritas, orales o audiovisuales) a la… {#cl-13764}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Primero el efecto (global) y luego la tilde (local)
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Última clase del OA anterior](ll-tali-3y4-oac-03.md#cl-13763) · [Clase siguiente →](#cl-13765)
+
 ### Clase 2 de 4: Formular una lectura o problema: Revisar y reescribir sus propias producciones (escritas, orales o audiovisuales) a la… {#cl-13765}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: Descartar, porque cambia el género del proyecto
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13764) · [Clase siguiente →](#cl-13766)
 
 ### Clase 3 de 4: Analizar recursos y evidencia: Revisar y reescribir sus propias producciones (escritas, orales o audiovisuales) a la… {#cl-13766}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -659,6 +669,9 @@ Respuesta: Que el corte mejora el cierre
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
 
+
+[← Clase anterior](#cl-13765) · [Clase siguiente →](#cl-13767)
+
 ### Clase 4 de 4: Contrastar interpretaciones o discursos: Revisar y reescribir sus propias producciones (escritas, orales o audiovisuales) a la… {#cl-13767}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -863,6 +876,9 @@ Respuesta: Cambio, razón y criterio P3
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda selección legal y situada de textos, privacidad y pluralismo; biblioteca o apoyo lingüístico amplían acceso sin imponer una lectura.
+
+
+[← Clase anterior](#cl-13766) · [Primera clase del OA siguiente →](ll-tali-3y4-oac-05.md#cl-13768)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

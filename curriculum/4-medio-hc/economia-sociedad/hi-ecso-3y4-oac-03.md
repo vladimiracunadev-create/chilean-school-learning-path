@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Economía y sociedad | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/economia-sociedad.md) · [← OA anterior (HI-ECSO-3y4-OAC-02)](hi-ecso-3y4-oac-02.md) · [OA siguiente (HI-ECSO-3y4-OAC-04) →](hi-ecso-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Investigar la interacción entre consumidores y productores en el mercado, considerando factores como la oferta, la demanda, la elasticidad, la inflación, la fijación de precios y el rol del Estado.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14021) · [Clase 2](#cl-14022) · [Clase 3](#cl-14023) · [Clase 4](#cl-14024) · [Clase 5](#cl-14025)
 
 ### Clase 1 de 5: Contextualizar actores, tiempo y espacio: Investigar la interacción entre consumidores y productores en el mercado, considerando… {#cl-14021}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Desplazamiento de la demanda hacia la derecha (aumenta)
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](hi-ecso-3y4-oac-02.md#cl-14020) · [Clase siguiente →](#cl-14022)
+
 ### Clase 2 de 5: Interrogar fuentes e indicadores: Investigar la interacción entre consumidores y productores en el mercado, considerando… {#cl-14022}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Faltante de 60 unidades
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14021) · [Clase siguiente →](#cl-14023)
 
 ### Clase 3 de 5: Comparar causas y perspectivas: Investigar la interacción entre consumidores y productores en el mercado, considerando… {#cl-14023}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Bajó de 200.000 a 180.000
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14022) · [Clase siguiente →](#cl-14024)
+
 ### Clase 4 de 5: Explicar relaciones y consecuencias: Investigar la interacción entre consumidores y productores en el mercado, considerando… {#cl-14024}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -861,6 +874,9 @@ Respuesta: Disminuye
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14023) · [Clase siguiente →](#cl-14025)
+
 ### Clase 5 de 5: Evaluar alternativas: Investigar la interacción entre consumidores y productores en el mercado, considerando… {#cl-14025}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Ningún efecto
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14024) · [Primera clase del OA siguiente →](hi-ecso-3y4-oac-04.md#cl-14026)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

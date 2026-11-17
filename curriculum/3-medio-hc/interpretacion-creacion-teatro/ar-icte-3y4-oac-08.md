@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [← OA anterior (AR-ICTE-3y4-OAC-07)](ar-icte-3y4-oac-07.md)
+
 ## Qué se debe aprender
 > Relacionar, a partir de investigaciones, las habilidades y conocimientos de la asignatura con diferentes contextos laborales, profesionales y de desarrollo personal.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13539) · [Clase 2](#cl-13540) · [Clase 3](#cl-13541) · [Clase 4](#cl-13542)
 
 ### Clase 1 de 4: Explorar cuerpo, gesto y voz: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13539}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: En trabajos en equipo, proyectos o juntas de vecinos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icte-3y4-oac-07.md#cl-13538) · [Clase siguiente →](#cl-13540)
+
 ### Clase 2 de 4: Construir situación y personaje: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13540}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: La trato como hipótesis y busco fuentes confiables
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13539) · [Clase siguiente →](#cl-13541)
 
 ### Clase 3 de 4: Ensayar decisiones escénicas: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13541}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: Pedir consentimiento a todas y autorización de apoderados para menor
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13540) · [Clase siguiente →](#cl-13542)
+
 ### Clase 4 de 4: Interpretar propósito y contexto: Relacionar, a partir de investigaciones, las habilidades y conocimientos de la… {#cl-13542}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: $65.000
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13541)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

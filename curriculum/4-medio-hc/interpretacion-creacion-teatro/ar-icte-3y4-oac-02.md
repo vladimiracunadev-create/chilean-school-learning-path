@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [← OA anterior (AR-ICTE-3y4-OAC-01)](ar-icte-3y4-oac-01.md) · [OA siguiente (AR-ICTE-3y4-OAC-03) →](ar-icte-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Expresar emociones y temas de su interés, basados en diversas fuentes de inspiración (relatos, imágenes, sonidos, textos dramáticos, elementos culturales, entre otros), a través del gesto, la voz y recursos de la puesta en escena (utilización del espacio escénico, vestuario, escenografía, iluminación, sonido y recursos multimediales, entre otros).
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14288) · [Clase 2](#cl-14289) · [Clase 3](#cl-14290) · [Clase 4](#cl-14291) · [Clase 5](#cl-14292)
 
 ### Clase 1 de 5: Explorar cuerpo, gesto y voz: Expresar emociones y temas de su interés, basados en diversas fuentes de inspiración… {#cl-14288}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Frustración, creciente
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icte-3y4-oac-01.md#cl-14287) · [Clase siguiente →](#cl-14289)
+
 ### Clase 2 de 5: Construir situación y personaje: Expresar emociones y temas de su interés, basados en diversas fuentes de inspiración… {#cl-14289}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -449,6 +456,9 @@ Respuesta: Ajustar la intensidad a la situación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14288) · [Clase siguiente →](#cl-14290)
 
 ### Clase 3 de 5: Ensayar decisiones escénicas: Expresar emociones y temas de su interés, basados en diversas fuentes de inspiración… {#cl-14290}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: $14.500
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14289) · [Clase siguiente →](#cl-14291)
+
 ### Clase 4 de 5: Interpretar propósito y contexto: Expresar emociones y temas de su interés, basados en diversas fuentes de inspiración… {#cl-14291}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -858,6 +871,9 @@ Respuesta: Pista en el minuto 3: luz de 60 % a 20 % en 5 segundos, con sonido de
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14290) · [Clase siguiente →](#cl-14292)
+
 ### Clase 5 de 5: Evaluar y revisar: Expresar emociones y temas de su interés, basados en diversas fuentes de inspiración… {#cl-14292}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1061,6 +1077,9 @@ Respuesta: La voz que no se oye
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14291) · [Primera clase del OA siguiente →](ar-icte-3y4-oac-03.md#cl-14293)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

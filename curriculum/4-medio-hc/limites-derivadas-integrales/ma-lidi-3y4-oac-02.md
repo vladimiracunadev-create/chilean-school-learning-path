@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Límites, derivadas e integrales | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/limites-derivadas-integrales.md) · [← OA anterior (MA-LIDI-3y4-OAC-01)](ma-lidi-3y4-oac-01.md) · [OA siguiente (MA-LIDI-3y4-OAC-03) →](ma-lidi-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Argumentar acerca de la existencia de límites de funciones en el infinito y en un punto para determinar convergencia y continuidad en contextos matemáticos, de las ciencias y de la vida diaria, en forma manuscrita y utilizando herramientas tecnológicas digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14352) · [Clase 2](#cl-14353) · [Clase 3](#cl-14354) · [Clase 4](#cl-14355) · [Clase 5](#cl-14356) · [Clase 6](#cl-14357)
 
 ### Clase 1 de 6: Precisar condiciones y objetos: Argumentar acerca de la existencia de límites de funciones en el infinito y en un… {#cl-14352}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: El límite estimado es 2, aunque n(1) no existe
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Última clase del OA anterior](ma-lidi-3y4-oac-01.md#cl-14351) · [Clase siguiente →](#cl-14353)
+
 ### Clase 2 de 6: Representar de dos maneras: Argumentar acerca de la existencia de límites de funciones en el infinito y en un… {#cl-14353}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: El límite es 2 y f(4) = 5
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14352) · [Clase siguiente →](#cl-14354)
 
 ### Clase 3 de 6: Desarrollar una estrategia: Argumentar acerca de la existencia de límites de funciones en el infinito y en un… {#cl-14354}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: El límite es 13
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14353) · [Clase siguiente →](#cl-14355)
+
 ### Clase 4 de 6: Justificar relaciones: Argumentar acerca de la existencia de límites de funciones en el infinito y en un… {#cl-14355}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -856,6 +869,9 @@ Respuesta: No converge: crece sin acercarse a un número
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14354) · [Clase siguiente →](#cl-14356)
 
 ### Clase 5 de 6: Comprobar y comparar: Argumentar acerca de la existencia de límites de funciones en el infinito y en un… {#cl-14356}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1061,6 +1077,9 @@ Respuesta: Discontinuidad de salto
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14355) · [Clase siguiente →](#cl-14357)
+
 ### Clase 6 de 6: Modelar o transferir con límites: Argumentar acerca de la existencia de límites de funciones en el infinito y en un… {#cl-14357}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1264,6 +1283,9 @@ Respuesta: Se cambia la constante de 20 a 18
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14356) · [Primera clase del OA siguiente →](ma-lidi-3y4-oac-03.md#cl-14358)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

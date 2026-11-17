@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Probabilidades y estadística descriptiva e inferencial | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/probabilidades-estadistica-descriptiva-inferencial.md) · [OA siguiente (MA-PEDI-3y4-OAC-02) →](ma-pedi-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Argumentar y comunicar decisiones a partir del análisis crítico de información presente en histogramas, polígonos de frecuencia, frecuencia acumulada, diagramas de cajón y nube de puntos, incluyendo el uso de herramientas digitales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13651) · [Clase 2](#cl-13652) · [Clase 3](#cl-13653) · [Clase 4](#cl-13654) · [Clase 5](#cl-13655)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Argumentar y comunicar decisiones a partir del análisis crítico de información… {#cl-13651}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Media estimada: 15
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[Clase siguiente →](#cl-13652)
+
 ### Clase 2 de 5: Representar de dos maneras: Argumentar y comunicar decisiones a partir del análisis crítico de información… {#cl-13652}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -451,6 +458,9 @@ Respuesta: El primer grupo tiene mayor proporción (40 % frente a 25 %), aunque 
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13651) · [Clase siguiente →](#cl-13653)
 
 ### Clase 3 de 5: Desarrollar una estrategia: Argumentar y comunicar decisiones a partir del análisis crítico de información… {#cl-13653}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -657,6 +667,9 @@ Respuesta: Mediana estimada: 17,5
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13652) · [Clase siguiente →](#cl-13654)
+
 ### Clase 4 de 5: Justificar relaciones: Argumentar y comunicar decisiones a partir del análisis crítico de información… {#cl-13654}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -862,6 +875,9 @@ Respuesta: Mismo centro, pero Y es más disperso que X
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-13653) · [Clase siguiente →](#cl-13655)
+
 ### Clase 5 de 5: Comprobar y comparar: Argumentar y comunicar decisiones a partir del análisis crítico de información… {#cl-13655}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1066,6 +1082,9 @@ Respuesta: Nube de puntos con horas de sueño en x y puntaje en y
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-13654) · [Primera clase del OA siguiente →](ma-pedi-3y4-oac-02.md#cl-13656)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

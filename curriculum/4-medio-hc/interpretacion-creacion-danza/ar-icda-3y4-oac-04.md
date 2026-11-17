@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en danza | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-danza.md) · [← OA anterior (AR-ICDA-3y4-OAC-03)](ar-icda-3y4-oac-03.md) · [OA siguiente (AR-ICDA-3y4-OAC-05) →](ar-icda-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos para comunicar propósitos, aspectos del proceso y resultados de sus creaciones e interpretaciones de danza, empleando diversidad de medios, recursos y tecnologías tradicionales y emergentes.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14259) · [Clase 2](#cl-14260) · [Clase 3](#cl-14261) · [Clase 4](#cl-14262) · [Clase 5](#cl-14263) · [Clase 6](#cl-14264)
 
 ### Clase 1 de 6: Explorar movimiento con conciencia: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-14259}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: 5 filas
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-icda-3y4-oac-03.md#cl-14258) · [Clase siguiente →](#cl-14260)
+
 ### Clase 2 de 6: Combinar espacio, tiempo y energía: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-14260}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: 11.000 pesos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14259) · [Clase siguiente →](#cl-14261)
 
 ### Clase 3 de 6: Componer una frase propia: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-14261}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: 17 minutos
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14260) · [Clase siguiente →](#cl-14262)
+
 ### Clase 4 de 6: Interpretar propósito y contexto: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-14262}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Sí, porque hay 65 personas y el aforo es 70
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14261) · [Clase siguiente →](#cl-14263)
 
 ### Clase 5 de 6: Evaluar y revisar el proceso: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-14263}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Es observable; mejorar la ubicación del público o de los intérpret
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14262) · [Clase siguiente →](#cl-14264)
+
 ### Clase 6 de 6: Presentar o difundir con consentimiento: Diseñar y gestionar, personal o colectivamente, presentaciones a públicos específicos… {#cl-14264}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Guardar la captura y avisar a una persona adulta
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14263) · [Primera clase del OA siguiente →](ar-icda-3y4-oac-05.md#cl-14265)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Interpretación y creación en teatro | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-creacion-teatro.md) · [OA siguiente (AR-ICTE-3y4-OAC-02) →](ar-icte-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Experimentar con los elementos y recursos del lenguaje teatral (personajes, estructura dramática, conflicto, puesta en escena, espacio, entre otros), aplicándolos en la escenificación e interpretación de propósitos expresivos personales y colectivos.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14284) · [Clase 2](#cl-14285) · [Clase 3](#cl-14286) · [Clase 4](#cl-14287)
 
 ### Clase 1 de 4: Explorar cuerpo, gesto y voz: Experimentar con los elementos y recursos del lenguaje teatral (personajes, estructura… {#cl-14284}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -244,6 +248,9 @@ Respuesta: Se cambia solo la voz del paso 2 y se anota el efecto
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[Clase siguiente →](#cl-14285)
 
 ### Clase 2 de 4: Construir situación y personaje: Experimentar con los elementos y recursos del lenguaje teatral (personajes, estructura… {#cl-14285}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -451,6 +458,9 @@ Respuesta: Conflicto interno, entre vender y conservar el recuerdo
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14284) · [Clase siguiente →](#cl-14286)
+
 ### Clase 3 de 4: Ensayar decisiones escénicas: Experimentar con los elementos y recursos del lenguaje teatral (personajes, estructura… {#cl-14286}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -656,6 +666,9 @@ Respuesta: El foco va a quien se mueve, por contraste con la quietud
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-14285) · [Clase siguiente →](#cl-14287)
+
 ### Clase 4 de 4: Interpretar propósito y contexto: Experimentar con los elementos y recursos del lenguaje teatral (personajes, estructura… {#cl-14287}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -859,6 +872,9 @@ Respuesta: Frase con qué provocar y mediante qué recursos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-14286) · [Primera clase del OA siguiente →](ar-icte-3y4-oac-02.md#cl-14288)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

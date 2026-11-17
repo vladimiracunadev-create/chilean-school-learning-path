@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Interpretación musical | Objetivos de aprendizaje | formacion-diferenciada-hc | 6 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/interpretacion-musical.md) · [← OA anterior (AR-IMUS-3y4-OAC-01)](ar-imus-3y4-oac-01.md) · [OA siguiente (AR-IMUS-3y4-OAC-03) →](ar-imus-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Crear proyectos de interpretación musical que respondan a intereses personales o grupales, basados en la investigación con recursos y procedimientos expresivos y técnicos, características de estilo y referentes de la interpretación vocal e instrumental nacionales e internacionales.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13434) · [Clase 2](#cl-13435) · [Clase 3](#cl-13436) · [Clase 4](#cl-13437) · [Clase 5](#cl-13438) · [Clase 6](#cl-13439)
 
 ### Clase 1 de 6: Escuchar y reconocer rasgos: Crear proyectos de interpretación musical que respondan a intereses personales o… {#cl-13434}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -246,6 +250,9 @@ Respuesta: Sí: la voz suave y la dinámica entre p y mf apoyan el interés
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Última clase del OA anterior](ar-imus-3y4-oac-01.md#cl-13433) · [Clase siguiente →](#cl-13435)
+
 ### Clase 2 de 6: Explorar recursos de producción: Crear proyectos de interpretación musical que respondan a intereses personales o… {#cl-13435}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -450,6 +457,9 @@ Respuesta: Fuente primaria
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13434) · [Clase siguiente →](#cl-13436)
 
 ### Clase 3 de 6: Ensayar una decisión musical: Crear proyectos de interpretación musical que respondan a intereses personales o… {#cl-13436}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -656,6 +666,9 @@ Respuesta: Acortar la pieza en 1 minuto, quitando una repetición
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13435) · [Clase siguiente →](#cl-13437)
+
 ### Clase 4 de 6: Interpretar, crear o analizar: Crear proyectos de interpretación musical que respondan a intereses personales o… {#cl-13437}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -860,6 +873,9 @@ Respuesta: Que la guitarra baje su fuerza y la voz se mantenga
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13436) · [Clase siguiente →](#cl-13438)
 
 ### Clase 5 de 6: Registrar y ajustar: Crear proyectos de interpretación musical que respondan a intereses personales o… {#cl-13438}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -1066,6 +1082,9 @@ Respuesta: Bajar un poco la fuerza de la guitarra, sin cambiar nada más
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
 
+
+[← Clase anterior](#cl-13437) · [Clase siguiente →](#cl-13439)
+
 ### Clase 6 de 6: Evaluar, atribuir y difundir: Crear proyectos de interpretación musical que respondan a intereses personales o… {#cl-13439}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1270,6 +1289,9 @@ Respuesta: Respetar su decisión y grabar solo con quienes aceptaron, sin que ap
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda autoría, consentimiento, acceso y seguridad física o auditiva; los apoyos no sustituyen la decisión artística.
+
+
+[← Clase anterior](#cl-13438) · [Primera clase del OA siguiente →](ar-imus-3y4-oac-03.md#cl-13440)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

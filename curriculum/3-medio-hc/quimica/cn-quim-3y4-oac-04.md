@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Química | Objetivos de aprendizaje | formacion-diferenciada-hc | 4 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/quimica.md) · [← OA anterior (CN-QUIM-3y4-OAC-03)](cn-quim-3y4-oac-03.md) · [OA siguiente (CN-QUIM-3y4-OAC-05) →](cn-quim-3y4-oac-05.md)
+
 ## Qué se debe aprender
 > Explicar efectos del cambio climático sobre los ciclos biogeoquímicos y los equilibrios químicos que ocurren en los océanos, la atmósfera, las aguas dulces y los suelos, así como sus consecuencias sobre el bienestar de las personas y el desarrollo sostenible.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13709) · [Clase 2](#cl-13710) · [Clase 3](#cl-13711) · [Clase 4](#cl-13712)
 
 ### Clase 1 de 4: Delimitar pregunta y sistema: Explicar efectos del cambio climático sobre los ciclos biogeoquímicos y los… {#cl-13709}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: La segunda pregunta
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-quim-3y4-oac-03.md#cl-13708) · [Clase siguiente →](#cl-13710)
+
 ### Clase 2 de 4: Evaluar fuentes y variables: Explicar efectos del cambio climático sobre los ciclos biogeoquímicos y los… {#cl-13710}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: 3 mg/L menos
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13709) · [Clase siguiente →](#cl-13711)
 
 ### Clase 3 de 4: Construir o interpretar un modelo: Explicar efectos del cambio climático sobre los ciclos biogeoquímicos y los… {#cl-13711}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -659,6 +669,9 @@ Respuesta: Disminuye
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13710) · [Clase siguiente →](#cl-13712)
+
 ### Clase 4 de 4: Analizar evidencia: Explicar efectos del cambio climático sobre los ciclos biogeoquímicos y los… {#cl-13712}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -864,6 +877,9 @@ Respuesta: No, solo hay correlación
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13711) · [Primera clase del OA siguiente →](cn-quim-3y4-oac-05.md#cl-13713)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

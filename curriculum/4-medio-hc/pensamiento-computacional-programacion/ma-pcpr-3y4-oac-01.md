@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Pensamiento computacional y programación | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/pensamiento-computacional-programacion.md) · [OA siguiente (MA-PCPR-3y4-OAC-02) →](ma-pcpr-3y4-oac-02.md)
+
 ## Qué se debe aprender
 > Aplicar conceptos de Ciencias de la Computación -abstracción, organización lógica de datos, análisis de soluciones alternativas y generalización- al crear el código de una solución computacional.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14405) · [Clase 2](#cl-14406) · [Clase 3](#cl-14407) · [Clase 4](#cl-14408) · [Clase 5](#cl-14409)
 
 ### Clase 1 de 5: Precisar condiciones y objetos: Aplicar conceptos de Ciencias de la Computación -abstracción, organización lógica de… {#cl-14405}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -247,6 +251,9 @@ Respuesta: Devuelve 22.500
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[Clase siguiente →](#cl-14406)
+
 ### Clase 2 de 5: Representar de dos maneras: Aplicar conceptos de Ciencias de la Computación -abstracción, organización lógica de… {#cl-14406}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -452,6 +459,9 @@ Respuesta: Conviene el diccionario, y ficha["Cami"] vale 38
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14405) · [Clase siguiente →](#cl-14407)
+
 ### Clase 3 de 5: Desarrollar una estrategia: Aplicar conceptos de Ciencias de la Computación -abstracción, organización lógica de… {#cl-14407}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -655,6 +665,9 @@ Respuesta: B concluye que el 8 no está, aunque sí está en la posición 3
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14406) · [Clase siguiente →](#cl-14408)
 
 ### Clase 4 de 5: Justificar relaciones: Aplicar conceptos de Ciencias de la Computación -abstracción, organización lógica de… {#cl-14408}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -861,6 +874,9 @@ Respuesta: Devuelve (12, 4): 12 cajas completas y 4 sobrantes
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
 
+
+[← Clase anterior](#cl-14407) · [Clase siguiente →](#cl-14409)
+
 ### Clase 5 de 5: Comprobar y comparar: Aplicar conceptos de Ciencias de la Computación -abstracción, organización lógica de… {#cl-14409}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1065,6 +1081,9 @@ Respuesta: Devuelve −2, que es el mayor
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente mantiene lenguaje y demanda matemática; los apoyos de acceso no sustituyen representación, razonamiento ni comprobación individual.
+
+
+[← Clase anterior](#cl-14408) · [Primera clase del OA siguiente →](ma-pcpr-3y4-oac-02.md#cl-14410)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 4° medio · Formación Diferenciada HC | Estética | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/estetica.md) · [← OA anterior (FI-ESTE-3y4-OAC-02)](fi-este-3y4-oac-02.md) · [OA siguiente (FI-ESTE-3y4-OAC-04) →](fi-este-3y4-oac-04.md)
+
 ## Qué se debe aprender
 > Explicar fenómenos que han influido en la historia de la estética, como las creencias religiosas, los cambios tecnológicos, los procesos históricos, entre otros, y evaluar su impacto.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-14063) · [Clase 2](#cl-14064) · [Clase 3](#cl-14065) · [Clase 4](#cl-14066) · [Clase 5](#cl-14067)
 
 ### Clase 1 de 5: Problematizar una situación: Explicar fenómenos que han influido en la historia de la estética, como las creencias… {#cl-14063}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: Un cambio tecnológico
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Última clase del OA anterior](fi-este-3y4-oac-02.md#cl-14062) · [Clase siguiente →](#cl-14064)
+
 ### Clase 2 de 5: Definir conceptos: Explicar fenómenos que han influido en la historia de la estética, como las creencias… {#cl-14064}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Canon
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14063) · [Clase siguiente →](#cl-14065)
 
 ### Clase 3 de 5: Reconstruir una perspectiva: Explicar fenómenos que han influido en la historia de la estética, como las creencias… {#cl-14065}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -653,6 +663,9 @@ Respuesta: La máquina de grabar favoreció que más personas accedieran a imág
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14064) · [Clase siguiente →](#cl-14066)
+
 ### Clase 4 de 5: Formular y evaluar argumentos: Explicar fenómenos que han influido en la historia de la estética, como las creencias… {#cl-14066}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -857,6 +870,9 @@ Respuesta: Alcance amplio y duración breve
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
 
+
+[← Clase anterior](#cl-14065) · [Clase siguiente →](#cl-14067)
+
 ### Clase 5 de 5: Responder objeciones: Explicar fenómenos que han influido en la historia de la estética, como las creencias… {#cl-14067}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1059,6 +1075,9 @@ Respuesta: Las imprentas favorecieron cambios en cómo circulaba el arte, junto 
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente modera casos públicos o ficticios y protege pluralismo, privacidad y derechos; deriva situaciones reales según protocolo.
+
+
+[← Clase anterior](#cl-14066) · [Primera clase del OA siguiente →](fi-este-3y4-oac-04.md#cl-14068)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

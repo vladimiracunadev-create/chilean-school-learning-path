@@ -3,6 +3,8 @@
 |---|---|---|---|---|
 | 3° medio · Formación Diferenciada HC | Biología celular y molecular | Objetivos de aprendizaje | formacion-diferenciada-hc | 5 clases de 90 min |
 
+[📘 Guía del electivo](../../../docs/electivos-hc/biologia-celular-molecular.md) · [← OA anterior (CN-BCMO-3y4-OAC-01)](cn-bcmo-3y4-oac-01.md) · [OA siguiente (CN-BCMO-3y4-OAC-03) →](cn-bcmo-3y4-oac-03.md)
+
 ## Qué se debe aprender
 > Explicar la estructura y organización de la célula, basada en biomoléculas, membranas y organelos, su reproducción, mantención y recambio, en procesos de metabolismo, motilidad y comunicación, como fundamento de la continuidad y evolución del fenómeno de la vida.
 
@@ -40,6 +42,8 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
+
+**Clases de este OA:** [Clase 1](#cl-13036) · [Clase 2](#cl-13037) · [Clase 3](#cl-13038) · [Clase 4](#cl-13039) · [Clase 5](#cl-13040)
 
 ### Clase 1 de 5: Delimitar pregunta y sistema: Explicar la estructura y organización de la célula, basada en biomoléculas, membranas… {#cl-13036}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -245,6 +249,9 @@ Respuesta: 9 uniones
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Última clase del OA anterior](cn-bcmo-3y4-oac-01.md#cl-13035) · [Clase siguiente →](#cl-13037)
+
 ### Clase 2 de 5: Evaluar fuentes y variables: Explicar la estructura y organización de la célula, basada en biomoléculas, membranas… {#cl-13037}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -448,6 +455,9 @@ Respuesta: Transporte activo
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13036) · [Clase siguiente →](#cl-13038)
 
 ### Clase 3 de 5: Construir o interpretar un modelo: Explicar la estructura y organización de la célula, basada en biomoléculas, membranas… {#cl-13038}
 **Estado editorial:** Desarrollada con contenido específico.
@@ -654,6 +664,9 @@ Respuesta: Es procarionte
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13037) · [Clase siguiente →](#cl-13039)
+
 ### Clase 4 de 5: Analizar evidencia: Explicar la estructura y organización de la célula, basada en biomoléculas, membranas… {#cl-13039}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -859,6 +872,9 @@ Respuesta: 8 por mitosis y 4 por meiosis
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
 
+
+[← Clase anterior](#cl-13038) · [Clase siguiente →](#cl-13040)
+
 ### Clase 5 de 5: Comparar soluciones: Explicar la estructura y organización de la célula, basada en biomoléculas, membranas… {#cl-13040}
 **Estado editorial:** Desarrollada con contenido específico.
 
@@ -1062,6 +1078,9 @@ Respuesta: No cambia, aunque las proteínas se renuevan
 | Completa la actividad, pero no justifica su decisión | Solicita comparar con una alternativa y nombrar el criterio decisivo. | La explicación permite reconstruir y revisar la decisión. |
 
 **Coordinación de roles profesionales:** El docente resguarda seguridad y alcance científico; salud, prevención o especialistas intervienen solo según protocolo y sin diagnosticar estudiantes.
+
+
+[← Clase anterior](#cl-13039) · [Primera clase del OA siguiente →](cn-bcmo-3y4-oac-03.md#cl-13041)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
