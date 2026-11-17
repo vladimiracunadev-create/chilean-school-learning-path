@@ -5,6 +5,14 @@
   "updates": [
     {
       "date": "2026-11-17",
+      "title": "Fase B (lote): sector Tecnología y Comunicaciones (Programación, Conectividad y Redes y Telecomunicaciones)",
+      "summary": [
+        "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.927 registros (10.521 clases y 4.156 integradas) y 3.244 OA. Total TP publicado: 370 clases en 5 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
+        "Límites: solo conceptos y casos en papel; sin taller, laboratorio, equipos, software real ni práctica en terreno; en riesgo medio o alto no hay procedimientos operativos y el cuaderno no habilita para trabajar. Contenidos para especialistas en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md); avance en [docs/AVANCE_ASIGNATURAS_NUEVAS.md](docs/AVANCE_ASIGNATURAS_NUEVAS.md)."
+      ]
+    },
+    {
+      "date": "2026-11-17",
       "title": "Fase B (lote): sector Administración (Administración con sus menciones Logística y Recursos Humanos, y Contabilidad)",
       "summary": [
         "Se publican las especialidades técnico-profesionales indicadas (cursos `3-medio-tp` y `4-medio-tp`, cobertura `formacion-diferenciada-tp`) con los objetivos de aprendizaje de las [Bases Curriculares de Formación Diferenciada Técnico-Profesional](https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional) (el propio PDF declara el Decreto Supremo de Educación N.º 452/2013; edición 2016; sin módulos). Catálogo: 14.677 registros (10.521 clases y 4.156 integradas) y 3.182 OA. Total TP publicado: 120 clases en 2 especialidades; cada una con guía propia, cuaderno del estudiante (13 ejercicios cerrados en tramos 3/3/3/2/2, ejemplos resueltos, actividad abierta con rúbrica), navegación entre clases y lectura independiente (autor y lector asistidos por IA; no es revisión profesional).",
@@ -21,17 +29,6 @@
         "Las herramientas de verificación reconocen los códigos de los electivos (por ejemplo MA-GE3D-3y4-OAC-01) y cuentan los OA compartidos en los dos niveles; las cifras fijas de validadores y pruebas se actualizaron.",
         "Guías y navegación: cada electivo tiene su guía en `docs/electivos-hc/<asignatura>.md` (qué se aprende en cada clase, OA por OA, límites y fuentes) y el índice enlaza a esas guías. Las fichas y páginas de clase de los electivos traen índice de clases del OA, «Clase anterior» y «Clase siguiente», paso al OA vecino y enlace a la guía.",
         "Siguen abiertos: sin audio, video, imágenes, laboratorio ni software reales (todo se describe por escrito); obras, textos y fuentes reales con derechos, a cargo del docente; los títulos de las clases son una derivación mecánica del OA y no unidades oficiales; ningún cuaderno tiene revisión profesional humana ni se contrastó con la web oficial más allá del texto de los OA; la lectura independiente de Geografía, territorio y desafíos socioambientales no fue del todo a ciegas (el lector vio las claves). Los contenidos para especialistas están en [Revisión profesional pendiente](docs/REVISION_PENDIENTE_CUADERNOS.md)."
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Diccionarios de español e inglés de 1° básico a 4° medio",
-      "summary": [
-        "Nueva carpeta `docs/diccionarios/` con un diccionario de español y uno de inglés por cada uno de los 12 niveles, enlazada desde el README principal y con un índice que muestra el vocabulario nuevo y acumulado por nivel.",
-        "Español: sílabas, clase, significado sencillo, sinónimos, antónimos y ejemplo; los verbos traen presente, pasado (ayer) y futuro (mañana). Total: 7.095 palabras y 1.154 verbos.",
-        "Inglés: traducción, IPA, cómo suena para hispanohablantes, significado en español y ejemplo traducido; los verbos traen pasado, y en los niveles altos incluyen verbos compuestos (phrasal verbs). Total: 4.334 palabras y 762 verbos.",
-        "Cada nivel trae solo palabras nuevas y no repite ninguna de los anteriores (validado por `scripts/generate_dictionaries.py`, que además comprueba que las sílabas reconstruyan la palabra); pruebas en `tests/test_dictionaries.py`.",
-        "Límites declarados: selecciones propias (no son listados oficiales ni reemplazan a la RAE o a un diccionario de inglés), escritas con asistencia de IA y sin revisión de especialistas en lingüística o idiomas; los IPA y las pronunciaciones escritas salen de memoria del autor y no se cotejaron con una fuente; no hay audio; conjugaciones irregulares y silabeo sin segunda lectura humana."
       ]
     }
   ]

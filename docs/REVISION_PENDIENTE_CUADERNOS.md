@@ -270,4 +270,7 @@ Estado: cada clase tuvo autor, validación automática y una segunda lectura ind
 - **Especialistas necesarios:** un docente o profesional de cada especialidad debe revisar terminología, tasas de ejemplo y definiciones simplificadas; en riesgo medio o alto, además, que no se haya filtrado ningún procedimiento operativo.
 - **Administración** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/administracion.md).
 - **Contabilidad** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/contabilidad.md).
+- **Conectividad y Redes** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/conectividad-y-redes.md).
+- **Programación** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/programacion.md).
+- **Telecomunicaciones** (bajo): ver la sección «Para revisión de especialista» de su [guía](formacion-tp/telecomunicaciones.md).
 <!-- /TP:rev -->

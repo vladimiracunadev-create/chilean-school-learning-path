@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14588) · [Clase 2](#cl-14589) · [Clase 3](#cl-14590) · [Clase 4](#cl-14591) · [Clase 5](#cl-14592)
+**Clases de este OA:** [Clase 1](#cl-14632) · [Clase 2](#cl-14633) · [Clase 3](#cl-14634) · [Clase 4](#cl-14635) · [Clase 5](#cl-14636)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Procesar información contable sobre la marcha de la empresa {#cl-14588}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Procesar información contable sobre la marcha de la empresa {#cl-14632}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar procesar información contable sobre la marcha de la empresa a través de situar el contexto laboral, la norma y el riesgo: Procesar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: En abril
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-cont-3y4-oae-01.md#cl-14587) · [Clase siguiente →](#cl-14589)
+[← Última clase del OA anterior](tp-cont-3y4-oae-01.md#cl-14631) · [Clase siguiente →](#cl-14633)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Procesar información contable sobre la marcha de la empresa {#cl-14589}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Procesar información contable sobre la marcha de la empresa {#cl-14633}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar procesar información contable sobre la marcha de la empresa a través de reconocer conceptos, documentos y roles del oficio: Procesar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Debe Mercaderías 40.000; Haber Proveedores 40.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14588) · [Clase siguiente →](#cl-14590)
+[← Clase anterior](#cl-14632) · [Clase siguiente →](#cl-14634)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Procesar información contable sobre la marcha de la empresa {#cl-14590}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Procesar información contable sobre la marcha de la empresa {#cl-14634}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar procesar información contable sobre la marcha de la empresa a través de analizar un caso de trabajo en papel: Procesar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Debe Caja 220.000; Haber Ventas 200.000 e IVA Débito Fiscal 20.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14589) · [Clase siguiente →](#cl-14591)
+[← Clase anterior](#cl-14633) · [Clase siguiente →](#cl-14635)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Procesar información contable sobre la marcha de la empresa {#cl-14591}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Procesar información contable sobre la marcha de la empresa {#cl-14635}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar procesar información contable sobre la marcha de la empresa a través de aplicar un criterio técnico con datos de ejemplo: Procesar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -876,9 +876,9 @@ Respuesta: Acreedor por $900.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14590) · [Clase siguiente →](#cl-14592)
+[← Clase anterior](#cl-14634) · [Clase siguiente →](#cl-14636)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Procesar información contable sobre la marcha de la empresa {#cl-14592}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Procesar información contable sobre la marcha de la empresa {#cl-14636}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar procesar información contable sobre la marcha de la empresa a través de comparar alternativas y verificar la calidad: Procesar información contable sobre la marcha de la empresa, con una experiencia disciplinar específica, segura y revisable.
@@ -1083,7 +1083,7 @@ Respuesta: Probable saldo anotado en el lado equivocado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14591) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-03.md#cl-14593)
+[← Clase anterior](#cl-14635) · [Primera clase del OA siguiente →](tp-cont-3y4-oae-03.md#cl-14637)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

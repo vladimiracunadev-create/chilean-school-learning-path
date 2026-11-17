@@ -13,8 +13,12 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Administración** | | | | |
 | Administración | bajo | 15 | 62 | [📘 Leer guía](administracion.md) |
 | Contabilidad | bajo | 7 | 58 | [📘 Leer guía](contabilidad.md) |
+| **Tecnología y Comunicaciones** | | | | |
+| Conectividad y Redes | bajo | 11 | 88 | [📘 Leer guía](conectividad-y-redes.md) |
+| Programación | bajo | 10 | 80 | [📘 Leer guía](programacion.md) |
+| Telecomunicaciones | bajo | 10 | 82 | [📘 Leer guía](telecomunicaciones.md) |
 
-| **Total publicado** | | **22** | **120** | |
+| **Total publicado** | | **53** | **370** | |
 
 ## Lo que no cubren
 

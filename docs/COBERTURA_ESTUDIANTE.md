@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 10285 de 10.521 clases desarrolladas tienen cuaderno del estudiante (97,8 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 10535 de 10.771 clases desarrolladas tienen cuaderno del estudiante (97,8 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -26,8 +26,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
 | 3.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
-| 3.º medio TP | 55 | 55 | 0 | completo | 0 | 935 | 110 | pendiente |
-| 4.º medio TP | 65 | 65 | 0 | completo | 0 | 1.105 | 130 | pendiente |
+| 3.º medio TP | 180 | 180 | 0 | completo | 0 | 3.060 | 360 | pendiente |
+| 4.º medio TP | 190 | 190 | 0 | completo | 0 | 3.230 | 380 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -2172,6 +2172,68 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | contabilidad | TP-CONT-3y4-OAE-06 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | contabilidad | TP-CONT-3y4-OAE-07 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | contabilidad | TP-CONT-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-11 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-11 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | programacion | TP-PROG-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | programacion | TP-PROG-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-03 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | telecomunicaciones | TP-TELE-3y4-OAE-10 | 4 | 4 | 68 | 8 |
 
 ## Mínimos exigidos por el validador
 
@@ -2180,6 +2242,6 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 - Al menos 12 ejercicios cerrados repartidos en los 5 niveles (recuperación, comprensión, aplicación, razonamiento y desafío), más una situación auténtica y 3 preguntas de autoevaluación.
 - Respuesta y explicación de cada ejercicio; las respuestas aritméticas se recalculan automáticamente.
 - Actividad abierta con ejemplo de respuesta, criterios, evidencias aceptables, errores frecuentes y retroalimentación.
-- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1701 preguntas de repaso hoy).
+- Ninguna plantilla de enunciado puede superar el 50 % de los ejercicios de una clase. Un enunciado idéntico entre asignaturas distintas es un error; dentro de una misma asignatura se admite como repaso de un concepto que reaparece (1702 preguntas de repaso hoy).
 
 Los mínimos son un piso, no una meta: una clase no mejora por tener más ejercicios si éstos repiten la misma idea.

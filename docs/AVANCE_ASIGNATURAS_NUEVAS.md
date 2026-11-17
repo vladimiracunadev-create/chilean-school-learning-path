@@ -86,13 +86,13 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Electrónica | 7 | 58 | 0 | 0 | 0 | 0 % |
 | *Subtotal Electricidad* | 15 | 128 | 0 | 0 | 0 | 0 % |
 | **Gráfico** | | | | | | |
-| Dibujo Técnico | 9 | 82 | 16 | 0 | 0 | 0 % |
-| Gráfica | 7 | 60 | 0 | 0 | 0 | 0 % |
-| *Subtotal Gráfico* | 16 | 142 | 16 | 0 | 0 | 0 % |
+| Dibujo Técnico | 9 | 82 | 82 | 82 | 0 | 100 % |
+| Gráfica | 7 | 60 | 60 | 60 | 0 | 100 % |
+| *Subtotal Gráfico* | 16 | 142 | 142 | 142 | 0 | 100 % |
 | **Hotelería y Turismo** | | | | | | |
-| Servicios de Hotelería | 9 | 82 | 0 | 0 | 0 | 0 % |
-| Servicios de Turismo | 7 | 66 | 0 | 0 | 0 | 0 % |
-| *Subtotal Hotelería y Turismo* | 16 | 148 | 0 | 0 | 0 | 0 % |
+| Servicios de Hotelería | 9 | 82 | 42 | 0 | 0 | 0 % |
+| Servicios de Turismo | 7 | 66 | 38 | 0 | 0 | 0 % |
+| *Subtotal Hotelería y Turismo* | 16 | 148 | 80 | 0 | 0 | 0 % |
 | **Maderero** | | | | | | |
 | Forestal | 10 | 92 | 0 | 0 | 0 | 0 % |
 | Muebles y Terminaciones en Madera | 10 | 84 | 0 | 0 | 0 | 0 % |
@@ -122,14 +122,14 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Atención de Párvulos | 10 | 86 | 0 | 0 | 0 | 0 % |
 | *Subtotal Salud y Educación* | 25 | 154 | 0 | 0 | 0 | 0 % |
 | **Tecnología y Comunicaciones** | | | | | | |
-| Conectividad y Redes | 11 | 88 | 88 | 88 | 0 | 100 % |
-| Programación | 10 | 80 | 80 | 80 | 0 | 100 % |
-| Telecomunicaciones | 10 | 82 | 82 | 82 | 0 | 100 % |
-| *Subtotal Tecnología y Comunicaciones* | 31 | 250 | 250 | 250 | 0 | 100 % |
+| Conectividad y Redes | 11 | 88 | 88 | 88 | 88 | 100 % |
+| Programación | 10 | 80 | 80 | 80 | 80 | 100 % |
+| Telecomunicaciones | 10 | 82 | 82 | 82 | 82 | 100 % |
+| *Subtotal Tecnología y Comunicaciones* | 31 | 250 | 250 | 250 | 250 | 100 % |
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 0 | 0 | 0 | 0 % |
 | *Subtotal Transversal* | 12 | 96 | 0 | 0 | 0 | 0 % |
-| **TOTAL FASE B** | 382 | 2745 | 386 | 370 | 120 | **13 %** |
+| **TOTAL FASE B** | 382 | 2745 | 592 | 512 | 370 | **19 %** |
 
 ## Fase C · EPJA
 
