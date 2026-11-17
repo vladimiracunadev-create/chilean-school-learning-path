@@ -1,0 +1,33 @@
+Material del estudiante válido: 9046 clases.
+Análisis de alineación escrito.
+Traceback (most recent call last):
+  File "C:\dev\chilean-school-learning-path\.claude\worktrees\fases-a-e-asignaturas-dc79d2\scripts\generate_school_program.py", line 2079, in <module>
+    if __name__=="__main__":main()
+                            ^^^^^^
+  File "C:\dev\chilean-school-learning-path\.claude\worktrees\fases-a-e-asignaturas-dc79d2\scripts\generate_school_program.py", line 1896, in main
+    target=ROOT/item["path"];target.parent.mkdir(parents=True,exist_ok=True);target.write_text(plan(item),encoding="utf-8")
+                                                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pathlib.py", line 1047, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'C:\\dev\\chilean-school-learning-path\\.claude\\worktrees\\fases-a-e-asignaturas-dc79d2\\curriculum\\2-medio\\historia-geografia-ciencias-sociales\\hi2m-oa-01.md'
+== validate_school_program
+OK: 14557 registros (10401 clases + 4156 integraciones), 3153 OA, 12 niveles y 595 lecturas
+== validate_licensing
+OK: capas de licencia, procedencia, inventarios, enlaces y salidas generadas validados.
+== validate_competency_system
+OK: taxonomía, progresiones, marcos, banco y evidencia son coherentes.
+== validate_content_presentation
+OK: 0 Markdown y 0 HTML cumplen estructura visual y separación de enlaces
+== validate_student_lessons
+Material del estudiante válido: 9046 clases.
+== audit_content
+Auditoría de contenido sincronizada.
+== audit_alignment
+Análisis de alineación sincronizado.
+UTF-8 OK: 8453 archivos de texto; 65 binarios u omitidos
+compile-ok
+PIPE-DONE

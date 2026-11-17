@@ -74,6 +74,8 @@ Aquí puedes responder:
 | Saber qué puede usarse y qué falta | [Estado de implementación](ESTADO_IMPLEMENTACION.md) | Capacidades pedagógicas, evidencia, límites y próximos pasos |
 | Abrir un instrumento sin buscar dentro de un documento largo | [Archivos individuales](evaluaciones/README.md) | 13 Markdown independientes; las muestras también permanecen en el archivo correspondiente |
 | Ver toda la cobertura | [12 niveles navegables](COBERTURA.md) | OA, clases, desarrollo y enlaces directos |
+| Ver los electivos de 3° y 4° medio | [Electivos HC](electivos-hc/README.md) | 27 electivos, 165 OA y 1.560 clases con cuaderno del estudiante |
+| Seguir el avance de las asignaturas nuevas | [Avance de las asignaturas nuevas](AVANCE_ASIGNATURAS_NUEVAS.md) | tabla por asignatura: clases totales, escritas, cerradas y publicadas |
 | Seguir el desarrollo ítem por ítem | [Plan maestro](PLAN_DESARROLLO.md) | orden por nivel y asignatura, estados, gates y controles profesionales |
 | Entender Markdown y HTML | [Formatos](FORMATOS.md) | correspondencia de 10.401 clases y 4.156 experiencias integradas |
 | Entender cómo se versiona y publica | [Flujo de contenido](CONTENT_LIFECYCLE.md) | fuente, versión, changelog, generación, CI, Pages y rollback |
