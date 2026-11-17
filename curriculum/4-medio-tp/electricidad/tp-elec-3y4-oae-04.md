@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15440) · [Clase 2](#cl-15441) · [Clase 3](#cl-15442) · [Clase 4](#cl-15443) · [Clase 5](#cl-15444)
+**Clases de este OA:** [Clase 1](#cl-15599) · [Clase 2](#cl-15600) · [Clase 3](#cl-15601) · [Clase 4](#cl-15602) · [Clase 5](#cl-15603)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15440}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15599}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de calefacción y fuerza motriz en baja tensión a través de situar el contexto laboral, la norma y el riesgo: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: El atrapamiento por partes en movimiento
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-elec-3y4-oae-03.md#cl-15439) · [Clase siguiente →](#cl-15441)
+[← Última clase del OA anterior](tp-elec-3y4-oae-03.md#cl-15598) · [Clase siguiente →](#cl-15600)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15441}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15600}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de calefacción y fuerza motriz en baja tensión a través de reconocer conceptos, documentos y roles del oficio: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 4.500 vueltas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15440) · [Clase siguiente →](#cl-15442)
+[← Clase anterior](#cl-15599) · [Clase siguiente →](#cl-15601)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15442}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15601}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de calefacción y fuerza motriz en baja tensión a través de analizar un caso de trabajo en papel: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 6 A
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15441) · [Clase siguiente →](#cl-15443)
+[← Clase anterior](#cl-15600) · [Clase siguiente →](#cl-15602)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15443}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15602}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de calefacción y fuerza motriz en baja tensión a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -872,9 +872,9 @@ Respuesta: 500 W
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15442) · [Clase siguiente →](#cl-15444)
+[← Clase anterior](#cl-15601) · [Clase siguiente →](#cl-15603)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15444}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión {#cl-15603}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar instalaciones de calefacción y fuerza motriz en baja tensión a través de comparar alternativas y verificar la calidad: Ejecutar instalaciones de calefacción y fuerza motriz en baja tensión, con una experiencia disciplinar específica, segura y revisable.
@@ -1079,7 +1079,7 @@ Respuesta: $20.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15443) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-05.md#cl-15445)
+[← Clase anterior](#cl-15602) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-05.md#cl-15604)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

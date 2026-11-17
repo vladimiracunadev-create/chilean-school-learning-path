@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15172) · [Clase 2](#cl-15173) · [Clase 3](#cl-15174) · [Clase 4](#cl-15175)
+**Clases de este OA:** [Clase 1](#cl-15253) · [Clase 2](#cl-15254) · [Clase 3](#cl-15255) · [Clase 4](#cl-15256)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15172}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15253}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar y transformar moldes para artículos textiles y vestuario de forma manual y a través de situar el contexto laboral, la norma y el riesgo: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y, con una experiencia disciplinar específica, segura y revisable.
@@ -250,9 +250,9 @@ Respuesta: El sentido del hilo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-vcte-3y4-oae-01.md#cl-15171) · [Clase siguiente →](#cl-15173)
+[← Última clase del OA anterior](tp-vcte-3y4-oae-01.md#cl-15252) · [Clase siguiente →](#cl-15254)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15173}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15254}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar y transformar moldes para artículos textiles y vestuario de forma manual y a través de reconocer conceptos, documentos y roles del oficio: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y, con una experiencia disciplinar específica, segura y revisable.
@@ -457,9 +457,9 @@ Respuesta: La tabla de medidas corporales
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15172) · [Clase siguiente →](#cl-15174)
+[← Clase anterior](#cl-15253) · [Clase siguiente →](#cl-15255)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15174}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15255}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar y transformar moldes para artículos textiles y vestuario de forma manual y a través de analizar un caso de trabajo en papel: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: No, el molde no cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15173) · [Clase siguiente →](#cl-15175)
+[← Clase anterior](#cl-15254) · [Clase siguiente →](#cl-15256)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15175}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y {#cl-15256}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar y transformar moldes para artículos textiles y vestuario de forma manual y a través de aplicar un criterio técnico con datos de ejemplo: Elaborar y transformar moldes para artículos textiles y vestuario de forma manual y, con una experiencia disciplinar específica, segura y revisable.
@@ -871,7 +871,7 @@ Respuesta: 57 cm
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15174) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-03.md#cl-15176)
+[← Clase anterior](#cl-15255) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-03.md#cl-15257)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

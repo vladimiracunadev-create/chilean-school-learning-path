@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15422) · [Clase 2](#cl-15423) · [Clase 3](#cl-15424) · [Clase 4](#cl-15425) · [Clase 5](#cl-15426)
+**Clases de este OA:** [Clase 1](#cl-15581) · [Clase 2](#cl-15582) · [Clase 3](#cl-15583) · [Clase 4](#cl-15584) · [Clase 5](#cl-15585)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Manejar residuos sólidos, líquidos y gaseosos {#cl-15422}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Manejar residuos sólidos, líquidos y gaseosos {#cl-15581}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar residuos sólidos, líquidos y gaseosos a través de situar el contexto laboral, la norma y el riesgo: Manejar residuos sólidos, líquidos y gaseosos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Prevención
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eial-3y4-oae-07.md#cl-15421) · [Clase siguiente →](#cl-15423)
+[← Última clase del OA anterior](tp-eial-3y4-oae-07.md#cl-15580) · [Clase siguiente →](#cl-15582)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Manejar residuos sólidos, líquidos y gaseosos {#cl-15423}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Manejar residuos sólidos, líquidos y gaseosos {#cl-15582}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar residuos sólidos, líquidos y gaseosos a través de reconocer conceptos, documentos y roles del oficio: Manejar residuos sólidos, líquidos y gaseosos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: Se valoriza
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15422) · [Clase siguiente →](#cl-15424)
+[← Clase anterior](#cl-15581) · [Clase siguiente →](#cl-15583)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Manejar residuos sólidos, líquidos y gaseosos {#cl-15424}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Manejar residuos sólidos, líquidos y gaseosos {#cl-15583}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar residuos sólidos, líquidos y gaseosos a través de analizar un caso de trabajo en papel: Manejar residuos sólidos, líquidos y gaseosos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15423) · [Clase siguiente →](#cl-15425)
+[← Clase anterior](#cl-15582) · [Clase siguiente →](#cl-15584)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Manejar residuos sólidos, líquidos y gaseosos {#cl-15425}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Manejar residuos sólidos, líquidos y gaseosos {#cl-15584}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar residuos sólidos, líquidos y gaseosos a través de aplicar un criterio técnico con datos de ejemplo: Manejar residuos sólidos, líquidos y gaseosos, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: $4.000 por semana
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15424) · [Clase siguiente →](#cl-15426)
+[← Clase anterior](#cl-15583) · [Clase siguiente →](#cl-15585)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Manejar residuos sólidos, líquidos y gaseosos {#cl-15426}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Manejar residuos sólidos, líquidos y gaseosos {#cl-15585}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar manejar residuos sólidos, líquidos y gaseosos a través de comparar alternativas y verificar la calidad: Manejar residuos sólidos, líquidos y gaseosos, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: 65 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15425)
+[← Clase anterior](#cl-15584)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

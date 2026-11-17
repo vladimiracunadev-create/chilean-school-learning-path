@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14741) · [Clase 2](#cl-14742) · [Clase 3](#cl-14743) · [Clase 4](#cl-14744)
+**Clases de este OA:** [Clase 1](#cl-14779) · [Clase 2](#cl-14780) · [Clase 3](#cl-14781) · [Clase 4](#cl-14782)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Recepcionar, pesar, clasificar {#cl-14741}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Recepcionar, pesar, clasificar {#cl-14779}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recepcionar, pesar, clasificar a través de situar el contexto laboral, la norma y el riesgo: Recepcionar, pesar, clasificar, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Primero se recepciona
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-14742)
+[Clase siguiente →](#cl-14780)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Recepcionar, pesar, clasificar {#cl-14742}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Recepcionar, pesar, clasificar {#cl-14780}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recepcionar, pesar, clasificar a través de reconocer conceptos, documentos y roles del oficio: Recepcionar, pesar, clasificar, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Una guía de despacho
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14741) · [Clase siguiente →](#cl-14743)
+[← Clase anterior](#cl-14779) · [Clase siguiente →](#cl-14781)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Recepcionar, pesar, clasificar {#cl-14743}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Recepcionar, pesar, clasificar {#cl-14781}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recepcionar, pesar, clasificar a través de analizar un caso de trabajo en papel: Recepcionar, pesar, clasificar, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Se acepta en parte: se aceptan 8 cajas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14742) · [Clase siguiente →](#cl-14744)
+[← Clase anterior](#cl-14780) · [Clase siguiente →](#cl-14782)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Recepcionar, pesar, clasificar {#cl-14744}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Recepcionar, pesar, clasificar {#cl-14782}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar recepcionar, pesar, clasificar a través de aplicar un criterio técnico con datos de ejemplo: Recepcionar, pesar, clasificar, con una experiencia disciplinar específica, segura y revisable.
@@ -877,7 +877,7 @@ Respuesta: 100 kg
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14743) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-02.md#cl-14745)
+[← Clase anterior](#cl-14781) · [Primera clase del OA siguiente →](tp-eial-3y4-oae-02.md#cl-14783)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

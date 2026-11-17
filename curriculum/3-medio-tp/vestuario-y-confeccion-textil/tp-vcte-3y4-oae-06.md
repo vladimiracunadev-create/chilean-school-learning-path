@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15188) · [Clase 2](#cl-15189) · [Clase 3](#cl-15190) · [Clase 4](#cl-15191)
+**Clases de este OA:** [Clase 1](#cl-15269) · [Clase 2](#cl-15270) · [Clase 3](#cl-15271) · [Clase 4](#cl-15272)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Confeccionar artículos textiles y de vestuario {#cl-15188}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Confeccionar artículos textiles y de vestuario {#cl-15269}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar confeccionar artículos textiles y de vestuario a través de situar el contexto laboral, la norma y el riesgo: Confeccionar artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No omitir el control
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-vcte-3y4-oae-05.md#cl-15187) · [Clase siguiente →](#cl-15189)
+[← Última clase del OA anterior](tp-vcte-3y4-oae-05.md#cl-15268) · [Clase siguiente →](#cl-15270)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Confeccionar artículos textiles y de vestuario {#cl-15189}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Confeccionar artículos textiles y de vestuario {#cl-15270}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar confeccionar artículos textiles y de vestuario a través de reconocer conceptos, documentos y roles del oficio: Confeccionar artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: La operación de 60 prendas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15188) · [Clase siguiente →](#cl-15190)
+[← Clase anterior](#cl-15269) · [Clase siguiente →](#cl-15271)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Confeccionar artículos textiles y de vestuario {#cl-15190}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Confeccionar artículos textiles y de vestuario {#cl-15271}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar confeccionar artículos textiles y de vestuario a través de analizar un caso de trabajo en papel: Confeccionar artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -665,9 +665,9 @@ Respuesta: La operación de 80
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15189) · [Clase siguiente →](#cl-15191)
+[← Clase anterior](#cl-15270) · [Clase siguiente →](#cl-15272)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Confeccionar artículos textiles y de vestuario {#cl-15191}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Confeccionar artículos textiles y de vestuario {#cl-15272}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar confeccionar artículos textiles y de vestuario a través de aplicar un criterio técnico con datos de ejemplo: Confeccionar artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -872,7 +872,7 @@ Respuesta: 80 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15190) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-07.md#cl-15192)
+[← Clase anterior](#cl-15271) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-07.md#cl-15273)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

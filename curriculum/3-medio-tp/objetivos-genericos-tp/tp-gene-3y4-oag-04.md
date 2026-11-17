@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14935) · [Clase 2](#cl-14936) · [Clase 3](#cl-14937) · [Clase 4](#cl-14938)
+**Clases de este OA:** [Clase 1](#cl-15016) · [Clase 2](#cl-15017) · [Clase 3](#cl-15018) · [Clase 4](#cl-15019)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Trabajar eficazmente en equipo {#cl-14935}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Trabajar eficazmente en equipo {#cl-15016}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trabajar eficazmente en equipo a través de situar el contexto laboral, la norma y el riesgo: Trabajar eficazmente en equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 20 personas por hora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gene-3y4-oag-03.md#cl-14934) · [Clase siguiente →](#cl-14936)
+[← Última clase del OA anterior](tp-gene-3y4-oag-03.md#cl-15015) · [Clase siguiente →](#cl-15017)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Trabajar eficazmente en equipo {#cl-14936}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Trabajar eficazmente en equipo {#cl-15017}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trabajar eficazmente en equipo a través de reconocer conceptos, documentos y roles del oficio: Trabajar eficazmente en equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 20 y 40 pedidos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14935) · [Clase siguiente →](#cl-14937)
+[← Clase anterior](#cl-15016) · [Clase siguiente →](#cl-15018)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Trabajar eficazmente en equipo {#cl-14937}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Trabajar eficazmente en equipo {#cl-15018}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trabajar eficazmente en equipo a través de analizar un caso de trabajo en papel: Trabajar eficazmente en equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: 20 minutos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14936) · [Clase siguiente →](#cl-14938)
+[← Clase anterior](#cl-15017) · [Clase siguiente →](#cl-15019)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Trabajar eficazmente en equipo {#cl-14938}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Trabajar eficazmente en equipo {#cl-15019}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar trabajar eficazmente en equipo a través de aplicar un criterio técnico con datos de ejemplo: Trabajar eficazmente en equipo, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: La segunda forma
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14937) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-05.md#cl-14939)
+[← Clase anterior](#cl-15018) · [Primera clase del OA siguiente →](tp-gene-3y4-oag-05.md#cl-15020)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

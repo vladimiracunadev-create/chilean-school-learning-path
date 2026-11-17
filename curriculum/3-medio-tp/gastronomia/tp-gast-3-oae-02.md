@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14843) · [Clase 2](#cl-14844) · [Clase 3](#cl-14845) · [Clase 4](#cl-14846)
+**Clases de este OA:** [Clase 1](#cl-14881) · [Clase 2](#cl-14882) · [Clase 3](#cl-14883) · [Clase 4](#cl-14884)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Higienizar y limpiar materias primas {#cl-14843}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Higienizar y limpiar materias primas {#cl-14881}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar higienizar y limpiar materias primas a través de situar el contexto laboral, la norma y el riesgo: Higienizar y limpiar materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Está limpiando
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-gast-3-oae-01.md#cl-14842) · [Clase siguiente →](#cl-14844)
+[← Última clase del OA anterior](tp-gast-3-oae-01.md#cl-14880) · [Clase siguiente →](#cl-14882)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Higienizar y limpiar materias primas {#cl-14844}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Higienizar y limpiar materias primas {#cl-14882}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar higienizar y limpiar materias primas a través de reconocer conceptos, documentos y roles del oficio: Higienizar y limpiar materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Los guantes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14843) · [Clase siguiente →](#cl-14845)
+[← Clase anterior](#cl-14881) · [Clase siguiente →](#cl-14883)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Higienizar y limpiar materias primas {#cl-14845}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Higienizar y limpiar materias primas {#cl-14883}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar higienizar y limpiar materias primas a través de analizar un caso de trabajo en papel: Higienizar y limpiar materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: Contaminación cruzada
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14844) · [Clase siguiente →](#cl-14846)
+[← Clase anterior](#cl-14882) · [Clase siguiente →](#cl-14884)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Higienizar y limpiar materias primas {#cl-14846}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Higienizar y limpiar materias primas {#cl-14884}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar higienizar y limpiar materias primas a través de aplicar un criterio técnico con datos de ejemplo: Higienizar y limpiar materias primas, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: $200
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14845) · [Primera clase del OA siguiente →](tp-gast-3-oae-03.md#cl-14847)
+[← Clase anterior](#cl-14883) · [Primera clase del OA siguiente →](tp-gast-3-oae-03.md#cl-14885)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

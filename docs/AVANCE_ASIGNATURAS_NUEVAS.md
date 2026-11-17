@@ -76,11 +76,11 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Vestuario y Confección Textil | 8 | 66 | 66 | 66 | 66 | 100 % |
 | *Subtotal Confección* | 8 | 66 | 66 | 66 | 66 | 100 % |
 | **Construcción** | | | | | | |
-| Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 116 | 0 | 0 | 0 | 0 % |
+| Construcción (con 3 menciones: Edificación, Obras Viales e Infraestructura, Terminaciones de la Construcción) | 27 | 116 | 116 | 116 | 116 | 100 % |
 | Instalaciones Sanitarias | 8 | 74 | 74 | 74 | 74 | 100 % |
-| Montaje Industrial | 10 | 86 | 52 | 0 | 0 | 0 % |
+| Montaje Industrial | 10 | 86 | 86 | 86 | 86 | 100 % |
 | Refrigeración y Climatización | 9 | 82 | 82 | 82 | 82 | 100 % |
-| *Subtotal Construcción* | 54 | 358 | 208 | 156 | 156 | 44 % |
+| *Subtotal Construcción* | 54 | 358 | 358 | 358 | 358 | 100 % |
 | **Electricidad** | | | | | | |
 | Electricidad | 8 | 70 | 70 | 70 | 70 | 100 % |
 | Electrónica | 7 | 58 | 58 | 58 | 58 | 100 % |
@@ -94,15 +94,15 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | Servicios de Turismo | 7 | 66 | 66 | 66 | 66 | 100 % |
 | *Subtotal Hotelería y Turismo* | 16 | 148 | 148 | 148 | 148 | 100 % |
 | **Maderero** | | | | | | |
-| Forestal | 10 | 92 | 0 | 0 | 0 | 0 % |
-| Muebles y Terminaciones en Madera | 10 | 84 | 0 | 0 | 0 | 0 % |
-| *Subtotal Maderero* | 20 | 176 | 0 | 0 | 0 | 0 % |
+| Forestal | 10 | 92 | 92 | 92 | 0 | 100 % |
+| Muebles y Terminaciones en Madera | 10 | 84 | 84 | 84 | 0 | 100 % |
+| *Subtotal Maderero* | 20 | 176 | 176 | 176 | 0 | 100 % |
 | **Marítimo** | | | | | | |
-| Acuicultura | 8 | 72 | 0 | 0 | 0 | 0 % |
-| Operaciones Portuarias | 7 | 68 | 0 | 0 | 0 | 0 % |
+| Acuicultura | 8 | 72 | 72 | 72 | 0 | 100 % |
+| Operaciones Portuarias | 7 | 68 | 68 | 0 | 0 | 0 % |
 | Pesquería | 7 | 68 | 0 | 0 | 0 | 0 % |
 | Tripulación de Naves Mercantes y Especiales | 9 | 88 | 0 | 0 | 0 | 0 % |
-| *Subtotal Marítimo* | 31 | 296 | 0 | 0 | 0 | 0 % |
+| *Subtotal Marítimo* | 31 | 296 | 140 | 72 | 0 | 24 % |
 | **Metalmecánica** | | | | | | |
 | Construcciones Metálicas | 9 | 76 | 0 | 0 | 0 | 0 % |
 | Mecánica Automotriz | 8 | 70 | 0 | 0 | 0 | 0 % |
@@ -129,7 +129,7 @@ Las bases definen **35 especialidades en 15 sectores, con 17 menciones**, y un p
 | **Transversal** | | | | | | |
 | Objetivos genéricos A-L (comunes a las 35) | 12 | 96 | 96 | 96 | 96 | 100 % |
 | *Subtotal Transversal* | 12 | 96 | 96 | 96 | 96 | 100 % |
-| **TOTAL FASE B** | 382 | 2745 | 1369 | 1317 | 1317 | **48 %** |
+| **TOTAL FASE B** | 382 | 2745 | 1835 | 1767 | 1519 | **64 %** |
 
 ## Fase C · EPJA
 

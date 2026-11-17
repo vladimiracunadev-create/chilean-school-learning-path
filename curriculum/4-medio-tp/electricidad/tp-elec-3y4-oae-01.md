@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15427) · [Clase 2](#cl-15428) · [Clase 3](#cl-15429) · [Clase 4](#cl-15430)
+**Clases de este OA:** [Clase 1](#cl-15586) · [Clase 2](#cl-15587) · [Clase 3](#cl-15588) · [Clase 4](#cl-15589)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar especificaciones técnicas {#cl-15427}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Leer y utilizar especificaciones técnicas {#cl-15586}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar especificaciones técnicas a través de situar el contexto laboral, la norma y el riesgo: Leer y utilizar especificaciones técnicas, con una experiencia disciplinar específica, segura y revisable.
@@ -182,7 +182,7 @@ Respuesta: 8 páginas
 *Autoevaluación*
 
 - **E1.** En Electricidad: ¿qué es un diagrama?
-- **E2.** ¿Qué se hace si el plano y las especificaciones se contradicen?
+- **E2.** En electricidad: ¿qué se hace si el plano y las especificaciones se contradicen?
 - **E3.** ¿Quién interviene un tablero conectado a la red?
 
 **Actividad abierta.** Proyecto de ejemplo «Taller Brisa»: plano (1 lámina), especificaciones (5 páginas), memoria de cálculo (3 páginas) y presupuesto (2 páginas). Las especificaciones indican 6 puntos de luz y el plano dibuja 5. Escribe (a) qué documento consultarías para saber cuánto cuesta, (b) cuántas páginas escritas hay en total, (c) qué haces con la diferencia de puntos de luz y a quién informas, (d) un riesgo de la instalación y quién debe ejecutar el trabajo.
@@ -252,9 +252,9 @@ Respuesta: 8 páginas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15428)
+[Clase siguiente →](#cl-15587)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar especificaciones técnicas {#cl-15428}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Leer y utilizar especificaciones técnicas {#cl-15587}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar especificaciones técnicas a través de reconocer conceptos, documentos y roles del oficio: Leer y utilizar especificaciones técnicas, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 3 enchufes
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15427) · [Clase siguiente →](#cl-15429)
+[← Clase anterior](#cl-15586) · [Clase siguiente →](#cl-15588)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar especificaciones técnicas {#cl-15429}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Leer y utilizar especificaciones técnicas {#cl-15588}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar especificaciones técnicas a través de analizar un caso de trabajo en papel: Leer y utilizar especificaciones técnicas, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Un hallazgo: el cuadro dice 4 y el plano dibuja 5; se informa al proy
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15428) · [Clase siguiente →](#cl-15430)
+[← Clase anterior](#cl-15587) · [Clase siguiente →](#cl-15589)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar especificaciones técnicas {#cl-15430}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Leer y utilizar especificaciones técnicas {#cl-15589}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar leer y utilizar especificaciones técnicas a través de aplicar un criterio técnico con datos de ejemplo: Leer y utilizar especificaciones técnicas, con una experiencia disciplinar específica, segura y revisable.
@@ -878,7 +878,7 @@ Respuesta: 4 Ω
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15429) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-02.md#cl-15431)
+[← Clase anterior](#cl-15588) · [Primera clase del OA siguiente →](tp-elec-3y4-oae-02.md#cl-15590)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

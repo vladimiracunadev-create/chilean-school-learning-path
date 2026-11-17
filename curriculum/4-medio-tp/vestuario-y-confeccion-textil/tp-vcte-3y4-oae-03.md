@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15851) · [Clase 2](#cl-15852) · [Clase 3](#cl-15853) · [Clase 4](#cl-15854)
+**Clases de este OA:** [Clase 1](#cl-16053) · [Clase 2](#cl-16054) · [Clase 3](#cl-16055) · [Clase 4](#cl-16056)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Marcar y cortar telas en forma manual o con máquina {#cl-15851}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Marcar y cortar telas en forma manual o con máquina {#cl-16053}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar marcar y cortar telas en forma manual o con máquina a través de situar el contexto laboral, la norma y el riesgo: Marcar y cortar telas en forma manual o con máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Avisar antes de cortar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-vcte-3y4-oae-02.md#cl-15850) · [Clase siguiente →](#cl-15852)
+[← Última clase del OA anterior](tp-vcte-3y4-oae-02.md#cl-16052) · [Clase siguiente →](#cl-16054)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Marcar y cortar telas en forma manual o con máquina {#cl-15852}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Marcar y cortar telas en forma manual o con máquina {#cl-16054}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar marcar y cortar telas en forma manual o con máquina a través de reconocer conceptos, documentos y roles del oficio: Marcar y cortar telas en forma manual o con máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 4 rollos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15851) · [Clase siguiente →](#cl-15853)
+[← Clase anterior](#cl-16053) · [Clase siguiente →](#cl-16055)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Marcar y cortar telas en forma manual o con máquina {#cl-15853}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Marcar y cortar telas en forma manual o con máquina {#cl-16055}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar marcar y cortar telas en forma manual o con máquina a través de analizar un caso de trabajo en papel: Marcar y cortar telas en forma manual o con máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No se aprueba
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15852) · [Clase siguiente →](#cl-15854)
+[← Clase anterior](#cl-16054) · [Clase siguiente →](#cl-16056)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Marcar y cortar telas en forma manual o con máquina {#cl-15854}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Marcar y cortar telas en forma manual o con máquina {#cl-16056}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar marcar y cortar telas en forma manual o con máquina a través de aplicar un criterio técnico con datos de ejemplo: Marcar y cortar telas en forma manual o con máquina, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: $90.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15853) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-04.md#cl-15855)
+[← Clase anterior](#cl-16055) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-04.md#cl-16057)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15275) · [Clase 2](#cl-15276) · [Clase 3](#cl-15277) · [Clase 4](#cl-15278)
+**Clases de este OA:** [Clase 1](#cl-15356) · [Clase 2](#cl-15357) · [Clase 3](#cl-15358) · [Clase 4](#cl-15359)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15275}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15356}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, archivar y mantener actualizados antecedentes de los niños y niñas a través de situar el contexto laboral, la norma y el riesgo: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: Guardarla bajo llave o en el archivo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-atpa-3y4-oae-09.md#cl-15274) · [Clase siguiente →](#cl-15276)
+[← Última clase del OA anterior](tp-atpa-3y4-oae-09.md#cl-15355) · [Clase siguiente →](#cl-15357)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15276}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15357}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, archivar y mantener actualizados antecedentes de los niños y niñas a través de reconocer conceptos, documentos y roles del oficio: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Sensible
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15275) · [Clase siguiente →](#cl-15277)
+[← Clase anterior](#cl-15356) · [Clase siguiente →](#cl-15358)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15277}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15358}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, archivar y mantener actualizados antecedentes de los niños y niñas a través de analizar un caso de trabajo en papel: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Avisar a la educadora para consultar a la familia
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15276) · [Clase siguiente →](#cl-15278)
+[← Clase anterior](#cl-15357) · [Clase siguiente →](#cl-15359)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15278}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas {#cl-15359}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar registrar, archivar y mantener actualizados antecedentes de los niños y niñas a través de aplicar un criterio técnico con datos de ejemplo: Registrar, archivar y mantener actualizados antecedentes de los niños y niñas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15277)
+[← Clase anterior](#cl-15358)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

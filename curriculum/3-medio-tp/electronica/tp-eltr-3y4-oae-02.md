@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14814) · [Clase 2](#cl-14815) · [Clase 3](#cl-14816) · [Clase 4](#cl-14817)
+**Clases de este OA:** [Clase 1](#cl-14852) · [Clase 2](#cl-14853) · [Clase 3](#cl-14854) · [Clase 4](#cl-14855)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14814}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14852}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos a través de situar el contexto laboral, la norma y el riesgo: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Respuesta: Las pilas sin energía, por ser más simple y menos riesgosa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eltr-3y4-oae-01.md#cl-14813) · [Clase siguiente →](#cl-14815)
+[← Última clase del OA anterior](tp-eltr-3y4-oae-01.md#cl-14851) · [Clase siguiente →](#cl-14853)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14815}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14853}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos a través de reconocer conceptos, documentos y roles del oficio: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: 27 W
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14814) · [Clase siguiente →](#cl-14816)
+[← Clase anterior](#cl-14852) · [Clase siguiente →](#cl-14854)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14816}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos a través de analizar un caso de trabajo en papel: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -668,9 +668,9 @@ Respuesta: 5 V
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14815) · [Clase siguiente →](#cl-14817)
+[← Clase anterior](#cl-14853) · [Clase siguiente →](#cl-14855)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14817}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos {#cl-14855}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos a través de aplicar un criterio técnico con datos de ejemplo: Inspeccionar y diagnosticar fallas de funcionamiento en circuitos electrónicos, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: No: está fuera del rango y hay que diagnosticar
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14816) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-03.md#cl-14818)
+[← Clase anterior](#cl-14854) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-03.md#cl-14856)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

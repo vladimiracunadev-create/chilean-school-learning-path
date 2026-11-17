@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15682) · [Clase 2](#cl-15683) · [Clase 3](#cl-15684) · [Clase 4](#cl-15685)
+**Clases de este OA:** [Clase 1](#cl-15884) · [Clase 2](#cl-15885) · [Clase 3](#cl-15886) · [Clase 4](#cl-15887)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15682}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15884}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de situar el contexto laboral, la norma y el riesgo: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: De prueba
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-09.md#cl-15681) · [Clase siguiente →](#cl-15683)
+[← Última clase del OA anterior](tp-prog-3y4-oae-09.md#cl-15883) · [Clase siguiente →](#cl-15885)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15683}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15885}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de reconocer conceptos, documentos y roles del oficio: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: No, no se instala
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15682) · [Clase siguiente →](#cl-15684)
+[← Clase anterior](#cl-15884) · [Clase siguiente →](#cl-15886)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15684}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15886}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de analizar un caso de trabajo en papel: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Sí, cubre ambos requerimientos
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15683) · [Clase siguiente →](#cl-15685)
+[← Clase anterior](#cl-15885) · [Clase siguiente →](#cl-15887)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15685}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar software de productividad y programas utilitarios en un equipo personal {#cl-15887}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar software de productividad y programas utilitarios en un equipo personal a través de aplicar un criterio técnico con datos de ejemplo: Instalar software de productividad y programas utilitarios en un equipo personal, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Rechaza y propone una alternativa legítima
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15684)
+[← Clase anterior](#cl-15886)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15650) · [Clase 2](#cl-15651) · [Clase 3](#cl-15652) · [Clase 4](#cl-15653)
+**Clases de este OA:** [Clase 1](#cl-15852) · [Clase 2](#cl-15853) · [Clase 3](#cl-15854) · [Clase 4](#cl-15855)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar sistemas de información manufacturados {#cl-15650}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Instalar sistemas de información manufacturados {#cl-15852}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar sistemas de información manufacturados a través de situar el contexto laboral, la norma y el riesgo: Instalar sistemas de información manufacturados, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: Manufacturado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-01.md#cl-15649) · [Clase siguiente →](#cl-15651)
+[← Última clase del OA anterior](tp-prog-3y4-oae-01.md#cl-15851) · [Clase siguiente →](#cl-15853)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar sistemas de información manufacturados {#cl-15651}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Instalar sistemas de información manufacturados {#cl-15853}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar sistemas de información manufacturados a través de reconocer conceptos, documentos y roles del oficio: Instalar sistemas de información manufacturados, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: El manual de instalación
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15650) · [Clase siguiente →](#cl-15652)
+[← Clase anterior](#cl-15852) · [Clase siguiente →](#cl-15854)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar sistemas de información manufacturados {#cl-15652}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Instalar sistemas de información manufacturados {#cl-15854}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar sistemas de información manufacturados a través de analizar un caso de trabajo en papel: Instalar sistemas de información manufacturados, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Sí, cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15651) · [Clase siguiente →](#cl-15653)
+[← Clase anterior](#cl-15853) · [Clase siguiente →](#cl-15855)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar sistemas de información manufacturados {#cl-15653}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Instalar sistemas de información manufacturados {#cl-15855}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar instalar sistemas de información manufacturados a través de aplicar un criterio técnico con datos de ejemplo: Instalar sistemas de información manufacturados, con una experiencia disciplinar específica, segura y revisable.
@@ -877,7 +877,7 @@ Respuesta: 50 GB
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15652) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-03.md#cl-15654)
+[← Clase anterior](#cl-15854) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-03.md#cl-15856)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

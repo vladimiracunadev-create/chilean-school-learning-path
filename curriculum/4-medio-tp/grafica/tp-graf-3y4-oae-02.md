@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15535) · [Clase 2](#cl-15536) · [Clase 3](#cl-15537) · [Clase 4](#cl-15538)
+**Clases de este OA:** [Clase 1](#cl-15694) · [Clase 2](#cl-15695) · [Clase 3](#cl-15696) · [Clase 4](#cl-15697)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Obtener una prueba de color {#cl-15535}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Obtener una prueba de color {#cl-15694}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar obtener una prueba de color a través de situar el contexto laboral, la norma y el riesgo: Obtener una prueba de color, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No basta; conviene una prueba impresa
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-graf-3y4-oae-01.md#cl-15534) · [Clase siguiente →](#cl-15536)
+[← Última clase del OA anterior](tp-graf-3y4-oae-01.md#cl-15693) · [Clase siguiente →](#cl-15695)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Obtener una prueba de color {#cl-15536}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Obtener una prueba de color {#cl-15695}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar obtener una prueba de color a través de reconocer conceptos, documentos y roles del oficio: Obtener una prueba de color, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: $80.000
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15535) · [Clase siguiente →](#cl-15537)
+[← Clase anterior](#cl-15694) · [Clase siguiente →](#cl-15696)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Obtener una prueba de color {#cl-15537}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Obtener una prueba de color {#cl-15696}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar obtener una prueba de color a través de analizar un caso de trabajo en papel: Obtener una prueba de color, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No cumple
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15536) · [Clase siguiente →](#cl-15538)
+[← Clase anterior](#cl-15695) · [Clase siguiente →](#cl-15697)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Obtener una prueba de color {#cl-15538}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Obtener una prueba de color {#cl-15697}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar obtener una prueba de color a través de aplicar un criterio técnico con datos de ejemplo: Obtener una prueba de color, con una experiencia disciplinar específica, segura y revisable.
@@ -874,7 +874,7 @@ Respuesta: No se acepta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15537) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-03.md#cl-15539)
+[← Clase anterior](#cl-15696) · [Primera clase del OA siguiente →](tp-graf-3y4-oae-03.md#cl-15698)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

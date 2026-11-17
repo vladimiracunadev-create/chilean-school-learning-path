@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15755) · [Clase 2](#cl-15756) · [Clase 3](#cl-15757) · [Clase 4](#cl-15758) · [Clase 5](#cl-15759)
+**Clases de este OA:** [Clase 1](#cl-15957) · [Clase 2](#cl-15958) · [Clase 3](#cl-15959) · [Clase 4](#cl-15960) · [Clase 5](#cl-15961)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Organizar y realizar actividades de animación y recreativas {#cl-15755}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Organizar y realizar actividades de animación y recreativas {#cl-15957}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y realizar actividades de animación y recreativas a través de situar el contexto laboral, la norma y el riesgo: Organizar y realizar actividades de animación y recreativas, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La sentada con juegos de memoria
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-06.md#cl-15754) · [Clase siguiente →](#cl-15756)
+[← Última clase del OA anterior](tp-seho-3y4-oae-06.md#cl-15956) · [Clase siguiente →](#cl-15958)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Organizar y realizar actividades de animación y recreativas {#cl-15756}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Organizar y realizar actividades de animación y recreativas {#cl-15958}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y realizar actividades de animación y recreativas a través de reconocer conceptos, documentos y roles del oficio: Organizar y realizar actividades de animación y recreativas, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Tres pasos cortos con demostración
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15755) · [Clase siguiente →](#cl-15757)
+[← Clase anterior](#cl-15957) · [Clase siguiente →](#cl-15959)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Organizar y realizar actividades de animación y recreativas {#cl-15757}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Organizar y realizar actividades de animación y recreativas {#cl-15959}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y realizar actividades de animación y recreativas a través de analizar un caso de trabajo en papel: Organizar y realizar actividades de animación y recreativas, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Se descarta esa opción o se adapta
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15756) · [Clase siguiente →](#cl-15758)
+[← Clase anterior](#cl-15958) · [Clase siguiente →](#cl-15960)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Organizar y realizar actividades de animación y recreativas {#cl-15758}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Organizar y realizar actividades de animación y recreativas {#cl-15960}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y realizar actividades de animación y recreativas a través de aplicar un criterio técnico con datos de ejemplo: Organizar y realizar actividades de animación y recreativas, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 15:45
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15757) · [Clase siguiente →](#cl-15759)
+[← Clase anterior](#cl-15959) · [Clase siguiente →](#cl-15961)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Organizar y realizar actividades de animación y recreativas {#cl-15759}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Organizar y realizar actividades de animación y recreativas {#cl-15961}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar organizar y realizar actividades de animación y recreativas a través de comparar alternativas y verificar la calidad: Organizar y realizar actividades de animación y recreativas, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15758) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-08.md#cl-15760)
+[← Clase anterior](#cl-15960) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-08.md#cl-15962)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -28315,6 +28315,83 @@
       "course_slug": "3-medio-tp",
       "course_order": 15,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Construcción",
+      "subject_slug": "construccion",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-CONS-3-OAE-01",
+          "description": "Leer y utilizar diversos tipos de planos (de arquitectura, de cálculo de obra gruesa, obras viales, terminaciones, fundación y estructura), esquemas y manuales de especificaciones técnicas relacionados con la ejecución de las obras. 9 Fuente: Banco Central de Chile: Cuentas Nacionales de Chile 2008-2011 (on line). 10 Fuente: INE, Compendio Estadístico 2011 (on line). ESPECIALIDAD CONSTRUCCIÓN.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-02",
+          "description": "Realizar mediciones y controles de verificación de distintas magnitudes para la ejecución de trabajos de trazado y de diversas obras de construcción, utilizando los instrumentos apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-03",
+          "description": "Ejecutar trazados de obras de edificación, obras viales, terminaciones, emplazamiento de obras, fundaciones, estructuras, moldajes y emplazamientos de enfierradura, de acuerdo a planos estructurales o de terminaciones, determinando puntos de referencia, fijando niveles y replanteo, utilizando los equipos e instrumentos apropiados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-04",
+          "description": "Ejecutar obras de carpintería para la instalación de faenas, utilizando variados elementos de construcción, equipos y herramientas, de acuerdo a trazados establecidos, planos estructurales.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-05",
+          "description": "Cubicar manual y digitalmente elementos y materiales requeridos para una obra determinada, utilizando los programas computacionales apropiados, de acuerdo a longitudes, superficies y volúmenes determinados.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-06",
+          "description": "Utilizar y realizar mantenimiento básico de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-07",
+          "description": "Preparar muestras de hormigón, suelos y materiales, así como los equipos e instrumentos de laboratorio necesarios para el análisis de la calidad de los productos finales e intermedios, de acuerdo a especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-08",
+          "description": "Llevar registros de información acerca de materiales, stocks, horas de equipos y otros elementos de la obra necesarios para el control de gestión, de acuerdo a formatos y procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-CONS-3-OAE-09",
+          "description": "Leer y aplicar normas y simbología de seguridad y prevención de riesgos relacionados con las diversas faenas que realizan, así como resguardar la normativa ambiental.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Contabilidad",
       "subject_slug": "contabilidad",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -28822,6 +28899,90 @@
         {
           "code": "TP-INSA-3y4-OAE-08",
           "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "3° medio · Formación Diferenciada TP",
+      "course_slug": "3-medio-tp",
+      "course_order": 15,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Montaje Industrial",
+      "subject_slug": "montaje-industrial",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MOIN-3y4-OAE-01",
+          "description": "Leer y utilizar planos técnicos de montaje industrial y sus componentes, simbología, instrumentos análogos y digitales, extrayendo información y realizando mediciones y controles de verificación de distintas magnitudes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-02",
+          "description": "Medir y calcular pendientes, superficies, pesos, fuerzas, tolerancias y rendimientos, necesarios para el montaje de estructuras, aplicando conocimientos básicos de matemática y física, utilizando instrumentos y equipos de metrología.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-03",
+          "description": "Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, hormigones prefabricados, calderería, equipos mecánicos, ductos y cañerías, sistemas eléctricos, de instrumentación y de aislamiento, de acuerdo a planos y procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-04",
+          "description": "Unir y reparar elementos metálicos del montaje, mediante actividades de corte y soldadura en posición plana horizontal y vertical, utilizando equipos de oxigas y arco manual, soldadura TIG, MIG y MAG, y mediante uniones mecánicas, de acuerdo a las especificaciones técnicas del proyecto y normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-05",
+          "description": "Ejecutar tratamientos de protección de componentes del montaje mediante anticorrosivos, pinturas y otros, utilizando materiales, herramientas y equipos apropiados, respetando las normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-06",
+          "description": "Utilizar equipos de levante, técnicas de amarras, nudos y estiba para izaje y traslado de piezas, aplicando normas de seguridad y de transporte para maniobras con componentes estáticos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-07",
+          "description": "Fijar en su sitio estructuras metálicas, hormigones prefabricados, calderería, equipos mecánicos, ductos y cañerías, sistemas eléctricos, de instrumentación y de aislamiento, en colaboración con otros, utilizando herramientas y equipos apropiados, de acuerdo a instrucciones y especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-08",
+          "description": "Realizar el mantenimiento básico de instrumentos, herramientas, útiles, máquinas, equipos y componentes propios de la especialidad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-09",
+          "description": "Realizar el tratamiento de residuos y desechos del montaje industrial, aplicando técnicas compatibles con el cuidado del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-10",
+          "description": "Calcular y cubicar materiales, insumos y otros elementos, considerando los planos y las especificaciones técnicas del proyecto.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
@@ -29652,6 +29813,174 @@
       "course_slug": "4-medio-tp",
       "course_order": 16,
       "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Construcción · mención Edificación",
+      "subject_slug": "construccion-mencion-edificacion",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-COED-4-OAM-01",
+          "description": "Ejecutar obras de enfierradura para elementos estructurales, fundaciones, sobrecimientos, pilares, cadenas, vigas, losas y muros, de acuerdo a especificaciones técnicas y planos de construcción, utilizando maquinaria, herramientas e instrumentos de medida adecuados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COED-4-OAM-02",
+          "description": "Ejecutar obras de hormigón para fundaciones, sobrecimientos, pilares, vigas, cadenas, losas, muros, con hormigón preparado en obra y premezclado, de acuerdo a especificaciones técnicas y los planos de estructura, utilizando maquinaria, herramientas e instrumentos de medida adecuados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COED-4-OAM-03",
+          "description": "Preparar hormigón en obra, controlando la calidad, el compactado y el curado, de acuerdo al principio de resistencia de los materiales y normas constructivas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COED-4-OAM-04",
+          "description": "Ejecutar obras de albañilería estructural y no estructural, aplicando dosificaciones para morteros de acuerdo a planos de construcción y especificaciones técnicas, utilizando maquinaria, herramientas e instrumentos de medida adecuados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COED-4-OAM-05",
+          "description": "Elaborar e instalar moldajes de madera e industrializados, tabiquería y techumbres, de acuerdo a especificaciones técnicas y planos estructurales, utilizando maquinaria, herramientas e instrumentos de medida adecuados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Construcción · mención Obras Viales e Infraestructura",
+      "subject_slug": "construccion-mencion-obras-viales-e-infraestructura",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-COOV-4-OAM-01",
+          "description": "Interpretar planos, especificaciones técnicas y ensayos de laboratorio para verificar el cumplimiento de los estándares de calidad exigidos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COOV-4-OAM-02",
+          "description": "Verificar las distintas partidas de proyectos viales de mediana envergadura, de acuerdo a los planos y especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COOV-4-OAM-03",
+          "description": "Controlar el movimiento de tierra realizado por máquinas, equipos y herramientas utilizados en el despeje de franjas, cortes y terraplenes en obras de mediana envergadura, de acuerdo a los planos, especificaciones técnicas y regulaciones vigentes.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COOV-4-OAM-04",
+          "description": "Verificar las faenas de construcción y colocación de saneamientos, muros de contención, defensas fluviales y de talud en las vías, en obras de mediana envergadura, de acuerdo a planos y especificaciones técnicas, usando instrumental adecuado, considerando el uso de materiales, máquinas, equipos y herramientas apropiados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COOV-4-OAM-05",
+          "description": "Verificar las faenas de producción, transporte, colocación y compactación en obras de mediana envergadura, de acuerdo al trazado y especificaciones técnicas, considerando el uso de materiales, maquinarias, equipos, instrumentos y herramientas apropiados.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COOV-4-OAM-06",
+          "description": "Resguardar la seguridad en la vía y el lugar de trabajo mediante la instalación de señalizaciones y dispositivos de seguridad, de acuerdo al manual de carretera, planos de la obra y normas de seguridad, prevención de riesgos y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COOV-4-OAM-07",
+          "description": "Ejecutar tareas propias del programa de conservación y mantenimiento de obras viales de mediana envergadura, tales como toma de muestras a las carpetas de rodado, verificación de desplazamientos de muros, defensas, cortes y terraplenes, según especificaciones técnicas, el manual de carretera, las normas del Laboratorio Nacional de Vialidad y las normas medioambientales.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Construcción · mención Terminaciones de la Construcción",
+      "subject_slug": "construccion-mencion-terminaciones-de-la-construccion",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-COTE-4-OAM-01",
+          "description": "Impermeabilizar y aislar superficies de muros, tabiques, pisos, cielos y techumbres, utilizando los materiales, equipos y herramientas apropiados, respetando las indicaciones de los fabricantes de productos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COTE-4-OAM-02",
+          "description": "Armar e instalar muebles de cocina, clósets y baños, tabiques, hojas de puertas y ventanas, utilizando las herramientas y equipos apropiados, de acuerdo a trazados, planos de detalles y especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COTE-4-OAM-03",
+          "description": "Revestir superficies de pisos, muros y cielos con diferentes productos, adhesivos y técnicas constructivas, utilizando herramientas y equipos apropiados, de acuerdo a las características del proyecto arquitectónico, verificando medidas, horizontalidad y verticalidad.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COTE-4-OAM-04",
+          "description": "Instalar protecciones hídricas y cubiertas de diferentes materiales, facilitando la evacuación de las aguas lluvia, de acuerdo a las indicaciones de los fabricantes de los productos.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COTE-4-OAM-05",
+          "description": "Instalar puertas y ventanas, con su quincallería y vidrios, utilizando las herramientas y equipos apropiados, de acuerdo a trazados, planos de detalles y especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-COTE-4-OAM-06",
+          "description": "Pintar y colocar papeles en muros y cielos, considerando las características de las superficies y de los materiales a utilizar, de acuerdo a las especificidades del proyecto.",
+          "axis": "Objetivos de aprendizaje de la mención",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
       "subject": "Contabilidad",
       "subject_slug": "contabilidad",
       "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
@@ -30215,6 +30544,90 @@
         {
           "code": "TP-INSA-3y4-OAE-08",
           "description": "Verificar el funcionamiento adecuado de equipos, herramientas y maquinarias de la especialidad, de acuerdo a los manuales de funcionamiento de los fabricantes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        }
+      ]
+    },
+    {
+      "course": "4° medio · Formación Diferenciada TP",
+      "course_slug": "4-medio-tp",
+      "course_order": 16,
+      "course_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "subject": "Montaje Industrial",
+      "subject_slug": "montaje-industrial",
+      "subject_url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional",
+      "coverage": "formacion-diferenciada-tp",
+      "approach": "analizar situaciones de trabajo, aplicar criterios y registrar decisiones y su seguridad en papel",
+      "evidence": "ficha de trabajo o informe breve con criterios, fuente y límites de seguridad",
+      "objectives": [
+        {
+          "code": "TP-MOIN-3y4-OAE-01",
+          "description": "Leer y utilizar planos técnicos de montaje industrial y sus componentes, simbología, instrumentos análogos y digitales, extrayendo información y realizando mediciones y controles de verificación de distintas magnitudes.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-02",
+          "description": "Medir y calcular pendientes, superficies, pesos, fuerzas, tolerancias y rendimientos, necesarios para el montaje de estructuras, aplicando conocimientos básicos de matemática y física, utilizando instrumentos y equipos de metrología.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-03",
+          "description": "Trazar el área para las maniobras y la instalación del montaje de estructuras metálicas, hormigones prefabricados, calderería, equipos mecánicos, ductos y cañerías, sistemas eléctricos, de instrumentación y de aislamiento, de acuerdo a planos y procedimientos establecidos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-04",
+          "description": "Unir y reparar elementos metálicos del montaje, mediante actividades de corte y soldadura en posición plana horizontal y vertical, utilizando equipos de oxigas y arco manual, soldadura TIG, MIG y MAG, y mediante uniones mecánicas, de acuerdo a las especificaciones técnicas del proyecto y normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-05",
+          "description": "Ejecutar tratamientos de protección de componentes del montaje mediante anticorrosivos, pinturas y otros, utilizando materiales, herramientas y equipos apropiados, respetando las normas de higiene, seguridad industrial y medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-06",
+          "description": "Utilizar equipos de levante, técnicas de amarras, nudos y estiba para izaje y traslado de piezas, aplicando normas de seguridad y de transporte para maniobras con componentes estáticos.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-07",
+          "description": "Fijar en su sitio estructuras metálicas, hormigones prefabricados, calderería, equipos mecánicos, ductos y cañerías, sistemas eléctricos, de instrumentación y de aislamiento, en colaboración con otros, utilizando herramientas y equipos apropiados, de acuerdo a instrucciones y especificaciones técnicas.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-08",
+          "description": "Realizar el mantenimiento básico de instrumentos, herramientas, útiles, máquinas, equipos y componentes propios de la especialidad.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-09",
+          "description": "Realizar el tratamiento de residuos y desechos del montaje industrial, aplicando técnicas compatibles con el cuidado del medio ambiente.",
+          "axis": "Objetivos de aprendizaje de la especialidad",
+          "prioritized": false,
+          "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"
+        },
+        {
+          "code": "TP-MOIN-3y4-OAE-10",
+          "description": "Calcular y cubicar materiales, insumos y otros elementos, considerando los planos y las especificaciones técnicas del proyecto.",
           "axis": "Objetivos de aprendizaje de la especialidad",
           "prioritized": false,
           "url": "https://www.curriculumnacional.cl/portal/Documentos-Curriculares/Bases-curriculares/70892:Bases-Curriculares-Formacion-Diferenciada-Tecnico-Profesional"

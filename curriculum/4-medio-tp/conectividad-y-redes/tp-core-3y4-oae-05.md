@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15295) · [Clase 2](#cl-15296) · [Clase 3](#cl-15297) · [Clase 4](#cl-15298)
+**Clases de este OA:** [Clase 1](#cl-15376) · [Clase 2](#cl-15377) · [Clase 3](#cl-15378) · [Clase 4](#cl-15379)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15295}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15376}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar métodos de seguridad informática para mitigar amenazas en una red lan a través de situar el contexto laboral, la norma y el riesgo: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN, con una experiencia disciplinar específica, segura y revisable.
@@ -252,9 +252,9 @@ Respuesta: La confidencialidad
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-core-3y4-oae-04.md#cl-15294) · [Clase siguiente →](#cl-15296)
+[← Última clase del OA anterior](tp-core-3y4-oae-04.md#cl-15375) · [Clase siguiente →](#cl-15377)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15296}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15377}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar métodos de seguridad informática para mitigar amenazas en una red lan a través de reconocer conceptos, documentos y roles del oficio: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN, con una experiencia disciplinar específica, segura y revisable.
@@ -461,9 +461,9 @@ Respuesta: Ver solo las notas de su curso
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15295) · [Clase siguiente →](#cl-15297)
+[← Clase anterior](#cl-15376) · [Clase siguiente →](#cl-15378)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15297}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15378}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar métodos de seguridad informática para mitigar amenazas en una red lan a través de analizar un caso de trabajo en papel: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN, con una experiencia disciplinar específica, segura y revisable.
@@ -669,9 +669,9 @@ Respuesta: Se bloquea
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15296) · [Clase siguiente →](#cl-15298)
+[← Clase anterior](#cl-15377) · [Clase siguiente →](#cl-15379)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15298}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN {#cl-15379}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar aplicar métodos de seguridad informática para mitigar amenazas en una red lan a través de aplicar un criterio técnico con datos de ejemplo: Aplicar métodos de seguridad informática para mitigar amenazas en una red LAN, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: No caben juntas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15297) · [Primera clase del OA siguiente →](tp-core-3y4-oae-06.md#cl-15299)
+[← Clase anterior](#cl-15378) · [Primera clase del OA siguiente →](tp-core-3y4-oae-06.md#cl-15380)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

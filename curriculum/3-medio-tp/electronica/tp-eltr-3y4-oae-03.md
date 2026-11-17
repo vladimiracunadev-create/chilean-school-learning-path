@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14818) · [Clase 2](#cl-14819) · [Clase 3](#cl-14820) · [Clase 4](#cl-14821)
+**Clases de este OA:** [Clase 1](#cl-14856) · [Clase 2](#cl-14857) · [Clase 3](#cl-14858) · [Clase 4](#cl-14859)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Armar y ensamblar circuitos electrónicos básicos {#cl-14818}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Armar y ensamblar circuitos electrónicos básicos {#cl-14856}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar y ensamblar circuitos electrónicos básicos a través de situar el contexto laboral, la norma y el riesgo: Armar y ensamblar circuitos electrónicos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 15 firmas
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-eltr-3y4-oae-02.md#cl-14817) · [Clase siguiente →](#cl-14819)
+[← Última clase del OA anterior](tp-eltr-3y4-oae-02.md#cl-14855) · [Clase siguiente →](#cl-14857)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Armar y ensamblar circuitos electrónicos básicos {#cl-14819}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Armar y ensamblar circuitos electrónicos básicos {#cl-14857}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar y ensamblar circuitos electrónicos básicos a través de reconocer conceptos, documentos y roles del oficio: Armar y ensamblar circuitos electrónicos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: 80 µF
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14818) · [Clase siguiente →](#cl-14820)
+[← Clase anterior](#cl-14856) · [Clase siguiente →](#cl-14858)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Armar y ensamblar circuitos electrónicos básicos {#cl-14820}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Armar y ensamblar circuitos electrónicos básicos {#cl-14858}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar y ensamblar circuitos electrónicos básicos a través de analizar un caso de trabajo en papel: Armar y ensamblar circuitos electrónicos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: 3 Ω
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14819) · [Clase siguiente →](#cl-14821)
+[← Clase anterior](#cl-14857) · [Clase siguiente →](#cl-14859)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Armar y ensamblar circuitos electrónicos básicos {#cl-14821}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Armar y ensamblar circuitos electrónicos básicos {#cl-14859}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar armar y ensamblar circuitos electrónicos básicos a través de aplicar un criterio técnico con datos de ejemplo: Armar y ensamblar circuitos electrónicos básicos, con una experiencia disciplinar específica, segura y revisable.
@@ -876,7 +876,7 @@ Respuesta: 9
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14820) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-04.md#cl-14822)
+[← Clase anterior](#cl-14858) · [Primera clase del OA siguiente →](tp-eltr-3y4-oae-04.md#cl-14860)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

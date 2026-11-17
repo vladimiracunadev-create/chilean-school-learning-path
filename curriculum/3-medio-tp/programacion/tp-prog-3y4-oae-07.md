@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-14995) · [Clase 2](#cl-14996) · [Clase 3](#cl-14997) · [Clase 4](#cl-14998)
+**Clases de este OA:** [Clase 1](#cl-15076) · [Clase 2](#cl-15077) · [Clase 3](#cl-15078) · [Clase 4](#cl-15079)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-14995}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-15076}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dar soporte técnico a usuarios de un sistema computacional en forma local o remota a través de situar el contexto laboral, la norma y el riesgo: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No entregarla y avisar a la jefatura
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-prog-3y4-oae-06.md#cl-14994) · [Clase siguiente →](#cl-14996)
+[← Última clase del OA anterior](tp-prog-3y4-oae-06.md#cl-15075) · [Clase siguiente →](#cl-15077)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-14996}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-15077}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dar soporte técnico a usuarios de un sistema computacional en forma local o remota a través de reconocer conceptos, documentos y roles del oficio: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: Sí, se cumplió
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14995) · [Clase siguiente →](#cl-14997)
+[← Clase anterior](#cl-15076) · [Clase siguiente →](#cl-15078)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-14997}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-15078}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dar soporte técnico a usuarios de un sistema computacional en forma local o remota a través de analizar un caso de trabajo en papel: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: No se sabe cuál cambio resolvió el problema
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14996) · [Clase siguiente →](#cl-14998)
+[← Clase anterior](#cl-15077) · [Clase siguiente →](#cl-15079)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-14998}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota {#cl-15079}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar dar soporte técnico a usuarios de un sistema computacional en forma local o remota a través de aplicar un criterio técnico con datos de ejemplo: Dar soporte técnico a usuarios de un sistema computacional en forma local o remota, con una experiencia disciplinar específica, segura y revisable.
@@ -873,7 +873,7 @@ Respuesta: Reportarlo y no hacer clic
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-14997) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-08.md#cl-14999)
+[← Clase anterior](#cl-15078) · [Primera clase del OA siguiente →](tp-prog-3y4-oae-08.md#cl-15080)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

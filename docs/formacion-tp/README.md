@@ -19,7 +19,9 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Confección** | | | | |
 | Vestuario y Confección Textil | medio | 8 | 66 | [📘 Leer guía](vestuario-y-confeccion-textil.md) |
 | **Construcción** | | | | |
+| Construcción | alto | 27 | 116 | [📘 Leer guía](construccion.md) |
 | Instalaciones Sanitarias | alto | 8 | 74 | [📘 Leer guía](instalaciones-sanitarias.md) |
+| Montaje Industrial | alto | 10 | 86 | [📘 Leer guía](montaje-industrial.md) |
 | Refrigeración y Climatización | alto | 9 | 82 | [📘 Leer guía](refrigeracion-y-climatizacion.md) |
 | **Electricidad** | | | | |
 | Electricidad | alto | 8 | 70 | [📘 Leer guía](electricidad.md) |
@@ -39,7 +41,7 @@ Especialidades de la Educación Media Técnico-Profesional (EMTP) con objetivos 
 | **Transversal** | | | | |
 | Objetivos genéricos A-L | bajo | 12 | 96 | [📘 Leer guía](objetivos-genericos-tp.md) |
 
-| **Total publicado** | | **169** | **1317** | |
+| **Total publicado** | | **206** | **1519** | |
 
 ## Lo que no cubren
 

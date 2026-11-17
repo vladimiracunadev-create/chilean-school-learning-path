@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15167) · [Clase 2](#cl-15168) · [Clase 3](#cl-15169) · [Clase 4](#cl-15170) · [Clase 5](#cl-15171)
+**Clases de este OA:** [Clase 1](#cl-15248) · [Clase 2](#cl-15249) · [Clase 3](#cl-15250) · [Clase 4](#cl-15251) · [Clase 5](#cl-15252)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15167}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15248}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diseños básicos de artículos textiles y de vestuario a través de situar el contexto laboral, la norma y el riesgo: Elaborar diseños básicos de artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: La diseñadora
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[Clase siguiente →](#cl-15168)
+[Clase siguiente →](#cl-15249)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15168}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15249}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diseños básicos de artículos textiles y de vestuario a través de reconocer conceptos, documentos y roles del oficio: Elaborar diseños básicos de artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -460,9 +460,9 @@ Respuesta: El dibujo plano
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15167) · [Clase siguiente →](#cl-15169)
+[← Clase anterior](#cl-15248) · [Clase siguiente →](#cl-15250)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15169}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15250}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diseños básicos de artículos textiles y de vestuario a través de analizar un caso de trabajo en papel: Elaborar diseños básicos de artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -667,9 +667,9 @@ Respuesta: No, se revisa la decisión
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15168) · [Clase siguiente →](#cl-15170)
+[← Clase anterior](#cl-15249) · [Clase siguiente →](#cl-15251)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15170}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15251}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diseños básicos de artículos textiles y de vestuario a través de aplicar un criterio técnico con datos de ejemplo: Elaborar diseños básicos de artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -874,9 +874,9 @@ Respuesta: $4.500
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15169) · [Clase siguiente →](#cl-15171)
+[← Clase anterior](#cl-15250) · [Clase siguiente →](#cl-15252)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15171}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Elaborar diseños básicos de artículos textiles y de vestuario {#cl-15252}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar elaborar diseños básicos de artículos textiles y de vestuario a través de comparar alternativas y verificar la calidad: Elaborar diseños básicos de artículos textiles y de vestuario, con una experiencia disciplinar específica, segura y revisable.
@@ -1081,7 +1081,7 @@ Respuesta: No está lista
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15170) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-02.md#cl-15172)
+[← Clase anterior](#cl-15251) · [Primera clase del OA siguiente →](tp-vcte-3y4-oae-02.md#cl-15253)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

@@ -4,7 +4,7 @@ Este panel cuenta únicamente clases que publican un **cuaderno del estudiante**
 
 Se informa por separado la **validación automática** (estructura, cantidad, verificación aritmética de las respuestas calculables, ejercicios repetidos y plantillas dominantes) y la **revisión profesional**. Ninguna clase de este panel tiene revisión disciplinar humana documentada: el estado de revisión es *pendiente*.
 
-**Resumen:** 11482 de 11.718 clases desarrolladas tienen cuaderno del estudiante (98,0 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
+**Resumen:** 11684 de 11.920 clases desarrolladas tienen cuaderno del estudiante (98,0 %). Las experiencias de habilidades y actitudes integradas dentro de las clases no son clases propias y no llevan cuaderno por separado.
 
 ## Cobertura por nivel
 
@@ -26,8 +26,8 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio | 466 | 466 | 0 | completo | 0 | 7.923 | 932 | pendiente |
 | 3.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
 | 4.º medio HC | 780 | 780 | 0 | completo | 0 | 13.260 | 1.560 | pendiente |
-| 3.º medio TP | 642 | 642 | 0 | completo | 0 | 10.914 | 1.284 | pendiente |
-| 4.º medio TP | 675 | 675 | 0 | completo | 0 | 11.475 | 1.350 | pendiente |
+| 3.º medio TP | 723 | 723 | 0 | completo | 0 | 12.291 | 1.446 | pendiente |
+| 4.º medio TP | 796 | 796 | 0 | completo | 0 | 13.532 | 1.592 | pendiente |
 
 ## Objetivos con cuaderno
 
@@ -2178,6 +2178,20 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-09 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-10 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | atencion-de-parvulos | TP-ATPA-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-01 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-02 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-edificacion | TP-COED-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-01 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-03 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-04 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-07 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | construccion | TP-CONS-3-OAE-09 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | contabilidad | TP-CONT-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | contabilidad | TP-CONT-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | contabilidad | TP-CONT-3y4-OAE-02 | 5 | 5 | 85 | 10 |
@@ -2192,6 +2206,13 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | contabilidad | TP-CONT-3y4-OAE-06 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | contabilidad | TP-CONT-3y4-OAE-07 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | contabilidad | TP-CONT-3y4-OAE-07 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-01 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-03 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-obras-viales-e-infraestructura | TP-COOV-4-OAM-07 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2214,6 +2235,12 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-10 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-11 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | conectividad-y-redes | TP-CORE-3y4-OAE-11 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-terminaciones-de-la-construccion | TP-COTE-4-OAM-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-terminaciones-de-la-construccion | TP-COTE-4-OAM-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-terminaciones-de-la-construccion | TP-COTE-4-OAM-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | construccion-mencion-terminaciones-de-la-construccion | TP-COTE-4-OAM-04 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-terminaciones-de-la-construccion | TP-COTE-4-OAM-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | construccion-mencion-terminaciones-de-la-construccion | TP-COTE-4-OAM-06 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | dibujo-tecnico | TP-DITE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | dibujo-tecnico | TP-DITE-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | dibujo-tecnico | TP-DITE-3y4-OAE-02 | 4 | 4 | 68 | 8 |
@@ -2346,6 +2373,26 @@ Un nivel está **completo** cuando la columna «Pendientes» marca 0. Las «expe
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-07 | 5 | 5 | 85 | 10 |
 | 3.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | instalaciones-sanitarias | TP-INSA-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-01 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-02 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-03 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-03 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-04 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-05 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-06 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-07 | 5 | 5 | 85 | 10 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-07 | 5 | 5 | 85 | 10 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-08 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-09 | 4 | 4 | 68 | 8 |
+| 3.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-10 | 4 | 4 | 68 | 8 |
+| 4.º medio TP | montaje-industrial | TP-MOIN-3y4-OAE-10 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | programacion | TP-PROG-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 4.º medio TP | programacion | TP-PROG-3y4-OAE-01 | 4 | 4 | 68 | 8 |
 | 3.º medio TP | programacion | TP-PROG-3y4-OAE-02 | 4 | 4 | 68 | 8 |

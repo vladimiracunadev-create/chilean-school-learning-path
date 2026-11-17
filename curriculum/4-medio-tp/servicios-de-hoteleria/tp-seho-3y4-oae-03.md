@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15737) · [Clase 2](#cl-15738) · [Clase 3](#cl-15739) · [Clase 4](#cl-15740) · [Clase 5](#cl-15741)
+**Clases de este OA:** [Clase 1](#cl-15939) · [Clase 2](#cl-15940) · [Clase 3](#cl-15941) · [Clase 4](#cl-15942) · [Clase 5](#cl-15943)
 
-### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar reservas, check in y check out20 de clientes {#cl-15737}
+### Clase 1 de 5: Situar el contexto laboral, la norma y el riesgo: Realizar reservas, check in y check out20 de clientes {#cl-15939}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar reservas, check in y check out20 de clientes a través de situar el contexto laboral, la norma y el riesgo: Realizar reservas, check in y check out20 de clientes, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: No tiene costo
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-seho-3y4-oae-02.md#cl-15736) · [Clase siguiente →](#cl-15738)
+[← Última clase del OA anterior](tp-seho-3y4-oae-02.md#cl-15938) · [Clase siguiente →](#cl-15940)
 
-### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar reservas, check in y check out20 de clientes {#cl-15738}
+### Clase 2 de 5: Reconocer conceptos, documentos y roles del oficio: Realizar reservas, check in y check out20 de clientes {#cl-15940}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar reservas, check in y check out20 de clientes a través de reconocer conceptos, documentos y roles del oficio: Realizar reservas, check in y check out20 de clientes, con una experiencia disciplinar específica, segura y revisable.
@@ -459,9 +459,9 @@ Respuesta: 60 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15737) · [Clase siguiente →](#cl-15739)
+[← Clase anterior](#cl-15939) · [Clase siguiente →](#cl-15941)
 
-### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar reservas, check in y check out20 de clientes {#cl-15739}
+### Clase 3 de 5: Analizar un caso de trabajo en papel: Realizar reservas, check in y check out20 de clientes {#cl-15941}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar reservas, check in y check out20 de clientes a través de analizar un caso de trabajo en papel: Realizar reservas, check in y check out20 de clientes, con una experiencia disciplinar específica, segura y revisable.
@@ -666,9 +666,9 @@ Respuesta: Viernes y sábado, 2 noches
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15738) · [Clase siguiente →](#cl-15740)
+[← Clase anterior](#cl-15940) · [Clase siguiente →](#cl-15942)
 
-### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar reservas, check in y check out20 de clientes {#cl-15740}
+### Clase 4 de 5: Aplicar un criterio técnico con datos de ejemplo: Realizar reservas, check in y check out20 de clientes {#cl-15942}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar reservas, check in y check out20 de clientes a través de aplicar un criterio técnico con datos de ejemplo: Realizar reservas, check in y check out20 de clientes, con una experiencia disciplinar específica, segura y revisable.
@@ -873,9 +873,9 @@ Respuesta: 1 habitación más
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15739) · [Clase siguiente →](#cl-15741)
+[← Clase anterior](#cl-15941) · [Clase siguiente →](#cl-15943)
 
-### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar reservas, check in y check out20 de clientes {#cl-15741}
+### Clase 5 de 5: Comparar alternativas y verificar la calidad: Realizar reservas, check in y check out20 de clientes {#cl-15943}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar reservas, check in y check out20 de clientes a través de comparar alternativas y verificar la calidad: Realizar reservas, check in y check out20 de clientes, con una experiencia disciplinar específica, segura y revisable.
@@ -1080,7 +1080,7 @@ Respuesta: No: falta uno
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15740) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-04.md#cl-15742)
+[← Clase anterior](#cl-15942) · [Primera clase del OA siguiente →](tp-seho-3y4-oae-04.md#cl-15944)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

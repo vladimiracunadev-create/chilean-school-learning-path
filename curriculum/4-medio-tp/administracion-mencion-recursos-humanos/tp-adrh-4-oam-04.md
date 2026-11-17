@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15232) · [Clase 2](#cl-15233) · [Clase 3](#cl-15234) · [Clase 4](#cl-15235)
+**Clases de este OA:** [Clase 1](#cl-15313) · [Clase 2](#cl-15314) · [Clase 3](#cl-15315) · [Clase 4](#cl-15316)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15232}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15313}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas sistemáticas de descripción de cargos a través de situar el contexto laboral, la norma y el riesgo: Ejecutar tareas sistemáticas de descripción de cargos, con una experiencia disciplinar específica, segura y revisable.
@@ -253,9 +253,9 @@ Ficha 59 (caso ficticio). «Servicios Quillay Ltda.» necesita contratar un o un
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-adrh-4-oam-03.md#cl-15231) · [Clase siguiente →](#cl-15233)
+[← Última clase del OA anterior](tp-adrh-4-oam-03.md#cl-15312) · [Clase siguiente →](#cl-15314)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15233}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15314}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas sistemáticas de descripción de cargos a través de reconocer conceptos, documentos y roles del oficio: Ejecutar tareas sistemáticas de descripción de cargos, con una experiencia disciplinar específica, segura y revisable.
@@ -463,9 +463,9 @@ Ficha 60 (formatos de ejemplo, inventados) de «Servicios Quillay Ltda.». Descr
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15232) · [Clase siguiente →](#cl-15234)
+[← Clase anterior](#cl-15313) · [Clase siguiente →](#cl-15315)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15234}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15315}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas sistemáticas de descripción de cargos a través de analizar un caso de trabajo en papel: Ejecutar tareas sistemáticas de descripción de cargos, con una experiencia disciplinar específica, segura y revisable.
@@ -673,9 +673,9 @@ Ficha 61 (caso de ejemplo, inventado) de «Servicios Quillay Ltda.». Descriptor
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15233) · [Clase siguiente →](#cl-15235)
+[← Clase anterior](#cl-15314) · [Clase siguiente →](#cl-15316)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15235}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Ejecutar tareas sistemáticas de descripción de cargos {#cl-15316}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar ejecutar tareas sistemáticas de descripción de cargos a través de aplicar un criterio técnico con datos de ejemplo: Ejecutar tareas sistemáticas de descripción de cargos, con una experiencia disciplinar específica, segura y revisable.
@@ -883,7 +883,7 @@ Ficha 62 (datos de ejemplo, inventados) de «Servicios Quillay Ltda.». Proceso 
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15234)
+[← Clase anterior](#cl-15315)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.

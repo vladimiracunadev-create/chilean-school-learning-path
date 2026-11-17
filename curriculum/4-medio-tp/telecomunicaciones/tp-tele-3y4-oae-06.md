@@ -43,9 +43,9 @@ Estos recursos asociados no constituyen una lista nacional obligatoria. Este rep
 ## Planificación clase a clase
 La dosificación responde a la amplitud y demanda cognitiva del OA. Intercala recuperación o amplía transferencia según evidencia, manteniendo el objetivo.
 
-**Clases de este OA:** [Clase 1](#cl-15822) · [Clase 2](#cl-15823) · [Clase 3](#cl-15824) · [Clase 4](#cl-15825)
+**Clases de este OA:** [Clase 1](#cl-16024) · [Clase 2](#cl-16025) · [Clase 3](#cl-16026) · [Clase 4](#cl-16027)
 
-### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-15822}
+### Clase 1 de 4: Situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-16024}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones a través de situar el contexto laboral, la norma y el riesgo: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -251,9 +251,9 @@ Respuesta: 4 veces
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Última clase del OA anterior](tp-tele-3y4-oae-05.md#cl-15821) · [Clase siguiente →](#cl-15823)
+[← Última clase del OA anterior](tp-tele-3y4-oae-05.md#cl-16023) · [Clase siguiente →](#cl-16025)
 
-### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-15823}
+### Clase 2 de 4: Reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-16025}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones a través de reconocer conceptos, documentos y roles del oficio: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -458,9 +458,9 @@ Respuesta: 90 %
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15822) · [Clase siguiente →](#cl-15824)
+[← Clase anterior](#cl-16024) · [Clase siguiente →](#cl-16026)
 
-### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-15824}
+### Clase 3 de 4: Analizar un caso de trabajo en papel: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-16026}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones a través de analizar un caso de trabajo en papel: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -664,9 +664,9 @@ Respuesta: 3 meses
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15823) · [Clase siguiente →](#cl-15825)
+[← Clase anterior](#cl-16025) · [Clase siguiente →](#cl-16027)
 
-### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-15825}
+### Clase 4 de 4: Aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones {#cl-16027}
 **Estado editorial:** Desarrollada con contenido específico.
 
 **Propósito docente:** Enseñar realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones a través de aplicar un criterio técnico con datos de ejemplo: Realizar mantenimiento y reparaciones menores en equipos y sistemas de telecomunicaciones, con una experiencia disciplinar específica, segura y revisable.
@@ -870,7 +870,7 @@ Respuesta: Se deriva al servicio técnico autorizado
 **Coordinación de roles profesionales:** El docente de la especialidad y el instructor autorizado conducen toda práctica en taller, laboratorio o terreno; el cuaderno solo trabaja conceptos y casos en papel, sin habilitar para trabajar, y la coordinación TP gestiona la práctica profesional según la norma vigente.
 
 
-[← Clase anterior](#cl-15824) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-07.md#cl-15826)
+[← Clase anterior](#cl-16026) · [Primera clase del OA siguiente →](tp-tele-3y4-oae-07.md#cl-16028)
 
 ## Evaluación integradora y realidad escolar
 Evalúa contenido, respuesta al verbo, evidencia o razonamiento y comunicación/revisión. Registra evidencia individual. La propuesta funciona con pizarra, cuaderno y materiales disponibles; la conectividad no es requisito. En cursos numerosos usa respuestas simultáneas, estaciones y grupos temporales. Considera diversidad lingüística, cultural, sensorial y motriz.
